@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1983-08-08"
+last_updated: "1983-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1983.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -227,9 +227,13 @@ Las Sucursales que operen en lugares distintos de donde radica la Casa Matriz, t
 
 Tanto a las personas físicas como a las morales, les será lícito designar un domicilio convencional para el cumplimiento de obligaciones determinadas.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
+
 ## TITULO CUARTO.
 
 DEL REGISTRO CIVIL.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -237,113 +241,81 @@ Disposiciones Generales.
 
 ###### Art. 36.
 
-En el Estado de Hidalgo estará a cargo de los Presidentes Municipales como Jueces o Encargados del Registro Civil autorizar los actos del Estado Civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en sus Municipios, así como inscribir las ejecutorias que declaran la ausencia, la presunción de muerte, el divorcio, o que se ha perdido la capacidad legal para administrar bienes.
-
-En los casos de epidemias, revoluciones, por razón de la distancia, por trastornos políticos o por causas graves a juicio del Ejecutivo, después de haber oído al Presidente Municipal respectivo y al Ministerio Público, en las Rancherías o pequeñas Poblaciones, el propio Ejecutivo del Estado podrá autorizar por tiempo limitado, Oficialías del Registro Civil en esos lugares, teniendo los Oficiales las mismas funciones y obligaciones que éste Código da a los Jueces del Registro Civil. En la primera hoja de los libros que servirán para asentar las actas del Registro Civil se harán constar las autorizaciones expresas y el tiempo por el que deberá funcionar la Oficialía.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 37.
 
-Las Oficinas del Registro Civil llevarán por duplicado siete libros que se denominan "REGISTRO CIVIL" y que contendrán: el Primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo las inscripciones de las ejecutorias que declaren la ausencia, la presunción de la muerte o que se ha perdido la capacidad legal para administrar bienes.
-
-Toda acta deberá asentarse en los dos ejemplares del Registro, y se procurará tener esqueletos impresos para levantar las diferentes actas.
-
-El Presidente Municipal que no cumpla con llevar el Libro duplicado, por cada falta de un Libro será sancionado con doscientos pesos de multa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 38.
 
-Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo anterior.
-
-La infracción de esta regla producirá la nulidad del acta y se castigará con multa de un mil pesos por cada acta que se haya levantado fuera de los libros correspondientes, o con seis meses de arresto en caso de insolvencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 39.
 
-Si se perdiere o destruyere alguno de los Libros del Registro, se sacará inmediatamente copia del otro ejemplar ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la Autoridad a quien se hubieren remitido los duplicados.
-
-El Procurador de Justicia del Estado cuidará de que se cumpla esta disposición, y a ese efecto, el Juez del Registro o el Encargado del Archivo del Gobierno, le dará aviso de la pérdida.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 40.
 
-El Estado Civil de las personas sólo se comprueba por las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el Estado civil salvo los casos expresamente exceptuados por la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 41.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno sólo de los Registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 42.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Secretario General del Gobierno del Estado y se pondrá el sello de la Secretaría General en el fondo de las hojas del Libro, de manera que queden selladas las dos caras. Todas las demás hojas del Libro serán rubricadas en el centro por el Encargado del Registro Civil.- Los Libros se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que les correspondan, remitiéndose el otro ejemplar, el duplicado, en el transcurso del primer mes del año siguiente, al archivo del Gobierno del Estado. La falta de remisión del duplicado se sancionará con cien pesos de multa al Presidente Municipal, por cada libro.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 43.
 
-El Encargado del Registro Civil, que no cumpla la prevención de remitir oportunamente a la mencionada Oficina todos los ejemplares de un año de que habla el artículo anterior, será sancionado con mil pesos de multa o seis meses de arresto en caso de insolvencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 44.
 
-No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 45.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia o Conciliador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 46.
 
-En la formación de las actas del Registro Civil se observarán las siguientes reglas:
-
-I.- Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose los que designen los interesados, aún cuando sean sus parientes;
-
-II.- Extendida en los libros el acta, será leída por el Encargado del Registro Civil a los interesados y dos testigos; la firmarán todos, y si algunos no pueden hacerlo, se expresará la causa. También se expresará que el acta fué leída y quedaron conformes los interesados con su contenido;
-
-III.- Si alguno de los interesados quisiere imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no supiere leer, uno de los testigos designados por él leerá aquella y la firmará si el interesado no supiere hacerlo;
-
-IV.- Si un acto comenzado se entorpeciere porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y expresándose el motivo porque se suspendió, razón que deberán firmar el Encargado del Registro, los interesados y los testigos;
-
-V.- Las actas se numerarán y escribirán una después de otra, sin dejar entre ellas ningún renglón entero en blanco;
-
-VI.- Tanto el número ordinal de las actas, como el de las fechas o cualquier otro, serán escritos en cifras aritméticas, y además con todas sus letras;
-
-VII.- En ninguna frase se emplearán abreviaturas;
-
-VIII.- No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito, cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible, salvo los casos a que se refiere el artículo 133. La infracción de las disposiciones contenidas en esta fracción y las tres anteriores, se castigará con multa de veinticinco pesos;
-
-IX.- Al fin de cada acta se salvará con toda claridad lo entrerrenglonado y testado;
-
-X.- Los puntos dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta y el sello del Registro y se reunirán y depositarán en el archivo correspondiente, formándose un índice de ellos en las últimas hojas de los libros correspondientes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 47.
 
-La falsificación de las actas y la inserción dolosa en éllas de circunstancias o declaraciones prohibidas por la Ley, causarán la destitución del Encargado del Registro Civil, sin perjuicio de las penas que la Ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 48.
 
-Los vicios o defectos que haya en las actas sujetan al Encargado del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 49.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados y los registradores estarán obligados a darlo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 50.
 
-Los actos y actas del estado civil relativas al Encargado del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Encargado del Registro; pero se asentarán en los propios libros y se autorizarán por la persona que conforme a la Ley deba substituir a la primera autoridad política municipal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 51.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Encargado del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia sin perjuicio de que el acta pueda ser redargüida de falsa.
-
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 52.
 
-Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias debidamente legalizadas que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Estado Civil.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 53.
 
-Las faltas del Presidente Municipal como Juez del Registro Civil, se suplirán conforme a las leyes que reglamenten el funcionamiento de los Presidentes Municipales en el Estado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 54.
 
-El Ministerio Público cuidará de que los Libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los Libros del año anterior remitidos a los Archivos del Gobierno del Estado para el efecto de hacer la consignación correspondiente de los Encargados del Registro Civil que hubieren cometido delitos en el ejercicio de su encargo o dar aviso a las Autoridades Administrativas de las faltas en que hubieren incurrido los empleados.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
-La infracción de este artículo produce responsabilidad para los Agentes del Ministerio Público.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -351,95 +323,85 @@ De las Actas de Nacimiento.
 
 ###### Art. 55.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Encargado del Registro Civil, en su Oficina o en la casa donde aquél hubiere nacido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 56.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días de ocurrido aquél, y, en su defecto la madre dentro de los cuarenta días.
-
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Encargado del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
-
-Recibido el aviso, el Encargado del Registro Civil tomará las medidas legales que sean necesarias, a fín de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 57.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a diez pesos que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
-
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 58.
 
-Cuando el niño nazca en lugares donde no exista Registro Civil, los plazos a que se refiere el Artículo 56, podrán aumentarse en diez días más.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 59.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas, contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
-
-Si éste se presenta como hijo de padres desconocidos, el Encargado del Registro le pondrá nombre y apellido haciéndose constar esta circunstancia en el acta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 60.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el artículo 45 declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 61.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 45; haciéndose constar en todo caso la petición.
-
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
-
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.- Cuando se inscriba el nacimiento de un hijo natural a solicitud de persona distinta a la de los padres, el acta probará solamente el nacimiento, y cuando se inscriba por la presentación que haga alguno de los padres, entonces el acta probará la filiación natural únicamente con relación a quien lo presenta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 62.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Encargado del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 63.
 
-Si el hijo procede de adulterio, no podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 64.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Encargado del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 65.
 
-Podrá reconocerse al hijo que resulte de unión incestuosa. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 66.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Encargado del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 67.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad, e inclusas, respecto de los niños nacidos o expuestos en ellas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 68.
 
-En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el Artículo 66, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 69.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 70.
 
-Se prohibe absolutamente al Encargado del Registro Civil y a los testigos que conforme al Artículo 59 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 71.
 
-El Encargado del Registro Civil que reciba alguna de las constancias a que se refieren los artículos 70 a 73 del Código Civil del Distrito Federal, en relación con personas domiciliadas en el Estado de Hidalgo, asentarán desde luego el acta correspondiente en los libros de su Oficina y archivará aquella constancia, anotándola con el número correspondiente al acta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 72.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Encargado del Registro Civil del domicilio de los padres, si éstos lo pidieren y en el segundo, se tendrá para hacer el registro el término que señale el artículo 56 con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 73.
 
-Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 74.
 
-En el acta de nacimiento de gemelos, el Encargado del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comuniquen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -447,31 +409,33 @@ De las Actas de Reconocimiento de Hijos Naturales.
 
 ###### Art. 75.
 
-Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de la Ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 76.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada. Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 77.
 
-Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya hecho después del término de la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 78.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al Encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento observándose las demás prescripciones contenidas en este Capítulo y en el Capítulo IV, del Título Séptimo de este Libro.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 79.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el Juez ante quien se haga valer el reconocimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 80.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 81.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Encargado del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al Encargado de la Oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IV.
 
@@ -479,23 +443,25 @@ De las Actas de Adopción.
 
 ###### Art. 82.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días presentará al Encargado del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 83.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 79.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 84.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 85.
 
-Extendida el acta de adopción se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 86.
 
-El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Encargado del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO V.
 
@@ -503,31 +469,21 @@ De las Actas de Tutela.
 
 ###### Art. 87.
 
-Pronunciando el auto de discernimiento de la tutela, y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Encargado del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 88.
 
-La omisión del Registro de Tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y al curador en los términos que establece el artículo 79.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 89.
 
-El acta de tutela contendrá:
-
-I.- El nombre, apellido y edad del incapacitado;
-
-II.- La clase de incapacidad por la que se haya diferido la tutela;
-
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
-
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
-
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
-
-VI.- El nombre del Juez que pronunció el auto del discernimiento y la fecha de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 90.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma Oficina del Registro, lo prevenido en el artículo 81.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VI.
 
@@ -535,19 +491,21 @@ De las Actas de Emancipación.
 
 ###### Art. 91.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Encargado del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró así como el número y la foja del acta relativa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 92.
 
-Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del Juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 93.
 
-Si en la Oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Encargado del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 94.
 
-La omisión del Registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 79.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VII.
 
@@ -555,123 +513,73 @@ De las Actas de Matrimonio.
 
 ###### Art. 95.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Encargado del Registro Civil del domicilio de cualquiera de ellas, que exprese:
-
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueron conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
-
-II.- Que no tienen impedimento legal para casarse, y
-
-III.- Que es su voluntad unirse en matrimonio. Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 96.
 
-Al escrito a que se refiere el Artículo anterior, se acompañará:
-
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictámen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
-
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 151, 152 y 153;
-
-III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
-
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, haber examinado a los pretendientes y denotar dicho examen que no padecen sífilis, tuberculosis, locura, lepra u otras enfermedades contagiosas y hereditarias, ni en general, enfermedad alguna o conformación que constituya un impedimento para el matrimonio. El hombre debe ser examinado para investigar si no padece blenorragia.- En los lugares en que no haya médicos titulados, el certificado será expedido por las personas que puedan suplirlos conforme a la Ley Reglamentaria del Ejercicio de Profesiones. En los lugares donde las Delegaciones de Salubridad o los especialistas tengan laboratorios, puede suplirse el certificado médico por medio de los certificados de los análisis correspondientes.
-
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de Salubridad.
-
-V.- El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de SOCIEDAD CONYUGAL VOLUNTARIA, SOCIEDAD CONYUGAL LEGAL o bajo el régimen de SEPARACION DE BIENES. Si los pretendientes son menores de edad deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio; pero podrá en su lugar manifestarse expresamente que se opta consciente y deliberadamente por el régimen de sociedad legal. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 269 y 284 y el Encargado del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede correctamente formulado.- Si los pretendientes quisieren casarse bajo el régimen de Sociedad Conyugal Voluntaria y de acuerdo con lo dispuesto en el artículo 265 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
-
-VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
-
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 97.
 
-En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la Fracción V del artículo anterior, tendrá obligación de redactarlo el Encargado del Registro Civil, con los datos que los mismos pretendientes le suministren.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 98.
 
-El Encargado del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la Fracción III del artículo 96 serán ratificadas bajo protesta de decir verdad, ante el mismo Encargado del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 99.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Encargado del Registro Civil.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 100.
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el Encargado del Registro Civil, los pretendientes o su apoderado especial constituído en la forma prevenida por el Artículo 45, y dos testigos por cada uno de ellos, que acrediten su identidad.
-
-Acto continuo, el Encargado del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes, los declarará unidos en nombre de la Ley y de la Sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 101.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
-
-I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
-
-II.- Si son mayores o menores de edad;
-
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
-
-IV.- En su caso el consentimiento de éstos, de los abuelos o tutores o el de las autoridades que deban suplirlo;
-
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
-
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Juez en nombre de la Ley y de la Sociedad;
-
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de SOCIEDAD CONYUGAL LEGAL, SOCIEDAD CONYUGAL VOLUNTARIA o de SEPARACION DE BIENES, y la transcripción del convenio a que se refiere la Fracción V del artículo 96.
-
-Queda prohibido entrerrenglonar estas circunstancias, adicionarlas o modificarlas, en la misma acta de matrimonio.
-
-VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes y si lo son, en qué grado y en qué línea;
-
-IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
-
-El acta será firmada por el Encargado del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
-
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
-
-El Encargado del Registro Civil que no cumpla con la Fracción VII de este artículo sufrirá una multa de cien pesos, que se impondrá a solicitud del Ministerio Público y prescribirá en cuatro años.- En caso de reincidencia, el Encargado del Registro Civil será castigado con suspensión de su empleo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 102.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Fracción IV del artículo 96, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hiciere pasar por padres o tutores de los pretendientes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 103.
 
-El Encargado del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta ante dos testigos en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieron, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 104.
 
-Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 105.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Encargado del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 106.
 
-Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Encargado del Registro Civil dará cuenta a la autoridad Judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 107.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 108.
 
-El Encargado del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal o de que éste se ha denunciado, será separado de su cargo sin perjuicio de la responsabilidad penal en que pueda haber incurrido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 109.
 
-Los Encargados del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 110.
 
-El Encargado del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos y en caso de reincidencia, con la destitución de su cargo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 111.
 
-El Encargado del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fín de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los Médicos que suscriban el certificado exigido por la Fracción IV del artículo 96.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VIII.
 
@@ -679,15 +587,17 @@ De las Actas de Divorcio.
 
 ###### Art. 112.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Encargado del Registro Civil para que levante el acta correspondiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 113.
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio y del auto que la declara ejecutoriada.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 114.
 
-Extendida el acta, se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IX.
 
@@ -695,75 +605,65 @@ De las Actas de Defunción.
 
 ###### Art. 115.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Encargado del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la Autoridad que corresponda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 116.
 
-En el acta de fallecimiento se asentarán los datos que el Encargado del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquél en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 117.
 
-El acta de fallecimiento contendrá:
-
-I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
-
-II.- El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
-
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
-
-IV.- Los nombres de los padres del difunto si se supieren;
-
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
-
-VI.- La hora de la muerte si se supiere, y todos los informes que se tengan en caso de muerte violenta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 118.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Encargado del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 119.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya Oficina del Registro, la primera autoridad política extenderá la constancia respectiva que remitirá al Encargado del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 120.
 
-Cuando el Encargado del Registro Civil sospeche que la muerte fué violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento dará parte al Encargado del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado, y en general todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Encargado del Registro Civil para que los anote al margen del acta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 121.
 
-En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando en cuanto fuere posible, las señas del mismo y de los vestidos ú objetos que con él se hayan encontrado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 122.
 
-Si no parece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece, y las demás noticias que sobre el suceso puedan adquirirse.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 123.
 
-En caso de muerte accidental o de origen delictuoso el acta de defunción será levantada por el Encargado del Registro Civil del lugar o por el Presidente Municipal de la cabecera del Distrito que corresponda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 124.
 
-Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Encargado del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 125.
 
-El Jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte a la Oficina del Registro Civil, de los muertos que haya habido en campaña o en otro acto del servicio, especificándose la filiación; el Encargado del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 126.
 
-Los Tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Encargado del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 127.
 
-En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 117.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 128.
 
-Si por haber ocurrido la muerte en despoblado, por ignorancia o por cualquier otro motivo no se hubiere levantado oportunamente un acta de defunción, los interesados o el Ministerio Público promoverán información testimonial ante un Juez de Primera Instancia, y con esas diligencias el Encargado del Registro Civil levantará el acta omitida.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 129.
 
-En los Registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO X.
 
@@ -771,15 +671,17 @@ Inscripción de las Ejecutorias que Declaren la Incapacidad Legal para Administr
 
 ###### Art. 130.
 
-Las Autoridades Judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Encargado del Registro Civil que corresponda copia certificada de la ejecutoria respectiva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 131.
 
-El Encargado del Registro levantará el acta correspondiente, en la que se insertará la resolución judicial que se le haya comunicado, anotando el acta de nacimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 132.
 
-Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente, o cuya muerte se presumía, se dará aviso al Encargado del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XI.
 
@@ -787,51 +689,41 @@ De la Nulificación, Reposición, Convalidación, Rectificación y Testadura de 
 
 ###### Art. 133.
 
-La nulificación, rectificación y reposición de las actas del Estado Civil no puede hacerse sino mediante sentencia ejecutoria; la convalidación podrá hacerse en esa forma, si se prueba la realidad del acto asentado, o por ratificación voluntaria de los interesados. La testadura se hará de oficio por el Encargado del Registro Civil, cuando se advierta que se hizo alguna de las menciones que prohiben los artículos 63, 64 y 444 de este Código. En estos casos la testadura se hará por completo, de manera que queden absolutamente ilegibles y se advertirá al final del acta la causa porque se ha hecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 134.
 
-Hay lugar a pedir la nulificación, en todo o en parte, de una acta del Registro Civil, cuando el suceso registrado no haya ocurrido o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 135.
 
-Cuando el acto haya ocurrido, pero se declare nulo con posterioridad, el acta sólo será anotada al margen desde la fecha de esta declaración.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 136.
 
-Podrá pedirse la rectificación:
-
-I.- Cuando habiendo ocurrido realmente el acto y habiendo intervenido personas legalmente obligadas o facultadas, se hicieren constar estados o vínculos que no corresponden a la realidad establecida por una sentencia o se omitieron indebidamente;
-
-II.- Cuando se solicite variar algún nombre puesto erróneamente ú otra circunstancia accidental.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 137.
 
-No será permitido a persona alguna cambiar su nombre modificando el acta de su nacimiento; pero si alguien hubiere sido conocido con nombre diferente al que aparece en su acta, declarado este hecho por sentencia ejecutoriada, se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primitivamente se haya asentado en los Libros del Registro.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 138.
 
-Procede la reposición cuando el acta ha sufrido una falsificación o alteración material después de asentada. Comprobado el delito deberá restituirse el texto a su forma original, anotando al margen el cambio que se hace y la sentencia que así lo haya ordenado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 139.
 
-Pueden pedir judicialmente la nulificación, rectificación, reposición o convalidación de las actas del Estado Civil:
-
-I.- Las personas de cuyo estado se trate;
-
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
-
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
-
-IV.- Los que según los Artículos 421 a 424 de este Código pueden continuar o intentar la acción de que en éllos se trata.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 140.
 
-La sentencia que cause ejecutoria se comunicará al Encargado del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ## TITULO QUINTO.
 
 DEL MATRIMONIO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -839,37 +731,33 @@ De los Esponsales.
 
 ###### Art. 141.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 142.
 
-Sólo puede celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 143.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 144.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 145.
 
-El que sin causa grave, a juicio del Juez rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio ú otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el Juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 146.
 
-Las acciones a que se refiere el artículo que precede, solo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 147.
 
-Si el matrimonio no se celebrare, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -877,93 +765,69 @@ De los Requisitos para Contraer Matrimonio.
 
 ###### Art. 148.
 
-El matrimonio debe celebrarse ante los funcionarios que establece la Ley y con las formalidades que ella exige.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 149.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 150.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
-
-Los Jueces de Primera Instancia, en jurisdicción voluntaria, pueden conceder dispensa de edad por causas graves y justificadas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 151.
 
-El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 152.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 153.
 
-Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o nó el consentimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 154.
 
-Si el Juez, en el caso del artículo 152 se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 155.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Encargado del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 156.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 99.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 157.
 
-El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 158.
 
-Son impedimentos para celebrar el contrato de matrimonio:
-
-I.- La falta de edad requerida por la Ley, cuando no haya sido dispensada;
-
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
-
-III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
-
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
-
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
-
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
-
-VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituída a lugar seguro, donde libremente pueda manifestar su voluntad;
-
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la blenorragia, la tuberculosis, la lepra, la locura y las enfermedades crónicas e incurables que sean además contagiosas o hereditarias;
-
-IX.- El idiotismo y la imbecilidad;
-
-X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
-
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 159.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 160.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 161.
 
-El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de Primera Instancia del Distrito Judicial que corresponda, sino cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 162.
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el Juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 163.
 
-En el Estado de Hidalgo no se tendrá por probado el matrimonio de mexicanos casados en el extranjero sino hasta que se transcriba el acta de matrimonio civil, en cualquier lugar de la República o en el Registro Civil del lugar del Estado de Hidalgo, a donde lleguen a domiciliarse los cónyuges. Si la transcripción se hace después del término de noventa días de internados los esposos al país, se impondrá al esposo una multa hasta por cincuenta pesos por el Presidente Municipal del lugar, a petición del Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
-Las Oficinas del Registro Civil en el Estado deberán hacer la transcripción inmediatamente que se presente la copia del acta debidamente legalizada.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -971,109 +835,111 @@ De los Derechos y Obligaciones que Nacen del Matrimonio.
 
 ###### Art. 164.
 
-Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 165.
 
-La mujer debe vivir al lado de su marido. Los Tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 166.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 167.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 168.
 
-El marido tendrá el derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 169.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales, por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
-
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de Primera Instancia del Distrito donde estuviere el domicilio conyugal, procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 170.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 171.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 172.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)v
 
 ###### Art. 173.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 171 no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el Juez respectivo resolverá lo que sea procedente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 174.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 175.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 176.
 
-La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 177.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
-
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer. Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 178.
 
-El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 179.
 
-El marido y la mujer, durante el matrimonio podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IV.
 
 Del Contrato de Matrimonio con Relación a los Bienes.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
+
 Disposiciones Generales
 
 ###### Art. 180.
 
-El contrato de matrimonio debe celebrarse bajo el régimen de sociedad voluntaria, separación de bienes o sociedad legal. Si en el texto de la acta de matrimonio no se hiciere mención del régimen o si no hubiere capitulaciones matrimoniales estableciendo alguno de los dos regímenes mencionados en primer término, se entenderá celebrado el matrimonio bajo el de sociedad legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 181.
 
-Las capitulaciones matrimoniales son los pactos que los esposos celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 182.
 
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 183.
 
-El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 184.
 
-Son nulos los pactos que los esposos hicieren contra las Leyes o los naturales fines del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 185.
 
-El matrimonio contraído fuera del Estado de Hidalgo, por personas que vengan después a domiciliarse en él, se sujetará a las Leyes del lugar en que se celebró, salvo lo dispuesto en el artículo 14 y sin perjuicio de lo que los consortes acordaren por capitulaciones posteriores, otorgadas conforme a este Código.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 186.
 
-La propiedad y la administración de bienes inmuebles situados en el Estado de Hidalgo, adquiridos por consortes domiciliados o no dentro del mismo Estado, pero cuyo matrimonio se celebró fuera de él bajo capitulaciones matrimoniales expresas, se regirán por lo que tales capitulaciones establezcan.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 187.
 
-A falta de capitulaciones matrimoniales o tratándose de matrimonio celebrado fuera del Estado bajo el régimen conyugal presunto, la propiedad y administración de los bienes que los consortes adquieran y que se encuentren situados en el Estado de Hidalgo, se regirán por las disposiciones del régimen de Sociedad Legal a que se refiere el siguiente capítulo, salvo prueba en contrario por lo que hace a terceros, y en cuanto a los esposos entre ellos, sus relaciones se regirán por el sistema matrimonial conforme al cual se casaron.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO V.
 
@@ -1081,125 +947,101 @@ De la Sociedad Legal.
 
 ###### Art. 188.
 
-El régimen de Sociedad Legal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de los consortes y cuya representación exclusiva y plena corresponde al marido como una de las funciones que la Ley le asigna dentro del matrimonio, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precisen sino al liquidarse la sociedad por las causas que la Ley establece.
-
-Dentro del régimen de sociedad legal, la mujer no puede comparecer en juicio por sí o por procurador, pero su esposo puede autorizarla, y una vez dada la autorización, sirve para todas las instancias, a menos que sea especial para una sola, lo que no se presume si no se expresa. Tampoco podrá la esposa, sin licencia de su marido, adquirir por título oneroso o lucrativo para la sociedad o enajenar los bienes de la sociedad, ni obligarse en ninguna forma en nombre de la sociedad legal, sino en los casos especificados en la Ley.
-
-El esposo puede autorizar a su esposa tanto para litigar como para contratar dentro del régimen de sociedad legal, en términos generales o especiales.
-
-Si el esposo estuviere ausente del domicilio conyugal o si estando presente rehusara sin justa causa autorizar a su esposa para litigar o contratar, la autoridad judicial podrá conceder autorización.
-
-La mujer no necesita licencia del marido ni autorización judicial: para defenderse en juicio criminal; para litigar con su marido; para disponer de sus bienes por testamento; para litigar o contratar cuando estuviere legalmente separada de su marido o se trate de sus bienes propios como se dispone en los Artículos 174 y 175.
-
-La anulación de los actos de la esposa, por falta de licencia marital o judicial, no podrá pedirse sino por ella misma, por el esposo o por los herederos de ambos. Si el marido ha ratificado expresa o tácitamente los hechos de su mujer, ninguno podrá pedir su anulación.
-
-Ninguna otra persona, ni aún los fiadores o conjuntos del contrato, puede pedir la anulación a que se refiere el párrafo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 189.
 
-La sociedad legal nace desde el momento en que se celebra el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 190.
 
-Ninguno de los cónyuges puede considerarse como tercero respecto de la sociedad por lo que ve a obligaciones a cargo de ésta que afecten los bienes sociales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 191.
 
-Son propios de cada cónyuge los bienes de que era dueño al tiempo de celebrarse el matrimonio y los que poseía antes de éste, aunque no fuera dueño de ellos, si los adquiere por prescripción durante la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 192.
 
-Lo son también los que durante la sociedad adquiere cada cónyuge por dón de la fortuna, por donación de cualquiera especie, por herencia o por legado, constituídos a favor de uno solo de éllos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 193.
 
-Si las donaciones fueren onerosas, se deducirá de la dote o del capital del marido, en su respectivo caso, el importe de las cargas de aquellas, siempre que hayan sido reportadas por la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 194.
 
-Son propios de cada consorte los bienes adquiridos por compraventa u otro título propio, que sea anterior al matrimonio, aunque la presentación se haya hecho después de la celebración de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 195.
 
-Los gastos que se hubieren causado para hacer efectivo el título, serán a cargo del dueño de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 196.
 
-Son propios los bienes adquiridos por compra o permuta de los raíces que pertenezcan a los cónyuges, para adquirir otros también raíces que se sustituyan en lugar de los vendidos o permutados.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 197.
 
-Cuando se vendan los bienes inmuebles propios de uno de los cónyuges y su precio no se invierta en comprar otros inmuebles, el precio adquirido se considerará como propio del cónyuge dueño de los bienes vendidos, si éstos entraron a la sociedad conyugal sin ser estimados; pero si se estimaron al celebrarse el matrimonio o al otorgarse las capitulaciones matrimoniales, serán de propiedad del dueño del predio en que fueron estimados, reputándose como ganancias o pérdidas de la sociedad el aumento o disminución que hayan tenido al ser enajenados.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 198.
 
-Es propio de cada cónyuge lo que adquiere por la consolidación de la propiedad y el usufructo, así como son a su cargo los gastos que se hubieren hecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 199.
 
-Si alguno de los cónyuges tuviere derecho a una prestación exigible en plazos que no tenga el carácter de usufructo, las cantidades cobradas por los plazos vencidos durante el matrimonio no serán gananciales, sino propias de cada cónyuge.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 200.
 
-Forman el fondo de la sociedad legal:
-
-I.- Todos los bienes adquiridos por el marido en la milicia o por cualquiera de los cónyuges en el ejercicio de una profesión científica, mercantil o industrial, o por trabajo mecánico;
-
-II.- Los bienes que provengan de herencia, legado o donación hecha a ambos cónyuges sin designación de partes. Si hubiere designación de partes, y éstas fueren desiguales, sólo serán comunes los frutos de la herencia, legado o donación;
-
-III.- El precio sacado de la masa común de bienes para adquirir fincas por retroventa u otro título que nazca de derecho propio de alguno de los cónyuges anterior al matrimonio;
-
-IV.- El precio de las refacciones de créditos, y el de cualesquiera mejoras y reparaciones hechas en fincas o créditos propios de uno de los cónyuges;
-
-V.- El exceso o diferencia de precio dado por uno de los cónyuges en venta o permuta de bienes propios para adquirir otros en lugar de los vendidos o permutados;
-
-VI.- Los bienes adquiridos por título oneroso durante la sociedad a costa del caudal común, bien se haga la adquisición para la comunidad, bien para uno sólo de los consortes;
-
-VII.- Los frutos, accesiones, rentas e intereses percibidos o devengados durante la sociedad, procedentes de los bienes comunes o de los peculiares de cada uno de los consortes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 201.
 
-Lo adquirido por razón de usufructo pertenece al fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 202.
 
-Pertenecen al fondo social los frutos pendientes al tiempo de disolverse la sociedad, y se dividirán en proporción al tiempo que éste haya durado en el último año. Los años se computarán desde la fecha de la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 203.
 
-El tesoro encontrado casualmente, es propio del cónyuge que lo halla. El encontrado por industria, pertenece al fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 204.
 
-Las barras o las acciones de minas que tenga un cónyuge, serán propias de él; pero los productos de ellas, percibidos durante la sociedad, pertenecerán al fondo de ésta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 205.
 
-Se reputan adquiridos durante la sociedad, los bienes que alguno de los cónyuges debió adquirir como propios durante ella y que no fueron adquiridos sino después de disuelta, ya por no haberse tenido noticia de ellos, ya por haberse embarazado injustamente su adquisición o goce.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 206.
 
-Serán del fondo social los frutos de los bienes a que se refiere el artículo anterior, que hubieren sido percibidos después de disuelta la sociedad y que debieron serlo durante ella.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 207.
 
-No pueden renunciarse los gananciales durante el matrimonio; pero disuelto éste o decretada la separación de bienes, pueden renunciarse los adquiridos, y la renuncia surtirá sus efectos si se hace en escritura pública.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 208.
 
-Todos los bienes que existen en poder de cualquiera de los cónyuges se presumen gananciales mientras no se prueba lo contrario.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 209.
 
-Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la confesión del otro, ni ambas juntas, se estimarán pruebas suficientes aunque sean judiciales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 210.
 
-La confesión en el caso del artículo que precede, se considerará como donación, que no quedará confirmada sino por la muerte del donante.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 211.
 
-Para la debida constancia de los bienes a que se refiere el Artículo 191 se formará un inventario de ellos en las mismas capitulaciones matrimoniales o en instrumento público separado. Si no se ha hecho inventario, se admite prueba de la propiedad en cualquier tiempo; pero entretanto, los bienes se presumen comunes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VI.
 
@@ -1207,107 +1049,101 @@ De la Administración de la Sociedad Legal.
 
 ###### Art. 212.
 
-El dominio y posesión de los bienes comunes corresponde a ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o que se relacionen sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra ésta aun cuando se dirijan exclusivamente contra el administrador y lo decidido en el juicio en que intervino el marido produce autoridad de cosa juzgada, respecto de la sociedad legal y de la mujer como miembro de ésta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 213.
 
-El marido puede enajenar y obligar a título oneroso los bienes muebles de la sociedad sin el consentimiento de la mujer.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 214.
 
-Los bienes raíces pertenecientes al fondo social no pueden ser obligados ni enajenados de modo alguno por el marido sin el consentimiento de la mujer.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 215.
 
-En los casos de oposición infundada, podrá suplirse por decreto judicial el consentimiento de la mujer, previa su audiencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)v
 
 ###### Art. 216.
 
-El marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el Juez puede suplir ese consentimiento, previa audiencia de la mujer.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 217.
 
-La responsabilidad de la aceptación sin que la mujer consienta o el Juez la autorice, sólo afectará los bienes propios del marido y su mitad de gananciales al liquidarse la sociedad legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 218.
 
-Los cónyuges no pueden disponer por testamento sino de su mitad de gananciales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 219.
 
-Ninguna enajenación que de los bienes gananciales haga el marido en contravención de la ley o en fraude de la mujer, perjudicará a ésta ni a sus herederos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 220.
 
-La mujer sólo puede administrar por consentimiento del marido o en ausencia o por impedimento de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 221.
 
-La mujer no puede obligar los bienes gananciales sin consentimiento del marido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 222.
 
-Puede la mujer pagar con los gananciales los gastos ordinarios de la familia según sus circunstancias.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 223.
 
-La mujer casada que legalmente fuere fiadora, en los casos de separación de bienes, responderá con los que tuviere propios; y en los de sociedad conyugal, pagará con sus bienes propios y con la parte que le corresponda en el fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 224.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o sólo por el marido, o por la mujer con autorización de éste, o en su ausencia o por su impedimento, son carga de la sociedad legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 225.
 
-Se exceptúan de lo dispuesto en el artículo anterior:
-
-I.- Las deudas que provengan de delito de alguno de los cónyuges o de algún hecho moralmente reprobado, aunque no sea punible por la ley;
-
-II.- Las deudas que graven los bienes propios de los cónyuges, no siendo por censos o pensiones cuyo importe haya entrado al fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 226.
 
-Las deudas de cada cónyuge, anteriores al matrimonio, no son carga de la sociedad legal, a no ser en los casos siguientes:
-
-I.- Si el otro cónyuge estuviere personalmente obligado;
-
-II.- Si hubieren sido contraídas en provecho común de los cónyuges.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 227.
 
-Se comprenden entre las deudas de que habla el artículo que precede, las que provengan de cualquier hecho de los consortes, anterior al matrimonio, aun cuando la obligación se haga efectiva durante la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 228.
 
-Los créditos anteriores al matrimonio, en el caso de que el cónyuge obligado tenga con que satisfacerlos, sólo podrán ser pagados con los gananciales que le correspondan, después de disuelta la sociedad legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 229.
 
-Los acreedores del cónyuge deudor podrán también hacer uso, respecto de los bienes de éste, del derecho que conceden los artículos 2996 y 2997.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 230.
 
-Son carga de la sociedad los atrasos de las pensiones o réditos devengados durante el matrimonio, de las obligaciones a que estuvieren afectos, así los bienes propios de los cónyuges como los que forman el fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 231.
 
-También son carga de la sociedad los gastos que se hagan en las reposiciones indispensables para la conservación de los bienes propios de cada cónyuge. Los que no fueren de esta clase, se imputarán al haber del dueño.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 232.
 
-Todos los gastos que se hicieren para la conservación de los bienes del fondo social, son carga de la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 233.
 
-Lo son igualmente el mantenimiento de la familia, la educación de los hijos comunes y de la de los entenados que fueren hijos legítimos y menores de edad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 234.
 
-También es carga de la sociedad, el importe de lo dado o prometido por ambos consortes a los hijos comunes para su colocación, cuando no hayan pactado que se satisfaga de los bienes de uno de ellos en todo o en parte. Si la donación o la promesa se hubiere hecho por sólo uno de los consortes será pagada de sus bienes propios.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 235.
 
-Son igualmente cargas de la sociedad los gastos de inventarios y demás que se causen en la liquidación y en la entrega de los bienes que formaron el fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VII.
 
@@ -1315,117 +1151,113 @@ De la Liquidación de la Sociedad Legal.
 
 ###### Art. 236.
 
-La sociedad legal termina por la disolución del matrimonio y por la sentencia que declara la presunción de muerte del cónyuge ausente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 237.
 
-Las sentencias que declaran el divorcio necesario o la presunción de ausencia, terminan, suspenden o modifican la sociedad conyugal en los casos señalados en este Código.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 238.
 
-El divorcio voluntario y la separación de bienes hecha durante el matrimonio, pueden terminar, suspender o modificar la sociedad conyugal según convengan los consortes.
-
-El abandono injustificado del domicilio conyugal por uno de los cónyuges, hace cesar para él desde el día del abandono, los efectos de la sociedad legal, en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 239.
 
-En los casos de nulidad, la sociedad se considerará subsistente hasta que se pronuncie sentencia que cause ejecutoria, si los dos cónyuges procedieron con buena fe.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 240.
 
-Cuando uno sólo de los cónyuges tuvo buena fé, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario, se considerará nula desde su principio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 241.
 
-Si los dos cónyuges procedieron de mala fé, la sociedad se considerará nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 242.
 
-En los casos de divorcio, se procederá conforme a lo previsto en los artículos 360, 361 y 362.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 243.
 
-En los casos de divorcio por mutuo consentimiento o de simple separación de bienes, se observarán, para la liquidación, los convenios que hayan celebrado los consortes y que fueren aprobados por el Juez; salvo lo convenido en las capitulaciones matrimoniales y lo dispuesto en este Capítulo, en sus respectivos casos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 244.
 
-Ejecutoriada la resolución que disuelve o suspende la sociedad legal, los bienes que pertenecían al fondo social continúan respondiendo de las cargas sociales y el cónyuge directamente obligado a favor de terceros sigue respondiendo también con sus bienes propios. Los acreedores de la sociedad legal podrán ejercitar o continuar sus acciones contra el administrador, aun cuando se afecten bienes gananciales aplicados al otro cónyuge, mientras no se les notifique el fallo. Hecha la notificación los acreedores podrán dirigir sus acciones contra uno sólo de los cónyuges o contra ambos. El cónyuge que resultare afectado en sus bienes propios o gananciales por ejecución de deudas a cargo de la sociedad legal, tendrá derecho a repetir contra el otro cónyuge por la parte que a éste correspondiere cubrir.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 245.
 
-La suspensión de la sociedad cesará con el vencimiento del plazo, si alguno se le fija, y con la reconciliación de los consortes, en los casos de divorcio intentado. La reanudación de la sociedad legal se inscribirá en el Registro Público de la Propiedad, anotándose las inscripciones relativas a los bienes sociales. La falta de registro no perjudica a terceros.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 246.
 
-Si el matrimonio se disuelve antes del vencimiento del plazo, o si alguno de los cónyuges muere antes de la reconciliación, se entiende terminada la sociedad desde que comenzó la suspensión, no obstante lo dispuesto en los Artículos 267, 268 y 277.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 247.
 
-Disuelta o suspensa la sociedad, se procederá desde luego a formar inventario.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 248.
 
-En el inventario se incluirá especificadamente no sólo todos los bienes que formaron la sociedad legal, sino los que deben traerse a colación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 249.
 
-Deben traerse a colación:
-
-I.- Las cantidades pagadas por el fondo social y que sean carga exclusiva de los bienes propios del cónyuge;
-
-II.- El importe de las donaciones y el de las enajenaciones que deban considerarse fraudulentas conforme al artículo 219.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 250.
 
-Disuelta la sociedad se procederá a formar inventario en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, los que se entregarán desde luego a éstos o a sus herederos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 251.
 
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social; se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los cónyuges por mitad. En caso de que hubiere pérdidas, el importe de éstas se deducirá por mitad de lo que cada consorte hubiere llevado a la sociedad y si uno solo llevó capital, de éste se deducirá el total de la pérdida. La mujer figurará en la liquidación como acreedora por sus propios bienes con la preferencia que le corresponda según la naturaleza jurídica de sus títulos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 252.
 
-La división de los gananciales por mitad entre los consortes o sus herederos tendrá lugar, sea cual fuere el importe de los bienes que cada uno de aquellos haya aportado al matrimonio, o adquirido durante él, y aunque alguno o los dos hayan carecido de bienes al tiempo de celebrarlo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 253.
 
-Si la disolución de la sociedad procede de nulidad del matrimonio, el consorte que hubiere obrado de mala fé no tendrá parte en los gananciales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 254.
 
-En el caso del artículo anterior, los gananciales que debían corresponder al cónyuge que obró de mala fé, se aplicarán a sus hijos y si no los tuviere, al cónyuge inocente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 255.
 
-Si los dos procedieron de mala fé, los gananciales se aplicarán a los hijos, y si no los hubiere se repartirán por mitad entre los consortes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 256.
 
-Las pérdidas o desmejoras de los bienes muebles no estimados, aunque provengan de caso fortuito, se pagarán de los gananciales si los hubiere; en caso contrario el dueño recibirá los muebles en el estado en que se hallen.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 257.
 
-Los deterioros de los bienes inmuebles no son abonables en ningún caso al dueño; excepto los que provengan de culpa del cónyuge administrador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 258.
 
-El luto de la viuda se sacará del haber del marido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 259.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 260.
 
-Cuando haya de ejecutarse simultáneamente la liquidación de dos o más matrimonios contraídos por una misma persona, a falta de inventarios se admitirán las pruebas ordinarias para fijar el fondo de cada sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 261.
 
-En caso de duda se dividirán los gananciales entre las diferentes sociedades, en proporción al tiempo que hayan durado y al valor de los bienes propios de cada socio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 262.
 
-Todo lo relativo a la formación de inventarios y a las solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VIII.
 
@@ -1433,97 +1265,73 @@ De la Sociedad Conyugal.
 
 ###### Art. 263.
 
-La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado por las disposiciones relativas a la sociedad legal, o en defecto de éstas, por las que rigen el contrato de sociedad en general.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 264.
 
-La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 265.
 
-Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 266.
 
-En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación al margen del acta de matrimonio civil o en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 267.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos o alguno de ellos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 183.
-
-Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 268.
 
-Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
-
-I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consorcio o disminuír considerablemente los bienes comunes;
-
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra.
-
-Al iniciarse el procedimiento relativo sumario, cesarán interinamente los efectos de la sociedad sin perjuicio de los actos y obligaciones anteriores estableciéndose un régimen de condominio respecto de los bienes sociales en los cuales cada cónyuge representará la proporción que corresponda conforme a las capitulaciones matrimoniales o cada uno la mitad si éstas nada prevén al respecto. La declaración respectiva se inscribirá en el Registro Público de la Propiedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 269.
 
-Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
-
-I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
-
-II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
-
-III.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
-
-IV.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
-
-V.- La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
-
-VI.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
-
-VII.- La declaración terminante acerca de quien debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
-
-VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción;
-
-IX.- Las bases para liquidar la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 270.
 
-Es nula la capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades; así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o utilidades.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 271.
 
-Cuando se establezca que uno de los consortes sólo debe recibir una cantidad fija, el otro consorte o sus herederos deben pagar la suma convenida, haya o no utilidad en la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 272.
 
-Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, será considerado como donación y quedará sujeto a lo prevenido en el Capítulo XI de este Título.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 273.
 
-No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 274.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 275.
 
-La sentencia que declare la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este Código.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 276.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 277.
 
-La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 268.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 278.
 
-En los casos de nulidad, inventarios y muerte de uno de los cónyuges se observará lo dispuesto en los artículos 239, 240, 241, 250, 253, 255, 259 y 262.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 279.
 
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, sí lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas, el importe de éstas se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderles, y si uno solo llevó capital, de éste se deducirá la pérdida total.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IX.
 
@@ -1531,51 +1339,51 @@ De la Separación de Bienes.
 
 ###### Art. 280.
 
-Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio, en el momento de la celebración o durante éste, por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrar el matrimonio, sino también los que adquieran después.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 281.
 
-La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos, o en su defecto, de la sociedad legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 282.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituída por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 183, lo mismo se observará, cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 283.
 
-Las capitulaciones matrimoniales en que se pacte la separación de bienes constarán en escritura pública o en documento privado según la cuantía de los bienes, pero siempre debidamente inscrito en el Registro Público de la Propiedad. También serán válidas las capitulaciones celebradas en el acto mismo del matrimonio y se entenderá que el régimen de separación de bienes será absoluto mientras no se haga aclaración o modificación en forma. Las capitulaciones deben constar en el texto del acta matrimonial y la entrerrenglonadura que se haga, aun cuando se salve, no tendrá ningún valor y entonces se presumirá que el matrimonio debe someterse al régimen de sociedad legal. Si se pacta la separación de bienes durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 284.
 
-Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada esposo al celebrarse el matrimonio, y nota especificada de las deudas que al casarse tenga cada consorte.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 285.
 
-En el régimen de separación de bienes los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 286.
 
-Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 287.
 
-Cada uno de los cónyuges debe contribuir a la educación y alimentación de los hijos y a las demás cargas del matrimonio, de acuerdo con lo dispuesto en el artículo 166.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 288.
 
-Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por dón de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 289.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 290.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 291.
 
-El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ### CAPITULO X.
 
@@ -1633,21 +1441,25 @@ Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efe
 
 Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este Capítulo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
+
 ### CAPITULO XI.
 
 De las Donaciones entre Consortes.
 
 ###### Art. 305.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 306.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 307.
 
-Estas donaciones no se anularán por la supervivencia de hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XII.
 
@@ -1655,165 +1467,129 @@ De los Matrimonios Nulos e Ilícitos.
 
 ###### Art. 308.
 
-Son causas de nulidad de un matrimonio:
-
-I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
-
-II.- Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el artículo 158.
-
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 95, 96, 98, 100 y 101.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 309.
 
-La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero sí este no denuncia el error antes del coito, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 310.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
-
-I.- Cuando haya habido hijos;
-
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 311.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 312.
 
-Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 313.
 
-La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 314.
 
-El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieran espontáneamente reiterar su consentimiento por medio de una acta ante el Encargado del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 315.
 
-La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 316.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 158 podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 317.
 
-La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 318.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
-
-I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
-
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
-
-III.- Que uno u otra haya subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 319.
 
-La nulidad que se funde en alguna de las causas expresadas en la Fracción VII del artículo 158, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 320.
 
-Tienen derecho a pedir la nulidad a que se refiere la fracción IX del artículo 158, el otro cónyuge o el tutor del incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 321.
 
-El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 322.
 
-La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 323.
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Encargado del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 324.
 
-El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es trasmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 325.
 
-Ejecutoriada la sentencia que declare la nulidad, el Tribunal, de oficio, enviará copia certificada de ella al Encargado del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 326.
 
-El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 327.
 
-Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 328.
 
-El matrimonio contraído de buena fé, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 329.
 
-Si ha habido buena fé de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
-
-Si ha habido mala fé de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 330.
 
-La buena fé se presume; para destruir esta presunción se requiere prueba plena.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 331.
 
-Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 355.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 332.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fé.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 333.
 
-Si uno solo de los cónyuges ha procedido de buena fé, quedarán todos los hijos bajo su cuidado; pero siempre, y aun tratándose de divorcio, las hijas é hijos menores de cinco años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 334.
 
-Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fé, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fé por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fé de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 335.
 
-Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
-
-I.- Las hechas por un tercero a los cónyuges, podrán ser revocadas;
-
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
-
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
-
-IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 336.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el capítulo primero del Título Quinto del Libro Tercero.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 337.
 
-Es ilícito pero no nulo el matrimonio:
-
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 160 y 162.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 338.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XIII.
 
@@ -1821,189 +1597,115 @@ Del Divorcio.
 
 ###### Art. 339.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 340.
 
-Son causas de divorcio:
-
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarado ilegítimo;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-VI.- Padecer sífilis, tuberculosis, lepra o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio, siempre que la misma impotencia no sea causa natural de la edad.
-
-La blenorragia en el hombre será causa de divorcio cuando éste haya contagiado gravemente a su esposa.
-
-La blenorragia en la mujer será causa de divorcio cuando no haya sido causada por el marido;
-
-VII.- Padecer enajenación mental incurable;
-
-VIII.- La separación de la casa conyugal por más de tres meses sin causa justificada;
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
-
-XII.- La negativa de los cónyuges de darse alimentos, de acuerdo con lo dispuesto en el artículo 166, siempre que no puedan hacer efectivos los derechos que les conceden los artículos 167 y 168;
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un contínuo motivo de desavenencia conyugal;
-
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-XVII.- El mutuo consentimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 341.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 342.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses contados desde que se tuvo conocimiento del adulterio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 343.
 
-Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos, y no en simples omisiones.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 344.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecer la enfermedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 345.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Encargado del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas, respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad para divorciarse.
-
-El Encargado del Registro Civil, previa identificación de los consortes, levantará una acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Encargado del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
-
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal o legal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
-
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 346.
 
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
-
-I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-III.- La casa que servirá de habitación a la mujer durante el procedimiento;
-
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
-
-V.- La manera de administrar los bienes de la sociedad conyugal o legal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 347.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 348.
 
-Mientras que se decrete el divorcio, el Juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 349.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 350.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 340, podrá sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 351.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 352.
 
-Ninguna de las causas enumeradas en el artículo 340, pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 353.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 354.
 
-El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 355.
 
-Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
-
-I.- Separar a los cónyuges en todo caso;
-
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio, y el marido pidiere el depósito. La casa que para esto se destine será designada por el Juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
-
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-IV.- Dictar las medidas convenientes para que el marido no cause perjuicios en sus bienes a la mujer;
-
-V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede en cinta;
-
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 356.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
-
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 340, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y, si no lo hubiere, se nombrará tutor.
-
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 267 los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
-
-Tercera.- En el caso de las fracciones VI y VII del artículo 340, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos. En caso de impotencia, el cónyuge afectado no pierde sus derechos sobre las personas y bienes de sus hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 357.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los Tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 358.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 359.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 360.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias, para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad hasta que contraigan matrimonio, siempre que vivan honestamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 361.
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
-
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 362.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 363.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 364.
 
-Ejecutoriada una sentencia de divorcio el Juez de Primera Instancia remitirá copia de ella al Encargado del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente, y además, para que publique la parte resolutiva de la sentencia ejecutoriada durante quince días en las tablas destinadas al efecto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO SEXTO.
 
 DEL PARENTESCO Y DE LOS ALIMENTOS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -2011,39 +1713,41 @@ Del Parentesco.
 
 ###### Art. 365.
 
-La Ley no reconoce más parentescos que los de consanguinidad, afinidad y el civil.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 366.
 
-El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 367.
 
-El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 368.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 369.
 
-Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 370.
 
-La línea es recta o transversal: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 371.
 
-La línea recta es ascendente o descendente: ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 372.
 
-En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 373.
 
-En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -2051,123 +1755,107 @@ De los Alimentos.
 
 ###### Art. 374.
 
-La obligación de dar alimentos es recíproca; el que los da, tiene a su vez el derecho de pedirlos. El derecho y la obligación alimentarios son personales e intransmisibles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 375.
 
-Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 376.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 377.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 378.
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 379.
 
-Los hermanos tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años o fueren incapaces.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 380.
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 381.
 
-Los alimentos comprenden: la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden además, los gastos necesarios para la educación primaria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 382.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 383.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 384.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 385.
 
-Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 386.
 
-Si sólo algunos tuvieren posibilidades, entre ellos se repartirá el importe de los alimentos; y si uno sólo la tuviere, él cumplirá únicamente la obligación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 387.
 
-La obligación de dar alimentos no comprende la de proveer de capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 388.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
-
-I.- El acreedor alimentario;
-
-II.- El ascendiente que le tenga bajo su patria potestad;
-
-III.- El Tutor;
-
-IV.- Los hermanos;
-
-V.- El Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 389.
 
-Si las personas a que se refieren las Fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el Juez un tutor interino.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 390.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza, o depósito de cantidad bastante a cubrir los alimentos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 391.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 392.
 
-En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 393.
 
-Cesa la obligación de dar alimentos:
-
-I.- Cuando el que la tiene carece de medios para cumplirla;
-
-II.- Cuando el alimentista deja de necesitar los alimentos;
-
-III.- En caso de injuria, falta o daños graves inferidos por el alimentista contra el que debe prestarlos;
-
-IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
-
-V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 394.
 
-El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 395.
 
-Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 396.
 
-La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 397.
 
-Lo dispuesto en los dos artículos anteriores es aplicable a la mujer, cuando tenga obligación de dar alimentos y el marido se halle en las condiciones apuntadas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO SEPTIMO.
 
 DE LA PATERNIDAD Y FILIACION.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -2175,87 +1863,69 @@ De los Hijos de Matrimonio.
 
 ###### Art. 398.
 
-Se presumen hijos de los cónyuges:
-
-I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
-
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 399.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 400.
 
-El marido no podrá desconocer a los hijos alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo; a no ser que el nacimiento se le haya ocultado o que demuestre que durante los primeros ciento veinte días de los trescientos que precedieron al nacimiento, no tuvo acceso carnal con su esposa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 401.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 402.
 
-El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
-
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; para esto se requiere un principio de prueba por escrito;
-
-II.- Si concurrió al levantamiento del acta de nacimiento y ésta fué firmada por él, o contiene su declaración de no saber firmar;
-
-III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
-
-IV.- Si el hijo no nació capaz de vivir.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 403.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 404.
 
-En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le oculto el nacimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 405.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitase, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 406.
 
-Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 407.
 
-Los herederos del marido, excepto en el caso del Art. anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 408.
 
-Si la viuda, la divorciada, o aquélla cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el Art. 158, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
-
-I.- Se presume que el hijo es del primer matrimonio, si nace dentro de los trescientos días siguientes a la fecha en que judicialmente y de hecho haya tenido lugar la separación de los cónyuges del primer matrimonio, y antes de ciento ochenta de la celebración del segundo matrimonio;
-
-II.- Se presume que el hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
-
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 409.
 
-El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el Juez competente. Todo desconocimiento practicado de otra manera es nulo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 410.
 
-En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien si fuere menor, se proveerá de un tutor interino.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 411.
 
-Para los efectos legales, sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 412.
 
-No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 413.
 
-Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -2263,73 +1933,61 @@ De las Pruebas de la Filiación de los Hijos Nacidos de Matrimonio.
 
 ###### Art. 414.
 
-La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 415.
 
-A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la Ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
-
-Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 416.
 
-Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tienen la posesión de estado de hijos de ellos, o que por los medios de prueba que autoriza el Art. anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 417.
 
-Si un individuo ha sido reconocido constantemente como hijo de matrimonio, por la familia de marido y en la sociedad, quedará probada la posesión de estado de hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
-
-I.- Que el hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
-
-II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
-
-III.- Que el presunto padre tenga la edad exigida por el Art. 435.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 418.
 
-Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 419.
 
-No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva, únicamente, él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 420.
 
-Las acciones civiles que se intenten contra el hijo por los bienes que ha adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 421.
 
-La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 422.
 
-Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
-
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
-
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 423.
 
-Los herederos podrán continuar la acción intentada por el hijo a no ser que éste se hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
-
-También podrán contestar toda demanda que tenga por objeto disputarle la condición de hijo nacido de matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 424.
 
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los artículos 422 y 423, si el hijo no dejó bienes suficientes para pagarles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 425.
 
-Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro años, contados desde el fallecimiento del hijo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 426.
 
-La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las Leyes, en los juicios de mayor interés.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 427.
 
-Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio, sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -2337,27 +1995,29 @@ De la Legitimación.
 
 ###### Art. 428.
 
-El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 429.
 
-Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 430.
 
-Si el hijo fué reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 431.
 
-Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 432.
 
-Pueden gozar también de ese derecho que les concede el artículo 428, los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaron descendientes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 433.
 
-Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara: que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IV.
 
@@ -2365,161 +2025,125 @@ Del Reconocimiento de los Hijos Nacidos fuera del Matrimonio.
 
 ###### Art. 434.
 
-La filiación de los hijos nacidos fuera del matrimonio resulta, con relación a la madre, del sólo hecho del nacimiento. Respecto del padre sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 435.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 436.
 
-El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
-
-El Encargado del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Ministerio Público dentro de los ocho días siguientes, bajo la pena de cinco a cincuenta pesos de multa; incurriendo en igual pena el Agente del Ministerio Público que habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio, no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez o del Encargado del Registro.
-
-Si transcurrido el término de treinta días, no se hubiere resuelto el caso por el Ministerio Público, el Encargado del Registro Civil o cualquiera de los interesados podrá ocurrir al Juez de la localidad a fin de que apremie al agente moroso, imponiéndole la pena que corresponda y señalando nuevo término, que no podrá exceder de treinta días, con el apercibimiento de ser destituído si nuevamente faltare al cumplimiento de su obligación, a cuyo efecto, llegado el caso, se pondrá en conocimiento del C. Procurador de Justicia para que haga efectiva esta sanción.
-
-Los padres o tutores y cualquier otro interesado, que pretendan objetar un reconocimiento, deberán hacerlo en juicio ordinario.
-
-Si el Ministerio Público se hubiere opuesto al reconocimiento, la oposición se tramitará en juicio ordinario ante el Juez de Primera Instancia que corresponda, oyéndose a un tutor especial de quien haya hecho el reconocimiento, como actor, y al Ministerio Público, como demandado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 437.
 
-No obstante, el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 438.
 
-Puede reconocerse al hijo que no ha nacido y al que ha muerto si ha dejado descendencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 439.
 
-Los padres pueden reconocer a su hijo conjunta o separadamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 440.
 
-El reconocimiento hecho por uno de los padres produce efectos respecto de él y no respecto del progenitor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 441.
 
-El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 442.
 
-El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 443.
 
-El reconocimiento de un hijo nacido fuera de matrimonio, deberá hacerse de alguno de los modos siguientes:
-
-I.- En la partida de nacimiento, ante el Encargado del Registro Civil;
-
-II.- Por acta especial ante el mismo Encargado;
-
-III.- Por escritura pública;
-
-IV.- Por testamento;
-
-V.- Por confesión judicial directa y expresa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 444.
 
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, no tendrán valor probatorio y se testarán de oficio, de modo que queden absolutamente ilegibles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 445.
 
-El encargado del Registro Civil, el Juez de Primera Instancia en su caso, y el Notario que consientan en la violación del artículo que precede, serán castigados con la pena de cien a quinientos pesos de multa por cada infracción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 446.
 
-La mujer casada no podrá reconocer sin el consentimiento del marido, a un hijo habido antes de su matrimonio; tampoco podrá sin autorización del marido, llevar al hijo reconocido a vivir en la habitación conyugal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 447.
 
-El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 448.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 449.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el Juez le nombrará especialmente para el caso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 450.
 
-Si el hijo reconocido es menor, puede reclamar contra del reconocimiento cuando llegue a la mayor edad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 451.
 
-El término para deducir esta acción será de dos años, que comenzarán a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 452.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 453.
 
-Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 454.
 
-Cuando el padre y la madre que no estén casados reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor, en vista del ascendiente que haya dado alimentos al hijo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 455.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no estén casados, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público, cuidándose de no entregar al hijo al padre que no hubiere pagado los alimentos del último año.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 456.
 
-La investigación de la paternidad de los hijos nacidos fuera del matrimonio, está permitida:
-
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
-
-II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
-
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente;
-
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 457.
 
-Se presumen hijos del concubinario y de la concubina:
-
-I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
-
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 458.
 
-La posesión de estado, para los efectos de la fracción II del artículo 456, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 459.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 460.
 
-No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 461.
 
-El hecho de dar alimentos no constituye por si solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 462.
 
-Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
-
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 463.
 
-El hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
-I.- A llevar el apellido del que lo reconoce;
-
-II.- A ser alimentado por éste;
-
-III.- A percibir la porción hereditaria y los alimentos que fije la Ley.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO V.
 
@@ -2527,115 +2151,95 @@ De la Adopción.
 
 ###### Art. 464.
 
-Los mayores de cuarenta años, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante, tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 465.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 466.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 467.
 
-El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 468.
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 469.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 470.
 
-El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
-
-La obligación alimentaria del adoptante respecto del adoptado, se entiende sin perjuicio del derecho preferente de los hijos, ascendientes y descendientes, a ser alimentados por aquél.
-
-En caso de herencia intestada, el adoptado tendrá derecho a la porción correspondiente a un hijo natural reconocido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 471.
 
-Para que la adopción pueda tener lugar deberán consentir con ella, en sus respectivos casos:
-
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 472.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 473.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 474.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 475.
 
-El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Encargado del Registro Civil del lugar para que levante el acta correspondiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 476.
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 159.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 477.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 478.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 479.
 
-La adopción puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 471;
-
-II.- Por ingratitud del adoptado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 480.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 481.
 
-En el primer caso del artículo 479, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 482.
 
-El decreto del Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 483.
 
-En el segundo caso del artículo 479 la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 484.
 
-Las resoluciones que dicten los Jueces, aprobando la revocación, se comunicarán al Encargado del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO OCTAVO.
 
 DE LA PATRIA POTESTAD.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -2643,71 +2247,61 @@ De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos.
 
 ###### Art. 485.
 
-Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 486.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 487.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las Leyes aplicables.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 488.
 
-La patria potestad sobre los hijos de matrimonio se ejerce:
-
-I.- Por el padre y la madre;
-
-II.- Por el abuelo y la abuela paternos;
-
-III.- Por el abuelo y la abuela maternos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 489.
 
-Cuando los dos progenitores han reconocido al hijo nacido fuera del matrimonio y viven juntos, ejercerán ambos la patria potestad.
-
-Si viven separados, se observará en su caso lo dispuesto en los artículos 454 y 455.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 490.
 
-En los casos previstos en los Artículos 454 y 455, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 491.
 
-Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el Juez, teniendo siempre en cuenta los intereses del hijo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 492.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 488.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 493.
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 494.
 
-Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 495.
 
-Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 496.
 
-A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarlo convenientemente.
-
-Cuando llegue a conocimiento de los Consejos Locales de Tutela que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 497.
 
-Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
-
-Las autoridades, en caso necesario, auxiliarán a esa persona haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 498.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el Juez.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -2715,97 +2309,77 @@ De los Efectos de la Patria Potestad Respecto de los Bienes del Hijo.
 
 ###### Art. 499.
 
-Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 500.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a la madre, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 501.
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso del otro ascendiente, y con la autorización judicial cuando la Ley lo requiera expresamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 502.
 
-Los bienes del hijo mientras esté en la patria potestad, se dividen en dos clases:
-
-I.- Bienes que adquiera por su trabajo;
-
-II.- Bienes que adquiera por cualquier otro título.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 503.
 
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 504.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 505.
 
-Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 506.
 
-La renuncia del usufructo hecha en favor del hijo, se considera como donación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 507.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 508.
 
-El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones que expresa el Capítulo II del Título VI, y además, las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
-
-I.- Cuando los que ejerzan la patria potestad han sido declarados en quiebra, o estén concursados;
-
-II.- Cuando contraigan ulteriores nupcias;
-
-III.- Cuando su administración sea notoriamente ruinosa para los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 509.
 
-Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 510.
 
-Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo, ni contraer deudas que obliguen a éste, sino por causa de absoluta necesidad o de evidente beneficio, y previa la autorización del juez competente.
-
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 511.
 
-Siempre que el Juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
-
-Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 512.
 
-El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
-
-I.- Por la emancipación o la mayor edad de los hijos;
-
-II.- Por la pérdida de la patria potestad;
-
-III.- Por renuncia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 513.
 
-Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 514.
 
-En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el Juez para cada caso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 515.
 
-Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan.
-
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 516.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -2813,55 +2387,35 @@ De los Modos de Acabarse y Suspenderse la Patria Potestad.
 
 ###### Art. 517.
 
-La patria potestad se acaba:
-
-I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
-
-II.- Con la emancipación;
-
-III.- Por la mayor edad del hijo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 518.
 
-La patria potestad se pierde:
-
-I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves, cuya pena excede de dos años;
-
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 356;
-
-III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
-
-IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 519.
 
-La madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 520.
 
-El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 521.
 
-La patria potestad se suspende:
-
-I.- Por incapacidad declarada judicialmente;
-
-II.- Por la ausencia declarada en forma;
-
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 522.
 
-La patria potestad no es renunciable, pero aquéllos a quienes corresponda ejercerla, pueden excusarse:
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
-I.- Cuando tengan sesenta años cumplidos;
-
-II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO NOVENO.
 
 DE LA TUTELA.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -2869,101 +2423,89 @@ Disposiciones Generales.
 
 ###### Art. 523.
 
-El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a la patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
-
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 487.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 524.
 
-Tienen incapacidad natural y legal:
-
-I.- Los menores de edad;
-
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
-
-III.- Los sordomudos que no saben leer ni escribir;
-
-IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 525.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo 718.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 526.
 
-La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 527.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 528.
 
-La tutela se desempeñará por el tutor con intervención del curador, del Juez Pupilar y del Consejo Local de Tutelas, en los términos establecidos en este Código.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 529.
 
-Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 530.
 
-El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, pueden nombrarse en solo tutor y un curador a todos ellos, aunque sean más de tres.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 531.
 
-Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que él mismo designe, mientras se decide el punto de oposición.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 532.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado colateral.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 533.
 
-No pueden ser nombrados tutores o curadores las personas que funcionen en el Juzgado Pupilar o en el Juzgado de Primera Instancia, las que integren los Consejos Locales de Tutelas ni el Ministerio Público, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 534.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez Pupilar, o al Juez de Primera Instancia, a falta de aquel, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco pesos de multa.
-
-Los Encargados del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los Jueces Pupilares o de Primera Instancia de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 535.
 
-La tutela es testamentaria, legítima o dativa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 536.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 537.
 
-Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 538.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
-
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 539.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 540.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 541.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 542.
 
-El Juez Pupilar del domicilio del incapacitado, y si no lo hubiere, el Juez Conciliador, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 543.
 
-El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -2971,53 +2513,53 @@ De la Tutela Testamentaria.
 
 ###### Art. 544.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 488, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con la inclusión del hijo póstumo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 545.
 
-El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 546.
 
-Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 547.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje. Aún cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 548.
 
-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 531.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 549.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario, si la madre ha fallecido o no puede legalmente ejercer la tutela.
-
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 550.
 
-En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 551.
 
-Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás, por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 552.
 
-Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 553.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el Juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 554.
 
-Si por un nombramiento condicional de tutor, o por algún otro motivo faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)v
 
 ###### Art. 555.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -3025,27 +2567,21 @@ De la Tutela Legítima de los Menores.
 
 ###### Art. 556.
 
-Ha lugar a tutela legítima:
-
-I.- Cuando no hay quien ejerza la patria potestad, ni tutor testamentario;
-
-II.- Cuando deba nombrarse tutor por causa de divorcio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 557.
 
-La tutela legítima corresponde:
-
-I.- A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
-
-II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 558.
 
-Si hubiere varios parientes del mismo grado, el Juez, elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 559.
 
-La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IV.
 
@@ -3053,27 +2589,29 @@ De la Tutela Legítima de los Dementes, Idiotas, Imbéciles, Sordo-mudos, Ebrios
 
 ###### Art. 560.
 
-El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 561.
 
-Los hijos mayores de edad son tutores de su padre o madre libres de matrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 562.
 
-Cuando haya dos o más hijos será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá al que le parezca más apto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 563.
 
-El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos libres de matrimonio, cuando ellos no tengan hijos que puedan desempeñar la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 564.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: el abuelo paterno, el materno, la abuela paterna, la abuela materna, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 557 observándose, en su caso, lo que dispone el artículo 558.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 565.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO V.
 
@@ -3081,15 +2619,17 @@ De la Tutela Legítima de los Menores Abandonados y de los Acogidos por alguna P
 
 ###### Art. 566.
 
-La Ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 567.
 
-Los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las Leyes y a los que prevengan los Estatutos del establecimiento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 568.
 
-En el caso del artículo anterior, no es necesario el discernimiento del cargo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VI.
 
@@ -3097,57 +2637,37 @@ De la Tutela Dativa.
 
 ###### Art. 569.
 
-La tutela dativa tiene lugar:
-
-I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
-
-II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 557;
-
-III.- En los demás casos establecidos por la ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 570.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez Pupilar confirmará la designación si no tiene justa causa para reprobarla.
-
-Para reprobar las ulteriores designaciones que haga el menor, el Juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 571.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez Pupilar de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 572.
 
-Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 573.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 574.
 
-A los menores de edad que no estén sujetos a la patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor y aún de oficio por el Juez Pupilar o de Primera Instancia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 575.
 
-En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duran en los cargos que a continuación se enumeran:
-
-I.- El Presidente Municipal del domicilio del menor;
-
-II.- Los demás regidores del Ayuntamiento;
-
-III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
-
-IV.- Los Profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
-
-V.- Los miembros de las Juntas de Beneficencia Pública o Privada que disfruten sueldo del Erario;
-
-VI.- Los Directores de Establecimientos de Beneficencia Pública.
-
-Los Jueces Pupilares nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela o el Ministerio Público, a falta de aquellos, conforme a lo dispuesto en el capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 576.
 
-Si el menor que se encuentre en el caso previsto por el Art. 574, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VII.
 
@@ -3155,73 +2675,37 @@ De las Personas Inhábiles para el Desempeño de la Tutela y de las que deben se
 
 ###### Art. 577.
 
-No pueden ser tutores, aunque estén anuentes en recibir el cargo:
-
-I.- Los menores de edad;
-
-II.- Los mayores de edad que se encuentren bajo tutela;
-
-III.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
-
-V.- El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
-
-VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
-
-VII.- Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
-
-VIII.- Los deudores del incapacitado en cantidad considerable, a juicio del Juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
-
-IX.- Los Jueces, Magistrados y demás funcionarios o empleados de la administración de justicia;
-
-X.- El que no esté domiciliado en el lugar en que deba ejercer la tutela;
-
-XI.- Los empleados públicos de Hacienda, que por razón de su destino tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
-
-XII.- El que padezca enfermedad crónica contagiosa;
-
-XIII.- Los demás a quienes lo prohiba la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 578.
 
-Serán separados de la tutela:
-
-I.- Los que sin haber caucionado su manejo conforme a la Ley, ejerzan la administración de la tutela;
-
-II.- Los que se conduzcan mal en el desempeño de la tutela ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 665;
-
-IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
-
-V.- El tutor que se encuentre en el caso previsto en el artículo 161;
-
-VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 579.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia ni los que la hayan fomentado directa o indirectamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 580.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 581.
 
-El Ministerio Público y los parientes del pupilo tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 578.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 582.
 
-El tutor que fuere procesado por cualquier delito, quedará suspenso en el ejercicio de su encargo desde que se provea el auto motivado de prisión, hasta que se pronuncie sentencia irrevocable.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 583.
 
-En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 584.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VIII.
 
@@ -3229,51 +2713,37 @@ De las Excusas para el Desempeño de la Tutela.
 
 ###### Art. 585.
 
-Pueden excusarse de ser tutores:
-
-I.- Los empleados y funcionarios públicos;
-
-II.- Los militares en servicio activo;
-
-III.- Los que tengan bajo su patria potestad tres o más descendientes;
-
-IV.- Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
-
-V.- Los que por el mal estado habitual de su salud, ó por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
-
-VI.- Los que tengan sesenta años cumplidos;
-
-VII.- Los que tengan a su cargo otra tutela o curaduría;
-
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del Juez, no estén en aptitud de desempeñar convenientemente la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 586.
 
-Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 587.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término de diez días después de sabido el nombramiento, aumentándolo en un día más por cada veinte kilómetros que medien entre su domicilio y el lugar de la residencia del Juez competente, y cuando transcurra dicho término sin ejercitarse el derecho, se entiende renunciada la excusa. Si la causa de excusa sobreviene durante el ejercicio de la tutela, el término expresado comenzará a contarse desde que el tutor tenga conocimiento de dicha causa.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 588.
 
-Si el tutor tuviere dos o más excusas las propondrá simultáneamente, dentro del plazo respectivo; y si propone una sola se entenderán renunciadas las demás.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 589.
 
-Mientras que se califica el impedimento o la excusa, el Juez nombrará un tutor interino.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 590.
 
-El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 591.
 
-El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 592.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la Ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IX.
 
@@ -3281,93 +2751,73 @@ De la Garantía que deben Prestar los Tutores para Asegurar su Manejo.
 
 ###### Art. 593.
 
-El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
-
-I.- En hipoteca o prenda;
-
-II.- En fianza.
-
-La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos; a falta de ella se depositarán en poder de persona de notoria solvencia y honorabilidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 594.
 
-Están exceptuados de la obligación de dar garantía:
-
-I.- Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
-
-II.- El tutor que no administre bienes;
-
-III.- El padre, la madre y los abuelos, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 598;
-
-IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por más de diez años a no ser que hayan recibido pensión para cuidar de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 595.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del curador, haga necesaria aquélla.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 596.
 
-En el caso de la fracción II del artículo 594, luego que se realicen algunos créditos o derechos o se recobren los bienes, aún cuando sea en parte, estará obligado el tutor a dar la garantía correspondiente. El curador vigilará, bajo su más estrecha responsabilidad, el cumplimiento de este artículo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 597.
 
-La garantía que presten los tutores no impedirá que el Juez Pupilar a moción del Ministerio Público o del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 598.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía; salvo el caso de que el Juez con audiencia del Curador y del Consejo de Tutelas, lo crea conveniente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 599.
 
-Siempre que el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria a no ser que esta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 600.
 
-Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 601.
 
-El tutor no podrá dar fianza para caucionar su manejo sino cuando no tenga bienes en qué constituir hipoteca o prenda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 602.
 
-Cuando los bienes que tenga no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, parte en fianza, o solamente en fianza, a juicio del Juez y previa audiencia del curador y del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 603.
 
-La hipoteca o prenda, y en su caso la fianza, se darán:
-
-I.- Por el importe de las rentas de los bienes raíces en los dos últimos años y por los réditos de los capitales impuestos durante ese mismo tiempo;
-
-II.- Por el valor de los bienes muebles;
-
-III.- Por el de los enseres y semovientes, así como por el de los productos de las fincas rústicas en dos años calculados por peritos, o por el término medio en un quinquenio, a elección del Juez;
-
-IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 604.
 
-Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrán aumentarse o disminuirse proporcionalmente la hipoteca, prenda o la fianza, a pedimento del tutor, del curador, del Ministerio Público o del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 605.
 
-El Juez y el Ministerio Público responden subsidiariamente con el tutor, de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 606.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 603, se procederá al nombramiento de nuevo tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 607.
 
-Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario solemne, y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración requerirá la autorización judicial, la que se concederá, si procede, oyendo al curador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 608.
 
-Al presentar el tutor su cuenta anual, el curador o el Consejo Local de Tutelas deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrá promoverla en cualquier tiempo que lo estime conveniente. El Ministerio Público tiene igual facultad, y hasta de oficio el juez puede exigir esa información.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 609.
 
-Es también obligación del curador, del Consejo Local de Tutelas y del Ministerio Público, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al Juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO X.
 
@@ -3375,247 +2825,225 @@ Del Desempeño de la Tutela.
 
 ###### Art. 610.
 
-Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 566.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 611.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado, y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 612.
 
-El tutor está obligado:
-
-I.- A alimentar y educar al incapacitado;
-
-II.- A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
-
-III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del término que el Juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad.
-
-El término para formar el inventario no podrá ser mayor de seis meses;
-
-IV.- A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de dieciséis años, pero la falta de consulta no surte efectos contra tercero.
-
-La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
-
-V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
-
-VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 613.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 614.
 
-Cuando el tutor entre en el ejercicio de su cargo, el Juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el Juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 615.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutelas, del Ministerio Público o por sí mismo, ponerlo en conocimiento del Juez Pupilar para que dicte las medidas convenientes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 616.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al Curador o al Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 617.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes, y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 618.
 
-Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 619.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez Pupilar, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 620.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado de Hidalgo y de los Municipios, según el lugar donde estén domiciliados; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de los dispuesto por este artículo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 621.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 612, está obligado a presentar al Juez Pupilar, en el mes de enero de cada año, un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 622.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al Juez para obtener la debida aprobación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 623.
 
-La obligación de hacer inventarios no puede ser dispensada ni aún por los que tienen derecho de nombrar tutor testamentario.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 624.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 625.
 
-El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 626.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 612.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 627.
 
-Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
-
-Se exceptúa de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 628.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al Juez, pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará en justicia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 629.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados, podrá aumentarse después, sino con aprobación judicial.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 630.
 
-Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 631.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el Juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del Juez.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 632.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubieren reunido dos mil pesos, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 633.
 
-Si para hacer la imposición dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, el tutor lo manifestará al Juez, quien podrá ampliar el plazo por otros tres meses.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 634.
 
-El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 635.
 
-Mientras que se hacen las imposiciones a que se refieren los artículos 632 y 633, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 636.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas la conformidad del curador y la autorización judicial.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 637.
 
-Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 511.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 638.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
-
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo, u obligarlo solidariamente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 639.
 
-Cuando se trate de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 640.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 641.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 642.
 
-El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 643.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 644.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 645.
 
-Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, o partícipes o socios del incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 646.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 647.
 
-El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 648.
 
-El tutor no puede dar en arrendamiento los bienes del incapacitado, por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 639.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 649.
 
-El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aun cuando se acabe la tutela; pero será nula toda anticipación de renta o alquileres por más de un año.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 650.
 
-Sin autorización judicial no puede el tutor contraer deudas, ni recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no garantía de cualquier especie en el contrato.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 651.
 
-El tutor no puede hacer donaciones a nombre del incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 652.
 
-El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 497.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 653.
 
-Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 654.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 655.
 
-La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 656.
 
-Cuando sea tutor el marido, continuará ejerciendo respecto de su mujer incapacitada, los derechos conyugales, con las siguientes modificaciones:
-
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento de la mujer, se suplirá éste por el Juez, con audiencia del curador;
-
-II. La mujer, en los casos en que pueda querellarse de su marido, o demandarlo para asegurar sus derechos violados o amenazados, será representada por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento, y si no lo cumple será responsable de los perjuicios que se sigan al incapacitado. También podrá promover ese nombramiento el Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 657.
 
-Cuando la tutela del incapacitado recayera en su mujer, ejercerá ésta la autoridad de aquél; pero no podrá gravar ni enajenar los bienes del marido que sean de la clase a que se refiere el artículo 643, sin previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 636.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 658.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 659.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado, o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado o del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 660.
 
-El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y para los tutores legítimos y dativos la fijará el Juez.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 661.
 
-En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 662.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho de que se le aumente la remuneración hasta un veinte por ciento del excedente de los productos líquidos. La calificación del aumento se hará por el Juez, con audiencia del curador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 663.
 
-Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el artículo anterior, será requisito indispensable que hayan cumplido, durante el desempeño de su cargo, con la obligación de rendir cuentas y que éstas hayan sido aprobadas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 664.
 
-El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiese recibido, si contraviniese lo dispuesto en el artículo 161.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XI.
 
@@ -3623,67 +3051,69 @@ De las Cuentas de la Tutela.
 
 ###### Art. 665.
 
-El tutor está obligado a rendir al Juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 666.
 
-También tiene obligación de rendir cuenta, cuando por causas graves que calificará el Juez, la exijan el curador, el Consejo Local de Tutelas, o el mismo menor que haya cumplido dieciséis años de edad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 667.
 
-La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 668.
 
-El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 669.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 670.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, pueden resultar al tutor por culpa o negligencia en el desempeño de su encargo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 671.
 
-Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 672.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 673.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 674.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del Juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 675.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá por no puesta.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 676.
 
-El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 677.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El Juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 678.
 
-La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 679.
 
-La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 680.
 
-Hasta pasado un mes de la rendición de cuentas es anulable a solicitud del menor, todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XII.
 
@@ -3691,11 +3121,9 @@ De la Extinción de la Tutela.
 
 ###### Art. 681.
 
-La tutela se extingue:
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
-I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
-
-II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XIII.
 
@@ -3703,47 +3131,49 @@ De la Entrega de los Bienes.
 
 ###### Art. 682.
 
-El tutor, concluída la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al inventario y a las cuentas aprobadas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 683.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela, cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzarse en el plazo antes señalado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 684.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 685.
 
-La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el Juez podrá autorizar al tutor a fin de que se proporcione lo necesario para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 686.
 
-Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 687.
 
-El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 688.
 
-Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 689.
 
-Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor, se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 690.
 
-Si no se hiciere saber el convenio al fiador éste no permanecerá obligado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 691.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 692.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XIV.
 
@@ -3751,67 +3181,57 @@ Del Curador.
 
 ###### Art. 693.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor, tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 566 y 574.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 694.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 695.
 
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 531.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 696.
 
-Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 697.
 
-Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente respecto de los curadores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 698.
 
-Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 699.
 
-Designarán por sí mismos al curador, con aprobación judicial:
-
-I.- Los comprendidos en el artículo 570, observándose lo que allí se dispone respecto de esos nombramientos;
-
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 718.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 700.
 
-El curador de todos los demás individuos sujetos a tutela será nombrado por el Juez.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 701.
 
-El curador está obligado:
-
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
-
-II.- A vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que puede ser dañoso al incapacitado;
-
-III.- A dar aviso al Juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
-
-IV.- A cumplir las demás obligaciones que la ley le señale.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 702.
 
-El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 703.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 704.
 
-El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 705.
 
-En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XV.
 
@@ -3819,35 +3239,21 @@ De los Consejos Locales de Tutela y de los Jueces Pupilares.
 
 ###### Art. 706.
 
-En cada Municipalidad habrá un Consejo Local de Tutelas compuesto de un Presidente y dos Vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebren, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
-
-A falta del Consejo Local de Tutelas, sus funciones estarán encomendadas al Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 707.
 
-El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículo que preceden, tiene las obligaciones siguientes:
-
-I.- Formar y remitir a los Jueces Pupilares una lista de las personas de la localidad que por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores en los casos que estos nombramientos correspondan al Juez;
-
-II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al Juez Pupilar de las faltas u omisiones que notare;
-
-III.- Avisar al Juez Pupilar cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
-
-IV.- Investigar y poner en conocimiento del Juez Pupilar, qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
-
-V.- Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 612;
-
-VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 708.
 
-Los Jueces Pupilares son las Autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir por medio de disposiciones apropiadas, la transgresión de sus deberes.
-
-Sólo a falta de los Jueces Pupilares, funcionarán en su lugar los Jueces de Primera Instancia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 709.
 
-Mientras que se nombra tutor el Juez Pupilar o el de Primera Instancia debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO XVI.
 
@@ -3855,31 +3261,35 @@ Del Estado de Interdicción.
 
 ###### Art. 710.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 612.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 711.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 718.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 712.
 
-La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 713.
 
-La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales según la naturaleza del acto cuya nulidad se pretende.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 714.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 710 y 711, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 715.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO DECIMO.
 
 DE LA EMANCIPACION Y DE LA MAYOR EDAD.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -3887,49 +3297,45 @@ De la Emancipación.
 
 ###### Art. 716.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1983)</small>
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 717.
 
-Los mayores de 16 años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses. Los Padres o tutores pueden emancipar a sus hijos o pupilos, que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consistan (sic) en su emancipación.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 718.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del Juez;
-
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III.- De un tutor para los negocios judiciales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 719.
 
-Hecha la emancipación no puede ser revocada.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 720.
 
-Fuera del caso a que se refiere el artículo 716, la emancipación siempre será decretada por el Juez y la resolución correspondiente se remitirá al Encargado del Registro Civil para que levante el acta respectiva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
 De la Mayor Edad.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1983)</small>
-
 ###### Art. 721.
 
-La mayor edad comienza a los dieciocho años cumplidos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 722.
 
-El mayor de edad dispone libremente de su persona y de sus bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO UNDECIMO.
 
 DE LOS AUSENTES E IGNORADOS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -3937,105 +3343,89 @@ De las medidas provisionales en caso de ausencia.
 
 ###### Art. 723.
 
-El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 724.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el Juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio, señalándole para que se presente un término que no bajará de tres meses, ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 725.
 
-Al publicarse los edictos remitirá copia a los Cónsules Mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra el ausente o que se tengan noticias de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 726.
 
-Si el ausente tiene hijos menores, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario, ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 570 y 571.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 727.
 
-Las obligaciones y facultades del depositario serán las que la ley asigna a los depositarios judiciales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 728.
 
-Se nombrará depositario:
-
-I.- Al cónyuge del ausente;
-
-II.- A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juez elegirá al más apto;
-
-III.- Al ascendiente más próximo en grado al ausente;
-
-IV.- A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo y si hubiere varios se observará lo que dispone el artículo 734.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 729.
 
-Si cumplido el término del llamamiento, el citado no compareciere por sí, ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarlo, se procederá al nombramiento de representante.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 730.
 
-Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por el ausente, o sea insuficiente para el caso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 731.
 
-Tienen acción para pedir el nombramiento de depositario o de representante, el Ministerio Público, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de éste.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 732.
 
-En el nombramiento de representante se seguirá el orden establecido en el artículo 728.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 733.
 
-Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el Juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo el depositario representante; más si no estuvieren conformes, el Juez lo nombrará libremente, de entre las personas designadas por el artículo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 734.
 
-A falta de cónyuge, de descendientes y de ascendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que debe representarlo. Si no se ponen de acuerdo en la elección, la hará el Juez, prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 735.
 
-El representante del ausente es el legítimo administrador de los bienes de éste y tiene respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
-
-No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del término de un mes no presta la caución correspondiente, se nombrará otro representante.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 736.
 
-El representante del ausente disfrutará la misma retribución que a los tutores señalan los artículos 660, 661 y 662.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 737.
 
-No pueden ser representantes de un ausente, los que no pueden ser tutores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 738.
 
-Pueden excusarse, los que puedan hacerlo de la tutela.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 739.
 
-Será removido del cargo de representante, el que deba serlo del de tutor.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 740.
 
-El cargo de representante acaba:
-
-I.- Con el regreso del ausente;
-
-II.- Con la presentación del apoderado legítimo;
-
-III.- Con la muerte del ausente;
-
-IV.- Con la posesión provisional.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 741.
 
-Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 744 y 745 en su caso.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 742.
 
-Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 725.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 743.
 
-El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO II.
 
@@ -4043,51 +3433,45 @@ De la Declaración de Ausencia.
 
 ###### Art. 744.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 745.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 746.
 
-Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 747.
 
-Pasados dos años, que se contarán del modo establecido en el artículo 745, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 732, 733 y 734.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 748.
 
-Pueden pedir la declaración de ausencia:
-
-I.- Los presuntos herederos legítimos del ausente;
-
-II.- Los herederos instituidos en testamento abierto;
-
-III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y
-
-IV.- El Ministerio Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 749.
 
-Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial del Estado de Hidalgo, y en los principales del último domicilio del ausente, y la remitirá a los Cónsules, conforme al artículo 725.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 750.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 751.
 
-Si hubiere algunas noticias u oposición, el Juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 749 y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo Juez crea oportunos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 752.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los Cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 753.
 
-El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -4095,85 +3479,81 @@ De los Efectos de la Declaración de Ausencia.
 
 ###### Art. 754.
 
-Declarada la ausencia, si hubiere testamento público u ológrafo, la persona en cuyo poder se encuentre lo presentará al Juez, dentro de quince días contados desde la última publicación de que habla el artículo 752.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 755.
 
-El Juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia, y con las demás solemnidades prescritas para la apertura de esta clase de testamento.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 756.
 
-Los herederos testamentarios, y en su defecto, los que fueren legítimos al tiempo de la desaparición de un ausente, o al tiempo en que se hayan recibido las últimas noticias, si tienen capacidad legal para administrar, serán puestos en la posesión provisional de los bienes, dando fianza que asegure las resultas de la administración. Si estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 757.
 
-Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 758.
 
-Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el Juez le nombrará, escogiéndole de entre los mismos herederos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 759.
 
-Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta, se nombrará el administrador general.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 760.
 
-Los herederos que no administren, podrán nombrar un interventor; que tendrá las facultades y obligaciones señaladas a los curadores. Su honorario será el que le fijen los que le nombren y se pagará por éstos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 761.
 
-El que entre en la posesión provisional, tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 762.
 
-En el caso del artículo 757, cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 763.
 
-En el caso del artículo 758, el administrador general será quien dé la garantía legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 764.
 
-Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda, según el artículo 603.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 765.
 
-Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 766.
 
-Si no pudiere darse la garantía prevenida en los cinco artículos anteriores, el Juez, según las circunstancias de las personas y de los bienes, y concediendo el plazo fijado en el artículo 706, podrá disminuir el importe de aquélla, pero de modo que no baje de la tercia parte de los valores señalados en el artículo 603.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 767.
 
-Mientras no se dé la expresada garantía, no cesará la administración del representante.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 768.
 
-No están obligados a dar garantía:
-
-I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda;
-
-II.- El ascendiente que en ejercicio de la patria potestad administre bienes que como herederos del ausente correspondan a sus descendientes.
-
-Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que correspondan a los legatarios, si no hubiere división, ni administrador general.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 769.
 
-Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los Capítulos XII y XIV del Título IX de este libro. El plazo señalado en el artículo 677, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 770.
 
-Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública, entre en la posesión provisional, conforme a los artículos que anteceden.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 771.
 
-Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 772.
 
-Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO IV.
 
@@ -4181,31 +3561,33 @@ De la Administración de los Bienes del Ausente Casado.
 
 ###### Art. 773.
 
-La declaración de ausencia interrumpe la sociedad legal o conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 774.
 
-Declarada la ausencia, se procederá, con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deben corresponder al cónyuge ausente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 775.
 
-El cónyuge presente recibirá desde luego los bienes que le correspondan hasta el día en que la declaración de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 776.
 
-Los bienes del ausente se entregarán a sus herederos, en los términos prevenidos en el capítulo anterior.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 777.
 
-En el caso previsto en el artículo 772, si el cónyuge presente entrare como heredero en la posesión provisional, se observará lo que ese artículo dispone.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 778.
 
-Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá derecho a alimentos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 779.
 
-Si el cónyuge ausente regresa o se probare su existencia quedará restaurada la sociedad conyugal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO V.
 
@@ -4213,53 +3595,45 @@ De la Presunción de Muerte del Ausente.
 
 ###### Art. 780.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
-
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 781.
 
-Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 755, los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 769, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado quedará cancelada.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 782.
 
-Si se llega a probar la muerte del ausente, la herencia se defiere a los que debieran heredar al tiempo de ella pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 772 y todos ellos, desde que obtuvieron la posesión definitiva.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 783.
 
-Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo precio; pero no podrá reclamar frutos ni rentas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 784.
 
-Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia, y así se declara por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 772 y 783 debiera hacerse al ausente si se presentara.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 785.
 
-Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 786.
 
-La posesión definitiva termina:
-
-I.- Con el regreso del ausente;
-
-II.- Con la noticia cierta de su existencia;
-
-III.- Con la certidumbre de su muerte;
-
-IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 784.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 787.
 
-En el caso segundo del artículo anterior, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 788.
 
-La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal o legal.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 789.
 
-En el caso previsto por el artículo 778 el cónyuge sólo tendrá derecho a los alimentos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VI.
 
@@ -4267,23 +3641,25 @@ De los Efectos de la Ausencia respecto de los Derechos Eventuales del Ausente.
 
 ###### Art. 790.
 
-Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 791.
 
-Si se defiere una herencia a la que sea llamado un individuo declarado ausente o respecto de quien se haya hecho la declaración de presunción de muerte, entrarán sólo en ellas los que debían ser coherederos de aquél o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 792.
 
-En este caso, los coherederos o sucesores se considerarán como poseedores provisionales o definitivos de los bienes que por la herencia debían corresponder al ausente, según la época en que la herencia se defiera.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 793.
 
-Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores, o legatarios, y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 794.
 
-Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO VII.
 
@@ -4291,185 +3667,121 @@ Disposiciones Generales.
 
 ###### Art. 795.
 
-El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 796.
 
-Por causa de ausencia no se suspenden los términos que fija la ley para la prescripción.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 797.
 
-El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ## TITULO DUODECIMO.
 
 DEL PATRIMONIO DE LA FAMILIA.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
+
 ### CAPITULO UNICO.
 
 ###### Art. 798.
 
-Son objeto del patrimonio de la familia:
-
-I.- La casa habitación de la familia, o dicha casa y una fracción de terreno anexa;
-
-II.- Una parcela cultivable, cuya superficie no traspase los límites legales de la "Pequeña Propiedad".
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 799.
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 800.
 
-Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 815.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 801.
 
-Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con tercero, en todo lo que al patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría o el Juez, dentro de los mismos familiares, si requeridos los interesados no hacen la designación.
-
-El representante tendrá también la administración de dichos bienes.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 802.
 
-Los bienes afectos al patrimonio de la familia son inalienables y ni éstos ni sus frutos estarán sujetos a embargo ni a gravamen alguno, hecha excepción de las servidumbres legales.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 803.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el Municipio en que esté domiciliado el que lo constituya.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 804.
 
-Cada familia sólo puede constituir un patrimonio. Los subsecuentes que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 805.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será:
-
-I.- Dos mil pesos para el Municipio de Pachuca;
-
-II.- Un mil quinientos pesos para los Municipios Cabeceras de Distrito;
-
-III.- Mil pesos para los demás Municipios y lugares.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 806.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con toda precisión sus linderos y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
-
-Además, declarará bajo protesta de decir verdad, lo siguiente:
-
-I.- Que es mayor de edad o que está emancipado;
-
-II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
-
-III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio;
-
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
-
-V.- Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en el artículo 805.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 807.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 808.
 
-Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 805 podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 809.
 
-Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, el cónyuge o los hijos y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por los valores fijados en el artículo 805. En la constitución de ese patrimonio se observará, en lo conducente, lo dispuesto en los artículos 806 y 807.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 810.
 
-Con el objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituirlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
-
-I.- Los terrenos pertenecientes al Gobierno del Estado de Hidalgo o Ayuntamientos, que no estén destinados a un servicio público, ni sean de uso común;
-
-II.- Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso (c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
-
-III.- Los terrenos que el Gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 811.
 
-El precio de los terrenos a que se refiere la Fracción II del artículo anterior se pagará de la manera prevenida en el inciso (d) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
-
-En los casos previstos en las fracciones I y II del artículo que precede, la autoridad vendedora fijará la forma y el plazo en que debe pagarse el precio de los bienes vendidos, teniendo en cuenta la capacidad económica del comprador.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 812.
 
-El que desee constituir el patrimonio de la familia con la clase de bienes que menciona el artículo 810, además de cumplir los requisitos exigidos por las fracciones I, II y III del artículo 806 comprobará:
-
-I.- Que es mexicano;
-
-II.- Su aptitud o la de sus familiares para desempeñar algún oficio, profesión, industria o comercio;
-
-III.- Que él o sus familiares poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen;
-
-IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, la posibilidad de pagar el precio del terreno que se le vende;
-
-V.- Que carece de bienes. Si el que tenga interés legítimo demuestra que quien constituyó el patrimonio era propietario de bienes raíces al constituirlo, se declarará nula la constitución del patrimonio.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 813.
 
-La constitución del patrimonio de que trata el artículo 810 se sujetará a la tramitación administrativa que fijen los reglamentos respectivos. Aprobada la constitución del patrimonio, se cumplirá lo que dispone la parte final del artículo 807.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 814.
 
-La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 815.
 
-Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela.
-
-Sólo por justa causa, se podrán dar en arrendamiento o en aparcería, por un término no mayor de dos años.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 816.
 
-El patrimonio de la familia se extingue:
-
-I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
-
-II.- Cuando sin causa justificada la familia deje de habitar por dos años la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
-
-III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
-
-IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman;
-
-V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 810, se declare judicialmente nula o rescindida la venta de esos bienes;
-
-VI.- Cuando se haya declarado con falsedad respecto de alguno de los requisitos fijados en el artículo 806.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 817.
 
-La declaración de que queda extinguido el patrimonio la hará el Juez competente, mediante procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
-
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 818.
 
-El precio del patrimonio expropiado y la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectos al patrimonio familiar, se depositarán en una Institución de Crédito y no habiéndola en la localidad, en una casa de comercio de notoria solvencia, a fin de dedicarlos a la constitución de un nuevo patrimonio de la familia. Durante un año son inembargables el precio depositado y el importe del seguro.
-
-Si el dueño de los bienes vendidos no lo constituye dentro del plazo de seis meses, los miembros de la familia a que se refiere el artículo 800, tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
-
-Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada se entregará al dueño de los bienes.
-
-En los casos de suma necesidad o de evidente utilidad, puede el Juez autorizar al dueño del depósito para disponer de él antes de que transcurra el año.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 819.
 
-Puede disminuirse el patrimonio de la familia:
-
-I.- Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
-
-II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un ciento por ciento el valor máximo que puede tener conforme al artículo 805.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 820.
 
-El Ministerio Público será oído en la extinción y en la reducción del patrimonio de la familia.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 821.
 
-Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél ha muerto.
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 # LIBRO SEGUNDO.
 
@@ -4924,6 +4236,8 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 ## TITULO CUARTO.
 
 DE LA PROPIEDAD.
+
+> <small>(DEROGADO POR ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO I.
 
@@ -15820,3 +15134,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 8 DE AGOSTO DE 1983.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTÍCULO 4o.
+
+QUEDAN DEROGADOS LOS CAPITULOS I, II, III, IV, V, VI, VII, VIII, IX, X, Y XI DEL TITULO CUARTO; LOS CAPITULOS I, II, III, IV, V, VI, VII, VIII, IX, XI, XII, Y XIII, DEL TITULO QUINTO; LOS CAPITULOS I Y II DEL TITULO SEXTO; LOS CAPITULOS I, II, III, IV, Y V DEL TITULO SEPTIMO; LOS CAPITULOS I, II Y III DEL TITULO OCTAVO; LOS CAPITULOS I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, Y XVI DEL TITULO NOVENO: LOS CAPITULOS I Y II DEL TITULO DECIMO; LOS CAPITULOS I, II, III, IV, V, VI, Y VII, DEL TITULO UNDECIMO: Y EL CAPITULO UNICO DEL TITULO DUODECIMO DEL CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, CONTENIDO EN EL DECRETO No. 37 DE LA XXXV LEGISLATURA DEL H. CONGRESO DEL ESTADO, DE FECHA 15 DE MAYO DE 1940.
+
+###### ARTÍCULO 5o.
+
+ESTE CÓDIGO INICIARA SU VIGENCIA DESDE LA FECHA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE HIDALGO.
