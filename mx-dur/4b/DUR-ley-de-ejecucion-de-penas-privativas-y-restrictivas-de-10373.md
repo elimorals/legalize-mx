@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "1980-06-01"
+last_updated: "1994-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 01 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -391,9 +391,11 @@ Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicit
 
 VI.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, como el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### Artículo 55.
 
-La libertad preparatoria no se concederá a los reincidentes ni a los habituales.
+La libertad preparatoria no se concederá a los reincidentes ni a los habituales. Tampoco se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, previsto en el primer párrafo del Artículo 281 del Código Penal del Estado, violación y robo calificado.
 
 ###### Artículo 56.
 
@@ -604,3 +606,9 @@ El Gobernador Constitucional del Estado.- ING. ALEJANDRO PÁEZ URQUIDI; El Secre
 P.O. 01 DE JUNIO DE 1980.
 
 UNICO.- El presente decreto surtirá sus efectos al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los procesos y recursos relativos a los delitos especificados en el presente Decreto, que en cualquier instancia estén pendientes de resolución al inicio de la vigencia del mismo, se sujetarán para los efectos de las sanciones privativas de libertad y pecuniarias que se apliquen, a lo que establecian las disposiciones correspondientes antes de la presente reforma y adiciones.
