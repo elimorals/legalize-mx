@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1928-1934-1432
 country: "mx"
 rank: "ley_organica"
 publication_date: "1928-12-12"
-last_updated: "1928-12-12"
+last_updated: "1934-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1432&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1928-12-11"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION -(1928-1934)-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 15 TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL D.O.F. DE 31 DE AGOSTO DE 1934, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 1934 (DEROGADO).
 
 Ley publicada en la Sección Primera del Diario Oficial, el miércoles 12 de diciembre de 1928.
 
@@ -642,3 +644,91 @@ Lo comunico a usted, para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D. F., 11 de diciembre de 1928.- El Subsecretario de Gobernación, Encargado del Despacho, Felipe Canales.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE AGOSTO DE 1934.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+###### ARTICULO 1°.
+
+Esta Ley entrará en vigor el día primero de octubre de mil novecientos treinta y cuatro.
+
+###### ARTICULO 2°.
+
+Las listas de jurados formadas para el presente año, regirán durante el año de mil novecientos treinta y cinco.
+
+###### ARTICULO 3°.
+
+Entretanto se expide la nueva Ley reglamentaria del juicio de amparo, las notificaciones en dicho juicio se harán:
+
+I.- A la autoridad responsable por oficio, o por oficio y telegrama a la vez, en casos urgentes, y siempre que se trate de resoluciones que exijan cumplimiento inmediato.
+
+II.- Personalmente a los quejosos privados de la libertad, si se trata: de hacerles saber las resoluciones dictadas en el incidente de suspensión, de citarlos para la audiencia de pruebas y alegatos, de comunicarles la sentencia que recaiga en el juicio y, en su caso, el auto que la declare ejecutoriada. Cuando se ignore el sitio en que el ofendido se encuentra, las notificaciones se entenderán en los términos de la fracción IV, con la persona que haya promovido el amparo.
+
+III.- Por oficio bajo cubierta certificada con acuse de recibo, a los quejosos o a los terceros interesados, en su caso, cuando su domicilio conste en el expediente, si se trata de comunicarles un auto de la Suprema Corte que deseche una demanda o que la mande aclarar o subsanar, o que deseche la revisión contra un auto de improcedencia o sobreseimiento o contra una sentencia definitiva.
+
+IV.- Fuera de los casos especificados en las fracciones que preceden, las notificaciones se harán personalmente en el tribunal a las partes, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y por lista autorizada que se fijará en sitio visible del tribunal si no se presentan oportunamente.
+
+V.- En el Distrito Federal, a partir de la fecha en que se inicie la publicación del Boletín Judicial Federal, las notificaciones que deban hacerse por lista, se harán mediante inserción en dicho Boletín.
+
+No obstante lo dispuesto en las fracciones IV y V de este artículo, cuando la autoridad que conozca del amparo lo estime conveniente, podrá ordenar que determinada notificación se haga personalmente a cualquiera de las partes.
+
+###### ARTICULO 4°.
+
+La lista o la publicación en el Boletín Judicial Federal, contendrá: el nombre de la persona a quien se notifique, el juicio en que la notificación se haga y síntesis de la parte dispositiva de la resolución correspondiente. En los autos se hará constar la fecha de la lista o de la publicación.
+
+###### ARTICULO 5°.
+
+Las notificaciones surtirán sus efectos:
+
+I.- Las comprendidas en la fracción I del artículo 3° transitorio, desde la hora en que se haya entregado el oficio a la autoridad responsable o en que se haya dejado en su oficina, si la autoridad se hubiese negado a recibirlo, cuando la notificación tenga que hacerse en el mismo lugar del juicio; y en el supuesto contrario, pasados los días que invierta el correo en llegar al lugar en que la autoridad resida. En el primer caso, el empleado que entregue o deje el oficio recogerá el recibo o hará constar la negativa de la autoridad en un libro talonario, agregando a los autos la parte principal. En el segundo caso, se mandará el oficio bajo cubierta certificada con acuse de recibo, para agregar éste a los autos luego que se obtenga.
+
+II.- En los casos de las fracciones II, III, IV y V del mismo artículo 3°., al día siguiente de aquel en que se haya hecho la notificación personal, entregado el oficio por el correo, fijada la lista o efectuada la publicación en el Boletín Judicial Federal, respectivamente.
+
+###### ARTICULO 6°.
+
+Entretanto se expiden los nuevos Códigos Federal de Procedimientos Civiles y de Comercio, las notificaciones que por disposición expresa, no sean personales conforme a los vigentes y que deban hacerse por los tribunales de la Federación, se llevarán a cabo de acuerdo con lo establecido en los artículos 3°. fracciones IV y V, y 4°. transitorios de esta Ley y surtirán sus efectos en los términos de la fracción II del artículo 5°. transitorio.
+
+###### ARTICULO 7°.
+
+Al entrar en vigor la presente Ley, los Juzgados Primero y Segundo de Distrito en el Distrito Federal se convertirán en Primero y Segundo de Distrito en el Distrito Federal en Materia Penal; los Juzgados Tercero y Cuarto, en Primero y Segundo, en el Distrito Federal en Materia Administrativa; y los Quinto y Sexto, en Juzgados Primero y Segundo de Distrito en el Distrito Federal en Materia Civil.
+
+Con excepción de los juicios civiles y penales en que se haya hecho ya la citación para sentencia, todos los demás asuntos serán remitidos por los Jueces, que conforme a esta Ley ya no deban conocer de ellos, al competente del mismo número del que haga la remisión, con simple aviso a la Suprema Corte, tratándose de juicios de amparo.
+
+La Suprema Corte dictará las medidas oportunas, a efecto de que la remisión de que trata el párrafo anterior se realice sin perjuicio del despacho expedito de los asuntos.
+
+###### ARTICULO 8°.
+
+Los recursos de súplica, pendientes de fallo, serán resueltos por la Tercera Sala de la Suprema Corte de Justicia.
+
+###### ARTICULO 9°.
+
+El Boletín Judicial Federal principiará a publicarse el día primero de enero de mil novecientos treinta y cinco, para cuyo efecto el presupuesto del Poder Judicial de la Federación contendrá las partidas correspondientes.
+
+###### ARTICULO 10.
+
+El día primero de octubre de este año, los Jueces de Distrito y los Magistrados de Circuito perderán el carácter de titulares de determinado Juzgado o Tribunal.
+
+###### ARTICULO 11.
+
+El turno de los Juzgados de Distrito en el Distrito Federal en materia penal, y en los administrativos y civiles, para el efecto que señala el artículo 40 de esta Ley, en lo que toca a los últimos, será diario en tanto hace la Suprema Corte de Justicia la regulación definitiva.
+
+El día primero de octubre de este año estarán en turno los Juzgados Primeros.
+
+###### ARTICULO 12.
+
+Entretanto se expide la ley que organice la Defensa de Oficio, la Suprema Corte de Justicia tendrá facultad para nombrar y remover al Jefe de Defensores de Oficio en el fuero federal, así como a todos los demás miembros de la Institución y tendrá todas las atribuciones que al respecto le confieren las leyes en vigor.
+
+###### ARTICULO 13.
+
+Entretanto se expide la ley de responsabilidades de los funcionarios y empleados de la Federación, continuarán en vigor los artículos 7°. a 9°. transitorios de la Ley Orgánica del Poder Judicial de la Federación, de 11 de diciembre de 1928.
+
+###### ARTICULO 14.
+
+Mientras dure el recargo de trabajo en la Suprema Corte de Justicia, circunstancia esta que calificará el Pleno, la Primera Sala, además de los asuntos que le señala el artículo 24 de esta Ley, conocerá de la revisión de todos los incidentes de suspensión y de todas las quejas propuestas conforme a los artículos 23 y 52 de la Ley Reglamentaria de los artículos 103 y 104 de la Constitución General.
+
+###### ARTICULO 15.
+
+Se deroga la Ley Orgánica del Poder Judicial de la Federación, de 11 de diciembre de 1928 y todas las demás disposiciones que se opongan a la presente.
