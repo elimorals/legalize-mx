@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2004-11-04"
+last_updated: "2004-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -206,6 +206,22 @@ Son habitantes del Estado todas las personas que residen en su territorio, sea c
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
 
 El pueblo de Tamaulipas establece que el respeto a las libertades y derechos fundamentales constituye la base y el objeto de las instituciones públicas y sociales. En consecuencia, en el Estado toda persona goza de las garantías individuales reconocidas por la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que la misma establece; y disfruta de las libertades y derechos fundamentales contenidos en los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la propia Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+En Tamaulipas se adoptarán las medidas legislativas y ejecutivas necesarias para lograr, progresivamente y mediante la aplicación de los máximos recursos disponibles a la luz de las finanzas públicas, la plena efectividad de los derechos sociales materia de su competencia conforme a los órdenes jurídicos nacional y estatal, particularmente a la alimentación, protección de la salud, educación, trabajo, vivienda digna y decorosa y medio ambiente sano, en aras de la igualdad de oportunidades para toda la población.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+Al efecto, la Ley establecerá las normas para alentar el desarrollo social, mediante un sistema estatal específico de planeación en la materia, cuyos preceptos serán congruentes con el sistema de planeación democrática del desarrollo previsto en el artículo 4º de esta Constitución, constituyéndose en un mecanismo permanente de concurrencia, colaboración, coordinación y concertación del Estado, los Municipios, los sectores social y privado y la sociedad en general.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+En el ejercicio de la política estatal de desarrollo social serán principios rectores la libertad, solidaridad, justicia distributiva, inclusión, integralidad, participación social, sustentabilidad, respeto a la diversidad y transparencia.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+En los términos que señale la ley, esa política será objeto de evaluación, estará sujeta al control social de sus beneficiarios y toda persona podrá formular denuncia sobre hechos, actos u omisiones que redunden en daños al ejercicio de sus derechos sociales.
 
 ###### Art. 17.
 
@@ -3198,5 +3214,9 @@ P.O. 1 DE ABRIL DE 2004.
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE NOVIEMBRE DE 2004.
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2004.
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
