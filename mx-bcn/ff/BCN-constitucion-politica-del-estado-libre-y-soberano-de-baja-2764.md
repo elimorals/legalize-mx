@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1998-03-20"
+last_updated: "1998-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -885,13 +885,13 @@ La Ley garantizará la independencia de los Magistrados, Consejeros y Jueces en 
 
 Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
 
-Para garantizar su independencia económica, el Poder Judicial del Estado contará con su presupuesto propio, el que administrará y ejercerá en los términos que fije la Ley respectiva.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
-El presupuesto del Poder Judicial, no podrá ser inferior al aprobado por el Congreso para el ejercicio anual anterior y alcanzará por lo menos, el 2% del total del Presupuesto de Egresos para el ejercicio correspondiente a las dependencias del Gobierno del Estado. El Congreso podrá reducir, por causa justificada y fundada, el porcentaje indicado.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
-Las partidas extraordinarias y de emergencia que se determinen como tales, no se tomarán en cuenta para fijar el porcentaje a que se refiere este Artículo.
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
-Contará igualmente, con los recursos que se señalen para el Fondo de Administración de Justicia en las leyes respectivas, administrado por el Consejo de la Judicatura del Estado.
+> <small>(DEROGADO OCTAVO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 La remuneración de los Magistrados del Poder Judicial a excepción de los Magistrados electorales, así como de los jueces de primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
 
@@ -1337,9 +1337,11 @@ El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fija
 
 El presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
 
-Para garantizar su independencia económica, los Poderes Legislativo y Judicial, contarán con Presupuesto propio, el que administrarán y ejercerán en los términos que se fijen las Leyes respectivas. Estos no podrán ser inferiores a los aprobados por el Congreso para el ejercicio anual anterior y alcanzarán por lo menos el 1.5% y 2.5%, para cada uno de los Poderes respectivamente, del Total del Presupuesto de Egresos para el ejercicio correspondiente a las dependencias del Gobierno del Estado, sin considerar para estos efectos las aportaciones de la Federación para programas especiales ni los financiamientos de terceros. El Congreso podrá modificar, por causa justificada y fundada, los porcentajes indicados.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
-Las partidas extraordinarias y de emergencia que se determinen como tales, no se tomarán en cuenta para fijar los porcentajes citados en este párrafo.
+Para garantizar su independencia económica, el Poder Judicial, contará con Presupuesto propio, el que administrará y ejercerá en los términos que fijen las Leyes respectivas. Este no podrá ser inferior al aprobado por el Congreso para el ejercicio anual anterior. El Congreso podrá modificar, por causa justificada y fundada, el monto presupuestado.
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 El Poder Judicial contará y administrará igualmente, con los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por el Consejo de la Judicatura del Estado.
 
@@ -2006,3 +2008,13 @@ Aprobado que sea el presente Dictamen anexo el acta de debates correspondiente, 
 ###### ARTICULO SEGUNDO.
 
 En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cuál entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE AGOSTO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Aprobada que sea esta Iniciativa por la Honorable Asamblea, con el anexo del acta de debates correspondiente, envíese para consulta a los Ayuntamientos del Estado, para efecto de dar cumplimiento con lo previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas al Ejecutivo Estatal para los efectos conducentes, las cuales entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
