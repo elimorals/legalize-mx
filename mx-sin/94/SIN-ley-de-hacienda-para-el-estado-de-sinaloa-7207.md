@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1997-08-13"
+last_updated: "1999-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1999.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1849,25 +1849,25 @@ ART. 58.- Los Oficiales Registradores, al solicitárseles un servicio de su comp
 
 ART. 59.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE MARZO DE 1999)</small>
 
-### CAPITULO VIII
+### CAPITULO VIII. DERECHOS POR EL OTORGAMIENTO DE LICENCIAS PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS Y LOCALES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-DERECHOS POR EL OTORGAMIENTO DE LICENCIAS, PERMISOS O AUTORIZACIONES PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS Y LOCALES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 60.- Es objeto de este derecho el otorgamiento de licencias para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
 
-ART. 60.- Es objeto de este derecho el otorgamiento de licencias permisos o autorizaciones para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 61.- Son sujetos de este derecho las personas físicas y morales a quienes se les otorguen licencias, para el funcionamiento de establecimientos y locales en los términos del artículo anterior.
 
-ART. 61.- Son sujetos de este derecho las personas físicas y morales que soliciten y obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales en los términos del artículo anterior.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 62.- La base de este derecho es el tipo de licencia que se otorgue en los términos de lo dispuesto por la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Sinaloa y su Reglamento, conforme a lo siguiente:
 
-ART. 62.- La base de este derecho es el tipo de licencia, permiso o autorización, que se otorgue en la materia ya sea en número de días u horas cuando se trate de permisos eventuales ó de funcionamiento en horas extraordinarias en los términos del Reglamento de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces de salario mínimo general diario vigente en el Estado, en los siguientes términos:
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 1999)</small>
 
-I.- Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán los derechos conforme a la siguiente:
+I.- Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, deberá cubrirse el equivalente al número de veces de salario mínimo general diario vigente en el Estado de acuerdo a la siguiente:
 
 T A R I F A
 
@@ -1915,123 +1915,47 @@ Salón de baile o
 
 de fiesta 882 882 882
 
-II.- Por la revalidación anual de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán derechos conforme a la siguiente:
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-T A R I F A
+Café cantante 882 882 882
 
-G I R O S C A T E G O RI A
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-A B C
+Discoteca 1176 1176 1176
 
-Licorería 70 70 70
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-Supermercado 147 136 126
+Salón de Boliche 882 882 882
 
-Almacén 236 203 171
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-Cantina 153 126 115
+Ultramarinos 1471 1176 882
 
-Cervecería 103 85 85
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-Bar 153 126 126
+Depósito de
 
-Cabaret 126 103 103
+Cerveza 1471 1471 1471
 
-Centro Nocturno 203 171 153
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
-Restaurante c/vta.
+Agencia matriz con
 
-de cerveza 106 85 85
+venta al público en
 
-Restaurant c/vta.
+general 1911 1911 1911
 
-de cerveza y vinos 106 85 85
+II.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
 
-Restaurante c/vta.
+III.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
 
-de cerveza, vinos y
+IV.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
 
-licores 147 132 119
+ART. 63.- (DEROGADO, P.O. 17 DE MARZO DE 1999)
 
-Restaurante con
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
 
-bar anexo 163 163 163
-
-Club Social 126 103 103
-
-Salón de baile o
-
-de fiesta 126 103 103
-
-III.- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
-
-T A R I F A
-
-G I R O S C A T E G O R I A
-
-A B C
-
-Licorería 0.15 0.15 0.15
-
-Cantina 0.17 0.17 0.17
-
-Cervecería 0.15 0.15 0.15
-
-Restaurante c/vta.
-
-de cerveza 0.36 0.36 0.36
-
-Restaurant c/vta.
-
-de cerveza y vinos 0.39 0.39 0.39
-
-Restaurante c/vta.
-
-de cerveza,
-
-vinos y licores 0.42 0.42 0.42
-
-Restaurante con
-
-bar anexo 0.74 0.74 0.74
-
-Bar 0.74 0.74 0.74
-
-Supermercado 0.39 0.20 0.17
-
-Cabaret 0.49 0.43 0.43
-
-Centro Nocturno 0.81 0.75 0.70
-
-Club Social 0.49 0.40 0.40
-
-Sala de Fiesta 0.40 0.35 0.30
-
-IV.- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
-
-T A R I F A
-
-G I R O S C A T E G O R I A
-
-A B C
-
-Para muestras o
-
-Degustaciones 5 4 3
-
-Eventos deportivos,
-
-Recreativos y artísticos. 200 100 50
-
-Eventos sociales 50 25 10
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 63.- La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la ley de la materia, deberá efectuarse durante los meses de enero a marzo de cada año.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 64.- Para la aplicación de las multas por violaciones a la ley de la materia, se atenderá a las disposiciones contenidas en dicha ley.
+ART. 64.- El cobro de multas por violaciones a la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, se efectuará por el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3236,6 +3160,16 @@ B).- En las poblaciones en que la base gravable para el cálculo del Impuesto Pr
 C).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 90 y 95%, para el presente ejercicio fiscal será de un 100%.
 
 P.O. 13 DE AGOSTO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 1999.
 
 ###### ARTICULO PRIMERO.
 
