@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1998-10-17"
+last_updated: "1999-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1327,11 +1327,11 @@ Los Ayuntamientos administrarán libremente su Hacienda y aprobarán su propio p
 
 La Ley de Ingresos de cada Municipio, será aprobada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### Art. 110.
 
-Los Ayuntamientos mandarán al Congreso todas sus cuentas a más tardar treinta días después de terminado el año y dentro de los primeros cinco días de cada mes, las cuentas correspondientes al mes anterior.
+Los Ayuntamientos mandarán al Congreso todas sus cuentas a más tardar treinta días después de terminado el año y dentro de los primeros veinte días de cada mes, las cuentas correspondientes al mes anterior.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
 
@@ -2268,3 +2268,9 @@ P.O. 17 DE OCTUBRE DE 1998.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 SEGUNDO.- Remítase la minuta aprobada a los Ayuntamientos Constitucionales del Estado para los efectos a que se refiere el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a cuyo término de computarán los resultados para dar trámite al decreto promulgatorio que será publicado en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 1999.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit, con sujeción a los requisitos y procedimientos que establece el artículo 131 de la Constitución Política del Estado de Nayarit.
