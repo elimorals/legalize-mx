@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2000-08-16"
+last_updated: "2001-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -373,7 +373,7 @@ a) Los relacionados con la extensión territorial y límites municipales;
 
 b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
+c) Las renuncias y licencias del Titular del Poder ejecutivo y de los Diputados;
 
 d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y de los Magistrados del Tribunal Electoral del Estado;
 
@@ -427,7 +427,7 @@ k) La designación de los Comisionados Ciudadanos a la Comisión Estatal Elector
 
 l) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
 
-m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
+m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
 
 n) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
 
@@ -531,7 +531,7 @@ c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarro
 
 d) Las iniciativas que conlleven a un fortalecimiento en las actividades agrícolas, forestales y ganaderas;
 
-e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
+e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamiento del Estado y sus respectivos trabajadores;
 
 f) La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
 
@@ -569,7 +569,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: Galena, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo, Mier y Noriega, Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Pesquería, Marín Higueras, Dr. González, Los Ramones, Cerralvo, Melchor Ocampo, Ciénega de Flores, China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo, General Zuazua, Mina, Abasolo, Hidalgo, El Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de Naranjo y Anáhuac, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: Galena, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo, Mier y Noriega, Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Pesquería, Marín Higueras, Dr. González, Los Ramones, Cerralvo, Melchor Ocampo, Ciénega de Flores, China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo, General Zuazua, Mina, Abasolo, Hidalgo, El Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de
+
+Naranjo y Anáhuac, Nuevo León; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -594,6 +596,10 @@ Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgá
 ###### Artículo 44.
 
 Las Comisiones Especiales serán designadas por la Asamblea conforme lo establece el Artículo 74 de la Ley Orgánica del Poder Legislativo, y se integrarán por un Presidente, un Vice-Presidente, un Secretario y seis Vocales, y se encargarán exclusivamente de atender el asunto para el cual fueron nombradas.
+
+> <small>N. DE E. SE TRANSCRIBE POR SU IMPORTANCIA EL ARTICULO UNICO DEL DECRETO No. 36, PUBLICADO EN EL P.O. 31 DE ENERO DE 2001:</small>
+
+EL TERMINO "INTERES" A QUE SE REFIERE EL PRESENTE, COMO CAUSA PARA QUE UN DIPUTADO SE EXCUSE DE INTERVENIR EN LOS ASUNTOS COMPETENCIA DE LAS COMISIONES Y DEL PLENO, DEBE ENTENDERSE SOLO EN LOS CASOS EN QUE REPRESENTE O PUEDA REPRESENTAR UN BENEFICIO PERSONAL, INDIVIDUAL O DIRECTO, PARA SI MISMO O PARA ALGUN GRUPO DE PERSONAS CONSIDERADAS INDIVIDUALMENTE.
 
 ###### Artículo 45.
 
@@ -751,7 +757,7 @@ VIII.- Elaborar y custodiar las actas de las sesiones y el Diario de Debates del
 
 IX.- Informar a la Directiva, mensualmente y por escrito, sobre la asistencia de los Diputados a las sesiones del Pleno del Congreso, así como a las de las Comisiones y Comités de que formen parte;
 
-X.- Organizar y supervisar la realización de reuniones de información y audiencia, foros y consultas populares por instrucciones de la Directiva o de las Comisiones;
+X.- Organizar y supervisar la realización de reuniones de información y audiencia, foros y consultas populares por instrucciones de la Directiva o de las Comisiones
 
 XI.- Llevar la custodia, registro y control de expedientes e iniciativas, así como de las leyes, decretos y acuerdos que expida el Congreso;
 
@@ -1754,3 +1760,7 @@ Artículo Cuarto.- La transferencia de unidades administrativas de una dependenc
 Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia, a otra, se respetarán en términos de la legislación correspondiente.
 
 Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE ENERO DE 2001.
+
+Único.- El presente Decreto entrará en vigor al momento de su aprobación.
