@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "1994-09-02"
+last_updated: "1995-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE MAYO DE 1995.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -181,7 +181,9 @@ III.- Preterintencionalmente, el que causa un resultado típico más grave al qu
 
 ARTICULO 19 A.- Para todos los efectos legales y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes que se prevén en el presente Código:
 
-I.- Homicidio, previsto en el artículo 139, en relación con los artículos 140, 141 y 152; así como en sus grados de preterintencionalidad y de tentativa.
+> <small>(REFORMADA, B.O. 24 DE MAYO DE 1995)</small>
+
+I.- Homicidio previsto en el artículo 139 en relación con los artículos 140, 141, 151 fracciones I, II y III, 152, 156 solo por lo que respecta a la modalidad de riña, 157 primer párrafo y 159 en sus grados de preterintencionalidad y de tentativa; por lo que se refiere al tipo descrito en el artículo 159, sólo se considerará grave el homicidio si fuere doloso.
 
 II.- Lesiones, previsto en el artículo 142, siempre que se cometa en la hipótesis señalada en el segundo párrafo del artículo 144.
 
@@ -3146,3 +3148,9 @@ B.O. 2 DE SEPTIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 24 DE MAYO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
