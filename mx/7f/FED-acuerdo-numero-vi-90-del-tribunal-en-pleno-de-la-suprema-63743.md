@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-vi-90-del-tribunal-en-pleno-de-la-suprema-63743"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1990-07-17"
-last_updated: "1990-07-17"
+last_updated: "1990-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63743&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1990-04-05"
 
 ACUERDO No. VI/90, DEL TRIBUNAL EN PLENO DEL DIA CINCO DE ABRIL DE MIL NOVECIENTOS NOVENTA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO No. XXIV/90, DEL TRIBUNAL EN PLENO DEL DIA DIECISEIS DE OCTUBRE DE MIL NOVECIENTOS NOVENTA, PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 1990, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 17 de julio de 1990.
 
@@ -66,3 +68,15 @@ CERTIFICA:
 Que este Acuerdo VI/90, relativo a la modificación en los turnos de los Juzgados de Distrito Tercero y Cuarto en el estado de Sonora, con residencia en la ciudad de Nogales, fue aprobado en Sesión Privada el jueves cinco de abril de mil novecientos noventa, por unanimidad de diecinueve votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Samuel Alba Leyva, Mariano Azuela Güitrón, Salvador Rocha Díaz, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Francisco Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a nueve de abril de mil novecientos noventa.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de tres fojas útiles concuerda fiel y exactamente con su original que obra en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto tercero transitorio del acuerdo correspondiente. México, Distrito Federal, a dieciocho de abril de mil novecientos noventa.- El Secretario General de Acuerdos de la Suprema Corte de Justicia, José Javier Aguilar Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE OCTUBRE DE 1990.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir del veintinueve de octubre de mil novecientos noventa, se abroga el Acuerdo Plenario número VI/90, de cinco de abril del año citado.
+
+TERCERO.- La Comisión de Gobierno y Administración y el ministro inspector de los Juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes Juzgados de Distrito para su debido cumplimiento, y de los tribunales Colegiados y Unitario del Quinto Circuito, para su conocimiento.
