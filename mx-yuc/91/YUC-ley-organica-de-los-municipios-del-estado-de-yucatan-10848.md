@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1990-02-14"
+last_updated: "1991-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1991.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1677,11 +1677,23 @@ III.- Los bienes que hayan formado parte del patrimonio de una corporación púb
 
 IV.- Los demás inmuebles y muebles que por cualquier título traslativo de dominio adquiera el Municipio y que no estén comprendidos en el Artículo 75 de esta Ley.
 
+> <small>(REFORMADO, D.O. 16 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 77.
 
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y contratación de obras que se realicen por parte de los Ayuntamientos, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatorias para que libremente se presenten proposiciones en sobre cerrado que será abierto públicamente a fin de asegurar al Municipio las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes muebles y la contratación de obra pública que se realice por parte de los Ayuntamientos, así como las enajenaciones que los Ayuntamientos hicieren a título oneroso de los bienes inmuebles propiedad del Municipio, se adjudicarán o llevarán a cabo mediante licitaciones públicas que serán convocadas por la autoridad municipal correspondiente, a fin de que se presenten en sobre cerrado las respectivas proposiciones. La apertura de las referidas propuestas se hará públicamente y la propia autoridad municipal elegirá de entre ellas la que presente mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad, eficacia, honestidad, solvencia y liquidez económica.
 
-Cuando las licitaciones a que se hace referencia no sean idóneas para asegurar las condiciones, de conformidad con las leyes aplicables, se estudiarán de las ofrecidas las que presenten mejores condiciones en cuanto a economía, eficiencia, eficacia, imparcialidad y honradez a fin de que los contratos que se celebran aseguren las mejores condiciones para el Municipio.
+En las convocatorias deberán especificarse los términos, requisitos, importes, condiciones y demás circunstancias particulares según el caso, que deberán cubrir los interesados en participar en la licitación.
+
+No será necesaria la licitación a que se contrae este precepto cuando los Municipios adquieran bienes inmuebles o los tomaren en arrendamiento, debiendo sujetarse la contratación a los avalúos que para estos efectos expida una Institución Bancaria o un Corredor Público Titulado.
+
+Tampoco será necesaria la licitación para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes muebles y la contratación de obra pública, siempre y cuando se cumplan los requisitos siguientes:
+
+I.- Que el monto máximo de las operaciones por adjudicación directa no exceda al equivalente de tres mil salarios mínimos diarios vigentes en el Estado.
+
+II.- Que el monto máximo de las operaciones para adjudicación por invitación, esto es, habiendo considerado previamente por lo menos tres propuestas, no exceda al equivalente de diez mil salarios mínimos diarios vigentes en el Estado.
+
+En los contratos de prestación de servicios de cualquier naturaleza se estará a lo dispuesto en el Reglamento que para tal efecto expidan los Ayuntamientos, los que quedan autorizados para determinar los términos, requisitos, importes y condiciones que deberán cubrir los interesados en prestar sus servicios al Ayuntamiento respectivo. En el propio Reglamento se consignarán las demás disposiciones que los Ayuntamientos consideren convenientes, siempre y cuando no contravengan lo dispuesto en la presente Ley.
 
 ###### ARTICULO 78.
 
@@ -2254,3 +2266,7 @@ LIC. MARCO ANTONIO MARTINEZ ZAPATA
 D.O. 14 DE FEBRERO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 16 DE JULIO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
