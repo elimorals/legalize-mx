@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1954-01-30"
+last_updated: "1954-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1954.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -419,11 +419,11 @@ IV.- A los Ayuntamientos en lo que se relaciona con asuntos de la Administració
 
 Con excepción de las iniciativas de los Diputados, que se sujetarán a los trámites que designe el reglamento de debates, todas pasarán desde luego a la Comisión respectiva.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1954)</small>
 
 ###### Artículo 39.
 
-El primer período de sesiones ordinarias de cada año de ejercicio legal, se destinará de toda preferencia al examen y votación de los proyectos de presupuestos que remitirá oportunamente el Ejecutivo.
+El periodo de Sesiones Ordinarias de cada ejercicio anual; se destinará de preferencia al examen y votación de los proyectos de Presupuestos que remitirá oportunamente el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
 
@@ -557,9 +557,9 @@ III.- Formar los reglamentos y dictar las providencias que demande la mejor ejec
 
 IV.- Nombrar y remover libremente al Secretario del Despacho y a los empleados cuyo nombramiento no corresponda a otra corporación o autoridad.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1952)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 1954)</small>
 
-V.- Nombrar y remover libremente al Procurador General de Justicia, a los Agentes del Ministerio Público del Estado y al Tesorero General del Estado.
+V.- Nombrar y remover libremente al Director General de Hacienda y Administración, Tesorero General del Estado, Procurador General de Justicia, Agente del Ministerio Público y a los Jefes de las Fuerzas de Policía y Seguridad en el Estado.
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1407,11 +1407,13 @@ II.- Si son extranjeros:
 
 Son ciudadanos colimenses:
 
-I.- Por nacimiento: los nacidos dentro del territorio del Estado de padres mexicanos, o fuera de él, de padres colimenses por nacimiento, desde la edad de dieciocho años si son casados, o de veintiuno si no lo son.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 1954)</small>
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+I.- Por nacimiento: los varones y las mujeres nacidos dentro del territorio del Estado de padres mexicanos, o fuera del él, de padres colimenses por nacimiento, desde la edad de diez y ocho años si son casados, o de veintinuno (sic) si no lo son.
 
-II.- Por vecindad los nacidos fuera del territorio del Estado, que sean mexicanos y que tengan el requisito de edad a que se refiere la fracción anterior y una residencia en el Estado, no interrumpida de cinco años o más.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 1954)</small>
+
+II.- Por vecindad: los varones y las mujeres nacidos fuera del Territorio del Estado, que sean mexicanos y que tengan el requisito de edad a que se refiere la fracción anterior y una residencia en el Estado no interrumpida de cinco años o más.
 
 ###### Artículo 11.
 
@@ -1658,3 +1660,7 @@ P.O. 30 DE ENERO DE 1954.
 DECRETO NO. 129, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 68, 70, 72, 74, 75, 77, 78 Y 79 DE LA CONSTITUCION DEL ESTADO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 1954.
+
+Este decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
