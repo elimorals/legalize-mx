@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-de-puebla-7732"
 country: "mx"
 rank: "ley"
 publication_date: "1968-11-05"
-last_updated: "1968-11-05"
+last_updated: "1976-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1976.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
 
@@ -221,27 +221,35 @@ Para obtener la patente de Notario, se requiere:
 
 I.- Tener patente de Aspirante al Ejercicio del Notariado, adquirida en términos de esta Ley.
 
-II.- Ser mexicano por nacimiento; tener 25 años cumplidos y no más de 70.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1976)</small>
+
+II.- Ser mexicano por nacimiento y no tener más de 70 años de edad.
 
 III.- No tener el vicio de la embriaguez ni el del juego y haber tenido, y tener buena conducta.
 
-IV.- Ser abogado, con título expedido por Institución reconocida legalmente por el Estado, con 2 años, por lo menos, de ejercicio profesional.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1976)</small>
+
+IV.- Ser abogado, con título expedido por Institución reconocida legalmente por el Estado.
 
 V.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales, ni impedimento físico que se oponga a las funciones de Notario.
 
 VI.- Estar en el ejercicio de sus derechos políticos y civiles; no pertenecer al estado eclesiástico; no haber sido condenado en proceso penal por delito intencional e infamante; no haber sido declarado en quiebra o sujeto a concurso, sin haber sido rehabilitado, o declarado inculpable; no haber sido separado del ejercicio del Notariado dentro de la República, con causa justificada.
 
-VII.- Ser vecino del Estado.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1976)</small>
+
+VII.- Ser vecino del Estado, con residencia no menor de 5 años ininterrumpidos, anteriores a su nombramiento.
 
 VIII.- Estar vacante alguna Notaría de las ya establecidas, o de las que se crearen en lo futuro.
 
-IX.- Triunfar en la oposición que al efecto se lleve a cabo, en la forma prevista en esta Ley.
+IX.- (DEROGADA, P.O. 6 DE AGOSTO DE 1976)
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
 ###### Artículo 28.
 
-Los requisitos señalados en el artículo anterior se justificarán en la siguiente forma:
+Los requisitos señalados en el artículo anterior, se justificarán en la siguiente forma:
 
-El primero, con la patente respectiva; el segundo, por los medios que establece el Código Civil, para justificar el estado de las personas; el tercero, por información testimonial; el cuarto, por medio del título e información testimonial, por lo que hace al ejercicio; el qunto (sic), por medio de certificados expedidos por dos médicos titulados; los requisitos establecidos por el inciso sexto, no requieren prueba, pero sí, la declaración, bajo protesta, del interesado, de no encontrarse comprendido en esos impedimentos, la cual admite prueba en contrario; lo dispuesto en los incisos séptimo y octavo, con el certificado que respectivamente expidan la autoridad municipal correspondiente y la Secretaría General de Gobierno; y el noveno, con la constancia expedida por el Jurado Calificador.
+El primero, con la patente respectiva; el segundo, por los medios que establece el Código Civil, para justificar el estado de las personas; el tercero, por información testimonial; el cuarto, por medio del título respectivo; el quinto, por medio de certificados expedidos por dos médicos titulados; los requisitos establecidos por la fracción VI no requieren prueba, pero sí, la declaración, bajo protesta, del interesado, de no encontrarse comprendido en esos impedimentos, la cual admite prueba en contrario; lo dispuesto en las fracciones VII y VIII, con el certificado que respectivamente expidan la Autoridad Municipal correspondiente y la Secretaría General de Gobierno.
 
 ###### Artículo 29.
 
@@ -257,73 +265,69 @@ A tal fin, el Presidente del Consejo convocará, por escrito a los miembros de �
 
 Ninguno de los requisitos que se fijan en los artículos anteriores es dispensable.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 32.
 
-Al concluirse el expediente relativo a la comprobación de los requisitos que fijan los artículos anteriores, se dará vista con él, al Consejo de Notarios a fin de que exprese, con apoyo en lo actuado, si procede legalmente, o no, la expedición de la patente.
+Al concluirse el expediente relativo a la comprobación de los requisitos que fijan los artículos anteriores, se dará vista con él, al Consejo de Notarios, a fin de que, con apoyo en lo actuado, dentro de los cinco días hábiles siguientes emita su opinión sobre si procede legalmente o no, la expedición de la patente.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
 ###### Artículo 33.
 
-Cuando estuviere vacante una Notaría, o cuando fuere creada por el Ejecutivo del Estado, a solicitud del Consejo de Notarios, la Secretaría General de Gobierno publicará un anuncio, por tres veces consecutivas, en el Periódico Oficial del Estado, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener por oposición la patente de Notario. El mismo anuncio se publicará también, por tres veces consecutivas, en uno de los periódicos de más circulación en el Estado. En el plazo de 30 días, contados a partir de la última publicación, los pretendientes presentarán al Ejecutivo del Estado, su solicitud para ser admitidos a la oposición, acompañándola con la patente de aspirante, expedida a su favor, debidamente registrada, y con su declaración bajo protesta, de que después de que les fué extendida aquella, no ha ocurrido causa que los incluya en alguno de los impedimentos a que se refiere esta Ley; y si se comprobare la existencia de alguno de dichos impedimentos, el solicitante quedará privado del derecho a ser admitido al examen de oposición. Las solicitudes aprobadas se turnarán al Consejo de Notarios.
+Cuando estuviere vacante una Notaría, o cuando fuere creada por el Ejecutivo del Estado, la Secretaría General de Gobierno publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado y en otro de los de mayor circulación en la Entidad, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener la patente de la Notaría vacante, para que dentro del término de diez días, contados a partir de la última publicación, presenten su solicitud ante el Ejecutivo del Estado, acompañándola con la patente de aspirante expedida a su favor, debidamente registrada. Transcurrido dicho término, dentro de los 40 días siguientes deberán llenar los demás requisitos a que se refiere el Artículo 27 de esta Ley; y fenecido este término, el propio Ejecutivo extenderá la patente de Notario en favor del solicitante que, reunidos los requisitos de Ley, considere más idóneo.
 
 ###### Artículo 34.
 
-El Consejo de Notarios del Estado, señalará día y hora para la celebración de los exámenes de oposición, comunicándolo desde luego a la Secretaría General de Gobierno. Así mismo, lo hará saber a los concursantes, pero a éstos, cuando menos, con 15 días de anticipación, por medio de oficio enviado por correo certificado, con acuse de recibo, a la dirección que al efecto hubieren designado en su solicitud.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 35.
 
-El jurado de examen se compondrá de 5 miembros: 2 abogados designados por el Secretario General de Gobierno; el Presidente del Consejo de Notarios y 2 Notarios más que nombrará el propio Consejo. Será Presidente del jurado, el abogado que al efecto designe el Secretario General de Gobierno y desempeñará las funciones de Secretario, el que el jurado designe por mayoría de votos. El Consejo designará además a 3 Notarios suplentes.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 36.
 
-No podrán formar parte del Jurado, el Notario en cuya Notaría haya hecho su práctica el sustentante, ni los parientes consanguíneos o afines de éste dentro del tercer grado de parentesco en línea recta o colateral, ni los que guarden relación íntima de amistad con el mismo sustentante o por cualquiera otra causa no pudieren obrar con imparcialidad. Los miembros del jurado que tuvieren alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
-
-El sinodal que dejare de concurrir al acto sin mediar impedimento o dispensa, será sancionado con una multa de CIEN PESOS que impondrá el Ejecutivo del Estado, tan luego como reciba la comunicación correspondiente del Consejo de Notarios.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 37.
 
-El Consejo de Notarios cuidará de tener seleccionados en sobres cerrados y numerados, por lo menos 20 temas para sortear el que haya de ser presentado a los examinandos; estos temas serán discutidos y aprobados para su selección, por el propio Consejo, de entre los que le presenten sus miembros. Aquellos temas que hayan sido motivo de examen y que carezcan de actualidad o de interés a juicio del mencionado Consejo, serán eliminados y no podrán presentarse dentro de los que sirvan para nuevos exámenes.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 38.
 
-El examen de oposición consistirá en 2 pruebas, una práctica y otra teórica. La primera consistirá en la redacción del instrumento objeto de la prueba, cuyo tema será sorteado por el jurado.
-
-En la prueba teórica, los miembros del Jurado interrogarán a cada sustentante sobre puntos de derecho que entrañen alguna dificultad y sean de aplicación práctica dentro del Ejercicio del Notariado.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 39.
 
-En el día y hora señalados para la prueba práctica, se reunirán todos los candidatos en el lugar que señale el Consejo de Notarios, y en presencia del Jurado, uno de los sustentantes, extraerá de un ánfora una ficha y abrirá el sobre que contenga el tema marcado con el número de la misma. Los candidatos se enterarán del tema y procederán desde luego a la redacción del instrumento correspondiente, cada uno por su parte, y sin auxilio de ninguna persona, bajo la vigilancia de 3 miembros del Jurado. Para el efecto dispondrán de 5 horas corridas, concluids (sic) las cuales, el Secretario del Jurado recogerá los trabajos hechos, guardándolos en sobres que serán convenientemente cerrados y firmados por él, y por los sustentantes.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 40.
 
-La prueba teórica, tendrá lugar en el local que señale el Consejo de Notarios y será pública.
-
-Se procederá al examen de los candidatos por orden alfabético de su primer apellido. El que por cualquier motivo no concurriere a la hora señalada, perderá su turno y será el último. Si tampoco se presentare al llegar su nuevo turno, se le tendrá por desistido; pero si acreditare debidamente hallarse enfermo u otro motivo justificado, a juicio del Jurado, podrá concedérsele un breve plazo improrrogable.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 41.
 
-Una vez concluido el examen teórico, el Secretario dará lectura al trabajo práctico del sustentante. En seguida, el Jurado, a puerta cerrada y en escrutinio secreto, procederá a la calificación del sustentante. Los sinodales individualmente calificarán cada una de las pruebas con notas del 1 al 10. Al hacer la calificación del instrumento redactado, se tomará en cuenta no sólo la parte jurídica, sino también la redacción, gramatical, en lo que se refiere a claridad y precisión de lenguaje, y las calificaciones obtenidas por cada sustentante, se promediarán para determinar la que en definitiva corresponda, y las cuales se darán a conocer desde luego al interesado.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 42.
 
-Concluido el examen de todos los candidatos, será declarado triunfador el que resulte con una mayor calificación, sumadas, las que hubiere obtenido en ambas pruebas. El Jurado se abstendrá de hacer dicha declaración, cuando 2 o más sustentantes coincidan en la calificación más alta de las obtenidas.
-
-Para ser aprobado se requiere una calificación de promedio superior a 5. El Jurado levantará y firmará el acta respectiva y comunicará al Consejo de Notarios el resultado de la oposición, quien transmitirá el informe al Ejecutivo del Estado.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 43.
 
-Cumplidos los requisitos señalados en los artículos anteriores, el Ejecutivo del Estado extenderá el nombramiento del Notario al triunfador de la oposición. En caso de empate, se extenderá nombramiento en favor del candidato que elija el propio Ejecutivo, entre los que obtuvieren la mayor calificación.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 44.
 
-Cuando no hubiere oposición por no haberse presentado más que una sola solicitud dentro del término señalado por la Ley, se procederá al examen del aspirante, y si fuere aprobado, a él se le expedirá la patente.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 45.
 
-En cualquiera de los supuestos a que se refieren los 3 artículos anteriores, previamente a la expedición de la patente, el interesado deberá acreditar los requisitos a que se refieren las fracciones II, III, IV, V, VI, VII y VIII, del artículo 27 de esta Ley.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 46.
 
-Cuando ninguno de los pretendientes fuere aprobado, el Jurado declarará desierta la oposición y no podrá convocar nuevamente a ésta, sino hasta que hubieren transcurrido 3 meses; pero el candidato que hubiere sido reprobado en la oposición, no podrá presentarse nuevamente, sino hasta después de un año de haber sido reprobado.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ### CAPITULO QUINTO. Requisitos para la Iniciación de la Actuación del Notariado
 
@@ -403,17 +407,25 @@ El que pretenda sustentar el examen a que se refiere la fracción V del artícul
 
 Admitida que sea la solicitud, y oído previamente el parecer del Consejo de Notarios, en relación con el cumplimiento de los requisitos que señala el artículo anterior, al expresar su conformidad, el Consejo señalará día y hora para que tenga lugar el examen, el cual se efectuará dentro del mes siguiente al de su acuerdo.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 55.
 
-El examen se efectuará en el lugar que determine el Consejo de Notarios, debiendo integrarse el Jurado en la forma establecida por el artículo 35 en relación con el 36 de esta Ley.
+El examen se efectuará en el lugar que determine el Consejo de Notarios, ante un jurado compuesto de 5 miembros: dos abogados designados por el Secretario General de Gobierno; el Presidente del Consejo de Notarios y dos Notarios más que nombrará el propio Consejo. Será Presidente del jurado el abogado que al efecto designe el Secretario General de Gobierno y desempeñará las funciones de Secretario el que, por mayoría de votos, designen los miembros del jurado. El Consejo designará además a tres Notarios suplentes.
+
+No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho su práctica el sustentante, los parientes consanguíneos o afines de éste dentro del tercer grado en línea recta o colateral, ni los que guarden amistad íntima con el sustentante o por cualquiera otra causa no pudieren obrar con imparcialidad.
+
+El sinodal que dejare de concurrir al acto sin mediar impedimento o dispensa, será sancionado con una multa de doscientos pesos que impondrá el Ejecutivo del Estado, tan luego como reciba la comunicación correspondiente del Consejo de Notarios.
 
 ###### Artículo 56.
 
 Consistirá el examen en una prueba práctica que será la redacción de un instrumento, cuyo tema se sorteará de 20 propuestos, sellados y colocados en sobres cerrados, por el Consejo de Notarios. Cada uno de los miembros del Jurado deberá interrogar al sustentante con relación al tema de que se trate.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 57.
 
-El día, y en el local señalados para el examen, reunidos los miembros del Jurado con el sustentante, éste extraerá a la suerte uno de esos sobres, el cual entregará al Secretario, quien vigilará que el interesado, sin el auxilio de personas extrañas, aunque provisto de los Códigos y libros de consulta necesarios, proceda al desarrollo y resolución del caso que se le haya propuesto, para lo cual se le concederá un término que no exceda de 5 horas, durante las cuales, bastará con que se encuentren presentes por lo menos 3 de los miembros del Jurado. Fenecido el término señalado, el sustentante procederá a dar lectura a su trabajo; a continuación, los miembros del Jurado deberán interrogarle, versando las preguntas precisamente sobre el tema propuesto.
+El día, y en el local señalados para el examen, reunidos los miembros del jurado con el sustentante, éste extraerá a la suerte uno de esos sobres, el cual entregará al Secretario, quien vigilará que el interesado, sin el auxilio de personas extrañas, aunque provisto de los Códigos necesarios, proceda al desarrollo y resolución del caso que se le haya propuesto, para lo cual se le concederá un término que no exceda de 5 horas, durante las cuales, bastará con que se encuentren presentes por lo menos tres de los miembros del jurado. Fenecido el término señalado, el sustentante procederá a dar lectura a su trabajo; a continuación, los miembros del jurado deberán interrogarle, versando las preguntas sobre el tema propuesto.
 
 ###### Artículo 58.
 
@@ -429,9 +441,11 @@ El Consejo de Notarios enviará al Ejecutivo del Estado, un ejemplar del acta de
 
 Cumplidos los requisitos exigidos en los artículos anteriores, el Ejecutivo del Estado extenderá en favor del interesado, la patente de Aspirante al ejercicio del Notariado.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 61.
 
-Si después de extendida la patente, resultare que por causa superviniente, el favorecido con ella estuviere sujeto a un impedimento o incapacidad para el desempeño de las funciones notariales, quedará privado del derecho que pudiera asistirle para concurrir al examen de oposición y cubrir la vacante de Notaría.
+Si después de extendida la patente, resultare que por causa superviniente, (sic) el favorecido con ella estuviere sujeto a un impedimento o incapacidad para el desempeño de las funciones Notariales, quedará privado del derecho para obtener la patente de Notario.
 
 ###### Artículo 62.
 
@@ -449,17 +463,19 @@ La patente de aspirante al ejercicio del Notariado, deberá ser registrada en la
 
 Cuando un Notario, hubiere cumplido 25 años de ejercer esta actividad en el Estado, tendrá derecho a designar un Notario Auxiliar de entre los que hayan recibido la patente de aspirante. El nombramiento de Notario Auxiliar, lo extenderá el Ejecutivo del Estado, a solicitud del Notario Titular y en favor del aspirante propuesto por éste, previa opinión del Consejo de Notarios, en el sentido de que reúne los requisitos establecidos por el artículo 67 de esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 65.
 
-El Notario Auxiliar tendrá las mismas facultades para ejercer las funciones notariales que el Titular, actuando ambos en el mismo protocolo y con el sello del Titular, pero el Auxiliar deberá hacer constar en los instrumentos su carácter indicado.
+El Notario Auxiliar tendrá las mismas facultades para ejercer las funciones Notariales que el Titular, actuando ambos en el mismo protocolo y con el sello del Titular, pero el Auxiliar deberá hacer constar en los instrumentos su carácter indicado.
 
-El Auxiliar será en todo caso de ausencia, considerado como suplente del Titular, con igual capacidad de actuar, y será el sucesor de éste, en caso de falta definitiva, sin necesidad de ulterior nombramiento y siempre que hayan transcurrido, por lo menos 2 años de haber comenzado a ejercer como Auxiliar en la Notaría.
+El Auxiliar, será, en todo caso de ausencia, el Suplente del Titular, con igual capacidad de actuar, y será el sucesor de éste, en caso de falta definitiva, sin necesidad de ulterior nombramiento.
 
-El Auxiliar tendrá los mismos deberes que el Titular, y le serán aplicables todos los preceptos relativos a aquél.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
 ###### Artículo 66.
 
-Los Auxiliares podrán presentarse a los exámenes de oposición que se convoquen para cubrir las vacantes que ocurran en otras Notarías, debiendo llenar todos los requisitos señalados para obtener la patente de Notario Titular.
+Los Auxiliares podrán solicitar el nombramiento de Titulares, para cubrir las vacantes que ocurran en otras Notarías.
 
 ###### Artículo 67.
 
@@ -495,19 +511,23 @@ Ejercerán el Notariado con el carácter de substitutos, los suplentes designado
 
 Todo Notario que no esté asociado ni tenga Auxiliar, podrá proponer al Ejecutivo del Estado el nombramiento de un suplente.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 73.
 
-Para que pueda obtenerse la patente de Notario suplente de una Notaría, se necesita llenar los requisitos establecidos por el artículo 67 como si se tratara de un Notario Auxiliar, con excepción del relativo al tiempo de ejercicio profesional.
+Para que pueda obtenerse la patente de Notario Suplente de una Notaría, se necesita llenar los requisitos establecidos por el artículo 67, como si se tratara de un Notario Auxiliar.
 
-Si el aspirante cubriere los requisitos requeridos, el Ejecutivo le expedirá la patente para desempeñar el cargo de suplente del Notario Titular que lo hubiere propuesto, debiendo procederse a los registros y publicación que ordena el propio Artículo 67.
+Si el aspirante cubriere los requisitos requeridos, el Ejecutivo le expedirá la patente para desempeñar el cargo de Suplente del Notario Titular que lo hubiere propuesto, debiendo procederse a los registros y publicación que ordena el propio artículo 67.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
 ###### Artículo 74.
 
-El suplente substituirá al Titular en sus ausencias, previo aviso que al efecto darán ambos a la Secretaría General de Gobierno, salvo el caso de impedimento físico del Titular, en que el aviso lo dará sólo el suplente, expresando la causa.
+El Suplente substituirá al Titular en sus ausencias, previo aviso que al efecto darán ambos a la Secretaría General de Gobierno, salvo el caso de impedimento físico del Titular, en que el aviso lo dará sólo el Suplente, expresando la causa.
 
-La suma de todos los períodos en que el suplente substituya al Titular, no excederá de 120 días naturales cada año.
+La suma de todos los períodos en que el Suplente substituya al Titular no excederá de 120 días naturales cada año.
 
-Sin embargo, la suplencia podrá exceder del término fijado en el párrafo anterior, en los casos de enfermedad, o licencia del Titular para desempeñar un cargo oficial o de elección popular, pero si por las causas indicadas la ausencia de aquél sobrepasare de un año, el suplente adquirirá el carácter de Auxiliar, a solicitud del titular, si éste ya tiene una antigüedad de 25 años y aquél 2 años de ejercer la profesión de abogado.
+Sin embargo, la suplencia podrá exceder del término fijado en el párrafo anterior, en los casos de enfermedad o licencia del Titular para desempeñar un cargo oficial o de elección popular, pero si por las causas indicadas la ausencia de aquél sobrepasare de un año, el Suplente adquirirá el carácter de Auxiliar a solicitud del Titular, si éste ya tiene una antigüedad de 25 años.
 
 ###### Artículo 75.
 
@@ -527,9 +547,11 @@ Los convenios o las designaciones de suplente a que se refieren los artículos a
 
 Dicha publicación, será hecha sin costo alguno para los interesados.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 79.
 
-En las Cabeceras de los Distritos Judiciales en que de acuerdo con el artículo 4, las funciones de Notario, sean ejercidas por el Juez de lo Civil; en defecto de éste las ejercerá el funcionario; que de acuerdo con la Ley Orgánica del Departamento Judicial, debe substituirlo, siempre y cuando fuere abogado. Lo anterior, sin perjuicio de lo dispuesto por el Código Civil, en cuanto a los Jueces Menores.
+En las Cabeceras de los Distritos Judiciales en que de acuerdo con el artículo 4, las funciones del Notario sean ejercidas por el Juez de lo Civil, en defecto de éste, las ejercerá el funcionario que de acuerdo con la Ley Orgánica del Poder Judicial debe substituirlo, siempre y cuando fuere abogado. Lo anterior sin perjuicio de lo dispuesto por el Código Civil, en cuanto a los Jueces Menores.
 
 ###### Artículo 80.
 
@@ -539,11 +561,11 @@ El Notario que actúe como sustituto de otro, ejercerá las mismas funciones que
 
 ### CAPITULO PRIMERO. De los Libros del Protocolo
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 81.
 
-El protocolo está constituido por los libros o volúmenes en los cuales el Notario asienta los instrumentos que autoriza, y por el apéndice en que se incorporan los documentos relacionados con ellos.
-
-Los documentos incorporados al apéndice quedan con ello protocolizados y, en consecuencia, forman parte integrante del instrumento.
+El protocolo está constituido por los libros o volúmenes en los cuales el Notario asienta los instrumentos que autoriza.
 
 ###### Artículo 82.
 
@@ -885,9 +907,13 @@ Al expedirse un testimonio deberá ponerse razón en que se expresen:
 
 a) El orden de expedición, con el nombre de la persona a quien se expida y a qué título.
 
-b) El número del volumen a que pertenece el instrumento, y el de éste, el número de fojas de que se componen el testimonio, y en su caso, el de los anexos que constituyen parte integrante del mismo.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
-c) La firma y sello del Notario, con los que también deberá autorizarse la razón que pondrá en los anexos para hacer constar que son parte integrante del testimonio a que se refieren.
+b) El número del volumen a que pertenece el instrumento, y el de éste, el número de fojas de que se compone el testimonio, y en su caso, el número de documentos o copias que se le anexen.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
+c) La firma y sello del Notario, con los que también deberá autorizarse la razón que pondrá en los anexos o copias.
 
 d) Al terminar la razón de expedición, se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para la matriz.
 
@@ -1097,17 +1123,21 @@ El inventario a que se refieren los artículos anteriores incluirá todos los li
 
 En todo caso de clausura de un protocolo, se oondrá (sic) razón en cada uno de los libros abiertos, que contendrá la fecha de la diligencia, la causa que motiva el cierre y las demás circunstancias que se estimen convenientes, suscribiendo dicha razón con sus firmas los intervinientes. De todas las diligencias relativas a la clausra (sic) de un protocolo, se levantará acta por triplicado que será firmada igualmente por todos los intervinientes, remitiéndose un ejemplar a la Secretaría General de Gobierno, otro al Consejo de Notarios, y entregándose el último al Notario o a quien lo represente.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 163.
 
-En el caso de que el Notario faltante hubiere tenido auxiliar con antigüedad mayor de 2 años, o hubiere estado asociado en término de esta Ley, no se clausurará el protocolo, el cual quedará a cargo del auxiliar, pero ya con carácter de titular de la misma, debiendo poner razón de ello en los libros del protocolo, con expresión de fecha y causa. El Auxiliar podrá utilizar por un término no mayor de 30 días, el sello del Notario anterior, haciéndolo constar en cada caso, y con la obligación de proveerse del sello, y otorgar la caución prescrita por esta Ley.
+En el caso de que el Notario faltante tuviere Auxiliar, o estuviere asociado en términos de esta Ley, no se clausurará el protocolo, el cual quedará a cargo del Auxiliar, pero ya con carácter de titular, debiendo poner razón de ello en los libros del protocolo, con expresión de fecha y causa. El Auxiliar podrá utilizar por un término no mayor de 30 días, el sello del Notario anterior, haciéndolo constar en cada caso, y con la obligación de proveerse del sello, y otorgar la caución prescrita por esta Ley.
 
 ###### Artículo 164.
 
 En el caso de que el Notario faltante hubiere estado asociado en los términos de esta Ley, no se calsurará (sic) el protocolo, en cual seguirá a cargo del Notario asociado, quien asentará en los libros que tuviere en uso, razón de haber dejado de actuar en aquellos el Notario faltante, en la que se expresará la fecha y la causa de ello.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+
 ###### Artículo 165.
 
-En el caso de que el Notario faltante, no hubiere estado asociado en términos de esta Ley, pero tuviere Auxiliar que no haya cumplido aún el requisito de antigüedad, o tuviere suplente, éstos actuarán hasta por 60 días más, con el exclusivo fin de ejecutar lo que debiera haber realizado el Notario substituido y expedir testimonios o copias.
+En el caso de que el Notario faltante no hubiere estado asociado, ni tuviere Auxiliar pero tuviere Suplente, éste actuará hasta por 60 días más con el exclusivo fin de ejecutar lo que debiera haber realizado el Notario substituido y expedir testimonios o copias.
 
 ###### Artículo 166.
 
@@ -1375,7 +1405,9 @@ I.- Representar al Colegio de Notarios y con tal personalidad, ejercer las funci
 
 II.- Dirigir las actividades del propio Colegio.
 
-III.- Tener seleccionados precisamente dentro del mes de febrero de cada año, los temas para los exámenes que previene esta Ley.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1976)</small>
+
+III.- Tener seleccionados precisamente dentro del mes de febrero de cada año, los temas para el examen que previene esta Ley.
 
 IV.- Administrar los bienes que integren el patrimonio del Colegio.
 
@@ -1408,6 +1440,10 @@ Las Sesiones del Consejo, serán convocadas por el Secretario, a virtud de acuer
 Las citaciones se harán por lo menos con 3 días de anticipación, por medio de circular u otro medio eficaz, y las decisiones serán válidas siempre que sean tomadas por mayoría del número de los integrantes del Consejo.
 
 ## TITULO DECIMO TERCERO. Del Archivo General de Notarías
+
+T R A N S I T O R I O S .
+
+> <small>(F. DE E., P.O. 20 DE MAYO DE 1969)</small>
 
 ### CAPITULO UNICO
 
@@ -1469,10 +1505,6 @@ El Director del Archivo usará en los testimonios o copias que expida, en sus co
 
 El Director será responsable personalmente de la custodia y conservación de todos los libros y documentos que consten en su Archivo, así como de las violaciones y faltas que cometa a los preceptos de esta Ley, y será sancionado por el Ejecutivo del Estado en la forma aplicable al personal dependiente de la Secretaría General de Gobierno.
 
-T R A N S I T O R I O S .
-
-> <small>(F. DE E., P.O. 20 DE MAYO DE 1969)</small>
-
 ###### Artículo 1.
 
 La presente Ley entrará en vigor, quince días después de su publicación en el Periódico Oficial.
@@ -1487,7 +1519,7 @@ Subsistirán las 25 Notarías de número creadas por disposiciones anteriores co
 
 ###### Artículo 4.
 
-Al sobrevenir vacante en las Notarías que funcionen en la Capital del Estado, si no hubiere en éllas auxiliares que deban asumir la titularidad de las mismas, no se convocará a exámenes de oposición para cubrir las vacantes, si el número de Notarios excediere del límite señalado en el artículo 12 de esta Ley. En este caso, el Ejecutivo acordará la clausura de la Notaría.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1976)
 
 ###### Artículo 5.
 
@@ -1496,3 +1528,9 @@ Mientras no se expida por el Ejecutivo el arancel que se menciona en el artícul
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Departamento Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los 13 días del mes de Septiembre de 1968.- Antonio Porras Pérez, D. P.- Rúbrica.- Dr. Vicente Galindo Luna.- Rúbrica.- Adolfo García Camacho. D. S.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus Efectos. Dado en el Palacio del Departamento Ejecutivo en la Heroica Puebla de Zaragoza, a los diez días del mes de octubre de mil novecientos sesenta y ocho.- El Gobernador Interino del Estado, Ing. Aarón Merino Fernández.- Rúbrica.- El Secretario General de Gobierno, Lic. Enrique Molina Johnson.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE AGOSTO DE 1976.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
