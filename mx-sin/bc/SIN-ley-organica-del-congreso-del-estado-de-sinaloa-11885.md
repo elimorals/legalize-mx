@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "1998-03-27"
+last_updated: "1998-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1998.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -53,9 +53,11 @@ El Congreso del Estado se compone de representantes del pueblo, nombrados en ele
 
 Por cada Diputado propietario se elegirá un suplente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 4.
 
-La Legislatura del Estado se integra con veinticuatro Diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y con dieciséis Diputados electos por el principio de representación proporcional, mediante el sistema de listas regionales votadas en circunscripciones plurinominales.
+La Legislatura del Estado se integra con veinticuatro Diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y con dieciséis Diputados electos por el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
 
 Los Diputados, una vez electos y en el ejercicio de sus funciones, serán considerados con los mismos derechos y obligaciones.
 
@@ -235,9 +237,13 @@ Los Diputados que por sí o por intermedio de otras personas afecten el patrimon
 
 Ningún Diputado podrá excusarse cuando se le designe para formar parte de una Comisión o de la Mesa Directiva; cuando incumplan con el desempeño de la Comisión serán sancionados, la primera vez con una amonestación y, de reincidir será turnado a la Comisión de Honor y Justicia.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 30.
 
 Los Diputados que sin causa justificada o sin permiso no se presentaren en los días de sesión a la hora indicada para el inicio de ésta no se les cubrirá la dieta correspondiente.
+
+Tampoco tendrán derecho a la dieta correspondiente cuando en las mismas circunstancias faltaren a los trabajos de las Comisiones de las que formaren parte.
 
 ###### ARTICULO 31.
 
@@ -527,11 +533,19 @@ El secretario de la Gran Comisión deberá de levantar las actas de las sesiones
 
 El secretario suplirá las faltas del Presidente y cuando ello no sea posible, la sustitución la hará el vocal que primeramente haya sido nombrado. Las faltas del secretario serán cubiertas por el vocal que primeramente haya sido nombrado y así sucesivamente por los demás Vocales.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 62.
 
-La Gran Comisión tendrá sesiones ordinarias, por lo menos, una vez al mes y extraordinarias cuando el Presidente de la Comisión lo juzgue pertinente.
+Antes de que concluya el tercer año de ejercicio constitucional de cada Legislatura, la Gran Comisión elaborará un informe sobre el trabajo de la Legislatura, en el cual se relacionarán los asuntos que quedaron pendientes.
+
+Dicho informe se entregará al Presidente de la Mesa Directiva de la nueva Legislatura, para que en su oportunidad lo turne al Presidente de la Gran Comisión de dicha Legislatura.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 63.
+
+La Gran Comisión tendrá sesiones ordinarias, por lo menos una vez al mes y extraordinarias cuando el Presidente de la Comisión lo juzgue pertinente.
 
 La Gran Comisión dispondrá de un local adecuado en las instalaciones del Congreso y contará con los recursos humanos y materiales que sean necesarios para el desempeño de sus funciones, con arreglo a lo que determine el presupuesto.
 
@@ -551,7 +565,7 @@ En el cumplimiento de sus funciones el Congreso del Estado integrará Comisiones
 
 Ninguna Comisión se integrará con Diputados de un sólo Partido.
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 67.
 
@@ -559,41 +573,41 @@ Serán Comisiones Permanentes las siguientes:
 
 I.- De Puntos Constitucionales y Gobernación;
 
-II.- De Concertación Política;
+II.- De Hacienda Pública y Tesorería;
 
-III.- De Hacienda Pública y Tesorería;
+III.- De Desarrollo Social;
 
-IV.- De Desarrollo Social;
+IV.- De Administración;
 
-V.- De Administración;
+V.- De Educación Pública y Cultura;
 
-VI.- De Educación Pública y Cultura;
+VI.- De Ecología;
 
-VII.- De Ecología;
+VII.- De Desarrollo Agropecuario y Promoción Económica;
 
-VIII.- De Desarrollo Agropecuario y Promoción Económica;
+VIII.- De Comunicaciones y Obras Públicas;
 
-IX.- De Comunicaciones y Obras Públicas;
+IX.- De Salud y Asistencia Social;
 
-X.- De Salud y Asistencia Social;
+X.- De la Juventud y el Deporte;
 
-XI.- De la Juventud y el Deporte;
+XI.- De Asuntos Obreros y de Trabajo y Previsión Social;
 
-XII.- De Asuntos Obreros y de Trabajo y Previsión Social;
+XII.- De Derechos Humanos;
 
-XIII.- De Derechos Humanos;
+XIII.- De Glosa;
 
-XIV.- De Glosa;
+XIV.- De Vigilancia;
 
-XV.- De Vigilancia;
+XV.- De las Comunidades y Asuntos Indígenas;
 
-XVI.- De las Comunidades y Asuntos Indígenas;
+XVI.- De Turismo;
 
-XVII.- De Turismo;
+XVII.- De Pesca;
 
-XVIII.- De Pesca;
+XVIII.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
 
-XIX.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+XIX.- De Equidad, Género y Familia;
 
 XX.- De Protocolo y Régimen Orgánico Interior;
 
@@ -601,9 +615,19 @@ XXI.- De Honor y Justicia; e
 
 XXII.- Instructora.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 68.
 
-Las Comisiones Permanentes serán nombradas por la Gran Comisión en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
+Las Comisiones Permanentes serán nombradas por el Pleno, en su conjunto en votación nominal, a propuesta de la Gran Comisión, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
+
+La Gran Comisión como órgano conductor y coordinador del trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
+
+Para los efectos del párrafo anterior, la Gran Comisión analizará en su seno las razones o motivos por los cuales estima procedente proponer al Pleno el cambio de integrantes de las Comisiones Permanentes.
+
+Las razones o motivos por los cuales se considera procedente el cambio de algún integrante de las Comisiones Permanentes se contendrán en la propuesta que dirigirá la Gran Comisión al Pleno.
+
+El Pleno del Congreso del Estado, acordará por mayoría de los Diputados presentes, la propuesta del cambio de integrantes de las Comisiones Permanentes.
 
 ###### ARTICULO 69.
 
@@ -617,37 +641,53 @@ Las reuniones de las Comisiones serán privadas, pero podrán celebrar, si así 
 
 A las reuniones de las Comisiones asistirán sus miembros, las personas convocadas para informarlas y los Diputados que lo deseen. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Las Comisiones Permanentes presentarán en la última sesión de cada período ordinario de sesiones un informe escrito, por el que se dé cuenta del uso que hayan hecho de sus atribuciones y de los asuntos que les hayan sido turnados por la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Justicia e Instructora.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 71.
 
 Las Comisiones Permanentes, además de lo establecido en el artículo anterior, tendrán las siguientes atribuciones:
 
-I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la procuración y administración de justicia, a la seguridad pública, así como los asuntos relacionados con la expedición de Leyes;
+I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la procuración y administración de justicia, a la seguridad pública, así como los relacionados con la expedición de Leyes;
 
-II.- La Comisión de Concertación Política tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores camarales, previo los Acuerdos a que lleguen lo (sic) Diputados integrantes de la misma Comisión, buscando siempre los puntos de consenso para hacer las propuestas que se requieran para el cumplimiento de sus funciones;
+II.- La Comisión de Glosa tendrá a su cargo el despacho de los negocios que le impone la Ley Orgánica de la Contaduría Mayor de Hacienda, respecto a la revisión de las cuentas públicas;
 
-III.- La Comisión de Glosa tendrá a su cargo el despacho de los negocios que le impone la Ley Orgánica de la Contaduría Mayor de Hacienda, respecto a la revisión de las cuentas públicas;
+III.- La Comisión de Vigilancia conjuntamente con la Comisión de Glosa propondrá el nombramiento del Contador Mayor de Hacienda, establecerá los criterios generales para el funcionamiento de la Contaduría Mayor de Hacienda, revisará el informe anual del Contador Mayor de Hacienda así como su programa de trabajo y conocerá de las responsabilidades en que incurra el personal de la Contaduría Mayor de Hacienda;
 
-IV.- La Comisión de Vigilancia conjuntamente con la Comisión de Glosa propondrá el nombramiento del Contador Mayor de Hacienda, establecerá los criterios generales para el funcionamiento de la Contaduría Mayor de Hacienda, recibirá el informe anual del Contador Mayor de Hacienda así como su programa de trabajo y conocerá de las responsabilidades en que incurra el personal de la Contaduría Mayor de Hacienda;
+IV.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
 
-V.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
+V.- La Comisión de Hacienda Pública y Tesorería tendrá a su cargo el despacho de los negocios que le señalen las Leyes en materia fiscal, así como los asuntos donde se ventile la situación de la Hacienda Pública estatal y de los municipios;
 
-VI.- La Comisión de Hacienda Pública y Tesorería tendrá a su cargo el despacho de los negocios que le señalen las Leyes en materia fiscal, así como los asuntos donde se ventile la situación de la Hacienda Pública estatal y de los municipios;
+VI.- La Comisión de Honor y Justicia funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones; y
 
-VII.- La Comisión de Honor y Justicia funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones; y
+VII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
 
-VIII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 72.
 
 Las Comisiones se compondrán:
 
-Las Permanentes, a excepción de la de Concertación Política, con cinco Diputados y las especiales con tres mínimo y máximo cinco Diputados.
+Las Permanentes con cinco Diputados y las especiales con tres mínimo y máximo cinco Diputados.
 
 En ningún caso un Diputado podrá formar parte de más de tres Comisiones Permanentes.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 73.
 
-La Comisión de Concertación Política la integrarán los Diputados Coordinadores de cada uno de los diversos Grupos Parlamentarios, más otro Diputado del grupo mayoritario en la Cámara y sus Acuerdos sólo se tomarán por consenso.
+Habrá una Comisión de Concertación Política la cual se integrará por los Diputados Coordinadores de cada uno de los diversos Grupos Parlamentarios, más otro Diputado del grupo mayoritario en la Cámara y sus Acuerdos sólo se tomarán por consenso.
+
+Cuando un Grupo Parlamentario cambie de Coordinador, el designado se integrará a la Comisión de Concertación Política en sustitución del anterior.
+
+La Comisión de Concertación Política tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores camarales, previo a los Acuerdos a que lleguen los Diputados integrantes de la misma Comisión, buscando siempre los puntos de consenso para hacer las propuestas que se requieran para el cumplimiento de sus funciones.
 
 ###### ARTICULO 74.
 
@@ -661,23 +701,27 @@ Las faltas de los integrantes de las Comisiones Permanentes serán cubiertas por
 
 En las Comisiones actuarán como Presidente el primero que sea nombrado, el designado en segundo lugar como Secretario y los miembros restantes como Vocales.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 77.
 
 Los Presidentes de las Comisiones Permanentes tendrán las siguientes atribuciones:
 
-I.- Coordinar los trabajos de las Comisiones;
+I.- Instalar formalmente las Comisiones;
 
-II.- Representar a las Comisiones ante las instancias que correspondan;
+II.- Coordinar los trabajos de las Comisiones;
 
-III.- Recibir y solicitar la información que sea necesaria para el cumplimiento de las funciones de las Comisiones;
+III.- Representar a las Comisiones ante las instancias que correspondan;
 
-IV.- Dar trámite y procurar que los asuntos de las Comisiones sean atendidos en los términos que establece la Ley;
+IV.- Recibir y solicitar la información que sea necesaria para el cumplimiento de las funciones de las Comisiones;
 
-V.- Citar a reunión de las Comisiones cuando haya asuntos que deban ser conocidos por la misma;
+V.- Dar trámite y procurar que los asuntos de las Comisiones sean atendidos en los términos que establece la Ley;
 
-VI.- Presidir y coordinar las sesiones de las Comisiones; y
+VI.- Citar a reunión de las Comisiones cuando haya asuntos que deban ser conocidos por la misma;
 
-VII.- Las demás que la Ley y otras disposiciones o Acuerdos de la Cámara establezcan.
+VII.- Presidir y coordinar las sesiones de las Comisiones; y
+
+VIII.- Las demás que la Ley y otras disposiciones o Acuerdos de la Cámara establezcan.
 
 ### CAPITULO VII. DE LA DIPUTACION PERMANENTE
 
@@ -713,9 +757,11 @@ XI.- Decretar en caso grave, la traslación provisional de los Poderes del Estad
 
 XII.- Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hayan consignado en la Constitución Política del Estado, o que le confieran las Leyes.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 80.
 
-La Diputación Permanente estará integrada por cinco Diputados de los cuales funcionarán tres como propietarios y dos como suplentes.
+La Diputación Permanente estará integrada por once Diputados de los cuales funcionarán siete como propietarios y cuatro como suplentes.
 
 ###### ARTICULO 81.
 
@@ -727,9 +773,11 @@ La Diputación Permanente no suspenderá sus trabajos durante los períodos extr
 
 La Diputación Permanente se instalará el mismo día en que el Congreso cierre sus sesiones; y hecha la instalación se comunicará por oficio al Gobernador para su conocimiento y publicación, así como a las demás autoridades del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 83.
 
-Para su instalación, la Diputación Permanente nombrará a un Presidente, un Secretario y un vocal.
+Para su instalación, la Diputación Permanente nombrará a un Presidente y un Secretario, fungiendo el resto de los propietarios como Vocales.
 
 ###### ARTICULO 84.
 
@@ -1145,9 +1193,13 @@ Podrá dispensarse la segunda lectura, siempre que la Cámara lo acuerde, a peti
 
 Inmediatamente después de la segunda lectura, si la hubiere o en caso de su dispensa, se interrogará a la Cámara, si se toma o no en consideración la iniciativa; si la resolución fuere afirmativa se pasará a la Comisión que corresponda y si fuese negativa, se tendrá por desechada y no podrá volver a presentarse en el mismo período de sesiones.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 147.
 
-Las iniciativas de Ley que presente la Legislatura del Estado ante el Congreso de la Unión serán acordadas por aquella y se firmarán por el Presidente y los Secretarios.
+Las iniciativas de Ley que presente la Legislatura del Estado ante el Congreso de la Unión serán acordadas por el Pleno y se firmarán por el Presidente y los Secretarios.
+
+Para el caso de las iniciativas que quedaren pendientes de resolución de una Legislatura a otra, el iniciador deberá ratificarlas ante la nueva Legislatura durante su primer período ordinario de sesiones.
 
 #### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
 
@@ -1383,19 +1435,19 @@ Los Diputados, cuando aporten algún escrito como anexo a su intervención, pued
 
 Habrá tres clases de votaciones: nominal, económica y por cédula.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 193.
 
-En las votaciones nominales se procederá al pase de lista de los Diputados para que expresen su voto directamente contestando aprobado o no aprobado.
+En las votaciones nominales, se procederá al pase de lista de los Diputados para que expresen su voto directamente, contestando aprobado o no aprobado.
 
-Las votaciones nominales serán en los casos siguientes:
+Las votaciones nominales, serán en los casos siguientes:
 
-I.- Cuando se vote un proyecto de Ley en lo general o en lo particular;
+I.- Cuando se vote un proyecto de Ley, en lo general o en lo particular;
 
-II.- Cuando se voten iniciativas que el Congreso del Estado dirija al de la Unión, y
+II.- Cuando se voten iniciativas que el Congreso del Estado dirija al de la Unión; y
 
-III.- Cuando así lo determine el Presidente de la Mesa Directiva y la Asamblea.
-
-Encontrándose presente el Diputado y no manifestando su voto, se entenderá a favor del proyecto.
+III.- Cuando así lo determine el Presidente de la Mesa Directiva o la Asamblea.
 
 ###### ARTICULO 194.
 
@@ -1423,9 +1475,13 @@ VII.- Las que tengan por objeto designar a los Consejeros Ciudadanos del Consejo
 
 VIII.- En general, todas aquellas que se trate de nombrar o elegir personas.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 196.
 
-Los Diputados en las votaciones nominales y económicas tienen obligación de votar precisamente en el sentido afirmativo o negativo, sin que por ningún motivo puedan salvar su voto.
+Los Diputados en las votaciones nominales y económicas, tienen obligación de votar precisamente en sentido afirmativo o negativo, sin que por ningún motivo puedan salvar su voto.
+
+Encontrándose presente el Diputado y no manifestando su voto, se entenderá a favor del proyecto.
 
 ###### ARTICULO 197.
 
@@ -1736,3 +1792,9 @@ DECRETO NUMERO 467
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE OCTUBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", excepto lo dispuesto en los artículos 80 y 83 modificados, los cuales lo harán al día siguiente del inicio de vigencia de la reforma al artículo 49 de la Constitución Política del Estado de Sinaloa.
