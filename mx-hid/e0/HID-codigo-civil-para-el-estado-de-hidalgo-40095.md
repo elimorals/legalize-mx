@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1982-11-16"
+last_updated: "1983-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1983.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -3917,9 +3917,11 @@ Fuera del caso a que se refiere el artículo 716, la emancipación siempre será
 
 De la Mayor Edad.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1983)</small>
+
 ###### Art. 721.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### Art. 722.
 
@@ -15810,3 +15812,7 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado.
