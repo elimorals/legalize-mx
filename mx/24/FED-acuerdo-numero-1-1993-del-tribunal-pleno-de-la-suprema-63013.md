@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1996-03-12"
+last_updated: "1996-04-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -209,9 +209,13 @@ XIV.- DECIMO CUARTO CIRCUITO:
 
 2.- Juzgados Primero y Segundo de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida;
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
 
-3.- Juzgado de Distrito en el Estado de Quintana Roo, con residencia en la ciudad de Chetumal;
+3.- Juzgado Primero de Distrito en el Estado de Quintana Roo, con residencia en Ciudad Chetumal;
+
+> <small>(ADICIONADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+3 Bis.- Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en Cancún;
 
 > <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
@@ -343,7 +347,9 @@ TERCERO.- La jurisdicción territorial de los juzgados de Distrito es la siguien
 
 I.- Los Juzgados de Distrito residentes en la capital de la República ejercerán jurisdicción en el Distrito Federal;
 
-II.- Los Juzgados de Distrito en los estados de Aguascalientes, Baja California Sur, Campeche, Colima, Hidalgo, Jalisco, Morelos, Nuevo León, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Tabasco, Tlaxcala, Yucatán y Zacatecas ejercerán jurisdicción, respectivamente, en el territorio de cada uno de los mismos estados;
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+II.- Los Juzgados de Distrito en los Estados de Aguascalientes, Baja California Sur, Campeche, Colima, Hidalgo, Jalisco, Morelos, Nuevo León, Puebla, Querétaro, San Luis Potosí, Tabasco, Tlaxcala, Yucatán y Zacatecas ejercerán jurisdicción, respectivamente, en el territorio de cada uno de los mismos estados;
 
 III.- Los Juzgados Primero y Segundo de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic, además de ejercer jurisdicción en el territorio del mismo, la ejercerán en las Islas Marías;
 
@@ -493,7 +499,15 @@ XL.- Los Juzgados Segundo, Tercero y Cuarto de Distrito en el Estado de Guerrero
 
 > <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-XL Bis.- El Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del Estado, excepto en los municipios comprendidos en las fracciones XXXIX y XL.
+XL Bis.- El Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del Estado, excepto en los municipios comprendidos en las fracciones XXXIX y XL;
+
+> <small>(ADICIONADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+XLI.- El Juzgado Primero de Distrito en el Estado de Quintana Roo, con residencia en Ciudad Chetumal, ejercerá jurisdicción en los municipios de Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco;
+
+> <small>(ADICIONADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
+
+XLII.- El Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerá jurisdicción en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
 
 CUARTO.- Los treinta juzgados de Distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, seis en materia civil y dos en materia de trabajo.
 
@@ -562,6 +576,18 @@ D.O.F. 12 DE MARZO DE 1996.
 PRIMERO.- Este Acuerdo entrará en vigor el veintisiete de marzo de mil novecientos noventa y seis.
 
 SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994, ambos del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintidós de abril de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994 del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
