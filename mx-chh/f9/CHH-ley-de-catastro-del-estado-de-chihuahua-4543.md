@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "1995-11-18"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -383,7 +383,9 @@ Los actos y resoluciones emitidas por las autoridades catastrales, con base en l
 
 ARTICULOS TRANSITORIOS:
 
-Artículo Primero.- Esta ley entrará en vigor el día primero de enero de 1996, con excepción de lo dispuesto en el párrafo segundo del artículo 24, el cual entrará en vigor el primero de enero de 1997.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Artículo Primero. Esta ley entrará en vigor el día primero de enero de 1996, con excepción de lo dispuesto en el párrafo segundo del artículo 24, el cual entrará en vigor el primero de enero de 1998.
 
 Artículo Segundo. Las Disposiciones de el Código Fiscal del Estado de Chihuahua en su Libro Primero, Título tercero, Capítulo I, Sección Sexta, serán aplicables de manera supletoria, hasta en tanto se expida el Reglamento de la presente Ley.
 
@@ -420,3 +422,9 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
