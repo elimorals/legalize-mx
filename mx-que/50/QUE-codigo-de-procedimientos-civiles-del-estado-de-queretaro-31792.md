@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1994-06-09"
+last_updated: "1994-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2647,7 +2647,7 @@ XIII.- Las acciones relativas a servidumbres legales o que consten en títulos p
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2665,7 +2665,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
 
 ###### ARTICULO 433.
 
@@ -6370,3 +6370,17 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Las personas que al entrar en vigor la presente Ley están tramitando juicio de rectificación o modificación de actas, podrán optar por concluir aquel o acudir ante la Dirección del Registro Civil, en los términos de lo dispuesto en este ordenamiento, para que se lleve a cabo la rectificación o modificación correspondiente.
+
+P.O. 20 DE OCTUBRE DE 1994
+
+###### ARTICULO PRIMERO.
+
+Las personas que al entrar en vigor esta Ley, estén tramitando juicio de registro extemporáneo podrán optar por concluir o por acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento para que se asiente su registro de nacimiento.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley se publicará en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y su vigencia será durante los meses de diciembre de 1994, enero y junio de 1995.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente, quedan derogadas mientras dura la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
