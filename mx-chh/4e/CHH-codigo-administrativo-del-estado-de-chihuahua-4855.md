@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1994-07-27"
+last_updated: "1994-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -3693,9 +3693,13 @@ La organización de los distintos servicios de la Policía, así como todo lo re
 
 El sistema penal se organizará sobre la base de trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 685.
 
-El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para la extinción de las penas y estarán separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Los menores infractores serán internados, en su caso, en instituciones diversas de las asignadas a los adultos.
+Toda persona que se encuentre en prisión preventiva y sujeta a un proceso penal, tiene derecho a que se le confine en un lugar totalmente separado y distinto al sitio destinado para extinguir la pena. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Los menores infractores serán internados, en su caso, en instituciones diversas de las asignadas a los adultos.
+
+El incumplimiento de este precepto será sancionado de conformidad con las leyes.
 
 ###### ARTICULO 686.
 
@@ -10177,15 +10181,15 @@ DECIMA SEGUNDA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA TERCERA PARTE
+
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
-
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11273,7 +11277,7 @@ SE DEROGAN LA DÉCIMA SEGUNDA PARTE, LIBRO UNICO, DE LAS RESPONSABILIDADES Y SAN
 
 P.O. 1 DE JUNIO DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 8 DE ENERO DE 1992.
 
@@ -11320,3 +11324,9 @@ SEGUNDO.- SE DEROGAN LAS DISPOSICIONES CONTENIDAS EN EL LIBRO SEXTO, TERCERA PAR
 P.O. 27 DE JULIO DE 1994.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
