@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2002-10-04"
+last_updated: "2002-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -735,7 +735,9 @@ I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
 Aquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
 
-II.- Tener 35 años cumplidos el día de la elección;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2002)</small>
+
+II.- Tener treinta años cumplidos el día de la elección;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -1179,7 +1181,7 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1229,7 +1231,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2450,3 +2452,9 @@ UNICO.- La presente reforma y adición entrará en vigor al día siguiente al de
 P.O. 4 DE OCTUBRE DE 2002.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2002.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Municipios de esta entidad para que emitan su opinión en los términos de ley.
