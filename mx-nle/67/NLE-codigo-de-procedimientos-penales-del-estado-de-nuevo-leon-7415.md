@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2004-12-10"
+last_updated: "2004-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -37,11 +37,9 @@ NUM. 95
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
+## TITULO SEGUNDO (SIC). REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
+
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-## TITULO PRIMERO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 1.
 
@@ -97,9 +95,9 @@ También ordenar, bajo su responsabilidad y sin orden de aprehensión, la detenc
 
 En estos casos el Ministerio Público podrá retener al indiciado solamente hasta cuarenta y ocho horas o hasta noventa y seis horas en los casos que la ley prevea como delincuencia organizada. La contravención a ello se sancionará conforme lo previene el código penal;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-V.- Hará que tanto el ofendido como el probable responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicológico y físico en que se encuentran. Tratándose del probable responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación y en caso de ser necesario deberá obtener la prueba que compruebe su estado de intoxicación;
+V.- Hacer que tanto el ofendido como el probable responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicológico y físico en que se encuentran. Tratándose del probable responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación y en caso de ser necesario deberá obtener la prueba que compruebe su estado de intoxicación; se aplicará una presunción positiva en tal sentido en caso de que el probable responsable se niegue a la práctica de dicha prueba y presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio o del lenguaje, o se encuentre en la escena del delito algún objeto que haga presumir el consumo de bebidas alcohólicas, sustancias tóxicas o estupefacientes, lo anterior salvo prueba en contrario;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -197,17 +195,17 @@ El recurso de inconformidad se tramitará ante el Procurador General de Justicia
 
 El recurso de inconformidad se deberá de interponer ante el mismo Agente del Ministerio Público que conozca de la averiguación previa, dentro de los tres días siguientes a que quede legalmente notificado; en el escrito en que se interponga el recurso deberán de expresarse los agravios materia de la inconformidad, en caso de no expresarse, se tendrá por no interpuesto el recurso.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Una vez agregado a los autos de la averiguación previa el escrito del recurso, se dictará un acuerdo de radicación y admisión del mismo, en un plazo no mayor a tres días.
+Una vez agregado a los autos de la averiguación previa el escrito que contiene el recurso, el Agente del Ministerio Público dictará en un plazo no mayor a tres días, un acuerdo de admisión o en su caso de desechamiento si se hubiere presentado fuera del término.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 El Agente del Ministerio Público que conozca de la averiguación previa, deberá remitir el original de la misma y el escrito del recurso para su substanciación al Procurador General de Justicia del Estado, a más tardar a los tres días siguientes contados a partir de que reciba el recurso.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-El Procurador General de Justicia del Estado resolverá en definitiva sobre la procedencia o no del recurso de inconformidad, en un plazo de veinte días contados a partir de que quede radicado el expediente. Si la averiguación previa excediera de quinientas hojas, por cada cincuenta de exceso se aumentará un día más de plazo.
+El Procurador General de Justicia del Estado resolverá en definitiva sobre la procedencia o no del recurso de inconformidad, en un plazo de hasta veinte días contados a partir de que reciba el expediente. Si la averiguación previa excediera de quinientas fojas, se duplicará dicho término.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -281,7 +279,9 @@ La ejecución de las sanciones privativas de libertad y pecuniarias, corresponde
 
 También corresponde al Ejecutivo declarar, cuando proceda, la prescripción del derecho a la ejecución de las sanciones.
 
-## TITULO SEGUNDO (SIC). REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
+## TITULO PRIMERO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO PRIMERO. JURISDICCION Y COMPETENCIA
 
@@ -1283,13 +1283,9 @@ Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y
 
 Cuando por la naturaleza del delito, de la pena aplicable al imputado o de las circunstancias personales del mismo, no deba ser internado en prisión preventiva y existan elementos para suponer que podría sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al Juez, fundada y motivadamente, o éste disponer de oficio durante el proceso, el arraigo del indiciado con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el Artículo 139 tratándose de la averiguación previa, o bien en el proceso por el término constitucional en que éste deba resolverse, a excepción de aquellos delitos para los cuales la ley señale pena alternativa.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
 ###### ARTICULO 141 Bis.
 
-Cuando en la averiguación previa o en el proceso, hubiere de declarar el testigo que conozca de los hechos motivo del procedimiento penal o hubiere la necesidad o el temor fundado de que se ausente antes de que se le pueda declarar, podrá decretarse su arraigo, solo por el tiempo indispensable para la práctica de la diligencia en que se señala deba intervenir.
-
-El testigo sujeto al arraigo podrá realizar todas sus actividades personales sin dejar de pernoctar diariamente en su domicilio, para lo cual la autoridad podrá disponer de la vigilancia de la policía. La infracción de esta medida sin causa justificada, será sancionada conforme al artículo 181 Bis del Código Penal vigente en el Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 142.
 
@@ -2765,11 +2761,15 @@ Transcurridos los plazos a que se refiere el artículo anterior, o si no se hubi
 
 ### CAPITULO SEGUNDO. AUDIENCIA DE VISTA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 342.
 
 Cerrada la instrucción en el procedimiento ordinario, se mandará poner la causa a la vista del Ministerio Público y de la defensa, sucesivamente, para que, en el plazo de cinco días, formulen sus conclusiones.
 
-Si el expediente excediere de cincuenta fojas, por cada treinta de exceso o fracción se aumentará un día más al plazo señalado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Si el expediente excediere de cincuenta fojas, se duplicará dicho término.
 
 Si los inculpados fueren varios, el plazo será común para todos; el juez en este caso dictará las medidas pertinentes para que las partes tengan acceso equitativo al expediente.
 
@@ -2805,11 +2805,11 @@ Si las conclusiones del Ministerio Público fueren de no acusación, contrarias 
 
 Para los efectos del artículo anterior, el Procurador General de Justicia oirá el parecer de sus auxiliares.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 350.
 
-Si el expediente no excede de cincuenta fojas, el procurador General de Justicia dictará la resolución a que se refiere el artículo anterior dentro de los quince días siguientes a la recepción de la causa.
-
-Por cada veinte fojas de exceso o fracción, se aumentarán tres días al plazo anterior.
+Si el expediente no excede de cincuenta fojas, el Procurador General de Justicia dictará la resolución a que se refiere el artículo anterior dentro de los quince días siguientes a la recepción de la causa, si excede se duplicará dicho término.
 
 Si el Procurador General de Justicia confirma las conclusiones no acusatorias, la resolución se comunicará inmediatamente al juez de la causa.
 
@@ -2831,7 +2831,7 @@ Si la defensa no formula conclusiones en el plazo señalado en el artículo 342 
 
 ###### ARTICULO 354.
 
-Recibidas las conclusiones acusatorias del Ministerio Público, y las de la defensa en su caso, el juez dictará auto, fijando el día y la hora para la celebración de la vista, dentro de los siguientes quince días.
+Recibidas las conclusiones acusatorias del Ministerio Público, y las de la defensa en su caso, el juez dictará auto, fijando el día y la hora para la celebración de la vista, dentro de los siguientes cinco días.
 
 ###### ARTICULO 355.
 
@@ -4383,7 +4383,7 @@ VI. La individualización de quienes deban ser citados a la Audiencia de Juicio 
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-Dictado el auto de apertura del Juicio Oral, el Juez de Preparación de lo Penal se inhibirá y remitirá exclusivamente dicho auto al Juez de Juicio Oral, guardando el expediente en el secreto del Juzgado. Asimismo pondrá a su disposición al inculpado. Este auto no admitirá recurso alguno. El Juez de Preparación de lo Penal expedirá copia certificada del expediente a las personas que se lo soliciten, en los términos del artículo 29 de este Código, y deberá contar con copia certificada del expediente ante él tramitado con el fin de remitirlo de forma inmediata a la autoridad que lo solicite en caso de que se promoviese juicio de amparo
+Dictado el auto de apertura del Juicio Oral, el Juez de Preparación de lo Penal se inhibirá y remitirá exclusivamente dicho auto al Juez de Juicio Oral, guardando el expediente en el secreto del Juzgado. Asimismo pondrá a su disposición al inculpado. Este auto no admitirá recurso alguno. El Juez de Preparación de lo Penal expedirá copia certificada del expediente a las personas que se lo soliciten, en los términos del artículo 29 de este Código, y deberá contar con copia certificada del expediente ante él tramitado con el fin de remitirlo de forma inmediata a la autoridad que lo solicite en caso de que se promoviese juicio de amparo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -4943,7 +4943,9 @@ La víctima u ofendido y el Ministerio Público podrán solicitar o proponer al 
 
 La vigilancia del cumplimiento de las medidas y obligaciones decretadas por el Juez correrá a cargo de la Secretaría de Seguridad Pública, quien está obligada a informar trimestralmente al juzgador sobre el desarrollo del cumplimiento de dichas medidas, así como poner en conocimiento del Ministerio Público y del Juez, cualquier circunstancia que a su juicio amerite la revocación.
 
-Los tratamientos a que se refiere la fracción XI del artículo que antecede podrán ser proporcionados por profesionales u organizaciones públicas o privadas, quienes estarán obligados a informar a la citada Secretaría en caso de incumplimiento del procesado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Los tratamientos a que se refiere la fracción XII del artículo que antecede podrán ser proporcionados por profesionales u organizaciones públicas o privadas, quienes estarán obligados a informar a la citada Secretaría en caso de incumplimiento del procesado.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5146,3 +5148,7 @@ Artículo Cuarto.- Los procedimientos que en cualquier instancia estén en trám
 P.O. 10 DE DICIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
