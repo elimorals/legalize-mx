@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-2595"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-04-12"
-last_updated: "2003-10-06"
+last_updated: "2004-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. EL PRESENTE CODIGO SERA ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE JULIO DE 2003; ORDENAMIENTO QUE ENTRARA EN VIGOR EL 15 DE ENERO DE 2004.</small>
+> <small>N. DE E. EL PRESENTE CODIGO SERA ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE JULIO DE 2003; ORDENAMIENTO QUE ENTRARA EN VIGOR EL 16 DE FEBRERO DE 2004.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Suplemento al Número 15, del Periódico Oficial del Estado de Aguascalientes, el 12 de abril de 1992.
 
@@ -3833,9 +3833,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 21 DE JULIO DE 2003.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2004)</small>
 
-PRIMERO.- El presente Decreto entrará en vigor el día 15 de enero de 2004.
+PRIMERO.- El presente Decreto entrará en vigor el día 16 de febrero del año 2004.
 
 SEGUNDO.- Se abroga el Código Penal para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 7 de Agosto de 1994.
 
@@ -3880,5 +3880,9 @@ SEPTIMO.- Las actividades legislativas descritas en el Artículo Transitorio Qui
 OCTAVO.- Los trámites iniciados conforme al contenido de los códigos y ley que con este decreto se abrogan, seguirán su curso conforme a las disposiciones de la misma. No obstante, puede aplicarse la normatividad que con este decreto se aprueba, previo acuerdo general sobre situaciones específicas de orden procedimental, dictaminado por la Procuraduría General de Justicia del Estado, Supremo Tribunal de Justicia y Secretaría General de Gobierno, en sus respectivos ámbitos de competencia.
 
 P.O. 6 DE OCTUBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
