@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1929-09-25"
+last_updated: "1935-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 1929.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 1935.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -54,6 +54,10 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación, 
 G.G. 25 DE SEPTIEMBRE DE 1929.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 9 DE NOVIEMBRE DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -203,17 +207,23 @@ El Estado asume la representación jurídica del Municipio en todos los asuntos 
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS ALTOS FUNCIONARIOS PUBLICOS DEL ESTADO
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 126.
 
-Los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de primera Instancia, el Secretario General de Gobierno o el Oficial Mayor, en su caso, y el Procurador General de Justicia, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común, y por delitos graves contra la Soberanía del Estado.
+Los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y el Secretario General de Gobierno o el Oficial Mayor, en su caso, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común y por delitos graves contra la soberanía del Estado.
 
 ###### Art. 127.
 
 Tratándose de los delitos del orden común a que se refiere el artículo anterior, la Legislatura erigida en Gran Jurado declarará, por mayoría absoluta de votos del número total de sus miembros, si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, salvo el caso de prescripción de la acción penal conforme a las leyes. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales comunes. Si la decisión de éstos fuere condenatoria, el mismo acusado quedará separado definitivamente y en caso contrario, volverá al desempeño de sus funciones.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 128.
 
-De los delitos oficiales conocerán: la Legislatura como jurado de acusación y el Tribunal Superior de Justicia del Estado como jurado de sentencia. El jurado de acusación tendrá por objeto declarar a mayoría absoluta de votos del número total de sus miembros, si el acusado es o no culpable. Si la declaración fuere absolutoria, continuará el acusado en el ejercicio de su encargo; si fuere condenatoria, quedará separado de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este, en Tribunal Pleno y erigido en jurado de sentencia, con asistencia del reo, del Procurador General de Justicia y de su acusador, si lo hubiere, procederá a aplicar por mayoría absoluta de votos la pena que la ley designe.
+De los delitos oficiales conocerán: la Legislatura, como jurado de acusación y el Tribunal Superior de Justicia del Estado, como jurado de sentencia. El jurado de acusación tendrá por objeto declarar a mayoría absoluta de votos, del número total de sus miembros, si el acusado es o no culpable. Si la declaración fuere absolutoria, continuará el acusado en el ejercicio de su encargo; si fuere condenatoria, quedará separado de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este, en Tribunal Pleno y erigido en jurado de sentencia, con asistencia del reo, del Procurador General de Justicia y de su acusador, si lo hubiere, procederá a aplicar, por mayoría absoluta de votos, la pena que la Ley designe.
+
+El Gobernador del Estado podrá pedir ante la Legislatura Local, o, en su caso, ante la Diputación Permanente, la destitución, por mala conducta, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y de los Jueces Conciliadores. Si por mayoría absoluta de votos de una u otra se declara justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido y se procederá a nueva designación.
 
 ###### Art. 129.
 
@@ -297,15 +307,17 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 Durante los ocho días a que se refiere el artículo anterior, se tendrán las juntas necesarias para la calificación de credenciales y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura en los términos que dispongan el mismo Reglamento interior.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 47.
 
-La Legislatura se reunirá en sesiones ordinarias dos veces al año.
+La legislatura se reunirá en sesiones ordinarias una vez al año.
 
-> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 48.
 
-El primer período de sesiones ordinarias se abrirá el día primero de septiembre; y el segundo, el primer día de marzo de año siguiente, sin que puedan prorrogarse uno y otro, más que hasta el treinta y uno de diciembre y treinta de junio, respectivamente.
+El período anual de sesiones dará principio el día primero de septiembre y durará el tiempo necesario para que la Legislatura trate todos los asuntos de su competencia pendientes de resolución, pero no podrá prolongarse más que hasta el día treinta y uno de diciembre del mismo año.
 
 ###### Art. 49.
 
@@ -329,17 +341,13 @@ Los Diputados que no concurran a una sesión de la Legislatura sin permiso de el
 
 La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
-
 ###### Art. 54.
 
-El primer período de sesiones se destinará de preferencia a la discusión y aprobación de los presupuestos de ingresos y egresos del Estado que formule el Ejecutivo, así como el estudio de los proyectos de presupuestos de ingresos municipales que formulen los Ayuntamientos y remitan por conducto del mismo Ejecutivo.
-
-> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 55.
 
-El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado, relativas al año inmediato anterior.
+(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 56.
 
@@ -465,7 +473,9 @@ X. Hacer la computación de votos en la elección de Gobernador y declarar elect
 
 XI. Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución y para hacer la elección de Magistrados del Tribunal Superior de Justicia y de Jueces de primera Instancia, con arreglo a la misma Constitución;
 
-XII. Recibir la protesta del Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia, Procurador de Justicia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
+REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)
+
+XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -481,7 +491,9 @@ XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contadur
 
 XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, y de los funcionarios y empleados que fueren de su nombramiento;
 
-XV. Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, al Procurador General y a los Jueces de primera Instancia, conforme a la presente Constitución y leyes respectivas;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+XV.- Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, conforme a la presente Constitución y Leyes respectivas.
 
 XVI. Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda;
 
@@ -591,7 +603,9 @@ I. Ser mexicano por nacimiento y nativo del Estado, o con vencidad (sci) en él,
 
 II. Ser ciudadano del Estado en el pleno goce de sus derechos políticos;
 
-III. Tener treinta y cinco años cumplidos el día de la elección;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+III.- Tener treinta años cumplidos el día de la elección;
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
@@ -601,25 +615,33 @@ V. No ser funcionario civil en ejercicio de autoridad, ni militar en servicio ac
 
 El período constitucional del Gobernador del Estado comenzará el dieciséis de septiembre del año de su renovación.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 79.
 
-Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación o el nuevo Gobernador electo no se presentare a desempeñar sus funciones, cesará no obstante el saliente, y la Legislatura nombrará Gobernador interino si se hallare en funciones, supliendo inmediatamente la falta, el Presidente del Tribunal Superior de Justicia. En caso de que la Legislatura esté en receso la Diputación Permanente hará la convocatoria respectiva para la designación de Gobernador interino.
+Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación o el nuevo Gobernador electo no se presentare a desempeñar sus funciones, cesará no obstante el saliente, y la Legislatura nombrará Gobernador interino si se hallare en funciones, supliendo inmediatamente la falta, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor. En caso de que la Legislatura esté en receso, la Diputación Permanente hará la convocatoria respectiva para la designación del Gobernador interino.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 80.
 
-Las faltas temporales del Gobernador que no excedan de quince días, las cubrirá por ministerio de la ley, el Presidente del Tribunal Superior de Justicia, y por su falta el que haga sus veces.
+Las faltas temporales del Gobernador que no excedan de treinta días, las cubrirá, por ministerio de Ley, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor, quien nombrará un Secretario General interino encargado del Despacho.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 81.
 
-En las faltas temporales del Gobernador Constitucional que excedan de quince días y en las absolutas, la falta se cubrirá en los términos que establece el artículo 79. En este último caso, el nombramiento se hará de entre los miembros de la Legislatura.
+En las faltas temporales del Gobernador Constitucional que excedan de treinta días y en las absolutas, la falta se cubrirá en los términos que establece el artículo 79. En este último caso, el nombramiento se hará de entre los miembros de la Legislatura.
 
 ###### Art. 82.
 
 Si la falta de Gobernador fuere absoluta, y faltaren aún dos años o más, para que termine el período Constitucional, la Legislatura inmediatamente después de cumplir con lo prevenido en los artículos 79 y 81 convocará a nuevas elecciones y el que resulte electo ejercerá sus funciones hasta finalizar el indicado período constitucional.
 
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 83.
 
-Si por cualquier motivo la Legislatura no pudiere hacer el nombramiento a que se refieren los artículos 79 y 81, ni expedir la convocatoria de que habla el 82, y hubiese por consiguiente, acefalía de los Poderes Legislativo y Ejecutivo del Estado, el Presidente del Tribunal Superior de Justicia o por su falta el que haga sus veces, se hará cargo del Poder Ejecutivo.
+Si por cualquier motivo la Legislatura no pudiera hacer el nombramiento a que se refieren los artículos 79 y 81, ni expedir la convocatoria de que habla el 82, y hubiere por consiguiente acefalía, de los Poderes Ejecutivo y Legislativo, el Secretario General de Gobierno, o en su caso, el Oficial Mayor, se hará cargo del Poder Ejecutivo.
 
 ###### Art. 84.
 
@@ -651,7 +673,9 @@ III. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Dip
 
 IV. Enviar cada vez que lo crea conveniente, al Secretario General de Gobierno para que concurra a las discusiones de la Legislatura, tomando parte en ellas con voz pero sin voto;
 
-V. Nombrar y remover libremente al Secretario General de Gobierno, al Tesorero General, al Contador de la Tesorería, Procurador General de Hacienda y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+V.- Nombrar y remover libremente al Secretario General de Gobierno, al Tesorero General, al Contador de la Tesorería, al Procurador General de Hacienda, al Procurador General de Justicia y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
 
 VI. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos municipales, de acuerdo con el artículo 11 transitorio de dicha Constitución y ajustando sus procedimientos a las leyes que al efecto se dicten, tan pronto como sean expedidas;
 
@@ -663,7 +687,13 @@ IX. Conceder el indulto necesario y con arreglo a las leyes, conmutar la pena ca
 
 X. Mandar personalmente las fuerzas del Estado y movilizarlas según las necesidades públicas;
 
-XI. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado, y que no estén expresamente asignadas por esta Constitución a los Poderes del mismo Gobierno o a las autoridades de los Municipios.
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+XI.- Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permanente, la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 128.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+XII. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado, y que no estén expresamente asignadas por esta Constitución, a los Poderes del mismo Gobierno o a las autoridades de los Municipios.
 
 ###### Art. 89.
 
@@ -677,13 +707,13 @@ III. Cuidar de que las elecciones constitucionales se hagan en el tiempo señala
 
 IV. Concurrir a la apertura de cada período de sesiones ordinarias y extraordinarias de la Legislatura, para informar en el primer caso, acerca del estado que guarda la administración pública, y en el segundo, acerca de los motivos en que se haya fundado la convocatoria a sesiones extraordinarias cuando él haya pedido la convocación. Si la convocatoria se ha hecho a iniciativa de la Comisión permanente, el Gobernador asistirá a la apertura de esas sesiones, para el solo efecto de hacer constar, que, por su parte, cumplió con el precepto Constitucional contenido en la fracción IX de este artículo;
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-V. Presentar cada año a la Legislatura en los primeros diez días del primer período de sus sesiones ordinarias, los proyectos de presupuestos de Ingresos y Egresos generales del Estado, que deberán regir en el año fiscal inmediato siguiente; y en el segundo, la cuenta de gastos del inmediato anterior, a más tardar el 31 de marzo.
+V.- Presentar cada año a la Legislatura, antes del día quince del mes de diciembre, los proyectos del Presupuesto de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de gastos del año inmediato anterior.
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-VI. Presentar a la Legislatura en los primeros diez días del primer período de sus sesiones ordinarias, los proyectos de presupuestos de Ingresos Municipales, que le remitan los Municipios, y que deberán regir en el año fiscal próximo.
+VI.- Presentar a la Legislatura, también antes del día quince del mes de diciembre, los proyectos de Presupuesto de Ingresos Municipales que le remitan los Municipios y que deberán regir en el año fiscal próximo.
 
 VII. Presentar a la Legislatura, al terminar su período Constitucional, una memoria sobre el estado de los negocios públicos, expresando cuales sean las deficiencias que note en la administración y cuales las medidas que en su concepto deban aplicarse, para subsanarlas;
 
@@ -817,9 +847,13 @@ Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento en el pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de treinta y cinco y menos de sesenta años de edad;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-III. Poseer título profesional, de abogado, expedido por la autoridad o corporación legalmente facultada para ello; y haber ejercido ocho años, cuando menos, dicha profesión;
+II. Tener más de treinta y menos de sesenta años de edad;
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+III. Poseer título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello; y haber ejercido cinco años cuando menos, dicha profesión;
 
 IV. No haber sido condenado en causa criminal por delito infamante, ni en juicio de responsabilidad por delitos de carácter oficial;
 
@@ -829,9 +863,11 @@ V. Ser de una honradez y probidad notorias.
 
 No podrán reunirse en el Tribunal Superior de Justicia, dos o más Magistrados que sean parientes entre sí, en línea recta, o por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 104.
 
-Las faltas temporales por licencia, enfermedad, ausencia o impedimento de los Magistrados propietarios, se suplirán por los supernumerarios. Las faltas absolutas por fallecimiento o renuncia serán cubiertas por elección de la Legislatura.
+Las faltas temporales por licencia, enfermedad, ausencia o impedimento de los Magistrados, se suplirán por los Jueces de Primera Instancia, en los términos que establezca la Ley Orgánica respectiva. Las faltas absolutas por fallecimiento o renuncia, serán cubiertas por elección de la Legislatura.
 
 ###### Art. 105.
 
@@ -881,7 +917,9 @@ I. Conocer en segunda Instancia de los negocios y causas que determinen las leye
 
 II. Hacer la revisión de todos los procesos del orden penal que determinen las leyes;
 
-III. Declarar si ha lugar o no a formación de causa a los Presidentes Municipales y Jueces Conciliadores, suspendiéndolos en el ejercicio de sus funciones en caso afirmativo, y consignándolos al Juez de primera Instancia de su respectivo Distrito;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
+III. Declarar si ha lugar o no a formación de causa, por delitos o faltas oficiales, en contra de los Presidentes Municipales y Jueces Conciliadores, suspendiéndolos en el ejercicio de sus funciones, en caso afirmativo, y consignándolos al Juez de Primera Instancia, de su respectivo Distrito;
 
 IV. Conocer del recurso de suspensión a que se refiere el artículo 113 de esta Constitución;
 
@@ -939,7 +977,7 @@ El Ministerio Público será desempeñado por un funcionario que se denominará 
 
 ###### Art. 121.
 
-El Procurador General de Justicia será electo por la Legislatura, y los Agentes del Ministerio Público serán designados por el Gobernador a propuesta en terna del Procurador General.
+(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 122.
 
@@ -951,11 +989,11 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 1923)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 101.
 
-El Tribunal Superior de Justicia se integrará de seis magistrados Propietarios y dos Supernumerarios, que serán electos libremente por la Legislatura y durarán en su encargo cuatro años.
+El Tribunal Superior de Justicia se compondrá de seis magistrados propietarios que serán electos libremente por la Legislatura y durarán en su cargo cuatro años.
 
 ###### Art. 100.
 
@@ -1107,6 +1145,8 @@ IV. Ejecutar con arreglo a las leyes las resoluciones dictadas por los Jueces Co
 
 #### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 156.
 
 Para el despacho de los asuntos municipales, cada Ayuntamiento designará un Secretario; y las atribuciones de éste serán las siguientes:
@@ -1149,11 +1189,13 @@ Los Jueces Conciliadores aplicarán dentro de los Municipios a que pertenezcan y
 
 ###### Art. 163.
 
-El Presidente Municipal y los Jueces Conciliadores son responsables de los delitos comunes y de los delitos y faltas oficiales que cometan durante su encargo.
+Los Presidentes Municipales y Jueces Conciliadores, son responsables por los delitos y faltas oficiales que cometan durante el tiempo de su encargo.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 164.
 
-Para proceder contra cualquiera de estos funcionarios ya se trate de delitos comunes u oficiales, será preciso la previa declaración de haber lugar a formación de causa, que hará el Tribunal Superior de Justicia.
+Para proceder contra cualquiera de estos funcionarios, cuando se trate de delitos o faltas oficiales, será preciso la previa declaración de haber lugar a formación de causa, que hará el Tribunal Superior de Justicia.
 
 ###### Art. 165.
 
@@ -1333,9 +1375,11 @@ No podrán dictarse leyes, decretos ni disposiciones que prohiban a los heredero
 
 No podrán dictarse leyes, decretos ni disposiciones que obliguen a los herederos, legatarios y demás interesados en un juicio de sucesión, a mantener los bienes hereditarios pro-indiviso, ni a continuar en el estado de comunidad respecto a la propiedad, a la posesión o a la simple tenencia de dichos bienes, fuera del tiempo estrictamente indispensable para promover, seguir y concluir el expresado juicio.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+
 ###### Art. 200.
 
-En el Estado, todas las propiedades raíces rústicas y urbanas, prescribirán por la sola posesión de veinte años, con título o sin él, y con buena fe o sin ella.
+Se fija como término máximo para la prescripción de la propiedad raíz en el Estado, el de veinte años.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES SOBRE LA PROPIEDAD
 
@@ -1437,11 +1481,7 @@ DE LA INSTITUCION DEL NOTARIADO Y DEL REGISTRO PUBLICO.
 
 ###### Art. 221.
 
-Las leyes que se dicten sobre enjuiciamiento civil se sujetarán a las bases siguientes:
-
-I. Todos los juicios civiles que se refieran a bienes raíces y que se sigan ante los Tribunales del Estado y Municipales, comenzarán forzosamente por un juicio previo de conciliación;
-
-II. Todos los juicios que se refieran a bienes raíces, cuyo valor no exceda de un mil pesos, se seguirán en la forma verbal.
+(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
 
 ## TITULO QUINTO. DE LA LEGISLACION DE EDUCACION PUBLICA
 
