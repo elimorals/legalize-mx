@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-del-departamento-del-trabajo-y-de-la-9766"
 country: "mx"
 rank: "ley"
 publication_date: "1937-05-08"
-last_updated: "1937-05-08"
+last_updated: "2002-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY REGLAMENTARIA DEL DEPARTAMENTO DEL TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 84 QUE ABROGA LA LEY REGLAMENTARIA DEL DEPARTAMENTO DEL TRABAJO Y DE LA PREVISION SOCIAL, EXPEDIDA MEDIANTE DECRETO NUMERO 45 DE LA XXV LEGISLATURA DEL ESTADO EL 28 DE ABRIL DE 1937 Y QUE FUERA PUBLICADA EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS DEL 8 DE MAYO DE 1937.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, 8 de mayo de 1937.
 
@@ -110,3 +112,9 @@ C. Victoria Tamps, abril 28 de 1937.- Diputado Secretario, Roberto González V. 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los tres días del mes de mayo de mil novecientos treinta y siete.- Ing. Marte R. Gómez.- El Secretario General de Gobierno, Lic. Pedro Gonzaléz.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 15 DE OCTUBRE DE 2002.
+
+Único.- El presente Decreto empezará a regir al día siguiente al de su publicación en el Periódico Oficial del Estado.
