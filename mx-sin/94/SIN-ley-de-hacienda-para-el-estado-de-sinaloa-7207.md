@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1984-01-02"
+last_updated: "1984-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1984.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -433,489 +433,33 @@ III.- Con los bienes muebles e inmuebles del Patrimonio del Estado.
 
 ### CAPITULO I. Impuesto Predial
 
-ART. 76.- Es objeto de este impuesto, la propiedad o posesión de predios rústicos o urbanos.
+ART. 76.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-ART. 77.- Son sujetos del impuesto:
+ART. 77.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-I.- Los propietarios de predios rústicos o urbanos;
+ART. 78.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-Para los efectos de esta fracción se considerará como propietarios a la masa de ejidatarios legalmente representada en los términos de la Ley Federal de Reforma Agraria, mientras no exista titulación de parcelas de terrenos ejidales, así como respecto de los bienes comunales ejidales;
+ART. 79.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-II.- Los poseedores o detentadores de predios rústicos o urbanos en los casos siguientes:
+ART. 80.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-a).- Cuando no pueda determinarse quién es el propietario;
+ART. 81.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-b).- Cuando la posesión o la tenencia derive de contrato de compra-venta con reserva de dominio o de contrato de promesa de venta. En estos casos el vendedor que se reservó el dominio o el promitente de la venta responden solidariamente del pago del impuesto;
+ART. 82.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-c).- Cuando se trate de usufructuarios. En este caso, quien tenga el derecho de nuda propiedad responde solidariamente del pago del impuesto con el usufructuario;
+ART. 83.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-d).- Cuando la posesión recaiga sobre terrenos federales, estatales o municipales y no se funde en contrato que autorice el uso y goce temporal del inmueble;
+ART. 84.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-e).- Cuando el poseedor haya edificado sobre terreno del que no es propietario, tendrá responsabilidad directa al pago del impuesto que gravite sobre la construcción, y solidaria al pago del impuesto que corresponda al terreno. Por su parte el propietario del terreno tendrá responsabilidad directa al pago del impuesto que corresponda por el terreno y solidaria por lo que respecta al que recae sobre la construcción.
+ART. 85.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-III.- Los fideicomitentes, mientras que el fiduciario no traslade la propiedad del inmueble en cumplimiento del fideicomiso.
+ART. 86.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-ART. 78.- Servirá de base para la determinación del impuesto:
+ART. 87.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-I.- Si se trata de predios urbanos, el valor fiscal del inmueble;
+ART. 88.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-II.- Tratándose de predios rústicos:
-
-a).- El volumen de la producción y la clase de producto cosechado si se trata de terrenos ejidales utilizados en fines agrícolas:
-
-b).- El valor fiscal en los demás casos.
-
-ART. 79.- El impuesto se causará aplicando a las bases mencionadas en el Artículo anterior, la siguiente:
-
-T A R I F A
-
-I.- Predios rústicos y urbanos:
-
-a).- 10 al millar anual, para los predios cuyos valores fiscales se hayan fijado con base en tablas de valores catastrales.
-
-b).- 26 al millar anual, para los predios que no hayan sido valuados en avalúos definitivo, como lo determina las tablas de valores catastrales;
-
-c).- En ninguno de los casos a que se refieren los incisos anteriores el impuesto será inferior a $ 35.00 por predio.
-
-II.- Predios rústicos ejidales:
-
-a).- Los utilizados en la agricultura pagarán con base en el volumen de la producción y la clase de producto cosechado, de acuerdo con las siguientes cuotas:
-
-Productos Cuota por Ton.
-
-1.- Ajonjolí $ 183.46
-
-2.- Alfalfa 72.00
-
-3.- Algodón 267.78
-
-4.- Alpiste 181.73
-
-5.- Arroz Palay 104.59
-
-6.- Cacahuate 92.71
-
-7.- Caña 1.88
-
-8.- Cártamo 158.44
-
-9.- Cebada 87.14
-
-10.- Frijol Mungo 150.95
-
-11.- Frijol Soya 176.28
-
-12.- Frijol otras
-
-variedades 144.26
-
-13.- Garbanzo 966.50
-
-14.- Flor de
-
-Zempoasuchitl 47.20
-
-15.- Henequén 68.96
-
-16.- Kenaf 68.08
-
-17.- Linaza 125.06
-
-18.- Maíz 55.20
-
-19.- Maíz Mijo 164.74
-
-20.- Milo Maíz 57.81
-
-21.- Tabaco 74.02
-
-22.- Trigo 79.37
-
-23.- Producto
-
-no especificado
-
-sobre valor en plaza 4.56
-
-Hortalizas y Cuota por Bulto
-
-Frutas de Primera
-
-24.- Berenjena
-
-Jaba Aambrada
-
-1 Bushel 0.84
-
-Caja Alambrada
-
-de Madera 0.91
-
-25.- Calabaza
-
-Caja de Madera
-
-Aserrada 1.21
-
-Jaba Alambrada
-
-1 1/9 Bushel 1.44
-
-26.- Chile Bell Papper
-
-Caja de Cartón
-
-de 30 Lbs. 2.05
-
-Jaba Alambrada
-
-1 Bushel 1.68
-
-Caja de
-
-Madera Aserrada 2.40
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.19
-
-Otros Envases
-
-no especificados 1.19
-
-Caja de
-
-Cartón Encerada 1.61
-
-27.- Chile Fresno
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.40
-
-Cartón Standard
-
-Tomatero 1.18
-
-28.- Chile Caribe
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.28
-
-Caja Standard
-
-Tomatera 1.31
-
-29.- Chile Anaheim
-
-Jaba alambrada
-
-1 1/9 Bushel 2.13
-
-30.- Chile Serrano
-
-Jaba Alambrada
-
-1 1/9 Bushel 1.44
-
-Jaba Chilera 1.24
-
-31.- Chile Jalapeño
-
-Jaba Alambrada 1 1/9 2.47
-
-32.- Chile Morrón
-
-Jaba Alambrada
-
-1 Bushel 1.19
-
-33.- Chile Cubanello
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.08
-
-34.- Chile Húngaro
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.19
-
-35.- Chile Pasilla
-
-Jaba Alambrada
-
-1 Bushel 1.51
-
-36.- Chile Pimiento Rojo
-
-Jaba Alambrada
-
-1 Bushel 0.98
-
-37.- Chícharo
-
-Canasta Chicharera
-
-1 Bushel 1.13
-
-Jaba alambrada
-
-1 1/9 Bushel 1.20
-
-38.- Ejote
-
-Jaba Alambrada
-
-1 Bushel 2.30
-
-Caja de Madera
-
-Standard 2.36
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.33
-
-39.- Melón
-
-Jaba Alambrada
-
-Standard 1.15
-
-Jaba Melonera
-
-Jumbo 1.36
-
-Jaba Melonera
-
-1/2 Jumbo 0.68
-
-Caja Tomatera 0.42
-
-Jaba de Madera
-
-Aserrada 0.60
-
-40.- Pepino
-
-Jaba Alambrada
-
-1 1/9 Bushel 1.72
-
-Cartón de 24 piezas 0.70
-
-Cartón de 36 piezas 0.62
-
-Caja de Madera
-
-Standard 1.79
-
-Pickle Jaba
-
-Alambrada
-
-1 1/9 Bushel 1.13
-
-41.- Tomate Verde
-
-Caja de Cartón
-
-de 40 Lbs. 1.50
-
-Caja de Cartón
-
-de 30 Lbs. 1.14
-
-42.- Tomate Maduro
-
-Envase 3 Tandas 1.53
-
-Envase 2 Tandas 1.23
-
-Envase 30 Lbs. 1.53
-
-43.- Tomate Roma
-
-Caja de Cartón y Madera 0.95
-
-44.- Tomate Cherry
-
-Caja de Cartón y Madera 0.72
-
-Caja de Cartón y Madera 0.81
-
-45.- Mango
-
-Caja de Cartón y Madera 0.56
-
-46.- Toronja
-
-Envase no especificado 0.67
-
-47.- Jícama
-
-Envase no especificado 0.80
-
-48.- Repollo
-
-Envase no especificado 0.83
-
-49.- Nabo
-
-Envase no especificado 0.42
-
-50.- Col
-
-Caja de Madera 0.40
-
-51.- Papaya 58.11 Por Ton.
-
-52.- Aguacate 81.44 " "
-
-53.- Naranja 23.68 " "
-
-54.- Sandía 15.21 " "
-
-55.- Otras Frutas 55.61 " "
-
-56.- Otras Hortalizas 55.61 " "
-
-Hortalizas y Frutas
-
-de Segunda: Cuota por Tonelada
-
-57.- Aguacate 35.28
-
-58.- Berenjena 35.28
-
-59.- Calabaza 35.28
-
-60.- Cebolla 35.28
-
-61.- Chícharo 45.08
-
-62.- Chile Fresco 48.41
-
-63.- Chile Seco 128.65
-
-64.- Ejote 35.28
-
-65.- Elote 35.28
-
-66.- Lechuga 35.28
-
-67.- Limón 35.28
-
-68.- Mango 35.28
-
-69.- Melón 35.28
-
-70.- Naranja 35.28
-
-71.- Papa 37.52
-
-72.- Papaya 35.28
-
-73.- Pepino 33.88
-
-74.- Repollo 35.28
-
-75.- Sandía 33.88
-
-76.- Tomate 30.65
-
-77.- Toronja 35.28
-
-78.- Otras Hortalizas 35.28
-
-79.- Otras Frutas 35.28
-
-El monto a pagar derivado de la aplicación de las cuotas anteriores, en ningún caso excederá del 5% del valor de la producción anual comercializada, teniendo en cuenta los precios rurales de la producción de que se trate, en acatamiento a lo dispuesto por la fracción III del Artículo 106 de la Ley Federal de Reforma Agraria.
-
-El ingreso recaudado conforme a la aplicación de estas cuotas, se distribuirá de la siguiente forma;
-
-1.- Para el Gobierno del Estado de Sinaloa 60 %
-
-2.- Para el Municipio según lo generado en la circunscripción 10 %
-
-3.- Para la Universidad Autónoma de Sinaloa 7 %
-
-4.- Para la Promoción de Servicios Ejidales 18 %
-
-5.- Para la Investigación Agrícola 5 %
-
-b).- Los no destinados a la agricultura, el 10 al millar anual sobre el valor fiscal de los predios.
-
-ART. 80.- No causan este impuesto:
-
-I.- Los bienes inmuebles de la Federación, del Estado de Sinaloa y de sus Municipios;
-
-II.- Las superficies ocupadas por los canales principales de irrigación;
-
-III.- Los templos destinados a los cultos;
-
-IV.- Las propiedades de la beneficiencia (sic) pública o privada del Estado de Sinaloa y los bienes inmuebles destinados a la instrucción pública, si pertenecen al fondo de los establecimientos respectivos y han sido facilitados a título gratuito para tales objetos, y siempre que la institución que preste los servicios demuestre que no persigue fines de lucro;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1980)</small>
-
-V.- Los predios rústicos y urbanos cuyo valor, de uno o de varios en conjunto pertenecientes a un mismo dueño, no exceda de $ 40,000.00 y siempre y cuando el predio de que se trate esté habitado por su propietario o trabajado por él.
-
-ART. 81.- Los beneficiarios de alguna de las exenciones autorizadas por el Artículo 80, no quedan liberados por ese hecho de la obligación de presentar las declaraciones e informes prevenidos por la Ley de Catastro del Estado, ni del cumplimiento de otras obligaciones que esta Ley o alguna otra Ley Fiscal les imponga.
-
-Los beneficiarios de las exenciones deberán manifestar a la Secretaría de Finanzas del Estado, cualquier modificación de las circunstancias que hubieren motivado dichas exenciones.
-
-ART. 82.- La valuación de los predios rústicos o urbanos que afecte una tabla de valores debidamente aprobada, se verificará sin necesidad de que haya notificación al causante, bastando el sólo hecho de su publicación en el Periódico Oficial del Estado para que surta sus efectos fiscales en la fecha que así lo determine la autoridad fiscal que la autorice.
-
-Sólo será motivo de notificación personal los avalúos que señala la Ley del Catastro en el Capítulo respectivo.
-
-ART. 83.- La Dirección General de Catastro, inmediatamente que formule un avalúo catastral lo comunicará por oficio a la Oficina Recaudadora respectiva para el efecto de que el impuesto predial se aplique con base en el valor correspondiente.
-
-ART. 84.- La interpretación de cualquier medio legal de defensa, en contra del avalúo catastral definitivo, no interrumpirá la continuación de los trámites siguientes de cobro del impuesto conforme al nuevo avalúo, salvo que el causante, al producirse el requerimiento de pago, asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
-
-ART. 85.- Los causantes de este impuesto están obligados:
-
-I.- A presentar los avisos, documentos y declaraciones que señalen la Ley de Catastro y su Reglamento o que ordenen las autoridades catastrales, para efectuar el avalúo de los predios y para la determinación del impuesto;
-
-II.- A hacer oportunamente el pago del impuesto a su cargo en la Oficina Recaudadora que corresponda a la ubicación de los predios, como sigue:
-
-a).- Por semestres adelantados dentro de los treinta y un días de los meses de enero y julio por cada uno de los predios cuya cuota anual no sea mayor de $ 200.00.
-
-b).- Por trimestres adelantados dentro de los primeros veinte días de los meses de enero, abril, julio y octubre para todos los predios que cubran cuotas anuales superiores a $ 200.00.
-
-III.- Tratándose de predios ejidales:
-
-a).- El impuesto se pagará en la Oficina Recaudadora a cuya jurisdicción correspondan los predios productores, debiendo hacerse el pago al efectuarse la venta de los productos y en su defecto, dentro de los 30 días siguientes a la fecha en que éstos se hubieren cosechado.
-
-Los adquirentes de productos de procedencia ejidal son solidariamente responsables del pago del impuesto, y tienen la obligación de comprobar su pago y en su defecto de retenerlo y enterarlo en la Oficina Recaudadora correspondiente, dentro de los 10 días siguientes a la retención; igualmente están obligados a presentar las manifestaciones que la Secretaría de Finanzas del Estado les solicite;
-
-b).- Los Comisariados Ejidales están obligados:
-
-1.- A registrar a los ejidos en las Oficinas Recaudadoras a cuya jurisdicción correspondan, dentro de los 10 días siguientes a la fecha en que se realicen las dotaciones provisionales, utilizando las formas autorizadas para este efecto por la Secretaría de Finanzas del Estado;
-
-2.- A presentar, dentro de los 10 días siguientes a la conclusión de cada siembra, una declaración conteniendo los datos que se soliciten en las formas autorizadas por la Secretaría de Finanzas del Estado;
-
-3.- A presentar durante el mes de enero de cada año, una declaración de la producción ejidal obtenida en el año anterior, proporcionando los datos que se soliciten en las formas que autorice la Secretaría de Finanzas del Estado;
-
-4.- A retener a los ejidatarios el impuesto que resulte de aplicar la fracción II del Artículo 79 de esta Ley, y a enterarlo en las Oficinas Recaudadoras correspondientes, dentro de los quince días siguientes a la retención. Al presentar la declaración a que se refiere el párrafo anterior, deducirán del impuesto total causado las cantidades retenidas durante el año y pagarán las diferencias que resulten a cargo del ejido. A esta declaración acompañarán relación conteniendo el nombre de cada uno de los ejidatarios, la superficie de sus parcelas, el producto obtenido en cada una de ellas, el monto del impuesto causado y retenido, así como las diferencias que resulten a cargo de cada ejidatario;
-
-c).- Las Oficinas Recaudadoras expedirán un recibo individual de pago, en que constará la superficie gravada, la cantidad y nombre del producto que sirve de base para el cálculo del impuesto y el monto del mismo. De este documento se entregará el original y una copia extra para el causante;
-
-d).- Los compradores de productos agrícolas ejidales, recabarán la documentación comprobatoria del correcto pago de este impuesto;
-
-e).- Cuando los ejidos y comisariados ejidales no presenten las declaraciones a que se refiere el inciso b) de ésta fracción, la Secretaría de Finanzas del Estado las suplirá de oficio y cobrará, en su caso, el impuesto resultante.
-
-ART. 86.- Los ejidatarios causantes del impuesto a que se refiere la Fracción II del Artículo 79, están obligados a recabar y conservar por el término de cinco años, los recibos y documentos mediante los cuales se compruebe que los impuestos causados fueron debidamente cubiertos de conformidad con las disposiciones que se establecen en el presente Capítulo.
-
-ART. 87.- Los transportistas y los intermediarios o mediadores entre los adquirentes y los ejidatarios, también son solidarios responsables del impuesto a que se refiere la fracción II del Artículo 79, y les son aplicables las disposiciones relativas contenidas en el Capítulo VII, Título II de esta Ley.
-
-ART. 88.- Cuando de las investigaciones que realice la Secretaría de Finanzas del Estado, directamente o por conducto de cualesquiera autoridad fiscal o administrativa, o los Recaudadores de Rentas, por si mismos o por los comisionados fiscales especiales que designen, resulten a su juicio elementos suficientes que demuestren la falsedad o la simulación de los contratos, recibos, documentos, declaraciones e informes que les hubieren proporcionado los causantes del impuesto, o que mediante ellos se ha eludido en todo o en parte, el pago del impuesto correspondiente, la Sub-Secretaría de Ingresos y sus dependencias aplicarán las sanciones respectivas, sin perjuicio de hacer efectivos los impuestos realmente causados y sus accesorios legales correspondientes.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 88 Bis.- Mientras se mantenga en vigor el anexo No. 3, al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrada entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspende la aplicación de las disposiciones fiscales contenidas en el inciso a) de la Fracción II del Artículo 78, la Fracción II del Artículo 79, la Fracción III del Artículo 85, el Artículo 86 y 87 de este Capítulo, en consecuencia, los sujetos pasivos a que se refiere el segundo párrafo de la Fracción I del Artículo 77 cubrirán este impuesto conforme a la base establecida en el inciso b) de la Fracción II del Artículo 78 de esta Ley.
+ART. 88 Bis.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
 ### CAPITULO II. Impuesto Estatal sobre Ingresos Mercantiles
 
@@ -1721,151 +1265,27 @@ ART. 138 Bis.- El impuesto contenido en este Capítulo, no se causará mientras 
 
 ### CAPITULO VIII. Impuesto sobre Adquisición de Inmuebles
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+ART. 139.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-ART. 139.- Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, en construcciones adheridas a él, o en ambos conceptos, ubicados en el Estado de Sinaloa, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se causará a la tasa del 10% sobre la base gravable que señala el Artículo 142 de esta Ley, de la cual se reducirá la cantidad equivalente a 5 veces el salario mínimo general, elevado al año, de la zona económica a que corresponda el Estado de Sinaloa.
+ART. 140.-(DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+ART. 141.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-ART. 140.- No se pagará este impuesto en los siguientes casos:
+ART. 142.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-I.- En las adquisiciones por las instituciones de asistencia o de beneficencias, autorizadas por las leyes de la materia, instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, por los bienes destinados exclusivamente a sus fines educativos;
+ART. 143.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales;
+ART. 144.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-No queda incluida en esta Fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal;
+ART. 145.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-III.- En las adquisiciones por la Federación, las Entidades Federativas y los Municipios, así como por los Estados Extranjeros, en caso de reciprocidad;
+ART. 146.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-IV.- En las adquisiciones por los Partidos y Asociaciones Políticas para su propio uso;
+ART. 147.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-V.- En las adquisiciones realizadas por organismos descentralizados de la Federación, de las Entidades Federativas y de los Municipios, que promuevan la vivienda de interés social;
+ART. 148.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-VI.- En la adquisición de casa-habitación que se realice en cumplimiento de los programas habitacionales del Instituto del Fondo Nacional para la Vivienda de los Trabajadores, ya sea mediante fondos suministrados por dicho Instituto o por medios distintos a los del Instituto, siempre que en este último caso la casa habitación sea para uso del trabajador derechohabiente de este Instituto y que el monto de la operación así realizada no sea superior al valor de las casas habitación que el mismo proporciona a sus afiliados. Por el excedente se pagará el impuesto en los términos previstos por esta Ley;
-
-VII.- En la disolución de la copropiedad, excepto por la parte que se aplique en demasía del porcentaje que representaban los copropietarios.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 141.- Para los efectos de este capítulo, se entiende por adquisición la que derive de:
-
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades;
-
-II.- La compraventa en la que el vendedor se reverse (sic) la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
-
-III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
-
-IV.- La cesión de derechos del comprador, o del futuro comprador, en los casos de las fracciones II y III que anteceden, respectivamente;
-
-V.- Fusión de sociedades;
-
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
-
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
-
-VIII.- Resolución o reconocimiento de autoridad judicial o administrativa, en los casos de prescripción positiva, información ad-perpetuam o adquisición por remate;
-
-IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos;
-
-X.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomiso, en los términos del Código Fiscal de la Federación.
-
-En las permutas se considerará que se efectúen dos adquisiciones.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 142.- La base gravable de este impuesto será el valor que resulte mayor entre el catastral que tenga asignado el inmueble de que se trate, el precio pactado en la operación y el de avalúo comercial practicado por institución de crédito o por persona autorizada al efecto.
-
-Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-
-Cuando no se pacte el precio, la base del impuesto será el valor catastral o el que resulte mayor de comparar éste con el avalúo comercial.
-
-En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo comercial a que se refiere el primer párrafo de este artículo. Para los fines de este capítulo, se considerará que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 143.- La reducción a que se refiere el Artículo 139 de esta Ley, se realizará conforme a lo siguiente:
-
-I.- Para efectuar la reducción, se aplicará el salario mínimo general correspondiente al año de calendario en que se esté en presencia de los supuestos de pago del impuesto, en los términos del Artículo 145 de esta Ley.
-
-II.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona o sus dependientes económicos, en un periodo de 24 meses.
-
-De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiese adquirido con anterioridad, para que se ajuste el monto de la reducción, y pagará en su caso, las diferencias de impuesto que resulten. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-III.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el artículo 141 de esta ley, la reducción, se hará en la proporción que corresponda a dicha parte.
-
-IV.- Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-V.- Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en esta fracción no es aplicable a hoteles.
-
-No se considerarán departamentos habitaciones los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 144.- El avalúo comercial a que se refiere el primer párrafo del artículo 142, deberá ser practicado considerando los valores reales actuales y las condiciones físicas del inmueble, referidas a la fecha de adquisición. Dichos avalúos servirán para efectos fiscales durante seis meses contados a partir de la fecha en que se practiquen. En aquellos casos en que después de practicado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, deberá practicarse nuevo avalúo aún cuando no haya transcurrido el plazo a que se refiere este párrafo.
-
-Las autoridades fiscales, a través de la Dirección de Catastro estarán facultadas para revisar los avalúos comerciales practicados por las instituciones de crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y a los valores unitarios comerciales de construcción, que se encuentren vigentes en la fecha de adquisición. Dicha revisión se efectuará como un requisito previo al pago del impuesto.
-
-Las autoridades fiscales también estarán facultadas para practicar u ordenar el avalúo comercial del inmueble, referido a la fecha de adquisición, y cuando el valor que resulte de dicho avalúo exceda a los valores señalados en el primer párrafo del Artículo 142 de esta Ley, dicho valor servirá de base para el pago definitivo del impuesto.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 145.- El pago del impuesto deberá hacerse dentro de los 30 días naturales siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
-
-I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
-
-II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como el cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
-
-III.- Tratándose de adquisiciones efectuadas a través del fideicomiso, cuando se realicen los supuestos de enajenación o de cesión de derechos, en los términos del Código Fiscal de la Federación.
-
-IV.- Al protocolizarse o inscribirse la resolución o el reconocimiento de la autoridad judicial o administrativa, en los casos de prescripción positiva, información ad-perpetuam o adquisición por remate.
-
-V.- Tratándose de contratos de compraventa con reserva de dominio o de promesa de venta, así como en los casos de cesión de derechos relacionados con dichos contratos, cuando se celebre el contrato respectivo.
-
-VI.- En los casos no previstos en las fracciones anteriores el plazo correrá a partir de la fecha de celebración del acto que cause el impuesto.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 146.- En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaraciones ante la oficina recaudadora que corresponda. Esta declaración deberá presentarse aún en el caso de que no haya impuesto a enterar, ya sea porque la base resulte inferior a la reducción que autoriza la Ley, o porque el acto o contrato se encuentre exento de pago. Dicha declaración será firmada por el Notario y se presentará acompañada tanto de tres copias de la escritura como del avalúo comercial respectivo, conteniendo los siguientes datos:
-
-I.- Número y fecha de la escritura.
-
-II.- Naturaleza del acto o concepto de operación.
-
-III.- Nombre y carácter de los otorgantes.
-
-IV.- Características y ubicación de los bienes objeto de la operación.
-
-V.- Valor gravable.
-
-VI.- La liquidación del impuesto.
-
-Previamente al pago de este impuesto, el adquirente y-o al fedatario ante quien se haga constar el acto jurídico deberán comprobar que el inmueble materia de la operación se encuentra al corriente en el pago del impuesto predial, mediante la presentación del respectivo recibo oficial expedido por la oficina recaudadora correspondiente. El Notario dará fe de haber tenido a la vista dicho recibo y cuyo texto deberá transcribir en la escritura correspondiente.
-
-Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectúo dicho pago.
-
-Cuando se trate de adquisiciones que se hagan constar en documento privado, para los efectos del pago de ese impuesto el adquirente deberá presentar el original del documento en que se consigne la adquisición, acompañado de tres copias tanto de dicho documento como del avalúo comercial respectivo. Cuando en estos casos la transmisión de la propiedad haya operado teniendo como fundamento los contratos o antecedentes a que se refieren las fracciones II y III del Artículo 141 de esta Ley, los adquirientes deberán presentar nuevas declaraciones o documentos, relacionándolos con los anteriores, a fin de evitar el doble pago de este impuesto.
-
-Tratándose de contratos de compraventa con reserva de dominio o promesa de compraventa, a que se refieren las fracciones II y III del Artículo 141 de esta Ley, que se consignen en documento privado y que sean celebrados en su carácter de vendedores o de promitentes vendedores por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compraventa y administración de bienes inmuebles, el impuesto a que se refiere este capítulo deberá ser retenido por dichas empresas, debiendo enterarlo ante la oficina recaudadora correspondiente, a más tardar el día 15 del mes siguiente de aquel en que se hubieren celebrado dichos contratos, mediante la presentación de una declaración en la que se indique la fecha de celebración de cada contrato, las características y ubicación del inmueble, el nombre del promitente comprador, el importe de la operación y el monto del avalúo comercial respectivo.
-
-El traspado (sic) o la cesión de derechos derivados de contratos de los señalados en el párrafo que antecede, causará nuevamente el impuesto en los términos de este artículo.
-
-El enajenante y los demás contratantes responderán solidariamente del impuesto que deba pagar el adquirente.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 147.- Los Notarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos traslativos de dominio de bienes inmuebles, mientras no se hubiere pagado el impuesto que establece este capítulo cuando éste deba cubrirse; o la declaración sin pago cuando la base sea inferior a la reducción autorizada por la Ley; o en su caso, la resolución de la autoridad fiscal que conceda la exención de ese pago en los casos establecidos por el Artículo 140 de esta Ley.
-
-La Secretaría de Hacienda Pública y Tesorería, por conducto de la Subsecretaría de Ingresos, queda facultada para inspeccionar o revisar los libros y protocolos y contabilidad de los contribuyentes, retenedores y fedatarios, a efecto de comprobar el pago del impuesto que establece este capítulo.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 148.- El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo, o no se acredite que se presentó la declaración en que conste que no se causó el impuesto porque la base gravable es inferior a la reducción prevista en el Artículo 139 de esta Ley o en su caso, no le exhiban la resolución que hubiere concedido la exención del impuesto en los términos del Artículo 140.
-
-En los casos de nuda propiedad, la oficina del Registro Público de la Propiedad no podrá cancelar la inscripción del desmembramiento de la propiedad ni inscribir el derecho consolidado, si no se le comprueba previamente que se pagó la diferencia de impuesto que resulte entre lo cubierto por la transmisión de la nuda propiedad en los términos del Artículo 141, fracción VII de esta Ley y el impuesto calculado sobre la traslación íntegra del dominio.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 149.- El total del ingreso que se recaude por concepto del impuesto establecido por este capítulo, tendrá la siguiente distribución: el 77% corresponderá al Fisco del Estado, el 8% se destinará a la educación superior y el 15% restante se entregará al Municipio en cuya jurisdicción se encuentre ubicado el inmueble.
+ART. 149.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
 
@@ -3995,9 +3415,7 @@ ART. 367.- Sobre el monto de los impuestos y derechos que a continuación se ind
 
 I.- Impuestos:
 
-> <small>(REFORMADO, P. O. 1 DE ENERO DE 1982)</small>
-
-a).- Predial, con excepción del impuesto aplicable a predios rústicos ejidales utilizados con fines agrícolas, en cuyo caso se destinará a la educación superior un 7% del ingreso recaudado por este último concepto, en los términos establecidos por el último párrafo del inciso a) de la Fracción II del Artículo 78 de esta Ley;
+a).- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
 b).- Sobre Producto de Capitales;
 
@@ -4135,13 +3553,7 @@ XII.- Impuesto sobre Juegos Permitidos;
 
 XIII.- Impuesto sobre Producción o Sacrificio de Ganado, exclusivamente en lo que se refiere a la Tarifa número 1 del Artículo 278 de ésta Ley.
 
-ART. 372.- Del ingreso que se recaude en cada jurisdicción municipal por concepto del Impuesto
-
-Predial, los Municipios del Estado tendrán las siguientes participaciones:
-
-I.- En 16.66% del rendimiento del impuesto a que se refiere la Fracción I del Artículo 78 de ésta Ley.
-
-II.- Un 10% del impuesto aplicable a predios rústicos ejidales utilizados con fines agrícolas, en los términos establecidos en el último párrafo del inciso a) de la Fracción II del Artículo 78 de esta Ley.
+ART. 372.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
 ART. 373.- Del rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo, los Municipios del Estado participarán en proporción de 0.283688% del ingreso que se recaude por concepto de dicho impuesto. El Ejecutivo del Estado, con arreglo a datos objetivos fijarán un índice de consumo de gasolina, grasas, lubricantes y demás derivados del petróleo, en cada municipio.
 
@@ -4269,15 +3681,13 @@ ART. 383.- Las personas que se encuentren o se hayan encontrado en la relación 
 
 ART. 384.- Los terceros a quienes esta Ley u otras leyes fiscales del Estado impongan la obligación de retener un impuesto, de formular la liquidación o de verificar el pago de un impuesto, serán solidariamente responsables con el causante si no dan cumplimiento oportuno a esas obligaciones, independientemente de que se les apliquen los recargos o sanciones procedentes.
 
-ART. 385.- Las personas que adquieran por cualquier título bienes muebles o inmuebles, negociaciones mercantiles, industriales o agrícolas, créditos, valores y en general fuentes de riqueza que sean objeto o sobre las que recaiga alguno de los impuestos del Estado, están obligados a cerciorarse de que las obligaciones fiscales relativas han sido cumplidas, siendo solidariamente responsables con los causantes por el pago de los créditos fiscales que se adeuden y en su caso, por el de los recargos o sanciones correspondientes.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1984)</small>
 
-ART. 386.- Los Notarios Públicos, los Jueces que actúen por receptoría y los Corredores Públicos:
+ART. 385.- Las personas que adquieran por cualquier título bienes muebles, negociaciones mercantiles, industriales o agrícolas, créditos, valores y en general fuente de riqueza que sean objeto o sobre las que recaiga alguno de los impuestos del Estado, están obligados a cerciorarse de que las obligaciones fiscales relativas han sido cumplidas, siendo solidariamente responsables con los causantes por el pago de los créditos fiscales que se adeuden y en su caso por el de los recargos o sanciones correspondientes.
 
-I.- No podrán autorizar escrituras o minutas en que consten actos o contratos de enjenación (sic), adquisición o adjudicación de bienes muebles o inmuebles, sin comprobar en la forma que prevenga esta Ley, que el Impuesto Predial ha sido pagado en su totalidad o que no se causa sobre los bienes objeto de la enejenación (sic);
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1984)</small>
 
-II.- Autorizada la escritura o minuta en que consten actos o contratos de enajenación, adquisición o adjudicación de bienes muebles o inmuebles, darán a las Oficinas Recaudadoras los avisos e informes que fija esta Ley, en la forma y términos que la misma señala;
-
-III.- No podrán autorizar actos o contratos que causen impuestos del Estado sin que previamente se les justifique su pago, siendo aplicable lo dispuesto en el Artículo 147 de esta Ley.
+ART. 386.- Los Notarios Públicos, los Jueces que actúen por receptoría y los Corredores Públicos, no podrán autorizar actos o contratos que causen impuestos del Estado sin que previamente se les justifique su pago.
 
 ART. 387.- Los encargados del Registro Público de la Propiedad y del Comercio no podrán registrar ninguna escritura pública o privada u otros documentos en que consten los actos o contratos a que se refiere el artículo anterior, sin comprobar, en la forma y términos que prevenga esta Ley, que los impuestos correspondientes han sido pagados en su totalidad o que por disposición legal los interesados están exentos del impuesto de que se trata.
 
@@ -5386,3 +4796,9 @@ DECRETO NO. 14, QUE REFORMA EL ART. 310.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P. O. 6 DE FEBRERO DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
