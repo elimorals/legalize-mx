@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-reglamentaria-del-articulo-5-23364"
 country: "mx"
 rank: "reglamento"
 publication_date: "1945-10-01"
-last_updated: "1951-07-04"
+last_updated: "1975-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23364&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1945-09-27"
 ---
 # REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5°. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5° CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL-- ANTES REGLAMENTO DE LA LEY REGLAMENTARIA DE LOS ARTICULOS 4° Y 5° CONSTITUCIONALES,
 
-REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 4° Y 5° CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES Y EN MATERIA FEDERAL
+REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JULIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1975.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 1 de octubre de 1945.
 
@@ -32,15 +32,21 @@ MANUEL ÁVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos
 
 Que en uso de las facultades que me concede la fracción I del artículo 89 constitucional, he tenido a bien expedir el siguiente
 
-REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 4° Y 5° CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES Y EN MATERIA FEDERAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MAYO DE 1975)</small>
+
+REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
 
 ### CAPITULO I. Disposiciones generales
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MAYO DE 1975)</small>
 
-Las disposiciones de la Ley Reglamentaria de los artículos 4° y 5° Constitucionales regirán:
+###### ARTICULO 1°.
 
-I. En el Distrito y en los Territorios Federales en asuntos del fuero común:
+Las disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional regirán:
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 1975)</small>
+
+I.- En el Distrito Federal en asuntos del fuero común;
 
 II. En toda la República en los asuntos del orden federal siguientes:
 
@@ -48,9 +54,11 @@ a).- El ejercicio profesional ante autoridades federales, excepto las materias e
 
 b). El ejercicio profesional que se haga en actividades reguladas por una ley federal, excepto cuando el asunto sea de jurisdicción concurrente y conozca de él la autoridad local; o para cumplir requisitos exigidos por una ley federal.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 2°.
 
-Las autoridades federales y las del Distrito Federal antes de expedir cualquier nombramiento o de otorgar una comisión para el desempeño de alguna actividad de las comprendidas en el artículo 2° de la Ley, deberán cerciorarse de que la persona designada posee título debidamente requisitado conforme a este Reglamento.
+Las autoridades federales y las del Distrito Federal antes de expedir cualquier nombramiento o de otorgar una comisión para el desempeño de alguna actividad de las comprendidas en los artículos 2o. y segundo transitorio de la Ley deberán cerciorarse de que la persona designada posee título profesional debidamente requisitado conforme a este Reglamento.
 
 ###### ARTICULO 3°.
 
@@ -60,7 +68,11 @@ Las mismas condiciones deberán reunirse tratándose de nombramientos de auxilia
 
 El cumplimiento de las obligaciones impuestas por la Ley y por este Reglamento, no exceptúa a los profesionistas de satisfacer otras obligaciones que les imponga una ley federal.
 
-### CAPITULO II. Condiciones que deben llenarse para obtener un título profesional e instituciones autorizadas para expedirlos
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MAYO DE 1975)</small>
+
+### CAPITULO II
+
+Condiciones que deben llenarse para obtener un título profesional o grado académico e instituciones autorizadas para expedirlos.
 
 ###### ARTICULO 5°.
 
@@ -68,93 +80,115 @@ Para que las escuelas de enseñanza profesional puedan admitir a un alumno como 
 
 ###### ARTICULO 6º.
 
-La falta de cumplimiento a la obligación impuesta en el artículo que antecede, sujeto a la escuela y a sus funcionarios responsables de las sanciones que establece la Ley Orgánica de la Educación Pública, independientemente de las que les correspondan conforme a la ley penal.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ###### ARTICULO 7º.
 
-Para el registro de títulos expedidos por escuelas particulares de la República Mexicana o por escuelas del extranjero, será requisito previo la declaración de incorporación o de reconocimiento de validez oficial de los estudios en la escuela respectiva, hechas por la Secretaría de Educación Pública.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ###### ARTICULO 8º.
 
-La declaración de incorporación sólo podrá hacerse a solicitud de la escuela de que se trate. El reconocimiento de validez oficial de estudios puede hacerse a solicitud de la misma escuela o de cualquier profesionista titulado en ella.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
-###### ARTICULO 9º.
-
-Todas las escuelas o instituciones que dentro de la República Mexicana estén dedicadas a la educación superior profesional, están obligadas:
-
-a).- A inscribirse en la Dirección General de Profesiones.
-
-b).- A proporcionar anualmente a dicha Dirección sus planes de estudios, programas y métodos de enseñanza, organización del servicio social, profesorado y condiciones materiales del establecimiento para los fines expresados en el artículo 9° de la Ley.
-
-c).- A proporcionar la misma Dirección las informaciones que ésta le pida, en cualquier momento, ya sea en los aspectos mencionados en el inciso que antecede o con relación con casos concretos.
-
-d).- A informar a la Dirección General de Profesiones, dentro de los quince días siguientes, de los exámenes recepcionales de profesionistas que celebren.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 9°.
 
-El Colegio de Notarios se formará, dentro del plazo que señala el artículo anterior, para el desempeño de las funciones que le atribuyen la ley reglamentada y la del Notariado. Al efecto se introducirán las modificaciones necesarias al funcionamiento del Consejo de Notarios que en lo sucesivo se denominará Colegio y Consejo de Notarios.
+Las instituciones que dentro de la República Mexicana estén dedicadas a la educación profesional tendrán las siguientes obligaciones:
+
+a).- Inscribirse en la Dirección General de Profesiones;
+
+b).- Proporcionar anualmente a la Dirección sus planes y programas de estudio y de servicio social;
+
+c).- Rendir a la Dirección los informes que ésta les solicite; y
+
+d).- Informar a la Dirección del establecimiento de nuevas carreras profesionales.
 
 ###### ARTICULO 10.
 
-El reconocimiento de validez oficial de los estudios hechos en las escuelas o instituciones dedicadas a la educación superior profesional será tramitado por la Dirección General de Profesiones con arreglo a la Ley Orgánica de la Educación Pública y las demás leyes de educación superior vigentes. Para conceder el reconocimiento serán oídas previamente la Comisión Técnica de la profesión respectiva y la Dirección de Enseñanza Superior de la Secretaría de Educación Pública.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 11.
 
-Los títulos profesionales deberán tener los siguientes requisitos:
+Los títulos profesionales o grados académicos deberán reunir los siguientes requisitos:
 
-a).- El Nombre de la escuela o institución que lo expide;
+a).- Nombre de la institución que lo otorgue;
 
-b).- La declaración de que el profesionista hizo todos los estudios correspondientes al plan de estudios, de acuerdo con los programas respectivos, de la carrera de que se trate;
+b).- Declaración de que el profesionista hizo los estudios de acuerdo con el plan y programa relativos a la profesión de que se trate;
 
-c).- El lugar y fecha en que se sustentó el examen profesional, en caso de exigirse este acto, o la fecha en que satisfizo el último requisito necesario;
+c).- Lugar y fecha en que se sustentó el examen profesional o de grado, en caso de exigirse dicho examen;
 
-d).- El lugar y fecha de expedición del título;
+d).- Lugar y Fecha de expedición del título o grado;
 
-e).- La firma de la persona o personas autorizadas para subscribirlo conforme al estatuto de la escuela o institución;
+e).- Firma de la persona o personas autorizadas para suscribirlo conforme a las disposiciones que rijan a la escuela o institución; y
 
-f).- El retrato de la persona en cuyo favor se expida.
+f).- Retrato del interesado.
+
+Cuando los títulos o grados sean expedidos por personas que no tengan el carácter de autoridades federales o funcionarios de los Estados, deberán contener la legalización de las firmas de dichas personas, otorgada por la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 12.
 
-Solamente las escuelas autorizadas por la ley y por este Reglamento podrán expedir títulos profesionales. Esta restricción no limita, sin embargo, el derecho a impartir enseñanza profesional a otras escuelas o instituciones, pero no estarán facultadas para extender dichos títulos. Esta circunstancia deberá anunciarse expresamente.
+Sólo las instituciones a que se contrae el artículo 1o. de la Ley podrán expedir títulos profesionales y grados académicos. Esta restricción no limita a otras instituciones para impartir enseñanza profesional; pero no estarán facultadas para extender títulos o grados, circunstancia que deberán mencionar expresamente en su correspondiente documentación y publicidad.
 
 ###### ARTICULO 13.
 
-Las escuelas o instituciones de la República Mexicana que establezcan nuevas carreras profesionales darán información de ello a la Dirección General de Profesiones, dentro de los treinta días siguientes, para que ésta, en caso de ser procedente, inicie los trámites conducentes a la inclusión de la profesión respectiva entre las que requieran título para su ejercicio.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ### CAPITULO III. Tramitación ante la Dirección General de Profesiones
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 14.
 
-Para obtener el registro de un título profesional el solicitante deberá presentar en la Dirección General de Profesiones una solicitud, por triplicado, en la que, bajo protesta de decir verdad, declarará:
+Para obtener el registro de un título profesional o grado académico, el interesado deberá presentar en la Dirección General de Profesiones una solicitud en la que, bajo protesta de decir verdad, declarará:
 
-a).- Su nombre, lugar de origen, nacionalidad, edad, domicilio particular y lugar en que despacha sus asuntos profesionales;
+I.- Su nombre, sexo, lugar y fecha de nacimiento, nacionalidad y domicilio;
 
-b).- Haber hecho los estudios de educación primaria, secundaria o prevocacional, preparatorios o vocacionales y profesionales.
+II.- Número de su registro federal de causante, en su caso;
 
-c).- La mención de las escuelas en que hizo cada uno de esos estudios y las fechas correspondientes;
+III.- Datos sobre los estudios profesionales acreditados:
 
-d).- Calidad de la escuela en que hizo sus estudios, distinguiendo si es oficial, descentralizada, particular incorporada por la Federación, algún Estado o Municipio, particular con reconocimiento de validez oficial de la Federación, de un Estado o de un Municipio, escuela libre o privada sin ningún reconocimiento oficial. Cuando se trate de escuela extranjera se hará la clasificación que corresponda al país respectivo;
+a).- Nombre y domicilio de la institución que le otorgó el título o grado. Al efecto se deberá señalar si ésta es federal, estatal, descentralizada o particular con autorización o con reconocimiento de validez oficial de estudios;
 
-e).- El servicio social que haya prestado.
+b).- Fecha en que acreditó dichos estudios y, en su caso, la del examen profesional o de grado; y
+
+IV.- Servicio social que se haya prestado como requisito previo para obtener el título o grado.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 15.
 
-Los interesados acompañarán a su solicitud:
+A la solicitud a que se refiere el artículo anterior, el interesado deberá acompañar lo siguiente:
 
-a).- El original del título profesional.
+I.- Certificados de educación secundaria y de bachillerato o equivalentes, cuando se trate de estudios profesionales de tipo medio;
 
-b).-Cuatro retratos.
+II.- Certificados de estudios de tipo medio y profesionales de licenciatura, maestría o doctorado, cuando se trate de tipo superior;
 
-c).- Actas de nacimiento o certificado de nacionalidad para los mexicanos, carta de naturalización para los mexicanos por naturalización, y tarjeta de inmigración para los extranjeros. Si un mexicano careciere de acta de nacimiento para los extranjeros. Si un mexicano careciere de acta de nacimiento, podrá demostrar su calidad por otros medios de prueba bastantes a juicio de la Dirección General de Profesiones.
+III.- Acta de examen profesional o de grado, o constancia de que no es exigible dicho examen;
 
-d).- El certificado de estudios secundarios, prevocacionales, preparatorios o vocacionales y profesionales y de haber prestado el servicio social.
+IV.- Original del título profesional o grado académico;
 
-e).- Copia fotostática, por triplicado, de los documentos mencionados en los incisos a), c) y d) de este artículo.
+V.- Dos copias fotostáticas del título o grado;
 
-f).- Las informaciones que crean convenientes sobre las escuelas en que hayan hecho sus estudios si hubieren desaparecido.
+VI.- Certificación expedida por la institución que le otorgó el título o grado, en la que se haga constar que el interesado prestó servicio social en los términos del artículo 55 de la Ley;
 
-g).- En caso de mutilación, destrucción o desaparición de los archivos originales, los interesados deberán presentar certificado de esa circunstancia expedido por la escuela respectiva, visado de conformidad por la dependencia educativa de la Secretaría de Educación Pública de la que dependa. E n caso de que la escuela haya desaparecido, esa certificación será extendida por la dependencia correspondiente de la Secretaría de Educación Pública.
+VII.- Información necesaria en caso de desaparición de las instituciones educativas donde se hayan realizado los estudios y certificación de esa circunstancia expedida por la autoridad correspondiente;
+
+VIII.- Información necesaria en caso de desaparición, mutilación o destrucción de los documentos o archivos escolares y constancia relativa expedida por autoridad competente;
+
+IX.- Documento que acredite su identidad y nacionalidad:
+
+a).- Mexicanos por nacimiento, copia certificada del acta de nacimiento. Si se careciere de este documento, se podrá demostrar esta calidad por otros medios de prueba bastantes a juicio de la Dirección;
+
+b).- Personas que hayan optado por la nacionalidad mexicana, certificado de nacionalidad o carta de naturalización, en su caso. Los nacidos en territorio de la República de padre o madre extranjero y de los nacidos en el extranjero de padres mexicanos, de padre mexicano o de madre mexicana, deberán acreditar su nacionalidad mexicanas en los términos que señala el artículo 57 de la Ley de Nacionalidad y Naturalización, y su Reglamento;
+
+c).- Extranjeros, copia certificada de su acta de nacimiento, debidamente legalizada, y copia fotostática certificada de su documentación migratoria; y
+
+X.- Dos retratos.
 
 ###### ARTICULO 16.
 
@@ -182,19 +216,23 @@ Los tribunales del ramo penal, bajo su más estricta responsabilidad, comunicar�
 
 ### CAPITULO IV. Del Registro
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 22.
 
 Deberán inscribirse en la Dirección General de Profesiones:
 
-I.- Las escuelas que impartan enseñanza preparatoria y profesional;
+I.- Las escuelas que impartan educación profesional;
 
-II.- Los Colegios de profesionistas;
+II.- Los colegios de profesionistas;
 
-III.- Los títulos de profesionistas;
+III.- Los títulos profesionales y los grados académicos;
 
-IV.- Las resoluciones judiciales y arbitrales y demás actos y documentos que en cualquier forma afecten a escuelas, colegios o profesionistas; y
+IV.- Los convenios que celebre el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, relativos al ejercicio profesional;
 
-V.- Todos los actos que deban anotarse por disposición de autoridad competente o de la ley.
+V.- Las reuniones judiciales y arbitrales y demás actos y documentos que en cualquier forma afecten a instituciones educativas, colegios de profesionistas o profesionistas; y
+
+VI.- Todos los actos que deban anotarse por disposición de la Ley o de autoridad competente.
 
 ###### ARTICULO 23.
 
@@ -208,9 +246,11 @@ Las inscripciones no prejuzgan ni convalidan actos o documentos que, conforme a 
 
 El archivo, del registro será público y el Director de Profesiones está obligado a expedir certificaciones de las constancias del mismo, cuando así se le solicite por escrito.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 26.
 
-El registro surtirá todos sus efectos desde el día y la hora en que se hubiere presentado la solicitud respectiva en la Dirección General de Profesiones.
+El registro surtirá sus efectos a partir de la fecha en que se realice la inscripción correspondiente.
 
 ###### ARTICULO 27.
 
@@ -230,49 +270,41 @@ Se llevará además un índice, también en libros y tarjetas, por escuelas, col
 
 ###### ARTICULO 31.
 
-Hecha la inscripción se devolverán al interesado los documentos que acompañó con la nota de haber quedado hecho el registro y con la expresión del número y de la fecha. La inscripción constituirá, respecto de profesionistas, la patente para el ejercicio de sus actividades y, tratándose de colegios de profesionistas, la patente para el ejercicio de sus actividades y, tratándose de colegios de profesionistas, será la constancia de la autorización respectiva.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 32.
 
-Con los datos de que habla el artículo anterior, se entregará al profesionista la cédula personal correspondiente con efectos de patente para el ejercicio profesional y para su identidad en todas sus actividades profesionales. En esta cédula aparecerán el retrato y la firma del profesionista.
+Una vez realizada la inscripción de un título profesional o grado académico, se entregará al profesionista de nacionalidad mexicana la cédula personal correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en sus actividades profesionales. En esta cédula aparecerá el retrato y la firma del profesionista.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 33.
 
-El registro se compondrá de cuatro secciones en las que se inscribirá:
+El registro se compondrá de cinco secciones en las que se inscribirán:
 
-I.- En la Sección Primera todo lo relativo a escuelas que impartan enseñanza preparatoria o profesional;
+I.- En la sección primera, lo relativo a instituciones que impartan educación profesional;
 
-II.- En la Sección Segunda todo lo relativo a colegios de profesionistas;
+II.- En la sección segunda, lo relativo a colegios de profesionistas;
 
-III.- En la Sección Tercera, todo lo relativo a títulos de profesionistas;
+III.- En la sección tercera, lo relativo a títulos profesionales y grados académicos;
 
-IV.- En la Sección Cuarta, las autorizaciones especiales que se otorguen en los términos de la Ley.
+IV.- En la sección cuarta, las autorizaciones especiales que se otorguen en los términos de la Ley; y
+
+V.- En la sección quinta, lo relativo a los convenios a que se refiere la fracción IV del artículo 22 de este Reglamento.
 
 ###### ARTICULO 34.
 
-Las inscripciones no se extinguen sino por su cancelación y ésta no podrá efectuarse sin que medie resolución de autoridad competente.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ###### ARTICULO 35.
 
-Procede la cancelación de una inscripción:
-
-I.- Por desaparición de la escuela o colegio de profesionistas de que se trate;
-
-II.- Por muerte del profesionista;
-
-III.- Por declaración de nulidad de los actos que consten en los documentos acompañados o de la inscripción, hecha por autoridad competente;
-
-IV.- Por error a (sic) falsedad de los documentos inscritos;
-
-V.- Por violación al artículo 52 de la Ley;
-
-VI.- Cuando se compruebe, previo juicio, que el título no fue expedido con los requisitos que establece la Ley;
-
-VII.- Por resolución de autoridad competente.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ###### ARTICULO 36.
 
-Cuando exista motivo fundado para solicitar la cancelación de una inscripción el Director de Profesiones demandará, ante los Tribunales del Distrito o de los Territorios Federal, dicha cancelación. Este juicio se seguirá en la vía sumaria.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ###### ARTICULO 37.
 
@@ -288,7 +320,7 @@ Se entenderá que hay error de concepto cuando al expresar en la inscripción al
 
 ###### ARTICULO 40.
 
-Los errores materiales y los de concepto podrán corregirse dando aviso al interesado y, en su caso, al colegio correspondiente. Si hubiere inconformidad la inscripción no podrá modificarse sino a virtud de sentencia pronunciada por la autoridad judicial.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ###### ARTICULO 41.
 
@@ -296,15 +328,17 @@ Las inscripciones equivocadas no podrán corregirse por medio de entrerrenglonad
 
 ###### ARTICULO 42.
 
-Hecho el registro de un Colegio de Profesionistas, no podrá ser cancelado administrativamente sino a solicitud o con la conformidad del mismo. Para cualquiera otro caso se requiere resolución judicial dictada en juicio que se siga en contra del colegio de cuya cancelación se trate y del Director General de Profesiones, a no ser que sea éste quien demande autorización para cancelar, pues en ese caso el juicio sólo se seguirá en contra del colegio.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 43.
 
-Son interesadas en la cancelación de un registro del Colegio de Profesionistas, los demás colegios de la misma profesión, las asociaciones que no hayan logrado su registro para constituirse en Colegio de Profesionistas por estar completo el tiempo fijado por la ley, el Ministerio Público y la Dirección General de Profesiones.
+Son interesados en la cancelación de un registro de colegio de profesionistas, los demás colegios de la misma profesión y las asociaciones que no hayan logrado su registro para constituirse en colegio de profesionistas por estar completo el número fijado por la Ley.
 
 ###### ARTICULO 44.
 
-En caso de juicio sobre cancelación de registro de un Colegio de Profesionistas, podrán suspenderse provisionalmente los efectos de ese registro, por providencia judicial, cuando el fundamento de la demanda sea la violación del artículo 48 de la ley, o cuando la Dirección General de Profesiones hubiere comprobado que carece del mínimo de socios requerido.
+(DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
 ### CAPITULO V. Del ejercicio profesional
 
@@ -516,9 +550,11 @@ Los Colegios de Profesionistas deberán contener en sus estatutos las normas gen
 
 Cada año, durante el mes de enero, los Colegios de Profesionistas darán a conocer a la Dirección General de Profesiones cuáles son los servicios sociales que prestarán cada uno de sus miembros y el cumplimiento que se haya dado al servicio social durante el año anterior y de los resultados obtenidos.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 88.
 
-Entre tanto se expide el Reglamento especial de servicio social de profesionistas no colegiados, los del Distrito y Territorios Federales que no pertenezcan a algún Colegio, deberán enviar, en el mes de enero de cada año, a la Dirección General de Profesiones una declaración de los términos en que se propongan cumplir con el servicio social durante el año anterior y de los resultados obtenidos.
+En tanto se expide el reglamento especial de servicio social de profesionistas no colegiados, éstos deberán enviar, en el mes de enero de cada año, a la Dirección General de Profesiones una declaración de la forma en que se propongan cumplir con el servicio social y la comprobación de haberlo prestado durante el año anterior.
 
 ###### ARTICULO 89.
 
@@ -528,9 +564,11 @@ Cuando el servicio social sea prestado a título gratuito por los profesionistas
 
 Si el servicio social no fuere cubierto por el profesionista, cualquiera que haya sido la causa, se hará mención de ello en su hoja de servicios.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 91.
 
-Los estudiantes y profesionistas trabajadores de la Federación, del Gobierno del Distrito Federal y de los Gobiernos de los Territorios no estarán obligados a prestar ningún servicio social distinto del desempeño de sus funciones. El que presten voluntariamente dará lugar a que se haga la anotación respectiva en su hoja de servicios.
+Los estudiantes y profesionistas trabajadores de la Federación y del Gobierno del Distrito Federal no estarán obligados a prestar ningún servicio social distinto del desempeño de sus funciones. El que presten voluntariamente dará lugar a que se haga la anotación respectiva en su hora de servicios.
 
 ###### ARTICULO 92.
 
@@ -549,6 +587,10 @@ La Dirección General de Profesiones tendrá la más amplia facultad para ordena
 ###### ARTICULO 95.
 
 La infracción a los artículos 2o y 3o de este Reglamento será motivo de responsabilidad para el infractor. Las oficinas pagadoras se abstendrán de despachar órdenes de pago a favor de personas que no satisfagan los requisitos que marcan los citados artículos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 1975)</small>
+
+ARTICULO 95 BIS.- Para los efectos del artículo 65 de la Ley, se presume que una persona ha desarrollado actividad profesional cuando hayan transcurrido noventa días, contados a partir de la fecha de la expedición del título.
 
 ###### ARTICULO 96.
 
@@ -614,6 +656,10 @@ Cuando al vencerse ese plazo hubieren solicitado el registro cinco asociaciones,
 
 En caso de que el número de asociaciones solicitantes sea mayor de cinco, serán preferidas para el registro en el siguiente orden: las más antiguas, respecto de las más modernas; las generales respecto de las particulares, y las de mayor número de asociados respecto de las de número inferior.
 
+###### ARTICULO 9°.
+
+El Colegio de Notarios se formará, dentro del plazo que señala el artículo anterior, para el desempeño de las funciones que le atribuyen la ley reglamentada y la del Notariado. Al efecto se introducirán las modificaciones necesarias al funcionamiento del Consejo de Notarios que en lo sucesivo se denominará Colegio y Consejo de Notarios.
+
 ###### ARTICULO 10.
 
 Sólo después de inscritos los Colegios a que se refiere el artículo anterior, o de que sea negada la solicitud respectiva, podrán inscribirse las asociaciones creadas después de la vigencia de la ley y a las cuales se aplicará también el orden de preferencia a que se refiere el artículo precedente.
@@ -659,3 +705,9 @@ Las escuelas de capacitación reconocidas con anterioridad por la Secretaría de
 ###### ARTICULO QUINTO.
 
 En relación con el artículo 4° transitorio, reformado, del reglamento y con los artículos segundo, tercero y cuarto transitorios de este decreto, como en todo caso, sólo tendrán validez los estudios de capacitación que se hubiesen realizado o realicen por los interesados que hayan dado cumplimiento a todos los requisitos establecidos en la ley reglamentaria de los artículos 4° y 5° constitucionales, en su reglamento, en este decreto y en las demás disposiciones legales vigentes.
+
+D.O.F. 8 DE MAYO DE 1975.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Se derogan las demás disposiciones reglamentarias que se opongan al presente Decreto.
