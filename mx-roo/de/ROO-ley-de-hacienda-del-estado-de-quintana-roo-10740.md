@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1998-12-31"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -133,7 +133,9 @@ Son sujetos de este impuesto las personas físicas o morales que enajenen vehíc
 
 Son responsables solidarios del pago del Impuesto sobre la Enajenación de Vehículos de Motor y de Bienes Muebles Usados:
 
-I.- El adquirente de vehículos de motor y de bienes muebles tanto por el endoso a su favor, como por los anteriores, si no comprueba el pago de este impuesto, mediante la exhibición de los recibos oficiales correspondientes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- El adquiriente de vehículos de motor y de bienes muebles usados, por el endoso del documento a su favor, si no comprueba el pago de este impuesto, mediante la exhibición de los recibos oficiales correspondientes.
 
 II.- Los funcionarios y empleados públicos que autoricen cualquier trámite establecido en los artículos 176 y 179 de esta Ley, sin haberse cerciorado del pago de este impuesto.
 
@@ -157,9 +159,11 @@ II.- A falta de precio de la operación se tomará como base el valor del avalú
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 9o.
 
-Este impuesto se determinará aplicando a la base gravable la tasa del 2%.
+Este impuesto se determinará aplicando a la base gravable la tasa del 1% tratándose de vehículos destinados para uso particular y el 0.5% tratándose de vehículos destinados para servicio público.
 
 #### SECCION CUARTA. DE LAS OBLIGACIONES Y DEL PAGO
 
@@ -169,7 +173,9 @@ Este impuesto se determinará aplicando a la base gravable la tasa del 2%.
 
 Los sujetos del impuesto que regula este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del Artículo 7º de esta ley, además de las obligaciones establecidas en el Código Fiscal del Estado, tendrán las siguientes:
 
-a).- Exhibir el original del documento que ampare la propiedad del vehículo objeto de la enajenación, debidamente endosado especificando la fecha de enajenación, nombre, Registro Federal de Causantes y domicilio del adquirente, y proporcionar copias simples del mismo por ambos lados, dentro de los treinta días hábiles siguientes a la fecha del endoso o a la de adquisición.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+a).- Exhibir el original del documento que ampare la propiedad del vehículo objeto de la enajenación, debidamente endosado especificando la fecha de enajenación, nombre, Registro Federal de Contribuyentes y domicilio del adquiriente; además deberá proporcionar copias simples del mismo por ambos lados, dentro de los treinta días siguientes a la fecha del endoso o a la de adquisición.
 
 b).- Presentar el comprobante de domicilio del adquiriente, que a criterio de la Secretaría de Hacienda se solicite.
 
@@ -179,25 +185,31 @@ Para los efectos de este impuesto, se considera domicilio fiscal el manifestado 
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 12.
 
-Los vehículos y bienes muebles enajenados quedan afectos preferentemente al pago del impuesto que regula este Capítulo.
+Los vehículos de motor y bienes muebles usados quedan afectos preferentemente al pago del Impuesto que regula este capítulo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 13.
 
-Las dependencias oficiales competentes y sus oficinas foráneas, no tramitarán solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto cuando éste se cause en los términos prescritos por este capítulo.
+Las dependencias oficiales competentes y sus oficinas foráneas, no tramitarán solicitud de alta, baja o traspaso de vehículos de motor usados, por los cuales no se hubiese pagado el impuesto cuando éste se cause en los términos prescritos por este capítulo.
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 14.
 
-Quedan exentos de este impuesto la enajenación, cesión o transmisión de derechos de vehículos de motor y de bienes muebles, que realicen los Gobiernos Federal, Estatal o Municipales.
+Quedan exentos de este impuesto la enajenación, cesión o transmisión de derechos de vehículos de motor y de bienes muebles usados, que realicen los Gobiernos Federal, Estatal o Municipales.
 
 Asimismo no estarán obligados al pago de este impuesto las personas físicas o morales que adquieran vehículos automotores y bienes muebles usados como consecuencia de la constitución o disolución de la sociedad conyugal, el cambio de las capitulaciones, matriculaciones o la constitución de la copropiedad.
 
 ###### ARTICULO 15.
 
-El Estado participará a los Municipios del monto de la recaudación de este impuesto, en los términos que disponga la Ley de Coordinación Fiscal del Estado de Quintana Roo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 #### SECCION SEXTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -625,9 +637,9 @@ c).- Tratándose de personas físicas, cuyo Registro Federal de Contribuyentes i
 
 d).- Tratándose de personas físicas cuyo Registro Federal de Contribuyentes inicie con las letras de la "L" a la "Z", el plazo vence el día 15 del mes siguiente a aquél en que se efectuó la erogación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-e).- Deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a más tardar el día 17 del mes siguiente a aquél en que se efectuó la erogación.
+e).- Deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a mas tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un ejercicio fiscal tengan la obligación de efectuar sus pagos mensuales, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
 
 Estos pagos, se efectuarán en la Oficina Recaudadora de Rentas o en las oficinas autorizadas por la Secretaría de Hacienda del Estado del domicilio del sujeto pasivo de este impuesto, salvo en el caso de contar con una o mas sucursales dentro del territorio del Estado de Quintana Roo, en cuyo caso se estará a lo establecido por el artículo 45 de la presente ley.
 
@@ -657,9 +669,9 @@ II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá
 
 III.- Cuando el total de remuneraciones por las que se deba pagar el impuesto del ejercicio sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias por el período o períodos por los que se efectúan pagos provisionales a que correspondan las diferencias, debiéndose actualizar el impuesto y cubrir los recargos conforme a los artículos 20 y 22 del Código Fiscal del Estado.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Cuando la diferencia entre el impuesto del ejercicio y la suma del impuesto consignado en las declaraciones provisionales, se deba al ajuste de las contribuciones pagadas efectuado en los términos previstos en el artículo 18 último párrafo, se recepcionará la declaración anual sin cobro alguno.
+IV.- Cuando la diferencia entre el impuesto del ejercicio y la suma del impuesto consignado en las declaraciones provisionales, se deba al ajuste de las contribuciones pagadas efectuado en los términos previstos en el artículo 18 último párrafo del Código Fiscal del Estado, se recepcionará la declaración anual sin cobro alguno.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -720,6 +732,16 @@ Quienes realicen pagos y erogaciones por cuentas de terceros gravados por este i
 ###### ARTICULO 47.
 
 Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 47
+
+BIS.- Las dependencias y organismos auxiliares de la Administración Publica Estatal y los Municipios que contraen obra pública con empresas foráneas, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
+
+Para determinar la cantidad a retener tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma ley.
+
+El pago del impuesto retenido, deberá efectuarse dentro de los diez días siguientes a la fecha en que se efectuó la retención, mediante declaración definitiva en las formas aprobadas por la propia Secretaría.
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
@@ -1769,13 +1791,21 @@ Este impuesto se pagará anualmente dentro de los dos primeros meses del año si
 
 Cuando el .5% sobre las percepciones sea inferior a 22 salarios mínimos vigentes en el estado, se pagará éste.
 
-Cuando sea el primer año de operación del contribuyente conforme a la fecha de su inicio de operaciones, se aplicará la siguiente:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Primer cuatrimestre 22 S.M.G.
+Cuando sea el primer año de operación del contribuyente, el impuesto se pagará dentro de los dos meses siguientes a aquél en que inicie sus actividades, tomando en consideración para el cálculo del impuesto la fecha del inicio de sus operaciones dentro del cuatrimestre del ejercicio que le corresponda, aplicando la cuota fija de la siguiente:
 
-Segundo cuatrimestre 16 S.M.G.
+> <small>(REFORMADA TARIFA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Tercer cuatrimestre 11 S.M.G.
+TARIFA
+
+INICIO DENTRO DEL: CUOTA FIJA A PAGAR:
+
+PRIMER CUATRIMESTRE 22 S.M.G.
+
+SEGUNDO CUATRIMESTRE 16 S.M.G.
+
+TERCER CUATRIMESTRE 11 S.M.G.
 
 ###### ARTICULO 148.
 
@@ -1865,93 +1895,45 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ### CAPITULO XI. DEL IMPUESTO SOBRE LA EXPLOTACION DE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
 ###### ARTICULO 160.
 
-Es objeto de este impuesto la percepción de ingresos derivados de la explotación de diversiones y espectáculos públicos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 161.
 
-Son sujetos de este impuesto las personas físicas o morales y unidades económicas que ostenten la propiedad o posesión o bien organicen o realicen la explotación de diversiones o espectáculos públicos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 162.
 
-Será base gravable para el pago de este impuesto, el monto de los ingresos globales percibidos durante el período de explotación autorizado.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 163.
 
-El impuesto sobre espectáculos públicos, se liquidará y pagará aplicando a los ingresos que se obtengan conforme a lo establecido por el artículo 160 de esta Ley, la tasa del 4% por la venta de boletos para entrar al espectáculo.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 163-A.
 
-Cuando no se pueda identificar plenamente los ingresos a que se refiere el artículo 162, el impuesto se podrá pagar anticipadamente conforme a la siguiente
-
-(VEASE TABLA ANEXA)
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 #### SECCION TERCERA. LUGAR Y FORMA DE PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 164.
 
-El impuesto deberá pagarse ante la Secretaría de Hacienda del Estado a través de las Oficinas Recaudadoras de Rentas correspondientes, de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Por adelantado a más tardar el mismo día en que se inicia o celebre el espectáculo.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II.- Al terminar el espectáculo, en los casos en que no se cuente con liquidez suficiente para cubrir el impuesto. A este propósito la autoridad estatal nombrará un interventor para que liquide y cobre el monto del impuesto.
-
-III.- Dentro de los tres días hábiles siguientes al de la fecha de notificación, cuando se trate de liquidaciones adicionales para rectificar errores de liquidaciones anteriores o por alguna otra causa.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 #### SECCION CUARTA. DE LAS OBLIGACIONES
 
 ###### ARTICULO 165.
 
-Son obligaciones de los sujetos de este impuesto las siguientes:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Obtener ante la Secretaría de Hacienda por conducto de sus Oficinas Recaudadoras de Rentas, el permiso correspondiente antes de anunciar una función o serie de éstas.
-
-II.- Anotar en la solicitud del permiso la naturaleza del espectáculo, fecha, hora y lugar en que haya de efectuarse, periodicidad, la clasificación de asientos, el máximo de espectadores que podrá contener el local y acompañar tres ejemplares del programa respectivo.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Permitir que el personal autorizado por la Secretaría de Hacienda del Estado, vigile el cumplimiento de las disposiciones de esta ley y demás ordenamientos en vigor.
-
-IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-V.- Dar aviso a la Secretaría de Hacienda del Estado a través de sus oficinas recaudadoras de rentas, cuando menos con 24 horas de anticipación a aquella en que deba dar comienzo la función, de cualquier variación a los programas en lo referente a los precios, horarios o lugar de celebración.
-
-VI.- No permitir a persona alguna la entrada sin el correspondiente boleto, salvo a las autoridades fiscales estatales y de policía, para el desempeño de sus funciones.
-
-VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VIII.- Empadronarse, si son contribuyentes habituales, o dar aviso de inicio de actividades si no lo son, a las oficinas recaudadoras de rentas, previamente al desarrollo de sus actividades, proporcionando sus datos relativos a su nombre o denominación, fecha en que vaya a iniciar, tipo de espectáculo o diversión, horario y periodo durante el cual se vaya a desarrollar el evento.
-
-IX.- Presentar aviso previo en los casos de cambio de domicilio, denominación o razón social, suspensión, reducción o ampliación de actividades y traspasos.
-
-X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -3747,6 +3729,74 @@ De primera hasta 1,103 S.M.G.
 
 De segunda hasta 998 S.M.G
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 170-A.
+
+La Secretaria expedirá de conformidad con lo establecido en la Ley para el Control de Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo los permisos especiales que a continuación se mencionan:
+
+I.- Los contribuyentes que enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados SOUVENIRS, cuyo contenido máximo sea hasta 150 mililitros, deberán solicitar permiso especial ante la Oficina Recaudadora que corresponda a su domicilio fiscal, antes de iniciar sus actividades relacionadas con la venta de estos productos.
+
+Por la expedición de los permisos especiales a que se refiere el párrafo anterior se causará un derecho de acuerdo a la siguiente:
+
+TARIFA
+
+ZONA 1 ZONA 2
+
+MENSUAL HASTA 17 S.M.G. HASTA 06 S.M.G.
+
+TRIMESTRAL HASTA 46 S.M.G. HASTA 18 S.M.G.
+
+SEMESTRAL HASTA 81 S.M.G. HASTA 36 S.M.G.
+
+ANUAL HASTA 122 S.M.G. HASTA 72 S.M.G.
+
+II.- Las personas físicas y morales que lleven a cabo eventos de carácter ocasional, en los que además se realice la venta y consumo de bebidas alcohólicas, deberán contar con un permiso especial expedido por la Secretaría, de conformidad con el Artículo 5° fracción III de la Ley para el Control de Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, pagando un derecho por día para la Zona 1 de 8 hasta 40 S.M.G. y para la Zona 2 de 4 hasta 13 S.M.G.
+
+Para los efectos de este artículo se consideran dentro de la Zona 1 los municipios de Benito Juárez, Solidaridad, Cozumel e Isla Mujeres; y dentro de la Zona 2 los municipios de Othón P. Blanco, Lázaro Cárdenas, José María Morelos y Felipe Carrillo Puerto.
+
+TARIFA
+
+Zona 1 Zona 2
+
+S.M.G. S.M.G.
+
+Permiso para eventos,
+
+sociales y Culturales
+
+que realicen los comités
+
+de vecinos, por día hasta 8 4
+
+Permiso para eventos
+
+deportivos, Sociales y
+
+culturales que realicen
+
+los ejidos, por día hasta 10 5
+
+Permiso para eventos
+
+deportivos, Sociales y
+
+culturales en general.
+
+Por día. Hasta 13 7
+
+Bailes públicos, kermeses,
+
+ferias y Eventos especiales,
+
+por día hasta 20 13
+
+Otros permisos, por día
+
+hasta 40 10
+
+Para los efectos de esta tarifa se consideran dentro de la Zona 1 los municipios de: Benito Juárez, Solidaridad, Cozumel e Isla Mujeres, y dentro de la Zona 2, los municipios de: Othón P. Blanco, Lázaro Cárdenas, José Ma. Morelos y Felipe Carrillo Puerto.
+
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
@@ -4375,7 +4425,9 @@ II.- Copia de su último pago de impuesto sobre nóminas en caso de ser sujeto d
 
 III.- Patente original y copia, si expenden bebidas alcohólicas.
 
-IV.- Y demás documentos que a juicio de la Secretaría de Finanzas se juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
 
 ### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -4681,7 +4733,7 @@ c) Servicio público de renta de toda clase de vehículos:
 
 1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 1,112 S.M.G.
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta 1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
+2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
 
 3.- Motocicletas, hasta 534 S.M.G.
 
@@ -4857,7 +4909,7 @@ Independientemente de lo señalado en el párrafo anterior, se aplicarán las sa
 
 ### CAPITULO VIII. DE LA VERIFICACION Y CONTROL DE OBRA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 179.
 
@@ -4883,7 +4935,9 @@ VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO IX. EXPEDICION DE PASAPORTES PROVISIONALES
+### CAPITULO IX. EXPEDICION DE CONSTANCIA DE COMPATIBILIDAD URBANISTICA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 179-A.
 
@@ -4963,13 +5017,13 @@ IX.- Cuando con motivo de la prestación de los servicios arriba señalados se e
 
 ###### ARTICULO 181.
 
-Por la verificación y control que las leyes en la materia encomiendan a la Contaduría Mayor de Hacienda, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicio relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe cada una de las estimaciones de trabajo.
+Por la verificación y control que las leyes en la materia encomiendan a la Secretaría de la Contraloría, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-Las dependencias, organismos y fideicomisos de la Administración Pública estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior.
+Las dependencias y organismos auxiliares de la Administración Publica Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Se enterarán a la oficina recaudadora autorizada por la Secretaría de Hacienda del Estado, quien a su vez registrará todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
 
-Se enterarán a la Dirección de Ingresos de la Secretaría de Hacienda del Estado quien a su vez registrará todo lo recaudado por este concepto a favor de la partida presupuestal de la Contaduría Mayor de Hacienda y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
@@ -4977,27 +5031,41 @@ Se enterarán a la Dirección de Ingresos de la Secretaría de Hacienda del Esta
 
 ###### ARTICULO 182.
 
-La expedición de pasaportes provisionales causarán derechos que deberán cubrirse al momento de ser solicitados de acuerdo con la siguiente:
+Por el otorgamiento de la constancia de compatibilidad urbanística, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con la siguiente tarifa:
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+CONCEPTO TIPO DERECHOS
 
-TARIFA
+I.- Para licencia de
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Fraccionamiento General 0.5% sobre el monto total
 
-I.- Por un solo viaje 2.30 S.M.G.
+del presupuesto de obra
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+de urbanidad.
 
-II.- Individual (vigencia de un año) 4.60 S.M.G.
+II.- Para Subdivisión mayor de 6 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+10,000 m2
 
-III.- Colectivo (hasta 5 personas) 8.20 S.M.G.
+III.- Para condominio General 8 S.M.G.
+
+IV.- Para centros
+
+comerciales y central General 8 S.M.G.
+
+de abasto
+
+V.- Para centrales
+
+camioneras y de carga General 8 S.M.G.
+
+VI.- Para proyectos
+
+de industrias medianas General 8 S.M.G.
 
 ### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 183.
 
@@ -5113,7 +5181,7 @@ Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho de a
 
 ###### ARTICULO 188.
 
-Por la legalización de firmas y copias certificadas que se expiden de constancias y documentos existentes en las oficinas públicas, se pagará conforme a la siguiente.
+Por la legalización de firmas y copias certificadas que se expiden de constancias y documentos existentes en las oficinas públicas, se pagará conforme a las siguientes tarifas:
 
 TARIFA
 
@@ -5121,7 +5189,11 @@ TARIFA
 
 I.- Por certificados de no adeudo de cooperación para Obras Públicas. 4.04 S.M.G.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 II.- Por certificados de valor catastral fiscal. 3.45 S.M.G.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 III.- Por la expedición de certificados de actas que consten en la oficina central del Registro Civil, causarán derechos conforme a la siguiente:
 
@@ -5131,25 +5203,41 @@ TARIFA
 
 TARIFA
 
-a).- Por acta de nacimiento: 1.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por acta de matrimonio: 1.5 S.M.G.
+a).- Por acta de nacimiento: 2.0 S.M.G.
 
-c.- Por acta de divorcio: 5.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-d).- Por acta de defunción: 1.5 S.M.G.
+b).- Por acta de matrimonio: 2.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+c).- Por acta de divorcio: 4.5 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+d).- Por acta de defunción: 2.0 S.M.G.
 
 e).- No especificado: 2.0 S.M.G.
 
-f).- Constancia de inexistencia de registro: 4.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-g).- Corrección de acta y anotación marginal: 4.0 S.M.G.
+f).- Constancia de inexistencia de registro 3.5 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+g).- Aclaración administrativa: 4.5 S.M.G.
 
 h).- Anotación marginal: 1.0 S.M.G.
 
 i).- Autorización de registro extemporáneo: 2.75 S.M.G.
 
-j).- Por la expedición de actos registrados, certificados: 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+j).- Por la expedición de fotocopias de actos registrados certificados: 0.5 S.M.G.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV.- Otras legalizaciones o certificaciones 1.73 S.M.G.
 
@@ -5195,7 +5283,9 @@ c).- Fuera de las Oficinas del Registro Civil en horas hábiles. 4.5 S.M.G.
 
 d).- Fuera de las Oficinas del registro Civil en horas inhábiles. 6.5 S.M.G.
 
-e).- Rectificación de las actas de nacimiento. 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+e).- Por rectificación en el Libro de Registro que corresponda. 0.5 S.M.G.
 
 II.- Matrimonios:
 
@@ -5207,13 +5297,23 @@ c).- Fuera de las Oficinas del Registro Civil en horas hábiles. 5.5 S.M.G.
 
 d).- Fuera de las Oficinas del Registro Civil en horas inhábiles. 9.0 S.M.G.
 
-e).- Registro de matrimonios contraídos por mexicanos, fuera de la República. 7.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-f).- Rectificación de actas de matrimonio. 1.0 S.M.G.
+e).- Entre Mexicanos y Extranjeros en las oficinas del Registro Civil 10.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+f).- Entre Mexicanos y Extranjeros fuera de la oficina del Registro Civil 15.0 S.M.G.
 
 g).- Matrimonios entre extranjeros en la Oficina del Registro Civil. 65.0 S.M.G.
 
-h).- Matrimonio entre extranjeros fuera de la Oficina del Registro Civil. 162.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+h).- Matrimonio entre Extranjeros fuera de la Oficina del Registro Civil 150.0 S.M.G.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+i).- Fuera de las oficinas del Registro Civil en sábados y domingos y días festivos 20.0 S.M.G.
 
 III.- Divorcios:
 
@@ -5239,7 +5339,9 @@ a).- En la oficina. 0.3 S.M.G.
 
 b).- Levantada a domicilio. 1.5 S.M.G.
 
-V.- Tutela, emancipación o adopción. 1.0 S.M.G.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+V.- Tutela, Emancipación, Adopción o Reconocimiento 2.0 S.M.G.
 
 VI.- Otros:
 
@@ -5255,13 +5357,15 @@ e).- Expedición de actas de adopción. 4.0 S.M.G.
 
 f).- Expedición de actas de inscripción. 4.0 S.M.G.
 
-g).- Constancia de inexistencia registral. 1.0 S.M.G.
+g).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-h).- Certificación de documentos. 10.0 S.M.G.
+h).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-i).- Búsqueda de documentos. 10.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-j).- Otros no especificados. 10.0 S.M.G.
+i).- Búsqueda de documentos. 2.0 S.M.G.
+
+j).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5270,6 +5374,12 @@ j).- Otros no especificados. 10.0 S.M.G.
 Los actos de Registro Civil se efectuarán previo aviso y pago de los derechos en la oficina recaudadora de rentas.
 
 Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 188-D.
+
+El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a las fracciones I y II incisos b), c), y d) del articulo 188-B.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5441,9 +5551,9 @@ II.- Por inscripción o registro de títulos, ya se trate de documentos público
 
 a).- Si el monto es hasta 907 S.M.G. se aplicará 9.20 S.M.G.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Si el valor es más de 907 S.M.G. se aplicará el 1.15 % resultante.
+b) Si el valor es más de 907 S.M.G. se aplicará el 1% resultante.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5472,6 +5582,14 @@ Por la extinción de fideicomiso traslativo de dominio se deberá cobrar 5.75 S.
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 El cobro de derechos por sustitución de fiduciario, fideicomisario, incremento de patrimonio de familia, será por 5.75 S.M.G.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Por la inscripción de instrumentos que traten herencia, disolución de la copropiedad, se pagará 17 S.M.G.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Por la inscripción de instrumentos que traten donación, copropiedad entre familiares en línea recta hasta segundo grado se pagará 17 S.M.G.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5821,9 +5939,9 @@ XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 S.M.G.
 
 XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y Xl del artículo 21 de Código de Comercio................ 1.73 S.M.G.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 71 del Código de Comercio no previstos en este capítulo, 6.90 S.M.G.
+XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio no previstos en este capítulo, 6.90 S.M.G.
 
 XVI.- Inscripción de contratos de corresponsalía de Instituciones de Crédito
 
@@ -5934,6 +6052,32 @@ b) Cuando el interesado no aporte los elementos necesarios para la localización
 El pago de los derechos a que se refiere este artículo, deberá realizarse semestralmente en los meses de enero, febrero y marzo y para el primero, y en los meses de julio, agosto y septiembre para el segundo semestre de cada año.
 
 Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, el comprobante debidamente sellado y marcado con la máquina registradora de la oficina recaudadora de rentas o del centro de verificación al efecto autorizado a fin de que sea tramitada su revista mecánica.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 206
+
+BIS.- Por la evaluación del impacto ambiental, las personas físicas y morales que soliciten el servicio, pagarán un derecho conforme a la siguiente:
+
+TARIFA
+
+I.- Por concepto de recepción de informe preliminar o manifestación del Impacto Ambiental. 40 días de S.M.G.
+
+II.- Por concepto de evaluación de informe Preliminar o manifestación del Impacto Ambiental: 65 días de S.M.G.
+
+Asimismo, también se proporcionarán los siguientes servicios relacionados con la materia de impacto ambiental, conforme a la tarifa que se mencione a continuación:
+
+a) Registro de prestador de servicio en materia de impacto ambiental: 33 días de S.M.G.
+
+b) Por concepto de renovación de la autorización de manifestación de Impacto Ambiental:
+
+1.- Ordinaria 10 días de S.M.G.
+
+2.- Detallada 29 días de S.M.G.
+
+c).- Por concepto de verificación de áreas, predios y obras: 54 S.M.G.
+
+d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M.G. por metro cúbico.
 
 ### CAPITULO UNICO
 
@@ -6287,9 +6431,15 @@ XIX.- Enmienda al registro de instituciones educativas particulares autorizadas 
 
 La venta de bienes muebles e inmuebles del Estado se hará en subasta pública, al mejor postor, sirviendo de postura legal la que cubra de contado las dos terceras partes del valor comercial de bien fijado por avalúo pericial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 209.
 
 El producto de los bienes muebles e inmuebles que se exploten por licencia, concesión o contrato, legalmente otorgado, se fijará y cobrará de conformidad con la figura jurídica por la que se otorguen dichos bienes.
+
+Cuando el Gobierno del Estado sea poseedor de un derecho de explotación del Servicio Público de Transporte y lo otorgue a terceros para su explotación directa, estos pagarán la cuota que se establezca de manera mensual a más tardar cada día diez del mes siguiente a aquel en que se efectuó el usufructo.
+
+Dichas cuotas se enterarán por los usufructuarios directamente ante las Oficinas Recaudadoras de Rentas de la Secretaría de Hacienda del Estado.
 
 ###### ARTICULO 210.
 
@@ -6439,15 +6589,15 @@ El Gobierno del Estado percibirá las participaciones establecidas en las leyes 
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -6630,3 +6780,9 @@ P.O. 31 DE DICIEMBRE DE 1998.
 PRIMERO: El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+PRIMERO: El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
