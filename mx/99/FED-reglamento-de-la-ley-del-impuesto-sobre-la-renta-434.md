@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-sobre-la-renta-434"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1990-05-15"
+last_updated: "1992-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=434&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 29 de febrero de 1984.
 
@@ -49,13 +49,15 @@ Cuando en este Reglamento se haga referencia a la Ley, se entenderá que se trat
 
 Cuando en la Ley o en este Reglamento se señale la obligación de presentar avisos ante las autoridades fiscales, éstos deberán presentarse ante las autoridades plazos y formas que correspondan en los términos del Reglamento del Código Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de lo dispuesto en los artículos 2o. último párrafo y 157 de la Ley el término construcción de obras 'incluye: cimentaciones, estructuras, casas y edificios en general, terracerias, terraplenes, plantas industriales y eléctricas, bodegas, carreteras, puentes, caminos, vías férreas, presas, canales, gasoductos, oleoductos, acueductos, perforación de pozos, obras viales de urbanización, de drenaje y de desmonte, puertos, aeropuertos y similares, así como la proyección o demolición de bienes inmuebles.
+Para los efectos de lo dispuesto en los artículos 2o. penúltimo párrafo y 157 de la Ley, el término construcción de obras incluye: cimentaciones, estructuras, casas y edificios en general, terracerías, terraplenes, plantas industriales y eléctricas, bodegas, carreteras, puentes, caminos, vías férreas, presas, canales, gasoductos, oleoductos, acueductos, perforación de pozos, obras viales de urbanización, de drenaje y de desmonte, puertos, aeropuertos y similares, así como la proyección o demolición de bienes inmuebles.
 
-El cómputo de días de duración de los servicios a que se refiere el último párrafo del artículo 2o. mencionado, se hará considerando la totalidad de día (sic) naturales comprendidos entre el inicio y la terminación de los servicios.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+El cómputo de días de duración de los servicios a que se refiere el penúltimo párrafo del artículo 2o. mencionado, se hará considerando la totalidad de días naturales comprendidos entre el inicio y la terminación de los servicios.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -67,15 +69,15 @@ En los casos en que por la naturaleza de los servicios se considere que la durac
 
 Para los efectos de la fracción IV del artículo 3o. de la Ley, se considera que no son actividades previas o auxiliares, las que sean iguales a las actividades del residente en el extranjero, salvo que dichas actividades también tengan la naturaleza de previas o auxiliares en el extranjero. No se considerarán actividades auxiliares las de dirección.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 5o.
 
-Para los efectos del segundo párrafo del articulo 6o. de la Ley, el monto proporcional del impuesto sobre la renta pagado en el extranjero por la sociedad residente en otro país, correspondiente a la utilidad percibida por presidentes en México, se obtendrá dividiendo dicha utilidad entre el total de la utilidad que obtenga la sociedad residente en el extranjero que sirva para determinar el impuesto sobre la renta a su cargo y multiplicando el cociente por el impuesto pagado por la sociedad.
+Para los efectos del segundo párrafo del artículo 6o. de la Ley, el monto proporcional del impuesto sobre la renta pagado en el extranjero por la sociedad residente en otro país, correspondiente a la utilidad percibida por personas morales residentes en México, se obtendrá dividiendo dicha utilidad entre el total de la utilidad que obtenga la sociedad residente en el extranjero que sirva para determinar el impuesto sobre la renta a su cargo y multiplicando el cociente por el impuesto pagado por la sociedad.
 
-Se acumulará la utilidad percibida y la totalidad del impuesto sobre la renta pagado por la sociedad residente en el extranjero correspondiente a la utilidad obtenida por el residente en México, aún en el supuesto de que el impuesto acreditable se limite en los términos del tercer párrafo del artículo 6o. de la Ley.
+Se acumulará la utilidad percibida y la totalidad del impuesto sobre la renta pagado por la sociedad residente en el extranjero correspondiente a la utilidad obtenida por la persona moral residente en México, aún en el supuesto de que el impuesto acreditable se limite en los términos del tercer párrafo del artículo 6o. de la Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-El contribuyente deberá tener cuando menos el 10% del capital social de una sociedad residente en el extranjero a que se refiere el segundo párrafo del artículo 6o. antes mencionado, como mínimo, durante los seis meses anteriores a la fecha en que se decrete el dividendo o utilidad de que se trate.
+La persona moral residente en México deberá tener cuando menos el 10% del capital social de una sociedad residente en el extranjero a que se refiere el segundo párrafo del artículo 6o. antes mencionado, como mínimo, durante los seis meses anteriores a la fecha en que se decrete el dividendo o utilidad de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -83,7 +85,9 @@ El contribuyente deberá tener cuando menos el 10% del capital social de una soc
 
 Para los efectos del artículo 6o. de la Ley, las personas físicas residentes en México determinarán el monto máximo del impuesto acreditable, dividiendo el total de impuestos que por sus ingresos deban pagar en México, entre la cantidad a la cual se le aplicó la tarifa del artículo 141 de la Ley; el cociente deberá multiplicarse por los ingresos acumulables de fuente ubicada en el extranjero. Las personas físicas que realicen actividades empresariales podrán optar por determinar el límite del impuesto acreditable aplicando el procedimiento señalado en este artículo o considerarán como límite el 35% de su utilidad fiscal en la proporción que establece el artículo 6o. de la Ley.
 
-Cuando un residente en el extranjero tenga establecimiento permanente en México y sean atribuibles a dicho establecimiento ingresos de fuente ubicada en el extranjero, se podrá efectuar el acreditamiento a que se refiere el artículo 6º de la Ley, en los términos señalados en la misma.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Cuando un residente en el extranjero tenga establecimiento permanente en México y sean atribuibles a dicho establecimiento ingresos de fuente ubicada en el extranjero, se podrá efectuar el acreditamiento a que se refiere el artículo 6o. de la Ley, en los términos señalados en la misma, únicamente por aquellos ingresos que hayan sido sujetos a retención.
 
 La parte del impuesto sobre la renta pagado en el extranjero que no sea acreditable no será deducible conforme a lo previsto por el artículo 25 fracción I de la Ley.
 
@@ -113,9 +117,9 @@ Cuando el costo de adquisición a que se refiere el párrafo anterior, adicionad
 
 En el caso de cancelación de una operación que dio lugar a un crédito o deuda, cuando ocurra antes del cuarto mes siguiente al cierre del ejercicio en el que se concertó dicha operación, el contribuyente cancelará el componente inflacionario a que se refieren el último párrafo de la fracción IV y el antepenúltimo párrafo de la fracción V del artículo 7°-B de la Ley, restándolo del componente inflacionario de los créditos o de las deudas, según corresponda relativo al mes en que ocurra la cancelación o si la cancelación se efectúa después del cierre de dicho ejercicio en que se concertó la operación.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Cuando la cancelación ocurra después del cuarto mes siguiente al cierre del ejercicio en el que se concertó dicha operación, el contribuyente podrá cancelar el componente inflacionario respectivo aplicando el procedimiento siguiente:
+Cuando la cancelación ocurra a partir del cuarto mes del ejercicio siguiente a aquél en el que se concertó dicha operación, el contribuyente podrá cancelar el componente inflacionario respectivo aplicando el procedimiento siguiente:
 
 > <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -135,15 +139,21 @@ Cuando los créditos o deudas que se cancelan deriven de ingresos o deducciones 
 
 Para los efectos de los artículos 7°-B de la Ley y 7°-C y 13-A de este Reglamento, se entenderá por cancelación de una operación que dio lugar a un crédito o deuda, según sea el caso, la devolución total o parcial de bienes; el descuento o la bonificación que se otorgue sobre el precio o el valor de los bienes o servicios; así como la nulidad o rescisión de los contratos de los que derive el crédito o la deuda.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 7o-E.
 
-Cuando por fusión o liquidación los contribuyentes anticipen la fecha de terminación de su ejercicio, determinarán los ajustes a los pagos provisionales previstos en la fracción III del artículo 12-A de la Ley, conforme a lo siguiente:
+Cuando por fusión, escisión o liquidación, los contribuyentes anticipen la fecha de terminación de su ejercicio, determinarán los ajustes a los pagos provisionales previstos en la fracción III del artículo 12-A de la Ley, conforme a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
 
 I.- Cuando la fecha de terminación ocurra a más tardar el séptimo mes del ejercicio, solamente ajustarán el impuesto a los pagos provisionales en el último mes del mismo ejercicio, excepto si presentan la declaración del ejercicio a más tardar en la fecha en que se deba presentar la declaración por el ajuste de referencia.
 
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
+
 II.- Cuando la fecha de terminación ocurra después del séptimo mes del ejercicio, ajustarán el impuesto correspondiente a los pagos provisionales en el séptimo mes del ejercicio y en el último mes del mismo, considerando los ingresos obtenidos y las deducciones autorizadas a que se refiere la fracción III del artículo 12-A de la Ley, correspondientes al periodo comprendido desde el inicio del ejercicio hasta el último día del sexto mes del mismo y hasta el último día del penúltimo mes de dicho ejercicio.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 En ejercicios irregulares menores a siete meses no se efectuarán los ajustes a los pagos provisionales.
 
@@ -185,11 +195,11 @@ III.- (DEROGADA, D.O.F. 15 DE MAYO DE 1990)
 
 IV.- (DEROGADA, D.O.F. 15 DE MAYO DE 1990)
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-###### ARTICULO 7o- H.
+###### ARTICULO 7o.-H.
 
-Para los efectos del inciso b) de la fracción IV del artículo 7°-B de la Ley, se considerarán créditos las cuentas por cobrar a plazo menor de un mes a cargo de personas físicas o morales con fines no lucrativos, contratadas con los contribuyentes que componen el sistema financiero, en la realización de operaciones propias de su actividad.
+Para los efectos del inciso b) de la fracción IV del artículo 7o-B de la Ley se considerarán créditos las cuentas por cobrar a plazo menor de un mes a cargo de personas morales no contribuyentes o de personas físicas, contratadas con los contribuyentes que componen el sistema financiero en la realización de operaciones propias de su actividad.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -197,13 +207,25 @@ Para los efectos del inciso b) de la fracción IV del artículo 7°-B de la Ley,
 
 Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 8o.
 
-Para los efectos de Fracción IV del artículo 12-A de la Ley, en los casos en que los contribuyentes estimen justificadamente que el coeficiente de utilidad que deben aplicar para determinar los pagos provisionales, es superior al coeficiente de utilidad del ejercicio al que corresponden dichos pagos, podrán disminuir el monto de los que les correspondan hasta por seis meses del mismo ejercicio, siempre que obtengan la autorización respectiva, la cual se solicitará a la autoridad administradora competente, a más tardar el día 15 del mes de calendario por el que se solicite la disminución del pago, o del primer mes del período cuando la disminución se solicite por varios meses, mediante la forma oficial que al efecto publique la Secretaría.
+Para los efectos de la fracción IV del artículo 12-A de la Ley, en los casos en que los contribuyentes estimen justificadamente que el coeficiente de utilidad que deben aplicar para determinar los pagos provisionales, es superior al coeficiente de utilidad del ejercicio al que correspondan dichos pagos, podrán disminuir el monto de los que les correspondan hasta por seis meses del mismo ejercicio, siempre que obtengan la autorización respectiva, la cual se solicitará a la autoridad administradora competente, a más tardar el día 15 del primer mes del periodo por el que el que se solicita la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 El contribuyente estará obligado a calcular en la declaración del ejercicio, los pagos provisionales que le hubieran correspondido conforme al artículo 12 de la Ley, sustituyendo el coeficiente a que se refiere la fracción I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición con los datos relativos a la declaración del ejercicio en el cual se disminuyó el pago.
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
+
+Cuando resulte que los pagos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior, se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+El contribuyente estará obligado a calcular en la declaración del ejercicio, los pagos provisionales que le hubieran correspondido conforme al artículo 12 de la Ley, sustituyendo el coeficiente a que se refiere la fracción I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición con los datos relativos a la declaración del ejercicio en el cual se disminuyó el pago.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 Cuando resulte que los pasos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior, se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido. No se pagarán recargos cuando dicha diferencia no exceda del 10% del pago efectuado.
 
@@ -221,23 +243,31 @@ La reducción se calculará aplicando la tasa contenida en el artículo 10 de la
 
 ### CAPITULO I. De los Ingresos
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 10.
 
-Para los efectos de lo dispuesto en el artículo 16 fracción III, segundo párrafo de la Ley, el contribuyente podrá cambiar la opción a que se refiere dicho párrafo por una sola vez antes de que transcurran cinco años como mínimo desde el último cambio, siempre que se encuentre en cualquiera de los siguientes supuestos:
+Para los efectos de lo dispuesto en el artículo 16, fracción III, tercer párrafo de la Ley, el contribuyente podrá cambiar la opción a que se refiere dicho párrafo por una sola vez, antes de que transcurran cinco años como mínimo desde el último cambio, siempre que se encuentre en cualquiera de los siguientes supuestos:
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 I.- Cuando fusione a otra sociedad.
 
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
+
 II.- Cuando los socios enajenen acciones o partes sociales que representen cuando menos un 25% del capital social del contribuyente.
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 III.- Cuando reuniendo los requisitos de sociedad controlada, la controladora ejercite la opción a que se refiere el artículo 57-A de la Ley, o bien, cuando se incorpore o desincorpore como sociedad controlada en los términos de los artículos 57-I y 57-J de dicha Ley.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+IV.- Cuando se escinda la sociedad.
 
 ###### ARTICULO 10-A.
 
-Para los efectos del tercer párrafo de la fracción III del artículo 16 de la Ley, quien enajene o dé en pago documentos pendientes de cobro determinará el monto del ingreso acumulable en el ejercicio restando del monto total de los documentos pendientes de cobro la parte correspondiente al importe de los mismos que ya hubiera sido acumulada.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -245,35 +275,41 @@ Para los efectos del tercer párrafo de la fracción III del artículo 16 de la 
 
 Los contribuyentes que celebren contratos de obra inmueble que tengan por objeto la demolición, proyección, inspección o supervisión de obra, podrán aplicar lo dispuesto en el artículo 16 A de la Ley, para todos los contratos de referencia que celebren.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 12.
 
-Los contribuyentes que celebren contratos de los señalados en el artículo 16-A de la Ley, con dependencias o entidades de la Administración Pública Federal, así como con las Entidades Federativas y los Municipios, para los efectos del Título II o del Título IV Capítulo VI, de la Ley, podrán optar por considerar acumulables todos los anticipos que reciban durante el ejercicio de que se trate, en la fecha en que los perciban con motivo de dichos contratos, en vez de acumularlos hasta la fecha en que se amorticen contra las estimaciones o avances en la ejecución o fabricación de los bienes, por lo que en este caso, dichos anticipos no se adicionarán al importe de los conceptos a que se refiere la fracción V del artículo 7o-B de la Ley.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
-La opción prevista en este artículo sólo se podrá ejercer comprendiendo la totalidad de los anticipos a que se refiere el párrafo anterior, que en el ejercicio perciba el contribuyente.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 12-A.
 
-Los contribuyentes que celebren contratos de obra, en los que se obliguen a ejecutar dicha obra conforme a un plano diseño o presupuesto, en los casos en que no estén obligados a presentar estimaciones por obra ejecutada o la periodicidad de su presentación sea mayor a tres meses, para los efectos del artículo 16-A de la Ley, podrán considerar como ingreso acumulable el avance mensual en la ejecución o fabricación de los bienes a que se refiere la obra.
+Los contribuyentes que celebren contratos de obra, en los que se obliguen a ejecutar dicha obra conforme a un plano, diseño y presupuesto, en los casos en que no estén obligados a presentar estimaciones por obra ejecutada o la periodicidad de su presentación sea mayor a tres meses, para los efectos del artículo 16-A de la Ley, podrán considerar como ingreso acumulable el avance mensual en la ejecución o fabricación de los bienes a que se refiere la obra.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 La opción prevista en este artículo sólo se podrá ejercer comprendiendo la totalidad de las obras a que se refiere el párrafo anterior, que en el ejercicio ejecute o fabrique el contribuyente.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 12-A
+
+BIS.- Los contribuyentes que se dediquen a la fabricación de bienes de activo fijo de largo proceso de fabricación, podrán acumular los ingresos provenientes de los contratos de suministro de dichos bienes en la fecha en que los perciban en efectivo o cuando las estimaciones sean autorizadas o aprobadas para que proceda su cobro o se efectúen entregas parciales pactadas en el contrato, siempre que en este último caso no se realicen estimaciones de avance, lo que ocurra primero.
+
+Los contribuyentes a que se refiere el párrafo anterior, estarán a lo dispuesto en el segundo párrafo del artículo 16-A de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 12-B.
 
 Para los efectos del artículo 16-A de la Ley, se considera autorizada o aprobada una estimación en la fecha en que el residente de supervisión o la persona facultada por el cliente para efectuar la supervisión del avance de la obra, firme de conformidad dicha estimación.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 12-C.
 
 Para los efectos del artículo 18 de la Ley, cuando el monto original de la inversión actualizado sea mayor que el ingreso obtenido por la enajenación de los bienes a que se refiere dicho artículo, la diferencia será la pérdida que los contribuyentes podrán deducir en los términos de la propia Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 12-D.
 
@@ -281,19 +317,17 @@ Para los efectos del inciso a) de la fracción II del artículo 19 de la Ley, el
 
 El factor de actualización a que se refiere este artículo se calculará dividiendo el factor de ajuste correspondiente al periodo comprendido desde el tercer mes inmediato anterior al de la enajenación hasta el mes inmediato anterior a aquél en que ésta se efectúe, entre sesenta. La cantidad que se obtenga se multiplicará por el número de días transcurridos desde la fecha de adquisición o aquélla en que se calculó por última vez el costo promedio de las misma, según corresponda, hasta la fecha de enajenación, y al resultado se le adicionará la unidad.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 13.
 
-Cuando de conformidad con el inciso a) de la fracción II del artículo 19 de la Ley, las pérdidas actualizadas que se deban restar del costo comprobado de adquisición y de las utilidades actualizadas, sean iguales o mayores a la suma de ambas, se considerará para el cálculo a que se refiere dicha fracción, que las utilidades o pérdidas actualizadas obtenidas por la sociedad emisora es igual a cero.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+(REUBICADO, D.O.F. 31 DE MARZO DE 1992)
 
-### CAPITULO II
+### CAPITULO II. (REUBICADA, D.O.F. 31 DE MARZO DE 1992)
 
 #### SECCION I. De las Deducciones en General
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 13-A.
 
@@ -309,11 +343,13 @@ b).- El monto de las devoluciones, descuentos o bonificaciones que se efectúen,
 
 En el caso de descuentos o bonificaciones que se otorguen al contribuyente por pronto pago o por alcanzar volúmenes de compra previamente fijados por el proveedor, se podrá ejercer la opción, no obstante que no se realicen los supuestos previstos en los incisos a) y b) que anteceden.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 14.
 
-Para los efectos de lo dispuesto en la fracción I del artículo 24 de la Ley, serán deducibles los donativos que se otorguen en los supuestos a que se refiere dicha fracción, cuando las donatarias cuenten con la constancia, inscripción, autorización o reconocimiento de validez oficial, según se trate, a que se refiere la misma.
+Para los efectos de lo dispuesto en la fracción I del artículo 24 de la Ley, se considera que los donativos cumplen con los requisitos a que se refiere dicho precepto cuando en el ejercicio en que se otorgue el donativo las donatarias sean de las incluidas en la lista de las personas autorizadas para recibir donativos, que al efecto publique la Secretaría mediante reglas de carácter general, excepto tratándose de la Federación, Entidades Federativas y Municipios.
 
-Asimismo, se consideraron deducibles los donativos que se otorguen a asociaciones, instituciones u organizaciones que destinen la totalidad de los donativos recibidos y, en su caso, sus rendimientos, para obras o servicios públicos que efectúen o deban efectuar la Federación, Estados, Distrito Federal o Municipios, así como los donativos otorgados a bibliotecas y museos privados, que sin ánimo, de lucro permitan el acceso al público en general.
+Asimismo, se considerarán deducibles los donativos que se otorguen a asociaciones, instituciones u organizaciones que destinen la totalidad de los donativos recibidos y, en su caso, sus rendimientos, para obras o servicios públicos que efectúen o deban efectuar la Federación, Estados, Distrito Federal o Municipios, así como los donativos otorgados a bibliotecas y museos privados, que sin ánimo de lucro permitan el acceso al público en general, siempre que al efecto cumplan con lo dispuesto en el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -343,15 +379,17 @@ Las asociaciones, instituciones y organizaciones que designen la totalidad de lo
 
 Los donativos y sus rendimientos deberán destinarse única y exclusivamente a los fines propios del objeto social de las donatarias. En ningún caso podrán dichas donatarias destinar más del 5% de los donativos que perciban para cubrir sus gastos de administración.
 
-Al recibir donativos, las donatarias deberán expedir recibos foliados, señalando los datos a que se refiere el artículo 40 del Reglamento del Código Fiscal de la Federación.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Las donatarias autorizadas, a más tardar en el mes de febrero de cada año, deberán presentar sus estados financieros dictaminados por contador público autorizado ante la autoridad competente y la declaración informativa con los datos de los principales 40 donantes a la Oficina receptora correspondiente a su domicilio.
+Las instituciones de enseñanza autorizadas para recibir donativos en los términos de la Ley, podrán a su vez donarlos a otras instituciones de enseñanza que cuenten con la autorización antes mencionada.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Al recibir los donativos, las donatarias deberán expedir comprobantes foliados, señalando los datos a que se refiere el artículo 40 del Reglamento del Código Fiscal de la Federación.
 
 ###### ARTICULO 14-D.
 
-Para los efectos de la fracción I del artículo 24 de la Ley, los donantes no podrán deducir los donativos cuando por otra parte las donatarias les presten servicios o exista cualquier otra contraprestación.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -364,6 +402,12 @@ Tratándose de bienes que hayan sido deducidos en los términos de la fracción 
 En el caso de bienes de activo fijo, se considerará como monto del donativo la parte aún no deducida actualizada en los términos del artículo 41 de la Ley.
 
 Tratándose de bienes muebles distintos de los señalados en los párrafos anteriores, se considerará como monto del donativo el que resulte de actualizar la cantidad que se haya pagado para adquirir el bien por el periodo comprendido desde el mes en que se adquirió hasta aquél en que se efectúe la donación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 14-F.
+
+Para los efectos de la fracción I del artículo 24 de la Ley, no se consideran estrictamente indispensables para los fines de la actividad empresarial de las casas de bolsa, los pagos que éstas hagan para cubrir quebrantos que deriven de operaciones con títulos de crédito emitidos por otra sociedad.
 
 ###### ARTICULO 15.
 
@@ -393,7 +437,9 @@ III.- Se restará de la tasa mensual promedio del ejercicio por cada tipo de mon
 
 No se limitará la deducción de intereses en el caso de que la tasa de interés que se precisa en la fracción II resultare superior a la obtenida en los términos de la fracción I.
 
-Cuando el contribuyente otorgue préstamos en determinada moneda y no hubiera obtenido créditos suficientes en la misma, considerará como tasa mensual de interés, pagada por las cantidades excedentes, la más baja que rija por operaciones interbancarias en el mercado de Londres (LIBOR) en la fecha en que se conceda el préstamo; dicha tasa deberá ser la correspondiente al tipo de moneda de que se trate y al plazo en que se hubiera otorgado el préstamo. Si la moneda fuere peso mexicano, se considerara como tasa la que corresponda al costo porcentual promedio de captación de recursos del sistema bancario, proporcionado por el Banco de México.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Cuando el contribuyente otorgue préstamos en determinada moneda y no hubiera obtenido créditos suficientes en la misma, considerará como tasa mensual de interés, pagada por las cantidades excedentes, la más baja que rija por operaciones interbancarias en el mercado de Londres (LIBOR) en la fecha en que se conceda el préstamo; dicha tasa deberá ser la correspondiente al tipo de moneda de que se trate y al plazo en que se hubiera otorgado el préstamo. Si la moneda fuere peso mexicano, se considerará como tasa la promedio diaria de los Certificados de la Tesorería de la Federación, colocados a plazo de noventa días, en el mes inmediato anterior, o en su defecto, del valor a cargo del Gobierno Federal inscrito en el Registro Nacional de Valores e Intermediarios equiparable a los certificados mencionados.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -501,25 +547,23 @@ En todos los casos, el saldo de cada cuenta considerada como crédito incobrable
 
 Para los efectos de lo dispuesto por el artículo 24 fracción XXIII de la Ley, por los pagos a comisionistas y mediadores residentes en el extranjero, los contribuyentes deberán probar que quienes perciban dichos pagos están, en su caso, registrados para efectos fiscales en el país en que residan o que presentan declaración periódica del impuesto sobre la renta en dicho país.
 
-Lo dispuesto en este artículo no es aplicable a las comisiones o mediaciones pagadas por prestadores de servicios turísticos, siempre que las mismas sean las normales en el mercado exterior.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 27.
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 27-A.
 
-No se consideran gastos de representación para los efectos de la fracción V del artículo 25 de la Ley, los que se efectúen en restaurantes con motivo de seminarios y convenciones o de cursos de capacitación para sus trabajadores, cuando medie autorización de la autoridad administradora correspondiente y el contribuyente compruebe que los gastos se efectúan por necesidades especiales de su actividad.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 28.
 
 Para los efectos de la fracción VI del artículo 25 de la Ley, se entenderá por establecimiento del contribuyente aquél en el que presta normalmente sus servicios la persona a favor de la cual se realice la erogación.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Tratándose del pago de viáticos o gastos de viaje que beneficien a personas que presten al contribuyente servicios personales subordinados o servicios personales independientes por encargo de aquél, serán deducibles cuando dicha persona se desplace fuera de una faja de 50 kilómetros que circunde el establecimiento de dicho contribuyente. En este caso, quien presta el servicio deberá proporcionar al contribuyente una relación de los gastos anexando los comprobantes, respectivos, los cuales deberán reunir los requisitos que señala el Reglamento del Código Fiscal de la Federación.
+Tratándose del pago de viáticos o gastos de viaje que beneficien a personas que presten al contribuyente servicios personales subordinados o servicios personales independientes por encargo de aquél, serán deducibles cuando dicha persona se desplace fuera de una faja de 50 kilómetros que circunde al establecimiento de dicho contribuyente. En este caso, quien presta el servicio deberá proporcionar al contribuyente una relación de los gastos anexando los comprobantes respectivos, los cuales deberán reunir los requisitos que señala el Código Fiscal de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -531,13 +575,15 @@ Para los efectos de la fracción IX del artículo 25 de la Ley, serán deducible
 
 No serán ingresos del ejercicio las cancelaciones de reservas con crédito a resultados, cuya creación e incremento se hubieran considerando no deducibles.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 30.
 
-Los pagos a que se refiere la fracción XIV del artículo 25 de la Ley, sólo serán deducibles mediante autorización de la autoridad administradora correspondiente y siempre que el contribuyente compruebe que los bienes se utilizan por necesidades especiales de la actividad. Para estos efectos se podrá solicitar una autorización para todos los gastos a que se refiere la citada fracción.
+Los pagos a que se refiere el primer párrafo de la fracción XIV del artículo 25 de la Ley, sólo serán deducibles mediante autorización de la autoridad administradora correspondiente y siempre que el contribuyente compruebe que los bienes se utilizan por necesidades especiales de la actividad. Para estos efectos se podrá solicitar una autorización para todos los gastos a que se refiere el citado párrafo.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Una vez otorgada la autorización respectiva, para efectuar la deducción en ejercicios posteriores, el contribuyente deberá conservar por cada ejercicio de que se trate, durante el plazo a que se refieren los artículos 30 y 67 del Código Fiscal de la Federación la siguiente documentación:
+Una vez otorgada la autorización respectiva, para efectuar la deducción en ejercicios posteriores, el contribuyente deberá conservar por cada ejercicio de que se trate, durante el plazo a que se refiere el artículo 30 del Código Fiscal de la Federación la siguiente documentación:
 
 I.- Tratándose de casas habitación, la documentación que acredite la estancia de las personas que ocupan dichos inmuebles.
 
@@ -559,13 +605,21 @@ III.-Tratándose de embarcaciones:
 
 a).- Bitácoras de viaje.
 
-b).- Constancia del pago de derechos de puerto y atraque.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+b).- Constancia del pago por los servicios de puerto y atraque.
 
 Lo dispuesto en esta fracción, no es aplicable tratándose de dragas.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Los gastos que se realicen en relación con los bienes a que se refiere la fracción XIV del citado artículo 25 de la Ley, podrán deducirse siempre y cuando cumplan con los requisitos establecidos en el presente artículo para la deducibilidad de los pagos por el uso o goce temporal de dichos bienes.
+Los gastos que se realicen en relación con los bienes a que se refiere el primer párrafo de la fracción XIV del citado artículo 25 de la Ley, excepto en el caso de aviones, podrán deducirse siempre y cuando cumplan con los requisitos establecidos en el presente artículo para la deducibilidad de los pagos por el uso o goce temporal de dichos bienes.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 30-A.
+
+Para los efectos de lo dispuesto por el primer párrafo de la fracción XIV del artículo 25 de la Ley, se considera que se encuentran incluidos dentro del límite previsto en dicho precepto los gastos que se eroguen por concepto de pagos por servicios de transportación aérea.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -591,7 +645,9 @@ IV.- En el caso de títulos valor distintos de los que se mencionan en las fracc
 
 Para los efectos de lo dispuesto por la fracción II del artículo 31, de este Reglamento, el capital contable por acción o parte social actualizado será el que resulte de dividir el capital contable actualizado a que se refiere el párrafo siguiente, entre el total de acciones o partes sociales de la persona moral a la fecha de la enajenación respectiva, incluyendo las correspondientes a la reinversión o capitalización de utilidades o de cualquier otro concepto que integre el capital contable de la misma.
 
-El capital contable señalado en el párrafo anterior será el que se hubiere determinado en el estado de posición financiera que señala la fracción VII del artículo 58 de la Ley, formulado a la fecha de cierre del ejercicio inmediato anterior al de la enajenación, actualizado conforme a los principios de contabilidad generalmente aceptados a que se refiere el artículo 143 o conforme a las reglas contenidas en el artículo 143-A, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+El capital contable señalado en el párrafo anterior será el que se hubiera determinado en el estado de posición financiera que señala la fracción VII del artículo 58 de la Ley, formulado a la fecha de cierre del ejercicio inmediato anterior al de la enajenación, actualizado conforme a los principios de contabilidad generalmente aceptados cuando se utilicen dichos principios para integrar la contabilidad; en caso contrario, conforme a las reglas contenidas en el artículo 143 de este Reglamento.
 
 ###### ARTICULO 33.
 
@@ -639,11 +695,9 @@ Para los efectos del artículo 28 de la Ley, podrá pactarse que el trabajador c
 
 Deberá pactarse la posibilidad de transferir a otra empresa a la que el trabajador fuere a prestar sus servicios, el valor actuarial correspondiente a su fondo de pensiones, siempre que la transferencia se efectúe por las instituciones o sociedades autorizadas a que se refiere la fracción III del artículo 28 de la Ley y el trabajador lo solicite.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 38.
 
-El 30% a que se refiere la fracción II del artículo 28 de la Ley, deberá calcularse sobre las aportaciones hechas por el contribuyente y podrá invertirse en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en certificados de participación de fideicomisos que tengan por objeto la promoción bursátil, siempre que en este último caso la fiduciaria invierta y maneje la masa fiduciaria de conformidad con lo que dispongan las autoridades hacendarias encargadas de su supervisión.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 39.
 
@@ -709,9 +763,9 @@ Los contribuyentes podrán considerar dentro de las inversiones a que se refiere
 
 Las inversiones a que se refiere la fracción III del artículo 46 de la Ley, sólo serán deducibles mediante autorización de la autoridad administradora correspondiente siempre que el contribuyente compruebe que los bienes se utilizan por necesidades especiales de su actividad. Para estos efectos se podrá solicitar una autorización para todas las inversiones a que se refiere la citada fracción.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Una vez otorgada la autorización, para efectuarla deducción en ejercicios posteriores, el contribuyente deberá conservar por cada ejercicio de que se trate, la documentación señalada en el artículo 30 de este Reglamento durante el plazo a que se refieren los artículos 30 y 67 del Código Fiscal de la Federación.
+Una vez otorgada la autorización, para efectuar la deducción en ejercicios posteriores, el contribuyente deberá conservar por cada ejercicio de que se trate, la documentación señalada en el artículo 30 de este Reglamento durante el plazo a que se refiere el artículo 30 del Código Fiscal de la Federación.
 
 ###### ARTICULO 47.
 
@@ -719,13 +773,11 @@ Una vez otorgada la autorización, para efectuarla deducción en ejercicios post
 
 ###### ARTICULO 48.
 
-Cuando el primer año del plazo pactado a que se refiere el artículo 48 de la Ley aún no haya transcurrido y hubiera concluido el ejercicio, se considerará la tasa de interés anual promedio de los meses transcurridos durante dicho año; en la declaración del ejercicio siguiente se tomará en cuenta la tasa promedio que corresponda al año completo y en caso de que resulten diferencias respecto a la tasa calculada para el ejercicio anterior, se deberá acumular o deducir la diferencia en el segundo ejercicio.
-
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 49.
 
-Tratándose de aviones objeto de contratos de arrendamiento financiero, la cantidad que se considere como monto original de la inversión conforme a lo previsto por el primer párrafo del artículo 48 y por el primer párrafo del artículo 49 de la Ley, sólo podrá deducirse conforme a lo establecido por la fracción III del artículo 46 del mismo ordenamiento.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 > <small>(DEROGADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -739,9 +791,11 @@ Tratándose de aviones objeto de contratos de arrendamiento financiero, la canti
 
 ###### ARTICULO 51.
 
-La autorización para determinar el resultado fiscal consolidado a que se refiere la fracción IV del artículo 57-B de la Ley, deberá obtenerse por la sociedad controladora a más tardar el día de terminación de su ejercicio fiscal por el cual desee determinar su resultado fiscal consolidado.
+(DEROGADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)
 
-La solicitud de autorización a que se refiere este artículo deberá presentarse ante la autoridad administradora correspondiente y acompañarse con la siguiente documentación:
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+La solicitud de autorización a que se refiere el artículo 57-B, fracción IV de la Ley deberá presentarse por la sociedad controladora ante la autoridad administradora correspondiente y acompañarse con la siguiente documentación:
 
 I.- La conformidad del representante legal de cada una de las sociedades controladas obligándose a cumplir con los requisitos establecidos en la Ley.
 
@@ -757,11 +811,11 @@ b).- Las inversiones en acciones que tengan en otras sociedades tanto la control
 
 c).- Sociedades en las que la controladora tenga directa o indirectamente un control efectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 52.
 
-Para dejar de determinar el resultado fiscal consolidado, la sociedad controladora deberá obtener autorización a más tardar al término de los seis primeros meses del ejercicio por el que se va a dejar de determinar el resultado fiscal consolidado. Después de este término y antes de concluir el ejercicio, solamente por causa justificada superveniente se podrá otorgar esa autorización.
+Para dejar de determinar el resultado fiscal consolidado, y una vez que hayan transcurrido los cinco ejercicios a que se refiere el artículo 57-A de la Ley, la sociedad controladora deberá solicitar autorización a más tardar al término de los seis primeros meses del ejercicio por el que se va a dejar de determinar el resultado fiscal consolidado. Después de este término y antes de concluir el ejercicio, solamente por causa justificada superveniente se podrá otorgar esa autorización.
 
 La solicitud de autorización a que se refiere este artículo deberá presentarse ante la misma autoridad administradora acompañada de la siguiente documentación:
 
@@ -779,17 +833,19 @@ Para los efectos del promedio por día a que se refiere el primer párrafo sigui
 
 (DEROGADO, D.O.F. 30 DE JUNIO DE 1988)
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 55.
 
-El aviso a que se refiere el segundo párrafo del artículo 57-I de la Ley, deberá presentarse ante la autoridad administradora que haya concedido la autorización a que se refiere la fracción IV del artículo 57-B de la misma, acompañado de la siguiente documentación:
+El aviso a que se refiere el tercer párrafo del artículo 57-I de la Ley, deberá presentarse ante la autoridad administradora que haya concedido la autorización a que se refiere la fracción IV del artículo 57-B de la misma, acompañado de la siguiente documentación:
 
 I.- En el caso de sociedades de nueva creación, acta constitutiva que contenga registro de acciones.
 
 II.- En el caso de sociedades constituidas:
 
-a).- Registro de accionistas firmado por el Secretario del Consejo de Administración.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+a).- Registro de accionistas firmado por el Secretario del Consejo de Administración o por el Administrador único.
 
 b).- Contrato de compraventa o documento fehaciente que pruebe la fecha del control accionario.
 
@@ -807,7 +863,9 @@ Los registros de los conceptos especiales de consolidación a que se refiere la 
 
 En los casos en que resulten diferencias entre la declaración presentada por cada una de las sociedades controladas y el dictamen de sus estados financieros, la sociedad controladora deberá presentar declaración complementaria para efectos de la representación de su declaración del resultado fiscal consolidado a más tardar, en la fecha en que deba presentar ante la autoridad fiscal competente sus estados financieros dictaminados.
 
-Cuando la autoridad fiscal modifique el resultado fiscal o la pérdida fiscal de alguna de las sociedades controladas, la sociedad controladora deberá presentar, dentro del mes siguiente, declaración complementaria para efectos de la determinación del resultado fiscal consolidado.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Cuando la autoridad modifique la utilidad fiscal, la pérdida fiscal o el resultado fiscal de alguna de las sociedades controladas, la sociedad controladora deberá presentar, dentro del mes siguiente, declaración complementaria para efectos de la determinación del resultado fiscal consolidado.
 
 ###### ARTICULO 59.
 
@@ -817,15 +875,15 @@ Cuando la autoridad fiscal modifique el resultado fiscal o la pérdida fiscal de
 
 ### CAPITULO V. De las obligaciones de las Personas Morales
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 60.
 
-Para determinar la importancia de los cincuenta clientes y cincuenta proveedores a que se refiere el artículo 58 de la Ley, se considerará el monto de las operaciones realizadas con ellos en el año de calendario de que se trate, de acuerdo con los comprobantes que reuniendo los requisitos establecidos en el artículo 36 del Reglamento del Código Fiscal de la Federación, expida el contribuyente o se le proporcionen.
+Para determinar la importancia de los cincuenta clientes y proveedores a que se refiere el artículo 58 de la Ley, se considerará el monto de las operaciones realizadas con ellos en el año de calendario de que se trate, de acuerdo con los comprobantes que reuniendo los requisitos establecidos en el artículo 29-A del Código Fiscal de la Federación, expida el contribuyente o se le proporcionen.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Los contribuyentes sujetos al control y vigilancia de la Comisión Nacional Bancaria, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional de Valores, deberán proporcionar únicamente la información relativa a clientes y proveedores que, en su caso, les soliciten dichas comisiones. En los casos en los que el contribuyente tenga más de cincuenta clientes o más de cincuenta proveedores de la misma importancia, bastará que se señalen cincuenta de ellos.
+Los contribuyentes sujetos a control y vigilancia de la Comisión Nacional Bancaria o de la Comisión Nacional de Valores, deberán proporcionar únicamente la información relativa a clientes y proveedores que, en su caso, les soliciten dichas Comisiones.
 
 Los contribuyentes que únicamente efectúen operaciones con el público en general, quedan relevados de la obligación de presentar la información de los cincuenta principales clientes.
 
@@ -885,7 +943,9 @@ Tratándose de productos perecederos en los que se dificulte su almacenamiento o
 
 Las destrucciones a que se refieren los párrafos anteriores se deberán efectuar en día, hora hábil y lugar indicados en el aviso.
 
-En el caso de productos perecederos que sean destruidos o decomisados por las autoridades sanitarias, se deberá conservar durante el plazo previsto en los artículos 30 y 67 del Código Fiscal de la Federación, la copia del acta que al efecto se levante, misma que compruebe el asiento contable respectivo.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+En el caso de productos perecederos que sean destruidos o decomisados por las autoridades sanitarias, se deberá conservar durante el plazo previsto en el artículo 30 del Código Fiscal de la Federación, la copia del acta que al efecto se levante, misma que compruebe el asiento contable respectivo.
 
 El contribuyente deberá registrar la destrucción o donación de las mercancías en su contabilidad en el ejercicio en el que se efectúe.
 
@@ -895,9 +955,11 @@ El contribuyente deberá registrar la destrucción o donación de las mercancía
 
 Para formular el estado de posición financiera a que se refiere la fracción VII del artículo 58 de la Ley, los contribuyentes deberán realizar un inventario físico total de existencias a la fecha en que se formule dicho estado. La práctica del inventario podrá anticiparse hasta el último día del mes anterior a la fecha de terminación del ejercicio o efectuarse mediante conteos físicos parciales durante el ejercicio. En ambos casos, deberá hacerse la corrección respectiva para determinar el saldo a la fecha de terminación referida.
 
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 63.
 
-(DEROGADO, D.O.F. 30 DE JUNIO DE 1988)
+Para los efectos de lo dispuesto por la fracción XI del artículo 58 de la Ley, se entenderá que se cumple con la obligación de llevar un registro de las operaciones efectuadas con títulos valor emitidos en serie, cuando el contribuyente conserve los estados de cuenta en los que consten dichas operaciones, expedidas por el sistema financiero en los términos de la Ley.
 
 ###### ARTICULO 64.
 
@@ -909,31 +971,51 @@ Para los efectos del artículo 59 de la Ley, los contribuyentes residentes en el
 
 ### CAPITULO VI. De las Facultades de las Autoridades Fiscales
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 66.
 
-Para efectuar la determinación presuntiva a que se refiere la fracción II del artículo 64 de la Ley, las autoridades fiscales procederán en la siguiente forma:
+Para los efectos de la determinación presuntiva a que se refiere el artículo 64 de la Ley, cuando el contribuyente reciba como parte del precio un artículo usado que después enajene con pérdida, las autoridades deberán considerar la operación global para determinar si existe enajenación a costo de adquisición o a menos de dicho costo.
 
-> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-I.- Para determinar si existe enajenación al costo de adquisición o a menos de dicho costo cuando el contribuyente reciba como parte del precio un artículo usado que después enajene con pérdida, se deberá considerar la operación global.
-
-II.- En el caso de contratos de arrendamiento financiero, se entenderá que el monto de la contraprestación se integra por la suma de los pagos pactados durante el plazo inicial forzoso y los derivados de la opción, en su caso.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 67.
 
-Para los efectos de la fracción III del artículo 64 de la Ley, se entenderá que se trata de pagos al extranjero, cuando el beneficiario de los mismos sea un residente en el extranjero sin establecimiento permanente en el país, o que teniéndolo, el ingreso no sea atribuible a dicho establecimiento permanente.
+Para los efectos de la fracción III del artículo 64 de la Ley, se entenderá que se trata de pagos al extranjero, cuando el beneficiario de los mismos sea un residente en el extranjero sin establecimiento permanente o base fija en el país, o que teniéndolo, el ingreso no sea atribuible a éstos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE MARZO DE 1992)</small>
+
+### CAPITULO VII. Del Régimen Simplificado
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 67-A.
+
+Para los efectos de lo dispuesto por el primer párrafo del artículo 67-C de la Ley, los contribuyentes podrán dar el tratamiento de aportaciones de capital a los ingresos que provengan de la recuperación de erogaciones que causaron impuesto o fueron consideradas como disminución de capital, siempre que dichas erogaciones hayan dado origen al pago del impuesto en los términos del artículo 67-A de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 67-B.
+
+Para los efectos de lo dispuesto por el segundo párrafo del artículo 67-C de la Ley, los contribuyentes considerarán como salidas los retiros de capital efectuados en el ejercicio hasta por el monto de las aportaciones de capital realizadas en el mismo.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE MARZO DE 1992)</small>
+
+## TITULO III. De las Personas Morales No Contribuyentes
 
 ### Capítulo Unico
 
-## TITULO III. De las Personas Morales con Fines No Lucrativos y de las Sociedades de Inversión Comunes y de Renta Fijo
-
-### CAPITULO I. De los Ingresos por Salarios y en General por la Prestación de un Servicio Personal Subordinado
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 68.
 
-(DEROGADO, D.O.F. 15 DE MAYO DE 1990)
+Para los efectos de lo dispuesto por el tercer párrafo del artículo 68 de la Ley, las personas morales no contribuyentes que se encuentren dentro del supuesto a que se refiere dicho párrafo, considerarán como deducciones para determinar el impuesto a su cargo por los ingresos provenientes de las actividades mencionadas, las que sean estrictamente indispensables para los fines de la actividad y que cumplan con los requisitos establecidos por el Título II de la Ley. Las deducciones a que se refiere este párrafo se determinarán como sigue:
+
+I.- Tratándose de gastos e inversiones que sean atribuibles exclusivamente a las mencionadas actividades, éstos se deducirán en los términos del Título II de la Ley.
+
+II.- Cuando se trate de gastos o inversiones que sean atribuibles parcialmente a las mencionadas actividades, excepto en el caso de inversiones en construcciones, éstos se deducirán en la proporción que represente el número de días en el que se desarrollen las actividades mencionadas respecto del período por el que se efectúa la deducción.
+
+III.- Tratándose de inversiones en construcciones que se utilicen parcialmente para la realización de dichas actividades, éstas serán deducibles en la proporción que resulte de multiplicar la que represente el área utilizada para desarrollar la actividad respecto del área total del inmueble, por la proporción que represente el número de días en que se utilice respecto de 365.
 
 ###### ARTICULO 69.
 
@@ -993,23 +1075,17 @@ Para los efectos de lo establecido en la fracción III del artículo 77 de la Le
 
 Para los efectos de la fracción XI del artículo 77 de la Ley, en el caso de que la gratificación sea inferior al monto equivalente al salario mínimo general del área geográfica del trabajador elevado a 30 días, no se pagará el impuesto hasta por el monto de la gratificación otorgada aun cuando se calcule sobre un salario superior al mínimo.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 77.
 
-Para que no se esté obligado al pago del impuesto por ingresos que se obtengan de la enajenación de casa-habitación, en los términos de la fracción XV del artículo 77 de la Ley, el contribuyente deberá cumplir con lo siguiente:
+Para los efectos de la fracción XV del artículo 77 de la Ley, los contribuyentes deberán acreditar ante el fedatario público que formalice la operación, que habitaron la casa habitación de que se trate, cuando menos los dos últimos años anteriores al de su enajenación, con cualquiera de los documentos comprobatorios que se mencionan a continuación:
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
+I.- Los comprobantes de los pagos efectuados por la prestación de los servicios de energía eléctrica, telefónico o gas.
 
-I.- Garantizar el interés fiscal. La garantía será igual al impuesto que calcule el fedatario público más los posibles recargos correspondientes a dieciocho meses. El fedatario público deberá presentar conjuntamente con la declaración a que se refiere él artículo 103 de la Ley, la garantía mencionada.
+II.- Con los estados de cuenta que proporcionan las instituciones que componen el sistema financiero o por casas comerciales y de tarjetas de crédito no bancarias.
 
-II.- Presentar aviso ante la misma oficina recaudadora ante la que se presentó la declaración a que se refiere la fracción anterior, dentro del mes siguiente a la realización de la inversión.
-
-El Contribuyente podrá solicitar ante la autoridad administradora correspondiente la cancelación de la garantía a que se refiere este artículo, después de transcurridos seis meses contados a partir de la fecha en que presentó el aviso a que se refiere la fracción II de este artículo.
-
-Las zonas de desarrollo a que se refiere la citada fracción XV, serán las que se determinen por la Secretaría mediante disposiciones de carácter general, así como las zonas de regeneración urbana que la propia Secretaría da a conocer mediante dichas disposiciones.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
-Cuando el contribuyente no pueda efectuar la inversión dentro del año siguiente a la fecha de la enajenación, para que se amplié el plazo de inversión, deberá incrementar el monto de la garantía hasta por el monto de los posibles recargos que se causen por un año más, actualizada en los términos de lo dispuesto por el artículo 141 del Código Fiscal de la Federación.
+La documentación a que se refiere esta regla, deberá estar a nombre del contribuyente, al de su cónyuge o bien al de sus ascendientes o descendientes consanguíneos en línea recta.
 
 ###### ARTICULO 78.
 
@@ -1031,7 +1107,7 @@ b).- El salario mínimo general del área geográfica del contribuyente, elevado
 
 II.- Cuando los ingresos por la prestación de servicios personales subordinados excedan de siete veces el salario mínimo general del área geográfica del contribuyente, elevado al año, y obtenga además ingresos de los señalados en la fracción VI del artículo 77 de la Ley, se considerarán ingresos de previsión social no sujetos al pago del impuesto hasta un salario mínimo general del área geográfica del contribuyente elevado al año.
 
-### CAPITULO II. De los Ingresos por Honorarios y en General por la Prestación de un Servicio Personal Independiente
+### CAPITULO I. De los Ingresos por Salarios y en General por la Prestación de un Servicio Personal Subordinado
 
 ###### ARTICULO 81.
 
@@ -1077,21 +1153,33 @@ I.- Se aplicará el procedimiento establecido en el artículo 80 de la Ley a la 
 
 II.- Se dividirá el pago único entre la cantidad mensual que hubiera percibido de no haber dicho pago. El cociente se multiplicará por el impuesto resultante conforme a la fracción anterior, determinándose así la retención que tendrá el carácter de pago provisional a cuenta del impuesto anual.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 86.
 
-Tratándose de las remuneraciones a que se refiere el quinto párrafo del artículo 80 de la Ley, la persona que haga dichos pagos podrá optar por retener el impuesto que corresponda conforme a lo siguiente:
+Tratándose de las remuneraciones por concepto de gratificación anual, participación de utilidades, primas dominicales y vacacionales a que se refiere el artículo 80 de la Ley, la persona que haga dichos pagos podrá optar por retener el impuesto que corresponda conforme a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
 
 I.- La remuneración de que se trate se dividirá entre 365 y el resultado se multiplicará por 30.4.
 
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
+
 II.- A la cantidad que se obtenga conforme a la, fracción anterior, se le adicionará el ingreso ordinario por la prestación de un servicio personal subordinado que perciba el trabajador en forma regular en el mes de que se trate y al resultado se le aplicará el procedimiento establecido en el artículo 80 de la Ley.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
 
 III.- El impuesto que se obtenga conforme a la fracción anterior se disminuirá con el impuesto que correspondería al ingreso ordinario por la prestación de un servicio personal subordinado a que se refiere dicha fracción, calculando este último sin considerar las demás remuneraciones mencionadas en este artículo.
 
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
+
 IV.- El impuesto a retener será el que resulte de aplicar a las remuneraciones a que se refiere este artículo, sin deducción alguna, la tasa a que se refiere la fracción siguiente.
 
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
+
 V.- La tasa a que se refiere la fracción anterior, se calculará dividiendo el impuesto que se determine en los términos de la fracción III, entre la cantidad que resulte conforme a la fracción I de este artículo. El cociente se multiplicará por cien y el producto se, expresará en porcentaje.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 Tratándose de los ingresos a que se refiere la fracción VI del artículo 77 de la Ley, en los casos en que deba efectuarse retención conforme al penúltimo párrafo del artículo 80 de la misma, ésta se hará sobre el excedente del salario mínimo elevado al mes y en los términos de este artículo.
 
@@ -1193,29 +1281,25 @@ En las declaraciones a que se refiere la fracción V del artículo 83 de la Ley,
 
 La Secretaría podrá establecer lineamientos a efecto de que el Gobierno Federal, sus organismos descentralizados y las empresas de participación estatal mayoritaria, cumplan con las obligaciones de entero y declaración de las retenciones que efectúen conforme al Título IV de la Ley.
 
-### CAPITULO III
-
-De los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Inmuebles.
-
-> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
+### CAPITULO II. De los Ingresos por Honorarios y en General por la Prestación de un Servicio Personal Independiente
 
 ###### ARTICULO 97.
 
 En el caso de que los contribuyentes que perciban ingresos de los señalados en el artículo 84 de la Ley, destinen una parte de su casa habitación exclusivamente para el desarrollo de las actividades de las cuales provengan dichos ingresos, podrán deducir de éstos la parte proporcional del importe de las rentas pagadas, o cuando el inmueble sea de su propiedad, la parte de la deducción por inversiones que le corresponda a dicho bien, así como la del impuesto predial, las contribuciones locales de mejoras, de planificación o de cooperación para obras públicas que recaigan sobre el citado bien. La parte proporcional en ambos casos se determinará considerando el número de metros cuadrados de construcción que el contribuyente destine a la realización de dichas actividades, en relación con el total de metros cuadrados de construcción del inmueble.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 98.
 
-Los contribuyentes que obtengan ingresos de los señalados en el artículo 84 de la Ley, al efectuar los pagos provisionales mensuales, harán las deducciones autorizadas en la propia Ley que correspondan al mes por el que se presenta la declaración. Tratándose de inversiones, podrán deducir de los ingresos del mes la doceava parte de la deducción de la inversión de que se trate, que corresponda al año de calendario.
+Los contribuyentes que obtengan ingresos de los señalados en el artículo 84 de la Ley, al efectuar los pagos provisionales harán las deducciones autorizadas en la propia Ley que correspondan al periodo por el que se presenta la declaración. Tratándose de inversiones podrán deducir de los ingresos del periodo por el que hacen el pago provisional, la proporción de la deducción de la inversión de que se trate, que represente el periodo por el que se efectúa el pago provisional respecto del año de calendario.
 
-Cuando las deducciones no se efectúen dentro del mes al que correspondan, se podrán realizar en los siguientes meses del mismo ejercicio o al presentar la declaración anual.
+Cuando las deducciones no se efectúen dentro del periodo al que correspondan, se podrán realizar en los siguientes periodos del mismo ejercicio o al presentar la declaración anual.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 99.
 
-Cuando los ingresos percibidos por honorarios y en general por la prestación de un servicio personal independiente, sean inferiores a las deducciones del mes, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los meses siguientes, siempre que dichas deducciones correspondan al mismo año de calendario.
+Cuando los ingresos percibidos por honorarios y en general por la prestación de un servicio personal independiente, sean inferiores a las deducciones del periodo que corresponda, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducibles en los periodos siguientes, siempre que dichas deducciones correspondan al mismo año de calendario.
 
 ###### ARTICULO 100.
 
@@ -1229,17 +1313,25 @@ Podrá disponer de los bienes y valores que integran el fondo, así como de sus 
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 101.
 
-(DEROGADO, D.O.F. 15 DE MAYO DE 1990)
+Cuando el ingreso percibido en forma esporádica a que se refiere el último párrafo del artículo 88 de la Ley derive de pagos efectuados por una persona moral, el contribuyente que realice el pago provisional a que se refiere el artículo antes citado, podrá acreditar contra éste la retención efectuada en los términos del cuarto párrafo del artículo 86 de la Ley.
 
 ###### ARTICULO 102.
 
 Los contribuyentes que obtengan ingresos de los señalados en el artículo 84 de la Ley, podrán cumplir con la obligación a que se refiere la fracción II del artículo 88 de la misma, llevando la contabilidad simplificada conforme se establece en el Código Fiscal de la Federación y su Reglamento.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 103.
 
-Los comprobantes a que se refiere la fracción III del artículo 88 de la Ley, deberán reunir los requisitos establecidos en el Reglamento del Código Fiscal de la Federación; dichos comprobantes deberán además ser firmados por quien los expide y, en su caso, señalar la clave en el registro de afiliación patronal en el Instituto Mexicano del Seguro Social.
+Los comprobantes a que se refiere la fracción III del artículo 88 de la Ley, deberán reunir los requisitos establecidos en el artículo 29-A del Código Fiscal de la Federación; dichos comprobantes deberán además, ser firmados por quien los expide y, en su caso, señalar la clave en el registro de afiliación patronal en el Instituto Mexicano del Seguro Social.
+
+> <small>(F. DE E., D.O.F. 17 DE ABRIL DE 1992)</small>
+
+En el caso de que los contribuyentes perciban ingresos de los señalados en el último párrafo del artículo 88 de la Ley, los comprobantes antes mencionados podrán no cumplir con el requisito de que los datos que deben contener se encuentren impresos, así como el de que dichos comprobantes hayan sido impresos por establecimientos autorizados, siempre que el pago correspondiente se realice a través de cheque nominativo para abono en cuenta.
 
 ###### ARTICULO 104.
 
@@ -1265,11 +1357,15 @@ El prestador del servicio deberá solicitar las constancias a que se refiere la 
 
 La opción a que se refiere este artículo podrá ejercerse por cada uno de los prestatarios y considerando todos los ingresos que se obtengan en el año de calendario de dicho prestatario por concepto de prestación de servicios personales independientes a que se refiere el primer párrafo de este artículo; asimismo se tendrá que ejercer la opción de pago del impuesto al valor agregado mediante retención en los términos del Reglamento de dicha Ley. Dicha opción se entenderá ejercida hasta en tanto el contribuyente manifieste por escrito al prestatario de que se trate, que pagará el impuesto por los ingresos de referencia en los términos del Capítulo II del Título IV de la Ley.
 
-### CAPITULO IV. De los Ingresos por Enajenación de Bienes
+### CAPITULO III
+
+De los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Inmuebles.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 106.
 
-La opción a que se refiere el artículo 90 de la Ley deberá ejercerse por los contribuyentes a más tardar en la fecha en que se presente la declaración anual. La misma opción se ejercerá para todos los inmuebles de su propiedad, incluso para aquellos en los que tengan el carácter de copropietarios.
+Las opciones a que se refiere el párrafo siguiente a la fracción VI del artículo 90 de la Ley, se podrán ejercer a más tardar en la fecha en que se presente la declaración anual, debiéndose ejercer por los que otorguen el uso o goce temporal, incluso por aquéllos en los que tengan el carácter de copropietario, a los que les sea aplicable el porciento de deducción de que se trate.
 
 ###### ARTICULO 107.
 
@@ -1279,43 +1375,45 @@ Cuando en el año de calendario las deducciones a que se refiere el artículo 90
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 109.
 
-Los contribuyentes al efectuar los pagos provisionales cuatrimestrales a que se refiere el artículo 92 de la Ley, harán las deducciones señaladas en la misma que correspondan al cuatrimestre por el que se presente la declaración.
+Los contribuyentes al efectuar los pagos provisionales a que se refiere el artículo 92 de la Ley, harán las deducciones a que se refiere el mismo, que correspondan al periodo por el que se presenta la declaración.
 
-Tratándose de inversiones, podrán deducir de los ingresos del cuatrimestre la tercera parte de la deducción que corresponda al año de calendario.
+Tratándose de inversiones, los contribuyentes podrán deducir de los ingresos del periodo, la cuarta parte de la deducción que corresponda al año calendario.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
+Cuando las deducciones no se efectúen dentro del periodo al que correspondan, se podrán efectuar en los siguientes periodos del mismo ejercicio o al presentar la declaración anual.
 
-Cuando las deducciones no se efectúen dentro del cuatrimestre al que correspondan, se podrán realizar en los siguientes cuatrimestres del mismo ejercicio o al presentar la declaración anual.
+En el caso de que los ingresos percibidos por otorgar el uso o goce temporal de inmuebles, sean inferiores a las deducciones del periodo, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los periodos siguientes, siempre y cuando dichas deducciones correspondan al mismo año calendario.
 
-En el caso de que los ingresos percibidos por otorgar el uso o goce temporal de inmuebles, sean inferiores a las deducciones del cuatrimestre, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los cuatrimestres siguientes, siempre y cuando dichas deducciones correspondan al mismo año de calendario.
+Los contribuyentes que opten por efectuar las deducciones a que se refiere el párrafo siguiente a la fracción VI del artículo 90 de la Ley, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a los que les sea aplicable el porciento de deducción de que se trate, a más tardar en la fecha en que se presente la primera declaración provisional que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos provisionales de dicho año, pudiendo cambiarse al presentar la declaración anual en los términos del artículo 106 de este Reglamento.
 
-Los contribuyentes podrán optar por deducir, para efectos de los pagos provisionales cuatrimestrales, el 50% de los ingresos a que se refiere el artículo 89 de la Ley, en sustitución de las deducciones establecidas en el artículo 90 de la misma. Esta opción deberá efectuarse por todos los inmuebles del contribuyente, a más tardar en la fecha en que se presente la primera declaración cuatrimestral que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos provisionales de dicho año, pudiendo cambiarse al presentar la declaración anual en los términos del artículo 106 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 109-A.
 
-Los contribuyentes personas físicas que perciban ingresos de los señalados en el capítulo III del Título IV de la Ley, podrán calcular el tercer pago provisional considerando en vez de los ingresos y de las deducciones del cuatrimestre, los del tercer de calendario, aplicando la tarifa del artículo 141 de la misma y acreditando el primero y segundo pagos provisionales.
+Los contribuyentes que perciban ingresos de los señalados en el Capítulo III del Título IV de la Ley, podrán calcular el último pago provisional considerando en lugar de los ingresos y de las deducciones del periodo que corresponda, los del año calendario, aplicando la tarifa del artículo 141 y la tabla del artículo 141-A de la misma y acreditando los pagos provisionales efectuados en el ejercicio.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 110.
 
-Las personas que perciban ingresos por otorgar el uso o goce temporal de inmuebles, durante el primer año de calendario, estarán obligadas a presentar las declaraciones a que se refiere el artículo 92 de la Ley, a partir del cuatrimestre en que las rentas pactadas o devengadas correspondientes al mismo, excedan del doble del salario mínimo general de la área geográfica elevado al cuatrimestre. Continuarán efectuando los pagos provisionales durante los cuatrimestres que falten para terminar dicho año de calendario, independientemente del monto de ingresos que por concepto de rentas perciban en esos cuatrimestres.
+Los contribuyentes que perciban ingresos por otorgar el uso o goce temporal de inmuebles durante el primer año de calendario, estarán obligados a presentar las declaraciones a que se refiere el artículo 92 de la Ley, a partir del periodo en que las rentas pactadas o devengadas correspondientes al mismo, excedan del doble del salario mínimo general del área geográfica elevada al periodo de que se trate y continuarán efectuando los pagos provisionales durante los periodos que falten para terminar dicho año de calendario, independientemente del monto de ingresos que por concepto de rentas perciban en esos periodos.
 
 ###### ARTICULO 111.
 
 Los contribuyentes que perciban ingresos superiores a la cantidad señalada en la fracción II del artículo 94 de la Ley, podrán cumplir con la obligación a que se refiere dicha fracción llevando la contabilidad simplificada conforme se establece en el Código Fiscal de la Federación y su Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 112.
 
-Los comprobantes a que se refiere la fracción III del artículo 94 de la Ley deberán reunir los requisitos establecidos en el Reglamento del Código Fiscal de la Federación, dichos comprobantes deberán además señalar el número de cuenta predial del inmueble de que se trate, o en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable y firmarse por el contribuyente o su representante.
+Los comprobantes a que se refiere la fracción III del artículo 94 de la Ley, deberán reunir los requisitos establecidos en el artículo 29-A del Código Fiscal de la Federación, dichos comprobantes deberán además señalar el número de cuenta predial del inmueble de que se trate, o en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable y firmarse por el contribuyente o su representante.
 
 Tratándose de ingresos derivados de bienes en copropiedad, será el representante común quien expida los comprobantes respectivos.
 
-### CAPITULO V. De los Ingresos por Adquisición de Bienes
+### CAPITULO IV. De los Ingresos por Enajenación de Bienes
 
 ###### ARTICULO 113.
 
@@ -1341,7 +1439,9 @@ I.- Del importe total de la operación, se separará el precio de enajenación t
 
 II.- Se obtendrá por separado la ganancia relativa al terreno y a la construcción, calculándola conforme a los artículos 97 o 101 de la Ley. Tratándose de deducciones que no pueda identificarse si fueron efectuadas por el terreno o por la construcción, se considerarán hechas en relación con ambos conceptos en la proporción que les correspondan conforme al precio de enajenación.
 
-III.- Las ganancias obtenidas conforme a la fracción anterior se dividirán entre el número de años transcurridos, sin que exceda de diez entre la fecha de adquisición y construcción, respectivamente, y la de enajenación; la suma de ambos resultados será la parte de la ganancia que se acumulará a los demás ingresos obtenidos en el año de calendario de que se trate.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+III.- Las ganancias obtenidas conforme a la fracción anterior se dividirán entre el número de años transcurridos, sin que exceda de veinte entre la fecha de adquisición y construcción, respectivamente, y la de enajenación; la suma de ambos resultados será la parte de la ganancia que se acumulará a los demás ingresos obtenidos en el año de calendario de que se trate.
 
 IV.- El pago provisional se calculará como sigue:
 
@@ -1431,13 +1531,9 @@ III.- Los metales y piedras preciosas, las perlas y las manufacturas de joyería
 
 Tratándose de bienes distintos de los señalados en las fracciones anteriores los contribuyentes podrán no disminuir el costo de adquisición en función de los años transcurridos, sólo mediante autorización previa de la autoridad administradora.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+###### ARTICULO 124-A.
 
-###### ARTICULO 124- A.
-
-Para los efectos del artículo 103 de la Ley, tratándose de la enajenación de inmuebles que se consigne en escritura pública, cuyo importe se deposite total o parcialmente en las cuentas personales especiales para el ahorro, el notario, corredor, juez o demás fedatarios que tengan funciones notariales, no estarán obligados a efectuar el pago provisional por la ganancia en dicha enajenación, cuando el inmueble que se enajene sea la casa habitación del contribuyente y siempre que la haya habitado cuando menos los dos últimos años anteriores a la misma y el enajenante entregue al fedatario público, en efectivo, cheque de caja o cheque certificado, una cantidad igual al importe de la ganancia obtenida a fin de que el fedatario, dentro de los tres días hábiles siguientes a la firma de la escritura, efectúe el depósito de dicha cantidad a nombre del enajenante, en las cuentas personales especiales para el ahorro y conforme a las instrucciones que éste le dé; o bien, cuando el enajenante acredite a dicho fedatario público haber efectuado el depósito en su cuenta personal especial para el ahorro, por una cantidad igual al importe de la ganancia dentro de los diez días anteriores a la firma de la escritura.'
-
-Cuando la cantidad depositada sea menor al importe de la ganancia obtenida por la enajenación del inmueble, el pago provisional a que se refiere al artículo 103 de la Ley, se calculara y enterará en los términos del mismo artículo sobre la diferencia entre el importe de la ganancia y la cantidad depositada.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 125.
 
@@ -1471,7 +1567,9 @@ c).- Análisis del costo de adquisición ajustado por acción, señalando por ca
 
 d).- Determinación de utilidad o pérdida por cada ejercicio transcurrido entre la fecha de adquisición y la de enajenación de la sociedad emisora, conteniendo los siguientes datos: utilidad o pérdida fiscal por ejercicios terminados calculada de acuerdo con la Ley, especificando cada uno de los conceptos que se resten a la utilidad fiscal o se sumen a la pérdida fiscal; utilidad fiscal disminuida o perdida fiscal incrementada con los conceptos a que se refiere el segundo párrafo siguiente a la fracción II del artículo 19 de la Ley; número de acciones y utilidad o pérdida fiscal que corresponda a cada acción conforme a lo dispuesto en este inciso.
 
-c).- Cálculo del impuesto a cargo del contribuyente.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+e).- Cálculo del impuesto a cargo del contribuyente, que se determinará aplicando a la cantidad que resulte de dividir el total de la ganancia entre el número de años transcurridos entre la fecha de adquisición y la de enajenación, sin exceder de 20 años, la tarifa calculada en los términos del artículo 103, segundo párrafo de la Ley, y multiplicando el resultado obtenido por el número de años antes citado.
 
 El cuaderno del dictamen se deberá acompañar con su carta de presentación.
 
@@ -1503,9 +1601,15 @@ IV.- Que el dictamen se formule de acuerdo con las disposiciones del Reglamento 
 
 El contador público que realice el dictamen deberá firmarlo, señalar su nombre y el número de registro que lo autoriza para dictaminar.
 
-En tanto las sociedades emisoras presentan su declaración del ejercicio, la retención podrá calcularse aplicando al total de la ganancia obtenida la tarifa calculada en los términos del artículo 103, segundo párrafo de la Ley. En la declaración del ejercicio del contribuyente se considerará la ganancia o pérdida determinada en la declaración del ejercicio de la emisora.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-### CAPITULO VI. De los Ingresos por Actividades Empresariales
+En tanto las sociedades emisoras presentan su declaración del ejercicio, la retención podrá calcularse aplicando al total de la ganancia obtenida el procedimiento a que se refiere el inciso e) de la fracción II de este artículo. En la declaración del ejercicio del contribuyente se considerará la ganancia o pérdida determinada en la declaración del ejercicio de la emisora.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+El adquirente podrá, asimismo, no efectuar la retención a que se refiere el cuarto párrafo del artículo 103 de la Ley, o efectuar una menor, cuando se trate de acciones emitidas por las personas morales a que se refiere el artículo 70 de la Ley y siempre que la persona moral de que se trate emita constancia en la que se determine la ganancia o pérdida que resulte de la enajenación en los términos de este artículo, sin que sea necesario efectuar dictamen por contador público registrado. Lo dispuesto en este párrafo no será aplicable tratándose de operaciones superiores al monto establecido en el párrafo quinto del citado artículo 103 de la Ley.
+
+### CAPITULO V. De los Ingresos por Adquisición de Bienes
 
 ###### ARTICULO 127.
 
@@ -1543,9 +1647,7 @@ III.- El adquirente en el contrato que se eleva a escritura pública, sea una pe
 
 En caso de cumplirse con lo previsto por las fracciones anteriores, los fedatarios públicos dejarán de calcular el impuesto sobre la renta por la adquisición de bienes, y señalarán en la propia escritura, las razones por las cuales no efectuaron dicho cálculo.
 
-### CAPITULO VII. De los Ingresos por Dividendos y en General por las Ganancias Distribuidas por Personas Morales
-
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+### CAPITULO VI. De los Ingresos por Actividades Empresariales
 
 ###### ARTICULO 130.
 
@@ -1555,9 +1657,11 @@ Cuando en las disposiciones del Capítulo VI del Título IV de la Ley, se señal
 
 #### SECCION I. Del Régimen General a las Actividades Empresariales
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 131.
 
-La pérdida fiscal ajustada a que se refiere el artículo 108 de la Ley, podrá deducirse de los demás ingresos que el contribuyente deba acumular en la declaración anual correspondiente a ese mismo año después de efectuar en su caso, las deducciones del Capítulo III, la parte de la pérdida que corresponda en los términos de la fracción I del artículo 57-A y las correspondientes al Capítulo V, del Título IV de la propia Ley; la parte no reducida de la pérdida fiscal ajustada, podrá ser disminuida de la utilidad fiscal ajustada en los términos del artículo 110 de la Ley.
+La pérdida fiscal a que se refiere el artículo 110 de la Ley, podrá deducirse de los demás ingresos que el contribuyente deba acumular en la declaración anual correspondiente a ese mismo año después de efectuar, en su caso, las deducciones del Capítulo III, la parte de la pérdida que corresponda en los términos de la fracción I del artículo 97-A y las correspondientes al Capítulo V, del Título IV de la propia Ley; la parte no deducida de la pérdida fiscal, podrá ser disminuida de la utilidad fiscal en los términos del artículo 108-A de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -1580,6 +1684,10 @@ En el caso de descuentos o bonificaciones que se otorguen al contribuyente por p
 ###### ARTICULO 131-B.
 
 Para efectuar la cancelación de la pérdida o la ganancia inflacionarias (sic), según sea el caso, a que se refieren el último párrafo de la fracción IV y el cuarto párrafo de la fracción V del artículo 7o.- B de la Ley, cuando ocurra después de los dos meses siguientes al cierre del ejercicio en el que se concertó el crédito o la deuda, el contribuyente podrá aplicar el procedimiento establecido en el artículo 7o.- C de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Cuando la cancelación ocurra a partir del quinto mes del ejercicio siguiente a aquél en el que se concertó dicha operación, el contribuyente podrá cancelar el componente inflacionario respectivo aplicando el procedimiento establecido en el artículo 7o-C de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -1607,7 +1715,9 @@ Los contribuyentes podrán estimar el monto de los ajustes a sus pagos provision
 
 Cuando el contribuyente ejerza la opción prevista en este artículo y la estimación del ajuste sea inferior, en más de un 10%, del 62% o del 100% del impuesto que resulte conforme al párrafo siguiente, se causarán recargos sobre la diferencia.
 
-El impuesto a que se refiere el párrafo anterior es el que resulta de aplicar la tarifa que corresponda al antepenúltimo párrafo del artículo 111 de la Ley, sobre la utilidad fiscal del ejercicio.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+El impuesto a que se refiere el párrafo anterior es el que resulte de aplicar la tasa a que se refiere el artículo 108-A de la Ley, sobre la utilidad fiscal empresarial del ejercicio.
 
 Los recargos que en su caso se causen, se computarán desde la fecha en que se hizo debió hacerse el pago del ajuste y la fecha en que se presente o deba presentarse la declaración del segundo ajuste o la del ejercicio, según hubiera correspondido la estimación al primero o al segundo ajuste.
 
@@ -1625,21 +1735,47 @@ III.- Que la deducción a que se refiere la fracción II del artículo 108 de la
 
 IV.- Que se obtenga autorización de la autoridad administradora para efectuar el acreditamiento.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 133.
 
-Para los efectos del penúltimo párrafo del artículo 111 de la Ley, en los casos en que los contribuyentes estimen justificadamente que el coeficiente de utilidad que deben aplicar para determinar los pagos provisionales, es superior al coeficiente de utilidad del ejercicio al que correspondan dichos pagos, podrán disminuir el monto de los mismos, siempre que obtengan la autorización respectiva, la cual se solicitará a la autoridad administradora competente, a más tardar el último día del primer mes del cuatrimestre por el que se solicite la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
+Para los efectos del antepenúltimo párrafo del artículo 111 de la Ley, en los casos en que los contribuyentes estimen justificadamente que el coeficiente de utilidad que deben aplicar para determinar los pagos provisionales, es superior al coeficiente de utilidad del ejercicio al que correspondan dichos pagos, podrán disminuir el monto de los que les correspondan hasta por seis meses del mismo ejercicio, siempre que obtengan la autorización respectiva, la cual se solicitará a la autoridad administradora competente, a más tardar el día l5 del primer mes del periodo por el que se solicita la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+El contribuyente estará obligado a calcular en la declaración del ejercicio los pagos provisionales que le hubieren correspondido conforme al artículo 111 de la Ley, substituyendo el coeficiente de utilidad a que se refiere la fracción I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición, con los datos relativos a la declaración del ejercicio en el cual se disminuyó el pago.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Cuando resulte que los pagos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior, se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 El contribuyente estará obligado a calcular en la declaración del ejercicio los pagos provisionales que le hubieran correspondido conforme al artículo 111 de la Ley, sustituyen el coeficiente de utilidad a que se refiere la decisión I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición, con los datos relativos a la declaración del ejercicio en el cual se disminuye el pago.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
 Cuando resulte que los pagos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido. No se pagarán recargos cuando dicha diferencia no exceda del 10% del pago efectuado.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 133-A.
+
+Los contribuyentes a que se refiere esta Sección que trabajen en su propia empresa, podrán efectuar retiros mensualmente por un monto equivalente al salario de mercado que se pague por una actividad similar a los servicios que desarrolle en su empresa. Dichos retiros tendrán el tratamiento aplicable por la Ley a los ingresos por salarios y en general por la prestación de un servicio personal subordinado.
+
+El impuesto así determinado tendrá el carácter de pago provisional y se enterará conjuntamente con el pago provisional a que se refiere el artículo 111 de la Ley.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 134.
 
 Los contribuyentes podrán efectuar la destrucción o donación de las mercancías que hubieran perdido su valor por deterioro u otras causas, en los términos del artículo 61 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 134-A.
+
+Para los efectos de lo dispuesto por la fracción V del artículo 112 de la Ley, se entenderá que se cumple con la obligación de llevar un registro de las operaciones efectuadas con títulos valor emitidos en serie, cuando el contribuyente conserve los estados de cuenta en los que consten dichas operaciones, expedidos por el sistema financiero en los términos de la Ley.
 
 ###### ARTICULO 135.
 
@@ -1677,15 +1813,9 @@ Para determinar la importancia de los cincuenta principales clientes y de los ci
 
 Los locatarios de mercados públicos, podrán optar por pagar el impuesto correspondiente a sus actividades empresariales conforme al régimen de contribuyentes menores, siempre que reúnan los requisitos que establecía el artículo 115 de la Ley vigente hasta el 31 de diciembre de 1989.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 137-A.
 
-Cuando inicien actividades los contribuyentes menores a que se refiere el artículo 115 de la Ley, deberán estimar su ingreso mensual.
-
-Las autoridades fiscales elevarán al año el ingreso mensual estimado por el contribuyente, y estimarán la utilidad fiscal en los términos del artículo 116 de la Ley, de acuerdo a la actividad preponderante del contribuyente.
-
-La determinación del impuesto estimado deberá hacerse constar en el formulario que para tal efecto apruebe la Secretaría.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -1727,7 +1857,9 @@ Los contribuyentes menores que opten por pagar el impuesto conforme al régimen 
 
 Los constituyentes que en los términos del párrafo anterior ejerzan la opción señalada por el mismo, efectuarán la deducción de sus inversiones en el ejercicio conforme a la siguiente:
 
-I.- Se determinara el valor que dichas inversiones tengan al 1o. de enero del año de que se trate, mismo que se fijará mediante avaluó que se practique por corredor público referido a esa fecha o bien, aplicarán al monto original de la inversión, el factor que corresponda según el número de años transcurridos entre la fecha de adquisición del bien y el 1o. de enero del año por el que se ejerce la opción a que le se refiere este artículo, de acuerdo a la tabla que establezca anualmente el Congreso de la Unión para ajustar el costo comprobado de adquisición en el impuesto sobre la renta.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+I.- Se determinará el valor que dichas inversiones tengan al 1o. de enero del año de que se trate, mismo que se fijará mediante avalúo que se practique para efectos fiscales en los términos del Reglamento del Código Fiscal de la Federación, referido a esa fecha, o bien actualizando el monto original de la inversión por el periodo comprendido desde el mes en que se realizó la adquisición hasta el mes de diciembre del año de calendario inmediato anterior a aquél por el que se ejerza la opción a que se refiere este artículo.
 
 II.- Al valor de los bienes que se obliga en los términos de la fracción que antecede, se le aplicará el porciento que señale la Ley para el bien de que se trate, en la proposición que se presenten, respecto de todo el ejercicio los meses transcurridos a partir de que se pague Impuesto conforme al régimen general de la misma.
 
@@ -1751,37 +1883,43 @@ Los contribuyentes a que se refiere el artículo 118 de la Ley, presentarán su 
 
 Los contribuyentes que opten por cubrir su impuesto en los términos del párrafo anterior, deberán manifestarlo al proporcionar la información a que se refiere el segundo párrafo del artículo 118 de la Ley.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
 
-#### SECCION II. Del Régimen Opcional a las Actividades Empresariales
+#### SECCION II. Del Régimen Simplificado a las Actividades Empresariales
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 142-A.
 
-Las personas físicas que opten por pagar el impuesto sobre la renta conforme al régimen simplificado contenido en la Sección II del Capítulo VI del Título IV de la Ley, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de 200 millones de pesos, podrán pagar dicho impuesto conforme a lo señalado por este artículo.
+Para los efectos de lo dispuesto por el artículo 119-D de la Ley, los contribuyentes podrán dar el tratamiento de aportaciones de capital a los ingresos que provengan de la recuperación de erogaciones que causaron impuestos o fueron consideradas como disminución de capital, siempre que dichas erogaciones hayan dado origen al pago del impuesto en los términos del artículo 119-B de la citada Ley.
 
-Los contribuyentes citados efectuarán pagos provisionales bimestrales a cuenta del impuesto anual a más tardar el día 17 del mes inmediato posterior al bimestre que corresponda, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará restando de la totalidad de las entradas de recursos en el bimestre, las salidas a que se refiere el artículo 119-D de la Ley correspondiente al mismo periodo y aplicándole al resultado la tarifa a que se refiere el antepenúltimo párrafo de este artículo. Contra el impuesto que resulte a su cargo podrán acreditar una cantidad equivalente al 10% del salario mínimo general del área geográfica del contribuyente elevado al bimestre. En los casos en que el impuesto a cargo del contribuyente sea menor que la cantidad acreditable conforme a este párrafo, la diferencia no podrá acreditarse contra el impuesto que resulte a su cargo posteriormente.
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-No se efectuará el acreditamiento a que se refiere el párrafo anterior cuando en el periodo de que se trate se obtengan ingresos de los señalados en los capítulos l, II y III del Título IV de la Ley, por los que ya se hubiera efectuado.
+###### ARTICULO 142-B.
 
-La tarifa aplicable informe a este artículo se determinará tomando como base la tarifa del artículo 80 de la Ley, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos del artículo 80 referido resulten para cada una de los meses del bimestre, y que correspondan al mismo renglón identificado por el mismo porcentaje para aplicarse sobre el excedente del límite inferior.
-
-La Secretaria de Hacienda y Crédito Publico bimestralmente realizará las operaciones aritméticas previstas en este párrafo para calcular la tarifa aplicable y la publicará en el Diario Oficial de la Federación.
-
-Cuando en alguno de los bimestres por los que se calculen pagos provisionales en los términos de este artículo, los contribuyentes tengan salidas superiores a sus entradas, el excedente no se considerará ingreso acumulable.
+Para los efectos de lo dispuesto por el artículo 119-E de la Ley, los contribuyentes considerarán como salidas los retiros de capital efectuados en el ejercicio hasta por el monto de las aportaciones de capital realizadas en el mismo.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO VIII. De los ingresos por intereses
+### CAPITULO VII. De los Ingresos por Dividendos y en General por las Ganancias Distribuidas por Personas Morales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 143.
 
-El capital contable deberá actualizarse para los efectos del artículo 121 de la Ley, adicionándole el monto de la actualización de sus activos fijos, gastos y cargos diferidos, terrenos e inventarios.
+Para los efectos del artículo 121 de la Ley, el capital contable se actualizará, adicionándole el monto de la actualización de sus activos fijos, gastos y cargos diferidos, terrenos e inventarios, así como el valor de las acciones propiedad del contribuyente que hayan sido emitidas por personas morales residentes en México.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 El monto de la actualización se obtendrá restando del valor de los activos actualizados señalados en el párrafo que antecede, el valor de los mismos sin actualizar.
 
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+
 La actualización de dichos activos se efectuará conforme al procedimiento establecido en el artículo 3o. de la Ley del Impuesto al Activo, considerando como el mes más reciente del periodo de actualización, el que corresponda a la fecha en que se efectúe la disminución del capital.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+El valor de las acciones a que se refiere el primer párrafo de este artículo, se determinará a través del método de participación, según los principios de contabilidad generalmente aceptados a excepción de los casos en que el contribuyente posea menos del 10% del capital social de la emisora de dichas acciones, en cuyo caso el valor será el costo promedio por acción a que se refieren los artículos 19 y 19-a de la Ley, actualizado por el período entre la fecha en que se hubiere determinado la última enajenación y en la que se actualiza el capital en los términos de este artículo, multiplicado por el número de acciones que tenga el contribuyente.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -1789,13 +1927,13 @@ La actualización de dichos activos se efectuará conforme al procedimiento esta
 
 Los ingresos por dividendos o utilidades distribuidas por personas morales que se perciban a través de un fideicomiso o de una asociación en participación, se considerarán obtenidos directamente de la persona moral que los distribuyó originalmente, y se podrá optar por acumularlos en los términos del artículo 122 de la Ley, si quien los obtiene es persona física, o se adicionarán a la cuenta de utilidad fiscal neta conforme al artículo 124 de la Ley, si se trata de persona moral. Los dividendos o utilidades referidos se considerarán en la proporción que le corresponda a cada uno de los integrantes del fideicomiso o asociación en participación.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 143-B.
 
-Las partidas no deducibles a que se refieren los artículos 19-A, 57- H, 122 y 124 de la Ley, son aquéllas señaladas como no deducibles en la citada Ley.
+Las partidas no deducibles a que se refieren los artículos 19-A, 57-H y 124 de la Ley, son aquellas señaladas como no deducibles en la citada Ley.
 
-### CAPITULO IX. De los ingresos por la obtención de premios
+### CAPITULO VIII. De los ingresos por intereses
 
 ###### ARTICULO 144.
 
@@ -1811,13 +1949,15 @@ Tratándose de ingresos obtenidos en sociedad conyugal, se considerará que se p
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
-### CAPITULO X. De los demás ingresos que obtengan las personas físicas
+### CAPITULO IX. De los ingresos por la obtención de premios
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 146.
 
-Para que no se efectúe la retención del impuesto a que se refiere el último párrafo del artículo 130 de la Ley, tratándose de los casos señalados en el penúltimo párrafo del artículo 74 de la misma, las personas mencionadas en este último precepto estarán obligadas a exhibir copia sellada de la última declaración del ejercicio presentada para el pago del impuesto; tratándose del primer ejercicio deberá presentarse copia de la solicitud de inscripción en el registro federal de contribuyentes.
+Para que no se efectúe la retención del impuesto a que se refiere el último párrafo del artículo 130 de la Ley, tratándose de los casos señalados en el antepenúltimo párrafo del artículo 74 de la misma, las personas mencionadas en este último precepto estarán obligadas a exhibir copia sellada de la última declaración del ejercicio presentada para el pago del impuesto. Tratándose del primer ejercicio deberá presentarse copia de la solicitud de inscripción en el registro federal de contribuyentes.
 
-### CAPITULO XI. De los requisitos de las deducciones
+### CAPITULO X. De los demás ingresos que obtengan las personas físicas
 
 ###### ARTICULO 147.
 
@@ -1839,11 +1979,13 @@ Las personas físicas que obtengan ingresos por intereses y ganancia cambiaria g
 
 La Secretaría publicará en el Diario Oficial de la Federación a más tardar en el mes de febrero del año siguiente al que corresponda, el factor de acumulación a que se refiere el párrafo anterior. Para calcular dicho factor, la Secretaría considerará el incremento en el índice nacional de precios al consumidor, el rendimiento promedio estimado para inversiones y depósitos en el extranjero y la ganancia cambiaria devengada, correspondientes al año por el que se calcula el impuesto.
 
-### CAPITULO XII. De la declaración anual
+### CAPITULO XI. De los requisitos de las deducciones
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 148.
 
-Para los efectos de la fracción IV del artículo 136 de la Ley, los comprobantes de las deducciones reúnen los requisitos fiscales, cuando han sido expedidos de conformidad con el Reglamento del Código Fiscal de la Federación y los artículos 103 y 112 de este Reglamento, según sea el caso. Igualmente será aplicable para los efectos de la citada fracción lo dispuesto por el artículo 15 de este Reglamento.
+Para los efectos de la fracción IV del artículo 136 de la Ley, los comprobantes de las deducciones reúnen los requisitos fiscales, cuando han sido expedidos de conformidad con el Código Fiscal de la Federación y su Reglamento y con los artículos 103 y 112 de este Reglamento, según sea el caso. Igualmente será aplicable para los efectos de la citada fracción lo dispuesto por el artículo 15 de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -1863,11 +2005,9 @@ Tratándose de pérdidas por créditos incobrables a que se refiere la fracción
 
 Para los efectos de la deducibilidad de los impuestos al valor agregado y especial sobre producción y servicios a que se refiere la fracción XIX del artículo 136 de la Ley, será aplicable a las personas físicas lo dispuesto para las personas morales en el artículo 17 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 151.
 
-No se consideran gastos de representación para los efectos de la fracción V del artículo 137 de la Ley, los que se efectúen en restaurantes con motivo de seminarios y convenciones o de cursos de capacitación para sus trabajadores, cuando medie autorización de la autoridad administradora correspondiente y el contribuyente compruebe que los gastos se efectúan por necesidades especiales de su actividad.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -1875,7 +2015,9 @@ No se consideran gastos de representación para los efectos de la fracción V de
 
 Para los efectos de la fracción IX del artículo 137 de la Ley, se entenderá por domicilio del contribuyente aquél en el que presta normalmente sus servicios la persona a favor de la cual se realice la erogación.
 
-Tratándose del pago de viáticos o gastos de viaje que beneficien a personas que le presten al contribuyente servicios personales subordinados o servicios personales independientes por encargo de aquél, serán deducibles cuando dicha persona se desplace fuera de la faja de 50 kilómetros que circunde el establecimiento de dicho contribuyente. En este caso, quien presta el servicio deberá proporcionar al contribuyente una relación de los gastos anexando los comprobantes respectivos, los cuales deberán reunir los requisitos que señala el Reglamento del Código Fiscal de la Federación.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Tratándose del pago de viáticos o gastos de viaje que beneficien a personas que le presten al contribuyente servicios personales subordinados o servicios personales independientes por encargo de aquél, serán deducibles cuando dicha persona se desplace fuera de la faja de 50 kilómetros que circunde al establecimiento de dicho contribuyente. En este caso, quien presta el servicio deberá proporcionar al contribuyente una relación de los gastos anexando los comprobantes respectivos, los cuales deberán reunir los requisitos que señala el Código Fiscal de la Federación.
 
 Cuando los viáticos y gastos a que este artículo se refiere, beneficien a personas que presten al contribuyente servicios personales independientes, los comprobantes deberán ser expedidos a nombre del propio contribuyente.
 
@@ -1903,7 +2045,7 @@ II.- Que en los últimos tres años anteriores a aquel en que pretenda efectuar 
 
 Para los efectos de lo dispuesto en el artículo 138 de la Ley, cuando el contribuyente deje de realizar la totalidad de sus operaciones por periodos que comprendan más de un ejercicio de doce meses, o cuando deje de obtener ingresos acumulables durante esos periodos y presente el aviso correspondiente, podrá suspender para efectos fiscales la deducción del monto de las inversiones correspondiente a los ejercicios en que se dejaron de realizar operaciones o percibir los ingresos señalados durante todo el ejercicio.
 
-### CAPITULO I
+### CAPITULO XII. De la declaración anual
 
 ###### ARTICULO 155.
 
@@ -1933,11 +2075,11 @@ No se considerarán como honorarios médicos, para efectos de la fracción citad
 
 En los casos de erogaciones para cubrir funerales a futuro, para efectos de su deducibilidad, se considerarán como gastos de funerales hasta el año de calendario en que se utilicen los servicios funerarios respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 159.
 
-Para los efectos de la fracción IV del artículo 140 de la Ley, será aplicable lo dispuesto en los artículos 14, 14-B, 14-C y 14-D de este Reglamento.
+Para los efectos de la fracción IV del artículo 140 de la Ley, será aplicable lo dispuesto en los artículos 14, 14-B, y 14-C de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -1951,9 +2093,11 @@ Tratándose de bienes distintos de los señalados en el párrafo anterior, se co
 
 Los monumentos artísticos o históricos en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos o Históricos, donados a la Federación, al Distrito Federal, a las Entidades Federativas, a los Municipios o a sus respectivos organismos públicos descentralizados, también se consideraran dentro de los donativos previstos en la fracción IV del artículo 140 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 160.
 
-Para los efectos del penúltimo párrafo del artículo 140 de la Ley, se considera que los comprobantes reúnen requisitos fiscales, cuando han sido expedidos conforme al Reglamento del Código Fiscal de la Federación y el artículo 103 de este Reglamento, según sea el caso.
+Para los efectos del penúltimo párrafo del artículo 140 de la Ley, se considera que los comprobantes reúnen requisitos fiscales, cuando han sido expedidos conforme al Código Fiscal de la Federación y el artículo 103 de este Reglamento, según sea el caso.
 
 ###### ARTICULO 161.
 
@@ -1981,13 +2125,27 @@ Para los efectos del cálculo de la reducción a que se refiere la fracción IV 
 
 ## TITULO V. De los Residentes en el Extranjero con Ingresos Provenientes de Fuente de Riqueza Ubicada en Territorio Nacional
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 163.
 
-Los comprobantes a que se refiere el artículo 147 de la Ley, deberán reunir los requisitos mencionados en el Reglamento del Código Fiscal de la Federación, a excepción del Registro Federal de Contribuyentes. Dichos comprobantes podrán formularse en idioma distinto del español, debiendo proporcionarse traducción autorizada a las autoridades fiscales cuando éstas así lo requieran.
+Para los efectos de lo dispuesto por los artículos 145, 146 y 147 de la Ley del Impuesto sobre la Renta, los residentes en el extranjero que presten servicios en el país de los mencionados en dichos preceptos por los que perciban ingresos cubiertos por un residente en el extranjero sin establecimiento permanente en el país o que teniéndolo los servicios no se relacionen con dicho establecimiento, quedarán exceptuados del pago del impuesto a que se refieren los artículos antes citados, siempre que los servicios prestados no tengan una duración mayor a 90 días, consecutivos o no, en un periodo de 12 meses.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 163-A.
+
+Los comprobantes a que se refiere el artículo 147 de la Ley, deberán reunir los requisitos mencionados en el Código Fiscal de la Federación, a excepción del Registro Federal de Contribuyentes. Dichos comprobantes podrán formularse en idioma distinto del español, debiendo proporcionarse traducción autorizada a las autoridades fiscales cuando éstas así lo requieran.
+
+Los comprobantes a que se refiere el párrafo anterior, podrán no cumplir con el requisito de que los datos que deben contener se encuentren impresos, así como el de que dichos comprobantes hayan sido impresos por establecimientos autorizados.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 164.
 
-Los comprobantes a que se refiere el artículo 148 de la Ley, deberán reunir los requisitos mencionados en el Reglamento del Código Fiscal de la Federación, a excepción del Registro Federal de Contribuyentes, debiendo además señalar el número de cuenta predial del inmueble de que se trate, o en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable.
+Los comprobantes a que se refiere el artículo 148 de la Ley, deberán reunir los requisitos mencionados en el Código Fiscal de la Federación, a excepción del Registro Federal de Contribuyentes, debiendo además señalar el número de cuenta predial del inmueble de que se trate, o en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable.
+
+Los comprobantes a que se refiere el párrafo anterior, podrán no cumplir con el requisito de que los datos que deben contener se encuentren impresos, así como el de que dichos comprobantes hayan sido impresos por establecimientos autorizados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -1999,31 +2157,19 @@ Para los efectos del último párrafo del artículo 150 de la Ley, cuando en las
 
 Se podrá garantizar el interés fiscal mediante responsabilidad solidaria asumida por el adquirente del inmueble, en la escritura pública respectiva, hasta por el monto de dicho interés fiscal.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 165-A.
 
-Para los efectos del artículo 150-A de la Ley, el valor sobre el cual se calculará el impuesto establecido en la mismo, será el valor normal de la mercancía determinado conforme lo dispone la Ley Aduanera, incluso en el caso de que la operación esté exenta del impuesto general de importación.
-
-El impuesto a que se refiere el artículo 150-A citado, deberá pagarse antes de que los bienes o mercancías salgan del almacén general de depósito. Dicho impuesto podrá pagarse por conducto del importador.
-
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
-No se exigirá el pago del 3% a que se refiere dicho artículo, cuando la persona que haya efectuado el depósito de bienes o mercancías en los almacenes generales de depósito sea residente en el país o residente en el extranjero con establecimiento permanente en México y, acredite ante la aduana correspondiente dicha situación, mediante la presentación de cualquiera de los siguientes documentos:
-
-I.- Copia de la cédula de inscripción en el Registro Federal de Contribuyentes.
-
-II.- Copia de la declaración del impuesto obre la renta del ejercicio inmediato anterior.
-
-III.- Copia de la inscripción en el Registro Nacional de Importadores y Exportadores debidamente sellada por la autoridad competente.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 165-B.
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 166.
 
-No obstante que los títulos valor dejen de ser considerados de los que se colocan entre el gran público inversionista, no se pagará el impuesto de acuerdo con el cuarto párrafo del artículo 151 de la Ley, cuando dichos títulos se enajenen, siempre que a la fecha de adquisición por el enajenante se hubieran colocado entre el gran público inversionista y hayan sido ubicados por la Secretaría en el Diario Oficial de la Federación.
+No obstante que los títulos valor dejen de ser considerados de los que se colocan entre el gran público inversionista, no se pagará el impuesto de acuerdo con el sexto párrafo del artículo 151 de la Ley, cuando dichos títulos se enajenen, siempre que a la fecha de adquisición por el enajenante se hubieran colocado entre el gran público inversionista y hayan sido publicados por la Secretaría en el Diario Oficial de la Federación.
 
 ###### ARTICULO 167.
 
@@ -2061,27 +2207,29 @@ En las enajenaciones a futuro en monedas extranjeras sólo tendrá obligaciones 
 
 Cuando se exceptúe del pago del impuesto en los términos del artículo 154-A de la Ley, no se estará obligado al pago del impuesto por la enajenación a futuro respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 169.
 
-Para los efectos de lo fracción III del artículo 154-A de la Ley, se considerará que los bonos, obligaciones y otros títulos de crédito son colocados en el extranjero entre el gran público inversionista, cuando, reúnan los siguientes requisitos:
+Para los efectos del Título V de la Ley, se considerará que los bonos, obligaciones y otros títulos de crédito son colocados en el extranjero entre el gran público inversionista, cuando reúnan los siguientes requisitos:
 
-I.- Se inscriban en bolsa de valores autorizada conforme a la legislación del país de que se trate y se enajenen con la intervención de casas de bolsa del extranjero.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+I.- Se inscriban en bolsa de valores autorizada conforme a la legislación del país de que se trate, se coloquen a través de ella con la intervención de casas de bolsa del extranjero y se enajenen con la intervención de dichas casas de bolsa.
 
 > <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
 
 II.- Que su colocación se efectúe en un país en el que exista un mercado de valores reconocido para esos efectos que tenga como mínimo 5 años de operar y siempre que dicho país no tenga un régimen fiscal privilegiado, entendiéndose como tal cuando los intereses percibidos de fuente extranjera estén exentos o causen una tasa inferior al 15% en el país de origen.
 
-III.- Las bolsas de valores y casas de bolsa deberán registrarse anualmente ante la autoridad administradora correspondiente, sin que tenga que renovarse previa solicitud del interesado. El registro se solicitará por el residente en el país o por el residente en el extranjero con establecimiento permanente en México, que efectúe el pago de los intereses.
+III.- (DEROGADA, D.O.F. 31 DE MARZO DE 1992)
 
-La Secretaría dará a conocer la lista de las bolsas de valores y casas de bolsa registradas ante la propia Secretaría.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 170.
 
-Para los efectos de la fracción III del artículo 154-A de la Ley, se entenderá que los bonos, obligaciones y otros Títulos de crédito emitidos en moneda extranjera se colocan en el extranjero entre el gran público inversionista, siempre que dicha colocación se realice a través de bolsa de valores autorizada en el país de que se trate.
+Para los efectos de la fracción I del artículo 154 de la Ley, el impuesto que corresponda a los intereses que se paguen a residentes en el extranjero provenientes de títulos de crédito colocados en el extranjero entre el gran público inversionista, se considerará interés para los efectos de la Ley cuando la persona que haga los pagos cubra dicho impuesto por cuenta del contribuyente.
 
 ###### ARTICULO 171.
 
@@ -2099,19 +2247,9 @@ El dictamen deberá entregarse a la citada autoridad, dentro de los 30 días sig
 
 ## TITULO VI. De los Estímulos Fiscales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 173.
 
-Para los efectos del artículo 165 de la Ley, los contribuyentes que depositen en las cuentas personales especiales para el ahorro, el importe de la ganancia que obtengan por la enajenación de su casa habitación, en la que hayan habitado cuando menos los dos últimos años anteriores a la enajenación, podrán restar el importe de los mismos únicamente en la declaración del año de calendario en que se efectuaron dichos depósitos, de la cantidad a la que se aplicarla, de no hacer esta deducción, la tarifa del artículo 141 de la Ley, o de la parte de la ganancia no acumulable en los términos del artículo 96 de la misma.
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Cuando con motivo de la aplicación del artículo 165 de la Ley, el importe de los depósitos en las cuentas personales especiales para el ahorro sea superior al importe de las cantidades contra las que se aplica, el contribuyente podrá disminuir la diferencia, contra los mismos conceptos determinados en las declaraciones de los cinco años inmediatos posteriores a aquél en que se efectuó el depósito.
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Cuando el contribuyente no disminuya en un año de calendario la diferencia a que se refiere el párrafo anterior, pudiendo hacerlo conforme al mismo, perderá el derecho a aplicar la disminución en los años subsecuentes, hasta por la cantidad en que pudo haberla efectuado.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -2121,13 +2259,13 @@ Para los efectos del artículo 165 de la Ley, se consideran cuentas personales e
 
 Las cantidades depositadas o invertidas en las cuentas a que se refiere este artículo y los intereses que generen, en ningún caso se podrán ceder o dar en garantía.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ## TITULO VII
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO II
+### CAPITULO I
 
 ###### ARTICULO 1o.
 
@@ -2167,9 +2305,7 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO III
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
+### CAPITULO II
 
 ###### ARTICULO 10
 
@@ -2185,7 +2321,9 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO IV
+### CAPITULO III
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
 #### SECCION I
 
@@ -2363,7 +2501,7 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN , D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
 ###### ARTICULO 50
 
@@ -2403,7 +2541,7 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
 ###### ARTICULO 59
 
@@ -2435,7 +2573,7 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
 ###### ARTICULO 66
 
@@ -2447,7 +2585,7 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
 
-### CAPITULO UNICO
+### CAPITULO VII
 
 ###### ARTICULO 68
 
@@ -2522,6 +2660,8 @@ BIS.- (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 ## TITULO VIII
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 1990)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 801.
 
@@ -2688,3 +2828,7 @@ Se abroga el Decreto que otorga facilidades administrativas en el impuesto sobre
 ###### ARTICULO SEPTIMO.
 
 Las entidades de financiamiento registradas en la Secretaría, en el año de 1990 podrán presentar el aviso a que se refiere la parte final del inciso b) de la fracción II del artículo 167 del Reglamento de la Ley del Impuesto sobre la Renta, a más tardar dentro del mes siguiente al de la fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 31 DE MARZO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, a excepción de lo dispuesto en el artículo 77 de este Reglamento que entrará en vigor el 1o. de enero de 1994.
