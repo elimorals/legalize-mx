@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2003-05-16"
+last_updated: "2004-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2004.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -122,9 +122,9 @@ D. (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 E. Subdirección General de Finanzas
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
-F. Subdirección General de Administración.
+F.- Coordinación General de Administración
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -136,13 +136,9 @@ H. Coordinación General de Desarrollo Delegacional, e
 
 I. (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
-J. Coordinación General de Delegaciones
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 7 DE MAYO DE 2004)</small>
 
-K. Coordinación General de Atención al Derechohabiente
-
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
-
-El Instituto cuenta con órganos internos de control que se regirán conforme al artículo 52 de este Estatuto Orgánico.
+J.- Coordinación General de Transformación y Desarrollo Institucional.
 
 II. Unidades administrativas desconcentradas:
 
@@ -840,7 +836,7 @@ XII.- Coordinar, en los términos de lo que establezca este Estatuto, la operaci
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-a) Centro Médico Nacional “20 de Noviembre”;
+a) Centro Médico Nacional "20 de Noviembre";
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
@@ -860,9 +856,9 @@ XIII.- Planear, organizar, normar, coordinar y controlar, la conservación, mant
 
 XIV.- Atender y otorgar el mantenimiento preventivo y correctivo, así como la conservación de los equipos médicos y electromecánicos a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XV.- Realizar y mantener actualizado el registro general de los bienes que constituyen el inventario del equipo médico propiedad del Instituto, en coordinación con las Subdirecciones Generales de Administración y Jurídica;
+XV.- Realizar y mantener actualizado el registro general de los bienes que constituyen el inventario del equipo médico propiedad del Instituto, en coordinación con la Subdirección General Jurídica y la Coordinación General de Administración.
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
@@ -872,9 +868,9 @@ XVI.- Establecer las normas y especificaciones técnicas para la operación de l
 
 XVII.- Programar, convocar y celebrar las licitaciones y/o concursos, que tengan por objeto la adquisición de medicamentos, materiales de curación, equipo e instrumental médico, y la conservación y mantenimiento de los equipos médicos y electromecánicos de las Unidades Médicas a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal.
 
-> <small>(F. DE E., D.O.F. 16 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-Suscribir los contratos y/o convenios respectivos, y aplicar las sanciones económicas que en derecho procedan con base en la legislación aplicable, y
+Llevar a cabo la evaluación y programación del proceso de abasto de estos insumos y efectuar la explotación de la información relacionada con este tipo de adquisiciones, y
 
 XVIII.- Las demás que señalen otras disposiciones aplicables.
 
@@ -986,7 +982,13 @@ VI.- Conocer de los procedimientos administrativos correspondientes a los recurs
 
 VII.- Certificar y expedir copias de los documentos que obren en poder del Instituto, para ser exhibidos en asuntos judiciales y contencioso-administrativos, relativos al ámbito de su competencia;
 
-VIII.- Sistematizar el marco jurídico e instrumentos normativos relacionados con las atribuciones, funcionamiento y actividades de las distintas áreas del Instituto y mantenerlo actualizado;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII.- Sistematizar el marco jurídico e instrumentos normativos relacionados con las atribuciones, funcionamiento y actividades de las distintas áreas del Instituto y mantenerlo actualizado a través de las autorizaciones que al efecto suscriba el Subdirector General Jurídico;
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+Asimismo, normar y apoyar a las áreas del Instituto desde el punto de vista jurídico en la formulación de sus manuales de procedimientos y de organización, incluyendo los instrumentos y manuales dirigidos a normalizar la calidad de los servicios, y otros instrumentos de apoyo administrativo, así como gestionar los trámites para su publicación en el Diario Oficial de la Federación y en la Normateca Electrónica de Disposiciones Internas Actualizadas;
 
 IX.- Asesorar jurídicamente a los órganos de gobierno y unidades administrativas del Instituto;
 
@@ -1000,9 +1002,9 @@ XIII.- Atender los asuntos relativos a las relaciones del Instituto con los Sind
 
 XIV.- Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
-Asimismo, llevar el control y registro general de los bienes inmuebles del Instituto, incluyendo los afectos a usos médicos, en coordinación con la Subdirección General de Administración.
+Asimismo, llevar el control y registro general de los bienes inmuebles del Instituto, incluyendo los referentes a usos médicos, conjuntamente con la Coordinación General de Administración y en el ámbito que corresponda, con la Subdirección General Médica;
 
 XV.- Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad y del Distrito Federal, excepto los relacionados con el fondo de la vivienda, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
 
@@ -1026,43 +1028,25 @@ XXIII.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
 XXIV.- Coordinar estudios y proyectos de soporte a la reforma del Instituto, integrando el plan maestro de la misma, analizando y diseñando nuevos modelos de gestión de los fondos que se reportan al Instituto;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+XXV.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXV.- Planear, programar, organizar, normar, coordinar, controlar y evaluar las actividades dirigidas a la modernización, simplificación administrativa e innovación de los sistemas y procesos sustantivos y de apoyo del Instituto;
+XXVI.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+XXVII.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXVI.- Realizar estudios para la evaluación de los procesos y funciones a cargo de las diferentes áreas de la institución y diseñar e instrumentar proyectos de reingeniería, cambio e innovación tecnológica;
+XXVIII.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
-
-XXVII.- Coordinar el diseño e implantación de las políticas, normas y estándares de calidad que deban ser establecidos para los servicios que otorga el Instituto;
-
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
-
-XXVIII.- Realizar en coordinación con las áreas del Instituto, los programas, proyectos y acciones que se establezcan para el aseguramiento y certificación de la calidad de los servicios, así como para el desarrollo organizacional;
-
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
-
-XXIX.- Realizar y apoyar acciones y proyectos para la desconcentración de facultades y procesos a las delegaciones del Instituto;
+XXIX.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XXX.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
-> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+XXXI.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXXI.- Normar y apoyar a las áreas del Instituto en la formulación de sus manuales de procedimientos y de organización, incluyendo los instrumentos y manuales dirigidos a normalizar la calidad de los servicios, y otros instrumentos de apoyo administrativo;
+XXXII.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+XXXIII.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXXII.- Promover y gestionar ante las instancias internas y las externas al Instituto, medidas para la desregulación de trámites, normas y demás disposiciones que limiten el desempeño de las áreas y los servicios a su cargo;
-
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
-
-XXXIII.- Coordinar al interior del Instituto las acciones del Sistema de Evaluación de Metas y Compensación por Resultados, así como los informes de cumplimiento que sobre el particular se establezcan;
-
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
-
-XXXIV.- Desarrollar los proyectos especiales que sobre innovación, calidad y organización, le sean encomendados por el Director General del Instituto, y
+XXXIV.- (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
@@ -1096,9 +1080,9 @@ XLI.- Proponer al Director General las políticas, estrategias y líneas de acci
 
 XLII.- Fungir como enlace ante la Comisión Nacional de Arbitraje Médico, para la atención y seguimiento de los asuntos relacionados con el Instituto;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XLIII.- Presidir las sesiones del Comité de Quejas Médicas y Comité Técnico para la Dictaminación de solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes médico y jurídico que al efecto elaboren las unidades administrativas competentes, sin perjuicio de la facultad para delegar esta función, y
+XLIII.- Presidir los Comités de Mejora Regulatoria Interna, de Quejas Médicas y Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas competentes, sin perjuicio de la facultad para delegar esta función, y
 
 XLIV.- Las demás que señalen otras disposiciones aplicables.
 
@@ -1170,25 +1154,25 @@ XVIII.- Desarrollar y administrar el aseguramiento patrimonial de los bienes mue
 
 XIX.- Diseñar y administrar la función financiera de los servicios de salud en el Instituto;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XX.- Diseñar y operar el sistema de evaluación del desempeño financiero de los prestadores de servicios de salud del Instituto;
+XX.- Diseñar y operar el sistema de evaluación del desempeño financiero de las Unidades Administrativas centrales y desconcentradas del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXI.- Crear y aplicar un sistema de incentivo al desempeño médico y a la eficiencia financiera que permita mejorar la gestión de los prestadores de servicios de salud;
+XXI.- Crear y aplicar un sistema de incentivo al desempeño y a la eficiencia financiera que permita mejorar la gestión de las Unidades Administrativas centrales y desconcentradas del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXII.- Proponer al Director General y a la Junta Directiva la asignación del presupuesto anual para los prestadores de servicios de salud del Instituto, partiendo de un modelo de asignación presupuestal basado en la eficiencia y calidad de los servicios médicos de cada prestador;
+XXII.- Proponer al Director General y a la Junta Directiva la asignación del presupuesto anual del Instituto, partiendo de un modelo de asignación presupuestal basado en la eficiencia y calidad de los servicios;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXIII.- Sistematizar la generación de indicadores que permitan calificar, por prestador de servicios de salud, la calidad de la prestación, la eficiencia financiera de las unidades prestadoras y la cobertura poblacional de cada unidad, así como la satisfacción del usuario de los servicios de salud;
+XXIII.- Administrar el sistema de indicadores que permitan calificar, a los prestadores de servicios institucionales, la calidad de la prestación, la eficiencia financiera de las Unidades Prestadoras y la cobertura poblacional de cada unidad, así como la satisfacción del usuario;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXIV.- Elaborar y celebrar acuerdos de gestión con las áreas médicas desconcentradas y no desconcentradas del Instituto, mediante los cuales se definan y evalúen las metas específicas a cumplir en la prestación de los servicios médicos y la asignación de recursos correspondiente;
+XXIV.- Elaborar y celebrar acuerdos de gestión con las Unidades Administrativas centrales y desconcentradas del Instituto, mediante los cuales se definan y evalúen las metas específicas a cumplir en el otorgamiento de los seguros, prestaciones y servicios;
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
@@ -1204,87 +1188,7 @@ XXVII.- Generar, custodiar e invertir las reservas técnicas necesarias para fin
 
 XXVIII.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
-
-ARTICULO 51 B.- La Subdirección General de Administración, tendrá las siguientes funciones:
-
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
-
-I.- Proponer políticas en materia de personal del Instituto en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación, así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
-
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
-
-Tratándose del personal de base se realizará en coordinación con el Sindicato, de acuerdo a las disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
-
-II.- Coordinar y controlar el diseño y registro de las estructuras de organización de las diferentes áreas del Instituto, así como desarrollar las acciones correspondientes con las dependencias globalizadoras;
-
-III.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido a favor de los trabajadores del Instituto;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-IV.- Planear, organizar, normar, coordinar y controlar sistemas institucionales de tecnología de la información;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-V.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos tecnología (sic) de la información;
-
-VI.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-VII.- Planear, organizar, normar y coordinar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil y vigilar la observancia de las normas técnicas aplicables en cada caso;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-VIII.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá o arrendará los bienes muebles y contratará la prestación de los servicios generales requeridos para su operación y funcionamiento.
-
-Programar y llevar a cabo los procedimientos de contratación relativos a la adquisición o arrendamiento de bienes muebles y la prestación de servicios generales, celebrar los contratos y convenios respectivos conforme a la normatividad establecida, excepto en los casos a que se refiere la fracción XVII del Artículo 45 de este Estatuto, así como aplicar las sanciones económicas que, en su caso, procedan con base en la legislación aplicable.
-
-Llevar a cabo la programación y evaluación del proceso de abasto de estos insumos;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-IX.- Normar, coordinar y evaluar la operación de los almacenes regionales, delegacionales y de los hospitales regionales; almacenar, custodiar y distribuir, en coordinación con los almacenes delegacionales, a los diversos centros de trabajo del Instituto, los insumos médicos conforme lo determine la Subdirección General Médica, y los demás bienes de consumo inversión, de acuerdo a lo que establezca el área requirente, así como establecer el control de inventarios, conforme a las disposiciones relativas;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-X.- Elaborar con base en la información que proporcionen las áreas del Instituto, su programa anual de adquisiciones, obra, arrendamientos y servicios, de conformidad con las disposiciones legales aplicables;
-
-XI.- (DEROGADA, D.O.F. 16 DE MAYO DE 2003)
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-XII.- Normar y coordinar las acciones relativas al control del inventario de los bienes muebles que integran el activo fijo del Instituto;
-
-XIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, y
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-XIV.- Planear, programar, organizar y coordinar la obra pública y los servicios relacionados con la misma de las unidades pertenecientes al Instituto y vigilar que las obras se realicen de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del medio ambiente y el equilibrio ecológico;
-
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
-
-XV.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-XVI.- Programar, convocar y celebrar las licitaciones públicas que tengan por objeto la adjudicación de contratos de obra pública y servicios relacionados con la misma, con base en la legislación aplicable;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-XVII.- Elaborar con base en la información que proporcionan las áreas del Instituto, el programa anual de inversión de obra pública y servicios relacionados con las mismas de conformidad con las disposiciones legales aplicables y registrar su avance;
-
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
-
-XVIII.- Coadyuvar con la Subdirección General Jurídica en la expedición de lineamientos, en relación con la elaboración del dictamen de factibilidad inmobiliaria, en lo relacionado con los aspectos técnicos para la adquisición y arrendamiento de bienes inmuebles, que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables; y elaborar en su caso, los dictámenes técnicos que le sean solicitados;
-
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
-
-XIX.- Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre, y con apoyo de la Subdirección General Jurídica, ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente, y
-
-XX.- Las demás que señalen otras disposiciones aplicables.
+ARTICULO 51 B.- (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
@@ -1409,6 +1313,88 @@ XVI.- Las demás que señalen otras disposiciones aplicables o le encomiende el 
 ###### ARTICULO 54
 
 Bis.- (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### ARTICULO 54 Ter.
+
+La Coordinación General de Administración, tendrá las funciones siguientes:
+
+I.- Proponer políticas en materia de personal del Instituto en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación, así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto.
+
+Tratándose del personal de base, se realizará en coordinación con el Sindicato, de acuerdo a las disposiciones aplicables;
+
+II.- Coordinar y controlar el diseño y registro de las estructuras de organización de las diferentes áreas del Instituto, así como desarrollar las acciones correspondientes con las dependencias globalizadoras;
+
+III.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro, establecido a favor de los trabajadores del Instituto;
+
+IV.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
+
+V.- Planear, organizar, normar y coordinar las funciones de administración de los servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil y vigilar la observancia de las normas técnicas aplicables en cada caso;
+
+VI.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá o arrendará los bienes muebles y contratará la prestación de los servicios generales requeridos para su operación y funcionamiento.
+
+Programar y llevar a cabo los procedimientos de contratación relativos a la adquisición o arrendamiento de bienes muebles y la prestación de servicios generales, celebrar los contratos y convenios respectivos conforme a la normatividad establecida, excepto en los casos a que se refiere la fracción XVII del Artículo 45 de este Estatuto, así como aplicar las sanciones económicas que, en su caso, procedan con base en la legislación aplicable.
+
+Llevar a cabo la programación y evaluación del proceso del abasto de estos insumos.
+
+VII.- Normar, coordinar y evaluar la operación de los almacenes regionales, delegacionales y de los hospitales regionales; almacenar, custodiar y distribuir, en coordinación con los almacenes delegacionales, a los diversos centros de trabajo del Instituto, los insumos médicos conforme lo determine la Subdirección General Médica, y los demás bienes de consumo inversión, de acuerdo a lo que establezca el área requirente, así como establecer el control de inventarios, conforme a las disposiciones relativas;
+
+VIII.- Elaborar con base en la información que proporcionen las áreas del Instituto, su programa anual de adquisiciones, obra, arrendamientos y servicios, de conformidad con las disposiciones legales aplicables;
+
+IX.- Normar y coordinar las acciones relativas al control del inventario de los bienes muebles que integran el activo fijo del Instituto;
+
+X.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes;
+
+XI.- Planear, programar, organizar y coordinar la obra pública y los servicios relacionados con la misma, de las unidades pertenecientes al Instituto y vigilar que las obras se realicen de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del medio ambiente y el equilibrio ecológico;
+
+XII.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
+
+XIII.- Programar, convocar y celebrar las licitaciones públicas que tengan por objeto la adjudicación de contratos de obra pública y servicios relacionados con la misma, con base en la legislación aplicable;
+
+XIV.- Elaborar, con base en la información que proporcionan las áreas del Instituto, el programa anual de inversión de obra pública y servicios relacionados con las mismas, de conformidad con las disposiciones legales aplicables y registrar su avance;
+
+XV.- Coadyuvar con la Subdirección General Jurídica, en la expedición de lineamientos, en relación con la elaboración del dictamen de factibilidad inmobiliaria, en lo relacionado con los aspectos técnicos para la adquisición y arrendamiento de bienes inmuebles, que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables; y elaborar, en su caso, los dictámenes técnicos que le sean solicitados;
+
+XVI.- Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre, y con apoyo de la Subdirección General Jurídica, ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente, y
+
+XVII.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### ARTICULO 54 Quáter.
+
+La Coordinación General de Transformación y Desarrollo Institucional, tendrá las siguientes funciones:
+
+I.- Coadyuvar en la implementación de las políticas, estrategias y líneas de acción que establezca el Director General, para la transformación y desarrollo institucional;
+
+II.- Fortalecer los canales de comunicación con las unidades administrativas centrales, para dar cumplimiento a las líneas de política general, estrategias, líneas de acción y proyectos establecidos en el Programa Institucional;
+
+III.- Establecer una programación detallada para el seguimiento de productos esperados de cada uno de los programas y proyectos relativos a estudios de organización y de procedimientos, así como a la desconcentración, mejora regulatoria, modernización administrativa y tecnológica, reingeniería de procesos y calidad de los servicios;
+
+IV.- Revisar los programas de trabajo antes descritos y evaluar sus avances, identificando aspectos que requieran apoyo del Director General;
+
+V.- Planear, organizar y normar el desarrollo de la infraestructura y servicios de informática y telecomunicaciones del Instituto;
+
+VI.- Planear, programar, organizar, normar, coordinar, controlar y evaluar las actividades dirigidas a la modernización, simplificación administrativa e innovación de los sistemas y procesos sustantivos y de apoyo del Instituto;
+
+VII.- Realizar estudios para la evaluación de los procesos y funciones a cargo de las diferentes áreas de la institución y diseñar e instrumentar proyectos de reingeniería, cambio e innovación tecnológica;
+
+VIII.- Coordinar el diseño e implantación de las políticas, normas y estándares de calidad que deban ser establecidos para los servicios que otorga el Instituto;
+
+IX.- Realizar, en coordinación con las áreas del Instituto, los programas, proyectos y acciones que se establezcan para el aseguramiento y certificación de la calidad de los servicios, así como para el desarrollo organizacional;
+
+X.- Realizar y apoyar acciones y proyectos para la desconcentración de facultades y procesos a las delegaciones del Instituto;
+
+XI.- Normar y apoyar a las áreas del Instituto desde el punto de vista técnico organizacional en la formulación de sus manuales de procedimientos y de organización, incluyendo los instrumentos y manuales dirigidos a normalizar la calidad de los servicios, y otros instrumentos de apoyo administrativo;
+
+XII.- Promover y gestionar ante las instancias internas y las externas al Instituto, medidas para la desregulación de trámites, normas y demás disposiciones que limiten el desempeño de las áreas y los servicios a su cargo;
+
+XIII.- Coordinar al interior del Instituto, las acciones del Sistema de Evaluación de Metas y Compensación por Resultados, así como los informes de cumplimiento que sobre el particular se establezcan;
+
+XIV.- Desarrollar los proyectos especiales que sobre innovación, calidad y organización, le sean encomendados por el Director General del Instituto, y
+
+XV.- Las demás que señalen otras disposiciones aplicables.
 
 ### CAPITULO SEPTIMO. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -2101,3 +2087,11 @@ CUARTO.- Se deroga el acuerdo 28.1271.2002, de fecha 21 de febrero del año 2002
 D.O.F. 16 DE MAYO DE 2003.
 
 Artículo Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MAYO DE 2004.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbanse las presentes adecuaciones en el Registro Público de Organismos Descentralizados.
+
+TERCERO.- Los Manuales de Organización y de Procedimientos que se derivan de las reformas, adiciones y derogaciones que estipula el presente Acuerdo, deberán expedirse y/o modificarse en un plazo que no excederá de 180 días naturales, a partir de la publicación del mismo en el Diario Oficial de la Federación.
