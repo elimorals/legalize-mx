@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-15279"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-30"
-last_updated: "1999-09-30"
+last_updated: "2002-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2002.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de septiembre de 1999.
 
@@ -147,7 +147,9 @@ Para la elección de diputados de mayoría relativa, el territorio del Estado se
 
 Para tal efecto el Consejo Estatal Electoral, por lo menos dieciocho meses antes de la elección ordinaria de que se trate, implementará el estudio técnico a que se refiere el párrafo anterior con base en los siguientes criterios:
 
-I. El número de habitantes no podrá diferir en más o en menos al diez por ciento del cociente que resulte de dividir la población total del Estado, de acuerdo al último censo o conteo oficial de población, entre el número de distritos electorales existentes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+
+I. Para la demarcación de los distritos electorales, se tomará en cuenta el resultado de dividir la población total del Estado, de acuerdo al último censo o conteo oficial de población, entre el número de distritos electorales existentes. Invariablemente se debe guardar el mayor equilibrio posible en la distribución poblacional;
 
 II. Ningún distrito deberá estar fraccionado geográficamente. Así mismo, en cada uno de ellos se considerará la cohesión económica y social;
 
@@ -2890,3 +2892,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
