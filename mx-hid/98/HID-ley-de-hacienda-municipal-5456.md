@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1988-12-31"
+last_updated: "1990-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DE 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DE 29 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -1679,13 +1679,13 @@ VII.- Otras exportaciones extraordinarias.
 
 ### CAPITULO UNICO. DE LAS TARIFAS DE LA LEY DE HACIENDA MUNICIPAL PARA EL AÑO DE 1988
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 177.
 
-Los Ayuntamientos del Estado percibirán los Ingresos, por los conceptos que se señalen en su Ley de Ingreso y Presupuesto de Ingresos para el ejercicio fiscal de 1989, de conformidad con las cuotas y tarifas que a continuación se establecen para cada Municipio.
+Para el ejercicio de 1991, los Ayuntamientos del Estado, percibirán los Ingresos que por cada concepto se señalan en su respectiva Ley de Ingresos y Presupuesto de Ingresos, de conformidad con la tabla de cuotas y tarifas que a continuación se establecen para cada Municipio.
 
-> <small>N. DE E. PARA LA CONSULTA DE CUOTAS Y TARIFAS A QUE SE REFIERE EL PRESENTE ARTICULO REMITASE AL ALCANCE AL PERIODICO OFICIAL DE FECHA 31 DE DICIEMBRE DE 1988 PAGINAS 5 A 36.</small>
+> <small>N. DE E. PARA LA CONSULTA DE CUOTAS Y TARIFAS A QUE SE REFIERE EL PRESENTE ARTICULO REMITASE AL ALCANCE AL PERIODICO OFICIAL DE FECHA 29 DE DICIEMBRE DE 1990 PAGINAS 2 A 50.</small>
 
 T R A N S I T O R I O S:
 
@@ -1772,3 +1772,7 @@ P.O. 31 DE DICIEMBRE DE 1988.
 PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1989.
 
 SEGUNDO.- Túrnese al Ejecutivo, para su sanción, publicación y cumplimiento en el Periódico del Gobierno del Estado, y demás efectos que consigna el artículo 51 de la Constitución Política de la Entidad.
+
+P.O. 29 DE DICIEMBRE DE 1990.
+
+UNICO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1o. de Enero de 1991.
