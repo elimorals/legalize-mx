@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-9497"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-25"
-last_updated: "1996-07-15"
+last_updated: "2003-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, GUARDA, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 25 de junio de 1992.
 
@@ -179,6 +179,36 @@ b).- Deberá contar con vigilancia policiaca constante.
 
 Podrá contar con bambalinas, foro de espectáculos y de orquestas, camerinos para uso eventual y profesional de artistas, iluminación especial y además con pista de baile.
 
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2003)</small>
+
+XIII Bis.- CENTRO DE ESPECTÁCULO ERÓTICO.- Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento, en el que se presentan espectáculos de bailes semidesnudos de hombres y/o mujeres mayores de edad. Deberá reunir los siguientes requisitos:
+
+a).- Ubicarse en localidad, área o zona, que no lesione, moleste o interfiera a las familias residentes o negocios ubicados de manera cercana.
+
+b).- Contar con certificados médicos expedidos de conformidad con la Ley de Salud para el Estado de Sonora, de las bailarinas y bailarines al inicio de operaciones del establecimiento y durante todo el tiempo que dure la licencia; para tal efecto estos deberán practicarse, cuando menos, cada tres meses.
+
+c).- Queda prohibido la utilización de reservados, separos o lugares que permitan o faciliten la realización de actos o relaciones sexuales.
+
+d).- Queda prohibido la celebración de actos y relaciones sexuales, ya sea como parte del espectáculo o en cualquier otra circunstancia dentro del establecimiento.
+
+e).- Arquitectura de primera calidad, suficiente para la seguridad física de los clientes.
+
+f).- Contar con bambalinas, foro de espectáculos, camerinos para las bailarinas o bailarines y podrá contar con música, iluminación especial o efectos de luces y sonidos especiales.
+
+g).- Se evitará la vista hacia el interior del local por medio de doble puerta, muros, persianas, tableros o mamparas. Los ventanales deberán contar con vidrios opacados u otro material de buen aspecto.
+
+h).- Contar con vigilancia policíaca constante.
+
+i).- Contar con servicios de baños separados para hombres y para mujeres, mingitorios de porcelana con llave de agua y comunicados con albañal.
+
+j).- Contar con clima artificial, ya sea refrigeración, abanicos, enfriadores por agua o calefacción, según la temporada estacional.
+
+k).- Deberá contar con indicaciones visibles sobre los lugares de ubicación de los extinguidores, salidas de emergencia y los teléfonos o lugares donde podrán acudir los consumidores en caso de queja.
+
+Podrá contar con mesas de billar y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental con aparatos fonoeléctricos, radio, televisión y videocaseteras, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para los asistentes, quedando prohibido exhibir material o publicidad de carácter pornográfico hacia la vía pública, cumpliendo, además, las disposiciones que establecen las leyes aplicables; asimismo, estará permitido jugar damas, dominó, ajedrez y cubilete.
+
+Estos giros deberán colaborar y promover campañas sanitarias destinadas a la prevención de enfermedades de transmisión sexual, de igual manera, campañas de prevención de consumo de alcohol y de drogas.
+
 XIV.- DISCOTECA: Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo, para consumo inmediato en su interior y que tiene la característica de contar con pista de baile con efectos de luces y sonidos especiales para la diversión de los asistentes dentro del propio establecimiento. El lugar deberá ser suficientemente amplio con todas las características específicas para Centro Nocturno o Cabaret. Podrá contar con efectos sonoros y de iluminación modernista, así como música grabada.
 
 XV.- RESTAURANTE: Establecimiento donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y solo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren evidentes signos de ebriedad.
@@ -287,9 +317,11 @@ Los conductores de automóviles de alquiler, autobuses, camiones de pasajeros o 
 
 Los particulares o empresas que intervengan en una o más de las actividades que en esta Ley se regulan, tienen la obligación de participar la apertura del establecimiento o despacho de su propiedad, así como el inicio de actividades tratándose de porteadores, a las autoridades correspondientes, y contar con previa licencia de funcionamiento.
 
+> <small>(REFORMADO PRIMERO PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 22.
 
-En los establecimientos a que se refieren las fracciones XIII y XIV del artículo 12 de esta Ley, deberán contar con la suficiente vigilancia policiaca debidamente facultada por las autoridades correspondientes.
+En los establecimientos a que se refieren las fracciones XIII, XIII Bis y XIV del artículo 12 de esta Ley, deberán contar con la suficiente vigilancia policíaca debidamente facultada por las autoridades correspondientes.
 
 Las dependencias que señale el Ejecutivo podrán exigir a los propietarios, administradores o encargados de los establecimientos de cualquier giro, la vigilancia policiaca debidamente autorizada de considerarlo necesario para la seguridad de los concurrentes y de los vecinos del lugar.
 
@@ -305,7 +337,9 @@ I.- La venta o consumo de bebidas con contenido alcohólico a los menores de 18 
 
 II.- Queda asimismo, estrictamente prohibido la venta de toda clase de bebidas con contenido alcohólico a personas en estado de ebriedad, bajo los efectos de psicotrópicos, así como a personas con carencias mentales, a personas armadas, a militares o miembros de policía que se encuentren uniformados o en servicio, excepto en los establecimientos a que se refieren las fracciones XV, XVI y XXIV del artículo 12 de esta Ley.
 
-III.- Permitir la entrada a menores de edad en los establecimientos señalados en las fracciones XI, XII, XIII, XIV, XXI, XXII y XXIII del artículo 12 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan y consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Permitir la entrada a menores de edad en los establecimientos señalados en las fracciones XI, XIII, XIII Bis, XIV, XXI, XXII, XXIII y XXIV del artículo 12 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan y consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición.
 
 IV.- En los establecimientos autorizados para la venta de bebidas alcohólicas en envase cerrado, queda prohibido su consumo en el interior de los mismos, asimismo la venta en envase abierto.
 
@@ -391,9 +425,11 @@ Los establecimientos a que se refiere este artículo serán clasificados por su 
 
 Los Abarrotes, se regirán por el siguiente horario: de lunes a sábado de las 8:00 a 21:00 horas y domingos de 8:00 a 14:00 horas.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 36.
 
-En los Cabarets, Centros Nocturnos, Clubes Sociales, Casinos, Discotecas, Salones de Baile, Cafés Cantantes, podrán venderse y consumirse bebidas con contenido alcohólico todos los días desde las 8:00 horas hasta las 2:00 horas del día siguiente. Los Hoteles y Moteles regirán sus horarios para la venta y consumo de acuerdo a los que tengan indicados en su licencia para Cantina o Restaurante.
+En los Cabarets, Centros Nocturnos, Clubes Sociales, Centros de Espectáculos Eróticos, Casinos, Discotecas, Salones de Baile, Restaurantes, Cafés Cantantes, podrán venderse y consumirse bebidas con contenido alcohólico todos los días desde las 8:00 horas hasta las 2:00 horas del día siguiente. Los Hoteles y Moteles regirán sus horarios para la venta y consumo de acuerdo a los que tengan indicados en su licencia para Cantina o Restaurante.
 
 ###### ARTICULO 37.
 
@@ -951,17 +987,21 @@ e).- A los que no cumplan, no den el aviso o no hagan la solicitud de auxilio a 
 
 f).- A quienes vendan o consuman bebidas alcohólicas en los sitios mencionados en el artículo 26 de la presente Ley, así como los que transporten o consuman dichas bebidas en vehículos en circulación o estacionados en las vías públicas, en contravención a lo dispuesto en el precepto mencionado. En este último supuesto, además de la aplicación de las sanciones a que se refiere esta fracción y de las que se señalan en el citado artículo 26, se impedirá por conducto de las autoridades de tránsito municipales que el vehículo continúe circulando, remitiéndolo al Departamento de Tránsito correspondiente.
 
-g).- Por la venta de bebidas con contenido alcohólico en cantidades superiores a la autorizada, cuando su licencia sea para venta al menudeo.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+g).- A los propietarios de los establecimientos a que se refiere el Artículo 12 en sus fracciones XI, XIII, XIII Bis, XIV, XXI, XXII y XXIII de esta Ley que no fijen avisos o letreros visibles en el exterior o interior de sus establecimientos dando a conocer la prohibición de entrada a menores de edad, sin perjuicio de lo dispuesto en la fracción II del artículo 24 del presente ordenamiento;
 
 h).- Por la venta de bebidas alcohólicas en envase abierto y para su consumo en el interior de espectáculos públicos si no se sirven en envases desechables o higiénicos y que no sean de cristal o metal.
 
 i).- Por la venta de bebidas alcohólicas en envase abierto y para su consumo inmediato en almacenes, licorerías, depósitos, supermercados, ultramarinos, abarrotes o en cualquier otro cuya venta deba hacerse en envase cerrado, así como permitir su consumo en el interior del local.
 
-> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
 
-j).- Por poseer los abarrotes un inventario superior, en contravención a lo dispuesto en la fracción XVIII del Artículo 12 de esta Ley.
+j).- Por contravenir lo dispuesto en los incisos a), b), c) y d) de la fracción XIII Bis del artículo 12 de esta Ley; y
 
-k).- Por permitir en el interior de dichos establecimientos juegos de azar que no sean de las autorizadas en la presente Ley y apuestas en los juegos permitidos.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+k).- Por cualquier otro acto u omisión que infrinja las disposiciones de esta Ley y que no se encuentre previsto en las fracciones anteriores;
 
 l).- Por no tener en lugar visible al público la licencia y demás documentación a que se refiere la fracción III del artículo 17 de esta Ley, así como en los casos de transportación de bebidas alcohólicas, no exhibir a solicitud de las autoridades la documentación que ampare el tránsito del producto o cuando los conductores de los vehículos las vendan durante su recorrido.
 
@@ -1120,3 +1160,9 @@ La presente Ley entrará en vigor al días siguiente de su publicación en el Bo
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
+
+B.O. 30 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
