@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1993-12-31"
+last_updated: "1994-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 02 DE AGOSTO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -67,23 +67,49 @@ LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
 ### CAPITULO I. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
+(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
+
 ###### ARTICULO 1°.
 
-Es objeto de este impuesto la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado de Puebla, bajo la dirección y dependencia de un patrón.
+Es objeto de este impuesto la realización de pagos por concepto de remuneraciones al trabajo personal subordinado a un patrón, prestado dentro del territorio del Estado de Puebla.
 
-Para estos efectos, quedan comprendidos los pagos hechos en efectivo por cuota diaria y las gratificaciones, percepciones, alimentación, habitaciones, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entreguen al trabajador por sus servicios; no se tomarán en cuenta dada su naturaleza, los siguientes conceptos:
+A.- Para estos efectos quedan comprendidos los pagos que se realicen por los siguientes conceptos:
 
-a) Los instrumentos de trabajo, tales como herramientas, ropa y otros similares.
+I.- Cuota Diaria.
 
-b) El ahorro cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales o sindicales.
+II.- Gratificaciones.
 
-c) Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los trabajadores y las participaciones en las utilidades de la empresa.
+III.- Percepciones.
 
-d) La alimentación y habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
+IV.- Alimentación.
 
-e) Los premios por asistencia, y
+V.- Habitación.
 
-f) los (sic) pagos por tiempo extraordinario, salvo cuando este tipo de servicio esté pactado en forma de tiempo fijo.
+VI.- Primas
+
+VII.- Comisiones.
+
+VIII.- Prestaciones en especie.
+
+IX.- Cualquier otra contraprestación que se entregue al trabajador por sus servicios.
+
+B.- No se tomarán en cuenta para el cálculo de este impuesto dada su naturaleza, los siguientes conceptos:
+
+I.- Los instrumentos de trabajo tales como las herramientas, ropa y otros similares.
+
+II.- El ahorro cuando se integre por un depósito de cantidad igual del trabajador y de la empresa, pero si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, formará parte de la base de este impuesto; tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical.
+
+III.- Las aportaciones que el patrón otorgue a favor de sus trabajadores por concepto de cuotas de seguro de retiro.
+
+IV.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas.
+
+V.- La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
+
+VI.- Los premios por asistencia, y
+
+VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+
+Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base de este impuesto, deberán estar registrados en la contabilidad del contribuyente.
 
 ###### ARTICULO 2°.
 
@@ -93,17 +119,19 @@ Son sujetos de este impuesto las personas físicas y morales que realicen los pa
 
 Es base de este impuesto el monto total de los pagos realizados a que se refiere el artículo 1° de esta Ley.
 
+(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
+
 ###### ARTICULO 4°.
 
-El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando la tasa que se establezca en la Ley de Ingresos del Estado de Puebla vigente en el ejercicio fiscal que corresponda, sobre el monto total de las erogaciones a que se refiere el artículo anterior.
+El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando a la base a que se refiere el artículo anterior la tasa que se establezca en la Ley de Ingresos del Estado de Puebla vigente en el ejercicio fiscal que corresponda.
+
+(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
 
 ###### ARTICULO 5°.
 
-El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará en el momento en que se realicen las erogaciones a que se refiere el artículo 1° de esta Ley y se pagarán a más tardar el día 17 de cada mes. Dicho pago se hará mediante declaración que contenga los datos relativos al monto total de las erogaciones objeto de este impuesto, realizadas en el mes inmediato anterior.
+El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará en el momento en que se realicen las erogaciones a que se refiere el artículo 1° de esta Ley y se pagará a más tardar el día 17 de cada mes. Dicho pago se hará mediante declaración que contenga los datos relativos al objeto de este impuesto que correspondan al mes inmediato anterior.
 
-Cuando ocasionalmente se realicen actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones en la oficina recaudadora que le corresponda, dentro de los cinco días hábiles siguientes a aquel en que se cause dicho impuesto.
-
-En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley:
+Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones en los cinco días hábiles que le corresponda, dentro de los cinco días hábiles siguientes a aquel en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
 
 ###### ARTICULO 6°.
 
@@ -121,7 +149,9 @@ I.- Inscribirse en el registro de contribuyentes de este impuesto ante la oficin
 
 Los contribuyentes que no hubieran cumplido con la obligación de inscribirse en el registro de contribuyentes de este impuesto, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquellos a que se refiere el artículo 5º párrafo segundo de esta Ley.
 
-II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal, el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, actividad preponderante; así como de suspensión o reanudación de actividades y los de cancelación del registro federal de contribuyentes o fusiones, dentro del mismo plazo señalado en la fracción anterior.
+(REFORMADA, P.O. 02 DE AGOSTO DE 1994).
+
+II.- Presentar ante la Oficina Recaudadora que corresponda a su domicilio fiscal, el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, actividad preponderante; así como de suspensión o reanudación de actividades, fusiones, y los de cancelación del registro de contribuyentes de este impuesto, dentro del mismo plazo señalado en la fracción anterior.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y lugares señalados al efecto.
 
@@ -269,21 +299,21 @@ IV.- La permuta, en la que se considerará que se realizan dos adquisiciones.
 
 V.- En general, todo acto por el cual se transmita la propiedad.
 
+(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
+
 ###### ARTICULO 21.
 
 Son sujetos de este impuesto, las personas físicas y morales que adquieran vehículos automotores usados en el territorio del Estado.
 
-Se considerará, salvo prueba en contrario, que la adquisición se efectuó en el Estado de Puebla, en el caso de que al realizarse trámites ante las autoridades competentes, se observe alguno de los siguiente (sis) supuestos:
+Se considerará, salvo prueba en contrario, que la adquisición se efectuó en el Estado de Puebla, en el caso de que al realizarse trámites ante las autoridades competentes, se observe alguno de los siguientes supuestos:
 
 I.- Que así conste en el endoso o cesión que aparece en el documento que ampare la propiedad del vehículo en cuestión.
 
-II.- Cuando el endoso o sesión a que se refiere la fracción anterior, no contenga lugar de realización o indique que se llevó a cabo en otra entidad, siempre y cuando:
+II.- Cuando el endoso o cesión a que se refiere la fracción anterior, no contenga lugar de realización o indique que se llevó a cabo en otra entidad, siempre y cuando:
 
 a) El vehículo en cuestión circule con placas del Estado de Puebla.
 
 b) La documentación de pago de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante las autoridades estatales.
-
-Para efectos de este impuesto, se considera domicilio fiscal, el manifestado para efectos del control vehicular.
 
 > <small>(F. DE E., P.O. 4 DE ENERO DE 1994)</small>
 
@@ -336,6 +366,16 @@ Los derechos por los servicios prestados por las dependencias y organismos auxil
 ###### ARTICULO 28.
 
 Para efectos del cobro de derechos por los servicios que presta la Dirección de Tránsito del Estado, comprendidos en la Ley de Ingresos del Estado, corresponde a la Secretaría de Finanzas, el registro y control de vehículos, excepto aeronaves, así como el establecimiento del registro estatal vehicular, relativo a los vehículos que sean dados de alta en su jurisdicción territorial, y a mantenerlo actualizado.
+
+(ADICIONADO, P.O. 02 DE AGOSTO DE 1994).
+
+ARTICULO 28 BIS.- Durante la vigencia del Acuerdo de Coordinación para el Fomento de la Vivienda, se concede la exención del pago de los derechos estatales previstos en la Ley de Ingresos del Estado y demás Leyes Tributarias del Estado, vinculados con la edificación o adquisición de vivienda de interés social o de tipo popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda Popular.
+
+Para tal efecto se entiende por:
+
+- Vivienda de interés social.- Aquella cuyo valor al término de su edificación no exceda de la suma de multiplicar por quince el salario mínimo general elevado al año vigente en el Estado.
+
+- Vivienda Popular.- La que al término de su edificación su valor no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año vigente en la Entidad.
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
@@ -422,3 +462,9 @@ LIC. MANUEL BARTLETT DIAZ.
 EL SECRETARIO DE GOBERNACIÓN.
 
 LIC. CARLOS PALAFOX VAZQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 02 DE AGOSTO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
