@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1980-10-20"
+last_updated: "1982-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1982.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -762,9 +762,9 @@ I. Pensiones alimenticias decretadas por la autoridad competente en favor de las
 
 II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá exceder del diez por ciento del salario.
 
-> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
 
-III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda, destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
+III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder el 20% del salario.
 
 > <small>(REFORMADA, D.O.F. 2 DE JULIO DE 1976)</small>
 
@@ -850,9 +850,9 @@ I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hec
 
 II. Pago de la renta a que se refiere el artículo 151 que no podrá exceder del quince por ciento del salario.
 
-> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
 
-III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda, destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador.
+III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador.
 
 IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, siempre que los trabajadores manifiesten expresa y libremente su conformidad y que no sean mayores del treinta por ciento del excedente del salario mínimo;
 
@@ -1176,11 +1176,11 @@ X. Hacer cualquier clase de propaganda en las horas de trabajo, dentro del estab
 
 ### CAPITULO III. Habitaciones para los Trabajadores
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
 
 ###### Artículo 136.
 
-Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, está obligada a proporcionar a los trabajadores habitaciones cómodas e higiénicas. Para dar cumplimiento a esta obligación las empresas deberán aportar al Fondo Nacional de la Vivienda el cinco por ciento sobre los salarios ordinarios de los trabajadores a su servicio.
+Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, está obligada a proporcionar a los trabajadores habitaciones cómodas e higiénicas. Para dar cumplimiento a esta obligación, las empresas deberán aportar al Fondo Nacional de la Vivienda el cinco por ciento sobre los salarios de los trabajadores a su servicio.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -1218,11 +1218,21 @@ II.- Durante la vigencia del crédito, se continuará aplicando el 40% de la apo
 
 III.- Una vez liquidado el crédito otorgado a un trabajador, se continuará aplicando el total de las aportaciones empresariales para integrar un nuevo depósito en su favor.
 
-IV.- El trabajador tendrá derecho a que se le haga entrega periódica del saldo de los depósitos que se hubieren hecho a su favor con 10 años de anterioridad.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
 
-V.- Cuando el trabajador deje de estar sujeto a una relación de trabajo y en caso de incapacidad total permanente o de muerte, se entregará el total de los depósitos constituidos al trabajador o a sus beneficiarios en los términos de la ley a que se refiere el artículo 139.
+IV. En caso de incapacidad total permanente, de jubilación o de muerte del trabajador, se entregará el total de los depósitos constituidos a él o a sus beneficiarios con una cantidad adicional igual a dichos depósitos, en los términos de la Ley a que se refiere el artículo 139;
 
-VI.- En el caso de que los trabajadores hubieren recibido crédito hipotecario, la devolución de los depósitos se hará con deducción de las cantidades que se hubieran aplicado al pago del crédito hipotecario en los términos de las fracciones I y II de este artículo.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
+
+V. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
+
+VI. En el caso de que los trabajadores hubieren recibido crédito del Instituto, la devolución de los depósitos a que se refieren las fracciones IV y V anteriores, se hará con deducción de las cantidades que se hubieran aplicado al pago de dicho crédito en los términos de las fracciones I y II de este artículo; y la cantidad adicional a que se refiere la fracción IV anterior, será igual al monto del saldo resultante.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+
+Para la devolución de los depósitos y cantidades adicionales, bastará que la solicitud por escrito, se acompañe con las pruebas pertinentes.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -1230,11 +1240,25 @@ VI.- En el caso de que los trabajadores hubieren recibido crédito hipotecario, 
 
 Cuando una empresa se componga de varios establecimientos, la obligación a que se refiere el Artículo 136 de esta ley se extiende a cada uno de ellos y a la empresa en su conjunto.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
 
 ###### Artículo 143.
 
-Para los efectos de este capítulo, se entiende por salario la cantidad que perciba cada trabajador en efectivo por cuota diaria.
+Para los efectos de este Capítulo el salario a que se refiere el artículo 136 se integra con los pagos hechos en efectivo por cuota diaria, y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por sus servicios; no se tomarán en cuenta dada su naturaleza, los siguientes conceptos:
+
+a) Los instrumentos de trabajo, tales como herramientas, ropa y otros similares;
+
+b) El ahorro, cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales o sindicales;
+
+c) Las aportaciones al Instituto de Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas;
+
+d) La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
+
+e) Los premios por asistencia;
+
+f) Los pagos por tiempo extraordinario, salvo cuando este tipo de servicios esté pactado en forma de tiempo fijo;
+
+g) Las cuotas al Instituto Mexicano del Seguro Social a cargo del trabajador que cubran las empresas.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -1466,15 +1490,15 @@ En el procedimiento de revocación, el afectado podrá ofrecer pruebas y alegar 
 
 Los planes y programas de que tratan los artículos 153-N y 153-O, deberán cumplir los siguientes requisitos:
 
-I.- Referirse a períodos no mayores de cuatro años;
+I. Referirse a períodos no mayores de cuatro años;
 
-II.- Comprender todos los puestos y niveles existentes en la empresa;
+II. Comprender todos los puestos y niveles existentes en la empresa;
 
-III.- Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
+III. Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
 
-IV.- Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría;
+IV. Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría;
 
-V.- Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
+V. Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
 
 VI.- Aquellos otros que establezcan los criterios generales de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento que se publiquen en el "Diario Oficial" de la Federación.
 
@@ -2998,7 +3022,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -3067,36 +3091,6 @@ II. De personal administrativo, o
 III. De institución si comprende a ambos tipos de trabajadores.
 
 > <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
-
-###### Artículo 353.
-
-F. La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353. G.
-
-En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
-
-###### Artículo 353.
-
-G. Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
-
-I. El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
-
-II. La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
-
-III. La comisión de faltas a las normas de conducta propias de la profesión médica, consignados en el Reglamento Interior de Trabajo de la Unidad Médica Receptora de Residentes.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
-
-###### Artículo 353.
-
-H. Son causas de terminación de la relación de trabajo, además de las que establece el artículo 53 de esta Ley:
-
-I. La conclusión del Programa de Especialización;
-
-II. La supresión académica de estudios en la Especialidad en la rama de la Medicina que interesa al Médico Residente.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### Artículo 353-O.
 
@@ -4590,7 +4584,7 @@ II.- Participar en la integración y funcionamiento del respectivo Consejo Consu
 
 III.- Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
 
-IV.- Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
+IV. Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
 
 V.- Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
 
@@ -6220,7 +6214,7 @@ El día quince de mayo del año impar que corresponda, el Secretario del Trabajo
 
 La convocatoria contendrá:
 
-I. El señalamiento de las zonas económicas en que esté dividida la República y el lugar de residencia de las Comisiones Regionales;
+I. El señalamiento de la zonas económicas en que esté dividida la República y el lugar de residencia de las Comisiones Regionales;
 
 II. La determinación del número de representantes que deba elegirse para integrar las Comisiones Nacional y Regionales, de conformidad con lo dispuesto en los artículos 554, fracción II, y 565, fracción II, así como la distribución de las ramas de la industria y de las actividades, según su importancia, entre el número de representantes que se hubiese determinado;
 
@@ -7670,7 +7664,7 @@ III. Laudos: cuando decidan sobre el fondo del conflicto.
 
 La Junta dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980))
 
 ###### Artículo 839.
 
@@ -9463,3 +9457,17 @@ SEGUNDO.- La convocatoria para la elección de los representantes a que se refie
 Mientras se lleve acabo el procedimiento de elección de representantes, los asuntos seguirán siendo atendidos por las autoridades jurisdiccionales que han venido conociendo de ellos.
 
 TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 7 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La obligación de enterar las aportaciones y los descuentos a que se refieren los artículos 97, fracción III, 110 fracción III y 136, conforme a la base salarial establecida en el artículo 143, empezará a correr a partir del bimestre siguiente a aquel en que entre en vigor este decreto.
+
+###### ARTICULO TERCERO.
+
+Las solicitudes de devolución de fondo en ahorro que se hubieren presentado con anterioridad a la entrada en vigor de este decreto se tramitarán y resolverán conforme a las disposiciones vigentes en la fecha de la presentación de la solicitud correspondiente.
