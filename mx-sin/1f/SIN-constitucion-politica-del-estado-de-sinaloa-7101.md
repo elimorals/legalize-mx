@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1953-12-01"
+last_updated: "1953-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1° DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1953.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -125,9 +125,9 @@ La calidad de ciudadano sinaloense se pierde:
 
 I. Por la pérdida de la calidad de ciudadano mexicano.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 1953)</small>
 
-II. Por residencia de más de dos años consecutivos fuera del Estado, cuando la ciudadanía se ha adquirido por vecindad, salvo los casos de estudios, empleo, cargo o comisión de la Federación, del Estado o de los Municipios.
+II. Por residencia de más de dos años consecutivos fuera del Estado, cuando la ciudadanía se ha adquirido por vecindad, salvo los casos de estudios, empleo, cargo o comisión de la Federación o instituciones descentralizadas de la misma, así como del Estado o de los Municipios.
 
 III. En los demás casos que expresamente lo prevengan las leyes.
 
@@ -527,7 +527,7 @@ IX. Actuar en substitución de la Comisión de Glosa, para facilitar las revisio
 
 X. Decretar en caso grave, la traslación provisional de los Poderes del Estado fuera del lugar de su residencia.
 
-XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción I I del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
+XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
 
 ###### Art. 51.
 
@@ -1738,3 +1738,7 @@ Este Decreto comenzará a regir a los diez días de su publicación en el Perió
 P.O. 1 DE DICIEMBRE DE 1953.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE DICIEMBRE DE 1953.
+
+UNICO. El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
