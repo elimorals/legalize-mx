@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1982-12-31"
+last_updated: "1983-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -471,9 +471,13 @@ Los derechos por servicio de aliniamienton (sic), deslinde de predios y de nomen
 
 #### SECCION SEPTIMA. URBANIZACION, ORNATO E HIGIENE
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 77.
 
 Es objeto de este derecho la colocación de andamios, obstáculos en la vía pública, anuncios en tableros, manteados, cuadros especiales sobre muros, tapiales, propaganda en general, fijación de anuncios por temporadas, así como toda clase de propaganda en el interior y exterior de los vehículos de servicio público de transporte de pasajeros de líneas urbanas de concesión estatal.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 78.
 
@@ -486,6 +490,8 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 ### CAPITULO TERCERO. DERECHOS POR AUTORIZACION Y LICENCIAS DIVERSAS
 
 #### SECCION TERCERA. DERECHOS POR SERVICIOS DE REGISTRO ANUAL DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 79.
 
@@ -500,6 +506,8 @@ Los derechos que se causan por los servicios que presta el Registro Civil, dentr
 El pago de los derechos que establece este capítulo y que dispensa el artículo 99 del Código Civil del Estado de Hidalgo, con respecto a los matrimonios se causarán y pagarán de acuerdo a la tarifa señalada en el artículo que antecede.
 
 #### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 82.
 
@@ -519,13 +527,19 @@ II.- Las que acuerde el Ayuntamiento, el Presidente Municipal o cualquiera otra 
 
 #### SECCION QUINTA. DERECHO POR SERVICIO DE REGISTRO REVISION DE FIERROS PARA MARCAR GANADO Y MAGUEYES
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 85.
 
 Es objeto de este derecho, el Registro de Establecimientos Comerciales e Industriales, así como actividad de prestamistas y comisionistas que habitualmente realizan operaciones comerciales o industriales.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 86.
 
 Toda persona física, moral o unidad económica que su actividad se encuentra comprendida en este capítulo, deberá proveerse del registro anual de comercio o industria que le será expedido por la Tesorería Municipal.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 87.
 
@@ -533,13 +547,19 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION PRIMERA. DIVERSIONES Y ESPECTACULOS PUBLICOS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 88.
 
 Es objeto de este derecho el servicio de canje de placas de motocicletas, bicicletas particulares, de alquiler para carro de mano de primera, de tracción animal, expedición de licencias para conducir toda clase de vehículos de motor, duplicado, y canje de las mismas, permisos provisionales para conducir vehículos de motor, revista anual de vehículos de motor y permiso para circular sin placas.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 89.
 
 Son sujetos del pago de derecho por el servicio de registro y canje de placas, todas las personas físicas morales o económicas que ostentan la propiedad o posesión de motocicletas, bicicletas particulares, de alquiler, para carro de mano de primera, de tracción animal, expedición de licencias para conducir toda clase de vehículos de motor, duplicado y canje de las mismas, permisos provisionales para conducir toda clase de vehículos de motor y permisos para circular sin placas.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 90.
 
@@ -547,13 +567,19 @@ Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuo
 
 #### SECCION SEGUNDA. DERECHO POR AUTORIZACION PARA LA CELEBRACION DE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 91.
 
 Es objeto de este derecho el servicio de registro, refrendo o revisión por parte del Ayuntamiento, de fierros para marcar ganado y magueyes, así como la identificación para acreditar la propiedad de los mismos.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 92.
 
 Son sujetos de pago de derechos por servicio de Registro, refrendo o revisión por parte del Ayuntamiento, los propietarios o poseedores de fierros para marcar ganado y magueyes, así como la identificación para acreditar la propiedad de los mismos.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 93.
 
@@ -563,17 +589,25 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION TERCERA. DERECHOS POR AUTORIZACION DEL FUNCIONAMIENTO DE APARATOS MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 94.
 
 Para los efectos de esta ley, debe entenderse por diversión y espectáculo público toda función de esparcimiento, sea teatral, cinematográfica, deportiva o de cualquier índole que se verifique en teatros, calles, plazas públicas locales abiertos o cerrados, con excepción hecha de los servicios prestados en restaurantes, bares, cabarets, salones de fiesta o de bailes y centros nocturnos que estén gravados por la Ley del Impuesto al Valor Agregado.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 95.
 
 Es objeto de este derecho la autorización del funcionamiento de diversiones y espectáculos públicos.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 96.
 
 Son sujetos de este derecho las personas físicas morales o unidades económicas, que detenten la propiedad o posesión, que gestionen, tramiten y obtengan la autorización de los Ayuntamientos para la realización o explotación de diversiones y espectáculos públicos.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 97.
 
@@ -581,13 +615,19 @@ Los derechos que se causan por la autorización para el funcionamiento de divers
 
 #### SECCION CUARTA. DERECHOS POR AUTORIZACION PARA LA COLOCACION DE ANUNCIOS LUMINOSOS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 98.
 
 Es objeto de este derecho la autorización para la celebración de rifas, loterías y toda clase de juegos permitidos en territorio de los Municipios.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 99.
 
 Son sujetos del pago de este derecho las personas físicas, morales o unidades económicas que detenten la propiedad o posesión que realicen o exploten la celebración de rifas, loterías y toda clase de juegos permitidos en los Municipios.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 100.
 
@@ -595,13 +635,19 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION QUINTA. DERECHOS POR AUTORIZACION PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES EN HORAS EXTRAORDINARIAS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 101.
 
 Es objeto de este derecho la autorización de licencias para el funcionamiento y explotación de toda clase de aparatos mecánicos, electromecánicos y fonoelectromecánicos, accionados por monedas o fichas.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 102.
 
 Son sujetos de este derecho las personas físicas, morales o unidades económicas que detenten la propiedad o posesión, que realicen la explotación y funcionamiento de aparatos mecánicos, electromecánicos y fonoelectromecánicos, accionados por monedas o fichas.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 103.
 
@@ -609,9 +655,13 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION SEXTA. DERECHOS POR AUTORIZACION PARA PROPAGANDA FONETICA EN LA VIA PUBLICA
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 104.
 
 Es objeto de este derecho la autorización para la colocación de anuncios luminosos de publicidad que se coloquen o se instalen en lugares distintos de establecimientos comerciales por parte del Municipio.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 105.
 
@@ -619,17 +669,25 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION SEPTIMA. DERECHOS POR EXPEDICION Y/O REFRENDO ANUAL DE LICENCIAS PARA EL EJERCICIO DE LAS ACTIVIDADES SIGUIENTES
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 106.
 
 Es objeto de este derecho la autorización que otorga el Ayuntamiento, para el funcionamiento de establecimientos comerciales e industriales fuera de horario establecido en el Bando Municipal de Reglamento respectivo.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 107.
 
 Son sujetos de este derecho las personas físicas, morales o unidades económicas que requieran la autorización para el funcionamiento de sus establecimientos comerciales en horas extraordinarias.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 108.
 
 Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 109.
 
@@ -651,15 +709,23 @@ VII.- Hoteles, Moteles y Casa de Huéspedes.
 
 #### SECCION OCTAVA. DERECHOS POR AUTORIZACION PARA LA VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTO
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 110.
 
 Es objeto de este derecho la autorización para hacer uso de propaganda fonética en la vía pública.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 111.
 
 Este derecho se causará y pagará de acuerdo con la tarifa del anexo de cuotas y tarifas de esta Ley para cada Municipio.
 
 #### SECCION NOVENA. DERECHOS POR AUTORIZACION DE REGISTRO DE PERITOS EN OBRAS PARA CONSTRUCCION
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 112.
 
@@ -681,19 +747,29 @@ g).- Meseros;
 
 h).- Otras actividades semejantes.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 113.
 
 Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
 
 #### SECCION DECIMA. DERECHOS POR AUTORIZACION DE REPARACION DE CASAS, EDIFICIOS Y FACHADAS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
+
 ###### ARTICULO 114.
 
 Es objeto de este derecho la autorización para la renta de lotes de terrenos en fraccionamiento.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 115.
 
 Son sujetos de este derecho las personas físicas morales o unidades económicas que obtengan licencia o autorización para la venta de lotes de terrenos en fraccionamiento.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 116.
 
@@ -701,9 +777,13 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 117.
 
-Es objeto de este derecho, la autorización del Registro de Peritos en obras de construcción.
+Es objeto de este derecho, las licencias para la construcción del Registro de Peritos en obras de construcción.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 118.
 
@@ -711,11 +791,21 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
+
 #### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 119.
 
-Es objeto de este derecho la autorización para la reparación de casas, edificios y fachadas.
+Es objeto de este derecho las licencias para la reparación de casas, edificios y fachadas.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 120.
 
@@ -723,9 +813,13 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 121.
 
 Es objeto de este derecho la autorización para la construcción de toda clase de bardas en territorio de los Municipios del Estado.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 122.
 
@@ -733,9 +827,15 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION DECIMA QUINTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE PAVIMENTO
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
+
 ###### ARTICULO 123.
 
-Es objeto de este derecho la autorización para la demolición de bardas por metro (sic) cúbicos.
+Es objeto de este derecho las licencias para la construcción para la demolición de bardas por metro (sic) cúbicos.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 124.
 
@@ -745,7 +845,9 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 ###### ARTICULO 125.
 
-Es objeto de este derecho, la autorización para la construcción de banquetas.
+Es objeto de este derecho, las licencias para la construcción de banquetas.
+
+> <small>N. DE E. SUSPENDIDO DE ACUERDO CON LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 126.
 
@@ -755,7 +857,9 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 ###### ARTICULO 127.
 
-Es objeto de este derecho la autorización para la construcción de guarniciones.
+Es objeto de este derecho las licencias para la contruccion de guarniciones.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 128.
 
@@ -763,15 +867,21 @@ Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuo
 
 #### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 129.
 
-Es objeto de este derecho la autorización para la construcción de toda clase de pavimento, en territorio de los Municipios del Estado.
+Es objeto de este derecho las licencias para la construcción de toda clase de pavimento, en territorio de los Municipios del Estado.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 130.
 
 Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
 
 #### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 131.
 
@@ -795,6 +905,8 @@ Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuo
 
 #### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 135.
 
 Es objeto de este derecho la autorización para ocupar la vía pública como estacionamiento de vehículos particulares y comerciales en la extensión que señale la Presidencia Municipal.
@@ -809,6 +921,8 @@ Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuo
 
 Es objeto de este derecho, los servicios de vigilancia que el Municipio presta a los rastros particulares que se encuentran en el territorio del mismo.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 138.
 
 Son sujetos de este derecho, las personas físicas, morales o unidades económicas, que soliciten este servicio, quienes deberán cubrir este gravamen manifestando mensualmente en la Tesorería Municipal, por medio de una relación, el número de cabezas sacrificadas por especie durante el mes anterior.
@@ -821,13 +935,19 @@ Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuo
 
 Es objeto de este derecho, la vigilancia de la autorización para explotar el servicio Municipal de recepción, guarda y devolución de automóviles y camiones.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 141.
 
 Son sujetos de este derecho, las personas físicas, morales o unidades económicas que obtengan la autorización del Ayuntamiento para la explotación de los servicios de estacionamientos públicos concesionados a particulares.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 142.
 
 Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 143.
 
@@ -841,9 +961,13 @@ a).- Inspección de vigilancia de cabarets, centros nocturnos y los demás compr
 
 b).- Accesorios para actividades lucrativas similares, por apertura, cesión de derechos de licencias o permisos, traspaso o cambio de actividad, o razón social o cualquier otra operación similar, así como otros servicios de inspección y vigilancia diversos.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 145.
 
 Son sujetos de este derecho las personas físicas, morales que estén obligadas al pago de derechos por servicios de inspección y vigilancia a que se refiere el Artículo que antecede quien reciba la prestación de cualquiera de estos servicios por parte del Ayuntamiento.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 146.
 
@@ -887,9 +1011,13 @@ e).- Tarjeta semestral de identificación personal;
 
 f).- Por la apertura, cesión de derechos de licencias o permiso, traspaso, cambio de giro, cambio de razón social o cualquiera otra operación similar.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
 ###### ARTICULO 147.
 
 Queda a juicio de las autoridades Municipales la clasificación de las actividades de los establecimientos a que se refiere el artículo que antecede.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 148.
 
@@ -1170,3 +1298,9 @@ Por lo tanto mando se imprima publique y circule para su debido cumplimiento, DE
 Dado en el Palacio del Poder Ejecutivo de la Ciudad de Pachuca de Soto, Estado de Hidalgo a los 31 días del mes de diciembre de 1982.
 
 El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL DE LA LAMA.- Secretario General de Gobierno.- ROBERTO VALDESPINO CASTILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
