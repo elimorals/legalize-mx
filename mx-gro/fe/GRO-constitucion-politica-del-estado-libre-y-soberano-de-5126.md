@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1991-12-13"
+last_updated: "1992-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1992.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -453,15 +453,59 @@ El Estado tiene facultades para concertar con sus Municipios, la Federación, y 
 
 El Estado de Guerrero es Libre y Soberano en su régimen interior y podrá darse las Leyes necesarias para su organización y desarrollo, sin contravenir lo estipulado por la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 25.
 
-El Poder del Estado reside en el pueblo y se ejerce por los órganos que lo representan de acuerdo con el artículo 41 de la Constitución Federal y con arreglo a esta Constitución.
+El Poder del Estado reside en el pueblo y se ejerce por los órganos que lo representan, en los términos respectivamente establecidos por la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1988)</small>
+Los Partidos Políticos, son entidades de interés público; la Ley determinará las formas específicas de su intervención en el Proceso Electoral.
 
-El Poder Ejecutivo someterá a consulta de la ciudadanía, conforme a las técnicas y métodos de referéndum, los asuntos que de manera trascendente afecten el bienestar popular y reclamen importantes recursos fiscales. Asimismo, dentro del proceso de planeación democrática del desarrollo, consultará a la propia ciudadanía, en los términos de Ley, sobre las prioridades y estrategias estatales.
+Los Partidos Políticos, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+Podrán constituirse Partidos Políticos estatales, cuando reúnan los requisitos y desenvuelvan los procedimientos que la Ley establezca.
+
+Los Partidos Políticos Nacionales, tendrán derecho a participar en las elecciones locales, debiendo sujetarse a lo dispuesto por la Ley.
+
+El registro de los Partidos Políticos, se ajustará a lo que las Leyes dispongan, pudiendo conservar el mismo por el plazo que determine; aquellos Partidos Políticos que lo hayan perdido ante las Autoridades Federales.
+
+Los Partidos Políticos gozarán de derechos y prerrogativas de acuerdo con las formas y procedimientos que establezca la Ley y entre los cuales figurarán el acceso a la radio y televisión propiedad del Gobierno del Estado, gozarán del régimen fiscal, contarán con subsidio público y tendrán la facultad exclusiva de nominar candidatos a cargos de elección popular, cuando no hayan estado afiliados a otros partidos durante los 2 años antes del registro de candidato.
+
+La organización de las elecciones locales, es una función estatal que se ejerce por el Poder Legislativo del Estado, con la participación de los Partidos Políticos y de los ciudadanos, según lo disponga la Ley. Esta función se realizará a través de un Consejo Estatal Electoral de carácter técnico, adscrito orgánicamente al Poder Legislativo. La certeza, legalidad, imparcialidad y objetividad, serán principios rectores en el ejercicio de esta función estatal.
+
+El Consejo Estatal Electoral, se integrará de la manera siguiente: Un Presidente, que será el Coordinador del Congreso; Consejeros Ciudadanos, Representantes de los Partidos Políticos y por una Secretaría Técnica.
+
+Para mantener las condiciones que aseguren la imparcialidad y objetividad de la función electoral, el número de Consejeros Ciudadanos equivaldrá a la diferencia entre los Representantes del Partido Mayoritario con los Partidos Minoritarios más uno.
+
+Los Representantes de los Partidos Políticos, se determinarán de acuerdo a las siguientes reglas:
+
+a). Los Partidos tendrán Representantes en proporción a las curules con que cuenten en la Cámara de Diputados;
+
+b). Los Partidos con registro definitivo que no tengan representación en la Cámara, nombrarán discrecionalmente un Representante;
+
+c). Los Partidos Políticos que participen en el Proceso Electoral con registro condicionado, nombrarán un Representante, únicamente con derecho a voz;
+
+d). Por cada Representante Propietario habrá un suplente; y
+
+e). Los Partidos Políticos que tengan más de cinco representados podrán designar un representante común por cada cinco, para que actúen ante el Consejo, el que tendrá los votos de sus representados.
+
+El Consejo Estatal Electoral, será autoridad en la materia y autónomo en sus decisiones; contará en su estructura con Consejeros Distritales y Municipales; de igual manera, contará con órganos de vigilancia. Los ciudadanos formarán las Mesas Directivas de Casilla. Estos órganos se integrarán de la manera que lo establezca la Ley.
+
+Los Organos Electorales, agruparán para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral e impresión de materiales electorales. Los Consejos Distritales participarán en las elecciones de Diputados y Gobernador y los Consejos Municipales en las de Ayuntamientos y Diputados. Las sesiones de los Organos Colegiados Electorales, serán públicas en los términos que disponga la Ley.
+
+La Ley, establecerá un sistema de medios de impugnación, de los que conocerán los Organos Electorales y el Tribunal Electoral, que será Organo Jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los Procesos Electorales y garantizará que los actos y resoluciones, se sujeten invariablemente al principio de legalidad.
+
+El Tribunal, se integrará por un Magistrado del Tribunal Superior de Justicia quién lo presidirá, un Magistrado del Tribunal de lo Contencioso Administrativo y el Presidente de la Comisión de Defensa de los Derechos Humanos, siempre y cuando no hayan desempeñado cargo alguno de elección popular durante diez años anteriores a la fecha de la elección. Los Magistrados del Tribunal Superior de Justicia y del Contencioso Administrativo, serán nombrados por el Pleno de sus respectivos Tribunales, debiendo designarse un suplente para cada uno de ellos.
+
+El Tribunal Electoral, tendrá la competencia y organización que determine la Ley; funcionará en Pleno, resolverá en una sola instancia y sus Sesiones serán públicas, nombrará a los Jueces Instructores y al resto del personal. Para el ejercicio de sus funciones, contará con un cuerpo de Magistrados y Jueces Instructores, los cuales serán independientes y responderán sólo al mandato de la Ley. Sus resoluciones se sujetarán a las siguientes reglas:
+
+a). Cuando sean aprobadas por unanimidad, no procederá juicio ni recurso alguno ni podrán ser modificadas o revocadas por el Colegio Electoral; y
+
+b). Cuando sean aprobadas por mayoría de votos, el Colegio Electoral, contando con el voto de las dos terceras partes de sus miembros, podrá modificarlas o revocarlas.
+
+Los Consejeros Ciudadanos del Consejo Estatal Electoral y los Magistrados del Tribunal, deberán satisfacer los requisitos que señale la Ley.
+
+Los Consejeros Ciudadanos, serán designados por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Coordinador del Congreso. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Consejeros. La Ley señalará las reglas y el procedimiento correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -489,17 +533,15 @@ El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CON
 
 La elección de los miembros del Congreso Local será directa y en los términos que disponga la Ley Electoral respectiva.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 29.
 
-El Congreso del Estado se compondrá por 24 Diputados electos según el principio de votación mayoritaria relativa, conforme al número de Distritos Electorales y hasta por 12 Diputados de Representación Proporcional que serán asignados en los términos y condiciones que establece la Ley Electoral del Estado y en lo conducente el Artículo 54 de la Constitución General de la República. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado, se compondrá por 28 Diputados Uninominales, electos conforme al número de Distritos Electorales y hasta por 14 Diputados Plurinominales, y los demás que en su caso la Ley señale, que serán asignados en los términos y condiciones que establezca la Ley.
 
-Los Diputados de mayoría y los de representación proporcional tendrán la misma categoría legal e iguales derechos y obligaciones, concurriendo a la integración y a las resoluciones del H. Congreso, las cuales se tomarán invariablemente conforme al principio de mayoría de los asistentes a sesión.
+Por cada Diputado Propietario se elegirá un suplente.
 
-En congruencia con el artículo 41 de la Constitución General de la República los Partidos políticos son Entidades de interés público y tendrán los derechos y disfrutarán de las prerrogativas que las leyes otorguen.
-
-El registro de los Partidos políticos se ajustará a lo que las leyes dispongan, pudiendo conservar el mismo por el plazo que las propias leyes establezcan aquellos partidos políticos que lo hayan perdido ante las autoridades federales.
+Los Diputados Uninominales y Plurinominales, tendrán la misma categoría legal e iguales derechos y obligaciones, concurriendo a la integración y a las resoluciones del H. Congreso, las cuales se tomarán invariablemente conforme al principio de mayoría de los asistentes a Sesión.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -551,9 +593,9 @@ I.- Ser ciudadano guerrerense en ejercicio pleno de sus derechos.
 
 II.- Tener veintiún años de edad cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
 
-III.- Ser originario del Distrito que pretenda representar o tener una residencia efectiva en el mismo no menor de 5 años inmediatamente anteriores al día de la elección. Tanto los 6 Diputados de representación proporcional que pueda obtener el Partido mayoritario como máximo y los 6 que correspondan a los minoritarios, deberán ser originarios o tener esa residencia efectiva en la circunscripción plurinominal respectiva.
+III.- Ser originario del Distrito que pretenda representar o tener una residencia efectiva en el mismo no menor de 5 años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1986)</small>
 
@@ -713,9 +755,9 @@ b).- Que la elección hubiere sido declarada nula.
 
 c).- Cuando, sin causa justificada, no concurrieren los miembros necesarios para su instalación.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
 
-XXII.- Erigirse el 27 de enero del año correspondiente, en Colegio Electoral con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios.
+XXII.- Erigirse en Colegio Electoral, con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios;
 
 XXIII.- Discutir y aprobar en su caso, en el improrrogable término de diez días a partir de que son recibidos los nombramientos de Magistrados del Tribunal Superior de Justicia hechos por el Gobernador.
 
@@ -763,7 +805,9 @@ XL.- Expedir las Leyes que rijan las relaciones laborales del Estado, los Munici
 
 XLI.- Legislar en materia del Patrimonio Familiar.
 
-XLII.- Expedir su propia Ley Orgánica.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+
+XLII.- Expedir su Ley Orgánica, misma que determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados.
 
 XLIII.- Establecer en favor de los Municipios las contribuciones, rendimientos de los bienes que les pertenezcan y otros ingresos que a su juicio deban incorporar a su patrimonio.
 
@@ -1167,6 +1211,10 @@ El Presidente de la Comisión será nombrado por el Poder Ejecutivo, pero ese no
 
 El Presidente presentará anualmente al Congreso un informe sobre las actividades de la Comisión, y al efecto, podrá comparecer ante el mismo.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+Cuando conforme al régimen de excusas y recusaciones propio de la actividad jurisdiccional y al artículo 102 de la Constitución General de la República, el Presidente de la Comisión considere que entratándose de un proceso electoral, no procede integrar el Tribunal Electoral que instituye el artículo 25 de esta Constitución, el Congreso del Estado, por mayoría de las dos terceras partes de sus asistentes, o por insaculación, en su caso, nombrará al tercer magistrado de entre los Notarios Públicos en activo para que lo sustituya. Cada grupo parlamentario podrá hacer una propuesta, siempre y cuando el Notario propuesto no haya desempeñado un cargo de elección popular en los últimos 10 años.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
@@ -1375,7 +1423,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1407,27 +1455,59 @@ Los Ayuntamientos se instalarán el 2 de diciembre del año en que deban renovar
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo por más de quince días, sin causa justificada, será sustituido por su suplente, o se procederá según lo disponga la Ley.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 97.
 
-Los Ayuntamientos se integrarán por el principio de mayoría relativa y por el de Representación Proporcional a partir de las siguientes bases:
+Los Ayuntamientos se integrarán a partir de las siguientes bases:
 
-I.- En los Municipios con más de 150 mil habitantes los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores. Cuando posean entre 150 y 300 mil habitantes las formarán también 10 Regidores y 15, si exceden esa cantidad. En el primer caso, habrá además, hasta cuatro Regidores que se eligirán (sic) por el principio de representación proporcional, y en el segundo hasta cinco Regidores.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1992)</small>
+
+I.- En los Municipios con más de 150 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores; cuando posean entre 150 mil y 300 mil habitantes, los formarán también catorce Regidores y hasta veinte si exceden esa cantidad.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1988)</small>
 
 El primer Síndico conocerá de los asuntos de orden administrativo, financiero, contable y patrimonial, en tanto que el segundo será competente en materia de justicia, seguridad pública y policía y buen gobierno;
 
-II.- En los Municipios con población de 75 a 150 mil habitantes, los Ayuntamientos estarán formados por un Presidente, un Síndico y 8 Regidores, pudiendo haber hasta tres Regidores más según el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
 
-III.- En los Municipios que reúnan entre 25 y 75 mil habitantes los Ayuntamientos se integrarán por un Presidente, un Síndico y 5 Regidores, y hasta con dos Regidores de representación proporcional; y
+II.- En los Municipios con población de 75 mil a 149,999 habitantes, los Ayuntamientos estarán formados por un Presidente, un Síndico y hasta once Regidores;
 
-IV.- En los Municipios con menos de 25 mil habitantes, además del Presidente y del Síndico, habrá cuatro Regidores, y hasta dos Regidores de representación proporcional.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
 
-Por cada miembro del Ayuntamiento se elegirá un Suplente.
+III.- En los Municipios que reúnan entre 25 mil y 74,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta siete Regidores;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1989)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
 
-Las elecciones se harán en los términos que señala la Ley Electoral del Estado, pero en todo caso, cuando se obtenga en las mismas 5% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación que se haya obtenido, accediendo a ellas los candidatos a presidentes municipales cuando no hayan triunfado sus plantillas. Dichos candidatos podrán figurar en la lista de candidatos a diputados de minoría de su partido, sin que para la presentación de esa lista sea necesario un número mínimo de nominaciones, pudiendo asignarse también, regidurías de representación proporcional a los candidatos a diputados, sean de mayoría o de minoría, cuando no hayan obtenido el triunfo de sus fórmulas.
+IV.- En los Municipios con menos de 25 mil habitantes, además del Presidente y del Síndico, habrá hasta seis Regidores.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+Por cada miembro Propietario, se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+Las elecciones se harán en los términos que señala la Ley, pero en todo caso la Planilla se integrará únicamente por Presidente y Síndico o Síndicos; debiendo registrarse además una lista de candidatos a Regidores de Representación Proporcional
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+La distribución de las Regidurías, se hará tomando en cuenta los siguientes criterios:
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+a). El 50% de las Regidurías, serán adjudicadas al Partido que resulte triunfador;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+b). El 25% de las Regidurías, serán para el Partido que obtenga el segundo lugar de la votación, siempre y cuando alcance la cuarta parte de la votación total como mínimo.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+En el caso de que el Partido que ocupe el segundo lugar no alcance dicho porcentaje, la distribución se hará conforme a lo dispuesto por el siguiente inciso:
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+c). El otro 25% de las Regidurías, se distribuirá entre los otros Partidos Políticos que hayan participado, y que hubieren obtenido el 1.5% o más de la votación total, en orden decreciente.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1799,7 +1879,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2490,3 +2570,27 @@ P.O. 13 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE ENERO DE 1992.
+
+DECRETO NUMERO 227.
+
+###### ARTICULO PRIMERO.
+
+Para el caso de candidatos de Partidos con registro condicionado, se estará a lo que resuelva la Ley Reglamentaria.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes Reformas y Adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se deroga toda disposición legal que se oponga a lo prevenido en este Decreto de Reformas y Adiciones.
+
+P.O. 17 DE ENERO DE 1992.
+
+DECRETO NUMERO 228.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de Reformas y Adiciones al Artículo 76 Bis de la Constitución Política del Estado Libre y Soberano de Guerrero entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
