@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1938-10-29"
+last_updated: "1939-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1939.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -265,11 +265,13 @@ Se elegirá un Diputado por cada cien mil habitantes o fracción mayor de cincue
 
 Para ser Diputado Propietario o Suplente se requiere: ser ciudadano en el ejercicio de sus derechos; ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos; haber cumplido veinticinco años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1939)</small>
+
 ###### ARTICULO 35.
 
 No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Glosa y el Tesorero General.
 
-Tampoco podrán ser electos Diputados, los funcionarios de la Federación y los demás del Estado, si no se separan de sus cargos ciento ochenta días antes de la elección. Los militares en servicio activo podrán ser electos si estuvieren separados del servicio activo con dos años de anticipación. Para los efectos de esta última disposición, se considerarán también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
+Tampoco podrán ser electos Diputados los funcionarios de la Federación y los demás del Estado, y los militares, si no se separan de sus cargos con anticipación de 90 días antes de la fecha de la elección. Para los efectos de esta última disposición, se consideran también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
 
 ###### ARTICULO 36.
 
@@ -585,15 +587,19 @@ El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se 
 
 La elección de Gobernador será directa. La Legislatura del Estado hará la computación de votos y su calificación y declarará electo al ciudadano que hubiere obtenido la mayoría absoluta de los votos emitidos, haciéndolo saber al pueblo del Estado, por medio de un decreto. Si ningún ciudadano hubiere obtenido la mayoría absoluta, la Legislatura convocará a nuevas elecciones en las que solamente figurarán los dos candidatos que hubieren obtenido mayor número de sufragios en la elección que se ha calificado, siendo nulos los votos que se emitieren en favor de cualquier otro ciudadano. El Secretario General del Despacho asumirá el cargo de Gobernador interino mientras tome posesión el nuevamente electo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
+
 ###### ARTICULO 68.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador del Estado, se requiere:
 
 I. Ser mexicano por nacimiento, en el ejercicio de sus derechos y nativo del Estado, o vecino de él durante un período no menor de cinco años inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular;
 
 II. Tener treinta y cinco años cumplidos el (sic) día de la elección;
 
-III. No ser Presidente de la República, Secretario de Estado, Secretario General del Despacho, Magistrado del Tribunal Superior, Procurador General o Tesorero General del Estado, a menos que se separen dos años antes del día de la elección. Los demás funcionarios del Estado podrán ser electos, siempre que se separen de sus cargos, ciento ochenta días antes de la elección;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1939)</small>
+
+III. No ser Presidente de la República, Secretario de Estado, Secretario del Despacho, Magistrado del Tribunal Superior, Procurador General, Tesorero General del Estade (sic), ni algún otro funcionario del propio Estado, a menos que se separe ciento ochenta días antes de la fecha de la elección;
 
 IV. No ser funcionario judicial de la Federación con jurisdicción en el Estado, a no ser que renuncie su cargo ciento ochenta días antes de la elección;
 
@@ -601,7 +607,9 @@ V. No haber intervenido directa ni indirectamente en alguna asonada, motín o cu
 
 VI. No tener parentesco de consanguinidad en los cuatro primeros grados, ni de afinidad en los dos primeros, con el Gobernador saliente;
 
-VII. Separarse del servicio activo con dos años de anticipación al día de la elección, si se trata de miembros del Ejército Nacional o de las fuerzas de seguridad pública del Estado;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1939)</small>
+
+VII. Separarse del servicio activo con ciento ochenta días de anticipación al día de la elección si se trata de miembros del Ejército Nacional, o de las fuerzas de seguridad pública del Estado;
 
 VIII. Tener un modo honesto de vivir.
 
@@ -753,7 +761,7 @@ II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las fa
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
+IV. Impedir por motivo alguna directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
 V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
 
@@ -1360,3 +1368,7 @@ DECRETO No. 22, QUE REFORMA EL ARTICULO 99 DE LA CONSTITUCION POLITICA DEL ESTAD
 Primero.- Los Concejales de número par que se designen en la elección ordinaria de diciembre de mil novecientos treinta y nueve, durarán en su encargo sólo el año de mil novecientos cuarenta.
 
 Segundo.- En los comicios municipales que se efectuarán en diciembre de mil novecientos cuarenta, será electa la totalidad de los consejales (sic) de los Ayuntamientos.
+
+P.O. 15 DE ABRIL DE 1939.
+
+Unico.- El presente decreto empezará a surtir sus efectos legales, desde la fecha de su publicación en el Periódico Oficial del Estado.
