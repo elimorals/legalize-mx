@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-no-3-1992-por-el-que-se-dan-a-conocer-los-organos-64010
 country: "mx"
 rank: "acuerdo"
 publication_date: "1992-09-18"
-last_updated: "1994-04-21"
+last_updated: "1996-02-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-09-11"
 
 ACUERDO No. 3/1992 DEL TRIBUNAL EN PLENO DEL DIA ONCE DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y DOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO NO. 1/1996 DEL TRIBUNAL EN PLENO DEL DIA DIECINUEVE DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y SEIS, PUBLICADO EN EL D.O.F. DE 28 DE FEBRERO DE 1996, EL PRESENTE ORDENAMIENTO HA QUEDA SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 18 de septiembre de 1992.
 
@@ -83,7 +85,7 @@ IV.- Comunicará, para los efectos señalados en el último párrafo del artícu
 
 > <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO NO. 2/1994 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 21 DE ABRIL DE 1994)</small>
 
-V.- Guardará las declaraciones sobre situación patrimonial de los servidores públicos a que se refiere el punto Primero Bis.
+V.- Guardará las declaraciones sobre situación patrimonial de los servidores públicos a que se refiere el punto Primero Bis
 
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO NO. 2/1994 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 21 DE ABRIL DE 1994)</small>
 
@@ -193,7 +195,7 @@ SEXTO.- Las declaraciones sobre situación patrimonial de los servidores públic
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], POR EL PUNTO UNICO DEL ACUERDO NO. 2/1994 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 21 DE ABRIL DE 1994)</small>
 
-SEPTIMO.- El Presidente de la Suprema Corte de Justicia recibirá en cualquier tiempo queja o denuncia relacionada con la situación patrimonial de los servidores públicos del Poder Judicial de la Federación, por escrito proveniente de los particulares, para que el Pleno de la Suprema Corte de Justicia de la Nación o la Comisión de Gobierno y Administración, según corresponda, ejerzan, si lo estiman procedente, las facultades que se les señalan en la fracción I del punto Primero Bis y la fracción II del punto Segundo de este Acuerdo, respectivamente.
+SEPTIMO. El Presidente de la Suprema Corte de Justicia recibirá en cualquier tiempo queja o denuncia relacionada con la situación patrimonial de los servidores públicos del Poder Judicial de la Federación, por escrito proveniente de los particulares, para que el Pleno de la Suprema Corte de Justicia de la Nación o la Comisión de Gobierno y Administración, según corresponda, ejerzan, si lo estiman procedente, las facultades que se les señalan en la fracción I del punto Primero Bis y la fracción II del punto Segundo de este Acuerdo, respectivamente.
 
 OCTAVO.- Los órganos y los titulares mencionados en el artículo Primero del Acuerdo Plenario 7/89, cuando a su juicio se encuentre probada la responsabilidad de algún servidor público del Poder Judicial de la Federación, le impondrá, en los términos del mismo acuerdo, la sanción que proceda, y, en su caso, declarará y comunicará formalmente al Ministerio Público Federal que en la investigación se encontraron elementos sobre un incremento sustancial no justificado en el patrimonio de dicho servidor, y que éste pudo haber incurrido en la comisión de algún delito.
 
@@ -232,3 +234,11 @@ D.O.F. 21 DE ABRIL DE 1994.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 28 DE FEBRERO DE 1996.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Quedan sin efectos los Acuerdos Plenarios 3/1992 y 2/1994 de fechas once de septiembre de mil novecientos noventa y dos y doce de abril de mil novecientos noventa y cuatro, respectivamente, así como todos aquellos que se opongan a lo acordado en el presente.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
