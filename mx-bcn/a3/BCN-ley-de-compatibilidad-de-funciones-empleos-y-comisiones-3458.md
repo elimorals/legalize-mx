@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-compatibilidad-de-funciones-empleos-y-comisiones-3458"
 country: "mx"
 rank: "ley"
 publication_date: "1967-07-20"
-last_updated: "1967-07-20"
+last_updated: "1989-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE COMPATIBILIDAD DE FUNCIONES, EMPLEOS Y COMISIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1967.
 
@@ -83,9 +83,11 @@ e).- Aquellos en los que el Ejecutivo del Estado autorice la interferencia, por 
 
 Es incompatible la percepción simultánea de becas y remuneraciones con cargo al Presupuesto de Egresos del Estado. Igualmente es incompatible la percepción simultánea de pensiones y remuneraciones con cargo al Erario Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+
 ###### ARTICULO 6o.
 
-Para la aplicación de las reglas de Compatibilidad establecidas en esta Ley, las actividades personales se clasifican de la manera siguiente:
+Para la aplicación de las reglas de compatibilidad establecidas en esta Ley, las actividades personales se clasifican de la manera siguiente:
 
 I.- Grupo Administrativo, treinta y seis horas semanarias.
 
@@ -111,15 +113,23 @@ d).- Director de Escuela Secundaria, treinta y seis horas semanarias.
 
 e).- Subdirector de Escuela Secundaria, treinta y seis horas semanarias.
 
-f).- Director de Escuela Primaria, veinticinco horas semanarias.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
-g).- Profesor de Educación Primaria, de veintidós a veinticinco horas semanarias.
+f).- Director de Escuela Primaria, veinte horas semanarias.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+
+g).- Profesor de Educación Primaria, veinte horas semanarias.
 
 h).- Inspectora de Jardines de Niños, treinta horas semanarias.
 
-i).- Directora de Jardín de Niños, veinticinco horas semanarias.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
-j).- Educadora, veintidós a veinticinco horas semanarias.
+i).- Directora de Jardín de Niños, veinte horas semanarias.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+
+j).- Educadora, veinte horas semanarias.
 
 k).- Director de Instituto de Ciencias y Artes, treinta y seis horas semanarias.
 
@@ -236,3 +246,11 @@ EL SECRETARIO GRAL. DE GOBIERNO
 DR. FEDERICO MARTINEZ MANAUTOU.
 
 (firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
