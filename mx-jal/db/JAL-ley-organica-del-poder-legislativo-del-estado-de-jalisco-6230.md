@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-05-13"
+last_updated: "1999-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -259,11 +259,11 @@ La Directiva del Congreso la constituyen el Presidente, el Vicepresidente, dos S
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1999)</small>
 
 ###### Artículo 18.
 
-La Directiva se renovará mensualmente, en consecuencia en la última sesión de cada mes, deberá elegirse de entre los diputados nueva Directiva. La elección se verificará de entre los diputados por mayoría de votos emitidos por cédulas, la declaratoria respectiva la hará quien presida la sesión en que ésta se haga.
+La Directiva se renovará mensualmente. Los diputados procederán a elegirla en sesión que se efectúe con anticipación no mayor de catorce días, respecto al comienzo del mes en que aquella deba fungir. La elección se hará por mayoría de votos y la declaratoria será pronunciada por quien presida la sesión en que ésta se haga.
 
 ###### Artículo 19.
 
@@ -1944,5 +1944,9 @@ DECRETO QUE REFORMA ART. 11, P.O. 25 DE FEBRERO DE 1999
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 13 DE MAYO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE JUNIO DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
