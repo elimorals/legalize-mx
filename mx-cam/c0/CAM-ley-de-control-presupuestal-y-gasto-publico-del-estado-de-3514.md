@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-gasto-publico-del-estado-de-3514"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-13"
-last_updated: "1999-10-20"
+last_updated: "2002-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CONTROL PRESUPUESTAL Y GASTO PUBLICO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de marzo de 1992.
 
@@ -41,11 +41,21 @@ LEY DE CONTROL PRESUPUESTAL Y GASTO PUBLICO DEL ESTADO DE CAMPECHE
 
 ### CAPITULO I. GENERALIDADES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 1.
 
-El presupuesto y gasto público estatal se norman y regulan por las disposiciones de esta ley, la que será aplicada por el Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración. Las dependencias y entidades de la Administración Pública Estatal se sujetarán, en su ejercicio, a lo que estipula la presente Ley.
+La presente ley tiene por objeto establecer las bases generales para:
+
+I.- La formulación de la Ley de Ingresos del Estado;
+
+II.- La formulación de la Ley de Presupuesto de Egresos del Estado;
+
+III.- Llevar a cabo la contabilidad gubernamental; y
+
+IV.- Ejecutar el gasto público.
+
+Son sujetos de la presente ley los Poderes Legislativo, Ejecutivo y Judicial y los Organismos Públicos Autónomos por disposición constitucional.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -81,11 +91,11 @@ Las dependencias y entidades deberán planear, programar, presupuestar, controla
 
 Será objeto de la presente Ley el control del ejercicio de los presupuestos de egresos aprobados por el Congreso del Estado, por parte de las autoridades y entidades referidas en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 5.
 
-La Secretaría de Finanzas y Administración llevarán el control del ejercicio presupuestal.
+En el manejo de la hacienda pública los sujetos de esta ley deberán guardar el equilibrio entre los ingresos pronosticados y los egresos que deban realizar.
 
 ###### ARTICULO 6.
 
@@ -155,9 +165,13 @@ Será causa de responsabilidad de los titulares de las dependencias y entidades 
 
 El gasto público estatal se sustentará en las Leyes de Ingresos y de Presupuesto de Egresos del Estado, las que se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución. Ambas se elaborarán por año de calendario, se basarán en costos estimados y se apegarán al Plan Estatal de Desarrollo y a los programas que de él deriven.
 
-Los proyectos de presupuestos de egresos de las dependencias de los Poderes Legislativo, Ejecutivo y Judicial, así como de las entidades de la Administración Pública Estatal serán debidamente integrados por la Secretaría, en un sólo documento, que conformará la iniciativa de Ley de Presupuesto de Egresos del Estado, la cual se enviará al Congreso del Estado, por conducto del Ejecutivo, para su análisis y, en su caso, aprobación.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
-Para efecto de lo anterior, las dependencias de los Poderes Legislativo y Judicial enviarán sus respectivos proyectos al Gobernador del Estado, durante el curso del mes de noviembre del año inmediato anterior al en que deban ejercerse.
+Los proyectos de presupuestos de egresos de las dependencias y entidades, de los Poderes Legislativo y Judicial y de los Organismos Públicos Autónomos, serán debidamente integrados por la Secretaría en un sólo documento que conformará la iniciativa de Ley de Presupuesto de Egresos del Estado, la cual se enviará al Congreso del Estado, por conducto del Ejecutivo, para su análisis y, en su caso, aprobación.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Para efectos de lo anterior, los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos enviarán sus respectivos proyectos de presupuestos de egresos, al Gobernador del Estado, durante el curso del mes de noviembre del año inmediato anterior al en que deban ejercerse.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -165,11 +179,11 @@ Para efecto de lo anterior, las dependencias de los Poderes Legislativo y Judici
 
 La Secretaría, al hacer la integración de los proyectos de presupuestos de egresos, cuidará que simultáneamente se defina el tipo o fuente de recursos para su financiamiento y que se ajusten a las previsiones del proyecto de ley de ingresos estatal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 19.
 
-Para la formulación del proyecto de Ley de Presupuesto de Egresos del Estado, las dependencias y entidades elaborarán sus correspondientes anteproyectos con base en el Plan Estatal de Desarrollo y sus respectivos programas, y los remitirán a la Secretaría de conformidad con las normas, montos y plazos que el Ejecutivo oportunamente establezca y les dé a conocer, por conducto de la propia Secretaría.
+Para la formulación del proyecto de Ley de Presupuesto de Egresos del Estado, las dependencias y entidades elaborarán sus correspondientes anteproyectos atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público y teniendo como base el Plan Estatal de Desarrollo y los programas que de él se deriven, y los remitirán a la Secretaría de conformidad con las normas, montos y plazos que el Ejecutivo oportunamente establezca y les dé a conocer, por conducto de la propia Secretaría.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -233,7 +247,9 @@ b) Estimación de los ingresos correspondientes al cierre del ejercicio en curso
 
 c) Ingresos provenientes de la coordinación fiscal;
 
-d) Desglose de los ingresos propios, impuestos, derechos, productos y aprovechamientos del Estado;
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+d) Proposición de gastos del ejercicio fiscal para el que se propone, con el tabulador de puestos y sueldos de los Poderes del Estado y de los Organismos Públicos Autónomos;
 
 e) Los ingresos propios previstos por las entidades;
 
@@ -655,7 +671,9 @@ IV.- Destitución del puesto; e
 
 V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-La multa a que se refiere la fracción II podrá aplicarse a los particulares en los casos señalados en el segundo párrafo del artículo 76 de esta Ley. En lo no previsto, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+La multa a que se refiere la fracción II podrá aplicarse a los particulares en los casos señalados en el segundo párrafo del artículo 76 de esta Ley. En lo no previsto, se estará a lo dispuesto por la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 ###### ARTICULO 80.
 
@@ -706,3 +724,21 @@ P.O. 20 DE OCTUBRE DE 1999.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Campeche.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE JULIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor el día 16 de septiembre del año 2003.
+
+Segundo.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche expedida por la LI Legislatura de este Congreso, el 18 de diciembre de 1984, bajo decreto número 156, publicada en la Segunda Sección del Periódico Oficial del Estado el día 19 de ese mismo mes y año; y se derogan todas las demás disposiciones legales en lo que se opongan al contenido de este Decreto.
+
+TERCERO.- Las Instituciones Públicas que carezcan de los Órganos Internos de Control y sistemas a que aluden la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, dispondrán para su establecimiento de un plazo que no excederá de treinta días hábiles, contados a partir de la fecha en que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado entre en vigor, para lo cual realizarán las adecuaciones procedentes a su presupuesto de egresos, reglamentos interiores y manuales de organización o disposiciones equivalentes. La Secretaría de la Contraloría, una vez establecidos dichos Órganos Internos de Control les remitirá debidamente inventariados la documentación que obre en su poder y cuyo conocimiento y manejo corresponda a tales Órganos. Para este efecto la Secretaría contará con un plazo de treinta días hábiles contados a partir del día siguiente al en que se le comunique el establecimiento del respectivo Órgano Interno de Control.
+
+CUARTO.- Como integrantes de los Órganos Internos de Control no podrán fungir los servidores públicos que formen parte del órgano superior de dirección de la Institución Pública a la que ese Órgano corresponda.
+
+QUINTO.- Los servidores públicos que deban presentar declaración de situación patrimonial en los términos de la Ley Reglamentaria en cita y que conforme a la ley que se abroga no hayan tenido esa obligación, disponen por esta única vez de un plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entre en vigor la indicada Ley o del que se establezca el Órgano Interno de Control, según corresponda, para presentar la que indica la fracción I del artículo 88 de la invocada Ley Reglamentaria.
+
+SEXTO.- Los procedimientos administrativos disciplinarios que se encuentren en trámite al momento en que la referida Ley Reglamentaria entre en vigor serán resueltos conforme a los términos de la ley que se abroga y por la autoridad que esté conociendo de los mismos.
+
+SÉPTIMO.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+
+OCTAVO.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
