@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-fomento-economico-3630"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-27"
-last_updated: "1997-12-05"
+last_updated: "1998-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 27 de junio de 1995.
 
@@ -47,7 +47,7 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
 La Secretaría de Fomento Económico es la dependencia de la Administración Pública Estatal encargada de auxiliar al titular del Ejecutivo en la promoción, fomento, regularización y evaluación del desarrollo de la actividad económica del Estado en las áreas industriales, mineras, comerciales y de turismo, con las funciones y atribuciones que expresamente le encomienda la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, así como otras leyes, reglamentos, decretos, acuerdo y ordenes del Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 2º.
 
@@ -56,8 +56,6 @@ Al frente de la Secretaría habrá un Secretario quien tendrá a su cargo el des
 - Dirección General de Coordinación Política y Fideicomisos
 
 - Dirección General de Promoción y Fomento Económico
-
-- Dirección de Minería
 
 - Dirección Administrativa
 
@@ -201,7 +199,29 @@ XVIII.- Apoyar y, en su caso, asesorar a las Unidades de Promoción de la Secret
 
 XIX.- Ejecutar y dar seguimiento a la implementación del Programa de Micropaquetes Industriales; y
 
-XX.- Las demás que se le confiera y las que le señalen las disposiciones legales aplicables, así como las que le competen a las unidades administrativas que se le hubieren adscrito o le señale el Secretario.
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+XX.- Ejecutar las obras, que le sean autorizadas por la Secretaría de Finanzas y que tengan por objeto el cumplimiento exclusivo de los fines que persigue la Secretaria, mismos que se contemplan en el artículo 27, de la Ley Orgánica de la Administración Pública del Estado, las cuales se llevarán a cabo con apego a las disposiciones de la Ley de Obras Públicas y la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios ambos del Estado de Coahuila, así como de la normatividad que en la materia emita la Secretaría de la Contraloría y Modernización Administrativa, en el ámbito de su competencia.
+
+En los casos en que así lo establezcan las disposiciones legales vigentes o por la naturaleza de la obra, la Secretaría para los efectos del párrafo anterior deberá coordinarse con la Secretaría de Comunicaciones y Obras Públicas.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+XXI.- Promover, fomentar y evaluar el desarrollo de la actividad económica en materia de minería;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+XXII.- Apoyar en el diseño e instrumentación de los programas de detección de necesidades y oportunidades a las empresas mineras establecidas en la entidad; así como el fomento de la pequeña y mediana minería;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+XXIII.- Promover la inversión nacional y extranjera de las diversas áreas que derivan de la minería en el Estado, así como atender y dar seguimiento a las solicitudes de apoyo presentadas por el sector minero estatal;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+XXIV.- Coordinar la organización de eventos, foros, congresos y demás actividades similares en materia de minería, y participar en las diversas ferias, exposiciones y convenciones nacionales e internacionales, que fomente la inversión en este rubro; y
+
+XXV.- Las demás que se le confiera y las que le señalen las disposiciones legales aplicables, así como las que le competen a las unidades administrativas que se le hubieren adscrito o le señale el Secretario.
 
 ###### ARTICULO 9º.
 
@@ -283,39 +303,9 @@ X.- Promover la capacitación permanente del personal a su cargo para el desarro
 
 XI.- Las demás que las disposiciones legales les atribuyan, así como aquéllas que les confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 13.
 
-Corresponde al Director de Minería, previo acuerdo con el Director General de Coordinación de Política y Fideicomisos:
-
-I.- Apoyar en el diseño e instrumentación de los programas de detección de necesidades y oportunidades a las empresas mineras establecidas en la entidad;
-
-II.- Promover y fomentar las actividades de minería en el Estado, conforme a las disposiciones aplicables en la materia;
-
-III.- Realizar los estudios necesarios a efecto de proporcionar las bases mediante las cuales se establezcan las políticas en materia minera en la entidad por parte de las instancias competentes, atendiendo los ordenamientos jurídicos aplicables;
-
-IV.- Atender y dar seguimiento a las solicitudes de apoyo presentadas por el sector minero estatal;
-
-V.- Promover la inversión nacional y extranjera de las diversas áreas de la minería del Estado;
-
-VI.- Coordinar la organización de eventos, foros, congresos y demás actividades similares en materia minera;
-
-VII.- Asistir y participar en las diversas ferias, exposiciones y convenciones nacionales e internacionales relacionadas con la minería, a través de las cuales se promueve y fomente la inversión en este rubro en la entidad;
-
-VIII.- Promover la realización e (sic) cursos de capacitación y adiestramiento en las diversas áreas de la minería;
-
-IX.- Participar en la instrumentación de programas de apoyo a la minería social, en beneficio de grupos económicamente débiles;
-
-X.- Coordinar la elaboración y evaluación de programas interinstitucionales de fomento a la pequeña y mediana minería;
-
-XI.- Propiciar y apoyar la organización formal de los pequeños y medianos mineros;
-
-XII.- Promover medidas de coordinación, desregulación, descentralización y simplificación administrativa en beneficio del sector minero;
-
-XIII.- Promover el uso de tecnología para la modernización de la planta productora minera del Estado; y
-
-XIV.- Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el titular de la Secretaría y el Director General de Coordinación de Política y Fideicomisos.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 1998)
 
 ###### ARTICULO 14.
 
@@ -492,6 +482,12 @@ ING. JOSE ANTONIO MURRA GIACOMAN
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. DEL 5 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. DEL 13 DE NOVIEMBRE DE 1998.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
