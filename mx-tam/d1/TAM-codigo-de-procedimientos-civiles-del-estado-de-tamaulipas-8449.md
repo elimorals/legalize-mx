@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1961-10-04"
+last_updated: "1963-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1963
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -142,6 +142,20 @@ I.- El apercibimiento o amonestación;
 II.- La multa de veinte a cien pesos en los juzgados menores; de cincuenta a doscientos en los de primera instancia y de cien a quinientos en el Supremo Tribunal, y,
 
 III.- El arresto hasta por quince días en casos graves.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1963)</small>
+
+###### ARTICULO 15 Bis.
+
+Los Jueces y Magistrados para hacer cumplir sus determinaciones, pueden emplear, a su discreción, los siguientes medios de apremio:
+
+I.- Multa hasta de dos mil pesos, que se duplicará en caso de reincidencia. La imposición de esta sanción se hará saber a la autoridad fiscal, para su cobro.
+
+II.- El Auxilio de la fuerza pública, que deberá proporcionarse en el momento mismo en que sea solicitado. El Juez impondrá al Jefe de la Corporación o a quien haga sus veces, multa de cincuenta a quinientos pesos cuando no preste el auxilio solicitado. La imposición de esta sanción se comunicará a la autoridad fiscal, para su cobro.
+
+III.- El cateo por orden escrita. En cada caso se señalará su objeto y se autorizará la rotura de cerraduras si las circunstancias así lo exigen.
+
+IV.- El arresto hasta por quince días. La policía deberá informar a la autoridad judicial, en cada caso, la fecha en que se llevó a cabo la detención. Cuando el incumplimiento de la orden de arresto sea consecuencia de la negligencia o negativa del personal policíaco, se aplicará al o los responsables, multa de cincuenta a quinientos pesos, comunicándose esta sanción a las autoridades fiscales, para su cobro. Si la falta de su cumplimiento llegara a implicar la comisión de un delito, se consignarán los hechos a la autoridad competente. Todo requerimiento con apercibimiento de emplear medios de apremio, deberá hacerse personalmente a la parte que corresponda.
 
 ###### ARTICULO 16.
 
@@ -1511,7 +1525,7 @@ Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir
 
 ###### ARTICULO 209.
 
-En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión particular, por el tribunal que corresponda, se reintegrará al principal.
+En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación, pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión particular, por el tribunal que corresponda, se reintegrará al principal.
 
 ###### ARTICULO 210.
 
@@ -3785,7 +3799,7 @@ Si el inquilino opone excepciones o el actor desconoce u objeta de falsos los re
 
 No verificándose la desocupación en los términos señalados en el artículo 546, el juez, dentro de los siguientes cinco días dictará sentencia. Si las constancias de autos apareciere que dentro de aquellos el inquilino no demostró estar o haberse puesto al corriente, se le condenará a la desocupación y pago de lo debido; contra esta resolución procede el recurso de apelación en el efecto devolutivo. En su caso, el lanzamiento se llevará adelante y se entenderá con el ejecutado o en su defecto con cualquiera persona de la familia, doméstico, portero, agente de la policía o vecino, pudiéndose romper las cerraduras de las puertas de la casa si fuere necesario. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del demandado que los recoja u otra autorizada para ello, se entregarán por inventario al depositario que nombre el juez por cuenta del inquilino, dejándose constancia de esta diligencia en las actuaciones.
 
-El lanzamiento se ejecutará, no sólo contra el arrendatario o sus causahabientes, sino contra sus administradores, encargados, porteros o guardas, puestos en la finca, así como contra cualquier otra persona que la disfrute o tenga en uso precario por transmisión que le haya hecho el arrendatario.
+El lanzamiento se ejecutará, no sólo contra el arrendatario o sus causahabientes, sino contra sus administradores, encargados, porteros o guardas, puestos en la finca, así como contra cualquier otra persona que la disfrute o tenga en uso precario por trasmisión que le haya hecho el arrendatario.
 
 ###### ARTICULO 551.
 
@@ -7044,3 +7058,11 @@ V.- la caducidad de la instancia por inactividad de las partes se operará en lo
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dos días del mes de febrero de mil novecientos sesenta y uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 1963
+
+###### ARTICULO UNICO.
+
+Este Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
