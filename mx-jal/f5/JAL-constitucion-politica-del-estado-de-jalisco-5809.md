@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1972-01-18"
+last_updated: "1972-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1972.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -101,11 +101,11 @@ Los individuos a quienes el Consejo Electoral expida credenciales, declarando qu
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1961)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1972)</small>
 
 ###### Art. 9º.
 
-La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada ciento treinta mil habitantes, o fracción que exceda de setenta y cinco mil un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
+La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada 180,000 habitantes o fracción que exceda de 90,000, un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
 
 El Ejecutivo fijará la circunscripción de los Distritos Electorales y su cabecera.
 
@@ -117,7 +117,9 @@ Para ser Diputado se requiere:
 
 I. Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
-II. Tener 25 años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
+
+II. Tener 21 años cumplidos el día de la elección.
 
 III. Ser nativo de Jalisco o avecindado legalmente en él cuando menos dos años inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular, ni en defensa de la Patria y de sus instituciones.
 
@@ -241,7 +243,11 @@ Los proyectos de Ley aprobados por el Congreso, se remitirán al Ejecutivo, firm
 
 Son facultades del Congreso:
 
-I. Legislar en todos los ramos el régimen interior del Estado, expedir leyes y ejecutar actos sobre materias que la Constitución General encomienda a las Legislaturas locales.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
+
+I. Legislar en todas las ramas del régimen interior del Estado, expedir Leyes y ejecutar actos sobre materias que la Constitución General encomienda a las Legislaturas locales.
+
+Cuando se discuta una Ley o se estudie un negocio relativo al Poder Ejecutivo del Estado, el Congreso podrá citar a los titulares de las Dependencias del ramo de que se trate, para que informen.
 
 II. Facultar al Ejecutivo, con las limitaciones que crea necesarias para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
 
@@ -307,7 +313,9 @@ Son atribuciones de la Diputación Permanente:
 
 I. Conceder las licencias y permisos a que se refiere la Fracción XII del Artículo 23;
 
-II. Resolver sobre las modificaciones a los Presupuestos Municipales que propongan los Ayuntamientos;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
+
+II. Resolver sobre las modificaciones a los presupuestos municipales que propongan los Ayuntamientos y sobre sus peticiones para disponer de los depósitos legales en materia de agua y drenaje y plaza y pisos en mercados;
 
 III. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
 
@@ -319,7 +327,9 @@ VI. Recibir los expedientes electorales relativos a la elección de Diputados y 
 
 VII. Instalar las Juntas Preparatorias del nuevo Congreso;
 
-VIII. Autorizar a los Ayuntamientos a remover con causa justificada, a sus Tesoreros Municipales cuando dichas Corporaciones lo soliciten; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
+
+VIII. Nombrar a los empleados de la Secretaría del Congreso y de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente periodo de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo;
 
 IX. Nombrar los empleados de la Secretaría del Congreso o de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente período de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo.
 
@@ -792,3 +802,7 @@ UNICO.- Esta Ley entrará en vigor al día siguientes (sic) de su publicación e
 P.O. 18 DE ENERO DE 1972.
 
 UNICO.- Esta Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+P.O. 5 DE AGOSTO DE 1972.
+
+UNICO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de que se publique en el Periódico Oficial del Estado, la Declaratoria de que forman parte de la Constitución Política del Estado.
