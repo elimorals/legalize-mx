@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-de-proteccion-civil-de-monterrey-nuevo-216
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-06"
-last_updated: "2001-07-06"
+last_updated: "2001-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de julio de 2001.
 
@@ -501,7 +501,9 @@ f).- Jardines de niños, guarderías, dispensarios, consultorios y capillas de v
 
 g).- Lienzos charros, circos o ferias eventuales;
 
-h).- Establecimientos que tengan una extensión de terreno menor de mil quinientos metros cuadrados de construcción, e Industrias, talleres o bodegas existentes sobre terrenos con superficie menor de mil metros cuadrados;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+h).- Establecimientos que tengan menos de mil quinientos metros cuadrados de construcción, e industrias, talleres o bodegas existentes sobre terrenos con superficie menor de mil metros cuadrados;
 
 i).- Instalaciones de electricidad y alumbrado público;
 
@@ -1284,3 +1286,9 @@ LIC. FELIPE DE JESÚS CANTÚ RODRÍGUEZ
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C.P. ROBERTO RAMÍREZ VILLARREAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+Único. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
