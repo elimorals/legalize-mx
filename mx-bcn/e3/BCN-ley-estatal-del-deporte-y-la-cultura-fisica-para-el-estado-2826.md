@@ -4,7 +4,7 @@ identifier: "BCN-ley-estatal-del-deporte-y-la-cultura-fisica-para-el-estado-2826
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "1995-08-04"
+last_updated: "2001-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ESTATAL DEL DEPORTE Y LA CULTURA FISICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el 4 de agosto de 1995.
 
@@ -85,9 +85,11 @@ X. Deporte de la Tercera Edad.- Actividad deportiva que practican individuos de 
 
 Para lograr los objetivos de esta Ley, se establece el Sistema Estatal del Deporte, así como las bases para su funcionamiento.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 4.
 
-El Sistema Estatal del Deporte está constituido por el conjunto de acciones, recursos y procedimientos destinados a impulsar, fomentar y desarrollar el deporte en el Estado de Baja California.
+El Sistema Estatal del Deporte está constituido por el conjunto de acciones, recursos y procedimientos destinados a impulsar, fomentar y desarrollar el deporte en general, en el Estado de Baja California.
 
 ###### ARTICULO 5.
 
@@ -127,13 +129,17 @@ III. Crear el registro del sistema estatal del deporte;
 
 IV. Determinar los espacios que deban destinarse a la creación de nuevas áreas deportivas públicas;
 
-V. Expedir el reglamento de esta Ley; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+V. Expedir en el ámbito de su competencia, el reglamento de esta Ley; y
 
 VI. Las demás que le otorguen otras disposiciones legales y las que se requieran para el mejor desarrollo del deporte estatal.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado a través de su institución competente es la entidad reguladora y normativa del deporte. Su función primordial será la atención completa y suficiente a las representaciones del Estado, Municipios y Asociaciones.
+El Ejecutivo del Estado, en el ámbito de su competencia es la entidad reguladora y normativa del deporte.
 
 ### CAPITULO III. DEL CONSEJO ESTATAL DEL DEPORTE
 
@@ -209,9 +215,11 @@ Los miembros del Subcomité podrán incrementarse de manera permanente o tempora
 
 El programa Estatal del Deporte será formulado por el Subcomité Estatal del Deporte, quien lo presentará al ejecutivo a través del Consejo Estatal para su aprobación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 17.
 
-El programa Estatal del Deporte será el instrumento rector de todas las actividades no profesionales del Sistema Estatal del Deporte el cual deberá contener:
+El programa Estatal del Deporte será el instrumento rector de todas las actividades deportivas del Sistema Estatal del Deporte, exceptuando las profesionales, el cual deberá contener:
 
 I. Las prioridades señaladas en el capítulo II artículo 6; y
 
@@ -283,21 +291,27 @@ Como instrumento del Sistema Estatal del Deporte, se crea el Registro Estatal de
 
 Será condición para gozar de los estímulos y apoyos que se otorguen a los deportistas su inscripción individual o colectiva en el registro estatal del deporte.
 
-### CAPITULO VII. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2001)</small>
+
+### CAPITULO VII. DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 29.
 
-El Municipio como célula básica de la nación deberá recibir el apoyo de las entidades públicas y privadas para lograr cumplir cabalmente con su cometido haciéndose responsable de los siguientes programas:
+El Municipio deberá recibir el apoyo de las entidades públicas y privadas para lograr cumplir cabalmente con su cometido y tendrá a su cargo las siguientes atribuciones:
 
-I. Deporte Popular; y
+I. Fomentar y regular el deporte popular en el ámbito de su competencia; y
 
-II. Instalaciones deportivas.
+II. Administrar las instalaciones deportivas que tenga bajo su cargo para los efectos de la fracción anterior.
 
 ###### ARTICULO 30.
 
 El deporte popular es la herramienta que propicia la organización social en la comunidad, crea hábitos de salud física y social, favorece la recreación, corrige desviaciones sociales, estimula la identidad comunitaria y encauza las tensiones y la hiperactividad de la juventud. Por tanto, será una de las prioridades de inversión social para todos los Ayuntamientos del Estado, este programa deberá promover:
 
-I. La participación de toda la comunidad en programas de deporte, adecuación física o recreación;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+I. La participación de toda la comunidad en programas de deporte popular, adecuación física o recreación;
 
 II. El establecimiento en la comunidad de programas que motiven la competencia a nivel masivo improvisando espacios y actividades en donde no existan infraestructura deportiva. Deberá preverse una organización que permita la competencia individual, colectiva y comunitaria para finalizar con eventos municipales;
 
@@ -317,7 +331,9 @@ II. La necesidad de que los espacios puedan ser utilizados para diversas activid
 
 III. La participación de la comunidad en la planeación y construcción de las instalaciones aportando una cuarta parte de la obra en efectivo, especie o mano de obra; y
 
-V (Sic). Un Consejo de Administración, integrado por miembros de la comunidad y un representante del ayuntamiento.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+V (Sic). Las demás que se estipulen en los reglamentos municipales correspondientes.
 
 ###### ARTICULO 32.
 
@@ -329,27 +345,37 @@ II. Las acciones que favorezcan la creación de nuevas organizaciones y la atenc
 
 III. Seminarios, cursos y eventos que contribuyan a la capacitación de los miembros de organizaciones sociales.
 
-### CAPITULO VIII. DEL CONSEJO MUNICIPAL DEL DEPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2001)</small>
+
+### CAPITULO VIII. DEL CONSEJO MUNICIPAL DEL DEPORTE POPULAR
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-Se crean los Consejos Municipales del Deporte en cada uno de los Municipios de la entidad federativa, cuya función principal será la de ejercer las facultades que esta Ley determina para los Municipios, así como las demás que sean necesarias para el fomento del deporte en sus respectivos territorios.
+Se crean los Consejos Municipales del Deporte Popular en cada uno de los Municipios del Estado, cuya función principal será la de ejercer las facultades que esta Ley determina para los Municipios, así como las demás que sean necesarias para el fomento del deporte popular en sus respectivos territorios.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 34.
 
-Los Consejos Municipales deberán vigilar que los planes y programas municipales se adecúen a los generales del Estado.
+Los Consejos Municipales deberán vigilar que los planes y programas municipales del deporte popular no se contrapongan a los generales del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-Evaluar permanentemente la práctica del deporte en el municipio proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los programas.
+Evaluar permanentemente la práctica del deporte popular en el municipio proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los programas correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 36.
 
-Los Consejos Municipales del Deporte se integrarán con:
+Los Consejos Municipales del Deporte popular se integrarán con:
 
 I. Un representante del gobierno municipal;
 
-II. Un representante del gobierno estatal;
+II. (DEROGADA, P.O. 17 DE AGOSTO DE 2001)
 
 III. Un representante de la comunidad deportiva;
 
@@ -357,37 +383,37 @@ IV. Un representante de los medios de difusión; y
 
 V. Un representante de la iniciativa privada.
 
-### CAPITULO IX. DEL SUBCOMITE MUNICIPAL
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+VI. Los demás que el Reglamento Municipal determine.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2001)</small>
+
+### CAPITULO IX. DE LOS SUBCOMITES MUNICIPALES DEL DEPORTE POPULAR
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 37.
 
-Se crean los Subcomités municipales del deporte en cada uno de los municipios los cuales tendrán el carácter de órgano de vinculación de las necesidades de la sociedad y de las acciones del gobierno.
+Se crean los Subcomités municipales del deporte popular en cada uno de los municipios del Estado, los cuales tendrán el carácter de órgano de vinculación de las necesidades de la sociedad y de las acciones del gobierno.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 38.
 
-El Subcomité del deporte municipal elaborará una propuesta del programa deportivo quien lo presentará al Presidente Municipal por conducto del Consejo Municipal del Deporte.
+Los Subcomités municipales del deporte popular elaborarán una propuesta de los programas deportivos quienes lo presentarán al Presidente Municipal respectivo por conducto del Consejo Municipal del Deporte Popular.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 39.
 
-El Subcomité municipal del deporte será un foro permanente que garantice la participación de la comunidad y mantendrá una estrecha coordinación con el Subcomité Estatal del Deporte.
+Los Subcomités municipales del deporte popular serán un foro permanente que garantice la participación de la comunidad y mantendrán una estrecha coordinación con el Subcomité Estatal del Deporte.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 40.
 
-El Subcomité municipal del deporte estará integrado por:
-
-I. Un representante del gobierno municipal que será el titular del área de fomento deportivo;
-
-II. Los representantes de las dependencias y entidades de la administración pública estatal y municipal que desarrollen acciones en materia de deporte;
-
-III. Los representantes de los organismos deportivos populares;
-
-IV. Los representantes de las universidades de educación superior;
-
-V. Un representante de los medios de comunicación del área deportiva; y
-
-VI. Un representante del sector empresarial.
-
-Los miembros del Subcomité podrán incrementarse de manera permanente o temporal, cuando así lo considere necesario el Consejo.
+Los Subcomités municipales del deporte popular se integrarán conforme se señale en el reglamento municipal respectivo.
 
 ### CAPITULO X. DE LA PARTICIPACION DE LOS DEPORTISTAS Y LAS AGRUPACIONES DEPORTIVAS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -493,9 +519,11 @@ d) Las demás que se adecúen bajo el espíritu de esta Ley.
 
 ### CAPITULO XIII. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS DEL DEPORTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 48.
 
-En el reglamento de esta Ley, se precisarán las autoridades deportivas que aplicarán las sanciones por infracciones de esta Ley y demás disposiciones legales correspondientes.
+En el reglamento de esta Ley y en los que expidan los ayuntamientos en el ámbito de su competencia, se precisarán las autoridades deportivas que aplicarán las sanciones por infracciones de esta Ley y demás disposiciones legales correspondientes.
 
 Las sanciones se aplicarán a:
 
@@ -517,9 +545,11 @@ VIII. El deportista como individuo; y
 
 IX. Directivos, jueces, árbitros y organizadores de competencias deportivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 49.
 
-Por las infracciones que se cometan a esta Ley, a su Reglamento y a los Reglamentos Deportivos, se aplicarán las sanciones siguientes:
+Por las infracciones que se cometan a esta Ley, a su Reglamento, a los reglamentos municipales respectivos y a los Reglamentos Deportivos, se aplicarán las sanciones siguientes:
 
 A) Para Organismos Deportivos.
 
@@ -567,6 +597,10 @@ III. Suspensión temporal o definitiva.
 
 Contra las resoluciones de las autoridades y organismos deportivos que impongan sanciones, procederá el Recurso de Reconsideración ante quien la emitió.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Por lo que corresponde a las autoridades municipales, se podrán interponer los recursos en los términos de lo dispuesto por el reglamento municipal respectivo.
+
 TRANSITORIO (SIC)
 
 ###### ARTICULO PRIMERO.
@@ -598,3 +632,11 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
