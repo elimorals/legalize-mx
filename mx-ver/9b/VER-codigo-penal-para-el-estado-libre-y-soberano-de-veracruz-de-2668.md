@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1988-04-09"
+last_updated: "1990-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 1990.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -1493,7 +1493,7 @@ ABANDONO DE FAMILIARES
 
 ###### ARTICULO 197.
 
-Al que después de la ejecución del delito y sin haber participado en él, con ánimo de dominio, lucro o uso, adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o no tomó las medidas indispensables para cerciorarse de la legítima procedencia, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, se le aplicarán:
+Al que después de la ejecución del delito y sin haber participado en él, con ánimo dominio, de lucro o uso, adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o no tomó las medidas indispensables para cerciorarse de la legítima procedencia, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, se le aplicarán:
 
 I.-Si es con ánimo de dominio o uso de seis meses a cuatro años de prisión y multa hasta de cincuenta veces el salario;
 
@@ -1587,7 +1587,9 @@ IV.-Usurpe el estado civil o la filiación de otro con el fin de adquirir derech
 
 Al que contrajere nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrán de seis meses a cinco años de prisión y multa hasta de diez mil pesos. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO I. CONTRA LA ECOLOGIA
+### CAPITULO I. CONTRA EL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+
+> <small>(REFORMADO, G.O. 26 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 209.
 
@@ -1609,11 +1611,17 @@ Se aplicarán las últimas sanciones en caso de que la cópula sea entre hermano
 
 SEGURIDAD COLECTIVA
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE MAYO DE 1990)</small>
+
 ### CAPITULO III. ASOCIACION DELICTUOSA
 
 ###### ARTICULO 211.
 
-Se impondrán de uno a cuatro años de prisión y multa hasta de cincuenta mil pesos, al que por cualquier medio provoque la contaminación, degradación, esterilización o envenenamiento de las tierras y aguas de jurisdicción local, o produzca un daño en la atmósfera o difunda una enfermedad de las plantas o de los animales, con peligro de la salud pública o de la riqueza ecológica del Estado.
+Se impondrán de tres meses a cuatro años de prisión y multa hasta de cinco mil dias del salario mínimo general, vigente en la región y en el tiempo en que se cometió el delito, al que por cualquier medio provoque la contaminación, degradación, esterilización o envenenamiento de las tierras y aguas de jurisdicción local, o produzca un daño en la atmósfera o difunda una enfermedad de las plantas o de los animales, con peligro de la salud pública o de la riqueza ecológica del Estado.
+
+Las mismas sanciones se impondrán , al que sin contar con autorización de la autoridad competente, o contraviniendo lo dispuesto en la misma, o en la licencia o concesión correspondiente, realice actos de exploración, explotación o aprovechamiento d0e recursos en las áreas naturales protegidas a que se refiere el Título Tercero de la Ley Estatal del Equilibrio Ecológico.
+
+Este delito se perseguirá por querella de la autoridad estatal o municipal que sea competente para conocer del asunto en los términos de la Ley Estatal de Ecología y la Protección al Ambiente. La autoridad podrá otorgar el perdón judicial, cuando se acredite haber pagado la reparación del daño y las multas impuestas.
 
 ### CAPITULO IV
 
@@ -2310,3 +2318,13 @@ El presente Decreto entrará en vigor a los quince días después de su publicac
 ###### ARTICULO SEGUNDO.
 
 Se derogan los artículos 160, 161, 173, en su fracción III; 197, en su fracción III y 288 y todas las demás disposiciones que se opongan al presente.
+
+G.O. 26 DE MAYO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
