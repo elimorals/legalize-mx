@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1994-09-02"
+last_updated: "1995-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -55,17 +55,31 @@ El Estado de Puebla es una entidad jurídica y política, organizada conforme a 
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa el Municipio libre.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 3º.
 
-El pueblo ejerce su soberanía por medio de los Poderes del Estado, en la forma y términos que establecen la Constitución General de la República y la del Estado.
+El Pueblo ejerce su soberanía por medio de los Poderes del Estado, en la forma y términos que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos, se verificará por medio de elecciones directas, cuya organización es una función Estatal encomendada a un Organismo de carácter público, permanente, autónomo, dotado de personalidad jurídica y patrimonio propio. En el ejercicio de esa función, la certeza, legalidad, imparcialidad y objetividad, serán principios rectores.
 
-###### Artículo 4º.
+El Código Electoral del Estado de Puebla, regulará el ejercicio de los derechos y obligaciones de los ciudadanos y partidos políticos; determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará la composición, requisitos de sus integrantes, elección de los mismos y atribuciones de los Organismos Electorales; establecerá un sistema simplificado de medios de impugnación de los que conocerá el Organismo superior y un Tribunal Estatal Electoral. Dicho sistema de medios de impugnación dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones de los Organismos Electorales, se sujeten invariablemente al respeto y cumplimiento de las garantías de audiencia y legalidad.
 
-Los partidos políticos son entidades de interés público. La ley determinará la forma específica de su participación en las elecciones estatales y municipales.
+El Organo Superior de Dirección se integrará por Consejeros Ciudadanos, designados por el Poder Legislativo; por dos Diputados representantes del Poder Legislativo, uno de mayoría y otro designado por la minoría y por representantes nombrados por los partidos políticos, en los términos que establezca el Código de la materia.
+
+Los Consejeros Ciudadanos del Organo Estatal de Dirección deberán satisfacer los requisitos que señala la Ley y serán nombrados por el Congreso del Estado, mediante el procedimiento de consenso, mayoría calificada o insaculación, según sea necesario, de entre los ciudadanos que propongan los partidos políticos. En ningún caso tal designación podrá recaer en más de tres ciudadanos propietarios propuestos por un mismo partido. La Ley señalará las reglas y el procedimiento correspondiente.
+
+El Tribunal Estatal Electoral será Organo autónomo y máxima autoridad jurisdiccional electoral. Tendrá la organización y competencia que la Ley determine para resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, en los términos de esta Constitución y de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+
+###### Artículo 4o.
+
+Los Partidos Políticos son entidades de interés público que tienen como finalidad promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del Poder Público, de conformidad con sus programas de acción, declaración de principios y estatutos, mediante el sufragio universal, libre, secreto, personal e intransferible.
+
+Los Partidos Políticos participarán en las elecciones Estatales y Municipales, con todos los derechos, obligaciones y prerrogativas que la Ley les señale.
+
+En los procesos electorales estatales y municipales, los partidos políticos estatales y nacionales contarán en forma equitativa y proporcional con un mínimo de elementos para sus actividades tendentes a la obtención del sufragio popular; al efecto la Ley establecerá las reglas a que se sujetará el financiamiento de los Partidos Políticos y las Campañas electorales.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -211,9 +225,13 @@ Son poblanos:
 
 I.- Los nacidos en territorio del Estado.
 
-II.- Los mexicanos hijos de padre poblano o madre poblana, nacidos fuera del territorio del Estado, mayores de edad, que manifiesten ante el Congreso local su deseo de ser poblanos.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
-III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia contínua de cinco años dentro del mismo, mayores de edad, que manifiesten ante el Congreso local su deseo de ser poblanos.
+II.- Los mexicanos hijos de padre poblano o madre poblana, nacidos fuera del territorio del Estado, mayores de edad, que manifiesten ante el Congreso Local, su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+
+III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, mayores de edad que manifiesten ante el Congreso Local su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -361,11 +379,11 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado, las autoridades
 
 El ejercicio del Poder Legislativo se deposita en una asamblea de Diputados que se denominará "CONGRESO DEL ESTADO".
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado estará integrado por lo menos por 22 Diputados, electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta 7 diputados que serán electos de acuerdo con el principio de representación proporcional, conforme al sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+El Congreso del Estado estará integrado por veintiséis Diputados, electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta trece Diputados que serán electos de acuerdo con el principio de representación proporcional, conforme al sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -373,25 +391,21 @@ El Congreso del Estado estará integrado por lo menos por 22 Diputados, electos 
 
 Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 35.
 
-La elección de los Diputados según el principio de representación proporcional se sujetará a lo que disponga la ley y a las siguientes reglas:
+La Elección de los Diputados según el principio de representación proporcional, se sujetará a lo que disponga la Ley y a las siguientes bases:
 
-I.- Para obtener la inscripción de sus listas, el Partido Político que lo solicite deberá acreditar su registro definitivo y que participa con candidatos a Diputados por mayoría relativa, por lo menos en 8 de los Distritos Electorales Uninominales.
+I.- Un Partido Político, para obtener el registro de sus listas, deberá acreditar su registro como tal y que participa con candidatos a Diputados por mayoría relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales.
 
-II.- Tendrá derecho a que le sean asignados Diputados electos según el principio de representación proporcional, todo aquel Partido que:
+II.- Todo Partido Político que alcance por lo menos el uno y medio por ciento del total de la votación emitida en la elección de Diputados de mayoría relativa, tendrá derecho a que le sean asignados Diputados según el principio de representación proporcional.
 
-a).- No haya obtenido 3 o más constancias de mayoría.
+III.- Al Partido Político que cumpla con lo dispuesto por las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus Candidatos, les serán asignados por el principio de representación proporcional, el número de Diputados que les corresponda de acuerdo a lo dispuesto por la Ley. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-b).- Alcance por lo menos el 1.5 por ciento de la votación emitida para el total de las listas.
+IV.- En ningún caso un Partido Político podrá contar con más de veintiséis Diputados por ambos principios.
 
-III.- Al Partido Político que satisfaga los requisitos señalados en las fracciones anteriores, le serán asignados los Diputados que corresponda, de acuerdo al porcentaje de votos obtenidos para el total de dichas listas.
-
-IV.- La ley determinará las fórmulas electorales y los procedimientos que se observarán para la asignación en la que, en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-V.- En caso de que los Partidos con derecho a participar en la distribución por listas, obtuviesen en su conjunto 4 o más constancias de mayoría, sólo serán objeto de distribución tres curules que deban asignarse por el principio de representación proporcional.
+V.- En términos de lo establecido en las fracciones anteriores, las Diputaciones de representación proporcional, se adjudicarán a los Partidos Políticos con derecho a ello, en proporción directa con sus respectivas votaciones Estatales. La Ley desarrollará las reglas y fórmulas necesarias para estos efectos.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -411,9 +425,9 @@ No pueden ser electos diputados propietarios o suplentes:
 
 I.- El Gobernador del Estado, aun cuando se separe definitivamente de su cargo.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
-II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado, los Secretarios del Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado.
+II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y los del Tribunal Estatal Electoral, los Secretarios de Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado.
 
 III.- Los funcionarios del Gobierno Federal
 
@@ -459,41 +473,23 @@ Es inviolable también el recinto donde se reúnen los diputados a sesionar y el
 
 El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero posterior a las elecciones, sin que por ningún motivo el mandato de sus miembros pueda prorrogarse más allá de ese período.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 43.
 
-El Colegio Electoral lo formarán los presuntos Diputados, tanto de mayoría como de representación proporcional; y su funcionamiento, además de lo que disponga la Ley Orgánica del Poder Legislativo del Estado, se regirá por las siguientes disposiciones:
+La Comisiones Distritales Electorales respectivas, de conformidad con lo que disponga la Ley, dictaminarán y declararán la validez de las elecciones de los Diputados en cada uno de los Distritos Electorales Uninominales y otorgarán las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. La Comisión Estatal Electoral hará la declaración de validez y la asignación de Diputados según el principio de representación proporcional, de conformidad con lo dispuesto por el artículo 35 de este Ordenamiento y lo que determine la Ley de la materia.
 
-I.- Diez días antes del señalado para la apertura del Congreso, se reunirán los presuntos Diputados para constituir el Colegio Electoral y celebrarán, con esta finalidad, las reuniones que fueren necesarias.
+La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos que señale la Ley; el procedimiento de impugnación quedará determinado en la propia Ley de la materia. El fallo del Tribunal será definitivo e inatacable.
 
-II.- Se requerirá la asistencia, cuando menos de la mitad más uno del total de los presuntos Diputados, para el funcionamiento del Colegio Electoral.
-
-III.- Los presuntos Diputados que asistan, cualquiera que sea su número, deberán compeler a los ausentes a que concurran dentro de los cinco días siguientes, advirtiéndoles que si no lo hacen se entenderá, por ese solo hecho, que renuncian a su cargo.
-
-IV.- En el caso de la fracción anterior, si uno o varios presuntos Diputados no asisten, se llamará de inmediato a los suplentes.
-
-V.- Si los suplentes no asisten se declarará vacante el cargo.
-
-VI.- La vacante del cargo de Diputado se cubrirá:
-
-a) Si son Diputados de mayoría, mediante nueva elección a la cual se convocará legalmente; y
-
-b) Si son Diputados de representación proporcional, con aquellos candidatos del mismo Partido que hubieren quedado en lugar preferente, en la lista respectiva.
-
-VII.- Los presuntos Diputados nombrarán Presidente, Vicepresidente y Secretarios del Colegio Electoral y calificarán sus propias credenciales.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 44.
 
-Una vez calificadas por el Colegio Electoral las credenciales de más de la mitad de los presuntos Diputados se procederá, en términos de lo que disponga la Ley Orgánica del Poder Legislativo del Estado, a nombrar Presidente, Vice-Presidente y Secretarios del Congreso y a declarar solemnemente que queda instalada la Legislatura.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+Una vez declarada la validez de las Elecciones de más de la mitad de los presuntos Diputados, se procederá, en términos de lo que disponga la Ley Orgánica del Poder Legislativo del Estado y su Reglamento, a nombrar Presidente, Vice-Presidente y secretarios del Congreso y a declarar solemnemente que queda instalada la Legislatura.
 
 ###### Artículo 45.
 
-Las credenciales que no hubieren sido calificadas por el Colegio Electoral, lo serán por el Congreso.
+(DEROGADO, P.O. 17 DE FEBRERO DE 1995)
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -507,11 +503,11 @@ Inmediatamente antes de la declaración, los Diputados propietarios harán la pr
 
 Para la instalación y funcionamiento del Congreso, se requerirá la asistencia cuando menos de la mitad más uno de sus miembros.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 48.
 
-Si no hubiese quórum para la instalación o apertura del Congreso, se observará lo dispuesto por las fracciones III a VI del Artículo 43 de esta Constitución, sin perjuicio de llamar a los suplentes para desempeñar su cargo, entre tanto transcurren los cinco días a que dicha disposición se refiere.
+El Congreso del Estado no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Los Diputados deberán reunirse en el Recinto Oficial el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los cinco días siguientes, bajo apercibimiento de cesar en sus cargos, previa declaración del Congreso del Estado, a menos que exista causa justificada que calificará el mismo Congreso. En la hipótesis prevista, serán llamados los suplentes a quienes podrá aplicarse la misma sanción, si no concurrieren en el mismo plazo y en cuyo caso, se declarará vacante el cargo y se convocará a nuevas elecciones.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -530,6 +526,10 @@ I.- El Primero comenzará el día quince de enero, terminará el quince de marzo
 II.- El segundo comenzará el día primero de Junio, terminará el treinta y uno de Julio y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior que le será presentada por el Ejecutivo, antes del inicio de este período declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir algunas responsabilidades.
 
 III.- El tercer período comenzará el día quince de octubre y terminará el quince de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de Ingresos y Egresos del Estado y los presupuestos de ingresos de los Municipios que deberán entrar en vigor al año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1995)</small>
+
+En el año en que se renueve el Poder Ejecutivo, este tercer periodo se prorrogará hasta el 22 de diciembre, para los efectos a que se refiere la fracción XVI del artículo 57 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -607,11 +607,13 @@ XII.- Conceder premios y recompensas.
 
 XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si dichos funcionarios son o no culpables de los delitos oficiales que se les imputen.
 
-XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo y, a los del Tribunal Estatal Electoral, en los términos señalados por la Legislación Electoral vigente.
 
-XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días, del Gobernador, de los Diputados y de los Magistrados del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+
+XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador, de los Diputados, de los magistrados del Tribunal Superior de Justicia y de los del Tribunal Estatal Electoral.
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -653,9 +655,11 @@ XXI.- Acordar por el voto de las dos terceras partes de sus integrantes:
 
 En los casos de los incisos 1 y 2 de esta fracción, el Congreso nombrará un Consejo Municipal como lo establezca la Ley Orgánica Municipal.
 
-XXII.- Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame acerca de ellas.
+XXII.- (DEROGADA, P.O. 17 DE FEBRERO DE 1995)
 
-XXIII.- Recibir la protesta constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Magistrados del Tribunal Superior, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las leyes no deban otorgarla ante otra autoridad;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+
+XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Magistrados del Tribunal Superior, a los Magistrados del Tribunal Estatal Electoral, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las Leyes no deban otorgarla ante otra autoridad.
 
 XXIV.- Expedir y modificar la ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
@@ -675,11 +679,11 @@ El Congreso al expedir la Ley de Egresos, no podrá dejar de señalar la retribu
 
 ### CAPITULO IV. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 59.
 
-Durante los recesos del Congreso, habrá una Comisión Permanente compuesta por cinco Diputados propietarios.
+Durante los recesos del Congreso, habrá una Comisión Permanente compuesta por nueve Diputados. En su integración se procurará reflejar la composición plural del Congreso.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -695,11 +699,13 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-II.- Recibir la protesta del Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1990)</small>
+II.- Recibir la protesta del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral.
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría Mayor de Hacienda; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia y empleados de la Secretaría de la Legislatura y Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de estos no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría Mayor de Hacienda; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, y a los Magistrados del Tribunal Estatal Electoral.
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -1075,7 +1081,7 @@ Cada tres años, al renovarse el Poder Legislativo, el Presidente del Tribunal S
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO SEXTO. DEL MINISTERIO PUBLICO
+## TITULO SEXTO. Del Ministerio Público
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1139,11 +1145,13 @@ El Municipio libre constituye la base de la división territorial y de la organi
 
 I.- Los Ayuntamientos se complementarán:
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
-a).- En el Municipio Capital del Estado, hasta con 6 Regidores, que serán acreditados conforme al principio de representación proporcional.
+a).- En el municipio capital del Estado, hasta con siete Regidores, que serán acreditados conforme al principio de representación proporcional.
 
-b).- En los Municipios que conforme al último censo general de población tengan cien mil o más habitantes, hasta con tres Regidores que serán acreditados de acuerdo con el mismo principio.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+
+b).- En los municipios que conforme al último censo general de población tengan cien mil o más habitantes, hasta con cuatro Regidores que serán acreditados de acuerdo con el mismo principio.
 
 c).- En los demás Municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio.
 
@@ -1160,6 +1168,10 @@ b).- Las personas que desempeñen o hayan desempeñado las funciones propias de 
 III.- Los funcionarios mencionados en las fracciones anteriores, cuando hayan tenido el carácter de propietarios, no podrán ser electos para el período inmediato, como suplentes; pero los que fueron suplentes podrán ser electos para el período inmediato como propietarios, salvo que hayan estado en ejercicio.
 
 IV.- Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de febrero del año siguiente al de la elección.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1995)</small>
+
+V.- Los Comités Municipales Electorales respectivos, de conformidad con lo que disponga la Ley de la materia, dictaminarán y declararán la validez de las elecciones de los Ayuntamientos y otorgarán las constancias de mayoría a los integrantes de las planillas que hubiesen obtenido la mayoría de votos. La Comisión Estatal Electoral, de acuerdo con la Ley, hará la declaración de validez y la asignación de Regidores según el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1433,7 +1445,7 @@ Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, de
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO.. DISPOSICIONES GENERALES
+## TITULO NOVENO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1796,3 +1808,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
