@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1997-01-29"
+last_updated: "1997-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -85,9 +85,13 @@ En estos casos el Ministerio Público podrá retener al indiciado solamente hast
 
 V.- Hará que tanto el ofendido como el presunto responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicofisiológico en que se encuentren. Tratándose del presunto responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 1997)</small>
 
-VI.- Procurar la conciliación entre las partes, en delitos cuya sanción máxima no exceda de tres años de prisión y no sean consideradas como graves, o tengan señalados una pena alternativa.
+VI.- Procurar la conciliación entre las partes, en delitos culposos y en aquéllos cuya sanción máxima no exceda de tres años de prisión y no sean considerados como graves o tengan señalados una pena alternativa;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 1997) (F. DE E., P.O. 1 DE AGOSTO DE 1997)
+
+VII.- Procurar la conciliación entre las partes, en delitos culposos y en aquéllos cuya sanción máxima no exceda de tres años de prisión y no sean considerados como graves o tengan señalados una pena alternativa.
 
 ###### ARTICULO 4.
 
@@ -3766,5 +3770,11 @@ UNICO:- El presente Decreto entrará en vigor al día de su publicación en el P
 P.O. 29 DE ENERO DE 1997.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 1997
+
+###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
