@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1997-03-20"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL 20 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -179,17 +179,27 @@ Para los efectos de esta Ley, el año de calendario se divide en los siguientes 
 
 El pago del Impuesto deberá hacerse en efectivo en las oficinas Recaudadoras Municipales o en las que autorice la Autoridad Competente. El pago se hará por bimestres vencidos, a más tardar el día 15 de los meses de Marzo, Julio, Septiembre, Noviembre y Enero, salvo que durante dicho plazo se pretenda enajenar el predio o transmitir su posesión, caso en el cual se hará anticipadamente a más tardar en la fecha de enajenación o transmisión de la posesión.
 
-> <small>(REFORMADO, P.O. 28 DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 17.
 
-El pago del Impuesto Predial podrá hacerse por anualidad anticipada, dentro del primer bimestre de cada año, caso en el que el contribuyente tendrá derecho a una reducción del 8% sobre la cantidad total que le correspondiera pagar.
+El pago del impuesto podrá hacerse por anualidad anticipada, durante el primer bimestre de cada año, en cuyo caso el contribuyente tendrá derecho a las siguientes reducciones:
 
-El titular de los derechos de un inmueble baldío no será sujeto de este descuento, cuando así lo acuerde el Ayuntamiento correspondiente respecto de los siguientes casos:
+a) Del 20% sobre la cantidad total que le corresponda pagar, en caso de que el pago se efectúe en el mes de enero.
 
-a)El predio exceda de doscientos metros cuadrados; o
+b) Del 8% sobre la cantidad total que le corresponda pagar, en caso de que el pago se efectúe en el mes de febrero.
 
-b) Sea titular respecto de mas de un inmueble.
+El titular de los derechos de un inmueble baldío no será sujeto de este descuento, cuando asó lo acuerde el Ayuntamiento correspondiente respecto de los siguientes casos:
+
+a) El predio exceda de doscientos metros cuadrados; o
+
+b) Sea titular respecto de más de un inmueble.
+
+Cuando se haga el pago en los términos del párrafo anterior, no se aplicará durante el año receptivo lo dispuesto en la fracción III del artículo 19 de esta ley.
+
+En los demás casos ñeque proceda el cambio de valor base del impuesto de un predio durante el año de calendario por el que se haya hecho el pago anual anticipado, sólo se cobrarán las diferencias que sobre lo pagado resulten por la aplicación de las demás disposiciones de esta ley al nuevo valor determinado.
+
+En los casos de fusión de predios, cuando se haya hecho el pago anual anticipado, respecto de todos los predios fusionados, no se cobrará diferencia alguna durante el resto del año de calendario en que ocurra la fusión. Cuando se haya hecho el pago anual anticipado menor por uno de los predios fusionados, el impuesto se seguirá pagando el resto del año, individualmente por cada uno de los restantes predios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
 
@@ -524,3 +534,13 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente ley.
+
+P.O. 29 DE DICIEMBRE DE 2000
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día primero de enero del año 2001
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
