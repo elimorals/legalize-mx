@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-derechos-de-cooperacion-para-la-ejecucion-de-obras-16160
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-28"
-last_updated: "1977-12-28"
+last_updated: "1978-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DERECHOS DE COOPERACION PARA LA EJECUCION DE OBRAS DE INTERES PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial, el 28 de diciembre de 1977.
 
@@ -59,7 +59,7 @@ VI.- Instalación de obras de agua y drenaje sanitario y pluvial, o mejoramiento
 
 Para que se causen Derechos de Cooperación será necesario que los predios beneficiados con las obras o instalaciones de servicios se encuentren en las siguientes circunstancias:
 
-1.- Tratándose de las obras previstas en los cinco primeros apartados del artículo anterior, si fueran exteriores, tener frente a la calle donde se ejecuten las obras, si fueran interiores, tener acceso mediante servidumbre de paso a la calle en que se ejecuten las obras.
+1.- Tratándose de las obras previstas en los cinco primeros apartados del artículo anterior, si fueran exteriores tener frente a la calle donde se ejecuten las obras; si fueran interiores, tener acceso mediante servidumbre de paso a la calle en que se ejecuten las obras.
 
 2.- Tratándose de las obras previstas en el apartado sexto del artículo que precede, beneficiarse con las obras de agua y drenaje.
 
@@ -83,15 +83,19 @@ b).- Instalación de alumbrado público.
 
 2.- Por metro cuadrado del pavimento en función del frente o frentes de los predios beneficiados y la distancia entre la guarnición y el eje de la calle. La pavimentación, su conservación o rehabilitación podrá ser de concreto, asfalto, adoquín, piedra, revestimiento o cualquier otro material apropiado. El costo del pavimento incluye no solamente el del propio pavimento, sino también el de las obras preparatorias como movimiento de terracería, preparación de base y obras conexas.
 
-3.- Por metro cuadrado de terreno, distribuyéndose el costo proporcionalmente entre todos los predios de la zona beneficiada, tratándose de obras de agua o de drenaje, se considera como parte del costo el precio de excavación, relleno y consolidación de las sepas y reposición de pavimentos y banquetas; en los casos que las obras de introducción de las líneas de agua y drenaje las realice el organismo autorizado para proporcionar dichos servicios, se estará en lo dispuesto por el artículo 7o. del presente Decreto.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1978)</small>
+
+3.- Por metro cuadrado de terreno distribuyéndose el costo proporcionalmente entre todos los predios de la zona beneficiada, tratándose de obras de Agua o Drenaje, se considera como parte del costo las fuentes de abastecimiento, captación, bombeo de aguas crudas, planta potabilizadora, regularización, estaciones de bombeo, red de distribución, tomas domiciliarias, medidores, conducción, construcción de tanques de almacenamiento, distribución de la red general, red de alcantarillado, tratamiento de aguas, así como la excavación, relleno, consolidación de cepas, reposición de pavimentos y baquetas, y demás obras conexas; en los casos que las obras de introducción de las líneas de agua y drenaje las realice el Organismo autorizado para proporcionar dichos servicios, se estará en lo dispuesto por el artículo 7o. de esta Ley.
 
 ###### ARTICULO 6º.
 
 El monto de los derechos que en cada caso concreto deban pagarse conforme a las reglas del artículo anterior se determinará distribuyendo el costo de la obra o de la instalación de servicios, en forma proporcional, entre los sujetos que se beneficiarán con la misma.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1978)</small>
+
 ###### ARTICULO 7o.
 
-Las personas señaladas en el artículo tercero cuyos predios se benefician con la instalación de obras de agua o de drenaje o con el mejoramiento de estos servicios; si las mismas no fueran realizadas por el Ayuntamiento, o por algún Instituto que colabore con él, o por el Gobierno del Estado, mediante convenio con el organismo del lugar que esté encargado de proporcionar esos servicios, cubrirán a éste, el importe que originen las conexiones domiciliarias a las redes generales.
+Las personas señaladas en el artículo tercero cuyos predios se benefician con la instalación de obras de agua o de drenaje o con el mejoramiento de estos servicios; si las mismas no fueren realizadas por el Ayuntamiento, o por algún Instituto que colabore con él, o por el Gobierno del Estado, mediante convenio con el organismo del lugar que esté encargado de proporcionar esos servicios, cubrirán a éste; el importe que originen las conexiones y descargas domiciliarias a las redes generales de acuerdo con el costo de las obras realizadas en los términos del punto No. 3 del artículo 5o. de esta Ley.
 
 ###### ARTICULO 8º.
 
@@ -164,3 +168,15 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Ciudad Victoria, Tam., a 26 de di
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veintisiete días del mes de diciembre de mil novecientos setenta y siete.- ENRIQUE CARDENAS GONZALEZ.- El Secretario General de Gobierno, HOMERO PEREZ ALVAREZ.- Rúbricas.
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 16 DE SEPTIEMBRE DE 1978
+
+###### ARTICULO PRIMERO.
+
+Continúa en vigor el Decreto No. 406 publicado en el Periódico Oficial No. 104 del veintiocho de diciembre de mil novecientos setenta y siete.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
