@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1954-09-04"
+last_updated: "1955-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1955.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -203,11 +203,11 @@ No podrá el Congreso abrir sus Sesiones sin la concurrencia de cuatro de sus mi
 
 En el periodo en que se inicien las actividades de una nueva Legislatura los Diputados deberán reunirse el día señalado por la Ley y en caso de no haber "quórum", los presentes compelerán a los faltantes para que asistan dentro de los diez días siguientes, con la advertencia de que si no lo hicieren, se entenderá por este solo hecho, que no aceptan su encargo, llamándose luego a los Suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hicieren, se declarará vacante el Puesto y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1955)</small>
 
 ###### Artículo 31.
 
-A la apertura del Periodo de Sesiones Ordinarias del Congreso, asistirá el Gobernador del Estado y el Presidente del Supremo Tribunal. El primero presentará el informe por escrito en el que manifieste el estado general que guarde la Administración Pública de la Entidad; el Presidente del Congreso contestará en términos generales.
+El 16 de septiembre de cada año en Sesión Solemne a la que asistirán el Titular del Poder Ejecutivo y el Presidente del Supremo Tribunal de Justicia; el Gobernador del Estado presentará un informe por escrito en el que manifieste las condiciones generales que guarde la administración pública de la Entidad. El Presidente del Congreso contestará en términos generales.
 
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1670,3 +1670,7 @@ Este decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 4 DE SEPTIEMBRE DE 1954.
 
 Este decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 1955.
+
+Este Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
