@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-02-14"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1035,9 +1035,9 @@ Cuando se solicite la libertad caucional, el juzgador o el ministerio público e
 
 Delitos Graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes Artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
 
-Homicidio por culpa., previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; Lesiones contra menores incapaces descrito en el artículo 143-Bis párrafo segundo; secuestro previsto en los artículos 164 y 165; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas, a que se refiere el Artículo 179; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; tráfico de menores descrito por el Artículo 238 primer y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261 párrafo segundo, pornografía infantil tipificado en el Artículo 261-Bis, Lenocinio descrito en la fracción IV del Artículo 266; Lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los artículos 348 fracción IV y 355.
+Homicidio por culpa., previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; Lesiones contra menores o incapaces descrito en el Artículo 143-Bis párrafo segundo; secuestro previsto en los Artículos 164 y 165; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176, violación equiparada en el Artículo 177, violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el Artículo 261 párrafo segundo; pornografía infantil tipificado en el Artículo 261-Bis, Lenocinio descrito en la fracción IV del Artículo 266; Lenocinio agravado del Artículo 267; terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -3446,3 +3446,7 @@ La presente reforma entrará en vigor al día siguiente al de su publicación en
 P.O. 14 DE FEBRERO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE JUNIO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
