@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2003-03-01"
+last_updated: "2003-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1565,7 +1565,9 @@ Podrá desahogarse hasta antes de citación para sentencia.
 
 331.- Los peritos deben tener título en la ciencia o arte a que pertenezca el punto sobre el que ha de oírse su parecer, si la profesión o arte estuvieren legalmente reglamentados. Si no lo estuvieren, o estándolo no hubiere peritos titulados en el lugar, podrán ser nombrados cualesquiera personas entendidas en la materia de que se trate.
 
-Tratándose de avalúos sobre bienes inmuebles, el nombramiento de peritos deberá recaer necesariamente en una institución bancaria con departamento fiduciario si la hubiere en el lugar donde se sigue el juicio. Cuando los bienes sean muebles el avalúo lo practicará un establecimiento comercial dedicado al giro que corresponda.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2003)</small>
+
+Tratándose de avalúos sobre bienes inmuebles, el nombramiento de peritos deberá recaer necesariamente en una institución de crédito, o en un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones. Cuando los bienes sean muebles el avalúo lo practicará un establecimiento comercial dedicado al giro que corresponda a un especialista en valuación debidamente acreditado.
 
 332.- Cada parte, dentro del tercero día de haber sido requerida para ello, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
 
@@ -4564,3 +4566,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Las reformas a que se refiere el artículo segundo del presente decreto no serán aplicables a los procedimientos que en la vía especial hipotecaria hayan iniciado con anterioridad a su entrada en vigor.
 
 Las reformas a que se refiere el presente decreto no serán aplicables a créditos contratados antes de su entrada en vigor, ni tratándose de créditos novados o reestructurados con anterioridad a las mismas.
+
+P.O. 8 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
