@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1964-05-16"
+last_updated: "1965-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 01 DE MAYO DE 1965.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -245,11 +245,11 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1965)</small>
 
 ###### Art. 26.
 
-El Congreso se compondrá de siete Diputados propietarios, por cada Diputado Propietario se elegirá un suplente.
+El Congreso se compondrá de nueve Diputados Propietarios. Por cada Diputado Propietario se elegirá un Suplente.
 
 ###### Art. 27.
 
@@ -357,11 +357,11 @@ En caso de que una u otra ocurran después del término establecido a juicio del
 
 Entre tanto se verifique la elección a que se refiere el artículo anterior y si no pudiere integrarse el quórum legal, la Junta de Diputados llamará al Suplente que a su juicio puede concurrir con más prontitud, cesado éste tan luego como se presente otro Diputado que complete el quórum.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1965)</small>
 
 ###### Art. 37.
 
-La Legislatura requiere para el ejercicio de sus funciones la asistencia de cinco diputados por lo menos. No habiendo la mayoría referida, los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso, dentro del mismo término, que fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese sólo hecho que renuncian el cargo y se convocará a nueva elección. Entre tanto transcurran los treinta días concedidos a los Diputados Propietarios, serán citados los suplentes respectivos para integrar el quorum, y si fenece el mencionado término sin obtenerse la comparecencia de los suplentes, se llamará nuevamente a estos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
+La Legislatura requiere para el ejercicio de sus funciones, la asistencia de siete Diputados por lo menos. No habiendo la mayoría referida, los Diputados que asistan, cualquiera que sea su número deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum, y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes, se llamará a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de 15 días, convocándose a elecciones para cubrir la vacante.
 
 ###### Art. 38.
 
@@ -715,11 +715,11 @@ El Reglamento interior del Congreso prescribirá las reglas que deben observarse
 
 Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mismo período de sesiones.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1965)</small>
 
 ###### Art. 68.
 
-Los proyectos e iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por cuatro de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Los proyectos e Iniciativas, adquirirán el carácter de Ley o Decreto, cuando sean aprobados por cinco de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Art. 69.
 
@@ -1065,7 +1065,7 @@ V. No haber sido condenado por delito infamante. La calificación la hace el H. 
 
 ###### Art. 95.
 
-Los acuerdos, circulares, órdenes y disposiciones que dictare el Gobernador, así como los documentos que suscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
+Los acuerdos, circulares, órdenes y disposiciones que dictare el Gobernador, así como los documentos que subscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
 
 ###### Art. 96.
 
@@ -1866,3 +1866,7 @@ P.O. 16 DE MAYO DE 1964.
 Artículo Primero. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Artículo Segundo. Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MAYO DE 1965.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
