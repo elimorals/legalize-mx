@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-11024"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-02-27"
-last_updated: "1999-07-02"
+last_updated: "1999-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de febrero de 1997.
 
 ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro de Arteaga, a los habitantes del mismo, sabed que:
 
-LA QUINCUAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 FRACCION II DE LA CONSTITUCION POLITICA LOCAL ... ha tenido a bien expedir la siguiente:
+LA QUINCUAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 FRACCION II DE LA CONSTITUCION POLITICA LOCAL ...ha tenido a bien expedir la siguiente:
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
@@ -227,11 +227,13 @@ XXVIII.- Las demás que ésta u otras leyes le encomienden.
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 16.
 
-El Tribunal Superior de Justicia tendrá un presidente que durará en su encargo un año y podrá ser reelecto sólo por un período inmediato. Será designado entre los propios Magistrados, por lo menos por el voto de las dos terceras partes de la totalidad de los Magistrados Propietarios, quienes lo emitirán en escrutinio secreto, en la primera sesión extraordinaria que para el efecto se convoque durante la última semana del mes de septiembre de cada año, la que no podrá suspenderse hasta darse la designación. En este caso, no es aplicable lo dispuesto por el artículo 13 de esta Ley.
+El Tribunal Superior de Justicia tendrá un presidente que durará en su cargo un año y podrá ser reelecto sólo por un período más. Será designado entre los propios Magistrados, por lo menos por el voto de las dos terceras partes de la totalidad de los Magistrados Propietarios, quienes lo emitirán en escrutinio secreto, en la primera sesión extraordinaria que para el efecto se convoque durante la última semana del mes de septiembre de cada año, la que no podrá suspenderse hasta darse la designación. En este caso, no es aplicable lo dispuesto por el artículo 13 de esta Ley.
+
+Será sustituido en sus ausencias y faltas temporales por el Magistrado que señale el Tribunal en Pleno, y cuando se trate de ausencia definitiva se hará la elección del Magistrado que deba terminar el período.
 
 ###### ARTICULO 17.
 
@@ -303,11 +305,13 @@ XXXI.- La rendición trimestral de cuenta pública a la Contaduría Mayor de Hac
 
 ### CAPITULO IV. DE LAS SALAS
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 18.
 
 El Tribunal Superior de Justicia funciona, además, en tres salas, civil, penal y electoral. Cada sala estará integrada por tres Magistrados.
 
-La Sala Electoral podrá auxiliar a las otras salas fuera de los procesos electorales, de acuerdo a lo que disponga el Pleno del Tribunal.
+La Sala Electoral podrá auxiliar a las otras salas, aún dentro del proceso electoral, de acuerdo a lo que disponga el Pleno del Tribunal, siempre y cuando no se interfiera con la función primordial de esta sala.
 
 ###### ARTICULO 19.
 
@@ -319,9 +323,11 @@ El nombramiento del Presidente de la Sala Electoral será fuera del período ele
 
 Las salas estarán siempre integradas por los magistrados propietarios. En caso de falta absoluta se cubrirá con el supernumerario que designe el Pleno del Tribunal, en tanto la Legislatura, hace el nombramiento correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 21.
 
-Los asuntos serán turnados por el Presidente de la Sala entre los miembros de la misma por orden progresivo. Cada Magistrado llevará el trámite hasta que se encuentre en estado de resolución. La ponencia formulada será resuelta por el Pleno de la Sala, el que se integrará con la asistencia de dos de sus integrantes, siempre que entre ellos esté su Presidente, exceptuándose de ello la sala electoral, que siempre requerirá la presencia de todos sus integrantes.
+Los asuntos serán turnados por el Presidente de la Sala entre los miembros de la misma por orden progresivo. Cada Magistrado llevará el trámite hasta que se encuentre en estado de resolución. La ponencia formulada será resuelta por el Pleno de la Sala, el que se integrará con la asistencia de dos de sus integrantes, siempre que entre ellos esté su Presidente. De la misma forma se integrará la Sala Electoral, cuando trabaje en auxilio de las otras salas, y en materia electoral, siempre requerirá la presencia de todos sus integrantes.
 
 ###### ARTICULO 22.
 
@@ -1680,3 +1686,7 @@ EN CUMPLIMIENTO POR LO DISPUESTO EN LA FRACCION PRIMERA DEL ARTICULO CINCUENTA Y
 P.O. 2 DE JULIO DE 1999
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial La Sombra de Arteaga, derogándose las disposiciones que se opongan a esta reforma.
+
+P.O. 17 DE DICIEMBRE DE 1999
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial la Sombra de Arteaga, derogándose las disposiciones que se opongan a esta reforma.
