@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1958-12-31"
+last_updated: "1966-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1966.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -1503,15 +1503,17 @@ Contra de los actos o resoluciones provenientes de las autoridades fiscales que 
 
 El recurso de revisión deberá interponerse por escrito, por conducto de la oficina receptora correspondiente, dentro de los quince días hábiles siguientes a la fecha de la notificación del acto o resolución inmpugnada (sic).
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1966)</small>
+
 ###### ARTICULO 185.
 
-En el escrito en que se interponga el recurso de revisión, deberán ofrecerse pruebas, y las autoridadese (sic) administrativas exigirán el aseguramiento del interés fiscal, cuando así proceda, y si por cualquier circunstancia la garantía no fuere otorgada dentro de los diez siguientes días a la interposición del recurso, se tendrá por no interpuesto.
+En los escritos en que se interponga el recurso de revisión, deberán ofrecerse las pruebas.
 
-Una vez que el interés fiscal se encuentre asegurado, la oficina receptora enviará el expediente al C. Presidente Municipal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1966)</small>
 
 ###### ARTICULO 186.
 
-El Presidente Municipal dictará resolución defintiva (sic) ratificando o revocando el acto impugnado dentro de un término de veinte días; recabando para ello los informes de la autoridad que dicto la resolución y los demás que estime pertinentes.
+Cuando se pida la suspensión del procedimiento de ejecución, el interesado deberá garantizar el interés fiscal en cualquiera de las formas que determina el Artículo 6o. de la Ley, así como los recargos correspondientes a 12 meses.
 
 ###### ARTICULO 187.
 
@@ -1652,3 +1654,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 31 DE DICIEMBRE DE 1958.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos cincuenta y nueve.
+
+P.O. 31 DE DICIEMBRE DE 1966.
+
+###### ARTICULO 2o.
+
+Este Decreto entrará en vigor el día primero de enero de mil novecientos sesenta y siete.
