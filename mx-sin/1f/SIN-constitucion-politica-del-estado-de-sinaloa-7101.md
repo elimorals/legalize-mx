@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1961-09-12"
+last_updated: "1962-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 1962.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -233,9 +233,9 @@ En cada Distrito Electoral se eligirá (sic) un Diputado Propietario y su respec
 
 Para ser Diputado se requiere:
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1939)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
 
-I. Ser mexicano por nacimiento y ciudadano sinaloense también por nacimiento, en ejercicio pleno de sus derechos cívicos.
+I. Ser Sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de diez años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 1940)</small>
 
@@ -575,9 +575,9 @@ Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se 
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
 
-I. Ser ciudadano sinaloense por nacimiento.
+I. Ser ciudadano Sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de diez años inmediatamente anteriores al día de la elección.
 
 II. Tener treinta años cumplidos el día de la elección.
 
@@ -1115,11 +1115,11 @@ III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
 
 IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
 
-(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 1962)</small>
 
 ###### Art. 116 Bis.
 
-Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren es necesario tener los siguientes:
+Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguiente:
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1137,9 +1137,9 @@ III. No haber sido Secretario General de Gobierno, Tesorero General del Estado, 
 
 IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, no podrán ser electos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación en los términos de esta Constitución, desempeñan las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos popularmente para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietario no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplente, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio en el segundo año del período respectivo.
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1939)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
 
-V. Ser originario de la Municipalidad que lo elija, o vecino de élla cuando menos cinco años anteriores a la elección, siempre que sea ciudadano sinaloense por nacimiento y en ejercicio pleno de sus derechos cívicos.
+V. Ser originario de la Municipalidad que lo elige o vecino de ella cuando menos cinco años anteriores a la elección, siempre que sea ciudadano Sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de diez años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1944)</small>
 
@@ -1846,3 +1846,7 @@ P.O. 12 DE SEPTIEMBRE DE 1961.
 Artículo Primero.- El presente Decreto iniciará su vigencia a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- El Informe que deberá rendir el Supremo Tribunal de Justicia del Estado en el mes de enero del próximo año de 1962, comprenderá las labores desarrollados (sic) por el Poder Judicial del Estado desde el primero de Septiembre de 1960 hasta el 31 de diciembre del presente año de 1961.
+
+P.O. 6 DE MARZO DE 1962.
+
+UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
