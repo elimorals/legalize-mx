@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1991-12-31"
+last_updated: "1993-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -2105,9 +2105,9 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO PRIMERO
+### CAPITULO SEGUNDO
 
-DISPOSICIONES GENERALES.
+DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
 
 > <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2139,15 +2139,15 @@ La tasa de la contribución especial será el 1.3% sobre la base mencionada en e
 
 Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
+DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2229,13 +2229,61 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 124.
+
+Para los efectos de este capítulo se consideran pensionados o jubilados aquellas personas que acrediten dicha calidad con la documentación oficial correspondiente expedida por las instituciones de seguridad social que a continuación se señalan:
+
+I.- Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
+
+II.- Instituto Mexicano del Seguro Social.
+
+III.- Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos y de la Comisión Federal de Electricidad.
+
+IV.- Otras instituciones de seguridad social que presten estos servicios en las diversas entidades federativas del país.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 125.
+
+Se establece en favor de los pensionados y jubilados una reducción que será del 20% hasta el 50% en el pago de las contribuciones que a continuación se indican:
+
+I.- Impuesto Predial, únicamente sobre el inmueble donde viva el pensionado o jubilado y que sea de su propiedad.
+
+II.- Derechos causados por los servicios que presta el Registro Público de la Propiedad y del Comercio, únicamente por lo que se refiere a los servicios que preste en materia de propiedad sobre bienes del pensionado o jubilado.
+
+III.- Derechos por servicio del Registro Civil, únicamente en actos relativos a la persona del pensionado o jubilado, así como de su cónyuge o sus descendientes menores de edad.
+
+IV.- Derechos por legalización de firmas, expedición de certificados y copias certificadas, únicamente en actos en que exista interés directo del pensionado o jubilado.
+
+V.- Derechos por servicio de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo propiedad del pensionado o jubilado.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 126.
+
+Se establece en favor de los pensionados y jubilados una reducción que será del 10% hasta el 50% en el pago de los derechos causados por la prestación del servicio de agua potable y alcantarillado.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 127.
+
+Para aplicar las reducciones a las contribuciones de referencia, dentro de los límites de porcentaje señalados en los artículos 125 y 126 de esta Ley, la autoridad apreciará discrecionalmente las circunstancias del pensionado o jubilado en lo particular, considerando el monto de la pensión que tenga asignada.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 128.
+
+Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 125 y 126 de esta Ley, en la misma proporción con que se haya beneficiado al pensionado o jubilado.
+
 T R A N S I T O R I O S :
 
 ## TITULO QUINTO BIS
 
 CONTRIBUCIONES ESPECIALES.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ### CAPITULO TERCERO
 
@@ -2248,6 +2296,16 @@ DISPOSICIONES COMUNES.
 Se establece en el Municipio de Los Cabos la contribución especial para la obtención de recursos destinados a la modernización a cuatro carriles de la carretera transpeninsular en el tramo, aeropuerto Los Cabos-San José del Cabo-Cabo San Lucas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+
+## TITULO SEXTO
+
+DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1o.
 
@@ -2360,6 +2418,10 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 ###### ARTICULO SEGUNDO
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
 B.O. 31 DE DICIEMBRE DE 1991.
 
