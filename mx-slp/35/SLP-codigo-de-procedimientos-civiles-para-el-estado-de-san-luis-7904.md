@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1996-06-17"
+last_updated: "1997-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1903,6 +1903,152 @@ ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el j
 
 ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 1997)</small>
+
+### CAPITULO V. Del Juicio Hipotecario
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.1.- Se tramitará en la vía extraordinaria, todo juicio hipotecario que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que el crédito conste en escritura pública o escritura privada, según corresponda en los términos de la legislación común, y se encuentre inscrito en el Registro Público de la Propiedad y que sea además, de plazo cumplido, o que éste sea exigible en los términos pactados o bien, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.2.- Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
+
+I.- El documento base de la acción tenga carácter de título ejecutivo;
+
+II.- El bien se encuentre inscrito a favor del demandado; y
+
+III.- No exista embargo o gravamen en favor de tercero, inscrito, cuando menos, noventa días anteriores al de la presentación de la demanda.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.3.- Al escrito de demanda se acompañará el instrumento respectivo; cerciorado el juez, que se encuentren satisfechos los requisitos establecidos en los artículos que anteceden, admitirá la demanda y ordenará la anotación correspondiente en el Registro Público de la Propiedad. Dispondrá asimismo, correr traslado de ella al deudor y, en su caso, al titular registral del embargo o gravamen por plazo inferior al estipulado en la fracción III del Artículo anterior, a efecto de que dentro del término de tres días acuda a producir su contestación y a oponer las excepciones, las cuales no podrán ser otras que:
+
+I.- Las procesales previstas en este Código;
+
+II.- Las fundadas en que el demandado no haya firmado el documento base de la acción, la de su alteración o la de falsedad del mismo;
+
+III.- Las de falta de representación, de poder bastante o de facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+IV.- La de nulidad del contrato;
+
+V.- La de pago o compensación;
+
+VI.- La de remisión o quita;
+
+VII.- La de oferta de no cobrar o espera;
+
+VIII.- La de novación de contrato;
+
+IX.- Las de litispendencia y conexidad; y
+
+X.- Las de cosa juzgada.
+
+Las excepciones comprendidas en las fracciones de la V a la VIII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad sólo se admitirán si se exhibe con la contestación, las copias selladas de la demanda y contestación de ésta o de las cédulas del emplazamiento del juicio pendiente o conexo, o bien, la documentación que acredite que se encuentra tramitándose un procedimiento arbitral.
+
+Tratándose de la excepción contemplada en la fracción X se deberá anexar copia certificada de la sentencia ejecutoriada.
+
+El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, así como aquéllas en que sea necesario exhibir documentos y los mismos no se acompañen, salvo los casos a que se refieren los artículos 91 y 92 de este Código.
+
+La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+
+Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento, debiéndose en consecuencia, resolver de plano en la audiencia. Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro del término de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver lo conducente, conforme a la voluntad manifestada al respecto por las partes.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.4.- En la demanda y contestación, así como en la reconvención planteada y su contestación respectiva, las partes deberán señalar con precisión los hechos; si éstos sucedieron ante testigos, refiriendo los nombres y apellidos de los mismos y, en su caso, el domicilio que tuvieren, debiendo acompañar además, los documentos relacionados con tales hechos. Oportunamente las partes deberán ofrecer las pruebas de su intención, resolviendo el juez sobre su admisión o desechamiento, según proceda, mismas que se desahogarán en la audiencia respectiva.
+
+Con el escrito de contestación de la demanda o a la reconvención se dará vista a la parte contraria para que, dentro de los tres días siguientes a su recepción, manifieste lo que a su derecho convenga. Transcurrido dicho plazo, se señalará fecha y hora para la celebración de la audiencia a que se refiere el párrafo que antecede.
+
+En caso de que el demandado se allane a las pretensiones del actor, el juez pronunciará de inmediato, sentencia definitiva, la cual comunicará a las partes.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.5.- Si respecto al título con base en el cual se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios, de inmediato el juez mandará notificarles la existencia del juicio, a fin de que comparezcan a deducir sus derechos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.6.- Para efectos de la anotación de la demanda en el Registro Público de la Propiedad y del Comercio, el actor exhibirá un tanto más de dicha demanda, de los documentos base de la acción y en su caso, de aquéllos con que justifique su representación, para que, previo cotejo con sus originales, se certifiquen por el secretario y pueda el interesado hacer las gestiones de inscripción en el Registro dentro del término de tres días siguientes a la fecha de su expedición, debiendo acreditar la parte actora oportunamente, haber efectuado dicho trámite.
+
+Realizada la inscripción de la demanda, no podrá trabarse respecto al bien hipotecado ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, excepción hecha de sentencia ejecutoriada, relativa al mismo bien, debidamente inscrita y anterior en fecha a la inscripción de la referida demanda, o en razón de providencia precautoria resuelta por autoridad competente, promovida por acreedores de mejor derecho, en fecha anterior también, a la de la inscripción de la demanda.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.7.- Si el bien inmueble no está situado en el lugar del juicio, se girará exhorto al juez de la ubicación para que ordene el registro de la demanda, conforme a lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.8.- Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial respecto del bien inmueble hipotecado, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse formando parte del mismo, de los cuales se levantará para agregarlo a los autos, siempre que lo pida el acreedor.
+
+Para efectos del referido inventario, el deudor queda obligado a prestar las facilidades para su formación; en caso de desobediencia, el juez lo compelerá por los medios de apremio legales.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.9.- El demandado tendrá siempre el derecho de constituirse en depositario judicial del bien de que se trate, el cual le será respetado en la diligencia de emplazamiento.
+
+Para el caso de que la diligencia de emplazamiento no se entendiere con el deudor, se le dejará en el acto cédula con efectos de notificación de requerimiento personal, para que dentro de los tres días siguientes comparezca al Juzgado a manifestar si acepta o no la responsabilidad de depositario; de no aceptarlo o no acudir a realizar dicha manifestación, el juez nombrará, a proposición y responsabilidad de la parte actora, a quien deba desempeñar tal encargo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.10.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de sus acciones o de sus excepciones en el plazo establecido en este título, exhibiendo los documentos que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según lo previsto en los artículos 91 y 92 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.11.- El juez presidirá la audiencia; en ella se desahogarán las pruebas que ameriten especial desahogo. Luego se resolverán los incidentes y excepciones dilatorias, las cuales de no prosperar, darán lugar a la formulación de alegatos por las partes, asentándose de ellos en autos, el extracto correspondiente. Formulados que sean los alegatos, el juez citará a las partes para oír sentencia sobre el fondo del negocio.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.12.- Para el remate, se procederá de la siguiente forma:
+
+I.- Cada parte tendrá derecho de exhibir, dentro de los diez días siguientes a que sea ejecutable la sentencia, avalúo del bien hipotecado, el cual podrá ser realizado por corredor público, por entidad catastral de Gobierno, o por perito valuador inscrito en el Registro Estatal de Peritos, observándose al respecto lo establecido en la ley de la materia;
+
+II.- Si las partes exhibieren los avalúos en el plazo a que se refiere la fracción anterior y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso, el juez ordenará se practique nuevo avalúo, designado a quien deba realizarlo;
+
+III.- En caso de que alguna de las partes no presente el avalúo dentro del plazo señalado, se entenderá su conformidad con el avalúo que haya exhibido su contraria parte;
+
+IV.- Si ninguna de las partes exhibe el avalúo dentro del plazo señalado en la fracción I de este artículo, el juez designará, a costa proporcional de las partes, aquien (sic) haya de realizarlo, debiendo estar éstas al avalúo realizado por el perito designado;
+
+V.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar el bien respectivo en los términos de lo previsto en el Capítulo IV, del Título Décimo Cuarto de este ordenamiento; y
+
+VI.- La vigencia de los avalúos será de seis meses, los que servirán de base para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes almonedas mediara un término mayor de seis meses, se deberán actualizar los valores.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.13.- No habiendo postor, quedará al arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes por el precio del avalúo que sirvió de base para el remate o que se saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación.
+
+Si en ella tampoco hubiere licitadores, el actor podrá pedir o la adjudicación por el precio que sirvió de base para la segunda subasta o que se le entreguen en administración los bienes para aplicar sus productos al pago de los intereses y extinción del capital y de las costas.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.14.- En el caso de la adjudicación prevista en el segundo párrafo del Artículo 2746 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el Artículo 481.12 de este capítulo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.15.- Las tercerías que pudieran deducirse en el juicio, deberán sustanciarse de conformidad a lo establecido por el Título Octavo, Capítulo Unico de este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.16.- En todo caso el deudor puede oponerse a la adjudicación alegando las excepciones que tuviere, esta oposición se substanciará incidentalmente.
+
+También pueden oponerse a la venta, los acreedores hipotecarios posteriores.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.17.- Los deudores podrán hacer pago total de las prestaciones reclamadas hasta antes de fincarse el remate, hecho lo anterior, el juicio quedará sin materia, debiendo resolver el Juez lo conducente.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.18.- Las sentencias que se dicten en términos de lo dispuesto en este capítulo serán apelables en efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+ART. 481.19.- Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al Juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
+
+## TITULO OCTAVO. De las Tercerías
+
 ### CAPITULO UNICO
 
 ART. 482.- En un juicio seguido por dos o más personas podrán intervenir uno o más terceros, siempre que tengan interés propio y distinto del que tenga el actor o reo en la materia del juicio.
@@ -1971,7 +2117,7 @@ ART. 502.- Si la tercería, cualquiera que sea, se interpone ante un alcalde o j
 
 ART. 503.- Los impedimentos del juez en una tercería, ya en razón de competencia o por cualquier otro motivo, lo inhiben del conocimiento del juicio principal.
 
-## TITULO OCTAVO. De las Tercerías
+## TITULO NOVENO. De los Negocios de Tramitación Especial
 
 ### CAPITULO I. Del Juicio Arbitral
 
@@ -2069,8 +2215,6 @@ Contra las resoluciones del árbitro designado por el juez cabe el amparo de gar
 
 ART. 531.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
-## TITULO NOVENO. De los Negocios de Tramitación Especial
-
 ### CAPITULO II. De los Juicios en Rebeldía
 
 ART. 532.- En toda clase de juicio, cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma, no se volverá a practicar diligencia alguna en su busca.
@@ -2146,8 +2290,6 @@ ART. 559.- En las diligencias a que se refiere este Capítulo los cónyuges no p
 ART. 560.- La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo, la que lo niegue es apelable en ambos efectos.
 
 ART. 561.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 105, 107 y 252 del Código Civil.
-
-### CAPITULO V. De los Concursos
 
 #### Sección I. Reglas Generales
 
@@ -2259,7 +2401,7 @@ ART. 588.- Los acreedores listados en el estado del deudor o que presentaren sus
 
 ART. 589.- Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán los (sic) disposiciones contenidas en el Título I, Tercera Parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo, quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
-### CAPITULO VI. De las Sucesiones
+### CAPITULO V. De los Concursos
 
 #### Sección III. De la Administración del Concurso
 
@@ -2485,25 +2627,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 ART. 639.- En la junta prevenida por el artículo 634 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1564 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1567 del mismo Código.
 
-### CAPITULO I. De los Incidentes en General
-
-ART. 775.- Son incidentes las cuestiones que se promueven en un juicio y tienen relación inmediata con el negocio principal.
-
-ART. 776.- Los incidentes que pongan obstáculo al curso del juicio, se substanciarán en la misma pieza de autos, quedando entre tanto en suspenso aquél.
-
-Los que no pongan obstáculo a la prosecución del juicio se substanciarán en pieza separada.
-
-ART. 777.- Impide el curso del juicio todo incidente sin cuya previa resolución es imposible de hecho o de derecho continuar substanciándolo.
-
-ART. 778.- Promovido el incidente observando en lo relativo las prevenciones de los artículos 253 y 254 y una vez formada en su caso la pieza correspondiente, se correrá traslado a la contra parte para que la conteste dentro de tres días.
-
-ART. 779.- Vencido el término de la contestación, dentro de los tres días siguientes podrán las partes pedir que se reciba a prueba el incidente y en este caso, en la promoción deberán especificar los hechos que se proponen demostrar y las pruebas que ofrecen rendir.
-
-ART. 780.- Promovida la prueba, se abrirá una dilación de diez días, dentro de la cual se recibirán las ofrecidas.
-
-ART. 781.- Fenecida la dilación probatoria las partes alegarán por su orden y por escrito dentro de tres días para cada una y el juez pronunciará su resolución dentro de otros tres, hayan o no alegado las partes. Si el incidente no hubiere sido abierto a prueba, el juez resolverá dentro de los tres días siguientes al en que se venza el término para contestar la demanda.
-
-ART. 782.- La sentencia en los incidentes será apelable en los casos en que lo fuere la sentencia en lo principal; pero el recurso sólo será admitido en el efecto devolutivo, salvo que la Ley disponga expresamente otra cosa.
+### CAPITULO VI. De las Sucesiones
 
 #### Sección III. De los Intestados
 
@@ -3081,6 +3205,26 @@ ART. 839.- El Ministerio Público será oído siempre que el juez deba interpone
 
 ## TITULO DECIMO. De los Incidentes
 
+### CAPITULO I. De los Incidentes en General
+
+ART. 775.- Son incidentes las cuestiones que se promueven en un juicio y tienen relación inmediata con el negocio principal.
+
+ART. 776.- Los incidentes que pongan obstáculo al curso del juicio, se substanciarán en la misma pieza de autos, quedando entre tanto en suspenso aquél.
+
+Los que no pongan obstáculo a la prosecución del juicio se substanciarán en pieza separada.
+
+ART. 777.- Impide el curso del juicio todo incidente sin cuya previa resolución es imposible de hecho o de derecho continuar substanciándolo.
+
+ART. 778.- Promovido el incidente observando en lo relativo las prevenciones de los artículos 253 y 254 y una vez formada en su caso la pieza correspondiente, se correrá traslado a la contra parte para que la conteste dentro de tres días.
+
+ART. 779.- Vencido el término de la contestación, dentro de los tres días siguientes podrán las partes pedir que se reciba a prueba el incidente y en este caso, en la promoción deberán especificar los hechos que se proponen demostrar y las pruebas que ofrecen rendir.
+
+ART. 780.- Promovida la prueba, se abrirá una dilación de diez días, dentro de la cual se recibirán las ofrecidas.
+
+ART. 781.- Fenecida la dilación probatoria las partes alegarán por su orden y por escrito dentro de tres días para cada una y el juez pronunciará su resolución dentro de otros tres, hayan o no alegado las partes. Si el incidente no hubiere sido abierto a prueba, el juez resolverá dentro de los tres días siguientes al en que se venza el término para contestar la demanda.
+
+ART. 782.- La sentencia en los incidentes será apelable en los casos en que lo fuere la sentencia en lo principal; pero el recurso sólo será admitido en el efecto devolutivo, salvo que la Ley disponga expresamente otra cosa.
+
 ### CAPITULO II. De los Incidentes Criminales que surjan en los Juicios Civiles
 
 ART. 783.- Cuando durante el juicio, antes de citación para sentencia, se denuncien hechos delictuosos relacionados con el negocio, el juez o tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones.
@@ -3092,6 +3236,8 @@ ART. 785.- Si el Ministerio Público al recibir la denuncia o durante la averigu
 ART. 786.- Decretada la suspensión, surtirá efectos mientras el Ministerio Público no comunique que no ejercita acción penal o se pronuncie sentencia definitiva en la averiguación criminal.
 
 ART. 787.- Concluída la averiguación criminal continuará el curso de los autos civiles y si el procedimiento penal termina sin decidir sobre la falsedad o autenticidad del documento, el tribunal de lo civil concederá un término de diez días para que rindan las partes sus pruebas, a fin de que, en la sentencia, se decida sobre el valor probatorio del documento.
+
+## TITULO DECIMO PRIMERO. Suspensión e Interrupción del Proceso
 
 ### CAPITULO I. Suspensión
 
@@ -3108,8 +3254,6 @@ ART. 791.- Con excepción de las medidas urgentes y de aseguramiento, todo acto 
 Los actos ejecutados ante un tribunal distinto del que conozca del negocio, durante el tiempo de la suspensión pero antes de que ésta se le comunique, son plenamente eficaces.
 
 El tiempo de la suspensión no se computa en ningún término.
-
-## TITULO DECIMO PRIMERO. Suspensión e Interrupción del Proceso
 
 ### CAPITULO II. Interrupción
 
@@ -3161,9 +3305,9 @@ ART. 804.- La sustanciación de las apelaciones en jurisdicción voluntaria se s
 
 ART. 805.- Los actos de jurisdicción voluntaria de que no se hiciere mención especial en este Código, se sujetarán a lo dispuesto en este Capítulo.
 
-### CAPITULO II. De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos cargos y de las Cuentas de la Tutela
-
 ## TITULO DECIMO SEGUNDO. De la Jurisdicción Voluntaria
+
+### CAPITULO II. De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos cargos y de las Cuentas de la Tutela
 
 ### CAPITULO III. De la Venta de Bienes de Menores e Incapacitados y Transacción Sobre sus Derechos
 
@@ -3214,40 +3358,6 @@ ART. 868.- Cuando en virtud de la transacción reciba el menor alguna cantidad, 
 ART. 869.- Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de los ausentes, así como el arrendamiento por más de cinco años de bienes de los ausentes, menores o incapacitados.
 
 ART. 870.- La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo, teniendo en cuenta lo que se dispone en el artículo 514 del Código Civil.
-
-### CAPITULO IV. De la Adopción
-
-ART. 871.- El que pretenda adoptar a alguna persona deberá acreditar:
-
-I.- Que es mayor de cuarenta años y tiene por lo menos diecisiete años más de edad que la persona que trata de adoptar;
-
-II.- Que no tiene descendientes;
-
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar;
-
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
-
-V.- Que el adoptante es persona de buenas costumbres.
-
-En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
-
-ART. 872.- Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 357 y 358 del Código Civil, el tribunal resolverá dentro de tercer día.
-
-ART. 873.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que se dispone en el artículo 367 del Código Civil.
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
-
-ART. 874.- La impugnación de la adopción y su revocación, en los casos de los artículos 354 y 365 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
-
-ART. 875.- Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 361 y 370 del Código Civil.
-
-(ADICIONADO, P.O. 17 DE ENERO DE 1992)(F. DE E., P.O. 20 DE MAYO DE 1994)
-
-ART. 875 BIS.- En el caso de que quien ejerza la patria potestad de un menor lo entregue a una Institución de Beneficencia autorizada y dependiente de Gobierno del Estado para promover su adopción, con la solicitud de la misma se citará a su representante y a los que ejerzan dicha patria potestad, con intervención del Ministerio Público, a efecto de que, acreditando con el acta correspondiente el estado de minoría y el nombre de aquéllos, se haga la entrega para adopción y previa la aceptación de la institución, se decrete la pérdida de la patria potestad y la ratificación de discernimiento del cargo de tutor al representante de la propia institución.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1975)</small>
 
 #### Sección III. Del Nombramiento de Curador y Discernimiento del Cargo
 
@@ -3306,6 +3416,40 @@ ART. 855.- Cuando del examen de la cuenta resulten motivos graves para sospechar
 ART. 856.- En todos los casos en que el tutor necesite para un acto cualquiera la licencia del juez o su aprobación, se requiere la previa audiencia del curador, con el cual, en caso de oposición se substanciará el juicio en la vía extraordinaria. En este juicio, en el que se decidirá solamente la diferencia entre el tutor y el curador, no se admitirá recurso alguno de las resoluciones que se dicten ni aun de las definitivas. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan conforme a derecho.
 
 ART. 857.- La remoción de los tutores y curadores, no es materia de jurisdicción voluntaria. La admisión de las excusas se hará, previa su justificación, con audiencia del curador y del Ministerio Público, si se trata del tutor, o con la de éste y el Ministerio Público, si se tratare de la del curador.
+
+### CAPITULO IV. De la Adopción
+
+ART. 871.- El que pretenda adoptar a alguna persona deberá acreditar:
+
+I.- Que es mayor de cuarenta años y tiene por lo menos diecisiete años más de edad que la persona que trata de adoptar;
+
+II.- Que no tiene descendientes;
+
+III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar;
+
+IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
+
+V.- Que el adoptante es persona de buenas costumbres.
+
+En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
+
+ART. 872.- Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 357 y 358 del Código Civil, el tribunal resolverá dentro de tercer día.
+
+ART. 873.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que se dispone en el artículo 367 del Código Civil.
+
+Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
+
+ART. 874.- La impugnación de la adopción y su revocación, en los casos de los artículos 354 y 365 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+
+ART. 875.- Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 361 y 370 del Código Civil.
+
+(ADICIONADO, P.O. 17 DE ENERO DE 1992)(F. DE E., P.O. 20 DE MAYO DE 1994)
+
+ART. 875 BIS.- En el caso de que quien ejerza la patria potestad de un menor lo entregue a una Institución de Beneficencia autorizada y dependiente de Gobierno del Estado para promover su adopción, con la solicitud de la misma se citará a su representante y a los que ejerzan dicha patria potestad, con intervención del Ministerio Público, a efecto de que, acreditando con el acta correspondiente el estado de minoría y el nombre de aquéllos, se haga la entrega para adopción y previa la aceptación de la institución, se decrete la pérdida de la patria potestad y la ratificación de discernimiento del cargo de tutor al representante de la propia institución.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1975)</small>
 
 ### CAPITULO V. De la Excusa y Pérdida de la Patria Potestad
 
@@ -3523,6 +3667,8 @@ ART. 934.- De los decretos y autos del tribunal superior, aun de aquellos que di
 
 ART. 935.- En los juicios extraordinarios la revocación se resolverá siempre de plano.
 
+## TITULO DECIMO TERCERO. De los Recursos
+
 ### CAPITULO II. De la Apelación
 
 ART. 936.- El recurso de apelación tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique la resolución dictada por el inferior.
@@ -3630,8 +3776,6 @@ ART. 963.- En el caso de que el apelante no comparezca a expresar agravios en el
 ART. 964.- Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonios, por las causas expresadas en los artículos 200, 201 y 207 a 210 del Código Civil, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
 
 ART. 965.- En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas y, quien deba pagar éstas.
-
-## TITULO DECIMO TERCERO. De los Recursos
 
 ### CAPITULO III. De la Apelación Extraordinaria
 
@@ -3783,6 +3927,8 @@ ART. 1009.- Los términos fijados en el artículo anterior se contarán desde la
 
 ART. 1010.- Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
 
+## TITULO DECIMO CUARTO. De la Ejecución de las Sentencias
+
 ### CAPITULO II. De la Ejecución de las Sentencias y demás resoluciones dictadas por los Tribunales de los Estados, del Distrito Federal, de los Territorios y del Extranjero
 
 ART. 1011.- El juez que reciba exhorto con las inserciones necesarias, conforme a derecho, para la ejecución de una sentencia u otra resolución judicial, cumplirá con lo que disponga el juez requirente, siempre que lo que haya de ejecutarse no sea contrario a la leyes del Estado.
@@ -3834,8 +3980,6 @@ La apelación se substanciará con un escrito de cada parte y el informe en estr
 ART. 1020.- Ni el juez inferior ni el Supremo Tribunal podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye; se limitarán a examinar su autenticidad y si debe o no ejecutarse conforme a las leyes del Estado.
 
 ART. 1021.- Si se denegare el cumplimiento, se devolverá la ejecutoria a la parte que la hubiere presentado; si se accediere a cumplirla, se procederá a la ejecución conforme a las disposiciones de este Código.
-
-## TITULO DECIMO CUARTO. De la Ejecución de las Sentencias
 
 ### CAPITULO III. De los Embargos
 
@@ -4179,6 +4323,202 @@ VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de e
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1997)</small>
 
+### CAPITULO I. De las controversias del Orden Familiar
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
+
+Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
+
+Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
+
+Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+### CAPITULO II. De la Audiencia de Pruebas y Alegatos
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1154.- El Juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo de ellas en forma oral. La recepción de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión, señalándose al efecto el día y la hora teniendo en consideración el tiempo para su preparación, deberá citarse para esa audiencia dentro de los treinta días siguientes a la admisión.
+
+La audiencia se celebrará con las pruebas que estén preparadas dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes y para el efecto se señalará la fecha para su continuación, la que tendrá verificativo dentro de los quince días siguientes. En este caso no hay que seguir el orden establecido para la recepción de las pruebas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1155.- Cuando las pruebas hubieran de practicarse fuera de la Capital, del Estado o del País, se recibirán a petición de parte dentro de un término de treinta, sesenta y noventa días, respectivamente, siempre que se llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de prueba; 2o.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados; 3o.- Que se designen, en caso de prueba instrumental, los archivos públicos o particulares donde se estén depositados los documentos que han de testimoniarse, o presentarse originales.
+
+El Juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1156.- Al litigante que se le hubiere concedido la ampliación a que se refiere el artículo anterior, se le entregarán los exhortos para su diligenciación y si no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo impedimento bastante, se le impondrá la multa, haciéndola efectiva del depósito a que se refiere el párrafo final del artículo anterior, así mismo se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y además se dejará de recibir la prueba.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1157.- Antes de la celebración de la audiencia, las pruebas deberán prepararse con toda oportunidad para que en ella puedan recibirse.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1158.- La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda hasta diez días antes de la celebración de la audiencia de pruebas. La parte que impugne de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente, sin estos requisitos se tiene por no impugnado el instrumento.
+
+De la impugnación se correrá traslado al colitigante y en la audiencia del Juicio se presentarán las pruebas y contrapruebas relativas a la impugnación.
+
+Lo dispuesto en este artículo sólo da competencia al Juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte el instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
+
+Si en el momento de la celebración de la audiencia se tramitare proceso penal sobre la falsedad del documento en cuestión, el Tribunal, sin suspender el procedimiento y según las circunstancias, determinará al dictar sentencia, si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad, o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1159.- Constituído el Tribunal en audiencia pública, el día y hora señalados al efecto, serán llamados por el Secretario los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban intervenir en el Juicio y se determinará quiénes deben de permanecer en el salón y quiénes en lugar separado, para ser introducidos en su oportunidad.
+
+La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y sus abogados.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1160.- Las pruebas ya preparadas se recibirán dejando pendientes para la continuación de la audiencia las que no lo hubieren sido.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1161.- La prueba de confesión se recibirá asentando las contestaciones en que vaya implícita la pregunta, sin necesidad de asentar ésta. El Juez debe particularmente atender a que no se formulen posiciones extrañas a los puntos cuestionados. Las partes pueden hacerse recíprocamente preguntas y formularse posiciones, y el Juez tiene la facultad de asentar el resultado de este careo, o bien las contestaciones conteniendo las preguntas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1162.- Enseguida se relatarán los documentos presentados, poniéndose de manifiesto planos, croquis o esquemas. Las partes, con sencillez, pueden explicar al Juez los documentos en que funden sus derechos, mostrándolos y leyéndolos en la parte conducente; el Juez puede hacer todas las preguntas necesarias sobre el contenido de los instrumentos. No se requiere hacer constar en el acta las exposiciones de las partes sobre los documentos ni las preguntas del Tribunal.
+
+Durante la audiencia no se pueden impugnar de falsos ni desconocer documentos que no lo fueron en su oportunidad. Cuando se hubiere hecho la impugnación de falsedad de un documento, se recibirán las pruebas y contrapruebas relativas a la objeción, asentándose sólo el resultado de ellas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1163.- Los peritos dictaminarán por escrito u oralmente en presencia de las partes. Tanto las partes como el Juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia en la cual se rinde la prueba.
+
+Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince días de salario mínimo general vigente en la región en caso de que no concurran, salvo causa grave que calificará el Juez.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1164.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia en presencia de las partes. El Juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de la prueba para el mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos; y el Juez extrictamente (sic) debe impedir preguntas ociosas e impertinentes.
+
+Los textos de las preguntas deberán implicarse en el texto de las contestaciones que se asienten en el acta de las diligencias y sólo en casos excepcionales, se podrán asentar separamente (sic), de manera literal, las preguntas de las respuestas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1165.- Concluída la recepción de las pruebas, el Tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandante. El Ministerio Público alegará también en los casos en que intervenga procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de un cuarto de hora en primera instancia y de media hora en segunda.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1166.- Queda prohibida la práctica de dictar los alegatos a la hora de la diligencia. Los alegatos serán verbales y pueden las partes presentar sus conclusiones por escrito.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1167.- Los Tribunales deben dirigir los debates previniendo a las partes se concreten exclusivamente a los puntos controvertidos, evitando disgresiones. Pueden interrumpir a los litigantes para pedirles explicaciones e interrogarlos sobre los puntos que estimen convenientes, ya sobre las constancias de autos o ya sobre otros particulares relativos al negocio.
+
+Cuando se invoquen jurisprudencias, doctrinas o leyes pueden exigir que se presenten en el acto mismo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1168.- De esta audiencia, el Secretario bajo la vigilancia del Juez, levantará acta desde que principie hasta que concluya la diligencia, haciendo constar el día, lugar y hora, la autoridad judicial ante quien se celebra, los nombres de las partes y abogados, peritos, testigos, intérpretes, el nombre de las partes que no concurrieron; las disposiciones judiciales sobre legitimación procesal, competencia, cosa juzgada, incidentes, declaraciones de las partes sin anotar la pregunta sino en forma implícita, extracto de las conclusiones de los peritos y declaraciones de los testigos, comprendiendo en ellas las preguntas, el resultado de la inspección ocular si la hubo y los documentos ofrecidos como pruebas si no constaren ya en el auto de admisión, las conclusiones de las partes en el debate oral, a no ser que por escrito las hubieren presentado los litigantes y los puntos resolutivos del fallo.
+
+Los peritos y testigos pueden retirarse de la audiencia después de desempeñar su cometido, firmando al margen del acta en la parte correspondiente a ellos.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1169.- Los Tribunales, bajo su más estricta responsabilidad al celebrar la audiencia de pruebas y alegatos, deben observar las siguientes reglas:
+
+I.- Continuación del procedimiento, de tal modo que no pueda suspenderse ni interrumpirse la audiencia hasta que no haya terminado, en consecuencia desecharán de plano las recusaciones y los incidentes que pudieran interrumpirlas.
+
+II.- Los Jueces que resuelvan deben ser los mismos que asistieron a la recepción de las pruebas y alegatos de las partes. Si por causa insuperable dejare el Juez de continuar la audiencia y fuere distinto el que lo substituyere en el conocimiento del negocio, puede mandar repetir las diligencias de prueba, si éstas no consisten sólo en documentos.
+
+III.- Mantener la mayor igualdad entre las partes, de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra.
+
+IV.- Evitar disgresiones, reprimiendo con energía las promociones de las partes que tiendan a suspender o retardar el procedimiento, y si fuere procedente, aplicará lo ordenado por el Artículo 59 de este Código, y
+
+V.- Siempre será pública la audiencia excepto en los casos en que a juicio del Tribunal convenga que sean secretas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1170.- Si por causas graves hubiere necesidad de prolongar la audiencia durante horas inhábiles, no se requiere providencia de habilitación.
+
+Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
+
+## TITULO DECIMO SEXTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
@@ -4313,202 +4653,6 @@ ART. 1135.- El tercero que considere perjudicados sus derechos al ejecutarse la 
 
 ART. 1136.- Las disposiciones de este Título se aplicarán también a los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-### CAPITULO II. De la Audiencia de Pruebas y Alegatos
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1154.- El Juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo de ellas en forma oral. La recepción de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión, señalándose al efecto el día y la hora teniendo en consideración el tiempo para su preparación, deberá citarse para esa audiencia dentro de los treinta días siguientes a la admisión.
-
-La audiencia se celebrará con las pruebas que estén preparadas dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes y para el efecto se señalará la fecha para su continuación, la que tendrá verificativo dentro de los quince días siguientes. En este caso no hay que seguir el orden establecido para la recepción de las pruebas.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1155.- Cuando las pruebas hubieran de practicarse fuera de la Capital, del Estado o del País, se recibirán a petición de parte dentro de un término de treinta, sesenta y noventa días, respectivamente, siempre que se llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de prueba; 2o.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados; 3o.- Que se designen, en caso de prueba instrumental, los archivos públicos o particulares donde se estén depositados los documentos que han de testimoniarse, o presentarse originales.
-
-El Juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1156.- Al litigante que se le hubiere concedido la ampliación a que se refiere el artículo anterior, se le entregarán los exhortos para su diligenciación y si no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo impedimento bastante, se le impondrá la multa, haciéndola efectiva del depósito a que se refiere el párrafo final del artículo anterior, así mismo se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y además se dejará de recibir la prueba.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1157.- Antes de la celebración de la audiencia, las pruebas deberán prepararse con toda oportunidad para que en ella puedan recibirse.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1158.- La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda hasta diez días antes de la celebración de la audiencia de pruebas. La parte que impugne de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente, sin estos requisitos se tiene por no impugnado el instrumento.
-
-De la impugnación se correrá traslado al colitigante y en la audiencia del Juicio se presentarán las pruebas y contrapruebas relativas a la impugnación.
-
-Lo dispuesto en este artículo sólo da competencia al Juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte el instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
-
-Si en el momento de la celebración de la audiencia se tramitare proceso penal sobre la falsedad del documento en cuestión, el Tribunal, sin suspender el procedimiento y según las circunstancias, determinará al dictar sentencia, si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad, o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1159.- Constituído el Tribunal en audiencia pública, el día y hora señalados al efecto, serán llamados por el Secretario los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban intervenir en el Juicio y se determinará quiénes deben de permanecer en el salón y quiénes en lugar separado, para ser introducidos en su oportunidad.
-
-La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y sus abogados.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1160.- Las pruebas ya preparadas se recibirán dejando pendientes para la continuación de la audiencia las que no lo hubieren sido.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1161.- La prueba de confesión se recibirá asentando las contestaciones en que vaya implícita la pregunta, sin necesidad de asentar ésta. El Juez debe particularmente atender a que no se formulen posiciones extrañas a los puntos cuestionados. Las partes pueden hacerse recíprocamente preguntas y formularse posiciones, y el Juez tiene la facultad de asentar el resultado de este careo, o bien las contestaciones conteniendo las preguntas.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1162.- Enseguida se relatarán los documentos presentados, poniéndose de manifiesto planos, croquis o esquemas. Las partes, con sencillez, pueden explicar al Juez los documentos en que funden sus derechos, mostrándolos y leyéndolos en la parte conducente; el Juez puede hacer todas las preguntas necesarias sobre el contenido de los instrumentos. No se requiere hacer constar en el acta las exposiciones de las partes sobre los documentos ni las preguntas del Tribunal.
-
-Durante la audiencia no se pueden impugnar de falsos ni desconocer documentos que no lo fueron en su oportunidad. Cuando se hubiere hecho la impugnación de falsedad de un documento, se recibirán las pruebas y contrapruebas relativas a la objeción, asentándose sólo el resultado de ellas.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1163.- Los peritos dictaminarán por escrito u oralmente en presencia de las partes. Tanto las partes como el Juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia en la cual se rinde la prueba.
-
-Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince días de salario mínimo general vigente en la región en caso de que no concurran, salvo causa grave que calificará el Juez.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1164.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia en presencia de las partes. El Juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de la prueba para el mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos; y el Juez extrictamente (sic) debe impedir preguntas ociosas e impertinentes.
-
-Los textos de las preguntas deberán implicarse en el texto de las contestaciones que se asienten en el acta de las diligencias y sólo en casos excepcionales, se podrán asentar separamente (sic), de manera literal, las preguntas de las respuestas.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1165.- Concluída la recepción de las pruebas, el Tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandante. El Ministerio Público alegará también en los casos en que intervenga procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de un cuarto de hora en primera instancia y de media hora en segunda.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1166.- Queda prohibida la práctica de dictar los alegatos a la hora de la diligencia. Los alegatos serán verbales y pueden las partes presentar sus conclusiones por escrito.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1167.- Los Tribunales deben dirigir los debates previniendo a las partes se concreten exclusivamente a los puntos controvertidos, evitando disgresiones. Pueden interrumpir a los litigantes para pedirles explicaciones e interrogarlos sobre los puntos que estimen convenientes, ya sobre las constancias de autos o ya sobre otros particulares relativos al negocio.
-
-Cuando se invoquen jurisprudencias, doctrinas o leyes pueden exigir que se presenten en el acto mismo.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1168.- De esta audiencia, el Secretario bajo la vigilancia del Juez, levantará acta desde que principie hasta que concluya la diligencia, haciendo constar el día, lugar y hora, la autoridad judicial ante quien se celebra, los nombres de las partes y abogados, peritos, testigos, intérpretes, el nombre de las partes que no concurrieron; las disposiciones judiciales sobre legitimación procesal, competencia, cosa juzgada, incidentes, declaraciones de las partes sin anotar la pregunta sino en forma implícita, extracto de las conclusiones de los peritos y declaraciones de los testigos, comprendiendo en ellas las preguntas, el resultado de la inspección ocular si la hubo y los documentos ofrecidos como pruebas si no constaren ya en el auto de admisión, las conclusiones de las partes en el debate oral, a no ser que por escrito las hubieren presentado los litigantes y los puntos resolutivos del fallo.
-
-Los peritos y testigos pueden retirarse de la audiencia después de desempeñar su cometido, firmando al margen del acta en la parte correspondiente a ellos.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1169.- Los Tribunales, bajo su más estricta responsabilidad al celebrar la audiencia de pruebas y alegatos, deben observar las siguientes reglas:
-
-I.- Continuación del procedimiento, de tal modo que no pueda suspenderse ni interrumpirse la audiencia hasta que no haya terminado, en consecuencia desecharán de plano las recusaciones y los incidentes que pudieran interrumpirlas.
-
-II.- Los Jueces que resuelvan deben ser los mismos que asistieron a la recepción de las pruebas y alegatos de las partes. Si por causa insuperable dejare el Juez de continuar la audiencia y fuere distinto el que lo substituyere en el conocimiento del negocio, puede mandar repetir las diligencias de prueba, si éstas no consisten sólo en documentos.
-
-III.- Mantener la mayor igualdad entre las partes, de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra.
-
-IV.- Evitar disgresiones, reprimiendo con energía las promociones de las partes que tiendan a suspender o retardar el procedimiento, y si fuere procedente, aplicará lo ordenado por el Artículo 59 de este Código, y
-
-V.- Siempre será pública la audiencia excepto en los casos en que a juicio del Tribunal convenga que sean secretas.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1170.- Si por causas graves hubiere necesidad de prolongar la audiencia durante horas inhábiles, no se requiere providencia de habilitación.
-
-Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-### CAPITULO I. De las controversias del Orden Familiar
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
-
-En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
-
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
-
-Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
-
-Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
-
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
-
-Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
-
-## TITULO DECIMO SEXTO
-
 ## ARTICULOS TRANSITORIOS
 
 ART. 1°.- Este Código empezará a regir el día 1º de julio de mil novecientos cuarenta y siete.
@@ -4590,3 +4734,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 17 DE JUNIO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
