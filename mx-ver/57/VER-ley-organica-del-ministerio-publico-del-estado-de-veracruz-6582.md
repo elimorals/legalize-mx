@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "1990-12-27"
+last_updated: "1992-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -547,7 +547,9 @@ Corresponde al Director de Averiguaciones Previas:
 
 I.- Recibir las denuncias y querellas que le sean presentadas y practicar las averiguaciones previas en el Distrito Judicial cuya cabecera es la ciudad de Xalapa-Enríquez, Veracruz, y, en su caso, ejercitar la acción penal.
 
-II.- Para el ejercicio de la función a que se refiere la fracción anterior, se auxiliará con el número de Agentes del Ministerio Público Investigadores que el Procurador determine, conforme a las necesidades del servicio y a las previsiones del presupuesto.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+II.- Para el ejercicio de la función a que se refiere la fracción anterior, se auxiliará con el número de Agentes del Ministerio Público Investigadores que el Procurador determine, conforme a las necesidades del servicio y a las previsiones del presupuesto, los cuales tendrán al igual que el Director General de Averiguaciones Previas, la facultad de recibir denuncias y querellas, practicar la averiguación previa correspondiente y determinar el ejercicio o no de la acción penal.
 
 III.- Practicar en cualquier lugar del Estado las averiguaciones previas que expresamente acuerde el Procurador.
 
@@ -773,9 +775,13 @@ II.- El número de Peritos Oficiales que designe el Procurador General de Justic
 
 III.- El número de Peritos Voluntarios, que, dentro de los programas de participación ciudadana, cooperen con la Procuraduría de Justicia en forma permanente.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 51.
 
-La Dirección de Servicios Periciales integrará tres departamentos o secciones: de Criminalística, de Identificación y de Dictámenes diversos.
+La Dirección de Servicios Periciales se integrará por cuatro departamentos que serán: de Criminalística, de Medicina Forense, de Identificación y de Dictámenes diversos.
+
+La Dirección de Servicios Periciales tendrá a su cargo el casillero de identificación criminal, con clasificación dactiloscópica, nominal, fotográfica, sistema de proceder del identificado, así como cualquier otro modelo de identificación.
 
 ###### ARTICULO 52.
 
@@ -785,17 +791,45 @@ Los dictámenes se emitirán en las diversas especialidades, a petición del Min
 
 En el caso de que se soliciten los servicios periciales por autoridad o institución pública distintas de las señaladas en el párrafo anterior, ellos sólo serán prestados por acuerdo del Procurador.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 53.
 
-La Dirección General de Servicios Periciales tendrá a su cargo el casillero de identificación criminal, con clasificación dactiloscópica, nominal, fotográfica, sistema de proceder del identificado, así como cualquier otro modelo de identificación.
+De acuerdo con las instrucciones del Procurador, según las necesidades del servicio, la Dirección General de Servicios Periciales podrá adscribir peritos a las Agencias investigadoras del Ministerio Público u ordenar el traslado temporal de peritos a donde requieran las funciones de dicha Institución.
+
+El Director, previo acuerdo del Procurador podrá solicitar la colaboración de los Servicios Periciales de otras Procuradurías, conforme a los convenios de solidaridad y cooperación establecidos, o que lleguen a establecerse.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 54.
 
-De acuerdo con las intrucciones (sic) del Procurador, según las necesidades del servicio, la Dirección General de Servicios Periciales podrá adscribir peritos a las Agencias Investigadoras del Ministerio Público u ordenar el traslado temporal de peritos a donde lo requieran las funciones de dicha Institución.
+El Servicio Médico Forense, será desempeñado por peritos médicos, considerándose como auxiliares a los médicos de los hospitales oficiales, los establecimientos de beneficiencia (sic) pública, la Cruz Roja y los médicos de servicio municipal.
+
+Donde no haya médicos titulados, se utilizarán los servicios de pasantes de medicina y a falta de éstos, de personas con suficientes conocimientos.
+
+En cada Distrito Judicial habrá por lo menos un médico forense y los que se requiera para atender las necesidades del servicio; cuando haya dos o más, no podrán estar ligados por parentesco alguno.
+
+El Servicio Médico Forense, atenderá las órdenes que se deriven de las actuaciones del Ministerio Público , la Policía Judicial y del Poder Judicial.
+
+Los Pasantes de Medicina y las personas versadas en el ramo respectivo de la medicina pero carentes del Título Profesional, tendrán todas las obligaciones de los médicos titulados. Las autoridades que conozcan de asuntos en que intervengan peritos prácticos, enviarán los certificados que expidan éstos a los médicos forenses más próximos, para que expresen su opinión.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 55.
 
-El Director, previo acuerdo del Procurador podrá solicitar la colaboración de los Servicios Periciales de otras Procuradurías, conforme a los convenios de solidaridad y cooperación establecidos, o que lleguen a establecerse.
+Son obligaciones de los médicos forenses:
+
+I.- Reconocer a las personas que se les indique y emitir el dictamen médico correspondiente.
+
+II.- Practicar las necrocirugías ordenadas y expedir los certificados médicos, exponiendo el estado que guarda el cadáver, las lesiones que presenta y las causas que ocasionaron la muerte
+
+III.- Entregar a las autoridades cuando pueda servir para el esclarecimiento de los delitos, haciendo las indicaciones sobre su conservación.
+
+IV.- Acudir a los Tribunales para la práctica de diligencias, cuando así lo requieran éstos.
+
+V.- Informar por escrito, dentro de los primeros cinco días de cada mes al Director de Servicios Periciales, de las actividades realizadas.
+
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias en vigor.
 
 ### CAPITULO X. DEL CENTRO DE CAPACITACION PROFESIONAL DE LA PROCURADURIA GENERAL DE JUSTICIA
 
@@ -1140,3 +1174,21 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la 'Ga
 ###### ARTICULO SEGUNDO.
 
 El funcionamiento de las Coordinaciones Regionales creadas mediante esta Ley, queda sujeto a que se efectúen las asignaciones presupuestales correspondientes, debiendo el Procurador General de Justicia, dictar los Acuerdos que para el efecto se requieran.
+
+G.O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma, entrará en vigor a los quince días siguientes de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Los médicos legistas que a la fecha prestan sus servicios en Distritos Judiciales del Estado, con funciones normadas por la Ley Orgánica del Poder Judicial, pasarán a formar parte de la Procuraduría General de Justicia, con todos los derechos y obligaciones que actualmente tienen; igualmente pasarán a ésta los bienes que tiene asignado el Poder Judicial al Servicio Médico Legista.
+
+###### ARTICULO CUARTO.
+
+Para los efectos del artículo anterior, el Tribunal Superior de Justicia, la Secretaría de Finanzas y Planeación y la Procuraduría General de Justicia, en el ámbito de su competencia, realizarán las acciones necesarias para el cumplimiento de esta ley.
