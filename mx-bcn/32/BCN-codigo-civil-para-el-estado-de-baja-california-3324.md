@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1993-09-17"
+last_updated: "1995-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -11545,17 +11545,15 @@ Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente,
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 2273.
 
 La renta o precio del arrendamiento, puede consistir en una suma de dinero o en cualquier otra cosa equivalente con tal que sea cierta y determinada.
 
-Si la renta se fija en cantidades ciertas de dinero, será en moneda nacional.
+La renta convenida en el arrendamiento de casa destinada a su habitación, debe hacerse en moneda nacional. En caso de que se fije en moneda extranjera, se entenderá como pactada en la cantidad equivalente en moneda nacional, pero al tipo de cambio vigente en la fecha en que se celebró el contrato respectivo.
 
-Toda estipulación en contrario se tendrá por no puesta.
-
-Las disposiciones anteriores contenidas en el presente Artículo, serán de orden público e interés social y por lo tanto son irrenunciables.
+Las disposiciones anteriores son de orden público e interés social y, por lo tanto irrenunciable.
 
 ###### ARTICULO 2274.
 
@@ -15044,3 +15042,9 @@ P.O. 17 DE SEPTIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 13 DE OCTUBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
