@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2004-04-01"
+last_updated: "2004-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -407,7 +407,9 @@ V. Ocupacional, que comprenderá el grado inicial de aptitud para el trabajo, as
 
 VI. De trabajo social, que contendrá datos sobre la situación sociocriminológica del interno, así como del trabajo del mismo y las orientaciones para conducirse en el lugar a donde vaya a radicar.
 
-VII. Preliberacional, que contendrá el control de presentaciones del interno en el centro así como la modalidad del tratamiento.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2004)</small>
+
+VII. Preliberacional, para los casos que así proceda, que contendrá el control de prestaciones del interno en el centro así como la modalidad del tratamiento.
 
 VIII. Jurídica, que constará de boleta de detención, auto constitucional, asignación antropométrica, ficha dactiloscópica, sentencias de primera, segunda instancia y la de amparo, en su caso, dictadas por Tribunales competentes, así como la reseña penológica.
 
@@ -429,9 +431,11 @@ Estando a lo dispuesto en cuanto al contenido de este libro a lo señalado en el
 
 El Director del centro, que no reciba copia autorizada del auto de formal prisión de un indiciado dentro de las 72 horas que señala el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, deberá advertir al Juez de la causa sobre dicho particular en el acto mismo de concluir el término, y si no se cumple con lo dispuesto por la Fracción XVIII del Artículo 107 constitucional, dentro de las tres horas siguientes pondrá al indiciado en libertad levantando el acta administrativa correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 40.
 
-El régimen institucional de tratamiento tendrá carácter progresivo y técnico y constará de los períodos de estudio, diagnóstico y tratamiento dividido éste último en fases de clasificación y de tratamiento preliberacional. Se fundará en los resultados de los estudios de personalidad que se practiquen al interno, los que deberán ser actualizados periódicamente.
+El régimen institucional de tratamiento tendrá carácter progresivo y técnico y constará de los períodos de estudio, diagnóstico y tratamiento dividido este último en fases de clasificación y de tratamiento preliberacional, en los términos y condiciones que establezca la presente Ley. Se fundará en los resultados de los estudios de personalidad que se practiquen al interno, los que deberán ser actualizados periódicamente.
 
 ###### Artículo 41.
 
@@ -749,6 +753,10 @@ Por cada dos días de trabajo del interno se hará remisión de uno de prisión,
 
 A los internos que por falta de ocupación laboral asistan regularmente a la escuela, les serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida alternativa útil tendiente a su reincorporación social.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+
 ###### Artículo 101.
 
 Los casos de los internos que conforme a esta Ley deban ser estudiados para la remisión parcial de la pena se programarán por la Dirección de Prevención y Readaptación Social.
@@ -783,11 +791,19 @@ IV. Traslado a la Institución Abierta.
 
 V. Régimen de prelibertad.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2004)</small>
 
 ###### Artículo 106.
 
 La prelibertad se podrá otorgar desde dos años antes a la fecha en que el interno esté en tiempo de obtener su libertad condicional o absoluta, en correlación con el beneficio de la remisión parcial de la pena.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+La prelibertad no se podrá otorgar antes de la fecha en que el interno esté en tiempo de obtener su libertad condicional o absoluta, en correlación con el beneficio de la remisión parcial de la pena en los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1004,6 +1020,12 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 P.O. 1 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+P.O. 11 DE AGOSTO DE 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
