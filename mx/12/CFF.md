@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1993-07-26"
+last_updated: "1993-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 1993.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 1 DE MARZO DE 1993.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE NOVIEMBRE DE 1993.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -1874,43 +1874,43 @@ VI. Señalar como domicilio fiscal para efectos del registro federal de contribu
 
 A quien cometa las infracciones relacionadas con el registro federal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$398.00 a las comprendidas en las fracciones I, II y VI.
+I. De N$423.00 a las comprendidas en las fracciones I, II y VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$199.00 a la comprendida en la fracción III.
+II. De N$212.00 a la comprendida en la fracción III.
 
 III. Para la señalada en la fracción IV:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre N$71.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de N$797.00.
+a). Tratándose de declaraciones, la mayor que resulte entre N$76.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de N$847.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-b). De N$199.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De N$71.00 en los demás documentos.
+b). De N$212.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IV. De N$1,195.00 para la establecida en la fracción V.
+c). De N$76.00 en los demás documentos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. De N$1,270.00 para la establecida en la fracción V.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1950,53 +1950,53 @@ VIII. No presentar los dados e informes en los términos del artículo 13 de la 
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 I. Para la señalada en la fracción I:
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre N$71.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas, se le aplicará también la multa a que se refiere este inciso.
+a). Tratándose de declaraciones, la mayor que resulte entre N$76.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas, se le aplicará también la multa a que se refiere este inciso.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre N$85.00 o el 10% del saldo a cargo declarado en su caso.
+b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre N$91.00 o el 10% del saldo a cargo declarado en su caso.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De N$78.00 en los demás documentos.
+c). De N$83.00 en los demás documentos.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 II. Respecto de la señalada en la fracción II:
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). De N$43.00 por no poner el nombre o ponerlo equivocadamente.
+a). De N$45.00 por no poner el nombre o ponerlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). De N$21.00 por no poner el domicilio o ponerlo equivocadamente.
+b). De N$23.00 por no poner el domicilio o ponerlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De N$4.30 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c). De N$4.50 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, REMITIRSE A LA FRACCION V DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-d). De N$43.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d). De N$45.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-e). De N$43.00 en los demás casos.
+e). De N$45.00 en los demás casos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre N$78.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+III. Tratándose de la señalada en la fracción III, la que resulte mayor entre N$83.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -2006,23 +2006,23 @@ IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectua
 
 V. Para la señalada en la fracción V, la multa será del 30% de la devolución o compensación indebida.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-VI. Para la señalada en la fracción VI la multa será de N$280.00.
+VI. Para la señalada en la fracción VI la multa será de N$297.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
-
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-VII. Para la señalada en la fracción VII la multa será de N$56.00.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-VIII. Para la señalada en la fracción VIII, la multa será de N$100,735.00.
+VII. Para la señalada en la fracción VII la multa será de N$59.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VIII. Para la señalada en la fracción VIII, la multa será de N$107,065.00.
 
 ###### Artículo 83.
 
@@ -2070,55 +2070,55 @@ XII. No expedir o acompañar la documentación que ampare mercancías en transpo
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$199.00 a N$1,992.00 a la comprendida en la fracción I.
+I. De N$212.00 a N$2,117.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II. De N$43.00 a N$996.00 a las establecidas en las fracciones II y III.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De N$43.00 a N$797.00 a la señalada en la fracción IV.
+II. De N$45.00 a N$1,059.00 a las establecidas en las fracciones II y III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV. De N$43.00 a N$398.00 a la comprendida en la fracción V.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-V. De N$121.00 a $1,594.00 a la señalada en la fracción VI.
+III. De N$45.00 a N$847.00 a la señalada en la fracción IV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. De N$45.00 a N$423.00 a la comprendida en la fracción V.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+V. De N$129.00 a $1,694.00 a la señalada en la fracción VI.
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 VI. De cinco veces el importe total que debió consignarse en el comprobante de que se trate a la señalada en la fracción VII. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VII. De N$398.00 a N$1'992.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+VII. De N$423.00 a N$2'117.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 VIII. Por el 20% del importe consignado en el comprobante a la comprendida en la fracción IX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IX. De N$42,687.00 a N$128,061.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
+IX. De N$45,370.00 a N$136,109.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2150,21 +2150,21 @@ V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, 
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
-I. De N$43.00 a N$1,992.00 a la comprendida en la fracción I.
+I. De N$45.00 a N$2,117.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-III. De N$5.60 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De N$6.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
-IV. De N$711.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
+IV. De N$756.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
 
 V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción V.
 
@@ -2174,13 +2174,13 @@ V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la 
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de N$56.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de N$168.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de N$59.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de N$178.00 por cada una de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2212,17 +2212,17 @@ III. No suministrar los datos e informes sobre clientes y proveedores que legalm
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$413.00 a N$4,126.00 a la comprendida en la fracción I.
+I. De N$439.00 a N$4,386.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$199.00 a N$8,253.00 a la establecida en la fracción II.
+II. De N$212.00 a N$8,771.00 a la establecida en la fracción II.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2238,7 +2238,7 @@ I. No adherir marbetes a los envases.
 
 II. Hacer cualquier uso diferente de los marbetes al de adherirlos a los envases que contengan bebidas alcohólicas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2246,9 +2246,9 @@ II. Hacer cualquier uso diferente de los marbetes al de adherirlos a los envases
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-I. De N$34.00 a la comprendida en la fracción I, por cada marbete no adherido.
+I. De N$36.00 a la comprendida en la fracción I, por cada marbete no adherido.
 
-II. De N$56.00 a la comprendida en la fracción II, por cada marbete.
+II. De N$59.00 a la comprendida en la fracción II, por cada marbete.
 
 ###### Artículo 87.
 
@@ -2268,17 +2268,17 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 
 A quien comenta (sic) las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$199.00 a N$2,063.00 a la comprendida en la fracción I.
+I. De N$212.00 a N$2,193.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$199.00 a N$8,253.00 a las establecidas en las fracciones II y III.
+II. De N$212.00 a N$8,771.00 a las establecidas en las fracciones II y III.
 
 ###### Artículo 89.
 
@@ -2292,23 +2292,23 @@ II. Ser cómplice en cualquier forma no prevista, en la comisión de infraccione
 
 A quien cometa las infracciones señaladas en el artículo 89 de este Código, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$413.00 a N$4,126.00 a la comprendida en la fracción I.
+I. De N$439.00 a N$4,386.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$199.00 a N$2,063.00 a la establecida en la fracción II.
+II. De N$212.00 a N$2,193.00 a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA VIGÉSIMA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1992, D.O.F. DEL 1 DE MARZO DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de N$42.00 a N$417.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de N$44.00 a N$444.00.
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -5023,3 +5023,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan las demás disposiciones que se opongan al presente.
+
+D.O.F. 3 DE NOVIEMBRE DE 1993.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
