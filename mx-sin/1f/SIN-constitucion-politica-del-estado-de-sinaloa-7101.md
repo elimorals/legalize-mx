@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1994-02-09"
+last_updated: "1994-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1994.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -373,23 +373,25 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988) (F. DE E., P.O. 30 DE DICIEMBRE DE 1988)
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
 ###### Art. 37.
 
-En el primer período ordinario de sesiones el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día cinco de Diciembre de cada año, a efecto de que pueden (sic) regir a partir del primero de Enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior.
+En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuestos (sic) de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día cinco de diciembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
 
-De igual manera, en el primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Estado, que corresponde a los meses de Enero, Febrero, Marzo, Abril, Mayo y Junio, que deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+Asimismo, en este período revisará y aprobará en su caso, el primer semestre de la cuenta pública de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de enero a junio.
 
-Asimismo, en este período revisará y aprobará en su caso, el segundo cuatrimestre de la cuenta pública de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de Mayo, Junio, Julio y Agosto, salvo que hubiese prorrogado el segundo período ordinario de sesiones o hubiese estado en período extraordinario de sesiones, en cuyo caso revisará y aprobará las cuentas mencionadas.
+En el segundo período ordinario de sesiones revisará y aprobará en su caso, el segundo semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de julio a diciembre del ejercicio fiscal del año inmediato anterior, que deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
 
-En el segundo período ordinario de Sesiones revisará y aprobará en su caso, la cuenta pública del Estado del segundo semestre del año anterior que comprende los meses de Julio, Agosto, Septiembre, Octubre, Noviembre y Diciembre, que deberá ser presentada al Congreso a más tardar quince días antes de su apertura.
+También en este período, revisará y aprobará en su caso, el segundo semestre de la cuenta pública de los municipios, que presenten los Ayuntamientos, correspondiente a los meses de julio a diciembre, del ejercicio fiscal del año inmediato anterior.
 
-También en este período, revisará y aprobará en su caso, la cuenta pública del tercer cuatrimestre del año anterior de los municipios, correspondiente a los meses de septiembre, octubre, noviembre y diciembre, recibidas por el Congreso.
+El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y, de proceder, expedirá el finiquito respectivo, por cada semestre del ejercicio fiscal en los casos de las cuentas públicas del estado y de los Municipios.
 
-Igualmente, en el segundo período ordinario de sesiones, el Congreso revisará y aprobará en su caso, el primer cuatrimestre de la cuenta pública de los municipios correspondientes a los meses de enero, febrero, marzo y abril.
+Cuando se decrete la suspensión de la aprobación de una cuenta pública, ésta deberá ser nuevamente discutida en el siguiente período ordinario de sesiones, previa a la revisión y aprobación en su caso, de la que corresponda al mismo.
 
-El Congreso del Estado revisará, aprobará o hará observaciones y, de proceder, expedirá el finiquito respectivo, cuatrimestralmente tratándose de cuentas públicas municipales, en los términos de los párrafos anteriores y semestralmente cuando se refiera a la cuenta pública estatal.
+En caso de que en la revisión de una cuenta pública, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos, se denunciarán ante la Procuraduría General de Justicia del Estado, la Contraloría General del Estado o ante la autoridad que corresponda, según el caso.
+
+Los organismos públicos descentralizados y de participación estatal o municipal, deberán remitir la información sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, en los términos previstos por las leyes, a más tardar quince días antes de la apertura del segundo período ordinario de sesiones.
 
 En los dos períodos el Congreso se ocupará, además, del estudio, discusión y votación de las iniciativas de Ley que se presenten y de la resolución de todos los asuntos que le correspondan.
 
@@ -515,13 +517,17 @@ XX. Conocer de las imputaciones formuladas mediante juicio político en contra d
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-(REFORMADA, P.O. 28 DE DICIEMBRE DE 1988) (F. DE E., P.O. 30 DE DICIEMBRE DE 1988)
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
 
-XXII. Revisar por medio de la Contaduría Mayor de Hacienda, la documentación comprobatoria y justificativa de los movimientos contables realizados por el Gobierno del Estado y por los Municipios. Para el efecto, dicha documentación deberá mantenerse en todo momento a disposición del Congreso del Estado. La revisión de dichas cuentas no se limitará a precisar el ingreso y a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables, y efectuar, cuando menos una vez al año, visitas de inspección a todas y a cada una de las Tesorerías Municipales.
+XXII. Revisar por medio de la Contaduría Mayor de Hacienda, la documentación comprobatoria y justificativa de los movimientos contables realizados por el Gobierno del Estado y por los Municipios. Para tal efecto, dicha documentación deberá mantenerse en todo momento a disposición del Congreso del Estado. La revisión de dichas cuentas no se limitará a precisar el ingreso y a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables, y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las Tesorerías Municipales.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1987)</small>
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1994)</small>
 
-XXIII. Autorizar al Gobernador del Estado para que celebre empréstitos, conforme a lo previsto por el Artículo 84 de ésta Constitución, y otorgue avales para garantizar obligaciones legalmente establecidas. Así como aprobar o no los contratos respectivos.
+XXII Bis. Revisar el informe que rinda la Contaduría Mayor de Hacienda sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
+
+XXIII. Autorizar al Gobernador del Estado para que celebre empréstitos, conforme a lo previsto por el Artículo 84 de esta Constitución, y otorgue avales para garantizar obligaciones legalmente establecidas. Así como aprobar o no los contratos respectivos. Asimismo, autorizar por mayoría calificada al Ejecutivo y a los Ayuntamientos para constituirse en aval de organismos sociales legalmente instituidos que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
 
 XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
@@ -675,15 +681,23 @@ Cuando por cualquiera causa no pudiere una Legislatura inaugurar un período de 
 
 #### SECCION V. DE LA CONTADURIA MAYOR DE HACIENDA
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+
 ###### Art. 53.
 
-Para los efectos de la fracción XXII del artículo 43 de esta Constitución, habrá una Contaduría Mayor de Hacienda, bajo la inmediata y exclusiva dependencia del Congreso.
+Para los efectos de la fracción XXII del artículo 43 de esta Constitución, habrá una Contaduría Mayor de Hacienda, bajo la inmediata y exclusiva dependencia del Congreso, a través de una Comisión de Vigilancia, en los términos precisados en la Ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+La Contaduría Mayor de Hacienda es el órgano técnico cuya función es la revisión de las cuentas públicas del Gobierno del Estado y de los Municipios. Para tal efecto gozará de plena independencia y autonomía y deberá contar con las áreas, departamentos, equipo profesional y personal suficiente para que cumpla de manera eficaz sus atribuciones; debiendo utilizar para el ejercicio de sus facultades todos los adelantos tecnológicos, profesionales y científicos que se requieran, contando para ello con las partidas presupuestales correspondientes que le asigne el Congreso.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
 ###### Art. 54.
 
-La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa del Congreso, hará la revisión de todas las cuentas que el Ejecutivo y los Ayuntamientos presenten a la Cámara y resolverá todas las consultas que a ésta le hagan. Una ley especial reglamentará la organización y funciones de la Contaduría Mayor de Hacienda.
+La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa del Congreso, hará la revisión de todas las cuentas públicas que el Gobierno del Estado y los Municipio (sic) presenten a la Cámara; establecerá normas y sistemas de información uniformes y obligatorios para la presentación de las cuentas públicas y resolverá todas las consultas, en el área de su competencia, que le hagan a la misma.
+
+Asimismo hará la revisión de los informes financieros de los organismos públicos descentralizados y de participación estatal o municipal, en los términos que prevengan las leyes.
+
+Una ley especial reglamentará la organización y funciones de la Contaduría Mayor de Hacienda.
 
 ### CAPITULO III. DEL PODER EJECUTIVO
 
@@ -825,9 +839,9 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
 
-XXI. Otorgar avales, previa autorización del Congreso del Estado, para garantizar empréstitos concedidos a organismos públicos legalmente instituidos, a que se refiere el Artículo 84 de esta Constitución.
+XXI. Otorgar avales, previa autorización del Congreso del Estado, para garantizar empréstitos concedidos a organismos públicos legalmente instituidos, a que se refiere el Artículo 84 de esta Constitución. Asimismo, bajo las mismas condiciones señaladas anteriormente, el Ejecutivo podrá constituirse en aval de organismos sociales legalmente instituidos, que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -2493,25 +2507,25 @@ P.O. 9 DE FEBRERO DE 1994.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
+P.O. 20 DE ABRIL DE 1994.
+
+DECRETO No. 315 POR EL QUE SE REFORMAN Y ADICIONAN EN SU CASO LOS ARTICULOS 37, 43 FRACCION XXII Y SE ADICIONA LA FRACCION XXII BIS, 53 Y 54 DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+
 ###### ARTICULO PRIMERO.
 
-Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+La revisión de las cuentas públicas de los municipios correspondientes al año fiscal de 1993 será en forma cuatrimestral, las que correspondan a 1994 se hará en forma semestral.
 
-G.G. 14 DE JULIO DE 2015.
+P.O. 20 DE ABRIL DE 1994.
 
-DECRETO NÚMERO 479, POR EL QUE SE REFORMA EL ARTÍCULO 270 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+DECRETO No. 316 POR EL QUE SE REFORMAN LOS ARTICULOS 43 FRACCION XXIII, 65 FRACCION XXI DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
 
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTICULO UNICO.
 
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 14 DE JULIO DE 2015.
-
-DECRETO NÚMERO 480, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 176 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+El presente decreto entrará en vigor al día siguiente de su publicaciónn (sic) en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTICULO PRIMERO.
 
