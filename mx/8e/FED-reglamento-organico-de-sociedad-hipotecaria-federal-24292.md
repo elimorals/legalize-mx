@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-sociedad-hipotecaria-federal-24292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-09"
-last_updated: "2002-04-09"
+last_updated: "2005-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-04-08"
 
 REGLAMENTO ORGANICO DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de abril de 2002.
 
@@ -51,7 +51,7 @@ El presente Reglamento Orgánico tiene por objeto establecer las bases conforme 
 
 Para efectos de este Reglamento Orgánico, se deberá entender por:
 
-I. Comisión Consultiva.- La Comisión Consultiva de la Sociedad, integrada por los tenedores de la Serie "B".
+I. (DEROGADA, D.O.F. 24 DE ENERO DE 2005)
 
 II. Consejo Directivo.- El Consejo Directivo de la Sociedad.
 
@@ -193,11 +193,15 @@ d) El Gobernador del Banco de México.
 
 En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de Presidente del Consejo Directivo.
 
-Cada consejero de la Serie "A", designará como suplente a servidores públicos que tengan al menos nivel de director general. Tratándose del Gobernador del Banco de México, lo será el Subgobernador que designe el propio Gobernador.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Los titulares de las dependencias mencionadas designarán como suplentes a servidores públicos que tengan al menos nivel de director general. Tratándose del Gobernador del Banco de México, lo será el Subgobernador que designe el propio Gobernador.
 
 II. Dos consejeros de la Serie "B" que serán designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público. Los nombramientos deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos, y
 
-III. Un consejero de la Serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente deberá recaer en persona que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sea ampliamente reconocido. Dicho consejero deberá observar lo señalado en el último párrafo del artículo 17 de la Ley Orgánica.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2005)</small>
+
+III. Un consejero de la serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente deberá recaer en persona de nacionalidad mexicana que, por sus conocimientos, honorabilidad y prestigio profesional, sea ampliamente reconocido. Dicho consejero deberá observar lo señalado en el último párrafo del artículo 17 de la Ley Orgánica.
 
 El consejero independiente deberá asistir a todas las sesiones del Consejo Directivo y no tendrá suplente. En caso de que dejare de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio, podrá ser removido de su cargo, en cuyo caso se designará nuevo consejero conforme a lo dispuesto en el párrafo anterior.
 
@@ -273,9 +277,11 @@ El Director General tendrá a su cargo la administración y la representación l
 
 La designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General, se hará con sujeción a lo dispuesto por los artículos 24 y 43 de la Ley de Instituciones de Crédito.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
 ###### Artículo 25.
 
-La vigilancia de la Sociedad estará encomendada a dos comisarios designados uno por la Secretaría de Contraloría y Desarrollo Administrativo y el otro por los tenedores de la Serie "B". Por cada comisario se nombrará un suplente.
+La vigilancia de la Sociedad estará encomendada a dos comisarios designados uno por la Secretaría de la Función Pública y el otro por los consejeros de la serie "B". Por cada comisario se nombrará un suplente.
 
 ###### Artículo 26.
 
@@ -293,75 +299,55 @@ V. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo a 
 
 VI. Vigilar en cualquier tiempo las operaciones de la Sociedad.
 
-La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito. En el caso del comisario designado por la Secretaría de Contraloría y Desarrollo Administrativo, las funciones enlistadas en este artículo se establecen sin perjuicio de las que le atribuyen otros ordenamientos legales.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito. En el caso del comisario designado por la Secretaría de la Función Pública, las funciones enlistadas en este artículo se establecen sin perjuicio de las que le atribuyen otros ordenamientos legales.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ### CAPITULO CUARTO. De la Comisión Consultiva
 
 ###### Artículo 27.
 
-El comisario designado por la Secretaría de Contraloría y Desarrollo Administrativo, durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por los tenedores de la Serie "B", por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
+El comisario designado por la Secretaría de la Función Pública, durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por los consejeros de la serie "B", por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
 
-Para la designación y remoción del comisario de la Serie "B" deberá celebrarse una sesión de la Comisión Consultiva a que se refiere el Capítulo Cuarto de este Reglamento Orgánico, cuyo acuerdo se tomará por mayoría de votos de los tenedores de la Serie "B" presentes.
+Los consejeros de los certificados de la serie "B" designarán y removerán al comisario correspondiente a esta serie de certificados.
 
-El comisario designado por los tenedores de la Serie "B" continuará en el desempeño de sus funciones, aun cuando concluya el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
+El comisario designado por los consejeros de la serie "B" continuará en el desempeño de sus funciones, aun cuando concluya el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
 
-### CAPITULO QUINTO. Del Comité de Sueldos y Prestaciones
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE ENERO DE 2005)</small>
+
+### CAPITULO QUINTO. Del Comité de Recursos Humanos y Desarrollo Institucional
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ###### Artículo 28.
 
-En los términos del artículo 45 de la Ley de Instituciones de Crédito, la Sociedad tendrá una Comisión Consultiva integrada por los titulares de los certificados de aportación patrimonial de la Serie "B", distintos de los del Gobierno Federal, que se reunirá y ocupará de los asuntos siguientes:
-
-I. Conocer y opinar sobre la política y criterios conforme a los cuales la Sociedad lleve a cabo sus operaciones;
-
-II. Analizar y opinar sobre el informe de actividades y los estados financieros que le presente el Consejo Directivo por conducto del Director General;
-
-III. Opinar sobre los proyectos de aplicación de utilidades;
-
-IV. Formular las recomendaciones al Consejo Directivo que estime convenientes sobre las materias de que tratan las fracciones anteriores;
-
-V. Designar y remover a consejeros y comisarios de la Serie "B", con el acuerdo de la mayoría de los Tenedores de dicha Serie;
-
-VI. Aprobar los informes anuales de actuación que le presenten los consejeros Serie "B" y, en su caso, tomar las medidas que juzgue oportunas, y
-
-VII. Los demás de carácter consultivo que se señalen en el presente Reglamento.
+(DEROGADO, D.O.F. 24 DE ENERO DE 2005)
 
 ###### Artículo 29.
 
-La Comisión Consultiva podrá ser convocada mediante aviso que se publicará por una sola vez en uno de los periódicos de circulación nacional del domicilio de la Sociedad, al menos con diez días hábiles de anticipación a la fecha señalada para la reunión.
+(DEROGADO, D.O.F. 24 DE ENERO DE 2005)
 
-En todo caso, la Comisión Consultiva podrá ser convocada en cualquier tiempo por cuando menos una tercera parte de sus miembros, por el Presidente del Consejo Directivo, por el Director General, por dos consejeros de la Serie "B" o por el comisario de la misma Serie.
-
-Para tener derecho de asistir a las sesiones de la Comisión Consultiva y votar, los tenedores de certificados de aportación patrimonial de la Serie "B" depositarán los certificados de aportación patrimonial de la Serie "B" que sean de su propiedad conforme al registro de dichos títulos que llevará la Sociedad, en cualquier institución de crédito de la República Mexicana, debiendo exhibir la constancia de dicho depósito en el momento de la reunión.
-
-Los tenedores de los certificados de la Serie "B" podrán hacerse representar en las asambleas por representantes facultados en poder notarial o en carta poder certificada, el cual deberá contener el orden del día, así como las instrucciones del otorgante para el ejercicio del poder. El o los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este párrafo e informar sobre ello a la Comisión Consultiva, lo que se hará constar en el acta respectiva.
-
-No podrán ser mandatarios los miembros del Consejo Directivo, el Director General y los comisarios de la Sociedad.
-
-Las sesiones de la Comisión Consultiva serán dirigidas por un presidente que será designado por los asistentes a las mismas. El presidente designará a uno o dos escrutadores, según lo estime conveniente, quienes harán el recuento de los certificados representados e informarán sobre ello a la Comisión Consultiva.
-
-Fungirá como secretario o prosecretario de la sesión, el Secretario y el Prosecretario respectivamente, del Consejo Directivo.
-
-La convocatoria para las sesiones de la Comisión Consultiva deberá contener el orden del día, debiendo listarse todos los asuntos a tratar, incluso los comprendidos en el rubro de asuntos generales y será firmada por quien haya efectuado la convocatoria.
-
-Para que la Comisión Consultiva sesione válidamente se deberá contar con la representación de la mayoría de los certificados de aportación patrimonial Serie "B", suscritos y pagados, tomándose por mayoría de votos las resoluciones, considerando un voto por cada certificado. Si no se reúne el número de certificados señalado, se hará una segunda y última convocatoria.
-
-Cuando la Comisión Consultiva se reúna en virtud de segunda convocatoria podrá sesionar con los tenedores que concurran y sus acuerdos serán válidos, siempre que se adopten por mayoría de votos presentes. Al hacer la segunda convocatoria, se expresará esta circunstancia y el orden del día será igual al de la primera convocatoria.
-
-Lo tratado y resuelto por la Comisión Consultiva se asentará en actas que obrarán en el libro respectivo y serán firmadas por quien presida la sesión y por el secretario o prosecretario, según sea el caso.
-
-Las copias certificadas que de las actas se expidan llevarán la firma del secretario o prosecretario. Las resoluciones legalmente adoptadas por la Comisión Consultiva serán obligatorias aun para los ausentes o disidentes.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ### CAPITULO SEXTO. Del Ejercicio Social y la Distribución de Utilidades
 
 ###### Artículo 30.
 
-El Consejo Directivo tendrá un Comité de Sueldos y Prestaciones, que estará integrado de la siguiente forma: dos representantes de la Subsecretaría de Hacienda y Crédito Público, el consejero a que se refiere el artículo 14 fracción III de la Ley Orgánica, un representante del Banco de México, el Director General de la Sociedad, así como un representante de la Comisión Nacional Bancaria y de Valores con voz y sin voto. Contará también con un secretario técnico nombrado por la Sociedad, el cual asistirá a las reuniones con voz y sin voto.
+La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma: dos representantes de la Secretaría de Hacienda y Crédito Público, que serán el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público; el consejero a que se refiere el artículo 14, fracción III, de la Ley Orgánica, designado por el Consejo Directivo; una persona que, por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos; un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa; el Director General de la Sociedad, así como un representante de la Comisión Nacional Bancaria y de Valores, quien tendrá voz pero no voto. De entre los miembros del Comité se designará a su presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero no voto.
 
 El Director General de la Sociedad se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
 
 El Comité se reunirá cuantas veces sea necesario a petición del Director General, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión.
 
-Este Comité opinará y propondrá, en términos de las condiciones generales de trabajo, el pago, modificación, tabulación o incremento de sueldos, salarios, pensiones, jubilaciones y demás prestaciones económicas y de seguridad social, establecidas en beneficio de los servidores públicos que laboren en la Sociedad, lo anterior de conformidad con la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Este Comité opinará y propondrá, en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
 
 ###### Artículo 31.
 
@@ -387,10 +373,20 @@ CUARTO. El capital pagado de Sociedad Hipotecaria Federal, Sociedad Nacional de 
 
 QUINTO. Cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la Serie "B'' de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, la Secretaría de Hacienda y Crédito Público designará los miembros correspondientes a esa Serie en el Consejo Directivo, debiendo recaer los nombramientos en profesionales de reconocida honorabilidad, experiencia y prestigio en materias económicas, jurídicas o financieras. Tales designaciones estarán vigentes hasta en tanto los certificados de dicha Serie sean colocados por el Gobierno Federal entre tenedores distintos a éste, en una proporción no menor al 17% del capital pagado de la emisora, se procederá en los términos del presente Reglamento Orgánico a la elección y designación de los miembros definitivos del Consejo Directivo.
 
-Asimismo, cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la Serie "B" de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, la Secretaría de Hacienda y Crédito Público designará al Comisario correspondiente a esta Serie. Dicha designación estará vigente hasta en tanto estos certificados sean colocados por el Gobierno Federal entre tenedores distintos a éste, en la proporción señalada en el párrafo anterior, la Comisión procederá en los términos del presente Reglamento Orgánico a la elección y designación del Comisario definitivo para el ejercicio social respectivo.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Asimismo, cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la serie "B" de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, la Secretaría de Hacienda y Crédito Público designará al Comisario correspondiente a esta serie. Dicha designación estará vigente hasta en tanto estos certificados sean colocados por el Gobierno Federal entre tenedores distintos a éste, en la proporción señalada en el párrafo anterior. Los consejeros de los certificados de la serie "B" procederán en los términos de este Reglamento Orgánico a la elección y designación del Comisario definitivo para el ejercicio social respectivo.
 
 SEXTO. El Director General de la Sociedad, dentro de los 30 días siguientes a la fecha en que surta efectos el presente Decreto, notificará a la Procuraduría Fiscal de la Federación, la constitución de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, a efecto de que se incorpore a la relación de las entidades paraestatales de la Administración Pública Federal.
 
 SEPTIMO. El primer ejercicio de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo concluirá el 31 de diciembre de 2002.
 
 México, Distrito Federal, a 8 de abril de 2002.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE ENERO DE 2005.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido en el cuarto párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
