@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1985-11-13"
+last_updated: "1989-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -721,7 +721,9 @@ Los magistrados y jueces que conozcan de una recusación, son irrecusables para 
 
 179.- El Tribunal que conozca de la recusación abrirá el asunto a prueba, de oficio o a petición de parte, cuando lo juzgue necesario; y serán admisibles todos los medios de prueba establecidos en este Código, incluso la confesión del funcionario recusado y de la parte contraria al recusante.
 
-180.- Si se declarare improcedente o no probada una causa de recusación, se impondrá al recusante una multa hasta de quinientos pesos, cuyo importe se aplicará al colitigante contrario por vía de indemnización y, en su defecto, al Fisco del Estado.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+
+180.- Si se declarare improcedente o no probada una causa de recusación, se impondrá al recusante una multa hasta de cincuenta veces el salario mínimo general, vigente en la ciudad de Chihuahua en la fecha en que se haga valer la recusación.
 
 181.- Si en la sentencia se declara que procede la recusación, volverán los autos al Juzgado o Sala de su origen con testimonio de aquella resolución, para que a su vez los remita al Tribunal que corresponda. Si se desechare, se declarare improcedente, o no se hubiere probado la causa de la recusación, volverán los autos al funcionario recusado para que continúe el procedimiento.
 
@@ -3938,3 +3940,7 @@ ARTICULO TRANSITORIO:- Este Decreto entrará en vigor en toda la Entidad el vig�
 P.O. 13 DE NOVIEMBRE DE 1985.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Los asuntos regulados por el precepto derogado que se encuentran en trámite, a él se ajustarán hasta su revisión de oficio.
+
+P.O. 17 DE MAYO DE 1989.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
