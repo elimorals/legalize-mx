@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1993-08-18"
+last_updated: "1994-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -479,7 +479,11 @@ Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o
 
 Son atribuciones de la Legislatura:
 
-I.- Expedir las leyes relativas a todos los ramos de la Administración y Gobierno interior del Estado.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
+
+I. Aprobar, reformar o suprimir leyes y decretos sobre todos los ramos de la administración y del gobierno interior del Estado.
+
+En la interpretación legislativa se observarán los mismos trámites establecidos para la expedición de las normas jurídicas.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -587,7 +591,9 @@ XXVIII. Declarar Beneméritos del Estado a sus benefactores y a los que se hayan
 
 XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
-XXX. Dar reglas sobre colonización y enajenación de terrenos baldíos en el Estado.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
+
+XXX. Expedir leyes y decretos en todas aquellas materias que no sean de la competencia exclusiva de la Federación, así como las que haga obligatorias la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -811,15 +817,17 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
 
-IV.- Presentar a la Legislatura, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1994)</small>
 
-V.- (A). Cuidar de la legal recaudación e inversión de los caudales públicos del Estado, haciendo las consignaciones que procedan al Ministerio Público.
+V.- (A). Presentar a la Legislatura el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
-(B). (DEROGADO, P.O. 12 DE MARZO DE 1977)
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1994)</small>
+
+(B). Cuidar de la legal recaudación e inversión de los caudales públicos del Estado, haciendo las consignaciones que procedan al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1153,19 +1161,23 @@ El Procurador General de Justicia es el jefe de la Policía Judicial
 
 Todas las Autoridades del Estado, tienen el deber para facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su encargo.
 
-### CAPITULO III. De la Defensoría de Oficio
+### CAPITULO III. De las Defensorías de Oficio
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
 
 ###### Art. 101.
 
 Las facultades y obligaciones del Procurador General de Justicia y Agentes del Ministerio Público, serán las que determine la ley orgánica del ramo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1994)</small>
+
 ### CAPITULO UNICO. De los Municipios
 
 ###### Art. 102.
 
-Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será atender procesados y litigantes pobres.
+Habrá en el Estado una dependencia encargada del servicio de defensoría de oficio del fuero común, cuya competencia será proveer en forma gratuita y obligatoria la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
 
 ### CAPITULO UNICO
 
@@ -1173,7 +1185,7 @@ De la hacienda Pública del Estado.
 
 ###### Art. 103.
 
-La ley respectiva organizará esta institución.
+La ley respectiva organizará esa institución, fijará su estructura administrativa y las bases de coordinación con las instituciones educativas y asociaciones o colegios de profesionistas.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1181,9 +1193,11 @@ La ley respectiva organizará esta institución.
 
 Los Defensores de Oficio serán nombrados y removidos por el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
+
 ###### Art. 105.
 
-Los Defensores de Oficio deben reunir los requisitos que se exigen para los Jueces Menores.
+Los defensores de oficio deberán reunir los mismos requisitos que se exigen a los agentes del ministerio público.
 
 ## TITULO SEXTO
 
@@ -1483,9 +1497,23 @@ El manejo de recursos federales convenidos se sujetará a las disposiciones de �
 
 Los servidores públicos del Estado y sus Municipios serán responsables del cumplimiento a las mencionadas disposiciones en los términos del Título Octavo de esta Constitución.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
+
 ###### Art. 134.
 
-Nadie en el Estado podrá desempeñar dos o más cargos de elección popular; pero el interesado puede elegir el que le convenga.
+Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea integral, fortalezca su economía, su régimen democrático, el empleo y una más justa distribución del ingreso; permitiendo el ejercicio de las libertades y la dignidad del hombre, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las leyes que de ellas emanen.
+
+La planeación estatal del desarrollo se sujetará a las bases siguientes:
+
+I. Concurrirán con responsabilidad los sectores público, social y privado; la Federación lo hará en forma coordinada con el Estado, en los términos que señalen los convenios correspondientes de conformidad a los objetivos nacionales, regionales y estatales;
+
+II.- Bajo normas de equidad social, producción y productividad, el Gobierno del Estado dará protección, apoyo y estímulos a las empresas de los sectores social y privado, sujetándose a las modalidades que dicte el interés público y siempre que contribuyan al desarrollo económico en beneficio de la sociedad;
+
+III. El Poder Ejecutivo, en los términos de la ley, someterá a la consulta de la ciudadanía las prioridades y estrategias del sistema estatal de planeación;
+
+IV. Es responsabilidad del Gobierno del Estado y de los sectores social y privado, sujetar que explotación y aprovechamiento de los recursos naturales, se cuide y garantice su conservación y el medio ambiente;
+
+V. El sistema de planeación de los municipios se sujetará a los principios, estrategias y bases establecidas por esta Constitución.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
@@ -1504,6 +1532,10 @@ La educación que imparta el Estado, se ajustará a las prevenciones del artícu
 ###### Art. 137.
 
 Los servidores públicos que no tengan limitado el tiempo de su duración, permanecerán en sus puestos por todo aquél, a que los hiciere acreedores sus servicios y buena conducta.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1994)</small>
+
+Nadie en el Estado podrá desempeñar dos o más cargos de elección popular, pero el interesado puede elegir el que le convenga.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -1557,7 +1589,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919
+P.O. 24 DE JULIO DE 1919.
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -1998,3 +2030,7 @@ El contenido del presente Decreto entrará en vigor al día siguiente de su publ
 ###### ARTICULO SEGUNDO.
 
 Remítase la Minuta aprobada a los HH. Ayuntamientos Constitucionales del Estado para los efectos a que alude el Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a cuyo término deberán computarse los resultados y tramitarse el Decreto promulgatorio respectivo para su turno al Periódico Oficial.
+
+P.O. 14 DE MAYO DE 1994.
+
+UNICO.- Seguidos los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
