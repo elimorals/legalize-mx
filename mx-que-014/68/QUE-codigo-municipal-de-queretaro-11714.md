@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2000-06-16"
+last_updated: "2000-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CODIGO MUNICIPAL DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -3875,6 +3875,8 @@ La violación a las normas contenidas en este ordenamiento se sancionará confor
 
 Es competencia del Instituto Nacional de Antropología e Historia la expedición de licencias para cualquier tipo de obra en los monumentos arqueológicos e históricos.
 
+ARTICUO 429.- Es competencia del Instituto Nacional de Bellas Artes la expedición de licencias para cualquier tipo de obra en los monumentos artísticos.
+
 ###### ARTICULO 429.
 
 Es competencia del Instituto Nacional de Bellas Artes la expedición de licencias para cualquier tipo de obra en los monumentos artísticos.
@@ -6929,359 +6931,177 @@ El destino de los recursos económicos a que se refiere el artículo anterior, s
 
 Lo no previsto en el presente apartado, será resuelto por el Consejo Directivo del Instituto Municipal para la Cultura.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 APARTADO SEXTO
 
 DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO II. Del Consejo Municipal de Protección Civil
 
 ###### ARTICULO 844.
 
-El Municipio como entidad territorial, política y administrativa, en la que se encuentran asentados los núcleos de población de nuestro país, tiene la obligación de brindar la protección civil adecuada a sus habitantes, como un servicio público, en cuya organización, funcionamiento y ejecución intervendrán las tres instancias de gobierno, municipio, estado y federación con la participación directa de la sociedad civil, en su conjunto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 845.
 
-El presente apartado tienen por objeto implementar, estructurar y organizar el Sistema Municipal de Protección Civil, bajo la premisa de que es el Municipio el primer responsable en la materia, y por lo tanto, quien debe establecer las medidas de prevención, auxilio y apoyo en este aspecto, para garantizar la seguridad de la población, sus bienes y entorno natural, en casos de emergencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 846.
 
-El Sistema Municipal de Protección Civil atendiendo las características del Municipio, su índice poblacional, la intensidad, magnitud y frecuencia de los casos de emergencia y del inventario de recursos humanos y materiales para prevenirlas, enfrentarlas y superarlas tendrá los siguientes objetivos:
-
-I. Organizar y establecer un sistema municipal de protección civil que garantice a la sociedad civil, con su participación una adecuada respuesta a los casos de emergencia, en sus tres períodos preventivo, de auxilio y de rehabilitación;
-
-II. La formación de un consejo en la materia, integrado por las autoridades del Ayuntamiento y los representantes de la sociedad, que puedan proporcionar sugerencias y apoyo para los propósitos de la protección civil. La función de este consejo es definir las acciones concretas para el establecimiento del sistema;
-
-III. La creación de la unidad operativa de protección civil para ejecutar el programa respectivo y cuyo titular será el propio Presidente Municipal o el funcionario que éste designe; la función de esta unidad será ejecutiva;
-
-IV. La prevención y coordinación de las acciones entre el gobierno municipal, estatal y federal para enfrentarse a cualquier situación de desastre, que pudiera presentarse; y
-
-V. Promover bajo su coordinación, la cooperación y solidaridad de la comunidad a través de la organización del trabajo de grupos voluntarios antes, durante y después de las situaciones de emergencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 847.
 
-Para brindar la protección civil en el Municipio, el Ayuntamiento por acuerdo de cabildo, integrará el consejo y la unidad municipal de conformidad con los lineamientos que establezcan los sistemas estatal y nacional de protección civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO III. Del Presidente del Consejo
 
 ###### ARTICULO 848.
 
-El Consejo Municipal de Protección Civil, es el órgano de consulta y participación municipal para planear, estructurar y coordinar las tareas de acciones municipales de protección civil mediante su vinculación, coordinación y apoyo con la sociedad civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 849.
 
-El Consejo Municipal de Protección Civil para cumplir sus tareas deberá involucrar en su organización, planeación y programas a los grupos de la sociedad interesados en coadyuvar en sus labores. Además necesariamente deberá coordinarse con el consejo estatal y la unidad estatal de protección civil de la Secretaría de Gobierno del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 850.
 
-El Consejo Municipal de Protección Civil estará formado por representantes de los sectores público, privado y social del Municipio y deberán invitar a formar parte de él, a los representantes de las dependencias federales y estatales con residencia en su jurisdicción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 851.
 
-El Consejo Municipal de Protección Civil, tendrá las siguientes funciones:
-
-I. Formular los mecanismos de integración y coordinación de las acciones de protección civil, como instancia centralizadora, recogerá las iniciativas que se formulen, para los efectos de su normatividad, orientación, supervisión y operación;
-
-II. Encauzar la más amplia participación de la comunidad en el análisis y solución de los problemas de protección en la materia que tengan aplicación en su oportunidad;
-
-III. Actuar como órgano de consulta a nivel municipal en materia de protección civil;
-
-IV. Promover y coordinar la integración concertación e introducción de las actividades que en materia de protección civil deberán desarrollarse en el Municipio;
-
-V. Vincular las orientaciones y necesidades del desarrollo municipal, con el sistema estatal y nacional de protección civil;
-
-VI. Identificar y estudiar los problemas de protección civil y las posibles soluciones;
-
-VIII (sic). Analizar el diagnóstico y la evaluación primaria que le presente la unidad municipal, determinando los recursos que deberán prestarse;
-
-VIII. Solicitar a la unidad estatal de protección civil, los apoyos materiales o humanos requeridos cuando la magnitud del desastre rebase su capacidad de respuesta; y
-
-IX. Promover la creación de la unidad municipal de protección de acuerdo a lo establecido en el presente apartado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 852.
 
-El Consejo Municipal de Protección Civil, de manera permanente, estará integrado por:
-
-I. Un Presidente, cuyo titular será el Presidente Municipal, o la persona que legalmente lo sustituya;
-
-II. Un Secretario Técnico que será el Secretario del Ayuntamiento, o la persona que éste designe;
-
-III. Un Secretario de Actas que designará el Presidente;
-
-IV. Un Coordinador General que será el responsable de la unidad municipal de protección civil;
-
-V. Por los Regidores del Ayuntamiento;
-
-VI. Representantes del gobierno federal en el Municipio; y
-
-VII. Representantes del gobierno del estado en el Municipio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 853.
 
-El Consejo podrá determinar la creación de grupos de trabajo o de subcomisiones que estime convenientes para el estudio de materias específicas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-El acuerdo del consejo por el que se establezca una subcomisión o grupos de trabajo, deberá señalar en forma expresa el problema a cuyo estudio y solución deberán abocarse.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO IV. Del Secretario Técnico del Consejo
 
 ###### ARTICULO 854.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-I. Representar legalmente al Consejo;
-
-II. Convocar y presidir las sesiones ordinarias y extraordinarias del Consejo;
-
-III. Formalizar las invitaciones a los representantes de las organizaciones de lo sectores social y privado para que participen como miembros del Consejo, en los términos del presente ordenamiento;
-
-IV. Dirigir los debates de las sesiones del Consejo;
-
-V. Autorizar con su firma las actas de las sesiones, conjuntamente con el Secretario de Actas del Consejo;
-
-VI. Gestionar ante las autoridades correspondientes el cumplimiento de los acuerdos del Consejo;
-
-VII. Someter a acuerdo de cabildo las soluciones que sean aprobadas por el Consejo; y
-
-VIII. Estudiar y resolver, en su caso, todo lo no previsto en el presente apartado, que se relacione con las funciones del Consejo.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO V. Del Secretario de Actas
 
 ###### ARTICULO 855.
 
-Corresponde al Secretario Técnico del Consejo:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-I. Presidir, en ausencia del Presidente, las sesiones ordinarias y extraordinarias del Consejo;
-
-II. Coordinar los trabajos de apoyo y asesoría que se requieran para el eficaz cumplimiento de las funciones del consejo; y
-
-III. Las demás que le confieran el presente apartado o el Presidente del Consejo.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VI. Del Coordinador del Consejo
 
 ###### ARTICULO 856.
 
-El Secretario de Actas tendrá las siguientes funciones:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-I. Redactar las actas de las sesiones del Consejo;
-
-II. Autorizar, con su firma, las actas de las sesiones del consejo, conjuntamente con la del Presidente y al del Secretario Técnico;
-
-III. Hacer llegar oportunamente a los miembros del consejo, las convocatorias para las sesiones del mismo; y
-
-IV. Las demás que le encomiende el Consejo, el Presidente o el Secretario Técnico.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VII. De los Miembros del Consejo
 
 ###### ARTICULO 857.
 
-Corresponde al Coordinador del Consejo:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-I. Suplir en sus ausencias al Secretario Técnico del Consejo;
-
-II. Elaborar el programa anual de actividades del Consejo, previo acuerdo con el secretario técnico del mismo, quien lo presentará ante el citado Consejo;
-
-III. Coordinar la elaboración del informe anual de actividades del consejo;
-
-IV. Coordinar la elaboración de los trabajos que, en cumplimiento de las funciones del consejo, determine el presidente del mismo;
-
-V. Ser el responsable de la unidad municipal de protección civil; y
-
-VI. Las demás atribuciones que le confiera este apartado o le encomiende el Presidente o el Secretario Técnico del Consejo.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VIII. De las Sesiones
 
 ###### ARTICULO 858.
 
-Corresponde a los miembros del Consejo:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-I. Asistir a las sesiones a las que fueren convocados;
-
-II. Intervenir en las discusiones del Consejo;
-
-III. Emitir su voto respecto a los asuntos tratados en las sesiones;
-
-IV. Proponer al Presidente asuntos específicos, para la celebración de sesiones extraordinarias del Consejo;
-
-V. Participar en las actividades públicas y privadas que promueva o convoque el Consejo;
-
-VI. Integrar los grupos de trabajo o subcomisiones, por mandato del Consejo; y
-
-VII. Designar a su suplente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO IX. De la Unidad de Protección Civil
 
 ###### ARTICULO 859.
 
-EL consejo celebrará sus sesiones en el lugar que para tal efecto se designe en la convocatoria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 860.
 
-Las sesiones ordinarias se celebrarán trimestralmente y las extraordinarias cuando el caso lo amerite, a solicitud de la mayoría de los miembros propietarios y la convocatoria de su Presidente y/o su Secretario Técnico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 861.
 
-Las convocatorias deberán ir firmadas por el Presidente o por el Secretario Técnico y contendrán la fecha y hora prevista para la reunión, el lugar donde se celebrará, así como la orden del día, debiendo hacerse llegar a los miembros del Consejo, cuando menos cinco días antes de la fecha señalada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 862.
 
-El quórum necesario para la celebración de las sesiones se dará con la asistencia de su Presidente, Secretario Técnico, Secretario de Actas, Coordinador y la mayoría de sus miembros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 863.
 
-Cuando una sesión no pueda celebrarse por falta de quórum, se señalará nueva fecha y hora para que la misma tenga verificativo; en esta segunda convocatoria, que se puede ser lanzada conjuntamente con la primera, la sesión se celebrará con los miembros que estén presentes y de acuerdo al orden del día previamente estipulado para la primera convocatoria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 864.
 
-Las resoluciones del Consejo serán elaboradas por mayoría de votos, el Presidente tendrá voto de calidad en caso de empate.
-
-Para los asuntos de mero trámite del Consejo el Presidente y el Secretario Técnico emitirán los acuerdos correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 865.
 
-Las resoluciones del consejo tendrán el carácter de recomendación y las mismas por conducto del Presidente se someterán a acuerdo de cabildo para su aprobación, a fin de que la o las dependencias administrativas designadas por el Ayuntamiento le den el debido cumplimiento o seguimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO X. De la Inspección, Control y Vigilancia
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+ARTICULO 870 bis 1.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-ARTICULO 870 bis 1.- Los verificadores adscritos a la Unidad Municipal de Protección Civil, son los encargados de practicar visitas, para lo cual, deberán estar provistos de órdenes escritas, con firma autógrafa expedidas por el Responsable de la Unidad Municipal de Protección Civil, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+ARTICULO 870 bis 2.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-En todo caso, para notificar la orden de visita, los verificadores deberán cerciorarse del domicilio del visitado y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez. De no encontrarse la persona a quien deba ser notificada la orden de visita o su representante legal, el verificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia, y de negarse éste a recibirla, o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del mismo.
+ARTICULO 870 bis 3.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+ARTICULO 870 bis 4.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-ARTICULO 870 bis 2.- Los verificadores en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales, industriales y de servicios, transportes y, en general a todos los lugares en que sea necesario practicar visitas. Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes sujetos a verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
-
-Las visitas de verificación podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
-
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
-
-ARTICULO 870 bis 3.- En la diligencia de verificación se deberán observar las siguientes reglas:
-
-I. Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la Secretaría de Gobierno Municipal, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 870 BIS 1 de este Código, de la que deberá dejar copia al propietario, responsable, encargado, ocupante del establecimiento o conductor del transporte sujeto a verificación. Esta circunstancia se deberá anotar en el acta correspondiente;
-
-II. Al inicio de la visita, se deberá requerir al propietario, responsable, encargado, ocupante del establecimiento o conductor del transporte, que proponga a dos testigos, quienes mostrarán identificación oficial con fotografía y deberán permanecer durante el desarrollo de la visita. Ante la negativa, o ausencia del visitado, los designará el verificador que practique la verificación, sin que este hecho afecte la validez de la visita practicada. Esta circunstancia, así como el nombre, domicilio y firma de los testigos, se harán constar en el acta;
-
-III. En el acta que se levante con motivo de la verificación, se hará constar:
-
-a) Nombre, denominación o razón social del visitado;
-
-b) Hora, día, mes y año en que se inicie y concluya la diligencia;
-
-c) Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, código postal y delegación en que se encuentre ubicado el lugar en que se practique la visita;
-
-d) Nombre y cargo de la persona con quien se entendió la diligencia;
-
-e) Nombre y domicilio de las personas que fungieron como testigos;
-
-f) Descripción de la actuación del verificador en cumplimiento a la orden de visita;
-
-g) Declaración del visitado, si quisiera hacerla;
-
-h) Las circunstancias de la diligencia, las deficiencias o anomalías observadas; e
-
-i) Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien la hubiere llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
-
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
-
-ARTICULO 870 bis 4.- El acto u omisión contrario a los preceptos de las leyes y reglamentos en materia de protección civil, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procedieran, las medidas de seguridad y las sanciones correspondientes en esos casos.
-
-De conformidad con lo anterior, el Responsable de la Unidad de Protección Civil podrá encomendar a sus verificadores, además, actividades de orientación y educación, la aplicación, en su caso, de las medidas de seguridad y sanciones que correspondan.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 2000)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 866.
 
-La unidad municipal de protección civil es el órgano ejecutivo mediante el cual se opera y se instrumenta el programa municipal de protección civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 867.
 
-La unidad municipal de protección civil en el ámbito de su competencia es la responsable de registrar, y coordinar a los grupos voluntarios en las tareas de protección civil, mediante la evaluación del tipo de actividades en las que están capacitados para participar, y de los recursos humanos y materiales en que disponen para el caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 868.
 
-Además de lo anterior, la unidad municipal de protección civil se coordinará con el consejo estatal y los organismos privados públicos y sociales, además de actuar como enlace de información y comunicación permanente con el Consejo Estatal de Protección Civil y con la Dirección General de Protección Civil de la Secretaría de Gobierno del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 869.
 
-El Responsable de la Unidad de Protección Civil, además de realizar las tareas de análisis, orientación y apoyo, es el encargado de ejecutar las acciones concretas en atención a las emergencias que se presenten, teniendo para el caso, las siguientes facultades:
-
-I. Definir las políticas, estrategias, lineamiento y procedimientos para establecer el sistema municipal de protección civil;
-
-II. Diseñar y promover la aplicación del programa municipal de protección que señale las medidas y acciones para contrarrestar los efectos destructivos que provocan las situaciones de emergencia, en sus tres períodos prevención, auxilio y apoyo, tomando en cuenta la protección del ambiente y el equilibrio ecológico;
-
-III. Identificar los recursos financieros para la operación del Programa Municipal de Protección Civil,
-
-IV. Promover la participación del sector social y privado, así como de la comunidad en las acciones de protección civil, en la materia;
-
-V. Promover la educación y capacitación de la población;
-
-VI. Desarrollar el ejercicio y simulacros en lugares públicos;
-
-VII. Estudiar y analizar los riesgos habituales en el ámbito municipal y confeccionar un catálogo de riesgos e inventarios de los medios y recursos disponibles para hacer frente a las emergencias;
-
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2000)</small>
-
-VIII. Vigilar y comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia de protección civil, para lo cual podrá expedir órdenes de visita, practicar visitas de verificación, aplicar medidas de seguridad y, en su caso, determinar las sanciones que pudieran llegar a corresponder;
-
-IX. Dirigir y coordinar la intervención de los miembros operativos municipales así como de aquellos de otra administración o particulares interesados, de acuerdo con los planes municipales homologados de protección civil; y
-
-X. Organizar y coordinar los grupos de trabajo comunitario en las tareas de protección civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 870.
 
-La Unidad Municipal de Protección Civil se integrará con representantes del sector público, sector privado y voluntariado, y actuará bajo los lineamientos que marque el consejo municipal de protección civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ENERO DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO XI. De las Medidas de Seguridad
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+ARTICULO 870 bis 5.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-ARTICULO 870 bis 5.- Para los efectos del artículo anterior, se consideran medidas de seguridad las disposiciones que dicten las autoridades competentes en materia de protección civil, de conformidad con las disposiciones legales aplicables, para proteger la seguridad de la población. Con base en los resultados de las visitas de verificación, se podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al afectado y otorgándole un plazo de hasta 20 días para su realización, el cual será establecido a juicio de la autoridad. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
-
-Son medidas de seguridad:
-
-I. La suspensión de trabajos relacionados con la construcción en obras e instalaciones o servicios que pongan en riesgo a la sociedad en general;
-
-II. La clausura temporal o definitiva, total o parcial, de trabajos y servicios;
-
-III. El aseguramiento de sustancias, materiales, equipos, accesorios y recipientes portátiles o la destrucción de objetos, productos, sustancias y todo tipo de agentes que pudieran provocar desastres y que no cuenten con las medidas establecidas en las Normas Oficiales Mexicanas y en los reglamentos de la materia vigentes;
-
-IV. La inmovilización de recipientes portátiles, auto tanques, semiremolques, vehículos de reparto u otro medio de transporte que ponga en riesgo a la población civil;
-
-V. El apoyo durante el desalojo de casas y escuelas, zonas habitacionales, zonas industriales, predios o asentamientos irregulares ante una situación de riesgo, emergencia o desastre;
-
-VI. La prohibición de la realización de eventos, con anuencia del Secretario de Gobierno, en lugares no aptos para su realización, en todo caso los trámites de las autorizaciones de los eventos masivos o espectáculos públicos, se sujetarán a las reglas siguientes:
-
-a) Tratándose de aquellos eventos o espectáculos públicos con asistencia masiva de personas, la autoridad competente expedirá la autorización a que haya lugar, y deberá coordinarse con la Unidad Municipal de Protección Civil para la adopción de las medidas de protección civil que sean pertinentes según la naturaleza y magnitud del acto.
-
-b) Tratándose de situaciones no programadas que puedan implicar algún riesgo socio-organizativo y ante la falta de un programa especial de protección civil, las autoridades adoptarán todas aquellas medidas de preparación, mitigación y, en su caso, auxilio que resulten necesarios, atendiendo a la naturaleza de los mismos.
-
-VII. Las demás tendientes a evitar que se cause riesgo daños a personas, instalaciones o bienes de interés general para garantizar el normal funcionamiento de servicios esenciales a la población.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 2000)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO XII. Del Procedimiento para la Determinación de Sanciones
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
-
-ARTICULO 870 bis 6.- Dentro del Procedimiento de Determinación de Sanciones Administrativas, el Responsable de la Unidad de Protección Civil deberá notificar personal y previamente al infractor del inicio del procedimiento, para que éste dentro de los tres días hábiles siguientes exponga por escrito lo que a su derecho convenga y, en su caso, aporte las pruebas documentales que estime pertinentes. Dentro del procedimiento, se podrán hacer las inspecciones que fueren necesarias a juicio de la autoridad, asentando todo ello dentro del procedimiento.
-
-Transcurrido el plazo y habiéndose oído al infractor y desahogado las pruebas ofrecidas y admitidas, se procederá, dentro de los cinco días hábiles siguientes a dictar por escrito la resolución que proceda, la cual será notificada en forma personal o por correo certificado. El Responsable de la Unidad de Protección Civil fundará y motivará su resolución considerando:
-
-I. Los daños que se hubieren producido o puedan producirse;
-
-II. El carácter intencional, la negligencia o impericia manifiesta de la acción u omisión constitutiva de la infracción;
-
-III. La gravedad de la infracción;
-
-IV. La reincidencia del infractor y su condición socioeconómica.
-
-Las sanciones administrativas podrán imponerse en más de una de las modalidades previstas en el artículo 72 de la Ley de Protección Civil para el Estado de Querétaro.
-
-Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+ARTICULO 870 bis 6.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 APARTADO SEPTIMO
 
@@ -8548,3 +8368,15 @@ PRIMERO.- El Reglamento Interno del Archivo Municipal entrará en vigor el día 
 SEGUNDO.- Se deroga el Apartado Séptimo del Libro Tercero del Código Municipal De Querétaro.
 
 TERCERO.- Cualquier aspecto no previsto en el presente documento será resuelto por el H. Ayuntamiento de Querétaro.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Apartado Sexto del Libro Cuarto del Código Municipal de Querétaro.
