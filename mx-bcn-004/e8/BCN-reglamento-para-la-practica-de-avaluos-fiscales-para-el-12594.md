@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-practica-de-avaluos-fiscales-para-el-12594"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-10-20"
-last_updated: "1998-10-09"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -79,7 +79,7 @@ Son Autoridades en la materia de Avalúos Fiscales a que contrae este Reglamento
 
 I.- EL PRESIDENTE MUNICIPAL
 
-II.- EL TESORERO MUNICPAL (SIC) Y
+II.- EL TESORERO MUNICPAL (SIC)
 
 III.- EL RECAUDADOR DE RENTAS MUNICIPAL.
 
@@ -122,8 +122,6 @@ Los avalúos que se practiquen para efectos fiscales se sujetaran a las normas y
 ###### ARTICULO 10.
 
 El avalúo fiscal debe ser un estudio expreso para determinar el valor comercial de una propiedad inmobiliaria debidamente identificada y descrita, a una fecha determinada y deberá apoyarse en el correcto y completo análisis de la información pertinente.
-
-(REPUBLICADO, P.O. 9 DE OCTUBRE DE 1998)
 
 ###### ARTICULO 11.
 
@@ -217,9 +215,13 @@ Para ser Valuador Fiscal se requiere:
 
 1.- Ser Ciudadano Mexicano en uso de sus derechos.
 
-2.- Poseer título profesional a nivel de licenciatura en alguna profesión afín a la materia del presente reglamento y contar con especialidad en valuación certificada por una institución de educación superior. O bien, acreditarse como perito valuador legalmente autorizado por la Comisión Nacional Bancaria y de Valores, de conformidad con lo establecido en el Artículo 75- BIS-B Fracción XVI de la Ley de Hacienda Municipal vigente en Baja California.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-3.- Protestar desempeñar su actividad como Valuador Fiscal, Auxiliar de la Administración Publica Municipal, sujetándose a los Reglamentos, normas, instructivos y demás disposiciones que al efecto dicte la Autoridad Municipal.
+2.- Poseer título profesional a nivel de licenciatura en alguna profesión afín a la materia del presente reglamento y contar con especialidad en valuación certificada por una institución de educación superior y/o contar con nombramiento como Corredor Público, debidamente registrados en el Departamento General de Profesiones de la Secretaría de Educación y Bienestar Social del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+3.- Protestar desempeñar su actividad como Valuador Fiscal, Auxiliar de la Administración Pública Municipal, sujetándose a los reglamentos, normas, instructivos y demás disposiciones que al efecto dicte la Autoridad Municipal.
 
 4.- Solicitar y obtener su Registro en la Tesorería Municipal cumpliendo las formalidades que al efecto se establezcan.
 
@@ -332,3 +334,9 @@ JORGE GILDARDO LOPEZ LOPEZ.
 P.O. 9 DE OCTUBRE DE 1998.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y publíquese en un periódico local de mayor circulación para conocimiento de la población.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
