@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2004-02-13"
+last_updated: "2004-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2131,6 +2131,12 @@ Administración fraudulenta.- Comete el delito de administración fraudulenta el
 
 Para efectos de la penalidad se estará a lo dispuesto en el artículo 218 de este Código.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2004)</small>
+
+Artículo 222 BIS.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores, se le impondrá pena de seis meses a cuatro años de prisión y de cincuenta a trescientos días multa.
+
+En caso de quiebra se atenderá a lo previsto por la ley especial.
+
 ###### Artículo 223.
 
 Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítulo se perseguirán por querella del ofendido o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable, acredite el pago de la reparación de los daños que se hubiesen causado y de las multas impuestas.
@@ -3764,3 +3770,7 @@ P.O. 14 DE NOVIEMBRE DE 2003.
 P.O. 13 DE FEBRERO DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE MAYO DE 2004.
+
+ÚNICO.- La presente adición al Código Penal para el Estado de Baja California, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
