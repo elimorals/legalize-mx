@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "1982-05-31"
+last_updated: "1984-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1984.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -43,13 +43,11 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA RO
 
 De la Instalación de la Legislatura.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### Artículo 1o.
 
-La Legislatura del Estado de Quintana Roo se integra con nueve Diputados electos según el principio de mayoría relativa en Distritos uninominales y hasta con tres Diputados electos según el principio de representación proporcional en los términos del Artículo 52 de la Constitución Política del Estado.
-
-La Legislatura del Estado se renovará cada tres años en la fecha establecida por la Ley. Tendrá dos Períodos Ordinarios de Sesiones por Año de Ejercicio, con duración de dos meses cada uno; el primero comenzará el 26 de Marzo y el segundo el 24 de Noviembre.
+La Legislatura del Estado de Quintana Roo, se integra con diputados de Mayoría Relativa y de Representación Proporcional, en el número que señala el artículo 52 de la Constitución Politica del Estado.
 
 ###### Artículo 2o.
 
@@ -992,3 +990,7 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 En la primera Sesión Ordinaria celebrada luego de entrar en vigor el presente Decreto se elegirá para el resto del Ejercicio Anual a un Secretario Suplente de conformidad a lo establecido por este Decreto.
+
+P.O. 31 DE ENERO DE 1984.
+
+UNICO - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
