@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2004-02-23"
+last_updated: "2004-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -93,9 +93,9 @@ II.- A la preferencia, en igualdad de circunstancias, en toda clase de concesion
 
 Son obligaciones de los nuevoleoneses:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación primaria y secundaria y reciban la militar en los términos que establezca la ley.
+I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria y reciban la militar en los términos que establezca la ley.
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -987,7 +987,7 @@ Si la licencia fuere por más de treinta días o en caso de impedimento del Gobe
 
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -1761,21 +1761,25 @@ El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educ
 
 El Estado promoverá el bienestar de las personas de edad avanzada mediante un sistema de servicio social con la participación de la comunidad nuevoleonesa que atienda sus problemas específicos en materia de salud, cultura y recreación, debiendo expedir los ordenamientos jurídicos necesarios para garantizar o proteger sus derechos y lograr como meta mejorar su calidad de vida.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-La enseñanza es libre; pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
+La enseñanza es libre; pero será laica la que se imparta en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, secundaria, media superior y superior que se brinde en las instituciones particulares.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-El Estado impartirá educación preescolar, primaria y secundaria. La educación primaria y secundaria son obligatorias.
+El Estado impartirá educación preescolar, primaria y secundaria que conformarán la educación básica obligatoria.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
 
 La educación que imparta el Estado, será gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+Además de impartir la educación básica obligatoria, el Estado promoverá y atenderá la educación inicial y la educación superior, así como todos los tipos y modalidades educativas que coadyuven al desarrollo del individuo.
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
@@ -2808,3 +2812,17 @@ P.O. 23 DE FEBRERO DE 2004.
 DECRETO NUMERO 68, QUE REFORMA EL ARTICULO 63.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La educación preescolar será obligatoria para los habitantes del Estado en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; en el segundo año de preescolar, a partir del ciclo 2005-2006; en el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Gobierno del Estado generalizará en todo el territorio del Estado, con calidad, la oferta de este servicio educativo.
+
+Artículo Tercero.- El Poder Ejecutivo del Estado celebrará con el Poder Ejecutivo Federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en la presente reforma.
+
+Artículo Cuarto.- Para ejercer la educación preescolar se deberá acreditar la conclusión de los estudios correspondientes sin menoscabo de quienes a la fecha imparten este nivel educativo.
+
+Artículo Quinto.- El presupuesto estatal incluirá los recursos necesarios para la construcción, ampliación y equipamiento de la infraestructura adecuada para la cobertura de los servicios de educación preescolar, con sus correspondientes programas de formación profesional docente y administrativo, así como la dotación de materiales gratuitos de estudio para maestros y alumnos.
+
+Artículo Sexto.- En virtud de la entrada en vigor del presente Decreto, deberán adecuarse la Ley de Educación para el Estado de Nuevo León y las demás disposiciones aplicables a la materia.
