@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1991-12-20"
+last_updated: "1992-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -2462,7 +2462,7 @@ Cuando el contribuyente concerte préstamos de capital en moneda extranjera, y l
 
 X.- Presentar en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior con los cincuenta principales clientes y con los cincuenta principales proveedores. Deberán proporcionar, además, en su caso, información de las personas a las que les hubieren efectuado retenciones de impuesto sobre la renta u otorgado donativos en el mismo año de calendario.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 Cuando el contribuyente lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere esta fracción deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general. Dichos dispositivos serán devueltos al contribuyente por las autoridades fiscales dentro de los seis meses siguientes a su presentación. Tratándose de contribuyentes que lleven su contabilidad mediante sistema manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
 
@@ -3046,9 +3046,9 @@ Por el excedente de las prestaciones exceptuadas del pago del impuesto a que se 
 
 II.- Las indemnizaciones por riesgos o enfermedades, que se concedan de acuerdo con las leyes o contratos de trabajo respectivos.
 
-> <small>(REFORMADA POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
-III.- Las jubilaciones, pensiones y haberes de retiro, en los casos de invalidez, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de nueve veces el salario mínimo general de el área geográfica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
+III. Las jubilaciones, pensiones, haberes de retiro, así como las pensiones vitalicias u otras formas de retiro, provenientes de la subcuentas del seguro de retiro abiertas en los términos de la Ley del Seguro Social, en los casos de invalidez, incapacidad, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de nueve veces el salario mínimo general del área geográfica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
 
 IV.- Los percibidos con motivo del reembolso de gastos médicos, dentales, hospitalarios y de funeral, que se concedan de manera general, de acuerdo con las leyes o contratos de trabajo.
 
@@ -3068,9 +3068,9 @@ b).- Que la totalidad del préstamo en el ejercicio de que se trate, no exceda d
 
 IX.- La cuota de seguridad social de los trabajadores pagada por los patrones.
 
-> <small>(REFORMADA POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
-X.- Los que obtengan las personas que han estado sujetas a una relación laboral, en el momento de su separación, por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, hasta por el equivalente a noventa veces el salario mínimo general de el área geográfica del contribuyente por cada año de servicio. Los años de servicio serán los que se hubieran considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de este Título.
+X. Los que obtengan las personas que han estado sujetas a una relación laboral, en el momento de su separación, por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos, así como los obtenidos con cargo a las subcuentas del seguro de retiro abiertas en los términos de la Ley del Seguro Social, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de las subcuentas del seguro de retiro. Los años de servicio serán los que se hubieran considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de este Título.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -3187,6 +3187,14 @@ No se podrán hacer deducciones que correspondan a aquellos ingresos por los que
 > <small>(REFORMADO POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 La exención contenida en la fracción VI de este artículo se limitará cuando la suma de los ingresos por la prestación de servicios personales subordinados y el monto de esta exención exceda de una cantidad equivalente a siete veces el salario mínimo general de el área geográfica del contribuyente, elevado al año; cuando dicha suma exceda de la cantidad citada, solamente se considerará como ingreso no sujeto al pago del impuesto por los conceptos mencionados en la fracción de referencia, un monto hasta de un salario mínimo general de el área geográfica del contribuyente, elevado al año. Esta limitación en ningún caso deberá dar como resultado que la suma de los ingresos por la prestación de servicios personales subordinados y el importe de la exención prevista en la fracción citada, sea inferior a siete veces el salario mínimo general de el área geográfica del contribuyente, elevado al año.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
+###### ARTICULO 77-A.
+
+Las aportaciones que efectúen los patrones a las subcuentas del seguro de retiro que se constituyan en los términos de la Ley del Seguro Social, así como los intereses que generen las mismas no serán ingresos acumulables del trabajador en el ejercicio en que se aporten o generen, según corresponda.
+
+Se pagará el impuesto en los términos del Capítulo I de este Título, en el ejercicio en que se efectúen retiros de las subcuentas a que se refiere el párrafo anterior, en los términos de la mencionada Ley.
 
 ### CAPITULO I. DE LOS INGRESOS POR SALARIOS Y EN GENERAL POR LA PRESTACION DE UN SERVICIO PERSONAL SUBORDINADO
 
@@ -5351,6 +5359,12 @@ f) A programas de escuela empresa.
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Tratándose de donativos otorgados a instituciones de enseñanza serán deducibles siempre que sean establecimientos públicos o de propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la ley Federal de Educación, se destinen a la adquisición de bienes de inversión, a la investigación científica o desarrollo de tecnología, así como a gastos de administración hasta por el monto, en este último caso, que señaló el reglamento de esta se trate de donaciones no onerosas ni remunerativas, conforme a las reglas generales que al efecto determine la Secretaría de Educación Pública, y dichas instituciones no hayan distribuido remanentes a sus socios o integrantes en los últimos cinco años.
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
+V. Las cantidades que voluntariamente los trabajadores aporten a la subcuenta del seguro de retiro en términos de lo señalado en la Ley del Seguro Social, hasta por un monto que no exceda del 2% de su salario base de cotización, sin que éste último pueda ser superior a diez veces el salario mínimo general que rija en el Distrito Federal.
+
+Tratándose de trabajadores cuyo patrón efectúe aportaciones a un fondo de ahorro, de los señalados en la fracción XII del artículo 24 de esta Ley, la deducción a que se refiere el párrafo anterior sólo podrá llevarse a cabo cuando la misma, sumada a la que realice el propio patrón a los citados fondos de ahorro, no exceda del límite establecido para la deducción de las aportaciones a dichos fondos.
 
 > <small>(REFORMADO POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -10017,3 +10031,49 @@ b) Las pérdidas por créditos incobrables que ordene o autorice la Comisión Na
 ## TRANSITORIO
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 24 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de mayo de 1992.
+
+###### ARTICULO SEGUNDO.
+
+Los patrones estarán obligados a abrir una cuenta global a favor de sus trabajadores en la institución de crédito de su elección, con una aportación inicial al seguro por cada uno de dichos trabajadores, misma que deberán efectuar a más tardar el 29 de mayo de 1992. Las empresas que cuenten de con menos de cien trabajadores, podrán abrir las cuentas de que trata este artículo hasta el 1 de julio de 1992. El monto de la aportación inicial se calculará aplicando el ocho por ciento al salario base de cotización de los trabajadores a que se refiere el último párrafo del artículo 33 de la Ley del Seguro Social, al 1o. de mayo de 1992.
+
+Los recursos de las cuentas globales deberán ser invertidas en créditos a cargo del Gobierno Federal a través del Banco de México. Estos créditos y el saldo de las cuentas citadas se ajustará y devengará intereses conforme a lo previsto en los artículos. 183-I y 183-J. Tanto el importe del ajuste como el de los intereses citados, se aplicarán directamente a cubrir a las instituciones de crédito respectivas, la comisión por la apertura de las cuentas señaladas en el artículo sexto transitorio.
+
+###### ARTICULO TERCERO.
+
+No podrán efectuarse retiros de las cuentas globales, excepto para cubrir las cantidades que correspondan al trabajador, conforme a lo señalado en el artículo quinto transitorio de esta Ley.
+
+Los trabajadores no podrán efectuar aportaciones adicionales a dichas cuentas.
+
+###### ARTICULO CUARTO.
+
+Los patrones al efectuar las aportaciones a su cargo establecidas en el artículo segundo transitorio, deberán entregar a la institución de crédito respectiva, una relación que contenga el nombre, el registro federal de contribuyentes, el domicilio y el monto de la aportación que corresponda a cada uno de sus trabajadores.
+
+###### ARTICULO QUINTO.
+
+En caso de terminación de la relación laboral, durante el plazo comprendido entre la fecha de entrada en vigor de la presente Ley y el 31 de agosto de 1992, y siempre que la institución de crédito que haya recibido la aportación inicial a que se refiere el artículo segundo transitorio no haya abierto una cuenta individual de ahorro para retiro a nombre del trabajador de que se trate, el patrón deberá entregar al trabajador las aportaciones que le correspondan hasta esa fecha mediante la entrega de Certificados de Aportación del Sistema de Ahorro para el Retiro, a más tardar dentro de los cinco días hábiles siguientes a la citada terminación. El importe de dichos certificados deberá ser cubierto por el patrón con cargo a los recursos de la cuenta global a que se refiere el artículo segundo transitorio, por la parte proporcional de la aportación inicial que corresponda al trabajador y con sus propios recursos por la parte proporcional de los bimestres mayo-junio o julio-agosto de 1992, según corresponda.
+
+El Banco de México fijará las características que deberán reunir dichos certificados.
+
+Los certificados únicamente se podrán acreditar en la cuenta individual del trabajador de que se trate, y serán compensables entre las instituciones de crédito.
+
+###### ARTICULO SEXTO.
+
+A más tardar el 1o. de septiembre de 1992, las instituciones de crédito deberán individualizar las cuentas globales, mediante la apertura de cuentas a favor de cada trabajador. Los saldos de dichas cuentas se abonarán en la subcuenta del seguro de retiro de las cuentas individuales de cada uno de los trabajadores, en la proporción que corresponda.
+
+###### ARTICULO SEPTIMO.
+
+A partir del 1o. de septiembre de 1992, las aportaciones bimestrales se deberán enterar en la subcuenta del seguro de retiro de las cuentas individuales abiertas a favor de los trabajadores.
+
+###### ARTICULO OCTAVO.
+
+Durante el período comprendido entre el 1o. de septiembre y el 31 de diciembre de 1992, los trabajadores no podrán solicitar los traspasos previstos en los artículo 183-L y 183-M de la Ley del Seguro Social.
+
+###### ARTICULO NOVENO.
+
+El entero de las aportaciones establecidas en el artículo segundo transitorio, así como de las cuotas correspondientes al seguro de retiro por los bimestres tercero a sexto de 1992, se acreditarán mediante la entrega que los patrones deberán efectuar a cada uno de sus trabajadores, de un comprobante elaborado por los propios patrones, mismos que deberán entregarles junto con el último pago de sueldo de los meses de mayo, julio, septiembre y noviembre de 1992 y enero de 1993, según corresponda conforme al artículo segundo transitorio.
