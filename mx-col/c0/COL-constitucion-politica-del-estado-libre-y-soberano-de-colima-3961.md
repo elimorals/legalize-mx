@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1977-05-28"
+last_updated: "1978-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -117,11 +117,29 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
 ###### Artículo 22.
 
-El Congreso se compondrá de siete Diputados electos popular y directamente cada tres años. Al efecto el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un Suplente por cada Distrito.
+Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de 7 Diputados electos según el principio de votación mayoritaria relativa y hasta por dos Diputados electos según el principio de representación proporcional. Al efecto el Estado se dividirá en 7 Distritos Electorales Uninominales y una Circunscripción Plurinominal.
+
+La demarcación electoral de los 7 Distritos Electorales Uninominales será la que señala el artículo 104 de esta Constitución.
+
+La Circunscripción Electoral Plurinominal comprenderá la extensión territorial total del Estado.
+
+Por cada Diputado propietario se elegirá un suplente.
+
+Para la elección por representación proporcional y lista regional, se deberá observar la Ley respectiva y las siguientes bases:
+
+I.- El Partido que solicite el registro de su lista regional deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos tres de los Distritos Uninominales.
+
+II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de representación proporcional, todo aquel Partido que:
+
+a).- No haya obtenido dos o más constancias de mayoría y,
+
+b).- Que alcance por lo menos el 5% del total de la votación emitida en la Circunscripción Plurinominal.
+
+III.- Al Partido que reúna las condiciones señaladas en las fracciones que anteceden le será asignado un Diputado electo mediante el principio de representación proporcional en la Circunscripción electoral Plurinominal. En el caso de que dos o más Partidos con derecho a participar en la asignación de Diputados electos por el principio de representación proporcional obtengan, en su conjunto, dos o más constancias de mayoría, se le asignará una sola curul a aquél de entre ambos, que hubiere obtenido el mayor número de votos.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
@@ -133,13 +151,15 @@ Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario no podrá
 
 Para ser Diputado se requiere:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1942)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y tener una residencia en el Estado no menor de cinco años antes del día de la elección.
+I.- Ser Ciudadano mexicano por nacimiento y tener una residencia en el Estado no menor de un año antes del día de la elección.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+Para poder figurar en las listas de candidatos a Diputados en la Circunscripción electoral Plurinominal se requiere ser originario o vecino de más de un año en algunas de las poblaciones que comprenden la Demarcación Plurinominal.
 
-II.- Tener 25 años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+
+II.- Tener 21 años cumplidos al día de la elección.
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 1953)</small>
 
@@ -163,11 +183,13 @@ VI.- Vivir del producto de un trabajo honesto, sea éste manual o intelectual y 
 
 El cargo de diputado es incompatible con cualquier comisión o empleo del Gobierno Federal o del Estado, por los cuales se disfrute sueldo salvo que la comisión o empleo sea del ramo de Educación Pública. En consecuencia, los Diputados Propietarios desde el día de su elección hasta el día que concluya su encargo; y los Suplentes que estuvieren en el ejercicio de sus funciones, no pueden aceptar ninguno de dichos empleos o comisión, sin previa licencia del Congreso, quedando una vez obtenida ésta, separado de sus funciones de diputados, por todo el tiempo que dure la comisión o empleo que se les confiera, si fuere del Estado; y de una manera permanente si el empleo o comisión fuere Federal.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+
 ###### Artículo 26.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones y jamás y por ninguna Autoridad podrán ser molestados con motivo de aquéllas.
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones y jamás por ninguna autoridad podrán ser molestados con motivo de aquéllas. La Ley castigará severamente a la autoridad que infrinja lo dispuesto en este artículo.
 
-La ley castigará severamente a la autoridad que infrinja lo dispuesto en este artículo.
+El Presidente del Congreso velará por el respeto al Fuero Constitucional de los miembros de la Legislatura y por la inviolabilidad del Recinto, donde celebren sus Sesiones.
 
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -175,23 +197,25 @@ La ley castigará severamente a la autoridad que infrinja lo dispuesto en este a
 
 El cargo de Diputado es renunciable por causa que calificará el Congreso y por ningún motivo será gratuito.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
 ###### Artículo 28.
 
-El Congreso se instalará el día primero de octubre de cada año; tendrá un periodo de sesiones ordinarias que principiarán en la fecha expresada y concluirá el 31 de enero del año siguiente durante el que se ocupará:
+El Congreso se instalará el día Primero de Octubre de cada año, tendrá un Primer periodo de Sesiones Ordinarias que principiará en la fecha expresada y concluirá el 15 de Enero del año siguiente, durante este período se ocupará:
 
-I.- Del examen y aprobación de las cuentas públicas del año anterior;
+I.- Del examen y aprobación de las cuentas públicas del anterior.
 
-II.- Del examen, discusión y aprobación del Presupuesto del año fiscal siguiente;
+II.- Del examen, discusión y aprobación del Presupuesto fiscal siguiente.
 
-III.- Del estudio, discusión y votación de las iniciativas de Ley que se presenten, y de resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+III.- De estudiar, discutir y votar las iniciativas de Leyes que se le remitan con carácter de urgente, así como de resolver toda clase de negocios, de esta índole.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
+Tendrá el Congreso un Segundo Período de Sesiones Ordinarias de dos meses contados a partir del día 15 de Marzo de cada año, en el que se ocupará del estudio, discusión y votación de las iniciativas de Ley que se presenten, y de resolver los demás asuntos que le corresponda conforme a ésta Constitución.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
 ###### Artículo 29.
 
-El Congreso, fuera del periodo que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 58, fracción VIII, o por la Comisión Permanente en los casos de la fracción III, del artículo 36; debiendo ocuparse en ellas solo de los asuntos por los cuales se haya hecho la Convocatoria.
+El Congreso, fuera de los periodos que señala el artículo anterior, celebrará Sesiones Extraordinarias sólo cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 58, Fracción VIII, o por la Diputación Permanente en los casos de la Fracción III, del artículo 36, debiendo ocuparse en ellas solo de los asuntos para los cuales se haya hecho la Convocatoria.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
 
@@ -921,11 +945,11 @@ III.- Por los Comisarios Municipales que residirán en las Rancherías. Los Comi
 
 Las Juntas Municipales y los Comisarios durarán en su encargo dos años.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
 ###### Artículo 89.
 
-Para ser miembro de un Ayuntamiento se necesita ser ciudadano mexicano por nacimiento, tener una residencia en el Estado no menor de cinco años antes del día de la elección, ser mayor de edad, tener un modo honesto de vivir, tener una preparación suficiente para desempeñar este cargo y llenar los demás requisitos que establezca la Ley relativa. El cargo de miembro de un Ayuntamiento no puede recaer en los Empleados del Gobierno ni en los demás funcionarios Públicos de la Federación o del Estado, que estén en ejercicio.
+Para ser miembro de un Ayuntamiento se necesita ser Ciudadano Mexicano por nacimiento, tener una residencia en el Estado no menor de un año, antes del día de la elección, tener modo honesto de vivir, tener una preparación suficiente para desempeñar este cargo y llenar los demás requisitos que establezca la Ley relativa. El cargo de miembro de un Ayuntamiento no puede recaer en los empleados del gobierno ni en los demás funcionarios públicos de la Federación o del Estado, que estén en ejercicio.
 
 ###### Artículo 90.
 
@@ -942,6 +966,10 @@ II.- La ley que organice los Municipios, su número y condiciones para la creaci
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
 III.- Los Ayuntamientos estarán integrados por cinco miembros excepto el de la Capital que constará de siete.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+
+En la Capital del Estado y también en los Municipios que cuenten con más de 150,000 habitantes habrá además Regidores Electos mediante el principio de representación proporcional en los términos que señale la Ley de la materia.
 
 IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Egresos e Ingresos a la misma Legislatura.
 
@@ -1332,6 +1360,10 @@ La soberanía del Estado reside en el pueblo y en nombre de éste la ejerce el p
 ###### Artículo 4°.
 
 El Poder Público se constituye para beneficio del pueblo y tiene su origen en la voluntad de éste, expresada en la forma que establezca esta Constitución y las leyes orgánicas.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+
+Los Partidos Políticos, Entidades de interés público, tendrán en el Estado las mismas prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 5°.
 
@@ -1728,3 +1760,9 @@ P.O. 28 DE MAYO DE 1977.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE NOVIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+Este Decreto empezará a surtir efectos a partir del día siguiente al de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
