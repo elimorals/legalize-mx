@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-agricultura-15847"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-03"
-last_updated: "2000-03-03"
+last_updated: "2003-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 3 de marzo de 2000.
 
-JUAN S. MILLÁN LIZÁRRAGA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, en ejercicio de las facultades que me confieren los artículos 65, fracciones I, XIV Y XXIV, 66, párrafo primero, y 72 de la Constitución Política Local, y con fundamento en lo dispuesto por los artículos 1°,2°,3°,6°,7°,9°, 14 y demás relativos de la Ley Orgánica de la Administración Pública del Estado; 1°,2°, 6°, 7°, 8°, 9°, 10, 13, 15 Y 21 del Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, he tenido a bien expedir el siguiente:
+JUAN S. MILLÁN LIZÁRRAGA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, en ejercicio de las facultades que me confieren los artículos 65, fracciones I, XIV y XXIV, 66, párrafo primero, y 72 de la Constitución Política Local, y con fundamento en lo dispuesto por los artículos 1°, 2°, 3°, 6°, 7°, 9°, 14 y demás relativos de la Ley Orgánica de la Administración Pública del Estado; 1°, 2°, 6°, 7°, 8°, 9°, 10, 13, 15 y 21 del Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, he tenido a bien expedir el siguiente:
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERÍA Y PESCA
 
@@ -47,19 +47,55 @@ Subsecretario de Agricultura
 
 Subsecretario de Ganadería
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Subsecretario de Pesca
+
 Secretario Particular
 
-Unidad de Programas de Desarrollo
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
 
-Dirección de Pesca
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Unidad de Enlace y Evaluación de Programas de Desarrollo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 Dirección de Agricultura
 
-Dirección de Desarrollo Rural
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Dirección de Apoyos y Servicios a la Producción
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 Dirección de Desarrollo Ganadero
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 Dirección de Inspección Sanitaria
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Dirección de Desarrollo Pesquero
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Dirección de Acuacultura y Aguas Continentales
 
 El Secretario contará con los órganos técnicos y administrativos necesarios para el cumplimiento de sus facultades, únicamente limitado por los recursos económicos y presupuestales con que cuente la Secretaría.
 
@@ -155,15 +191,23 @@ XVI. Suscribir convenios, contratos y acuerdos de coordinación con los Gobierno
 
 XVII. Las demás que con carácter no delegables le otorgue el Gobernador del Estado y las que con el mismo carácter le confieran otras disposiciones legales y reglamentarias.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
 ###### Artículo 7°.
 
 Al despacho del Secretario estarán adscritas las siguientes unidades administrativas:
 
-Secretaria Particular
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
 
-Unidad de Programas de Desarrollo
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-Dirección de Pesca
+Secretario Particular
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Unidad de Enlace y Evaluación de Programas de Desarrollo
 
 #### SECCIÓN I. DE LA SECRETARÍA PARTICULAR
 
@@ -179,83 +223,71 @@ III. Atender y tramitar los asuntos que el Secretario le encomiende; y,
 
 IV. Agendar y manejar las audiencias del Secretario.
 
-#### SECCIÓN II. DE LA UNIDAD DE PROGRAMAS DE DESARROLLO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+#### SECCIÓN II. DE LA UNIDAD DE ENLACE Y EVALUACION DE LOS PROGRAMAS DE DESARROLLO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 ###### Artículo 9°.
 
-Corresponde a la Unidad de Programas de Desarrollo el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Enlace y Evaluación de Programas de Desarrollo el ejercicio de las siguientes atribuciones:
 
-I. Ejecutar los programas de desarrollo que defina el Secretario para el fomento de la producción agropecuaria y pesquera, conforme a lo establecido en el Plan Estatal de Desarrollo; el Programa Estatal de Agricultura y Ganadería y el Programa Estatal de Pesca y Acuacultura;
+l. Someter a consideración del Secretario el presupuesto anual de los proyectos estratégicos y operativos conforme a la normatividad establecida en el Sistema Integral de Planeación, Programación y Presupuestación, promoviendo la concordancia con las metas establecidas en el Plan Estatal de Desarrollo y los programas sectoriales correspondientes;
 
-II. Apoyar la ejecución de los programas de desarrollo y fomento agropecuario y pesquero, conforme a las políticas establecidas por los gobiernos Federal y Estatal;
+II. Someter a consideración del Secretario el presupuesto anual de los programas de desarrollo agropecuario y pesquero conforme a los convenios con la federación y los municipios promoviendo la rentabilidad y el incremento del ingreso en los productores de ambos sectores;
 
-III. Integrar el presupuesto de los programas que la Secretaria realiza con la federación y con las instancias estatales;
+III. Establecer la normatividad para la operación de los programas de desarrollo agropecuarios y pesqueros;
 
-IV. Coordinar la ejecución de acciones y el ejercicio de los recursos asociados a la operación de los programas concertados con los distritos de desarrollo rural;
+IV. Llevar a cabo el seguimiento y evaluación de los programas de desarrollo agropecuarios y pesqueros, vigilando que su ejercicio se haga con apego a la normatividad;
 
-V. Proponer e impulsar programas con participación federal y estatal que permitan incrementar el ingreso y mejorar la calidad de vida de los productores;
+V. Coadyuvar en la planeación agropecuaria y pesquera promoviendo la participación de todas las entidades públicas y privadas involucradas, así como de las organizaciones de productores, buscando generar una mayor certidumbre, un incremento en la rentabilidad de las actividades primarias y mejorar los ingresos de los productores;
 
-VI. Promover la introducción de nuevas tecnologías para fomentar el uso eficiente del agua y la modernización de los distritos de riego en el Estado;
+VI. Coordinar las acciones que permitan que el ejercicio de los recursos públicos asociados a la operación de programas agropecuarios y pesqueros concertados con la federación, fluyan en tiempo y forma cumpliendo la normatividad vigente en la materia;
 
-VII. Participar en el proceso de planeación agrícola que permita fortalecer acciones para recuperar la rentabilidad del campo;
+VII. Proponer e impulsar programas con participación federal, estatal y municipal que permitan incrementar el ingreso y mejorar la calidad de vida de los productores;
 
-VIII. Coadyuvar en la consecución de fuentes de financiamiento oficiales, privadas y de fondos de fomento, para capitalizar los programas normales y de contingencia en la entidad;
+VIII. Realizar los informes anuales de la Secretaria, así como otros documentos que requieran una visión de conjunto sobre las actividades Que realiza la dependencia;
 
-IX. Someter a la consideración del titular del despacho, los proyectos y programas normales y de contingencia que permitan disminuir la marginación y fomentar la producción agropecuaria y pesquera;
+IX. Desarrollar y administrar los sistemas Que se requieran para proporcionar a los productores agropecuarios y pesqueros y al público en general información estadística sistematizada que permita una mejor toma de decisiones;
 
-X. Asesorar y capacitar a los productores en la operación, conservación y mantenimiento de obras de apoyo a actividades agropecuarias y pesqueras;
-
-XI. Promover la organización de productores para su integración plena a los programas de desarrollo en la entidad;
-
-XII. Llevar registros estadísticos de inventario y avances de los programas y obras ejecutadas por la Secretaría;
-
-XIII. Instrumentar un esquema de seguimiento y evaluación que permita precisar el impacto de los programas oficiales; y,
-
-XIV. Las demás que le confieran las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le sean encomendadas por el Gobernador del Estado o el Secretario.
-
-###### Artículo 10.
-
-Para el despacho de los asuntos de su competencia, la Unidad de Programas de Desarrollo, se auxiliará de las siguientes áreas administrativas:
-
-Departamento de Programas Estatales
-
-Departamento de Programas de Vinculación Federal
-
-#### SECCIÓN III. DE LA DIRECCIÓN DE PESCA
-
-###### Artículo 11.
-
-Corresponde a la Dirección de Pesca el ejercicio de las siguientes atribuciones:
-
-I. Formular, dirigir y coordinar la ejecución de los programas de pesca y acuacultura en el Estado;
-
-II. Promover la rehabilitación y equipamiento de la flota pesquera de altamar, esteros y bahías;
-
-III. Promover las campañas de fomento al consumo de productos pesqueros;
-
-IV. Participar en coordinación con las dependencias federales, estatales y municipales, en el ordenamiento pesquero;
-
-V. Concertar con el sector pesquero la conciliación de intereses para proporcionar certeza y seguridad a cooperativas y armadores;
-
-VI. Participar en el programa de inspección y vigilancia en coordinación con la Procuraduría Federal de Protección al Ambiente y demás dependencias del ramo;
-
-VII. Promover la diversificación de la pesca con el objeto de apoyar el esfuerzo pesquero;
-
-VIII. Formular, dirigir y controlar los programas de pesca en el Estado;
-
-IX. Proponer políticas relativas al desarrollo de las actividades pesqueras en el Estado, estableciendo acciones para coordinar los programas de las dependencias federales que integran este sector y vigilar su cumplimiento;
-
-X. Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos pesqueros en la entidad, ejerciendo las atribuciones que al Gobernador del Estado le confieran las leyes y reglamentos en la materia; y,
+X. Servir de enlace con el resto de las dependencias de la Administración Pública Estatal donde se requiera definir la planeación estratégica, indicadores y cualquier otra acción que involucre el desarrollo interno de las diversas áreas de la Secretaría; y,
 
 XI. Las demás que le confieran las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le sean encomendadas por el Gobernador del Estado o el Secretario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+###### Artículo 10.
+
+Para el despacho de los asuntos de su competencia, la Unidad de Enlace y Evaluación de Programas de Desarrollo se auxiliará de las siguientes áreas administrativas:
+
+Departamento de Enlace
+
+Departamento de Normatividad y Seguimiento
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE PESCA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+###### Artículo 11.
+
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
 ###### Artículo 12.
 
-Para el despacho de los asuntos de su competencia, la Dirección de Pesca se auxiliará de las siguientes áreas administrativas:
-
-Departamento de Altamar
-
-Departamento de Esteras y Bahías.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 ### CAPÍTULO III. DE LAS FACULTADES GENÉRICAS DE LOS SUBSECRETARIOS
 
@@ -391,7 +423,11 @@ A la Subsecretaría de Agricultura estarán adscritas las siguientes unidades ad
 
 Dirección de Agricultura
 
-Dirección de Desarrollo Rural
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+Dirección de Apoyos y Servicios a la Producción
 
 #### SECCIÓN I. DE LA DIRECCIÓN DE AGRICULTURA
 
@@ -435,11 +471,19 @@ Departamento de Estudios Económicos
 
 Departamento de Desarrollo Agrícola
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE DESARROLLO RURAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE APOYOS Y SERVICIOS A LA PRODUCCIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 ###### Artículo 21.
 
-Corresponde a la Dirección de Desarrollo Rural el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Apoyos y Servicios a la Producción el ejercicio de las siguientes atribuciones:
 
 I. Coordinar con los agentes productivos del Estado el eficiente acopio, movilización y comercialización de las cosechas agrícolas;
 
@@ -483,13 +527,17 @@ XX. Interceder ante las instancias que correspondan para promover la solución d
 
 XXI. Las demás que le confieran las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le sean encomendadas por el Gobernador del Estado, el Secretario o el Subsecretario del ramo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 22.
 
-Para el despacho de los asuntos de su competencia, la Dirección de Desarrollo Rural se auxiliará de las siguientes áreas administrativas:
+Para el despacho de los asuntos de su competencia, la Dirección de Apoyos y Servicios a la Producción se auxiliará de las siguientes áreas administrativas:
 
-Departamento de Desarrollo Rural
+Departamento de Esquemas Comerciales
 
-Departamento de Comercialización
+Departamento de Operación y Seguimiento
 
 ### CAPÍTULO VI. DE LA SUBSECRETARÍA DE GANADERÍA
 
@@ -617,6 +665,152 @@ Para el despacho de los asuntos de su competencia, la Dirección de Inspección 
 
 Departamento de Control y Estadística
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+### CAPÍTULO VI BIS. DE LA SUBSECRETARÍA DE PESCA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+###### Artículo 28 Bis.
+
+Además de las atribuciones comunes a los Subsecretarios, al Subsecretario de Pesca le corresponden:
+
+I. Proponer las políticas, lineamientos y criterios que se requieren para la formulación, revisión, actualización, seguimiento y evaluación de los planes y programas del sector pesquero y acuícola, así como de los proyectos estratégicos que de ellos deriven;
+
+II. Promover y coordinar acciones con instituciones públicas y privadas, relacionadas con el sector pesquero y acuícola, con el objetivo de lograr un mayor desarrollo de estas actividades en la entidad, acorde con los programas que impulsen los gobiernos federal, estatal y municipal;
+
+III. Formular, dirigir y coordinar los programas de pesca y acuacultura en el Estado; Disponer de una política pesquera y acuícola que permita el uso sustentable de los recursos naturales y del medio ambiente;
+
+V. Proporcionar información del sector que permita a los sectores público y privado orientar sus decisiones acordes a la realidad del Estado;
+
+VI. Procurar la eficiencia y eficacia de los recursos que entregan la Federación y el Estado al sector, asegurando la oportunidad y transparencia de éstos;
+
+VII. Fortalecer medios, canales de participación y comunicación con los sectores claves para el desarrollo sustentable del sector pesquero y acuícola estatal;
+
+VIII. Proponer políticas relativas al desarrollo de las actividades pesqueras y acuícolas en el Estado, estableciendo acciones para coordinar los programas de las dependencias federales que integran este sector y vigilar su cumplimiento;
+
+IX: En coordinación con la Comisión Nacional de Acuacultura y Pesca proponer las fechas de veda del camarón en Sinaloa;
+
+X. Promover y coordinar acciones en materia de sanidad acuícola conjuntamente con el Instituto Sinaloense de Acuacultura, el Comité Estatal de Sanidad Acuícola de Sinaloa, las instancias federales correspondientes e instituciones de investigación;
+
+XI. Promover las campañas de fomento al consumo de productos pesqueros;
+
+XII. Promover la integración de la cadena productiva, pesquera y acuícola;
+
+XIII. Participar en coordinación con las instancias federales y organizaciones de pescadores, en el programa de inspección y vigilancia para evitar la pesca furtiva;
+
+XIV. Impulsar el desarrollo de la acuacultura rural en los embalses de las presas y cuerpos de aguas continentales;
+
+XV. Coordinar acciones con el Instituto Sinaloense de Acuacultura para instrumentar planes y programas en materia de desarrollo acuícola;
+
+XVI. Instrumentar las políticas que en materia de desarrollo pesquero y acuícola establezcan el Ejecutivo Estatal y el Secretario del ramo;
+
+XVII. Coordinar acciones con el Gobierno Federal para avanzar en el proceso de descentralización de funciones, atribuciones y recursos; y,
+
+XVIII. Las demás que le confieran las leyes, decretos, reglamentos, convenios, o Que expresamente le sean encomendadas por el Gobernador del Estado o el Secretario del Ramo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+###### Artículo 28 Bis
+
+1.- A la Subsecretaria de Pesca estarán adscritas las siguientes áreas administrativas:
+
+Dirección de Desarrollo Pesquero
+
+Dirección de Acuacultura y Aguas Continentales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO PESQUERO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+###### Artículo 28 Bis
+
+2. Corresponden a la Dirección de Desarrollo Pesquero el ejercicio de las siguientes atribuciones:
+
+I. Impulsar la implementación del reordenamiento pesquero, para lograr un desarrollo integral y sustentable de la pesca en bahías y altamar, coordinadamente con el Gobierno Federal;
+
+II. Coordinar la ejecución de los programas de apoyo a la actividad pesquera en esteras, bahías y altamar en el Estado:
+
+III. Promover la rehabilitación y equipamiento de la flota pesquera de bahías y altamar;
+
+IV. Promover la diversificación de la pesca con el propósito de disminuir el esfuerzo pesquero del recurso camarón;
+
+V. Participar y coordinar las actividades de desarrollo y fomento de la pesca artesanal y dimensionar los aportes presupuestarios;
+
+VI. Formular y proponer acciones para orientar la promoción y desarrollo de la (sic) actividades pesqueras del Estado:
+
+VII. Participar en el programa de inspección y vigilancia en coordinación con la Comisión Nacional de Acuacultura y Pesca;
+
+VIII. Atender las políticas para el desarrollo de las actividades pesqueras en el Estado;
+
+IX. Servir de gestor ante las dependencias Que corresponda, en la solución de la solución de la problemática que enfrenta el sector pesquero del Estado;
+
+X. Apoyar y participaren la descentralización de programas, facultades, atribuciones y recursos que con motivo del federalismo impulsa el Gobierno Federal; y.
+
+XI. Las demás que le confieran las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le sean encomendadas por el Gobernador, Secretario o Subsecretario del ramo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+#### SECCIÓN II. DA LA DIRECCIÓN ACUACULTURA Y AGUAS CONTINENTALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+###### Artículo 28 Bis
+
+3. Corresponden a la Dirección de Acuacultura y Aguas Continentales el ejercicio de las siguientes atribuciones:
+
+I. Formular, dirigir y coordinar la ejecución de los programas de Acuacultura y Pesca en Aguas Continentales;
+
+II. Mantener actualizada la información de las actividades de la acuacultura y pesca en aguas continentales;
+
+III. Promover la diversificación de las explotación de las especies de agua dulce acuícolas, para fortalecer la actividad económica de las comunidades rurales aledañas a los embalses del Estado;
+
+IV. Estudiar y proponer las áreas para el ejercicio de estas actividades;
+
+V. Coordinar la ejecución de los programas de sanidad acuícola conjuntamente con el Instituto Sinaloense de Acuacultura, el Comité Estatal de Sanidad Acuícola de Sinaloa y las instancias federales correspondientes;
+
+VI. Evaluar y proponer medidas especiales para la sanidad y protección de las especies que se explotan en estas actividades;
+
+VII. Elaborar informes técnicos para el otorgamiento de permisos en materia explotación de nuevas granjas acuícolas;
+
+VIII. Participar en la formulación de los programas de acuacultura en el Estado;
+
+IX. Promover la organización de pescadores de los diversos embalses del Estado, así como los acuicultores rurales;
+
+X. Apoyar a los pescadores de aguas continentales de Sinaloa mediante la revisión y análisis de los proyectos productivos, que promuevan el desarrollo de las comunidades rurales;
+
+XI. Promover la reactivación productiva de los embalses del Estado, mediante actividades colaterales a la pesca, como el turismo, la pesca deportiva y las actividades cinegéticas, entre otras;
+
+XII. Proponer los lineamientos y estrategias para el aprovechamiento sustentable de los recursos acuícolas del Estado, así como de la pesca en aguas continentales;
+
+XIII. Establecer los procedimientos de carácter técnico y administrativo para la expedición, trámite y revisión de la documentación relativa al control administrativo de las actividades acuícolas y pesqueras en aguas continentales;
+
+XIV. Servir de gestor ante las dependencias que corresponden en la solución de la problemática que enfrenta la acuacultura del Estado;
+
+XV. Participar en el programa de Inspección y Vigilancia en coordinación con la Comisión Nacional de Acuacultura y Pesca;
+
+XVI. Proponer el otorgamiento, modificación, revocación, caducidad y anulación de las concesiones y permisos de pesca y de acuacultura;
+
+XVII. Impulsar en coordinación con el Instituto Sinaloense de Acuacultura programas de apoyo a las actividades acuícolas del medio rural del Estado; y,
+
+XVIII. Las demás que le confieran las leyes, decretos, reglamentos, convenios. Circulares, acuerdos o expresamente las que le sean encomendadas por el Gobernador, Secretario o Subsecretario del ramo.
+
 ###### Artículo 29.
 
 Las ausencias del Secretario se suplirán por el Subsecretario de Agricultura, y en ausencia de éste por el Subsecretario de Ganadería. El encargado del despacho, tendrá todas las facultades que corresponden al titular, independientemente de las de su propio cargo.
@@ -652,3 +846,9 @@ Gonzalo M Armienta Calderón
 El Secretario de Agrícultura, Ganadería y Pesca
 
 Jesús Vega Acuña
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor el día primero de enero de dos mil cuatro.
