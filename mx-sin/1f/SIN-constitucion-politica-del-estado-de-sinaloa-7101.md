@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1939-06-20"
+last_updated: "1939-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1939.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -577,11 +577,11 @@ VII. Además de los anteriores requisitos, se requiere que el ciudadano sinaloen
 
 El Gobernador del Estado entrará a ejercer su cargo el día primero de enero del año siguiente al de su elección, durará cuatro años en su ejercicio y no será reelecto.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 58.
 
-Las faltas temporales del Gobernador del Estado, hasta por diez días, serán suplidas por el Secretario General de Gobierno, con el carácter de Encargado del Despacho, y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional.
+Las faltas temporales del Gobernador del Estado, hasta por quince días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho, y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los diputados presentes. Si éste estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional.
 
 ###### Art. 59.
 
@@ -1540,3 +1540,7 @@ El presente Decreto surte sus efectos legales a partir de la fecha de su publica
 P.O. 20 DE JUNIO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir del día primero de enero de mil novecientos cuarenta.
+
+P.O. 21 DE DICIEMBRE DE 1939.
+
+UNICO. Esta reforma empieza a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
