@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1966-12-29"
+last_updated: "1969-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1966.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1969.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -747,15 +747,19 @@ XIII.- En los casos de reclamación de alimentos, el del domicilio del acreedor 
 
 XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente;
 
-XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no pase de quinientos pesos, es competente un juez municipal, y de quinientos en adelante uno de primera instancia.
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
+XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no pase de cinco mil pesos, es competente un Juez Municipal; de cinco mil pesos en adelante, uno de Primera Instancia.
 
 ARTICULO 117
 
 De las cuestiones sobre estado, nombre o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas emanare, conocerán los jueces de primera instancia.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
 ARTICULO 118
 
-En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero si dicha reconvención fuera por más de quinientos pesos y estuviere conociendo del caso un juez municipal, pasará a conocer del mismo el de primera instancia correspondiente.
+En la reconvención es Juez competente el que lo sea para conocer de la demanda principal, pero si dicha reconvención fuere por más de cinco mil pesos y estuviere conociendo del caso un Juez Municipal, conocerá del mismo el de Primera Instancia correspondiente.
 
 ARTICULO 119
 
@@ -779,11 +783,15 @@ La declinatoria se propondrá ante el juez a quien se considere incompetente, pi
 
 En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente, puede inhibirse del conocimiento del negocio, remitiendo los autos a su superior para que decida la competencia.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
 ARTICULO 122
 
-Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá al superior a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
+Cuando dos o más Jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá al Superior, a fin de que les ordene enviar los expedientes en que se contengan sus respectivas resoluciones.
 
-Una vez recibidos los autos por dicho tribunal, citará a las partes y al Ministerio Público a una audiencia de pruebas y alegatos que se efectuará dentro del tercer día, y en ella pronunciará resolución.
+Cuando el conflicto de competencias se suscite entre Juzgados Municipales que pertenezcan a distinto Distrito Judicial, competerá resolverlo a la Sala que corresponda, del Tribunal Superior de Justicia.
+
+Una vez recibidos los autos por el Superior o la Sala respectiva, se citará a las partes y al Ministerio Público a una audiencia de pruebas y alegatos que se efectuará dentro del tercer día y en ella pronunciará resolución.
 
 ARTICULO 123
 
@@ -4701,17 +4709,21 @@ TITULO DECIMOSEPTIMO
 
 ### CAPITULO I. De la justicia municipal
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
 ARTICULO 747
 
-Conocerán los jueces municipales de los juicios cuya cuantía no exceda de quinientos pesos.
+Conocerán los Jueces Municipales de los Juicios cuya cuantía no exceda de cinco mil pesos.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande como suerte principal.
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
 ARTICULO 748
 
-El demandado en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción del juez municipal por exceder de quinientos pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente se continuará la audiencia como lo establecen los artículos siguientes.
+El demandado en el acto del Juicio, podrá pedir que se declare que el negocio no es de la competencia del Juez Municipal por exceder de cinco mil pesos su cuantía; en tal caso, el Juez oirá lo que ambas partes expongan, la opinión de los peritos que presenten, y examinando las pruebas que le aportaren resolverá enseguida. Si declarara ser competente se continuará la audiencia como lo establecen los artículos siguientes; en caso contrario remitirá lo actuado al Juez que corresponda.
 
 > <small>(F. DE E., G.O. 13 DE OCTUBRE DE 1932)</small>
 
@@ -4751,7 +4763,7 @@ Los instructivos se extenderán en esqueletos impresos tomados de libros talonar
 
 ARTICULO 755
 
-El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
+El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona de debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de hacer notificaciones.
 
@@ -4771,9 +4783,11 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 ### CAPITULO II. Del juicio
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
 ARTICULO 758
 
-Si a la hora señalada para la celebración del juicio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a quince pesos, que se aplicará al reo por vía de indemnización y mientras no se justifique haberse hecho el pago, no se llamará de nuevo para el juicio.
+Si a la hora señalada para la celebración del Juicio no estuviera presente el actor y sí el demandado, se impondrá a aquél una multa de veinticinco hasta cien pesos, que se aplicará al reo por vía de indemnización y mientras no se justifique haberse hecho el pago, no se llamará de nuevo para el Juicio.
 
 ARTICULO 759
 
@@ -4791,7 +4805,9 @@ I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el
 
 II.- Las partes pueden hacerse una a la otra las preguntas que quieran, interrogar a los testigos y peritos y, en general, presentar todas las pruebas que se puedan rendir desde luego;
 
-III.- Todas las acciones y excepciones o defensas, se harán valer en el acto mismo de la audiencia, sin sustanciar incidente de previo pronunciamiento. Si de lo que expongan o prueben las partes resultare la procedencia de una excepción dilatoria, el juez lo declarará así desde luego y dará por terminada la audiencia. Ante los jueces municipales, sólo se admitirá reconvención hasta por quinientos pesos; si se excediere de esa suma, se estará a lo dispuesto en el artículo 118;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
+III.- Todas las acciones y excepciones o defensas, se harán valer en el acto mismo de la audiencia, sin sustanciar incidente de previo pronunciamiento. Si de lo que expongan o prueben las partes resultara la procedencia de una excepción dilatoria, el Juez lo declarará así desde luego y dará por terminada la audiencia;
 
 IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
@@ -4972,3 +4988,13 @@ Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicaci�
 G.O. 29 DE DICIEMBRE DE 1966.
 
 TRANSITORIO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 27 NOVIEMBRE DE 1969.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día primero de enero del año de mil novecientos setenta.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en la "Gaceta Oficial" del Estado.
