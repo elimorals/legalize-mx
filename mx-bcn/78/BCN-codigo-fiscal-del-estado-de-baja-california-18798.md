@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2002-06-21"
+last_updated: "2004-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2004.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -67,9 +67,9 @@ V.- La Ley de Coordinación Fiscal.
 
 VI.- La Ley de Deuda Pública.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-VII.- El Reglamento Interior de la Secretaría de Planeación y Finanzas del Estado.
+VII.- El Reglamento Interno de la Secretaría de Planeación y Finanzas del Estado;
 
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -413,9 +413,9 @@ La indemnización mencionada, el monto del cheque y en su caso los recargos, se 
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
-ARTICULO 28 BIS.- Dentro del Procedimiento Administrativo de Ejecución y hasta antes de que se finque el remate, a fin de asegurar la recaudación de toda clase de créditos fiscales, excepcionalmente la Secretaría de Planeación y Finanzas, por conducto de la Procuraduría Fiscal podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sean de sencilla enajenación, o resulten aprovechables para los fines propios del Estado a juicio de Oficialía Mayor.
+ARTICULO 28 BIS.- A fin de asegurar la recaudación de toda clase de créditos fiscales, excepcionalmente la Secretaría de Planeación y Finanzas, por conducto de la Procuraduría Fiscal podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sean de sencilla enajenación, o resulten aprovechables para los fines propios del Estado a juicio de Oficialía Mayor.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -448,6 +448,10 @@ El Procedimiento Administrativo de Ejecución se seguirá por la parte del créd
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 Los bienes y servicios aceptados en dación en pago, una vez formalizada ésta, deberán ponerse inmediatamente a disposición de Oficialía Mayor de Gobierno para su enajenación, asignación o uso para los fines propios del Gobierno del Estado; debiendo incorporarse al inventario de bienes o al patrimonio inmobiliario del Gobierno del Estado, según corresponda.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional de la Procuraduría Fiscal, y no constituirá instancia, ni podrá ser impugnada por los contribuyentes.
 
 ###### ARTICULO 29.
 
@@ -575,9 +579,9 @@ III.- Del día siguiente al en que se hubiere cometido la infracción, pero si l
 
 Las facultades de la Secretaría de Planeación y Finanzas para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán conforme a este Artículo.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en las leyes fiscales aplicables, de empadronarse o registrarse ante las autoridades fiscales estatales; de presentar declaraciones para el pago de contribuciones; y, de llevar contabilidad. El plazo citado se computará a partir del día siguiente a aquel en que el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en las leyes fiscales aplicables. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años.
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en las leyes fiscales aplicables, de empadronarse o registrarse ante las autoridades fiscales estatales; de presentar declaraciones para el pago de contribuciones; y, de llevar contabilidad. El plazo citado se computará a partir del día siguiente a aquel en que el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en las leyes fiscales aplicables. En los casos en que el contribuyente en forma extemporánea se empadrone o registre o presente la declaración omitida, y cuando estas obligaciones no sean requeridas, el plazo será de cinco años, sin que en ningún caso este plazo sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años.
 
 ###### ARTICULO 41.
 
@@ -597,11 +601,15 @@ I.- Cuando los sujetos del crédito sean insolventes, previa comprobación ante 
 
 II.- Cuando resulte incosteable su cobro, a juicio de la propia Secretaría de Planeación y Finanzas.
 
-### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 2004)</small>
+
+### CAPITULO III. DE LAS INFRACCIONES Y MULTAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 43.
 
-Corresponde a las Autoridades Fiscales competentes, imponer las sanciones que procedan por la comisión de infracciones a las Leyes Fiscales.
+Corresponde a las autoridades fiscales competentes, imponer las multas que procedan por la comisión de infracciones a las Leyes Fiscales.
 
 Si la Infracción constituye, además, delito fiscal, se estará a lo dispuesto en el Capítulo IV, de este Título.
 
@@ -613,95 +621,177 @@ La aplicación de las sanciones administrativas que procedan, se harán sin perj
 
 Los funcionarios o empleados públicos ante quienes con motivo de sus funciones, se exhiba algún libro, objeto o documento que implique el incumplimiento a las Leyes Fiscales, harán la denuncia respectiva a las Autoridades Fiscales para no incurrir en responsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 46.
 
-En cada infracción de las señaladas en este Código se aplicarán las sanciones correspondientes, conforme a las reglas siguientes:
+Son responsables en la comisión de infracciones previstas en este Código, las personas que realicen los supuestos que en este Capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquéllas que lo hagan fuera de los plazos establecidos. En cada infracción de las señaladas en este Código se aplicarán las multas correspondientes, conforme a las reglas siguientes:
 
-I.- La Autoridad Fiscal al imponer la sanción que corresponda, tomará en cuenta la importancia de la infracción, las condiciones del causante y la conveniencia de destruir prácticas establecidas, tanto para evadir la prestación fiscal, cuanto para infringir, en cualquier otra forma, las Disposiciones Legales o Reglamentarias.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-II.- La Autoridad Fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones.
+I.- La autoridad fiscal al imponer multas por la comisión de infracciones previstas en este Código, deberá fundar y motivar debidamente su resolución.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+II.- La autoridad fiscal, en su caso, considerará como agravantes los siguientes supuestos:
+
+a) El hecho de que el infractor sea reincidente. La reincidencia se da cuando:
+
+1) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, incluyendo las retenidas o recaudadas, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia, o bien,
+
+2) Tratándose de infracciones que no implique la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código.
+
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cinco años.
+
+b) Que se haga uso de documentos falsos en los que se hagan constar operaciones inexistentes, o se presenten avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las disposiciones legales, alterados o falsificados, y siempre que dichos actos generen la omisión total o parcial en el pago de contribuciones;
+
+c) Que se lleven dos o más sistemas de contabilidad con distinto contenido;
+
+d) Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad;
+
+e) La omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes; y,
+
+f) Que la comisión de la infracción sea continuada.
+
+En los supuestos previstos en la fracción II de este artículo, la multa aumentará de un 20% a un 30% del monto que corresponda conforme a este Código.
 
 III.- Cuando sean varios los responsables, cada uno deberá pagar la multa que se le imponga.
 
-IV.- Cuando por un acto o una omisión, se infrinjan diversas Disposiciones Fiscales a las que señale este Código una sanción, sólo se aplicará la que corresponda a la infracción más grave.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-V.- En el caso de infracciones contínuas y de que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad, una multa hasta el triple del máximo de la sanción que corresponda.
+IV.- Cuando por un acto o una omisión, se infrinjan diversas disposiciones fiscales a las que correspondan varias multas conforme a este Código, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor;
 
-VI.- En el caso de que alguna persona sea responsable de diversas infracciones, aún cuando sean de la misma naturaleza, por cada una de ellas se le aplicará la multa respectiva, sea cual fuere la suma de todas las sanciones.
+V.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
-VII.- Cuando se estime que la infracción cometida es leve y que no ha tenido como consecuencia la evasión del Impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviere a incurrir en la infracción.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-VIII.- Cuando se omita una prestación fiscal que corresponda a los actos o contratos que se hagan constar en Escritura Pública o minuta extendida ante Corredor Titulado, la sanción se impondrá exclusivamente a los Notarios o Corredores, y los otorgantes sólo quedarán obligados a pagar los Impuestos omitidos. Si la Infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al Notario o Corredor; la sanción se aplicará a los mismos interesados.
+VI.- En el caso de que alguna persona sea responsable de diversas infracciones, aún cuando sean de la misma naturaleza, por cada una de ellas se le aplicará la multa respectiva, sea cual fuere la suma de éstas.
 
-IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del Estado, de la Federación o de los Municipios, éstos serán responsables de las infracciones que se cometan y se les aplicarán sanciones que correspondan, quedando únicamente obligados los causantes, a pagar la prestación omitida excepto en los casos en que este Código o alguna Ley Fiscal disponga que no se podrá exigir al causante dicho pago.
+VII.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
-X.- Las Autoridades Fiscales se abstendrán de imponer sanciones cuando se haya incurrido en infracciones a causa de fuerza mayor o de caso fortuito o cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por la Ley. No se considerará que el cumplimiento es espontáneo cuando la infracción sea descubierta por las Autoridades Fiscales o medie requerimiento o visita domiciliaria.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-XI.- Las Autoridades Fiscales dejarán de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de las mencionadas Autoridades.
+VIII.- Cuando se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores legalmente autorizados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la Infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones omitidas, los accesorios, serán a cargo de los contribuyentes.
+
+IX.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+X.- Las autoridades fiscales se abstendrán de imponer multas cuando se haya incurrido en infracciones a causa de fuerza mayor o de caso fortuito o cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por la Ley. No se considerará que el cumplimiento es espontáneo cuando la infracción sea descubierta por las autoridades fiscales o medie requerimiento o visita domiciliaria.
+
+XI.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 46
+
+BIS.- Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicarán las multas siguientes:
+
+I. El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió.
+
+II. Del 70% al 100% de las contribuciones omitidas, en los demás casos.
+
+Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el por ciento que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
+
+Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% al 25% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 47.
 
-Son infracciones a cargo de deudores de una prestación fiscal, y a cada una corresponde la sanción que en cada caso se señale, que se determinará con base en la equivalencia del salario mínimo general vigente en el Estado, excepto en los casos previstos por este Artículo.
+Son infracciones a cargo de los contribuyentes o responsables solidarios, y a cada una corresponde la multa que en cada caso se señale, que se determinará con base en la equivalencia del salario mínimo general vigente en el Estado:
 
-I.- No inscribirse o registrarse; no presentar o proporcionar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las Leyes Fiscales o presentarlos o proporcionarlos extemporáneamente.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-Multa de dos a cien veces el salario mínimo.
+I.- No inscribirse o registrarse; no presentar o proporcionar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las disposiciones fiscales o presentarlos o proporcionarlos extemporáneamente.
 
-II.- Presentar avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la Fracción anterior alterados, falsificados, incompletos o con errores.
+Multa de dos a veinte veces el salario mínimo.
 
-Multa de 150% del monto del crédito fiscal omitido cuando éste pueda determinarse o en su defecto, de cuatro a doscientas veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-III.- Declarar ingresos menores de los realmente percibidos, ocultar u omitir bienes o existencias que deban figurar en los inventarios o relaciones de inventarios, declarar bienes o existencias a precios inferiores de los reales.
+II.- Presentar avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior, incompletos o con errores.
 
-Multa de 150% del crédito fiscal omitido.
+Multa de dos a veinte veces el salario mínimo.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+III.- Presentar avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior alterados o falsificados, o con datos falsos.
+
+Multa de diez a cincuenta veces el salario mínimo.
 
 IV.- No llevar los libros de contabilidad a que estén obligados, de acuerdo a sus actividades; no incluir en la solicitud para su inscripción en el Registro de Causantes, todas las actividades por las que sea causante habitual; no obtener documentos, placas, calcomanías o permisos, o hacerlo fuera de los plazos legales.
 
-Multa de 150% del monto del crédito fiscal omitido.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Multa de cuatro a cincuenta veces el salario mínimo.
 
 V.- No comparecer ante las Autoridades Fiscales o hacerlo fuera del plazo a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere la Fracción I, multa de:
 
-Por el primer requerimiento: Tres veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-Por el segundo requerimiento: Seis veces el salario mínimo.
+Por el primer requerimiento: Tres a cinco veces el salario mínimo.
 
-Por el tercer requerimiento: Nueve veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Por el segundo requerimiento: Seis a ocho veces el salario mínimo.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Por el tercer requerimiento: Nueve a doce veces el salario mínimo.
 
 Los requerimientos a que se refiere esta Fracción, deberán cumplirse dentro de los seis días siguientes de su notificación y en ningún caso excederán de tres requerimientos para una misma omisión.
 
 VI.- No efectuar los asientos correspondientes a las operaciones realizadas en los libros o documentos de contabilidad; hacerlos incompletos o inexactos, en perjuicio del Fisco o hacerlos fuera de los plazos legales.
 
-Multa de 150% del monto del crédito fiscal omitido cuando éste pueda determinarse o en su defecto, de cuatro a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-VII.- Llevar doble juego de libros con asientos diferentes.
+Multa de cuatro a cincuenta veces el salario mínimo.
 
-Multa de cinco a doscientas cincuenta veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+VII.- Llevar dos o más sistemas de contabilidad con distinto contenido.
+
+Multa de diez a cien veces el salario mínimo.
 
 VIII.- Realizar o consentir alteraciones, raspaduras, tachaduras o falsificaciones en perjuicio del Fisco, de cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Multa de cuatro a cincuenta veces el salario mínimo.
 
 IX.- Destruir o inutilizar los libros o archivos antes de los plazos que por Ley deban conservarse.
 
-Multa del 200% del monto del crédito fiscal omitido cuando ésta pueda precisarse y en su defecto, de cuatro a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Multa de cuatro a cincuenta veces el salario mínimo.
 
 X.- No realizar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las Leyes dispongan.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Multa de cuatro a veinte veces el salario mínimo.
 
 XI.- Faltar en todo o en parte al pago de un crédito fiscal como consecuencia de las omisiones, inexactitudes, simulaciones o falsificaciones a que se refieren las Fracciones anteriores, así como cualquier otra maniobra encaminada a eludir el pago del adeudo.
 
-Multa de 200% de la prestación fiscal omitida cuando ésta pueda precisarse, y en su defecto, de cuatro a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-XII.- No hacer el pago de una prestación fiscal dentro de los plazos señalados en las Leyes Fiscales.
+Multa de cuatro a cien veces el salario mínimo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
+XII.- No hacer el pago de contribuciones y sus accesorios dentro de los plazos señalados en las Leyes Fiscales.
 
 Multa de uno a veinte veces el salario mínimo.
 
-XIII.- No tener las placas, boletas de registro, libros o cualquier documento en los lugares señalados por las Leyes Fiscales.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
+XIII.- No tener las constancias de registro, libros o cualquier documento en los lugares señalados por las Leyes Fiscales.
 
 Multa de uno a veinte veces el salario mínimo.
 
-XIV.- No devolver oportunamente a las Oficinas Receptoras los comprobantes de pago de una Prestación Fiscal, Libros, Placas, Boletas o cualquier otro documento cuya devolución sea exigible por las leyes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
+XIV.- No devolver oportunamente a las oficinas receptoras los comprobantes de pago de contribuciones, libros, placas, boletos o cualquier otro documento cuya devolución sea exigible por las leyes.
 
 Multa de uno a veinte veces el salario mínimo.
 
@@ -711,11 +801,15 @@ Multa de una a veinte veces el salario mínimo.
 
 XVI.- No suministrar los datos e informes que legalmente exijan las Autoridades Fiscales; no mostrar los libros documentos, registros o impedir a las mismas Autoridades la entrada a los almacenes, depósitos, bodegas o cualquiera otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las Autoridades Fiscales, en el plazo que establecen las Leyes Fiscales.
 
-Multa de cinco a doscientas cincuenta veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-XVII.- Emprender cualquier actividad sin obtener previamente el permiso exigido por los Ordenamientos Legales o producir, fabricar, transformar, almacenar o exprender (sic) determinados artículos fuera de la zona o lugares autorizados para tal efecto.
+Multa de cinco a cien veces el salario mínimo.
 
-Multa de cinco a doscientos cincuenta veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+XVII.- Emprender cualquier actividad sin obtener previamente el permiso exigido por los ordenamientos legales.
+
+Multa de cinco a cien veces el salario mínimo.
 
 XVIII.- No registrar los contratos que señalen las Leyes Fiscales.
 
@@ -727,23 +821,37 @@ Multa de cuatro a cien veces el salario mínimo.
 
 XX.- Faltar a la obligación de extender facturas, notas de venta o comprobantes de máquinas registradoras o cualesquier otro documento que señalen las Leyes Fiscales.
 
-Multa de diez a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-XXI.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos.
+Multa de cinco a cincuenta veces el salario mínimo.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+XXI.- Traficar con los documentos o comprobantes de pago de contribuciones o hacer uso ilegal de ellos.
+
+Multa de dos a cien veces el salario mínimo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 48.
 
-Son infracciones a cargo de terceros y a cada uno corresponde la sanción que en cada caso se señala, que se determinará en base a la equivalencia del salario mínimo vigente en el Estado.
+Son infracciones a cargo de terceros y a cada uno corresponde la multa que en cada caso se señala, que se determinará en base a la equivalencia del salario mínimo vigente en el Estado:
 
-I.- No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos, que les fueren solicitados por las Autoridades Fiscales.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
-Por el primer requerimiento. Tres veces el salario mínimo.
+I.- No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos, que les fueren solicitados por las autoridades fiscales.
 
-Por el segundo requerimiento. Seis veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-Por el tercer requerimiento. Nueve veces el salario mínimo.
+Por el primer requerimiento: Dos a cinco veces el salario mínimo.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Por el segundo requerimiento: Seis a ocho veces el salario mínimo.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Por el tercer requerimiento: Nueve a doce veces el salario mínimo.
 
 Los requerimientos a que se refiere esta Fracción deberán cumplirse dentro de los seis días siguientes a la fecha de su notificación y en ningún caso excederán de tres requerimientos.
 
@@ -757,111 +865,71 @@ Multa de cuatro a cien veces el salario mínimo.
 
 IV.- Autorizar o hacer constar en calidad de Contadores, peritos o testigos, datos falsos en documentos, inventarios, balances o asientos.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Multa de dos a cien veces el salario mínimo.
 
 V.- Intervenir en cualquiera forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad, o en algún hecho preparatorio de los apuntados.
 
 Multa de cuatro a cien veces el salario mínimo.
 
-VI.- No presentar las declaraciones, informes, o documentos necesarios para la determinación o pago del adeudo fiscal.
+VI.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
-Multa del 200% del monto del crédito fiscal omitido cuando éste pueda determinarse y en su defecto de dos a doscientas veces el salario mínimo.
+VII.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
-VII.- Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-Multa de dos a doscientas veces el salario mínimo.
+VIII.- Asesorar o aconsejar al causante para que eluda el pago de alguna contribución o para que infrinja las Leyes Fiscales.
 
-VIII.- Asesorar o aconsejar al causante para que eluda el pago de alguna prestación fiscal o para que infrinja las Leyes Fiscales.
+Multa de dos a cien veces el salario mínimo.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-IX.- No suministrar los datos e informes que exijan las Autoridades Fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o en general los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
+IX.- No mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o en general los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
 
-Multa de dos a doscientas veces el salario mínimo.
+Multa de dos a cien veces el salario mínimo.
 
-X.- Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los Impuestos causados.
+X.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
-XI.- No prestar ayuda a las Autoridades Fiscales para la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo, conforme a las Disposiciones de la materia.
-
-Multa de dos a diez veces el salario mínimo.
-
-XII.- No cerciorarse al transportar artículos gravados, del pago de los Impuestos que se hayan causado, cuando las Disposiciones Fiscales impongan esa obligación, o hacer el transporte sin la documentación que se exija.
+XI.- No prestar ayuda a las autoridades fiscales para la determinación y cobro de contribuciones en los casos en que tengan obligación de hacerlo, conforme a las disposiciones de la materia.
 
 Multa de dos a diez veces el salario mínimo.
+
+XII.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 XIII.- Destruir o remover sin estar facultado los Sellos Oficiales.
 
 Multa de cuatro a cien veces el salario mínimo.
 
-XIV.- Traficar con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-Multa de dos a doscientas veces el salario mínimo.
+XIV.- Traficar con los documentos y comprobantes de pago de contribuciones o hacer uso indebido de ellos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+Multa de dos a cien veces el salario mínimo.
 
-XV.- No enterar, dentro de los plazos señalados, las cantidades retenidas, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
+XV.- No enterar, dentro de los plazos señalados, las cantidades retenidas o recaudadas, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 1998)</small>
 
 Multa de seis a cien veces el salario mínimo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-En caso de que la omisión sea detectada a través del ejercicio de las facultades de comprobación, la multa será del 150% del importe del impuesto omitido.
-
 ###### ARTICULO 49.
 
-Son infracciones cuya responsabilidad recae sobre los Notarios, Corredores, Encargados de los Registros Públicos y, en general sobre funcionarios encargados de llevar la fe pública, y a cada una corresponde la sanción que en cada caso se señala, que se determinarán con base a la equivalencia del salario mínimo general, vigente en el Estado.
+(DEROGADO, P.O. 2 DE ABRIL DE 2004)
 
-I.- No hacer la manifestación de las Escrituras, Contratos o cualesquiera otros actos que se celebren u otorguen ante su fé, o efectuarla sin sujetarse a lo previsto por las Disposiciones Fiscales.
-
-Multa de una a veinte veces el salario mínimo.
-
-II.- Autorizar actos o contratos de enajenación, de traspaso de negociaciones, de disolución de sociedades u otros que sean fuente de ingresos gravados por el Fisco, sin cerciorarse previamente de que se está al corriente en el cumplimiento de las obligaciones fiscales relativas o sin dar los avisos que prevengan las Leyes.
-
-Multa de dos a doscientas veces el salario mínimo.
-
-III.- Inscribir o registrar documentos que carezcan de la constancia de pago de Impuestos o Derechos correspondientes.
-
-Multa de una a cien veces el salario mínimo.
-
-IV.- Autorizar documentos o contratos que no estén debidamente requisitados de acuerdo con las Leyes Fiscales correspondientes.
-
-Multa de una a veinte veces el salario mínimo.
-
-V.- Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial de Impuestos, mediante alteraciones, ocultaciones u otros hechos u omisiones.
-
-Multa de dos a doscientas veces el salario mínimo.
-
-VI.- Otorgar constancia de que se ha cumplido con las obligaciones fiscales cuando no proceda su otorgamiento.
-
-Multa de una a cien veces el salario mínimo.
-
-VII.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que exigen las Disposiciones Fiscales o cuando lo exijan la Autoridades competentes o presentarlos incompletos o inexactos.
-
-Multa de dos a doscientas veces el salario mínimo.
-
-VIII.- Presentar los informes, datos o documentos a que se refiere la Fracción anterior, alterados o falsificados.
-
-Multa de dos a doscientas veces el salario mínimo.
-
-IX.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos.
-
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 50.
 
-Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos del Estado y de los Municipios, así como sobre los encargados de servicios y organismos oficiales, y a cada uno corresponde la sanción que en cada caso se señala, la que se determinará con base a la equivalencia del salario mínimo general vigente en el Estado.
+Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos del Estado, así como sobre los encargados de servicios y organismos oficiales, y a cada uno corresponde la sanción que en cada caso se señala, la que se determinará con base a la equivalencia del salario mínimo general vigente en el Estado.
 
-I.- Dar curso a documentos que carezcan de los requisitos especificados en las Leyes, o no requisitarlos.
+I.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
-Multa de una a diez veces el salario mínimo.
-
-II.- Expedir actas, certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el gravamen.
-
-Multa de dos a doscientas veces el salario mínimo.
+II.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 III.- Recibir el pago de una prestación fiscal y no enterar su importe en la caja recaudadora inmediatamente.
 
@@ -883,7 +951,9 @@ VII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualqui
 
 Multa de cuatro a cien veces el salario mínimo.
 
-VIII.- Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales, o que se practicaron visitas de inspección o incluir en las actas relativas, datos falsos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
+VIII.- Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales, o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas, datos falsos.
 
 Multa de dos a doscientas veces el salario mínimo.
 
@@ -911,9 +981,7 @@ XIV.- No prestar a las Autoridades Fiscales el auxilio necesario para la determi
 
 Multa de una a diez veces el salario mínimo.
 
-XV.- Adquirir los bienes objeto de un remate fiscal por sí o por medio de interpósita persona.
-
-Multa de dos a doscientas veces el salario mínimo.
+XV.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 XVI.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos.
 
@@ -930,6 +998,10 @@ Multa de cinco a doscientas veces el salario mínimo.
 ###### ARTICULO 51.
 
 Los proveídos mediante los cuales impongan multas deberán ser notificados a los infractores en la forma establecida en este Código, otorgando un plazo de quince días para el pago de su importe, transcurrido dicho plazo procederá iniciar el procedimiento de ejecución.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+En el caso de que la multa se pague dentro del plazo señalado en el párrafo anterior, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -1423,11 +1495,11 @@ c) Solicitar a la autoridad correspondiente se proceda por desobediencia a un ma
 
 d) Clausura temporal.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-Para efectos de esta fracción X, las autoridades estatales competentes y los cuerpos de seguridad pública o policiales, deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
+XI. Practicar u ordenar inspecciones o verificaciones en los términos a los que se refiere el artículo 105 BIS de este Código.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifica al contribuyente.
 
@@ -1473,27 +1545,9 @@ III.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella
 
 Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, o por ausentarse de él antes de que concluya la diligencia, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
-
 ###### ARTICULO 97.
 
-Las autoridades fiscales, en el ejercicio de sus facultades de comprobación, procederán como sigue para determinar contribuciones omitidas:
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
-
-I.- Determinarán, en primer lugar, las contribuciones omitidas en el período de doce meses, inmediato anterior a la fecha en que se ejerzan las citadas facultades.
-
-II.- Al comprobarse que durante el período a que se refiere la Fracción anterior el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas con anterioridad a tal período, sin mas limitación que lo dispuesto en el Artículo 40 de este Código, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de este Artículo.
-
-Las irregularidades a las que se refiere esta Fracción son las siguientes:
-
-A).- Omisión en el pago de contribuciones por más del 5% sobre el total de las declaradas por adeudo propio.
-
-B).- Omisión de la presentación de tres o más declaraciones mensuales durante el período sujeto a revisión.
-
-C).- Efectuar compensación o acreditamiento improcedente contra contribuciones a su cargo, u obtener en forma indebida la devolución de contribuciones por más del 5% sobre el total de las declaradas.
-
-D).- Omisión en el entero de las contribuciones de que se trata por más del 5% sobre el total retenido o que debió retenerse.
+(DEROGADO, P.O. 2 DE ABRIL DE 2004)
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -1501,9 +1555,7 @@ ARTICULO 97 BIS.- Los visitados, sus representantes, o la persona con quien se e
 
 También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
-
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio autorizado administrativamente por la Secretaría de Planeación y Finanzas, deberán poner a disposición de los visitadores el equipo de cómputo.
+Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio autorizado administrativamente por la Secretaría de Finanzas, deberán poner a disposición de los visitadores el equipo de cómputo.
 
 Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que previo cotejo con los originales, se certifiquen por los visitadores:
 
@@ -1555,13 +1607,21 @@ VI.- Si en el cierre del acta final de la visita no estuviere presente el visita
 
 VII.- Las actas parciales formarán parte integrante del acta final de la visita, debiéndose asentar así en ésta expresamente.
 
-Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por periodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se le notifique la prórroga correspondiente haya sido expedido por la autoridad o autoridades fiscales que ordenaron la visita o revisión, salvo cuando el contribuyente durante el desarrollo de la visita domiciliaria o de la revisión de la contabilidad cambie de domicilio fiscal, supuesto en el que serán las autoridades que correspondan a su nuevo domicilio las que expedirán el oficio de la prórroga.
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, dentro de un plazo máximo de seis meses contados a partir de que se les notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o las prórrogas que procedan de conformidad con el párrafo anterior, los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por periodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se le notifique la prórroga correspondiente haya sido expedido por la autoridad o autoridades fiscales que ordenaron la visita y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la visita. En su caso, dicho plazo se entenderá prorrogado hasta que transcurra el término a que se refiera el primer párrafo de la fracción VI del artículo 98 BIS de este Código.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Si durante el plazo para concluir la visita domiciliaria, o las prórrogas que procedan de conformidad con el párrafo anterior, los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Cuando las autoridades no levanten el acta final de visita dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
 Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente cuando el visitado antes del inicio de la visita hubiere presentado aviso ante las autoridades fiscales correspondientes, manifestando su deseo de presentar sus estados financieros dictaminados por contador público registrado. En este caso se deberá levantar acta en la que se señale esta situación.
 
@@ -1579,11 +1639,31 @@ IV.- Como consecuencia de la revisión de los informes, libros, datos, documento
 
 V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de los documentos presentados.
 
-VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo. El contribuyente o responsable solidario contará con un plazo de cuando menos quince días por ejercicio revisado o fracción de éste, sin que en su conjunto exceda, para todos los ejercicios revisados, de un máximo de cuarenta y cinco días, contados a partir del siguiente a aquél en el que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+
+VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo. El contribuyente o responsable solidario contará con un plazo de cuando menos veinte días contados a partir del día siguiente a aquel en que se le notificó el oficio de observaciones para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso (sic) dentro del plazo inicial de veinte días.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo a que se refiere el párrafo anterior, el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
-El plazo que se señala en el primer párrafo de esta fracción es independiente del que se establece en el segundo párrafo de la fracción VII del artículo 98 de este Código.
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Las autoridades fiscales deberán concluir la revisión de la contabilidad que se efectúe en las oficinas de las propias autoridades dentro de un plazo máximo de seis meses contados a partir de que se le notifique a los contribuyentes el inicio de facultades de comprobación.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por períodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido, en la primera ocasión por la autoridad o autoridades fiscales que ordenaron la citada revisión y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la citada revisión.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Si durante el plazo para concluir la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o las prórrogas que procedan de conformidad con el párrafo anterior, los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+El plazo que se señala en el primer párrafo de esta fracción es independiente del que se establece en los dos párrafos anteriores.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Cuando las autoridades no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha revisión.
 
 VII.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción VI, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, debiendo acreditar tal circunstancia ante la autoridad revisora.
 
@@ -1669,6 +1749,24 @@ II.- Si la contabilidad del causante no permite reconstruir las operaciones del 
 
 Al ingreso o valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 104
+
+BIS.- Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación, a que se refiere el artículo 98 BIS de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que se concluyan los plazos a que se refiere el primer párrafo de la fracción VI del artículo 98 BIS de este Código.
+
+Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+
+Los plazos para concluir la visita domiciliaria o la revisión de la contabilidad que se efectúe en las oficinas de las propias autoridades fiscales y los plazos de las prórrogas que procedan, se suspenderán en los casos de:
+
+I. Que durante el plazo para emitir la resolución de que se trate, los contribuyentes interpongan algún medio de defensa, contra el acta final de visita o del oficio de observaciones de que se trate, o de cualquier actuación derivada del ejercicio de las facultades de comprobación por parte de la autoridad; dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+II. Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga.
+
+III. Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+IV. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 105.
@@ -1682,6 +1780,24 @@ II.- Cuando el causante oponga resistencia o no proporcione en el término que l
 III.- Cuando se inicien operaciones mercantiles o industriales que requieran licencia o permiso del Ejecutivo, sin haberlo obtenido previamente.
 
 Para efectuar la clausura que señala este Artículo, deberá requerirse previamente al causante concediéndose un término de tres días para el cumplimiento de sus obligaciones, apercibiéndolo que de no hacerlo se procederá a clausura sin más trámite.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 105
+
+BIS.- Para los efectos de lo dispuesto por la fracción XI del artículo 95 de este Código, las inspecciones y verificaciones se realizarán conforme a lo siguiente:
+
+I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, o cualesquier lugar siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías.
+
+II. Al presentarse los visitadores al lugar donde deba practicarse la diligencia, entregarán la orden de inspección o verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar verificado, indistintamente, y con dicha persona se entenderá la inspección o verificación.
+
+III. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+
+IV. En toda visita de inspección o verificación se levantará acta en la que se hará constar de forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código y en su caso, las irregularidades detectadas durante la inspección.
+
+V. Si al cierre del acta de inspección el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar el original del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita de inspección.
+
+VI. Si con motivo de la visita de inspección a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en el Registro de Causantes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
 ###### ARTICULO 106.
 
@@ -2544,3 +2660,17 @@ P.O. 21 DE JUNIO DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos, trámites y recursos administrativos, que se hubieren iniciado antes de la entrada en vigor de este Decreto, continuarán su sustanciación y se resolverán conforme a la (sic) disposiciones legales vigentes a la fecha en que se iniciaron.
+
+###### ARTICULO TERCERO.
+
+Las infracciones cometidas antes de la entrada en vigor de este Decreto, se sancionarán en los términos preceptuados por las disposiciones vigentes en la época en que se cometieron. En caso de que las disposiciones vigentes prevean una multa distinta, se sancionará con la que resulte más benéfica para el contribuyente.
