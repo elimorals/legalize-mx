@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-carrera-judicial-21558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2000-11-10"
+last_updated: "2001-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE CARRERA JUDICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de noviembre de 2000.
 
@@ -831,9 +831,13 @@ a) Resultados de cada una de las visitas practicadas por los Consejeros o Visita
 
 b) Información estadística del número y tipo de asuntos atendidos;
 
-c) Estadísticas del tipo de recursos interpuestos ante el Tribunal Superior de Justicia, contra sus acuerdos y demás resoluciones así como sus resultados;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
-d) Quejas administrativas interpuestas y las resoluciones de las mismas, en su caso;
+c) Estadísticas del tipo de recursos interpuestos en contra de sus determinaciones y sus resultados, así como la incidencia de amparos concedidos en su contra y los efectos de los mismos;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+
+d) Quejas administrativas interpuestas y las resoluciones de las mismas, en el entendido que sólo serán consideradas en el desempeño del funcionario las quejas que hayan sido declaradas procedentes;
 
 e) Las actividades debidamente acreditadas, relacionadas en su empeño en la actualización constante para elevar sus conocimientos jurídicos;
 
@@ -845,7 +849,13 @@ h) Sus aportaciones consistentes en análisis jurídicos, artículos o ensayos q
 
 i) Su participación como instructor, moderador, conferencista o cualesquier otro apoyo brindado en los cursos o eventos de capacitación y actualización convocados por el Instituto;
 
-El dictamen de referencia podrá ser acompañado de una autoevaluación del interesado que por escrito hiciera llegar al Consejo, expresando las razones por las que considera ser merecedor a la ratificación.
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2001)</small>
+
+j) Los medios que proporcione el interesado, o los que recabe el Consejo tendientes a demostrar la conservación de los requisitos para ocupar el cargo de Juez, así como el buen desempeño del cargo.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+
+El dictamen de referencia podrá ser acompañado de una autoevaluación del interesado que por escrito hiciera llegar al Consejo, expresando las razones por las que considera ser merecedor a la ratificación, siempre que lo presente 15 días hábiles antes de la fecha de entrega del dictamen por parte del Consejo.
 
 ###### Artículo 99.
 
@@ -1018,3 +1028,9 @@ MEXICALI, CAPITAL DEL ESTADO DE BAJA CALIFORNIA, A LOS VEINTIDÓS DÍAS DEL MES 
 LA SECRETARIA GENERAL DE ACUERDOS DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
 LIC. IRMA MEZA CÁRDENAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE MAYO DE 2001.
+
+UNICO.- La presente reforma entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y el Boletín Judicial.
