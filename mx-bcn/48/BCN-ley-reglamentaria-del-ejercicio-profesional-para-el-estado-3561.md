@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1972-07-10"
+last_updated: "1974-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 32, EN LOS SUPUESTOS QUE MENCIONAN A LA DIRECCIÓN DE PROFESIONES O AL DIRECTOR DE PROFESIONES, SE ENTENDERÁ EN LO SUCESIVO AL DEPARTAMENTO DE PROFESIONES O AL JEFE DEL DEPARTAMENTO DE PROFESIONES, RESPECTIVAMENTE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1972.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1974.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -389,6 +387,22 @@ II.- Utilizar o permitir que se utilice en hospitales, sanatorios, boticas, farm
 
 III.- Figurar o hacer aparecer como responsables de servicios profesionales que no presten, o atiendan personalmente en el lugar en que tales servicios deban rendirse.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1974)</small>
+
+ARTICULO 34 BIS.- El Ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre ésta Entidad y el Distrito y Territorios Federales, de acuerdo con las siguientes bases:
+
+I.- Instituir un solo servicio de registro de títulos profesionales y grados académicos para la expedición de cédulas personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales;
+
+II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública;
+
+III.- Intercambiar la información que se requiera; y
+
+IV.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
+
+Para ejercer en el Estado cualesquiera de las profesiones a que se refiere la presente Ley, bajo la vigencia del convenio de coordinación, se requiere además de la cedula que con efectos de patente expida la Secretaría de Educación Pública, el registro de la misma, con excepción de las cédulas ya registradas en la Dirección de Profesiones del Estado.
+
+Quienes durante la vigencia de este convenio ejerzan sin el registro a que se refiere el párrafo que antecede, serán multados con $ 1,000.00, independientemente de las sanciones establecidas, en la Ley Reglamentaria del Ejercicio Profesional del Estado de Baja California, por carecer de título o de cédula profesional.
+
 ### CAPITULO VII.
 
 De los Colegios de Profesionistas.
@@ -712,3 +726,13 @@ P.O. 10 DE JULIO DE 1972.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Mientras esté en vigor el convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, se suspenden las disposiciones de la Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja California que se opongan al cumplimiento de dicho convenio.
