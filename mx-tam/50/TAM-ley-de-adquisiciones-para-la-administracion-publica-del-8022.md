@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-8022"
 country: "mx"
 rank: "ley"
 publication_date: "1990-08-15"
-last_updated: "1990-08-15"
+last_updated: "2001-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de agosto de 1990.
 
@@ -65,19 +65,31 @@ Esta Ley determina las normas para el mejor ejercicio del Presupuesto de Egresos
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- SECRETARIA:- La Secretaría de Servicios Administrativos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-II.- TESORERIA:- La Tesorería General del Estado;
+I.- SECRETARIA:- La Secretaría de Administración;
 
-III.- CONTRALORIA:- La Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-IV.- COORDINACION:- La Coordinación de Planeación e Informática;
+II.- FINANZAS:- La Secretaría de Finanzas;
 
-V.- ENTIDADES:- Las mencionadas en el Artículo 5o. de la Ley Orgánica de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
 
-VI.- DEPENDENCIAS:- Las citadas en el Artículo 20 de la Ley Orgánica de la Administración Pública Estatal;
+III.- CONTRALORIA:- La Contraloría Gubernamental;
 
-VII.- COMITE DE COMPRAS Y OPERACIONES PATRIMONIALES: El que se integra por los Titulares de la Secretaría de Servicios Administrativos, Tesorería General, Secretaría de la Contraloría y la Dependencia o Entidad a que corresponda la adquisición, arrendamiento o servicio contratado; y
+IV.- (DEROGADA, P.O. 11 DE OCTUBRE DE 2001)
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+V.- ENTIDADES:- Las mencionadas en el artículo 30 de la Ley Orgánica de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+VI.- DEPENDENCIAS:- Las citadas en el artículo 21 de la Ley Orgánica de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+VII.- COMITÉ DE COMPRAS U OPERACIONES PATRIMONIALES:- El que se integra por los Titulares de la Secretaría de Administración, Finanzas, Contraloría y la Dependencia o Entidad a que corresponde la adquisición, arrendamiento o servicio contratado; y
 
 VIII.- PROVEEDOR:- Toda persona inscrita en el padrón a que se refiere el Artículo 14 de esta Ley, que suministre mercancías, materias primas y demás bienes muebles o preste servicios generales a las Dependencias y Entidades Estatales.
 
@@ -111,9 +123,9 @@ V.- Establecer las bases para que las Dependencias y Entidades, sin perjuicio de
 
 VI.- Efectuar las adquisiciones, enajenaciones, arrendamientos y servicios requeridos por las Dependencias y Entidades, cuando éstas procedan, previo estudio correspondiente; asimismo, auxiliar a las administraciones municipales, cuando estas últimas lo soliciten, en la negociación de adquisiciones, enajenaciones, arrendamientos y servicios que realicen;
 
-VII.- Mantener actualizado el padrón de proveedores de la Administración Pública Estatal, con la documentación correspondiente;
+VII.- (DEROGADA, P.O. 11 DE OCTUBRE DE 2001)
 
-VIII.- Solicitar a los proveedores, para su registro, la relación de precios, calidades, garantías y especificaciones de sus productos y servicios, y demás información necesaria; todo lo cual estarán sujeta a comprobación;
+VIII.- (DEROGADA, P.O. 11 DE OCTUBRE DE 2001)
 
 IX.- Intervenir en los concursos que se celebren en relación con actos regulados por esta Ley;
 
@@ -137,7 +149,7 @@ I.- Programar las adquisiciones, arrendamientos y contratación de servicios en 
 
 II.- Presentar a la Secretaría sus programas y presupuestos aprobados por la autoridad competente;
 
-III.- Observar las recomiendaciones (sic) que haga la Secretaría para mejorar los sistemas y procedimientos de adquisiciones, arrendamientos de bienes muebles e inmuebles, contratación de servicios y manejo de almacenes;
+III.- Observar las recomiendaciones (sic)que haga la Secretaría para mejorar los sistemas y procedimientos de adquisiciones, arrendamientos de bienes muebles e inmuebles, contratación de servicios y manejo de almacenes;
 
 IV.- Informar de inmediato a la Secretaría y a la Contraloría, de las irregularidades que se adviertan en relación con las operaciones mencionadas;
 
@@ -193,15 +205,19 @@ Sin perjuicio de la observancia de las disposiciones previstas en otras Leyes, l
 
 Las Dependencias y Entidades estarán obligadas a conservar los bienes adquiridos o arrendados, para el uso de las mismas en condiciones apropiadas de operación, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados y los Reglamentos que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 13.
 
-La Secretaría, Tesorería y Contraloría, en el ámbito de sus respectivas competencias, quedan facultadas para dictar las disposiciones administrativas que requieran la adecuada aplicación de esta Ley y sus disposiciones reglamentarias, tomando en cuenta, cuando corresponda por razón de sus atribuciones, la opinión de las dos restantes.
+La Secretaría, Finanzas y Contraloría, en el ámbito de sus respectivas competencias, quedan facultadas para dictar las disposiciones administrativas que se requieran para la adecuada aplicación de esta ley y sus disposiciones reglamentarias, tomando en cuenta, cuando corresponda por razón de sus atribuciones, la opinión de las dos restantes.
 
 ### CAPITULO SEGUNDO. DEL PADRON DE PROVEEDORES
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 14.
 
-La Secretaría integrará el Padrón de proveedores de la Administración Pública Estatal y lo mantendrá permanentemente actualizado, y clasificará a las personas inscritas en el mismo, de acuerdo a su capacidad técnica, económica o a su actividad, y deberá hacer las modificaciones correspondientes cuando haya algún cambio en su clasificación. Este padrón será publicado en el Periódico Oficial del Estado para efectos informativos.
+La Contraloría integrará el Padrón de Proveedores de la Administración Pública Estatal y lo mantendrá permanentemente actualizado, y clasificará a las personas inscritas en el mismo, de acuerdo a su capacidad técnica, económica o a su actividad, y deberá hacer las modificaciones correspondientes cuando haya algún cambio en su clasificación. Este padrón será publicado en el Periódico Oficial del Estado para efectos informativos.
 
 ###### ARTICULO 15.
 
@@ -211,7 +227,9 @@ Sólo se podrán fincar pedidos o celebrar contratos con las personas que acredi
 
 Los interesados, para inscribirse en el Padrón de Proveedores, deberán cumplir los siguientes requisitos:
 
-I.- Llenar los formatos que apruebe la Secretaría; las personas morales deberán exhibir copia certificada de la escritura o acta constitutiva, y en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; asimismo, deberá acreditarse la personalidad del representante;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+I.- Llenar los formatos que apruebe la Contraloría; las personas morales deberán exhibir copia certificada de la escritura o acta constitutiva, y en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; asimismo, deberá acreditarse la personalidad del representante;
 
 II.- Acreditar, mediante la exhibición de los documentos respectivos, que es productor o comerciante legalmente establecido.
 
@@ -221,21 +239,29 @@ IV.- Acreditar haber cumplido con las inscripciones y registros que exijan las d
 
 V.- Pagar los derechos que establezca la Ley respectiva; y,
 
-VI.- Proporcionar la información complementaria que solicite la Secretaría.
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+La Contraloría podrá verificar en cualquier tiempo la información a que se refiere este artículo y fijar nuevos requisitos en adición a los establecidos, así como emitir lineamientos que deberán cumplir los interesados para inscribirse en el padrón de proveedores, los cuales deberán de publicarse previamente en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 17.
 
-La Secretaría dentro del término de treinta días hábiles siguientes al de la presentación de la solicitud, resolverá sobre el otorgamiento del registro en el Padrón de Proveedores de la Administración Pública Estatal.
+La Contraloría, dentro del término de treinta días hábiles siguientes a la presentación de la solicitud, resolverá sobre el otorgamiento del registro en el Padrón de Proveedores de la Administración Pública Estatal.
 
 En caso de negativa, se explicarán las razones de la misma.
 
-Si la solicitud fuera confusa o incompleta, la Secretaría solicitará su aclaración o complementación.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Si la solicitud fuera confusa o incompleta, la Contraloría solicitará su aclaración o complementación.
 
 Si el proveedor no presentare la información dentro del plazo que se le conceda, que podrá ser de 3 a 30 días hábiles, se tendrá por no presentada la solicitud.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 18.
 
-La Secretaría podrá eximir de la obligación de inscribirse en el Padrón de Proveedores, a las personas físicas o morales que provean artículos perecederos o cuando se trate de adquisiciones extraordinarias en los términos de los incisos b) y c), del Artículo 30 de esta Ley.
+La Contraloría podrá eximir de la obligación de inscribirse en el Padrón de Proveedores, a las personas físicas o morales que provean artículos perecederos o cuando se trate de adquisiciones extraordinarias en los términos de los incisos b) y c) del artículo 30 de esta ley.
 
 ###### ARTICULO 19.
 
@@ -247,9 +273,11 @@ II.- Aquellas en cuyas empresas participen como accionistas, administradores, ge
 
 III.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La Secretaría, atendiendo la declaratoria del Comité de Compras y Operaciones Patrimoniales, está facultada para suspender el registro de proveedores cuando:
+La Contraloría, atendiendo la declaratoria del Comité de Compras y Operaciones Patrimoniales, está facultada para suspender el registro de proveedores cuando:
 
 I.- Se le declare en estado de quiebra o en su caso, sujeto a concurso de acreedores;
 
@@ -257,11 +285,15 @@ II.- Se niegue a dar las facilidades necesarias para que las Dependencias facult
 
 III.- Deje de reunir los requisitos necesarios para estar registrado en el Padrón de Proveedores.
 
-Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Secretaría, misma que lo hará saber al Comité de Compras y Operaciones Patrimoniales, a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, si lo consideran procedente.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Contraloría, misma que lo hará saber al Comité de Compras y Operaciones Patrimoniales, a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, si lo considera procedente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 21.
 
-La Secretaría, atendiendo la declaratoria del Comité de Compras y Operaciones Patrimoniales, podrá cancelar el registro del proveedor cuando:
+La Contraloría, atendiendo la declaratoria del Comité de Compras y Operaciones Patrimoniales, podrá cancelar el registro del proveedor cuando:
 
 I.- La información que hubiere proporcionado para la inscripción, resultare falsa o haya actuado con dolo o mala fe en la adjudicación del pedido o contrato, en su celebración o en su cumplimiento;
 
@@ -289,9 +321,11 @@ Los concursos podrán realizarse mediante licitación pública o por invitación
 
 Las adquisiciones y servicios que se adjudiquen a través de licitaciones, se llevarán a cabo mediante convocatoria pública para que libremente se presenten proposiciones escritas en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo a lo que establece la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 25.
 
-Las convocatorias por licitación, se publicarán en uno de los periódicos de mayor circulación en el Estado; la Secretaría y las Entidades serán responsables de la adecuada publicidad de las convocatorias, de acuerdo a la naturaleza de los bienes y servicios materia de la licitación.
+Las convocatorias por licitación, se publicarán en uno o varios periódicos de mayor circulación en el Estado; la Secretaría, las Dependencias y las Entidades serán responsables de la adecuada publicidad de las convocatorias, de acuerdo a la naturaleza de los bienes y servicios materia de la licitación.
 
 Las convocatorias a que se refiere este Artículo deberán contener:
 
@@ -415,13 +449,17 @@ Las adquisiciones que realice el Gobierno del Estado por la vía de la compraven
 
 I.- La Dirección de Patrimonio Estatal emitirá dictamen que determine la inexistencia de bienes inmuebles propiedad de la Hacienda Pública Estatal disponibles y de las características del requerido;
 
-II.- La Secretaría de Asentamientos Humanos, Obras y Servicios Públicos, emitirá un dictamen del inmueble solicitado que se pretende adquirir para verificar si cumple las condiciones para las cuales es requerido;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+II.- La Secretaría de Desarrollo Urbano y Ecología, emitirá un dictamen del inmueble solicitado que se pretende adquirir en el que determine si cumple las condiciones para las que es requerido;
 
 III.- La Secretaría, en coordinación con peritos especializados, emitirá un avalúo del inmueble;
 
 IV.- La Contraloría verificará toda adquisición de bienes inmuebles que realice el Gobierno del Estado; y
 
-V.- Las adquisiciones de bienes inmuebles se realizará a través del Comité de Compras y Operaciones Patrimoniales, que para los efectos de este Artículo contará con la participación del titular de la Secretaría de Asentamientos Humanos, Obras y Servicios Públicos.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+V.- Las adquisiciones de bienes inmuebles se realizarán con la autorización del Comité de Compras y Operaciones Patrimoniales, que para los efectos de este artículo contará con la participación del titular de la Secretaría de Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 42.
 
@@ -459,9 +497,11 @@ La comprobación de la calidad de los bienes adquiridos podrá realizarse, cuand
 
 ### CAPITULO SEPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 50.
 
-Los proveedores que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados por la Secretaría con la suspensión o cancelación de su registro en el Padrón de Proveedores de la Administración Pública Estatal, sin perjuicio de las responsabilidades civiles o penales, a que se hicieren acreedores.
+Los proveedores que incurran en infracciones a esta ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con la suspensión o cancelación de su registro en el Padrón de Proveedores de la Administración Pública Estatal, sin perjuicio de las responsabilidades civiles o penales, a que se hicieren acreedores.
 
 ###### ARTICULO 51.
 
@@ -480,6 +520,10 @@ I.- Se comunicará por escrito al presunto infractor los hechos constitutivos de
 II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubieren hecho valer; y
 
 III.- La resolución será debidamente fundada y motivada y se comunicará por escrito al interesado.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2001)</small>
+
+Durante el tiempo en que se sustancie el procedimiento para la aplicación de sanciones, y aquel en que, en su caso, se tramite el recurso de inconformidad, el proveedor no podrá participar en concursos, ni celebrar operaciones patrimoniales de las que se regulan en esta ley.
 
 ###### ARTICULO 54.
 
@@ -528,3 +572,15 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 19 de abril
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los doce días del mes de junio de mil novecientos noventa.- El Gobernador Constitucional del Estado, ING. AMERICO VILLAREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE OCTUBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto
