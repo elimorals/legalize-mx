@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1981-12-16"
+last_updated: "1981-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 1981.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1981.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -333,13 +333,15 @@ II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judici
 
 III.- Cuando, en su caso, deje de cubrirse alguna de las parcialidades.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981.)</small>
+
 ###### ARTICULO 38o.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos, en concepto de indemnización al Fisco Estatal por la falta de pago oportuno.
+Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos por concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-La tasa de recargos será el doble de la que se fije conforme el párrafo final del artículo 36.
+La tasa de recargos será de un 50% mayor que la que se fije conforme al párrafo final del Artículo 36.
 
-Los recargos se causarán por cada mes o fracción que transcurra a partir de la fecha de la exigibilidad hasta que se efectúe el pago. Los recargos no excederán del importe del crédito fiscal de que se trate.
+Los recargos se causarán por cada mes o fracción que transcurra, a partir de la fecha de la exigibilidad hasta que se efectúe el pago.
 
 ###### ARTICULO 39o.
 
@@ -2293,7 +2295,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE DICIEMBRE DE 1978.
 
@@ -2304,3 +2306,11 @@ P.O. 9 DE DICIEMBRE DE 1978.
 P.O. 16 DE DICIEMBRE DE 1981.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1981.
+
+PRIMERO.- Las obligaciones derivadas de los artículos que se reforman o derogan, conforme a este decreto, que hubieren nacido por la realización durante su vigencia de las situaciones jurídicas o de hecho previstas en dichos conceptos, deberán ser cumplidas en la forma y plazo establecido en dichos ordenamientos.
+
+SEGUNDO.- Tratándose de los contratos de promesa a que se refiere el Artículo 98, fracción III, de la Ley de Hacienda, celebrados con anterioridad al 1o. de enero de 1982, causarán el impuesto establecido en el Capítulo II, Título I, del citado ordenamiento, al celebrarse el contrato prometido.
+
+TERCERO.-El presente decreto surtirá sus efectos a partir del 1º. de enero de 1982.
