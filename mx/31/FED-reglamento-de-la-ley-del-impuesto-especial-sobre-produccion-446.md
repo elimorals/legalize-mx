@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-especial-sobre-produccion-446
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1988-06-30"
+last_updated: "1990-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1990.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -33,8 +33,6 @@ REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 1o-A.
 
 Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2 de la Ley, a los cigarros populares que al 1o. de enero de cada año tengan como precio máximo al público el que anualmente señale el Congreso de la Unión, les será aplicable la tasa que dicho artículo establece, no obstante los incrementos que tengan con posterioridad a esa fecha.
@@ -44,6 +42,8 @@ Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2 de la Le
 Cuando en este Reglamento se haga referencia a la Ley, se entenderá que se trata de la Ley del Impuesto Especial sobre Producción y Servicios. Cuando se refiera al impuesto, será el que dicha Ley establece; si menciona a la Secretaría, será la de Hacienda y Crédito Público.
 
 Cuando se haga alusión a los actos o actividades por los que se deba pagar el impuesto, se considerarán incluidos aquéllos a los que se les aplique la tasa del 0%.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 2o.
 
@@ -83,15 +83,13 @@ También se expedirá nota de crédito en los casos en que no se hubiera enterad
 
 ### CAPITULO II. De la Enajenación
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-###### ARTICULO 8o.-A.
-
-Para los efectos de la fracción VIII del artículo 8o. de la Ley, los productores que utilicen acohol como insumos para la elaboración de bebidas alcohólicas, a fin de obtener su registro deberán presentar a Azúcar, S. A. de C. V., un escrito en el que manifiesten las bebidas alcohólicas que elaboran, el número de registro de registro de esos productos ante la Secretaría de Salud, su volumen anual de producción, así como copia de su cédula de Registro Federal de Contribuyentes y de la última declaración del ejercicio del impuesto especial sobre producción y servicios. Tratándose del primer ejercicio en el que un conrtribuyente, inicie operaciones, deberá adjuntar copia de la solicitud de inscripción en el Registro de Contribuyentes y copia de la última declaración provisional del impuesto especial sobre producción y servicios que en su caso se hubiera presentado.
-
 ###### ARTICULO 8o.
 
 Para los efectos del artículo 7o. de la Ley se considerarán transmisiones por las que no se está obligado al pago del impuesto las donaciones u obsequios que efectúen las empresas con fines de promoción, siempre que sean deducibles en los términos de la Ley del Impuesto sobre la Renta.
+
+###### ARTICULO 8o.
+
+A (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 ### CAPITULO III. De la Importación de Bienes
 
@@ -103,7 +101,9 @@ Se considera comprendido dentro de lo dispuesto por el artículo 12 de la Ley, e
 
 Para el efecto de determinar el valor sobre el que se aplicará la tasa del impuesto especial sobre producción y servicios, en la importación de bienes a que se refiere el artículo 14 de la Ley, se considerarán los impuestos que se deban pagar con motivo de la importación, excluyendo del valor el monto de la parte subsidiada, en su caso.
 
-Cuando el contribuyente haga valer algún medio de defensa en contra de las resoluciones que dicten las autoridades aduaneras, el impuesto especial sobre producción y servicios se pagará tomando en cuenta el monto del impuesto general de importación que se obtenga de los datos suministrados por el propio contribuyente y la diferencia de impuestos que, en su caso resulte, la pagará hasta que se resuelva en definitiva la controversia: en los casos en que la importación la realicen contribuyentes que deban presentar declaraciones del ejercicio del impuesto especial sobre producción y servicios no estarán obligados a garantizar el interés fiscal siempre que exhiban copia sellada de las últimas declaraciones mensuales y del ejercicio, tratándose del primer ejercicio, deberán presentar copia sellada de la última declaración mensual
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+
+Cuando el contribuyente haga valer algún medio de defensa en contra de las resoluciones que dicten las autoridades aduaneras, el impuesto especial sobre producción y servicios se pagará tomando en cuenta el monto del impuesto general de importación que se obtenga de los datos suministrados por el propio contribuyente y la diferencia de impuestos que, en su caso resulte, la pagará hasta que se resuelva en definitiva la controversia, debiendo garantizarse el interés fiscal en los términos del Código Fiscal de la Federación y de su Reglamento.
 
 ###### ARTICULO 11.
 
@@ -156,3 +156,7 @@ Dado en la residencia del Poder Ejecutivo Federal, a los veintiocho días del me
 D.O.F. 30 DE JUNIO DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor el 16 de julio de 1988.
+
+D.O.F 15 DE MAYO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
