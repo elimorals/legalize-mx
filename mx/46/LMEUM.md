@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1983-12-22"
+last_updated: "1984-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1984.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -58,7 +58,9 @@ a). Los billetes del Banco de México, S. A., con las denominaciones que fijen s
 
 b). Las monedas metálicas de doscientos, cien, cincuenta, veinte, diez, cinco, dos y un pesos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
 
-c). Las monedas conmemorativas de acontecimientos de importancia nacional, en plata, con los valores de cada pieza y el total de la emisión, diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+
+c).- Las monedas metálicas conmemorativas de acontecimientos de importancia nacional, en oro, en plata o en metales industriales, con los diámetros, leyes o composiciones metálicas, pesos, cuños y demás características que señalen los decretos relativos.
 
 d). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
@@ -709,3 +711,9 @@ Las antiguas monedas de diez, veinte y cincuenta centavos, continuarán en circu
 ###### ARTICULO CUARTO.
 
 Durante el año de 1984, los pagos relativos a bienes y servicios, cuando en cada operación el monto sea menor de un peso, se efectuarán cubriendo exactamente la fracción de dicha unidad que corresponda a su precio.
+
+D.O.F. 24 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
