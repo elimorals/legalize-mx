@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1953-09-24"
+last_updated: "1955-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1955.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -3415,9 +3415,11 @@ III. La mujer casada en bien propio;
 
 IV. El pariente de cualquier grado que, aún sin obligación legal de dar alimentos, los suministre a sus ascendientes, descendientes o colaterales con quienes viva formando familia o a quienes tenga a su cargo.
 
+(REFORMADO, P.O 17 DE ENERO DE 1955) (F. DE E., P.O. 29 DE ENERO DE 1955)
+
 ###### Artículo 651.
 
-El patrimonio de familia deberá consistir en casa o fracción de casa en que more la familia, con los muebles que le pertenezcan, cuyo valor no excederá de $5,000.00; o en terreno cuyo valor no excederá de $10,000.00 que sea cultivado por el jefe de la familia o en terreno y casa, aunque sean predios separados, si no están a más de dos kilómetros de distancia uno de otro, cuyo valor en conjunto no exceda de $10,000.00, de los cuales a lo más correspondan $3,000.00 a la casa y con la misma condición de que el terreno sea cultivado por el jefe y la casa habitada por la familia.
+El patrimonio de familia deberá consistir en casa o fracción de casa en que more la familia, con los muebles que le pertenezcan y siempre que el valor de la finca no pase de $25,000.00; o en terreno cuyo valor no excederá de $40,000.00 que sea cultivado por el jefe de familia o en terreno y casa, aunque sean predios separados, si no están a más de dos kilómetros de distancia uno de otro, cuyo valor en conjunto no exceda de $50,000.00, de los cuales a lo más correspondan $10,000.00 a la casa y con la misma condición de que el terreno sea cultivado por el jefe y la casa habitada por la familia.
 
 Podrán agregarse al patrimonio de familia rústico, los semovientes, útiles y aperos necesarios para el cultivo, no excediendo su valor de la cuarta parte del predio rústico.
 
@@ -11307,9 +11309,19 @@ No puede renunciarse anticipadamente el derecho de cobrar la indemnización que 
 
 La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas cuando la renta no llegue a sesenta pesos.
 
+> <small>(REFORMADO, P.O 17 DE ENERO DE 1955)</small>
+
 ###### Artículo 2305.
 
-La renta de las casas cuyo valor fiscal no exceda de un mil pesos, nunca podrá ser mayor del uno por ciento mensual sobre ese valor fiscal.
+Las rentas de fincas urbanas destinadas a habitación, hasta de trescientos cincuenta pesos mensuales, no podrán aumentarse en ningún caso, aun cuando se invoque modificación del contrato existente, otorgamiento de uno nuevo respecto de las fincas que se desocupen, o cualesquier otro motivo o procedimiento encaminado al mismo fin, salvo en los siguientes casos:
+
+I.- Cuando el arrendador efectué gastos que aumenten el valor material de la finca, sin ser de mera conservación, pero el aumento nunca podrá exceder del 10% anual sobre el capital invertido en dichas mejoras.
+
+II.- Cuando la finca experimente algún revalúo fiscal, pero el aumento tampoco podrá ser mayor del 50% de la diferencia entre los valores del antiguo y del nuevo tributo predial.
+
+III.- Cuando durante cinco años a partir de la vigencia de este precepto, no se haya aumentado el alquiler por cualesquiera de las circunstancias previstas en las fracciones anteriores, pero el aumento no será mayor del 10% de la renta señalada en el contrato vigente.
+
+Todo pacto que se celebre contraviniendo esta disposición, será nulo de pleno derecho y los arrendadores incurrirán en una multa equivalente al importe del aumento de las rentas de un año, la cual impondrá la autoridad judicial que conozca del juicio donde se haga valer la ineficacia de la elevación de las rentas.
 
 ### CAPITULO II. Del secuestro
 
@@ -11473,11 +11485,11 @@ VIII. Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2331 y 2332.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+> <small>(REFORMADO, P.O 17 DE ENERO DE 1955)</small>
 
 ###### Artículo 2338.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino a que se le prorrogue hasta por tres años, siempre que esté al corriente en el pago de las rentas. Podrá el arrendador aumentar hasta un 10% la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido una alza después de que se celebró el contrato de arrendamiento. Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento cuyo término ha vencido, los propietarios que quieran habitar la casa o cultivar la finca, personalmente; quienes deberán dar aviso a los arrendatarios con seis meses de anticipación, ocurriendo al mismo tiempo ante la autoridad judicial competente, justificando la necesidad de la medida. Los términos establecidos por este artículo no son renunciables y cualquier pacto en contrario será nulo.
+Vencido un contrato de arrendamiento, tendrá derecho el inquilino a que se le prorrogue hasta por tres años, siempre que esté al corriente en el pago de las rentas. Podrá el arrendador aumentar hasta un 10% de la renta anterior, si demuestra que los alquileres en la zona de que se trate, han sufrido una alza después de que se celebró el contrato de arrendamiento, salvo que se refiera a fincas urbanas destinadas a habitación, pues respecto a estas se observará lo dispuesto por el artículo 2305. Quedan exceptuadas de la obligación de prorrogar el contrato de arrendamiento cuyo término ha vencido, los propietarios que quieran habitar la casa o cultivar la finca, personalmente; quienes deberán dar aviso a los arrendatarios con seis meses de anticipación, ocurriendo al mismo tiempo ante la autoridad judicial competente, justificando la necesidad de la medida. Los términos establecidos por este artículo no son renunciables y cualquier pacto en contrario será nulo.
 
 ###### Artículo 2339.
 
@@ -11495,7 +11507,9 @@ Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hab
 
 El arrendador puede exigir la rescisión del contrato:
 
-I. Por falta de pago de la renta en los términos prevenidos en los artículos 2304 y 2308;
+> <small>(REFORMADA, P.O 17 DE ENERO DE 1955)</small>
+
+I. Por falta de pago de la renta en los términos prevenidos en los artículos 2304 y 2308, pero si se tratare de fincas urbanas destinadas a habitación, se requerirá que esa falta de pago comprenda cuando menos tres mensualidades;
 
 II. Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2277;
 
@@ -14368,3 +14382,9 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 P.O. 24 DE SEPTIEMBRE DE 1953.
 
 Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 17 DE ENERO DE 1955.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
