@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-del-estado-de-tabasco-7820"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1999-05-01"
+last_updated: "2004-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 7 DE ABRIL DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -896,3 +898,21 @@ El Poder Ejecutivo del Estado implementará, desarrollará y ejecutará en un t�
 Las Dependencias, Entidades o Ayuntamientos que a la fecha de entrada en vigor del presente Decreto se encuentren en el supuesto previsto en los casos de excepción del artículo 29 de la Ley de Obras Publicas, tendrán un plazo de hasta 45 días para solicitar su validación ante el Comité o ante el Cabildo según sea el caso, para lo que acompañaran la documentación soporte en la que se acredite que se encuentran en el supuesto normativo de excepciones generales, o de excepción de obra prioritaria.
 
 El Comité o el Cabildo, a partir de la recepción de la documentación que en su caso presenten las Dependencias, Entidades o Ayuntamientos, contaran con un plazo de hasta 30 días para autorizar o rechazar, la validación correspondiente.
+
+P.O. 7 DE ABRIL DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Obras Públicas del Estado de Tabasco, publicada en el Periódico Oficial el 13 de julio de 1983 y sus subsecuentes reformas; así mismo se derogan todas aquellas disposiciones legales que se opongan a lo ordenado en la presente Ley.
+
+TERCERO.- Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+CUARTO.- El Ejecutivo Estatal expedirá el Reglamento de esta Ley en un plazo no mayor a treinta días naturales, contados a partir del día siguiente en que entre en vigor el presente ordenamiento.
+
+QUINTO.- Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+Los contratos de Obras Públicas y de Servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas, se continuarán considerando para los efectos de los artículos 54, fracción III, y 82, fracción II, de esta Ley.
+
+SEXTO.- El Padrón de Contratistas se deberá constituir en un plazo no mayor de treinta días naturales, contados a partir de la entrada en vigor del Reglamento de esta Ley.
