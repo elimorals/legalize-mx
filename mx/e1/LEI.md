@@ -4,7 +4,7 @@ identifier: "LEI"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-29"
-last_updated: "1984-12-04"
+last_updated: "1994-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEI"
 
 LEY DE EXTRADICION INTERNACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de diciembre de 1975.
 
@@ -64,11 +64,15 @@ Cuando en esta Ley se haga referencia a la ley penal mexicana, deberá entenders
 
 Podrán ser entregados conforme a esta ley los individuos contra quienes en otro país, se haya incoado un proceso penal como presuntos responsables de un delito o que sean reclamados para la ejecución de una sentencia dictada por las autoridades judiciales del Estado solicitante.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 6.
 
-Darán lugar a la extradición los delitos intencionales definidos en la ley penal mexicana si concurren los requisitos siguientes:
+Darán lugar a la extradición los delitos dolosos o culposos, definidos en la ley penal mexicana, si concurren los requisitos siguientes:
 
-I.- Que sean punibles, conforme a la ley penal mexicana y a la del Estado solicitante, con pena de prisión cuyo término medio aritmético por lo menos sea de un año; y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+
+I.- Que tratándose de delitos dolosos, sean punibles conforme a la ley penal mexicana y a la del Estado solicitante, con pena de prisión cuyo término medio aritmético por lo menos sea de un año; y tratándose de delitos culposos, considerados como graves por la ley, sean punibles, conforme a ambas leyes, con pena de prisión.
 
 II.- Que no se encuentren comprendidos en alguna de las excepciones previstas por esta ley.
 
@@ -104,7 +108,9 @@ III.- Que el presunto extraditado será sometido a tribunal competente, establec
 
 IV.- Que será oído en defensa y se le facilitarán los recursos legales en todo caso, aun cuando ya hubiere sido condenado en rebeldía;
 
-V.- Que, si el delito que se imputa al reclamado es punible en su legislación hasta con la pena de muerte o alguna de las señaladas por el artículo 22 constitucional, sólo se le impondrá la de prisión;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+
+V.- Que si el delito que se impute al reclamado es punible en su legislación hasta con la pena de muerte o alguna de las señaladas en el artículo 22 constitucional, sólo se impondrá la de prisión o cualquier otra de menor gravedad que esa legislación fije para el caso, ya sea directamente o por substitución o conmutación.
 
 VI.- Que no se concederá la extradición del mismo individuo a un tercer Estado, sino en los casos de excepción previstos en la segunda fracción de este artículo; y
 
@@ -146,7 +152,9 @@ La petición formal de extradición y los documentos en que se apoye el Estado s
 
 I.- La expresión del delito por el que se pide la extradición;
 
-II.- La prueba de la existencia del cuerpo del delito y la probable responsabilidad del reclamado. Cuando el individuo haya sido condenado, por los Tribunales del Estado solicitante, bastará acompañar copia auténtica de la sentencia ejecutoriada.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+
+II.- La prueba que acredite los elementos del tipo del delito y la probable responsabilidad del reclamado. Cuando el individuo haya sido condenado por los Tribunales del Estado solicitante, bastará acompañar copia auténtica de la sentencia ejecutoriada.
 
 III.- Las manifestaciones a que se refiere el artículo 10, en los casos en que no exista tratado de extradición con el Estado solicitante.
 
@@ -246,9 +254,13 @@ Si el reclamado fuere mexicano y por ese solo motivo se rehusare la extradición
 
 En todos los casos si la resolución fuere en el sentido de conceder la extradición, ésta se notificará al reclamado.
 
-Contra esta resolución no hay recurso ordinario alguno.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-Transcurrido el término de ley sin que el reclamado o su legítimo representante haya interpuesto demanda de amparo o negado éste, la Secretaría de Relaciones Exteriores comunicará al Estado solicitante el acuerdo favorable a la extradición y ordenará que se le entregue el preso.
+Esta resolución sólo será impugnable mediante juicio de amparo.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+Transcurrido el término de quince días sin que el reclamado o su legítimo representante haya interpuesto demanda de amparo o si, en su caso, éste es negado en definitiva, la Secretaría de Relaciones Exteriores comunicará al Estado solicitante el acuerdo favorable a la extradición y ordenará que se le entregue el sujeto.
 
 ###### ARTICULO 34.
 
@@ -256,9 +268,11 @@ La entrega del reclamado, previo aviso a la Secretaría de Gobernación, se efec
 
 La intervención de las autoridades mexicanas cesará, en éste último caso, en el momento en que la aeronave esté lista para emprender el vuelo.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 35.
 
-Cuando el Estado solicitante deje pasar el término de dos meses desde el día siguiente en que el reclamado quede a su disposición sin hacerse cargo de él, éste recobrará su libertad y no podrá volver a ser detenido ni entregado al propio Estado, por el mismo delito que motivó la solicitud de extradición.
+Cuando el Estado solicitante deje pasar el término de sesenta días naturales desde el día siguiente en que el reclamado quede a su disposición sin hacerse cargo de él, éste recobrará su libertad y no podrá volver a ser detenido ni entregado al propio Estado, por el mismo delito que motivó la solicitud de extradición.
 
 ###### ARTICULO 36.
 
@@ -289,3 +303,13 @@ D.O.F. 4 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+
+TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
