@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-sistema-intermunicipal-de-los-servicios-de-agua-597
 country: "mx"
 rank: "ley"
 publication_date: "1978-04-20"
-last_updated: "1996-05-09"
+last_updated: "2002-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY PARA EL SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL 9 DE MAYO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NUMERO 19475 DEL CONGRESO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 20 de abril de 1978.
 
@@ -556,3 +558,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE MAYO DE 1996
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Jalisco".
+
+P.O. 16 DE MAYO DE 2002.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. El Consejo de Administración y el director general del organismo que se extingue deberán en un plazo no mayor a cinco días hábiles a la entrada en vigor de este decreto, hacer entrega de todos los estados financieros, la plantilla de personal y el inventario de los bienes del sistema extinto, al nuevo Consejo de Administración, que será integrado en la forma que señala la cláusula sexta del Convenio de Asociación Intermunicipal para la Prestación del Servicio Público de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de Aguas Residuales, así como la información necesaria para garantizar en todo momento la continuidad de la prestación y operación óptima del servicio.
+
+Tercero. La entrega y recepción a que se hace referencia en el artículo anterior debe ser en los términos dispuestos por el artículo 61 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, y reglamentos respectivos.
+
+Cuarto. En cumplimiento al artículo segundo transitorio del decreto 18948, el Ejecutivo del Gobierno del Estado y los ayuntamientos Integrantes del sistema deberán contar en un plazo no mayor de 180 días naturales, con un plan de contingencia que prevea el pago de los pasivos del Sistema Intermunicipal para los Servicios de Agua Potable y Alcantarillado, a efecto de que el nuevo sistema operador de los servicios opere con una administración económicamente sana.
