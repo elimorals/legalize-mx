@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1988-01-21"
+last_updated: "1990-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 21 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 9 DE AGOSTO DE 1990.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1407,33 +1407,45 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges se tendrá por no puesta.
 
+> <small>(ADICIONADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
+Los cónyuges tienen derecho para de común acuerdo, planificar de manera libre, responsable e informada, el número y espaciamiento de sus hijos.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 241.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
+Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Juez de Primera Instancia, si lo hubiere, o a falta de éste, el Juez Local, o a falta de éste, el Juez Menor, del lugar de residencia de los menores interesados, podrán conceder dispensa de edad por causas graves y justificadas.
 
-La autoridad política superior de la residencia de los interesados puede conceder dispensas de edad por causas graves y justificadas.
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 242.
 
-El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio, sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+Los menores de edad, para contraer matrimonio, necesitan el consentimiento de los que ejercen la patria potestad o, en su defecto, la tutela sobre ellos.
+
+El Juez de Primera Instancia, si lo hubiere, o a falta de éste, el Juez Local, o a falta de éste, el Juez Menor, del lugar de residencia de los menores interesados, estarán facultados para suplir el consentimiento cuando lo nieguen quienes legalmente deban hacerlo, o revoquen el que hubieren concebido.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 243.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+Faltando los que ejercen la patria potestad y los tutores, su consentimiento será suplido por el Juez de Primera Instancia, si lo hubiere, o a falta de éste, por el Juez Local o a falta de éste, por el Juez Menor, del lugar de residencia de los menores interesados.
 
-Los interesados pueden ocurrir a la autoridad política superior respectiva cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 244.
 
-Si el juez, en el caso del artículo anterior, de niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+La solicitud de dispensa de edad y de suplencia de consentimiento, se tramitará de acuerdo con lo dispuesto por el Código de Procedimientos Civiles para el Estado de Sonora.
 
 ###### Art. 245.
 
 El ascendiente o tutor que ha prestado su consentimiento, firmado la solicitud respectiva y ratificado la misma ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 246.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 193.
+La autorización concedida en los términos del artículo anterior, no puede ser revocada al fallecimiento de quien la otorgó, por quien ahora tendría derecho de concederla, sino por justa causa superveniente.
 
 ###### Art. 247.
 
@@ -1457,7 +1469,9 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+VIII.- El alcoholismo activo, la adicción a substancias psicotrópicas o estupefacientes, considerando como dichas sustancias a aquellas que, conforme a la Ley General de Salud; la sífilis, el síndrome de inmunodeficiencia adquirida (SIDA), la enajenación mental y las enfermedades crónicas o incurables, que sean, además contagiosas o hereditarias;
 
 IX.- El idiotismo y la embecibilidad (sic);
 
@@ -1473,11 +1487,11 @@ El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, e
 
 La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz a un hijo. En los casos de nulidad o de divorcio se contará ese tiempo desde que se interrumpió la cohabitación.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 251.
 
-El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por la autoridad política superior respectiva, sino cuando hayan sido aprobadas las cuentas de la tutela.
-
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+El tutor y el curador, no pueden contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtengan dispensa, la que se concederá por el Juez de Primera Instancia respectivo, cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también a los descendientes del tutor y curador.
 
 ###### Art. 252.
 
@@ -1497,47 +1511,69 @@ De los Derechos y Obligaciones que Nacen del Matrimonio.
 
 Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 255.
 
-La mujer debe vivir al lado de su marido. Los tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria o cuando se establezca en un lugar insalubre o indecoroso.
+Los cónyuges estarán obligados a vivir juntos en el domicilio conyugal. Se considera domicilio conyugal, el lugar donde radiquen de común acuerdo los cónyuges.
+
+Los tribunales, con conocimiento de causa podrán eximir de esta obligación a alguno de ellos cuando el otro se establezca en lugar insalubre o indecoroso, o cuando traslade su domicilio a país extranjero, a no ser que en este último caso lo haga en servicio público o social.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 256.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviese bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos por partes iguales, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para ese efecto, según sus posibilidades. A lo anterior, no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos; la misma situación se observará si uno de los cónyuges por convenio tácito o expreso con el otro, se ocupa del cuidado del hogar o de la atención de los hijos menores; en este último supuesto, dicho trabajo se considerará como su contribución para sufragar los gastos a que se refiere este artículo, y el otro cónyuge estará obligado a solventar la totalidad de dichos gastos.
+
+Los derechos y obligaciones que respectivamente otorga e impone a los cónyuges el matrimonio, serán siempre iguales para ambos e independientes de su aportación económica al sostenimiento del hogar.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 257.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+Los bienes de los cónyuges y sus productos, así como sus ingresos, quedan afectados preferentemente al pago de los alimentos.
+
+Para hacer efectivo este derecho, podrán los cónyuges y los hijos o sus representantes, pedir el aseguramiento de aquellos bienes.
 
 ###### Art. 258.
 
-El marido tendrá el derecho que a la mujer concede el artículo anterior en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 259.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+Los cónyuges tendrán en el hogar autoridad y consideraciones iguales, por lo tanto, de común acuerdo arreglarán todo lo relativo:
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+I.- A la dirección y cuidado del hogar; y
+
+II.- A la educación y establecimiento de los hijos, así como a la administración de los bienes que a éstos pertenezcan.
+
+Cuando no estuvieren conformes sobre alguno de los puntos indicados, sobre el establecimiento y modificación del domicilio conyugal, o sobre cualquier otro relativo a los hijos, el Juez de Primera Instancia procurará avenirlos, y si no lo lograse, resolverá lo que fuere más conveniente a los intereses de los hijos, si los hubiere o de ambos cónyuges en caso de no haberlos.
 
 ###### Art. 260.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 261.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio cuando ello no perjudique a la misión que le impone el artículo anterior.
+Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de Primera Instancia decidirá sobre la oposición.
 
 ###### Art. 262.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 263.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 261, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 264.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél.
 
 ###### Art. 265.
 
@@ -1545,15 +1581,11 @@ El marido y la mujer, menores de edad, tendrán la administración de sus bienes
 
 ###### Art. 266.
 
-La mujer necesita de autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 267.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente en asuntos que sean de interés exclusivo de éste.
-
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 268.
 
@@ -1759,9 +1791,11 @@ El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le
 
 De la Sociedad Legal.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 309.
 
-El régimen de la sociedad legal consiste en la formación y administración de un patrimonio común diferente de los patrimonios propios de los consortes, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precise sino al liquidarse la sociedad por las causas que la ley establece. La representación exclusiva y plena de la sociedad legal corresponde al marido, como una de las funciones que la ley le asigna dentro del matrimonio. La mujer, sólo en los caos de excepción que se señala la ley, puede tener la administración de la sociedad legal.
+El régimen de la sociedad legal consiste en la formación y administración de un patrimonio común diferente de los patrimonios propios de los consortes, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precise, sino al liquidarse la sociedad por las causas que la ley establece. La representación de la sociedad corresponde al cónyuge que ambos determinen, con excepción de los casos señalados en el artículo 330.
 
 ###### Art. 310.
 
@@ -1783,13 +1817,17 @@ Son propios de cada cónyuge los bienes de que era dueño al tiempo de celebrars
 
 Lo son también los que durante la sociedad adquiere cada cónyuge por donación de cualquiera especie, por herencia o por legado, constituído a favor de uno solo de ellos.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 315.
 
-Si las donaciones fueren onerosas, se deducirá de la dote o del capital del marido, en su respectivo caso, el importe de las cargas de aquélla, siempre que hayan sido soportadas por la sociedad.
+Si las donaciones fueren onerosas, se deducirá del capital del cónyuge que la reciba el importe de las cargas de aquéllas, siempre que hayan sido soportadas por la sociedad.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 316.
 
-Son propios de cada consorte los bienes adquiridos por retroventa u otro título propio, que sea anterior al matrimonio, aunque la prestación se haya hecho después de la celebración de él.
+Son propios de cada consorte, los bienes que se hayan adquirido por título propio que sea anterior al matrimonio, aunque la prestación se haya hecho después de la celebración de éste.
 
 ###### Art. 317.
 
@@ -1819,7 +1857,9 @@ I.- Todos los bienes adquiridos por el marido en la milicia o por cualquiera de 
 
 II.- Los bienes que provengan de herencia, legado o donación hechos a ambos cónyuges sin designación de parte. Si hubiere designación de partes y éstas fueren desiguales, sólo serán comunes los frutos de la herencia, legado o donación;
 
-III.- El precio sacado de la masa común de bienes para adquirir fincas por retroventa u otro título que nazca de derecho propio de alguno de los cónyuges, anterior al matrimonio;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+III.- El precio sacado de la masa común de bienes, para adquirir fincas por cualquier título que nazca de derecho propio de alguno de los consortes, anterior al matrimonio;
 
 IV.- El precio de las refacciones de crédito y el de cualesquiera mejora y reparaciones hechas en fincas o créditos propios de uno de los cónyuges;
 
@@ -1845,65 +1885,81 @@ Todos los bienes que existen en poder de cualquiera de los cónyuges al hacer la
 
 Ni la declaración de uno de los cónyuges, que afirma ser suya una cosa, ni la confesión del otro, ni las dos reunidas, se estimarán pruebas suficientes, aunque sean judiciales.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 327.
 
-La confesión en el caso del artículo que precede, se considerará como donación, que no quedará confirmada sino por la muerte del donante.
+La confesión en el caso del artículo que precede, se considerará como donación.
 
 ### CAPITULO VIII.
 
 De la Administración de la Sociedad Legal.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 328.
 
-El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra ésta aun cuando se dirijan exclusivamente contra el administrador, y lo decidido en el juicio en que intervino el marido produce autoridad de cosa juzgada, respecto de la sociedad legal y de la mujer como miembro de ésta.
+El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad legal.
 
 ###### Art. 329.
 
-El marido puede enajenar y obligar a título oneroso los bienes muebles sin el consentimiento de la mujer.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 330.
 
-Los bienes raíces pertenecientes al fondo social no pueden ser obligados ni enajenados de modo alguno por el marido sin el consentimiento de la mujer.
+Los bienes inmuebles y los medios de transporte de propulsión mecánica, no pueden ser obligados ni enajenados por un cónyuge sin el consentimiento del otro; pero el Juez puede suplir ese consentimiento, previa audiencia del opositor.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 331.
 
-En los casos de oposición infundada, podrá suplirse por decreto judicial el consentimiento de la mujer, previa su audiencia.
+Las reclamaciones relativas a obligaciones que son carga de la sociedad legal, con excepción de las que se deriven de los actos mencionados en el artículo anterior, procederán contra ésta aun cuando se dirijan exclusivamente contra uno de los cónyuges, y lo decidido en el juicio en que intervino éste, produce autoridad de cosa juzgada, respecto a la sociedad legal y del otro cónyuge como miembro de ésta.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 332.
 
-El marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ella.
+Ninguno de los cónyuges puede repudiar la herencia común sin consentimiento del otro cónyuge, pero el Juez puede suplir ese consentimiento previa audiencia de este último.
 
 ###### Art. 333.
 
-La responsabilidad de la aceptación sin que la mujer consienta o el juez la autorice, sólo afectará los bienes propios del marido y su mitad de gananciales al liquidarse la sociedad legal.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 334.
 
 Los cónyuges no pueden disponer por testamento sino de su mitad de gananciales.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 335.
 
-Ninguna enajenación que de los bienes gananciales haga el marido en contravención de la ley o en fraude de la mujer, perjudicará a ésta ni a sus herederos.
+Ninguna enajenación que de los bienes gananciales haga un cónyuge en contravención de la Ley o en fraude del otro, perjudicará a éste ni a sus herederos.
 
 ###### Art. 336.
 
-La mujer sólo puede administrar por consentimiento del marido o en ausencia o por impedimento de éste.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 337.
 
-La mujer no puede obligar los bienes gananciales sin consentimiento del marido.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 338.
 
-Puede la mujer pagar con los gananciales los gastos ordinarios de la familia según sus circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere el artículo 349.
+Cualquiera de los cónyuges puede pagar con los gananciales los gastos ordinarios de la familia según las circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere el artículo 349.
 
 ###### Art. 339.
 
 La mujer casada que legalmente fuere fiadora, en los casos de separación de bienes, responderá con los que tuviere propios, y en los de sociedad conyugal sólo con sus gananciales y con la parte que le corresponda en el fondo social.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 340.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o sólo por el marido o por la mujer con autorización de éste o en su ausencia o por su impedimento, son carga de la sociedad legal sin perjuicio de la responsabilidad del cónyuge directamente obligado, que puede hacerse efectiva sobre sus bienes propios. Al liquidarse la sociedad, el cónyuge que hubiere pagado con bienes propios deudas a cargo de la sociedad legal, será acreedor de ésta por el importe de aquéllas.
+Las deudas contraídas durante el matrimonio por cualquier cónyuge serán carga de la sociedad legal y podrán hacerse efectivas sobre los bienes propios o los gananciales de los consortes. Al liquidarse la sociedad, el cónyuge que hubiese pagado con sus bienes propios deudas de la sociedad legal, será acreedor de ésta por el importe de las mismas.
 
 ###### Art. 341.
 
@@ -1913,9 +1969,13 @@ I.- Las deudas que provengan de delito alguno de los cónyuges o de algún hecho
 
 II.- Las deudas que graven los bienes propios de los cónyuges, no siendo por censos o pensiones cuyo importe haya entrado al fondo social.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 342.
 
-Las deudas de cada cónyuge anteriores al matrimonio, son carga de la sociedad legal a falta de bienes propios en qué hacerlas efectivas; pero tratándose de obligaciones contraídas por la mujer, para que puedan hacerse efectivas en bienes de la sociedad legal deberá constar en forma auténtica la fecha de las mismas, anterior al matrimonio, sea por el carácter público del documento relativo o por registro, inventario público u otra circunstancia que acredite de manera cierta el tiempo en que se contrajo la obligación si ésta consta en documento privado. El importe de deudas de una de los cónyuges anteriores al matrimonio y pagadas por la sociedad legal, se cargará al cónyuge deudor al liquidarse la sociedad, salvo el caso en que el otro cónyuge estuviere también personalmente obligado o que las deudas de que se trata hubieren sido contraídas en provecho común. Se comprenden entre las deudas a que se refiere el presente artículo las que provengan de cualquier hecho de los consortes anterior al matrimonio, aun cuando la obligación se haga efectiva durante la sociedad.
+Las deudas de cada cónyuge anteriores al matrimonio, sólo se harán efectivas en bienes propios del deudor o en la parte que le corresponda de los gananciales al liquidarse la sociedad, a menos que el otro cónyuge estuviere también personalmente obligado o que la deuda se hubiese contraído en provecho común, pues entonces será carga de la sociedad legal. Si no consta en forma auténtica la fecha en que fué contraída la deuda, se presumirá que es posterior a la celebración del matrimonio.
+
+Cuando uno de los cónyuges pague con bienes comunes deudas propias, contraídas antes del matrimonio, el importe de las mismas se descontará de su parte de gananciales al liquidarse la sociedad, salvo el caso de que el otro cónyuge estuviere también personalmente obligado o que las deudas se hubiesen contraído en provecho común.
 
 ###### Art. 343.
 
@@ -1923,7 +1983,7 @@ Si el socio administrador, por su notoria negligencia o torpe administración, a
 
 ###### Art. 344.
 
-Los créditos anteriores al matrimonio, en el caso de que el cónyuge obligado no tenga en qué satisfacerlos, sólo podrán ser pagados con los gananciales que le correspondan después de disuelta la sociedad legal.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 345.
 
@@ -1977,13 +2037,17 @@ Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula de
 
 En los casos de divorcio se procederá conforme a lo previsto en los artículos 452 y 453.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 357.
 
-En los casos de divorcio por mutuo consentimiento o de simple separación de bienes, se observarán para la liquidación los convenios que hayan celebrado los consortes y que fueren aprobados por el juez; salvo lo convenido en las capitulaciones matrimoniales y lo dispuesto en este Capítulo, en sus respectivos casos.
+En los casos de divorcio por mutuo consentimiento o de cambio de régimen patrimonial, se observarán para la liquidación los convenios que celebren los consortes y que fueren aprobados por el Juez salvo lo previsto en este Capítulo.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 358.
 
-Ejecutoriada la resolución que disuelve o suspende la sociedad legal, los bienes que pertenecían al fondo social continúan respondiendo de las cargas sociales, y el cónyuge directamente obligado a favor de terceros sigue respondiendo también con sus bienes propios. Los acreedores de la sociedad legal podrán ejercitar o continuar sus acciones contra el administrador, aun cuando se afecten bienes gananciales aplicados al otro cónyuge, mientras no se les notifique el fallo. Hecha la notificación, los acreedores podrán dirigir sus acciones contra uno sólo de los cónyuges o contra ambos. El cónyuge que resultare afectado en sus bienes propios o gananciales por ejecución de deudas a cargo de la sociedad legal tendrá derecho a repetir contra el otro cónyuge por la parte que a éste correspondiere cubrir.
+Ejecutoriada la resolución que disuelva o suspenda la sociedad legal, los bienes que pertenecían al fondo social continúan respondiendo de las cargas sociales, y el cónyuge directamente obligado a favor de terceros sigue respondiendo también con sus bienes propios. Los acreedores de la sociedad legal podrán ejercitar o continuar sus acciones contra cualquiera de los cónyuges, aún cuando se afecten bienes gananciales aplicados al otro cónyuge, mientras no se les notifique el fallo. Hecha la notificación los acreedores podrán dirigir sus acciones contra el deudor. El cónyuge que resultare afectado en sus bienes propios o gananciales por ejecución de deudas a cargo de la sociedad legal, tendrán derecho a repetir contra el otro cónyuge por la parte que a éste correspondiere cubrir.
 
 ###### Art. 359.
 
@@ -2013,9 +2077,13 @@ II.- El importe de las donaciones y el de las enajenaciones que deban considerar
 
 No se incluirán en el inventario los efectos que formaban el lecho y vestidos ordinarios de los consortes; los que se entregarán desde luego a éstos o a sus herederos.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 365.
 
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social; se devolverá a cada cónyuge lo que llevó al matrimonio, y el sobrante, si lo hubiere, se dividirá entre los cónyuges por mitad. En caso de que hubiere pérdidas, el importe de éstas se deducirá por mitad de lo que cada consorte hubiere llevado a la sociedad, y si uno solo llevó capital, de éste se deducirá el total de la pérdida. La mujer figurará en la liquidación como acreedora por sus propios bienes, con la preferencia que le corresponda, según la naturaleza jurídica de sus títulos.
+Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social; se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los cónyuges por mitad. En caso de que hubiere pérdidas, el importe de éstas se deducirá por mitad de lo que cada consorte hubiere llevado a la sociedad, y si uno solo llevó capital, de éste se deducirá el total de la pérdida.
+
+Los consortes figurarán en la liquidación como acreedores por sus propios bienes, con la preferencia que les corresponda, según la naturaleza jurídica de sus títulos.
 
 ###### Art. 366.
 
@@ -2037,13 +2105,15 @@ Si los dos procedieron de mala fe, los gananciales se aplicarán a los hijos, y 
 
 Las pérdidas o desmejoras de los bienes muebles no estimados, aunque provengan de caso fortuito, se pagarán de los gananciales, si los hubiere; en caso contrario el dueño recibirá los muebles en el estado en que se hallen.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 371.
 
-Los deterioros de los bienes inmuebles no son abonables en ningún caso al dueño; excepto los que provengan de culpa del cónyuge administrador.
+Los deterioros de los bienes inmuebles no son abonables en ningún caso al dueño, a menos que provenga de culpa del otro cónyuge.
 
 ###### Art. 372.
 
-El luto de la viuda se sacará del haber del marido.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 373.
 
@@ -2121,13 +2191,17 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 De las Donaciones entre Consortes.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 390.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirmarán con la muerte de donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, o perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 391.
 
-Las donaciones entre consortes pueden ser revocadas libremente en todo tiempo por los donantes.
+Las donaciones entre consortes únicamente serán revocadas por el donante, en caso de divorcio necesario, por culpa del donatario.
 
 ###### Art. 392.
 
@@ -2259,13 +2333,17 @@ La buena fe se presume; para destruir esa presunción se requiere prueba plena.
 
 Si la demanda de nulidad fuera entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 447.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 417.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de siete años quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
+En los casos de nulidad de matrimonio, y aún tratándose de divorcio, los hijos e hijas menores de siete años se mantendrán al cuidado de la madre hasta que cumplan esta edad, salvo que se ponga en peligro su salud física, emocional o mental, supuesto en el cual se podrá otorgar la custodia al otro cónyuge o al ascendiente que mejor asegure el desarrollo integral de aquéllos.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 418.
 
-Si uno solo de los cónyuges ha procedido de buena fe quedarán todos los hijos bajo su cuidado; pero siempre, y aun tratándose de divorcio, las hijas o hijos menores de siete años se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+En la sentencia de nulidad de matrimonio se resolverá sobre la situación de los hijos. Para ese efecto, los padres podrán presentar un convenio que contenga los acuerdos a que han llegado respecto a su custodia, la proporción que corresponda pagar a cada uno de ellos por concepto de alimentos y la forma de garantizar su pago. En caso de que no se presente el convenio o no se garantice el interés de los hijos, el Juez decidirá lo que corresponda, pudiendo determinar que los menores queden bajo la custodia del ascendiente que asegure el desarrollo integral de éstos. También podrá en todo tiempo, modificar la determinación tomada, teniendo en cuenta las nuevas circunstancias y siempre que el interés de los hijos lo requiera.
 
 ###### Art. 419.
 
@@ -2321,9 +2399,13 @@ III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mis
 
 IV.- La incitación o la violencia hecha por un cónyuge a otro para cometer algún delito, aunque no sea de incontinencia carnal;
 
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
 
-VI.- Padecer sífilis, tuberculosis o cualquiera otra enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
+V.- Los actos inmorales ejecutados por el marido o por la mujer, con el fin de corromper o que corrompan a los hijos, ya sean éstos de ambos o de uno de ellos, así como la tolerancia en su corrupción;
+
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+VI.- Padecer sífilis, tuberculosis, síndrome de inmunodeficiencia adquirida, o cualquier otra enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
 
 VII.- Padecer enajenación mental incurable;
 
@@ -2335,13 +2417,17 @@ X.- La declaración de ausencia legalmente hecha o la de presunción de muerte, 
 
 XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, siempre que tales actos hagan imposible la vida conyugal, a juicio del juez o del tribunal, en su caso;
 
-XII.- La negativa de los cónyuges para darse alimentos, de acuerdo con lo dispuesto en el artículo 256, siempre que no puedan hacer efectivo los derechos que les conceden los artículos 257 y 258;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+XII.- La negativa de los cónyuges para darse alimentos, de acuerdo con lo dispuesto por el artículo 256, siempre que no pueda hacerse efectivo el derecho que les concede el artículo 257;
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro por delito que merezca pena mayor de dos años de prisión;
 
 XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
 
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+XV.- Los hábitos de juego, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
 
 XVI.- Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalado en la ley una pena que pase de un año de prisión;
 
@@ -2349,7 +2435,15 @@ XVII.- La extorsión moral de un cónyuge por el otro, siempre que implique crue
 
 XVIII.- El desistimiento a que se refiere el artículo 446, así como la causa expresada en el artículo 426;
 
-XIX.- El mutuo consentimiento.
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+XVIII.- El desistimiento a que se refiere el artículo 446, así como la causa expresada en el artículo 426;
+
+> <small>(ADICIONADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+XIX.- La embriaguez habitual o el uso indebido y persistente de drogas enervantes, cuando constituyan un continuo motivo de desavenencia conyugal; y
+
+XX.- El mutuo consentimiento.
 
 ###### Art. 426.
 
@@ -2361,37 +2455,39 @@ Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyug
 
 ###### Art. 428.
 
-Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos; ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que dá derecho a pedir el divorcio debe consistir en actos positivos y no simples omisiones.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 429.
 
 Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 430.
 
-Los cónyuges que soliciten su divorcio por mutuo consentimiento, están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
+Los cónyuges que soliciten su divorcio por mutuo consentimiento, están obligados a presentar al Juzgado un convenio en el que se contengan los siguientes puntos:
 
-I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
+I.- Designación de la persona que tendrá a su cuidado a los hijos durante el procedimiento y después de ejecutoriado el divorcio, así como el arreglo de las condiciones de éstos;
 
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+II.- El modo en que se subvencionarán las necesidades de los hijos durante el procedimiento y después de ejecutoriada la sentencia de divorcio, así como la forma de hacer el pago y la garantía que lo asegurará;
 
-III.- La casa que servirá de habitación a la mujer durante el procedimiento;
+III.- Designación del cónyuge que continuará habitando el domicilio conyugal, en su caso;
 
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
+IV.- La cantidad que a título de alimentos un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriada la sentencia y la forma de hacer el pago o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga; y
 
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores; a ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+V.- La forma de administrar los bienes de la sociedad legal o conyugal en su caso, durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores; a ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles, así como de las cargas u obligaciones de la sociedad.
 
 ###### Art. 431.
 
-Cuando ambos consortes convengan en divorciarse deberán ocurrir ante el Juez de Primera Instancia competente, presentando el convenio que se exige en el artículo anterior, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores, en su caso.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 432.
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados, los exhortará para su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados y de la mujer, y a los alimentos de aquéllos y de los que un cónyuge debe dar al otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 433.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el juez a las partes para oír sentencia, la cual se dictará dentro del término de tres días y en ella volverá a estudiar la situación de los hijos. Si en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 434.
 
@@ -2399,19 +2495,15 @@ El cónyuge menor de edad necesita de un tutor especial para poder solicitar el 
 
 ###### Art. 435.
 
-Los cónyuges no pueden hacerse representar por procurador en la junta a que se refiere el artículo 432, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 436.
 
-En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 437.
 
-En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el tribunal lo hará saber a los cónyuges para que dentro de tres días manifiesten si aceptan las modificaciones.
-
-En caso de que no las acepten, el tribunal resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando de que siempre queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ###### Art. 438.
 
@@ -2429,53 +2521,71 @@ Mientras que se decrete el divorcio, el juez autorizará la separación de los c
 
 Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 442.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 425, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio fundado en las causales enumeradas en las fracciones VI, VII y XIX del artículo 425, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge; y el Juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### Art. 443.
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 444.
 
-Ninguna de las causas enumeradas en el artículo 425 puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+Ninguna de las causas enumeradas en el artículo 425, puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito; no se considera perdón tácito la mera suscripción de una demanda de divorcio por mutuo consentimiento ni los actos procesales posteriores.
 
 ###### Art. 445.
 
 La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 446.
 
-El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas en este caso no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+El cónyuge que no haya dado causa al divorcio, puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; más en este caso no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
 
-Si el desistimiento de la acción se debiere a que el actor no comprobó la causa del divorcio invocada, o a que la misma resultó insuficiente, podrá el otro cónyuge pedir el divorcio, quedando a juicio del juez determinar tales hechos; pero no podrá intentarse la acción por esta causa, sino pasados tres meses de la notificación del auto que hubiese decretado dicho desistimiento. Durante el citado lapso los cónyuges no están obligados a vivir juntos.
+Si el desistimiento de la acción se debiere a que el actor no comprobó la causa de divorcio invocada, o a que la misma resultó insuficiente, podrá el otro cónyuge pedir el divorcio, quedando a juicio del Juez determinar tales hechos; pero no podrá intentarse la acción por esta causa, sino pasados tres meses de la notificación del auto que hubiese decretado dicho desistimiento. Durante el citado lapso los cónyuges no están obligados a vivir juntos.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 447.
 
-Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+Al admitirse la demanda de divorcio necesario, o antes si hubiere urgencia, se dictará provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
 
-I.- Separar a los cónyuges en todo caso;
+I.- Separar a los cónyuges en todo caso. Para este efecto el Juez prevendrá al marido que se separe del domicilio conyugal y ordenará se le entreguen su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que esté dedicado.
 
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio y el marido pidiere el depósito. La casa que para esto se destine será designada por el juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
+Sólo a solicitud de la mujer se podrá ordenar su separación del domicilio conyugal. En este supuesto el Juez ordenará se le entreguen su ropa, objetos personales y los bienes que, en su caso, sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicada;
 
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+II.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
 
-IV.- Dictar las medidas convenientes para que el administrador no cause perjuicios al otro cónyuge en sus bienes propios o en los de la sociedad conyugal;
+III.- Dictar las medidas necesarias para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la sociedad legal o conyugal, en su caso;
 
-V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede encinta;
+IV.- Fijar las reglas para el cuidado de los hijos. Los menores de 7 años quedarán durante el trámite, bajo el cuidado de la madre, salvo que se ponga en peligro su salud física, emocional o mental;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos; el juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona en caso de no ser aceptada la propuesta.
+V.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos; y
+
+VI.- Dictar, en su caso, las medidas precautorias que la ley establece en el supuesto de que la mujer quede encinta.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 448.
 
 La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 425, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+I.- Cuando la causa de divorcio estuviere comprendida en las fracciones III y V del artículo 425, el cónyuge culpable perderá la patria potestad, quedando el ejercicio de ésta a favor del cónyuge inocente;
 
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones XI, XII, XIII, XVI, XVII y XVIII del artículo 425, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrandola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+II.- Cuando la causa de divorcio estuviere comprendida en las fracciones VII, X, XV y XIX del artículo 425, el cónyuge que no dio causa al divorcio conservará la patria potestad y el otro será suspendido en el ejercicio de la misma, quedando los hijos en poder del que solicitó el divorcio. En el supuesto de las fracciones VII, XV y XIX el cónyuge culpable recuperará la patria potestad si se comprueba su rehabilitación y en el caso de la fracción X el ausente recuperará dicho ejercicio si se presenta, aun cuando hubiere sido declarada formalmente la presunción de muerte. En estas hipótesis se requerirá de resolución judicial;
 
-Tercera.- En el caso de las fracciones VI y VII del artículo 425 los hijos quedarán en poder del cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos. En el caso de la fracción X del mencionado artículo 425, los hijos quedarán en poder del cónyuge que pidió el divorcio y, respecto a la causal indicada en la fracción IX, el Juez decidirá, según el caso y las personas, a quién corresponderá la custodia de los hijos, conservando ambos padres la patria potestad.
+III.- Cuando la causa de divorcio estuviere comprendida en la fracción VI del artículo 425, ambos cónyuges conservarán la patria potestad, pero los hijos quedarán en custodia del que pidió el divorcio, excepto en el caso de impotencia incurable, supuesto en el cual se estará a lo señalado en el fracción siguiente, en cuanto a la determinación de la custodia de los hijos;
+
+IV.- Cuando la causa de divorcio estuviere comprendida en las fracciones I, IV, VIII, IX, XI, XII, XIII, XIV, XVI, XVII y XVIII del artículo 425, a juicio del Juez, ambos cónyuges o alguno de ellos podrán conservar o perder la patria potestad, o bien, podrán ser suspendidos en el ejercicio de la misma, debiéndose decidir a quién corresponderá la custodia de los hijos, atendiendo a las circunstancias de cada caso. Cuando en la sentencia se determine que los hijos quedarán bajo la patria potestad de uno solo de los cónyuges, a la muerte de éste, a juicio del Juez, el otro podrá recuperar la patria potestad, o bien, la misma podrá ser ejecida (sic) por los abuelos paternos o maternos que mejor aseguren el desarrollo integral de los menores;
+
+V.- Cuando los dos cónyuges fueren culpables, y como consecuencia de ello, se determine en la sentencia la pérdida de la patria potestad, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere, se nombrará tutor; y
+
+VI.- Cuando la causa del divorcio estuviere comprendida en la fracción II del Artículo 425, el ejercicio de la patria potestad se regirá por lo dispuesto en este Código, quedando el menor al lado de la madre.
 
 ###### Art. 449.
 
@@ -2489,15 +2599,19 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 El cónyuge que diere causa al divorcio, perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 452.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y las hijas, aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir en proporción a sus bienes e ingresos a las necesidades de los hijos, a la subsistencia y a la educación de éstos, en los términos del artículo 473.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 453.
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio necesario, el Juez, tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente; este derecho subsistirá mientras no contraiga nuevas nupcias o se una en concubinato.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+Cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 ###### Art. 454.
 
@@ -2567,11 +2681,11 @@ De los Alimentos.
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 467.
 
-Los cónyuges deben darse alimentos; la ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
-
-La concubina tiene derecho a exigir alimentos al concubinario siempre que reúna los requisitos exigidos por el artículo 1443 fracción V. Este último en ningún caso podrá exigir alimentos a aquélla.
+Los cónyuges deben darse alimentos; la ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale. Los concubinos están obligados a darse alimentos si se satisfacen los requisitos señalados por el artículo 1443, fracción V, mientras dure el concubinato.
 
 ###### Art. 468.
 
@@ -2595,9 +2709,13 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 473.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad.
+
+Respecto de los menores, comprenden, además, los gastos necesarios para su educación, hasta proporcionarles un oficio, arte o profesión adecuados a sus circunstancias personales. Esta obligación se prorroga después de la mayoría de edad, si los acreedores alimentarios estudian una carrera técnica o superior, hasta el término normal necesario para concluir los estudios, si realizan los mismos sin interrupción.
 
 ###### Art. 474.
 
@@ -2607,9 +2725,11 @@ El obligado a dar alimentos cumple la obligación asignando una pensión compete
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que deba recibir los alimentos cuando se trate de un cónyuge divorciado que reciba alimentos del otro y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 476.
 
-Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos.
+Los alimentos han de ser proporcionados de acuerdo a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un aumento automático equivalente al aumento porcentual del salario mínimo diario vigente en la zona económica de que se trate, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor.
 
 ###### Art. 477.
 
@@ -2641,9 +2761,11 @@ V.- El Ministerio Público.
 
 Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 482.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+El aseguramiento podrá consistir en hipoteca, prenda, fianza, fideicomiso o depósito de cantidad bastante a cubrir los alimentos o cualquiera otra forma de garantía suficiente a juicio del Juez.
 
 ###### Art. 483.
 
@@ -2671,13 +2793,17 @@ V.- Si el alimentista, sin consentimiento del que deba dar los alimentos, abando
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 487.
 
-Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa haya contraído para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+Cuando el deudor alimentario no estuviere presente o, estándolo rehusare a entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 488.
 
-La esposa que, sin culpa suya, sea obligada a vivir separada de su marido, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que la abandonó. El juez, según las circunstancias del caso, fijará la suma que el marido deba ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+El cónyuge que se separe del otro continúa obligado a cumplir con los gastos a que se refiere el artículo 256. El que no haya dado lugar a la separación podrá pedir al Juez de Primera Instancia de su residencia que exija al otro a cumplir con esta obligación, por el tiempo que dure la separación, en la misma proporción en que lo venía haciendo hasta antes de aquélla y a pagar las deudas contraídas en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
 ### CAPITULO I.
 
@@ -2685,7 +2811,7 @@ De los Hijos de Matrimonio.
 
 ###### Art. 489.
 
-Lo dispuesto en los dos artículos anteriores es aplicable a la mujer, cuando tenga obligación de dar alimentos y el marido se halle en las condiciones apuntadas.
+(DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
 ## TITULO SEPTIMO.
 
@@ -2885,6 +3011,8 @@ Pueden gozar también de ese derecho los hijos no nacidos si el padre al casarse
 
 De la Adopción.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 526.
 
 La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del sólo hecho del nacimiento. Para justificar este hecho son admisibles todos los medios de prueba, y en los juicios de intestado o de alimentos se justificará la filiación respecto a la madre dentro del mismo procedimiento.
@@ -2933,9 +3061,17 @@ II.- Por acta especial ante el mismo Oficial;
 
 III.- Por escritura pública;
 
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
 IV.- Por testamento;
 
-V.- Por confesión judicial directa y expresa.
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+V.- Por confesión judicial directa y expresa;
+
+> <small>(ADICIONADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+VI.- En el acto del matrimonio de los padres; en este caso los padres tienen el deber de hacer el reconocimiento. Este deber subsiste aunque el hijo haya fallecido ya al celebrarse el matrimonio, si dejó descendientes.
 
 ###### Art. 536.
 
@@ -2945,9 +3081,11 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 538.
 
-La mujer casada no podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio.
+La mujer casada podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del marido; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con el consentimiento expreso del esposo.
 
 ###### Art. 539.
 
@@ -3047,11 +3185,17 @@ De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos.
 
 ###### Art. 557.
 
-Las personas mayores de treinta años en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Las personas mayores de veinticinco años de edad, en pleno ejercicio de sus derechos, pueden adoptar a uno o más menores de edad o a uno o más incapacitados, aun cuando éste o éstos sean mayores de edad, siempre que la adopción sea benéfica para el o los adoptados.
+
+El adoptante deberá tener cuando menos diecisiete años más que el adoptado. El Juez podrá dispensar este requisito cuando la adopción resulte notoriamente benéfica para el adoptado.
 
 ###### Art. 558.
 
 El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo.
+
+> <small>(ADICIONADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
+No opera la diferencia de edad señalada en el último párrafo del artículo anterior, cuando se pretenda adoptar al hijo del otro cónyuge.
 
 ###### Art. 559.
 
@@ -3068,6 +3212,10 @@ El menor o el incapacitado que hayan sido adoptados podrán impugnar la adopció
 ###### Art. 562.
 
 El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+
+> <small>(ADICIONADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
+El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
 
 ###### Art. 563.
 
@@ -3091,9 +3239,11 @@ IV.- El Ministerio Público del lugar del domicilio del adoptado cuando éste no
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 565.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento la autoridad política superior del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los interese morales y materiales de éste.
+Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez de Primera Instancia calificará tomando en cuenta los intereses del menor o incapacitado.
 
 ###### Art. 566.
 
@@ -3115,9 +3265,11 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 249.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 570.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción, excepto la patria potestad, que será transferida al padre adoptivo.
+Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que, en su caso, esté casado con alguno de los progenitores del adoptado, pues entonces se ejercerá por ambos cónyuges.
 
 ###### Art. 571.
 
@@ -3185,19 +3337,17 @@ Los hijos, cualquiera que sean su estado, edad y condición, deben honrar y resp
 
 Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 580.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio quedará sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que impriman las resoluciones que se dicten, de acuerdo con las leyes aplicables.
+La patria potestad es el conjunto de derechos y obligaciones reconocidos por la ley a los ascendientes, en relación con sus descendientes; su ejercicio implica el cuidado, protección y educación de los menores, así como la correcta administración de sus bienes.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 581.
 
-La patria potestad sobre los hijos de matrimonio se ejerce:
-
-I.- Por el padre y la madre;
-
-II.- Por el abuelo y la abuela paternos;
-
-III.- Por el abuelo y la abuela maternos.
+La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre. Faltando ambos, por los abuelos paternos o maternos que mejor aseguren su desarrollo integral, a criterio del Juez de Primera Instancia.
 
 ###### Art. 582.
 
@@ -3213,9 +3363,11 @@ En los casos previstos en los artículos 546 y 547, cuando por cualquiera circun
 
 Cuando los padres del hijo nacido fuera de matrimonio, que vivían juntos, se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 585.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido los demás ascendientes a que se refieren las fracciones II y III del artículo 581.
+A falta de padres, ejercerán la patria potestad sobre el hijo reconocido los abuelos, en los términos del artículo 581.
 
 ###### Art. 586.
 
@@ -3229,17 +3381,21 @@ Solamente por falta o impedimento de todos los llamados preferentemente, entrar�
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 589.
 
-A las personas que tienen al hijo bajo su patria potestad incumben la obligación de educarlo convenientemente.
+El Estado velará por que se cumplan las obligaciones inherentes a la patria potestad.
 
-Cuando llegue a conocimiento de los Consejos Locales de Tutela que las personas de que se trata no cumplen esa obligación, le avisarán al Ministerio Público para que promueva lo que corresponda.
+Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquiera otra institución o autoridad, que las personas que tienen al menor o incapaz bajo su patria potestad, no cumplen con las obligaciones a que alude el artículo 580, le avisarán al Ministerio Público para que promueva lo que corresponda.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 590.
 
-Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+Los que ejercen la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones que presten el apoyo suficiente a la autoridad paterna y orientándolas para que acudan a la institución correspondiente a recibir la asistencia adecuada.
 
 ###### Art. 591.
 
@@ -3253,13 +3409,17 @@ De la Tutela Legítima de los Menores Abandonados y de los Acogidos por Alguna P
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 593.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, los dos conjuntamente serán los administradores de los bienes del menor.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 594.
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte y con la autorización judicial cuando la ley lo requiera expresamente.
+Las personas que ejerzan la patria potestad representarán también a los menores en juicio; si dentro del juicio se nombrare representante común a alguna de ellas, no podrá ésta celebrar ningún arreglo para terminarlo sin el consentimiento expreso de su consorte y con la autorización judicial cuando la ley lo requiera expresamente.
 
 ###### Art. 595.
 
@@ -3365,9 +3525,13 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio teniendo en cuenta lo que dispone el artículo 448;
 
-III.- Por el solo hecho de que, por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pueda comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
 
-IV.- Por la exposición que el padre o la madre hicieren de sus hijos.
+III.- Por el solo hecho de que, por las costumbres depravadas, malos tratamientos o abandono de los deberes del que la ejerce, pueda comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal; y
+
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+IV.- Por la exposición que de los menores hiciere quien ejerza la patria potestad.
 
 ###### Art. 612.
 
@@ -3383,9 +3547,17 @@ La patria potestad se suspende:
 
 I.- Por incapacidad declarada judicialmente;
 
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
 II.- Por la ausencia declarada en forma;
 
-III.- Por la sententcia (sic) condenatoria que imponga como pena esta suspensión.
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+III.- Por la sentencia condenatoria que imponga como pena esta suspensión; y
+
+> <small>(ADICIONADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+IV.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 448.
 
 ###### Art. 615.
 
@@ -4865,11 +5037,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede construir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, B.O. 15 DE JULIO DE 1967)</small>
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 896.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será de Cincuenta Mil Pesos para todos los Municipios del Estado.
+El valor máximo de los bienes afectos al patrimonio de la familia será el equivalente a cinco mil veces el salario mínimo diario general vigente en la zona económica de que se trate, en la época en que se constituya dicho patrimonio.
 
 ###### Art. 897.
 
@@ -4895,9 +5067,11 @@ Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos
 
 Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 896, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
 
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ###### Art. 900.
 
-Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o por que los esté dilapidando, lo acreedores alimentistas y, si estos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por los valores fijados en el artículo 896. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 897 y 898.
+Las personas que tienen derecho a disfrutar el patrimonio de la familia señaladas en el artículo 891, el tutor de acreedores alimentistas incapaces o el Ministerio Público, pueden exigir judicialmente que se constituya el patrimonio de la familia hasta por el valor fijado en el artículo 896, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 897 y 898.
 
 ###### Art. 901.
 
@@ -7717,15 +7891,23 @@ Testamento Público Cerrado.
 
 El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I.- A los descendientes varones menores de veintiún años;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
 
-II.- A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+I.- A los descendientes, en los términos del artículo 473;
 
-III.- Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y viva honestamente;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+II.- A los descendientes que estén imposibilitados para trabajar, cualquiera que sea su edad;
+
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+III.- Al cónyuge supérstite, siempre que esté impedido para trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio o se una en concubinato y viva honestamente;
 
 IV.- A los ascendientes;
 
-V.- A la mujer con quien el testador vivió como si fuera su marido, durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. La concubina sólo tendrá derecho a alimentos mientras que observe buena conducta y no se case. Si fueren varias las concubinas, ninguna de ellas tendrá derecho a alimentos;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido para trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias o se una en un nuevo concubinato y viva honestamente. Si fueren varias las personas con quien el testador vivió como si fuera su cónyuge, ninguna de ellas, tendrá derecho a alimentos; y
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años si no tienen bienes para subvenir a sus necesidades.
 
@@ -7749,11 +7931,15 @@ El derecho de pedir alimentos no es renunciable ni puede ser objeto de transacci
 
 Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1443, se observarán las reglas siguientes:
 
-I.- Se ministrarán a los descendientes y al cónyuge supérstite a prorrata;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+I.- Se ministrarán a prorrata a los descendientes y al cónyuge supérstite o, en su caso, a la concubina o al concubinario;
 
 II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
 
-III.- Después se ministrarán también a prorrata, a los hermanos y a la concubina;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+III.- Después se ministrarán también a prorrata a los hermanos; y
 
 IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
 
@@ -8725,7 +8911,9 @@ Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto
 
 ### CAPITULO VI.
 
-De la Sucesión de la Concubina.
+De la Sucesión de los Concubinos.
+
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 1655.
 
@@ -8849,7 +9037,9 @@ Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de 
 
 Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+
+I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen los requisitos señalados en el artículo 1711; y
 
 II.- A falta de los anteriores, el Estado.
 
@@ -9009,19 +9199,17 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE AGOSTO DE 1990)</small>
+
 ### CAPITULO VII.
 
 De la Partición.
 
 ###### Art. 1711.
 
-La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, en el caso de que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
 
-I.- Le corresponderá la porción de un hijo, bien sea que concurra con hijos o descendientes de ella y del autor de la sucesión, o exclusivamente con hijos o descendientes de éste habidos en matrimonio o fuera de él;
-
-II.- Sólo en el caso de que la concubina tenga bienes por igual o mayor cantidad de los que integran el haber hereditario líquido, no tendrán derecho a recibir la parte a que se refiere la fracción que antecede;
-
-III.- En los demás casos se observará lo dispuesto en los artículos 1702 a 1705.
+Si al morir el autor de la herencia le sobreviven varias concubinas o concubinos en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
 
 ### CAPITULO VIII.
 
@@ -18346,3 +18534,17 @@ B.O. 21 DE ENERO DE 1988.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE AGOSTO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor quince días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor la presente Ley, se sujetarán para su resolución, a las disposiciones que se encontraban en vigor antes de la vigencia de este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
