@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2001-11-08"
+last_updated: "2003-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -49,7 +49,9 @@ La presente Ley tiene por objeto regir la organización del Poder Ejecutivo de A
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la presente Ley y las demás disposiciones jurídicas vigentes en el Estado.
 
-Las entidades paraestatales forman parte de la Administración Pública del Estado y se regirán por la Ley de Control de Entidades Paraestatales, las leyes, decretos o acuerdos que los crearon y sus reglamentos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+Las entidades paraestatales, forman parte de la Administración Pública del Estado y se regirán por la Ley de Control de Entidades Paraestatales, las leyes, decretos o acuerdos que los crearon y sus reglamentos, así como por las demás leyes o decretos en el ámbito de su competencia y atribuciones.
 
 ###### ARTICULO 3º.
 
@@ -325,7 +327,9 @@ XVII. Intervenir y opinar en todos los casos cuando las dependencias o entidades
 
 XVIII. Celebrar convenios con las personas de Derecho público o privado sobre cualquier materia de su competencia;
 
-XIX. Elaborar los informes financieros que integran la Cuenta Pública del Gobierno del Estado, de conformidad con la legislación vigente y solventar las observaciones y recomendaciones que formule el Congreso del Estado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+XIX. Elaborar los informes financieros que integran la Cuenta de la Hacienda Pública Estatal de conformidad con la legislación vigente, y coordinar a las dependencias y entidades paraestatales para la oportuna y correcta solventación a las observaciones y recomendaciones que, en su caso, formule el Congreso del Estado por conducto de su órgano técnico de fiscalización;
 
 XX. Administrar y custodiar los fondos y valores del Estado;
 
@@ -924,3 +928,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
