@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-12214"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-01-31"
-last_updated: "1997-01-31"
+last_updated: "1997-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 31 de enero de 1997.
 
@@ -61,9 +61,21 @@ II.- Director;
 
 III.- Coordinador;
 
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
 IV.- Investigadores;
 
-V.- Personal administrativo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+V.- Encargado de Informática Legislativa;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+VI.- Bibliotecario; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+VII.- Personal Administrativo.
 
 ###### ARTICULO 5o.
 
@@ -107,7 +119,9 @@ IV.- Proponer a la Comisión Especial, anteproyectos de iniciativas de leyes, re
 
 V.- Coordinarse con organismos oficiales y privados en la elaboración de iniciativas de leyes que correspondan a las áreas de su trabajo;
 
-VI.- Proponer las directrices de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencias en investigación con las demás Entidades Federativas, e instituciones académicas similares, nacionales y del extranjero;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+VI.- Proponer las directrices de investigación, difusión, conservación y actualización de documentos y legislación del Estado, de otras Entidades Federativas y Federal; acopio e intercambio de material y acervo bibliográfico, así como experiencias en investigación con las demás entidades federativas e instituciones académicas similares, nacionales y del extranjero;
 
 VII.- Elaborar, a solicitud de la Comisión Especial, las convocatorias para la participación de la sociedad en foros de consulta y paneles, sobre temas jurídicos parlamentarios que sean de interés social;
 
@@ -115,11 +129,17 @@ VIII.- Asistir y participar en los seminarios, congresos y foros de consulta que
 
 IX.- Elaborar, preparar e impartir cursos de capacitación legislativa;
 
-X.- Auxiliarse del Centro de Informática Legislativa, Centro de Cómputo y Biblioteca del Congreso del Estado, para obtener la información y datos estadísticos que le sean necesarios en sus actividades de investigación;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+X.- Contar con las áreas de Informática Legislativa y Biblioteca y auxiliarse del Centro de Cómputo en cuanto sea necesario para el desarrollo de sus actividades;
 
 XI.- Presentar a la Comisión Especial un informe mensual de las actividades desarrolladas y anualmente un plan de trabajo; y
 
-XII.- Las demás que el Congreso del Estado le confiera.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+XII.- Difundir en el ámbito de su competencia los resultados del desarrollo de la base de datos de la legislación estatal y de los programas de investigación, a través de publicaciones especializadas; y
+
+XIII.- Las demás que el Congreso del Estado le confiera.
 
 ###### ARTICULO 8o.
 
@@ -153,9 +173,11 @@ XII.- Las demás que le asigne la Comisión Especial.
 
 Las faltas temporales o definitivas del Director del Instituto, serán resueltas por la Comisión Especial conforme al Reglamento Interior del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 10.
 
-El Coordinador, los Investigadores y el personal del Instituto serán personal de confianza.
+El coordinador, los investigadores, el encargado de Informática Legislativa, el bibliotecario y el personal del Instituto serán personal de confianza.
 
 ###### ARTICULO 11.
 
@@ -215,6 +237,110 @@ III.- Concluidos los resultados de la investigación, presentarla a la considera
 
 IV.- Las demás que les confieran o expresamente les deleguen el Director o el Coordinador del Instituto.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 15.
+
+El Centro de Informática Legislativa tendrá las siguientes funciones:
+
+I.- Recopilar y mantener actualizados los textos legislativos del Estado, de las demás Entidades Federativas y la Legislación Federal;
+
+II.- Realizar el análisis preinformático, la depuración y el armado de los textos legislativos a que se refiere la fracción anterior; y
+
+III.- Capturar en soporte magnético la legislación estatal, de la demás Entidades Federativas y la Federal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 16.
+
+El Centro de Informática Legislativa tendrá las siguientes atribuciones:
+
+I.- Proporcionar oportunamente información actualizada, ordenada y organizada de la legislación potosina a los solicitantes;
+
+II.- Proporcionar información de la Legislación Federal y de los Estados, de acuerdo a la base de datos con que cuente; y
+
+III.- Colaborar en los proyectos de investigación que realicen los Diputados del Congreso del Estado y los investigadores del Instituto.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 17.
+
+Los servicios que preste el Centro de Informática Legislativa serán gratuitos para los integrantes del Congreso del Estado. Cuando los solicitantes sean distintos al personal autorizado del Congreso, deberán cubrir en la tesorería del mismo, los gasots (sic) de impresión o de consulta de los sistemas que correspondan.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 18.
+
+Para ser encargado del Centro de Informática Legislativa se requiere:
+
+I.- Ser ciudadano mexicano en ejercicio de sus derechos civiles;
+
+II.- Ser preferentemente Licenciado en Derecho;
+
+III.- Tener conocimientos de Informática; y
+
+IV.- Tener cuando menos tres años de experiencia profesional.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 19.
+
+La Biblioteca del Congreso del Estado formará parte del Instituto de Investigaciones Legislativas; estará a cargo de un bibliotecario y contará con el personal que sea necesario, según lo determinen la Gran Comisión y la Comisión del Instituto de Investigaciones Legislativas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 20.
+
+La Biblioteca estará al servicio de los funcionarios del Congreso del Estado y del público en general, pero sólo los primeros podrán extraer de ella los volúmenes que necesiten, previo recibo y bajo las condiciones que para ello establezca el Instituto.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 21.
+
+Para el funcionamiento de la Biblioteca, el Congreso del Estado a través de la Oficialía Mayor y del Instituto de Investigaciones Legislativas cuidará y fomentará el acervo bibliográfico, videográfico y hemerográfico que conforma el patrimonio de la misma.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 22.
+
+La Biblioteca prestará los siguientes servicios:
+
+I.- Consulta de material bibliográfico, videográfico y hemerográfico existente;
+
+II.- Consulta de leyes, reglamentos y decretos expedidos por el Congreso del Estado;
+
+III.- Consulta de leyes, reglamentos y decretos de otros Estado (sic) de la República y de Legislación Federal; y
+
+IV.- Apoyo de consulta al Congreso del Estado, en acopio de bibliografía que no se encuentre en existencia en la misma.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 23.
+
+Para ser bibliotecario del Instituto se requiere:
+
+I.- Ser ciudadano mexicano en ejercicio de sus derechos civiles;
+
+II.- Tener título de Licenciado en Biblioteconomía o estudios afines, o en su caso justificar tener conocimientos en la materia a juicio de la Comisión del Instituto de Investigaciones Legislativas; y
+
+III.- Contar con experiencia mínima de tres años en el manejo de bibliotecas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 24.
+
+El bibliotecario tendrá las siguientes funciones:
+
+I.- Recopilar y encuadernar el Diario de los Debates del Congreso, el Periódico Oficial del Estado y el Diario Oficial de la Federación;
+
+II.- Registrar y controlar las consultas del material bibliográfico, videográfico y hemerográfico;
+
+III.- Registrar las reformas de los ordenamientos legales estatales y federales para la actualización continua de la información legislativa;
+
+IV.- Registrar, clasificar y capturar las fichas de análisis del material bibliográfico de nuevo ingreso; y
+
+V.- Prestar el servicio de uso y consulta de sistemas de información.
+
 ## TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -240,3 +366,9 @@ El Secretario General de Gobierno
 DR. JESUS EDUARDO NOYOLA BERNAL
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
