@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-7818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-04"
-last_updated: "1999-06-16"
+last_updated: "2003-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 4 de febrero de 1984.
 
@@ -667,9 +669,7 @@ III. Formar parte de las comisiones que establezca el Ayuntamiento y de las que 
 
 IV. Concurrir a las ceremonias cívicas y a los demás actos a que fueren citados por el Presidente Municipal;
 
-V. Suplir en sus faltas temporales al Presidente Municipal en la forma que previene esta Ley, y
-
-VI. Las demás que les señala esta Ley y los Reglamentos correspondientes.
+V. Suplir en sus faltas temporales al Presidente Municipal en la forma que previene esta Ley, y VI. Las demás que les señala esta Ley y los Reglamentos correspondientes.
 
 ###### Artículo 61.
 
@@ -705,7 +705,7 @@ XIII. Las demás que le señale éstas y otras leyes, así como los reglamentos 
 
 ###### Artículo 62.
 
-Los cargos municipales de elección popular sólo son renunciables por causas graves que calificará la Legislatura del Estado. Las personas designadas para formar los Concejos Municipales no podrán excusarse de servir sino por causa justificada que será calificada por la Legislatura Local. Los miembros del Ayuntamiento podrán ser suspendidos en el ejercicio de sus cargos en los términos del artículo 36 fracción XXXIII de la Constitución Política Local, por las causas señaladas en el artículo 66 tercer párrafo de esa misma Ley, que son las que la propia Constitución califica como graves: a) Violación a las Constituciones Federal y Local; b) Leyes que de ellas emanen; c) Manejo indebido de fondos y recursos municipales. La Legislatura del Estado hará la declaración correspondiente.
+Los cargos municipales de elección popular sólo son renunciables por causas graves que calificará la Legislatura del Estado. Las personas designadas para formar los Concejos Municipales no podrán excusarse de servir sino por causa justificada que será calificada por la Legislatura Local. Los miembros del Ayuntamiento podrán ser suspendidos en el ejercicio de sus cargos en los términos del artículo 36 fracción XXXIII de la Constitución Política Local, por las causas señaladas en el artículo 66 tercer párrafo de esa misma Ley, que son las que la propia Constitución califica como graves: a) Violación a las Constituciones Federal y Local; b) Leyes que de ellas emanen; c) Manejo indebido de fondos y recursos municipales.La Legislatura del Estado hará la declaración correspondiente.
 
 ###### Artículo 63.
 
@@ -721,9 +721,7 @@ Cuando la Legislatura del Estado declare suspendido o desaparecido un Ayuntamien
 
 Si alguno de los miembros propietarios de los Ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
-
-Si se tratare del Presidente Municipal, éste podrá ser sustituido por su suplente o por uno de los Regidores o por un vecino del Municipio, designado, cualquiera de ellos, por la mayoría de los integrantes del Ayuntamiento.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)Si se tratare del Presidente Municipal, éste podrá ser sustituido por su suplente o por uno de los Regidores o por un vecino del Municipio, designado, cualquiera de ellos, por la mayoría de los integrantes del Ayuntamiento.
 
 Cuando el número de Regidores en funciones, aún llamados los suplentes y que no se trate del Presidente Municipal, no sea suficiente para que los actos del Ayuntamiento tengan validez, la Legislatura del Estado designará de entre los vecinos a los sustitutos. De no ser posible lo señalado en los párrafos anteriores, la Legislatura declarará suspendido el Ayuntamiento, para proceder en los términos del Artículo que "precede". Para el primer caso, la situación será comunicada al Ayuntamiento por cualquiera de sus miembros y en los demás, a la Legislatura por el Presidente Municipal o por quien preside el Ayuntamiento, por el Gobernador del Estado o por los Diputados, según el caso.
 
@@ -743,7 +741,7 @@ II. Formular y someter a la aprobación del Ayuntamiento el Bando de Policía y 
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-III. Elaborar los Planes y Programas Municipales de acuerdo a las Leyes respectivas, así como el Presupuesto de Ingresos y Egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un periodo Constitucional, el primero, dentro de los cuatro primeros meses y, posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada Ejercicio Fiscal Anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones;
+III. Elaborar los Planes y Programas Municipales de acuerdo a las Leyes respectivas, así como el Presupuesto de Ingresos y Egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un periodo Constitucional, el primero, dentro de los cuatro primeros meses y, posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada Ejercicio Fiscal Anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
 
 IV. Ejecutar los planes y programas municipales a que hace referencia la fracción anterior, así como llevar los controles presupuestales correspondientes para formular la cuenta pública, que será sometida a la Legislatura Local por medio del Ayuntamiento;
 
@@ -1580,3 +1578,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los treinta días siguientes a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos formularán y promulgarán los Bandos de Policía y Gobierno, así como los reglamentos y demás disposiciones de su competencia para ajustarlas a lo señalado en la Constitución federal, la local y esta Ley, en un término no mayor a un año, a partir de la entrada en vigor del presente Decreto, mientras tanto seguirán aplicándose en lo que no se opongan, los que se encuentran vigentes.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de los Municipios del Estado de Tabasco de fecha 03 de febrero de 1984, publicada en el Periódico Oficial de fecha 04 de febrero del mismo año, sus posteriores reformas y todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos de diversa índole que se estuvieren tramitando conforme a la ley anterior, se concluirán conforme a la misma.
+
+###### ARTÍCULO QUINTO.
+
+Los particulares que con anterioridad a la entrada en vigor de la presente Ley hayan sido legalmente autorizados para instalar estacionamientos, mercados, centrales de abasto, panteones, rastros y demás servicios a que se refiere esta nueva Ley, y que actualmente presten los mismos, dispondrán de un plazo no mayor de seis meses, contados a partir de la entrada en vigor de esta Ley, para que concurran ante el Ayuntamiento de que se trate, a efecto de que se les otorgue la concesión o para celebrar el contrato de concertación respectivo, previa comprobación del cumplimiento de los requisitos correspondientes. Si no comparecieren dentro del plazo señalado, el Ayuntamiento podrá imponer como sanción una multa, cuyo monto será de cien a mil veces el salario mínimo general vigente en el Estado. Los ayuntamientos podrán imponer multas sucesivas al infractor de esta disposición hasta por tres tantos de la multa indicada, cuantas veces sea necesario, hasta corregir la situación irregular.
+
+###### ARTÍCULO SEXTO.
+
+Las tarifas o cuotas de los ingresos establecidos en la Ley de Hacienda Municipal del Estado, en relación con los servicios públicos a que se refiere este ordenamiento, continuarán en vigor, no obstante que en el mismo los conceptos generadores de los créditos fiscales pudieran tener una connotación distinta. Asimismo para aquellos casos en que no existan tarifas, los ayuntamientos deberán proponer al Congreso del Estado, en un plazo no mayor a noventa días, a partir de la entrada en vigor de la presente Ley, las tarifas o cuotas correspondientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones legales o reglamentarias vigentes que aludan indistintamente a la Dirección de Finanzas o Tesorería Municipal, se entenderán referidas a la Dirección de Finanzas, conforme a las nuevas disposiciones contenidas en esta Ley. De igual manera, la papelería que actualmente se encuentre impresa con la denominación Tesorería Municipal, se seguirá utilizando por la Dirección de Finanzas que corresponda, hasta el agotamiento de la misma, a efectos de permitir la impresión conforme a la nueva denominación de la Dirección de Finanzas del Municipio de que se trate.
