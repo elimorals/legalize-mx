@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "1992-10-28"
+last_updated: "1994-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1994.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -135,7 +135,7 @@ III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de cond
 
 El delito puede ser cometido dolosa, culposa o preterintencionalmente.
 
-Obra dolosamente el que (sic) conociendo las circunstancias objetivas del hecho típico, quiere realizarlo o acepte la aparición del resultado previsto por la descripción legal.
+Obra dolosamente el que el (sic) conociendo las circunstancias objetivas del hecho típico, quiere realizarlo o acepte la aparición del resultado previsto por la descripción legal.
 
 Obra culposamente el que realiza el hecho típico infringiendo un deber de cuidado que debía y podía observar, según las circunstancias y condiciones personales, y causa un resultado típico que no previó, siendo previsible, o previó confiando en poder evitarlo.
 
@@ -1813,6 +1813,8 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los seis d�
 
 ### CAPITULO I. CORRUPCION DE MENORES
 
+> <small>(REFORMADO P.O. 10 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 243.
 
 Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará prisión de dos a ocho años y de cien a cuatrocientos días multa.
@@ -2047,13 +2049,15 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ###### ARTICULO 273.
 
-Al que procure o facilite la corrupción de un menor de edad, mediante actos sexuales perversos o prematuros, o lo induzca a la práctica de la mendicidad, ebriedad, toxicomanía o algún otro vicio, se le aplicará de uno a ocho años de prisión, de veinte a cien días multa y se le inhabilitará para ser tutor o curador.
+Al que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la práctica de la mendicidad, la ebriedad, al consumo de narcóticos, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicarán de tres a ocho años de prisión y de cincuenta a doscientos días multa y se le inhabilitará para ser tutor o curador.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ellos éste adquiera los hábitos del alcoholismo, uso de sustancias tóxicas u otras que produzcan efectos similares, se dediquen a la prostitución o a las prácticas homosexuales, o a formar parte de una asociación delictuosa, se aplicará prisión de cinco a diez años y de doscientos a quinientos días multa; sin perjuicio de las penas que pudiera corresponderle si resultare la comisión de otros delitos.
+Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución, a prácticas homosexuales o formar parte de una asociación delictuosa, la pena será de cinco a diez años de prisión y de cien a cuatrocientos días de multa y se le inhabilitará para ser tutor o curador, sin perjuicio de las penas que pudiera corresponderle si resultare la comisión de otros delitos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 274.
 
-Al que emplee a un menor de edad en lugares que por su naturaleza sean nocivos a su formación moral, se le impondrá prisión de tres meses a un año y, en caso de reincidencia, se decretará la suspensión o clausura del establecimiento.
+Al que emplee a menores de dieciocho años de edad en cantinas, tabernas o cualquier otro centro de vicio, se le impondrá prisión de dos a cinco años y de doscientos a quinientos días multa, y además, se sancionará con cierre definitivo del establecimiento.
 
 A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá prisión de seis meses a dos años y se les privará, suspenderá o inhabilitará hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
 
@@ -2734,3 +2738,11 @@ Lic. Francisco Labastida Ochoa
 EL SECRETARIO GENERAL DEL ESTADO
 
 Lic. Manuel Lazcano Ochoa
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE AGOSTO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
