@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "2001-12-29"
+last_updated: "2002-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 27 DE JULIO DE 2002.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -95,7 +95,17 @@ j).- CREDENCIAL: la credencial para votar con fotografía;
 
 k).- REGISTRO: el Registro Estatal de Electores; y
 
-l).- LISTA: la lista nominal de electores con fotografía.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+l).- LISTA: la lista nominal de electores con fotografía;
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+m).- ESTADO: al Estado Libre y Soberano de Colima; y
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+n).- MUNICIPIO: al Municipio Libre.
 
 ###### ARTICULO 3o.
 
@@ -197,7 +207,9 @@ I.- Sólo podrán participar como observadores quienes hayan obtenido oportuname
 
 II.- Se presentará por escrito solicitud de registro ante el Secretario Ejecutivo del INSTITUTO, la cual deberá contener los datos de identificación del solicitante, los motivos de su participación y la manifestación expresa de conducirse conforme a los principios de imparcialidad, objetividad, certeza y apego a la ley;
 
-III.- En el caso de que la solicitud se realice a través de la agrupación a que pertenezca el ciudadano, deberá anexarse la documentación necesaria para acreditar la legal existencia de ésta, sus objetivos y la representación de sus órganos directivos de los cuales se desprenda el no tener vínculos con partido político alguno; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+III.- En el caso de que la solicitud se realice a través de la agrupación a que pertenezca el ciudadano, deberá anexarse la documentación necesaria para acreditar la legal existencia de ésta, sus objetivos y la representación de sus órganos directivos de los cuales se desprenda el no tener vínculos con partido o asociación política alguna; y
 
 IV.- Sólo se otorgará la acreditación a los solicitantes que cumplan los siguientes requisitos:
 
@@ -213,7 +225,9 @@ e).- Estar inscrito en el Padrón Electoral, y contar con su CREDENCIAL;
 
 f).- Asistir a los cursos de preparación o información que imparta el INSTITUTO; y
 
-V.- El CONSEJO GENERAL convocará oportunamente a ciudadanos y agrupaciones, para que acrediten observadores electorales del 1o. al 15 de junio del año de la elección.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+V.- El CONSEJO GENERAL convocará oportunamente a ciudadanos y agrupaciones, para que acrediten observadores electorales del 1° al 31 de mayo del año de la elección.
 
 ###### ARTICULO 11.
 
@@ -255,7 +269,9 @@ II.- Hacer proselitismo de cualquier tipo o manifestarse en favor de PARTIDO POL
 
 III.- Externar cualquier expresión de ofensa, difamación o calumnia, en contra de las instituciones, autoridades electorales, PARTIDOS POLITICOS o candidatos; y
 
-IV.- Declarar el triunfo o derrota de PARTIDO POLITICO o candidato alguno, sin mediar resultado oficial.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+IV.- Declarar sobre la tendencia, así como el triunfo o derrota de PARTIDO POLITICO o candidato alguno, sin que medie resultado oficial.
 
 Quienes incumplan con lo dispuesto por este artículo, serán sancionados conforme lo establece este CODIGO.
 
@@ -263,15 +279,17 @@ Quienes incumplan con lo dispuesto por este artículo, serán sancionados confor
 
 ### CAPITULO I. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 13.
 
-Son elegibles para los cargos de Gobernador y Diputado local, así como Presidente Municipal, Síndico y Regidor de los Ayuntamientos de los Municipios de la entidad, las personas que reúnan los requisitos que señalan la CONSTITUCION, este CODIGO y, en lo conducente, la Ley Orgánica del Municipio Libre.
+Son elegibles para los cargos de Gobernador y Diputado local, así como Presidente Municipal, Síndico y Regidor de los Ayuntamientos de los Municipios de la entidad, las personas que reúnan los requisitos que señalan la CONSTITUCION, este CODIGO y, en lo conducente, la Ley del Municipio Libre del Estado de Colima.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 14.
 
-Los Consejeros Electorales para ser candidatos a un cargo de elección popular, deberán separarse definitivamente del organismo electoral tres años antes de la elección de que se trate.
+Los Consejeros Electorales y los Magistrados del TRIBUNAL para ser candidatos a un cargo de elección popular, deberán separarse definitivamente del organismo electoral tres años antes de la elección de que se trate.
 
 ### CAPITULO II. DE LA ELECCION DE GOBERNADOR DEL ESTADO
 
@@ -287,21 +305,29 @@ En los términos del artículo 51 de la CONSTITUCION, para ser Gobernador se req
 
 I.- Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de 5 años ininterrumpidos en el Estado, o hijo de padre o madre mexicanos y haber residido en el Estado al menos durante 12 años anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- Tener por lo menos 30 años cumplidos al día de la elección, estar en pleno goce de sus derechos y no poseer otra nacionalidad;
+II.- Tener por lo menos 30 años cumplidos al día de la elección, estar en pleno goce de sus derechos, estar inscritos en la LISTA y no poseer otra nacionalidad;
 
-III.- (DEROGADA, P.O. 31 DE JULIO DE 1999)
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
 
-IV.- Vivir del producto de un trabajo honesto;
+III.- No haberse desempeñado como Gobernador de Estado de Colima electo popularmente o de otra entidad federativa, ni como Jefe de Gobierno del Distrito Federal o cualquier otra atribución que se refiera a las mismas funciones y atribuciones;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+IV.- Tener un modo honesto de vivir;
 
 V.- No ser ministro de algún culto, salvo que se haya separado 5 años antes de la elección;
 
 VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo;
 
-VII.- No estar en servicio activo en las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe con 90 días de anticipación al día de la elección; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VIII.- Los Secretarios de la Administración Pública Estatal, el Oficial Mayor, el Procurador General de Justicia, los Magistrados del Supremo Tribunal de Justicia y los Presidentes Municipales, pueden ser electos para desempeñar el cargo de Gobernador del Estado, sólo en el caso de haber cesado como titulares 90 días antes de la fecha de la elección.
+VII.- No estar en servicio activo en las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VIII.- No ser Secretario de la Administración Pública Estatal, Oficial Mayor, Procurador General de Justicia, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
 ###### ARTICULO 17.
 
@@ -327,15 +353,21 @@ En los términos del artículo 24 de la CONSTITUCION, para ser Diputado se requi
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, no poseer otra nacionalidad y tener una residencia en el Estado no menor de 5 años antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- Estar inscrito en la lista nominal de electores;
+II.- Estar inscrito en la LISTA;
 
-III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, cuando menos 90 días antes de la elección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario u Oficial Mayor de la Administración Pública Estatal, Procurador General de Justicia ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separen de sus cargos 90 días antes de la fecha de la elección;
+III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe cuando menos un día antes del inicio del periodo de registro;
 
-V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, salvo si se separa de su cargo 90 días antes de la fecha de la elección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario u Oficial Mayor de la Administración Pública Estatal, Procurador General de Justicia ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe cuando menos un día antes del inicio del periodo de registro;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+V.- No ser Presidente municipal en el lugar donde se realicen las elecciones a menos que se separe del cargo, por lo menos un día antes del inicio del periodo de registro de candidatos;
 
 VI.- (DEROGADA, P.O. 31 DE JULIO DE 1999)
 
@@ -431,9 +463,11 @@ Los Presidentes Municipales, Síndicos y Regidores serán electos popularmente p
 
 Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero éstos sí podrán ser electos para el período inmediato como propietarios, siempre que no hubieran estado en ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 23.
 
-En los términos de los artículos 89 de la CONSTITUCION y 21 de la Ley Orgánica del Municipio Libre, para ocupar el cargo de Munícipe, se requiere:
+En los términos de los artículos 89 de la CONSTITUCIÓN y 27 de la Ley del Municipio Libre, para ocupar el cargo de munícipe se requiere:
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -451,9 +485,9 @@ IV.- Contar con una residencia en el Municipio correspondiente no menor de 3 añ
 
 V.- No ser ministro de algún culto, salvo que se haya separado 5 años antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VI.- No ser servidor público en ejercicio de la Federación, Estado y Municipios, así como de organismos descentralizados o de participación estatal o municipal a que se refiera la Ley, ni estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, a menos que se separen del cargo 90 días antes del día de la elección.
+VI.- No ser servidor público en ejercicio de la Federación, Estado y Municipios, así como de organismos descentralizados o de participación estatal o municipal a que se refiera la Ley, ni estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, a menos que se separe del cargo, un día antes del inicio del periodo del registro de candidatos.
 
 ### CAPITULO V. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -475,15 +509,17 @@ Las elecciones extraordinarias que se celebren para Gobernador, en los casos del
 
 Se verificará elección extraordinaria cuando se declare nula una elección o la vacante de una diputación de mayoría relativa, en un plazo que no excederá los 90 días naturales siguientes a la resolución. La convocatoria la expedirá el CONGRESO dentro de los 15 días siguientes a la declaratoria respectiva.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 27.
 
-La vacante de una diputación o regiduría de representación proporcional, deberá ser cubierta por aquellos candidatos del mismo partido que sigan en el orden de la lista plurinominal o planilla registrada, después de habérsele asignado los Diputados o Regidores que le hubiesen correspondido.
+La vacante de una diputación o regiduría de representación proporcional deberá ser cubierta por su respectivo suplente y, a falta de éste, por aquellos candidatos del mismo partido que sigan en el orden de la lista plurinominal o planilla registrada, después de habérsele asignado los Diputados o Regidores que le hubiesen correspondido.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 28.
 
-Cuando se declare nula la elección de un Ayuntamiento o los munícipes electos no se presenten a tomar posesión a sus cargos o se esté en el caso previsto por el artículo 33, fracción XVIII, de la CONSTITUCION se verificará elección extraordinaria dentro de un plazo que no excederá de los 60 días naturales siguientes a la resolución, de acuerdo a las bases que contenga la convocatoria respectiva y las disposiciones del presente ordenamiento. La convocatoria la expedirá el propio CONGRESO dentro de los 10 días siguientes a la declaratoria respectiva.
+Cuando no se realicen elecciones o se declare nula la elección de Ayuntamiento o los munícipes electos no se presenten a tomar posesión a sus cargos, se verificará elección extraordinaria dentro de un plazo que no excederá de los 120 días naturales siguientes a la resolución, de acuerdo a las bases que contenga la convocatoria respectiva y las disposiciones del presente ordenamiento. La convocatoria la expedirá el propio CONGRESO de conformidad con la Ley para Regular la Participación del Congreso en Asuntos Municipales, dentro de los 10 días siguientes a la declaratoria respectiva.
 
 ###### ARTICULO 29.
 
@@ -615,29 +651,63 @@ VIII.- La (sic) sanciones aplicables a los miembros que infrinjan sus disposicio
 
 Para que una organización pueda constituirse y obtener su registro como partido político estatal, se requerirá:
 
-I.- Que el número mínimo de afiliados sea de 1,500 en todo el Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- Realizar una asamblea con la presencia de un notario público en por lo menos la mitad más uno de los Municipios donde se aprueben los documentos internos que deben proporcionarse de acuerdo a los artículos 40, 41 y 42 de este CODIGO. El notario consignará en acta circunstanciada lo anterior, así como la elección de delegados para la asamblea estatal constitutiva y el número mínimo de partidarios que suscribieron su afiliación. Deberán anotarse el nombre, domicilio y número de CREDENCIAL de cada uno de los asambleístas;
+I.- Que el número mínimo de afiliados sea de al menos el 0.5 por ciento de la LISTA, al momento de solicitar su registro como partido político estatal;
 
-III.- Celebrar una asamblea estatal constitutiva ante la presencia de notario público, el cual certificará:
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-a).- Que concurrieron los delegados electos en las asambleas municipales y que se identificaron debidamente, anotando sus nombres;
+II.- Realizar una asamblea en por lo menos la mitad más uno de los Municipios:
 
-b).- Que se aprobaron los estatutos, programa de acción y declaración de principios del partido;
+a).- Se aprueben los documentos internos que deben proporcionarse de acuerdo a los artículos 40, 41 y 42 de este CÓDIGO.
 
-c).- Que se eligió a un comité estatal u órgano equivalente; y
+b).- Se determine el número de afiliados en dichas asambleas y se elijan los delegados a la Asamblea Estatal Constitutiva.
 
-d).- Que la suma de afiliados que se anotaron en las actas de las asambleas municipales, cumplen con los requisitos de las fracciones I y II de este artículo. Tales actas deberán agregarse a la de la asamblea estatal.
+c).- Se verifique que con las personas mencionadas en el inciso b) se formó la lista de afiliados con el nombre, los apellidos, su residencia y la clave de la credencial.
 
-El plazo para celebrar las asambleas municipales y estatal constitutiva no excederá de 6 meses, contados a partir de la fecha en que se notifique al INSTITUTO su propósito de constituirse en PARTIDO POLITICO.
+d).- Se nombre un representante de los delegados cuyo objetivo será entregar el acta de la Asamblea Municipal en la Asamblea Estatal Constitutiva.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
+Dichas Asambleas deberán llevarse a cabo ante la presencia de un notario público, el cual consignará en acta circunstanciada que lo señalado en los incisos a), b), c) y d) fueron realizados de conformidad con este CÓDIGO, anexando al acta la lista de los asambleístas.
 
-El partido que habiendo perdido su registro nacional, obtengan por lo menos el 1.5% de la votación de Diputados Locales por el principio de mayoría relativa, por este sólo hecho obtendrá su registro como Partido Político Estatal, debiendo cumplir con lo dispuesto en este artículo, en un término de un año a partir del día de la elección.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+III.- Celebrar una Asamblea Estatal Constitutiva ante la presencia de notario público el cual certificará:
+
+a).- Que concurrieron cuando menos las dos terceras partes de los delegados electos en las asambleas municipales y que se identificaron con su CREDENCIAL y anotaron su nombre y clave electoral.
+
+b).- Que acreditaron por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en la fracción II de este artículo.
+
+c).- Que se comprobó la identidad y residencia de los delegados a la asamblea estatal, por medio de la CREDENCIAL.
+
+d).- Que fueron aprobados su declaración de principios, su programa de acción y estatutos por cuando menos el 50% de los delegados nombrados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+e).- Que se eligió un comité estatal u órgano equivalente y;
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+f).- Que se formaron listas nominales de los afiliados en cada una de las actas circunstanciadas que se levantaron en las asambleas municipales con el objeto de satisfacer el requisito del porcentaje mínimo de afiliados exigidos por este Código en la fracción I de este artículo, tales actas deberán agregarse a la de la asamblea estatal.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El plazo para celebrar las asambleas municipales y estatal constitutiva no excederá de 6 meses contados a partir de la fecha en que se notifique al Instituto su propósito de constituirse en partido político.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El partido que habiendo perdido su registro nacional, y hubiese obtenido de su participación en la elección local inmediata anterior de diputados locales por el principio de mayoría relativa una votación de por lo menos el 2% por este sólo hecho obtendrá su registro como partido político estatal, previa solicitud que realice ante el INSTITUTO, dentro de los 15 días siguientes al en que se haya resuelto el último medio de impugnación presentado en dicha elección, y el mismo verifique el cumplimiento del porcentaje señalado, adquiriendo a partir del otorgamiento del registro, todos los derechos, prerrogativas y obligaciones que se establecen en este CÓDIGO.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El partido político estatal que por la circunstancia que se menciona en el párrafo anterior obtenga su registro, en el término de 1 año contado a partir del día de la elección de que se trata, deberá cumplir con lo dispuesto por este artículo. De no hacerlo así, el INSTITUTO previa verificación del incumplimiento de la obligación de que se habla, procederá a la cancelación del registro otorgado y el Instituto político de que se trate, perderá todos los derechos y prerrogativas que este CÓDIGO y la CONSTITUCIÓN establecen.
 
 ###### ARTICULO 44.
 
 El INSTITUTO pagará los honorarios y gastos que origine la intervención de los notarios públicos en los actos que menciona el artículo anterior, a condición de que previamente se solicite así al Secretario Ejecutivo de dicho INSTITUTO.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+La liquidación de los honorarios y gastos se hará previa comprobación de los mismos, y si por cualquier causa imputable al INSTITUTO, no se lograra la constitución del PARTIDO POLÍTICO, dicha organización sufragará los gastos.
 
 ###### ARTICULO 45.
 
@@ -649,9 +719,11 @@ II.- El paquete de actas certificadas de asambleas municipales y estatal constit
 
 III.- La lista nominal de los afiliados en cada uno de los Municipios y clave electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 46.
 
-Dentro de los 30 días siguientes a la presentación de la solicitud, el CONSEJO GENERAL resolverá lo conducente.
+Dentro de los 30 días hábiles siguientes a la presentación de la solicitud, el CONSEJO GENERAL resolverá lo conducente.
 
 De conceder el registro a un PARTIDO POLITICO o cuando haya inscrito la publicación del registro a un partido nacional, el CONSEJO GENERAL lo comunicará a los demás órganos electorales y expedirá al partido la constancia respectiva. En caso de negativa, expresará los fundamentos y motivos que la sustentan.
 
@@ -729,11 +801,17 @@ X.- Incluir en sus estatutos la obligación para sus militantes de guardar respe
 
 XI.- Abstenerse de utilizar símbolos de carácter religioso en su propaganda;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-XII.- Registrar hasta el 70% de candidaturas de un mismo género, a cargos de elección popular, por ambos principios.
+XII.- Registrar hasta el 70% de candidaturas de un mismo género, a los siguientes cargos de elección popular:
 
-El incumplimiento a esta obligación, dará lugar a la negativa por parte de la autoridad electoral competente, del registro oficial de las listas de candidatos; y
+a).- Diputados por el principio de mayoría relativa, considerando para el porcentaje, la suma total de los candidatos que proponga respecto de los distritos de la entidad.
+
+b).- Diputados por el principio de representación proporcional, considerando para el porcentaje la suma de todos los candidatos que se propongan en la circunscripción electoral de que se trata.
+
+c).- Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, considerando para el porcentaje la suma total del número de candidatos.
+
+El incumplimiento a esta obligación, dará lugar a la negativa por parte de la autoridad electoral competente, de la lista de candidatos de mayoría relativa y de representación proporcional; y
 
 XIII.- Las demás que señale este CODIGO.
 
@@ -893,13 +971,17 @@ La propaganda contratada por los PARTIDOS POLITICOS será suspendida 3 días pre
 
 En ningún caso, se permitirá la contratación de propaganda en favor o en contra de algún PARTIDO POLITICO o candidato por parte de terceros.
 
-Veinte días antes de la jornada electoral se suspenderán las campañas de comunicación social en radio y televisión de las acciones especiales de políticas de apoyo social del Gobierno del Estado o Ayuntamientos.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Veinticinco días antes de la jornada electoral se suspenderán las campañas de comunicación social en radio y televisión y medios impresos de las acciones de gobierno en general en los niveles estatal y municipal. La infracción a esta disposición será sancionada por el TRIBUNAL con multa de 2000 días de salario mínimo vigente en la entidad, la cual deberá ser cubierta con recursos propios del funcionario sancionado.
 
 ### CAPITULO VII. DE LAS COALICIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 62.
 
-Los PARTIDOS POLITICOS podrán coaligarse para postular candidaturas de convergencia en las elecciones locales, de conformidad con las siguientes bases:
+Los PARTIDOS POLÍTICOS podrán coaligarse para postular candidaturas de convergencia en las elecciones locales, siempre que hayan participado, cuando menos, en la elección inmediata anterior, de conformidad con las siguientes bases:
 
 I.- El convenio de coalición será el instrumento para postular las candidaturas de convergencia, el cual deberá registrarse ante el CONSEJO GENERAL, por lo menos 15 días antes de la fecha del registro ordinario de candidatos correspondiente.
 
@@ -929,9 +1011,13 @@ III.- La coalición deberá acompañar a la solicitud de registro una plataforma
 
 IV.- La coalición deberá presentar, con la solicitud de registro de las candidaturas de convergencia, la constancia de que las mismas fueron aprobadas por parte de los órganos de gobierno estatales de cada partido coaligado;
 
-V.- La coalición por la que se establezca candidatura de convergencia para la elección de Gobernador del Estado, deberá incluir simultáneamente la postulación de por lo menos un 50% de candidatos de convergencia a Diputados locales de mayoría. Esta coalición tendrá efectos estatales en los rubros de representación ante los órganos electorales, topes de gastos de campaña y distribución de tiempo gratuito en los medios de comunicación propiedad del Gobierno del Estado, como si se tratara de un solo PARTIDO POLITICO;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VI.- La coalición para la elección de Diputados locales deberá registrar como mínimo el 50% de los candidatos elegibles en los distritos. El financiamiento público correspondiente a la obtención del voto, el tope de los gastos de campaña, el acceso gratuito a los medios de comunicación propiedad del Gobierno del Estado y la representación ante los órganos electorales, corresponderá a un solo partido, el cual será el de la mayor fuerza electoral de entre los coaligados.
+V.- La coalición por la que se establezca candidatura de convergencia para la elección de Gobernador del Estado, deberá incluir simultáneamente la postulación de más del 50% de candidatos de convergencia a Diputados locales de mayoría. Esta coalición tendrá efectos estatales en los rubros de representación ante los órganos electorales, topes de gastos de campaña y distribución de tiempo gratuito en los medios de comunicación propiedad del Gobierno del Estado, como si se tratara de un solo PARTIDO POLÍTICO;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
+VI.- La coalición para la elección de Diputados locales deberá registrar más del 50% de los candidatos elegibles en los distritos. El financiamiento público correspondiente a la obtención del voto, el tope de los gastos de campaña, el acceso gratuito a los medios de comunicación propiedad del Gobierno del Estado y la representación ante los órganos electorales, corresponderá a un solo partido, el cual será el de la mayor fuerza electoral de entre los coaligados.
 
 Las disposiciones relativas a la representación unitaria de la coalición en las casillas electorales a que se refieren esta fracción y la anterior, se aplicarán aun cuando los PARTIDOS POLITICOS no se hubiesen coaligado para otras elecciones en el mismo proceso electoral;
 
@@ -969,7 +1055,9 @@ Para que el PARTIDO POLITICO que resulte de la fusión pueda participar en un pr
 
 Son causas de pérdida del registro o inscripción de los PARTIDOS POLITICOS:
 
-I.- Obtener menos del 1.5% de la votación para Diputados por el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+I.- Obtener menos del 2% de la votación para Diputados por el principio de mayoría relativa;
 
 II.- No participar en dos procesos electorales consecutivos para Gobernador o en cuando menos el 50% para Diputados locales y Ayuntamientos, con candidatos propios o en coalición;
 
@@ -983,9 +1071,17 @@ IV.- Haberse fusionado con otro Partido o haber sido declarado disuelto por acue
 
 V.- Incumplir de manera grave y sistemática, a juicio del CONSEJO GENERAL, las obligaciones que señala este CODIGO; y
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VI.- La publicación en el Diario Oficial de la Federación de la resolución que declare la pérdida del registro como Partido Nacional.
+VI.- No presentar comprobación de sus gastos ordinarios y de campaña; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VII.- La publicación en el Diario Oficial de la Federación de la resolución que declare la pérdida del registro como Partido Nacional.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+La pérdida o cancelación de registro de un Partido Político Nacional o Local, tendrá efectos exclusivamente sobre los derechos concedidos al PARTIDO POLÍTICO objeto de la cancelación de registro y las obligaciones relativas a la actividad electoral, más conservará su personalidad jurídica para efectos del cumplimiento de sus obligaciones relativas a la fiscalización del financiamiento público que se les otorgó, así como por la responsabilidad civil y penal en que el partido hubiese incurrido durante su existencia.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -1721,15 +1817,23 @@ l).- En su momento, que las nuevas inscripciones, cambio de domicilio, reposicio
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 145.
 
-El Instituto Electoral del Estado es el organismo público, dotado de personalidad jurídica y patrimonio propios, responsable de la organización, desarrollo, vigilancia y calificación de los procesos electorales.
+El Instituto Electoral del Estado es el organismo público de carácter permanente, dotado de personalidad jurídica y patrimonio propios, responsable de la organización, desarrollo, vigilancia y calificación de los procesos electorales.
 
 El INSTITUTO será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El instituto tendrá la facultad de administrar y ejercer en forma autónoma su presupuesto de egresos, aprobado por el CONGRESO. En este presupuesto se incluirá el financiamiento público a los PARTIDOS POLÍTICOS, el cual estará sujeto a las reglas de asignación establecidas en este ordenamiento.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 146.
 
-El patrimonio del INSTITUTO se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado.
+El patrimonio del INSTITUTO se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado, los cuales deberán ser suministradas con oportunidad.
 
 ###### ARTICULO 147.
 
@@ -1761,13 +1865,31 @@ Las actividades del INSTITUTO se regirán por los principios de certeza, legalid
 
 Para el desempeño de sus actividades el INSTITUTO contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+a).- El órgano de Dirección será el CONSEJO GENERAL;
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+b).- El órgano ejecutivo, que será presidido por el Presidente del CONSEJO GENERAL y se integrará con el Secretario Ejecutivo, el Director de Registro Estatal de Electores, si estuviera en funciones y los Vocales del INSTITUTO.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+c).- El órgano técnico será la Dirección del Registro Estatal de Electores y se integrará de acuerdo con el artículo 75 de este Código, y
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+d).- El órgano de vigilancia estará integrado por 3 Consejeros Propietarios del CONSEJO GENERAL y un representante de cada uno de los PARTIDOS POLITICOS.
+
 Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral; el ingreso, capacitación, promoción, funciones, derechos y obligaciones de dicho personal serán reguladas por las disposiciones de este CODIGO y las del estatuto correspondiente que apruebe el CONGRESO, a propuesta del CONSEJO GENERAL.
 
 ###### ARTICULO 150.
 
 El INSTITUTO tendrá su domicilio en la capital del Estado y ejercerá sus funciones en todo el territorio estatal a través de sus órganos.
 
-## TITULO SEGUNDO. DE LOS ORGANOS CENTRALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JULIO DE 2002)</small>
+
+## TITULO SEGUNDO. DE LOS ORGANOS CENTRALES DEL INSTITUTO
 
 ### CAPITULO I. DE LA INTEGRACION DEL CONSEJO GENERAL ELECTORAL
 
@@ -1775,9 +1897,13 @@ El INSTITUTO tendrá su domicilio en la capital del Estado y ejercerá sus funci
 
 El CONSEJO GENERAL es el órgano superior de dirección del INSTITUTO y se integrará por:
 
-I.- Siete Consejeros Electorales propietarios y 3 suplentes; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- Un representante propietario y suplente por cada uno de los PARTIDOS POLITICOS, con el carácter de Comisionado.
+I.- Siete Consejeros Electorales propietarios en funciones y 3 suplentes; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+II.- Un representante propietario o el suplente, en su caso por cada uno de los PARTIDOS POLITICOS, con el carácter de Comisionado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -1789,21 +1915,27 @@ Los Consejeros Electorales serán electos por el CONGRESO en el mes de octubre d
 
 Los Consejeros Electorales durarán en su cargo siete años, estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCIÓN y rendirán la protesta de ley ante el CONGRESO.
 
-Los Consejeros tendrán derecho a voz y voto.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Los Consejeros propietarios tendrán derecho a voz y voto.
 
 > <small>(ADICIONADO, P.O. 16 JUNIO DE 2001)</small>
 
 Si a la conclusión del período legal del cargo de Consejero a que se refiere este artículo, el CONGRESO no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el mismo hasta que tome posesión el que lo sustituya.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 153.
 
-El CONSEJO GENERAL contará con un Presidente que será uno de los Consejeros Electorales, electo por un mínimo de 4 votos de los demás Consejeros, y un Secretario Ejecutivo, que será también un Consejero Electoral electo por las dos terceras partes del CONSEJO GENERAL, a propuesta de su Presidente. Ambos funcionarios durarán en su encargo 4 años, pudiendo ser reelectos para completar el resto del período.
+El CONSEJO GENERAL contará con un Presidente que será uno de los Consejeros Electorales, electo por un mínimo de 5 votos de los demás Consejeros, y un Secretario Ejecutivo, que será un Consejero Electoral, electo por 5 votos por parte del CONSEJO GENERAL, a propuesta de su Presidente. Ambos funcionarios durarán en su encargo 4 años o hasta terminar el periodo, pudiendo ser electos o reelectos para completar el segundo periodo de 3 años.
 
 ###### ARTICULO 154.
 
 Los Consejeros Electorales deberán reunir los siguientes requisitos:
 
-I.- Ser mexicanos por nacimiento y vecinos de la entidad, con una residencia efectiva acreditada de por lo menos 5 años anteriores a su elección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002 )</small>
+
+I.- Ser mexicanos por nacimiento y vecinos de la entidad, con una residencia efectiva acreditada de por lo menos 5 años anteriores a la fecha de su elección;
 
 II.- No tener menos de 25 años de edad al día de la elección;
 
@@ -1811,17 +1943,29 @@ III.- Estar en pleno ejercicio de sus derechos civiles y políticos;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena por más de un año de prisión, pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-V.- Estar inscrito en el Padrón Electoral y contar con CREDENCIAL;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VI.- Poseer al día de la elección, título profesional expedido por institución legalmente facultada para ello;
+V.- Estar inscrito en el Padrón Electoral y contar con CREDENCIAL vigente.
 
-VII.- No haber tenido cargo alguno de elección popular ni haber sido postulado como candidato en los 5 años anteriores a su nombramiento;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VIII.- No haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales de algún PARTIDO POLITICO o de algún organismo, institución, colegio o agrupación ciudadana afiliada a algún PARTIDO POLITICO en los últimos 3 años anteriores a su elección;
+VI.- Poseer al día de su elección, título profesional expedido por institución legalmente facultada para ello.
 
-IX.- No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretario de Gobierno, Oficial Mayor o Procurador General de Justicia; ni Presidente Municipal, Secretario, Tesorero u Oficial Mayor de un Ayuntamiento, en el año anterior a su designación; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-X.- No ser ni haber sido ministro de culto religioso alguno, en los últimos 5 años anteriores a su nombramiento.
+VII.- No haber tenido cargo alguno de elección popular ni haber sido postulado como candidato en los 5 años anteriores a la fecha de su nombramiento.
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VIII.- No haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales de algún PARTIDO POLÍTICO o de algún organismo, institución, colegio o agrupación ciudadana afiliada a algún PARTIDO POLÍTICO en los 3 años anteriores a la fecha de su elección;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+IX.- No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretario de Gobierno, Oficial Mayor o Procurador General de Justicia; ni Presidente Municipal, Secretario, Tesorero u Oficial Mayor de un Ayuntamiento, en el año anterior a la fecha de su designación; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+X.- No ser ni haber sido ministro de culto religioso alguno, en los 5 años anteriores a la fecha de su nombramiento.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -1829,13 +1973,15 @@ X.- No ser ni haber sido ministro de culto religioso alguno, en los últimos 5 a
 
 La retribución que reciban los Consejeros Electorales y los demás servidores públicos del INSTITUTO, será la prevista en su presupuesto anual de egresos aprobado por el CONGRESO.
 
-Siempre que los Consejeros Electorales desempeñen la función de vocales, la retribución mensual que perciban será en salarios mínimos generales vigentes en la zona económica: para el Consejero Presidente, el Secretario Ejecutivo y los Consejeros Electorales, el equivalente a 650, 600 y 500, respectivamente.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
+Los Consejeros Electorales percibirán la retribución mensual en salarios mínimos generales vigentes en la zona económica del Estado: para el Consejero Presidente, el Secretario Ejecutivo y los Consejeros Electorales, el equivalente a 950, 650 y 550, respectivamente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 156.
 
-Los Consejeros Electorales desempeñarán su función con eficiencia, autonomía, independencia e imparcialidad.
+Los Consejeros Electorales desempeñarán su función con eficiencia, autonomía y profesionalismo.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -1865,15 +2011,27 @@ Para que el CONSEJO GENERAL pueda sesionar, deberán estar presentes la mayoría
 
 En caso de que no se reúna el quórum establecido en el párrafo anterior, la sesión tendrá lugar dentro de las 24 horas siguientes con los Consejeros que asistan. Si cumplido este plazo no se presentara el Presidente a la sesión, uno de los Consejeros Electorales lo sustituirá y ejercerá la Presidencia del CONSEJO GENERAL mientras persista la ausencia del Presidente, si ésta es temporal o, en caso de ser definitiva, hasta la designación de quien lo sustituya. La falta temporal del Presidente no excederá de 30 días.
 
-La falta de un Consejero Electoral a 2 sesiones consecutivas sin causa justificada, dará lugar a que se llame al suplente, quien sustituirá la falta por todo el resto del proceso electoral, dejando de percibir el propietario el sueldo correspondiente.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
+La falta de un Consejero Electoral a dos sesiones consecutivas o tres no consecutivas sin causa justificada, en el periodo de un año, dará lugar a que se llame al suplente, quien lo sustituirá por el resto del periodo para el que fue electo, dejando de percibir el primero el sueldo correspondiente.
 
-En caso de renuncia o fallecimiento de un Consejero Electoral, se procederá a designar de entre los suplentes a aquél que habrá de sustituirlo, debiendo ser electo por el voto de las dos terceras partes de los integrantes del CONSEJO GENERAL.
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+De igual forma, al estar los consejeros obligados a un desempeño permanente, se sancionará con el mismo efecto sustitutivo a quien falte a sus responsabilidades cotidianas sin causa justificada por cuatro días consecutivos, o bien seis no consecutivos en el transcurso de un año.
 
-Las resoluciones serán tomadas por mayoría de votos, salvo las que por ley requieran de las dos terceras partes de los votos de los integrantes del CONSEJO GENERAL.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+En caso de renuncia o fallecimiento de un Consejero Electoral Propietario, se procederá a designar de entre los suplentes a aquél que habrá de sustituirlo, debiendo ser electo por la mayoría calificada de los presentes en la sesión del CONSEJO GENERAL.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+A falta de suplentes, el CONGRESO, procederá a elegirlos de conformidad con el procedimiento establecido, quienes cubrirán el resto del periodo.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Las resoluciones serán tomadas por la mayoría de votos, salvo las que la ley requiera votación distinta.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 El Secretario Ejecutivo levantará las actas de las sesiones y tendrá a su cargo el archivo del INSTITUTO.
 
@@ -2001,7 +2159,9 @@ XLII.- Contratar personal eventual y permanente para apoyar las actividades del 
 
 XLIII.- Apoyar la realización de debates públicos, siempre y cuando haya acuerdo entre partidos y candidatos;
 
-XLIV.- Regular las encuestas y sondeos previos a la jornada electoral, así como los conteos rápidos relacionados con resultados electorales, adoptando principios técnicos y metodológicos generalmente aceptados en la materia; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+XLIV.- Aprobar el Reglamento que regule las encuestas y sondeos previos a la jornada electoral, así como los conteos rápidos relacionados con resultados electorales y las sanciones correspondientes; y
 
 XLV.- Las demás que le señalen este CODIGO, los reglamentos interiores y otras disposiciones.
 
@@ -2011,7 +2171,9 @@ XLV.- Las demás que le señalen este CODIGO, los reglamentos interiores y otras
 
 Son atribuciones del Presidente del INSTITUTO:
 
-I.- Convocar y presidir las sesiones del CONSEJO GENERAL;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+I.- Convocar y presidir las sesiones del CONSEJO GENERAL, representar al INSTITUTO ante toda clase de autoridades y otorgar poder de representación a otra persona previa autorización del CONSEJO;
 
 II.- Convocar a reuniones a los CONSEJOS MUNICIPALES;
 
@@ -2023,9 +2185,9 @@ V.- Vigilar el cumplimiento de los acuerdos del CONSEJO GENERAL;
 
 VI.- Supervisar la instalación de los CONSEJOS MUNICIPALES;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VII.- Someter oportunamente a la consideración del CONSEJO GENERAL el anteproyecto del Presupuesto Anual de Egresos del INSTITUTO;
+VII.- Someter oportunamente a la consideración del CONSEJO GENERAL el anteproyecto del presupuesto anual de egresos del INSTITUTO. Una vez aprobado por el CONSEJO GENERAL, dicho proyecto de presupuesto deberá ser remitido al CONGRESO para su análisis y aprobación, en su caso, en términos de lo dispuesto por el artículo 166 fracción XI, de este CÓDIGO. De igual forma, el Presidente deberá remitir el presupuesto referido al titular del Poder Ejecutivo para su inclusión dentro del presupuesto de egresos del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -2037,7 +2199,9 @@ IX.- Las demás que le confieran este CODIGO y los Reglamentos del INSTITUTO.
 
 Son atribuciones de los Consejeros Electorales:
 
-I.- Asistir a las sesiones del CONSEJO GENERAL y participar en sus deliberaciones;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+I.- Asistir a las sesiones del CONSEJO GENERAL, participar en sus deliberaciones y votar los acuerdos y resoluciones;
 
 II.- Conducir sus actividades con probidad, honradez e independencia de criterio;
 
@@ -2087,27 +2251,31 @@ XII.- Las demás que le señalen este CODIGO, el CONSEJO GENERAL, el Presidente 
 
 ### CAPITULO IV. DE LAS VOCALIAS
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 167.
 
-El INSTITUTO contará con 5 Vocalías, que serán las siguientes:
+El INSTITUTO contará con 3 Vocalías, que serán las siguientes:
 
-I.- De Prerrogativas y Partidos Políticos;
+I.- De Organización Electoral;
 
-II.- De Organización Electoral;
+II.- De Educación Cívica, Capacitación y Servicio Profesional Electoral;
 
-III.- Del Servicio Profesional Electoral;
+III.- De Administración y Prerrogativas a Partidos Políticos.
 
-IV.- De Capacitación Electoral y Educación Cívica; y
+Contará además con las Direcciones Ejecutivas que el CONSEJO GENERAL considere necesarias para el óptimo y eficaz funcionamiento del Instituto.
 
-V.- De Administración.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 168.
 
-Al frente de cada Vocalía habrá un Vocal, que deberá reunir los mismos requisitos que señala el artículo 154 de este CODIGO y que será designado por el CONSEJO GENERAL, a propuesta en ternas de su Presidente.
+Al frente de cada Vocalía habrá un Vocal, el cual no deberá ser Consejero Electoral; y deberá reunir los mismos requisitos que señala el artículo 154 de este CÓDIGO. Será designado por el CONSEJO GENERAL, a propuesta en ternas de su Presidente.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 169.
 
-Las atribuciones de las Vocalías se establecerán en el estatuto correspondiente que apruebe el CONSEJO GENERAL.
+Las atribuciones de las Vocalías se establecerán en el reglamento correspondiente que apruebe el CONSEJO GENERAL.
 
 ## TITULO TERCERO. DE LOS ORGANOS MUNICIPALES
 
@@ -2117,9 +2285,11 @@ Las atribuciones de las Vocalías se establecerán en el estatuto correspondient
 
 Los Consejos Municipales Electorales son órganos dependientes del INSTITUTO, encargados de preparar, desarrollar y vigilar los procesos electorales para Gobernador, Diputados al CONGRESO y Ayuntamientos, en sus respectivas demarcaciones territoriales, en los términos de la CONSTITUCION, este CODIGO y demás disposiciones relativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 171.
 
-En cada una de las cabeceras municipales funcionará un CONSEJO MUNICIPAL. Cada CONSEJO MUNICIPAL se integrará por:
+En cada una de las cabeceras municipales funcionará un CONSEJO MUNICIPAL ELECTORAL que se integrará por:
 
 I.- Cinco Consejeros Electorales propietarios y 2 suplentes; y
 
@@ -2261,6 +2431,10 @@ Las percepciones señaladas anteriormente, así como los gastos que origine el f
 
 El Presidente del INSTITUTO, con la aprobación del CONSEJO GENERAL, suscribirá con los Ayuntamientos, los convenios correspondientes para que los Municipios apoyen las actividades de los CONSEJOS MUNICIPALES en sus respectivos ámbitos de competencia. Los apoyos quedarán consignados en el presupuesto de egresos de cada Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+La falta de un Consejero Electoral Municipal a dos sesiones consecutivas o tres no consecutivas sin causa justificada, en el periodo de un año, dará lugar a que se llame al suplente, quien lo sustituirá por el resto del periodo para el que fue electo, dejando de percibir el primero el sueldo correspondiente.
+
 ### CAPITULO II. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 180.
@@ -2283,7 +2457,11 @@ Se integrarán con un presidente, un secretario, 2 escrutadores y tres suplentes
 
 Los presidentes de los CONSEJOS MUNICIPALES tomarán las medidas necesarias a fin de que los ciudadanos designados para integrar las mesas directivas de casilla, reciban oportunamente la capacitación necesaria para el desempeño de sus (sic) tarea.
 
-En los cursos de capacitación a los funcionarios de las mesas directivas de casilla deberá incluirse la explicación relativa a los observadores electorales, en particular lo referido a los derechos y obligaciones de los mismos.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+En los cursos de capacitación a los funcionarios de las mesas directivas de casilla deberá incluirse la explicación relativa a los derechos y obligaciones de los observadores electorales y representantes de los PARTIDOS POLÍTICOS, en particular lo que se refiere a los derechos y obligaciones de los mismos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 184.
 
@@ -2311,7 +2489,9 @@ a).- Vigilar el cumplimiento de este CODIGO sobre los aspectos relativos al func
 
 b).- Recibir de los presidentes de los CONSEJOS MUNICIPALES, la documentación electoral, formas aprobadas y elementos necesarios para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación;
 
-c).- Proceder a la identificación de los electores;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+c).- Proceder a la identificación de los electores, dándola a conocer en voz alta a los representantes de los PARTIDOS POLÍTICOS;
 
 d).- Mantener el orden en el interior y en el exterior de la casilla, con el auxilio de la fuerza pública si fuese necesario;
 
@@ -2339,7 +2519,9 @@ c).- Comprobar que el nombre del elector figure en la lista nominal correspondie
 
 d).- Recibir los escritos de protesta que presenten los representantes de los PARTIDOS POLITICOS;
 
-e).- Inutilizar las boletas sobrantes de conformidad con lo dispuesto por este CODIGO; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+e).- Contar e inutilizar las boletas sobrantes de conformidad con lo dispuesto por este CÓDIGO; y
 
 f).- Las demás que les confiera el presente ordenamiento;
 
@@ -2379,7 +2561,9 @@ Los Presidentes de los CONSEJOS MUNICIPALES notificarán al CONSEJO GENERAL de c
 
 Los CONSEJOS MUNICIPALES, dentro de las 24 horas siguientes a su instalación, remitirán copias del acta respectiva al Presidente del INSTITUTO. En forma idéntica procederán respecto de las subsecuentes sesiones.
 
-A solicitud de los representantes de los partidos políticos, acreditados ante los CONSEJOS GENERAL y MUNICIPALES, se expedirán copias certificadas de las actas de sesiones celebradas por ellos, a mas tardar cinco días después de haberse aprobado aquellas. Los Secretarios de los CONSEJOS serán responsables por la inobserancia (sic) de esta disposición.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+A solicitud de los representantes de los PARTIDOS POLÍTICOS, acreditados ante los CONSEJOS GENERAL o MUNICIPALES, se expedirán copias certificadas de las actas de sesiones celebradas por ellos, a más tardar a las cuarenta y ocho horas después de haberse aprobado aquéllas. Los Secretarios de los CONSEJOS serán responsables por la inobservancia de esta disposición.
 
 ###### ARTICULO 189.
 
@@ -2505,7 +2689,15 @@ VI.- Cargo para el que se postula; y
 
 VII.- Denominación, color o combinación de colores y emblema del PARTIDO POLITICO o coalición que lo postula.
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, así como de la documentación que acredite plenamente que el candidato cumple con los requisitos que establecen la CONSTITUCION y este CODIGO, además de la constancia de que su partido o coalición cumplió con lo establecido en las fracciones IV y VII del artículo 49 de este ordenamiento.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+La solicitud deberá acompañarse de:
+
+a).- Declaración de aceptación de la candidatura;
+
+b).- Documentación que acredite que cumple con los requisitos de elegibilidad;
+
+c).- Constancia de que su PARTIDO o coalición cumplió con lo establecido en el artículo 49 en sus fracciones IV, VII, VIII Y XII de este ordenamiento.
 
 ###### ARTICULO 201.
 
@@ -2513,7 +2705,9 @@ Para el registro de las listas de candidatos para Diputados por el principio de 
 
 I.- La plataforma electoral a que se refiere el artículo 197 y cumplió con lo establecido en la fracción VIII del artículo 49 de este CODIGO;
 
-II.- Los candidatos a Diputados por el principio de mayoría relativa en cuando menos el 50% de los distritos electorales; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+II.- Los candidatos a diputados por el principio de mayoría relativa en más del 50% de los distritos electorales y haber cumplido con la fracción XII del artículo 49 de este CÓDIGO; y
 
 III.- Asimismo, que presenta listas completas de candidatos a Diputados por el principio de representación proporcional.
 
@@ -2521,13 +2715,17 @@ III.- Asimismo, que presenta listas completas de candidatos a Diputados por el p
 
 Al recibirse una solicitud de registro de candidatura, el Presidente o el Secretario Ejecutivo del Consejo que corresponda, asentará mediante reloj checador la hora en que ésta se reciba. Dentro de las 24 horas siguientes, verificarán que se cumplió con todos los requisitos señalados en los artículos anteriores.
 
-Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido o coalición correspondiente para que, dentro de las 48 horas siguientes, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 198 del presente CODIGO.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido o coalición correspondiente para que, dentro de las 48 horas siguientes, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 198 del presente CÓDIGO. En caso de solicitud de registro de candidaturas a diputado local, por el principio de mayoría relativa, inmediatamente que se reciba la solicitud deberá comunicarse al CONSEJO GENERAL, para la verificación del requisito a que se refiere el artículo 49 fracción XII de este CÓDIGO. De haber omisión se notificará de inmediato al PARTIDO POLÍTICO para los efectos señalados en este párrafo.
 
 El Presidente o Secretario Ejecutivo del Consejo que corresponda, deberán permanecer en sus respectivas oficinas hasta las 24 horas del último día de cada uno de los plazos a que se refiere el artículo 198 de este CODIGO.
 
 Cualquier solicitud o documentación que se presente fuera de dichos plazos será desechada de plano y no se registrará la o las candidaturas.
 
-Dentro de los 3 días siguientes al vencimiento de los plazos referidos, los CONSEJOS GENERAL y MUNICIPALES celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan. Los CONSEJOS MUNICIPALES comunicarán inmediatamente al CONSEJO GENERAL el acuerdo relativo al registro de candidaturas, fórmulas o planillas que hayan realizado.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Los CONSEJOS MUNICIPALES dentro de las 48 horas siguientes al vencimiento del plazo mencionado, celebrarán una sesión con el único objeto de registrar las candidaturas que procedan y comunicarán inmediatamente al CONSEJO GENERAL el acuerdo relativo al registro de candidaturas, fórmulas o planillas que hayan realizado. El CONSEJO GENERAL dentro de los 3 días siguientes al vencimiento de los plazos referidos, celebrará una sesión cuyo único objeto será registrar las candidaturas que procedan.
 
 Al concluir la sesión del CONSEJO GENERAL, el Presidente hará pública la conclusión del registro de candidaturas, fórmulas o planillas, dando a conocer los nombres de los candidatos o de la integración de las fórmulas o planillas registrados, y de aquellos que no cumplieron con los requisitos.
 
@@ -2535,11 +2733,15 @@ Al concluir la sesión del CONSEJO GENERAL, el Presidente hará pública la conc
 
 A los PARTIDOS POLITICOS o coaliciones que no registren la lista completa de candidatos a Diputados por el principio de representación proporcional les serán cancelados los registros de candidatos a Diputados por el principio de mayoría relativa.
 
-Igualmente, se cancelará el registro de candidato a Gobernador al PARTIDO POLITICO que no registre candidatos a Diputados por el principio de mayoría relativa en cuando menos el 50% de los distritos.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Igualmente, se cancelará el registro de candidato a Gobernador al PARTIDO POLÍTICO que no registre candidatos a Diputados por el principio de mayoría relativa en más del 50% de los distritos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 204.
 
-La sustitución de candidatos deberán solicitarla por escrito los PARTIDOS POLITICOS o coaliciones al Consejo que corresponda, observando las siguientes disposiciones:
+La sustitución de candidatos deberán solicitarla por escrito los PARTIDOS POLÍTICOS o coaliciones al Consejo que corresponda, observando las siguientes disposiciones:
 
 I.- Dentro del plazo establecido para solicitar el registro de candidatos, podrán sustituirse libremente;
 
@@ -2547,9 +2749,11 @@ II.- Concluido el plazo para el registro, solo por acuerdo del CONSEJO GENERAL p
 
 III.- La sustitución se podrá hacer mediante una solicitud al CONSEJO GENERAL. En este supuesto se observará, en su caso, lo previsto en el artículo 240 de este CODIGO.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 205.
 
-El CONSEJO GENERAL mandará publicar en el Periódico Oficial del Estado, la relación de nombres de los candidatos y los PARTIDOS POLITICOS o coaliciones que lo postulan. De igual manera se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
+El CONSEJO GENERAL mandará publicar en el Periódico Oficial del Estado, la relación de nombres de los candidatos y los PARTIDOS POLÍTICOS o coaliciones que lo postulan. De igual manera se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
 
 ### CAPITULO II. DE LAS CAMPAÑAS ELECTORALES
 
@@ -2605,9 +2809,17 @@ II.- En cada Municipio, los CONSEJOS MUNICIPALES, previa autorización del Ayunt
 
 III.- Los CONSEJOS MUNICIPALES convendrán con las autoridades municipales, las bases y procedimientos a los que se sujetará la fijación de propaganda en lugares de uso común o de acceso público, así como el uso de altavoces y otros medios de comunicación masiva. La colocación de propaganda escrita en bardas propiedad del Estado o Municipios se distribuirá por los CONSEJOS MUNICIPALES, de manera equitativa conforme al procedimiento que los propios Consejos determinen. Las autoridades estatales y municipales pondrán las bardas limpias de propaganda a disposición de los CONSEJOS MUNICIPALES;
 
-IV.- La propaganda no podrá fijarse o inscribirse en los edificios públicos, así como en los monumentos o edificios artísticos o de interés histórico o cultural. En los locales o bardas de propiedad privada sólo podrá hacerse con la autorización por escrito del propietario o de quien tenga la facultad para otorgarla. Cuando se requiera dicha autorización, será presentada al Secretario Ejecutivo del CONSEJO MUNICIPAL; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-V.- La propaganda no deberá modificar el paisaje, colocarse o fijarse en árboles ni en elementos de equipamiento urbano, carretero o ferroviario, ni en accidentes orográficos tales como cerros, colinas, barrancas, montañas y otros similares. Tampoco podrán emplearse sustancias tóxicas ni materiales que produzcan un riesgo directo para la salud de las personas o que contaminen el medio ambiente.
+IV.- La propaganda no podrá fijarse o inscribirse en los edificios públicos, así como en los monumentos o edificios artísticos o de interés histórico o cultural. En los locales o bardas de propiedad privada sólo podrá hacerse con la autorización por escrito del propietario o de quien tenga la facultad para otorgarla. Cuando se requiera dicha autorización, será presentada al Secretario Ejecutivo del CONSEJO MUNICIPAL;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+V.- La propaganda no deberá modificar el paisaje, colocarse o fijarse en árboles ni en elementos de equipamiento urbano, carretero o ferroviario, ni en accidentes orográficos tales como cerros, colinas, barrancas, montañas y otros similares. Tampoco podrán emplearse sustancias tóxicas ni materiales que produzcan un riesgo directo para la salud de las personas o que contaminen el medio ambiente; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VI.- La propaganda deberá ser retirada por los PARTIDOS POLÍTICOS antes de la fecha en que tomen posesión los funcionarios electos.
 
 ###### ARTICULO 213.
 
@@ -2669,11 +2881,13 @@ III.- Para la elección de Ayuntamientos, a más tardar el 28 de febrero del añ
 
 a).- Los topes máximos para gastos de campaña para cada planilla de candidatos, serán los correspondientes a cada uno de los distritos que comprendan los Municipios respectivos. En el caso de que un Municipio comprenda 2 ó más distritos, será el resultado de la suma de los mismos.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 220.
 
-Cada PARTIDO POLITICO sólo podrá erogar gastos de propaganda en prensa, radio y televisión, hasta el 25% del total del financiamiento público que le corresponda en el año de la elección.
+Cada PARTIDO POLÍTICO sólo podrá erogar gastos de propaganda en prensa, radio y televisión, hasta el 35% del total del financiamiento público que le corresponda en el año de la elección.
 
-Cada PARTIDO POLITICO tendrá que destinar el 50% de las erogaciones que realice para propaganda en radio y televisión en programas para la difusión de su plataforma electoral, la promoción de sus candidatos, así como para el análisis de los temas de interés nacional y su posición frente a ellos.
+Cada PARTIDO POLÍTICO tendrá que destinar el 50% de las erogaciones que realice para propaganda en cualquier sistema de comunicación en programas para la difusión de su plataforma electoral, la promoción de sus candidatos, así como para el análisis de los temas de interés nacional y su posición frente a ellos.
 
 ###### ARTICULO 221.
 
@@ -2681,7 +2895,9 @@ Cada PARTIDO POLITICO deberá rendir al CONSEJO GENERAL 2 informes preliminares 
 
 Noventa días después de la jornada electoral, los PARTIDOS POLITICOS rendirán ante el CONSEJO GENERAL un informe anual de cada uno de sus gastos de campaña. La comisión de Consejeros Electorales designada conforme al artículo 165 de este CODIGO, procederá a la revisión correspondiente, en un plazo máximo de 120 días. A más tardar el 30 de marzo del año siguiente al de la elección, el CONSEJO GENERAL analizará y aprobará, en su caso, los dictámenes elaborados por dicha comisión.
 
-El PARTIDO POLITICO que no compruebe la erogación total de sus gastos de campaña, devolverá al CONSEJO GENERAL la parte no erogada.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El PARTIDO POLÍTICO que no compruebe la erogación total de sus gastos de campaña, devolverá al CONSEJO GENERAL la parte no erogada. Los PARTIDOS POLÍTICOS que pierdan su registro, atenderán lo dispuesto en el artículo 65 de este CÓDIGO y en su caso, la multa que les fuere impuesta.
 
 ### CAPITULO V. DEL REGISTRO DE REPRESENTANTES
 
@@ -3075,9 +3291,13 @@ Recibida la comunicación que antecede, el CONSEJO MUNICIPAL decidirá si se rea
 
 Los electores votarán en el orden que se presenten ante la mesa directiva de casilla, debiendo exhibir su CREDENCIAL y mostrar su dedo pulgar derecho para verificar que no han votado.
 
-El presidente de la mesa se cerciorará de que el nombre y la fotografía que aparecen en la CREDENCIAL, figura y corresponde, respectivamente, a los de la LISTA.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
-El presidente de la mesa permitirá emitir su voto a aquellos ciudadanos cuya CREDENCIAL contenga errores de seccionamiento, pero que se encuentren en la LISTA correspondiente a su domicilio. Si el elector no aparece en la LISTA, estará impedido para votar, salvo prueba en contrario.
+El presidente de la mesa se cerciorará de que el nombre y la fotografía que aparecen en la CREDENCIAL, figura y corresponde, respectivamente, a los de la LISTA y anunciará su nombre en voz alta.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El presidente de la mesa permitirá emitir su voto a aquellos ciudadanos cuya CREDENCIAL contenga errores de seccionamiento, pero que se encuentren en la LISTA correspondiente a su domicilio. Si el elector no aparece en la LISTA, estará impedido para votar, salvo el caso de los representantes de PARTIDOS POLÍTICOS o Coaliciones y de aquel elector que exhiba copia certificada de los puntos resolutivos del fallo dictado en un juicio para la protección de los derechos políticos-electorales de ciudadanos que le reconozca la vigencia de dichos derechos y que además exhiba una identificación para que los funcionarios electorales permitan que el elector ejerza su derecho al sufragio.
 
 En el caso referido en el párrafo anterior, los presidentes de casilla, además de identificar a los electores en los términos de este CODIGO, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen más efectivo.
 
@@ -3261,9 +3481,13 @@ II.- El número total de las boletas sobrantes que fueron inutilizadas;
 
 III.- El número de votos nulos, que en ningún caso deberán sumarse al de las boletas sobrantes;
 
-IV.- La relación suscinta (sic) de los incidentes ocurridos durante el escrutinio y computación;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-V.- La relación de escritos de protestas presentados por los representantes de los PARTIDOS POLITICOS al término del escrutinio y computación; y
+IV.- La relación suscinta de los incidentes ocurridos durante el escrutinio y computo;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+V.- La relación de escritos de protestas presentados por los representantes de los PARTIDOS POLÍTICOS al término del escrutinio y computo; y
 
 VI.- Las causas invocadas por los representantes de los PARTIDOS POLITICOS para firmar bajo protesta el acta.
 
@@ -3273,19 +3497,27 @@ El acta final de escrutinio y cómputo para cada elección no se concluirá hast
 
 Si se encontrasen boletas de una elección en la urna correspondiente a la de otra, se procederá como sigue:
 
-I.- Al término del escrutinio y computación que se esté practicando se hará el que corresponda a esas boletas; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- Se anotarán los resultados en el espacio previsto para este caso, en el acta final de escrutinio y computación de la elección respectiva a fin de sumarlos a los resultados que se obtengan en ella.
+I.- Al término del escrutinio y computo que se esté practicando se hará el que corresponda a esas boletas; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+II.- Se anotarán los resultados en el espacio previsto para este caso, en el acta final de escrutinio y computo de la elección respectiva a fin de sumarlos a los resultados que se obtengan en ella.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 278.
 
-Concluido el escrutinio y computación de cada una de las votaciones, se levantará el acta correspondiente, la que firmarán sin excepción todos los funcionarios y representantes de partido o coalición, quienes podrán firmar bajo protesta haciendo mención de la causa que lo motiva.
+Concluido el escrutinio y computo de cada una de las votaciones, se levantará el acta correspondiente, la que firmarán sin excepción todos los funcionarios y representantes de partido o coalición, quienes podrán firmar bajo protesta haciendo mención de la causa que lo motiva.
 
 La negativa manifiesta de representantes a firmar esta acta dejará sin materia los escritos de protesta que en su contra presenten.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 279.
 
-Al término del escrutinio y computación de cada una de las elecciones, se formará un expediente de casilla con la documentación siguiente:
+Al término del escrutinio y computo de cada una de las elecciones, se formará un expediente de casilla con la documentación siguiente:
 
 I.- Un ejemplar del acta de la jornada electoral;
 
@@ -3413,6 +3645,8 @@ VI.- Enviar al TRIBUNAL los escritos de protesta que se hubiesen presentado y la
 
 ### CAPITULO III. DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 292.
 
 El cómputo municipal de la votación para la elección de Gobernador del Estado, se realizará por los CONSEJOS MUNICIPALES observando, en lo conducente, el procedimiento señalado en el artículo 298 de este ordenamiento.
@@ -3441,13 +3675,17 @@ Durante los 3 días siguientes a la sesión que señala el artículo anterior, e
 
 ###### ARTICULO 296.
 
-Corresponde al TRIBUNAL, de acuerdo con lo estipulado en el inciso a) de la fracción VI del artículo 86 Bis de la CONSTITUCION, el cómputo final de la elección de Gobernador del Estado, la declaración de validez de la elección y la de Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos en el Estado. Dichas funciones deberá realizarlas dentro de los 3 días siguientes al en que concluyó el plazo para interponer recursos.
+Corresponde al TRIBUNAL, de acuerdo con lo estipulado en el inciso a) de la fracción VI del artículo 86 Bis de la CONSTITUCIÓN, el cómputo final de la elección de Gobernador del Estado, la declaración de validez de la elección y la de Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos en el Estado. Dichas funciones deberá realizarlas dentro de los 3 días siguientes al en que concluyó el plazo para interponer recursos.
 
-De presentarse impugnaciones, el TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte el auto de admisión correspondiente, para substanciarlos y resolverlos.
+De presentarse impugnaciones, el TRIBUNAL dispondrá de 3 días, para admitir o desechar los recursos y 15 días contados a partir del día siguiente al en que se dicte la admisión correspondiente, para substanciarlos y resolverlos.
 
-Dentro de las 24 horas siguientes, el TRIBUNAL enviará al CONGRESO la documentación en la que consten las resoluciones a que se refiere este artículo.
+Hecho lo anterior procederá a realizar el cómputo final de la elección y la de Gobernador Electo, así como a efectuar la entrega de la constancia al candidato vencedor dentro de los 3 días siguientes.
 
-En caso de que se presente la hipótesis prevista por la fracción IV del artículo 99 de la CONSTITUCION FEDERAL, el CONGRESO suspenderá los actos a que se refiere el artículo siguiente, hasta en tanto el Tribunal Electoral del Poder Judicial Federal resuelve lo conducente.
+Si no se presentaren recursos, las funciones previstas en el primer párrafo del presente artículo, las realizará el TRIBUNAL dentro de los 3 siguientes al en que reciba el expediente de la elección.
+
+Dentro de las 24 horas siguientes, el TRIBUNAL enviará al CONGRESO la resolución en la que conste los resultados del cómputo final, la declaración de validez y la de Gobernador Electo, para los efectos previstos en el artículo 297 del presente ordenamiento.
+
+En caso de que se presente la hipótesis prevista por la fracción IV del artículo 99 de la CONSTITUCIÓN FEDERAL, el CONGRESO suspenderá los actos a que se refiere el artículo siguiente, hasta en tanto el Tribunal Electoral del Poder Judicial de la Federación resuelve lo conducente.
 
 ###### ARTICULO 297.
 
@@ -3463,7 +3701,9 @@ El cómputo distrital de la votación para Diputados uninominales, se sujetará 
 
 1.- Se abrirán los paquetes de esta elección siguiendo el orden numérico de las casillas; se cotejarán los resultados de las actas de escrutinio y computación contenidas en los paquetes, con los resultados de las mismas actas que obren en poder del Presidente del CONSEJO MUNICIPAL; y cuando los resultados de ambas actas coincidan, se tomará nota de ello.
 
-2.- Cuando los resultados de las actas no coincidan o no exista acta final de escrutinio y computación en el paquete de la casilla, ni en poder del Presidente del Consejo, se practicará el escrutinio y computación levantándose el acta individual de la casilla, que será firmada por el Presidente y el Secretario del Consejo. Los resultados obtenidos formarán parte del cómputo.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+2.- Cuando los resultados de las actas no coincidan o no exista acta final de escrutinio y cómputo en el paquete de la casilla, ni en poder del Presidente del Consejo, o se detecten elementos evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, se practicará el escrutinio y computo levantándose el acta individual de la casilla, que será firmada por el Presidente y el Secretario del Consejo. Los resultados obtenidos formarán parte del cómputo.
 
 3.- La suma de los resultados obtenidos, después de realizar las operaciones indicadas en los dos puntos anteriores, constituirá el cómputo distrital de la elección de Diputados de mayoría relativa.
 
@@ -3507,15 +3747,21 @@ II.- Sumará los votos que cada PARTIDO POLITICO o coalición haya obtenido en t
 
 III.- Después de realizar lo que dispone la fracción anterior, el CONSEJO GENERAL, procederá a la asignación de Diputados por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 301.
 
-La circunscripción electoral comprenderá la totalidad del territorio del Estado y en ella, la votación efectiva será el resultante de deducir de la votación total, las votaciones de los PARTIDOS POLITICOS que no hayan alcanzado el 1.5% de la votación estatal y los votos nulos.
+La circunscripción electoral comprenderá la totalidad del territorio del Estado y en ella, la votación efectiva será el resultante de deducir de la votación total, las votaciones de los PARTIDOS POLÍTICOS que no hayan alcanzado el 2.0% de la votación estatal y los votos nulos.
 
-Todo PARTIDO POLITICO que alcance por lo menos el 1.5% de la votación estatal y haya cumplido con lo dispuesto por el artículo 201 de este CODIGO, tendrá derecho a que le sean asignados Diputados según el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Todo PARTIDO POLÍTICO que alcance por lo menos el 2.0% de la votación estatal y haya cumplido con lo dispuesto por el artículo 201 de este CÓDIGO, tendrá derecho a participar en la asignación de Diputados por el principio de representación proporcional y, en su caso, a que le sean atribuidos diputados por dicho principio.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
 Al PARTIDO POLITICO que cumpla con lo dispuesto en el párrafo anterior, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el principio de representación proporcional, de acuerdo con su votación, el número de Diputados que le corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
 Ningún PARTIDO POLITICO podrá contar con más de 15 Diputados por ambos principios, salvo el caso del PARTIDO POLITICO que por sí mismo hubiere obtenido la totalidad de los distritos electorales uninominales, ni que su número representen un porcentaje total del CONGRESO que exceda en 10 puntos a su porcentaje de votación efectiva. Esta disposición no se aplicará al PARTIDO POLITICO que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total del CONGRESO que rebase la suma de su porcentaje de votación más 10 puntos.
 
@@ -3579,11 +3825,21 @@ Se enviarán con oportunidad al CONSEJO GENERAL, copias de las actas de casillas
 
 El segundo viernes siguiente al día de la elección, el CONSEJO GENERAL deberá contar con la documentación electoral de que habla el artículo anterior y sesionará para proceder a la asignación de regidores de representación proporcional, conforme a lo siguiente:
 
-I.- El número de Regidores que se elegirá por el principio de representación proporcional, será de cuatro en los Ayuntamientos de Colima, Tecomán y Manzanillo y de tres Regidores en el resto de los Ayuntamientos, votados en una sola circunscripción plurinominal que comprende el ámbito territorial de cada municipio;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- En cada circunscripción que señala el artículo anterior, la votación efectiva será la resultante de deducir de la votación total, las votaciones de los PARTIDOS POLITICOS que no hayan alcanzado el 1.5% de la votación municipal y los votos nulos;
+I.- El número de Regidores que se elegirá por el principio de representación proporcional de conformidad con las bases siguientes;
 
-III.- No tendrá derecho a participar en la distribución de Regidores electos por el principio de representación proporcional, el PARTIDO POLITICO que no alcance por lo menos el 1.5% del total de la votación emitida en el municipio o haya obtenido su planilla el triunfo por mayoría relativa.
+a).- En los municipios cuya población sea hasta de cincuenta mil habitantes, el Ayuntamiento se integrará con cuatro regidores de representación proporcional;
+
+b).- En los municipios cuya población sea de cincuenta mil uno en adelante el Ayuntamiento se integrará con cinco regidores de representación proporcional;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+II.- Cada municipio comprenderá una circunscripción y en cada circunscripción, la votación efectiva será la resultante de deducir de la votación total, las votaciones de los PARTIDOS POLÍTICOS que no hayan alcanzado el 2.0% de la votación municipal y los votos nulos.
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+III.- No tendrá derecho a participar en la distribución de Regidores electos por el principio de representación proporcional, el PARTIDO POLÍTICO que no alcance por lo menos el 2.0% del total de la votación emitida en el municipio o haya obtenido su planilla el triunfo por mayoría relativa.
 
 ###### ARTICULO 307.
 
@@ -3593,13 +3849,17 @@ I.- Votación de asignación, que es el resultado de descontar de la votación e
 
 II.- Cociente de asignación, que es el resultado de dividir la votación de asignación entre el número de regidurías a repartir; y
 
-III.- Resto mayor de votos, que se entiende por el remanente más alto entre los restos de los votos de cada PARTIDO POLITICO, después de haber participado en la distribución de regidurías mediante el cociente de asignación y de los PARTIDOS POLITICOS que sin haber participado, tengan por lo menos el 1.5%. El resto mayor podría utilizarse si aún hubiesen regidurías sin distribuir.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+III.- Resto mayor de votos, que se entiende por el remanente más alto entre los restos de los votos de cada PARTIDO POLÍTICO, después de haber participado en la distribución de regidurías mediante el cociente de asignación. El resto mayor podría utilizarse si aún hubiesen regidurías sin distribuirse.
 
 ###### ARTICULO 308.
 
 Para la asignación de Regidores se aplicará el procedimiento siguiente:
 
-I.- Participarán todos los PARTIDOS POLITICOS que hayan alcanzado o superado el 1.5% de la votación total;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+I.- Participarán todos los PARTIDOS POLÍTICOS que hayan alcanzado o superado el 2.0% de la votación total;
 
 II.- Se asignarán a cada PARTIDO POLITICO tantas regidurías como número de veces contenga su votación el cociente de asignación;
 
@@ -3618,6 +3878,8 @@ El CONSEJO GENERAL expedirá a cada PARTIDO POLITICO o coalición las constancia
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO II. DE LA INTEGRACION
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 310.
 
@@ -3645,11 +3907,7 @@ El TRIBUNAL, al resolver los asuntos de su competencia, garantizará que los act
 
 ###### ARTICULO 312.
 
-El TRIBUNAL residirá en la capital del Estado, se integrará con 3 Magistrados numerarios y 2 supernumerarios, electos sucesivamente, en el mes de noviembre del año anterior a la elección por el CONGRESO, por mayoría calificada de sus miembros presentes, de una lista de 10 candidatos propuesta por el Supremo Tribunal de Justicia.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
-
-Para cubrir la vacante de un Magistrado, el Supremo Tribunal de Justicia someterá una terna por cada nombramiento a la consideración del CONGRESO, el cual, por mayoría calificada de los Diputados presentes designará a la persona que deba cubrir la vacante, en el improrrogable plazo de 30 días naturales. Si el CONGRESO no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que de cada una de las ternas, designe el Supremo Tribunal. En caso de que el CONGRESO rechace la totalidad de la terna propuesta, el Supremo Tribunal someterá una nueva, con respecto a la cual el Congreso resolverá dentro del improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en ese plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esta terna, designe el Supremo Tribunal.
+El TRIBUNAL residirá en la capital del Estado, se integrará con 3 Magistrados numerarios y 2 supernumerarios, electos sucesivamente, en el mes de noviembre del año en que terminen su periodo. La elección la hará el CONGRESO por mayoría calificada de sus integrantes, de una lista de 10 candidatos propuesta por el Supremo Tribunal del (sic) Justicia.
 
 ###### ARTICULO 313.
 
@@ -3865,9 +4123,13 @@ a).- El recurso de revisión, en contra de los actos o resoluciones de los CONSE
 
 b).- El recurso de apelación, en contra de las resoluciones que recaigan a los recursos de revisión o en contra de los actos y resoluciones del CONSEJO GENERAL, que resolverá el TRIBUNAL;
 
-c).- El recurso de inconformidad ante el TRIBUNAL para impugnar:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
-1.- Por error aritmético, los cómputos municipales de la elección de Diputados de mayoría relativa o de Ayuntamientos; el cómputo estatal para Gobernador y para asignar Diputados y Regidores por el principio de representación proporcional; así como la aplicación incorrecta de la fórmula de asignación, en los casos de Diputados y Regidores de representación proporcional;
+c).- El recurso de inconformidad para impugnar:
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+1.- Por error aritmético, los cómputos municipales y distritales de la elección de Diputados de mayoría relativa o de Ayuntamientos; los cómputos municipales para Gobernador y el cómputo respectivo para asignar Diputados y Regidores por el principio de representación proporcional; así como la aplicación incorrecta de la fórmula de asignación, en los casos de Diputados y Regidores de representación proporcional;
 
 2.- Por las causales de nulidad establecidas en este CODIGO:
 
@@ -3875,11 +4137,17 @@ a).- La votación emitida en una o varias casillas; y
 
 b).- Las elecciones de Diputados, Ayuntamientos y Gobernador.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Este recurso será resuelto por el TRIBUNAL.
+
 III.- Los ciudadanos que sean expulsados de un PARTIDO POLITICO, podrán impugnar en todo tiempo ante el TRIBUNAL dicha resolución, dentro de los 3 días siguientes al en que se les notificó dicha expulsión. La resolución que dicte el TRIBUNAL se limitará a analizar la legalidad del procedimiento de expulsión correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 328.
 
-El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral. Será requisito de procedibilidad del recurso de inconformidad cuando se hagan valer las causales de nulidad previstas en el artículo 331 de este CODIGO, a excepción de la señalada en la fracción VIII de dicho precepto; podrá formularse respecto de los actos que se realicen en las casillas electorales y que a consideración del recurrente afecten el resultado de la votación en éstas.
+El escrito de protesta, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral; podrá formularse respecto de los actos que se realicen en las casillas electorales y que a consideración del recurrente afecten el resultado de la votación en éstas.
 
 Será interpuesto por los representantes legitimados de los PARTIDOS POLITICOS, ante la propia casilla al término del cómputo respectivo o ante el CONSEJO MUNICIPAL correspondiente, antes de que se inicie la sesión de los cómputos distritales y deberá satisfacer los requisitos señalados en el artículo siguiente.
 
@@ -3923,33 +4191,51 @@ IV.- Se ejerza violencia física, cohecho, soborno o presión de alguna autorida
 
 V.- Se permita sufragar sin CREDENCIAL o cuando su nombre no aparezca en la LISTA, salvo los casos de excepción señalados en los artículos 256 y 259 de este ordenamiento y siempre que ello sea determinante para el resultado de la votación;
 
-VI.- Se impida el acceso a los representantes de PARTIDOS POLITICOS o se les expulse sin causa justificada y siempre que ello sea determinante para el resultado de la elección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VII.- Haya mediado error grave o dolo manifiesto en el cómputo de votos que beneficie a cualquiera de los candidatos, las fórmulas de candidatos o planillas y sea determinante para el resultado de la votación; y
+VI.- Se impida el acceso a los representantes de PARTIDOS POLÍTICOS o se les expulse sin causa justificada y siempre que ello sea determinante para el resultado de la votación de dicha casilla;
 
-VIII.- El paquete electoral sea entregado, sin causa justificada, al CONSEJO MUNICIPAL fuera de los plazos que este CODIGO establece.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VII.- Haya mediado error grave o dolo manifiesto en el cómputo de votos que beneficie a cualquiera de los candidatos, las fórmulas de candidatos o planillas y sea determinante para el resultado de la votación de dicha casilla;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VIII.- El paquete electoral sea entregado, sin causa justificada, al CONSEJO MUNICIPAL fuera de los plazos que este CÓDIGO establece; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
+
+IX.- Se incumplan las reglas para el cierre de votación en las casillas, de acuerdo con lo establecido por el artículo 268 de este CÓDIGO.
 
 ###### ARTICULO 332.
 
 Son causas de nulidad de una elección las siguientes:
 
-I.- Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el 20% de las casillas de un distrito electoral o Municipio;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-II.- Cuando no se instalen las casillas en el 20% de las secciones y consecuentemente la votación no hubiese sido recibida;
+I.- Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en el 20% o más de las casillas de un distrito electoral o Municipio o, en su caso, en la entidad cuando se refiera a la elección de Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+II.- Cuando no se instalen el 20% o más de las casillas correspondientes a un distrito electoral, municipio o en la entidad y consecuentemente la votación no hubiese sido recibida;
 
 III.- Cuando exista violencia generalizada en el ámbito de la elección correspondiente; y
 
 IV.- Cuando los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la CONSTITUCION y en este CODIGO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 333.
 
-Sólo podrá ser declarada nula la elección en un distrito electoral o Municipio cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la misma.
+Sólo podrá ser declarada nula la elección en un distrito electoral o municipio o en la entidad, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la misma.
 
 Tratándose de la nulidad de votación de una o más casillas, se descontará la votación anulada de la votación total del distrito o Municipio, con el propósito de obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 332 de este CODIGO.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 334.
 
-Ningún PARTIDO POLITICO podrá invocar como causa de nulidad, hechos o circunstancias que él mismo haya provocado dolosamente.
+Ningún PARTIDO POLÍTICO podrá invocar como causa de nulidad, hechos o circunstancias que él mismo haya provocado dolosamente o contribuido a provocar, así sea circunstancial o accidentalmente.
 
 ###### ARTICULO 335.
 
@@ -3983,15 +4269,23 @@ IV.- Los escritos deberán estar firmados autógrafamente.
 
 ###### ARTICULO 340.
 
-Los recursos a que se refiere el artículo 327 de este CODIGO serán interpuestos dentro de los 3 días naturales siguientes a partir de que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurre.
+Los recursos a que se refiere el artículo 327 de este CÓDIGO serán interpuestos dentro de los 3 días hábiles siguientes a partir de que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurre.
 
 ###### ARTICULO 341.
 
 Durante el proceso electoral todos los días y horas son hábiles. Los plazos se computarán de momento a momento; si están señalados por días, estos se considerarán de 24 horas.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Cuando la violación reclamada en medio de impugnación respectiva no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiéndose entender como tales, todos los días a excepción de lo (sic) sábados, domingos y los días inhábiles en términos de ley.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiera notificado el acto o la resolución correspondiente.
 
 ### CAPITULO IV. DE LOS PLAZOS Y TERMINOS
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ### CAPITULO V. DE LAS NOTIFICACIONES
 
@@ -4017,6 +4311,14 @@ Las notificaciones personales se harán al interesado a más tardar al día sigu
 
 Las cédulas de notificación personal deberán contener el lugar, hora y fecha en que éstas se hacen, la descripción del acto o resolución que se notifica y el nombre de la persona con quien se entiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Si no se encuentra presente el interesado, se entenderá la notificación con la persona que esté en el domicilio.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Si el domicilio está cerrado o la persona con la que se entiende la diligencia se niega a recibir la cédula, el funcionario responsable de la notificación la fijará junto con la copia del auto, la resolución o sentencia a notificar en un lugar visible del local, asentará la razón correspondiente en autos y procederá a fijar la notificación en los estrados.
+
 ###### ARTICULO 345.
 
 El PARTIDO POLITICO cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
@@ -4031,11 +4333,13 @@ II.- Al CONSEJO GENERAL o MUNICIPALES cuyo acto o resolución fue impugnado, se 
 
 III.- A los terceros interesados, por correo certificado.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 347.
 
-Las resoluciones del TRIBUNAL recaídas a los recursos de apelación, serán notificadas a los órganos electorales que corresponda, así como a quien los haya interpuesto y a los terceros interesados, por correo certificado, por telegrama, o personalmente, a más tardar al día siguiente de que se pronuncie.
+Las resoluciones del TRIBUNAL recaídas a los recursos de revisión o apelación, serán notificadas a los órganos electorales que corresponda, así como a quien los haya interpuesto y a los terceros interesados, por correo certificado, por telegrama, o personalmente, a más tardar al día siguiente de que se pronuncie.
 
-A los órganos electorales cuyo acto o resolución fue impugnado, junto con la notificación le será enviada copia de la resolución.
+A las partes, junto con la notificación, les será enviada copia de la resolución.
 
 ###### ARTICULO 348.
 
@@ -4057,9 +4361,13 @@ Serán partes en el procedimiento para tramitar los recursos en materia electora
 
 I.- El actor, que será el PARTIDO POLITICO que lo interponga, debiendo observar las reglas de legitimidad previstas en este CODIGO;
 
-II.- El órgano electoral que realice el acto o dicte la resolución que se impugna;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-III.- El tercero interesado, que será el PARTIDO POLITICO que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor; y
+II.- La autoridad responsable, que es el órgano electoral que realice el acto o dicte la resolución que se impugna;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+III.- El tercero interesado, que será el PARTIDO POLÍTICO que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor; y
 
 IV.- En su caso, el ciudadano que impugne la decisión del REGISTRO que niegue la expedición de CREDENCIAL o la inclusión o exclusión del nombre del interesado en las LISTAS.
 
@@ -4103,9 +4411,11 @@ El recurso de inconformidad procederá únicamente cuando se hubiese presentado 
 
 Los recursos de revisión y apelación se interpondrán ante el órgano del INSTITUTO que realizó el cómputo o que dictó el acto o resolución que se impugna. El de inconformidad se presentará ante el TRIBUNAL.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 354.
 
-El órgano del INSTITUTO que reciba un recurso de revisión o apelación, lo hará del conocimiento público mediante cédula que fijará en los estrados.
+El órgano del INSTITUTO que reciba un recurso de revisión o apelación, lo hará del conocimiento público mediante cédula que fijará en los estrados, dentro de las 24 horas siguientes a su recepción.
 
 Los representantes de los PARTIDOS POLITICOS terceros interesados, así como los candidatos que actúen como coadyuvantes de sus respectivos PARTIDOS POLITICOS, podrán presentar los escritos que consideren pertinentes dentro de las 48 horas siguientes a la fijación de la cédula respectiva.
 
@@ -4147,15 +4457,23 @@ Si el CONSEJO MUNICIPAL que remitió el recurso omitió algún requisito, el Sec
 
 En todo caso, el recurso deberá resolverse con los elementos con que se cuente a más tardar 20 días contados a partir de su recepción.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 357.
 
-Recibido el recurso de apelación por el TRIBUNAL, se seguirá en lo conducente, el procedimiento señalado en el artículo anterior. El expediente del recurso de apelación será integrado por el Secretario General de Acuerdos, quien deberá supervisar que reúna todos los requisitos señalados en este CODIGO.
+Recibido el recurso de apelación por el TRIBUNAL, se dictará auto de radicación por el Secretario General de Acuerdos. Acto seguido certificará que se interpuso en tiempo y supervisará si o no reúne los requisitos señalados en este CÓDIGO, integrándolo debidamente.
 
-Una vez integrado el expediente, éste será turnado por el Presidente al Magistrado designado como ponente, quien elaborará el proyecto de resolución que someterá a la decisión del Pleno.
+Si de la revisión que realice el Secretario General de Acuerdos se encuentra que el recurso es evidentemente frívolo o encuadra en alguna de las causales de improcedencia a que se refiere el artículo 363 de este CÓDIGO o, en su caso, si se han cumplido todos los requisitos, éste procederá a formular el proyecto de resolución de admisión o desechamiento correspondiente, mismo que será sometido a la decisión del Pleno.
+
+Hecho lo anterior, el expediente será turnado por el Presidente al Magistrado designado como ponente, quién revisará la integración, realizando para ello todos los actos y diligencias necesarias y elaborará el proyecto de resolución definitiva, que será sometida a la decisión del Pleno.
+
+El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 358.
 
-Para la tramitación del recurso de inconformidad, una vez que el TRIBUNAL reciba el escrito de interposición, será turnado de inmediato al Secretario General de Acuerdos, quien deberá revisar que reúna todos los requisitos señalados en el presente CODIGO.
+Para la tramitación del recurso de inconformidad, una vez que el TRIBUNAL reciba el escrito de interposición, será turnado de inmediato al Secretario General de Acuerdos, quien dictará auto de radicación. Acto seguido deberá revisar que reúna todos los requisitos señalados en el presente CÓDIGO.
 
 Si de la revisión que realice el Secretario General de Acuerdos encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 363 de este CODIGO o que es evidentemente frívolo, someterá desde luego, a la consideración del TRIBUNAL, el acuerdo para su desechamiento de plano.
 
@@ -4167,7 +4485,9 @@ El Secretario General de Acuerdos realizará todos los actos y diligencias neces
 
 Integrado el expediente del recurso de inconformidad por el Secretario General de Acuerdos, será turnado por el Presidente al proyectista que corresponda para que éste formule y presente un proyecto de resolución al Magistrado designado como ponente, a fin de que si lo estima conveniente, lo apruebe y lo someta a la decisión del Pleno.
 
-El TRIBUNAL dispondrá de 20 días, contados a partir del día siguiente al en que se dicte el auto de admisión, para substanciar y resolver este recurso.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte el auto de admisión, para substanciar y resolver este recurso.
 
 ###### ARTICULO 360.
 
@@ -4189,9 +4509,11 @@ El Presidente deberá ordenar que se fije en los estrados con una anticipación 
 
 El TRIBUNAL determinará la hora y día de sus sesiones públicas.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 362.
 
-El Magistrado ponente, podrá solicitar a las autoridades federales, estatales o municipales o requerir a los diversos órganos del INSTITUTO, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, quienes deberán proporcionarlos oportunamente. Igualmente, en casos extraordinarios, dicho Magistrado podrá ordenar que se realice alguna diligencia o perfeccione una prueba, siempre que lo anterior no sea obstáculo para resolver dentro de los plazos establecidos en este CODIGO.
+El Magistrado ponente podrá solicitar a las autoridades federales, estatales o municipales o requerir a los diversos órganos del INSTITUTO, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, las que deberán proporcionarlos oportunamente. Igualmente, en casos extraordinarios, dicho Magistrado podrá ordenar que se realice alguna diligencia o perfeccione una prueba, siempre que lo anterior no sea obstáculo para resolver dentro de los plazos establecidos en este CÓDIGO. La no colaboración será notificada por el TRIBUNAL al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente.
 
 ### CAPITULO IX. DE LA ACUMULACION
 
@@ -4289,9 +4611,11 @@ Serán indicios aquellos que puedan deducirse de los hechos comprobados. Tambié
 
 El TRIBUNAL, según la naturaleza de los hechos y el enlace lógico y natural que exista entre la verdad conocida y la verdad por conocer, apreciará el valor de los indicios.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 370.
 
-Para el oportuno desahogo de las pruebas a que se refiere este capítulo, las autoridades y los órganos electorales deberán expedir las que obren en su poder inmediatamente que se les soliciten.
+Para el oportuno desahogo de las pruebas a que se refiere este Capítulo, las autoridades y los órganos electorales deberán expedir las que obren en su poder inmediatamente que se les soliciten. La infracción a esta disposición será notificada por la autoridad electoral al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente.
 
 ###### ARTICULO 371.
 
@@ -4522,3 +4846,9 @@ P.O. 16 DE JUNIO DE 2001.
 P.O. 29 DE DICIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el periódico Oficial El Estado de Colima.
+
+P.O. 27 DE JULIO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La reforma al artículo 155, entrará en vigor el día primero de enero del año dos mil tres.
