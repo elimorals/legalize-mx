@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1993-03-02"
+last_updated: "1994-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -817,7 +817,9 @@ VIII. Regularizar la propiedad de los bienes inmuebles municipales;
 
 IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad;
 
-X.- Vigilar que los responsables de las comisarías, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+
+X. Practicar, a falta del agente del Ministerio Público, las primeras Diligencias de averiguación previa o aquellas que sean de notoria urgencia, remitiéndolas al agente del Ministerio Público del Distrito Judicial correspondiente, dentro del término de 24 horas y vigilar que los Oficiales Conciliadores y Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
 
 XI. Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones prevenidos en las leyes respectivas;
 
@@ -1890,3 +1892,11 @@ LIC. IGNACIO PICHARDO PAGAZA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HUMBERTO LIRA MORA
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+G.G. 5 DE ENERO DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
