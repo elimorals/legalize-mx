@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "1999-06-05"
+last_updated: "1999-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999. (DECRETO NUM. 31)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -327,7 +327,7 @@ ART. 79.- La falta de registro de la adopción no quita a ésta sus efectos lega
 
 > <small>(REFORMADO P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 80.- Extendida el acta de adopción simple, se harán las anotaciones que correspondan al acta de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+ART. 80.- Extendida el acta de adopción simple se harán las anotaciones que correspondan al acta de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -2523,9 +2523,9 @@ ART. 642.- Sólo puede constituirse el patrimonio de la familia con bienes, sito
 
 ART. 643.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-ART. 644.- El valor máximo de los bienes afectos al patrimonio de familia será el equivalente a diez mil días de salario mínimo general, fijado para la zona económica donde se encuentra el domicilio de la familia.
+ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta 20,000 veces el importe del salario mínimo general, fijado para la zona económica donde se encuentre el domicilio de la familia, con sujeción a avalúo realizado por perito oficial, debidamente autorizado, en el que determinará el valor comercial de los bienes en cuestión.
 
 ART. 645.- Cuando por cualquier causa el valor de los bienes afectos al patrimonio de la familia es inferior al máximo fijado en el artículo anterior, podrá ampliarse el patrimonio hasta el límite legal.
 
@@ -6849,7 +6849,7 @@ ART. 2047.- Pasado el término por el cual fue constituida la sociedad, si ésta
 
 ART. 2048.- En el caso de que a la muerte de un socio la sociedad hubiere de continuar con los supervivientes, se procederá a la liquidación de la parte que corresponda al socio difunto, para entregarla a su sucesión. Los herederos tendrán derecho al capital y utilidades que correspondan al finado en el momento del fallecimiento y, en lo sucesivo, sólo tendrán parte en lo que dependa necesariamente de los derechos adquiridos o de las obligaciones contraídas por su causante.
 
-ART. 2049.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al acto constitutivo de la sociedad.
+ART. 2049.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios e evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al acto constitutivo de la sociedad.
 
 ART. 2050.- Se dice extemporánea la renuncia, si al hacerla, los bienes no se hallan en su estado íntegro, de tal suerte que la sociedad pueda ser perjudicada con la disolución que originaría la renuncia.
 
@@ -7851,7 +7851,7 @@ ART. 2302.- Si la obligación asegurada estuviese sujeta a condición resolutori
 
 ART. 2303.- Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores deberán los interesados pedir que se haga constar así por medio de una nota al margen de la inscripción hipotecaria, y si no se cumple con este requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituida.
 
-ART. 2304.- Para hacer constar en el Registro el cumplimiento de las condiciones a que se refieren los artículo s que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público que así lo acredite y en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
+ART. 2304.- Para hacer constar en el Registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público que así lo acredite y en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
 
 Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro a la autoridad judicial para que, previo el procedimiento correspondiente, dicte la resolución que proceda.
 
@@ -7901,7 +7901,7 @@ VI. El Estado, los municipios y los organismos públicos sobre los bienes de sus
 
 ART. 2316.- La constitución de la hipoteca, en los casos a que se refieren las fracciones II y III del artículo anterior puede ser pedida por los parientes del incapacitado sin limitación de grado o por el Ministerio Público.
 
-ART. 2317.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir, su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficiente insuficientes para garantizar el crédito; en ambos casos resolverá el Juez.
+ART. 2317.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir, su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficiente para garantizar el crédito; en ambos casos resolverá el Juez.
 
 ART. 2318.- Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2315 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 1574, fracción I, salvo disposición legal en otro sentido.
 
@@ -7941,7 +7941,7 @@ ART. 2330.- Se llaman hipotecas mancomunadas las constituidas por dos o más per
 
 ART. 2331.- Las hipotecas mancomunadas facultan al acreedor para hacer efectiva únicamente la parte de la deuda garantizada sobre el bien o bienes hipotecados.
 
-ART. 2332.- Si todos los deudores de una obligación mancomunada constituyeren hipotecas sobre diversos bienes, se entenderá, salvo pacto en contrario, que cada bien gravado responder hasta el monto de la parte a la cuota de la deuda que corresponda a cada obligado.
+ART. 2332.- Si todos los deudores de una obligación mancomunada constituyeren hipotecas sobre diversos bienes, se entenderá, salvo pacto en contrario, que cada bien gravado responderá hasta el monto de la parte a la cuota de la deuda que corresponda a cada obligado.
 
 ART. 2333.- Se llaman hipotecas individuales las constituidas para garantizar una obligación indivisible. Las mismas facultan al acreedor para hacer efectivo su crédito sobre todo los bienes gravados, caso en el cual se estará a lo dispuesto por el artículo 2328.
 
@@ -9834,3 +9834,9 @@ Las adopciones que se encuentren en trámite a la fecha de la publicación de la
 ###### ARTICULO TERCERO.
 
 Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plena, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+
+P.O. 9 DE OCTUBRE DE 1999
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
