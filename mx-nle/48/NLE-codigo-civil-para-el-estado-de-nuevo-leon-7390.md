@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1983-11-23"
+last_updated: "1983-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -627,7 +627,7 @@ Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial
 
 La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si estos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -771,7 +771,7 @@ Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro C
 
 ###### Art. 109.
 
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En éste caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -4225,13 +4225,17 @@ III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la fami
 
 IV.- Cuando por causa de utilidad pública se expropien los bienes que la forman;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1983)</small>
 
-V.- En los casos previstos en el artículo 734 de este Código, el patrimonio familiar se extinguirá cuando hayan transcurrido quince años a contar de la fecha de su constitución. Igualmente cuando se declare nula o rescindida la venta de los bienes o cuando se demuestre judicialmente que las personas favorecidas han transmitido el uso o goce de los bienes, gratuita u onerosamente, a terceras personas, en este último caso quedará sin efecto la operación así celebrada y se constituirá nuevo patrimonio familiar con esos bienes.
+V.- En los casos previstos en el Artículo 734 de este Código, el Patrimonio Familiar se extinguirá cuando hayan transcurrido quince años a contar de la fecha de su constitución, salvo lo dispuesto en el artículo siguiente. Igualmente cuando se declare nula o rescindida la venta de los bienes o cuando se demuestre judicialmente que las personas favorecidas han transmitido el uso o goce de los bienes, gratuita u onerosamente, a terceras personas, en este último caso quedaría sin efecto la operación así celebrada y se constituirá nuevo patrimonio familiar con esos bienes.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 740.
 
-La declaración de que queda extinguido el Patrimonio, la hará el Juez competente mediante el procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+La declaración de que queda extinguido el patrimonio, la hará el Juez competente mediante el procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+
+Tratándose del Patrimonio de Familia constituído de acuerdo a lo dispuesto por el Artículo 737, la declaratoria de extinción por causa de gran necesidad o notoria utilidad para la familia, aún cuando no hubiere transcurrido el término que fija el Artículo 739 Fracción V, la hará el Ejecutivo del Estado, sin sujetarse a los requisitos que determina el Artículo 745, por conducto de la dependencia que tenga delegada dicha facultad. La decisión respectiva deberá pronunciarse dentro de los siguientes quince días a la presentación de la solicitud, en caso de declararse procedente se comunicará dicha decisión al Registro Público para que haga la correspondiente cancelación.
 
 Cuando el Patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación el Patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
 
@@ -14847,9 +14851,11 @@ No podrán inscribirse mediante información posesoria, las servidumbres continu
 
 Las inscripciones no se extinguen en cuanto a terceros, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 2922.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes, o por decisión judicial.
+Las inscripciones pueden cancelarse por consentimiento de las partes, por decisión judicial y en los demás casos que así lo determine la Ley.
 
 ###### Art. 2923.
 
@@ -15132,3 +15138,7 @@ P.O. 23 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1983.
+
+UNICO:- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
