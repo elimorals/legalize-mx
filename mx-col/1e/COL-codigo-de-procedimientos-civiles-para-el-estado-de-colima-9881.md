@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1985-08-10"
+last_updated: "1994-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -299,7 +299,7 @@ ART. 9º.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 ART. 10.- Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble "o" la demolición de obras o señales que importen gravámenes, la tildación o anotación en el registro Público de la Propiedad y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
 
-ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravámen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravámen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
+ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 
 ART. 12.- Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de fijada y registrada la cédula hipotecaria y contestada la demanda cambiare el dueño y poseedor jurídico el predio, con éste continuará el juicio.
 
@@ -3925,6 +3925,20 @@ VI.- La transmisión de los bienes del patrimonio familiar está exenta de contr
 
 ART. 871.- Cuando todos los herederos fueren mayores de edad y hubieren sido instituídos en un testamento público, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna; con arreglo a lo que se establece en los artículos siguientes.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 871 BIS.- Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
+
+I.- Los legatarios o sus representantes, exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado;
+
+II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el Estado que ante él se está tramitando el testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco;
+
+III.- El notario recabará del Archivo General de Notarías, del Archivo Judicial del Estado y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos; siempre que no existiere oposición;
+
+IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad. En su caso, se podrá hacer constar la repudiación expresa; y
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1446-Bis de este Código (sic).
+
 ART. 872.- El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia y un testimonio del testamento, se presentarán ante un notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
 El notario dará a conocer estas declaraciones por medio de dos publicaciones, que se harán de diez en diez días en un periódico de los de mayor circulación en la República.
@@ -3935,7 +3949,9 @@ ART. 874.- Formado por el albacea con la aprobación de los herederos el proyect
 
 Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención.
 
-ART. 875.- Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
+(REFORMADO, P.O. 9 DE JULIO DE 1994) (F. DE E., P.O. 13 DE AGOSTO DE 1994)
+
+ART. 875.- Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este Capítulo. El juez hará saber lo anterior a los herederos para el efecto de que designen al notario ante el que se seguirá la tramitación sucesoria.
 
 ### CAPITULO IX. Del testamento público cerrado
 
@@ -4508,3 +4524,7 @@ UNICO.- Este Decreto entrará en vigor tres días después de su publicación en
 P.O. 10 DE AGOSTO DE 1985.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 9 DE JULIO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
