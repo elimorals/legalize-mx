@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1984-12-31"
+last_updated: "1985-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -274,9 +274,9 @@ El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en
 
 Los contribuyentes efectuarán pagos provisionales a más tardar el día 20 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-El impuesto del ejercicio, deducidos los pagos provisionales mensuales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes del impuesto sobre la renta presentarán, además, con la declaración definitiva de este gravamen, un ejemplar de la declaración del impuesto al valor agregado, a que se refiere este párrafo.
+El impuesto del ejercicio, deducidos los pagos provisionales mensuales se pagarán mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se le solicite en las declaraciones del impuesto sobre la renta.
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
@@ -718,8 +718,6 @@ II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y
 
 III.- Expedir comprobantes señalando en los mismos, además de los requisitos que establezcan el Código Fiscal de la Federación y su Reglamento, el impuesto al valor agregado que se traslada expresamente y por separado a quien adquiera los bienes, los use o goce temporalmente o reciba los servicios. Dichos comprobantes deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días siguientes a aquél en que se debió pagar el impuesto en los términos de los artículos 11, 17 y 22 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1984.</small>
-
 (REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)(F. DE E., D.O.F. 4 DE MARZO DE 1985)
 
 Cuando se trate de actos o actividades que se realicen con el público en general, el impuesto se incluirá en el precio en que los bienes y servicios se ofrezcan, así como en la documentación que se expida, salvo que en este último caso, el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien solicite comprobante que reúna los requisitos señalados en el párrafo anterior.
@@ -731,6 +729,10 @@ En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en f
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+Los contribuyentes a que se refiere el párrafo anterior deberán conservar en cada uno de dichos establecimientos copia de la declaración mensual y del ejercicio, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deba pagarse impuesto conforme a esta Ley, están obligados a formular a nombre de sus representadas las declaraciones correspondientes y pagar el impuesto respectivo, por el que tendrán responsabilidad solidaria.
 
@@ -790,7 +792,9 @@ Las estimaciones a que se refiere esta fracción se mantendrán hasta que las au
 
 III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior a cuenta del impuesto del ejercicio, los cuales deberán hacerse dentro del bimestre al cual corresponda ante las oficinas autorizadas.
 
-IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias de impuesto que procedan más lo (sic) recargos de ley y sanciones respectivas, salvo que el contribuyente solicite espontáneamente a las autoridades fiscales la rectificación de la estimación, en cuyo caso, pagará el impuesto que corresponda a partir del bimestre en que haya solicitado la rectificación, quedando liberado de pagar las diferencias correspondientes a bimestres anteriores.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias del impuesto que procedan más los recargos de ley. Si el contribuyente solicita espontáneamente a las autoridades fiscales la rectificación de la estimación y ésta resulta superior en más del 20% mencionado, pagará el impuesto que proceda más los recargos correspondientes, salvo cuando en la rectificación el contribuyente no rebase los límites de ingresos para hacer (sic) considerados como contribuyentes menores conforme a la Ley del Impuesto Sobre la Renta, en cuyo caso quedará liberado de pagar las diferencias correspondientes a bimestres anteriores.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -800,27 +804,17 @@ V.- Conservar la contabilidad simplificada a que se refiere la fracción I de es
 
 VI.- Presentar declaración del ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 35-A.
 
-Las personas físicas que siendo contribuyentes menores en los términos del artículo 35 de esta Ley cuando dejen de estar en los supuestos para ser considerados como tales, para los efectos del ejercicio de las facultades de comprobación y determinación y cobro de contribuciones omitidas, se seguirán considerando como contribuyentes menores durante el año en que dejen de estar en los supuestos señalados y el siguiente. Por el año en que dejaron de ser contribuyentes menores cumplirán con sus obligaciones fiscales conforme el (sic) artículo 35 citado y ante las mismas autoridades fiscales; a partir del siguiente año cumplirán con todas las obligaciones señaladas en el artículo 32 de la Ley, con las siguientes modalidades:
+Las personas físicas que siendo contribuyentes menores en los términos del artículo 35 de esta Ley, que hayan optado por pagar el impuesto conforme al régimen general de la Ley del Impuesto sobre la Renta, o bien dejen de estar en los supuestos para ser considerados como tales en los términos de dicha Ley, por el año en que ejerzan la opción o dejen de estar en los supuestos señalados, cumplirán con las obligaciones a que se refiere el artículo 32 de esta Ley. Cuando los contribuyentes dejen de ser menores y hubieran efectuado pagos conforme a la estimación del valor de sus actos o actividades, los mismos se considerarán para el pago del impuesto del ejercicio.
 
-I.- Continuarán pagando el impuesto mediante estimación actualizada conforme al valor real de los actos o actividades del contribuyente, ante las mismas autoridades fiscales, durante el año inmediato posterior a aquél en que dejaron de ser contribuyentes menores, teniendo estos pagos el carácter de definitivos.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- Llevarán contabilidad simplificada de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, durante los dos años siguientes a aquél en que dejaron de ser contribuyentes menores.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-III.- No estarán obligados a cumplir con lo dispuesto en las fracciones I y IV del referido artículo 32, durante el período señalado en la fracción anterior.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)(F. DE E. D.O.F. 24 DE ENERO DE 1986)
 
 ###### ARTICULO 36.
 
-Los contribuyentes menores deberán expedir comprobantes por las actividades que realicen en los que trasladarán el impuesto en forma expresa y por separado del precio, excepto en los casos a que se refiere el párrafo segundo de la fracción III del artículo 32 de esta Ley.
+Los contribuyentes menores expedirán comprobantes simplificados en los términos del artículo 115-B de la Ley del Impuesto Sobre la Renta; cuando un contribuyente menor opte por pagar el impuesto conforme al régimen general de la citada Ley o deje de estar en los supuestos para ser considerado como tal en los términos de la misma, se entenderá que deja de ser menor para los efectos del impuesto al valor agregado.
 
 ###### ARTICULO 37.
 
@@ -1111,3 +1105,9 @@ D.O.F. 31 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del dia 1o. de enero de 1986; Décimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Titulo I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
+
+D.O.F. 31 DE DICIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1986.
