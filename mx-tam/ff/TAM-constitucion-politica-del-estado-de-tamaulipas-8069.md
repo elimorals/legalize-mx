@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2004-04-01"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -147,7 +147,7 @@ I. Por incapacidad declarada legalmente.
 
 II. Por estar procesado. La suspensión produce efectos desde el momento en que se notifique el auto de formal prisión o desde que se declare que hay lugar para la formación de causa, tratándose de funcionarios que gocen de fuero constitucional.
 
-III. Por falta de cumplimiento sin causa justificada, de las obligaciones impuestas por el artículo anterior. Esta suspensión durará un año y se impondrá sin perjuicio de las otras penas que para la misma falta señale la ley .
+III. Por falta de cumplimiento sin causa justificada, de las obligaciones impuestas por el artículo anterior. Esta suspensión durará un año y se impondrá sin perjuicio de las otras penas que para la misma falta señale la ley.
 
 IV. Por sentencia judicial.
 
@@ -219,13 +219,17 @@ I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virt
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2004)</small>
 
-III. El derecho de los varones y las mujeres a la igualdad de oportunidades en ámbitos político, económico, social y cultural; y
+III. El derecho de los varones y las mujeres a la igualdad de oportunidades en los ámbitos político, económico, social y cultural;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2004)</small>
 
-IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes.
+IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público estatal o municipal respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades, salvo aquella relativa a la seguridad del Estado o la seguridad pública por la perturbación que pueda causar en el orden público, o a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -444,12 +448,6 @@ En ningún caso un partido político podrá contar con más de 19 Diputados por 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
 Los Diputados electos según el principio de Representación Proporcional se asignarán en el orden de que fueron registrados en las listas estatales de cada partido político.
-
-###### ARTICULO 28.
-
-(DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
-
-(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 28.
 
@@ -1117,19 +1115,19 @@ Si los términos contenidos originalmente en la Ley de Ingresos o el Presupuesto
 
 #### Sección Tercera. De las Disposiciones Comunes
 
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO DE 2003)
 
 ###### Art. 73.
 
 El Ejecutivo no podrá formular observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocatoria a nuevas elecciones.
 
-(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001) (REUBICADO, P.O. 3 DE JUNIO DE 2003)
 
 ###### Art. 74.
 
 En la reforma, adición, derogación o abrogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
 
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO DE 2003)
 
 ###### Art. 75.
 
@@ -1141,7 +1139,7 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 #### Sección Cuarta. De la Fiscalización Superior
 
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO DE 2003)
 
 ###### Art. 76.
 
@@ -3198,3 +3196,7 @@ Artículo Segundo.- El Congreso del Estado se abocará a la expedición de la le
 P.O. 1 DE ABRIL DE 2004.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2004.
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
