@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1997-04-05"
+last_updated: "2000-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -4095,6 +4095,8 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 693.
 
 Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
@@ -4199,7 +4201,13 @@ Son objeto del patrimonio de la familia:
 
 I.- La casa habitación de la familia;
 
-II.- En algunos casos, una parcela cultivable.
+II.- La parcela cultivable;
+
+III.- Bienes muebles; y
+
+IV.- Los semovientes.
+
+Los bienes que se destinen a ese fin específico deberán cumplir el objetivo de satisfacer las necesidades mínimas de subsistencia y desarrollo de los integrantes del núcleo familiar.
 
 ###### Artículo 712.
 
@@ -4233,25 +4241,29 @@ Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsis
 
 El valor de los bienes afectos al patrimonio de la familia será la cantidad que resulte de multiplicar hasta 20,000 veces el importe del salario mínimo general vigente en el Estado de Nayarit, en la época en que se constituya dicho patrimonio, con sujeción a avalúo realizado por perito oficial debidamente autorizado en el que se determinará el valor comercial de los bienes en cuestión.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 719.
 
-El miembro de la familia que quiera constituir el patrimonio lo manifestará por escrito al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
+El miembro de la familia que quiera constituir o ampliar el patrimonio lo manifestará por escrito al Juez o Notario Público de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
 
 Además comprobará lo siguiente:
 
-I.- Que es mayor de edad o que está emancipado;
+I. Que es mayor de edad o está emancipado;
 
-II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
+II. Que está domiciliado en el lugar donde se quiere constituir o ampliar el patrimonio;
 
-III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil.
+III. La existencia de la familia a cuyo favor se va a constituir o ampliar el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del registro civil;
 
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres;
+IV. Que son propiedad del interesado los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres; y
 
-V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 718.
+V. Que el valor de los bienes motivo de la constitución y su ampliación, en su caso, no exceda del fijado en el artículo 718.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 720.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+Si se llenan las condiciones exigidas en el artículo anterior, el Juez o Notario Público, previos los trámites que fije el Código de la materia, aprobarán la constitución o ampliación del patrimonio de la familia y mandarán su inscripción en el Registro Público de la Propiedad.
 
 ###### Artículo 721.
 
@@ -4291,11 +4303,11 @@ IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilid
 
 V.- Que carece de bienes. Si el que tenga intereses legítimos demuestra que quién constituyó el patrimonio era propietario de bienes raíces al constituirlo, se declarará nula la constitución del patrimonio.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 726.
 
-Las autoridades previstas en el artículo 723 propiciarán y coadyuvarán para que se constituya por la autoridad jurisdiccional el patrimonio familiar.
+Las autoridades previstas en el artículo 723 propiciarán y coadyuvarán para que se constituya por la autoridad jurisdiccional o Notario Público el patrimonio familiar.
 
 ###### Artículo 727.
 
@@ -4335,13 +4347,15 @@ Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovid
 
 En los casos de suma necesidad o de evidente utilidad, puede el Juez autorizar al dueño del depósito para disponer de él antes de que transcurra el año.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 732.
 
-Puede disminuirse el patrimonio de la familia:
+Puede solicitarse ante el Juez de lo Familiar la disminución del patrimonio de la familia:
 
-I.- Cuando se demuestra que su disminución es de gran necesidad o de notoria utilidad para la familia;
+I. Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia; y
 
-II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un cien por ciento el valor máximo que puede tener, conforme el artículo 718.
+II. Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un cien por ciento el valor máximo que puede tener, conforme el artículo 718.
 
 ###### Artículo 733.
 
@@ -9389,9 +9403,9 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 Del mutuo.
 
-### CAPITULO II
+### CAPITULO III
 
-De los derechos y obligaciones del arrendador.
+De los derechos y obligaciones del arrendatario.
 
 ###### Artículo 1756.
 
@@ -9439,9 +9453,9 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO III
+### CAPITULO II
 
-De los derechos y obligaciones del arrendatario.
+De los derechos y obligaciones del arrendador.
 
 ###### Artículo 1765.
 
@@ -9601,6 +9615,8 @@ III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autori
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
 ### CAPITULO VI
 
 Del arrendamiento de bienes muebles.
@@ -9704,8 +9720,6 @@ Si el arrendamiento debe ser inscrito en el Registro sólo vale el inscrito.
 ###### Artículo 1819.
 
 En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 1676 y 1677.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1989)</small>
 
 ### CAPITULO VII
 
@@ -15544,3 +15558,9 @@ Los asuntos tramitados con la normatividad anterior, continuarán en su trámite
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas.
+
+P.O. 13 DE DICIEMBRE DE 2000
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
