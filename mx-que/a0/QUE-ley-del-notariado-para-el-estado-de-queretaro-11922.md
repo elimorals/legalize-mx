@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1991-01-17"
+last_updated: "1992-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 17 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 9 DE ENERO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -173,7 +173,9 @@ Antes de empezar el ejercicio de sus funciones, los Notarios deberán rendir ant
 
 El Notario, también, antes de iniciar el ejercicio de sus funciones, deberá además:
 
-I.- Presentar a la Secretaría General de Gobierno los libros protocolos para que sean autorizados por el Secretario General;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 1992)</small>
+
+I.- Entregar y recoger en el Archivo General de Notarías las hojas que foliadas y selladas le remita el Consejo de Notarios, para su autorización y perforación, las que serán los folios que utilizará en su protocolo;
 
 II.- Registrar su sello y firma en la misma Secretaría General de Gobierno, en el H Tribunal Superior de Justicia, en los Ayuntamientos de los Municipios donde vaya a ejercer sus funciones y en las oficinas del Estado, correspondientes a dichos Municipios, y en las oficinas federales dependientes de la Secretaría de Hacienda.
 
@@ -269,135 +271,193 @@ El Nombramiento y las remociones se darán a conocer a las mismas dependencias q
 
 Todo Notario Titular, dentro de los treinta días siguientes a la fecha de su nombramiento deberá proponer la persona que será su Notario Adscrito, mismo que deberá llenar los requisitos de esta Ley. Igualmente dentro del plazo de treinta días deberá hacer la propuesta, en el caso de falta absoluta o remoción de su notario Adscrito.
 
-### CAPITULO VI. DEL PROTOCOLO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE ENERO 1992)</small>
+
+### CAPITULO VI. DEL PROTOCOLO ABIERTO
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 38.
 
-Los Notarios llevarán un Protocolo para hacer constar los actos que, conforme a esta Ley, deben autorizarse en él.
+Los Notarios seguirán el sistema de Protocolo Abierto para hacer constar los actos que conforme a esta Ley, deben autorizarse en él.
 
-El Protocolo esta constituido por los libros o volúmenes en los cuales el Notario debe asentar las escrituras y las actas que, respectivamente, contengan los actos o hechos jurídicos sometidos a su autorización y por los apéndices de esos mismos libros.
+> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+
+Las Escrituras se asentarán en hojas foliadas, selladas y perforadas a las que se les llamará "folios", las cuales rubricadas marginalmente por el Notario y firmadas al final por éste y los otorgantes, coleccionadas, ordenadas y sólidamente empastadas y junto con su Apéndice constituirán el Protocolo.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 39.
 
-Los Notarios deberán extender en su Protocolo, todos los actos que autoricen, con las excepciones siguientes:
+El Protocolo se dividirá en tomos y éstos a su vez en volúmenes. Cada cinco volúmenes constituirán un tomo.
 
-I.- Los testamentos cerrados, en relación a los cuales sólo se levantará el acta correspondiente;
+Los instrumentos, volúmenes y tomos que integran el Protocolo deberán ser numerados progresivamente.
 
-II.- La autorización de giros, aceptaciones y endosos, la cual se pondrá en el propio documento. La firma o huella de que se trate con este requisito, se tendrá por reconocida;
+Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asientan en ellos, se ordenarán en volúmenes que tendrán siempre los folios en que se contengan cincuenta instrumentos, contándolos por cincuentenas cerradas incluyendo los que no pasaron.
 
-III.- Las notas que deben poner al calce o al margen de otros instrumentos públicos, en los casos de cancelación, venta, adjudicación y cualquier otro que sea necesaria la anotación;
-
-IV.- La ratificación que, antes los Notarios hagan de los contratos privados originales y después de que hayan sido ya escritos y firmados, que les presenten los interesados;
-
-V.- Las certificaciones sobre autenticidad de firma y ratificación de documentos privados;
-
-VI.- las copias certificadas que legalmente expidan;
-
-VII.- El cotejo de las actas parroquiales.
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 40.
 
-La autorización a que se refiere la Fracción V, del Artículo anterior, la harán constar los notarios por medio de una acta que extenderá al calce del contrato respectivo, expresando en ella día y lugar en que fué presentado; si conocen a los contratantes y el hecho de que éstos reconocen, tanto el contenido como las firmas que aparecen en el correspondiente documento. El acta firmada por los interesados y autorizada por el Notario, probará plenamente que los interesados estuvieron de acuerdo con su contenido, al igual que con el contrato materia de la diligencia. Si alguno de los interesados no sabe firmar, lo hará a su nombre un testigo e imprimirá aquel la huella digital del pulgar derecho.
+El sello del Notario se imprimirá en la parte superior derecha del anverso de cada folio al ser utilizado.
 
-> <small>(REFORMADO, P.O. 02 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 41.
 
-No podrán pasar de cinco los libros del Protocolo que se lleven al mismo tiempo en una Notaría. Para llevar más de uno será necesaria la aprobación previa del Ejecutivo, quien procederá, en su caso, discrecionalmente, según los informes que tenga sobre el movimiento de negocios en la oficina del Notario que lo solicite.
+El Notario no podrá autorizar acto alguno sin que lo haga constar en su Protocolo y sin que observe el procedimiento establecido al efecto en esta Ley.
+
+El notario solo puede expedir certificaciones de actos o hechos que consten en su Protocolo. En la certificación hará constar el número y la fecha de la Escritura o Acta respectiva.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 42.
 
-Los libros del Protocolo, serán uniformes adquiridos y pagados por el Notario interesado. Estos libros, encuadernados y empastados sólidamente, constarán de ciento cincuenta hojas, o sea trescientas páginas, y una hoja más al principio, sin numerar, destinada al título del libro.
+Cuando se trate de reconocimiento de firmas o de firmar un documento ante el Notario , el interesado deberá firmar en unión de aquél, el acta que se levante al efecto. El Notario hará constar que ante él, se reconocieron o, en su caso, se pusieron las firmas y que se aseguró de la identidad de la persona que las puso.
 
-Las hojas del Protocolo, tendrán treinta y cinco centímetros de largo por veintinueve de ancho. Al escribirse en ellas las escrituras o actas, se dejará en blanco una tercera parte a la izquierda, separada por medio de una línea de color rojo, para poner en dicha parte las razones y anotaciones que legalmente deban asentarse allí. Cuando se agote esta parte, se pondrá razón de que las anotaciones se continúan en hojas por separado, especialmente destinada al efecto, hojas que se agregará al apéndice.
+Cuando se trate de cotejar una copia de partida parroquial con su original, en el Acta se insertará aquella y el Notario hará constar que concuerda con su original exactamente, o en su caso, especificará las diferencias que hubiese advertido. En la copia de la partida hará constar el Notario que fue cotejada con su original y el resultado del cotejo.
 
-Además, se dejará siempre en blanco una faja de un centímetro y medio de ancho, por el lado del doblez del libro, y otra igual a la orilla para proteger lo escrito.
+Para el cotejo de un documento con su copia escrita, fotográfica, fotostática o de cualquier otra clase, se presentará el original y copia al Notario, quien, en su caso, hará constar en el Acta que la copia es fiel reproducción de su original. Este se devolverá con su copia debidamente certificada al interesado. Otra copia del documento cotejado se agregará al Apéndice correspondiente.
 
-Cuando se escriba mediante impresión o en máquina en el Protocolo, se podrá reducir al margen interno de la página izquierda del mismo libro, en un centímetro y medio, aumentando en igual extensión al margen externo.
+El cumplimiento de los requisitos y formalidades señaladas en este artículo y en el anterior, originarán la invalidez de la actuación del Notario.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 43.
 
-En la primera y última página útil de cada libro, el Secretario General de Gobierno pondrá una razón en que consten: el lugar y la fecha; el número que corresponda al libro o volumen, según los que vaya recibiendo la Notaría durante su ejercicio; el número de páginas útiles inclusive la primera y la última; el número cardinal, nombre y apellidos del Notario; el lugar en que deba residir y está situada la Notaría y, por último, la expresión de que ese libro solamente debe utilizarse por el Notario de Número, por su Adscrito, o por la persona que legalmente los sustituya en sus funciones.
+Para integrar el Protocolo Abierto, el Consejo de Notarios del Estado, a costa de los propios Notarios, les proveerán de los folios necesarios para asentar los instrumentos, los cuales tendrán las características que señalan en el artículo 45 de esta Ley. Los Notarios entregarán los folios del Archivo General de Notarías para que les sean devueltos debidamente autorizados mediante perforaciones.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 44.
 
-El Notario abrirá cada volumen de su Protocolo, cuando vaya a hacer uso de él, poniendo inmediatamente después de la razón del Secretario General de Gobierno, otra en la que exprese su nombre, apellidos y número de la Notaría a su cargo, así como el lugar y la fecha en que se abre el libro, todo cubierto con su sello y firma. Se expresará también el nombre y apellidos del Adscrito y firmará éste la misma razón. Cuando el Adscrito fuere nombrado después de asentada la razón de que se trata, se hará constar su nombramiento en cada uno de los volúmenes que estuvieren en uso, firmando el Notario y el Adscrito nombrado. La misma razón se asentará cuando haya cambio de Notario Titular o Adscrito.
+Al iniciar la formación de un Tomo, el Notario hará constar el lugar y la fecha en que se inicie, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la Notaría a su cargo, el lugar en donde esta situada la Notaría y la mención de que el tomo se formará con los volúmenes que contengan los instrumentos autorizados por el Notario o quien legalmente lo sustituya en sus funciones de acuerdo con esta Ley.
+
+La hoja en que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del primer volumen del tomo, y deberá ser firmada por los Notarios que actúen en el mismo y se imprimirá el sello de autorizar.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 45.
 
-Al comenzar a hacerse uso de una hoja en su frente, se le pondrá a la cabeza, hacia el lado izquierdo de la misma hoja el sello del Notario.
+Los folios en los que se asienten los instrumentos serán uniformes de treinta y cuatro centímetros de largo por veintidós de ancho, con un margen de dos centímetros y medio en su orilla externa y otro de cinco centímetros en su orilla interna por donde se encuadernarán, separando dichos márgenes con una línea de color rojo.
+
+Los mencionados folios deberán tener impreso o grabado el sello del Consejo de Notarios y deberán estar foliados respecto de cada Notaría progresivamente, anteponiendo el número de la Notaría en la cual serán utilizados.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 46.
 
-En los Protocolos deberá inscribirse manuscrito, mediante impresión o en máquina, con tinta firme e indeleble.
+Para asentar las Escrituras y Actas en los folios podrán utilizarse cualquier procedimiento de escritura o impresión que sea firme, indeleble y legible. Sólo en casos urgentes o por razón del lugar donde sean levantadas, a juicio del Notario, podrán ser manuscritas.
 
-No se inscribirán más de cuarenta líneas por página, a igual distancia unas de otras.
+No se inscribirán más de cuarenta líneas por página y deberán quedar a igual distancia unas de otras.
+
+La parte utilizable del folio deberá aprovecharse al máximo posible y no deberán dejarse espacios en blanco.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 47.
 
-El uso de los libros del Protocolo debe hacerse por el orden riguroso de la numeración de las escrituras y actas notariales, pasando de un libro al que le sigue en número, hasta después que aquél haya sido cerrado, poniendo la razón de clausura, para lo cual cada libro o volumen serán numerado en orden progresivo del uno en adelante.
+Por cada tomo del Protocolo Abierto el Notario llevará un libro de control de folios, el cual deberá estar encuadernado sólidamente y empastado.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1986)</small>
+Una vez que el Notario haya asentado en los folios un instrumento, deberán hacer constar de inmediato en el libro indicado, el número del mismo, su fecha, los números del primero y el últimos de los folios en los que fue asentado, la naturaleza del acto jurídico que contenga y los nombres de las partes. Al terminar cada hoja de éste libro asentará el sello de autorizar.
 
-Cuando el protocolo del Notario esté integrado por más de un libro en donde se asienten los instrumentos notariales, los libros se usarán de la manera siguiente: La primera escritura o acta en tiempo que se haya de asentar se anotará en el libro número uno; la segunda, en su caso, en el libro número dos, y así sucesivamente hasta terminar el último libro en uso en la primera vuelta. Se iniciará la segunda y demás vueltas de la misma manera, hasta agotar el juego de libros autorizados.
+El libro a que se refiere este artículo no será enviado al Archivo General de Notarías ni para revisión ni para su guarda en forma definitiva, pero podrá ser sujeto de inspección en los términos de esta Ley o las disposiciones de Derecho Común.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 48.
 
-La numeración de los instrumentos, o sea, de las escrituras y de las actas notariales, será progresiva desde el primer volumen en adelante, es decir, sin interrumpirla de un volumen a otro, aún cuando "no pase" alguna de dichas escrituras o actas.
+La numeración de los instrumentos será progresiva e igualmente será progresivo el número de los folios que se empleen.
 
-Entre uno y otro de los instrumentos, en un mismo volumen, no habrá más espacio que el indispensable para las firmas, autorización y sello.
+> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
 
-En todo caso se utilizarán con líneas cruzadas, los espacios sobrantes en la hoja en que concluya una escritura.
+Cuando por cualquier razón se inutilice o extravíe un folio antes de que la Escritura sea firmada por alguna de las partes, el Notario podrá sustituir el folio o folios inutilizados o extraviados, por otros, aunque no sea de enumeración sucesiva, con tal que sean de los que se estén empleando el mismo día, debiendo tomar nota de todo ello en el libro a que se refiere al artículo anterior y asentarlo al pie de la escritura, antes de las firmas, anotando los números de los folios utilizados, así como de los inutilizados extraviados, además en el folio cuyo número siga al intercalado se asentará una mención de que el faltante entre aquél y el que le precede se usó en substitución de otro con numeración anterior y de los números de folios entre los cuales quedó el intercalado.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 49.
 
-El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en un libro, lo cerrará, poniendo razón de clausura, en la que expresará: el número de hojas utilizadas; el número de instrumentos autorizados en el libro; el lugar, día y hora en que se cierra, así como los instrumentos que no pasaron y los que quedan pendientes de autorización, enumerando aquellos y expresando el motivo de estar pendientes éstos. Inmediatamente que ponga esta razón, autorizada con su firma y sello, llevará personalmente el libro al Archivo General de Notarías, si ejerce sus funciones en la ciudad de Querétaro, o lo remitirá por correo, bajo pieza certificada, si reside fuera. El Director del Archivo General de Notarias, extenderá certificación de ser exacta la razón que cierra el libro, autorizándola con su firma y sello y devolverá el libro al Notario, inutilizando por medio de líneas cruzadas, las hojas en blanco que hayan sobrado.
+Todo instrumento se iniciará al principio de un folio, y al final del último empleado en el mismo queda espacio, después de las firmas y autorización, éste se empleará para asentar las notas a que se refiere el artículo 52 de esta Ley. Los espacios en blanco que queden después de lo anterior serán cubiertos con líneas de tinta fuertemente grabadas.
 
-Si durante el lapso de cuarenta días, después de la clausura del libro, fueren autorizadas alguna y algunas escrituras de las que hubieren quedado pendientes, o se anotaren como no pasadas, se pondrá razón adicional a la clausura, haciendo constar tales hechos. Transcurridos los cuarenta días, el libro respectivo quedará definitivamente clausurado, salvo el caso de revalidación de instrumentos.
-
-La circunstancia de no llevar al Archivo General de Notarías el libro del Protocolo, en el supuesto a que se contrae este precepto, con la oportunidad que el mismo señala, establece contra el Notario omiso la presunción de dolo.
-
-> <small>(ADICIONADO, P.O. 02 DE ENERO DE 1986)</small>
-
-Cuando el notario tenga su protocolo en varios libros, al cerrar uno, tendrá que cerrarlos todos en los términos a que se refiere este artículo y para los efectos expresados en el mismo.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 50.
 
-Cuando esté por concluirse un libro del Protocolo, el Notario enviará al Secretario General de Gobierno el libro en que habrá de continuar actuando, para que, una vez, legalizado lo remita al Archivo General de Notarias, en donde lo recogerá el Notario, al hacer entrega del libro anterior al mismo Archivo, para su revisión.
+Dentro de los treinta días naturales siguientes a la terminación de un tomo, el Notario deberá asentar en una hoja en blanco, una razón en la que se indicará la fecha del asiento, el número de folios utilizados e instrumentos asentados y pondrá al calce de la misma su firma y sello de autorizar.
+
+La hoja en la que conste esta razón, deberá agregarse al final del último de los volúmenes que formen el tomo y el Notario comunicará al Archivo General de Notarías, el contenido de la nota de terminación.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 51.
 
-Por ningún motivo podrán sacarse de las Notarias los libros del Protocolo, ya sean los que estén en uso o los ya concluidos, si no es por el mismo Notario, o solo en los casos determinados por la presente Ley y para recoger firmas a las partes, cuando éstas no puedan asistir a la Notaría o el Notario está dispuesto a salir a recogerlas.
+A partir de la fecha en que se haga constar el último instrumento del tomo, el Notario dispondrá de un término de sesenta días naturales para encuadernar los volúmenes.
+
+> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+
+Dentro de los quince días naturales siguientes a la fecha de la razón a que se refiere el artículo anterior, a continuación se hará constar el número del mismo, el de los volúmenes que contiene, el número de hojas de que consta cada volumen, el número de instrumentos contenidos en el tomo, con expresión del número correspondiente al primero y al último de los instrumentos asentados en el mismo, y eventualmente los números de los instrumentos que no estén autorizados, señalando la razón por la que no lo están. Al calce de esta nota el Notario asentará su firma y sello de autorizar.
+
+Dentro de los treinta días naturales siguientes a la fecha en que deba estar encuadernado cada tomo, el Notario deberá enviarlo al Archivo General de Notarías. Dicha oficina revisará la exactitud de la razón que cierra el tomo, autorizándolo con su firma y sello y devolverá los volúmenes dentro de los cinco días hábiles siguientes a la fecha de su recepción.
+
+> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+
+La circunstancia de no llevar al Archivo General de Notarías los volúmenes del Protocolo, en el supuesto a que se contrae este precepto, con la oportunidad que el mismo señala, será causa para no autorizar nuevos folios o de corrección disciplinaria que impondrá el Secretario de Gobierno al recibir el informe del Director del Archivo General de Notarías.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 52.
 
-Si alguna autoridad, con facultades legales, ordena la vista o inspección de uno o más libros del Protocolo, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste.
+En el último folio utilizado de cada Escritura, si hubiere necesidad, el Notario pondrá después de la autorización preventiva o la definitiva cuando la primera no sea necesaria, el encabezado "Notas Complementarias" y ahí consignará todas las anotaciones que en la presente Ley se indique que deban hacerse marginalmente.
+
+Si la parte final del folio no fuere suficiente, la autorización definitiva o las anotaciones se harán en una o varias hojas comunes de las mismas medidas y calidad de los folios que se agregarán al volumen, selladas y firmadas por el Notario consignando el número de la escritura a que corresponda.
+
+> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+
+Sólo en caso de adiciones a una Escritura, si las mismas no caben en el folio en el que hubiera terminado la redacción de la Escritura, y el siguiente ya se hubiere empleado, se podrá utilizar uno o más diferentes, siguiendo el procedimiento señalado en segundo párrafo del artículo 48 de esta Ley.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 53.
 
-Los Notarios guardarán en su archivo los libros cerrados de su Protocolo, durante cinco años, contados desde la fecha en que el Director del Archivo General de Notarías ponga la certificación de cierre. A la expiración de este término, el Notario entregará los libros respectivos al Archivo General de Notarías, en donde quedarán definitivamente.
+Los folios que integran el Protocolo deberán estar siempre en la Notaría, salvo en los casos expresamente permitidos por esta Ley, o cuando haya que recoger las firmas de quienes no puedan asistir a la Notaría, o el Notario esté dispuesto a salir a recogerlas.
 
-El Archivo General de Notarías dará aviso al Secretario General de Gobierno cuando no cumplen los Notarios con lo dispuesto en este Artículo.
+Si alguna autoridad, con facultades legales, ordena la visita o inspección de uno o más volúmenes del Protocolo, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
 ###### ARTICULO 54.
 
-El Notario en relación con los libros del Protocolo, llevará una carpeta por cada volumen, en donde irá depositando los documentos que se refieren a las escrituras y a las actas. El contenido de esta carpeta se llama "Apéndice", el cual se considerará como parte integrante del Protocolo.
+Los Notarios guardarán en su archivo los tomos cerrados de su Protocolo, durante cinco años, contados desde la fecha en que el Director del Archivo General de Notarías ponga la certificación de cierre. A la expiración de este término, el Notario entregará los tomos respectivos al Archivo General de Notarías, en donde quedarán definitivamente.
+
+El Archivo General de Notarías dará aviso al Secretario de Gobierno cuando no cumplan los Notarios con lo dispuesto en este artículo.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992 (F. DE E., P.O., 14 DE MAYO 1992)</small>
 
 ###### ARTICULO 55.
 
-Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos, el número que corresponde al de la escritura o acta a que se refieren. En cada uno de los documentos, se pondrá una letra que los señale y distinga de los otros que forman el legajo. Los expedientes que se protocolicen por mandato judicial, mismos que se agregarán al Apéndice del volumen respectivo, se considerarán como un solo documento.
+El Notario, en relación con los tomos del Protocolo llevará una carpeta por cada volumen, en donde ira depositando los documentos que se refieren en las Escrituras y las Actas. El contenido de esta carpeta se llama "Apéndice", el cual se considerará como parte integrante del Protocolo.
+
+Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos, el número que corresponde al de la Escritura o Acta a que se refieren. En cada uno de los documentos, se pondrá una letra que los señale y distinga de los otros que forman el legajo. Los documentos que se protocolicen, integrados por más de una hoja, se considerarán como uno solo.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 56.
 
-Las carpetas de los Apéndices se encuadernarán ordenadamente y se empastarán uno o más en vólumenes, a juicio del Notario, en atención al número de hojas que contenga, a más tardar ciento veinte días después de la fecha del cierre del libro del protocolo a que pertenecen, cuyo número se les pondrá.
+Las carpetas de los Apéndices se encuadernarán ordenadamente y se empastarán uno o más volúmenes a juicio del Notario en atención al número de hojas que contenga, a más tardar ciento ochenta días después de la fecha del cierre del libro del protocolo a que pertenecen, cuyo número se les pondrá.
+
+Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su volumen y tomo respectivos, cuando éstos deban ser entregados definitivamente al Archivo General de Notarias.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE., P.O. 14 DE MAYO DE 1992)
 
 ###### ARTICULO 57.
 
-Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su libro respectivo, cuando éste deba ser entregado al Archivo de Notarías.
+Independientemente de los tomos y de las carpetas del Apéndice, los notarios tendrán obligación de formar por duplicado un índice de cada tomo, de todos los instrumentos que autorice, por orden alfabético, de apellidos, denominación o razón social de cada uno de los otorgantes y con expresión del número del instrumento, naturaleza del acto o hecho y folio, mismo que cuando llegue la vez de entregar el Tomo al Archivo General de Notarias, se entregue también un ejemplar de dicho índice al propio Archivo, quedándose con el otro el Notario.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 58.
 
-Independientemente de los libros y de las carpetas del Apéndice, los Notarios tendrán la obligación de formar un índice de cada libro, de todos los instrumentos que autoricen, por orden alfabético de apellidos de cada uno de los otorgantes y de su representado, en su caso, con expresión del número del instrumento, naturaleza del acto o hecho, folio de que, cuando llegue la vez de entregar el Libro al Archivo de Notarías, se entregue también un ejemplar de dicho índice al propio Archivo, quedándose con el otro el Notario.
+Serán aplicables al Protocolo Abierto, todas las demás, disposiciones de la presente Ley que no se opongan a lo establecido en este Capítulo.
 
 ### CAPITULO VII. DE LA CLAUSURA DEL PROTOCOLO
 
@@ -663,7 +723,7 @@ V.- Si se omitió la constancia relativa a la lectura;
 
 VI.- Si no se hizo constar, en caso de que alguno de los interesados sea sordo o sordomudo que esté leyó por él mismo instrumento o que se cercioró de su contenido por algún medio, si no sabe o no puede leer;
 
-VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en caso contrario, cuando se omita hacer mérito de esta circunstancia;
+VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en caso contrario, cuando se omita hacer merito de esta circunstancia;
 
 VIII.- Si no está autorizada preventivamente con la firma y sello del Notario o falta la nota "ante mi" o la razón de la autorización definitiva;
 
@@ -787,35 +847,53 @@ Los encargados de las oficinas del Registro Civil ante quienes se diere aviso de
 
 Cuando un Notario cese en su cargo por cualquier causa, la Dirección del Archivo General de Notarías lo publicará por una vez en el Periódico Oficial del Estado.
 
-### CAPITULO XIV. DE LA RESPONSABILIDAD DE LOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE ENERO DE 1992)</small>
 
-NOTARIOS
+### CAPITULO XIV. DE LA RESPONSABILIDAD DE LOS NOTARIOS Y DE LA COMISIÓN DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 112.
 
-La responsabilidad administrativa consiste en la infracción de alguno de los preceptos contenidos en esta Ley y que no esté prevista en las Leyes Penales o Civiles.
+La responsabilidad administrativa de los Notarios consiste en la infracción de alguno de los preceptos contenidos en esta Ley y que no esté prevista en las Leyes Penales o Civiles.
 
 La infracción que produzca una responsabilidad administrativa, que no tenga sanción especialmente señalada, será castigada por el Ejecutivo como falta, con alguna de las correcciones disciplinarias siguientes:
 
 I.- Apercibimiento;
 
-II.- Multa que no excederá de cinco mil pesos;
+II.- Multa que no excederá de trecientos días de salario mínimo general vigente en la zona;
 
-III.- Suspensión de funciones hasta por seis meses.
+III.- Suspensión de funciones hasta por seis meses y,
 
-Estas sanciones administrativas, podrán aplicarse sin seguir el orden de su enumeración y atendiendo sólo a la gravedad de la falta.
+IV.- Suspensión o separación definitiva del cargo.
+
+Estas sanciones administrativas podrán aplicarse sin seguir el orden de su enumeración y atendiendo sólo a la gravedad de la falta.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 113.
 
-Para aplicar a los Notarios las sanción administrativa que establece la Fracción II del Artículo anterior, el Ejecutivo tomará en cuenta el resultado de las visitas que se practiquen por la Dirección General de Notarías.
+Para aplicar a los Notarios las sanciones administrativas a que se refiere el artículo anterior, el Ejecutivo se auxiliará de la Comisión de Honor y Justicia del Consejo de Notarios, que estará integrada por los últimos cuatro ex-presidentes del mismo y por el Presidente en funciones quien además será el Presidente de dicha comisión.
+
+> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+
+Para el caso de que la Comisión de Honor y Justicia no pudiera integrarse con los últimos cuatro ex-presidentes o por el Presidente del Consejo en funciones, ya sea por ausencia o por ser la queja en contra de alguno de ellos, la Directiva del Consejo de Notarios en Pleno deberá designar de entre sus miembros a quien habrá de sustituirlo, no pudiendo exceder dicha Comisión de cinco miembros.
+
+(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O. 14 DE MAYO DE 1992)
 
 ###### ARTICULO 114.
 
-Tratándose de actos u omisiones de los Notarios que por su gravedad pudieren motivar la suspención o separación definitiva del cargo que desempeñan, antes de dictar resolución sobre el caso se seguirá el siguiente procedimiento:
+Para presentar una queja en los casos de responsabilidad administrativa de los Notarios, se estará el siguiente procedimiento:
 
-El Ejecutivo designará un visitador que practique la investigación que corresponda y con el resultado de la misma, se dará conocimiento al Consejo de Notarios para que en el término de veinte días, rinda su opinión acerca de los hechos investigados, auxiliándose también de los datos que por su parte se allegue.
+La queja respectiva deberá presentarse ante la Comisión de Honor y Justicia del Consejo de Notarios, por conducto de su Presidente o ante el Secretario de Gobierno, si dicha queja es en contra del Presidente.
 
-Recibida la opinión del Consejo, el Ejecutivo oirá personalmente al Notario de que se trate, concediéndole el término de quince días para que aporte pruebas en su defensa y fenecido el término, se dictará la resolución contra la que no procede ulterior recurso administrativo. La substanciación del procedimiento señalado, en ningún caso podrá exceder del plazo de los dos meses.
+La Comisión de Honor y Justicia, debidamente integrada, emitirá sus opiniones respecto de los actos y omisiones de los Notarios en un término de diez días hábiles contados a partir de la fecha en que reciba la queja, haciendo un análisis del caso y sus circunstancias: deberá previamente escuchar a las partes afectadas, recibir de ellas las pruebas relacionadas con los hechos motivo de la queja y tomará sus acuerdos por mayoría de votos.
+
+Queda facultada la Comisión de Honor y Justicia o un Delegado de la misma, para hacer las visitas que sean necesarias a los despachos de los Notarios, así como las inspecciones que se requieran en el Protocolo y documentos relativos al caso, a fin de estar en posibilidad de emitir su opinión.
+
+La Comisión de Honor y Justicia remitirá su opinión al Secretario de Gobierno del Estado para su resolución, sugiriendo en su caso la sanción correspondiente.
+
+Aún para el caso de que la Comisión de Honor y Justicia determine que es improcedente la petición de la parte quejosa, turnará la opinión respectiva a la Secretaria de Gobierno, para su conocimiento y resolución en última instancia.
 
 ###### ARTICULO 115.
 
@@ -945,7 +1023,9 @@ VIII.- Conservar los documentos y papeles propios de su oficina, debidamente cla
 
 IX.- Cuidar de que sólo los Notarios tomen en su presencia las notas que necesiten para extender una nueva escritura, no pudiendo, por lo tanto, confiar a los particulares la busca de documentos, libros o protocolo alguno de los pertenecientes al Archivo;
 
-X.- Entregar a los Notarios los nuevos libros que reciban de la Secretaría, conforme al Artículo 50;
+> <small>(REFORMADA P.O. 9 DE ENERO DE 1992)</small>
+
+X.- Entregar a los Notarios tan pronto los reciba, los nuevos folios conforme al artículo 43, debidamente autorizados mediante perforaciones, salvo el caso de excepción que esta Ley previene;
 
 XI.- Rendir los informes que le pida la Secretaría General de Gobierno;
 
@@ -985,9 +1065,11 @@ Cualquiera falta o irregularidad que cometa el Director del Archivo General de N
 
 TRANSITORIOS:
 
+RTICULO PRIMERO.- Esta Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga".
+
 ###### ARTICULO PRIMERO.
 
-Esta Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga".
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial " La Sombra de Arteaga".
 
 ###### ARTICULO SEGUNDO.
 
@@ -1058,3 +1140,11 @@ P.O. 17 DE ENERO DE 1991
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+P.O. 9 DE ENERO DE 1992
+
+PRIMERO.- La presente Ley entrará en vigor el día quince de mayo de mil noveciento (sic) noventa y dos.
+
+> <small>(F. DE E., P.O. 14 DE MAYO DE 1992)</small>
+
+SEGUNDO.- El catorce de mayo de mil novecientos noventa y dos, todos los Notarios en el Estado deberán dar por concluidos los libros protocolos que actualmente usan, haciendo anotaciones a que se refiere el artículo 49 de la actual Ley y en la misma fecha darán aviso de ello por escrito a la Secretaría de Gobierno del Estado, indicando a partir de que número de Escritura inicia el sistema de Protocolo Abierto y los números de Escritura que no se usarán, para el efecto de que empiecen su numeración con el número uno de la centena siguiente más próxima.
