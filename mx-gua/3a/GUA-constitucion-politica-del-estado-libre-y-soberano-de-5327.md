@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1933-09-07"
+last_updated: "1938-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -289,7 +289,17 @@ IV. No ser ni haber sido ministro o delegado de algún culto religioso.
 
 V. No ser militar en servicio activo o ciudadano con mando de fuerzas, regulares o irregulares, en el Estado, dentro de los ciento ochenta días anteriores a la fecha de la elección, ni el día en que ésta se efectúe; y
 
-VI. No estar comprendido en alguna de las prohibiciones que establece el artículo 60 de esta Constitución.
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1938)</small>
+
+VI. No ser Secretario de Estado, Jefe de Departamento Autónomo Federal, Ministro de la Suprema Corte, ni Procurador General de Justicia de la Nación, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1938)</small>
+
+VII. No ser Magistrado del Supremo Tribunal de Justicia del Estado, ni Procurador General de Justicia del mismo, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1938)</small>
+
+VIII. No estar comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
@@ -1099,12 +1109,16 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 28 DE ABRIL DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 15 DE ENERO DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 7 DE SEPTIEMBRE DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 10 DE JULIO DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
