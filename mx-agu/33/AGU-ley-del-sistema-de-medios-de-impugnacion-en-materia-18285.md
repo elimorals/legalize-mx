@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-de-medios-de-impugnacion-en-materia-18285"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2001-11-26"
+last_updated: "2003-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEPTIMO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EL 1 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre del 2000.
 
@@ -766,3 +768,33 @@ P.O. 26 DE NOVIEMBRE DE 2001.
 PRIMERO.- El presente decreto entrará en vigor el primero de enero del año 2002.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Instituto Estatal Electoral expedirá su Reglamento Interior y el Reglamento de Sesiones del Consejo en el término de noventa días a partir de la entrada en vigor del presente Código.
+
+###### ARTICULO TERCERO.
+
+El Servicio Profesional Electoral Estatal se integrará, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de este Código. En tanto se integre e inicie sus funciones, el personal y funcionarios del Instituto Estatal Electoral, serán designados por el Consejo.
+
+###### ARTICULO CUARTO.
+
+Los consejeros ciudadanos del Consejo General del Instituto Estatal Electoral durarán en su cargo el tiempo previsto por el artículo 68 de este Código, contando a partir de la fecha de su designación según Decreto número 25 expedido el 6 de marzo del año 2002 y publicado el 1º de abril del mismo año.
+
+###### ARTICULO QUINTO.
+
+El Presupuesto de Egresos del Instituto, el proyecto de presupuesto para el Financiamiento Público para Gastos Ordinarios y de Campaña de los Partidos Políticos y el Financiamiento Público a las Asociaciones Políticas para el ejercicio del año 2004, el Consejo General del Instituto Estatal Electoral deberá remitirlos al titular del Poder Ejecutivo y al Congreso del Estado para su integración en el Presupuesto General del Egresos (sic) del Estado a más tardar en la primer semana de octubre del presente año.
+
+###### ARTICULO SEXTO.
+
+La solicitud de registro de las asociaciones políticas ante el Consejo, en el presente año, por esta única ocasión podrá realizarse hasta antes de la segunda quincena del mes de noviembre.
+
+###### ARTICULO SEPTIMO.
+
+Este Código abroga al Código Electoral del Estado de Aguascalientes, de fecha 28 de octubre de 2000, así como las reformas y adiciones publicadas en el Periódico Oficial del Estado en fechas 28 de febrero de 2001 y 14 de noviembre de 2001; la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Aguascalientes, contenida en el Decreto 131, expedido el 28 de octubre del año 2000, y publicado el 30 del mismo mes y año en el Periódico Oficial del Estado.
