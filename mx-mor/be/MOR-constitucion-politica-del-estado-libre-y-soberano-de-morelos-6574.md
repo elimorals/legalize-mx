@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1954-02-24"
+last_updated: "1957-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1957.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -592,7 +592,9 @@ No pueden ser Gobernador del Estado:
 
 I.- Los que pertenezcan o hayan pertenecido al estado eclesiástico, o sean o hayan sido ministros de algún culto.
 
-II.- Los miembros del Ejército Nacional y quienes tengan mando de fuerza en el Estado, que no se hayan separado del servicio activo con dos años de anticipación inmediatamente anteriores a las elecciones.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1957)</small>
+
+II.- Los miembros del Ejército Mexicano y quienes tengan mando de fuerza dentro o fuera del Estado, que no se hayan separado del servicio activo con seis meses de anticipación, inmediatamente anteriores a las elecciones.
 
 III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
 
@@ -1345,3 +1347,9 @@ SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de la Fracción I d
 P.O. 24 DE FEBRERO DE 1954.
 
 UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 2 DE ENERO DE 1957.
+
+PRIMERO.- El presente Decreto principiará a surtir sus efectos Constitucionales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I, del Artículo 71 de la Constitución Política Local.
