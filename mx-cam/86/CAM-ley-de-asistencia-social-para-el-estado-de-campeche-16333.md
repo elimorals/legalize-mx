@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-asistencia-social-para-el-estado-de-campeche-16333"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-06"
-last_updated: "2000-04-06"
+last_updated: "2001-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 6 de abril de 2000.
 
@@ -747,7 +747,7 @@ La Coordinación Jurídica tiene como funciones las siguientes:
 
 I.- Dar la asesoría legal del organismo en asuntos jurídicos que le permitan cumplir con eficiencia los Programas de Asistencia Social que tiene por objeto;
 
-II.- Supervisar que la asistencia jurídica que proporciona la Procuraduría de la Defensa del Menor, la Mujer y la Familia, se otorgue de manera adecuada y efectiva a los sujetos de la Asistencia Social, e informar de las actividades de ésta al Director General del organismo;
+II.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2001)
 
 III.- Asistir en representación del organismo a los eventos que le sean encomendados por la Dirección General y la Presidenta Honoraria del Patronato del mismo;
 
@@ -761,7 +761,7 @@ VII.- Establecer convenios y acuerdos con la Procuraduría General de Justicia d
 
 VIII.- Representar al organismo en los asuntos legales, con el Poder otorgado por el Director General;
 
-IX.- Establecer acorde con el organismo nacional, las metas de trabajo que se deben cumplir anualmente; y
+IX.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2001)
 
 X.- Las demás que sean necesarias para el ejercicio de la (sic) anteriores y las que el Director General del organismo le encomiende.
 
@@ -793,7 +793,9 @@ VIII.- Vigilar el exacto cumplimiento de las disposiciones de protección físic
 
 IX.- Hacer del conocimiento de las autoridades competentes toda violación a las normas vigentes que protejan los intereses del menor de edad;
 
-X.- Establecer programas tendientes a evitar el maltrato de los menores de edad proporcionando al efecto atención, cuidado y vigilancia;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+X.- Establecer, acorde con el organismo nacional, las metas de trabajo que se deben cumplir anualmente, así como programas tendientes a evitar el maltrato de los menores de edad proporcionado (sic) al efecto atención, cuidado y vigilancia;
 
 XI.- Realizar visitas mensuales de supervisión, a la Unidad Administrativa encargada de la Prevención y el Tratamiento de Menores Infractores con la finalidad de vigilar el estricto cumplimiento y agilidad de los procesos de los menores de edad, apegándose en lo señalado en el artículo 17 de nuestra Constitución Política de los Estados Unidos Mexicanos, así como de escuchar las peticiones de los menores de edad y atender sus necesidades, levantando al efecto el acta circunstanciada;
 
@@ -1032,3 +1034,11 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 4 de abril del 200
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los cuatro días del mes de abril del año dos mil.- El Gobernador Constitucional del Estado, L.A. José Antonio González Curi.- El Secretario de Gobierno, Lic. Carlos Felipe Ortega Rubio.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
