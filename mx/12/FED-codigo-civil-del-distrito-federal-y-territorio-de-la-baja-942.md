@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-del-distrito-federal-y-territorio-de-la-baja-942"
 country: "mx"
 rank: "codigo"
 publication_date: "1871-02-28"
-last_updated: "1871-02-28"
+last_updated: "1884-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=942&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1870-12-13"
 ---
 # CODIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO 2° DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA, EXPEDIDO EL 31 DE MARZO DE 1884, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA EXPEDIDA: 31 DE MARZO DE 1884 (DEROGADO).
 
 Código publicado al Número 59 del Diario Oficial del Gobierno Supremo de la República, el martes 28 de febrero de 1871.
 
@@ -11832,3 +11834,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Y lo comunico á vd. para su inteligencia y fines consiguientes.
 
 Independencia y libertad. México, Diciembre 13 de 1870.- Iglesias.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+31 DE MARZO DE 1884.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA".]
+
+1°. Este Código comenzará á regir el dia 1°. de Junio próximo.
+
+2°. Desde la misma fecha quedará derogado el Código Civil de 13 de Diciembre de 1870, así como toda la legislacion civil anterior.
