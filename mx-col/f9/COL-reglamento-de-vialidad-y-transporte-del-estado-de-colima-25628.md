@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-vialidad-y-transporte-del-estado-de-colima-25628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-13"
-last_updated: "2002-07-13"
+last_updated: "2002-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE VIALIDAD Y TRANSPORTE DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 13 de julio de 2002.
 
@@ -77,9 +77,17 @@ IV. El Director de Transporte;
 
 V. Los Subdirectores de las Direcciones a que se refieren las fracciones III y IV anteriores;
 
-VI. Los Oficiales, Peritos, Jueces Calificadores y Agentes; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-VII. Los Delegados Regionales.
+VI. Los Oficiales, Peritos, Jueces Calificadores y Agentes;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VII. Los Delegados Regionales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VIII. Los Receptores de Rentas.
 
 ###### ARTICULO 6o.
 
@@ -157,9 +165,17 @@ f) Dirección de Vialidad, a la Dirección de Seguridad Pública y Vialidad;
 
 g) Director de Vialidad, al Director de Seguridad Pública y Vialidad;
 
-h) Direcciones, a las Direcciones de Transporte y de Seguridad Pública y Vialidad; y
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-i) Directores, a los Directores de Transporte y de Seguridad Pública y Vialidad.
+h) Direcciones, a las Direcciones de Transporte y de Seguridad Pública y Vialidad;
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+i) Directores, a los Directores de Transporte y Seguridad Pública y Vialidad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+j) Registro, al Registro Estatal Vehícular.
 
 ### CAPITULO II. DE LA CLASIFICACION DE VEHICULOS
 
@@ -193,31 +209,47 @@ Los vehículos de servicio social se identificarán plenamente con logotipos y s
 
 Los vehículos clasificados en este capítulo que sean destinados a actividades comerciales, deberán registrarse ante la Dirección, independientemente de cumplir con la legislación aplicable y su uso se sujetará estrictamente al giro o actividad propia de la empresa de que se trate.
 
-### CAPITULO III. DEL REGISTRO DE VEHICULOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+### CAPITULO III. DEL REGISTRO ESTATAL VEHICULAR
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 16.
 
-Para que un vehículo pueda circular en la entidad, deberá contar con la documentación correspondiente expedida por las autoridades competentes de la entidad federativa o país de su procedencia.
+Para que un vehículo pueda circular en las vías públicas de la Entidad, deberá contar con la documentación vigente expedida por la autoridad competente, que constará de lo siguiente:
 
-Los vehículos deberán estar provistos de placas de matrícula, calcomanía, tarjeta de circulación, holograma o, en su caso, de permiso provisional vigentes.
+I. Placas de matricula:
+
+II. Calcomanía de identificación de matrícula;
+
+III. Tarjeta de circulación; y
+
+IV. Calcomanía fiscal vehicular.
+
+También podrán circular los vehículos que no cuenten con la documentación referida en las fracciones anteriores, siempre que porten a la vista un permiso provisional vigente expedido por autoridad competente.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 17.
 
-El registro de vehículos se efectuará ante la Dirección, debiendo satisfacer los siguientes requisitos:
+Para obtener por primera vez los documentos que se señalan en el artículo anterior, las personas físicas y morales domiciliadas en la entidad inscribirán en el Registro de vehículos de su propiedad, para lo cual deberán satisfacer los siguientes requisitos:
 
-a) Presentar los documentos que amparen la propiedad del vehículo, de conformidad con las disposiciones jurídicas aplicables;
+I. Presentar los documentos que amparen la propiedad del vehículo, de conformidad con las disposiciones jurídicas aplicables;
 
-b) Exhibir los documentos de regularización expedidos por las autoridades correspondientes, tratándose de vehículos de procedencia extranjera;
+II. Exhibir los documentos de regularización expedidos por las autoridades competentes, tratándose de vehículos de procedencia extranjera;
 
-c) Demostrar que el vehículo reúne las condiciones de seguridad y buen funcionamiento, a juicio de la Dirección;
+III. Demostrar que el vehículo reúne las condiciones de seguridad y buen funcionamiento, a juicio de la Dirección;
 
-d) Exhibir el comprobante de pago de tenencia del año en que se efectúe;
+IV. Exhibir el comprobante de pago del Impuesto sobre Tenencia o Uso de Vehículos del ejercicio fiscal en curso y, en su caso, de los 4 ejercicios fiscales anteriores;
 
-e) Tratándose de vehículos usados, se deberá anexar la cancelación del registro anterior;
+V. Aviso de baja del vehículo en el registro vehicular del Estado de su procedencia, tratándose de unidades vehiculares usadas;
 
-f) Exhibir licencia vigente o comprobante de domicilio; y
+VI. Comprobante de domicilio actualizado;
 
-g) Cubrir los derechos fiscales correspondientes.
+VII. Efectuar el pago de los derechos fiscales correspondientes; y
+
+VIII. Presentar físicamente el vehículo para verificar la autenticidad del número de serie del chasis y visualmente el número de motor, quedando como constancia la calca de los números obtenidos.
 
 ###### ARTICULO 18.
 
@@ -233,21 +265,45 @@ II. Por pérdida de sus placas de circulación.
 
 Los permisos provisionales tendrán vigencia de 30 días naturales, pudiendo renovarse a criterio de la Dirección.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 20.
 
-Cuando un vehículo cambie de propietario, el vendedor y el adquiriente deberán comunicarlo a la Dirección dentro de los 30 días naturales siguientes a la operación de compraventa o cesión. De no darse el aviso correspondiente, persistirán las obligaciones y responsabilidad de quien aparezca registrado como propietario. El nuevo registro sólo se realizará cuando se haya dado el aviso de baja del anterior, se tramite la alta correspondiente y se efectúe el pago respectivo de derechos.
+Los propietarios de vehículos inscritos en el Registro, deberán presentar, además, los avisos que a continuación se señalan:
+
+I. De cambio de domicilio;
+
+II. De cambio de nombre, denominación o razón social;
+
+III. De cambio de motor; y
+
+IV. De baja del Registro.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 21.
 
-Cuando el propietario de un vehículo desee darlo de baja definitiva, deberá presentar la solicitud correspondiente, pagar el importe de adeudos fiscales por multas y otros conceptos diversos y entregar la tarjeta de circulación y las placas del vehículo.
+Los avisos previstos en las fracciones I a III del artículo anterior, deberán presentarse por los interesados en los formatos aprobados por la Dirección, dentro de los 30 días naturales siguientes a la fecha en que ocurran los cambios respectivos.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 22.
 
-Cuando se realice el cambio de motor o de las características del vehículo especificadas en el registro, el propietario deberá dar el aviso correspondiente a la Dirección.
+El aviso de baja del Registro se presentará ante las propias autoridades señaladas en el artículo que antecede, dentro de los 30 días naturales siguientes a la fecha en que se den los supuestos que a continuación se mencionan:
+
+a) Enajenación del vehículo;
+
+b) Robo o pérdida total del vehículo;
+
+c) Inutilización del vehículo para circular en las vías públicas.
+
+En tanto no se presente el aviso de bajo (sic) del Registro, persistirán las obligaciones y responsabilidades de quien aparezca inscrito como propietario.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 23.
 
-Tratándose del registro de motocicletas, las solicitudes deberán satisfacer los requisitos establecidos en el presente capítulo y los demás que dicte la Dirección.
+Para que se opere la baja del Registra (sic) de un vehículo, deberán pagarse los adeudos por conceptos de impuestos, derechos y multas generadas con motivo de la tenencia y circulación de la unidad vehicular y entregar las placas de matrícula y la tarjeta de circulación.
 
 ### CAPITULO IV. DE LAS PLACAS DE CIRCULACION
 
@@ -817,7 +873,7 @@ II. Transitar sobre la raya longitudinal marcada en la superficie de rodamiento 
 
 III. Estacionarse sobre la carretera cerca de curvas, pendientes, en los puentes o donde no sea visible el vehículo a una distancia que proporcione seguridad para el frenado de otro. En casos extraordinarios podrá hacerlo en la carpeta asfáltica, siempre que no haya acotamiento, pero en todo caso, el conductor deberá ubicar señalamientos preventivos desde una distancia no menor de 100 metros anteriores, con puntos a intervalo de 50 metros. Se prohíbe estacionarse sobre cualquier espacio de la carretera sin instalar señales preventivas;
 
-IV. Transportar en los vehículos un número mayor de personas a las permitidas como pasajeros de acuerdo al diseño de la unidad y en función del objeto o uso al que se destine y esté registrado ante la Dirección o se estipule en la tarjeta de circulación correspondiente;
+IV. Transportar en los vehículos un número mayor de personas a las permitidas como pasajeros de acuerdo al diseño de la unidad y en función del objeto o uso al que se destine y esté registrado ante la Dirección o se estipule en la tarjeta de circulación correspondiente.
 
 V. Circular transportando personas en la cajuela o llevando la tapa abierta; y
 
@@ -1387,9 +1443,17 @@ El Gobernador podrá introducir en las concesiones otorgadas, las modificaciones
 
 Las concesiones a que se refiere el presente capítulo se expedirán por año fiscal. Podrán revalidarse anualmente, previo pago de los derechos fiscales correspondientes, siempre y cuando el titular demuestre por escrito a la Secretaría General de Gobierno su interés de seguir prestando el servicio con 2 meses de anticipación a la conclusión del ejercicio fiscal respectivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+La inobservancia de esta disposición producirá la caducidad de las concesiones respectivas.
+
 ###### ARTICULO 186.
 
 Los concesionarios y permisionarios del transporte público estarán obligados a prestar gratuitamente el servicio de sus unidades, en caso de siniestros o calamidades, cuando sean requeridos para ello por las Direcciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+Solamente con autorización por escrito de la Dirección, los concesionarios y permisionarios del transporte público podrán colocar y fijar propaganda y publicidad de todo tipo en sus unidades.
 
 ###### ARTICULO 187.
 
@@ -1552,6 +1616,10 @@ Las violaciones a las disposiciones de la Ley y este Reglamento, se sancionarán
 ###### ARTICULO 212.
 
 Es facultad de las Direcciones, en sus respectivos ámbitos de competencia, aplicar las sanciones a los infractores de las disposiciones de la Ley y el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+Las Receptorías de Rentas están facultadas para sancionar únicamente por violaciones a las disposiciones contenidas en el artículo 20 de este Reglamento.
 
 ###### ARTICULO 213.
 
@@ -2007,11 +2075,13 @@ Se entiende por unidad de salario, el salario mínimo general diario vigente en 
 
 El monto específico de las multas por infringir este Reglamento, se regulará mediante tabulador que elabore la Dirección de Vialidad y que apruebe el Gobernador. Este tabulador deberá ser publicado en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 219.
 
-Si el importe de la sanción se cubre voluntariamente dentro de los 15 días naturales siguientes al de la infracción, se descontará el 50 por ciento; después de este término se estará a lo que establecen las disposiciones fiscales correspondientes.
+Si el importe de la sanción se cubre voluntariamente dentro de los 10 días naturales siguientes al de la infracción, se descontará el 50 por ciento; en este caso, el monto que se tomará como base será el mínimo establecido en el rango a que corresponde el código de infracción señalado en el tabulador de sanciones respectivo.
 
-Este beneficio tendrá también efectos en los casos a que se refiere la fracción III del artículo 220 de este ordenamiento, a partir de que se notifique al propietario del vehículo.
+Al término del plazo a que se refiere el párrafo anterior, la Dirección verificará si el Infractor cubrió el importe de la sanción. En caso contrario, emitirá la resolución correspondiente que deberá notificarse personalmente al infractor.
 
 ###### ARTICULO 220.
 
@@ -2025,15 +2095,23 @@ b) Número y demás especificaciones de su licencia de manejo, en su caso;
 
 c) Datos contenidos en la tarjeta de circulación del vehículo con que se haya cometido la infracción, salvo el caso previsto en la fracción III de este artículo;
 
-d) Descripción de la infracción cometida y cita del artículo y fracción violada;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+d) Descripción sucinta en la infracción cometida y cita del artículo y fracción violada. En su caso, código de la infracción, de conformidad con el articulo 216 de este ordenamiento;
 
 e) Lugar, fecha y hora de la comisión de la infracción;
 
-f) Nombre y firma del agente que levanta la boleta de infracción.
+(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002) (F. DE E., P.O. 30 DE NOVIEMBRE DE 2002)
 
-II. De la boleta se entregará el original al infractor; si éste se niega a recibirla se hará constar en las copias; en el caso de la fracción siguiente, el original se dejará sujeto al parabrisas de la unidad.
+f) Firma del infractor. Si éste se negare a firmar, el agente recogerá en garantía alguno de los documentos a que se refiere el artículo 16 de este Reglamento. La falta de firma del infractor no invalida la legalidad de la boleta.
 
-III. Si el responsable de la infracción no se encuentra presente, el agente que levante la boleta lo hará constar en la misma, por lo que no deberá anotar el nombre y domicilio del infractor, así como los datos contenidos en la tarjeta de circulación.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+II. De la boleta se entregará el original al infractor; si éste se niega a recibirla se hará constar en las copias. La negativa del infractor a recibir el original de la boleta no invalida la legalidad de la misma.
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+III. Si el responsable de la infracción no se encuentra presente, el agente que levante la boleta lo hará constar en la misma, por lo que no anotará el nombre ni el domicilio del infractor, ni los datos contenidos en la tarjeta de circulación y dejará el original de la boleta sujeto al parabrisas de la unidad. En este caso, el agente recogerá una placa de matrícula.
 
 ###### ARTICULO 221.
 
@@ -2075,17 +2153,25 @@ c) Si durante la operación de retiro se presentara el propietario o conductor d
 
 La imposición de sanciones con motivo de la infracción a cualquiera de las disposiciones contenidas en el presente Reglamento, podrá ser impugnable mediante el recurso de revisión, ante el Director de Vialidad, el Director de Transporte o los Delegados de Vialidad o de Transporte en los municipios correspondientes, en su caso.
 
-El recurso deberá interponerse por escrito por el interesado dentro de las 72 horas siguientes cometida la infracción correspondiente, ante el juez calificador quien turnará de inmediato el escrito de impugnación a la autoridad competente. En el escrito deberán acompañarse las pruebas que fundamentan la impugnación.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-La autoridad resolverá sobre dicho recurso en un plazo que no exceda los 5 días hábiles contados a partir de la interposición de aquél.
+El recurso deberá interponerse por escrito por el interesado dentro de los 15 días hábiles siguientes al de la notificación de la resolución a que se refiere el artículo 219 del presente ordenamiento. En el escrito deberán acompañarse las pruebas que fundamentan la impugnación.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+La autoridad resolverá sobre dicho recurso en un plazo que no exceda de los 15 días hábiles contados a partir de la interposición de aquél.
 
 ###### ARTICULO 225.
 
 La autoridad competente podrá revocar, modificar o ratificar las sanciones impuestas.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 226.
 
-La resolución que se emita será comunicada personalmente al quejoso en el domicilio señalado en el escrito de impugnación. En caso de modificación o ratificación de la sanción, el quejoso deberá cubrir el importe señalado de conformidad con lo dispuesto por el artículo 219 del presente ordenamiento.
+La resolución que se emita será comunicada personalmente al quejoso en el domicilio señalado en el escrito de impugnación.
+
+Una copia de la resolución se turnará a la Secretaría de Finanzas para los efectos del cobro correspondiente.
 
 T R A N S I T O R I O S
 
@@ -2114,3 +2200,9 @@ Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno de la Ciudad d
 Atentamente. SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+
+P.O. 2 DE NOVIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial " El Estado de Colima".
