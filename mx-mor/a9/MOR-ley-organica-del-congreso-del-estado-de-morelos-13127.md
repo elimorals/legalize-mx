@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2000-09-01"
+last_updated: "2002-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -649,6 +649,18 @@ Las comisiones ordinarias serán las siguientes:
 
 14.- Medio Ambiente y Recursos Naturales.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+15.- Asuntos indígenas.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+16.- Equidad de Género.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+17.- Asuntos de la Juventud.
+
 Y las demás que la Legislatura determine.
 
 ###### ARTICULO 47.
@@ -811,6 +823,10 @@ a) Conocer sobre los asuntos relacionados con la producción, comercio, abasto y
 
 b) Opinar sobre los planes y proyectos que emprenda el Gobierno del Estado sobre el desarrollo económico, comercial, industrial y de servicios.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+c) Conocer y dictaminar las iniciativas relativas al marco normativo en materias de desarrollo económico, industrial, comercial y turístico.
+
 ###### ARTICULO 58.
 
 La comisión de Salud y Bienestar Social será competente para:
@@ -821,7 +837,21 @@ b) En el ámbito de la competencia estatal, dictaminar sobre la legislación en 
 
 c) Conocer de los programas deportivos que coadyuven al mejoramiento de la salud de los morelenses.
 
-d) Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y especiales de la sociedad, como los infantes, discapacitados, mujeres, ancianos e indígenas.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+d) Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y especiales de la sociedad, como los infantes, discapacitados y ancianos.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+ARTICULO 58 BIS.- Corresponde a la Comisión de Asuntos Indígenas:
+
+a) Estudiar, analizar y proponer las reformas y adiciones legales que sean necesarias para proteger y preservar todos los elementos que integran la cultura de los pueblos indígenas del Estado;
+
+b) Organizar foros de participación ciudadana para conocer el punto de vista de las comunidades indígenas en relación con su problemática social;
+
+c) Conocer y dictaminar todos los asuntos relacionados con las comunidades indígenas de la entidad;
+
+d) Convertirse en coadyuvante con la autoridad estatal para promover el desarrollo de los pueblos indígenas del Estado, vigilando las políticas que para el caso se instrumenten.
 
 ###### ARTICULO 59.
 
@@ -842,6 +872,36 @@ a) Conocer y dictaminar en su caso, los asuntos relacionados con la legislación
 b) Conocer y opinar sobre los casos relacionados con la afectación del entorno ambiental, que puedan producir los establecimientos industriales, comerciales, y los desarrollos urbanos.
 
 c) Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+ARTICULO 60 BIS.- Corresponde a la Comisión de Equidad de Género:
+
+a) Promover la cultura de equidad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social, que atiendan a la problemática de la mujer;
+
+b) Propiciar el reconocimiento de condiciones equitativas e igualdad de oportunidades de acceso al desarrollo para las mujeres;
+
+c) Contribuir a la creación de especies de expresión de quienes trabajan por la igualdad de las mujeres y contra la violencia hacia ellas;
+
+d) Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o adición, que se relacione con la equidad de género; y
+
+e) La atención de asuntos relativos a la discriminación o mal trato de la mujer, por razón de raza, edad, ideología política, creencia religiosa o situación socioeconómica, entre otros.
+
+f) Participar, en representación del Poder Legislativo, en los organismos públicos o sociales que atiendan la problemática de género, cuando así las disposiciones normativas lo permitan.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+ARTICULO 60 TER.- Corresponde a la comisión de asuntos de la Juventud:
+
+a) Conocer, estudiar, observar y dictaminar, en su caso, las iniciativas de ley que estén relacionadas con el desarrollo, recreación y actividades deportivas de la juventud;
+
+b) Conocer los programas deportivos, culturales y recreativos del Gobierno del Estado.
+
+c) Opinar respecto de las políticas deportivas y recreativas, que adopte el Gobierno del Estado,
+
+d) Conocer y dictaminar en su caso, los asuntos vinculados con el cuidado y atención que merecen los jóvenes de nuestra entidad federativa; así como todo lo que esté relacionado con programas de carácter económico, para impulsar apoyos crediticios que permitan a los jóvenes involucrarse en el desarrollo económico del Estado, y
+
+e) Conocer y dictaminar, en su caso, de los asuntos relativos a la problemática que presentan en algunos casos los jóvenes respecto de la drogadicción, así como lo referente a programas e instituciones sobre la materia.
 
 ### CAPITULO I. DE LOS GRUPOS Y FRACCIONES PARLAMENTARIOS
 
@@ -1214,3 +1274,37 @@ DECRETO 1222
 PRIMERO.- EL presente Decreto, entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 27 DE FEBRERO DE 2002.
+
+Decreto No. 455.
+
+PRIMERA.- El presente Decreto iniciará su vigencia en la fecha de su expedición.
+
+P.O. 27 DE FEBRERO DE 2002.
+
+Decreto No. 456
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase el presente Decreto, al titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+###### ARTICULO TERCERO.
+
+Se instruye a la Comisión de Régimen Interno y Concertación Política para que para el actual ejercicio presupuestal del año dos mil dos, se otorguen a las Comisiones de nueva creación los recursos humanos y materiales necesarios para su funcionamiento, de acuerdo a las condiciones presupuestales.
+
+P.O. 27 DE FEBRERO DE 2002.
+
+DECRETO NO. 460
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el artículo 38 inciso f) de la Ley Orgánica del Congreso del Estado de Morelos, la Comisión de Régimen Interno y Concertación Política propondrá al Pleno de esta Soberanía Popular a los integrantes de la Comisión de Asuntos de la Juventud.
+
+CUARTO.- Se instruye a la Comisión de Régimen Interno y Concertación Política para que en el actual ejercicio presupuestal del año dos mil dos, se otorguen a las Comisiones de nueva creación los recursos humanos y materiales necesarios para su funcionamiento, de acuerdo a las condiciones presupuestales.
