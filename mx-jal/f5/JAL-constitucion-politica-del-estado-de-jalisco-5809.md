@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2000-05-30"
+last_updated: "2000-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -318,6 +318,10 @@ VI. Las autoridades estatales y municipales, organizarán el sistema estatal de 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
 
 VII. Las autoridades estatales y municipales para la preservación de los derechos a que alude el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, velarán por la utilización sustentable de todos los recursos naturales con el fin de conservar y restaurar el medio ambiente.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2000)</small>
+
+VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal, deberán publicar mensualmente en forma pormenorizada sus estados financieros.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1259,7 +1263,7 @@ Los concejos municipales y sus integrantes tendrán las mismas facultades y obli
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1407,7 +1411,7 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO IV. Del procedimiento administrativo
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1433,13 +1437,13 @@ El Congreso del Estado aprobará las leyes de ingresos de los municipios y revis
 
 El Congreso no podrá establecer exenciones o subsidios respecto de contribuciones, en favor de personas físicas o jurídicas ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de las tres instancias de gobierno estarán exentos de contribuciones.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO I. Prevenciones generales
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 90.
 
@@ -1491,7 +1495,7 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. Del juicio político
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1525,9 +1529,9 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO IV. Del procedimiento administrativo
+### CAPITULO II. Del juicio político
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1585,11 +1589,11 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO II. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1609,7 +1613,7 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1617,9 +1621,7 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 1994)</small>
 
-## TITULO OCTAVO
-
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ### CAPITULO II. De las reformas a la Constitución
 
@@ -1713,13 +1715,13 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+
 ###### Art. 119.
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
-
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2102,3 +2104,9 @@ DECRETO NUMERO 18255.
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de los debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la Constitución Política del Estado y 58 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE AGOSTO DE 2000.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del articulo 15 de la misma Constitución.
+
+SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
