@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1986-12-29"
+last_updated: "1989-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1989.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -205,9 +205,13 @@ XXI. Autorizar a los jueces para que nombren empleados interinos, cuando las fal
 
 XXII. Cambiar la residencia de los juzgados de primera instancia supernumerarios, según lo estime conveniente para el mejor servicio público; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
-XXIII. Las demás que esta u otras leyes o sus reglamentos no reserven al Presidente o a los titulares de las salas.
+XXIII. Para aumentar o disminuir el número de juzgados de primera instancia o municipales en todo el Estado, conforme lo requiera el recargo de trabajo previo acuerdo del Pleno que deberá ser publicado, por una sola vez en el Periódico Oficial del Estado, con las disposiciones relativas a la distribución de expedientes.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+XXIV. Las demás que ésta u otras leyes o sus Reglamentos no reserven al Presidente o a los Titulares de las Salas.
 
 ###### ARTICULO 10.
 
@@ -733,7 +737,7 @@ Los jueces de tenencia deberán reunir, en lo conducente, los requisitos que se�
 
 ###### ARTICULO 44.
 
-Para los jueces de tenencia girá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
+Para los jueces de tenencia regirá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
 
 Ningún juez de tenencia podrá ser separado de su cargo sino por causa justificada.
 
@@ -1039,17 +1043,13 @@ El Pleno del Supremo Tribunal y los jueces de primera instancia, resolverán las
 
 ###### ARTICULO 73.
 
-Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de uno a diez días, de sueldo, y se le fijará un término para dictar resolución, el cual no excederá de diez días.
-
-Si la excitativa se denegare por carecer de fundamento, la autoridad que la resuelva aplicará al peticionario multa de cien a mil pesos.
+Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de uno a diez días, de sueldo, y se le fijará un término para dictar resolución, el cual no excederá de diez días. Si la excitativa se denegare por carecer de fundamento, la autoridad que la resuelva aplicará al peticionario multa de cien a mil pesos.
 
 ### CAPITULO II. AUSENCIAS Y SUBSTITUCIONES
 
 ###### ARTICULO 74.
 
-Para los efectos de esta Ley, las ausencias son accidentales si el funcionario o empleado no acude a su trabajo sin licencia previa.
-
-Son ausencias temporales, las motivadas por licencia, suspensión de empleo, vacaciones o incapacidad por enfermedad.
+Para los efectos de esta Ley, las ausencias son accidentales si el funcionario o empleado no acude a su trabajo sin licencia previa. Son ausencias temporales, las motivadas por licencia, suspensión de empleo, vacaciones o incapacidad por enfermedad.
 
 Son ausencias definitivas, las originadas por renuncia, abandono de empleo, destitución o muerte.
 
@@ -1411,6 +1411,130 @@ Los jueces del Estado, al quedar firmes las sentencias mencionadas en el artícu
 
 Cuando a algún juez, funcionario o empleado del Poder Judicial, se le designe o elija para ocupar otro cargo público de la Federación, del Estado o del Municipio que no sea de base, tendrá derecho a que se le conceda licencia sin goce de sueldo por todo el tiempo que dure el nuevo nombramiento siempre que esa duración no sea mayor que la de su nombramiento en el Poder Judicial.
 
+> <small>(ADICIONADA CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+## TITULO NOVENO. DE LA DIRECCIÓN ADMINISTRATIVA Y DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+### CAPITULO I. DE LA DIRECCIÓN ADMINISTRATIVA E INTEGRACIÓN DEL FONDO AUXILIAR
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 128.
+
+La Dirección Administrativa dependerá de la Presidencia del Supremo Tribunal y se integrará con un director y el personal que a juicio del Presidente se requiera para la atención de los servicios de la misma. Las atribuciones de la Dirección serán determinadas por el Pleno del Supremo Tribunal de Justicia y el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 129.
+
+El Fondo Auxiliar para la Administración de Justicia, se integra con:
+
+I. Fondos propios constituidos por:
+
+a) El monto de las cauciones otorgadas para garantizar la libertad provisional bajo caución, que se hagan efectivas en los casos señalados por los artículos respectivos del Código Procesal Penal.
+
+b) El monto de las cauciones otorgadas para obtener el beneficio de la suspensión condicional de la ejecución de la sanción, que se hagan efectivas en los casos previstos por las disposiciones correspondientes del Código Penal.
+
+c) Las multas que por cualquier causa se impongan por los tribunales judiciales del fuero común.
+
+d) Los intereses que se generen por las inversiones que se hagan de los depósitos en dinero o en valores que efectúen ante los tribunales judiciales del fuero común.
+
+e) Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas de los Códigos Penal y Procesal Penal.
+
+f ) Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común que no fueren retirados por, el depositario o por quien tenga derecho a ellos, dentro de los términos a que se refiere el inciso anterior y computados éstos a partir de la fecha en la que se pudo solicitar la devolución o entrega, teniéndose como tal fecha la de la notificación respectiva.
+
+g) El monto de la reparación del daño cuando la parte ofendida no lo reclame o renuncie al mismo.
+
+II. Fondos ajenos constituidos por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales del fuero común en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 130.
+
+Para los efectos de la fracción II del artículo anterior, el tribunal o cualquier órgano de éste que por cualquier motivo reciba un depósito de dinero o en valores, deberá remitirlo o integrarlo al Fondo Auxiliar, por conducto de la Presidencia conforme al trámite que señale el instrumento girado por el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 131.
+
+Las cantidades que se reciban en el renglón de Fondos Ajenos, serán reintegrados a los depositantes o beneficiarios, según proceda mediante orden por escrito del Titular del Tribunal ante el que se haya constituido el depósito.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 132.
+
+Transcurridos los plazos legales en los casos de los incisos a) y f) de la fracción I del artículo 129 de esta Ley, sin reclamación de parte legítima, los objetos, instrumentos, muebles o valores respectivos, pasan a formar parte del Fondo Auxiliar.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+### CAPITULO II. DE LA ADMINISTRACIÓN Y DESTINO DEL FONDO AUXILIAR
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 133.
+
+El Presidente del Supremo Tribunal de Justicia, tendrá a su cargo y bajo su responsabilidad el manejo y administración del Fondo Auxiliar, conforme a las siguientes bases:
+
+I. Deberá invertir las cantidades que integran el Fondo Auxiliar, en la adquisición de títulos de renta fija o a plazo fijo, en representación del Supremo Tribunal de Justicia, quien será el titular de los certificados y documentos que expidan las instituciones de crédito con motivo de las inversiones que se hagan.
+
+II. En el informe que deba rendir el Presidente del Supremo Tribunal de Justicia, de acuerdo con lo ordenado por el artículo 78 de la Constitución Política del Estado, se incluirá la cuenta debidamente justificada de los ingresos de las inversiones as como de las erogaciones efectuadas durante cada periodo de su gestión.
+
+III. Con cargo al Fondo Auxiliar y previo acuerdo del Pleno del Supremo Tribunal de Justicia, podrá aumentar, a base de honorarios, el número de los empleados que por necesidades del incremento en las labores de las salas, juzgados y Dirección Administrativa, lo requieran, cuando no, estén contemplados en el presupuesto de egresos del Poder Judicial.
+
+IV. El Pleno del Supremo Tribunal de Justicia o el Presidente ordenarán la práctica de auditorías que consideren necesarias, para verificar que el manejo del Fondo Auxiliar se realice de manera conveniente.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 134.
+
+El patrimonio del Fondo Auxiliar se destinará a sufragar los gastos que se originen con motivo de:
+
+I. La adquisición de mobiliario, equipo y libros de consulta que se necesiten en las Salas del Supremo Tribunal de Justicia y en los juzgados del fuero común en el Estado, que no estén autorizados en su presupuesto.
+
+II. El pago del importe del arrendamiento de locales, que se hagan necesario para la ubicación de los juzgados; así como para el acondicionamiento de éstos y de los existentes, cuyo gasto no esté autorizado en el presupuesto del Poder Judicial.
+
+III. La capacitación, mejoramiento especialización profesional del personal del Poder Judicial del Estado.
+
+IV. El otorgamiento de estímulos y recompensas económicas, autorizados por el Pleno del Supremo Tribunal de Justicia a la planta de servidores públicos del Poder Judicial del Estado.
+
+V. La participación de magistrados y jueces en congresos de Derecho.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 135.
+
+Independientemente de las visitas ordinarias y extraordinarias que se efectúan a los juzgados, previstas en la ley, el Presidente del Supremo Tribunal de Justicia podrá acordar visitas especiales a los mismos, por parte del magistrados y auditores, para la revisión y manejo de los valores y depósitos a su cargo.
+
+> <small>(ADICIONADO EN SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+## TITULO DECIMO. DEL DEPARTAMENTO DE COMPUTACION E INFORMATICA
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 136.
+
+El Departamento de Computación e Informática del Poder Judicial del Estado, dependerá de la Presidencia del Supremo Tribunal y tendrá como funciones, las siguientes:
+
+I. La captura de datos procedentes de los juzgados de primera instancia y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación.
+
+II. Con base en los registros computarizados que se obtengan, proporcionar a las partes interesadas o autorizadas, información actualizada del estado procesal de los asuntos en que intervengan.
+
+III. Mantener y conservar actualizados registros estadísticos de juicios, procedimientos y procesos por materia, por juzgados, por salas, o bien por naturaleza especifica.
+
+IV. La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos y materiales y otros que se requieran.
+
+V. El registro computarizado y la informática de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por la Presidencia del Supremo Tribunal.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+###### ARTICULO 137.
+
+Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del Departamento de computación e Informática tanto en la Capital del Estado como en los distritos judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinado, en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y volumen de trabajo.
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1o.
@@ -1561,7 +1685,7 @@ d) Los asuntos existentes en la Tercera Sala Colegiada al entrar en vigor este D
 
 e) Los asuntos que se encuentran en trámite ante la Tercera Sala Colegiada, al entrar en vigor el presente Decreto, serán enviados a las Salas Unitarias Penales conforme a las siguientes reglas:
 
-Los expedientes con número de registro terminado en "1" a la Primera; en "2" a la Segunda; en "3" a la Tercera; en "4" a la cuarta; en "5" a la Quinta; en "6" a la Sexta; en "7" a la Séptima. Los que terminen en "8" se distribuirán proporcionalmente entre las Salas Primera y Segunda; en "9" entre las Salas Quinta, Sexta y Séptima, para la continuación de su trámite y resolución;
+Los expedientes con número de registro terminado el "1" a la Primera; en "2" a la Segunda; en "3" a la Tercera; en "4" a la cuarta; en "5" a la Quinta; en "6" a la Sexta; en "7" a la Séptima. Los que terminen en "8" se distribuirán proporcionalmente entre las Salas Primera y Segunda; en "9" entre las Salas Quinta, Sexta y Séptima, para la continuación de su trámite y resolución;
 
 ###### ARTICULO CUARTO.
 
@@ -1590,3 +1714,31 @@ Mientras se instalan y funcionan las Salas Unitarias, los asuntos seguirán tram
 ###### ARTICULO DECIMO.
 
 Se faculta al Pleno del Supremo Tribunal de Justicia del Estado, para resolver cualquier cuestión no prevista en estos Transitorios.
+
+P.O. 30 DE NOVIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los depósitos efectuados ante la Tesorería General del Estado a disposición de las autoridades judiciales de Michoacán, deberán serán transferidos al Supremo Tribunal de Justicia del Estado, a fin de que inicie la formación del patrimonio del Fondo Auxiliar para la Administración de Justicia.
+
+El Supremo Tribunal de Justicia, canjeará los certificados de depósito correspondientes, por las constancias que se establezcan conforme al modelo que al efecto apruebe el Pleno del Supremo Tribunal de Justicia, para que exista una substitución inmediata.
+
+###### ARTICULO TERCERO.
+
+Todas las autoridades judiciales del Estado, a cuyo favor se encuentren constituidos depósitos en efectivo, por cualquier concepto, deberán endosarlos a nombre del Supremo Tribunal de Justicia del Estado, cuidando de que se haga la substitución de los certificados de depósito correspondientes, de acuerdo con lo establecido en el transitorio inmediato anterior.
+
+###### ARTICULO CUARTO.
+
+El Supremo Tribunal de Justicia del Estado, directamente o por conducto de las salas o juzgados de primera instancia, en su caso, cubrirán a la vista, el importe de los depósitos que tengan que devolverse a personas físicas o jurídicas, en cumplimiento de la orden de pago, librada por la autoridad en cuyo favor se hicieron o transmitieron por endoso los certificados respectivos.
+
+###### ARTICULO QUINTO.
+
+Se deroga en parte el Decreto número 99, de 24 de noviembre de 1970, publicado en el Periódico Oficial del Estado, correspondiente al 14 de diciembre de 1970, únicamente por cuanto se refiere a los depósitos en efectivo que se tengan que efectuar en lo sucesivo, a favor de las autoridades judiciales del Estado.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
