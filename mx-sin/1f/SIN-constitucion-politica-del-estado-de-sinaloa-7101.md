@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1928-11-13"
+last_updated: "1930-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1930.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -49,7 +49,7 @@ Art. 4º El territorio del Estado de Sinaloa es el que posee actualmente y el qu
 
 ###### Art. 4o.
 
-Surtirá sus efectos el artículo 23, desde la próxima Legislatura que deberá instalarse el quince se (sic) septiembre del presente año; para lo cual, los distritos electorales de número impar, renovarán sus representantes en las elecciones que se verifiquen en los años de 1924, 1928, etc. y los de número par, en 1926, 1930, etc.
+(DEROGADO, P.O. 31 DE MAYO DE 1930)
 
 ## TITULO II
 
@@ -177,9 +177,11 @@ IV. En los Distritos electorales que designe la Ley Orgánica respectiva.
 
 El Supremo Gobierno del Estado se divide para su ejercicio, en tres Poderes: Legislativo, Ejecutivo y Judicial.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1930)</small>
+
 ###### Art. 20.
 
-No podrán reunirse dos o más Poderes en una sola persona o corporación ni encomendarse el Legislativo a menos de quince Diputados.
+No podrán reunirse dos o más Poderes en una sola persona o corporación ni encomendarse el Legislativo a más de once Diputados.
 
 ###### Art. 21.
 
@@ -193,9 +195,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1930)</small>
+
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de Representantes electos popularmente cada cuatro años, cuyo personal se renovará por mitades, alternando cada dos años.
+El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -619,7 +623,7 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-XXI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 1928)
+XXI. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -909,7 +913,7 @@ La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, 
 
 Los Ayuntamientos, en unión de un Representante por cada Partido Político, con voz pero sin voto, harán la calificación de las elecciones de funcionarios Municipales, en su jurisdicción, cuya calificación es revisable por el Congreso del Estado en el caso de la Fracción XXXIII bis del artículo 43 de la presente ley. Los propios Ayuntamientos harán la declaratoria respectiva una vez confirmada la calificación por el Congreso, en su caso.
 
-> <small>(REFORMADO, 13 DE NOVIEMBRE DE 1928)</small>
+(REFORMADO, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
 
 ###### Art. 115.
 
@@ -1290,3 +1294,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE NOVIEMBRE DE 1928.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3° Y 4° DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+P.O. 31 DE MAYO DE 1930.
+
+1o.- Esta ley comenzará a surtir sus efectos desde el día 15 de septiembre del año en curso.
+
+2o.- Los Diputados electos por las nuevas circunscripciones o Distritos Electorales durarán en su ejercicio, por esta sola vez, dos años; en el concepto que tan luego como queden incorporadas a la Constitución estas reformas, se votará la ley que marque los nuevos Distritos Electorales.
