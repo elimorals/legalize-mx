@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "1996-12-13"
+last_updated: "2000-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -158,9 +158,17 @@ XXXII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico
 
 XXXIII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-XXXIV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca, y
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXV. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+XXXIV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
+
+XXXV. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2000)</small>
+
+XXXVI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -432,9 +440,17 @@ XVI. El control y la prevención de la contaminación ambiental, el adecuado apr
 
 XVII. Es interés de la nación que las actividades que se lleven a cabo dentro del territorio nacional y en aquellas zonas donde ejerce su soberanía y jurisdicción, no afecten el equilibrio ecológico de otros países o de zonas de jurisdicción internacional;
 
-XVIII. Las autoridades competentes en igualdad de circunstancias ante las demás naciones, promoverán la preservación y restauración del equilibrio de los ecosistemas regionales y globales, y
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XIX. A través de la cuantificación del costo de la contaminación del ambiente y del agotamiento de los recursos naturales provocados por las actividades económicas en un año determinado, se calculará el Producto Interno Neto Ecológico. El Instituto Nacional de Estadística, Geografía e Informática integrará el Producto Interno Neto Ecológico al Sistema de Cuentas Nacionales.
+XVIII. Las autoridades competentes en igualdad de circunstancias ante las demás naciones, promoverán la preservación y restauración del equilibrio de los ecosistemas regionales y globales;
+
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
+
+XIX. A través de la cuantificación del costo de la contaminación del ambiente y del agotamiento de los recursos naturales provocados por las actividades económicas en un año determinado, se calculará el Producto Interno Neto Ecológico. El Instituto Nacional de Estadística, Geografía e Informática integrará el Producto Interno Neto Ecológico al Sistema de Cuentas Nacionales, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2000)</small>
+
+XX. La educación es un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -446,7 +462,7 @@ Las entidades federativas y los municipios en el ámbito de sus competencias, ob
 
 ### CAPITULO IV. Instrumentos de la Política Ambiental
 
-> <small>(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION I. Planeación Ambiental
 
@@ -928,13 +944,21 @@ ARTICULO 38 BIS 2.- Los Estados y el Distrito Federal podrán establecer sistema
 
 #### SECCION VIII. Investigación y Educación Ecológicas
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 39.
 
-Las autoridades competentes promoverán la incorporación de contenidos ecológicos en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+Las autoridades competentes promoverán la incorporación de contenidos ecológicos, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
-Asimismo, propiciarán el fortalecimiento de la conciencia ecológica, a través de los medios de comunicación masiva.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2000)</small>
+
+Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 
 La Secretaría, con la participación de la Secretaría de Educación Pública, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en la materia en todo el territorio nacional y para la investigación de las causas y efectos de los fenómenos ambientales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 2000)</small>
+
+La Secretaría mediante diversas acciones promoverá la generación de conocimientos estratégicos acerca de la naturaleza, la interacción entre los elementos de los ecosistemas, incluido el ser humano, la evolución y transformación de los mismos, a fin de contar con información para la elaboración de programas que fomenten la prevención, restauración, conservación y protección del ambiente.
 
 ###### ARTICULO 40.
 
@@ -960,7 +984,7 @@ El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO V. Instrumentos de la Política Ecológica
+### CAPITULO I. Áreas Naturales Protegidas
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -974,7 +998,7 @@ Las zonas del territorio nacional y aquéllas sobre las que la Nación ejerce so
 
 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+(REUBICADA Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 45.
 
@@ -1002,11 +1026,11 @@ VI. Proteger poblados, vías de comunicación, instalaciones industriales y apro
 
 VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos indígenas.
 
-(REUBICADA Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION II. Tipos y Características de las Áreas Naturales Protegidas
 
-((REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 46.
 
@@ -1358,9 +1382,9 @@ Las Dependencias de la Administración Pública Federal, los gobiernos de los Es
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO I. Áreas Naturales Protegidas
+### CAPITULO II. Zonas de Restauración
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 78.
 
@@ -1396,7 +1420,7 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. Zonas de Restauración
+### CAPITULO III. Flora y Fauna Silvestre
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1534,9 +1558,9 @@ ARTICULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, del Distr
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO III. Flora y Fauna Silvestre
+### CAPITULO I. Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 88.
 
@@ -1648,7 +1672,7 @@ La Secretaría establecerá viveros, criaderos y reservas de especies de flora y
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO I. Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos
+### CAPITULO II. Preservación y Aprovechamiento Sustentable del Suelo y sus Recursos
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1788,13 +1812,19 @@ En los estímulos fiscales que se otorguen a las actividades forestales, deberá
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. Preservación y Aprovechamiento Sustentable del Suelo y sus Recursos
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
 ### CAPITULO III. De la Exploración y Explotación de los Recursos no Renovables en el Equilibrio Ecológico
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 109 BIS.- La Secretaría, en los términos que señalen los reglamentos de esta Ley, deberá integrar un inventario de emisiones atmosféricas, descargas de aguas residuales en cuerpos receptores federales o que se infiltren al subsuelo, materiales y residuos peligrosos de su competencia, coordinar los registros que establezca la Ley y crear un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 109 BIS 1.- La Secretaría deberá establecer los mecanismos y procedimientos necesarios, con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia.
 
 ###### ARTICULO 108.
 
@@ -1818,15 +1848,9 @@ Las normas oficiales mexicanas a que se refiere el artículo anterior serán obs
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Prevención y Control de la Contaminación de la Atmósfera
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-ARTICULO 109 BIS.- La Secretaría, en los términos que señalen los reglamentos de esta Ley, deberá integrar un inventario de emisiones atmosféricas, descargas de aguas residuales en cuerpos receptores federales o que se infiltren al subsuelo, materiales y residuos peligrosos de su competencia, coordinar los registros que establezca la Ley y crear un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-ARTICULO 109 BIS 1.- La Secretaría deberá establecer los mecanismos y procedimientos necesarios, con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 110.
 
@@ -1838,9 +1862,7 @@ II. Las emisiones de contaminantes de la atmósfera, sean de fuentes artificiale
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO II. Prevención y Control de la Contaminación de la Atmósfera
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+### CAPITULO III. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
 
 ###### ARTICULO 111.
 
@@ -1970,7 +1992,7 @@ V. La participación y corresponsabilidad de la sociedad es condición indispens
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO III. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
+### CAPITULO IV. Prevención y Control de la Contaminación del Suelo
 
 ###### ARTICULO 118.
 
@@ -2118,7 +2140,7 @@ La Secretaría, con la participación que en su caso corresponda a la Secretarí
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO IV. Prevención y Control de la Contaminación del Suelo
+### CAPITULO V. Actividades Consideradas como Altamente Riesgosas
 
 ###### ARTICULO 134.
 
@@ -2224,7 +2246,9 @@ No podrán otorgarse autorizaciones para la importación de plaguicidas, fertili
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO V. Actividades Consideradas como Altamente Riesgosas
+### CAPITULO VI. Materiales y Residuos Peligrosos
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 145.
 
@@ -2274,7 +2298,7 @@ La legislación local definirá las bases a fin de que la Federación, los Estad
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO VI. Materiales y Residuos Peligrosos
+### CAPITULO VII. Energía Nuclear
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2368,7 +2392,7 @@ d) Cuando se determine que la autorización fue transferida a una persona distin
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO VII. Energía Nuclear
+### CAPITULO VIII. Ruido, Vibraciones, Energía Térmica y Lumínica, Olores y Contaminación Visual
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2378,7 +2402,7 @@ La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvag
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VIII. Ruido, Vibraciones, Energía Térmica y Lumínica, Olores y Contaminación Visual
+### CAPITULO I. Participación Social
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2403,50 +2427,6 @@ La Secretaría, en coordinación con organismos públicos o privados, nacionales
 ## TITULO QUINTO. Participación Social e Información Ambiental
 
 > <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO I. Participación Social
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 157.
-
-El Gobierno Federal deberá promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de recursos naturales.
-
-###### ARTICULO 158.
-
-Para los efectos del artículo anterior, la Secretaría:
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-I. Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos indígenas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-II. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos indígenas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-III. Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
-
-IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y (sic)
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con los Estados y Municipios correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
-
-> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-VI. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 159.
-
-La Secretaría integrará órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en materia de política ambiental y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expida la Secretaría.
-
-Cuando la Secretaría deba resolver un asunto sobre el cual los órganos a que se refiere el párrafo anterior hubiesen emitido una opinión, la misma deberá expresar las causas de aceptación o rechazo de dicha opinión.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO II. Derecho a la Información Ambiental
 
@@ -2500,11 +2480,55 @@ Los afectados por actos de la Secretaría regulados en este Capítulo, podrán s
 
 ARTICULO 159 BIS 6.- Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
+###### ARTICULO 157.
+
+El Gobierno Federal deberá promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de recursos naturales.
+
+###### ARTICULO 158.
+
+Para los efectos del artículo anterior, la Secretaría:
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+I. Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos indígenas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+II. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos indígenas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+III. Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
+
+IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y (sic)
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con los Estados y Municipios correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+VI. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159.
+
+La Secretaría integrará órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en materia de política ambiental y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expida la Secretaría.
+
+Cuando la Secretaría deba resolver un asunto sobre el cual los órganos a que se refiere el párrafo anterior hubiesen emitido una opinión, la misma deberá expresar las causas de aceptación o rechazo de dicha opinión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. Disposiciones Generales
+
 ## TITULO SEXTO. Medidas de Control y de Seguridad y Sanciones
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Inspección y Vigilancia
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 160.
 
@@ -2518,7 +2542,7 @@ En las materias anteriormente señaladas, se aplicarán supletoriamente las disp
 
 Tratándose de materias referidas en esta Ley que se encuentran reguladas por leyes especiales, el presente ordenamiento será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
 
-### CAPITULO II. Inspección y Vigilancia
+### CAPITULO III. Medidas de Seguridad
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2596,9 +2620,9 @@ En los casos en que el infractor realice las medidas correctivas o de urgente ap
 
 En los casos en que proceda, la autoridad federal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
-### CAPITULO III. Medidas de Seguridad
+### CAPITULO IV. Sanciones Administrativas
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 170.
 
@@ -2616,9 +2640,9 @@ Asimismo, la Secretaría podrá promover ante la autoridad competente, la ejecuc
 
 ARTICULO 170 BIS.- Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPITULO IV. Sanciones Administrativas
+### CAPITULO V. Recurso de Revisión
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 171.
 
@@ -2728,7 +2752,7 @@ ARTICULO 175 BIS.- Los ingresos que se obtengan de las multas por infracciones a
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO V. Recurso de Revisión
+### CAPITULO VI. De los Delitos del Orden Federal
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2788,7 +2812,7 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta Le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
 
-### CAPITULO VI. De los Delitos del Orden Federal
+### CAPITULO VII. Denuncia Popular
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3053,3 +3077,7 @@ En el caso de las áreas y zonas a que se refiere el artículo anterior, sólo s
 ###### ARTÍCULO DÉCIMO.
 
 En tanto se expidan las disposiciones reglamentarias que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+D.O.F. 7 DE ENERO DE 2000.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
