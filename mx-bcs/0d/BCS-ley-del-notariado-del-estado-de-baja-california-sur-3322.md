@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "1998-12-31"
+last_updated: "2002-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE FEBRERO DE 2002.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -59,25 +59,29 @@ II. Dar fe de los hechos o actos que le consten, a requerimiento de la parte int
 
 La primera de estas funciones se llevará a cabo observando los requisitos del acto en su formación y autenticando la ratificación de que los mismos hagan los interesados ante su presencia. La segunda mediante su intervención de fedatario del hecho o acto.
 
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 4o.
 
-Notario es la persona a quien el Ejecutivo del Estado haya otorgado nombramiento para ejercer las funciones propias del notariado.
+Notario es la persona investida de fe pública para hacer constar los contratos, actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, y autorizado para intervenir en la formación de ellos, revistiéndolos de solemnidad y forma legal, siendo por lo tanto su función de orden público.
 
 ###### ARTICULO 5o.
 
 La función notarial se ejerce en el Estado por los Notarios Titulares de una Notaría de número y por quienes deban substituirlos conforme a esta Ley.
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 6o.
 
-En el Estado de Baja California Sur, habrá un notario por cada veinticinco mil habitantes, pero se podrá crear una notaría en el municipio o ciudad que no tenga esa población, siempre y cuando a juicio del Ejecutivo sean necesarios los servicios de un notario en el lugar.
+En el Estado de Baja California Sur, habrá un Notario por cada cinco mil habitantes, pero se podrá crear una Notaría en el Municipio o ciudad que no tenga esa población, siempre y cuando a juicio del Ejecutivo sean necesarios los servicios de un Notario en el lugar.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 7o.
 
-El Notario actuará dentro de la adscripción territorial del Estado, estableciendo su domicilio en el lugar expresamente señalado en su patente y los actos que realice pueden referirse a cualquier lugar.
+En el Estado de Baja California Sur únicamente se reconocerá el carácter de Notario Público a quienes el Gobernador del Estado les haya expedido la patente correspondiente, quien se ostente con ese carácter sin tenerla se considerará que incurre en usurpación de funciones.
+
+La patente de Notario Público autoriza a su titular a ejercer el Notariado únicamente dentro de los límites territoriales de la municipalidad para la cual fue expedida; sin embargo, los actos que se celebren ante su fe podrán referirse a bienes que se encuentren ubicados en cualquier otro lugar.
 
 ###### ARTICULO 8o.
 
@@ -99,125 +103,103 @@ Del ingreso a la función Notarial.
 
 Para ser aspirante de notario y notario, se requiere de patente otorgada por el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 11.
 
-Para obtener la patente de aspirante de notario se requiere:
+Para obtener la calidad de aspirante al ejercicio del Notariado se requiere:
 
-I. Ser mexicano por nacimiento, mayor de 25 años y menor de 60;
+I. Ser ciudadano en pleno goce de sus derechos civiles y políticos y tener 30 años cumplidos al día de la presentación de la solicitud a que alude el artículo 11B de esta Ley.
 
-II. Ser ciudadano del Estado y tener una residencia efectiva en el mismo cuando menos 3 años anteriores a la fecha de la solicitud;
+II. Ser Licenciado en Derecho y poseer con una antigüedad mínima de tres años título y cédula profesional, expedidos por la autoridad o institución legalmente facultado para ello.
 
-III. Estar legalmente autorizado para ejercer como profesional del Derecho, con anterioridad de dos años a la fecha del otorgamiento de la Patente;
+III. No tener enfermedad habitual que impida el ejercicio de sus facultades intelectuales, ni impedimento físico que se oponga a las funciones de Notario.
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+IV. Tener una residencia efectiva en el Estado de Baja California Sur por un plazo no menor de tres años inmediatamente anteriores a la fecha de su solicitud.
 
-IV. No haber sido condenado por sentencia ejecutoriada, por delito intencional.
+La residencia no se pierde por razones de estudio o desempeño de un cargo público.
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+V. No haber sido condenado a pena privativa de la libertad por sentencia definitiva por delito intencional y gozar de buena reputación.
 
-V. Aprobar el examen que marca esta ley;
+VI. Solicitar ante el Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, la inscripción en el Registro Unico de Aspirantes al Ejercicio del Notariado, que para tal efecto llevará el Ejecutivo del Estado.
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-VI. Comprobar que durante dos años, en forma ininterrumpida, ha practicado bajo la dirección y responsabilidad de un notario en ejercicio en Baja California Sur, quien deberá cerciorarse de que el interesado cuenta, al iniciar su práctica con título de abogado;
+ARTICULO 11 A. Los requisitos al que se refiere el artículo anterior se acreditarán en los siguientes términos.
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+I. Con copia certificada del Acta de Nacimiento.
 
-VII. No padecer enfermedad permanente que limite las facultades intelectuales, ni impedimento físico que se oponga a las funciones del notario;
+II. Con copia certificada del título profesional y cédula correspondiente.
 
-> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 1993)</small>
+III. El requisito señalado en la Fracción Tercera con certificado médico de autoridad o Institución legalmente autorizada para expedirlo.
 
-VIII. Estar en pleno goce de sus derechos civiles, y
+IV. La residencia que se refiere la fracción IV, se acreditará con copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o cualquier otro documento idóneo.
 
-> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 1993)</small>
+V. El requisito señalado en la fracción V, con certificado de no antecedentes penales.
 
-IX. No haber sido separado definitivamente por sanción del ejercicio del notariado dentro de la República Mexicana.
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+ARTICULO 11 C. A quien realice la solicitud de inscripción de aspirante al ejercicio del notariado y le faltare cumplir con alguno de los requisitos señalados en el artículo 12 de esta Ley, la autoridad le otorgará un término fatal de diez días para que cumpla la prevención respectiva y de no hacerlo en él término señalado se tendrá por no interpuesta la solicitud.
 
-ARTICULO 11 A. El que pretenda examen de aspirante de notario, presentará solicitud al Gobernador del Estado, acreditando los requisitos que establece el artículo 11 de esta ley; asimismo enviará una copia de la solicitud y documentos al Consejo de la Asociación de Notarios, quien opinará ante el Ejecutivo del Estado, en un plazo que no excederá de diez días hábiles contados a la fecha de su recepción, si se reúnen los requisitos mencionados.
+En este caso, no podrá presentarse nueva solicitud hasta que transcurra un año a partir de la fecha de la solicitud considerada no interpuesta.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-ARTICULO 11 C. El jurado se integrará por cinco miembros. Tres de los cuales serán integrantes de la Asociación de Notarios del Estado y dos designados por el Gobernador del Estado. Lo presidirá el Presidente del Consejo de Notarios o su Vice-Presidente, si aquél tiene impedimento. Los restantes miembros del Jurado serán insaculados por el solicitante, entre los Notarios Titulares del Estado una vez que haya sido fijada la fecha del examen, ante el Secretario del Consejo de Notarios, quien actuará como tal en el Jurado. No podrán formar parte del jurado los Notarios en cuya Notaría hubiese hecho su práctica el solicitante o cuando tenga motivo de excusa.
+ARTICULO 11 B. El que pretenda ingresar al ejercicio del Notariado en calidad de aspirante, deberá presentar solicitud al Gobernador del Estado acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Gobernador del Estado el estudio de la documentación del solicitante y aprobada que fuere, se inscribirá al solicitante en el Registro único de Aspirantes al Notariado. Para tal efecto el Gobernador del Estado llevará un Libro Oficial de Registros de Aspirantes del ejercicio del Notariado, en donde hará los registros correspondiente (sic) en orden de aparición y expedirá la constancia de registro correspondiente en un término no mayor de diez días después de presentada la solicitud.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+Dicha constancia acreditará a su poseedor como aspirante al Ejercicio del Notariado, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
 
-ARTICULO 11 B. Una vez recibida la opinión del Consejo de Notarios, si el Ejecutivo considera procedente la petición de examen, señalará lugar, día y hora para tal efecto, dándose aviso de ello al Consejo de Notarios y al interesado.
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+ARTICULO 11 D. Si después de extendida la Constancia de Aspirante resulta que por causa superveniente el favorecido con ella estuviera sujeto a impedimento o incapacidad para el desempeño de las funciones de Notario, quedará privado del derecho que le dio la constancia para ocupar la vacante del Notario que llegue a presentarse y el Gobernador cancelará la citada Constancia y ordenará se haga lo mismo con las inscripciones de ella. La Constancia de Aspirante es revocable por las mismas causas que lo es el nombramiento del Notario y en todos los casos se seguirá el mismo procedimiento para su cancelación
 
-ARTICULO 11 D. El examen versará sobre teoría y práctica notariales.
+No podrán considerarse como Aspirantes al Notariado, los jueces que por ministerio de Ley hayan sido autorizados para ejercer como Notario en los términos del artículo veinticuatro de esta Ley.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-El Jurado tendrá preparados temarios que contemplen un mínimo de diez temas teóricos e igual número de temas prácticos sobre actos notariales.
-
-Para la celebración del examen sobre el aspecto teórico, el sustentante extraerá, al azar, tres temas, de los cuales seleccionará uno, a fin de que el examen se desarrolle sobre el elegido.
-
-Para el examen sobre el aspecto de práctica notarial, el sustentante extraerá otros tres temas de los que el jurado, por mayoría, elegirá uno, a fin de que el sustentante, desarrolle el mismo elaborando un proyecto sobre el instrumento notarial correspondiente; así como sus implicaciones administrativas. Para este examen se otorgarán al sustentante facilidades de consulta de los ordenamientos legales conducentes.
-
-Concluido el acto, se calificará su resultado con el voto individual y secreto de los sinodales, cuya mayoría o unanimidad determinará la aprobación o reprobación respectiva.
-
-Del resultado del examen se dará aviso al Ejecutivo del Estado para efecto del otorgamiento o negativa de la patente a aspirante de notario. La patente se publicará en el Boletín Oficial del Gobierno del Estado.
-
-A quien resulte reprobado en el examen o al que no se presente sin causa justificada, no se le concederá nueva oportunidad de examinarse, hasta que transcurra un año de la fecha de la celebración del mismo.
-
-En el caso de justificarse la inasistencia, previa solicitud del interesado, se señalará nuevo día y hora para la realización del examen, el cual se efectuará por el jurado previamente designado.
-
-La existencia de causas de impedimento, o incapacidad para el desempeño de las funciones notariales, privará al aspirante del derecho de sustentar el examen, o en su caso, de los efectos de la patente obtenida.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 ### CAPITULO TERCERO
 
-De los derechos, obligaciones e impedimentos de los Notarios.
+De los Notarios.
+
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 12.
 
-Para obtener la patente de notario, se requiere, además de los requisitos mencionados en las fracciones I, II, III, IV, VII, VIII y IX del artículo 11 de esta ley:
+Para obtener Patente de Notario se requiere:
 
-I. Haber obtenido la patente de aspirante de notario;
+I. Tener Constancia de Aspirante al Ejercicio del Notariado debidamente expedida;
 
-II. Haber sido aprobado con la mejor calificación en el examen de oposición que contempla esta ley;
+II. Acreditar no tener impedimento alguno de los señalados en esta Ley.;
 
-III. No haber sido servidor público de la Federación, del Estado o de los municipios, con dos años de anterioridad a la fecha de presentación del examen de oposición.
+III. Existir vacante alguna Notaría de las ya establecidas o de las que se crearen en el futuro.
 
-Para los efectos de esta disposición, se considerarán servidores públicos los mencionados en el artículo 108 primer párrafo de la Constitución Política de los Estados Unidos Mexicanos y 156 de la Constitución Política del Estado de Baja California Sur, y
+IV. Haber aprobado con la calificación mínima de ocho el curso teórico-práctico que para tal efecto imparta la Universidad Autónoma de Baja California Sur, y el examen que practicará el Ejecutivo del Estado en términos del reglamento respectivo.
 
-IV. No estar comprendido en los supuestos de incompatibilidad a que esta ley se refiere.
+V. Tener una residencia efectiva en el Estado de Baja California Sur por un término no menor de cinco años.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+El requisito señalado en la fracción I del artículo anterior se justificará con la original de la constancia respectiva, debidamente expedida. El requisito señalado en la fracción II con los certificados médicos correspondientes. El requisito señalado en la fracción IV con copia certificada de la constancia expedida por la Universidad Autónoma de Baja California Sur, de haber aprobado el curso de 170 horas divididas en un lapso de tres meses, que para tal efecto se realizare. El requisito exigido por la fracción V con la copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o documento idóneo.
 
-ARTICULO 12 C. El examen de oposición a que se refiere el artículo que antecede, consistirá en dos pruebas, una práctica y otra teórica; para este efecto, el jurado dispondrá de un temario del que cada uno de los sustentantes sacará al azar un tema, sobre el que versará su examen, debiendo proporcionarles el presidente del jurado las bases para el desarrollo.
+ARTICULO 12 C. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
-La prueba práctica notarial, se desarrollará por escrito en forma simultánea, durante el tiempo que fijará el jurado al iniciarse la misma; será común para todos los concurrentes al examen, otorgándoseles las facilidades de consulta de los ordenamientos legales relativos. Concluidas las pruebas, se recogerán y serán firmadas por los sustentantes.
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-La prueba teórica se desarrollará verbalmente, en forma sucesiva y separada, por cada uno de los sustentantes, apegándose a las preguntas del jurado respecto al tema correspondiente.
+ARTICULO 12 B. Llenados los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado expedirá la patente de Notario correspondiente al aspirante, siguiendo estrictamente el orden del registro para aspirantes llevado ante la Secretaría General de Gobierno, en un término no mayor de quince días.
 
-El jurado, en forma secreta, procederá a la calificación, determinando quién obtuvo la mayor puntuación, para que se le otorgue la patente de notario.
+El interesado deberá registrarla en el Gobierno del Estado, en el Archivo General de Notarías, en el Registro Público de la Propiedad y de Comercio de la Capital del Estado. El interesado deberá firmar en la parte correspondiente a los registros de su patente, en los libros destinados para ello, así como en su propia patente y adherirá su fotografía en unos y otras.
 
-Si su calificación en este examen fuese inferior a 70 puntos dentro de la escala de 1 a 100, ningún aspirante podrá obtener la patente de notario.
+Dicha patente de Notario se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado, sin costo alguno para el interesado y en uno de los periódicos locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
 
-El jurado tendrá la facultad de declarar desierto el resultado del examen ante la falta de calidad de todas las pruebas.
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-El Secretario del jurado será el sinodal de menor edad, quien, al término del examen, procederá a levantar acta circunstanciada del mismo, que firmarán todos los integrantes del jurado y los sustentantes que quisieren hacerlo.
+ARTICULO 12 A. Cuando estuviere vacante una Notaria, el Gobierno del Estado publicará un aviso en el Boletín Oficial, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener el nombramiento de Notario.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+El mismo anuncio se publicará también en un Periódico del lugar de la Notaria cuando lo hubiere, los interesados deberán solicitar por escrito ante la Secretaría General de Gobierno, ser admitidos al curso que para tal efecto impartirá la Universidad Autónoma de Baja California Sur, acompañando la documentación correspondiente y dicha Dependencia anotará en cada solicitud su fecha y su hora de presentación, dando aviso al Gobernador del Estado.
 
-ARTICULO 12 A. Cuando se declare vacante una Notaría o se cree una nueva, el Ejecutivo del Estado convocará, mediante una sola publicación en el periódico de mayor circulación en la Entidad y en el Boletín Oficial del Gobierno del Estado, al examen de oposición, a quienes tengan patente de aspirante de notario, para que en el término de diez días hábiles manifiesten su interés en presentar dicho examen, acreditando llenar los requisitos de ley, ante el Gobernador del Estado y el Consejo de Notarios.
+Queda prohibido a los Notarios titulares de una Notaría ubicada en demarcación distinta de la vacante, participar a la convocatoria a que se refiere este artículo.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 1993)</small>
+El Gobierno del Estado señalará el día y la hora para la celebración del curso, dando a conocer a los candidatos, cuando menos con anticipación de ocho días, por medio de comunicación certificada con acuse de recibo dirigida al domicilio indicado en la petición, la fecha y la hora correspondiente de inicio del curso.
 
-ARTICULO 12 B. El Gobernador del Estado, dentro de los diez días hábiles siguientes a la conclusión del término que se menciona en el artículo anterior, fijará día, hora y lugar para la realización del examen de oposición, que deberá ser dentro de un plazo de treinta días hábiles, determinando además si los solicitantes reúnen los requisitos de ley, y lo hará del conocimiento de los interesados y del Consejo de Notarios. El jurado se integrará de la manera prevista en el artículo 11 C de esta Ley.
-
-El Consejo de Notarios, si considera que alguno de los solicitantes no reúne los requisitos legales, lo hará del conocimiento del Ejecutivo, para que éste resuelva lo conducente.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-ARTICULO 12 D. El Presidente del Consejo de Notarios comunicará al Gobernador del Estado el resultado del examen, adjuntando el dictamen del Jurado a efecto de que, en su caso, otorgue la Patente a quien corresponda y respecto a la cual se convocó para la oposición, misma que deberá ser publicada en el Boletín Oficial del Gobierno del Estado, o si se declaró desierto el resultado, se proceda a convocar de nuevo.
+ARTICULO 12 D. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -1089,141 +1071,25 @@ El titular del archivo general de Notarías será personalmente responsable de l
 
 De la Asociación de Notarios.
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
-
 ###### ARTICULO 121.
 
-En el Estado habrá una sola Asociación de Notarios, a la que pertenecerán todos los notarios de la Entidad, sea cual fuere su calidad, y será el órgano de representación y defensa de los legítimos intereses de los notarios del Estado, y garantía de defensa de la sociedad, por medio de la exigencia y el compromiso de un servicio notarial competente, eficaz, digno y responsable.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 ###### ARTICULO 122.
 
-La dirección, administración y representación de la Asociación de Notarios del Estado, estará a cargo del Consejo de Notarios, que se integrará por un presidente, un vicepresidente, un secretario, un tesorero y los consejeros suplentes que determine la asamblea.
-
-Los miembros del Consejo durarán en funciones un año y podrán ser reelectos para el mismo cargo, por una sola ocasión.
-
-El Consejo será designado en asamblea general por mayoría de votos, que se emitirán en forma personal, directa y escrita, por cada miembro de la Asociación. La elección se celebrará el primer sábado del mes de diciembre de cada año, en el lugar y hora señalados y comunicados de manera fehaciente por la Asociación.
-
-Para que la asamblea pueda celebrarse, deberán estar presentes, cuando menos el cincuenta y un por ciento de los miembros de la Asociación.
-
-Si no hubiera quórum, la asamblea se realizará el siguiente sábado, en el mismo lugar y hora, con el número de notarios que asistan.
-
-El desempeño del cargo de consejero será gratuito y no será renunciable sin causa justificada, la cesación en el ejercicio del notario producirá automáticamente la del cargo.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 ###### ARTICULO 123.
 
-Son atribuciones del Consejo de Notarios y del Presidente, Vicepresidente, Secretario y Tesorero del propio Consejo, las siguientes:
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
-
-a). Son atribuciones del Consejo de Notarios:
-
-I. Auxiliar al Gobierno del Estado, en la vigilancia y cumplimiento de esta ley y demás disposiciones relativas, promoviendo ante el ejecutivo las reformas que estime pertinentes a la legislación notarial;
-
-II. Implementar todas las medidas tendientes al buen logro de la prestación del servicio social por el Notariado Sudcaliforniano.
-
-III. Preparar, organizar e impartir, con el apoyo de los miembros de la Asociación de Notarios, los cursos de capacitación notarial a que se refiere esta ley;
-
-IV. Preparar y actualizar temarios de exámenes de capacitación, de aspirantes a notario y de oposición;
-
-V. Participar en los procedimientos de exámenes de aspirante al notariado y de notario, en los términos que marca esta Ley;
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-VI. Resolver las consultas que le hicieren las autoridades y los Notarios, así como dirimir las diferencias que surjan entre éstos y los particulares respecto a la prestación de los servicios notariales; de igual manera emitir dictámenes, criterios y en su caso otorgar dispensas, en relación a las disposiciones contenidas en la presente Ley y demás ordenamientos legales relacionados con la función notarial;
-
-VII. Elaborar sus Estatutos y Reglamento Interno, con base en esta ley;
-
-VIII. Convocar a asambleas de la Asociación, ordinarias o extraordinarias;
-
-IX. Representar a la Asociación, como su apoderado general para pleitos y cobranzas, para actos de administración y dominio, con todas las facultades generales y las especiales que requieren cláusula especial, conforme a la ley, en los términos de los artículos 2554 y 2587, del Código Civil vigente en el Estado de Baja California Sur;
-
-X. Celebrar, en representación de los notarios del Estado, convenios de vigencia general para la prestación de servicios y su retribución;
-
-XI. Delegar sus facultades en uno o varios consejeros, conferir poderes y revocar los que se hubiesen otorgado;
-
-XII. Resolver las quejas por presuntas infracciones de competencia en razón de la materia al certificar hechos, previa audiencia de las partes;
-
-XIII. Dispensar de la aplicación del arancel, en actuación concreta, previa solicitud fundada de cualquier notario en ejercicio, siempre y cuando no exista riesgo de violación a lo dispuesto en la presente ley; y
-
-XIV. Las demás que las leyes establezcan.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
-
-b). Son atribuciones del presidente de la Asociación de Notarios o de quien haga sus veces:
-
-I. Convocar a las asambleas de la Asociación y a juntas del Consejo;
-
-II. Presidir las sesiones tanto de la Asociación como del Consejo;
-
-III. Ejecutar las resoluciones de la Asociación y del Consejo, para lo cual tendrá la firma social;
-
-IV. Promover el cumplimiento de los acuerdos de la asamblea y del Consejo de Notarios;
-
-V. Autorizar los libros del protocolo, previa la autorización de la autoridad correspondiente;
-
-VI. Vigilar la recaudación y aplicación de los fondos que constituyen el patrimonio de la Asociación;
-
-VII. Rendir informe de las actividades del ejercicio, y
-
-VIII. Las demás que le confieren los estatutos y el Reglamento Interno de la Asociación.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
-
-c). Son atribuciones del vice-presidente del Consejo:
-
-I. Sustituir al presidente en la (sic) faltas temporales o definitivas;
-
-II. Autorizar los libros del protocolo del presidente, previa la autorización de la autoridad correspondiente;
-
-III. Cumplir con las comisiones que le encomiende el presidente del Consejo;
-
-IV. Coordinar las comisiones permanentes que acuerde la Asamblea;
-
-V. Las demás que le confieran los estatutos de la Asociación y el Reglamento Interior del Consejo.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
-
-d). Son atribuciones del secretario del Consejo, o de quien haga sus veces:
-
-I. Dar cuenta al presidente de los asuntos y comunicar los acuerdos;
-
-II. Suscribir, con el presidente, las convocatorias para la celebración de asambleas de la Asociación o juntas de Consejo;
-
-III. Redactar las actas de sesiones de la Asociación y del Consejo;
-
-IV. Llevar la correspondencia, libros de registro, archivo y cuidar la biblioteca de la Asociación, y
-
-V. Las demás que le confieran los estatutos y el Reglamento Interior del Consejo.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
-
-e). Son atribuciones del tesorero, o de quien haga sus veces:
-
-I. Recaudar las cuotas de los miembros de la Asociación;
-
-II. Efectuar pagos, previo acuerdo del presidente del Consejo, o de quien legalmente hiciere sus veces;
-
-III. Llevar la contabilidad de la Asociación;
-
-IV. Rendir cuentas al término de cada ejercicio, y
-
-V. Las demás que le confieren los estatutos y el Reglamento Interior de la Asociación.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 ###### ARTICULO 124.
 
-Se designarán por el Consejo o por la asamblea, las comisiones asesoras permanentes o especiales, que fungirán específicamente en las áreas de trabajo que se les asigne y podrán concurrir con voz, pero sin voto, a las sesiones del Consejo.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1993)</small>
+(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 ###### ARTICULO 125.
 
-Los notarios estarán obligados a cubrir a la Asociación de Notarios por adelantado, una cuota equivalente a quince días de salario mínimo por protocolo que se les autorice.
+(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 ### CAPITULO TERCERO
 
@@ -1402,3 +1268,15 @@ B.O. 31 DE DICIEMBRE DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se abrogan o derogan en su caso todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 6 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para la realización del curso a que alude el segundo párrafo del artículo 12, el Ejecutivo del Estado proveerá todo lo necesario para su instrumentación, debiendo hacerlo en horarios flexibles para que puedan acceder al mismo todos los profesionistas interesados.
+
+TERCERO.- Cuando se expida una patente para una población, en donde el profesionista en turno en el Registro no sea residente, este ultimo deberá demostrar que su capacidad de instalar oficinas y la estructura necesaria la tiene en la población donde reside, solo en este caso podrá ser alterado el orden del Registro, cediendo su lugar al siguiente profesionista en orden de prelación sin que esto implique la pérdida de su turno.
+
+CUARTO.- Quedan derogadas las disposiciones que se opongan al presente decreto.
+
+QUINTO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días, expedirá el Reglamento a que se refiere el artículo 12 fracción IV de este Decreto.
