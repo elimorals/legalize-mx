@@ -4,7 +4,7 @@ identifier: "LFCP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "1992-12-29"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCP"
 
 LEY FEDERAL DE CORREDURIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -102,7 +102,9 @@ Sólo podrán ostentarse como corredores públicos las personas habilitadas por 
 
 Para ser corredor se requiere:
 
-I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II.- Contar con título profesional de licenciado en derecho y la cédula correspondiente;
 
@@ -341,3 +343,9 @@ QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo ap
 México, D.F., a 19 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Elpidio Tovar de la Cruz, Presidente.- Sen. Roberto Suárez Nieto, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
