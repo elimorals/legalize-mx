@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1940-11-14"
+last_updated: "1966-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1966.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -607,9 +607,9 @@ ARTICULO 98
 
 Cuando este Código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-I.- Cinco días para interponer el recurso de apelación de sentencia;
+I.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)
 
-II.- Tres días para apelar de autos;
+II.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)
 
 III.- Tres días para la celebración de juntas, reconocimiento de firmas y documentos, dictamen de peritos, exhibición de documentos; a no ser que por circunstancias especiales creyere el juez conveniente ampliar el término, lo cual podrá hacer por tres días más;
 
@@ -1307,9 +1307,11 @@ ARTICULO 208
 
 Precisamente con la demanda debe el actor presentar todas las pruebas justificativas de su acción y ofrecer las que para su recepción necesiten tramitación especial.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
 ARTICULO 209
 
-El juez examinará de oficio la demanda, y si la encontrare obscura o irregular o no estuviere acreditada la personalidad del actor, le prevendrá que la aclare, corrija o complete de acuerdo con la ley en los primeros casos, señalando en concreto los defectos y en el último, se negará a darle curso. El juez puede hacer la prevención que se indica por una sola vez y verbalmente. Si no le da curso, podrá el promovente acudir en queja al superior.
+El Juez examinará de oficio la demanda y si la encontrare obscura o irregular o no estuviere acreditada la personalidad del actor, le prevendrá que la aclare, corrija o complete de acuerdo con la Ley en los primeros casos, señalando en concreto los defectos y en el último, se negará a darle curso. El Juez puede hacer la prevención que se indica por una sola vez, y verbalmente.
 
 ARTICULO 210
 
@@ -2355,7 +2357,7 @@ Cuando la sentencia ordene la entrega de personas, el juez dictará las disposic
 
 ARTICULO 373
 
-De las resoluciones dictadas para la ejecución de una sentencia, no se admitirá otro recurso que el de responsabilidad, y si fuere auto, el de queja ante el superior.
+> <small>(DEROGADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
 ARTICULO 374
 
@@ -2825,7 +2827,9 @@ Si al ejecutar las resoluciones insertas en las requisitorias, se opusiere algú
 
 I.- Cuando un tercero que no hubiere sido oído por el juez requeriente poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado;
 
-II.- Si el tercer opositor que se presente ante el juez requerido, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado. Contra esta resolución sólo se da el recurso de queja.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+II.- Si el tercer opositor que se presente ante el Juez requerido, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado.
 
 ARTICULO 445
 
@@ -3161,25 +3165,33 @@ TITULO DECIMOSEGUNDO
 
 DE LOS RECURSOS
 
-### CAPITULO I. De las revocaciones, apelaciones y de la revisión
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+### CAPITULO I. De la revocación, apelación y reposición
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
 ARTICULO 506
 
-Las sentencias no pueden ser revocadas por el juez que las dicta.
+Los autos que no causen daño irreparable en la sentencia y los decretos pueden ser revocados por el Juez que los dicta, o por el que los substituya en el conocimiento del negocio.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
 ARTICULO 507
 
-Los autos que no fueren apelables y los decretos, pueden ser revocados por el juez que los dicta, o por el que lo substituya en el conocimiento del negocio.
+La revocación puede pedirse en el acto de la notificación o dentro de veinticuatro horas. Se resolverá de plano o en audiencia que tendrá lugar dentro de los tres días siguientes. Sólo podrán ofrecerse las pruebas que puedan rendirse en dicha audiencia.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
 ARTICULO 508
 
-La revocación puede pedirse en el acto de la notificación o dentro de veinticuatro horas. Se resolverá de plano o en audiencia, que tendrá lugar dentro de los tres días siguientes. Sólo podrán ofrecerse las pruebas que puedan rendirse en dicha audiencia.
+De los decretos y autos del Tribunal de Segunda Instancia puede pedirse la reposición, que se substanciará en la misma forma que la revocación.
 
-De los decretos y autos del tribunal de segunda instancia puede pedirse la reposición, que se substanciará en la misma forma.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
 ARTICULO 509
 
-El recurso de apelación tiene por objeto que el superior confirme, revoque o modifique la resolución del inferior.
+El recurso de apelación tiene por efecto que el superior confirme, revoque o modifique la resolución del inferior. Son apelables las sentencias, los autos que resuelven un incidente y los autos que causan daño irreparable en la sentencia.
 
 ARTICULO 510
 
@@ -3287,7 +3299,13 @@ ARTICULO 528
 
 Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa que no exceda de cincuenta pesos.
 
-### CAPITULO III. Del recurso de responsabilidad
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+TITULO DECIMOSEGUNDO BIS
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+### CAPITULO UNICO. Del juicio de responsabilidad
 
 ARTICULO 529
 
@@ -4950,3 +4968,7 @@ Lic. Miguel Aguillón Guzmán
 G.O. 14 DE NOVIEMBRE DE 1940.
 
 Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 29 DE DICIEMBRE DE 1966.
+
+TRANSITORIO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
