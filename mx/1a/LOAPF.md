@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1982-12-29"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -137,6 +137,14 @@ Al frente de cada departamento administrativo habrá un jefe de departamento, qu
 ###### ARTICULO 16.
 
 Corresponde originalmente a los titulares de las Secretarías de Estado y Departamentos Administrativos el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refieren los artículos 14 y 15, cualesquiera de sus facultades, excepto aquellas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares. En los casos en que la delegación de facultades recaiga en jefes de oficina, de sección y de mesa de las Secretarías de Estado y Departamentos Administrativos, aquéllos conservarán su calidad de trabajadores de base en los términos de la Ley Federal de los Trabajadores al Servicio del Estado.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Los propios titulares de las Secretarías de Estado y Departamentos Administrativos también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías, Oficialía Mayor, y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
 
 ###### ARTICULO 17.
 
@@ -446,9 +454,11 @@ I.- Estudiar y formular los proyectos de leyes y disposiciones impositivas, y la
 
 II.- Cobrar los impuestos, derechos, productos y aprovechamientos federales en los términos de las leyes;
 
-III.- Cobrar los derechos, impuestos, productos y aprovechamientos del Distrito Federal en los términos de la Ley de Ingresos del Departamento del Distrito Federal, y las leyes fiscales correspondientes;
+III.- Cobrar los derechos, impuestos, productos y aprovechamientos del Distrito Federal, en los términos de la Ley de Ingresos del Departamento del Distrito Federal y las leyes fiscales correspondientes;
 
-IV.- Determinar los criterios y montos globales de los estímulos fiscales; estudiar y proyectar sus efectos en los ingresos de la Federación, y evaluar sus resultados conforme a sus objetivos. Para ello escuchará a las dependencias responsables de los sectores correspondientes;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+IV.- Determinar los criterios y montos globales de los estímulos fiscales; estudiar y proyectar sus efectos en los ingresos de la Federación y evaluar sus resultados conforme a sus objetivos, escuchando para ello a las dependencias responsables de los sectores correspondientes; administrar su aplicación en los casos en que no competa a otra Secretaría; así como comprobar el cumplimiento de las obligaciones de los beneficiarios, a fin de ejercer las facultades fiscales que le confieran las leyes cuando los particulares se beneficien sin derecho de un subsidio o estímulo fiscal;
 
 V.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la Federación;
 
@@ -468,7 +478,9 @@ XII.- Administrar las casas de moneda y ensaye;
 
 XIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones auxiliares de crédito;
 
-XIV.- Representar el interés de la Federación en controversias fiscales y coordinar en esta materia la representación del Departamento del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+XIV.- Representar el interés de la Federación en controversias fiscales;
 
 XV.- Establecer y revisar los precios y tarifas de los bienes y servicios de la Administración Pública Federal, o bien, las bases para fijarlos, escuchando a las Secretarías de Programación y Presupuesto y de Comercio y Fomento Industrial y con la participación de las dependencias que corresponda, y
 
@@ -612,7 +624,9 @@ IV.- Fomentar el comercio exterior del país.
 
 V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
-VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial y el comercio interior y exterior, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
@@ -642,7 +656,9 @@ XIX.- Regular la producción industrial con exclusión de la que esté asignada 
 
 XX.- Asesorar a la iniciativa privada en el establecimiento de nuevas industrias en el de (sic) las empresas que se dediquen a la exportación de manufacturas nacionales;
 
-XXI.- Fomentar, regular y promover el desarrollo de la industria de transformación;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+XXI.- Fomentar, regular y promover el desarrollo de la industria de transformación e intervenir en el suministro de energía eléctrica a usuarios y en la distribución de gas;
 
 XXII.- Fomentar, estimular y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares;
 
@@ -652,7 +668,11 @@ XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pe
 
 XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
 
-XXVI.- Los demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+XXVI.- Registrar los precios de mercancías, arrendamiento de bienes muebles y contratación de servicios, que regirán para el sector público; dictaminar los contratos o pedidos respectivos; autorizar las compras del sector público en el país de bienes de procedencia extranjera, así como, conjuntamente con la Secretaría de Programación y Presupuesto, autorizar las bases de las convocatorias para realizar concursos internacionales, y
+
+XXVII.- Los demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1016,7 +1036,9 @@ IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
 
 V.- Promover el incremento de la productividad del trabajo;
 
-VI.- Promover el desarrollo de la capacitación para el trabajo y la investigación sobre la materia, en coordinación con la Secretaría de Educación Pública;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+VI.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del país, en coordinación con la Secretaría de Educación Pública;
 
 VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
 
@@ -1040,7 +1062,11 @@ XVI.- Establecer la política y coordinar los servicios de seguridad social de l
 
 XVII.- Estudiar y proyectar planes para impulsar la ocupación en el país;
 
-XVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+XVIII.- Promover la cultura y recreación entre los trabajadores y sus familias, y
+
+XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1180,9 +1206,11 @@ II.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 Dentro de la administración pública paraestatal serán considerados como organismos descentralizados las instituciones creadas por disposición del Congreso de la Unión, o en su caso por el Ejecutivo Federal, con personalidad jurídica y patrimonio propios, cualquiera que sea la forma o estructura legal que adopten.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 46.
 
-Dentro de la administración pública paraestatal se consideran empresas de participación estatal mayoritaria, incluídas las instituciones nacionales de crédito y organizaciones auxiliares, y las instituciones nacionales de seguros y de fianzas, aquellas que satisfagan alguno de los siguientes requisitos:
+Dentro de la Administración Pública Paraestatal se consideran empresas de participación estatal mayoritaria, incluidas las instituciones nacionales de crédito y organizaciones auxiliares, las sociedades nacionales de crédito, y las instituciones nacionales de seguros y de fianzas, aquellas que satisfagan alguno de los siguientes requisitos:
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
 
@@ -1213,6 +1241,14 @@ Las relaciones de las empresas de participación estatal minoritaria con la Admi
 Los fideicomisos a que se refiere esta Ley serán los establecidos por la Administración Pública Centralizada así como los que se creen con recursos de las entidades a que alude el artículo 3o. de este propio ordenamiento.
 
 La Secretaría de Programación y Presupuesto representará como fideicomitente único a la Administración Pública Centralizada, en los fideicomisos que ésta constituya.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 49 BIS.- Las entidades a que se refiere este Capítulo, deberán inscribirse en el Registro de la Administración Pública Paraestatal que llevará la Secretaría de Programación y Presupuesto.
+
+> <small>(F. DE E., D.O.F. 18 DE ABRIL DE 1984)</small>
+
+Los Directores, Gerentes, o quienes desempeñen funciones similares, de las entidades paraestatales que no cumplan con esta obligación, serán responsables en los términos de la Ley.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1317,3 +1353,11 @@ QUINTO.- Los asuntos que con motivo de este Decreto deban pasar de una Secretar�
 SEXTO.- Cuando en los términos del presente Decreto se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas con anterioridad, dichas atribuciones se entenderán concedidas a la dependencia que determine este Decreto y demás disposiciones relativas.
 
 SEPTIMO.- El Ejecutivo Federal continuará los fincamientos de responsabilidades en proceso y los que se inicien por hechos consumados con anterioridad a la publicación de estas modificaciones, por conducto de la Secretaría de la Contraloría General de la Federación y que resulten de la revisión que le compete independientemente de la fecha en que se descubran o comprueben.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+TERCERO.- Las entidades paraestatales que no estén inscritas en el Registro a que se refiere el artículo 49 Bis que se adiciona por el presente Decreto, deberán hacerlo en un plazo de tres meses contados a partir de la fecha en que el mismo entre en vigor.
