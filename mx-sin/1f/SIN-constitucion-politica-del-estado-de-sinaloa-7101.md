@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1955-12-31"
+last_updated: "1957-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1957.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -325,9 +325,11 @@ En estos tres últimos casos, la convocatoria se hará por conducto de la misma 
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1957)</small>
+
 ###### Art. 40.
 
-A la apertura de cada primer período ordinario de sesiones, del Congreso, y del extraordinario solicitado por el Ejecutivo, concurrirá éste y presentará un informe por escrito: en el primer caso, sobre el estado general de la administración pública y en el segundo, sobre los motivos y el objeto de la convocatoria y los asuntos que requieran pronta resolución. Igual obligación tendrá el Presidente del Supremo Tribunal de Justicia sobre los asuntos de su competencia. Cuando la convocatoria proceda de la Diputación Permanente o de la mayoría de los Diputados, cada quien cumplirá con la parte final del párrafo primero. El Presidente del Congreso contestará en términos generales en cada caso.
+El día 15 de Diciembre de cada año el C. Gobernador del Estado, concurrirá a la sesión que celebre en ese día el H. Congreso de la Entidad, y presentará al mismo un informe por escrito, sobre el estado general de la Administración Pública. En caso de período extraordinario de sesiones del H. Congreso del Estado solicitado por el Ejecutivo, el C. Gobernador de Sinaloa, concurrirá por sí o por medio de representante, a la sesión de apertura de dicho período, explicando a la Legislatura los motivo (sic) y el objeto de la convocatoria a período extraordinario y los asuutos (sic) que requieran una pronta resolución. A las (sic) sesión del 15 de Diciembre de cada año asistirá también el Presidente del Supremo Tribunal de Justicia, quién informará sobre el estado que guarde la Administración de Justicia en la Entidad. El Presidente de la Legislatura contestará las exposiciones hechas tanto por el C. Gobernador del Estado como por el C. Presidente del Supremo Tribunal de Justicia del mismo, en términos generales.
 
 ###### Art. 41.
 
@@ -671,7 +673,9 @@ XIII. Certificar las firmas de todos los funcionarios y empleados públicos del 
 
 XIV. Expedir reglamentos administrativos para el régimen económico de sus dependencias.
 
-XV. Concurrir anualmente a la apertura del primer período de sesiones ordinarias del Congreso, para informar acerca del estado que guarda la administración pública, y para la apertura de las extraordinarias, cuando sean convocados por él para informar acerca de los motivos que lo obligaron a convocar.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1957)</small>
+
+XV. Concurrir anualmente el día 15 de Diciembre a la sesión que celebre en ese día el H. Congreso del Estado y a la apertura de cada período extraordinario, cuando sea convocado a solicitud de él, para informar acerca de los motivos que lo obligaron a ello.
 
 XVI. Iniciar leyes y decretos ante el Congreso del Estado.
 
@@ -1814,3 +1818,7 @@ Artículo Segundo.- Antes del día veintiuno de diciembre del año actual, el Co
 Artículo Tercero.- Los negocios que actualmente radican en el Supremo Tribunal de Justicia, si no fueren de la competencia del Pleno, pasarán al conocimiento de la Sala que correspondan.
 
 Artículo Cuarto.- El Supremo Tribunal de Justicia dictará las medidas transitorias necesarias para el cumplimiento de las presentes reformas, en cuanto no esté previsto por las mismas o por la Ley Orgánica del Poder Judicial.
+
+P.O. 13 DE JULIO DE 1957.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
