@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-lo-contencioso-5735"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-17"
-last_updated: "1996-06-17"
+last_updated: "1999-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5735&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-04-19"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE AGOSTO DE 1999.
 
 Reglamento publicado en la Gaceta del Oficial del Distrito Federal el lunes 17 de junio de 1996.
 
@@ -32,7 +32,9 @@ REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO F
 
 ### CAPITULO I. Disposiciones Generales
 
-ART. 1o.- El objeto de este Reglamento es establecer la organización y el funcionamiento del Tribunal de lo Contencioso Administrativo del Distrito Federal, así como las atribuciones de sus órganos y unidades administrativas, y las normas relativas a las licencias de sus servidores públicos.
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
+
+ART. 1o.- El objeto de este Reglamento es establecer la organización y el funcionamiento del Tribunal de lo Contencioso Administrativo del Distrito Federal, así como las atribuciones de sus órganos y unidades administrativas, las normas relativas a las licencias de sus servidores públicos y las que faciliten la aplicación de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
 ART. 2o.- Corresponde al Tribunal de lo Contencioso Administrativo del Distrito Federal, el despacho de los asuntos que expresamente le confiere la Ley de la materia y demás ordenamientos legales aplicables.
 
@@ -66,7 +68,13 @@ k) Los demás servidores públicos que las necesidades del servicio requieran y 
 
 ART. 4o.- Además de la competencia y atribuciones que le confieren los artículos 20 y 21 y demás relativos de la Ley del Tribunal, así como otras disposiciones legales aplicables, corresponde a la Sala Superior:
 
-a) Designar cada dos años en la primera sesión ordinaria anual, de entre sus miembros, al Presidente del Tribunal quien lo será también de la Sala Superior. La sesión será presidida por el Magistrado de la Sala Superior con mayor antigüedad efectiva en dicha sala; propuestos los candidatos se computarán los votos, y una vez electo, el Presidente rendirá la protesta de ley;
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
+
+a) Designar cada dos años en la primera sesión ordinaria anual, de entre sus miembros, al Presidente del Tribunal quien lo será también de la Sala Superior.
+
+La sesión será presidida por el Magistrado de la Sala Superior con mayor antigüedad en el servicio de sus funciones en dicha Sala, el cual será considerado decano de la misma. Propuestos los candidatos se computarán los votos y una vez electo, el Presidente rendirá la protesta de Ley.
+
+Los Magistrados de la Sala Superior deberán asistir a las sesiones de pleno a que sean convocados; en caso de no hacerlo, deberán justificar la causa de su ausencia, que será calificada por la Propia Sala. Tres o más faltas consecutivas injustificadas, se considerarán como licencia en los términos del inciso d) del presente artículo.
 
 b) Determinar y cambiar la adscripción de los Magistrados de las Salas Ordinarias y de las Salas Auxiliares, para el mejor funcionamiento del Tribunal;
 
@@ -76,7 +84,9 @@ d) Conceder licencias hasta por un mes sin goce de sueldo, cada año, en los té
 
 e) Dictar las medidas necesarias para el despacho pronto, eficaz y expedito de los asuntos de la competencia del Tribunal;
 
-f) Calificar, en cada caso, las recusaciones, excusas o impedimentos de los Magistrados y Secretarios del Tribunal. En el caso de sustitución del Magistrado Presidente de la Sala Superior, quien lo sustituya será el Magistrado con mayor antigüedad de nombramiento en dicha Sala. En el caso de sustitución del Magistrado Presidente de Sala Ordinaria y de Sala Auxiliar, quien lo sustituya deberá ser Presidente de una Sala similar;
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
+
+f) Calificar, en cada caso, las recusaciones, excusas, faltas o impedimentos de los Magistrados y Secretarios del Tribunal. En el caso de sustitución del Magistrado Presidente de la Sala Superior, quien lo sustituya será el Magistrado decano de dicha Sala. En el caso de sustitución del Magistrado Presidente de Sala Ordinaria y Sala Auxiliar, quien lo sustituya deberá ser Presidente de una Sala similar;
 
 g) En el caso de sustitución de algún Secretario de Acuerdos, la Sala Superior designará al sustituto;
 
@@ -328,7 +338,11 @@ m) Remitir al archivo de la Sala Superior los expedientes totalmente concluidos;
 
 n) Auxiliar al Magistrado de la ponencia de su adscripción en las visitas que efectúen a las Salas ordinarias, y
 
-o) Desempeñar las demás funciones que la Ley del Tribunal y el presente Reglamento determinen, y las que en el ejercicio de sus atribuciones, el Magistrado de la ponencia de su adscripción les indiquen.
+> <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 1999)</small>
+
+o) Autorizar y dar fe de los acuerdos, autos y demás resoluciones que dicte el Magistrado de la Ponencia de su adscripción, así como expedir las copias certificadas que autorice.
+
+p) Desempeñar las demás funciones que la Ley del Tribunal y el presente Reglamento determinen, y las que en el ejercicio de sus atribuciones, el Magistrado de la ponencia de su adscripción les indiquen.
 
 ART. 16.- Corresponde a los Secretarios de Acuerdos de las Salas Ordinarias y de las Salas Auxiliares:
 
@@ -438,9 +452,13 @@ ART. 35.- En las licencias que excedan de 6 meses, los Magistrados de las Salas 
 
 ART. 36.- Las licencias de los Magistrados de las Salas Ordinarias y de las Salas Auxiliares que no excedan de 6 meses, sólo podrán otorgarse cuando en la Sala de que se trate permanezcan dos Magistrados. Será habilitado para que funja como Magistrado por Ministerio de Ley, el Secretario de Acuerdos que en su caso designe la Sala Superior, y se nombrará un Secretario de Acuerdos Auxiliar.
 
-ART. 37.- Durante las ausencias temporales del Presidente del Tribunal, será suplido por el Magistrado más antiguo de la Sala Superior, según la fecha de su designación. En caso del nombramiento de dos o más Magistrados en la misma fecha la suplencia corresponderá al Magistrado que haya sido designado en primer lugar. De no poder determinarse éste, la suplencia corresponderá al Magistrado en el orden alfabético del primer apellido, y de haber más de uno de igual apellido, se tomará en cuenta el segundo apellido.
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
 
-ART. 38.- Cuando las ausencias temporales del Presidente del Tribunal excedan de 3 meses, será suplido por el Magistrado más antiguo de la Sala Superior, según la fecha de su designación. En caso del nombramiento de dos o más Magistrados en la misma fecha, la suplencia corresponderá al Magistrado primero en orden de ser designado; de no poder determinarse éste, la suplencia corresponderá al Magistrado más antiguo en el orden alfabético del primer apellido y de haber más de uno de igual apellido, se tomará en cuenta el segundo apellido.
+ART. 37.- Durante las ausencias temporales del Presidente del Tribunal, será suplido por el Magistrado decano de la Sala Superior. En caso de dos o más Magistrados en la misma situación de antigüedad en el servicio activo de sus funciones la suplencia corresponderá al Magistrado que haya sido designado en primer lugar. De no poder determinarse éste, la suplencia corresponderá al Magistrado en el orden alfabético del primer apellido, y de haber más de uno de igual apellido, se tomará en cuenta el segundo apellido.
+
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
+
+ART. 38.- Cuando las ausencias temporales del Presidente del Tribunal excedan de 3 meses, será suplido por el Magistrado decano. En el caso de nombramiento de dos Magistrados en la misma situación de antigüedad en el servicio activo de sus funciones, la suplencia corresponderá al Magistrado más antiguo en el orden alfabético del primer apellido y de haber más de uno de igual apellido, se tomará en cuenta el segundo apellido.
 
 ART. 39.- Si la falta del Presidente fuere definitiva, ocupará la Presidencia el Magistrado más antiguo en la Sala Superior en los términos del artículo anterior.
 
@@ -575,3 +593,9 @@ TERCERO.- Por ser de interés general, publíquese en el Diario Oficial de la Fe
 Salón de sesiones de la H. Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, a 19 de abril de 1996.
 
 Presidente, Magistrado Licenciado Pedro Enrique Velasco Albin.- Rúbrica.- Magistrada Licenciada Victoria Eugenia Quiroz de Carrillo.- Magistrado Licenciado Jaime Araiza Velázquez.- Magistrado Licenciado Horacio Castellanos Coutiño.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+
+G.O. 19 DE AGOSTO DE 1999.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
