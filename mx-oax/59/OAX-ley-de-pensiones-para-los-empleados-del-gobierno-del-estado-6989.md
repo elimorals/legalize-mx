@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1972-01-22"
+last_updated: "1973-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1973.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -97,6 +97,10 @@ III.- Por fallecimiento del trabajador a causa o con consecuencia del servicio.
 
 IV.- Por muerte del pensionista.
 
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1973)</small>
+
+V.- Por tiempo de servicios, en los términos de la fracción I del Articulo 35.
+
 ###### ARTICULO 8°.
 
 Los trabajadores o las personas que esta Ley menciona, tienen derecho, en los casos y con los requisitos que en la misma se prevee (sic), además de la pensión, a los siguientes beneficios:
@@ -108,6 +112,10 @@ II.- Gastos de defunción del trabajador o pensionista.
 III.- Préstamos hipotecarios.
 
 IV.- Préstamos quirográficos a corto plazo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 1973)</small>
+
+El trabajador que haya sido jubilado por haber prestado servicios durante treinta o más años, tendrá también derecho a los beneficios que se otorguen a los empleados y funcionarios, como si todavía estuviera trabajando.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
@@ -247,7 +255,9 @@ DE LAS GENERALIDADES DE LA PENSION.
 
 Tienen derecho a pensión:
 
-I.- El trabajador que tenga sesenta años cumplidos de edad y cuando menos quince años de servicios, y haya contribuido normal e íntegramente durante el mismo tiempo, al Fondo de Pensiones.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 1973)</small>
+
+I.- El trabajador que tenga sesenta años cumplidos de edad y cuando menos quince años de servicios, y haya contribuido normal e íntegramente al Fondo de Pensiones. Cuando el trabajador justifique haber prestado servicios durante treinta o más años y esté al corriente en su contribución al referido Fondo, se le concederá pensión independientemente de su edad.
 
 II.- El trabajador que se inhabilite física o intelectualmente, de manera permanente o temporal y por causa o consecuencia del servicio, sea cual fuere el tiempo de éste, siempre que quede comprendido dentro de las disposiciones de esta Ley y no haya dejado de cumplir con las obligaciones que la misma le impone.
 
@@ -260,8 +270,6 @@ IV.- Los deudos del trabajador o pensionista que fallezca a causa o consecuencia
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 Si la muerte del trabajador no constituye riesgo profesional, por ser consecuencia de circunstancias comunes, sus deudos tendrán derecho al 50% de la pensión señalada en la fracción IV del artículo 56.
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 17 DE AGOSTO DE 1963)</small>
 
 ###### ARTICULO 36.
 
@@ -938,3 +946,7 @@ P.O. 6 DE JULIO DE 1968.
 P.O. 22 DE ENERO DE 1972.
 
 Único.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 1973.
+
+Único.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
