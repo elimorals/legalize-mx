@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1991-01-10"
+last_updated: "1992-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1992.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -106,37 +106,35 @@ A).- Organos de Gobierno:
 
 - Comisión de Vigilancia.
 
-> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1992)</small>
 
 B).- Unidades Administrativas:
 
-- Subdirección General Médica.
+- Subdirección General Médica
 
-- Subdirección General de Prestaciones Económicas.
+- Subdirección General de Prestaciones Económicas
 
-- Subdirección General de Protección al Salario.
+- Subdirección General de Protección al Salario
 
-- Subdirección General de Servicios Sociales y Culturales.
+- Subdirección General de Servicios Sociales y Culturales
 
-- Subdirección General Jurídica.
+- Subdirección General Jurídica
 
-- Subdirección General de Administración.
+- Subdirección General de Administración
 
-- Subdirección General de Obras y Mantenimiento.
+- Subdirección General de Obras y Mantenimiento
 
-- Subdirección General de Finanzas.
+- Subdirección General de Finanzas
 
-- Subdirección General de Abastecimientos.
+- Subdirección General de Abastecimientos
 
-- Subdirección General de Delegaciones.
+- Contraloría General
 
-- Contraloría General.
+- Coordinación General de Comunicación Social
 
-- Coordinación General de Comunicación Social.
+- Fondo de la Vivienda
 
-- Fondo de la Vivienda.
-
-- Delegaciones.
+- Delegaciones
 
 C).- Comisión Interna de Administración y Programación.
 
@@ -900,35 +898,7 @@ III.- Almacenar, custodiar y proporcionar a las diversas áreas del Instituto, l
 
 IV.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
-
-ARTICULO 51 C.- La Subdirección General de Delegaciones tendrá las funciones siguientes:
-
-I.- Promover y coordinar, previa aprobación del Director General, la formulación del programa de desconcentración administrativa del Instituto, así como supervisar y evaluar, en coordinación con las unidades administrativas centrales, el cumplimiento del mismo;
-
-II.- Constituirse en el conducto formal de comunicación entre las Delegaciones, los Organos de Gobierno y las unidades administrativas centrales;
-
-III.- Auxiliar a las Delegaciones en la elaboración de los anteproyectos del Programa-Presupuesto y opinar ante las unidades administrativas centrales correspondientes, respecto a su viabilidad y congruencia con los planes y programas de desconcentración;
-
-IV.- Evaluar, conjuntamente con las unidades administrativas centrales, la operación administrativa, técnica y financiera de las Delegaciones, de acuerdo con las disposiciones relativas;
-
-V.- Coadyuvar en el otorgamiento de la asistencia técnica de capacitación para poner en práctica los lineamientos generales que establezca el Director General para la operación de las Delegaciones;
-
-VI.- Instrumentar, proponer y promover los criterios y lineamientos para una adecuada coordinación entre las Delegaciones con las representaciones federales, estatales y municipales de los sectores público, social y privado;
-
-VII.- Coadyuvar a la solución de aquellos asuntos que se generen en las Delegaciones, informando oportunamente al Director General y a las áreas administrativas competentes;
-
-VIII.- Captar, analizar, sistematizar y difundir oportunamente la información que se genere en las Delegaciones;
-
-IX.- Llevar el registro de las supervisiones y evaluaciones que efectúen las áreas administrativas a las Delegaciones, conforme a las instrucciones del Director General, en el ámbito de competencia de las mismas áreas;
-
-X.- Auxiliar al Director General con motivo de las giras de trabajo que tenga que realizar a las Delegaciones, así como informarle oportunamente de la situación que guarde la Delegación correspondiente;
-
-XI.- Captar y analizar las cargas de trabajo de las Delegaciones y proponer las medidas respectivas para incrementar la eficiencia administrativa de las mismas;
-
-XII.- Proponer al Director General las modificaciones a la estructura orgánica y al funcionamiento y operación de las Delegaciones; y
-
-XIII.- Las demás que señalen otras disposiciones aplicables.
+ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
 #### SECCION TERCERA. DE LA CONTRALORIA GENERAL
 
@@ -1091,3 +1061,9 @@ D.O.F. 10 DE ENERO DE 1991.
 PRIMERO.- Esta reforma entrará en vigor el día 17 de diciembre de 1990.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación y, en su oportunidad, inscríbase la presente reforma en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 19 DE NOVIEMBRE DE 1992.
+
+PRIMERO.- Esta reforma entrará en vigor el día primero de enero de 1993.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
