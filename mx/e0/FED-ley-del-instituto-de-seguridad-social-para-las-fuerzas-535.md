@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1998-01-23"
+last_updated: "2003-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 9 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -3093,3 +3095,21 @@ A todos los militares que hayan sido retirados con más de 45 años de servicios
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 9 DE JULIO DE 2003.
+
+Primero: Este Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+Segundo: A partir de la entrada en vigor de esta Ley, se abroga la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas publicada en el Diario Oficial de la Federación el 29 de junio de 1976, dejando a salvo los derechos y beneficios que la misma otorga a quienes los vienen ejerciendo y disfrutando. Se derogan las demás disposiciones que se opongan al presente ordenamiento.
+
+Tercero: Los militares retirados con derecho a percibir haber de retiro, deberán recibir este beneficio de conformidad con las resoluciones acordadas por la Junta Directiva del Instituto y sancionadas por la Secretaría de Hacienda y Crédito Público.
+
+Cuarto: La prima contenida en el artículo 66 deberá ser revisada por el Instituto al cumplirse un año de vigencia de la Ley, para el efecto de determinar el factor de prima que permita, en su caso, mantener el equilibrio financiero del seguro de vida militar.
+
+Quinto: Los militares que con antelación al 18 de agosto de 1995, se encontraban con licencia ilimitada o hubiesen recibido compensación y que se hayan acogido al seguro de vida militar potestativo en términos de la ley anterior, continuarán pagando la prima anual equivalente a $0.30 (treinta centavos) con derecho a una suma asegurada de $7,500.00 (siete mil quinientos pesos 00/100 M.N.) por muerte natural, $15,000.00 (quince mil pesos 00/100 M.N.) por muerte accidental o $22,500.00 (veintidós mil quinientos pesos 00/100 M.N.) por fallecimiento en accidente colectivo, según proceda.
+
+Sexto: A todos los militares que estén en situación de retiro antes de la vigencia de esta Ley, se les sustituirá la "ayuda para militares retirados" por la cantidad que se determine conforme a lo establecido en el artículo 31 de la ley, de acuerdo al haber establecido en los tabuladores actuales autorizados por la Secretaría de Hacienda y Crédito Público, para el grado que sirvió de base para el cálculo de su haber de retiro.
+
+A todos los pensionados antes de la entrada en vigor de esta Ley, se les incrementará su pensión por la cantidad que se determine conforme a lo establecido en el artículo 31 de la ley, de acuerdo al haber establecido en los tabuladores actuales autorizados por la Secretaría de Hacienda y Crédito Público, para el grado que sirvió de base para el cálculo de su pensión.
+
+El aumento se hará efectivo a partir del día primero de septiembre del presente año.
