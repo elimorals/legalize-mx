@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1988-03-18"
+last_updated: "1988-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1695,9 +1695,9 @@ ART. 151.- Tratándose de vehículos de modelo anterior al año en curso, la bas
 
 Para vehículos cuyo modelo corresponda al año en curso, se tomará como base del impuesto el 90% del importe de la primera facturación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
-ART. 152.- Para los efectos de este impuesto, salvo prueba en contrario a satisfacción de las autoridades fiscales, se considerará efectuada la operación dentro del Estado, por el solo hecho de dar de alta un vehículo en territorio del mismo.
+ART. 152.- Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquier parte del territorio de la entidad.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
@@ -2851,9 +2851,11 @@ II.- Por la reposición de títulos 1.00
 
 ### CAPITULO VIII. Registro de Vehículos de Motor
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
-ART. 310.- Los propietarios o conductores de vehículos de motor que circulen en cualquier lugar del territorio del Estado de Sinaloa, causarán los derechos fiscales correspondientes, de conformidad con la siguiente:
+ART. 310.- Los propietarios y conductores de vehículos de motor que circulen en cualquier lugar del territorio del Estado de Sinaloa, causarán los derechos fiscales correspondientes, de conformidad con la siguiente:
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
 T A R I F A:
 
@@ -2863,7 +2865,7 @@ MINIMO GENERAL
 
 VIGENTE EN SINALOA
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanía, por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
 
@@ -2925,7 +2927,7 @@ los inciso (sic) a), b) y c) de esta
 
 fracción 1.30
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 II.- Por cada licencia para manejar, por dos años:
 
@@ -2934,6 +2936,8 @@ a).- Camiones y otros 1.50
 b).- Automóvil 1.30
 
 c).- Motocicleta 0.65
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 III.- Por expedición de nueva tarjeta
 
@@ -2945,9 +2949,13 @@ características del vehículo y
 
 cualquier otra causa 0.35
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 IV.- Por reposición de cada licencia
 
 para manejar 1.00
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 V.- Por cada examen o certificado
 
@@ -2957,6 +2965,8 @@ de licencia para justificar el estado
 
 del conductor cuando sea necesario 0.25
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 VI.- Por cada concesión o permiso
 
 de ruta o zona para camiones o
@@ -2965,17 +2975,23 @@ automóviles destinados al servicio
 
 público de pasaje y/o carga, de 7 a 50
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 VII.- Por cada concesión o permiso
 
 de ruta o zona para explotar el servicio
 
 exclusivo de turismo, de 7 a 50
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 VIII.- Por cada concesión o
 
 permiso de ruta o zona para
 
 el servicio de express, de 7 a 50
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 IX.- Por cada concesión o permiso
 
@@ -2989,6 +3005,8 @@ similares en los denominados
 
 "Pipas" o "Tanques", de 16 a 82
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 X.- Por cada traspaso o transmisión
 
 de concesión o permiso de ruta
@@ -2997,9 +3015,11 @@ a zona, cualquiera que sea la causa
 
 que la origine, de 16 a 82
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 En los casos a que se refieren las fracciones VI a X inclusive, la Sub-Secretaría de Ingresos determinará el monto del derecho correspondiente atendiendo a la importancia económica de la concesión.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 XI.- La revalidación anual de cada permiso de ruta o zona se pagará conforme a las siguientes cuotas:
 
@@ -3047,21 +3067,31 @@ mes de Febrero 2.30
 
 La revalidación anual será obligatoria a partir del 1 de Enero del año siguiente de aquél en que haya sido otorgada la concesión o permiso.
 
-XII.- Por el permiso anual para el transporte previsto en el Artículo 184 de la Ley de Tránsito y Transporte:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+XII.- Por el permiso anual por el transporte previsto en el Artículo 184 de la Ley de Tránsito y Transportes:
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 a).- Para educandos 1.30
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 b).- En vehículos denominados
 
 pipas y tanques 1.65
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 c).- En vehículos de empresas
 
 funerarias 1.65
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 d).- En vehículos dotadas de grúa 1.65
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 e).- Transporte de carga particular en vehículos diversos a los previstos en los incisos anteriores, por año:
 
@@ -3078,6 +3108,14 @@ e).- Transporte de carga particular en vehículos diversos a los previstos en lo
 capacidad que movilicen materiales
 
 de construcción 2.50
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+f).- Por realizar maniobras de carga
+
+y descarga en vía pública: 0.80
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 XIII.- Por permisos eventuales de servicio público, por día:
 
@@ -3101,6 +3139,8 @@ d).- Para vehículos de servicio
 
 exclusivo de turismo 0.20
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 XIV.- Para cada permiso para circular
 
 sin placas correspondiente a
@@ -3109,7 +3149,7 @@ vehículos de servicio particular o
 
 público, por día 0.15
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 XV.- Por cada permiso para
 
@@ -3118,6 +3158,8 @@ manejar sin licencia de conductor
 correspondiente a vehículos de
 
 servicio particular o público, por día 0.15
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 XVI.- Por cada constancia que
 
@@ -3129,13 +3171,19 @@ autoridades de Tránsito del Estado,
 
 por hoja 0.10
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 XVII.- Por expedición de baja
 
 de placas 0.50
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 XVIII.- Por cada placa de remolque,
 
 por seis años 2.65
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 XIX.- Por cada estudio
 
@@ -3147,6 +3195,8 @@ Transportes del Estado, se cobrará
 
 una cuota de 0.65 a 3.30
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 XX.- Por cada vehículo que se deposite en la pensión de Tránsito se cobrarán las siguientes cuotas, por día:
 
 a).- Camiones y Ómnibuses 0.05
@@ -3155,7 +3205,17 @@ b).- Automóviles y Pick-Ups 0.03
 
 c).- Motocicletas 0.02
 
-El trámite de cada uno de los conceptos a que se refiere este Artículo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes del estado, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El iincumplimiento (sic) a los plzos (sic) establecidos ocasionará una multa que será fijada por la Secretaría de Hacienda Pública y Tesorería.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+XXI.- Por el servicio de la grúa de tránsito se pagarán las siguientes cuotas:
+
+a).- Automóviles y camiones: 2.00
+
+b).- Camiones, autobuses y similares: 3.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El incumplimiento a los plazos establecidos ocasionará una multa equivalente a un tanto del derecho de que se trate, independientemente del pago de los recargos fiscales respectivos.
 
 ART. 311.- Para la aplicación de las multas por violaciones a la Ley General de Tránsito y Transportes del Estado, se atendrá a lo dispuesto por dicha Ley.
 
@@ -3561,169 +3621,59 @@ ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refie
 
 De los Permisos para Transportar Alcohol, Vinos y Licores y de los Permisos y Registros para el funcionamiento de Fábricas y Expendios de Bebidas Alcohólicas y de otras Bebidas
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
-ART. 324.- Los derechos por el otorgamiento de permisos o su revalidación, para transportar alcoholes, vinos y licores, para la elaboración y venta de bebidas embriagantes; por los permisos y registros para el funcionamiento de almacenes, depósitos y expendios de cerveza y de otras bebidas, incluyendo los servicios de inspección para constatar que se han cumplido o subsisten las condiciones exigidas por las disposiciones legales respectivas, se cobrarán conforme a la siguiente:
+ART. 324.- De los derechos por el otorgamiento de permisos, o su revalidación anual, incluyendo los servicios de inspección respectivos, para la elaboración, depósito expendio y transporte de alcohol y bebidas alcohólicas, se cobrarán de acuerdo con la siguiente:
 
 T A R I F A:
 
-CONCEPTO VECES EL SALARIO
+CLASE DE PERMISO VECES EL SALARIO
 
-MINIMO GENERAL
+MINIMO GENERAL DIARIO
 
 VIGENTE EN SINALOA
 
-I.- Por la licencia o permiso
+I.- Para la fabricación de
 
-para el transporte de alcohol,
+alcohol, bebidas alcohólicas
 
-bebidas alcohólicas y su
+y cerveza 2 00 a 400
 
-registro, de 2 a 16
+II.- Para el funcionamiento
 
-II.- Por la revalidación de
+de bodegas de alcohol, bebidas
 
-las licencias o permisos
+alcohólicas y cerveza sin
 
-para el transporte de alcohol,
+venta al público de: 100 a 200
 
-bebidas alcohólicas o su
+III.- Para expendios de alcohol, bebidas alcohólicas y cerveza:
 
-registro de 2 a 7
+a).- En botella cerrada de: 150 a 300
 
-III.- Por el permiso o licencia
+b).- En botella abierta o al
 
-para la elaboración de alcohol
+copeo, de: 200 a 450
 
-y bebidas embriagantes, de 50 a 115
+IV.- Para el transporte de
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+alcohol, bebidas alcohólicas y
 
-IV.- Por la revalidación anual de
+cerveza, por cada vehículo
 
-permisos o licencia para la
+autorizado, de: 5 a 25
 
-elaboración de alcohol y bebidas
+V.- Por el otorgamiento de
 
-embriagantes, de 40 a 230
+permiso eventual para la venta
 
-V.- Por el permiso o licencia para
+de bebidas alcohólicas y cerveza,
 
-el funcionamento (sic) de almacenes,
+por día, de: 10 a 75
 
-depósitos y expendios de alcohol
+Cuando la apertura del establecimiento tenga lugar dentro de los tres últimos meses del año, el permiso o licencia requeridos causará una cuota en proporción del 50 por ciento de la que corresponda conforme a la tarifa anterior, sin perjuicio de la obligación de revalidar dicho permiso dentro de los primeros tres meses del siguiente año y de cubrir la cuota de revalidación respectiva.
 
-y de bebidas embriagantes en botella
-
-cerrada, de 50 a 230
-
-VI.- Por la revalidación anual de
-
-permiso o licencia para el
-
-funcionamiento de almacenes,
-
-depósitos y expendios de alcohol y
-
-de bebidas embriagantes, de 40 a 230
-
-VII.- Por el permiso o licencia
-
-para el funcionamiento de expendios
-
-de bebidas embriagantes al copeo o
-
-en botella cerrada, de 50 a 246
-
-VIII.- Por la revalidación anual de
-
-permiso o licencia para el
-
-funcionamiento de expendios de
-
-bebidas embriagantes al copeo en
-
-botella cerrada, de 40 a 230
-
-IX.- Por el permiso o licencia para el
-
-funcionamiento de supermercados
-
-con venta de licores de 50 a 230
-
-X.- Por la revalidación anual de
-
-permiso o licencia para el
-
-funcionamiento de super mercados
-
-con venta de licores, de 50 a 230
-
-XI.- Por el permiso o licencia para
-
-el funcionamiento de restaurantes
-
-con venta de cerveza de 50 a 100
-
-XII.- Por la revalidación anual
-
-de permiso o licncia (sic) para el
-
-funcionamiento de restaurantes con
-
-venta de cerveza 53 a 164
-
-XIII.- Por el permiso o licencia para
-
-el funcionamiento de restaurantes
-
-con venta de vinos y licores, de 50 a 230
-
-XIV.- Por la revalidación anual de
-
-permiso o licencia para el
-
-funcionamiento de restaurantes con
-
-ventas de vinos y licores, de 50 a 230
-
-XV.- Por el registro de almacenes o
-
-depósitos de cerveza, de 43 a 164
-
-XVI.- Por la revalidación anual de
-
-registro de almacenes o depósitos
-
-de cerveza de 43 a 164
-
-XVII.- Por el permiso o licencia para
-
-el establecimiento de cerverías (sic)
-
-de 16 a 164
-
-XVIII.- Por la revalidación de
-
-licencia o permiso para el
-
-funcionamiento de cervecerías de 16 a 164
-
-XIX.- Por el otorgamiento de
-
-permisos eventuales para la
-
-celebración de eventos con venta
-
-de bebidas alcohólicas y
-
-embriagantes, por cada fecha, de 2 a 16
-
-Cuando la apertura de algunos de los establecimientos especificados en este artículo se produzca dentro de los tres últimos meses del año, el permiso o licencia y registro requeridos para la apertura causará una cuota en proporción del 50% de lo que corresponda conforme a las fracciones precedentes, sin perjuicio de la obligación de revalidación dentro de los primeros tres meses del siguiente año y de cubrir la cuota de revalidación respectiva.
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-La asignación de la cuota aplicable entre la mínima y la máxima, de la tarifa anterior, será hecha por la Secretaría de Hacienda Pública y Tesorería del Estado por conducto de la Sub-Secretaría de Ingresos.
+La cuota aplicable entre la mínima y la máxima de la tarifa anterior, será determinada por las autoridades fiscales tomando en cuenta la importancia del establecimiento y de la población, así como la ubicación del negocio.
 
 ART. 325.- La revalidación anual de los permisos, licencias y registros a que se refiere el artículo anterior, deberá efectuarse durante los meses de enero a marzo de cada año, en caso contrario, se pagará, además de los derechos correspondientes, una multa de un tanto del principal.
 
@@ -4405,6 +4355,16 @@ ART. 334 Bis D.- Los ingresos que se recauden por concepto de las cuotas y los d
 
 La parte de los ingresos que exceda el límite señalado en el párrafo anterior, no tendrá fin específico.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+### CAPITULO XIV. Inspección y Vigilancia de Obra Pública Directa
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+ART. 334 Bis E.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Controlaría General del Poder Ejecutivo y demás autoridades competentes del Estado, los contratistas con quienes se celebren los contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 3 por ciento sobre el importe de cada una de las estimaciones de trabajo.
+
+La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior.
+
 ### CAPITULO UNICO
 
 ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Finanzas del Estado.
@@ -4477,6 +4437,40 @@ ART. 363.- Cuando la caución se haya otorgado en forma de fianza o en cualquier
 
 ART. 364.- La devolución de los depósitos por cauciones, se harán en los casos previstos en el Artículo 399 del Código de Procedimientos Penales, dentro de los 60 días siguientes a la fecha en que se reciba la orden de devolución del Juez o Tribunal competente.
 
+### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
+
+ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
+
+Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
+
+ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
+
+ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
+
+ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
+
+ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
+
+ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
+
+I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
+
+II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
+
+III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
+
+IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
+
+V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+
+ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
@@ -4537,39 +4531,39 @@ MUNICIPIOS PORCENTAJE DE PARTICIPACION
 
 ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
 
-### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
+### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
 
-ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
+ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
 
-Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
+ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
 
-ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
+ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
 
-ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
+T A R I F A
 
-ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
+I.- Camarón $ 375.00 Tonelada
 
-ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
+II.- Otras Especies 100.00 "
 
-I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
+ART. 250.- El pago de este impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros 20 días del mes siguiente, en la Oficna (sic) Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
 
-II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
+ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
 
-III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
+ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
 
-IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
+I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
 
-V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
 
-ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
-ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO CUARTO. DE LOS PRODUCTOS
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
 
@@ -4651,39 +4645,41 @@ ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
 
-### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
+### CAPITULO XIX. Impuesto a la Industria Harinera
 
-ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
+ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+ART. 254.- Son sujetos del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales de transformación del trigo para obtener harina, independientemente de que el producto elaborado sea o nó de su propiedad. Este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
 
-ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
+ART. 255.- El impuesto se causará con una cuota de $ 31.00 por tonelada de harina producida.
 
-ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
+ART. 256.- El pago del impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
 
-T A R I F A
+Cuando un mismo causante opere más de una planta industrial harinera, las declaraciones y pagos correspondientes a cada período mensual se presentarán separadamente por cada una de las plantas.
 
-I.- Camarón $ 375.00 Tonelada
+ART. 257.- Además de lo dispuesto en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados a:
 
-II.- Otras Especies 100.00 "
+I.- Presentar avisos de iniciación de producción, dentro de los 5 días hábiles siguientes a la fecha de iniciación de cada ciclo productivo;
 
-ART. 250.- El pago de este impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros 20 días del mes siguiente, en la Oficna (sic) Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
+II.- Presentar aviso de terminación de producción dentro de los 5 días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
 
-ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
+III.- Presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo, dentro de los 5 días hábiles siguientes a su terminación, acompañado de una relación que muestre la fecha y número de los recibos con que se comprueba el pago del impuesto causado;
 
-ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
+IV.- Llevar registro de entradas, salidas y existencias de trigo y de producción, entradas, salidas, ventas y existencias de harina elaborada;
 
-I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
+V.- Proporcionar a las autoridades fiscales todos los datos, libros, documentos e informes que les soliciten;
 
-II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
+VI.- Recibir las visitas de inspección e investigación así como proporcionar a los Inspectores y Auditores los datos, libros, documentos e informes que les soliciten.
 
-III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
+Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Finanzas del Estado.
+
+ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
-ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+## TITULO SEXTO. DE LAS PARTICIPACIONES
 
 ### CAPITULO II. Adicional Municipal
 
@@ -4745,41 +4741,7 @@ ART. 378 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 378 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en las Fracciones II, III, IV, V, y XIII, del Artículo 371, de la Fracción II del Artículo 372, así como el Artículo 376, de este Capítulo.
 
-### CAPITULO XIX. Impuesto a la Industria Harinera
-
-ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
-
-ART. 254.- Son sujetos del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales de transformación del trigo para obtener harina, independientemente de que el producto elaborado sea o nó de su propiedad. Este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
-
-ART. 255.- El impuesto se causará con una cuota de $ 31.00 por tonelada de harina producida.
-
-ART. 256.- El pago del impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
-
-Cuando un mismo causante opere más de una planta industrial harinera, las declaraciones y pagos correspondientes a cada período mensual se presentarán separadamente por cada una de las plantas.
-
-ART. 257.- Además de lo dispuesto en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados a:
-
-I.- Presentar avisos de iniciación de producción, dentro de los 5 días hábiles siguientes a la fecha de iniciación de cada ciclo productivo;
-
-II.- Presentar aviso de terminación de producción dentro de los 5 días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
-
-III.- Presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo, dentro de los 5 días hábiles siguientes a su terminación, acompañado de una relación que muestre la fecha y número de los recibos con que se comprueba el pago del impuesto causado;
-
-IV.- Llevar registro de entradas, salidas y existencias de trigo y de producción, entradas, salidas, ventas y existencias de harina elaborada;
-
-V.- Proporcionar a las autoridades fiscales todos los datos, libros, documentos e informes que les soliciten;
-
-VI.- Recibir las visitas de inspección e investigación así como proporcionar a los Inspectores y Auditores los datos, libros, documentos e informes que les soliciten.
-
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Finanzas del Estado.
-
-ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO SEXTO. DE LAS PARTICIPACIONES
+## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO III. 21 y 22% Adicionales
 
@@ -4792,8 +4754,6 @@ ART. 381.- Sobre los impuestos adicionales a que se refiere este Capítulo no se
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
 ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los Artículos 379 y 380 de este Capítulo.
-
-## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO UNICO
 
@@ -4832,6 +4792,8 @@ I.- Ordenará visitas de inspección y auditorías, solicitará datos e informes
 II.- Ordenará diligencias de inspección permanente en los establecimientos en que esta medida sea necesaria para el control y vigilancia fiscales;
 
 III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones procedentes por las infracciones cometidas y determinará y recaudará los impuestos omitidos y, en caso de la comisión de delitos relacionados con la legislación fiscal, hará las consignaciones respectivas al Ministerio Público.
+
+## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ### CAPITULO UNICO
 
@@ -5155,7 +5117,7 @@ TITULO ONCEAVO
 
 DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
-## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -5175,13 +5137,13 @@ ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de
 
 ART. 404.- Los escritos y las promociones de los causantes no suspenderán el procedimiento económico-coactivo, sino en los casos en que el promovente asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
-ART. 405.- Los honorarios de los ejecutores notificadores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
+ART. 405.- Los honorarios de los ejecutores notificadores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, será a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-Los ejecutores notificadores recibirán a título de honorarios el 16% sobre el crédito fiscal notificado, sin que en ningún caso pueda exceder de $ 2,000.00, lo que por este concepto corresponda.
+Los ejecutores notificadores recibirán a título de honorarios el 16 por ciento sobre el crédito fiscal notificado sin que en ningún caso pueda exceder de una vez el salario mínimo general diario de la zona económica correspondiente al Estado de Sinaloa, lo que por este concepto corresponda.
 
-## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
+## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
 ### CAPITULO II. De la Suspensión del Procedimiento de Ejecución Fiscal
 
@@ -5204,8 +5166,6 @@ ART. 407.- La garantía del interés fiscal deberá comprender la de los posible
 ART. 408.- La Secretaría de Finanzas dictará los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación, como con posterioridad y, si no lo fueran, exigirá su ampliación.
 
 ART. 409.- La Secretaría de Finanzas podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorios la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
-
-## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
 ### CAPITULO III. Del Requerimiento de Pago
 
@@ -6058,3 +6018,9 @@ Publíquese en el Periódico Oficial "El Estado de Sinaloa".
 ###### ARTICULO SEGUNDO.
 
 Las presentes Reformas entrarán en vigor a partir del 15 de abril del presente año.
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
