@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-8989
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-06"
-last_updated: "2002-07-10"
+last_updated: "2004-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 6 de junio de 1996.
 
@@ -75,7 +75,9 @@ II.- La Procuraduría General de Justicia del Estado;
 
 III.- Las Agencias del Ministerio Público del Fuero Común;
 
-IV.- La Policía Judicial del Estado;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+IV.- La Policía Ministerial del Estado;
 
 V.- (DEROGADA, B.O. 27 DE NOVIEMBRE DE 1996)
 
@@ -131,7 +133,9 @@ V.- Los Agentes del Ministerio Píblico (sic) del Fuero Común;
 
 VI.- (DEROGADA, B.O. 27 DE NOVIEMBRE DE 1996)
 
-VII.- El Director de la Policía Judicial del Estado, Comandantes y sus Agentes en el Estado; y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+VII.- El Director de la Policía Ministerial del Estado, Comandantes y sus Agentes en el Estado; y
 
 VIII.- Los servidores públicos que tengan a su cargo los Centros de Prevención y Readaptación Social.
 
@@ -563,7 +567,7 @@ Los estímulos y reconocimientos para el personal de las corporaciones de polic�
 
 ## TITULO NOVENO. DEL REGIMEN DISCIPLINARIO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
 
 ###### ARTICULO 68.
 
@@ -605,7 +609,7 @@ La resolución que declare improcedente un cambio de adscripción, tendrá por o
 
 No procederá el recurso de revisión contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 63.
 
@@ -863,7 +867,7 @@ PRESIDENTE.
 
 DIP. LIC. MARIA JUANA HERNANDEZ PAULARENA.
 
-SECRETARIA .
+SECRETARIA.
 
 EN CUMPLIMIENTO A LO DISPUESTO PR LA FRACCION II DEL ARTICULO 79 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y PARA LA DEBIDA PUBLICACION Y OBSERVANCIA SE EXPIDE EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS SEIS DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
@@ -910,3 +914,7 @@ Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
