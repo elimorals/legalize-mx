@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1953-07-08"
+last_updated: "1953-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -139,6 +139,10 @@ P.O. 8 DE JULIO DE 1953.
 
 Las anteriores reformas y adiciones entrarán en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
+P.O. 8 DE OCTUBRE DE 1953.
+
+Único.- Este Decreto empezará a surtir sus efectos diez días después de su publicación en el Periódico Oficial del Estado.
+
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
 ### CAPITULO II. DE LOS CIUDADANOS DEL ESTADO
@@ -219,7 +223,7 @@ III. Por sentencia ejecutoriada que imponga como pena esa pérdida.
 
 ### CAPITULO I. DE LA ORGANIZACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1953)</small>
 
 ###### Artículo 11.
 
@@ -275,7 +279,7 @@ Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residir�
 
 ###### Artículo 18.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Este se compondrá de Diputados electos popularmente, uno para cada sesenta mil habitantes o fracción que pase de veinte mil. Si con esta proporción, no resultaren electos once Diputados por lo menos, la Ley Electoral dividirá al Estado en once circunscripciones de población igual, en lo posible, y cada una de ellos (sic) elegirá un Diputado.
+El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Éste se compondrá de Diputados electos popularmente, uno por cada noventa y cinco mil habitantes o fracción que pase de cincuenta mil, en cada Distrito Electoral. Si con esta proporción no resultaren electos once Diputados por lo menos, la Ley Electoral dividirá al Estado en once circunscripciones de población, igual en lo posible, y cada una de ellas elegirá un Diputado.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1947)</small>
 
