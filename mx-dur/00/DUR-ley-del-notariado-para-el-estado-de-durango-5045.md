@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1996-12-19"
+last_updated: "1998-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -243,13 +243,19 @@ El Protocolo estará formado por volúmenes compuestos por folios. Cada volumen 
 
 El Notario para asentar y autorizar las Escrituras y las Actas, utilizará las hojas por el anverso de cada folio, que tendrán las siguientes características:
 
-I.- Serán hojas de papel seguridad blanco con el sello de agua del Colegio de Notarios de la Entidad y perforados con el número secuencial que les corresponda;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1998)</small>
 
-II.- Llevarán impreso el nombre del Notario y el número de su Notaría;
+I.- Serán hojas de papel seguridad blanco y de fondo el emblema del Colegio de Notarios de esta Entidad e impreso el número secuencial que les corresponda;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1998)</small>
+
+II.- Llevarán impreso en su anverso el nombre y el número del Notario;
 
 III.- En caso de Notarios asociados se indicará esta circunstancia y el nombre y el número de los Notarios asociados, quienes actuarán en los términos de lo establecido en el Capítulo VI de la presente Ley;
 
-IV.- Los folios serán uniformes, de tamaño carta u oficio, a juicio de la Dirección General de Notarías, con el margen suficiente en su parte interna por donde se encuadernarán, separando dicho margen por una línea;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1998)</small>
+
+IV.- Los folios serán uniformes; a petición del Notario y aprobación de la Dirección General de Notarías, podrán ser de tamaño carta u oficio; tendrán un margen izquierdo de cinco centímetros de ancho que se utilizará para anotar la clasificación del acto, los nombres de las partes, así como otras anotaciones marginales, y un margen derecho de un centímetro de ancho para proteger lo escrito, uno y otro señalados con una línea impresa; la encuadernación de los folios se hará por el lado izquierdo de su anverso;
 
 V.- Cada folio llevará el sello de la Notaría, la rúbrica de las partes y del Notario; al final del instrumento firmarán todos nuevamente;
 
@@ -1292,3 +1298,7 @@ SEGUNDO.- Las disposiciones jurídicas que se opongan al presente, quedan sin ef
 P.O. 19 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
