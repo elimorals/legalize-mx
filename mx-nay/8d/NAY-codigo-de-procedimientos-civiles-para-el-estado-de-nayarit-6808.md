@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2000-12-09"
+last_updated: "2001-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2001.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3499,17 +3499,11 @@ La suspensión y la calificación de las excusas para ejercer la patria potestad
 
 ### CAPITULO XII. ADOPCION
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 509.
 
-El que pretenda adoptar, deberá acreditar los requisitos señalados por el artículo 382 del Código Civil.
-
-En la promoción inicial deberá manifestar el nombre y domicilio de quienes ejerzan sobre el adoptable la patria potestad o la tutela, o de las personas o institución pública que lo hayan acogido y acompañar certificado médico de buena salud. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
-
-Cuando el menor hubiere sido acogido por una institución pública, el adoptante recabará constancia del tiempo de exposición o abandono para los efectos de la pérdida de la patria potestad.
-
-Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
-
-Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante por el término de seis meses para los mismos efectos.
+El que pretenda adoptar, deberá acreditar haber tenido a su cuidado al menor o incapacitado, bajo la vigilancia de la Procuraduría de la Defensa del Menor y la Familia, quien deberá manifestar la conveniencia de la adopción; además de los requisitos señalados por el artículo 382 del Código Civil.
 
 ###### ARTICULO 510.
 
@@ -3522,6 +3516,14 @@ Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez l
 Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 389 del Código Civil, cuando fuere conocido su domicilio o en su caso, se oirá al Ministerio Público y al Consejo de Tutelas.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior pueden rendirse toda clase de pruebas permitidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 511 Bis.
+
+En caso de que quien ejerza la patria potestad sobre un menor, pretenda entregarlo al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o una institución de asistencia privada autorizada, para que sea dado en adopción, deberá comparecer ante el Juez de lo Familiar acreditando su parentesco.
+
+Recibida la solicitud, el Juez acordará la celebración de una audiencia, en donde se recibirá el consentimiento de la persona interesada, se escuchará al Ministerio Público y al Procurador de la Defensa del Menor y la Familia y si el representante legal de la Institución lo acepta, se decretará la pérdida de la patria potestad y se nombrará tutor al propio representante legal, quien deberá promover la adopción plena del menor.
 
 ### CAPITULO XIII. NULIDAD DEL MATRIMONIO
 
@@ -4756,3 +4758,9 @@ En la tramitación y resolución de las apelaciones pendientes al entrar en vigo
 ###### ARTICULO CUARTO.
 
 Con el objeto de evitar confusiones por el cambio en la numeración del articulado a que se refiere este decreto, deberá disponerse, a la brevedad, la reimpresión completa del Código de Procedimientos Civiles para el Estado de Nayarit.
+
+P.O. 22 DE DICIEMBRE DE 2001
+
+PRIMERO.- Se derogan todas aquellas disposiciones legales que contravengan el contenido de este Decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno de Nayarit.
