@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-instituto-de-asistencia-social-del-estado-2653
 country: "mx"
 rank: "ley_organica"
 publication_date: "1969-09-30"
-last_updated: "1969-09-30"
+last_updated: "1971-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 1º. DEL DECRETO No. 6 DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 1971, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de septiembre de 1969.
 
@@ -442,3 +444,11 @@ EL SECRETARIO GRAL. DE GOBIERNO.
 DR. FEDERICO MARTINEZ MANAUTOU.
 
 (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 1971.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+SEGUNDO.- Las situaciones jurídicas creadas bajo la vigencia de la Ley que se abroga, conservarán toda su validez.
