@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2004-02-11"
+last_updated: "2004-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -425,7 +425,7 @@ i) Promoción y organización de la sociedad para la planeación del desarrollo 
 
 j) Salud pública municipal; y
 
-k) Las demás que el Congreso del Estado determine según las condiciones territoriales, socioeconómicas y la capacidad administrativa y financiera de los municipios;
+k) Las demás que el Congreso del Estado determine según las condiciones territoriales, socioeconómicas y la capacidad administrativa y financiera de los municipios.
 
 XXVI. Acordar la integración de las Comisiones Municipales, de conformidad con la propuesta que al efecto formule el Presidente Municipal;
 
@@ -435,7 +435,9 @@ XXVIII. Participar, en términos de las disposiciones legales aplicables, en la 
 
 XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
-XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2004)</small>
+
+XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas.
 
 XXXI. Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento en esta materia y en la formulación de programas de desarrollo regional;
 
@@ -2330,3 +2332,7 @@ G.O. 11 DE FEBRERO DE 2004.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 30 DE JULIO DE 2004.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
