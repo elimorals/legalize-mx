@@ -4,7 +4,7 @@ identifier: "CMX-ley-reglamentaria-del-articulo-5-constitucional-relativo-al-388
 country: "mx"
 rank: "ley"
 publication_date: "1945-05-26"
-last_updated: "1945-05-26"
+last_updated: "1974-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=388&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1944-12-30"
 
 LEY REGLAMENTARIA DE LOS ARTICULOS 4o. y 5o. CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 1974.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 26 de mayo de 1945.
 
@@ -38,61 +38,27 @@ D E C R E T O :
 
 LEY REGLAMENTARIA DE LOS ARTICULOS 4o. y 5o. CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES
 
-### CAPITULO I. De las Profesiones Técnico Científicas que necesitan título para su ejercicio
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE ENERO DE 1974)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 ###### ARTICULO 1°.
 
-Se entiende por título profesional el documento expedido por una de las instituciones autorizadas y mediante los requisitos que se exigen en esta Ley y en las demás relativas, a favor de la persona que ha comprobado haber adquirido los conocimientos necesarios para ejercer una de las profesiones a que se refiere el artículo siguiente.
+Título profesional es el documento expedido por instituciones del Estado o descentralizadas, y por instituciones particulares que tengan reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios correspondientes o demostrado tener los conocimientos necesarios de conformidad con esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 ###### ARTICULO 2°.
 
-Las profesiones que necesitan título para su ejercicio son las siguientes:
+Las leyes que regulen campos de acción relacionados con alguna rama o especialidad profesional, determinarán cuáles son las actividades profesionales que necesitan título y cédula para su ejercicio.
 
-Actuario
-
-Arquitecto.
-
-Bacteriólogo.
-
-Biólogo.
-
-Cirujano dentista.
-
-Contador.
-
-Corredor.
-
-Enfermera.
-
-Enfermera y partera.
-
-Ingeniero en sus diversas ramas profesionales: agronomía, ingeniería civil, hidráulica, mecánica electricista, forestal, minera, municipal, sanitaria, petrolera, química y las demás ramas que comprenden los planes de estudios de la Universidad Autónoma de México y el Instituto Politécnico Nacional.
-
-Licenciado en Derecho.
-
-Licenciado en Economía.
-
-Marino en sus diversas ramas.
-
-Médico en sus diversas ramas profesionales.
-
-Médico veterinario.
-
-Metalúrgico.
-
-Notario.
-
-Piloto Aviador.
-
-Profesor de educación pre-escolar, primaria y secundaria.
-
-Químico en sus diversas ramas profesionales: farmacia (químico farmacéutico y químico farmacéutico biólogo, químico zimólogo, y químico bacteriólogo y parasitólogo).
-
-Trabajador social.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 ###### ARTICULO 3°.
 
-Igualmente, se exigirá el título para ejercer las profesiones que se consideren dentro de los planes de estudio de las escuelas superiores, técnicas o universitarias, oficiales, u oficialmente reconocidas como carreras completas. Estas profesiones serán determinadas por las leyes que expidan las autoridades competentes con relación a los planes de estudios de dichas escuelas.
+Toda persona a quien legalmente se le haya expedido título profesional o grado académico equivalente, podrá obtener cédula de ejercicio con efectos de patente, previo registro de dicho título o grado.
 
 ###### ARTICULO 4°.
 
@@ -112,43 +78,27 @@ Las disposiciones de esta Ley regirán en el Distrito y en los Territorios Feder
 
 ### CAPITULO II. Condiciones que deben llenarse para obtener un título profesional
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 8°.
 
-Para obtener un título profesional es requisito indispensable cursar y ser aprobado en los estudios de educación primaria, secundaria o prevocacionales y en su caso y de acuerdo con los planes y programas escolares, los estudios preparatorios o vocacionales, normales y profesionales en los grados y términos que establece la Ley Orgánica de la Educación Pública, la Ley Orgánica de la Universidad Autónoma de México y las demás leyes de educación superior vigentes.
+Para obtener título profesional es indispensable acreditar que se han cumplido los requisitos académicos previstos por las leyes aplicables.
 
-Los planes de estudios de los planteles profesionales, deberán comprender la forma como deberá prestarse el servicio social.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 ###### ARTICULO 9°.
 
-Las escuelas o instituciones dedicadas a la educación superior profesional, se organizarán sobre las siguientes bases generales:
-
-I.- Es requisito para el ingreso a las mismas, haber cursado íntegramente la educación vocacional o el bachillerato universitario, que corresponda a su función educativa específica;
-
-II.- Los planes de estudios, programas o métodos de enseñanza para las escuelas vocacionales y las profesionales, se formularán enlazádolos (sic) sistemática y progresivamente;
-
-III.- Proporcionarán a los educandos intesivamente (sic) los conocimientos científicos teóricos relacionados con su especialidad educativa correspondiente;
-
-IV.- Aplicarán las enseñanzas científicas teóricas a la práctica de la especialidad educativa correspondiente;
-
-V.- Instruirán a los educandos en sus deberes éticos y sociales y en sus deberes y derechos jurídicos relacionados con las actividades técnicas o profesionales de que se trate, interpretando éstas en un sentido de servicio social;
-
-VI.- Organizarán el servicio social, y
-
-VII.- Deberán poseer edificio escolar adecuado; disponer de eficaces medios auxiliares de enseñanza y experimentación; poseer un número de profesiones no menor del cincuenta por ciento de las diferentes materias que en ellas se enseñen y, por último, que los profesores disfruten por cada materia, de un salario no menor al mínimo.
+Para que pueda registrarse un título profesional expedido por institución que no forme parte del sistema educativo nacional será necesario que la Secretaría de Educación Pública revalide, en su caso, los estudios correspondientes y que el interesado acredite haber prestado el servicio social.
 
 ### CAPITULO III. Instituciones autorizadas que deben expedir los títulos profesionales
 
 #### SECCION I. Títulos expedidos en el Distrito Federal y Territorios Federales
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 10.
 
-Se reconocen como planteles de enseñanza preparatoria, normal y profesional de las profesiones enumeradas en el artículo 2° de esta ley:
-
-I.- Las escuelas y facultades e institutos dependientes de la Universidad Autónoma de México;
-
-II.- Las universidades, escuelas, el Politécnico Nacional y demás institutos profesionales dependientes del Gobierno Federal, y
-
-III.- Las universidades, escuelas e institutos que hayan obtenido u obtengan en el futuro, reconocimiento o autorización de la Secretaría de Educación Pública.
+Las instituciones que impartan educación profesional deberán cumplir los requisitos que señalen las leyes y disposiciones reglamentarias que las rijan.
 
 ###### ARTICULO 11.
 
@@ -160,17 +110,21 @@ Sólo las instituciones a que se refiere el artículo anterior están autorizada
 
 Los títulos profesionales expedidos por las autoridades de un Estado, serán registrados, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del artículo 121 de la Constitución.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 13.
 
-Para este efecto, la Dirección General de Profesiones, de acuerdo con la Ley Reglamentaria de los artículos 4° y 5° de la Constitución, en la entidad que corresponda, exigirá la comprobación de:
+El Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, podrá celebrar convenios de coordinación con los gobiernos de los estados para la unificación del registro profesional, de acuerdo con las siguientes bases:
 
-I.- La existencia del plantel;
+I.- Instituir un solo servicio para el registro de títulos profesionales;
 
-II.- La identidad del profesionista;
+II.- Reconocer para el ejercicio profesional en los estados, la cédula expedida por la Secretaría de Educación Pública y, consecuentemente, reconocer para el ejercicio profesional en el Distrito Federal y Territorios Federales las cédulas expedidas por los Estados;
 
-III.- Haber cursado y aprobado, el profesionista, los estudios primarios, secundarios, preparatorios o normales en su caso y profesionales, y
+III.- Establecer los requisitos necesarios para el reconocimiento de los títulos profesionales, así como los de forma y contenido que los mismos deberán satisfacer;
 
-IV.- En su caso haber sido aprobado en el examen profesional respectivo.
+IV.- Intercambiar la información que se requiera; y
+
+V.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
 
 ###### ARTICULO 14.
 
@@ -518,31 +472,43 @@ Se sancionará con multa de cincuenta pesos por primera vez y duplicándose en c
 
 La Dirección General de Profesiones, previa comprobación de la infracción, impondrá la multa de referencia sin perjuicio de las sanciones penales en que hubiere incurrido.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 65.
 
-Al profesionista que tenga título legalmente expedido pero que no lo haya registrado y ejerza la profesión que ampare, se le aplicará la primera vez una multa de diez pesos y en los casos sucesivos seguirá aumentando ésta sin que la multa que se imponga en el último caso pueda ser mayor de doscientos pesos. Cuando el profesionista sea insolvente, la sanción pecuniaria se conmutará por la de arresto que no podrá ser mayor de quince días.
+A la persona que desarrolle actividad profesional cuyo ejercicio requiera título, sin haber registrado éste, se le aplicará la primera vez una multa de quinientos pesos y en los casos sucesivos se aumentará ésta, sin que pueda ser mayor de cinco mil pesos.
 
-El requisito del registro no será obligatorio para el desempeño de aquellos puestos públicos respecto de los cuales no se exija tal condición en virtud de mandamiento constitucional.
-
-Las sanciones que este artículo señala, serán impuestas por la Dirección General de Profesiones, dependiente de la Secretaría de Educación Pública, oyendo siempre al infractor en los términos que dicha Dirección establezca.
+Las sanciones que este artículo señala serán impuestas por la Dirección General de Profesiones, dependiente de la Secretaría de Educación Pública, previa audiencia al infractor. Para la aplicación de las sanciones se tomarán en cuenta las circunstancias en que la infracción fue cometida, la gravedad de la misma y la condición del infractor.
 
 ###### ARTICULO 66.
 
 La violación del artículo 52 será sancionada con la cancelación de registro del Colegio de Profesionistas que la haya cometido, y con multa hasta de cincuenta pesos que se aplicará a cada uno de los miembros del Colegio, asistentes a la junta, en la que se haya contravenido la prohibición contenida en el citado precepto.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 67.
 
-La Dirección General de Profesiones sólo podrá cancelar el registro de los títulos en los siguientes casos:
+La Dirección General de Profesiones, a solicitud y previa audiencia de parte interesada, en sus respectivos casos cancelará las inscripciones de títulos profesionales, instituciones educativas, colegios de profesionistas o demás actos que deban registrarse, por las causas siguientes:
 
-a).- Cuando previo juicio se compruebe que el título no fué expedido con los requisitos que esta Ley establece, y
+I.- Error o falsedad en los documentos inscritos;
 
-b).- Por resolución judicial.
+II.- Expedición del título sin los requisitos que establece la ley;
+
+III.- Resolución de autoridad competente;
+
+IV.- Desaparición de la institución educativa facultada para expedir títulos profesionales o grados académicos equivalentes; revocación de la autorización o retiro de reconocimiento oficial de estudios. La cancelación no afectará la validez de los títulos o grados otorgados con anterioridad;
+
+V.- Disolución del colegio de profesionistas; y
+
+VI.- Las demás que establezcan las leyes o reglamentos.
+
+La cancelación del registro de un título o autorización para ejercer una profesión, producirá efectos de revocación de la cédula o de la autorización.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 ###### ARTICULO 68.
 
-Ninguna persona que ejerza actividad sin título profesional debidamente registrado o con título pero que carezca del requisito del registro, podrá cobrar honorarios de ninguna clase.
-
-Se exceptúan de lo prevenido en la parte final del párrafo anterior aquellas personas que pertenezcan al Poder Público, dentro del ejercicio de sus funciones.
+La persona que ejerza alguna profesión que requiera título para su ejercicio, sin la correspondiente cédula o autorización, no tendrá derecho a cobrar honorarios.
 
 ###### ARTICULO 69.
 
@@ -564,9 +530,11 @@ Tampoco se aplicará sanción a los dirigentes de los Sindicatos cuando ejercite
 
 Se exceptúan también de las sanciones que impone este capítulo a las demás personas exceptuadas por la Ley Federal del Trabajo de poseer título, no obstante ejerzan actividades de índole profesional, limitándose esta excepción exclusivamente a la materia de derecho industrial.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 73.
 
-Se concede acción pública para denunciar a los individuos que sin título legalmente expedido y debidamente registrado, ejerza cualquiera de las profesiones.
+Se concede acción popular para denunciar a quien, sin título o autorización legalmente expedidos, ejerza alguna de las profesiones que requieran título y cédula para su ejercicio.
 
 TRANSITORIOS:
 
@@ -677,3 +645,57 @@ Todos los plazos que se conceden en los anteriores artículos, se contarán a pa
 Miguel Moreno Padilla, D. P.- Eugenio Prado, S. P.- Eliseo Aragón Rebolledo, D. S.- Dionisio García Leal, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, a los treinta días del mes de diciembre de mil novecientos cuarenta y cuatro.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Miguel Alemán.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Estado y del Despacho de Salubridad y Asistencia, Gustavo Baz.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Javier Rojo Gómez.- Rúbrica.- El Oficial Mayor de Relaciones Exteriores, Encargado del Despacho, Pablo Campos Ortiz.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE ENERO DE 1974.
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes al de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- En tanto se expidan las leyes a que se refiere el artículo 2o. reformado, las profesiones que en sus diversas ramas necesitan título para su ejercicio son las siguientes:
+
+Actuario
+
+Arquitecto
+
+Bacteriólogo
+
+Biólogo
+
+Cirujano dentista
+
+Contador
+
+Corredor
+
+Enfermera
+
+Enfermera y partera
+
+Ingeniero
+
+Licenciado en Derecho
+
+Licenciado en Economía
+
+Marino
+
+Médico.
+
+Médico veterinario.
+
+Metalúrgico.
+
+Notario.
+
+Piloto aviador.
+
+Profesor de educación preescolar.
+
+Profesor de educación primaria.
+
+Profesor de educación secundaria.
+
+Químico.
+
+Trabajador social.
