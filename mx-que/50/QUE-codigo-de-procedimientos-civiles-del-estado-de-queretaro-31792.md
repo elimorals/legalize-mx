@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1996-11-14"
+last_updated: "1997-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -4405,9 +4405,11 @@ Otorgada la garantía por el ejecutante, la parte contraria puede evitar la ejec
 
 La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 722.
 
-Las sentencias definitivas son apelables cuando recaigan en negocios cuyo valor exceda de sesenta días de salario mínimo general y en aquellos cuyo interés no sea susceptible de valuarse en dinero. En estos casos la apelación se admitirá en ambos efectos, salvo cuando la ley expresamente determine que lo sean sólo en efecto devolutivo.
+Las sentencias definitivas son apelables cuando recaigan en negocios cuyo valor exceda de 300 días de salario mínimo general y en aquellos cuyo interés no sea susceptible de calcularse en dinero. En estos casos la relación se admitirá en ambos efectos, salvo cuando la ley expresamente determine que lo sea sólo en efecto devolutivo.
 
 Las sentencias interlocutorias y los autos, solo son apelables cuando lo sea la sentencia definitiva del juicio en que se dicten, debiendo los segundos tener fuerza de definitivos o disponerlo este código. La apelación contra estas resoluciones procede solo en efecto devolutivo; para que proceda en ambos, se requiere disposición especial de la Ley.
 
@@ -6013,9 +6015,11 @@ Titulo especial
 
 De los juicios ante los jueces municipales.
 
-###### Artículo 1.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 1997)</small>
 
-Se tramitaran y fallaran ante los jueces municipales todos los negocios civiles cuya cuantía no exceda de sesenta días de salario mínimo.
+###### Articulo 1.
+
+Se tramitaran y fallaran ante los jueces municipales todos los negocios civiles cuya cuantía no exceda de 300 días de salario mínimo vigente en el Estado.
 
 ###### Artículo 2.
 
@@ -6412,3 +6416,13 @@ La presente Ley se publicará en el Periódico Oficial "La Sombra de Arteaga", y
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente, quedan suspendidas mientras dura la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 20 DE MARZO DE 1997
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial de Gobierno del Estado "La sombra de Arteaga".
