@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-beneficencia-para-el-estado-de-baja-342
 country: "mx"
 rank: "reglamento"
 publication_date: "1955-01-31"
-last_updated: "1955-01-31"
+last_updated: "1980-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1980.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 31 de enero de 1955.
 
@@ -125,13 +125,17 @@ Cuando haya pérdidas durante el ejercicio, se amortizarán hasta donde alcancen
 
 ### CAPITULO CUARTO. Organización del Patronato
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1980)</small>
+
 ###### Artículo 10o.
 
-El Patronato de la Asistencia Pública en el Estado de Baja California se formará por cinco miembros propietarios y por cinco suplentes designados por el Gobernador del Estado, que deberán reunir los requisitos señalados en el artículo 4o. de la Ley.
+El Patronato de la Asistencia Pública en el Estado de Baja California se formará por diez Miembros Propietarios y por diez Suplentes designados por el Gobernador del Estado, que deberán reunir los requisitos señalados en el Artículo 4o. de la Ley.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1980)</small>
 
 ###### Artículo 11o.
 
-Los Patronos Propietarios seleccionarán entre ellos mismos a los que desempeñarán los siguientes cargos: Patrono Presidente; Patrono Supervisor; Patrono Tesorero; Patrono Primer Vocal; y Patrono Segundo Vocal. Los Patronos Suplentes sustituirán a los Propietarios en las faltas temporales de éstos.
+Los Patronos Propietarios seleccionarán entre ellos mismos a los que desempeñarán los siguientes cargos: Patrono Presidente; Patrono Supervisor; Patrono Tesorero; Patrono Primer Vocal; Patrono Segundo Vocal; Patrono Tercer Vocal; Patrono Cuarto Vocal; Patrono Quinto Vocal; Patrono Sexto Vocal; Patrono Septimo Vocal. Los Patronos Suplentes sustituirán a los Propietarios en las faltas temporales de éstos.
 
 ###### Artículo 12o.
 
@@ -406,3 +410,9 @@ El Srio. Gral. de Gobierno,
 Lic. Rafael Moreno Enriquez.
 
 (Rubrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE AGOSTO DE 1980.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
