@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2000-01-05"
+last_updated: "2000-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DEL 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -79,7 +79,7 @@ Las fianzas y los contratos, que en relación con ellas otorguen o celebren las 
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 2o. Bis.
+###### ARTICULO 2º. Bis.
 
 Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de ocho meses para que las autoridades administrativas resuelvan lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
 
@@ -2097,13 +2097,19 @@ Las fianzas que las instituciones otorguen a favor de la Federación, del Distri
 
 I.- Las instituciones de fianzas estarán obligadas a enviar según sea el caso, a la Tesorería de la Federación, a la Tesorería el Departamento del Distrito Federal, o bien a las autoridades estatales o municipales que correspondan, una copia de todas las pólizas de fianzas que expidan a su favor;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-II.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, con domicilio en el Distrito Federal o bien en alguna de las entidades federativas, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada deberá comunicarlo a la autoridad ejecutora más próxima a la ubicación donde se encuentren instaladas las oficinas principales, sucursales, oficinas de servicio o bien a la del domicilio del apoderado designado por la institución fiadora para recibir requerimientos de pago, correspondientes a cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación.
+II.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, con domicilio en el Distrito Federal o bien en alguna de las entidades federativas, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada deberá comunicarlo a la autoridad ejecutora más próxima a la ubicación donde se encuentren instaladas las oficinas principales, sucursales, oficinas de servicio o bien a la del domicilio del apoderado designado por la institución fiadora para recibir requerimientos de pago, correspondientes a cada una de las regiones competencia de las Salas Regionales del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 La autoridad ejecutora facultada para ello en los términos de las disposiciones que le resulten aplicables, procederá a requerir de pago, en forma personal, o bien por correo certificado con acuse de recibo, a la institución fiadora, de manera motivada y fundada, acompañando los documentos que justifiquen la exigibilidad de la obligación garantizada por la fianza, en los establecimientos o en el domicilio del apoderado designado, en los términos a que se hace cita en el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 Tratándose del Distrito Federal, de los Estados y de los Municipios, el requerimiento de pago, lo llevarán a cabo en los términos anteriores, las autoridades ejecutoras correspondientes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de fianzas, ni los efectuados por autoridades distintas de las ejecutoras facultadas para ello;
 
@@ -2115,9 +2121,9 @@ III.- En el mismo requerimiento de pago se apercibirá a la institución fiadora
 
 IV.- Dentro del plazo de treinta días naturales señalado en el requerimiento, la institución de fianzas deberá comprobar, ante la autoridad ejecutora correspondiente, que hizo el pago o que cumplió con el requisito de la fracción V. En caso contrario, al día siguiente de vencido dicho plazo, la autoridad ejecutora de que se trate, solicitará a la Comisión Nacional de Seguros y Fianzas se rematen en bolsa, valores propiedad de la institución, bastantes para cubrir el importe de lo reclamado;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-V.- En caso de inconformidad contra el requerimiento de pago, la institución de fianzas dentro del plazo de 30 días naturales, señalado en la fracción III de este artículo, demandará la improcedencia del cobro ante la Sala Regional del Tribunal Fiscal de la Federación de la jurisdicción que corresponda a la ubicación de los establecimientos o la del apoderado designado, a que se hace cita en la fracción II, primer párrafo de este artículo, donde se hubiere formulado el citado requerimiento, debiendo la autoridad ejecutora, suspender el procedimiento de ejecución cuando se compruebe que se ha presentado oportunamente la demanda respectiva, exhibiéndose al efecto copia sellada de la misma;
+V.- En caso de inconformidad contra el requerimiento de pago, la institución de fianzas dentro del plazo de 30 días naturales, señalado en la fracción III de este artículo, demandará la improcedencia del cobro ante la Sala Regional del Tribunal Federal de Justicia Fiscal y Administrativa de la jurisdicción que corresponda a la ubicación de los establecimientos o la del apoderado designado, a que se hace cita en la fracción II, primer párrafo de este artículo, donde se hubiere formulado el citado requerimiento, debiendo la autoridad ejecutora, suspender el procedimiento de ejecución cuando se compruebe que se ha presentado oportunamente la demanda respectiva, exhibiéndose al efecto copia sellada de la misma;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2127,7 +2133,9 @@ a).- Por pago voluntario;
 
 b).- Por haberse hecho efectivo el cobro en ejecución forzosa;
 
-c).- Por sentencia firme del Tribunal Fiscal de la Federación, que declare la improcedencia del cobro;
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+c).- Por sentencia firme del Tribunal Federal de Justicia Fiscal y Administrativa, que declare la improcedencia del cobro;
 
 d).- Porque la autoridad que hubiere hecho el requerimiento se desistiere del cobro.
 
@@ -2335,7 +2343,7 @@ IX.- Cuando por causas imputables a la institución no aparezca debida y oportun
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-X.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional de Seguros y Fianzas, en los casos en que la ley exija ese consentimiento;
+X.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional de Seguros y Fianzas, en los casos en que la ley exija ese consentimiento:
 
 > <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
@@ -3397,7 +3405,7 @@ UNICA.- Los procedimientos de ejecución de fianzas otorgadas a favor de la Fede
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrará en vigor el 30 de junio de 1988.
+El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrará en vigor el 30 de junio de 1988.|
 
 D.O.F. 1 DE FEBRERO DE 1988.
 
@@ -3612,3 +3620,11 @@ TERCERO.- Todos aquellos procedimientos en que intervenga la Comisión Nacional 
 CUARTO.- Las Instituciones Financieras deberán constituir las Unidades Especializadas a que se refiere el artículo 50 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
 
 QUINTO.- La Comisión Nacional contará con un plazo de 120 días hábiles para la expedición y publicación en el Diario Oficial de la Federación, a que hace referencia el primer párrafo del artículo 72 Bis.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+...
