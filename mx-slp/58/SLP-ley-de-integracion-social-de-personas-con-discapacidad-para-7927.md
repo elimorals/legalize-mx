@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-integracion-social-de-personas-con-discapacidad-para-792
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-04"
-last_updated: "1995-12-04"
+last_updated: "1997-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1997.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 4 de diciembre de 1995.
 
@@ -43,9 +43,11 @@ LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE SAN LUI
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de orden público y de interés general. Tiene por objeto establecer y regular las medidas tendientes a lograr la completa realización personal y total integración social de las personas con discapacidad, así como fijar las bases para que la colectividad favorezca su incorporación a las diferentes actividades.
+La presente ley es reglamentaria del Artículo 12 de la Constitución Política del Estado en lo referente a las personas con discapacidad. Es de orden público e interés social y tiene por objeto establecer y regular las medidas tendientes a lograr la completa realización personal y total integración social de las personas con discapacidad, así como fijar las bases para que la colectividad favorezca su incorporación a las diferentes actividades.
 
 ###### ARTICULO 2o.
 
@@ -81,7 +83,9 @@ II.- Educación regular y especial: Intervención temprana, preescolar, escolar,
 
 III.- Recuperación laboral: Evaluación, orientación, capacitación y canalización al mercado de trabajo;
 
-IV.- Asistencia Social: Apoyos especiales a personas con discapacidad de escasos recursos económicos;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1997)</small>
+
+IV.- Asistencia Social: Apoyos especiales a personas con discapacidad de escasos recursos económicos y apoyo completo en materia de alimentación y salud a las personas con discapacidad en estado de abandono;
 
 V.- Vialidad: Acciones para evitar barreras arquitectónicas en la infraestructura urbana y tránsito vehicular y todo aquello que en su momento se considere necesario para el libre desplazamiento de las personas con discapacidad;
 
@@ -141,7 +145,11 @@ VIII.- Promover el establecimiento de centros y servicios de rehabilitación som
 
 IX.- Validar los diagnósticos de la discapacidad que fueron efectuados por alguna institución pública, privada o médico particular; y
 
-X.- Las demás que le señale esta ley y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 1997)</small>
+
+X.- Declarar, previos los estudios de valoración socioeconómica y familiar a que haya lugar, cuando una persona con discapacidad se encuentra en estado de abandono, para efecto de lo señalado en el párrafo tercero del Artículo 12 de la Constitución Política del Estado y en la Ley de Asistencia Social vigente en la Entidad;
+
+XI.- Las demás que le señale esta ley y otras disposiciones legales.
 
 ### CAPITULO SEGUNDO. De la Prestación de Servicios a Personas con Discapacidad
 
@@ -173,7 +181,9 @@ VIII.- Otros, que de conformidad con la presente ley establezcan las autoridades
 
 Los servicios a que se refiere el artículo anterior se regirán por los criterios siguientes:
 
-I.- Todas las personas con discapacidad tienen derecho a los servicios establecidos en la presente ley, los que se brindarán con carácter oneroso a las personas con discapacidad que puedan costearlo. A los que se consideren sujetos de asistencia social, la Dirección de Integración Social de Personas con Discapacidad, deberá otorgárselos sin costo alguno o aportando parte del costo, según sea el caso;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1997)</small>
+
+I.- Todas las personas con discapacidad tienen derecho a los servicios establecidos en la presente ley, los que se brindarán con carácter oneroso a las personas con discapacidad que puedan costearlos. A los que se consideren sujetos de asistencia social, la Dirección de Integración Social de Personas con Discapacidad, deberá concedérselos sin costo alguno o aportando parte del costo según sea el caso; a las personas con discapacidad en estado de abandono, deberá otorgárseles en todos los casos sin costo alguno;
 
 II.- Los servicios podrán ser prestados tanto por las administraciones públicas como por instituciones y personas jurídicas privadas, sin ánimo de lucro;
 
@@ -187,9 +197,11 @@ V.- Se procurará, hasta el límite que imponga los distintos tipos de discapaci
 
 La información deberá ser accesible a los diferentes grupos de personas con discapacidad y contener datos a cerca de los servicios y las prestaciones a que tienen derecho, así como sobre las condiciones de acceso a las mismas.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 15.
 
-Los servicios de albergue y centros comunitarios tendrán como objetivo atender las necesidades básicas de aquellas personas con discapacidad, carentes de hogar y familia o con graves problemas de integración familiar. Si es indispensable su permanencia en un establecimiento especializado, el medio y las condiciones de vida en él, deberán asemejarse lo más posible a los de la vida normal de las personas de su edad.
+Los servicios de albergue y centros comunitarios tendrán como objetivo atender las necesidades básicas de aquéllas personas con discapacidad, en estado de abandono, carentes de hogar y familia, o con graves problemas de integración familiar. Si es indispensable su permanencia en un establecimiento especializado, el medio y las condiciones de vida en él, deberán asemejarse lo más posible a las de la vida normal de las personas de su edad.
 
 ###### ARTICULO 16.
 
@@ -730,3 +742,11 @@ El Secretario General de Gobierno
 JUAN JOSE RODRIGUEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ABRIL DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
