@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-762
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-21"
-last_updated: "1997-01-22"
+last_updated: "1999-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de octubre de 1992.
 
@@ -83,9 +83,11 @@ III.- Mayor de veinticinco años; y
 
 IV.- De moralidad y vida familiar intachable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 5.
 
-Son atribuciones de la Procuraduría de la Defensa del Menor y la Familia y de los Delegados Distritales las siguientes:
+Son atribuciones de la Procuraduría de la Defensa del Menor y la Familia las siguientes:
 
 I.- Gestionar el mejoramiento y subsistencia adecuada y el desarrollo físico e integral del menor y la familia;
 
@@ -97,7 +99,9 @@ IV.- Auxiliar a las Autoridades para que los menores infractores sean internados
 
 V.- Visitar las Dependencias del Sistema para el Desarrollo Integral de la Familia en Nuevo León, con el propósito de cerciorarse que los menores y las familias reciban los cuidados y las atenciones necesarias para la satisfacción de sus necesidades;
 
-VI.- Tramitar los procedimientos de adopción y de tutela que por conducto del Sistema para el Desarrollo Integral de la Familia se inicien;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
+VI.- Coadyuvar con el Ministerio Público que promueva los Juicios Especiales de Pérdida de la Patria Potestad. Asesorar en lo jurídico a los promoventes de los procedimientos de adopción y tutela que así lo soliciten;
 
 VII.- Velar porque los menores maltratados o abandonados obtengan un hogar definitivo y seguro;
 
@@ -111,9 +115,9 @@ X.- Organizar campañas tendientes a la prevención y erradicación del consumo 
 
 XI.- Girar citatorios, publicar pesquisas, edictos y realizar las gestiones necesarias para constatar el abandono de menores o localizar a los familiares de los menores abandonados;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
-XII.- Levantar el acta correspondiente para dar fe del abandono de menores, firmándola con la asistencia de dos testigos;
+XII.- Levantar el acta circunstanciada en la que se dé fe del abandono o exposición de menores, firmándola con asistencia de dos testigos y determinando en ella lo relativo a la custodia de los menores en la institución pública o privada correspondiente;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
 
@@ -127,9 +131,9 @@ XIV.- Determinar el egreso de menores internados en instituciones públicas o pr
 
 XV.- Determinar provisionalmente la custodia de los menores sujetos a asistencia social, entendiéndose por éstos los que se encuentran en estado de abandono, desamparo, desnutrición o sujetos a maltrato; dejándose a salvo los derechos de los interesados e iniciando el procedimiento o trámite ante la autoridad que corresponda;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
-XVI.- Solicitar al Ministerio Público el ejercicio de las acciones legales necesarias para la protección del menor;
+XVI.- Solicitar al Ministerio Público el ejercicio de las acciones legales necesarias para la protección del menor o sus bienes, así como darle aviso de los casos de menores expósitos o abandonados;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
 
@@ -145,7 +149,19 @@ XIX.- Determinar la presentación de los involucrados en los asuntos de su compe
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
 
-XX.- Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio que establece esta ley.
+XX.- Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio que establece esta ley;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
+XXI.- Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de nacimiento de menores abandonados o expósitos; y
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
+XXII.- Las demás que le confieran las leyes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Estas atribuciones podrán ser delegadas en sus subalternos, mediante acuerdo del Procurador de la Defensa del Menor y la Familia.
 
 ###### ARTICULO 6.
 
@@ -290,3 +306,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
+
+P.O. 10 DE FEBRERO DE 1999.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
