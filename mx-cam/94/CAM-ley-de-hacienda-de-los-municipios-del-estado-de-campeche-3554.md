@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1995-03-11"
+last_updated: "1995-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -80,6 +80,10 @@ Las infracciones a la presente Ley, serán sancionadas de conformidad con lo pre
 ###### ARTICULO 7.
 
 Las obligaciones de los sujetos de las contribuciones de esta Ley de Hacienda, se regirán de conformidad con lo previsto por el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Las personas físicas o morales, que de conformidad con esta Ley sean contribuyentes o no, que tengan actividades comerciales, industriales, o mantengan bodegas, arrendamientos o cualquier otro giro no especificado o de prestación de servicios, sea en locales o establecimientos o como ambulantes o en puestos fijos o semi-fijos, tendrán la obligación de obtener la Licencia de Funcionamiento Municipal expedida por la Tesorería Municipal, para lo cual deberán solicitarla en un plazo de 10 días, contados a partir de la fecha de su apertura o inicio de operaciones o actividades, así como también tienen la obligación de presentar dicha licencia para su modificación, en el caso de cambio de giro, o domicilio, así como en el caso de traspaso o baja. También tienen la obligación de solicitar su refrendo durante el mes de Enero de cada año.
 
 ###### ARTICULO 8.
 
@@ -155,6 +159,10 @@ V.- Los poseedores de bienes vacantes, mientras los detenten; y
 
 VI.- Los usufructuarios.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+VII.- Los posesionarios de predios ejidales en los que el uso de suelo sea de carácter urbano o bien se encuentren dentro de los previstos para el programa de regularización de tenencia de la tierra.
+
 ###### ARTICULO 20.
 
 Son solidariamente responsables del pago del impuesto predial:
@@ -169,7 +177,7 @@ IV.- Los funcionarios, notarios y empleados públicos que autoricen algún acto 
 
 ###### ARTICULO 21.
 
-La base de este impuesto será el valor catastral de los predios, determinado de acuerdo con el capítulo tercero de la Ley de Catastro del Estado de Campeche, en vigor.
+La base de este impuesto será el valor catastral de los predios, determinado de acuerdo con lo que establece el Título Segundo, Capítulo Tercero de la Ley de Catastro del Estado de Campeche, en vigor.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -230,6 +238,8 @@ La cuota de este impuesto será anual y su pago deberá hacerse por bimestres ad
 El monto del impuesto predial anual mínimo en los predios urbanos y rústicos no será inferior a dos salarios mínimos diarios prevalecientes en el Municipio.
 
 #### SECCION TERCERA. DE LA BASE
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 25.
 
@@ -469,7 +479,11 @@ Cuando los sujetos de este impuesto operen con agrupaciones profesionales, asoci
 
 Los contribuyentes de este impuesto que a continuación se indican, cubrirán el equivalente al 2% sobre el monto mensual de sus percepciones, de no poder determinarse éstas, pagarán de acuerdo a la siguiente:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 T A R I F A
+
+Salarios Mínimos Generales Diarios Vigentes
 
 SERVICIOS
 
@@ -477,11 +491,11 @@ GRUPO 1 GRUPO 2 GRUPO 3
 
 I.- MEDICOS
 
-N$ 70.00 a N$ 150.00 N$ 70.00 a N$ 150.00 N$ 15.00 a N$ 45.00
+5.07 a 10.87 5.07 a 10.87 1.08 a 3.26
 
 II.- DENTISTAS
 
-N$ 70.00 a N$ 150.00 N$ 70.00 a N$ 150.00 N$ 15.00 a N$ 35.00
+5.07 a 10.87 5.07 a 10.87 1.08 a 2.53
 
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE HONORARIOS POR SERVICIOS MEDICOS PROFESIONALES
 
@@ -717,6 +731,8 @@ Los encargados del Registro Público de la Propiedad no inscribirán ningún act
 
 #### SECCION PRIMERA. POR SERVICIOS DE TRANSITO
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 67.
 
 El arrendador de inmuebles tiene la obligación de presentar sus contratos de arrendamiento por triplicado a la Tesorería Municipal para su registro dentro del plazo de quince días contados a partir de la fecha en que se celebren.
@@ -729,91 +745,57 @@ Para los efectos de esta Ley se entiende por servicio público, la actividad des
 
 ###### ARTICULO 69.
 
-Los derechos por servicios que prestan las autoridades de tránsito del Municipio, se pagarán en la Tesorería Municipal correspondiente de acuerdo a las siguientes:
+Los derechos por servicios que prestan las autoridades de tránsito de los Municipios se pagarán en la Tesorería Municipal, y se causarán al equivalente al número de veces el salario mínimo general diario vigente en el Estado conforme a la siguiente:
 
-C U O T A S
+T A R I F A
 
-G R U P O S 1 2 3
+GRUPOS 1 2 3
 
 I.- Por juego de placas de circulación, incluyendo calcomanía y tarjeta de circulación del año:
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+A.- Para automóviles de servicio particular 6.31
 
-A.- Para automóviles de servicio particular N$ 87.00
+B.- Para automóviles de alquiler de servicio público local 7.61
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+C.- Para vehículo de carga de servicio particular con capacidad hasta de cinco toneladas 8.05
 
-B.- Para automóviles de alquiler de servicio público local N$ 105.00
+D.- Para vehículo de carga de servicio particular con capacidad superior a cinco toneladas 8.48
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+E.- Para vehículo de carga de servicio público local con capacidad hasta de cinco toneladas 8.92
 
-C.- Para vehículo de carga de servicio particular con capacidad hasta de cinco toneladas N$ 111.00
+F.- Para vehículo de carga de servicio público local con capacidad superior a cinco toneladas 9.35
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+G.- Para camión de pasajeros de servicio público local 6.31
 
-D.- Para vehículo de carga de servicio particular con capacidad superior a cinco toneladas N$ 117.00
+H.- Para demostración y para vehículos propiedad de empresas arrendadoras 17.04
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+I.- Para motocicletas o motonetas 2.00
 
-E.- Para vehículo de carga de servicio público local con capacidad hasta de cinco toneladas N$ 123.00
+J.- Para bicicletas 1.00
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+K.- Para vehículo de tracción animal 1.00
 
-F.- Para vehículo de carga de servicio público local con capacidad superior a cinco toneladas N$ 129.00
+L.- Para carros y carretillas de mano 1.00
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-G.- Para camión de pasajeros de servicio público local N$ 87.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-H.- Para demostración y para vehículos propiedad de empresas arrendadoras N$ 235.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-I.- Para motocicletas o motonetas N$ 11.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-J.- Para bicicletas N$ 5.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-K.- Para vehículo de tracción animal N$ 5.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-L.- Para carros y carretillas de mano N$ 5.00
-
-M.- Por reposición de placas se cubrirá la misma cuota que corresponda de acuerdo con los subincisos que anteceden. Si es por extravío o robo, deberá comprobarse haber denunciado previamente el hecho ante la autoridad competente;
+M.- Por reposición de placas se cubrirá la misma cuota que corresponda de acuerdo con los subincisos que anteceden. Si es por extravío o robo, deberá comprobarse haber denunciado, previamente el hecho ante la autoridad competente.
 
 II.- Por otros servicios de tránsito:
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-A.- Permisos para que transiten vehículos sin placas hasta por quince días N$ 23.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+A.- Permisos para que transiten vehículos sin placas hasta por quince días 1.67
 
 B.- Por expedición de licencias para conducir:
 
-a).- Para automovilistas N$ 35.00
+a).- Para automovilistas 2.54
 
-b).- Para chofer N$ 50.00
+b).- Para chofer 3.63
 
-c).- Para motociclistas N$ 23.00
+c).- Para motociclistas 1.67
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+C.- Permiso para práctica de manejo sin licencia, hasta por quince días 1.67
 
-C.- Permiso para práctica de manejo sin licencia, hasta por quince días N$ 23.00
+D.- Por la reposición de tarjeta de circulación 0.51
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-D.- Por la reposición de tarjeta de circulación N$ 7.00
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-E.- Por refrendo anual de placas, que incluye calcomanía y tarjeta de circulación N$ 28.00
+E.- Por refrendo anual de placas, que incluye calcomanía y tarjeta de circulación 2.03
 
 III.- El pago de las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto. El plazo para el refrendo anual a que se refiere el inciso E, de la fracción II, deberá realizarse durante el primer trimestre del año; la expedición de placas de los vehículos a que se refieren los incisos I, J, K y L, de la fracción I, dentro de los primeros cuatro meses del año. En los demás casos dentro de los quince días siguientes a la adquisición del vehículo.
 
@@ -923,9 +905,11 @@ Los propietarios, poseedores o inquilinos de los predios urbanos con frente a la
 
 Los propietarios o arrendatarios de predios donde estén establecidos comercios o industrias podrán celebrar convenios con el Municipio para que el departamento designado al respecto efectúe servicios particulares de recolección de desechos sólidos, generados en los citados establecimientos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 80.
 
-Los servicios de aseo y limpia por recolección de basura, deberán pagarse cada mes en la Tesorería Municipal correspondiente, de acuerdo a la siguiente:
+Los servicios de aseo y limpia por recolección de basura, deberán pagarse cada mes en la Tesorería Municipal correspondiente, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, de acuerdo con la siguiente:
 
 T A R I F A
 
@@ -937,67 +921,49 @@ I.- Domiciliario por mes:
 
 A.- Residencial
 
-N$ 16.00 a N$ 16.00 a N$ 8.00 a
-
-N$ 20.00 N$ 20.00 N$ 10.00
+1.16 a 1.45 1.16 a 1.45 0.58 a 0.72
 
 B.- Media
 
-N$ 12.00 a N$ 12.00 a N$ 6.00 a
-
-N$ 15.00 N$ 15.00 N$ 7.50
+0.87 a 1.08 0.87 a 1.08 0.43 a 0.54
 
 C.- Popular e interés social
 
-N$ 6.00 a N$ 6.00 a N$ 3.00 a
-
-N$ 8.00 N$ 8.00 N$ 4.00
+0.43 a 0.58 0.43 a 0.58 0.21 a 1.29
 
 D.- Precaria
 
-N$ 3.00 a N$ 3.00 a N$ 1.50 a
-
-N$ 5.00 N$ 5.00 N$ 2.50
-
-> <small>(REFORMADA P.O. 19 DE DICIEMBRE DE 1994)</small>
+0.21 a 0.36 0.21 a 0.36 0.10 a 0.18
 
 II.- Comercial, Industrial y de Prestación de Servicios por mes
 
-N$ 5.00 a N$ 5.00 a N$ 5.00 a
-
-N$ 1000.00 N$ 600.00 N$ 400.00
-
-> <small>(REFORMADA P.O. 19 DE DICIEMBRE DE 1994)</small>
+0.36 a 72.50 0.36 a 43.50 0.36 a 29.00
 
 III.- Servicios especiales por viaje
 
-N$ 30.00 a N$ 30.00 a N$ 15.00 a
-
-N$ 500.00 N$ 300.00 N$ 50.00
+2.17 a 36.35 2.17 a 21.75 1.08 a 3.62
 
 IV.- Por recolecta de productos dentro del relleno sanitario se cobrará por tonelada:
 
 A.- Vidrio y chatarra
 
-N$ 10.00 N$ 10.00 N$ 5.00
+0.72 0.72 0.36
 
 B.- Papel y cartón
 
-N$ 8.00 N$ 8.00 N$ 4.00
+0.58 0.58 0.29
 
 C.- Aluminio y plástico
 
-N$ 10.00 N$ 10.00 N$ 5.00
+0.72 0.72 0.36
 
 D.- Trapo y varios
 
-N$ 8.00 N$ 8.00 N$ 4.00
+0.58 0.58 0.29
 
 E.- Por descargar basura dentro del relleno sanitario
 
-N$ 5.00 a N$ 5.00 a N$ 2.50 a
-
-N$ 10.00 N$ 10.00 N$ 5.00
+0.36 a 0.72 0.36 a 0.72 0.18 a 0.36
 
 #### SECCION QUINTA. POR SERVICIOS DE AGUA POTABLE
 
@@ -1223,9 +1189,73 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 Es objeto de este derecho la autorización de rotura de pavimento, el cual se causará de acuerdo al monto total del precio unitario vigente de los trabajos de repavimentación.
 
+#### SECCION SEPTIMA. POR LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 105 A.- Las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad, en la vía pública o visibles desde la vía pública, requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 105 B.- La base para el pago de derechos, será por metro cuadrado, tratándose de anuncios o carteles de pared o adosados al piso o azotea; por hora y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicio público de pasajeros, los cuales se causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+T A R I F A
+
+GRUPOS 1 2 3
+
+I.- De pared, adosados al piso o azotea
+
+A.- Pintados 1.00
+
+B.- Luminosos 5.00
+
+C.- Giratorios 2.00
+
+D.- Electrónicos 10.00
+
+E.- Tipo bandera 1.50
+
+F.- Mantas en propiedad privada 2.00
+
+G.- Bancas y cobertizos publicitarios 2.00
+
+H.- Torre tipo directorio dentro de centros comerciales EXENTO
+
+II.- Por cada anuncio colocado en vehículos de servicio público de pasajeros de ruta fija, urbano, suburbano y foráneo.
+
+A.- En el exterior del vehículo 2.00
+
+B.- En el interior de la unidad 1.00
+
+III.- Por difusión fonética de publicidad en la vía pública por hora y por unidad de sonido 1.00
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 105 C.- Serán responsables solidarios los propietarios de los predios o fincas en donde se fijen los anuncios o carteles o se lleve a cabo la publicidad. También serán responsables solidarios las personas físicas o morales que fijen los anuncios o lleven a cabo la publicidad.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 105 D.- Las licencias, permisos o autorizaciones a que se refiere esta Sección deberán ser refrendadas anualmente dentro del primer trimestre de cada año; causándose en un 80% los derechos que establece la tarifa del artículo 105 B.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 105 E.- No se causarán estos derechos cuando se trate de la siguiente publicidad:
+
+I.- La que se realice por medio de televisión, radio, periódicos o revistas;
+
+II.- Por anuncios que correspondan a nombres, denominaciones o razones sociales, colocados en las fachadas de las fincas o establecimientos donde se encuentre ubicado el negocio; y
+
+III.- Las que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficiencia (sic) públicas; las iglesias y las de carácter cultural.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 105 F.- Las autoridades municipales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de las licencias, permisos o autorizaciones de anuncios, carteles o publicidad; así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción y su vigencia.
+
 ###### ARTICULO 105.
 
 Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio, en vigor.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 106.
 
@@ -1555,7 +1585,7 @@ N$ 45.00 N$ 45.00 N$ 22.50
 
 ###### ARTICULO 122.
 
-Por el uso de estacionamientos públicos propiedad de los HH. Ayuntamientos, para vehículos automotores, causarán y pagarán de acuerdo con la siguiente:
+Por el uso de estacionamientos públicos propiedad de los H.H. Ayuntamientos, para vehículos automotores, causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
 T A R I F A
 
@@ -1563,19 +1593,19 @@ GRUPO 1 GRUPO 2 GRUPO 3
 
 I.- Por la primera hora
 
-N$ 1.00 N$ 1.00 N$ 1.00
+.08 .07 .07
 
 II.- De 2, 3 y 4 horas
 
-N$ 0.50 N$ 0.50 N$ 0.50
+.06 .03 .03
 
 III.- Las subsecuentes
 
-N$ 0.20 N$ 0.20 N$ 0.20
+.02 .01 .01
 
 IV.- Por día
 
-N$ 6.00 N$ 6.00 N$ 6.00
+.47 .43 .43
 
 ###### ARTICULO 123.
 
@@ -1658,6 +1688,8 @@ IV.- Indemnizaciones por responsabilidades fincadas a terceros.
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será como mínimo un 20% del valor de este, así como su actualización. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, contemplado en el Código Fiscal del Estado sin perjuicio de la responsabilidad penal que en su caso procediere.
 
 ### CAPITULO TERCERO. POR USO DE ESTACIONAMIENTOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 136.
 
@@ -1744,3 +1776,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+Primero.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
