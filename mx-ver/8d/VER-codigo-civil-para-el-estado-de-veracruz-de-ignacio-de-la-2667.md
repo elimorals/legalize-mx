@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1943-12-28"
+last_updated: "1956-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE NOVIEMBRE DE 1956.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -5093,17 +5093,9 @@ ARTICULO 990
 
 Los acreedores de los partícipes podrán concurrir a la división de la cosa común, y oponerse a que se verifique sin su concurso. Pero no podrán impugnar la división consumada, excepto en caso de fraude o en el de haberse verificado no obstante la oposición formalmente interpuesta para impedirla, y salvo siempre los derechos del deudor para sostener la validez.
 
+> <small>(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY SOBRE EL REGIMEN DE PROPIEDAD Y CONDOMINIO DE LOS EDIFICIOS DIVIDIDOS EN PISOS, DEPARTAMENTOS, VIVIENDAS O LOCALES, G.O. 22 DE NOVIEMBRE DE 1956)</small>
+
 ARTICULO 991
-
-Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios, si los títulos de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
-
-I.- La paredes maestras, el tejado o azotea y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso;
-
-II.- Cada propietario costeará el suelo de su piso;
-
-III.- El pavimento del portal, puerta de entrada, patio común y obras de policía comunes a todos se costearán a prorrata por todos los propietarios;
-
-IV.- La escalera que conduce al piso primero se costeará a prorrata entre todos, excepto el dueño del piso de bajo; la que desde el primer piso conduce al segundo, se costeará por todos, excepto por los dueños del piso bajo y del primero; y así sucesivamente.
 
 ARTICULO 992
 
@@ -14982,3 +14974,9 @@ G.O. 28 DE DICIEMBRE DE 1943.
 LEY NUMERO 154
 
 Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 22 DE NOVIEMBRE DE 1956.
+
+PRIMERO.- Queda derogado el artículo 991 del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley.
+
+SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en la "Gaceta Oficial" del Estado.
