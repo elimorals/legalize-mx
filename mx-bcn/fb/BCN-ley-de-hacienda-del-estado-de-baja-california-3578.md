@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1974-03-10"
+last_updated: "1974-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1974.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -993,9 +993,11 @@ Este Impuesto se causará con base en el importe de los servicios y se pagará c
 
 Los causantes de este Impuesto deberán enterarlo al momento de liquidar el importe de los servicios, siendo solidariamente responsables del pago del Impuesto y retenedores del mismo, los que presten los servicios señalados en el Artículo 127 del presente Capítulo.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 131.
 
-Los retenedores de este Impuesto, deberán enterarlo en la Recaudación de Rentas correspondiente, dentro de los días del primero al quince de cada mes, mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas.
+Los retenedores de este Impuesto deberán enterarlo en la Recaudación de Rentas correspondiente, dentro de los días del 1o., al 20 de cada mes mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas.
 
 ###### ARTICULO 132.
 
@@ -1352,3 +1354,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 10 DE MARZO DE 1974.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 31 DE AGOSTO DE 1974.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
