@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-15284"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-08"
-last_updated: "1975-09-08"
+last_updated: "1982-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de marzo de 1969.
 
@@ -201,19 +201,9 @@ I.- Registrar los Títulos de los profesionistas, de conformidad con los artícu
 
 II.- Llevar la hoja de servicios de cada profesionista cuyo título registre, anotando en el expediente respectivo las sanciones que se le impongan y publicándolas en el caso de suspensión del ejercicio profesional;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE SEPTIEMBRE DE 1975)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1975)</small>
 
-III.- Expedir en su caso la cédula que autorice el ejercicio profesional y que será el medio de identificación de todas las actividades profesionales.
-
-El ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito Federal, de acuerdo con las siguientes bases:
-
-a).- Instituir un solo servicio del registro de Título Profesionales y grados académicos para la expedición de cédulas profesionales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales.
-
-b).- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública.
-
-c).- Intercambiar la información que se requiera; y
-
-d).- Las demás que tiendan al debido cumplimiento del objeto del convenio;
+III.- Autorizar y efectuar el registro a Profesionistas y pasantes para el Ejercicio Profesional que será el medio de identificación de todas las actividades profesionales;
 
 IV.- Llevar la lista de los profesionistas autorizados para ejercer la profesión;
 
@@ -241,7 +231,9 @@ Para ejercer en el Estado de Hidalgo cualquiera de las profesiones a que se refi
 
 I.- Poeser (sic) Título legalmente expedido y registrado;
 
-II.- Obtener de la Dirección de Profesiones, el Registro profesional.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1975)</small>
+
+II.- Obtener la Dirección de Profesiones, el registro profesional.
 
 ###### Artículo 21.
 
@@ -260,6 +252,8 @@ Se regirá por las disposiciones relativas de la Ley Federal del Trabajo, Códig
 ###### Artículo 24.
 
 En materia penal, el acusado podrá ser oído en defensa por sí o por medio de persona de su confianza o por ambos, según su voluntad, previniéndosele para que designe, además, un defensor con título cuando la persona o personas designadas como defensores no sean abogados, nombrándosele si no hiciera uso de este derecho a un defensor de oficio.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 25.
 
@@ -417,29 +411,47 @@ q).- Gestionar el registro de los títulos de sus competentes.
 
 ### CAPITULO VIII. Del Servicio Social de Pasantes y Profesionistas
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
+
 ###### Artículo 47.
 
-Todos los estudiantes y pasantes de las profesiones a que se refiere esta Ley en su artículo 5o. No mayores de sesenta años o impedidos por enfermedad grave, siempre que estén en ejercicio deberán prestar el Servicio Social en los términos de esta Ley.
+Todos los Estudiantes y Pasantes de las Profesiones a que se refiere esta Ley en su Artículo 5o. no mayores de sesenta años o impedidos por enfermedad grave, siempre que estén en ejercicio deberán prestar el Servicio Social en los términos de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 47 Bis.
 
-La Entidad que coordina el Servicio Social en el Estado será la Dirección de Profesiones de acuerdo con los objetivos del plan de Gobierno, supervisará, evaluará los resultados de dicha actividad en coordinación con las Dependencias de los centros de enseñanza superior del Estado y la CECOSSIES (Comité Estatal de Coordinación del Servicio Social de Estudiantes de las Instituciones de Educación Superior).
+La entidad que coordina el Servicio Social en el Estado será la Dirección de Profesiones; de acuerdo con los objetivos del Plan de Gobierno, supervisará, evaluará los resultados de dicha actividad en coordinación con las dependencias de los centros de enseñanza superior del Estado y la CECOSSIES", (Comité Estatal de Coordinación del Servicio Social de Estudiantes de las Instituciones de Educación Superior).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 48.
 
-Se enciente por Servicio Social el trabajo de carácter temporal obligatorio y/o mediante atribución y bajo los objetivos de un programa que ejecuten y presten los estudiantes y pasantes en interés de la sociedad y del Estado.
+Se enciente por Servicio Social el Trabajo de carácter temporal obligatorio y/o mediante atribución y bajo los objetivos de un programa que ejecuten y presten los estudiantes y pasantes en interés de la Sociedad y del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 48 Bis.
 
 Los estudiantes y pasantes podrán prestar el Servicio Social bajo las siguientes normas:
 
-a).- De manera industrial; y
+a).- De manera individual; y
 
 b).- En forma de brigada multidisciplinaria.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
+
 ###### Artículo 49.
 
-Los prestadores del Servicio Social deberán haber cubierto un mínimo del 20% de los créditos de su carrera, para poder ser incorporados a un programa de desarrollo Estatal. En función a las necesidades del sector público podrán ser asignados a cualquier municipio.
+Los prestadores del Servicio Social deberán haber cubierto un mínimo del 20% de los créditos de su carrera, para poder ser incorporados a un programa de desarrollo estatal. En función a las necesidades del sector público podrán ser asignados a cualquier Municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
+
+###### Artículo 49 Bis.
+
+La duración del Servicio Social no podrá ser menor de seis meses ni mayor de dos años; no se computará el tiempo que por enfermedad u otra causa grave, que el estudiante permanezca fuera del lugar en que debe prestarlo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 50.
 
@@ -449,11 +461,11 @@ a).- Los objetivos;
 
 b).- Las actividades;
 
-c).- La dependencia asignada;
+c).- La Dependencia asignada;
 
 d).- La duración; y
 
-e).- Municipio de adscripción.
+e).- Municipios de adscripción.
 
 ###### Artículo 51.
 
@@ -469,27 +481,35 @@ En circunstancias de peligro derivado de conflictos o calamidades públicas, tod
 
 ### CAPITULO IX. De las Sanciones por incumplimiento a esta Ley
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
+
 ###### Artículo 54.
 
-Los delitos que cometen los profesionistas en el ejercicio de la profesión, serán castigados por las autoridades competentes con arreglo al Código Penal del Estado y disposiciones legales respectivas.
+Los delitos que cometen los Profesionistas en el Ejercicio de la Profesión, serán castigados por las autoridades competentes con arreglo al Código Penal del Estado y disposiciones legales respectivas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 55.
 
-El hecho de que alguna persona se atribuya el carácter de profesionista sin tener Título o ejerza los actos propios de la profesión, se castigará con las sanciones que establece el art. 219 del Código Penal del Estado.
+El hecho de que alguna persona se atribuya el carácter de profesionista sin tener título o ejerza los actos propios de la profesión, se castigará con la sanción que establece el Artículo 219 del Código Penal del Estado
 
 ###### Artículo 56.
 
 Al que ofrezca públicamente sus servicios como profesionistas, sin serlo, se le castigará con la misma sanción que establece el artículo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
+
 ###### Artículo 57.
 
-Se sancionará con multa de $500,00 (QUINIENTOS PESOS 00/100 M.N.), al que contravenga lo dispuesto por el art. 25 de esta Ley.
+Se sancionará con multa de $500.00 (QUINIENTOS PESOS 00/100 M.N.), al que contravenga lo dispuesto por el Artículo 25 de ésta Ley.
 
-La Dirección de Profesiones previa comprobación de la violación de la Ley impondrá la multa de referencia sin perjuicio de las sanciones penales en que hubiere incurrido.
+La Dirección de Profesiones previa comprobación de la violación de la Ley impondrá la multa de referencia sin perjuicio de las sanciones Penales en que hubieran incurrido.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 58.
 
-El profesionista que tenga Título legalmente expedido, pero no lo registre en la Dirección de Profesiones se le aplicará por primera vez una multa de $1,250.00 (UN MIL DOSCIENTOS CINCUENTA PESOS 00/100 M.N.). En caso de reincidencia se irá duplicando dicha multa sin que la imponga en el último caso pueda ser mayor de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+El profesionista que tenga título legalmente expedido, pero no lo registre en la Dirección de Profesiones se le aplicará por primera vez una multa de $1,250.00. En caso de reincidencia se irá duplicando dicha multa sin que la imponga en el último caso pueda ser mayor de $10,000.00.
 
 ###### Artículo 59.
 
@@ -576,3 +596,7 @@ P.O. 8 DE SEPTIEMBRE DE 1975.
 Primero.- Esta Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Mientras no se de por terminado el convenio que celebre el Ejecutivo del Estado con la Secretaría de educación Pública, quedan derogadas las disposiciones de la Ley del ejercicio Profesional del Estado que se opongan al cumplimiento del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1982.
+
+UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
