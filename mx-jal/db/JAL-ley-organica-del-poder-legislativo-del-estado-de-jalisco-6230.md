@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-09-28"
+last_updated: "1999-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -225,15 +225,17 @@ Para suplir a los diputados electos por el principio de representación proporci
 
 ### CAPITULO I. De las Obligaciones de los Diputados
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 11.
 
-Es obligación de cada diputado formular y presentar al menos una iniciativa de ley dentro del tiempo que dure su ejercicio; así como asistir a todas las sesiones que celebre el Congreso. Se entiende que los diputados que falten a 10 sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, renuncian a concurrir a sesiones, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las sesiones por causas justificadas, en los términos del artículo siguiente.
+Es obligación de cada diputado formular y presentar al menos una iniciativa de ley, dentro del tiempo que dure su ejercicio; así como asistir a todas las sesiones que celebre el Congreso. La inasistencia a seis sesiones sin causa justificada, durante un período de 180 días a partir de la primera falta, dará motivo a que se llame al respectivo suplente, quien asumirá los derechos y obligaciones inherentes al cargo, por un término no menor de treinta días, prorrogables hasta la reincorporación del diputado propietario. Los diputados solamente podrán dejar de concurrir a las sesiones, por causa justificada, en los términos del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 12.
 
-Se justificará la ausencia de un Diputado, cuando previamente a la sesión a que falte haya avisado y expuesto el motivo de su inasistencia al Presidente del Congreso y éste último haya calificado de justificada la falta. Si la falta fuere del Presidente, el aviso deberá darlo al Vice-Presidente, o a la Secretaría, en ausencia de aquél. La falta sin previo aviso solamente se justificará en casos de fuerza mayor que hayan imposibilitado dar dicho aviso.
+Se justificará la ausencia de un diputado cuando previamente a la sesión a que falte, haya avisado y expuesto el motivo de su inasistencia al Presidente del Congreso y éste haya calificado de justificada la falta. La ausencia sin previo aviso, solamente se estimará justificada cuando el grado de dificultad que haya impedido al diputado concurrir a la sesión, hubiere implicado manifiesta imposibilidad de hacerlo. Si la falta fuere del Presidente, el aviso deberá darlo a cualesquiera de los Vicepresidentes o a la Secretaría, en ausencia de aquellos.
 
 ###### Artículo 13.
 
@@ -599,9 +601,9 @@ III. Supresión o creación de Juzgados o modificaciones de su categoría;
 
 IV. Modificación de la comprensión territorial de los Organos Judiciales;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
-V. Aprobación en su caso, de las designaciones de Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, hechas por el Ejecutivo o designación de entre los que, comprendan las ternas propuestas por éste; y
+V. La elección de los Magistrados al Supremo Tribunal de Justicia, Tribunal Electoral y Tribunal de lo Administrativo, así como la de los consejeros integrantes del Consejo General del Poder Judicial ; y
 
 VI. Concesión de amnistía.
 
@@ -649,9 +651,9 @@ III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 1994)
 
 IV.Dictaminar sobre la necesidad de convocar a elecciones extraordinarias, cuando sea necesario; y sobre el resultado de éstas, dentro de los quince días siguientes a la recepción de la documentación respectiva;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-V.Proponer para su designación, como Gobernador Interino, Provisional o Substituto, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba substituirlo, en los términos y condiciones que señala la Constitución Política del Estado, debiendo fundamentar debidamente los motivos que inspiren la proposición. Este dictamen debe ser rendido dentro de los cinco días que sigan al en que la Comisión haya tenido conocimiento de la falta del Ejecutivo, que implique designación de Gobernador Interino, Provisional o Substituto; y
+V.Proponer para su designación como Gobernador interino o substituto, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba sustituirlo, en los términos y condiciones que señala la Constitución Política del Estado, debiendo fundamentar debidamente los motivos que inspiren la proposición. Este dictamen debe ser rendido dentro de los cinco días que sigan al día en que la Comisión haya tenido conocimiento de la falta del Ejecutivo que implique designación de Gobernador Interino o Sustituto; y
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
@@ -1237,9 +1239,13 @@ No podrá llamarse al orden al Diputado que critique o censure a funcionarios p�
 
 Siempre que en la discusión algún Diputado solicite de la Comisión Dictaminadora la explicación de los fundamentos de su dictamen, o del Diputado autor de una iniciativa explicación de ésta; o pida se de lectura a las constancias de un expediente, el Presidente ordenará que así se haga, y acto continuo proseguirá el debate.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 110.
 
-Salvo los integrantes de las Comisiones o el Diputado autor de una iniciativa que se discuta y los oradores enviados por el Ejecutivo del Estado, por el Supremo Tribunal de Justicia y por los Ayuntamientos de la Entidad, podrán hacer uso de la palabra hasta en cuatro ocasiones, ninguno de los oradores que participen en la discusión, podrá hablar más de dos veces, sobre el mismo asunto.
+Los integrantes de las comisiones dictaminadoras o el Diputado autor de una iniciativa que se discuta y los oradores enviados por el Ejecutivo del Estado, por el Supremo Tribunal de Justicia y por los ayuntamientos de la entidad, podrán hacer uso de la palabra hasta en cuatro ocasiones. Ninguno de los diputados que participen en la discusión, podrá hablar más de dos veces, sobre el mismo asunto.
+
+Los diputados inscritos se expresarán libremente sobre la materia sujeta a discusión, si transcurridos 15 minutos para lo general y 7 en lo particular, se apartasen del tema en cuestión o existiera un abuso evidente en el uso del tiempo en tribuna, el Presidente de la Mesa Directiva podrá exhortarlos para que serán concretos, y en su caso concluyentes.
 
 ###### Artículo 111.
 
@@ -1761,7 +1767,7 @@ QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
-###### Artículo 187
+###### Artículo 187.
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
@@ -1885,6 +1891,10 @@ Segundo. La reforma al Art. 24 de la Constitución Política del Estado de Jalis
 
 Tercero. Las reformas de los Arts. 182, 185, 186 y 188 de la Ley Reglamentaria del Poder Legislativo, entrarán en vigor el mismo día en que entre en vigor la reforma al Art. 24 de la Constitución Política del Estado.
 
+DECRETO QUE REFORMA ART. 90, P.O. 10 DE OCTUBRE DE 1989
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
 P.O. 10 DE OCTUBRE DE 1989
 
 DECRETO QUE REFORMA ART. 90.
@@ -1998,5 +2008,13 @@ DECRETO QUE REFORMA ARTS. 11 Y 12, P.O. 28 DE SEPTIEMBRE DE 1999
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 DECRETO QUE REFORMA ARTS. 22, 39 Y 75, P.O. 28 DE SEPTIEMBRE DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE NOVIEMBRE DE 1999 DECRETO QUE REFORMA ART. 110,
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+DECRETO QUE REFORMA ART. 40, P.O. 6 DE NOVIEMBRE DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
