@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1939-12-23"
+last_updated: "1941-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 1941.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -556,11 +556,9 @@ XXXI. Visitar por medio de su comisión de Hacienda, la Tesorería General del E
 
 XXXII. Crear o suprimir los empleos públicos del Estado, y aumentar o disminuir los emolumentos respectivos.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1936)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 1941)</small>
 
-XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos en vista de los presupuestos que presente el Ejecutivo. Aprobar los Planes de Arbitrios que deberán enviar los Ayuntamientos, haciéndoles las modificaciones que estime convenientes. En ningún caso autorizará la Legislatura la celebración de convenios o contratos sobre pago de impuestos, rigiéndose éstos por las normas de aplicación general.
-
-Las contribuciones sobre la Industria Metalúrgica, fabril o manufacturera, no se decretarán anualmente, sujetándose a lo dispuesto en el artículo 101.
+XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos en vista de los Presupuestos que presente el Ejecutivo. Aprobar los Planes de Arbitrios que deberán enviar los Ayuntamientos haciéndoles las modificaciones que estime convenientes. Por considerarse de interés público, el Congreso expedirá una Ley Reglamentaria tendente a favorecer la inversión de capitales en nuevas fuentes de producción y especialmente en nuevas industrias o en la ampliación de las ya existentes, estableciéndose impuestos moderados, por un período no mayor de veinte años.
 
 XXXIV. Revisar cada año las cuentas de cobro e inversión de los caudales públicos del Estado, previo examen y glosa de la Diputación Permanente; la falta de este requisito no será un obstáculo para la revisión.
 
@@ -696,9 +694,9 @@ III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la 
 
 IV. Nombrar y remover libremente al Procurador General de Justicia del Estado y a los Agentes del Ministerio Público.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1936)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 1941)</small>
 
-V. Celebrar con su carácter de representante del Estado, los convenios y contratos administrativos en los diversos ramos de la administración, sin que bajo esta denominación se comprenda la facultad de celebrar contratos sobre pago de impuestos ni acto alguno que tenga por efecto limitar la soberanía del Estado.
+V. Celebrar con su carácter de representante del Estado, los convenios y contratos administrativos que fueren convenientes o necesarios en los diversos ramos de la Administración, sin que tenga facultad para celebrar Contratos sobre pago de impuestos, no considerándose que tenga ese carácter, el acto de acogerse las industrias nuevas, o la ampliación de las ya existentes, a la franquicia autorizada por la Fracción XXXIII del Artículo 67 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
 
@@ -760,7 +758,9 @@ Son deberes del Gobernador:
 
 I. Llevar las relaciones entre el Estado y los Gobiernos General y de los Estados.
 
-II. Publicar, circular y hacer cumplir las leyes y decretos del Congreso del Estado.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 1941)</small>
+
+II. Publicar, circular y hacer cumplir, las Leyes y Decretos del Congreso del Estado. Promoverá por los medios que estime convenientes, el mejoramiento de las condiciones económicas y de bienestar de la colectividad, fomentando el aumento de la riqueza pública en el Estado y dando impulso a la explotación adecuada de todas las fuentes de producción, así como otorgando facilidades y estímulo para la inversión de capitales en obras que impliquen la creación de nuevos centros de trabajo.
 
 III. Cuidar de la observancia de la Constitución General, la particular del Estado y de las leyes que de ella emanen.
 
@@ -902,17 +902,11 @@ IV. Pedir al Gobernador el castigo o remoción de los empleados subalternos del 
 
 V. Presentar diariamente al Ejecutivo un estado general de Caja, autorizado por el Contador, que manifieste el movimiento diario de caudales.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1936)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1941)</small>
 
 ###### Artículo 101.
 
-En observancia de lo preceptuado por el artículo 28 de la Constitución Federal, se declaran sin efecto alguno las concesiones o franquicias por impuestos otorgados por el Congreso del Estado o por el Ejecutivo del mismo.
-
-Todas las industrias fabriles o manufactureras establecidas o que se establezcan en el Estado, pagarán como único impuesto el dos y medio al millar anual sobre el valor de sus fábricas, incluyendo la maquinaria, y el de dos y medio al millar anual sobre el valor de la producción, sin ninguno de los impuestos adicionales que decreten las Leyes del Estado. Este impuesto se dividirá por mitad entre el Fisco del Estado y el Municipio en que las negociaciones tengan sus fábricas.
-
-Las Plantas de beneficio metalúrgico incluyendo las de coke, pagarán como único impuesto al Estado, el cinco al millar anual sobre el valor de la planta.
-
-Las leyes secundarias reglamentarán la forma de hacer efectivos estos impuestos, sin que pueda alterarse su tipo.
+En observancia de lo preceptuado por el Artículo 28 de la Constitución Federal, se declaran sin efecto alguno, las concesiones por concepto de impuestos, otorgados por el Congreso del Estado o por el Ejecutivo. Todas las industrias existentes, así como las no comprendidas dentro de lo dispuesto en la Fracción XXXIII del Artículo 67 de la Constitución, pagarán como único impuesto 2½ al millar anual sobre el valor de las fábricas, incluyendo la maquinaria, y del 1½ al 2½ al millar anual sobre el valor de la producción, sin que pueda agregarse ninguno de los impuestos adicionales que decreten las Leyes del Estado. Este impuesto se dividirá por mitad entre el Estado y el Municipio en que las negociaciones tengan establecidas sus fábricas.- Las Plantas de Beneficio Metalúrgico, incluyendo las de Coke, pagarán como único impuesto al Estado el 5 al millar anual sobre el valor de la Planta y Maquinaria. Las Leyes secundarias reglamentarán la forma de hacer efectivos estos impuestos, sin que pueda alterarse el tip.
 
 ###### Artículo 102.
 
@@ -1672,7 +1666,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 20 DE ABRIL DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TEL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 15 DE JUNIO DE 1938.
 
@@ -1681,3 +1675,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 23 DE DICIEMBRE DE 1939.
 
 UNICO.- A partir de la vigencia de la presente reforma, el Tribunal Superior de Justicia del Estado procederá a hacer los nombramientos de Jueces Locales Letrados que establezcan las Leyes, de manera que el período del funcionamiento de estos Jueces coincida con el de los de Primera Instancia, aunque por esta vez sea necesario para tal efecto, que se designe un período menor para los Jueces Locales Letrados.
+
+P.O. 18 DE ENERO DE 1941.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
