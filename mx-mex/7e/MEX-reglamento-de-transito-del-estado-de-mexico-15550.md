@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "1996-02-01"
+last_updated: "1998-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE FEBRERO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE OCTUBRE DE 1998.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -229,11 +229,13 @@ IV.- Cinturones de seguridad en automóviles y camionetas a partir de modelos 19
 
 V.- Extinguidor en buenas condiciones de uso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 18.
 
-Las autoridades de tránsito pueden expedir permisos provisionales para circular sin placas y tarjeta de circulación, conforme a lo siguiente:
+Las autoridades de tránsito pueden expedir permisos provisionales para circular sin placas y tarjeta de circulación, hasta por treinta días conforme a lo siguiente:
 
-I.- Los permisos provisionales para circular sin placas y tarjeta de circulación, requieren:
+I. Los permisos provisionales para circular sin placas y tarjeta de circulación, requieren:
 
 a).- Factura en original y copia, o carta factura;
 
@@ -243,35 +245,75 @@ c).- Identificación del propietario; y
 
 d).- Pago de derechos.
 
-II.- Los permisos para el transporte particular de carga se expedirán por una sola vez y por 30 días y cubrirán los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+II. Los permisos para el transporte particular de carga se expedirán por una sola vez y por 180 días y cubrirán los siguientes requisitos:
 
 a).- Tarjeta de circulación de la unidad, original y copia;
 
-b).- Declaración del pago del impuesto sobre el giro o negocio; o pago del piso, tratándose de comerciantes ambulantes o tianguistas, en original y copia;
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
-c).- Identificación del propietario, en original y copia;
+b) Declaración del pago de impuesto sobre el giro o negocio o pago del piso, tratándose de comerciantes ambulantes o tianguistas, en original y copia;
 
-d).- En el caso de transporte de artículos sujetos a control sanitario, deberán presentar la licencia sanitaria, en original y copia; y
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
-e).- Pago de derechos.
+c) Identificación del propietario, en original y copia; y
 
-III.- Los permisos para agencia se expedirán únicamente a empresas autorizadas de automóviles nuevos, mediante la presentación de una carta compromiso en la que se responsabilicen del uso de dichos documentos, pagando los derechos correspondientes.
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+d) Pago de derechos.
+
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+III. Los permisos para agencia se expedirán únicamente a empresas autorizadas de automóviles nuevos, debiendo cumplir con los siguientes requisitos:
+
+a) Por primera ocasión:
+
+1. Acta constitutiva de la empresa o agencia.
+
+2. Carta compromiso en la que se responsabiliza del uso de dichos documentos.
+
+3. Sello de la agencia con el costo de permisos,
+
+4. Identificación oficial vigente.
+
+5. Solicitud de permisos.
+
+b) Subsecuentes:
+
+1. Solicitud de permisos.
+
+2. Comprobación de dotaciones anteriores.
+
+> <small>(ADICIONADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+IV. Los permisos para vehículos en demostración y traslado se otorgarán a fabricantes, distribuidores o comerciantes en vehículos. Los interesados, expresarán en la solicitud correspondiente la clase y tipo de vehículos que serán conducidos al amparo del permiso; pagando los derechos correspondientes.
+
+Las personas a que se refiere esta fracción deberán llevar un registro en que se anoten los siguientes datos:
+
+a) Los vehículos que hayan utilizado los permisos para demostración o traslado.
+
+b) El tiempo que cada uno de sus vehículos haya estado amparado por dichos permisos, que en ningún caso podrán exceder de treinta días.
+
+Este registro deberá estar abierto a la inspección oficial de la autoridad de tránsito competente.
 
 ###### Artículo 19.
 
 Para la matriculación de un vehículo de servicio particular, es necesario cumplir con los siguientes requisitos:
 
-I.- Factura o carta factura, en original y copia;
+I. Factura o carta factura, en original y copia;
 
-II.- Recibo del último pago del impuesto sobre tenencia o uso de vehículos en original y copia;
+II. Recibo del último pago del impuesto sobre tenencia o uso de vehículos en original y copia;
 
-III.- Calcas del número de motor y del número de serie;
+III. Calcas del número de motor y del número de serie;
 
-IV.- Forma de alta debidamente llenada;
+IV. Forma de alta debidamente llenada;
 
-V.- Pago de derechos.
+V. Pago de derechos.
 
-Para la matriculación de un vehículo de servicio público, también deberá presentarse la documentación que señale la reglamentación de transporte.
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+Para la matriculación o canje de placas de un vehículo de servicio público, también deberá presentarse la documentación que señale la reglamentación de transporte.
 
 En el caso de expedición de placas a un vehículo que haya sido matriculado en otra entidad federativa, además de los anteriores requisitos deberán presentarse la tarjeta de circulación y las placas correspondientes, llenando el formato de baja que para tal efecto proporciona la autoridad administrativa.
 
@@ -283,9 +325,13 @@ El cambio de propietario deberá verificarse con la factura del vehículo debida
 
 Para el efecto de reposición de tarjeta de circulación, el interesado deberá presentar el documento jurídico, que acredite el robo, pérdida o destrucción de dicha tarjeta. Previa certificación de que el documento no se encuentre infraccionado y pago de derechos correspondientes, se le otorgará la reposición solicitada.
 
-Para la reposición de una o ambas placas de circulación, el interesado deberá presentar el documento jurídico, que acredite el robo, pérdida o destrucción de los mismos, la tarjeta de circulación y el recibo de pago de los derechos correspondientes.
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
-A continuación, se le expedirá el permiso correspondiente para circular sin una o sin ambas placas por el término de sesenta días hábiles, plazo en el que se le entregarán al interesado la placa o placas cuyo importe de reposición hubiese pagado. Si transcurrido este plazo la autoridad no hubiere efectuado la reposición, se le extenderá al interesado previa gestión que este haga antes del vencimiento, nuevo permiso sin costo alguno por otros sesenta días y así sucesivamente hasta que reciba sus placas. Si esta gestión se hiciere extemporáneamente el interesado pagará los derechos que causen.
+En los casos de deterioro, mutilación o pérdida de las placas de matriculación, tarjeta de circulación o calcomanía, el interesado deberá dar de baja la matrícula, solicitando nueva matriculación en términos del presente reglamento.
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+Las placas, tarjeta de circulación o calcomanía por nueva matriculación deberán ser entregadas en forma inmediata al interesado.
 
 ###### Artículo 21.
 
@@ -329,7 +375,7 @@ El refrendo de la vigencia de las placas de matriculación de los vehículos, se
 
 ###### Artículo 29.
 
-En los casos de deterioro o mutilación de las placas de matrícula, calcomanía o tarjeta de circulación, el propietario del vehículo debe solicitar su reposición, previo pago de los derechos correspondientes, ante la autoridad de tránsito quien expedirá un permiso temporal para circular sin placa, calcomanía o tarjeta de circulación según sea el caso.
+(DEROGADO, G.G. 8 DE OCTUBRE DE 1998)
 
 ###### Artículo 30.
 
@@ -343,9 +389,11 @@ El adquirente será considerado deudor solidario por cuanto a las infracciones c
 
 Para dar de baja un vehículo será necesario, tramitar a costa del interesado un certificado de no adeudos y cumplir con lo siguiente:
 
-I.- Llenar la solicitud en las formas correspondientes; y
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
 
-II.- Entregar el juego de placas y tarjeta de circulación, o el documento jurídico que acredite el robo, pérdida o destrucción del vehículo.
+I. Llenar la solicitud en las formas autorizadas; y
+
+II. Entregar el juego de placas y tarjeta de circulación, o el documento jurídico que acredite el robo, pérdida o destrucción del vehículo.
 
 ###### Artículo 32.
 
@@ -355,15 +403,7 @@ Los vehículos con placas extranjeras podrán transitar libremente en el Estado 
 
 ###### Artículo 33.
 
-Las placas para vehículos en demostración y traslado se otorgarán a fabricantes, distribuidores o comerciantes en vehículos y serán usadas únicamente para cumplir con el propósito que motivó su expedición. Cada juego de placas para este fin, ampara el tránsito de vehículos. Los interesados, expresarán, en la solicitud correspondiente la clase y tipo de vehículos que serán conducidos al amparo de estas placas.
-
-Las personas a que se refiere este artículo deberán llevar un registro en que se anoten los siguientes datos:
-
-a).- Los vehículos que hayan utilizado las placas para demostración o traslado; y
-
-b).- El tiempo que cada uno de esos vehículos haya estado amparado por dichas placas.
-
-Este registro deberá estar abierto a la inspección oficial de la autoridad de tránsito competente.
+(DEROGADO, G.G. 8 DE OCTUBRE DE 1998)
 
 ### CAPITULO III
 
@@ -395,9 +435,11 @@ Las llantas de los vehículos automotores deberán estar en condiciones suficien
 
 Queda prohibido transitar en vehículos automotores con llantas lisas o con roturas. También queda prohibido el tránsito de vehículos con ruedas metálicas, de madera o de cualquier otro material que dañe el pavimento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 39.
 
-Con el propósito de verificar que cuenten con el equipo reglamentario y cumplan con las condiciones establecidas en este reglamento y demás disposiciones legales aplicables, las autoridades de tránsito efectuarán anualmente revistas a los vehículos mecánicos de transporte de pasajeros o de carga, y de los destinados al servicio público de transporte de pasajeros o de carga.
+Con el propósito de verificar que cuenten con el equipo reglamentario y cumplan con las condiciones establecidas en este reglamento y demás disposiciones legales aplicables, las autoridades de tránsito efectuarán anualmente revistas a los vehículos mecánicos de transporte de pasajeros o de carga, y de los destinados al servicio público de transporte de pasajeros o de carga, siendo obligatoria dicha inspección para vehículos de más de diez años de antigüedad.
 
 Cuando los vehículos presentados a revista no tengan el equipo o las condiciones de funcionamiento que prescribe este ordenamiento y demás aplicables, la autoridad de tránsito podrá exigir que se cumplan esos requisitos en un término de veinte días hábiles, entregados al propietario en formatos donde consten las diferencias detectadas en la revista.
 
@@ -435,11 +477,15 @@ I.- De motociclista;
 
 II.- De automovilista;
 
-III.- De Chofer; y
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
 
-IV.- De conductor de ómnibus.
+III. De chofer, tipos A y B; y
 
-La licencia de motociclista, autoriza a conducir motocicletas; la de automovilista, automóviles particulares; la de chofer, automóviles y camiones de servicio particular y de servicio público; la de conductor de ómnibus, autobuses de pasajeros, camiones, automóviles particulares y de servicio público.
+IV. De conductor de ómnibus.
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+La licencia de motociclista, autoriza conducir motocicletas; la de automovilista, automóviles particulares; la de chofer A, automóviles y camiones de servicio particular y la de chofer tipo B, automóviles y camiones de servicio particular y de servicio público; la de conductor de ómnibus, autobuses de pasajeros, camiones, automóviles particulares y de servicio público.
 
 ###### Artículo 43.
 
@@ -449,11 +495,17 @@ I.- Acreditar mediante copia certificada del acta de nacimiento haber cumplido 1
 
 II.-Comprobar domicilio actual;
 
-III.- Exhibir una fotografía tamaño infantil de frente y una de perfil a color;
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
 
-IV.- Presentar examen médico de agudeza audiovisual y de integridad física, o constancia de que fue efectuado por alguna institución médica en fecha reciente;
+III. Carta responsiva otorgada por el solicitante;
 
-V.- Aprobar el examen de conocimientos de este Reglamento y de conducción;
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+IV. Pagar los derechos respectivos; y
+
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+V. Aprobar el examen de conocimientos de este reglamento y de conducción únicamente para obtener licencia de chofer tipo B y de conductor de ómnibus.
 
 VI.- Acreditar haber manejado cuando menos dos años con licencia de chofer y prueba de examen psicométrico, tratándose de licencia de conductor de ómnibus; y
 
@@ -461,33 +513,31 @@ VII.- Pagar los derechos respectivos.
 
 Se podrá expedir licencia a toda persona que padezca de incapacidad física para conducir normalmente, siempre que cuente, según la deficiencia, con anteojos, prótesis u otros aparatos que la permitan hacerlo sin riesgo alguno y que el vehículo que pretenda conducir esté provisto de los mecanismos idóneos para ello, previa demostración.
 
-> <small>(REFORMADO, G.G. 1 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 44.
 
-Las licencias para conducir vehículos podrán tener una vigencia de 1 a 4 años. Para su reposición y reexpedición será necesario entregar la licencia vencida, pagar los derechos y, en su caso, las multas. Tratándose de licencia de conductor de ómnibus, el interesado deberá presentar además, el examen de conservación de aptitudes para manejar, y aprobar los exámenes médico y psicométrico.
+Las licencias para conducir vehículos tendrán vigencia de cuatro años. Para su reposición y reexpedición será necesario entregar la licencia vencida, pagar los derechos y, en su caso, las multas.
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 45.
 
 Para obtener un permiso para la conducción de automóvil o motocicleta, se requiere:
 
-I.- Ser mayor de 16 años y menor de 18;
+I. Ser mayor de 16 años y menor de 18;
 
-II.- Presentar copia certificada y fotostática del acta de nacimiento;
+II. Presentar copia certificada y fotostática del acta de nacimiento;
 
-III.- Constancia de domicilio actual;
+III. Constancia de domicilio actual;
 
-IV.- Una fotografía de frente y una de perfil;
+IV. Carta responsiva otorgada por los padres del solicitante o su tutor, que contenga la identificación y domicilio del aspirante;
 
-V.- Presentar examen médico de agudeza audiovisual y de integridad física, o constancia de que fue efectuado por alguna institución médica en fecha reciente;
+V. Aprobar el examen de conocimiento de las disposiciones que establece este reglamento y de conducción; y
 
-VI.- Aprobar el examen de conocimiento de este Reglamento y de conducción;
+VI. Pagar los derechos.
 
-VII.- Carta de responsiva otorgada por los padres del solicitante o de su tutor, que contenga la identificación y domicilio de aquel; y
-
-VIII.- Pago de derechos.
-
-Los permisos para conducir serán temporales con vigencia hasta de 6 meses, prorrogables a juicio de las autoridades y previa solicitud del interesado.
+Los permisos para conducir serán temporales con vigencia hasta de dos años, prorrogables a juicio de las autoridades y previa solicitud del interesado.
 
 ###### Artículo 46.
 
@@ -785,6 +835,10 @@ Los vehículos destinados al transporte de carga dentro de los perímetros de la
 
 Se prohibe la circulación de vehículos de carga cuando ésta rebase las dimensiones laterales del mismo, sobresalga de la parte posterior en más de un metro, dificulte la estabilidad o conducción del vehículo, estorbe la visibilidad lateral del conductor, se derrame o esparza la carga en la vía pública, oculte las luces y placas del vehículo, no se encuentre debidamente cubierta tratándose de materiales a granel y no esté debidamente sujeta con los amarres necesarios.
 
+> <small>(ADICIONADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+Los vehículos que transporten carga perecedera, no podrán ser detenidos al cometer alguna infracción, en su caso, se procederá a sancionarlos reteniéndoles la licencia, tarjeta de circulación o una placa.
+
 ###### Artículo 71.
 
 Los vehículos de transporte de carga de explosivos, de materias inflamables y corrosivas, y en general de materiales peligrosos, solo podrán circular con los contenedores y tanques especiales para cada caso y por las vialidades que se determinen.
@@ -987,7 +1041,7 @@ XI.- Extremar las precauciones respecto a las preferencias de paso, al incorpora
 
 XII.- Hacer alto total a una distancia mínima de 5 metros del riel más cercano del cruce del ferrocarril;
 
-XIII.- Abstenerse de prestar el servicio público de transporte de pasajeros o de carga sin la concesión permiso o autorización respectiva, o con la placa de servicio particular o con permiso provisional;
+XIII. (DEROGADA, G.G. 8 DE OCTUBRE DE 1998)
 
 XIV.- Abstenerse de rebasar el cupo de pasajeros autorizados;
 
@@ -1203,7 +1257,9 @@ VI.- Los conductores de otros vehículos y los peatones que pasen por el lugar d
 
 Los conductores de vehículos y los peatones implicados en un accidente del que resulten daños a los bienes, deberán proceder en la forma siguiente:
 
-I.- Cuando resulten únicamente daños a bienes de propiedad privada, los implicados, sin necesidad de recurrir a autoridad alguna, podrán llegar a un acuerdo sobre el pago de los mismos. De no lograrse éste serán presentados ante el agente del Ministerio Público de la adscripción, para los efectos de su competencia; y
+> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+I. Cuando resulten únicamente daños a bienes de propiedad privada, los implicados, sin necesidad de recurrir a autoridad alguna, podrán llegar a un acuerdo sobre el pago de los mismos y de ser así, procederán a retirarse sin sanción alguna. De no lograrse el acuerdo, serán presentados ante el agente del ministerio público de la adscripción, para los efectos de su competencia; y
 
 II.- Cuando resulten daños a bienes propiedad de la federación, del estado o de los municipios, los implicados darán aviso a las autoridades competentes, para que éstas puedan comunicar a su vez los hechos a las dependencias, cuyos bienes hayan sido afectados, para los efectos procedentes.
 
@@ -1305,6 +1361,8 @@ DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACION.
 
 DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 116.
 
 Los agentes de tránsito, en el caso de que los conductores contravengan alguna de las disposiciones de este reglamento, deberán proceder en la forma siguiente:
@@ -1355,9 +1413,13 @@ VII.- Por participar en un accidente de tránsito en el que se produzcan hechos 
 
 VIII.- Por interferir, obstaculizar o impedir deliberadamente la circulación de vehículos en las vías públicas del Estado;
 
-IX.- Por incumplimiento o violación reiterada de las condiciones fijadas para la prestación del servicio público de transporte, en apoyo a las autoridades del ramo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 8 DE OCTUBRE DE 1998)</small>
 
-X.- En los casos específicos que determinen otras disposiciones legales.
+IX. Por prestar el servicio público sin la debida autorización;
+
+X. Por incumplimiento o violación reiterada de las condiciones fijadas para la prestación del servicio público de transporte, en apoyo a las autoridades el ramo; y
+
+XI. En los casos específicos que determinen otras disposiciones legales.
 
 En todos los casos a que se refiere este artículo, el manejador tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y solo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de grúas.
 
@@ -1375,6 +1437,10 @@ III.- Una vez remitido el vehículo al depósito correspondiente, los agentes de
 
 Sólo después de haberse cubierto el importe de las multas, traslado y depósito si los hubiere, se procederá a la entrega de los vehículos, en términos de lo dispuesto en este reglamento.
 
+> <small>(ADICIONADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
+En caso de que el vehículo retenido porte colores de empresa o ruta de servicio público autorizado, deberá ser despintado por el interesado previo a la liberación.
+
 ###### Artículo 121.
 
 Únicamente en caso de flagrante infracción a las disposiciones de este reglamento, los agentes de tránsito podrán detener la marcha de un vehículo y exigir a su conductor la exhibición de su licencia o permiso para conducir, así como de la tarjeta o del permiso provisional que ampare la circulación de la unidad. Consecuentemente, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo.
@@ -1385,11 +1451,13 @@ DE LOS MEDIOS DE IMPUGNACION.
 
 ###### Artículo 122.
 
-Las infracciones a las disposiciones de la ley de la materia y del presente reglamento, cuando se cometan por primera ocasión, serán sancionadas con amonestación o multa de uno a cinco días de salario mínimo general diario, que corresponde a la Capital del Estado (sic)
+Únicamente en caso de flagrante infracción a las disposiciones de este reglamento, los agentes de tránsito podrán detener la marcha de un vehículo y exigir a su conductor la exhibición de su licencia o permiso para conducir, así como de la tarjeta o del permiso provisional que ampare la circulación de la unidad. Consecuentemente, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo.
 
 Los infractores, serán sancionados de acuerdo a la falta cometida, conforme a la siguiente tabla de infracciones, sanciones y medidas de seguridad:
 
 > <small>N. DE E. VÉASE TABLA DE INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD EN LA G.G. DE 21 DE SEPTIEMBRE DE 1992, PÁGINAS DE LA 50 A LA 67.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8.</small>
 
 ###### Artículo 123.
 
@@ -1427,19 +1495,21 @@ Una vez que el agente de tránsito hubiese llenado la boleta de infracción, en 
 
 Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del Estado de México, el agente de tránsito que levante la infracción podrá retener la placa de matrícula de la unidad como medida para garantizar el pago de la multa. El agente deberá remitir la placa a la oficina correspondiente, debiendo, asimismo, informar al infractor acerca de la ubicación exacta de la dependencia en donde podrá recuperar su placa una vez pagada la multa.
 
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 127.
 
-El infractor que pague el importe de la multa dentro de los cinco días hábiles siguientes a la fecha de la infracción, tendrá derecho a un descuento del 25%; después de ese plazo perderá ese derecho.
+El infractor que pague el importe de la multa dentro de los cinco días hábiles siguientes a la fecha de la infracción, tendrá derecho a un descuento del 50%.
 
 ###### Artículo 128.
 
 Contra las sanciones que se impongan por infracción a las disposiciones a la Ley de Tránsito y Transportes y de este Reglamento, procede la impugnación mediante el recurso correspondiente o ante el Tribunal de lo Contencioso Administrativo del Estado de México, en los términos y formas señalados por la Ley de Justicia Administrativa.
 
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 129.
 
-Si con motivo del arrastre y detención de un vehículo, este sufriera daños o robo, las autoridades de tránsito tienen la obligación de reparar los daños.
-
-En caso de que los servicios de arrastre y detención se hayan llevado a cabo a través de empresas concesionarias, estas repararan los daños o cubrirán su costo.
+Si con motivo del arrastre y detención de un vehículo, este sufriera daños o robo, el prestador del servicio de grúas de arrastre y depósito tiene la obligación de reparar los daños.
 
 T R A N S I T O R I O S
 
@@ -1472,3 +1542,9 @@ PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
 
 TERCERO.- La Secretaría General de Gobierno, dentro de sus atribuciones, proveerá lo necesario para el cumplimiento del presente decreto.
+
+G.G. 8 DE OCTUBRE DE 1998.
+
+PRIMERO.- Publíquese el presente acuerdo en la "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
