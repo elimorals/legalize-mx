@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1995-08-02"
+last_updated: "1995-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -415,21 +415,19 @@ Los partidos políticos son entidades de interés público que tienen como fin p
 
 Para el cumplimiento de sus fines, los partidos políticos gozarán de las prerrogativas que se señalan en la Ley reglamentaria.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-La preparación, desarrollo, vigilancia, computo y calificación de los procesos electorales, ordinarios y extraordinarios, es una función de interés público que se ejerce a través de los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos, de los ciudadanos y los Ayuntamientos.
+La preparación, desarrollo, vigilancia, computo y calificación de los procesos electorales, ordinarios y extraordinarios, es una función de interés público que se ejerce a través de la acción ciudadana, con la corresponsabilidad de los partidos políticos.
 
-(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 1993)
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-Esta función se realizará a través de un órgano de interés público, pluralmente integrado, profesional en su desempeño, autónomo en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios, el cual será autoridad en la materia, debiendo velar porque los principios de certeza, legalidad, imparcialidad y objetividad, rijan todas las actividades de los procesos electorales; siendo además competente para declarar validas las elecciones ordinarias y extraordinarias de Diputados y de ayuntamientos, declarando electos a los ciudadanos que hayan obtenido la mayoría de votos, extendiéndoles las constancias respectivas, y asignando las Diputaciones y regidurías de representación proporcional correspondientes.
+Esta función se realiza a través de un organismo de interés público, pluralmente integrado, profesional en su desempeño, autónomo en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios, el cual será autoridad en la materia, debiendo velar porque los principios de legalidad, certeza, independencia, imparcialidad, objetividad y equidad, rijan todas las actividades de los procesos electorales; siendo además competente para declarar validas o nulas las elecciones ordinarias y extraordinarias de Diputados, Gobernador y Ayuntamientos, declarar electos a los ciudadanos que hayan obtenido la mayoría de votos, extendiéndoles las constancias respectivas y asignar las diputaciones y regidurías de representación proporcional correspondientes, así mismo, será facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones extraordinarias, cuando procedan.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-El Congreso del Estado se erigirá en Colegio Electoral para calificar las elecciones ordinarias y extraordinarias de Gobernador.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 1993)
-
-La legislación reglamentaria de la materia establecerá un sistema de medios de impugnación de los que conocerán los órganos electorales y un Tribunal Electoral. Este, se constituirá en órgano jurisdiccional de la materia, con la competencia y organización que dicho ordenamiento determine; funcionará en pleno y sus sesiones serán públicas. La interposición de los recursos, en ningún caso producirá efectos suspensivos del acto o resolución impugnada. Sus actos y resoluciones, invariablemente estarán sujetos al principio de legalidad, y darán definitividad a las distintas etapas de los procesos electorales; en tanto que las resoluciones que dicho Tribunal pronuncie con posterioridad a la jornada electoral, se sujetarán a lo dispuesto en la Ley respectiva. Los Magistrados que lo integren, deberán satisfacer cuando menos los requisitos que señala esta Constitución para los Magistrados del Tribunal Superior de Justicia, aunados a los que señale en particular la Ley de la materia. Los Poderes Legislativo y Ejecutivo garantizarán su integración, participación concurrentemente en la designación de sus integrantes, quienes serán independientes y sólo responderán al mandato de la Ley.
+La legislación reglamentaria de la materia establecerá un sistema de medios de impugnación de los que conocerán los órganos electorales y un Tribunal Electoral. Este, se constituirá en órgano jurisdiccional de la materia, con la competencia y organización que dicho ordenamiento determine; funcionará en pleno y sus sesiones serán públicas; la interposición de los recursos, en ningún caso producirán efectos suspensivos del acto o resolución impugnada. Sus actos y resoluciones, invariablemente estarán sujetos al principio de legalidad, y darán definitividad a las distintas etapas de los procesos electorales; en tanto que las resoluciones que dicho tribunal pronuncie con posterioridad a la jornada electoral, se sujetarán a lo dispuesto en la Ley respectiva. Los Magistrados que lo integran deberán satisfacer cuando menos los requisitos que señale esta Constitución para los Magistrados del Tribunal Superior de Justicia, aunado a lo que señale en particular la Ley de la materia. El Poder Legislativo, garantizará la designación de sus integrantes, quienes serán independientes y sólo responderán al mandato de la Ley.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -477,11 +475,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominar�
 
 #### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 ###### Artículo 29.
 
-El Congreso se integra con quince Diputados de mayoría relativa electos por votación directa, secreta y uninominal en quince distritos electorales y nueve diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la ley de la materia establezca.
+El Congreso se integra con dieciocho diputados de mayoría relativa electos por votación directa, secreta y uninominal en dieciocho distritos electorales y nueve diputados de representación proporcional, quienes como resultado de la misma elección, se designaran mediante el procedimiento que la ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -503,9 +501,7 @@ II. Tener 21 años de edad como mínimo;
 
 III. Tener una residencia efectiva no menor de tres años en el estado; y
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-IV. No haber sido sentenciado por delitos dolosos o faltas graves administrativas.
+IV. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -517,11 +513,15 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, el Procurador General de Justicia del Estado, el Subprocurador de Asuntos Electorales, los funcionarios de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección;
+III. Los Secretarios de Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, el Procurador General de Justicia del Estado, el Subprocurador General de Justicia y los servidores públicos de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días naturales antes del día de la elección;
 
-IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en que ejerzan sus funciones y los Presidentes Muncipales (sic) en el Distrito del que forme parte el Municipio de su jurisdicción, si no se han separado unos y otros de sus cargos, cuando menos noventa días antes de la elección; y
+Los Magistrados del Tribunal Electoral del Estado, el Subprocurador de Asuntos Electorales y los Consejeros Ciudadanos del Instituto Estatal Electoral, tampoco podrán serlo, a menos que se separen de su cargo un año antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+
+IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en la que ejerzan sus funciones y los Presidentes Municipales en el Distrito del que forme parte el Municipio de su competencia, si no se han separado unos y otros de sus cargos cuando menos sesenta días naturales antes del día la elección;
 
 V. Los militares que no se hayan separado del servicio activo, cuando menos seis meses antes de la elección.
 
@@ -549,15 +549,9 @@ El cargo de Diputado Propietario y el de Suplente, cuando lo ejerza, es incompat
 
 El Congreso se renovara en su totalidad cada tres años, debiendo de tomar posesión de su cargo los integrantes de la nueva Legislatura, el día primero de abril del año respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
-
 ###### Artículo 37.
 
-Después de efectuadas las elecciones de Gobernador, el Congreso del Estado se erigirá en Colegio Electoral, para calificarlas en definitiva, en los términos de la Ley de la materia.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-Las resoluciones del Colegio Electoral, serán definitivas e irrevocables y ningún Poder, autoridad o funcionario podrán revisar ni poner en duda los títulos de legitimidad de cualquier funcionario declarado electo por el propio Colegio.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 1995)
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -729,23 +723,21 @@ IV. Iniciar Leyes y Decretos ante el Congreso de la Unión;
 
 V. Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda de la Entidad;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
-
-VI. Erigirse en Colegio Electoral para calificar las elecciones ordinarias y extraordinarias de Gobernador; declarando electo como Gobernador Constitucional del Estado, al ciudadano que haya obtenido la mayoría de vottos (sic);
+VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
 VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados, Procurador General de Justicia y Subprocurador de Asuntos Electorales;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-VIII. Aprobar en su caso, la proposición del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal Fiscal Administrativo y Tribunal Electoral. Asimismo, conocer de las renuncias de estos a su encargo.
-
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1995)</small>
+VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, así como conocer de su renuncia o remoción.
 
 Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, así como conocer de su renuncia o remoción;
 
-IX. Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros, cuando el Diputado Suplente en funciones dejare de asistir por cualquiera de los motivos especificados en esta Constitución;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+
+IX. Requerir al Consejo General del Instituto Estatal Electoral convoque a elecciones extraordinarias de Diputados para cubrir las vacantes de sus miembros, cuando se surtan cualquiera de las causas especificadas en esta Constitución;
 
 X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de falta temporal o definitiva de éste;
 
@@ -797,9 +789,9 @@ XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
 
 XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-XXV. En caso de declararse nula cualquiera de las elecciones locales, convocar a elecciones extraordinarias en los términos de la Ley de la materia;
+XXV. Los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Estado, tendrán el carácter de servidores públicos y serán nombrados por el Congreso del Estado, de acuerdo con lo que establezca la Ley de la materia, así mismo, conocerá de su licencia o renuncia; y
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
@@ -809,7 +801,7 @@ XXVI. Las demás que le sean concedidas por esta Constitución.
 
 #### SECCION VI. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION I. DEL GOBERNADOR
 
@@ -817,7 +809,7 @@ XXVI. Las demás que le sean concedidas por esta Constitución.
 
 ###### Artículo 57.
 
-Durante los recesos del Congreso habrá una Comisión Permanente, compuesta de cinco Diputados con el carácter de Propietarios y otros dos como Suplentes.
+Durante los recesos del Congreso habrá una Comisión Permanente, compuesta de siete Diputados con el carácter de propietarios y otros dos como suplentes.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -843,9 +835,9 @@ III. Recibir la protesta al cargo de Gobernador, Magistrados del Tribunal Superi
 
 IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen a fin de que se despachen en el período inmediato de sesiones;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-V. Recibir en su caso los expedientes relativos a las elecciones de Gobernador, Diputados locales y Ayuntamientos para los efectos conducentes;
+V. Conocer las propuestas de nombramiento de los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y las de los Magistrados del Tribunal Electoral del Estado y de su licencia o renuncia, en los términos que establezca la Ley de la materia;
 
 VI. Nombrar con carácter interino a los empleados de la Contaduría Mayor de Hacienda;
 
@@ -853,9 +845,9 @@ VI. Nombrar con carácter interino a los empleados de la Contaduría Mayor de Ha
 
 VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-VIII. Conocer en su caso, la proposición del Ejecutivo, para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal fiscal Administrativo y Tribunal Electoral; y de las renuncias de estos a su encargo. Así como la lista de propuestas que presente el titular del Ejecutivo para el nombramiento del Procurador General de Justicia del Estado y de Subprocurador de Asuntos Electorales, y de su renuncia o remoción;
+VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, de la renuncia de estos a su encargo. Así como la lista de propuestas que presente el titular del Ejecutivo para el nombramiento de Procurador General de Justicia del Estado y de Subprocurador de Asuntos Electorales, y de su renuncia o remoción;
 
 IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado o de los Municipios, respectivamente, en los mismos términos de la fracción XII del artículo 56 de esta Constitución, cuando el Congreso se encuentra en receso;
 
@@ -905,9 +897,11 @@ IV. No pertenecer al Estado eclesiástico, ni ser ministro de culto religioso;
 
 V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seguridad Pública; en ambos casos, dentro de los noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-VI. No ser servidor público federal o local, Secretario del Despacho del Ejecutivo, Procurador General de Justicia del Estado, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, o del Tribunal Electoral, Diputado Local o Presidente Municipal en funciones, noventa días antes de la fecha de la elección.
+VI. No ser servidor público federal o local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, Diputado Local o Presidente Municipal en funciones a menos de que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
+
+No ser Magistrado del Tribunal Electoral del Estado, Subprocurador de Asuntos Electorales o Consejero Ciudadano del Consejo General del Instituto Estatal Electoral, a menos que se separen de su cargo un año antes de la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -935,15 +929,19 @@ Al tomar posesión de su cargo el Gobernador rendirá la protesta ante el Congre
 
 "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE HIDALGO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO, QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACION Y DEL ESTADO DE HIDALGO, SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 ###### Artículo 66.
 
-En caso de falta absoluta de Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en votación secreta y por mayoría absoluta de votos, un Gobernador interino, expidiendo dentro de los treinta días siguientes, el propio Congreso, la convocatoria para la elección de Gobernador Constitucional que habrá de concluir el período correspondiente.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en período ordinario, convocará inmediatamente a sesión y concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en votación secreta y por mayoría de votos, un Gobernador Interino, notificando lo actuado al Consejo General del Instituto Estatal Electoral, requiriéndole convocar a elecciones extraordinarias para elegir al Gobernador Constitucional que habrá de concluir el período correspondiente.
 
-Entre la fecha de la convocatoria y la que se señale para efectuar las elecciones, deberá haber un plazo no menor de tres meses, ni mayor de seis.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-Si el Congreso del Estado, no estuviere en sesiones, la Comisión Permanente nombrará, desde luego, un Gobernador provicional (sic) y convocará inmediatamente a sesiones extraordinarias al Congreso para que éste a su vez, designe al gobernador interino, conforme lo previene el párrafo primero de este artículo, y expida la convocatoria a elecciones para Gobernador Constitucional que termine el ejercicio constitucional.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+
+Si el Congreso del Estado, no estuviere en período ordinario de sesiones, la Comisión Permanente nombrará desde luego, un Gobernador Provisional y convocará inmediatamente a sesión extraordinaria al Congreso para que este, a su vez, designe al Gobernador Interino, conforme como lo previene el párrafo primero de este artículo.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Cuando la falta absoluta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrare en sesiones, designará en votación secreta y por mayoría absoluta de votos de los diputados presentes, el Gobernador sustituto que habrá de concluir el ejercicio constitucional, concurriendo cuando menos las dos terceras partes del número total de sus miembros. Si el Congreso del Estado no estuviere reunido, la Comisión Permanente nombrará un Gobernador provisional, y convocará inmediatamente al Congreso del Estado a sesión extraordinaria para que, erigido en Colegio Electoral, haga la designación de Gobernador en los términos ya señalados arriba.
 
@@ -1011,9 +1009,9 @@ XII. Nombrar y remover libremente a los Secretarios de Despacho y a todos los em
 
 XIII. Nombrar a los funcionarios y agentes integrantes de los cuerpos de Seguridad Pública y a los responsables de los servicios públicos, que en todos los casos se consideren como empleados de confianza;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal Fiscal Administrativo y Tribunal Electoral con la aprobación del Congreso y recibir sus renuncias, para tramitarlas en los términos de Ley. Para la integración del Tribunal Electoral, se estará a lo dispuesto en la Ley de la materia;
+XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo con la aprobación del Congreso del Estado y recibir sus renuncias para tramitarlas en términos de Ley;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1991)</small>
 
@@ -1027,9 +1025,7 @@ XVI. Proponer al Tribunal Superior de Justicia, la modificación de la división
 
 XVII. Conceder licencia a los servidores públicos que se expresan en la fracción XII, en los términos que fijen las leyes;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-XVIII. Convocar a elecciones extraordinarias de Diputados, llegado el caso, cuando por cualquier motivo haya desaparecido el Poder Legislativo;
+XVIII. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
 XIX. Organizar y fomentar la Educación Pública en el Estado;
 
@@ -1349,17 +1345,25 @@ V. Haber residido en el País durante los últimos cinco años, salvo el caso de
 
 Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que haya prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 ###### Artículo 96.
 
-Los nombramientos de Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado o a la Comisión Permanente, en su caso, serán aprobados o desechados dentro del improrrogable término de diez días.
+Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado o a la Comisión Permanente, en su caso, serán aprobados o no, dentro del improrrogable término de diez días.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Si el Congreso del Estado o la Comisión Permanente en su caso, nada resolvieren dentro del plazo señalado, se tendrán por aprobados los nombramientos, y el o los designados entrarán a desempeñar sus funciones.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
 En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero, que surtirá efecto desde luego, como provisional y será sometido a la consideración del Congreso del Estado en el siguiente Período de sesiones.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
 Dentro de los primeros diez días de sesiones del Congreso del Estado se deberá aprobar o rechazar el nombramiento; si nada se resuelve el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter definitivo, y el Gobernador hará la declaratoria correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
 
@@ -1785,19 +1789,21 @@ III. Tener 21 años de edad el día de la elección;
 
 IV. Tener modo honesto de vivir;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
-V. No desempeñar cargos o comisiones del Gobierno Federal o Estatal, en la circunscripción del municipio, a excepción de los docentes, a menos que se separe de aquellos con 60 días de anticipación al día de la elección;
+V. No desempeñar cargo o comisiones del Gobierno Federal o Estatal, en la circunscripción del Municipio, a excepción de los docentes, a menos que se separen de aquéllos cuando menos con sesenta días naturales de anticipación al día de la elección.
+
+Los Magistrados del Tribunal Electoral, el Subprocurador de Asuntos electorales y los consejeros ciudadanos del Consejo General del Instituto Estatal Electoral, deberán de separarse de su encargo cuando menos seis meses antes al día de la elección;
 
 VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiástico; y
 
 VII. Saber leer y escribir.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 ###### Artículo 135.
 
-La elección de los miembros de los Ayuntamientos será declarada valida por el organismo electoral que señale la Ley de la materia.
+La elección de los miembros de los Ayuntamientos será declarada valida o nula por el organismo electoral que señale la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1805,15 +1811,21 @@ La elección de los miembros de los Ayuntamientos será declarada valida por el 
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramientos o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de Suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 ###### Artículo 137.
 
-En caso de falta absoluta del ayuntamiento, en el primer año, si el Congreso está reunido, designará un Consejo Municipal interino y convocará a elecciones extraordinarias de ayuntamiento que deba terminar el período. Si el Congreso no está reunido, la Comisión Permanente nombrará un Consejo Municipal provisional y convocará a sesión extraordinaria para los efectos anteriores.
+En caso de falta absoluta del Ayuntamiento en el primer año, si el Congreso del Estado estuviere en período ordinario de sesiones, designará un Consejo Municipal interino y notificará lo actuado, al Consejo General del Instituto Estatal Electoral, requiriéndole convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período. Si el Congreso no estuviere en período ordinario, la Comisión Permanente nombrará un Consejo Municipal provisional y convocará al Congreso a sesión extraordinaria para los efectos anteriores.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las elecciones, se hubiesen declarado nulas, no se presente el Ayuntamiento a rendir la protesta, por renuncia mayoritaria de sus miembros, por haber sido declarados desaparecidos los poderes municipales, o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
 Si la Falta absoluta de Ayuntamiento acontece los dos últimos años, el Congreso nombrará un Consejo Municipal sustituto que termine el período y si no se encuentra reunido, la Comisión Permanente nombrará un Concejo Municipal provisional y citará al Congreso a sesión extraordinaria para los efectos indicados.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Si alguno de los miembros del Ayuntamiento dejara de desempeñar su cargo, será sustituido por su suplente o se precederá según lo disponga la ley.
 
@@ -2415,7 +2427,7 @@ P.O. 8 DE NOVIEMBRE DE 1948.
 
 DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
 
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación el en Periódico Oficial del Estado.
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE FEBRERO DE 1952.
 
@@ -2636,5 +2648,9 @@ P.O. 6 DE SEPTIEMBRE DE 1993.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE AGOSTO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
