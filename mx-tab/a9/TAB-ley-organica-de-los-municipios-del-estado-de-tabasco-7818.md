@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-7818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-04"
-last_updated: "1998-09-30"
+last_updated: "1999-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 4 de febrero de 1984.
 
@@ -741,9 +741,9 @@ I. Realizar las acciones necesarias para el desarrollo municipal, siguiendo los 
 
 II. Formular y someter a la aprobación del Ayuntamiento el Bando de Policía y Buen Gobierno, los Reglamentos, Circulares y demás disposiciones administrativas de observancia general, así como promulgarlos, publicarlos, vigilar y sancionar su cumplimiento;
 
-> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-III. Elaborar los Planes y Programas Municipales de acuerdo a las Leyes respectivas, así como el Presupuesto de Ingresos y Egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
+III. Elaborar los Planes y Programas Municipales de acuerdo a las Leyes respectivas, así como el Presupuesto de Ingresos y Egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un periodo Constitucional, el primero, dentro de los cuatro primeros meses y, posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada Ejercicio Fiscal Anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones;
 
 IV. Ejecutar los planes y programas municipales a que hace referencia la fracción anterior, así como llevar los controles presupuestales correspondientes para formular la cuenta pública, que será sometida a la Legislatura Local por medio del Ayuntamiento;
 
@@ -1570,3 +1570,13 @@ P.O. 30 DE SEPTIEMBRE DE 1998
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 16 DE JUNIO DE 1999
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
