@@ -4,7 +4,7 @@ identifier: "MIC-ley-inquilinaria-del-estado-de-michoacan-6128"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-24"
-last_updated: "1984-12-24"
+last_updated: "1986-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY INQUILINARIA DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1986.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 24 de diciembre de 1984.
 
@@ -45,35 +45,59 @@ Esta Ley tiene por objeto regir dentro del territorio del Estado, el arrendamien
 
 Se declaran de orden público las disposiciones de esta Ley e irrenunciables los beneficios que consagra.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 ###### Artículo 3o.
 
-El contrato de arrendamiento para su validez, deberá otorgarse por escrito y registrarse ante la oficinas catastrales, en él deberá constar el monto de la renta en moneda nacional.
+El contrato de arrendamiento, para su validez deberá otorgarse por escrito y registrarse ante la Oficina rentística del lugar, en él deberá constar el monto de la renta en moneda nacional y contener cuando menos las siguientes estipulaciones:
+
+I. Nombres del arrendador y arrendatario;
+
+II. La ubicación del inmueble;
+
+III. Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo;
+
+IV. La garantía, en su caso;
+
+V. La mención del destino habitacional del inmueble arrendado;
+
+VI. El término del contrato; y
+
+VII. Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 4o.
 
-El monto de la renta por mes, nunca podrá ser superior al 0.5% mensual del valor catastral de la finca.
+El monto de la renta mensual, al inicio del contrato, será estipulado libremente por los contratantes. La renta sólo podrá incrementarse anualmente. Dicho incremento no excederá del setenta por ciento del porcentaje autorizado al salario mínimo general de la zona económica en donde se encuentre el inmueble, en el lapso anual próximo anterior a la fecha en que el contrato se renueve o se prorrogue.
 
-Si la finca se compone de apartamentos, locales o cuartos, el monto de la renta de ellos se determinará en relación a su extensión y comodidades, pero sin rebasar el valor que proporcionalmente les corresponda del valor catastral del edificio, vecindad o casa de que formen parte.
-
-Será nula de pleno derecho la estipulación de renta que rebase los límites señalados en este artículo, por lo que en tal caso, el arrendatario sólo pagará el máximo legal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 5o.
 
-Para los efectos del artículo anterior, se considera como valor catastral de las fincas el que aparezca en las oficinas catastrales correspondientes.
+Para darse en arrendamiento un inmueble, éste deberá reunir las condiciones de higiene y salubridad exigidas por la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 6o.
 
-Cuando el arrendador estimare que a la finca le corresponde un valor diferente, podrá ocurrir ante la oficina catastral correspondiente a solicitar su revaluación, conforme a la Ley de la materia.
+El arrendador que no haga las obras que ordene la autoridad sanitaria correspondiente, como necesarias para que un inmueble sea habitable e higiénico, es responsable de los daños y perjuicios que los inquilinos sufran por esta causa.
 
-Si la revaluación resultare procedente y el arrendador pretendiere aumentar el monto de la renta, lo notificará al arrendatario dentro de los quince días siguientes a la revaluación. De haber acuerdo entre las partes, celebrarán el convenio correspondiente y se presentará ante las oficinas catastrales para los efectos de los artículo 26 y 27 de esta Ley, de lo contrario el arrendador podrá ocurrir a la autoridad judicial competente, para que fije el monto de la renta.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 7o.
 
-En cualquiera de los supuestos a que se refiere el artículo anterior, el nuevo monto de la renta entrará en vigor a los dos meses de autorizada la revaluación.
+El arrendamiento de fincas destinadas a la habitación no termina por la muerte del arrendador ni por la del arrendatario, sino sólo por los motivos establecidos en las Leyes.
+
+Con exclusión de cualquier otra persona, el cónyuge, la o el concubino, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieren habitado real y permanentemente el inmueble en vida del arrendatario.
+
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 8o.
 
-Lo dispuesto en el artículo anterior también regirá para los casos en que la autoridad catastral efectúe de oficio la revaluación.
+El arrendatario, si está al corriente en el pago de la renta, tendrá derecho a que, en igualdad de condiciones, se le prefiera a cualquier otro interesado en el nuevo arrendamiento del inmueble.
 
 ###### Artículo 9o.
 
@@ -95,11 +119,13 @@ La renta deberá pagarse en el lugar y plazos señalados en el contrato, a falta
 
 Cuando se arriende una finca amueblada, o cuando la finca cuente con algún local anexo que se destine a uso distinto del de habitación, las disposiciones de esta ley sólo serán aplicables respecto de la finca en si misma considerada, debiendo ser objeto de contrato por separado y regirse por las disposiciones del Código Civil, en sus respectivos casos, el arrendamiento de los Inmuebles o de los locales anexos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 ###### Artículo 14.
 
-La duración mínima del contrato de arrendamiento, será por dos años, pero el arrendatario podrá darlo por terminado previo aviso que dé al arrendador, con dos meses de anticipación y con intervención de fedatario público o mediante diligencias de jurisdicción voluntaria.
+La duración mínima de todo contrato de arrendamiento de fincas destinadas a la habitación será de un año forzoso para el arrendador y potestativo para el arrendatario. Este podrá darlo por terminado previo aviso que haga al arrendador, con dos meses de anticipación, e interviniendo un fedatario público o mediante diligencias de jurisdicción voluntaria.
 
-Cuando se den los supuestos del artículo 2338 del Código Civil del Estado, el contrato podrá prorrogarse hasta por dos años pero en lo que ve al aumento del monto de la renta, se estará a lo dispuesto por los artículos 4o. y 6o. de esta Ley.
+El contrato de arrendamiento será prorrogable a voluntad del arrendatario hasta por dos años, siempre y cuando se encuentre al corriente en el pago de las rentas, pero en lo relativo al aumento del monto de la renta, se estará a lo dispuesto por el Artículo 4o. de este Ordenamiento.
 
 ###### Artículo 15.
 
@@ -129,17 +155,21 @@ El arrendador deberá entregar la finca con expresa descripción de las partes d
 
 La Ley presume que el arrendador que entregó la finca arrendada sin la descripción a que se refiere el artículo anterior, la entregó tal como le fue devuelta, salvo prueba en contrario.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 ###### Artículo 21.
 
-Si el juicio de desocupación se siguiere por falta de pago de rentas, el juez dará por concluidos los procedimientos en el momento en que el arrendatario exhibiere el pago o el documento que ampare las rentas reclamadas.
+Para todos los efectos legales derivados de los contratos de arrendamiento de fincas destinadas a la habitación, el arrendador deberá exhibir necesariamente el contrato de arrendamiento.
 
 ###### Artículo 22.
 
 La sentencia definitiva que decrete el desahucio señalará un plazo no menor de quince días ni mayor de treinta para la desocupación, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 ###### Artículo 23.
 
-Lo dispuesto en los artículos 21 y 22 no eximirá al arrendatario de la obligación de pagar las rentas correspondientes a los plazos que con base en dichos preceptos se le concedan y se entenderá sin perjuicio del derecho que le confiere el párrafo segundo del artículo 668 del Código de Procedimiento Civiles del Estado.
+Lo dispuesto en el Artículo 22 no eximirá al arrendatario de la obligación de pagar las rentas correspondientes a los plazos que con base en dicho precepto se le concedan y se entenderá sin perjuicio del derecho que le confiere el párrafo segundo del Artículo 668 del Código de Procedimiento Civiles del Estado.
 
 ###### Artículo 24.
 
@@ -147,41 +177,47 @@ Al practicarse la diligencia de requerimiento o la de lanzamiento, en su caso, n
 
 Lo dispuesto en este artículo es aplicable al embargo precautorio.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 ###### Artículo 25.
 
-En las oficinas catastrales habrá un registro de contratos de arrendamiento al que tendrán acceso todas las personas interesadas.
+En las oficinas rentísticas habrá un registro de contratos de arrendamiento, al que tendrán acceso todas las personas interesadas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 26.
 
-Los arrendadores, dentro de los 30 días siguientes a la firma del contrato, deberán presentarlo para su registro ante las oficinas catastrales correspondientes. Estas oficinas verificarán que el monto de la renta se ajuste a las disposiciones de esta Ley y si advierten que las rebasa, no lo registrarán, anotando en él, que por darse el supuesto del último párrafo del artículo 4o. de esta Ley, el arrendatario sólo podrá pagar el máximo legal, especificando su monto.
+Los arrendadores, dentro de los treinta días siguientes a la firma del contrato, deberán presentarlo para su registro ante la oficina rentística correspondiente.
 
 ###### Artículo 27.
 
 Para los efectos de los artículos 25 y 26 los contratos de arrendamiento serán presentados por cuadruplicado; debiendo la oficina registradora devolver sellados el original y el duplicado al arrendador y conservar en sus archivos los otros dos tantos. El arrendador estará obligado a entregar sellado el duplicado al arrendatario, a más tardar en un mes después de su registro.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 ###### Artículo 28.
 
-El arrendador se hará acreedor a una multa hasta por el equivalente a tres mensualidades de la renta que el inquilino deba pagar por la finca, en los siguientes casos:
+Una vez cumplido el requisito del registro, el arrendador entregará al arrendatario, una copia registrada del contrato.
 
-I. Por no otorgar el arrendamiento por escrito; y
-
-II. Por no presentar el contrato de arrendamiento para su registro dentro del término legal, o por no entregar a sus inquilinos después de registrado el contrato, el duplicado que les corresponde.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 29.
 
-Las multas se impondrán por la dependencia catastral que corresponda, previa audiencia que se concederá al interesado para que en el término de tres días contados a partir del día siguiente al de la notificación de la resolución que inicia el procedimiento exhiba pruebas y formule los alegatos que a su derecho convengan. El arrendador tiene quince días a partir del día siguiente de la notificación de la multa, para subsanar o desaparecer la causa generadora de la misma. en caso de no hacerlo la multa se triplicará.
+El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
 
-La resolución que imponga una multa admitirá el recurso de revocación en los términos del Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### Artículo 30.
 
-Las multas que se impongan en aplicación de esta Ley, en ningún caso serán condonables en su totalidad.
+El inquilino tendrá derecho para registrar su copia del contrato de arrendamiento ante la autoridad correspondiente.
 
 ###### Artículo 31.
 
 Los arrendadores tendrán derecho a pedir la rescisión del contrato de arrendamiento en los siguientes casos:
 
-I. Por falta de pago de 3 mensualidades. En este caso, el procedimiento se dará por concluido en los términos del artículo 18 de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+I. Por falta de pago de tres mensualidades;
 
 II. Por el subarrendamiento total o parcial del inmueble sin el consentimiento escrito del propietario;
 
@@ -211,7 +247,7 @@ T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
-Se derogan las disposiciones contenidas en otras leyes, exclusivamente respecto a lo que ésta preve para el arrendamiento de fincas para habitación.
+Se derogan las disposiciones contenidas en otras leyes, exclusivamente respecto a lo que ésta prevé para el arrendamiento de fincas para habitación.
 
 ###### ARTICULO SEGUNDO.
 
@@ -228,3 +264,29 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Michoacán de Ocampo, a 20 de Diciembre
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Mich., a los 21 veintiún días del mes de diciembre de 1984.
 
 Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones contenidas en otras leyes, exclusivamente respecto a lo que ésta prevé para el arrendamiento de fincas para habitación.
+
+###### ARTICULO SEGUNDO.
+
+Se prorrogan por tres años los contratos sujetos a las disposiciones del Decreto Legislativo número 63 publicado en Periódico Oficial Número 17 de fecha 29 de diciembre de 1983, los que quedarán sujetos a las mismas condiciones imperantes que estableció ese decreto. Al concluir los tres años, el monto de la renta podrá incrementarse conforme a lo dispuesto en el artículo 4o. de esta Ley, tomando como base, para ello, la última renta mensual del término de prórroga.
+
+###### ARTICULO TERCERO.
+
+Se prorrogan por tres años los contratos sujetos a las disposiciones del Decreto Legislativo Número 172, publicado en el Periódico Oficial Número 25, de fecha 24 de diciembre de 1984, los que quedarán sujetos a las mismas condiciones imperantes que estableció esa Ley.
+
+Al concluir los tres años, el monto de la renta podrá incrementarse conforme a lo dispuesto en el Artículo 4º. de este Ordenamiento, tomando como base, para ello, la última renta mensual del término de prórroga.
+
+###### ARTICULO CUARTO.
+
+Los juicios y procedimientos judiciales en trámite, que tengan por objeto cualquiera de las acciones derivadas de los contratos, de arrendamiento de fincas destinadas a la habitación, seguirán promoviéndose, hasta su terminación, conforme a las disposiciones de la Ley Inquilinaria publicada en el Periódico Oficial No. 25 de fecha 24 de diciembre de 1984.
+
+###### ARTICULO QUINTO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
