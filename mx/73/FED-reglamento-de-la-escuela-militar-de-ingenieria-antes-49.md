@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-ingenieria-antes-49"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2001-06-22"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,13 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE INGENIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República
 
-CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en uso de la facultad que me confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 3o., 17,122 y 124 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, 1o. de la Ley que crea la Universidad del Ejército y Fuerza Aérea, así como el artículo 29 fracciones l y Xlll de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en uso de la facultad que me confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 3o., 17,122 y 124 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, 1o. de la Ley que crea la Universidad del Ejército y Fuerza Aérea, así como el artículo 29 fracciones I y XIII de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
 
 REGLAMENTO DE LA ESCUELA MILITAR DE INGENIEROS
 
@@ -335,7 +335,7 @@ I. Representar a la Escuela Militar de Ingenieros;
 
 II. Hacer cumplir las directivas establecidas en el Plan General de Educación Militar, por lo que se refiere a la educación militar superior;
 
-lII. Administrar los recursos humanos, económicos y materiales puestos a su disposición;
+III. Administrar los recursos humanos, económicos y materiales puestos a su disposición;
 
 IV. Impulsar permanentemente la investigación científica y tecnológica en el plantel;
 
@@ -405,7 +405,7 @@ V. Revisar y someter a la consideración del Director del plantel, los proyectos
 
 VI. Recomendar los cambios necesarios en la organización y funcionamiento del plantel;
 
-Vll. Coordinar y consolidar los informes de los diferentes órganos que integran el plantel, para presentarlos al Director;
+VII. Coordinar y consolidar los informes de los diferentes órganos que integran el plantel, para presentarlos al Director;
 
 VIII. Coordinar y supervisar la elaboración y actualización permanente del Manual de Organización y Funcionamiento del plantel;
 
@@ -427,7 +427,7 @@ XIV. Las que sean asignadas por la superioridad.
 
 ###### ARTICULO 13.
 
-El Cuerpo de Cadetes y Oficiales en lnstrucción de la Escuela Militar de Ingenieros, está a cargo de un Teniente Coronel o Mayor de Arma, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
+El Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Ingenieros, está a cargo de un Teniente Coronel o Mayor de Arma, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -937,7 +937,7 @@ A. Jefes de las secciones Pedagógica, Académica, Estudios de Posgrado y de Inv
 
 B. Jefes de las subsecciones de las secciones Pedagógica, Académica, Estudios de Posgrado y de Investigación, Difusión y Doctrina Militar.
 
-IlI. Docente:
+III. Docente:
 
 A. Profesores; y
 
@@ -1181,7 +1181,7 @@ El personal en instrucción que utilice medios fraudulentos para resolver un exa
 
 El examen profesional será calificado en los términos siguientes:
 
-I. APROBADO POR UNANlMIDAD;
+I. APROBADO POR UNANIMIDAD;
 
 II. APROBADO POR MAYORIA; o
 
@@ -1339,27 +1339,27 @@ El personal en instrucción que repruebe un examen especial, no podrá reingresa
 
 ### CAPITULO I. De los Títulos, Certificados y Patentes
 
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 78.
 
-El personal en instrucción que termine satisfactoriamente sus estudios en el plantel recibirá:
+El personal en instrucción que termine satisfactoriamente sus estudios y apruebe el examen profesional recibirá:
 
-I. Título Profesional;
+I. Certificado de Estudios;
 
-II. Certificado de Estudios; y
+II. Título Profesional;
 
-III. Patente correspondiente.
+III. Grado de Capitán Primero Ingeniero Constructor, Industrial, en Comunicaciones y Electrónica o en Computación e Informática, según corresponda;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+IV. Patente;
 
-IV. Certificado de estudios y diploma de especialización para el personal en instrucción de los cursos de especialización;
+V. Placa distintiva de la escuela;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+VI. Certificado de Estudios y Diploma de especialización para el personal en instrucción de los cursos de especialización, y
 
-V. Certificado de estudios y Grado Académico para el personal en instrucción de los cursos de Maestría, y
+VII. Certificado de estudios y Grado Académico para el personal en instrucción de los cursos de Maestría.
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-VI. Al personal militar de procedencia extranjera únicamente se le expedirá título profesional y certificado de estudios.
+Al personal militar de procedencia extranjera, únicamente se le expedirá Título Profesional y Certificado de Estudios.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1397,7 +1397,7 @@ VI. Otros que autorice la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 81.
 
-El personal en instrucción del plantel que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá: Placa Distintiva de la Escuela.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
@@ -1421,7 +1421,7 @@ El personal de Cadetes, cumplirá su arresto los sábados y domingos de franquic
 
 ###### ARTICULO 85.
 
-La graduación de arrestos impuestos a los Cadetes, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 (quinientos) durante el ciclo Iectivo, será motivo de baja del plantel, siempre y cuando determine mala conducta el Consejo de Honor.
+La graduación de arrestos impuestos a los Cadetes, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 (quinientos) durante el ciclo lectivo, será motivo de baja del plantel, siempre y cuando determine mala conducta el Consejo de Honor.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1516,3 +1516,9 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
