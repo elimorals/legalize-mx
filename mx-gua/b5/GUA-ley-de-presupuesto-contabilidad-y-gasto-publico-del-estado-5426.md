@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5426
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-04"
-last_updated: "1987-09-04"
+last_updated: "1991-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1991.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 4 de septiembre de 1987.
 
@@ -41,11 +41,13 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE GUANAJUATO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 1.
 
-El presupuesto, la contabilidad y el gasto público estatal, se norman por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Planeación, por la Secretaría de Administración Financiera y la Secretaría de la Contraloría del Estado, en las distintas áreas de su competencia.
+El presupuesto, la contabilidad y el gasto público estatal, se norman por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Planeación y Finanzas, por la Secretaría de la Contraloría del Estado, y la Coordinación General de Administración, en las distintas áreas de su competencia.
 
-Los Poderes Legislativo y Judicial, la aplicarán en el ámbito de sus respectivas atribuciones.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 2.
 
@@ -65,9 +67,11 @@ VI.- Los Organismos Paraestatales;
 
 A los Poderes, Secretarías, Procuraduría y Organismos Paraestatales antes citados, se les denominará genéricamente en esta Ley como "Entidades", salvo mención expresa.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 3.
 
-La Programación del gasto público estatal se basará en las directrices y planes estatales de desarrollo económico y social que formule el Ejecutivo Estatal por conducto de la Secretaría de Planeación.
+La programación del Gasto Público Estatal, se basará en las directrices y planes estatales de desarrollo económico y social que formule el Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 4.
 
@@ -81,47 +85,63 @@ Las Dependencias del Ejecutivo, orientarán y coordinarán la planeación, la pr
 
 Cada entidad contará con una coordinación administrativa encargada de planear, programar, presupuestar, controlar y evaluar sus actividades respecto al gasto público.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 7.
 
-El Ejecutivo Estatal autorizará por conducto de la Secretaría de Planeación, la participación estatal en las empresas, sociedades o asociaciones civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos.
+El Ejecutivo Estatal autorizará por conducto de la Secretaría de Planeación y Finanzas, la participación estatal en las empresas, sociedades o asociaciones civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 8.
 
-Sólo se podrán constituir o incrementar fideicomisos con autorización del Ejecutivo del Estado, emitida por conducto de la Secretaría de Planeación, la que en su caso propondrá al propio Ejecutivo Estatal la modificación o disolución de los mismos cuando así convenga al interés público.
+Sólo se podrán constituir o incrementar fideicomisos con autorización del Ejecutivo del Estado, emitida por conducto de la Secretaría de Planeación y Finanzas, la que en su caso propondrá al propio Ejecutivo Estatal la modificación o disolución de los mismos cuando así convenga al interés público.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 9.
 
-En los términos de la fracción XIV del artículo 63 de la Constitución Local, se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las fracciones de la III a la VI del artículo 2 de esta Ley, que anteriormente hayan sido aprobados por el Ejecutivo, a través de la Secretaría de Planeación.
+En los términos de la fracción XIV del artículo 63 de la Constitución Local, se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las fracciones de la III a la VI del artículo 2 de esta Ley, que anteriormente hayan sido aprobados por el Ejecutivo, a través de la Secretaría de Planeación y Finanzas.
 
-Estos créditos se gestionarán por conducto de la Secretaría de Administración Financiera.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría de Planeación estará obligada a proporcionar, a solicitud del Congreso del Estado, todos los datos estadísticos e información general que contribuya a una mejor comprensión de las proposiciones contenidas en el Proyecto de Presupuesto de Egresos del Estado.
+La Secretaría de Planeación y Finanzas estará obligada a proporcionar, a solicitud del Congreso del Estado, todos los datos estadísticos e información general que contribuya a una mejor comprensión de las proposiciones contenidas en el proyecto de presupuesto de egresos del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 11.
 
-En caso de duda en la interpretación de esta Ley, se estará a lo que resuelva para efectos administrativos, el Ejecutivo a través de la Secretaría de Planeación.
+En caso de duda en la interpretación de esta Ley, se estará a lo que resuelva, para efectos administrativos, el Ejecutivo a través de la Secretaría de Planeación y Finanzas.
 
-### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO ESTATAL
+### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
 
 ###### ARTICULO 12.
 
 El gasto público estatal se basará en el presupuesto anual de gastos, que se formulará con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 13.
 
-Para la formulación del proyecto del Presupuesto de Egresos del Estado, las entidades que señalan las fracciones III, IV, V, y VI del artículo 2 de esta Ley, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos y los remitirán antes del 30 de septiembre de cada año a la Secretaría de Planeación y Finanzas, de acuerdo con las normas y montos que el Ejecutivo establezca por medio de esta Secretaría.
+Para la formulación del proyecto del presupuesto de egresos del Estado, las entidades que señalan las fracciones III, IV, V, y VI del artículo 2 de esta ley, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos y los remitirán antes del 30 de septiembre de cada año a la Secretaría de Planeación y Finanzas, de acuerdo con las normas y montos que el Ejecutivo establezca por medio de esta Secretaría.
 
 Los Poderes Legislativo y Judicial formularán sus respectivos proyectos de presupuesto y lo enviarán oportunamente al Ejecutivo Estatal, para que ordene su incorporación al Proyecto de Presupuesto de Egresos del Estado, atendiendo a las previsiones del ingreso y del gasto público estatal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 14.
 
-La Secretaría de Planeación, al examinar los anteproyectos de presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+La Secretaría de Planeación y Finanzas, al examinar los anteproyectos de presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 15.
 
-La Secretaría de Planeación queda facultada para formular el Proyecto de Presupuestos de las Entidades, cuando no se le sea presentado en los plazos que al efecto se les hubieren señalado.
+La Secretaría de Planeación y Finanzas queda facultada para formular el proyecto de presupuestos de las entidades, cuando no se le sea presentado en los plazos que al efecto se les hubieren señalado.
 
 ###### ARTICULO 16.
 
@@ -145,13 +165,17 @@ VIII.- Comentario sobre las condiciones económicas, financieras y hacendarias a
 
 IX.- En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 17.
 
-Todas las proposiciones de aumento o creación de partidas al Proyecto de Presupuesto de Egresos, deberán ser autorizadas por el Ejecutivo del Estado a través de la Secretaría de Planeación, de conformidad a lo que establezcan las disposiciones generales del Presupuesto de Egresos del año fiscal de que se trate.
+Todas las proposiciones de aumento o creación de partidas al proyecto de presupuesto de egresos, deberán ser autorizadas por el Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas, de conformidad a lo que establezcan las disposiciones generales del presupuesto de egresos del año fiscal de que se trate.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 18.
 
-El Proyecto de Presupuesto de Egresos deberá ser presentado oportunamente al Gobernador Constitucional del Estado por la Secretaría de Planeación para ser enviado al H. Congreso del Estado a más tardar el día 5 de diciembre del año anterior al que corresponda.
+El proyecto de presupuesto de egresos deberá ser presentado oportunamente al Gobernador Constitucional del Estado por la Secretaría de Planeación y Finanzas, para ser enviado al H. Congreso del Estado a más tardar el día 5 de Diciembre del año anterior al que corresponda.
 
 ###### ARTICULO 19.
 
@@ -169,59 +193,77 @@ El Presupuesto Anual de Egresos del Estado, será el que contenga el decreto que
 
 El Presupuesto de Egresos del Estado, comprenderá las previsiones de gasto público de las entidades a que se refiere el artículo 2 en sus fracciones de la I a la V, de esta Ley, y en Capítulo Especial las de las Entidades mencionadas en la fracción VI del propio artículo.
 
-### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
+### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO ESTATAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 23.
 
-El Ejecutivo Estatal por conducto de la Secretaría de Planeación, podrá asignar los recursos que se obtengan en exceso de los previstos por el Presupuesto de Egresos del Estado, a los Programas prioritarios o estratégicos que considere convenientes y autorizará los traspasos de partidas, otorgando la participación que corresponda a las Entidades interesadas; tratándose de ingresos extraordinarios derivados de empréstitos, el gasto se ajustará a lo dispuesto por el Presupuesto de Egresos.
+El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, podrá asignar los recursos que se obtengan en exceso de los previstos por el presupuesto de egresos del Estado, a los programas prioritarios o estratégicos que considere convenientes y autorizará los traspasos de partidas, otorgando la participación que corresponda a las entidades interesadas; tratándose de ingresos extraordinarios derivados de empréstitos, el gasto se ajustará a lo dispuesto por el presupuesto de egresos.
 
 El Ejecutivo, al presentar al Congreso del Estado la Cuenta Anual de la Hacienda Pública Estatal, informará de los movimientos que efectúe con base en esta disposición.
 
 El gasto público estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos, para aquellas erogaciones cuyo monto no sea posible prever.
 
-El Ejecutivo Estatal podrá autorizar subsidios para las inversiones específicas que se otorguen a los municipios, instituciones o particulares, quienes informarán a través de la Secretaría de Planeación la aplicación que se haga de los mismos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
+El Ejecutivo Estatal podrá autorizar subsidios para las inversiones específicas que se otorguen a los municipios, instituciones o particulares, quienes informarán a través de la Secretaría de Planeación y Finanzas la aplicación que se haga de los mismos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 24.
 
-La Secretaría de Administración Financiera por sí y a través de sus diversas oficinas, efectuará los cobros y los pagos correspondientes a las Entidades previstas en las fracciones III, y IV y V del artículo 2 de esta Ley.
+La Secretaría de Planeación y Finanzas, por sí y a través de sus diversas oficinas, efectuará los cobros y los pagos correspondientes a las entidades previstas en las fracciones III, IV y V del artículo 2 de esta ley.
 
 Los pagos correspondientes a los Poderes Legislativo y Judicial, se efectuarán por conducto de sus respectivas Undades (sic) Administrativas.
 
-La ministración de los fondos correspondientes será autorizada en todos los casos por la Secretaría de Planeación, de conformidad con el Presupuesto de Egresos de la Entidad, aprobado en el Decreto del H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
+La ministración de los fondos correspondientes será autorizada en todos los casos por la Secretaría de Planeación y Finanzas, de conformidad con el presupuesto de egresos de la entidad, aprobado en el decreto del H. Congreso del Estado.
 
 Las Entidades citadas en la fracción VI del mismo artículo 2, recibirán sus fondos y harán pagos a través de sus propias Unidades Administrativas.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 25.
 
-El Gobernador del Estado, por conducto de la Secretaría de Planeación, podrá disponer que los fondos y pagos correspondientes a las entidades citadas en la fracción VI del artículo 2, incluidas en el Presupuesto de Egresos del Estado, se manejen, temporal o permanentemente de manera centralizada en esa misma Secretaría de Administración Financiera, en los términos previstos por el primer párrafo del artículo 24 de esta Ley.
+El Gobernador del Estado, por conducto de la Secretaría de Planeación y Finanzas, podrá disponer que los fondos y pagos correspondientes a las entidades citadas en la fracción VI del artículo 2, incluidas en el Presupuesto de Egresos del Estado, se manejen, temporal o permanentemente de manera centralizada en esa misma Secretaría, en los términos previstos por el primer párrafo del artículo 24 de esta ley.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 26.
 
-Todas las Entidades a que se refiere el artículo 2 de esta Ley, informarán a la Secretaría de Planeación, antes del día último de febrero de cada año, el monto y características de su pasivo circulante al 31 de diciembre del año anterior.
+Todas las entidades a que se refiere el artículo 2 de esta ley, informarán a la Secretaría de Planeación y Finanzas, antes del día último de febrero de cada año el monto y características de su pasivo circulante al 31 de diciembre del año anterior.
 
 ###### ARTICULO 27.
 
 Una vez concluída la vigencia del Presupuesto de Egresos, procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y, en su caso, presentado el informe a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 28.
 
-En casos excepcionales y debidamente justificados sólo por acuerdo expreso del Ejecutivo, la Secretaría de Planeación y Finanzas podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos, los compromisos excedentes no cubiertos, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
+En casos excepcionales y debidamente justificados, sólo por acuerdo expreso del Ejecutivo, la Secretaría de Planeación y Finanzas podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año; pero en estos casos, los compromisos excedentes no cubiertos, quedarán sujetos, para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
 Cuando se trate de programas de más de un año de ejecución, cuyos presupuestos se incluyan en el Presupuesto de Egresos del Estado, se hará mención especial de estos casos al presentar el Proyecto de Presupuesto de Ley correspondiente al H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 29.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Planeación, establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas entidades, en los actos y contratos que celebren. El propio Ejecutivo, determinará las excepciones cuando a su juicio estén justificadas.
+El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas entidades, en los actos y contratos que celebren. El propio Ejecutivo, determinará las excepciones cuando a su juicio estén justificadas.
 
-La Secretaría de Administración Financiera, será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno Estatal en los casos de las fracciones de la I a la V del artículo 2 de esta Ley y le corresponderá conservar la documentación respectiva y, en su caso, ejercitar los derechos que correspondan al Gobierno Estatal, a cuyo efecto y con la debida oportunidad se le habrán de remitir las informaciones y documentos necesarios.
+La misma Secretaría de Planeación y Finanzas, será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno Estatal en los casos previstos en las fracciones de la I a la V del artículo 2 de esta ley y le corresponderá conservar la documentación respectiva y, en su caso, ejercitar los derechos que correspondan al Gobierno Estatal, a cuyo efecto y con la debida oportunidad se le habrán de remitir las informaciones y documentos necesarios.
 
 ###### ARTICULO 30.
 
 El Gobierno Estatal no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 31.
 
-La Secretaría de Planeación será responsable de que se lleve un registro del personal de las entidades que realicen gasto público estatal y para tal efecto estará facultada para dictar las normas que considere procedentes.
+La Secretaría de Planeación y Finanzas será responsable de que se lleve un registro del personal de las entidades que realicen gasto público estatal, y para tal efecto, estará facultada para dictar las normas que considere procedentes.
 
 ###### ARTICULO 32.
 
@@ -229,9 +271,11 @@ Es incompatible el desempeño de un empleo o comisión remunerado con cargo a un
 
 Se exceptúan de lo anterior los casos en que conforme la Constitución Política del Estado, se otorgue la compatibilidad correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 33.
 
-De conformidad con lo dispuesto en el artículo anterior, la Secretaría de Planeación autorizará la percepción a una misma persona, de las remuneraciones correspondientes a dos o más empleos, cargos o comisiones con ejercicio al Presupuesto General de Egresos, siempre que se satisfagan estos requisitos:
+De conformidad con lo dispuesto en el artículo anterior, la Coordinación General de Administración autorizará la percepción a una misma persona, de las remuneraciones correspondientes a dos o más empleos, cargos o comisiones con ejercicio al presupuesto general de egresos, siempre que se satisfagan estos requisitos:
 
 I.- Los Titulares de las Entidades en que laboren, indicarán categóricamente la necesidad o conveniencia de la acumulación de empleos;
 
@@ -249,7 +293,9 @@ IV.- Las comisiones que se confieran a empleados, sean exclusivamente las que se
 
 V.- Las comisiones designadas para la realización de una obra o estudio cierto y determinado, remuneradas mediante el pago de honorarios, no sean más de dos en cada una de las entidades;
 
-VI.- Dentro de una misma Dependencia del Ejecutivo o Entidad, es incompatible la percepción de sueldos y de honorarios, salvo que aquello se perciban por cursos de capacitación sobre la especialidad técnica o profesión, por la cual se otorguen los honorarios; los cursos deberán ser autorizados por la Secretaría de Planeación;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 1991)</small>
+
+VI.- Dentro de una misma dependencia del Ejecutivo o entidad, es incompatible la percepción de sueldos y de honorarios, salvo que aquello se perciban por impartir cursos de capacitación sobre la especialidad técnica o profesión, por la cual se otorguen los honorarios; los cursos deberán ser autorizados por la Coordinación General de Administración.
 
 VII.- Es incompatible el disfrute de dos o más becas otorgadas en efectivo, con la percepción de remuneraciones por servicios personales con cargo al Presupuesto General de Egresos; y
 
@@ -267,9 +313,11 @@ III.- Grupos educacionales, de conformidad a los horarios semanarios que fije la
 
 Para los efectos de cómputo de tiempo, en las fracciones I y II del artículo anterior, los empleos que se desempeñen de las 20:00 a las 24:00 horas y de las 0 a las 6:00, se computarán por la mitad del número de horas señaladas en las disposiciones anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 35.
 
-Para percibir las remuneraciones correspondientes a dos o más cargos compatibles, la persona interesada deberá obtener de la Secretaría de Planeación, autorización expresa, la que se le otorgará previa solicitud firmada con la conformidad de los titulares de las Entidades donde vaya a prestar sus servicios.
+Para percibir las remuneraciones correspondientes a dos o más cargos compatibles, la persona interesada deberá obtener de la Coordinación General de Administración, autorización expresa, la que se le otorgará previa solicitud firmada con la conformidad de los titulares de las entidades donde vaya a prestar sus servicios:
 
 En dicha solicitud se expresará:
 
@@ -293,35 +341,47 @@ IX.- Firma del solicitante; y
 
 X.- La conformidad del titular de las Dependencias del Ejecutivo o entidades en las cuales preste sus servicios el interesado, manifestando la necesidad o conveniencia del desempeño simultáneo del cargo por ellos conferido, con el empleo o comisión que la propia solicitud refiera.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 36.
 
-Las autorizaciones otorgadas en los términos del artículo 33, se expedirán con fecha igual a aquella en que se reciba la solicitud respectiva en la Secretaría de Planeación y serán válidas desde 15 ó 30 días antes de esa misma fecha, en atención a que el solicitante tenga o no su residencia dentro o fuera de la capital del Estado. Las autorizaciones continuarán siendo válidas, en tanto no varíen los motivos, en que se hubiere fundado su otorgamiento.
+Las autorizaciones otorgadas en los términos del artículo 33, se expedirán con fecha igual a aquella en que se reciba la solicitud respectiva en la Coordinación General de Administración y serán válidas desde 15 o 30 días antes de esa misma fecha, en atención a que el solicitante tengan o no su residencia dentro o fuera de la capital del Estado. Las autorizaciones continuarán siendo válidas, en tanto no varíen los motivos, en que se hubiere fundado su otorgamiento.
 
-Las entidades respectivas, quedan obligadas a dar oportuno aviso a la Secretaría de Planeación, de cualquier cambio que ocurra en horarios y horas de servicio.
+Las entidades respectivas, quedan obligadas a dar oportuno aviso a la Coordinación General de Administración, de cualquier cambio que ocurra en horarios y horas de servicio.
 
 ###### ARTICULO 37.
 
 Serán personalmente responsables los funcionarios que asienten o certifiquen cualquier dato inexacto de la solicitud a que se refiere el artículo 35 o que dejen de dar los avisos que establece la parte final del artículo 36.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 38.
 
-La Secretaría de Planeación está facultada para verificar la exactitud de los datos a que se ha hecho referencia y para consignar a las autoridades competentes aquellos casos en que se hubieren asentado falsedades.
+La Coordinación General de Administración está facultada para verificar la exactitud de los datos a que se ha hecho referencia y para consignar a las autoridades competentes aquellos casos en que se hubieren asentado falsedades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 39.
 
-Los empleados que perciban, sin la correspondiente autorización de la Secretaría de Planeación del Estado, dos o más remuneraciones con cargo al Presupuesto General de Egresos, están obligados a reintegrar las cantidades que como remuneración hubieren percibido por empleos o comisiones estatales, cuyo desempeño sea incompatible.
+Los empleados que perciban, sin la correspondiente autorización de la Coordinación General de Administración del Estado, dos o más remuneraciones con cargo al presupuesto general de egresos, están obligados a reintegrar a la Secretaría de Planeación y Finanzas las cantidades que como remuneración hubieren percibido por empleos o comisiones estatales, cuyo desempeño sea incompatible.
 
-Cuando ocurra el desempeño de un empleo o empleos estatales y no se tramite la compatibilidad, la Secretaría de Planeación pagará la remuneración retribuída con mayor percepción y suspenderá el pago de las demás.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
+Cuando ocurra el desempeño de un empleo o empleos estatales y no se tramite la compatibilidad, la Coordinación General de Administración, pagará la remuneración retribuída con mayor percepción y suspenderá el pago de las demás.
 
 Los Coordinadores Administrativos de las entidades o encargados de cubrir sueldos, honorarios y emolumentos, con violación a las disposiciones contenidas en este Capítulo, serán responsables por las cantidades pagadas indebidamente.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 40.
 
-La Secretaría de Planeación, calificará las razones que motiven la falta de presentación oportuna de la solicitud a que se refiere el artículo 35, para autorizar en su caso, que se paguen las remuneraciones correspondientes, a partir de la fecha de toma de posesión de los empleos o comisiones.
+La Coordinación General de Administración, calificará las razones que motiven la falta de presentación oportuna de la solicitud a que se refiere el artículo 35, para autorizar en su caso, que se paguen las remuneraciones correspondientes, a partir de la fecha de toma de posesión de los empleos o comisiones.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 41.
 
-La Secretaría de Planeación, queda facultada para negarse a expedir una autorización de compatibilidad o revocar una ya expedida, cuando tenga conocimiento que el interesado no desempeña alguno o algunos de los empleos o comisiones señalados en la solicitud respectiva, que los horarios indicados en el citado no sean reales, o si excede de las horas que señala el artículo 33 de esta Ley.
+La Coordinación General de Administración, queda facultada para negarse a expedir una autorización de compatibilidad o revocar una ya expedida: cuando tenga conocimiento que el interesado no desempeña alguno o algunos de los empleos o comisiones señalados en la solicitud respectiva, que los horarios indicados en lo solicitado no sean reales, o si excede de las horas que señala el artículo 33 de esta ley.
 
 ###### ARTICULO 42.
 
@@ -349,7 +409,9 @@ Quienes efectúen el gasto público estatal, estarán obligados a proporcionar a
 
 Cada entidad llevará su propia contabilidad en la que incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
 
-Los catálogos de cuenta que utilizarán las entidades a que se refiere el artículo 2 de esta Ley, serán emitidos por las mismas y sancionados por la Secretaría de Planeación, quien vigilará la uniformidad en el criterio de los mismos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
+Los catálogos de cuenta que utilizarán las entidades a que se refiere el artículo 2 de esta ley, serán emitidos por las mismas y sancionados por la Secretaría de Planeación y Finanzas, quien vigilará la uniformidad en el criterio de los mismos.
 
 ###### ARTICULO 46.
 
@@ -357,17 +419,23 @@ La contabilidad de las entidades se llevará con base acumulativa para determina
 
 Los sistemas de contabilidad deberán diseñarse y operarse en forma tal que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos y avances de la ejecución de programas y en general de manera que permitan medir la eficacia y eficiencia del gasto público estatal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 47.
 
-Las entidades suministrarán a la Secretaría de Planeación, la información presupuestal, contable y financiera, con la periodicidad que ésta determine.
+Las entidades suministrarán a la Secretaría de Planeación y Finanzas, la información presupuestal, contable y financiera, con la periodicidad que ésta determine.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría de Planeación girará las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilización. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación.
+La Secretaría de Planeación y Finanzas girará las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilización. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 49.
 
-Los estados financieros y demás información financiera, presupuestal o contable que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos del Estado, serán consolidados por la Secretaría de Administración Financiera, la que será responsable de formular los informes trimestrales de la Cuenta Pública y el Concentrado de la Cuenta Pública Anual y someterla a la consideración del Ejecutivo Estatal, para su presentación al H. Congreso del Estado, en los términos del artículo 77 fracción VI de la Constitución Local.
+Los estados financieros y demás información financiera, presupuestal o contable que emanen de las contabilidades de las entidades comprendidas en el presupuesto de egresos del Estado, serán consolidados por la Secretaría de Planeación y Finanzas, la que será responsable de formular los informes trimestrales de la cuenta pública y concentrado de la cuenta pública anual y someterla a la consideración del Ejecutivo Estatal, para su presentación al H. Congreso del Estado, en los términos del artículo 77 fracción VI de la Constitución Local.
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES
 
@@ -448,3 +516,11 @@ El Secretario de la Contraloría del Estado,
 C.P. MANUEL PEREZ GOMEZ
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
