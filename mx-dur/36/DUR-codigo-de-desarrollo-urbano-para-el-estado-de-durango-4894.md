@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-desarrollo-urbano-para-el-estado-de-durango-4894"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-07-17"
-last_updated: "1998-12-31"
+last_updated: "2002-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 CODIGO DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
+> <small>N. DE E. EL PRESENTE CODIGO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO, PUBLICADO EN EL PERIODICO OFICIAL EL 6 DE JUNIO DE 2002.</small>
 
-Codigo publicado en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 17 de Julio de 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+
+Código publicado en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 17 de Julio de 1994.
 
 DECRETO No. 364.- Que contiene Código de Desarrollo Urbano para el Estado de Durango.
 
@@ -37,17 +39,13 @@ Con fecha 17 de Junio del presente año, el Titular del Poder Ejecutivo y el C. 
 
 CONSIDERANDOS
 
-PRIMERO.- Que después de haber analizado las iniciativas, la Comisión encontró que con las mismas se da cumplimiento a lo establecido en la técnica jurídica, que establece como acción de codificar, integrar un cuerpo de leyes en forma metódica y sistemática, puesto que con su contenido se pretende reducir en un sólo cuerpo legal una determinada rama del Derecho en este caso lo relativo al aspecto administrativo del desarrollo urbano para el Estado de Durango; así mismo con dichas iniciativas se pretende lograr la sistematización y la unidad de las Instituciones y principios jurídicos, que norman la materia de desarrollo urbano de nuestra Entidad Federativa. Ahora bien y siendo que en sentido histórico se entiende por código a la vigencia escrita que comprende el derecho positivo en algunas de sus ramas, con unidad de materia, plan sistema y método; en ese sentido, un código se distingue de otros cuerpos fijadores del derecho porque consagra su propia vigencia en cuanto a forma, dada cuenta de que por un lado establece el conjunto de disposiciones legales que pretende fijar, y por otro lado contiene la sistemática y la redacción que se da a dicho conjunto; dadas estas característica, la Comisión llegó a la conclusión de que efectivamente las iniciativas presentadas tanto por el Titular del Poder Ejecutivo, como el representante del H. Ayuntamiento de Durango cumplen con el aspecto jurídico y material de ser consideradas como un código, y no una simple compilación de disposiciones legales, que hayan sido recogidas y que derivan su vigencia no en el hecho de estar contenidas en la compilación, sino de haber sido promulgadas por un órgano creador del derecho, en este caso el H. Congreso del Estado de Durango.
+PRIMERO.- Que después de haber analizado las iniciativas, la Comisión encontró que con las mismas se da cumplimiento a lo establecido en la técnica jurídica, que establece como acción de codificar, integrar un cuerpo de leyes en forma metódica y sistemática, puesto que con su contenido se pretende reducir en un sólo cuerpo legal una determinada rama del Derecho en este caso lo relativo al aspecto administrativo del desarrollo urbano para el Estado de Durango; así mismo con dichas iniciativas se pretende lograr la sistematización y la unidad de las Instituciones y principios jurídicos, que norman la materia de desarrollo urbano de nuestra Entidad Federativa. Ahora bien y siendo que en sentido histórico se entiende por código a la vigencia escrita que comprende el derecho positivo en algunas de sus ramas, con unidad de materia, plan sistema y método; en ese sentido, un código se distingue de otros cuerpos fijadores del derecho porque consagra su propia vigencia en cuanto a forma, dada cuenta de que por un lado establece el conjunto de disposiciones legales que pretende fijar, y por otro lado contiene la sistemática y la redacción que se da a dicho conjunto; dadas estas característica, (sic) la Comisión llegó a la conclusión de que efectivamente las iniciativas presentadas tanto por el Titular del Poder Ejecutivo, como el representante del H. Ayuntamiento de Durango cumplen con el aspecto jurídico y material de ser consideradas como un código, y no una simple compilación de disposiciones legales, que hayan sido recogidas y que derivan su vigencia no en el hecho de estar contenidas en la compilación, sino de haber sido promulgadas por un órgano creador del derecho, en este caso el H. Congreso del Estado de Durango.
 
 SEGUNDO.- Que la Comisión, después de haber analizado los documentos a que se hace referencia en el proemio de este Decreto, encontró que los mismos son de una trascendencia plena y absoluta, en virtud a que éstos tienden, independientemente de aglutinar en un sólo precepto diversas disposiciones legales, a proporcionar los medios que buscan la ordenación y regulación de los asentamientos humanos y el desarrollo urbano, propugnando desde luego por mejorar las condiciones de vida de nuestra población urbana y rural, procurando desde luego el aprovechamiento de los elementos naturales, para hacer una distribución equitativa de la riqueza pública, logrando así un desarrollo equilibrado de los asentamientos humanos del Estado. Se observó así mismo que el Titular del Poder Ejecutivo del Estado le da una gran Importancia al Sistema Estatal de Planeación del Desarrollo Urbano, integrando dicho sistema por programas básicos y derivados, aclarando que los Programas de Desarrollo Urbano Básicos son los que establecen la Ley General de Asentamientos Humanos, como indispensables para la planeación urbana local; y los Programas Derivados como aquellos que se desprenden de los Básicos y con la finalidad de regular un área o sector del desarrollo urbano con un mayor detalle físico técnico. De igual forma se destaca el hecho de que los programas regionales de desarrollo urbano deberán tener las bases de coordinación entre el Gobierno Federal, Estatal y Municipal, así como los (sic) estrategias que propicien una distribución más equitativa de las inversiones públicas federales, estatales y municipales; fortaleciendo desde luego los programas de desconcentración o descentralización de las actividades gubernamentales a fin de procurar el establecimiento de políticas de desarrollo urbano, que tiendan a controlar los desequilibrios socio-económicos regionales y evitar que se reviertan en asentamientos humanos no controlados.
 
-TERCERO.- Que al estudiar y analizar las iniciativas la Comisión coincidió con los iniciadores en el sentido de que es ineludible instrumentar de una manera clara y eficiente la legislación local, al tenor de la nueva norma jurídica en materia de desarrollo urbano, la Ley General de Asentamientos Humanos, publicada en el Diario Oficial de la Federación de fecha 21 de Julio de 1993,; así mismo se estimó positivo el que en dichas iniciativas se incluyan disposiciones contenidas en el Articulo 115 de la Constitución General de la República el cual en su fracción V específica lo referente a desarrollo urbano, que "los municipios, en términos de las leyes federales y estatales relativas, otorgan facultades para formular, aprobar y administrar la zonificación y planes de desarrollo urbano Municipal"; para con ello unificar en un sólo ordenamiento la legislación de que se trata, abrogando las correspondientes leyes que actualmente norman sus respectivas materias, estableciéndose para ello una estricta y amplia coordinación entre las autoridades estatales y municipales para el cumplimiento de lo estipulado por la norma jurídica; así mismo se observó en los documentos la importancia vital que tiene el análisis o medio geográfico donde se habrán de fundar nuevos centros de población, señalando preponderantemente la planeación de un desarrollo urbano, acorde a sus característica, y previendo desde luego los elementos necesarios de equipamiento, infraestructura, servicios, áreas de reservas y preservación ecológica; y desde luego las áreas urbanas donde se establecerá un nuevo asentamiento humano; por otra parte se consideró importante destacar la importancia que tiene el que quede señalada en forma expresa en este Decreto, la estructura, el equipamiento y los servicios urbanos, dada la importancia que tiene para la sociedad, el hecho de que se determinen en un ordenamiento los sistemas y retos de organización y distribución de personas, los bienes y
+TERCERO.- Que al estudiar y analizar las iniciativas la Comisión coincidió con los iniciadores en el sentido de que es ineludible instrumentar de una manera clara y eficiente la legislación local, al tenor de la nueva norma jurídica en materia de desarrollo urbano, la Ley General de Asentamientos Humanos, publicada en el Diario Oficial de la Federación de fecha 21 de Julio de 1993; así mismo se estimó positivo el que en dichas iniciativas se incluyan disposiciones contenidas en el Articulo 115 de la Constitución General de la República el cual en su fracción V específica lo referente a desarrollo urbano, que "los municipios, en términos de las leyes federales y estatales relativas, otorgan facultades para formular, aprobar y administrar la zonificación y planes de desarrollo urbano Municipal"; para con ello unificar en un sólo ordenamiento la legislación de que se trata, abrogando las correspondientes leyes que actualmente norman sus respectivas materias, estableciéndose para ello una estricta y amplia coordinación entre las autoridades estatales y municipales para el cumplimiento de lo estipulado por la norma jurídica; así mismo se observó en los documentos la importancia vital que tiene el análisis o medio geográfico donde se habrán de fundar nuevos centros de población, señalando preponderantemente la planeación de un desarrollo urbano, acorde a sus característica, (sic) y previendo desde luego los elementos necesarios de equipamiento, infraestructura, servicios, áreas de reservas y preservación ecológica; y desde luego las áreas urbanas donde se establecerá un nuevo asentamiento humano; por otra parte se consideró importante destacar la importancia que tiene el que quede señalada en forma expresa en este Decreto, la estructura, el equipamiento y los servicios urbanos, dada la importancia que tiene para la sociedad, el hecho de que se determinen en un ordenamiento los sistemas y retos de organización y distribución de personas, los bienes y servicios que coadyuven al buen funcionamiento de los centros de población, como son la estructura vial, electricidad, teléfono, agua potable y drenaje, así como los elementos que integran el equipamiento urbano para el buen desarrollo social.
 
-servicios que coadyuven al buen funcionamiento de los centros de población, como son la estructura vial, electricidad, teléfono, agua potable y drenaje, así como os elementos que integran el equipamiento urbano para el buen desarrollo social.
-
-CUARTO.- Que la Comisión que dictaminó, coincidió con el criterio de los iniciadores, en el sentido de que el desarrollo soci-económico de nuestro Estado ha generado el crecimiento desordenado de las zonas urbanas, provocado además por la enorme dispersión que se observa en la población rural lo que hace muy costosa la atención de los servicios indispensables para los habitantes que residen en esos centros de población, de donde se observa que la magnitud y características de estos problemas representan un desafío para todos nosotros y exige la búsqueda de cambios cualitativos y estructurales que permitan la formulación de políticas de desarrollo urbano, así como de acciones orientadas a
-
-alcanzar la dignidad plena del hombre en su medio; por ello es importante señalar como una innovación al marco jurídico, en lo que a desarrollo urbano se refiere, qué se contempla, cama elemento sine-qua non, para todo aquél que pretenda realizar obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda en nuestro Estado, obtener la constancia de compatibilidad urbanística, misma que le deben extender las autoridades urbanas Estatales o Municipales según sea el caso, destacando que los objetivos de la referida constancia son entre otros: dar seguridad jurídica a la propiedad, otorgando por lo consiguiente protección a sus Titulares; conservar y preservar el patrimonio natural y cultural; planear la dotación de infraestructura, equipamientos y servicios urbanos y controlar sobre todo, que toda acción, obra, servicios e inversión en materia de desarrollo urbano y vivienda esté en compatibilidad con la legislación, y programas aplicables al desarrollo urbano.
+CUARTO.- Que la Comisión que dictaminó, coincidió con el criterio de los iniciadores, en el sentido de que el desarrollo socio-económico de nuestro Estado ha generado el crecimiento desordenado de las zonas urbanas, provocado además por la enorme dispersión que se observa en la población rural lo que hace muy costosa la atención de los servicios indispensables para los habitantes que residen en esos centros de población, de donde se observa que la magnitud y características de estos problemas representan un desafío para todos nosotros y exige la búsqueda de cambios cualitativos y estructurales que permitan la formulación de políticas de desarrollo urbano, así como de acciones orientadas a alcanzar la dignidad plena del hombre en su medio; por ello es importante señalar como una innovación al marco jurídico, en lo que a desarrollo urbano se refiere, qué se contempla, como elemento sine-qua non, para todo aquél que pretenda realizar obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda en nuestro Estado, obtener la constancia de compatibilidad urbanística, misma que le deben extender las autoridades urbanas Estatales o Municipales según sea el caso, destacando que los objetivos de la referida constancia son entre otros: dar seguridad jurídica a la propiedad, otorgando por lo consiguiente protección a sus Titulares; conservar y preservar el patrimonio natural y cultural; planear la dotación de infraestructura, equipamientos y servicios urbanos y controlar sobre todo, que toda acción, obra, servicios e inversión en materia de desarrollo urbano y vivienda esté en compatibilidad con la legislación, y programas aplicables al desarrollo urbano.
 
 QUINTO.- Que las iniciativas, pretenden abrogar en beneficio de la sociedad, aquellas normas que actualmente se encuentran relegadas de una manera dispersa, incongruente y en consecuencia obsoletas, y que por ende han caído en el desuso, perdiendo el carácter positivo, que es una de las características de todo Ordenamiento Legal; ya que una necesidad de todos los pueblos, ha sido la pretensión de tener normas que les permitan aspirar al mejoramiento en todos los aspectos, como es lo relativo a los fraccionamientos, clasificándolos en sentido lato en fraccionamientos de tipo habitación urbana, y en fraccionamientos de tipo especial; especificándose a este respecto, el destino que se le dará a las áreas de donación de los ayuntamientos, lo cual la Comisión estimó de suma importancia a fin de que se evite un destino diferente a lo establecido por la Ley, relacionándolo desde luego con el interés públicos; por ello se estimó que es conveniente y plausible la instauración de un proceso de participación ciudadana y la coordinación de las instancias de los tres niveles de Gobierno para el desarrollo urbano, medios que muy acertadamente contemplan las propuestas de los iniciadores.
 
@@ -205,32 +203,6 @@ IV. Ejecutar acciones que afecten el patrimonio cultural del Estado; y
 
 V. Obtener concesiones para la prestación de servicios públicos o explotación de bienes propiedad del Estado o de los Municipios.
 
-ARTCULO 5.- Para los efectos de este Código, se entenderá por:
-
-I. El Código: al Código de Desarrollo Urbano para el Estado de Durango;
-
-II. La Secretaría a la Secretaría de Desarrollo Social del Estado;
-
-III. El Ayuntamiento: al Ayuntamiento del Municipio, en cuyo territorio se ejecute la correspondiente acción, obra o servicio en materia de desarrollo urbano y vivienda;
-
-IV. La Comisión Estatal; a la Comisión Estatal de Desarrollo Urbano;
-
-V. La Comisión de Preservación del Patrimonio Cultural del Estado: a la Comisión para la Preservación del Patrimonio Cultural del Estado;
-
-VI. El Instituto: al Instituto de Vivienda del Estado;
-
-VII. La Comisión Municipal: a la Comisión Municipal de Desarrollo Urbano;
-
-VIII. Desarrollo urbano: al proceso de regulación y ordenación a través de la planeación del medio urbano, en sus aspectos físicos, económicos y sociales, que implica la expansión física y demográfica, el incremento de las actividades productivas, la elevación de las condiciones socioeconómicas de la población, la protección del patrimonio natural y cultural, y la fundación, conservación, mejoramiento y crecimiento de los centros de población;
-
-IX. Ordenamiento del territorio: al proceso de distribución equilibrada de la población y de las actividades económicas en el territorio de la Entidad, atendiendo al Sistema Estatal de Centros de Población;
-
-X. Asentamiento humano: a la radicación de un determinado conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en una área físicamente localizada, considerando dentro de la misma, los elementos naturales y las obras materiales que lo integran;
-
-XI. Centros de población: a las áreas urbanas ocupadas por las instalaciones necesarias para su vida normal; las que se reserven a su expansión; las constituidas por los elementos naturales que cumplen una función de preservación de las condiciones ecológicas de dichos centros; y las que por resolución de la autoridad competente se dediquen a la fundación de los mismos, y
-
-XII. Programa de desarrollo urbano: al conjunto de normas y disposiciones para ordenar, regular y planear la fundación, conservación, mejoramiento y crecimiento de los centros de población; así como para determinar las provisiones, reservas, usos y destinos de áreas y predios, con objeto de mejorar la estructura urbana, proteger al ambiente, regular la propiedad en los centros de población y fijar las bases para la programación de acciones, obras y servicios de infraestructura y equipamiento urbano.
-
 ###### ARTICULO 5.
 
 Para los efectos de este Código, se entenderá por:
@@ -283,7 +255,7 @@ IX. Las demás leyes o disposiciones jurídicas aplicables.
 
 ###### ARTICULO 7.
 
-Las acciones, inversiones, obras y servicios normadas por este Código, deberán ajustarse a lo dispuesto en el mismo, en los programas de desarrollo urbano y vivienda y en las declaratorias de provisiones, reservas, usos y destinos de áreas y predios y, en su caso, a la constancia, autorización, licencia, permiso o concesión que se requiera, otorgada por las autoridades competentes, previos los estudios y dictamenes que al efecto se formulen y una vez que los solicitantes hubieren otorgado las garantías, efectuados los pagos que se establezcan en la legislación fiscal estatal y municipal y cumplido con las obligaciones conducentes.
+Las acciones, inversiones, obras y servicios normadas por este Código, deberán ajustarse a lo dispuesto en el mismo, en los programas de desarrollo urbano y vivienda y en las declaratorias de provisiones, reservas, usos y destinos de áreas y predios y, en su caso, a la constancia, autorización, licencia, permiso o concesión que se requiera, otorgada por las autoridades competentes, previos los estudios y dictámenes que al efecto se formulen y una vez que los solicitantes hubieren otorgado las garantías, efectuados los pagos que se establezcan en la legislación fiscal estatal y municipal y cumplido con las obligaciones conducentes.
 
 ###### ARTICULO 8.
 
@@ -556,44 +528,6 @@ XXXVII. Diseñar y coordinar la ejecución del Sistema Estatal de Suelo y Reserv
 XXXVIII. Aplicar en el ámbito de su competencia, las normas técnicas en materia de impacto ambiental, a que deberán sujetarse los proyectos de obras públicas o de particulares, de conformidad con la legislación aplicable, y
 
 XXXIX. Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
-
-ARTI CULO 22.- Corresponde a la Secretaría de Comunicaciones y Obras Públicas del Estado:
-
-I. Formular los programas estatales de obras públicas, en coordinación con la Secretaría y los ayuntamientos;
-
-II. Proyectar, ejecutar, mantener, conservar y operar, directamente o a través de terceros, las obras y servicios públicos que realice la Administración Pública Estatal;
-
-III. Fomentar la construcción de obras públicas prioritarias;
-
-IV. Proponer, en coordinación con la Secretaría, la adquisición de reservas territoriales que correspondan a los programas de obras y servicios públicos;
-
-V. Coordinarse con las autoridades municipales, a fin de realizar los programas estatales de obras públicas en los Municipios de la Entidad;
-
-VI. Realizar directamente o a través de terceros, las obras o servicios públicos estatales que se requieran en la Entidad;
-
-VII. Participar en la planeación de los programas estatales de obras o servicios públicos, en coordinación con la Secretaría, formulando los estudios, proyectos y presupuestos de las mismas;
-
-VIII. Coordinarse con la Secretaría, así como con los ayuntamientos de la Entidad, para la programación y presupuestación de obras y servicios públicos que se realicen en el Estado;
-
-IX. Registrar y clasificar los proyectos de inversión que se formulen, y el catálogo de las obras y servicios públicos que se ejecuten, con objeto de contar con el material idóneo que permita su adecuada programación, presupuestación, control y evaluación;
-
-X. Ejecutar las obras y servicios públicos que hayan sido aprobados, conforme a los planes y programas correspondientes;
-
-XI. Intervenir con las dependencias y entidades de la Administración Pública Federal, para la programación y presupuestación de las obras y servicios que sean materia de convenio con el Gobierno del Estado;
-
-XII. Participar en la gestión y promoción de financiamientos para la realización de las obras y servicios públicos;
-
-XIII. Asesorar en la elaboración de los convenios que celebre el Gobierno del Estado, en materia de obras y servicios públicos;
-
-XIV. Coordinar con la Secretaría, la realización de los estudios que se requieran para prevenir los impactos ambientales que puedan tener la ejecución de las obras y la prestación de los servicios públicos;
-
-XV. Apoyar y asesorar a los Municipios, en la construcción, conservación, operación y administración de los sistemas de agua potable y alcantarillado;
-
-XVI. Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece este Código, y que sean de su competencia;
-
-XVII. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados, y que deriven de la aplicación de este Código, y
-
-XVIII. Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 22.
 
@@ -1125,7 +1059,7 @@ VIII. Gestionar el apoyo de las autoridades federales y estatales, así como de 
 
 IX. Iniciar los estudios y llevar a cabo, previos los trámites correspondientes, la ejecución de obras o la prestación de servicios públicos urbanos en beneficio del Municipio;
 
-X. Emitir dictamenes, previos los estudios técnicos necesarios, para llevar a cabo obras municipales o intermunicipales, con la cooperación económica de los particulares, sin que pueda procederse a la ejecución de tales obras ni al cobro de las prestaciones relativas si su dictamen no es aprobado por el ayuntamiento o ayuntamientos correspondientes;
+X. Emitir dictámenes, previos los estudios técnicos necesarios, para llevar a cabo obras municipales o intermunicipales, con la cooperación económica de los particulares, sin que pueda procederse a la ejecución de tales obras ni al cobro de las prestaciones relativas si su dictámen no es aprobado por el ayuntamiento o ayuntamientos correspondientes;
 
 XI. Formular las bases, expedir las convocatorias y aportar las decisiones relativas al concurso para la contratación de obras y servicios en el Municipio, que vayan a ser realizados bajo los sistemas de cooperación e imposición;
 
@@ -5998,3 +5932,15 @@ P.O. 31 DE DICIEMBRE DE 1998.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 6 DE JUNIO DE 2002.
+
+PRIMERO.- La presente Ley entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Desarrollo Urbano de fecha 17 de julio de 1994, así como sus subsecuentes reformas.
+
+TERCERO.- Continúan vigentes los decretos, programas de desarrollo urbano, asentamientos humanos u ordenamientos territoriales, aprobados por el Ejecutivo del Estado, los ayuntamientos o las autoridades competentes, en lo que no se oponga a esta ley.
+
+CUARTO.- Los reglamentos que se prevén en la presente Ley, deberán ser elaborados por las autoridades correspondientes en el plazo no mayor de 90 días, contados a partir de la entrada en vigor.
+
+QUINTO.- Los tramites urbanísticos y los recursos administrativos que se encuentren en proceso al entrar en vigor la presente Ley, continuarán gestionándose hasta su conclusión en los términos establecidos en el código que se abroga.
