@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2004-05-20"
+last_updated: "2005-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2005.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -489,7 +489,7 @@ III.- Mantener, por si o en coordinación con los Gobiernos Federal y Municipale
 
 IV.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturales; y
 
-V.- Vigilar el cumoplimiento de la (sic) leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
+V.- Vigilar el cumplimiento de la (sic) leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
 
 C. En materia de fomento a la cultura, investigación, recreación y deporte:
 
@@ -701,9 +701,17 @@ I.- Fomentar, conforme a los programas en la materia, la organización, capacita
 
 II.- Asesorar a los municipios y organismos de productores que los soliciten, en materia hidráulica, agrícola, pecuaria, forestal, pesquera y acuícola;
 
-III.- Promover un sistema para la certificación de origen y calidad de los productos agrícolas, pecuarios, pesqueros y acuícolas; y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2005)</small>
 
-IV.- Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado.
+III.- Promover un sistema para la certificación de origen y calidad de los productos agrícolas, pecuarios, pesqueros y acuícolas;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2005)</small>
+
+IV.- Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2005)</small>
+
+V.- Instrumentar y ejecutar los programas, acciones y servicios relativos a la vida silvestre del Estado, de conformidad con la Ley General de Vida Silvestre y demás disposiciones e instrumentos jurídicos aplicables.
 
 C. En materia de desarrollo de infraestructura:
 
@@ -719,17 +727,23 @@ V.- Promover y contribuir en la conservación de flora y fauna marinas y dulceac
 
 D. En materia de coordinación:
 
-I.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, forestal, pesquera o acuícola, cuando así se establezca en dichos instrumentos;
+(REFORMADA, B.O. 31 DE MARZO DE 2005) (F. DE E., B.O. 2 DEMAYO DE 2005)
+
+I.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, de vida silvestre, forestal, pesquera o acuícola, cuando así se establezca en dichos instrumentos;
 
 II.- Coordinar la participación estatal en los comités directivos de los distritos de desarrollo rural que operen en el Estado;
 
-III.- Colaborar con el gobierno Federal en la integración y revisión del Registro Nacional de Pesca, Registro de Derechos de Agua y Padrones de Usuarios de los Distritos de Riego; y
+(REFORMADA, B.O. 31 DE MARZO DE 2005) (F. DE E., B.O. 2 DEMAYO DE 2005)
+
+III. Colaborar con el Gobierno Federal en la integración y revisión del Registro Nacional de Pesca, Registro de Derechos de Agua, Padrones de Usuarios de los Distritos de Riego, Servicio Nacional Forestal; así como en la interrelación con el Sistema Nacional de Información Forestal y el Subsistema Nacional de Información sobre la Vida Silvestre, mediante sus respectivos Sistemas Estatales con sus registros y padrón estatales correspondientes; y
 
 IV.- Diseñar, coordinar y promover programas y campañas de prevención, combate y erradicación de las plagas y enfermedades que afecten a las especies agrícolas, pecuarias, forestales, pesqueras y acuícolas.
 
 E. En materia jurídico administrativa:
 
-I.- Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, pesquero, acuícola, forestal e hidroagrícola;
+(REFORMADA, B.O. 31 DE MARZO DE 2005) (F. DE E., B.O. 2 DE MAYO DE 2005)
+
+I. Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, pesquera, acuícola, forestal, vida silvestre e hidroagrícola;
 
 II.- Participar, con el carácter de representante del Gobierno del Estado, en los Consejos u Organismos de Cuenca de los que forma parte el Estado de Sonora, de conformidad con la legislación aplicable;
 
@@ -771,7 +785,7 @@ B. En materia de desarrollo regional:
 
 I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
 
-II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales;
+II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
 
 III.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
 
@@ -1328,3 +1342,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 B.O. 20 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE MARZO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
