@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1992-06-09"
+last_updated: "1993-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -298,17 +298,25 @@ A los consejeros de estas instituciones les será aplicable lo dispuesto en el p
 
 La administración de las instituciones de banca múltiple estará encomendada a un consejo de administración y a un director general, en sus respectivas esferas de competencia.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 22.
 
-El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos.
+El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más, y en su caso los de la serie "B" hasta cinco y los de la serie "C", por cada diez por ciento del capital pagado ordinario correspondiente a esta serie, podrán nombrar a un consejero. Los consejeros de la serie "B" deberán disminuirse según corresponda, en caso de que las aciones (sic) serie "C" den derecho a nombrar consejeros o que por las acciones de la serie "A" se designen más de seis consejeros.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado ordinario de la institución, tendrán derecho a designar un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 En los supuestos de los consejos que se integren por múltiplos de once o cuenten con más de seis consejeros de la serie "A", así como en los casos previstos en el párrafo anterior y en los artículos 23 fracción II, 73 y 75 de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
@@ -396,7 +404,9 @@ V. Durante los noventa días naturales siguientes a partir de la fecha de public
 
 La Secretaría de Hacienda y Crédito Público, escuchando en su caso, a la institución de banca múltiple afectada y oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria, podrá declarar la revocación de la autorización en los casos siguientes:
 
-I. Si inicia operaciones sin presentar la escritura constitutiva para su aprobación, o si no inicia sus operaciones dentro del plazo de seis meses a partir de la aprobación de la escritura, o si al darse esta última no estuviere pagado el capital mínimo;
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+I. Si no presenta la escritura constitutiva para su aprobación dentro de los tres meses siguientes a la fecha del otorgamiento de la autorización, si inicia operaciones sin presentar dicha escritura para su aprobación, si no inicia sus operaciones dentro del plazo de seis meses a partir de la aprobación de la escritura, o si al darse esta última no estuviere pagado el capital mínimo;
 
 II. Si la institución no realiza la aportación establecida de conformidad con la fracción VI del artículo 122 de esta Ley;
 
@@ -676,7 +686,13 @@ XXII. Encargarse de hacer avalúos que tendrán la misma fuerza probatoria que l
 
 XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y
 
-XXIV. Las análogas y conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria.
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+XXIV. Celebrar contratos de arrendamiento financiero y adquirir los bienes que sean objeto de tales contratos.
+
+La realización de las operaciones señaladas en esta fracción, así como el ejercicio de los derechos o el cumplimiento de las obligaciones de las partes, se sujetarán a lo previsto por esta Ley y, en lo que no se oponga a ella, por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y
+
+XXV. Las análogas y conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria.
 
 ###### ARTICULO 47.
 
@@ -693,6 +709,14 @@ La Secretaría de Hacienda y Crédito Público dictará los lineamientos y estab
 Las tasas de interés, comisiones, premios, descuentos, u otros conceptos análogos, montos, plazos y demás características de las operaciones activas, pasivas, y de servicios, así como las operaciones con oro, plata y divisas, que realicen las instituciones de crédito y la inversión obligatoria de su pasivo exigible, se sujetarán a lo dispuesto por la Ley Orgánica del Banco de México, con el propósito de atender necesidades de regulación monetaria y crediticia.
 
 En todo caso, las medidas que dicte el Banco de México se apegarán a las disposiciones legales aplicables y a las directrices de política monetaria y crediticia que determine la Secretaría de Hacienda y Crédito Público en el ejercicio de las atribuciones que le asignan las leyes respecto a la dirección de dicha política, así como para planear, coordinar, evaluar y vigilar el Sistema Bancario Mexicano.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Las instituciones de crédito estarán obligadas a canjear los billetes y monedas metálicas en circulación, así como a retirar de ésta las piezas que el Banco de México indique.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
 
 ###### ARTICULO 49.
 
@@ -752,15 +776,21 @@ c) Otros propósitos a los cuales no se adecúen los mecanismos normales del mer
 
 La Secretaría de Hacienda y Crédito Público, para resolver sobre las excepciones previstas en este artículo, escuchará la opinión del Banco de México, así como de la Comisión Nacional Bancaria o de la Comisión Nacional de Valores, según la materia que corresponda a su ámbito de competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 54.
 
-Los reportos sobre valores que celebren las instituciones de crédito se sujetarán a las disposiciones aplicables a esa clase de operaciones, así como a las siguientes:
+Los reportos sobre valores que celebren las instituciones de crédito se sujetarán a las disposiciones aplicables a esa clase de operaciones, así como a lo siguiente:
 
-I. Se formalizarán de la manera que, mediante reglas de carácter general, determine el Banco de México, no siendo necesario que dichos reportos consten por escrito;
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+I. Se formalizarán, al igual que sus prórrogas, de la manera que mediante reglas de carácter general determine el Banco de México, no siendo necesario que dichos reportos consten por escrito;
 
 II. Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente;
 
-III. El plazo del reporto no podrá exceder de 180 días. La operación podrá prorrogarse en la forma que determine el Banco de México, mediante las reglas señaladas en la fracción I anterior, y
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+III. El plazo del reporto y, en su caso, los de sus prórrogas podrán pactarse libremente por las partes, sin exceder los plazos que para tales efectos establezca el Banco de México, mediante las reglas señaladas en la fracción I anterior, y
 
 IV. Salvo pacto en contrario, si el día en que el reporto deba liquidarse el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
 
@@ -962,13 +992,7 @@ La Comisión Nacional Bancaria, a solicitud de la institución, previo acuerdo d
 
 ###### ARTICULO 74.
 
-Las instituciones de crédito estarán obligadas a participar en el sistema de información sobre operaciones activas que el Banco de México administre.
-
-Dichas instituciones deberán proporcionar al Banco de México la información sobre sus operaciones activas, incluyendo el incumplimiento de sus clientes a las condiciones pactadas en tales operaciones, con la periodicidad y en los términos que el propio Banco indique.
-
-El Banco de México podrá, cuando así lo estime conveniente, notificar a todas las entidades financieras del país, el nombre y el importe de la responsabilidad de un mismo deudor, el número de entidades entre las cuales dichas responsabilidades estén distribuidas, así como la calificación que cada una de las entidades considere para sus respectivos créditos, guardando secreto respecto de la denominación de tales entidades acreedoras.
-
-Las instituciones de crédito participantes deberán efectuar las aportaciones que el Banco de México determine, para cubrir los costos de operación del sistema. En su caso, dicho Banco podrá cargar en la cuenta que al efecto les lleva el importe de tales aportaciones.
+(DEROGADO, D.O.F. 23 DE JULIO DE 1993)
 
 ###### ARTICULO 75.
 
@@ -1074,9 +1098,15 @@ Las instituciones de banca múltiple requerirán autorización de la Secretaría
 
 Las sociedades a que se refiere el párrafo anterior, se sujetarán a las reglas generales que dicte la misma Secretaría y a la inspección y vigilancia de la Comisión Nacional Bancaria, y en consecuencia deberán cubrir las cuotas de inspección y vigilancia en los términos que determine la propia Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 89.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para que las instituciones de crédito inviertan en títulos representativos del capital social de entidades financieras del exterior.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para que las instituciones de crédito inviertan, directa o indirectamente, en títulos representativos del capital social de entidades financieras del exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Cuando alguna institución de crédito sea propietaria, directa o indirectamente, de acciones con derecho a voto de entidades financieras del exterior que representen por lo menos el cincuenta y uno por ciento del capital pagado, tenga el control de las asambleas generales de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración o sus equivalentes, o por cualquier otro medio controle a las mencionadas entidades, la institución de crédito correspondiente deberá proveer lo necesario para que la entidad financiera de que se trate, realice sus actividades sujetándose a la legislación extranjera que le sea aplicable y, en su caso, a las disposiciones que al efecto determinen las autoridades financieras mexicanas.
 
 > <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
@@ -1084,9 +1114,11 @@ Las instituciones de banca múltiple podrán invertir en el capital social de so
 
 Las solicitudes de autorización de las inversiones a que se refiere el párrafo anterior, deberán acompañarse del documento que precise las políticas para resolver el probable conflicto de interés que en la realización de sus operaciones con el público pudieren presentarse.
 
-Las instituciones de crédito, y las filiales a que se refiere el segundo párrafo de este artículo en cuyo capital participen podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
-Estos intermediarios, cuando tengan su domicilio social en el territorio nacional y sus actividades no se encuentren reguladas por otra ley, sujetarán sus operaciones a las reglas generales que dicte la misma Secretaría y a la inspección y vigilancia de la Comisión Nacional Bancaria.
+Las instituciones de crédito y las filiales a que se refiere el tercer párrafo de este artículo en cuyo capital participen, podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios.
+
+> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público oirá la opinión del Banco de México y de la Comisión Nacional Bancaria.
 
@@ -1108,13 +1140,21 @@ Los nombramientos del secretario y prosecretario del consejo de administración 
 
 Las instituciones de crédito responderán directa e ilimitadamente de los actos realizados por sus funcionarios y empleados en el cumplimiento de sus funciones, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 92.
 
-Las instituciones de crédito sólo podrán utilizar los servicios de comisionistas que las auxilien en la celebración de sus operaciones, cuando se trate de personas morales que cuenten con autorización de la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria.
+Cuando alguna persona auxilie a clientes de instituciones de crédito en la realización de operaciones propias de estas últimas, en ningún momento podrá:
 
-Los comisionistas se ajustarán a las reglas de carácter general que dicte la propia Secretaría, se someterán a la inspección y vigilancia de la Comisión Nacional Bancaria y en cuanto a las operaciones que les autorice dicha Secretaría se ajustarán a las disposiciones que en relación con tales operaciones establezca el Banco de México. Les será además aplicable lo dispuesto por el artículo 94 de esta Ley.
+I. Llevar a cabo tales operaciones por cuenta propia;
 
-La citada Secretaría podrá revocar la autorización otorgada a los comisionistas, cuando incurran en violaciones a las disposiciones contenidas en este artículo y a las reglas y disposiciones que les sean aplicables, sin perjuicio de la sanción correspondiente que imponga la mencionada Comisión.
+II. Determinar los plazos o tasas de las operaciones en las que intervenga;
+
+III. Obtener diferenciales de precios o de tasas por las operaciones en las que intervenga, o
+
+IV. En general, llevar a cabo actividades que requieran de autorización por parte del Gobierno Federal para operar con el carácter de entidad financiera de cualquier tipo.
+
+Las operaciones invariablemente deberán quedar documentadas a nombre del cliente respectivo.
 
 ###### ARTICULO 93.
 
@@ -1158,6 +1198,12 @@ Las instituciones de crédito estarán obligadas a recabar los datos de su clien
 
 Todo acto o contrato que signifique variación en el activo o en el pasivo de una institución de crédito o implique obligación directa o contingente, deberá ser registrado en la contabilidad el mismo día en que se efectúen. La contabilidad, los libros y documentos correspondientes y el plazo que deban ser conservados, se regirán por las disposiciones de carácter general que dicte la Comisión Nacional Bancaria.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+###### ARTICULO 99-A.
+
+Las instituciones de crédito constituirán el fondo de reserva de capital separando anualmente por lo menos un diez por ciento de sus utilidades netas, hasta que dicho fondo alcance una suma igual al importe del capital pagado.
+
 ###### ARTICULO 100.
 
 Las instituciones de crédito podrán microfilmar todos aquellos libros, registros y documentos en general, que obren en su poder, relacionados con los actos de la propia institución, que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
@@ -1169,6 +1215,14 @@ Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el p
 La Comisión Nacional Bancaria, mediante disposiciones de carácter general, señalará las bases a que se sujetará la aprobación de los estados financieros mensuales y del balance general anual por parte de los administradores de las instituciones de crédito; su publicación en periódicos de amplia circulación; así como el procedimiento a que se ajustará la revisión que de los mismos efectúe la propia Comisión.
 
 La propia Comisión podrá ordenar correcciones que a su juicio fueren fundamentales y ameriten su publicación, quien podrá acordar que se publiquen con las modificaciones pertinentes y, en su caso esta publicación se hará dentro de los quince días siguientes al acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+El balance general anual deberá estar dictaminado por un auditor externo independiente, quien será designado directamente por el consejo de administración de la institución de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Los mencionados auditores deberán suministrar a la Comisión Nacional Bancaria los informes y demás elementos de juicio en los que sustenten sus dictámenes y conclusiones. Si durante la práctica o como resultado de la auditoría encontraren irregularidades que afecten la estabilidad o solvencia de las citadas instituciones, los auditores estarán obligados a comunicar dicha situación a la aludida Comisión. La propia Comisión mediante disposiciones de carácter general, podrá establecer las características y requisitos que deberán cumplir los auditores externos, así como sus dictámenes.
 
 ###### ARTICULO 102.
 
@@ -1210,29 +1264,27 @@ I. Las instituciones de crédito reguladas en la presente Ley, así como a los d
 
 II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios, respecto de los recursos provenientes de la colocación de dichos instrumentos, siempre y cuando estos recursos no se utilicen en el otorgamiento de créditos de cualquier naturaleza, y
 
-> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-III. Las personas morales autorizadas por la Secretaría de Hacienda y Crédito Público, para llevar a cabo sistemas de financiamiento consistentes en la integración de grupos de personas que aportan periódicamente sumas de dinero para constituir un fondo común administrado por las propias personas morales, destinado al otorgamiento de créditos a los integrantes de dichos grupos, para la adquisición, construcción, ampliación remodelación y liberación de hipotecas de bienes inmuebles, y
+III. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
 
 > <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 IV. Las personas morales autorizadas por la Secretaría de Hacienda y Crédito Público que capten recursos provenientes de la colocación de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios y otorguen créditos para determinada actividad o sector.
 
-> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
-Las personas morales a que se refieren las fracciones III y IV de este artículo, deberán sujetarse en cada caso a las reglas que al efecto expida la propia Secretaría y a las disposiciones que respecto de sus operaciones emita el Banco de México, así como a la inspección y vigilancia de la Comisión Nacional Bancaria.
+Las personas morales a que se refiere la fracción IV de este artículo, contarán en todo momento con participación mexicana mayoritaria en su capital social, debiendo sujetarse en cada caso a las reglas que al efecto expida la propia Secretaría y a las disposiciones que respecto de sus operaciones emita el Banco de México, así como a la inspección y vigilancia de la Comisión Nacional Bancaria.
 
 > <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, podrá establecer criterios de aplicación general conforme a los cuales se precise, para efectos de este artículo, si hay o no captación de recursos del público.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 104.
 
-Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones en contravención a lo dispuesto por los artículos 2o. ó 103 de esta Ley, o está infringiendo lo previsto por el primer párrafo del artículo 350 de la Ley General de Títulos y Operaciones de Crédito, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está realizando las operaciones mencionadas.
+Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones en contravención a lo dispuesto por los artículos 2o. o 103 de esta Ley, o actúa como fiduciario sin estar autorizado para ello en ley, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está realizando las operaciones mencionadas, en cuyo caso, la Comisión Nacional Bancaria podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
 
-El procedimiento de inspección a que se refiere el párrafo anterior es de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo II del Título Séptimo de esta Ley.
+El procedimiento de inspección, suspensión de operaciones y clausura a que se refiere el párrafo anterior es de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo II del Título Séptimo de esta Ley.
 
 ###### ARTICULO 105.
 
@@ -1312,9 +1364,15 @@ El Banco de México podrá autorizar, mediante reglas generales, excepciones a l
 
 El uso de las palabras a que se refiere el artículo 105 de esta Ley, en el nombre de personas morales y establecimientos distintos a los autorizados para ello conforme al mismo precepto, se castigará por la Comisión Nacional Bancaria con multa por cantidad que no será menor de cien veces ni mayor de cinco mil veces el salario mínimo general diario vigente en el Distrito Federal, y la negociación respectiva será clausurada administrativamente por esa Comisión hasta que su nombre sea cambiado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 108.
 
-El incumplimiento o la violación de las normas de la presente Ley, de la Ley Orgánica del Banco de México y de las disposiciones que emanen de ellas, por las instituciones de crédito o las sociedades a que se refieren los artículos 7o., 88, 89, tercer párrafo, 92 y 103, fracción III de esta Ley, serán sancionados con multa que impondrá administrativamente la Comisión Nacional Bancaria, hasta del uno por ciento del capital pagado y reservas de capital de la institución o sociedad de que se trate o hasta cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, debiendo notificarse al consejo de administración o consejo directivo correspondiente.
+El incumplimiento o la violación de la presente Ley, de la Ley Orgánica del Banco de México y de las disposiciones que emanen de ellas, por las instituciones de crédito o las personas a que se refieren los artículos 7o., 88, 89, 92 y 103, fracción IV de esta Ley, serán sancionados con multa que impondrá administrativamente la Comisión Nacional Bancaria, hasta del cinco por ciento del capital pagado y reservas de capital de la institución o sociedad de que se trate o hasta cien mil veces el salario mínimo general diario vigente en el Distrito Federal, debiendo notificarse al consejo de administración o consejo directivo correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Las instituciones de crédito que incumplan las obligaciones que les impongan las leyes y demás disposiciones aplicables en relación con los sistemas de ahorro para el retiro, serán sancionadas conforme a lo previsto en el párrafo anterior.
 
 En la imposición de estas sanciones, la Comisión Nacional Bancaria tomará en cuenta las medidas correctivas que aplique el Banco de México.
 
@@ -1330,11 +1388,37 @@ Para la imposición de las sanciones previstas en este capítulo, la Comisión N
 
 Tratándose de reincidencia se podrá aplicar hasta el doble de la sanción prevista.
 
-Los afectados podrán ocurrir por escrito ante la Comisión Nacional Bancaria en defensa de sus intereses, dentro de los quince días hábiles siguientes a la fecha en que se les notifique la sanción correspondiente, acompañando las pruebas pertinentes e idóneas a efecto de que la propia Comisión resuelva lo conducente.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
-Las resoluciones a que se refiere el párrafo anterior, podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días hábiles siguientes a la fecha en que se hubieren notificado. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida previa audiencia del interesado.
+Las sanciones serán impuestas por la Junta de Gobierno de la Comisión quien podrá delegar esa facultad en razón de la naturaleza de la infracción o del monto de la multa, al Presidente o a los demás servidores públicos de la propia Comisión.
 
-Las sanciones que haya impuesto la Comisión Nacional Bancaria a las instituciones de crédito, en el ejercicio de sus funciones y en los términos de esta Ley, se harán efectivas cargando su importe en la cuenta que lleva el Banco de México a dichas instituciones. Tratándose de las sanciones impuestas a particulares, se harán efectivas por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+En contra de las sanciones que imponga la Comisión Nacional Bancaria procederá el recurso de revocación ante la misma, el cual deberá interponerse por escrito dentro de los quince días hábiles siguientes al de su notificación. El recurso previsto en este párrafo es de agotamiento obligatorio antes de acudir a otras instancias.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+El recurso señalado en el párrafo anterior deberá interponerse ante el Presidente de la Comisión cuando se trate de sanciones impuestas por los demás servidores públicos de ese órgano desconcentrado, y ante la Junta de Gobierno del mismo, cuando la sanción haya sido impuesta por el Presidente o por la propia Junta.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+En el escrito en que la parte afectada interponga el recurso deberán expresarse el acto impugnado y los agravios que el mismo cause, y se acompañarán u ofrecerán, según corresponda, las pruebas que al efecto se juzgue convenientes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad competente desechará por improcedente el recurso interpuesto. Si se omitieron las pruebas se tendrán por no ofrecidas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+La resolución del recurso de revocación podrá desecharlo por improcedente, o bien confirmar, mandar reponer por uno nuevo que lo sustituya, o revocar, el acto impugnado, y deberá ser emitida en un plazo no superior a los cuarenta y cinco días hábiles posteriores a aquél en que se interpuso el recurso, cuando deba ser resuelto por el Presidente de la Comisión, ni de sesenta días hábiles cuando se trate de recursos competencia de la Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Las multas impuestas por la Comisión Nacional Bancaria a las instituciones de crédito se harán efectivas cargando su importe en la cuenta que lleva el Banco de México a dichas instituciones. Corresponderá a la Secretaría de Hacienda y Crédito Público hacer efectivas las multas a personas distintas a las instituciones de crédito.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+El Banco de México realizará los cargos respectivos en la fecha en que la Comisión Nacional Bancaria se lo solicite por tratarse de multas contra las cuales no proceda ya medio de defensa alguno. Para tales efectos, la institución de crédito afectada dará aviso por escrito a la Comisión simultáneamente al ejercicio de cualquier medio de defensa ante la autoridad competente.
 
 ###### ARTICULO 111.
 
@@ -1476,7 +1560,11 @@ El fiduciario publicará anualmente en el mes de diciembre, en el Diario Oficial
 
 V. Las instituciones de banca múltiple estarán obligadas a proporcionar al Fondo la información que éste les solicite, para cumplir con sus fines, así como a poner en conocimiento del mismo, con toda oportunidad, cualquier problema que confronten y que, a su juicio, pueda dar lugar a apoyos del Fondo. Asimismo, las instituciones de banca múltiple estarán obligadas a recibir los apoyos que a propuesta del comité técnico la Secretaría de Hacienda y Crédito Público estime necesarios y a cumplir con los programas o medidas correctivos que el Fondo les apruebe;
 
-VI. Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para constituirse y operar como instituciones de banca múltiple en términos de la presente Ley, estarán obligadas a aportar al Fondo la cantidad inicial que resulte de aplicar al importe del patrimonio neto del propio Fondo, el porcentaje que el capital del banco de que se trate, represente del capital neto del conjunto de los bancos múltiples.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+VI. Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para constituirse y operar como instituciones de banca múltiple de conformidad con la presente Ley, estarán obligadas a aportar al Fondo la cantidad inicial que resulte de aplicar al importe del patrimonio neto del propio Fondo, el porcentaje que el capital neto promedio observado durante el tercer año de operación del banco de que se trate, represente del promedio del capital neto del conjunto de los bancos múltiples en el mismo año. Dicha cantidad inicial se empezará a cubrir desde que la sociedad inicie sus operaciones, en los términos que indique el comité técnico del Fondo.
+
+El importe del patrimonio neto al que se aplicará el porcentaje referido será el promedio que registre el Fondo durante los tres primeros años de operación del banco respectivo, y
 
 VII. El Banco de México cargará, en las cuentas que lleva a las instituciones de banca múltiple, el importe de las cuotas ordinarias y extraordinarias que éstas deban cubrir conforme a lo dispuesto en el presente artículo, precisamente en las fechas en que tales pagos deban efectuarse. Las cantidades así cargadas serán abonadas simultáneamente al Fondo.
 
@@ -1516,9 +1604,15 @@ VIII. Rendir un informe anual de sus labores a la Secretaría de Hacienda y Cré
 
 IX. Proveer lo necesario para que las instituciones de crédito cumplan debida y eficazmente las operaciones y servicios concertados con los usuarios del servicio de banca y crédito, y las sociedades a que se refiere el artículo 88 de esta Ley con los compromisos contraídos;
 
-X. Imponer las sanciones que en términos de esta Ley apruebe la Junta de Gobierno; y
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-XI. Las demás que le están atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
+X. Imponer sanciones administrativas por infracciones a ésta y las demás leyes que regulan las actividades, instituciones y personas sujetas a su inspección y vigilancia, así como de las disposiciones que emanen de ellas. Tales sanciones podrán ser, a juicio de la Comisión, amonestaciones u otras que establezcan las mencionadas leyes y disposiciones;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+XI. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente, previa aprobación de la Junta de Gobierno, las multas impuestas, y
+
+XII. Las demás que le están atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado “B” del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
 
 La Comisión Nacional Bancaria en el ejercicio de sus funciones de inspección y vigilancia, respecto de las operaciones que las instituciones de crédito lleven a cabo en términos de la Ley del Mercado de Valores, establecerá los mecanismos de coordinación necesarios con la Comisión Nacional de Valores, para el eficaz cumplimiento de las disposiciones en la materia.
 
@@ -1604,7 +1698,11 @@ XV. Investigar los actos de terceros que hagan suponer la realización de operac
 
 XVI. Representar a la Comisión Nacional Bancaria en los compromisos arbitrales, en los términos que dispongan las respectivas leyes, así como dictar el laudo correspondiente, y
 
-XVII. Las demás que le sean atribuidas por esta Ley y otras disposiciones legales.
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
+
+XVII. Imponer, de acuerdo a las facultades que le delegue la Junta de Gobierno, las sanciones que correspondan, así como conocer y resolver sobre el recurso de revocación, en los términos de ésta y las demás leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta de Gobierno la condonación total o parcial de las multas, y
+
+XVIII. Las demás que le sean atribuidas por esta Ley y otras disposiciones legales.
 
 ###### ARTICULO 132.
 
@@ -1809,3 +1907,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 Los inversionistas institucionales que a la entrada en vigor de este Decreto, excedan conjuntamente el porcentaje a que se refiere el artículo 17 fracción II de la Ley de Instituciones de Crédito, podrán conservar su participación accionaria en exceso, no debiendo adquirir en caso alguno nuevas acciones del capital ordinario de la institución emisora, ni aún tratándose de posteriores aumentos de capital, en tanto rebasen el límite permitido.
 
 ...
+
+D.O.F. 23 DE JULIO DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las instituciones de crédito deberán continuar participando en el sistema de información de operaciones activas que administra el Banco de México, hasta en tanto no proporcionen dicha información a alguna de las sociedades de información crediticia a que se refiere el artículo 33 de la Ley para Regular las Agrupaciones Financieras, o el propio Banco deje de administrar el mencionado sistema. El Banco de México asimismo queda facultado para proporcionar la información en el sistema que administra a cualquiera de las sociedades de información crediticia mencionadas.
+
+TERCERO.- Los recursos a que se refiere el artículo 110 de la Ley de Instituciones de Crédito, que se hayan interpuesto ante la Secretaría de Hacienda y Crédito Público con anterioridad a la entrada en vigor del presente Decreto, se continuarán tramitando en los mismos términos por dicha Secretaría, hasta su conclusión.
+
+CUARTO.- El porcentaje y el monto máximos previstos para las multas que aplique la Comisión Nacional Bancaria en términos del artículo 108 de la Ley de Instituciones de Crédito, que por virtud de este Decreto se reforma, continuarán siendo aplicables tratándose de incumplimientos o violaciones cometidos con anterioridad a la entrada en vigor del presente Decreto.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
