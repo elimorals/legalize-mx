@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1975-06-21"
+last_updated: "1980-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1980.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -11405,17 +11405,21 @@ Del mutuo simple.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1980)</small>
+
 ###### Art. 2216.
 
-La venta de un inmueble que tenga un valor hasta de mil pesos, podrá hacerse en instrumento privado que firmará el vendedor y comprador ante dos testigos. De dicho instrumento se formarán dos ejemplares, uno para el comprador y otro para el vendedor.
+La venta de un inmueble que tenga un valor hasta de cinco mil pesos, podrá hacerse en instrumento privado que firmará el vendedor y comprador ante dos testigos. De dicho instrumento se formarán dos ejemplares, uno para el comprador y otro para el vendedor.
 
 ###### Art. 2217.
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1738.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1980)</small>
+
 ###### Art. 2218.
 
-Si el valor del inmueble excede de mil pesos, su venta se hará en escritura pública.
+Si el valor del inmueble excede de cinco mil pesos, su venta se hará en Escritura Pública, salvo en el caso de las operaciones de compra-venta o donación que celebren tanto organismos públicos estatales como federales y que tiendan a regularizar la tenencia de la tierra.
 
 ###### Art. 2219.
 
@@ -15226,6 +15230,10 @@ P.O. 21 DE JUNIO DE 1975.
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales que se opongan a las presentes reformas.
+
+P.O. 9 DE FEBRERO DE 1980.
+
+El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
