@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1978-07-10"
+last_updated: "1980-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 1980.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -791,7 +791,7 @@ V.- No haber sido condenado por delito intencional.
 
 92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
 
-Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos (sic) y los designados entrarán a desempeñar sus funciones.
+Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos y los designados entrarán a desempeñar sus funciones.
 
 En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Comisión Permanente. Cuando los nombramientos hayan sido sometidos a la Comisión Permanente, el tercero se someterá al Congreso del Estado en el siguiente período de sesiones.
 
@@ -937,7 +937,9 @@ La extensión y límites de las delegaciones y subdelegaciones serán determinad
 
 ### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
 
-122.- Para la creación de municipios en el Estado se requerirán la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)</small>
+
+122.- Para la creación de Municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 
@@ -945,7 +947,9 @@ II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea 
 
 III.- Que sus recursos de desarrollo potencial le garanticen posibilidades de autosuficiencia económica, para cubrir un presupuesto mínimo anual de $30'000,000.00 (treinta millones de pesos);
 
-IV.- Que su población no sea inferior a treinta mil habitantes;
+> <small>(REFORMADA, B.O. 7 DE ABRIL DE 1980)</small>
+
+IV.- Que su población no sea inferior a veinte mil habitantes.
 
 V.- Que la comunidad en que se establezca su cabecera cuente con más de cinco mil habitantes;
 
@@ -1005,9 +1009,11 @@ CONCEPTO E INTEGRACION
 
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)</small>
 
-135.- Los Ayuntamientos se integran con un Presidente, un Síndico y cinco Regidores, electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde los Ayuntamientos se complementarán con dos Regidores electos por el principio de representación proporcional en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
+135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y siete Regidores, electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde el Ayuntamiento se complementará con dos Regidores electos por el principio de representación proporcional, en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
 El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique un Regidor, siempre y cuando satisfaga los siguientes requisitos:
 
@@ -1017,9 +1023,15 @@ b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elecció
 
 c).- Que alcance, por lo menos, el tres por ciento del total de la votación emitida en el Municipio respectivo.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+
 Un segundo Regidor podrá ser adjudicado al partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos la mitad de los sufragios que el partido triunfador minoritario haya alcanzado. De no darse este mínimo de proporción, se le adjudicará este segundo Regidor al partido triunfador minoritario.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+
 La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
 Los miembros de los Ayuntamientos durarán en su encargo tres años a partir de la fecha en que tomen posesión del mismo.
 
@@ -1386,6 +1398,12 @@ Las presentes reformas y adiciones entrarán en vigor al siguiente día de su pu
 B.O. 10 DE JULIO DE 1978.
 
 DECRETO NUMERO 112.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE ABRIL DE 1980.
 
 ###### ARTICULO UNICO.
 
