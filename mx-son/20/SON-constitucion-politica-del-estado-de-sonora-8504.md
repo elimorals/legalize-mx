@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1975-12-10"
+last_updated: "1976-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE ENERO DE 1976.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -419,11 +419,11 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
+> <small>(REFORMADO, B.O. 24 DE ENERO DE 1976)</small>
 
 ###### Artículo 46.
 
-El último viernes del mes de enero de cada año, con la exclusión del inmediato siguiente a la fecha del inicio de su ejercicio constitucional, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso ante quien rendirá, en el acto, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
+El día 13 del mes de octubre de cada año, con la exclusión del inmediato siguiente a la fecha del inicio de su ejercicio constitucional, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso ante quien rendirá, en el acto, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
 
 El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere el día trece de septiembre en el acto de la toma de posesión del Gobernador electo para el siguiente período.
 
@@ -1885,7 +1885,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -1918,6 +1918,16 @@ UNICO.- Las presentes reformas entrarán en vigor el mismo día de su publicaci�
 B.O. 10 DE DICIEMBRE DE 1975.
 
 UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE ENERO DE 1976.
+
+###### ARTICULO PRIMERO.
+
+Por esta única vez se prorroga el término para que el Gobernador sustituto del Estado rinda su informe administrativo, hasta el trece de octubre del año en curso, comprendiendo el período del 1o. de febrero de 1975 al 12 de octubre de 1976.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
