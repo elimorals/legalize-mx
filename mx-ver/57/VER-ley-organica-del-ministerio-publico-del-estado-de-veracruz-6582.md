@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "1983-08-20"
+last_updated: "1988-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 1988.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -177,7 +177,9 @@ X.- Los Agentes del Ministerio Público, Auxiliares del Procurador.
 
 XI.- Los Agentes Investigadores del Ministerio Público y los adscritos a los Juzgados de Primera Instancia.
 
-XII.- Los Agentes del Ministerio Público adscritos a los Juzgados Municipales, que serán: en la Cabecera del Distrito, el adscrito al correspondiente Juzgado de Primera Instancia, y en las Cabeceras Municipales en las que no haya Agentes designados, fungirá como investigador y adscrito el Jefe de la Oficina de Hacienda del Estado, a falta de éste el Síndico Primero o Unico del Ayuntamiento Municipal.
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 1988)</small>
+
+XII.- Los Agentes del Ministerio Público Adscritos a los Juzgados Menores y Municipales que serán: en la Cabecera del Distrito, el adscrito al correspondiente Juzgado de Primera Instancia y en las Cabeceras Municipales en las que no haya Agentes designados, fungirá como investigador y adscrito el Jefe de la Oficina de Hacienda del Estado, a falta de éste el Síndico Primero o Único del Ayuntamiento.
 
 XIII.- Los Agentes de la Policía Judicial.
 
@@ -575,15 +577,17 @@ IX.- Las demás que les señalen las Leyes, los Reglamentos y el Procurador Gene
 
 La Dirección General de Control de Procesos tendrá mediante los Agentes del Ministerio Público adscritos a los Juzgados del Ramo Civil, la intervención que las leyes y reglamentos señalen, y deberá poner especial cuidado en la protección de los intereses de los ausentes, menores e incapaces, en el trámite y resolución de las cuestiones civiles relativas al régimen de la familia y asuntos en los que el Estado sea parte.
 
+> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 1988)</small>
+
 ###### ARTICULO 39.
 
-Los Agentes del Ministerio Público adscritos a los Juzgados de los ramos penal y civil o mixtos, de Primera Instancia y Municipales, rendirán al Director General de Control de Procesos, cuando éste lo requiera, un informe del estado que guarden los negocios en que estén interviniendo o hayan intervenido.
+Los Agentes del Ministerio Público adscritos a los Juzgados de los ramos penal y civil o mixtos de Primera Instancia, Menores y Municipales, rendirán al Director General de Control de Procesos, cuando éste lo requiera, un informe del estado que guarden los negocios en que estén interviniendo o hayan intervenido.
+
+> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 1988)</small>
 
 ###### ARTICULO 40.
 
-El Procurador General de Justicia, conforme a las necesidades del servicio y las previsiones del presupuesto, determinará a qué Juzgados de Primera Instancia y Municipales debe adscribirse un Agente del Ministerio Público.
-
-Determinará asimismo en qué distritos judiciales habrá Agentes del Ministerio Público que, independientemente de las funciones investigadoras propias de la averiguación previa, ejerzan las funciones persecutoria y acusatoria en el ramo penal, así como las que en el ramo civil determinen la ley y los reglamentos.
+El Procurador General de Justicia, conforme a las necesidades del servicio y las previsiones del presupuesto, determinará a qué Juzgados de Primera Instancia, Menores y Municipales, debe adscribirse un Agente del Ministerio Público.
 
 ###### ARTICULO 41.
 
@@ -839,9 +843,11 @@ V.- Rendir mensualmente a la Dirección General de Control de Procesos un inform
 
 VI.- Las demás atribuciones, facultades y obligaciones que en materia civil y mercantil les señalen las leyes respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE FEBRERO DE 1988)</small>
+
 ###### ARTICULO 66.
 
-Los Agentes del Ministerio Público adscritos a los Juzgados Mixtos de Primera Instancia, tendrán las atribuciones, facultades y obligaciones que las disposiciones precedentes establecen para los Agentes del Ministerio Público de los ramos civil y penal.
+Los Agentes del Ministerio Público adscritos a los Juzgados Mixtos de Primera Instancia y Menores, tendrán las atribuciones, facultades y obligaciones que las disposiciones precedentes establecen para los Agentes del Ministerio Público de los ramos civil y penal.
 
 Las propias disposiciones, en lo conducente, serán aplicables respecto a los Agentes adscritos a los Juzgados Municipales del ramo penal, civil o mixtos.
 
@@ -1004,3 +1010,11 @@ DADA en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciud
 Por tanto, mando se imprima, promulgue, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 3 de agosto de 1983.- Lic. AGUSTIN ACOSTA LAGUNES.- Rúbrica.- El Secretario de Gobierno, Lic. IGNACIO MORALES LECHUGA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE FEBRERO DE 1988.
+
+PRIMERO.- El presente Decreto se publicará en la 'Gaceta Oficial' del Estado y entrará en vigor una vez que el Pleno del H. Tribunal Superior de Justicia de la Entidad establezca los Juzgados Menores.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
