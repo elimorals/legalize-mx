@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2001-12-07"
+last_updated: "2003-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -412,11 +412,21 @@ c) Proponer al Pleno la integración de las comisiones, con el señalamiento de 
 
 d) Presentar al Pleno, para su aprobación, el anteproyecto de presupuesto anual de la Cámara;
 
-e) Elaborar y proponer a la Conferencia para la Dirección y Programación de los Trabajos Legislativos el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera administrativo y financiero, a efecto de que lo considere para la redacción del proyecto de dicho instrumento normativo;
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-f) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los Grupos Parlamentarios; y
+e) Analizar y en su caso aprobar el informe de ejecución presupuestal que reciba de la Secretaría General, en donde se establezca el estado que guardan las finanzas de la Cámara;
 
-g) Las demás que le atribuyen esta ley, o los ordenamientos relativos.
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+f) Elaborar y proponer a la Conferencia para la Dirección y Programación de los Trabajos Legislativos el anteproyecto de la parte relativa del estatuto, por el cual se normará el servicio de carrera administrativo y financiero a efecto de que lo considere para la redacción del proyecto de dicho instrumento normativo;
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+g) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios, y
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+h) Las demás que le atribuyen esta ley, o los ordenamientos relativos.
 
 ###### ARTICULO 35.
 
@@ -480,77 +490,149 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 2. La Cámara de Diputados cuenta con comisiones ordinarias que se mantienen de legislatura a legislatura y son las siguientes:
 
-I. Agricultura y Ganadería
+I. Agricultura y Ganadería;
 
-II. Asuntos Indígenas
+II. Asuntos Indígenas;
 
-III. Atención a Grupos Vulnerables
+III. Atención a Grupos Vulnerables;
 
-IV. Ciencia y Tecnología
+IV. Ciencia y Tecnología;
 
-V. Comercio y Fomento Industrial
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-VI. Comunicaciones
+V. Comunicaciones;
 
-VII. Cultura
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-VIII. Defensa Nacional
+VI. Cultura;
 
-IX. Desarrollo Rural
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-X. Desarrollo Social
+VII. Defensa Nacional;
 
-XI. Educación Pública y Servicios Educativos
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XII. Energía
+VIII. Desarrollo Metropolitano;
 
-XIII. Equidad y Género
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XIV. Fomento Cooperativo y Economía Social
+IX. Desarrollo Rural;
 
-XV. Fortalecimiento del Federalismo
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XVI. Gobernación y Seguridad Pública
+X. Desarrollo Social;
 
-XVII. Hacienda y Crédito Público
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XVIII. Justicia y Derechos Humanos
+XI. Economía;
 
-XIX. Juventud y Deporte
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XX. Marina
+XII. Educación Pública y Servicios Educativos;
 
-XXI. Medio Ambiente y Recursos Naturales
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXII. Participación Ciudadana
+XIII. Energía;
 
-XXIII. Pesca
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXIV. Población, Fronteras y Asuntos Migratorios
+XIV. Equidad y Género;
 
-XXV. Presupuesto y Cuenta Pública
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVI. Puntos Constitucionales
+XV. Fomento Cooperativo y Economía Social;
 
-XXVII. Radio, Televisión y Cinematografía
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVIII. Recursos Hidráulicos
+XVI. Fortalecimiento al Federalismo;
 
-XXIX. Reforma Agraria
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXX. Relaciones Exteriores
+XVII. Gobernación;
 
-XXXI. Salud
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXII. Seguridad Social
+XVIII. Hacienda y Crédito Público;
 
-XXXIII. Trabajo y Previsión Social
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIV. Transportes
+XIX. Justicia y Derechos Humanos;
 
-XXXV. Turismo
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVI. Vivienda
+XX. Juventud y Deporte;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXI. Marina;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXII. Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXIII. Participación Ciudadana;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXIV. Pesca;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXV. Población, Fronteras y Asuntos Migratorios;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXVI. Presupuesto y Cuenta Pública;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXVII. Puntos Constitucionales;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXVIII. Radio, Televisión y Cinematografía;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXIX. Recursos Hidráulicos;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXX. Reforma Agraria;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXI. Relaciones Exteriores;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXII. Salud;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXIII. Seguridad Pública;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXIV. Seguridad Social;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXV. Trabajo y Previsión Social;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXVI. Transportes;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXVII. Turismo; y
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXVIII. Vivienda.
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -640,6 +722,12 @@ f) Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones tur
 
 g) Realizar las actividades que se deriven de esta ley, de los ordenamientos aplicables, de los acuerdos tomados por el Pleno de la Cámara y los que adopten por sí mismas con relación a la materia o materias de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+7. Las comisiones tomarán sus decisiones por mayoría de votos de sus miembros. En caso de empate en la votación de un proyecto de dictamen o resolución deberá repetirse la votación en la misma sesión, y si resultare empate por segunda vez, se discutirá y votará de nuevo el asunto en la sesión inmediata, pero si aquél persistiere, el asunto será resuelto en definitiva por el Pleno, dando cuenta de ambas posiciones, escuchando a los oradores a favor y en contra que determine el Presidente de la Mesa Directiva y conforme a las reglas del debate que rigen a la Asamblea.
+
+Los proyectos de dictamen de la Sección Instructora y los de las comisiones encargadas de resolver asuntos relacionados con imputaciones o fincamiento de responsabilidades, así como de juicio político y declaración de procedencia, sólo pasarán al Pleno si son votados por la mayoría de los integrantes respectivos.
+
 #### Sección Cuarta. De los Comités
 
 ###### ARTICULO 46.
@@ -648,7 +736,13 @@ g) Realizar las actividades que se deriven de esta ley, de los ordenamientos apl
 
 2. Para la orientación informativa, así como para el conocimiento y atención de las peticiones que formulen los ciudadanos a la Cámara o a sus órganos, se formará el Comité de Información, Gestoría y Quejas.
 
-3. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir "Grupos de Amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente por cada Legislatura.
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+3. Para auxiliar a la Junta de Coordinación Política en el ejercicio de sus funciones administrativas, habrá un Comité de Administración. El Acuerdo de su creación será propuesto al Pleno por la Junta y deberá señalar su objeto, integración y atribuciones, así como la directiva del Comité, cuya Presidencia deberá recaer en un Diputado del mismo Grupo Parlamentario de quien presida aquélla.
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+4. A propuesta de la Junta de Coordinación Política, el Pleno propondrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente para cada legislatura.
 
 ### CAPITULO SEPTIMO. De la Organización Técnica y Administrativa
 
@@ -1805,3 +1899,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 7 DE DICIEMBRE DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2003.
+
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
