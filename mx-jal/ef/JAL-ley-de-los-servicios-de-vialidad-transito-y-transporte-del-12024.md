@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2005-02-24"
+last_updated: "2005-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -854,6 +854,10 @@ II. Acreditar el pago de los impuestos y derechos que establezcan las disposicio
 III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación, así como la póliza del seguro que al efecto señala el artículo 67 de esta Ley;
 
 IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el cambio de propietario;
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2005)</small>
+
+En el caso del trámite de cambio de propietario, será optativa la renovación o canje de los elementos de identificación que acreditan el registro del vehículo, a excepción de la tarjeta de circulación, siempre y cuando el vehículo tenga un registro previo en el Estado y haya cumplido con el último canje general de placas en el Estado.
 
 V. Si el vehículo es de procedencia extranjera, acreditar su legal importación en los términos que señale la autoridad competente; y
 
@@ -2958,3 +2962,9 @@ P.O. 24 DE FEBRERO DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en este decreto.
+
+P.O. 8 DE MARZO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes, llevará a cabo todas las medidas necesarias a efecto de mantener actualizadas las bases de datos del Registro Estatal de los Servicios Públicos de Tránsito y Transporte, a efecto de eficientar la coordinación y flujo de información entre las diferentes dependencias del Ejecutivo Estatal así como de las municipales o federales que la requieran.
