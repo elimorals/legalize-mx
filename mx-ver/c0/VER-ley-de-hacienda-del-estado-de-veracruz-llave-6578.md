@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1992-12-31"
+last_updated: "1993-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1992
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1993
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -69,7 +69,9 @@ Este impuesto se causará, liquidará y pagará a razón de 1.0% sobre el monto 
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-I.-Empadronarse en la Oficina de Hacienda del Estado del lugar donde realicen sus actividades, durante los 10 días siguientes a la fecha en que hayan iniciado sus actividades;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+I.- Empadronarse en la oficina de Hacienda del Estado del lugar donde realicen sus actividades durante los 30 días siguientes a la fecha en que le fue otorgado el acuerdo de concesión.
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -173,15 +175,17 @@ I.-Empadronarse en la Oficina de Hacienda de su jurisdicción, dentro de los die
 
 II.- Dar aviso a la Secretaría de Finanzas y Planeación, por conducto de la Oficina de Hacienda correspondiente, en los casos de cambio de su domicilio así como en los de suspensión o cambio de la actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contando a partir del día en que ocurra el cambio.
 
-III.-Llevar un libro de ingresos y de egresos donde consten sus actividades;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+III.- Llevar un libro de ingresos y egresos donde consten sus actividades, debidamente sellado y autorizado por la oficina de hacienda del estado.
 
 IV.-Llevar talonarios de recibos autorizados por las Oficinas de Hacienda del Estado
 
 V.-Expedir recibos a sus clientes, conservando los talonarios correspondientes; y
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-VI.- Presentar declaración mensual ante la Oficina de Hacienda del Estado de su domicilio;
+VI.- Presentar declaracion mensual ante la oficina de hacienda del estado de su domicilio fiscal:
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -973,21 +977,27 @@ VI.- Por la inscripción de cualquier tipo de testamentos, contratos de depósit
 
 VII.- Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 a).-Hasta N$1,000.00 6 Salarios Mínimos.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 b).-Por lo que exceda de N$1,000.00 por cada N$100.00 o fracción. N$0.02
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 c).- Inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada N$10.00 o fracción. N$0.015
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-d).- Además sobre el monto de capital variable, por cada N$10.00 o fracción. N$0.005
+d).- Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable
+
+6 salarios mínimos.
+
+Además sobre el monto de capital variable, por cada N$10.00 o fracción:
+
+N$0.005
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1149,21 +1159,25 @@ Por los servicios que presta la Editora de Gobierno del Estado, se causarán y p
 
 I.- Publicaciones:
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-a).-Edicto de interés pecuniario, como las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos. N$0.15
+a).-Edicto de interés pecuniario, como las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+Palabra por inserción N$1.50
 
-b).- Palabra por inserción
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-Edicto de interés social, como cambio de nombre, póliza de defunción.
+b).- Edicto de Interés Social, como: cambio de nombre, póliza de defunción.
 
 Palabra por inserción N$0.10
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 c) Cortes de caja, balances o cualquier documento de formación especial. Por plana.
 
 6 salarios mínimos
+
+N$ 300.00
 
 II.-Ventas:
 
@@ -1171,25 +1185,79 @@ a).-Gaceta extraordinaria de 1 a 24 planas.
 
 1 salario mínimo
 
+N$25.00
+
 b).-Número extraordinario.
 
 2.5 salarios mínimos
+
+N$60.00
 
 c).-Alcances de 1 a 24 planas.
 
 1 salario mínimo
 
+N$50.00
+
 d).-Alcances de 24 a 72 planas.
 
 1.5 salarios mínimos
+
+N$120.00
 
 e).-Alcances de 72 a 216 planas.
 
 2 salarios mínimos
 
+N$150.00
+
 f).-Por copia de Gaceta.
 
 0.10 de salario mínimo
+
+N$100.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+g).-Por un año de suscripción
+
+N$300.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+h).- Por un año de suscripción foranea.
+
+N$350.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+i).- Por un semestre de suscripción.
+
+N$150.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+j).- Por un semestre de suscripción foranea.
+
+N$200.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+k).- Por un ejemplar.
+
+N$3.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+l).- Por un ejemplar atrasado.
+
+N$15.00
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+m).-Sentencias, resoluciones, deslindes de caracter agrerio y acuerdo de licitación de obra pública, una plan.
+
+N$50.00
 
 > <small>(REFORMADA SU DENOMINACION. G.O. 24 DE DICIEMBRED E 1991)</small>
 
@@ -1299,6 +1367,12 @@ Canje Trianual
 
 3 Salarios Mínimos.
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+IV-BIS.- Expedición de licencias de motorista, para conducir maquinaria pesada para construcción:
+
+7 Salarios Mínimos
+
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 V.-Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo.
@@ -1313,9 +1387,7 @@ A).-Permisos especiales para conducir hasta por 180 días renovables, a personas
 
 4 salarios mínimos.
 
-B).-Permiso Provisional para conducir por 15 días.
-
-1 salario mínimo
+B).- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1993)
 
 C).-Permiso para ocupar zonas para estacionamiento exclusivo en las Vías Públicas, cuando éstas resulten necesarias para la prestación de un Servicio Público, de acuerdo con el Reglamento de Tránsito y Transporte (Por vehículo).
 
@@ -1333,7 +1405,9 @@ Por revalidación anual
 
 15 salarios mínimos
 
-E).-Permiso particular para el Transporte de Carga Especifica.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+E).-Permiso particular para el transporte de carga especifica o personas
 
 Por un año
 
@@ -1350,6 +1424,16 @@ F).-Permiso particular para circular vehículos nuevos sin placas ni tarjeta de 
 G).-Permiso especial a particular para circular por 30 días con el parabrisas deteriorado, sin tarjeta de circulación o sin una placa o con vehículo en mal estado.
 
 1 salario mínimo
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+h).- Pemiso para establecer escuelas para la enseñanza del manejo de vehículos:
+
+100 Salarios Mínimos
+
+Por revalidación Anual
+
+50 Salarios Mínimos
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1373,11 +1457,11 @@ C).-Canje anual de engomado y tarjeta de circulación.
 
 4 salarios mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-D).-Canje anual de placa y tarjeta de circulación para motocicleta.
+D).-Canje anual de tarjeta de circulación para motocicleta.
 
-2 salarios mínimos
+2 Salarios Mínimos
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1461,11 +1545,13 @@ B).-Expedición de Constancias y Certificados Médicos y de cualquier otra natur
 
 1 salario mínimo
 
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
 C).-Expedición de permisos diversos.
 
 Por día
 
-hasta 1 salario mínimo.
+1 salario mínimo.
 
 D).-Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los limites de la ciudad de que se trate.
 
@@ -1477,29 +1563,29 @@ E).-Por la utilización de servicio oficial de depósito y custodia de vehículo
 
 Por día 0.20 salario mínimo
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 X.-Por el otorgamiento de concesión para prestar el servicio publico de transporte.
 
-Hasta 1000 salarios mínimos
+De 150 a 1000 salarios mínimos
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-XI.-Por la transmisión de los derechos de concesión para prestar el servicio público de transporte.
+XI.- Por la transmision por sucesion de los derechos de concesion para prestar el servicio publico en la modalidad de taxi y colectivo:
 
-Hasta 150 salarios mínimos
+De 100 a 1000 Salarios Mínimos
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 XII.-Por el otorgamiento de permiso para prestar el servicio de grúas.
 
 Por grúa
 
-60 salarios mínimos
+80 salarios mínimos
 
 Revalidación anual
 
-30 salarios mínimos
+40 salarios mínimos
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1827,21 +1913,31 @@ T A R I F A S :
 
 Por los servicios prestados por la Dirección General del Patrimonio, se causarán y pagarán los derechos siguientes:
 
-I.- Trabajos Técnicos por Lote. 2 salarios mínimos
+I.- TRABAJO TECNICO POR LOTE.
 
-II.-Replanteo de Linderos por Lote. 2 salarios mínimos
+3 SALARIOS MINIMOS.
 
-III.-Elaboración de Croquis de Lote. 2 salarios mínimos
+II.- REPLANTEO DE LINDEROS POR LOTE.
 
-IV.-Elaboración de Avaluos de Lote. 6 salarios mínimos
+3 SALARIOS MINIMOS.
 
-V.-Levantamientos de Poligonales Envolventes.
+III.- ELABORACIÓN DE CROQUIS DE LOTE.
 
-Por hectárea. 15 salarios mínimos
+3 SALARIOS MINIMOS.
 
-VI.-Subdivisión de Lotes. 1 salario mínimo
+IV.- ELABORACION DE AVALUOS DE LOTE.
 
-VII.-Constancia de Posesión 1 salario mínimo
+8 SALARIOS MINIMOS.
+
+V.- LEVANTAMIENTO DE POLIGONALES ENVOLVENTES POR HECTAREA.
+
+18 SALARIOS MINIMOS
+
+VI.- SUBDIVISIÓN DE LOTES.
+
+2 SALARIOS MINIMOS.
+
+VII.- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1993)
 
 VIII.-Por Copias Certificadas de Documentos, por hoja. 0.25 salario mínimo
 
@@ -2449,7 +2545,9 @@ Campestre, Habitacional o Agropecuario 40
 
 Servicios 35
 
-USO/RANGO Más de 100,000 M2
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+USO/RANGO POR CADA 100,000 M2
 
 SALARIOS MININOS
 
@@ -2468,6 +2566,10 @@ Comercial 55
 Campestre, Habitacional o Agropecuario 45
 
 Servicios 40
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+PARA LAS FRACCIONES INTEMEDIAS ENTRE CADA 100,000 M2 SE SUMARA EL COBRO A LO INDICADO POR EL RANGO ANTERIOR EN DONDE LE CORRESPONDA.
 
 V.-Recepción, Evaluación y Autorización de Publicación y Proyecto de Lotificación.
 
@@ -2571,7 +2673,9 @@ Campestre, Habitacional o Agropecuario 40
 
 Servicios 35
 
-USO/RANGO Mas de 100,00 M2
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+USO/RANGO POR CADA 100,000 M2
 
 SALARIOS MININOS
 
@@ -2590,6 +2694,10 @@ Comercial 55
 Campestre, Habitacional o Agropecuario 45
 
 Servicios 40
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+PARA LAS FRACCIONES INTERMEDIAS ENTRE CADA 100,000 M2 SE SUMARA EL COBRO A LO INDICADO POR EL RANGO ANTERIOR EN DONDE LE CORRESPONDA.
 
 VI.-Recepción, Estudio e Inspecciones Locales y/o Foráneas con reporte fotográfico para emitir dictámenes para la fusión, subdivisión y relotificación de terrenos, así como para verificar edificios en los que se pretende constituir el régimen en condominio
 
@@ -2693,7 +2801,9 @@ Campestre, Habitacional o Agropecuario 20
 
 Servicios 40
 
-USO/RANGO Más de 10, 000 M2.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+USO/RANGO POR CADA 10,000 M2
 
 SALARIOS MININOS
 
@@ -2712,6 +2822,10 @@ Comercial 80
 Campestre, Habitacional o Agropecuario 30
 
 Servicios 50
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+PARA LAS FRACCIONES INTERMEDIAS ENTRE CADA 10,000 M2 SE SUMARA EL COBRO A LO INDICADO POR EL RANGO ANTERIOR EN DONDE LE CORRESPONDA
 
 VII.-Recepción, elaboración y expedición de dictámenes técnicos para autorización de regímenes de propiedad en condominio.
 
@@ -2835,7 +2949,9 @@ Campestre, Habitacional o Agropecuario 35
 
 Servicios 65
 
-USO/RANGO Más de 1,000 M2. Const.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+USO/RANGO POR CADA 1,000 M2 CONST.
 
 SALARIOS MININOS
 
@@ -2854,6 +2970,10 @@ Comercial 90
 Campestre, Habitacional o Agropecuario 40
 
 Servicios 70
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+PARA LAS FRACCIONES INTERMEDIAS ENTRE CADA 1,000 M2 CONST. SE SUMARA EL COBRO A LO INDICADO POR EL RANGO ANTERIOR EN DONDE LE CORRESPONDA.
 
 > <small>(ADICIONADO. G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -2880,6 +3000,12 @@ I.- Por copias certificadas de escrituras de protocolo por cada hoja o fracción
 III.-Por la expedición de certificados de sanidad animal otorgados por la Secretaría de Desarrollo Agropecuario y Pesquero.
 
 Por cada animal 7 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+IV.- POR LA EXPEDICION DE COPIAS CERTIFICADAS DE DILIGENCIAS DE AVERIGUACIONES PREVIAS, POR CADA HOJA O FRACCION.
+
+0.25 SALARIO MINIMO
 
 ###### ARTICULO 55.
 
@@ -3063,6 +3189,10 @@ IX.-Almacenaje o guarda de bienes; y
 
 X.-Productos de archivo y productos diversos.
 
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+
+XI.- LOS PRODUCTOS PROVENIENTES DEL DEPARTAMENTO DE CATASTRO.
+
 ###### ARTICULO 68.
 
 El importe de los productos señalados en el artículo anterior, será fijado por el Ejecutivo del Estado.
@@ -3236,3 +3366,13 @@ El presente ordenamiento entrará en vigor el día 1 de Enero de 1993, previa pu
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento
+
+G.O. 28 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EL DIA 1° DE ENERO DE 1994, PREVIA PUBLICACION EN LA "GACETA OFICIAL" DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE ORDENAMIENTO.
