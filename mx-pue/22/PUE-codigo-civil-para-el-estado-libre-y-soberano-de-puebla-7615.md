@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1992-12-15"
+last_updated: "1994-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -17969,9 +17969,11 @@ El testamento se dictará y redactará en un solo acto, y durante éste el testa
 
 Las formalidades se practicarán ininterrumpidamente y el Notario dará fe de haberse llenado todas ellas.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+
 ###### Artículo 3286.
 
-Faltando alguna de las solemnidades establecidas, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá además en la pena de pérdida de oficio.
+Faltando alguna de las solemnidades establecidas, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios.
 
 #### Sección Quinta.- Testamento militar y marítimo
 
@@ -19378,3 +19380,7 @@ Los Jueces de lo Familiar que conozcan de estas gestiones, ordenarán se hagan l
 ###### ARTICULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 1994.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
