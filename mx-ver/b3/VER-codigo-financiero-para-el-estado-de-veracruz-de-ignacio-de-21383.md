@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2001-12-27"
+last_updated: "2002-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ABRIL DE 2002.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -159,7 +159,9 @@ Las contribuciones estatales se clasifican en:
 
 I. Impuestos: son las contribuciones establecidas en ley que deben pagar las personas físicas o morales que se encuentren en la situación jurídica o de hecho prevista por la misma, y
 
-II. Derechos: son las contribuciones establecidas en Ley por recibir servicios que prestan las dependencias y entidades del Gobierno del Estado en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes del dominio público del Estado o de la Federación concesionados a aquél.
+> <small>(REFORMADA, G.O. 12 DE ABRIL DE 2002)</small>
+
+II. Derechos: son las contribuciones establecidas en Ley por recibir servicios que prestan las dependencias y entidades del Gobierno del Estado en sus funciones de derecho público, así como los ingresos percibidos directamente por el Estado por el uso y aprovechamiento de los bienes de dominio público del Estado o de la Federación concesionados a aquél.
 
 Los recargos, las sanciones económicas, los gastos de ejecución y la indemnización por cheques presentados en tiempo a institución de crédito y que no sean pagados cuando éstos se apliquen a cubrir contribuciones, son accesorios de éstas y participan de su naturaleza jurídica.
 
@@ -2283,67 +2285,7 @@ ocho, nueve y diez ejes $45.00
 
 EE2 Remolques de trailers $ 8.00
 
-II. Por el uso de puentes o carreteras federales concesionadas al Estado.
-
-a) Por el uso del puente "La Antigua" en el municipio de La Antigua.
-
-1. Caseta del puente "La Antigua".
-
-Clase Tipo de Vehículo Cuota
-
-Monto en pesos
-
-A Automóviles $27.00
-
-B2/C2 Autobuses y Camiones de
-
-dos ejes $44.00
-
-B3/C3 Autobuses y Camiones de
-
-tres ejes $44.00
-
-C4 Camiones de cuatro ejes $44.00
-
-C5 Camiones de cinco ejes $103.00
-
-C6 Camiones de seis ejes $103.00
-
-C7 Camiones de siete ejes $152.00
-
-C8 Camiones de ocho ejes $152.00
-
-C9 Camiones de nueve ejes $152.00
-
-2. Caseta auxiliar de "San Julián".
-
-Clase Tipo de Vehículo Cuota
-
-Monto en pesos
-
-A Automóviles $9.00
-
-B2/C2 Autobuses y Camiones de
-
-dos ejes $21.00
-
-B3/C3 Autobuses y Camiones de
-
-tres ejes $21.00
-
-C4 Camiones de cuatro ejes $21.00
-
-C5 Camiones de cinco ejes $41.00
-
-C6 Camiones de seis ejes $41.00
-
-C7 Camiones de siete ejes $48.00
-
-C8 Camiones de ocho ejes $48.00
-
-C9 Camiones de nueve ejes $48.00
-
-La actualización de tarifas deberá observar las disposiciones de carácter federal y los términos del título de concesión otorgado al Estado.
+II. (DEROGADA, G.O. 12 DE ABRIL DE 2002)
 
 ### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
@@ -3259,11 +3201,47 @@ Se exceptúan de las disposiciones del párrafo anterior, el ejercicio, la conta
 
 El Gobernador del Estado podrá autorizar la participación estatal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+
 ###### Artículo 175.
 
-Sólo se podrán constituir fideicomisos públicos por decreto del Gobernador o del Congreso. El incremento en el patrimonio de los fideicomisos se hará con autorización del Gobernador del Estado emitida por conducto de la Secretaría; y cuando así convenga al interés público, la misma propondrá al Ejecutivo Estatal la modificación o extinción de éstos.
+Cuando los fideicomisos públicos tengan por objeto crear entidades paraestatales, éstos sólo se podrán constituir previo decreto del Gobernador o del Congreso. El incremento en el patrimonio de los fideicomisos públicos se hará con autorización del Gobernador del Estado, emitida por conducto de la Secretaría; y cuando así convenga al interés público, la misma propondrá al ejecutivo Estatal la modificación o extinción de éstos.
 
-La Secretaría será fideicomitente único del Gobierno del Estado.
+> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+El ejecutivo del Estado o las entidades podrán afectar en fideicomiso bursátil sus bienes o derechos.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+Los fideicomisos bursátiles constituidos específicamente para emitir y colocar títulos en el mercado de valores tendrán la categoría de no paraestatales; su operación interna será ajena a la normatividad aplicable a la administración pública estatal y se sujetarán a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles correspondientes.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+Los bienes o derechos afectos a fideicomisos bursátiles se considerarán desincorporados temporalmente del patrimonio del Estado o de sus entidades, aplicándose los recursos que produzcan a la conservación del bien o derecho, al pago de la emisión y a los demás fines previstos en el fideicomiso que resulten conexos a los anteriores.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+En los fideicomisos bursátiles cuyas emisiones no generen obligaciones directas o contingentes para el Estado o sus entidades, el riesgo de que dichos bienes o derechos y los recursos generados sean suficientes para el pago de la emisión, correrá exclusivamente a cargo de los tenedores de los títulos colocados en el mercado de valores, por lo que no originarán deuda pública y su emisión y pago se regirán por las normas aplicables de derecho mercantil y bursátil.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+Las decisiones fundamentales sobre la disposición de los recursos derivados del patrimonio del fideicomiso se regirán por el contrato constitutivo y, en lo no previsto, por las decisiones del Comité Técnico y de los tenedores de los valores emitidos, según corresponda, incluyendo la posibilidad de que puedan fijar o variar las cuotas o contraprestaciones aplicables a los servicios que se presten al público con los bienes o derechos afectados temporalmente en este esquema.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+La constitución o incremento en el patrimonio de los fideicomisos bursátiles requerirá de la aprobación previa del Congreso.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+Los recursos que reciba el Estado o sus entidades como consecuencia de la emisión de los títulos, por concepto de excedentes o de aquellos respecto de los cuales tengan facultades para decidir sobre su aplicación o destino por medio del fideicomiso bursátil, estarán sujetos a las disposiciones previstas en este Código y en las demás leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+Los recursos que el Estado o sus entidades capten bajo el esquema de colocación de títulos en el mercado de valores, se destinarán a financiar el gasto público.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+Los títulos que se emitan, conforme a lo dispuesto en este artículo, sólo podrán colocarse en bolsas de valores domiciliadas en el país y serán pagaderos en moneda nacional o en unidades de valor referidas a dicha moneda.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS PÚBLICOS
 
@@ -4425,15 +4403,19 @@ La Contraloría, en los términos de la Ley de Responsabilidades de los Servidor
 
 Sólo se concertarán créditos para programas aprobados e incluidos en los presupuestos de las dependencias y entidades, previa autorización del Congreso. Estos créditos se contratarán por conducto de la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+
 ###### Artículo 312.
 
-El presente Libro regula las operaciones de endeudamiento relativas a las bases para la concertación, contratación y reestructuración de las diversas opciones de financiamiento, a los requisitos para emitir bonos, obligaciones de deuda, certificados de participación, pagarés y a la celebración de actos jurídicos análogos a los anteriores, que se destinen al establecimiento de inversiones públicas productivas o para el desarrollo de acciones encaminadas a la obtención de beneficios sociales.
+El presente Libro regula las operaciones de endeudamiento relativas a las bases para la concertación, contratación y reestructuración de las diversas opciones de financiamiento, a los requisitos para emitir bonos, obligaciones de deuda, pagarés y a la celebración de actos jurídicos análogos a los anteriores, que se destinen al establecimiento de inversiones públicas o para el desarrollo de acciones encaminadas a la obtención de beneficios sociales.
 
 Asimismo, considera la contratación de operaciones destinadas a cubrir necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional o estatal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que alterare la planeación financiera del Estado.
 
+> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+
 ###### Artículo 313.
 
-La deuda pública, en su conjunto, está constituida por las obligaciones directas o indirectas derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes, contratación de obras o servicios cuyo pago se pacte a plazos, emisión de bonos, obligaciones de deuda, certificados de participación, pagarés constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se obtengan a favor del Estado y municipios, por sí o por sus entidades, que podrán tener como garantía la afectación de participaciones federales.
+La deuda pública, en su conjunto, está constituida por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obras o servicios cuyo pago se pacte a plazos, emisión de bonos, obligaciones de deuda, pagarés constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se obtengan a favor del Estado, por sí o sus entidades, mismos que podrán tener como garantía la afectación de participaciones federales.
 
 ###### Artículo 314.
 
@@ -4507,7 +4489,7 @@ En ningún caso se autorizarán financiamientos que generen obligaciones que exc
 
 ###### Artículo 323.
 
-En materia de deuda pública, corresponde al Ejecutivo del Estado, por conducto de la Secretaría, lo siguiente:
+En materia de deuda pública, corresponde al Ejecutivo del estado, por conducto de la Secretaría, lo siguiente:
 
 I. Administrar y controlar la deuda pública del Gobierno del Estado, así como otorgar las garantías que se requieran.
 
@@ -4517,7 +4499,9 @@ III. Elaborar la planeación y programación de la deuda pública del Estado.
 
 IV. Consignar en el presupuesto anual las amortizaciones por concepto de capital e intereses a que den lugar las operaciones de deuda a cargo del Estado.
 
-V. Solicitar al Congreso la autorización para la contratación de deuda, otorgamiento de aval y emisión de bonos, obligaciones de deuda, certificados de participación o pagarés, en los términos que señalen este Código y las disposiciones que le resulten aplicables.
+> <small>(REFORMADA, G.O. 12 DE ABRIL DE 2002)</small>
+
+V. Solicitar al Congreso la autorización para la contratación de deuda, otorgamiento de aval y emisión de bonos, obligaciones de deuda o pagarés, en los términos que señalen este Código y las disposiciones que le resulten aplicables.
 
 VI. Vigilar la aplicación de los recursos provenientes de las operaciones de endeudamiento contratadas, cuidando que los recursos se destinen al establecimiento de inversiones públicas productivas, que apoyen el desarrollo económico social y que generen ingresos para su puntual amortización.
 
@@ -4533,9 +4517,11 @@ X. Llevar el registro de obligaciones derivadas de la contratación de todas las
 
 El Ejecutivo del Estado podrá solicitar al Congreso la contratación de montos adicionales de endeudamiento a los originalmente presupuestados, cuando considere que existen situaciones económicas extraordinarias que así lo exijan.
 
+> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+
 ###### Artículo 325.
 
-Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre las operaciones de endeudamiento sobre el crédito del Estado, y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de bonos, obligaciones de deuda, certificados de participación y pagarés, afectando en caso necesario, las participaciones que en ingresos federales le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
+Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre las operaciones de endeudamiento sobre el crédito del Estado, y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de bonos, obligaciones de deuda y pagarés, afectando en caso necesario, las participaciones que en ingresos federales le correspondan a la Entidad. De igual forma, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
 
 ###### Artículo 326.
 
@@ -4546,6 +4532,8 @@ Las operaciones de endeudamiento que realice el Estado, los municipios y sus ent
 En el presupuesto anual se señalarán los montos autorizados para las operaciones de endeudamiento que generen deuda pública; así como para efectuar la amortización de los mismos.
 
 ### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
 
 ###### Artículo 327.
 
@@ -4593,7 +4581,7 @@ Los municipios y sus entidades presentarán periódicamente, en la forma en que 
 
 ###### Artículo 333.
 
-Son títulos de deuda pública los bonos u obligaciones de deuda, los certificados de participación y los pagarés que, mediante la emisión de documentos en una o varias series, se pongan a disposición de las personas físicas o morales y sean inscritos en el Registro de Obligaciones y Empréstitos de Entidades Federativas y municipios de la Secretaría de Hacienda y Crédito Público o en el registro que para tales efectos y en sustitución del anterior determine la propia Secretaría de Hacienda y Crédito Público y en el registro:
+Son títulos de deuda pública los bonos, obligaciones de deuda y pagarés que, mediante la emisión de documentos en una o varias series, se pongan a disposición de las personas físicas o morales y sean inscritos en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público, o en el registro que para tales efectos y en sustitución del anterior, determine esta dependencia federal, requiriéndose además su inscripción en el Registro Público de Deuda Estatal, los cuales tendrán las siguientes características:
 
 I. Que sean pagaderas en México, en moneda nacional y que sólo puedan ser adquiridos por personas físicas o morales de nacionalidad mexicana.
 
@@ -4603,7 +4591,9 @@ III. Que los recursos captados se destinen al establecimiento de inversiones pú
 
 IV. Que se inscriban en la sección de valores del Registro Nacional de Valores e Intermediarios y en la Bolsa Mexicana de Valores.
 
-En dichos bonos, obligaciones de deuda, certificados y pagarés se citarán los datos fundamentales de su autorización y la prohibición de su venta a extranjeros.
+> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+
+En dichos bonos, obligaciones de deuda y pagarés, se citarán los datos fundamentales de su autorización y la prohibición de su venta a extranjeros.
 
 La emisión de los documentos corresponderá exclusivamente al Ejecutivo del Estado, por conducto de la Secretaría.
 
@@ -4625,13 +4615,7 @@ La duración del plazo que regirá a las emisiones estará acorde con los proyec
 
 ###### Artículo 336.
 
-Los certificados de participación son títulos que representan el derecho a una parte indivisible de los rendimientos que produzcan las inversiones públicas productivas, creadas con el monto captado por su emisión.
-
-Para efectos de la emisión de los certificados, podrán constituirse fideicomisos públicos sobre las inversiones productivas creadas, con el propósito de eficientar el manejo de los recursos captados.
-
-En los fideicomisos públicos que se constituyan para la emisión de los certificados, fungirá como fideicomitente, en representación del Gobierno del Estado, el titular de la Secretaría.
-
-La emisión de los documentos estará amparada por un único título múltiple que se entregará exclusivamente para su resguardo a una institución para el depósito de valores autorizada en términos de la Ley del Mercado de Valores, y su duración no será inferior a cinco años.
+(DEROGADO, G.O. 12 DE ABRIL DE 2002)
 
 ###### Artículo 337.
 
@@ -4649,9 +4633,11 @@ En todo lo referente al manejo y operación de los instrumentos bursátiles enun
 
 ### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+
 ###### Artículo 339.
 
-El Ejecutivo del Estado, a través de la Secretaría, contará con un Registro Público de Deuda Estatal en el cual se inscribirán los documentos en que se hagan constar las operaciones de endeudamiento que efectúe el Estado y sus entidades, así como las operaciones de endeudamiento de los municipios o sus entidades con el aval del Estado; además, se inscribirán en este las emisiones de bonos, obligaciones de deuda, certificados de participación y pagarés que expida el Estado.
+El Ejecutivo del Estado, a través de la Secretaría, contará con un Registro Público de Deuda Estatal en el cual se inscribirán los documentos en que se hagan constar las operaciones de endeudamiento que efectúe el Estado y sus entidades, así como las operaciones de deuda de los Ayuntamientos o sus entidades que se contraten con el aval del Estado; además, se inscribirán en éste las emisiones de bonos, obligaciones de deuda y pagarés que expida el Estado.
 
 ###### Artículo 340.
 
@@ -4703,9 +4689,11 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+
 ###### Artículo 344.
 
-Las participaciones que corresponden al Estado y los municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, en favor del Estado, municipios, entidades estatales o municipales, que hayan requerido de afectación en garantía, emisión de bonos, obligaciones de deuda, certificados de participación, pagarés y la celebración de actos jurídicos análogos ante la Federación, Instituciones de crédito que operen en el territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+Las participaciones federales que corresponden al Estado y a los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego en lo dispuesto en este Código, a favor del Estado, Municipios, entidades estatales o municipales, que hayan requerido de afectación en garantía, emisión de bonos, obligaciones de deuda, pagarés y la celebración de actos jurídicos análogos ante la Federación, Instituciones de Crédito que operen en el territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
 
 Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente, tratándose de adeudos avalados por el Estado.
 
@@ -4722,6 +4710,8 @@ Se considerará que un Municipio se encuentra en mora, cuando no presente la doc
 De no demostrar el cumplimiento, se procederá a efectuar los pagos de las erogaciones que se hayan dejado de amortizar, mediante la afectación de las participaciones que en ingresos federales le correspondan.
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
 
 ## TRANSITORIOS
 
@@ -4770,3 +4760,9 @@ G.O. 27 DE DICIEMBRE DE 2001.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Las dependencias y entidades del Poder Ejecutivo, a través de la Secretaría, así como el Poder Judicial y los Organismos Autónomos de (sic) Estado a través de sus respectivas unidades administrativas adecuarán su sistema de afectación presupuestal y registro contable, a fin de cumplir, a partir del 1 de julio del 2002, lo dispuesto en el artículo 179, que entrará en vigor en esa fecha.
+
+G.O. 12 DE ABRIL DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del gobierno del estado, con excepción de la derogación de la fracción II del apartado E del artículo 143, que entrará en vigor en la fecha en la que, en su caso, se constituya el fideicomiso bursátil correspondiente.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
