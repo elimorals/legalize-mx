@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1980-08-23"
+last_updated: "1981-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1981.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -3657,13 +3657,73 @@ ART. 945.- Cuando parte de la cosa perteneciere exclusivamente a un copropietari
 
 ART. 946.- Todo condueño tiene la plena propiedad de la parte alícuota que le corresponda y la de sus frutos y utilidades pudiendo en consecuencia, enajenarla, cederla o hipotecarla, y aún sustituir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños estará limitado a la porción que se le adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1965)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1981)</small>
 
-ART. 947.- Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquel o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda o local y además un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosas, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbres, etc.
+### CAPITULO I. Del usufructo en general
 
-El derecho de copropiedad sobre los elementos comunes del edificio sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes del edificio no es susceptible de división.
+ART. 976.- El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
 
-Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que hubiere establecido el régimen de propiedad, por las de compra-venta correspondientes, por el Reglamento del Condominio y Administración y, en su caso, por la Ley Reglamentaria de este artículo.
+ART. 977.- El usufructo puede constituirse por la ley, por la voluntad del hombre o por prescripción.
+
+ART. 978.- Puede constituirse el usufructo a favor de una o de varias personas, simultánea o sucesivamente.
+
+ART. 979.- Si se constituye a favor de varias personas simultáneamente, sea por herencia, sea por contrato, cesando el derecho de una de las personas, pasará al propietario, salvo que el (sic) constituirse el usufructo se hubiere dispuesto que acrezca a los otros usufructuarios.
+
+ART. 980.- Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
+
+ART. 981.- El usufructo puede constituirse desde o hasta cierto día puramente y bajo condición.
+
+ART. 982.- Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario.
+
+ART. 983.- Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
+
+ART. 984.- Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituido sobre bienes de esta clase.
+
+### CAPITULO II. De los derechos del usufructuario
+
+ART. 985.- El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario, siempre que en él se interese el usufructo.
+
+ART. 986.- El usufructuario tiene derecho de percibir todos los frutos, sean naturales, industriales o civiles.
+
+ART. 987.- Los frutos naturales o industriales pendientes al tiempo de comenzar el usufructo, pertenecerán al usufructuario. Los pendientes al tiempo de extinguirse el usufructo pertenecen al propietario. Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de labores, semillas u otros gastos semejantes. Lo dispuesto en este artículo no perjudica a los aparceros o arrendatarios que tengan derecho de percibir alguna porción de frutos, al tiempo de comenzar o extinguirse el usufructo.
+
+ART. 988.- Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dure el usufructo, aún cuando no estén cobrados.
+
+ART. 989.- Si el usufructo comprendiera cosa (sic) que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no está obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubiere sufrido por dolo o negligencia.
+
+ART. 990.- Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas; pero está obligado a restituirlas al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubieren dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
+
+ART. 991.- Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquéllos; pero para que el capital se redima anticipadamente, para que se haga novación de la obligación primitiva, para que se sustituya la persona del deudor, si no se trata de derechos garantizados con gravamen real, así como para que el capital redimido vuelva a imponerse, se necesita el consentimiento del usufructuario.
+
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
+
+ART. 992.- El usufructuario de un monte disfruta de todos los productos que provengan de éste, según su naturaleza.
+
+ART. 993.- Si el monte fuera talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño, acomodándose en el modo, porción o época a las leyes espaciales o a las costumbres del lugar.
+
+ART. 994.- En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar algunas de las cosas usufructuadas, y en este caso acreditará previamente al propietario la necesidad de la obra.
+
+ART. 995.- El usufructuario podrá utilizar los viveros, sin perjuicio de su conservación y según las costumbres del lugar y lo dispuesto en las leyes respectivas.
+
+ART. 996.- Corresponde al usufructuario el fruto de los aumentos que reciban las cosas por accesión y el goce de las servidumbres que tengan a su favor.
+
+ART. 997.- No corresponden al usufructuario los productos de las minas que se exploten en el terreno dado en usufructo, a no ser que expresamente se le concedan en el título constitutivo del usufructo o que éste sea universal; pero debe indemnizarse al usufructuario de los daños y perjuicios que se le originen por la interrupción del usufructo a consecuencia de las obras que se practiquen para el laboreo de las minas.
+
+ART. 998.- El usufructuario no puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo, pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
+
+ART. 999.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituido el usufructo.
+
+ART. 1000.- El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con la condición de que se conserve el usufructo.
+
+ART. 1001.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 969, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
+
+###### Art. 947.
+
+Cuando los diferentes pisos, departamentos, viviendas, casas o locales de un inmueble, construídos en forma vertical, horizontal o mixto, susceptibles de aprovechamientos independiente (sic) por tener salida propia a un elemento, común de aquel o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda, casa o local y, además un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute.
+
+Cada propietario podrá enajenar, hipotecar, o gravar en cualquier forma su piso, departamento, vivienda, casa o local sin necesidad de consentimiento de los demás condominios (sic). En cualquiera de estos actos se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos. El derecho de copropiedad sobre los elementos comunes del inmueble sólo será enajenable, gravable o embargable por terceros conjuntamente con el piso, departamento, vivienda, casa o local de propiedad exclusiva, respecto del cual se considere anexo inseparable. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
+
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por la escritura en que se hubiere establecido el régimen de propiedad por las de compra-venta correspondiente, por el Reglamento del Condominio de que se trate, por las disposiciones del Código Civil y, en su caso, por la Ley Reglamentaria de este Artículo.
 
 ART. 948.- Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si consta que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
 
@@ -3742,64 +3802,6 @@ ART. 973.- La división de una cosa común no perjudica a tercero, el cual conse
 ART. 974.- La división de bienes inmuebles es nula, si no se hace con las mismas formalidades que la ley exige para su venta.
 
 ART. 975.- Son aplicables a la división entre partícipes las reglas concernientes a la división de herencias.
-
-### CAPITULO I. Del usufructo en general
-
-ART. 976.- El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
-
-ART. 977.- El usufructo puede constituirse por la ley, por la voluntad del hombre o por prescripción.
-
-ART. 978.- Puede constituirse el usufructo a favor de una o de varias personas, simultánea o sucesivamente.
-
-ART. 979.- Si se constituye a favor de varias personas simultáneamente, sea por herencia, sea por contrato, cesando el derecho de una de las personas, pasará al propietario, salvo que el (sic) constituirse el usufructo se hubiere dispuesto que acrezca a los otros usufructuarios.
-
-ART. 980.- Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
-
-ART. 981.- El usufructo puede constituirse desde o hasta cierto día puramente y bajo condición.
-
-ART. 982.- Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario.
-
-ART. 983.- Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
-
-ART. 984.- Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituido sobre bienes de esta clase.
-
-### CAPITULO II. De los derechos del usufructuario
-
-ART. 985.- El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario, siempre que en él se interese el usufructo.
-
-ART. 986.- El usufructuario tiene derecho de percibir todos los frutos, sean naturales, industriales o civiles.
-
-ART. 987.- Los frutos naturales o industriales pendientes al tiempo de comenzar el usufructo, pertenecerán al usufructuario. Los pendientes al tiempo de extinguirse el usufructo pertenecen al propietario. Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de labores, semillas u otros gastos semejantes. Lo dispuesto en este artículo no perjudica a los aparceros o arrendatarios que tengan derecho de percibir alguna porción de frutos, al tiempo de comenzar o extinguirse el usufructo.
-
-ART. 988.- Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dure el usufructo, aún cuando no estén cobrados.
-
-ART. 989.- Si el usufructo comprendiera cosa (sic) que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no está obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubiere sufrido por dolo o negligencia.
-
-ART. 990.- Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas; pero está obligado a restituirlas al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubieren dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
-
-ART. 991.- Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquéllos; pero para que el capital se redima anticipadamente, para que se haga novación de la obligación primitiva, para que se sustituya la persona del deudor, si no se trata de derechos garantizados con gravamen real, así como para que el capital redimido vuelva a imponerse, se necesita el consentimiento del usufructuario.
-
-> <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
-
-ART. 992.- El usufructuario de un monte disfruta de todos los productos que provengan de éste, según su naturaleza.
-
-ART. 993.- Si el monte fuera talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño, acomodándose en el modo, porción o época a las leyes espaciales o a las costumbres del lugar.
-
-ART. 994.- En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar algunas de las cosas usufructuadas, y en este caso acreditará previamente al propietario la necesidad de la obra.
-
-ART. 995.- El usufructuario podrá utilizar los viveros, sin perjuicio de su conservación y según las costumbres del lugar y lo dispuesto en las leyes respectivas.
-
-ART. 996.- Corresponde al usufructuario el fruto de los aumentos que reciban las cosas por accesión y el goce de las servidumbres que tengan a su favor.
-
-ART. 997.- No corresponden al usufructuario los productos de las minas que se exploten en el terreno dado en usufructo, a no ser que expresamente se le concedan en el título constitutivo del usufructo o que éste sea universal; pero debe indemnizarse al usufructuario de los daños y perjuicios que se le originen por la interrupción del usufructo a consecuencia de las obras que se practiquen para el laboreo de las minas.
-
-ART. 998.- El usufructuario no puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo, pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
-
-ART. 999.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituido el usufructo.
-
-ART. 1000.- El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con la condición de que se conserve el usufructo.
-
-ART. 1001.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 969, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 
 ## TITULO QUINTO. Del usufructo, del uso y de la habitación
 
@@ -9768,3 +9770,17 @@ SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente.
 P.O. 23 DE AGOSTO DE 1980.
 
 UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 31 DE OCTUBRE DE 1981.
+
+###### ARTICULO PRIMERO
+
+- Se modifica el artículo 947 del Código Civil del Estado, quedando vigente en los términos indicados en este Decreto.
+
+###### ARTICULO SEGUNDO
+
+- Se deroga el Decreto número 29 del día 29 de Enero de 1965, publicado en el Periódico Oficial del día 13 de febrero de 1965 y todas las disposiciones que se opongan a los preceptos legales a que se refiere este Decreto.
+
+###### ARTICULO TERCERO
+
+- Tanto la Reforma del Artículo 947 del Código Civil como la Ley de Condominios, Reglamentaria de este mismo precepto legal, a que se refiere este Decreto, entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
