@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1954-11-06"
+last_updated: "1961-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1961.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -101,13 +101,13 @@ Los individuos a quienes el Consejo Electoral expida credenciales, declarando qu
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1961)</small>
 
 ###### Art. 9º.
 
-La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada cien mil habitantes o fracción que exceda de cincuenta mil, un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
+La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada ciento treinta mil habitantes, o fracción que exceda de setenta y cinco mil un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
 
-El Ejecutivo fijará la circunscripción de los Distritos Electorales y su Cabecera.
+El Ejecutivo fijará la circunscripción de los Distritos Electorales y su cabecera.
 
 ### CAPITULO UNICO. De la División del Poder Público
 
@@ -135,13 +135,13 @@ VI. No ser Juez, Secretario de Juzgado, Presidente Municipal, Secretario del Ayu
 
 Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1961)</small>
 
 ### CAPITULO SEGUNDO. De la iniciativa y formación de las Leyes
 
 ###### Art. 12.
 
-El Congreso se instalará cada dos años el día primero de febrero posterior a la elección.
+El Congreso se instalará cada tres años, el día primero de febrero posterior a la elección.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1931)</small>
 
@@ -261,7 +261,9 @@ VIII. Aprobar o rechazar los nombramientos de Magistrados al Tribunal Superior d
 
 IX. Designar en los términos que previene esta Constitución al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas.
 
-X. Convocar a elecciones cuando fuere necesario, y decidir sobre la legalidad de éstas; y en caso de que se represente contra ella, resolver lo conducente.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 1961)</small>
+
+X. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones.
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
 
@@ -762,3 +764,7 @@ UNICO.- Esta reforma entrará en vigor a partir del día en que se declare que e
 P.O. 6 DE NOVIEMBRE DE 1954.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 18 DE ABRIL DE 1961.
+
+UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaración de que forma parte de la Constitución Política del Estado en los términos del Artículo 66 de la propia Constitución.
