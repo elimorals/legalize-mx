@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2002-12-09"
+last_updated: "2003-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -567,7 +567,9 @@ El Congreso se renovara en su totalidad cada tres años, debiendo de tomar poses
 
 El Congreso tendrá durante el año, dos períodos ordinarios de sesiones, como sigue:
 
-El primero se iniciará el primer día de abril y concluirá el último de junio. El segundo comenzará el primero de octubre y termina el treinta y uno de diciembre.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
+
+El primero se iniciará el primer día de abril y concluirá a más tardar el último de julio. El segundo comenzará el primer día de octubre y terminará a más tardar el último de diciembre.
 
 Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
@@ -2744,3 +2746,7 @@ P.O. 9 DE DICIEMBRE DE 2002.
 DECRETO NUM. 13, QUE MODIFICA LA FRACCION III DEL ARTICULO 128 DE LA CONSTITUCION.
 
 UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2003.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Hidalgo.
