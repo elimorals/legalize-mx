@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "1984-02-07"
+last_updated: "1985-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -910,27 +910,21 @@ Los decretos que autoricen la transmisión de dominio a título gratuito u onero
 
 Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común se exceptúan solamente los de comodato y las donaciones no autorizadas en esta ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 72.
 
-Los actos jurídicos relacionados con inmuebles que en los términos de esta Ley requieran la intervención de Notario, se celebrarán ante los Notarios del Patrimonio Inmueble Federal que nombrará la Secretaría de Desarrollo Urbano y Ecología, entre los autorizados legalmente para ejercer el notariado. El nombramiento se sujetará a las condiciones y trámites que se establezcan en los términos de esta Ley y sus reglamentos.
+Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno Federal y que en los términos de esta Ley requieran la intervención de notario, se celebrarán ante los Notarios del Patrimonio Inmueble Federal que nombrará la Secretaría de Desarrollo Urbano y Ecología, entre los autorizados legalmente para ejercer el notariado. El nombramiento se sujetará a las condiciones y trámites que se establezcan en los términos de esta Ley y su reglamentación.
 
-Los Notarios del Patrimonio Inmueble Federal llevarán protocolo especial para los actos jurídicos de este ramo, con sus respectivos apéndices e índices de instrumentos y con los demás requisitos que la ley exija para la validez de los actos notariales. Estos protocolos especiales serán autorizados por las autoridades locales competentes y por la Secretaría de Desarrollo Urbano y Ecología, quien realizará una revisión periódica de los mismos.
+Los Notarios del Patrimonio Inmueble Federal llevarán protocolo especial para los actos jurídicos de este ramo, y sus respectivos apéndices e índices de instrumentos y con los demás requisitos que la Ley exija para la validez de los actos notariales. Estos protocolos especiales serán autorizados por las autoridades locales competentes y por la Secretaría de Desarrollo Urbano y Ecología, quien podrá realizar revisiones o requerir información periódica sobre los mismos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+Ningún Notario del Patrimonio Inmueble Federal podrá autorizar una escritura de adquisición o enajenación de bienes inmuebles en que sea parte el Gobierno Federal, sin que la intervención o aprobación previa de la Secretaría de Desarrollo Urbano y Ecología, quien determinará libremente quienes deban hacerlo.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 73.
 
-En los actos jurídicos sobre bienes inmuebles que realicen el Gobierno Federal y las entidades paraestatales en que de conformidad con esta ley deban intervenir Notarios de Patrimonio Inmueble Federal, la Secretaría de Desarrollo Urbano y Ecología determinará libremente quienes deban hacerlo.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-Ningún Notario del Patrimonio Inmueble Federal podrá autorizar una escritura de adquisición o enajenación de bienes inmuebles en que sean parte el Gobierno Federal o las entidades paraestatales, sin la intervención o aprobación previa de la Secretaría de Desarrollo Urbano y Ecología.
-
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
-Los actos que se autoricen o realicen en contravención a lo dispuesto en este artículo y en el anterior, serán nulos de pleno derecho.
+Los actos jurídicos sobre bienes inmuebles en los que intervengan las entidades de la Administración Pública Federal, podrán celebrarse ante los notarios públicos de su elección con residencia en la localidad o entidad federativa en que se ubique el inmueble de que se trate, y con sujeción a lo que disponga esta Ley y las de la materia correspondiente. La Secretaría de Desarrollo Urbano y Ecología excepcionalmente y en cada caso que así lo amerite, a solicitud de las entidades paraestatales, podrá habilitar notarios de diferente circunscripción; y en todo caso, vigilará que los actos notariales hayan cumplido las disposiciones legales, ejerciendo para ello las atribuciones que le correspondan.
 
 ###### ARTICULO 74.
 
@@ -943,6 +937,10 @@ I. Donaciones que se efectúen en favor del Gobierno Federal;
 II. Donaciones que efectúe el Gobierno Federal en favor de los Gobiernos Estatales o Municipales; y
 
 III. Enajenaciones que realicen las entidades paraestatales a personas de escasos recursos para resolver necesidades de vivienda de interés social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE ENERO DE 1985)</small>
+
+IV.- Donaciones que realicen los Gobiernos de los Estados o de los Municipios en favor de entidades de la Administración Pública Federal, para la prestación de servicios públicos a su cargo.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -966,27 +964,41 @@ El denunciante, cuando cause ejecutoria la resolución que adjudique a la Federa
 
 ### CAPITULO VI. De los Muebles de Dominio Privado
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 77.
 
-La Secretaría de Programación y Presupuesto fijará las normas a que se sujetará la clasificación de los bienes muebles de dominio privado de la Federación, la organización de los sistemas de inventario y estimación de su depreciación y el procedimiento que deba seguirse en lo relativo al destino y afectación de dichos bienes.
+La Secretaría de Programación y Presupuesto expedirá las normas a que se sujetará la clasificación de los bienes muebles de dominio privado de la Federación, la organización de los sistemas de inventario y estimación de su depreciación y el procedimiento que deba seguirse en lo relativo a la afectación y destino final de dichos bienes.
 
-La propia Secretaría podrá practicar visitas de inspección en las distintas dependencias del Gobierno Federal, para verificar la existencia en almacenes e inventarios de bienes muebles, y el destino y afectación de los mismos.
+La Secretaría de la Contraloría General de la Federación podrá practicar visitas de inspección en las distintas dependencias del Gobierno Federal, para verificar la existencia en almacenes e inventarios de bienes muebles, y el destino y afectación de los mismos.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 78.
 
-Las adquisiciones de bienes muebles para el servicio de las distintas dependencias del Gobierno Federal, se regirán por las leyes aplicables en esta materia.
+Las adquisiciones y arrendamientos de bienes muebles para el servicio de las distintas dependencias del Gobierno Federal, se regirán por las Leyes aplicables en esta materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 79.
 
-Corresponde a la Secretaría de Programación y Presupuesto la enajenación de los bienes muebles de propiedad federal que por su uso, aprovechamiento o estado de conservación no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
+Corresponde a las dependencias del Gobierno Federal la enajenación de los bienes muebles de propiedad federal que figuren en sus respectivos inventarios y que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
 
-Al efecto, las dependencias de los Poderes de la Unión estarán obligadas a solicitar oportunamente la baja de los bienes muebles, poniéndolos a disposición de la Secretaría de Comercio, la que, en su caso, autorizará la baja respectiva y determinará su mejor aprovechamiento, enajenación final o destrucción. La enajenación se hará mediante subasta pública, a menos que por circunstancias que dicha Secretaría califique resulte inconveniente tal procedimiento.
+Salvo los casos comprendidos en el párrafo siguiente, la enajenación se hará mediante licitación pública.
+
+Las dependencias, bajo su responsabilidad, podrán optar por enajenar bienes muebles sin sujetarse a licitación pública, cuando: ocurran condiciones o circunstancias extraordinarias o imprevisibles, o situaciones de emergencia; no existan por lo menos tres postores idóneos o capacitados legalmente para presentar ofertas, o el monto de los bienes no exceda del equivalente a quinientos días de salario mínimo general vigente en el Distrito Federal.
+
+Con excepción del último caso mencionado en el párrafo anterior, el titular de la dependencia, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Secretaría de la Contraloría General de la Federación, acompañando la documentación que justifique tal determinación.
+
+El monto de la enajenación no podrá ser inferior a los precios mínimos de los bienes que determinará la Secretaría de Programación y Presupuesto para tales fines.
+
+La enajenación de bienes cuyo valor mínimo no hubiere fijado la Secretaría de Programación y Presupuesto, no podrá pactarse por debajo del que se determine mediante avalúo que practicarán las instituciones de banca y crédito u otros terceros capacitados para ello conforme a las disposiciones aplicables.
 
 Cuando se trate de armamentos, municiones, explosivos, agresivos químicos y artificios, así como de objetos cuya posesión o uso puedan ser peligrosos o causar riesgos graves, su enajenación, manejo o destrucción, se harán de acuerdo con los ordenamientos legales aplicables.
+
+Efectuada la enajenación, se procederá a la cancelación de registros en inventarios y se dará aviso a la Secretaría de Programación y Presupuesto de la baja respectiva en los términos que ésta establezca.
+
+Las enajenaciones a que se refiere este artículo no podrán realizarse en favor de los servidores públicos que en cualquier forma intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y nulas de pleno derecho.
 
 ###### ARTICULO 80.
 
@@ -996,21 +1008,23 @@ Los particulares podrán adquirir dichos bienes por prescripción. La prescripci
 
 También será aplicable para dichos bienes lo previsto por el artículo 75.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 81.
 
-Las Secretarías de Estado, los Departamentos Administrativos y el Departamento del Distrito Federal, con aprobación expresa de la Secretaría de Programación y Presupuesto, podrán donar bienes muebles de propiedad federal, que figuren en sus respectivos inventarios a los Estados, Municipios, instituciones de beneficencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo de las propias dependencias, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos y a entidades paraestatales que lo necesiten para sus fines, siempre que el valor de los bienes no exceda del equivalente a diez mil días de salario mínimo general vigente en el Distrito Federal, conforme al avalúo que para ese efecto se practique.
+Las Secretarías de Estado, los Departamentos Administrativos y el Departamento del Distrito Federal, con aprobación expresa de su Titular, podrán donar bienes muebles de propiedad federal, que figuren en sus respectivos inventarios, a los estados, municipios, instituciones de beneficencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo de las propias dependencias, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos y a entidades paraestatales que los necesiten para sus fines, siempre que el valor de los bienes, determinado conforme al Artículo 79, no exceda del equivalente a diez mil días de salario mínimo general vigente en el Distrito Federal.
 
-Si el valor de los bienes excede de la cantidad mencionada, se requerirá Acuerdo Presidencial, refrendado por los titulares de las Secretarías de Estado, los Departamentos Administrativos o del Departamento del Distrito Federal, en su caso, y por el de la Secretaría de Programación y Presupuesto.
+Si el valor de los bienes excede de la cantidad mencionada, se requerirá de la autorización de la Secretaría de Programación y Presupuesto.
 
-La Secretaría de Programación y Presupuesto, en los términos anteriores, podrá donar los bienes muebles dados de baja que se encuentren a su disposición.
+El Gobierno Federal podrá donar bienes muebles a gobiernos e instituciones extranjeras o a organizaciones internacionales, mediante Acuerdo presidencial refrendado por las Secretarías de Relaciones Exteriores y de Programación y Presupuesto, y por el Titular de la Dependencia en cuyos inventarios figure el bien.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 82.
 
-El Gobierno Federal podrá donar bienes muebles a gobiernos e instituciones extranjeros o a organizaciones internacionales, mediante acuerdo presidencial refrendado por las Secretarías de Relaciones Exteriores y de Programación y Presupuesto y por el titular de la dependencia en cuyos inventarios figure el bien.
+Con excepción de lo dispuesto por el Articulo 80, las disposiciones sobre bienes muebles de dominio privado a que se contrae el presente Capítulo, regirán para los actos de transmisión de dominio, destino y baja de bienes muebles que realicen las entidades paraestatales, siempre que dichos bienes estén al servicio de las entidades o formen parte de sus activos fijos.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto emitirá los criterios que se requieran para la correcta aplicación de lo dispuesto por este Artículo.
 
 ### CAPITULO VII. Del Registro Público de la Propiedad Federal
 
@@ -1044,9 +1058,9 @@ VII. Las declaratorias a que se refiere la fracción I del artículo 17 de esta 
 
 VIII. Los demás títulos que, conforme a la ley, deban ser registrados.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
-Los Notarios del Patrimonio Inmueble Federal estarán obligados a hacer las gestiones correspondientes para obtener la inscripción de las escrituras relativas en el Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad que corresponda de acuerdo a la ubicación del bien, y a remitir a la Secretaría de Desarrollo Urbano y Ecología el testimonio respectivo debidamente inscrito, y en caso de incumplimiento incurrirán en responsabilidad, en cuyo caso serán sancionados en los términos de esta ley.
+Los notarios que intervengan en los actos a que hacen referencia las fracciones anteriores, estarán obligados a hacer las gestiones correspondientes para obtener la inscripción de las escrituras relativas en el Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad que corresponda, de acuerdo a la ubicación del bien, y a remitir a la Secretaría de Desarrollo Urbano y Ecología el testimonio respectivo debidamente inscrito en un lapso no mayor de seis meses contados a partir de la fecha en la que hayan autorizado dicha escritura, y en caso de incumplimiento incurrirán en responsabilidad, en cuyo caso serán sancionados en los términos de esta Ley.
 
 En los casos a que se refieren las fracciones III, IV y V de este artículo, no será necesario protocolizar los documentos respectivos ante Notario Público.
 
@@ -1161,3 +1175,13 @@ PRIMERO.- Este Decreto entra en vigor el día siguiente de su publicación en el
 SEGUNDO.- Respecto a los bienes inmuebles a que se refiere el segundo párrafo del artículo 3o., Fracción VIII y de los cuales ya sea titular la Federación al entrar en vigor esta Ley, será la Secretaría de Desarrollo Urbano y Ecología la que deberá determinar, cuáles son los bienes inmuebles que pueden llegar a cumplir los objetivos señalados en el primer párrafo del mismo Artículo y Fracción y que por su naturaleza, sirven para resolver los problemas de habitación popular, de reservas territoriales o de regularización.
 
 TERCERO.- Quedan derogadas todas las disposiciones que se oponen al presente Decreto.
+
+D.O.F. 21 DE ENERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a lo dispuesto por este Decreto.
