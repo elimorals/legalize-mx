@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1947-11-27"
+last_updated: "1947-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1947.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -645,9 +645,7 @@ IX. Formar la estadística del Estado.
 
 X. Pedir y dar informes al Congreso sobre cualquier ramo de la administración y al Supremo Tribunal de Justicia sobre los de su competencia.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1938)</small>
-
-XI. Expedir los títulos profesionales concedidos por las instituciones docentes oficiales del Estado, de acuerdo con las leyes que las rijan.
+XI. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1947)
 
 XII. Extender los Fiats de Notarios con arreglo a la ley respectiva.
 
@@ -795,7 +793,7 @@ La Ley organizará la Defensoría Oficial y determinará la forma en que debe ej
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1947)</small>
 
 ###### Art. 80.
 
@@ -851,7 +849,7 @@ La omisión de esta formalidad hace responsables a las autoridades a quienes la 
 
 ###### Art. 90.
 
-Es obligación del Estado fomentar la enseñanza pública, e impartir al Pueblo la Primaria, en su doble forma elemental y superior. La Educación que imparta el Estado será socialista y además de excluir toda doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la Escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del universo y de la vida social.
+Es obligación del Estado fomentar la enseñanza pública, e impartir al Pueblo la Primaria, en su doble forma elemental y superior. La educación que imparta el Estado además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la Escuela organizará sus enseñanzas y actividades en forma que permita desarrollar armónicamente todas las facultades del ser humano y fomentar en la juventud el amor a la Patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
 
@@ -1640,5 +1638,9 @@ P.O. 27 DE JUNIO DE 1946.
 Unico.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 27 DE NOVIEMBRE DE 1947.
+
+UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 1947.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
