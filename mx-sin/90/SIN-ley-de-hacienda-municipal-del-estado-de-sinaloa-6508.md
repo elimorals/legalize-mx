@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2003-08-18"
+last_updated: "2004-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2004.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1359,9 +1359,13 @@ Centro Nocturno 203 171 153
 
 Restaurant c/vta. de cerveza 106 85 85
 
-Restaurant c/vta. de cerveza y vinos 106 85 85
+Restaurant c/vta. de cerveza y
 
-Restaurant c/vta. de cerveza, vinos y licores 147 132 119
+vinos 106 85 85
+
+Restaurant c/vta. de cerveza,
+
+vinos y licores 147 132 119
 
 Restaurant con bar anexo 163 163 163
 
@@ -1379,7 +1383,9 @@ Ultramarinos 147 136 126
 
 Depósito de cerveza 147 147 147
 
-Agencia Matriz con venta al público en general 236 236 236
+Agencia Matriz con venta
+
+al público en general 236 236 236
 
 b).- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
 
@@ -1405,9 +1411,13 @@ Centro Nocturno 0.81 0.75 0.70
 
 Restaurant c/vta. de cerveza 0.36 0.36 0.36
 
-Restaurant c/vta. de cerveza y vinos 0.39 0.39 0.39
+Restaurant c/vta. de cerveza
 
-Restaurant c/vta. de cerveza, vinos y licores 0.42 0.42 0.42
+y vinos 0.39 0.39 0.39
+
+Restaurant c/vta. de cerveza,
+
+vinos y licores 0.42 0.42 0.42
 
 Restaurant con bar anexo 0.74 0.74 0.74
 
@@ -1425,7 +1435,9 @@ Ultramarinos 0.39 0.39 0.39
 
 Depósito de Cerveza 0.81 0.81 0.81
 
-Agencia Matriz con venta al Público en general 0.81 0.81 0.81
+Agencia Matriz con venta
+
+al Público en general 0.81 0.81 0.81
 
 c).- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
 
@@ -1437,7 +1449,9 @@ A B C
 
 Para muestras y degustaciones 5 4 3
 
-Eventos deportivos, recreativos y artísticos 200 100 50
+Eventos deportivos, recreativos
+
+y artísticos 200 100 50
 
 Eventos sociales 50 25 10
 
@@ -1447,11 +1461,99 @@ Eventos sociales 50 25 10
 
 La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la ley de la materia, deberá efectuarse dentro de los meses de enero a marzo de cada año.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2004)</small>
+
+### CAPITULO XV
+
+DERECHOS POR BUSQUEDA DE INFORMACION PUBLICA NO DISPONIBLE, POR REPRODUCCION Y ENVIO DE MATERIALES QUE CONTENGAN INFORMACION PUBLICA DE LOS AYUNTAMIENTOS O DE SUS ENTIDADES PUBLICAS
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+
+###### ARTICULO 90-C.
+
+No se causan los derechos a que se refiere este Capítulo:
+
+Las certificaciones que hagan y las copias certificadas o copias simples que expidan las autoridades jurisdiccionales, con excepción de la información proporcionada en los términos señalados en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+
+###### ARTICULO 90-D.
+
+Por la reproducción de materiales que contengan información pública de los Ayuntamientos del Estado de Sinaloa o de sus entidades públicas, se causarán derechos conforme a la siguiente:
+
+Tarifa
+
+Concepto Veces el Salario Mínimo
+
+General Diario Vigente
+
+1. Por reproducción de:
+
+a).- Por hoja impresa en sistemas de copiado en proceso fotomecánico o impresión en hoja de tira continua 0.05
+
+b).- Por hoja impresa en impresora
+
+láser o inyección de tinta: 0.15
+
+c).- Por copia heliográfica o
+
+fotográfica de planos tamaño oficio: 0.25
+
+d).- Por copia heliográfica de planos
+
+Tamaño 54x35 centímetros 0.20
+
+Tamaño 45x68 centímetros 0.25
+
+Tamaño 103x35 centímetros 0.30
+
+Tamaño 103x68 centímetros 0.60
+
+e).- Por calca de planos a tinta:
+
+Por cada decímetro cuadrado o
+
+fracción 0.15
+
+El mismo trabajo a lápiz, por
+
+cada decímetro cuadrado o fracción 0.10
+
+f).- Por dibujo:
+
+En hoja hasta tamaño carta 0.65
+
+Por decímetro cuadrado o
+
+fracción excedente 0.10
+
+2.- Reproducción o captura de archivos en dispositivos magnéticos o discos compactos, por cada unidad de:
+
+a).- Microdisco magnético
+
+de 9 centímetros 0.50
+
+b).- Disco compacto grabado 1.25
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+
+###### ARTICULO 90-E.
+
+Por el envío de materiales que contengan información pública de los Ayuntamientos o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 salarios mínimos generales diario vigente.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+
+###### ARTICULO 90-F.
+
+Por la búsqueda exhaustiva de información pública de los Ayuntamientos o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 salarios mínimos generales diario vigentes.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+
+###### ARTICULO 90-G.
+
+Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública de los Ayuntamientos o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
+
 ### CAPITULO I. POR EL ARRENDAMIENTO Y VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
-### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE DEPENDAN DEL MUNICIPIO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1459,7 +1561,7 @@ La revalidación anual de los permisos, licencias y registros de los establecimi
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO III. RENDIMIENTO SOBRE INVERSIONES
+### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE DEPENDAN DEL MUNICIPIO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1475,9 +1577,9 @@ La venta o adjudicación de solares baldíos en los Municipios se regirá por la
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO I. MULTAS
+### CAPITULO III. RENDIMIENTO SOBRE INVERSIONES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 93.
 
@@ -1521,7 +1623,7 @@ Los ingresos recaudados por el concepto contenido en este capítulo se destinar�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO II. REINTEGROS
+### CAPITULO I. MULTAS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1531,7 +1633,7 @@ Tendrán carácter de productos, los rendimientos obtenidos por las inversiones 
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO III. REZAGOS
+### CAPITULO II. REINTEGROS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1547,7 +1649,7 @@ El Tesorero Municipal y las demás autoridades fiscales o a quién deleguen facu
 
 La falta de cumplimiento en el pago de los Impuestos y Derechos, así como las obligaciones previstas en esta Ley deberán ser sancionadas con multas de un tanto del Impuesto o Derecho de que se trate.
 
-### CAPITULO IV. RECARGOS
+### CAPITULO III. REZAGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1555,7 +1657,7 @@ La falta de cumplimiento en el pago de los Impuestos y Derechos, así como las o
 
 Con este título se dará entrada en la contabilidad de la Tesorería Municipal, de todos los reintegros que se hagan en el erario municipal, especificando el concepto, incluyendo el pago de la alimentación de los reos del Estado y de la Federación que reintegren los citados Gobiernos, devolución de importes que pagó de más el Municipio, pago de funcionarios municipales quien por error no cobraron correctamente un tributo a un causante y sea irrecuperable de parte de éste y sanciones que se fijen a funcionarios y empleados del Municipio al fincárseles alguna responsabilidad de acuerdo con la Ley.
 
-### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
+### CAPITULO IV. RECARGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1563,7 +1665,7 @@ Con este título se dará entrada en la contabilidad de la Tesorería Municipal,
 
 Todos los rezagos o créditos por los impuestos, derechos, productos, aprovechamientos y participaciones causados en años anteriores ingresarán a la Tesorería Municipal debiendo el Tesorero remitir al H. Ayuntamiento en el mes de febrero de cada año, un informe de los créditos activos y de los pasivos del erario municipal liquidados hasta el 31 de diciembre del año anterior y de todas las advertencias y aclaraciones que juzgue conveniente.
 
-### CAPITULO VI. OTROS APROVECHAMIENTOS
+### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1571,7 +1673,7 @@ Todos los rezagos o créditos por los impuestos, derechos, productos, aprovecham
 
 Por concepto de indemnización al Fisco Municipal, ingresarán recargos por la falta de pago oportuno de los créditos fiscales, la indemnización por insuficiencia de fondos y en los casos de prórroga para el pago de créditos fiscales, en los términos que disponga la presente Ley y demás disposiciones fiscales.
 
-### CAPITULO UNICO
+### CAPITULO VI. OTROS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1623,7 +1725,7 @@ Se constituirán con este título todos aquellos ingresos que a favor del fisco 
 
 ## TITULO SEPTIMO. DE LOS IMPUESTOS ADICIONALES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1657,7 +1759,7 @@ f) Pro-Turismo. 6.5%
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1667,7 +1769,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 ## TITULO NOVENO. DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1705,7 +1807,7 @@ II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para el
 
 III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
 
-### CAPITULO IV. DE LOS CREDITOS FISCALES
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1769,7 +1871,7 @@ Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
 
-### CAPITULO V. DISPOSICIONES DIVERSAS
+### CAPITULO IV. DE LOS CREDITOS FISCALES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1839,7 +1941,7 @@ Cuando sea necesario un cateo, se solicitará la orden respectiva del Juez compe
 
 Los funcionarios y empleados fiscales y los miembros de cuerpos colegiados fiscales, bajo su responsabilidad personal, están obligados a guardar el secreto de la situación económica de los contribuyentes, que haya llegado a su conocimiento en actos del servicio y les está prohibido explotar o aprovechar en cualquier forma sin autorización expresa del interesado, dada por escrito, los secretos profesionales del negocio que en actos del servicio hayan llegado a su conocimiento así como suministrar datos fiscales de los causantes salvo orden judicial o solicitud de los dueños, encargados o representantes de los negocios.
 
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
+### CAPITULO V. DISPOSICIONES DIVERSAS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1995,7 +2097,7 @@ El derecho de reclamación del pago de lo indebido o de lo pagado en exceso, pre
 
 La prescripción se interrumpe por cualquier gestión del interesado, hecha por escrito, ante la Autoridad competente para obtener la devolución.
 
-### CAPITULO VII. INFRACCIONES Y SANCIONES
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2147,7 +2249,7 @@ Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán
 
 Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
 
-### CAPITULO VIII. RECURSO DE INCONFORMIDAD
+### CAPITULO VII. INFRACCIONES Y SANCIONES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2205,7 +2307,7 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-REMATES
+EMBARGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2359,7 +2461,9 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
+REMATES
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 186.
 
@@ -2501,13 +2605,11 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-EMBARGOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 205.
 
@@ -3198,3 +3300,9 @@ El presente Decreto entrará en vigor el día 1 de enero del 2004.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese este Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE MARZO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
