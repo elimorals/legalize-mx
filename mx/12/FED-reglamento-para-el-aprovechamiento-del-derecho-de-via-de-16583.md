@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-aprovechamiento-del-derecho-de-via-de-16583"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-05"
-last_updated: "1992-02-05"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16583&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-02-04"
 
 REGLAMENTO PARA EL APROVECHAMIENTO DEL DERECHO DE VIA DE LAS CARRETERAS FEDERALES Y ZONAS ALEDAÑAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 5 de febrero de 1992.
 
@@ -87,7 +87,9 @@ IV.- La instalación de señales informativas; y
 
 V.- La construcción, modificación o ampliación de obras en el derecho de vía.
 
-ART. 6o. Los interesados en obtener un permiso para aprovechar el derecho de vía de las carreteras federales y zonas aledañas deberán:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ART. 6o. Los interesados en obtener un permiso para aprovechar el derecho de vía de las carreteras federales libres de peaje o zonas aledañas deberán:
 
 I.- Presentar solicitud por escrito;
 
@@ -95,9 +97,13 @@ II.- Cuando se trate de personas morales, acompañar copia de la escritura const
 
 III.- Señalar la carretera, tramo y kilómetro en donde se llevará a cabo la obra o instalación;
 
-IV.- Acreditar la propiedad, posesión de la superficie o autorización para su aprovechamiento;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-V.- Presentar croquis con medidas y colindancias en el que se delimite la ubicación del predio;
+IV.- En caso de zonas aledañas al derecho de vía, presentar el documento que acredite la propiedad o posesión de la superficie o autorización para su aprovechamiento;
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+V.- Presentar plano con medidas y colindancias en el que se delimite la ubicación del predio, tratándose del aprovechamiento de zonas aledañas al derecho de vía;
 
 VI.- Acreditar el pago de derechos; y
 
@@ -105,29 +111,81 @@ VII.- Proporcionar aquellos datos específicos que marque este Reglamento.
 
 En caso de que falte algún requisito, la Secretaría lo comunicará por escrito al interesado en un plazo de 10 días hábiles. El interesado dispondrá de un plazo de 10 días hábiles para subsanar los requisitos faltantes, transcurrido el cual, sin que se dé cumplimiento, se tendrá por abandonada la solicitud.
 
-¬ART. 7o.- La Secretaría otorgará los permisos dentro de un plazo de 30 días hábiles, cuando se cumpla con los requisitos y no se afecte la seguridad de la vía.
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-ART. 8o.- Cumplido el plazo a que se refiere el artículo anterior sin que se hubiese resuelto, el Director General de Asuntos Jurídicos de la Secretaría, a petición del interesado, resolverá en 3 días hábiles lo conducente.
+ART. 6-A.- Los interesados en obtener un permiso para aprovechar el derecho de vía de las carreteras federales de cuota y zonas aledañas deberán cumplir, además de lo señalado en el artículo anterior, salvo lo previsto en la fracción V, con lo siguiente:
+
+I. Presentar constancia de no afectación a terceros o a instalaciones y obras establecidas, y
+
+II. Presentar proyecto ejecutivo que contendrá:
+
+a) Memoria descriptiva del proyecto;
+
+b) El o los estudios topográficos de ingeniería de tránsito, geológicos, hidrológicos, hidráulicos, de pavimentos, estructurales, de impacto ambiental, urbanos y arquitectónicos según el caso en que se requieran, y
+
+c) Los demás documentos o estudios que en cada caso se requieran.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ART. 7o.- La Secretaría otorgará los permisos para el aprovechamiento del derecho de vía en carreteras libres de peaje o zonas aledañas en un plazo que no excederá de treinta días hábiles, cuando se cumpla con los requisitos y no se afecte la seguridad del derecho de vía.
+
+Tratándose de los permisos para el aprovechamiento del derecho de vía en carreteras federales de cuota y zonas aledañas, la Secretaría otorgará los permisos una vez desahogado el siguiente procedimiento:
+
+I. Al momento de la presentación del trámite, la Secretaría comunicará al interesado fecha y hora para realizar la visita técnica de factibilidad del proyecto, la cual deberá realizarse dentro de los diez días naturales siguientes;
+
+II. El interesado deberá presentar en la visita el proyecto de obra para el aprovechamiento del derecho de vía;
+
+III. La Secretaría contará con un plazo de diez días naturales, contados a partir de la recepción de la solicitud, para que, en su caso, se realice la prevención de información faltante;
+
+IV. El interesado deberá subsanar la omisión en un plazo de diez días naturales, contados a partir de la notificación de la prevención a que se refiere la fracción anterior.
+
+En caso de que el interesado no subsane la omisión dentro del plazo previsto en esta fracción o falte información, se tendrá por abandonada la solicitud;
+
+V. La Secretaría, dentro de los quince días naturales siguientes al de la visita técnica de factibilidad a que se refiere la fracción II, emitirá y notificará al interesado el dictamen de factibilidad.
+
+En el dictamen a que se refiere esta fracción se indicará al interesado los requisitos adicionales que deberá entregar en caso de proceder el trámite;
+
+VI. El interesado contará con un plazo de diez días naturales, contados a partir de la notificación del dictamen a que se refiere la fracción anterior, para presentar la información que, en su caso, se le requirió.
+
+En caso de que transcurra el término señalado en esta fracción sin que el solicitante dé cumplimiento al requerimiento, se tendrá por abandonada la solicitud, y
+
+VII. La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de veinte días naturales, contados a partir de la recepción de la información requerida.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ART. 8o.- El permisionario deberá cumplir con lo siguiente:
+
+I. Avisar al Centro SCT que corresponda, con una anticipación de diez días hábiles, el inicio de la obra, y
+
+II. Concluir la obra en un plazo no mayor de ciento ochenta días naturales y llevarla a cabo conforme al proyecto, planos, especificaciones y programa de obra elaborados o revisados por la Secretaría.
+
+La Secretaría podrá establecer en el permiso correspondiente un plazo mayor al señalado en el párrafo anterior para la conclusión de la obra, de conformidad con los estudios y proyectos presentados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ART. 8-A.- El permisionario podrá solicitar a la Secretaría prórroga para la conclusión de la construcción hasta por el mismo plazo otorgado conforme a lo establecido en la fracción II del artículo anterior, previa justificación y actualización de costos para ajustar el pago de derechos, en su caso. La Secretaría deberá emitir la resolución que corresponda en un plazo que no excederá de 10 días hábiles.
 
 ### CAPITULO III. ACCESOS, CRUZAMIENTOS E INSTALACIONES MARGINALES
 
-ART. 9o.- El interesado en construir un acceso, cruzamiento o instalación marginal deberá presentar, además de lo indicado en el artículo 6o. de este Reglamento, lo siguiente:
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-a).- Información del uso que se dará al predio objeto del acceso;
+ART. 9o.- Los interesados en construir un acceso, cruzamiento o instalación marginal deberán presentar:
 
-b).- Descripción de las instalaciones, calendarizando las diferentes etapas de ejecución; y
+I. Tratándose de obras en carreteras federales libres de peaje o zonas aledañas, además de lo establecido en el artículo 6o. de este Reglamento:
 
-c).- El plano del proyecto con las características que señale la Secretaría.
+a) Información del uso que se dará al predio objeto del acceso;
+
+b) Descripción de las instalaciones, calendarizando las diferentes etapas de ejecución, y
+
+c) El plano del proyecto con las características que señale la Secretaría.
+
+II. En caso de obras en el derecho de vía de carreteras federales de cuota o zonas aledañas, lo establecido en el artículo 6-A de este Reglamento. El proyecto ejecutivo deberá contener, además, el proyecto de las instalaciones marginales o cruce, que incluye los planos de la instalación en planta, cortes transversales, cortes longitudinales, estructural y especificaciones.
 
 ART. 10.- Para los accesos, cruzamientos e instalaciones marginales, previo a la obtención del permiso, el interesado deberá cubrir por concepto de revisión de planos y supervisión de la obra lo establecido para tal efecto en la Ley Federal de Derechos.
 
-ART. 11.- El permisionario deberá cumplir, en caso de accesos, con lo siguiente:
+ART. 11.- (DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
-I.- Avisar al Centro S.C.T. que corresponda, con una anticipación de 10 días, el inicio de la obra; y
-
-II.- Concluir la obra en un plano no mayor de 180 días naturales y llevarla al cabo conforme al proyecto, planos, especificaciones y programa de obra elaborados o revisados por la Secretaría.
-
-ART. 12.- El permisionario podrá solicitar a la Secretaría prórroga para la construcción de la obra hasta por el mismo plazo establecido en el permiso, previa justificación y actualización de costos para ajustar el pago de derechos.
+ART. 12.- (DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ART. 13.- En la zona de cruceros, entronques de caminos, pasos superiores y pasos inferiores, las obras relativas a accesos deberán establecerse fuera de un radio de 100 metros, y en zona de curvas a 150 metros.
 
@@ -141,15 +199,19 @@ ART. 16.- La Secretaría definirá en qué carreteras federales se requiere la i
 
 Independientemente de lo anterior, los particulares podrán presentar para la instalación de paradores en puntos distintos a los definidos por la Secretaría, la que resolverá en el término señalado en el artículo 7o. de este Reglamento.
 
-ART. 17.- El interesado en construir un parador, deberá presentar además de lo indicado en el artículo 6o. de este Reglamento lo siguiente:
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-1).- Plano general de construcción;
+ART. 17.- El interesado en construir un parador deberá presentar:
 
-2).- Plano de las instalaciones sanitarias; y
+I. En caso de que la obra se realice en las zonas aledañas de las carreteras federales libres de peaje, además de lo señalado en el artículo 6o. de este Reglamento:
 
-3).- Descripción de las instalaciones, calendarizando el programa de obras.
+a) Plano general de construcción;
 
-La Secretaría revisará los planos para verificar que no se afecte la vía general de comunicación y la seguridad de los usuarios.
+b) Plano de las instalaciones sanitarias, y
+
+c) Descripción de las instalaciones, calendarizando el programa de obras, y
+
+II. Tratándose de construcción de paradores en zonas aledañas de carreteras federales de cuota, lo señalado en el artículo 6-A de este Reglamento. En este caso, el proyecto ejecutivo deberá contener, además, el proyecto de obras arquitectónicas que incluye los planos de la planta de conjunto, alzados, cortes y fachadas, estructural, instalaciones hidráulicas y sanitarias, instalaciones especiales, alumbrado, jardinería, obra exterior y especificaciones.
 
 ART. 18.- En el permiso se expresará lo siguiente:
 
@@ -197,7 +259,9 @@ III.- El ángulo en el que se colocarán los anuncios dentro de las zonas señal
 
 ART. 26.- En las carreteras de cuota sólo se permitirá la instalación de anuncios en aquellas zonas que determine la Secretaría.
 
-ART. 27.- El interesado en obtener permiso para la instalación de anuncios deberá presentar, además lo indicado en el artículo 6o. de este Reglamento, lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ART. 27.- El interesado en obtener un permiso para la instalación de anuncios deberá presentar lo indicado en los artículos 6o. o 6-A de este Reglamento, según corresponda, además de lo siguiente:
 
 I.- Descripción del anuncio;
 
@@ -247,17 +311,35 @@ VIII.- Instalar o pintar anuncios en lugares que afecten la seguridad del usuari
 
 ART. 33.- La publicidad relativa a bebidas deberá ajustarse además de lo previsto en este Reglamento, a lo dispuesto en el Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Publicidad.
 
-ART. 34.- Los solicitantes en obtener permiso para la instalación de señales informativas deberán presentar:
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-a) Solicitud por escrito;
+ART. 34.- El interesado en obtener un permiso para la instalación de señales informativas deberá presentar:
 
-b) Croquis y texto de la señal; y
+I. En caso de que la instalación se realice en el derecho de vía de carreteras federales libres de peaje o zonas aledañas, además de lo señalado en el artículo 6o. de este Reglamento:
 
-c) Ubicación de la misma.
+a) Proyecto de la señal, y
+
+b) Ubicación de la misma, y
+
+II. Tratándose de instalaciones en el derecho de vía de carreteras federales de cuota o zonas aledañas, lo señalado en el artículo 6-A de este Reglamento. El proyecto ejecutivo deberá contener, además, el proyecto de la señal que incluye los planos de la instalación en planta, corte transversal, alzados, estructural y especificaciones.
 
 ART. 35.- Por la instalación de señales informativas, se pagarán anualmente los derechos que fije la Ley Federal de Derechos debiendo el permisionario acreditar ante la Secretaría dicho pago.
 
 ART. 36.- Las señales deberán observar las características que indica el Manual de Dispositivos de Control del Tránsito en Calles y Carreteras y colocarse en posición vertical a 90 grados con respecto al eje de la carretera.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+### CAPÍTULO V-BIS. Obras en el derecho de vía
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ART. 36-A.- El interesado en obtener un permiso para la construcción, modificación o ampliación de obras a que se refiere la fracción V del artículo 5o., además de cumplir con lo establecido en los artículos 6o. y 6-A de este Reglamento, deberá presentar:
+
+I. Tratándose del derecho de vía en carreteras federales libres de peaje o zonas aledañas, la descripción de las obras e instalaciones, calendarizando las diferentes etapas de ejecución, y
+
+II. En caso del derecho de vía de las carreteras federales de cuota o zonas aledañas, el proyecto ejecutivo deberá contener, además, el proyecto geométrico de las obras que incluye los planos topográficos de alineamiento vertical y horizontal con perfiles y secciones, de obras hidráulicas, de estructuras, señalamiento e iluminación, y especificaciones.
+
+La Secretaría deberá emitir la resolución que corresponda, atendiendo a lo establecido en el artículo 7o. de este Reglamento.
 
 ### CAPITULO VI. OBLIGACIONES GENERALES
 
@@ -366,3 +448,9 @@ CUARTO.- Los permisos para la construcción de obras en el derecho de vía de la
 QUINTO.- Las personas que hubieren construído accesos, instalado anuncios o ejecutado obras publicitarias, sin contar con el permiso respectivo o sin haber renovado el mismo, dispondrán en un plazo de 120 días, contados a partir de la fecha en que entre en vigor el presente Reglamento, para gestionar ante la Secretaría su regularización o bien para demoler o retirar las obras o instalaciones respectivas.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los cuatro días del mes de febrero de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Andrés Caso Lombardo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
