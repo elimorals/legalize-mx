@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-seguridad-publica-para-el-estado-de-nayarit-13489"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-16"
-last_updated: "1995-09-16"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de septiembre de 1995.
 
@@ -541,15 +541,11 @@ Las resoluciones del Consejo de Honor y Justicia que recaigan sobre el recurso d
 
 ### CAPITULO VI. DEL RECURSO DE REVISION
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 46.
 
-En contra de las resoluciones del Consejo de Honor y Justicia que resuelvan sobre la suspensión temporal o la destitución de los elementos se podrá interponer el recurso de revisión ante el Procurador General de Justicia, el director del área o su equivalente, o el Presidente Municipal según corresponda, dentro de los tres días hábiles siguientes al de su notificación.
-
-En el escrito correspondiente el recurrente deberá expresar los agravios que le causa la resolución combatida, ofreciendo las pruebas que estime pertinentes encaminadas a la revocación.
-
-Interpuesto el recurso, el Procurador el director del área o su equivalente, o el Presidente Municipal respectivo resolverá lo procedente dentro del término de 72 horas, a menos que quedaren pendientes pruebas por desahogar.
-
-Cualquiera que sea el sentido de la resolución, se agregará al expediente u hoja de servicios del encausado.
+Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ## TITULO SEPTIMO
 
@@ -706,3 +702,33 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
