@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1978-12-30"
+last_updated: "1979-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1197,6 +1197,8 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 
 El correspondiente a años anteriores, se comprobará con las copias de las manifestaciones formuladas por los tenedores o usuarios conforme al Artículo 161, en las que las oficinas recaudadoras hagan constar los pagos, con la indicación de los datos de control de los ingresos respectivos.
 
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
 #### SECCION TERCERA. EXENCIONES
 
 105.- Están exentos del pago de este impuesto:
@@ -1285,133 +1287,75 @@ Para la actualización bienal de los valores catastrales de predios ya valuados,
 
 En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado de dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
 
-### CAPITULO IV. IMPUESTO SOBRE SUELDOS Y EMOLUMENTOS
+### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
-OBJETO Y SUJETO
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1971)</small>
+DEL OBJETO
 
-166.- Son objeto de este impuesto los ingresos en efectivo o en especie, que habitual o accidentalmente se perciban como remuneración del trabajo personal, quedando comprendidas las contraprestaciones cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, premios, gratificaciones, rendimientos, destajos y otros conceptos.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-167.- Son sujetos del impuesto las personas físicas que perciban ingresos por la prestación de su trabajo personal, cuando éste se realice bajo la dirección y dependencia de un tercero, ya sea en virtud de contrato de trabajo o de nombramiento para el desempeño de cargo o empleo público. Se asimilan a los casos citados quienes perciban ingresos como administradores, comisarios o miembros de consejo directivos o de vigilancia de sociedades y asociaciones; y a los miembros de cooperativas de productores.
+166.- Son objeto de este impuesto los egresos en efectivo o en especie, que habitual o accidentalmente se realicen por concepto de remuneración al trabajo personal, prestado bajo la subordinación a un patrón, siempre y cuando se generen dentro del Territorio del Estado o los perciban personas domiciliadas en el mismo.
+
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, todas las contraprestaciones cualquiera que sea el nombre con el que se les designe, ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, primas, gratificaciones, rendimientos y otros conceptos análogos que se deriven de una relación laboral.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+DEL SUJETO
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+167.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen pagos por concepto de remuneración al trabajo personal en los términos a que se refiere el artículo anterior.
 
 DE LA BASE
 
-168.- Se tomarán como base para la aplicación del impuesto:
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-I.- Los ingresos mensuales que obtenga el causante. Si al sueldo mensual ordinario se acumulan sistemáticamente otras percepciones, el total mensual que resulte deberá servir de base para el cálculo del impuesto. Las personas que obtengan diversas percepciones gravables en dos o más empresas, están obligadas a acumular dichos ingresos en el mes en que les sean efectivamente pagados o abonados para pagar el impuesto sobre las percepciones mensuales totales, a las que se aplicará la tarifa que establece el artículo 171.
+168.- Se tomará como base para la aplicación de este gravamen el monto total de los pagos a que se refiere el artículo 166.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-II.- La percepción total, cuando se trate de un ingreso accidental. Si las percepciones mensuales del contribuyente no son regulares y en el contrato de trabajo se dispone la forma de computar las remuneraciones a que se refiere la fracción anterior de este artículo, el impuesto se determinará tomando en consideración lo dispuesto por el contrato citado.
+DE LA TASA
 
-III.- El ingreso percibido dentro de cada mes cuando se trate de aquellos que sin ser accidentales, no comprendan todo ese período. El cálculo del impuesto se hará dividiendo el importe de la percepción total entre el número de días en que se haya devengado. Dicha percepción diaria promedio se multiplicará por el número de días del mes, y al producto se le aplicará la tarifa correspondiente. El gravamen que resulte se dividirá entre los días del mes de que se trate y el cociente obtenido se multiplicará por los días trabajados, determinándose en esta forma el impuesto causado.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-IV.- Cuando por razones no imputables al causante éste percibe en una sola vez las prestaciones gravables correspondientes a diversos meses, el impuesto se calculará dividiendo el monto de la percepción entre el número de meses a que se refiera. El cociente obtenido se agregará al ingreso que corresponda al total acumulado en cada uno de ellos. Se sumarán las distintas cantidades de impuesto que resulten para cada mes, deduciendo de dicha suma el monto del impuesto pagado en los meses correspondientes, y la diferencia que resulte será el impuesto por pagar. Esta norma se aplicará también a los pagos que las empresas hagan por concepto de gratificaciones al personal o de emolumentos a los miembros del consejo de administración y comisarios.
+169.- El impuesto se causará conforme a la tasa del 1% sobre la base a que se refiere el artículo anterior.
 
-V.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1971)
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-VI.- Cuando al llegar el último día de un mes no sea posible precisar el monto total de los ingresos obtenidos por un contribuyente en ese lapso, se le retendrá el impuesto correspondiente a los conocidos, liquidándose la diferencia que resulte a su cargo por la aplicación de la tarifa dentro de los primeros 15 días del mes siguiente a aquél en que sea posible determinar la cuantía de dicho ingreso.
+170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1o. al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas por la Tesorería General del Estado.
 
-VII.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1971)
+La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
 
-DE LAS OBLIGACIONES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-169.- Las personas que hagan pagos a los causantes gravados por este capítulo, están obligados:
-
-I.- A retener el importe del impuesto que a cada uno corresponda. Cuando se trate de contratistas que sub-contraten el total o parte de la obra, los primeros están obligados a retener y enterar el impuesto por los ingresos gravados que perciban los trabajadores del su-contratista.
-
-Cuando el sujeto del impuesto perciba ingresos en dos o más empresas, avisará a todos los pagadores de tal circunstancia indicando el monto de las percepciones que de cada uno perciba, para que quien pague mayor cantidad retenga el importe total del impuesto. A falta del aviso anterior, todos retendrán el gravamen correspondiente al pago que hagan. También comunicará a los demás patrones el nombre de quien va a hacer la retención, para que los restantes se abstengan de efectuarla.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-II.- A enterar dentro de los días 1o. al 20 de cada mes en las Oficinas Recaudadoras el impuesto retenido, conforme a los sueldos, salarios y remuneraciones diversas cubiertas el mes anterior, empleando para ello las formas oficiales. Deberán además presentar dentro de los días 1o. al 20 del mes siguiente al bimestre que corresponda, copia fotoeléctrica de la declaración que tienen la obligación de presentar al Seguro Social para el entero de las cuotas obrero patronales.
-
-Previa autorización de la Tesorería General, tratándose exclusivamente de sociedades que operen con sucursales, el entero del impuesto de todos los causantes que presten servicios a la sociedad podrá llevarse a cabo en la Recaudación de Rentas que corresponda al domicilio de la matriz o la que para el efecto se señale.
-
-III.- A extender a los causantes una constancia de las sumas que les hayan retenido por este concepto.
-
-IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, dentro del plazo de 10 días contados a partir de la fecha de contratación de los servicios o de la en que entre en vigor esta disposición. Esta obligación la tienen todos los que hagan pagos, aún cuando por su importe no se cause el impuesto.
-
-170.- Las Oficinas Públicas de la Federación, del Estado y de los Municipios, así como los organismos descentralizados, las empresas de participación o propiedad del Gobierno Federal, del Gobierno Estatal, o similares, que hagan pagos a sujetos de este impuesto, cumplirán con las mismas obligaciones señaladas en los artículos anteriores.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-171.- El impuesto se causará conforme a la siguiente
-
-TARIFA:
-
-Porcentajes para
-
-aplicarse sobre
-
-Límite Inferior Límite Superior Cuota Fija el excedente del
-
-M $ N M $ N M $ N. límite inferior.
-
-De 0.01 a 4,500.00 0.00 exento
-
-De 4,500.01 a 5,000.00 30.00 más 4.0
-
-De 5,000.01 a 6,000.00 50.00 más 3.2
-
-De 6,000.01 a 7,000.00 82.00 más 2.8
-
-De 7,000.01 a 8,000.00 110.00 más 3.0
-
-De 8,000.01 a 9,000.00 140.00 más 3.2
-
-De 9,000.01 a 10,000.00 172.00 más 4.2
-
-De 10,000.01 a 12,000.00 214.00 más 4.0
-
-De 12,000.01 a 15,000.00 294.00 más 4.9
-
-De 15,000.01 a 18,000.00 441.00 más 5.9
-
-De 18,000.01 a 21,000.00 618.00 más 6.9
-
-De 21,000.01 a 25,000.00 825.00 más 7.6
-
-De 25,000.01 a 30,000.00 1,129.00 más 7.9
-
-De 30,000.01 en adelante 1,524.00 más 8.1
+Las personas físicas causantes del impuesto al Ingreso Global de las Empresas sujetos a las bases especiales de tributación, en actividades agrícolas, ganaderas, de pesca y conexas, podrán portar ante la Tesorería General del Estado, para que se les fije cuota, época y forma de pago por las erogaciones gravadas por este impuesto.
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-172.- Están exentos de pago del Impuesto:
+171.- Están exentas del pago de este impuesto las erogaciones que se cubran por concepto de:
 
-I.- Indemnizaciones por riesgos o enfermedades profesionales que se concedan de acuerdo con la Ley Federal del Trabajo, la Ley del Seguro Social y su Reglamento, o con los contratos de trabajo respectivos.
+a).- Participación de los trabajadores en las utilidades de las empresas;
 
-II.- Pensiones con cargo al Erario del Estado, al fondo de pensiones de la Dirección de Pensiones Civiles del Estado y las que se concedan de conformidad con las disposiciones de la Ley del Seguro Social y su Reglamento.
+b).- Indemnizaciones por riesgos y enfermedades profesionales;
 
-III.- Subsidios que se cubran a los trabajadores afiliados al Seguro Social y de conformidad con la ley relativa, por concepto de enfermedades generales, maternidad y riesgos profesionales.
+c).- Pagos por jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-IV.- Dotes matrimoniales que se concedan a los trabajadores de conformidad con la Ley del Seguro Social y su Reglamento, así como las ayudas para la lactancia que conceden las mismas disposiciones legales.
+d).- Indemnizaciones por cese o separación;
 
-V.- Indemnizaciones para gastos funerarios.
+e).- Pagos por gastos funerarios,
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1976)</small>
+f).- Pagos por primas de antigüedad;
 
-VI.- Las gratificaciones de fin de año, acordadas en forma general, a favor de los empleados públicos, así como las que perciban, también a fin de año, otros trabajadores, que no sean superiores a un mes de sueldo y que éste no exceda del salario mínimo general de la zona económica respectiva con $500.00.
+g).- Gastos de representación y viáticos que reúnan los mismos requisitos que para su deducibilidad requiera la Ley del Impuesto sobre la Renta.
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-VII.- Las cantidades recibidas por concepto de salario mínimo general, prima dominical, vacacional y de antigüedad sobre la base de dicho salario, las participaciones en las utilidades, las indemnizaciones por cese o separación, los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales, las jubilaciones y pensiones en caso de invalidez, cesantía, vejez y muerte.
+172.- La Tesorería General del Estado podrá determinar estimativamente las erogaciones de los sujetos de este impuesto cuando se de cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
 
-VIII.- Los haberes que obtengan los miembros del Ejército Nacional.
+173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
-IX.- Los viáticos siempre y cuando se acredite su erogación con documentos a nombre del patrón.
-
-OTRAS DISPOSICIONES
-
-173.- Las personas que no retengan el impuesto a los empleados y trabajadores que estén bajo su dependencia y no enteren su importe en las oficinas recaudadoras quedan obligadas solidariamente al pago de los impuestos omitidos.
-
-174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)(REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
 ### CAPITULO V. IMPUESTO SOBRE PROFESIONES Y EJERCICIOS LUCRATIVOS
 
@@ -2249,7 +2193,7 @@ V.- 1.8% en las ventas de segunda mano o posteriores de toda clase de automóvil
 
 Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta Autoridad, sobre el valor resultante del avalúo que al efecto practique.
 
-QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
+QUINTO GRUPO.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
 SEXTO GRUPO.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1975)
 
@@ -3301,7 +3245,7 @@ Galeana 0.6%
 
 General Trías 1.0%
 
-Gómez Farías 1,2%
+Gómez Farías 1.2%
 
 Gran Morelos 0.9%
 
@@ -3359,7 +3303,7 @@ Riva Palacio 1.6%
 
 Rosales 1.4%
 
-Rosario Valle de 0.9%
+Rosario Valle del 0.9%
 
 San Francisco de Borja 1.0%
 
@@ -4568,3 +4512,7 @@ El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o
 P.O. 30 DE DICIEMBRE DE 1978.
 
 ARTICULO TRANSITORIO.- La presente Ley entrará en vigor en todo el Estado a partir del día primero de enero de mil novecientos setenta y nueve.
+
+P.O. 29 DE SEPTIEMBRE DE 1979.
+
+ARTICULO TRANSITORIO. El presente Decreto entrará en vigor a partir del primero de octubre de mil novecientos setenta y nueve.
