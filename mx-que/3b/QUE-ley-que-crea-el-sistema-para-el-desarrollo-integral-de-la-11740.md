@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-sistema-para-el-desarrollo-integral-de-la-11740
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1985-12-26"
+last_updated: "1993-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 1993.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro de Arteaga, el jueves 26 de diciembre de 1985.
 
@@ -89,19 +89,21 @@ V.- Los demás bienes que obtenga por cualquier título legal.
 
 ### CAPITULO III. DE LOS ÓRGANOS DEL SISTEMA ESTATAL
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+
 ###### ARTÍCULO 4.
 
 Son órganos del sistema:
 
-A).- El Patronato.
+A) El Patronato;
 
-B).- La Junta Directiva.
+B) La Junta Directiva;
 
-C).- El Director General.
+C) El Director General;
 
-D).- La Procuraduría de la Defensa del Menor y la Familia.
+D) La Procuraduría de la Defensa del Menor y la Familia;
 
-E).- El Contralor.
+E) El Director Administrativo.
 
 ### CAPITULO IV. DEL PATRONATO
 
@@ -109,35 +111,19 @@ E).- El Contralor.
 
 El Patronato es el órgano de apoyo del Sistema Estatal, que auxiliará a acrecentar su patrimonio.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+
 ###### ARTÍCULO 6.
 
 El Patronato está integrado por:
 
-A).- Un presidente que representa al Patronato, quién será nombrado y removido discrecionalmente por el Titular del Ejecutivo del Estado.
+A).- Un Presidente que representa al Patronato, quién será nombrado y removido discrecionalmente por el Titular del Ejecutivo en el Estado;
 
-B).- Un Secretario, que será el Director General del Sistema Estatal.
+B).- Un Secretario, que será el Director General del Sistema;
 
-C).- Un Tesorero, que será el Secretario de Finanzas del Estado.
+C).- Un Tesorero, que será el Secretario de Planeación y Finanzas del Estado;
 
-D).- Los Vocales que podrán ser: un representante de las organizaciones siguientes:
-
-- Cámara Nacional de Comercio de Querétaro.
-
-- Asociación de Hoteles y Moteles del Estado.
-
-- Federación Estatal de la Pequeña Propiedad Agrícola.
-
-- Unión Regional Ganadera del Estado.
-
-- Cada una de las Sociedades Nacionales de Crédito establecidas en el Estado.
-
-- Club de Leones de Querétaro.
-
-- Club Rotario de Querétaro
-
-- Cada una de las Asociaciones de Profesionistas.
-
-Los vocales del Patronato podrán ser suplidos por los Representantes que designen.
+D).- Dos Vocales que podrán ser representantes de organizaciones dedicadas a la Asistencia Social, quienes serán designados por el Titular del Ejecutivo, a propuesta del Presidente del Patronato.
 
 ###### ARTÍCULO 7.
 
@@ -157,9 +143,11 @@ VI.- Acordar y convenir con la junta Directiva, todas las acciones necesarias pa
 
 VII.- Las demás que le señale la Ley.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+
 ###### ARTÍCULO 8.
 
-El Patronato sesionará semestralmente, cuando menos, previa convocatoria emitida por el Presidente.
+El Patronato sesionará ordinariamente cada seis meses y en forma extraordinaria cuantas veces sea necesario. Para sesionar validamente se requerirá la asistencia de por lo menos tres de sus miembros, entre los que siempre deberá estar el Presidente, sus decisiones se tomarán por mayoría de votos de los miembros asistentes y en caso de empate el Presidente tendrá voto de calidad.
 
 ###### ARTÍCULO 9.
 
@@ -175,23 +163,21 @@ Los integrantes del Patronato no percibirán retribución, emolumentos o compens
 
 ### CAPITULO V. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+
 ###### ARTÍCULO 12.
 
 La Junta Directiva estará integrada por:
 
-A).- El Secretario Ejecutivo del Instituto del Desarrollo Estatal para la Acción social.
+A) El Director General del Sistema para el Desarrollo Integral de la Familia del Estado;
 
-B).-El Director General del Sistema Estatal para el Desarrollo Integral de la Familia.
+B) El Secretario Ejecutivo del Patronato Estatal de Promotores Voluntarios;
 
-C).- Un representante por cada uno de los Ayuntamientos del Estado.
+C) El Director Administrativo del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
 
-D).- El Director de Salud del Estado.
+D) Dos representantes de los sectores público y privado, quienes serán designados por el Presidente del Patronato.
 
-E).- El Delegado del I. M. S. S. en el Estado.
-
-F).- El Delegado del I.S.S.S.T.E. en el Estado.
-
-G) .- Las demás personas que sean designadas por el Titular del Ejecutivo del Estado.
+A invitación del Director General del Sistema podrán asistir a las sesiones de la Junta Directiva, representantes de los sectores público, social y privado, involucrados con los asuntos a tratar, quienes participarán con voz pero sin voto.
 
 ###### ARTÍCULO 13.
 
@@ -215,9 +201,11 @@ VIII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse 
 
 IX.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+
 ###### ARTÍCULO 14.
 
-La Junta Directiva celebrará sesiones ordinarias bimestrales y las extraordinarias que se requieran, de conformidad con su Reglamento Interior.
+La Junta Directiva celebrará sesiones ordinarias bimestrales y las extraordinarias que se requieran, de conformidad con su Reglamento Interior. Para quedar legalmente instalada, será necesaria la asistencia de por lo menos tres de sus miembros, entre quienes deberá estar siempre el Director General del Sistema y sus acuerdos se tomarán por mayoría de votos de los miembros asistentes. En caso de empate, el Director General tendrá voto de calidad.
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL
 
@@ -237,7 +225,7 @@ III.- Presentar, para que la junta apruebe, en su caso, los planes de actividade
 
 IV.- Presentar a la Junta Directiva las propuestas, proyectos e informe que requiera el Sistema para su eficaz desempeño.
 
-V.- Tener a disposición de la Junta Directiva el total del archivo del Sistema y rendirle los informes que la Junta le solicite.
+V.- Tener a disposición de la Junta Directiva el total del archivo del Sistema y rendirle los informes que la junta le solicite.
 
 VI.- Proponer a la Junta Directiva la designación y remoción de los funcionarios del sistema.
 
@@ -277,23 +265,29 @@ VI.- Emitir opinión cuando se le solicite, de todo asunto legal, relacionado co
 
 VII.- Las demás que establezca la Ley.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1993)</small>
+
 ###### ARTÍCULO 18.
 
-El Contralor es el encargado de vigilar el patrimonio del Sistema y su correcto destino.
+El Director Administrativo es el encargado de vigilar el patrimonio del Sistema y su correcto destino.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
 
 ###### ARTÍCULO 19.
 
-El Contralor será designado y removido discrecionalmente por el C. Gobernador Constitucional del Estado.
+El Director Administrativo será designado y removido discrecionalmente por el C. Gobernador Constitucional del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
 
 ###### ARTÍCULO 20.
 
-Son facultades y obligaciones del Contralor:
+Son facultades y obligaciones del Director Administrativo:
 
 I.- Vigilar la Administración de los recursos financieros y que el funcionamiento del Sistema Estatal se realice de acuerdo con esta Ley.
 
-II.- Proponer a la Junta Directiva y al Director General las políticas y procedimientos de contabilidad más adecuados a las necesidades del sistema.
+II.- Proponer a la Junta Directiva y al Director General las políticas y procedimientos de contabilidad más adecuados a las necesidades del Sistema.
 
-III.- Recomendar a la Junta Directiva y al Director General del Sistema Estatal las medidas correctivas que sean convenientes para el mejor uso y destino de los bienes del sistema.
+III.- Recomendar a la Junta Directiva y al Director General del Sistema Estatal las medidas que estime convenientes para el mejor uso y destino de los bienes del Sistema.
 
 IV.- Asistir a las sesiones del Patronato y Junta Directiva.
 
@@ -361,7 +355,17 @@ EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
 
-### CAPITULO VIII. DEL CONTRALOR
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 17 DE JUNIO DE 1993
+
+PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+### CAPITULO VIII. DEL DIRECTOR AMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
 
 ### CAPITULO IX. DE LOS SISTEMAS MUNICIPALES
 
