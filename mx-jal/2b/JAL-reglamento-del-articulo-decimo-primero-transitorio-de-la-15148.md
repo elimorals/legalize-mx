@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-articulo-decimo-primero-transitorio-de-la-15148"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-16"
-last_updated: "1999-09-16"
+last_updated: "2000-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL ARTICULO DECIMO PRlMERO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2000.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 16 de septiembre de 1999.
 
@@ -285,7 +285,7 @@ Este Reglamento entrará en vigor al día siguiente de su publicación en el Per
 
 ###### ARTÍCULO SEGUNDO.
 
-Se establece como plazo para la recepción de las solicitudes de prórrogas y transmisiones a que se refiere el artículo undécimo transitorio de la Ley de los Servicios de Vialidad, Tránsito y Transporte, hasta el treinta de noviembre de 1999 para los permisos y concesiones de la Zona Metropolitana de Guadalajara y hasta el 30 de Diciembre del mismo año para aquellos del interior del Estado. Todas las solicitudes presentadas con posterioridad a esta fecha deberán ser resueltos (sic) de conformidad con las disposiciones establecidas en la Ley de los Servicios de Vialidad, Tránsito y Transporte y su Reglamento vigentes.
+(DEROGADO, P.O. 27 DE MAYO DE 2000)
 
 ###### ARTÍCULO TERCERO.
 
@@ -308,3 +308,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL C. SECRETARIO DE VIALIDAD Y TRANSPORTE
 
 ING. LEOPOLDO S. MONTELONGO CASTELLANOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE MAYO DE 2000.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
