@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-estadias-de-la-universidad-tecnologica-de-33145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-16"
-last_updated: "2003-07-16"
+last_updated: "2004-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # REGLAMENTO DE ESTADIAS DE LA UNIVERSIDAD TECNOLOGICA DE NAYARIT
 
-REGLAMENTO DE ESTADIAS DE LA UNIVERSIDAD TECNOLOGICA DE NAYARIT
+REGLAMENTO DE ESTADÍAS DE LA UNIVERSIDAD TECNOLÓGICA DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2004.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de julio de 2003.
 
@@ -61,7 +61,7 @@ Durante la Estadía no se crearán derechos ni obligaciones de tipo laboral entr
 
 ###### Artículo 7°.
 
-Es obligación de todos los alumnos, el realizar una Estadía durante el sexto cuatrimestre, como requisito entre otros, para obtener el Titulo de Técnico Superior Universitario.
+Es obligación de todos los alumnos, el realizar una Estadía durante el sexto cuatrimestre, como requisito entre otros, para obtener el Título de Técnico Superior Universitario.
 
 ###### Artículo 8°.
 
@@ -257,9 +257,11 @@ VI. Por el nivel de implementación de sus propuestas.
 
 La evaluación se realizará en la sexta y en la última semana de la Estadía por ambos asesores en sus respectivos formatos, teniendo una ponderación del 50% la evaluación del Asesor Empresarial y 50% del Asesor Académico, la cual se expresará como "ACREDITADA" o "NO ACREDITADA" según sea el caso, misma que se reportará al Departamento de Servicios Escolares.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### Artículo 29.
 
-En el caso de que el alumno no acredite su Estadía, tiene una única oportunidad adicional de presentar otro proyecto, el cual deberá desarrollarse de acuerdo a lo establecido en los artículos anteriores dentro de los cuatro meses siguientes, y en una empresa u organismo diferente de aquella en que se haya realizado la primera Estadía.
+En el caso de que el alumno no acredite su Estadía, tiene una única oportunidad adicional de presentar otro proyecto, el cual deberá desarrollarse de acuerdo a lo establecido en los artículos anteriores, en el transcurso del siguiente ciclo escolar, y en una empresa u organismo diferente de aquella en que se haya realizado la primera Estadía.
 
 ###### Artículo 30.
 
@@ -308,3 +310,9 @@ Lic. David Guerrero Castellón
 EL SECRETARIO
 
 Lic. Laura O. Bañuelos Quintero
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2004.
+
+> <small>[N. DE E. LA MODIFICACIÓN POR LA QUE “SE REFORMA UN ARTÍCULO AL REGLAMENTO DE ESTADÍAS DE LA UNIVERSIDAD TECNOLÓGICA DE NAYARIT”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE NAYARIT.]</small>
