@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1975-01-02"
+last_updated: "1978-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -1519,7 +1519,7 @@ IV.- Hecho el depósito en la Nacional Financiera, S. A., esta institución remi
 
 ### CAPITULO I. De las relaciones fiscales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 99.
 
@@ -1921,55 +1921,37 @@ Sus honorarios serán fijados en el momento de su designación por la Secretarí
 
 ###### ARTICULO 132.
 
-Las instituciones de seguros estarán sujetas al pago de los impuestos y derechos siguientes, de acuerdo con las leyes y reglamentos respectivos:
+Los Estados, el Distrito Federal y los Municipios, sólo podrán gravar a las instituciones de seguros, con los siguientes impuestos:
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones en que se cause por los demás obligados al pago de este impuesto.
 
-I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones que para los demás obligados al pago de este impuesto.
+II.- Impuestos que causen dichos inmuebles, en razón de pavimentos, atarjeas y limpia, en las mismas condiciones en que deban pagarlos los demás causantes.
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+III.- Traslación de dominio de bienes inmuebles.
 
-II.- Impuestos y derechos de carácter municipal que causen dichos inmuebles, por concepto de pavimentos, atarjeas y limpia, por su frente y la vía pública y por el agua potable de que disfruten; en las mismas condiciones en que deban pagar los demás causantes.
-
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
-
-III.- Los de patente o sobre giros comerciales, en la inteligencia de que este impuesto lo pagarán en el lugar de su domicilio y no en las agencias o sucursales que tengan en otros lugares.
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1974)</small>
-
-IV.- El Impuesto Federal sobre Primas Pagadas a Instituciones de Seguros y los impuestos y derechos establecidos por la Ley General del Timbre, en los términos de las leyes respectivas.
-
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
-
-V.- Impuestos sobre utilidades líquidas anuales que causen los balances aprobados por la Secretaría de Hacienda, por conducto de su dependencia encargada del control y vigilancia de las instituciones de seguros, después de hechas las deducciones correspondientes a castigos directos o al establecimiento de fondos o reservas para castigos, para fluctuaciones o para otras provisiones similares que la propia Secretaría apruebe, o que establezca esta ley.
-
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
-
-Los impuestos o derechos que hayan de ser pagados por las sucursales de empresas extranjeras por concepto de su capital, se calcularán sobre el que conforme a la ley conserven en la República dichas sucursales y no sobre el capital total que tenga la empresa matriz.
-
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
-
-VI.- El derecho de inspección y vigilancia, conforme a las siguientes normas:
-
-a). El 50% del presupuesto de gastos de inspección y vigilancia, se prorrateará entre las instituciones de seguros, en relación con el monto del capital y reservas de capital de cada una.
-
-b). El 30% en relación con las primas correspondientes a las pólizas emitidas durante el año inmediato anterior.
-
-c). El 20% restante, en relación con las utilidades y las instituciones nacionales que no tuvieren utilidades, pagarán la cuota que discrecionalmente fije la Secretaría de Hacienda y Crédito Público.
-
-d). Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A., y el fondo que con ellas se forme, será manejado por la Secretaría de Hacienda y Crédito Público en los términos del reglamento respectivo.
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 133.
 
-(DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1974)
+Las instituciones de seguros estarán obligadas a cubrir el derecho de inspección y vigilancia de acuerdo a las siguientes normas:
+
+I.- El 50% del presupuesto de gastos de inspección y vigilancia se prorrateará entre las instituciones de seguros, en relación con el monto del capital y reserva de capital de cada una.
+
+II.- El 30% en relación con las primas correspondientes a las pólizas emitidas durante el año inmediato anterior.
+
+III.- El 20% restante, en relación con las utilidades y las instituciones nacionales que no tuvieren utilidades, pagarán la cuota que discrecionalmente fije la Secretaría de Hacienda y Crédito Público.
+
+IV.- Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A., y el fondo que con ellas se forme será manejado por la Secretaría de Hacienda y Crédito Público en los términos del reglamento respectivo.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 134.
 
-Ni la Federación, ni los Estados ni los Municipios, podrán gravar con otros impuestos el capital de las instituciones de seguros a que se refiere el artículo 132 ni las operaciones propias de su objeto que dichas instituciones practiquen, con excepción de los créditos hipotecarios en los cuales el monto del impuesto no exederá de 0.25% sobre el importe de la operación por una vez, como derecho de inscripción en el Registro, sea de la Propiedad, de Hipotecas, de Comercio o de Crédito. La cancelación de las inscripciones no causará derecho alguno. Para los efectos de este artículo, el Distrito y los Territorios Federales se equiparán a los Estados.
+Las instituciones de seguros estarán sujetas al pago de impuestos, derechos, cooperaciones y gravámenes referidos a la mejoría específica de la propiedad raíz a consecuencia de la realización de obras públicas, o para la ejecución, conservación o mantenimiento de este tipo de obras, así como de todos los derechos que correspondan por la prestación de servicios públicos de la Federación, de los Estados y de los Municipios en las mismas condiciones en que deban pagarlos los demás causantes. Sin embargo, los créditos hipotecarios, refaccionarios o de habilitación o avío, así como las afectaciones en garantía, no podrán devengar como impuesto o derechos de inscripción en el Registro, sea de la Propiedad, de Hipotecas o de Comercio, o de Crédito, cantidad que exceda del 0.25% sobre el importe de la operación por una vez. La cancelación de las inscripciones no causará derecho alguno. Para los efectos de este artículo el Distrito Federal se equiparará a los Estados.
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1974)</small>
+Cuando la operación haya de inscribirse en varias entidades federativas, los impuestos o derechos se dividirán entre dichas entidades en la proporción que corresponda, atendiendo al valor fiscal de los bienes situados en cada una de ellas, y sin que nunca la suma de lo pagado exceda de la cuota antes señalada.
 
-Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y a las personas que con ellos celebren contratos de seguros. Los derechos de registro que en él se autorizan deberán ser cubiertos por quien solicite la Inscripción.
+Lo dispuesto en este artículo aprovechará lo mismo a las instituciones que a las personas que con ellas contraten. Los impuestos o derechos de registro que en él se autorizan deberán ser cubiertos por quien solicite la inscripción.
 
 ###### ARTICULO 135.
 
@@ -2406,5 +2388,17 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+...
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+...
+
+###### ARTICULO SEGUNDO.
+
+A partir del 1o. de enero de 1980 entrarán en vigor los ARTICULOS TERCERO, SEXTO, SEPTIMO, DECIMO TERCERO, DECIMO CUARTO, DECIMO QUINTO, DECIMO SEPTIMO, VIGESIMO, VIGESIMO PRIMERO, VIGESIMO SEGUNDO Y VIGESIMO TERCERO de esta Ley; así como los artículos: 3o., 11 y 15 comprendidos en el ARTICULO CUARTO en materia de Aguas Envasadas; 4o., 4o. Bis y 6o. a que se refiere el ARTICULO QUINTO en materia de Cerveza; 19 y 133 contenidos en el ARTICULO OCTAVO en materia de Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas; 26 a que se refiere el ARTICULO DECIMO SEGUNDO en materia de Minería; 3o. a que se refiere el ARTICULO DECIMO SEXTO en materia de Servicios Telefónicos; 22 comprendido en el ARTICULO DECIMO OCTAVO en materia de Tenencia o Uso de Automóviles; 6o., 11 y 12 incluidos en el ARTICULO DECIMO NOVENO en materia de Venta de Gasolina, de esta misma Ley.
 
 ...
