@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-tribunal-de-lo-contencioso-administrativo-del-848"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-19"
-last_updated: "1995-12-19"
+last_updated: "1999-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=848&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de diciembre de 1995.
 
@@ -48,17 +48,23 @@ El Tribunal de lo Contencioso Administrativo del Distrito Federal, es un Tribuna
 
 ### CAPITULO II. De la Integración del Tribunal
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 2o.
 
-El Tribunal de lo Contencioso Administrativo se compondrá de una Sala Superior integrada por cinco Magistrados, y por tres Salas Ordinarias de tres Magistrados cada una. Cuando las necesidades del servicio lo requieran, a juicio de la Sala Superior, se formarán Salas Auxiliares integradas por tres Magistrados cada una. La Sala Superior determinará la sede de las Salas Ordinarias y la de las auxiliares.
+El Tribunal de lo Contencioso Administrativo del Distrito Federal se compondrá de una Sala Superior, integrada por siete Magistrados y tres Salas Ordinarias de tres Magistrados cada una. Cuando las necesidades del servicio lo requieran, por acuerdo de la Sala Superior, se formarán Salas Auxiliares, cada una integrada por tres Magistrados. La Sala Superior acordará la sede de las Salas Ordinaria (sic) y de las Auxiliares.
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 3o.
 
-El Jefe del Distrito Federal designará a los Magistrados del Tribunal, cuyo nombramiento someterá a la aprobación de la Asamblea de Representantes.
+El nombramiento de los Magistrados del Tribunal de lo Contencioso Administrativo del Distrito Federal, se hará en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y la Ley Orgánica de la Asamblea Legislativa del Distrito Federal.
 
-Los Magistrados durarán seis años en el ejercicio de su encargo, podrán ser promovidos de las Salas Auxiliares a las Salas Ordinarias y de éstas a la Sala Superior, y al término de su nombramiento podrán ser ratificados o promovidos, y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+Los Magistrados serán designados a propuesta del Jefe de Gobierno del Distrito Federal sujetos a la aprobación de la Asamblea Legislativa del Distrito Federal, podrán ser promovidos de las Salas Auxiliares a las Salas Ordinarias y de éstas a la Sala Superior. Sólo durarán seis años en el ejercicio de su encargo, salvo que fueran expresamente ratificados o promovidos al concluir ese periodo, mediante el mismo procedimiento substanciado para las designaciones; si lo fueren, sólo podrán ser privados de sus cargos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
-Para la aprobación de los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como para su ratificación, son aplicables las disposiciones establecidas en la Ley Orgánica de la Asamblea de Representantes del Distrito Federal.
+Cuando por falta definitiva un Magistrado no pueda concluir su periodo de seis años, y por tal motivo deba nombrarse un sustituto, se entenderá que dicho nombramiento sólo es para concluir ese periodo. Asimismo, los nombramientos de Magistrados sustitutos no contarán para los efectos de ratificación en el cargo.
+
+Al término del periodo para el cual hubieran sido designados, los Magistrados deberán entregar formal y materialmente su cargo y su ponencia a la Sala Superior, para que ésta dicte las medidas correspondientes, con el fin de asegurar la continuidad de las funciones de la ponencia respectiva.
 
 ###### ARTICULO 4o.
 
@@ -76,25 +82,37 @@ E) Gozar de buena reputación; y
 
 F) No haber sido condenado por sentencia irrevocable, por delito doloso que le imponga más de un año de prisión.
 
-Será causa de retiro de los Magistrados haber cumplido setenta y cinco años de edad o que sobrevenga incapacidad física o mental para desempeñar el cargo.
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
+Será causa de retiro forzoso de los Magistrados haber cumplido setenta años de edad o que sobrevenga incapacidad física o mental para desempeñar el cargo.
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 5o.
 
-El Tribunal tendrá un Presidente que será a su vez Presidente de la Sala Superior, electo por los Magistrados de dicha Sala. El Presidente durará dos años en su cargo y no podrá ser reelecto para el período inmediato.
+El Tribunal tendrá un Presidente que será a su vez Presidente de la Sala Superior, electo por los Magistrados que la integran conforme al artículo 2° de esta Ley.
 
-Cada una de las Salas Ordinarias y de las Auxiliares tendrá un Presidente electo por sus Magistrados, que durará un año en su cargo y que también puede ser reelecto en sólo una ocasión consecutiva.
+El Presidente del Tribunal y de la Sala Superior durará cuatro años en su cargo y no podrá ser reelecto para el periodo inmediato.
+
+No se considerará reelección cuando los Magistrados elijan a quien concluyó el periodo anterior en los términos del párrafo segundo del artículo 9° de la presente Ley.
+
+Cada una de las Salas Ordinarias y de las Auxiliares tendrá un Presidente electo por sus Magistrados, quien durará dos años en su cargo y no podrá ser reelecto para el siguiente periodo.
 
 ###### ARTICULO 6o.
 
 La Elección del Presidente del Tribunal, se efectuará en la primera sesión del año que corresponda, y la de los Magistrados de las Salas Ordinarias y Auxiliares, en la Primera sesión de cada año.
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 7o.
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo percibirán iguales emolumentos que los del Tribunal Superior de Justicia del Distrito Federal, mismos que serán fijados anualmente en el Presupuesto de Egresos del Distrito Federal que para el ejercicio fiscal correspondiente sea aprobado por la Asamblea de Representantes del Distrito Federal. Esos emolumentos no podrán ser disminuidos durante el término de su encargo.
+Los Magistrados del Tribunal de lo Contencioso Administrativo percibirán iguales emolumentos que los del Tribunal Superior de Justicia del Distrito Federal, mismos que serán fijados anualmente en el Presupuesto de Egresos del Distrito Federal que para el ejercicio fiscal correspondiente sea aprobado por la Asamblea Legislativa del Distrito Federal. Esos emolumentos no podrán ser disminuidos durante el término de su encargo.
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 8o.
 
-Los Magistrados del Tribunal deberán otorgar la protesta de Ley ante el Pleno de la Asamblea de Representantes del Distrito Federal. En los recesos de ésta la aprobación, ratificación y la protesta de Ley podrá hacerse ante la Comisión de Gobierno de dicha Asamblea.
+Los Magistrados del Tribunal deberán otorgar la protesta de Ley ante el pleno de la Asamblea Legislativa del Distrito Federal. En los recesos de ésta, la Comisión de Gobierno de dicha Asamblea, en su caso, aprobará o ratificará según corresponda, las designaciones de manera provisional, ante quien rendirá la protesta de ley y la someterá a la consideración del pleno en el siguiente periodo de sesiones ordinarias para su aprobación o ratificación definitiva.
 
 ###### ARTICULO 9o.
 
@@ -113,6 +131,10 @@ Las faltas definitivas se suplirán con nueva designación en los términos del 
 Si el Magistrado que faltare en forma definitiva es el Presidente de la Sala, será designado Presidente el Magistrado de la propia Sala con más antigüedad en el Tribunal, quien terminará el período correspondiente al Magistrado faltante.
 
 Si la ausencia del Presidente fuera sólo temporal, el Magistrado más antiguo en nombramiento de la Sala, la presidirá hasta el regreso del Magistrado Presidente, en los términos del artículo 9o. de la Ley.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
+El Presidente del Tribunal deberá informar por escrito al Jefe de Gobierno del Distrito Federal con tres meses de anticipación, la fecha en que cualesquiera de los Magistrados de las Salas concluirá el término para el que fue designado o que cumplirá la edad a que se refiere el párrafo final del artículo 4° de esta Ley; y tratándose de faltas definitivas por renuncia, fallecimiento, incapacidad física o mental, o cualquier otra causa, deberá notificarle en cuanto obtenga el documento respectivo o la certificación oficial del caso.
 
 ###### ARTICULO 11.
 
@@ -150,17 +172,21 @@ Para todos los efectos de las relaciones de trabajo entre el Tribunal y sus serv
 
 ### CAPITULO III. De la Sala Superior
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 17.
 
-La Sala Superior, Organo Supremo del Tribunal, se compondrá de cinco Magistrados, especialmente nombrados para integrarla. Bastará la presencia de tres de sus miembros para que pueda sesionar.
+La Sala Superior será el Organo Supremo del Tribunal de lo Contenciosos (sic) Administrativo del Distrito Federal, se integrará con siete Magistrados especialmente nombrados para ella conforme al artículo 3° de esta Ley. Bastará la presencia de cuatro de ellos para que pueda sesionar y aprobar acuerdos o resoluciones.
 
 ###### ARTICULO 18.
 
 Las sesiones de la Sala Superior serán públicas, con excepción de los casos en que el orden, la moral o el interés público exijan que sean secretas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE DICIEMBRE 1999)</small>
+
 ###### ARTICULO 19.
 
-Las resoluciones de la Sala Superior se adoptarán por los votos en el mismo sentido de tres Magistrados por lo menos. Los Magistrados no podrán abstenerse de votar sino cuando tengan algún impedimento legal.
+Los acuerdos o resoluciones de la Sala Superior se aprobarán con los votos en el mismo sentido, de por lo menos, cuatro de sus magistrados, quienes sólo podrán abstenerse de sufragar en el caso de que tengan algún impedimento legal.
 
 En caso de no darse el número de votos requeridos, el asunto se diferirá para la siguiente sesión, y si no se pudiere adoptar la resolución por el mismo motivo, se designará nuevo Ponente.
 
@@ -188,7 +214,9 @@ Son atribuciones de la Sala Superior las siguientes:
 
 I.- Designar de entre sus miembros al Presidente del Tribunal, quien lo será también de la Sala Superior;
 
-II.- Fijar y cambiar las adscripciones de los Magistrados de las Salas Ordinarias y de las Auxiliares;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
+II.- Fijar y cambiar las adscripciones de los magistrados de las salas ordinarias y de las auxiliares; así como designar de entre ellos al Magistrado de guardia en períodos vacacionales o días inhábiles que se acuerden conforme al artículo 38 de esta Ley, quien tendrá las mismas atribuciones de un Presidente de Sala Ordinaria, para prevenir, admitir o desechar demandas y acordar la procedencia de las suspensiones que sean solicitadas;
 
 III.- Designar, en los términos del artículo 10, a los Secretarios de Acuerdos que suplan las ausencias temporales de los Magistrados de las Salas Ordinarias y Auxiliares;
 
@@ -214,7 +242,21 @@ XIII.- Conocer de las denuncias o quejas que se presenten en contra de los Magis
 
 XIV.- Las demás que no estén expresamente designadas al Presidente del Tribunal; y
 
-XV.- Las demás que establezcan las leyes.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
+XV.- Emitir el dictamen valuatorio de la actuación de los Magistrados que estén por concluir su periodo para el cual fueron designados. Este dictamen se acompañará al informe al que se refiere el último párrafo del artículo 10 de esta Ley, y contendrá los siguientes elementos:
+
+a) El desempeño en el ejercicio de su función;
+
+b) Los resultados de las visitas de inspección;
+
+c) Los cursos de actualización, especialización y de posgrado que hayan acreditado, y
+
+d) Si han sido sancionados administrativamente; y
+
+(REUBICADA, G.O. 14 DE DICIEMBRE DE 1999)
+
+XVI.- Las demás que establezcan las leyes.
 
 ### CAPITULO IV. Del Presidente del Tribunal
 
@@ -796,9 +838,11 @@ La Sala Superior, al admitir a trámite el recurso, designará a un Magistrado p
 
 Vencido dicho término, el Magistrado Ponente formulará proyecto y dará cuenta del mismo a la Sala Superior en un plazo de quince días.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 88.
 
-Contra las resoluciones de la Sala Superior a que se refiere el artículo anterior, las autoridades podrán interponer el recurso de revisión ante el Tribunal Colegiado de Circuito competente, mediante escrito dirigido a dicho Tribunal dentro del término de 15 días siguientes a aquel en que surta efectos la notificación respectiva, independientemente del monto, en los casos siguientes:
+Contra las resoluciones de la Sala Superior a que se refiere el artículo anterior, las autoridades podrán interponer el recurso de revisión ante el Tribunal Colegiado de Circuito competente por conducto de la Sala Superior, mediante escrito dirigido a dicho Tribunal dentro del término de 10 días siguientes a aquél en que surta efectos la notificación respectiva, independientemente del monto, en los casos siguientes:
 
 A) Cuando la resolución que se dicte afecte el interés fiscal o el patrimonio del Distrito Federal y sea de importancia a juicio de la autoridad fiscal;
 
@@ -814,13 +858,17 @@ En los casos no previstos en las fracciones anteriores, las autoridades podrán 
 
 ### CAPITULO XIII. De la Jurisprudencia
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 89.
 
-Las sentencias de la Sala Superior constituirán Jurisprudencia que será obligatoria para ella y las demás Salas del Tribunal, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por el voto de cuatro Magistrados, en el mismo sentido.
+Las sentencias de la Sala Superior constituirán Jurisprudencia que será obligatoria para ella y las demás Salas del Tribunal, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por el voto de cinco Magistrados en el mismo sentido.
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 90.
 
-Para interrumpir o modificar la Jurisprudencia del Tribunal se requerirá el voto en el mismo sentido de cuatro Magistrados por lo menos, en una resolución cuando se trate de la interrupción, o en el mismo número y condiciones señaladas para su fijación, cuando se trate de modificarla.
+Para interrumpir o modificar la Jurisprudencia del Tribunal se requerirá del voto en el mismo sentido de cinco Magistrados por lo menos, en una resolución cuando se trate de interrupción, en el mismo número y condiciones señaladas para su fijación, cuando se trate de modificarla.
 
 Cuando no se logre esta mayoría en dos sesiones, se tendrá por desechado el proyecto y se designará otro Magistrado Ponente para que formule nuevo proyecto.
 
@@ -875,3 +923,17 @@ En un término de noventa días a partir de esta fecha, será publicado en la Ga
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los catorce días del mes de noviembre de mil novecientos noventa y cinco.- Rep. Francisco José Paoli Bolio, Presidente.- Rep. Ernesto Canto Gudiño, Secretario.- Rep. Luis M. Altamirano y Cuadros, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 14 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, salvo lo dispuesto en el artículo 5° de este decreto, que entrará en vigor a partir del primero de enero del año 2000.
+
+SEGUNDO.- Lo dispuesto por el artículo 4° de este decreto con relación al retiro forzoso por límite de edad, será aplicable a los Magistrados que sean designados con posterioridad a la entrada en vigor de este decreto.
+
+TERCERO.- Los magistrados integrantes de la Sala Superior que actualmente se encuentran en funciones, continuarán en sus cargos según corresponda el tiempo para la conclusión de los mismos, así como los que fueron designados el 23 de marzo de 1999, por la Asamblea Legislativa del Distrito Federal.
+
+CUARTO.- La Sala Superior, dentro del plazo de novena días naturales siguientes a la entrada en vigor del presente decreto, hará las adecuaciones correspondientes en el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal.
+
+QUINTO.- Publíquese en el Diario Oficial de la Federación, para su mayor difusión.
