@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-6941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-11-20"
-last_updated: "1995-09-14"
+last_updated: "2002-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
+
+> <small>N. DE E. LA PRESENTE LEY HA SIDO DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY MUNICIPAL PARA EL ESTADO DE OAXACA, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE OCTUBRE DE 2002.</small>
 
 Ley publicada en el Periódico Oficial, Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 20 de Noviembre de 1993.
 
@@ -1832,3 +1834,27 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 14 DE SEPTIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 2002.
+
+PRIMERO.- La presente ley entrará en vigor el 1° de diciembre del año 2002. publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan la Ley Orgánica Municipal del Estado de Oaxaca, aprobada por Decreto No. 118, de fecha 25 de junio de 1993, publicada en el Periódico Oficial del Gobierno del Estado con fecha 20 de noviembre de 1993.
+
+TERCERO.- Se concede un plazo de seis meses, contados a partir de la entrada en vigor de esta Ley, para que los ayuntamientos emitan sus bandos de policía y buen gobierno, ordenanzas, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos territoriales.
+
+CUARTO.- En cumplimiento al artículo segundo transitorio del decreto 230 que reforma la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia municipal, publicado el 8 de diciembre del año 2000, tratándose de funciones y servicios que conforme al presente decreto sean competencia de los municipios y que a la entrada en vigor de las reformas sean prestados por el Gobierno del Estado o de manera coordinada con los municipios mediante convenios que para tal efecto se suscriban,, estos podrán asumirlos, previa aprobación del ayuntamiento. El Gobierno del Estado, dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de noventa días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, contemplado en el artículo 113 Fracción II inciso a) de la Constitución Política del Estado Libre y Soberano de Oaxaca, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la Legislatura Local, conservar en su ámbito de competencia estos servicios cuando la transferencia de Estado a municipios afecte en perjuicio de la población su prestación. La Legislatura del Estado, en estos casos será el órgano competente para resolver lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el párrafo anterior, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+QUINTO.- El Gobierno del Estado y los gobiernos municipales realizarán los actos conducentes, a efecto de que los convenios que en su caso se hubieren celebrado con anterioridad, se ajusten a lo establecido en la Constitución Federal, la Constitución Local y las leyes aplicables.
+
+SEXTO.- La substanciación de los expedientes relativos a la desaparición de un ayuntamiento, o a la suspensión o revocación del mandato de alguno de sus miembros, que hayan sido iniciados antes de la entrada en vigor de esta Ley; se sujetará a la normatividad vigente en el momento en que se inició el procedimiento.
+
+SEPTIMO.- En la realización de las acciones conducentes al cumplimiento de la presente Ley, se respetarán los derechos y obligaciones contraidas (sic) previamente con terceros, así como los derechos de los trabajadores municipales.
+
+OCTAVO.- El presente, contiene el decreto número 273 del año 2001, por medio del cual la LVII Legislatura aprobó la Ley Municipal para el Estado de Oaxaca a la que se le han incorporado las observaciones y objeciones hechas por el Titular del Ejecutivo en ejercicio del derecho que le concede el artículo 53 Fracción II de la Constitución Política del Estado.
+
+NOVENO.- El título decimoquinto de esta Ley, entrará en vigor, hasta en tanto se instituya el Tribunal de lo Contencioso Administrativo.
