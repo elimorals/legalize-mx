@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1945-02-10"
+last_updated: "1945-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1945.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -410,13 +410,11 @@ II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de
 
 ### CAPITULO VI. Pérdida de los instrumentos del delito
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1945)</small>
+
 ###### ARTICULO 40.
 
-Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como las que sean objeto de él, se decomisarán si son de uso prohibido.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-Los objetos de uso lícito a que se refiere este artículo, se decomisarán al acusado solamente cuando fuere condenado. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño, para fines delictuosos.
+Todos aquellos objetos que se encuentren a disposición de las Autoridades Judiciales del orden penal, que no estuvieran comprendidos en los señalados anteriormente en este propio precepto y hubieren permanecido por un lapso mayor de tres años a disposición de dichas autoridades sin que hayan sido recogidos por sus legítimos propietarios, en los casos en que procede su devolución, se considerarán como bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, considerándose al Tribunal Superior de Justicia del Distrito y Territorios Federales como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta a un cincuenta por ciento del valor en que se realicen los bienes y que se destinará al mejoramiento de la administración de justicia.
 
 ###### ARTICULO 41.
 
@@ -3215,6 +3213,12 @@ D.O.F. 10 DE FEBRERO DE 1945.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después del de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 8 DE MAYO DE 1945.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
 
 ###### ARTICULO 2o.
 
