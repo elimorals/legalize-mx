@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-05-09"
+last_updated: "2001-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1007,13 +1007,19 @@ El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o com
 
 #### SECCION II BIS. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2001)</small>
 
 ###### Art. 77 Bis.
 
-Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado o los Municipios, con excepción de los del Poder Judicial del Estado, violatorios de los derechos humanos, se establece una Comisión Estatal de Protección a los Derechos Humanos, cuya estructura, competencia y funcionamiento se establecerán en la Ley Orgánica respectiva.
+Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa violatorias de los derechos humanos, provenientes de cualquier autoridad o servidor público del estado o los municipios, con excepción de los del Poder Judicial del Estado, se establece un organismo denominado Comisión Estatal de los Derechos Humanos, con carácter autónomo, personalidad jurídica y patrimonio propio, que tendrá por objeto la protección, observación, promoción, estudio y divulgación de los derechos humanos previstos en nuestro orden jurídico vigente.
 
-Este organismo formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+Este organismo formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+La Comisión Estatal de los Derechos Humanos, tendrá un Consejo Consultivo integrado por diez Consejeros, que serán elegidos por el voto de las dos terceras partes de los integrantes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Cada dos años serán sustituidos los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+
+El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
 
 #### SECCION III. DE LA DEFENSORIA DE OFICIO
 
@@ -2738,6 +2744,16 @@ P.O. 09 DE MAYO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE JUNIO DE 2001.
+
+Artículo Primero.- El presente decreto comenzará a surtir efectos al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- El Congreso del Estado por conducto de su Comisión de Derechos Humanos, convocará en los términos que la ley disponga a las organizaciones sociales y organismos dedicados a la protección y defensa de los derechos humanos en el Estado, a la elección de las actuales vacantes de consejeros del Consejo Consultivo de la Comisión Estatal de los Derechos Humanos.
+
+Artículo Tercero.- En tanto el Congreso del Estado expide las reformas a la Ley de la Comisión Estatal de los Derechos Humanos, ésta ejercerá sus atribuciones y competencia conforme a lo dispuesto por el presente decreto y ley reglamentaria vigente hasta dicha expedición.
+
+Artículo Cuarto.- El ejercicio de las funciones y facultades del Presidente y de los Consejeros actuales que integran el Consejo Consultivo de la Comisión Estatal de Derechos Humanos concluirá al término del periodo para el cual fue electo el primero.
 
 ###### ARTÍCULO PRIMERO.
 
