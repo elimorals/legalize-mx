@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1952-08-13"
+last_updated: "1953-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1953.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -249,9 +249,9 @@ La Capital del Estado, es la Ciudad de Chilpancingo de los Bravos, donde deben r
 
 ###### Artículo 20.
 
-El Territorio del Estado comprende el que le señaló la Ley de su creación con la modificación contenida en el Decreto número 1 del 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
+El Territorio del Estado comprende el que le señaló la Ley de su creación con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochistlahuaca, Tlacoachistlahuaca, Cuajinicuilapa, Tlacoapa, Taxco de Alarcón, Tetipac, Pilcaya, Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan, Pedro Ascencio Alquisiras, Apaxtla, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyú, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Heliodoro Castillo, Juan R. Escudero, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Cocula, Huitzuco, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Tlapehuala, La Unión, Coahuayutla, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Zapotitlán Tablas, Malinaltepec, Xalpatlahuac, Alpoyeca, Metlatonoc, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Xochihuehuetlán, Cualac, Tlalixtaquilla y Olinalá.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachistlahuaca, Xochistlahuaca, Cuajinicuilapa, Taxco de Alarcón, Pilcaya, Tetipac, Teloloapan, Cuetzala del Progreso, Apaxtla, Ixcateopan, Pedro Ascencio Alquisiras, San Luis Acatlán, Cuautepec, Copala, Azoyú, Chilapa, Atlixtac, Ahuacuotzingo, Copalillo, Zitlala, Ayutla de los Libres, Florencio Villarreal, Tecoanapa, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Heliodoro Castillo, Juan R. Escudero, Arcelia, Acapetlahuaya, Ajuchitlán del Progreso, San Miguel Totolapan, Tlapehuala, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Huitzuco, Cocula, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla de Guerrero, Petatlán, José Azueta, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Tlacoapa, Tlalixtaquilla, Malinaltepec, Alcozauca de Guerrero, Zapotitlán Tablas, Xalpatlahuac, Metlatonoc, Acapulco, San Marcos, Coyuca de Benítez, Huamuxtitlán, Xochihuehuetlán, Alpoyeca, Cualac y Olinalá.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -357,7 +357,9 @@ Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente.
 
 Para ser Diputado se requieren los siguientes requisitos:
 
-I.- Ser ciudadano guerrerense por nacimiento e hijo de padres mexicanos, también por nacimiento, y en ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1953)</small>
+
+I.- Ser Ciudadano guerrerense por nacimiento, varón o mujer e hijo de padres mexicanos, también por nacimiento y en ejercicio de sus derechos.
 
 II.- Tener veinticinco años de edad, cumplidos el día de la elección.
 
@@ -673,7 +675,9 @@ La elección de Gobernador será directa en los términos que disponga la Ley El
 
 Para ser Gobernador del Estado se requiere:
 
-I.- Ser Ciudadano Guerrerense por nacimiento en pleno goce de sus derechos, e hijo de padres Mexicanos por nacimiento.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1953)</small>
+
+I.- Ser ciudadano guerrerense, varón o mujer, por nacimiento, en pleno goce de sus derechos e hijo de padres mexicanos por nacimiento.
 
 II.- Tener treinta y cinco años cumplidos al tiempo de ser electo.
 
@@ -1159,7 +1163,7 @@ Esta Constitución no perderá su fuerza ni vigor, aún cuando por alguna rebeli
 
 ### CAPITULO I. DEL MUNICIPIO COMO PARTE DE LA DIVISION TERRITORIAL DEL ESTADO Y DE SU ORGANIZACION POLITICA Y ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1953)</small>
 
 ### CAPITULO II. DE LOS DISTRITOS
 
@@ -1510,3 +1514,21 @@ P.O. 13 DE AGOSTO DE 1952.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1953.
+
+DECRETO NUMERO 47.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1953.
+
+DECRETO NUMERO 50.
+
+###### Art. 1o.
+
+El Municipio de José Azueta comprenderá los núcleos de población que se le asignen al hacerse la modificación correspondiente a la Ley número 59 Orgánica de División Territorial del Estado y tendrá como cabecera el Puerto Zihuatanejo.
+
+###### Art. 2o.
+
+Este Decreto surtirá sus efectos a partir del día primero de enero del año de mil novecientos cincuenta y cuatro.
