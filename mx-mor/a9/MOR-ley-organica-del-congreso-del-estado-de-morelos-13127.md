@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2002-02-27"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -241,7 +241,9 @@ h) Contar con los recursos materiales necesarios para el cumplimiento de sus fun
 
 i) Contar con la asesoría del personal técnico y profesional en función de las comisiones a las que pertenezcan.
 
-j) En caso de fallecimiento, sus herederos percibirán el equivalente a 6 meses del total de las percepciones vigentes. Igual prestación recibirán los herederos de los Diputados de Legislaturas anteriores que fallecieren y ubieren (sic) ejercido el cargo correspondiente.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
+j) En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de las percepciones vigentes. Igual prestación recibirán los beneficiarios de los Diputados de las Legislaturas anteriores que fallecieren y hubieren ejercido el cargo correspondiente, para lo cual se deberá hacer la designación en los términos que señale el Reglamento; si no se designa beneficiario la percepción se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente.
 
 k) Los demás que contemplen la Constitución Local, esta ley y su reglamento.
 
@@ -795,7 +797,7 @@ c) Revisar los ordenamientos de previsión y seguridad social y en su caso se pr
 
 Corresponderá a la Comisión de Asuntos de Seguridad Pública e Interés Social.
 
-a) Conocer y dictaminar los asuntos relacionados con los usos, costumbres e idiosincracia, de los grupos étnicos y comunidades del estado.
+a) (DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 b) Analizar y dictaminar las iniciativas relacionadas con la seguridad pública.
 
@@ -1291,11 +1293,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 
 ###### ARTICULO SEGUNDO.
 
-Remítase el presente Decreto, al titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+Remítese el presente Decreto, al titular del Poder Ejecutivo estatal para los efectos correspondientes.
 
 ###### ARTICULO TERCERO.
 
-Se instruye a la Comisión de Régimen Interno y Concertación Política para que para el actual ejercicio presupuestal del año dos mil dos, se otorguen a las Comisiones de nueva creación los recursos humanos y materiales necesarios para su funcionamiento, de acuerdo a las condiciones presupuestales.
+Se instruye a la Comisión de régimen Interno y Concertación Política para que para el actual ejercicio presupuestal del año dos mil dos, se otorguen a las Comisiones de nueva creación los recursos humanos y materiales necesarios para su funcionamiento, de acuerdo a las condiciones presupuestales.
 
 P.O. 27 DE FEBRERO DE 2002.
 
@@ -1308,3 +1310,27 @@ SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el artículo 38 inciso f) de la Ley Orgánica del Congreso del Estado de Morelos, la Comisión de Régimen Interno y Concertación Política propondrá al Pleno de esta Soberanía Popular a los integrantes de la Comisión de Asuntos de la Juventud.
 
 CUARTO.- Se instruye a la Comisión de Régimen Interno y Concertación Política para que en el actual ejercicio presupuestal del año dos mil dos, se otorguen a las Comisiones de nueva creación los recursos humanos y materiales necesarios para su funcionamiento, de acuerdo a las condiciones presupuestales.
+
+P.O. 10 DE JULIO DE 2002.
+
+DECRETO NO. 627
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 10 DE JULIO DE 2002.
+
+DECRETO NO. 631
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
