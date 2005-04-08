@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2005-02-04"
+last_updated: "2005-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -115,7 +115,13 @@ IX.- Las Delegaciones Municipales.
 
 Entidades:
 
-A.- Comité de Planeación para el Desarrollo Municipal
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2005)</small>
+
+A. Comité de Planeación para el Desarrollo Municipal, y
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2005)</small>
+
+B. La Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana Baja California.
 
 ## TITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LAS DEPENDENCIAS DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL
 
@@ -900,3 +906,11 @@ PRIMERO: Se derogan todas aquellas disposiciones que se opongan a la presente re
 SEGUNDO: La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial órgano de Gobierno del Estado.
 
 TERCERO: Publíquese en un periódico de mayor circulación para conocimiento público.
+
+P.O. 8 DE ABRIL DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Las presentes adiciones y Reglamento Interno de la Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en un diario de mayor circulación en el Municipio de Tijuana y/o Gaceta Municipal, para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes adiciones.
