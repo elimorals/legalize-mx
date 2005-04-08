@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-03-04"
+last_updated: "2005-04-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -339,7 +339,9 @@ XVIII.- DECIMOCTAVO CIRCUITO:
 
 2.- Un tribunal unitario con sede en Cuernavaca.
 
-3.- Cuatro juzgados de distrito en el Estado de Morelos, con residencia en Cuernavaca.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 14/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE ABRIL DE 2005)</small>
+
+3.- Cinco juzgados de distrito en el Estado de Morelos, con residencia en Cuernavaca.
 
 XIX.- DECIMONOVENO CIRCUITO:
 
@@ -1418,5 +1420,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 4 DE MARZO DE 2005.
 
 PRIMERO.- Este acuerdo entrará en vigor el cuatro de abril de dos mil cinco.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE ABRIL DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
