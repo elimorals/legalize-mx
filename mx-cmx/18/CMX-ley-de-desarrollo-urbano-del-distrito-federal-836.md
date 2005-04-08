@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "2004-01-29"
+last_updated: "2005-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 08 DE ABRIL DE 2005.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal el lunes 29 de enero de 1996.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -56,7 +56,7 @@ II. Determinar los usos, destinos y reservas del suelo, su clasificación y zoni
 
 > <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
-III.- La protección, conservación, recuperación y consolidación del Paisaje Urbano del Distrito Federal, así como de los elementos que lo componen.
+III. La protección, conservación, recuperación y consolidación del Paisaje Urbano del Distrito Federal, así como de los elementos que lo componen.
 
 IV. Establecer las normas y principios básicos mediante los cuales se llevará a cabo el desarrollo urbano; y
 
@@ -96,7 +96,7 @@ VIII. Aprovechar de manera más eficiente, en beneficio de la población urbana 
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-IX.- La regulación protección recuperación y conservación de los elementos del paisaje urbano y sus valores tradicionales, para tutelar los derechos y preservar el interés colectivo en el disfrute de un paisaje urbano armónico;
+IX. La regulación protección recuperación y conservación de los elementos del paisaje urbano y sus valores tradicionales, para tutelar los derechos y preservar el interés colectivo en el disfrute de un paisaje urbano armónico;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -606,7 +606,7 @@ VIII. Promover la participación social en la elaboración, ejecución, evaluaci
 
 > <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
-IX.- Vigilar y coordinarse con la Secretaría en el cumplimiento de la normativa en materia de paisaje e imagen urbana y contaminación visual;
+IX. Vigilar y coordinarse con la Secretaría en el cumplimiento de la normativa en materia de paisaje e imagen urbana y contaminación visual;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -618,7 +618,7 @@ XI. Solicitar a la autoridad competente para que determine y ejecute las medidas
 
 > <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XII.- Informar a la Secretaría sobre las irregularidades, anomalías o violaciones que detecten en ejercicio de las funciones de los directores responsables de obra, corresponsables o peritos, y
+XII. Informar a la Secretaría sobre las irregularidades, anomalías o violaciones que detecten en ejercicio de las funciones de los directores responsables de obra, corresponsables o peritos, y
 
 > <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -800,9 +800,7 @@ XI. La información gráfica.
 
 ###### Artículo 21.
 
-Los programas anuales de desarrollo contendrán la vinculación
-
-entre los programas y el presupuesto de egresos del Distrito Federal.
+Los programas anuales de desarrollo contendrán la vinculación entre los programas y el presupuesto de egresos del Distrito Federal.
 
 ### Capítulo IV. De la aplicación de los programas
 
@@ -1286,11 +1284,11 @@ I. En materia de construcciones: uso y ocupación de la vía pública, nomenclat
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-II.- En materia de imagen urbana: integración al contexto y al paisaje urbano, propio de la expresión natural de los inmuebles fachadas frentes, materiales, mobiliario, elementos del patrimonio cultural urbano, y las responsabilidades de los que infrinjan los valores de los elementos naturales y construidos del paisaje urbano;
+II. En materia de imagen urbana: integración al contexto y al paisaje urbano, propio de la expresión natural de los inmuebles fachadas frentes, materiales, mobiliario, elementos del patrimonio cultural urbano, y las responsabilidades de los que infrinjan los valores de los elementos naturales y construidos del paisaje urbano;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-III.- En materia de anuncios: diseño forma, dimensión, materiales, elaboración, fijación, instalación, colocación, iluminación, distribución y distanciamiento de los anuncios en los sitios, lugares y espacios a los que tenga acceso el publico, que estén en la vía publica o que sean visibles desde ella; así como, las responsabilidades a las que se harán acreedores los propietarios de los anuncios y de los inmuebles en donde se ubiquen éstos; además del anunciante.
+III. En materia de anuncios: diseño forma, dimensión, materiales, elaboración, fijación, instalación, colocación, iluminación, distribución y distanciamiento de los anuncios en los sitios, lugares y espacios a los que tenga acceso el público, que estén en la vía publica o que sean visibles desde ella; así como, las responsabilidades a las que se harán acreedores los propietarios de los anuncios y de los inmuebles en donde se ubiquen éstos; además del anunciante.
 
 IV. En materia de equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas y sociales.
 
@@ -1526,7 +1524,7 @@ El ordenamiento territorial del Distrito Federal observará la conservación, pr
 
 ###### Artículo 55.
 
-Para la conservación del patrimonio a que se refiere el articulo anterior, los programas y la reglamentación de esta Ley, considerarán las medidas y disposiciones tendientes a su cuidado, conservación, restauración y recuperación. Se cuidará la adopción de estilos arquitectónicos que atenten contra el patrimonio cultural urbano de la Ciudad. La Secretaría, en coordinación con la Secretaría de Desarrollo Social, para el cuidado de dicho patrimonio, observará las recomendaciones que al respecto emita la Comisión de Arte en Espacios Públicos.
+Para la conservación del patrimonio a que se refiere el artículo anterior, los programas y la reglamentación de esta Ley, considerarán las medidas y disposiciones tendientes a su cuidado, conservación, restauración y recuperación. Se cuidará la adopción de estilos arquitectónicos que atenten contra el patrimonio cultural urbano de la Ciudad. La Secretaría, en coordinación con la Secretaría de Desarrollo Social, para el cuidado de dicho patrimonio, observará las recomendaciones que al respecto emita la Comisión de Arte en Espacios Públicos.
 
 > <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -2482,6 +2480,544 @@ En todo caso las autoridades competentes de la Administración Pública del Dist
 
 En contra de las resoluciones que dicten o ejecuten las autoridades administrativas del Distrito Federal, en materia de esta Ley, de su reglamento o de los programas, los interesados afectados podrán interponer el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO DEL PRESENTE DECRETO LAS NORMAS DE ORDENACION GENERALES, PASAN A FORMAR PARTE DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DEL PROGRAMA GENERAL DE DESARROLLO URBANO DEL DISTRITO FEDERAL PUBLICADAS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 8 DE ABRIL DE 2005.</small>
+
+NORMAS DE ORDENACION GENERALES
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+1. COEFICIENTE DE OCUPACIÓN DEL SUELO (COS) Y COEFICIENTE DE UTILIZACIÓN DEL SUELO (CUS)
+
+En la zonificación se determinan el número de niveles permitidos y el porcentaje del área libre en relación con la superficie del terreno.
+
+El coeficiente de ocupación del suelo (COS), se establece para obtener la superficie de desplante en planta baja, restando del total de la superficie del predio el porcentaje de área libre que establece la zonificación. Se calcula con la expresión siguiente:
+
+COS= 1 - % de área libre (expresado en decimales) / superficie total del predio
+
+La superficie de desplante es el resultado de multiplicar el COS, por la superficie total del predio.
+
+El coeficiente de utilización del suelo (CUS), es la relación aritmética existente entre la superficie total construida en todos los niveles de la edificación y la superficie total del terreno. Se calcula con la expresión siguiente:
+
+CUS= (superficie de desplante x número de niveles permitidos) / superficie total del predio.
+
+La superficie máxima de construcción es el resultado de multiplicar el CUS por la superficie total del predio.
+
+La construcción bajo el nivel de banqueta no cuantifica dentro de la superficie máxima de construcción permitida y deberá cumplir con lo señalado en las Normas de Ordenación Generales números 2 y 4. Para los casos de la Norma número 2, tratándose de predios con pendiente descendente, este criterio se aplica a los espacios construidos para estacionamientos y locales no habitables.
+
+En predios menores a 200 metros, en donde el área libre establecida en la zonificación sea del 40% o mayor, se podrá optar por un área libre de hasta un 30%, siempre y cuando no se rebase la superficie máxima de construcción permitida.
+
+Para los árboles localizados dentro del área a construir, el propietario o poseedor deberá sujetarse a lo dispuesto en la Ley ambiental del Distrito Federal. En los casos donde exista necesidad de incrementar el área libre por la presencia de árboles a conservar, se podrá ajustar el proyecto, respetando el CUS (coeficiente de utilización del suelo). Lo anterior, previo dictamen de la Secretaría de Desarrollo Urbano y Vivienda, en el que se especifiquen claramente las alturas y áreas libres autorizadas.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+2. TERRENOS CON PENDIENTE NATURAL EN SUELO URBANO
+
+a) En pendiente descendente, en relación con la ubicación de la banqueta:
+
+El número de niveles que señala la zonificación, deberá respetarse en toda la superficie del terreno a partir del nivel de desplante. En los terrenos con pendiente natural mayor al 65%, se podrán construir muros de contención hasta 3.50 m de altura con un espaciamiento no menor a 4.00 m, solamente cuando se trate de rellenos para conformar terrazas.
+
+En predios con pendiente mayor al 30 % y menor al 65% será factible incrementar la altura hasta 7 niveles ó 21 m de altura, a partir del desplante de la construcción hasta el nivel de terreno. Lo anterior sin excavar el terreno natural bajo el nivel de banqueta.
+
+La construcción deberá ubicarse en la porción del terreno con pendiente menor al 65 %, el área restante deberá respetarse como área jardinada y, en su caso, se podrá pavimentar sólo hasta el 10% con materiales permeables.
+
+Los niveles por debajo del nivel de banqueta pueden ser habitables, siempre y cuando cumplan con el Reglamento de Construcciones en cuanto a la ventilación e iluminación. Lo anterior, sin rebasar la superficie máxima de construcción y el número de viviendas indicadas en la zonificación.
+
+Para los árboles localizados dentro del área a construir, el propietario o poseedor deberá sujetarse a lo dispuesto en la Ley Ambiental del Distrito Federal.
+
+b) En pendiente ascendente, en relación con la ubicación de la banqueta:
+
+El número de niveles que señala la zonificación deberá respetarse en toda la superficie del terreno a partir del nivel de desplante. Se permitirá excavar un máximo del 25 % de la superficie del terreno hasta el nivel de banqueta sin superar la altura de 3.50 m de los muros de contención, creando terrazas y adecuándose a la topografía del terreno.
+
+En predios con pendiente mayor a 30 % será factible incrementar la altura hasta 7 niveles y sin rebasar los 21 m de altura, a partir del desplante de la construcción. Lo anterior sin exceder la superficie máxima de construcción y el número de viviendas permitidas, indicadas en la zonificación del Programa Delegacional de Desarrollo Urbano correspondiente.
+
+La construcción deberá ubicarse en la porción del terreno con pendiente de hasta 65%, el área restante deberá respetarse como área jardinada y se podrá pavimentar hasta el 10% de esta área con materiales permeables.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+3. FUSIÓN DE DOS O MÁS PREDIOS CUANDO UNO DE ELLOS SE UBIQUE EN ZONIFICACIÓN HABITACIONAL (H)
+
+Cuando dos o más predios se fusionen y en dicha fusión se incluya el uso habitacional (H), podrá optarse por la zonificación que mejor se adapte a las necesidades del proyecto, siempre y cuando su acceso y salida no se generen por la zona habitacional, debiendo ser por el frente hacia la zonificación que permita el uso.
+
+En lo que respecta a la altura y área libre, prevalecerá la zonificación elegida y deberá adaptarse al entorno de la zona, de acuerdo a lo señalado en los Programas de Desarrollo Urbano.
+
+En caso de existir derechos adquiridos para alguno de los predios, estos se perderán o el particular deberá decidir entre la fusión de los predios o los derechos adquiridos.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+4. ÁREA LIBRE DE CONSTRUCCIÓN Y RECARGA DE AGUAS PLUVIALES AL SUBSUELO
+
+El área libre de construcción cuyo porcentaje se establece en la zonificación, podrá pavimentarse en un 30% con materiales permeables, cuando éstas áreas se utilicen como andadores o huellas para el tránsito y/o estacionamiento de vehículos. El resto deberá utilizarse como área jardinada.
+
+En los casos de promoción de vivienda de interés social y popular, podrá pavimentarse hasta el 50% del área libre con materiales permeables.
+
+Cuando por las características del subsuelo en que se encuentre ubicado el predio, se dificulte la infiltración del agua, o ésta resulte inconveniente por razones de seguridad por la infiltración de substancias contaminantes, o cuando por razones de procedimiento constructivo no sea factible proporcionar el área jardinada que establece la zonificación, se podrá utilizar hasta la totalidad del área libre bajo el nivel medio de banqueta, considerando lo siguiente:
+
+El área libre que establece la zonificación deberá mantenerse a partir de la planta baja en todo tipo de terreno.
+
+Deberá implementarse un sistema alternativo de captación y aprovechamiento de aguas pluviales, tanto de la superficie construida, como del área libre requerida por la zonificación, mecanismo que el Sistema de Aguas de la Ciudad de México evaluará y aprobará.
+
+Dicho sistema deberá estar indicado en los planos de instalaciones hidrosanitarias o de instalaciones especiales y formarán parte del proyecto arquitectónico, previo al trámite del Registro de Manifestación de Construcción o Licencia de Construcción Especial.
+
+Todos los proyectos sujetos al Estudio de Impacto Urbano deberán contar con un sistema alternativo de captación y aprovechamiento de aguas pluviales y residuales.
+
+La autoridad correspondiente revisará que dicho sistema esté integrado a la obra. En caso de no acreditarlo, al momento del aviso de terminación de obra correspondiente, la autoridad competente no otorgará la autorización de uso y ocupación.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+5. ÁREA CONSTRUIBLE EN ZONIFICACIÓN DENOMINADA ESPACIOS ABIERTOS (EA)
+
+En la zonificación denominada Espacios Abiertos (EA), el área total construida podrá ser de hasta el 10% de la superficie del predio y el área de desplante podrá ser de hasta el 5%.
+
+En dichas áreas, se permitirá la instalación de bibliotecas, centros de información, librerías y demás espacios públicos destinados a la educación, cultura, esparcimiento y recreación, previo dictamen de la Secretaría de Desarrollo Urbano y Vivienda y opinión de la Delegación correspondiente.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+6. ÁREA CONSTRUIBLE EN ZONIFICACIÓN DENOMINADA ÁREAS DE VALOR AMBIENTAL (AV)
+
+En la zonificación Áreas de Valor Ambiental (AV), el área total construida podrá ser de hasta el 5% de la superficie del predio y el área de desplante podrá ser de hasta el 2.5%.
+
+Se permitirá la instalación de canchas deportivas, áreas recreativas y de esparcimiento al aire libre, previo dictamen de la Secretaría de Desarrollo Urbano y Vivienda y de la Secretaría del Medio Ambiente.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+7. ALTURAS DE EDIFICACIÓN Y RESTRICCIONES EN LA COLINDANCIA POSTERIOR DEL PREDIO
+
+La altura total de la edificación será de acuerdo a la establecida en la zonificación, así como en las Normas de Ordenación para las Áreas de Actuación y las Normas de Ordenación Particulares para cada Delegación para colonias y vialidades, y se deberá considerar a partir del nivel medio de banqueta.
+
+a) Ningún punto de las edificaciones podrá estar a mayor altura que dos veces su distancia mínima a un plano virtual vertical que se localice sobre el alineamiento opuesto de la calle. Para los predios que tengan frente a plazas o jardines, el alineamiento opuesto para los fines de esta norma se localizará a 5.00 m hacia adentro del alineamiento de la acera opuesta.
+
+En el caso de que la altura obtenida del número de niveles permitidos por la zonificación, sea mayor a dos veces el ancho de la calle medida entre alineamientos opuestos, la edificación deberá remeterse la distancia necesaria para que la altura cumpla con la siguiente relación:
+
+Altura = 2 x (separación entre alineamientos opuestos + remetimiento + 1.50 m)
+
+b) La altura máxima de entrepiso, para uso habitacional será de 3.60 m de piso terminado a piso terminado y hasta de 4.50 m para otros usos. La altura mínima de entrepiso se determina de acuerdo a lo establecido en el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias. Para el caso de techos inclinados, la altura de éstos forma parte de la altura total de la edificación.
+
+c) En el caso de que por razones de procedimiento constructivo se opte por construir el estacionamiento conforme a la Norma de Ordenación General número 1, es decir, medio nivel por abajo del nivel de banqueta, el número de niveles permitidos se contará a partir del nivel resultante arriba del nivel medio de banqueta. Este último podrá tener una altura máxima de 1.80 m sobre el nivel medio de banqueta.
+
+d) Todas las edificaciones de más de 6 niveles, deberán observar una restricción mínima en la colindancia posterior de un 15% de su altura y una separación que no podrá ser menor a 4 metros, debiendo cumplir con lo establecido en el Reglamento de Construcciones para el Distrito Federal, con respecto a patios de iluminación y ventilación.
+
+Se exceptúan de lo anterior, las edificaciones que colinden con edificaciones existentes y cuya altura sea similar y hasta dos niveles menos.
+
+e) Alturas cuando los predios tienen más de un frente:
+
+Con dos frentes a diferentes calles sin ser esquina.
+
+Uno de ellos da a una calle de menor sección; la altura resultante deberá mantenerse hasta una distancia de un 1/3 del largo del predio hacia la calle de menor sección o remeterse para lograr la altura.
+
+Con dos frentes en esquina.
+
+La altura será aquella que resulte del promedio de las secciones de las dos calles o remeterse para lograr la altura.
+
+Con tres frentes.
+
+La altura será aquella que resulte del promedio de las secciones de las tres calles o remeterse para lograr la altura.
+
+Con cuatro frentes.
+
+La altura será aquella que resulte del promedio de las secciones de 4 calles o remeterse para lograr la altura.
+
+De acuerdo al proyecto, se podrá aplicar el instrumento de desarrollo urbano denominado Polígono de Actuación, que permite, al tratarse de más de dos predios, la relocalización de usos y la modificación de la altura, siempre y cuando no se rebase la superficie máxima de construcción permitida.
+
+En el caso de que el predio se ubique en Área de Conservación Patrimonial, sea un inmueble catalogado o colinde con un inmueble catalogado, para la determinación de la altura se requerirá opinión, dictamen o permiso de Instituto Nacional de Antropología e Historia, Instituto Nacional de Bellas Artes o Secretaría de Desarrollo Urbano y Vivienda, según sea el caso.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+8. INSTALACIONES PERMITIDAS POR ENCIMA DEL NÚMERO DE NIVELES
+
+Las instalaciones permitidas por encima de los niveles especificados en la zonificación podrán ser proyectos de naturación de azoteas, celdas de acumulación de energía solar, antenas, tanques, astas banderas, casetas de maquinaria, lavaderos y tendederos, siempre y cuando sean compatibles con el uso del suelo permitido y, en el caso de las Áreas de Conservación Patrimonial e inmuebles catalogados, éstos se sujetarán a las opiniones, dictámenes y permisos del Instituto Nacional de Antropología e Historia (INAH), del Instituto Nacional de Bellas Artes (INBA) y de la Secretaría de Desarrollo Urbano y Vivienda (SEDUVI), además de las normas de ordenación que establece el Programa Delegacional de Desarrollo Urbano para Áreas de Conservación Patrimonial.
+
+La instalación de estaciones repetidoras de telefonía celular o inalámbrica, requerirán de dictamen de la SEDUVI.
+
+Los pretiles en las azoteas no deberán ser mayores a 1.5 metros de altura y no cuantifican como nivel adicional en la zonificación permitida.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+9. SUBDIVISIÓN DE PREDIOS
+
+La superficie mínima resultante para la subdivisión de predios será de acuerdo con lo siguiente:
+
+SUELO URBANO SUELO DE CONSERVACIÓN
+
+ZONIFICACIÓN SUP. ZONIFICACIÓN SUP.
+
+(m2) (m2)
+
+H 150 HRC 250
+
+HC 200 HR 500
+
+HM 750 HRB 1,000
+
+HO 500 RE 5,000
+
+CB 250 PE 10,000
+
+E 750 PARA 10,000
+
+I 750
+
+Para subdividir un predio en una superficie menor a 750 m² deberá contar con un frente a la vía pública de 7 m como mínimo y en caso de ser mayor de 750 m², deberá tener un frente mínimo de 15 m. Lo anterior condicionado a que la dimensión del predio en el alineamiento sea, mínimo equivalente a una cuarta parte de la profundidad media del predio.
+
+Las excepciones a estas dimensiones, estarán indicadas en el Programa Delegacional o Parcial de Desarrollo Urbano, en su caso.
+
+En el caso de los Programas de Regularización de la Tenencia de la Tierra, el lote mínimo será determinado en el Programa que para el efecto se elabore.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+10. ALTURAS MÁXIMAS EN VIALIDADES EN FUNCIÓN DE LA SUPERFICIE DEL PREDIO Y RESTRICCIONES DE CONSTRUCCIÓN AL FONDO Y LATERALES
+
+Esta norma es aplicable únicamente en las zonas y vialidades que señale el Programa Delegacional de Desarrollo Urbano correspondiente.
+
+Todos los proyectos en que se aplique esta norma, deberán incrementar el espacio para estacionamiento de visitantes en un mínimo de 20% respecto a lo que establece el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias.
+
+Para predios con superficies a partir de 1,000 m 2, y con un frente mínimo de 15 m, la altura, número de niveles y separaciones laterales se sujetarán a lo que indica el siguiente cuadro:
+
+SUPERFICIE NO. DE RESTRICCIONES ÁREA
+
+DEL PREDIO NIVELES MÍNIMAS LIBRE
+
+M2 MÁXIMOS LATERALES %
+
+(M)
+
+1,000-1,500 11 3.0 30
+
+1,501-2,000 13 3.0 30
+
+2,001-2,500 15 3.0 30
+
+2,501-3,000 17 3.5 35
+
+3,001-4,000 19 3.5 35
+
+4,001-EN
+
+ADELANTE 22 3.5 50
+
+Las restricciones en las colindancias se determinarán conforme a lo que establece la Norma número 7.
+
+En todo el frente del predio se deberá dejar una franja libre al interior del alineamiento, a partir de la sección que para cada vialidad determine el Programa Delegacional respectivo. Dicha franja podrá ser utilizada solamente para la entrada y salida de personas y vehículos al predio, su mantenimiento y control será responsabilidad del propietario. Sobre esta franja no se podrá construir, cubrir ni instalar estructuras fijas y/o desmontables, con excepción de las que se utilicen para delimitar el predio.
+
+Todas las maniobras necesarias para estacionamiento y circulación de vehículos, ascenso y descenso de pasajeros, carga y descarga de mercancías y operación de todos los vehículos de servicio o suministro relacionadas con las actividades que implique la utilización del predio, deberán realizare a partir del límite interior del predio.
+
+Cuando los proyectos contemplen construir pisos para estacionamiento, circulaciones y vestíbulos arriba del nivel de banqueta, podrán incrementar su superficie de desplante hasta en 30% del área libre y hasta una altura de 10 m sobre el nivel de banqueta. Estos pisos cuantifican en el número de niveles permitidos por la presente norma.
+
+A partir de los 10 m ó 4 niveles de altura, las construcciones a que se refiere el párrafo anterior deberán respetar el porcentaje de área libre y el manejo de 4 fachadas señaladas en el cuadro.
+
+Los proyectos deberán sujetarse a lo establecido en la Norma número 4.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+11. CÁLCULO DEL NÚMERO DE VIVIENDAS PERMITIDAS E INTENSIDAD DE CONSTRUCCIÓN CON APLICACIÓN DE LITERALES
+
+El número de viviendas que se puede construir depende de la superficie del predio, el número de niveles, el área libre y la literal de densidad que determina el Programa Delegacional de Desarrollo Urbano.
+
+El número de viviendas y los metros cuadrados de uso no habitacional que se pueden construir, dependen de la dotación de servicios con que cuenta cada área de la ciudad. Esta condición se identifica en los Programas Delegacionales de Desarrollo Urbano con una literal ubicada al final de la nomenclatura correspondiente a la zonificación, altura y área libre.
+
+La literal se identifica con las densidades: A: Alta, M: Media, B: Baja, MB: Muy Baja, R: Restringida Y Z: Zonificación, con la siguiente clasificación:
+
+A = Una vivienda cada 33.0 m2 de terreno
+
+M = Una vivienda cada 50.0 m2 de terreno
+
+B = Una vivienda cada 100.0 m2 de terreno
+
+MB = Una vivienda cada 200.0 m2 de terreno
+
+R = Una vivienda cada 500.0 m2 o 1,000.0 m2 de terreno o lo que indique el Programa correspondiente.
+
+Z = Lo que indique la zonificación del Programa. Cuando se trate de vivienda mínima, el Programa Delegacional lo definirá.
+
+Para calcular el número de viviendas factibles:
+
+Superficie del terreno / valor de la literal = número de viviendas factibles
+
+Para determinar la dimensión máxima de la vivienda:
+
+Superficie máxima de construcción / número de viviendas factibles = dimensión máxima de la vivienda
+
+Cuando en el cálculo del número de viviendas factibles resulte una fracción decimal, igual o mayor a 0.5, el número de viviendas resultante deberá ajustarse al número entero inmediato superior. Cuando la fracción sea menor a 0.5 deberá ajustarse al número inmediato inferior.
+
+Lo anterior a excepción de la densidad R (restringida), en cuyo caso siempre que resulte una fracción decimal, se ajustará al número inmediato inferior.
+
+En el caso de la literal Z, el número de viviendas factibles, se calcula dividiendo la superficie máxima de construcción permitida en la zonificación, entre la superficie de la vivienda definida por el proyecto. En todos los casos la superficie de la vivienda no podrá ser menor a aquella que resulte de aplicar lo establecido en el Reglamento de Construcciones para el Distrito Federal, sus Normas Técnicas Complementarias y los Programas Delegacionales de Desarrollo Urbano.
+
+En zonificaciones HO, HM, E y para tiendas de autoservicio, tiendas departamentales y centros comerciales, la literal corresponde a las densidades A: Alta, M: Media, B: Baja, MB: Muy Baja, R: Restringida Y Z: Zonificación, con la siguiente clasificación:
+
+Donde aplique A y Z = la superficie para los conjuntos comerciales será de acuerdo al uso, niveles y área libre permitida en la zonificación.
+
+Donde aplique M, B y MB = la superficie para los conjuntos comerciales no podrá rebasar los 5,000.0 m2 de construcción, sin contar el área de estacionamiento.
+
+Donde aplique R = se permitirá el comercio local en una superficie máxima de 250 m2 de construcción, sin contar el área de estacionamiento.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+12. SISTEMA DE TRANSFERENCIA DE POTENCIALIDAD DE DESARROLLO URBANO
+
+A través del Sistema de Transferencia de Potencialidad de Desarrollo Urbano se podrá autorizar el incremento del número de niveles y la reducción del área libre, cuando el proyecto lo requiera.
+
+Las áreas receptoras de la transferencia pueden ser las definidas con Potencial de Desarrollo, las de Integración Metropolitana y donde aplica la Norma de Ordenación General número 10. El cálculo para determinar el potencial de transferencia, se basa en los coeficientes de ocupación (COS) y utilización del suelo (CUS).
+
+Las áreas emisoras serán exclusivamente las Áreas de Conservación Patrimonial y las Áreas de Actuación en Suelo de Conservación.
+
+Las áreas donde aplica esta norma, serán determinadas en los Programas de Desarrollo Urbano correspondientes, conforme al proceso de planeación respectivo, en el marco de la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento.
+
+Los procedimientos para la emisión y recepción del potencial de desarrollo urbano, se establecen en la Ley de Desarrollo Urbano del Distrito Federal, su Reglamento y los Lineamientos correspondientes.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+13. LOCALES CON USO DISTINTO AL HABITACIONAL EN ZONIFICACIÓN HABITACIONAL (H)
+
+Los locales con uso distinto al habitacional establecidos con anterioridad a la normatividad vigente en los Programas Delegacionales, previa obtención del Certificado de Acreditación de Uso del Suelo por derechos adquiridos, podrán cambiar de giro, de acuerdo con lo permitido en la zonificación Habitacional con Comercio en Planta Baja (HC), siempre y cuando el uso cumpla con la normatividad aplicable por el Reglamento de Construcciones para el Distrito Federal, y dicho cambio sea autorizado por la Delegación correspondiente, de conformidad con la normativa aplicable a los establecimientos mercantiles.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+14. USOS DEL SUELO DENTRO DE LOS CONJUNTOS HABITACIONALES
+
+En vivienda plurifamiliar en régimen de condominio, se podrá solicitar el cambio de uso del suelo y, en su caso, modificación y/o ampliación, siempre y cuando se trate de usos de bajo impacto urbano, se proponga en planta baja, no se invadan áreas comunes y no ponga en riesgo la seguridad estructural del inmueble. Para lo cual deberá apegarse a lo marcado en la Ley de Desarrollo Urbano, Ley de Propiedad en Condominio de Inmuebles, Ley de Establecimientos Mercantiles y el Reglamento de Construcciones, todos del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+15. ZONAS FEDERALES Y DERECHOS DE VÍA
+
+Las zonas federales y derechos de vía deberán mantenerse totalmente libres de construcción. En el caso de escurrimientos de agua e instalaciones especiales definidas por los organismos correspondientes, se consideran con zonificación (AV) Áreas de Valor Ambiental, las cuales quedarán sujetas a lo que se señala en la Ley de Aguas Nacionales, la Ley General de Vías de Comunicación y demás ordenamientos en la materia.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+16. PREDIOS CON DOS O MÁS ZONIFICACIONES, CUANDO UNA DE ELLAS SEA ÁREA DE VALOR AMBIENTAL (AV) O ESPACIO ABIERTO (EA)
+
+Los predios con dos o más zonificaciones siendo una de ellas Área de Valor Ambiental (AV) o Espacio Abierto (EA) estarán sujetos a la normatividad correspondiente a cada una de las zonificaciones. Adicionalmente, estos predios se sujetarán a lo que establecen las Normas de Ordenación Generales números 2 y 3, para definir el coeficiente de ocupación del suelo y el coeficiente de utilización del suelo, así como la fracción donde se permite y prohibe la construcción.
+
+La construcción se deberá localizar fuera del área zonificada como AV y EA.
+
+Para el cumplimiento del porcentaje de área libre establecida en los Programas de Desarrollo Urbano, no se contabilizará la superficie zonificada como AV y EA.
+
+Para definir la superficie aprovechable con predios que colinden con áreas verdes, espacios abiertos o áreas de valor ambiental, se requerirá de un procedimiento de delimitación de zonas.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+17. VÍA PÚBLICA Y ESTACIONAMIENTOS SUBTERRÁNEOS
+
+Toda vialidad tendrá como mínimo 8 metros de paramento a paramento. Los callejones y vialidades de tipo cerradas que no sobrepasen los 150 m de longitud, así como los andadores peatonales tendrán un mínimo de 4.00 m sin excepción y serán reconocidos en los planos oficiales como vía pública, previo visto bueno de la Delegación correspondiente, los cuales deberán permitir el libre paso de vehículos de emergencia y no podrán ser obstaculizadas por elemento alguno.
+
+En el caso de las ciclopistas, la sección mínima será de 1.50 m.
+
+Para el reconocimiento de la servidumbre legal de paso en planos oficiales se sujetará a lo establecido en el Código Civil para el Distrito Federal.
+
+Las vialidades ubicadas en proyectos habitacionales o comerciales en régimen condominal, deberán ser mantenidas por los propios condóminos.
+
+En las zonas patrimoniales e históricas, las vías públicas no podrán ser modificadas ni en su trazo ni en su sección, sin contar con la autorización de las áreas competentes federales y locales.
+
+Para las edificaciones de salud, educación, abasto, almacenamiento, entretenimiento, recreación y deportes será necesario proveer áreas de ascenso y descenso en el interior del predio cuando su superficie sea superior a 750 m 2 o tengan un frente mayor de 15 m.
+
+Adicional a lo establecido en los Programas Delegacionales de Desarrollo Urbano y para mejorar la capacidad instalada de los usos existentes, se permite el establecimiento de estacionamientos públicos y privados en cualquier zonificación, excepto en Área Verde (AV), Espacios Abiertos (EA) y en las correspondientes a Suelo de Conservación.
+
+Estos estacionamientos se apegarán al número de niveles que rija en la zona considerando para ello, la aplicación de otras Normas de Ordenación Generales, pudiendo ocupar el 85 % de la superficie del terreno. La Delegación podrá regular el cobro al usuario considerando el tipo de uso al que el estacionamiento esté dando servicio.
+
+Los estacionamientos públicos subterráneos permitidos por los Programas Delegacionales de Desarrollo Urbano observarán en su proyecto, construcción y operación, lo establecido en el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias, así como las Normas de Construcción y Funcionamiento de Estacionamientos establecidas por la Secretaría de Transportes y Vialidad. No se podrán construir en zonas de riesgo ni patrimoniales e históricas, con excepción de las que obtengan la autorización correspondiente de las áreas competentes.
+
+En el caso de eje de ríos entubados; líneas y estaciones del metro; tren y metros ligeros; tanques y/o almacenamientos de productos químicos y/o gasolineras; derechos de vía de ductos subterráneos de conducción de gas, gasolinas, petróleo y sus derivados y cualquier líquido o gas conducido a alta presión; depósitos de agua potable, subterráneos o elevados propiedad del Gobierno del Distrito Federal; dependencias gubernamentales de la Administración Pública Federal; empresas paraestatales y organismos descentralizados de participación estatal; instalaciones de las Secretarías de: Seguridad Pública; Defensa Nacional; Marina y Fuerza Aérea Mexicana, se estará a lo establecido en la normatividad de la materia.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+18. AMPLIACIÓN DE CONSTRUCCIONES EXISTENTES
+
+Para las edificaciones construidas con anterioridad a la vigencia de los Programas Delegacionales de Desarrollo Urbano, y que no cumplan con el área libre o la altura señalada por la zonificación vigente, se podrá autorizar la ampliación de construcción, siempre y cuando no se rebase el coeficiente de utilización y/o la altura, y se cumpla con el uso de suelo establecido en el Programa Delegacional y el Reglamento de Construcciones para el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+19. ESTUDIO DE IMPACTO URBANO
+
+Previo al registro de cualquier Manifestación, Licencia, Permiso o Autorización, quienes pretendan llevar a cabo alguno de los siguientes proyectos, requerirán el dictamen de la Secretaría de Desarrollo Urbano y Vivienda en materia de Impacto Urbano o Urbano-Ambiental:
+
+I. Proyectos de vivienda con más de 10,000 m2 de construcción.
+
+II. Proyectos de oficinas, comercios, servicios, industria o equipamiento con más de 5,000 m2 de construcción.
+
+III. Proyectos de usos mixtos (habitacional, comercio, servicios o equipamiento con más de 5,000 m2).
+
+IV. Estaciones y mini estaciones de servicio de combustibles para carburación (gasolina, diesel, gas LP y gas natural comprimido), para servicio al público y/o autoconsumo.
+
+V. Proyectos de ampliación de vivienda, cuando la suma de lo existente y el incremento rebasen 10,000 m2 de construcción o cuando ya se tenga el Estudio de Impacto Urbano y se incrementen más de 5,000 m2 de construcción.
+
+VI. Proyectos de ampliación de usos no habitacionales, cuando la suma de lo existente y el incremento rebasen 5,000 m2 de construcción o cuando ya se tenga Estudio de Impacto Urbano y se incrementen más de 2,500 m2 de construcción.
+
+VII. Crematorios
+
+VIII. Proyectos donde aplique la Norma de Ordenación General número 10.
+
+En los análisis de los Estudios de Impacto Urbano o Urbano-Ambiental, se deberá considerar la utilización de la infraestructura, así como del entorno urbano en el momento de máxima demanda. Los temas y contenidos del Estudio deberán apegarse, en lo que proceda, a los Lineamientos Técnicos complementarios que emita la Secretaría de Desarrollo Urbano y Vivienda.
+
+Aquellas zonas clasificadas de riesgo por los ordenamientos aplicables, no serán susceptibles para otorgar autorizaciones o permisos, con excepción del riesgo que se determine como mitigable, a través del dictamen correspondiente.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+20. SUELO DE CONSERVACIÓN
+
+Los usos permitidos en las áreas de actuación y las zonificaciones en el Suelo de Conservación, se sujetarán a lo siguiente:
+
+1.- En comunidades y poblados rurales
+
+Los usos permitidos se sujetarán al número de niveles y porcentaje de área libre establecidos por los Programas Delegacionales de Desarrollo Urbano y, en caso de subdivisiones, en apego a la Norma de Ordenación General correspondiente.
+
+2.- En zonificaciones de Preservación Ecológica (PE), de Rescate Ecológico (RE) y de Producción Rural Agroindustrial (PRA)
+
+Las instalaciones relacionadas con los usos permitidos por los Programas Delegacionales de Desarrollo Urbano, necesarias para desarrollar las actividades generales y específicas autorizadas por el Programa General de Ordenamiento Ecológico del Distrito Federal, con el objeto de instrumentar las acciones de gestión ambiental para mantener los bienes y servicios ambientales y fomentar el desarrollo rural del suelo de conservación, se sujetarán a las siguientes disposiciones generales:
+
+Emplear en su construcción y funcionamiento ecotecnología apropiada a las políticas de conservación, protección, restauración y aprovechamiento sustentable de los recursos naturales.
+
+Implementar un sistema alternativo de captación de agua pluvial, para su reuso y/o infiltración al subsuelo.
+
+Construir sobre superficie cubierta preferentemente en zonas sin vegetación natural, sin exceder los siguientes porcentajes de la superficie total del terreno:
+
+SUPERFICIE TOTAL PORCENTAJE (%)
+
+DEL TERRENO (M2)
+
+MENOR A 2,500 1.0
+
+DE 2,500 A 20,000 2.0
+
+MAYORES A 20,000 2.5
+
+Exceptuando a aquellas instalaciones que por técnicas y medidas propias requieran la ocupación de un porcentaje mayor al establecido, las cuales deberán contar con la opinión de la Secretaría del Medio Ambiente, a través de la Comisión de Recursos Naturales y Desarrollo Rural. Para obtener la licencia, permiso, autorización y/o constancia procedente con carácter temporal y revocable por la autoridad Delegacional correspondiente se deberá:
+
+Garantizar la permeabilidad de la superficie en el acondicionamiento de accesos al predio y andadores, interiores y exteriores.
+
+Justificar la necesidad de paso vehicular y, en caso procedente, la vía de comunicación deberá:
+
+Trazarse respetando la topografía, arbolado, características naturales y condiciones ecológicas específicas de la zona, sin interrumpir ni modificar los cauces de escurrimientos superficiales ni el paso de fauna silvestre.
+
+Construirse con una sección máxima de 8 m y mínima de 4 m.
+
+Revestirse con materiales que permitan y garanticen la infiltración del agua al subsuelo.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+21. BARRANCAS
+
+Se considera barranca a la depresión geográfica que por sus condiciones topográficas y geológicas, se presenta como hendidura con dos laderas en la superficie terrestre, originada por erosión y/o por cualquier otro proceso geológico, y forma parte de un sistema hidrológico.
+
+Las barrancas sin perturbación antropogénica constituyen reservorios de la vida silvestre nativa y funcionan como sitios naturales de escurrimientos pluviales y fluviales, por lo que representan zonas importantes del ciclo hidrológico y biogeoquímico y deben ser conservadas por los servicios ambientales que prestan a la ciudad.
+
+Las barrancas perturbadas son aquellas que presentan deterioros ambientales por el impacto urbano y los asentamientos humanos, y que requieren ser restauradas y preservadas.
+
+Las barrancas son susceptibles de aprovechamiento y regulación en términos de la Ley de Aguas Nacionales, sin perjuicio de lo que indiquen la Ley de Desarrollo Urbano y la Ley Ambiental del Distrito Federal, con sus disposiciones reglamentarias, así como la normatividad establecida en los Programas de Desarrollo Urbano.
+
+Para efectos de esta norma, la barranca inicia en el punto en que sus laderas se inclinan hacia la sima (el lecho) en 5% ó más, cuando la pendiente media natural del terreno circundante no exceda del 15%, medida en un tramo de longitud mínima de 200 m cuando la inclinación natural del terreno sea hacia la cima.
+
+De conformidad con lo anterior, si los puntos de inicio a cada ladera de la barranca tuviesen elevaciones diferentes, el ancho de la barranca será la distancia que separa a las laderas medidas horizontalmente entre el punto de inicio más alto y el que resulta de la intersección de esa horizontal con la proyección vertical del punto de inicio de la ladera de menor elevación.
+
+La pendiente y la longitud de las laderas se medirán desde el eje del escurrimiento hasta la parte más alta de cada una de éstas y en dirección perpendicular al eje de escurrimiento.
+
+La profundidad se mide verticalmente desde el punto de inicio en cada ladera hasta el lecho.
+
+Cuando como resultado de la bifurcación de la abertura, se generen mesetas con elevación menor o igual que la del terreno circundante al punto de inicio de las barrancas, se considera a dichas mesetas como parte del sistema de barrancas formado por las bifurcaciones.
+
+En las barrancas definidas en los términos de esta norma que se encuentren en el suelo urbano con zonificación AV (Área Verde de Valor Ambiental públicas y privadas), toda actividad y manejo que en ellas se proponga desarrollar requerirá cumplir con lo indicado en la Ley Ambiental del Distrito Federal vigente.
+
+En el cauce y hasta la mitad de la longitud de cada ladera solamente se permitirán actividades de saneamiento y restauración. Cualquier otra actividad o construcción se considera prohibida.
+
+En la mitad superior de las laderas solo se permitirán actividades de bajo impacto ambiental como proyectos de restauración, ecoturismo, educación ambiental y de manejo hidráulico para servicios públicos, previa autorización de impacto ambiental emitida por la Secretaría del Medio Ambiente.
+
+En la franja del terreno circundante de protección a las laderas que no exceda del 15% de pendiente, en un tramo de longitud mínima de 50 m. de ancho, se considera una zona de protección tanto para la barranca como para la población.
+
+Cuando así lo establezcan los Programas Delegacionales de Desarrollo Urbano, las áreas dentro de las barrancas que se encuentren ocupadas por asentamientos humanos, se sujetarán a la elaboración de estudios específicos, en los términos de la Ley de Desarrollo Urbano, mismos que deberán estar encaminados a minimizar los impactos ambientales negativos y a reducir las condiciones de riesgo, restaurar y conservar las barrancas.
+
+Para los predios que limitan con barrancas se requiere solicitar a la Secretaría de Desarrollo Urbano y Vivienda la delimitación de la (sic) zonas, con el fin de determinar el área susceptible a desarrollar, para lo cual el propietario o interesado deberá presentar un plano topográfico con curvas de nivel a cada metro y la ubicación, tipo y tamaño de árboles, así como construcciones que se encuentren en el predio.
+
+Las especificaciones, así como el procedimiento de medición antes señalado se efectuarán de manera coordinada con la Secretaría del Medio Ambiente.
+
+La superficie de las barrancas se sujetará a un programa de manejo por cada cuenca hidrológica, desarrollado por la Secretaría del Medio Ambiente, en coordinación con la Delegación correspondiente, mismo que podrá contemplar, entre otros aspectos, la construcción de obras hidráulicas afines a las condiciones naturales de la depresión geográfica de que se trate, para retener, almacenar y regular el aprovechamiento del agua, cuyo fin principal sea la recarga de los mantos freáticos entre otros usos eficientes del agua, en los términos de la legislación correspondiente.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+22. ALTURA MÁXIMA Y PORCENTAJE DE ÁREA LIBRE PERMITIDA EN LAS ZONIFICACIONES; (E) EQUIPAMIENTO; (CB) CENTRO DE BARRIO; E (I) INDUSTRIA
+
+La altura máxima y porcentaje de área libre permitida en estas zonificaciones se determinarán de acuerdo con lo siguiente:
+
+En Suelo Urbano
+
+En Áreas de Actuación con Potencial de Reciclamiento, Potencial de Desarrollo e Integración Metropolitana se determinarán de acuerdo a las Normas de Ordenación Generales números 1, 2 y 3 para Áreas de Actuación contenidas en el Programa Delegacional.
+
+Sobre vialidades aplicará la Norma complementaria o bien la especificación sobre altura y área libre permitida que determine la zonificación. Fuera de éstas Áreas de Actuación, se determinarán conforme a las Normas de Ordenación Particulares para vialidad, las Normas de Ordenación Particulares para barrio o colonia, o las Normas de Ordenación que indique la zonificación del área en que se ubique el inmueble, según sea el caso.
+
+En Áreas de Conservación Patrimonial deberá observarse además, lo que establece la Norma de Ordenación número 4 para estas Áreas de Actuación.
+
+La altura máxima de entrepiso para los zonificaciones a que hace referencia ésta Norma, será la mínima para el funcionamiento de los equipos y/o instalaciones de la actividad a que está destinada la edificación.
+
+23. (DEROGADA, G.O. 08 DE ABRIL DE 2005)
+
+24. (DEROGADA, G.O. 08 DE ABRIL DE 2005)
+
+25. (DEROGADA, G.O. 08 DE ABRIL DE 2005)
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+26. NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA DE INTERÉS SOCIAL Y POPULAR EN SUELO URBANO
+
+Para facilitar la construcción de Vivienda de Interés Social y Popular, se aplicarán las medidas contenidas en esta Norma en:
+
+Zonas dentro de los polígonos de las Áreas de Actuación con Potencial de Reciclamiento señaladas por los Programas Delegacionales y que cuenten con zonificaciones: Habitacional (H), Habitacional con Oficinas (HO), Habitacional con Comercio en Planta Baja (HC), Habitacional Mixto (HM) y Centro de Barrio (CB). Fuera de los polígonos señalados en el párrafo anterior pero dentro de los límites de los polígonos de las colonias enlistadas en el apartado correspondiente a Normas de Ordenación Particulares para la Delegación en los Programas Delegacionales de Desarrollo Urbano vigentes, y que cuenten con zonificaciones: Habitacional (H), Habitacional con Oficinas (HO), Habitacional con Comercio en planta baja (HC), Habitacional Mixto (HM) y Centro de Barrio (CB), y que estén establecidas en los planos correspondientes a las Normas de Ordenación.
+
+Para la autorización de los proyectos y la construcción de las viviendas, se deberá observar lo siguiente:
+
+1. Para el Registro de Manifestación de Construcción, el solicitante y el Director Responsable de Obra deberán acreditar que el valor de venta de la vivienda de interés social no exceda del importe que resulte de multiplicar por 15 el salario mínimo general vigente que corresponda al Distrito Federal elevado al año, y para vivienda popular que no exceda del importe equivalente a multiplicar por 30 veces el salario mínimo general vigente que corresponda al Distrito Federal elevado al año. Esto se hará a través de la presentación de la constancia de reducción fiscal correspondiente.
+
+Para el caso de proyectos dentro de los perímetros A y B del Centro Histórico el monto máximo podrá ser de hasta 236 veces el salario mínimo mensual vigente para el Distrito Federal.
+
+Asimismo, deberán acreditar fehacientemente, a través de la corrida financiera correspondiente, que el valor de venta de las viviendas motivo de aplicación de la norma, no exceda el importe establecido, incluyendo los acabados con los cuales se entregarán, ratificándolo al aviso de terminación de obra correspondiente. En caso de no acreditarlo, la autoridad competente no otorgará la autorización de uso y ocupación.
+
+En caso de incumplimiento, con el fin de regularizar la construcción, se deberá adecuar el proyecto a la zonificación establecida.
+
+Cuando por cualquier forma se contravenga el propósito de esta norma, la Secretaría de Desarrollo Urbano y Vivienda podrá de oficio reconocer la anulabilidad o declarar la nulidad del acto en vía administrativa y revocar de oficio el certificado correspondiente.
+
+2. El porcentaje de cajones de estacionamiento deberá ser mínimo de 30 % para vivienda de interés social, en régimen condominal. En el caso de la vivienda de interés popular, será del 60 %.
+
+3. El área máxima construida por vivienda (sin incluir indivisos y estacionamiento) no deberá rebasar los 65 m².
+
+Los proyectos deberán cumplir cabalmente con la normatividad vigente en todo aquello que no contradiga lo establecido en esta Norma.
+
+Para los proyectos que cumplan con los requisitos antes mencionados se autorizará:
+
+A) Alturas de hasta 6 niveles (PB más 5 niveles) para los proyectos que se localicen dentro de la denominada Ciudad Central(1). Para proyectos localizados dentro del Primer Contorno(2) se podrá optar por alturas de hasta 5 niveles (PB más 4 niveles) y dentro del Segundo Contorno(3) hasta 4 niveles (PB más 3 niveles).
+
+B) El porcentaje mínimo de área libre a cumplir deberá ser del 20% hasta 60 viviendas y, 25% para más de 60 viviendas.
+
+C) La aplicación de esta Norma no exenta de la obtención del Dictamen del Estudio de Impacto Urbano que el proyecto, en su caso, requiera, conforme a lo establecido en la Ley de Desarrollo Urbano y su Reglamento.
+
+Cuando un Área de Conservación Patrimonial coincida con un Área con Potencial de Reciclamiento, esta Norma aplicará en su totalidad, con excepción de la altura, la cual se sujetará a las disposiciones de la Norma para Áreas de Conservación Patrimonial número 4.
+
+Asimismo, cuando alguna colonia esté ubicada dentro de una Área de Conservación Patrimonial y se incluya en el listado del apartado correspondiente a las Normas de Ordenación Particulares para la Delegación, aplicará en su totalidad a excepción de la altura, la cual se sujetará a las disposiciones de la Norma para Áreas de Conservación Patrimonial número 4.
+
+Para los proyectos de interés social o popular en los cuales se presenten circunstancias especiales como vecindades, inmuebles catalogados, sustitución de vivienda precaria o en alto riesgo estructural en predios de hasta 500 m2, éstos deberán apegarse a un dictamen que se llevará a cabo por la propia Secretaría de Desarrollo Urbano y Vivienda.
+
+Esta Norma no aplica en zonas que se encuentren dentro de los polígonos de los Programas Parciales.
+
+La vigilancia del cumplimiento de lo establecido en esta Norma es facultad del órgano político-administrativo en cada demarcación territorial. En caso de que el promovente pretenda obtener los beneficios de esta Norma sin cumplir con la misma, se estará a lo dispuesto en el artículo 310 del Nuevo Código Penal para el Distrito Federal.
+
+(1) Delegaciones: Cuauhtémoc, Miguel Hidalgo, Benito Juárez y Venustiano Carranza,
+
+(2) Delegaciones: Azcapotzalco, Gustavo A. Madero e Iztacalco.
+
+(3) Suelo Urbano de las Delegaciones: Cuajimalpa, Alvaro Obregón, Magdalena Contreras, Tlalpan e Iztapalapa; y la totalidad de Coyoacán.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+27. DE LOS REQUERIMIENTOS PARA LA CAPTACIÓN DE AGUAS PLUVIALES Y DESCARGA DE AGUAS RESIDUALES
+
+El Registro de Manifestaciones de Construcción B ó C, así como la Licencia Especial correspondiente estarán condicionados a que el proyecto de construcción incluya pozos de absorción para aguas pluviales. El Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias, señalarán las especificaciones técnicas que debe cumplir la construcción de dichos pozos de absorción.
+
+De igual forma, dentro del proyecto de edificación de vivienda unifamiliar deberá incluirse la construcción de fosas sépticas, cuya capacidad debe ir en función del número de habitantes, y descargar a la red de drenaje. Tratándose de unidades habitacionales se incluirán estudios para la instalación de plantas de tratamiento de aguas, para no vertirlas crudas al drenaje.
+
+> <small>(ADICIONADA, G.O. 08 DE ABRIL DE 2005)</small>
+
+28. ZONAS Y USOS DE RIESGO
+
+No se registrarán manifestaciones de construcción, ni se expedirán licencias para ningún uso sobre suelos clasificados como riesgosos en la normatividad aplicable; sobre los derechos de vía de carreteras, ferrocarriles o vialidades de acceso controlado; asimismo, no se permitirá la ubicación de viviendas en los corredores destinados a los servicios públicos o al paso subterráneo de ductos de combustible, petróleo, gasolina, diesel, gas LP, gas natural comprimido y sus derivados.
+
+Se permite el establecimiento de estaciones de servicio de combustible carburante en las zonificaciones HO, HM, E e I, siempre y cuando no se contradigan con el Programa Delegacional de Desarrollo Urbano vigente, sean compatibles con los usos colindantes y previo Dictamen del Estudio de Impacto Urbano.
+
 ## Transitorios
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; además, se publicará en el Diario Oficial de la Federación para su mayor difusión.
@@ -2502,7 +3038,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los veintitrés
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de enero de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 23 DE FEBRERO DE 1999.
 
@@ -2563,3 +3099,15 @@ SEXTO. Los anuncios comerciales fijos que hubieran sido objeto de procedimientos
 SÉPTIMO.- La Secretaría tendrá un plazo de 180 días naturales contados a partir de la entrada en vigor de este decreto, para expedir y someter a consideración de la Asamblea Legislativa del Distrito Federal los Planos de zonificación en materia de anuncios, los cuales adquieren vigencia jurídica. Una vez que termine el proceso de modificación de los Programas Delegacionales de Desarrollo Urbano, se incorporarán a éstos.
 
 OCTAVO.- Hasta en tanto no se publiquen en la Gaceta Oficial del Distrito Federal, continuarán vigentes los Planos de Zonificación en materia de anuncios, en todo aquello que no se opongan a este decreto.
+
+G.O. 8 DE ABRIL DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal e inscríbase en el Registro de los Planes y Programas de Desarrollo Urbano y en el Registro Público de la Propiedad y de Comercio.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Una vez publicadas, las Normas de Ordenación Generales formarán parte de la Ley de Desarrollo Urbano y del Programa General de Desarrollo Urbano del Distrito Federal.
+
+CUARTO.- La Norma de Ordenación General número 22 "ALTURA MÁXIMA Y PORCENTAJE DE ÁREA LIBRE PERMITIDA EN LAS ZONIFICACIONES; (E) EQUIPAMIENTO; (CB) CENTRO DE BARRIO; E (I) INDUSTRIA", continuará aplicándose en términos del presente Decreto, en tanto no se actualice el Programa Delegacional respectivo, una vez publicado éste, dicha Norma quedará derogada.
+
+QUINTO.- Los Certificados de Zonificación de Uso del Suelo, Licencias de Uso del Suelo, Estudios de Impacto Urbano, Impacto Urbano-Ambiental y cualquier otra Constancia o Autorización que se encuentre en trámite, se resolverá de conformidad con las Normas de Ordenación Generales publicadas en la Gaceta Oficial del Distrito Federal el 10 de abril de 1997 en los Programas Delegacionales de Desarrollo Urbano.
