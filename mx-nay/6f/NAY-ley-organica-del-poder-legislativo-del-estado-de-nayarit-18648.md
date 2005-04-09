@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2005-03-19"
+last_updated: "2005-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2005.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -713,6 +713,10 @@ XX.- De Gestoría Social;
 
 XXI.- De Asuntos Pesqueros.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXII.- De Transparencia e Información Gubernamental.
+
 Estas Comisiones podrán ampliarse o disminuirse por acuerdo de la Legislatura.
 
 ###### ARTICULO 74.
@@ -1248,3 +1252,11 @@ Artículo Tercero.- El Honorable Congreso del Estado de Nayarit hará la designa
 P.O. 19 DE MARZO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit; y publíquese de conformidad con lo establecido en el artículo 58 de la Constitución Política del Estado de Nayarit.
+
+P.O. 9 DE ABRIL DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Congreso procederá a elaborar, en un plazo que no deberá exceder al último día hábil del mes de abril de 2005, el estudio y proyecto de reforma a las Bases de Competencia aplicable a las comisiones legislativas, para incluir las atribuciones correspondientes a la Comisión de Transparencia e Información Gubernamental que se crea mediante este Decreto. La aprobación de dicho proyecto estará sujeto al trámite legislativo previsto en las normas internas del Congreso.
+
+Artículo Tercero.- De conformidad a lo dispuesto por el artículo 41 fracción VIII de la Ley Orgánica del Poder Legislativo, la Comisión de Gobierno Legislativo en un plazo que no exceda de 15 días contados a partir del día siguiente de la entrada en vigor del presente Decreto, propondrá al pleno el acuerdo que designe a los Diputados que integrarán la Comisión de Transparencia e Información Gubernamental.
