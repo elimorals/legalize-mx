@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-21491"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2005-03-19"
+last_updated: "2005-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2005.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de mayo del 2001.
 
@@ -639,9 +639,13 @@ XVIII.- De Atención a la Juventud;
 
 XIX.- De Equidad y Género,
 
-XX.- Gestoría Social, y
+XX.- Gestoría Social, y (sic)
 
-XXI.- De Asuntos Pesqueros.
+XXI.- De Asuntos Pesqueros;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXII.- De Transparencia e Información Gubernamental.
 
 ###### ARTÍCULO 54.
 
@@ -2149,7 +2153,7 @@ d) No haber sido condenado por delito intencional que haya ameritado pena privat
 
 El titular de la Unidad de Gestoría Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno Legislativo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INEGRAN, P.O. 19 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2005)</small>
 
 ### Capítulo IV. De la Contraloría Interna
 
@@ -2316,3 +2320,11 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE MARZO DE 2005.
 
 Articulo Único- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit; y publíquese de conformidad con lo establecido en el artículo 58 de la Constitución Política del Estado de Nayarit.
+
+P.O. 9 DE ABRIL DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Congreso procederá a elaborar, en un plazo que no deberá exceder al último día hábil del mes de abril de 2005, el estudio y proyecto de reforma a las Bases de Competencia aplicable a las comisiones legislativas, para incluir las atribuciones correspondientes a la Comisión de Transparencia e Información Gubernamental que se crea mediante este Decreto. La aprobación de dicho proyecto estará sujeto (sic) al trámite legislativo previsto en las normas internas del Congreso.
+
+Artículo Tercero.- De conformidad a lo dispuesto por el artículo 41 fracción VIII de la Ley Orgánica del Poder Legislativo, la Comisión de Gobierno Legislativo en un plazo que no exceda de 15 días contados a partir del día siguiente de la entrada en vigor del presente Decreto, propondrá al pleno el acuerdo que designe a los Diputados que integrarán la Comisión de Transparencia e Información Gubernamental.
