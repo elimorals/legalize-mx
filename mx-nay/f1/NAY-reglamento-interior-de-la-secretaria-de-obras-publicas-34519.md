@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-obras-publicas-34519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-08"
-last_updated: "2003-10-08"
+last_updated: "2005-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2005.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de octubre de 2003.
 
@@ -33,7 +33,7 @@ C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ. Gobernador Constitucional del Estado Libre 
 
 CONSIDERANDO.
 
-Por lo expuesto y fundado, tengo a bien expedir el siguiente:
+Por lo expuesto y fundado tengo a bien expedir el siguiente:
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS
 
@@ -63,13 +63,13 @@ III. Coordinación General Administrativa;
 
 IV. Dirección General de Construcción y Mantenimiento;
 
-V. Dirección General de Infraestructura Educativa;
+V. Dirección General de Infraestructura Educativa.
 
 VI. Dirección General de Infraestructura Urbana y Vial;
 
 VII. Dirección General de Planeación y Desarrollo Urbano;
 
-VIII. Coordinación de Estudios y Proyectos; y
+VIII. (DEROGADA, P.O. 9 DE ABRIL DE 2005)
 
 IX. Unidad de Normatividad.
 
@@ -127,7 +127,9 @@ XVIII. Suscribir los contratos y convenios que resulten necesarios para la ejecu
 
 XIX. Suscribir dentro del ámbito de su competencia y para el debido desarrollo de sus atribuciones, los contratos, convenios y demás actos jurídicos de cualquier naturaleza, en los que la Secretaría sea parte;
 
-XX. Recibir en acuerdo al Subsecretario, Directores Generales, Coordinadores, Jefe de Unidad y demás servidores públicos subalternos cuando sea necesario;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XX.- Recibir en acuerdo al Subsecretario, Directores Generales, Coordinadores, Jefe de Unidad y demás servidores públicos subalternos cuando sea necesario, así como conceder audiencia al público;
 
 XXI. Certificar y expedir copias certificadas de los documentos existentes en los archivos de la Secretaría;
 
@@ -137,9 +139,19 @@ XXIII. Autorizar las bases de los concursos de obra pública y servicios relacio
 
 XXIV. Designar y remover a los servidores públicos de confianza adscritos a las unidades administrativas que integran la Secretaría en los términos de ley;
 
-XXV. Delegar mediante acuerdos administrativos que deberán ser publicados en el Periódico oficial, Órgano del Gobierno del Estado, atribuciones específicas a los servidores públicos de la Secretaría, cuando así lo estime necesario, y
+XXV. Delegar mediante acuerdos administrativos que deberán ser publicados en el Periódico oficial, Órgano del Gobierno del Estado, atribuciones específicas a los servidores públicos de la Secretaría, cuando así lo estime necesario, y (sic)
 
-XXVI. Las demás que le señalen las disposiciones legales aplicables y el Titular del Poder Ejecutivo Estatal, dentro del ámbito de sus atribuciones.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXVI.- Resolver conforme a la Leyes de la materia, lineamientos, normatividad y disposiciones aplicables, la procedencia o improcedencia de los ajustes de costos solicitados por los contratistas, así como emitir el dictamen de gastos no recuperables que se deriven de las terminaciones anticipadas de los contratos de obra pública;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXVII.- Proporcionar a las diversas entidades de fiscalización, la información que soliciten, en coordinación con las dependencias del Ejecutivo facultadas para ello;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXVIlI.- Las demás que le señalen las disposiciones legales aplicables y el Titular del Poder Ejecutivo Estatal, dentro del ámbito de sus atribuciones.
 
 ###### Artículo 8.
 
@@ -297,9 +309,13 @@ III. Supervisar a solicitud de los usuarios, que los inmuebles destinados a la p
 
 IV. Apoyar las acciones de restauración propuestas por las dependencias, organismos, ayuntamientos y/o asociaciones en aquellos sitios considerados como monumentos históricos o patrimonio cultural, en coordinación con las autoridades federales;
 
-V. Promover conjuntamente con la Coordinación de Estudios y Proyectos, la utilización de nuevos materiales, así como propiciar la racionalización en el consumo de los materiales estratégicos y alentar, en su caso, el uso de materiales abundantes o de fácil obtención regional;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
 
-VI. Emitir conjuntamente con la Coordinación de Estudios y Proyectos, las normas técnicas para construcción, reconstrucción y conservación de edificios públicos, monumentos históricos y obras de ornato;
+V. Investigar e identificar nuevos materiales, técnicas y procedimientos constructivos que aplicados en proyectos típicos, se encuentren en actualización conforme a los avances tecnológicos en la materia y procuren reducir costos en la construcción, propiciando la racionalización en el consumo de los materiales estratégicos y alentar, en su caso, el uso de materiales abundantes o de fácil obtención regional;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+VI. Emitir las, normas técnicas para construcción, y conservación de restauración de edificios públicos, monumentos históricos y obras de ornato, así como apoyar las acciones de propuestas por las dependencias, organismos, ayuntamientos y/o asociaciones en coordinación con las autoridades federales;
 
 VII. Integrar los expedientes unitarios y administrativos de los proyectos de obra pública, equipamiento y edificación, así como mantenerlos resguardados con su respectiva documentación comprobatoria;
 
@@ -311,29 +327,73 @@ X. Vigilar que los contratos de obra pública encomendados a su área administra
 
 XI. Autorizar los volúmenes de los presupuestos, estimaciones y finiquitos en la ejecución de las obras que realiza;
 
-XII. Autorizar, considerando la evaluación de la Coordinación de Estudios y Proyectos, las modificaciones y adecuaciones de las obras asignadas a la Dirección General;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XII. Autorizar los cambios o modificaciones que debido a circunstancias imprevisibles no fueron contempladas en los proyectos originales y se presenten en el proceso de la ejecución de la obra pública asignada a su unidad administrativa;
 
 XIII. Autorizar las justificaciones para las solicitudes de ampliaciones presupuestales que se requieran para la terminación de los contratos de obra pública, ejecutados por su unidad administrativa;
 
 XIV. Programar y llevar a cabo la entrega-recepción de las obras públicas ejecutadas por su unidad administrativa, ante los organismos y/o dependencias operadoras o beneficiarios;
 
-XV. Vigilar la instalación de los elementos necesarios para el desarrollo de los eventos especiales que realice el Gobernador del Estado, así como otras instancias gubernamentales, con acuerdo del Secretario; y
+XV. Vigilar la instalación de los elementos necesarios para el desarrollo de los eventos especiales que realice el Gobernador del Estado, así como otras instancias gubernamentales, con acuerdo del Secretario; y (sic)
 
-XVI. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XVI. Vigilar que la obra pública asignada a su área, ejecutada bajo cualquier modalidad prevista en la Ley, cuente con los dictámenes, permisos, licencias, autorizaciones y pagos de derechos que en cada caso proceda, de acuerdo a las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XVII. Realizar los estudios y proyectos necesarios que se requieran para la ejecución de la obra pública, encomendada a su área acorde con los programas de inversión;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XVIII. Establecer los alcances y términos de referencia para los proyectos ejecutivos que se realicen por contrato de servicios relacionados con la obra pública, de acuerdo a la normatividad vigente en la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XIX. Validar los proyectos de edificación del Estado y Municipio, que sean sometidos a conocimiento de la Secretaría, con el fin de que se realicen con estricto apego a las especificaciones generales de construcción;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XX. Evaluar y verificar la calidad de las obras, a efecto de que éstas cumplan con los requisitos de resistencia, durabilidad y servicio durante la vida útil contemplada en el proyecto;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXI. Verificar que los sistemas de control de calidad, llevados a cabo por laboratorios externos acreditados ante la Secretaría, garanticen el cumplimiento fijado en las normas de calidad en los materiales utilizados en las obras;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXII. Solicitar y proporcionar oportunamente a la Unidad de Normatividad, los elementos necesarios para resolver los ajustes de costos que se generen en la ejecución de la obra pública asignada a su área administrativa, de acuerdo a la normatividad, lineamientos y disposiciones aplicables; así como para la dictaminación de los gastos no recuperables, precios extraordinarios y convenios modificatorios;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
 ###### Artículo 18.
 
 Para el desempeño de estas atribuciones, de la Dirección General de Construcción y Mantenimiento, dependerán los siguientes departamentos:
 
-A) Departamento de Eventos Especiales
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
 
-B) Departamento de Mantenimiento de Edificios Públicos
+A) Departamento de Supervisión de Obras
 
-C) Departamento de Supervisión, Construcción y Mantenimiento
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+B) Departamento de Eventos Especiales
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+C) Departamento de Mantenimiento de Edificios Públicos
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+D) Departamento de Proyectos y Control de Calidad de Edificación
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
 
 ###### Artículo 19.
 
-Las funciones de los Departamentos de Eventos Especiales, Mantenimiento de Edificios Públicos y Supervisión, construcción y Mantenimiento estarán contenidas en el Manual de Organización de la Secretaría.
+Las funciones de los Departamentos de Supervisión de Obras, Eventos Especiales, Mantenimiento de Edificios Públicos y Proyectos y Control de calidad a Edificación estarán contenidas en el Manual de Organización de la Secretaría.
 
 ###### Artículo 20.
 
@@ -367,21 +427,67 @@ XIII. Autorizar los volúmenes de los presupuestos, estimaciones y finiquitos, e
 
 XIV. Autorizar las justificaciones para las solicitudes de ampliaciones presupuéstales que se requieran para la terminación de los contratos de obra pública, ejecutados por su unidad administrativa;
 
-XV. Autorizar, considerando la evaluación de estudios y proyectos, las modificaciones y adecuaciones de las obras asignadas a la Dirección General;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
 
-XVI. Programar y llevar a cabo la entrega-recepción de las obras públicas ejecutadas por su unidad administrativa, ante los organismos y/o dependencias operadoras o beneficiarios; y
+XV. Autorizar los cambios o modificaciones que debido a circunstancias imprevisibles no fueron contempladas en los proyectos originales y se presenten en el proceso de la ejecución de la obra pública asignada a su Unidad Administrativa;
 
-XVII. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
+XVI. Programar y llevar a cabo la entrega-recepción de las obras públicas ejecutadas por su unidad administrativa, ante los organismos y/o dependencias operadoras o beneficiarios; y (sic)
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XVII. Investigar e identificar nuevos materiales, técnicas y procedimientos constructivos que aplicados en proyectos típicos, se encuentren en actualización conforme a los avances tecnológicos en la materia y procuren reducir costos en la construcción, propiciando la racionalización en el consumo de los materiales estratégicos y alentar, en su caso, el uso de materiales abundantes o de fácil obtención regional;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XVIII. Elaborar los estudios y proyectos necesarios que se requieran para la ejecución de la obra pública de infraestructura educativa acorde con las especificaciones y normativas que emita el Comité Administrador del Programa Federal de Construcción de Escuelas y los Programas de Inversión de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XIX. Establecer los alcances y términos de referencia para los proyectos ejecutivos que se realicen por contrato de servicios relacionados con la obra pública, de acuerdo a la normatividad vigente en la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XX. Vigilar que la obra pública asignada a su área, ejecutada bajo cualquier modalidad prevista en las leyes, cuenten con los dictámenes, permisos, licencias, autorizaciones y pagos de derechos, que en cada caso proceda, de acuerdo a la normatividad vigente;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXI. Solicitar al área correspondiente, la celebración de los concursos de las adquisiciones de mobiliario y equipo de la infraestructura educativa;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXII. Evaluar y verificar la calidad de las obras, a efecto de que éstas cumplan con los requisitos de resistencia, durabilidad y servicio durante la vida útil contemplada en el proyecto;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIII. Verificar que los sistemas de control de calidad, llevados a cabo por laboratorios externos acreditados ante la Secretaria, garanticen el cumplimiento fijado en las normas de calidad en los materiales utilizados en las obras;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIV. Proporcionar oportunamente a la Unidad de Normatividad, los elementos necesarios tendientes a resolver los ajustes de costos que se generen en la ejecución de la obra pública asignada a su área administrativa, de acuerdo a la normatividad, lineamentos y disposiciones aplicables; así como para la dictaminación de los gastos no recuperables, precios extraordinarios y convenios modificatorios;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXV. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
 
 ###### Artículo 21.
 
 Para el desempeño de estas atribuciones, de la Dirección General de Infraestructura Educativa, dependerá el departamento:
 
-A) Departamento Técnico
+A) Departamento Técnico;
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+B) Departamento de Mantenimiento de Infraestructura Educativa;
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+C) Departamento de Supervisión de Infraestructura Educativa;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
 
 ###### Artículo 22.
 
-Las funciones del Departamento Técnico estarán contenidas en el Manual de Organización de la Secretaría.
+Las funciones de los Departamentos Técnico; de Mantenimiento de Infraestructura Educativa y de Supervisión de Infraestructura Educativa, estarán contenidas en el Manual de Organización de la Secretaría.
 
 ###### Artículo 23.
 
@@ -399,7 +505,9 @@ V. Proponer al Secretario las obras de infraestructura urbana concertadas con lo
 
 VI. Supervisar y ejecutar, de conformidad a las normas, políticas y procedimientos a las cuales podrán realizarse construcciones e instalarse anuncios publicitarios dentro del derecho de vía de las carreteras de jurisdicción estatal o federal, administradas por el Gobierno del Estado;
 
-VII. Dar seguimiento al trámite de los permisos de cruces y accesos en vías de jurisdicción estatal o federal entregadas al Ejecutivo del Estado bajo convenio, previa la dictaminación de viabilidad, por la Coordinación de Estudios y Proyectos y la opinión de la unidad de normatividad, así como el pago de los derechos correspondientes que se generen;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+VII. Dictaminar el trámite de los permisos de cruces y accesos, en vías de jurisdicción estatal o federal entregadas al Ejecutivo del Estado bajo convenio, así como vigilar que se cubra el pago de los derechos correspondientes que se generen;
 
 VIII. Vigilar que se respete el derecho de vía en las carreteras de jurisdicción estatal o federal de conformidad con la ley de la materia, y coordinarse con la Unidad de Normatividad para ejercer el derecho de retirar las invasiones que se presenten;
 
@@ -421,23 +529,73 @@ XVI. Vigilar que los contratos de obra pública encomendados a su área administ
 
 XVII. Autorizar los volúmenes de los presupuestos, estimaciones y finiquitos, en la ejecución de las obras que realiza;
 
-XVIII. Autorizar las modificaciones y adecuaciones de las obras asignadas a ésta área, y en los casos que se estime necesario se tomará en consideración la evaluación de la Coordinación de Estudios y Proyectos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XVIII. Autorizar los cambios o modificaciones que debido a circunstancias imprevisibles no fueron contempladas en los proyectos originales y se presenten en el proceso de la ejecución de la obra pública asignada a su Unidad Administrativa;
 
 XIX. Autorizar las justificaciones para las solicitudes de ampliaciones presupuéstales que se requieran para la terminación de los contratos de obra pública, ejecutados por su área administrativa;
 
-XX. Programar y llevar a cabo la entrega-recepción de las obras públicas ejecutadas por su unidad administrativa, ante los organismos y/o dependencias operadoras o beneficiarios; y
+XX. Programar y llevar a cabo la entrega-recepción de las obras públicas ejecutadas por su unidad administrativa, ante los organismos y/o dependencias operadoras o beneficiarios; y (sic)
 
-XXI. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXI. Investigar e identificar nuevos materiales, técnicas y procedimientos constructivos que aplicados en proyectos típicos, se encuentren en actualización conforme a los avances tecnológicos en la materia y procuren reducir costos en la construcción, propiciando la racionalización en el consumo de los materiales estratégicos y alentar, en su caso, el uso de materiales abundantes o de fácil obtención regional;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXII. Mantener actualizado el banco de materiales, que cumplan con las especificaciones requeridas; para utilizarlos en las obras que ejecute la Secretaría;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIII. Validar los proyectos de infraestructura urbana y vial del Estado y municipios, que sean sometidos a conocimiento de la Secretaría, con el fin de que se realicen con estricto apego a las especificaciones generales de construcción;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIV. Elaborar los estudios y proyectos necesarios que se requieran para la ejecución de la obra pública de infraestructura urbana y vial acorde con las especificaciones y normativas aplicables y los programas de inversión de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXV. Establecer los alcances y términos de referencia para los proyectos ejecutivos, que se realizan por contrato de servicios relacionados con la obra pública de acuerdo a la normatividad vigente en materia de infraestructura urbana y vial;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXVI. Vigilar que la obra pública asignada a su área, que se ejecuten por cualquiera de las modalidades previstas por la (sic) leyes de la materia, ya sea federal o estatal, cuenten con los permisos, licencias, autorizaciones y pagos de derechos, que en cada caso proceda de acuerdo a la normatividad vigente;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXVII. Evaluar y verificar la calidad de las obras, a efecto de que éstas cumplan con los requisitos de resistencia, durabilidad y servicio durante la vida útil contemplada en el proyecto;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXVIII. Verificar que los sistemas de control de calidad, llevados a cabo por laboratorios externos acreditados ante la Secretaría, garanticen el cumplimiento fijado en las normas de calidad en los materiales utilizados en las obras;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIX. Solicitar y proporcionar oportunamente a la Unidad de Normatividad, los elementos necesarios para resolver los ajustes de costos que se generen en la ejecución de la obra pública asignada a su área administrativa, de acuerdo a la normatividad, lineamientos y disposiciones aplicables; así como para la dictaminación de los gastos no recuperables, precios extraordinarios y convenios modificatorios;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXX. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
 
 ###### Artículo 24.
 
 Para el desempeño de estas atribuciones, de la Dirección General de Infraestructura Urbana y Vial, dependerán los siguientes departamentos:
 
-A) Departamento de Construcción, Conservación de Carreteras
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+A) Departamento de Conservación y Construcción de Carreteras
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
 
 B) Departamento de Maquinaria y Equipo
 
-C) Departamento de Supervisión de Infraestructura Urbana y Vial
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+C) Departamento de Supervisión
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
+D) Departamento de Proyectos y Control de Calidad a la Infraestructura Urbana y Vial
 
 ###### Artículo 25.
 
@@ -447,15 +605,19 @@ I. Ejecutar la construcción, rehabilitación y conservación de las carreteras,
 
 II. Supervisar y dictaminar de conformidad a las normas, políticas y procedimientos las solicitudes de construcciones o instalación de anuncios publicitarios dentro del derecho de vía de las carreteras de jurisdicción estatal o federal, administradas por el Gobierno del Estado;
 
-III. Tramitar los permisos de cruces y accesos, en vías de jurisdicción estatal o federal administradas por el gobierno del Estado, previa la dictaminación de viabilidad, por la Coordinación de Estudios y Proyectos y la opinión de la unidad de normatividad, así como determinar el pago de los derechos correspondientes que se generen;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+III. Tramitar los permisos de cruces y accesos, en vías de jurisdicción estatal o federal administradas por el gobierno del Estado, así como determinar el pago de los derechos correspondientes que se generen;
 
 IV. Supervisar que se respete el derecho de vía en las carreteras de jurisdicción estatal o federal administrados por el Gobierno del Estado, de conformidad con la ley de la materia, y coordinarse con la Unidad de Normatividad para ejercer el derecho de retirar las invasiones que se presenten;
 
 V. Desarrollar las demás funciones que expresamente le encomiende el Secretario y/o Subsecretario, y las demás que se señalen en el manual de organización de la Secretaría.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2005)</small>
+
 ###### Artículo 26.
 
-Las funciones de los Departamentos de Maquinaria y Equipo y Supervisión de Infraestructura Urbana y Vial estarán contenidas en el Manual de Organización de la Secretaría.
+Las demás funciones de los Departamentos de Construcción, Conservación de Carreteras; de Maquinaria y Equipo; de supervisión; y Proyectos y Control de Calidad a Infraestructura Urbana y Vial estarán contenidas en el Manual de Organización de la Secretaría.
 
 ###### Artículo 27.
 
@@ -553,87 +715,23 @@ Las funciones de los Departamentos de Control Presupuestal y Planeación estará
 
 ###### Artículo 31.
 
-Corresponde a la Coordinación de Estudios y Proyectos:
-
-I. Realizar los estudios y proyectos necesarios que se requieran para la ejecución de la obra pública acorde con los programas de inversión;
-
-II. Establecer de manera coordinada con las Unidades Administrativas, los alcances y términos de referencia para los proyectos ejecutivos, de acuerdo a la normatividad vigente en materia de diseño;
-
-III. Validar los proyectos de edificación y de infraestructura vial del Estado y Municipios, con el fin de que se realicen con estricto apego a las especificaciones generales de construcción;
-
-IV. Evaluar y verificar la calidad de las obras, a efecto de que éstas cumplan con los requisitos de resistencia, durabilidad y servicio durante la vida útil contemplada en el proyecto;
-
-V. Coadyuvar con la Dirección General de Infraestructura Urbana y Vial en la dictaminación de factibilidad de las solicitudes que se presenten para ocupar el derecho de vía;
-
-VI. Informar a las Unidades Administrativas correspondientes, los avances de los proyectos ejecutivos que se estén elaborando;
-
-VII. Coordinarse con los titulares de las Unidades Administrativas, con el fin de planear, programar, organizar, controlar y evaluar, los proyectos ejecutivos encomendados;
-
-VIII. Verificar conjuntamente con las Unidades Administrativas correspondientes, que los sistemas de control de calidad, llevados a cabo por laboratorios externos acreditados ante la Secretaría, garanticen el cumplimiento fijado en las normas de calidad en los materiales utilizados en las obras;
-
-IX. Mantener actualizado el Inventario de Bancos de Materiales, que cumplan con las especificaciones requeridas, para utilizarlos en las obras que ejecute la Secretaría;
-
-X. Integrar y conservar el acervo documental gráfico que corresponde a cada proyecto que ejecute la Secretaría;
-
-XI. Investigar e identificar nuevos materiales, técnicas y procedimientos constructivos que aplicados en proyectos típicos, se encuentren en actualización conforme a los avances tecnológicos en la materia y procuren reducir costos en la construcción;
-
-XII. Apoyar la integración, clasificación y evaluación del padrón de contratistas en materia de estudios y proyectos;
-
-XIII. Revisar y/o elaborar a solicitud de las Unidades Administrativas, los cambios o modificaciones que debido a aspectos o factores técnicos que no pueden ser considerados en la elaboración de proyectos originales, surgieran durante el proceso de ejecución de la obra pública;
-
-XIV. Integrar los expedientes unitarios y administrativos de los estudios y proyectos de servicios relacionados con la obra pública, bajo su responsabilidad, así como mantenerlos resguardados con su respectiva documentación comprobatoria;
-
-XV. Solicitar a la Unidad de Normatividad, la celebración de los concursos de los servicios relacionados con la obra pública inherentes a su unidad administrativa;
-
-XVI. Validar en coordinación con la Unidad de Normatividad, los fallos de los concursos de los estudios y proyectos inherentes al área de su competencia y proponerlos al Secretario para su emisión;
-
-XVII. Vigilar que los contratos de los servicios relacionados con la obra pública encomendados a su área administrativa, se ejecuten con sujeción al mismo y a las disposiciones normativas, ajustándose a los presupuestos, programas, normas y especificaciones técnicas aprobadas;
-
-XVIII. Autorizar las justificaciones para las solicitudes de ampliaciones presupuéstales que se requieran para la terminación de los contratos de servicios relacionados con la obra pública, ejecutados por su unidad administrativa;
-
-XIX. Programar y llevar a cabo la entrega-recepción de los servicios relacionados con la obra pública, ejecutada por su unidad administrativa, ante los organismos y/o dependencias operadoras o beneficiarios;
-
-XX. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
+(DEROGADO, P.O. 9 DE ABRIL DE 2005)
 
 ###### Artículo 32.
 
-Para el desempeño de estas atribuciones, de la Coordinación de Estudios y Proyectos, dependerán los siguientes departamentos:
-
-A) Departamento de Control de Calidad de Obra Pública
-
-B) Departamento de Ingeniería
-
-C) Departamento de Proyectos
+(DEROGADO, P.O. 9 DE ABRIL DE 2005)
 
 ###### Artículo 33.
 
-Corresponde al Departamento de Control de Calidad de Obra Pública:
-
-I. Revisar y dictaminar que los proyectos de infraestructura vial del Estado y los Municipios, se realicen con estricto apego a las especificaciones generales de construcción y a la normatividad aplicable;
-
-II. Evaluar y verificar la calidad de las obras, a efecto de que éstas cumplan con los requisitos de resistencia, durabilidad y servicio durante la vida útil contemplada en el proyecto, y en su caso dictaminar sobre la falta de calidad de las obras para solicitar su reposición;
-
-III. Dictaminar la factibilidad de las solicitudes presentadas a la Dirección General de Infraestructura Urbana y Vial para la ejecución de obras por parte de particulares, instituciones y entidades públicas en el derecho de vía de las carreteras de jurisdicción estatal o federal administradas por el Gobierno del Estado;
-
-IV. Verificar y evaluar que los sistemas de control de calidad, llevados a cabo por laboratorios externos acreditados ante la Secretaría, garanticen el cumplimiento fijado en las normas de calidad en los materiales utilizados en las obras, y en su caso dictaminar sobre la falta de calidad de las obras para solicitar su reposición;
-
-V. Desarrollar las demás funciones que expresamente le encomiende el Secretario y/o Subsecretario, y las demás que se señalen en el manual de organización de la Secretaría.
+(DEROGADO, P.O. 9 DE ABRIL DE 2005)
 
 ###### Artículo 34.
 
-Corresponde al Departamento de Ingeniería:
-
-I. Revisar y dictaminar que los proyectos de edificación de infraestructura vial del Estado y los Municipios, se realicen con estricto apego a las especificaciones generales de construcción y a la normatividad aplicable;
-
-II. Evaluar y verificar la calidad de las obras, a efecto de que éstas cumplan con los requisitos de resistencia, durabilidad y servicio durante la vida útil contemplada en el proyecto, y en su caso dictaminar sobre la falta de calidad de las obras para solicitar su reposición;
-
-III. Verificar y evaluar que los sistemas de control de calidad, llevados a cabo por laboratorios externos acreditados ante la Secretaría, garanticen el cumplimiento fijado en las normas de calidad en los materiales utilizados en las obras, y en su caso dictaminar sobre la falta de calidad de las obras para solicitar su reposición;
-
-IV. Desarrollar las demás funciones que expresamente le encomiende el Secretario y/o Subsecretario, y las demás que se señalen en el manual de organización de la Secretaría.
+(DEROGADO, P.O. 9 DE ABRIL DE 2005)
 
 ###### Artículo 35.
 
-Las funciones del Departamento de Proyectos estarán contenidas en el Manual de Organización de la Secretaría.
+(DEROGADO, P.O. 9 DE ABRIL DE 2005)
 
 ###### Artículo 36.
 
@@ -641,7 +739,9 @@ Corresponde a la Unidad de Normatividad:
 
 I. Asesorar jurídicamente a la Secretaría en el ejercicio de sus funciones en la observación de las normas y lineamientos aplicables;
 
-II. Atender los trámites jurídicos derivados de los juicios de amparo, procedimientos civiles, administrativos, así como las querellas y denuncias que se presenten por la Dirección General Jurídica de la Secretaría General de Gobierno inherentes a la dependencia;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+II. Atender los trámites jurídicos derivados de los juicios de amparo, procedimientos civiles, administrativos, así como las querellas y denuncias que se presenten por las Instancias competentes;
 
 III. Participar en la integración de los expedientes de expropiación, invasión al derecho de vía de las carreteras de jurisdicción estatal, rescisiones administrativas de contratos de obra pública, y procedimientos para aplicación de sanciones;
 
@@ -665,7 +765,9 @@ XII. Mantener informado al Secretario sobre los resultados obtenidos de las revi
 
 XIII. Enterar al personal de la Secretaría sobre las responsabilidades administrativas y el cumplimiento de la obligación de presentar oportunamente la declaración de su situación patrimonial ante la Secretaría de la Contraloría General, como lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit;
 
-XIV. Instrumentar las actas administrativas con motivo de incidencias que se susciten con los trabajadores adscritos a la dependencia, por negligencias en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XIV.- Celebrar las actas administrativas que se requieran por irregularidades administrativas, que se detecten por actos de los servidores públicos adscritos a la dependencia, o por incidencias que se deriven del ejercicio de las atribuciones que las leyes aplicables le confieren a la Secretaría;
 
 XV. Verificar que los actos de entrega y recepción que realicen los servidores públicos, se apeguen a la normatividad vigente en la materia;
 
@@ -683,9 +785,15 @@ XXI. Coordinar la elaboración de los convenios modificatorios que se deriven de
 
 XXII. Vigilar la actualización del catálogo de precios unitarios y el registro de contratistas, y coordinar las acciones del Comité de Obra Pública;
 
-XXIII. Vigilar que las autorizaciones de precios extraordinarios que soliciten las áreas ejecutoras, y los ajustes de costos que presenten los contratistas, se realicen apegados a la normatividad; así como la dictaminación de los gastos no recuperables que hagan valer los contratistas; y
+XXIII. Vigilar que las autorizaciones de precios extraordinarios que soliciten las áreas ejecutoras, y los ajustes de costos que presenten los contratistas, se realicen apegados a la normatividad; así como la dictaminación de los gastos no recuperables que hagan valer los contratistas; y (sic)
 
-XXIV. Las demás que le encomiende expresamente el Secretario y/o Subsecretario.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXIV. Proponer al Secretario la resolución de ajuste de costos solicitados por las áreas ejecutoras, con motivo de la ejecución de los contratos de obra pública, de acuerdo a la documentación proporcionada por éstas y a la Ley de la materia, ya sea federal o estatal, lineamientos, normatividad y disposiciones aplicables, así como los dictámenes de gastos no recuperables que se generen;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+XXV. Las demás que le encomiende expresamente el Secretario y lo Subsecretario.
 
 ###### Artículo 37.
 
@@ -711,7 +819,9 @@ V. Elaborar los convenios modificatorios que se deriven de los contratos de obra
 
 VI. Autorizar los precios extraordinarios que soliciten las áreas ejecutoras;
 
-VII. Revisar y dictaminar con apego a las normas aplicables, los ajustes de costos y gastos no recuperables que presenten los contratistas, con motivo de la ejecución de los contratos de obras públicas y servicios relacionados con las mismas, para someterlos a la aprobación del COPLADE; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+VII. Analizar, elaborar el proyecto de resolución de ajuste de costos solicitados por las áreas ejecutoras, con motivo de la ejecución de los contratos de obra pública, de acuerdo a la documentación proporcionada por éstas y a la Ley de la materia, ya sea federal o estatal, lineamientos, normatividad y disposiciones aplicables, así como el dictamen de gastos no recuperables que soliciten las áreas ejecutoras;
 
 VIII. Desarrollar las demás funciones que expresamente le encomiende el Secretario y/o Subsecretario, y las demás que se señalen en el manual de organización de la Secretaría.
 
@@ -723,17 +833,33 @@ I. Asesorar jurídicamente a la Secretaría en el ejercicio de sus funciones en 
 
 II. Atender los informes justificados y previos que se deriven de los juicios de amparo, así como defender los intereses jurídicos en los procedimientos administrativos, agrarios y civiles instaurados en contra del Poder Ejecutivo del Estado;
 
-III. Presentar las denuncias por actos ilícitos que afecten los intereses jurídicos de la Secretaría, así como elaborar y dar seguimientos a las querellas que se presenten por la Dirección General Jurídica de la Secretaría General de Gobierno inherentes a la dependencia;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
 
-IV. Desahogar los procedimientos administrativos de rescisión de contratos de obra pública que soliciten las áreas ejecutoras por incumplimiento a la Ley de Obra Pública del Estado de Nayarit y Ley de Obras Públicas y Servicios Relacionados con las Mismas, según sea el origen de los recursos, así como a las cláusulas del contrato de obra pública;
+III. Presentar las denuncias por actos ilícitos que afecten los intereses jurídicos de la Secretaría, así como elaborar y dar seguimientos a las querellas que se presenten por las instancias competentes;
 
-V. Desahogar los procedimientos administrativos de imposición de Sanciones a los fraccionamientos que no cumplan con la normativa de acuerdo a las atribuciones que confiere la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y La Ley de Asentamientos Humanos y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
 
-VI. Desahogar los procedimientos administrativos por invasión al derecho de vía de las carreteras de jurisdicción estatal y federales administradas por el Gobierno del Estado;
+IV. Sustanciar los procedimientos administrativos de rescisión de contratos de obra pública que soliciten las áreas ejecutoras por incumplimiento a la Ley de Obra Pública del Estado de Nayarit y Ley de Obras Públicas y Servicios Relacionados con las Mismas, según sea el origen de los recursos, así como a las cláusulas del contrato de obra pública;
 
-VII. Instrumentar las áreas administrativas con motivo de incidencias que se susciten con los trabajadores adscritos a la dependencia, por negligencias en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
 
-VIII. Desarrollar las demás funciones que expresamente le encomiende el Secretario y/o Subsecretario, y las demás que se señalen en el manual de organización de la Secretaría.
+V. Sustanciar los procedimientos administrativos de imposición de sanciones a los fraccionamientos que no cumplan con la normativa de acuerdo a las atribuciones que confiere la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y La Ley de Asentamientos Humanos y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+VI. Sustanciar los procedimientos administrativos por invasión al derecho de vía de las carreteras de jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+VII. Celebrar las actas administrativas que se requieran por irregularidades administrativas que se detecten por actos de los servidores públicos adscritos a la dependencia, o por incidencias que se deriven del ejercicio de las atribuciones que las leyes aplicables le confieren a la Secretaría;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+VIII. Tomar posesión de los trabajos ejecutados por los contratistas, cuando deriven de los procedimientos administrativos de rescisión de contrato, que les sean instaurados por incumplimiento a la Leyes de la materia, a los contratos respectivos, o por terminación anticipada del contrato;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2005)</small>
+
+IX. Desarrollar las demás funciones que expresamente le encomiende el Secretario y/o Subsecretario, y las demás que se señalen en el Manual de Organización de la Secretaría.
 
 ### CAPÍTULO VI. DE LA COMISIÓN INTERNA DE ADMINISTRACIÓN Y PROGRAMACIÓN
 
@@ -798,3 +924,9 @@ CUARTO.- Aquellos asuntos que al entrar en vigor el presente reglamento se encue
 Dado en la Residencia Oficial del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, al primer día del mes de octubre del año 2003.
 
 Gobernador Constitucional del Estado, C.P. Antonio Echevarría Domínguez.- Rúbrica.- Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.- Secretario de Obras Públicas, Ing. José Vicente Romero Ruiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 9 DE ABRIL DE 2005
+
+ÚNICO.- El presente Decreto Administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
