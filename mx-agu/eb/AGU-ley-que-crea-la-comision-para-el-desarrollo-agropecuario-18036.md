@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-para-el-desarrollo-agropecuario-18036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-18"
-last_updated: "2001-11-26"
+last_updated: "2005-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA LA COMISION PARA EL DESARROLLO AGROPECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 18 de marzo de 1990.
 
@@ -55,29 +55,29 @@ COMISION.- La Comisión para el Desarrollo Agropecuario del Estado de Aguascalie
 
 ### CAPITULO SEGUNDO. De las Atribuciones y Funciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 2o.
 
-La Comisión, tendrá por objeto brindar asesoría y apoyo a los productores agropecuarios y forestales de la Entidad, para lo cual fomentará en todo momento su organización, capacitación, crédito, asistencia técnica, estadística e información, investigación, ejecución de obras, la realización de programas especiales que contribuyan al incremento de la producción y productividad, el desarrollo de esquemas de comercialización e impulso a la industrialización agropecuaria.
+La Comisión, tendrá por objeto brindar asesoría y apoyo a los productores agropecuarios de la Entidad, para lo cual fomentará en todo momento. su organización, capacitación, crédito, asistencia técnica, estadística e información, investigación, ejecución de obras, la realización de programas especiales que contribuyan al incremento de la producción y productividad, el desarrollo de esquemas de comercialización e impulso a la industrialización agropecuaria.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
 
 Para el logro de sus objetivos, la comisión contará con las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-I.- Formular y ejecutar programas y proyectos de desarrollo agropecuario y forestal, conforme a la normatividad señalada por el Plan Estatal de Desarrollo y las directrices que establezca el Consejo de Administración;
+I.- Formular y ejecutar programas y proyectos de desarrollo agropecuario conforme a la normatividad señalada por el Plan Estatal de Desarrollo y las directrices que establezca el Consejo de Administración;
 
 II.- Coordinarse en (sic) las autoridades federales, estatales y municipales y con los productores en todo lo relacionado con las actividades agropecuarias en el Estado;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-III.- Difundir las técnicas y procedimientos, así como los avances científicos, que coadyuven a que los sectores ganadero, agrícola y forestal en la Entidad puedan desenvolverse en un marco de mayor eficiencia y eficacia;
+III.- Difundir las técnicas y procedimientos, así como los avances científicos, que coadyuven a que los sectores ganadero y agrícola en la Entidad puedan desenvolverse en un marco de mayor eficiencia y eficacia;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-IV.- Apoyar y coordinar las campañas permanentes de prevención, manejo, control y combate de plagas y enfermedades que atacan a los cultivos y especies ganaderas y forestales;
+IV.- Apoyar y coordinar las campañas permanentes de prevención, manejo, control y combate de plagas y enfermedades que atacan a las especies ganaderas;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
@@ -97,35 +97,35 @@ VIII.- Elaborar estudios técnicos y ejecutar obras de apoyo a la producción ag
 
 IX.- Apoyar a productores agropecuarios sujetos de crédito, con proyectos viables en la obtención de financiamiento para la producción, distribución, industrialización y comercialización de productos agropecuarios, ante las instituciones crediticias y organizaciones auxiliares, así como gestionar avales para el desarrollo de los productores y que éstos realicen sus actividades en mejores condiciones.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-X.- Formular y ejecutar programas de financiamiento en apoyo a productores agropecuarios y forestales del Estado, dirigido al incremento en la producción agropecuaria de acuerdo con la política del Plan Estatal de Desarrollo y las directrices que juzgue convenientes el Consejo de Administración;
+X.- Formular y ejecutar programas de financiamiento en apoyo a productores agropecuarios del Estado, dirigido al incremento en la producción agropecuaria de acuerdo con la política del Plan Estatal de Desarrollo y las directrices que juzgue convenientes el Consejo de Administración;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-XI.- Formular y desarrollar programas de capacitación dirigidos a los productores agropecuarios y forestales del Estado, con el fin de mejorar sus conocimientos técnicos y administrativos en el manejo de sus unidades de producción;
+XI.- Formular y desarrollar programas de capacitación dirigidos a los productores agropecuarios del Estado, con el fin de mejorar sus conocimientos técnicos y administrativos en el manejo de sus unidades de producción;
 
 XII.- Apoyar la constitución, organización y el debido funcionamiento de asociaciones, sociedades, grupos, uniones de ejidos, y otras modalidades de agrupaciones de productores agrícolas y ganaderos en el Estado, que les permita la defensa de sus intereses y su mejoramiento económico;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-XIII.- Apoyar los procesos de comercialización e industrialización de la producción agrícola, pecuaria y forestal del Estado encaminada a incrementar su valor agregado;
+XIII.- Apoyar los procesos de comercialización e industrialización de la producción agrícola y pecuaria y del Estado encaminada a incrementar su valor agregado;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-XIV.- Celebrar convenios de cooperación y/o coordinación con dependencias y organismos del sector público y privado y con instituciones académicas y de investigación, con el propósito de ampliar la disponibilidad de recursos para beneficio de los productores agrícolas, ganaderos y forestales del Estado;
+XIV.- Celebrar convenios de cooperación y/o coordinación con dependencias y organismos del sector público y privado y con instituciones académicas y de investigación, con el propósito de ampliar la disponibilidad de recursos para beneficio de los productores agrícolas y ganaderos del Estado;
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
 
 XV.- Desarrollar y ejecutar programas de investigación aplicada y transferencia de tecnología acordes a las condiciones del Estado, tendientes a incrementar los índices de producción y productividad, así como mejorar la sanidad de plantas y animales y la conservación de los recursos suelo y agua;
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-XVI.- Procesar y difundir la información estadística y geográfica referente a las actividades agrícolas, ganaderas y forestales del Estado; así como difundir todo tipo de información que impulse el desarrollo del Sector Agropecuario y forestal del Estado;
+XVI.- Procesar y difundir la información estadística y geográfica referente a las actividades agrícolas y ganaderas del Estado; así como difundir todo tipo de información que impulse el desarrollo del Sector Agropecuario del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-XVII.- Crear órganos auxiliares desconcentrados que fortalezcan el desarrollo de las actividades agrícolas, pecuarias y forestales del Estado;
+XVII.- Crear órganos auxiliares desconcentrados que fortalezcan el desarrollo de las actividades agrícolas y pecuarias del Estado;
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
 
@@ -235,9 +235,9 @@ El Coordinador Estatal de la Dirección General de Escuelas Tecnológicas Agrope
 
 Para el logro de sus objetivos, el Consejo Consultivo contará con las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-I.- Coadyuvar con la Dirección General en la formulación, seguimiento y evaluación de los planes y programas de Desarrollo Agropecuario y Forestal del Estado;
+I.- Coadyuvar con la Dirección General en la formulación, seguimiento y evaluación de los planes y programas de Desarrollo Agropecuario del Estado;
 
 II.- Proponer las adecuaciones pertinentes a los planes y programas de la Comisión a fin de hacerlos compatibles con los programas, normas y políticas de los gobiernos federal y municipal, y
 
@@ -340,3 +340,21 @@ UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicació
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrara en vigor a partir del 1o. de enero del año 2002.
+
+P.O. 11 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Consejo Directivo del Instituto deberá quedar constituido dentro del término de quince días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+TERCERO.- El Director General del Instituto será nombrado en los términos previstos en la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, dentro de un plazo no mayor a treinta días hábiles siguientes a la integración del Consejo Directivo.
+
+CUARTO.- El Reglamento Interior del Instituto deberá ser expedido y publicado en el Periódico Oficial del Estado, en un plazo no mayor de ciento veinte días hábiles contados a partir de la fecha en que sea instalado el Consejo Directivo.
+
+QUINTO.- La Subsecretaría de Ecología transfiere al Instituto del Medio Ambiente del Estado de Aguascalientes el personal de base que continúe laborando a su servicio de las áreas respectivas de la reestructura, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, máquinas, archivos y, en general, el equipo que hayan venido usando las áreas reestructuradas de la Secretaría de Desarrollo Social, hasta antes de la entrada en vigor del presente Decreto.
+
+SEXTO.- Las facultades en materia de ecología de la Secretaría de Desarrollo Social se transfieren al Instituto, una vez entrado en vigor el presente Decreto.
+
+SEPTIMO.- Deberán adecuarse los ordenamientos legales correspondientes en un plazo no mayor de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO.- Los asuntos que se encuentren en trámite ante la Subsecretaría de Ecología de la Secretaría de Desarrollo Social, continuarán su trámite ante el Instituto del Medio Ambiente del Estado de Aguascalientes, sin que ello afecte su validez.
