@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2005-03-21"
+last_updated: "2005-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2005.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -579,7 +579,9 @@ XII.- Intervenir con las dependencias y entidades de la Administración Pública
 
 XIII.- Participar en la gestión y promoción de financiamientos para la realización de las obras y servicios públicos;
 
-XIV.- Participar con la SEDESO y los Ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas y la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+XIV.- Participar con el Instituto del Medio Ambiente y los Ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas y la prestación de los servicios públicos;
 
 XV.- Apoyar y asesorar a los Ayuntamientos que lo soliciten, en la construcción, conservación, operación y administración de los sistemas de agua potable y alcantarillado;
 
@@ -4775,7 +4777,7 @@ El Ayuntamiento, con los recursos derivados de las garantías, ejecutará direct
 
 En el caso de que dichos recursos sean insuficientes para ejecutar las obras de urbanización, el fraccionador o promovente estará obligado a sufragar los recursos que sean necesarios.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 458.
 
@@ -7152,3 +7154,21 @@ CUARTO.- Cuando la competencia de alguna dependencia o entidad establecida con a
 QUINTO.- El Poder Ejecutivo contará con ciento ochenta días naturales, contados a partir del día siguiente de la publicación de este Decreto, para la expedición del Reglamento Interior respectivo.
 
 SEXTO.- Las bases normativas, acuerdos, manuales de procedimientos utilizados y actos jurídicos celebrados por la Coordinadora de Turismo para el Estado de Aguascalientes, en materia de turismo, a la entrada en vigor del presente Decreto serán competencia exclusiva de la Secretaría de Turismo.
+
+P.O. 11 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Consejo Directivo del Instituto deberá quedar constituido dentro del término de quince días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+TERCERO.- El Director General del Instituto será nombrado en los términos previstos en la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, dentro de un plazo no mayor a treinta días hábiles siguientes a la integración del Consejo Directivo.
+
+CUARTO.- El Reglamento Interior del Instituto deberá ser expedido y publicado en el Periódico Oficial del Estado, en un plazo no mayor de ciento veinte días hábiles contados a partir de la fecha en que sea instalado el Consejo Directivo.
+
+QUINTO.- La Subsecretaría de Ecología transfiere al Instituto del Medio Ambiente del Estado de Aguascalientes el personal de base que continúe laborando a su servicio de las áreas respectivas de la reestructura, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, máquinas, archivos y, en general, el equipo que hayan venido usando las áreas reestructuradas de la Secretaría de Desarrollo Social, hasta antes de la entrada en vigor del presente Decreto.
+
+SEXTO.- Las facultades en materia de ecología de la Secretaría de Desarrollo Social se transfieren al Instituto, una vez entrado en vigor el presente Decreto.
+
+SEPTIMO.- Deberán adecuarse los ordenamientos legales correspondientes en un plazo no mayor de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO.- Los asuntos que se encuentren en trámite ante la Subsecretaría de Ecología de la Secretaría de Desarrollo Social, continuarán su trámite ante el Instituto del Medio Ambiente del Estado de Aguascalientes, sin que ello afecte su validez.
