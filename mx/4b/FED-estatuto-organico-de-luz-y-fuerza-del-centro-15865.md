@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-luz-y-fuerza-del-centro-15865"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-03-21"
-last_updated: "2000-03-21"
+last_updated: "2005-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15865&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-11-24"
 
 ESTATUTO ORGANICO DE LUZ Y FUERZA DEL CENTRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2005.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 21 de marzo de 2000.
 
@@ -59,6 +59,8 @@ COMISARIO PUBLICO: El representante que al efecto nombre la Secretaría de Contr
 
 SINDICATO: Sindicato titular del Contrato Colectivo de Trabajo.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 3.
 
 Para el estudio, planeación, desarrollo, atención y ejecución de los asuntos y proyectos que competan al Organismo, éste contará con:
@@ -71,25 +73,25 @@ III. Unidad de Relaciones Institucionales y Comunicación Social;
 
 IV. Unidad de Asuntos Jurídicos;
 
-V. Contraloría Interna;
+V. Subdirección de Finanzas;
 
-VI. Subdirección de Finanzas;
+VI. Subdirección de Recursos Humanos;
 
-VII. Subdirección de Recursos Humanos;
+VII. Subdirección de Planeación Estratégica;
 
-VIII. Subdirección de Planeación Estratégica;
+VIII. Subdirección de Producción;
 
-IX. Subdirección de Producción;
+IX. Subdirección de Distribución y Comercialización;
 
-X. Subdirección de Distribución y Comercialización;
+X. Subdirección de Abastecimiento y Transportes;
 
-XI. Subdirección de Abastecimiento y Transportes;
+XI. Subdirección de Construcción;
 
-XII. Subdirección de Construcción;
+XII. Subdirección de Servicios Técnicos;
 
-XIII. Subdirección de Servicios Técnicos, y
+XIII. Subdirección de Fábricas y Talleres;
 
-XIV. Subdirección de Fábricas y Talleres.
+El Organismo contará con un Organo Interno de Control que quedará conformado de acuerdo con el artículo 22 de este Estatuto.
 
 ###### ARTICULO 4.
 
@@ -164,6 +166,44 @@ XV. Analizar y aprobar, en su caso, los informes periódicos que rinda el Direct
 XVI. Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, en las instrucciones de la Secretaría de Energía, y
 
 XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Organismo cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Secretaría de Energía.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 11 Bis.
+
+Serán facultades del Secretario y Prosecretario de la Junta de Gobierno, las siguientes:
+
+El Secretario y el Prosecretario de la Junta de Gobierno asistirán a las sesiones de la misma, con voz pero sin voto.
+
+El Secretario tendrá las siguientes funciones:
+
+1. Convocar a las sesiones de la Junta de Gobierno;
+
+2. Elaborar la lista de asistencia y cerciorarse de la existencia del quórum requerido para sesionar;
+
+3. Elaborar las actas de las sesiones de la Junta de Gobierno;
+
+4. Comunicar al Director General del Organismo los acuerdos adoptados por la Junta de Gobierno, con copia al Presidente del mismo, debiendo conservar en el archivo del referido órgano colegiado el original de los acuerdos para estar en posibilidad de expedir las constancias que se requieran;
+
+5. Llevar el registro de los acuerdos adoptados en las sesiones;
+
+6. Expedir las constancias que se soliciten acerca de los acuerdos que se adopten y de las actas de las sesiones de la Junta de Gobierno;
+
+7. Imprimir en los folios autorizados las actas de la Junta de Gobierno y firmarlas, así como obtener las firmas del Presidente y del Prosecretario, en su caso;
+
+8. Ordenar la encuadernación de los folios en forma de libros;
+
+9. Resguardar los libros de actas;
+
+10. Conservar el archivo de la Junta de Gobierno;
+
+11. Protocolizar ante notario público las actas de la Junta de Gobierno que así lo requieran;
+
+12. Integrar y mantener actualizado el registro de los domicilios oficiales de los miembros de la Junta de Gobierno, de sus suplentes y de los invitados permanentes, así como el de los comisarios públicos, y
+
+13. Las demás que le señale la Junta de Gobierno.
+
+En ausencia del Secretario, el Prosecretario tendrá las mismas funciones. Sin embargo, el Prosecretario podrá convocar a sesiones de la Junta de Gobierno, comunicar acuerdos al Director General del Organismo, protocolizar ante notario público las actas del referido órgano colegiado y expedir constancias, comunicaciones y cualquier otra correspondencia, cuando alguna situación así lo requiera, aun no estando ausente el Secretario, siempre y cuando éste sea informado oportunamente.
 
 ###### ARTICULO 12.
 
@@ -311,159 +351,63 @@ X. Supervisar los actos y operaciones que requieran formalización ante fedatari
 
 XI. Las demás que determinen otras disposiciones aplicables, la Dirección General o la Junta de Gobierno.
 
-## TITULO SEXTO. Del Organo Interno de Control o Contraloría Interna
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE ABRIL DE 2005)</small>
+
+## TITULO SEXTO. Del Organo Interno de Control
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 21 Bis.
+
+El Organismo contará con un Organo Interno de Control, que tendrá las siguientes áreas: de Responsabilidades; de Auditoría Interna; de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, y de Quejas.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 22.
 
-La Contraloría Interna será parte integrante de la estructura del Organismo. Sus acciones tendrán por objeto apoyar la función directiva de Luz y Fuerza del Centro y promover el mejoramiento de gestión del propio Organismo, coadyuvando a la consecución de los niveles de eficiencia, eficacia y productividad.
+El Organismo tendrá integrado a su estructura un Organo Interno de Control, al frente del cual estará un Titular, designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien, para el ejercicio de las facultades que le han sido atribuidas, se auxiliará por los Titulares de las Areas de Responsabilidades; de Auditoría Interna; de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno; y de Quejas, designados en los términos de la fracción XII del artículo 37 ya referido en este mismo párrafo.
+
+Los servidores públicos a que se refiere el párrafo anterior en el ámbito de sus respectivas competencias, ejercerán las facultades que les confieren la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales aplicables, conforme a lo previsto en los artículos 63 y 64 del Reglamento Interior de la Secretaría de la Función Pública.
+
+Las atribuciones y facultades conferidas por la fracción I del artículo 64 mencionado en el párrafo que antecede, se ejercerán por el Titular del Area de Responsabilidades.
+
+Las atribuciones y facultades conferidas por la fracción II inciso a) del artículo 64 mencionado en los dos párrafos que anteceden, se ejercerán por el Titular del Area de Auditoría Interna.
+
+Las atribuciones y facultades conferidas por la fracción II del inciso b) del artículo 64 mencionado en los tres párrafos que anteceden, se ejercerán por el Titular del Area de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno.
+
+Las atribuciones y facultades conferidas en la fracción III del artículo 64 mencionado en los cuatro párrafos anteriores, se ejercerán por el Titular del Area de Quejas.
 
 ###### ARTICULO 23.
 
-La Contraloría Interna desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de Contraloría y Desarrollo Administrativo la cual nombrará a su titular y a los de las áreas de auditoría, quejas y responsabilidades.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ESTATUTO, D.O.F. 11 DE ABRIL DE 2005)
 
 ###### ARTICULO 24.
 
-La Contraloría Interna en Luz y Fuerza del Centro desarrollará sus funciones de acuerdo con las bases referidas en el artículo 62 de la Ley Federal de las Entidades Paraestatales siendo dichas funciones, las siguientes:
-
-I. Planear, organizar y coordinar el Sistema Integral de Control y Evaluación de la Gestión Pública, así como verificar y vigilar el grado de economía y eficiencia de la administración de los recursos y la efectividad con que se alcanzan las metas y objetivos institucionales y vigilar el cumplimiento de las normas de control que expida la Secretaría de Contraloría y Desarrollo Administrativo;
-
-II. Coordinar la elaboración y supervisar la ejecución del Programa Anual de Control y Auditoría, en apego a los lineamientos establecidos por la SECODAM, reportando los resultados de las revisiones a los titulares de las áreas y a la propia Secretaría, a través de los reportes del Sistema de Información Periódica;
-
-III. Vigilar en apego a la normatividad, lineamientos y marco legal aplicable las acciones sobre aspectos relevantes de la operación del Organismo, tales como: elaboración y modificación del presupuesto, desarrollo de programas prioritarios, obra pública, adquisiciones, adecuación de la estructura orgánica-funcional; así como de aquellas transacciones que resulten trascendentales o representen ingresos o egresos significativos para el Organismo y sobre las acciones de modernización y simplificación administrativa, entre otras;
-
-IV. Proporcionar a la SECODAM la información necesaria para el adecuado ejercicio de sus atribuciones;
-
-V. Coordinar con las diversas instancias externas a Luz y Fuerza del Centro (tales como Contaduría Mayor de Hacienda, Secretaría de Energía y Auditores Externos), las acciones que sean necesarias para el control y vigilancia de las normas, lineamientos y leyes establecidas;
-
-VI. Coordinar la formulación de los anteproyectos de programas y presupuesto del Organo Interno de Control, proponiendo las adecuaciones para el correcto ejercicio del mismo;
-
-VII. Requerir a las Unidades Administrativas del Organismo, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que se requiera en el ámbito de su competencia;
-
-VIII. Vigilar la actualización del Padrón de Servidores Públicos del Organismo, así como el cumplimiento que conlleva la presentación de su declaración patrimonial;
-
-IX. Recibir, tramitar y dictaminar, en su caso, con sujeción a lo dispuesto por el artículo 77 bis de la Ley Federal de Responsabilidades de los Servidores Públicos, las solicitudes de los particulares relacionadas con servidores públicos de Luz y Fuerza del Centro, al que se le comunicará el dictamen para que reconozcan, si así lo determinan, la responsabilidad de indemnizar la reparación del daño en cantidad líquida y ordenar el pago correspondiente;
-
-X. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos de Luz y Fuerza del Centro, dándoles el debido seguimiento, investigando y fincando las responsabilidades a que hubiere lugar, asimismo se impondrán las sanciones aplicables en los términos de ley;
-
-XI. Calificar y constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento;
-
-XII. Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos de Luz y Fuerza del Centro, así como los de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Adquisiciones y Obras Públicas que competa conocer al titular del Area de Responsabilidades e Inconformidades;
-
-XIII. Llevar a cabo la defensa jurídica de las resoluciones que emita ante las diversas instancias jurisdiccionales, por sí o a través de las áreas sustantivas del Organo Interno de Control, en los términos de sus respectivas competencias, representando al titular de la Secretaría de Contraloría y Desarrollo Administrativo;
-
-XIV. Expedir las certificaciones de los documentos que obren en los archivos del Organo Interno de Control;
-
-XV. Denunciar ante las autoridades competentes los hechos de que tengan conocimiento y puedan ser constitutivos de delitos, instando a la Unidad de Asuntos Jurídicos de Luz y Fuerza del Centro, a iniciar cualquier proceso de carácter civil, penal y/o laboral en contra de servidores públicos del Organismo a los que se les hayan determinado responsabilidades administrativas que conlleven presuntas sanciones de tipo penal y/o laboral;
-
-XVI. Participar como Secretario Técnico en las sesiones del Comité de Control y Auditoría; de igual forma participar en carácter de asesoría en los comités y/o comisiones a las que sea convocado, y
-
-XVII. Las demás que le atribuya expresamente el titular de la Secretaría de Contraloría y Desarrollo Administrativo y aquellas que le confieran las leyes y reglamentos al Organo Interno de Control.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ESTATUTO, D.O.F. 11 DE ABRIL DE 2005)
 
 ### CAPITULO I. De la Gerencia de Auditoría a Unidades Corporativas y de Negocios y Servicios
 
 ###### ARTICULO 25.
 
-La Gerencia de Auditoría a Unidades Corporativas y de Negocios y Servicios tendrá las siguientes funciones:
-
-I. Elaborar, supervisar y ejecutar el Programa Anual de Control y Auditoría, en cada una de las áreas de la entidad, de conformidad a las normas establecidas por la SECODAM, y remitirlo a la coordinación para su integración, reportando los resultados de las revisiones, en apego a los lineamientos establecidos por la SECODAM;
-
-II. Verificar el adecuado manejo de los recursos humanos, materiales y financieros y el ejercicio del presupuesto, así como coordinar las acciones para vigilar el establecimiento y adopción de mecanismos de autoevaluación en cada una de las Unidades Corporativas y de Negocios y Servicios de LyFC;
-
-III. Vigilar el apego a la normatividad, lineamientos y leyes aplicables; de las acciones para la toma de decisiones, sobre aspectos relevantes de la operación en las áreas corporativas, de negocios y servicios, comprendiendo la planeación, programación, presupuestación, ejecución, registro, modernización y simplificación administrativa;
-
-IV. Coordinar con las diversas instancias externas de fiscalización a Luz y Fuerza del Centro, las acciones que sean necesarias para el control y vigilancia de las normas, lineamientos y leyes establecidas;
-
-V. Comprobar que existan y funcionen adecuadamente y, en su caso, propiciar la implantación de los sistemas de control, evaluando la suficiencia y efectividad en la protección de los recursos, en la obtención de información, en la adhesión a las políticas dictadas para regular y orientar el funcionamiento de las áreas auditadas y, en general, en la promoción de la eficiencia;
-
-VI. Supervisar en cada una de las unidades corporativas y de negocios y servicios de la entidad, a fin de dar seguimiento a las recomendaciones derivadas de observaciones dictaminadas por instancias de fiscalización.
-
-VII. Verificar que los sistemas de registro y control de LyFC generen información oportuna y veraz;
-
-VIII. Formular los anteproyectos de programas y presupuesto en el ámbito de su competencia y remitirlo a la coordinación para su integración;
-
-IX. Requerir a las áreas de la entidad la información necesaria para cumplir con sus atribuciones y brindar la asesoría que se requiera en el ámbito de su competencia, y
-
-X. Las demás que le atribuya expresamente el titular del Organo Interno de Control en Luz y Fuerza del Centro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ESTATUTO, D.O.F. 11 DE ABRIL DE 2005)
 
 ### CAPITULO II. De la Gerencia de Auditoría Técnica y de Construcción
 
 ###### ARTICULO 26.
 
-La Gerencia de Auditoría Técnica y de Construcción tendrá las funciones siguientes:
-
-I. Verificar el adecuado manejo de los recursos y el ejercicio del presupuesto en las áreas técnicas y de construcción de LyFC;
-
-II. Elaborar, supervisar y ejecutar el Programa Anual de Control y Auditoría en el ámbito técnico y de obra pública de su competencia y remitirlo a la coordinación para su integración, reportando los resultados de las revisiones, en apego a los lineamientos establecidos por la SECODAM;
-
-III. Vigilar el apego a la normatividad, especificaciones, lineamientos y leyes aplicables; de las acciones para la toma de decisiones, sobre aspectos técnicos y obra pública, comprendiendo la planeación, programación, presupuestación, ejecución, operación, mantenimiento, registro, simplificación y modernización;
-
-IV. Coordinar con las diversas instancias externas de fiscalización a Luz y Fuerza del Centro las acciones que sean necesarias para el control y vigilancia de las normas, lineamientos y leyes establecidas en el ámbito técnico;
-
-V. Analizar los procedimientos establecidos en las subdirecciones de la entidad, vigilando el apego a especificaciones técnicas y normatividad, considerando las etapas de planeación, programación, presupuestación, ejecución, operación, mantenimiento y registro, desde el punto de vista técnico, en el sistema eléctrico y obra pública de LyFC;
-
-VI. Promover la actualización o elaboración de normatividad interna y especificaciones, así como el de la optimización de procesos y procedimientos en las áreas técnicas de la entidad;
-
-VII. Supervisar a las áreas técnicas de la entidad, a fin de dar seguimiento a las recomendaciones derivadas de observaciones técnicas;
-
-VIII. Formular los anteproyectos de programas y presupuesto en el ámbito de su competencia y remitirlo a la coordinación para su integración;
-
-IX. Requerir a las áreas de la entidad la información necesaria para cumplir con sus atribuciones y brindar la asesoría que se requiera en el ámbito de su competencia, y
-
-X. Las demás que le atribuya expresamente el titular del Organo Interno de Control en Luz y Fuerza del Centro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ESTATUTO, D.O.F. 11 DE ABRIL DE 2005)
 
 ### CAPITULO III. De la Gerencia de Evaluación de la Gestión
 
 ###### ARTICULO 27.
 
-La Gerencia de Evaluación de la Gestión tendrá las siguientes funciones:
-
-I. Propiciar y evaluar las acciones en materia de modernización y desarrollo administrativo, vigilar la atención de los lineamientos complementarios que se requieran para su operación, con base en los que para tal efecto expida la SECODAM;
-
-II. Elaborar, supervisar y ejecutar el Programa Anual de Control y Auditoría, en cada una de las áreas de la entidad, de conformidad a las normas establecidas por la SECODAM, reportando los resultados de las revisiones, en apego a los lineamientos establecidos por la SECODAM;
-
-III. Integrar y verificar el cumplimiento del Programa Anual de Control y Auditoría, de conformidad a las normas establecidas por la SECODAM, evaluando cuantitativa y cualitativamente la calidad de las auditorías e intervenciones realizadas, reportando al Contralor Interno;
-
-IV. Vigilar el apego a la normatividad, lineamientos y leyes aplicables; de las acciones para la toma de decisiones, sobre aspectos de gestión, comprendiendo la planeación, programación, presupuestación, ejecución, registro, modernización y simplificación administrativa;
-
-V. Coordinar con las diversas instancias externas de fiscalización a Luz y Fuerza del Centro las acciones que sean necesarias para el control y vigilancia de las normas, lineamientos y leyes establecidas;
-
-VI. Promover las acciones para el establecimiento y adopción de mecanismos de autoevaluación por parte y en cada una de las unidades administrativas o áreas que integran Luz y Fuerza del Centro;
-
-VII. Evaluar el desempeño en la contraloría interna de los recursos humanos y las metas logradas, así como el cumplimiento de indicadores;
-
-VIII. Vigilar el comportamiento en la atención de las recomendaciones, derivadas de observaciones de instancias de fiscalización;
-
-IX. Formular los anteproyectos de programas y presupuesto en el ámbito de su competencia y remitirlo a la coordinación para su integración;
-
-X. Requerir a las áreas de la entidad la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que se requiera en el ámbito de su competencia, y
-
-XI. Las demás que le atribuya expresamente el titular del Organo Interno de Control en Luz y Fuerza del Centro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ESTATUTO, D.O.F. 11 DE ABRIL DE 2005)
 
 ### CAPITULO IV. De la Gerencia de Quejas, Denuncias, Inconformidades y Responsabilidades
 
 ###### ARTICULO 28.
 
-La Gerencia de Quejas, Denuncias, Inconformidades y Responsabilidades tendrá las funciones siguientes:
-
-I. Recibir y resolver las inconformidades interpuestas por los actos que contravengan lo previsto en la Ley de Adquisiciones y Obras Públicas, que le competa conocer, asimismo, deberá instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades en los términos de dicha ley, y someterlos a la consideración del titular del órgano interno de control;
-
-II. Coadyuvar en la recepción de quejas y denuncias que se formulen por incumplimiento de las obligaciones de los servidores públicos, y dar cumplimiento a los lineamientos y criterios técnicos que emita la SECODAM en materia de atención de quejas y denuncias;
-
-III. Iniciar e instruir el procedimiento de investigación a fin de determinar las responsabilidades a que hubiere lugar, dándoles el debido seguimiento, asimismo se impondrán las sanciones aplicables en los términos de ley;
-
-IV. Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos respecto de la imposición de sanciones administrativas;
-
-V. Coadyuvar a constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, sometiéndolos a la consideración del titular del órgano interno de control;
-
-VI. Conocer previamente a la presentación de una inconformidad, de las irregularidades que a juicio de los interesados se hayan cometido en los procedimientos de adjudicación de adquisiciones y servicios, así como de las obras públicas que lleven a cabo con la finalidad de que las mismas se corrijan cuando así proceda;
-
-VII. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones;
-
-VIII. Preparar la expedición de las certificaciones de los documentos que obren en los archivos del Organo Interno de Control, para firma del titular del mismo;
-
-IX. Reportar a la SECODAM el avance y el grado de atención de los asuntos recibidos, asimismo deberá llevar el registro de los asuntos que sean de su competencia, y
-
-X. Las demás que le atribuya expresamente el titular del Organo Interno de Control en Luz y Fuerza del Centro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ESTATUTO, D.O.F. 11 DE ABRIL DE 2005)
 
 ## TITULO SEPTIMO. De la Subdirección de Finanzas
 
@@ -527,9 +471,7 @@ VI. Supervisar el adecuado ejercicio del gasto mediante la información que le p
 
 VII. Coordinar la información presupuestal que permita la toma de decisiones para la gestión administrativa;
 
-VIII. Autorizar la elaboración de los planes de capacitación del área y promover
-
-el cumplimiento de los programas establecidos en la materia, y
+VIII. Autorizar la elaboración de los planes de capacitación del área y promover el cumplimiento de los programas establecidos en la materia, y
 
 IX. Desarrollar sistemas para el control del ejercicio en materia presupuestal, acordes con los lineamientos de las dependencias gubernamentales.
 
@@ -557,9 +499,7 @@ VIII. Vigilar y supervisar el cumplimiento de los programas de trabajo autorizad
 
 IX. Desarrollar sistemas para la adecuada administración de los recursos financieros;
 
-X. Autorizar la elaboración de los planes de capacitación del área y promover
-
-el cumplimiento de los programas establecidos en la materia, y
+X. Autorizar la elaboración de los planes de capacitación del área y promover el cumplimiento de los programas establecidos en la materia, y
 
 XI. Dar cumplimiento a las demás funciones que le asigne el Subdirector de Finanzas.
 
@@ -675,9 +615,7 @@ I. Normar en materia de prestaciones en el ámbito de Luz y Fuerza del Centro;
 
 II. Desarrollar políticas y procedimientos para el sistema de prestaciones;
 
-III. Elaborar e implantar planes estratégicos, programas, manuales de organización
-
-y procedimientos; sistemas de control y evaluación de las actividades de la Gerencia de Prestaciones;
+III. Elaborar e implantar planes estratégicos, programas, manuales de organización y procedimientos; sistemas de control y evaluación de las actividades de la Gerencia de Prestaciones;
 
 IV. Establecer mecanismos de integración que propicien, a nivel interno y externo, el óptimo desarrollo de las funciones que competen a la Gerencia de Prestaciones;
 
@@ -849,9 +787,7 @@ III. Administrar, la generación de productores independientes y cogeneradores q
 
 IV. Instrumentar procedimientos y acciones tendientes a reducir las pérdidas y el tiempo de interrupción por usuario, y mejora continua de la calidad del servicio a los clientes internos y externos de la Gerencia;
 
-V. Elaborar estudios de planeación de la operación a corto y mediano plazos
-
-de la Red Eléctrica de Potencia;
+V. Elaborar estudios de planeación de la operación a corto y mediano plazos de la Red Eléctrica de Potencia;
 
 VI. Promover y desarrollar las actualizaciones tecnológicas en materia de automatización, operación y estudios de la Red Eléctrica de Potencia;
 
@@ -889,9 +825,7 @@ VII. Respaldar la operación y atender anomalías y eventos especiales en el Sis
 
 VIII. Coordinar la recepción y puesta en servicio de ampliaciones y en nuevas instalaciones;
 
-IX. Administrar los recursos humanos, materiales y financieros de la gestión
-
-del mantenimiento;
+IX. Administrar los recursos humanos, materiales y financieros de la gestión del mantenimiento;
 
 X. Establecer planes y programas de capacitación y adiestramiento del personal operativo y de supervisión de la Gerencia, así como de seguridad, higiene y medio ambiente;
 
@@ -935,13 +869,9 @@ III. Dirigir y supervisar el desarrollo, aplicación de nuevos métodos, equipos
 
 IV. Consolidar la información de la operación de las redes y subestaciones de distribución de la entidad;
 
-V. Supervisar los sistemas de información a los diferentes niveles administrativos
+V. Supervisar los sistemas de información a los diferentes niveles administrativos del estado operativo del sistema de distribución en la entidad;
 
-del estado operativo del sistema de distribución en la entidad;
-
-VI. Facilitar los medios para la Administración de los trabajos de instalación, operación
-
-y mantenimiento del sistema de distribución, y
+VI. Facilitar los medios para la Administración de los trabajos de instalación, operación y mantenimiento del sistema de distribución, y
 
 VII. Establecer programas de capacitación permanente, orientadas hacia la calidad del servicio.
 
@@ -997,9 +927,7 @@ X. Ejercer las funciones que le encargue el Subdirector de Distribución y Comer
 
 ###### ARTICULO 52.
 
-La Gerencia Metropolitana Norte tendrá, además de las que le asigne
-
-el Subdirector de Distribución y Comercialización, las funciones siguientes:
+La Gerencia Metropolitana Norte tendrá, además de las que le asigne el Subdirector de Distribución y Comercialización, las funciones siguientes:
 
 I. Coordinar los procesos de distribución y comercialización;
 
@@ -1059,9 +987,7 @@ IV. Implantar y supervisar el cumplimiento de la normatividad establecida para l
 
 V. Asegurar el cumplimiento de metas y objetivos;
 
-VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante
-
-el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
+VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
 
 VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores; así como preservar el adecuado funcionamiento de las instalaciones;
 
@@ -1477,7 +1403,7 @@ Fabricar gabinetes de alta y baja tensión;
 
 Reparación y mantenimiento de transformadores, generadores, restauradores, reguladores, interruptores, seccionadores, controladores de capacitores, cuchillas, motores, etc.;
 
-> <small>(N. DE E. EL PRESENTE PARRAFO SE DUPLICA CON EL INMEDIATO SUPERIOR, EN SU TEXTO ORIGINAL PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION)</small>
+> <small>N. DE E. EL PRESENTE PARRAFO SE DUPLICA CON EL INMEDIATO SUPERIOR, EN SU TEXTO ORIGINAL PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION</small>
 
 Reparación y mantenimiento de transformadores, generadores, restauradores, reguladores, interruptores, seccionadores, controladores de capacitores, cuchillas, motores, etc.;
 
@@ -1523,17 +1449,23 @@ Por cada miembro propietario de la Junta, se nombrará un suplente, el cual lo s
 
 Las ausencias temporales del presidente de la Junta serán suplidas por el Director General de la Comisión Federal de Electricidad.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 75.
 
-El Director General del Organismo será suplido en sus ausencias temporales por el Subdirector que designe la Junta, a propuesta del propio Director.
+El Director General del Organismo será suplido en sus ausencias por el Subdirector de Finanzas y en ausencia de éste por el Subdirector de Planeación Estratégica y, exclusivamente para la firma de informes previos y justificados o de recursos relativos a juicios de amparo, por el Jefe de la Unidad de Asuntos Jurídicos.
+
+Para los mismos efectos, los subdirectores, gerentes y demás funcionarios en sus ausencias serán suplidos por el servidor público jerárquicamente inferior inmediato al que competa la materia del juicio de amparo de que se trate.
 
 ###### ARTICULO 76.
 
 El Jefe de la Unidad de Asuntos Jurídicos, Jefe de la Unidad de Relaciones Institucionales y Comunicación Social, los Subdirectores, Gerentes y Subgerentes, serán suplidos en sus ausencias temporales, por los servidores públicos de la jerarquía inmediata inferior que designe el Director, de acuerdo con la naturaleza de los asuntos.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 77.
 
-El titular de la Contraloría Interna en el Organismo será suplido conforme lo determine la Secretaría de Contraloría y Desarrollo Administrativo.
+Las ausencias y vacantes del Titular del Organo Interno de Control, así como las de los titulares de las áreas de responsabilidades; de Auditoría Interna; de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno; y de Quejas, serán suplidas conforme a lo previsto por el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTICULO 78.
 
@@ -1550,3 +1482,11 @@ TERCERO.- Los asuntos que se encuentren pendientes a la entrada en vigor de este
 CUARTO.- Conforme a lo dispuesto en el párrafo tercero del artículo 15 de la Ley Federal de las Entidades Paraestatales, este Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados, para los efectos a que haya lugar.
 
 Dado en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de noviembre de mil novecientos noventa y nueve, previa aprobación del mismo, en la 3a. sesión ordinaria de la Junta de Gobierno, celebrada los mismos día, mes y año.- El Presidente de la Junta de Gobierno, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de la Junta de Gobierno, Nicéforo Guerrero Reynoso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 11 DE ABRIL DE 2005.
+
+PRIMERO.- Las presentes Reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 23, 24, 25, 26, 27 y 28 del Estatuto Orgánico de Luz y Fuerza del Centro.
