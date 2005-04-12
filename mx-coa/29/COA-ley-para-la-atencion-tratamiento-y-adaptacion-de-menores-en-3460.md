@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-atencion-tratamiento-y-adaptacion-de-menores-en-346
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-14"
-last_updated: "1998-01-23"
+last_updated: "2005-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de junio de 1994.
 
@@ -47,9 +47,11 @@ LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUI
 
 La presente ley tiene por objeto reglamentar la función el Estado en la adaptación social de aquellos menores cuya conducta se encuentre tipificada en las leyes penales del Estado de Coahuila.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 2.
 
-En la aplicación de esta ley se deberá garantizar el irrestricto respeto a los derechos consagrados por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado. Se promoverá y vigilará la observancia de estos derechos por parte de los funcionarios responsables, procurando siempre la correcta aplicación de los medios legales y materiales pertinentes, para prevenir cualquier violación a los mismos y, en su caso, restituir al menor en su goce y ejercicio, sin perjuicio de que se aplique a quienes los conculquen, las sanciones señaladas por las leyes penales y administrativas.
+En la aplicación e interpretación de esta ley se estará al principio del interés superior de la infancia, se deberá garantizar el irrestricto respeto a los derechos consagrados por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado. Se promoverá y vigilará la observancia de estos derechos por parte de los funcionarios responsables, procurando siempre la correcta aplicación de los medios legales y materiales pertinentes, para prevenir cualquier violación a los mismos y, en su caso, restituir al menor en su goce y ejercicio, sin perjuicio de que se aplique a quienes los conculquen, las sanciones señaladas por las leyes penales y administrativas.
 
 ###### ARTICULO 3.
 
@@ -473,9 +475,13 @@ V.- Las demás que le competan de conformidad con la presente ley, sus disposici
 
 Durante el procedimiento todo menor será tratado con humanidad y respeto, conforme a las necesidades inherentes a su edad y a sus condiciones personales y gozará de las siguientes garantías mínimas:
 
-I.- Mientras no se compruebe plenamente su participación en la comisión de la infracción que se le atribuya, gozará de la presunción de ser ajeno a los hechos constitutivos de la misma;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2005)</small>
 
-II.- Se dará aviso inmediato respecto de su situación a sus representantes legales o encargados cuando se conozca el domicilio;
+I.- Mientras no se compruebe plenamente su participación en la comisión de la infracción que se le atribuya, gozará de la presunción de ser ajeno a los hechos constitutivos de la misma, y será tratado con esta calidad;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2005)</small>
+
+II.- Se dará aviso inmediato respecto de su situación legal, del lugar de internamiento, traslado y liberación a sus representantes legales o encargados cuando se conozca el domicilio, y en caso contrario, al mayor de edad que señale el menor.
 
 III.- Tendrá derecho a designar a sus expensas, por sí o por sus representantes legales o encargados, a un licenciado en derecho de su confianza, en el legal ejercicio de su profesión, para que lo asista jurídicamente durante el procedimiento, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internación;
 
@@ -523,11 +529,11 @@ VIII.- Conclusión del tratamiento; y
 
 IX.- Seguimiento técnico ulterior.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 34.
 
-El Consejero Unitario, en caso de que decrete la sujeción del menor al procedimiento, deberá determinar si el mismo se llevará a cabo estando el menor bajo la guarda y custodia de sus representantes legales o encargados, o si quedará a disposición de los Consejeros Unitarios.
-
-El Consejero Unitario que tome conocimiento de conductas que correspondan a aquellos ilícitos que en las leyes penales no admitan la libertad provisional bajo caución, al dictar la resolución inicial ordenará que el menor permanezca a su disposición en el centro de internación que al efecto designe, hasta en tanto se dicte la resolución definitiva. Una vez emitida ésta, el menor pasará a recibir el tratamiento correspondiente en el centro que para el efecto designe el Consejero Unitario, en caso en que haya quedado acreditada la infracción, así como su participación en la comisión de la misma.
+El Consejero Unitario, cuando haya quedado acreditada la infracción y la participación del menor en la comisión de la misma, decretará la sujeción del menor al procedimiento y deberá determinar si el mismo se llevará a cabo estando el menor a disposición de los Consejeros Unitarios en el centro de internación que al efecto se designe, lo que únicamente sucederá cuando se trate de una conducta que la legislación penal califique como delito grave, o bien bajo la guarda y custodia de sus representantes legales o encargados, fijando en el mismo acto la garantía correspondiente para el pago de la reparación de los daños y perjuicios ocasionados. Los representantes legales o encargados quedarán obligados a presentar al menor ante el comisionado cuando para ello sean requeridos.
 
 ###### ARTICULO 35.
 
@@ -1039,7 +1045,9 @@ Para este efecto, el Consejero respectivo hará del conocimiento de las autorida
 
 En caso de incumplimiento a lo preceptuado en este capítulo se impondrán a los responsables de la custodia del menor, sanciones administrativas que consistirán en multa de cinco a treinta días de salario mínimo general vigente en el Estado al momento de su aplicación, las que podrán duplicarse en caso de reincidencia.
 
-Los servidores públicos que infrinjan la prohibición prevista en el segundo párrafo del artículo anterior, se harán acreedores a la sanción antes señalada, sin perjuicio de la responsabilidad administrativa en que incurran conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+Los servidores públicos que infrinjan la prevención prevista en el tercer párrafo del artículo anterior, se harán acreedores a la sanción antes señalada, sin perjuicio de la responsabilidad administrativa en que incurran conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
 Cuando el menor, los representantes legales o encargados de éste quebranten en más de dos ocasiones la medida impuesta en este capítulo, el Consejero que la haya ordenado, podrá sustituir esta medida por la de tratamiento de externación.
 
@@ -1069,9 +1077,17 @@ El tratamiento será integral, porque incidirá en todos los aspectos que confor
 
 El tratamiento se aplicará de acuerdo a las siguientes modalidades:
 
-I.- En el medio sociofamiliar del menor o en hogares sustitutos, cuando se aplique el tratamiento externo; o
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2005)</small>
 
-II.- En los centros que para tal efecto señale el Consejo de Menores, cuando se apliquen las medidas de tratamiento interno.
+I.- En el medio sociofamiliar del menor o en hogares sustitutos, cuando se aplique el tratamiento externo;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2005)</small>
+
+II.- En los centros que para tal efecto señale el Consejo de Menores, cuando se apliquen las medidas de tratamiento interno, y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2005)</small>
+
+III.- En los Centros a que se refiere la fracción anterior con la modalidad de internamiento durante el tiempo libre, cuando se apliquen medidas de tratamiento mixto. Se considera tiempo libre aquel durante el cual el menor no deba cumplir con su horario escolar o de trabajo.
 
 ###### ARTICULO 110.
 
@@ -1113,9 +1129,11 @@ V.- Falta de apoyo familiar; y
 
 VI.- Ambiente social criminológico.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 116.
 
-El tratamiento externo no podrá exceder de un año y el tratamiento interno de cinco años.
+Los tratamientos externo y mixto no podrán exceder de un año y el tratamiento interno de cinco años.
 
 ### CAPITULO QUINTO. DEL SEGUIMIENTO
 
@@ -1195,33 +1213,107 @@ IV.- Depósito que no excederá de treinta y seis horas en las residencias, albe
 
 La amonestación, tendrá lugar en privado y en forma separada cuando ésta haya de hacerse al menor y a sus representantes legítimos o guardadores; será todo lo enérgica que conviniere y tratándose de los menores, se hará en tono paternal sin que por ello pierda su carácter admonitorio.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2005)</small>
 
-## TITULO OCTAVO. DE LA ATENCION DE LOS MENORES EN SITUACION EXTRAORDINARIA
+## TITULO OCTAVO
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 1998)</small>
+DE LOS CENTROS DE INTERNAMIENTO Y LOS DERECHOS DE LOS MENORES.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 132.
 
-(DEROGADO, P.O. 23 DE ENERO DE 1998)
+Los centros de internamiento deberán estar diseñados para lograr la adaptación de los menores contando con las instalaciones y servicios que satisfagan las exigencias de higiene y de la dignidad humana, apropiadas para garantizar el derecho de disfrutar de actividades y programas útiles que le sirvan para fomentar y asegurar su sano desarrollo, promover su sentido de responsabilidad e infundirles actitudes y conocimientos que les ayuden a desarrollar sus posibilidades como miembros de la sociedad.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 133.
 
-(DEROGADO, P.O. 23 DE ENERO DE 1998)
+En el momento de ingreso, el menor deberá recibir copia del reglamento interior del centro junto con los datos de las autoridades competentes ante quien pueda formular quejas.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 134.
 
-(DEROGADO, P.O. 23 DE ENERO DE 1998)
+El lugar de internamiento será el más cercano al de su domicilio a fin de facilitar el contacto con su familia y no podrá ser trasladado arbitrariamente de un centro a otro.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 135.
 
-(DEROGADO, P.O. 23 DE ENERO DE 1998)
+Los menores a los que no se les haya dictado resolución definitiva deben estar separados de quienes estén recibiendo tratamiento mixto o en internación.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 136.
 
-(DEROGADO, P.O. 23 DE ENERO DE 1998)
+Las autoridades procurarán y facilitarán el acceso y contacto de los menores con las familias en los centros de internamiento.
+
+Los menores tienen derecho a recibir visitas regulares y frecuentes, a comunicarse por teléfono y/o escrito mediante correspondencia y a informarse periódicamente de los acontecimientos del exterior mediante la lectura de diarios y acceso a programas de radio y televisión, en los términos del Reglamento correspondiente.
+
+En términos del reglamento y dependiendo de los avances en el tratamiento, se podrá permitir al menor el realizar visitas a su hogar y a su familia y se otorgarán permisos para salir del establecimiento por motivos educativos, profesionales u otros de importancia.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 137.
+
+Se permitirá la posesión de artículos personales al menor, de acuerdo al Reglamento interior.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 138.
+
+La alimentación será suficiente, adecuada y con la calidad correspondiente a las necesidades de la etapa de desarrollo del menor.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 139.
+
+Los menores que no cuenten con la educación primaria y secundaria la recibirán en los centros de internación pero los certificados de estudios durante su internamiento no deberán indicar en ningún caso que los menores estuvieron recluidos.
+
+Se deberá alentar que se continúen con estudios no obligatorios y que se aprenda el ejercicio de algún arte u oficio que le sea útil cuando termine su tratamiento.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 140.
+
+Los menores tendrán derecho a realizar trabajo remunerado en el interior de los centros, aplicándoseles las reglas de la Ley Federal del Trabajo.
+
+El trabajo no deberá imponerse a título de sanción, siempre será considerado un instrumento de educación y un medio de promover el respeto del menor por sí mismos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 141.
+
+No podrá prolongarse el internamiento por razón de trabajo, estudio o capacitación.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 142.
+
+Los menores sujetos a tratamiento en internación y mixto deberán contar diariamente con tiempo suficiente para practicar ejercicios físicos al aire libre.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 143.
+
+Los menores tienen derecho a recibir atención médica preventiva y correctiva. La administración de medicamentos deberá hacerse en términos del Reglamento Interior correspondiente.
+
+Se deberán organizar programas de prevención del uso indebido de drogas y de rehabilitación administrado por personal calificado.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 144.
+
+Dentro del centro de internamiento nadie, incluyendo los elementos de seguridad, podrá portar armas de fuego.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 145.
+
+La aplicación de los procedimientos disciplinarios deberán contribuir a la seguridad y a una vida comunitaria ordenada dentro del centro de internación. El Reglamento establecerá las conductas sancionadas, las medidas disciplinarias y el mecanismo para aplicarlas quedando prohibidas las que impliquen trato cruel, inhumano o degradante, incluidos los castigos corporales, la reclusión en celda oscura y penas de aislamiento o de celda solitaria, así como cualquier otra que pueda poner en peligro la salud física o mental.
+
+Ningún menor puede ser sancionado sin que sea informado debidamente de la infracción cometida y de la sanción aplicable, respetándose su derecho.
 
 ## TRANSITORIOS
 
@@ -1276,3 +1368,11 @@ P.O. 23 DE ENERO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2005.
+
+ARTÍCULO PRIMERO El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 120 días naturales deberán adecuarse los Reglamentos interiores correspondientes conforme a este Decreto.
