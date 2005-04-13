@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2005-02-15"
+last_updated: "2005-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -519,7 +519,9 @@ II. Comprobar el quórum de las sesiones del Pleno, realizar el cómputo y regis
 
 III. Dar lectura al orden del día y a los documentos listados en el mismo, así como desahogar los trámites legislativos, en los términos que disponga el Presidente de la Mesa Directiva;
 
-IV. Supervisar los servicios legislativos relacionados con: la celebración de las Sesiones del Pleno; la impresión y distribución oportuna entre los Diputados de las iniciativas y dictámenes; la elaboración del acta de sesiones, que someterá a la consideración del Presidente del Congreso; llevar el registro de las actas en el libro correspondiente; conformar y mantener al día los expedientes de los asuntos que deba conocer el Pleno; asentar y firmar los trámites correspondientes en dichos expedientes; integrar los libros de los registros cronológico y textual de las leyes y decretos que expida el Congreso; y vigilar la impresión del Diario de los Debates.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2005)</small>
+
+IV. Supervisar los servicios legislativos relacionados con: la celebración de las Sesiones del Pleno; la impresión y distribución oportuna entre los diputados de las iniciativas y dictámenes; la elaboración del acta de sesiones, que someterá a la consideración y firma del presidente del Congreso, así como a la aprobación del Pleno o de la Diputación Permanente; llevar el registro de las actas en el libro correspondiente y verificar su inserción en el Diario de los Debates y en la página en Internet del Congreso; conformar y mantener al día los expedientes de los asuntos que deba conocer el Pleno; asentar y firmar los trámites correspondientes en dichos expedientes; integrar los libros de los registros cronológico y textual de las leyes y decretos que expida el Congreso; y vigilar la impresión del Diario de los Debates y de la Gaceta Legislativa.
 
 V. Firmar, junto con el Presidente, las resoluciones del Congreso del Estado;
 
@@ -1005,7 +1007,9 @@ La Secretaría de Servicios Legislativos tendrá (sic) su cargo la prestación d
 
 I. Asistencia Técnica a la Presidencia de la Mesa Directiva que comprende los de: comunicaciones y correspondencia; turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionados con el fuero de los legisladores; registro biográfico de los integrantes de las Legislaturas; y protocolo, ceremonial y relaciones públicas;
 
-II. Relativos a las Sesiones, que comprende los de: preparación y desarrollo de los trabajos del Pleno; registro y seguimiento de las iniciativas o minutas de ley o de decreto; distribución en el Pleno de los documentos sujetos a su conocimiento; apoyo al Diputado Secretario para verificar el quórum de asistencia; cómputo y registro de las votaciones; información y estadística de las actividades del Pleno; elaboración, registro y publicación de las actas de las sesiones; y registro de las resoluciones que adopte el Pleno;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2005)</small>
+
+II. Relativos a las Sesiones, que comprende los de: preparación y desarrollo de los trabajos del Pleno; registro y seguimiento de las iniciativas o minutas de ley o de decreto; distribución en el Pleno de los documentos sujetos a su conocimiento; apoyo al diputado secretario para verificar el quórum de asistencia; cómputo y registro de las votaciones; información y estadística de las actividades del Pleno; elaboración, registro y publicación de las actas de las sesiones, cuando éstas hayan sido aprobadas por el Pleno o por la Diputación Permanente; y registro de las resoluciones que adopte el Pleno;
 
 III. Relativos a las Comisiones, que comprende los de: organización y asistencia a cada una de ellas a través de su Presidente; registro de los integrantes de las mismas; seguimiento e información sobre el estado que guardan los asuntos turnados a Comisiones, y registro y elaboración del acta de sus reuniones;
 
@@ -1075,7 +1079,7 @@ II. Evaluar el avance del informe de la Gestión Financiera de los Ayuntamientos
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
-III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorías a los ayuntamientos, o designarle interventores;
+III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorías a los ayuntamientos, o designarle interventores.
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
@@ -1217,10 +1221,16 @@ Primero. El presente Decreto entrará en vigor el día de su publicación en la 
 
 .
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decretto.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 15 DE FEBRERO DE 2005.
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 13 DE ABRIL DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
