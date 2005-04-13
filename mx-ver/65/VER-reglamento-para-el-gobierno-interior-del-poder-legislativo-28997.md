@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2004-10-25"
+last_updated: "2005-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -441,7 +441,11 @@ V. Llevar un libro en el que se asienten, textualmente y por orden cronológico,
 
 Las leyes y decretos se identificarán en dicho libro por su número progresivo, por las claves que determine la Legislatura y por el período de su aprobación; estos datos aparecerán en la publicación de la Gaceta Oficial del estado;
 
-VI. Elaborar las actas de las sesiones, firmarlas después de ser aprobadas por el Congreso y asentarlas en el libro respectivo, debiendo ser turnadas, por conducto de la Secretaría General, al área encargada del Diario de los Debates, para su incorporación y publicación;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2005)</small>
+
+VI. Elaborar las actas de las sesiones del Congreso, firmarlas después de ser aprobadas por el Pleno o por la Diputación Permanente y asentarlas en el libro respectivo, debiendo ser turnadas, por conducto de la Secretaría General del Congreso, al área encargada del Diario de los Debates, para su incorporación y publicación, así como para difundirlas a través de la página en Internet del Congreso.
+
+En caso de que el Congreso sesionare en la víspera de la conclusión del periodo constitucional de la Legislatura correspondiente, antes de terminar la sesión se declarará un receso en el que se elaborará el acta respectiva, se pondrá a consideración y aprobación del Pleno y, una vez aprobada, se firmará y registrará conforme a los dispuesto por el párrafo anterior;
 
 VII. Las actas de cada sesión contendrán el nombre del diputado que la presida, la hora de apertura y clausura, las observaciones, correcciones y aprobación, en su caso, del acta anterior, una relación nominal de los diputados presentes y de los ausentes, con justificación o sin ella, así como una relatoría sucinta, ordenada y clara de cuanto se tratare y resolviere en las sesiones. Al margen de las actas se anotarán los asuntos de que traten; y
 
@@ -727,15 +731,21 @@ Por votación económica del Congreso, podrá declararse éste en sesión perman
 
 El Congreso podrá celebrar sesiones solemnes, cuyo único propósito será conmemorar un hecho relevante de la vida nacional, estatal o rendir un homenaje. Estas sesiones serán convocadas por el Presidente, o por el de la Permanente, dentro o fuera de los períodos de sesiones. En ellas no se podrá tratar ningún otro asunto y no darán lugar a debate o pronunciamiento alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2005)</small>
+
 ###### Artículo 84.
 
-En las sesiones ordinarias se dará cuenta de los asuntos listados, de conformidad con el siguiente orden:
+En las sesiones ordinarias, extraordinarias y de la Diputación Permanente, de acuerdo a las atribuciones que les confiera la ley, se dará cuenta de los asuntos listados de conformidad con el siguiente orden:
 
 I. Lista de asistencia;
 
 II. Lectura y aprobación del orden del día;
 
-III. Lectura del acta de la sesión anterior para su aprobación. Por instrucciones del Presidente, la Secretaría de la Directiva hará las correcciones que procedan;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2005)</small>
+
+III. Lectura del acta de la sesión anterior para su aprobación. Por instrucciones del presidente, la Secretaría de la Directiva hará las correcciones que procedan.
+
+Las acta deberán ser aprobadas en la sesión ordinaria inmediata siguiente a la que se haga constar en ellas, de tal manera que la Diputación Permanente aprobará el acta de la última sesión del periodo ordinario que le antecede y el Pleno hará lo mismo con el acta de la última sesión de la Diputación Permanente. Tratándose de periodos extraordinarios, el acta se aprobará en la siguiente sesión, ya sea del periodo ordinario o del receso;
 
 IV. Comunicaciones del Ejecutivo estatal, del Tribunal Superior de Justicia del Estado, de los diputados que integran el Poder Legislativo, de los ayuntamientos, de los organismos autónomos, de los gobernadores de otras entidades federativas, de las legislaturas de los estados y del Distrito Federal, así como solicitudes de los particulares;
 
@@ -1462,3 +1472,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 13 DE ABRIL DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
