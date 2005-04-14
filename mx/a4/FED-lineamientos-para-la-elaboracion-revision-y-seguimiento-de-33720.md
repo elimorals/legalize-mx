@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-elaboracion-revision-y-seguimiento-de-3372
 country: "mx"
 rank: "lineamientos"
 publication_date: "2003-09-09"
-last_updated: "2003-09-09"
+last_updated: "2005-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33720&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-09-08"
 
 LINEAMIENTOS PARA LA ELABORACION, REVISION Y SEGUIMIENTO DE INICIATIVAS DE LEYES Y DECRETOS DEL EJECUTIVO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2005.
 
-Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación el 9 de septiembre de 2003.
+Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el martes 9 de septiembre de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejería Jurídica del Ejecutivo Federal.
 
@@ -47,9 +47,7 @@ ACUERDO POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA ELABORACION, REVISION Y SE
 
 Primero.- El presente Acuerdo tiene por objeto establecer:
 
-I. Los requisitos, procedimientos y plazos a que deberán sujetarse las dependencias de la Administración Pública Federal para la elaboración, revisión y seguimiento de iniciativas de leyes y decretos por los que se expidan, adicionen, deroguen o reformen disposiciones constitucionales
-
-o legales;
+I. Los requisitos, procedimientos y plazos a que deberán sujetarse las dependencias de la Administración Pública Federal para la elaboración, revisión y seguimiento de iniciativas de leyes y decretos por los que se expidan, adicionen, deroguen o reformen disposiciones constitucionales o legales;
 
 II. Las reglas conforme a las cuales la Consejería Jurídica del Ejecutivo Federal, en coordinación con la Secretaría de Gobernación, emitirá opiniones y coordinará los estudios técnico-jurídicos por parte de las dependencias de la Administración Pública Federal, durante el proceso legislativo de iniciativas de leyes, decretos, y
 
@@ -87,7 +85,9 @@ Sexto.- Las dependencias deberán someter a acuerdo del Presidente de la Repúbl
 
 Séptimo.- Una vez que el Presidente de la República haya acordado favorablemente la elaboración de una Iniciativa, las dependencias deberán solicitar a la Secretaría de Gobernación y a la Consejería Jurídica la incorporación de la Iniciativa de que se trate en los temas legislativos del Ejecutivo Federal.
 
-La Secretaría de Gobernación podrá hacer las consideraciones que estime pertinentes respecto de la viabilidad de la Iniciativa y emitirá la opinión respectiva dentro de los ocho días hábiles siguientes a la fecha en la que se le haya comunicado el acuerdo presidencial. En caso de que no se emita la opinión en el plazo señalado, se entenderá que la misma es favorable.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2005)</small>
+
+La Secretaría de Gobernación podrá hacer las consideraciones que estime pertinentes respecto de la viabilidad de la Iniciativa y emitirá la opinión respectiva dentro de los ocho días hábiles siguientes a la fecha en la que se le haya comunicado el acuerdo presidencial. Esta opinión, en su caso, contendrá las conclusiones y efectos de la presentación de la Iniciativa del Ejecutivo Federal respecto de las que versen sobre la misma materia y ya se encuentren en trámite ante el Congreso de la Unión. En caso de que no se emita la opinión en el plazo señalado, se entenderá que la misma es favorable.
 
 Para efectos de lo dispuesto en este lineamiento, la Secretaría de Gobernación podrá realizar las reuniones de trabajo que estime necesarias con las dependencias y entidades competentes. La Consejería Jurídica participará en dichas reuniones cuando lo considere conveniente.
 
@@ -103,9 +103,7 @@ Décimo.- El Anteproyecto de Iniciativa es el documento elaborado por la depende
 
 Décimo Primero.- En la elaboración de los anteproyectos, las dependencias deberán:
 
-I. Elaborar la Exposición de Motivos, la cual deberá contener, al menos, una descripción general de la situación jurídica que pretende ser creada o modificada, de las razones del contenido de las disposiciones y de los objetivos concretos que se buscan con el Anteproyecto, así como una exposición de la congruencia de éste con los principios constitucionales y los ordenamientos legales, el Plan Nacional de Desarrollo y demás instrumentos programáticos y, en su caso, con los
-
-instrumentos jurídicos internacionales de los que México sea parte;
+I. Elaborar la Exposición de Motivos, la cual deberá contener, al menos, una descripción general de la situación jurídica que pretende ser creada o modificada, de las razones del contenido de las disposiciones y de los objetivos concretos que se buscan con el Anteproyecto, así como una exposición de la congruencia de éste con los principios constitucionales y los ordenamientos legales, el Plan Nacional de Desarrollo y demás instrumentos programáticos y, en su caso, con los instrumentos jurídicos internacionales de los que México sea parte;
 
 II. Definir claramente, en su caso, el contenido de los intríngulis, en los que se especifiquen las disposiciones que son materia de expedición, reforma, adición o derogación, por cada ordenamiento que contenga el Anteproyecto;
 
@@ -135,7 +133,9 @@ Décimo Séptimo.- Los proyectos deberán ser remitidos a la Consejería Jurídi
 
 Décimo Octavo.- Los proyectos sólo serán recibidos en la Oficina del Consejero Jurídico, quien los turnará a la Consejería Adjunta para su revisión y trámite correspondiente.
 
-Los proyectos que no sean enviados directamente a la Oficina del Consejero Jurídico se tendrán por no recibidos.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2005)</small>
+
+Los proyectos que no sean enviados directamente a la Oficina del Consejero Jurídico o que no cumplan con lo dispuesto por el lineamiento Décimo Noveno, se tendrán por no recibidos.
 
 ### Capítulo Quinto. Del Trámite Ordinario
 
@@ -157,7 +157,9 @@ IV. Copia del oficio de la Secretaría de Hacienda y Crédito Público por el cu
 
 V. Dictamen de la Comisión Federal de Mejora Regulatoria sobre el impacto regulatorio o, en su caso, el documento por el que dicha Comisión señale que este requisito no es necesario o que no va a emitir el dictamen, de conformidad con lo dispuesto por el Título Tercero "A" de la Ley Federal de Procedimiento Administrativo. Asimismo, un ejemplar del Proyecto debidamente sellado y rubricado por la Comisión;
 
-VI. En su caso, copia de las iniciativas a que se refiere el lineamiento Noveno, así como las consideraciones de la dependencia de que se trate sobre sus posibles implicaciones y efectos con relación al Proyecto, y
+> <small>(REFORMADA, D.O.F. 14 DE ABRIL DE 2005)</small>
+
+VI. En su caso y sin perjuicio de lo dispuesto por la fracción I de este lineamiento, copia de las iniciativas a que se refiere el lineamiento Noveno, así como las consideraciones de la dependencia de que se trate sobre sus posibles implicaciones y efectos con relación al Proyecto, y
 
 VII. Cuadro comparativo en tres columnas que muestre, en su caso, el texto de las disposiciones vigentes, el texto del Proyecto y los comentarios que justifiquen la adición, reforma o derogación de cada disposición.
 
@@ -242,3 +244,9 @@ Segundo.- Las iniciativas que se encuentran en trámite se desahogarán, en lo c
 Tercero.- Se derogan todas las disposiciones de la Consejería Jurídica del Ejecutivo Federal, en la materia, emitidas con anterioridad y que se opongan al presente Acuerdo.
 
 México, Distrito Federal, a los ocho días del mes de septiembre de dos mil tres.- La Consejera Jurídica del Ejecutivo Federal, María Teresa Herrera Tello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 14 DE ABRIL DE 2005.
+
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
