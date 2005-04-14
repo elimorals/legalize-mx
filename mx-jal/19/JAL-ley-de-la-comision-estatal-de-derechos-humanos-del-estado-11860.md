@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2004-08-26"
+last_updated: "2005-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -1367,6 +1367,10 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- En tanto no se lleve a cabo la reforma constitucional para el nombramiento del Presidente de la Comisión Estatal de Derechos Humanos y de los consejeros ciudadanos, se aplicará el procedimiento anterior, debiendo entrar en vigor el procedimiento contenido en el presente decreto al día siguiente de su iniciación de la vigencia de la reforma constitucional.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2005)</small>
+
+El nombramiento de los Consejeros Ciudadanos en funciones designados con anterioridad a la publicación de este decreto, se entenderá ampliado por el mismo término de cinco años.
+
 TERCERO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
 
 P.O. 26 DE AGOSTO DE 2004.
@@ -1374,3 +1378,9 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 14 DE ABRIL DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Una vez publicado el presente decreto, notifíquese a los integrantes del Consejo Ciudadano de la Comisión Estatal de Derechos Humanos para su debido cumplimiento.
