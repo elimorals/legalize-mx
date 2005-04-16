@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2001-12-22"
+last_updated: "2005-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2005.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -155,6 +155,54 @@ La menor edad, el estado de interdicción y las demás incapacidades establecida
 
 El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+
+###### Artículo 24-A.
+
+Toda persona capaz, tiene derecho a disponer parcialmente de su cuerpo, en beneficio terapéutico de un familiar, hasta el cuarto grado de parentesco, siempre que tal disposición no le ocasione una disminución permanente de su integridad física, ni ponga en peligro su vida.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+
+###### Artículo 24-B.
+
+Puede de igual forma disponer de su cuerpo total o parcialmente, para después de su muerte, con fines terapéuticos, de enseñanza o investigación.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+
+Artículo 24 C.- La disposición de cuerpos, órganos y tejidos de seres humanos con fines terapéuticos y de investigación, será siempre a título gratuito, y será revocable en cualquier momento para el donante y no podrá ser revocada por persona alguna después de su muerte.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+
+Artículo 24 D.- En el caso de disposición de cuerpos, total o parcialmente para después de la muerte, el consentimiento para ello se regirá por cualquiera de las siguientes formas:
+
+I. Deberá hacerse constar mediante testamento público abierto;
+
+II. Expresarse por escrito ratificando su firma ante notario público, depositando tal documento ante sus parientes más próximos, con quienes conviva; en caso de no convivir con parientes, el depósito será con persona de su confianza; y
+
+III. Surtirá efectos la declaración que se haga en forma expresa ante las autoridades competentes de vialidad o tránsito, con motivo de la expedición de los documentos en los que conste la autorización para conducir automotores.
+
+La autoridad respectiva deberá percatarse que se cumplieron los requisitos antes citados y entregará el cuerpo u órgano al beneficiario, recabando previamente la opinión de un médico legista.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+
+Artículo 24 E.- La disposición de órganos con fines terapéuticos, puede consentirse también por quienes sean sus familiares o convivieron con la persona fallecida durante los dos años anteriores a su fallecimiento, en el siguiente orden:
+
+I. El cónyuge o el concubinario o concubinaria en su caso;
+
+II. Los descendientes o adoptados capaces;
+
+III. Los ascendientes o adoptantes;
+
+IV. Los demás colaterales dentro del cuarto grado;
+
+V. En caso de concurrencia entre dos o más sujetos de los considerados en las fracciones anteriores y de existir conflicto para otorgar el consentimiento decidirá quien tenga prelación en su derecho, conforme al libro cuarto del Código Civil del Estado de Nayarit. Si se trata de sujetos con el mismo derecho, se suspenderá el trámite de la donación de órganos, levantándose constancia para todos los fines legales correspondientes; y
+
+VI. En caso de no existir ninguno de los familiares señalados, la solicitud de autorización para la disposición de órganos deberá efectuarse ante el Consejo Estatal de Trasplantes quien podrá delegar por escrito esta función al Secretario Técnico del Consejo.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2005)</small>
+
+Artículo 24 F.- Cuando se presente la muerte cerebral se estará a lo previsto por la Ley General de Salud y su similar del Estado.
+
 ## TITULO SEGUNDO
 
 De las personas morales.
@@ -183,7 +231,7 @@ Las personas morales pueden ejercitar todos los derechos que sean necesarios par
 
 ###### Artículo 27.
 
-Las personas morales obran y se obligan por medio de los órganos que las representan, sea por disposición de la ley o conforme a la disposiciones relativas de sus escrituras constitutivas y de sus estatutos.
+Las personas morales obran y se obligan por medio de los órganos que las representan, sea por disposición de la ley o conforme a las disposiciones relativas de sus escrituras constitutivas y de sus estatutos.
 
 ###### Artículo 28.
 
@@ -6809,7 +6857,7 @@ Interpretación.
 
 Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
 
-Si la palabras parecieran contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquellas.
+Si las palabras parecieran contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquellas.
 
 ###### Artículo 1225.
 
@@ -8451,7 +8499,7 @@ Es simulado el acto en que las partes declaran o confiesan falsamente lo que en 
 
 ###### Artículo 1554.
 
-La simulación es absoluta cuando el acto simulado nada tiene de real; es relativa cuando a un acto jurídico se le da un falsa apariencia que oculta su verdadero carácter.
+La simulación es absoluta cuando el acto simulado nada tiene de real; es relativa cuando a un acto jurídico se le da una falsa apariencia que oculta su verdadero carácter.
 
 ###### Artículo 1555.
 
@@ -9411,7 +9459,7 @@ La reducción de las donaciones comenzará por la última en fecha, que será to
 
 ###### Artículo 1749.
 
-Si el importe de la donación menos antigua no alcanzare, se procederá, respecto de la anterior, en los términos establecidos en el artículo que precede, siguiéndose el mismo orden hasta llegar a las más antigua.
+Si el importe de la donación menos antigua no alcanzare, se procederá, respecto de la anterior, en los términos establecidos en el artículo que precede, siguiéndose el mismo orden hasta llegar a la más antigua.
 
 ###### Artículo 1750.
 
@@ -12759,7 +12807,7 @@ De los títulos sujetos a registro y de los efectos legales del registro.
 
 ###### Artículo 2367.
 
-Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documentos auténtico.
+Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO III
 
@@ -12869,7 +12917,7 @@ En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio c
 
 ###### Artículo 2380.
 
-No pueden los bienes raíces o los derechos reales impuestos sobre los mismos aparecer inscritos a la vez en favor de dos o mas personas distintas, a menos que éstas sean copartícipes.
+No pueden los bienes raíces o los derechos reales impuestos sobre los mismos aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 
 ### CAPITULO VI
 
@@ -13505,7 +13553,7 @@ Si no se hubiere señalado tiempo para el cumplimiento de la carga, ni ésta por
 
 ###### Artículo 2497.
 
-Si el legado fuere de prestación periódica, que debe concluir en un día que es inseguro si llegará o no, llegado el día, el legatario habrá hecho suyas todas los prestaciones que correspondan hasta aquel día.
+Si el legado fuere de prestación periódica, que debe concluir en un día que es inseguro si llegará o no, llegado el día, el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día.
 
 ###### Artículo 2498.
 
@@ -13545,7 +13593,7 @@ VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si e
 
 ###### Artículo 2503.
 
-No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes mas próximos en grado.
+No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
 
 ###### Artículo 2504.
 
@@ -13693,7 +13741,7 @@ El acreedor cuyo crédito no conste más que por testamento, se tendrá para los
 
 ###### Artículo 2536.
 
-Cuando se legue una cosa con todo lo que comprenda, no se entenderán legados los documentos justificantes de propiedad, ni lo créditos activos, a no ser que se hayan mencionado específicamente.
+Cuando se legue una cosa con todo lo que comprenda, no se entenderán legados los documentos justificantes de propiedad, ni los créditos activos, a no ser que se hayan mencionado específicamente.
 
 ###### Artículo 2537.
 
@@ -14737,7 +14785,7 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 ###### Artículo 2748.
 
-A falta de los llamados en los artículos anteriores sucederán los parientes mas próximos dentro del cuarto grado sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
+A falta de los llamados en los artículos anteriores sucederán los parientes más próximos dentro del cuarto grado sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el capítulo siguiente.
 
@@ -15023,7 +15071,7 @@ En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar,
 
 ###### Artículo 2808.
 
-El cargo de albacea es voluntario; pero el lo acepte, se constituye en la obligación de desempeñarlo.
+El cargo de albacea es voluntario; pero el que lo acepte, se constituye en la obligación de desempeñarlo.
 
 ###### Artículo 2809.
 
@@ -15489,7 +15537,7 @@ Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una
 
 Artículo Primero.- Este Código empezará a regir treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-Artículo Segundo.- Desde esa misma fecha queda abrogado el Código Civil adoptado para el estado de Nayarit, conforme a los dispuesto en el artículo 2º. del Decreto Número 1736 de ese H. Congreso, publicado en el Periódico Oficial local y que entró en vigor el día primero de Julio del mil novecientos treinta y ocho, salvo lo expresado en los artículos siguientes.
+Artículo Segundo.- Desde esa misma fecha queda abrogado el Código Civil adoptado para el estado de Nayarit, conforme a lo dispuesto en el artículo 2º. del Decreto Número 1736 de ese H. Congreso, publicado en el Periódico Oficial local y que entró en vigor el día primero de Julio del mil novecientos treinta y ocho, salvo lo expresado en los artículos siguientes.
 
 Artículo Tercero.- Las disposiciones de este Código regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan los derechos adquiridos.
 
@@ -15614,3 +15662,7 @@ P.O. 22 DE DICIEMBRE DE 2001
 PRIMERO.- Se derogan todas aquellas disposiciones legales que contravengan el contenido de este Decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno de Nayarit.
+
+P.O. 16 DE ABRIL DE 2005.
+
+Único.- El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
