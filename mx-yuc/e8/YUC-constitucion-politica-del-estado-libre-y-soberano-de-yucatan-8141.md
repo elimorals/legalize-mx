@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2004-12-09"
+last_updated: "2005-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE ABRIL DE 2005.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -67,9 +67,9 @@ III.- a desempeñar los cargos concejiles, y a prestar los otros servicios públ
 
 IV.- a inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan.
 
-> <small>(ADICIONADA, D.O. 12 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 18 DE ABRIL DE 2005)</small>
 
-V.- A hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación primaria y secundaria.
+V.- A hacer que sus hijos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -497,13 +497,17 @@ XV.- Expedir leyes sobre Educación Pública, con sujeción a las bases siguient
 
 a) La educación que imparta el Estado será: nacionalista, democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la Nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y la continuidad y acrecentamiento de nuestra cultura y además será laica manteniéndose ajena a cualquier doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos; el criterio que orientará a esta educación se basará en los resultados del progreso científico y tecnológico y luchará contra la ignorancia y sus efectos;
 
-b) No podrán funcionar planteles particulares de Educación sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público.
+> <small>(REFORMADO, D.O. 18 DE ABRIL DE 2005)</small>
 
-Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares; en el caso de la educación primaria, secundaria y normal, los particulares deberán:
+b) No podrán funcionar planteles particulares de Educación sin haber obtenido previamente, en cada caso, autorización expresa del Poder Público.
 
-Impartir la educación con los mismos fines y criterios que establece la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, así como cumplir los planes y programas que la propia Constitución Federal establece en la fracción III de su Artículo 3o.
+Los particulares podrán impartir educación en todos sus tipos y modalidades, en los términos que establezca la ley. El Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares; en el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
-c) El Estado impartirá educación preescolar, primaria y secundaria; la educación primaria y secundaria son obligatorias y el Estado las impartirá gratuitamente;
+Impartir la educación con los mismos fines y criterios que establece la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, así como cumplir los planes y programas que la propia Constitución Federal establece en la fracción III de su Artículo 3º;
+
+> <small>(REFORMADO, D.O. 18 DE ABRIL DE 2005)</small>
+
+c) El Estado impartirá gratuitamente educación preescolar, primaria y secundaria, siendo éstas obligatorias para sus habitantes.
 
 d) La educación preparatoria y la profesional, serán o no gratuitas según lo determinen las leyes;
 
@@ -525,7 +529,7 @@ XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del 
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -617,7 +621,7 @@ XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han 
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
+XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
 
 XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
@@ -2142,3 +2146,17 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+D.O. 18 DE ABRIL DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley de Educación del Estado de Yucatán y demás disposiciones legales aplicables en esta materia.
+
+###### ARTÍCULO TERCERO.
+
+La educación preescolar será obligatoria en todo el territorio del Estado de Yucatán, a más tardar para el ciclo escolar 2008-2009, y habrá de universalizarse con calidad, la prestación de este servicio educativo, conforme a lo dispuesto en el Artículo Quinto Transitorio, del Decreto publicado en el Diario Oficial de la Federación en fecha 12 de noviembre de 2002.
