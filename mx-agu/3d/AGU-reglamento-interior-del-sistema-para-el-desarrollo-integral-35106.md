@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2004-07-19"
+last_updated: "2005-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -733,6 +733,10 @@ c) Departamento de Protección a Menores;
 
 3 Unidad de Casa DIF.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2005)</small>
+
+g) (sic) Jefe de Departamento de Procesos Institucionales y Transparencia de la Información.
+
 II.- DIRECCION DE ADMINISTRACION Y FINANZAS:
 
 a) Departamento Administrativo;
@@ -764,6 +768,8 @@ b) Departamento de Finanzas;
 6 Unidad de Ingresos;
 
 7. Unidad de Informática.
+
+c) (sic) (REFORMADO [N. DE E. DEROGADO], P.O. 18 DE ABRIL DE 2005)
 
 III.- DIRECCION DE DESARROLLO FAMILIAR:
 
@@ -805,9 +811,13 @@ a) Departamento de Atención y Mejoramiento Nutricional;
 
 5. Unidad de Almacén de Alimentos;
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2005)</small>
 
-b) Departamento de los Centros de Desarrollo Comunitarios;
+b) Departamento de Programas de Desarrollo Comunitario.
+
+> <small>(F. DE E., P.O. 25 DE ABRIL DE 2005)</small>
+
+1. Unidad de Comunidad Diferente.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
 
@@ -843,7 +853,9 @@ c) Unidad de Investigación y Respaldo de la Información;
 
 d) Unidad de Enlace con Comités Municipales e Instituciones de Beneficencia Privada;
 
-e) Unidad del Centro de Información en Asistencia Social;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE ABRIL DE 2005)</small>
+
+e) Unidad de Estadística y Evaluación.
 
 f) Unidad de Administración de Fideicomisos;
 
@@ -1486,5 +1498,9 @@ C. Lic. Carlos Antonio Ramírez Vidal.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 19 DE JULIO DE 2004.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE ABRIL DE 2005.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
