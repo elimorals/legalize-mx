@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-39600"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-05-10"
-last_updated: "2004-05-10"
+last_updated: "2005-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -689,37 +689,77 @@ I.- Comisión Inspectora del Órgano de Fiscalización Superior del Congreso del
 
 II.- Comisión de Legislación y Puntos Constitucionales;
 
-III.- Comisión de Hacienda del Estado y Municipales;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
-IV.- Comisión de Gobernación y Asuntos Municipales;
+III.- Comisión de Hacienda;
 
-V.- Comisión de Educación, Ciencia, Tecnología y Cultura;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
-VI.- Comisión de Asuntos de la Juventud y del Deporte;
+IV.- Comisión de Gobernación;
 
-VII.- Comisión de Seguridad Pública, Justicia y Derechos Humanos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
-VIII.- Comisión de Salud, Ecología y Medio Ambiente;
+V.- Comisión de Educación;
 
-IX.- Comisión de Asuntos Agrícolas, Ganaderos, Forestales y Pesqueros;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
-X.- Comisión de Asuntos Comerciales, Industriales, Turísticos y del Trabajo;
+VI.- Comisión de Juventud;
 
-XI.- Comisión de Asentamientos Humanos, Desarrollo Urbano, Obras Públicas y Límites;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
-XII.- Comisión de Equidad de Género, Familia y Asistencia Social;
+VII.- Comisión de Seguridad Pública y Justicia;
 
-XIII.- Comisión de Población, Migración y Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
-XIV.- Comisión de Desarrollo Social;
+VIII.- Comisión de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
+
+IX.- Comisión de Salud;
+
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+X.- Comisión de Medio Ambiente, Ecología y Desarrollo Urbano;
+
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XI.- Comisión de Población y Migración;
+
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XII.- Comisión de Industria, Comercio y Servicios;
+
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XIII.- Comisión de Obras Públicas;
+
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XIV.- Comisión de Equidad de Género;
 
 XV.- Comisión de Comunicaciones y Transportes;
 
 XVI.- Comisión Instructora;
 
-XVII.- Comisión de Corrección y Estilo y
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
 
-XVIII.- Comisión de Comunicación Social del Poder Legislativo.
+XVII.- Comisión de Corrección y Estilo;
+
+(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XVIII.- Comisión de Asuntos Indígenas;
+
+(ADICIONADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XIX.- Comisión de Asuntos del Campo;
+
+(ADICIONADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XX.- Comisión de Desarrollo Regional;
+
+(ADICIONADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+
+XXI.- Comisión del Trabajo.
 
 Los Diputados que integren estas Comisiones, fungirán durante todo el Ejercicio Constitucional. Cuando las circunstancias lo justifiquen, el Pleno aprobará las modificaciones que se estimen pertinentes.
 
@@ -743,15 +783,19 @@ Las Comisiones Especiales, tendrán la competencia que se les atribuya en el act
 
 La Comisión Inspectora del Órgano de Fiscalización Superior, será presidida por el Coordinador General de la Junta de Coordinación Legislativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 83.
 
-Las Comisiones serán electas por mayoría simple, estarán integradas, a excepción de la Instructora y la de Hacienda del Estado y Municipales, con un mínimo de tres Diputados y un máximo de cinco, actuando como Presidente el electo en primer término y los dos siguientes como Secretarios.
+Las comisiones serán electas por mayoría simple, estarán integradas, a excepción de la de Legislación y Puntos Constitucionales, Instructora y la de Hacienda, con un mínimo de tres Diputados y un máximo de cinco, actuando como Presidente el electo en primer término y los dos siguientes como Secretarios.
 
 A las presidencias de las Comisiones, se accederá en forma proporcional a la representación que tengan los Grupos Legislativos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 84.
 
-Las Comisiones Instructora y de Hacienda del Estado y Municipales, se integrarán por cinco Diputados; en el caso de la Comisión Instructora fungirá como Presidente y Secretario de la misma los electos en primer y segundo término respectivamente, quedando los restantes como Vocales.
+Las comisiones de Legislación y Puntos Constitucionales, Instructora y de Hacienda, se integrarán por cinco Diputados; en el caso de la Comisión Instructora fungirá como Presidente y Secretarios de las mismas los electos en primer y segundo término respectivamente, quedando los restantes como vocales.
 
 La Comisión Instructora tendrá las funciones y atribuciones que le señala la Constitución Política del Estado de Hidalgo, la Ley de Responsabilidades de los Servidores Públicos, esta Ley, su Reglamento y las disposiciones legales aplicables. Asimismo, deberán estar integradas por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
 
@@ -1477,9 +1521,11 @@ A propuesta del Coordinador General de la Junta de Coordinación Legislativa, pr
 
 El Órgano de Fiscalización Superior, contará con las Unidades Administrativas que autorice el Presupuesto de Egresos del Poder Legislativo; el nombramiento y remoción de los Titulares de éstas, se realizarán a propuesta del Auditor Superior, con la aprobación de la Junta de Coordinación Legislativa.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 191.
 
-La Comisión de Hacienda del Estado y Municipales, recibirá el informe del resultado de la revisión y fiscalización de las Cuentas Públicas y elaborará el Dictamen correspondiente, para su turno al Pleno del Congreso.
+La Comisión de Hacienda, recibirá el informe del resultado de la revisión y fiscalización de las Cuentas Públicas, y elaborará el Dictamen correspondiente, para su turno al Pleno del Congreso.
 
 ###### ARTICULO 192.
 
@@ -1729,7 +1775,7 @@ VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 ###### ARTICULO 205.
 
-Para los efectos del presente Título, el Órgano de Fiscalización Superior del Congreso del Estado, será el Órgano responsable de llevar a cabo auditorias, atender y recibir quejas, realizar investigaciones y aplicar el procedimiento y las sanciones inherentes a las responsabilidades administrativas de los Servidores Públicos del Congreso Local, así como llevar el registro y control de sus declaraciones de situación patrimonial, previstos en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Para los efectos del presente Título, el Órgano de Fiscalización Superior del Congreso del Estado, será el Órgano responsable de llevar a cabo auditorías, atender y recibir quejas, realizar investigaciones y aplicar el procedimiento y las sanciones inherentes a las responsabilidades administrativas de los Servidores Públicos del Congreso Local, así como llevar el registro y control de sus declaraciones de situación patrimonial, previstos en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 ###### ARTICULO 206.
 
@@ -1980,3 +2026,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADO CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO.- Se derogan las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Los asuntos a cargo de las Comisiones Permanentes y Especiales vigentes, se distribuirán en las nuevas Comisiones de la siguiente forma:
+
+(VEASE ARCHIVO ANEXO)
