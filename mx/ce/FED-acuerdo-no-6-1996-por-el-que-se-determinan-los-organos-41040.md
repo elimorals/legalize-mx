@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-no-6-1996-por-el-que-se-determinan-los-organos-41040"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-12-17"
-last_updated: "2003-11-11"
+last_updated: "2005-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41040&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-12-05"
 
 ACUERDO No. 6/1996 DEL TRIBUNAL EN PLENO DEL DIA CINCO DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS
 
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XVIII, NOVIEMBRE DE 2003, PAGINA 1039.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO NUMERO 9/2005, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 19 DE ABRIL DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de diciembre de 1996.
 
@@ -233,7 +235,7 @@ El Presidente de la Suprema Corte de Justicia de la Nación, José Vicente Aguin
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo 6/1996, por el que se determinan los órganos encargados de aplicar las sanciones previstas en el artículo 81 de la Ley Federal de Responsabilidades de los Servidores Públicos y se establecen las reglas relativas al registro y seguimiento de la situación patrimonial de los servidores públicos de este Alto Tribunal a que se refiere el artículo 11, fracción XIII, de la Ley Orgánica del Poder Judicial de la Federación y de los Magistrados electorales y los servidores de la Sala Superior, así como los coordinadores y demás servidores directamente adscritos a la presidencia del Tribunal Electoral, fue emitido por el Tribunal Pleno en Sesión Privada de cinco de diciembre de mil novecientos noventa y seis, por unanimidad de diez votos de los señores ministros: Presidente José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Olga M. Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, cinco de diciembre de mil novecientos noventa y seis.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 S.J.F.G., TOMO XVIII, NOVIEMBRE DE 2003, PAGINA 1039.
 
@@ -242,3 +244,13 @@ PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. No es causa de responsabilidad administrativa de los Jefes de Departamento que realizan actividades diversas a las señaladas en la fracción XII del artículo 36 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, haber omitido presentar sus declaraciones de situación patrimonial cuando dicha omisión sea posterior a la entrada en vigor de ese ordenamiento.
 
 TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ABRIL DE 2005.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga lo dispuesto en el Acuerdo General Plenario 6/1996 y en los Acuerdos Generales de Administración que se opongan al presente Acuerdo.
+
+TERCERO. Los procedimientos administrativos que se encuentren pendientes de resolución se concluirán conforme a las disposiciones vigentes antes de la entrada en vigor de este Acuerdo. Los que se inicien con posterioridad a esta fecha respecto de hechos acontecidos previamente, únicamente se regirán en su aspecto sustantivo por aquellas disposiciones.
+
+CUARTO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
