@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-navegacion-12534"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-16"
-last_updated: "2005-01-28"
+last_updated: "2005-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-10"
 
 REGLAMENTO DE LA LEY DE NAVEGACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de noviembre de 1998.
 
@@ -271,7 +271,7 @@ La dimisión de bandera de la embarcación llevará consigo la cancelación del 
 
 ###### Artículo 26.
 
-(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000).
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### Artículo 27.
 
@@ -730,6 +730,12 @@ a) Para la navegación de altura:
 5. Patente de sanidad o documento similar, y
 
 b) Para la navegación de cabotaje sólo se requerirá el formato único para el despacho de embarcaciones.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2005)</small>
+
+Artículo 67 bis.- Las embarcaciones particulares de bandera extranjera de recreo y deportivas, obtendrán la autorización de arribo exclusivamente en la capitanía del primer puerto que toquen y, al realizar navegación de cabotaje, informarán cada entrada o salida a la capitanía de puerto o al delegado honorario de la marina autorizada correspondiente y, en su caso, los cambios de tripulación. No obstante lo anterior y al igual que las de bandera mexicana, dichas embarcaciones deberán obtener el despacho del puerto cuando vayan a realizar navegación de altura.
+
+Los delegados honorarios de las marinas turísticas, deportivas o de recreo deberán llevar una bitácora de arribo y de zarpe de las embarcaciones que se asistan con regularidad en la misma, así como de las que arriben sólo de visita.
 
 ###### Artículo 68.
 
@@ -1322,3 +1328,9 @@ D.O.F. 28 DE ENERO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ABRIL DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
