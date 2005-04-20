@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-ambiental-del-estado-de-tabasco-11456"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "1997-12-27"
+last_updated: "2005-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO PUBLICADA EN EL P.O. EL 20 DE ABRIL DE 2005, SE ABROGA LA PRESENTE LEY A LOS SESENTA DIAS NATURALES A PARTIR DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 27 de diciembre de 1997.
 
@@ -2320,3 +2322,19 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. VICTOR MANUEL BARCELÓ RODRÍGUEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 20 DE ABRIL DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días naturales siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Protección Ambiental del Estado de Tabasco, aprobada mediante el Decreto 299, publicado en el Periódico Oficial del Gobierno del Estado el día 27 de diciembre de 1997.
+
+TERCERO.- Los reglamentos que se deriven de esta Ley, deberán ser expedidos dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor de este ordenamiento.
+
+CUARTO.- En tanto se expidan las disposiciones administrativas que deriven de la presente Ley, seguirán en vigor aquéllas que no la contravengan.
+
+QUINTO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, iniciados con anterioridad a la entrada en vigor de ésta, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento en que se iniciaron.
+
+SEXTO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirá en vigor el Reglamento de la Ley de Protección Ambiental del Estado de Tabasco en materia de prevención y control de la contaminación de la atmósfera, en lo que no se oponga a la presente.
