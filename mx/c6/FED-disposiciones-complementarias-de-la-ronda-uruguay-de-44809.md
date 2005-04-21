@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-ronda-uruguay-de-44809"
 country: "mx"
 rank: "otro"
 publication_date: "2005-01-24"
-last_updated: "2005-01-24"
+last_updated: "2005-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,49 @@ issue_date: "2005-01-21"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA RONDA URUGUAY DE NEGOCIACIONES COMERCIALES MULTILATERALES Y, EL ACUERDO POR EL QUE SE ESTABLECE LA ORGANIZACION MUNDIAL DEL COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CONTINGENTE MINIMO PARA IMPORTAR EN 2005, EXENTA DE ARANCEL, LECHE EN POLVO ORIGINARIA DE LOS PAÍSES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO
+ACUERDO POR EL QUE SE DA A CONOCER EL MECANISMO DE SALVAGUARDIA DE TRANSICION CONTENIDO EN EL PROTOCOLO DE ADHESION DE LA REPUBLICA POPULAR CHINA A LA ORGANIZACION MUNDIAL DEL COMERCIO
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de enero de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de abril de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); en los artículos 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio, publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
+Que el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo por el que se establece la Organización Mundial del Comercio que fue aprobado por el Senado de la República el 13 de julio de 1994, publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año, y entró en vigor el 1 de enero de 1995;
 
-Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
+Que el 10 de noviembre de 2001, la Conferencia Ministerial de la Organización Mundial del Comercio adoptó el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio, por lo que a partir del 11 de diciembre de 2001, se convirtió legalmente en miembro de dicha organización;
 
-Que el mecanismo de asignación del contingente arancelario de importación de leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, es un instrumento de la política sectorial para complementar el abasto doméstico y la competitividad del comercio fronterizo;
+Que dicho Protocolo de Adhesión contempla, entre otras disposiciones, un mecanismo de salvaguardia de transición para productos específicos que contempla un procedimiento que deberá llevar a cabo la Secretaría de Economía, y
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, establece en el artículo sexto transitorio inciso IV, Disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este . ordenamiento con la citada ley, y
+Que para otorgar mayor certeza jurídica en las acciones que se llevan a cabo por la Secretaría de Economía como parte del Gobierno Federal, he tenido a bien expedir el siguiente:
 
-Que la medida a que se refiere el presente instrumento, ha sido aprobado por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+ACUERDO POR EL QUE SE DA A CONOCER EL MECANISMO DE SALVAGUARDIA DE TRANSICION CONTENIDO EN EL PROTOCOLO DE ADHESION DE LA REPUBLICA POPULAR CHINA A LA ORGANIZACION MUNDIAL DEL COMERCIO
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CONTINGENTE MINIMO PARA IMPORTAR EN 2005, EXENTA DE ARANCEL, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO
+###### ARTICULO UNICO.
+
+Se da a conocer el mecanismo de salvaguardia de transición para productos específicos contenido en el artículo 16 del Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio:
+
+"Mecanismo de salvaguardia de transición para productos específicos:
+
+1. En aquellos casos en que productos de origen chino se estén importando en el territorio de cualquier Miembro de la OMC en tal cantidad y en condiciones tales que causen o amenacen causar una desorganización del mercado para los productores nacionales de productos similares o directamente competidores, el Miembro de la OMC así afectado podrá pedir la celebración de consultas con China con el fin de llegar a una solución mutuamente satisfactoria, incluida la cuestión de si el Miembro de la OMC afectado debe proceder a la aplicación de una medida al amparo del Acuerdo sobre Salvaguardias. Las solicitudes de este tipo serán notificadas inmediatamente al Comité de Salvaguardias.
+
+2. Cuando, en el curso de estas consultas bilaterales, se convenga que las importaciones de origen chino son tal causa y que es necesario adoptar medidas, China adoptará las medidas necesarias para prevenir o reparar la desorganización del mercado. Las medidas de este tipo serán notificadas inmediatamente al Comité de Salvaguardias.
+
+3. Si las consultas no permiten llegar a un acuerdo entre China y el Miembro de la OMC en cuestión en un plazo de 60 días contados a partir de la recepción de la solicitud de las mismas, el Miembro de la OMC afectado quedará en libertad, en lo que respecta a tales productos, de retirar concesiones o limitar de otro modo las importaciones pero sólo en la medida necesaria para prevenir o reparar la desorganización del mercado. Las medidas de este tipo serán notificadas inmediatamente al Comité de Salvaguardias.
+
+4. Existirá desorganización del mercado siempre que las importaciones de un artículo similar a otro artículo producido por la rama de producción nacional o que compita directamente con él estén aumentando rápidamente, en términos absolutos o relativos, de forma que sean una causa importante de daño grave o amenaza de daño grave para la rama de producción nacional. Para determinar si existe desorganización del mercado, el Miembro de la OMC afectado considerará factores objetivos, entre ellos, el volumen de las importaciones, el efecto de las importaciones sobre los precios de artículos similares o directamente competidores y el efecto de esas importaciones sobre la rama de producción nacional que produce productos similares o directamente competidores.
+
+5. Antes de aplicar una medida de conformidad con el párrafo 3, el Miembro de la OMC que la adopte hará llegar un aviso público razonable a todas las partes interesadas y dará oportunidades adecuadas a los importadores, exportadores y demás partes interesadas para que expongan sus opiniones y pruebas de la adecuación de la medida propuesta y de si redundará en beneficio del interés público. El Miembro de la OMC anunciará, por escrito, la decisión de aplicar una medida, con inclusión de los motivos de la misma y su alcance y duración.
+
+6. Los Miembros de la OMC sólo aplicarán medidas al amparo de la presente sección durante el periodo de tiempo necesario para prevenir o reparar la desorganización del mercado. Si se adopta una medida como resultado de un aumento relativo del nivel de las importaciones, China tendrá derecho a suspender la aplicación de concesiones u obligaciones sustancialmente equivalentes resultantes del GATT de 1994 al comercio del Miembro de la OMC que aplique la medida, si tal medida se mantiene en vigor más de dos años. Sin embargo, si se adopta una medida como resultado de un aumento absoluto de las importaciones, China tendrá derecho a suspender la aplicación de concesiones u obligaciones sustancialmente equivalentes resultantes del GATT de 1994 al comercio del Miembro de la OMC que aplique la medida, si tal medida se mantiene en vigor más de tres años. Las medidas de este tipo que adopte China serán notificadas inmediatamente al Comité de Salvaguardias.
+
+7. En circunstancias críticas, en las que cualquier demora entrañaría un perjuicio difícilmente reparable, el Miembro de la OMC afectado podrá adoptar una medida de salvaguardia provisional en virtud de una determinación preliminar de que las importaciones han causado o amenazan causar una desorganización del mercado. En tal caso, se dará notificación inmediatamente después al Comité de Salvaguardias de la medida adoptada y se presentará una solicitud de consultas bilaterales. La duración de la medida provisional no excederá de 200 días, durante los cuales se cumplirán las prescripciones pertinentes de los párrafos 1, 2 y 5. Se computará como parte del periodo previsto en el párrafo 6 la duración de esas medidas provisionales.
+
+8. Si un Miembro de la OMC considera que una medida adoptada de conformidad con los párrafos 2, 3 o 7 causa o amenaza causar una desviación importante del comercio hacia su mercado, podrá solicitar consultas con China y/o el Miembro de la OMC de que se trate. Las consultas se celebrarán en un plazo de 30 días contados a partir de la notificación de la solicitud al Comité de Salvaguardias. Si tales consultas no permiten llegar a un acuerdo entre China y el Miembro o Miembros de la OMC en cuestión en un plazo de 60 días contados a partir de la notificación, el Miembro de la OMC solicitante quedará en libertad, con respecto a tal producto, para retirar concesiones acordadas o limitar de otro modo las importaciones procedentes de China en la medida necesaria para prevenir o reparar tal desviación. Las medidas de este tipo serán notificadas inmediatamente al Comité de Salvaguardias.
+
+9. La aplicación de la presente sección terminará 12 años después de la fecha de la adhesión.
 
 ###### ARTICULO PRIMERO.
 
@@ -167,66 +189,6 @@ Los formatos a que se hace referencia en este Acuerdo estarán a disposición de
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 15 de julio de 2005.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 21 de enero de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
-
-> <small>N. DE E. ANEXOS</small>
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CONTINGENTE MINIMO PARA IMPORTAR LECHE EN POLVO EN 2005
-
-PARA EMPRESAS CON ANTECEDENTES DE ASIGNACION EN EL AÑO PREVIO
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO
-
-* No se menciona a la empresa del sector público porque no se sujeta a estos requisitos.
-
-(1) El auditor externo deberá firmar el reporte e indicar su número de registro, así como rubricar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de cupo de importación de leche en polvo OMC y/o TLCAN.
-
-(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
-
-(3) Se deberá utilizar el factor de conversión de 8.5 para leche en polvo entera; de 11.3 para leche en polvo descremada; de 6.5 para suero de leche; y de 3.5 para crema de leche.
-
-(4) En el caso de leche en polvo, crema y suero de leche de procedencia nacional, se deberá indicar el ganadero productor de leche fluida a partir de la cual se elaboró este insumo; de no presentar esta información el reporte, no se considerará como consumo de leche fluida, de conformidad con lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005.
-
-NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CONTINGENTE MINIMO PARA IMPORTAR LECHE EN POLVO EN 2005
-
-PARA EMPRESAS SIN ANTECEDENTES DE ASIGNACION EN EL AÑO PREVIO
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-Asignación Directa
-
-1/1
-
-(VEASE ARCHIVO ANEXO)
-
-* No se menciona a la empresa del sector público porque no se sujeta a estos requisitos.
-
-(1) El auditor externo deberá firmar el reporte e indicar su número de registro, así como rubricar todas las hojas de los anexos que integren su reporte.
-
-(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
-
-(3) Se deberá utilizar el factor de conversión de 8.5 para leche en polvo entera y de 11.3 para leche en polvo descremada.
-
-(4) En el caso de leche en polvo de procedencia nacional, se deberá indicar el ganadero productor de leche fluida a partir de la cual se elaboró este insumo; de no presentar esta información el reporte, no se considerará como consumo de leche fluida, de conformidad con lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005.
-
-NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
+México, D.F., a 12 de abril de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
