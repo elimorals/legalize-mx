@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-04-01"
+last_updated: "2005-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1185,7 +1185,9 @@ III.- Servicios Médicos Municipales;
 
 IV.- Talleres Municipales; y
 
-V.- Grúas.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+V.- Depósitos Vehiculares.
 
 ###### ARTICULO 61.
 
@@ -1277,15 +1279,25 @@ V.- Adquirir el material, refacciones y partes a utilizar en la reparación y ma
 
 VI.- Mantener un padrón de proveedores autorizados conforme a las disposiciones aplicables, para la prestación de los servicios de reparación y mantenimiento de vehículos, equipo de transporte y maquinaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 65.
 
-El Departamento de Grúas tendrá como función, otorgar el servicio de salvamento, arrastre y almacenaje de vehículos, cuando sea necesario llevar a cabo tales actividades en aplicación de leyes de competencia municipal, ó de reglamentos municipales, encargándose de:
+El Departamento de Depósitos Vehiculares tendrá como función, otorgar el servicio de salvamento, arrastre y almacenaje de vehículos, cuando sea necesario llevar a cabo tales actividades en aplicación de leyes de competencia municipal, o de reglamentos municipales, encargándose de:
 
 I.- Resguardar los vehículos y bienes bajo su custodia;
 
-II.- Administrar los depósitos de vehículos y bienes con los que cuente; y,
+II.- Administrar los depósitos de vehículos y bienes con los que cuente; y (sic),
 
-III.- Auxiliar a las dependencias, en la aplicación de leyes y reglamentos, en lo relativo al salvamento, arrastre y almacenaje de vehículos u otro tipo de bienes.
+III.- Auxiliar a las dependencias, en la aplicación de leyes y reglamentos, en lo relativo al salvamento, arrastre y almacenaje de vehículos u otro tipo de bienes;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+IV.- Supervisar el funcionamiento de los depósitos vehiculares concesionados.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+V.- Auxiliar al Departamento de Recaudación de Rentas en el proceso de remate de vehículos embargados.
 
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
 
@@ -2754,6 +2766,10 @@ CUARTO.- Que se cree una línea telefónica llamada "línea por una familia de v
 P.O. 1 DE ABRIL DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE ABRIL DE 2005.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ###### ARTÍCULO ÚNICO.
 
