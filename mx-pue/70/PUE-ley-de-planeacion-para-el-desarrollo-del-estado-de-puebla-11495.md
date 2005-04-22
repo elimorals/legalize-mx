@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planeacion-para-el-desarrollo-del-estado-de-puebla-11495
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2002-05-22"
+last_updated: "2005-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el sábado 31 de diciembre de 1983.
 
@@ -131,7 +131,9 @@ X.- Municipio.- Cada uno de los Municipios del Estado;
 
 XI.- Planeación del Desarrollo.- El medio para transformar la realidad social e introducir en programas de acción los objetivos señalados por una política determinada. Significa fijar objetivos y metas; determinar estrategias y prioridades, asignar recursos, responsabilidades y tiempos de ejecución; coordinar esfuerzos y evaluar resultados; y
 
-XII.- Secretaría.- La Secretaría de Finanzas y Desarrollo Social.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+XII.- Secretaría.- La Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
@@ -139,9 +141,11 @@ XII.- Secretaría.- La Secretaría de Finanzas y Desarrollo Social.
 
 El Ejecutivo y los Ayuntamientos, son responsables, en el ámbito de su competencia, de llevar a cabo y conducir la Planeación del Desarrollo, fomentando la participación de los sectores económico, social y privado que integran el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 5º.
 
-Los planes y programas que realicen las dependencias que integran la administración pública estatal, se sujetarán a los objetivos y prioridades establecidos en el Plan de Desarrollo Estatal.
+Los programas que realicen las Dependencias y Entidades que integran la Administración Pública Estatal, se sujetarán a los objetivos y prioridades establecidos en el Plan Estatal de Desarrollo.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
@@ -175,13 +179,33 @@ VI.- Un desarrollo financiero consistente en el establecimiento de políticas fi
 
 Los elementos de instrumentación del Sistema Estatal de Planeación Democrática serán los siguientes:
 
-I.- Plan de Desarrollo Estatal.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
 
-II.- Planes de Desarrollo Municipal.
+I.- Plan Estatal de Desarrollo, que presenta el Titular del Poder Ejecutivo, por el periodo constitucional que le corresponda, pudiendo contener consideraciones y proyecciones de mayor plazo;
 
-III.- Programas Regionales y Especiales.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
 
-IV.- Programas Sectoriales e Institucionales.
+II.- Plan Municipal de Desarrollo, que presentan los Ayuntamientos a través de los Presidentes Municipales, por el periodo constitucional que le corresponda, pudiendo contener consideraciones y proyecciones de mayor plazo;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+III.- Programas Sectoriales, aquéllos que son elaborados por un conjunto de Dependencias y Entidades que forman parte de un sector, coordinado por la Dependencia cabeza de sector, la cual será responsable de integrar la información correspondiente. Estos programas deberán alinearse al Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+IV.- Programas Institucionales, los que elaboran las Dependencias y Entidades, de acuerdo a sus atribuciones y funciones, los cuales deberán alinearse al Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+V.- Programas Regionales, los que se refieren al desarrollo de dos o más Municipios del Estado; los cuales deberán alinearse al Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+VI.- Programas Especiales, los que el Ejecutivo del Estado determine como prioritarios para el desarrollo del Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+VII.- Programas Anuales, los que elaboran anualmente las Dependencias y Entidades, mismos que deberán ser congruentes con los Programas Institucionales y en los que se especificarán las acciones que ejecutarán estas instancias.
 
 ###### ARTICULO 10.
 
@@ -195,7 +219,9 @@ III.- Prever el cumplimiento y la consistencia de las políticas, objetivos, met
 
 IV.- Impulsar, motivar y promover la participación popular en la planeación a través de foros de consulta, donde se darán a conocer los diagnósticos, problemática y alternativas para la elaboración de los planes y programas de desarrollo estatal y municipal.
 
-V.- Evaluar periódicamente el avance de los planes, programas y presupuestos de las dependencias de la administración pública estatal, así como los resultados de su ejecución comparándolos con los objetivos y metas del Plan de desarrollo Estatal, a fin de adoptar las medidas necesarias para corregir las desviaciones que pudieren suscitarse y reestructurar, en su caso, los programas respectivos.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+V.- Evaluar periódicamente el avance de los programas y presupuestos de las Dependencias y Entidades de la Administración Pública Estatal, así como los resultados de su ejecución comparándolos con los objetivos y metas del Plan Estatal de Desarrollo, a fin de adoptar las medidas necesarias para corregir las desviaciones que pudieren suscitarse y reestructurar, en su caso, los programas respectivos.
 
 VI.- Exigir el cumplimiento de todas y cada una de las disposiciones contenidas en la presente Ley.
 
@@ -213,7 +239,9 @@ II.- Realizar por si o de manera coordinada con las Dependencias y Entidades de 
 
 III.- Coordinarse entre si o con otros niveles o Entidades de Gobierno, en los rubros de gasto, deuda y patrimonio, con el objeto de realizar obra, prestar servicios públicos y la satisfacción de necesidades en forma conjunta;
 
-IV.- Suscribir entre sí o con otros niveles o Entidades de Gobierno los convenios, anexos, planes, programas, fondos o cualquier acto jurídico que tengan por objeto definir y establecer los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales para la ejecución de obras, acciones o la prestación de servicios públicos;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+IV.- Suscribir entre sí o con otros niveles o Entidades de Gobierno, los convenios, anexos, programas, fondos o cualquier acto jurídico que tengan por objeto definir y establecer los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales para la ejecución de obras, acciones o la prestación de servicios públicos;
 
 V.- Establecer los mecanismos que permitan la formulación, ejecución, financiamiento, información, seguimiento, evaluación y control coordinada de programas y acciones y otorgar los actos jurídicos y administrativos para garantizar su operatividad;
 
@@ -249,13 +277,17 @@ I.- Constituir el foro de consulta y análisis de las demandas de los diferentes
 
 II.- Promover la participación de la comunidad en el proceso de planeación.
 
-III.- Promover y coadyuvar con la participación de los diversos sectores de la comunidad en la elaboración y actualización del Plan de Desarrollo Estatal, de los planes y programas de desarrollo que requiera la Entidad, dentro del marco normativo del Sistema Estatal de Planeación Democrática.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+III.- Promover y coadyuvar con la participación de los diversos sectores de la comunidad, en la elaboración y actualización del Plan Estatal de Desarrollo, de los planes y programas de desarrollo que requiera la Entidad, dentro del marco normativo del Sistema Estatal de Planeación Democrática.
 
 IV.- Fomentar la coordinación entre los tres niveles de Gobierno Federal, Estatal y Municipal, así como la cooperación de los sectores social y privado, para su participación en el proceso de planeación.
 
 V.- Promover la instrumentación del proceso de planeación en sus vertientes de coordinación y concertación.
 
-VI.- Aprobar en Asamblea plenaria los planes y programas de desarrollo, dentro del marco normativo del sistema Estatal de Planeación Democrática.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+VI.- Aprobar en Asamblea plenaria y dentro del marco normativo del Sistema Estatal de Planeación Democrática, el Plan Estatal de Desarrollo, dentro de los ciento veinte días posteriores a la fecha de toma de posesión del Gobernador del Estado, para que éste se publique a más tardar dentro de los treinta días siguientes al de su aprobación; su vigencia no excederá del periodo constitucional que le corresponda, pudiendo contener consideraciones y proyecciones de mayor plazo.
 
 ### CAPITULO III. DEL PROCESO DE PLANEACION
 
@@ -275,17 +307,21 @@ III.- Control y,
 
 IV.- Evaluación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 15.
 
-Dentro del proceso de planeación se deberá realizar, en forma anual y en congruencia con el Plan de Desarrollo Estatal, los siguientes productos:
+Dentro del proceso de planeación se deberá realizar, en forma anual y en congruencia con el Plan Estatal de Desarrollo, los siguientes productos:
 
 I.- Propuesta de inversión, gasto y financiamiento federal de alcance estatal.
 
 II.- Presupuesto de egresos por programas en el Estado y Municipios.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 16.
 
-En relación a los productos de mediano plazo, el proceso de planeación estará integrado por el Plan de Desarrollo Estatal, planes municipales, así como de programas regionales y sectoriales.
+En relación a los productos de mediano plazo, el proceso de planeación estará integrado por el Plan Estatal de Desarrollo, planes municipales, así como de programas regionales y sectoriales.
 
 ###### ARTICULO 17.
 
@@ -293,11 +329,21 @@ Dentro del proceso de planeación deberán considerarse los siguientes niveles:
 
 I.- Estatal.
 
-II.- Sectorial e Institucional.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
 
-III.- Municipal.
+II.- Sectorial;
 
-IV.- Regional.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+III.- Institucional;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+IV.- Regional; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+V.- Municipal.
 
 ###### ARTICULO 18.
 
@@ -341,11 +387,15 @@ Los planes y programas que se elaboren deberán someterse a un análisis de cong
 
 El plan elaborado a nivel estatal indicará los programas sectoriales y regionales que deban realizarse en las diversas dependencias de la administración pública estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 24.
 
-Los programas sectoriales deberán:
+Los programas sectoriales, institucionales, regionales y especiales deberán:
 
-I.- Observar congruencia con el Plan de Desarrollo Estatal.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+I.- Observar congruencia con el Plan Estatal de Desarrollo.
 
 II.- Especificar los objetivos, metas y estrategias, prioridades y políticas que conducirán las actividades de los sectores productivos, sociales y de apoyo.
 
@@ -377,9 +427,11 @@ VIII. SECTORES DE APOYO.- Actividades que determinan la infraestructura que apoy
 
 Los programas regionales desarrollan equilibradamente áreas geográficas determinadas de acuerdo a su potencial en recursos y necesidades.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 27.
 
-Una vez determinada la vigencia de los planes y programas, serán obligatorios para el Estado y aquellas dependencias a quienes corresponda su ejecución.
+Una vez publicado el Plan Estatal de Desarrollo y determinada la vigencia de los programas, serán obligatorios para el Estado y aquellas Dependencias y Entidades a quienes corresponda su ejecución.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPITULO V], P.O. 22 DE MAYO DE 2002)</small>
 
@@ -431,9 +483,11 @@ I.- Establecer las bases para la conformación y operación de un sistema que te
 
 II.- Establecer las bases para la suscripción de convenios que serán la vía de coordinación, entre el Estado y el Municipio, para la planeación, ejecución, seguimiento y control de programas y acciones;
 
-III.- Fijarlos parámetros para la conformación y suscripción de los convenios, anexos y declaratorias que especifiquen las acciones que las partes acuerden para el cumplimiento de los fines de esta Ley;
+III.- Fijar los parámetros para la conformación y suscripción de los convenios, anexos y declaratorias que especifiquen las acciones que las partes acuerden para el cumplimiento de los fines de esta Ley;
 
-IV- Establecer las bases que permitan la participación de los sectores social y privado en la ejecución de los Planes y Programas de Desarrollo Estatal, Regional y Municipal; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+IV.- Establecer las bases que permitan la participación de los sectores social y privado en la ejecución de los Programas de Desarrollo Estatal, Regional y Municipal; y
 
 V.- Normar la participación del Estado y el Municipio, en la ejecución conjunta de los Planes de Desarrollo de cada uno y de Programas de carácter Regional.
 
@@ -449,9 +503,21 @@ Los productos emanados de las vertientes de coordinación y concertación, deber
 
 Son sujetos de esta Ley:
 
-I.- Las Dependencias y Entidades del Municipio; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
 
-II.- Las Dependencias y Entidades del Estado.
+I.- El Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+II.- Los Ayuntamientos de la Entidad;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+III.- Las Dependencias y Entidades del Estado y;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
+
+IV.- Las Dependencias y Entidades del Municipio.
 
 ###### ARTICULO 34.
 
@@ -577,7 +643,7 @@ Las Dependencias y Entidades del Estado y de los Municipios que suscriban instru
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 44.
+###### ARTICULO 44.
 
 En los casos en que el Estado o el Municipio administren fondos integrados con recursos de ambos, deberán acordarse los mecanismos de información para la integración de la cuenta pública de cada uno, el límite de responsabilidades en este rubro y los procedimientos a seguir en caso de incumplimiento de una de las partes.
 
@@ -587,13 +653,13 @@ Asimismo, podrán acordar un programa de trabajo para el intercambio de informac
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Articulo 45.
+###### ARTICULO 45.
 
 La fiscalización de programas y acciones, ejecutados con recursos que no forman parte de la libre administración hacendaria del Estado y el Municipio, se realizará de conformidad con los ordenamientos y convenios que les resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 46.
+###### ARTICULO 46.
 
 El Estado y el Municipio evaluarán los programas y acciones materia de este ordenamiento y de los convenios que suscriban, para tal efecto, podrán acordar lo siguiente:
 
@@ -609,15 +675,15 @@ IV.- En su caso, un informe relativo a los programas y acciones de carácter reg
 
 #### SECCION II. DEL CONTROL Y EVALUACION
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 47.
+
+Para efectos de esta Ley, se determina como control a las acciones necesarias para lograr una oportuna detección y corrección de desviaciones e insuficiencias en la ejecución de los Programas de Desarrollo, y además de las disposiciones previstas en el Capítulo IV del presente ordenamiento, en materia de control y evaluación serán aplicables los ordenamientos previstos en esta sección.
+
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 47.
-
-Para efectos de esta Ley, se determina como control a las acciones necesarias para lograr una oportuna detección y corrección de desviaciones e insuficiencias en la ejecución de los Planes y Programas de Desarrollo, y además de las disposiciones previstas en el Capítulo IV del presente ordenamiento, en materia de control y evaluación serán aplicables los ordenamientos previstos en esta sección.
-
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
-
-###### Artículo 48.
+###### ARTICULO 48.
 
 Para la etapa de control se ejecutarán las siguientes actividades:
 
@@ -631,13 +697,13 @@ IV.- Seguimiento de los Planes y Programas.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 49.
+###### ARTICULO 49.
 
 Para efectos de esta Ley, la evaluación será la acción de cotejar periódicamente previsiones y resultados para retroalimentar las actividades de formulación e instrumentación, con lo que se cierra el ciclo del proceso de planeación.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 50.
+###### ARTICULO 50.
 
 Las actividades que deberán realizarse en la etapa de evaluación, serán las siguientes:
 
@@ -651,13 +717,13 @@ IV.- Evaluación Municipal.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 51.
+###### ARTICULO 51.
 
 El proceso de evaluación deberá realizarse de tal manera que valore la eficacia y mida la eficiencia, así como la congruencia de la acción del Gobierno Estatal o Municipal.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 52.
+###### ARTICULO 52.
 
 Los resultados que se obtengan de la evaluación deberán retroalimentar las metas y estrategias de los planes y programas de mediano plazo.
 
@@ -667,19 +733,19 @@ Los resultados que se obtengan de la evaluación deberán retroalimentar las met
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 53.
+###### ARTICULO 53.
 
 A los funcionarios de la Administración Pública Estatal que contravengan las disposiciones de esta Ley, las que de ella se deriven o los objetivos y prioridades de los Planes y Programas de Desarrollo, se les impondrán las medidas disciplinarias de apercibimiento o amonestación, y si la gravedad de la infracción lo amerita el Ejecutivo podrá suspender o remover de su cargo al funcionario responsable. Iguales atribuciones tendrán los Ayuntamientos en el ámbito de su competencia.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 54.
+###### ARTICULO 54.
 
 Las responsabilidades a que se refiere esta Ley, son independientes de las de orden civil, penal y oficial que se puedan derivar de los mismos hechos.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
-###### Artículo 55.
+###### ARTICULO 55.
 
 Todo Plan, Programa, Proyecto o Presupuesto, que no sea congruente con el Plan Estatal o Municipal, podrá ser objeto de su cancelación por las autoridades competentes.
 
@@ -720,3 +786,11 @@ SEXTO.- Se autoriza al Titular del Poder Ejecutivo del Estado, para suscribir Co
 - La reasignación, obtención de subsidios, transferencias y demás recursos emanados del Presupuesto de Egresos de la Federación; y
 
 - El establecimiento de programas, con el propósito de asegurar la calidad y permanencia en la prestación de servicios, la autosuficiencia de recursos de las Dependencias o Entidades, entre otros aspectos.
+
+P.O. 22 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El término previsto en la fracción VI del artículo 12 del presente Decreto, no aplicará para la presente Administración Pública Estatal.
