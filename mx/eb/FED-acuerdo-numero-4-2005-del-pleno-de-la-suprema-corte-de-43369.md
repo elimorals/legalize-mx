@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-4-2005-del-pleno-de-la-suprema-corte-de-43369"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-02-14"
-last_updated: "2005-02-14"
+last_updated: "2005-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-01-25"
 
 ACUERDO NUMERO 4/2005, DE VEINTICINCO DE ENERO DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEXTO TRANSITORIOS DEL ACUERDO NUMERO 8/2005, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 22 DE ABRIL DE 2005, SE DEROGA EL PRESENTE ORDENAMIENTO EN LO QUE NO SE OPONGA A LO DISPUESTO EN EL CITADO ACUERDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ABRIL DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de febrero de 2005.
 
@@ -356,3 +358,23 @@ TOTAL DE PLAZAS 2711
 (VEASE ARCHIVO ANEXO)
 
 JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, en su Sesión Privada celebrada el veinticinco de enero de dos mil cinco emitió el Acuerdo Número 4/2005, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, y sus Anexos UNO (CATALOGO Y DEFINICION DE LOS PUESTOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION) y DOS (LISTADO DE LAS PLAZAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION); y en su sesión privada celebrada hoy, treinta y uno del mismo mes, aprobó el texto del documento formal que antecede y que contiene dicho Acuerdo, firmado por el señor Ministro Presidente y el suscrito, y los Anexos mencionados.- México, Distrito Federal, treinta y uno de enero de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 22 DE ABRIL DE 2005.
+
+PRIMERO. Este Acuerdo entrará en vigor el dieciséis de marzo de dos mil cinco.
+
+SEGUNDO. A partir de la entrada en vigor de este Acuerdo General, la Dirección General de Recursos y Desarrollo Humanos se dividirá en dos direcciones generales, la de Desarrollo Humano y Acción Social y la de Personal.
+
+TERCERO. Los documentos en que se precisen las funciones de las plazas que se crean con motivo de este Acuerdo General, deberán remitirse dentro de los treinta días hábiles siguientes a la entrada en vigor de este Acuerdo, a la Dirección General de Personal.
+
+CUARTO. La Secretaría General de Acuerdos remitirá a la Dirección General de Personal sendos documentos en los que realice la certificación relativa a las plazas de la Suprema Corte de Justicia de la Nación que fueron creadas por el Pleno en su sesión celebrada el día de hoy, señalando su número progresivo, la plantilla a la que pertenecen y, en su caso, la plaza a la que sustituyen, con la finalidad de que sean anexados, respectivamente, a los expedientes a los que se refiere el punto tercero de este Acuerdo General.
+
+QUINTO. La Secretaría General de la Presidencia y Oficialía Mayor, por conducto del área que designe, así como las Secretarías de Acuerdos de las Salas, deberán realizar los trámites necesarios para que a más tardar el veintinueve de abril de dos mil cinco, se entreguen a los trabajadores sus nombramientos en las plazas objeto de esta regulación, así como para que los recibos de pago de los servidores públicos de este Alto Tribunal reflejen su puesto, percepciones y prestaciones, atendiendo al catálogo al que se refiere el punto primero de este Acuerdo General.
+
+La Secretaría General de la Presidencia y Oficialía Mayor, por conducto de la Dirección General de Personal, en coordinación con la Secretaría General de Acuerdos y las Secretarías de Acuerdos de las Salas, instrumentarán un programa para actualizar en el mes de abril de dos mil cinco, las credenciales de los servidores públicos de este Alto Tribunal.
+
+SEXTO. Con excepción de sus puntos transitorios primero a quinto y séptimo a décimo primero, se deroga lo previsto en el Acuerdo General Plenario 4/2005 relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, en lo que se oponga a lo dispuesto en este Acuerdo General.
+
+SEPTIMO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
