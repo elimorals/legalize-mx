@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-4289
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-24"
-last_updated: "2004-12-24"
+last_updated: "2005-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de diciembre de 2004.
 
@@ -353,7 +353,7 @@ En los casos de licencias por más de 30 días, no podrá autorizarse el goce de
 
 Las solicitudes de licencia por más de 30 días, deberán ser autorizadas por el Pleno del Congreso o, en su caso, por la Diputación Permanente, por mayoría de votos de los diputados presentes. Para este efecto, el Presidente del Pleno o de la Diputación Permanente, dará a conocer la solicitud en la sesión que se celebre inmediatamente después de haberse recibido o en aquella en que se reciba o presente, procediendo inmediatamente en ambos casos, a someterla a consideración y resolución del Pleno o la Diputación Permanente.
 
-Sólo se concederán licencias por causa o motivo que las justifiquen plenamente y a un número de diputados que no sobrepase a la cuarta parte de la totalidad de los integrantes del Congreso.
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
 
 Cuando sea la Diputación Permanente la que conceda licencia a un Diputado propietario por más de 30 días, se abstendrá de llamar al Diputado Suplente, quien rendirá la protesta en el período ordinario siguiente o antes, en caso de convocarse a un período extraordinario, salvo que la Junta de Gobierno solicite su integración inmediata, para asegurar la atención de las encomiendas y asuntos a cargo del propietario.
 
@@ -601,7 +601,7 @@ XXX.- Las demás que sean necesarias para el ejercicio de sus funciones, en los 
 
 ###### ARTICULO 62.
 
-Cuando el Presidente haga uso de la palabra durante las sesiones en el desempeño de la funciones que esta Ley le señala, permanecerá sentado; pero si desea intervenir directamente en la discusión de un asunto, lo hará de pié como cualquier otro Diputado, encargando la conducción de los trabajos al primer vicepresidente o, en su defecto, al segundo vicepresidente.
+Cuando el Presidente haga uso de la palabra durante las sesiones en el desempeño de las funciones que esta Ley le señala, permanecerá sentado; pero si desea intervenir directamente en la discusión de un asunto, lo hará de pié como cualquier otro Diputado, encargando la conducción de los trabajos al primer vicepresidente o, en su defecto, al segundo vicepresidente.
 
 ### CAPITULO III. DE LOS VICEPRESIDENTES
 
@@ -645,7 +645,7 @@ IV.- Supervisar los servicios parlamentarios relacionados con la celebración de
 
 2.- Se elabore la minuta de las sesiones y se ponga a consideración del Presidente;
 
-3..- Se lleve el registro de minutas en el libro correspondiente;
+3.- Se lleve el registro de minutas en el libro correspondiente;
 
 4.- Se conformen y mantengan al día los expedientes de los asuntos competencia del Pleno y se asienten y firmen los trámites correspondientes en dichos expedientes;
 
@@ -1713,7 +1713,7 @@ En caso de que no se reúna el quórum necesario para sesionar, se citará de nu
 
 La Diputación Permanente continuará en funciones, aún cuando el Pleno entre en período extraordinario de sesiones, por lo que no suspenderá sus trabajos, salvo en aquello que se refiera a los asuntos para los que haya sido convocado el período extraordinario.
 
-## TITULO OCTAVO. DE LA SESIONES Y PROCEDIMIENTOS LEGISLATIVOS
+## TITULO OCTAVO. DE LA (SIC) SESIONES Y PROCEDIMIENTOS LEGISLATIVOS
 
 ### CAPITULO I. DE LAS SESIONES
 
@@ -1759,7 +1759,7 @@ Las sesiones extraordinarias deberán cerrarse precisamente antes del día en qu
 
 Las solemnes son aquellas a que se refiere el artículo 175 del presente ordenamiento y en ellas no podrá haber deliberaciones, ni participación de oradores distintos a los que señale el orden del día respectivo, por lo que también será omitida la lectura de la minuta de la sesión anterior. En estas sesiones se rendirán honores a la Bandera y se entonará el Himno Nacional, así como el Himno Coahuilense.
 
-La Diputación Permanente podrá convocar a sesiones solemnes, a las que se invitará al los demás diputados integrantes de la Legislatura. En estos casos, corresponderá al Presidente de la Diputación Permanente la conducción de la sesión.
+La Diputación Permanente podrá convocar a sesiones solemnes, a las que se invitará al (sic) los demás diputados integrantes de la Legislatura. En estos casos, corresponderá al Presidente de la Diputación Permanente la conducción de la sesión.
 
 ###### ARTICULO 167.
 
@@ -2918,3 +2918,11 @@ DIP. EVARISTO LENIN PÉREZ RIVERA.
 DIP. GREGORIO CONTRERAS PACHECO.
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ABRIL DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
