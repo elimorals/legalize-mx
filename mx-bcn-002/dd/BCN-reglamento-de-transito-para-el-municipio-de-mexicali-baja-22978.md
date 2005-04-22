@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-03-11"
+last_updated: "2005-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1711,9 +1711,11 @@ I.- Cuando la Dirección implemente programas preventivos para la detección de 
 
 II.- Cuando los agentes coadyuven con el Ministerio Público, o con los órganos de seguridad pública o procuración de justicia, en la prevención, averiguación y esclarecimiento de delitos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+
 ###### ARTÍCULO 138.
 
-Las sanciones se harán constar en boletas sobre formas impresas y foliadas, con el número de copias necesarias, que deberán contener cuando menos los siguientes datos:
+Las sanciones se harán constar en boletas sobre formas impresas y foliadas, con el número de copias necesarias, que deberán ser en el idioma español e inglés, y deberán contener cuando menos los siguientes datos:
 
 I.- Nombre y domicilio del infractor, y en su caso del propietario del vehículo;
 
@@ -1944,3 +1946,9 @@ P.O. 10 DE SEPTIEMBRE DE 2004.
 P.O. 11 DE MARZO DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE ABRIL DE 2005.
+
+PRIMERO.- Los formatos actuales o los que pudieran estar en proceso de elaboración al momento de entrar en vigor el presente acuerdo, se utilicen hasta agotar existencias.
+
+SEGUNDO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
