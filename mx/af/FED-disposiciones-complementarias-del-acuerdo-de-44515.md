@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44515"
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-30"
-last_updated: "2004-12-30"
+last_updated: "2005-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,70 +19,72 @@ issue_date: "2004-12-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 61 (MULTILATERAL, 2004)
 
-DECRETO PARA LA APLICACION DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 61, SUSCRITO ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR DURANTE EL AÑO DE 2005, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE COLOMBIA Y DE LA REPUBLICA BOLIVARIANA DE VENEZUELA, CONFORME AL ACUERDO DE COMPLEMENTACION ECONOMICA No. 61 CELEBRADO ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 30 de diciembre de 2004.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de abril de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3 y 10 del Acuerdo de Complementación Económica No. 61; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que con objeto de continuar el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva un mercado común, los países latinoamericanos suscribieron el Tratado de Montevideo en el año de 1980, con el que se instituyó la Asociación Latinoamericana de Integración (ALADI), tratado que fue aprobado por el Senado de la República y posteriormente promulgado bajo Decreto en el Diario Oficial de la Federación el 31 de marzo de 1981;
+Que nuestro país es parte del Tratado de Montevideo 1980, que instituye la Asociación Latinoamericana de Integración, dentro de la cual se ha negociado con los distintos Estados miembros y con países de América Central y del Caribe, preferencias arancelarias sujetas a cupo;
 
-Que en el marco del Tratado de Montevideo, la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, suscribieron el 7 de diciembre de 2004, el Acuerdo de Complementación Económica No. 61 (ACE No. 61), el cual establece disposiciones que regulan la liberalización comercial entre dichos países, de los sectores automotor, de televisiones, plaguicidas y máquinas de afeitar desechables;
+Que en el marco del Tratado de Montevideo 1980, los gobiernos de la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, suscribieron el 7 de diciembre de 2004 el Acuerdo de Complementación Económica No. 61;
 
-Que el 13 de diciembre de 2004 las representaciones de la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos suscribieron un Acta de Rectificación al ACE No. 61, y
+Que el Acuerdo por el que se da a conocer el Acuerdo de Complementación Económica No. 61, suscrito entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos fue publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004;
 
-Que resulta sumamente conveniente y necesario para operadores y autoridades aduaneras conocer con claridad las condiciones que prevalecerán en México durante 2005, para efectos del ACE No. 61, he tenido a bien expedir el siguiente
+Que el 30 de diciembre de 2004 se publicó en el Diario Oficial de la Federación el Decreto para la Aplicación del Acuerdo de Complementación Económica No. 61, suscrito entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos;
 
-DECRETO
+Que es una estrategia prioritaria del gobierno federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
 
-###### ARTÍCULO PRIMERO.
+Que la asignación de cupos de importación busca promover la competitividad de los sectores involucrados, así como establecer un marco regulatorio equitativo y transparente, y
 
-México aplicará un arancel de importación de 7% ad-valorem a las importaciones de productos automotores de peso bruto vehicular menor o igual a 8.8 toneladas, originarios y procedentes de Colombia o Venezuela realizadas al amparo de los cupos anuales que se establecen en el artículo tercero, párrafo 1, inciso b) del ACE No. 61, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE), listadas en la columna (1) de la siguiente tabla:
+Que la Comisión de Comercio Exterior dio opinión favorable sobre esta medida, he tenido a bien expedir el siguiente:
 
-(VEASE TABLA ANEXA)
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR DURANTE EL AÑO DE 2005, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE COLOMBIA Y DE LA REPUBLICA BOLIVARIANA DE VENEZUELA, CONFORME AL ACUERDO DE COMPLEMENTACION ECONOMICA No. 61 CELEBRADO ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-Los cupos anuales de importación mencionados se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior. Dicho cupo será publicado mediante acuerdo de la Secretaría de Economía en el Diario Oficial de la Federación.
+###### ARTICULO 1o.
 
-###### ARTÍCULO SEGUNDO.
+Los cupos mínimos para importar durante el año de 2005, vehículos automotores nuevos (excepto los de peso bruto vehicular mayor a 8.8 toneladas), originarios y provenientes de la República de Colombia y de la República Bolivariana de Venezuela, con el arancel preferencial establecido en el inciso b) del numeral 1 del artículo 3 del Acuerdo de Complementación Económica No. 61 celebrado entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, son los que se determinan en el cuadro siguiente:
 
-México aplicará el arancel ad-valorem de importación indicado en la columna (4) a las importaciones de productos automotores, originarios y procedentes de Colombia o Venezuela clasificados en las fracciones arancelarias de la TIGIE, listadas en la columna (1), con las observaciones correspondientes que se señalan en la columna (3) de la siguiente tabla:
+(VEASE ARCHIVO ANEXO)
 
-(VEASE TABLA ANEXA)
+###### ARTICULO 2o.
 
-###### ARTÍCULO TERCERO.
+De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República de Colombia y de la República Bolivariana de Venezuela, y cumplir con lo establecido en los numerales 3 y 4 del artículo 10 del Acuerdo de Complementación Económica No. 61, se aplica el mecanismo de asignación directa en la modalidad de “Primero en tiempo, primero en derecho”, a los cupos descritos en el cuadro del artículo 1 del presente Acuerdo en beneficio de las personas señaladas en el artículo 3o. del presente Acuerdo.
 
-México aplicará el arancel ad-valorem establecido en las columnas (3) y (4) a las importaciones de autopartes originarias y procedentes de Colombia y Venezuela, clasificadas en las fracciones arancelarias de la TIGIE, listadas en la columna (1) de la siguiente tabla:
+###### ARTICULO 3o.
 
-(VEASE TABLA ANEXA)
+Podrán solicitar asignación de los cupos de importación a que se refiere el presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que cuenten con el documento emitido por el gobierno de la República de Colombia o de la República Bolivariana de Venezuela a nombre del exportador o productor en Colombia o Venezuela. La asignación será otorgada por la Dirección General de Comercio Exterior de esta Secretaría, conforme al monto que señale el documento emitido por el gobierno de Colombia o Venezuela, dentro de los siete días hábiles siguientes a la fecha de recepción de la solicitud, hasta agotar los cupos.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO 4o.
 
-México aplicará un arancel de cero (0) por ciento a las importaciones de productos originarios y procedentes de Colombia o Venezuela, clasificados en las fracciones arancelarias de la TIGIE, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (3) de la siguiente tabla:
+Los beneficios que se obtengan de esta asignación, se refieren exclusivamente al derecho de arancel preferencial y no eximen del cumplimiento de requisitos no arancelarios y ni del cumplimiento de las diversas disposiciones legales aplicables en la República Mexicana tales como, la Norma Oficial Mexicana NOM-131-SCFI-2004, la Norma Oficial Mexicana NOM-042-ECOL-1999, y la Norma Oficial Mexicana NOM-079-ECOL-1994, publicadas en el Diario Oficial de la Federación el 13 de diciembre de 2004, 6 de septiembre de 1999, y 12 de enero de 1995, respectivamente, y adicionalmente para el caso de las unidades a ser comercializadas la Norma Oficial Mexicana NOM-160-SCFI-2003, publicada el 20 de octubre de 2003, así como las disposiciones que señala la Ley Federal de Protección al Consumidor de fecha 24 de septiembre de 1992 y sus reformas y adiciones correspondientes.
 
-(VEASE TABLA ANEXA)
+###### ARTICULO 5o.
 
-###### ARTÍCULO QUINTO.
+Las solicitudes de asignación de cupo se deben presentar en el formato SE-03-011-1 “Solicitud de asignación de cupo”, anexando los documentos que indica y el documento emitido por el gobierno de la República de Colombia o de la República Bolivariana de Venezuela a nombre del exportador o productor en Colombia o Venezuela, en la ventanilla de atención al público de la Representación Federal que le corresponda, en horario de 9:00 a 14:00 horas. No existe hoja de requisitos específicos para este Acuerdo.
 
-La determinación del origen de los productos a que se refiere el presente Decreto se realizará de conformidad con lo dispuesto en el artículo 4 del ACE No. 61.
+###### ARTICULO 6o.
 
-###### ARTÍCULO SEXTO.
+Una vez asignado el monto para importar dentro de los cupos, la Secretaría expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, en la ventanilla de atención al público de la Representación Federal que le corresponda, en horario de 9:00 a 14:00 horas. La expedición de los certificados de cupo se realizará dentro de los siete días hábiles siguientes a la fecha de recepción de las solicitudes.
 
-Para las operaciones de importación de los productos contenidos en el presente Decreto, el importador deberá presentar en la Aduana que corresponda, anexo al pedimento de importación, conforme al artículo 36 de la Ley Aduanera, la siguiente documentación:
+Conforme al artículo 36 de la Ley Aduanera el importador deberá presentar en la Aduana que corresponda, anexo al pedimento de importación, la siguiente documentación:
 
-a) certificado de origen, de conformidad con lo establecido en el artículo quinto del ACE No. 61, y
+a) Certificado de origen, de conformidad con lo establecido en el artículo quinto del ACE No. 61, y
 
-b) para los casos previstos en el artículo primero de este Decreto y hasta el 31 de diciembre de 2005, certificado de cupo ALADI expedido por la Secretaría de Economía.
+b) Certificado de cupo ALADI expedido por la Secretaría de Economía.
 
-###### ARTÍCULO SÉPTIMO.
+###### ARTICULO 7o.
 
-El presente Decreto no exime del cumplimiento de lo dispuesto por la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica: http://www.cofemer.gob.mx>.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-ÚNICO.- El presente Decreto estará en vigor del 1 de enero al 31 de diciembre de 2005.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2005.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+SEGUNDO.- Para efectos de la aplicación del presente Acuerdo no aplicará lo dispuesto en el artículo cuarto del Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la Asociación Latinoamericana de Integración (ALADI), al amparo del Tratado de Montevideo 1980, publicado en el Diario Oficial de la Federación el 20 de agosto de 1985.
+
+México, D.F., a 18 de abril de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
