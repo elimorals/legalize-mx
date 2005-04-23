@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-comision-estatal-de-arbitraje-medico-de-41654"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2004-09-11"
+last_updated: "2005-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de septiembre de 2004.
 
@@ -181,7 +181,9 @@ I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civi
 
 II.- Tener cuando menos 35 años cumplidos al día de su nombramiento;
 
-III.- Que no se haya desempeñado como Servidor Público Federal, Estatal o Municipal, en el área médica, dentro de los tres últimos años inmediatos a su nombramiento;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
+
+III.- Que no se haya desempeñado como Secretario o Subsecretario de Estado, en el área médica, dentro de los tres últimos años inmediatos a su nombramiento;
 
 IV.- Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio y promoción de una buena práctica de la medicina, con título profesional y Cedula expedida con por lo menos diez años de antigüedad;
 
@@ -585,13 +587,17 @@ T R A N S I T O R I O S :
 
 PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- El Consejo General de la Comisión Estatal de Arbitraje Médico de Oaxaca, deberá integrarse dentro de los 180 días siguientes a la fecha de entrada en vigor de esta Ley, iniciando sus funciones el día primero de enero del año 2005.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2005)</small>
 
-TERCERO.- Para efectos del artículo 9 último párrafo del presente ordenamiento, por única ocasión, los Consejeros se nombrarán de la siguiente manera: Tres Consejeros por dos años; Tres Consejeros por tres años, y Tres Consejeros por cuatro años.
+SEGUNDO.- El Consejo General de la Comisión Estatal de Arbitraje Médico de Oaxaca, deberá integrarse dentro de los primeros 120 días del año dos mil cinco iniciando sus funciones a más tardar el día primero de mayo del año 2005. Si el Poder Legislativo lo considera procedente, podrá nombrar antes de este plazo a los consejeros a los que se refiere esta Ley. Por lo que la Diputación Permanente, deberá convocar al Honorable Congreso del Estado para un Periodo Extraordinario de Sesiones, cuyo único objeto será el nombramiento de los CC. Consejeros Médicos de la Comisión Estatal de Arbitraje Médico de Oaxaca, en los términos de esta Ley.
+
+TERCERO.- (DEROGADO, P.O. 23 DE ABRIL DE 2005)
 
 CUARTO.- El Reglamento Interno y el Reglamento de Procedimientos para la Atención de Quejas a que se refiere esta Ley, deberán publicarse en el Periódico Oficial del Gobierno del Estado, en un término no mayor de sesenta días hábiles posteriores a la fecha de la integración del Consejo General de la Comisión Estatal de Arbitraje Médico de Oaxaca.
 
-QUINTO.- Lo dispuesto por el artículo 51 inciso e) del presente ordenamiento, entrará en vigor, hasta en tanto se instituya el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2005)</small>
+
+QUINTO.- Lo dispuesto por el artículo 52 inciso e) del presente ordenamiento, entrará en vigor, hasta en tanto se instituya el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca.
 
 DEL DECRETO N° 499
 
@@ -636,3 +642,9 @@ Oaxaca de Juárez, Oax., a 18 de agosto del 2004.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. CELESTINO MANUEL ALONSO ALVAREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ABRIL DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
