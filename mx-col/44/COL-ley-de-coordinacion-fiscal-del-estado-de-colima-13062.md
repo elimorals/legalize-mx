@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-13062"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-30"
-last_updated: "1996-11-30"
+last_updated: "2005-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE ABRIL DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de noviembre de 1996.
 
@@ -53,7 +55,7 @@ La presente Ley tiene como finalidad establecer el Sistema de Coordinación Fisc
 
 I. Regular las relaciones en materia de coordinación fiscal entre el Estado de Colima y sus municipios.
 
-II. Establecer los mecanismos para el cálculo y distribución de las participaciones que correspondan a las haciendas publicas municipales, derivadas de gravámenes estatales y federales.
+II. Establecer los mecanismos para el cálculo y distribución de las participaciones que correspondan a las haciendas públicas municipales, derivadas de gravámenes estatales y federales.
 
 III. Establecer los derechos y obligaciones de los municipios en materia de colaboración administrativa y de coordinación fiscal.
 
@@ -125,7 +127,7 @@ III. El 20% de la recaudación en el Estado del Impuesto Federal sobre Tenencia 
 
 El monto de las participaciones municipales a que se refiere el artículo anterior y su distribución, deberán ser publicados anualmente en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación de la Entidad.
 
-El Ejecutivo del Estado, a traves de la Secretaría de Finanzas independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los municipios por escrito, el monto anual estimado de sus participaciones.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los municipios por escrito, el monto anual estimado de sus participaciones.
 
 ###### Artículo 8.
 
@@ -327,7 +329,7 @@ IV. Revisar los informes de actividades del Instituto mencionado en la fracción
 
 V. Vigilar la creación, incremento y distribución entre los municipios, de las participaciones señaladas en esta Ley, así como determinar las bases para su distribución entre los municipios y supervisar las liquidaciones anuales que de dichos fondos formule la Secretaría de Finanzas.
 
-VI.- Sugerir las medidas encaminadas a coordinar la acción impositiva estatal y municipal, para el logro de una mas equitativa distribución de los ingresos.
+VI.- Sugerir las medidas encaminadas a coordinar la acción impositiva estatal y municipal, para el logro de una más equitativa distribución de los ingresos.
 
 VII. Las demás que le encomiende la Asamblea Fiscal Estatal y las que determine esta Comisión.
 
@@ -440,3 +442,17 @@ Dado en el Recinto Oficial del Poder Legislativo a los veintiséis días del mes
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los veintiocho días del mes de noviembre de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MDRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 23 DE ABRIL DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Coordinación Fiscal del Estado de Colima, aprobada mediante Decreto número 236 de fecha 26 de noviembre de 1996 y publicada en el Periódico Oficial "El Estado de Colima", el día 30 del mismo mes.
