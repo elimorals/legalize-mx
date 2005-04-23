@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2005-04-02"
+last_updated: "2005-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2413,7 +2413,7 @@ Siempre que sea condenado el responsable de la difamación o calumnia se ordenar
 
 ### CAPÍTULO V. Inhabilitación de Derechos o Funciones...... 328
 
-## TITULO I. ........................................................................ 323
+## TITULO I. .............................................................................. 323
 
 ### CAPITULO VI. Publicación de sentencia........................... 328
 
@@ -2505,13 +2505,15 @@ Este delito se sancionará aun en el caso de falta de pago total o parcial del p
 
 Se considera fraude y se impondrá pena de uno a nueve años de prisión y multa hasta por 100 unidades, para el caso de las fracciones I y II, y de tres a nueve años de prisión y multa hasta por la misma cantidad en el caso de las fracciones III, IV, V y VI, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
 
-I.- ADMINISTRACION FRAUDULENTA. Al que por cualquier motivo teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando, reteniendo valores o empleándolos indebidamente, y
+I.- ADMINISTRACIÓN FRAUDULENTA. Al que por cualquier motivo teniendo a su cargo la administración o el cuidado de bienes ajenos, con el animo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando, reteniendo valores o empleándolos indebidamente.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
 
-II.- USURA. El que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia de una persona, imponga un contrato o convenio mercantil con interés que rebase el 25% de la tasa promedio porcentual bancaria, o suscriba documentos o títulos de créditos incompletos para anotar posteriormente el porcentaje del interés, o altere las fechas de suscripción de los mismos o adelante la de sus plazos, o aplique únicamente el pago parcial a los intereses sin disminución de capital, o reclame en cobro por cualquier medio dos o más veces el importe de un adeudo, o no registre pagos parciales o abonos, y en general obtenga para sí o para otro un lucro evidentemente desproporcionado con la naturaleza de la operación o de los usos comerciales.
+II.- USURA. Al que aprovechándose de la ignorancia, inexperiencia, miseria o necesidad apremiante del pasivo, aunque éste fuese momentánea, obtenga de éste intereses o lucros usurarios.
+
+Se considera que los intereses o lucros son usurarios, cuando se imponga un contrato o convenio, verbal o escrito, con intereses que rebase el 3% mensuales (sic) en la fecha de la celebración del acto jurídico.
 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
 
@@ -2523,9 +2525,9 @@ Igual pena se impondrá a quien teniendo el consentimiento de su titular o de qu
 
 IV.- Uso de tarjetas, títulos, documentos o instrumentos para el pago electrónico, falsos. Al que a sabiendas de que una tarjeta, título documento o instrumento para el pago electrónico de bienes y servicios o para la disposición de efectivo, haga uso de él y obtenga un lucro indebido en perjuicio del titular de la tarjeta, título, documento o instrumento indubitable.
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
 
-V.- Acceso indebido a los equipos y sistemas de cómputo o electromagnéticos. Al que con el ánimo de lucro y en perjuicio del titular de una tarjeta, documento o instrumento para el pago de bienes y servicios o para disposición en efectivo, acceda indebidamente a los equipos y sistemas de cómputo o electromagnéticos de las instituciones emisoras de los mismos.
+V.- Acceso indebido a los equipos y sistemas de computo o electromagnéticos. Al que con el ánimo de lucro y en perjuicio del titular de una tarjeta, documento o instrumentos para el pago de bienes y servicios o para disposición en efectivo, acceda independientemente a los equipos y servicios de cómputo o electromagnéticos de las instituciones emisoras de los mismos, y
 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
 
@@ -2875,7 +2877,7 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO III. Omisión de Cuidado.................................... 344
 
-## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............. 340
+## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............... 340
 
 ### CAPITULO IV. Exposición de incapaces............................. 344
 
@@ -2998,3 +3000,7 @@ El Presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE ABRIL DE 2005.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE ABRIL DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
