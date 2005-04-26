@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2005-02-05"
+last_updated: "2005-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2251,6 +2251,22 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 6. Toda minuta de ley o de decreto se inicia con las siguientes palabras: "El Congreso del Estado Decreta:"; debe ser expedida en el Recinto del Congreso del Estado, llevar la fecha de aprobación y ser suscrita por el Presidente y los secretarios. Es remitida al Ejecutivo para su sanción, promulgación y publicación, mediante oficio que firmen los secretarios, con excepción de lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2005)</small>
+
+###### Artículo 209 Bis.
+
+1. Toda minuta se identificará con una clave numérica de registro a la que se le antepondrá la expresión Minuta de Ley o de Decreto y se generará de la siguiente manera:
+
+I. Con el número arábigo que le corresponda de acuerdo al orden progresivo de su aprobación en la legislatura;
+
+II. La legislatura que la hubiere aprobado, en número romano; y
+
+III. Los dos últimos dígitos en números arábigos del año de su aprobación.
+
+2. Los números arábigos y romanos se separarán por una barra oblicua.
+
+3. La clave utilizada una vez para identificar una minuta no podrá volverse a imponer a otra, no obstante que se trate de alguna que hubiere sido anulada.
+
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
 
 ###### Artículo 210.
@@ -2569,8 +2585,12 @@ DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SEGUNDO.- La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, deberá presentar en un plazo no mayor a 120 días naturales, la iniciativa de reformas al Reglamentos, de la Ley Orgánica del Poder Legislativo del Estado, que resulten necesarias para adecuarlo al presente decreto.
+SEGUNDO.- La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, deberá presentar en un plazo no mayor a 120 días naturales, la iniciativa de reformas al Reglamento de la Ley Orgánica del Poder Legislativo del Estado, que resulten necesarias para adecuarlo al presente decreto.
 
 P.O. 5 DE FEBRERO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE ABRIL DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
