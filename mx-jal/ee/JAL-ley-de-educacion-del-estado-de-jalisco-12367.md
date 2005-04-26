@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-12-04"
+last_updated: "2005-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -327,7 +327,11 @@ XXIX.- Promover, coordinar, ejecutar y evaluar un programa anual de capacitació
 
 XXX.- Prestar los servicios de formación, actualización y superación profesional en gestión y administración escolar para los directores, supervisores, jefes de sector de educación básica, incluyendo la inicial, indígena y especial.
 
-XXXI.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2005)</small>
+
+XXXI. Difundir los derechos de las niñas, los niños y adolescentes, así como los mecanismos y canales de prevención y denuncia de abusos en su integridad física y mental, entre el alumnado de las escuelas de educación básica obligatoria en el Estado, en colaboración con la Comisión Estatal Coordinadora para el Desarrollo y Protección de los derechos de las niñas, los niños y adolescentes y demás autoridades competentes; y
+
+XXXII.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -1091,13 +1095,19 @@ II.- Tomar las medidas que permitan la colaboración efectiva de alumnos, maestr
 
 III.- Facilitar que las autoridades educativas, federales y locales, realicen exámenes para fines estadísticos y de diagnóstico.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 111.
 
-Será obligación de las autoridades educativas dar a conocer a los maestros, alumnos, padres de familia y sociedad en general los resultados de las evaluaciones; de las acciones para el mejoramiento de los servicios educativos, así como la información global del sistema educativo estatal con el objeto de que cada sector de la comunidad educativa haga sus ajustes y correcciones.
+Será obligación de las autoridades educativas, dar a conocer a los maestros, alumnos, padres de familia y sociedad en general los resultados de las evaluaciones; de las acciones para el mejoramiento de los servicios educativos, así como la información global del sistema educativo estatal que permita medir el desarrollo y los avances de la educación en el Estado con el objeto de que cada sector de la comunidad educativa haga sus ajustes y correcciones.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 112.
 
-La Secretaría de Educación del Estado dará a conocer a la sociedad el resultado de las evaluaciones practicadas, utilizando para tal efecto los tiempos y espacios que se le conceda en los medios de comunicación social.
+La Secretaría de Educación del Estado, dará a conocer a la sociedad el resultado de las evaluaciones practicadas, utilizando para tal efecto su página oficial en internet, así como los tiempos y espacios que se le conceda en los medios de comunicación social.
+
+En los mismos términos, la Secretaría de Educación del Estado, dará a conocer los resultados de las evaluaciones que en el Estado realicen los organismos nacionales creados para tal efecto.
 
 ###### ARTICULO 113.
 
@@ -1712,5 +1722,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar, a partir del ciclo 2004 - 2005; el segundo año de preescolar, a partir del ciclo 2005 - 2006; el primer año de preescolar, a partir del ciclo 2008 - 2009.
 
 P.O. 4 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE ABRIL DE 2005.
+
+DECRETO NUMERO 20901, QUE REFORMA ARTS. 111 Y 112
+
+PRIMERO. Este decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias a los reglamentos correspondientes derivadas de la presente reforma.
+
+P.O. 26 DE ABRIL DE 2005.
+
+DECRETO NUMERO 20902, QUE REFORMA FRACCIONES XXXI Y XXXII DEL ART. 14
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
