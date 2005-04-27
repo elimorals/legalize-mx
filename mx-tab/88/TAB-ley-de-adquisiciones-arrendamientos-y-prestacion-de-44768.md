@@ -1,0 +1,908 @@
+---
+title: "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO"
+identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
+country: "mx"
+rank: "ley"
+publication_date: "2005-04-27"
+last_updated: "2005-04-27"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tab"
+scjn_id: "44768"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "SUPLEMENTO 6536 C"
+reform_count: "10"
+scjn_last_update: "2026-09-19"
+issue_date: "2005-04-23"
+state: "TAB"
+---
+# LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO
+
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
+
+LIC. MANUEL ANDRADE DÍAZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
+
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 36, FRACCIONES I Y XXXIX, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; Y
+
+...
+
+DECRETO 068
+
+###### ARTÍCULO ÚNICO
+
+Se aprueba la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco, que abroga la Ley de Adquisiciones, Arrendamientos y Servicios Relacionados con los Bienes Muebles, publicada en el Periódico Oficial de fecha 19 de Diciembre de 1987; para quedar como sigue:
+
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés social, reglamentaria del artículo 76, de la Constitución Política del Estado Libre y Soberano de Tabasco en materia de adquisiciones, arrendamientos y contratación de servicios relacionados con bienes muebles, y tiene por objeto regular:
+
+I. Las acciones relativas a la planeación, programación, presupuestación, gasto, ejecución, conservación, mantenimiento y control que, en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios relacionados con los mismos, realicen la Oficialía, dependencias, órganos y entidades; y
+
+II. Los actos, pedidos y contratos que lleven a cabo y celebren la Oficialía, dependencias, órganos y entidades relacionados con las materias a que se refiere la fracción anterior.
+
+Los poderes Legislativo y Judicial del Estado, los ayuntamientos de la Entidad y las personas de derecho público con autonomía derivada de la Constitución, aplicarán con plena autonomía, en lo conducente, las disposiciones de esta Ley.
+
+Las disposiciones de la presente Ley se aplicarán sin perjuicio de lo dispuesto por los tratados internacionales en que el Gobierno de los Estados Unidos Mexicanos sea parte.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I. Oficialía: La Oficialía Mayor;
+
+II. Secretaría: La Secretaría de Finanzas;
+
+III. Contraloría: La Secretaría de Contraloría;
+
+IV. Dependencias: La Gubernatura y sus unidades administrativas, las secretarías del Poder Ejecutivo y la Procuraduría General de Justicia;
+
+V. Entidades: Los organismos descentralizados del Poder Ejecutivo del Estado, las empresas de Participación Estatal Mayoritaria y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado;
+
+VI. Dependencias Coordinadoras de Sector: Las dependencias a que se refiere la fracción IV;
+
+VII. Órganos: Los órganos desconcentrados de la Administración Pública, jerárquicamente subordinados al Titular del Poder Ejecutivo o a una Secretaría, que cuentan con facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso;
+
+VIII. Bien Mueble: Es aquél que por su naturaleza puede trasladarse de un lugar a otro, ya sea que se mueva por sí mismo o por efecto de una fuerza exterior;
+
+IX. Convocante: La Oficialía, dependencias, órganos y entidades;
+
+X. Ley: Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
+
+XI. Reglamento: Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
+
+XII. Comité: Comité de Compras del Poder Ejecutivo del Estado de Tabasco;
+
+XIII. Licitación Pública: Procedimiento público por el cual se adjudica a los licitantes los contratos relativos a las adquisiciones, arrendamientos o prestación de servicios;
+
+XIV. Licitación Simplificada: Procedimiento administrativo mediante el cual la Oficialía, dependencias, órganos y entidades podrán realizar adquisiciones, contratar arrendamientos y servicios, sin sujetarse al procedimiento de Licitación Pública, a través de la invitación a un número mínimo de licitantes con capacidad de respuesta inmediata y por montos máximos establecidos en el Reglamento de la presente Ley;
+
+XV. Licitante: Persona física o jurídica colectiva que participa con una propuesta cierta y determinada en cualquier procedimiento de Licitación Pública o Licitación Simplificada en el marco de la presente Ley;
+
+XVI. Proveedor: Persona física o jurídica colectiva que se encuentre inscrita en el Padrón y con domicilio fiscal en el Estado, en su carácter de vendedor de bienes muebles, arrendador o prestador de servicios, que celebra contratos con la Oficialía, dependencias, órganos y entidades;
+
+XVII. Padrón: Registro del Padrón de Proveedores de bienes muebles y servicios relacionados con los mismos del Estado de Tabasco;
+
+XVIII. Adquisición: La compra de cualquier bien mueble que realice el Gobierno del Estado, para el cumplimiento de sus funciones;
+
+XIX. Arrendamiento: Contrato oneroso por el cual se obtiene el derecho de uso y goce temporal de bienes muebles a plazo forzoso y precio cierto;
+
+XX. Servicio: La actividad organizada que se presta y realiza con el fin de satisfacer determinadas necesidades del Estado;
+
+XXI. Contrato: El acto jurídico bilateral y formal que se constituye por el acuerdo de voluntades que se establece entre la Oficialía, dependencias, órganos y entidades, con los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios adquiridos por aquéllas;
+
+XXII. Pedido: Es el acto jurídico bilateral, con clausulado predeterminado que se constituye por el acuerdo de voluntades que servirá para adjudicar bienes y/o servicios conforme a lo estipulado en el reglamento; teniendo como característica fundamental que no podrá contemplar cláusulas adicionales a las previstas y determinadas en el Reglamento de esta Ley; y
+
+XXIII. Tratados: Los convenios regidos por el Derecho Internacional Público, celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales los Estados Unidos Mexicanos asumen compromisos.
+
+En todos los casos en que esta Ley haga referencia a las adquisiciones, arrendamientos y servicios, salvo mención expresa, se entenderá que se trata, respectivamente, de adquisiciones de bienes muebles, arrendamientos de bienes muebles y de prestación de servicios relacionados con dichos bienes.
+
+###### Artículo 3.
+
+Sin perjuicio de lo que esta Ley establece, el gasto de las adquisiciones, los arrendamientos y los servicios se sujetarán a lo previsto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y al Presupuesto General de Egresos del Estado, en lo que corresponda.
+
+###### Artículo 4.
+
+Las dependencias, órganos y entidades podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y prestación de servicios, bajo las modalidades que se contemplan en los artículos 21 y 22 de la presente Ley, cuando se ajusten a la disponibilidad de las partidas correspondientes en su presupuesto autorizado. En caso contrario, se abstendrán de formalizar o modificar pedidos y contratos en las materias que regula esta Ley.
+
+###### Artículo 5.
+
+La Oficialía y la Contraloría, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar esta Ley para efectos administrativos, así como para dictar las disposiciones administrativas que requieran la adecuada aplicación de la misma y sus disposiciones reglamentarias.
+
+###### Artículo 6.
+
+Los titulares de las dependencias a que se refiere el artículo anterior, serán responsables de que en la adopción e instrumentación de los sistemas y procedimientos que requieran para la realización de las acciones, actos, pedidos y contratos que deban llevar a cabo conforme a esta Ley, se observen los siguientes criterios:
+
+I. Implementar medidas que contribuyan a la simplificación administrativa, reducción, agilización y transparencia de los procedimientos y trámites;
+
+II. Ejecutar las acciones tendientes a descentralizar las funciones que realicen, con objeto de procurar que los trámites se lleven a cabo y resuelvan en los mismos lugares en que se originen las operaciones;
+
+III. Promover la delegación de facultades en servidores públicos subalternos, a efecto de garantizar mayor oportunidad en la toma de decisiones y flexibilidad en la atención de los asuntos, considerando monto, complejidad, periodicidad y vinculación con las prioridades de los mismos; y
+
+IV. Racionalizar y simplificar las estructuras con que cuenten, a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones.
+
+###### Artículo 7.
+
+Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos federales conforme a los convenios o acuerdos celebrados entre el Ejecutivo Federal y esta Entidad Federativa, estarán sujetos a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento. Para estos efectos se pactará lo conducente en los mencionados convenios con la participación que corresponda a los municipios que los tengan celebrados, de acuerdo al programa que corresponda.
+
+En el caso de aportaciones establecidas indistintamente en el Presupuesto de Egresos de la Federación, en el Capítulo V de la Ley de Coordinación Fiscal o en el ordenamiento jurídico respectivo, y registradas en las leyes estatales y municipales como ingresos propios, en los que la administración y ejercicio de los mismos, sean responsabilidad de la Entidad o del Municipio, estarán sujetos a esta Ley.
+
+###### Artículo 8.
+
+Las entidades que no se encuentren agrupadas en sector alguno, cumplirán directamente ante la Oficialía con las obligaciones que esta Ley señala.
+
+###### Artículo 9.
+
+Sin perjuicio del cumplimento de las disposiciones legales que les resulten aplicables, las adquisiciones, arrendamientos y servicios de procedencias extranjeras para ser utilizados en el Estado, se regirán por esta Ley.
+
+Cuando el producto o servicio se encuentre sujeto al cumplimiento de una determinada Norma Oficial Mexicana, habrá de obtenerse la certificación correspondiente.
+
+###### Artículo 10.
+
+Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse como equipamiento a un inmueble necesarios para la realización de las obras públicas, o en su caso los que suministren las dependencias, órganos y entidades de acuerdo a lo pactado en los contratos de obra, deberán efectuarse conforme a lo establecido en esta Ley y en las normas que de ella se deriven.
+
+###### Artículo 11.
+
+La Oficialía podrá contratar asesoría técnica y profesional para la realización de investigaciones de mercado; el mejoramiento del sistema de adquisiciones, arrendamientos y servicios; la verificación de precios; pruebas de calidad; y, otras actividades vinculadas con esta Ley.
+
+Asimismo, la Contraloría podrá contratar asesoría técnica y profesional para mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
+
+###### Artículo 12.
+
+En lo previsto por esta Ley, serán aplicables supletoriamente el Código Civil y el Código de Procedimientos Civiles, ambos ordenamientos del Estado Libre y Soberano de Tabasco.
+
+## TÍTULO SEGUNDO. DE LAS ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS
+
+### CAPÍTULO I. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
+
+###### Artículo 13.
+
+Las adquisiciones, arrendamientos y servicios que realicen las dependencias, órganos y entidades se sujetarán a:
+
+I. Los objetivos, prioridades y políticas del Plan Estatal de Desarrollo y de los programas sectoriales, institucionales y especiales en su caso;
+
+II. Las previsiones contenidas en los programas anuales que elaboren las propias dependencias y entidades para la ejecución del Plan y los programas a que se refiere la fracción anterior;
+
+III. Los objetivos, metas, previsiones y recursos establecidos en el Presupuesto General de Egresos del Estado;
+
+IV. Las estrategias y políticas previstas por el Estado y municipios en sus respectivos planes y programas, a fin de coadyuvar a la consecución de los objetivos y prioridades de desarrollo, y
+
+V. Las demás disposiciones legales y reglamentarias que rijan las operaciones que prevé esta Ley.
+
+###### Artículo 14.
+
+Las dependencias, órganos y entidades realizarán la planeación de sus adquisiciones, arrendamientos y servicios, formulando los programas respectivos, considerando:
+
+I. Las acciones previstas durante y posteriores a la realización de dichas operaciones, los objetivos y metas a corto y mediano plazo, así como las unidades encargadas de su instrumentación;
+
+II. La existencia en cantidad y normas de calidad de los bienes y sus correspondientes plazos estimados de suministro, los avances tecnológicos en función de su naturaleza, y los servicios que satisfagan sus requerimientos;
+
+III. Los planos, proyectos, normas de calidad, especificaciones y programas de ejecución, cuando se trate de adquisiciones de bienes muebles para obras públicas;
+
+IV. Los requerimientos de los programas de conservación, mantenimiento y ampliación de la capacidad de los servicios públicos;
+
+V. Preferentemente, la adquisición de bienes producidos en el Estado y la utilización de servicios propios del mismo, con especial atención a los sectores económicos y empresariales cuya promoción, fomento y desarrollo están comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo, a falta de ellos los de procedencia nacional y por último los de procedencia extranjera; y
+
+VI. De preferencia, la inclusión de insumos, material, equipo, sistemas y servicios que tenga incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero.
+
+###### Artículo 15.
+
+En la presupuestación de sus adquisiciones, arrendamientos y servicios, las dependencias, órganos y entidades deberán estimar y proyectar los recursos correspondientes a sus programas sustantivos, de apoyo administrativo y de inversiones, así como aquellos relativos a la adquisición de bienes para su posterior comercialización, incluyendo aquellos que habrán de sujetarse a procesos productivos.
+
+Los órganos y entidades remitirán sus programas y presupuestos de adquisiciones, arrendamientos y prestación de servicios, a las Dependencias Coordinadoras de Sector en las fechas que éstas señalen.
+
+###### Artículo 16.
+
+Las dependencias, órganos y entidades no podrán financiar a proveedores la adquisición, arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de los mismos, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Oficialía. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales, en todo caso, deberán garantizarse en los términos de la fracción II del artículo 31 de la Ley.
+
+Tratándose de bienes cuyo proceso de fabricación sea superior a noventa días, la Dependencia, Órgano o Entidad deberá otorgar por lo menos el veinte por ciento de anticipo, salvo que el proveedor renuncie por escrito a este derecho.
+
+La Oficialía podrá autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
+
+###### Artículo 17.
+
+Se crea el Comité de Compras del Poder Ejecutivo, el cual tendrá por objeto determinar las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y prestación de servicios; la observancia de esta Ley y demás disposiciones aplicables.
+
+El Comité de Compras será integrado con voz y voto, por la Oficialía en la presidencia, del cual formarán parte los titulares de la Secretaría y de la Contraloría, mismos que estarán facultados para nombrar a sus respectivos suplentes, conforme al Reglamento de esta Ley.
+
+En auxilio de las funciones del Comité, se establecerán Subcomités en cada una de las dependencias, órganos y entidades, que contarán con la estructura y funciones que al efecto se determine en el Reglamento de ese Órgano Colegiado.
+
+El Comité invitará a los representantes de las dependencias, órganos y entidades de la Administración Pública Estatal a sus respectivas sesiones, a las que acudirán con voz pero sin voto, cuando se considere pertinente su participación. Dichos representantes serán nombrados por los titulares de las mismas.
+
+Los representantes de las cámaras del sector correspondiente y que se encuentren legalmente constituidas conforme a la Ley de la materia, deberán ser invitados a participar con voz, pero sin voto, al interior del Comité, como observadores de los procedimientos de licitación mediante convocatoria pública, en los términos que fije el Reglamento del citado Órgano Colegiado.
+
+###### Artículo 18.
+
+El Titular del Poder Ejecutivo del Estado, por conducto de la Oficialía, reglamentará las bases de integración y funcionamiento del Comité a que se refiere el artículo anterior.
+
+###### Artículo 19.
+
+Las dependencias, órganos y entidades estarán obligadas a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
+
+Para los efectos del párrafo anterior, la Oficialía, dependencias, órganos y entidades, en los contratos respectivos, pactarán el suministro oportuno por parte del proveedor, de las piezas, repuestos, refacciones, mantenimiento y en general, de los elementos necesarios para la debida operación de los bienes adquiridos o arrendados.
+
+###### Artículo 20.
+
+La Oficialía, mediante disposiciones de carácter general, podrá determinar los bienes y servicios de uso generalizado, cuya adquisición o contratación, en forma consolidada, llevará a cabo directamente, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad.
+
+### CAPÍTULO II. DE LOS PEDIDOS Y CONTRATOS
+
+###### Artículo 21.
+
+Las adquisiciones, arrendamientos y servicios se adjudicarán a través de licitaciones mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la Ley.
+
+Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el pedido o contrato sólo pueda fincarse o celebrarse con una determinada persona, por ser ésta la titular de la, o de las patentes, de los bienes o servicios; cuando el bien que se pretenda adquirir sea una obra de arte; y cuando se traten derechos de autor u otros derechos exclusivos, contemplados en la Ley de la materia.
+
+Cuando los bienes, arrendamientos o servicios que pretendan adquirir en términos del primer párrafo, sean para destinarlos al fortalecimiento de los sectores estratégicos del Estado, sólo podrán participar en las licitaciones mediante convocatoria pública los proveedores, sin perjuicio de lo dispuesto en el artículo 7 de ésta Ley y en concordancia con lo previsto en el artículo 14, fracciones V y VI, de la misma.
+
+La Oficialía, dependencias, órganos y entidades podrán, para el mejor desempeño de sus funciones, consultar a los órganos empresariales y de comercio en los asuntos de su ramo, cuando así lo consideren conveniente.
+
+###### Artículo 22.
+
+La Oficialía, dependencias, órganos y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y prestación de servicios, mediante los procedimientos que a continuación se señalan:
+
+I. Licitación Mediante Convocatoria Pública;
+
+II. Licitación Simplificada Mayor;
+
+III. Licitación Simplificada Menor; y
+
+IV. Compra Directa.
+
+###### Artículo 23.
+
+Cuando el monto de la adquisición ascienda a la cantidad establecida para licitaciones mediante convocatoria pública, las dependencias, órganos y entidades, requerirán autorización por escrito del Comité para ejercer esta modalidad.
+
+En casos excepcionales, la Oficialía podrá convocar sin contar con los recursos disponibles en su presupuesto de egresos, previo acuerdo del Comité.
+
+Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos jurídicos aplicables.
+
+###### Artículo 24.
+
+Las Licitaciones Públicas podrán ser:
+
+I. Estatales: Cuando únicamente puedan participar proveedores establecidos y con domicilio fiscal en el Estado;
+
+II. Nacionales: Cuando puedan participar proveedores establecidos en cualquier parte de la República Mexicana, con registro en el Padrón; e
+
+III. Internacionales: Cuando participen tanto proveedores nacionales como proveedores del extranjero, con registro en el Padrón.
+
+Podrá negarse la participación de proveedores extranjeros en licitaciones públicas internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y/o ese país no conceda un trato recíproco a los proveedores, bienes o servicios mexicanos.
+
+La Oficialía determinará los casos en que las licitaciones serán de carácter Estatal, Nacional e Internacional.
+
+###### Artículo 25.
+
+Estarán también consideradas como casos de excepción, los siguientes:
+
+I. Cuando previa investigación de mercado y con la debida justificación ante el Comité de Compras, que realicen la Oficialía, Dependencia, Órgano o Entidad, no exista el bien o proveedor que garantice oferta en cantidad o garantía de calidad, dentro de los inscritos en el Padrón, y se requiera una compra especializada, ésta podrá asignarse directamente al proveedor que cuente con los bienes requeridos;
+
+II. Cuando habiéndose realizado una Licitación Pública no se presente alguna propuesta, o las presentadas no cumplan con los requisitos exigidos por esta Ley.
+
+###### Artículo 26.
+
+Las convocatorias, que podrán referirse a uno o varios contratos o pedidos, se publicarán en uno de los diarios de mayor circulación en la Entidad y en el Periódico Oficial del Estado.
+
+La Oficialía, dependencias, órganos o entidades serán responsables de la publicación de las convocatorias, de acuerdo con la naturaleza de los bienes y prestación de servicios materia de la Licitación Pública.
+
+Las convocatorias a que se refiere este artículo, deberán contener como mínimo:
+
+I. El nombre, denominación o razón social de la Convocante;
+
+II. La descripción completa de los bienes o prestación de servicios objeto de la Licitación Pública; información específica sobre el mantenimiento; asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del Contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos; cantidades; muestras; pruebas que se realizarán y, de ser posible, métodos para ejecutarlas; periodo de garantía; y, en su caso, otras opciones adicionales de cotización;
+
+III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la Licitación Pública y de las etapas del acto de presentación y apertura de proposiciones, así como del costo de las mismas;
+
+IV. La indicación de la modalidad de la Licitación Pública, si es: Estatal, Nacional o Internacional;
+
+V. Si se realizará bajo la cobertura de algún tratado;
+
+VI. El idioma o idiomas además del español, en que deberán presentarse las propuestas;
+
+VII. La indicación de que los pagos se harán en Moneda Nacional;
+
+VIII. La indicación de entregar o no anticipos, en cuyo caso deberá señalarse el porcentaje respectivo que no podrá exceder del cincuenta por ciento del monto total del Contrato;
+
+IX. Lugar, plazo y condiciones de entrega;
+
+X. Lugar, plazo y condiciones de pago;
+
+XI. En el caso de arrendamiento, precisar si es con opción a compra; y
+
+XII. La indicación de que no podrán participar aquellas personas físicas o jurídicas colectivas que se encuentren en los supuestos del artículo 51 de esta Ley.
+
+Las convocatorias a que se refiere este artículo, se incorporarán en el Sistema Electrónico de Contrataciones Gubernamentales dependiente de la Contraloría, conforme las disposiciones que se emitan en el ámbito administrativo por los servidores públicos a quienes los ordenamientos legales aplicables les otorguen facultades para ello. En aquellos asuntos que en virtud de obligaciones que contraigan los poderes del Estado, y en su caso, los municipios, para incorporar en dicho sistema las contrataciones que se efectúen con recursos públicos que sean aportados por la Federación, se sujetarán en lo conducente a lo dispuesto por la Ley, en su artículo 7, y a los demás ordenamientos que les fueren obligatorios.
+
+Si a juicio de la Oficialía y conforme a lo establecido en el artículo 25 de la presente Ley, pudieran existir proveedores idóneos fuera del territorio nacional, podrán enviar copias a las respectivas representaciones diplomáticas acreditadas en el país, con el objeto de procurar su participación, sin perjuicio de que puedan publicarse en los diarios o revistas de mayor circulación en el país donde se encuentren los proveedores potenciales.
+
+###### Artículo 27.
+
+Las bases que se emitan para las licitaciones mediante convocatorias públicas, se pondrán a disposición de los interesados para consulta y venta a partir de la fecha de publicación de la convocatoria, y contendrán como mínimo lo siguiente:
+
+I. Nombre, denominación o razón social de la Convocante;
+
+II. Registro vigente en el Padrón;
+
+III. Fecha, hora y lugar de la junta de aclaración a las bases de la Licitación Pública;
+
+IV. Fecha, hora y lugar para la presentación de propuestas, apertura de las propuestas técnicas y económicas, garantías, comunicación del fallo y firma del Contrato;
+
+V. Idioma o idiomas además del español, en que podrán presentarse las propuestas;
+
+VI. Especialidad dentro del Padrón;
+
+VII. Requisitos legales y administrativos que deberán cumplir los licitantes;
+
+VIII. Descripción completa de los bienes o servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y período de garantía u otras opciones de cotización;
+
+IX. La indicación de si la totalidad de los bienes o servicios objeto de la Licitación Pública o bien de cada partida o concepto de los mismos, serán adjudicados a un sólo Proveedor o mediante abastecimiento simultáneo;
+
+X. Plazo, lugar y condiciones de entrega;
+
+XI. Penas convencionales por incumplimiento en las condiciones contratadas;
+
+XII. Condiciones de precio y fecha o fechas de pago;
+
+XIII. La indicación de si se otorgará anticipo, así como forma y término de entrega, en cuyo caso deberá señalarse expresamente el porcentaje respectivo, el cual no podrá exceder del cincuenta por ciento del monto total del contrato;
+
+XIV. En los casos de Licitación Pública Internacional, la Convocante establecerá que las cotizaciones de las ofertas económicas se realicen en Moneda Nacional; sin embargo, cuando el caso lo amerite, se solicitarán cotizaciones en Moneda extranjera; invariablemente el pago se efectuará en Moneda Nacional al tipo de cambio vigente en la fecha fijada en el Contrato;
+
+XV. Instrucciones para elaborar y entregar las propuestas y garantías;
+
+XVI. La indicación de que en la evaluación de las propuestas en ningún caso podrán utilizarse mecanismos de puntos o porcentajes, salvo en lo que se refiere a la preferencia de bienes o servicios que contengan mayor grado de contenido nacional;
+
+XVII. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la Licitación mediante Convocatoria Pública;
+
+XVIII. Criterios claros y detallados para la adjudicación de los contratos;
+
+XIX. La indicación de que ninguna de las condiciones contenidas en las bases de la Licitación mediante Convocatoria Pública, así como las propuestas presentadas por los proveedores podrán ser negociadas;
+
+XX. Señalamiento de que será causa de descalificación la comprobación de que algún Proveedor haya acordado con otro u otros elevar los precios de los bienes o prestación de servicios;
+
+XXI. La manifestación del Proveedor, bajo protesta de decir verdad, que tiene la plena capacidad para proporcionar capacitación a operadores; la existencia necesaria de refacciones, instalaciones y equipo adecuado, y personal competente para brindar el servicio de mantenimiento preventivo y correctivo a los bienes adquiridos;
+
+XXII. La manifestación por escrito, bajo protesta de decir verdad por parte del Proveedor, de no encontrarse en ninguno de los supuestos del artículo 51 de la Ley; y
+
+XXIII. Los demás requisitos que el Comité y la Oficialía consideren pertinentes y viables para asegurar los intereses del Estado.
+
+###### Artículo 28.
+
+Los requisitos y condiciones que contengan las bases de las licitaciones, deberán ser los mismos para todos los participantes.
+
+Todo interesado inscrito en el Padrón, que satisfaga los requisitos de la convocatoria, las bases y las especificaciones de la Licitación Pública, tendrá derecho a presentar sus propuestas.
+
+###### Artículo 29.
+
+La Oficialía o el Comité podrán modificar los aspectos establecidos en la convocatoria y las bases de la Licitación Pública, siempre que ello no implique la sustitución o variación substancial de los bienes o servicios requeridos originalmente y se realice cuando menos con cinco días naturales de anticipación a la fecha señalada para la presentación y apertura de propuestas; en cuyo caso se deberá seguir el siguiente procedimiento:
+
+I. Tratándose de modificaciones a la convocatoria, deberá hacerse del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
+
+II. En el caso de modificaciones a las bases de la Licitación Pública, deberá notificarse mediante comunicación escrita dirigida a todos los participantes con acuse de recibo.
+
+La notificación mediante comunicación escrita no será necesaria, si las modificaciones derivan de las juntas de aclaración y se entrega copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la Licitación Pública y asistido a la citada junta.
+
+###### Artículo 30.
+
+El Comité y la Oficialía quedan facultados para expedir criterios generales, a fin de obtener las mejores condiciones en cuanto a precios o calidad de los bienes y servicios relativos a las operaciones que regula la Ley.
+
+###### Artículo 31.
+
+Las personas físicas o jurídicas colectivas que provean, arrienden bienes o presten servicios de los regulados por esta Ley, deberán garantizar:
+
+I. La seriedad de las propuestas en los procedimientos de adjudicación, que se hará con un cheque no negociable con la leyenda "para abono en cuenta del beneficiario", a nombre de la Secretaría, con un mínimo del cinco por ciento del total de su oferta económica;
+
+II. La correcta aplicación de los anticipos que reciban, cuando éstos procedan; que en ningún caso podrán ser superior al cincuenta por ciento del monto total del Contrato; y
+
+III. El cumplimiento de los pedidos o contratos, con un mínimo del veinte por ciento del importe total del documento.
+
+Las garantías a que hace referencia este artículo en sus fracciones II y III, deberán incluir el Impuesto al Valor Agregado, mismas que se constituirán a través de fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas.
+
+###### Artículo 32.
+
+Las garantías a que se refiere el artículo anterior se constituirán por el Proveedor en favor de la Secretaría, por actos, pedidos o contratos que celebre con la Oficialía, dependencias y órganos, de acuerdo a las consideraciones siguientes:
+
+I. Los cheques dados en garantía, que se otorguen como sostenimiento de la oferta, serán devueltos en el acto de fallo de la licitación, para aquellos que no resulten adjudicados del mismo; quienes resulten adjudicados del fallo, les serán retenidos contra entrega de las fianzas correspondientes;
+
+II. Tratándose de anticipo, la fianza se constituirá, previo a su otorgamiento, en un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato;
+
+III. Tratándose de cumplimiento a pedidos y/o contratos, la fianza se constituirá dentro de un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato.
+
+Tratándose de las entidades, las garantías a que se refiere el artículo anterior se constituirán por el Proveedor en favor de las propias entidades.
+
+Los beneficiarios de fianzas podrán celebrar convenios con las instituciones afianzadoras que permitan constituir el afianzamiento general por parte de los proveedores y prestadores de servicios, para garantizar el cumplimiento de las obligaciones que adquieran dichos proveedores o prestadores de servicios, o a través de cualquier otro procedimiento que garantice el cumplimiento de las obligaciones asumidas por éstos.
+
+Los proveedores y prestadores de servicios deberán cumplir con los convenios que al respecto celebren los beneficiarios de las fianzas, con la finalidad de asegurar el cumplimiento de las obligaciones.
+
+No se otorgará ninguna prórroga si antes no se obtiene autorización de la afianzadora.
+
+### CAPÍTULO III. DEL PROCEDIMIENTO DE LAS ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS
+
+###### Artículo 33.
+
+El acto de presentación y apertura de proposiciones, en el que podrán participar los licitantes que hayan cubierto el costo de las bases de Licitación Pública, las especificaciones de la misma y los requisitos de la convocatoria, se llevará a cabo en dos etapas, conforme a lo siguiente:
+
+a). Primera Etapa:
+
+I. Los licitantes entregarán sus proposiciones en dos sobres cerrados en forma inviolable, de los cuales uno contendrá la propuesta técnica y otro la económica, se procederá a la apertura de la propuesta técnica exclusivamente, y se desecharán las que hubieren omitido alguno de los requisitos exigidos, precisando los motivos en el acta que al efecto se levante, las que serán devueltas por la Convocante transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la Licitación Pública; y
+
+II. Los licitantes que deseen hacerlo, o por lo menos dos representantes nombrados por éstos dentro de los presentes, así como los representantes de la Convocante, rubricarán todas las propuestas técnicas presentadas, así como los sobres que contengan las propuestas económicas, serán firmados por los licitantes y quedarán bajo custodia de la Convocante, quien establecerá en el acta correspondiente la fecha, lugar y hora en que se llevará a cabo la segunda etapa, levantando el acta correspondiente.
+
+Durante este acto la revisión de la propuesta será únicamente cuantitativa sin entrar al contenido o procedencia de los documentos.
+
+b). Segunda Etapa:
+
+I. Previo al acto de apertura de propuestas económicas, se dará lectura al acta de fallo técnico;
+
+II. Conocido el resultado anterior, se procederá exclusivamente a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos; en lo que corresponde a las propuestas económicas desechadas, se precisarán los motivos, procediéndose al levantamiento del acta pormenorizada de esta etapa, será firmada por los presentes en el acto. La falta de firma de los licitantes, no invalidará los efectos y contenido del acta;
+
+III. En caso de que el fallo de la Licitación Pública no se realice en la misma fecha, los licitantes y servidores públicos presentes además de la convocante, firmarán las proposiciones económicas aceptadas. La Convocante señalará fecha, lugar y hora en que se dará a conocer el fallo de la Licitación Pública, el que deberá quedar comprendido dentro de los treinta días naturales contados a partir de la fecha de inicio de la primera etapa y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales contados a partir del plazo establecido originalmente;
+
+IV. En junta pública se dará a conocer el fallo de la Licitación Pública, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, la Convocante podrá optar en comunicar por escrito el fallo de la Licitación Pública dentro de un término que no podrá exceder de quince días hábiles, contados a partir de la fecha de celebración del acto de apertura de ofertas, a cada uno de los licitantes; y
+
+V. En el mismo acto de fallo o adjunta a la comunicación referida en la fracción anterior, la Convocante dará a conocer a los licitantes las razones fundadas, por las cuales, en su caso, su propuesta no fue elegida y se levantará el acta de fallo de la Licitación Pública que deberán firmar los licitantes. La falta de firma de los licitantes, no invalidará los efectos y contenido del acta.
+
+###### Artículo 34.
+
+La Convocante con base en el análisis comparativo de las proposiciones admitidas y en el presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o Contrato al licitante que reúna los requisitos legales y las mejores condiciones técnicas y económicas requeridas en las bases y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+
+Si resultare que dos o más proposiciones satisfacen los requerimientos de la Convocante, el pedido o Contrato se adjudicará a quien presente la proposición solvente más baja.
+
+Contra la resolución que contenga el fallo no procederá recurso alguno, durante el acto administrativo del proceso licitatorio de que se trate. Podrán interponer recurso de inconformidad los licitantes o proveedores en los términos del artículo 71 de esta Ley.
+
+La Oficialía, dependencias, órganos y entidades podrán adjudicar las adquisiciones en favor de proveedores estatales, cuando el precio respecto de la propuesta solvente de un Proveedor que solo tenga sucursales en el Estado, se encuentren en un rango de diferencia no mayor a un diez por ciento respecto a la de un Proveedor inscrito en el Padrón y con domicilio fiscal en el Estado, con la finalidad de fortalecer los sectores prioritarios y estratégicos del Estado y en el municipio de que se trate, siempre y cuando se cumplan con los criterios señalados en el artículo 21 de esta Ley.
+
+###### Artículo 35.
+
+La Oficialía o el Comité, previa justificación de la conveniencia de distribuir entre dos o más licitantes la partida de un bien o servicio, podrán hacerlo siempre que se haya establecido en las bases de la Licitación Pública la figura de abastecimiento simultáneo.
+
+Las propuestas que gocen de este beneficio serán en todo caso, aquellas que se encuentren en un rango del cinco por ciento respecto de la propuesta solvente más baja, misma que servirá como precio base de los bienes o servicios que se adjudiquen.
+
+###### Artículo 36.
+
+En la modalidad de Licitación Simplificada Mayor, la Oficialía, dependencias, órganos y entidades podrán realizar adquisiciones, contratar arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, mediante invitación a cuando menos cinco licitantes, siempre que el monto del Contrato o pedido no exceda de los límites establecidos en el Reglamento de esta Ley.
+
+La modalidad de Licitación Simplificada Menor, se podrá ejercer por la Oficialía, dependencias, órganos y entidades mediante la realización de adquisiciones, arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, a través de invitación a cuando menos tres licitantes, siempre que el monto del Contrato o pedido no exceda de los límites establecidos en el Reglamento de esta Ley.
+
+En cualquiera de las anteriores modalidades se invitará a los licitantes que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios y cuyas actividades comerciales o profesionales estén relacionadas con los bienes, arrendamientos o servicios objeto del pedido o Contrato a celebrarse.
+
+En las Licitaciones Simplificadas, Menores y Mayores se deberán entregar las cotizaciones por escrito en sobre cerrado y firmado por el licitante, en el período y horario establecido. Cumplido el término para la recepción de cotizaciones, se elaborará y firmará una relación de los sobres recibidos, la cual se presentará invariablemente en la fecha de la reunión correspondiente; en esta se procederá a la apertura de sobres y al análisis y valorización de las propuestas a fin de elaborar el cuadro comparativo de cotizaciones, bajo el cual se efectuará la designación del Proveedor ganador y la adjudicación de los pedidos y contratos.
+
+En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que establezca el Reglamento de la Ley, en la inteligencia de que, en ningún caso, el importe total de la misma podrá ser fraccionado para que quede comprendido, en los supuestos a que se refiere este artículo. Tratándose de arrendamiento o prestación de servicio, se podrán llevar a cabo los mismos procedimientos, cuando el monto de las mensualidades corresponda a un doceavo de los límites señalados; en caso de no existir mensualidades, se tomarán como base los límites indicados para cada operación.
+
+Los montos mínimos y máximos se fijarán atendiendo a la cuantía de la adquisición, arrendamiento y servicio, considerado individualmente y en función de la inversión total autorizada a las dependencias, órganos y entidades.
+
+###### Artículo 37.
+
+En los supuestos y con sujeción a las formalidades que prevén los artículos 38, 39 ó 40 de la presente Ley, la Oficialía podrá optar por fincar pedidos o celebrar contratos de manera directa, respecto de las adquisiciones, arrendamientos o servicios que en las propias disposiciones se señalen, sin llevar a cabo los procedimientos que establecen los artículos 21 y 22 de la misma.
+
+La opción que la Oficialía ejerza en los términos del párrafo anterior deberá justificarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el artículo 34 de esta Ley, deberán acreditar que la adquisición, el arrendamiento o el servicio de que se trate se encuadra en alguno de los supuestos previstos en los artículos 38, 39 ó 40 de la Ley, expresando de entre los criterios mencionados, aquellos en que se justifica el ejercicio de la opción.
+
+###### Artículo 38.
+
+El Titular del Poder Ejecutivo del Estado podrá autorizar a la Oficialía el fincamiento de pedidos o la contratación de adquisiciones, arrendamientos y servicios, así como el gasto corriente, y establecerá las medidas de control que estime pertinentes, en los siguientes casos:
+
+I. Cuando se realicen con fines de seguridad;
+
+II. Cuando peligre la integridad de los habitantes del Estado; y
+
+III. Cuando sea necesario salvaguardar los intereses del Estado.
+
+###### Artículo 39.
+
+Las dependencias, órganos y entidades, previa autorización del Comité, podrán, bajo su responsabilidad, fincar pedidos o celebrar contratos de manera directa sin llevar a cabo las licitaciones que se establecen (sic) los artículos 21 y 22 de la Ley, en los supuestos que a continuación se señalan:
+
+I. Cuando se trate de adquisiciones de bienes perecederos, granos, productos alimenticios básicos o semiprocesados;
+
+II. Por casos fortuitos o de fuerza mayor, o bien cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes a la Dependencia, Órgano o Entidad;
+
+III. Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado como consecuencia de desastres producidos por fenómenos naturales o meteorológicos;
+
+IV. Cuando no existan dentro del Padrón por lo menos tres proveedores idóneos o en su caso, previa investigación del mercado que al efecto se hubiere realizado;
+
+V. Cuando se hubiere rescindido el Contrato o pedido respectivo. En estos casos, las dependencias, órganos y entidades verificarán previamente, conforme al criterio de adjudicación que establece el segundo párrafo del artículo 41, si existe otra proposición que resulte aceptable, en cuyo caso el pedido o Contrato se fincará o celebrará con el licitante respectivo;
+
+VI. Cuando se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados y que la Dependencia, Órgano o Entidad contrate directamente con los mismos o con las personas constituidas por ellos;
+
+VII. Cuando existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada;
+
+VIII. Cuando se trate de adquisiciones provenientes de personas físicas o jurídicas colectivas que en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables; y
+
+IX. Cuando se trate de patentes de bienes o servicios, obras de arte, derechos de autor u otros derechos exclusivos, contemplados en la Ley de la materia.
+
+Para los casos previstos en las fracciones anteriores, se convocará a la o a las personas cuyas actividades comerciales estén relacionadas con los bienes o servicios, objeto del contrato a celebrarse, cuenten con la capacidad de respuesta inmediata y los recursos que sean necesarios.
+
+###### Artículo 40.
+
+Las dependencias, órganos y entidades que para el otorgamiento de prestaciones de carácter social al personal que les preste servicios y las que en cumplimiento de su objeto o fines propios adquieran bienes para su comercialización, o para someterlos a procesos productivos, aplicarán los criterios que permitan obtener al Estado las mejores condiciones en cuanto a economía, eficacia e imparcialidad, así como satisfacer los objetivos que las originen. En todo caso observarán las siguientes reglas:
+
+I. Determinar los bienes o líneas de bienes que por sus características o especificaciones no se sujetarán al procedimiento de Licitación Pública previstos en los artículos 21 y 22, fracción I, de la Ley;
+
+II. La adquisición de los bienes o líneas de bienes que, en los términos de la fracción anterior se sujeten al procedimiento de Licitación Pública a que se refieren los artículos 21 y 22, fracción I, se llevarán a cabo con estricto apego a dicho procedimiento; y
+
+III. Si los bienes o líneas de bienes fueran de aquellos en cuya adquisición no se aplique el procedimiento de Licitación Pública previsto en los artículos 21 y 22, fracción I, de la Ley, la Dependencia, Órgano o Entidad, con excepción de las adquisiciones de bienes a que se refiere la fracción I del artículo 39, deberá obtener previamente a la adjudicación del pedido o Contrato, las cotizaciones que le permitan elegir aquellas que ofrezcan mejores condiciones.
+
+###### Artículo 41.
+
+Los pedidos o contratos que deban formalizarse como resultado de su adjudicación deberán suscribirse en un término no mayor de veinte días hábiles, contados a partir de la fecha en que se hubiese notificado al licitante el fallo o la adjudicación de aquéllos, salvo que la Oficialía considere indispensable la celebración de contratos preparatorios para garantizar la operación; en cuyo caso la formalización del Contrato definitivo deberá llevarse a cabo en un plazo no mayor de treinta días hábiles, contados a partir de la misma fecha a que se refiere este artículo.
+
+El Proveedor a quien se hubiere adjudicado el pedido o Contrato como resultado de una Licitación Pública perderá en favor de la Convocante la garantía que hubiere otorgado, si por causas imputables a él la operación no se formaliza dentro de los plazos a que se refiere este artículo, pudiendo la Convocante en este supuesto, adjudicar el Contrato o pedido al siguiente en los términos del artículo 34 de la Ley.
+
+En ningún caso los derechos y obligaciones derivados de los pedidos y contratos relacionados con las adquisiciones, arrendamientos y prestación de servicios, podrán ser cedidos en todo o en partes a otras personas físicas o jurídicas colectivas, con excepción de los derechos de cobro sobre los pagos pendientes de cubrirse, que cuenten con la aprobación previa y por escrito de la contratante.
+
+En las adquisiciones, arrendamientos y prestación de servicios, deberá pactarse preferentemente la condición de precio fijo.
+
+En casos justificados se podrán pactar en el Contrato decrementos o incrementos a los precios, de acuerdo con la fórmula que determine previamente la Convocante en las bases de la Licitación Pública.
+
+###### Artículo 42.
+
+Los contratos de adquisiciones, arrendamientos y servicios contendrán, como mínimo, lo siguiente:
+
+I. La autorización del presupuesto para cubrir el compromiso derivado del Contrato;
+
+II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del Contrato;
+
+III. El precio unitario y el importe total a pagar por los bienes o prestación de servicios;
+
+IV. La fecha, lugar y condiciones de entrega;
+
+V. Porcentaje, número y fechas de las exhibiciones y amortización de los anticipos que se otorguen;
+
+VI. Forma y términos para garantizar la correcta aplicación de los anticipos y el cumplimiento del Contrato;
+
+VII. Plazo y condiciones de pago del precio de los bienes o servicios;
+
+VIII. Precisión de si el precio es fijo o sujeto a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste;
+
+IX. Penas convencionales por atraso en la entrega de los bienes o prestación de servicios, por causas imputables a los proveedores;
+
+X. La descripción pormenorizada de los bienes o prestación de servicios objeto del Contrato, incluyendo en su caso, la marca y modelo de los bienes y si estos formarán parte del patrimonio de la Dependencia, Órgano o Entidad correspondiente; y
+
+XI. Salvo que exista impedimento, la estipulación de que los derechos de autor u otros derechos exclusivos, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán en favor del Gobierno del Estado.
+
+###### Artículo 43.
+
+Dentro del presupuesto aprobado y disponible, la Oficialía, previo acuerdo con la Dependencia, Órgano o Entidad, podrá bajo su responsabilidad y por razones fundadas, modificar los pedidos o contratos, en el ejercicio correspondiente, siempre que el monto total de las modificaciones no rebase, en conjunto, el diez por ciento del monto total del documento firmado.
+
+###### Artículo 44.
+
+Las dependencias, órganos y entidades no podrán celebrar pedidos o contratos respecto de adquisiciones, arrendamientos o servicios por tiempo o monto indeterminado.
+
+La Oficialía queda facultada para celebrar actos, pedidos o contratos cuya vigencia abarque hasta un máximo de tres ejercicios fiscales, cuando así lo estime pertinente.
+
+###### Artículo 45.
+
+Cualquier modificación a los pedidos o contratos deberán constar por escrito. Los instrumentos legales en donde consten dichas modificaciones serán suscritos por los servidores públicos y proveedores que lo hayan hecho o por quienes los sustituyan.
+
+###### Artículo 46.
+
+Las dependencias, órganos y entidades se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar mejores condiciones para el Proveedor comparadas con las establecidas originalmente.
+
+###### Artículo 47.
+
+La Oficialía, dependencias, órganos y entidades deberán pactar penas convencionales a cargo del Proveedor por incumplimiento de los pedidos o contratos. Cuando se pacte ajuste de precios la penalización se calculará sobre el precio ajustado.
+
+Una vez concluido el plazo para el cobro de las penas convencionales y, en su caso, habiéndose dado la rescisión del Contrato correspondiente, el Proveedor deberá reintegrar los anticipos o cualquier otra cantidad, más los intereses correspondientes, conforme al procedimiento establecido en el Código Fiscal del Estado de Tabasco, como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días naturales desde la fecha de su entrega hasta la fecha en que se paguen efectivamente las cantidades.
+
+###### Artículo 48.
+
+Los proveedores cubrirán las cuotas compensatorias a que pudieren estar sujetas las importaciones de bienes objeto de un pedido o Contrato y, en éstos casos, no procederán incrementos a los precios pactados, ni cualquier otra modificación a los mismos.
+
+###### Artículo 49.
+
+La Oficialía, dependencias, órganos y entidades podrán rescindir administrativamente los pedidos o contratos en caso de incumplimiento de las obligaciones a cargo de los proveedores, previa notificación y audiencia al interesado.
+
+El procedimiento de rescisión deberá iniciarse dentro de los diez días naturales siguientes a aquél en que se hubiere agotado el plazo para hacer efectivas las penas convencionales amparadas por las fianzas correspondientes, o en caso de que éstas no hayan sido pactadas, dentro de los diez días naturales siguientes al vencimiento de la fecha de incumplimiento estipulada en el pedido o Contrato, salvo que por causas justificadas y excepcionales, el servidor público responsable otorgue por escrito y previo a su vencimiento, un plazo mayor para la entrega de bienes o prestación de servicios.
+
+El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
+
+I. Se iniciará a partir de que al Proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de diez días naturales exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
+
+II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubiere hecho valer; y
+
+III. La determinación de dar o no por rescindido el Contrato deberá ser debidamente fundada, motivada y comunicada al Proveedor dentro de los quince días naturales siguientes a lo señalado en la fracción I de este artículo.
+
+Asimismo, podrán suspenderse administrativamente o darse por terminados anticipadamente los pedidos o contratos cuando para ello concurran razones de interés general, o bien, cuando por causas justificadas debidamente fundadas y motivadas, se extinga la necesidad de requerir los bienes o servicios originalmente contratados y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, ocasionaría algún daño o perjuicio al Estado. En caso de presentarse los supuestos de suspensión administrativa o rescisión de pedidos o contratos, la Oficialía, dependencias, órganos y entidades reembolsarán al Proveedor los pagos pendientes de cubrirse, previa presentación de la factura o recibo que cumpla con los requisitos fiscales que establezca la Ley de la materia.
+
+###### Artículo 50.
+
+La fecha de pago al Proveedor que la Oficialía, dependencias, órganos y entidades estipulen en los contratos, quedará sujeta a las condiciones que establezcan las mismas; sin embargo, no podrá exceder de treinta y cinco días naturales, posteriores a la presentación de la factura respectiva en el área administrativa de la Contratante, previa entrega de los bienes o prestación de los servicios en los términos del Contrato.
+
+De no cumplirse con el término anterior, se realizará el pago vencido más los gastos financieros correspondientes que se originen por el incumplimiento, a petición del Proveedor interesado, conforme al procedimiento establecido en el Código Fiscal del Estado de Tabasco, como si se tratara del supuesto de prórroga para el pago de créditos fiscales.
+
+Tratándose de pagos en exceso que haya recibido el Proveedor, éste deberá reintegrar las cantidades pagadas en exceso, más los intereses correspondientes, conforme al procedimiento establecido en el Código Fiscal del Estado de Tabasco, como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales, desde la fecha del pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la Oficialía, Dependencia, Órgano o Entidad.
+
+En caso de incumplimiento en la entrega de los bienes o la prestación de los servicios, el Proveedor deberá reintegrar los anticipos que haya recibido más los intereses correspondientes, conforme a lo indicado en este artículo. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días naturales, desde la fecha de su entrega, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la Oficialía, Dependencia, Órgano o Entidad.
+
+###### Artículo 51.
+
+No podrán presentar propuestas ni celebrar pedidos o contratos las personas físicas o jurídicas colectivas siguientes:
+
+I. Aquellas en cuyas empresas participe el servidor público que intervenga en cualquier etapa del procedimiento de licitación o deba decidir directamente, a los que se les haya delegado tal facultad sobre la adjudicación del pedido o Contrato, o su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, sea como accionista, administrador, gerente, apoderado o comisario o bien hayan formado parte de ellas por un lapso de un año anterior a la fecha de inicio de cargo;
+
+II. Las que se encuentren en situación de mora, por causas imputables a ellos mismos, respecto al cumplimiento de otro u otros pedidos o contratos y hayan afectado con ello los intereses de la Oficialía, Dependencia, Órgano o Entidad;
+
+III. Aquellos proveedores que, por causas imputables a ellos mismos, la Oficialía, Dependencia, Órgano o Entidad les hubiere rescindido administrativamente uno o más contratos, dentro de un lapso de un año calendario, contados a partir de la notificación de la primera rescisión. Dicho impedimento prevalecerá ante la propia Convocante durante dos años calendario, contados a partir de la notificación de la rescisión del segundo Contrato;
+
+IV. Las que se encuentren inhabilitadas o suspendidas por resolución de la Contraloría;
+
+V. Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
+
+VI. Aquellas que presenten propuestas en una misma partida de un bien o servicio, en un procedimiento de contratación que se encuentren vinculadas entre sí por algún socio o asociado común;
+
+VII. Las que pretendan participar en un procedimiento de contratación y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro Contrato, trabajos de análisis y control de calidad, preparación de especificaciones, presupuesto o la elaboración de cualquier documento vinculado con el procedimiento en que se encuentran interesadas en participar;
+
+VIII. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para la elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
+
+IX. Las que celebren contratos sobre las materias reguladas por esta Ley, sin estar facultadas para hacer uso de derechos de propiedad intelectual;
+
+X. Aquellos que hayan actuado con dolo o mala fe o proporcionado información falsa en algún proceso para la adjudicación de un pedido o Contrato, en su celebración, durante su vigencia o bien, en la presentación o desahogo de una inconformidad;
+
+XI. Los licitantes que no hayan obtenido las bases de la Licitación Pública correspondiente, a través del Sistema Electrónico de Contrataciones Gubernamentales o en las oficinas de la Convocante;
+
+XII. Quienes no se encuentren inscritos en el Padrón o no tengan vigente su Registro; y
+
+XIII. Las demás que por cualquier causa se encuentren impedidos para ello por disposición de Ley.
+
+###### Artículo 52.
+
+En los actos, pedidos o contratos que celebren la Oficialía, Dependencias, Órganos y Entidades respecto a las adquisiciones, arrendamientos o prestación de servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento, la obtención de las pólizas de seguro del bien o bienes de que se trate para garantizar su integridad y en caso de ser necesario, la capacitación del personal que operará los bienes o equipos especiales.
+
+###### Artículo 53.
+
+Los proveedores quedarán obligados ante la Oficialía, dependencias, órganos y entidades a responder de los defectos, vicios ocultos de los bienes o de la falta de calidad en general de los servicios y de cualquier otra responsabilidad en que hubieren incurrido en los términos señalados en el pedido o Contrato respectivo, sin perjuicio de lo establecido por las leyes civiles y penales al respecto.
+
+###### Artículo 54.
+
+Los actos, pedidos, contratos y convenios que la Oficialía, dependencias, órganos y entidades realicen en contravención a lo dispuesto por la Ley y las disposiciones que de ella se deriven, serán nulos de pleno derecho.
+
+## TÍTULO TERCERO. DE LOS ALMACENES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 55.
+
+La Oficialía, dependencias, órganos y entidades que adquieran mercancías, materias primas y bienes muebles conforme a esta Ley, deberán llevar un control de almacenes.
+
+###### Artículo 56.
+
+Las mercancías, materias primas, refacciones, herramientas, utensilios y bienes muebles a que se refiere el artículo anterior, quedarán sujetas al control de almacenes a partir del momento en que las reciban los representantes de la Oficialía, dependencias, órganos o entidades.
+
+###### Artículo 57.
+
+El control de los almacenes comprenderá, como mínimo, los siguientes aspectos:
+
+I. Recepción;
+
+II. Control y registro contable;
+
+III. Inventario, guarda y conservación;
+
+IV. Despacho;
+
+V. Servicios complementarios; y
+
+VI. Destino y baja.
+
+En el caso de bienes que se consideren activos fijo, la documentación soporte de la adquisición deberá conservarse durante el tiempo de vida del bien correspondiente.
+
+La Contraloría realizará la revisión y vigilancia del cumplimiento de las disposiciones del presente Título.
+
+## TÍTULO CUARTO. DE LA INFORMACIÓN Y VERIFICACIÓN
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 58.
+
+La Oficialía, dependencias, órganos y entidades deberán remitir a la Contraloría en la forma y términos que ésta señale, la información relativa a los pedidos y contratos que regule esta Ley.
+
+Para los efectos del párrafo anterior, la Oficialía, Dependencias, Órganos y Entidades conservarán en forma ordenada y sistemática, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta Ley, por un término no menor de cinco años contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
+
+###### Artículo 59.
+
+La Oficialía controlará los procedimientos, actos, pedidos y contratos que en materia de adquisiciones, arrendamientos y prestación de servicios se lleven a cabo. Para tal efecto, establecerá los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el Titular del Poder Ejecutivo Estatal a través de la Contraloría.
+
+###### Artículo 60.
+
+La Contraloría, en el ejercicio de sus atribuciones, instrumentará las medidas necesarias para vigilar el cumplimiento de las obligaciones de los proveedores, solicitándoles la información relacionada con las operaciones que realicen.
+
+Asimismo, identificará a aquellos que hayan incurrido en algún incumplimiento respecto de las obligaciones contraídas con las dependencias, entidades u órganos de la Administración Pública Estatal, para evitar la contratación con éstos, en tanto prevalece su incumplimiento; de igual manera, establecerá un registro de proveedores que permita verificar que éstos no se encuentren impedidos por alguna disposición emitida por las dependencias normativas, tanto federales como estatales, protegiendo los intereses del Gobierno del Estado.
+
+###### Artículo 61.
+
+La Contraloría podrá realizar las visitas e inspecciones que estime pertinentes a la Oficialía, dependencias, órganos y entidades por la celebración de los actos regulados por esta Ley, así como solicitar de los servidores públicos de las mismas y de los proveedores, en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y prestación de servicios.
+
+La Contraloría, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y prestación de servicios se realicen conforme a lo establecido por la presente Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados.
+
+Para los efectos de lo dispuesto en este artículo, la Oficialía, dependencias, órganos y entidades proporcionarán todas las facilidades necesarias, a fin de que la Contraloría pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios.
+
+###### Artículo 62.
+
+La verificación de la calidad de las especificaciones de los bienes muebles, se hará en los laboratorios que determine la Contraloría y que podrán ser aquellos con los que cuente la Oficialía, dependencias, órganos y entidades o cualquier tercero con capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+
+El resultado de las verificaciones se hará constar en un dictamen que será firmado por quienes lo hayan efectuado.
+
+###### Artículo 63.
+
+La Oficialía, en coordinación con la Contraloría, determinará la información que deberán enviarle las dependencias, órganos y entidades, respecto de los bienes y servicios que adquieran, con el fin de ejercer sus atribuciones y orientar las políticas de precios y adquisiciones de la Administración Pública Estatal.
+
+Los proveedores de estos bienes y servicios deberán informar con la debida oportunidad a las dependencias, órganos y entidades, así como a la Oficialía, los precios vigentes para la venta de sus productos y servicios, en la forma y términos que establezca dicha Dependencia.
+
+###### Artículo 64.
+
+Con base en el análisis a que se refiere el artículo anterior, la Contraloría dictaminará las circunstancias en que se hubiere celebrado la operación en cuanto al tipo de bienes, precio, características, especificaciones, tiempo de entrega o suministro, calidad y demás condiciones, y hará las observaciones que proceda a la Oficialía y al proveedor de que se trate, a efecto de que se apliquen las medidas correctivas que se requieran.
+
+Las observaciones a que se refiere este artículo tendrán el carácter de obligatorias.
+
+## TÍTULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 65.
+
+La inobservancia de la Ley por parte de los servidores públicos queda sujeta a lo que al efecto dispone la Ley de Responsabilidades de los Servidores Públicos.
+
+###### Artículo 66.
+
+La Contraloría sancionará con multa equivalente a la cantidad de cien hasta mil quinientas veces el salario mínimo general vigente en el Estado de Tabasco, a los licitantes o proveedores que cometan las siguientes infracciones:
+
+I. El Proveedor que injustificadamente y por causas imputables al mismo, no formalice el Contrato o pedido adjudicado por la Convocante;
+
+II. El Licitante o Proveedor que encontrándose en los supuestos del artículo 51 de este ordenamiento, presente propuesta y participe en licitaciones;
+
+III. Los proveedores que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios al patrimonio del Estado; así como, aquellos que entreguen bienes con especificaciones distintas de las convenidas;
+
+IV. El Licitante o Proveedor que proporcione información falsa o que actúe con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia;
+
+V. El Licitante o Proveedor que haya actuado con dolo o mala fe al interponer una inconformidad o proporcionado información falsa en la presentación o desahogo de la misma; y
+
+VI. Las infracciones en cualquier forma a las disposiciones de la Ley.
+
+Sin perjuicio de lo previsto en este artículo, la Contraloría hará del conocimiento a la Oficialía, dependencias, órganos y entidades, las sanciones que hubiere aplicado en los supuestos anteriores.
+
+###### Artículo 67.
+
+La Contraloría, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en los procedimientos de contratación o celebrar pedidos o contratos regulados por esta Ley, al Licitante o Proveedor que se ubique en alguno de los supuestos precisados en el artículo anterior.
+
+La inhabilitación que se imponga no será menor de cinco meses ni mayor de dos años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría haga del conocimiento al Licitante o Proveedor, la resolución emitida; la cual deberá ser notificada de forma inmediata a la Oficialía, dependencias, órganos y entidades, y publicada en el Periódico Oficial del Estado.
+
+La Oficialía, dependencias, órganos y entidades, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción o violación a las disposiciones de la Ley, remitirán a la Contraloría la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+
+###### Artículo 68.
+
+La Contraloría impondrá las sanciones, considerando:
+
+I. Los daños o perjuicios que se hubieren producido o puedan producirse;
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción; y
+
+IV. Las condiciones particulares del infractor.
+
+La Contraloría impondrá las sanciones administrativas de que trata este artículo, con base en las disposiciones relativas de la Ley.
+
+###### Artículo 69.
+
+La Contraloría aplicará a los servidores públicos que incurran en responsabilidad, las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos.
+
+###### Artículo 70.
+
+Las sanciones y responsabilidades a que se refiere la Ley, serán independientes de las del orden civil o penal que puedan derivar de la comisión de los mismos hechos.
+
+## TÍTULO SEXTO. DE LA INCONFORMIDAD Y EL RECURSO DE REVISIÓN
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 71.
+
+Los licitantes y proveedores que participen en las licitaciones, podrán inconformarse por escrito ante la Contraloría, en relación a cualquier etapa o fase de proceso en que participen antes del fallo de la adjudicación y por actos posteriores al fallo que impliquen la imposición de condiciones diferentes a la de la convocatoria y de las bases, dentro de un plazo de diez días hábiles siguientes al que tenga conocimiento.
+
+Las inconformidades que se interpongan, se presentarán por escrito y bajo protesta de decir verdad, debiéndose indicar los hechos que dan motivo a la inconformidad, los agravios que se le causan, acompañándose las pruebas que acrediten su pretensión, sujetándose a las siguientes reglas:
+
+I. En la inconformidad se admitirán toda clase de pruebas, excepto la testimonial y la confesional de las autoridades mediante absolución de posiciones;
+
+II. Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos manifestados, sin el cumplimiento de este requisito serán desechadas;
+
+III. La Contraloría acordará lo que proceda sobre la admisión de la inconformidad y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. El desahogo de las mismas se hará dentro del plazo de diez días hábiles a partir de su aceptación, el que será improrrogable;
+
+IV. Se tendrán por no ofrecidas las pruebas de documentos, si éstas no se acompañan al escrito en el que se interponga la inconformidad; en ningún caso serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado el acto recurrido;
+
+V. La Contraloría, según el caso, podrá pedir que se le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en el acto reclamado; y
+
+VI. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo establecido en la fracción III del presente artículo, la prueba será declarada desierta.
+
+###### Artículo 72.
+
+La Contraloría, en atención a las inconformidades a que se refiere el artículo anterior, substanciará el procedimiento y resolverá en un plazo que no excederá de cuarenta días hábiles contados a partir de la fecha de su presentación.
+
+###### Artículo 73.
+
+Durante la substanciación del procedimiento a que se refiere el artículo anterior, podrá suspenderse el cumplimiento de las obligaciones pendientes por parte de la Oficialía, Dependencia, Órgano o Entidad, en los siguientes casos:
+
+I. Cuando se advierta que existan o pudieran existir las situaciones a que se refieren los artículos 51 y 54; y
+
+II. Cuando con ella no se siga perjuicio al interés social y no se contravengan disposiciones de orden público, siempre que, de cumplirse las obligaciones, pudieran producirse daños o perjuicios a la Dependencia, Órgano o Entidad de que se trate.
+
+La suspensión procederá a instancia de parte y previa garantía del interés del Estado, la cual corresponderá determinar a la Contraloría en los términos del Reglamento de la Ley.
+
+Sin perjuicio de lo previsto en este artículo, la Contraloría podrá iniciar las investigaciones correspondientes en los procedimientos de licitaciones que realicen las dependencias, órganos y entidades, cuando sea necesario para proteger el interés del Estado.
+
+###### Artículo 74.
+
+Tomada la resolución a que se refiere el artículo 71 de la Ley, y sin perjuicio de la responsabilidad que proceda respecto de los servidores que hayan intervenido, la Oficialía, Dependencia, Órgano o Entidad deberá proceder en los términos de los artículos 34 y 39, fracciones V y IX, de la presente Ley.
+
+###### Artículo 75.
+
+En contra de la resolución de inconformidad que dicte la Contraloría, se podrá interponer el recurso de revisión que establece la Ley, o bien, impugnarla ante las instancias administrativas competentes.
+
+###### Artículo 76.
+
+En contra de las resoluciones definitivas que dicte la Contraloría en las materias de la presente Ley, el interesado podrá interponer ante la Contraloría, recurso de revisión dentro del término de diez días hábiles, contados a partir del día siguiente al de la notificación.
+
+###### Artículo 77.
+
+La tramitación del recurso a que se refiere el artículo anterior se sujetará a las normas siguientes:
+
+I. Se interpondrá por el recurrente mediante escrito debidamente firmado en el que se expresarán nombre, razón o denominación social, domicilio y los agravios que el acto impugnado le cause;
+
+II. Deberá acompañar el documento en que se acredite la personalidad, así como las pruebas que se proponga rendir, anexando copia de la resolución impugnada y la constancia de la notificación de esta última, excepto si la notificación se hizo por correo; y
+
+III. La Contraloría dictará resolución en un término que no excederá de veinte días hábiles contados a partir de la admisión del recurso.
+
+###### Artículo 78.
+
+Transcurridos los plazos establecidos en este Título, precluye para los interesados el derecho de inconformarse y a presentar el recurso de revisión, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de las leyes correspondientes.
+
+La falta de acreditamiento de la personalidad del promovente será causa de desechamiento de la inconformidad o del recurso de revisión.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, publicada en el Periódico Oficial del Estado, de fecha 19 de diciembre de 1987 y sus subsecuentes reformas; quedando derogadas las disposiciones de otras leyes u ordenamientos que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de esta Ley se publicará dentro de los siguientes treinta días naturales en que entre en vigor la misma; el Reglamento y las demás disposiciones administrativas vigentes, seguirán aplicándose en todo lo que no se opongan a esta Ley, en tanto se publique el Reglamento de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se deberá constituir el Padrón de Proveedores del Estado de Tabasco en un plazo no mayor de treinta días posteriores a la publicación del Reglamento de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de contratación, de aplicación de sanciones, de inconformidades y del recurso de revocación, así como los demás asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones que se encontraban vigentes en el momento que se iniciaron.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DE TABASCO; A LOS CATORCE DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL CINCO, DIP. DORA MARÍA SCHERRER PALOMEQUE, PRESIDENTA; DIP. FRANCISCO SANTO MAGAÑA, SECRETARIO.- RÚBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS VEINTITRÉS DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL CINCO.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+LIC. MANUEL ANDRADE DÍAZ
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+LIC. JAIME HUMBERTO LASTRA BASTAR
+
+SECRETARIO DE GOBIERNO.
