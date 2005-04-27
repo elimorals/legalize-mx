@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-patrimonio-cultural-del-estado-de-chihuahua-20125"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-28"
-last_updated: "2003-06-18"
+last_updated: "2005-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de febrero del 2001.
 
@@ -265,7 +265,9 @@ VI. Las instituciones de educación e investigación en el Estado;
 
 VII. El Instituto Nacional de Antropología e Historia;
 
-VIII. El Instituto Nacional Indigenista; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+VIII. La Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
 IX. La Unidad Regional de Culturas Populares.
 
@@ -449,7 +451,9 @@ IV. El Secretario de Planeación y Evaluación, o la persona que designe en su r
 
 V. Un representante del Instituto Nacional de Antropología e Historia;
 
-VI. Un representante del Instituto Nacional Indigenista;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+VI. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
 VII. Un representante de la Unidad Regional de Culturas Populares;
 
@@ -1224,3 +1228,9 @@ P.O. 18 DE JUNIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
