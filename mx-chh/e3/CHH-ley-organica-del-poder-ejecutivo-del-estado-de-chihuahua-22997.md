@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-01-19"
+last_updated: "2005-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -747,7 +747,13 @@ XI.- Proponer la celebración de acuerdos de coordinación con la Federación, E
 
 XII.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos con relación a las funciones de desarrollo urbano y ecología, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
 
-XIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+XIII.- Instrumentar, ejecutar y evaluar los programas, servicios y acciones relativos a la conservación y aprovechamiento sustentable de la vida silvestre, en el Estado, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+XIV.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -813,9 +819,15 @@ VI.- En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
 
-VII.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica, y en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro, y
+VII.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica, y en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro, y (sic)
 
-VIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+VIII.- Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+IX.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -893,9 +905,7 @@ ARTICULO 35 BIS.- A la Secretaría de Seguridad Pública corresponde el despacho
 
 I.- Desarrollar las políticas de seguridad pública que establezca el titular el (sic) Poder Ejecutivo, y proponer la política criminal en el ámbito Estatal, que comprende las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos e infracciones;
 
-II.- Realizar las investiga
-
-ciones de orden científico para determinar las causas y factores de los diversos tipos de criminalidad;
+II.- Realizar las investigaciones de orden científico para determinar las causas y factores de los diversos tipos de criminalidad;
 
 III.- Implementar acciones tendientes a prevenir ciertas formas de comportamiento criminal;
 
@@ -1063,7 +1073,7 @@ Los asuntos que con motivo de esta Ley deban pasar de una dependencia o entidad 
 
 ###### ARTICULO 7o.
 
-Cuando en esta Ley se de una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por otra Ley, dichas atribuciones se entenderán concedidas a la dependencia que determine la presente Ley y demás disposiciones relativas.
+Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por otra Ley, dichas atribuciones se entenderán concedidas a la dependencia que determine la presente Ley y demás disposiciones relativas.
 
 DADO EN EL PALACIO DEL PODER LEGISLATIVO, A LOS TREINTA DIAS DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS OCHENTA Y SEIS.
 
@@ -1380,3 +1390,15 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 27 DE ABRIL DE 2005.
+
+DECRETO No. 177/05 II
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2005.
+
+DECRETO No. 178/05 II
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
