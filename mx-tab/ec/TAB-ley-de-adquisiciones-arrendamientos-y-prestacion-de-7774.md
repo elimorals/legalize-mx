@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-7774"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-19"
-last_updated: "1999-03-27"
+last_updated: "2005-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO, PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE ABRIL DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección "H" del Periódico Oficial del Estado de Tabasco, el 19 de diciembre de 1987.
 
@@ -572,3 +574,25 @@ Se derogan todas aquellas disposiciones legales y administrativas, que se oponga
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado, implementará, desarrollará y ejecutará en un término de 30 días contados a partir de la entrada en vigor del presente Decreto, las acciones relacionadas con el Sistema Electrónico de Contrataciones Gubernamentales que para efectos de esta Ley se denominará SECONET; cumplido lo anterior, los concursos mediante convocatoria por licitación pública de adquisiciones, arrendamientos y prestación de servicios, así como los simplificados menores y mayores, que con cargo a recursos estatales y de aquellos provenientes de las aportaciones del Ramo General 33 en cualquiera de sus Fondos, en las que el Estado sea el responsable de su administración y ejercicio, se incorporarán con carácter obligatorio, con las excepciones que el propio Comité determine expresamente.
+
+P.O. 27 DE ABRIL DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, publicada en el Periódico Oficial del Estado, de fecha 19 de diciembre de 1987 y sus subsecuentes reformas; quedando derogadas las disposiciones de otras leyes u ordenamientos que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de esta Ley se publicará dentro de los siguientes treinta días naturales en que entre en vigor la misma; el Reglamento y las demás disposiciones administrativas vigentes, seguirán aplicándose en todo lo que no se opongan a esta Ley, en tanto se publique el Reglamento de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se deberá constituir el Padrón de Proveedores del Estado de Tabasco en un plazo no mayor de treinta días posteriores a la publicación del Reglamento de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de contratación, de aplicación de sanciones, de inconformidades y del recurso de revocación, así como los demás asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones que se encontraban vigentes en el momento que se iniciaron.
