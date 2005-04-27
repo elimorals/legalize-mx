@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2005-01-19"
+last_updated: "2005-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2005.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -757,7 +757,13 @@ XXXV.- Elaborar la tarifa de valores para la enajenación de terrenos municipale
 
 XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y
 
-XXXVII.- Las demás que le confieren las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
+
+XXXVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo.
+
+Las suplentes de los presidentes municipales, también deberán cumplir con esta actividad.
+
+XXXVIII.- Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 1987)</small>
 
@@ -911,7 +917,7 @@ XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidad
 
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
 
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
@@ -923,7 +929,7 @@ XV.- Solicitar datos, informes y documentación en general a fin de hacer las co
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
-XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente.
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
 
 XVII.- Las demás que establezcan las leyes y reglamentos.
 
@@ -1589,7 +1595,7 @@ El personal de los cuerpos de policía, tránsito y bomberos podrá ser removido
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
 
-Los ayuntamientos emitirán los reglamentos que sean pertinentes para establecer la estructura y funcionamiento de los cuerpos de policía, tránsito y bomberos precisando las deberes y facultades de los mismos, así como los procedimientos disciplinarios a los que deberán sujetarse.
+Los ayuntamientos emitirán los reglamentos que sean pertinentes para establecer la estructura y funcionamiento de los cuerpos de policía, tránsito y bomberos precisando los deberes y facultades de los mismos, así como los procedimientos disciplinarios a los que deberán sujetarse.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
@@ -2073,7 +2079,7 @@ b) Las participaciones federales, que serán cubiertas por la Federación a los 
 
 c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los inciso a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán excenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los inciso a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o por conducto de la dependencia que ellos determinen y de conformidad con el Presupuesto de Egresos.
 
@@ -3499,13 +3505,13 @@ P.O. 14 DE JUNIO DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE JUNIO DE 2003.
+P.O. 16 DE JULIO DE 2003.
 
-###### ARTICULO ÚNICO.
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JULIO DE 2003.
+P.O. 21 DE JUNIO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3517,7 +3523,7 @@ Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municip
 
 P.O. 19 DE JULIO DE 2003.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3654,5 +3660,9 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 27 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## TRANSITORIOS
