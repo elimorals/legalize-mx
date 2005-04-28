@@ -4,7 +4,7 @@ identifier: "FED-ley-de-mineria-antes-ley-minera-99"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-26"
-last_updated: "1996-12-24"
+last_updated: "2005-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1992-06-24"
 
 LEY MINERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el viernes 26 de junio de 1992.
+Ley publicada en el Diario Oficial de la Federación, el viernes 26 de junio de 1992.
 
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -39,15 +39,17 @@ L E Y M I N E R A
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 1°.
 
-La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Comercio y Fomento Industrial, a quien en lo sucesivo se le denominará la Secretaría.
+La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Economía, a quien en lo sucesivo se le denominará la Secretaría.
 
-###### ARTICULO 2º.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Se sujetarán a las disposiciones de esta Ley la exploración, explotación y beneficio de los minerales o sustancias que en vetas, mantos, masas o yacimientos constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos.
+###### ARTICULO 2°.
+
+Se sujetarán a las disposiciones de esta Ley, la exploración, explotación, y beneficio de los minerales o sustancias que en vetas, mantos, masas o yacimientos constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, así como de las salinas formadas directamente por las aguas marinas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial y de las sales y subproductos de éstas.
 
 ###### ARTICULO 3º.
 
@@ -59,27 +61,47 @@ II.- Explotación: Las obras y trabajos destinados a la preparación y desarroll
 
 III.- Beneficio: Los trabajos para preparación, tratamiento, fundición de primera mano y refinación de productos minerales, en cualquiera de sus fases, con el propósito de recuperar u obtener minerales o sustancias, al igual que de elevar la concentración y pureza de sus contenidos.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Son minerales o sustancias que en vetas, mantos, masas o yacimientos constituyen depósitos distintos de los componentes de los terrenos:
+###### ARTICULO 4°.
 
-I.- Minerales o sustancias de uso industrial que contengan antimonio, arsénico, berilio, bismuto, cadmio, cesio, cobalto, cobre, cromo, escandio, estaño, galio, germanio, hafnio, hierro, indio, iridio, litio, manganeso, mercurio, molibdeno, niobio, níquel, oro, osmio, paladio, plata, platino, plomo, renio, rodio, selenio, talio, tantalio, telurio, titanio, tungsteno, vanadio o zinc;
+Son minerales o sustancias que en vetas, mantos, masas o yacimientos constituyen depósitos distintos de los componentes de los terrenos los siguientes:
 
-II.- Minerales de uso industrial siguientes: actinolita, alumbre, alunita, andalucita, anhidrita, antofilita, arfvedsonita, ascharita, azufre, barita, bauxita, bloedita, boehmita, boracita, bórax, brucita, carnalita, celestita, cianita, colemanita, cordierita, corundo, crisotilo, cuarzo, diáspora, diatomita, dolomita, dumortierita, epsomita, estroncianita, flogopita, fluorita, gibbsita, glaserita, grafito, granate, hidromagnesita, howlita, inderita, inyoita, kainita, kernita, kieserita, langbeinita, magnesita, mirabilita, muscovita, nitrato de sodio, palygorskita, pirofilita, polihalita, priceita, quiastolita, sassolita, sepiolita, sillimanita, silvita, sussexita, talco, taquidrita, thenardita, tremolita, trona, ulexita, vermiculita, vivianita, witherita, wollastonita, yeso y zircón;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-III.- Tierras raras;
+I. Minerales o sustancias de los que se extraigan antimonio, arsénico, bario, berilio, bismuto, boro, bromo, cadmio, cesio, cobalto, cobre, cromo, escandio, estaño, estroncio, flúor, fósforo, galio, germanio, hafnio, hierro, indio, iridio, itrio, lantánidos, litio, magnesio, manganeso, mercurio, molibdeno, niobio, níquel, oro, osmio, paladio, plata, platino, plomo, potasio, renio, rodio, rubidio, rutenio, selenio, sodio, talio, tantalio, telurio, titanio, tungsteno, vanadio, zinc, zirconio y yodo;
 
-IV.- Gemas minerales;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-V.- Sal gema, así como las sales y los subproductos que se obtengan de salinas formadas directamente por aguas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial;
+II. Minerales o grupos de minerales de uso industrial siguientes: actinolita, alumbre, alunita, amosita, andalucita, anhidrita, antofilita, azufre, barita, bauxita, biotita, bloedita, boemita, boratos, brucita, carnalita, celestita, cianita, cordierita, corindón, crisotilo, crocidolita, cromita, cuarzo, dolomita, epsomita, estaurolita, flogopita, fosfatos, fluorita, glaserita, glauberita, grafito, granates, halita, hidromagnesita, kainita, kieserita, langbeinita, magnesita, micas, mirabilita, mulita, muscovita, nitratina, olivinos, palygorskita, pirofilita, polihalita, sepiolita, silimanita, silvita, talco, taquidrita, tenardita, tremolita, trona, vermiculita, witherita, wollastonita, yeso, zeolitas y zircón;
 
-VI.- Productos derivados de la descomposición de las rocas cuya explotación se realice preponderantemente por medio de trabajos subterráneos, como el caolín y las montmorillonitas, al igual que las arenas de cuarzo, feldespatos y plagioclasas;
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-VII.- Las materias minerales u orgánicas siguientes, susceptibles de ser utilizadas como fertilizantes: apatita, colofana, fosforita, fosfosiderita, francolita, variscita, wavellita y guano;
+II. BIS. Diatomita;
 
-VIII.- Los combustibles minerales sólidos siguientes: antracita, carbón mineral, lignito y turba, y
+III. (DEROGADA, D.O.F. 28 DE ABRIL DE 2005)
 
-IX.- Los demás que determine el Ejecutivo Federal, mediante decreto que será publicado en el Diario Oficial de la Federación, atendiendo a su uso industrial debido al desarrollo de nuevas tecnologías, a su cotización en los mercados internacionales o a la necesidad de promover la explotación racional y la preservación de los recursos no renovables en beneficio de la sociedad.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+IV. Piedras preciosas: agua marina, alejandrina, amatista, amazonita, aventurina, berilo, crisoberilo, crocidolita, diamante, dioptasa, epidota, escapolita, esmeralda, espinel, espodumena, jadeita, kuncita, lapislázuli, malaquita, morganita, olivino, ópalo, riebeckita, rubí, sodalita, tanzanita, topacio, turmalina, turquesa, vesubianita y zafiro;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+V. Sal gema;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VI. Los productos derivados de la descomposición de las rocas cuando su explotación necesite trabajos subterráneos, como las arcillas en todas su variedades, tales como el caolín y las montmorillonitas, al igual que las arenas de cuarzo, feldespatos y plagioclasas;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VII. Las materias minerales u orgánicas siguientes, susceptibles de ser utilizadas como fertilizantes: apatita, colófano, fosfosiderita, francolita, variscita, wavelita y guano;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VIII. Los combustibles minerales sólidos siguientes: carbón mineral en todas sus variedades, y
+
+IX. Los demás que determine el Ejecutivo Federal, mediante decreto que será publicado en el Diario Oficial de la Federación, atendiendo a su uso industrial debido al desarrollo de nuevas tecnologías, a su cotización en los mercados internacionales o a la necesidad de promover la explotación racional y la preservación de los recursos no renovables en beneficio de la sociedad.
 
 Quienes estén realizando la exploración o explotación de los minerales o sustancias a que se refiere la fracción IX anterior, con base en las disposiciones del derecho común, tendrán derecho preferente para obtener la concesión minera correspondiente, siempre que la soliciten en los términos de esta Ley y su Reglamento.
 
@@ -95,7 +117,9 @@ III.- Las sustancias contenidas en suspensión o disolución por aguas subterrá
 
 IV.- Las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen a este fin;
 
-V.- Los productos derivados de la descomposición de las rocas, cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto, y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+V.- Los productos derivados de la descomposición de las rocas, cuando su explotación se realice por medio de trabajos a cielo abierto, y
 
 VI.- La sal que provenga de salinas formadas en cuencas endorréicas.
 
@@ -113,7 +137,13 @@ II.- Elaborar y dar seguimiento al programa sectorial en materia minera y coordi
 
 III.- Opinar ante las dependencias del Ejecutivo Federal en los asuntos de la competencia de éstas relacionados con la industria minerometalúrgica;
 
-IV.- Participar con las dependencias competentes en la elaboración de las normas técnicas específicas relativas a la industria minerometalúrgica, en materia de seguridad en las minas y de equilibrio ecológico y protección al ambiente;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+IV.- Participar con las dependencias competentes en la elaboración de las normas oficiales mexicanas y las normas mexicanas relativas a la industria minero-metalúrgica en materia de higiene y seguridad en las minas, salud ocupacional y de equilibrio ecológico y protección al ambiente;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+IV BIS. Emitir las opiniones técnicas que su propio reglamento interior señale;
 
 V.- Someter a la consideración del Ejecutivo Federal los proyectos de decreto para determinar la concesibilidad de minerales o sustancias, así como los relativos a la incorporación o desincorporación de zonas de reservas mineras;
 
@@ -123,7 +153,9 @@ VII.- Integrar el expediente y resolver en los términos de la presente Ley y la
 
 VIII.- Resolver sobre las controversias que se susciten con respecto a la negativa de las personas que beneficien mineral a recibir el de terceros;
 
-IX.- Solicitar, con carácter confidencial, información sobre la producción, beneficio y destino de minerales, geología de los yacimientos y reservas de mineral, así como sobre los estados económicos y contables de empresas mineras y metalúrgicas;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+IX.- Solicitar y recibir, con carácter confidencial, información sobre la producción, beneficio y destino de los minerales, geología de los yacimientos y reservas del mineral, así como sobre los estados económicos y contables de empresas mineras y metalúrgicas;
 
 X.- Llevar el Registro Público de Minería y la Cartografía Minera y realizar toda clase de levantamientos topográficos y geodésicos con el fin de mantener actualizada esta última;
 
@@ -143,55 +175,113 @@ La Secretaría formulará los programas de fomento a la pequeña y mediana miner
 
 El Reglamento de esta Ley establecerá los mecanismos para la instrumentación de los programas y acciones previstos por este artículo y precisará las características del pequeño y mediano minero por mineral o sustancia, con base en sus ingresos por ventas, el tonelaje total que extraigan o su participación en la producción nacional.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Para promover el mejor aprovechamiento de los recursos minerales de la Nación, la Secretaría se apoyará en el Consejo de Recursos Minerales, organismo descentralizado con personalidad jurídica y patrimonio propios, coordinado sectorialmente por dicha dependencia.
+###### ARTICULO 9°.
 
-El Consejo de Recursos Minerales tiene por objeto:
+Para promover el mejor aprovechamiento de los recursos minerales y generar la información geológica básica de la Nación, la Secretaría se apoyará en el Servicio Geológico Mexicano, organismo público descentralizado con personalidad jurídica y patrimonio propios, coordinado sectorialmente por dicha dependencia.
 
-I.- Identificar y cuantificar los recursos minerales potenciales de la Nación;
+El Servicio Geológico Mexicano tendrá su domicilio legal en Pachuca, Hidalgo. Su patrimonio se integrará con las aportaciones del Gobierno Federal, las primas por descubrimiento y las contraprestaciones económicas que provengan de los concursos a que se refiere esta Ley, los ingresos por los servicios que proporcione y los bienes que adquiera por cualquier otro título.
 
-II.- Llevar el inventario de los depósitos minerales del país y proporcionar el servicio público de información geológico-minera;
+La administración del Servicio Geológico Mexicano estará a cargo de un Órgano de Gobierno y de su Director General.
 
-III.- Promover la investigación para ampliar el aprovechamiento técnico-industrial de los recursos minerales de la Nación;
+El Órgano de Gobierno estará integrado por:
 
-IV.- Identificar y promover ante las autoridades competentes la ejecución de obras de infraestructura que propicien el desarrollo de nuevos distritos mineros;
+El titular de la Secretaría de Economía, quien lo presidirá;
 
-V.- Aportar elementos de juicio a la Secretaría en relación con los minerales o sustancias que deban determinarse como concesibles y sobre las zonas por incorporar o desincorporar de reservas mineras;
+Dos representantes de la Secretaría de Economía;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+Un representante de la Secretaría de Hacienda y Crédito Público;
 
-VI.- Auxiliar a la Secretaría en los concursos a que se refiere esta Ley;
+Un representante de la Secretaría de Desarrollo Social;
 
-VII.- Actuar como órgano de consulta de la Secretaría en los peritajes en que ésta intervenga;
+Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-VIII.- Dar a la pequeña y mediana minería y al sector social asesoría técnica en materia de cubicación de depósitos minerales y análisis físico-químicos de contenidos económicamente aprovechables;
+Un representante de la Secretaría de Energía;
 
-IX.- Participar en los fondos de inversión de riesgo compartido para exploración;
+Un representante del Fideicomiso de Fomento Minero;
 
-X.- Certificar a costa del interesado reservas cubicadas por particulares que deseen otorgar en garantía los derechos derivados de su concesión minera;
+Asimismo, asistirán como invitados, con voz pero sin voto y previa invitación nominativa del Presidente del Órgano de Gobierno, hasta tres representantes de organizaciones del sector privado minero mexicano, un representante de los sindicatos del sector minero y un representante de organizaciones de la minería social.
 
-XI.- Celebrar contratos mediante licitación pública para llevar a cabo las obras y trabajos dentro de los lotes que amparen las asignaciones mineras expedidas en su favor, previa autorización de la Secretaría y en los términos previstos al efecto por el Reglamento de la presente Ley;
+Para la validez de sus reuniones se requerirá de la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de asistentes sean representantes de la administración pública federal. Sus resoluciones se tomarán por mayoría de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
-XII.- Coordinarse con otras entidades e instituciones públicas que realicen investigaciones geocientíficas o de exploración geotécnica en el territorio nacional;
+El Director General será designado por el Presidente de la República, a través del titular de la Secretaría, debiendo recaer en persona que reúna los requisitos indicados en la Ley Federal de las Entidades Paraestatales.
 
-XIII.- Desarrollar, introducir y adaptar nuevas tecnologías, a fin de mejorar la exploración, explotación y aprovechamiento de los recursos minerales de la Nación, y
+Las facultades y obligaciones del Órgano de Gobierno y las del Director General de la dependencia serán las establecidas por la Ley Federal de las Entidades Paraestatales y su Reglamento, así como las indicadas en el Reglamento de esta Ley y el Estatuto Orgánico del organismo.
 
-XIV.- Realizar las actividades que le confieren expresamente otras leyes.
+La vigilancia del Servicio Geológico Mexicano estará a cargo de un Comisario Público, propietario y suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones del Órgano de Gobierno; las atribuciones del Comisario serán las indicadas en la Ley Federal de las Entidades Paraestatales y su Reglamento. Las bases de la organización del organismo así como las facultades y funciones que correspondan a las distintas áreas del mismo se regirán por su Estatuto Orgánico.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+Las relaciones laborales de los servidores públicos del Servicio Geológico Mexicano se regirán por el apartado A) del artículo 123 constitucional y sus leyes reglamentarias.
 
-La administración del Consejo de Recursos Minerales estará a cargo de un consejo directivo integrado por las dependencias y los organismos representativos de la rama que determine el Reglamento de esta Ley. Su patrimonio se constituirá con las aportaciones del Gobierno Federal, las primas por descubrimiento y las contraprestaciones económicas que provengan de los concursos a que se refiere esta Ley, los ingresos por los servicios que proporcione y los bienes que adquiera por cualquier otro título.
+Para el cumplimiento de su objeto señalado en el párrafo primero de este Artículo, el Servicio Geológico Mexicano tendrá las siguientes funciones:
+
+I. Promover y realizar la investigación geológica, minera y metalúrgica para el mejor aprovechamiento de los recursos minerales del país;
+
+II. Identificar y estimar los recursos minerales potenciales del país;
+
+III. Inventariar los depósitos minerales del país;
+
+IV. Proporcionar el servicio público de información geológica, geofísica, geoquímica y minera del país;
+
+V. Elaborar y mantener actualizada la Carta Geológica de México, en las escalas requeridas;
+
+VI. Proveer la información geoquímica del territorio nacional obtenida de acuerdo a normas internacionales y establecer las características geofísicas del subsuelo y proporcionar su interpretación;
+
+VII. Dar a la pequeña y mediana minería, y al sector social, asesoría técnica en materia de evaluación de depósitos minerales, procesos metalúrgicos y análisis físico-químicos de muestras de minerales, para su aprovechamiento;
+
+VIII. Proporcionar el servicio de laboratorio y el estudio e interpretación de análisis químicos,
+
+físico-químicos, metalúrgicos y geológicos de muestras en estado sólido, líquido o gaseoso;
+
+IX. Participar en fondos de inversión de riesgo compartido para exploración;
+
+X. Aportar elementos de juicio a la Secretaría, con relación a la determinación de los minerales y sustancias concesibles y la incorporación o desincorporación de zonas a reservas mineras;
+
+XI. Coordinarse con otras entidades e instituciones públicas o privadas, nacionales o extranjeras, que realicen investigaciones geocientíficas;
+
+XII. Prestar a clientes externos los servicios descritos en este artículo, dentro del territorio nacional o en el extranjero, mediante contratos con personas físicas o morales, instituciones públicas o privadas, nacionales o extranjeras;
+
+XIII. Brindar asistencia técnica en materia de planeación de uso del suelo, aportando estudios de: riesgo geológico, ecológicos, territoriales, geohidrológicos y geotécnicos, que se requieran para este fin;
+
+XIV. Obtener y conservar la información de ciencias de la tierra, para incrementar el acervo del servicio público de información geológica, geofísica, geoquímica y minera del país;
+
+XV. Participar en las reuniones geocientíficas nacionales e internacionales;
+
+XVI. Formar parte del Consejo Nacional de Áreas Naturales Protegidas, conforme al artículo 56 bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento;
+
+XVII. Proporcionar la información geológica, geoquímica y geofísica y asesoría técnica sobre el uso y aprovechamiento, actuales y potenciales, de los recursos minerales, que les deberá ser requerida en los términos del artículo 58 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+XVIII. Identificar y promover ante la Secretaría la ejecución de obras de infraestructura que propicien el desarrollo de distritos mineros;
+
+XIX. Desarrollar, introducir y adaptar nuevas tecnologías, a fin de mejorar la exploración, explotación y aprovechamiento de los recursos minerales de la Nación;
+
+XX. Auxiliar a la Secretaría en los concursos a que se refiere esta Ley;
+
+XXI. Actuar como órgano de consulta y verificación de la Secretaría, a solicitud de la misma, en los peritajes y visitas de inspección en que ésta intervenga;
+
+XXII. Certificar reservas minerales a petición del interesado;
+
+XXIII. Celebrar contratos mediante licitación pública para llevar a cabo obras y trabajos dentro de los lotes que amparen las asignaciones mineras expedidas en su favor, en los términos previstos al efecto por el Reglamento de la presente Ley;
+
+XXIV. Fijar y ajustar los precios de los servicios que preste, con excepción de aquellos que se determinen por acuerdo del Ejecutivo Federal;
+
+XXV. Coordinarse con las autoridades estatales para impulsar y difundir el conocimiento de la actividad geológica, minera y metalúrgica mediante la promoción del establecimiento de museos de minería, proveyendo para ello, de conformidad con las disposiciones aplicables, las asignaciones presupuestales que se contemplen en los convenios que se celebren para el efecto con los Gobiernos de los Estados, y
+
+XXVI. Realizar las actividades que le confieren expresamente otras leyes.
 
 ### CAPITULO SEGUNDO
 
 De las Concesiones, Asignaciones y Reservas Mineras.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 10.
 
-La exploración y explotación de los minerales o sustancias materia de esta Ley sólo podrá realizarse por personas físicas de nacionalidad mexicana, ejidos y comunidades agrarias y sociedades constituidas conforme a las leyes mexicanas, mediante concesiones mineras otorgadas por la Secretaría. Las concesiones mineras serán de exploración y de explotación.
+La exploración y explotación de los minerales o sustancias a que se refiere el artículo 4, así como de las salinas formadas directamente por las aguas marinas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, y de las sales y subproductos de éstas, sólo podrá realizarse por personas físicas de nacionalidad mexicana, ejidos y comunidades agrarias, pueblos y comunidades indígenas a que se refiere el artículo 2o. Constitucional reconocidos como tales por las Constituciones y Leyes de las Entidades Federativas, y sociedades constituidas conforme a las leyes mexicanas, mediante concesiones mineras otorgadas por la Secretaría.
 
-La exploración del territorio nacional con el objeto de identificar y cuantificar los recursos minerales potenciales de la Nación se llevará a cabo por el Consejo de Recursos Minerales, por medio de asignaciones mineras que serán expedidas únicamente en favor de este organismo por la Secretaría y cuyo título deberá publicarse en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+La exploración del territorio nacional con el objeto de identificar y cuantificar los recursos minerales potenciales de la Nación se llevará a cabo por el Servicio Geológico Mexicano, por medio de asignaciones mineras que serán expedidas únicamente a favor de este organismo por la Secretaría y cuyo título deberá publicarse en el Diario Oficial de la Federación.
 
 Por causas de utilidad pública o para la satisfacción de necesidades futuras del país podrán establecerse zonas de reservas mineras, mediante decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación. Sobre las zonas incorporadas a dichas reservas no se otorgarán concesiones ni asignaciones mineras.
 
@@ -219,25 +309,43 @@ La localización del lote minero se determinará con base en un punto fijo en el
 
 La liga del punto de partida será perpendicular preferentemente a cualquiera de los lados Norte-Sur o Este-Oeste del perímetro del lote.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+ARTICULO 12 BIS.- El terreno libre que se encuentre rodeado por terrenos amparados por concesiones o asignaciones mineras y que tenga una superficie máxima de 10 hectáreas constituirá un lote minero denominado hueco, cuya concesión podrá ser solicitada con arreglo a lo siguiente:
+
+El titular de la concesión o asignación minera con mayor perímetro colindante con el hueco, tendrá derecho preferente para que se le otorgue la concesión correspondiente sobre el mismo.
+
+En caso de que el titular antes señalado no ejerza su derecho, la preferencia pasará al siguiente titular de la concesión o asignación minera con mayor perímetro colindante con el hueco y así sucesivamente.
+
+Cuando existan titulares de concesiones o asignaciones mineras cuyos lotes tengan igual perímetro colindante con el hueco, la preferencia se definirá mediante un sorteo entre ellos.
+
+En caso de que una persona distinta al titular señalado en el segundo párrafo de este artículo solicite la concesión minera sobre el hueco, la Secretaría notificará, dentro de los 30 días siguientes a la presentación de los trabajos periciales, a los titulares de las concesiones o asignaciones mineras que colinden con el hueco para que ejerzan su derecho preferente con arreglo a las disposiciones anteriores. Los interesados contarán con un plazo de 30 días contados a partir de la fecha en que surtan efectos tales notificaciones para presentar la solicitud de concesión correspondiente.
+
+Si no se presenta solicitud alguna para ejercer el derecho preferente sobre el hueco dentro del plazo señalado en el párrafo anterior, la Secretaría expedirá el título en favor del solicitante original, previo cumplimiento de las condiciones y requisitos establecidos en la Ley y su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 13.
 
-Las concesiones de exploración y las asignaciones mineras se otorgarán sobre terreno libre al primer solicitante en tiempo de un lote minero, siempre que se cumplan las condiciones y requisitos que establecen la presente Ley y su Reglamento.
+Las concesiones y las asignaciones mineras se otorgarán sobre terreno libre al primer solicitante en tiempo de un lote minero, siempre que se cumplan las condiciones y requisitos que establecen la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+Cuando por surtir efecto la publicación de una declaratoria de libertad de terreno de un lote minero, se presenten de manera simultánea una o más solicitudes de concesión minera y una o más solicitudes de asignación minera, tendrán preferencia para su admisión y trámite las solicitudes de concesión sobre las de asignación.
 
-Las concesiones de exploración en las zonas marinas mexicanas a que se refiere el Artículo 3o. de la Ley Federal del Mar, se deberán otorgar por concurso.
+Cuando el terreno se encuentre en un área habitada y ocupada por un pueblo o comunidad indígena, y dicho pueblo o comunidad indígena solicite dicho terreno simultáneamente con otra persona o personas, será preferida la solicitud del pueblo o comunidad indígena a efecto de que se le otorgue la concesión minera sobre dicho terreno, siempre y cuando cumpla con las condiciones y requisitos que establecen la presente Ley y su Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+En el caso de asignaciones que se cancelen o de las zonas de reservas mineras cuya desincorporación se decrete, las concesiones mineras se podrán otorgar mediante concurso, antes de que se declare la libertad de terreno.
 
-En el caso de asignaciones que se cancelen o de las zonas de reservas mineras cuya desincorporación se decrete, las concesiones de exploración se podrán otorgar mediante concurso, antes de que se declare la libertad del terreno.
+Solamente podrán incorporarse a reservas mineras zonas cuya exploración haya sido realizada previamente por el Servicio Geológico Mexicano mediante asignación, se justifique su incorporación con base en el potencial minero de la zona, determinado mediante obras y trabajos de exploración a semidetalle, y se acredite la causa de utilidad pública o se trate de minerales o sustancias considerados dentro de las áreas estratégicas a cargo del Estado.
 
-Solamente podrán incorporarse a reservas mineras zonas cuya exploración haya sido realizada previamente por el Consejo de Recursos Minerales mediante asignación, se justifique su incorporación con base en el potencial minero de la zona, determinado mediante obras y trabajos de exploración a semidetalle, y se acredite la causa de utilidad pública o se trate de minerales o sustancias considerados dentro de las áreas estratégicas a cargo del Estado.
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES ARTICULO 13 A], D.O.F. 28 DE ABRIL DE 2005)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+ARTICULO 13 BIS.- Los concursos mediante los cuales se otorguen las concesiones a que se refiere el artículo anterior deberán garantizar las mejores condiciones económicas para el Estado, y se realizarán conforme a lo siguiente:
 
-ARTICULO 13 A.- Los concursos mediante los cuales se otorguen las concesiones a que se refiere el artículo anterior deberán garantizar las mejores condiciones económicas para el Estado, y se realizarán conforme a lo siguiente:
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 I.- La Secretaría publicará la convocatoria por lo menos en el Diario Oficial de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 II.- Las bases del concurso incluirán, como mínimo:
 
@@ -247,7 +355,17 @@ b) Los requisitos con los que los participantes acreditarán su capacidad juríd
 
 c) La modalidad para la presentación de las propuestas de contraprestación económica y prima por descubrimiento, que podrá ser en sobre cerrado o alguna otra que se determine, y
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+d) el clausulado del contrato que, en su caso, deberá otorgarse para garantizar el cumplimiento de la contraprestación económica y la prima por descubrimiento que se ofrezca.
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 III.- Las concesiones se otorgarán a quien acredite el cumplimiento de los requisitos que se prevean en las bases y presente la mejor propuesta económica, para lo que se tomará en consideración, exclusivamente, la contraprestación económica y prima por descubrimiento ofrecidas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+Cuando el terreno se encuentre en un área habitada y ocupada por un pueblo o comunidad indígena y dicho pueblo o comunidad indígena participe en el concurso, tendrá el derecho de igualar la mejor propuesta económica que presente otro concursante, y en caso de hacerlo tendrá derecho preferente la propuesta de dicho pueblo o comunidad indígena.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -255,7 +373,7 @@ III.- Las concesiones se otorgarán a quien acredite el cumplimiento de los requ
 
 Se considera terreno libre el comprendido dentro del territorio nacional, con excepción del ubicado en o amparado por:
 
-I.- Zonas marinas mexicanas a que se refiere el Artículo 3o. de la Ley Federal del Mar;
+I.- (DEROGADA, D.O.F. 28 DE ABRIL DE 2005)
 
 II.- Zonas incorporadas a reservas mineras;
 
@@ -263,13 +381,19 @@ III.- Concesiones y asignaciones mineras vigentes;
 
 IV.- Solicitudes de concesiones y asignaciones mineras en trámite;
 
-V.- Concesiones que se hayan otorgado mediante concurso y que, posteriormente, sean canceladas;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-VI.- Concesiones que hayan sustituido a concesiones otorgadas previamente mediante concurso, y posteriormente sean canceladas, y
+V.- Concesiones mineras otorgadas mediante concurso y las derivadas de éstas que hayan sido canceladas;
 
-VII.- Los lotes respecto de los que no se hubieran otorgado concesiones de exploración por haberse declarado desierto el concurso respectivo.
+VI.- (DEROGADA, D.O.F. 28 DE ABRIL DE 2005)
 
-En los supuestos de las fracciones V, VI y VII, la Secretaría dispondrá de un plazo de noventa días naturales contados a partir del día siguiente a aquél en que surta efectos la notificación de la cancelación de la concesión o la resolución que declaró desierto el concurso, para publicar en el Diario Oficial de la Federación, la resolución que determine la celebración de un nuevo concurso en la totalidad o en parte de los terrenos, o la declaratoria de libertad de los mismos, salvo que se trate de zonas marinas mexicanas, en cuyo supuesto sólo procederá resolver la celebración o no de un nuevo concurso.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VII.- Los lotes respecto de los cuales no se hubieran otorgado concesiones mineras por haberse declarado desierto el concurso respectivo.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+En los supuestos de las fracciones V y VII, la Secretaría dispondrá de un plazo de noventa días naturales contados a partir del día siguiente a aquél en que surta efectos la notificación de la cancelación de la concesión o la resolución que declaró desierto el concurso, para publicar en el Diario Oficial de la Federación, la resolución que determine la celebración de un nuevo concurso en la totalidad o en parte de los terrenos, o la declaratoria de libertad de los mismos.
 
 En los demás casos en que se cancelen concesiones, así como cuando se desaprueben o sean objeto de desistimiento solicitudes de concesiones o asignaciones, la Secretaría, dentro de los quince días naturales siguientes a aquél en que surta efectos la notificación respectiva, publicará en el Diario Oficial de la Federación la declaratoria de libertad del terreno correspondiente.
 
@@ -281,27 +405,33 @@ Cuando se cancelen concesiones y asignaciones por sustitución, solamente se lib
 
 Las concesiones mineras conferirán derechos sobre todos los minerales o sustancias sujetos a la aplicación de la presente Ley.
 
-Las concesiones de exploración tendrán una duración improrrogable de seis años, contados a partir de la fecha de su inscripción en el Registro Público de Minería.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Dichas concesiones serán sustituidas por una o más concesiones de explotación si sus titulares no incurrieron en las causales de cancelación establecidas por esta Ley, lo solicitan antes de que concluya su vigencia y el perímetro del lote objeto de las solicitudes está comprendido totalmente dentro de la superficie amparada por las concesiones que se sustituyen.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Las concesiones de explotación tendrán duración de cincuenta años, contados a partir de la fecha de su inscripción en el Registro Público de Minería.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Tales concesiones se prorrogarán por igual término si sus titulares no incurrieron en las causales de cancelación previstas en la presente Ley y lo solicitan dentro de los cinco años previos al término de su vigencia.
+Las concesiones mineras tendrán una duración de cincuenta años, contados a partir de la fecha de su inscripción en el Registro Público de Minería y se prorrogarán por igual término si sus titulares no incurrieron en las causales de cancelación previstas en la presente Ley y lo solicitan dentro de los cinco años previos al término de su vigencia.
 
-En tanto se resuelven las solicitudes de concesión de explotación o sobre su prórroga, continuarán en vigor las concesiones con respecto a las cuales se formulen.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+En tanto se resuelven las solicitudes de prórroga de vigencia, continuarán en vigor las concesiones con respecto a las cuales se formulen.
 
 ###### ARTICULO 16.
 
 Las asignaciones mineras conferirán derechos sobre todos los minerales o sustancias sujetos a la aplicación de esta Ley y tendrán una duración improrrogable de seis años, contados a partir de la fecha de publicación del título respectivo en el Diario Oficial de la Federación.
 
-El Consejo de Recursos Minerales, antes del término de la vigencia de cada asignación, deberá rendir a la Secretaría un informe escrito sobre los resultados obtenidos con motivo de los trabajos llevados a cabo para que ésta proceda a declarar:
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+El Servicio Geológico Mexicano, antes del término de la vigencia de cada asignación, deberá rendir a la Secretaría un informe escrito sobre los resultados obtenidos con motivo de los trabajos llevados a cabo para que ésta proceda a declarar:
 
 I.- La cancelación de la asignación y la consiguiente libertad del terreno;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-II.- La cancelación de la asignación y la celebración del o de los concursos para continuar los trabajos de exploración en la totalidad o parte del terreno, así como la libertad del terreno que en su caso se abandone, o
+II.- La cancelación de la asignación y la celebración de uno o más concursos para el otorgamiento de concesiones mineras sobre la totalidad o parte del terreno, así como la libertad del terreno que en su caso se abandone, o
 
 III.- La cancelación de la asignación y la incorporación a reservas mineras de la totalidad o parte del terreno amparado, al igual que la libertad del que en su caso se abandone.
 
@@ -313,7 +443,9 @@ Cuando cambien los supuestos que motivaron la incorporación de una zona a reser
 
 I.- Declarar la libertad del terreno amparado, o
 
-II.- Convocar a concurso para el otorgamiento de una o más concesiones de exploración y declarar la libertad del terreno que en su caso se abandone.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+II.- Convocar a concurso para el otorgamiento de una o más concesiones mineras y declarar la libertad del terreno que en su caso se abandone.
 
 De no publicarse en el Diario Oficial de la Federación cualquiera de las resoluciones previstas por las fracciones anteriores dentro de los 90 días naturales siguientes a la fecha de publicación del decreto de desincorporación, el terreno amparado por la referida zona se considerará libre al día siguiente del vencimiento del plazo señalado.
 
@@ -325,41 +457,55 @@ La Secretaría dictará resolución con base en la contestación del interesado 
 
 ### CAPITULO TERCERO. De los Derechos que Confieren las Concesiones y Asignaciones Mineras
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 19.
 
-Las concesiones de exploración y de explotación confieren derecho a:
+Las concesiones mineras confieren derecho a:
 
-I.- Realizar respectivamente obras y trabajos de exploración o de explotación dentro de los lotes mineros que amparen;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+I.- Realizar obras y trabajos de exploración y de explotación dentro de los lotes mineros que amparen;
 
 II.- Disponer de los productos minerales que se obtengan en dichos lotes con motivo de las obras y trabajos que se desarrollen durante su vigencia;
 
 III.- Disponer de los terreros que se encuentren dentro de la superficie que amparen, a menos que provengan de otra concesión minera vigente;
 
-IV.- Obtener la expropiación, ocupación temporal o constitución de servidumbre de los terrenos indispensables para llevar a cabo las obras y trabajos de exploración, explotación y beneficio, así como para el depósito de terreros, jales, escorias y graseros;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-V.- Aprovechar las aguas provenientes de las minas para la exploración o explotación de éstas, el beneficio de los minerales o sustancias que se obtengan y el uso doméstico del personal empleado en las mismas;
+IV.- Obtener la expropiación, ocupación temporal o constitución de servidumbre de los terrenos indispensables para llevar a cabo las obras y trabajos de exploración, explotación y beneficio, así como para el depósito de terreros, jales, escorias y graseros, al igual que constituir servidumbres subterráneas de paso a través de lotes mineros;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+V.- Aprovechar las aguas provenientes del laboreo de las minas para la exploración o explotación y beneficio de los minerales o sustancias que se obtengan y el uso doméstico del personal empleado en las mismas;
 
 VI.- Obtener preferentemente concesión sobre las aguas de las minas para cualquier uso diferente a los señalados en la fracción anterior, en los términos de la ley de la materia;
 
-VII.- Transmitir su titularidad o los derechos establecidos por las fracciones I a VI anteriores a personas legalmente capacitadas para obtenerlas, excepto cuando se trate de concesiones mineras otorgadas sobre el terreno comprendido por las zonas marinas mexicanas, los zócalos submarinos de islas, cayos y arrecifes, el lecho marino y el subsuelo de la zona económica exclusiva;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VII.- Transmitir su titularidad o los derechos establecidos por las fracciones I a VI anteriores a personas legalmente capacitadas para obtenerlas;
 
 VIII.- Reducir, dividir e identificar la superficie de los lotes que amparen, o unificarla con la de otras concesiones colindantes;
 
 IX.- Desistirse de las mismas y de los derechos que de ellas deriven;
 
-X.- Agrupar dos o más de ellas para efectos de comprobar obras y trabajos de exploración o de explotación y de rendir informes estadísticos, técnicos y contables;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+X.- Agrupar dos o más de ellas para efectos de comprobar obras y trabajos previstos por esta Ley y de rendir informes estadísticos y técnicos;
 
 XI.- Solicitar correcciones administrativas o duplicados de sus títulos, y
 
-XII.- Sustituir las concesiones de exploración por una o más concesiones de explotación y obtener prórroga de estas últimas por igual término de vigencia, de acuerdo con lo previsto por el artículo 15 de esta Ley.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+XII.- Obtener la prórroga de las concesiones mineras por igual término de vigencia, de acuerdo con lo previsto por el artículo 15 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 20.
 
-Las obras y trabajos de exploración y de explotación en terrenos amparados por asignaciones petroleras sólo podrán ejecutarse con autorización de la Secretaría, la que solicitará opinión a la Secretaría de Energía para fijar las condiciones técnicas a que deban sujetarse los mismos.
+Las obras y trabajos de exploración y explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones petroleras sólo podrán ejecutarse con autorización de la Secretaría, la que solicitará opinión a la Secretaría de Energía para fijar las condiciones técnicas a que deben sujetarse los mismos.
 
-Las obras y trabajos de exploración y de explotación dentro de poblaciones, presas, canales, vías generales de comunicación y otras obras públicas, al igual que dentro de la zona federal marítimo-terrestre y las áreas naturales protegidas, únicamente podrán realizarse con autorización de la autoridad que tenga a su cargo los referidos bienes, zona o áreas, en los términos que señalen las disposiciones aplicables.
+Las obras y trabajos de exploración y de explotación que se realicen dentro de poblaciones, presas, canales, vías generales de comunicación y otras obras públicas, en los zócalos submarinos de islas, cayos y arrecifes, el lecho marino y el subsuelo de la zona económica exclusiva, en las áreas naturales protegidas, así como las que se efectúen dentro de la zona federal marítimo terrestre, únicamente podrán realizarse con autorización, permiso, o concesión según el caso, de las autoridades que tengan a su cargo los referidos bienes, zócalos, lecho marino, subsuelo, las áreas o las zonas citadas, en los términos que señalen las disposiciones aplicables.
 
 ###### ARTICULO 21.
 
@@ -369,9 +515,11 @@ Tratándose de expropiaciones, cuando proceda, la Secretaría someterá a la con
 
 Las expropiaciones de bienes ejidales y comunales se sujetarán a lo dispuesto por la legislación agraria.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 22.
 
-Las solicitudes de reducción, división, identificación o unificación de superficies procederán cuando el nuevo lote o lotes estén comprendidos dentro de la superficie amparada por la concesión o concesiones de que deriven, sus titulares no hayan incurrido en las causales de cancelación establecidas en esta Ley y no se afecten derechos de tercero inscritos en el Registro Público de Minería.
+Las solicitudes de reducción, división, identificación o unificación de superficies procederán cuando el nuevo lote o lotes estén comprendidos dentro de la superficie amparada por la concesión o concesiones de que deriven y no se afecten derechos de terceros inscritos en el Registro Público de Minería.
 
 Declarada procedente la solicitud, la Secretaría expedirá el o los nuevos títulos que correspondan en sustitución del o de los que deriven, con iguales derechos y obligaciones. En los casos de unificación, los títulos se expedirán por la vigencia restante del más antiguo.
 
@@ -413,19 +561,25 @@ Las asignaciones serán intransmisibles y no podrán ser objeto de gravamen algu
 
 y el Beneficio de Minerales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 27.
 
-Los titulares de concesiones de exploración y de explotación, independientemente de la fecha de su otorgamiento, están obligados a:
+Los titulares de concesiones mineras, independientemente de la fecha de su otorgamiento, están obligados a:
 
-I.- Ejecutar y comprobar respectivamente las obras y trabajos de exploración o de explotación en los términos y condiciones que establecen esta Ley y su Reglamento;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+I.- Ejecutar y comprobar las obras y trabajos previstos por esta Ley en los términos y condiciones que establecen la misma y su Reglamento;
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 II.- Pagar los derechos sobre minería que establece la ley de la materia;
 
-III.- Dar aviso de inmediato a la Secretaría de los minerales radiactivos que descubran en el desarrollo de las obras y trabajos de exploración, explotación o beneficio;
+III.- (DEROGADA, D.O.F. 28 DE ABRIL DE 2005)
 
-IV.- Sujetarse a las disposiciones generales y a las normas técnicas específicas aplicables a la industria minerometalúrgica en materia de seguridad en las minas y de equilibrio ecológico y protección al ambiente;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+IV.- Sujetarse a las disposiciones generales y a las normas oficiales mexicanas aplicables a la industria minero-metalúrgica en materia de seguridad en las minas y de equilibrio ecológico y protección al ambiente;
 
 V.- No retirar las obras permanentes de fortificación, los ademes y demás instalaciones necesarias para la estabilidad y seguridad de las minas;
 
@@ -435,17 +589,29 @@ VII.- Rendir a la Secretaría los informes estadísticos, técnicos y contables 
 
 VIII.- Permitir al personal comisionado por la Secretaría la práctica de visitas de inspección.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-Los titulares de concesiones de exploración otorgadas mediante concurso o de aquéllas que las sustituyan estarán obligados a cubrir, adicionalmente, la prima por descubrimiento y la contraprestación económica ofrecidas.
+IX.- Rendir a la Secretaría un informe geológico-minero cuando la concesión minera correspondiente se cancele por terminación de su vigencia, desistimiento, sustitución por reducción, infracción o resolución judicial. El informe describirá los trabajos de exploración y explotación realizados en el lote minero, o en la superficie que se abandona, de acuerdo a lo establecido en el Reglamento de esta Ley.
+
+La Secretaría entregará al Servicio Geológico Mexicano dicho informe para que sea incorporado en el sistema público de información del propio Servicio.
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+X.- Rendir al Servicio Geológico Mexicano, en el caso de concesiones otorgadas mediante concurso, un informe semestral en los meses de enero y julio de cada año, de los trabajos realizados y de la producción obtenida en el lote amparado por la concesión minera, para efectos de control del pago de la prima por descubrimiento o cualquier otra contraprestación económica contemplada a favor de dicho organismo.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+Los titulares de concesiones mineras otorgadas mediante concurso o de aquellas que las sustituyan estarán obligados a cubrir, adicionalmente, la prima por descubrimiento y la contraprestación económica ofrecidas.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 Cuando se transmitan los derechos derivados de una concesión, las obligaciones a las que se hace mención en este artículo estarán a cargo del adquirente, sin perjuicio de lo dispuesto en el párrafo tercero del artículo 23 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 28.
 
-La ejecución de las obras y trabajos de exploración se comprobará por medio de la realización de inversiones en el lote que ampare la concesión minera y la relativa a obras y trabajos de explotación de igual forma o mediante la obtención de minerales económicamente aprovechables. El Reglamento de la presente Ley fijará los montos mínimos de la inversión por realizar o del valor de los productos minerales por obtener.
+La ejecución de obras y trabajos se comprobará por medio de la realización de inversiones en el lote que ampare la concesión minera o mediante la obtención de minerales económicamente aprovechables. El Reglamento de la presente Ley fijará los montos mínimos de la inversión por realizar y del valor de los productos minerales por obtener.
 
 La obligación de ejecutar las referidas obras y trabajos iniciará 90 días naturales después de la fecha de inscripción de la concesión en el Registro Público de Minería.
 
@@ -485,17 +651,21 @@ XIV.- Adquisición, arrendamiento y mantenimiento de equipo para minado, acarreo
 
 XV.- Adquisición, arrendamiento, instalación y mantenimiento de equipo para operaciones de beneficio y presas de jales.
 
-Tratándose de concesiones de exploración, la comprobación solamente se aceptará en los rubros a que aluden las fracciones I a XIII anteriores.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 Las inversiones se aplicarán de acuerdo con los criterios que fije el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 30.
 
-La comprobación de obras y trabajos de explotación por medio de la obtención de minerales económicamente aprovechables se hará con base en el valor de facturación o liquidación de los mismos.
+La comprobación de las obras y trabajos previstos por esta Ley por medio de la obtención de minerales económicamente aprovechables se hará con base en el valor de facturación o liquidación de los mismos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 31.
 
-Se tendrá por suspendida temporalmente la obligación de ejecutar las obras y trabajos de exploración y de explotación cuando se acredite a la Secretaría, al efectuarse la comprobación anual, que fue imposible la realización de éstos por causas técnicas, económicas, laborales, judiciales o de fuerza mayor.
+Se tendrá por suspendida temporalmente la obligación de ejecutar las obras y trabajos previstos por esta Ley cuando se acredite a la Secretaría, al efectuarse la comprobación anual, que fue imposible la realización de éstos por causas técnicas, económicas, laborales, judiciales o de fuerza mayor.
 
 La suspensión temporal por causas técnicas y económicas podrá acreditarse por una sola vez hasta un máximo de tres años consecutivos, dentro de un período de diez años.
 
@@ -513,11 +683,11 @@ La Secretaría dispondrá de veinte días naturales para desaprobar el desistimi
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 34.
 
-Los titulares de concesiones de explotación o quienes lleven a cabo estos trabajos mediante contrato, deberán designar como responsable del cumplimiento de las normas de seguridad en las minas a un ingeniero legalmente autorizado para ejercer.
+Los titulares de concesiones mineras o quienes lleven a cabo obras y trabajos mediante contrato, deberán designar como responsable del cumplimiento de las normas de seguridad en las minas a un ingeniero legalmente autorizado para ejercer, siempre y cuando las obras y trabajos involucren a más de nueve trabajadores en el caso de las minas de carbón y más de cuarenta y nueve trabajadores en los demás casos.
 
 El responsable deberá dedicarse fundamentalmente a verificar el cumplimiento de dichas normas, cerciorarse de que se tomen las medidas necesarias para prevenir accidentes y notificar de inmediato aquéllas que no se hayan adoptado, al titular de la concesión de explotación o a quien lleve a cabo estos trabajos.
 
@@ -525,9 +695,15 @@ El responsable deberá dedicarse fundamentalmente a verificar el cumplimiento de
 
 (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+ARTICULO 35 BIS.- El informe a que se refiere el artículo 27, fracción IX de esta Ley, describirá los trabajos de exploración y explotación realizados en el lote minero o en la superficie que se abandone, conforme a lo que establezca el Reglamento de la presente Ley, y deberá ser presentado junto con la solicitud de desistimiento o reducción, o dentro de los sesenta días naturales siguientes a la terminación de la vigencia de la concesión minera o a la notificación de su cancelación por infracción o resolución judicial. La Secretaría entregará al Servicio Geológico Mexicano dicho informe en un término de sesenta días naturales a partir de que lo reciba para que éste lo incorpore en su sistema público de información dentro de los sesenta días naturales de que a su vez lo reciba.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 36.
 
-El Consejo de Recursos Minerales, como titular de asignaciones mineras e independientemente de la fecha de expedición de éstas, estará obligado a rendir a la Secretaría un informe escrito de carácter público sobre los resultados obtenidos con motivo de las obras y trabajos llevados a cabo, así como a dar cumplimiento a las obligaciones que señalan los artículos 27, fracciones II, en lo conducente, IV, V, VI y VIII, y 33 de esta Ley.
+El Servicio Geológico Mexicano, como titular de asignaciones mineras, e independientemente de la fecha de expedición de éstas, estará obligado a rendir a la Secretaría un informe escrito anual de carácter público sobre los resultados obtenidos con motivo de las obras y trabajos llevados a cabo, así como dar cumplimiento a las obligaciones que señalan los artículos 27, fracciones II, en lo conducente, IV, V, VI y VIII de esta Ley.
 
 ###### ARTICULO 37.
 
@@ -535,11 +711,13 @@ Las personas que beneficien minerales o sustancias sujetos a la aplicación de l
 
 I.- Dar aviso a la Secretaría del inicio de operaciones de beneficio;
 
-II.- Sujetarse a las disposiciones generales y a las normas técnicas específicas aplicables a la industria minerometalúrgica en materia de equilibrio ecológico y protección al ambiente;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+II.- Sujetarse a las disposiciones generales y a las normas oficiales mexicanas aplicables a la industria minero-metalúrgica en materia de seguridad y del equilibrio ecológico y protección al ambiente;
 
 III.- Rendir a la Secretaría los informes estadísticos, técnicos y contables en los términos y condiciones que señale el Reglamento de esta Ley;
 
-IV.- Dar aviso de inmediato a la Secretaría de los minerales radiactivos que descubran en el curso de sus operaciones;
+IV.- (DEROGADA, D.O.F. 28 DE ABRIL DE 2005)
 
 V.- Procesar el mineral de pequeños y medianos mineros y del sector social en condiciones competitivas hasta por un mínimo del 15 % de la capacidad de beneficio instalada, cuando ésta sea superior a cien toneladas en veinticuatro horas, y
 
@@ -575,15 +753,13 @@ III.- El lote minero objeto de la concesión o asignación abarque total o parci
 
 Si el lote minero objeto de la concesión o asignación comprende parcialmente terreno no libre únicamente será nula por dicha porción, en cuyo caso la Secretaría expedirá un nuevo título en sustitución del que derive por la superficie que legalmente ampare, con iguales derechos y obligaciones.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 41.
 
-Serán nulas las transmisiones de la titularidad de concesiones mineras o de los derechos que de ellas deriven cuando:
+Serán nulas las trasmisiones de la titularidad de concesiones mineras o de los derechos que de ellas deriven cuando se pacten a favor de persona no capacitada legalmente para obtenerlas.
 
-I.- Se pacten en favor de persona no capacitada legalmente para obtenerlas, o
-
-II.- Se efectúen con respecto a concesiones mineras otorgadas sobre el terreno comprendido por las zonas marinas mexicanas, los zócalos submarinos de islas, cayos y arrecifes, el lecho marino y el subsuelo de la zona económica exclusiva.
-
-No procederá la nulidad en el caso previsto por la fracción I anterior cuando se trate de adjudicación en pago de créditos o por herencia y los derechos correspondientes se transmitan a persona legalmente capacitada dentro de los 365 días naturales siguientes a la fecha de su adjudicación.
+No procederá la nulidad cuando se trate de adjudicación en pago de créditos o por herencia y los derechos correspondientes se trasmitan a persona legalmente capacitada dentro de los 365 días naturales siguientes a la fecha de su adjudicación.
 
 ###### ARTICULO 42.
 
@@ -593,15 +769,19 @@ I.- Terminación de su vigencia;
 
 II.- Desistimiento debidamente formulado por su titular;
 
-III.- Sustitución con motivo de la expedición de concesiones de explotación o la reducción, división, identificación o unificación de la superficie que amparen las concesiones;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+III.- Sustitución con motivo de la expedición de nuevos títulos derivados de la reducción, división, identificación o unificación de superficie amparada por concesiones mineras;
 
 IV.- Comisión de alguna de las infracciones señaladas en el artículo 55 de esta Ley, o
 
 V.- Resolución judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 43.
 
-El derecho para realizar las obras y trabajos de exploración o explotación se suspenderá cuando éstos:
+El derecho para realizar las obras y trabajos previstos por esta Ley se suspenderá cuando éstos:
 
 I.- Pongan en peligro la vida o integridad física de los trabajadores o de los miembros de la comunidad, o
 
@@ -639,7 +819,9 @@ Las nulidades, las cancelaciones a que alude el artículo 42, fracción IV, las 
 
 La Secretaría llevará el Registro Público de Minería en el que deberán inscribirse los actos y contratos que a continuación se mencionan:
 
-I.- Los títulos de concesión de exploración y de explotación, las prórrogas de estas últimas y las declaratorias de su nulidad o cancelación;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+I.- Los títulos de concesión minera, sus prórrogas y las declaratorias de su nulidad o cancelación;
 
 II.- Los títulos de asignación minera y las declaratorias de nulidad o cancelación de las mismas;
 
@@ -649,9 +831,13 @@ IV.- Las resoluciones de ocupación temporal y constitución de servidumbre, al 
 
 V.- Las resoluciones expedidas por autoridad judicial o administrativa que afecten concesiones mineras o los derechos que de ellas deriven;
 
-VI.- Los actos o contratos relativos a la transmisión de la titularidad de concesiones o de los derechos que de ellas deriven, los de promesa para celebrarlos, los gravámenes que se constituyan en relación con las mismas, así como los convenios que los afecten;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-VII.- Las sociedades titulares de concesiones mineras, al igual que su disolución, liquidación y las modificaciones a los estatutos de dichas sociedades que determine el Reglamento de la misma;
+VI.- Los actos o contratos relativos a la transmisión de la titularidad de concesiones o de los derechos que de ellas deriven, los de promesa para celebrarlos, los gravámenes u obligaciones contractuales que se constituyan en relación con las mismas, así como los convenios que los afecten;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VII.- Las sociedades a que se refiere el artículo 11 de esta Ley, al igual que su disolución, liquidación y las modificaciones a los estatutos de dichas sociedades que determine el Reglamento de la misma;
 
 VIII.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
@@ -691,7 +877,7 @@ Las reclamaciones por negativa, rectificación, modificación o cancelación de 
 
 La Secretaría llevará la Cartografía Minera para constatar el carácter libre de los lotes que sean objeto de solicitudes de concesión y asignación mineras. En dicha Cartografía se representarán gráficamente la ubicación y el perímetro de los lotes amparados por concesiones, asignaciones y reservas mineras vigentes, al igual que por solicitudes de concesión y asignación mineras en trámite.
 
-Los datos consignados en la Cartografía Minera no crearán derechos. En caso de discrepar con los que obren en el Registro Público de Minería, prevalecerán estos últimos.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 Toda persona podrá examinar la Cartografía Minera y solicitar a su costa planos de la misma.
 
@@ -725,25 +911,33 @@ Se sancionará con la cancelación de la concesión minera cualquiera de las inf
 
 I.- Efectuar al amparo de la misma la explotación de minerales o sustancias no sujetos a la aplicación de la presente Ley;
 
-II.- No ejecutar y comprobar las obras y trabajos de exploración o de explotación en los términos y condiciones que señalan esta Ley y su Reglamento;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+II.- No ejecutar y comprobar las obras y trabajos previstos por esta Ley en los términos y condiciones que señalan la misma y su Reglamento;
 
 III.- Dejar de cubrir los derechos sobre minería;
 
-IV.- Disponer de los minerales radiactivos que se descubran en el desarrollo de las obras y trabajos de exploración, explotación o beneficio;
+IV.- (DEROGADA, D.O.F. 28 DE ABRIL DE 2005)
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-V.- No cumplir con los pagos por concepto de la prima por descubrimiento o de la contraprestación económica que, en su caso, corresponda cubrir;
+V.- No cumplir con los pagos por concepto de la prima por descubrimiento o de la contraprestación económica que en su caso corresponda cubrir, así como no rendir al Servicio Geológico Mexicano los informes semestrales a que se refiere el artículo 27, fracción X, de esta Ley;
 
-VI.- No sujetar las obras y trabajos de exploración o de explotación en terrenos amparados por asignaciones petroleras a las condiciones técnicas que fije la Secretaría;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-VII.- Realizar las obras y trabajos de exploración o de explotación sin las autorizaciones que señala el artículo 20 de la presente Ley;
+VI.- No sujetar las obras y trabajos de exploración o de explotación de carbón en todas sus variedades en terrenos amparados por asignaciones petroleras a las condiciones técnicas que fije la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+VII.- Realizar las obras y trabajos previstos por esta Ley sin las autorizaciones que señala el artículo 20 de la presente Ley;
 
 VIII.- Agrupar concesiones que amparen lotes mineros no colindantes para efectos de comprobación que no constituyan una unidad minera o minerometalúrgica desde el punto de vista técnico y administrativo, o
 
 IX.- Perder la capacidad para ser titular de concesiones.
 
-No procederá la cancelación en el caso de la fracción anterior, cuando la sociedad titular de la concesión pierda su capacidad por no ajustarse a las disposiciones que regulan la participación de inversionistas extranjeros y no se subsane tal circunstancia dentro de los 365 días naturales siguientes a la fecha en que la misma ocurra. De no darse este último supuesto, la Secretaría promoverá judicialmente el remate de la porción del capital social que no se ajuste y el producto del mismo será entregado al Consejo de Recursos Minerales.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+No procederá la cancelación en el caso de la fracción anterior, cuando la sociedad titular de la concesión pierda su capacidad por no ajustarse a las disposiciones que regulan la participación de inversionistas extranjeros y no se subsane tal circunstancia dentro de los 365 días naturales siguientes a la fecha en que la misma ocurra. De no darse este último supuesto, la Secretaría promoverá judicialmente el remate de la porción del capital social que no se ajuste y el producto del mismo será entregado al Servicio Geológico Mexicano.
 
 Se sancionará con la cancelación de la asignación minera que corresponda cualquiera de las infracciones previstas por las fracciones II, III, VI o VII anteriores, en lo conducente.
 
@@ -751,7 +945,9 @@ Se sancionará con la cancelación de la asignación minera que corresponda cual
 
 No procederá la cancelación por infracción cuando, dentro de un plazo de 60 días naturales, contados a partir de la fecha en que se notifique al interesado el inicio del procedimiento correspondiente, se acredite en relación con las causas señaladas en la fracciones II, III, V y VII del artículo anterior, respectivamente:
 
-I.- La obtención de minerales o sustancias sujetos a la aplicación de esta Ley, por medio de facturas o liquidaciones de beneficio que correspondan al período por comprobar, así como el pago de la multa que determina el artículo 57, fracción XI, de la misma;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+I.- La presentación del o de los informes omitidos de comprobación a que se refiere el artículo 28 de esta Ley, así como el pago de la multa que determina el artículo 57, fracción XI de la misma;
 
 II.- El pago de los derechos sobre minería omitidos y demás accesorios originados por el incumplimiento, de acuerdo con las disposiciones fiscales aplicables;
 
@@ -787,31 +983,37 @@ IX.- Negarse a beneficiar el mineral de pequeños y medianos mineros y del secto
 
 X.- Modificar la ubicación o dañar a la mojonera o señal que sirva para identificar al punto de partida de un lote minero;
 
-XI.- Comprobar extemporáneamente la ejecución oportuna de obras y trabajos de explotación por medio de la obtención de minerales o sustancias, a fin de dejar sin efecto el procedimiento de cancelación de una concesión minera, y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+XI.- Comprobar extemporáneamente la ejecución en tiempo de las obras y trabajos previstos por esta Ley, a fin de dejar sin efecto el procedimiento de cancelación de una concesión minera, y
 
 XII.- No rendir oportuna y verazmente los informes estadísticos, técnicos y contables en los términos y condiciones que fije el Reglamento de la presente Ley.
 
-En el caso de la fracción I de este artículo, la multa podrá ser hasta por el doble del monto máximo arriba fijado, y procederá además la recuperación de los minerales y sustancias ilegalmente extraídos.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-De existir reincidencia se podrá imponer hasta dos tantos del importe de la multa y, en tratándose de la infracción a que se refiere la fracción I, hasta dos tantos del valor comercial de los minerales y sustancias ilegalmente extraídos y la recuperación de los mismos.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+De existir reincidencia se podrá imponer hasta dos tantos del importe de la multa y cuando se trate de la infracción a que se refiere la fracción I hasta cien tantos del importe de dicha multa.
 
 Para la imposición de la multa, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios que haya causado, al igual que los antecedentes, circunstancias personales y capacidad económica del infractor.
 
 La aplicación de las multas establecidas en el presente artículo será sin perjuicio de la responsabilidad penal que pudiere resultar.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
+ARTICULO 57 BIS.- Corresponde al titular de la concesión minera, al causahabiente de éste o al titular de la asignación minera, reclamar ante la autoridad judicial competente la extracción ilegal y la recuperación de los minerales o sustancias concesibles comprendidas dentro del lote minero amparado por la concesión o asignación minera.
+
+Corresponde a la Secretaría reclamar ante las autoridades judiciales competentes la extracción ilegal y la recuperación de los minerales o sustancias concesibles, únicamente cuando se realice en terrenos libres, zonas de reservas mineras, áreas correspondientes a concesiones otorgadas mediante concurso y que posteriormente hayan sido canceladas, y lotes respecto de las cuales se hayan declarado desiertos los concursos respectivos.
+
 ###### ARTICULO 58.
 
 La facultad de la Secretaría para verificar el cumplimiento de los deberes y obligaciones que impone esta Ley, así como para sancionar su inobservancia, se extinguirá en un plazo de cinco años contados a partir de la fecha del incumplimiento o, si éste es de carácter continuo, a partir del día en que cese. La relativa al pago de los derechos sobre minería prescribirá de acuerdo con lo previsto por las disposiciones de la materia.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 59.
 
-Las resoluciones que dicte la Secretaría con motivo de la aplicación de la presente Ley y su Reglamento, excepto aquéllas que declaren la nulidad o cancelación de concesiones y asignaciones mineras o la suspensión e insubsistencia de los derechos que de ellas deriven, podrán ser recurridas para su revisión, conforme al procedimiento que establezca el Reglamento de la misma.
-
-El recurso tiene por objeto revocar, modificar o confirmar la resolución reclamada y los fallos que se dicten contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución. El Reglamento de la presente Ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
-
-La interposición del recurso se hará por escrito dirigido al titular de la Secretaría, en el que se deberán expresar el nombre y domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
-
-Si se recurre la imposición de una multa, se suspenderá el cobro de ésta hasta que sea resuelto el recurso, siempre y cuando se garantice su pago en los términos previstos por las disposiciones fiscales.
+Las resoluciones que dicte la Secretaría con motivo de la aplicación de la presente Ley y su Reglamento, podrán ser recurridas conforme a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 
@@ -872,3 +1074,27 @@ D.O.F. 24 DE DICIEMBRE DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+
+D.O.F. 28 DE ABRIL DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo señalado en el artículo segundo transitorio siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma prevista en los artículos 10, 13, 14, 15, 16, 17, 19, 27, 28, 29, 30, 31, 34, 42, 43, 46, 55, 56 y 57 en lo concerniente a la existencia de una sola concesión minera que confiera derechos para la realización de obras y trabajos de exploración y explotación indistintamente, entrarán en vigor cuando inicie la vigencia de las reformas a la Ley Federal de Derechos relativas a los derechos sobre minería que se adecuen al régimen de concesión minera previsto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto. El Ejecutivo Federal deberá adecuar el Reglamento de la presente Ley al contenido del presente decreto a más tardar dentro de los seis meses siguientes a las respectivas entradas en vigor mencionadas en los artículos primero y segundo transitorios anteriores; en tanto no se hagan las adecuaciones correspondientes, continuará en vigor en todo lo que no se oponga a la presente Ley y sus reformas el Reglamento del 10 de febrero de 1999.
+
+###### ARTÍCULO CUARTO.
+
+Las concesiones de exploración y las concesiones de explotación vigentes en la fecha en que entren en vigor las reformas a los artículos 10, 13, 14, 15, 16, 17, 19, 27, 28, 29, 30, 31, 34, 42, 43, 46, 55, 56 y 57 se sujetarán a las disposiciones del presente decreto sin necesidad de trámite alguno, y tendrán vigencia de cincuenta años contados a partir de que la concesión de exploración o de explotación fue inscrita en el Registro Público de Minería.
+
+Las solicitudes de concesión de exploración en trámite se considerarán solicitudes de concesión minera en términos del presente decreto, las solicitudes de concesión de explotación en trámite por una superficie diferente a la de la concesión de exploración de que deriven se continuarán hasta su terminación, y las solicitudes de concesión de explotación en trámite por una superficie igual a la de la concesión de exploración de la que deriven se desecharán sin mayor trámite en virtud de lo dispuesto en el párrafo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Las obligaciones a que se refiere el segundo párrafo del artículo noveno transitorio de la Ley Minera publicada en el Diario Oficial de la Federación del 26 de junio de 1992 continuarán en vigor.
