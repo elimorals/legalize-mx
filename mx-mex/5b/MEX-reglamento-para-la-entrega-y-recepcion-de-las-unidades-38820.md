@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-entrega-y-recepcion-de-las-unidades-38820"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-26"
-last_updated: "2004-03-26"
+last_updated: "2005-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA LA ENTREGA Y RECEPCION DE LAS UNIDADES ADMINISTRATIVAS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2005.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 26 de marzo de 2004.
 
@@ -59,9 +59,11 @@ VI. Secretaría, a la Secretaría de Finanzas, Planeación y Administración, y
 
 VII. Contraloría, a la Secretaría de la Contraloría.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE ABRIL DE 2005)</small>
+
 ###### Artículo 3.
 
-El proceso de entrega y recepción se realizará cuando un servidor público se separe de manera definitiva o por ausencias mayores a treinta días hábiles, de su empleo, cargo o comisión, por cualquier motivo, incluyendo cuando se presente la conclusión de un encargo a un mandato constitucional.
+El proceso de entrega y recepción se realizará cuando un servidor público se separe de manera definitiva de su empleo, cargo o comisión, por cualquier motivo, incluyendo cuando se presente la conclusión de un encargo o un mandato constitucional.
 
 Igualmente deberá llevarse a cabo este proceso en los casos derivados de los procesos de reestructuración administrativa, escisión, extinción, liquidación o fusión, que impliquen la transferencia total o parcial de unidades administrativas o funciones, independientemente de que haya continuidad de servidores públicos.
 
@@ -121,9 +123,17 @@ Independientemente, el servidor público que recibe la unidad administrativa cor
 
 Cuando el servidor público que entregue la unidad administrativa se niegue a firmar el acta dentro del plazo para el efecto fijado, a quien le corresponde recibir levantará acta circunstanciada al día hábil siguiente, con la asistencia de dos testigos y con la participación de un representante del órgano de control interno o de la Contraloría, en la que se hará constar la negativa a firmar el acta de entrega y recepción.
 
+> <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2005)</small>
+
+En los casos en los que el servidor público que entregue se abstenga de intervenir en la suscripción del acta, bajo cualquier circunstancia, se procederá en los términos señalados en el párrafo anterior.
+
 ###### Artículo 13.
 
 Cuando el servidor público que reciba la unidad administrativa se niegue a firmar el acta dentro del plazo para el efecto fijado, al servidor público que le corresponde entregar deberá denunciar, al día hábil siguiente, ante la Contraloría la negativa de firmar el acta de entrega y recepción.
+
+> <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2005)</small>
+
+En los casos en los que el servidor público que recibe se abstenga de intervenir en la suscripción del acta, bajo cualquier circunstancia, se procederá en los términos señalados en el párrafo anterior.
 
 ###### Artículo 14.
 
@@ -197,17 +207,21 @@ Las unidades administrativas deberán requisitar los formatos correspondientes e
 
 Cuando se deban llevar a cabo los procesos de entrega y recepción de unidades administrativas con motivo de la conclusión del Mandato Constitucional o del término del encargo del titular del Ejecutivo del Estado, se estará a lo dispuesto por este capítulo.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2005)</small>
+
 ###### Artículo 19.
 
-Cada titular de dependencia y de organismo auxiliar, deberá levar a cabo los trabajos para preparar el proceso de entrega y recepción de su respectiva dependencia u organismo auxiliar, en los términos de los capítulos anteriores.
+Los titulares de las dependencia (sic) y de los organismos auxiliares, así como los de las unidades administrativas que integran la Gubernatura son los directamente responsables de hacer la entrega correspondiente de la dependencia, organismo auxiliar o unidad administrativa que haya tenido bajo su responsabilidad, por lo que son quienes responden de la información y contenido de las entregas de esas unidades administrativas.
+
+Dichas entregas y sus consecuentes recepciones, se deberán llevar a cabo en los términos de los capítulos que anteceden.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2005)</small>
 
 ### CAPÍTULO V. Responsabilidades y Sanciones
 
 ###### Artículo 20.
 
-El titular del Ejecutivo del Estado llevará a cabo el proceso de entrega y recepción de las unidades administrativas que integran la gubernatura, en los términos de este Reglamento.
-
-Además, compilará los trabajos de los titulares de las dependencias y de los organismos auxiliares de la Administración Pública Estatal, que se realicen en términos del artículo anterior, y los pondrá a disposición de quien lo releve como titular del Ejecutivo del Estado.
+El titular del Ejecutivo del Estado llevará a cabo el proceso de entrega y recepción de su oficina.
 
 ###### Artículo 21.
 
@@ -216,6 +230,14 @@ La Contraloría y sus órganos de control interno vigilarán el cumplimiento del
 ###### Artículo 22.
 
 El proceso de entrega y recepción no releva de la responsabilidad en que pudieron haber incurrido los servidores públicos salientes durante el ejercicio de sus cargos o comisiones.
+
+> <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2005)</small>
+
+###### Artículo 23.
+
+La Secretaría de la Contraloría y los titulares de los órganos de control interno en la Administración Pública del Estado de México podrán, cuando lo estimen conveniente, supervisar los avances de los procesos de entrega y recepción de acuerdo con sus atribuciones y participar en el levantamiento de las actas de entrega y recepción conforme al presente Reglamento.
+
+Sin embargo, para evitar comprometer sus atribuciones de control y evaluación, se abstendrán de participar en los demás trabajos para dicha entrega y recepción que lleven a cabo los sujetos obligados a dichos procesos.
 
 T R A N S I T O R I O S
 
@@ -240,3 +262,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 28 DE ABRIL DEL 2005.
+
+PRIMERO. Publíquese el este Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al presente.
