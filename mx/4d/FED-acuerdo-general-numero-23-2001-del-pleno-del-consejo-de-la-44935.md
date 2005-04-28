@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-04-08"
+last_updated: "2005-04-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -357,9 +357,9 @@ XIX.- DECIMONOVENO CIRCUITO:
 
 XX.- VIGESIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 66/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 17/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2005)</small>
 
-1.- Tres tribunales colegiados: dos con residencia en Tuxtla Gutiérrez y uno con sede en Tapachula.
+1.- Tres tribunales colegiados con residencia en Tuxtla Gutiérrez.
 
 2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
@@ -549,15 +549,9 @@ Por cuanto hace al tribunal unitario con sede en Matamoros, su jurisdicción ter
 
 En relación con el tribunal unitario con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
 
-> <small>(REFORMADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 66/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 17/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
-
-Respecto de los tribunales colegiados con sede en Tuxtla Gutiérrez, será igual a la establecida para los juzgados de distrito en la referida ciudad.
-
-En cuanto al tribunal colegiado con residencia en Tapachula, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en esa sede.
-
-La jurisdicción territorial de los tribunal es unitarios comprenderá al Estado de Chiapas.
 
 > <small>(REFORMADA POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 72/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
 
@@ -1428,3 +1422,11 @@ D.O.F. 8 DE ABRIL DE 2005.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE ABRIL DE 2005.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal que atiendan la situación laboral del personal adscrito al Tercer Tribunal Colegiado del Vigésimo Circuito que cambia de residencia.
