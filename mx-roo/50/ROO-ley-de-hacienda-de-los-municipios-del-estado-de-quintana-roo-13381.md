@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2004-12-20"
+last_updated: "2005-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -195,7 +195,7 @@ a).- En predios urbanos o rústicos que su valor no exceda de $ 10,000.00 2.3 S.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-b).- De 10,001.00 en adelante 13.8 al millar.
+b).- De 10,001.00 en adelante. 13.8 al millar.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -211,7 +211,7 @@ c).- Predios rústicos:
 
 4.- Predios rústicos que colinden con Zona Federal Marítima Terrestre 18.4 al millar
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P. O. 16 DE DICIEMBRE DE 2003)</small>
 
 5.- Predios rústicos clasificados como pequeña propiedad rural. 9.2 al millar.
 
@@ -253,7 +253,7 @@ c).- Predios rústicos:
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-5.- Predios rústicos clasificados como pequeña propiedad rural. 8 al millar.
+5.- Predios rústicos clasificados como pequeña propiedad rural 8 al millar.
 
 d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -291,7 +291,7 @@ c).- Predios rústicos:
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-4.- Predios rústicos clasificados como pequeña propiedad rural. 8 al millar
+4.- Predios rústicos clasificados como pequeña propiedad rural 8 al millar
 
 d).- Cuando alguno de estos predios con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -823,7 +823,7 @@ II.- Los poseedores de dichos predios en los casos siguientes:
 
 a).- Cuando no exista propietario.
 
-b).- Cuando la posesión del predio se derive del contrato de promesa de venta, de venta con reserva de dominio y promesa de venta por certificado de participación inmobiliaria, mientras éstos estén en vigor no se traslade el dominio del predio. Si se trata de las obras a que se refiere el Artículo 51, los derechos serán pagados por las empresas fraccionadoras.
+b).- Cuando la posesión del predio se derive del contrato de promesa de venta, de venta con reserva de dominio y promesa de venta por certificado de participación inmobiliaria, mientras éstos estén en vigor no se traslade el dominio del predio. Si se trata de las obras a que se refiere el Artículo 51, los derechos serán pagados por las empresas fraccionadoras;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1253,7 +1253,7 @@ Se entiende por este derecho la prestación de los servicios de vigilancia, admi
 
 ###### ARTICULO 80.
 
-Por los servicios de panteones que preste el municipio, se cobrarán los derechos que señala la siguiente:
+Por los servicios de panteones que preste el Municipio, se cobrarán los derechos que señala la siguiente:
 
 TARIFA
 
@@ -2003,7 +2003,7 @@ Por la expedición de licencias, permisos o autorizaciones que otorguen las auto
 
 TARIFA
 
-(VEASE ANEXO)
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 108.
 
@@ -2625,6 +2625,10 @@ SEGUNDO.- Esta Ley entrará en vigor a partir del 1° de enero del año 2005, pr
 
 TERCERO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
+P.O. 28 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor, el día de su publicación el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
 ###### ARTÍCULO PRIMERO.
 
 Este decreto entrará en vigor a partir del día 1 de enero de 1998, previa publicación en el Periódico Oficial del Estado.
@@ -2632,6 +2636,12 @@ Este decreto entrará en vigor a partir del día 1 de enero de 1998, previa publ
 ###### ARTÍCULO SEGUNDO.
 
 Se abroga la Ley de Hacienda Municipal publicada en el Periódico Oficial el 1 de enero de mil novecientos ochenta y dos, así como las reformas subsecuentes a la propia Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2005)</small>
+
+###### ARTÍCULO TERCERO.
+
+Durante el ejercicio fiscal que transcurre, se faculta a los Ayuntamientos a conceder hasta el 15 de julio de 2005, un descuento hasta del 25% del total del importe del impuesto predial del ejercicio fiscal 2005.
 
 SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS NUEVE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
