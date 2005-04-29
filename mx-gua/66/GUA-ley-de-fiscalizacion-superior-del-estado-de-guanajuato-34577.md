@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-34577"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-11"
-last_updated: "2003-11-11"
+last_updated: "2005-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2005.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 11 de noviembre de 2003.
 
@@ -189,9 +189,11 @@ III.- Tratándose de la investigación de situaciones excepcionales, contados a 
 
 El plazo señalado en este artículo no está sujeto a interrupción o suspensión y operará de oficio o a petición de parte.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2005)</small>
+
 ###### Artículo 12.
 
-El Órgano de Fiscalización Superior podrá convenir con las contralorías, el establecimiento de reglas técnicas para la baja de documentos justificatorios y comprobatorios para efecto de destrucción, guarda o custodia de los que deban conservarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
+El Órgano de Fiscalización Superior podrá convenir con los sujetos de fiscalización, el establecimiento de reglas técnicas para la baja de documentos justificatorios y comprobatorios para efecto de destrucción, guarda o custodia de los que deban conservarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
 
 ###### Artículo 13.
 
@@ -207,9 +209,11 @@ El Órgano de Fiscalización Superior podrá requerir a los sujetos de fiscaliza
 
 La información y documentación que se proporcione estarán afectos exclusivamente al objeto de esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2005)</small>
+
 ###### Artículo 16.
 
-Las contralorías colaborarán con el Órgano de Fiscalización Superior, estableciendo a través de convenios, la coordinación que garantice el debido intercambio de información que al efecto se requiera.
+Los sujetos de fiscalización colaborarán con el Órgano de Fiscalización Superior, estableciendo a través de convenios, la coordinación que garantice el debido intercambio de información que al efecto se requiera.
 
 ###### Artículo 17.
 
@@ -393,6 +397,14 @@ El Auditor General deberá resolver el recurso de reconsideración en el términ
 
 El Auditor General presentará al Congreso del Estado los informes de resultados de la revisión de las cuentas públicas, de las auditorías practicadas a los sujetos de fiscalización y los que deriven de las investigaciones de las situaciones excepcionales, para que en su caso, realice la declaratoria o bien, lo sancione en los términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
+
+El Auditor General, cuando lo estime conveniente y pertinente, acordará que el informe de resultados acumule hasta dos cuentas públicas trimestrales de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Autónomos respectivamente. Tratándose de los municipios, en el informe de resultados podrán acumularse hasta seis cuentas públicas mensuales. En este supuesto, para los efectos de la fracción VI del artículo 9 de esta Ley, se tendrá como fecha de inicio del proceso de fiscalización para todos los efectos, la que corresponda a la primera cuenta pública, en su orden acumulada.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
+
+La acumulación, para efectos del informe de resultados, deberá comprender, en su caso, cuentas públicas consecutivas tomando en consideración el año calendario del ejercicio fiscal a que correspondan.
+
 ###### Artículo 42.
 
 En el supuesto de que el Órgano de Fiscalización Superior no presente el informe de resultados en los términos establecidos en esta Ley, se realizará una investigación y, en su caso, se procederá a fincar las responsabilidades conducentes en los términos de esta Ley y demás disposiciones aplicables.
@@ -428,6 +440,10 @@ VII.- Las observaciones y comentarios del Auditor General, derivados del proceso
 VIII.- El dictamen que establezca la cuantía de los daños y perjuicios a la hacienda pública o al patrimonio de los sujetos de fiscalización que se probaron durante el proceso, los hechos de los que derivan, los bienes, derechos, programas, objetivos, actos jurídicos o partidas afectadas, los probables ilícitos y la determinación en lo posible de los presuntos responsables; y
 
 IX.- El dictamen técnico jurídico que precise las acciones que deberán promoverse, los hechos en que se fundan, las autoridades que resultan competentes para conocer de dichas acciones y los presuntos responsables de los hechos.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
+
+En el supuesto de acumulación de las cuentas públicas, en los términos del artículo 41 de esta Ley, el informe de resultados podrá consolidar el contenido de la información prevista en las fracciones I y II de este artículo, cuando resulte procedente.
 
 ###### Artículo 44.
 
@@ -798,3 +814,9 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 GERARDO LUIS RODRÍGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 29 DE ABRIL DE 2005.
+
+Artículo Único.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
