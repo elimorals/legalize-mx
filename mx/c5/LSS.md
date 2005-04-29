@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2004-08-11"
+last_updated: "2005-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2005.
 
 Ley publicada en la primera sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -100,9 +100,17 @@ XV. Cuotas obrero patronales o cuotas: las aportaciones de seguridad social esta
 
 XVI. Cédulas o cédula de determinación: el medio magnético, digital, electrónico, óptico, magneto óptico o de cualquier otra naturaleza, o bien el documento impreso, en el que el patrón o sujeto obligado determina el importe de las cuotas a enterar al Instituto, el cual puede ser emitido y entregado por el propio Instituto;
 
-XVII. Cédulas o cédula de liquidación: el medio magnético, digital, electrónico o de cualquier otra naturaleza, o bien el documento impreso, mediante el cual el Instituto, en ejercicio de sus facultades como organismo fiscal autónomo, determina en cantidad líquida los créditos fiscales a su favor previstos en la Ley, y
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2005)</small>
 
-XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal. Para efectos de esta Ley, el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo, con excepción de los conceptos previstos en el artículo 27 de la Ley.
+XVII. Cédulas o cédula de liquidación: el medio magnético, digital, electrónico o de cualquier otra naturaleza, o bien el documento impreso, mediante el cual el Instituto, en ejercicio de sus facultades como organismo fiscal autónomo, determina en cantidad líquida los créditos fiscales a su favor previstos en la Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2005)</small>
+
+XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal. Para efectos de esta Ley, el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo, con excepción de los conceptos previstos en el artículo 27 de la Ley; y
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2005)</small>
+
+XIX. Trabajador eventual del campo: persona física que es contratada para labores de siembra, deshije, cosecha, recolección, preparación de productos para su primera enajenación y otras de análoga naturaleza agrícola, ganadera, forestal o mixta, a cielo abierto o en invernadero. Puede ser contratada por uno o más patrones durante un año, por períodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón. En caso de rebasar dicho período por patrón será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo.
 
 ###### Artículo 6.
 
@@ -2326,6 +2334,38 @@ Aquellos productores del campo que estuvieran incorporados por la vía de Decret
 
 Los trabajadores asalariados, eventuales y permanentes en actividades del campo, se comprenden en el artículo 12, fracción I, de esta Ley y accederán a la seguridad social en los términos y formas que establezca la misma, conforme a las modalidades que para el efecto establezcan los reglamentos que correspondan.
 
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2005)</small>
+
+Artículo 237 A. En aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de salud que tiene encomendados, éste podrá celebrar convenios con los patrones del campo, para que éstos otorguen a sus trabajadores las prestaciones en especie correspondientes al Seguro de Enfermedades y Maternidad a que se refiere la Sección Segunda, Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios, pudiendo convenirse en la reversión de una parte de la cuota obrero patronal en proporción a la naturaleza y cuantía de los servicios otorgados, a través de un esquema programado de reembolsos, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
+
+Asimismo, en aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de guardería que tiene encomendados, éste podrá celebrar convenios con los patrones del campo y organizaciones de trabajadores eventuales del campo para la subrogación de los servicios que contempla el Ramo de Guarderías a que se refiere la Sección Primera, Capítulo VII, del Título Segundo, de esta Ley, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
+
+En todo caso, los patrones del campo y las organizaciones a que se refiere este artículo estarán obligados a proporcionar al Instituto los informes y estadísticas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el propio Instituto, en los términos de las reglas de carácter general que con respecto a los servicios médicos y de guarderías expida el Consejo Técnico.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2005)</small>
+
+Artículo 237 B. Los patrones del campo tendrán las obligaciones inherentes que establezca la presente Ley y sus reglamentos, adicionalmente, deberán cumplir lo siguiente:
+
+I. Al registrarse ante el Instituto, deberán proporcionar el período y tipo de cultivo, superficie o unidad de producción, estimación de jornadas a utilizar en cada período y los demás datos que les requiera el Instituto. Para el caso de los patrones con actividades ganaderas, deberán proporcionar la información sobre el tipo de ganado y el número de cabezas que poseen. La modificación de cualquiera de los datos proporcionados deberá ser comunicada al Instituto en un plazo no mayor de treinta días naturales contados a partir de la fecha en que se produzcan;
+
+II. Comunicarán altas, bajas y reingresos de sus trabajadores así como las modificaciones de su salario y los demás datos, en los términos del reglamento correspondiente, dentro de plazos no mayores de siete días hábiles, y
+
+III. Expedirán y entregarán, constancia de los días laborados y de salarios totales devengados, de acuerdo a lo que establezcan los reglamentos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2005)</small>
+
+Artículo 237 C. Los patrones del campo podrán excluir, independientemente de lo establecido en el artículo 27 de esta Ley como integrante del salario base de cotización, dada su naturaleza, los pagos adicionales que realicen por concepto de productividad, hasta por el veinte por ciento del salario base de cotización, observando lo dispuesto en el artículo 29, fracción III de esta Ley. Para que el concepto de productividad mencionado en este artículo, se excluya como integrante del salario base de cotización, deberá estar debidamente registrado en la contabilidad del patrón.
+
+En su caso, cubrirán la parte de la cuota obrero patronal que les corresponde conjuntamente con la actualización respectiva, en forma diferida o a plazos, sin la generación de recargos, conforme a las reglas de carácter general que emita el Consejo Técnico, tomando en cuenta la existencia de ciclos estacionales en el flujo de recursos en ciertas ramas de la producción agrícola.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2005)</small>
+
+Artículo 237 D. El Instituto podrá verificar que los patrones del campo se encuentran al corriente en cuanto al cumplimiento de las obligaciones a su cargo derivadas de esta Ley, previamente al otorgamiento de los subsidios, apoyos o beneficios, derivados del Presupuesto de Egresos de la Federación, que dichos patrones del campo soliciten al Gobierno Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+Para tales efectos, sin perjuicio del ejercicio de las facultades de comprobación que le corresponden al Instituto en su carácter de organismo fiscal autónomo, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, deberá proporcionar semestralmente al Instituto el padrón de patrones del campo que sean sujetos de las disposiciones contenidas en este Capítulo, correspondientes a los sectores agrícola, ganadero, forestal y mixto, identificando a aquellos sujetos a recibir subsidios, apoyos o beneficios derivados del Presupuesto de Egresos de la Federación.
+
+A solicitud del Instituto, y de acuerdo al convenio que éste firme con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para este fin, esta última suspenderá la entrega de subsidios, apoyos, o beneficios que, con cargo a su presupuesto provengan del Presupuesto de Egresos de la Federación, a patrones del campo que no cumplan las disposiciones en materia de seguridad social establecidas en esta Ley.
+
 ###### Artículo 238.
 
 Los indígenas, campesinos temporaleros de zonas de alta marginalidad y todas aquellas familias campesinas, cuya condición económica se ubique en pobreza extrema, tendrán acceso a las prestaciones de solidaridad social, bajo la forma y términos que establecen los artículos 214 a 217 de esta Ley.
@@ -3400,6 +3440,26 @@ El derecho del trabajador o pensionado y, en su caso, sus beneficiarios a recibi
 
 ### CAPITULO II. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 303.
+
+Los servidores públicos del Instituto, están obligados a observar en el cumplimiento de sus obligaciones, los principios de responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez y calidad en la prestación de los servicios y en la atención a los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 303 A. El incumplimiento de las obligaciones administrativas, que en su caso correspondan, serán sancionadas en los términos previstos en la Ley Federal de Responsabilidades de los Servidores Públicos, salvo los que se encuentren comprendidos en el artículo 5o. de dicho ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO III. DE LOS DELITOS
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 304.
+
+Cuando los patrones y demás sujetos obligados realicen actos u omisiones, que impliquen el incumplimiento del pago de los conceptos fiscales que establece el artículo 287, serán sancionados con multa del cuarenta al cien por ciento del concepto omitido.
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 Artículo 304 A. Son infracciones a esta Ley y a sus reglamentos, los actos u omisiones del patrón o sujeto obligado que se enumeran a continuación:
@@ -3445,26 +3505,6 @@ XIX. Omitir o presentar extemporáneamente el dictamen por contador público aut
 XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por contador público autorizado sus aportaciones ante el Instituto, y
 
 XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-###### Artículo 303.
-
-Los servidores públicos del Instituto, están obligados a observar en el cumplimiento de sus obligaciones, los principios de responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez y calidad en la prestación de los servicios y en la atención a los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 303 A. El incumplimiento de las obligaciones administrativas, que en su caso correspondan, serán sancionadas en los términos previstos en la Ley Federal de Responsabilidades de los Servidores Públicos, salvo los que se encuentren comprendidos en el artículo 5o. de dicho ordenamiento.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO III. DE LOS DELITOS
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-###### Artículo 304.
-
-Cuando los patrones y demás sujetos obligados realicen actos u omisiones, que impliquen el incumplimiento del pago de los conceptos fiscales que establece el artículo 287, serán sancionados con multa del cuarenta al cien por ciento del concepto omitido.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3861,3 +3901,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los trabajadores, jubilados y pensionados del propio Instituto, que ostenten cualquiera de esas condiciones hasta antes de la entrada en vigor del presente Decreto, seguirán gozando de los beneficios otorgados por el Régimen de Jubilaciones y Pensiones, y contribuyendo a dicho Régimen en los términos y condiciones en que lo han venido haciendo hasta antes de la entrada en vigor del presente Decreto; sin perjuicio de las modalidades que llegasen a acordar las partes. Para tal efecto, el Instituto aportará las cantidades que correspondan, contenidas en su respectivo presupuesto, en los términos del artículo 276 de la Ley del Seguro Social, con cargo a las cuotas, contribuciones y aportaciones que conforme a dicho ordenamiento, debe recaudar y recibir.
 
 TERCERO.- Con objeto de dar debido cumplimiento a lo establecido en el artículo 277 D de este Decreto, el Instituto llevará a cabo los estudios actuariales correspondientes y los comunicará a la representación de los trabajadores. Asimismo, deberá dar a conocer los resultados de dichos estudios al Congreso de la Unión en el Informe a que se refiere el artículo 273 de la Ley del Seguro Social.
+
+D.O.F. 29 DE ABRIL DE 2005
+
+Primero. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reglas de carácter general a que se refieren los artículos 237-A y 237-C se expedirán dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico del Instituto Mexicano del Seguro Social, a propuesta del Director General del Instituto.
+
+Tercero. Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación proporcionará al Instituto el padrón de patrones del campo a que se refiere el artículo 237-D de la Ley.
