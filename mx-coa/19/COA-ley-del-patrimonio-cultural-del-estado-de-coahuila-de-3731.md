@@ -4,7 +4,7 @@ identifier: "COA-ley-del-patrimonio-cultural-del-estado-de-coahuila-de-3731"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-14"
-last_updated: "1996-02-23"
+last_updated: "2005-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1996.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE ABRIL DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de abril de 1989.
 
@@ -724,3 +726,33 @@ P.O. 23 DE FEBRERO DE 1996.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE FEBRERO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto, seguirán aplicándose a los beneficiarios con derechos adquiridos conforme al Decreto que se abroga.
+
+P.O. 29 DE ABRIL DE 2005.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deroga la Ley del Patrimonio Cultural del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, número 30, de fecha 14 de abril de 1989.
+
+TERCERO. Se deroga el Decreto que crea el Instituto Coahuilense de Cultura, publicado en el Periódico Oficial del Gobierno del Estado, número 13, de fecha 15 de febrero de 1994.
+
+CUARTO. El Instituto que mediante esta ley se crea, funcionará con el personal y los recursos materiales que actualmente se encuentran adscritos al Instituto Coahuilense de Cultura, creado mediante Decreto publicado en el Periódico Oficial del Gobierno del Estado, número 13, de fecha 15 de febrero de 1994.
+
+Los derechos adquiridos por los trabajadores que se adscriben al Instituto Coahuilense de Cultura, creado mediante esta ley, serán plenamente respetados.
+
+QUINTO. Dentro de un año siguiente contado a partir de la entrada en vigor de esta ley, se expedirán y publicarán en el Periódico Oficial del Gobierno del Estado, los siguientes documentos:
+
+I. El Programa Cultural.
+
+II. Reglamento de la presente ley.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
