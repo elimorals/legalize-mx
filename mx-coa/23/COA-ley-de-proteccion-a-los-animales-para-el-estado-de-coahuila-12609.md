@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-los-animales-para-el-estado-de-coahuila-126
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-15"
-last_updated: "1997-04-15"
+last_updated: "2005-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 15 de abril de 1997.
 
@@ -73,9 +73,11 @@ B) Vivisección: Disección anatómica de un ser vivo con fines científicos.
 
 ### CAPITULO II. DE LA PROTECCION A LOS ANIMALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 6.
 
-Todo propietario, poseedor o encargado de cualquier animal será responsable de los daños, trastornos o perjuicios que el animal ocasione. Las indemnizaciones serán de mayor cuantía cuando el daño, trastorno o perjuicio sea provocado por el abandono del animal.
+Todo propietario, poseedor o encargado de cualquier animal será responsable de los daños, trastornos o perjuicios que el animal ocasione. Las indemnizaciones serán de mayor cuantía cuando el daño, trastorno o perjuicio sea provocado por el abandono del animal o cuando éste sea catalogado como peligroso.
 
 Esto no tiene aplicación en el caso de animales domésticos destinados a labores de vigilancia y protección que actúen en defensa de sí mismos, de sus propietarios o del área donde habiten o trabajen.
 
@@ -83,9 +85,11 @@ Esto no tiene aplicación en el caso de animales domésticos destinados a labore
 
 Las indemnizaciones que indica el artículo anterior serán demandadas según los procedimientos señalados en las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 8.
 
-Quedan sujetos al control de las autoridades competentes, los dueños, poseedores o encargados de animales no domésticos catalogados como peligrosos.
+Quedan sujetos al control de las autoridades competentes, los dueños, poseedores o encargados de animales domésticos y no domésticos catalogados como peligrosos, conforme a la clasificación que en el reglamento respectivo formule la Comisión Estatal de Protección a los Animales.
 
 Las personas que posean un animal con las características del párrafo anterior, deberán solicitar la autorización respectiva de las autoridades administrativas.
 
@@ -207,6 +211,10 @@ Por lo que corresponde a la transportación de animales de ganado para el consum
 
 En los casos de animales domésticos y silvestres en cautiverio, se deberán revisar las condiciones de higiene y seguridad necesarias, y no podrán ser inmovilizados en posiciones que les causen lesiones, sufrimiento o maltrato alguno.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
+
+En el transporte de animales potencialmente peligrosos, deberán adoptarse las medidas precautorias necesarias para garantizar la seguridad de las personas, los bienes y la de otros animales.
+
 ### CAPITULO VII. DEL SACRIFICIO DE ANIMALES
 
 ###### ARTICULO 26.
@@ -245,9 +253,11 @@ Se considera como infracción cualquier incumplimiento a lo establecido por la p
 
 Es responsable de las faltas previstas en esta ley cualquier persona, grupo, institución o asociación de carácter privado, público, comercial, social o gubernamental, que participe en la ejecución de las infracciones.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 33.
 
-Las infracciones a lo dispuesto en esta ley, se sancionarán por la autoridad correspondiente, con multas de veinte a cien salarios mínimos vigentes en la zona económica que corresponda.
+Las infracciones a lo dispuesto en esta ley, se sancionarán por la autoridad correspondiente, con multas de veinte a cien salarios mínimos vigentes en la zona económica que corresponda. Tratándose de animales peligrosos, las multas serán de 60 a 300 salarios mínimos, independientemente de la responsabilidad penal o civil que corresponda conforme a la legislación estatal vigente.
 
 ###### ARTICULO 34.
 
@@ -350,3 +360,13 @@ LIC. OSCAR PIMENTEL GONZALEZ LIC. ROGELIO RAMOS ORANDAY
 EL SECRETARIO DE FOMENTO AGROPECUARIO
 
 ING. LORENZO MARIO GONZALEZ VILLAREAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 29 DE ABRIL DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Comisión Estatal de Protección a los Animales elaborará en un plazo de 60 días el Reglamento al artículo 8 de esta Ley, para determinar qué animales domésticos y no domésticos pueden ser considerados como peligrosos, en el supuesto de que no se encuentre constituida la Comisión Estatal de Protección a los Animales, la Dirección General de Ecología, en el ámbito de su competencia, realizará las acciones necesarias para la constitución del mismo, por lo que el plazo para la expedición del Reglamento empezará a correr una vez que quede constituida la Comisión.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este decreto.
