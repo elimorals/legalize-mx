@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2003-01-11"
+last_updated: "2005-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -265,13 +265,27 @@ III. Obsequiar y/o vender bebidas a los agentes de policía y ejército uniforma
 
 IV. Permitir, fomentar o realizar toda clase de rifas, sorteos o juegos con apuestas en dinero en los establecimientos;
 
-V. Pintar o fijar en los interiores, cuadros o fotografías que ofendan a la moral o a las buenas costumbres; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
 
-VI. Vender bebidas que estén adulteradas, contaminadas o alteradas en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas que puedan imponer las autoridades sanitarias o de las sanciones penales que correspondan, cuando sean constitutivas de delito.
+V. Pintar o fijar en los interiores, cuadros o fotografías que ofendan a la moral o a las buenas costumbres;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+VI. Vender bebidas que estén adulteradas, contaminadas o alteradas en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas que puedan imponer las autoridades sanitarias o de las sanciones penales que correspondan, cuando sean constitutivas de delito; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+VII. Contratar laboralmente o subemplear los servicios personales de menores de 18 años de edad, con el fin de realizar actividades de promoción, difusión y publicidad para la venta y consumo de bebidas alcohólicas, y de todo aquel trabajo que sea susceptible de afectar su moralidad o su (sic) buenas costumbres.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 24.
 
-Se prohíbe estrictamente la venta y suministro de cualquier clase de bebidas alcohólicas a los menores de 18 años de edad. Quienes violen esta disposición se harán acreedores a una multa y se procederá, además, a la clausura del sitio o establecimiento.
+Se prohíbe estrictamente la venta y suministro de cualquier clase de bebidas alcohólicas o sustancias que contengan alcohol para fines industriales o medicinales a los menores de 18 años de edad.
+
+Se prohíbe estrictamente a los propietarios, poseedores, representantes o apoderados legales de los establecimientos a que se refieren las fracciones I, II y III del artículo 9 de esta Ley, contratar laboralmente los servicios personales de menores de 18 años de edad.
+
+Quienes infrinjan esta disposición se harán acreedores a una multa y a la clausura del establecimiento en los términos de esta Ley.
 
 ###### ARTICULO 25.
 
@@ -345,17 +359,35 @@ II. La venta y consumo de bebidas en los establecimientos autorizados, fuera de 
 
 III. Abrir el establecimiento antes de que la autoridad municipal emita su fallo en el recurso de revisión o de reconsideración, que se interponga o con posterioridad en caso de que dicho fallo fuere negativo;
 
-IV. En general, la violación a cualquiera de las disposiciones contempladas en esta Ley o en los reglamentos Municipales.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+IV. Contratar laboralmente o subemplear los servicios personales de menores de 18 años de edad, con el fin de realizar actividades de promoción, difusión y publicidad para la venta y consumo de bebidas alcohólicas, y de todo aquel trabajo que sea susceptible de afectar su moralidad o sus buenas costumbres;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+V. Vender cualquier clase de bebidas alcohólicas o cualquier sustancia que contenga alcohol para fines comerciales o medicinales, a menores de 18 años de edad; así como contratar menores de 18 años en los términos establecidos por el artículo 24 de esta ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+VI. En general, la violación a cualquiera de las disposiciones contempladas en esta Ley o en los Reglamentos Municipales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 38.
 
-A quienes incurran en alguna de las infracciones que señalan las fracciones I a III del artículo anterior, se les impondrá una multa cuyo importe no será menor al equivalente de 20 días de salario mínimo general de la zona respectiva ni excederá de 150, independientemente del cierre o clausura del establecimiento.
+A quienes incurran en alguna de las infracciones que señalan las fracciones I y III del artículo anterior, se les impondrá una multa cuyo importe no será menor al equivalente de 20 días de salario mínimo general de la zona respectiva ni excederá de 150, independientemente del cierre o clausura del establecimiento.
 
 En el caso de infracción a lo dispuesto por la fracción II, se impondrá una sanción no menor de 30 ni mayor de 200 unidades de salario mínimo y en caso de reincidencia, se aplicará a los infractores una multa igual a dos tantos de la anterior. Si reincidiere nuevamente, se clausurará definitivamente el establecimiento y se revocará la licencia municipal. Se entiende por reincidencia la repetida violación a las disposiciones de esta Ley, en un término menor de 18 meses.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+A quienes infrinjan a lo dispuesto por las fracciones IV y V del artículo anterior se les impondrá una multa, cuyo importe no será menor al equivalente a 50 ni mayor de 250 días de salario mínimo vigente al momento de cometerse la infracción. En caso de reincidencia se procederá a la clausura definitiva del establecimiento y se le revocará su licencia municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 39.
 
-A quienes incurran en la hipótesis prevista por la fracción IV del artículo 37 de esta Ley, se les impondrá una multa cuyo importe no será menor al equivalente de 20 días de salario mínimo ni excederá de 55.
+A quien incurra en las hipótesis prevista por la fracción VI del artículo 37 de esta Ley, se les impondrá una multa cuyo importe no será menor al equivalente de 20 días de salario mínimo ni excederá de 55.
 
 En caso de reincidencia se procederá de acuerdo con lo dispuesto por la última parte del artículo anterior.
 
@@ -388,3 +420,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 10 días del mes de enero de 2003.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 30 DE ABRIL DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
