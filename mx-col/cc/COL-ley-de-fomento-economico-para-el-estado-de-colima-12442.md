@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2004-12-25"
+last_updated: "2005-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -72,6 +72,14 @@ c) CONSEJO: Al Consejo Estatal para el Fomento Económico;
 d) COMITE: Al Comité Técnico;
 
 e) EMPRESAS: A las unidades económicas, personas físicas o morales, constituidas legalmente y dedicadas a la producción de bienes o la prestación de servicios.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+EMPRESA COLIMENSE: Las unidades económicas que causen y paguen sus contribuciones en el Estado de Colima, que tengan su domicilio fiscal en esta entidad federativa, que se encuentren generado empleo en el territorio colimense, y que acrediten cuando menos seis meses operando, mismas que podrán obtener el Certificado, previo cumplimiento de los requisitos exigidos en la presente Ley y en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+f) CERTIFICADO: Al Certificado de Empresa Colimense emitido por la Secretaría a favor de las empresas que reúnan los requisitos que dispone el capítulo correspondiente de la Ley.
 
 ###### ARTICULO 4o.
 
@@ -333,9 +341,55 @@ III.- Protección y mejoramiento del medio ambiente; y
 
 IV.- Exportación.
 
-### CAPITULO V. DEL CONSEJO ESTATAL PARA EL FOMENTO ECONOMICO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2005)</small>
 
-### CAPITULO VI. DEL SECRETARIO EJECUTIVO DEL CONSEJO
+### CAPITULO IV BIS. DEL CERTIFICADO DE EMPRESA COLIMENSE
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis.
+
+Para el otorgamiento y expedición, en su caso, del Certificado, los solicitantes deberán presentar a la Secretaría, por sí o a través de representante o apoderado, solicitud elaborada en formato libre, describiendo, bajo protesta de decir verdad, las características de la empresa de la cual son propietarios o representantes a fin de acreditar su calidad local en los términos del segundo párrafo del inciso e) del artículo 3º.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis-A.
+
+Una vez recibida la solicitud en los términos del artículo anterior, la Secretaría analizará los datos proporcionados y en caso de que ésta reúna las calidades y requisitos señalados en la Ley, emitirá el Certificado en un término que no excederá de siete días hábiles. El Certificado tendrá vigencia temporal de seis meses a partir de la fecha de expedición, y la Secretaría tendrá plenas facultades de dar por segura la calidad de una empresa del tipo colimense.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis-B.
+
+En el caso de que la solicitud y la documentación aportada no sean suficiente en los términos exigidos por el artículo 17 Bis-A, la Secretaría lo hará saber al solicitante del Certificado en un término de hasta cinco días hábiles y dejará a salvo sus derechos para que presente nuevamente su solicitud cuando estime que reúne todos los requisitos necesarios para obtener el Certificado.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis-C.
+
+La forma y contenido del Certificado será determinado por la Secretaría y se extenderá a favor de la empresa que se adecue a los supuestos de expedición previstos en esta Ley, debiéndose emitir en papelería oficial de la Secretaría, con firma del titular de la dependencia y sellos oficiales.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis-D.
+
+Las empresas que hubieren obtenido el Certificado estarán obligadas a comunicar a la Secretaría, cualquier cambio o variación respecto de su calidad colimenses, pues la falta de uno de los requisitos previstos en esta ley, será suficiente para revocar la certificación previamente a la terminación de su vigencia.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis-E.
+
+En el caso de que la Secretaría tenga informes respecto de la pérdida de la calidad de empresa colimense de alguna empresa que cuente con el Certificado, lo comunicará por escrito a la empresa correspondiente para que en el término de cinco días hábiles, manifieste lo que a su derecho convenga. De acreditarse la pérdida efectiva de la calidad de empresa colimense, se revocará el certificado expedido, independientemente de las sanciones económicas a las que se haga acreedora la empresa en los términos del capítulo respectivo de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis-F.
+
+En cualquier caso de revocación de un Certificado, la Secretaría lo comunicará por escrito y a la brevedad posible, a las dependencias a quienes pudiera interesarles esa circunstancia. Invariablemente deberá de comunicarlo a la Secretaría de Desarrollo Urbano y a la Secretaría de Administración del Gobierno del Estado.
+
+Las dependencias de la Administración Pública Descentralizada o Paraestatal y los Ayuntamientos de la entidad, podrán solicitar a la Secretaría informes respecto de los Certificados expedidos, en los términos de la legislación aplicable.
+
+### CAPITULO V. DEL CONSEJO ESTATAL PARA EL FOMENTO ECONOMICO
 
 ###### ARTICULO 18.
 
@@ -435,7 +489,7 @@ En ningún caso podrá llevarse a cabo sesión alguna del Consejo, sin la presen
 
 El Consejo podrá integrar grupos de trabajo, de análisis, consulta y gestión, quienes actuarán para fines específicos y por tiempo definido.
 
-### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS ECONOMICOS MUNICIPALES
+### CAPITULO VI. DEL SECRETARIO EJECUTIVO DEL CONSEJO
 
 ###### ARTICULO 30.
 
@@ -463,7 +517,7 @@ X.- Dar seguimiento a los acuerdos; y
 
 XI.- Las demás que se deriven de esta Ley y su Reglamento.
 
-### CAPITULO VIII. DEL COMITE TECNICO
+### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS ECONOMICOS MUNICIPALES
 
 ###### ARTICULO 31.
 
@@ -479,7 +533,7 @@ II.- Fomentar la participación de los sectores público, social y privado que a
 
 III.- Asesorar al Ayuntamiento en la elaboración, ejecución y evaluación de programas de carácter económico.
 
-### CAPITULO IX. DE LAS SANCIONES
+### CAPITULO VIII. DEL COMITE TECNICO
 
 ###### ARTICULO 33.
 
@@ -567,7 +621,7 @@ VI.- Plantear estrategias al Consejo para el Fomento de la Inversión en el Esta
 
 VII.- Sugerir a la Secretaría propuestas de desregulación o simplificación de trámites administrativos que de alguna manera inhiban la inversión.
 
-### CAPITULO X. DEL RECURSO DE REVISION
+### CAPITULO IX. DE LAS SANCIONES
 
 ###### ARTICULO 40.
 
@@ -583,11 +637,17 @@ IV.- Ceder los beneficios concedidos en la resolución emitida por la Secretarí
 
 V.- Omitir la presentación oportuna del aviso a que se refiere el artículo 13 de esta Ley.
 
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+VI.- Omitir la presentación del informe de cambio o variación de su calidad de empresa colimense.
+
 ###### ARTICULO 41.
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas en los siguientes términos:
 
-I.- Hasta con 1,000 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en las fracciones I, III y IV;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
+
+I.- Hasta con 1,000 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en las fracciones I, III, IV y VI.
 
 II.- Hasta con 500 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en la fracción II; y
 
@@ -631,6 +691,8 @@ La Secretaría fundará y motivará su resolución, debiendo comunicarla a la Se
 
 La Secretaría comunicará por escrito al Ayuntamiento que corresponda la resolución a que se refiere el artículo 42 de la presente Ley, proponiéndole proceda a la suspensión o cancelación de los incentivos y apoyos municipales que hubiere otorgado a la empresa infractora, de conformidad con el artículo 8o. de este ordenamiento.
 
+### CAPITULO X. DEL RECURSO DE REVISION
+
 ###### ARTICULO 48.
 
 Contra los actos o resoluciones de la Secretaría, las empresas podrán acudir al Tribunal de lo Contencioso Administrativo, de conformidad con la Ley de la materia.
@@ -662,3 +724,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.-
 P.O. 25 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1º. de enero de 2005, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
