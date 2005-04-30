@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2002-11-16"
+last_updated: "2005-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -540,6 +540,10 @@ No serán objeto de evaluación las condiciones establecidas por las convocantes
 Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
 Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2005)</small>
+
+Si conforme al criterio señalado en el párrafo anterior resultare que dos o más proposiciones se encuentran en igualdad de circunstancias, el contrato se adjudicará al contratista que emplee el recurso humano que radique en el lugar en que habrá de realizarse la obra pública o prestarse el servicio.
 
 La convocante emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
 
@@ -1146,3 +1150,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 15 días del mes de noviembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSE GILBERTO GARCÍA NAVA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 30 DE ABRIL DE 2005.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
