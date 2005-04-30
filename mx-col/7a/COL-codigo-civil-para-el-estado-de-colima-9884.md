@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2003-03-29"
+last_updated: "2005-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -1293,9 +1293,9 @@ ART. 172.- El marido y la mujer, mayores de edad, tienen capacidad para administ
 
 ART. 173.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-ART. 174.-(DEROGADO, P.O. 9 DE JULIO DE 1994)
+ART. 174.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
-ART. 175.-(DEROGADO, P.O. 9 DE JULIO DE 1994)
+ART. 175.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 176.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
@@ -1835,9 +1835,11 @@ ART. 306.- Los hermanos y demás parientes colaterales a que se refiere el artí
 
 ART. 307.- El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2005)</small>
 
-ART. 308.- Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentista y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+ART. 308.- Los alimentos comprenden la comida, el vestido, la habitación, la asistencia médica en caso de enfermedad y la educación, en caso de los hijos menores de 18 años. Respecto de los mayores de 18 y hasta los 25 años de edad, los alimentos comprenderán, además de lo mencionado en la primera parte del presente artículo, los gastos necesarios para proporcionarles algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales, durante el tiempo en que se encuentren cursando estudios.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 En el caso de las personas con algún tipo de discapacidad o declaradas en estado de interdicción comprenderán además, todo lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
@@ -5265,7 +5267,7 @@ Los testigos instrumentales a que se refiere este artículo podrán intervenir, 
 
 ART. 1410.- Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
 
-ART. 1411.-(DEROGADO, P.O. 9 DE JULIO DE 1994)
+ART. 1411.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 1412.- El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
@@ -5547,7 +5549,7 @@ ART. 1504.- Concurriendo padres adoptantes y descendientes del adoptado en la fo
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
-ART. 1504 BIS.- Concurriendo los adoptantes con ascendientes del adoptado en la forma simple, la herencia de éste se dividirá por partes iguale entre los adoptantes y los ascendientes.
+ART. 1504 BIS.- Concurriendo los adoptantes con ascendientes del adoptado en la forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
 
 ART. 1505.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
@@ -10228,3 +10230,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 29 DE MARZO DE 2003.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 30 DE ABRIL DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
