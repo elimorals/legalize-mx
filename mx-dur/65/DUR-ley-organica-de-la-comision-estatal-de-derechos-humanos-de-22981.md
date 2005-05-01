@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-comision-estatal-de-derechos-humanos-de-2298
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-30"
-last_updated: "2001-12-30"
+last_updated: "2005-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -269,11 +269,11 @@ V. Dictar las medidas que juzgue convenientes para el mejor desempeño de las fu
 
 VI. Distribuir y delegar funciones, en términos de esta ley y de su Reglamento Interior;
 
-VII. Enviar al Congreso del Estado y al Titular del Poder Ejecutivo Estatal un informe anual sobre las actividades realizadas por la Comisión, dentro de los primeros quince días siguientes a la apertura del Segundo Periodo Ordinario de Sesiones de la H. Legislatura del Estado, dicho
+VII. Enviar al Congreso del Estado y al Titular del Poder Ejecutivo Estatal un informe anual sobre las actividades realizadas por la Comisión, dentro de los primeros quince días siguientes a la apertura del Segundo Periodo Ordinario de Sesiones de la H. Legislatura del Estado, dicho informe será difundido ampliamente para conocimiento de la sociedad;
 
-informe será difundido ampliamente para conocimiento de la sociedad;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2005)</small>
 
-VIII. Elaborar el proyecto de Presupuesto Anual de Egresos de la Comisión y el Informe respectivo sobre su ejercicio para presentarse al Congreso del Estado, por conducto de la Gran Comisión;
+VIII. Enviar al Titular del Poder Ejecutivo Estatal un informe anual sobre las actividades realizadas por la Comisión, asimismo, deberá comparecer ante el Congreso del Estado dentro de los primeros quince días siguientes a la apertura del Segundo Periodo Ordinario de Sesiones a rendir un informe anual de su gestión;
 
 IX. Suscribir, en términos de la legislación aplicable, las Bases de Coordinación y Convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -808,3 +808,11 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS QUINCE DIAS DEL MES DE DICIEMBRE DEL DOS MIL UNO.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
