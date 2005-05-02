@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-38805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-30"
-last_updated: "2004-04-30"
+last_updated: "2005-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38805&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-29"
 
 REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MAYO DE 2005
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 30 de abril de 2004.
 
@@ -49,11 +49,19 @@ III. Aportaciones al FOVISSSTE, las enteradas por las dependencias y entidades p
 
 IV. Aportaciones al INFONAVIT, las enteradas por los patrones de conformidad con lo previsto en el artículo 29 fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+IV bis. Buzón, cada una de las cuentas de correo electrónico habilitadas por la Entidad Central a la Comisión y a los Participantes en los Sistemas de Ahorro para el Retiro;
+
 V. Cuenta ISSSTE, la cuenta que el Banco de México tiene abierta a nombre del ISSSTE, en la que se depositan los recursos correspondientes al SAR-ISSSTE, de conformidad con lo dispuesto en el artículo 90 BIS I de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 VI. Cuenta Concentradora, aquélla operada por el Banco de México en la que se depositan los recursos correspondientes al Seguro de RCV, aportaciones voluntarias y complementarias de retiro, en tanto se lleven a cabo los procesos de individualización para transferirlos a las Administradoras elegidas por los Trabajadores, así como conservar los recursos de aquellos Trabajadores que no elijan Administradora;
 
 VII. Cuenta FOVISSSTE, la cuenta que el Banco de México le lleva al FOVISSSTE, conforme a lo establecido en el artículo 122 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+VII bis. Entidad Central, la persona moral que proporcione los medios electrónicos de comunicación a efecto de que la Comisión notifique sus actos administrativos a través de correo electrónico, así como para el envío de documentos digitales de los Participantes en los Sistemas de Ahorro para el Retiro a la Comisión;
 
 VIII. Entidades Receptoras, las entidades autorizadas por el IMSS y el INFONAVIT para recibir el pago de las cuotas del Seguro de RCV, de Aportaciones al INFONAVIT, aportaciones voluntarias y aportaciones complementarias de retiro. Asimismo, podrán recibir las aportaciones del SAR-ISSSTE cuando así lo determine la Comisión mediante reglas de carácter general;
 
@@ -72,6 +80,10 @@ XIV. ISSSTE, el Instituto de Seguridad y Servicios Sociales de los Trabajadores 
 XV. Ley, la Ley de los Sistemas de Ahorro para el Retiro;
 
 XVI. Manual de Procedimientos Transaccionales, el manual que elaboren las Empresas Operadoras, de conformidad con el título de concesión, en donde se especifiquen los formatos electrónicos, sistemas, características y demás aspectos técnicos y operativos, relativos a la transmisión de las transacciones informáticas que constituyen el flujo de información entre la Comisión, los Participantes en los Sistemas de Ahorro para el Retiro y los Institutos de Seguridad Social;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+XVI bis. Prestador de Servicios de Certificación, la persona o institución pública que proporcione servicios relacionados con firmas electrónicas que, en su caso, expida certificados digitales que confirmen el vínculo entre un firmante y los datos de verificación de su firma electrónica avanzada, utilizando para ello la infraestructura de clave pública que administra Banco de México;
 
 XVII. SAR-ISSSTE, al Sistema de Ahorro para el Retiro previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -143,9 +155,17 @@ Para tal efecto, las Administradoras que cobren comisiones sobre saldo, sólo po
 
 Las Administradoras en términos del artículo 37 de la Ley, sólo podrán cobrar comisiones por cuota fija a los Trabajadores por la prestación de cualquiera de los siguientes servicios:
 
-I. Expedición de estados de cuenta adicionales a los previstos en la Ley, y
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
 
-II. Reposición de documentación de la Cuenta Individual.
+I. Expedición de estados de cuenta adicionales a los previstos en la Ley;
+
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+II. Reposición de documentación de la Cuenta Individual, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+III. Gestión de trámites ante autoridades o instancias distintas a los Institutos de Seguridad Social, exclusivamente relacionados con su cuenta individual, siempre que lo solicite o autorice el Trabajador de que se trate o sus beneficiarios.
 
 Para la protección de los recursos de los Trabajadores, las Administradoras sólo podrán cobrar comisiones por cuota fija por el depósito de recursos en las subcuentas de aportaciones voluntarias y complementarias de retiro, cuando los depósitos no se efectúen a través del proceso de recaudación de cuotas y aportaciones.
 
@@ -263,17 +283,25 @@ Asimismo, en caso de que una Sociedad de Inversión se encuentre fuera del pará
 
 ### CAPÍTULO III. Disposiciones Comunes
 
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 23.
 
-Para que los Trabajadores puedan ejercer todos los derechos relativos a su Cuenta Individual, independientemente de que se encuentren sujetos al régimen previsto en la Ley del Seguro Social, en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o a ambos, o se trate de un Trabajador no Afiliado, de conformidad por lo dispuesto en los artículos 177 de la Ley del Seguro Social y 90 BIS-C de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se deberá proveer que en todo momento tengan una sola Cuenta Individual.
+Los Trabajadores deberán contar con una sola Cuenta Individual de los Sistemas de Ahorro para el Retiro.
 
-El Trabajador que tenga abierta una Cuenta Individual y que cambie de régimen o simultáneamente se encuentre sujeto a dos o más de los regímenes mencionados en este artículo deberá acumular todos sus recursos en la Cuenta Individual que tuviera abierta. Lo anterior, sin perjuicio de su derecho a traspasar su Cuenta Individual cuando tenga derecho a ello.
+En caso de que el Trabajador cuente con dos o más Cuentas Individuales, éstas se unificarán en la institución financiera que, de conformidad con la Ley, pueda operar todas las subcuentas que integran su Cuenta Individual.
+
+De conformidad con lo anterior, la Comisión establecerá los criterios y determinará las características de los sistemas operativos y tecnológicos que permitan la unificación de las Cuentas Individuales de los Trabajadores.
 
 ###### ARTÍCULO 24.
 
 Las Cuentas Individuales de los Trabajadores que acumulen recursos bajo dos o más de los distintos regímenes a que se refiere el artículo anterior, deberán integrarse por las subcuentas que correspondan a cada uno de los regímenes en que hayan acumulado recursos.
 
 Tratándose de las subcuentas de aportaciones voluntarias y complementarias de retiro sólo podrá haber una de cada una de éstas por Cuenta Individual.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+En el caso de Trabajadores no Afiliados que posteriormente se encuentren sujetos a un régimen diferente, los recursos correspondientes a la Subcuenta de Ahorro a Largo Plazo de su Cuenta Individual se deberán mantener separados de la subcuenta de aportaciones complementarias de retiro, salvo que el trabajador manifieste por escrito a la Administradora su decisión de que tales recursos sean acumulados.
 
 ###### ARTÍCULO 25.
 
@@ -517,13 +545,31 @@ I. Transcurrido un año calendario contado a partir de que se registró o contad
 
 II. Si la Administradora que opere la Cuenta Individual modificara su estructura de comisiones, siempre y cuando la modificación implique un incremento en las comisiones que se cobren al Trabajador Afiliado;
 
-III. Si la Administradora modificara el régimen de inversión de la Sociedad de Inversión en que el Trabajador Afiliado tenga invertidos sus recursos, y
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
 
-IV. Si la Administradora que opere la Cuenta Individual entrara en estado de disolución, o se fusionara con otra Administradora.
+III. Si la Administradora modificara el régimen de inversión de la Sociedad de Inversión en que el Trabajador Afiliado tenga invertidos sus recursos;
 
-Para efectos de esta fracción, el derecho de traspaso sólo corresponderá a los Trabajadores Afiliados que se encuentren registrados en la Administradora fusionada.
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+IV. Si la Administradora que opere la Cuenta Individual entrara en estado de disolución o se fusionara con otra Administradora. Para efectos de esta fracción, el derecho de traspaso sólo corresponderá a los Trabajadores Afiliados que se encuentren registrados en la Administradora fusionada;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+V. Si el Trabajador Afiliado elige traspasar su Cuenta Individual a una Administradora que cobre comisiones más bajas que las que cobra la Administradora que opere su Cuenta Individual.
 
 El traspaso se realizará de conformidad con lo establecido en los artículos 74 y 78 de la Ley y en las disposiciones de carácter general que expida la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 49 bis. Para efectos de lo dispuesto por el artículo 49, fracción V, en relación con el artículo 74 de la Ley, se estará a los siguientes criterios y condiciones:
+
+I. La Comisión desarrollará una metodología de comisiones equivalentes sobre saldo a un plazo no mayor a un año, considerando la estructura de comisiones autorizada para cada Administradora, en la que utilizará el salario, antigüedad y saldo de la Cuenta Individual representativos de los Trabajadores Afiliados.
+
+II. Los Trabajadores Afiliados podrán solicitar el traspaso de su Cuenta Individual de una Administradora, si la comisión equivalente a que se refiere la fracción anterior que corresponda a la Administradora que opera su Cuenta Individual, es mayor a la de la Administradora elegida por el Trabajador Afiliado para traspasar su Cuenta Individual.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 49 ter. La Comisión publicará en el Diario Oficial de la Federación y en su sitio de Internet, la metodología de comisiones equivalentes prevista en el artículo anterior y las comisiones equivalentes sobre saldo a un plazo no mayor a un año que cobre cada Administradora.
 
 ###### ARTÍCULO 50.
 
@@ -627,9 +673,17 @@ b) Desarrollar los sistemas y adecuaciones necesarias a los mismos, para asegura
 
 c) Administrar el sistema de información de la Subcuenta de Vivienda de conformidad con los lineamientos que al efecto establezca la Comisión conjuntamente con el INFONAVIT;
 
-d) Informar a las Administradoras, sobre las tasas de rendimiento que deberán aplicar a la Subcuenta de Vivienda de conformidad con la información que le proporcione el INFONAVIT, y
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-e) Informar a quien la Comisión les indique, las tasas de rendimiento de la Cuenta Concentradora que, a su vez, les haya informado la Secretaría.
+d) Informar a las Administradoras, sobre las tasas de rendimiento que deberán aplicar a la Subcuenta de Vivienda de conformidad con la información que le proporcione el INFONAVIT;
+
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+e) Informar a quien la Comisión les indique, las tasas de rendimiento de la Cuenta Concentradora que, a su vez, les haya informado la Secretaría, y
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+f) Prestar servicios relacionados con las cuentas individuales de los Trabajadores a los demás Participantes en los Sistemas de Ahorro para el Retiro.
 
 XI. Establecer el procedimiento que permita que la información derivada del Sistema de Ahorro para el Retiro de los Trabajadores Afiliados fluya de manera ordenada entre los Participantes en los Sistemas de Ahorro para el Retiro, IMSS, INFONAVIT y la Comisión;
 
@@ -1471,9 +1525,77 @@ II. Los asientos contables y registros de operación que emanen de dichos sistem
 
 La información que las Administradoras, Sociedades de Inversión y Empresas Operadoras lleven en sistemas automatizados y que sea entregada a la Comisión no podrá ser modificada o sustituida posteriormente por la entidad emisora, salvo por determinación expresa de la Comisión o, en su caso, de otras autoridades competentes, con motivo de las correcciones que sean estrictamente necesarias, o bien del esclarecimiento de hechos y eventual deslinde de responsabilidades.
 
-### CAPÍTULO XI. DE LA INSPECCIÓN DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 2 DE MAYO DE 2005)</small>
 
-### CAPÍTULO XII. DE LA VIGILANCIA DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
+### CAPÍTULO X BIS. DE LAS NOTIFICACIONES POR CORREO ELECTRÓNICO
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-A. La Comisión podrá notificar, en términos del artículo 111 de la Ley, sus actos administrativos a través de correo electrónico.
+
+Asimismo, los Participantes en los Sistemas de Ahorro para el Retiro podrán atender los actos administrativos que les sean notificados y realizar cualquier tipo de promociones ante la Comisión, mediante documentos digitales enviados por correo electrónico.
+
+Los documentos digitales a que se refiere el presente artículo deberán tener asociada la firma electrónica avanzada de la persona facultada para emitir el documento digital.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-B. Para efectos de lo dispuesto en el artículo anterior, la Comisión y los Participantes en los Sistemas de Ahorro para el Retiro deberán contar, conforme a las disposiciones de carácter general que emita la Comisión, con un certificado que confirme el vínculo entre la identidad de la persona facultada para emitir el documento digital y los datos de verificación de su firma electrónica avanzada, el cual deberá ser expedido por el Prestador de Servicios de Certificación que determine la Comisión.
+
+Asimismo, la Comisión y los Participantes en los Sistemas de Ahorro para el Retiro deberán contar con Buzones que permitan la emisión y transmisión automática de los acuses de recibo correspondientes. La Comisión determinará la Entidad Central que administrará los Buzones a que se refiere el presente Reglamento.
+
+Dicha Entidad Central deberá mantener un directorio electrónico de las personas que la Comisión y los referidos Participantes autoricen para enviar información en términos de este capítulo. Para tal efecto, la Comisión y los Participantes en los Sistemas de Ahorro para el Retiro deberán enviar a la Entidad Central la información correspondiente y mantenerla actualizada.
+
+Los sistemas de dicha Entidad Central deberán estar sincronizados con el estándar internacional de tiempo denominado "Tiempo Universal Coordinado".
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-C. La firma electrónica avanzada será aquella firma electrónica que cumpla con los requisitos contemplados en los artículos 97 fracciones I a IV y 98 del Código de Comercio.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-D. En los documentos digitales, una firma electrónica avanzada producirá los siguientes efectos jurídicos:
+
+I. Sustituirá a la firma autógrafa del firmante;
+
+II. Garantizará la integridad del documento, y
+
+III. Producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-E. El documento digital en el cual conste el acto administrativo a notificar, deberá contener la firma electrónica avanzada del funcionario competente que emita el acto. Asimismo, dicho documento deberá acompañarse de la cédula de notificación respectiva, la cual deberá ser firmada electrónicamente por el notificador designado por la Comisión para tales efectos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-F. Las notificaciones por correo electrónico podrán ser practicadas a través de un notificador o del funcionario que haya firmado el documento digital donde conste el acto administrativo a que se refiere el artículo anterior.
+
+La Comisión deberá designar a los servidores públicos que estarán facultados para la práctica de notificaciones a través de correo electrónico.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-G. La práctica de las notificaciones, así como el envío de documentos digitales en términos del artículo 147 bis-A del presente Reglamento, deberá efectuarse en días y horas hábiles. Se considerarán días hábiles los que labore la Comisión, y horas hábiles las comprendidas entre las 7:30 y las 18:00 horas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-H. Las notificaciones que realice la Comisión a través de correo electrónico, se tendrán por practicadas en la hora y fecha que establezcan los acuses de recibo que se reciban automáticamente del Buzón correspondiente.
+
+La hora y fecha que deberán establecer los acuses de recibo, será la del momento en el que se reciban los documentos digitales en el Buzón habilitado al Participante en los Sistemas de Ahorro para el Retiro que se notifique. Dichos acuses de recibo deberán cumplir con los requisitos que determine la Comisión.
+
+Cuando se realice una notificación o se reciba un documento digital en un día u hora inhábil, deberá tenerse por practicada la notificación o por recibido el documento digital, el día u hora hábil siguiente a aquel que señale el acuse de recibo emitido por el Buzón correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-I. Las notificaciones a través de correo electrónico surtirán sus efectos el día hábil siguiente a aquél en que fueron practicadas y el cómputo de los plazos empezará a correr a partir del día hábil siguiente a aquél en que surta efectos la notificación.
+
+La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+ARTÍCULO 147 bis-J. Cuando los Participantes en los Sistemas de Ahorro para el Retiro envíen un documento digital a la Comisión, recibirán el acuse de recibo que contenga el sello digital.
+
+El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la Comisión y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará que la Comisión recibió el documento digital y se presumirá que dicho documento fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
+
+### CAPÍTULO XI. DE LA INSPECCIÓN DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
 ###### ARTÍCULO 148.
 
@@ -1623,7 +1745,7 @@ La Comisión previo análisis de los argumentos y pruebas aportadas por la visit
 
 Cuando la naturaleza de las irregularidades de que se tenga conocimiento así lo requiera, el Presidente de la Comisión dictará las medidas necesarias para su regularización y podrá designar por el tiempo que estime conveniente a uno o más inspectores o visitadores para que efectúen la supervisión respectiva, careciendo estos últimos de facultades de resolución, limitándose a informar periódicamente sobre los avances de la regularización ordenada.
 
-### CAPÍTULO XIII. DE LA INTERVENCIÓN ADMINISTRATIVA Y GERENCIAL
+### CAPÍTULO XII. DE LA VIGILANCIA DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
 ###### ARTÍCULO 163.
 
@@ -1641,7 +1763,7 @@ Además, la Comisión podrá requerir directamente a los consejeros independient
 
 La corrección de las irregularidades que se detecten, como consecuencia del ejercicio de las facultades de vigilancia, se llevará a cabo mediante el establecimiento de programas especiales, los cuales serán obligatorios para los Participantes en los Sistemas de Ahorro para el Retiro.
 
-### CAPÍTULO XIV. DE LA DISOLUCIÓN Y LIQUIDACIÓN DE LAS ADMINISTRADORAS
+### CAPÍTULO XIII. DE LA INTERVENCIÓN ADMINISTRATIVA Y GERENCIAL
 
 ###### ARTÍCULO 166.
 
@@ -1689,7 +1811,7 @@ El interventor deberá rendir un informe sobre las actividades realizadas con mo
 
 Cuando los objetivos de la intervención se hubieren alcanzado y las operaciones irregulares que la motivaron se hayan normalizado, la Comisión procederá a levantarla. Lo anterior será comunicado al representante legal de la persona intervenida mediante oficio que expida el Presidente de la Comisión.
 
-### CAPÍTULO XV. DISPOSICIONES GENERALES
+### CAPÍTULO XIV. DE LA DISOLUCIÓN Y LIQUIDACIÓN DE LAS ADMINISTRADORAS
 
 ###### ARTÍCULO 173.
 
@@ -1702,6 +1824,8 @@ Terminado el plazo previsto en el presente artículo, aquellas cuentas que no ha
 ###### ARTÍCULO 174.
 
 En el caso de que se ordene la intervención administrativa o gerencial de una Administradora o de una Sociedad de Inversión, que tenga como consecuencia la revocación de su autorización, se procederá de conformidad con lo dispuesto en el artículo 56 de la Ley, así como con lo previsto para la disolución y liquidación de las Administradoras por el artículo anterior.
+
+### CAPÍTULO XV. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 175.
 
@@ -1725,6 +1849,34 @@ La Comisión dará a conocer el límite a la participación en el mercado y la b
 
 El programa de autorregulación de las Administradoras, el cual contendrá el plan de funciones del contralor normativo y las medidas para preservar su cumplimiento, se sujetará a las disposiciones de carácter general que emita la Comisión.
 
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
+
+###### ARTÍCULO 179.
+
+Los Participantes en los Sistemas de Ahorro para el Retiro, que en términos del artículo 100 Bis de la Ley presenten programas de corrección por omisiones o contravenciones a las normas aplicables en materia de los Sistemas de Ahorro para el Retiro que deriven de los programas de autorregulación aplicados por el contralor normativo, deberán señalar en los mismos lo siguiente:
+
+I. Las omisiones o contravenciones a las normas aplicables en materia de los Sistemas de Ahorro para el Retiro en que incurrieron;
+
+II. Que el programa de corrección de que se trata no se encuentra en alguno de los supuestos establecidos en los incisos a), b) o c) del artículo 100 bis de la Ley;
+
+III. Las acciones ejecutadas por el Participante en los Sistemas de Ahorro para el Retiro para corregir la omisión o contravención a la Ley;
+
+IV. El calendario en el que se señalen las acciones futuras y el tiempo necesario para concluir el programa de corrección.
+
+El Participante en los Sistemas de Ahorro para el Retiro, una vez que haya concluido con las acciones señaladas en el calendario a que se refiere la presente fracción, deberá comunicar a la Comisión la conclusión del programa de corrección en un plazo no mayor a 3 días hábiles contado a partir de la fecha en que concluya dicho programa, a efecto de que la Comisión tome conocimiento de la corrección de la omisión o contravención a la normatividad que, en su caso, corresponda al programa de corrección.
+
+En caso de que el Participante en los Sistemas de Ahorro para el Retiro no concluya con las acciones señaladas en el calendario a que se refiere la presente fracción, el programa de corrección se considerará incumplido y, por lo tanto, no procederá el beneficio señalado en el artículo 100 bis de la Ley; de conformidad con lo anterior, la Comisión impondrá al Participante en los Sistemas de Ahorro para el Retiro la sanción que corresponda a las infracciones cometidas, en términos de lo dispuesto por los artículos 99 y 100 de la Ley;
+
+V. La infracción que en términos de lo establecido en el artículo 100 de la Ley corresponda a la omisión o contravención a que se refiere el programa de corrección que se presente, y
+
+VI. Los demás requisitos que determine la Comisión.
+
+La Comisión, en un plazo de 30 días hábiles contado a partir de la fecha de recepción del programa de corrección, deberá notificar al Participante en los Sistemas de Ahorro para el Retiro de que se trate, la procedencia o no del programa presentado, así como la clasificación de la infracción que lo motiva.
+
+De resultar procedente el programa de corrección, la Comisión impondrá como multa la cantidad que corresponda al 25% de la multa mínima prevista en la Ley conforme a la clasificación de la infracción que haya motivado dicho programa. El Participante en los Sistemas de Ahorro para el Retiro, dentro de los 15 días hábiles siguientes a la fecha en que surta efectos la notificación, deberá proceder al pago de la multa respectiva, así como presentar ante la Comisión el comprobante de pago correspondiente en el plazo señalado en el primer párrafo del artículo 101 de la Ley.
+
+En caso de que el programa de corrección presentado no cumpla con los requisitos señalados en las fracciones I a VI anteriores, se tendrá por no presentado el programa de corrección y la Comisión impondrá al Participante en los Sistemas de Ahorro para el Retiro la sanción que corresponda a las infracciones cometidas, en términos de lo dispuesto por los artículos 99 y 100 de la Ley.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1746,3 +1898,27 @@ Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y d
 Los trámites y procedimientos pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, se resolverán conforme a las disposiciones del Reglamento de la Ley de los Sistemas de Ahorro para el Retiro publicado en el Diario Oficial de la Federación el día 10 de octubre de 1996.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de abril de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE MAYO DE 2005
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión Nacional del Sistema de Ahorro para el Retiro antes de la entrada en vigor del presente Decreto, continuarán en vigor y conservarán plena validez y eficacia jurídicas, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites y procedimientos de resolución que a la fecha de entrada en vigor del presente Decreto, se encuentren pendientes se resolverán conforme a las disposiciones aplicables vigentes hasta antes de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Nacional del Sistema de Ahorro para el Retiro deberá publicar en el Diario Oficial de la Federación y en su sitio Internet la metodología de comisiones equivalentes sobre saldo a un plazo no mayor a un año a que se refiere el artículo 49 bis, adicionado al Reglamento de la Ley de los Sistemas de Ahorro para el Retiro por el presente Decreto, a más tardar treinta días hábiles después de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las acciones que lleve a cabo la Comisión Nacional del Sistema de Ahorro para el Retiro para el cumplimiento de las disposiciones del presente Decreto, se sujetarán al presupuesto aprobado para dicha Comisión, sin que implique la asignación de recursos adicionales.
