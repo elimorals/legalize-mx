@@ -4,7 +4,7 @@ identifier: "TRA-tratado-de-libre-comercio-de-america-del-norte-17-de-76"
 country: "mx"
 rank: "tratado"
 publication_date: "1993-12-08"
-last_updated: "2004-07-14"
+last_updated: "2005-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,61 +21,23 @@ issue_date: "1993-12-07"
 
 MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Modificaciones publicadas en el Diario Oficial de la Federación, el miércoles 14 de julio de 2004.
+Modificaciones publicadas en el Diario Oficial de la Federación, el martes 3 de mayo de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-El veintisiete de noviembre y tres de diciembre de dos mil dos, y el diecisiete de septiembre de dos mil tres, se adoptaron en las ciudades de Washington, D.C., Ottawa y México, las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, cuyo texto en español consta en la copia certificada adjunta.
+Que la Cámara de Senadores del Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
-Las Modificaciones mencionadas fueron aprobadas por la Cámara de Senadores del Honorable Congreso de la Unión, el veintinueve de abril de dos mil cuatro, según decreto publicado en el Diario Oficial de la Federación del veintiocho de mayo del propio año.
+DECRETO
 
-Por lo tanto, para su debida observancia, en cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, promulgo el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, el veinticinco de junio de dos mil cuatro.
+"LA CAMARA DE SENADORES DEL HONORABLE CONGRESO DE LA UNION, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTICULO 76 FRACCION I DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 
 ###### ARTICULO UNICO.
 
-Se dan a conocer los anexos 401 y 403.1 del Tratado de Libre Comercio de América del Norte, según acuerdo de la Comisión de Libre Comercio del propio Tratado:
+Se aprueban las MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, formalizadas mediante intercambio de comunicaciones los días ocho y veintidós de octubre y quince de noviembre de dos mil cuatro, entre los Gobiernos de los Estados Unidos de América, Canadá y los Estados Unidos Mexicanos, respectivamente, conforme a lo siguiente:
 
-Anexo 401
-
-Reglas de Origen Específicas Sección A - Nota General Interpretativa
-
-Para propósitos de interpretar las reglas de origen establecidas en este Anexo:
-
-(a) las nuevas fracciones arancelarias creadas para propósitos del Capítulo 4, se demuestran genéricamente en las reglas de origen específicas por medio de números de ocho dígitos compuestos por seis números y dos caracteres alfabéticos, que se refieren a la fracción arancelaria específica de cada Parte, las cuales se encuentran contenidas en la tabla al final de la Sección B de este anexo;
-
-(b) la regla específica, o el conjunto específico de reglas, que se aplica a una partida, subpartida, o fracción arancelaria se establece al lado de la partida, subpartida, o fracción arancelaria;
-
-(c) la regla aplicable a una fracción arancelaria tendrá prioridad sobre la regla aplicable a la partida o subpartida que comprende a esa fracción arancelaria;
-
-(d) el requerimiento de cambio en la clasificación arancelaria se aplica solamente a los materiales no originarios;
-
-(e) cualquier referencia a peso en las reglas para bienes comprendidos en el Capítulo 1 a 24 del Sistema Armonizado, significa peso neto excepto cuando se especifique lo contrario en la nomenclatura del Sistema Armonizado;
-
-(f) el párrafo 1 del Artículo 405 (De Minimis) no se aplica a:
-
-(i) ciertos materiales no originarios utilizados en la producción de bienes comprendidos en las siguientes clasificaciones arancelarias: Capítulo 4 del Sistema Armonizado, la partida 15.01 a 15.08, 15.12, 15.14, 15.15 o 17.01 a 17.03, la subpartida 1806.10, la fracción arancelaria 1901.10.aa (preparaciones alimenticias infantiles con un contenido de sólidos lácteos superior al 10 por ciento en peso), 1901.20.aa (mezclas y pastas, con un contenido de grasa butírica superior al 25 por ciento en peso, sin acondicionar para la venta al por menor) o 1901.90.aa (preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 10 por ciento en peso), subpartida 2009.11 a 2009.30 o 2009.90, la partida 21.05, la fracción arancelaria 2101.11.aa (café instantáneo, no aromatizado), 2106.90.bb (concentrados de jugos de una sola fruta, legumbre u hortaliza, enriquecidos con minerales o vitaminas), 2106.90.cc (mezclas de jugos concentrados de frutas, legumbres u hortalizas, enriquecidos con minerales o vitaminas), 2106.90.dd (preparaciones que contengan más del 10 por ciento en peso de sólidos lácteos), 2202.90.aa (bebidas a base de jugos de una sola fruta, legumbre u hortaliza, enriquecidas con minerales o vitaminas), 2202.90.bb (bebidas a base de mezclas de frutas, legumbres u hortalizas, enriquecidos con minerales o vitaminas) o 2202.90.cc (bebidas que contengan leche), la partida 22.07 a 22.08, la fracción arancelaria 2309.90.aa (alimentos para animales que contengan más del 10 por ciento en peso de sólidos lácteos) o 7321.11.aa (estufas o cocinas de gas), la subpartida 8415.10, 8415.20 a 8415.83, 8418.10 a 8418.21, 8418.29 a 8418.40, 8421.12, 8422.11, 8450.11 a 8450.20 u 8451.21 a 8451.29, la fracción arancelaria 8479.89.aa (compactadores de basura) u 8516.60.aa (estufas o cocinas eléctricas),
-
-(ii) un circuito modular que es un material no originario utilizado en la producción de un bien cuando el cambio de clasificación arancelaria correspondiente a este bien imponga restricciones sobre el uso de tal material no originario, y
-
-(iii) un material no originario utilizado en la producción de un bien comprendido en el Capítulo 1 a 27 del Sistema Armonizado a menos que el material no originario esté comprendido en una subpartida distinta a la del bien para el cual se está determinando el origen;
-
-(g) el párrafo 6 del Artículo 405 (De Minimis) se aplica a un bien comprendido en el Capítulo 50 a 63; y
-
-(h) se aplican las siguientes definiciones:
-
-sección se refiere a una sección del Sistema Armonizado;
-
-capítulo se refiere a un capítulo del Sistema Armonizado;
-
-partida se refiere a los primeros cuatro dígitos de la clasificación arancelaria del Sistema Armonizado;
-
-subpartida se refiere a los primeros seis dígitos de la clasificación arancelaria del Sistema Armonizado, y
-
-fracción arancelaria se refiere a los primeros ocho dígitos de la clasificación arancelaria del Sistema Armonizado adoptado por cada Parte.
-
-Sección B - Reglas de Origen Específicas
+Condimentos y especias
 
 #### Sección I Animales Vivos y Productos del Reino Animal (Capítulos 1 a 5).
 
@@ -183,69 +145,483 @@ Que en los archivos de esta Secretaría obra el original correspondiente a Méxi
 
 Extiendo la presente, en seis páginas útiles, en la Ciudad de México, Distrito Federal, el dos de junio de dos mil cuatro, a fin de incorporarla al Decreto de Promulgación respectivo.- Conste.- Rúbrica.
 
-### Capítulo 1 Animales Vivos.. (VEASE ARCHIVO ANEXO)
+### Capítulo 9, 09.01-09.10: Eliminar la regla de origen aplicable a la partida 09.01-09.10 y reemplazarla con las siguientes reglas:
 
-### Capítulo 2 Carnes y Despojos Comestibles. Partida(s) Regla(s) aplicable(s)
+09.01 Un cambio a la partida 09.01 de cualquier otro capítulo.
 
-02.01 a 02.10 Un cambio a la partida 02.01 a 02.10 de cualquier otro capítulo.
+0902.10-0902.40 Un cambio a la subpartida 0902.10 a 0902.40 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-### Capítulo 3 Pescados y Crustáceos y Moluscos y otros Invertebrados Acuáticos. Partida(s) Regla(s) aplicable(s)
+09.03 Un cambio a la partida 09.03 de cualquier otro capítulo.
 
-03.01 a 03.07 Un cambio a la partida 03.01 a 03.07 de cualquier otro capítulo.
+0904.11 Un cambio a la subpartida 0904.11 de cualquier otro capítulo.
 
-### Capítulo 4 Leche y Productos Lácteos; Huevo de Ave; Miel Natural; Productos Comestibles de Origen Animal no expresados ni comprendidos en otras partidas.. Partida(s) Regla(s) aplicable(s)
+0904.12 Un cambio a la subpartida 0904.12 de cualquier otra subpartida.
 
-04.01 a 04.10 Un cambio a la partida 04.01 a 04.10 de cualquier otro capítulo, excepto de la fracción canadiense 1901.90.31, 1901.90.32, 1901.90.33, 1901.90.34 ó 1901.90.39, fracción estadounidense 1901.90.32, 1901.90.33, 1901.90.34, 1901.90.36, 1901.90.38, 1901.90.42 ó 1901.90.43 o fracción mexicana 1901.90.03.
+0904.20 Un cambio a la subpartida 0904.20 de cualquier otro capítulo.
 
-### Capítulo 5 Los demás Productos de Origen Animal no expresados ni comprendidos en otras partidas.. Partida(s) Regla(s) Aplicable(s)
+09.05 Un cambio a la partida 09.05 de cualquier otro capítulo.
 
-05.01 a 05.11 Un cambio a la partida 05.01 a 05.11 de cualquier otro capítulo.
+0906.10 Un cambio a la subpartida 0906.10 de cualquier otro capítulo.
 
-### Capítulo 6 Plantas Vivas y Productos de la Floricultura. Partida(s) Regla(s) aplicable(s)
+0906.20 Un cambio a la subpartida 0906.20 de cualquier otra subpartida.
 
-06.01 a 06.04 Un cambio a la partida 06.01 a 06.04 de cualquier otro capítulo.
+09.07 Un cambio a un bien de la partida 09.07 de cualquier otro bien de dicha partida o de cualquier otro capítulo.
 
-### Capítulo 7 Legumbres y Hortalizas, Plantas, Raíces y Tubérculos Alimenticios. Partida(s) Regla(s) aplicable(s)
+0908.10-0909.50 Un cambio a un bien de la subpartida 0908.10 a 0909.50 de cualquier otro bien de dicha subpartida o de cualquier otro capítulo.
 
-07.01 a 07.14 Un cambio a la partida 07.01 a 07.14 de cualquier otro capítulo.
+0910.10 Un cambio a un bien de la subpartida 0910.10 de cualquier otro bien de dicha subpartida o de cualquier otro capítulo.
 
-### Capítulo 8 Frutos Comestibles; Cortezas de Agrios o de Melones. Partida(s) Regla(s) aplicable(s)
+0910.20 Un cambio a la subpartida 0910.20 de cualquier otro capítulo.
 
-08.01 a 08.14 Un cambio a la partida 08.01 a 08.14 de cualquier otro capítulo.
+0910.30 Un cambio a un bien de la subpartida 0910.30 de cualquier otro bien de dicha subpartida o de cualquier otro capítulo.
 
-### Capítulo 9 Café, Té, Yerba Mate y Especias. Partida(s) Regla(s) aplicable(s)
+0910.40 Un cambio a la subpartida 0910.40 de cualquier otro capítulo.
 
-09.01 a 09.10 Un cambio a la partida 09.01 a 09.10 de cualquier otro capítulo.
+0910.50-0910.91 Un cambio a la subpartida 0910.50 a 0910.91 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-### Capítulo 10 Cereales. Partida(s) Regla(s) aplicable(s)
+0910.99 Un cambio a semilla de eneldo, triturada o pulverizada, de la subpartida 0910.99 de semilla de eneldo, sin triturar o pulverizar, de la subpartida 0910.99 o de cualquier otro capítulo; o
 
-10.01 a 10.08 Un cambio a la partida 10.01 a 10.08 de cualquier otro capítulo.
+Un cambio a cualquier otro bien de la subpartida 0910.99 de cualquier otro capítulo.
 
-### Capítulo 11 Productos de la Molinería; Malta; Almidón y Fécula; Inulina; Gluten de Trigo. Partida(s) Regla(s) aplicable(s)
+### Capítulo 12, 12.01-12.14: Eliminar la regla de origen aplicable a la partida 12.01-12.14 y reemplazarla con las siguientes reglas:
 
-11.01 a 11.09 Un cambio a la partida 11.01 a 11.09 de cualquier otro capítulo.
+12.01-12.06 Un cambio a la partida 12.01 a 12.06 de cualquier otro capítulo.
 
-### Capítulo 12 Semillas y Frutos Oleaginosos; Semillas y Frutos Diversos; Plantas Industriales o Medicinales; Paja y Forrajes. Partida(s) Regla(s) aplicable(s)
+1207.10-1207.60 Un cambio a la subpartida 1207.10 a 1207.60 de cualquier otro capítulo.
 
-12.01 a 12.14(2) Un cambio a la partida 12.01 a 12.14 de cualquier otro capítulo.
+1207.91 Un cambio a un bien de la subpartida 1207.91 de cualquier otro bien de dicha subpartida o de cualquier otro capítulo.
 
-(2) Ver también Anexo 703.2, Sección A (10) y (11) para la partida 12.02.
+1207.99 Un cambio a la subpartida 1207.99 de cualquier otro capítulo.
 
-### Capítulo 13 Gomas, Resinas y demás jugos y Extractos Vegetales. Partida(s) Regla(s) aplicable(s)
+12.08-12.14 Un cambio a la partida 12.08 a 12.14 de cualquier otro capítulo.
 
-13.01 a 13.02 Un cambio a la partida 13.01 a 13.02 de cualquier otro capítulo.
+Carragenina
 
-### Capítulo 14 Materias Trenzabais y demás Productos de Origen Vegetal, no expresados ni comprendidos en otras partidas. Partida(s) Regla(s) aplicable(s)
+### Capítulo 13, 13.01-13.02: Eliminar la regla de origen aplicable a la partida 13.01-13.02 y reemplazarla con las siguientes reglas:
 
-14.01 a 14.04 Un cambio a la partida 14.01 a 14.04 de cualquier otro capítulo.
+13.01 Un cambio a la partida 13.01 de cualquier otro capítulo, excepto de concentrados de paja de adormidera de la subpartida 2939.11.
 
-### Capítulo 15 Grasas y Aceites Animales o vegetales; productos de su desdoblamiento, grasas alimenticias elaboradas; ceras de origen animal o vegetal.. Partida(s) Regla(s) aplicable(s)
+1302.11-1302.32 Un cambio a la subpartida 1302.11 a 1302.32 de cualquier otro capítulo, excepto de concentrados de paja de adormidera de la subpartida 2939.11.
 
-15.01 a 15.18 Un cambio a la partida 15.01 a 15.18 de cualquier otro capítulo, excepto de la partida 38.23.
+1302.39 Un cambio a carragenina de la subpartida 1302.39 de cualquier otro bien de dicha subpartida o de cualquier otro capítulo, siempre que el peso total de todos los materiales no originarios de la subpartida 1302.39 no exceda el 50 por ciento del peso total del bien; o
 
-15.20 Un cambio a la partida 15.20 de cualquier otra partida, excepto de la partida 38.23.
+Un cambio a cualquier otro bien de la subpartida 1302.39 de cualquier otro capítulo, excepto de concentrados de paja de adormidera de la subpartida 2939.11.
 
-15.21 a 15.22 Un cambio a la partida 15.21 a 15.22 de cualquier otro capítulo.
+Mezclas de condimentos y mezclas de sazonadores
+
+### Capítulo 21, 2103.30-2103.90: Eliminar la regla de origen aplicable a la subpartida 2103.30-2103.90 y reemplazarla con las siguientes reglas:
+
+2103.30 Un cambio a la subpartida 2103.30 de cualquier otro capítulo.
+
+2103.90 Un cambio a mezclas de condimentos o mezclas de sazonadores de la subpartida 2103.90 de levadura de la subpartida 2102.10 o 2102.20 o de cualquier otro capítulo; o
+
+Un cambio a cualquier otro bien de la subpartida 2103.90 de cualquier otro capítulo.
+
+Metales preciosos-Oro, Plata, Platino, Paladio y Rodio
+
+### Capítulo 71, 71.01-71.12: Eliminar la regla de origen aplicable a la partida 71.01-71.12 y reemplazarla con las siguientes reglas:
+
+71.01-71.05 Un cambio a la partida 71.01 a 71.05 de cualquier otro capítulo.
+
+7106.10-7106.92 Un cambio a la subpartida 7106.10 a 7106.92 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 7106.91, habiendo o no cambios de cualquier otra subpartida, siempre que los materiales no originarios hayan sufrido un proceso de aleación, separación electrolítica, química o térmica.
+
+71.07 Un cambio a la partida 71.07 de cualquier otro capítulo.
+
+7108.11-7108.20 Un cambio a la subpartida 7108.11 a 7108.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 7108.12, habiendo o no cambios de cualquier otra subpartida, siempre que los materiales no originarios hayan sufrido un proceso de aleación, separación electrolítica, química o térmica.
+
+71.09 Un cambio a la partida 71.09 de cualquier otro capítulo.
+
+7110.11-7110.49 Un cambio a la subpartida 7110.11 a 7110.49 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+71.11 Un cambio a la partida 71.11 de cualquier otro capítulo.
+
+71.12 Un cambio a la partida 71.12 de cualquier otra partida.
+
+Controladores de velocidad
+
+### Capítulo 85, 8504.40.bb: Eliminar la regla de origen aplicable a la fracción arancelaria 8504.40.bb y reemplazarla con la siguiente regla:
+
+8504.40.bb Un cambio a la fracción arancelaria 8504.40.bb de cualquier otra subpartida.
+
+Ensambles de circuitos modulares
+
+### Capítulo 85, 8504.90.aa: Agregar la siguiente regla de origen aplicable a la fracción arancelaria 8504.90.aa:
+
+8504.90.aa Un cambio a la fracción arancelaria 8504.90.aa de cualquier otra fracción arancelaria.
+
+Electrodomésticos Menores
+
+### Capítulo 84, 8414.51: Eliminar la regla de origen aplicable a la subpartida 8414.40-8414.80 y reemplazarla con las siguientes reglas:. 8414.40 Un cambio a la subpartida 8414.40 de cualquier otra partida; o
+
+Un cambio a la subpartida 8414.40 de la subpartida 8414.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional
+
+no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8414.51 Un cambio a la subpartida 8414.51 de cualquier otra subpartida.
+
+8414.59-8414.80 Un cambio a la subpartida 8414.59 a 8414.80 de cualquier otra partida; o
+
+Un cambio a la subpartida 8414.59 a 8414.80 de la subpartida 8414.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+### Capítulo 85, 8509.10-8509.80: Eliminar la regla de origen aplicable a la subpartida 8509.10-8509.40 y 8509.80 y reemplazarla con las siguientes reglas:
+
+8509.10-8509.30 Un cambio a la subpartida 8509.10 a 8509.30 de cualquier subpartida fuera del grupo, excepto de la partida 85.01 o fracción arancelaria 8509.90.aa; o
+
+Un cambio a la subpartida 8509.10 a 8509.30 de la partida 85.01 o la fracción arancelaria 8509.90.aa, habiendo o no cambios de cualquier subpartida fuera del grupo, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8509.40-8509.80 Un cambio a la subpartida 8509.40 a 8509.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+### Capítulo 85, 8516.10-8516.80: Eliminar la regla de origen aplicable a la subpartida 8516.10-8516.80 y reemplazarla con la siguiente regla:
+
+8516.10-8516.80 Un cambio a la subpartida 8516.10 a 8516.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+Altavoces
+
+### Capítulo 85, 8518.10-8518.21, 8518.22, 8518.29 y 8518.90: Eliminar la regla de origen aplicable a la subpartida 8518.10-8518.21, 8518.22, 8518.29 y 8518.90 y reemplazarla con las siguientes reglas:. 8518.10-8518.29 Un cambio a la subpartida 8518.10 a 8518.29 de cualquier otra partida; o
+
+Un cambio a un bien de la subpartida 8518.10 a 8518.29 de cualquier otro bien de dicha subpartida o de cualquier otra subpartida dentro de la partida 85.18, incluyendo otra subpartida dentro del grupo, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 30 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 25 por ciento, cuando se utilice el método de costo neto.
+
+8518.90 Un cambio a la subpartida 8518.90 de cualquier otra partida; o
+
+Un cambio a la subpartida 8518.90 de cualquier otra subpartida dentro de la partida 85.18, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 30 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 25 por ciento, cuando se utilice el método de costo neto.
+
+Termostatos
+
+### Capítulo 90, 9032.10-9032.89: Eliminar la regla de origen aplicable a la subpartida 9032.10-9032.89 y reemplazarla con las siguientes reglas:. 9032.10 Un cambio a la subpartida 9032.10 de cualquier otra partida; o
+
+Un cambio a un bien de la subpartida 9032.10 de cualquier otro bien de dicha subpartida o de la subpartida 9032.89 a 9032.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9032.20-9032.89 Un cambio a la subpartida 9032.20 a 9032.89 de cualquier otra partida; o
+
+Un cambio a la subpartida 9032.20 a 9032.89 de la subpartida 9032.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Partes de Partes
+
+### Capítulo 84: Eliminar la regla de origen aplicable a la subpartida 8473.30 y reemplazarla con la
+
+siguiente regla:
+
+8473.30 Un cambio a la subpartida 8473.30 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8473.30, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Capítulo 85: Eliminar la regla de origen aplicable a la subpartida 8504.90, 8505.90, 8506.90, 8507.90, 8509.90, 8511.90, 8514.90, 8516.90, 8517.90, 8529.10, 8529.90, 8530.90, 8531.90, 8532.90 y 8533.90, partida 85.38 (subpartida 8538.10-8538.90), subpartida 8540.91, 8540.99 y 8543.90 y reemplazarla con las siguientes reglas:
+
+8504.90 Un cambio a la subpartida 8504.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8504.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8505.90 Un cambio a la subpartida 8505.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8505.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8506.90 Un cambio a la subpartida 8506.90 de cualquier otra partida, excepto de la fracción arancelaria 8548.10.aa; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8506.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8507.90 Un cambio a la subpartida 8507.90 de cualquier otra partida, excepto de la fracción arancelaria 8548.10.aa; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8507.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8509.90 Un cambio a la subpartida 8509.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8509.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8511.90 Un cambio a la subpartida 8511.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8511.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8514.90 Un cambio a la subpartida 8514.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8514.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8516.90 Un cambio a la subpartida 8516.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8516.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8517.90 Un cambio a la subpartida 8517.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8517.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8529.10 Un cambio a la subpartida 8529.10 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8529.10, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8529.90 Un cambio a la subpartida 8529.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8529.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8530.90 Un cambio a la subpartida 8530.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8530.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8531.90 Un cambio a la subpartida 8531.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8531.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8532.90 Un cambio a la subpartida 8532.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8532.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8533.90 Un cambio a la subpartida 8533.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8533.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8538.10-8538.90 Un cambio a la subpartida 8538.10 a 8538.90 de cualquier otra partida; o
+
+Un cambio a la subpartida 8538.10 a 8538.90 de cualquier otra subpartida dentro del grupo, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8540.91 Un cambio a la subpartida 8540.91 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8540.91, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8540.99 Un cambio a la subpartida 8540.99 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8540.99, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8543.90 Un cambio a la subpartida 8543.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8543.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+### Capítulo 90: Eliminar la regla de origen aplicable a la subpartida 9005.90, 9006.91-9006.99, 9007.91, 9008.90, 9010.90, 9013.90, 9014.90, 9024.90, 9026.90, 9027.90, 9029.90, 9030.90 y 9032.90 y partida 90.33 y reemplazarla con las siguientes reglas:. 9005.90 Un cambio a la subpartida 9005.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9005.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9006.91-9006.99 Un cambio a la subpartida 9006.91 a 9006.99 de cualquier otra partida; o
+
+Un cambio a un bien de la subpartida 9006.91 a 9006.99 de cualquier otro bien de dicha subpartida, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9007.91 Un cambio a la subpartida 9007.91 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9007.91, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9008.90 Un cambio a la subpartida 9008.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9008.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9010.90 Un cambio a la subpartida 9010.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9010.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9013.90 Un cambio a la subpartida 9013.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9013.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9014.90 Un cambio a la subpartida 9014.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9014.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9024.90 Un cambio a la subpartida 9024.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9024.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9026.90 Un cambio a la subpartida 9026.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9026.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9027.90 Un cambio a la subpartida 9027.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9027.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9029.90 Un cambio a la subpartida 9029.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9029.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9030.90 Un cambio a la subpartida 9030.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9030.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+9032.90 Un cambio a la subpartida 9032.90 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9032.90, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+90.33 Un cambio a la partida 90.33 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la partida 90.33, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Juguetes
+
+### Capítulo 95, 95.01-95.05: Eliminar la regla de origen aplicable a la partida 95.01, subpartida 9502.10, 9502.91-9502.99 y partida 95.03-95.05 y reemplazarla con la siguiente regla:. 9501.00-9505.90 Un cambio a la subpartida 9501.00 a 9505.90 de cualquier otro capítulo; o
+
+Un cambio a un bien de la subpartida 9501.00 a 9505.90 de cualquier otro bien de dicha subpartida o de cualquier otra subpartida dentro del Capítulo 95, incluyendo otra subpartida dentro del grupo, habiendo o no cambios de cualquier otro capítulo, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+México, D.F., a 16 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.-
+
+Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 ### Capítulo 16 Preparaciones de Carne, de Pescado o de Crustáceos, de Moluscos o de otros Invertebrados Acuáticos. Partida(s) Regla(s) aplicable(s)
 
