@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2000-09-12"
+last_updated: "2005-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2000.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE SEPTIEMBRE DE 2000 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 285 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2000.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2009,6 +2007,12 @@ Los padres están obligados a dar alimentos al hijo, si no es casado o si su có
 
 A falta o por imposibilidad de los padres, la obligación recae en los demás parientes en línea recta que estuvieren más próximos en grado.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2005)</small>
+
+###### Art. 320 Bis.
+
+Los hijos mayores de edad, así como los emancipados, están obligados a dar alimentos a sus padres cuando éstos carezcan de recursos para su sustento y además, por su avanzada edad o por padecer alguna afección física o mental que los incapacite para trabajar, estén imposibilitados para obtenerlos por sí mismos. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+
 ###### Art. 321.
 
 A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
@@ -2019,15 +2023,17 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2005)</small>
 
 ###### Art. 323.
 
-Tratándose de adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos. En la adopción plena se aplicará lo dispuesto por los artículos 321, 322 y 324 de este Código.
+Tratándose de adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen los padres y los hijos consanguíneos. En la adopción plena se aplicará lo dispuesto por los artículos 320, 321, 321 Bis (sic), 322 y 324 de este Código.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2005)</small>
 
 ###### Art. 324.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales. En cuanto a los adultos mayores, además de incluir todos los gastos necesarios para su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
 
 ###### Art. 325.
 
@@ -7935,7 +7941,7 @@ Testamento público abierto, es el que se otorga ante Notario y tres testigos id
 
 ###### Art. 1420.
 
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si esta conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 ###### Art. 1421.
 
@@ -15948,6 +15954,12 @@ Primero: El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
 P.O. 22 DE MAYO DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE MAYO DE 2005.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
