@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2003-06-04"
+last_updated: "2005-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACION DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -117,9 +117,11 @@ Asimismo podrán convenir con la Federación, formas de financiamiento conjunto 
 
 Los Gobiernos Estatal y Municipal, en el ámbito de sus respectivas competencias y atribuciones y las instituciones en que el propio Estado descentralice funciones educativas, están obligados a prestar servicios educativos para que todos los habitantes del Estado puedan cursar la educación preescolar, la primaria y la secundaria; asimismo, están facultados para prestar servicios de educación normal y los de formación, actualización, capacitación y superación profesional para los maestros.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 6.
 
-Todos los habitantes del Estado deben cursar la educación primaria y secundaria. Es obligación de los padres y tutores, lograr que sus hijos y pupilos, cursen tal instrucción.
+Todos los habitantes del Estado deben cursar la educación preescolar, primaria y secundaria. Es obligación de los padres y tutores, lograr que sus hijos y pupilos, cursen tal instrucción.
 
 ###### ARTICULO 7.
 
@@ -203,7 +205,7 @@ V.- Establecer un sistema permanente de investigación educativa que permita la 
 
 VI.- Vigilar que la educación que impartan los particulares en planteles incorporados al Sistema Educativo Estatal, se sujeten a las disposiciones de las leyes aplicables;
 
-VII.- Vigilar que en los planteles educativos de la Entidad, se de estricta observancia a la Ley sobre el Escudo, la Bandera y el Himno Nacional, sancionando de acuerdo con el reglamento respectivo a quienes infrinjan esta disposición;
+VII.- Vigilar que en los planteles educativos de la Entidad, se dé estricta observancia a la Ley sobre el Escudo, la Bandera y el Himno Nacional, sancionando de acuerdo con el reglamento respectivo a quienes infrinjan esta disposición;
 
 VIII.- Promover los convenios de cooperación internacional o acuerdos interinstitucionales en materia educativa, científica, tecnológica, artística, humanística, cultural, de educación física y deporte, en términos de lo que establecen las disposiciones legales aplicables;
 
@@ -229,7 +231,9 @@ XVIII.- Promover la ampliación de los servicios educativos, fomentando la creac
 
 XIX.- Expedir constancias y certificados de estudios, otorgar diplomas, títulos y grados académicos del Sistema Educativo Estatal, con base en las disposiciones legales aplicables;
 
-XX.- Otorgar, negar y revocar la autorización a los particulares para impartir educación primaria y secundaria, normal y demás para la formación de educación básica;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+XX.- Otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria y secundaria, normal y demás para la formación de educación básica;
 
 XXI.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica orientada al bien común y recomendar que sus contenidos coadyuven a los fines del proceso educativo;
 
@@ -485,7 +489,7 @@ La educación especial se ofrecerá en planteles educativos estatales, municipal
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+### CAPITULO I. DE LOS PADRES DE FAMILIA
 
 ###### ARTICULO 47.
 
@@ -525,7 +529,7 @@ III.- Será bivalente el que atienda las dos finalidades señaladas en las dos f
 
 En la impartición de la educación media superior con preparación de conocimientos técnicos especializados y formación para el trabajo, las autoridades educativas locales podrán escuchar las opiniones del sector productivo para la elaboración de planes y programas de estudio que permitan a los educandos adquirir los conocimientos, habilidades y destrezas que faciliten su incorporación al desarrollo económico tanto estatal como nacional.
 
-### CAPITULO I. DE LOS PADRES DE FAMILIA
+### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
 ###### ARTICULO 52.
 
@@ -803,7 +807,9 @@ VII.- Opinar en relación con las contraprestaciones que las escuelas particular
 
 Son obligaciones de quienes ejercen la patria potestad o tutela:
 
-I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación primaria y la secundaria;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación preescolar, primaria y la secundaria;
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
@@ -891,7 +897,9 @@ En el Estado de Morelos los medios de comunicación masiva en el desarrollo de s
 
 Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades.
 
-Por lo que concierne a la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica, deberán obtener previamente en cada caso, la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
+
+Por lo que concierne a la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros de educación básica deberán obtener previamente en cada caso la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
 ###### ARTICULO 100.
 
@@ -1007,9 +1015,13 @@ II.- Suspender el servicio educativo sin que medie motivo justificado, caso fort
 
 III.- Suspender clases en días y horas no autorizadas por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-IV.- No utilizar los libros de texto que la Secretaría de Educación Pública autorice y determine para la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-V.- Incumplir los lineamientos generales para el uso de material didáctico para la educación primaria y secundaria;
+IV.- No utilizar los libros de texto que la secretaría de educación pública autorice y determine para la educación preescolar, primaria y secundaria;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+V.- Incumplir los lineamientos generales para el uso de material didáctico para la educación preescolar, primaria y secundaria;
 
 VI.- Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
 
@@ -1025,7 +1037,9 @@ XI.- Oponerse a las actividades de evaluación, supervisión y vigilancia, así 
 
 XII.- Ostentarse como plantel incorporado sin estarlo;
 
-XIII.- Impartir la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+XIII.- Impartir la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
 
 XIV.- Incumplir con lo dispuesto por el artículo 102 de la presente Ley, y
 
@@ -1184,3 +1198,11 @@ P.O. 4 DE JUNIO DE 2003.
 Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Segundo.- Se concede al Titular del Poder ejecutivo un plazo de 60 días naturales para que expida y publique el reglamento respectivo.
+
+P.O. 4 DE MAYO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+
+TERCERO. El gobierno del Estado celebrará con el gobierno Federal un convenio de colaboración que le permita cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en el artículo anterior.
