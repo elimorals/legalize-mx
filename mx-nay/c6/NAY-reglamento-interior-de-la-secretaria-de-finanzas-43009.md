@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-finanzas-43009"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-29"
-last_updated: "2004-05-05"
+last_updated: "2005-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2005.
 
 Reglamento publicado en la Sexta Sección en el Periódico Oficial del Estado de Nayarit, el sábado 29 de diciembre de 2001.
 
@@ -57,7 +57,9 @@ II. Subsecretaría de Finanzas;
 
 III. Dirección General de Ingresos:
 
-IV. Dirección General de Egresos;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+IV. Dirección General de Tesorería;
 
 V. Dirección General de Administración;
 
@@ -65,13 +67,17 @@ VI. Dirección de Catastro e Impuesto Predial;
 
 VII. Dirección Jurídica;
 
-VIII. Dirección de Informática;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-IX. Dirección de Organización y Métodos;
+VIII. Dirección General de Informática y Metodología Administrativa;
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-X. Dirección de Recepción Control y Auditoría de Recursos Federalizados.
+IX. Dirección General de Contabilidad y Presupuesto;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+X. Dirección de Auditoria Fiscal.
 
 Así como las demás unidades administrativas señaladas en e (sic) presente reglamento, los manuales de organización que para ta (sic) efecto expidan y se encuentren contemplados en el Presupuesto de Egresos del Estado
 
@@ -373,99 +379,49 @@ XLVIII. Vigilar que los servidores públicos de su adscripción, que manejen fon
 
 XLIX. Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
+
 ###### Artículo 10.
 
-Corresponde a la Dirección General de Egresos:
+Corresponde a la Dirección General de Tesorería:
 
-I. Integrar el anteproyecto de Presupuesto de Egresos del Gobierno del Estado, incluyendo los presupuestos de gasto y de inversión pública y presentarlo al Secretario para su revisión y análisis, verificando que sea congruente con los objetivos del Plan Estatal de Desarrollo y de los programas operativos de la Administración Pública Estatal.
+I.- Proponer las políticas para la operación y. ejecución de los convenios de servicios financieros que requiera el Gobierno de la Entidad y vigilar su cumplimiento.
 
-II. Analizar los programas anuales de gasto e inversión pública de las dependencias y entidades paraestatales y, en su caso, proponer las medidas que aseguren su congruencia con el Plan Estatal de Desarrollo y los programas que de él deriven.
+II.- Participar de manera coordinada con las diferentes instituciones de crédito, para verificar el establecimiento de cuentas bancarias, de inversión y demás que opere el Gobierno del Estado con dichas instituciones.
 
-III. Establecer normas, sistemas y procedimientos para el ejercicio del Presupuesto de Egresos del Estado, tanto por gasto como por inversión pública.
+III.- Operar y controlar las cuentas bancarias del Poder Ejecutivo Estatal e invertir en instrumentos financieros productivos los recursos estatales.
 
-IV. Someter a consideración de su superior jerárquico para su aprobación, las normas y lineamientos que deberán observar las dependencias y entidades paraestatales, para la formulación y ejercicio del presupuesto de egresos, que permita el desarrollo de la planeación financiera del Gobierno del Estado y la evaluación eficaz del gasto y de la inversión pública, para la toma de decisiones gubernamentales.
+IV.- Actualizar altas y bajas al padrón de pagos electrónicos, verificando que éstas sean previamente certificadas por los bancos en donde radica la cuenta solicitada de abono.
 
-V. Evaluar el avance mensual, así como el comportamiento global y sectorial del ejercicio del Presupuesto de Egresos, verificando su congruencia con el Plan de (sic) Estatal de Desarrollo y los programas que de él derivan.
+V.- Entregar los recursos financieros a los Poderes Legislativo y Judicial, así como, a las diversas dependencias y entidades paraestatales de la Administración Pública Estatal, conforme a los presupuestos autorizados por el Congreso Local.
 
-VI. Liberar previa autorización y verificación de la disponibilidad de recursos, de acuerdo con la normatividad aplicable, el ejercicio de los presupuestos de gasto y de inversión pública de las dependencias y entidades paraestatales, así como de los ayuntamientos, cuando se trate en este ultimo caso, de recursos estatales.
+VI.- Elaborar la programación de los pagos que deberá efectuar el Gobierno del Estado por diferentes conceptos, tomando como base los documentos de ejecución presupuestaria debidamente autorizados y todo aquel documento, que una vez revisado, proceda su pago.
 
-VII. Organizar y establecer un sistema de información presupuestal veraz y oportuna para la toma de decisiones del Ejecutivo del Estado.
+VII.- Determinar y establecer los pagos de acuerdo a los programas y presupuestos aprobados, con cargo a las partidas presupuestales correspondientes.
 
-VIII. Asesorar a las dependencias y entidades paraestatales en la elaboración de sus Presupuestos de Egresos, que se integraran al del Gobierno Estatal.
+VIII.- Elaborar y supervisar que la emisión de cheques y pagos se apeguen al presupuesto aprobado que permitan generar la emisión de los diferentes reportes de egresos y pagos efectuados por parte del Gobierno del Estado y, en su caso, cancelar y reponer los cheques expedidos por la Secretaría, con base en las disposiciones legales aplicables.
 
-IX. Estructurar y supervisar el seguimiento de los programas y proyectos previstos en el Presupuesto de Egresos, bajo los criterios de racionalidad, austeridad y disciplina presupuestal, para el logro de procesos óptimos, formulando calendario de visitas a las dependencias del Poder Ejecutivo.
+IX.- Entregar a los Municipios los recursos que les correspondan derivado de las participaciones federales, conforme lo establece la Ley de Coordinación Fiscal y lo que decrete al respecto el Congreso Local.
 
-X. Establecer y supervisar el sistema de seguimiento y evaluación sobre recursos de inversión estatales asignados a los municipios de la entidad.
+X.- Analizar las solicitudes de anticipos a cuenta de sus participaciones que presenten los Municipios y proponer al Secretario el otorgamiento de ese apoyo, en caso de que proceda en términos de lo señalado en la ley de la materia y el presupuesto de egresos correspondiente.
 
-XI. Efectuar el seguimiento presupuestal de los programas de inversión y de gasto público, supervisando que su ejecución se lleve a cabo de conformidad con lo establecido en las disposiciones legales.
+XI.- Enterar a los Municipios las cantidades que la Secretaría recaude por concepto de ingresos tributarios municipales, con base en los convenios de colaboración administrativa que al efecto se tengan celebrados.
 
-XII. Registrar y reportar al Secretario, las afectaciones presupuestales por renglón de gasto público, para el seguimiento programático correspondiente.
+XII.- Registrar las obligaciones contingentes del Estado y prever los recursos para su cumplimiento.
 
-XIII. Revisar y emitir su opinión a su superior jerárquico sobre los expedientes técnicos que justifican los diferentes presupuestos de inversión pública elaborados por las dependencias y entidades paraestatales y Municipios, cuando el Estado efectúe aportaciones a éstos.
+XIII.- Auxiliar al Titular de la Secretaría, en el ámbito de su competencia, en la suscripción de garantías que el Gobierno del Estado otorgue para garantizar sus obligaciones de pago.
 
-XIV. Emitir opinión respecto de las solicitudes de ampliación del gasto operativo de las dependencias y entidades paraestatales del Ejecutivo y de transferencia presupuestal para inversión pública.
+XIV.- Determinar las fuentes de financiamiento para los proyectos de inversión, con base al análisis del mercado crediticio que realice.
 
-XV. Proponer las políticas para la operación y ejecución de los convenios de servicios financieros que requiera el Gobierno de la Entidad y vigilar su cumplimiento.
+XV.- Asesorar a los Municipios en la gestión y contratación de créditos o financiamientos.
 
-XVI. Participar de manera coordinada con las diferentes instituciones de crédito, para verificar el establecimiento de cuentas bancarias, de inversión y demás que opere el Gobierno del Estado con dichas instituciones.
+XVI.- Analizar las conciliaciones mensuales de las diferentes cuentas bancarias proponiendo los ajustes que se deriven para su aplicación contable.
 
-XVII. Operar y controlar las cuentas bancarias del Poder Ejecutivo Estatal e invertir en instrumentos financieros productivos los recursos estatales, previo acuerdo de su superior jerárquico y conforme a las normas respectivas.
+XVII.- Concertar, previa autorización de su superior jerárquico, la contratación de créditos y financiamientos en los términos de la legislación aplicable.
 
-XVIII. Analizar las conciliaciones mensuales de las diferentes cuentas bancarias proponiendo los ajustes que se deriven para su aplicación contable.
+XVIII.- Recibir, concentrar, custodiar y manejar los fondos y valores del estado, elaborar los reportes diarios de entrada y salida de fondos, para su registro contable, así como, determinar el flujo de efectivo para el gasto público, debiendo reportar periódicamente al secretario, de la posición financiera de la Hacienda Estatal.
 
-XIX. Actualizar altas y bajas al padrón de pagos electrónicos, verificando que éstas sean previamente certificadas por los bancos en donde radica la cuenta solicitada de abono.
-
-XX. Entregar los recursos financieros a los Poderes Legislativo y Judicial, así como, a las diversas dependencias y entidades paraestatales de la Administración Pública Estatal, conforme a los presupuestos autorizados por el Congreso Local.
-
-XXI. Elaborar la programación de los pagos que deberá efectuar el Gobierno del Estado por diferentes conceptos, conforme a la legislación aplicable, tomando como base los documentos de ejecución presupuestaria debidamente autorizados y todo aquel documento, que una vez revisado, proceda a su pago.
-
-XXII. Determinar y establecer los pagos de acuerdo a los programas y presupuestos aprobados, con cargo a las partidas presupuestales correspondientes.
-
-XXIII. Elaborar y supervisar que la emisión de cheques y pagos se apeguen a los procedimientos legales correspondientes, que permitan generar la emisión de los diferentes reportes de egresos y pagos efectuados por parte del Gobierno del Estado y, en su caso, cancelar, y reponer los cheques expedidos por la Secretaría, con base en las disposiciones legales aplicables.
-
-XXIV. Entregar a los Municipios los recursos que les correspondan derivado de las participaciones federales, conforme lo establece la Ley de Coordinación Fiscal y lo que decrete al respecto el Congreso Local.
-
-XXV. Analizar las solicitudes de anticipos a cuenta de sus participaciones que presenten los Municipios y proponer al Secretario el otorgamiento de ese apoyo, en caso de que proceda en términos de lo señalado en la ley de la materia y el presupuesto de egresos correspondiente.
-
-XXVI. Enterar a los Municipios las cantidades que la Secretaría recaude por concepto de ingresos tributarios municipales, con base en los convenios de colaboración administrativa que al efecto se tenga celebrados.
-
-XXVII. Registrar las obligaciones contingentes del Estado y prever los recursos para su cumplimiento.
-
-XXVIII. Auxiliar al Titular de la Secretaría, en el ámbito de su competencia, en la suscripción de garantías que el Gobierno del Estado otorgue para garantizar sus obligaciones de pago.
-
-XXIX. Presentar al Secretario el programa anual de endeudamiento estatal, con base a las disposiciones legales respectivas y los montos autorizados por el Congreso.
-
-XXX. Determinar las fuentes de financiamiento para los proyectos de inversión, con base al análisis del mercado crediticio que realice.
-
-XXXI. Concertar, previa autorización de su superior jerárquico, la contratación de créditos y financiamientos y llevar a cabo el registro y control de la deuda pública del Estado, informando al Secretario periódicamente sobre la situación que guardan las amortizaciones de capital y el pago de intereses.
-
-XXXII. Hacer el análisis financiero sobre la procedencia del otorgamiento de avales por parte del Gobierno del Estado a favor de los municipios y entidades paraestatales y llevar su registro y seguimiento, conforme a las disposiciones legales aplicables.
-
-XXXIII. Asesorar a los Municipios en la gestión y contratación de créditos o financiamientos y efectuar el registro de la deuda pública municipal.
-
-XXXIV. Afectar las participaciones de los Municipios, derivadas del Sistema Nacional de Coordinación Fiscal, cuando las hayan otorgado en garantía de pago de sus obligaciones.
-
-XXXV. Proponer y operar el sistema de contabilidad gubernamental del Estado, dándolo a conocer a las diferentes dependencias y entidades paraestatales para la correcta y oportuna rendición de sus cuentas.
-
-XXXVI. Recibir, concentrar, custodiar y manejar los fondos y valores del Estado, elaborar los reportes diarios de entrada y salida de fondos, para su registro contable, así como, determinar el flujo de efectivo para el pago del gasto público, debiendo reportar periódicamente al Secretario, de la posición financiera de la Hacienda Estatal.
-
-XXXVII. Recabar, analizar y registrar la información en materia presupuestal y contable que las dependencias y entidades paraestatales le envíen.
-
-XXXVIII. Proponer al Secretario, para su autorización, las solicitudes de adecuación presupuestal para gasto público, que requieran las dependencias del Ejecutivo del Estado.
-
-XXXIX. Elaborar informes periódicos sobre los recursos disponibles de la hacienda estatal que permita identificar un equilibrio financiero entre los ingresos y egresos.
-
-XL. Emitir y analizar periódicamente los estados financieros de las operaciones realizadas por el Gobierno del Estado.
-
-XLI. Integrar la estadística básica de la información financiera, presupuestal y contable de la Administración Publica Estatal.
-
-XLII. Consolidar y analizar la información financiera, presupuestal y contable que generen las dependencias y entidades paraestatales, para la integración de la cuenta pública de la Hacienda del Estado, que debe enviar el Ejecutivo a la Legislatura, conforme se establece en las leyes aplicables.
-
-XLIII. Llevar a cabo la glosa preventiva de los ingresos y egresos del Estado.
-
-XLIV. Conciliar con el Organo de Fiscalización Superior del Poder legislativo, la información contenida en la cuenta pública de la Hacienda Estatal.
-
-Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
+XIX.- Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
 
 ###### Artículo 11.
 
@@ -535,11 +491,57 @@ XXXI. Dictaminar sobre la inutilidad para el servicio público de los bienes mue
 
 XXXII. Programar, documentar y cumplimentar los fallos de las licitaciones públicas y concursos, para enajenar los bienes muebles o inmuebles, patrimonio del Estado, que ya no sean útiles para el servicio público, de conformidad con los procedimientos previstos en la ley respectiva.
 
-XXXIII. Establecer las políticas y lineamientos bajo las cuales deberá operar el Centro de Desarrollo Infantil.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-XXXIV. Supervisar y vigilar el funcionamiento del Centro de Desarrollo Infantil, garantizando la calidad del servicio, así como la atención y cuidados adecuados a los infantes.
+XXXIII. Operar y controlar la asignación de becas derivadas de los diversos programas estatales, de conformidad con las disposiciones que regulan la materia.
 
-XXXV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+XXXIV. Coordinar y aplicar el Programa de Becas Económicas que se otorguen a alumnos de escasos recursos y buen aprovechamiento, inscritos en escuelas oficiales en los niveles básicas, media básica, media superior y superior.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+XXXV. Elaborar y aplicar un programa de becas a estudiantes que destaquen en alguna rama del deporte.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XXXVI. Coordinar, aplicar y dar seguimiento al programa de becas que se otorguen con motivo de los convenios celebrados con las instituciones educativas privadas incorporadas a la Secretaría de Educación Pública, para apoyar a alumnos que tengan un alto aprovechamiento escolar.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XXXVII. Convenir con las organizaciones sindicales de los trabajadores al servicio del Estado y Municipios y entidades descentralizadas de carácter estatal la instrumentación de un programa para el otorgamiento de becas a hijos de trabajadores afiliados a los sindicatos, que tengan alto aprovechamiento escolar.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XXXVIII. Difundir a través de los medios de comunicación apropiados, los requisitos que deben cumplir los aspirantes a la obtención de becas otorgadas por parte del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XXXIX. Contar con el registro actualizado anualmente de becarios por parte del Estado, por Municipios y niveles educativos, que permita un control eficiente y consulta oportuna de la información correspondiente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XL. Elaborar y enviar oportunamente a la Dirección de Administración y Desarrollo de Personal, la información que contenga los movimientos de altas o bajas que afecten la plantilla de becarios, para la realización de nóminas y emisión de cheques para su pago.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XLI. Expedir credenciales para la identificación de los becarios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XLII. Proponer al Secretario el otorgamiento de becas que atiendan a casos específicos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XLIII. Establecer las políticas y lineamientos bajo las cuales deberá operar el Centro de Desarrollo Infantil.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XLIV. Supervisar y vigilar el funcionamiento del Centro de Desarrollo Infantil, garantizando la calidad del servicio, así como la atención y cuidados adecuados a los infantes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XLV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
 ###### Artículo 12.
 
@@ -671,9 +673,11 @@ XLI. Notificar sus actos y resoluciones, en términos de las leyes respectivas.
 
 XLII. Las demás, que en su carácter de autoridad fiscal, le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2005)</small>
+
 ###### Artículo 14.
 
-Corresponde a la Dirección de Informática:
+Corresponde a la Dirección General de Informática y Metodología Administrativa:
 
 I. Elaborar, desarrollar, implantar, asesorar y promover el desarrollo de los programas informáticos de las dependencias y entidades de la Administración Pública Estatal.
 
@@ -701,31 +705,103 @@ XII. Desarrollar y administrar la infraestructura de comunicaciones para los sis
 
 XIII. Formular las políticas y los procedimientos que aseguren la integridad y confidencialidad de la información automatizada.
 
-XIV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
+
+XIV. Desarrollar los estudios y análisis relativos y dictaminar sobre la procedencia de la creación, modificación o disolución de las unidades administrativas de las dependencias y entidades paraestatales del Ejecutivo, a fin de racionalizar la estructura orgánica de la Administración Pública Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XV. Elaborar y aprobar en coordinación con las demás dependencias estatales, los manuales administrativos y apoyar en la formulación e integración de sus anteproyectos de reglamentos interiores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XVI. Coordinar la ejecución de acciones y proyectos encaminados a mejorar y modernizar las áreas administrativas estatales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XVII. Asesorar y apoyar técnicamente a las dependencias y entidades del Ejecutivo, a través de la formulación, instrumentación y, en su caso, dictaminación de estudios y proyectos en materia de organización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XVIII. Analizar permanentemente la organización y funcionamiento de las dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XIX. Practicar visitas de verificación, en coordinación con la Dirección General de Ingresos, a las oficinas de recaudación, con el objeto de analizar el debido cumplimiento de las políticas, lineamientos, criterios, normas, manuales y demás disposiciones administrativas que regulan su funcionamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2005)</small>
+
+XX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
 
 ###### Artículo 15.
 
-Corresponde a la Dirección de Organización y Métodos:
+Corresponde a la Dirección General de Contabilidad y Presupuesto:
 
-I. Desarrollar los estudios y análisis relativos y dictaminar sobre la procedencia de la creación, modificación o disolución de las unidades administrativas de las dependencias y entidades paraestatales del Ejecutivo, a fin de racionalizar la estructura orgánica de la Administración Pública Estatal.
+I.- Integrar el anteproyecto de Presupuesto de Egresos del Gobierno del Estado, incluyendo los presupuestos de gasto y de inversión pública y presentarlo al Secretario para su revisión y análisis, verificando que sea congruente con los objetivos del Plan Estatal de Desarrollo y de los programas operativos de la Administración Pública Estatal.
 
-II. Elaborar y aprobar en coordinación con las demás dependencias estatales, los manuales administrativos y apoyar en la formulación e integración de sus anteproyectos de reglamentos interiores.
+II.- Analizar los programas anuales de gasto e inversión pública de las dependencias y entidades paraestatales y, en su caso, proponer las medidas que aseguren su congruencia con el Plan Estatal de Desarrollo y los programas que de el se deriven.
 
-III. Coordinar la ejecución de acciones y proyectos encaminados a mejorar y modernizar las áreas administrativas estatales.
+III.- Establecer normas, sistemas y procedimientos para el ejercicio del Presupuesto de Egresos del Estado, tanto por gasto como por inversión pública.
 
-IV. Asesorar y apoyar técnicamente a las dependencias y entidades del Ejecutivo, a través de la formulación, instrumentación y, en su caso, dictaminación de estudios y proyectos en materia de organización.
+IV.- Someter a consideración de su superior jerárquico para su aprobación, las normas y lineamientos que deberán observar las dependencias y entidades paraestatales, para la formulación y ejercicio del presupuesto de egresos, que permita el desarrollo de la planeación financiera del Gobierno del Estado y la evaluación eficaz del gasto y de la inversión pública, para la toma de decisiones gubernamentales.
 
-V. Analizar permanentemente la organización y funcionamiento de las dependencias y entidades de la Administración Pública Estatal.
+V.- Evaluar el avance mensual, así como el comportamiento global y sectorial del ejercicio del Presupuesto de Egresos, verificando su congruencia con el Plan Estatal de Desarrollo y los programas que de el derivan.
 
-VI. Practicar visitas de verificación, en coordinación con la Dirección General de Ingresos, a las oficinas de recaudación, con el objeto de analizar el debido cumplimiento de las políticas, lineamientos, criterios, normas, manuales y demás disposiciones administrativas que regulan su funcionamiento.
+VI.- Liberar previa autorización y verificación de la disponibilidad de recursos, de acuerdo con la normatividad aplicable, el ejercicio de los presupuestos de gasto y de inversión pública de las dependencias y entidades paraestatales, así corno de los ayuntamientos, cuando se trate en este último caso, de recursos estatales.
 
-VII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+VII.- Organizar y establecer un sistema de información presupuestas (sic) veraz y oportuno para la toma de decisiones del Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2004)</small>
+VIII.- Asesorar a las dependencias y entidades paraestatales en la elaboración de sus Presupuestos de Egresos, que se integrarán al del Gobierno Estatal.
+
+IX.- Estructurar y supervisar el seguimiento de los programas y proyectos previstos en el Presupuesto de Egresos, bajo los criterios de racionalidad, austeridad y disciplina presupuestal, para el logro de procesos óptimos, formulando calendario de visitas a las dependencias del Poder Ejecutivo.
+
+X.- Establecer y supervisar el sistema de seguimiento y evaluación sobre recursos de inversión estatales asignados a los municipios de la entidad.
+
+XI.- Efectuar el seguimiento presupuestal de los programas de inversión y de gasto público, supervisando que su ejecución se lleve a cabo de conformidad con lo establecido en las disposiciones legales.
+
+XII.- Registrar y reportar al Secretario, las afectaciones presupuestales por renglón de gasto público, para el seguimiento programático correspondiente.
+
+XIII.- Revisar y emitir su opinión a su superior jerárquico sobre los expedientes técnicos que justifican los diferentes presupuestos de inversión pública elaborados por las dependencias y entidades paraestatales y Municipios cuando el Estado efectúe aportaciones a éstos.
+
+XIV.- Emitir opinión respecto a las solicitudes de ampliación del gasto operativo de las dependencias y entidades paraestatales del Ejecutivo y de transferencia presupuestal para inversión pública.
+
+XV.- Presentar al Secretario el programa anual de endeudamiento estatal, con base a las disposiciones legales respectivas y los montos autorizados por el Congreso.
+
+XVI.- Llevar a cabo el registro y control de la deuda pública del Estado, informando al Secretario periódicamente sobre la situación que guardan las amortizaciones de capital y el pago de intereses.
+
+XVII.- Hacer el análisis financiero sobre la procedencia del otorgamiento de avales por parte del Gobierno del Estado a favor de los municipios y entidades paraestatales y llevar su registro y seguimiento, conforme a las disposiciones legales aplicables.
+
+XVII.- Hacer el análisis financiero sobre la procedencia del otorgamiento de avales por parte del Gobierno del estado a favor de los municipios y entidades paraestatales y llevar su registro y seguimiento, conforme a las disposiciones legales aplicables.
+
+XVIII.- Afectar las participaciones de los Municipios, derivadas del Sistema Nacional de Coordinación Fiscal, cuando las hayan otorgado en garantía de pago de sus obligaciones.
+
+XIX.- Proponer y operar el sistema de contabilidad gubernamental del Estado, dándolo a conocer a las diferentes dependencias y entidades paraestatales para la correcta y oportuna rendición de sus cuentas.
+
+XX.- Recabar, analizar y registrar la información en materia presupuestal contable que las dependencias y entidades paraestatales le envíen.
+
+XXI.- Proponer al Secretario, para su autorización, las solicitudes de adecuación presupuestal para gasto público, que requieran las dependencias del Ejecutivo del Estado.
+
+XXII.- Elaborar informes periódicos sobre los recursos disponibles de la hacienda estatal que permita identificar un equilibrio financiero entre ingresos y egresos.
+
+XXIII.- Emitir y analizar periódicamente los estados financieros de las operaciones realizadas por el Gobierno del Estado.
+
+XXIV.- Integrar la estadística básica de la información financiera, presupuestal y contable de la Administración Pública Estatal.
+
+XXV.- Consolidar y analizar la información financiera, presupuestal y contable que generen las dependencias y entidades paraestatales, para la integración de la cuenta pública de la Hacienda del Estado, que debe enviar el Ejecutivo a la Legislatura, conforme se establece en las leyes aplicables.
+
+XXVI.- Llevar a cabo la glosa preventiva de los ingresos y egresos del Estado.
+
+XXVII.- Conciliar con el Órgano de Fiscalización Superior del Poder Legislativo, la información contenida en la cuenta pública de la Hacienda Estatal.
+
+XXVIII.- Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2005)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Dirección de Recepción Control y Auditoria de Recursos Federalizados:
+Corresponde a la Dirección de Auditoria Fiscal:
 
 I. Participar en el ámbito de su competencia y por delegación expresa del Secretario en los órganos del Sistema Nacional de Coordinación Fiscal.
 
@@ -733,7 +809,7 @@ II. Aplicar los sistemas y procedimientos de los programas en materia de fiscali
 
 III. Participar, en el ámbito de su competencia, en la concertación de los convenios de colaboración administrativa en materia fiscal, que el Poder Ejecutivo del Estado celebre con el Gobierno Federal o con los ayuntamientos.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE MAYO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2004)</small>
 
 IV. Administrar contribuciones federales, a fin de ejercer, en el ámbito de su competencia, las facultades y atribuciones derivadas del Sistema Nacional de Coordinación Fiscal, en términos de lo previsto en los convenios de colaboración administrativa en materia fiscal, que el Poder Ejecutivo del Estado celebre con la Federación.
 
@@ -769,7 +845,7 @@ XIX. Determinar el importe de los créditos fiscales federales que resulten a ca
 
 XX. Imponer sanciones por infracciones a las disposiciones fiscales federales, en términos de las leyes respectivas y los convenios suscritos con la Federación.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE MAYO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2004)</small>
 
 XXI. Notificar a los contribuyentes, responsables solidarios y demás obligados sobre los actos administrativos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen los créditos fiscales derivados de las mismas, en los términos de la legislación fiscal aplicable y los convenios de coordinación y colaboración celebrados con la Federación.
 
@@ -789,29 +865,7 @@ XXVIII. Las demás que, en su carácter de autoridad fiscal, le señalen otros o
 
 ###### Artículo 17.
 
-Corresponde a la Unidad de Becas.
-
-I. Operar y controlar la asignación de becas derivadas de los diversos programas estatales, de conformidad con las disposiciones que regulan la materia.
-
-II. Coordinar y aplicar el Programa de Becas Económicas que se otorguen a alumnos de escasos recursos y buen aprovechamiento, inscritos en escuelas oficiales en los niveles básica, media básica, media superior y superior.
-
-III. Elaborar y aplicar un programa de becas a estudiantes que destaquen en alguna rama del deporte.
-
-IV. Coordinar, aplicar y dar seguimiento al programa de becas que se otorguen con motivo de los convenios celebrados con las instituciones educativas privadas incorporadas a la Secretaría de Educación Pública, para apoyar a alumnos que tengan un alto aprovechamiento escolar.
-
-V. Convenir con las organizaciones sindicales de los trabajadores al servicio del Estado y Municipios y entidades descentralizadas de carácter estatal la instrumentación de un programa para el otorgamiento de becas a hijos de trabajadores afiliados a los sindicatos, que tengan alto aprovechamiento escolar.
-
-VI. Difundir a través de los medios de comunicación apropiados, los requisitos que deben cumplir los aspirantes a la obtención de becas otorgadas por parte del Poder Ejecutivo del Estado.
-
-VII. Contar con el registro actualizado anualmente de becarios por parte del Estado, por municipios y niveles educativos, que permita un control eficiente y consulta oportuna de la información correspondiente.
-
-VIII. Elaborar y enviar oportunamente a la Dirección de Administración y Desarrollo de Personal, la información que contengan los movimientos de altas o bajas que afecten la plantilla de becarios, para la realización de nóminas y emisión de cheques para su pago.
-
-IX. Expedir credenciales para la identificación de los becarios.
-
-X. Proponer al Secretario el otorgamiento de becas que atiendan a casos específicos.
-
-XI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+(DEROGADO, P.O. 4 DE MAYO DE 2005)
 
 ### CAPITULO VI. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -882,3 +936,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Aquellas disposiciones que hagan mención a la Dirección de Auditoría Fiscal se entenderán referidas a la Dirección de Recepción Control y Auditoría de Recursos Federalizados.
+
+P.O. 4 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas disposiciones que hagan mención a la Dirección de Recepción Control y Auditoria de Recursos Federalizados se entenderán referidas a la Dirección de Auditoría Fiscal.
+
+###### ARTICULO TERCERO.
+
+Los asuntos pendientes de resolución por alguna de las áreas que desaparecen o se fusionan, serán atendidas por las áreas o dependencias a quienes correspondan por razón de competencia.
