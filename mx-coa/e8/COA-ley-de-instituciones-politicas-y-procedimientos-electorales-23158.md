@@ -4,7 +4,7 @@ identifier: "COA-ley-de-instituciones-politicas-y-procedimientos-electorales-231
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2005-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2628 +21,2378 @@ state: "COA"
 ---
 # LEY DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
+Estatuto publicado en la Quinta Sección del Periódico Oficial del Estado Puebla, el viernes 3 de agosto de 2001.
 
-EL C. ENRIQUE MARTÍNEZ Y MARTÍNEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+ACUERDO del Consejo General del Instituto Electoral del Estado, por el que aprueba el Estatuto del Servicio Electoral Profesional del Instituto Electoral del Estado.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA,
+Al margen un sello con una leyenda que dice: Instituto Electoral del Estado.- Secretaría General.
 
-DECRETA:
+ANTECEDENTES.
 
-NÚMERO 176.-
+CONSIDERANDO.
 
-LEY DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+Por lo anteriormente expuesto, y en ejercicio de la facultad que le confiere el artículo 89 fracción LIII del Código de Instituciones y Procesos Electorales del Estado de Puebla, el Consejo General del Instituto Electoral del Estado emite el siguiente:
 
-# LIBRO PRIMERO. PRINCIPIOS GENERALES
+ACUERDO
 
-## TÍTULO PRIMERO. BASES FUNDAMENTALES
+PRIMERO.- El Consejo General del Instituto Electoral del Estado aprueba el Estatuto del Servicio Electoral Profesional del Instituto Electoral del Estado, que como anexo corre agregado al presente para formar parte integrante del mismo, atendiendo a los razonamientos vertidos en los considerandos números IV y V de este Acuerdo.
 
-###### Artículo 1°.
+SEGUNDO.- El Consejo General de este Organismo Electoral determina que la designación de Titular de la Subdirección del Servicio Electoral Profesional deberá ser ratificada por este Órgano Central, en términos de lo expresado por el considerando número VII de este Acuerdo.
 
-Esta ley es de orden público, interés social y de observancia obligatoria en todo el régimen interior del estado, en materia de instituciones políticas y procedimientos electorales.
+TERCERO.- El Consejo General del Instituto Electoral del Estado determinará la definitividad de los nombramientos del Secretario General, Director General, Titular de la Contraloría Interna y Directores de la Junta Ejecutiva, en atención a lo establecido en el considerando número VIII de este Acuerdo.
 
-###### Artículo 2°.
+CUARTO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
 
-Esta ley tiene por objeto:
+Este Acuerdo fue aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado, en sesión ordinaria de fecha veinte de julio de dos mil uno.- Presidente.- LICENCIADO ALEJANDRO ARTURO NECOECHEA GOMEZ.- Rúbrica.- Secretario General.- MAESTRO JOSE ANTONIO BRETON BETANZOS.- Rúbrica.
 
-I. Establecer los mecanismos para garantizar el libre ejercicio de los derechos político-electorales de la ciudadanía.
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO
 
-II. Regular la organización política de los poderes legislativo y ejecutivo y de los Ayuntamientos del Estado.
+# LIBRO PRIMERO. DEL SERVICIO ELECTORAL PROFESIONAL
 
-III. Regular lo relacionado a la organización, funcionamiento, derechos y obligaciones de los partidos políticos nacionales y estatales, que debidamente acreditados participen en las elecciones locales.
+## TÍTULO PRIMERO. DEL SERVICIO
 
-IV. Regular la preparación, organización, desarrollo, vigilancia, calificación y validez de los procesos electorales, ordinarios y extraordinarios, que se celebren para elegir al Gobernador del Estado, a los diputados del Congreso del Estado y a los presidentes municipales, síndicos y regidores de los Ayuntamientos del Estado.
+###### ARTÍCULO 1.
 
-###### Artículo 3°.
+Las disposiciones de este Estatuto son de orden público y su observancia le corresponde al personal del Instituto Electoral del Estado.
 
-El ejercicio de la función electoral, se basa en los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad, objetividad, equidad y profesionalismo.
+###### ARTÍCULO 2.
 
-###### Artículo 4°.
+Las disposiciones de este Estatuto reglamentan las normas constitucionales y del Código de Instituciones y Procesos Electorales del Estado de Puebla, relativas al Servicio Electoral Profesional y a las Condiciones Generales de Trabajo del personal del Instituto Electoral del Estado.
 
-El Estado de Coahuila de Zaragoza, es independiente, libre y soberano en lo correspondiente a su administración y régimen interior. Es parte integrante del pacto federal de los Estados Unidos Mexicanos, y su forma de gobierno estatal y municipal es democrática, republicana, representativa y popular, y se determina por los principios, valores y normas del estado humanista, social y democrático de derecho que emana de la Constitución Política del Estado.
+###### ARTÍCULO 3.
 
-###### Artículo 5°.
+La interpretación de las disposiciones de este Estatuto se realizará conforme a los criterios gramatical, sistemático y funcional, observando lo dispuesto por el último párrafo del artículo 14 de la Constitución Federal.
 
-El Poder Público del Estado como expresión constitutiva, concreta y dinámica de la soberanía, emana del pueblo y se instituye para su beneficio en un marco de respeto a la dignidad, igualdad y libre desarrollo de la persona humana, sus derechos fundamentales y sus garantías constitucionales y legales.
+###### ARTÍCULO 4.
 
-El pueblo, en quien reside esencial y originariamente la soberanía que deposita formalmente en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado, tendrá siempre el derecho de elegir por medio del sufragio popular a los diputados del Congreso del Estado, al gobernador del Estado y a los presidentes municipales, síndicos y regidores de los Ayuntamientos del Estado, en los términos que establece esta ley y demás disposiciones aplicables.
+Para los efectos del presente Estatuto, se entenderá por:
 
-En los casos extraordinarios, la designación de los representantes populares del gobierno estatal o municipal y la designación de los integrantes del Poder Judicial y de los organismos públicos autónomos, se realizará en los términos que disponga la Constitución Política del Estado y demás disposiciones aplicables.
+Ascenso: El movimiento del personal del Servicio y Administrativo a un Cargo superior en la estructura ocupacional;
 
-###### Artículo 6°.
+Consejo: El Consejo General del Instituto;
 
-La función electoral es una función estatal de orden público. Su ejercicio compete al Estado, con la corresponsabilidad de los partidos políticos, nacionales y estatales, y de los ciudadanos, en los términos de las disposiciones aplicables.
+Consejero Presidente: El Consejero Presidente del Consejo General del Instituto;
 
-###### Artículo 7°.
+Comisión: La Comisión Permanente Administrativa y de Servicio Electoral Profesional;
 
-La preparación, organización, desarrollo, vigilancia y validez de las elecciones locales estará a cargo del Estado, por conducto del Instituto Electoral y de Participación Ciudadana de Coahuila, cuya organización y funcionamiento se regula en su ley y en las demás disposiciones aplicables.
+Cuerpos: La forma en que se clasifica y organiza la función institucional dentro del Servicio Electoral Profesional con la finalidad de racionalizar las estructuras ocupacionales en un ámbito de profesionalización;
 
-###### Artículo 8°.
+Cargos: Las denominaciones que se atribuyen en la estructura ocupacional para una función específica desempeñada y que se definen en cualquier área del Catálogo General de Cargos del Instituto;
 
-El sufragio popular, como derecho político fundamental, expresa la voluntad soberana del pueblo de Coahuila. Sufragar y, por ende, votar en las elecciones locales constituye un derecho y una obligación ciudadana.
+Código: El Código de Instituciones y Procesos Electorales del Estado de Puebla;
 
-###### Artículo 9°.
+Catálogo: El Catálogo General de Cargos del Instituto;
 
-El sufragio popular es un derecho universal, cuyo ejercicio será libre, secreto y directo.
+Director General: El Director General del Instituto;
 
-Este derecho se ejercerá, por medio de elecciones locales libres, auténticas y periódicas, para elegir a los ciudadanos que integrarán los cargos de elección popular para diputados del Congreso del Estado, para gobernador del Estado y para presidentes municipales, síndicos y regidores de los Ayuntamientos del Estado, en los términos de esta ley y demás disposiciones aplicables.
+Direcciones: Las Direcciones que integran la Junta Ejecutiva;
 
-###### Artículo 10.
+Dirección Administrativa: La Dirección Administrativa y de Servicio Electoral Profesional;
 
-Para todos los efectos de esta ley, se entenderá por:
+Departamento: El Departamento de Formación y Desarrollo, adscrito a la Subdirección del Servicio Electoral Profesional;
 
-I. El Instituto: el Instituto Electoral y de Participación Ciudadana de Coahuila a que se refiere el artículo 27 de la Constitución Política del Estado.
+Estatuto: El Estatuto del Servicio Electoral Profesional;
 
-II. El Tribunal Electoral: el Tribunal Electoral del Estado de Coahuila a que se refiere el artículo 136 de la Constitución Política del Estado.
+Instituto: El Instituto Electoral del Estado de Puebla;
 
-## TÍTULO SEGUNDO. LOS DERECHOS Y OBLIGACIONES POLÍTICO-ELECTORALES DE LOS CIUDADANOS COAHUILENSES
+Junta: La Junta Ejecutiva del Instituto;
 
-###### Artículo 11.
+Mérito: Evaluación objetiva de habilidades y conocimientos;
 
-Son derechos político-electorales de los ciudadanos coahuilenses:
+Personal del Instituto: El personal del Servicio, Administrativo y Eventual del Instituto;
 
-I. Votar y ser votado en las elecciones locales para ocupar los cargos públicos de elección popular.
+Personal del Servicio: Los miembros del Servicio Electoral Profesional del Instituto;
 
-II. Constituir partidos políticos y asociaciones políticas en los términos de esta ley, pertenecer libremente a ellos y fortalecer su vida democrática.
+Personal Administrativo: El personal con plaza presupuestal que no pertenece al Servicio Electoral Profesional;
 
-III. Participar como observadores de las actividades electorales durante la jornada electoral, en la forma y términos que establece esta ley.
+Personal Eventual: El personal con plaza presupuestal que se contrata por obra y tiempo determinado, ya sea para participar en los procesos electorales, o bien en programas o proyectos institucionales, incluyendo los de índole administrativa.
 
-IV. Los demás que establezca esta ley u otras disposiciones aplicables.
+Programa: El Programa de Formación y Desarrollo Profesional;
 
-###### Artículo 12.
+Promoción: El movimiento ascendente del personal del Servicio y Administrativo en una estructura presupuestal de Niveles y Grados respectivamente;
 
-Para ejercer el derecho de voto, los ciudadanos deben reunir los requisitos siguientes:
+Niveles: Sistema de profesionalización en el que se establecen los parámetros que determinan el aumento salarial con base en el grado de especialización de cada Cargo dentro de los Cuerpos del Servicio Electoral Profesional; así como el aumento salarial del personal administrativo;
 
-I. Satisfacer los requisitos que fijan los artículos 34 y 13 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado, respectivamente.
+Subdirección del Servicio: La Subdirección del Servicio Electoral Profesional, adscrita a la Dirección Administrativa y de Servicio Electoral Profesional;
 
-II. Estar inscrito en el Registro Federal de Electores.
+Subdirección Administrativa: La Subdirección Administrativa, adscrita a la Dirección Administrativa y de Servicio Electoral Profesional;
 
-III. Contar con credencial para votar con fotografía.
+Servicio: El Servicio Electoral Profesional; y
 
-IV. Aparecer en la lista nominal de electores.
+Unidades Técnicas: La Secretaría General y la Contraloría Interna.
 
-###### Artículo 13.
+###### ARTÍCULO 5.
 
-Son obligaciones de los ciudadanos coahuilenses:
+El presente Estatuto tiene por objeto:
 
-I. Inscribirse en el Registro Federal de Electores y tramitar ante el mismo el otorgamiento de la credencial para votar con fotografía.
+I. Reglamentar la materia del Servicio en términos de las disposiciones contenidas en el Código;
 
-II. Votar en la casilla que corresponda a su sección electoral, salvo las excepciones que esta ley establezca.
+II. Regular los procesos necesarios para administrar el Servicio Electoral Profesional a través de los procesos de Ingreso; Evaluación; Capacitación, Formación, Desarrollo; Incentivos y Sanción;
 
-III. Desempeñar los cargos de elección popular para los que resulten electos.
+III. Establecer derechos, obligaciones, prohibiciones y condiciones generales de trabajo de todo el personal del Instituto; y
 
-IV. Participar, para integrar las mesas directivas de casilla, en los cursos de capacitación electoral que impartan los órganos competentes del Instituto.
+IV. Organizar y desarrollar el Servicio para que cumpla con eficiencia y eficacia, las actividades, objetivos y principios del Instituto.
 
-V. Desempeñar las funciones electorales para las que fueren requeridos. Estas funciones tendrán el carácter de obligatorias y gratuitas. Por tanto, los ciudadanos designados deberán asistir a los cursos de capacitación que para tal efecto imparta el Instituto, a través de sus órganos competentes.
+###### ARTICULO 6.
 
-Sólo el Instituto, por conducto de sus órganos competentes, podrá dispensar del servicio electoral a los ciudadanos que cuenten con 70 años o más de edad o bien, cuando acrediten la existencia de una causa justificada o de fuerza mayor.
+El Servicio tiene por objeto:
 
-###### Artículo 14.
+I. Administrar los procesos para el desempeño profesional del personal calificado necesario para desarrollar la función electoral bajo los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia; así como cumplir con los fines del Instituto, de acuerdo con las necesidades de operación y la disponibilidad presupuestal;
 
-Son impedimentos para ser elector:
+II. Garantizar los principios de la administración del Servicio: legalidad, mérito, libertad, igualdad, crítica racional, publicidad, responsabilidad, rendición de cuentas, autonomía, desconcentración y coordinación;
 
-I. Estar sujeto a proceso penal por delito doloso sancionado con pena privativa de la libertad. El impedimento surtirá efectos, a partir de que se dicte el auto de formal prisión.
+III. Procurar el cumplimiento del otorgamiento de garantías laborales y certeza jurídica al personal del Instituto; y
 
-II. Estar cumpliendo sentencia condenatoria que imponga pena privativa de la libertad.
+IV. Dotar al Instituto del personal calificado para garantizar su desempeño profesional y los fines para los que fue creado.
 
-III. Estar sujeto a interdicción judicial o encontrarse interno en establecimientos, públicos o privados, para enfermos mentales o toxicómanos.
+### CAPÍTULO SEGUNDO. DE LA OPERACIÓN DEL SERVICIO
 
-IV. No tener un modo honesto de vivir declarado por la autoridad judicial competente.
+###### ARTÍCULO 7.
 
-V. Haber sido condenado, por sentencia ejecutoria, a la suspensión o pérdida de sus derechos políticos, por todo el tiempo que dure su sanción.
+El servicio es un sistema de carrera compuesto por los procesos de Ingreso; Capacitación; Formación y Desarrollo Profesional; Evaluación; Promoción, Ascenso e Incentivos; y Sanción.
 
-VI. Los demás que señale esta ley.
+###### ARTÍCULO 8.
 
-## TÍTULO TERCERO. LAS ELECCIONES DE GOBERNADOR, DIPUTADOS DEL CONGRESO Y DE LOS MIEMBROS DE LOS AYUNTAMIENTOS DEL ESTADO
+El Servicio se organizará y desarrollará a través de la Dirección Administrativa, quien se apoyará para tal fin en la Subdirección del Servicio, de conformidad con las disposiciones del Código, del presente Estatuto y de los acuerdos, lineamientos y demás disposiciones que emitan el Consejo y la Junta en el ámbito de su competencia.
 
-### CAPÍTULO PRIMERO. LOS REQUISITOS DE ELEGIBILIDAD
+###### ARTÍCULO 9.
 
-###### Artículo 15.
+La operación y desarrollo del Servicio deberá basarse en la igualdad de oportunidades, los conocimientos necesarios, el desempeño adecuado, la evaluación permanente, la transparencia de los procesos, el apego a los principios rectores de la función estatal de organizar las elecciones y la competencia de sus miembros.
 
-Para desempeñar un cargo de elección popular, además de lo previsto en la Constitución Política del Estado, se deberán cumplir los requisitos siguientes:
+###### ARTÍCULO 10.
 
-I. Tener y acreditar, mediante el documento correspondiente, su calidad de elector.
+Las Direcciones y Unidades Técnicas del Instituto deberán proporcionar a la Dirección Administrativa la información y el apoyo necesario para el adecuado cumplimiento de sus funciones.
 
-II. Satisfacer los requisitos que exijan la Constitución General de la República.
+## TÍTULO SEGUNDO. DE LOS PROCESOS SUSTANTIVOS DEL SERVICIO
 
-III. Tener veintiún años de edad cumplidos al día de la elección, salvo en el caso del gobernador del Estado que deberá contar con, cuando menos, treinta años.
+###### ARTÍCULO 11.
 
-IV. Tener un modo honesto de vivir.
+La Dirección Administrativa contará con un archivo documental integrado y actualizado que estará bajo su responsabilidad, el cual contendrá un expediente de cada miembro del Servicio en activo.
 
-V. No ser servidor público, a menos que se haya separado noventa días antes del día de la elección para el caso de gobernador y sesenta y ocho días antes al día de la elección para el caso de elección de diputados y miembros del Ayuntamientos (sic).
+###### ARTÍCULO 12.
 
-Los miembros de los Comités Distritales y Municipales Electorales del Instituto, si desean participar como candidatos a un puesto de elección popular, deberán separarse del cargo sesenta días antes del inicio del proceso electoral que corresponda.
+La antigüedad del personal del Servicio para efectos de la relación de trabajo se computará a partir de la fecha en que haya ingresado al Instituto. La antigüedad en el Servicio, se computará a partir de la obtención de la titularidad y sólo se tomarán en cuenta los periodos efectivos en los que se desempeñe de manera efectiva.
 
-Los consejeros electorales del Instituto y los magistrados del Tribunal Electoral del Poder Judicial, no podrán ser postulados para cargos de elección popular, estatales o municipales, durante el tiempo de su encargo o para el período de elección inmediato a la separación del mismo.
+### CAPÍTULO TERCERO. DE LA COMPETENCIA
 
-VI. No haber sido diputado propietario en el período inmediato anterior a la elección, en los casos de la elección de diputados. Los que hayan sido electos diputados suplentes, podrán ser electos como propietarios en el período inmediato, siempre que no hayan sido llamados a sustituir a su propietario y, por tal motivo, hubieren ejercido funciones.
+###### ARTÍCULO 13.
 
-VII. No haber sido presidente, regidor o síndico por elección popular ni sustituto en el período inmediato anterior a aquél de la elección, en el caso de la elección de Ayuntamientos.
+Corresponde al Consejo:
 
-VIII. No haber sido, en el caso de la elección de gobernador, Gobernador Constitucional del Estado por elección ordinaria o extraordinaria; en cuyo caso, por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+I. Vigilar y aprobar las políticas y programas para la organización, instrumentación y desarrollo del Servicio;
 
-No podrá ser electo como gobernador del Estado para el período inmediato, el gobernador sustituto o el designado para cubrir el período en caso de falta absoluta del constitucional; así como el gobernador interino o el provisional, siempre que desempeñe el cargo los últimos dos años del período.
+II. Aprobar las convocatorias para ingresar al Servicio;
 
-Los partidos políticos establecerán en sus estatutos las formas democráticas de postulación de candidatos a cargos de elección popular en sus procesos o elecciones internas. Estas formas garantizarán los derechos político-electorales de los militantes y simpatizantes de los partidos políticos. Los partidos políticos podrán exigir como requisitos adicionales a los previstos en esta ley para que un ciudadano pueda ser postulado como candidato, aquellos que se refieran sólo al respaldo de sus militantes y de sus órganos directivos o de una determinada duración o militancia en el mismo.
+III. Aprobar las modificaciones, reformas o adiciones al Estatuto, que para tal efecto le proponga la Junta a través del Consejero Presidente;
 
-### CAPÍTULO SEGUNDO. LOS SISTEMAS POLÍTICO-ELECTORALES
+IV. Facultar a la Dirección Administrativa, para organizar, implementar y desarrollar el Servicio;
 
-###### Artículo 16.
+V. Requerir a la Comisión, a través de su Presidente, los informes específicos en materia del Servicio que considere necesarios; y
 
-El Poder Legislativo se deposita para su ejercicio en una asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
+VI. Las demás que le confiera el Código y el presente Estatuto.
 
-El Congreso del Estado se renovará cada tres años y se compondrá de veinte diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales, y quince que serán electos por el principio de representación proporcional, en los términos de las disposiciones aplicables.
+###### ARTÍCULO 14.
 
-###### Artículo 17.
+Corresponde al Consejero Presidente:
 
-El ejercicio del Poder Ejecutivo del Estado se deposita en un solo ciudadano que se denomina Gobernador del Estado de Coahuila de Zaragoza, y que es electo por medio del sufragio popular, bajo el sistema de mayoría relativa en toda la entidad, en los términos de las disposiciones aplicables.
+I. Suscribir convenios con instituciones, para impartir cursos a los aspirantes y miembros del Servicio;
 
-###### Artículo 18.
+II. Presidir la Junta e informar al Consejo de los trabajos de la misma referentes al Servicio;
 
-Los Ayuntamientos se integrarán en la forma prevista por la Constitución Política del Estado y el Código Municipal para el Estado.
+III. Someter a la aprobación del Consejo a propuesta del Director General las convocatorias para el ingreso al Servicio; y
 
-Cada municipio estará gobernado por un Ayuntamiento, cuyos miembros serán electos conforme al sistema de mayoría relativa y de representación proporcional, en los términos de las disposiciones aplicables.
+IV. Las demás que le confiera el Código y el presente Estatuto.
 
-### CAPÍTULO TERCERO. EL SISTEMA DE MAYORÍA RELATIVA PARA LA INTEGRACIÓN DEL CONGRESO DEL ESTADO
+## TÍTULO TERCERO. DEL INGRESO
 
-###### Artículo 19.
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-Para la elección de diputados de mayoría relativa, el territorio del Estado se dividirá en veinte distritos electorales, cuya demarcación territorial se establecerá mediante acuerdo tomado por el Consejo General del Instituto, a más tardar el mes de noviembre del año anterior a la elección de que se trate, conforme a las bases siguientes:
+###### ARTÍCULO 15.
 
-I. Se procurará que el número de ciudadanos no difiera del veinte por ciento en más o en menos, del cociente que resulte de dividir la lista nominal de electores del Estado con corte al treinta y uno de octubre del año anterior a la elección de que se trate, entre el número de distritos electorales.
+Corresponde a la Junta:
 
-II. Tener continuidad geográfica.
+I. Rendir con oportunidad al Consejo, a través del Consejero Presidente, los informes de actividades del Servicio;
 
-III. Incluir íntegro, sin fraccionarse, el territorio de cada uno de los municipios que comprenda. Sólo se exceptúan de este requisito los municipios cuya población sea superior al cociente a que se refiere la fracción I de este artículo. En todo caso, un mismo municipio formará parte de tantos distritos electorales, como número de veces comprenda su población electoral el mencionado cociente.
+II. Proponer al Consejo a través del Consejero Presidente, los proyectos de modificaciones, reformas o adiciones al Estatuto;
 
-IV. Tener como cabecera el municipio que cuente con mejor infraestructura de comunicación en la demarcación de que se trate.
+III. Fijar a propuesta de la Dirección Administrativa, una vez hechas las sugerencias pertinentes por la Comisión, la operación de los procesos del Servicio, conforme a las políticas y programas generales aprobados por el Consejo;
 
-###### Artículo 20.
+IV. Evaluar el desempeño del Servicio y de los procesos que contempla, considerando los informes que para tal efecto le presente la Dirección Administrativa;
 
-Por cada uno de los candidatos a diputados de mayoría relativa, los partidos políticos registrarán un suplente que deberá cumplir con los mismos requisitos que el propietario.
+V. Conocer y aprobar las propuestas de análisis de los Cargos exclusivos del Servicio que presente la Dirección Administrativa;
 
-Los partidos políticos impulsarán la equidad de género, por lo que el registro de candidatos tanto para propietarios como para suplentes, a diputados de mayoría relativa no deberá exceder del 70% por ciento de un mismo género. En caso de que el partido político o coalición no pueda cumplir con lo anterior, se estará a lo que señala el artículo 21.
+VI. Aprobar el diseño curricular de los cursos de formación, capacitación y actualización para aspirantes, miembros del Servicio y del personal Eventual;
 
-### CAPÍTULO CUARTO. EL SISTEMA DE REPRESENTACIÓN PROPORCIONAL PARA LA INTEGRACIÓN DEL CONGRESO DEL ESTADO
+VII. Aprobar y emitir los acuerdos de Incorporación al Servicio que le presente la Dirección Administrativa a propuesta de la Subdirección del Servicio;
 
-###### Artículo 21.
+IX. Otorgar la titularidad a los miembros del Servicio;
 
-Todos los partidos políticos o coaliciones, podrán participar en la asignación de diputados de representación proporcional, que se contienen en la Constitución Política del Estado y conforme a las fórmulas, reglas, porcentajes específicos, rondas de asignación, requisitos y demás procedimientos previstos en esta ley.
+X. Aprobar el diseño de los exámenes para los procedimientos de reclutamiento y selección del personal del Servicio, Administrativo y Eventual que proponga para tal efecto el Departamento;
 
-Esta asignación se hará preferentemente entre los candidatos que contendieron en las fórmulas de mayoría y no alcanzaron la votación mayoritaria en sus respectivos distritos electorales. Asimismo, los partidos políticos o coaliciones podrán optar por incluir en la lista de preferencias o fórmula de asignación que presenten para la asignación de diputados de representación proporcional, una fórmula que comprenda a ciudadanos que no figuren como candidatos en las fórmulas de mayoría relativa, por cada diez candidatos de mayoría registrados en igual número de distritos del estado.
+XI. Emitir las autorizaciones de Disponibilidad y Reincorporación de los miembros del Servicio;
 
-La asignación se efectuará atendiendo a la lista de preferencias o fórmula de asignación, o ambas en un esquema mixto, que presente cada partido político al Instituto, dentro de los cinco días siguientes a la fecha en que concluya el término para que los órganos competentes resuelvan sobre el registro de candidatos. Dicha lista o fórmula de asignación se publicará en el Periódico Oficial del Gobierno del Estado, y no podrá ser objeto de sustitución, salvo causa de fuerza mayor, previo acuerdo del Instituto.
+XII. Aprobar los proyectos de Catálogo General de Cargos del Instituto, y Manual de Organización y remitirlos al Consejo para su aprobación; y
 
-En el caso de que los partidos políticos o coaliciones opten únicamente por una lista de preferencias para la asignación de diputados de representación proporcional, no podrán registrar por ese principio más del setenta por ciento de candidatos de un mismo género. Se exceptúan de esta disposición las listas de preferencias conformadas por los partidos políticos a través de procedimientos democráticos de selección de candidatos.
+XIII. Las demás que le confiera el Código y el presente Estatuto.
 
-La lista de preferencias de candidaturas de representación proporcional se conformarán por bloques de tres personas, los cuales no deberán exceder del 70% de un mismo género.
+### CAPÍTULO SEGUNDO. DE LA OPERACIÓN DEL SERVICIO
 
-En el caso de que los partidos políticos o coaliciones no cumplan con lo previsto en el último párrafo del artículo 20 de esta ley, el Instituto al realizar el procedimiento de asignación de los diputados de representación proporcional, asignará al género subrepresentado, en forma preferente, la primera diputación de representación proporcional a favor del partido político o coalición omisas, de entre las personas que figuren en orden de prelación en la lista de preferencia o fórmula de asignación, para enseguida continuar, en su caso, el procedimiento con dicha lista de preferencia o fórmula de asignación en los términos señalados por dicho partido político o coalición conforme a los párrafos que anteceden.
+###### ARTICULO 16.
 
-Para reformar, adicionar o derogar las normas previstas en este capítulo, se requerirá de la aprobación de las dos terceras partes de la totalidad de los miembros del Congreso del Estado. En caso contrario, las reformas, adiciones o derogaciones legislativas serán invalidas.
+Corresponde a la Comisión:
 
-###### Artículo 22.
+I. Conocer, analizar y hacer sugerencias al anteproyecto de políticas y programas, así como los objetivos generales de los procesos del Servicio, antes de su presentación a la Junta;
 
-Para la elección de diputados de representación proporcional, se constituirá una circunscripción electoral cuya demarcación será el estado.
+II. Proponer a la Dirección Administrativa, para su oportuna presentación a la Junta, modificaciones, reformas o adiciones al Estatuto del Servicio;
 
-###### Artículo 23.
+III. Presentar los informes; dictámenes o proyectos de resolución que le solicite el Consejo;
 
-Ningún partido político o coalición podrá contar con más de veinte diputados por ambos principios. Excepto en el caso de que obtenga el triunfo en los veinte distritos electorales en el cual tendrá derecho a una diputación adicional de representación proporcional.
+IV. Solicitar al Director General su colaboración en las tareas encomendadas a la Comisión;
 
-###### Artículo 24.
+V. Solicitar a la Dirección Administrativa la información necesaria para el cumplimiento de sus tareas;
 
-Para poder participar en la asignación de diputados de representación proporcional, los partidos políticos o coaliciones deberán cumplir los requisitos siguientes:
+VI. Conocer, con suficiente oportunidad antes de su presentación a la Junta, y emitir opinión sobre los anteproyectos o las propuestas de cambio de la organización y normas del funcionamiento operativo de los procesos del Servicio;
 
-I. Registrar candidatos a diputados por mayoría relativa, en por lo menos diez distritos electorales.
+VII. Conocer y opinar sobre las actividades de la Dirección Administrativa relacionadas con los procesos del Servicio;
 
-II. Señalar el orden de asignación de los candidatos que aparezcan en las listas o fórmulas de representación proporcional.
+VIII. Supervisar, en los términos que establezca el Consejo, el desarrollo de las funciones o de los proyectos del Departamento en las áreas de atención que le corresponda y solicitar la incorporación de análisis, estudios e investigaciones específicas en el programa de trabajo del Departamento;
 
-III. Haber alcanzado como mínimo el dos porciento de la votación válida emitida del estado. Para los efectos de esta ley, se entiende por votación válida emitida el total de los votos depositados en las urnas en el estado, una vez deducidos los votos nulos.
+IX. Supervisar las funciones del Departamento relacionadas con el desarrollo del personal del Servicio, Administrativo y Eventual del Instituto; y
 
-###### Artículo 25.
+X. Las demás que le confiera el Código y el presente Estatuto.
 
-Sólo a los partidos políticos o coaliciones que hubieren satisfecho los requisitos previstos en el artículo anterior, les podrán ser asignados diputados de representación proporcional, conforme a las fórmulas de porcentaje específico, cociente electoral y resto mayor, que se aplicarán conforme a las bases siguientes:
+###### ARTÍCULO 17.
 
-I. Para la primera ronda de asignación se procederá a aplicar el procedimiento de porcentaje específico en la circunscripción electoral, para lo cual se asignará un diputado a todo aquel partido político o coalición que habiendo cubierto los requisitos anteriores y que, además, no hubiere alcanzado ninguna diputación por mayoría relativa en un distrito electoral, su votación contenga, al menos, el dos porciento de la votación válida emitida en el estado.
+Corresponde al Director General:
 
-En el caso de que el número de partidos políticos o coaliciones que cumplan estos requisitos, exceda al de curules por repartir, se les asignarán diputaciones, en forma decreciente, dependiendo del resultado de la votación alcanzada por cada uno de ellos, hasta agotar las diputaciones por distribuir.
+I. Supervisar a la Dirección Administrativa en la orientación, coordinación y supervisión de las acciones de la Subdirección del Servicio;
 
-II. Si agotado el procedimiento de la primera ronda, aún quedaren diputaciones por repartir, se continuará con la segunda ronda aplicando el procedimiento de porcentaje específico en la circunscripción electoral, para lo cual se asignará, en forma decreciente según su votación y una vez deducidos los votos utilizados conforme a la fracción I de este artículo, un diputado a todo aquel partido político o coalición que habiendo obtenido un diputado en la primera ronda de asignación, o bien que tan sólo hubiere obtenido el triunfo por mayoría relativa en un distrito electoral, su votación contenga, al menos, el cuatro porciento de la votación válida emitida en el estado.
+II. Nombrar, con base en los procedimientos establecidos en este Estatuto, a los integrantes del Servicio, personal Administrativo y Eventual;
 
-III. Si después de realizada la asignación a que se refiere la fracción anterior quedaren diputaciones por asignar, se empleará el procedimiento de cociente electoral, para lo cual se procederá a obtener la votación relativa que será la suma total de las votaciones obtenidas por los partidos políticos o coaliciones con derecho a diputaciones de representación proporcional una vez descontada la votación utilizada en los procedimientos anteriores, la que se dividirá entre el número de diputaciones pendientes por asignar para obtener el cociente electoral. Una vez hecho lo anterior, se asignarán tantas curules como número de veces contenga su votación restante al cociente electoral.
+III. Determinar las vacantes de Incorporación Temporal y Provisional del Servicio, personal Administrativo y Eventual;
 
-Para tal efecto, en primer término se le asignarán diputaciones al partido o coalición que obtenga el mayor índice de votación y después en forma descendente a los demás partidos políticos o coaliciones con derecho a ello.
+IV. Plantear al Consejo, a través del Consejero Presidente, las bases de la convocatoria para la contratación de personal Eventual; y
 
-IV. Si después de aplicar el cociente electoral quedaren curules por repartir, éstas se asignarán aplicando la fórmula de resto mayor, en orden decreciente según los votos que resten a cada partido político o coalición.
+V. Las demás que le confiera el Código y el presente Estatuto.
 
-Se entiende por resto mayor, el remanente de votación más alto de cada partido político o coalición después de deducir la que utilizó para la asignación de diputados a que se refieren todas las fracciones anteriores.
+###### ARTÍCULO 18.
 
-Si en la aplicación de los diferentes procedimientos de asignación, algún partido o coalición hubiere alcanzado veinte o veintiún diputaciones, según corresponda, su votación dejará de ser considerada al momento de completarlas, haciendo las operaciones de cálculos de los procedimientos de asignación sólo con la de los partidos o coaliciones restantes, a efecto de seguir la repartición de las diputaciones pendientes entre los demás partidos o coaliciones con derecho a ello.
+Corresponde a la Dirección Administrativa:
 
-### CAPÍTULO QUINTO. EL SISTEMA DE MAYORÍA RELATIVA Y DE REPRESENTACIÓN PROPORCIONAL PARA LA INTEGRACIÓN DE LOS AYUNTAMIENTOS
+I. Elaborar el proyecto de Manual de Organización y el Catálogo;
 
-###### Artículo 26.
+II. Llevar al cabo los programas de Reclutamiento, Selección, Contratación, Formación y Desarrollo del personal del Servicio, Administrativo y Eventual;
 
-Cada municipio estará gobernado por un Ayuntamiento, cuyos miembros serán electos conforme al sistema de mayoría relativa y de representación proporcional.
+III. Cumplir y hacer cumplir, en el ámbito de su competencia, las normas, derechos, obligaciones y procedimientos del Servicio;
 
-I. Los miembros de los Ayuntamientos que serán electos según el principio de mayoría relativa, en cada uno de los municipios del estado, serán los siguientes:
+IV. Determinar lugar y calendario de pago al personal del Instituto; y
 
-1. Un presidente municipal, cuatro regidores y un síndico en los municipios que tengan hasta 7,500 electores.
+V. Las demás que confiera el Código y el presente Estatuto.
 
-2. Un presidente municipal, cinco regidores y un síndico, en los municipios que tengan de 7,501 hasta 15,000 electores.
+### CAPÍTULO TERCERO. DE LA COMPETENCIA
 
-3. Un presidente municipal, siete regidores y un síndico, en los municipios que tengan de 15,001 hasta 30,000 electores.
+###### ARTICULO 19.
 
-4. Un presidente municipal, ocho regidores y un síndico en los municipios que tengan de 30,001 hasta 60,000 de electores.
+Corresponde a la Subdirección del Servicio.
 
-5. Un presidente municipal, diez regidores y un síndico en aquellos municipios que tengan de 60,001 electores en adelante.
+I. Apoyar a la Dirección Administrativa en la ejecución de los procesos del Servicio para obtener eficiencia en los trabajos electorales y alcanzar de esta forma que todo funcionario del Instituto cumpla con los principios de legalidad, imparcialidad, objetividad, certeza e independencia, en los términos previstos en el presente ordenamiento y de conformidad con los procedimientos aprobados por la Junta;
 
-II. Se asignará una segunda sindicatura al partido político o coalición que se constituya como la primera minoría.
+II. Elaborar, proponer y administrar, las políticas y programas relativas al Servicio que presente la Dirección Administrativa a la Junta;
 
-III. En atención al número de electores de cada municipio, los Ayuntamientos podrán tener regidores de representación proporcional, en la siguiente forma:
+III. Proponer al titular de la Dirección Administrativa, el diseño curricular de los cursos de Formación, Capacitación y Actualización para aspirantes, miembros del Servicio y el personal Administrativo y Eventual;
 
-1. Un regidor, en los municipios que cuenten hasta con 2,000 electores.
+IV. Establecer mecanismos de coordinación para fomentar, recibir, procesar, responder y tomar en cuenta en el diseño de los procesos del Servicio las sugerencias y opiniones del personal respecto del sistema de Servicio del Instituto; así como recibir, procesar y responder oportunamente todas las quejas o denuncias que le presenten sobre el personal del Servicio, Administrativo y Eventual;
 
-2. Dos regidores, en aquellos con hasta 15, 000 electores.
+V. Cumplir y hacer cumplir el Estatuto en el ámbito de su competencia;
 
-3. Tres regidores, en aquellos con hasta 22, 000 electores.
+VI. Proponer al titular de la Dirección Administrativa, los proyectos de convocatorias y exámenes para el personal Eventual para que éste los haga del conocimiento de la Junta, previo conocimiento de la Comisión;
 
-4. Cuatro regidores, en aquellos con hasta 50, 000 electores.
+VII. Proponer al titular de la Dirección Administrativa, el anteproyecto de modificaciones, reformas o adiciones al Estatuto;
 
-5. Cinco regidores, en aquellos con hasta 200,000 electores.
+VIII. Coadyuvar en la elaboración de los informes anuales que la Comisión planee entregar al Consejo relacionados con los objetivos o actividades del Servicio;
 
-6. Seis regidores, en aquellos con más de 200,000 electores.
+IX. Presentar al titular de la Dirección Administrativa los informes que considere pertinentes o los que ésta le solicite;
 
-La base para la asignación será el número de electores inscritos en la lista nominal, con corte al treinta y uno de enero del año de la elección de que se trate.
+X. Proponer el anteproyecto de Manual de Organización y el Catálogo al titular de la Dirección Administrativa;
 
-IV. Para que los partidos políticos o las coaliciones tengan derecho a participar en la asignación de regidores de representación proporcional, deberán de satisfacer los siguientes requisitos:
+XI. Integrar un Archivo Informático y Documental actualizado del historial de los miembros del Servicio, del personal Administrativo y Eventual del Instituto, que contenga un expediente por cada miembro debidamente foliado por sección y, respecto a los procedimientos administrativos para la imposición de sanciones; y
 
-1. Que no hayan alcanzado el triunfo de mayoría en el municipio de que se trate.
+XII. Las demás que le confiera el presente Estatuto.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+###### ARTÍCULO 20.
 
-2. Que obtengan, por lo menos, el cuatro porciento del total de la votación válida emitida en el municipio correspondiente.
+Corresponde al Departamento:
 
-3. Cubiertos los requisitos anteriores, la asignación de regidores de representación proporcional, se hará conforme al procedimiento siguiente:
+I. Definir y desarrollar procedimientos para realizar los concursos de oposición;
 
-a) En primer término, se asignará un regidor a los partidos políticos o coaliciones que satisfagan los requisitos establecidos en la fracción IV de este artículo.
+II. Diseñar exámenes para los procedimientos de reclutamiento y selección propios del Servicio, así como para el personal Administrativo y Eventual que, en su caso, acuerde la Junta;
 
-b) Si hecha la asignación a que se refiere el inciso anterior, quedaren aún regidurías pendientes por distribuir, se procederá a deducir la votación que obtuvo el partido ganador y la de los partidos o coaliciones que no obtuvieron el cuatro porciento correspondiente.
+III. Elaborar el diseño curricular de los cursos de formación, capacitación y actualización para aspirantes, miembros del Servicio, personal Administrativo y Eventual;
 
-c) La votación restante se dividirá entre el número de regidurías pendientes de asignar, para obtener un factor común. Se asignará a cada partido o coalición tantos regidores como veces se contenga el factor común en su votación. Siempre se seguirá el orden descendente de votos.
+IV. Elaborar diagnósticos de necesidades de Formación y Desarrollo;
 
-d) Si después de hecho lo anterior aún quedan regidurías pendientes por asignar, se aplicará la fórmula de resto mayor, después de deducidos los votos utilizados por cada partido en la asignación conforme a los incisos anteriores.
+V. Administrar el Programa de Formación y Desarrollo;
 
-e) Si ninguno de los partidos políticos o coaliciones con votación minoritaria, reuniere los requisitos de la fracción IV de este artículo, no se hará distribución de regidores de representación proporcional.
+VI. Diseñar exámenes para la Evaluación periódica de los conocimientos que deban acreditar los miembros del Servicio y el personal Administrativo del Instituto;
 
-V. Los regidores de representación proporcional y, en su caso, el síndico de la primera minoría, se asignarán de entre aquellos candidatos propietarios que, en sus respectivas planillas municipales, postulen los partidos políticos o coaliciones, siguiendo el orden que éstos señalen al Instituto, dentro de los cinco días posteriores a la fecha en que concluya el término para que los organismos competentes resuelvan sobre la solicitud de registro de planillas. Dicha lista de preferencia se publicará en el Periódico Oficial del Gobierno del Estado, y no podrá ser objeto de sustitución salvo causa de fuerza mayor, previo acuerdo del Instituto.
+VII. Calificar los exámenes a los que se refieren las fracciones II y VI del presente artículo;
 
-En los municipios en donde se presente un sólo partido a la elección, los regidores serán electos únicamente por mayoría.
+VIII. Dentro del ámbito de sus atribuciones, presentar al titular de la Subdirección del Servicio, informe mensual de sus actividades; y
 
-VI. Los partidos políticos o las coaliciones al registrar su planilla de candidatos propietarios, deberán expresar el cargo para el que postulan a cada uno de ellos, asimismo, incluirán una lista de suplentes en número igual al total de los regidores de mayoría y síndicos, pero sin determinar el cargo, para el caso de que ocurrida una vacante de alguno de los integrantes del Ayuntamiento por ellos postulados, el Congreso del Estado, pueda llamar de los de la lista, a la persona que deba cubrirla, en los términos previstos en la Constitución Política del Estado.
+IX. Las demás que le confieran las disposiciones normativas aplicables.
 
-En el caso de los regidores de representación proporcional, las vacantes se cubrirán de entre los candidatos que sigan en el orden del listado que proporcione cada partido político o coalición.
+### CAPÍTULO CUARTO. DEL CATÁLOGO
 
-En el caso de ausencia del presidente municipal, su suplencia se hará en los términos que señalan la Constitución Política del Estado y el Código Municipal para el Estado de Coahuila.
+### CAPÍTULO CUARTO. DEL CATÁLOGO
 
-VII. Para el registro de las planillas de los miembros de los Ayuntamientos a que se refiere la fracción I de este artículo, los partidos políticos no deberán exceder del 70% de candidatos de un mismo género tanto para propietarios como para suplentes para cada municipio.
+###### ARTÍCULO 21.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+El Catálogo establecerá la clasificación y descripción de los Cargos aprobados por el Consejo General que integren la estructura orgánica del Instituto.
 
-VIII. En el caso de que los partidos políticos o coaliciones no cumplan con lo previsto en la fracción que antecede, el Comité Municipal al realizar el procedimiento de asignación de los regidores de representación proporcional, asignará al género subrepresentado, en forma preferente, la primera regiduría de representación proporcional del Ayuntamiento de que se trate a favor del partido político o coalición omisa, de entre las personas que figuren en orden de prelación en la lista de preferencia o fórmula de asignación, para enseguida continuar, en su caso, el procedimiento con dicha lista de preferencia o fórmula de asignación en los términos señalados por dicho partido político o coalición conforme a la fracción V de este artículo.
+###### ARTÍCULO 22.
 
-### CAPÍTULO SEXTO. LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
+La elaboración del Catálogo, así como sus actualizaciones, estará a cargo de la Dirección Administrativa con apoyo de la Subdirección del Servicio, y se someterá a la aprobación del Consejo. El Catálogo será actualizado anualmente y deberá tomar en cuenta la estructura de las áreas del Instituto y las políticas y programas generales aprobadas por el Consejo.
 
-###### Artículo 27.
+###### ARTÍCULO 23.
 
-La elección ordinaria de diputados al Congreso del Estado, se celebrará cada tres años, el último domingo del mes de septiembre del año que corresponda.
+La Dirección Administrativa, considerando la opinión de las demás Direcciones y Unidades Técnicas, podrá hacer propuestas respecto a la estructura de Cargos exclusivos del Servicio. Dichas propuestas serán sometidas a consideración de la Junta para su aprobación e inclusión en el Catálogo.
 
-Los diputados al Congreso del Estado electos tomarán posesión de sus cargos, el día primero de enero posterior al de la elección.
+###### ARTÍCULO 24.
 
-El Instituto expedirá la convocatoria correspondiente por lo menos setenta y cinco días antes de la elección, en la que se expresarán los cargos que por ella han de conferirse y la fecha de celebración.
+El Catálogo precisará aquellos Cargos que deberán ser ocupados exclusivamente por miembros del Servicio.
 
-###### Artículo 28.
+###### ARTÍCULO 25.
 
-La elección ordinaria de Gobernador del Estado, se celebrará cada seis años, el último domingo del mes de septiembre del año que corresponda, previa convocatoria expedida por el Instituto, cuando menos noventa días antes al de la elección, en la que se exprese la fecha en que deban tener lugar las elecciones.
+El Catálogo deberá contener como mínimo los elementos siguientes:
 
-El Gobernador del Estado, ejercerá su mandato a partir del día primero de diciembre del año de la elección por un período de seis años.
+I. Identificación, homologación y, en su caso, compactación de los Cargos;
 
-###### Artículo 29.
+II. Medida de responsabilidad de cada Cargo;
 
-La elección de los miembros de los Ayuntamientos se celebrará cada cuatro años, el último domingo del mes de septiembre del año que corresponda, para tal efecto, el Instituto expedirá convocatoria a más tardar setenta y cinco días antes, en la que se precisen los cargos y la fecha de la elección.
+III. Clasificación y agrupación de Cargos por rama, tipo de actividad, Nivel y función; y
 
-Los miembros de los Ayuntamientos electos tomarán posesión de sus cargos, el día primero de enero posterior al de la elección.
+IV. Cédulas de identificación por cada uno de los Cargos; en las que se precisará:
 
-###### Artículo 30.
+a) Nombre;
 
-Cuando se declare nula una elección, la extraordinaria que se celebre se sujetará a las disposiciones de esta ley y a lo que disponga la convocatoria que expida el Instituto, dentro de los 90 días siguientes a la declaratoria de nulidad.
+b) Nivel jerárquico;
 
-Las elecciones extraordinarias que se celebren para Gobernador del Estado, diputados del Congreso del Estado y Ayuntamientos, con arreglo a lo dispuesto en la Constitución Política del Estado de Coahuila, se sujetarán a esta ley y a lo que disponga la convocatoria que al efecto expida el Instituto.
+c) Rama, tipo y clasificación del Cargo;
 
-###### Artículo 31.
+d) Descripción general de las funciones;
 
-Las convocatorias que expida el Instituto para la celebración de elecciones extraordinarias, no podrán restringir los derechos que esta ley otorga a los ciudadanos y a los partidos políticos, ni alterar los procedimientos y formalidades que la misma establece.
+e) Relaciones de autoridad y comunicación con Cargos superiores y similares; y
 
-###### Artículo 32.
+f) Descripción de requisitos mínimos que se deberán acreditar para su ocupación.
 
-El Instituto ajustará, de conformidad a la fecha señalada para la celebración de elecciones extraordinarias, los plazos y términos que esta ley fija a las diferentes etapas del proceso, publicando en el Periódico Oficial del Gobierno del Estado el calendario electoral.
+### CAPÍTULO QUINTO. DEL PERSONAL DEL SERVICIO
 
-El Instituto convocará a los organismos que se encuentren en receso, para que ejerzan las funciones que en la preparación, desarrollo, organización, vigilancia, calificación y validez del proceso les correspondan.
+### CAPITULO QUINTO. DEL PERSONAL DEL SERVICIO
 
-# LIBRO SEGUNDO. EL SISTEMA DE PARTIDOS POLÍTICOS
+###### ARTÍCULO 26.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+El personal del Servicio se integrará en dos Cuerpos de funcionarios y ocupará Niveles independientes de los Cargos de la estructura orgánica del Instituto.
 
-###### Artículo 33.
+### CAPÍTULO SEXTO. DE LOS CUERPOS, NIVELES Y CARGOS DEL PERSONAL DEL SERVICIO
 
-De conformidad con lo previsto por la Constitución Política de los Estados Unidos Mexicanos y la particular del estado, los partidos políticos son instituciones constitucionales y entidades de interés público que expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y hacen posible el acceso de los ciudadanos al ejercicio del poder público.
+I. DE LOS CUERPOS QUE INTEGRAN EL SERVICIO
 
-###### Artículo 34.
+ll. DE LOS NIVELES QUE INTEGRAN EL SERVICIO
 
-Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca esta ley, y se sujetarán a todas las normas aplicables en el régimen interior del estado cuando se trate de su vida estatal o municipal.
+III. DELOS CARGOS QUE INTEGRAN EL SERVICIO
 
-Se consideran partidos políticos a las organizaciones nacionales registradas como tales, ante el Instituto Federal Electoral y las estatales registradas ante el Instituto.
+###### ARTÍCULO 27.
 
-Para los efectos de esta ley, se consideran dirigentes partidistas a quienes, conforme a los estatutos de cada partido político, hayan sido designados por un determinado periodo de tiempo para ejercer cargos en una determinada circunscripción territorial, con facultades de mando, dirección, representación del partido y sus nombramientos se encuentren registrados ante el Instituto.
+El personal del Servicio se integrará por los miembros del Servicio, provisionales y titulares.
 
-No podrán ser dirigentes de los partidos políticos los servidores públicos con mando superior de los poderes judicial y ejecutivo, así como de los Ayuntamientos.
+###### ARTÍCULO 28.
 
-## TÍTULO SEGUNDO. LA CONSTITUCIÓN, REGISTRO, DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
+El personal del Servicio deberá desempeñar sus funciones en forma exclusiva dentro del Servicio y no podrá realizar otra actividad, Cargo o comisión remunerados, salvo que medie previa autorización del titular de la Dirección Administrativa, quien la deberá otorgar con el acuerdo del Director General, tomando en cuenta los principios, necesidades, intereses del Instituto y el desarrollo profesional del miembro del Servicio, considerando la opinión del superior jerárquico.
 
-### CAPÍTULO PRIMERO. LOS PARTIDOS POLÍTICOS NACIONALES
+###### ARTÍCULO 29.
 
-###### Artículo 35.
+Las autorizaciones a que se refiere el artículo anterior no podrán exceder de ocho horas a la semana dentro de la jornada laboral. En ningún caso podrán otorgarse autorizaciones en proceso electoral.
 
-Los partidos políticos nacionales, que hayan obtenido su registro ante el Instituto Federal Electoral, conforme a la ley aplicable, podrán participar en las elecciones de diputados, gobernador y miembros de los Ayuntamientos y recibir el financiamiento público que establece esta ley, una vez que hayan acreditado ante el Instituto, lo siguiente:
+###### ARTÍCULO 30.
 
-I. La vigencia de su registro como partido político nacional, debiendo exhibir para tal efecto:
+El personal del Servicio quedará sujeto a las disposiciones del Código, del presente Estatuto, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y a las demás aplicables.
 
-1. Un ejemplar de sus estatutos, de su programa de acción y de su declaración de principios.
+### CAPÍTULO SEXTO. DE LOS CUERPOS, NIVELES Y CARGOS DEL PERSONAL DEL SERVICIO
 
-2. Copia certificada del documento que acredite su registro nacional.
+I. DE LOS CUERPOS QUE INTEGRAN EL SERVICIO
 
-II. Que tiene domicilio en el estado.
+###### ARTÍCULO 31.
 
-III. La integración de su Comité Directivo u organismo equivalente en el estado, en los distritos electorales y en los municipios donde se encuentre organizado, manteniendo representantes y oficinas en cuando menos la mitad de estos últimos, debiendo acompañar copias certificadas de los documentos en que aparezcan las designaciones de los titulares de esos órganos de representación.
+El Servicio se integrará por personal calificado y se organizará en los siguientes Cuerpos:
 
-IV. Los demás que exija le ley aplicable.
+I. Cuerpo de la Función Directiva; y
 
-###### Artículo 36.
+II. Cuerpo Técnico.
 
-Para poder participar en la elección local, los partidos políticos nacionales deberán acreditar ante el Instituto los requisitos señalados en el artículo anterior, dentro de los primeros quince días de haberse iniciado de manera formal el proceso electoral en la entidad.
+###### ARTÍCULO 32.
 
-### CAPÍTULO SEGUNDO. LOS PARTIDOS POLÍTICOS ESTATALES
+El Cuerpo de la Función Directiva proveerá el personal del Servicio que cubrirá los Cargos con atribuciones de dirección, de mando y de supervisión; formulando y ejecutando para tal fin los planes y objetivos específicos de su segmento o especialidad con la finalidad de cumplir con las metas definidas en la estrategia de cada órgano ejecutivo o técnico.
 
-###### Artículo 37.
+El Cuerpo de la Función Directiva, en todos los casos, cubrirá los Cargos de menor jerarquía después del de (sic) Directores y Titulares de las Unidades Técnicas, conforme lo disponga el Catálogo.
 
-Toda organización política que pretenda constituirse como partido estatal, deberá cumplir con los requisitos siguientes:
+# LIBRO SEGUNDO. DEL PERSONAL ADMINISTRATIVO, LOS TRABAJADORES EVENTUALES
 
-I. Formular su declaración de principios.
+Y LAS CONDICIONES GENERALES DE TRABAJO
 
-II. Elaborar de manera congruente a su declaración de principios, su programa de acción y los estatutos que normen sus actividades.
+## TÍTULO CUARTO. PROCESO DE CAPACITACIÓN, FORMACIÓN Y DESARROLLO
 
-###### Artículo 38.
+###### ARTÍCULO 33.
 
-La declaración de principios de los partidos políticos estatales debe contener necesariamente:
+El Cuerpo Técnico es el que desempeña los Cargos con funciones especializadas y atribuciones operativas.
 
-I. La obligación de observar la Constitución Política de los Estados Unidos Mexicanos, la particular del estado y las leyes e instituciones que de ellas emanen.
+###### ARTÍCULO 34.
 
-II. Las bases ideológicas de carácter político, jurídico, económico, social y cultural que postule.
+El Cuerpo Técnico proveerá al personal del Servicio que realizará las actividades especializadas y cubrirá los Cargos que señale el Catálogo.
 
-III. La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos extranjeros; así como no solicitar o rechazar, en su caso, toda clase de apoyo económico, político y propagandístico proveniente de entidades, partidos políticos u organizaciones extranjeras, de aquellas organizaciones religiosas o de ministros de cultos de cualquier religión o secta.
+II. DE LOS NIVELES QUE INTEGRAN EL SERVICIO
 
-IV. La obligación de realizar todas sus actividades por medios pacíficos y por la vía del estado de derecho.
+## TÍTULO QUINTO. PROCESO DE EVALUACIÓN
 
-###### Artículo 39.
+### CAPÍTULO ÚNICO. DENOMINACIÓN DE LOS PROCESOS SUSTANTIVOS
 
-El programa de acción de los partidos políticos estatales determinará las medidas para:
+###### ARTÍCULO 35.
 
-I. Realizar sus principios y alcanzar sus objetivos.
+El Cuerpo de la Función Directiva y el Cuerpo Técnico se estructurarán en Niveles, en los cuales se desarrollará el Servicio de los miembros.
 
-II. Proponer las políticas necesarias para resolver los problemas de tipo político, jurídico, económico, social y cultural, que afecten, tanto al Estado de Coahuila, como a los municipios integrantes del mismo.
+###### ARTÍCULO 36.
 
-III. Ejecutar las acciones relativas a la formación ideológica y política de sus militantes.
+Los Niveles del Cuerpo de la Función Directiva y sus denominaciones serán:
 
-IV. Estimular la participación activa de su militancia en los procesos electorales.
+I. Directivo Electoral 1;
 
-###### Artículo 40.
+II. Directivo Electoral 2;
 
-Los estatutos de los partidos políticos estatales deberán establecer lo siguiente:
+III. Directivo Electoral 3; y
 
-I. La denominación del partido, el emblema y su color o colores; elementos que deberán estar exentos de alusiones religiosas o raciales que los caractericen y diferencien de otros partidos políticos.
+IV. Directivo Electoral 4.
 
-II. Los derechos y obligaciones de sus miembros, así como el procedimiento para su afiliación.
+Los Niveles del Cuerpo Técnico y sus denominaciones serán:
 
-III. Los procedimientos democráticos internos para la renovación de sus dirigentes y las formas que deberán revestir los actos para la postulación democrática de sus candidatos, mismos que deberán ser públicos.
+I. Técnico Electoral 1;
 
-IV. La obligación de presentar una plataforma electoral mínima para cada elección en que participe, misma que deberá ser congruente con su declaración de principios y programas democráticos de acción y que, a su vez, será sostenida por los candidatos en sus campañas políticas.
+II. Técnico Electoral 2;
 
-V. Las funciones, facultades y obligaciones de sus órganos, que cuando menos serán los siguientes:
+III. Técnico Electoral 3; y
 
-1. Una Asamblea Estatal.
+IV. Técnico Electoral 4.
 
-2. Un Comité Estatal, que tenga la representación del partido en toda la entidad.
+III. DE LOS CARGOS QUE INTEGRAN EL SERVICIO
 
-3. Un Comité u organismo equivalente en cuando menos la mitad de los municipios del estado, pudiendo integrar comités distritales o regionales.
+### CAPÍTULO PRIMERO. DEL PROCESO DE INGRESO
 
-4. Las sanciones que se aplicarán a los miembros que violen las disposiciones internas.
+###### ARTÍCULO 37.
 
-###### Artículo 41.
+Los Niveles deberán diferenciarse de los Cargos definidos en la estructura orgánica del Instituto, por lo que:
 
-Para solicitar su registro como partido político estatal, los ciudadanos o asociaciones políticas, deberán acreditar los requisitos siguientes:
+Los Cargos del Cuerpo de la Función Directiva en el Servicio, son:
 
-I. Acreditar que cuentan con un mínimo de ciudadanos afiliados, distribuidos al menos en siete distritos del estado, equivalente al uno punto cinco por ciento de los inscritos en la lista nominal de electores vigente en el último proceso electoral local anterior a la solicitud de registro. Para la comprobación de este requisito la organización política deberá presentar cédulas de afiliación individuales por cada uno de sus miembros, las que deberán contener los datos de identificación del afiliado, domicilio, clave de elector y firma de conformidad, acompañándola de copia simple de su credencial para votar por ambas caras.
+a) Subdirector de Área;
 
-Una vez acreditado el requisito señalado en esta fracción, se procederá a agendar las asambleas y el resto de los trabajos de la organización que pretenda obtener su registro como partido político estatal.
+b) Coordinador de Área;
 
-II. Contar con un año de vida política en el estado, independiente de cualquier otro partido, con anterioridad a la solicitud del registro.
+c) Jefe de Departamento; y
 
-III. Para computar el año de vida política independiente, dicha organización política deberá manifestar por escrito al Instituto, la intención de obtener su registro como partido político estatal, lo que se tomará como base de su inicio, salvo que la organización solicitante haya sido previamente registrada como asociación política estatal, en cuyo caso se tendrá como inicio para computar el año de vida política la fecha en que se acreditó como tal.
+d) Jefe de Oficina.
 
-IV. Haber celebrado, en cuando menos siete de los distritos del estado, una asamblea en presencia de la Comisión de Verificación para el Registro de Partidos Políticos Estatales del Instituto, y uno o varios notarios públicos acreditados por el mismo Instituto, quienes certificarán:
+Los Cargos del Cuerpo Técnico en el Servicio, son:
 
-1. Que en dichas asambleas se nombró un delegado distrital propietario y un suplente por cada doscientos asistentes, para asistir a la asamblea estatal, con facultades para aprobar los documentos básicos del partido y elegir a su dirigencia estatal.
+a) Analista I; y
 
-2. Que se identificó a los asistentes a las asambleas distritales por medio de su credencial para votar.
+b) Analista II.
 
-3. El Instituto a través de la Comisión de Verificación deberá realizar un muestreo de campo cuando menos en el cinco por ciento de las cédulas de afiliación presentadas.
+###### ARTÍCULO 38.
 
-V. Haber celebrado una asamblea estatal constitutiva ante la presencia de la Comisión de Verificación para el Registro de Partidos Políticos Estatales del Instituto, y uno o varios notarios públicos acreditados por el mismo Instituto; quienes certificarán:
+A cada Cargo del Servicio corresponderán estímulos determinados y otorgados por la Junta en el mes inmediato posterior a que se tengan resultados de las evaluaciones del periodo, de acuerdo con las posibilidades presupuestales del Instituto. La Promoción en Niveles y los estímulos correspondientes se otorgarán a partir de la Titularidad.
 
-1. Que asistieron los delegados propietarios o suplentes elegidos en las asambleas distritales y que acreditaron con las actas correspondientes, que éstas se celebraron con la formalidad requerida en la fracción IV de este artículo.
+###### ARTÍCULO 39.
 
-2. Que se identificó debidamente a los delegados asistentes a la asamblea estatal, así como la residencia de los mismos, por medio de la credencial para votar o el documento que la substituya.
+El Servicio Electoral Profesional es el sistema que integra los siguientes procesos sustantivos:
 
-3. Que por cada distrito donde se celebró asamblea, los delegados presentaron una lista de personas afiliadas, en las que se señala su nombre, domicilio y clave de elector.
+I. Ingreso;
 
-4. Que las listas mencionadas en el inciso que antecede contienen los datos de las personas que representan cuando menos el diez por ciento de los ciudadanos afiliados que menciona la fracción I de este artículo.
+II. Capacitación, Formación y Desarrollo Profesional;
 
-5. Que en la asamblea fueron aprobados su declaración de principios, su programa de acción y sus estatutos.
+III. Evaluación;
 
-VI. Una vez cumplidos los requisitos mencionados en las fracciones anteriores, la organización deberá presentar por escrito su solicitud de registro como partido político estatal, ante el Instituto, acompañándola de las siguientes constancias:
+IV. Promoción, Ascenso e Incentivos; y
 
-1. Documentos que contengan la declaración de principios, programa de acción y los estatutos.
+V. Sanción.
 
-2. Las actas de las asambleas distritales acompañadas por las listas de afiliados que presentaron los delegados asistentes a la asamblea estatal.
+## TÍTULO TERCERO. DEL INGRESO
 
-3. El acta de la asamblea estatal en la que conste la aprobación de los documentos básicos y la designación de su dirigencia.
+### CAPÍTULO PRIMERO. DEL PROCESO DE INGRESO
 
-4. Las cédulas de afiliación.
+###### ARTÍCULO 40.
 
-El procedimiento para el desarrollo de los trabajos inherentes a la constitución de un partido político, no deberá exceder del término de dos años contados a partir del aviso a que se refiere la fracción III de este artículo, y no podrá ser iniciado en el año en el que se verifique algún proceso electoral.
+El ingreso es un sistema integrado por los procesos de reclutamiento, selección, incorporación, nombramiento y adscripción.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+###### ARTÍCULO 41.
 
-###### Artículo 42.
+El procedimiento para el Ingreso al Servicio, será:
 
-En el caso en que los partidos políticos nacionales pierdan su registro nacional y hayan obtenido en el último proceso electoral local cuando menos el dos porciento de la votación válida emitida, podrán solicitar al Instituto se les otorgue registro como partidos políticos estatales, quedando exentos de cumplir con lo dispuesto por el artículo 41 de esta ley, sin embargo deberán ajustar sus documentos básicos a lo estipulado por la misma.
+I. Acreditar requisitos curriculares, académicos y de desempeño;
 
-### CAPÍTULO TERCERO. EL REGISTRO
+II. Acreditar los cursos de capacitación propedéutica, incluyendo los exámenes correspondientes, y realizar prácticas en los órganos del Instituto; y
 
-###### Artículo 43.
+III. Ganar el Concurso de Oposición.
 
-Una vez presentada la solicitud de registro, el Instituto, dentro de los 60 días naturales siguientes y previa comprobación y estudio de las constancias presentadas y del análisis del dictamen de la comisión de verificación para el registro de los partidos políticos estatales, resolverá lo conducente.
+###### ARTÍCULO 42.
 
-###### Artículo 44.
+El Concurso de Oposición, será la vía privilegiada para la ocupación de vacantes y el acceso al Servicio.
 
-Cuando el registro sea procedente, el Instituto expedirá certificado haciendo constar este hecho y lo comunicará a los demás organismos electorales y a los poderes del estado y de los municipios.
+### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DE INGRESO
 
-En caso de negativa, fundamentará las causas que la motiven y lo comunicará a los interesados. Su resolución admitirá juicio electoral y deberá publicarse, en todo caso, en el Periódico Oficial del Gobierno del Estado.
+###### ARTÍCULO 43.
 
-###### Artículo 45.
+Los procedimientos para realizar los Concursos de Oposición se establecerán en los acuerdos y las convocatorias que expida la Junta, a propuesta de la Dirección Administrativa.
 
-El registro otorgado por el Instituto a un partido político estatal, le confiere de inmediato los derechos y obligaciones que establece esta ley, salvo las excepciones previstas en la misma.
+El Director General podrá invitar a los representantes de los partidos políticos ante el Consejo, para presenciar la aplicación de los procedimientos para realizar dichos concursos.
 
-Para que un partido político estatal pueda participar en un proceso electoral, deberá haber obtenido su registro cuando menos con un año de anticipación a la fecha de la elección en que pretenda contender.
+### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DE INGRESO
 
-### CAPÍTULO CUARTO. LA PÉRDIDA DEL REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES
+###### ARTÍCULO 44.
 
-###### Artículo 46.
+Los requisitos para ingresar al Servicio son:
 
-Un partido político estatal, previa resolución del Instituto, perderá su registro por las causas siguientes:
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
 
-I. No cumplir con las obligaciones a que se refieren las fracciones I, IV, VII, VIII, IX y XI del artículo 51 de esta ley.
+II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía;
 
-II. Haber dejado de satisfacer los requisitos necesarios para obtener el registro.
+III. No haber sido registrado como candidato a Cargo alguno de elección popular en los últimos tres años a la designación;
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+IV. No ser o haber sido militante, representante, o dirigente nacional, estatal o municipal de algún partido en los tres años inmediatos anteriores a la designación;
 
-III. No obtener por lo menos el dos porciento de la votación válida emitida en ninguna de las elecciones para gobernador, diputados o miembros de los Ayuntamientos.
+V. No estar inhabilitado para ocupar Cargo público federal, local o municipal;
 
-IV. Aceptar tácita o expresamente propaganda o recursos provenientes de partidos o entidades del extranjero o de instituciones o ministros de cualquier culto o religión.
+VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo;
 
-V. Haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan sus estatutos.
+VII. Tener como mínimo un certificado de haber aprobado todas las materias de un programa de estudios de licenciatura quienes aspiren al Cuerpo Técnico, y tener título profesional y cédula para quienes deseen pertenecer al Cuerpo de la Función Directiva;
 
-###### Artículo 47.
+VIII. Acreditar los conocimientos y habilidades necesarios para el desempeño adecuado de sus funciones, mediante el Concurso de Oposición correspondiente;
 
-El Instituto, antes de emitir cualquier resolución sobre cancelación de registro, citará al partido político respectivo, para que éste sea escuchado y manifieste lo que a su interés convenga.
+IX. Tener su residencia en el Estado de Puebla; y
 
-###### Artículo 48.
+X. Cumplir con el procedimiento de Ingreso, en términos del artículo 37 del presente Estatuto.
 
-La resolución que cancele el registro de partidos políticos estatales, se publicará en el Periódico Oficial del Gobierno del Estado y se hará del conocimiento de los demás organismos electorales y de los poderes del estado y de los municipios. Esta resolución será impugnable mediante el juicio electoral en los términos de la ley de la materia.
+Una vez cubiertos los requisitos anteriores, los interesados deberán aprobar los exámenes de conocimientos, habilidades y valoración psicométrica que aplique el Departamento; cuyo objeto será conocer el perfil de aptitudes, conocimientos generales y orientación laboral de los aspirantes que permitan determinar su idoneidad para desarrollarse en el sistema de Servicio Electoral.
 
-###### Artículo 49.
+### CAPÍTULO TERCERO. DE LAS FORMAS DE INGRESO AL SERVICIO
 
-La pérdida del registro de un partido político estatal, no tendrá efectos en relación a los triunfos que sus candidatos hayan obtenido en las elecciones.
+I. DEL RECLUTAMIENTO Y SELECCIÓN DE ASPIRANTES
 
-### CAPÍTULO QUINTO. LOS DERECHOS Y LAS OBLIGACIONES
+###### ARTÍCULO 45.
 
-###### Artículo 50.
+La Subdirección del Servicio aplicará el procedimiento de reclutamiento a los aspirantes a ingresar al Servicio. Se considerarán aspirantes los solicitantes externos y los miembros del Servicio que hayan cubierto los requisitos normativos correspondientes.
 
-Los partidos políticos nacionales y estatales tienen los derechos siguientes:
+La Dirección Administrativa aplicará el procedimiento de selección de los aspirantes que hayan cubierto los requisitos normativos en el procedimiento de reclutamiento, y dará cuenta a la Junta de la lista de aspirantes que considere aptos para ingresar al Servicio.
 
-I. Ejercer las atribuciones que la Constitución y esta ley les confieren en la preparación, desarrollo y vigilancia del proceso electoral.
+El procedimiento de reclutamiento y selección de aspirantes tendrá por objeto asegurar la idoneidad del personal que ingrese al Servicio.
 
-II. Participar y postular candidatos, electos de manera democrática, en las elecciones para gobernador, diputados al Congreso del Estado y miembros de los Ayuntamientos.
+### CAPÍTULO TERCERO. DE LAS FORMAS DE INGRESO AL SERVICIO
 
-III. Realizar reuniones públicas y actos de propaganda política en apoyo de sus candidatos a los cargos de elección popular en los términos de esta ley.
+I. DEL RECLUTAMIENTO Y SELECCIÓN DE LOS ASPIRANTES
 
-IV. Formar parte del Consejo General del Instituto, Comités Distritales y Municipales Electorales, en los términos de las disposiciones aplicables.
+II. LA INCORPORACIÓN
 
-V. Nombrar representantes ante las mesas directivas de casilla.
+a) DE LA INCORPORACIÓN TEMPORAL
 
-VI. Nombrar representantes generales de partido.
+b) DE LA INCORPORACIÓN PROVISIONAL
 
-VII. Tener acceso a espacios en los medios de comunicación en los términos que establezca el Instituto.
+III. DE LA EXPEDICIÓN DE NOMBRAMlENTOS
 
-VIII. Los demás que les otorgue esta ley.
+IV. DE LA ADSCRIPCIÓN
 
-Para los efectos de la fracción IV de este artículo, los servidores públicos de los poderes judicial y ejecutivo, así como de los Ayuntamientos, no podrán ser representantes de partidos políticos ante ningún organismo electoral.
+###### ARTÍCULO 46.
 
-###### Artículo 51.
+El Concurso de Oposición, consistirá en un conjunto de procedimientos que aseguren la selección de los aspirantes idóneos para desempeñar los Cargos del Servicio. El Concurso de Oposición procurará la participación más amplia de aspirantes a ocupar las vacantes.
 
-Los partidos políticos nacionales y estatales, tienen las obligaciones siguientes:
+###### ARTÍCULO 47.
 
-I. Ostentarse con la denominación, emblema y color o colores que tengan registrados.
+La Junta expedirá una convocatoria que se ajustará a lo dispuesto en el artículo 45 del presente Estatuto, misma que se difundirá en los estrados ubicados en las oficinas centrales del Instituto, así como en los tres diarios de mayor circulación en la Entidad.
 
-II. Acatar las resoluciones que los organismos electorales y los tribunales dicten en el ejercicio de sus funciones.
+###### ARTÍCULO 48.
 
-III. Comunicar al Instituto cualquier modificación a su declaración de principios, programa de acción y estatutos, así como los cambios en sus órganos directivos y domicilios sociales.
+La Junta aprobará el modelo de Concurso de Oposición con base en lo siguiente:
 
-IV. Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objeto alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de los órganos electorales.
+I. Aprobará el método de operación, así como los formatos generales de los exámenes. El Departamento elaborará el diseño de dichos exámenes;
 
-V. Participar, verificar y fomentar entre los ciudadanos y sus militantes, la asistencia a los cursos de capacitación que impartan los organismos electorales para la integración de las mesas directivas de casilla.
+II. Expedirá una convocatoria, para aspirantes ajustándose a lo dispuesto en el artículo 45, último párrafo del presente Estatuto;
 
-VI. Retirar la propaganda que hubieren fijado con motivo de sus precampañas campañas electorales, cuando éstas concluyan.
+III. La Subdirección del Servicio desarrollará el modelo aprobado por la Junta, respecto al Concurso de Oposición;
 
-VII. Participar con candidatos en las elecciones locales, electos de una manera democrática.
+IV. La Dirección Administrativa dará cuenta del procedimiento seguido y sus resultados al Director General, para que éste informe a la Junta; y
 
-VIII. Permitir en cualquier momento la práctica de auditorias y verificaciones que ordene el Instituto, así como entregar la documentación que le sea solicitada respecto a sus ingresos y egresos.
+V. Con base en los resultados obtenidos, la Junta emitirá el acuerdo de Incorporación correspondiente, previo conocimiento de la Comisión y el Director General expedirá los nombramientos a los miembros del Servicio con el Cargo y la adscripción que les corresponda, informando para tal efecto al Consejo.
 
-IX. Actuar y conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta.
+###### ARTÍCULO 49.
 
-X. Abstenerse de cualquier expresión que implique diatriba, calumnia, infamia, injuria, difamación o que denigre a los ciudadanos a las instituciones públicas o a otros partidos políticos y sus candidatos, particularmente durante las precampañas y campañas electorales y en la propaganda política que se utilice durante las mismas.
+La convocatoria pública al Concurso de Oposición que emita la Junta contendrá como mínimo:
 
-XI. Mantener órganos de representación permanentes en cuando menos la mitad de los municipios del estado. Estos órganos de representación deberán renovarse periódicamente en forma democrática y conforme a sus estatutos.
+I. Los fundamentos legales aplicables del Código y del presente Estatuto;
 
-XII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda.
+II. Las vacantes existentes que se someterán a concurso, el Cargo, el lugar de adscripción, los requisitos que deberán cumplir los aspirantes y el método para su verificación, los procedimientos, plazos y términos para desahogar la fase del proceso de Selección y los medios para la difusión de los resultados;
 
-XIII. Las demás que les señalen las leyes.
+III. Los mecanismos para considerar el Nivel u otros méritos extraordinarios de los aspirantes internos;
 
-###### Artículo 52.
+IV. Los mecanismos de desempate; entre ellos, el señalamiento de que se dará preferencia a los aspirantes internos sobre los externos en caso de empate;
 
-Además de las obligaciones que impone el artículo anterior, los partidos políticos estatales tendrán las siguientes:
+V. Los mecanismos para asegurar la imparcialidad, objetividad y transparencia del procedimiento de Incorporación que deberán ser del conocimiento de los aspirantes, a través de la definición del método; y
 
-I. Mantener el mínimo de afiliados que señala esta ley para su constitución y registro.
+VI. La disposición de que todo lo no previsto en el concurso será resuelto por la Junta Ejecutiva.
 
-II. Cumplir con las normas de afiliación y observar los procedimientos democráticos que señalen sus estatutos para la postulación de candidatos.
+El desarrollo de los mecanismos necesarios para garantizar la confidencialidad, integridad y seguridad de los instrumentos de Evaluación se harán constar en actas circunstanciadas que firmarán los integrantes de la Junta.
 
-III. Mantener funcionando con efectividad, los órganos de dirección que señalen sus estatutos.
+### CAPÍTULO CUARTO. DE LA READSCRIPCIÓN
 
-IV. Disponer de oficinas permanentes en el estado.
+###### ARTÍCULO 50.
 
-V. Contar con un centro de formación política y editar una publicación periódica sobre las ideas y principios que postulen.
+La Junta fijará, por medio de un acuerdo, los términos en que se llevará al cabo el procedimiento de incorporación. En dicho acuerdo, se establecerán los mecanismos para asegurar la imparcialidad, objetividad y transparencia del Proceso de incorporación y los métodos de supervisión y coordinación.
 
-VI. Las demás que les impongan las leyes.
+###### ARTÍCULO 51.
 
-### CAPÍTULO SEXTO. LAS PRERROGATIVAS
+La Dirección Administrativa dará a conocer la lista de aspirantes a los miembros de la Junta, quien a través del Consejero Presidente informará al Consejo, para la presentación de observaciones fundadas y por escrito a la Junta sobre el cumplimiento de los requisitos legales, que serán debidamente valoradas.
 
-###### Artículo 53.
+II. DE LA INCORPORACIÓN
 
-Los partidos políticos nacionales y estatales, gozarán de la exención de impuestos y derechos estatales y municipales en lo que no se oponga a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; así como de los que se generen con motivo de las rifas y sorteos que se celebren, previa autorización legal y de las ferias, festividades y otros eventos que tengan por objeto allegarse recursos para el cumplimiento de sus fines.
+###### ARTÍCULO 52.
 
-###### Artículo 54.
+La Incorporación es el acto mediante el cual los aspirantes a pertenecer al Servicio acceden a los Cuerpos que lo integran, mediante el acuerdo emitido por la Junta, que se pronuncie sobre el proceso de Ingreso.
 
-El régimen de financiamiento de los partidos políticos, nacionales y estatales, tendrá las siguientes modalidades:
+### CAPÍTULO QUINTO. DE LAS VACANTES
 
-I. Financiamiento público.
+###### ARTÍCULO 53.
 
-II. Financiamiento por militancia.
+El dictamen emitido por la Dirección Administrativa sobre los resultados de Incorporación y el correspondiente acuerdo deberán ser aprobados por la Junta.
 
-III. Financiamiento de militantes y simpatizantes.
+a) DE LA INCORPORACIÓN TEMPORAL
 
-IV. Autofinanciamiento.
+###### ARTÍCULO 54.
 
-V. Financiamiento por rendimientos financieros, fondos y fideicomisos.
+La Incorporación temporal es aquélla que tiene como fin cubrir las vacantes de urgente ocupación, necesarias para la continuidad de los trabajos del Instituto. Los funcionarios que ocupen esos Cargos temporales, podrán participar como aspirantes internos en el Concurso de Oposición, para obtener un nombramiento provisional.
 
-VI. Financiamiento a los partidos políticos con registro nacional por sus dirigencias nacionales.
+El Director General, determinará las vacantes de urgente ocupación y solicitará al titular de la Dirección Administrativa que inicie el procedimiento de Incorporación temporal; señalando para tal efecto las razones que motiven la urgente ocupación de las vacantes
 
-###### Artículo 55.
+La Incorporación temporal a un Cargo tendrá vigencia por el tiempo necesario, que no excederá de seis meses y deberá en ese tiempo cumplirse el objeto por el que fue creado.
 
-El financiamiento público de los partidos políticos se otorgará de la manera siguiente: para el desarrollo ordinario de sus actividades permanentes, para actividades de capacitación y fortalecimiento estructural, y para actividades tendientes a la obtención del sufragio popular.
+###### ARTÍCULO 55.
 
-###### Artículo 56.
+La Junta determinará la ocupación temporal de los Cargos del Servicio cuando se generen vacantes de urgente ocupación o en casos de disponibilidad, a propuesta del Director General previo acuerdo con el Consejero Presidente; para determinar al candidato se tomarán en cuenta los méritos del personal del Servicio y del personal Administrativo así como sus evaluaciones en el último año.
 
-El financiamiento público se sujetará a lo siguiente:
+La Junta emitirá el acuerdo de Incorporación temporal y el Director General expedirá el nombramiento temporal correspondiente a quien haya sido designado previo conocimiento de la Comisión.
 
-I. El financiamiento público ordinario para el desarrollo de sus actividades permanentes se otorgará anualmente por el Instituto a los partidos políticos con registro que hubieren alcanzado como mínimo el 2% de la votación válida emitida en el estado, correspondiente al último proceso electoral, en la elección de diputados. Para tal efecto, el total del financiamiento público ordinario anualizado será la cantidad que resulte de multiplicar el factor 10 por el número de ciudadanos inscritos en la lista nominal de electores del estado del mes de agosto del año inmediato anterior que corresponda.
+###### ARTÍCULO 56.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+Los miembros del Servicio y el demás personal Administrativo que ocupen temporalmente un Cargo, podrán reincorporarse a la plaza que originalmente ocupaban, al término de la vigencia del nombramiento temporal.
 
-II. El financiamiento público para actividades de capacitación y fortalecimiento estructural, se otorgará a aquellos partidos políticos que cumplan con lo previsto en la fracción I de este artículo. El financiamiento público por este concepto corresponderá al 10% del total de la cantidad que corresponda para el desarrollo de actividades permanentes, para los partidos políticos nacionales. A los partidos políticos estatales que hubiesen obtenido el 2% de la votación válida emitida en el estado correspondiente al último proceso electoral, se les otorgará por ese concepto el 30% del total de la cantidad que les corresponda para el desarrollo de actividades permanentes.
+b) DE LA INCORPORACIÓN PROVISIONAL
 
-III. El financiamiento público otorgado para el desarrollo de sus actividades tendientes a la obtención del sufragio popular en el año en que se celebre el proceso electoral, se sujetará a lo siguiente:
+###### ARTÍCULO 57.
 
-1. Para el caso en que en un mismo proceso concurran tres elecciones, la cantidad para financiamiento público para el desarrollo de sus actividades tendientes a la obtención del sufragio popular, será la correspondiente al financiamiento ordinario multiplicada por 3.
+La Incorporación provisional es aquélla que se otorga a los funcionarios de nuevo Ingreso al Servicio, a efecto de que, una vez cumplidos los requisitos establecidos en el presente Estatuto, puedan obtener la titularidad.
 
-2. Para el caso de que concurran dos elecciones, la cantidad a que se alude en el punto anterior, se multiplicará por 2.3. Para el caso de la elección de Ayuntamientos en forma única, el financiamiento público para actividades tendientes a la obtención del sufragio popular, será la que resulte de multiplicar el financiamiento ordinario por 1.5. Para el caso de la elección de diputados en forma única, se otorgará por ese concepto una cantidad igual a la del financiamiento ordinario.
+III. DE LA EXPEDICIÓN DE NOMBRAMIENTOS
 
-IV. El factor 10 a que se refiere la fracción I de este artículo, se ajustará anualmente, a partir del año 2003, de acuerdo con el índice de inflación que publique el Banco de México o el organismo que en su caso asuma esta función. Para efectuar el ajuste, se tomará el índice inflacionario anual tomando como base el mes de septiembre del año anterior comparándolo con el índice inflacionario del mes de agosto del año que se revise.
+###### ARTÍCULO 58.
 
-V. El financiamiento público anual por actividades permanentes y para el desarrollo de sus actividades tendientes a la obtención del sufragio popular en el año del proceso electoral, se distribuirá de la siguiente manera: el 34% por partes iguales y el 66% restante en proporción directa al número de votos obtenidos en la elección de diputados de mayoría relativa inmediata anterior.
+El Director General expedirá los nombramientos a los miembros del Servicio con el carácter que les corresponda, previo acuerdo que, al efecto, apruebe la Junta.
 
-VI. El financiamiento público para actividades de capacitación y fortalecimiento estructural, se distribuirá de la manera siguiente:
+Los ganadores de cada Concurso de Oposición recibirán un nombramiento provisional en el Cargo respectivo, que será vigente hasta la emisión del Acuerdo de la Junta que les otorgue la titularidad, en los términos del presente Estatuto.
 
-1. A cada partido político nacional que cumpla con lo establecido en la fracción I de este artículo, le corresponderá sobre el monto total a distribuirse, una cantidad equivalente al 10% del total que le corresponda por concepto de financiamiento público ordinario para actividades permanentes.
+###### ARTÍCULO 59.
 
-2. A cada partido político estatal que cumpla con lo establecido en la fracción I de este artículo, le corresponderá sobre el monto total a distribuirse, una cantidad equivalente al 30% del total que le corresponda por concepto de financiamiento público ordinario para actividades permanentes.
+Los nombramientos serán elaborados por la Dirección Administrativa y firmados por el Director General, y contendrán como mínimo:
 
-3. En ambos casos, el financiamiento público relativo a actividades de capacitación se entregará una vez que el partido político respectivo compruebe la realización de gastos erogados por este concepto. En caso de que estos recursos no se utilicen el Instituto los aplicará para el financiamiento público a partidos políticos del año siguiente del que se trate.
+I. Nombre completo, nacionalidad, edad, registro federal de contribuyentes, género, domicilio, así como escolaridad máxima acreditada;
 
-VII. Los partidos políticos que participen coligados en una elección deberán establecer en el convenio respectivo la forma en que se les distribuirá el financiamiento público.
+II. En el caso de miembros del Servicio, se deberá señalar el Cuerpo al que corresponda;
 
-VIII. El financiamiento público ordinario a que se refiere la fracción I, les será entregado a los partidos políticos en forma anual, en doce mensualidades, a partir del mes de enero de cada año.
+III. El carácter temporal, provisional o titular del nombramiento, para miembros del Servicio;
 
-IX. El financiamiento público a los partidos políticos durante el año del proceso electoral, para sus actividades tendientes a la obtención del sufragio popular se les entregará en tres exhibiciones en el último día de los meses de abril, junio y agosto.
+IV. Nivel para el que se expide el nombramiento tratándose de miembros del Servicio;
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+V. Cargo; y
 
-X. Los partidos políticos estatales que hubiesen obtenido su registro con posterioridad al mes de diciembre de 1999 y que vayan a participar por primera vez en un proceso electoral estatal, recibirán a partir del mes siguiente a aquel en que obtuvieron su registro como financiamiento público el equivalente al que le correspondería a un partido político que hubiese obtenido el 2% de la votación válida emitida en el último proceso electoral, tanto para las actividades permanentes, como las relativas a capacitación y fortalecimiento estructural y las relativas a la obtención al sufragio popular en el año del proceso electoral de que se trate, sin afectar las partidas a que tienen derecho los partidos ya registrados, y se les entregará en la forma prevista en este artículo.
+VI. Vigencia del nombramiento.
 
-XI. Los partidos políticos nacionales que hubiesen obtenido su registro con posterioridad al mes de diciembre de 1999 y que vayan a participar por primera vez en un proceso electoral estatal, recibirán, a partir del mes siguiente a aquel en que obtuvieron su registro, entre todos, por concepto de financiamiento público ordinario para actividades permanentes, la cantidad que corresponda al 4% del total que corresponda al financiamiento público a que se refiere la fracción I de este artículo, sin afectar las partidas a que tienen derecho los partidos ya registrados. Esta cantidad se distribuirá en partes iguales entre todos los partidos que se ubiquen en este supuesto.
+IV. DE LA ADSCRIPCIÓN
 
-Para efecto del financiamiento tendiente a la obtención del sufragio popular, la cantidad que le corresponda a cada partido político o coalición a que se refiere esta fracción por concepto de financiamiento público ordinario, se multiplicará por el factor a que se refiere la fracción III de este artículo para la elección de que se trate.
+###### ARTÍCULO 60.
 
-En todo caso, ningún partido político nacional a que se refiere esta fracción podrá tener por este concepto financiamiento público por una cantidad mayor al que le correspondería a un partido político estatal que participe por primera vez en un proceso electoral.
+El nombramiento será acompañado de un oficio de adscripción elaborado por la Dirección Administrativa y firmado por el Director General, correspondiente al Cargo a desempeñar y al Nivel que corresponda dentro de la estructura orgánica del Instituto; el cual deberá contener como mínimo:
 
-XII. En el caso de elecciones extraordinarias, el financiamiento se aplicará en la forma y montos que determine el Instituto, observando los principios establecidos en el presente precepto.
+I. Datos generales del miembro del Servicio;
 
-###### Artículo 57.
+II. El órgano o unidad administrativa al cual se adscribe;
 
-El financiamiento que no tenga el carácter de público, se sujetará a lo siguiente:
+III. La denominación del Cargo que se asigna;
 
-I. El financiamiento de la militancia se compondrá con las aportaciones, ordinarias y extraordinarias de sus afiliados, de conformidad con lo que dispongan los estatutos de los partidos políticos. De estas aportaciones, el órgano responsable de las finanzas de cada partido deberá expedir recibos, de los que deberá conservar copia para sustentar los informes correspondientes.
+IV. La vigencia del oficio de adscripción; y
 
-II. El financiamiento de simpatizantes, se compondrá con las aportaciones voluntarias en dinero que éstos realicen, de las cuales deberá expedirse recibo foliado. Las aportaciones en especie se harán constar en convenio que al efecto se celebre.
+V. Constancia de que el miembro del Servicio acepta el Cargo y la adscripción.
 
-III. Las aportaciones en dinero y en especie realizadas por cada militante o simpatizante, no podrán exceder anualmente del 0.5% del financiamiento público que corresponda al partido político al que se dirija la aportación.
+Los documentos a que se refiere el presente artículo, formarán parte del expediente personal de cada miembro del Servicio.
 
-IV. El total de las aportaciones de los militantes, simpatizantes y candidatos de un partido político o coalición para actividades tendientes a la obtención del sufragio popular, no podrá exceder del 50% del monto total que por financiamiento público para actividades tendientes a la obtención del sufragio popular le corresponda al partido al que se dirijan las aportaciones en el año electoral correspondiente. Para la recepción de estas aportaciones, el órgano de cada partido o coalición a que se refiere la fracción I del artículo 60 de esta ley, deberá abrir una cuenta bancaria específica, cuyo manejo, administración y estado de cuenta deberá informarse invariablemente semanalmente a la Comisión de Contraloría y Fiscalización del Instituto, o cuando así lo requiera dicha comisión. Asimismo, de cada una de estas aportaciones el órgano responsable de las finanzas de cada partido deberá expedir recibo foliado, donde se identifique plenamente al aportante y del cual se dará en forma inmediata copia a la Comisión de Contraloría y Fiscalización del Instituto.
+###### ARTÍCULO 61.
 
-V. El autofinanciamiento se compondrá con los ingresos que los partidos políticos obtengan por sus actividades promocionales. El órgano responsable de las finanzas de cada partido deberá reportar los ingresos recibidos por este rubro.
+El personal del Servicio deberá protestar cumplir las disposiciones de la Constitución Federal, de la Constitución Local, las leyes que de ambas emanen y las del propio Consejo, por encima de cualquier interés particular, así como prestar lealtad al Instituto y a las leyes que lo rigen, al momento de tomar posesión del Cargo para el que fue nombrado.
 
-VI. El financiamiento por rendimientos financieros se compondrá de las inversiones, fondos o fideicomisos de los partidos políticos, constituidos con recursos propios o con las aportaciones antes referidas.
+### CAPÍTULO CUARTO. DE LA READSCRIPCIÓN
 
-VII. El financiamiento por aportaciones de organismos ejecutivos de los partidos políticos nacionales a sus comités estatales, podrá ser utilizado para sufragar los gastos generados por las actividades ordinarias permanentes que realicen los partidos políticos, pudiendo aplicar estos recursos a las precampañas y campañas electorales siempre y cuando dichas asignaciones no rebasen el tope de precampañas y campañas que se fijan en esta ley.
+###### ARTÍCULO 62.
 
-VIII. Cada partido político podrá obtener como financiamiento, por los conceptos a que se refieren este artículo, con excepción de la fracción IV, el 75% del monto que le corresponda por concepto de financiamiento público ordinario, el cual no podrá utilizarse por ningún motivo para actividades de precampañas o campañas electorales.
+La Readscripción es un acto que implica movilidad, mediante el cual un miembro del Servicio es adscrito a un área distinta al que ocupa, en un mismo Cargo u homólogo a éste.
 
-###### Artículo 58.
+###### ARTÍCULO 63.
 
-No podrán realizar aportaciones, transferencias o donativos a los partidos políticos, sea en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia las personas siguientes:
+La Junta podrá readscribir al personal del Servicio por necesidades del mismo, o a petición de una Dirección, con base en el dictamen que para tal efecto emita la Dirección Administrativa relativo a la procedencia de las solicitudes.
 
-I. Los poderes ejecutivo, legislativo o judicial, ya sean federales o locales, y los Ayuntamientos.
+Para elaborar sus dictámenes, la Dirección Administrativa considerará la idoneidad del solicitante y sus méritos, así como la adecuada integración de las Direcciones o Unidades correspondientes, e informará a sus titulares, quienes tendrán un mínimo de dos días hábiles para emitir, en su caso, sus observaciones.
 
-II. Las dependencias, entidades, organismos descentralizados o empresas de participación y fideicomisos de la federación, de los estados o de los municipios, salvo el Instituto quien tendrá a su cargo la entrega de las cantidades correspondientes al financiamiento público.
+La Readscripción se hará sin menoscabo de las remuneraciones y prestaciones que correspondan.
 
-III. Los partidos políticos, personas físicas o morales extranjeros.
+Los Directores y Unidades podrán solicitar a la Dirección Administrativa, por razones de operación, la Readscripción de cualquier miembro del Servicio adscrito a su área.
 
-IV. Los organismos internacionales de cualquier naturaleza.
+### CAPÍTULO QUINTO. DE LAS VACANTES
 
-V. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta.
+###### ARTÍCULO 64.
 
-VI. Las personas que vivan o trabajen en el extranjero.
+Por vacantes se entenderán los Cargos del Servicio que:
 
-VII. Las empresas mexicanas de carácter mercantil.
+I. Se hayan desocupado por separación del funcionario o deceso del mismo;
 
-VIII. Los partidos políticos nacionales o estatales entre si, salvo el caso que se encuentren coligados conforme a esta ley.
+II. Permanezcan desocupados por un periodo de más de quince días hábiles sin causa justificada;
 
-###### Artículo 59.
+III. Se hayan adicionado, por nueva creación, al Catálogo General de Cargos del Servicio;
 
-En ningún caso, los partidos políticos podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades y tampoco podrán recibir aportaciones de personas, morales o físicas, no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
+IV. Se hayan desocupado a causa del cambio de adscripción o ascenso de un miembro del Servicio; y
 
-###### Artículo 60.
+V. Se hayan desocupado por haber concluido la vigencia de un nombramiento temporal.
 
-Para el control y supervisión, internos y externos, del financiamiento de los partidos políticos, se estará a las siguientes reglas:
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN, FORMACIÓN Y DESARROLLO
 
-I. Para el control y supervisión internos, los partidos políticos deberán contar con un órgano interno encargado de la obtención y administración de sus recursos generales, ordinarios para actividades permanentes, de capacitación y fortalecimiento estructural y relativos a la obtención del sufragio popular, así como de la formulación y presentación de los informes que deben rendir sobre sus ingresos y egresos y sobre los gastos de precampañas y campañas electorales.
+I. DE LA CAPACITACIÓN.
 
-Dicho órgano deberá acreditarse ante el Instituto por su representante legal dentro de los primeros quince días del mes de enero del año que corresponda, y será responsable de implementar los sistemas contables, catálogos de cuentas y lineamientos que para el control y supervisión del financiamiento establezca el Instituto.
+II. DEL PROGRAMA DE FORMACIÓN Y DESARROLLO
 
-II. Los partidos políticos deberán presentar a la Comisión de Contraloría y Fiscalización del Instituto, los siguientes informes: sobre el total de ingresos y egresos un informe trimestral en los meses de abril, julio, octubre y enero; y sobre los gastos de campañas para gobernador, por cada una de las fórmulas de los diputados de mayoría relativa y por cada una de las planillas de los Ayuntamientos, según sea el caso, dentro de los primeros cinco días hábiles del mes de enero del año siguiente a la celebración del proceso electoral respectivo.
+###### ARTÍCULO 65.
 
-###### Artículo 61.
+La ocupación de vacantes podrá llevarse al cabo mediante incorporación provisional con base en el Concurso de Oposición, Incorporación temporal, Reincorporación o Readscripción.
 
-Para el control y supervisión externos de los ingresos y egresos de los partidos políticos se estará a lo siguiente:
+## TÍTULO CUARTO. PROCESO DE CAPACITACIÓN, FORMACIÓN Y DESARROLLO
 
-I. La revisión de los informes referidos, estará a cargo de una Comisión de Contraloría y Fiscalización del Instituto, la cual contará con el apoyo de un Secretario Técnico y el personal auxiliar que se autorice para su eficaz funcionamiento. La Comisión está facultada para obtener de los partidos y asociaciones políticas las aclaraciones, datos y comprobaciones que considere necesarias para la adecuada revisión de los informes.
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN, FORMACIÓN Y DESARROLLO
 
-Si en el curso de la revisión de los informes, dicha comisión detectara irregularidades, omisiones o errores, citará de inmediato al partido respectivo por conducto de su presidente, haciendo de su conocimiento el motivo del citatorio, para que comparezca en un plazo no mayor de cinco días naturales, para que aclare, ofrezca pruebas o alegue lo que a su derecho convenga.
+###### ARTÍCULO 66.
 
-II. La Comisión de Contraloría y Fiscalización dispondrá de 90 días hábiles para revisar los informes de gastos de campaña y de 30 días hábiles para hacer lo propio con los informes trimestrales de los partidos políticos, ambos períodos empezarán a contar a partir del día siguiente en que se venza el plazo para su presentación. Una vez transcurridos dichos plazos sin que haya emitido el dictamen respectivo, los informes se considerarán aprobados.
+La Capacitación, Formación y Desarrollo integran el proceso que tiene como fin asegurar el logro de los objetivos institucionales, proporcionando al personal del Servicio las herramientas teórico-prácticas para realizar sus funciones en cada uno de los Cargos, asegurando su desarrollo profesional y humano, fomentando su comportamiento ético y espíritu de servicio, vinculando el interés particular de cada miembro con el interés institucional del Organismo Electoral.
 
-III. La Comisión de Contraloría y Fiscalización rendirá el dictamen correspondiente al Consejo General del Instituto, para su aprobación o modificación en su caso, el cual deberá contener cuando menos: el resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos; la mención de los errores o irregularidades encontradas en los mismos; y el señalamiento de las aclaraciones o rectificaciones que presentaron los partidos políticos, después de haberles notificado con ese fin. Lo anterior, a efecto de que se tomen las medidas correctivas o se impongan las sanciones que correspondan.
+I. DE LA CAPACITACIÓN
 
-IV. Los partidos políticos podrán impugnar ante la autoridad correspondiente el dictamen y resolución que emita el Instituto, en la forma y términos previstos en esta ley.
+###### ARTÍCULO 67.
 
-###### Artículo 62.
+La Capacitación se desarrollará a través de los cursos necesarios impartidos por el Departamento con la colaboración de las Direcciones y Unidades Técnicas, propuestos por la Dirección Administrativa y aprobados por la Junta, previo conocimiento de la Comisión.
 
-La Comisión de Contraloría y Fiscalización del Instituto tendrá a su cargo, además de las atribuciones que le señale la ley, las correspondientes a la revisión de los informes a que se refieren los artículos anteriores.
+II. DEL PROGRAMA DE FORMACIÓN Y DESARROLLO
 
-###### Artículo 63.
+###### ARTÍCULO 68.
 
-El Instituto determinará los topes de gastos de precampañas y campañas que realicen los partidos políticos, las coaliciones y sus candidatos conforme a esta ley.
+El Programa está constituido por las actividades de carácter académico y técnico orientadas a ofrecer a los funcionarios, miembros del Servicio, provisionales y titulares, conocimientos básicos para desarrollar el Cargo y conocimientos especializados, que les permitan mejorar y aumentar el desarrollo de sus capacidades personales y por tanto ofrecer mejores resultados institucionales hasta obtener tanto lo individual como en lo institucional la profesionalización de los Cuerpos que integran el Instituto.
 
-###### Artículo 64.
+###### ARTÍCULO 69.
 
-Los topes de gastos de precampañas y campañas electorales que realicen los partidos políticos, las coaliciones y sus candidatos serán los siguientes:
+La Dirección Administrativa, a través de la Subdirección del Servicio desarrollará el Programa, por tanto definirá sus contenidos con base en la opinión de las Direcciones, y los miembros del Servicio. Con el criterio anterior, fijará sus modalidades y sus reglas de calificación; con el apoyo de los Departamentos de Normatividad y Procedimientos y de Formación y Desarrollo.
 
-I. Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos en las campañas electorales, no podrán rebasar los topes que para cada elección acuerde el Consejo General del Instituto Electoral y de Participación Ciudadana.
+###### ARTÍCULO 70.
 
-II. Los partidos políticos o coalición podrán realizar gastos con motivo de sus precampañas para elegir candidatos a cargos de elección popular, hasta por la cantidad equivalente al 15% del monto del tope de gastos de campaña para la elección de que se trate, según este artículo.
+El Programa estará integrado por las siguientes fases:
 
-III. Para los efectos de este artículo, quedarán comprendidos dentro de los topes de gastos de campaña los que se refieren a gastos de propaganda, gastos operativos de la campaña y gastos de propaganda en prensa, radio y televisión.
+I. Formación básica;
 
-IV. Los gastos de campaña comprenden los realizados en equipos de sonido, apoyo logístico, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares.
+II. Formación especializada; y
 
-V. Los gastos operativos en la campaña comprenden sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personas, viáticos y otros similares.
+III. Formación profesional.
 
-VI. Los gastos de propaganda en prensa, radio y televisión comprenden los realizados en cualquiera de estos medios tales como mensajes, anuncios publicitarios y sus similares, tendientes a la obtención del sufragio popular.
+###### ARTÍCULO 71.
 
-### CAPÍTULO SÉPTIMO. LAS COALICIONES, FUSIONES Y CANDIDATURAS COMUNES
+La acreditación de las materias de la fase de formación básica profesional será obligatoria para los miembros provisionales del Servicio, y es requisito acreditarla para tener acceso a la siguiente fase de formación.
 
-###### Artículo 65.
+Los contenidos de esta fase se dividirán en:
 
-Los partidos políticos podrán formar coaliciones para cada una de las elecciones en que deseen participar, sean de gobernador, diputados al Congreso del Estado o Ayuntamientos, previo el convenio respectivo para cada una de ellas, el cual deberá contener lo siguiente:
+I. Introductorios a la materia electoral, que buscarán dar homogeneidad de conocimientos a los funcionarios electorales; y
 
-I. Los partidos políticos que la integran.
+II. Los relativos a las áreas del conocimiento afines a las actividades y a los Cuerpos del Instituto.
 
-II. La elección o elecciones que la motivan.
+###### ARTÍCULO 72.
 
-III. El nombre, apellidos, edad, lugar de nacimiento y domicilio de los candidatos.
+La fase de formación especializada será de carácter obligatorio para el personal que aspire a ser miembro titular del Servicio y tendrá por objeto profundizar y actualizar los conocimientos en áreas o materias específicas de interés para el Instituto, facilitando así, el desempeño del personal en su conjunto y no exclusivamente en un Cargo.
 
-IV. El emblema o los emblemas y el color o colores que distinguirán a la coalición.
+Para el diseño de esta fase se podrán tomar en cuenta los resultados obtenidos por los miembros del Servicio en la Evaluación del desempeño.
 
-V. El cargo para el que se postula a los ciudadanos.
+###### ARTÍCULO 73.
 
-VI. La forma de distribución del financiamiento que les corresponda.
+La fase de formación profesional será la que implique el adquirir conocimientos de nivel postgrado, dirigidos a conseguir objetivos institucionales, debiendo dichos conocimientos ser impartidos por una Institución de Educación Superior, reconocida por la Secretaría de Educación Pública.
 
-VII. El orden de prelación para la conservación del registro en el caso de partidos estatales, de acuerdo al porcentaje de votación establecido en esta ley.
+###### ARTÍCULO 74.
 
-VIII. La documentación que acredite la aceptación de la coalición por las asambleas estatal, distritales y municipales u órgano equivalente de cada uno de los partidos políticos que se pretendan coligar.
+La Dirección Administrativa diseñará y determinará, con el apoyo del Departamento, el proyecto que defina los contenidos de las fases de formación básica, especializada y profesional, mismo que aprobará la Junta.
 
-Para estos efectos, en caso de coalición para gobernador se deberán realizar asambleas cuando menos en la mitad de los municipios del estado, y una estatal, en las que deberán participar los representantes de cada uno de los partidos políticos participantes.
+###### ARTÍCULO 75.
 
-En el caso de coalición para diputados o Ayuntamientos, se deberán celebrar las asambleas distritales y municipales, respectivamente, en cada uno de los distritos o municipios en los que los partidos políticos deseen celebrar la coalición.
+La Dirección Administrativa coordinará, con el apoyo del Departamento, la realización de los cursos necesarios para impartir los contenidos de las fases del Programa.
 
-Dichas asambleas se celebrarán conforme a los estatutos que rigen la vida interna de los partidos políticos que se pretenden coligar, las cuales deberán llevarse a cabo en presencia y bajo vigilancia de los miembros que integren la comisión de verificación para el registro de coaliciones, o la subcomisión que los represente en su caso; de cada asamblea deberá levantarse acta elaborada por uno o varios notarios públicos acreditados por el Instituto, previa solicitud de los partidos políticos interesados, debiendo estos últimos cubrir los honorarios correspondientes.
+###### ARTÍCULO 76.
 
-IX. La plataforma electoral que sustente la postulación de candidatos presentada por la coalición, así como la documentación que compruebe que los órganos correspondientes de cada partido político, aprobaron la plataforma electoral de la coalición y la candidatura o las candidaturas propuestas, requiriéndose que las asambleas o reuniones en donde esto se apruebe, se celebren en presencia de la Comisión de Verificación para el Registro de Coaliciones, o la subcomisión correspondiente en su caso, de la cual deberá levantarse acta por un notario público acreditado por el Instituto.
+La Dirección Administrativa seleccionará, elaborará, con el apoyo del Departamento, los textos y cursos de las materias que compongan el Programa; así como los materiales didácticos necesarios.
 
-X. La especificación del partido o grupo parlamentario a que pertenecerán los diputados por el principio de representación proporcional que les correspondan.
+###### ARTÍCULO 77.
 
-XI. En el caso de diputados de mayoría relativa, el convenio de coalición deberá indicar a qué partido político o grupo parlamentario representará en el seno del Congreso, en caso de obtener el triunfo en el distrito electoral correspondiente. Dicha asignación deberá ser distrito por distrito y en el total de aquellos en que se postulen candidatos de mayoría relativa por dicha coalición.
+Los miembros del Servicio podrán ser requeridos por el Instituto para colaborar en la impartición de asesorías sobre el contenido de las materias del Programa.
 
-###### Artículo 66.
+### CAPÍTULO PRIMERO. DE LA EVALUACIÓN
 
-Los partidos políticos que pretendan formar una coalición, deberán manifestar por escrito al Instituto, a más tardar 40 días antes del inicio del periodo de registro de candidatos de la elección en que pretendan coligarse, su voluntad de constituirla, para que se proceda a integrar la comisión de verificación correspondiente. El escrito en mención deberá contener un calendario que fije las fechas y horarios del total de las asambleas que deban celebrarse para este efecto, dentro de los períodos estimados en este ordenamiento, con el fin de que la citada comisión programe sus trabajos.
+###### ARTÍCULO 78.
 
-###### Artículo 67.
+Sólo en los procesos electorales, el Consejo General podrá suspender la aplicación del Programa.
 
-Para fines de las coaliciones, los partidos políticos que se pretendan coligar deberán registrar ante el Instituto, la plataforma política común y el convenio de coalición, a más tardar a las 12:00 horas del décimo octavo día anterior a aquél en que se de inicio al período de registro de candidatos fijado en esta ley, debiendo la Comisión correspondiente del Instituto resolver sobre el registro dentro de los tres días siguientes a la conclusión del período establecido para el registro de la plataforma política.
+###### ARTÍCULO 79.
 
-###### Artículo 68.
+La Dirección Administrativa en coordinación con las demás Direcciones del Instituto, promoverá cursos y actividades complementarias de Formación y Desarrollo profesional vinculadas con los fines y actividades del Instituto.
 
-El Instituto, resolverá sobre el registro de las coaliciones, previa comprobación y análisis del dictamen rendido por la Comisión de Verificación para el registro de coaliciones respecto del cumplimiento de cada uno de los requisitos establecidos por las disposiciones aplicables, por parte de los partidos solicitantes.
+## TÍTULO QUINTO. PROCESO DE EVALUACIÓN
 
-Cuando proceda el registro, el Instituto expedirá certificado haciéndolo constar y lo comunicará a los demás organismos electorales y al Tribunal Electoral. En caso de negativa, fundamentará las causas que la motiven y lo comunicará a los interesados. Su resolución deberá publicarse, en todo caso, en el Periódico Oficial del Gobierno del Estado.
+### CAPÍTULO PRIMERO. DE LA EVALUACIÓN
 
-Concedido el registro de la coalición y previo análisis de los requisitos consignados en el presente ordenamiento legal, los candidatos de la misma deberán ser registrados en el período previsto en la presente Ley.
+###### ARTÍCULO 80.
 
-###### Artículo 69.
+La Evaluación es el proceso que tiene como finalidad analizar, valuar y calificar el cumplimiento de las funciones asignadas al personal, así como la participación y aprovechamiento, en los programas de Formación y Desarrollo.
 
-La coalición que formen dos o más partidos políticos será total para la elección de gobernador; pudiendo ser parcial para la de diputados y Ayuntamientos.
+###### ARTÍCULO 81.
 
-###### Artículo 70.
+El Instituto, a través de la Dirección Administrativa, llevará al cabo un proceso de Evaluación de los miembros del Servicio, que incluirá una Evaluación del rendimiento en el desempeño, una Evaluación del aprovechamiento en el programa de Formación y Desarrollo y una Evaluación global en términos de los Capítulos Segundo, Tercero y Cuarto de este Título Quinto.
 
-Respecto a la elección de los miembros de los Ayuntamientos, los partidos coligados deberán registrar planillas de candidatos en uno o más municipios; en el caso de la elección de diputados, deberán registrar fórmulas de candidatos, en dos o más distritos electorales. En estos casos, las coaliciones en los distintos distritos o municipios deberán integrarse con los mismos partidos políticos.
+###### ARTÍCULO 82.
 
-Para todos los efectos legales, los votos que obtengan los candidatos postulados por las coaliciones, se dividirán en la forma que acuerden los partidos políticos en su convenio de coalición. A la coalición será asignada el número de diputados y regidores de los Ayuntamientos por el principio de representación proporcional que le correspondan, como si se tratará de un sólo partido y en el caso de diputados, quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio de coalición.
+Toda Evaluación estará compuesta por un conjunto de procedimientos que la Dirección Administrativa propondrá a la Junta, previo conocimiento de la Comisión; y tendrá por objeto apoyar en la toma de decisiones relativas a la Readscripción, la Titularidad, la Disponibilidad, el Ascenso, la aplicación de Incentivos, la Formación, la Promoción y la Imposición de Sanciones del personal, en su caso.
 
-###### Artículo 71.
+La Dirección Administrativa establecerá los procedimientos para difundir los criterios y los factores a calificar con anticipación al periodo que será evaluado; notificándolos para tal efecto al personal correspondiente.
 
-La coalición que presente candidatos a diputados por el principio de mayoría relativa y candidatos a miembros de los Ayuntamientos, comprenderá siempre fórmulas o planillas con propietarios y suplentes.
+###### ARTÍCULO 83.
 
-###### Artículo 72.
+La Dirección Administrativa se apoyará en la Subdirección del Servicio para analizar y, en su caso, decidir el valor curricular de las actividades de Formación y Desarrollo profesional en términos del artículo 118 de este Estatuto que realicen los miembros del Servicio fuera del Programa, para efectos de la Evaluación global.
 
-La coalición por la que se postulen candidatos a Gobernador del Estado, diputados o miembros de Ayuntamientos, se sujetarán a lo siguiente:
+# LIBRO PRIMERO. DEL SERVICIO ELECTORAL PROFESIONAL
 
-I. Deberá acreditar ante el Instituto, los Comités Municipales o Distritales Electorales, según corresponda, dos representantes propietarios con su respectivo suplente.
+## TÍTULO SEXTO. PROCESO DE PROMOCIÓN
 
-La coalición actuará y tendrá efectos como un solo partido y, por lo tanto, la representación de la misma sustituye, para todos los efectos legales a que haya lugar, a la de los coligados y en consecuencia, en dichos organismos electorales no podrá, en ningún caso, haber representantes individuales de los partidos políticos coligados. Sólo en el caso de las coaliciones parciales para las elecciones de Ayuntamientos y diputados, los partidos políticos coligados podrán optar por conservar su representación individual ante el Instituto, o en su caso, nombrar un representante común.
+###### ARTÍCULO 84.
 
-II. Disfrutará de las prerrogativas que otorga esta ley, conforme a las siguientes disposiciones:
+La Evaluación del rendimiento se aplicará anualmente a los miembros del Servicio.
 
-1. En relación al financiamiento público para actividades tendientes al sufragio popular, única y exclusivamente disfrutará del monto que corresponda a la suma de los montos asignados para cada uno de los partidos coligados, de conformidad con el artículo 56 y demás relativos de esta ley. En todo caso, este financiamiento público deberá corresponder a las elecciones y ámbito territorial específico en que se presente la coalición, de conformidad con las disposiciones aplicables.
+###### ARTÍCULO 85.
 
-2. Respecto al acceso a los medios de comunicación, disfrutará de las prerrogativas correspondientes como si se tratara de un solo partido, de acuerdo a lo estipulado en la presente ley.
+La Dirección Administrativa con el apoyo de la Subdirección del Servicio instrumentará una Evaluación especial para cada proceso electoral, cuyos resultados serán parte de la Evaluación del rendimiento.
 
-3. Por lo que se refiere al tope de gastos de campaña, el límite será el que señale el artículo 64 de esta ley.
+###### ARTÍCULO 86.
 
-III. Concluido el proceso electoral, la coalición quedará sin efecto.
+La Evaluación del aprovechamiento en el Programa tendrá una periodicidad de seis meses entre cada examen y podrá suspenderse en proceso electoral por acuerdo del Consejo, y se reanudarán una vez concluido dicho proceso, conforme a las condiciones acordadas.
 
-###### Artículo 73.
+###### ARTÍCULO 87.
 
-Los partidos políticos que integren coalición, no podrán postular candidatos propios en la elección de Gobernador. En el caso de la elección de Ayuntamientos y diputados, no podrán postular candidatos propios en los municipios o distritos en donde haya postulado la coalición de la que ellos formen parte. En estos dos últimos casos, podrán hacerlo donde no haya postulado la coalición.
+Dentro del primer semestre de cada año, la Junta, por conducto de las Direcciones correspondientes, notificará a los miembros del Servicio, de manera personal, las calificaciones obtenidas en la Evaluación del rendimiento en el desempeño del año anterior y en la Evaluación del aprovechamiento en el Programa, así como el reporte de Evaluación global que haya elaborado la Dirección Administrativa.
 
-###### Artículo 74.
+### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN DEL RENDIMIENTO
 
-Los partidos políticos, nacional o estatal, con registro que vayan a participar por primera vez en una elección local no podrán hacerlo en coalición.
+###### ARTÍCULO 88.
 
-###### Artículo 75.
+La Evaluación del rendimiento es aquélla que se realizará dentro de los 3 primeros meses de cada año, tomando en cuenta los objetivos previamente planeados conforme a las políticas y programas del Instituto considerando factores de eficacia, eficiencia, principios de actuación, desarrollo laboral, trabajo en equipo y demás factores que determine la Junta.
 
-En la formación de coaliciones se observará lo siguiente:
+###### ARTÍCULO 89.
 
-I. Ningún partido político podrá postular como candidato propio para la misma elección, a quien o quienes ya hayan sido registrados como candidatos por alguna coalición.
+La Junta determinará con la participación del personal del Servicio, por medio de un acuerdo, los programas, objetivos, mecanismos y procedimientos que servirán para evaluar el rendimiento del personal del Servicio al año siguiente. Los parámetros y factores a evaluar correspondientes para cada Cargo del Servicio serán entregados por la Dirección Administrativa a los funcionarios del Servicio contra acuse de recibo. Dicha Evaluación deberá contar con la participación del superior jerárquico de cada miembro del Servicio.
 
-II. Ninguna coalición podrá postular como candidato a quien o quienes ya hayan sido registrados por algún partido político en la misma elección.
+La Comisión podrá hacer observaciones al sistema de Evaluación.
 
-###### Artículo 76.
+###### ARTÍCULO 90.
 
-Los partidos políticos estatales podrán celebrar convenios de fusión, dando lugar a un nuevo partido político.
+La Dirección Administrativa con el acuerdo de la Comisión, diseñará en los meses de octubre y noviembre de cada año los formatos de Evaluación del desempeño anual y la Evaluación especial para proceso electoral y se pondrán a consideración de la Junta para su análisis y aprobación.
 
-Dicho convenio deberá contener la denominación, emblema y color o colores con que se ostentará el nuevo partido, así como su declaración de principios, programa de acción y estatutos.
+###### ARTÍCULO 91.
 
-Los documentos mencionados serán puestos a disposición de la Comisión de Verificación del Instituto para su análisis y presentación del dictamen correspondiente. Dentro de un plazo máximo de treinta días naturales contados a partir de la fecha de presentación de estos documentos, el Instituto deberá resolver lo conducente.
+La Junta aprobará, en su caso, los proyectos de dictamen de Evaluación del rendimiento que la Dirección Administrativa le presente con base en las cédulas.
 
-Si el partido político producto de la fusión, pretende participar en los procesos electorales, deberá presentar el convenio a que alude el párrafo anterior ante el Instituto, a más tardar dentro de los treinta días posteriores al inicio del proceso electoral.
+###### ARTÍCULO 92.
 
-###### Artículo 77.
+La Dirección Administrativa deberá notificar dentro de un periodo de treinta días naturales posteriores a la aprobación de los dictámenes por parte de la Junta, a los Directores y titulares de las Unidades Técnicas, las calificaciones que correspondan a cada miembro del Servicio adscrito a su área, para que éstos informen personalmente dentro de los 3 días hábiles siguientes al que reciban dichas calificaciones, los resultados a cada miembro del Servicio.
 
-Dos o más partidos políticos, sin mediar coalición, pueden postular al mismo candidato o candidatos, lista, fórmula o planilla, debiendo cumplir con lo siguiente:
+## TÍTULO SÉPTIMO. DE LOS DERECHO (SIC), OBLIGACIONES Y PROHIBICIONES DEL PERSONAL DEL SERVICIO
 
-I. Presentar por escrito la aceptación a la candidatura del ciudadano a postular.
+### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN DEL RENDIMIENTO
 
-II. Presentar el convenio certificado por notario público de los partidos postulantes y el candidato, en los términos establecidos en sus estatutos, en donde se indiquen las aportaciones de cada uno para gastos de la campaña, sujetándose a los límites de contratación en radio y televisión que fije el Consejo General del Instituto, así como a los topes de gastos de precampaña y campaña electorales fijados en esta ley.
+###### ARTÍCULO 93.
 
-El convenio deberá presentarse dentro de un plazo de quince días que concluirá a más tardar 5 días antes del inicio del registro de candidatos de la elección que la motive y el Consejo General resolverá antes de que inicie el plazo para el registro de candidatos.
+Las inconformidades sobre la Evaluación del rendimiento de los miembros del Servicio podrán presentarse por escrito de manera fundada y motivada, acompañadas de los elementos que las sustenten, ante la Dirección Administrativa, dentro de los diez días hábiles siguientes a la fecha en la que surta efectos la notificación personal de resultados de la Evaluación del desempeño.
 
-Los votos se computarán a favor de cada uno de los partidos políticos que los haya obtenido y se sumarán a favor del candidato.
+###### ARTÍCULO 94.
 
-Para efecto de la integración de los organismos electorales, los partidos políticos que registren candidato común podrán tener su propio representante.
+Las inconformidades a las que se refiere el artículo anterior se harán del conocimiento de la Comisión y de la Junta, quienes podrán tomar en cuenta la propuesta de la Dirección Administrativa para determinar lo conducente. Las resoluciones que se emitan al respecto serán definitivas, y no procederá recurso alguno en contra de ellas.
 
-### CAPÍTULO OCTAVO. LAS ASOCIACIONES POLÍTICAS
+###### ARTÍCULO 95.
 
-###### Artículo 78.
+La Dirección Administrativa a propuesta de la Subdirección del Servicio, presentará a la Junta un reporte sobre el proceso y los resultados de la Evaluación del rendimiento del personal del Servicio en el año anterior. A su vez, la Junta, por medio del Director General, entregará al Consejero Presidente un reporte de los resultados de la Evaluación del desempeño del personal del Servicio para que éste lo haga del conocimiento del Consejo General.
 
-Para complementar el sistema de partidos políticos, discutir ideas y difundir ideologías, los ciudadanos podrán agruparse en asociaciones políticas estatales, en los términos de la presente ley.
+###### ARTÍCULO 96.
 
-###### Artículo 79.
+La permanencia del personal del Servicio en el Instituto estará sujeta a la aprobación de la Evaluación del rendimiento mediante la obtención del certificado de aprobación. El personal del Servicio que no obtenga dicho certificado, será destituido del Servicio.
 
-Las asociaciones políticas estatales son susceptibles de transformarse, cumpliendo los requisitos que marca esta ley, en partidos políticos que contribuyan al desarrollo de una opinión política mejor informada y con mayor densidad ideológica.
+El miembro del Servicio que obtenga certificado condicionado, entrará, durante el año inmediato posterior al periodo evaluado, a un programa especial cuyas características fijará la Dirección Administrativa. La Evaluación del rendimiento de dicho miembro en el año inmediato posterior al periodo en que éste obtuvo dicha calificación contendrá un filtro de evaluación adicional que ponderará el mejoramiento en los aspectos en los que el miembro del Servicio haya presentado deficiencias.
 
-###### Artículo 80.
+### CAPÍTULO TERCERO. DE LA EVALUACIÓN DEL APROVECHAMIENTO DEL PROGRAMA
 
-Toda asociación política estatal, conservando su personalidad jurídica, podrá participar en procesos electorales estatales mediante convenios de incorporación con un partido político, la candidatura propuesta por la asociación política estatal al partido político, será registrada por éste y será votada con la denominación, emblema y color o colores de dicho partido. En la propaganda electoral se podrá mencionar a la asociación incorporada.
+###### ARTÍCULO 97.
 
-###### Artículo 81.
+La Dirección Administrativa evaluará por medio de exámenes semestrales, con la participación del Departamento el aprovechamiento de los miembros del Servicio en el Programa. Notificará por escrito, a los sustentantes que deberán presentar exámenes, las fechas, las materias, estableciendo las medidas de seguridad y solicitando los apoyos que considere necesarios.
 
-Para obtener el registro como asociación política estatal, quien lo solicite deberá acreditar ante el Instituto los requisitos siguientes:
+###### ARTÍCULO 98.
 
-I. Contar con un mínimo de seis mil asociados en el estado. Para la comprobación de este requisito, la organización política deberá presentar cédulas de afiliación individuales por cada uno de sus miembros, las que deberán contener los datos de identificación del afiliado, domicilio, clave de elector y firma de conformidad, acompañándola de copia simple de su credencial para votar por ambas caras.
+La permanencia en el Servicio estará sujeta a la aprobación de los exámenes correspondientes a las materias del Programa. Para tal efecto, cada miembro del Servicio tendrá hasta dos oportunidades para aprobar cada una de las materias del Programa.
 
-II. Contar con un órgano directivo de carácter estatal y con delegaciones en cuando menos la mitad de los municipios del estado.
+###### ARTÍCULO 99.
 
-III. Disponer de documentos en que se expresen los lineamientos ideológicos y las normas para su vida interna, así como una denominación, emblema, color o colores distintos a cualquier asociación o partido político.
+Los miembros de nuevo Ingreso al Servicio, con excepción de los temporales, tendrán la obligación de presentar los exámenes de las materias del Programa a partir de los seis meses posteriores a su Incorporación o una vez transcurrido el proceso electoral.
 
-###### Artículo 82.
+### CAPÍTULO TERCERO. DE LA EVALUACIÓN DEL APROVECHAMIENTO DEL PROGRAMA
 
-Las asociaciones políticas estatales tendrán personalidad jurídica y los derechos y obligaciones establecidos en esta ley, en cuanto a su financiamiento estarán reguladas por lo que establece el artículo 58 de este ordenamiento.
+###### ARTICULO 100.
 
-###### Artículo 83.
+La Subdirección del Servicio deberá enviar a los miembros del Servicio, con el apoyo del Departamento, los materiales didácticos y de apoyo para el estudio de las materias del Programa, al menos con sesenta días naturales de anticipación a la fecha de aplicación de los exámenes. También podrá implementar cursos para la aprobación de las materias respetando los plazos señalados en este Estatuto, mismos que serán complementarios al estudio de los textos y materiales didácticos.
 
-El Instituto estimulará el desarrollo de las asociaciones políticas estatales.
+###### ARTÍCULO 101.
 
-# LIBRO TERCERO. EL PROCESO ELECTORAL
+La Dirección Administrativa, dentro de los treinta días naturales siguientes a la fecha de aplicación de los exámenes, notificará personalmente y por escrito sus resultados a cada uno de los sustentantes.
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+###### ARTÍCULO 102.
 
-###### Artículo 84.
+La Subdirección del Servicio integrará un registro de las materias del Programa, las calificaciones y oportunidades de acreditación de cada uno de los miembros del Servicio.
 
-Los procesos electorales son el conjunto de decisiones, actos, tareas y actividades que realizan los organismos electorales estatales, los partidos políticos y los ciudadanos coahuilenses, tendientes a renovar periódicamente a los integrantes de los poderes Ejecutivo y Legislativo, así como a los miembros de los Ayuntamientos del estado.
+La presentación de exámenes es obligatoria para los miembros del Servicio. En caso de no presentarse sin causa justificada recibirán una calificación No Aprobatoria.
 
-###### Artículo 85.
+Los miembros del Servicio que por motivo de salud, no puedan asistir el día y hora indicados deberán acreditar ante la Subdirección del Servicio su incapacidad mediante el justificante médico que les expida el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla. Los justificantes sólo podrán presentarse hasta dos días hábiles después de la fecha del examen. La valoración de los justificantes de otro tipo, quedará sujeta al dictamen que emita la Dirección Administrativa. Ésta deberá notificar por escrito y en forma personal al miembro del Servicio la resolución que corresponda, dentro de los quince días hábiles siguientes a la fecha de celebración del examen.
 
-El proceso electoral ordinario se inicia el día quince del mes de marzo del año en que deban realizarse elecciones y concluye en el mes de diciembre del mismo año, una vez que los organismos electorales hayan cumplido con las obligaciones que les marca las disposiciones aplicables.
+###### ARTÍCULO 103.
 
-###### Artículo 86.
+Las calificaciones de los exámenes de las materias del Programa serán: Aprobado y No Aprobado.
 
-Para los efectos de esta ley, el proceso electoral ordinario comprende las etapas siguientes:
+###### ARTÍCULO 104.
 
-I. Preparación de la elección.
+Los miembros del Servicio podrán solicitar por escrito al titular de la Dirección Administrativa la revisión de los exámenes sustentados, dentro de los diez días naturales siguientes a la fecha de notificación de sus resultados.
 
-II. Jornada electoral.
+El titular de dicha Dirección tendrá tres días para notificar por escrito la fecha y hora en que se realizará dicha revisión, debiendo estar comprendida dentro de los 15 días siguientes al que el miembro del Servicio solicite la revisión de su examen.
 
-III. Resultados de las elecciones.
+### CAPÍTULO CUARTO. DE LA EVALUACIÓN GLOBAL
 
-IV. Calificación y declaración de validez de las elecciones.
+###### ARTÍCULO 105.
 
-###### Artículo 87.
+La Evaluación global del personal comprenderá la Evaluación del Rendimiento y la Evaluación del Aprovechamiento de las materias del Programa con base en los resultados que definan los aspectos cuantitativos y cualitativos que se hayan determinado para tal efecto, así como de la consideración de las sanciones y los incentivos, cuyos pesos y mecanismos de ponderación para el efecto serán aprobados por la Junta, a propuesta de la Dirección Administrativa, previo conocimiento de la Comisión.
 
-La etapa de preparación de las elecciones se inicia con la primera sesión del Instituto y concluye al iniciarse la jornada electoral.
+## TÍTULO SEXTO. PROCESO DE PROMOCIÓN
 
-###### Artículo 88.
+### CAPÍTULO PRIMERO. DE LA PROMOCIÓN EN NIVELES
 
-La jornada electoral inicia a las ocho horas del día de la elección y concluye con la firma del acta en donde se consignan la instalación, cierre y resultados, misma que autoriza su publicación y el traslado de los paquetes de votación a la autoridad responsable de su acopio.
+###### ARTÍCULO 106.
 
-###### Artículo 89.
+La Promoción es el movimiento ascendente de los miembros titulares en la estructura de Niveles del Servicio y estará basada en los resultados de la Evaluación global de acuerdo con los lineamientos que al efecto, establezca la Junta.
 
-La etapa de resultados de la elección inicia con la remisión de la documentación y expedientes electorales a las autoridades encargadas de su acopio y concluye, con el inicio de los trabajos de los organismos electorales para su calificación.
+### CAPÍTULO CUARTO. DE LA EVALUACIÓN GLOBAL
 
-###### Artículo 90.
+###### ARTÍCULO 107.
 
-La etapa de calificación comprende el desarrollo de los trabajos que realicen el Instituto, los Comités Distritales Electorales y los Comités Municipales Electorales y concluye cuando éstos declaren, según sea el caso, la validez o nulidad de las elecciones.
+Para poder obtener promociones en Niveles, los miembros del Servicio deberán permanecer como titulares en su Nivel por lo menos un año.
 
-###### Artículo 91.
+###### ARTÍCULO 108.
 
-El Instituto iniciará los trabajos de preparación, desarrollo y vigilancia del proceso electoral el quince de marzo del año de las elecciones.
+De acuerdo a las posibilidades presupuestales del Instituto, la Junta convocará, cada año, a participar en la Promoción, estableciendo, a propuesta de la Subdirección del Servicio, el número de promociones a otorgar en cada Nivel. La Dirección Administrativa a propuesta de la Subdirección del Servicio, someterá a la aprobación de la Junta, previo conocimiento de la Comisión, los dictámenes de promociones correspondientes.
 
-Los Comités Distritales y Municipales Electorales, iniciarán sus trabajos cuando menos cinco meses antes del día de la jornada electoral del año de la elección de diputados y miembros de los Ayuntamientos y, en su caso, de Gobernador del Estado.
+### CAPÍTULO SEGUNDO. DEL ASCENSO EN LOS CARGOS
 
-###### Artículo 92.
+###### ARTÍCULO 109.
 
-Los Comités Distritales y Municipales Electorales entrarán en receso al concluir el proceso electoral, pero el Presidente del Instituto podrá convocarlos a períodos extraordinarios de trabajo y, en todo caso, para el caso de elecciones extraordinarias.
+El Ascenso del personal del Servicio es la obtención de un Cargo superior en la estructura orgánica, dentro de los Cargos del Servicio, y procederá básicamente mediante el Concurso de Oposición para ocupar vacantes.
 
-## TÍTULO SEGUNDO. LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
+###### ARTÍCULO 110.
 
-### CAPÍTULO PRIMERO. LA DIVISIÓN TERRITORIAL Y EL PADRÓN ELECTORAL
+El procedimiento de Ascenso en Cargos será independiente de la Promoción en Niveles.
 
-###### Artículo 93.
+### CAPÍTULO TERCERO. DE LA TITULARIDAD
 
-El territorio del estado se dividirá, para las elecciones de diputados al Congreso del Estado, en veinte distritos electorales.
+###### ARTÍCULO 111.
 
-###### Artículo 94.
+La Titularidad se obtiene, mediante el nombramiento otorgado a los miembros del Servicio que cumplan con los requisitos establecidos en el presente Estatuto.
 
-Para la elección de gobernador, presidentes municipales, regidores y síndicos de los Ayuntamientos, se estará a la división política municipal en vigor.
+La Titularidad motiva la permanencia en el Servicio y con su obtención, el personal adquiere la posibilidad de obtener promociones.
 
-###### Artículo 95.
+###### ARTÍCULO 112.
 
-En el estado y para los efectos de esta ley, será válido el registro de electores y las credenciales para votar que en la entidad haya integrado y expedido el Instituto Federal Electoral.
+La Titularidad se otorgará en el Nivel que los miembros del Servicio hayan obtenido en su nombramiento provisional; a partir de dicho Nivel podrán iniciar su Promoción.
 
-###### Artículo 96.
+###### ARTÍCULO 113.
 
-En los términos de la ley federal de la materia, el Instituto podrá celebrar, en su caso, convenios con el registro federal de electores para utilizar la credencial para votar, el catálogo de electores, el padrón electoral y la lista nominal de electores, así como los documentos que respalden el seccionamiento del estado, y el establecimiento de las bases técnicas para auditar el padrón electoral en los procesos electorales de gobernador, diputados y Ayuntamientos. El representante del registro federal electoral podrá tener intervención con voz pero sin voto en todas las reuniones del Instituto en que se traten asuntos inherentes al padrón.
+Para obtener el derecho al otorgamiento de la Titularidad, el personal del Servicio deberá cumplir con los siguientes requisitos:
 
-El Instituto podrá practicar auditoria externa al padrón estatal electoral.
+I. Haber participado en un proceso electoral como miembro del Instituto;
 
-Para que dicha auditoria tenga validez, deberá reunir los requisitos siguientes:
+II. Haber aprobado las fases de formación básica y profesional del Programa; y
 
-I. Ser acordada mayoritariamente en el seno del Instituto.
+III. Haber acreditado la última Evaluación del rendimiento y Evaluación global.
 
-II. La empresa que habrá de practicar la auditoria será seleccionada en concurso con la participación de cuando menos tres.
+### CAPÍTULO PRIMERO. DE LA PROMOCIÓN EN NIVELES
 
-III. La empresa que resulte seleccionada deberá precisar tiempos, costos y metodología a emplearse en la auditoria así como, periódicamente el avance de sus trabajos.
+###### ARTÍCULO 114.
 
-IV. Los partidos políticos, a través de sus representantes, podrán comprobar en cualquier tiempo la ejecución de la metodología.
+A más tardar, dos meses después de la notificación de los resultados de los exámenes del Programa, la Dirección Administrativa, una vez verificado que el personal haya cumplido los requisitos para la Titularidad y que no haya sido notificado del inicio de un Procedimiento Administrativo en su contra que esté pendiente de resolución, elaborará y presentará a la Junta la lista de los miembros que cumplan con dichos requisitos.
 
-V. En todo caso, habrá un representante del registro federal de electores, quien podrá participar con voz pero sin voto, en todas las reuniones del Instituto en que se traten los asuntos inherentes a la auditoria.
+###### ARTÍCULO 115.
 
-###### Artículo 97.
+Los miembros de la Comisión podrán solicitar por escrito al titular de la Dirección Administrativa, la revisión de los expedientes de los miembros del Servicio que se encuentren en el archivo correspondiente, así como emitir observaciones en forma fundada y motivada sobre el cumplimiento de los requisitos, durante los periodos que fije la Junta.
 
-Durante el primer mes del proceso electoral, el Instituto solicitará al registro federal de electores, el seccionamiento del estado y la lista nominal de ciudadanos coahuilenses que tienen credencial para votar.
+###### ARTÍCULO 116.
 
-De igual manera el Instituto gestionará, con la debida anticipación, el listado nominal de electores que habrá de utilizarse en la jornada electoral.
+A más tardar sesenta días naturales después de entregada a la Junta la lista de los aspirantes a la Titularidad, ésta emitirá un dictamen al respecto.
 
-El Instituto remitirá, según la elección de que se trate, el material a que se hace referencia en el párrafo anterior a los Comités Distritales o Municipales.
+###### ARTÍCULO 117.
 
-###### Artículo 98.
+La Dirección Administrativa deberá analizar todas las observaciones para determinar, en su caso, las acciones para corregir aspectos insuficientes del desempeño o la formación de dichos miembros.
 
-Los ciudadanos acudirán ante la respectiva vocalía del registro federal de electores o ante las delegaciones municipales, a inscribirse o dar aviso de cualquier cambio y regularizar su calidad de elector.
+### CAPÍTULO CUARTO. DE LOS INCENTIVOS
 
-El Instituto, atendiendo siempre al convenio celebrado con el Instituto Federal Electoral y sus programas, instará por los medios más adecuados, a los ciudadanos, para que se inscriban en el padrón o regularicen su situación.
+###### ARTÍCULO 118.
 
-###### Artículo 99.
+Los Incentivos son la forma de retribuir económicamente a los miembros del Servicio, de manera justa y proporcional, con premios, estímulos y recompensas.
 
-Los partidos políticos recibirán, en los tiempos que fije el convenio con el Instituto Federal Electoral, un ejemplar de la lista nominal de electores para su consulta y revisión, el cual será provisional y no tendrá valor oficial para el día de la elección, indicándolo así el propio documento y otro para ser utilizado el día de la jornada electoral.
+###### ARTÍCULO 119.
 
-### CAPÍTULO SEGUNDO. EL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
+El Instituto podrá establecer Incentivos para el personal del Servicio por su desempeño sobresaliente en el Servicio, en especie o numerario, en los términos que establezca la Junta, los cuales se fijarán de acuerdo con el presupuesto anual aprobado por el Consejo.
 
-###### Artículo 100.
+###### ARTÍCULO 120.
 
-El período para que los partidos políticos o las coaliciones soliciten el registro de sus candidatos a Gobernador del Estado, comenzará cincuenta y ocho días antes del día de la elección y terminará cincuenta y tres días antes de la elección, a las dieciocho horas.
+Con base en el dictamen de la Junta sobre las investigaciones y trabajos extracurriculares que lleven al cabo los miembros del Servicio, la Dirección Administrativa podrá disponer la publicación de quienes fueron beneficiados con los estímulos.
 
-El período para que los partidos políticos o las coaliciones soliciten el registro de sus candidatos a diputados locales e integrantes de Ayuntamientos, comenzará cuarenta y ocho días antes del día de la elección y terminará cuarenta y cuatro días antes de la elección, a las dieciocho horas.
+###### ARTÍCULO 121.
 
-La solicitud de registro de candidatos a Gobernador del Estado se presentará ante el Instituto, las de candidatos a diputados se presentará ante los Comités Distritales Electorales y las de integrantes de los Ayuntamientos ante los Comités Municipales Electorales.
+Serán la base para otorgar Incentivos, los méritos obtenidos dentro del Servicio y las aportaciones útiles para el mismo, cuya valoración la realizará, con base en el artículo 80 de este Estatuto, la Dirección Administrativa, tales como:
 
-Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de las campañas políticas. La plataforma electoral deberá presentarse para su registro ante el Instituto dentro del período comprendido entre el primero y el quince de julio, antes de las dieciocho horas en el año de la elección. De todo registro se expedirá constancia.
+I. Desempeño sobresaliente, en el ejercicio de las actividades encomendadas;
 
-Ningún partido político o coalición podrá registrar a una persona para dos cargos distintos de elección popular en un mismo proceso electoral o dos o más procesos locales electorales dentro de un mismo año, salvo las excepciones previstas en esta ley.
+II. Acreditación excelente de los exámenes del Programa;
 
-Todo partido político o coalición deberá registrar a sus candidatos conforme a sus estatutos y procedimientos democráticos internos.
+III. Aportaciones destacadas en las actividades de los programas de trabajo;
 
-###### Artículo 101.
+IV. Reconocimientos;
 
-El Instituto recibirá en forma supletoria las solicitudes de registro de candidatos a diputados al Congreso y de integrantes de los Ayuntamientos cuando los partidos políticos demuestren que las autoridades responsables en primera instancia se rehusaron a hacerlo o que les fue imposible registrarlo por caso fortuito o fuerza mayor.
+V. Elaboración de estudios e investigaciones que aporten notorios beneficios para el mejoramiento del Instituto; y
 
-El Consejo General del Instituto calificará los motivos que tuvieron los partidos políticos para presentar supletoriamente su solicitud y resolverá sobre la misma en sesión ordinaria.
+VI. Propuestas útiles en materia electoral, de financiamiento de proyectos o programas, y de administración de recursos humanos y materiales.
 
-###### Artículo 102.
+###### ARTÍCULO 122.
 
-Sólo los partidos políticos nacionales o estatales y las coaliciones debidamente registradas que hayan cumplido con los requisitos contenidos en la presente ley, pueden presentar candidatos a los puestos de elección popular.
+La Dirección Administrativa, previo conocimiento de la Comisión, propondrá a la Junta, para su aprobación, los lineamientos que deberán observarse para evaluar los méritos y aportaciones. La Junta aprobará, lo relativo al sistema de Incentivos.
 
-En la solicitud de registro se anotará lo siguiente:
+###### ARTÍCULO 123.
 
-I. El nombre y apellidos de los candidatos.
+Se otorgará medalla y diploma al mérito al personal del Servicio que obtenga la titularidad y el Nivel máximo en el Cuerpo que corresponda, así como en el caso de que existan los recursos presupuestales suficientes, un Incentivo económico, cuyo monto será determinado por la Junta.
 
-II. Edad, lugar de nacimiento y domicilio.
+###### ARTÍCULO 124.
 
-III. Cargo para el que se postula.
+La Junta podrá otorgar Incentivos a los miembros del Servicio que realicen actividades de estudio, capacitación, docencia o investigación en diversas disciplinas afines al objeto del Instituto y que redunden en beneficio de éste.
 
-IV. Ocupación y número de la credencial para votar.
+###### ARTÍCULO 125.
 
-V. Denominación, color o combinación de colores y emblema del partido o coalición de partidos que los postula.
+Las propuestas de candidatos a recibir Incentivos deberán presentarse ante la Junta, a través de la Dirección Administrativa a propuesta de la Subdirección del Servicio previo acuerdo con el Director General. También se harán del conocimiento de la Comisión.
 
-VI. La firma de los candidatos y la del representante legal del partido político o coalición que lo postule en el estado.
+###### ARTÍCULO 126.
 
-Las solicitudes de registro que carezcan de alguno de los requisitos previamente señalados no serán admitidas por los organismos electorales, quienes razonarán de inmediato y por escrito la causa del rechazo.
+Las constancias de los Incentivos por méritos serán integradas al expediente del personal del Servicio.
 
-###### Artículo 103.
+### CAPÍTULO SEGUNDO. DEL ASCENSO EN LOS CARGOS
 
-A la solicitud de registro de candidatos, los partidos políticos deberán anexar:
+###### ARTÍCULO 127.
 
-I. La aceptación por escrito de los ciudadanos postulados.
+En caso de fallecimiento de un miembro del Servicio, el familiar que compruebe haber cubierto los gastos de defunción recibirá el importe de dichos gastos, que no podrán exceder el monto equivalente a cuatro meses del salario integrado correspondiente al Cargo que ocupaba a la fecha del deceso del funcionario.
 
-II. El acta de nacimiento o documentación que la sustituya en los términos del Código Civil del Estado.
+## TÍTULO SÉPTIMO. DE LOS DERECHOS, OBLIGACIONES, PROHIBICIONES DEL PERSONAL DE SERVICIO
 
-III. Copia fotostática certificada de la credencial para votar.
+### CAPÍTULO PRIMERO. DE LOS DERECHOS DEL PERSONAL DEL SERVICIO
 
-IV. Carta de no antecedentes penales.
+###### ARTÍCULO 128.
 
-V. Copia certificada por notario público o por el Secretario Técnico del Instituto, de la constancia de registro de plataforma electoral.
+Son derechos del personal del Servicio:
 
-###### Artículo 104.
+I. Obtener su nombramiento en el Cargo y Nivel que corresponda una vez cubiertos los requisitos correspondientes;
 
-Los organismos electorales que hayan recibido la solicitud de registro de candidatos, deberán resolver sobre dicho registro dentro de los tres días siguientes a la conclusión del periodo establecido para el registro de candidatos.
+II. Recibir las remuneraciones correspondientes al Cargo, los estímulos del Nivel que ocupe y los incentivos que determine la Junta;
 
-###### Artículo 105.
+III. Recibir los apoyos para participar en el Programa;
 
-La resolución negativa que emitan los organismos electorales sobre la solicitud de registro de candidatos, podrá ser impugnada en el estado ante el Tribunal Electoral en los términos de la ley aplicable.
+IV. Obtener la titularidad correspondiente y ser promovido en la estructura de Niveles;
 
-###### Artículo 106.
+V. Obtener la autorización correspondiente para estar en situación de disponibilidad, cuando cumpla con los requisitos correspondientes;
 
-Los Comités Distritales y Municipales Electorales, comunicarán de inmediato al Instituto los nombres de los ciudadanos que hayan sido registrados como candidatos por los partidos políticos, para los efectos de la elaboración e impresión de las boletas electorales.
+VI. Gestionar su reincorporación al Servicio, una vez concluido el periodo de disponibilidad;
 
-Para la sustitución de candidatos los partidos políticos la solicitarán por escrito al Instituto, observando las siguientes disposiciones:
+VII. Regresar al Servicio una vez concluida la disponibilidad;
 
-I. Dentro del plazo establecido para el registro de candidatos, podrán sustituirlos libremente.
+VIII. Solicitar la movilidad a que se refiere el Capítulo Segundo del Libro Segundo de este Estatuto;
 
-II. Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia ratificada por el candidato ante la autoridad electoral.
+IX. Ser tomados en cuenta en la instrumentación y diseño de los procesos del Servicio e informados con toda oportunidad y con antelación del contenido y estándares u objetivos específicos de sus evaluaciones;
 
-Las sustituciones de candidatos aparecerán en las boletas electorales siempre y cuando no se altere el proceso de elaboración, impresión y distribución.
+X. Conocer oportunamente los resultados de las evaluaciones de rendimiento, de aprovechamiento en el Programa y global;
 
-### CAPÍTULO TERCERO. LAS PRECAMPAÑAS
+XI. Inconformarse o reclamar ante las autoridades correspondientes del Instituto, en contra de los actos que considere le causen algún agravio en su relación jurídica con el Instituto;
 
-###### Artículo 107.
+XII. Ser asignado en alguno de los Cargos de la estructura ocupacional del Instituto y adscrito a un área específica del mismo;
 
-Todos los partidos debidamente registrados ante el Instituto, podrán realizar precampañas para elegir a los ciudadanos que presentarán como candidatos a cargos de elección popular ante los organismos electorales competentes para su registro.
+XIII. Ser restituido en el goce y ejercicio de sus derechos y prestaciones cuando, habiendo sido suspendido o separado, así lo establezca la resolución del recurso de inconformidad interpuesto;
 
-Los ciudadanos que por sí, o a través de partidos políticos o terceros, realicen actividades propagandísticas y publicitarias, con objeto de promover su imagen personal, de manera pública y con el inequívoco propósito de obtener la postulación a un cargo de elección popular, se ajustarán a los plazos y disposiciones establecidos en esta ley. El incumplimiento a esta norma dará motivo a que el Instituto, a través de sus órganos competentes y en la oportunidad correspondiente, les niegue el registro como candidato.
+XIV. Recibir una compensación derivada de las labores extraordinarias que realice con motivo de la carga laboral que representa el año electoral, previa evaluación y de acuerdo con las posibilidades presupuestales del Instituto;
 
-###### Artículo 108.
+XV. Los demás que establezca este Estatuto, la legislación aplicable y los que apruebe el Consejo General.
 
-Los partidos políticos que realicen precampañas para elegir candidatos a algún puesto de elección popular, deberán dar aviso por escrito al Instituto con anterioridad al inicio de sus procesos democráticos internos.
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DEL PERSONAL DEL SERVICIO
 
-En materia de precampañas se aplicarán, en lo conducente, las disposiciones establecidas en esta ley para las campañas políticas y la propaganda electoral.
+###### ARTÍCULO 129.
 
-###### Artículo 109.
+El personal del Servicio tendrá las siguientes obligaciones:
 
-Los partidos políticos podrán realizar gastos con motivo de las precampañas que efectúen para elegir a sus candidatos, hasta por la cantidad equivalente al 15 por ciento del monto total fijado como límite de los topes de gastos de campaña para la elección de que se trate.
+I. Cumplir en todo tiempo los fines y principios del Instituto y del Servicio;
 
-Dichos gastos deberán especificarse en un apartado especial del informe trimestral de gastos ordinarios que presenten al Instituto.
+II. Conducirse en todo tiempo con profesionalismo, legalidad, imparcialidad, objetividad y probidad en sus relaciones laborales y el desarrollo de sus actividades; cuidar que nadie utilice en beneficio propio o de terceros la información oficial que con motivo del ejercicio de sus funciones tengan en su poder, por lo que deberán actuar con estricta reserva en los asuntos que conozcan del Instituto a menos que exista autorización previa para actuar en el sentido opuesto;
 
-###### Artículo 110.
+III. Desempeñar sus labores con honestidad, disciplina, probidad, cuidado y esmero, observando las instrucciones que reciban de sus superiores jerárquicos, y tutelando el cumplimiento de los principios rectores del Instituto;
 
-Las precampañas, procesos democráticos o elecciones internas que realicen los partidos para elegir a sus candidatos, deberán celebrarse dentro de los treinta días anteriores al día de la apertura de registro de candidatos de la elección de que se trate. En todo caso la duración de las precampañas no podrán exceder de la mitad del tiempo que dure la campaña política de que se trate.
+IV. Desempeñar sus funciones con apego a los criterios de eficacia, efectividad y eficiencia;
 
-###### Artículo 111.
+V. Evaluar, en su caso, el desempeño del personal del Servicio a su cargo basado en criterios objetivos;
 
-Los actos y la propaganda electoral para las precampañas que realicen los partidos políticos para elegir sus candidatos, se regirán en todo momento por las disposiciones que sobre el particular establece el presente ordenamiento legal para las campañas electorales.
+VI. Participar y acreditar el Programa;
 
-###### Artículo 112.
+VII. Desarrollar sus actividades en el Cargo, lugar y área de adscripción que determinen las autoridades del Instituto;
 
-La propaganda electoral, una vez terminadas las precampañas que realicen los partidos políticos para elegir a sus candidatos, deberá ser retirada por las entidades responsables a más tardar antes del inicio del registro de candidatos; en caso de no hacerlo se ordenará a las autoridades municipales el retiro aplicando el costo de dichos trabajos a las prerrogativas del partido infractor.
+VIII. Acatar las disposiciones para reincorporarse al Servicio en los casos de disponibilidad;
 
-###### Artículo 113.
+IX. Aprobar las evaluaciones respectivas;
 
-En el caso de que algún partido o sus candidatos no hubiere retirado su propaganda en el término señalado en el artículo anterior, el Instituto podrá imponer una multa al partido político y a sus candidatos omisos de hasta mil veces el salario mínimo vigente en la capital del estado y podrá tomar las medidas conducentes.
+X. Cumplir con las actividades para las que haya solicitado disponibilidad;
 
-### CAPÍTULO CUARTO. LAS CAMPAÑAS POLÍTICAS Y LA PROPAGANDA ELECTORAL
+XI. Proporcionar a las autoridades correspondientes los datos personales que, para efectos de su relación jurídica con el Instituto se soliciten, así como la documentación comprobatoria que corresponda, y comunicar oportunamente cualquier cambio sobre dicha información;
 
-###### Artículo 114.
+XII. Asistir puntualmente a sus labores y respetar los horarios establecidos;
 
-Para los efectos de esta ley, las campañas electorales son el conjunto de actividades que los partidos políticos nacionales y estatales, las coaliciones y los candidatos a ocupar puestos o cargos de elección popular llevan a cabo para la promoción del voto en su favor entre el electorado.
+XIII. Representar al Instituto en programas y proyectos que lleve al cabo con otras instituciones, de conformidad con los convenios que para el efecto se celebren;
 
-###### Artículo 115.
+XIV. Cumplir las comisiones de trabajo que por necesidades del Instituto se le encomienden, por oficio, en lugar y área distintos al de su adscripción, durante los periodos que determinen las autoridades del Organismo;
 
-Las campañas políticas iniciarán, en el caso de gobernador, 53 días antes al de la jornada electoral y las de diputados, 38 días antes al día en que se verificará la jornada electoral, debiendo culminar en todos los casos tres días antes del día de la jornada electoral.
+XV. Proporcionar, en su caso, la información y documentación necesarias al funcionario del Instituto que se designe para suplirlo en sus ausencias;
 
-El inicio de las campañas políticas en los Ayuntamientos, se sujetarán a las reglas siguientes:
+XVI. Conducirse con rectitud, respeto y disciplina ante sus superiores jerárquicos, compañeros y subordinados, así como ante los representantes de los partidos políticos; y
 
-I. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, no exceda de veinte mil, las campañas políticas iniciarán 13 días antes al día en que se verificará la jornada electoral.
+XVII. Las demás obligaciones que señale el Código, este Estatuto y otras leyes y disposiciones administrativas aplicables.
 
-II. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, sea superior a veinte mil pero no exceda de setenta mil, las campañas políticas iniciarán 23 días antes al día en que se verificará la jornada electoral.
+### CAPÍTULO TERCERO. DE LAS PROHIBICIONES DEL PERSONAL DEL SERVICIO
 
-III. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, exceda de setenta mil, iniciarán 38 días antes al día en que se verificará la jornada electoral.
+###### ARTÍCULO 130.
 
-IV. Para todos los supuestos de las fracciones que anteceden, la lista nominal electoral que se tomará en cuenta será la que el Instituto utilice para el proceso electoral del año que corresponda.
+El personal del Servicio tendrá las siguientes prohibiciones:
 
-En todos los casos, las campañas políticas deberán culminar tres días antes del día de la jornada electoral.
+I. Intervenir en asuntos electorales que no sean competencia del Instituto, salvo en los casos en los que se tenga autorización para ello;
 
-Las campañas electorales iniciarán sólo en los términos establecidos en este artículo para la elección de que se trate; en todo caso, el Instituto, a través de sus órganos competentes, hará la declaratoria de inicio correspondiente.
+II. Emitir opinión pública o efectuar manifestaciones de cualquier naturaleza, en su carácter de funcionario electoral, a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes. Quedarán exceptuadas las declaraciones autorizadas que se formulen con motivo de debates sobre el Instituto, la ejecución de sus programas o el desempeño de sus funciones;
 
-###### Artículo 116.
+III. Realizar actos que acrediten una conducta parcial a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes;
 
-Se entiende por actos de campaña, las reuniones públicas, asambleas, marchas y en general, aquellos actos públicos en que los candidatos o voceros de los partidos políticos se dirigen a la ciudadanía para solicitar su sufragio.
+IV. Incurrir en actos u omisiones que pongan en peligro su seguridad, la del personal del Instituto o la de terceros que por cualquier motivo se encuentren en sus instalaciones, así como de los bienes o propiedad del Instituto;
 
-###### Artículo 117.
+V. Llevar al cabo en las instalaciones del Instituto cualquier actividad lucrativa, para sí o para otros;
 
-La propaganda electoral son los escritos, publicaciones, imágenes, grabaciones sonoras y de video, etc., que durante la campaña electoral producen y difunden los partidos políticos, sus candidatos y simpatizantes, con el propósito de presentar las candidaturas registradas y los programas de trabajo al electorado.
+VI. Permanecer en las instalaciones del Instituto o introducirse a ellas, fuera de sus horas de actividades, salvo que exista causa justificada o autorización del superior jerárquico inmediato;
 
-Las actividades a que se refiere el presente artículo deberán propiciar la exposición y discusión entre los ciudadanos, de los documentos básicos de los partidos y la plataforma electoral de los candidatos.
+VII. Ausentarse de su lugar de adscripción o abandonar sus actividades sin autorización expresa de su superior jerárquico inmediato;
 
-###### Artículo 118.
+VIII. Otorgar información y documentación sin la legítima procedencia;
 
-Los partidos políticos podrán realizar sus actos de propaganda o proselitismo en los términos que establezcan las disposiciones aplicables.
+IX. Dictar o ejecutar órdenes cuya realización u omisión transgredan las disposiciones legales aplicables en materia electoral;
 
-Los medios electrónicos de comunicación que sean propiedad de entidades o dependencias gubernamentales estatales o municipales, destinarán a los partidos políticos, tiempos durante sus transmisiones, en forma equivalente o igual a lo que sobre esta materia observa el Código Federal de Instituciones y Procedimientos Electorales.
+X. Marcar, firmar o alterar la tarjeta, lista o cualquier otro medio de control de asistencia, o solicitar a algún tercero que lo haga, con la finalidad de no reportar al Instituto sus inasistencias, o las de algún compañero o subordinado, al lugar donde laboren;
 
-El Instituto realizará las gestiones necesarias con los medios de comunicación, sean impresos, radiofónicos o televisivos a efecto de que ofrezcan tarifas iguales a los diferentes partidos políticos que contiendan en el proceso electoral.
+XI. Entrometer a cualquier persona ajena en asuntos del Instituto;
 
-Los partidos políticos, las coaliciones y candidatos deberán evitar cualquier ofensa, difamación o calumnia que denigre a candidatos, partidos políticos, instituciones y terceros, así como también deberán abstenerse de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
+XII. Desempeñar funciones distintas a las del Cargo que tiene asignado, sin autorización del superior jerárquico; y
 
-###### Artículo 119.
+XIll. Las demás que señale el Código, este Estatuto y otras leyes y disposiciones administrativas aplicables.
 
-Los actos de campaña consistentes en reuniones públicas se regirán por lo dispuesto en el artículo 9° de la Constitución Política de los Estados Unidos Mexicanos, los partidos políticos y sus candidatos no tendrán más limite que el respeto a los derechos de terceros, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden público, dicten las autoridades competentes.
+### CAPÍTULO CUARTO. DE LA DISPONIBILIDAD
 
-###### Artículo 120.
+###### ARTÍCULO 131.
 
-Los partidos políticos o sus candidatos, que decidan, dentro de la campaña electoral, realizar marchas o reuniones que impliquen una interrupción de la vialidad, lo harán del conocimiento de la autoridad competente para que tome las providencias necesarias del caso. Esta solicitud deberá presentarse a la autoridad cuando menos cuarenta y ocho horas antes del día en que vaya a celebrarse el evento.
+La Disponibilidad es el tiempo que se autoriza al personal del Servicio para ausentarse temporalmente del Servicio con el objeto de efectuar actividades académicas o de investigación. Podrá ser concedida siempre que no se afecten las actividades del Instituto y que la actividad se compruebe fehacientemente.
 
-###### Artículo 121.
+Se consultará, antes de su autorización, al superior jerárquico que corresponda y al titular de la Dirección Administrativa. Será facultad exclusiva de la Junta conceder la Disponibilidad.
 
-Las autoridades competentes proveerán el equitativo uso de los espacios públicos entre los distintos partidos y sus candidatos, en todo caso, concederán el uso de éstos, atendiendo el orden de presentación de las solicitudes. Dichas autoridades, deberán evitar, en la medida de lo posible, que coincidan en un mismo lugar y tiempo, las actividades proselitistas de dos o más partidos políticos.
+La Disponibilidad no podrá exceder de un año natural.
 
-Las solicitudes para el uso de las plazas y espacios públicos, deberán ser presentadas por los partidos políticos por escrito, cuando menos con cinco días de anticipación.
+### CAPÍTULO TERCERO. DE LA TITULARIDAD
 
-###### Artículo 122.
+###### ARTÍCULO 132.
 
-Para la colocación de la propaganda electoral, los partidos políticos y los candidatos deberán observar las reglas que establezca el Instituto. En todo caso, la propaganda utilizada por los partidos políticos deberá ser de material reciclable.
+La Disponibilidad, en ningún caso, podrá ser autorizada para periodos que abarquen procesos electorales, ni para el desempeño de actividades en agrupaciones, organizaciones o partidos políticos.
 
-La propaganda electoral se colocará, única y exclusivamente, en los lugares públicos que el Instituto establezca para tal efecto.
+###### ARTÍCULO 133.
 
-Los particulares que incurran en la destrucción indebida de la propaganda electoral serán sancionados según la gravedad del daño causado, de acuerdo a la fracción I del Artículo 236 de esta ley.
+Los miembros del Servicio en Disponibilidad dejarán de percibir remuneraciones por concepto del Cargo, así como los estímulos del Nivel que ocupen.
 
-###### Artículo 123.
+###### ARTÍCULO 134.
 
-De acuerdo a las posibilidades presupuestales y técnicas del órgano electoral, se establecerá un sistema de mamparas y espacios donde se colocará, única y exclusivamente, la propaganda electoral que se utilizará en el proceso electoral, a fin de evitar la contaminación visual y la afectación del entorno urbano.
+El personal del Servicio que se encuentre en Disponibilidad podrá reincorporarse al Servicio una vez concluida la misma, para lo cual deberá solicitar por escrito al titular de la Dirección Administrativa su Reincorporación al Instituto cuando menos treinta días hábiles antes de que concluya la Disponibilidad junto con un informe y la acreditación de las actividades realizadas.
 
-###### Artículo 124.
+### CAPÍTULO QUINTO. DE LA REINCORPORACIÓN
 
-Se prohibe la destrucción o alteración de propaganda que en apoyo de sus candidatos, los partidos hubieren fijado, pintado o instalado, exceptuándose de esta prohibición a los propietarios de edificios, terrenos u obras, que no hayan dado su consentimiento por escrito.
+###### ARTÍCULO 135.
 
-###### Artículo 125.
+La Reincorporación ocurre cuando un funcionario del Servicio que ha estado en Disponibilidad, es decir que obtuvo la licencia correspondiente y estuvo por tanto temporalmente sin desempeñar sus funciones, regresa al Cargo que ocupaba hasta antes de la autorización de dicha licencia.
 
-Concluidas las campañas electorales, los partidos políticos, en un plazo de 30 días contados al día siguiente al de la celebración de las elecciones, deberán retirar su propaganda. En caso de no hacerlo, las autoridades competentes procederán a retirarla, comunicando este hecho, así como el importe del trabajo de limpieza, al Instituto, para que se cubra con cargo al financiamiento público del partido infractor.
+No procederá la Reincorporación en los supuestos siguientes:
 
-###### Artículo 126.
+I. Cuando el funcionario no haya cumplido con los requisitos que para el otorgamiento de la licencia se hayan determinado; y
 
-Los órganos electorales y las autoridades en general, dentro del ámbito de su competencia, velarán por la observancia de estas disposiciones y adoptarán las medidas a que hubiese lugar con el fin de garantizar a los partidos y sus candidatos el ejercicio de sus derechos en la materia.
+II. Cuando haya faltado a las disposiciones del presente Estatuto.
 
-### CAPÍTULO QUINTO. EL ACCESO A LOS MEDIOS DE COMUNICACIÓN
+### CAPÍTULO SEXTO. DE LA SEPARACIÓN DEL SERVICIO
 
-###### Artículo 127.
+###### ARTÍCULO 136.
 
-Es derecho exclusivo de los partidos políticos contratar tiempos en radio y televisión para difundir mensajes orientados a la obtención del voto durante las campañas electorales, conforme a las normas y procedimientos que se establecen en el presente artículo. Los candidatos sólo podrán hacer uso de los tiempos que les asigne su partido político, o coalición, en su caso.
+La Separación del Servicio es el acto mediante el cual el personal de carrera deja de pertenecer al Servicio y concluye se relación con el Instituto.
 
-###### Artículo 128.
+###### ARTÍCULO 137.
 
-El Consejo General del Instituto solicitará oportunamente a la dependencia competente su intervención, a fin de que los concesionarios o permisionarios de radio y televisión del estado, le proporcionen un catálogo de horarios y sus tarifas correspondientes, disponibles para su contratación por los partidos políticos para el período señalado para las campañas electorales. Dichas tarifas no serán superiores a las de publicidad comercial.
+El personal del Servicio podrá quedar separado del mismo por las causas siguientes:
 
-Dicho catálogo se pondrá a disposición de los partidos políticos, en sesión que realice el Consejo General con anterioridad al inicio de las precampañas y campañas electorales.
+I. Renuncia;
 
-Los partidos políticos deberán comunicar por escrito al Consejo General, las estaciones, canales y horarios en los que tengan interés de contratar tiempos, conforme al catálogo que les fue proporcionado, a más tardar dentro de los 15 días anteriores al inicio de las campañas electorales.
+II. Por jubilación, en los términos del artículo 77 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla;
 
-###### Artículo 129.
+III. Incapacidad física o mental que le impida el desempeño de sus funciones;
 
-En el caso de que dos o más partidos políticos manifiesten interés en contratar espacios en un mismo canal televisivo o estación de radio, en los mismos horarios, se aplicará, en su caso, el procedimiento siguiente:
+IV. Fallecimiento;
 
-I. Se dividirá el tiempo total disponible para contratación del canal o estación en forma igualitaria entre el número de partidos políticos interesados en contratarlo; el resultante será el tiempo que cada partido político podrá contratar.
+V. Destitución; y
 
-II. Si hubiese tiempos sobrantes volverán a estar a disposición de los concesionarios o permisionarios y no podrán ser objeto de contratación posterior por los partidos políticos.
+VI. Cuando se lleve al cabo una reestructuración o reorganización administrativa que implique supresión o modificación de áreas del Organismo o la estructura ocupacional.
 
-###### Artículo 130.
+En estos casos, el personal del Servicio, con base en las necesidades y la disponibilidad presupuestal del Instituto, podrá ser reubicado en otras áreas.
 
-En el caso de que sólo un partido político o coalición manifieste interés por contratar tiempo en un canal o estación, podrá hacerlo a través del Instituto hasta por el límite que los concesionarios o permisionarios hayan dado a conocer como el tiempo disponible para efectos de este artículo.
+###### ARTÍCULO 138.
 
-###### Artículo 131.
+La renuncia es el acto mediante el cual el personal del Servicio expresa a la autoridad correspondiente del Instituto su voluntad de separarse del mismo y del Instituto de manera definitiva. La renuncia deberá presentarse por escrito y producirá efectos desde la fecha de su aceptación.
 
-Una vez concluido el procedimiento de reparto y asignación a que se refiere el artículo 129 de esta ley, el Instituto procederá, a dar a conocer los tiempos, canales televisivos y estaciones de radio para cada uno de los partidos políticos o coaliciones y éstos, por conducto del Instituto exclusivamente, realizarán la contratación respectiva.
+###### ARTÍCULO 139.
 
-En ningún caso, se permitirá la contratación de propaganda en radio y televisión en favor o en contra de algún partido político, precandidato o candidato por parte de terceros.
+El personal del Servicio sólo podrá ser destituido por las causales establecidas en el artículo 141 del presente Estatuto.
 
-Asimismo, se solicitará a los medios impresos los catálogos de sus tarifas, y los que se reciban se pondrán a disposición de los partidos políticos, en las mismas fechas previstas para la entrega de los catálogos de radio y televisión.
+###### ARTÍCULO 140.
 
-Los partidos políticos o coaliciones, por conducto del Instituto, sólo podrán contratar tiempos en radio y televisión, para difundir mensajes electorales durante las precampañas y campañas.
+Cuando el personal del Servicio se separe del mismo y del Instituto, deberá efectuar la entrega y rendir los informes de los documentos, bienes y recursos asignados, así como de los asuntos que haya tenido bajo su responsabilidad. Para ello, en cada caso, deberá elaborarse el acta administrativa de entrega-recepción, en los términos que establezca la Contraloría Interna.
 
-### CAPÍTULO SEXTO. LOS PROCEDIMIENTOS PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+## TÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA APLICACIÓN DE SANCIONES
 
-###### Artículo 132.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Los Comités Municipales Electorales, utilizando el seccionamiento del Estado elaborado por el Instituto Federal Electoral, designarán el lugar en donde deban instalarse las casillas el día de la jornada electoral, con el apoyo y supervisión del Instituto.
+###### ARTÍCULO 141.
 
-###### Artículo 133.
+Los miembros del Servicio que incurran en infracciones e incumplimientos a las disposiciones del Estatuto y a las señaladas por los acuerdos y demás disposiciones normativas que legalmente emitan las autoridades competentes del Instituto, se sujetarán al procedimiento administrativo del Estatuto, para la imposición de sanciones, sin perjuicio de lo establecido en otras disposiciones aplicables.
 
-Por cada sección electoral se instalará una casilla básica. Cuando el número de electores en lista nominal exceda de setecientos cincuenta, se instalarán las casillas contiguas necesarias.
+### CAPÍTULO CUARTO. DE LOS INCENTIVOS
 
-No se instalarán casillas electorales en aquellas secciones que cuenten con un número menor a 50 electores, debiéndose informar a los ciudadanos que residan en dichas secciones, a través de los Comités Municipales Electorales respectivos, que podrán votar en la sección inmediata, en donde aparecerán inscritos en la lista nominal.
+###### ARTÍCULO 142.
 
-Se entiende por casilla básica aquella que necesariamente se ha de instalar en una sección electoral que tenga hasta setecientos cincuenta electores o menos. La casilla contigua es aquella que se instala además de la básica, en una sección con más de setecientos cincuenta electores. Para tal efecto, la lista nominal de la sección se dividirá alfabéticamente.
+A falta de lo previsto en las disposiciones del presente Estatuto, se aplicarán los ordenamientos legales siguientes:
 
-Podrán instalarse tantas casillas contiguas como veces se multiplique el número de setecientos cincuenta. Como su nombre lo indica las mismas se instalarán próximas a la básica dentro de la misma sección cuando no sea posible establecerse en el mismo domicilio.
+I. Ley de los Trabajadores al Servicio del Estado de Puebla;
 
-###### Artículo 134.
+II. La Ley Federal del Trabajo;
 
-El Instituto, podrá autorizar la instalación de casillas extraordinarias en los términos establecidos por esta ley.
+III. Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla;
 
-La casilla extraordinaria es aquella que se instala además de la básica o contigua en una sección electoral, por autorización del Instituto, de acuerdo a los criterios siguientes:
+IV. Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla;
 
-I. Excepcionalmente, cuando las condiciones de una sección electoral hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de casillas extraordinarias que permitan el fácil acceso a los votantes. Las boletas electorales y la lista nominal de electores, deberán comprender exclusivamente a los ciudadanos de la comunidad donde se instalará este tipo de casilla, las cuales serán restadas de la casilla básica o contigua de la sección.
+V. El Código Civil del Estado de Puebla;
 
-II. El Instituto, por sí o a propuesta debidamente razonada de los Comités Electorales Municipales, determinará a más tardar noventa y cinco días antes a la elección la instalación de casillas extraordinarias para la recepción del voto de los electores que se encuentren en una misma sección, tomando siempre en consideración las circunstancias geográficas, así como los criterios de distancia, el número de electores y los razonamientos planteados por los Comités Municipales para tal efecto.
+VI. El Código de Procedimientos Civiles para el Estado de Puebla; y
 
-###### Artículo 135.
+VII. Los Principios Generales de Derecho.
 
-Para recibir el voto de los electores que se encuentren fuera de su sección, en las elecciones de gobernador y diputados, el Consejo General del Instituto acordará la instalación de casillas especiales que permitan sufragar a los electores en tránsito.
+###### ARTÍCULO 143.
 
-###### Artículo 136.
+Las actuaciones y diligencias dentro del procedimiento se practicarán en los días y horas hábiles que determine el Consejo.
 
-Las casillas especiales son las que se instalan durante la elección de gobernador o diputados para recibir la votación de los electores en tránsito. En dichas casillas no habrá lista nominal y sólo podrán votar, en el caso de elección de diputados, los electores que se encuentren fuera de su municipio pero dentro del distrito a que correspondan; en el caso de la elección de gobernador, los habitantes del estado que se encuentren fuera de su municipio pero en el territorio de la entidad. El número de votantes que podrá recibir la casilla será igual al de boletas con que se le haya dotado.
+Durante el proceso electoral todos los días y horas son hábiles.
 
-La documentación y el material electoral que para la instalación de casillas especiales se necesite, será proporcionado por el Instituto.
+###### ARTÍCULO 144.
 
-Para la recepción del voto en las casillas especiales, se observará lo dispuesto en la presente ley, aplicándose, además, tinta indeleble a los electores en tránsito una vez que hayan emitido su sufragio.
+Las notificaciones serán siempre personales y surtirán efectos a partir del día hábil siguiente al día en que se hubieran realizado.
 
-###### Artículo 137.
+###### ARTÍCULO 145.
 
-Los locales y lugares que se designen para la ubicación de las casillas, tendrán que reunir las condiciones que hagan posible el libre acceso de los electores y la emisión secreta del sufragio. Para la instalación de casillas, serán preferidos los locales ocupados por escuelas y oficinas públicas.
+Una vez que se determine el inicio de un Procedimiento Administrativo no procederá otorgar Disponibilidad, a que se refieren los artículos 131, 132,133 y 134 de este ordenamiento.
 
-En ninguna circunstancia podrán ubicarse las casillas en fábricas, lugares dedicados al culto religioso, casas habitadas por servidores públicos, locales de sindicatos, partidos o asociaciones políticas, ni los ocupados por cantinas, centros de vicio o similares.
+### CAPÍTULO PRIMERO. DE LOS DERECHOS DEL PERSONAL DEL SERVICIO
 
-###### Artículo 138.
+###### ARTÍCULO 146.
 
-El proceso de integración de las Mesas Directivas de Casilla se ajustará a lo siguiente:
+Las autoridades competentes podrán solicitar la asesoría de la Dirección de Asuntos Jurídicos para procurar la legalidad del Procedimiento Administrativo.
 
-I. Designación de los presidentes y escrutadores:
+###### ARTÍCULO 147.
 
-1. El Instituto, durante las dos primeras semanas de trabajo, acordará el mecanismo pertinente e instrumentará la forma en que deba realizarse la insaculación del tres por ciento de los ciudadanos inscritos en la lista nominal de electores, sección por sección, convocándolos a participar en cursos de capacitación, según la forma y modo previamente aprobados.
+La facultad de las autoridades del Instituto para iniciar el Procedimiento Administrativo para la imposición de las sanciones previstas en el presente Estatuto prescribirá en un término de cuarenta y cinco días hábiles, contados desde el momento en que se tenga conocimiento de las infracciones.
 
-2. En cada una de las secciones del estado deberá insacularse un mínimo de veinticinco ciudadanos.
+La gestión para el inicio de un Procedimiento Administrativo estará a cargo del órgano o unidad del Instituto que conozca de la comisión de una infracción por parte del personal del Servicio, Administrativo o Eventual con los medios de prueba suficientes, de la ejecución de la infracción y la irresponsabilidad del infractor, una vez que integre el expediente deberá remitirlo a la autoridad instructora para su inicio.
 
-3. Notificados los aspirantes a funcionarios de casilla, los Comités Municipales organizarán en sus respectivas jurisdicciones y bajo la supervisión del Instituto, cursos de capacitación donde se instruya a los ciudadanos insaculados y se califique su aprovechamiento y disposición.
+###### ARTÍCULO 148.
 
-4. Ochenta y cinco días antes de la elección, el Instituto evaluará la asistencia de los ciudadanos insaculados a los cursos de capacitación, en caso de que la misma no sea suficiente para cubrir las mesas directivas de casilla, convocará abiertamente a la ciudadanía en general a cursos de capacitación de donde se designarán los funcionarios de casillas faltantes.
+La autoridad que conozca y substancie el Procedimiento Administrativo señalado en el presente Estatuto podrá suplir las deficiencias de la queja sólo en caso de cita incorrecta de preceptos legales; también podrá dictar las medidas que a su juicio sean necesarias para mejor proveer el correcto desarrollo del procedimiento y la comprobación de los hechos.
 
-5. Sesenta días antes de la elección, el Instituto revisará el resultado de los cursos de capacitación electoral y de la totalidad de los ciudadanos capacitados, se realizará una segunda insaculación para integrar las mesas directivas de casilla. Esta segunda insaculación se llevará a cabo en los Comités Municipales Electorales, en presencia y bajo la supervisión de los partidos políticos que estuvieren presentes. El Instituto, en tiempo y forma según lo acuerde de conformidad, dotará a los Comités Municipales del apoyo técnico que se requiera. Si aún el número de ciudadanos no fuere suficiente para integrar las mesas directivas de casilla, el Instituto designará directamente los cargos vacantes.
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
-6. Los funcionarios designados para integrar las mesas directivas de casilla, serán siempre los mejor capacitados y con mayor disposición.
+###### ARTÍCULO 149.
 
-II. Designación de los secretarios técnicos: el Instituto una vez obtenidos los resultados de los cursos de capacitación, después de realizar la segunda insaculación procederá a nombrar a los secretarios técnicos de las casillas de entre los ciudadanos que obtuvieron los más altos índices de aprovechamiento, y demostraron mayor interés, previo acuerdo del Instituto para fijar un mecanismo, en presencia y bajo la supervisión de los representantes de los partidos políticos que estuvieron presentes.
+Podrán aplicarse como sanciones las de amonestación, suspensión, destitución del Cargo y multa, previo procedimiento administrativo previsto en el presente Estatuto.
 
-Los partidos políticos tendrán el derecho de participar y verificar los cursos de capacitación, en la forma que acuerde el Instituto para cada proceso electoral
+###### ARTÍCULO 150.
 
-Cuando en un mismo día coincidan elecciones federales y locales, el Instituto, podrá convenir con el Instituto Federal Electoral, que las mesas directivas de casilla reciban ambas votaciones, coordinando lo conducente a la selección y capacitación de sus funcionarios.
+La amonestación consiste en la advertencia escrita dirigida a un miembro del Servicio, para que no repita una conducta ilícita, apercibiéndole que, en caso de reincidir en ella, se le impondrá una sanción más severa.
 
-###### Artículo 139.
+###### ARTÍCULO 151.
 
-El Instituto, en el ámbito de su competencia, cincuenta días antes de la jornada electoral dará a conocer mediante oficio a los partidos políticos, la lista de funcionarios que integrarán las mesas directivas de casilla y su ubicación.
+La suspensión es la interrupción temporal en el desempeño de las funciones de los miembros del Servicio, sin goce de sueldo. La suspensión no podrá exceder de quince días hábiles.
 
-Los partidos políticos, dentro del término de diez días después de que se les dio a conocer la lista a que se refiere el párrafo anterior, podrán hacer las observaciones que estimen pertinentes ante el Instituto.
+###### ARTÍCULO 152.
 
-###### Artículo 140.
+La destitución es el acto mediante el cual el Instituto concluye la relación laboral con el miembro del Servicio respectivo, por infracciones y violaciones estatutarias.
 
-Las listas definitivas de funcionarios integrantes de las Mesas Directivas y la ubicación de las casillas, serán publicadas o encartadas en los periódicos de mayor circulación en el estado, diez días antes de las elecciones y el día de la jornada electoral.
+###### ARTÍCULO 153.
 
-###### Artículo 141.
+La multa consistirá en una sanción económica equivalente de hasta cien veces el salario mínimo general diario vigente en el Estado de Puebla y se aplicará en aquellos casos en que se genere un daño o perjuicio al Instituto o el infractor obtenga un beneficio económico indebido en relación con el desempeño de sus funciones, independientemente de la reparación del daño.
 
-El día de la jornada electoral, la ubicación de las casillas electorales deberá ser dada a conocer a los ciudadanos mediante la colocación de señales claramente visibles en los lugares en que se haya determinado su instalación.
+Todas las referidas sanciones se aplicarán independientemente de otras que establezcan diversas leyes.
 
-### CAPÍTULO SÉPTIMO. EL REGISTRO DE REPRESENTANTES
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DEL PERSONAL DEL SERVICIO
 
-###### Artículo 142.
+###### ARTÍCULO 154.
 
-Los partidos políticos nacionales y estatales tendrán derecho a nombrar un representante propietario y uno suplente ante el Instituto, los Comités Distritales Electorales y los Comités Municipales Electorales.
+La autoridad valorará, entre otros, los siguientes elementos para fundar y motivar la resolución respectiva:
 
-La acreditación de dichos representantes ante los organismos electorales se hará por la dirigencia estatal de los partidos políticos ante el Instituto y en todos los casos, la sancionará éste.
+I. La gravedad de la falta en que se incurra;
 
-En el caso de una coalición, los partidos coaligados tendrán un representante común ante cada uno de los órganos electorales. Para los asuntos que no competan a la coalición, el partido conservará sus representantes.
+II. El Nivel, medida de responsabilidad, antecedente y las condiciones personales del infractor;
 
-Los partidos políticos y las coaliciones podrán sustituir libremente a sus representantes ante los organismos electorales, previa comunicación al Instituto.
+III. La intencionalidad con que realice la conducta indebida;
 
-El escrito de acreditación de los representantes, señalará el domicilio que para oír y recibir notificaciones designen en la ciudad en que tiene sede el organismo en el que actuarán, en el entendido que de no hacerlo, las mismas se harán por estrados al día siguiente del acuerdo que las motive.
+IV. La reincidencia;
 
-No podrán ser representantes de los partidos políticos los servidores públicos con mando superior y/o con facultades de decisión de los poderes judicial y ejecutivo, así como de los Ayuntamientos.
+V. Los beneficios económicos obtenidos por el responsable, así como los daños y perjuicios patrimoniales causados al Instituto; y
 
-###### Artículo 143.
+VI. Cuando con una sola conducta irregular se cometan varias infracciones, se emitirá una resolución que acumule las infracciones cometidas.
 
-Los partidos políticos nacionales o estatales y, en su caso, las coaliciones, tendrán derecho a nombrar dos representantes propietarios y un suplente ante las Mesas Directivas de Casilla, así como representantes generales en los siguientes términos:
+###### ARTÍCULO 155.
 
-I. Dos representantes propietarios y un suplente ante la casilla, quienes tendrán las funciones siguientes:
+Procederá la destitución del personal del Servicio por cualquiera de las siguientes causas:
 
-1. Vigilar el cumplimiento de la ley y los acuerdos del Instituto.
+I. Al que se le imponga pena de prisión, mediante sentencia ejecutoria, a excepción de los delitos culposos;
 
-2. Solicitar al secretario técnico haga asentar en acta los hechos o incidentes que considere alteran o pongan en riesgo el desarrollo de la jornada electoral.
+II. Al que no desarrolle sus actividades en el Cargo, lugar y área de adscripción que determinen las autoridades del Instituto de acuerdo a lo establecido en el Catálogo y el Programa de Estrategos (sic);
 
-3. Auxiliar, a petición del Presidente de la Mesa Directiva de casilla en el ejercicio de las atribuciones y responsabilidades que le confiere la ley.
+III. Al que no cumpla con las disposiciones para reincorporarse al Servicio en los casos de disponibilidad o no haya realizado las actividades para las que haya solicitado la misma;
 
-El representante suplente sólo podrá permanecer en la casilla en ausencia de cualquiera de los propietarios, previa acreditación ante el Presidente.
+IV. Al que realice actos que acrediten una conducta a favor o en contra de los partidos, agrupaciones y organizaciones políticas;
 
-II. Un representante general por cada diez casillas electorales urbanas y uno por cada cinco casillas rurales. En los municipios que tengan menos de diez casillas urbanas o cinco rurales, podrán nombrar un representante general, así como también en los casos en que la suma total arroje diferencias menores al límite establecido en este párrafo. La función de estos representantes, será vigilar el día de la elección, el cumplimiento de lo dispuesto en la ley y la efectividad del sufragio. Para tal efecto se regirán por las normas siguientes:
+V. Al que tenga más de tres faltas de asistencia en un periodo de treinta días, sin causa justificada o sin autorización expresa de su superior jerárquico inmediato;
 
-1. Ejercerán su cargo exclusivamente ante las mesas directivas de casilla para las que fueron acreditados.
+VI. No aprobar la evaluación del desempeño, la global o reprobar dos veces la misma materia del Programa de Formación; y
 
-2. No sustituirán en sus funciones a los representantes de los partidos políticos ante las mesas directivas de casilla, debiendo, en todo caso, actuar conjuntamente con estos en los actos electorales del proceso que corresponda, sin que se admita su intervención por separado respecto de un mismo hecho. Cuando el representante de casilla de un partido político se encuentre ausente, los representantes generales podrán actuar en forma supletoria como representantes de su partido político en la casilla respectiva, sin que puedan hacerlo en algún otro caso.
+VII. Al que realice determinada conducta de acción u omisión que constituya incumplimiento grave o reiterado de las obligaciones y prohibiciones establecidas en este Estatuto.
 
-3. En ningún caso ejercerán o asumirán las funciones de los integrantes de las mesas directivas de casilla.
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-4. No obstaculizarán el desarrollo normal de la votación en las casillas que se presenten.
+I. DISPOSICIONES PROCESALES
 
-5. Durante el desarrollo de la jornada electoral y únicamente cuando el representante de su partido político ante la mesa directiva de casilla no estuviere presente, el representante general, podrá solicitar que se asienten en el acta los incidentes que se susciten.
+###### ARTÍCULO 156.
 
-6. Podrán solicitar y obtener de los Presidentes de las Mesas Directivas de casillas para las que fueron acreditados, copias de las actas que se levanten, solo cuando no hubiese estado presente el representante de su partido político acreditado ante la mesa directiva de casilla.
+Se entiende por Procedimiento Administrativo la serie de actos desarrollados por las autoridades competentes, tendientes a resolver si ha lugar o no a la imposición de una sanción prevista en este Estatuto.
 
-7. Podrán comprobar la presencia de los representantes de su partido político ante las mesas directivas de casilla y recibir de ellos los informes relativos a su desempeño, sin que esto sea motivo para que se interrumpa la votación u obstaculice el normal desarrollo de la jornada electoral.
+###### ARTÍCULO 157.
 
-La acreditación de estos representantes, deberá realizarse a más tardar diez días antes de la jornada electoral en los Comités Municipales, según se trate de elecciones de gobernador, diputados y miembros de los Ayuntamientos, pudiendo ser sustituidos por el mismo procedimiento hasta cinco días antes de la jornada electoral.
+El Procedimiento Administrativo se iniciará a instancia de parte, salvo lo contemplado en el artículo siguiente.
 
-###### Artículo 144.
+###### ARTÍCULO 158.
 
-Los partidos políticos presentarán en forma individual, la acreditación de cada uno de sus representantes señalando lo siguiente:
+El Procedimiento Administrativo tendrá lugar cuando un órgano o unidad del Instituto determine con o sin denuncia previa de cualquier funcionario o particular, con base en elementos objetivos, el incumplimiento o violación por parte del personal del Instituto a las disposiciones del presente Estatuto, debiendo comunicar la decisión por escrito y remitiendo las pruebas suficientes que acrediten la infracción a la autoridad competente para instruir o resolver.
 
-I. Nombre, apellidos y domicilio del representante.
+La autoridad que inicie el procedimiento de oficio se apegará invariablemente a los principios de legalidad, certeza y objetividad.
 
-II. Número de credencial para votar.
+###### ARTÍCULO 159.
 
-III. Número de sección y casilla en la que se acredita.
+El Procedimiento se dividirá en la etapa de instrucción y la de resolución. La primera comprende el inicio del procedimiento hasta el desahogo de pruebas y la segunda corresponde a la emisión de la resolución que ponga fin al procedimiento.
 
-Sólo podrán ser representantes de partidos políticos, los electores residentes en el municipio y/o distrito en que se encuentre comprendida la casilla en que son acreditados. Los representantes de los partidos políticos de distinto municipio pero del mismo distrito al de la casilla a la que se encuentran acreditados no podrán votar para la elección de Ayuntamientos.
+I. Será autoridad instructora el Secretario General, apoyándose para tal efecto de la Dirección de Asuntos Jurídicos, en el supuesto de que la conducta sea atribuida a un miembro del Servicio o el personal Administrativo adscrito a ellas, o bien por quien en ausencia de éstos se encuentren como responsables del despacho de dicho Cargo; y
 
-###### Artículo 145.
+II. Será autoridad resolutoria la Junta.
 
-Los Comités Municipales resolverán sobre la solicitud de registro de representantes de los partidos políticos ante las mesas directivas de casilla, en un término que no deberá exceder de las 48 horas siguientes a la fecha límite para su presentación.
+Las autoridades instructora y resolutora siempre respetarán las garantías de audiencia y legalidad en el Procedimiento Administrativo.
 
-### CAPÍTULO OCTAVO. LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
+## TÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA APLICACIÓN DE SANCIONES
 
-###### Artículo 146.
+### CAPÍTULO TERCERO. DE LAS PROHIBICIONES DEL PERSONAL DEL SERVICIO
 
-El Instituto, a propuesta del Secretario Técnico, decidirá sobre los formatos de boletas y actas que habrán de utilizarse en las elecciones. De igual forma decidirá sobre el resto del material electoral.
+###### ARTÍCULO 160.
 
-###### Artículo 147.
+Serán improcedentes las denuncias que no se acompañen de pruebas que acrediten los hechos, o bien que no las señalen.
 
-Para los efectos del artículo anterior, el Instituto, convocará públicamente a los proveedores interesados y decidirá por mayoría sobre la asignación de los contratos para la elaboración de la documentación y material electoral.
+###### ARTÍCULO 161.
 
-###### Artículo 148.
+El Procedimiento Administrativo se sujetará a lo siguiente:
 
-Las boletas para la elección de gobernador, diputados al Congreso e integrantes de los Ayuntamientos contendrán:
+I. Los escritos iniciales deberán contener como mínimo los siguientes elementos:
 
-I. Entidad, distrito y municipio por el que contienden.
+a) Autoridad a la que se dirige;
 
-II. Cargo para el que se postula al candidato o candidatos.
+b) Nombre completo del promovente y domicilio para oír y recibir notificaciones; en caso de que el promovente sea personal del Instituto, deberá señalar el Cargo que ocupa y el área de adscripción;
 
-III. Nombre y apellido del candidato o candidatos.
+c) Nombre completo, Cargo y adscripción del presunto infractor;
 
-IV. Emblema o emblemas y color o combinación de colores de cada partido político o coalición.
+d) Hechos en que se funda la promoción;
 
-V. Un sólo espacio para cada candidato, fórmula o planilla de candidatos propietarios y suplentes postulados por cada partido político o coalición, en los casos de elecciones de gobernador, diputados y Ayuntamientos.
+e) Pruebas que acrediten los hechos referidos;
 
-VI. Las firmas del Presidente y Secretario Técnico del Instituto.
+f) Fundamentos de derecho; y
 
-VII. El emblema del Instituto impreso al reverso de la boleta.
+g) Firma autógrafa.
 
-VIII. Número de folio desprendible en numeración progresiva, para el total de la entidad en tratándose de la elección de gobernador y de los distritos o municipios para la elección de diputados o Ayuntamientos respectivamente.
+Las denuncias que no cumplan con el requisito del inciso c) se considerarán improcedentes.
 
-IX. Las medidas impresas de seguridad que garanticen la dificultad de su falsificación.
+En el supuesto de que el escrito sea presentado ante la autoridad instructora por el promovente sin cubrir el requisito del inciso g), se le requerirá para que lo cumpla en un término de tres días hábiles a partir de notificado el requerimiento.
 
-###### Artículo 149.
+Cuando un escrito sea presentado ante un órgano distinto al facultado para conocer del procedimiento, deberá ser turnado al competente dentro de los tres días hábiles siguientes a su recepción.
 
-El Instituto tomará los acuerdos conducentes para resolver, en cada proceso electoral, la forma, dimensión y distribución de los espacios asignados en las boletas a cada partido o coalición, tomando en cuenta la antigüedad de su registro.
+II. Podrán ser ofrecidas y, en su caso, admitidas las siguientes pruebas:
 
-El Instituto remitirá como parte del paquete electoral, para ser usadas el día de las elecciones, el acta de la jornada electoral y el acta de formación de paquete de votación. La primera necesariamente hará constar los siguientes hechos:
+a) Documentales públicas y privadas;
 
-I. Día, hora y lugar en que se instala la casilla.
+b) Técnicas;
 
-II. Número de boletas y descripción del material electoral recibido.
+c) Periciales;
 
-III. Que las urnas dispuestas para recibir la votación se encontraban vacías.
+d) Presuncionales; y
 
-IV. La hora en que se cerró la votación.
+e) Instrumental de actuaciones.
 
-V. Los datos concernientes al escrutinio y cómputo.
+Cada una de las pruebas que se ofrezcan deberán referirse a alguno o algunos de los hechos sobre los que motiva la promoción, si no cumplen este requisito no serán admitidas.
 
-VI. Las observaciones, los nombres y las firmas de los funcionarios de casilla y de los representantes de los partidos.
+III. La· autoridad instructora correspondiente estudiará el escrito inicial, si éste no cumple con los requisitos establecidos en el presente Estatuto o no se relaciona con las causas de imposición de sanciones, se dictará auto de desechamiento, de lo contrario dictará auto de admisión;
 
-Dicha acta deberá ir preparada para entregar copia legible a cada uno de los partidos políticos y al Secretario Técnico de la casilla.
+IV. Dentro del término de cinco días hábiles contados a partir del día siguiente en que se dicte el auto de admisión, la autoridad instructora notificará personalmente al presunto infractor y al promovente del inicio de procedimiento y de los hechos u omisiones que se le imputan al primero;
 
-###### Artículo 150.
+V. Se le correrá traslado al presunto infractor con las copias simples del escrito inicial y de las pruebas que lo apoyen, emplazándolo para que, en el término de diez días hábiles contados a partir del día siguiente en que se emplace, conteste y ofrezca pruebas, apercibiéndolo de que, en caso de que no produzca su contestación ni ofrezca pruebas dentro de este término, precluirá su derecho para hacerlo. No se aceptarán pruebas que no se hubieran ofrecido en el escrito de contestación, hasta antes de que se dicte el auto de cierre de instrucción, salvo que fueran supervenientes;
 
-El número de boletas impresas para cada elección, será igual al de ciudadanos inscritos en lista nominal de electores más el 1% para dotar a las casillas especiales y para casos de reposición por destrucción o fuerza mayor.
+VI. El promovente tendrá un término de tres días hábiles posteriores a que haya sido notificado en los términos de la fracción IV de este artículo para ratificar la denuncia;
 
-En la elección de gobernador y diputados, del porcentaje de boletas excedente, se entregarán las boletas para las casillas especiales.
+VII. En un plazo que no excederá de cinco días hábiles, contados a partir del día siguiente en que se reciba la contestación del presunto infractor o en su caso, al día en que fenezca el término otorgado para tal efecto, se dictará auto en el que se resolverá sobre la admisión o desechamiento de las pruebas ofrecidas por las partes; se ordenará la preparación de aquéllas que conforme a derecho procedan y se señalará día y hora para la audiencia de desahogo de pruebas.
 
-El Instituto, por mayoría, tomará los acuerdos conducentes para resolver las contingencias que con motivo de la determinación del número de electores se presenten, tomando siempre como base, los últimos datos de electores en lista nominal proporcionados por el Instituto Federal Electoral.
+Este auto deberá notificarse personalmente dentro de los tres días hábiles siguientes.
 
-###### Artículo 151.
+VIII. Las pruebas que ameriten prepararse estarán a cargo de las partes que las ofrezcan, procediéndose a declarar desiertas en la audiencia de desahogo aquéllas que no lo hayan sido;
 
-El Instituto diseñará y distribuirá las actas que serán el soporte documental de todos los actos y hechos que ocurran durante la jornada electoral, así como la entrega de los paquetes de votación.
+IX. La audiencia de desahogo de pruebas se llevará al cabo en el lugar que previamente señale la autoridad instructora, debiendo intervenir en ella exclusivamente las partes interesadas;
 
-###### Artículo 152.
+La audiencia se substanciará en un solo acto, en el que las partes podrán presentar alegatos por escrito; la cual sólo podrá diferirse o suspenderse por causas graves debidamente justificadas a juicio de la autoridad instructora;
 
-Las Mesas Directivas de Casilla, a través de su presidente, recibirán oportunamente el paquete electoral que contendrá lo siguiente:
+X. Concluida la audiencia, la autoridad dictará auto de cierre de instrucción, en el cual referirá de forma sucinta las pruebas que hubiesen quedado desahogadas conforme a derecho, así como las que se declaren desiertas; y
 
-I. Lista nominal de electores con fotografía de la sección, cuando en ésta hubiese más de una casilla, la lista nominal contendrá únicamente los electores que votarán en cada una de ellas.
+XI. La autoridad instructora, dentro del término de diez días hábiles contados a partir del auto de cierre de instrucción, enviará el expediente original con todas sus constancias a la autoridad resolutora para que emita la resolución correspondiente.
 
-II. Boletas para cada elección en número igual al de los electores que figuren en la lista nominal de la sección o casilla según el caso.
+La resolución deberá dictarse dentro de los quince días hábiles siguientes al día en que se reciba el expediente y sus constancias, y deberá notificarse personalmente a las partes dentro de los cinco días hábiles posteriores.
 
-III. Las urnas para recibir la votación, las que deberán tener tres caras transparentes y el resto translúcidas, señalando la votación que habrá de recibirse en cada una de ellas.
+###### ARTÍCULO 162.
 
-IV. Documentación, formas aprobadas, material de identificación de la casilla, útiles de escritorio, dispositivo para marcar la credencial para votar, tinta indeleble y demás elementos necesarios.
+Las resoluciones que se pronuncien en el Procedimiento Administrativo por la autoridad resolutora deberán hacerse por escrito y contendrán:
 
-V. Mamparas en número suficiente para que los electores puedan emitir su voto en secreto.
+I. La fecha, el lugar y la autoridad que la dicta;
 
-###### Artículo 153.
+II. Resultandos, que contendrán el resumen de los hechos o puntos de derecho controvertidos;
 
-El Instituto será responsable de la elaboración del material y los paquetes electorales, debiendo ponerlos a disposición de los comités municipales electorales, los cuales con auxilio de los comités distritales, los harán llegar con oportunidad a los Presidentes de las Mesas Directivas de casillas.
+III. Considerandos, que contendrán el análisis, examen y valoración de las pruebas que resulten pertinentes, así como los fundamentos jurídicos;
 
-### CAPÍTULO NOVENO. LA INTEGRACIÓN Y DISTRIBUCIÓN DE LOS PAQUETES ELECTORALES
+IV. Los puntos resolutivos; y
 
-###### Artículo 154.
+V. En su caso, el plazo para su cumplimiento.
 
-Los paquetes electorales estarán integrados con las boletas en número igual al de los electores que deban sufragar en la casilla, el formato autorizado del acta de la jornada, la lista nominal de electores y el material electoral.
+###### ARTÍCULO 163.
 
-Las boletas, el acta y la lista nominal irán en empaque cerrado, con sellos de seguridad, rotulado e identificado, señalando la casilla a la que corresponda.
+La Junta, la Comisión o la Dirección General, podrán solicitar al funcionario que haya fungido como autoridad instructora o resolutora la información relativa a las consideraciones que lo llevaron a la motivación de cualquier decisión en tal carácter, para los efectos legales a que haya lugar.
 
-###### Artículo 155.
+II. DEL RECURSO DE INCONFORMIDAD
 
-El Instituto dispondrá el lugar donde públicamente se integrarán los paquetes electorales, buscando que el mismo cuente con las medidas de seguridad que amerita la labor que en él se realizará.
+###### ARTÍCULO 164.
 
-Los partidos políticos tendrán la obligación de vigilar el proceso de elaboración de cada uno de los paquetes electorales, ejerciendo en ese momento el derecho de cuestionar sobre los mecanismos, métodos y decisiones que en el proceso se tomen.
+Procede el recurso de inconformidad contra las resoluciones emitidas por la autoridad resolutora correspondiente que pongan fin al Procedimiento Administrativo previsto en este ordenamiento y causen agravios al miembro del Servicio o personal Administrativo directamente afectado.
 
-Asimismo, los partidos políticos tendrán el derecho de solicitar oportunamente, durante la elaboración de los paquetes electorales, un muestreo que sirva para verificar la correcta integración de los mismos, este trabajo de supervisión puede ser ejercido por los partidos en forma individual o colectiva, cuidando siempre que el mismo no trastorne la distribución oportuna del material electoral.
+###### ARTÍCULO 165.
 
-El material electoral, mamparas, urnas y demás material que por su tamaño o características resulte conveniente empacar por separado, será distribuido de la forma en que acuerde el Consejo General.
+El término para interponer el recurso de inconformidad será de diez días hábiles, contados a partir del siguiente al día en que surta efectos la notificación de la resolución que se recurra. Deberá de presentarse ante la Junta.
 
-###### Artículo 156.
+### CAPÍTULO CUARTO. DE LA DISPONIBILIDAD
 
-Concluida la integración de los paquetes, éstos serán cerrados, en presencia de los partidos políticos que asistan y de un fedatario público propuesto por el Colegio de Notarios, quien levantará el acta correspondiente. Por ningún motivo se podrán abrir los paquetes electorales hasta su arribo a las mesas directivas de casilla, el día de la jornada electoral. Los Comités Municipales o Distritales, únicamente serán custodios del material y tendrán la obligación de entregarlo, previo recibo, al Presidente de la casilla.
+###### ARTÍCULO 166.
 
-###### Artículo 157.
+El recurso se tendrá por no interpuesto y, en su caso, se acordará su desechamiento en los casos siguientes:
 
-Las impugnaciones que se susciten con motivo de la integración de los paquetes electorales, tendrán que hacerse valer en el momento en que ocurran los actos que se consideren contrarios a esta ley, en los términos de la ley de la materia. Cualquier impugnación posterior será desechada por improcedente.
+I. Cuando se presente fuera del término señalado para interponerlo;
 
-El Instituto descansará la responsabilidad operativa en una subcomisión integrada por cuatro miembros del organismo y encabezada por el Secretario Técnico.
+II. Cuando el recurrente no firme el escrito; y
 
-###### Artículo 158.
+III. Cuando no se acredite la personalidad jurídica del representante legal.
 
-Con la debida oportunidad, los Comités Distritales y Municipales Electorales, tendrán en su poder y empezarán a distribuir el material electoral. El Instituto, tomando en consideración el número de secciones de los municipios y su distribución geográfica, determinará los términos para su entrega.
+###### ARTÍCULO 167.
 
-###### Artículo 159.
+El escrito mediante el cual se interponga el recurso, deberá contener los siguientes elementos:
 
-Los Comités Distritales y Municipales tomarán las providencias necesarias para el resguardo del material electoral. Los presidentes de casilla serán responsables de la seguridad del paquete electoral, debiendo notificar a la autoridad competente sobre cualquier destrucción, extravío o robo a fin de que ésta resuelva lo conducente.
+I. El órgano al que se dirige;
 
-## TÍTULO TERCERO. LA JORNADA ELECTORAL
+II. Nombre completo del recurrente y domicilio para oír y recibir notificaciones;
 
-### CAPÍTULO PRIMERO. LA INSTALACIÓN Y APERTURA DE CASILLAS
+III. La resolución administrativa que impugne, la autoridad que la dictó y la fecha en que fue notificada;
 
-###### Artículo 160.
+IV. Los agravios que le causa la misma, los argumentos de derecho en contra de la resolución que se recurre y las pruebas que el recurrente ofrezca; y
 
-El último domingo del mes de septiembre del año que corresponda a la elección, a las ocho horas, los ciudadanos nombrados Presidentes, Secretarios Técnicos y Escrutadores se reunirán en el sitio donde se ubique la casilla electoral para proceder a realizar los trabajos de su instalación y apertura.
+V. La firma autógrafa del promovente.
 
-Los representantes de los partidos políticos mostrarán al Secretario Técnico de la casilla su acreditación razonada y sellada por el órgano electoral competente y se identificarán con su credencial para votar.
+Para los efectos de la fracción V, la Junta deberá requerir al promovente la firma del recurso en un plazo de tres días hábiles a partir de que se tenga por presentado el mismo y en caso de no hacerlo se tendrá por no interpuesto.
 
-###### Artículo 161.
+###### ARTÍCULO 168.
 
-El Presidente, el Secretario Técnico y el Escrutador, ante los representantes de los partidos políticos que estén presentes, certificarán que las urnas, después de armadas se encontraban vacías. Asimismo contarán, tanto el número de boletas recibidas, haciendo constar lo anterior en el acta correspondiente, como el hecho de verificar que se cuente con los elementos necesarios para el desarrollo de la jornada electoral.
+En el recurso podrán ofrecerse y admitirse aquellas pruebas de las cuales no hubiese tenido conocimiento el recurrente durante la secuela del procedimiento.
 
-###### Artículo 162.
+###### ARTÍCULO 169.
 
-Terminados los trabajos previos a la instalación de la casilla, el Presidente la declarará instalada y la abrirá, el Secretario Técnico asentará en el acta este hecho, así como la hora y los incidentes que se susciten en su caso.
+Se sobreseerá el recurso cuando:
 
-###### Artículo 163.
+I. El promovente se desista expresamente, debiendo ratificar ante la autoridad correspondiente el escrito respectivo;
 
-De no instalarse la casilla conforme a lo previsto por el artículo anterior y, a fin de no obstaculizar el desarrollo de la jornada electoral en la sección de que se trate, se procederá a lo siguiente:
+II. El promovente renuncie o fallezca durante el procedimiento; y
 
-I. Si a las ocho treinta horas no se presentara alguno de los propietarios, actuará en su lugar el que jerárquicamente le siga en orden. La vacante de Escrutador se cubrirá con el suplente.
+III. No se pruebe la existencia del acto impugnado.
 
-II. Si fueren más de uno los integrantes de la mesa directiva ausentes, quien asuma el cargo de Presidente, designará a los substitutos de entre aquellos ciudadanos que esperen para emitir su voto.
+###### ARTÍCULO 170.
 
-III. Si a las nueve horas la casilla no se hubiera instalado, un auxiliar del Comité Electoral correspondiente, nombrará a los funcionarios necesarios.
+Cuando el recurso se interponga contra las resoluciones de la Dirección Administrativa, la Dirección General substanciará el expediente y resolverá lo conducente. En caso de que se interponga contra las resoluciones del Director General, la Junta deberá designar al Consejero Presidente para substanciar el expediente y presentar el proyecto de resolución a la Junta.
 
-IV. En ausencia del auxiliar, los representantes de los partidos políticos designarán, de común acuerdo, a los funcionarios necesarios para integrar las mesas directivas de casilla, en cuyo caso se requerirá:
+La autoridad que substancie el recurso deberá dictar auto en el que se admita o deseche así como las pruebas de mérito, señalando en su caso fecha y lugar para su desahogo. El auto que tenga por no interpuesto el recurso o lo sobresea será inatacable.
 
-1. La presencia de un juez, notario público, síndico o agente del ministerio público, quienes tendrán la obligación de acudir a dar fe de los hechos.
+###### ARTÍCULO 171.
 
-2. En ausencia de los funcionarios que puedan dar fe de los hechos, bastará que los representantes de los partidos políticos, si los hubiere, expresen su conformidad para designar a los miembros de la mesa directiva de casilla que corresponda, debiendo el Secretario Técnico, asentar los hechos en el acta correspondiente.
+La Junta deberá substanciar el recurso dentro de un plazo de veinte días hábiles siguientes a la fecha del acuerdo que lo haya tenido por interpuesto; o bien, a la fecha en la que hayan terminado de desahogarse todas las pruebas. La resolución deberá ser notificada a las partes personalmente o por correo certificado con acuse de recibo.
 
-###### Artículo 164.
+###### ARTÍCULO 172.
 
-La casilla podrá instalarse en lugar distinto al señalado, en caso de que se presentaran las siguientes hipótesis:
+Las resoluciones del recurso que se emitan podrán anular, revocar, modificar o confirmar los actos o resoluciones impugnadas.
 
-I. No exista el local indicado en las publicaciones respectivas.
+###### ARTÍCULO 173.
 
-II. El local se encuentre cerrado o clausurado y no se pueda realizar la instalación de la casilla.
+La Junta informará a la Comisión sobre los procedimientos substanciados y resueltos; debiendo la Comisión a su vez conservar un registro personalizado de las resoluciones establecidas en el artículo anterior, con el fin de que puedan tener efecto en la evaluación global a que se refiere el artículo 105 del presente Estatuto.
 
-III. Se advierta, al momento de la instalación de la casilla, que esto se pretende realizar en lugar prohibido por la ley.
+III. DE LA RECLAMACIÓN ADMINISTRATIVA
 
-IV. Las condiciones del local no permitan asegurar la libertad o el secreto del voto, el fácil y libre acceso de los electores o bien, no garanticen la realización de las operaciones electorales en forma normal.
+###### ARTÍCULO 174.
 
-V. Que el Comité Municipal Electoral así lo disponga por causa de fuerza mayor o caso fortuito. En este caso, dicha situación se hará del conocimiento del Presidente de casilla.
+La reclamación contemplada en la fracción XI, del artículo 128 del presente Estatuto, se hará a través de una petición por escrito ante la Dirección Administrativa, con el objeto de obtener una respuesta por escrito en un término de diez días hábiles después de recibida la reclamación.
 
-###### Artículo 165.
+# LIBRO SEGUNDO. DEL PERSONAL ADMINISTRATIVO, LOS TRABAJADORES EVENTUALES Y LAS CONDICIONES GENERALES DE TRABAJO
 
-La casilla que cambie de domicilio atendiendo a lo previsto por las fracciones anteriores, deberá instalarse dentro de la misma sección y en el lugar adecuado más próximo, dejándose aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
+## TÍTULO PRIMERO. DEL PERSONAL ADMINISTRATIVO Y DE LOS TRABAJADORES EVENTUALES
 
-En el acta correspondiente se anotarán las causas por las que se cambió la ubicación de la casilla.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO SEGUNDO. LA VOTACIÓN
+###### ARTÍCULO 175.
 
-###### Artículo 166.
+Este Libro regula las disposiciones aplicables al personal Administrativo y Eventual y las condiciones generales de trabajo de todo el personal del Instituto.
 
-Los electores votarán en el orden en que se presenten ante la Mesa Directiva de la Casilla, conforme al procedimiento siguiente:
+### CAPÍTULO QUINTO. DE LA REINCORPORACIÓN
 
-I. Exhibir su credencial para votar.
+###### ARTÍCULO 176.
 
-II. El Presidente identificará al elector por medio de su credencial para votar.
+La Dirección Administrativa propondrá a la Junta, previo acuerdo de la Comisión para su aprobación, las normas, políticas y procedimientos relativos a la administración del personal al que se refiere este Libro.
 
-III. El Secretario Técnico de la mesa, se cerciorará de que el nombre que aparece en la credencial para votar, figura en la lista nominal de electores con fotografía. De esta regla se exceptuarán únicamente los representantes de partido acreditados en la casilla. En este caso, el Secretario Técnico levantará una lista adicional con el nombre, domicilio y número de credencial para votar, de los representantes de partido.
+La Comisión podrá vigilar y supervisar los asuntos relativos al personal Administrativo y a los trabajadores Eventuales del Instituto; para tal efecto, podrá emitir recomendaciones y formular propuestas.
 
-IV. El Secretario Técnico procederá a mostrar, en caso de que no exista lista nominal con fotografía, a los representantes de los partidos políticos presentes en la casilla, la credencial para votar del sufragante, a fin de que dichos representantes verifiquen la identidad del mismo, cuidando en todo momento el desarrollo normal de la elección.
+La Dirección Administrativa deberá proporcionar a la Comisión toda la información que le sea requerida sobre el personal Administrativo y los trabajadores Eventuales.
 
-V. Una vez comprobado que el elector aparece inscrito en la lista nominal con fotografía, el Presidente de casilla le entregará las boletas electorales para que libremente proceda a votar en secreto y marque el círculo o espacio del partido político o coalición por quien sufraga.
+###### ARTÍCULO 177.
 
-VI. Acto seguido, el elector doblará su boleta y la depositará personalmente en la urna que corresponda.
+La relación jurídica entre el Instituto y los trabajadores a que se refiere este Libro, estará sujeta a las disposiciones que al efecto establece el Código, el presente Estatuto y las demás disposiciones aplicables.
 
-VII. El Secretario Técnico de la casilla anotará la palabra "votó" en la lista nominal de electores con fotografía y procederá a marcar la credencial de elector, devolviéndola al ciudadano, debiendo impregnar con líquido indeleble el dedo pulgar derecho.
+### CAPÍTULO SEXTO. DE LA SEPARACIÓN DEL SERVICIO
 
-###### Artículo 167.
+###### ARTÍCULO 178.
 
-Si el elector es ciego o se encuentra impedido físicamente para sufragar, podrá auxiliarse por la persona que él mismo designe, tanto para marcar la boleta, como para depositarla en la urna.
+El personal Administrativo es aquél que una vez otorgado el nombramiento en una plaza presupuestal, preste sus servicios de manera regular y realice actividades de apoyo a la función sustantiva del Instituto que es exclusiva de los miembros del Servicio.
 
-Las personas con capacidades diferentes si así lo solicitan, tendrán derecho preferencial para emitir su voto, sin necesidad de hacer fila.
+###### ARTÍCULO 179.
 
-El Presidente de la Mesa Directiva de casilla acordará las medidas necesarias para hacer efectivos estos derechos de las personas con capacidades diferentes.
+Será personal Eventual:
 
-###### Artículo 168.
+I. Los funcionarios electorales de los Consejos Distritales y Consejos Municipales, con el carácter de transitorios, y durarán en su función el tiempo que determine el Código y el Consejo;
 
-El elector que no sepa leer, podrá manifestar a los funcionarios de casilla su deseo de ser auxiliado por la persona que él designe, únicamente para los efectos de dar lectura a los nombres de los partidos y candidatos que contienden en la elección.
+II. Aquél que preste sus servicios al Instituto para participar como Coordinadores Distritales de Organización Electoral y de Capacitación Electoral y los Auxiliares Electorales que se contraten por un tiempo determinado para la realización de las actividades propias del proceso electoral, a partir de los nombramientos que para tal efecto expida cada Consejo Distrital; y
 
-El Instituto, tomando en consideración lo establecido en la Ley para el Desarrollo Integral de las Personas con Discapacidad en el Estado de Coahuila, podrá adoptar mecanismos que permitan facilitar el ejercicio del sufragio a las personas con capacidades diferentes, el día de las elecciones.
+III. Aquél que preste sus servicios por un tiempo u obra determinada, para participar en la realización de programas y proyectos institucionales, incluyendo los de índole administrativa, de conformidad con el contrato que para tal efecto se establezca en términos de la legislación aplicable.
 
-###### Artículo 169.
+### CAPÍTULO SEGUNDO. DEL CATÁLOGO
 
-El personal de las fuerzas armadas, la oficialidad, las clases, tropa y miembros de las corporaciones policiacas, deben presentarse a votar individualmente, sin armas y sin vigilancia o mando de superior alguno, en la sección electoral que les corresponda por razón de su domicilio.
+###### ARTÍCULO 180.
 
-###### Artículo 170.
+La Dirección Administrativa, considerando la opinión de las demás Direcciones y Unidades Técnicas, podrá hacer propuestas respecto a la estructura de Cargos que integren el personal Administrativo y Eventual. Dichas propuestas serán sometidas a consideración de la Junta para su aprobación e inclusión en el Catálogo.
 
-El presidente de la casilla recogerá las credenciales permanentes de elector que tengan muestras de alteración o no pertenezcan al ciudadano, poniendo a disposición de la autoridad que corresponda a quien o quienes las presenten.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 171.
+###### ARTÍCULO 181.
 
-La votación podrá recogerse por medio de instrumentos electrónicos y/o máquinas, cuyo modelo sea aprobado por el Consejo General, siempre que se garantice la efectividad y el secreto del sufragio.
+El Catálogo precisará aquellos Cargos que deberán ser ocupados por el personal Administrativo y Eventual en los mismos términos de los artículos 21 y 25 del presente Estatuto.
 
-###### Artículo 172.
+### CAPÍTULO TERCERO. DEL INGRESO DEL PERSONAL ADMINISTRATIVO
 
-El Presidente de la casilla tiene la responsabilidad de mantener el orden en ésta y en los lugares inmediatos a aquélla. Para tal efecto, podrá contar con el auxilio de la fuerza pública si lo estima conveniente, conforme a las siguientes disposiciones:
+###### ARTÍCULO 182.
 
-I. Sólo permanecerán en el local de la casilla sus funcionarios, los representantes en funciones de los partidos políticos, los funcionarios que a solicitud del Presidente o de los representantes de los partidos políticos estén presentes para dar fe de actos y hechos y el número de electores que puedan ser atendidos, a fin de asegurar la libertad y el secreto del voto.
+La incorporación o ingreso del personal administrativo se llevará al cabo ajustándose al número de cargos que establece la estructura ocupacional, a las remuneraciones autorizadas y a la disponibilidad presupuestal, así como a las normas y procedimientos aplicables.
 
-II. No se admitirán en la casilla a los individuos que se presenten armados o en estado de ebriedad, así como a los que realicen propaganda electoral o pretendan coaccionar a los votantes.
+###### ARTÍCULO 183.
 
-III. Mandará retirar de la casilla o de los lugares inmediatos a aquélla, a los individuos que infrinjan las disposiciones de esta ley u obstaculicen el desarrollo de la votación y, en su caso, mandará arrestar, por medio de la fuerza pública, a quienes no acaten sus órdenes, poniéndolos a disposición de la autoridad competente.
+Para ingresar al Instituto, los aspirantes para formar parte del personal Administrativo deberán cumplir con los siguientes requisitos, sin perjuicio de los que establezca el Catálogo:
 
-###### Artículo 173.
+I. Ser ciudadano mexicano;
 
-El presidente de la mesa directiva suspenderá la votación en el caso de que exista alteración del orden en la casilla, o cuando existan circunstancias o condiciones que impidan la libre emisión o el secreto del sufragio o que atenten contra la seguridad personal de los electores, de los representantes de los partidos o de los miembros de la mesa directiva. Cuando lo considere conveniente, dispondrá que se reanude la votación, dejando constancia de los hechos en el acta correspondiente.
+II. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
-###### Artículo 174.
+III. Gozar de buena reputación y no haber sido condenado por delito alguno, excepto si es de carácter culposo;
 
-El Secretario Técnico de la casilla deberá recibir los escritos que contengan impugnaciones o aclaraciones que presenten los ciudadanos electores de esa casilla o los representantes de los partidos acreditados ante la misma. Estos escritos deberán presentarse por triplicado. Una copia será remitida al Comité Municipal o Distrital, la otra será incluida en el paquete de votación y la tercera se devolverá, con la razón de recibo, al interesado.
+IV. Contar con los conocimientos, experiencia y habilidades requeridos para ingresar al Instituto y desempeñar la función encomendada;
 
-El Secretario Técnico hará constar los incidentes que se susciten en la casilla y los que puedan alterar el resultado de las elecciones en el acta correspondiente, sin prejuzgar sobre su procedencia.
+V. Tener la escolaridad mínima que se establezca en el Catálogo;
 
-###### Artículo 175.
+VI. Aprobar los exámenes de ingreso que les sean aplicados;
 
-A las seis de la tarde se cerrará la casilla de votación. Si a la hora señalada aún se encuentran en la casilla electores sin votar, se continuará recibiendo la votación hasta que los electores presentes hayan sufragado, asentándose este hecho en el acta correspondiente.
+VII. Declarar bajo protesta no estar inhabilitado para ocupar Cargo público, ni ser militante de algún partido político; y
 
-### CAPÍTULO TERCERO. EL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
+VIII. Presentar la solicitud respectiva acompañada de la documentación que acredite el cumplimiento de los requisitos.
 
-###### Artículo 176.
+###### ARTÍCULO 184.
 
-Para el escrutinio y el cómputo de los votos, los integrantes de las Mesas Directivas de Casilla, observarán las siguientes reglas:
+Para la selección de personal Administrativo, se tomarán en cuenta los criterios que la Junta determine conforme a las normas, políticas y procedimientos que para el efecto se establezcan agotando el siguiente procedimiento:
 
-I. Se enumerarán las boletas sobrantes, inutilizándolas por medio de dos rayas diagonales, haciendo constar su número en el acta correspondiente.
+I. Invitación;
 
-II. Se abrirá la urna.
+II. Acreditación de requisitos;
 
-III. Se comprobará si el número de boletas depositadas corresponde al número de electores que sufragaron, para lo que el Escrutador sacará de la urna, una por una, las boletas, contándolas en voz alta, en tanto que el Secretario Técnico irá sumando en la lista nominal de electores el número de ciudadanos que votó, consignándose en el acta correspondiente el resultado de estas operaciones.
+III. Entrevista preliminar;
 
-IV. Se mostrará a todos los presentes que la urna quedó vacía.
+IV. Exámenes de reclutamiento; y
 
-V. Se tomará boleta por boleta y el escrutador leerá en voz alta los nombres en favor de los cuales se haya sufragado.
+V. Evaluación curricular.
 
-VI. En primer lugar, se hará el escrutinio y cómputo de la elección de gobernador, después la de diputados y, por último, la de los Ayuntamientos. En el caso de que al abrir la urna que contiene los votos de una elección se descubrieran boletas para otra, se computarán por separado, y se sumarán al resultado consignado en el acta correspondiente, haciéndose constar en acta complementaria lo anterior.
+### CAPÍTULO CUARTO. DEL NOMBRAMIENTO
 
-VII. El Secretario Técnico, al mismo tiempo, irá anotando los votos que el Escrutador vaya leyendo.
+###### ARTÍCULO 185.
 
-VIII. Se contará un solo voto por cada círculo marcado o cuando el elector marque en algún lugar del recuadro que contiene el círculo o emblema del partido correspondiente. El voto que haya sido marcado en más de un círculo o cuadro, sin que se pueda inferir la preferencia del elector, se computará como voto anulado. El Secretario Técnico registrará en el acta respectiva el número de votos nulos.
+El personal Administrativo ostentará este carácter y prestará sus servicios en virtud del nombramiento expedido por el Director General.
 
-IX. En el caso de candidatos comunes si el elector marca el círculo o cuadro de más de un partido de los que lo postulan, éste voto se computará únicamente para el candidato o candidatos de que se trate, sin que se tome en cuenta para un partido político postulante en específico. En el supuesto de que el elector marque más de un círculo o cuadro, diferente a aquellos partidos políticos que postulen la candidatura común, éste voto será nulo. El Secretario Técnico registrará en el acta respectiva el número de votos nulos.
+###### ARTÍCULO 186.
 
-###### Artículo 177.
+El nombramiento deberá contener los mismos requisitos señalados en el artículo 62 del presente Estatuto, excepto los exclusivos para miembros del Servicio.
 
-Concluidos el escrutinio y el cómputo de la votación, se consignarán en el acta de la jornada electoral los resultados y la hora en que se concluyó, la que firmarán los funcionarios y representantes de partidos, procediendo a elaborar el paquete de votación.
+###### ARTÍCULO 187.
 
-### CAPÍTULO CUARTO. EL CIERRE DE LA CASILLA Y DE LA REMISIÓN DEL PAQUETE
+La adscripción del personal Administrativo se regirá en función de las necesidades y principios del Instituto. La adscripción se notificará al empleado por escrito.
 
-###### Artículo 178.
+El personal Administrativo será adscrito al área que determine la Dirección General, considerando las necesidades del Instituto y conforme a las normas, políticas y procedimientos del mismo.
 
-El paquete de votación de cada elección, se integrará con los siguientes elementos:
+### CAPÍTULO QUINTO. DE LA SEPARACIÓN DEL PERSONAL ADMINISTRATIVO
 
-I. Un ejemplar original del acta de la jornada electoral.
+###### ARTÍCULO 188.
 
-II. Las boletas que contengan los votos emitidos, los votos anulados y las sobrantes debidamente inutilizadas.
+La separación es el acto por el cual el personal Administrativo deja de prestar sus servicios al Instituto de manera definitiva.
 
-III. Los escritos presentados por los ciudadanos o los representantes de los partidos políticos.
+###### ARTÍCULO 189.
 
-IV. La lista nominal de electores. La lista nominal se deberá incluir en el paquete de votación de diputados.
+El personal Administrativo quedará separado del Instituto por las causas señaladas en los artículos 136, 137 y 152 del presente Estatuto o por retiro de programas establecidos.
 
-El secretario técnico levantará un acta en la que se haga constar que el paquete de votación fue debidamente integrado, un ejemplar de este documento se hará llegar por separado al Comité Distrital o Municipal Electoral correspondiente.
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
-###### Artículo 179.
+###### ARTÍCULO 190.
 
-El Presidente de la Mesa Directiva de casilla conservará un ejemplar del acta de la jornada electoral, el que conjuntamente con el paquete de votación y el acta de formación de paquete, hará llegar al Comité Distrital, Municipal o Delegado Municipal.
+En el caso de separación por reestructuración, el personal Administrativo, con base en las necesidades y la disponibilidad presupuestal del Instituto, podrá ser reubicado en otras áreas o Cargos.
 
-El Presidente de la Mesa Directiva de casilla, en el formato aprobado por el Instituto, fijará en el exterior del lugar que ocupó la casilla, los resultados de la votación.
+###### ARTÍCULO 191.
 
-Los representantes de los partidos políticos acreditados ante la mesa directiva de la casilla, tendrán derecho a que se les expida copia legible de las actas levantadas en la misma.
+El nombramiento dejará de surtir efectos sin responsabilidad para el Instituto cuando, una vez otorgado el mismo, el interesado no tome posesión de su empleo dentro de los tres días siguientes a la fecha que se indique, siempre que haya sido notificado.
 
-###### Artículo 180.
+###### ARTÍCULO 192.
 
-Concluidas las labores electorales, el Presidente y el Secretario Técnico harán llegar los paquetes de votación a las siguientes autoridades:
+El personal Administrativo que cause baja del Instituto deberá entregar al titular de la Dirección Administrativa dentro de los tres días siguientes a la misma la credencial y rendir los informes de los documentos, bienes y recursos asignados a su custodia, así como los asuntos que tenga bajo su responsabilidad. Para ello, en su caso, deberá elaborarse el acta administrativa de entrega-recepción en los términos que establezca la Contraloría Interna del Instituto.
 
-I. En las elecciones de gobernador y Ayuntamientos, al Comité Municipal Electoral.
+El titular de la Dirección Administrativa deberá verificar los requisitos del certificado de no adeudo, cada vez que ocurra una baja del personal Administrativo.
 
-II. En elecciones de diputados, al Comité Distrital Electoral o, en caso de que un distrito abarque más de un municipio, al Comité Municipal Electoral que corresponda.
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-Concluido el cómputo y escrutinio, los paquetes de votación y las actas que se adjuntan deberán de remitirse inmediatamente tratándose de casillas urbanas ubicadas en la población sede del Comité Distrital o Municipal. Tratándose de cualquier otro caso, los funcionarios de las mesas directivas de casilla dispondrán de veinticuatro horas a partir de que se cerró la votación, para hacerlos llegar.
+I. DISPOSICIONES PROCESALES
 
-### CAPÍTULO QUINTO. LOS OBSERVADORES
+II. DEL RECURSO DE INCONFORMIDAD
 
-###### Artículo 181.
+III. DE LA RECLAMACIÓN ADMINISTRATIVA
 
-Los ciudadanos mexicanos podrán observar individualmente o en forma colectiva el desarrollo no sólo de la jornada electoral, sino de todo el proceso electoral, sin embargo, los organismos electorales no avalarán ni el trabajo de ellos, ni sus conclusiones.
+###### ARTÍCULO 193.
 
-###### Artículo 182.
+En los casos de fallecimiento del personal Administrativo, los familiares que se hagan cargo de los gastos de defunción recibirán el importe de cuatro meses de remuneración total correspondiente al Cargo que ocupaba el funcionario a la fecha del deceso, sin más trámite que la presentación del certificado de defunción y las constancias de gasto funerario.
 
-Quienes observen el proceso electoral no podrán intervenir en el desarrollo del mismo, sus opiniones carecen de valor legal y por lo tanto, los funcionarios no están obligados a acatarlas; las acciones que confundan al electorado o suplanten a la autoridad, serán constitutivas de delito y se sancionarán en los términos de la legislación aplicable.
+###### ARTÍCULO 194.
 
-###### Artículo 183.
+El Instituto promoverá el desarrollo social y cultural del personal del Instituto y de sus familiares. Anualmente deberá prever en el anteproyecto de presupuesto los recursos para tal fin.
 
-Se entiende por observador electoral al ciudadano mexicano, que acreditado por el Instituto, participe con ese carácter en los actos de preparación y desarrollo de los procesos electorales estatales.
+### CAPÍTULO SEXTO. DE LOS DERECHOS, OBLIGACIONES Y PROHIBICIONES DEL PERSONAL ADMINISTRATIVO DE LOS DERECHOS (SIC)
 
-###### Artículo 184.
+###### ARTÍCULO 195.
 
-Es derecho exclusivo de los ciudadanos mexicanos participar como observadores en actividades electorales de la entidad, de acuerdo con las siguientes bases:
+Son derechos del personal Administrativo del Instituto:
 
-I. Podrán participar sólo cuando hayan obtenido su registro ante el Instituto.
+I. Ser asignado en alguno de los Cargos de la estructura ocupacional del Instituto y adscrito a un área específica del mismo;
 
-II. Los ciudadanos que pretendan participar como observadores en los procesos electorales del estado, deberán señalar en el escrito de solicitud de registro lo siguiente:
+II. Recibir los apoyos y la autorización correspondiente para participar en los Programas de Capacitación, Formación y Desarrollo de personal;
 
-1. Los datos de identificación personal, anexando fotocopia de su credencial de elector con fotografía.
+III. Participar en los concursos y movimientos de Ascenso y Promoción de acuerdo con el presente Estatuto;
 
-2. Una fotografía reciente tamaño credencial, con el nombre del solicitante escrito al reverso.
+IV. Recibir cursos de capacitación que le permitan realizar de mejor manera las funciones que tiene encomendadas, mismos que serán diseñados y ejecutados anualmente por la Subdirección del Servicio, la que apoyará del (sic) Departamento, de conformidad con los programas y políticas generales del Instituto;
 
-3. Señalar el o los municipios o distritos en los que desean participar como observadores.
+V. Inconformarse o reclamar ante las autoridades correspondientes del Instituto, en contra de los actos que considere le causen algún agravio en su relación jurídica con el Instituto;
 
-4. La manifestación expresa de que si obtienen el registro, se conducirán conforme a los principios de imparcialidad, certeza, objetividad, legalidad y profesionalismo; así como no haber sido dirigente de partido político o haber ocupado un puesto de elección popular en los últimos tres años.
+VI. Ser restituido en el goce y ejercicio de sus derechos y prestaciones cuando, habiendo sido suspendido o separado, así lo establezca la resolución del recurso de inconformidad interpuesto;
 
-III. La solicitud de registro a que se refiere este artículo, deberá presentarse en forma personal o a través de la agrupación a que pertenezca directamente al Instituto, a más tardar veinte días antes de que se vaya a verificar la elección que se pretende observar. Dicha solicitud deberá resolverse a más tardar faltando diez días para que se celebre la elección de que se trate. Una vez resueltas sus acreditaciones se entregarán los registros correspondientes.
+VII. Recibir conforme a la normatividad aplicable, el pago de pasajes, viáticos, ayudas de campo y demás gastos complementarios o adicionales, cuando por necesidades del Instituto se requiera su desplazamiento para el desahogo de comisiones especiales a un lugar distinto al de la entidad federativa o de la ciudad de Puebla;
 
-###### Artículo 185.
+VIII. Recibir la prima vacacional y de antigüedad en los términos que establezca la normatividad aplicable;
 
-El Instituto en caso de que otorgue el registro correspondiente, deberá informar a los órganos electorales competentes y expedir los documentos pertinentes que otorgan el carácter de observador al solicitante.
+IX. Recibir una compensación derivada de las labores extraordinarias que realice con motivo de la carga laboral que representa el año electoral, previa evaluación y de acuerdo con las posibilidades presupuestales del Instituto;
 
-###### Artículo 186.
+X. Recibir indemnizaciones y demás prestaciones que le correspondan, derivadas de accidentes de trabajo;
 
-Los observadores electorales debidamente acreditados por el Instituto, el día de la jornada electoral, ante una mesa directiva de casilla tendrán derecho a observar los siguientes actos:
+XI. Gozar de las prestaciones laborales, de seguridad social y de las demás a que se refiere el presente ordenamiento; y
 
-I. Instalación de la casilla.
+XII. Los demás que establezca el Estatuto, la legislación aplicable y los que apruebe la Junta o el Consejo.
 
-II. Desarrollo de la votación.
+II (SIC). DE LAS OBLIGACIONES
 
-III. Escrutinio y cómputo de la votación en la casilla.
+###### ARTÍCULO 196.
 
-IV. Fijación de resultados de votación en el exterior de la casilla.
+Son obligaciones del personal Administrativo:
 
-V. Clausura de la casilla.
+I. Conducirse en todo tiempo con profesionalismo, legalidad, imparcialidad y objetividad en sus relaciones laborales y el desarrollo de sus actividades; cuidar que nadie utilice en beneficio propio o de terceros la información oficial que con motivo del ejercicio de sus funciones tengan en su poder, por lo que deberán actuar con estricta reserva en los asuntos que conozcan del Instituto a menos que exista autorización previa para actuar en el sentido opuesto;
 
-Por lo que respecta a la fracción II de este artículo, durante el período de duración del desarrollo de la votación, los observadores no podrán estar de manera permanente en el lugar.
+II. Desempeñar sus labores con honestidad, disciplina, probidad, cuidado y esmero, observando las instrucciones que reciban de sus superiores jerárquicos, y tutelando el cumplimiento de los principios rectores del Instituto;
 
-###### Artículo 187.
+III. Desempeñar sus funciones con apego a los criterios de eficacia, efectividad y eficiencia;
 
-Son obligaciones de los observadores electorales:
+IV. Participar y acreditar, en su caso, los cursos de capacitación, según lo determine el Instituto;
 
-I. Abstenerse de actos que estorben a las autoridades electorales en el ejercicio de sus funciones.
+V. Acreditar la Evaluación del desempeño que se les haga;
 
-II. No realizar actos de proselitismo ni manifestaciones a favor o en contra de cualquier partido o candidato.
+VI. Observar y hacer cumplir las disposiciones de orden legal, técnico y administrativo que emitan los órganos competentes del Instituto;
 
-III. No incurrir en la ofensa, difamación, calumnia o injuria, en contra de las instituciones, autoridades electorales, partidos políticos o candidatos.
+VII. No incurrir en actos u omisiones que pongan en peligro su seguridad, la del personal del Instituto o la de terceros que por cualquier motivo se encuentren en sus instalaciones, así como de los bienes al cuidado o propiedad del Organismo;
 
-IV. Portar en lugar visible sus acreditaciones o gafetes durante el desempeño como observador. La omisión a lo establecido en esta fracción impedirá al observador cumplir con su función hasta en tanto satisfaga este requisito.
+VIII. Proporcionar a las autoridades del Instituto los datos personales que, para efectos de su relación jurídica con el Organismo se soliciten, así como la documentación comprobatoria que corresponda, y comunicar oportunamente cualquier cambio sobre dicha información;
 
-V. Abstenerse de proclamar el triunfo o derrota de cualquier partido político o candidato.
+IX. Desarrollar sus actividades en el Cargo, lugar y área de adscripción que determinen las autoridades del Instituto;
 
-VI. Cumplir los ordenamientos legales vigentes.
+X. Asistir puntualmente a sus labores y respetar los horarios establecidos;
 
-###### Artículo 188.
+XI. Cumplir las comisiones de trabajo que por necesidades del Instituto se le encomienden, por oficio, en lugar y área distintos al de su adscripción, durante los periodos que determinen las autoridades del organismo;
 
-Los comités municipales capacitarán a los funcionarios de las mesas directivas de casilla, en cuanto a la presencia de los observadores electorales así como los derechos y obligaciones inherentes a su actuación.
+XII. Proporcionar, en su caso, la información y documentación necesarias al funcionario del Instituto que se designe para suplirlo en sus ausencias;
 
-###### Artículo 189.
+XIII. Conducirse con rectitud, probidad y respeto ante sus superiores jerárquicos, compañeros y subordinados, así como ante los representantes de los partidos políticos; y
 
-En caso de que cualquier observador o grupo de ellos, entorpezca el desarrollo de la jornada electoral, podrá el presidente de la casilla, utilizar los medios legales respectivos para retirarlos del lugar.
+XIV. Las demás que le imponga el Código, este Estatuto y otros ordenamientos aplicables.
 
-### CAPÍTULO SEXTO. LAS ENCUESTAS
+III. DE LAS PROHIBICIONES
 
-###### Artículo 190.
+###### ARTÍCULO 197.
 
-Las instituciones académicas, las organizaciones de profesionistas, los medios de comunicación y los ciudadanos en general, pueden realizar encuestas entre los ciudadanos para determinar su preferencia electoral.
+Son prohibiciones del personal Administrativo:
 
-###### Artículo 191.
+I. Intervenir en asuntos electorales que no sean competencia del Instituto, salvo en los casos en los que se tenga autorización para ello;
 
-Las encuestas sólo representarán la opinión de quien o quienes las realizan, careciendo de valor oficial. Quien ejecute estos trabajos no deberá interferir con las labores normales del proceso electoral.
+II. Emitir opinión pública o efectuar manifestaciones de cualquier naturaleza, en su carácter de funcionario electoral, a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes. Quedarán exceptuadas las declaraciones autorizadas que se formulen con motivo de debates sobre el Instituto, la ejecución de sus programas o el desempeño de sus funciones;
 
-El encuestador debe identificarse mediante un distintivo ante los ciudadanos que pretende entrevistar, expresando que su trabajo no es de carácter oficial y que, en todo caso, el responder a la pregunta que se hace es voluntario.
+III. Realizar actos que acrediten una conducta parcial a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes;
 
-La encuesta no deberá recogerse en documentos que reproduzcan los emblemas y colores de los partidos políticos, ni en papeletas que tengan similitud con las boletas electorales.
+IV. Incurrir en actos u omisiones que pongan en peligro su seguridad, la del personal del Instituto o la de terceros que por cualquier motivo se encuentren en sus instalaciones, así como de los bienes o propiedad del Instituto;
 
-###### Artículo 192.
+V. Llevar al cabo en las instalaciones del Instituto cualquier actividad lucrativa, para sí o para otros;
 
-No podrán practicarse encuestas públicas ni difundir sus resultados desde tres días antes de la jornada electoral y el día en que se realice dicha jornada, sin previa autorización del Instituto. El Consejo General para otorgar la autorización de levantar encuestas deberá estudiar la metodología que proponga el solicitante y fijar una fianza no inferior a la cantidad equivalente de veintiocho mil salarios mínimos vigentes en la capital del estado. En el caso de instituciones de educación superior con reconocimiento oficial en los términos de las disposiciones aplicables, la fianza a que se refiere este artículo, no será inferior a la cantidad equivalente de nueve mil trescientos salarios mínimos vigentes en la capital del estado.
+VI. Permanecer en las instalaciones del Instituto o introducirse a ellas, fuera de sus horas de actividades, salvo que exista causa justificada o autorización del superior jerárquico inmediato;
 
-La fianza garantizará que los resultados de la encuesta no se difundan antes de las veinte horas del día de la elección y el cumplimiento de la metodología aprobada para la realización de la encuesta. En caso de incumplimiento la fianza se hará efectiva a favor del patrimonio del Instituto, sin perjuicio de las demás sanciones aplicables a los infractores.
+VII. Ausentarse de su lugar de adscripción o abandonar sus actividades sin autorización expresa de su superior jerárquico inmediato;
 
-### CAPÍTULO SÉPTIMO. LA LIBERTAD Y SEGURIDAD JURÍDICA DE LAS ELECCIONES
+VIII. Dictar o ejecutar órdenes cuya realización u omisión violen las disposiciones legales aplicables en materia electoral;
 
-###### Artículo 193.
+IX. Marcar, firmar o alterar la tarjeta, lista o cualquier otro medio de control de asistencia, o solicitar a algún tercero que lo haga, con la finalidad de no reportar al Instituto sus inasistencias, o las de algún compañero o subordinado, al Departamento o lugar donde laboren;
 
-Los cuerpos de seguridad pública del estado y los municipios, deben prestar el auxilio que el Instituto, los Comités Distritales o Municipales y los presidentes de casilla soliciten para asegurar el orden y garantizar el proceso electoral.
+X. Entrometer a cualquier persona ajena en asuntos del Instituto;
 
-###### Artículo 194.
+XI. Desempeñar funciones distintas a las del Cargo que tiene asignado, sin autorización del superior jerárquico;
 
-No se permitirá la celebración de mítines, reuniones públicas, ni cualquier otro acto de propaganda política, el día de la elección y los tres que le precedan.
+XII. Incurrir en actos u omisiones que pongan en peligro su seguridad, la del personal del Instituto o la de terceros que por cualquier motivo se encuentren en sus instalaciones, así como de los bienes al cuidado o propiedad del organismo; y
 
-###### Artículo 195.
+XIII. Las demás que le prohíba el Código, este Estatuto y otros ordenamientos aplicables.
 
-La autoridad puede, el día de la elección, aprehender a un elector en el caso de flagrante delito, caso urgente, orden de aprehensión o por orden expresa del Presidente de casilla o en virtud de resolución dictada por autoridad judicial competente.
+### CAPÍTULO SÉPTIMO. DE LA MOVILIDAD
 
-###### Artículo 196.
+###### ARTÍCULO 198.
 
-El día de la elección sólo pueden portar armas los miembros uniformados de la fuerza pública encargados del orden, los que tendrán la obligación, a petición de funcionarios electorales o de cualquier ciudadano, de desarmar a quienes infrinjan esta disposición.
+Para los efectos de este ordenamiento, se entiende por movimiento del personal Administrativo todo cambio en el lugar de adscripción del trabajador.
 
-###### Artículo 197.
+###### ARTÍCULO 199.
 
-El día de la elección y el precedente, permanecerán cerrados los establecimientos que expendan bebidas embriagantes y estará prohibida la venta de las bebidas que contengan alcohol.
+En atención a las necesidades del Instituto, el personal Administrativo podrá ser readscrito a otra área del mismo, a un Cargo no exclusivo del Servicio, sin perjuicio de las remuneraciones y prestaciones que le corresponden.
 
-###### Artículo 198.
+## TÍTULO PRIMERO. DEL PERSONAL ADMINISTRATIVO Y DE LOS TRABAJADORES EVENTUALES
 
-Los tribunales y juzgados del estado permanecerán abiertos durante el día de la elección, igual obligación tienen las notarías públicas, las agencias del ministerio público y aquellas oficinas donde despachen los síndicos municipales.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 199.
+###### ARTÍCULO 200.
 
-Los notarios públicos en ejercicio, los jueces del Poder Judicial del Estado y los jueces municipales, los Agentes del Ministerio Público y los Síndicos, deberán atender la solicitud de los funcionarios de casilla, de los representantes de partidos políticos y los ciudadanos para dar fe de hechos o certificar documentos concernientes a la elección.
+En el supuesto señalado en el artículo anterior, cuando el trabajador desee su cambio de Adscripción, deberá presentar la solicitud correspondiente ante la Dirección de su adscripción, el cual la remitirá a la Dirección Administrativa, quien determinará sobre su procedencia.
 
-Para los efectos de esta ley, los notarios públicos realizarán su función gratuitamente y tendrán competencia en todo el estado, la dirección de notarias determinará su distribución en la entidad. El Instituto deberá publicar la lista correspondiente en los principales medios de difusión en el estado, a más tardar tres día (sic) antes del día de la elección.
+### CAPÍTULO OCTAVO. DE LA ANTIGÜEDAD
 
-Los notarios públicos deberán entregar acta circunstanciada a los órganos del Instituto competentes, sobre todos los hechos o actos que con motivo de este artículo realicen en un proceso electoral, a más tardar a las setenta y dos horas siguientes de verificado el hecho o acto de que se trate.
+### CAPÍTULO SEGUNDO. DEL CATÁLOGO
 
-## TÍTULO CUARTO. LOS ACTOS POSTERIORES A LA ELECCIÓN Y DE LOS RESULTADOS ELECTORALES
+###### ARTÍCULO 201.
 
-### CAPÍTULO PRIMERO. LA REMISIÓN DE LOS PAQUETES DE VOTACIÓN
+La antigüedad es el tiempo de servicio del personal Administrativo a la Institución a partir de la expedición del nombramiento.
 
-###### Artículo 200.
+### CAPÍTULO NOVENO. DEL ASCENSO Y PROMOCIÓN
 
-La entrega, depósito y salvaguarda de los paquetes de votación y las actas que correspondan, será conforme al procedimiento siguiente:
+###### ARTÍCULO 202.
 
-I. Se recibirán en el orden en que se presenten los funcionarios de las mesas directivas de casilla que lleven los paquetes, junto con los representantes de los partidos políticos que los hubieren acompañado.
+El Ascenso es el movimiento del personal Administrativo a un Cargo superior en la estructura ocupacional y estará basado en los resultados de las evaluaciones del desempeño desde la incorporación del personal al Instituto, conforme lo determine la Junta, previo acuerdo de la Comisión.
 
-II. El Comité Distrital, Municipal o Delegado Municipal, en su caso, extenderá el recibo correspondiente, señalando la hora en que fueron entregados.
+###### ARTÍCULO 203.
 
-III. El Presidente del Comité Distrital o Municipal, procederá de inmediato a su resguardo, en el caso de que un distrito comprenda más de un municipio, el Comité Municipal Electoral, una vez que haya recibido la totalidad de los paquetes de votación de la elección de diputados que le correspondan, los trasladará al Comité Distrital.
+La Promoción es el movimiento ascendente del personal Administrativo en una estructura presupuestal de Niveles respectivamente.
 
-IV. El Comité Municipal Electoral podrá disponer el traslado provisional de paquetes, cuando faltaren algunos de recibir y estos retrasaren más allá de los plazos permitidos, su entrega al Comité Distrital.
+Las promociones podrán otorgarse por acuerdo de la Junta y con el conocimiento de la Comisión al personal Administrativo atendiendo a la disponibilidad presupuestaria y conforme a los procedimientos administrativos aplicables.
 
-V. Los Comités Distritales y Municipales decidirán sobre aquellas medidas que faciliten el acceso de los funcionarios de las mesas directivas de casilla, que vayan a entregar paquetes de votación y el proceso de recepción de los mismos, buscando siempre la agilidad y seguridad del trámite.
+###### ARTÍCULO 204.
 
-VI. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar el resultado expresado en las actas que lo acompañan y, en su caso, las posibles irregularidades.
+El aprovechamiento del personal Administrativo será evaluado semestralmente, en los términos que disponga la Junta a propuesta de la Dirección Administrativa con el acuerdo de la Comisión.
 
-### CAPÍTULO SEGUNDO. LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
+## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-###### Artículo 201.
+### CAPÍTULO ÚNICO. DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DEL PROCESO DE INGRESO
 
-El Instituto y los demás organismos electorales deberán difundir los resultados preliminares de la jornada electoral que termina, haciendo del conocimiento de la ciudadanía que los mismos serán oficiales hasta el momento de realizarse el cómputo municipal, distrital o estatal, según sea el caso.
+### CAPÍTULO TERCERO. DEL INGRESO DEL PERSONAL ADMINISTRATIVO
 
-###### Artículo 202.
+###### ARTÍCULO 205.
 
-Con el fin de dar cumplimiento al artículo anterior, el Consejo General del Instituto, previa licitación, podrá concesionar el servicio de resultados preliminares a empresas especializadas.
+En cada Cargo Administrativo habrá cuatro niveles presupuestales, comprendiendo los siguientes:
 
-###### Artículo 203.
+I. Nivel 1;
 
-El Secretario Técnico de la casilla, tendrá entre sus funciones, la de recabar una copia del acta que contenga los resultados de casilla, la cual remitirá al centro de información de resultados preliminares.
+II. Nivel 2;
 
-###### Artículo 204.
+III. Nivel 3; y
 
-Los Comités Distritales y Municipales Electorales, al recibir el acta de la jornada electoral que acompaña al paquete de votación, difundirán a los representantes de los partidos políticos y a los ciudadanos que se encuentren presentes, el resultado de la casilla cuyo paquete se entrega.
+IV. Nivel 4.
 
-## TÍTULO QUINTO. LOS RESULTADOS ELECTORALES
+###### ARTÍCULO 206.
 
-### CAPÍTULO PRIMERO. EL CÓMPUTO MUNICIPAL PARA LA ELECCIÓN DE GOBERNADOR
+Para poder acceder a promociones en Cargos Administrativos, se deberá realizar un movimiento ascendente en Grados y basarse en la Evaluación del desempeño y en la antigüedad, de acuerdo a la metodología que para tal efecto establezca la Junta a propuesta de la Dirección Administrativa, atendiendo a lo siguiente: (sic)
 
-###### Artículo 205.
+###### ARTÍCULO 207.
 
-Los cómputos municipales para la elección de gobernador se iniciarán a las nueve horas del miércoles siguiente al día de la jornada electoral, conforme al siguiente procedimiento:
+El personal Administrativo que se encuentre en cualquier Grado tendrá derecho a concursar, en los términos que establezca la Dirección Administrativa, por la vacante del Cargo inmediato superior al que ocupa, siempre que cubra el perfil requerido, otorgándosele, en caso de ganar el concurso, el Cargo inmediato superior al que ostentaba en el momento del concurso.
 
-I. Los integrantes de los comités municipales electorales ordenarán en forma numérica los paquetes de votación, separando los que no fueren acompañados en el exterior por el acta de la jornada electoral.
+###### ARTÍCULO 208.
 
-II. En el acta correspondiente se anotarán los resultados de todas aquellas casillas cuya acta de la jornada electoral fue entregada por separado.
+El personal Administrativo de cualquier Nivel podrá participar en los procesos de Ingreso al Servicio, siempre y cuando cumpla con los requisitos establecidos en el artículo 40 del presente Estatuto.
 
-III. Los paquetes de votación que no vengan acompañados por el acta que contiene los resultados, serán abiertos únicamente para extraer la misma y contabilizar sus resultados.
+### CAPÍTULO DÉCIMO. DE LOS INCENTIVOS
 
-IV. En caso de que una vez abierto el paquete de votación no se encontrare el acta que contiene los resultados, se requerirá a los partidos políticos sus copias y se cotejarán entre sí; si hubiese divergencia entre ellas, se procederá a hacer el cómputo y escrutinio de las boletas contenidas en el paquete en cuestión, contabilizándose los resultados en el acta correspondiente.
+###### ARTÍCULO 209.
 
-V. Durante el desarrollo de los cómputos, éstos se realizarán en forma sucesiva e ininterrumpida hasta su conclusión.
+El personal Administrativo del Instituto será evaluado anualmente y los resultados de dicha Evaluación serán la base para los efectos administrativos correspondientes.
 
-VI. De ser necesario, los comités podrán acordar un receso, asegurando el material electoral y asentando el motivo del receso y su duración en el acta.
+### CAPÍTULO CUARTO. DEL NOMBRAMIENTO
 
-###### Artículo 206.
+###### ARTÍCULO 210.
 
-Terminado el cómputo municipal, los comités remitirán de inmediato al Instituto, para los efectos del cómputo estatal, la siguiente documentación:
+La Dirección Administrativa actualizará anualmente el sistema de Evaluación del desempeño del personal Administrativo y lo someterá a la consideración de la Junta para su aprobación. La Comisión, podrá en todo momento realizar observaciones y recomendaciones respecto del sistema de Evaluación y su diseño.
 
-I. Original o copia certificada del acta de cómputo municipal para la elección de gobernador.
+###### ARTÍCULO 211.
 
-II. Original o copia certificada del acta circunstanciada de la sesión en la que consten los resultados del cómputo.
+El sistema de Evaluación deberá funcionar sobre la base de merecimientos objetivos, por lo que deberán tomarse en consideración la antigüedad, la calidad del trabajo realizado, la eficiencia, eficacia, puntualidad, honradez, constancia, servicios relevantes y logros académicos alcanzados.
 
-###### Artículo 207.
+###### ARTÍCULO 212.
 
-Los Comités Municipales Electorales, remitirán por separado al Instituto, para los efectos del cómputo estatal y declaración de validez, los paquetes de votación y las actas de la elección de gobernador que se entregaron por separado.
+La Dirección Administrativa diseñará un sistema de estímulos y premios que someterá a la consideración de la Junta para su aprobación y ejecución correspondiente, previo acuerdo de la Comisión.
 
-El Secretario Técnico del Instituto, recibirá los paquetes de votación y dispondrá su resguardo hasta el inicio de los trabajos de cómputo estatal y declaración de validez de la elección de Gobernador Constitucional del Estado, extendiendo el recibo correspondiente.
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS TRABAJADORES EVENTUALES
 
-###### Artículo 208.
+### CAPÍTULO QUINTO. DE LA SEPARACIÓN DEL PERSONAL ADMINISTRATIVO
 
-La interposición de cualquiera de los medios de impugnación que señala la ley de la materia, no interrumpe el cómputo, y los resultados de éste se tendrán por válidos hasta en tanto la autoridad competente no resuelva lo contrario.
+###### ARTÍCULO 213.
 
-###### Artículo 209.
+Los funcionarios electorales que ocupen los Consejos Distritales y Consejo (sic) Municipales serán contratados, previa selección y designación según las bases de la convocatoria que para tal efecto emita el Consejo, por el tiempo y las condiciones que establece el Código.
 
-El partido político, la coalición o los candidatos que promuevan la violencia física o moral contra los miembros del Comité para impedir el cómputo municipal o destruya la documentación que sirva para éste, no podrá exigir la nulidad de la elección, ni del municipio ni de sus casillas.
+###### ARTÍCULO 214.
 
-### CAPÍTULO SEGUNDO. EL CÓMPUTO MUNICIPAL DE AYUNTAMIENTOS
+El Instituto podrá contratar trabajadores eventuales en los términos del Código, del presente Estatuto y de la legislación aplicable.
 
-###### Artículo 210.
+###### ARTÍCULO 215.
 
-Los Comités Municipales Electorales iniciarán el cómputo para la elección de Ayuntamientos a más tardar el miércoles siguiente al día de la jornada electoral. Cuando en el mismo proceso electoral hubiese concurrido la de gobernador, el cómputo para la elección de Ayuntamientos se iniciará concluido el que corresponda a la elección de Gobernador del Estado.
+Los contratos contendrán como mínimo:
 
-###### Artículo 211.
+I. Los datos generales del trabajador Eventual y del Instituto;
 
-El Comité Municipal Electoral observará, para realizar el cómputo municipal para la elección de Ayuntamiento, las siguientes reglas:
+II. El registro federal de contribuyentes del trabajador Eventual;
 
-I. Los integrantes de los comités municipales electorales ordenarán en forma numérica los paquetes de votación, separando los que no fueren acompañados en el exterior por el acta de la jornada electoral.
+III. El objeto y la descripción de las actividades a ejecutar;
 
-II. En el acta correspondiente se anotarán los resultados de todas aquellas casillas cuya acta de la jornada electoral fue entregada por separado.
+IV. El monto de las remuneraciones y formas de pago;
 
-III. Los paquetes de votación que no vengan acompañados por el acta que contiene los resultados, serán abiertos únicamente para extraer la misma y contabilizar sus resultados.
+V. El lugar en que prestará sus servicios;
 
-IV. En caso de que una vez abierto el paquete de votación no se encontrare el acta que contiene los resultados, se requerirá a los partidos políticos sus copias y se cotejarán entre sí; si hubiese divergencia entre ellas, se procederá a hacer el cómputo y escrutinio de las boletas contenidas en el paquete en cuestión, contabilizándose los resultados en el acta correspondiente.
+VI. El horario de labores;
 
-V. Durante el desarrollo de los cómputos, éstos se realizarán en forma sucesiva e ininterrumpida hasta su conclusión.
+VII. La vigencia del contrato; y
 
-VI. De ser necesario, los comités podrán acordar un receso, asegurando el material electoral y asentando el motivo del receso y su duración en el acta.
+VIII. Los demás elementos de validez que determine la Dirección Administrativa.
 
-VII. Una vez realizado el cómputo municipal para la elección de miembros de los Ayuntamientos y emitida la declaración de validez de la elección, se procederá a la asignación de regidores de representación proporcional y, en su caso, de la segunda sindicatura en los términos de lo dispuesto por esta ley.
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS, LAS OBLIGACIONES Y LAS PROHIBICIONES DE LOS TRABAJADORES EVENTUALES
 
-VIII. Se hará constar en acta circunstanciada de la sesión, los resultados del cómputo, los incidentes que ocurrieren durante la misma, la declaración de validez de la elección y de elegibilidad de los candidatos correspondientes a la planilla que hubiese obtenido la mayoría de los votos, así como la asignación de regidores de representación proporcional.
+### CAPÍTULO SEXTO. DE LOS DERECHOS, OBLIGACIONES Y PROHIBICIONES DEL PERSONAL ADMINISTRATIVO
 
-###### Artículo 212.
+I. DE LOS DERECHOS
 
-Concluido el cómputo y emitida la declaración de validez para la elección de los miembros de los Ayuntamientos, el comité municipal electoral expedirá la constancia de mayoría y validez a quien hubiese obtenido el triunfo.
+II. DE LAS OBLIGACIONES
 
-Los Presidentes de los Comités Municipales Electorales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos municipales.
+III. DE LAS PROHIBICIONES
 
-Los Presidentes de los Comités Municipales Electorales, una vez integrados los expedientes procederán a:
+###### ARTÍCULO 216.
 
-I. Remitir al Tribunal Electoral, cuando se hubiese interpuesto el medio de impugnación correspondiente el informe respectivo; así como copia certificada del expediente del cómputo municipal y, en su caso, la declaración de validez de la elección de Ayuntamiento y demás documentación que exija la ley de la materia.
+Los trabajadores eventuales recibirán los cursos de capacitación necesarios para el buen desarrollo del proceso electoral. En la impartición de dichos cursos intervendrán las Direcciones en el área de su competencia, con el apoyo de la Subdirección del Servicio.
 
-II. Remitir, una vez cumplido el plazo para la interposición del medio de impugnación, al Secretario Técnico del Instituto, copia certificada de la constancia de mayoría y validez de los candidatos a los Ayuntamientos que la hubiesen obtenido; y en su caso, un informe de los medios de impugnación que se hubiesen interpuesto.
+###### ARTÍCULO 217.
 
-III. Los Presidentes de los Comités Municipales Electorales tomarán las medidas necesarias para depositar los paquetes de votación y demás documentación electoral, en el lugar señalado para tal efecto por el Instituto, quien deberá resguardarlo hasta la conclusión del proceso electoral. Una vez que concluya el proceso electoral se procederá a su destrucción.
+El Instituto deberá otorgar a los trabajadores eventuales beneficios de protección y seguridad social, de conformidad con las disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. EL CÓMPUTO DISTRITAL PARA LA ELECCIÓN DE DIPUTADOS
+### CAPÍTULO SÉPTIMO. DE LA MOVILIDAD
 
-###### Artículo 213.
+###### ARTÍCULO 218.
 
-Los Comités Distritales Electorales iniciarán la sesión de cómputo distrital para la elección de diputados, a las nueve horas del miércoles siguiente al día de la jornada electoral.
+Serán obligaciones de los trabajadores Eventuales las mismas que para el personal Administrativo, excepto la relativa a acreditar la evaluación del desempeño y las establecidas en el contrato respectivo.
 
-###### Artículo 214.
+### CAPÍTULO OCTAVO. DE LA ANTIGÜEDAD
 
-El Comité Distrital Electoral observará, para realizar el cómputo distrital para la elección de diputados de mayoría, las siguientes reglas:
+###### ARTÍCULO 219.
 
-I. Los integrantes de los comités distritales electorales ordenarán en forma numérica los paquetes de votación, separando los que no fueren acompañados en el exterior por el acta de la jornada electoral.
+Serán prohibiciones de los trabajadores eventuales las mismas de los trabajadores administrativos y las demás que señale el Código, este Estatuto y otras leyes y disposiciones administrativas aplicables.
 
-II. En el acta correspondiente se anotarán los resultados de todas aquellas casillas cuya acta de la jornada electoral fue entregada por separado.
+###### ARTÍCULO 220.
 
-III. Los paquetes de votación que no vengan acompañados por el acta que contiene los resultados, serán abiertos únicamente para extraer la misma y contabilizar sus resultados.
+La relación laboral con los trabajadores Eventuales del Instituto concluirá por:
 
-IV. En caso de que una vez abierto el paquete de votación no se encontrare el acta que contiene los resultados, se requerirá a los partidos políticos sus copias y se cotejarán entre sí; si hubiese divergencia entre ellas; se procederá a hacer el cómputo y escrutinio de las boletas contenidas en el paquete en cuestión, contabilizándose los resultados en el acta correspondiente.
+I. Vencimiento de la vigencia o cumplimiento del contrato respectivo;
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2002)</small>
+II. Terminación anticipada del contrato por consentimiento mutuo de las partes;
 
-V. Durante el desarrollo de los cómputos, éstos se harán en forma sucesiva e ininterrumpida hasta su conclusión.
+III. Fallecimiento del trabajador; y
 
-VI. De ser necesario, los comités podrán acordar un receso, asegurando el material electoral y asentando en el acta el motivo del receso y su duración.
+IV. Rescisión por incumplimiento de cualquiera de las obligaciones consignadas en el contrato, previa notificación que al efecto se haga con cinco días de anticipación, por parte del Instituto.
 
-VII. Se hará constar en acta circunstanciada de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma, declaración de validez de la elección y de elegibilidad de los candidatos correspondientes a la fórmula que hubiese obtenido la mayoría de los votos.
+## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-###### Artículo 215.
+### CAPÍTULO ÚNICO. DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO
 
-Concluido el cómputo y emitida la declaración de validez para la elección de diputados, el comité distrital electoral expedirá la constancia de mayoría y validez a los candidatos que participaron en la fórmula que obtuvo el triunfo.
+### CAPÍTULO NOVENO. DEL ASCENSO Y LA PROMOCIÓN
 
-Los Presidentes de los Comités Distritales Electorales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales.
+###### ARTÍCULO 221.
 
-Los Presidentes de los Comités Distritales Electorales, una vez integrados los expedientes procederán a:
+El personal Administrativo que incurra en infracciones e incumplimientos a las disposiciones del presente Estatuto y a las señaladas por los Acuerdos y disposiciones normativas que emitan las autoridades competentes del Instituto se sujetarán a lo establecido en el Título Octavo del Libro Primero de este ordenamiento.
 
-I. Remitir al Tribunal Electoral, cuando se hubiese interpuesto el medio de impugnación correspondiente, el informe respectivo, así como copia certificada del expediente del cómputo distrital y, en su caso, la declaración de validez de la elección de diputados y demás documentación que exija la ley de la materia.
+## TÍTULO TERCERO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
-II. Remitir, una vez cumplido el plazo para la interposición del medio de impugnación, al Secretario Técnico del Instituto, copia certificada de la constancia de mayoría y validez de los candidatos a diputado que la hubiesen obtenido; y en su caso, un informe de los medios de impugnación que se hubiesen interpuesto.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-III. Remitir al Secretario Técnico del Instituto el expediente del cómputo distrital que contiene copias y demás documentos certificados de la elección de diputados, para los efectos de la asignación de diputados por el principio de representación proporcional.
+###### ARTÍCULO 222.
 
-IV. Los Presidentes de los Comités Distritales Electorales tomarán las medidas necesarias para depositar los paquetes de votación y demás documentación electoral, en el lugar señalado para tal efecto por el Instituto, quien deberá resguardarlo hasta la conclusión del proceso electoral. Una vez que concluya el proceso electoral se procederá a su destrucción.
+El personal del Instituto será considerado de confianza y será incorporado al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla.
 
-### CAPÍTULO CUARTO. EL CÓMPUTO ESTATAL DE LAS ELECCIONES DE GOBERNADOR Y DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
+Los conflictos de carácter laboral entre el Instituto y su personal, no subsanables mediante el Procedimiento Administrativo que contempla el presente Estatuto, serán resueltos por la autoridad laboral competente.
 
-###### Artículo 216.
+### CAPÍTULO SEGUNDO. DE LAS REMUNERACIONES
 
-El sábado siguiente al día de la elección de Gobernador, el Instituto se reunirá a las nueve horas para realizar el cómputo estatal y declarar la validez de la elección de Gobernador del Estado, atendiendo a lo siguiente:
+###### ARTÍCULO 223.
 
-I. El Secretario Técnico dará cuenta con los documentos que se refieren a continuación, informando si con los mismos se puede realizar el cómputo:
+El Instituto tendrá dos tabuladores de remuneraciones:
 
-1. Originales o copias certificadas de las actas de cómputo municipal para la elección de gobernador de cada uno de los comités municipales.
+I. Tabulador del personal del Servicio; y
 
-2. Originales o copias certificadas de las actas circunstanciadas de las sesiones de los comités municipales en las que consten los resultados del cómputo.
+II. Tabulador del personal Administrativo y Eventual.
 
-II. El Secretario Técnico dará lectura a la parte conducente de cada uno de los cómputos municipales en donde se consignen los resultados. Los consejeros ciudadanos tomarán nota de los resultados y sumándolos darán a conocer el resultado estatal.
+## TÍTULO TERCERO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
-III. Se harán constar, en acta circunstanciada de la sesión, los resultados del cómputo estatal, los incidentes que ocurrieren durante la misma, la declaración de validez de la elección y el candidato que hubiese obtenido la mayoría de los votos.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-IV. Concluido el cómputo y emitida la declaración de validez para la elección de gobernador, el Instituto expedirá la constancia de mayoría y validez a quien hubiese obtenido el triunfo.
+### CAPÍTULO SEGUNDO. DE LAS REMUNERACIONES
 
-V. El Presidente del Instituto una vez integrado el expediente, procederá a remitir al Tribunal Electoral, cuando se hubiese interpuesto el medio de impugnación correspondiente, el informe respectivo, así como copia certificada del expediente del cómputo estatal y, en su caso, la declaración de validez de la elección de gobernador y demás documentación que señale la ley de la materia.
+### CAPÍTULO TERCERO. DE LA JORNADA DE TRABAJO, DÍAS DE DESCANSO Y VACACIONES
 
-VI. El Presidente del Instituto tomará las medidas necesarias para depositar la documentación electoral en el lugar señalado para tal efecto por el mismo organismo, el cual deberá resguardarlo hasta la conclusión del proceso electoral. Una vez concluido éste, se procederá a la destrucción de la documentación citada.
+### CAPÍTULO CUARTO. DE LAS LICENCIAS Y PERMISOS
 
-###### Artículo 217.
+### CAPÍTULO QUINTO. DE LA SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO
 
-El domingo siguiente al de la jornada electoral, el Instituto se reunirá a las nueve horas para realizar el cómputo estatal que permita realizar la asignación de diputados de representación proporcional conforme al siguiente procedimiento:
+### CAPÍTULO SEXTO. DE LOS RIESGOS PROFESIONALES
 
-I. El Secretario Técnico dará cuenta con los cómputos distritales de la elección de diputados de mayoría e informará al Consejo General si con los mismos se puede realizar el cómputo estatal.
+### CAPÍTULO SÉPTIMO. DE LAS PRESTACIONES
 
-II. El Secretario Técnico dará lectura a la parte conducente de las actas de cómputo distrital en donde se consignen los resultados. Los consejeros ciudadanos tomarán nota de los mismos, los ordenarán y los darán a conocer al Instituto.
+## TRANSITORIOS
 
-III. El Consejo General procederá a realizar la distribución de curules conforme a las fórmulas de asignación contenidas en esta ley.
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO
 
-IV. De esta sesión se levantará acta circunstanciada, firmando la misma quienes participaron en ella, el Instituto entregará constancia de asignación a los candidatos a quienes les corresponda.
+###### ARTÍCULO 224.
 
-### CAPÍTULO QUINTO. LA CALIFICACIÓN DE LA ELECCIÓN DE DIPUTADOS
+Los tabuladores y las remuneraciones aplicables al personal del Instituto serán propuestos por el Director General al Consejero Presidente, a efecto de que sean considerados en el anteproyecto de presupuesto que apruebe el Consejo anualmente.
 
-###### Artículo 218.
+###### ARTÍCULO 225.
 
-Una vez hecho el cómputo de la elección de diputados, el Comité Distrital Electoral procederá a calificar la elección, declarando, en su caso, la validez de la misma y entregando la constancia de mayoría al candidato o fórmula de candidatos que haya obtenido el mayor número de votos.
+La remuneración es la retribución económica que se paga al personal del Instituto por los servicios prestados, y cuyo monto será fijado de acuerdo con lo que establecen los tabuladores autorizados por la Junta.
 
-### CAPÍTULO SEXTO. LA CALIFICACIÓN DE LAS ELECCIONES DE GOBERNADOR Y AYUNTAMIENTOS
+###### ARTÍCULO 226.
 
-###### Artículo 219.
+Las remuneraciones se regirán por las siguientes disposiciones:
 
-El Instituto, una vez hecho el cómputo de la elección de Gobernador del Estado procederá a calificarla, declarando, en su caso, su validez y emitiendo la constancia de mayoría a favor de quien haya obtenido el triunfo.
+I. La Dirección Administrativa, es la responsable de emitir las nóminas del Instituto y efectuar el pago de remuneraciones al personal del Instituto de acuerdo a los tabuladores emitidos por la Dirección General, en los términos que se establezcan en el Manual de Políticas, Normas y Procedimientos para la Administración de los Recursos Financieros, Humanos y Materiales del Organismo;
 
-###### Artículo 220.
+II. Las formas de pago podrán ser:
 
-Hecho el cómputo de la elección de Ayuntamientos, el Comité Municipal Electoral procederá a calificar la elección del Ayuntamiento de que se trate, declarando, en su caso, la validez de la misma y expidiendo la constancia de mayoría a favor de la planilla que haya resultado triunfadora.
+a) Pago en cheque que se efectuará en las instalaciones del Instituto durante la jornada de trabajo y en los días hábiles de cada quincena, conforme al calendario de pagos que al efecto haya autorizado la Dirección Administrativa; y
 
-### CAPÍTULO SÉPTIMO. LA DECLARACIÓN DE VALIDEZ Y PUBLICACIÓN DE RESULTADOS DE LAS ELECCIONES
+b) Nómina electrónica a través de tarjeta de débito.
 
-###### Artículo 221.
+III. El personal del Instituto tendrá derecho a que se le cubran las remuneraciones que efectivamente hubiera devengado;
 
-Para efectos de la declaración de validez de las elecciones, los acuerdos y decisiones de los organismos electorales se tomarán por mayoría de votos, debiendo entenderse por tal, la formada por la mitad más uno de los consejeros electorales presentes con derecho a voto.
+IV. El pago de prestaciones adicionales se llevará al cabo conforme a las disposiciones que para tal efecto determine la Junta, con base en el presupuesto anual aprobado;
 
-###### Artículo 222.
+V. No serán autorizadas erogaciones por conceptos que no estén debidamente aprobados en el Capítulo correspondiente a Servicios Personales contenidos en el Manual de Políticas, Normas y Procedimientos para la Administración de los Recursos Financieros, Humanos y Materiales del Organismo; los casos especiales serán sometidos a la aprobación de la Junta; y
 
-En ningún caso, los organismos electorales dejarán de resolver sobre la validez de las elecciones de gobernador, diputados y Ayuntamientos, antes de la fecha en que deban tomar posesión de sus cargos.
+VI. El personal del Instituto tendrá derecho a un aguinaldo que estará comprendido en el presupuesto de egresos y que será equivalente a la retribución de cuarenta días de trabajo, cuando menos, sin deducción alguna. La Dirección Administrativa dictará los lineamientos necesarios para fijar las proporciones y el procedimiento de pago en aquellos casos en que el trabajador hubiere prestado sus servicios menos de un año.
 
-Los Diputados del Congreso del Estado y los miembros de los Ayuntamientos electos tomarán posesión de sus cargos, el día primero de enero posterior al de la elección. El Gobernador del Estado tomará posesión el día primero de diciembre posterior a la elección.
+###### ARTÍCULO 227.
 
-El Instituto remitirá al Congreso del Estado, para su conocimiento, copias certificadas de los documentos en los que se haga constar la declaración de validez de las elecciones de gobernador, diputados y Ayuntamientos.
+Sólo podrán hacerse descuentos o deducciones a las remuneraciones del personal del Instituto en los siguientes casos:
 
-###### Artículo 223.
+I. Por deudas con el Instituto;
 
-La resolución que en cada caso dicten los organismos electorales, será remitida al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno del Estado. En el caso de los resultados de la elección de gobernador, también se darán a conocer en bando solemne por el Congreso del Estado.
+II. Por concepto de pagos realizados por error debidamente comprobados;
 
-## TÍTULO SEXTO. EL PROCEDIMIENTO PARA LA RESOLUCIÓN DE QUEJAS
+III. Por concepto de aportaciones a algún fondo de ahorro oficial, siempre que el trabajador hubiese manifestado previamente, de manera expresa, su conformidad;
 
-###### Artículo 224.
+IV. Por descuentos ordenados por el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla, con motivo de las obligaciones del personal del Instituto;
 
-Las quejas que cualquier persona física o moral presente sobre algún hecho u omisión que a su juicio, afecte directamente el desarrollo del proceso electoral, serán recibidas por el Instituto y turnadas a una Comisión integrada por tres de sus miembros, la cual deberá rendir su dictamen a la consideración del Instituto dentro de los diez días siguientes al que le fue turnada, salvo que por la importancia del caso se acuerde otro término.
+V. Por pago de abono para cubrir préstamos provenientes del fondo de la vivienda destinados a la adquisición, construcción, reparación o mejoras de casa-habitación o pago del pasivo adquiridos por estos conceptos u otro tipo de descuentos. Estos descuentos deberán ser aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario;
 
-###### Artículo 225.
+VI. Por descuentos ordenados por la autoridad judicial competente para cubrir alimentos que fueran exigidos al personal del Instituto; y
 
-Para que las quejas a que se refiere el artículo anterior, se consideren procedentes deberán presentarse por escrito y contener cuando menos el nombre y domicilio del promovente, los datos que acrediten su personalidad, mencionar de manera expresa y clara los hechos en que se basa la queja y aportar las pruebas conducentes.
+VII. Por descuentos derivados de sanciones administrativas o de faltas de asistencia o cúmulo de retardos establecido (sic).
 
-###### Artículo 226.
+###### ARTÍCULO 228.
 
-Cuando la queja no se presente por escrito o no cumpla con cualquiera de los requisitos previstos en el artículo anterior, se desechará de plano.
+La suma de los descuentos efectuados, sin considerar impuestos y otras retenciones de instituciones públicas de seguridad social, no deberá rebasar el treinta por ciento de las percepciones mensuales del personal del Instituto, con excepción del descuento previsto en las fracciones III, VI y VII del artículo anterior.
 
-###### Artículo 227.
+## TÍTULO PRIMERO. DEL SERVICIO
 
-Las quejas que se presenten serán improcedentes:
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-I. Cuando se refieran a actos u omisiones que no afecten el interés legítimo del promovente.
+### CAPÍTULO DÉCIMO. DE LOS INCENTIVOS
 
-II. Cuando se hayan consumado de manera irreparable.
+###### ARTÍCULO 229.
 
-III. Cuando se hubiesen consentido expresamente.
+El pago se hará directamente al personal del Instituto. Sólo en los casos en que esté imposibilitado para efectuar personalmente el cobro, el pago se hará a la persona que éste designe como apoderado, mediante car (sic) dos testigos, indicando en el formato que proporcione al Instituto el motivo de la imposibilidad acompañando copia de la credencial de elector a su solicitud. El Instituto queda liberado de cualquier responsabilidad derivada del pago al apoderado, si el trabajador no le comunica en forma expresa la revocación del poder otorgado.
 
-IV. Cuando no se hubiese interpuesto dentro de los cinco días siguientes a que se tuvo conocimiento.
+### CAPÍTULO TERCERO. DE LA JORNADA DE TRABAJO, DÍAS DE DESCANSO Y VACACIONES
 
-V. Cuando el promovente carezca de legitimación.
+###### ARTÍCULO 230.
 
-###### Artículo 228.
+El personal del Instituto desarrollará la jornada de trabajo de conformidad con las disposiciones que se establecen en el presente Estatuto y la Ley Federal del Trabajo considerando siempre la excepción que, por la naturaleza del servicio, se presenta durante el proceso electoral en que todos los días y horas son hábiles, para lo cual se estará a las modificaciones de horario de labores que disponga el Consejo General, de acuerdo con el artículo 288 del presente ordenamiento.
 
-El dictamen que rinda la comisión encargada del estudio de alguna queja deberá contener cuando menos lo siguiente:
+###### ARTÍCULO 231.
 
-I. Fecha, lugar y firma de sus integrantes.
+Para efectos del presente ordenamiento las jornadas se clasifican en continua, discontinua y especial.
 
-II. Los antecedentes del caso.
+I. Serán jornadas continuas:
 
-III. El análisis del mismo.
+a) La que se desarrolle durante siete horas sin interrupción; y
 
-IV. Los fundamentos jurídicos.
+b) La que se desarrolle durante siete horas y media, con interrupción de hasta treinta minutos.
 
-V. Los puntos resolutivos.
+II. Serán jornadas discontinuas las que se desarrollen durante ocho horas y se interrumpan por una o dos horas; y
 
-## TÍTULO SÉPTIMO. LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+III. Serán jornadas especiales las que se desarrollen por menos de siete horas.
 
-### CAPÍTULO ÚNICO. LA IMPOSICIÓN DE SANCIONES POR LA COMISIÓN DE INFRACCIONES ELECTORALES
+###### ARTÍCULO 232.
 
-###### Artículo 229.
+El personal del Instituto disfrutará de dos días de descanso por cada cinco días de labores. Por cada seis meses de servicio consecutivo el personal Administrativo gozará de diez días hábiles de vacaciones, conforme al programa de vacaciones. Durante los procesos electorales se pospondrá el disfrute de vacaciones, descansos y permisos, restaurándose el goce de esos derechos una vez terminado dicho proceso.
 
-El Instituto, los Comités Distritales y Municipales Electorales, en los ámbitos de sus competencias, conocerán y resolverán de las infracciones a las disposiciones de esta ley por su incumplimiento y aplicarán las sanciones que correspondan en los términos establecidos por la misma.
+###### ARTÍCULO 233.
 
-###### Artículo 230.
+El personal del Instituto que tenga derecho al disfrute de vacaciones, de conformidad con lo previsto en el artículo anterior, recibirá una prima vacacional conforme a la disposición presupuestal vigente.
 
-Las autoridades electorales no podrán imponer sanciones al presunto infractor, sin haberlo citado para que responda a los cargos y proporcione las pruebas tendientes a justificar su defensa.
+###### ARTÍCULO 234.
 
-###### Artículo 231.
+El Consejo General fijará los horarios de labores tomando en cuenta las necesidades y la naturaleza del Servicio.
 
-Sin perjuicio de las medidas disciplinarias adoptadas por el Presidente de la Mesa Directiva de casilla, los Comités Distritales o Municipales, en su caso, conocerán de las infracciones que cometan los ciudadanos acreditados como observadores electorales.
+El Consejo General mediante acuerdo que someta a su consideración el Director General podrá determinar el cambio de horario o de adscripción de su personal por necesidades del Servicio y tomando en cuenta su naturaleza.
 
-La sanción consistirá en la cancelación inmediata de su acreditación como observadores electorales, la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales y multa de cincuenta a doscientos días de salario mínimo vigente en la capital del estado, en los casos que lo ameriten se dará vista a las autoridades competentes de los hechos que puedan configurar ilícitos penales. Los comités informarán al Instituto sobre las medidas adoptadas y acompañarán copia de su resolución.
+###### ARTÍCULO 235.
 
-###### Artículo 232.
+La Dirección Administrativa establecerá un sistema de control y registro del personal del Instituto. El personal del Instituto debe registrar diariamente sus horas de entrada y salida.
 
-El Instituto conocerá de las infracciones y violaciones que a las disposiciones de esta ley cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo.
+###### ARTÍCULO 236.
 
-###### Artículo 233.
+El personal Administrativo que realice estudios tendientes a mejorar su preparación, ya sea educación medio superior, superior o de postgrado, podrá pedir al responsable de la Dirección o Unidad de su adscripción, que solicite a la Dirección Administrativa una jornada especial, quien se sujetará a las disposiciones que al efecto determine esta última.
 
-El Instituto conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que la presente ley les impone.
+Al personal que se le autoricen dichas facilidades deberá presentar constancia de inscripción en escuelas oficiales o con reconocimiento oficial; asimismo deberá reincorporarse a su horario normal durante el periodo de vacaciones escolares.
 
-La sanción consistirá en multa entre cien y mil días de salario mínimo general vigente en la capital del estado y además el Instituto enviará copia de la resolución a la dirección de notarias para que se anexe al expediente del notario infractor. En caso de reincidencia se triplicará la sanción.
+###### ARTÍCULO 237.
 
-###### Artículo 234.
+Se consideran como faltas injustificadas de asistencia al trabajo:
 
-El Instituto, al conocer de infracciones en que incurran los extranjeros que por cualquier forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato a la Secretaría de Gobernación, para los efectos previstos por la ley.
+I. No asistir sin causa justificada;
 
-En el caso de que los mismos se encuentren fuera del territorio nacional, procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que hubiere lugar.
+II. Registrar su asistencia después de treinta minutos, en cuyo caso no se permitirá al personal del Instituto permanecer en su área de trabajo;
 
-###### Artículo 235.
+III. Abandonar las labores antes de la hora de salida reglamentaria, sin autorización de sus superiores;
 
-El Instituto informará a la Secretaría de Gobernación de los casos en los que ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión o secta:
+IV. Omitir registrar su entrada; y
 
-I. Induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley.
+V. No registrar su salida, o realizar dicho registro antes de la hora correspondiente sin la autorización del superior jerárquico inmediato.
 
-II. Realicen aportaciones económicas a un partido político, coalición o candidatos.
+###### ARTÍCULO 238.
 
-###### Artículo 236.
+El personal del Instituto que tenga hijos o ejerza la patria potestad sobre menores de seis meses de edad, se le otorgará permiso para ausentarse de sus labores previa presentación del original de la constancia de cuidados maternos, expedida por la institución de seguridad social correspondiente.
 
-Los partidos políticos independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados por el incumplimiento de esta ley:
+###### ARTÍCULO 239.
 
-I. Con multa de 50 a 5 mil días de salario mínimo general vigente para la capital del estado.
+El personal del Instituto que por enfermedad o algún motivo justificado no pueda concurrir a sus labores está obligado a informar esta situación a su jefe inmediato superior, durante el transcurso del horario laboral del primer día de su inasistencia, salvo que exista alguna causa que lo impida, acreditando tal situación por escrito una vez reincorporado a sus labores.
 
-II. Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución.
+###### ARTÍCULO 240.
 
-III. Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el período que señale la resolución.
+Son días de descanso obligatorio excepto durante proceso electoral: 1 de enero; 5 de febrero; 21 de marzo; 1 de mayo; 5 de mayo; 16 de septiembre; 20 de noviembre; 1 de diciembre de cada seis años, con motivo de la transmisión del Poder Ejecutivo Federal; 25 de diciembre y los que establezca la Junta Ejecutiva.
 
-IV. Con la suspensión de su registro como partido político.
+### CAPÍTULO CUARTO. DE LAS LICENCIAS Y PERMISOS
 
-V. Con la cancelación de su registro como partido político.
+###### ARTÍCULO 241.
 
-###### Artículo 237.
+El personal Administrativo del Instituto podrá disfrutar de licencias con goce de sueldo y sin goce de sueldo.
 
-Las sanciones a que se refiere el artículo anterior, podrán ser impuestas cuando:
+## TÍTULO SEGUNDO. DE LOS PROCESOS SUSTANTIVOS DEL SERVICIO
 
-I. Incumplan las obligaciones señaladas en esta ley.
+### CAPÍTULO ÚNICO. DENOMINACIÓN DE LOS PROCESOS SUSTANTIVOS
 
-II. Incumplan las resoluciones o acuerdos del Instituto.
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS TRABAJADORES EVENTUALES
 
-III. Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades.
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS, LAS OBLIGACIONES Y LAS PROHIBICIONES DE LOS TRABAJADORES EVENTUALES
 
-IV. Acepten donativos o aportaciones económicas superiores a los límites señalados en la presente ley.
+###### ARTÍCULO 242.
 
-V. No presenten los informes de gastos ordinarios o de precampaña y campaña electoral en los términos y plazos previstos en las disposiciones aplicables.
+Las solicitudes de licencia del personal Administrativo se tramitarán conforme a los siguientes lineamientos:
 
-VI. Sobrepasen durante la precampaña o campaña electoral los topes a los gastos fijados en las disposiciones aplicables.
+I. Deberá presentarse ante el superior jerárquico o jefe de la unidad responsable cuando menos con cinco días de anticipación al día en que inicia el periodo de la licencia; y
 
-VII. Incurran en cualquier otra falta o violación de las normas previstas en esta ley y demás disposiciones aplicables.
+II. El superior jerárquico inmediato podrá autorizar la licencia solicitada, la cual se resolverá en un máximo de tres días contados a partir de la fecha de su presentación, notificando de su resolución al interesado, informando de tal situación a la Dirección Administrativa de la licencia concedida. Dicha licencia surtirá efectos a partir de la notificación.
 
-###### Artículo 238.
+###### ARTÍCULO 243.
 
-Para los efectos del artículo anterior, el Instituto conocerá de las irregularidades en que haya incurrido un partido político, coalición o candidatos.
+Las licencias sin goce de sueldo se otorgarán por razones de carácter particular del personal, siempre y cuando el solicitante tenga más de un año de servicio.
 
-Una vez que tenga conocimiento de la irregularidad, el Consejo General designará una comisión instructora la cual emplazará al presunto infractor, para que en el plazo de diez días hábiles conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes, las que en su caso serán a su cargo.
+###### ARTÍCULO 244.
 
-Concluido el plazo a que se refiere el segundo párrafo de este artículo, se abrirá una fase probatoria hasta de veinte días hábiles y concluida se formulará el dictamen correspondiente, el cual se presentará por la comisión instructora al Instituto, para discusión y, en su caso, aprobación.
+La Junta podrá autorizar licencias sin goce de sueldo a miembros titulares del Servicio para realizar actividades de interés particular, previo análisis y justificación de la solicitud.
 
-El Instituto, para fijar la sanción correspondiente, tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa.
+Las autorizaciones de licencias se harán del conocimiento de la Comisión.
 
-Las resoluciones del Instituto, podrán ser recurridas ante las autoridades correspondientes.
+###### ARTÍCULO 245.
 
-Las multas que imponga el Instituto deberán ser pagadas ante la Dirección General del Instituto en un plazo improrrogable de quince días contados a partir de la notificación. Transcurrido el plazo sin que el pago se hubiere efectuado, el Instituto podrá deducir el monto de la multa de las ministraciones del financiamiento público que correspondan.
+Se concederá licencia con goce de sueldo al personal del Instituto que sufra enfermedades no profesionales en los términos de la Ley de los Trabajadores al Servicio Estado.
 
-###### Artículo 239.
+###### ARTÍCULO 246.
 
-Las infracciones en que incurran quienes practiquen encuestas públicas, por no ajustarse a la metodología aprobada por el Instituto o por difundir sus resultados dentro de los plazos prohibidos por la ley, se aplicarán por el Instituto atendiendo a la gravedad de la infracción, la cual nunca será inferior a trescientos mil pesos y se ejecutará haciendo efectiva la fianza que se hubiere otorgado al efecto.
+Las licencias con goce de sueldo para el personal del Instituto se sujetarán a las siguientes disposiciones:
 
-###### Artículo 240.
+I. El titular de cada Dirección o Unidad Técnica podrá otorgar hasta cinco días en un año de labores, previa demostración de la urgencia del caso, pero no podrán concederse inmediatamente antes o después de un periodo vacacional y se tendrán en cuenta las necesidades del Servicio para su concesión;
 
-Quienes realicen encuestas públicas sin autorización del Instituto o las difundan, serán sancionados por dicho Instituto con multa hasta por la cantidad de un millón quinientos mil pesos. La sanción se considerará para todos los efectos legales como crédito fiscal y se turnará a las autoridades competentes para su ejecución.
+II. Se podrán otorgar hasta por cinco días para titularse de licenciatura u obtener el grado de maestría o doctorado, siempre que el solicitante tenga más de un año en el Servicio dentro de la Institución;
 
-###### Artículo 241.
+III. Se podrán conceder para contraer nupcias si el solicitante tiene más de un año en el Servicio;
 
-Los magistrados, jueces, síndicos y agentes del ministerio público que sin causa justificada se nieguen a realizar las labores que esta ley les impone, serán sancionados con multa de entre cien y mil veces el salario mínimo diario vigente en el estado.
+IV. Se podrán conceder por treinta días hábiles para efectuar los trámites de pensión de retiro por edad y tiempo de servicios, o por cesantía en edad avanzada, invalidez y jubilación de conformidad con lo dispuesto por la Ley de la materia; y
 
-## TÍTULO OCTAVO
+V. Se podrán otorgar al funcionario que sea requerido para una diligencia judicial o administrativa, por el tiempo que sea necesario para desahogarla y previa justificación de la misma.
 
-### CAPÍTULO ÚNICO. LA EQUIDAD Y GÉNERO
+###### ARTÍCULO 247.
 
-###### Artículo 242.
+Cuando se trate de riesgos profesionales, el personal del Instituto tendrá derecho a disfrutar de licencia con goce de sueldo íntegro, conforme a lo previsto en la legislación aplicable.
 
-Si por exigencias de construcción gramatical, enumeración, orden u otra circunstancia el texto legal contenido en esta ley usa el género masculino, el mismo deberá ser interpretado en sentido igualitario para hombres y mujeres, de modo que éstas y aquéllos puedan adquirir toda clase de derechos y contraer igualmente toda clase de deberes jurídicos.
+###### ARTÍCULO 248.
 
-T R A N S I T O R I O S
+Las mujeres disfrutarán de noventa días naturales de descanso con motivo del parto. Este descanso se otorgará en dos periodos, treinta días antes de la fecha que aproximadamente se fije para el parto, y sesenta días después de éste.
 
-PRIMERO. La presente Ley de Instituciones Políticas y Procedimientos Electorales para el Estado de Coahuila de Zaragoza, entrará en vigor el día en que se publique este Decreto en el Periódico Oficial del Gobierno del Estado.
+###### ARTÍCULO 249.
 
-La presente ley se aprueba conforme a las disposiciones constitucionales del Decreto número 171 del Congreso del Estado, mediante el cual se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Coahuila en Materia Político-Electoral, y por tanto, el trámite, discusión y aprobación legislativa de este ordenamiento legal que aquí se aprueba, se sujeta sólo a las normas constitucionales contenidas en ese Decreto 171, vigente.
+Las madres trabajadoras tendrán derecho durante la lactancia a dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos por un periodo de seis meses.
 
-SEGUNDO. El financiamiento público a que tengan derecho los partidos políticos conforme a lo dispuesto en la presente ley, entrará en vigor y surtirá sus efectos para el ejercicio del año dos mil dos.
+El periodo de seis meses al que se refiere el párrafo anterior empezará a contar desde el momento en que la madre trabajadora se reincorpore a sus labores, después de haber concluido su licencia médica por embarazo.
 
-Por única vez para el año 2002, y en forma exclusiva, los partidos políticos nacionales y estatales que hubiesen obtenido su registro con anterioridad a diciembre de 1999 y que participen por primera vez en una elección local, recibirán cada uno como financiamiento público ordinario para actividades permanentes el equivalente al 7 % del monto total anual determinado por concepto de financiamiento público ordinario para actividades permanentes; asimismo, recibirán cada uno como financiamiento público para actividades tendientes a la obtención del sufragio popular el equivalente al 7 % del monto total anual determinado por concepto de financiamiento público para actividades tendientes a la obtención del sufragio popular, sin afectar las partidas a que tienen derecho los demás partidos políticos con antecedentes electorales.
+###### ARTÍCULO 250.
 
-TERCERO. Las organizaciones políticas que hayan iniciado el procedimiento para constituirse en partidos políticos estatales, deberán ajustarlo a lo dispuesto por la presente ley.
+Para otorgar licencia a los miembros del Servicio, la Junta valorará que las actividades particulares para las que se otorgue la licencia no sean contrarias a los intereses del Instituto.
 
-CUARTO. Se abroga el Código Electoral del Estado de Coahuila, publicado en el Periódico Oficial del Gobierno del Estado número treinta y cuatro, de fecha 29 de abril de 1994.
+###### ARTÍCULO 251.
 
-QUINTO. Hasta en tanto surta sus efectos el período de gobierno municipal de cuatro años para los miembros de los Ayuntamientos electos en el 2005 conforme al artículo sexto transitorio del Decreto número 171 del Congreso del Estado, mediante el cual se aprueba las reformas, adiciones y derogaciones a diversas disposiciones de la Constitución Política del Estado de Coahuila en Materia Político-Electoral, se seguirá aplicando el período del gobierno municipal de tres años para los miembros de los Ayuntamientos electos en el 2002, quienes tomarán posesión constitucional de su cargo el primero de enero de 2003 y concluirán su función el treinta y uno de diciembre del 2005.
+El personal del Servicio que se encuentre en licencia estará obligado a suscribir, al momento de solicitar su Reincorporación, un informe de las actividades que haya efectuado.
 
-SEXTO. La demarcación territorial de los 20 distritos electorales en que se divide el Estado conforme a la Constitución Política del Estado, que se utilizará en las próximas elecciones locales para diputados y Ayuntamientos del año dos mil dos, será la siguiente:
+### CAPÍTULO QUINTO. DE LA SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO
 
-Distrito I
+###### ARTÍCULO 252.
 
-Cabecera: Saltillo
+Con el objeto de garantizar la salud y la vida del personal del Instituto, así como para prevenir y reducir las posibilidades de riesgos profesionales, el Instituto se obliga a mantener sus áreas de trabajo en las necesarias condiciones de seguridad e higiene y a proporcionar todos los elementos indispensables para tales fines.
 
-Se conforma por las siguientes secciones:
+###### ARTÍCULO 253.
 
-Total de Secciones 67
+El Instituto adoptará las medidas de seguridad necesarias, mismas que el personal del Instituto deberá acatar.
 
-781, 782, 783, 784, 785, 786, 796, 797, 798, 799, 807, 808, 809, 810, 811, 826, 827, 841, 842, 843, 844, 845, 846, 847,848, 849, 850, 851, 853, 854, 855, 856, 857, 858, 859, 860, 861, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 921, 922, 923, 924, 925, 926, 927, 928, 968.
+Para tal efecto se observarán las siguientes disposiciones:
 
-Distrito II
+I. La Dirección Administrativa coordinará el establecimiento de una Comisión Central de Seguridad, Higiene y Medio Ambiente en el Trabajo integrada por representantes de cada una de las Direcciones y Unidades Técnicas; y
 
-Cabecera: Saltillo
+II. Se establecerán comisiones auxiliares de Seguridad e Higiene en cada área de trabajo, integrada por representantes designados.
 
-Se conforma por las siguientes secciones:
+### CAPÍTULO SEXTO. DE LOS RIESGOS PROFESIONALES
 
-Total de secciones 72
+###### ARTÍCULO 254.
 
-730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 778, 779, 780, 787, 788, 789, 790, 791, 792, 793, 794, 795, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 852.
+En materia de riesgos profesionales se estará a lo previsto en las disposiciones legales aplicables y en el presente Estatuto.
 
-Distrito III
+###### ARTÍCULO 255.
 
-Cabecera: Saltillo
+El Instituto proporcionará todos los elementos a su alcance para evitar los riesgos profesionales; para tal fin, deberá designarse el personal suficiente y disponer de elementos necesarios.
 
-Se conforma por las siguientes secciones:
+###### ARTÍCULO 256.
 
-Total de secciones 66
+Al ocurrir el riesgo profesional, el Instituto proporcionará de inmediato la atención necesaria y, en su caso, avisará a la institución de seguridad social, en un plazo máximo de tres días.
 
-756, 776, 777, 800, 801, 802, 803, 804, 805, 806, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 899, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 978, 979.
+###### ARTÍCULO 257.
 
-Distrito IV
+En caso de riesgos profesionales, el superior jerárquico inmediato deberá elaborar el acta relativa al accidente de trabajo. Dicha acta deberá ser tramitada por el Instituto en un plazo máximo de tres días, contados a partir de su levantamiento, entregando una copia al personal afectado.
 
-Cabecera: Saltillo
+###### ARTÍCULO 258.
 
-Se conforma por las siguientes secciones:
+El Instituto, a través de la Dirección Administrativa, tramitará el pago de las remuneraciones, de acuerdo con el oficio de calificación de accidente de trabajo, así como con el dictamen médico que al efecto otorgue la institución de seguridad social al afectado.
 
-Total de secciones 67
+###### ARTÍCULO 259.
 
-65 Secciones del Municipio de Saltillo urbano
+Las indemnizaciones en las tablas de valuación de incapacidades contenidas en las disposiciones legales aplicables no estarán sujetas a descuento alguno.
 
-2 Secciones del Municipio de Saltillo rural
+### CAPÍTULO SÉPTIMO. DE LAS PRESTACIONES
 
-896, 897, 898, 900, 912, 913, 914, 915, 916, 917, 918, 919, 920, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 955, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967, 969, 970, 971, 972, 973, 974, 975, 976, 977, 980, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999, 1005, 1006.
+###### ARTÍCULO 260.
 
-Distrito V
+El Instituto podrá otorgar a su personal las siguientes prestaciones:
 
-Cabecera: Parras
+I. Proveer una ayuda para anteojos y de aparatos auditivos al personal del Instituto, en los términos y condiciones que establezca la Junta;
 
-Se conforma por las siguientes secciones:
+II. Otorgar becas académicas cuya cuantía y monto se establezcan de conformidad con el procedimiento que disponga la Junta, a propuesta de la Dirección Administrativa.
 
-Total de secciones 155
+Dicho procedimiento deberá preservar la igualdad de oportunidades para todos los solicitantes;
 
-35 Secciones del Municipio de Parras
+III. Organizar eventos sociales, recreativos y deportivos; y
 
-542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576.
+IV. Las demás que al efecto apruebe el Consejo a propuesta de la Junta.
 
-24 Secciones del Municipio de Arteaga
+Las prestaciones anteriores se deberán incluir en forma detallada en el presupuesto.
 
-57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80
+## TRANSITORIOS
 
-19 Secciones del Municipio de Gral. Cepeda
+###### ARTÍCULO PRIMERO.
 
-214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232.
+El presente Estatuto entrará en vigor y surtirá todos sus efectos, una vez concluido el proceso electoral de 2001.
 
-39 Secciones del Municipio de Ramos Arizpe
+###### ARTÍCULO SEGUNDO.
 
-652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687,688, 689, 690.
+El personal que preste sus servicios durante el proceso electoral 2001, tendrá el carácter de provisional hasta en tanto no concluya el mismo.
 
-38 Secciones del Municipio de Saltillo Rural
+A partir de la entrada en vigor del presente Estatuto, éste se aplicará al personal que actualice sus servicios en el Instituto; derogando para tal efecto todas las disposiciones que lo contravengan.
 
-1000, 1001, 1002, 1003, 1004, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037,1038, 1039.
+###### ARTÍCULO TERCERO.
 
-Distrito VI
+La antigüedad en el Servicio del personal que participe en el proceso electoral de 2001 en los Cargos que le son exclusivos se computará a partir de la fecha en que ingresó al Instituto, o, en su defecto, a partir de la fecha en que se hubiera comenzado a cotizar al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla.
 
-Cabecera: Matamoros
+La antigüedad en el Servicio, para efectos del desarrollo dentro del mismo, se computará a partir de la obtención de la titularidad. Para el personal del Servicio se computarán exclusivamente los periodos efectivos en los que se desempeñe de manera activa.
 
-Se conforma por las siguientes secciones:
+###### ARTÍCULO CUARTO.
 
-Total de secciones 85
+Dentro de un periodo de treinta días hábiles a partir de la entrada en vigor del presente Estatuto, la Dirección Administrativa presentará a la Junta, para su aprobación, previo conocimiento de la Comisión, el proyecto de acuerdo para regular y desarrollar la fase de formación profesional del Programa.
 
-62 Secciones del Municipio de Matamoros.
+###### ARTÍCULO QUINTO.
 
-257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318.
+La creación del Archivo Documental será contemplada en el presupuesto para el año 2001.
 
-23 Secciones del Municipio de Viesca
+###### ARTICULO SEXTO.
 
-1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497.
+El titular de la Dirección Administrativa, previa consulta con las demás áreas del Instituto y la Comisión propondrá los Cargos del Servicio a la Junta para que sean señalados en el Catálogo.
 
-Distrito VII
+###### ARTÍCULO SÉPTIMO.
 
-Cabecera: Torreón
+Una vez concluido el proceso electoral del año 2001, y en los términos del Código y del presente Estatuto una vez entrado en vigor, el Director General propondrá al Consejo General, por conducto de su Presidente, la permanencia del personal Técnico y Administrativo mínimo necesario para cumplir con los fines del Instituto y del Servicio; procurando conservar la estructura orgánica central, equivalente a los Cuerpos del Servicio que se formaron con motivo de las elecciones de 2001, con el objeto de aprovechar la experiencia acumulada en los órganos de Dirección y Ejecución para próximos procesos electorales.
 
-Se conforma por las siguientes secciones:
+La Junta deberá, con base en las disposiciones presupuestales para el año 2001, analizar, evaluar y aprobar el Proyecto de Catálogo General de Cargos presentado por la Dirección Administrativa y remitirlo al Consejo para su aprobación.
 
-Total de secciones 56
+###### ARTÍCULO OCTAVO.
 
-1220, 1221, 1222, 1223, 1224, 1225, 1226, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267, 1268, 1273, 1274, 1275, 1276, 1277, 1278, 1332, 1333, 1334, 1335, 1336, 1337, 1338, 1339, 1340, 1341, 1371, 1372, 1373, 1374, 1375, 1376, 1394.
+La Evaluación del desempeño de los funcionarios nombrados provisionalmente para el proceso electoral de 2001 con base en los objetivos planeados por la Dirección Administrativa, será considerada una primera etapa para su ingreso a los Cuerpos de la Función Directiva o de Técnicos del Servicio.
 
-Distrito VIII
+###### ARTÍCULO NOVENO.
 
-Cabecera: Torreón
+Al personal que apruebe la Evaluación del desempeño, pero que aún no tenga título profesional, se le otorgará un plazo de un año a partir de la entrada en vigor del presente Estatuto, para cumplir con dicho requisito. En tanto, podrá seguir prestando sus servicios en el Instituto, en el Cargo que determine la Junta.
 
-Se conforma por las siguientes secciones:
+Agotado el plazo del párrafo que antecede, sin acreditar el requisito anterior causará baja del Instituto.
 
-Total de secciones 60
+###### ARTÍCULO DÉCIMO.
 
-1189, 1190, 1191, 1192, 1193, 1194, 1195, 1196, 1197, 1198, 1208, 1209, 1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1269, 1270, 1271, 1272, 1279, 1280, 1281, 1282, 1283, 1284, 1300, 1301, 1302, 1303, 1304, 1305, 1306, 1470, 1471, 1472, 1473, 1474
+La evaluación en el cumplimiento de los indicadores, metas y programas del Servicio que desarrolle y administre de forma directa la Subdirección del Servicio Electoral Profesional será instrumentada por el titular de la Dirección Administrativa con el acuerdo de la Comisión y rendirá un informe anual del resultado obtenido a la Junta.
 
-Distrito IX
-
-Cabecera: Torreón
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 68
-
-1285, 1286, 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1294, 1295, 1296, 1297, 1298, 1299, 1307, 1308, 1309, 1382, 1388, 1389, 1390, 1391, 1403, 1404, 1405, 1406, 1407, 1408, 1412, 1413, 1414, 1415, 1416, 1417, 1418, 1419, 1420, 1421, 1422, 1423, 1424, 1425, 1426, 1427, 1428, 1429, 1430, 1431, 1432, 1433, 1435, 1436, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1457, 1458.
-
-Distrito X
-
-Cabecera: Torreón
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 52
-
-1320, 1321, 1322, 1323, 1324, 1325, 1326, 1327, 1328, 1329, 1330, 1331, 1342, 1343, 1344, 1345, 1346, 1347, 1348, 1349, 1350, 1361, 1362, 1363, 1364, 1365, 1366, 1367, 1368, 1369, 1370, 1377, 1378, 1379, 1380, 1381, 1383, 1384, 1385, 1386, 1387, 1392, 1393, 1395, 1396, 1397, 1398, 1399, 1400, 1401, 1402, 1434.
-
-Distrito XI
-
-Cabecera: Torreón
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 67
-
-1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1199, 1200, 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1310, 1311, 1312, 1313, 1314, 1315, 1316, 1317, 1318, 1319, 1351, 1352, 1353, 1354, 1355, 1356, 1357, 1358, 1359, 1360, 1409, 1410, 1411, 1450, 1451, 1452, 1453, 1454, 1455, 1456, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1469.
-
-Distrito XII
-
-Cabecera: Francisco I. Madero
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 81
-
-42 Secciones de Fco. I. Madero
-
-131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172.
-
-6 Secciones de Sierra Mojada
-
-1166, 1167, 1168, 1169, 1170, 1171.
-
-16 Secciones de Ocampo
-
-526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541.
-
-17 Secciones de Cuatro Ciénegas
-
-110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126.
-
-Distrito XIII
-
-Cabecera: San Pedro
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 75
-
-1091, 1092, 1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1128, 1129, 1130, 1131, 1132, 1133, 1134, 1135, 1136, 1137, 1138, 1139, 1140, 1141, 1142, 1143, 1144, 1145, 1146, 1147, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155, 1156, 1157, 1158, 1159, 1160, 1161, 1162, 1163, 1164, 1165.
-
-Distrito XIV
-
-Cabecera: Frontera
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 69
-
-41 Secciones del Municipio de Frontera
-
-173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213.
-
-26 Secciones del Municipio de Castaños
-
-84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109.
-
-2 Secciones del Municipio de Sacramento
-
-728, 729.
-
-Distrito XV
-
-Cabecera: Monclova
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 74
-
-44 Secciones del Municipio de Monclova
-
-319, 320, 321, 322, 323, 324, 325, 326, 332, 333, 334, 335, 341, 342, 343, 344, 355, 356, 357, 369, 370, 371, 372, 373, 382, 383, 384, 385, 386, 387, 388, 389, 390, 402, 403, 404, 405, 406, 407, 408, 417, 418, 419, 420.
-
-2 Secciones del Municipio de Abasolo
-
-1, 2.
-
-2 Secciones del Municipio de Lamadrid
-
-255, 256.
-
-8 Secciones del Municipio de Nadadores
-
-500, 501, 502, 503, 504, 505, 506, 507.
-
-18 Secciones del Municipio de San Buenaventura
-
-1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057.
-
-Distrito XVI
-
-Cabecera: Monclova
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 84
-
-81 Secciones del Municipio de Monclova
-
-327, 328, 329, 330, 331, 336, 337, 338, 339, 340, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 374, 375, 376, 377, 378, 379, 380, 381, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 409, 410, 411, 412, 413, 414, 415, 416, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443.
-
-3 Secciones del Municipio de Candela
-
-81, 82, 83.
-
-Distrito XVII
-
-Cabecera: Sabinas
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 82
-
-37 Secciones del Municipio de Sabinas
-
-691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727.
-
-15 Secciones del Municipio de Allende
-
-42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56.
-
-4 Secciones del Municipio de Escobedo
-
-127, 128, 129, 130.
-
-5 Secciones del Municipio de Juárez
-
-250, 251, 252, 253, 254,
-
-6 Secciones del Municipio de Morelos
-
-444, 445, 446, 447, 448, 449.
-
-7 Secciones del Municipio de Progreso
-
-645, 646, 647, 648, 649, 650, 651.
-
-8 Secciones del Municipio de Villa Unión
-
-1498, 1499, 1500, 1501, 1502, 1503, 1504, 1505.
-
-Distrito XVIII
-
-Cabecera: Múzquiz
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 83
-
-50 Secciones del Municipio de Múzquiz
-
-450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499.
-
-33 Secciones del Municipio de San Juan de Sabinas
-
-1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090.
-
-Distrito XIX
-
-Cabecera: Acuña
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 82
-
-39 Secciones del Municipio de Acuña
-
-3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41.
-
-10 Secciones del Municipio de Jiménez
-
-240, 241, 242, 243, 244, 245, 246, 247, 248, 249.
-
-18 Secciones del Municipio de Nava
-
-508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525.
-
-15 Secciones del Municipio de Zaragoza
-
-1506, 1507, 1508, 1509, 1510, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, 1519, 1520.
-
-Distrito XX
-
-Cabecera: Piedras Negras
-
-Se conforma por las siguientes secciones:
-
-Total de secciones 75
-
-68 Secciones del Municipio de Piedras Negras
-
-577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644.
-
-5 Secciones del Municipio de Guerrero
-
-233, 234, 235, 236, 237.
-
-2 Secciones del Municipio de Hidalgo
-
-238, 239.
-
-SÉPTIMO. Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
-
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, el día primero del mes de noviembre del año dos mil uno.
-
-DIPUTADA PRESIDENTA.
-
-LAURA REYES RETANA RAMOS.
-
-DIPUTADA SECRETARIA.
-
-NORMA VIOLETA DAVILA SALINAS.
-
-DIPUTADO SECRETARIO.
-
-JOSE LUIS MARQUEZ FERNANDEZ.
-
-IMPRIMASE, COMUNIQUESE Y OBSERVESE.
-
-Saltillo, Coahuila, 12 de Noviembre de 2001.
-
-EL GOBERNADOR DEL ESTADO.
-
-LIC. ENRIQUE MARTINEZ Y MARTINEZ.
-
-EL SECRETARIO DE GOBIERNO.
-
-LIC. JOSE JESÚS RAUL SIFUENTES GUERRERO.
+ARTÍCULO DECIMOPRIMERO. El nombramiento del Subdirector encargado de la Subdirección del Servicio Electoral Profesional será ratificado por el Consejo General.
