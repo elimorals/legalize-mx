@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-de-la-vivienda-de-nuevo-38241
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-12"
-last_updated: "2004-03-12"
+last_updated: "2005-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de marzo de 2004.
 
@@ -49,7 +49,9 @@ III. Ley: La Ley del Instituto de la Vivienda de Nuevo León;
 
 IV. Instituto: El Instituto de la Vivienda de Nuevo León; y
 
-V. Director: El Director General del Instituto de la Vivienda de Nuevo León.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2005)</small>
+
+V. Director General: El Director General del Instituto de la Vivienda de Nuevo León.
 
 ### Capítulo II. Del Consejo Técnico Ciudadano
 
@@ -135,13 +137,17 @@ I. Director General del Instituto.
 
 II. Direcciones y Unidades:
 
-a. Operaciones y Administración,
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
+a) Administración y Finanzas,
 
 b. Promoción y Desarrollo,
 
 c. Proyectos e Innovación Tecnológica,
 
-d. Financiamientos y Créditos,
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
+d) Planeación Estratégica, Financiamiento y Crédito,
 
 e. Gestoría y Simplificación Administrativa,
 
@@ -149,7 +155,9 @@ f. Unidad Jurídica,
 
 g. Unidad de Auditoria Interna; y
 
-h. Secretaría Particular.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
+h) Unidad de Análisis Estadístico y Estudios Socioeconómicos.
 
 III. Las demás unidades operativas y técnicas que sea (sic) creadas por acuerdo de la Junta de Gobierno.
 
@@ -165,9 +173,13 @@ Los servidores públicos del Instituto, ejercerán sus funciones de acuerdo con 
 
 El Director General del Instituto, además de las atribuciones expresamente señaladas en el artículo 17 de la Ley, contará con las siguientes funciones:
 
-I. Crear las condiciones necesarias para garantizar a la población el acceso a una vivienda, promoviendo un mayor flujo de recursos hacia la producción y financiamiento, coordinando y consolidando la integración del mercado habitacional.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2005)</small>
 
-II. Dirigir, promover, coordinar e impulsar la ejecución de los programas de construcción de vivienda de interés social en Nuevo León, incluyendo las acciones de financiamiento, adquisición, remodelación, ampliación y mejora de la vivienda, así como el desarrollo de conjuntos habitacionales además de la optimización y racionalización en la aplicación de los recursos destinados a la solución de problemas de vivienda social, de manera que los beneficios de una vivienda digna y decorosa se extienda al mayor número de familias.
+I. Crear las condiciones necesarias para facilitar a la población el acceso a una vivienda, promoviendo un mayor flujo de recursos hacia la producción y financiamiento, articulando la integración del mercado habitacional.
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2005)</small>
+
+II. Promover, coordinar e impulsar la ejecución de los programas de construcción de vivienda e interés social en Nuevo León, incluyendo las acciones de financiamiento, adquisición, remodelación, ampliación y mejora de la vivienda, así como el desarrollo de conjuntos habitacionales además de la optimización y racionalización en la aplicación de los recursos destinados a la solución de problemas de vivienda social, de manera que los beneficios de una vivienda digna y decorosa se extienda al mayor número de familias.
 
 III. Promover la constitución de reservas territoriales que prevean áreas para el desarrollo habitacional de grupos populares de bajos recursos, así como el equipamiento de infraestructura de servicios que se requiera.
 
@@ -185,211 +197,155 @@ VIII. Dirigir y supervisar la realización del plan estratégico del Instituto, 
 
 #### Sección II. De las Direcciones y Unidades
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
 ###### Artículo 19.
 
-Son atribuciones comunes para los titulares de las Direcciones y Unidades las siguientes:
+Son atribuciones comunes para los Titulares de las Direcciones y Unidades las siguientes:
 
-I. Establecer la normatividad que regule la actividad del área.
+I. Acordar con el Director General el despacho de los asuntos a su cargo y los inherentes a las áreas adscritas a su responsabilidad e informarle oportunamente sobre el seguimiento de los mismos;
 
-II. Contar con personal capacitado para ejecutar las responsabilidades y actividades del área.
+II. Formular y proponer al Director General, los objetivos, estrategias y líneas de acción del área a su cargo, en congruencia con el Plan Estatal de Desarrollo y el Plan Estratégico del Instituto;
 
-III. Supervisar el desempeño del personal bajo su responsabilidad.
+III. Colaborar en el ámbito de su competencia en el desarrollo de planes, programas y acciones a cargo de las Direcciones y Unidades del Instituto;
 
-IV. Vigilar el buen uso de los activos del área.
+IV. Realizar las acciones necesarias en el área de su competencia para dar cumplimiento al objeto y atribuciones de su área y del Instituto en su conjunto;
 
-V. Asegurar el cumplimiento de los objetivos del área; y
+V. Planear, programar, dirigir, supervisar y evaluar el funcionamiento de las áreas administrativas a su cargo;
 
-VI. Las demás que le confieran las disposiciones legales aplicables y el Titular del Instituto en la esfera de sus atribuciones.
+VI. Vigilar que en los asuntos de su competencia se cumpla con las formalidades legales y con las previsiones de los ordenamientos jurídicos y disposiciones administrativas que resulten aplicables;
+
+VII. Representar al Instituto, cuando así lo disponga el Director General, en actos, eventos y reuniones ante instituciones públicas y privadas de los ámbitos federal, estatal y municipal, y
+
+VIII. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 20.
 
-Además de las señaladas en el artículo 19 de este Reglamento, el Director de Operaciones y Administración contará con las siguientes funciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Director de Administración y Finanzas contará con las siguientes atribuciones:
 
-I. Coordinar la planeación de acciones presentes y futuras del Instituto en coordinación con el Director General y las Direcciones que la integran, con la finalidad de establecer las estrategias y líneas de acción.
+I. Elaborar y proponer al Director General el programa operativo anual del Instituto, considerando los criterios y lineamientos establecidos en la normatividad estatal aplicable;
 
-II. Dirigir, coordinar y supervisar las funciones de contabilidad, ingresos, egresos, sistemas, patrimonio, adquisiciones y recursos humanos, asegurando que se ejerzan bajo el marco jurídico y normativo establecido.
+II. Dirigir, coordinar y supervisar la aplicación de los recursos financieros, así como realizar las demás operaciones financieras, garantizando su transparente aplicación;
 
-III. Ejecutar las funciones financieras vinculadas a las atribuciones del Instituto.
+III. Dirigir, coordinar y vigilar la elaboración y seguimiento del anteproyecto del presupuesto anual de ingresos, gasto corriente e inversiones del Instituto;
 
-IV. Apoyar al Director General, ejerciendo la autoridad y poderes que le confiera de conformidad con sus facultades y con lo dispuesto por la Legislación Civil vigente, coordinando y vigilando la aplicación de los planes y programas establecidos por el Instituto.
+IV. Dirigir y supervisar la integración de la información requerida por el área estatal competente, para el ejercicio del presupuesto anual del gasto corriente del Instituto;
 
-V. Representar al Director General ante las dependencias del ámbito Federal, Estatal y Municipal y en los eventos y reuniones, cuando así lo disponga el mismo Director General.
+V. Dirigir y supervisar el registro y control contable de las operaciones y transacciones efectuadas por el Instituto e integrar los informes contables;
 
-VI. Dirigir, coordinar y vigilar la elaboración y seguimiento del presupuesto anual de Ingresos, gasto corriente e inversiones del Instituto.
+VI. Informar al Director General del comportamiento de los estados financieros del Instituto y de las medidas preventivas y correctivas pertinentes;
 
-VII. Dirigir y supervisar el registro y control contable de las operaciones y transacciones efectuadas por el Instituto e integrar los informes contables.
+VII. Elaborar los informes administrativos del Instituto, así como los asuntos que deban ser presentados en los informes de cuenta pública;
 
-VIII. Analizar e interpretar el comportamiento de los estados financieros del Instituto e informar al Director General las medidas preventivas y correctivas pertinentes.
+VIII. Dirigir y coordinar, en conjunto con la Dirección de Proyectos e Innovación Tecnológica, la supervisión del control de los avances financieros de las obras contratadas por el Instituto;
 
-IX. Elaborar los informes administrativos del Instituto, así como los asuntos que deban ser presentados en el informe de cuenta pública.
+IX. Dirigir y supervisar el registro, monitoreo y control de la asignación de créditos y realizar la cobranza para la recuperación de los créditos otorgados por el Instituto para la adquisición, remodelación, ampliación y mejora de vivienda;
 
-X. Dirigir y supervisar el registro, monitoreo y control de la asignación y recuperación de créditos para la adquisición, remodelación, ampliación y mejora de vivienda.
+X. Dirigir y vigilar la aplicación de los planes y programas correspondientes a la Dirección a su cargo;
 
-XI. Dirigir, coordinar y supervisar la aplicación de los recursos financieros, analizando las operaciones inherentes al manejo y suministro, garantizando su transparente aplicación.
+XI. Administrar y archivar, en el ámbito de su competencia, los contratos, convenios, escrituras, traspasos y cancelaciones que el Instituto lleve a cabo;
 
-XII. Administrar y archivar los contratos, convenios, escrituras, traspasos y cancelaciones que el Instituto lleve a cabo en apego a las disposiciones del decreto de creación.
+XII. Proporcionar la información necesaria del Instituto para su integración en el Portal de Internet del Poder Ejecutivo del Estado de Nuevo León;
 
-XIII. Dirigir y coordinar la supervisión del control de los avances financieros de las obras contratadas por el Instituto.
+XIII. Promover la mejora continua de los productos, procesos y servicios del Instituto;
 
-XIV. Dirigir y supervisar el desarrollo, instalación y mantenimiento de sistemas de hardware y software, voz y datos, requeridos para operar adecuadamente las diferentes áreas del Instituto.
+XIV. Dirigir y supervisar la administración del personal, nóminas y prestaciones, capacitación y desarrollo, paz y seguridad laboral, manuales de organización y procedimientos y demás actividades inherentes a la administración del personal;
 
-XV. Proporcionar la información necesaria del Instituto para su integración a la página Web del Gobierno del Estado de Nuevo León.
+XV. Dirigir y supervisar el registro detallado de los bienes inmuebles del Instituto, asentando las altas, bajas y modificaciones que se presenten;
 
-XVI. Dirigir y supervisar la administración del personal, nóminas y prestaciones, capacitación y desarrollo, paz y seguridad laboral, manuales de organización y procedimientos y los mecanismos de comunicación y retroalimentación inherentes a la administración del personal.
+XVI. Dirigir y supervisar el buen uso de los bienes inventariables del Instituto, así como verificar el control y actualización de los resguardos correspondientes;
 
-XVII. Promover e impulsar la mejora continua de los productos, procesos y servicios generados por el Instituto.
+XVII. Dirigir y supervisar el control detallado de los bienes inmuebles promovidos por el Instituto;
 
-XVIII. Dirigir y supervisar el registro detallado de los bienes inmuebles del Instituto, asentando las altas, bajas y modificaciones que se presenten.
+XVIII. Dirigir y supervisar la adquisición y suministro adecuado de materiales, arrendamientos y servicios, de acuerdo a las necesidades del Instituto, ajustándose al presupuesto asignado;
 
-XIX. Dirigir y supervisar el control detallado de los bienes inmuebles promovidos por el Instituto.
+XIX. Dirigir y supervisar el sistema y control de almacenes, y
 
-XX. Dirigir y supervisar el buen uso de los bienes inventariables propiedad del Instituto, así como verificar el control y actualización de los resguardos debidamente requisitados.
+XX. Dirigir y supervisar el desarrollo, instalación y mantenimiento de sistemas de hardware y software, voz y datos que se requieren para las actividades del Instituto.
 
-XXI. Dirigir y supervisar la adquisición y suministro adecuado de materiales, arrendamientos y servicios, de acuerdo a las necesidades establecidas por las diferentes áreas, ajustándose al presupuesto asignado.
-
-XXII. Dirigir y supervisar el sistema y control de almacenes.
-
-XXIII. Presidir el Subcomité de Compras y Operaciones Patrimoniales del Instituto, con las obligaciones que marca la Ley de Adquisiciones para la Administración Pública del Estado de Nuevo León.
-
-XXIV. Dirigir y supervisar la Integración de la información al Sistema de Administración de Proyectos (SAP) del Gobierno del Estado, para el ejercicio del presupuesto anual del gasto corriente del Instituto.
-
-XXV. Informar oportunamente al Director General del Instituto, las actividades realizadas por el área, coadyuvando en la toma de decisiones para alcanzar los objetivos establecidos; y
-
-XXVI. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 21.
 
-Además de las señaladas en el artículo 19 de este presente reglamento interior, el Director de Promoción y Desarrollo contará con las siguientes funciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Director de Promoción y Desarrollo contará con las siguientes atribuciones:
 
-I. Establecer los mecanismos, métodos y sistemas para la identificación y análisis de las necesidades de vivienda en las distintas zonas urbanas y rurales del Estado de Nuevo León, así como las investigaciones socioeconómicas de los posibles adquirentes con fin de identificar y promover que éstos puedan recibir los servicios y bienes que el Instituto provee en materia de vivienda.
+I. Proponer al Director General, organizar, operar, dirigir y evaluar mecanismos, métodos y sistemas de atención al público;
 
-II. Establecer, organizar, dirigir, evaluar y mejorar los mecanismos, métodos y sistemas de atención al público.
+II. Promover e implementar la aplicación de programas de subsidios federales para la edificación, mejoramiento y ampliación de vivienda en el Estado, así como, de conformidad a la normatividad aplicable, llevar a cabo el procedimiento de contratación correspondiente;
 
-III. Dirigir y supervisar los estudios necesarios para detectar las concentraciones y crecimientos importantes de personas con escasos recursos en el Estado de Nuevo león, que carezcan de afiliación a otros sistemas de asistencia habitacional.
+III. Proporcionar el servicio de atención al público, y comunicar a la población alternativas de créditos, beneficios y requisitos para obtener una vivienda nueva;
 
-IV. Dirigir y supervisar la aplicación de encuestas de campo y estudios socioeconómicos a fin de identificar futuros adquirentes de los servicios y beneficios que otorga el Instituto.
+IV. Dirigir y supervisar el diseño y ejecutar la producción de material promocional para difundir a la población los programas y proyectos del Instituto;
 
-V. Dirigir y supervisar las investigaciones del territorio del Estado para proponer la adquisición de reservas territoriales necesarias para el logro de los objetivos del Instituto, tomando en consideración los estudios de crecimiento de la población urbana y rural, los estudios de campo del área comercial, la normatividad de Desarrollo Urbano, el crecimiento industrial, comercial, y agrario y las grandes concentraciones de familias de bajos recursos en la entidad.
+V. Organizar, coordinar y supervisar los eventos públicos del Instituto, y
 
-VI. Dirigir, coordinar y supervisar el buen funcionamiento de los mecanismos, métodos y sistemas de atención al público asegurando una atención personalizada para difundir y concienciar a la población sobre los servicios y beneficios que otorga el Instituto y de los requisitos para obtenerlos.
+VI. Dirigir y supervisar la difusión de la imagen institucional del Instituto.
 
-VII. Dirigir y supervisar el diseño del material promocional tales como rótulos, mantas, carteles, trípticos, mensajes por radio, televisión y periódico, etc. que se requiera para difundir ante la población, los programas y proyectos del Instituto.
-
-VIII. Contar con los canales de difusión más efectivos para hacer saber a la población de las opciones crediticias y facilidades para obtener una vivienda nueva.
-
-IX. Organizar, coordinar y supervisar los eventos públicos del Instituto.
-
-X. Dirigir y supervisar la difusión de la imagen institucional del Instituto.
-
-XI. Coordinarse con la Dirección de Operaciones y Administración para el debido seguimiento al cumplimiento de los planes y operación de los programas asignados a esta dirección.
-
-XII. Informar oportunamente al Director General del Instituto, las actividades realizadas por esta área, coadyuvando en la toma de decisiones a fin de alcanzar los objetivos establecidos; y
-
-XIII. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 22.
 
-Además de las señaladas en el artículo 19 de este presente reglamento interior, el Director de Proyectos e Innovación Tecnológica contará con las siguientes atribuciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Director de Proyectos e Innovación Tecnológica contará con las siguientes atribuciones:
 
-I. Normar, controlar y vigilar las acciones para la evaluación técnica de los proyectos ejecutivos y el desarrollo de los programas de edificación de viviendas.
+I. Normar, controlar y vigilar las acciones para la evaluación técnica de los proyectos ejecutivos y el desarrollo de los programas de edificación de viviendas;
 
-II. Dirigir y coordinar el levantamiento y estudios de topografía, planimetría, altimetría, geo-posicionamiento e hidrología de los bienes inmuebles propiedad del Instituto.
+II. Dirigir y coordinar el levantamiento y estudios de topografía, planimetría, altimetría, geo-posicionamiento e hidrología de los bienes inmuebles propiedad del Instituto;
 
-III. Dirigir y supervisar la elaboración de proyectos ejecutivos de:
+III. Realizar, dirigir y supervisar estudios, dictámenes y proyectos ejecutivos relativos a edificación de vivienda, obras de infraestructura, redes de servicios públicos y demás que sean de su competencia;
 
-a. Lotificación de fraccionamientos.
+IV. Dirigir, coordinar y supervisar la elaboración de presupuestos base de las obras que requiera contratar el Instituto;
 
-b. Redes de alcantarillado sanitario.
+V. Dirigir y coordinar la elaboración de cuantificaciones de obra y catálogos de conceptos para concursos de obra;
 
-c. Redes de agua potable.
+VI. Coordinar y supervisar en conjunto con la Dirección de Administración y Finanzas, la Unidad Jurídica y la Unidad de Auditoría Interna, la preparación de las convocatorias, bases de licitaciones y de concursos para la adquisición de materiales de construcción y para la contratación de las obras que se requieran para los diferentes programas que el Instituto pretenda promover o ejecutar;
 
-d. Redes de drenaje pluvial.
+VII. Dirigir y coordinar la elaboración de las especificaciones técnicas para las obras a ejecutar;
 
-e. Niveles de rasantes de vialidades y de terrecerias (sic) y pavimentos.
+VIII. Validar técnicamente los proyectos de vivienda;
 
-f. Guarniciones y banquetas en fraccionamientos
+IX. Coordinar en conjunto con la Dirección de Administración y Finanzas, la Unidad Jurídica y la Unidad de Auditoría Interna, la formalización de contratos con los proveedores ganadores de las licitaciones o concursos para la firma de la Dirección General;
 
-g. Redes de distribución eléctrica.
+X. Dirigir e implementar la licitación y la ejecución de obras derivadas de la aplicación de programas de subsidios federales en el Estado para la edificación, mejoramiento y ampliación de vivienda, introducción de servicios públicos y otras relacionadas con dichos programas, de conformidad a la normatividad aplicable;
 
-h. Redes de alumbrado público.
+XI. Dirigir y coordinar la supervisión de la ejecución de obras de urbanización y edificación bajo la modalidad de obra por administración, cuando así lo acuerde la Junta de Gobierno del Instituto y ajustándose a las disposiciones jurídicas aplicables;
 
-i. Edificación de viviendas de interés social.
+XII. Dirigir y coordinar en conjunto con la Dirección de Administración y Finanzas, la supervisión del control administrativo de los avances físicos y financieros de las obras contratadas por el Instituto, de conformidad a la normatividad y procedimientos establecidos;
 
-Tomando como base los estudios presentados por la Coordinación de Estudios de Innovación Tecnológica y aprobados por la Dirección General del Instituto.
+XIII. Fomentar, promover e implementar la investigación y desarrollo de materiales, insumos, modelos arquitectónicos y procedimientos de edificación que contribuyan a la reducción de los costos de construcción y a elevar la calidad de vivienda;
 
-IV. Dirigir, coordinar y supervisar la elaboración de presupuestos base de las obras que requiera contratar el Instituto.
+XIV. Investigar y fomentar el uso de tecnologías en la construcción, que permitan la protección del medio ambiente y maximizar el aprovechamiento de las características bioclimáticas del entorno para mejorar las condiciones de habitabilidad, de confort y de eficiencia de las viviendas;
 
-V. Dirigir y coordinar la elaboración de cuantificaciones de obra y catálogos de conceptos para concursos de obra.
+XV. Promover la creación de unidades de producción de materiales que permitan reducir el costo de la edificación de viviendas de interés social y desarrollar y difundir la normatividad e información requeridas para la formación y operación exitosa de estas unidades;
 
-VI. Coordinar, y supervisar en conjunto con el Dirección de Operaciones y Administración, la preparación de las bases de concurso para la adquisición de materiales u obras que se requieran para los diferentes programas que el Instituto pretenda promover o ejecutar.
+XVI. Diseñar e integrar un banco de información y consulta que incluya, entre otra información, el costo y las tendencias de los insumos y materiales requeridos para la construcción de vivienda y de infraestructura de servicios, con la finalidad de impulsar el desarrollo de las investigaciones orientadas a abatir los costos de la vivienda y de la urbanización habitacional y al desarrollo y adaptación de nuevas tecnologías, sistemas y materiales de construcción, y
 
-VII. Dirigir y coordinar la elaboración de las especificaciones técnicas para las obras a ejecutar.
+XVII. Proponer al Director General, de conformidad a la normatividad aplicable, la constitución de reservas territoriales para el desarrollo de vivienda en el Estado.
 
-VIII. Validar técnicamente los proyectos de vivienda.
-
-IX. Presentar a la Dirección General del Instituto, la información necesaria para llevar a cabo las convocatorias para las licitaciones públicas o los concursos por invitación para la realización de las obras que el Instituto requiera.
-
-X. Coordinar en conjunto con la Dirección de Operaciones y Administración y el área Jurídica, la formalización de los contratos con los proveedores ganadores de las licitaciones o concursos para la firma de la Dirección General.
-
-XI. Dirigir y supervisar las investigaciones para determinar la capacidad administrativa y tecnológica de los diferentes desarrolladores de vivienda en la República Mexicana.
-
-XII. Dirigir y coordinar la supervisión de la ejecución de obras de urbanización y edificación bajo la modalidad de “obra por administración", cuando así lo acuerde el Consejo de Administración del Instituto.
-
-XIII. Dirigir y coordinar en conjunto con la Dirección de Operaciones y Administración, la supervisión del control administrativo de los avances físicos y financieros de las obras contratadas por el Instituto, asegurando el cumplimiento de la normatividad y procedimientos establecidos.
-
-XIV. Fomentar, promover e implantar la Investigación y desarrollo de materiales, insumos, modelos arquitectónicos y procedimientos de edificación que garanticen la reducción de los costos de construcción y la calidad de vivienda.
-
-XV. Investigar y fomentar el uso de eco tecnologías en la construcción, asegurando la protección del medio ambiente y maximizar el aprovechamiento de bienes y servicios asociados a la ocupación y funcionalidad de la vivienda.
-
-XVI. Promover la creación de unidades de producción de materiales e insumos innovadores y de bajo costo para la edificación de viviendas de interés social.
-
-XVII. Identificar establecer y comunicar la normatividad para la creación de unidades de producción de materiales e insumos innovadores que abatan los costos de edificación de viviendas de interés social.
-
-XVIII. Diseñar e integrar un banco de información y consulta que impulse el desarrollo de las investigaciones orientadas a abatir los costos de la vivienda con respecto al desarrollo y adaptación de nuevas tecnologías, sistemas y materiales de construcción así como modernos esquemas de desregulación y simplificación, legales, de financiamientos y créditos.
-
-XIX. Coordinarse con la Dirección de Operaciones y Administración para el debido seguimiento al cumplimiento de los planes y operación de los programas asignados a esta dirección.
-
-XX. Informar oportunamente al Director General del Instituto, las actividades realizadas por esta área, coadyuvando en la toma de decisiones a fin de alcanzar los objetivos establecidos; y
-
-XXI. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 23.
 
-Además de las señaladas en el artículo 19 del presente reglamento interior, el Director de Financiamientos y Créditos contará con las siguientes atribuciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Director de Planeación Estratégica, Financiamiento y Crédito contará con las siguientes atribuciones:
 
-I. Detectar e investigar fuentes de financiamientos para la vivienda, creando instrumentos innovadores para la mayor captación y aplicación.
+I. Desarrollar e implementar, de conformidad con el Plan Estatal de Desarrollo y las directrices del Director General, un proceso de planeación estratégica que permita optimizar los esfuerzos del Instituto en la consecución de su objeto y que provea las bases para la continuidad a largo plazo, de los planes y proyectos del Instituto;
 
-II. Promover, coordinar y gestionar ante instituciones públicas y privadas, financiamientos y créditos de interés social, para la adquisición, remodelación, ampliación y mejora de la vivienda, así como para el impulso del desarrollo de conjuntos habitacionales y el equipamiento de infraestructura de servicios que requiera, enfocados a cumplir los programas comprometidos por el Instituto y la satisfacción de las necesidades del mayor número de familias de la Entidad.
+II. Elaborar de manera participativa con las Direcciones y Unidades, el Plan Estratégico del Instituto conforme a las directrices y lineamientos establecidos por el Director General;
 
-III. Diseñar, establecer e implantar las políticas y normas que regulen los requisitos para ser sujeto de crédito, para obtener crédito y para definir el monto, tiempo y forma de pago de dicho crédito.
+III. Coordinar la Implementación y dar seguimiento al Plan Estratégico del Instituto, así como, en coordinación con los Titulares de las Direcciones y Unidades Administrativas, proponer al Director General las acciones preventivas y correctivas que correspondan;
 
-IV. Conocer, evaluar y comparar las operaciones de los sistemas de crédito de vivienda de todas las instituciones y organismos de financiamiento a nivel nacional e internacional, identificando los mejores programas de financiamiento en cuanto a montos y condiciones.
+IV. Apoyar al Director General en los proyectos estratégicos del Instituto y en asuntos relacionados con los mismos;
 
-V. Investigar, desarrollar y establecer mecanismos, métodos o sistemas innovadores para la captación y aplicación de financiamientos orientados a vivienda de interés social.
+V. Promover, gestionar y, en su caso, coordinar, ante instituciones públicas y privadas, federales, estatales y municipales, la obtención de subsidios, financiamientos y créditos de interés social para la adquisición, construcción, ampliación y mejoramiento de la vivienda, así como para la adquisición de suelo y el equipamiento de infraestructura de servicios para desarrollos habitacionales;
 
-VI. Atraer el mayor volumen y las mejores condiciones de financiamiento, para ser aplicados a los programas establecidos por el Instituto.
+VI. Analizar y evaluar las ofertas de crédito de vivienda de las instituciones y organismos de financiamiento, identificando los mejores programas en cuanto a montos y condiciones, enfocados primordialmente a la población de escasos recursos;
 
-VII. Determinar tipos y montos de financiamiento y créditos para el desarrollo y adquisición de vivienda enfocándose primordialmente a la población de escasos recursos.
+VII. Promover la obtención de productos financieros, orientados al desarrollo del sector de la vivienda en el Estado, así como capacitar y brindar asistencia a terceros para su contratación;
 
-VIII. Establecer, implantar y difundir las políticas internas para determinar los requisitos para ser sujeto de crédito en los programas establecidos por el Instituto.
+VIII. Desarrollar, proponer e instrumentar mecanismos, métodos y sistemas que faciliten a la población, la obtención y aplicación de créditos, subsidios y financiamientos para la adquisición, construcción, remodelación, ampliación y mejora de vivienda en el Estado, y
 
-IX. Establecer, implantar y difundir las políticas internas para determinar los requisitos para obtener un crédito.
-
-X. Determinar, implantar y difundir las políticas internas para definir el monto, tiempo y forma de pago de los créditos.
-
-XI. Establecer e implantar los mecanismos, métodos o sistemas que faciliten a la población, la obtención de créditos para la adquisición, remodelación, ampliación y mejora de la vivienda.
-
-XII. Facilitar el acceso de los desarrolladores a los productos de las instituciones financieras para fomentar la construcción de vivienda.
-
-XIII. Proveer productos financieros, capacitación y asistencia técnica.
-
-XIV. Apoyar el fortalecimiento financiero e institucional del Instituto de la Vivienda.
-
-XV. Coordinarse con la Dirección de Operaciones y Administración para el debido seguimiento al cumplimiento de los planes y operación de los programas asignados a esta dirección.
-
-XVI. Informar oportunamente al Director General del Instituto, las actividades realizadas por esta área, coadyuvando en la toma de decisiones a fin de alcanzar los objetivos establecidos; y
-
-XVII. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+IX. Proponer acciones que apoyen el fortalecimiento financiero del Instituto.
 
 ###### Artículo 24.
 
@@ -415,21 +371,25 @@ IX. Apoyar la promoción y difusión de los planes y programas de desarrollo urb
 
 X. Promover, dirigir y supervisar los trámites necesarios para que los desarrolladores cuenten con permisos y costos por edificaciones y titulaciones que coadyuven en la reducción del costo de la vivienda.
 
-XI. Coordinarse con la Dirección de Operaciones y Administración para el debido seguimiento al cumplimiento de los planes y operación de los programas asignados a esta dirección; y (sic)
+XI. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
-XII. Informar oportunamente al Director General del Instituto, las actividades realizadas por esta área, coadyuvando en la toma de decisiones a fin de alcanzar los objetivos establecidos.
+XII. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
-XIII. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+XIII. (DEROGADA, P.O. 6 DE MAYO DE 2005)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 25.
 
-Además de las señaladas en el artículo 19 del presente reglamento interior, el Titular de la Unidad Jurídica del Instituto contará con las siguientes funciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Titular de la Unidad contará con las siguientes atribuciones:
 
 I. Representar al Instituto de la Vivienda del Estado de Nuevo León, en todos aquellos requerimientos o notificaciones de carácter legal y atender los asuntos legales contenciosos de Instituto.
 
 II. Integrar las leyes, políticas, normas y reglamentos en materia jurídica que apliquen al quehacer del Instituto, asegurando su difusión y cumplimiento.
 
-III. Diseñar, coordinar y supervisar la elaboración de concursos, títulos de propiedad, contratos, convenios, traspasos y cancelaciones que se requieran para que el Instituto lleve a cabo sus funciones en apego a las disposiciones del decreto de creación y a la Ley del Organismo.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2005)</small>
+
+III. Diseñar, coordinar y supervisar la elaboración de contratos, convenios, acuerdos, títulos de propiedad, traspasos, cancelaciones, y demás instrumentos, que requieran para que el Instituto lleve a cabo sus funciones en apego a las disposiciones jurídicas aplicables.
 
 IV. Coordinar y supervisar el proceso de regularización de la tierra propiedad del Instituto e integrar sus expedientes.
 
@@ -437,7 +397,7 @@ V. Coordinar y supervisar las acciones legales del Instituto y representarlo ant
 
 VI. Salvaguardar los intereses del Instituto, coordinando y supervisando la ejecución de los procesos legales y jurídicos que lo involucren.
 
-VII. Integrar y difundir las leyes, políticas, normas y reglamentos que en materia jurídica sean aplicables a las diferentes áreas del Instituto, verificando su correcta ejecución y aplicación.
+VII. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
 VIII. Asesorar y dar soporte a las diferentes áreas que integran el Instituto, con el fin de asegurar que las operaciones se realicen con apego a la ley y normatividad aplicable.
 
@@ -459,73 +419,63 @@ XVI. Atender las quejas e inconformidades que presenten los particulares con mot
 
 XVII. Plantear reformas o adiciones a las disposiciones jurídicas existentes que en materia de vivienda se consideren necesarias.
 
-XVIII. Coordinarse con la Dirección de Operaciones y Administración para el debido seguimiento al cumplimiento de los planes y operación de los programas asignados a esta dirección; y (sic)
+XVIII. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
-XIX. Informar oportunamente al Director General del Instituto, las actividades realizadas por esta área, coadyuvando en la toma de decisiones a fin de alcanzar los objetivos establecidos.
+XIX. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
-XX. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+XX. (DEROGADA, P.O. 6 DE MAYO DE 2005)
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 26.
 
-Además de las señaladas en el artículo 19 del presente reglamento interior, el Titular de la Unidad de Auditoría Interna del Instituto contará con las siguientes funciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Titular de la Unidad de Auditoria Interna contará con las siguientes atribuciones:
 
-I. Establecer, dirigir, coordinar e implantar Auditorías periódicas a los sistemas, procesos y procedimientos administrativos que involucren bienes y recursos del Instituto, vigilando el cumplimiento de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos, valores, compras, almacenes, contabilidad, contratos, convenios y pago de personal.
+I. Establecer, dirigir, coordinar e implantar auditorias internas periódicas a los sistemas, procesos y procedimientos administrativos que involucren bienes y recursos del Instituto, así como vigilar la transparencia y el cumplimiento de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos, valores, compras, almacenes, contabilidad, contratos, convenios y pago de personal;
 
-II. Establecer y monitorear en conjunto con las áreas del instituto, el cumplimiento de acciones correctivas y preventivas derivadas de los hallazgos detectados en las Auditorías.
+II. Atender, coordinar y supervisar las auditorias externas que se realicen en el Instituto, y desarrollar y monitorear en conjunto con las áreas del Instituto, las acciones correctivas y preventivas necesaria (sic) para solventar las observaciones de las auditorias;
 
-III. Elaborar el programa anual de Auditorías a las actividades del Instituto, vigilando la transparencia y cumplimiento de las disposiciones en materia de planeación, presupuesto, ingresos, financiamiento, inversión, deuda, patrimonio, fondos, valores, contabilidad, contratos, convenios y pago de personal.
+III. Elaborar el programa anual de auditorias internas a practicarse a las actividades del Instituto;
 
-IV. Coordinar y supervisar el diseño y elaboración de formas o reportes para asentar los hallazgos detectados y las acciones correctivas y/o preventivas producto de las Auditorias.
+IV. Coordinar y supervisar el diseño y elaboración de formas o reportes para asentar las observaciones y recomendaciones resultantes de las auditorias externas e internas y para presentar las acciones y preventivas producto de las auditorias;
 
-V. Coordinar y supervisar la ejecución de las Auditorias programadas.
+V. Coordinar y supervisar la ejecución de las auditorias programadas;
 
-VI. Coordinar y supervisar la elaboración de reportes de las Auditorias efectuadas, describiendo los errores u omisiones detectados.
+VI. Supervisar a las áreas del Instituto en la implementación y cumplimiento de la normatividad aplicable a los programas federales o de cualquier otra índole que se implementen en el Instituto;
 
-VII. Dirigir, coordinar y supervisar las juntas con las áreas involucradas en las Auditorias, con el fin de establecer las acciones de corrección y prevención necesarias y las fechas de cumplimiento.
+VII. Comunicar al Director General el avance del programa de auditorias, los resultados de las mismas y las acciones correctivas y preventivas realizadas o en proceso.
 
-VIII. Dar seguimiento y asegurar el cumplimiento a los compromisos de corrección y prevención establecidos en los reportes de Auditoria.
-
-IX. Coordinarse con la Dirección de Operaciones y Administración para el debido seguimiento al cumplimiento de los planes y operación de los programas asignados a esta dirección; y (sic)
-
-X. Comunicar al Director General y al Director de Operaciones y Administración del Instituto, el avance del programa de Auditorias, los resultados de las Auditorias practicadas y el avance a las acciones correctivas y preventivas establecidas.
-
-XI. Cualquier otra responsabilidad que le sea encomendada por el Director General del Instituto.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 27.
 
-Además de las señaladas en el artículo 19 del presente reglamento interior, el Titular de la Secretaría Particular del Director General del Instituto contará con las siguientes funciones:
+Además de las señaladas en el artículo 19 del presente reglamento interior, el Titular de la Unidad de Análisis Estadístico y Estudios Socioeconómicos contará con las siguientes atribuciones:
 
-I. Recibir, clasificar y turnar a las áreas correspondientes, los oficios y correspondencia recibida en el Instituto.
+I. Identificar los factores susceptibles de medición, que incidan en los costos y en el comportamiento del sector vivienda en el Estado, y llevar a cabo y supervisar la recopilación y actualización de la información, para generar reportes e índices estadísticos, que permitan determinar y difundir la situación y tendencia de este sector en el Estado, tanto en el medio rural como en el urbano;
 
-II. Dar seguimiento a la contestación oportuna de oficios y correspondencia.
+II. Integrar, administrar y operar un banco de datos en materia de vivienda, que proporcione informes actualizados sobre operaciones inmobiliarias de vivienda y suelo habitacional en el Estado;
 
-III. Llevar el control de la agenda de compromisos del Director General del Instituto.
+III. Supervisar y realizar estudios e investigaciones, para detectar los asentamientos de personas de escasos recursos económicos en el Estado, con necesidades de vivienda;
 
-IV. Organizar y presentar al Director General la documentación enviada por las diferentes áreas para su aprobación y firma.
+IV. Realizar y supervisar estudios, investigaciones y análisis, que permitan identificar el rezago de vivienda en el Estado, y proponer estrategias institucionales para solucionar dicho problema, con especial atención en las necesidades de las personas de escasos recursos económicos y de la tercera edad;
 
-V. Elaborar las actas de acuerdos tomados por el Director General con las diferentes áreas del Instituto.
+V. Operar y administrar sistemas para el intercambio de información en materia de vivienda, con los sectores público, social y privado;
 
-VI. Preparar las fichas e informes ejecutivos para el Director General.
+VI. Recopilar y difundir información, sobre los costos indirectos relativos a la urbanización de desarrollos habitacionales y a la construcción de vivienda en Nuevo León, y
 
-VII. Convocar a las diferentes áreas del instituto a reuniones y acuerdos de trabajo.
-
-VIII. Apoyar al Director General del Instituto en la elaboración de mensajes y discursos.
-
-IX. Mantener actualizado el directorio de Funcionarios del Gobierno del Estado.
-
-X. Apoyar al Director General en sus enlaces y comunicación con Funcionarios de Dependencias Municipales, Estatales y Federales; y,
-
-XI. Organizar, coordinar y controlar las actividades del Chofer Mensajero y Secretarías de Dirección.
+VII. Diseñar mecanismos, realizar y supervisar estudios socioeconómicos, para detectar, identificar y evaluar a los beneficiarios de los programas del Instituto.
 
 ### Capítulo IV
 
 #### Sección III. De la Suplencia de los Titulares
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
 ###### Artículo 28.
 
-Las ausencias temporales del Director General del Instituto, serán suplidas por el Director de Operaciones y Administración del Instituto y en ausencia de éste, por el Director que el mismo Director General designe.
+Las ausencias temporales del Director General serán suplidas por el Director que éste designe.
 
-Cuando la ausencia sea definitiva, el Gobernador del Estado de Nuevo León designará al servidor público que lo suplirá de forma interina hasta una nueva designación de acuerdo a la Ley.
+Cuando la ausencia sea definitiva, el Gobernador del Estado designará al servidor público que lo suplirá en forma interina, en tanto se designe un nuevo titular de acuerdo a la Ley.
 
 ###### Artículo 29.
 
@@ -544,3 +494,9 @@ INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN
 LIC. JUAN MANUEL FERNÁNDEZ GARCÍA
 
 DIRECTOR GENERAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 6 DE MAYO DE 2005.
+
+Artículo Único: Las presentes modificaciones al Reglamento Interior del Instituto de la Vivienda de Nuevo León entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
