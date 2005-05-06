@@ -4,7 +4,7 @@ identifier: "COA-ley-de-instituciones-politicas-y-procedimientos-electorales-231
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2005-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -1849,11 +1849,15 @@ El encuestador debe identificarse mediante un distintivo ante los ciudadanos que
 
 La encuesta no deberá recogerse en documentos que reproduzcan los emblemas y colores de los partidos políticos, ni en papeletas que tengan similitud con las boletas electorales.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
 ###### Artículo 192.
 
-No podrán practicarse encuestas públicas ni difundir sus resultados desde tres días antes de la jornada electoral y el día en que se realice dicha jornada, sin previa autorización del Instituto. El Consejo General para otorgar la autorización de levantar encuestas deberá estudiar la metodología que proponga el solicitante y fijar una fianza no inferior a la cantidad equivalente de veintiocho mil salarios mínimos vigentes en la capital del estado. En el caso de instituciones de educación superior con reconocimiento oficial en los términos de las disposiciones aplicables, la fianza a que se refiere este artículo, no será inferior a la cantidad equivalente de nueve mil trescientos salarios mínimos vigentes en la capital del estado.
+No podrán difundirse resultados de las encuestas públicas realizadas, tres días antes de la jornada electoral, ni el día de la jornada electoral, ni el día de la jornada antes de las veinte horas.
 
-La fianza garantizará que los resultados de la encuesta no se difundan antes de las veinte horas del día de la elección y el cumplimiento de la metodología aprobada para la realización de la encuesta. En caso de incumplimiento la fianza se hará efectiva a favor del patrimonio del Instituto, sin perjuicio de las demás sanciones aplicables a los infractores.
+El Consejo General para otorgar la autorización de levantar encuestas, deberá estudiar la metodología que proponga el solicitante y emitir en su caso la aprobación correspondiente.
+
+En caso de incumplimiento, se estará a lo dispuesto en las sanciones previstas en el presente ordenamiento. Las sanciones pecuniarias aplicables se harán efectivas a favor del patrimonio del Instituto, independientemente de las demás que correspondan a los infractores.
 
 ### CAPÍTULO SÉPTIMO. LA LIBERTAD Y SEGURIDAD JURÍDICA DE LAS ELECCIONES
 
@@ -2249,9 +2253,11 @@ Las resoluciones del Instituto, podrán ser recurridas ante las autoridades corr
 
 Las multas que imponga el Instituto deberán ser pagadas ante la Dirección General del Instituto en un plazo improrrogable de quince días contados a partir de la notificación. Transcurrido el plazo sin que el pago se hubiere efectuado, el Instituto podrá deducir el monto de la multa de las ministraciones del financiamiento público que correspondan.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2005)</small>
+
 ###### Artículo 239.
 
-Las infracciones en que incurran quienes practiquen encuestas públicas, por no ajustarse a la metodología aprobada por el Instituto o por difundir sus resultados dentro de los plazos prohibidos por la ley, se aplicarán por el Instituto atendiendo a la gravedad de la infracción, la cual nunca será inferior a trescientos mil pesos y se ejecutará haciendo efectiva la fianza que se hubiere otorgado al efecto.
+Se aplicará multa de trescientos mil a un millón quinientos mil pesos a quienes practiquen encuestas públicas, por no ajustarse a la metodología aprobada por el Instituto o por difundir sus resultados dentro de los plazos prohibidos por la ley. Esta multa será impuesta por el Instituto atendiendo a la gravedad de la infracción y circunstancias de ejecución.
 
 ###### Artículo 240.
 
@@ -2646,3 +2652,9 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. JOSE JESÚS RAUL SIFUENTES GUERRERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MAYO DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del gobierno del Estado.
