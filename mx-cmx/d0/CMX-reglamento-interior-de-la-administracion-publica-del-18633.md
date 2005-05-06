@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2005-03-11"
+last_updated: "2005-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE MAYO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -762,7 +762,7 @@ XIX. Las demás que le atribuyan expresamente las leyes, reglamentos, decretos y
 
 ### Capítulo V
 
-De las atribuciones generales de los titulares de las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal y la Coordinación General de Programas Metropolitanos.
+De las atribuciones generales de los titulares de las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal y la Coordinación General de Programas Metropolitanos
 
 ###### Artículo 30.
 
@@ -1184,7 +1184,7 @@ XLV. Las demás que le atribuyan expresamente los reglamentos y demás disposici
 
 ### Capítulo VII
 
-De las atribuciones generales de los titulares de las Direcciones Generales, Coordinaciones Generales, Procuraduría de la Defensa del Trabajo, Subtesorerías, Subprocuradurías y Direcciones Ejecutivas.
+De las atribuciones generales de los titulares de las Direcciones Generales, Coordinaciones Generales, Procuraduría de la Defensa del Trabajo, Subtesorerías, Subprocuradurías y Direcciones Ejecutivas
 
 ###### Artículo 37.
 
@@ -3882,7 +3882,7 @@ V. Opinar sobre los precios y tarifas de servicios turísticos que sometan a su 
 
 VI. Instrumentar en coordinación con instituciones, asociaciones y cámaras correspondientes, los mecanismos necesarios para el desarrollo de la cultura turística, la formación y actualización profesional del personal que preste servicios de turismo en el Distrito Federal, tanto del sector privado, como de los sectores social y público.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 21 DE MAYO DE 2002)</small>
 
 #### SECCION XI BIS. DE LA SECRETARÍA DE CULTURA
 
@@ -4376,7 +4376,9 @@ XXV. Recibir, evaluar y registrar para su seguimiento la información que en mat
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
-Artículo 101 B.- Corresponde a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las Dependencias, en el ámbito de su competencia las siguientes atribuciones:
+###### Artículo 101-B.
+
+Corresponde a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las Dependencias, en el ámbito de su competencia las siguientes atribuciones:
 
 > <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -4445,44 +4447,6 @@ XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley d
 > <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector.
-
-###### Artículo 101-B.
-
-Corresponde a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo encargadas de la administración en las Dependencias, Unidades Administrativas y Órganos Desconcentrados de la Administración Pública, en el ámbito de su competencia las siguientes atribuciones:
-
-I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo y Órganos Desconcentrados, conforme a las políticas, lineamientos, criterios y normas determinadas por la Oficialía Mayor y la Secretaría de Finanzas;
-
-II. Auxiliar a las Dependencias y Órganos Desconcentrados en los actos necesarios para el cierre del ejercicio anual, relacionados con los gastos por servicios personales y recursos materiales, de conformidad con los plazos legales y criterios emitidos por la Secretaría de Finanzas;
-
-III. Coordinar la integración de los datos que sobre recursos materiales y gastos por servicios personales, requieran las Dependencias y Órganos Desconcentrados para presentar sus informes trimestrales de avance programático-presupuestal y la información para la elaboración de la Cuenta Pública;
-
-IV. Participar en el registro de las erogaciones realizadas por servicios personales y recursos materiales;
-
-V. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
-
-VI. Elaborar el registro sobre el estricto control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación;
-
-VII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa, en el marco del Programa General de Desarrollo del Distrito Federal;
-
-VIII. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas de la Dependencia y sus áreas adscritas, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles, y la asignación y baja de los mismos;
-
-IX. Instrumentar, de conformidad con la Normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
-
-X. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realizan los titulares de las Dependencias, observando al efecto las disposiciones jurídicas y administrativas aplicables;
-
-XI. Aplicar al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados, las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, de información y servicios generales, de conformidad con las disposiciones jurídicas aplicables y los lineamientos que emita la Oficialía Mayor;
-
-XII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
-
-XIII. Realizar las acciones que permitan instrumentar al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
-
-XV. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requieran las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
-
-XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley de Obras Públicas, para la adecuada operación de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector; y
-
-XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de sector.
 
 #### SECCION XIII
 
@@ -5432,23 +5396,23 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2004)</small>
 
-#### SECCION V
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
-
 #### SECCION IV
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
 
 (REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
 
+#### SECCION V
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA DESCONCENTRADA
 
 ### Capítulo IX
 
-De las atribuciones generales de los titulares de las Direcciones de Área, Subdirecciones, Jefaturas de Unidad Departamental, así como de los Enlaces Administrativos y Lideres Coordinadores de Proyectos, de toda unidad administrativa.
+De las atribuciones generales de los titulares de las Direcciones de Área, Subdirecciones, Jefaturas de Unidad Departamental, así como de los Enlaces Administrativos y Lideres Coordinadores de Proyectos, de toda unidad administrativa
 
 > <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2004)</small>
 
@@ -5960,9 +5924,7 @@ XIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y ad
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 31 DE ENERO DE 2001)</small>
 
-### Capítulo III
-
-De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos.
+### Capítulo III. De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -6434,7 +6396,7 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 ###### Artículo 137.
 
-La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, a excepción de las fracciones XlX y XXlll, las siguientes atribuciones:
+La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, a excepción de las fracciones XIX y XXIII, las siguientes atribuciones:
 
 > <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
 
@@ -7858,9 +7820,21 @@ XXIX. Coadyuvar a establecer y coordinar los programas de abasto y comercializac
 
 XXX. Realizar acciones tendientes a la promoción turística de la demarcación territorial y del Distrito Federal;
 
-XXXI. Promover la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción de actividades industriales, comerciales y económicas en el marco del desarrollo sustentable; y
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2005)</small>
 
-XXXII. Las demás que le fijen expresamente las leyes y reglamentos.
+XXXI. Promover la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción de actividades industriales, comerciales y económicas en el marco del desarrollo sustentable;
+
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2005)</small>
+
+XXXII. Ordenar la ejecución de visitas domiciliarias y actos de inspección, así como la imposición de medidas de seguridad, correctivas o de urgente aplicación, dentro de la demarcación territorial, en los términos y condiciones establecidos en la Ley Ambiental del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2005)</small>
+
+XXXIII. Substanciar el procedimiento administrativo de visitas domiciliarias y actos de inspección, emitir las resoluciones e imponer las sanciones que correspondan, y
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2005)</small>
+
+XXXIV. Las demás que le fijen expresamente las leyes y reglamentos.
 
 ###### Artículo 186.
 
@@ -7903,8 +7877,6 @@ XII. Las demás que le atribuyen expresamente las leyes y reglamentos.
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION IV
-
-ADSCRITOS A LA SECRETARIA DE OBRAS Y SERVICIOS.
 
 ###### Artículo 189.
 
@@ -8218,7 +8190,7 @@ XIII. Analizar la problemática a la que se enfrenten los grupos y núcleos agra
 
 (DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 201.
 
@@ -8517,5 +8489,9 @@ G.O. 16 DE FEBRERO DE 2005.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 11 DE MARZO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE MAYO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
