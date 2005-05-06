@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-heroico-cuerpo-de-bomberos-del-distrito-16127"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-13"
-last_updated: "2000-04-13"
+last_updated: "2005-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16127&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-04-04"
 
 REGLAMENTO DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 6 DE MAYO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -737,3 +739,19 @@ Los lineamientos para el Dictamen de Prevención de Incendios, contemplarán las
 CUARTO.- De manera excepcional y por única ocasión el Director General propondrá a la Junta para su aprobación, el nombramiento y ascenso de miembros del Heroico Cuerpo de Bomberos, con la finalidad de poder dar soporte a la nueva estructura del Organismo.
 
 Dado en la residencia oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los cuatro días del mes de abril de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULO TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 6 DE MAYO DE 2005
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal de fecha 04 de abril del año 2000 y publicado el día 13 del mismo mes y año en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El presente Reglamento deberá ser divulgado por la Dirección General entre el personal operativo y el personal administrativo para su cumplimiento.
+
+CUARTO.- Quedan sin efectos todas aquellas disposiciones que se opongan a lo dispuesto por el presente Reglamento.
+
+QUINTO.- Los manuales de operación y demás instrumentos señalados en el presente Reglamento deberán expedirse en un plazo no mayor a 90 días naturales a partir de su publicación.
+
+SEXTO.- De manera excepcional y por única ocasión el Presidente del extinto Consejo de Honor y Justicia fungirá como Presidente del Consejo de Lealtad y Disciplina.
