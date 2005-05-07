@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-discapacitados-y-ancianos-del-116
 country: "mx"
 rank: "ley"
 publication_date: "1997-05-24"
-last_updated: "2004-09-11"
+last_updated: "2005-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY PARA LA PROTECCION DE LOS DISCAPACITADOS Y ANCIANOS
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA, SE DEROGAN TODAS AQUELLAS DISPOSICIONES DE LA LEY PARA LA PROTECCION DE LOS DISCAPACITADOS Y ANCIANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIODICO OFICIAL DE FECHA 24 DE MAYO DE 1997, EN LO CONCERNIENTE A LA MATERIA QUE REGULA EL PRESENTE DECRETO, ASI COMO TODAS LAS DEMAS DISPOSICIONES QUE SE OPONGAN AL MISMO, PUBLICADO EN EL PERIODICO OFICIAL EL 11 DE SEPTIEMBRE DE 2004.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA PUBLICADA EN EL P.O. EL 7 DE MAYO DE 2005, SE ABROGA LA PRESENTE LEY A LOS SESENTA DIAS NATURALES A PARTIR DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 24 de mayo de 1997.
 
@@ -628,3 +628,15 @@ SÉPTIMO.- Las obligaciones presupuestarias que se consignan en la presente Ley,
 Las transferencias financieras del Gobierno del Estado para el cumplimiento de los apoyos económicos establecidos en esta Ley, así como para la operación del Instituto se ajustarán a las disponibilidades presupuestarias programadas para cada ejercicio fiscal.
 
 OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado, tomará las medidas necesarias y llevará a cabo las acciones que procedan conforme a las disposiciones legales en materia presupuestaria, para apoyar financieramente al Instituto a efecto de que pueda operar administrativamente por los meses que restan del ejercicio fiscal 2004.
+
+P.O. 7 DE MAYO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 60 días naturales siguientes de su publicación en el Periódico Oficial «El Estado de Colima».
+
+SEGUNDO.- El Reglamento de esta Ley, en el cual se establecerá el procedimiento para la aplicación de las sanciones y demás disposiciones para instrumentar en todo el Estado la aplicación de la misma, deberá ser emitido en un plazo que no exceda de seis meses a partir de la entrada en vigor de la presente Ley.
+
+TERCERO.- Se abroga la Ley para la Protección de los Discapacitados y Ancianos del Estado de Colima, aprobada el 7 de mayo de 1997 mediante decreto número 287 publicada en el Periódico Oficial « El Estado de Colima» de fecha 24 del mismo mes y año, así como se derogan todas disposiciones que contravengan lo previsto en esta Ley.
+
+CUARTO.- La ejecución de las obras que el Gobierno Estatal y los Ayuntamiento del Estado, en el ámbito de sus respectivas competencias, deban efectuar para el acondicionamiento, la eliminación de barreras arquitectónicas y urbanos en edificios y vía pública, se efectuarán en los términos y plazos que la previsión presupuestal lo permita.
+
+QUINTO.- Los propietarios de inmuebles y prestadores del servicio público de transporte, contarán con un plazo de un año para hacer las adecuaciones previstas en esta Ley, excepto en aquellos casos en que se acredite la imposibilidad de efectuarlos, mediante dictamen pericial.
