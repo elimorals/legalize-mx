@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2000-02-12"
+last_updated: "2005-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2005.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -999,9 +999,11 @@ Cuando la intervención asuma la administración y control del organismo, las cu
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 47.
 
-La participación de los sectores privado y social en el servicio público de agua potable, alcantarillado y saneamiento en el Estado, se ajustará a lo dispuesto por los artículos 82 al 91 de la Ley Orgánica del Municipio Libre.
+La participación de los sectores privados y social en el servicio público de agua potable, alcantarillado y saneamiento en el Estado, se ajustará a lo dispuesto por los artículos del 95 al 109 de la Ley del Municipio Libre del Estado de Colima.
 
 ## TITULO CUARTO. PRESTACION DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -1580,3 +1582,7 @@ UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 12 DE FEBRERO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE MAYO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
