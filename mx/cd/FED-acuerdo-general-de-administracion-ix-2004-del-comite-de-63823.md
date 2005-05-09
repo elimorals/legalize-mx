@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ix-2004-del-comite-de-63823"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-09-27"
-last_updated: "2004-09-27"
+last_updated: "2005-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63823&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-09-27"
 
 ACUERDO GENERAL DE ADMINISTRACION IX/2004, DEL VEINTISIETE DE SEPTIEMBRE DE DOS MIL CUATRO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULAN LOS GASTOS DERIVADOS DEL TRASLADO DE LOS SERVIDORES PUBLICOS Y DOCENTES EXTERNOS QUE PARTICIPEN EN LOS PROGRAMAS DE DIFUSION DEL MARCO JURIDICO Y JURISPRUDENCIAL RELACIONADO CON ESTE ALTO TRIBUNAL, ASI COMO LAS CONDICIONES PARA SU EROGACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION IV/2005, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXI, MAYO DE 2005, PAGINA 1611 Y TOMO XXII, JULIO DE 2005, PAGINA 1583, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XX, Septiembre de 2004, página 1913.
 
@@ -110,3 +112,13 @@ SEGUNDO. Publíquese este acuerdo en el Semanario Judicial de la Federación y s
 TERCERO. En el mes de enero de dos mil cinco el secretario técnico jurídico deberá rendir al Comité de Gobierno y Administración un informe sobre los resultados de la aplicación de este acuerdo general.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G., TOMO XXI, MAYO DE 2005, PAGINA 1611 Y TOMO XXII, JULIO DE 2005, PAGINA 1583.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración IX/2004, del veintisiete de septiembre de dos mil cuatro, del Comité de Gobierno y Administración, por el que se regulan los gastos derivados del traslado de los servidores públicos y docentes externos que participen en los programas de difusión del marco jurídico y jurisprudencial relacionado con este Alto Tribunal, así como las condiciones para su erogación.
+
+TERCERO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
