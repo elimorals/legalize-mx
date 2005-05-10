@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-general-de-gobierno-23624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-01"
-last_updated: "2002-03-01"
+last_updated: "2005-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2005.
 
-Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1 de marzo de 2002.
+Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1o. de marzo de 2002.
 
 Al margen un sello con el Escudo Nacional que dice: Gobierno del Estado Libre y Soberano de Guerrero.- Poder Ejecutivo.
 
@@ -61,77 +61,95 @@ Al frente de la dependencia habrá un Secretario General, quien para el desempe�
 
 Para el estudio, programación y despacho de los asuntos que le competen, la Secretaría General de Gobierno, contará con las unidades administrativas siguientes:
 
-1.- Secretaría General de Gobierno:
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 1], P.O. 10 DE MAYO DE 2005)</small>
 
-I.- Secretaría Particular;
+A.- Secretaría:
 
-II.- Dirección General de Comunicación Social;
+I.- Dirección General de Comunicación Social, y
 
-III.- Dirección General del O P.D. Radio y Televisión de Guerrero;
+II.- Delegación Administrativa.
 
-IV.- Coordinación General de Asesores;
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 2], P.O. 10 DE MAYO DE 2005)</small>
 
-V.- Delegación administrativa, y
+B.- Subsecretaría de Gobierno para Asuntos Jurídicos y Derechos Humanos:
 
-VI.- Sistema Estatal de Archivos.
+I.- Dirección General de Asuntos Jurídicos;
 
-2.- Subsecretaría de Gobierno para Asuntos Jurídicos:
+II.- Dirección General del Servicio de Defensoría de Oficio;
 
-I.- Dirección General de Asuntos jurídicos;
+III.- Dirección General de Seguimiento, Control y Evaluación de Asuntos de Derechos Humanos;
 
-II.- Dirección General del Registro Publico de la Propiedad del Estado;
+IV.- Dirección General del Registro Público de la Propiedad del Comercio y Crédito Agrícola;
 
-III.- Dirección General del Servicio de Defensoría de Oficio;
+V.- Dirección General de Consultoría y Apoyo Técnico;
 
-IV.- Dirección General de Seguimiento, Control y Evaluación de Asuntos de Derechos Humanos;
+VI.- Dirección General del Periódico Oficial;
 
-V.- Dirección General de Consultoría de Apoyo Técnico;
+VII.- Coordinación Técnica del Sistema Estatal del Registro Civil, y
 
-VI.- Dirección General del Periódico Oficial de Gobierno del Estado, y
+VIII.- Unidad de Archivo y Documentación.
 
-VII.- Coordinación Técnica del Sistema Estatal del Registro Civil.
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 3], P.O. 10 DE MAYO DE 2005)</small>
 
-3.- Subsecretaria de Gobierno de Desarrollo Político:
+C.- Subsecretaría de Gobierno de Desarrollo Político:
 
-I.- Dirección General de Gobierno;
+I.- Dirección General de Gobernación, y
 
-II.- Dirección General de Actividades Cívicas, y
+II.- Dirección General de Actividades Cívicas.
 
-III.- Dirección General de la Comisión Técnica de Transporte y Vialidad.
+a).- Dirección de Banda u Orquesta.
 
-4.- Subsecretaría de Gobierno para Asuntos Agrarios:
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 4], P.O. 10 DE MAYO DE 2005)</small>
 
-I.- Dirección General Asuntos Agrarios;
+D.- Subsecretaría de Gobierno para Asuntos Agrarios:
 
-I.- Dirección General de Apoyo Técnico y Administrativo;
+I.- Dirección General de Asuntos Agrarios;
 
-III.- Dirección General de Límites Territoriales y Remunicipalización;
+II.- Dirección de Apoyo Técnico y Administrativo;
 
-IV.- Dirección General de la Regulación de la Tenencia de la Tierra, y
+III.- Dirección de Límites Territoriales y Remunicipalización, y
 
-IV.- Procuraduría de Defensa de los Campesinos del Estado.
+IV.- Dirección de Regularización de la Tenencia de la Tierra y Organización Básica.
 
-5.- Subsecretaría del Trabajo y Previsión Social:
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 5], P.O. 10 DE MAYO DE 2005)</small>
 
-I.- Dirección General del Trabajo;
+E.- Subsecretaría del Trabajo y Previsión Social:
 
-a).- Procuraduría de la Defensa del Trabajo;
+I.- Dirección General del Trabajo y Previsión Social;
 
-II.- Dirección General del Servicio Estatal de Empleo, y
+II.- Procuraduría de la Defensa del Trabajo, y
 
-III.- Las Juntas de Conciliación y Arbitraje de Chilpancingo, Acapulco, Zihuatanejo, Coyuca de Catalán e Iguala.
+III.- Dirección General del Servicio Estatal del Empleo.
 
-6.- Subsecretaría de Gobierno para Asuntos Religiosos:
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 6], P.O. 10 DE MAYO DE 2005)</small>
+
+F.- Subsecretaría de Gobierno para Asuntos Religiosos:
 
 I.- Dirección General de Normatividad y Gestión, y
 
 II.- Dirección General de Información y Estadísticas Religiosas.
 
-7.- Las Delegaciones Generales de Gobierno de Acapulco, Costa Chica, Costa Grande, Montaña, Tierra Caliente, Zona Centro y Zona Norte, como Organos Administrativos Desconcentrados.
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 7], P.O. 10 DE MAYO DE 2005)</small>
 
-La Secretaría General de Gobierno contará con el número de asesores y órganos técnicos y administrativos necesarios para el desarrollo de sus funciones, de acuerdo con el presupuesto respectivo.
+G.- Organos Desconcentrados:
 
-Las dependencias que dependan directamente del Gobernador del Estado y del Secretario General de Gobierno, se coordinaran con las Subsecretarías del Ramo.
+I.- Delegaciones Generales de Gobierno de Acapulco, Centro, Costa Chica, Costa Grande, Tierra Caliente, Montaña y Norte;
+
+II.- Comisión Técnica de Transporte y Vialidad;
+
+III.- Procuraduría de la Defensa de los Campesinos;
+
+IV.- Juntas Locales de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+H.- De los Organos Sectorizados, de Coordinación y Apoyo Técnico:
+
+I.- Radio y Televisión de Guerrero;
+
+II.- Consejo Tutelar para Menores Infractores;
+
+III.- Consejo Estatal de Población.
 
 ###### ARTICULO 6.
 
@@ -187,23 +205,35 @@ XIX.- Desempeñar las comisiones y funciones especiales que el Gobernador del Es
 
 XX.- Someter a la consideración del Gobernador del Estado, para su resolución, cualquier duda sobre la competencia de las dependencias a las que se refiere la Ley Orgánica de la Administración Pública del Estado;
 
-XXI.- Proponer al Gobernador del Estado, la creación de organismos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+
+XXl.- Proponer al Gobernador del Estado, la creación de organismos que coadyuve con la Secretaría;
 
 XXII.- Establecer las Comisiones y Comités Internos que sean necesarios para la mejor instrumentación de los programas y asuntos encomendados, designando a sus miembros e integrantes;
 
-XXIII.- Aprobar la organización y funcionamiento de la Secretaría General de Gobierno y autorizar las modificaciones internas de las distintas unidades administrativas;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
-XXIV.- Aprobar y ordenar la publicación de los manuales de organización, de procedimientos y de servicios al público, en coordinación con la dependencia encargada de la modernización administrativa;
+XXIII.- Aprobar la organización y funcionamiento de la Secretaría General de Gobierno y autorizar las modificaciones internas de las distintas unidades administrativas, con la intervención que para el caso compete a la Secretaría de Finanzas y Administración y la Contraloría General;
 
-XXV.- Aprobar los organigramas de las dependencias u organismos del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+
+XXIV.- Aprobar y ordenar la publicación de los manuales de organización, de procedimientos y de servicios al público, en coordinación con la Contraloría General del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+
+XXV.- Implantar y vigilar la óptima ejecución de los programas y acciones correspondientes al ámbito de competencia de la Secretaría;
 
 XXVI.- Aprobar las concesiones, permisos o autorizaciones que dispongan los ordenamientos legales respectivos;
 
 XXVII.- Determinar, en los casos concretos que lo ameriten, en acuerdo con los Subsecretarios respectivos, la forma en que sus labores deban coordinarse;
 
-XXVIII.- Dictar acuerdos de adscripción orgánica de las unidades administrativas, de delegación de facultades y de desconcentración de funciones;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
-XXIX.- Definir los programas de modernización y simplificación administrativa de la Secretaría General de Gobierno;
+XXVIII.- Dictar acuerdos de adscripción orgánica de las unidades administrativas, de delegación de facultades y de desconcentración de funciones, informando de ello a la Secretaría de Finanzas y Administración y a la Contraloría General del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+
+XXIX.- Diseñar y establecer estrategias y acciones orientadas a la racionalización y transparencia en la aplicación del presupuesto y todos los recursos afines a la dependencia;
 
 XXX.- Dictar acuerdos que fijen los criterios de ejercicio de facultades discrecionales, conforme lo dispongan las leyes;
 
@@ -215,7 +245,9 @@ XXXIII.- Aprobar y expedir las condiciones de trabajo de la Secretaría General 
 
 XXXIV.- Tramitar y resolver los recursos administrativos de su ramo que le competan al Gobernador del Estado por disposición de las Leyes;
 
-XXXV.- Someter a la consideración del Gobernador, previo dictamen de la Secretaría de Finanzas y Administración, los programas sectoriales a cargo del sector, vigilando su congruencia con el Plan Nacional de Desarrollo y coordinar su ejecución, control y evaluación;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+
+XXXV.- Someter a la consideración del Gobernador, previo dictamen de la Secretaría de Desarrollo Social, los programas sectoriales a cargo del sector, vigilando su congruencia con el Plan Nacional de Desarrollo y coordinar su ejecución, control y evaluación;
 
 XXXVI.- Proporcionar los datos de las labores realizadas por la Secretaría General de Gobierno, para la formulación del Informe de Gobierno;
 
@@ -225,11 +257,15 @@ XXXVIII.- Las demás que le dicte la legislación vigente del Estado, así como 
 
 No se consideran delegación los casos en que opere el régimen de suplencias previsto por este Reglamento, ni el ejercicio de facultades atribuidas por éste a servidores públicos subalternos y que, por su naturaleza, concurran al debido desempeño de las conferidas al Secretario.
 
-### CAPITULO IV. DE LAS ATRIBUCIONES DE LOS SUBSECRETARIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 2005)</small>
+
+### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS y ESPECIFICAS DE LOS SUBSECRETARIOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 10 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 9.
 
-Los Subsecretarios tendrán las siguientes atribuciones:
+Los Subsecretarios de Gobierno tendrán las atribuciones genéricas siguientes:
 
 I.- Acordar con el Secretario General de Gobierno, el despacho de los asuntos a su cargo y los de las unidades administrativas que se les hubieren adscrito e informarle de las actividades llevadas a cabo;
 
@@ -241,7 +277,7 @@ IV.- Contribuir a la formulación, ejecución, control y evaluación de los prog
 
 V.- Desempeñar las comisiones que el Secretario General de Gobierno les encomiende y mantenerlo informado sobre su desarrollo;
 
-VI.- Formular los proyectos de leyes, reglamentos, decretos, y ordenes de los asuntos de su competencia, con la participación de la Subsecretaría de Gobierno para Asuntos Jurídicos, así como los dictámenes, opiniones e informes que le sean solicitados por el Secretario General de Gobierno;
+VI.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 VII.- Dirigir, fijar criterios, planear, organizar y evaluar el funcionamiento de las unidades administrativas a ellos adscritas y coordinar las actividades de éstas con las adscritas al Secretario General de Gobierno y a los demás Subsecretarios;
 
@@ -249,11 +285,11 @@ VIII.- Apoyar al Secretario General de Gobierno en la coordinación de las entid
 
 IX.- Someter a la aprobación del Secretario General de Gobierno, los programas, estudios y proyectos elaborados en el área de su responsabilidad;
 
-X.- Someter a la consideración del Secretario General de Gobierno los proyectos de manuales de organización interna de de las diversas unidades administrativas que se les hubieren adscrito, con forme a los lineamientos y dictamen de la dependencia o unidad administrativa correspondiente;
+X.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 XI.- Participar, en el ámbito de sus competencias, en la ejecución del Plan Estatal de Desarrollo;
 
-XII.- Someter a consideración del Secretario General de Gobierno, los nombramientos de los Directores Generales de Area y Jefes de Departamento de las unidades administrativas adscritas bajo su responsabilidad, salvo disposición en contrario;
+XII.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 XIII.- Proponer al Secretario General de Gobierno, la delegación de facultades en servidores públicos subalternos, de las facultades que tengan encomendadas y promoverla desconcentración y descentralización de la dependencia y una vez acordadas, llevarlas a cabo;
 
@@ -277,37 +313,145 @@ XXII.- Presidir, coordinar y participar en los Comités y Comisiones que le enco
 
 XXIII.- Las demás que les señalen otras disposiciones legales o administrativas, así como aquellas que les confiera el Secretario General de Gobierno.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 9-A.
+
+El Titular de la Subsecretaría de Gobierno para Asuntos Jurídicos y de Derechos Humanos, tendrá las atribuciones específicas siguientes:
+
+I.- Formular los proyectos de leyes, reglamento, decretos, acuerdos y opiniones e informes que le sea solicitado por el Secretaria General de Gobierno;
+
+II.- Someter a consideración del superior jerárquico las leyes, decretos, reglamentos, acuerdos y demás de los posiciones, que el Gobernador, promulgue, expida o autorice para su refrendo por el Secretario General de Gobierno;
+
+III.- Someter a la consideración del Secretario General de Gobierno, los proyectos de manuales de organización interna de las diversas unidades administrativas que se hubieren adscrito, conforme a los lineamientos y dictámenes que establezca y emita la Contraloría General del Estado;
+
+IV.- Poner a consideración del Secretario General de Gobierno, los Nombramientos de los Directores Generales, Directores de Areas y Jefes de Departamento de las Unidades Administrativas de la Secretaría;
+
+V.- Actuar como órgano de consulta en los asuntos que le encomiende el superior jerárquico;
+
+VI.- Apoyar al Secretario con la información que requiera sobre las actividades del área de su adscripción para el desarrollo de las comparecencias de éste ante el Congreso del Estado, y
+
+VII.- Las demás que le confieran otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 9-B.
+
+El Titular de la Subsecretaría de Gobierno de Desarrollo Político, tendrá las atribuciones específicas siguientes:
+
+I.- Apoyar al Secretario General de Gobierno, en la conducción de la política interna del Estado;
+
+II.- Apoyar y asesorar al Secretario General de Gobierno, en sus comparecencias ante el Congreso del Estado, en los supuestos que establece el artículo 8 fracción XIII de este Reglamento;
+
+III.- Acordar con el Secretario General de Gobierno, los programas en materia de desarrollo político que prevé el Plan Estatal de Desarrollo;
+
+IV.- Desempeñar las comisiones y funciones especiales que el Secretario General de Gobierno, le confiera y mantenerlo informado del desarrollo y resultado de las mismas;
+
+V.- Coordinar y vigilar la puntual operación y cumplimiento de las atribuciones que la legislación vigente establece y las funciones y comisiones que le sean encomendadas a las Direcciones de Gobernación, Comisión Técnica de Transporte y Vialidad y Actividades Cívicas;
+
+VI.- Determinar en los casos concretos que lo amerite, en acuerdo con los Directores Generales y las áreas de apoyo a su cargo la forma en que deban coordinarse en sus labores;
+
+VII.- Proponer al Secretario General de Gobierno, los nombramientos de las Direcciones Generales que integran la Subsecretaría;
+
+VIIl.- Coadyuvar en la solución de controversias que se susciten en la Entidad, en coordinación con otras dependencias y los Ayuntamientos Municipales;
+
+IX.- Fomentar el Desarrollo Político y ejercer las atribuciones que en materia electoral le señalen las leyes vigentes o los convenios que para ese efecto se celebren;
+
+X.- Apoyar al Secretario General de Gobierno, en el fortalecimiento de los vínculos políticos con las Organizaciones Políticas y Sociales, Partidos Políticos y Gobiernos Municipales para fortalecer la vida democrática y el desarrollo político;
+
+XI.- Apoyar al Secretario General de Gobierno, en la coordinación y supervisión de la puntual operación y funcionamiento de las Delegaciones Generales de Gobierno, en las regiones geoeconómicas del Estado; y
+
+XII.- Las demás que le dicte la legislación vigente del Estado, así como aquellas que con el carácter de no delegables le confiera el Secretario General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 9-C.
+
+El Titular de la Subsecretaría de Gobierno para Asuntos Agrarios, tendrá las atribuciones específicas siguientes:
+
+l.- Representar al Secretario General de Gobierno en las sesiones del Consejo Agrario Estatal;
+
+II.- Informar sobre las acciones que en política agraria desarrolla el Gobierno del Estado, para los informes de Gobierno respectivos;
+
+III.- Conceder audiencias a los campesinos y a sus representantes que planteen problemas de carácter agrario, realizar un estudio y proponer a las partes alternativas de solución;
+
+IV.- Intervenir como mediador a petición de algunas de las partes de un conflicto agrario, buscado solución del conflicto, a través de la suscripción de un convenio conciliatorio;
+
+V.- Emitir los informes previos y justificados en los juicios de amparo promovidos por ejidatarios o núcleos de población ejidal, en los cuales el acto reclamado se relacione con cuestiones agrarias y que se señale como Autoridad responsable al Titular del Poder Ejecutivo del Estado o al Secretario General de Gobierno;
+
+VI.- Gestionar ante las áreas competentes la integración de los expedientes técnicos, que den soporte a las solicitudes de expropiación de tierras ejidales o comunales, que deban presentarse ante la Secretaría de la Reforma Agraria;
+
+VII.- Validar la integración de los expedientes técnicos, relativos a la solicitud de creación de nuevos municipios para ser remitidos a la Secretaría de Gobierno para Asuntos Agrarios;
+
+VIII.- Dar seguimiento puntual a los programas que establezca el Gobierno Federal a favor de los ejidatarios, comuneros o núcleos de población del Estado, que tengan por objeto, la regularización de la Tenencia de la Tierra y el respeto a los derechos ejidales;
+
+IX.- Presidir, coordinar y participar en las comisiones y comités que le encomiende el Secretario General de Gobierno, y
+
+X.- Las demás que le encomiende el Secretario General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 9-D.
+
+El Titular de la Subsecretaría del Trabajo y Previsión Social, tendrá las atribuciones específicas siguientes:
+
+I.- Vigilar que las empresas o centros de trabajo de jurisdicción local, den cumplimiento al artículo 123 Constitucional, a la Ley Federal del Trabajo, y a los reglamentos y demás disposiciones reglamentarias en materia laboral;
+
+II.- Participar en la determinación de lineamientos que en materia de trabajo deben aplicarse en el Estado, así como aprobar las normas y técnicas que sean procedentes en la materia;
+
+III.- Promover en materia de trabajo, el establecimiento de mecanismos de colaboración y coordinación con otras entidades del sector público, así como con los sectores social y privado;
+
+IV.- Intervenir en forma conciliatoria en las diferencias o conflictos obrero patronales en que se seleccionen los intereses de los trabajadores apelando a los recursos procedentes para llegar a una solución;
+
+V.- Prevenir en lo posible los conflictos laborales, citando a las partes interesadas para solucionar en forma conciliatoria y conforme a derecho las discrepancias existentes, evitando así la etapa contenciosa y haciendo constar los resultados en acta circunstanciada;
+
+VI.- Operar el Programa Estatal de Capacitación para Desempleados en sus diferentes modalidades, auxiliándose para ello de oficinas regionales en Chilpancingo, Acapulco, Zihuatanejo; Pungarabato, Tlapa, Iguala y Ometepec;
+
+VII.- Establecer coordinación con el Servicio Nacional de Empleo, para efectos de operar el PROBECAT en el Estado, adoptando una estricta vigilancia en el cumplimientos de la normatividad del mismo y en lo que se refiere al ejercicio de los recursos federales y estatales aplicables al pago de becas, instructores, paquetes de herramientas y recursos destinados para gasto corriente, utilizados en salarios, papelería y viáticos para el personal operativo y el funcionamiento de las oficinas centrales y regionales;
+
+VIII.- Establecer acciones de coordinación con las Universidades Públicas y Privadas existentes en el Estado, así como con las instituciones que imparten educación profesional técnica a fin de lograr una capacitación integral de los recursos humanos de la entidad;
+
+IX.- Establecer acciones de coordinación con los distintos sectores económicos, a efecto de capacitar los recursos humanos con base en las necesidades del aparato productivo y en congruencia con las políticas de desarrollo laboral y social de la entidad;
+
+X.- Operar la bolsa de trabajo estatal, con el objetivo de vincular a los solicitantes de empleo debidamente capacitados para el trabajo, con las oportunidades o necesidades que requiera el aparato productivo para su consolidación y crecimiento;
+
+XI.- Llevar a cabo campañas de promoción y difusión acerca de las acciones inherentes al Servicio Estatal de Empleo;
+
+XII.- Promover la conciliación en las controversia laborales que se susciten entre trabajador y patrón en la primera audiencia de conciliación, y
+
+XIIl.- Conocer los emplazamientos a huelga de los centros de trabajo de la Entidad, presentados entre la misma, con el fin de citar a las partes a las pláticas conciliatorias.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 9-E.
+
+El Titular de la Subsecretaría de Gobierno para Asuntos Religiosos, tendrá las atribuciones específicas siguientes:
+
+l.- Diseñar programas y acciones tendientes a garantizar la libertad de creencias, de cultos religiosos y el respeto a la pluralidad y tolerancia religiosa en la entidad;
+
+II.- Representar al Gobierno del Estado ante la Secretaría de Gobernación y establecer mecanismos de coordinación para implementar acciones a favor de los derechos y libertades religiosas de los habitantes del Estado;
+
+III.- Representar al Gobierno del Estado, ante las estructuras de las iglesias, agrupaciones y asociaciones religiosas;
+
+IV.- Informar al Secretario General de Gobierno, el estado que guardan los asuntos religiosos en la Entidad;
+
+V.- Establecer mecanismos de coordinación con autoridades federales, estatales y municipales para la atención eficiente de los asuntos religiosos;
+
+VI.- Rendir los informes correspondientes en materia religiosa que le sean solicitados al Secretario General de Gobierno, respecto de asuntos de interés general o de las autoridades competentes, y
+
+VII.- Las demás que le confieran otros ordenamientos legales.
+
 ### CAPITULO V. DE LAS AREAS ADSCRITAS A LA SECRETARIA GENERAL DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 10.
 
-Quedan adscritas directamente al titular de la Secretaría General de Gobierno: Secretaría Particular, Dirección General de Comunicación Social; Dirección General del O.P.D. Radio y Televisión de Guerrero; Coordinación General de Asesores; Delegación Administrativa y Sistema Estatal de Archivos.
+Quedan adscritas directamente al titular de la Secretaría General de Gobierno: la Delegación Administrativa y la Dirección General de Comunicación Social.
 
 ###### ARTICULO 11.
 
-La Secretaría Particular tendrá las atribuciones siguientes:
-
-I.- Atender la Agenda de Secretario General;
-
-II.- Desahogar la audiencia de la Secretaría General de Gobierno;
-
-III.- Recibir y registrar la correspondencia dirigida al Titular de la dependencia;
-
-IV.- Analizar y clasificar la correspondencia de acuerdo con su naturaleza;
-
-V.- Turnar a las unidades administrativas internas o externas la documentación recibida, según su ámbito de su competencia y las políticas fijadas por la superioridad;
-
-VI.- Despachar toda la correspondencia concerniente a los asuntos de la Secretaría General y recabar los correspondientes acuses de recepción;
-
-VII.- Operar y administrar el banco de datos en el que se registren la recepción de documentos, trámite instruido y el seguimiento respectivo;
-
-VIII.- Coordinar sus labores con las demás unidades administrativas internas o externas, otorgando y solicitando los informes que resulten indispensables;
-
-IX.- Realizar las labores de orientación al público;
-
-X.- Informar al público usuario los datos generales sobre los avances en su petición, coordinándose con las demás unidades administrativas, internas y externas para tal efecto, y
-
-XI.- Presentar al Secretario General de Gobierno los informes periódicos de acuerdo con la información que aparezca en la base de datos.
+(DEROGADO, P.O. 10 DE MAYO DE 2005)
 
 ###### ARTICULO 12.
 
@@ -325,29 +469,7 @@ V.- Coordinar las reuniones de prensa del Secretario General de Gobierno y demá
 
 ###### ARTICULO 13.
 
-La Coordinación General de Asesores, tendrá las atribuciones siguientes:
-
-I.- Dar seguimiento a los acuerdos del Secretario General de Gobierno;
-
-II.- Elaborar los Acuerdos del Secretario General de Gobierno con el Gobernador del Estado;
-
-III.- Elaborar los documentos especiales del Secretario General de Gobierno;
-
-IV.- Evaluar el contenido de la correspondencia y determinar su atención;
-
-V.- Analizar la información de la prensa para detectar lo relacionado con la Secretaría General;
-
-VI.- Atender los asuntos relacionados con la coordinación General de Asesores del Gobernador del Estado; la Coordinación General de Control Gubernamental y COPLADEG;
-
-VII. - Coordinar las acciones de la Campaña Estatal de Alfabetización "Ignacio Manuel Altamirano";
-
-VIII. - Llevar el seguimiento y control de compromisos con otras dependencias y entidades de la Administración Pública, Estatal, Federal y Municipal;
-
-IX.- Elaborar análisis informativos y documentos especiales;
-
-X.- Diseñar las políticas, estrategias de coordinación Interinstitucional, y
-
-XI.- Diseñar y participar en programas de desarrollo organizacional.
+(DEROGADO, P.O. 10 DE MAYO DE 2005)
 
 ###### ARTICULO 14.
 
@@ -385,7 +507,7 @@ XV.- Controlar el sistema de archivo de las unidades administrativas de la Secre
 
 ###### ARTICULO 15.
 
-La Dirección General del O.P.D. Radio y Televisión de Guerrero y el Sistema Estatal de Archivos, se regularán en los términos que dispongan su Ley o Decreto que los crea.
+(DEROGADO, P.O. 10 DE MAYO DE 2005)
 
 ### CAPITULO VI. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES GENERALES
 
@@ -569,9 +691,11 @@ IX.- Llevar la estadística en materia de derechos humanos del Estado, y
 
 X.- Proponer al superior jerárquico y ejecutar las medidas para vigilar que las autoridades del Estado cumplan con los derechos humanos. Para el efecto anterior, deberá informar a la superioridad los casos de dilación u omisión de los servidores públicos, respecto de los requerimientos de información formulados por la Dirección en acatamiento a las fracciones VI y VII del presente artículo, para que en caso de ser procedente se aplique la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 21.
 
-La Dirección General del Registro Público de la Propiedad del Estado, tendrá las siguientes atribuciones:
+La Dirección General del Registro Público de la Propiedad del Comercio y Crédito Agrícola, tendrá las siguientes atribuciones:
 
 I.- Ejercer la función directiva del Registro Público de la Propiedad, coordinando las actividades registrales de las oficinas regionales;
 
@@ -597,7 +721,7 @@ La Dirección General de Consultoría y Apoyo Técnico, tendrá las siguientes a
 
 I.- Tramitar la presentación de las iniciativas de leyes y decretos del Ejecutivo, ante el Congreso del Estado;
 
-II.- Someter a consideración del superior jerárquico las Leyes, Decretos, Reglamentos, Acuerdos y demás disposiciones que el Gobernador promulgue, expida o autorice, para su refrendo por el Secretario General;
+II.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 III.- Tramitar las pensiones otorgadas por el Gobierno del Estado a sus trabajadores;
 
@@ -607,7 +731,7 @@ V.- Revisar los convenios, contratos y todo tipo de actos jurídicos en que sea 
 
 VI.- Remitir los documentos que vayan a ser publicados en el Periódico Oficial del Gobierno del Estado, cuando se realice a través de la Secretaría General de Gobierno;
 
-VII.- Actuar como órgano de consulta en los asuntos que le encomiende el superior jerárquico;
+VII.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 VIII.- Integrar los expedientes personales y tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los Magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo, Consejeros de la Judicatura Estatal correspondientes y, en general, de todo Tribunal Administrativo y Juntas Locales de Conciliación y Arbitraje del Estado;
 
@@ -675,13 +799,19 @@ XI.- Otorgar autorizaciones administrativas de registros extemporáneos de nacim
 
 XII.- Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 24
+
+BIS.- La Unidad de Archivo y Documentación, se regulará en los términos que disponga la Ley que la crea.
+
 ### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES DE LA SUBSECRETARIA DE GOBIERNO DE DESARROLLO POLITICO
 
 ###### ARTICULO 25.
 
 La Dirección General de Gobernación, tendrá las siguientes atribuciones:
 
-I.- Otorgar apoyo a sus superiores jerárquicos en la ejecución de las medidas acordadas para la debida conducción de las relaciones del Poder Ejecutivo con otros Poderes del Estado, con los Ayuntamientos de la Entidad y con las demás autoridades en el Estado;
+I.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 II.- Auxiliar al Titular de la Secretaría General de Gobierno, en sus relaciones con los ciudadanos y las organizaciones;
 
@@ -691,7 +821,7 @@ IV.- Analizar los procesos políticos y poner en práctica estrategias que contr
 
 V.- Apoyar las tareas que realice la Secretaría General de Gobierno, para fomentar el desarrollo político en el Estado y el fortalecimiento institucional;
 
-VI.- Coadyuvar con las autoridades electorales en el debido cumplimiento de sus funciones, en los términos que dispongan las leyes;
+VI.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 VII.- Auxiliar a las autoridades en materia de registro de electores;
 
@@ -705,13 +835,13 @@ XI.- Integrar la carpeta política y mantenerla actualizada, coordinando y jerar
 
 XII.- Auxiliar al Secretario General de Gobierno, en las funciones que le confieran las leyes, reglamentos, convenios u otras disposiciones jurídicas relativas, en materia electoral;
 
-XIII.- Participar en la coordinación y supervisión de la puntual operación y funcionamiento de las Delegaciones Generales de Gobierno, en las regiones geoeconómicas del Estado
+XIII.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 XIV.- Auxiliar y coordinarse con las autoridades federales, de acuerdo con las disposiciones jurídicas aplicables y las políticas establecidas en la Secretaría General de Gobierno, en materia de loterías, rifas, sorteos y juegos, clubes de caza, tiro y pesca, así como portación de armas, uso de explosivos, detonantes y pirotecnia;
 
 XV.- Coadyuvar en la vigilancia de la permanencia, conducta y situación migratoria de extranjeros que residen en el Estado, en los términos que fijen los ordenamientos jurídicos aplicables;
 
-XVI.- Elaborar los estudios relativos a los limites geográficos, demográficos, políticos, electorales, de erección, agregación y segregación, cambios de categoría política de pueblos y municipios;
+XVI.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 XVII.- Orientar a las autoridades municipales, respecto al ejercicio de sus atribuciones;
 
@@ -741,7 +871,7 @@ VIII.- Promover el intercambio cívico dentro y fuera del Estado.
 
 ###### ARTICULO 27.
 
-La Dirección General de la Comisión Técnica de Transporte y Vialidad, tendrá las atribuciones que le señala la Ley y Reglamento que la crea.
+(DEROGADO, P.O. 10 DE MAYO DE 2005)
 
 ### CAPITULO IX. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES DE LA SUBSECRETARIA DE GOBIERNO PARA ASUNTOS AGRARIOS
 
@@ -773,9 +903,11 @@ XI.- Suscribir por ausencia del Subsecretario de Gobierno para Asuntos Agrarios,
 
 XII.- Las demás que le instruyan los superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 29.
 
-La Dirección de Apoyo Técnico Administrativo, tendrá las siguientes atribuciones:
+La Dirección de Apoyo Técnico y Administrativo, tendrá las siguientes atribuciones:
 
 I.- Coordinarse con las instancias del sector agrario para la solución de la problemática agraria;
 
@@ -795,9 +927,11 @@ VIII.- Trámite administrativo del personal, y
 
 IX.- Coordinación y apoyo logístico en eventos del sector agrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 30.
 
-La Dirección General de Límites Territoriales y Remunicipalización, tendrá las atribuciones siguientes:
+La Dirección de Límites Territoriales y Remunicipalización, tendrá las siguientes atribuciones:
 
 I.- Vigilar y controlar la correcta demarcación y conservación de los límites territoriales del Estado con las entidades federativas vecinas y de los municipios entre sí;
 
@@ -815,9 +949,11 @@ VII.- Proporcionar datos cartográficos a las Instituciones que lo soliciten;
 
 VIII.- Participar en las reuniones del Programa de Incorporación de Suelo Urbano para el Desarrollo Social (PISO).
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 31.
 
-La Dirección de Regularización de la Tenencia de la Tierra, tendrá las siguientes funciones:
+La Dirección de Regularización de la Tenencia de la Tierra y Organización Básica, tendrá las siguientes atribuciones:
 
 I.- Elaborar las solicitudes de expropiación de inmuebles de régimen social, por causa de utilidad pública, así como los proyectos de convenios de ocupación previa de la superficie a expropiar;
 
@@ -837,39 +973,7 @@ VIII.- Las demás que le instruyan los superiores jerárquicos.
 
 ###### ARTICULO 32.
 
-La Procuraduría de Defensa de los Campesinos del Estado, tendrá por objeto atender eficiente y oportunamente las demandas de los campesinos del Estado, proporcionándoles la asistencia jurídica necesaria y tendrá las atribuciones siguientes:
-
-I.- Proponer al Titular del Ejecutivo Estatal, los programas y proyectos, así como las acciones socioeconómicas que se requieren, para contribuir al desarrollo social integral y armónico de los campesinos, además de que respondan a la solución de sus demandas más sentidas;
-
-II.- Captar y dar seguimiento a las demandas, de los campesinos, a través de instrumentos y mecanismos que permitan ampliar los canales de comunicación con la administración pública estatal;
-
-III.- Servir de enlace e instancia de coordinación y concertación institucional con los sectores sociales, interesados en coadyuvar a la satisfacción de las necesidades de carácter social, económico, cultural, educativo, de trabajo, de salud y productivo de los campesinos;
-
-IV.- Participar en la planeación, promoción y desarrollo de los programas y proyectos de que tengan como objetivo; impulsar el desarrollo y mejoramiento social de los núcleos agrarios promovidos por las dependencias y entidades federales, estatales y municipales, coadyuvando en la operación, evaluación y seguimiento del Plan de Desarrollo Estatal;
-
-V.- En coordinación con las instituciones federales, estatales y municipales proveer la organización entre los campesinos productores, para apoyar el desarrollo especifico de sus proyectos;
-
-VI.- Formular opinión al Titular del Ejecutivo Estatal, sobre los programas y proyectos de las dependencias y entidades locales a petición de éstas, siempre y cuando tengan que ver con derechos individuales o colectivos de los núcleos agrarios;
-
-VII.- Elaborar y cumplir con los objetivos del programa anual de trabajo;
-
-VIII.- Establecer y operar un sistema de coordinación que proporcione a las autoridades estatales y municipales, eficiencia en la aplicación de proyectos productivos en el Estado, y a su vez, fomentar la organización para la producción en los núcleos agrarios, con el objeto de elevar los ingresos de los productores e impulsar el desarrollo económico en general;
-
-IX.- Proponer programas y proyectos productivos orientados a satisfacer las demandas sociales de los campesinos del Estado, tales como el programa "Maíz por Bosque" (reforestaciones), "Maíz por Obra" (puentes colgantes), "Maíz por Pasto" (establecimiento de praderas inducidas), etc;
-
-X.- Coordinar acciones institucionales tendientes a la regularización de la tierra ejidal y comunal, integrando y aportando ante las dependencias competentes, información documental sobre las mismas;
-
-XI.- Asesorar los núcleos agrarios en la elaboración de contratos, convenios y cualquier otro acto jurídico que celebren entre sí o con terceros para el uso, destino, cesión, aportación, transmisión o enajenación de derechos;
-
-XII.- Solucionar los conflictos agrarios individuales o colectivos, utilizando preferentemente la vía de la conciliación;
-
-XIII.- Atender las demandas y recabar información que sea necesaria sobre los hechos relacionados con divisiones, fraccionamientos, transmisiones de tierras Y aguas, así como de excedentes de tierras que rebasen los limites de la pequeña propiedad y en su caso, hacerlo del conocimiento de las autoridades competentes;
-
-XIV.- Emitir opinión sobre proyectos de desarrollo y de constitución de sociedades en que participen ejidos y comunidades;
-
-XV. - Designar un representante ante el Consejo Agrario Estatal, así como ante el Subcomité Jurídico de dicho Consejo, y
-
-XVI. - Las demás que señala el decreto que la crea.
+(DEROGADO, P.O. 10 DE MAYO DE 2005)
 
 ### CAPITULO X. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES DE LA SUBSECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
@@ -927,7 +1031,7 @@ IX.- Establecer los mecanismos de coordinación con las dependencias y entidades
 
 X.- Atender las peticiones de los trabajadores que soliciten ser representados en los asuntos relacionados con la violación a sus derechos, así como proporcionarles información que se solicita en los conflictos en que intervengan;
 
-XI.- Atender las peticiones de los trabajadores que soliciten ser representados en los asuntos relacionados con la violación a sus derechos, así como proporcionar la información que se solicite sobre los conflictos en que intervengan;
+XI.- (DEROGADA, P.O. 10 DE MAYO DE 2005)
 
 XII.- Conocer los emplazamientos a huelga de los centros de trabajo de la entidad, presentados ante las Juntas Locales de Conciliación y Arbitraje, con el fin de citar a las partes a pláticas conciliatorias;
 
@@ -963,17 +1067,7 @@ XI.- Llevar a cabo campañas de promoción y difusión acerca de las acciones in
 
 ###### ARTICULO 36.
 
-Las Juntas Locales de Conciliación y Arbitraje de Chilpancingo, Acapulco, Zihuatanejo, Coyuca de Catalán e Iguala tendrán las .atribuciones siguientes:
-
-l.- Resolver los conflictos de trabajo que sean de su competencia, de acuerdo a la jurisdicción que le corresponda a cada una;
-
-II.- Promover la conciliación en las controversias laborales que se susciten entre trabajador y patrón en la primera audiencia de conciliación;
-
-III.- Conocer los emplazamientos a huelga de los centros de trabajo de la Entidad, presentados ante la misma, con el fin de citar a las partes a las pláticas conciliatorias;
-
-IV.- Informar periódicamente a la Subsecretaría sobre el desarrollo de las funciones a su cargo, y
-
-V.- Llevar acabo todas aquellas funciones afines a las anteriores y las que le encomiende la superioridad y el Decreto que las crea.
+(DEROGADO, P.O. 10 DE MAYO DE 2005)
 
 ### CAPITULO XI. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES DE LA SUBSECRETARIA DE GOBIERNO PARA ASUNTOS RELIGIOSOS
 
@@ -1085,19 +1179,91 @@ XXI.- Cumplir con las normas de control y fiscalización que establezcan las dis
 
 XXII.- Las demás que las disposiciones legales y reglamentarias les atribuyan, así como las que les confiera el Titular de la Secretaría General de Gobierno.
 
-### CAPITULO XIII. DE LAS DELEGACIONES GENERALES DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 2005)</small>
+
+### CAPITULO XIII. DE LOS ORGANOS DESCONCENTRADOS
 
 ###### ARTICULO 41.
 
 Las Delegaciones Generales de Gobierno de Acapulco, Costa Chica, Costa Grande, Montaña, Tierra Caliente, Zona Centro y Zona Norte, como Organos Administrativos Desconcentrados por territorio con dependencia directa del Gobernador para supervisar, dirigir, coordinar y vigilar la acción de Gobierno en cada región, tendrán las atribuciones que señala el instrumento jurídico que las crea, debiendo además, informar al Secretario General de Gobierno sobre el desarrollo de su operación y funcionamiento.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 41
+
+BIS.- La Comisión Técnica de Transporte y Vialidad, se regulará en los términos que disponga la Ley y Reglamento que lo crea.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 41
+
+BIS I.- La Procuraduría de Defensa de los Campesinos del Estado, tendrá por objeto atender eficiente y oportunamente las demandas de los campesinos del Estado, proporcionándoles la asistencia jurídica necesaria y tendrá las atribuciones siguientes:
+
+I.- Proponer al Titular del Ejecutivo Estatal, los programas y proyectos, así como las acciones socioeconómicas que se requieren, para contribuir al desarrollo social integral y armónico de los campesinos, además de que respondan a la solución de sus demandas más sentidas;
+
+II.- Captar y dar seguimiento a las demandas de los campesinos, a través de instrumentos y mecanismos que permitan ampliar los canales de comunicación con la administración pública estatal;
+
+III.- Servir de enlace e instancia de coordinación y concertación institucional con los sectores sociales, interesados en coadyuvar a la satisfacción de las necesidades de carácter social, económico, cultural, educativo, de trabajo, de salud y productivo de los campesinos;
+
+IV.- Participar en la planeación, promoción y desarrollo de los programas y proyectos de que tengan como objetivo, impulsar el desarrollo y mejoramiento social de los núcleos agrarios promovidos por las dependencias y entidades federales, estatales y municipales, coadyuvando en la operación, evaluación y seguimiento del Plan de Desarrollo Estatal;
+
+V.- Proveer en coordinación con las instituciones federales, estatales y municipales, la organización entre los campesinos productores para apoyar el desarrollo específico de sus proyectos;
+
+VI.- Formular opinión al Titular del Ejecutivo Estatal, sobre los programas y proyectos de las dependencias y entidades locales a petición de éstas, siempre y cuando tengan que ver con derechos individuales o colectivos de los núcleos agrarios;
+
+VII.- Elaborar y cumplir con los objetivos del programa anual de trabajo;
+
+VIII.- Establecer y operar un sistema de coordinación que proporcione a las autoridades estatales y municipales, eficiencia en la aplicación de proyectos productivos en el Estado, y a su vez, fomentar la organización para la producción en los núcleos agrarios, con el objeto de elevar los ingresos de los productores e impulsar el desarrollo económico en general;
+
+IX.- Proponer programas y proyectos productivos orientados a satisfacer las demandas sociales de los campesinos del Estado, tales como el programa "Maíz por Bosque" (reforestaciones), "Maíz por Obra" (puentes colgantes), "Maíz por Pasto" (establecimiento de praderas inducidas), entre otros;
+
+X. - Coordinar acciones institucionales tendientes a la regularización de la tierra ejidal y comunal, integrando y aportando ante las dependencias competentes, información documental sobre las mismas;
+
+XI.- Asesorar a los núcleos agrarios en la elaboración de contratos, convenios y cualquier otro acto jurídico que celebren entre sí o con terceros para el uso, destino, cesión, aportación, transmisión o enajenación de derechos;
+
+XII.- Solucionar los conflictos agrarios individuales o colectivos, utilizando preferentemente la vía de la conciliación;
+
+XIII.- Atender las demandas y recabar información que sea necesaria sobre los hechos relacionados con divisiones, fraccionamientos, transmisiones de tierras y aguas, así como de excedentes de tierras que rebasen los límites de la pequeña propiedad y en su caso, hacerlo del conocimiento de las autoridades competentes;
+
+XIV.- Emitir opinión sobre proyectos de desarrollo y de constitución de sociedades en que participen ejidos y comunidades;
+
+XV.- Designar un representante ante el Consejo Agrario Estatal, así como ante el Subcomité Jurídico de dicho Consejo, y
+
+XVI.- Las demás que señala el Decreto que la crea.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 41
+
+BIS II.- Las Juntas Locales de Conciliación y Arbitraje de Chilpancingo, Acapulco, Zihuatanejo, Coyuca de Catalán e Iguala, tendrán las atribuciones siguientes:
+
+I.- Resolver los conflictos de trabajo que sean de su competencia, de acuerdo a la jurisdicción que le corresponda a cada una;
+
+II.- Promover la conciliación en las controversias laborales que se susciten entre trabajador y patrón en la primera audiencia de conciliación;
+
+III.- Conocer los emplazamientos a huelga de los centros de trabajo de la Entidad, presentados ante la misma, con el fin de citar a las partes a las pláticas conciliatorias;
+
+IV.- Informar periódicamente a la Subsecretaría sobre el desarrollo de las funciones a su cargo;
+
+V.- Llevar a cabo todas aquellas funciones afines a las anteriores y las que le encomiende la superioridad y el Decreto que las crea.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2005)</small>
+
+### CAPITULO XIII BIS. DE LOS ORGANOS SECTORIZADOS, DE COORDINACION Y APOYO TECNICO
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 44
+
+BIS.- El Organismo Público Descentralizado, Radio y Televisión de Guerrero, se regulará en los términos que dispongan su ley o decreto que lo crea.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2005)</small>
+
+###### ARTICULO 44
+
+BIS l.- El Consejo Tutelar para Menores Infractores; el Consejo de Población y demás Consejos que presida el Secretario General de Gobierno, se regularán de acuerdo con la Ley, Decreto o Acuerdo que los crea.
+
 ### CAPITULO XIV. DE LOS ORGANOS Y CONSEJOS QUE PRESIDE EL SECRETARIO GENERAL DE GOBIERNO
-
-###### ARTICULO 44.
-
-El Secretario General de Gobierno, presidirá, coordinará o participará, según el caso, en los Organismos y Consejos que le señalen las Leyes y demás disposiciones aplicables, debiendo planear y ejecutar las políticas estatales en los términos y condiciones que señalen los instrumentos de creación de aquéllos.
-
-### CAPITULO XV. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARIA GENERAL DE GOBIERNO
 
 ###### ARTICULO 42.
 
@@ -1107,7 +1273,11 @@ Los Organos y Consejos que preside el Secretario General de Gobierno, tendrán l
 
 El Secretario General de Gobierno, en su carácter de Presidente, podrá delegar esta función al Subsecretario de Gobierno que tenga relación con el Organo o Consejo.
 
-### CAPITULO XVI. DE LAS RELACIONES LABORALES
+###### ARTICULO 44.
+
+El Secretario General de Gobierno, presidirá, coordinará o participará, según el caso, en los Organismos y Consejos que le señalen las Leyes y demás disposiciones aplicables, debiendo planear y ejecutar las políticas estatales en los términos y condiciones que señalen los instrumentos de creación de aquéllos.
+
+### CAPITULO XV. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARIA GENERAL DE GOBIERNO
 
 ###### ARTICULO 45.
 
@@ -1117,11 +1287,13 @@ Durante las ausencias temporales del Secretario General de Gobierno, será supli
 
 Durante las ausencias temporales de alguno de los Subsecretarios, será suplido en sus funciones por el Director General que designe para tales efectos el Secretario General de Gobierno, en tanto que cuando se ausente alguno de los Directores Generales, éste será suplido por el funcionario expresamente designado por el mismo Director General, previa autorización del Secretario.
 
-### CAPITULO XVII. DE LAS VIOLACIONES AL REGLAMENTO
+### CAPITULO XVI. DE LAS RELACIONES LABORALES
 
 ###### ARTICULO 47.
 
 Las relaciones laborales entre la Secretaría General de Gobierno y sus servidores públicos, se regirán por la Ley de Trabajo de los Servidores Públicos del Estado número 248, las demás disposiciones administrativas internas de la Dependencia y las que en su caso emita el Titular del Poder Ejecutivo Estatal.
+
+### CAPITULO XVII. DE LAS VIOLACIONES AL REGLAMENTO
 
 ###### ARTICULO 48.
 
@@ -1152,3 +1324,9 @@ El Secretario General de Gobierno.
 LIC. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE MAYO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
