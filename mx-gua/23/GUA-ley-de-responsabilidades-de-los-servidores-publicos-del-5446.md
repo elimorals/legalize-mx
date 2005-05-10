@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-de-los-servidores-publicos-del-5446"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1993-02-26"
+last_updated: "2005-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1993.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS PUBLICADA EN EL P.O. EL 10 DE MAYO DE 2005, SE ABROGA LA PRESENTE LEY A LOS SESENTA DIAS NATURALES A PARTIR DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 3 de abril de 1984.
 
@@ -472,3 +474,13 @@ La Secretaría entregará los expedientes que se hayan formado por motivo de las
 El Congreso del Estado y el Supremo Tribunal de Justicia del Estado, determinarán los órganos que de manera provisional habrán de recibir los expedientes mencionados en el artículo anterior, respecto de los servidores públicos que les están adscritos, así como custodiarlos, en tanto se establecen los órganos señalados en el artículo 34.
 
 Para la presentación de las declaraciones de los servidores de los poderes Legislativo y Judicial, se podrán utilizar los formatos expedidos por la Secretaría, en tanto las contralorías elaboran su propia documentación.
+
+P.O. 10 DE MAYO DE 2005.
+
+Artículo Primero.- La presente Ley entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, contenida en el Decreto número 150, expedido por el H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 27, de fecha 3 de abril de 1984, así como cualquier otra disposición de carácter general, reglamentaria o administrativa que se oponga a la presente.
+
+Artículo Tercero.- Los procedimientos administrativos que se encuentren en trámite al momento que entre en vigor la presente Ley, se sujetarán a las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, misma que es abrogada por el Artículo Segundo Transitorio de la presente Ley, hasta su total resolución, inclusive los recursos que se encuentren pendientes de resolución.
+
+Artículo Cuarto.- La Unidad de Defensoría Administrativa del Servidor Público referida en esta Ley, deberá estar instalada a más tardar el 1º de enero del año 2006 y en el mismo plazo deberá iniciar funciones.
