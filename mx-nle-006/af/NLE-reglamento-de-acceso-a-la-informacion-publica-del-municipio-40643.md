@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-del-municipio-406
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-18"
-last_updated: "2005-02-09"
+last_updated: "2005-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DEL 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 2004.
 
@@ -75,27 +75,27 @@ Se entenderá por información pública, toda aquella que encontrándose en pode
 
 La Autoridad negará la información, en los siguientes casos:
 
-I. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+I. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
-II. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+II. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
 III. Dañar la estabilidad financiera, económica o monetaria del MUNICIPIO;
 
-IV. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+IV. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
 V. Causar un serio perjuicio a las actividades de prevención de los delitos, la impartición de la justicia, la recaudación de las contribuciones o cualquier otra acción que tenga por objeto la aplicación de la ley;
 
-VI. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+VI. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
 VII. Los expedientes judiciales o de los procedimientos administrativos en forma de juicio en tanto no hayan causado estado;
 
 VIII. Los procedimientos de responsabilidad de los servidores públicos, en tanto no se hayan dictado la resolución administrativa o la jurisdiccional definitiva;
 
-IX. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+IX. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
-X. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+X. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
-XI. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+XI. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005);
 
 (ADICIONADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
@@ -235,11 +235,13 @@ La respuesta estará a su disposición en las oficinas del la SECRETARIA DE TRAN
 
 El SOLICITANTE deberá acreditar la dirección de correo electrónico que previamente tenga rentado en la Red, lo anterior para asegurar que la información llegue en tiempo y forma, además la SECRETARIA DE TRANSPARENCIA enviará la respuesta con copia al Correo Electrónico de la CAIPNL.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 15.
 
 Los FUNCIONARIOS PUBLICOS Municipales, que reciban, solicitudes de Información Pública, invariablemente deberán canalizarlas al día siguiente hábil, a la SECRETARIA DE TRANSPARENCIA, quien en forma conjunta con ellos, harán el análisis del contenido de lo solicitado y determinarán su procedencia o negativa. De ser procedente, la dependencia correspondiente dará inicio al proceso de dicha solicitud y proporcionará la información requerida a la SECRETARIA DE TRANSPARENCIA, quien es la responsable de redactar y fundamentar la respuesta al SOLICITANTE.
 
-En la Inteligencia de que la LAIPNL, otorga quince días hábiles para investigar y redactar la respuesta en tiempo y forma, los FUNCIONARIOS PUBLICOS Municipales serán los responsables solidarios, de canalizar a tiempo las solicitudes de información a la SECRETARIA DE TRANSPARENCIA, así como proporcionar la información completa para su respuesta, caso contrario se harán acreedores a las sanciones previstas en la mencionada Ley.
+En la inteligencia de que LAIPNL, otorga diez días hábiles para investigar y redactar la respuesta en tiempo y forma, los FUNCIONARIOS PUBLICOS Municipales serán los responsables solidarios, de canalizar a tiempo las solicitudes de información a la SECRETARIA DE TRANSPARENCIA, así como proporcionar la información completa para su respuesta, caso contrario se harán acreedores a las sanciones previstas en la mencionada Ley.
 
 ###### ARTÍCULO 16.
 
@@ -323,7 +325,7 @@ Cuando la SECRETARIA DE TRANSPARENCIA resuelva que conforme a la LAIPNL, proceda
 
 ###### ARTÍCULO 31.
 
-La falta de respuesta por parte de la SECRETARIA DE TRANSPARENCIA y el transcurso del plazo en que se debe proporcionar la información solicitada, permite establecer que la misma fue negada y hace acreedor al FUNCIONARIO PÚBLICO responsable, en su caso, de las sanciones administrativas previstas en la LAIPNL.
+La falta de respuesta por parte de la SECRETARIA DE TRANSPARENCIA y el transcurso del plazo en que se debe proporcionar la información solicitada, permite establecer que la misma fue negada y hace acreedor al FUNCIONARIO PUBLICO responsable, en su caso, de las sanciones administrativas previstas en la LAIPNL.
 
 ###### ARTÍCULO 32.
 
@@ -391,7 +393,7 @@ La CAIPNL notificará a la autoridad del escrito de solicitud y sus anexos, en s
 
 ###### ARTÍCULO 42.
 
-La CAIPNL en su resolución fundamentada en derecho, podrá ordenar que se entregue la información que la SECRETARIA DE TRANSPARENCIA considerara restringida. Así también la determinación de las sanciones administrativas que se impongan al FUNCIONARIO PUBLICO responsable cuando proceda.
+La CAIPNL en su resolución fundamentada en derecho, podrá ordenar que se entregue la información que la SECRETARIA DE TRANSPARENCIA considerara restringida. Así también la determinación de las sanciones administrativas que se impongan al FUNCIONARIO PÚBLICO responsable cuando proceda.
 
 ### CAPÍTULO VIII. NOTIFICACIONES
 
@@ -468,3 +470,11 @@ Secretario del Ayuntamiento
 P.O. 9 DE FEBRERO DE 2005.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 11 DE MAYO DE 2005.
+
+PRIMERO. La Secretaría del Republicano Ayuntamiento deberá de turnar, para su publicación, el presente REGLAMENTO al Periódico Oficial del Estado. De conformidad con lo establecido en el Artículo 27 fracción IV y 167 de la Ley Orgánica de la Administración Público Municipal y 76 Fracción VI del Reglamento Interior del Republicano Ayuntamiento de la Ciudad de Apodaca, Nuevo León.
+
+SEGUNDO. El presente REGLAMENTO entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Lo no establecido en el presente REGLAMENTO se atenderá a lo previsto en la LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DE NUEVO LEÓN.
