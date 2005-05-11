@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-integral-de-seguridad-publica-del-estado-de-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2005-03-16"
+last_updated: "2005-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA INTEGRAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -879,7 +879,7 @@ I. Inscribir a sus elementos y equipo en los registros estatal y nacional de seg
 
 II. Proporcionar a los elementos de las corporaciones de seguridad pública el acceso a los servicios y prestaciones que proporcionan el Instituto Mexicano del Seguro Social ó el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-III. Solicitar del personal, inmediatamente que cause baja del servicio, el arma, credencial, equipo, uniforme y divisa que le hayan asignado para el desempeño del cargo;
+III. Solicitar del personal, inmediatamente que cause baja del servicio, el arma, credencial, equipo, uniforme y divisa, que le hayan asignado para el desempeño del cargo;
 
 IV. Aplicar las medidas conducentes para mantener el orden y la disciplina de los elementos, conforme a esta Ley y a la reglamentación respectiva;
 
@@ -2289,6 +2289,10 @@ Artículo Séptimo.- El Consejo Estatal de Seguridad Pública y los Consejos Mun
 
 Artículo Octavo.- Remítase la presente Ley al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2005)</small>
+
+Artículo Noveno.- Los elementos de los diferentes cuerpos e instituciones de seguridad pública o de procuración de justicia de los gobiernos estatales y municipales, que hayan causado alta hasta antes del 31 de julio del año 2003, se les respetarán los derechos laborales adquiridos en razón del tiempo de servicios prestados y/o por edad; o hubieren sido afectados por algún tipo de incapacidad calificada como permanente; a los beneficiarios de éstos, que hayan solicitado pensiones por viudez, orfandad o ascendencia, estarán sujetos a los (sic) dispuesto por la Ley del Servicio Civil del Estado de Morelos.
+
 Recinto Legislativo del Congreso del Estado de Morelos, a los ocho días del mes de julio del año dos mil tres.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.
@@ -2340,3 +2344,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 11 DE MAYO DE 2005.
+
+Primero.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación ene. Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
