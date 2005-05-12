@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2000-01-05"
+last_updated: "2005-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -60,11 +60,9 @@ II. Comisión Nacional, a la Comisión Nacional para la Protección y Defensa de
 
 III. Comisiones Nacionales, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas, y a la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto limitado, sociedades de información crediticia, casas de bolsa, especialistas bursátiles, sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, instituciones de seguros, Patronato del Ahorro Nacional, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, y cualquiera otra sociedad que realice actividades análogas a las de las sociedades enumeradas anteriormente, que ofrezca un producto o servicio financiero.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2000)</small>
-
-No se consideran Instituciones Financieras aquellas empresas distintas de las señaladas en el párrafo anterior.
+IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto limitado, sociedades de información crediticia, casas de bolsa, especialistas bursátiles, sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, instituciones de seguros, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, y cualquiera otra sociedad que requiera de la autorización de la Secretaría de Hacienda y Crédito Público o de cualesquiera de las Comisiones Nacionales para constituirse y funcionar como tales y ofrecer un producto o servicio financiero a los Usuarios;
 
 V. Junta, a la Junta de Gobierno de la Comisión Nacional;
 
@@ -136,13 +134,15 @@ II. Atender y, en su caso, resolver las reclamaciones que formulen los Usuarios,
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
-III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley.
+III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho de conformidad con esta Ley, en los conflictos originados por operaciones o servicios que hayan contratado los Usuarios con las Instituciones Financieras, así como emitir dictámenes técnicos de conformidad con esta Ley;
+IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho, de conformidad con esta Ley o con los convenios de colaboración que al efecto se celebren con las Instituciones Financieras y las asociaciones gremiales que las agrupen en los conflictos originados por operaciones o servicios que hayan contratado los Usuarios con las Instituciones Financieras, así como emitir dictámenes técnicos de conformidad con esta Ley;
 
-V. De conformidad con lo señalado por el artículo 86 de esta Ley, prestar el servicio de orientación jurídica y asesoría legal a los Usuarios, en las controversias entre éstos y las Instituciones Financieras que se entablen ante los tribunales, con motivo de operaciones o servicios que los primeros hayan contratado; así como respecto de prestatarios que no corresponden al sistema financiero, siempre y cuando se trate de conductas tipificadas como usura y se haya presentado denuncia penal;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+
+V. De conformidad con lo señalado por el artículo 86 de esta Ley, prestar el servicio de orientación jurídica y asesoría legal a los Usuarios, en las controversias entre éstos y las Instituciones Financieras que se entablen ante los tribunales o se substancien mediante procedimientos arbitrales en los que la Comisión Nacional no actúe como árbitro, con motivo de operaciones o servicios que los primeros hayan contratado;
 
 VI. Proporcionar a los Usuarios los elementos necesarios para procurar una relación más segura y equitativa entre éstos y las Instituciones Financieras;
 
@@ -158,7 +158,9 @@ IX. Emitir recomendaciones a las Instituciones Financieras para alcanzar el cump
 
 X. Formular recomendaciones al Ejecutivo Federal a través de la Secretaría, para la elaboración de iniciativas de leyes, reglamentos, decretos y acuerdos en las materias de su competencia, a fin de dar cumplimiento al objeto de esta Ley y al de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
 
-XI. Concertar y celebrar convenios con las Instituciones Financieras, así como con las autoridades federales y locales con objeto de dar cumplimiento a esta Ley;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+
+XI. Concertar y celebrar convenios con las Instituciones Financieras, así como con las autoridades federales y locales con objeto de dar cumplimiento a esta Ley. Los convenios con las autoridades federales podrán incluir, entre otros aspectos, el intercambio de información sobre los contratos de adhesión, publicidad, modelos de estados de cuenta, Unidades Especializadas de atención a usuarios, productos y servicios financieros;
 
 XII. Elaborar estudios de derecho comparado relacionados con las materias de su competencia, y publicarlos para apoyar a los Usuarios y a las Instituciones Financieras;
 
@@ -182,7 +184,7 @@ XIX. Revisar y, en su caso, proponer a las Instituciones Financieras, modificaci
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
-XX. Solicitar la información y los reportes de crédito necesarios para la substanciación de los procedimientos de conciliación y de arbitraje a que se refiere esta Ley. Para todos los efectos legales, la sola presentación de la reclamación por parte del Usuario, faculta a la Comisión Nacional para exigir la información relativa.
+XX. Solicitar la información y los reportes de crédito necesarios para la substanciación de los procedimientos de conciliación y de arbitraje a que se refiere esta Ley. Para todos los efectos legales, la sola presentación de la reclamación por parte del Usuario, faculta a la Comisión Nacional para exigir la información relativa;
 
 XXI. Imponer las sanciones establecidas en esta Ley;
 
@@ -196,7 +198,11 @@ XXIV. Determinar el monto, la forma y las condiciones de las garantías a las qu
 
 XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y
 
-XXVI. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2005)</small>
+
+XXVI. Asistir al Usuario que pretenda coadyuvar con el Ministerio Público, cuando a juicio de la Comisión Nacional sea víctima u ofendido por algún delito derivado de la contratación de productos o servicios financieros, cometido por las Instituciones Financieras, sus consejeros, directivos, funcionarios, empleados o representantes;
+
+XXVII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
 
 ###### ARTÍCULO 12.
 
@@ -634,9 +640,13 @@ III. Descripción del servicio que se reclama, y relación sucinta de los hechos
 
 IV. Nombre de la Institución Financiera contra la que se formula la reclamación. La Comisión Nacional podrá solicitar a la Secretaría y a las Comisiones Nacionales los datos necesarios para proceder a la identificación de la Institución Financiera, cuando la información proporcionada por el Usuario sea insuficiente, y
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-V. Documentación que ampare la contratación del servicio que origina la reclamación. La Comisión Nacional estará facultada para suplir la deficiencia de las reclamaciones en beneficio del Usuario.
+V. Documentación que ampare la contratación del servicio que origina la reclamación.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+La Comisión Nacional estará facultada para suplir la deficiencia de las reclamaciones en beneficio del Usuario.
 
 Las reclamaciones podrán ser presentadas de manera conjunta por los Usuarios que presenten problemas comunes con una o varias Instituciones Financieras, debiendo elegir al efecto uno o varios representantes formales comunes.
 
@@ -644,41 +654,51 @@ Las reclamaciones podrán ser presentadas de manera conjunta por los Usuarios qu
 
 Las autoridades a que se refiere la fracción IV del artículo anterior, deberán contestar la solicitud que les formule la Comisión Nacional en un plazo no mayor de diez días hábiles contados a partir de la fecha en que reciban la solicitud.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 65.
 
-Las reclamaciones deberán presentarse dentro del término de un año contado a partir de que se suscite el hecho que les dio origen. La reclamación podrá presentarse, a elección del Usuario, en el domicilio de la Comisión Nacional o en la Delegación de la misma que se encuentre más próxima al domicilio del Usuario, o en la Unidad Especializada a que se refiere el artículo 50 Bis de esta Ley, de la Institución Financiera que corresponda.
+Las reclamaciones deberán presentarse dentro del término de dos años contados a partir de que se presente el hecho que les dio origen, o en su caso, a partir de la negativa de la Institución Financiera a satisfacer las pretensiones del Usuario.
+
+La reclamación podrá presentarse por escrito o por cualquier otro medio, a elección del Usuario, en el domicilio de la Comisión Nacional o en cualquiera de las Delegaciones o en la Unidad Especializada a que se refiere el artículo 50 Bis de esta Ley, de la Institución Financiera que corresponda.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 66.
 
-La reclamación que reúna los requisitos señalados, por su sola presentación, interrumpirá la prescripción de las acciones legales correspondientes, durante el tiempo que dure el procedimiento.
+La reclamación que reúna los requisitos señalados, por su sola presentación, interrumpirá la prescripción de las acciones legales correspondientes, hasta que concluya el procedimiento.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 67.
 
-La Comisión Nacional correrá traslado a la Institución Financiera acerca de la reclamación presentada en su contra, dentro de los cinco días hábiles siguientes a la fecha de recepción de la misma, anexando todos los elementos que el Usuario hubiera aportado, y señalando en el mismo acto la fecha para la celebración de la audiencia de conciliación, con apercibimiento de sanción pecuniaria en caso de no asistir.
+La Comisión Nacional correrá traslado a la Institución Financiera acerca de la reclamación presentada en su contra, dentro de los ocho días hábiles siguientes a la fecha de recepción de la misma, anexando todos los elementos que el Usuario hubiera aportado, y señalando en el mismo acto la fecha para la celebración de la audiencia de conciliación, con apercibimiento de sanción pecuniaria en caso de no asistir.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2000)</small>
+La Comisión Nacional podrá en todo momento solicitar a la Institución Financiera información, documentación y todos los elementos que considere pertinentes, siempre y cuando estén directamente relacionados con la reclamación.
 
-Tratándose de Instituciones de Fianzas, deberá citarse al fiado en el domicilio que la Institución tuviere de éste o de su representante legal.
+Tratándose de instituciones de fianzas, deberá citarse al fiado en el domicilio que la Institución tuviere de éste o de su representante legal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 68.
 
-En el caso de que el Usuario presente reclamación ante la Comisión Nacional contra alguna Institución Financiera, se deberá agotar el procedimiento conciliatorio, conforme a las siguientes reglas:
+La Comisión Nacional, deberá agotar el procedimiento de conciliación, conforme a las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-I. La Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación;
+I. Si las circunstancias del caso lo permiten, antes de citar a las partes a audiencia, se intentará la conciliación inmediata por cualquier medio, y en caso de alcanzar un acuerdo, será necesario que se confirmen por escrito los compromisos adquiridos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+De no lograrse la conciliación inmediata, la Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación.
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
 II. La Institución Financiera deberá, por conducto de un representante, rendir un informe por escrito que se presentará con anterioridad o hasta el momento de la celebración de la audiencia de conciliación a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-III. En el informe señalado se responderá detalladamente y de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, en caso contrario, dicho informe se tendrá por no presentado para todos los efectos legales a que haya lugar;
+III. En el informe señalado en la fracción anterior, la Institución Financiera, deberá responder de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, en caso contrario, dicho informe se tendrá por no presentado para todos los efectos legales a que haya lugar;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -690,23 +710,47 @@ V. La falta de presentación del informe a que se refiere el párrafo anterior h
 
 VI. La Comisión Nacional cuando así lo considere o a petición del Usuario, en la audiencia de conciliación correspondiente o dentro de los diez días hábiles anteriores a la celebración de la misma, podrá requerir información adicional a la Institución Financiera, y en su caso, diferirá la audiencia requiriendo a la Institución Financiera para que en la nueva fecha presente el informe adicional;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2005)</small>
 
-VII. En la audiencia respectiva se exhortará a las partes a conciliar sus intereses, y si esto no fuere posible, la Comisión Nacional las invitará a que, de común acuerdo, designen como árbitro para resolver su controversia a la propia Comisión Nacional o a alguno o algunos de los árbitros que ésta les proponga, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o de estricto derecho. El compromiso correspondiente se hará constar en el acta que al efecto se firme ante la Comisión Nacional. En caso de no someterse al arbitraje se dejarán a salvo sus derechos para que los hagan valer ante los tribunales competentes o en la vía que proceda.
+VII. En la audiencia respectiva se exhortará a las partes a conciliar sus intereses, para tal efecto, el conciliador formulará propuestas de solución y procurará que la audiencia se desarrolle en forma ordenada y congruente. Si las partes no llegan a una conciliación, la Comisión Nacional las invitará a que, de común acuerdo, designen como árbitro para resolver su controversia a la propia Comisión Nacional o a alguno o algunos de los árbitros que ésta les proponga, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o de estricto derecho. El compromiso correspondiente se hará constar en el acta que al efecto se firme ante la Comisión Nacional. En caso de no someterse al arbitraje se dejarán a salvo sus derechos para que los hagan valer ante los tribunales competentes o en la vía que proceda.
 
-En el evento de que la Institución Financiera rechace el arbitraje o no asista a la junta de conciliación y siempre que del escrito de reclamación o del informe presentado por la Institución Financiera, se desprendan elementos que a juicio de la Comisión Nacional permitan suponer la procedencia de lo reclamado, la propia Comisión Nacional podrá emitir, previa solicitud por escrito del Usuario, un dictamen técnico que contenga su opinión. Para la elaboración del dictamen, la Comisión Nacional podrá allegarse todos los elementos que juzgue necesarios.
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
-La Comisión Nacional entregará al reclamante, contra pago de su costo, copia certificada del dictamen técnico, a efecto de que lo pueda hacer valer ante los tribunales competentes, quienes deberán tomarlo en cuenta en el procedimiento respectivo;
+En el evento de que la Institución Financiera no asista a la junta de conciliación o las partes rechacen el arbitraje, y siempre que del expediente se desprendan elementos que a juicio de la Comisión Nacional permitan suponer la procedencia de lo reclamado, ésta podrá emitir, previa solicitud por escrito del Usuario, un dictamen técnico que contenga su opinión. Para la elaboración del dictamen, la Comisión Nacional podrá allegarse todos los elementos que juzgue necesarios.
 
-VIII. En caso de que las partes lleguen a un acuerdo para la resolución de la reclamación, el mismo se hará constar en el acta circunstanciada que al efecto se levante. En todo momento, la Comisión Nacional deberá explicar al Usuario los efectos y alcances de dicho acuerdo; si después de escuchar la explicación el Usuario decide aceptar el acuerdo, éste se firmará por ambas partes y por la Comisión Nacional, fijándose un término para acreditar su cumplimiento;
+La Comisión Nacional entregará al reclamante, contra pago de su costo, copia certificada del dictamen técnico, a efecto de que lo pueda hacer valer ante los tribunales competentes, quienes deberán tomarlo en cuenta en el procedimiento respectivo.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+La solicitud se hará del conocimiento de la Institución Financiera para que ésta manifieste lo que a su derecho convenga y aporte los elementos y pruebas que estime convenientes en un plazo que no excederá de diez días hábiles.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+Si la Institución Financiera no hace manifestación alguna dentro de dicho plazo, la Comisión emitirá el dictamen con los elementos que posea.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+El dictamen contendrá una valoración técnico-jurídica elaborada con base en la información, documentación o elementos que existan en el expediente, así como en los elementos adicionales que el organismo se hubiere allegado.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+La Comisión contará con un término de noventa días hábiles para expedir el dictamen correspondiente. El servidor público que incumpla con dicha obligación, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+
+VIII. En caso de que las partes lleguen a un acuerdo para la resolución de la reclamación, el mismo se hará constar en el acta circunstanciada que al efecto se levante. En todo momento, la Comisión Nacional deberá explicar al Usuario los efectos y alcances de dicho acuerdo; si después de escuchar explicación el Usuario decide aceptar el acuerdo, éste se firmará por ambas partes y por la Comisión Nacional, fijándose un término para acreditar su cumplimiento. El convenio firmado por las partes tiene fuerza de cosa juzgada y trae aparejada ejecución;
 
 IX. La carga de la prueba respecto del cumplimiento del convenio corresponde a la Institución Financiera y, en caso de omisión, se hará acreedora de la sanción que proceda conforme a la presente Ley, y
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2005)</small>
 
-X. Concluidas las audiencias de conciliación y en caso de que las partes no lleguen a un acuerdo, la Comisión Nacional ordenará a la Institución Financiera correspondiente que registre el pasivo contingente que derive de la reclamación, dando aviso de ello, en su caso, a las Comisiones Nacionales a la que corresponda su supervisión. Ese registro contable podrá ser cancelado por la Institución Financiera, bajo su estricta responsabilidad, si transcurridos ciento ochenta días naturales después de su anotación, el reclamante no ha hecho valer sus derechos ante la autoridad judicial competente o no ha dado inicio al procedimiento arbitral conforme a esta Ley.
+X. Concluidas las audiencias de conciliación y en caso de que las partes no lleguen a un acuerdo, la Comisión Nacional ordenará a la Institución Financiera correspondiente que registre el pasivo contingente que derive de la reclamación, y dará aviso de ello, en su caso, a las Comisiones Nacionales a las que corresponda su supervisión. Ese registro contable podrá ser cancelado por la Institución Financiera, bajo su estricta responsabilidad, si transcurridos ciento ochenta días naturales después de su anotación, el reclamante no ha hecho valer sus derechos ante la autoridad judicial competente o no ha dado inicio al procedimiento arbitral conforme a esta Ley.
 
 En el caso de Instituciones y Sociedades Mutualistas de Seguros, la orden mencionada en el primer párrafo de esta fracción, se referirá a la constitución e inversión conforme a la Ley General de Instituciones y Sociedades Mutualistas de Seguros de una reserva técnica especifica para obligaciones pendientes de cumplir, cuyo monto no deberá exceder de la suma asegurada. Dicha reserva se registrará en una partida contable determinada.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+Si de las constancias que obren en el expediente respectivo se desprende, a juicio de la Comisión Nacional, la improcedencia de las pretensiones del Usuario, ésta podrá abstenerse de ordenar el pasivo contingente o la reserva técnica.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -850,11 +894,11 @@ Corresponde a la Comisión Nacional adoptar todas aquellas medidas necesarias pa
 
 Los convenios celebrados ante la Comisión Nacional tendrán el carácter de una sentencia ejecutoria.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 12 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 81.
 
-En caso de que el laudo emitido por la Comisión Nacional o por el árbitro propuesto por ésta, condene a la Institución Financiera a resarcir al Usuario, la Institución Financiera tendrá un plazo de quince días hábiles contado a partir de la notificación para hacerlo.
+En caso de que el laudo emitido condene a la Institución Financiera y una vez que quede firme, ésta tendrá un plazo de quince días hábiles contado a partir de la notificación para su cumplimiento o ejecución.
 
 Si la Institución Financiera no cumple en el tiempo señalado, la Comisión Nacional enviará el expediente al juez competente para su ejecución.
 
@@ -894,9 +938,9 @@ Sin perjuicio de lo anterior, la parte afectada podrá solicitar a la Comisión 
 
 La Comisión Nacional podrá, atendiendo a las bases y criterios que apruebe la Junta, brindar defensoría legal gratuita a los Usuarios.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
-La Comisión Nacional se abstendrá de prestar estos servicios en aquellos casos en que las partes se sujeten a alguno de los procedimientos arbitrales previstos en esta Ley.
+La Comisión Nacional se abstendrá de prestar estos servicios en aquellos casos en que las partes se sujeten a un procedimiento arbitral en que la Comisión Nacional actúe como árbitro.
 
 ###### ARTÍCULO 86.
 
@@ -946,6 +990,8 @@ En caso de que un asunto represente, en cualquier forma, un conflicto de interes
 
 ### CAPÍTULO II. DE LA SUBSTANCIACIÓN DEL RECURSO
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 93.
 
 El incumplimiento o la contravención a las disposiciones previstas en esta Ley, será sancionado con multa que impondrá administrativamente la Comisión Nacional, tomando como base el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción de que se trate.
@@ -966,9 +1012,15 @@ I. Multa de 200 a 1000 días de salario, a la Institución Financiera que no pro
 
 II. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, para el cumplimiento de su objeto, de acuerdo con los artículos 12, 53 y 58 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-III. Multa de 500 a 2000 días de salario, a la Institución Financiera que no presente el informe o la información adicional a que se refieren las fracciones II y VI, respectivamente, del artículo 68 de la presente Ley;
+III. Multa de 500 a 2000 días de salario a la Institución Financiera que no presente:
+
+a) Los documentos, elementos o información específica solicitados en términos del artículo 67;
+
+b) El informe a que se refieren las fracciones II y III del artículo 68, o no lo rinda respondiendo de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, y
+
+c) La información adicional a que se refiere la fracción VI del artículo 68.
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -1018,7 +1070,7 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 ###### ARTÍCULO 99.
 
-En contra de las resoluciones de la Comisión Nacional dictadas fuera del procedimiento arbitral, con fundamento en las disposiciones de esta Ley, se podrá interponer por escrito recurso de revisión.
+Procede el recurso de revisión contra aquellas resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento, o bien, cuando a través de las mismas se imponga una sanción.
 
 ###### ARTÍCULO 100.
 
@@ -1050,9 +1102,11 @@ Si se ofrecen pruebas que ameriten desahogo, se concederá al interesado un plaz
 
 Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad competente desechará por improcedente el recurso interpuesto. Si se omitieran las pruebas, se tendrán por no ofrecidas. La resolución del recurso de revisión podrá desechar, confirmar, mandar reponer por uno nuevo que lo sustituya o revocar el acto impugnado, y deberá ser emitida en un plazo no superior a los treinta días hábiles.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 105.
 
-En el caso de que se confirme la resolución recurrida, la multa impuesta se actualizará de conformidad con lo previsto por el Código citado en el artículo 96. Las multas impuestas no se actualizarán por fracciones de mes.
+En el caso de que se confirme la resolución recurrida, la multa impuesta se actualizará de conformidad con lo previsto por el Código citado en el artículo 97. Las multas impuestas no se actualizarán por fracciones de mes.
 
 ###### ARTÍCULO 106.
 
@@ -1111,3 +1165,9 @@ TERCERO.- Todos aquellos procedimientos en que intervenga la Comisión Nacional 
 CUARTO.- Las Instituciones Financieras deberán constituir las Unidades Especializadas a que se refiere el artículo 50 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
 
 QUINTO.- La Comisión Nacional contará con un plazo de 120 días hábiles para la expedición y publicación en el Diario Oficial de la Federación, a que hace referencia el primer párrafo del artículo 72 Bis.
+
+D.O.F. 12 DE MAYO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El término para la emisión del dictamen a que se refiere la fracción VII, del artículo 68, será de 120 días hábiles durante un año, a partir de la entrada en vigor del presente Decreto.
