@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-579-de-transito-y-transporte-para-el-estado-de-45020
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-08"
-last_updated: "2003-08-08"
+last_updated: "2005-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 8 de agosto de 2003.
 
@@ -905,9 +905,11 @@ La Dirección podrá suspender, en cualquier momento, la autorización para el s
 
 ### Capítulo XV. Del servicio de transporte público
 
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
+
 ###### Artículo 83.
 
-El servicio de transporte público es de utilidad pública y estará sujeto a concesión otorgada por el titular de la Secretaría, una vez satisfechos los requisitos establecidos en esta Ley y su Reglamento.
+El servicio de transporte público es de utilidad pública y estará sujeto a concesión otorgada en exclusiva por Gobernador del Estado, una vez satisfechos los requisitos establecidos en esta Ley y su Reglamento.
 
 ###### Artículo 84.
 
@@ -975,11 +977,11 @@ Queda prohibido el cambio de localidad para la prestación de servicio público 
 
 El servicio de transporte público concesionado será general, permanente, regular y continuo, sujeto a la tarifa autorizada por el titular de la Secretaría.
 
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
+
 ###### Artículo 89.
 
-Las concesiones para la prestación del servicio de transporte público se otorgarán a personas físicas de nacionalidad mexicana y a personas morales constituidas por éstas, de acuerdo a las leyes mexicanas, siempre que lo soliciten al titular de la Secretaría y cumplan con los requisitos y condiciones que señalen esta Ley y su Reglamento.
-
-La Secretaría resolverá lo procedente, respetando el orden de las solicitudes con sus respectivos estudios socioeconómicos y técnicos que realice la Dirección, sobre la necesidad o no del otorgamiento de la concesión, para lo cual tomará en cuenta la opinión del Consejo Técnico respectivo.
+Las concesiones para la prestación del servicio de transporte público se otorgarán mediante acto público, a personas físicas de nacionalidad mexicana y a personas morales constituidas por éstas, de acuerdo a las leyes mexicanas, siempre que lo soliciten al titular de la Secretaría y cumplan con los requisitos y condiciones que señalan esta Ley y su Reglamento.
 
 ###### Artículo 90.
 
@@ -1434,3 +1436,11 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 12 DE MAYO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en ka Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente ordenamiento.
