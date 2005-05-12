@@ -4,7 +4,7 @@ identifier: "LFGFAGA"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-31"
-last_updated: "1993-12-23"
+last_updated: "2005-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LFGFAGA"
 
 LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1954.
+Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1954.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -45,6 +45,14 @@ LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVI
 ###### ARTICULO 1o.
 
 Se crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura que será manejado en fideicomiso por el Banco de México, S. A., de conformidad con las normas que se establecen en la presente ley, con las reglas de operación correspondientes y con el contrato de fideicomiso que celebre la Secretaría de Hacienda y Crédito Público con el Fiduciario.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+La canalización y el uso de los recursos del Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, para el desarrollo del sector agropecuario y forestal, se harán a través de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito y de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público. Al efecto, las tasas de interés, primas de garantías y demás requisitos que se aplicarán a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los demás intermediarios financieros no bancarios que operen con el Fondo, deberán ser aprobados por el Comité Técnico, considerando el riesgo financiero y calidad crediticia que representen los intermediarios financieros y sus acreditados finales.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+Los productores que se beneficien con los recursos del Fondo, recibirán financiamiento en condiciones adecuadas para el desarrollo del sector.
 
 ###### ARTICULO 2o.
 
@@ -68,13 +76,21 @@ VII.- Con los demás recursos con que resuelva incrementarlo el Ejecutivo Federa
 
 Dentro de las limitaciones establecidas en la presente ley y las que se establezcan en las reglas de operación respectivas y en el contrato de fideicomiso, el Fiduciario podrá realizar las siguientes operaciones:
 
-I.- Garantizar a las instituciones de crédito privadas, la recuperación de los préstamos que otorguen a la agricultura.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-II.- Descontar en casos necesarios a las instituciones de crédito privadas títulos de crédito provenientes de préstamos otorgados a la agricultura.
+I.- Garantizar a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, en la recuperación de los préstamos que se otorguen a los productores agropecuarios y forestales;
 
-III.- Abrir créditos y otorgar préstamos a las instituciones de crédito privadas, con objeto de que éstas a su vez abran créditos a los agricultores.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-IV.- Realizar las demás que se fijen en las reglas de operación, siempre que sean por conducto de las instituciones de crédito privadas.
+II.- Descontar en casos necesarios a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, títulos de crédito provenientes de préstamos otorgados a los productores agropecuarios y forestales;
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+
+III.- Abrir créditos y otorgar préstamos a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, con objeto de que éstas a su vez abran créditos a los productores agropecuarios y forestales, y
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+
+IV.- Realizar las demás que se fijen en las reglas de operación, siempre que sean por conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los intermediarios financieros no bancarios que operen con el Fondo.
 
 > <small>(F. DE E., D.O.F. 4 DE MARZO DE 1955)</small>
 
@@ -86,17 +102,17 @@ El Fiduciario podrá emitir valores pero para ello se requerirá la aprobación 
 
 Las operaciones a que se refiere el artículo 3o. de esta ley, se sujetarán a las siguientes normas:
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1955)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-I.- Sólo se efectuarán en relación con créditos de habilitación o avío y refaccionarios que hayan sido otorgados o concertados para el cultivo de artículos básicos para la alimentación y en casos necesarios, que calificará el Comité Técnico, de artículos de exportación. Se exceptúan de esta regla los créditos a la ganadería y a la avicultura a que se refiere el artículo 13;
+I.- Sólo se efectuarán en relación con financiamientos que hayan sido otorgados o concertados a personas físicas o morales cuyas actividades se encuentren relacionadas con la producción, acopio y distribución de bienes y servicios de o para los sectores agropecuario y forestal, así como de la agroindustria y de otras actividades conexas o afines, o que se desarrollen en el medio rural;
 
-II.- Sólo podrán garantizarse los créditos agrícolas cuando el habilitado o refaccionado cumpla con alguno de los siguientes requisitos:
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1955)</small>
+II.- Sólo podrán garantizarse los financiamientos a que se refiere la fracción I anterior, cuando el acreditado cumpla con alguno de los siguientes requisitos:
 
-a).- Invertir con recursos propios la parte que señalen las reglas de operación, del presupuesto para cuyos fines se otorgue el financiamiento o,
+a) Invertir con recursos propios la parte que señalen las reglas de operación, del presupuesto para cuyos fines se otorgue el financiamiento, o
 
-b).- Tener bienes suficientes para responder del financiamiento total, independientemente del valor que se espere de la cosecha.
+b) Tener bienes suficientes para responder del financiamiento total, independientemente del valor que se espere de la actividad productiva a la que se destinen los recursos.
 
 III.- Los créditos que sean objeto de la garantía, los que se descuenten y los que se otorguen con recursos provenientes del Fondo deberán estar documentados y requisitados conforme a lo dispuesto en las Leyes General de Títulos y Operaciones de Crédito y General de Instituciones de Crédito y Organizaciones Auxiliares, y a la presente ley.
 
@@ -108,7 +124,9 @@ No podrán garantizarse los créditos que hayan sido otorgados en condiciones qu
 
 La garantía del fondo no excederá del 60% del crédito otorgado o concertado, según lo establezcan las reglas de operación; pero dicha garantía sólo se hará efectiva en relación con la cantidad que realmente se haya ejercido, conforme al calendario correspondiente.
 
-El Fiduciario se subrogará en los derechos de la institución acreedora por las cantidades que les pague con motivo de la garantía otorgada y dichas instituciones suscribirán, con sujeción a las normas legales, los documentos que se requieran para que tales derechos queden a favor del mismo Fondo.
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
+El Fiduciario se subrogará en los derechos de la institución de banca múltiple, de la unión de crédito, del almacén general de depósito o del intermediario financiero no bancario acreedor, por las cantidades que le pague con motivo de la garantía otorgada y dicho intermediario financiero suscribirá, con sujeción a las normas legales, los documentos que se requieran para que tales derechos queden a favor del Fondo.
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTICULO.</small>
 
@@ -124,13 +142,17 @@ III.- Fijar las primas que deban cobrarse por el otorgamiento de garantías, as�
 
 IV.- Las que se le atribuyan en esta ley, en las reglas de operación y en el contrato de fideicomiso respectivo.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 9o.
 
-El Fiduciario deberá reservarse las facultades necesarias para que, cuando lo juzgue oportuno pueda efectuar auditorías, exigir estados de contabilidad, documentos y demás datos a los agricultores, según el caso, directamente o por conducto de la institución de crédito que haya intervenido en la operación respectiva.
+El Fiduciario deberá reservarse las facultades necesarias para que, cuando lo juzgue oportuno pueda efectuar auditorías, exigir estados de contabilidad, documentos y demás datos a los productores agropecuarios y forestales, según el caso, directamente o por conducto de la institución de banca múltiple, de la unión de crédito, del almacén general de depósito o del intermediario financiero no bancario que haya intervenido en la operación respectiva.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 10.
 
-Todas las operaciones a que se refiere la presente ley sólo podrán efectuarse por conducto de las instituciones de crédito privadas.
+Todas las operaciones a que se refiere la presente Ley sólo podrán efectuarse por conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 11.
 
@@ -185,3 +207,9 @@ DECIMO OCTAVO.- .
 .
 
 Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
+
+D.O.F. 12 DE MAYO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Para los efectos del presente Decreto, las Uniones de Crédito que reciban de sus socios depósitos de ahorro, deberán ajustarse a los plazos, requisitos, términos y condiciones que establece la Ley de Ahorro y Crédito Popular, así como sus reformas subsecuentes.
