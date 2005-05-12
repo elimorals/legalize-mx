@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2004-08-10"
+last_updated: "2005-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2235,17 +2235,23 @@ c) Por la utilización de grúas oficiales para el retiro de vehículos accident
 
 d) Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial. Por día: 0.50 salario mínimo
 
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE MAYO DE 2005)</small>
 
-X. Por el otorgamiento de una concesión o permisos en trámite para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en la Ley de Tránsito y Transporte y su Reglamento:
+X. Por el otorgamiento de una concesión o permisos en trámite para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en la Ley de Tránsito y Transporte y su Reglamento.
 
-a) Taxi y colectivo: 1000 salarios mínimos
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
 
-b) Urbano, Suburbano y Foráneo. 1250 salarios mínimos
+a) Taxi, Colectivo. 250 salarios mínimos
 
-c) Carga, Escolar, Exclusivo de Turismo, Recreativo y Transporte de Personal de Empresas:
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
 
-750 salarios mínimos
+b) Urbano, Suburbano y Foráneo. 280 salarios mínimos
+
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
+
+c) Carga, escolar, exclusivo de turismo y transporte de personal de empresas. 155 salarios mínimos.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
 
 d) Carga especializada en modalidad de grúa:
 
@@ -2261,13 +2267,17 @@ e) Rural Mixto carga-pasaje: 500 salarios mínimos
 
 XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el Servicio Público de Transporte en la modalidad de Taxi, Colectivo, Rural Mixto, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo o Transporte de Personal de Empresas. 50 salarios mínimos
 
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 200 salarios mínimos
+
+Revalidación anual. 150 salarios mínimos
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2003)</small>
 
 XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 500 salarios mínimos
 
 Revalidación anual. 150 salarios mínimos
-
-XIII. Por la transferencia por cesión de derechos de una concesión para prestar el Servicio Público de Transporte en las modalidades siguientes:
 
 > <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -2291,7 +2301,7 @@ Por el registro y revalidación anual de los empleados de las prestadoras de ser
 
 Registro Individual 5 salarios mínimos
 
-Revalidación individual 5 salarios mínimos
+Revalidación individual 5 salarios mínimos.
 
 ### CAPÍTULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES
 
@@ -8180,3 +8190,9 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 TERCERO. Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
 
 CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
+
+G.O. 12 DE MAYO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente ordenamiento.
