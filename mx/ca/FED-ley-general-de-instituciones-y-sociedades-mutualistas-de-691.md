@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2005-02-23"
+last_updated: "2005-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -52,6 +52,10 @@ La presente Ley es de interés público y tiene por objeto regular la organizaci
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 Las instituciones nacionales de seguros se regirán por sus leyes especiales y, a falta de éstas o cuanto en ellas no esté previsto, por lo que estatuye la presente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2005)</small>
+
+Esta Ley reconoce a los Fondos de Aseguramiento Agropecuario y Rural, los cuales se sujetarán en su operación al artículo 13 de esta Ley y serán regulados, para efectos de su organización, funcionamiento y actividades, por la Ley de Fondos de Aseguramiento Agropecuario y Rural.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -375,11 +379,11 @@ Los seguros de grupo o de empresa y popular, así como los que la ley establezca
 
 En los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, las instituciones deberán dar cumplimiento a lo dispuesto por la Ley sobre el Contrato de Seguro a fin de cubrir hasta la suma asegurada que se establezca en las disposiciones legales respectivas o en las que deriven de las mismas, vigentes al celebrarse el contrato.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 13.
 
-Las asociaciones de personas que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte, beneficios en los de accidentes y enfermedades o indemnizaciones por daños, con excepción de las coberturas de naturaleza catastrófica, o de alto riesgo por monto o acumulaciones podrán operar sin sujetarse a los requisitos exigidos por la presente Ley, pero deberán someterse a las reglas generales que expida la Secretaría de Hacienda y Crédito Público, donde se fijarán las bases para que, cuando proceda por el número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas asociaciones que se ajusten a la presente Ley, convirtiéndose en sociedades mutualistas de seguros.
+Las asociaciones de personas que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte, beneficios en los de accidentes y enfermedades o indemnizaciones por daños, con excepción de las coberturas de alto riesgo por monto o acumulaciones y las de naturaleza catastrófica salvo que éstas se relacionen con las operaciones correspondientes al ramo agrícola y de animales o al aseguramiento de los bienes conexos a la actividad agropecuaria, podrán operar sin sujetarse a los requisitos exigidos por la presente Ley, pero deberán someterse a las reglas generales que expida la Secretaría de Hacienda y Crédito Público, donde se fijarán las bases para que, cuando proceda por el número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas asociaciones que se ajusten a la presente Ley, convirtiéndose en sociedades mutualistas de seguros.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1903,7 +1907,7 @@ I.- Proveer de fondos al Instituto Mexicano del Seguro Social, previa instrucci�
 
 II.- Apoyar a las instituciones de seguros fideicomitentes que demuestren a satisfacción de la Secretaría de Hacienda y Crédito Público, que no cuentan con los recursos necesarios para hacer frente a sus obligaciones derivadas de los seguros de renta vitalicia o de sobrevivencia a que se refiere la Ley del Seguro Social, por presentarse cualquiera de los supuestos siguientes:
 
-a). Desviación en la siniestralidad de su mutualidad, respecto de las hipótesis demográficas adoptadas en el cálculo original de las primas que haya cobrado;
+a).- Desviación en la siniestralidad de su mutualidad, respecto de las hipótesis demográficas adoptadas en el cálculo original de las primas que haya cobrado;
 
 b).- Desviación generalizada en la siniestralidad del mercado, respecto de las hipótesis demográficas adoptadas en el cálculo de los montos constitutivos;
 
@@ -2263,11 +2267,11 @@ En el caso del traspaso de la cartera, transcurrido el término de notificación
 
 Tratándose de la fusión de dos o más instituciones de seguros, una vez satisfechos los requisitos a que se refiere el segundo párrafo de este artículo y una vez que se hubiere sometido a la consideración de la Secretaría de Hacienda y Crédito Público el convenio de fusión aprobado por las asambleas de las instituciones involucradas, la propia Secretaría resolverá sobre su procedencia, la cual surtirá efectos al momento de inscribirse en el Registro Público de Comercio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 En la escisión de alguna institución de seguros, además de lo señalado en los párrafos primero y segundo de este artículo, se observará lo establecido en el artículo 228 Bis de la Ley General de Sociedades Mercantiles, debiendo ser extraordinaria la asamblea que decida la escisión.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Los procesos de traspaso de cartera, fusión o escisión a que se refiere este artículo, de ninguna manera modificarán los términos y condiciones vigentes pactados en los contratos de seguro correspondientes. En todo caso, para su modificación será necesaria la manifestación de la voluntad de las partes interesadas en este sentido.
 
@@ -4922,3 +4926,13 @@ D.O.F. 28 DE ENERO DE 2004.
 D.O.F. 23 DE FEBRERO DE 2005.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MAYO DE 2005.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+...
