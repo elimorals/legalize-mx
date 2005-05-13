@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-organizacion-interna-del-instituto-de-40528"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-16"
-last_updated: "2004-08-16"
+last_updated: "2005-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de agosto de 2004
 
@@ -1621,9 +1621,11 @@ Les facultades descritas en el Artículo anterior son de carácter enunciativo y
 
 El Comité para el Control de Operaciones Patrimoniales, será el único facultado para dictaminar las cuestiones enunciadas y su terminación estará condicionada al acuerdo que para tal efecto dicte el Consejo Directivo.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+
 ###### Artículo 127.
 
-El Comité para el Control de Operaciones Patrimoniales será presidido por el Director General, quien se auxiliará de un Secretario Técnico, que será el Coordinador de Contratos y Servicios.
+El Comité para el Control de Operaciones Patrimoniales será presidido por el Titular de la Oficialía Mayor de Gobierno, quien se auxiliará de un Secretario Técnico, que será el Coordinador de Contratos y Servicios del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
 
 ###### Artículo 128.
 
@@ -1641,31 +1643,37 @@ El comisario podrá solicitar al Comité para el Control de Operaciones Patrimon
 
 El comisario tendrá voz, pero no voto dentro de las sesiones.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+
 ###### Artículo 132.
 
 El Comité para el Control de Operaciones Patrimoniales estará integrado por:
 
-I. Director General, quien fungirá como Presidente, sin perjuicio de las facultades que al efecto delegue.
+I.- El Titular de la Oficialía Mayor de Gobierno, quien fungirá como Presidente, pudiendo delegar esta función en algún otro servidor público de la Oficialía Mayor de Gobierno;
 
-II. Director de Administración.
+II.- Director General;
 
-III. Director de Planeación y Finanzas
+III.- Director de Administración;
 
-IV. Director de Prestaciones Sociales y Económicas.
+IV.- Director de Planeación y Finanzas;
 
-V. Director de Servicios Médicos.
+V.- Director de Prestaciones Sociales y Económicas;
 
-VI. Director Jurídico.
+VI.- Director de Servicios Médicos;
 
-VII. Titular de la Contraloría Interna.
+VII.- Director de Servicios Médicos Subrogados;
 
-VIII. Coordinador de Contratos y Servicios, quien fungirá como Secretario Técnico.
+VIII.- Director Jurídico;
 
-IX. Jefe de Adquisiciones.
+IX.- Titular de la Contraloría Interna;
 
-X. Representante de la Secretaria de la Contraloría Interna del Gobierno del Estado.
+X.- Coordinador de Contratos y Servicios, quien fungirá como Secretario Técnico;
 
-XI. Titular del área que va a adquirir el servicio.
+XI.- Jefe de Adquisiciones;
+
+XII.- Representante de la Contraloría Interna del Gobierno del Estado; y
+
+XIII.- Titular del área que va a adquirir el servicio.
 
 ###### Artículo 133.
 
@@ -1687,13 +1695,19 @@ IV. Firma del Secretario Técnico.
 
 El Comité para el Control de Operaciones Patrimoniales aprobará su calendario de sesiones ordinarias en la primera reunión del año.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+
 ###### Artículo 136.
 
-Cuando la naturaleza de algún asunto a tratar requiera de una reunión extraordinaria el Presidente deberá convocar a los miembros del Comité cuando menos con veinticuatro horas de anticipación.
+Cuando la naturaleza de algún asunto a tratar requiera de una reunión extraordinaria el Secretario Técnico del Comité deberá convocar a los miembros del Comité cuando menos con veinticuatro horas de anticipación.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
 
 ###### Artículo 137.
 
 El quórum necesario para las sesiones será la mayoría de los integrantes. En caso de no haber quórum se convocará a una nueva sesión que deberá ser dentro de los tres días hábiles siguientes, la cual se efectuará con los integrantes que concurran y se autorizarán los acuerdos tomados en ella.
+
+En caso de ausencia del presidente o su suplente, la sesión la presidirá el funcionario que se elija por los presentes.
 
 ###### Artículo 138.
 
@@ -1914,3 +1928,9 @@ Representante del Dip. Lic. César (sic) Presidente en la Comisión de Coordinac
 Lic. Ricardo (sic) Cavazos Galván
 
 Director General del (sic) Consejo Directivo del ISSSTELEON
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE MAYO DE 2005.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
