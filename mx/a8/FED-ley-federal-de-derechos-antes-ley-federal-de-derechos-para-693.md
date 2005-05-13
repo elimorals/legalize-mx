@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2005-03-04"
+last_updated: "2005-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 4 DE MARZO DE 2005.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -23425,7 +23425,7 @@ Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aer
 
 II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2005)</small>
 
 Tipo de aeronaves Cuota
 
@@ -23439,7 +23439,7 @@ y hasta 11.1 metros $ 100.00
 
 Con envergadura de más de 11.1 metros
 
-y hasta 12.5 metros $ 150.00
+y hasta 16.7 metros $ 150.00
 
 III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
@@ -23461,15 +23461,17 @@ Lo dispuesto en este artículo, es independiente del pago por los servicios de e
 
 Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla:
 
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2005)</small>
+
 Clasificación por envergadura de aeronaves
 
 Pequeñas Medianas Grandes
 
 Tipo A Tipo B
 
-Hasta 12.5 De más de De más de De más
+Hasta 16.7 De más de De más de De más
 
-metros y los 12.5 metros 25.0 metros de 38.0
+metros y los 16.7 metros 25.0 metros de 38.0
 
 helicópteros hasta 25.0 hasta 38.0 metros
 
@@ -26792,3 +26794,7 @@ Las cuotas de los derechos por servicios prestados por oficinas autorizadas en e
 D.O.F. 4 DE MARZO DE 2005.
 
 LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 13 DE MAYO DE 2005.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
