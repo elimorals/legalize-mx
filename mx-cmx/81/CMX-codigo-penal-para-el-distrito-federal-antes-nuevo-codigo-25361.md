@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2005-01-17"
+last_updated: "2005-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MAYO DE 2005.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2488,11 +2488,17 @@ RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTRO
 
 Al particular que promueva una conducta ilícita de un servidor público, o se preste para que éste o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a la responsabilidad inherente a su empleo, cargo o comisión, se le impondrán de seis meses a cuatro años de prisión y de cien a quinientos días multa.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 278.
 
-Al particular que de manera espontánea le ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto relacionado con sus funciones, se le impondrán de seis meses a tres años de prisión y de cien a quinientos días multa.
+Al particular que de manera espontánea le ofrezca dinero o cualquier dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto relacionado con sus funciones, se le impondrán las siguientes sanciones:
 
-El Juez podrá imponer al particular una tercera parte de las penas señaladas en el párrafo anterior, o eximirlo de las mismas, cuando hubiese actuado para beneficiar a alguna persona con la que lo ligue un vínculo familiar, de dependencia o cuando haya denunciado espontáneamente el delito cometido.
+I. De seis meses a tres años de prisión y de veinte a doscientos días multa cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente a cien veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable; o
+
+II. De uno a cinco años de prisión y de trescientos a ochocientos días multa cuando la cantidad o el valor de la dádiva, promesa o prestación excedan de cien veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+
+El juez podrá imponer al particular una tercera parte de las penas señaladas en el párrafo anterior, o eximirlo de las mismas, cuando hubiese actuado para beneficiar a alguna persona con la que lo ligue un vínculo familiar, de dependencia o cuando haya denunciado espontáneamente el delito cometido.
 
 ###### ARTÍCULO 279.
 
@@ -3565,3 +3571,13 @@ G.O. 20 DE DICIEMBRE DE 2004.
 G.O. 17 DE ENERO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
