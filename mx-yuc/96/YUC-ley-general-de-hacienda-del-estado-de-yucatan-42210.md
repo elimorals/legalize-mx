@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-42210"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-12-21"
-last_updated: "2004-12-21"
+last_updated: "2005-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MAYO DE 2005.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 21 de diciembre de 2004.
 
@@ -241,13 +241,19 @@ El pago del impuesto deberá efectuarse a más tardar el día 20 del mes siguien
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 21.
 
-El objeto de este impuesto lo constituyen las erogaciones que sean efectuadas en el Estado de Yucatán por concepto de remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón.
+El objeto de este impuesto lo constituyen las erogaciones por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios, siempre y cuando los servicios que las generen, se efectúen en el territorio del Estado de Yucatán.
 
-Para los efectos de este artículo se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado los salarios, honorarios asimilables a salarios y demás prestaciones que deriven de una relación laboral, incluyendo las comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad y cualquier otro emolumento, independientemente de la designación que se le dé, aun cuando se eroguen en favor de personas que realicen sus actividades fuera del Estado.
+Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé.
 
-Son también objeto de este impuesto los pagos realizados a los administradores, comisarios o miembros de los consejos directivos, de administración y de vigilancia.
+Se entiende por honorarios asimilables a salarios, las erogaciones por concepto de contraprestación al servicio personal independiente, siempre y cuando éste se preste bajo la dirección del prestatario, en forma preponderante y siempre que el servicio se lleve a cabo en las instalaciones del mismo.
+
+Para los efectos del párrafo anterior, se entiende que una persona presta servicios preponderantemente a un prestatario, cuando los ingresos percibidos de dicho prestatario en el ejercicio fiscal inmediato anterior, represente más del 50% del total de sus ingresos obtenidos.
+
+También se entiende por honorarios asimilables a salarios, las remuneraciones que se paguen a miembros de consejos directivos, de vigilancia o consultivos, administradores únicos, comisarios, directores y gerentes generales.
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
@@ -269,9 +275,11 @@ El impuesto se determinará aplicando a la base la tasa del 2%.
 
 #### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 25.
 
-Este impuesto se causará en el momento en que se cubra la remuneración por el trabajo personal subordinado.
+Este impuesto se causará en el momento en que se efectúen las erogaciones a que se refiere el artículo 21 de esta Ley.
 
 #### SECCIÓN SEXTA. DE LA ÉPOCA Y LUGAR DE PAGO
 
@@ -575,7 +583,9 @@ V.- De motocicleta $ 31.00.
 
 VI.- De remolque $ 31.00
 
-VII.- Permiso para circular sin placas por día $ 12.00
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2005)</small>
+
+VII.- Permiso para circular sin placas, por cada día $6.00
 
 ###### ARTÍCULO 51.
 
@@ -897,7 +907,7 @@ b) Si se otorga ante Escribano $ 55.00
 
 III.- De testamento $ 112.00
 
-IV.- El 10% del importe de la renta o frutos civiles $ 75.00
+IV.- (DEROGADA, D.O. 15 DE MAYO DE 2005)
 
 ###### ARTÍCULO 64.
 
@@ -922,6 +932,10 @@ DE 80,000.01 A 110,000.00 $ 631.00
 DE 110,000.01 EN ADELANTE $ 976.00
 
 Cualquier escritura pública o contrato otorgados o firmados ante fedatarios públicos que no contenga precio de la operación ni esté gravada en el artículo anterior, causará un derecho de $ 108.00
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2005)</small>
+
+En los contratos o convenios en los que se pacte la ocupación o la desocupación de inmuebles y se estipule un plazo indefinido, se tomará la cuantía correspondiente a un año, aplicándose la tarifa del párrafo anterior.
 
 No se causará este derecho por escrituras públicas relativas a créditos que se otorguen para la adquisición de viviendas de interés social o popular.
 
@@ -1500,3 +1514,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O. 15 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
