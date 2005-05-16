@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2002-07-10"
+last_updated: "2005-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE MAYO DE 2005.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -919,17 +919,21 @@ La amonestación procederá en caso que, de manera reiterada, los concesionarios
 
 Para el efecto de que la Dirección de Transporte proceda en los términos señalados en el párrafo anterior, las autoridades de la Dirección de Seguridad Pública y Tránsito Municipales, harán de su conocimiento por escrito las infracciones cometidas y sanciones a que se hayan hecho acreedores los concesionarios y operadores del servicio público de transporte.
 
-###### Artículo 76.
+> <small>(REFORMADO, B.O. 16 DE MAYO DE 2005)</small>
 
-A quienes infrinjan disposiciones de la presente Ley y su Reglamento, la Dirección de Transporte y las autoridades municipales en sus respectivos ámbitos de competencia, impondrán las multas que señale el Reglamento de esta Ley, las cuales no podrán ser menores a cinco días de salario mínimo ni mayores a treinta días de salario mínimo.
+###### Artículo 76.
 
 Para la imposición de las multas, la autoridad correspondiente deberá tomar en cuenta:
 
 I. La gravedad de la infracción;
 
-II. Los daños causados; y
+II. Los daños causados, y
 
-III. La reincidencia.
+III..La reincidencia.
+
+A quienes infrinjan disposiciones de la presente Ley y su Reglamento, la Dirección de Transporte y las autoridades municipales en sus respectivos ámbitos de competencia, impondrán las siguientes multas:
+
+(VEASE TABLA ANEXA)
 
 ###### Artículo 77.
 
@@ -1054,3 +1058,9 @@ Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 16 DE MAYO DE 2005.
+
+###### ARTICULO ÚNICO
+
+- El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
