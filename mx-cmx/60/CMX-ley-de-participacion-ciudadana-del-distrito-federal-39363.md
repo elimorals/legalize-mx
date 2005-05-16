@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2005-01-28"
+last_updated: "2005-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2005.
 
 Ley publicada en la Gaceta de Gobierno del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -434,7 +434,7 @@ No se admitirá iniciativa popular alguna que haya sido declarada improcedente o
 
 ###### Artículo 42.
 
-Es el instrumento a través del cual el Jefe de Gobierno, las instancias de la Administración Pública del Distrito Federal y la Asamblea Legislativa, por sí o en colaboración, someten a consideración de la ciudadanía a través de preguntas directas, foros o cualquier otro instrumento de consulta, cualquier tema que tengan impacto trascendental en los distintos ámbitos temáticos y territoriales en el Distrito Federal.
+Es el instrumento a través del cual el Jefe de Gobierno, las instancias de la Administración Pública del Distrito Federal, la Asamblea Legislativa, la Asamblea Ciudadana y/o el Comité Ciudadano, por sí o en colaboración, someten a consideración de la ciudadanía por medio de preguntas directas, foros, o cualquier otro instrumento de consulta, cualquier tema que tenga impacto trascendental en los distintos ámbitos temáticos y territoriales en el Distrito Federal.
 
 ###### Artículo 43.
 
@@ -450,13 +450,11 @@ IV. Las y los habitantes en cualquiera de los ámbitos territoriales antes menci
 
 V. Asambleas Ciudadanas, Comités Ciudadanos de una o varias Unidades o Demarcaciones Territoriales y al Consejo Ciudadano.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 ###### Artículo 44.
 
-La consulta ciudadana podrá ser convocada por el Jefe de Gobierno del Distrito Federal, la Asamblea Legislativa del Distrito Federal, el Jefe Delegacional de la Demarcación correspondiente, por sí o a petición de la Asamblea Ciudadana, el Comité Ciudadano, el Consejo Ciudadano y cualquier combinación de los anteriores.
-
-La Consulta Ciudadana se podrá realizar por medio de preguntas directas a cada habitante; o por medio de encuestas de cualquier tipo, de foros, seminarios o de otros medios eficaces para recopilar la opinión de los consultados.
-
-El procedimiento y la metodología que se utilicen se harán del conocimiento público.
+La consulta ciudadana podrá ser convocada por el Jefe de Gobierno, la Asamblea Legislativa, el Jefe Delegacional de la Demarcación correspondiente, la Asamblea Ciudadana y/o el Comité Ciudadano, así como cualquier combinación de los anteriores.
 
 ###### Artículo 45.
 
@@ -475,6 +473,8 @@ En el caso de que el ejercicio de las funciones de la autoridad no corresponda a
 Las y los habitantes en el Distrito Federal podrán colaborar con las dependencias y delegaciones de la administración pública del Distrito Federal, en la ejecución de una obra o la prestación de un servicio público, colectivo o comunitario, aportando para su realización recursos económicos, materiales o trabajo personal.
 
 ### CAPÍTULO IV. DE LA CONSULTA CIUDADANA
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 47.
 
@@ -692,6 +692,12 @@ En cada Unidad Territorial habrá una Asamblea Ciudadana, que se reunirá al men
 
 No se podrá impedir la participación de ningún vecino del lugar en la Asamblea Ciudadana sin causa justificada. En éstas podrán participar niños y jóvenes con derecho a voz.
 
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+
+En la Asamblea Ciudadana se elegirá un Comité Ciudadano por Unidad Territorial, cada tres años. A la Asamblea Ciudadana en la que se lleve a cabo el proceso de elección de Comité Ciudadano se le denominará Asamblea Ciudadana
+
+Electiva.
+
 ###### Artículo 76.
 
 En la Asamblea Ciudadana se emitirán opiniones y se evaluarán los programas, las políticas y los servicios públicos aplicados por las autoridades de su Demarcación Territorial y del Gobierno del Distrito Federal en su Unidad Territorial; así como, donde se podrán realizar las consultas ciudadanas a las que se refieren ésta y otras leyes.
@@ -768,6 +774,8 @@ V. Las dependencias de Gobierno u organizaciones a las que se invitará a la ses
 
 El Gobierno del Distrito Federal y las Delegaciones otorgarán las facilidades suficientes para su organización y realización.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 16 DE MAYO DE 2005)</small>
+
 ###### Artículo 86.
 
 El Comité Ciudadano es el órgano de representación ciudadana de la Unidad Territorial.
@@ -810,13 +818,31 @@ XIII. Convocar y presidir reuniones de trabajo temáticas y por zona;
 
 XIV. Emitir opinión sobre los programas de las Coordinaciones Territoriales de Seguridad Pública y Procuración de Justicia; y
 
-XV. Las demás que ésta y otras leyes les otorguen.
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XV. Informar a la Asamblea Ciudadana sobre sus actividades y el cumplimiento de sus acuerdos;
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XVI. Recibir información por parte de las autoridades de la Administración Pública del Distrito Federal en términos de las leyes aplicables, así como los espacios físicos necesarios para realizar sus reuniones de trabajo;
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XVII. Emitir opinión sobre los Programas de las Coordinaciones Territoriales de Seguridad Pública y Procuración de Justicia;
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XVIII. Establecer acuerdos con otros comités ciudadanos para tratar temas de su demarcación; y
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XIX. Las demás que le otorguen la presente ley y demás ordenamientos del Distrito Federal.
 
 #### SECCIÓN SEGUNDA. DE LA CONVOCATORIA DE LA ASAMBLEA CIUDADANA
 
 ###### Artículo 89.
 
-El Comité Ciudadano se conformará por nueve integrantes electos, bajo el principio de cociente natural y resto mayor.
+El Comité Ciudadano se conformará por nueve integrantes electos y ningún género podrá tener una representación mayor a 6 integrantes.
 
 ###### Artículo 90.
 
@@ -830,7 +856,9 @@ III. No haber sido condenado por delito doloso que le corresponda pena corporal.
 
 IV. No desempeñar ni haber desempeñado algún cargo público, ni de dirección partidaria a nivel delegacional o estatal, cuando menos seis meses antes a la fecha de la elección.
 
-### CAPÍTULO III. DE LA INTEGRACIÒN Y ORGANIZACIÓN DEL COMITÉ CIUDADANO
+### CAPÍTULO III. DE LA INTEGRACIÓN Y ORGANIZACIÓN DEL COMITÉ CIUDADANO
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 91.
 
@@ -860,6 +888,8 @@ El ámbito de trabajo de las dos coordinaciones restantes dependerá de las nece
 
 DE LA ELECCIÓN DE LOS COMITÉS CIUDADANOS.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 ###### Artículo 93.
 
 Todos los integrantes del Comité Ciudadano así como sus coordinaciones o áreas de trabajo son jerárquicamente iguales. La Coordinación Interna del Comité recaerá en la planilla con el mayor número de votos, y no tendrá el carácter de representación del Comité Ciudadano.
@@ -884,11 +914,13 @@ La resolución de conflictos, las remociones y las sustituciones en los Comités
 
 ###### Artículo 97.
 
-El Comité Ciudadano de cada Unidad Territorial se elegirá por medio del voto universal, libre, secreto y directo de los ciudadanos inscrito en el padrón electoral que cuenten con credencial de elector.
+El Comité Ciudadano de cada Unidad Territorial se elegirá en la Asamblea Ciudadana Electiva, por medio del voto universal, libre, secreto y directo de los ciudadanos, de conformidad con lo establecido en el artículo 85 Bis de la presente ley.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 98.
 
-Los Comités Ciudadanos serán electos el último domingo de abril e iniciarán sus funciones el primero de junio del año de la elección.
+Los Comités Ciudadanos serán electos durante los días sábado y domingo de los meses de septiembre y octubre e iniciarán sus funciones el primero de diciembre del año de la elección.
 
 ###### Artículo 99.
 
@@ -900,71 +932,119 @@ En la integración de las planillas se procurará la participación equitativa d
 
 La organización del proceso de elección de los Comités Ciudadanos estará a cargo del Instituto Electoral, de acuerdo a lo que establece esta Ley.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 ###### Artículo 101.
 
-La convocatoria para la elección será expedida por el Instituto Electoral del Distrito Federal, cuando menos setenta y cinco días antes del día en que se verifique la elección y deberá contener como mínimo con lo siguiente:
+La convocatoria para la elección será expedida por el Instituto Electoral del Distrito Federal, cuando menos cuarenta y cinco días antes del periodo en que se realice la primera Asamblea Ciudadana Electiva y deberá contener como mínimo lo siguiente:
 
-I. El Catálogo de Unidades Territoriales de cada una de las demarcaciones territoriales.
+I. El Catálogo de Unidades Territoriales de cada una de las demarcaciones territoriales y las secciones electorales que las integran.
 
 II. Los requisitos y plazo para el registro de planilla.
 
-III. El periodo de campaña y día de la elección.
+III. El periodo de campaña y el calendario de Asambleas Ciudadana Electivas, en el que se indicará lugar, fecha y hora de su realización.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ### CAPÍTULO VI. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
 
 ###### Artículo 102.
 
-La organización del proceso de elección de los órganos de representación ciudadana en cada demarcación territorial estará a cargo de los Consejos Distritales Cabecera de Demarcación del Instituto Electoral del Distrito Federal, los que se encargarán de la preparación, registro de planillas, capacitación, entrega de material y documentación electoral, cómputo y entrega de constancias de integración del Comité Ciudadano.
+La organización del proceso de elección de los órganos de representación ciudadana en cada demarcación territorial estará a cargo de las Direcciones Distritales del Instituto Electoral del Distrito Federal, los que se encargarán de la preparación, registro de planillas, capacitación, entrega de material y documentación electoral, cómputo y entrega de constancias de integración del Comité Ciudadano.
 
-Los Consejos Distritales Cabecera de Demarcación tendrán la facultad de corregir las omisiones y/o errores que se hayan cometido al registrar las planillas, únicamente en lo referente a los nombres de los integrantes y el número de registro. Estas correcciones se realizarán a petición de los interesados dentro de los cinco días siguientes al registro de las planillas.
+Las Direcciones Distritales tendrán la facultad de corregir las omisiones y/o errores que se hayan cometido al registrar las planillas, únicamente en lo referente a los nombres de los integrantes y el número de registro. Estas correcciones se realizarán a petición de los interesados dentro de los cinco días siguientes al registro de las planillas.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 103.
 
-El registro de planillas para la elección ciudadana se realizará durante la primera semana del mes de marzo del año de la elección. El Consejo Distrital Cabecera de Demarcación, sesionará dentro de los quince días siguientes al término del periodo antes señalado para aprobar los registros que procedan.
+El registro de planillas para la elección se realizará una semana después de emitida la convocatoria. La Dirección Distrital sesionará dentro de los siete días siguientes al término del periodo antes señalado para aprobar los registros que procedan.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 104.
 
-Los responsables de la recepción de votación serán los ciudadanos insaculados en el proceso electoral constitucional inmediato anterior, los que serán capacitados a partir de la segunda semana de marzo del año de la elección.
-
-Los Consejos Distritales asignarán de entre los ciudadanos capacitados los cargos en las mesas receptoras de votación en los términos que para tal efecto establezca el Consejo General del Instituto Electoral del Distrito Federal.
+La recepción y cómputo de las votaciones que se realice en las Asambleas Ciudadana Electivas estará a cargo de los funcionarios del Servicio Profesional de las Direcciones Distritales del Instituto Electoral del Distrito Federal.
 
 ###### Artículo 105.
 
 Una vez aprobado el registro de planillas, se les asignará un número de acuerdo al orden en que sean inscritas.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 ### CAPÍTULO VII. CONSEJO CIUDADANO
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 106.
 
-Las planillas podrán nombrar un representante ante el Centro de Votación, quien a su vez tendrá la representación de la planilla ante el Consejo Distrital Cabecera de Demarcación.
+Las planillas podrán nombrar un representante ante la Dirección Distrital, quien a su vez tendrá la representación de la planilla en la Asamblea Ciudadana Electiva.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 107.
 
-Las campañas se iniciarán la primera semana de abril del año de la elección y concluirán tres días antes de la jornada electoral.
+Las planillas que hayan obtenido su registro iniciarán campaña tres semanas antes de la fecha prevista en la convocatoria para la realización de la Asamblea Ciudadana Electiva y concluirán tres días antes de la celebración de la misma.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 108.
 
-La propaganda utilizada por las planillas deberá ser austera, sin dispendio, privilegiando el contacto directo con las y los ciudadanos. Su identificación será por el número con el que fueron registradas; la propaganda será en blanco y negro, y el material que se utilice deberá ser de naturaleza biodegradable y/o reciclable.
+El Instituto Electoral del Distrito Federal comunicará a los ciudadanos sobre la celebración de elección de Comités Ciudadanos.
 
-Al término del proceso electoral las planillas deberán retirar la propaganda utilizada durante la campaña.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 109.
 
-No habrá ningún tipo de recurso público a planillas o representantes. Los gastos de campaña correrán a cuenta de los integrantes de las planillas.
+Las planillas que obtengan su registro, únicamente podrán realizar actos de campaña mediante la utilización de los siguientes medios:
+
+I. Propaganda de planillas;
+
+II. Voluntarios para la entrega de la propaganda señalada en la fracción anterior; y
+
+III. Módulos de información.
+
+La propaganda de planillas deberá contenerse en papel cuyas medidas no excedan de 22 x 28 cm., el contenido será en blanco y negro identificando el número respectivo de planillas, la propuesta y los perfiles de los candidatos, así como una leyenda que promueva la participación ciudadana en la elección de los Comités Ciudadanos.
+
+Está prohibido hacer alusión a siglas o denominaciones de partidos políticos en la propaganda electoral.
+
+Los gastos de campaña que se originen de la utilización de los medios señalados en el presente artículo correrán a cargo de los integrantes de las planillas.
+
+Queda prohibida la utilización de recursos públicos o de partidos políticos en las campañas.
+
+La contravención a lo dispuesto en el presente artículo se sancionará con la pérdida del registro de la planilla.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 110.
 
-La elección se llevará a cabo en un Centro de Votación en cada Unidad Territorial, el cual se ubicará en una zona de fácil y libre acceso al interior de cada ámbito; para tal efecto los Consejos Distritales Cabecera de Demarcación aprobarán la ubicación de los Centros de Votación con un mínimo de treinta días antes de la jornada electoral. En cada Centro de Votación se ubicarán Mesas Receptoras del voto, a razón de una por hasta 1 500 ciudadanos registrados en el listado nominal.
+La elección se llevará a cabo en la Asamblea Ciudadana Electiva de cada Unidad Territorial, la cual se realizará en un espacio público abierto, ubicado en una zona de fácil y libre acceso dentro de cada ámbito territorial. En cada Asamblea Ciudadana Electiva habrá urnas que garanticen el voto universal, libre, secreto y directo; la votación concluirá una vez que hayan sufragado todos los ciudadanos asistentes.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 111.
 
-El día de la jornada electoral la apertura de los Centros de Votación se realizará a las 8:00 horas y el cierre de éste a las 18:00 horas.
+La Asamblea Ciudadana Electiva se instalará con la presencia de los funcionarios acreditados por el Instituto Electoral del Distrito Federal y los representantes de las planillas contendientes, con el siguiente orden del día:
 
-Concluida dicha jornada se realizará el escrutinio y publicación de resultados en el Centro de Votación.
+I. Instalación de la Asamblea Ciudadana Electiva por los funcionarios del Instituto Electoral del Distrito Federal.
+
+II. Presentación de la mesa.
+
+III. Explicación del procedimiento de votación.
+
+IV. Inicio de la votación.
+
+V. Cierre de la votación.
+
+VI. Conteo y publicación de los votos emitidos.
+
+VII. Clausura de la Asamblea Ciudadana Electiva.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 112.
 
-El cómputo de la elección de Comité Ciudadano se efectuará el martes siguiente al día de la jornada electoral en los Consejos Distritales Cabecera de Delegación correspondientes. Concluido el cómputo, el Consejo Distrital Cabecera de Demercación (sic) realizará la integración proporcional de cada Comité Ciudadano bajo el principio de cociente natural y resto mayor.
+El cómputo de la elección e integración del Comité Ciudadano se efectuará el martes siguiente a la fecha de la realización de la Asamblea Ciudadana Electiva en las Direcciones Distritales. Concluido el cómputo se efectuará la integración proporcional de cada Comité Ciudadano bajo el principio de cociente natural y resto mayor.
 
 ###### Artículo 113.
 
@@ -974,13 +1054,15 @@ Las controversias que se generen con motivo de la organización del proceso de e
 
 Las controversias que se generen con motivo de los cómputos, resultados e integración de los Comités Ciudadanos, serán resueltas por el Tribunal Electoral del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 ###### Artículo 115.
 
-El Instituto Electoral entregará constancias de asignación y tomará protesta a los integrantes de los Comités Ciudadanos que hayan resultado electos.
+El Instituto Electoral del Distrito Federal entregará constancias de asignación y los integrantes de los Comités Ciudadanos tomarán protesta ante la Asamblea Ciudadana, la cual será convocada para ese efecto la primera semana del mes de diciembre.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 116.
-
-En caso de declararse nula la elección de algún Comité Ciudadano deberán efectuarse elecciones extraordinarias en la última semana del segundo mes posterior a la fecha de la elección ordinaria.
 
 Las y Los integrantes de los Comités Ciudadanos electos de manera extraordinaria terminarán sus funciones en la misma fecha que los electos de manera ordinaria.
 
@@ -1058,15 +1140,19 @@ Cuando se reúnan dos o más Comités Ciudadanos, cada uno deberá informar a la
 
 ###### Artículo 126.
 
-El Consejo Ciudadano será la instancia de representación de los Comités Ciudadano que tendrán contacto directo, a través de sus comisiones, con las autoridades de la demarcación territorial y con las autoridades del Gobierno del Distrito Federal.
+El Consejo Ciudadano será la instancia de coordinación de los Comités Ciudadanos con las autoridades de la demarcación territorial y con las autoridades del Gobierno del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 127.
 
-El Consejo Ciudadano se integrará por un propietario y un suplente designados por cada uno de los Comités Ciudadanos en cada Demarcación Territorial.
+El Consejo Ciudadano se integrará con el coordinador interno de cada uno de los Comités Ciudadanos existentes en la Demarcación Territorial.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 128.
 
-Para el mejor funcionamiento y operación del Consejo Ciudadano se conformará una mesa directiva de hasta siete representantes; la cual se encargará de coordinar y convocar a las sesiones del pleno.
+Para el mejor funcionamiento y operación del Consejo Ciudadano, se conformarán equipos de trabajo por tema y/o territorio, considerando, al efecto, la división territorial de cada una de las delegaciones políticas.
 
 ###### Artículo 129.
 
@@ -1076,7 +1162,7 @@ El Consejo Ciudadano sesionará públicamente al menos dos veces al año y de ma
 
 Podrán convocar a reunión al Consejo Ciudadano:
 
-I. La mayoría calificada de los integrantes de la mesa directiva;
+I. (REFORMADA [N. DE E. DEROGADA], G.O. 16 DE MAYO DE 2005)
 
 II. El jefe Delegacional;
 
@@ -1104,27 +1190,51 @@ A las sesiones del Consejo Ciudadano podrá asistir cualquier ciudadano.
 
 ###### Artículo 133.
 
-El Consejo Ciudadano podrá formar comisiones temáticas para el mejor desempeño de sus funciones.
+(DEROGADO, G.O. 16 DE MAYO DE 2005)
 
 ###### Artículo 134.
 
-Para efectos de reuniones sobre temas específicos o del ámbito territorial, con las autoridades de la demarcación territorial y con las autoridades del Gobierno del Distrito Federal, se elegirán comisiones, por el pleno del Consejo Ciudadano, de hasta 15 integrantes.
+(DEROGADO, G.O. 16 DE MAYO DE 2005)
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 135.
 
-Las funciones del Consejo Ciudadano son:
+El Consejo Ciudadano podrá: Emitir opinión sobre programas y políticas a aplicarse en el Distrito Federal y en la demarcación territorial; Informar a las autoridades del Distrito Federal y de la Demarcación Territorial sobre los problemas que afecten a sus representados, y proponer soluciones y medidas para mejorar la prestación de los servicios públicos y privados, así como sugerir nuevos servicios; Informar permanentemente a cada uno de los Comités Ciudadanos sobre sus actividades y el cumplimiento de sus acuerdos.
 
-I. Emitir opinión sobre programas y políticas a aplicarse en el Distrito Federal y en la demarcación territorial;
+#### SECCIÓN TERCERA. DE LA ASAMBLEA CIUDADANA ELECTIVA
 
-II. Informar a las autoridades del Distrito Federal y de la Demarcación Territorial, sobre los problemas que afecten a sus representados y proponer soluciones y medidas para mejorar la prestación de los servicios públicos y privados y sugerir nuevos servicios;
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
 
-III. Informar permanentemente a cada uno de los Comités Ciudadanos sobre sus actividades y el cumplimiento de sus acuerdos;
+###### Artículo 85 Bis.
 
-IV. Recibir información por parte de las autoridades de la Administración Pública del Distrito Federal en términos de las leyes aplicables;
+Para que una Asamblea Ciudadana Electiva se constituya deberá estar presente al menos el 0.5 por ciento del total de los ciudadanos inscritos en la lista nominal de la Unidad Territorial respectiva.
 
-V. Emitir opinión sobre los Programas de las Coordinaciones Territoriales de Seguridad Pública y Procuración de Justicia; y
+La Asamblea Ciudadana Electiva se llevará a cabo en primera convocatoria con un quórum de 0.5 por ciento de los ciudadanos inscritos en la lista nominal y presenten su credencial para votar con fotografía, si no se reúne el quórum necesario, los funcionarios autorizados por el Instituto Electoral del Distrito Federal harán una segunda convocatoria a fin de constituir la Asamblea Ciudadana Electiva respectiva a la semana siguiente de la primera convocatoria, con el número de ciudadanos que se encuentren presentes, en cuyo caso no podrá ser menor al número de integrantes del Comité Ciudadano.
 
-VI. Las demás que le otorguen las leyes.
+La Asamblea Ciudadana Electiva será convocada por el Instituto Electoral del Distrito Federal en términos de lo dispuesto por el artículo 101 de la presente ley.
+
+Para constituir una Asamblea Ciudadana Electiva los ciudadanos acudirán el día y hora señalados en la convocatoria.
+
+La Asamblea Ciudadana Electiva se realizará en presencia del o los funcionarios acreditados para tal efecto por el Instituto Electoral del Distrito Federal, personal que certificará el quórum y llevará a cabo el procedimiento de elección. El Instituto Electoral del Distrito Federal será la autoridad responsable de validar el resultado de la elección.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+
+###### Artículo 85 Ter.
+
+Son motivo de nulidad de la Asamblea Ciudadana Electiva:
+
+I. Modificar sin previo aviso el lugar, la fecha u hora de su instalación.
+
+II. Inducir durante su desarrollo la votación a favor de alguna o algunas de las planillas contendientes.
+
+III. Hacer proselitismo durante el desarrollo de ésta.
+
+IV. Generar situaciones de disturbio o violencia que impidan el desarrollo adecuado de la misma.
+
+V. Realizar la Asamblea Ciudadana Electiva en algún espacio físico que no garantice la legalidad, la certidumbre y /o la imparcialidad del proceso.
+
+En caso de que se anule la Asamblea Ciudadana Electiva por el Instituto Electoral del Distrito Federal, éste convocará a una Asamblea Ciudadana Electiva extraordinaria en un plazo no mayor a 15 días.
 
 ## TRANSITORIOS
 
@@ -1177,3 +1287,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 16 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+###### ARTÍCULO SEGUNDO
+
+Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Para los efectos de las elecciones de Comités Ciudadanos a celebrarse en el año 2005, se faculta al Consejo General del Instituto Electoral del Distrito Federal, para aprobar los acuerdos y los procedimientos específicos que sean necesarios para la organización y desarrollo de las citadas elecciones, observando en todo momento los principios rectores de certeza, legalidad, independencia, imparcialidad, objetividad y equidad.
+
+Para las elecciones de Comités Ciudadanos a celebrarse en el año 2005 no serán aplicables lo dispuesto en el segundo párrafo del artículo 135 del Código Electoral del Distrito Federal, ni aquellas disposiciones del mismo ordenamiento que se opongan o resulten contradictorias a lo establecido en la presente Ley.
