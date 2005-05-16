@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "2004-07-16"
+last_updated: "2005-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE MAYO DE 2005.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -4481,7 +4481,7 @@ En la interposición, substanciación y fallo de los recursos, se observarán la
 
 ###### ARTICULO 832.
 
-Si se ha establecido alguna pena convencional , se ejecutará sin excusa antes de que se admita el recurso.
+Si se ha establecido alguna pena convencional, se ejecutará sin excusa antes de que se admita el recurso.
 
 ###### ARTICULO 833.
 
@@ -4791,7 +4791,7 @@ El Juez que no cumpla con las prescripciones de este Código y del Civil, relati
 
 ###### ARTICULO 889.
 
-Se discernirá el cargo del curador al que haya sido nombrado con ese carácter por el que ejerza la patria potestad, conforme a la prescripciones del Código Civil.
+Se discernirá el cargo del curador al que haya sido nombrado con ese carácter por el que ejerza la patria potestad, conforme a las prescripciones del Código Civil.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -4975,15 +4975,19 @@ II.- En la promoción inicial se deberá manifestar el tipo de adopción que se 
 
 III.- El procedimiento para dictaminar sobre el cumplimiento de los requisitos para la adopción lo realizará la Procuraduría de la Defensa del Menor y la Familia con apego a la legislación vigente que rige su funcionamiento;
 
-IV.- El Ministerio Público emitirá su dictamen sobre el cumplimiento de los requisitos para la adopción al contestar la vista de la promoción de la adopción;
+> <small>(REFORMADA, D.O. 16 DE MAYO DE 2005)</small>
+
+IV.- Dar vista al Ministerio Público del Dictamen que rinda la Procuraduría de la Defensa del Menor y la Familia, sobre el cumplimiento de los requisitos de procedencia para la adopción;
 
 V.- Cuando el menor hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 346, fracción IV, del Código Civil;
 
 VI.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará la permanencia de quien se pretende adoptar en el hogar del presunto adoptante, entre tanto se consuma dicho plazo;
 
-VII.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello fuere aconsejable a criterio del Juez.
+> <small>(REFORMADA, D.O. 16 DE MAYO DE 2005)</small>
 
-En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses a que se refiere el presente artículo, y
+VII.- Si no se conociera el nombre de los padres, o no hubiere sido cuidado en institución de asistencia social pública o privada; se decretará la custodia a favor del presunto adoptante, por el término de seis meses o más para los mismos efectos, siempre y cuando, fuere aconsejable a criterio el Juez.
+
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción, en cualquiera de sus dos formas; no se requerirá que transcurra el plazo a que se refiere el presente artículo, y
 
 VIII.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país.
 
@@ -4993,29 +4997,23 @@ La documentación que presenten los solicitantes extranjeros en idioma distinto 
 
 La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 917.
 
-Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el Juez de lo Familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
+Rendidas las constancias que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deban darlo conforme al Código Civil, el Juez competente en materia Familiar resolverá dentro del tercer día, concediendo o negando la autorización para la adopción. Una vez ejecutoriada la resolución que conceda la adopción, ésta será considerada como irrevocable.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 918.
 
-Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el Juez los citará a una audiencia verbal, para que dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 321 del Código Civil.
-
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la revocación, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
+En todo juicio de pérdida de patria potestad, el Juez deberá dictar las medidas cautelares, a efecto de salvaguardar el interés superior del menor.
 
 > <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 1999)</small>
 
 ARTICULO 918 A.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 316 A del Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público y previa valoración de la Procuraduría de la Defensa del Menor y la Familia, luego de las cuales se resolverá lo conducente, en el término de ocho días.
 
-> <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 1999)</small>
-
-ARTICULO 918 B.- Los procedimientos de revocación en materia de adopción simple se seguirán por la vía ordinaria.
+ARTICULO 918 B.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
 
 ### CAPITULO X. De las informaciones judiciales
 
@@ -6019,7 +6017,7 @@ El interventor no puede deducir en juicio las acciones que por razón de mejoras
 
 ###### ARTICULO 1110.
 
-El interventor tendrá el dos por ciento del importe de los bienes, si no excede de 200 veces el salario mínimo vigente en la ciudad de Mérida; si excede de esta suma, pero no de 500 veces el salario mínimo vigente en la ciudad de Mérida, tendrá además, el uno por ciento sobre el exceso, y se excediera de 500 veces el salario mínimo vigente el la ciudad de Mérida, tendrá el medio por ciento además, sobre la cantidad excedente. El albacea judicial tendrá el mismo honorario que el interventor.
+El interventor tendrá el dos por ciento del importe de los bienes, si no excede de 200 veces el salario mínimo vigente en la ciudad de Mérida; si excede de esta suma, pero no de 500 veces el salario mínimo vigente en la ciudad de Mérida, tendrá además, el uno por ciento sobre el exceso, y se excediera de 500 veces el salario mínimo vigente en la ciudad de Mérida, tendrá el medio por ciento además, sobre la cantidad excedente. El albacea judicial tendrá el mismo honorario que el interventor.
 
 ###### ARTICULO 1111.
 
@@ -6460,3 +6458,17 @@ D.O. 6 DE JULIO DE 2004.
 D.O. 16 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 16 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos de adopción que actualmente se encuentren en trámite ante los Jueces competentes en materia Familiar, deberán continuarse y concluirse conforme a las disposiciones vigentes al momento del inicio de su tramitación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
