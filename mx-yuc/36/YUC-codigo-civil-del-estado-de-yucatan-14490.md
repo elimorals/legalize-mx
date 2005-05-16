@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2002-12-30"
+last_updated: "2005-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE MAYO DE 2005.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -255,6 +255,10 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que según los artículos 266, 267 y 268 de este código, pueden continuar o intentar la acción que en ellos se menciona.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 16 DE MAYO DE 2005)</small>
+
+V.- Los adoptantes, en los casos establecidos en el artículo 309 E de este Código Civil.
+
 ###### Artículo 39.
 
 Por comparecencia ante el oficial del registro civil que corresponda, el interesado mayor de edad podrá pedir que se varíe, por una sola vez, el nombre propio con que fue inscrito en su acta de nacimiento.
@@ -279,7 +283,7 @@ Toda persona que encuentre a un recién nacido o menor de edad en cuya casa o pr
 
 I.- Cuando se trate de un recién nacido, deberá presentarlo al oficial del registro civil del lugar, dentro de los tres días siguientes, con los vestidos, papeles y cualesquiera otros objetos encontrados con él, declarando el día y el lugar donde lo hubiese hallado, así como las demás circunstancias que en el caso hayan concurrido, sin perjuicio de hacer la denuncia ante el ministerio público que corresponda.
 
-II.- Cuando se trate de menores de edad, de inmediato denunciarán el caso ante el ministerio público, para que, en tanto el representante social haga las investigaciones del caso, pongan al abandonado bajo el cuidado y protección del sistema del desarrollo integral de la familia, quién se avocará a realizar todas las averiguaciones en la búsqueda del antecedente del registro del nacimiento del menor y en caso de no existir, se procederá a la presentación del propio menor ante el oficial del registro civil que corresponda.
+II.- Cuando se trate de menores de edad, de inmediato denunciarán el caso ante el ministerio público, para que, en tanto el representante social haga las investigaciones del caso, pongan al abandonado bajo el cuidado y protección del sistema del desarrollo integral de la familia, quién se avocará (sic) a realizar todas las averiguaciones en la búsqueda del antecedente del registro del nacimiento del menor y en caso de no existir, se procederá a la presentación del propio menor ante el oficial del registro civil que corresponda.
 
 Invariablemente, en cualesquiera de los dos casos a que se refieren las fracciones precedentes, deberá observarse estrictamente lo establecido en los artículos 34 y 38 del código del registro civil en vigor.
 
@@ -487,7 +491,7 @@ Los cónyuges están obligados a guardarse fidelidad, a vivir juntos y a contrib
 
 ###### Artículo 84.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tiene bienes propios, desempeña algún trabajo o ejerce alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, en proporción a sus ingresos, sin exceder del cincuenta por ciento de dichos gastos a no ser que el marido estuviese inposibilitado para trabajar y careciese de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tiene bienes propios, desempeña algún trabajo o ejerce alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, en proporción a sus ingresos, sin exceder del cincuenta por ciento de dichos gastos a no ser que el marido estuviese imposibilitado para trabajar y careciese de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
 
 ###### Artículo 85.
 
@@ -907,7 +911,7 @@ DE LA SOCIEDAD CONYUGAL
 
 ###### Artículo 157.
 
-En los casos de nulidad del matrimonio, cuando los dos cónyuges procedieron de buena fe, subsistirá la sociedad hasta que cause ejecutoria la sentencia. Si uno solo de los cónyuges tuvo buena fe, subsistirá la sociedad también hasta que cause ejecutoria la sentencia, si ésto es favorable al cónyuge inocente; en caso contrario, la sociedad se considerará nula desde su principio.
+En los casos de nulidad del matrimonio, cuando los dos cónyuges procedieron de buena fe, subsistirá la sociedad hasta que cause ejecutoria la sentencia. Si uno solo de los cónyuges tuvo buena fe, subsistirá la sociedad también hasta que cause ejecutoria la sentencia, si esto es favorable al cónyuge inocente; en caso contrario, la sociedad se considerará nula desde su principio.
 
 ###### Artículo 158.
 
@@ -1355,7 +1359,7 @@ Si las personas a que se refieren las fracciones II, III y IV del artículo ante
 
 ###### Artículo 240.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por el dará la garantía legal.
+El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
 
 ###### Artículo 241.
 
@@ -1729,27 +1733,39 @@ SOBRE LOS BIENES DE LOS DESCENDIENTES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 309.
 
-La adopción es un acto jurídico que por medio de una resolución judicial produce entre el adoptante y el adoptado un vínculo de filiación, al mismo tiempo que desaparecen, salvo excepciones, los vínculos jurídicos entre el adoptado y sus parientes consanguíneos.
+La adopción es un acto jurídico que se establece por resolución judicial. Tiene por objeto, entre otros, la protección de la persona del menor o interdictado mediante su integración a una familia, y por virtud del mismo, se crea entre el adoptante y el adoptado la misma filiación legítima que existe entre padres e hijos.
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
-Artículo 309 A.- La adopción podrá ser simple o plena. La adopción simple podrá convertirse en plena cuando llene los requisitos de Ley.
+Artículo 309 A.- La adopción será Plena preferentemente, no obstante, atendiendo al interés superior de la persona que se pretende adoptar y buscando la idoneidad de los adoptantes, el Juez podrá establecer la adopción Simple, cuando se le proporcionen los elemento (sic) suficientes para ello.
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+La adopción Simple podrá ser Plena, cuando se acredite que ha desaparecido la causa que la motivó.
 
-Artículo 309 B.- Las personas mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a menores o a discapacitados aún cuando éstos últimos sean mayores de edad, siempre que la persona adoptante cumpla con lo establecido en el artículo 316 A de este Código.
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+Artículo 309 B.- El mayor de veinticinco años en pleno ejercicio de sus derechos puede adoptar a uno o más menores o interdictados, aun cuando éstos sean mayores de edad, siempre que acredite, que cumple con los requisitos establecidos en el artículo 316-A de este Código.
 
-Artículo 309 C.- Un cónyuge puede adoptar a los hijos del otro, con autorización de éste, ejerciendo ambos la patria potestad.
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+
+Artículo 309 C.- Un cónyuge puede adoptar a los hijos del otro con la autorización de quien o quienes ejerzan la patria potestad.
+
+> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
+
+Artículo 309 D.- Los hijos adoptivos de un mismo adoptante, serán considerados hermanos entre sí.
+
+> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
+
+Artículo 309 E.- Los adoptantes podrán solicitar al Oficial del Registro Civil, el cambio del nombre propio de quien se pretenda adoptar, hasta antes de que el adoptado obtenga la mayoría de edad. Cuando sea mayor de un año, podrá solicitarse que se añada un nombre, al que originalmente tenga.
+
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 310.
 
-El marido y la mujer podrán adoptar, cuando ambos estén conformes en la adopción.
+Los cónyuges pueden adoptar a uno o más menores o interdictados, aun cuando éstos sean mayores de edad, y ambos estén conformes en la adopción, aunque sólo uno de ellos cumpla con el requisito de la edad a que se refiere el artículo 309-B, siempre y que la diferencia de edad entre cualquiera de los adoptantes y el adoptado, sea mínima de veinte años.
 
 ###### Artículo 311.
 
@@ -1759,33 +1775,39 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 313.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres al respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 314.
 
-El adoptado tendrá para con la persona que lo adopte los mismos derechos y obligaciones que tiene un hijo.
+El adoptado tendrá para con la persona que lo adopte, los mismos derechos y obligaciones que tiene un hijo respecto de su padre.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 315.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+Para que la adopción pueda concederse, deberán ratificar su consentimiento, ante el Juez competente:
 
 I.- La persona o personas que ejercen la patria potestad sobre el menor que se trata de adoptar;
 
 II.- El tutor del que se va a adoptar;
 
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a un hijo, cuando no hubiera quien ejerza la patria potestad sobre él ni tenga tutor, y
+III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a un hijo, cuando no hubiera quien ejerza la patria potestad sobre él, ni tenga tutor;
 
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como a un hijo.
+IV.- El Ministerio Público adscrito al domicilio del que se pretenda adoptar, cuando éste no cuente con registro de nacimiento, o en éste aparezca como expósito, ni tenga tutor o persona que ostensiblemente procure su cuidado como a un hijo;
 
-Si el menor que va a ser adoptado tiene más de catorce años, también se necesitará de su consentimiento para la adopción.
+V.- El menor de edad cuando tenga más de doce años;
+
+VI.- El que se pretenda adoptar menor de doce años, cuando por su capacidad y madurez, a juicio de la Procuraduría de la Defensa del Menor y la Familia, pudiere dar su opinión;
+
+Cuando cualquiera de ellos manifieste su negativa, deberá expresar la causa en que se funde, a fin de que pueda ser analizada por el Juez, previa vista que se le dé a la Procuraduría de la Defensa del Menor y la Familia, a fin de que emita su opinión.
+
+En caso de que alguno de los sujetos mencionados en las fracciones anteriores, habiendo sido personalmente notificado de la diligencia, no se presentare ante el juez dentro del término de cinco días hábiles que al efecto se concedan, se entenderá como otorgado su consentimiento para realizar la adopción.
 
 > <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
@@ -1793,117 +1815,97 @@ Si el menor que va a ser adoptado tiene más de catorce años, también se neces
 
 La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
-Artículo 316 A.- Para la adopción simple se requiere cumplir con los siguientes requisitos:
+Artículo 316 A.- Para que la adopción pueda determinarse, se requiere sea benéfica y atienda al interés superior del adoptado. Los adoptantes deberán acreditar los siguientes requisitos:
 
-I.- Tener veinte años más de edad que el menor o discapacitado que se pretenda adoptar;
+I.- Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de la persona que se pretenda adoptar;
 
-II.- Tener medios bastantes para proveer debidamente la subsistencia y educación del menor o discapacitado;
+II.- Su aptitud e idoneidad para desempeñar las funciones paternas;
 
-III.- Que la adopción sea benéfica para el menor o discapacitado, y
+III.- Tener veinte años más que el menor o interdictado por adoptar;
 
-IV.- Que el adoptante acredite ser persona de buenas costumbres.
+IV.- Estar casados entre sí o vivir en concubinato, y que dichas relaciones hayan tenido una duración mínima de cinco años ininterrumpidos y bien avenidos, según criterio del juzgador.
 
-En el caso de la adopción plena, los adoptantes deberán cumplir con los siguientes requisitos:
+V.- Ser mayor de veinticinco años, soltero, y en pleno ejercicio de sus derechos.
 
-I.- Que los adoptantes sean un hombre y una mujer casados entre sí, que vivan juntos y bien avenidos;
+VI.- Ser de buenas costumbres.
 
-II.- Los adoptantes deberán tener veinte años más que el menor o discapacitado que pretendan adoptar;
+La Procuraduría de la Defensa del Menor y la Familia, vigilará y dictaminará sobre el cumplimiento de los requisitos establecidos en este Artículo, de conformidad con lo establecido en el Libro Tercero, Título Único, Capítulo VIII del Código de Procedimientos Civiles de Yucatán. El Juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia y forma de adopción, previa vista al Ministerio Público.
 
-III.- Los adoptantes deberán tener cinco o más años de casados;
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
-IV.- Que los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y a la educación del menor o discapacitado;
+Artículo 316 B.- Podrán ser adoptados, los menores de edad e interdictados que se encuentren en situación de desamparo; entendiéndose por ésta, la que se produce por el incumplimiento de los deberes de asistencia familiar, conforme al Título Tercero del Libro Primero de este Código.
 
-V.- La adopción deberá fundarse en motivos que sean benéficos para el menor o discapacitado, y
+Igualmente podrán ser adoptados los menores de edad o interdictados, cuando quien o quienes ejerzan la patria potestad o tutela sobre ellos, declaren ante la Procuraduría de la Defensa del Menor y la Familia, la voluntad de que aquéllos sean adoptados, informados de sus consecuencias.
 
-VI.- Que los adoptantes acrediten ser personas de buenas costumbres.
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
-El Ministerio Público y la Procuraduría de la Defensa del Menor y la Familia, serán los encargados de dictaminar que se cumplan los requisitos establecidos en este artículo, por lo que el Juez, antes de emitir la resolución respecto de la procedencia o no de la adopción, deberá tener conocimiento de los mismos.
+Artículo 316 C.- El procedimiento para la adopción se sujetará a lo establecido en el Libro Tercero, Titulo Único, Capítulo VIII del Código de Procedimientos Civiles de Yucatán.
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
-Artículo 316 B.- La promoción de la adopción será conforme a lo establecido en el Código de Procedimientos Civiles vigente en el Estado.
+Artículo 316 D.- Una vez declarada ejecutoriada la sentencia que resuelva una adopción, ésta será considerada como irrevocable.
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
 
-Artículo 316 C.- Declarada ejecutoriada la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada y no podrá revocarse sino en los casos previstos en este Código.
+Artículo 316 E.- La Dirección del Registro Civil, la Procuraduría de la Defensa del Menor y la Familia y las demás instituciones que hubieren intervenido en el proceso de adopción, se abstendrán de proporcionar información sobre los antecedentes de la familia de origen del adoptado, su historia médica, así como de su familia de origen, excepto en los siguientes casos:
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+I.- El dispuesto en la fracción IV del artículo 69 de este Código.
 
-Artículo 316 D.- El Juez que apruebe la adopción, remitirá copia de las diligencias respectivas al Oficial del Registro Civil del domicilio del menor que va a ser adoptado para que se levante el acta correspondiente.
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, o bien, siendo menor, con el consentimiento de los adoptantes.
 
 > <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 #### SECCIÓN SEGUNDA. DE LA ADOPCIÓN SIMPLE
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 317.
 
-En la adopción simple no se extinguen los derechos y obligaciones que resulten del parentesco biológico, los cuales permanecen suspendidos respecto de los progenitores transfiriéndose el ejercicio de la patria potestad a los adoptantes.
+La adopción Simple es la forma de adopción que confiere al adoptado, la condición de hijo biológico, con los efectos dispuestos en este Código.
 
-Los derechos suspendidos conforme a lo anterior, se recobran una vez decretada la revocación de la adopción.
+Artículo 317 A.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
-
-Artículo 317 A .- El menor o discapacitado que hayan sido adoptados, podrán impugnar la adopción simple dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la discapacidad.
-
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 318.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, respecto de los cuales se observará lo que dispone el artículo 70 de este Código.
+Los derechos y obligaciones que nacen de la adopción Simple, y el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos para contraer matrimonio; respecto de los cuales, se observará lo que dispone el artículo 70 de este Código.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 319.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, por lo que en ese caso se ejercerá por ambos cónyuges.
-
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+En la adopción Simple, la patria potestad será transferida al adoptante, salvo que esté casado con alguno de los progenitores del adoptado, por lo que en este caso, la ejercerán ambos cónyuges.
 
 ###### Artículo 320.
 
-La adopción simple puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Sino lo fuere es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 315 de este Código;
-
-II.- Por ingratitud del adoptado, y
-
-III.- Cuando la Procuraduría de la Defensa del Menor y la Familia justifique que existe causa grave que ponga en peligro al menor.
-
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, D.O. 16 DE MAYO DE 2005)
 
 ###### Artículo 321.
 
-En el primer caso del artículo anterior, el Juez decretará que la adopción simple queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, D.O. 16 DE MAYO DE 2005)
 
 ###### Artículo 322.
 
-Para los efectos de la fracción II del artículo 320, se considera ingrato al adoptado:
+(DEROGADO, D.O. 16 DE MAYO DE 2005)
 
-I.- Si comete algún delito intencional que merezca una sanción mayor de un año de prisión contra la persona, la reputación o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
+Artículo 322 A.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
 
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiese sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes, y
+> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
 
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
-
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
-
-Artículo 322 A.- Las resoluciones que dicten los jueces aprobando la revocación, dejarán sin efecto la adopción, restituyendo las cosas al estado que tenían antes de que ésta se efectuara en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil del lugar en que aquélla se hizo, para que cancele el acta de adopción.
+Artículo 322 B.- La resolución que apruebe la adopción Simple, ordenará al Oficial del Registro Civil, que levante el acta de nacimiento, en la que figuren los adoptantes como padres, y los datos que se requieran conforme a la Ley.
 
 > <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 #### SECCIÓN TERCERA. DE LA ADOPCIÓN PLENA
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 323.
 
-La adopción plena es el medio por el cual un menor de edad o un interdictado adquiere un vínculo de filiación entre él, los adoptantes y la familia de éstos; rompiendo la relación del parentesco que existía entre la familia biológica del adoptado y éste.
+La adopción Plena es aquella, en la que el adoptado adquiere un vínculo de filiación con los adoptantes y la familia de éstos.
 
 > <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
@@ -1913,21 +1915,9 @@ Artículo 323 A.- La resolución judicial en que se apruebe la adopción plena, 
 
 Artículo 323 B.- La resolución judicial que apruebe la adopción plena, contendrá la orden al Oficial del Registro Civil, para que levante el acta de nacimiento en la que figuren como padres, él o los adoptantes; como hijo, el adoptado y como abuelos los padres de aquél o aquellos, y demás datos que se requieran conforme a la Ley, sin hacer mención sobre la adopción.
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+Artículo 323 C.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
 
-Artículo 323 C.- La adopción plena es irrevocable cuando cause ejecutoria la sentencia que la pronuncie.
-
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
-
-Artículo 323 D.- Podrán ser adoptados en forma plena:
-
-I.- Los menores cuando sus padres declaren ante la Procuraduría de la Defensa del Menor y la Familia su voluntad de otorgar este tipo de adopción, después de ser informados de sus consecuencias;
-
-II.- Los menores huérfanos, expósitos o abandonados por más de seis meses, cualquiera que sea su edad;
-
-III.- El entregado por el padre y la madre a una institución de asistencia social, pública o privada, y
-
-IV.- Los menores cuyos padres hubiesen perdido la patria potestad por maltrato o abuso sexual, siempre que no existan ascendientes que la ejerzan o cuando hubiesen confiado al menor a un establecimiento de beneficencia pública o privada, desentendiéndose injustificadamente de su atención por un año.
+Artículo 323 D.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
 
 > <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
@@ -2073,7 +2063,7 @@ III.- Por sentencia condenatoria que imponga como pena esta suspensión.
 
 La patria potestad se pierde:
 
-I.- Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o mas veces por delitos graves.
+I.- Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves.
 
 II.- En los casos de terminación de matrimonio, por nulidad o por divorcio, cuando así lo disponga la sentencia.
 
@@ -2081,11 +2071,21 @@ III.- Cuando por las costumbres depravadas de los ascendientes, malos tratos o a
 
 Asimismo, cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores.
 
-IV.- Por la exposición que el que ejerce la patria potestad hiciere del menor, o por dejarlo abandonado por más de seis meses.
+> <small>(REFORMADA, D.O. 16 DE MAYO DE 2005)</small>
 
-En los casos de adopción, tomando en consideración el interés superior del menor, acreditada por cualquier medio de prueba su situación de abandono, el Juez de lo Familiar resolverá previamente la pérdida de patria potestad, y
+IV.- Cuando quien la ejerza, deje abandonado al menor en centros asistenciales públicos o privados, o en casa particular, por más de sesenta días naturales, y tratándose de los expósitos, después de treinta días naturales.
 
 V.- Por la entrega que el padre o la madre, o quien ejerce la patria potestad hiciera del menor a una institución de asistencia social, pública o privada con la finalidad de que sea dado en adopción.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 16 DE MAYO DE 2005)</small>
+
+VI.- Cuando el que la ejerza, sea condenado por la comisión de un delito doloso, en el que la víctima sea el menor.
+
+En los casos de adopción, acreditado el interés superior del menor, y su situación de abandono, el Juez de lo Familiar resolverá previamente la pérdida de patria potestad.
+
+> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
+
+Artículo 346 A.- La Procuraduría para la Defensa del Menor y la Familia, podrá promover la pérdida de la patria potestad, de los menores bajo la tutela pública. Entre tanto, efectuará en su carácter de tutor, la integración oportuna de éstos a un ambiente familiar, en hogares adoptivos.
 
 ###### Artículo 347.
 
@@ -2117,7 +2117,7 @@ Los ascendientes conservan su derecho al usufructo de los bienes del descendient
 
 ###### Artículo 351.
 
-El objeto de la tutela es la guarda de la persona y bienes, o solamente de los bienes, de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por si mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
+El objeto de la tutela es la guarda de la persona y bienes, o solamente de los bienes, de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
 
 ###### Artículo 352.
 
@@ -2311,15 +2311,15 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 390.
 
-La Ley coloca a los hijos menores de padres desconocidos o abandonados bajo la tutela de la persona que los haya recogido, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+La ley coloca a los menores abandonados, y de padres desconocidos, bajo la tutela de la persona que los haya cuidado, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
 
-Se considera expósito al recién nacido cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlo.
+Se considera expósito, al menor cuyo origen se desconoce y es puesto en situación de desamparo en un hospital, casa particular, o algún paraje público o privado, por quienes conforme a la ley están obligados a protegerlo.
 
-Se reputará abandonado, al menor que se conoce su origen y los que ejercen la patria potestad o tutela dejaron de cumplir con sus deberes de manera irresponsable, aceptando la posibilidad de que alguna persona o institución se haga cargo del mismo. En el caso de abandono deberá transcurrir seis meses por lo menos.
+Se considerará abandonado, al menor que conociéndose su origen, los que ejercen la patria potestad o tutela sobre él, incumplieron por más de sesenta días naturales, con sus deberes, aún cuando alguna persona o institución se hiciere cargo del mismo.
 
 ###### Artículo 391.
 
@@ -3689,7 +3689,7 @@ La posesión se pierde:
 
 I.- Por abandono.
 
-II.- Por cesión a título oneroso o gratuíto.
+II.- Por cesión a título oneroso o gratuito.
 
 > <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
 
@@ -4791,7 +4791,7 @@ El dueño de un predio en que existan obras defensivas para contener el agua, o 
 
 ###### Artículo 892.
 
-Lo dispuesto en el artículo inmediato anterior es aplicable al caso en que sea necesario desembarazar algún predio de las materias cuya acumulación o caida impida el curso del agua con daño o peligro de tercero.
+Lo dispuesto en el artículo inmediato anterior es aplicable al caso en que sea necesario desembarazar algún predio de las materias cuya acumulación o caída impida el curso del agua con daño o peligro de tercero.
 
 ###### Artículo 893.
 
@@ -4937,7 +4937,7 @@ El uso y la extensión de las servidumbres establecidas por la voluntad del prop
 
 Pueden constituir servidumbres voluntarias los que puedan enajenar.
 
-Si fueren varios los propietarios de un predio, no se podrá constituir la servidumbre, si no con el consentimiento de todos.
+Si fueren varios los propietarios de un predio, no se podrá constituir la servidumbre, sino con el consentimiento de todos.
 
 ###### Artículo 925.
 
@@ -4951,7 +4951,7 @@ Las servidumbres continuas y aparentes, se adquieren por cualquier título legal
 
 ###### Artículo 927.
 
-Las servidumbres continuas no aparentes, y las discontinuas, sean o no aparentes, no podrán adquirirse por prescripción, si no por otro título legal.
+Las servidumbres continuas no aparentes, y las discontinuas, sean o no aparentes, no podrán adquirirse por prescripción, sino por otro título legal.
 
 ###### Artículo 928.
 
@@ -5289,7 +5289,7 @@ Cuando la prescripción se cuenta por días, se entenderán éstos de veinticuat
 
 ###### Artículo 988.
 
-El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquél en que la prescripción términa, debe ser completo.
+El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquél en que la prescripción termina, debe ser completo.
 
 ###### Artículo 989.
 
@@ -7539,7 +7539,7 @@ Las acciones que nacen de lo dispuesto en los artículos del 1435 al 1442 de est
 
 ###### Artículo 1444.
 
-Vendiéndose dos o más animales juntamente, sea en un precio alzado o sea sañalando precio a cada uno de ellos, el vicio de uno da solamente lugar a la acción redhibitoria respecto de él y no respecto de los demás, a no ser que aparezca que el comprador no habría comprado el sano o sanos, sin el vicioso.
+Vendiéndose dos o más animales juntamente, sea en un precio alzado o sea señalando precio a cada uno de ellos, el vicio de uno da solamente lugar a la acción redhibitoria respecto de él y no respecto de los demás, a no ser que aparezca que el comprador no habría comprado el sano o sanos, sin el vicioso.
 
 ###### Artículo 1445.
 
@@ -9263,7 +9263,7 @@ Las utilidades se destinarán al fisco del Estado.
 
 El contrato de sociedad debe constar por escrito, en escritura pública ante escribano o notario público, según corresponda conforme a la ley; cuando algún socio transfiera a la sociedad bienes cuya enajenación debe hacerse en escritura pública.
 
-La falta de forma preescrita para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme a la ley respectiva; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad la falta de forma.
+La falta de forma prescrita para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme a la ley respectiva; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad la falta de forma.
 
 ###### Artículo 1812.
 
@@ -9591,7 +9591,7 @@ II.- Por haberse cumplido el término prefijado en el contrato de sociedad;
 
 III.- Por la realización completa del fin social, o por haberse vuelto imposible la consecución del objeto de la sociedad;
 
-IV.- Por la muerte o incapacidad de uno de los socios que tenga responsabilidad ilimitada por los compromisos sociales, salvo que en escritura constitutiva se haya pactado que la sociedad continue con los sobrevivientes o con los herederos de aquél;
+IV.- Por la muerte o incapacidad de uno de los socios que tenga responsabilidad ilimitada por los compromisos sociales, salvo que en escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
 
 V.- Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
 
@@ -10011,7 +10011,7 @@ Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión,
 
 ###### Artículo 1965.
 
-Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor puede denunciar el pleito al adeudor principal, para que éste oponga las excepciones y rinda las pruebas que crea conveniente, y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador.
+Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor puede denunciar el pleito al deudor principal, para que éste oponga las excepciones y rinda las pruebas que crea conveniente, y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador.
 
 ###### Artículo 1966.
 
@@ -11491,7 +11491,7 @@ Por causa de utilidad pública son incapaces de adquirir, sea por herencia, sea 
 
 Son incapaces de heredar por testamento los que, nombrados en él, tutores, curadores o albaceas, hayan rehusado sin causa justa el cargo o por mala conducta hayan sido separados judicialmente de su ejercicio. Lo dispuesto en la primera parte no comprende a los que, desechada por el juez la excusa, hayan servido el cargo.
 
-Las personas llamadas por la ley para desempeñar la tutela legítima y que se rehúsen sin causa legítima a desempeñarla, no tienen derecho a heredar a los incapaces de quienes deben ser tutores.
+Las personas llamadas por la ley para desempeñar la tutela legítima y que se rehusen sin causa legítima a desempeñarla, no tienen derecho a heredar a los incapaces de quienes deben ser tutores.
 
 ###### Artículo 2238.
 
@@ -11535,7 +11535,7 @@ La incapacidad para heredar no produce el efecto de privar al incapaz de lo que 
 
 ###### Artículo 2248.
 
-Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el juicio en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjucios.
+Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el juicio en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjuicios.
 
 ### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
@@ -11683,7 +11683,7 @@ I.- Se ministrará a los descendientes y al cónyuge supérstite o la concubina 
 
 II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes.
 
-III.- Después se ministrarán tambien a prorrata a los hermanos y sobrinos.
+III.- Después se ministrarán también a prorrata a los hermanos y sobrinos.
 
 ###### Artículo 2280.
 
@@ -12203,7 +12203,7 @@ Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por 
 
 ###### Artículo 2390.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra, su testamento que será traducido al español por los dos intérpretes a que se refiere el artículo 2377 de este código. La traducción, se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto. Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leido y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior. Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra, su testamento que será traducido al español por los dos intérpretes a que se refiere el artículo 2377 de este código. La traducción, se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto. Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior. Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
 
 ###### Artículo 2391.
 
@@ -13343,7 +13343,7 @@ A ningún coheredero puede obligarse a permanecer en la indivisión de los biene
 
 ###### Artículo 2623.
 
-Sólo puede suspenderse una partición en el caso del artículo 2522 de este código, o en virtud de convenio expreso de todos los interesados. Habiendo menores entre ellos, deberá oirse al tutor y al ministerio público, y el acuerdo en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
+Sólo puede suspenderse una partición en el caso del artículo 2522 de este código, o en virtud de convenio expreso de todos los interesados. Habiendo menores entre ellos, deberá oírse al tutor y al ministerio público, y el acuerdo en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
 
 ###### Artículo 2624.
 
@@ -13486,3 +13486,17 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+D.O. 16 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos de adopción que actualmente se encuentren en trámite ante los Jueces competentes en materia Familiar, deberán continuarse y concluirse conforme a las disposiciones vigentes al momento del inicio de su tramitación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
