@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-educacion-21887"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2005-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2005.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -122,6 +122,10 @@ b.- Dirección de Medios y Métodos Educativos
 a.- Dirección de Educación Media Superior
 
 b.- Dirección de Educación Superior
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MAYO DE 2005)</small>
+
+c.- Dirección para la Formación de Profesionales de la Educación
 
 5.- Dirección de Educación No Formal
 
@@ -495,7 +499,9 @@ La Subsecretaría para el Desarrollo Educativo, tendrá las siguientes atribucio
 
 I.- Coadyuvar con el Secretario y los Delegados, en el desarrollo del Sistema Educativo;
 
-II.- Crear y fortalecer los subsistemas estatales de educación básica, media superior, superior, formación de docentes y formación para el trabajo;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
+
+II.- Fortalecer el sistema educativo estatal, impulsando el desarrollo de la educación básica, media superior, superior, formación de docentes y formación para el trabajo;
 
 III.- Coordinar la observancia de las políticas dentro del ámbito de su competencia para el mejor funcionamiento del servicio educativo;
 
@@ -529,9 +535,11 @@ XVII.- Establecer un sistema permanente de evaluación de la calidad educativa e
 
 XVIII.- Coadyuvar en la integración y mejora del SIIEG para la toma de decisiones;
 
-XIX.- Impulsar mecanismos y proponer lineamientos que permitan la formación inicial y permanente de docentes y directivos del Sistema Educativo Estatal, en coordinación con las Delegaciones Regionales;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
 
-XX.- Aprobar el Programa Operativo Anual de la instancia coordinadora de la formación, actualización, capacitación y superación profesional de los docentes en el Estado;
+XIX.- Coordinar el Sistema de Formación, Actualización, Capacitación y Superación Profesional para docentes en la Entidad;
+
+XX.- (DEROGADA, P.O. 17 DE MAYO DE 2005)
 
 XXI.- Promover la constitución y funcionamiento de los Órganos Colegiados en el Sistema Educativo Estatal;
 
@@ -593,9 +601,11 @@ III.- Difundir, conjuntamente con las Delegaciones Regionales, la normatividad e
 
 IV.- Proponer a las Delegaciones Regionales estrategias para el desarrollo de programas y proyectos que mejoren los resultados educativos en las escuelas;
 
-V.- Establecer líneas de coordinación con las instancias encargadas de la formación y capacitación de los docentes para que su oferta responda a las necesidades de la práctica educativa;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
 
-VI.- Proponer mecanismos de actualización del docente acordes con las innovaciones educativas;
+V.- Coordinar los servicios de actualización, capacitación y superación de los docentes de educación básica y proponer las líneas de coordinación a las instancias correspondientes para que estos servicios respondan a las necesidades de la práctica educativa;
+
+VI.- (DEROGADA, P.O. 17 DE MAYO DE 2005)
 
 VII.- Evaluar los programas y proyectos de apoyo a la calidad y compensatorios de la educación básica, proponer modificaciones y favorecer su implantación;
 
@@ -615,7 +625,9 @@ XIII.- Las demás que le señalen las disposiciones legales y reglamentarias, as
 
 La Dirección de Actualización Académica, tendrá las siguientes atribuciones:
 
-I.- Participar, en coordinación con las instancias de formación de docentes, en la elaboración de programas y proyectos que permitan el desarrollo integral de los docentes de educación básica en el Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
+
+I.- Participar en la elaboración de programas y proyectos que permitan el desarrollo integral de los docentes de educación básica en el Estado;
 
 II.- Integrar el Programa Estatal de Actualización Docente de Educación Básica, atendiendo a las necesidades de las Delegaciones Regionales, y evaluar su impacto;
 
@@ -761,11 +773,25 @@ IX.- Promover la vinculación de la educación media superior y superior con la 
 
 X.- Apoyar en la elaboración del diagnóstico de las necesidades del mercado laboral del Estado, para orientar el perfil de egreso del nivel medio superior y superior;
 
-XI.- Dar seguimiento a los acuerdos establecidos por la instancia coordinadora de las instituciones formadoras de docentes de educación básica;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
 
-XII.- Coordinar a la instancia administrativa responsable de la operación del subsistema de preparatoria abierta en el Estado; y
+XI.- Coordinar los servicios de formación, actualización, capacitación y superación profesional para docentes de las instituciones formadoras de profesionales de la educación;
 
-XIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
+
+XII.- Impulsar las funciones sustantivas de docencia, investigación, extensión, vinculación y difusión de la cultura pedagógica de las instituciones formadoras de profesionales de la educación;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2005)</small>
+
+XIII.- Proponer políticas, lineamientos y metodologías para la planeación, desarrollo, evaluación y mejoramiento de las instituciones formadoras de profesionales de la educación;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2005)</small>
+
+XIV.- Coordinar a la instancia administrativa responsable de la operación del subsistema de preparatoria abierta en el Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2005)</small>
+
+XV.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
 ###### Artículo 24.
 
@@ -810,6 +836,36 @@ VII.- Analizar a través de las instancias de planeación, la oferta educativa e
 VIII.- Recomendar con el apoyo de las Delegaciones Regionales, al área de profesiones y servicios escolares de la SEG, la pertinencia de reconocimiento de validez oficial de estudios a particulares en el nivel superior; y
 
 IX.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2005)</small>
+
+###### Artículo 25 Bis.
+
+La Dirección para la Formación de Profesionales de la Educación, tendrá las siguientes atribuciones:
+
+I.- Promover la autogestión en las instituciones formadoras de profesionales de la educación;
+
+II.- Coordinar a las instituciones formadoras de profesionales de la educación que operan en la Entidad;
+
+III.- Evaluar el cumplimiento de planes y programas de estudios de las instituciones formadoras de profesionales de la educación;
+
+IV.- Gestionar los apoyos para coadyuvar al cumplimiento de las actividades sustantivas de las instituciones formadoras de profesionales de la educación;
+
+V.- Establecer vínculos con instituciones y organismos estatales, nacionales e internacionales para el cumplimiento de los fines educativos de las instituciones formadoras de profesionales de la educación;
+
+VI.- Coordinarse con las instancias educativas de la SEP para la operación de planes y programas para la formación de docentes;
+
+VII.- Vigilar que las instituciones formadoras de profesionales de la educación cumplan con las disposiciones normativas en los aspectos académico y administrativo;
+
+VIII.- Emitir dictámenes de pertinencia de la nueva oferta educativa de instituciones formadoras de profesionales de la educación;
+
+IX.- Promover procesos de mejora continua en las instituciones formadoras de profesionales de la educación;
+
+X.- Cumplir y hacer cumplir la normatividad vigente en materia de formación de docentes;
+
+XI.- Coordinarse con la Dirección General de Educación Básica para apoyar y brindar asesoría a las instituciones de formación de docentes en el desarrollo de los programas, proyectos y acciones de formación continua de maestros en servicio; y
+
+XII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
 ###### Artículo 26.
 
@@ -2478,3 +2534,11 @@ GERARDO LUIS RODRIGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VICTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE MAYO DE 2005.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Dirección para la Formación de Profesionales de la Educación continuará con el cumplimiento de las diversas actividades, comisiones y funciones en las que guardaba participación el Instituto Superior de Estudios Pedagógicos del Estado de Guanajuato.
