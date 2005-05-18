@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-las-entidades-paraestatales-del-estado-de-tlaxcala-8532"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "1995-10-13"
+last_updated: "2005-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el viernes 13 de octubre de 1995.
 
@@ -207,7 +207,11 @@ En ningún caso podrán ser miembros del órgano de gobierno:
 
 I.- El Director o Gerente General de la entidad de que se trate.
 
-II.- Los cónyuges y las personas que tengan parentezco (sic) por consanguinidad o afinidad hasta el cuarto grado o civil con cualquier (sic) de los miembros del órgano de gobierno, con el Director o Gerente General.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
+
+II.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del órgano de gobierno, con el Director o Gerente General.
+
+Queda exento de esta disposición el cónyuge del titular del Poder Ejecutivo, únicamente para presidir el Organismo Público Descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia.
 
 III.- Las personas que tengan dilitigios (sic) pendientes con la entidad de que se trate.
 
@@ -441,7 +445,7 @@ Esta Ley deroga las disposiciones que se opongan a la misma.
 
 ###### ARTICULO TERCERO.
 
-El Ejecutivo del Estado a través de las Dependencias correspondientes promoverá en su caso, las modificaciones a las Leyes, Decretos y demás documentos de creación de las Entidades Paraestatales, a fin de que se adecuen a los dispuesto por esta Ley.
+El Ejecutivo del Estado a través de las Dependencias correspondientes promoverá en su caso, las modificaciones a las Leyes, Decretos y demás documentos de creación de las Entidades Paraestatales, a fin de que se adecuen a lo dispuesto por esta Ley.
 
 ###### ARTICULO CUARTO.
 
@@ -464,3 +468,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Tlaxcala de Xicohténcatl, a los nueve días del mes de octubre de mil novecientos noventa y cinco.
 
 EL GOBERNADOR DEL ESTADO.- JOSE ANTONIO ALVAREZ LIMA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- FEDERICO BARBOSA GUTIERREZ.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MAYO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+ATICULO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por esta reforma.
