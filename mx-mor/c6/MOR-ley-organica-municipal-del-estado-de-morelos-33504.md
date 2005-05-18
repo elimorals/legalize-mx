@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2003-08-13"
+last_updated: "2005-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -239,11 +239,13 @@ De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Mor
 
 ### CAPÍTULO I. DE LA POBLACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
+
 ###### Artículo 6.
 
-Las personas que integren la población de los Municipios podrán tener el carácter de habitantes y transeúntes.
+Las personas que integran la población de los Municipios podrán tener el carácter de habitantes, transeúntes y emigrantes.
 
-Para los efectos del párrafo anterior, son habitantes todas las personas que tengan domicilio fijo en el territorio municipal y que hayan desarrollado su vida productiva y social en la entidad; y transeúntes las personas que, sin residir habitualmente en el Municipio, permanezcan o viajen transitoriamente en su territorio.
+Para los efectos del párrafo anterior, son habitantes todas las personas que tengan domicilio fijo en el territorio municipal y que hayan desarrollado su vida productiva y social en la entidad; y transeúntes las personas que, sin residir habitualmente en el municipio permanezcan o viajen transitoriamente en el territorio; emigrantes a los habitantes que se encuentren temporalmente fuera del país.
 
 ###### Artículo 7.
 
@@ -283,7 +285,7 @@ V. Inscribirse en los padrones expresamente determinados por las Leyes Federales
 
 VI. Las demás que determinen esta Ley, sus reglamentos y las que emitan las autoridades legalmente constituidas.
 
-Sólo quienes tengan la calidad de ciudadanos, en pleno ejercicio de sus derechos, tendrán, como tales, el de asociación para tratar asuntos políticos; votar y ser votados para cargos de elección popular; y participar en los procesos de plebiscito, referendum e iniciativa popular, en los términos de la Constitución Política del Estado y la legislación sobre la materia; de igual manera, los ciudadanos tienen la obligación de votar en las elecciones que les correspondan y desempeñar las funciones electorales y censales para las que fueren nombrados.
+Sólo quienes tengan la calidad de ciudadanos, en pleno ejercicio de sus derechos, tendrán, como tales, el de asociación para tratar asuntos políticos; votar y ser votados para cargos de elección popular; y participar en los procesos de plebiscito, referéndum e iniciativa popular, en los términos de la Constitución Política del Estado y la legislación sobre la materia; de igual manera, los ciudadanos tienen la obligación de votar en las elecciones que les correspondan y desempeñar las funciones electorales y censales para las que fueren nombrados.
 
 ###### Artículo 9.
 
@@ -297,11 +299,21 @@ III. Manifestación expresa de residir en otro lugar, fuera del territorio munic
 
 La vecindad no se pierde con el traslado de la residencia a otro lugar, siempre y cuando el cambio obedezca al desempeño de un cargo de elección popular, función pública o comisión de carácter oficial; tampoco se perderá por ausencia motivada por estudios científicos, técnicos o artísticos, que se realicen fuera del Municipio.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+
+La vecindad no se pierde cuando los habitantes del municipio emigran al extranjero por motivo de realizar un trabajo temporal y que así lo hagan saber a la autoridad municipal para efectos del padrón, lo que se realizará por conducto de la dependencia de Asuntos Migratorios municipal.
+
 ###### Artículo 10.
 
 En los Municipios donde se encuentren asentadas comunidades indígenas, los Ayuntamientos promoverán: el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social.
 
-Para los efectos del párrafo anterior, los Ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
+
+En los Municipios donde se encuentren asentadas comunidades de emigrantes, los Ayuntamientos promoverán: el desarrollo social, los proyectos productivos, la integración familiar y sus formas específicas de organización social, así mismo promoverá programas de apoyo a las familias que se encuentren en abandono por ausencia migratoria, para evitar la desintegración familiar.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+
+Para los efectos de los párrafos anteriores, los Ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
 
 ### CAPÍTULO II. DEL TERRITORIO
 
@@ -389,7 +401,7 @@ El día uno de noviembre del año de su elección, el Ayuntamiento electo celebr
 
 Concluida su protesta, el Presidente Municipal tomará la protesta a los demás miembros del Ayuntamiento, empleando la siguiente fórmula:
 
-"Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido".
+"Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido".
 
 El Síndico y los Regidores, de pie y levantando la mano contestarán:
 
@@ -472,6 +484,10 @@ p) Patrimonio Municipal;
 q) Protección del Patrimonio Cultural;
 
 r) Relaciones Públicas y Comunicación Social;
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+
+s) De Asuntos Migratorios.
 
 En la asignación de Comisiones se deberá respetar el principio de equidad.
 
@@ -711,7 +727,9 @@ LII.- Analizar y en su caso aprobar la nomenclatura de las calles;
 
 LIII.- Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
 
-LIV.- Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
+
+LIV.- Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase (sic) prioritaria para las familias de los emigrantes;
 
 LV.- Prestar a las autoridades judiciales, al Ministerio Público, a las ayudantías y delegaciones y a los Poderes del Estado, el auxilio necesario para el ejercicio de sus funciones, cuando así lo soliciten;
 
@@ -817,9 +835,9 @@ XXVII. Vigilar que se integren y funcionen en forma legal las dependencias, unid
 
 XXVIII. Solicitar la autorización respectiva al Cabildo en caso de que se requiera la ampliación presupuestal según lo establece la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
 
-XXIX. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales o Intermunicipales;
+XXIX. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales e Intermunicipales;
 
-XXX. Proponer al Ayuntamiento la creación o supresión de organismos descentralizados, fideicomisos e empresas de participación municipal mayoritaria;
+XXX. Proponer al Ayuntamiento la creación o supresión de organismos descentralizados, fideicomisos o empresas de participación municipal mayoritaria;
 
 XXXI. Delegar en sus subalternos, dependencias o áreas administrativas del Ayuntamiento las atribuciones que esta Ley y el Reglamento Interior determinen como delegables;
 
@@ -932,6 +950,10 @@ Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrat
 ###### Artículo 51.
 
 Los Planes de Desarrollo Municipal, en municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando sus formas de producción y comercio.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+
+Así mismo, los Planes de Desarrollo Municipal, en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
 
 ###### Artículo 52.
 
@@ -1113,9 +1135,11 @@ La designación del cronista municipal deberá recaer en una persona destacada p
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
+
 ###### Artículo 75.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del Ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos, recursos humanos, materiales y técnicos del Municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, otra de la seguridad pública y tránsito municipal, un cronista municipal, cuando menos una Oficialía del Registro Civil y una contraloría municipal.
+Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del Ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos, recursos humanos, materiales y técnicos del Municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios; otra de la seguridad pública y tránsito municipal, un cronista municipal, cuando menos una Oficialía del Registro Civil y una contraloría municipal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -2235,7 +2259,7 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
 
 En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
 
@@ -2281,7 +2305,7 @@ III. Ratificada que sea la solicitud, se turnará al Pleno del la Legislatura Lo
 
 IV. La Comisión Legislativa correrá traslado con la solicitud y documentos anexos a las partes en la controversia, las que contaran con un término de diez días hábiles para contestar lo que a su derecho convenga, acompañar las pruebas documentales que consideren procedentes y ofrecer las que deban desahogarse. En caso de no dar contestación dentro del término señalado, se asentará tal razón en el expediente y se continuará el procedimiento sin su intervención, en materia de límites territoriales no se admitirán más que pruebas documentales;
 
-V. La Comisión una vez que reciba la contestación, citará a las partes involucradas en la controversia, quienes podrán optar por concurrir personalmente o a través del funcionario con facultades resolutivas que designen para ello, para que se presenten a la Legislatura Local en la fecha y hora que la Comisión determine. Las partes citadas podrán en esta audiencia llegar a un acuerdo legal que será calificado por la Comisión; en caso de calificarse de procedente, el acuerdo se asentará en el dictamen respectivo concluyendo con ello el procedimiento;
+V. La Comisión una vez que reciba la contestación, citará a las partes involucradas en la controversia, quienes podrán optar por concurrir personalmente o a través del funcionario con facultades resolutivas que designen para ello, para que se presenten a la Legislatura Local en la fecha y hora que la Comisión determine. Las partes citadas podrán en esta audiencia llegar a un acuerdo legal que será calificado por la Comisión; en caso de calificarse de procedente, el acuerdo se asentará en el dictamen respectivo concluyendo con ello e procedimiento;
 
 VI. La Comisión, en caso de que no se llegue al acuerdo que se señala en la fracción anterior, notificará por escrito a las partes sobre la fecha, hora y lugar para el desahogo de las pruebas ofrecida por las partes que haya lugar a desahogar, no pudiendo exceder esta etapa de los quince días hábiles siguientes a la fecha de la audiencia antes citada;
 
@@ -2342,3 +2366,13 @@ SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MAYO DE 2005.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- A partir del inicio de la vigencia de este decreto, los Ayuntamientos deberán proceder, en un plazo no mayor de noventa días naturales, a realizar las adecuaciones a sus bandos, reglamentos, circulares y disposiciones administrativas de observancia general para el gobierno de sus respectivos Municipios; si es que en ellos no se considera la comisión y unidad administrativa o dependencia que atienda los asuntos migratorios.
