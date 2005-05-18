@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2003-12-23"
+last_updated: "2005-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -136,7 +136,7 @@ Para hacer el nombramiento, la Asamblea Legislativa del Distrito Federal, por co
 
 La o el Presidente de la Comisión de Derechos Humanos del Distrito Federal durará en su cargo cuatro años, pudiendo ser nombrado y confirmado en su caso, solamente para un segundo período en los términos del artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 11.
 
@@ -146,9 +146,9 @@ El Consejo de la Comisión de Derechos Humanos del Distrito Federal estará inte
 
 El cargo de miembro del Consejo tendrá carácter honorario, con excepción del de su Presidente.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2005)</small>
 
-En ningún caso, la integración del Consejo excederá del 60% de personas del mismo sexo.
+En ningún caso, la integración del Consejo excederá del 60% de personas del mismo sexo, incluyendo al Presidente de la Comisión.
 
 > <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
 
@@ -162,9 +162,9 @@ Esta sustitución se realizará independientemente de las extraordinarias que de
 
 Los consejeros no podrán durar en el cargo más de cinco años, a menos que sean reelectos sólo para un segundo periodo inmediato. Bajo ninguna circunstancia cualquier consejero que haya renunciado a su cargo podrá ser electo nuevamente como miembro del Consejo.
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2005)</small>
 
-Si es el caso, durante el proceso de sustitución se valorará el desempeño de los Consejeros que puedan ser reelectos, de manera que en el dictamen aprobado por la Asamblea Legislativa del Distrito Federal que se emita al efecto, se establecerá si se reeligió o sustituyó a los consejeros que concluyeron su encargo.
+Si es el caso, durante el proceso de sustitución se valorará el desempeño de los Consejeros que puedan ser reelectos, siempre y cuando los mismos lo soliciten cuando menos un mes antes de la conclusión de su encargo, de manera que el dictamen aprobado por la Asamblea Legislativa del Distrito Federal que se emita al respecto, se establecerá si se reeligió o se sustituyó a los consejeros que concluyeron su encargo. El Consejero que pretenda la reelección deberá ceñirse al procedimiento establecido para tal efecto.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
@@ -358,7 +358,7 @@ VI.- Distribuir y delegar funciones a los visitadores;
 
 > <small>(REFORMADA, G.O. 22 DE MAYO DE 1998)</small>
 
-VII.- Presentar anualmente un informe general a la Asamblea Legislativa del Distrito Federal, sobre las actividades de la Comisión de Derechos Humanos del Distrito Federal.
+VII.- Presentar anualmente un informe general a la Asamblea Legislativa del Distrito Federal, sobre las actividades de la Comisión de Derechos Humanos del Distrito Federal;
 
 VIII.- Celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines de la Comisión;
 
@@ -841,3 +841,9 @@ Artículo Segundo. Publíquese en el Diario Oficial de la Federación para su ma
 Artículo Tercero. Con objeto de no vulnerar los derechos adquiridos de los actuales integrantes del Consejo de la Comisión de Derechos Humanos del Distrito Federal, las dos sustituciones ordinarias anuales, así como la duración del encargo hasta por un periodo de cinco años, se aplicarán a partir de las sustituciones o reelecciones posteriores a la entrada en vigor del presente decreto.
 
 Artículo Cuarto. En caso de que la Asamblea Legislativa del Distrito Federal elija a más de un integrante del Consejo de la Comisión de Derechos Humanos del Distrito Federal y en tanto se regulariza la sustitución o reelección de dos consejeros en los términos de la presente reforma, la Comisión de Derechos Humanos de dicha Asamblea realizará una insaculación para determinar el orden en que deberán ser sustituidos, de tal manera que un consejero sea sustituido o reelecto dentro de cinco años, el siguiente dentro de cuatro y así sucesivamente.
+
+G.O. 18 DE MAYO DE 2005.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
