@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2005-01-19"
+last_updated: "2005-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -363,9 +363,11 @@ IV. Capital contable autorizado; y,
 
 V. Domicilio legal en el Estado de Chihuahua.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 26.
 
-Sólo se podrán celebrar contratos de obra pública y servicios relacionados con la misma, con los contratistas inscritos en el Padrón, cuyo registro esté vigente, exceptuando los casos previstos en el artículo 80 fracciones I, II, V, VIII y IX de esta Ley.
+Sólo se podrán celebrar contratos de obra pública y servicios relacionados con la misma, con los contratistas inscritos en el Padrón, cuyo registro esté vigente, exceptuando la adjudicación directa de los casos previstos en los municipios del grupo IV, señalados en el artículo 79, siempre y cuando el monto del contrato respectivo no exceda de 6 veces el salario mínimo general diario vigente en la zona que corresponda, elevado al año y en los casos del artículo 80 fracciones I, II, V, VIII y IX de esta Ley.
 
 ###### ARTICULO 27.
 
@@ -979,6 +981,14 @@ Recibida la obra, la unidad o área administrativa bajo cuya responsabilidad que
 
 Los Municipios, sus Organismos Públicos Descentralizados, las Empresas de Participación Municipal mayoritarias y los Fideicomisos en los que los Municipios tengan el carácter de Fideicomitentes según correspondan, de conformidad con lo dispuesto por las Leyes de la materia y bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública y servicios relacionados con la misma, a través de adjudicación directa y/o un procedimiento de licitación restringida mediante invitación a cuando menos tres contratistas, cuando el importe de las operaciones no exceda de los montos establecidos en este artículo, siempre y cuando las propuestas se consideren técnicamente válidas y las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+
+Los municipios garantizarán que el contrato se adjudique preferentemente con personas físicas o morales debidamente constituidas, residentes en la localidad o lugar donde deba ejecutarse la obra y que se encuentren al corriente de sus obligaciones fiscales, siempre y cuando cuenten con capacidad de respuesta inmediata y ofrezcan las mejores condiciones en cuanto a precio, pago, financiamiento y oportunidad en el cumplimiento y no se encuentren en lo supuestos del artículo 42; así como asegurar que la obra no se fraccionará para quedar en los supuestos del artículo 43 de la misma Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+
+Para garantizar la buena calidad de la obra y la correcta aplicación del anticipo, el contratista estará obligado, mediante una carta compromiso; en el primer caso, por un 10% del monto total contratado; y en el segundo, por el 100% del anticipo otorgado.
+
 GRUPO MUNICIPIOS ADJUDICACION INVITACION A TRES
 
 DIRECTA CONTRATISTAS
@@ -1396,3 +1406,9 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 18 DE MAYO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
