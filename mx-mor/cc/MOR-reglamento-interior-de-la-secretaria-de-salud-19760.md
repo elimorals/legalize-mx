@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-19760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-07"
-last_updated: "2004-12-08"
+last_updated: "2005-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de febrero de 2001.
 
@@ -43,6 +43,8 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD
 
 La Secretaría de Salud, como dependencia del Poder Ejecutivo del Estado tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública y las demás disposiciones jurídicas vigentes.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2005, CAMBIA LA ESTRUCTURA DE LAS UNIDADES ADMINISTRATIVAS Y SERVIDORES PUBLICOS.</small>
+
 ###### Artículo 2.
 
 Para el despacho de los asuntos de su competencia, la Secretaría de Salud contará con las unidades administrativas y los servidores públicos que enseguida se refieren:
@@ -51,47 +53,29 @@ SECRETARIO.
 
 UNIDADES ADMINISTRATIVAS:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
 
 SUBSECRETARIO DE COORDINACIÓN SECTORIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
 
 DIRECCIÓN GENERAL DE COORDINACIÓN ADMINISTRATIVA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
 
 DIRECCIÓN GENERAL DE COORDINACIÓN Y SUPERVISIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
 
 DIRECCIÓN GENERAL DE INNOVACIÓN Y CALIDAD EN SALUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+DIRECCION GENERAL NORMATIVA
 
-DIRECCIÓN GENERAL NORMATIVA
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-DIRECCIÓN GENERAL DE PROTECCIÓN SOCIAL EN SALUD.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-Tanto la Dirección General Normativa, la Dirección General de Protección Social en Salud, como la Dirección General de Coordinación Administrativa, quedarán integradas a la Oficina del Secretario.
+Tanto la Dirección General Normativa como la Dirección General de Coordinación Administrativa, quedarán integradas a la Oficina del Secretario.
 
 La Dirección General de Servicios de Apoyo Administrativo, dependerá directamente del Secretario.
 
@@ -119,11 +103,9 @@ II.- Expedir, previo acuerdo del Titular del Poder Ejecutivo, las políticas de 
 
 III.- Someter a la aprobación del Titular del Poder Ejecutivo los programas y proyectos del sistema estatal de planeación democrática que, conforme a las bases del mismo, le corresponda sancionar y autorizar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-IV.- Proponer, dirigir, coordinar y controlar la ejecución de programas de desarrollo, de salud y asistencia social de la entidad, así como todos aquellos de carácter sectorial que establezca el Plan Estatal de Desarrollo, y el Acuerdo de Coordinación para la ejecución del Sistema de Protección Social en Salud;
+IV.- Proponer, dirigir, coordinar y controlar la ejecución de programas de desarrollo, de salud y asistencia social de la entidad, así como todos aquellos de carácter sectorial que establezca el Plan Estatal de Desarrollo;
 
 V.- Solicitar, cuando lo exija el interés público y de acuerdo con las leyes respectivas, la disposición de bienes que deban asignarse al desarrollo de los programas de la Secretaría;
 
@@ -155,11 +137,7 @@ XVI.- Resolver para fines administrativos las dudas que susciten con motivo de l
 
 XVII.- Realizar recomendaciones al Titular Ejecutivo Estatal, en relación a los profesionistas que serán nombrados para ocupar la titularidad de los organismos públicos descentralizados que se encuentren dentro del Sistema Estatal de Salud, y; (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-XVIII.- Coordinar y dar seguimiento puntual a la relación entre el Régimen Estatal de Protección Social en Salud y otros establecimientos acreditados para la atención médica en la entidad, en otras entidades federativas, o con otras instituciones del Sistema Nacional de Salud;
+XVIII.- (DEROGADA, P.O. 18 DE MAYO DE 2005)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -213,11 +191,7 @@ XVI.- Vigilar que se cumpla con las leyes y disposiciones aplicables en los asun
 
 XVII.- Normar las actividades tendientes al Registro Estatal de Agrupaciones para la Salud, y; (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-XVIII.- Vigilar las acciones que en materia de Protección Social en Salud se realicen, y
+XVIII.- (DEROGADA, P.O. 18 DE MAYO DE 2005)
 
 XIX.- Las demás que le confieran las disposiciones legales vigentes.
 
@@ -359,7 +333,7 @@ VI.- Elaborar, conforme a las normas que establezca la Oficialía Mayor las prop
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA], P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 VII.- Supervisar la correcta elaboración y aplicación de los movimientos del personal e incidencias de acuerdo a los lineamientos que establezca la Oficialía Mayor;
 
@@ -451,11 +425,7 @@ VI.- Elaborar y evaluar proyectos para el desarrollo de los servicios de salud y
 
 VII.- Coordinar la elaboración de publicaciones sobre el ámbito de competencia de la Secretaría, y; (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-VIII.- Supervisar el desarrollo de las evaluaciones trimestrales del Régimen Estatal de Protección Social en Salud;
+VIII.- (DEROGADA, P.O. 18 DE MAYO DE 2005)
 
 IX.- Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
 
@@ -477,9 +447,9 @@ IV. Coordinar y gestionar con los Sectores Público, Social y Privado acciones r
 
 V. Orientar y canalizar a las Dependencias correspondientes los requerimientos y soluciones que en materia de calidad se formulen y propongan a la Dirección;
 
-VI. Coordinarse con la Dirección General de Protección Social en Salud, en el fortalecimiento de la calidad de la prestación de los servicios médicos, de los establecimientos certificados por el Sistema de Protección Social en Salud, y
+VI. (DEROGADA, P.O. 18 DE MAYO DE 2005)
 
-VII. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario; (sic)
+VII. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario;
 
 ### CAPÍTULO SEXTO. DE LOS ORGANISMOS ADMINISTRATIVOS DESCONCENTRADOS
 
@@ -553,57 +523,9 @@ VIII.- Las demás atribuciones que expresamente le confieran los ordenamientos l
 
 ### CAPÍTULO DÉCIMO. DEL CONSEJO ESTATAL DE SALUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 22.
 
-La Dirección General de Protección Social en Salud tendrá las siguientes atribuciones:
-
-Dirigir y controlar el Régimen Estatal de Protección Social en Salud, así como garantizar las acciones de protección social en salud mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el sistema, de manera independiente a la propia provisión de servicios de salud.
-
-Así como las siguientes atribuciones específicas:
-
-I. Llevar a cabo las acciones de identificación de grupos de familias a beneficiar así como su incorporación al Sistema, y verificar la vigencia y tutela de sus derechos;
-
-II. Administrar el padrón de beneficiarios del estado de Morelos en los términos de las disposiciones jurídicas aplicables, para a su vez coadyuvar a la integración del Padrón Nacional;
-
-III. Apoyar la gestión a los solicitantes de incorporación al Sistema de Protección Social en Salud en la obtención de las actas de nacimiento y del CURP para favorecer su afiliación;
-
-IV. Realizar la evaluación de la capacidad económica de las familias, para establecer el nivel de cuota familiar que les corresponda, e identificar aquellas familias sujetas al esquema no contributivo;
-
-V. Elaborar el informe de las familias incorporadas al Régimen Estatal de Protección Social en Salud, incluyendo el monto aportado por concepto de cuota familiar, con el objeto de que el Secretario lo remita a la Federación dentro de los 45 días naturales de cada trimestre del calendario;
-
-VI. Vigilar que los recursos transferidos al prestador de servicios por concepto de cuota social, aportación solidaria Federal y Estatal, cuota familiar e infraestructura sean aplicados responsablemente, de conformidad con lo señalado en la Ley General de Salud, su Reglamento, el Acuerdo de Coordinación para la ejecución del Sistema de Protección Social en Salud y los Convenios de Gestión respectivos;
-
-VII. Elaborar el Programa Operativo Anual de la Dirección General a su cargo;
-
-VIII. Administrar los recursos financieros, humanos y materiales que la Federación asigna al Régimen Estatal de Protección Social en Salud para su funcionamiento operativo;
-
-IX. Verificar que las quejas que presenten los beneficiarios del Sistema de Protección Social en Salud sean turnadas, atendidas, y en su caso informar al Secretario, para que se apliquen las medidas correctivas;
-
-X. Establecer las estrategias de promoción y registro de beneficiarios de acuerdo a la normatividad aplicable;
-
-XI. Identificar causales de cancelación o suspensión de servicios a los beneficiarios conforme a lo establecido en el Capítulo X del Título Tercero Bis de la Ley General de Salud, e informar en su caso a las instancias correspondientes;
-
-XII. Facilitar el intercambio de servicios con los Regímenes Estatales de Protección Social en Salud de otras entidades federativas que se adhieran al Sistema;
-
-XIII. Realizar los convenios de gestión necesarios con establecimientos para la atención médica acreditados que se incorporen como prestadores de servicios al Sistema;
-
-XIV. Fomentar y coadyuvar en la operación de los mecanismos de referencia y contrarreferencia de pacientes beneficiarios del Sistema;
-
-XV. Coordinar los esfuerzos de difusión y concientización para la población sobre los beneficios de la afiliación al Sistema;
-
-XVI. Proponer y promover recomendaciones a los prestadores de servicios para la atención médica con respecto a los servicios otorgados a los beneficiarios del Sistema;
-
-XVII. Autorizar previo acuerdo con el Secretario, la asignación de recursos o en su caso la reposición de fondos, al prestador de servicios para la atención a los beneficiarios del Sistema en base a lo estipulado en los convenios de gestión respectivos, y en el Plan Estratégico de Desarrollo del Sistema de Protección Social en Salud;
-
-XVIII. Verificar que los prestadores de servicios médicos cumplan con los requisitos que establece la Ley, el Reglamento, el Acuerdo de Coordinación, y los Convenios de Gestión del Sistema de Protección Social en Salud;
-
-XIX. Elaborar, y presentar al Secretario, los informes de evaluación y rendición de cuentas sobre el ejercicio de los recursos del Sistema de Protección Social en Salud, que le requiera el Gobierno del Estada (sic) o la Federación, y
-
-XX. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
+(DEROGADO, P.O. 18 DE MAYO DE 2005)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -651,10 +573,16 @@ RÚBRICAS
 
 P.O. 8 DE DICIEMBRE DE 2004.
 
-> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(F. DE E., 15 DE DICIEMBRE DE 2004)</small>
 
 PRIMERO. El presente Decreto entrará en vigor el día primero de enero de dos mil cinco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
 
 TERCERO. La Secretaría de Finanzas y Planeación realizará las modificaciones presupuéstales necesarias para adecuar el presupuesto autorizado a la estructura definida en este Reglamento.
+
+P.O. 18 DE MAYO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
