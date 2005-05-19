@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-estado-libre-y-soberano-de-durango-para-424
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2004-12-19"
-last_updated: "2004-12-19"
+last_updated: "2005-05-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL DE 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el 19 de diciembre de 2004.
 
@@ -37,7 +37,7 @@ LA HONORABLE SEXAGÉSIMA TERCERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURA
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL DE 2005.
 
-###### Articulo 1.
+###### Artículo 1.
 
 En los términos de la Ley de Hacienda del Estado de Durango, del Código Fiscal Estatal y de las demás disposiciones aplicables, los ingresos por el periodo comprendido del 1º de enero al 31 de diciembre de 2005, se considerarán en las cantidades estimadas provenientes de los siguientes conceptos:
 
@@ -203,11 +203,17 @@ FORTALECIMIENTO DE ENTIDADES FEDERATIVAS
 
 (PAFEF) 314,322,416.00
 
-INGRESOS DERIVADOS DE FINANCIAMIENTO 0.00
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
 
-INGRESOS DERIVADOS DE FINANCIAMIENTO 0.00
+INGRESOS DERIVADOS DE FINANCIAMIENTO $220,000,000.00
 
-TOTAL DE INGRESOS $10,704,738,413.00
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
+
+INGRESOS DERIVADOS DE FINANCIAMIENTO $220,000,000.00
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
+
+TOTAL DE INGRESOS $10,924,738,413.00
 
 ###### Artículo 2.
 
@@ -217,11 +223,11 @@ Para el ejercicio fiscal de 2005, la tasa de recargos aplicable por falta de pag
 
 Para el ejercicio fiscal de 2005, en los casos de autorización de pago en parcialidades o concesión de prórroga para el pago de créditos fiscales, la tasa de recargos aplicables será de 1.5 % mensuales sobre saldos insolutos.
 
-###### Articulo 4.
+###### Artículo 4.
 
 Se faculta a la Secretaría de Finanzas y de Administración para que durante el año 2005, mediante reglas de carácter general, se puedan otorgar facilidades administrativas para el cumplimiento de las obligaciones fiscales de los contribuyentes.
 
-###### Articulo 5.
+###### Artículo 5.
 
 La recaudación de las contribuciones de los conceptos enumerados en esta Ley, se hará en las cajas de las Oficinas Recaudadoras de Rentas de la Secretaría de Finanzas y de Administración y en las instituciones bancarias autorizadas para tal efecto. Los ingresos que se recauden por los diversos conceptos que establece esta ley se concentrarán en la Secretaría de Finanzas y de Administración y deberán reflejarse, cualquiera que sea su naturaleza, en sus registros.
 
@@ -237,7 +243,7 @@ La Secretaría de Finanzas y de Administración podrá condonar total o parcialm
 
 I. La condonación a que se refiere este Artículo, se autorizará cuando:
 
-a. Los activos del contribuyente sean insuficientes para cumplir el crédito fiscal de que se trate o que la carga financiera que representen los recargos y los demás créditos a cargo del contribuyente impliquen que pueda entrar en estado de insolvencia o lo conduzca a la suspensión de pagos o quiebra ; y
+a. Los activos del contribuyente sean insuficientes para cumplir el crédito fiscal de que se trate o que la carga financiera que representen los recargos y los demás créditos a cargo del contribuyente impliquen que pueda entrar en estado de insolvencia o lo conduzca a la suspensión de pagos o quiebra; y
 
 b. Los recargos cuya condonación se solicita, deriven de créditos fiscales a cargo del contribuyente relativos a contribuciones que debieron cubrirse hasta el 31 de diciembre de 2004.
 
@@ -273,7 +279,7 @@ b. Que entregue certificado de discapacidad expedido por autoridad competente.
 
 Estos estímulos no serán aplicables para aquellos contribuyentes que no se encuentren registrados en el Padrón Vehicular Estatal y para aquellos que no estén al corriente de sus obligaciones fiscales en materia vehicular.
 
-###### Articulo 9.
+###### Artículo 9.
 
 Se autoriza a la Secretaría de Finanzas y de Administración a celebrar convenios de colaboración administrativa en materia fiscal con los municipios de la entidad para la fiscalización y administración tributaria en el régimen de pequeños contribuyentes del Impuesto sobre la Renta y que pertenezcan al comercio ambulante o puestos fijos y semifijos en cada municipio.
 
@@ -281,7 +287,7 @@ Se autoriza a la Secretaría de Finanzas y de Administración a celebrar conveni
 
 Para el ejercicio fiscal de 2005, los contribuyentes que paguen el Impuesto Sobre Nóminas conforme a la opción establecida en el segundo párrafo del articulo 7 de la Ley de Hacienda del Estado de Durango, gozarán de una reducción del 10% del impuesto sobre nominas causado.
 
-###### Articulo 11.
+###### Artículo 11.
 
 Se faculta al Titular del Ejecutivo Estatal por conducto de la Secretaría de Finanzas y de Administración, para que celebre con los Municipios del Estado, los convenios necesarios para coordinarse en la recaudación, cobro y vigilancia, fiscalización y administración de tributos estatales o municipales.
 
@@ -320,3 +326,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RIVARDO FIDEL PACHECO RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 19 DE MAYO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
