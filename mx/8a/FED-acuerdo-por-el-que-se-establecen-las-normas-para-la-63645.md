@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "2004-07-14"
+last_updated: "2005-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,19 +21,21 @@ issue_date: "1994-08-28"
 
 ACUERDO QUE MODIFICA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de julio de 2004.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de mayo de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o., 10 y 66 de la Ley de Comercio Exterior, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo y 29 de junio de 2001, 6 de septiembre de 2002 y 30 de mayo de 2003, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
+Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003 y 14 de julio de 2004, respectivamente;
 
-Que el artículo cuarto fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquellas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si prueba que el país de origen de las mercancías es distinto al de aquellas sujetas a cuota compensatoria, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
+Que el Acuerdo citado en el considerando anterior tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
-Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay que aprobó el Senado de la República el 28 de abril de 2004, el decreto de aprobación fue publicado en el Diario Oficial de la Federación el 26 de mayo de 2004, y
+Que el artículo cuarto fracción I inciso (c) del Acuerdo citado, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquéllas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si prueba que el país de origen de las mercancías es distinto al de aquellas sujetas a cuota compensatoria, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado comercial internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
+
+Que para fortalecer y ampliar las relaciones comerciales con el Japón, el 17 de noviembre de 2004 se firmó el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, el cual fue aprobado por el Senado de la República el 18 de noviembre de 2004, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, y entró en vigor el 1 de abril del año en curso, y
 
 Que es necesario actualizar y dar a conocer las disposiciones referentes a la determinación y certificación del país de origen de mercancías importadas en materia de cuotas compensatorias, he tenido a bien expedir el siguiente:
 
@@ -41,15 +43,15 @@ ACUERDO QUE MODIFICA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS 
 
 ###### ARTICULO UNICO.
 
-Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, el 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo y 29 de junio de 2001, 6 de septiembre de 2002 y 30 de mayo de 2003, el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, para quedar como sigue:
+Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación, reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003 y 14 de julio de 2004, respectivamente, el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, para quedar como sigue:
 
 “ANEXO V
 
-. . .
+...
 
-. . .
+...
 
-Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay.
+Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón.”
 
 ###### ARTICULO CUARTO.
 
@@ -139,10 +141,8 @@ VI.- Tratándose de mercancías exportadas definitivamente que retornan al país
 
 VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a lo dispuesto por los artículos 115 y 116 de la Ley Aduanera”.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el 15 de julio de 2004.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- En un plazo de 30 días contados a partir de la entrada en vigor del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, se derogará el Acuerdo que reforma el Anexo V del diverso por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 1 de marzo de 2001, mediante el cual incluye el Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 5 entre los Estados Unidos Mexicanos y la República Oriental del Uruguay.
-
-México, D.F., a 2 de julio de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 12 de mayo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
