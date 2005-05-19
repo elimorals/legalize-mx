@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-lo-contencioso-34880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2005-01-21"
+last_updated: "2005-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2005.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de noviembre de 2003.
 
@@ -41,49 +41,53 @@ REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE 
 
 El presente reglamento tiene por objeto regular la organización, funciones y atribuciones legales del Tribunal de lo Contencioso Administrativo del Estado de México.
 
-> <small>(REFORMADO, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
 
 ###### Artículo 2.
 
 Para los efectos del presente reglamento se entenderá por:
 
-I. Código Administrativo: Código Administrativo del Estado de México;
+I. Carrera Jurisdiccional: Sistema de ingreso y promoción del personal jurídico del Tribunal;
 
-II. Código de Procedimientos: Código de Procedimientos Administrativos del Estado de México;
+II. Código Administrativo: Código Administrativo del Estado de México;
 
-III. Carrera Jurisdiccional: Sistema de ingreso y promoción del personal jurídico del Tribunal;
+III. Código de Procedimientos: Código de Procedimientos Administrativos del Estado de México;
 
-IV. Convocatoria: Medio escrito que se difunda a través del cual se llama a los interesados a participar en el desarrollo de las actividades del Tribunal;
+IV. Concurso de Oposición: Los exámenes en los que participan los aspirantes a ocupar una plaza vacante;
 
-V. Concurso de Oposición: los exámenes en los que participan los aspirantes a ocupar una plaza vacante;
+V. Consejo: Al Consejo de la Justicia Administrativa;
 
-VI. Comité Editorial: Al Comité Editorial del Tribunal;
+VI. Convocatoria: Medio escrito que se difunda a través del cual se llama a los interesados a participar en el desarrollo de las actividades del Tribunal;
 
-VII. Comité de Información: Al Comité de Información del Tribunal;
+VII. Comité Editorial: Al Comité Editorial del Tribunal;
 
-VIII. Consejo de Información: Al Consejo de Información del Tribunal;
+VIII. Comité de Información: Al Comité de Información del Tribunal;
 
-IX. Diligencia: Actuación de la autoridad competente en ejercicio y mandamiento de sus atribuciones en la función jurisdiccional;
+IX. Consejo de Información: Al Consejo de Información del Tribunal;
 
-X. Instituto: Al Instituto de Formación Profesional del Tribunal;
+X. Diligencia: Actuación de la autoridad competente en ejercicio y mandamiento de sus atribuciones en la función jurisdiccional;
 
-XI. Jurado: Cuerpo colegiado que evalúa los exámenes en los concursos de oposición, cuya decisión es inatacable;
+XI. Fondo: Al Fondo Auxiliar para la Justicia Administrativa;
 
-XII. Jurisprudencia: los criterios emitidos por el Pleno del Tribunal, que orientan la función jurisdiccional, con carácter obligatorio para las Salas Regionales y Secciones de la Sala Superior;
+XII. Instituto: Al Instituto de Formación Profesional del Tribunal;
 
-XIII. Ley: A la ley de Transparencia y Acceso a la Información Pública del Estado de México;
+XIII. Jurado: Cuerpo colegiado que evalúa los exámenes en los concursos de oposición, cuya decisión es inatacable;
 
-XIV. Órgano de Difusión: La publicación o medio por el cual se dan a conocer a la población las actividades jurídico-administrativas del Tribunal;
+XIV. Jurisprudencia: Los criterios emitidos por el Pleno del Tribunal, que orientan la función Jurisdiccional, con carácter obligatorio para las Salas Regionales y Secciones de la Sala Superior;
 
-XV. Profesionalización: Es un proceso que consiste en formar el capital humano para el Tribunal con calidad profesional;
+XV. Ley: A la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
 
-XVI. Servicio Social: las actividades que realizan en el Tribunal los estudiantes con el fin de aplicar los conocimientos adquiridos en las distintas carreras; y (sic)
+XVI. Órgano de Difusión: La publicación o medio por el cual se dan a conocer a la población las actividades jurídico-administrativas del Tribunal;
 
-XVII. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de México;
+XVII. Profesionalización: Es un proceso que consiste en formar el capital humano para el Tribunal con calidad profesional;
 
-XVIII. Unidades Administrativas: A la Presidencia, Pleno de la Sala Superior, Secciones de la Sala Superior, Salas Regionales, Instituto de Formación Profesional, Unidad de Informática, Unidad de Estudios y Proyectos, Unidad de Apoyo Administrativo, Unidad de Asesoría Comisionada, y Unidad de Documentación, Difusión e Información; y
+XVIII. Servicio Social: Las actividades que realizan en el Tribunal los estudiantes con el fin de aplicar los conocimientos adquiridos en las distintas carreras;
 
-XIX. Unidad de Información: A la Unidad de Documentación, Difusión e Información del Tribunal.
+XIX. Tribunal: Al Tribunal de lo Contencioso Administrativo del Estado de México;
+
+XX. Unidades Administrativas: A la Presidencia, Pleno de la Sala Superior, Secciones de la Sala Superior Salas Regionales, Magistraturas Supernumerarias, Instituto de Formación Profesional, Unidad de Informática, Unidad de Estudios y Proyectos, Unidad de Apoyo Administrativo, Unidad de Asesoría Comisionada, y Unidad de Documentación, Difusión e Información; y
+
+XXI. Unidad de Información: A la Unidad de Documentación, Difusión e Información del Tribunal.
 
 ###### Artículo 3.
 
@@ -101,11 +105,13 @@ V. Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado 
 
 VI. Las demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 4.
 
-Para el ejercicio de sus funciones, el Tribunal se integra por:
+Para el ejercicio de sus funciones, el Tribunal actuara con:
 
-I. Sala Superior;
+I. Una Sala Superior, integrada por tres Secciones; y
 
 II. Salas Regionales.
 
@@ -121,9 +127,11 @@ El personal jurídico del Tribunal y demás interesados podrán presentar, ante 
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL TRIBUNAL DEL PLENO DE LA SALA SUPERIOR
 
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 7.
 
-El Pleno de la Sala Superior se integra con los seis Magistrados de las Secciones y el Presidente del Tribunal, quienes podrán sesionar con la presencia de la mayoría de los Magistrados de las Secciones.
+El Pleno de la Sala Superior estará integrado por los Magistrados de las Secciones y el Presidente del Tribunal; para sesionar será necesaria la presencia del Presidente del Tribunal y cuando menos seis Magistrados.
 
 ###### Artículo 8.
 
@@ -154,6 +162,10 @@ Los Magistrados de guardia serán auxiliados por el personal que designe el Pres
 La Primera Sección, residirá en el municipio de Toluca y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicte o ejecute la Primera Sala Regional.
 
 La Segunda Sección residirá en el municipio de Tlalnepantla de Baz, y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Segunda, Tercera, Cuarta, Quinta y Sexta Salas Regionales.
+
+> <small>(ADICIONADO, G.G. 19 DE MAYO DE 2005)</small>
+
+La Tercera Sección, residirá en el municipio de Ecatepec de Morelos, y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Segunda, Tercera, Cuarta, Quinta y Sexta Salas Regionales.
 
 ###### Artículo 14.
 
@@ -275,13 +287,17 @@ I. Ser mexicano, en ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de veintiún años el día de su designación;
 
-III. Estar en pleno ejercicio de su capacidad física y mental para el desempeño del cargo;
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+III. No padecer enfermedad física o mental, que lo inhabilite para el desempeño del cargo;
 
 IV. Tener título de licenciado en derecho, con excepción de los Jefes de Unidad: de Apoyo Administrativo, Documentación y Difusión y de Informática, que podrán tener otro título profesional afín a su función;
 
 V. Ser de notoria buena conducta y honorabilidad manifiesta;
 
-VI. No haber sido condenado en sentencia ejecutoria por delito intencional; y
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VI. No haber sido condenado en sentencia ejecutoria por delito intencional que amerite pena corporal por más de un año de prisión, ni estar inhabilitado para ejercer un cargo público;
 
 VII. Aprobar los exámenes del concurso de oposición respectivo.
 
@@ -295,11 +311,15 @@ I. Acordar con el Presidente del Tribunal los asuntos de su competencia;
 
 II. Elaborar y firmar, las actas de las sesiones del Pleno de la Sala Superior, autorizadas por el Presidente del Tribunal;
 
-III. Formular los proyectos de acuerdos y resoluciones en el procedimiento disciplinario, a más tardar el día hábil siguiente al de la recepción de la promoción;
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+III. Desahogar la garantía de audiencia en el procedimiento administrativo disciplinario, así como formular los proyectos de acuerdos y resoluciones en el mismo, a más tardar el día hábil siguiente al de la recepción de la promoción;
 
 IV. Dar cuenta en las sesiones del Pleno de los asuntos a tratar, registrar la votación de los Magistrados y comunicar las decisiones que se acuerden;
 
-V. Engrosar las resoluciones de la Presidencia en el procedimiento disciplinario;
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+V. Engrosar las resoluciones del Consejo en el procedimiento administrativo disciplinario;
 
 VI. Dar fe y firmar las actas, acuerdos y actuaciones del Pleno;
 
@@ -363,9 +383,15 @@ XVI. Dar a conocer al personal del Tribunal los concursos escalafonarios del Gob
 
 XVII. Coordinar la integración y elaboración de los manuales administrativos y de procedimientos y normas administrativas y técnicas para el buen funcionamiento del Tribunal;
 
-XVIII. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y
+XVIII. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y (sic)
 
-XIX. Las demás atribuciones que le señalen las disposiciones legales y normativas.
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+XIX. Fungir como Coordinador Administrativo del Fondo; operar su manejo e informar mensualmente al Consejo del estado que guarda;
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+XX. Las demás atribuciones que le señalen las disposiciones legales y normativas.
 
 > <small>(REFORMADO, G.G. 21 DE ENERO DE 2005)</small>
 
@@ -389,11 +415,11 @@ VII. Coordinar las funciones de la biblioteca y archivo central del Tribunal;
 
 VIII. Auxiliar al personal jurídico del Tribunal respecto a la información que se tiene en la biblioteca del Tribunal;
 
-IX. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y (sic)
+IX. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y
 
 X. Publicar la información y tramitar las solicitudes que se presenten en términos de la ley;
 
-XI. Verificar si la información se encuentra clasificada como confidencial o reservada;
+XI. Verificar si la información se encuentra clasificada como confidencial o reservada
 
 XII. Fijar las condiciones del control de la información;
 
@@ -435,11 +461,19 @@ III. Desahogar las consultas que le formulen los Asesores Comisionados;
 
 IV. Evaluar periódicamente el desempeño de las funciones de los Asesores Comisionados;
 
-V. Convocar a los Asesores Comisionados a reuniones bimestrales de trabajo, para informar y plantear nuevas estrategias para la defensa de los intereses de los particulares que reciben atención jurídica, respecto al desempeño de sus funciones;
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
 
-VI. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y
+V. Convocar a los Asesores Comisionados a reuniones trimestrales de trabajo, para informar y plantear nuevas estrategias para la defensa de los intereses de los particulares que reciben atención jurídica, respecto al desempeño de sus funciones;
 
-VII. Las demás atribuciones que le señalen las disposiciones legales.
+VI. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y (sic)
+
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VII. Remitir semanalmente al Presidente del Tribunal los datos estadísticos de la Unidad; y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VIII. Las demás atribuciones que le señalen las disposiciones legales.
 
 ###### Artículo 43.
 
@@ -493,9 +527,15 @@ IX. Organizar, coordinar y controlar la prestación del servicio social, prácti
 
 X. Coordinar los programas de investigación jurídica en los que participe el personal jurídico del Tribunal;
 
-XI. Coordinar los programas de capacitación que para el personal difunda la respectiva dependencia del Gobierno del Estado; y
+XI. Coordinar los programas de capacitación que para el personal difunda la respectiva dependencia del Gobierno del Estado; y (sic)
 
-XII. Las demás atribuciones que le señalan las disposiciones legales.
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+XII.- Proponer al Consejo la aplicación del patrimonio del Fondo para apoyar al personal del Tribunal en su formación profesional en términos del artículo 297 del Código de Procedimientos; y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+XIII.- Las demás atribuciones que le señalan las disposiciones legales.
 
 ###### Artículo 45.
 
@@ -519,9 +559,15 @@ VIII. Llevar el control de los libros de la Sección;
 
 IX. Apoyar al Presidente de la Sección, en la coordinación de las labores del personal de la misma;
 
-X. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional; y
+X. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional; y (sic)
 
-XI. Las demás atribuciones que les señalen las disposiciones legales.
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+XI. Emitir la orden de pago correspondiente para que las autoridades fiscales efectúen el cobro de los ingresos que formen parte del Fondo, debiendo remitir el recibo de pago al Coordinador Administrativo del Fondo; y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+XII. Las demás atribuciones que les señalen las disposiciones legales.
 
 ###### Artículo 46.
 
@@ -539,9 +585,15 @@ V. Expedir certificaciones de las constancias que obren en los expedientes de la
 
 VI. Llevar el control de los libros de la Sala;
 
-VII. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional; y
+VII. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional; y (sic)
 
-VIII. Las demás atribuciones que les señalen las disposiciones legales.
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VIII. Emitir la orden de pago correspondiente para que las autoridades fiscales efectúen el cobro de los ingresos que formen parte del Fondo, debiendo remitir el recibo de pago al Coordinador Administrativo del Fondo; y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+IX. Las demás atribuciones que les señalen las disposiciones legales.
 
 ###### Artículo 47.
 
@@ -551,9 +603,19 @@ I. Asesorar y patrocinar gratuitamente a las personas físicas, pertenecientes a
 
 II. Asesorar, en forma gratuita a las personas físicas de escasos recursos económicos, que acudan directamente a solicitar la formulación de demandas y otras promociones que deban presentar ante el Tribunal;
 
-III. Resolver, de manera gratuita, las consultas que formulen las personas físicas de escasos recursos económicos, en materia administrativa y fiscal, canalizando a éstos, en su caso, a las dependencias competentes; y
+III. Resolver, de manera gratuita, las consultas que formulen las personas físicas de escasos recursos económicos, en materia administrativa y fiscal, canalizando a éstos, en su caso, a las dependencias competentes; y (sic)
 
-IV. Las demás atribuciones que les señalen las disposiciones legales.
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+IV. Remitir semanalmente en forma oportuna a la Unidad de Asesoría Comisionada, los datos estadísticos correspondientes a los juicios y recursos presentados en dicho periodo, así como el número de personas que fueron atendidas;
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+V. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional; y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VI. Las demás atribuciones que les señalen las disposiciones legales.
 
 ###### Artículo 48.
 
@@ -581,13 +643,25 @@ II. Practicar las diligencias que les encomiende la Sección de la Sala Superior
 
 III. Asentar las razones de las notificaciones y las actas de las diligencias que practiquen;
 
-VI (sic). En la práctica de sus actuaciones, dar fe;
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
 
-VII. Acordar con el Secretario de Acuerdos el control y registro de los expedientes;
+IV. En la práctica de sus actuaciones, dar fe;
 
-VIII. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional; y
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
 
-IX. Las demás atribuciones que les señalen las disposiciones legales.
+V. Acordar con el Secretario de Acuerdos el control y registro de los expedientes;
+
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VI. Asistir y participar en los eventos a los cuales sean convocados por la Dirección General del Instituto de Formación Profesional;
+
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VII. Realizar las notificaciones y diligencias que se les encomienden en relación con el procedimiento administrativo disciplinario previsto por los artículos 61 y 62 del presente Reglamento; y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2005)</small>
+
+VIII. Las demás atribuciones que les señalen las disposiciones legales.
 
 ###### Artículo 50.
 
@@ -649,9 +723,11 @@ Cuando ningún sustentante alcance por lo menos el promedio de siete puntos, el 
 
 Concluidos los exámenes teórico y práctico, el jurado levantará el acta final respectiva e informará al Presidente del Tribunal, a fin de que determine lo conducente.
 
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 56.
 
-Cuando existan plazas vacantes de Magistrados del Tribunal, el Pleno de la Sala Superior podrá presentar ante el Gobernador del Estado, alguna propuesta de aspirantes, de entre los integrantes del personal jurídico que reúnan los requisitos legales, observando en lo conducente las normas sobre el concurso interno de oposición. Para este efecto, el jurado se integrará con el Presidente del Tribunal y los dos Presidentes de Sección de Sala Superior.
+Cuando existan plazas vacantes de Magistrados del Tribunal, el Pleno de la Sala Superior podrá presentar ante el Gobernador del Estado, alguna propuesta de aspirantes, de entre los Integrantes del personal jurídico que reúnan los requisitos legales, observando en lo conducente las normas sobre el concurso interno de oposición. Para este efecto, el jurado se integrara con el Presidente del Tribunal, los tres Presidentes de las Secciones de la Sala Superior.
 
 ###### Artículo 57.
 
@@ -673,17 +749,27 @@ Están obligados a presentar la manifestación de bienes ante la Secretaría de 
 
 El Presidente del Tribunal comunicará al Secretario de la Contraloría, durante el mes de febrero de cada año, los nombres de los servidores públicos obligados a presentar la manifestación anual de bienes.
 
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 61.
 
-El Presidente del Tribunal tramitará el procedimiento para investigar y determinar, en su caso, las responsabilidades administrativas de los servidores públicos del órgano jurisdiccional, con motivo de las denuncias o quejas que presenten los particulares o servidores públicos, o de la revisión de documentos o instrumentos relacionados con los asuntos de su competencia, conforme a los preceptos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+El Presidente del Tribunal, tendrá a su cargo las atribuciones de instruir y resolver el procedimiento administrativo disciplinario para salvaguardar la legalidad, honradez, lealtad y eficiencia que deben ser observadas en la prestación del servicio público, así como las obligaciones específicas y los deberes de cuidado que correspondan a las funciones que desarrolle el personal del Tribunal, conforme a las reglas previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+De igual manera, el Presidente del Tribunal aplicará las sanciones que sean procedentes en los casos en que la Secretaría de la Contraloría del Gobierno del Estado, determine que alguno de los servidores públicos a los que se refiere el artículo 60 de este Reglamento, omitió presentar o presentó de manera extemporánea su manifestación de bienes.
+
+El Secretario General del Pleno, tendrá a su cargo la función de auxiliar en su ausencia al Presidente del mismo, dentro de las diligencias relacionadas con la garantía de audiencia y el cumplimiento de las resoluciones que se dicten en el procedimiento administrativo disciplinario.
+
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
 
 ###### Artículo 62.
 
-El Presidente del Tribunal aplicará las sanciones que procedan a los servidores públicos del mismo órgano jurisdiccional, que incurran en responsabilidades administrativas, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, así como en los casos en que la Secretaría de la Contraloría del Gobierno del Estado determine que han omitido presentar o han formulado extemporáneamente la manifestación de bienes.
+El Consejo de la Justicia Administrativa llevará el registro de los expedientes que se integren con motivo de los procedimientos administrativos disciplinarios.
+
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2005)</small>
 
 ###### Artículo 63.
 
-En contra de las sanciones de responsabilidad administrativa que se les aplique, los servidores públicos del Tribunal tienen derecho a promover ante la Sección de la Sala Superior correspondiente a su domicilio, como único medio de defensa ante el propio órgano jurisdiccional, el recurso de revisión que regulan los artículos 285 a 288 del Código de Procedimientos.
+Contra las resoluciones que se emitan en el procedimiento administrativo disciplinario, los servidores públicos del Tribunal tienen derecho a promover ante la Sección de la Sala Superior de su adscripción, como único medio de defensa ante el propio órgano jurisdiccional, el recurso de revisión que regulan los artículos 285 a 288 del Código de Procedimientos.
 
 ### CAPÍTULO DÉCIMO. DE LAS VISITAS A LAS SALAS
 
@@ -779,7 +865,7 @@ Cuando una Sección de la Sala Superior emita una sentencia que a pesar de conte
 
 El Secretario General del Pleno, dará cuenta de manera periódica al Presidente, de los precedentes relevantes, para que se autorice su publicación. De igual manera los Magistrados de las Secciones de la Sala Superior y de las Salas Regionales, así como los integrantes del personal jurídico del Tribunal podrán proponer a la Presidencia, la publicación de las sentencias que se puedan considerar precedentes relevantes para los efectos descritos en los párrafos anteriores.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
 
 ###### Artículo 76.
 
@@ -1005,6 +1091,10 @@ No se dará curso a las solicitudes que carezcan de los requisitos, establecidos
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
 
+### CAPÍTULO DÉCIMO SEXTO (SIC). DEL CONSEJO DE LA JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO, G.G. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 95.
 
 Recibido un recurso de revisión, en términos de la Ley, la Unidad de Información, deberá remitirlo en un plazo de tres días hábiles al Consejo de Información del Tribunal, quien podrá subsanar las deficiencias del recurso interpuesto.
@@ -1012,6 +1102,68 @@ Recibido un recurso de revisión, en términos de la Ley, la Unidad de Informaci
 Admitido el recurso, el Consejo de Información resolverá dentro de los treinta días hábiles siguientes.
 
 En contra de las resoluciones del Consejo de Información no procede recurso alguno.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE MAYO DE 2005)</small>
+
+###### Artículo 96.
+
+Son facultades del Consejo:
+
+I. Velar por la autonomía que goza el Tribunal para emitir sus resoluciones en términos del artículo 87 de la Constitución Política del Estado Libre y Soberano de México, así como de la libertad e independencia de sus miembros en el desempeño de sus atribuciones;
+
+II. Velar por la vigencia de los valores, principios, atribuciones y reglas jurisdiccionales idóneos para constituir un referente deontológico y ético para el trabajo jurisdiccional;
+
+III. Adoptar las providencias necesarias para el eficiente manejo administrativo del Tribunal;
+
+IV. Expedir acuerdos generales, circulares, manuales y cualquier tipo de instrumentos normativos indispensables para lograr eficiencia, eficacia y calidad en el desempeño administrativo del Tribunal;
+
+V. Llevar a cabo la supervisión y vigilancia de las actividades de las Salas y Unidades Administrativas que integran el Tribunal;
+
+VI. llevar a cabo la administración y manejo del Fondo;
+
+VII. Evaluar el informe mensual que rinda el Coordinador Administrativo del Fondo en términos del articulo 39 fracción XIX de este Reglamento;
+
+VIII. Autorizar los planes de inversión de valores y formas de aplicación del patrimonio del Fondo;
+
+IX. Aprobar las acciones pertinentes para la correcta administración del patrimonio del Fondo; y
+
+X. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 19 DE MAYO DE 2005)</small>
+
+###### Artículo 97.
+
+Son facultades y obligaciones del Presidente del Consejo:
+
+I. Presidir las sesiones del Consejo, dirigir los debates y conservar el orden en éstas;
+
+II. Representar al Consejo ante todo tipo de autoridades, así como en la celebración de todo tipo de actos jurídicos;
+
+III. Autorizar con asistencia del Secretario General del Consejo, las actas y resoluciones que se dicten en los asuntos que sean competencia del Consejo;
+
+IV. Ordenar la publicación de las disposiciones generales que adopte el Consejo en la Gaceta del Gobierno;
+
+V. Requerir a las Unidades Administrativas la información necesaria para la realización de las funciones del Consejo; y
+
+VI. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 19 DE MAYO DE 2005)</small>
+
+###### Artículo 98.
+
+Son facultades y obligaciones del Secretario General del Consejo:
+
+I. Despachar la correspondencia oficial del Consejo;
+
+II. Llevar a cabo las tareas que le encomiende el Presidente del Consejo en relación a las facultades y obligaciones que se mencionan en los dos artículos anteriores; y
+
+III. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 19 DE MAYO DE 2005)</small>
+
+###### Artículo 99.
+
+El Consejo celebrará sesiones ordinarias y extraordinarias, serán ordinarias cuando se celebren bimestralmente y extraordinarias cuando se considere necesario por acuerdo del Presidente del Consejo o lo soliciten dos de los Magistrados integrantes.
 
 ## TRANSITORIOS
 
@@ -1070,3 +1222,11 @@ G.G. 21 DE ENERO DE 2005.
 PRIMERO.- El presente Acuerdo del Pleno de la Sala Superior del Tribunal de lo Contencioso Administrativo del Estado de México, por el que se reforma y adiciona su Reglamento Interior, entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
 
 SEGUNDO.- Se deja sin efectos el Acuerdo del Pleno de la Sala Superior del Tribunal de lo Contencioso Administrativo del Estado de México, por el que se instituye el Comité de Información del propio Tribunal, de fecha 26 de octubre de 2004, publicado en el periódico oficial "Gaceta del Gobierno", el día 29 de octubre de 2004.
+
+G.G. 19 DE MAYO DE 2005.
+
+Artículo Primero.- Las reformas y adiciones al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México, entrarán en vigor, al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en las presentes reformas y adiciones al Reglamento Interior del Tribunal.
+
+Artículo Tercero.- Los asuntos que se encuentren en trámite al entrar en vigor las presentes reformas y adiciones al Reglamento Interior del Tribunal, se decidirán conforme a las disposiciones legales anteriores al mismo.
