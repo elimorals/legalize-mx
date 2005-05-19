@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2004-12-23"
+last_updated: "2005-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2005.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -55,7 +55,7 @@ NOVENO.- Entre las innovaciones de Ley Orgánica de la Administración Pública 
 
 DÉCIMO.- Por ser la Ley Orgánica de la Administración Pública el instrumento jurídico que determina las atribuciones y competencia de cada una de las secreatarías (sic), incluyendo las unidades y órganos adscritos al Titular del Poder Ejecutivo, es necesario contar con los mecanismos jurídicos necesarios que permitan una administración pública eficiente, que dé respuesta a las necesidades y demandas de la población, para lograr una adecuada, real y efectiva administración pública, que tendrá repercusiones positivas en todos los renglones del desarrollo de nuestra entidad federativa, tal como lo establece el Plan Estatal de Desarrollo 1998-2004, para acelerar las transformaciones que demandan la modernización y el desarrollo permanente de la administración pública estatal como instrumentos estratégicos para otorgar mayor competitividad a la economía, impulsar a los sectores productivo y promover la participación social, en las desiciones (sic) y en la evaluación de la gestión gubernamental.
 
-Con base en los anteriores Considerandos, la H. LXI Legislatura del Estado, expíde el siguiente:
+Con base en los anteriores Considerandos, la H. LXI Legislatura del Estado, expide el siguiente:
 
 DECRETO No. 353
 
@@ -247,7 +247,7 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Finanzas y de Administración.
 
-III. Secretaría de Comunicaciones y Obras Publicas;
+III. Secretaría de Comunicaciones y Obras Públicas;
 
 IV. Secretaría de Desarrollo Económico;
 
@@ -285,7 +285,7 @@ II.- Conducir por delegación del Ejecutivo, los asuntos de orden político inte
 
 Así mismo deberá fomentar el desarrollo político, contribuir al fortalecimiento de las instituciones democráticas, promover la participación ciudadana y favorecer la construcción de acuerdos políticos y consensos sociales para que en el marco del estado de derecho se preserve la gobernabilidad democrática
 
-III. Cumplir y hacer cumplir los acuerdos, ordenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otras dependencias;
+III. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otras dependencias;
 
 IV. Vigilar en el orden administrativo, la exacta observancia de las leyes, reglamentos y decretos;
 
@@ -999,7 +999,7 @@ VI. Promover y apoyar un alto grado de conocimiento de los recursos humanos que 
 
 VII. Prevenir, combatir y reducir la magnitud de los daños y/o alteraciones de los ecosistemas naturales forestales y del medio ambiente;
 
-VIII. Definir los mecanismos de apoyo y de participación interinstitucional y de los sectores social y privado que permita reducir el numero e intensidad de los siniestros en los bosques;
+VIII. Definir los mecanismos de apoyo y de participación interinstitucional y de los sectores social y privado que permita reducir el número e intensidad de los siniestros en los bosques;
 
 IX. Conocer el estado fitosanitario del bosque y determinar y aplicar las medidas preventivas y/o correctivas;
 
@@ -1011,7 +1011,7 @@ XII. Obtener información actualizada de las características físicas y biológ
 
 XIII. Contribuir al mejoramiento de la calidad de vida de los productores forestales, propiciando su participación en el proceso productivo y la libre asociación, así como induciendo la diversificación de la producción forestal y un mayor valor agregado a los productos;
 
-XIV. Promover e inducir un uso de la tierra más acorde con su aptitud, ofreciendo alternativas viables que permitan reducir la degradación del suelo;.
+XIV. Promover e inducir un uso de la tierra más acorde con su aptitud, ofreciendo alternativas viables que permitan reducir la degradación del suelo;
 
 XV. Definir y aplicar los criterios e indicadores de la sustentabilidad en los aprovechamientos forestales, de la flora y de la fauna;
 
@@ -1377,6 +1377,10 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Los fideicomisos públicos a que se refiere el artículo 4 de la presente Ley, son aquellos contratos mediante los cuales la Administración Pública del Estado en su carácter de fideicomitente, destina ciertos bienes a un fin lícito determinado, encomendando la realización de ese fin a una institución fiduciaria, con el propósito de auxiliar al Ejecutivo en la realización de las funciones que legalmente le corresponden.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2005)</small>
+
+No serán fideicomisos públicos y por lo tanto no les será aplicable la presente Ley, aquellos fideicomisos que, de conformidad con lo previsto en las demás leyes estatales, no formen parte de la Administración Pública Estatal o Municipal.
+
 ###### ARTICULO 56.
 
 El Gobernador del Estado, aprobará la participación del gobierno de la Entidad en las empresas de participación estatal mayoritaria, ya sea para su creación o para aumentar su capital o patrimonio, y, en su caso, adquirir todo o parte de éstas.
@@ -1672,3 +1676,7 @@ En tanto no se expidan los Reglamentos a que se refiere el párrafo anterior, la
 ###### ARTICULO OCTAVO.
 
 La regulación respecto a la constitución, organización, funcionamiento y control de las Entidades Paraestatales en una ley específica, no implica la modificación jurídica o el patrimonio de las mismas.
+
+P.O. 19 DE MAYO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
