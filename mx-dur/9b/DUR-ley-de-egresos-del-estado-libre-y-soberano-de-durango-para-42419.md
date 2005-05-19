@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-egresos-del-estado-libre-y-soberano-de-durango-para-4241
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-19"
-last_updated: "2004-12-19"
+last_updated: "2005-05-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 19 de diciembre de 2004.
 
@@ -318,3 +318,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 19 DE MAYO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
