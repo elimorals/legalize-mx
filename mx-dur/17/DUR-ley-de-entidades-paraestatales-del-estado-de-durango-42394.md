@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2005-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2005.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -75,9 +75,7 @@ III. Las comisiones intersecretariales que constituya el Titular del Poder Ejecu
 
 IV. Los organismos de participación ciudadana que se integren con representantes de los sectores públicos, privado y social de la entidad que funcionen permanente o temporalmente.
 
-Estos organismos se regirán por sus leyes específicas. En lo relativo a las
-
-acciones de fiscalización superior, control y evaluación del ejercicio de los recursos y de su desempeño, se efectuarán por las Secretarías del ramo y el Congreso del Estado, según sea el caso, de conformidad con lo dispuesto en la presente Ley y demás ordenamientos aplicables.
+Estos organismos se regirán por sus leyes específicas. En lo relativo a las acciones de fiscalización superior, control y evaluación del ejercicio de los recursos y de su desempeño, se efectuarán por las Secretarías del ramo y el Congreso del Estado, según sea el caso, de conformidad con lo dispuesto en la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 6.
 
@@ -391,9 +389,11 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 ### CAPÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 42.
 
-Los fideicomisos públicos que se establezcan por el Titular del Poder Ejecutivo que se organicen de manera análoga a los organismos descentralizados y empresas de participación estatal mayoritaria que tengan como propósito auxiliar al Ejecutivo en la realización de actividades prioritarias serán los que se consideren entidades paraestatales y quedarán sujetos a las disposiciones de esta Ley.
+Únicamente los fideicomisos públicos que se establezcan en términos del primer párrafo del artículo 55 de la Ley Orgánica de la Administración Pública para el Estado de Durango, serán los que se consideren entidades paraestatales conforme a lo dispuesto en esta Ley y quedarán sujetos a las disposiciones de la misma.
 
 ###### Artículo 43.
 
@@ -461,9 +461,11 @@ La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el
 
 Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico, por cualquiera circunstancia, la institución fiduciaria procederá a consultar al Gobierno del Estado a través de la Secretaría de Finanzas y de Administración o de la Secretaría del Ramo Coordinadora de Sector quedando facultada para ejecutar aquellos actos que éste autorice.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 51.
 
-En los contratos constitutivos de fideicomisos de la Administración Pública Estatal Centralizada, se deberá reservar al Gobernador del Estado o el Secretario de Finanzas y de Administración la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
+En los contratos constitutivos de los fideicomisos públicos a que se refiere el primer párrafo del artículo 55 de la Ley Orgánica de la Administración Pública para el Estado de Durango, se deberá reservar al Ejecutivo o al Secretario de Finanzas y de Administración la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de Ley o que la naturaleza de sus fines no lo permita.
 
 ###### Artículo 52.
 
@@ -687,13 +689,19 @@ La Secretaría de Finanzas y de Administración, publicará en el Periódico Ofi
 
 ### CAPÍTULO IX. DE LA DESINCORPORACIÓN DE ENTIDADES PARAESTATALES
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
+
 ###### Artículo 77.
 
-Para la Desincorporación de entidades creadas por ley o decreto del Congreso de la Unión o por decreto o acuerdo del Ejecutivo Federal se deberán observar las mismas formalidades seguidas para su creación. En los demás casos, la autorización del Ejecutivo Federal se formalizará en los términos del párrafo anterior.
+Para la desincorporación de entidades creadas por ley o decreto del Congreso del Estado o por decreto o acuerdo del Ejecutivo Estatal, se deberán observar las mismas formalidades seguidas para su creación.
+
+En los demás casos, la autorización del Ejecutivo Estatal se formalizará en los términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2005)</small>
 
 ###### Artículo 78.
 
-La Desincorporación de Entidades paraestatales de la Administración Pública Federal, se llevará a cabo mediante la disolución, liquidación, extinción, fusión, enajenación, o bien, mediante transferencia a los Municipios.
+La desincorporación de Entidades Paraestatales de la Administración Pública Estatal, se llevará a cabo mediante la disolución, liquidación, extinción, fusión, enajenación, o bien, mediante transferencia a los Municipios.
 
 ###### Artículo 79.
 
@@ -786,3 +794,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 19 DE MAYO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
