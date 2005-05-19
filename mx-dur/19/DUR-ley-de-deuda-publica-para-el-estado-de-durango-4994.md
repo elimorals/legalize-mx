@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-deuda-publica-para-el-estado-de-durango-4994"
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-03"
-last_updated: "2003-02-16"
+last_updated: "2005-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL PERIODICO OFICIAL EL 19 DE MAYO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 3 de agosto de 1980.
 
@@ -312,3 +314,17 @@ P.O. 16 DE FEBRERO DE 2003.
 PRIMERO.- Con el fín de normar las obligaciones a que se refieren los artículos 20, 22, 23 y 24 de la presente Ley, el Ejecutivo del Estado emitirá un Reglamento, dentro de los noventa días siguientes a la publicación.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 19 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública para el Estado de Durango publicada mediante decreto 204 de fecha 15 de julio de 1980, publicado en el Periódico Oficial número 10, del 03 de agosto de 1980 y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del segundo párrafo del artículo 15 de la Ley de Deuda Pública, las entidades sólo estarán obligadas a tener estados financieros dictaminados, (a) para contraer directa o indirectamente deuda desde la fecha de entrada en vigor de esta Ley y hasta el 31 de diciembre de 2005, para el ejercicio fiscal de 2003 o de 2004, y (b) para contraer directa o indirectamente deuda durante el ejercicio de 2006, para los ejercicios fiscales de 2003 y 2004 o los ejercicios fiscales de 2004 y 2005.
