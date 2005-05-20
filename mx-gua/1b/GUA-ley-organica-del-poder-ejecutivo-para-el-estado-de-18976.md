@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2003-11-21"
+last_updated: "2005-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -241,7 +241,9 @@ g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leye
 
 h) Promover la cultura cívico-política de los ciudadanos, los mecanismos de participación ciudadana y la atención a los organismos de la sociedad civil;
 
-i) Vigilar en coordinación con las autoridades federales y municipales, el cumplimiento de las leyes y reglamentos en materia de culto religioso, explosivos, detonantes y pirotecnia, loterías, rifas y juegos permitidos;
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2005)</small>
+
+i) Coordinarse con las autoridades federales y municipales para coadyuvar en la vigilancia del cumplimiento de las leyes y reglamentos en materia de culto religioso, loterías, rifas y juegos permitidos;
 
 j) Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y demás funcionarios a quienes esté encomendada la fe pública;
 
@@ -309,7 +311,9 @@ j) Realizar en coordinación con los municipios, los estudios para la planeació
 
 k) Vigilar la prestación del servicio público de transporte;
 
-l) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de las radiodifusoras y televisoras pertenecientes al Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2005)</small>
+
+l) Vigilar y regular el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas y prestar y ordenar el servicio público de transporte de competencia estatal, en los términos de la Ley de la materia;
 
 m) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
 
@@ -419,7 +423,7 @@ VI.- En materia de información:
 
 a) Fijar los lineamientos e integrar la documentación que sirvan de base para la elaboración del informe anual que debe rendir el Gobernador ante el Congreso del Estado, en coordinación con las demás dependencias y entidades del Poder Ejecutivo y, en particular, con el despacho del Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 b) Normar y coordinar con la Secretaría de la Gestión Pública los servicios de informática de la Administración Pública;
 
@@ -747,7 +751,7 @@ f) Establecer y operar el Sistema Estatal de Información sobre Seguridad Públi
 
 g) Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
 
-h) Proveer los servicios de policía y vigilancia del tránsito en las carreteras y caminos de jurisdicción estatal, en los términos de las leyes y reglamentos respectivos;
+h) (DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 i) Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas para los servidores públicos de la Entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
 
@@ -774,6 +778,10 @@ a) Realizar, coordinar e inducir las actividades de los sectores público, socia
 b) Coordinar las actividades del Sistema Estatal de Protección Civil;
 
 c) Organizar y operar mecanismos de capacitación para los organismos de protección civil; y
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2005)</small>
+
+d) Realizar los trámites que le corresponden al Ejecutivo del Estado derivados de la Ley Federal de Armas de Fuego y Explosivos; y
 
 IV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -1400,3 +1408,15 @@ Artículo Tercero.- Los procesos que con motivo de este Decreto deban pasar de u
 Artículo Cuarto.- Cuando en otros ordenamientos legales se otorguen a la Secretaría de la Contraloría atribuciones, así como los compromisos derivados de convenios celebrados con autoridades federales o municipales, se entenderán que corresponden a la Secretaría de la Gestión Pública.
 
 Artículo Quinto.- Cuando en otros ordenamientos legales se otorguen a la Secretaría de Desarrollo Social y Humano atribuciones en materia de planeación e inversión dicha competencia se entenderá concedida la Unidad de Planeación de Inversión Estratégica.
+
+P.O. 20 DE MAYO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Seguridad Pública transferirá a la Dirección General de Tránsito y Transporte de la Secretaría de Gobierno el personal operativo y los recursos materiales y financieros que actualmente tiene asignados la Policía Estatal de Caminos, en un plazo de hasta 60 sesenta días naturales contados a partir del inicio de la vigencia del presente Decreto, de conformidad con el análisis que para tal efecto realice la Secretaría de la Gestión Pública.
+
+Artículo Tercero.- Los trámites derivados de la Ley Federal de Armas de Fuego y Explosivos que se hayan iniciado en la Secretaría de Gobierno antes de la vigencia del presente decreto, serán continuados por la Secretaría de Seguridad Pública hasta su conclusión. Para tal efecto, la Secretaría de Gobierno le turnará los expedientes respectivos en un plazo que no excederá de 15 quince días naturales contados a partir de la vigencia del presente Decreto.
+
+Artículo Cuarto.- Toda referencia que la Ley de Tránsito y Transporte del Estado de Guanajuato, la Ley de Seguridad Pública del Estado de Guanajuato y la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato hagan respecto a las facultades de vigilancia y regulación del tránsito en las carreteras y caminos de jurisdicción estatal, se entenderá que corresponden a la Dirección General de Tránsito y Transporte, unidad administrativa adscrita a la Secretaría de Gobierno.
+
+Artículo Quinto.- El Ejecutivo del Estado deberá adecuar los reglamentos correspondientes y las demás disposiciones aplicables en las materias de vigilancia y regulación del tránsito en carreteras y caminos de jurisdicción estatal, y las demás previstas en el presente Decreto, dentro de los 90 noventa días siguientes a la entrada en vigor del mismo.
