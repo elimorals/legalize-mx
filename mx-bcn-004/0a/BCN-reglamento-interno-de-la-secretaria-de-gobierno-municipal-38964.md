@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2005-04-08"
+last_updated: "2005-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -147,11 +147,15 @@ III.- Oficialía del Registro Civil;
 
 IV.- (DEROGADA, P.O. 4 DE FEBRERO DE 2005)
 
-V.- Junta Municipal de Reclutamiento;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2005)</small>
 
-VI.- Departamento de Asuntos de Gobierno, y
+V.- Junta Municipal de Reclutamiento y;
 
-VII.- Departamento de Acción Cívica.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2005)</small>
+
+VI.- Departamento de Asuntos de Gobierno.
+
+VII.- (DEROGADA, P.O. 20 DE MAYO DE 2005)
 
 ### CAPITULO I
 
@@ -471,103 +475,33 @@ Las ausencias temporales, hasta por 30 días, del Jefe del Departamento, serán 
 
 ### CAPITULO I
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MAYO DE 2005)</small>
+
 #### SECCION SEPTIMA. DEL DEPARTAMENTO DE ACCION CIVICA
 
 ###### ARTICULO 32.
 
-El Departamento de Acción Cívica será responsable de organizar y coordinar los eventos del calendario cívico, desfiles y ceremonias solemnes del Ayuntamiento.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### ARTICULO 33.
 
-El Departamento de Acción Cívica estará cargo de un jefe de departamento que contara con las siguientes áreas:
-
-I. Área de Eventos y Actos Cívicos;
-
-II. Área de Diseño Grafico;
-
-III. Área de Banda de Música;
-
-IV. Área de Recorridos Históricos y
-
-V. Filarmónicos.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### ARTICULO 34.
 
-Son funciones del Área de Eventos y Actos Cívicos las siguientes:
-
-l. Organizar y llevar el control de los eventos y actos cívicos que señala el reglamento y calendario;
-
-II. Asiste a reuniones de coordinación con otras dependencias para llevar a cabo los eventos y actos cívicos;
-
-III. Realizar los oficios para cada acción de los eventos;
-
-IV. Elaborar expedientes de los eventos y actos cívicos;
-
-V. Realizar los informes y evaluaciones de su área;
-
-VI. Actualizar el manual operativo de su coordinación;
-
-VII. Investigar y estudia (sic) los reglamentos que tienen ingerencia (sic) en su área, y
-
-VIII. Coordinación con las jefaturas de Acción Cívica de las Delegaciones para llevar a cabo las Ceremonias de Abanderamientos, así como de los Izamientos Mensuales.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### ARTICULO 35.
 
-Son funciones del Área de Diseño Gráfico las siguientes:
-
-I. Cuidar y homogeneizar la imagen del Departamento, pues uno de los objetivos de Acción Cívica es el de respetar los lineamientos del manual de imagen institucional del Ayuntamiento;
-
-II. Diseñar los Calendarios de Efemérides Mensuales;
-
-III. Elaboración de Reconocimientos, Gafetes, pases, Invitaciones, Formatos, Informes Trimestrales, y de Apertura Programática;
-
-IV. Participa (sic) de apoyo a los eventos que se realizan en esta Dependencia;
-
-V. Asiste (sic) a reuniones que la jefatura le asigne, y
-
-VI. Realiza (sic) los informes que le sean solicitados.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### ARTICULO 36.
 
-Son funciones del Área de Banda de Música las siguientes:
-
-I. coordinación con las delegaciones para llevar a cabo los Conciertos Didácticos;
-
-II. Elaborar el calendario de actividades de la Banda de Música;
-
-III. Lleva el control de expedientes de los integrantes de la Banda de Música;
-
-IV. Realiza todas las actividades previas al concierto;
-
-V. Investiga y estudia nuevas partituras para la Banda de Música;
-
-VI. Lleva el control de Conciertos y presentaciones de la Banda de Música;
-
-VII. Realiza los informes de su área;
-
-VIII. Actualiza el manual operativo de su área;
-
-IX. Apoya en los eventos del Departamento, y
-
-X. Asiste a reuniones que asigna la jefatura.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### ARTICULO 37.
 
-Son funciones del Área de Recorridos Históricos las siguientes:
-
-I. Se coordina con las Delegaciones para llevar a cabo los recorridos en cada escuela.
-
-II. Investiga y estudia para actualizar la guía de los recorridos.
-
-III. Apoya en los eventos del Departamento.
-
-IV. Contesta oficios de solicitudes para los recorridos.
-
-V. Asiste a las reuniones que la jefatura asigne.
-
-VI. Actualiza su manual operativo.
-
-VII. Realiza los informes de su área.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2005)</small>
 
@@ -914,3 +848,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- Las presentes adiciones y Reglamento Interno de la Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en un diario de mayor circulación en el Municipio de Tijuana y/o Gaceta Municipal, para el conocimiento de los vecinos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes adiciones.
+
+P.O. 20 DE MAYO DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
+
+TERCERO.- Publíquense las presentes en la Gaceta Municipal y/o un diario de circulación municipal, para conocimiento de los ciudadanos.
+
+CUARTA.- Realícense las adecuaciones presupuestales necesarias conforme a la presente reforma y adiciones.
