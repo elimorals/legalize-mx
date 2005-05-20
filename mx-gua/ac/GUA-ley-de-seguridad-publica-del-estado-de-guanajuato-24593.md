@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-publica-del-estado-de-guanajuato-24593"
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-05"
-last_updated: "2002-04-05"
+last_updated: "2005-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 5 de abril de 2002.
 
@@ -99,13 +99,17 @@ IV.- Los Subsecretarios de Prevención y Seguridad;
 
 V.- Las Fuerzas de Seguridad Pública;
 
-VI.- La Policía Estatal de Caminos;
+VI.- (DEROGADA, P. O. 20 DE MAYO DEL 2005)
 
 VII.- El Cuerpo Estatal de Seguridad Penitenciaria;
 
 VIII.- La Policía Ministerial, la que se sujetará a lo dispuesto por la Ley que la regula; y
 
 IX.- Las demás que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2005)</small>
+
+La Dirección General de Tránsito y Transporte del Estado tendrá a su cargo la vigilancia del tránsito en caminos, carreteras y áreas de jurisdicción estatal. Será autoridad auxiliar en materia de seguridad pública y coadyuvará con los cuerpos de seguridad pública en el cumplimiento de sus objetivos.
 
 ###### Artículo 7º.
 
@@ -355,7 +359,9 @@ V.- Auxiliar al ministerio público y a las autoridades judiciales y administrat
 
 VI.- Aprehender a los delincuentes en los casos de flagrante delito poniéndolos de inmediato a disposición de la autoridad correspondiente en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VII.- Vigilar el tránsito de vehículos y peatones en las calles, caminos, carreteras y áreas de jurisdicción estatal y municipal en su ámbito de competencia;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2005)</small>
+
+VII.- Vigilar el tránsito de vehículos y personas en vías públicas y áreas de jurisdicción municipal, a través de los elementos de tránsito municipal;
 
 VIII.- Coordinarse con otras corporaciones policiales para prestarse auxilio recíproco de conformidad con lo dispuesto en esta Ley;
 
@@ -385,7 +391,7 @@ La policía ministerial, se conformará por la corporación dependiente de la Pr
 
 ###### Artículo 39.
 
-La policía estatal de caminos, se conformará por la corporación de carácter operativo, de acuerdo a la estructura de organización correspondiente, con la función de carácter administrativo, dirigida a asegurar el cumplimiento de esta Ley y coadyuvar al cumplimiento de las disposiciones públicas de tránsito y transporte dentro de la competencia y jurisdicción del Gobierno Estatal, mediante acciones de inspección, vigilancia e información preventiva.
+(DEROGADO, P. O. 20 DE MAYO DEL 2005)
 
 ###### Artículo 40.
 
@@ -1040,3 +1046,17 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MAYO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Seguridad Pública transferirá a la Dirección General de Tránsito y Transporte de la Secretaría de Gobierno el personal operativo y los recursos materiales y financieros que actualmente tiene asignados la Policía Estatal de Caminos, en un plazo de hasta 60 sesenta días naturales contados a partir del inicio de la vigencia del presente Decreto, de conformidad con el análisis que para tal efecto realice la Secretaría de la Gestión Pública.
+
+Artículo Tercero.- Los trámites derivados de la Ley Federal de Armas de Fuego y Explosivos que se hayan iniciado en la Secretaría de Gobierno antes de la vigencia del presente decreto, serán continuados por la Secretaría de Seguridad Pública hasta su conclusión. Para tal efecto, la Secretaría de Gobierno le turnará los expedientes respectivos en un plazo que no excederá de 15 quince días naturales contados a partir de la vigencia del presente Decreto.
+
+Artículo Cuarto.- Toda referencia que la Ley de Tránsito y Transporte del Estado de Guanajuato, la Ley de Seguridad Pública del Estado de Guanajuato y la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato hagan respecto a las facultades de vigilancia y regulación del tránsito en las carreteras y caminos de jurisdicción estatal, se entenderá que corresponden a la Dirección General de Tránsito y Transporte, unidad administrativa adscrita a la Secretaría de Gobierno.
+
+Artículo Quinto.- El Ejecutivo del Estado deberá adecuar los reglamentos correspondientes y las demás disposiciones aplicables en las materias de vigilancia y regulación del tránsito en carreteras y caminos de jurisdicción estatal, y las demás previstas en el presente Decreto, dentro de los 90 noventa días siguientes a la entrada en vigor del mismo.
