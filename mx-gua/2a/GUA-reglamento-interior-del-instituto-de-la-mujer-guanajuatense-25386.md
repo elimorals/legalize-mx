@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-la-mujer-guanajuatense-253
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-02"
-last_updated: "2002-07-02"
+last_updated: "2005-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA MUJER GUANAJUATENSE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de julio de 2002.
 
@@ -89,7 +89,7 @@ IX.- El número máximo de puestos vacantes;
 
 X.- Duración del cargo;
 
-XI.- Fecha de inicio y límite de recepción de propuestas, lugar, persona y forma para entregarse y requisitos que deben cumplirse;
+XI.- Fecha de inicio y limite de recepción de propuestas, lugar, persona y forma para entregarse y requisitos que deben cumplirse;
 
 XII.- Mención expresa de que el cargo es honorífico y que, por ende, no habrá retribución ni emolumento alguno;
 
@@ -601,39 +601,41 @@ La consejera representante, deberá sujetar su actuación a lo que decida el Con
 
 En todo lo no previsto en este Capítulo, se aplicará en lo conducente lo relativo al Consejo Directivo del IMUG.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MAYO DE 2005)</small>
+
 ### CAPÍTULO QUINTO. DEL COMITÉ DE LA MUJER
 
 ###### Artículo 57.
 
-El Comité de la Mujer del IMUG, se Integra de conformidad con lo establecido en la Ley de Planeación y su Reglamento, así como en el Decreto de Creación del IMUG. Su forma de convocarlo y de funcionar deberán establecerse en el estatuto interno que será aprobado por el propio Comité, de conformidad con los lineamientos previstos en el presente Capítulo.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 58.
 
-La Dirección General del IMUG, convocará a las dependencias y entidades de la Administración Pública, a los organismos e instituciones privadas a que se refiere el Decreto de Creación y les solicitará que designen a una persona para que se Integre al Comité de la Mujer en calidad de representante de quien la propone.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 59.
 
-El Comité de la Mujer deberá sesionar por lo menos cuatro veces al año.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 60.
 
-Las personas representantes de las instituciones a que alude el Decreto de Creación del IMUG como integrantes del Comité de la Mujer, deberán proponer los cargos para la presidencia y para la secretaría y los demás que se estimen convenientes.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 61.
 
-En la primera sesión del Comité de la Mujer deberá proponerse la forma en como habrá de llevarse a cabo la generación del Programa Estatal de la Mujer.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 62.
 
-En cada sesión deberá acordarse fecha, hora y lugar de la subsecuente. Asimismo deberán establecerse los acuerdos y compromisos a cumplir, las formas para este cumplimiento y los objetivos específicos a lograr, estableciéndose competencias y responsabilidades.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 63.
 
-La Directora General del IMUG deberá asistir a las sesiones del Comité de la Mujer.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ###### Artículo 64.
 
-Quien presida las sesiones, deberá establecer el orden del día y vigilar que se respete. Quien esté a cargo de la Secretaría, deberá levantar las actas de las sesiones y presentarlas para discusión y aprobación; asimismo deberá llevar el control de los documentos que se generen en cumplimiento de las funciones del Comité.
+(DEROGADO, P.O. 20 DE MAYO DE 2005)
 
 ### CAPÍTULO SEXTO. DE LA CONTRALORÍA INTERNA
 
@@ -728,3 +730,9 @@ JUAN MANUEL OLIVA RAMÍREZ.
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 ARTURO NÚÑEZ SERRANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE MAYO DE 2005.
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de la publicación en el Periódico Oficial del Gobierno del Estado.
