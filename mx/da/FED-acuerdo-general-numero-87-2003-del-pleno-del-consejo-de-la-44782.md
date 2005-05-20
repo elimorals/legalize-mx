@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-87-2003-del-pleno-del-consejo-de-la-4478
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-12-12"
-last_updated: "2005-02-08"
+last_updated: "2005-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2003-12-03"
 
 ACUERDO GENERAL 87/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE CAPTURA DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES, RELATIVO A LAS SENTENCIAS DICTADAS EN LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO GENERAL 15/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 20 DE MAYO DE 2005, SE MODIFICA EL PRESENTE ORDENAMIENTO.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 3/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE FEBRERO DE 2005, DEJA SIN EFECTOS EL PRESENTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de diciembre de 2003.
 
@@ -74,3 +76,27 @@ D.O.F. 8 DE FEBRERO DE 2005.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 20 DE MAYO DE 2005.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Unidad de Estadística y Planeación Judicial, otorgará a la Dirección General de la Coordinación de Compilación y Sistematización de Tesis de la Suprema Corte de Justicia de la Nación, las claves de acceso necesarias para consulta de las sentencias y tesis, y deberá presentar un informe a la Comisión de Administración, sobre el cumplimiento del presente acuerdo en el término de 90 días naturales, contados a partir del día de su publicación.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO GENERAL 15/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO 87/2003, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE CAPTURA DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES, RELATIVO A LAS SENTENCIAS DICTADAS EN LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO.</small>
+
+PRIMERO.- Los órganos jurisdiccionales del Poder Judicial de la Federación, tendrán acceso a las sentencias dictadas por los tribunales de Circuito y juzgados de Distrito, capturadas en el Sistema Integral de Seguimiento de Expedientes (SISE).
+
+SEGUNDO. Sólo deberán capturarse en el Sistema Integral de Seguimiento de Expedientes (SISE) las sentencias o resoluciones públicas que, a criterio del titular del juzgado de Distrito o del tribunal unitario de Circuito, o, en su caso, del Pleno del tribunal colegiado de Circuito, tengan relevancia o sostengan criterios novedosos.
+
+En todo caso se considerarán relevantes aquellas resoluciones que den lugar a la publicación de tesis; que resuelvan un asunto en que se impugne la constitucionalidad de una ley, reglamento o disposición de carácter general; o las que puedan ser del conocimiento de la Suprema Corte de Justicia de la Nación.
+
+En los procesos penales federales aquellas que resuelvan sobre los delitos graves señalados en el artículo 194 del Código Federal de Procedimientos Penales y los previstos por Leyes Especiales.
+
+TERCERO.- La Dirección General de la Coordinación de Compilación y Sistematización de Tesis de la Suprema Corte de Justicia de la Nación, tendrá acceso a las ejecutorias emitidas por los tribunales de Circuito y juzgados de Distrito, capturadas en el Sistema Integral de Seguimiento de Expedientes (SISE), sin detrimento de lo dispuesto por el artículo 197-B de la Ley de Amparo.
+
+CUARTO.- En el módulo de Tesis del Sistema Integral de Seguimiento de Expedientes (SISE), deberá continuarse con la captura de las tesis aprobadas por cada uno de los tribunales colegiados de Circuito, a fin de que los demás órganos jurisdiccionales puedan imponerse de su contenido, sin perjuicio de lo dispuesto en el numeral 195, fracciones II y III, de la Ley de Amparo.
+
+QUINTO.- La Unidad de Estadística y Planeación Judicial será la responsable de vigilar el correcto funcionamiento del Sistema y del cumplimiento a lo establecido en el presente acuerdo.
