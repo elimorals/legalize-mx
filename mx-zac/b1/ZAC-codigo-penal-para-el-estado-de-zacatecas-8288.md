@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2004-06-30"
+last_updated: "2005-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2005.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1735,6 +1735,12 @@ IV.- Al que de alguna manera viole con perjuicio de otro, los derechos estableci
 
 Cuando los ilícitos tipificados en las cuatro fracciones anteriores se cometan en perjuicio de personas menores de doce años se duplicarán las sanciones aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2005)</small>
+
+265 bis.- Comete el delito de secuestro exprés el que prive o restrinja la libertad de alguna persona, cuando la privación o restricción de la libertad personal tenga una duración inferior a veinticuatro horas y se realice con el propósito de cometer los delitos de robo o extorsión, o para obtener algún beneficio económico.
+
+Al responsable del delito de secuestro exprés se le impondrán de siete a quince años de prisión y multa de cincuenta a cien cuotas, sin perjuicio de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
+
 266.- Se impondrán de quince a treinta años de prisión y multa de cincuenta a ciento cincuenta cuotas, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 
 I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios al plagiado o a otra persona relacionada con aquél;
@@ -2245,6 +2251,16 @@ Iguales sanciones se impondrán a funcionarios auténticos del Estado, de las ca
 
 Los agentes o funcionarios de compañías de contratación de trabajadores, que sin autorización de las autoridades, o al margen de la ley, contraten o pretendan contratar trabajadores, incurrirán en las sanciones privativas de libertad y pecuniarias a que se refiere el párrafo anterior. Las compañías de que se trata incurrirán, en el mismo caso, en las sanciones pecuniarias y suspensivas de operaciones.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2005)</small>
+
+341 bis.- Comete el delito de extorsión aquél que, con ánimo de alcanzar un lucro o provecho, exija de otro dar, hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral o físico en su persona o en la persona de otro.
+
+Al que cometa el delito de extorsión se le impondrán de dos a diez años de prisión y multa de cincuenta a ochenta cuotas.
+
+Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, se impondrán de tres a catorce años de prisión y multa de cincuenta a cien cuotas.
+
+Las penas se aumentarán en dos terceras partes cuando el delito se realice por un servidor público, integrante o ex integrante de una corporación de seguridad pública o privada. Se impondrá además, en estos casos, la destitución del empleo o cargo público y se le inhabilitará de cinco a diez años para desempeñar cargo o comisión públicos.
+
 342.- Son aplicables al fraude los artículos 327 y 328 de este Código.
 
 ### CAPITULO V. ADMINISTRACION FRAUDULENTA
@@ -2549,7 +2565,7 @@ III.- No evitar que se torture a un detenido.
 
 ### CAPITULO PRIMERO. DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO, P.O.6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
 
 374.- Para los efectos de este Código se entenderá por:
 
@@ -2573,11 +2589,11 @@ VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Polít
 
 VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O.6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DELITOS EN GENERAL
 
-> <small>(ADICIONADO, P.O.6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
 
 375.- Se impondrá multa de diez a cien cuotas de salario mínimo general vigente en la entidad y tres meses a un año de prisión y en ambos casos suspensión de sus derechos políticos hasta por un año al que dolosamente:
 
@@ -2883,7 +2899,7 @@ Si para la comisión de cualquiera de los delitos previstos en este capítulo se
 
 ## TITULO VIGESIMO TERCERO
 
-> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O.6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -3012,3 +3028,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 30 DE JUNIO DE 2004
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 21 DE MAYO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
