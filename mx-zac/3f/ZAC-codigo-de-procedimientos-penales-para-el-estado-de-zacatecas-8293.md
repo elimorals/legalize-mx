@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2004-12-29"
+last_updated: "2005-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2005.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -617,11 +617,11 @@ II.- La designación del tribunal que las dicte;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1991)</small>
 
-III.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, nacionalidad, edad, estado civil; en su caso el grupo étnico indígena al que pertenece, idioma, residencia o domicilio, así como ocupación, oficio o profesión.
+III.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, nacionalidad, edad, estado civil; en su caso el grupo étnico indígena al que pertenece, idioma, residencia o domicilio, así como ocupación, oficio o profesión;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1991)</small>
 
-IV.- Un extracto breve de hechos conducente a la resolución, mencionando únicamente las pruebas del sumario.
+IV.- Un extracto breve de hechos conducente a la resolución, mencionando únicamente las pruebas del sumario;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1991)</small>
 
@@ -833,7 +833,7 @@ b) El de designar sin demora persona de su confianza para que lo defienda o auxi
 
 c) El de no declarar en su contra o de no declarar, si así lo desea.
 
-III.- Cuando el detenido fuere indígena o extranjero que no hable castellano, se le designará un traductor quien le hará saber los derechos a que se refiere la fracción anterior.
+III.- Cuando el detenido fuere indígena o extranjero que no hable castellano, se le designará un traductor quien le hará saber los derechos a que se refiere la fracción anterior;
 
 IV.- El Ministerio Público recibirá las pruebas que el detenido o su defensor aporten dentro de la averiguación previa y para los fines de ésta, que se tomarán en cuenta como legalmente corresponda en el acto de la consignación o de libertad del detenido, en su caso. Cuando no sea posible el desahogo de pruebas ofrecidas por el detenido o su defensor, el juzgador resolverá sobre la admisión y práctica de las mismas.
 
@@ -855,7 +855,9 @@ Si de las mismas diligencias apareciere claramente que la muerte no tuvo por ori
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 124 BIS.- Cuando ocurra la muerte de un donador voluntario o los disponentes secundarios manifiesten su conformidad con la disposición de órganos, tejidos o cadáveres para fines terapéuticos, científicos o de docencia, el Ministerio Público manifestará su conformidad con dicha disposición, siempre y cuando, el Consejo Estatal de Trasplantes solicite la disposición en atención a que se han cumplido los trámites establecidos en la Ley General de Salud y la Norma Técnica en Materia de Control Sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
+###### ARTICULO 124
+
+Bis.- Cuando ocurra la muerte de un donador voluntario o los disponentes secundarios manifiesten su conformidad con la disposición de órganos, tejidos o cadáveres para fines terapéuticos, científicos o de docencia, el Ministerio Público manifestará su conformidad con dicha disposición, siempre y cuando, el Consejo Estatal de Trasplantes solicite la disposición en atención a que se han cumplido los trámites establecidos en la Ley General de Salud y la Norma Técnica en Materia de Control Sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
 
 Cuando no existan datos para presumir que la muerte se ha producido por un hecho presuntamente delictuoso, sin demora, el Ministerio Público dictaminará su conformidad y enviará la autorización al hospital público o privado en donde se encuentre el cadáver, a fin de que se realicen los procedimientos necesarios para el trasplante de órganos o tejidos, así como para la disposición del cadáver.
 
@@ -869,19 +871,19 @@ De igual manera, el Ministerio Público podrá autorizar la disposición de órg
 
 La muerte cerebral se presenta cuando existe alguno de los siguientes signos:
 
-I. Pérdida permanente irreversible de conciencia y de respuesta a estímulos sensoriales;
+I.- Pérdida permanente irreversible de conciencia y de respuesta a estímulos sensoriales;
 
-II. Ausencia de automatismo respiratoria; y
+II.- Ausencia de automatismo respiratoria; y
 
-III. Evidencia de daño irreversible del tallo cerebral, manifestando por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+III.- Evidencia de daño irreversible del tallo cerebral, manifestando por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
 
 Se debe descartar que dichos signos sean producto de notificación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas, que sobrepasen los niveles terapéuticos.
 
 La muerte cerebral deberá corroborarse con la práctica de cualquiera de las siguientes pruebas:
 
-I. Electroencefalogramas que demuestren ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes, con espacio de cinco horas entre uno y otro; o
+I.- Electroencefalogramas que demuestren ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes, con espacio de cinco horas entre uno y otro; o
 
-II. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral.
+II.- Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral.
 
 La certificación de la muerte cerebral podrá realizarse por un médico neurólogo, neurocirujano o internista, que no forme parte del equipo médico que realizará el trasplante.
 
@@ -993,9 +995,7 @@ La persona ofendida por un delito no es parte en el procedimiento penal salvo qu
 
 ## TITULO CUARTO. PERIODO CONSTITUCIONAL
 
-### CAPITULO l. Declaración Preparatoria del Inculpado
-
-y Nombramiento de Defensor
+### CAPITULO I. Declaración Preparatoria del Inculpado y Nombramiento de Defensor
 
 ###### ARTICULO 136.
 
@@ -1011,7 +1011,7 @@ Si el inculpado no hubiere solicitado su libertad provisional bajo caución, se 
 
 A continuación se le hará saber en que consiste la denuncia, acusación o querella, así como los nombres de sus acusadores y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee, se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
 
-Igualmente se le harán saber todas las siguientes garantías que le otorga el articulo 20 de la Constitución Política de los Estados Unidos Mexicanos: que se le recibirán todos los testigos y las pruebas que ofrezca en los términos legales, ayudándole para obtener la comparecencia de las personas que solicite, siempre y cuando estén domiciliadas en el lugar del juicio; así como que será sentenciado antes de cuatro meses, si se tratare de delitos cuya pena máxima no exceda de 2 años de prisión o antes de un año si la pena máxima excediere de ese tiempo; y que le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso. Acto seguido, el juez le interrogará sobre su participación en los hechos imputados, y practicará careos entre el inculpado y los testigos que hayan declarado en su contra y estuvieren en el lugar del juicio, para que aquél y su defensor puedan hacerles todas las preguntas conducentes a su defensa, mismo derecho que también corresponde al Ministerio Público.
+Igualmente se le harán saber todas las siguientes garantías que le otorga el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos: que se le recibirán todos los testigos y las pruebas que ofrezca en los términos legales, ayudándole para obtener la comparecencia de las personas que solicite, siempre y cuando estén domiciliadas en el lugar del juicio; así como que será sentenciado antes de cuatro meses, si se tratare de delitos cuya pena máxima no exceda de 2 años de prisión o antes de un año si la pena máxima excediere de ese tiempo; y que le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso. Acto seguido, el juez le interrogará sobre su participación en los hechos imputados, y practicará careos entre el inculpado y los testigos que hayan declarado en su contra y estuvieren en el lugar del juicio, para que aquél y su defensor puedan hacerles todas las preguntas conducentes a su defensa, mismo derecho que también corresponde al Ministerio Público.
 
 ###### ARTICULO 138.
 
@@ -1033,9 +1033,7 @@ Si contra una orden de aprehensión no ejecutada o de comparecencia para prepara
 
 No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo, los que hayan sido condenados por alguno de los delitos señalados en el Capítulo II, Título Noveno del Libro Segundo del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombramiento a todo defensor.
 
-### CAPITULO II. Autos de Formal Prisión, de Sujeción a Proceso y
-
-de Libertad por falta de Elementos para Procesar
+### CAPITULO II. Autos de Formal Prisión, de Sujeción a Proceso y de Libertad por falta de Elementos para Procesar
 
 ###### ARTICULO 143.
 
@@ -1043,7 +1041,7 @@ El auto de formal prisión se dictará de oficio cuando de lo actuado aparezcan 
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-I.- Que existan datos suficientes que acrediten el cuerpo del delito que se impute al inculpado y que éste merezca sanción privativa de libertad.
+I.- Que existan datos suficientes que acrediten el cuerpo del delito que se impute al inculpado y que éste merezca sanción privativa de libertad;
 
 II.- Que se haya tomado declaración preparatoria al inculpado, en la forma y con los requisitos que establece el Capítulo anterior;
 
@@ -1139,11 +1137,7 @@ Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará est
 
 En los casos de delitos cuya sanción no exceda de seis meses de prisión o la aplicable no sea privativa de libertad, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la averiguación dentro de quince días. Una vez que el tribunal la estime agotada, dictará resolución citando a la audiencia a que se refiere el artículo 300 de este Código.
 
-## TITULO SEXTO
-
-DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA,
-
-AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
+## TITULO SEXTO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA, AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE MAYO DE 1999)</small>
 
@@ -1255,9 +1249,7 @@ Para resolver sobre la probable responsabilidad del inculpado, la autoridad debe
 
 Para la comprobación del cuerpo del delito y la probable responsabilidad del inculpado, en su caso, el Ministerio Público y el juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén prohibidos por ésta.
 
-### CAPITULO II. Huellas del Delito, y Aseguramiento de
-
-los Instrumentos y Objetos del Mismo
+### CAPITULO II. Huellas del Delito, y Aseguramiento de los Instrumentos y Objetos del Mismo
 
 ###### ARTICULO 174.
 
@@ -1349,11 +1341,11 @@ Para los efectos de la fracción l del artículo anterior, se entiende que el de
 
 Se entiende por caso de notoria urgencia para efectos de la fracción II del Artículo anterior cuando:
 
-a)Se trate de delito grave a que se refiere el último párrafo del artículo 350 de este Código.
+a) Se trate de delito grave a que se refiere el último párrafo del artículo 350 de este Código.
 
-b)Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
+b) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
 
-c)Que el Ministerio Público no pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otras circunstancias a solicitar el libramiento de una orden de aprehensión.
+c) Que el Ministerio Público no pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otras circunstancias a solicitar el libramiento de una orden de aprehensión.
 
 El Ministerio Público al ordenar la detención en caso de urgencia deberá hacerlo por escrito, acreditando debidamente los requisitos mencionados en los incisos anteriores. La orden administrativa será ejecutada por la Policía Judicial, la que deberá poner inmediatamente al detenido a disposición del Ministerio Público que la haya librado.
 
@@ -1847,11 +1839,11 @@ La confesión deberá reunir los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
 
-I. Que sea hecha por persona mayor de dieciochos años, en su contra, con pleno conocimiento, y sin coacción, ni violencia física o moral;
+I.- Que sea hecha por persona mayor de dieciocho años, en su contra, con pleno conocimiento, y sin coacción, ni violencia física o moral;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1991)</small>
 
-II. Que sea hecha ante el Ministerio Público o el Tribunal de la causa y en presencia del defensor o persona de su confianza, y que el inculpado este debidamente enterado del procedimiento y del proceso;
+II.- Que sea hecha ante el Ministerio Público o el Tribunal de la causa y en presencia del defensor o persona de su confianza, y que el inculpado este debidamente enterado del procedimiento y del proceso;
 
 III.- Que sea de hecho propio; y
 
@@ -1905,7 +1897,7 @@ V.- Cuando habiéndose decretado la libertad por desvanecimiento de datos, esté
 
 VI.- El perdón del ofendido cuando se otorgue expresamente ante el tribunal que conozca del asunto, con los requisitos que señala el artículo 91 del Código Penal; y
 
-VII.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad.
+VII.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad;
 
 > <small>(ADICIONADA, P.O. 1 DE MAYO DE 1991)</small>
 
@@ -1913,7 +1905,7 @@ VIII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acu
 
 ###### ARTICULO 284.
 
-El procedimiento cesará y el expediente se mandará archivar en los casos de la fracción IV del artículo anterior, o cuando esté plenamente comprobado que los únicos presuntos responsables se hallan en alguna de las circunstancias a que se refieren las fracciones l, II, III, V, VI, y VII del mismo; pero si alguno no se encontrare en tales condiciones, el procedimiento continuará por lo que a él se refiere, siempre que no deba suspenderse en los términos del Capítulo III Sección Segunda del Título Décimoprimero de este Código.
+El procedimiento cesará y el expediente se mandará archivar en los casos de la fracción IV del artículo anterior, o cuando esté plenamente comprobado que los únicos presuntos responsables se hallan en alguna de las circunstancias a que se refieren las fracciones l, II, III, V, VI, y VII del mismo; pero si alguno no se encontrare en tales condiciones, el procedimiento continuará por lo que a él se refiere, siempre que no deba suspenderse en los términos del Capítulo III Sección Segunda del Título Decimoprimero de este Código.
 
 Cuando se siga el procedimiento por dos o más delitos y por lo que toca a alguno exista causa de sobreseimiento, éste se decretará por lo que al mismo se refiere y continuará en cuanto a los demás delitos, siempre que no deba suspenderse.
 
@@ -1995,33 +1987,33 @@ Contra la resolución que niegue o admita la repetición de las diligencias de p
 
 ###### ARTICULO 299
 
-BIS.- El juicio sumario a que se refiere el artículo 156, de este Código, se sujetará a las siguientes reglas:
+Bis.- El juicio sumario a que se refiere el artículo 156, de este Código, se sujetará a las siguientes reglas:
 
 I.- En el auto de formal prisión o de sujeción a proceso:
 
-a)Se declarará la apertura de la Instrucción.
+a) Se declarará la apertura de la Instrucción.
 
-b)Se citará a la audiencia final de pruebas, conclusiones y sentencia, que deberá celebrarse después de veinte y antes de treinta días hábiles contados a partir de que se notifique el correspondiente auto;
+b) Se citará a la audiencia final de pruebas, conclusiones y sentencia, que deberá celebrarse después de veinte y antes de treinta días hábiles contados a partir de que se notifique el correspondiente auto;
 
 II.- Las pruebas pericial, testimonial, de confrontación, careos, y la de inspección ocular con carácter de reconstrucción de hechos deberán promoverse dentro de los cinco días hábiles contados a partir de la notificación del auto a que se refiere el párrafo anterior en la que se asentará el cómputo respectivo y se desahogarán antes de la audiencia final, sin perjuicio de que se haga relación de ellas en ésta. Las demás pruebas se promoverán en cualquier tiempo y se desahogarán o tendrán por desahogadas en la fase probatoria de la audiencia;
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2002)</small>
 
-Cuando estas pruebas tengan por objeto demostrar cuestiones supervenientes podrán ofrecerse hasta el día anterior al de la celebración de la audiencia, pudiéndose diferir ésta, por única ocasión, de acuerdo a su pertinencia y factibilidad.
+Cuando estas pruebas tengan por objeto demostrar cuestiones supervenientes podrán ofrecerse hasta el día anterior al de la celebración de la audiencia, pudiéndose diferir ésta, por única ocasión, de acuerdo a su pertinencia y factibilidad;
 
-III.- De no desahogarse en tiempo y forma las pruebas ofrecidas en juicio sumario, la audiencia podrá diferirse con sujeción al término establecido para dictar sentencia;
+III.- De no desahogarse en tiempo y forma las pruebas ofrecidas en juicio sumario, la audiencia podrá diferirse con sujeción al término establecido para dictar sentencia.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2002)</small>
 
-El cambio en las modalidades del delito derivado de pruebas posteriores, así como la ampliación del término del proceso, no serán obstáculo para que el Juez siga conociendo de la causa.
+El cambio en las modalidades del delito derivado de pruebas posteriores, así como la ampliación del término del proceso, no serán obstáculo para que el Juez siga conociendo de la causa;
 
-IV.- Si las conclusiones del Ministerio Público actualizan alguna de las hipótesis previstas en el artículo 293 de este Código, se dará la vista correspondiente al Procurador del Estado, para los efectos del artículo 294 del referido Código, asentándose en el acta el diferimiento de la audiencia final hasta en tanto el Procurador desahogue la vista.
+IV.- Si las conclusiones del Ministerio Público actualizan alguna de las hipótesis previstas en el artículo 293 de este Código, se dará la vista correspondiente al Procurador del Estado, para los efectos del artículo 294 del referido Código, asentándose en el acta el diferimiento de la audiencia final hasta en tanto el Procurador desahogue la vista;
 
 V.- En el juicio sumario no se requerirá auto que agote la averiguación ni aquel que declare cerrada la Instrucción;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2002)</small>
 
-VI.- Contra los autos de formal prisión o sujeción a proceso y demás resoluciones interlocutorias dictadas en este procedimiento no procederá recurso alguno.
+VI.- Contra los autos de formal prisión o sujeción a proceso y demás resoluciones interlocutorias dictadas en este procedimiento no procederá recurso alguno;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2002)</small>
 
@@ -2137,19 +2129,19 @@ I.- Las sentencias definitivas que absuelvan al acusado, excepto las que se pron
 
 II.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III a V y VII del artículo 283, y aquéllos en que se niegue el sobreseimiento;
 
-III. Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos, y los que decreten la separación de autos;
+III.- Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos, y los que decreten la separación de autos;
 
-IV. Los autos de formal prisión; los de sujeción a proceso, y los de falta de elementos para procesar;
+IV.- Los autos de formal prisión; los de sujeción a proceso, y los de falta de elementos para procesar;
 
-V. Los autos en que se conceda o niegue la libertad provisional bajo caución; los que concedan o nieguen la libertad por desvanecimientos de datos, y los que resuelvan algún incidente no especificado;
+V.- Los autos en que se conceda o niegue la libertad provisional bajo caución; los que concedan o nieguen la libertad por desvanecimientos de datos, y los que resuelvan algún incidente no especificado;
 
-VI. El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
+VI.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
 
-VII. Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria, o a librar el oficio inhibitorio a que se refiere el artículo 387;
+VII.- Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria, o a librar el oficio inhibitorio a que se refiere el artículo 387;
 
-VIII. Los autos que nieguen el aseguramiento o la restitución de la cosa o la entrega de los bienes, en los casos a que se refiere el artículo 36 de este Código; y
+VIII.- Los autos que nieguen el aseguramiento o la restitución de la cosa o la entrega de los bienes, en los casos a que se refiere el artículo 36 de este Código; y
 
-IX. Las demás resoluciones que señala la ley.
+IX.- Las demás resoluciones que señala la ley.
 
 ###### ARTICULO 319.
 
@@ -2325,47 +2317,91 @@ INCIDENTES
 
 ### CAPITULO I. Libertad Provisional Bajo Caución
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 350.
 
-Todo indiciado o inculpado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice la propia libertad provisional, el monto estimado de la reparación del daño, el de las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado incluidas sus modalidades y tentativas que a continuación se señalan:
+Todo indiciado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice la propia libertad provisional, el monto estimado de la reparación del daño, el de las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado incluidas sus modalidades y tentativas que a continuación se señalan:
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 I.- Rebelión. En las hipótesis que previenen los Artículos 117 y 118;
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 II.- Evasión de Presos. A que se refiere el Artículo 130;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 III.- Asociación Delictuosa. Prevista en el Artículo 141;
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 IV.- Ataques a las Vías de Comunicación. Prevista en el Artículo 152.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 V.- Terrorismo. Previsto en los Artículos 169 y 170.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 VI.- Corrupción de Menores.- Previsto en los Artículos 183 y 185.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 VII.- Violación. Previsto en los Artículos 236 y 237.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 VIII.- Asalto. Previsto en los Artículos 263 y 264.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 IX.- Plagio. Previsto en el Artículo 266.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 X.- Homicidio Doloso. Previsto en los artículos 293 con relación al 297, 298 y 299.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 XI.- Parricidio. Previsto en el Artículo 306.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 XII.- Infanticidio. Previsto en el Artículo 307.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 XIII.- Robo. Previsto en el artículo 317 en relación con el 320, cuando el valor de lo robado exceda de quinientas cuotas;
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 XIV.- Robo.- Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V y VII, cuando el valor de lo robado exceda de trescientas cuotas;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 XV.- Abigeato. Previsto en el Artículo 330, cuando el valor del ganado robado exceda de trescientas cuotas.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 XVI.- Tortura. Previsto en los Artículos 371, 372 y 373.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
 XVII.- Lesiones. Doloso, previsto en el artículo 285 en relación con el artículo 286 fracción V y los artículos 287, 289 y 290.
 
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
 XVIII.- Delito Electoral. A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2005)</small>
+
+XIX. Secuestro Exprés. A que se refiere el artículo 265 bis.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2005)</small>
+
+XX.- Extorsión. En la hipótesis prevista por el artículo 341 bis.
 
 ###### ARTICULO 351.
 
@@ -2381,7 +2417,7 @@ El monto de la caución se fijará por el tribunal, quien tomará en consideraci
 
 I.- Los antecedentes del inculpado;
 
-II. La gravedad y circunstancias del delito imputado;
+II.- La gravedad y circunstancias del delito imputado;
 
 III.- El mayor o menor interés que pueda tener el inculpado en substraerse a la acción de la justicia;
 
@@ -2469,7 +2505,7 @@ II.- Cuando el tercero pida que se le releve de la obligación y presente al inc
 
 III.- Cuando con posterioridad, se demuestre la insolvencia del fiador; y
 
-IV. En el caso del artículo 366.
+IV.- En el caso del artículo 366.
 
 ###### ARTICULO 365.
 
@@ -2665,7 +2701,7 @@ En todas las controversias de competencia, será oído el Ministerio Público.
 
 Los magistrados y los jueces deben excusarse en los asuntos en que intervengan, por cualquiera de las causas siguientes:
 
-I. Tener parentesco en línea recta, sin limitación de grados; en la colateral por consanguinidad, hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con algunos de los interesados, sus representantes, patronos o defensores;
+I.- Tener parentesco en línea recta, sin limitación de grados; en la colateral por consanguinidad, hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con algunos de los interesados, sus representantes, patronos o defensores;
 
 II.- Tener amistad íntima o enemistad con alguna de las personas a que se refiere la fracción anterior;
 
@@ -2855,7 +2891,7 @@ El tribunal resolverá de plano sobre la suspensión del procedimiento, con la s
 
 La acumulación tendrá lugar:
 
-I.- En los procesos o averiguaciones que se sigan contra una misma persona, en los términos del artículo 16 del Código Penal.
+I.- En los procesos o averiguaciones que se sigan contra una misma persona, en los términos del artículo 16 del Código Penal;
 
 II.- En los que se sigan en investigación de delitos conexos;
 
@@ -3245,9 +3281,7 @@ Cuando por alguna de las causas que señala el artículo 88 del Código Penal de
 
 (DEROGADO, P.O. 10 DE JULIO DE 1993)
 
-### CAPITULO VI. Revisión Extraordinaria para el Reconocimiento
-
-de la Inocencia del Sentenciado
+### CAPITULO VI. Revisión Extraordinaria para el Reconocimiento de la Inocencia del Sentenciado
 
 ###### ARTICULO 495.
 
@@ -3359,11 +3393,11 @@ P.O. 20 DE AGOSTO DE 1986.
 
 PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
 
-P.O. 1 DE MAYO DE 1991
+P.O. 1 DE MAYO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 10 DE JULIO DE 1993
+P.O. 10 DE JULIO DE 1993.
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -3375,11 +3409,11 @@ CUARTO.- Constituidos los Consejos Técnicos Interdisciplinarios, de cada Centro
 
 QUINTO.- Se crea la Dirección de Prevención y de Readaptación Social dependiente de la Secretaría General de Gobierno, con las facultades y obligaciones que esta Ley otorga, funciones que desempeñará a partir del día de inicio de la vigencia de esta Ley. Consecuentemente, la Dirección de Gobernación cesará en las funciones que anteriormente desempeñaba relativas a la ejecución de sanciones privativas de la libertad.
 
-P.O. 6 DE AGOSTO DE 1994
+P.O. 6 DE AGOSTO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 7 DE JUNIO DE 1995
+P.O. 7 DE JUNIO DE 1995.
 
 ###### ARTICULO PRIMERO.
 
@@ -3389,7 +3423,7 @@ Las presentes reformas entrarán en vigor a los treinta días de su publicación
 
 Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas.
 
-P.O. 22 DE FEBRERO DE 1997
+P.O. 22 DE FEBRERO DE 1997.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
@@ -3401,7 +3435,7 @@ El presente decreto entrará en vigor el mismo día de su publicación en el Per
 
 CUARTO.- La sala de Segunda Instancia deberá entrar en funciones a más tardar el 31 de octubre de 1997.
 
-P.O. 5 DE JULIO DE 1997
+P.O. 5 DE JULIO DE 1997.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
@@ -3411,11 +3445,11 @@ SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de aut
 
 CUARTO.- El censo de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
 
-P.O. 20 DE SEPTIEMBRE DE 1997
+P.O. 20 DE SEPTIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 19 DE MAYO DE 1999
+P.O. 19 DE MAYO DE 1999.
 
 Primero. El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -3423,11 +3457,11 @@ Segundo. En aplicación del principio constitucional de irretroactividad de la l
 
 Tercero. Las personas sujetas a procesos penales que se encuentren en trámite al inicio de la vigencia de este Decreto, en los que se investiguen delitos cuya pena máxima no exceda de dos años de prisión, podrán libremente acogerse a la reforma procesal o continuar el trámite en términos de lo previsto en las disposiciones legales anteriores a esta reforma.
 
-P.O. 18 DE ABRIL DE 2001
+P.O. 18 DE ABRIL DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor quince días naturales después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 10 DE JULIO DE 2002
+P.O. 10 DE JULIO DE 2002.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -3436,3 +3470,7 @@ SEGUNDO.- Las personas cuya situación jurídica sea la de procesadas con anteri
 P.O. 29 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 21 DE MAYO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
