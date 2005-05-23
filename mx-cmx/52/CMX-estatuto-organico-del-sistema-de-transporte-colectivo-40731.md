@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-40731"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-09-17"
-last_updated: "2004-09-17"
+last_updated: "2005-05-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40731&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-09-06"
 
 ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ESTATUTO HA QUEDADO SIN EFECTOS POR EL ARTICULO TERCERO TRANSITORIO DEL ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 25 DE MAYO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: SIN EFECTOS
 
 Estatuto publicado en la Gaceta Oficial, el viernes 17 de septiembre de 2004.
 
@@ -1887,3 +1889,13 @@ DRA. FLORENCIA SERRANÍA SOTO
 DIRECTORA GENERAL DEL SISTEMA DE TRANSPORTE COLECTIVO
 
 (Firma)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO:</small>
+
+G.O. 25 DE MAYO DE 2005.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+SEGUNDO.- El presente Estatuto Orgánico del Sistema de Transporte Colectivo entrará en vigor al siguiente día de su publicación.
+
+TERCERO.- Se derogan todas aquéllas disposiciones que contravengan las contenidas en el presente Estatuto y se deja sin efecto el publicado en la Gaceta Oficial del Distrito Federal del 17 de septiembre de dos mil cuatro.
