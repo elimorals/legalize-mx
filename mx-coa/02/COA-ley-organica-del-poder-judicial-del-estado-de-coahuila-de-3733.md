@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2001-11-16"
+last_updated: "2005-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -950,8 +950,6 @@ III.- De los asuntos concernientes a otras acciones relativas al estado civil, a
 IV.- De las diligencias de consignación en todo lo relativo al derecho familiar;
 
 V.- De la diligenciación de los exhortos, requisitorias y despachos, relacionados con el derecho familiar; y
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 VI.- De las cuestiones que afecten en sus derechos de personas a los menores e incapacitados y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
@@ -2463,8 +2461,6 @@ Todo ciudadano o persona moral, por conducto de sus órganos de representación,
 
 Son sujetos de juicio político: los magistrados del Tribunal Superior de Justicia; los magistrados de los tribunales unitarios de distrito; los jueces de primera instancia y los jueces locales letrados.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
 ###### ARTICULO 176.
 
 Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio político, por las causas y con las formalidades establecidas por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, así como imponer, en su caso, las sanciones que juzgue aplicables de acuerdo con la misma Ley.
@@ -2851,7 +2847,9 @@ La imposición de las sanciones administrativas a que se refiere este capítulo,
 
 I.- Recibido el escrito de queja, se ordenará la correspondiente ratificación dentro de las setenta y dos horas que sigan a su presentación. Si el interesado no se presenta a ratificar su escrito en el plazo señalado, la queja se desechará de plano y no se podrá volver a presentar;
 
-II.- La autoridad responsable de instruir el procedimiento disciplinario, si estima improcedente la queja, dictará o propondrá, según sea el caso, la resolución respectiva. Para determinar la procedencia o improcedencia de la queja, la autoridad encargada de la instrucción del procedimiento disciplinario, podrá ordenar las diligencias que estime necesarias para mejor proveer;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2005)</small>
+
+II.- La autoridad responsable de instruir el procedimiento disciplinario, si estima improcedente la queja, dictará o propondrá, según sea el caso, la resolución respectiva, la cual será notificada personalmente al quejoso. Para determinar la procedencia o improcedencia de la queja, la autoridad encargada de la instrucción del procedimiento disciplinario, podrá ordenar las diligencias que estime necesarias para mejor proveer;
 
 III.- Si no existe motivo de improcedencia, se dictará auto inicial del proceso disciplinario, en el que se ordenará correr traslado al infractor, con copia del escrito o del acta en la que conste la queja, para que rinda informe por escrito, dentro del término de cinco días, y se señalará lugar, día y hora para la celebración de una audiencia de pruebas y alegatos, a más tardar dentro del término de quince días;
 
@@ -2861,7 +2859,9 @@ V.- Abierta la audiencia se procederá a recibir, por su orden, las pruebas y lo
 
 VI.- Se levantará acta circunstanciada de las diligencias que se practiquen, mismas que suscribirán quienes en ellas intervengan. La inasistencia del quejoso, del servidor público o de ambos, no impedirá la celebración de la audiencia;
 
-VII.- Concluida la audiencia, se pronunciará la resolución definitiva que proceda, en sesión posterior, cuando la autoridad competente sea el Consejo de la Judicatura. En los demás casos, la resolución se pronunciará dentro de los treinta días hábiles siguientes; en la que se resolverá sobre la procedencia de la queja, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes, notificándosele personalmente la resolución, en breve término.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2005)</small>
+
+VII.- Concluida la audiencia, se pronunciará la resolución definitiva que proceda, en sesión posterior, cuando la autoridad competente sea el Consejo de la Judicatura. En los demás casos, la resolución se pronunciará dentro de los treinta días hábiles siguientes; en la que se resolverá sobre la procedencia de la queja, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes, notificándosele personalmente a las partes la resolución, en breve término.
 
 ###### ARTICULO 207.
 
@@ -3712,3 +3712,7 @@ La lista de auxiliares de la Administración de Justicia aprobada para el año d
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2005.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
