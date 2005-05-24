@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2004-08-17"
+last_updated: "2005-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -3041,7 +3041,7 @@ I. Si comete algún delito intencional contra la persona, la honra o los bienes 
 
 II. Si el adoptado formula denuncia o querella contra el adoptante por algún delito, aunque se pruebe; a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge o la persona que viva con él como si lo fuere, de sus ascendientes o sus descendientes o de un incapaz de que sea tutor el adoptado, aun cuando no haya parentesco entre ellos.
 
-III. Si el adoptado rehusa dar alimentos al adoptante, cuando los necesite.
+III. Si el adoptado rehúsa dar alimentos al adoptante, cuando los necesite.
 
 ###### ARTÍCULO 507.
 
@@ -5561,9 +5561,11 @@ VII. Los que hayan sido condenados por el delito de falsedad.
 
 Para que un testigo sea declarado inhábil, es necesario que la causa de la inhabilidad haya existido al tiempo de otorgarse el testamento.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 979.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos traductores nombrados por el mismo testador.
+Cuando el testador ignore el idioma del país, y el notario no dominare el idioma del testador, concurrirán al acto y firmarán el testamento, además de los testigos de actuación y el Notario, dos traductores nombrados por el mismo testador, excepto en los casos de que en el lugar no los haya, supuesto en el que bastará uno solo.
 
 ###### ARTÍCULO 980.
 
@@ -5641,13 +5643,17 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 Salvo disposición expresa de la ley, no podrá presenciar el acto del otorgamiento otra persona distinta de las mencionadas en los artículos anteriores y de los escribientes del notario.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 997.
 
-Las formalidades expresadas en este capítulo se practicarán en un solo acto y sin interrupción, y el notario dará fe de haberse llenado todas.
+El Notario hará constar en el instrumento que se observaron las formalidades para el otorgamiento del testamento previstas en este capítulo.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2005)</small>
 
 ###### ARTÍCULO 998.
 
-Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
+Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios, sin menoscabo de lo establecido en la Ley del Notariado.
 
 ### CAPÍTULO III. DE LA SUCESIÓN DE LOS DESCENDIENTES
 
@@ -19896,3 +19902,7 @@ P.O. 17 DE AGOSTO DE 2004.
 PRIMERO. El presente decreto entrará en vigor sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los que se autorizan las pruebas periciales biológicas para la determinación de la paternidad y la maternidad, así como la presunción que se genera en perjuicio de quienes no otorgan su consentimiento para someterse a dichas pruebas, entrarán en vigor una vez que se expidan las leyes que regulen el funcionamiento seguro y eficiente de los laboratorios en los que se practiquen y que las Dependencias Oficiales competentes estén en condiciones de realizarlas, con el máximo grado de confiabilidad.
+
+P.O. 24 DE MAYO DE 2005.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
