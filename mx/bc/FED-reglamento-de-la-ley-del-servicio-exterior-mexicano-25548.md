@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-25548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-23"
-last_updated: "2002-08-23"
+last_updated: "2005-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2002-08-20"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2005.
 
-Reglamento publicado en el Diario Oficial de la Federación el viernes 23 de agosto de 2002.
+Reglamento publicado en el Diario Oficial de la Federación, el viernes 23 de agosto de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -367,7 +367,13 @@ c) Una Agencia Consular;
 
 d) Una Sección Consular;
 
-e) La Dirección General de la Secretaría encargada de los Asuntos Consulares.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2005)</small>
+
+e) La Dirección General de la Secretaría encargada de los Asuntos Consulares; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2005)</small>
+
+f) La Dirección General encargada de coordinar a las delegaciones foráneas y metropolitanas de la Secretaría, así como dichas delegaciones.
 
 Para los efectos de la Ley y de este Reglamento, la adscripción de tipo consular deberá tener una duración mínima de 2 años, pudiendo cubrirse en una o más adscripciones.
 
@@ -389,9 +395,7 @@ En el escalafón aparecerán también los embajadores eminentes y eméritos, los
 
 ###### ARTÍCULO 43.
 
-La antigüedad de los miembros del personal de carrera se computará de la
-
-siguiente manera:
+La antigüedad de los miembros del personal de carrera se computará de la siguiente manera:
 
 I.- Antigüedad absoluta: por el tiempo de servicios prestados a partir de la fecha en que obtuvo su primer nombramiento en la Secretaría o en el Servicio Exterior, descontados los periodos que estuvo fuera de la misma, salvo aquellos que expresamente señala la Ley para efectos de cómputo de antigüedad, y
 
@@ -827,7 +831,9 @@ V.- Auxiliar a la Secretaría de la Defensa Nacional en la expedición de Cartil
 
 VI.- Cotejar los documentos públicos o privados que en original tengan a la vista y certificar las copias correspondientes. Para ello llevarán un libro de cotejos en los términos que determine la Secretaría;
 
-VII.- Expedir, en su circunscripción, declaratorias de nacionalidad mexicana por nacimiento previa autorización de la Secretaría en cada caso;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2005)</small>
+
+VII.- Expedir en su circunscripción, declaratorias de nacionalidad mexicana por nacimiento, así como certificados a petición de parte dentro del ámbito de sus atribuciones;
 
 VIII.- Practicar las diligencias que les encomienden las autoridades judiciales, administrativas o del trabajo cuando de conformidad con la legislación interna del país receptor no exista impedimento para ello; y,
 
@@ -1083,7 +1089,9 @@ Las solicitudes de licencia por enfermedad o maternidad deberán acompañarse po
 
 Las solicitudes de licencia sin goce de sueldo se presentarán por escrito a la Comisión de Personal a través de la Dirección General, explicando los motivos que las justifiquen, así como la fecha en que se pretendan iniciar y su duración. En caso de considerarlas procedentes, la Comisión de Personal así lo recomendará al Secretario, quien en su caso las acordará. Las licencias no podrán exceder, en ningún caso, el término de seis meses y la Secretaría fijará la fecha de inicio y término de la misma.
 
-En casos excepcionales, a juicio de la Comisión de Personal y por acuerdo del Secretario, las licencias podrán prorrogarse un máximo de dos ocasiones por términos de seis meses.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2005)</small>
+
+En casos excepcionales, a juicio de la Comisión de Personal y por acuerdo del Secretario, las licencias podrán prorrogarse un máximo de dos ocasiones por términos de seis meses. De igual manera, se podrán otorgar licencias excepcionales a los cónyuges miembros del Servicio Exterior que hayan sido adscritos a alguna Representación, previa solicitud del cónyuge, la cual abarcará el tiempo que dure la comisión otorgada por la Secretaría al cónyuge en funciones.
 
 No se concederán licencias excepcionales para cursar estudios que impliquen la separación voluntaria del cargo por más de seis meses y en caso de concederse por seis meses o menos, no podrá haber en ningún caso prórroga de las mismas. En aquellos casos en que la duración de tales cursos sea mayor de seis meses los miembros del Servicio Exterior sólo podrán realizarlos haciendo uso de la disponibilidad a que se refiere el artículo 52 de la Ley.
 
@@ -1346,3 +1354,9 @@ SEXTO. Durante el año calendario en que entre en vigor el presente Reglamento, 
 SÉPTIMO. Se abroga el Reglamento de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 11 de octubre de 1994.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de agosto de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda Gutman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+D.O.F. 24 DE MAYO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
