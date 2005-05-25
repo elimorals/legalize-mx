@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "2005-01-19"
+last_updated: "2005-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -429,13 +429,13 @@ IV.- Los Presidentes municipales de la Entidad;
 
 V.- El Secretario de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-VI.- El Coordinador Operativo de la Policía al mando del ministerio público;
+VI.- El titular de la Agencia Estatal de Investigación;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
 
-VI.- El titular de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública;
+VII.- El Titular de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -593,11 +593,11 @@ VIII.- Promover la formación de personal especializado para el Servicio de Segu
 
 IX.- Las demás que le señale esta Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
 
 ###### Artículo 31.
 
-El Secretario General de Gobierno, el Secretario de Seguridad Pública, el Procurador General de Justicia del Estado, el Coordinador Operativo de Policía al mando del Ministerio Público, el Titular de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública, el Titular de la Dirección de Vialidad y Protección Civil, los Directores o encargados de las policías municipales, los Directores o encargados de Tránsito Municipal, los comisarios de policía y en general, todas las dependencias que en esta Ley u otras disposiciones aplicables tengan funciones de seguridad pública, tendrán las atribuciones que les señalen las mismas y en general, el carácter de auxiliares de la materia.
+El Secretario General de Gobierno, el Secretario de Seguridad Pública, el Procurador General de Justicia del Estado, el titular de la Agencia Estatal de Investigación, el titular de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública, el Titular de la Dirección de Vialidad y Protección Civil, los Directores o encargados de las policías municipales, los directores o encargados de tránsito municipal, los comisarios de policía y, en general, todas las dependencias que en esta Ley u otras disposiciones aplicables tengan funciones de Seguridad Pública, tendrán las atribuciones que les señalen las mismas y en general, el carácter de auxiliares de la materia.
 
 ### CAPITULO TERCERO. DE LA COORDINACION EN MATERIA DE SEGURIDAD PUBLICA
 
@@ -890,6 +890,10 @@ VIII.- Los demás que determinen las disposiciones aplicables.
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 En todo caso, los nombramientos para cubrir las plazas vacantes de nueva creación en las corporaciones policiales, sólo podrán otorgarse a egresados del Instituto de Profesionalización Policial o de una institución similar que cuente con registro de validez oficial de estudio, en los términos del artículo 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2005)</small>
+
+Quien pretenda ingresar como Agente Investigador de la policía al mando del Ministerio Público debe cumplir con lo dispuesto en la Ley Orgánica del Ministerio Público del Estado de Chihuahua, en sus reglamentos y demás disposiciones aplicables, y con lo preceptuado en los programas de la Procuraduría General de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -1363,9 +1367,9 @@ Para el acceso a la información sobre Seguridad Pública, podrán establecerse 
 
 I.- La Policía Preventiva;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-II.- La Policía al mando del ministerio público;
+II.- La Agencia Estatal de Investigación;
 
 III.- El Ministerio Público;
 
@@ -1692,3 +1696,21 @@ Para el correcto desempeño de las atribuciones que se confieren a la Secretarí
 ###### ARTÍCULO TERCERO.
 
 Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
+
+P.O. 25 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el adecuado cumplimiento de las atribuciones conferidas a la Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito, Agencia Estatal de Investigación y el Centro de Estudios Penales y Forenses, estas dependencias contarán con los recursos humanos, materiales y financieros necesarios, atendiendo a la disponibilidad presupuestal.
+
+###### ARTÍCULO TERCERO.
+
+Los agentes de la policía al Mando del Ministerio Público que se encuentren en activo al monto de la vigencia del presente Decreto, se integrarán a la Agencia Estatal de Investigación con su respectiva categoría, y deberán someterse a los procesos de capacitación y profesionalización que determine la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de la Academia Estatal de Policía, deberán cumplir con los programas de profesionalización que precise el Centro de Estudios Penales y Forenses.
