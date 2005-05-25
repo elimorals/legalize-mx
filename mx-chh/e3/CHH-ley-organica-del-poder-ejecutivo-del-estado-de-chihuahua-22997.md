@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-04-27"
+last_updated: "2005-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -79,7 +79,7 @@ II.- La Procuraduría General de Justicia;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-III.- Las Coordinaciones adscritas directamente al Ejecutivo.
+III.- Las Coordinaciones adscritas directamente al Ejecutivo;
 
 IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
@@ -165,47 +165,11 @@ Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado debe
 
 Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Directores, Jefes de Departamento, y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el reglamento interior de cada dependencia tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 13.
 
-Al frente de la Procuraduría General de Justicia habrá un Procurador, quien se auxiliará en el ejercicio de sus funciones por un Subprocurador General, Subprocuradores de Zona y los órganos que determine su Ley Orgánica.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-Le (sic) designación del Procurador General de Justicia, se llevará a cabo de acuerdo al siguiente procedimiento:
-
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-I.- El Gobernador del Estado enviará al Congreso del Estado una terna de candidatos a ocupar el puerto de Procurador General de Justicia. Los candidatos deberán reunir los requisitos que establece el Artículo 95 de la Constitución Política del Estado, para lo cual, deberá acompañar a su propuesta la documentación que compruebe dichos requisitos.
-
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-II.- El Procurador General de Justicia será designado por el Congreso dentro de los quince días hábiles siguientes a aquél en que reciba la terna propuesta por el Gobernador, debiendo, en caso de encontrarse en receso, citar a periodo extraordinario para tales efectos
-
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-III.- La designación se hará, mediante el voto de las dos terceras partes de la totalidad de los diputados integrantes, en escrutinio secreto. Los integrantes de la terna que para tal efecto envíe el Gobernador, comparecerán previamente ante la Junta de Coordinación Parlamentaria.
-
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-IV.- Si ninguna de las personas propuestas obtiene las dos terceras partes de los votos, se realizará una segunda votación, únicamente respecto de los dos que hayan alcanzado mayor número de votos, designándose a quien obtenga las dos terceras partes de los votos de los diputados integrantes, en escrutinio secreto.
-
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-V.- Si en la segunda votación, ninguno obtuviera las dos terceras partes de los votos, o bien, transcurren quince días hábiles a la recepción de la terna y no ha sido nombrado el Procurador General de Justicia, éste será designado libremente por el Gobernador, debiendo nombrar a uno distinto a los que integraron la terna enviada al Congreso.
-
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-VI.- Una vez que el Congreso designe al Procurador General de Justicia, el Gobernador del Estado le tomará la protesta de ley, teniendo, en su caso, facultad de removerlo libremente.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-El procedimiento descrito en las fracciones anteriores, se realizará cada vez que se amerite el nombramiento de un nuevo Procurador General de Justicia.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-Durante el tiempo que dure el procedimiento de designación del Procurador General de Justicia, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho del procurador.
-
-El Procurador General de Justicia es el Consejero Jurídico del Poder Ejecutivo, en los términos que determine la ley.
+Al frente de la Procuraduría General de Justicia habrá un Procurador, quien se auxiliará en el ejercicio de sus funciones por un Subprocurador General, un Subprocurador de Derechos Humanos y Atención a Víctimas del Delito, subprocuradores de Zona y los órganos que determine su Ley Orgánica.
 
 ###### ARTICULO 14.
 
@@ -409,7 +373,7 @@ XVI.- Ejercer las funciones de ingresos; control presupuestal; planeación, oper
 
 XVII.- Realizar los pagos conforme al Presupuesto de Egresos y, cuando así corresponda, de acuerdo con las solicitudes de pago que realice la Secretaría de Planeación y Evaluación en materia de programas de inversión y la Secretaría de Administración en materia de gastos de operación y de subsidios;
 
-XVIII. Llevar y actualizar el registro y control de los padrones de contribuyentes, y vigilar y controlar el cumplimiento de sus obligaciones;
+XVIII.- Llevar y actualizar el registro y control de los padrones de contribuyentes, y vigilar y controlar el cumplimiento de sus obligaciones;
 
 XIX.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado y realizar una labor permanente de difusión y orientación fiscal; y
 
@@ -477,7 +441,7 @@ VI.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud
 
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
-VII.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los indígenas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de las administraciones públicas federal, estatal, municipal, sectores social o privado, cuando así se requiera.
+VII.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los indígenas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de las administraciones públicas federal, estatal, municipal, sectores social o privado, cuando así se requiera;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -513,39 +477,39 @@ II.- Emitir, con base en el Presupuesto de Egresos del Estado, la normatividad p
 
 III.- Proponer a la Secretaría de Finanzas, conjuntamente con la Secretaría de Planeación y Evaluación, la estructura presupuestal y programática del presupuesto de egresos, de conformidad con lo dispuesto por esta ley y demás disposiciones aplicables en la materia;
 
-IV. Expedir las solicitudes para las erogaciones por gastos de operación y subsidios con cargo al presupuesto de las dependencias de la administración pública estatal;
+IV.- Expedir las solicitudes para las erogaciones por gastos de operación y subsidios con cargo al presupuesto de las dependencias de la administración pública estatal;
 
-V. Ejercer las funciones relativas a la administración de los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, con los procesos, los sistemas y las estructuras necesarios para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
+V.- Ejercer las funciones relativas a la administración de los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, con los procesos, los sistemas y las estructuras necesarios para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
 
 VI.- Establecer medidas de control respecto a las materias de administración de recursos humanos, adquisición y arrendamiento de bienes y contratación de servicios por parte de las entidades paraestatales;
 
-VII. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, y vigilar que las dependencias y entidades ejerzan conforme a la Ley las atribuciones que ésta les confiera en la materia;
+VII.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, y vigilar que las dependencias y entidades ejerzan conforme a la Ley las atribuciones que ésta les confiera en la materia;
 
-VIII. Aplicar la normatividad en materia de adquisición, administración, uso y destino de los bienes muebles e inmuebles destinados al funcionamiento de las dependencias del Ejecutivo y demás bienes no destinados a un fin específico, y respecto de la enajenación de muebles e inmuebles propiedad del Estado, excepto las reservas territoriales;
+VIII.- Aplicar la normatividad en materia de adquisición, administración, uso y destino de los bienes muebles e inmuebles destinados al funcionamiento de las dependencias del Ejecutivo y demás bienes no destinados a un fin específico, y respecto de la enajenación de muebles e inmuebles propiedad del Estado, excepto las reservas territoriales;
 
-IX. Apoyar a las dependencias en la programación de la adquisición de sus bienes, servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
+IX.- Apoyar a las dependencias en la programación de la adquisición de sus bienes, servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
 
-X. Planear y diseñar conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos del gobierno;
+X.- Planear y diseñar conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos del gobierno;
 
-XI. Programar, realizar y celebrar los convenios y contratos relativos a las adquisiciones y arrendamiento de bienes muebles e inmuebles y la contratación de servicios;
+XI.- Programar, realizar y celebrar los convenios y contratos relativos a las adquisiciones y arrendamiento de bienes muebles e inmuebles y la contratación de servicios;
 
-XII. Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal, así como el inventario de los bienes muebles e inmuebles propiedad del Estado, estableciendo programas para su conservación y mantenimiento, excepto las reservas territoriales;
+XII.- Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal, así como el inventario de los bienes muebles e inmuebles propiedad del Estado, estableciendo programas para su conservación y mantenimiento, excepto las reservas territoriales;
 
-XIII. Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades del sector paraestatal;
+XIII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades del sector paraestatal;
 
-XIV. Intervenir en los términos de las leyes de la materia en la celebración de contratos de compraventa, comodato, donaciones y demás en los que se afecte el patrimonio mobiliario e inmobiliario del Gobierno del Estado, en materia de su competencia, salvo las reservas territoriales;
+XIV.- Intervenir en los términos de las leyes de la materia en la celebración de contratos de compraventa, comodato, donaciones y demás en los que se afecte el patrimonio mobiliario e inmobiliario del Gobierno del Estado, en materia de su competencia, salvo las reservas territoriales;
 
-XV. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los servidores públicos;
+XV.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los servidores públicos;
 
-XVI. Reclutar y seleccionar, en apoyo de las dependencias, al personal del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones; así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos.
+XVI.- Reclutar y seleccionar, en apoyo de las dependencias, al personal del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones; así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos.
 
 Del mismo modo, expedir los nombramientos de los servidores públicos designados por el Gobernador, cuando éste no lo haga directamente;
 
-XVII. Mantener actualizado el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas;
+XVII.- Mantener actualizado el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas;
 
-XVIII. Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Poder Ejecutivo, atendiendo en su caso las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado; y
+XVIII.- Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Poder Ejecutivo, atendiendo en su caso las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado; y
 
-XIX. Los demás que le atribuyan expresamente las Leyes, los reglamentos y las demás disposiciones normativas.
+XIX.- Los demás que le atribuyan expresamente las Leyes, los reglamentos y las demás disposiciones normativas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -857,7 +821,7 @@ IX.- Seleccionar, con la opinión del Secretario de Administración, los despach
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-X.- Operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos la atención de sus quejas y denuncias.
+X.- Operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos la atención de sus quejas y denuncias;
 
 XI.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
@@ -981,7 +945,7 @@ Los decretos correspondientes establecerán la estructura orgánica y las funcio
 
 ###### ARTICULO 38.
 
-Dentro de la Administración Pública Paraestatal se consideran Empresas de participación estatal mayoritaria, aquéllas que satisfagan alguno de los siguientes requisitos.
+Dentro de la Administración Pública Paraestatal se consideran Empresas de participación estatal mayoritaria, aquéllas que satisfagan alguno de los siguientes requisitos:
 
 I.- Que el Gobierno del Estado, uno o más organismos descentralizados, una o más empresas de participación estatal mayoritaria, uno o más fideicomisos a que se refiere la fracción III del artículo 3o. de esta Ley, considerados conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social;
 
@@ -1145,7 +1109,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 ###### ARTICULO PRIMERO.
 
-Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1402,3 +1366,21 @@ P.O. 27 DE ABRIL DE 2005.
 DECRETO No. 178/05 II
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el adecuado cumplimiento de las atribuciones conferidas a la Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito, Agencia Estatal de Investigación y el Centro de Estudios Penales y Forenses, estas dependencias contarán con los recursos humanos, materiales y financieros necesarios, atendiendo a la disponibilidad presupuestal.
+
+###### ARTÍCULO TERCERO.
+
+Los agentes de la policía al mando del Ministerio Público que se encuentren en activo al momento de la vigencia del presente Decreto, se integrarán a la Agencia Estatal de Investigación con su respectiva categoría, y deberán someterse a los procesos de capacitación y profesionalización que determine la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de la Academia Estatal de Policía, deberán cumplir con los programas de profesionalización que precise el Centro de Estudios Penales y Forenses.
