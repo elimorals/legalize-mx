@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "2005-01-19"
+last_updated: "2005-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -55,9 +55,9 @@ A) En la averiguación previa:
 
 I.- Recibir denuncias o querellas sobre hechos que puedan constituir delitos;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-II.- Investigar directamente los delitos del orden común y, si lo considera pertinente, solicitará el auxilio de la Policía Judicial del Estado, de Servicios Periciales y de los Cuerpos de Seguridad Pública en el Estado, cuidando de compensar cargas de trabajo, distribuyéndolas de acuerdo a su especialidad;
+II.- Investigar directamente los delitos del orden común y, si lo considera pertinente, solicitar el auxilio de la policía al mando del Ministerio Público, de Servicios Periciales y de los cuerpos de seguridad pública en el Estado, cuidando de compensar cargas de trabajo, distribuyéndolas de acuerdo a su especialidad;
 
 III.- Practicar las diligencias necesarias y allegarse las pruebas pertinentes para la comprobación del cuerpo del delito y la probable responsabilidad de los inculpados para fundar y motivar, en su caso, el ejercicio de la acción penal;
 
@@ -65,7 +65,7 @@ IV.- Recabar de cualquier oficina pública los informes y datos que estime neces
 
 (ADICIONADO, P.O. 22 DE MAYO DE 2002) (REPUBLICADO, P.O. 25 DE MAYO DE 2002)
 
-La autoridad que sin causa justificada se niegue a proporcionar los informes o datos que sele soliciten, incurrirá en responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+La autoridad que sin causa justificada se niegue a proporcionar los informes o datos que se le soliciten, incurrirá en responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -151,13 +151,17 @@ La intervención del Ministerio Público en la aplicación de las medidas de pol
 
 ###### ARTICULO 4o.
 
-La institución del Ministerio Público estará a cargo de un Procurador General de Justicia, designado en los términos que establecer la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los servidores públicos siguientes:
+La institución del Ministerio Público estará a cargo de un Procurador General de Justicia, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los servidores públicos siguientes:
 
 I.- El Subprocurador General;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
 II.- El Contralor de Asuntos Internos;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2005)</small>
+
+II bis.- El Subprocurador de Derechos Humanos y Atención a Víctimas del Delito;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
@@ -167,9 +171,9 @@ III.- Los Subprocuradores de Zona;
 
 VI (sic).- Los Coordinadores Regionales;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-V.- El Departamento Jurídico;
+V.- El Director Jurídico;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
@@ -179,9 +183,9 @@ VI.- Los Agentes del Ministerio Público Auxiliares Adscritos a la Procuraduría
 
 VII.- Los Agentes del Ministerio Público Especializado en la investigación y persecución de los delitos que, por su naturaleza, por la época o lugar, sean de gran incidencia o trascendencia social;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-VIII.- El departamento de Concertación Social, Atención Ciudadana y Conciliación y Servicio Social;
+VIII.- Los titulares de las unidades especializadas de investigación y los elementos del Ministerio Público adscritos a ellas;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
@@ -195,19 +199,23 @@ X.- Los Agentes y Subagentes del Ministerio Público Investigadores, así como l
 
 Los servidores públicos titulares de las unidades orgánicas a que se refiere este Artículo, son Agentes del Ministerio Público para todos los efectos legales que corresponda y ejercerán, en todo caso, las facultades que expresamente les sean conferidas por el Procurador.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 5o.
 
-La Procuraduría contará, además, con las oficinas de apoyo técnico y administrativo y demás personal que sea necesario para el ejercicio de las funciones de su competencia que fije el reglamento de esta Ley, tomando en cuenta las previsiones presupuestales.
+La Procuraduría contará, además, con las oficinas de apoyo técnico y administrativo, la Agencia Estatal de Investigación, el Centro de Estudios Penales y Forenses y demás personal que sea necesario para el ejercicio de las funciones de su competencia que fije el reglamento de esta ley o en otras disposiciones, tomando en cuenta las previsiones presupuestales.
+
+El Procurador General de Justicia emitirá los acuerdos, órdenes, circulares, instructivos, bases y demás disposiciones de carácter interno que se consideren necesarias para el mejor funcionamiento de las unidades y órganos administrativos de la institución.
+
+Así mismo, el Procurador General de Justicia planeará y diseñará, conjuntamente con la Secretaría de Administración, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos de la dependencia.
 
 ###### ARTICULO 6o.
 
 Son auxiliares directos del Ministerio Público del Estado, debiendo obedecer y ejecutar las órdenes que reciba de éste, en ejercicio de sus funciones:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-I.- La Policía que esté bajo su autoridad y mando;
+I.- La Policía que esté bajo su autoridad y mando, denominada Policía Ministerial, misma que integrará la Agencia Estatal de Investigación, en los términos señalados en Reglamento de esta Ley y demás disposiciones aplicables;
 
 II.- Los Servicios Periciales de la Procuraduría General del Estado;
 
@@ -305,7 +313,7 @@ II.- Efectuar revisiones a las distintas dependencias de la Procuraduría, infor
 
 III.- Formular los pliegos de responsabilidades, actas, recomendaciones e instrucciones que procedan en razón de las cuales turnará los expedientes respectivos a quien competa, para la continuación de su trámite, o bien, solicitará al Procurador o a quien esté facultado, la imposición de correcciones disciplinarias sin perjuicio de la acción penal que pudiere corresponder o el cese cuando éste proceda conforme a derecho.
 
-En la investigación y resolución de estas actuaciones se observarán las reglas del procedimiento penal, de esta Ley Orgánica, del Reglamento de Asuntos Internos que al efecto se expida y demás ordenamientos legales aplicables.
+En la investigación y resolución de estas actuaciones se observarán las reglas del procedimiento penal, de esta Ley Orgánica, del Reglamento de Asuntos Internos que al efecto se expida y demás ordenamientos legales aplicables;
 
 IV.- Sugerir las medidas necesarias para reducir la incidencia de faltas administrativas entre los servidores públicos de la institución;
 
@@ -314,6 +322,40 @@ V.- Ejercer, previo acuerdo del Procurador, las anteriores atribuciones respecto
 VI.- Participar con voz y voto, conforme a los respectivos reglamentos, en toda clase de modificaciones, promociones, ingresos, remociones y sanciones respecto al personal de la Procuraduría General de Justicia del Estado; y
 
 VII.- Las demás que le confieran otras leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2005)</small>
+
+###### ARTICULO 9o. Ter.
+
+Al Subprocurador de Derechos Humanos y Atención a Víctimas del Delito le corresponde:
+
+I.- Proponer e instrumentar las políticas institucionales para la capacitación y promoción en materia de derechos humanos, en coordinación con la unidad administrativa competente;
+
+II.-Fomentar la cultura de respeto a los derechos humanos entre los servidores públicos de la Procuraduría General de Justicia;
+
+III.- Establecer las relaciones de la Procuraduría General de Justicia con los organismo públicos de derechos humanos y las organizaciones no gubernamentales, así como proponer la celebración de convenios, bases de colaboración y otros instrumentos de concertación con instituciones públicas y privadas para la difusión, promoción y capacitación en materia de derechos humanos;
+
+IV.- Atender las quejas y denuncias en contra de los servidores públicos de la Procuraduría, por presuntos actos de violación a los derechos humanos y, en su caso, promover lo conducente para la aplicación de las sanciones correspondientes, en caso de considerarse procedente la violación;
+
+V.-Conducir conforme a la normatividad aplicable las acciones de prevención, observancia e inspección en materia de los derechos humanos, que se realicen en las diversas unidades administrativas de la Procuraduría;
+
+VI.- Atender y dar seguimiento a las recomendaciones y medidas cautelares emitidas por las comisiones de derechos humanos, de conformidad con lo establecido en las leyes federales, estatales, así como de las derivadas de los tratados internacionales de que nuestro país forme parte;
+
+VII.-Realizar las acciones pertinentes para atender los programas relacionados con la procuración de justicia que fuesen instaurados por los organismos oficiales de derechos humanos;
+
+VIII.-Dirigir las unidades de protección y promoción de los derechos humanos de las unidades administrativas de la Procuraduría General de Justicia;
+
+IX.- Proporcionar orientación y asesoría jurídica a las víctimas y ofendidos por delitos, en coordinación con otras unidades administrativas;
+
+X.- Establecer los mecanismos de coordinación con las áreas competentes de la Procuraduría General de Justicia, a efecto de garantizar y hacer efectiva la reparación de los daños y perjuicios a las víctimas y ofendidos de los delitos, de conformidad con las disposiciones legales aplicables,
+
+XI.- Canalizar a las víctimas y ofendidos por delitos, así como a otras personas, cuando resulte necesario, a las dependencias y entidades de la Administración Pública Estatal que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención;
+
+XII.- Promover e instrumentar los mecanismos de mediación, conciliación, negociación y servicios sociales, así como auxiliar al Procurador General de Justicia, en la coordinación de los programas y acciones para la atención a la ciudadanía en los trabajos propios de la institución;
+
+XIII.- Promover programas y campañas para la prevención de la comisión de conductas ilícitas, en coordinación con las unidades administrativas de la Procuraduría, así como con las entidades de la Administración Pública Estatal competentes;
+
+XIV.- Las demás que le confieran el Titular de la Procuraduría General de Justicia u otros ordenamientos legales.
 
 ###### ARTICULO 10.
 
@@ -327,13 +369,17 @@ II.- Las demás que le otorguen otras disposiciones legales y reglamentarias.
 
 Los Coordinadores Regionales tendrán en el territorio de su adscripción el carácter de Agentes del Ministerio Público Auxiliares de los Subprocuradores, con todas las facultades de éstos salvo las de reserva de expedientes y aquellas que no sean delegables conforme a la Ley y a su naturaleza. En todo caso, podrán ejercer las que les sean encomendadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 12.
 
-Al Departamento Jurídico le compete:
+A la Dirección Jurídica le compete:
 
 I.- Dictaminar los asuntos de carácter jurídico que reciba de la Procuraduría para su revisión y consulta;
 
-II.- Elaborar los proyectos sobre la procedencia del no ejercicio de la acción penal y archivo de la averiguación previa; solicitud de sobreseimiento de los procesos penales; la confirmación o modificación de las conclusiones en los casos previstos por la Ley; formulación o contestación de agravios y en general todas las promociones o recursos que deban presentarse en el proceso penal y en los juicios de amparo;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
+
+II.- Elaborar los proyectos sobre la procedencia del no ejercicio de la acción penal y archivo de la averiguación previa; solicitud de sobreseimiento de los procesos penales; la confirmación, revocación o modificación de las conclusiones en los casos previstos por la ley; formulación o contestación de agravios y, en general todas las promociones o recursos que deban presentarse en el proceso penal y en los juicios de amparo;
 
 III.- Coordinar y dirigir el desempeño de las funciones de los Agentes del Ministerio Público Auxiliares adscritos a la Procuraduría; y
 
@@ -341,11 +387,11 @@ IV.- Las demás que le concedan otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 13.
 
-Al Departamento de Concertación Social le compete promover e instrumentar mecanismos para llevar a cabo las políticas de conciliación y servicios sociales de la Procuraduría y auxiliar al titular de ésta en la coordinación de las unidades para la atención ciudadana en los programas de trabajo que éstas formulen.
+(DEROGADO, P.O. 25 DE MAYO DE 2005)
 
 ###### ARTICULO 14.
 
-Las oficinas del Procurador para la atención ciudadana deberán promover la participación y corresponsabilidad social entre los diversos sectores representativos, propiciar la conciliación en los conflictos, promover la atención a detenidos y preservar el respeto a los derechos humanos.
+(DEROGADO, P.O. 25 DE MAYO DE 2005)
 
 ###### ARTICULO 15.
 
@@ -371,15 +417,35 @@ I.- Las funciones que en lo relativo establece la base B del artículo 2o. de es
 
 II.- Las demás funciones que les asignen otra (sic) disposiciones legales o reglamentarias.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 18.
 
-(DEROGADO, P.O. 19 DE ENERO DE 2005)
+Compete al Centro de Estudios Penales y Forenses:
+
+I.- Implementar, coordinar e impartir los cursos de formación básica, de actualización, de licenciatura y posgrado en las áreas de conocimiento afines a la investigación criminal, dirigida a los integrantes del Ministerio Público, así como de la Agencia Estatal de Investigación y demás unidades de apoyo, con el objeto de lograr un mejor desempeño en materia de procuración de justicia;
+
+II.- Desarrollar programas especiales de capacitación, actualización, profesionalización y posgrado que tengan carácter prioritario para incorporar el servicio de carrera en la procuración de justicia del Estado;
+
+III.- Fomentar y mantener relaciones de intercambio, promoción y consejo con organismos similares, nacionales y extranjeros, que impartan cursos en las área de conocimiento afines a la investigación criminal;
+
+IV.- Promover la organización de eventos, tales como conferencias, seminarios y congresos, para el estudio de las ciencias penales y técnicas de prevención e investigación de delitos, dirigidos a los servidores públicos adscritos a la Procuraduría y público en general;
+
+V.- Extender los certificados correspondientes de los cursos, conferencias, seminarios y congresos que imparta y organice, así como implementar los mecanismos académicos necesarios para su registro y validez oficial ante las instancias correspondientes; de igual manera, que los integrantes del Ministerio Público y de sus unidades de apoyo obtengan conocimientos de vanguardia técnica, científica y habilidades intelectuales básicas;
+
+VI.-Elaborar, aplicar y evaluar los exámenes de ingreso a que se refiere el artículo 22 de esta Ley; y
+
+VII.- Las demás que, de conformidad con este ordenamiento y otras disposiciones aplicables, le correspondan.
+
+El Centro de Estudios Penales y Forenses tendrá la organización y atribuciones que le señale el reglamento correspondiente, y su personal docente y administrativo estará autorizado en el presupuesto de egresos del Estado.
 
 ### CAPITULO CUARTO. DE LOS NOMBRAMIENTOS, REMOCIONES Y SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 19.
 
-El Procurador General de Justicia del Estado será nombrado y removido libremente por el Gobernador del Estado.
+El Procurador General de Justicia del Estado será nombrado en los términos que establezca la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado. Será removido libremente por el Gobernador del Estado.
 
 Para ser Procurador General de Justicia del Estado se requiere cumplir con los requisitos que establece el artículo 95 de la Constitución Política del Estado.
 
@@ -389,11 +455,11 @@ Los Subprocuradores, Jefes de Departamento y demás servidores públicos de la P
 
 Para ser Subprocurador se deben reunir los mismos requisitos que para ser Procurador General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 21.
 
-En la designación del personal del Ministerio Público, de la Policía al mando del ministerio público y de los Servicios Periciales de la Procuraduría, sin perjuicio de las normas complementarias contenidas en el reglamento de esta Ley, se atenderá a las siguientes disposiciones:
+En la designación del personal del Ministerio Público, de la Agencia Estatal de Investigación y de los Servicios Periciales de la Procuraduría, sin perjuicio de las normas complementarias contenidas en el reglamento de esta Ley, se atenderá a las siguientes disposiciones:
 
 Para ser Agente del Ministerio Público se requiere:
 
@@ -415,9 +481,9 @@ Además de los requisitos anteriores, los Coordinadores de Región y los Agentes
 
 Los Subagentes del Ministerio Público deberán satisfacer iguales exigencias a las señaladas para los Agentes del Ministerio Público, pero se podrán dispensar los requisitos de las fracciones IV y V cuando las necesidades del servicio así lo ameriten.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
 
-Para ser Agente Investigador de la Policía al mando del Ministerio Público, se deben reunir los requisitos previstos en las fracciones I y II y haber egresado del Instituto de Profesionalización Policial dependiente de la Secretaría de Seguridad Pública Estatal.
+Para ser Agente Investigador de la policía al mando del Ministerio Público se deben reunir los requisitos previstos en las fracciones I, II y V; además de contar con título de Licenciado en Derecho o disciplinas afinas a la función investigadora y preferentemente haber egresado del Centro de Estudios Penales y Forenses.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -453,17 +519,25 @@ Si hubiere detenidos, la remisión se hará inmediatamente.
 
 El personal que integra el Ministerio Público se suplirá en sus ausencias de la manera siguiente:
 
-I.- Las del Procurador, por el Subprocurador General, y en ausencia de ambos por el titular del Departamento Jurídico de la Procuraduría;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-II.- Las de los Subprocuradores de Zona, por el Coordinador Regional con la misma sede que aquél; y
+I.- Las del Procurador, por el Subprocurador General y, en ausencia de ambos por el titular de la Dirección Jurídica de la Procuraduría;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-III.- Las de los Agentes del Ministerio Público por el personal que designe el Procurador General de Justicia o bien los Subprocuradores dentro de su competencia; y
+II.- Las del Subprocurador de Derechos Humanos y Atención a Víctimas del Delito, y del Contralor de Asuntos Internos, por quien designe el Procurador General de Justicia;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
 
-IV.- En los lugares donde sólo haya un Agente o Subagente del Ministerio Público o no haya ninguno de los dos, éstos serán suplidos por el Recaudador de Rentas de la localidad o quien haga sus veces.
+III.- Las de los Subprocuradores de Zona, por el Coordinador Regional con la misma sede que aquél;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2005)</small>
+
+IV.- Las de los Agentes del Ministerio Público por el personal que designe el Procurador General de Justicia o bien los Subprocuradores dentro de su competencia; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2005)</small>
+
+V.- En los lugares donde sólo haya un Agente o Subagente del Ministerio Público o no haya ninguno de los dos, éstos serán suplidos por el Recaudador de Rentas de la localidad o quien haga sus veces.
 
 ###### ARTICULO 27.
 
@@ -505,11 +579,11 @@ Ningún funcionario o empleado del Ministerio Público, de la Policía a su mand
 
 El funcionario del Ministerio Público encargado de la averiguación previa, deberá permitir al inculpado y al ofendido o a sus representantes, consultar el expediente respectivo. Asimismo, previa solicitud, les expedirá copias certificadas dé las actuaciones y registros que consten en el expediente.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 34.
 
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía que actúa bajo su mando, dará lugar al empleo de las medidas de apremio y correcciones disciplinarias según el caso, en los términos que previene el Capítulo V del Código de Procedimientos Penales. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa conforme a derecho.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la policía al mando del mismo, dará lugar al empleo de las medidas de apremio y correcciones disciplinarias según el caso, en los términos que previene el Título Primero, Capítulo V del Código de Procedimientos Penales. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa conforme a derecho.
 
 T R A N S I T O R I O S:
 
@@ -606,3 +680,21 @@ Para el correcto desempeño de las atribuciones que se confieren a la Secretarí
 ###### ARTÍCULO TERCERO.
 
 Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
+
+P.O. 25 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el adecuado cumplimiento de las atribuciones conferidas a la Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito, Agencia Estatal de Investigación y el Centro de Estudios Penales y Forenses, estas dependencias contarán con los recursos humanos, materiales y financieros necesarios, atendiendo a la disponibilidad presupuestal.
+
+###### ARTÍCULO TERCERO.
+
+Los agentes de la policía al Mando del Ministerio Público que se encuentren en activo al monto de la vigencia del presente Decreto, se integrarán a la Agencia Estatal de Investigación con su respectiva categoría, y deberán someterse a los procesos de capacitación y profesionalización que determine la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de la Academia Estatal de Policía, deberán cumplir con los programas de profesionalización que precise el Centro de Estudios Penales y Forenses.
