@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2005-04-18"
+last_updated: "2005-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MAYO DE 2005.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -189,17 +189,19 @@ La Ley fijará la forma y los términos en que se suspenden los derechos del ciu
 
 ### CAPITULO II. Del Territorio del Estado
 
-(REFORMADO, D.O.26 DE MARZO DE 1975) (F. DE E., P.O. 3 DE ABRIL DE 1975)
+(REFORMADO, D.O. 26 DE MARZO DE 1975) (F. DE E., P.O. 3 DE ABRIL DE 1975)
 
 ###### Artículo 12.
 
 El Estado de Yucatán es parte integrante de los Estados Unidos Mexicanos, y es libre y soberano en todo lo que concierne a su régimen interior, conforme a los principios establecidos en la Constitución Federal.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 13.
 
-La Soberanía reside esencial y originariamente en el Pueblo; y la del Estado de Yucatán, por lo que toca a su régimen interior, se ejerce por medio de los Poderes Públicos del Estado, los cuales dimanan del Pueblo y se instituyen para su beneficio.
+La soberanía reside esencial y originariamente en el pueblo, y la del Estado para su régimen interior, se ejerce por medio de los poderes públicos, los cuales dimanan del pueblo y se instituyen para su beneficio.
+
+El Estado de Yucatán adopta la forma de gobierno republicano, democrático, representativo y popular.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -421,25 +423,29 @@ Toda resolución del Congreso tendrá el carácter de Ley o Decreto. Las Leyes o
 
 Son facultades y atribuciones del Congreso del Estado:
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-I.- formar nuevos municipios dentro de los límites de los existentes, siendo necesario al efecto:
+I.- Crear nuevos municipios dentro del territorio del Estado, siendo necesario para el efecto, que:
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+a) Los núcleos poblacionales que soliciten erigirse en municipio, cuenten por lo menos con quince mil habitantes;
 
-a) Que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de veinticinco mil vecinos por lo menos, mayores de edad que reúnan las condiciones que disponga la Ley Orgánica Municipal del Estado de Yucatán;
+b) Acredite que cuenta con elementos suficientes para garantizar su permanencia;
 
-b) que se compruebe ante el Congreso que tienen los elementos bastantes para proveer a su existencia autónoma;
+c) Los ayuntamientos de los municipios cuyo territorio se pretenda afectar, sean escuchados sobre la conveniencia en este aspecto; quedando obligados a remitir el acuerdo correspondiente, dentro de los doce días hábiles siguientes, al de la fecha en que reciban la prevención del Congreso;
 
-c) que sean oídos los Ayuntamientos de los municipios de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo municipio, quedando obligados a dar su informe dentro de doce días contados desde el día en que se les remita la comunicación relativa;
+d) Se escuchen las comunidades indígenas, que resultaren afectadas.
 
-d) que igualmente se oiga al Ejecutivo del Estado, el cual enviará su informe dentro de doce días contados desde la fecha en que le sea pedido;
+La ley determinará los términos en los cuales se ejercerá este derecho;
 
-e) que sea votada la erección del nuevo municipio por las tres cuartas partes de los Diputados que forman el Congreso.
+e) Se tome el parecer del Ejecutivo del Estado, en los términos y condiciones dispuestos en el inciso c) de esta fracción, y
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+f) La creación del nuevo municipio, se acuerde con el voto de las dos terceras partes de los integrantes del Congreso.
 
-II.- arreglar definitivamente los límites de los municipios, terminando las diferencias que entre ellos se susciten sobre demarcación de sus respectivos territorios;
+Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un núcleo poblacional a otro municipio, se estará a lo dispuesto por la ley respectiva.
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
+II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -451,13 +457,15 @@ IV.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
-> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-VI.- Examinar, y en su caso aprobar, la cuenta pública del Ejercicio. Aprobar la Ley de Ingresos y el Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del Artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo, a más tardar el treinta de diciembre de cada año;
+VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos municipales, a más tardar el día treinta de diciembre de cada año.
 
-> <small>(REFORMADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+Determinar las bases, montos y plazos con que serán distribuidas las participaciones a los municipios, con arreglo a las Leyes respectivas. Atendiendo entre otros criterios, el esfuerzo recaudatorio; población y marginación;
 
-VII.- Señalar las contribuciones y otros ingresos que deban formar la hacienda municipal, procurando sean suficientes a cubrir las necesidades de los municipios, determinar anualmente, las bases, montos y plazos con que serán cubiertas las participaciones federales a los municipios; y revisar y aprobar en su caso las cuentas públicas municipales;
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
+VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobierno del Estado, de los Municipios y de los Organismos Autónomos;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -529,7 +537,7 @@ XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del 
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -595,33 +603,57 @@ XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tra
 
 XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XXXV.- expedir las bases generales de Policía y Buen Gobierno, a las que deberán sujetarse los Ayuntamientos en la formación de los Reglamentos respectivos;
+XXXV.- Expedir las leyes que establezcan las bases para la organización de la administración pública municipal.
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+Los ayuntamientos se sujetarán a dichas bases para la elaboración y aprobación de los bandos de policía y gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia, dentro de sus respectivas jurisdicciones;
 
-XXXVI.- Autorizar la enajenación o, el gravamen, de los bienes de los municipios; autorizar también, la celebración de convenios especiales entre el Estado libre y soberano de Yucatán y sus municipios, con objeto de que éstos presten a sus comunidades, con el concurso del Estado, los servicios públicos a que se refiere la fracción III del Artículo 115 de la Constitución General de la República y, asimismo, autorizar la celebración de contratos por los Ayuntamientos entre sí, para coordinarse y asociarse para los fines señalados en la propia fracción del numeral citado anteriormente;
+> <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
+
+XXXV Bis.- Formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
+XXXVI.- Expedir la ley que organiza y reglamenta la estructura y funcionamiento de los ayuntamientos, la que tendrá por objeto establecer lo dispuesto en los incisos b), c), d), y e) de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXXVII.- pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de trastorno o sublevación interior, la protección de los Poderes de la Unión;
 
+> <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
+
+XXXVII Bis.- Autorizar la celebración de los convenios de coordinación, dispuestos en el párrafo tercero del inciso i) fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
 XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XXXIX.- Conocer y resolver de las controversias que surjan entre el Ejecutivo y los Ayuntamientos del Estado, con motivo de los convenios de coordinación que celebren respecto de la Planeación del Desarrollo Integral del Estado;
+XXXIX.- Conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han desaparecido o suspender o revocar el mandato de alguno de sus miembros por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva, procediendo como disponga para estos casos la Ley Orgánica del Poder Legislativo del Estado de Yucatán y la Ley Orgánica de los Municipios del Estado;
+XL.- Declarar desaparecido un Ayuntamiento, así como revocar el mandato de sus integrantes, mediante el acuerdo de las dos terceras partes de los Diputados que integran el Congreso, previo el cumplimiento del procedimiento respectivo.
+
+Para el ejercicio de las facultades señaladas en esta fracción, se deberá garantizar en todo momento, que él Regidor afectado tenga oportunidad para ofrecer pruebas y alegar en su defensa;
+
+> <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
+
+XL Bis.- Designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:
+
+a) Provisional, si su designación se lleva a cabo en el lapso de los primeros seis meses del ejercicio de la gestión, y
+
+b) Definitivo, si se realiza con posterioridad al mencionado período de tiempo.
+
+Cada Concejo Municipal será conformado con un número de integrantes en proporción al número de habitantes, conforme a lo establecido en la ley de la materia. También estará investido de personalidad jurídica; con las facultades y atribuciones que las leyes determinen.
+
+Sus integrantes no podrán ser electos para el período constitucional inmediato;
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
+XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
 
 XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
@@ -629,25 +661,13 @@ XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva;
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XLIII Bis.- Convocar a elecciones extraordinarias cuando se declare nula la elección de un Ayuntamiento, en el plazo y términos que disponga la Ley Electoral y la convocatoria respectiva;
+XLIII Bis.- Convocar a elecciones extraordinarias, cuando se declare nula la elección de un Ayuntamiento, en el plazo y condiciones que dispongan las leyes aplicables, y la convocatoria respectiva;
 
-> <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
+XLIV.- (DEROGADA, D.O. 26 DE MAYO DE 2005)
 
-XLIV.- Suspender o revocar, según el caso y, por acuerdo de las dos terceras partes de sus integrantes, el mandato conferido al Presidente Municipal y/o a otro u otros regidores o miembros de los Ayuntamientos en lo particular ajustándose a cualesquiera de las causas previstas en la Ley de la materia, procediendo de inmediato a la designación del o de los substitutos correspondientes; se establece como requisito previo e indispensable para el ejercicio de las atribuciones señaladas en esta fracción y en la Fraccin (sic) XL procedente, que él o los regidores afectados, ante la Comisión Permanente de Legislación, puntos constitucionales y Gobernación del propio Congreso, tengan oportunidad suficiente para rendir las pruebas y ofrecer los alegatos que a sus intereses convengan, cuando las circunstancias así lo permitan a juicio de la mencionada comisión permanente;
-
-(REFORMADO PRIMER PARRAFO, D.O. 15 DE SEPTIEMBRE DE 1988) (F. DE E., D.O., 22 DE SEPTIEMBRE DE 1988)
-
-XLV.- Designar en los casos de suspensión o de declaración de desaparición de un Ayuntamiento en su totalidad, a tres personas que necesariamente deberán ser ciudadanos y vecinos del Municipio de que se trate, para integrar un Concejo Municipal, que se hará cargo del desempeño de las funciones del Ayuntamiento en cuestión, en una cualesquiera de las siguientes formas:
-
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
-
-a).- Provisional si su designación se lleva a cabo dentro del lapso de los primeros seis meses del ejercicio legal del Ayuntamiento al que substituya, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos y,
-
-> <small>(ADICIONADO, D.O. 2 DE FEBRERO 1984)</small>
-
-b).- Definitiva si su nombramiento se realiza con posterioridad al mencionado lapso. En ambos casos y mientas durante en su encargo, los concejos municipales estarán investidos de personalidad jurídica, para todos los efectos legales consiguientes y serán la autoridad que regirá en los Municipios que se designen, con el mismo caácter (sic) legal que los Ayuntamientos respectivos y (sic),
+XLV.- (DEROGADA, D.O. 26 DE MAYO DE 2005)
 
 > <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
 
@@ -833,7 +853,7 @@ II.- ser nativo del Estado y con vecindad no menor de un año inmediatamente ant
 
 III.- en caso de no ser nativo del Estado, tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADA, D.O.30 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
 
 IV.- tener treinta años cumplidos el día de la elección.
 
@@ -871,7 +891,7 @@ XII.- no ser Consejero ciudadano local o federal a menos que se separe de sus fu
 
 XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
 
-> <small>(REFORMADO, D.O.30 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 47.
 
@@ -947,7 +967,9 @@ Son facultades y obligaciones del Gobernador del Estado:
 
 I.- publicar y hacer cumplir las Leyes federales;
 
-II.- promulgar, publicar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa, a su exacta observancia;
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
+II.- Promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en su esfera administrativa, exacta observancia. Publicar los bandos y reglamentos que acuerden los ayuntamientos, siempre y cuando, éstos no cuenten con sus propios órganos de difusión oficial.
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
@@ -957,9 +979,13 @@ III.- nombrar y remover a los titulares de las dependencias que señala la Ley O
 
 III Bis.- Nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo.
 
-IV.- disponer de la Guardia Nacional y de la fuerza pública del Municipio en donde residiere habitual o transitoriamente;
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-V.- disponer de la fuerza pública de los otros municipios para la defensa del Estado y para conservar la tranquilidad y el orden público cuando éste se alterare;
+IV.- Disponer de la Guardia Nacional;
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
+V.- Disponer de las policías municipales, en aquellos casos que considere como causa de fuerza mayor, o alteración grave del orden público;
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
@@ -1053,7 +1079,7 @@ VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores de
 
 VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícitos o espectáculos inmorales.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 28 DE ENERO DE 1970)</small>
 
 ###### Artículo 57.
 
@@ -1179,7 +1205,7 @@ La imposición de las penas es propia y exclusiva de la autoridad judicial. La p
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 74.
 
@@ -1221,79 +1247,103 @@ VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendie
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los municipios, administrados por ayuntamientos de elección popular directa sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia, conforme a las bases siguientes:
+El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por un Presidente Municipal, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
 
-> <small>(REFORMADA, D.O. 24 DE ABRIL DE 1993)</small>
+El Ayuntamiento tendrá como fin principal, atender las necesidades sociales de sus habitantes dentro de su ámbito jurisdiccional, procurando el desarrollo integral y sustentable del municipio.
 
-I.- Los ayuntamientos entrarán en funciones el primer día del mes de julio siguiente a las elecciones y durarán en su encargo tres años;
+Se adoptará el principio de representación proporcional, como mecanismo complementario del sistema de mayoría relativa, para la elección de los integrantes de los ayuntamientos. La ley reglamentaria determinará el porcentaje de votación que deberán obtener los partidos políticos y la forma para la asignación de las regidurías de representación proporcional.
 
-II.- Se adopta el principio de representación proporcional como complemento del sistema de mayoría relativa para la elección de los integrantes de los ayuntamientos. Las leyes respectivas determinarán el porcentaje de la votación que deberán obtener los partidos políticos, así como las fórmulas electorales y procedimientos conforme a los que serán asignadas las regidurías de representación proporcional;
-
-III.- Las leyes correspondientes determinarán el número de regidores de mayoría relativa y de representación proporcional de acuerdo con la cifra de habitantes del Municipio.
-
-Por cada propietario se elegirá un suplente. Los regidores de mayoría relativa y los de representación proporcional, tendrán los mismos derechos y obligaciones;
-
-IV.- Uno de los regidores será electo con el carácter de Presidente Municipal y ejercerá las funciones del Ejecutivo Municipal. Los demás regidores desempeñarán las funciones que la ley les señale;
-
-V.- Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramientos o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
-
-VI.- Los ayuntamientos para la realización de sus fines asignarán los ramos de su administración a comisiones integradas por uno o más regidores y contarán con un sector paramunicipal constituido en los términos que establezcan las leyes respectivas; y
-
-VII.- La Ley establecerá los procedimientos para suplir las faltas temporales y definitivas de los regidores. Dicho cargo sólo es renunciable por las causas establecidas en la Ley Orgánica de los Municipios del Estado.
-
-> <small>(ADICIONADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 77.
 
-Para ser Regidor se requiere:
+Los municipios se organizarán administrativa y políticamente, conforme a las bases siguientes:
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Primera.- Los ayuntamientos entrarán en funciones, el primer día del mes de julio inmediato a su elección, y durarán en su encargo tres años.
 
-A) Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos.
+Segunda.- El Presidente Municipal, los regidores y el síndico, no podrán ser reelectos para el período constitucional inmediato. La misma prohibición aplica para los integrantes de los Concejos Municipales.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Tercera.- El primer regidor de la lista de candidatos electos por el principio de mayoría relativa, tendrá el carácter de Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndico. Todos los regidores desempeñarán las funciones que la ley respectiva les señale.
 
-B) Haber residido en el municipio como vecino del mismo 5 años inmediatamente anteriores al día de la elección. De ser nativo del propio municipio este plazo deberá reducirse a un año;
+Cuarta.- Los ayuntamientos estarán investidos de personalidad jurídica y administrarán libremente su hacienda, conforme lo disponga la ley respectiva.
 
-C) Tener dieciocho años cumplidos el día de la elección, con excepción del Regidor Presidente que deberá tener veintiún años;
+Quinta.- El Ayuntamiento, es el órgano de gobierno por excelencia en el municipio y creará las dependencias y entidades necesarias de la administración pública municipal, para el cumplimiento de sus atribuciones.
 
-D) Saber leer y escribir;
+La administración pública municipal será encabezada por el Presidente Municipal, y se regirá por los principios de imparcialidad, profesionalismo, eficiencia y permanencia; y será centralizada o descentralizada.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Sexta.- Los Presidentes Municipales rendirán ante el Ayuntamiento un informe anual sobre la administración municipal, el cual será realizado en forma pública y pormenorizada. Su incumplimiento será causa de responsabilidad.
 
-E) No ser ministro de culto religioso, salvo que se haya separado definitivamente 5 años antes del día de la elección.
+Séptima.- Los Presidentes Municipales tendrán la obligación al concluir su encargo de llevar a cabo el proceso de entrega recepción, al Ayuntamiento entrante, conforme a la ley respectiva. El incumplimiento de esta obligación será causa de responsabilidad.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Octava.- Las leyes correspondientes, determinarán el número de regidores de mayoría relativa y de representación proporcional, de acuerdo con el número de habitantes de cada municipio.
 
-F) No ser Gobernador del Estado ni Magistrado del Tribunal Superior de Justicia, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección.
+Por cada regidor propietario se elegirá a un suplente. Todos los regidores tendrán los mismos derechos y obligaciones. Si alguno de éstos dejare de desempeñar su cargo, será sustituido por su suplente. De no ser esto posible, lo será de entre los suplentes provenientes del mismo partido político.
 
-G) No estar en servicio activo en el Ejército Nacional, ni tener el mando de la corporación policíaca o gendarmería que corresponda al Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella; y
+Novena.- La Hacienda Pública Municipal se regirá por los principios de autonomía administrativa, libre ejercicio, transparencia y legalidad; y se formará con los rendimientos de los bienes que le pertenezcan; así como, con las contribuciones y otros ingresos que la legislatura, establezca a su favor.
 
-H) No haber sido sentenciado por la comisión de delitos intencionales.
+Décima.- Los ayuntamientos crearán conforme a sus posibilidades órganos de control interno.
 
-> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Décima Primera.- Para examinar los asuntos por ramo, presentar propuestas de solución, y vigilar la ejecución de las disposiciones y acuerdos del Ayuntamiento, se establecerán Comisiones Permanentes y Especiales, que serán electas en la primera sesión ordinaria que celebren los Ayuntamientos. Las Comisiones podrán integrarse de uno o más regidores.
 
-I) No ser Magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones 3 años antes de la fecha de la elección;
+La finalidad, el número, las atribuciones y las obligaciones de las Comisiones serán de acuerdo a las leyes y reglamentos respectivos.
 
-> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Décima Segunda.- Los municipios podrán celebrar convenios de coordinación, para el correcto ejercicio de sus funciones.
 
-J) No ser Consejero ciudadano local o federal a menos que se separe de sus funciones 3 años antes de la fecha de la elección; y
+Décima Tercera.- El Gobierno Municipal planeará su desarrollo integral, de manera democrática y a largo plazo. Los programas operativos respectivos, deberán ser acordes con dichos conceptos.
 
-> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+Décima Cuarta.- La prestación de los servicios municipales y la construcción de la obra pública, se regirán por los principios de máximo beneficio colectivo, transparencia, eficiencia, y participación ciudadana, de conformidad con esta Constitución y las leyes respectivas.
 
-K) Estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
+Décima Quinta.- Las funciones de calificación por infracciones a los ordenamientos administrativos municipales y de mediación para dirimir conflictos vecinales, serán ejercidas por los ayuntamientos. La Ley Reglamentaria establecerá la forma en que será designada la autoridad competente, sus requisitos de elegibilidad, facultades, duración y las demás para su buen funcionamiento.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+Décima Sexta.- En las comisarías que conforman los municipios del Estado habrá autoridades auxiliares del Ayuntamiento, las que serán electas mediante el voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad, dentro de los primeros noventa días siguientes a la toma de posesión del Ayuntamiento, conforme a los lineamientos establecidos por la ley del ramo.
+
+Décima Séptima.- La ley establecerá un sistema de medios de impugnación y resolución de controversias entre la autoridad y los particulares, en materia de lo contencioso administrativo municipal.
+
+Décima Octava.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 78.
 
-En los diversos centros de población del Municipio, se designarán, de acuerdo con la Ley correspondiente las autoridades auxiliares municipales que representen al Ayuntamiento.
+Para ser regidor o integrante de un Concejo Municipal, se requiere:
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco, en el ejercicio de sus derechos políticos y civiles, y con una residencia efectiva en el Municipio de que se trate, no menor de cinco años. La vecindad no se pierde por desempeñar los cargos de Diputado Federal, Senador de la República, o Gobernador del Estado, y Diputado Estatal, así como Funcionario Público Federal, o Estatal.
+
+De ser oriundo del propio municipio, éste plazo deberá reducirse a un año;
+
+II.- Tener dieciocho años cumplidos el día de la elección, con excepción del Presidente Municipal que deberá tener veintiún años;
+
+III.- Saber leer y escribir;
+
+IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;
+
+V.- No ser Gobernador del Estado ni Magistrado del Tribunal Superior de Justicia, durante el año calendario de la elección, a menos que se separe de sus funciones ciento veinte días antes de la elección;
+
+VI.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca alguna en el Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
+
+VII.- No haber sido sentenciado, por la comisión de delito doloso;
+
+VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
+
+IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
+
+X.- Estar inscrito en el Registro Federal del Electores y contar con Credencial para Votar vigente.
+
+Los cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación, y
+
+XI.- Para ser Síndico se requiere, además de lo anterior:
+
+a) Contar al día de la elección con el nivel escolar que establezca la ley, en cada caso, y
+
+b) No ser directivo de algún partido político, o haberlo sido, un año antes de la elección.
+
+Los síndicos tendrán el carácter de mandatarios de los ayuntamientos y desempeñarán las funciones que establezca la Ley.
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 79.
 
-Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Federal y sus disposiciones reglamentarias.
+Los Ayuntamientos estarán facultados para aprobar, de acuerdo con las bases normativas que establezca el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal, mismas que para tener vigencia deberán ser promulgadas por el Presidente Municipal y publicadas en la gaceta municipal; en los casos en que el municipio no cuente con ella, en el Diario Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
@@ -1301,63 +1351,81 @@ Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán p
 
 Todo servidor público de los ayuntamientos cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de las faltas, violaciones u omisiones en que incurra en ejercicio de los mismos, en los términos del Título Noveno de esta Constitución.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 81.
 
-La Ley de la materia establecerá los requisitos para la creación y fusión de municipios, modificación de su territorio, cambios de cabeceras municipales, los que serán resueltos por la Legislatura del Estado, en los términos del Artículo 30 de esta Constitución la que emitirá su resolución al respecto. El reconocimiento de nuevos centros de población y declaración de desaparición de localidades del Municipio, serán facultades del Ayuntamiento.
+La ley que organiza y reglamenta el funcionamiento de los ayuntamientos, establecerá un sistema de medios de impugnación en materia de lo contencioso administrativo, para dirimir las controversias que se presenten entre la administración pública municipal y los particulares; con sujeción a los principios de igualdad, publicidad, audiencia, legalidad, profesionalismo, gratuidad y proximidad. Los Municipios conforme a lo anterior, podrán contar con Tribunales de lo Contencioso Administrativo.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+Dichos organismos privilegiarán la conciliación como mecanismo de solución de controversias.
+
+En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere la presente fracción, el Tribunal de lo Contencioso Administrativo del Estado.
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 82.
 
-Las facultades y competencias del Municipio Libre, que se establezcan en las leyes respectivas y los reglamentos municipales, se sujetarán a las bases normativas siguientes:
+La ley que reglamenta el funcionamiento y organización de los ayuntamientos, contendrá los lineamientos siguientes:
 
-I.- Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio, conforme a la Ley;
+I.- Los municipios manejarán su patrimonio conforme a la ley. Para afectarlo, requerirán el voto de las dos terceras partes de los integrantes del Ayuntamiento, en los casos siguientes:
 
-II.- Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que le pertenezcan, así como de los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y todos los demás ingresos fiscales que la Legislatura establezca en su favor, y en todo caso:
+a) Para la realización de cualquier acto que implique la enajenación de bienes del patrimonio inmobiliario, y
 
-a) Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
+b) La desincorporación de algún bien de dominio público y su conversión al dominio privado.
 
-Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones.
+II.- Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán su proyecto a la legislatura local, a más tardar el día treinta de noviembre de cada año;
 
-b) Las participaciones federales, que anualmente se determinen.
+III.- Los presupuestos de egresos serán aprobados por los ayuntamientos con base a sus ingresos disponibles;
 
-c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
+IV.- Los Ayuntamientos percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los estados sobre la propiedad inmobiliaria, de su funcionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio del valor de los inmuebles;
 
-III.- Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones
+V.- También percibirán ingresos por participaciones, aportaciones de los otros niveles de gobierno, ingresos por la prestación de servicios públicos a su cargo, donaciones, subsidios y los demás que determine a su favor el Congreso del Estado;
 
-IV.- Para el cobro de sus percepciones fiscales los ayuntamientos tendrán la facultad económico-coactiva aplicando el procedimiento administrativo de ejecución en los términos que establezca el Código Fiscal del Estado;
+VI.- Los municipios cuando fuere necesario, podrán celebrar convenios con el Gobierno del Estado, para que éste se haga cargo de la administración de contribuciones y los demás ingresos que se consideren;
 
-V.- Los presupuestos de egreso (sic)serán aprobados por los ayuntamientos con base en sus ingresos disponibles;
+VII.- En materia de participación ciudadana, como forma de expresión social, la ley reglamentará su implementación a través de la iniciativa popular, el plebiscito y el referéndum, entre otras;
 
-VI.- Para la aprobación de la Ley de Ingresos de los ayuntamientos, éstos enviarán sus proyectos a la Legislatura local.
+VIII.- Las leyes no establecerán exenciones o subsidios en favor de persona alguna, respecto de contribuciones municipales. Sólo los bienes del dominio público, estarán exentos de dichas contribuciones, salvo que se utilicen por entidades paraestatales, o los particulares, bajo cualquier título, para fines administrativos distintos a los de su objeto público;
 
-> <small>(F. DE E., D.O., 22 DE SEPTIEMBRE DE 1988)</small>
+IX.- Para el cobro de sus percepciones fiscales, los ayuntamientos tendrán la facultad económico-coactiva, aplicando el procedimiento administrativo de ejecución, en los términos que establezca el Código Fiscal del Estado;
 
-Para la revisión de las cuentas públicas de los ayuntamientos éstos presentarán esas cuentas anualmente a la Legislatura, acompañadas del Presupuesto de Egreso aprobado, con la documentación que acredite las erogaciones y en su caso, con el avance de las metas propuestas en el Plan Municipal y en los Programas Operativos Anuales;
+X.- La remisión de las cuentas públicas de los ayuntamientos deberá hacerse al Órgano de Fiscalización mensualmente, acompañando toda la documentación que acredite sus erogaciones y en su caso, el avance de las metas propuestas en el Plan Municipal y en los Programas Operativos. Dichas cuentas serán aprobadas semestralmente por el Congreso del Estado;
 
-VII.- Contraer obligaciones económicas para las necesidades públicas en obras de utilidad general que puedan ser satisfechas dentro de su período constitucional; si los vencimientos de las mismas son posteriores a su gestión, deberán recabar previamente la autorización del Congreso del Estado;
+XI.- Celebrar actos, convenios o empréstitos que comprometan al municipio por un plazo mayor al período de su gestión gubernamental, siempre que éstos fueren aprobados por las dos terceras partes de los integrantes del Ayuntamiento respectivo, sujetándose a las modalidades que establezcan las leyes, y
 
-VIII.- Organizar un sistema de planeación integral de desarrollo municipal, con la participación democrática de los grupos sociales.
+XII.- Resolver los asuntos que conciernan exclusivamente al municipio; y las demás que las leyes le confieran.
 
-Una vez aprobado por el Ayuntamiento el Plan Municipal y los programas que de él se deriven serán obligatorios para toda la administración municipal en el ámbito de sus respectivas competencias;
-
-IX.- Acordar sobre todos los asuntos que conciernan exclusivamente al Municipio;
-
-X.- Nombrar y remover a todos los empleados de su dependencia y cubrir los emolumentos de los Jueces de Paz del Municipio;
-
-XI.- Hacer uso del derecho de iniciar leyes;
-
-XII.- Ejercer las funciones que les encomienda, en materia de cultos, el párrafo once del artículo 130 de la Constitución Federal; y
-
-XIII.- Las demás que le confiera esta Constitución.
-
-(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988) (F. DE E., D.O., 22 DE SEPTIEMBRE DE 1988)
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 83.
 
-Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+Los Municipios, a través de sus Ayuntamientos, y de conformidad con los acuerdos aprobados por los mismos, en los términos de las leyes Federales y Estatales, tendrán las siguientes facultades:
+
+I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+II.- Participar en la creación y administración de sus reservas territoriales;
+
+III.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado junto con la Federación elabore proyectos de desarrollo regional deberán asegurar la participación de los municipios que resultaren involucrados;
+
+IV.- Autorizar, controlar y vigilar el uso del suelo en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+V.- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+VI.- Otorgar licencias y permisos para construcciones;
+
+VII.- Participar en la creación y administración de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial;
+
+IX.- Celebrar convenios para la administración y custodia de las zonas federales;
+
+X.- Formular y conducir la politica ambiental en el ámbito de su competencia;
+
+XI.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XII.- Ejercer las funciones que le encomienda la Ley en materia de culto público, y
+
+XIII.- Las demás que le confiera esta Constitución y las leyes.
 
 > <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
@@ -1365,37 +1433,85 @@ Los municipios, en los términos de las leyes federales y estatales relativas, e
 
 Cuando dos o más centros urbanos situados en territorios de distintos municipios formen o tiendan a formar una continuidad demográfica el Estado y los municipios respectivos, en el ámbito de sus competencias planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 85.
 
-Los municipios, con el concurso del Estado, cuando así fuere necesario y lo determinen las leyes, organizarán y tomarán a su cargo la administración, funcionamiento, conservación, explotación de sus servicios públicos considerándose enunciativa y no limitativamente como tales, las siguientes:
+Los municipios del Estado, previo acuerdo entre los ayuntamientos, podrán coordinarse y asociarse entre sí, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
 
-I.- Agua potable y alcantarillado;
+Podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
+
+Tratándose de asociación con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso.
+
+> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
+
+###### Artículo 85 Bis.
+
+Los municipios tendrán a su cargo de manera exclusiva en el ámbito de sus respectivas jurisdicciones, las siguientes funciones y servicios públicos:
+
+I.- Agua Potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
 II.- Alumbrado público;
 
-III.- Limpia y recolección de basura;
+III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
-IV.- Mercados y centrales de abasto;
+IV.- Mercados y Centrales de Abasto;
 
 V.- Panteones;
 
 VI.- Rastro;
 
-VII.- Calles, parques y jardines;
+VII.- Calles, parques y jardines y su equipamiento;
 
-VIII.- Seguridad pública y tránsito;
+VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos del Reglamento correspondiente;
 
-IX.- Nomenclatura.
+IX.- El servicio público y privado de transporte de personas y de carga;
 
-Los municipios de un mismo Estado, previo acuerdo entre sus ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+X.- El Catastro, y
+
+XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.
+
+Por acuerdo de las dos terceras partes de sus integrantes, los ayuntamientos podrán convenir que el Gobierno del Estado se haga cargo temporalmente de alguno de los servicios que son de su competencia exclusiva o que éstos se presten de manera coordinada. Los convenios no podrán exceder del período constitucional del Ayuntamiento, pudiendo ser renovados hasta que el municipio esté en aptitud de asumir su competencia exclusiva, reservándose al municipio, en todo caso, la facultad reglamentaria en la materia del servicio de que se trate.
+
+> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
+
+###### Artículo 85 Ter.
+
+Los municipios, en el ámbito de sus respectivas jurisdicciones, concurrirán con las autoridades estatales y federales, de acuerdo con lo que establezcan las leyes respectivas, en las siguientes materias:
+
+I.- Salud;
+
+II.- Educación;
+
+III.- Población;
+
+IV.- Preservación y promoción de los derechos y desarrollo integral de la etnia maya;
+
+V.- Patrimonio y promoción cultural;
+
+VI.- Regulación y fomento al deporte;
+
+VII.- Protección Civil;
+
+VIII.- Turismo;
+
+IX.- Protección al medio ambiente;
+
+X.- Planeación del Desarrollo Regional;
+
+XI.- Creación y Administración de Reservas Territoriales;
+
+XII.- Desarrollo Económico, en todas sus vertientes, y
+
+XIII.- Desarrollo Social.
+
+Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de que éstos asuman alguna de las funciones o los servicios cuya responsabilidad sea originaria del Estado, trasladándose a favor del municipio los medios para su adecuada prestación así como la contraprestación a cargo de los usuarios del servicio o función de que se trate.
 
 (REFORMADA SU DENOMINACION, D.O. 31 DE MARZO DE 1988) (F. DE E., D.O. 5 DE ABRIL DE 1988)
 
 ## TITULO DECIMO. Disposiciones generales
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 86.
 
@@ -1593,7 +1709,7 @@ El procedimiento de Juicio Político sólo podrá iniciarse durante el período 
 
 ###### Artículo 102.
 
-Las facultades que no están expresamente concedidas por la Constitución General, a los funcionarios federales, y por esta Constitución a los del Estado, se entienden reservadas a los municipios.
+Las facultades que no están expresamente concedidas por la Constitución Política de los Estados Unidos Mexicanos a los municipios, se entienden reservadas al Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1613,7 +1729,7 @@ Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o deter
 
 Todo funcionario o empleado público del Estado o de los municipios, sin excepción alguna, antes de tomar posesión de su encargo, prestará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardando y haciendo guardar sin reserva alguna, la Constitución General de la República, así como la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el artículo 67 de esta Constitución.
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 27 DE ENERO DE 1976)</small>
 
 ###### Artículo 106.
 
@@ -1625,15 +1741,27 @@ La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios 
 
 Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de la ejecución de obras públicas, serán dados a conocer, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública, en la cual los contratos se adjudicarán en subasta.
 
-> <small>(ADICIONADO, D.O. 10 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
-El Estado y los Municipios podrán convenir y asumir la responsabilidad, en el ejercicio de sus funciones, de la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario, en los términos de la Ley de la materia.
+El Estado y los Municipios podrán asumir, mediante los convenios respectivos la responsabilidad, de la ejecución y operación de obras y prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario, en los términos de la ley de la materia. De conformidad a lo establecido en el Título Séptimo, y en el artículo 104 del Título Décimo, de esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 108.
 
 La presente Constitución puede ser adicionada y reformada. Para que las adiciones y reformas lleguen a ser parte de la Constitución, se requiere que el Congreso del Estado las apruebe por el voto de las dos terceras partes del número total de Diputados.
+
+> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
+
+Para que las reformas relacionadas con el municipio formen parte de ésta Constitución, será necesaria la aprobación de la mayoría de los Ayuntamientos, en un plazo no mayor de noventa días naturales, contados a partir del día siguiente a aquel en que reciban el proyecto de minuta.
+
+> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
+
+Transcurrido el plazo fijado con anterioridad, y sin que el o los Ayuntamientos se hayan pronunciado, se entenderá como aprobado el proyecto de minuta.
+
+> <small>(ADICIONADO, D.O. 26 DE MAYO DE 2005)</small>
+
+El Congreso o la Diputación Permanente, harán en su caso, el cómputo de los votos emitidos por los ayuntamientos y la declaratoria correspondiente.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2160,3 +2288,31 @@ Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adici
 ###### ARTÍCULO TERCERO.
 
 La educación preescolar será obligatoria en todo el territorio del Estado de Yucatán, a más tardar para el ciclo escolar 2008-2009, y habrá de universalizarse con calidad, la prestación de este servicio educativo, conforme a lo dispuesto en el Artículo Quinto Transitorio, del Decreto publicado en el Diario Oficial de la Federación en fecha 12 de noviembre de 2002.
+
+D.O. 26 DE MAYO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas aquellas disposiciones del presente Decreto, que requieran para su cumplimiento la regulación de la ley que organiza y reglamenta a los Ayuntamientos del Estado, entrarán en vigor una vez expedida y (sic) publicada las reformas a dicha ley, lo cual deberá realizarse antes del primero de enero de 2006.
+
+Las demás disposiciones legales que requieran ser adecuadas, deberán ser expedidas y publicadas en forma subsecuente.
+
+###### ARTÍCULO TERCERO.
+
+Las fechas de presentación al Congreso, de las respectivas leyes de ingresos municipales, dispuesto (sic) en este Decreto, aplicarán a partir del Ejercicio Fiscal 2007.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos no podrán celebrar los actos, convenios o empréstitos, que comprometan el patrimonio municipal, más allá del período de gestión y hasta en tanto, no se establezcan las modalidades reglamentarias que precisen su alcance.
+
+###### ARTÍCULO QUINTO.
+
+Para los efectos de lo dispuesto por el párrafo segundo del Artículo 108 de esta Constitución, por esta única vez, los municipios no formarán parte del Constituyente Permanente, instituido en la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso atendiendo a lo dispuesto en los artículos primero y segundo transitorios, a través de la Gran Comisión, implementará mecanismos de difusión sobre los alcances de la presente reforma, entre los demás Poderes, las autoridades municipales, instituciones académicas, de profesionales y otras de la sociedad organizada; con el propósito de contar con dicho ordenamiento reglamentario en lo que queda del presente año.
