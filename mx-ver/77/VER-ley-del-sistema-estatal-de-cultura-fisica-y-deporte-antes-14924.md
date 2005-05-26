@@ -4,7 +4,7 @@ identifier: "VER-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-antes-14924
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "2003-12-29"
+last_updated: "2005-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL SISTEMA ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de agosto de 1999.
 
@@ -95,13 +95,15 @@ XVII. Otorgar apoyo económico a los deportistas destacados para que asistan a l
 
 XVIII. Las demás que le atribuyan las leyes y reglamentos, o que le confiera el titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 5.
 
-La actividad deportiva de orden profesional no queda comprendida dentro del Sistema Estatal del Deporte, pero el Ejecutivo del Estado asignará apoyos a equipos deportivos profesionales que sean de propiedad estatal, así como a aquellos que por su amplio reconocimiento social entre los habitantes del estado, fomenten la difusión de la cultura y práctica deportivas.
+Quedan excluidas del Sistema Estatal del Deporte, las actividades deportivas del orden profesional y las actividades de promoción, organización, desarrollo y participación en materia de deporte que se realicen con ánimo de lucro.
 
-Los deportistas profesionales que deseen participar en competencias internacionales con representación estatal oficial, así como en los nacionales de carácter preparatorio, eliminatorio y selectivo para obtener dicha representación podrán inscribirse en el Sistema. Dichos deportistas deberán cumplir con las disposiciones reglamentarias para tales competencias.
+Podrán inscribirse en el Sistema los deportistas profesionales que deseen participar en competencias nacionales e internacionales que representen oficialmente el deporte del Estado y aquellas que se realicen sin ánimo de lucro.
+
+Dichos deportistas deberán cumplir con las disposiciones reglamentarias para tales competencias.
 
 ###### Artículo 6.
 
@@ -676,3 +678,9 @@ G.O. 29 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 MAYO DE 2005.
+
+Primero. El presente Decreto entrará en vigor tres días posteriores de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
