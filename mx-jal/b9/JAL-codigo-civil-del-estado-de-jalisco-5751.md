@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2004-10-21"
+last_updated: "2005-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -16507,9 +16507,11 @@ Son incapaces de heredar, a los habitantes del Estado, los extranjeros que, seg�
 
 La herencia o legado que se deje a un establecimiento público, imponiéndose algún gravamen o bajo alguna condición, sólo serán válidos si la instancia gubernamental los aprueba.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2005)</small>
+
 ###### Art. 2971.
 
-Las disposiciones testamentarias hechas en favor de la beneficencia se regirán por la ley del organismo titular de la asistencia social en el Estado. Las hechas en favor de los pobres en general, o de clases formadas por número ilimitado de beneficiarios, tales como huérfanos, los ancianos o los ciegos, sin especificar a personas determinadas, se entenderán hechas a la asistencia social para los fines de sus funciones y, las hechas en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en el artículo 27 de la Constitución Federal.
+Las disposiciones testamentarias hechas a favor de la beneficencia se regirán por la ley del organismo titular de la asistencia social en el Estado. Las hechas a favor de los pobres en general, o de clases formadas por número ilimitado de beneficiarios, tales como huérfanos, los ancianos o los ciegos, sin especificar a personas determinadas, se entenderán hechas a la asistencia social para los fines de sus funciones y, las hechas a favor de las iglesias, asociaciones religiosas, agrupaciones religiosas o culto público, se sujetarán a lo dispuesto en el artículo 27 y 130 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
 ###### Art. 2972.
 
@@ -17566,3 +17568,7 @@ P.O. 21 DE OCTUBRE DE 2004.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se emite la siguiente declaración Estatal de los Derechos de la Familia, instruyéndose a la Secretaría General del Congreso del Estado de Jalisco para que proceda a su impresión, enviándose a las autoridades competentes, estatales y municipales, con el fin de que participen en la difusión de esta declaratoria entre la sociedad.
+
+P.O. 26 DE MAYO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor treinta días después de su publicación.
