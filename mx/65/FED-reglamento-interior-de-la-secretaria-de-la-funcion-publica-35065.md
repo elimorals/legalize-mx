@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-3506
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-12"
-last_updated: "2004-09-02"
+last_updated: "2005-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35065&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-12-11"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 27 DE MAYO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el viernes 12 de diciembre de 2003.
 
@@ -1874,3 +1876,21 @@ SÉPTIMO.- Los recursos humanos, financieros y materiales con que cuente la Comi
 OCTAVO.- Los derechos de los trabajadores de la Comisión de Avalúos de Bienes Nacionales, serán respetados conforme a la legislación laboral aplicable.
 
 NOVENO.- Los inmuebles federales destinados a la Secretaría para uso de la Comisión de Avalúos de Bienes Nacionales, continuarán destinados a esa dependencia para el servicio del Instituto de Administración y Avalúos de Bienes Nacionales.
+
+D.O.F. 27 DE MAYO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública de 11 de diciembre de 2003, publicado en el Diario Oficial de la Federación el día 12 del mismo mes y año y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los asuntos pendientes al entrar en vigor este Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, se resolverán y tramitarán por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia en el presente ordenamiento.
+
+CUARTO.- Los cambios de denominación de las unidades administrativas o la creación de nuevas unidades administrativas en la estructura de la dependencia, en los términos de este Decreto, no implicarán la creación de un nuevo puesto cuando los puestos-plazas con que se integren sus estructuras se encuentren autorizados conforme a las disposiciones normativas vigentes y sus ocupantes hayan ingresado al servicio de la Secretaría antes de la entrada en vigor del Reglamento de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+QUINTO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto no se modifiquen o dejen sin efectos.
+
+SEXTO.- La Oficialía Mayor de la Secretaría de la Función Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SÉPTIMO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Secretaría de la Función Pública, se deberán realizar mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
