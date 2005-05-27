@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-propiedad-en-condominio-para-el-estado-de-guerrero-26361
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2002-12-13"
+last_updated: "2005-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NUMERO 557
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 13 de diciembre de 2002.
 
@@ -37,13 +37,17 @@ LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NUMERO 557
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y tiene por objeto regular la constitución, modificación, organización, funcionamiento, administración y extinción del régimen de propiedad en condominio.
+Las disposiciones de esta Ley son de orden público e interés social y tiene por objeto regular la constitución, modificación, organización, funcionamiento, administración y extinción del régimen de propiedad en condominio que se encuentre ubicado en el Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
 
 ###### ARTICULO 2.
 
-Los derechos y obligaciones de los condóminos se regirán por las disposiciones de la escritura constitutiva del régimen correspondiente, de la presente Ley, del contrato de traslación de dominio, del Reglamento del Condominio y demás ordenamientos legales aplicables.
+Los derechos y obligaciones de los Condóminos propietarios fideicomisarios, depositarios legales y sus causahabientes, se regirán por las disposiciones de la presente Ley, de la Escritura Constitutiva del régimen respectivo, del contrato de traslación de dominio o derechos fideicomisarios y del Reglamento del Condominio que no se opongan a esta ley y demás ordenamientos aplicables.
 
 ###### ARTICULO 3.
 
@@ -121,7 +125,9 @@ VIII.- La descripción de los bienes de propiedad común, destino, especificacio
 
 IX.- Los casos y condiciones en que pueda ser modificada la escritura constitutiva del régimen y el Reglamento del Condominio;
 
-X.- La obligación de los condóminos de garantizar el pago de las cuotas correspondientes a los fondos de administración y mantenimiento así como el de reserva; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2005)</small>
+
+X.- La obligación de los condóminos de garantizar el pago de las cuotas correspondientes a los fondos de administración y mantenimiento así como el de reserva.
 
 Al apéndice de la escritura se agregarán, en copias certificadas, las licencias y/o permisos de construcción, el plano general, la memoria técnica, la tabla de indivisos; los planos de las instalaciones hidráulicas, eléctricas, estructurales, gas y áreas comunes; el deslinde, avalúo catastral y el Reglamento del Condominio.
 
@@ -187,11 +193,11 @@ La formalización de los actos y contratos en los que se haga constar la constit
 
 ### CAPITULO I. DEL CONDOMINO Y SU PROPIEDAD EXCLUSIVA
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 20.
 
-Se entiende por condómino a la persona física o moral que es propietario de una o más unidades de propiedad exclusiva.
-
-El condómino tendrá derecho singular y exclusivo sobre su unidad de propiedad exclusiva y derechos de copropiedad sobre los elementos y partes del condominio que en la escritura constitutiva se consideren comunes en proporción a su pro-indiviso.
+Se entiende por condómino a la persona física o moral que ostenta derechos reales, es propietario o fideicomisario de una o más unidades de propiedad exclusiva, este último siempre y cuando sea fideicomisario en primer lugar.
 
 ###### ARTICULO 21.
 
@@ -323,9 +329,11 @@ Cuando por necesidades del desarrollo urbano se requiera el cambio de uso del su
 
 ### CAPITULO I. DE LA ASAMBLEA GENERAL DE CONDOMINOS
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 38.
 
-La Asamblea es el órgano supremo del condominio, está integrada por todos los condóminos para plantear, discutir y resolver asuntos de interés común, y en su caso, del interés de cualquiera de los condóminos.
+La asamblea es el órgano supremo del condominio, está integrada por todos los condóminos para plantear, discutir y resolver asuntos de interés común, y en su caso, del interés de cualquiera de los condóminos, siendo el lugar oficial de su residencia el de la ciudad o territorio de ubicación del condominio o unidad condominal.
 
 ###### ARTICULO 39.
 
@@ -377,9 +385,13 @@ Si el acuerdo de la Asamblea General modifica la escritura constitutiva del cond
 
 Las convocatorias para la celebración de Asambleas Generales se harán de acuerdo a las siguientes disposiciones:
 
-I.- La convocatoria deberá indicar el tipo de asamblea de que se trate; fecha, hora y lugar en donde se realizará dentro del condominio o en su caso, el establecido por el Reglamento; incluirá asimismo el orden del día y quien convoca;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2005)</small>
 
-II.- Los condóminos o sus representantes serán notificados en forma personal, por escrito o correo en el lugar que para tal efecto hayan señalado ante la administración. El convocante fijará la convocatoria en uno o más lugares visibles del condominio previamente establecidos en el Reglamento del Condominio y que harán las veces de cédula de notificación;
+I.- La convocatoria deberá indicar el tipo de asamblea de que se trate; fecha, hora y lugar en donde se realizará dentro del condominio o unidad condominal e incluirá asimismo el orden del día y quien convoca;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2005)</small>
+
+II.- Los condóminos o sus representantes serán notificados en forma personal, por escrito o correo en el lugar que para tal efecto hayan señalado ante la administración. El convocante fijará la convocatoria en uno o más lugares visibles del condominio;
 
 III.- Podrán ser convocadas por:
 
@@ -393,7 +405,9 @@ IV.- Cuando la asamblea se celebre en virtud de la primera convocatoria, se requ
 
 El Reglamento del Condominio fijará los plazos que deberán transcurrir entre cada una de las convocatorias y de éstas con la celebración de sus respectivas asambleas, pero en ningún caso el plazo entre la primera convocatoria y la celebración de la asamblea deberá ser menor de siete días naturales. Entre la segunda convocatoria y la celebración de la asamblea respectiva deberá mediar el plazo de un día por lo menos; entre la tercera convocatoria y su celebración mediarán doce horas de anticipación, por lo menos;
 
-V.- En caso de suma urgencia, se elaborarán las convocatorias para la asamblea con la anticipación que las circunstancias lo exijan, quedando sujetas en lo demás a las disposiciones de esta Ley y el Reglamento del Condominio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2005)</small>
+
+V.- En caso de suma urgencia, se elaborarán las convocatorias para la Asamblea Extraordinaria con la anticipación que las circunstancias lo exijan, quedando sujetas en lo demás a las disposiciones de esta Ley y el Reglamento del Condominio;
 
 VI.- Cuando por la importancia del o los asuntos a tratar en la asamblea se considere necesario podrá, el administrador o cuando menos el 25% de los condóminos, solicitar la presencia de un Notario Público; y
 
@@ -411,7 +425,9 @@ III.- Fijar la remuneración relativa al administrador;
 
 IV.- Precisar las obligaciones y facultades del administrador frente a terceros y los necesarios respecto de los condóminos, de acuerdo a la escritura constitutiva y al Reglamento del Condominio;
 
-V.- Establecer las cuotas a cargo de los condóminos, determinando para ello el sistema o forma de cobro que considere más adecuado y eficiente de acuerdo a las características del condominio. Así como fijar las tasas moratorias que deberán cubrir los condóminos en caso de incumplimiento del pago de cuotas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2005)</small>
+
+V.- Establecer las cuotas a cargo de los condóminos, determinando para ello el sistema o forma legal de cobro que considere más adecuado y eficiente de acuerdo a las características del condominio. Así como fijar las tasas moratorias de interés mensual no compuesto sobre saldos insolutos que no excederán de veinticuatro por ciento anual;
 
 VI.- Nombrar y remover al Comité de Vigilancia;
 
@@ -547,9 +563,11 @@ Para la elección de los miembros del Comité de Administración de un conjunto 
 
 #### SECCION SEGUNDA. DEL COMITE DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 57.
 
-Los condominios deberán contar con un Comité de Vigilancia integrado por dos o hasta cinco condóminos, dependiendo del número de unidades de propiedad exclusiva, designándose de entre ellos un Presidente y de uno a cuatro vocales sucesivamente, mismos que actuarán de manera colegiada. Una minoría que represente por lo menos el 25% del número total de condóminos tendrá derecho a designar a uno de los vocales.
+Los condominios deberán contar con un Comité de Vigilancia integrado por dos o hasta cinco condóminos, dependiendo del número de unidades de propiedad exclusiva, designándose de entre ellos un presidente que tenga residencia efectiva en el condominio, y de uno a cuatro vocales sucesivamente, mismos que actuarán de manera colegiada. Una minoría que represente por lo menos el 25 por ciento del número total de condóminos tendrá derecho a designar a uno de los vocales.
 
 ###### ARTICULO 58.
 
@@ -687,7 +705,9 @@ Las cuotas para gastos comunes que se generen a cargo de cada unidad de propieda
 
 Lo anterior, independientemente de las sanciones a que se hagan acreedores los condóminos con motivo de incumplimiento en el pago.
 
-El estado de liquidación de adeudos, intereses moratorios y pena convencional que estipule el Reglamento del Condominio trae aparejada acción en la vía ejecutiva civil, si va suscrita por el administrador y el presidente del Comité de Vigilancia acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por el Notario Público, del acta de Asamblea General relativa y del Reglamento del Condominio, en caso de que se hayan determinado las cuotas a cargo de los condóminos para los fondos de mantenimiento y administración y de reserva. Esta acción sólo podrá ejercerse cuando existan tres cuotas ordinarias o una extraordinaria pendientes de pago.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
+
+El estado de liquidación de adeudos, intereses moratorios y pena convencional estipulada trae aparejada acción en la vía ejecutiva civil, si va suscrita por el administrador y el Presidente del Comité de Vigilancia acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por el Notario Público, del acta de Asamblea General relativa y del Reglamento del Condominio, en caso de que se hayan determinado las cuotas a cargo de los condóminos para los fondos de mantenimiento y administración y de reserva. Esta acción sólo podrá ejercerse cuando existan tres cuotas ordinarias o dos extraordinarias pendientes de pago.
 
 ###### ARTICULO 71.
 
@@ -781,9 +801,13 @@ Si se optare por la extinción total del régimen de conformidad con las disposi
 
 ### CAPITULO I. DE LAS CONTROVERSIAS
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2005)</small>
+
 ###### ARTICULO 85.
 
 Las controversias que se susciten por la interpretación y aplicación de esta Ley, de las escrituras constitutivas o de las traslativas de dominio, del Reglamento del Condominio, de las resoluciones de la Asamblea General y de las demás disposiciones legales aplicables, serán resueltas por la autoridad judicial competente.
+
+En caso de controversia pendiente de resolverse sobre la titularidad de los derechos reales o fideicomisarios del o de los condóminos o medie juicio ejecutivo sobre los mismos, se reconocerá al primer condómino o en el título del depositario legal de la unidad condominal (departamento, casa o terreno bajo el régimen de Condominio) hasta en tanto no se resuelva.
 
 ### CAPITULO II. DE LAS SANCIONES
 
@@ -826,3 +850,11 @@ C. ERNESTO SANDOVAL CERVANTES
 DIPUTADO SECRETARIO DIPUTADO SECRETARIO
 
 C. OSCAR IGNACIO RANGEL MIRAVETE C. JUAN ADAN TAVARES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 27 DE MAYO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los condominios o conjuntos condominales tendrán un plazo de ciento ochenta días a partir de que entren en vigor las reformas a esta Ley, para que de considerarlo conveniente adecuar su escritura constitutiva y su respectivo Reglamento.
