@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2005-05-06"
+last_updated: "2005-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -166,7 +166,9 @@ IV. A la Secretaría del Medio Ambiente:
 
 6. Dirección General de Bosques Urbanos y Educación Ambiental.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado Sistema de Aguas de la Ciudad de México.
 
 V. A la Secretaría de Obras y Servicios:
 
@@ -1196,7 +1198,7 @@ II. Planear, programar, organizar, dirigir, controlar y evaluar, el desempeño d
 
 III. Supervisar el desempeño de las labores encomendadas a Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritos a ellos, conforme a los planes y programas que establezca el titular de la Dependencia correspondiente;
 
-IV. Recibir en acuerdo ordinario a los Directores de Area y Subdirectores y, en acuerdo extraordinario, a cualquier otro servidor público subalterno;
+IV. Recibir en acuerdo ordinario a los Directores de Área y Subdirectores y, en acuerdo extraordinario, a cualquier otro servidor público subalterno;
 
 V. Formular dictámenes, opiniones e informes que le sean solicitados por la Dependencia o Subsecretaría, Tesorería del Distrito Federal o Procuraduría Fiscal del Distrito Federal a la que estén adscritos, o por cualquier otra Dependencia, Unidad Administrativa y Órgano Desconcentrado de la Administración Pública, en aquellos asuntos que resulten de su competencia;
 
@@ -2876,7 +2878,7 @@ VII. Normar, coordinar, integrar y recabar de las Dependencias, Unidades Adminis
 
 > <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2003)</small>
 
-VIII. Recabar de las Dependencias, Unidades Administrativas, Organos Desconcentrados y Entidades de la Administración Pública la documentación necesaria para la integración de la Cuenta Pública del Distrito Federal, conforme a la normatividad y plazos establecidos, y
+VIII. Recabar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública la documentación necesaria para la integración de la Cuenta Pública del Distrito Federal, conforme a la normatividad y plazos establecidos, y
 
 IX. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
@@ -2988,7 +2990,7 @@ X. Analizar la información de los padrones y las bases de datos fiscales;
 
 XI. Integrar y analizar la información de ingresos para cumplimentar las obligaciones de informar a los órganos de control presupuestal;
 
-XII. (DEROGADO, G.O. 21 DE MAYO DE 2002)
+XII. (DEROGADA, G.O. 21 DE MAYO DE 2002)
 
 XIII. Analizar la política de ingresos, a efecto de identificar y proponer lineamientos y directrices de financiamiento del gasto;
 
@@ -4796,7 +4798,7 @@ VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y docum
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE MAYO DE 2002)</small>
 
-###### Articulo 109.
+###### Artículo 109.
 
 Corresponde a la Dirección de Situación Patrimonial:
 
@@ -6210,7 +6212,7 @@ XIV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en e
 
 XV. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
 
-XVI. Vigilar al interior de la demarcación territorial del Órgano Político-Administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo Nacional de Población, rindiendo un informe al titular del Organo Político-Administrativo;
+XVI. Vigilar al interior de la demarcación territorial del Órgano Político-Administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo Nacional de Población, rindiendo un informe al titular del Órgano Político-Administrativo;
 
 XVII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
 
@@ -6380,7 +6382,7 @@ XII. Brindar en la medida de sus posibilidades, los apoyos logísticos necesario
 
 XIII. Promover la participación ciudadana en los programas de gobierno, mediante el "voluntariado" y los comités vecinales, en el ámbito de sus competencias;
 
-XIV. Distribuir a los comités vecinales la información de interés público generada por las diferentes áreas sustantivas que lo requieran, en coordinación con el área de Comunicación Social del Organo Político-Administrativo;
+XIV. Distribuir a los comités vecinales la información de interés público generada por las diferentes áreas sustantivas que lo requieran, en coordinación con el área de Comunicación Social del Órgano Político-Administrativo;
 
 XV. Facilitar a las distintas instancias de Gobierno que lo soliciten, el contacto con los comités vecinales; y
 
@@ -7712,9 +7714,9 @@ XVI. Las demás que de manera directa le asigne el titular del Órgano Político
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION III
+#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DEL MEDIO AMBIENTE
 
-ADSCRITOS A LA SECRETARIA DEL MEDIO AMBIENTE.
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 182.
 
@@ -8180,11 +8182,23 @@ XII. Elaborar estudios para realizar el diagnóstico de las necesidades de organ
 
 XIII. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios del Distrito Federal y emitir opinión sobre alternativas de solución.
 
-> <small>(DEROGADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 199.
 
-(DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
+EL Sistema de Aguas de la Ciudad de México tiene por objeto ser el órgano operador en materia de recursos hidráulicos y de prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y reuso de aguas residuales y cuenta con las siguientes atribuciones:
+
+I.- Construir, operar y mantener la infraestructura hidráulica;
+
+II.- Dar cumplimiento a las disposiciones que en materia de recursos hidráulicos y protección ambiental le confiere la Ley de Aguas del Distrito Federal;
+
+III. Fungir como auxiliar de la autoridad fiscal en los términos establecidos en el Código Financiero del Distrito Federal para recaudar, comprobar, determinar, administrar, cobrar y enterar ingresos en materia de servicios hidráulicos;
+
+IV. Elaborar, ejecutar, evaluar y vigilar el Programa de Gestión Integral de los Recursos Hídricos, como instrumento rector de la política hídrica;
+
+V. Planear, organizar, controlar y prestar los servicios hidráulicos, y los procesos de tratamiento y reuso de aguas residuales, coordinándose en su caso con las delegaciones;
+
+VI.- Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 200.
 
@@ -8495,3 +8509,7 @@ G.O. 11 DE MARZO DE 2005.
 G.O. 6 DE MAYO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
