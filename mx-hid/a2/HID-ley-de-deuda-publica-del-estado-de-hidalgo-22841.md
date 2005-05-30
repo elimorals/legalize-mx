@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-del-estado-de-hidalgo-22841"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-10"
-last_updated: "2004-12-13"
+last_updated: "2005-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 30 DE MAYO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 10 de diciembre de 2001.
 
@@ -510,3 +512,19 @@ P.O. 13 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE MAYO DE 2005.
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- Se abroga la Ley de Deuda Pública del Estado de Hidalgo de fecha 15 de noviembre de 2001, publicada en el Periódico Oficial del Estado de Hidalgo, el 10 de diciembre del mismo año.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto.- La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor de esta Ley, no estará sujeta a lo previsto en el Artículo 75 segundo y tercer párrafos de la misma, debiendo regirse para su modificación por la legislación y los decretos correspondientes a su autorización.
+
+Artículo Quinto.- La celebración de los créditos, empréstitos, mecanismos de pago y demás actos jurídicos regulados por esta Ley y la de los actos jurídicos necesarios para la preparación, estructuración, implementación y mantenimiento de los mismos, no será objeto de licitación pública en virtud de no ser idónea para asegurar las condiciones a que alude el Artículo 108, segundo párrafo, de la Constitución Política del Estado de Hidalgo, ni estarán sujetos al ámbito de aplicación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo en vigor.
+
+Artículo Sexto.- Las entidades a que se refiere el Artículo 2 de esta Ley, deberán inscribir todos sus empréstitos o créditos vigentes en el Registro de Obligaciones y Empréstitos del Estado de Hidalgo, dentro de un plazo de noventa días a partir de la fecha de su publicación.
