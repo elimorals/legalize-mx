@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2004-09-27"
+last_updated: "2005-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -161,6 +161,10 @@ VI. Contra la Salud; y
 
 VII. Contra la Ecología.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
+
+Se consideran infracciones con agravante, todas aquéllas acciones y omisiones que contravengan las disposiciones de este reglamento, siempre y cuando la persona a quien se le impute la acción u omisión infractora se encuentre en estado de ebriedad o bajo los efectos de alguna droga o sustancia que produzca efectos similares, para lo cual el Juez Calificador atenderá los resultados del examen médico a que se refiere el artículo 34 de este Reglamento.
+
 ###### ARTÍCULO 13.
 
 Son Infracciones al Orden Público:
@@ -227,7 +231,9 @@ XV. Azuzar perros y otros animales con la intención de causar daños o molestia
 
 XVI. Cuando por negligencia o descuido de los propietarios o poseedores de perros u otros animales se causen los daños señalados en la fracción anterior.
 
-Para los efectos de la fracción IX todos los elementos de policía deberán poner al infractor a disposición de elementos de la Dirección de Tránsito o Vialidad, para la aplicación de la sanción correspondiente a este supuesto, se observará lo establecido en el Reglamento de Tránsito y Vialidad en vigor.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+
+Para los efectos de la fracción IX, todos los elementos de policía y tránsito deberán poner al presunto infractor a disposición del Juez Calificador en turno para la realización del procedimiento administrativo de calificación establecido en este reglamento y aplicar la sanción correspondiente, quedando el vehículo a disposición de la Dirección de Tránsito y Vialidad de este municipio para los efectos administrativos a que hubiere lugar.
 
 ###### ARTÍCULO 15.
 
@@ -287,9 +293,17 @@ VII. Borrar, destruir o pegar cualquier leyenda sobre los nombres y letras con l
 
 VIII. Tirar o desperdiciar el agua;
 
-IX. Introducirse a lugares públicos o privados cercados, sin el permiso de la persona autorizada para darlo; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2005)</small>
 
-X. Reservar, rentar o invadir espacios en la vía pública destinados para el estacionamiento de vehículos, a excepción de los que cuenten con el permiso municipal respectivo.
+IX. Introducirse a lugares públicos o privados cercados, sin el permiso de la persona autorizada para darlo;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2005)</small>
+
+X. Reservar, rentar o invadir espacios en la vía pública destinados para el estacionamiento de vehículos, a excepción de los que cuenten con el permiso municipal respectivo; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2005)</small>
+
+XI Alterar, mover o de cualquier manera modificar la forma, color o estructura original de cualquier mueble o inmueble que se ubique en los parques, jardines, calzadas, avenidas o vía pública sin la previa autorización del R. Ayuntamiento.
 
 ###### ARTÍCULO 17.
 
@@ -371,9 +385,15 @@ II. Multa; o
 
 III. Arresto hasta por 36-treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+
 ###### ARTÍCULO 26.
 
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 100-cien cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio.
+Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 250-doscientas cincuenta cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio.
+
+El párrafo que antecede se observará para la imposición de las multas relacionadas con infracciones no agravadas, ya que en el caso de encontrarse con el supuesto de una infracción con agravante, la sanción deberá ser entre 1-una cuota como mínimo y las 500-quinientas cuotas como máximo.
+
+En ambos supuestos se le cobrará conjuntamente con la multa impuesta el dictamen médico que se elabore a la persona detenida, cuyo valor será de 2-dos cuotas.
 
 ###### ARTÍCULO 27.
 
@@ -690,3 +710,7 @@ P.O. 27 DE SEPTIEMBRE DE 2004.
 PRIMERO.- Se reforma por modificación y adición, el Reglamento de Policía y Buen Gobierno, aprobado en Sesión Ordinaria de Ayuntamiento de fecha 11 de agosto de 2003, en su capítulo sexto que comprende de los artículos 45 al 56; se adiciona el capítulo séptimo que comprende de los artículos 57 y 58.
 
 SEGUNDO.- La presente reforma entrara en vigor el día de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior difusión en la Gaceta Municipal.
+
+P.O. 30 DE MAYO DE 2005.
+
+Artículo Único.- Las reformas por adición y modificación el Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, N.L. publicado en el Periódico Oficial del Estado, número 110 de fecha 25 de agosto del año 2003, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
