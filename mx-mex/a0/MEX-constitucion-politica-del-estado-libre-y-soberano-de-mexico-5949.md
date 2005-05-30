@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2004-08-26"
+last_updated: "2005-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2005.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -989,9 +989,7 @@ El Gobernador del Estado podrá renunciar al cargo por causa grave, o solicitar 
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
-#### SECCION SEGUNDA. De las Facultades y Obligaciones
-
-del Gobernador del Estado
+#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador del Estado
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1141,11 +1139,11 @@ Corresponde al Ministerio Público la investigación y persecución de los delit
 
 La policía judicial estará bajo la autoridad y mando inmediato del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 82.
 
-El Ministerio Público hará efectivos los derechos del Estado e intervendrá en los juicios que afecten a quienes las leyes otorgan especial protección.
+El Ministerio Público hará efectivos los derechos del Estado e intervendrá en los juicios que afecten a quienes las leyes otorgan especial protección, así como también en los procedimientos de ejecución de sentencias.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1215,7 +1213,7 @@ a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcio
 
 b) En juzgados de primera instancia y de cuantía menor, que conocerán y resolverán las controversias que se susciten en el Territorio de la Entidad, aplicando las leyes federales que establezcan jurisdicción concurrente y de las locales en materia penal, civil, familiar, así como tratados internacionales previstos en la Constitución Federal.
 
-Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial .
+Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cuál se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
@@ -1261,7 +1259,9 @@ En caso de que la controversia o acción de inconstitucionalidad verse sobre la 
 
 El Tribunal Superior de Justicia se compondrá del número de magistrados que determine la Ley Orgánica del Poder Judicial, durarán en su encargo 15 años y serán sustituidos de manera escalonada.
 
-Los jueces de primera instancia y los de cuantía menor serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+
+Los jueces de primera instancia, los de cuantía menor y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1351,11 +1351,13 @@ Para el despacho de los asuntos habrá en cada región, salas colegiadas y unita
 
 Ningún negocio judicial podrá tener más de dos instancias.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 99.
 
-Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia.
+Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia o por actividad académica.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remunerado e incompatible con su función.
 
@@ -1377,6 +1379,10 @@ Los jueces de primera instancia deberán reunir los mismos requisitos que los ma
 
 En cada distrito judicial habrá un juez o los jueces necesarios de primera instancia, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
+
+En cada centro de readaptación social, se establecerá un juez ejecutor de sentencias, quien tendrá como atribuciones la ejecución de las penas privativas y restrictivas de la libertad personal.
+
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 103.
@@ -1388,6 +1394,12 @@ Los jueces de cuantía menor durarán en su encargo tres años, pudiendo ser rat
 ###### Artículo 104.
 
 Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
+
+Artículo 104 BIS.- Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán asimismo los mecanismos de ratificación.
+
+Los Jueces de ejecución de sentencias deberán reunir los mismos requisitos que los que por ley se establecen para los jueces de primera instancia.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1703,9 +1715,7 @@ El Órgano Superior de Fiscalización, la Secretaría de la Contraloría del Est
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
-## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos
-
-y del Juicio Político
+## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos y del Juicio Político
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1781,7 +1791,7 @@ I. El Sistema Estatal de Planeación Democrática se integra por los planes y pr
 
 Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales, estatales, regionales y metropolitanos, en su caso.
 
-Los ciudadanos del Estado, individualmente o a través de agrupaciones legalmente constituidas podrán participar en el proceso de planeación democrática en los términos establecidos por las leyes para la formulación de planes y programas estatales, municipales, regionales y metropolitanos para la integración social de su habitantes y el desarrollo de las comunidades.
+Los ciudadanos del Estado, individualmente o a través de agrupaciones legalmente constituidas podrán participar en el proceso de planeación democrática en los términos establecidos por las leyes para la formulación de planes y programas estatales, municipales, regionales y metropolitanos para la integración social de sus habitantes y el desarrollo de las comunidades.
 
 II. En materia metropolitana, el Gobierno del Estado y los Ayuntamientos de los municipios deberán en forma coordinada y en términos de la Constitución Política de los Estados Unidos Mexicanos:
 
@@ -1795,7 +1805,7 @@ Su participación se regirá por principios de proporcionalidad y equidad atendi
 
 d) Regular la ejecución conjunta y coordinada de los planes, programas y acciones que de ellos deriven a través de las comisiones metropolitanas.
 
-e) Suscribir convenios con la Federación, los Estados y municipios limitrofes y el Distrito Federal, en su caso, para la ejecución de obras, operación y prestación de servicios públicos o la realización de acciones en las materias que fueren determinadas por las comisiones metropolitanas y relacionados con los diversos ramos administrativos.
+e) Suscribir convenios con la Federación, los Estados y municipios limítrofes y el Distrito Federal, en su caso, para la ejecución de obras, operación y prestación de servicios públicos o la realización de acciones en las materias que fueren determinadas por las comisiones metropolitanas y relacionados con los diversos ramos administrativos.
 
 f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a los planes metropolitanos, en los periódicos oficiales.
 
@@ -1899,7 +1909,7 @@ Durante tres años consecutivos, a partir de 1918, no podrán desempeñar ningú
 
 ###### Art. 6.
 
-El actual período de sesiones ordinarias de la Legislatura, continuará conforme a los dispuesto por el artículo 48 de esta Constitución.
+El actual período de sesiones ordinarias de la Legislatura, continuará conforme a lo dispuesto por el artículo 48 de esta Constitución.
 
 ###### Art. 7.
 
@@ -2247,7 +2257,7 @@ P.O. 23 DE JULIO DE 1977
 
 ###### ARTICULO UNICO.
 
-El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Períodico Oficial "Gaceta del Gobierno" del Estado.
+El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
 P.O. 11 DE MARZO DE 1978
 
@@ -2596,3 +2606,9 @@ TERCERO.- Hasta en tanto se expida la Ley respectiva la contaduría general de g
 CUARTO.- Cuando en algún ordenamiento legal se haga referencia a la Contaduría General de Glosa, se entenderá por esta al Órgano Superior de Fiscalización.
 
 QUINTO.- En tanto no se nombre al Auditor Superior de Fiscalización, el Contador General de Glosa será el titular del Órgano Superior de Fiscalización de manera provisional.
+
+P.O. 30 DE MAYO DE 2005.
+
+PRIMERO.- Publíquese este decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor ciento veinte días después de su publicación en el periódico oficial "Gaceta del Gobierno".
