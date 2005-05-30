@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2004-01-29"
+last_updated: "2005-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -120,7 +120,7 @@ XXIV. RECURSOS HÍDRICOS.- Los recursos de agua dulce contenida en cualquier tip
 
 XXV. REGLAMENTO.- El Reglamento de la Ley de Aguas del Distrito Federal;
 
-XXVI. REGLAMENTO INTERIOR.- El Reglamento Interior del Sistema de Aguas de la Ciudad de México;
+XXVI. (DEROGADA, G.O. 30 DE MAYO DE 2005)
 
 XXVII. RESTRINGIR.- Reducir o limitar el suministro de agua potable y descargas de aguas residuales y reusadas en las actividades comerciales o productivas;
 
@@ -188,31 +188,37 @@ XIII. La adopción de medidas para el monitoreo y evaluación de los recursos h�
 
 ### CAPÍTULO I. DEL SISTEMA DE AGUAS DE LA CIUDAD DE MÉXICO
 
-###### Artículo 7º.
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
-El Sistema de Aguas de la Ciudad de México, es un organismo público descentralizado de la administración pública del Distrito Federal, con personalidad jurídica, patrimonio propio y autonomía técnica y administrativa, sectorizado a la Secretaría del Medio Ambiente, que fungirá como autoridad auxiliar de la Secretaría de Finanzas en materia de servicios hidráulicos conforme a lo dispuesto en el Código Financiero del Distrito Federal.
+###### Artículo 7°.
 
-El patrimonio del Sistema de Aguas estará integrado por:
+El Sistema de Aguas de la Ciudad de México es un Órgano Desconcentrado de la Administración Pública del Distrito Federal, adscrito a la Secretaría del Medio Ambiente, cuyo objeto principal es la operación de la infraestructura hidráulica y la prestación del servicio público de agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residuales, que fungirá como auxiliar de la Secretaría de Finanzas en materia de servicios hidráulicos conforme a lo dispuesto en el Código Financiero del Distrito Federal.
 
-I. Las aportaciones federales, del Gobierno del Distrito Federal, concesionarios y permisionarios que, para el cumplimiento de su objeto, se realicen a favor de ésta;
+El ejercicio de las facultades que esta Ley confiere al Sistema de Aguas de la Ciudad de México, es sin menoscabo de que puedan ser ejercidas directamente por la Secretaría.
 
-II. Las donaciones y fideicomisos;
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
-III. Los bienes muebles e inmuebles, equipo, instalaciones y recursos materiales que a la fecha de su constitución formen parte de los sistemas de agua potable, drenaje, alcantarillado, tratamiento y reuso de aguas residuales existentes, y los que adquiera a través de créditos nacionales e internacionales para proporcionar dichos servicios;
+###### Artículo 8°.
 
-IV. Los bienes muebles e inmuebles, así como las aportaciones, y subsidios que les sean entregados o transferidos por el Gobierno del Distrito Federal y/o por el Gobierno Federal, así como por otras personas físicas o morales y entidades públicas o privadas para el cumplimento de su objetivo;
+El Sistema de Aguas contará con un Consejo Directivo, así como con la estructura administrativa que requiera la atención adecuada de sus funciones y que le sea autorizada en los términos del Reglamento Interior de la Administración Pública de Distrito Federal.
 
-V. Los bienes y derechos que adquiera por cualquier título legal;
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
 
-VI. Los ingresos que obtengan por los frutos o productos de su patrimonio; y
+###### Artículo 9°.
 
-VII. Los recursos que anualmente le sean asignados a través del Presupuesto de Egresos del Distrito Federal.
+El Consejo Directivo del Sistema de Aguas estará integrado por once miembros propietarios y sus respectivos suplentes, conforme a lo siguiente:
 
-Los bienes del Sistema de Aguas serán inembargables, inalienables e imprescriptibles.
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
 
-###### Artículo 8º.
+I. El titular de la Secretaría del Medio Ambiente, quien lo presidirá; de Obras y Servicios; de Salud; de Desarrollo Urbano y Vivienda; de Gobierno; de Finanzas; de la Tesorería; de la Procuraduría Ambiental y de Ordenamiento Territorial; y del Sistema de Aguas de la Ciudad de México.
 
-El Sistema de Aguas se integrará por el Consejo de Gobierno así como por la Dirección General de acuerdo a la estructura administrativa que esta Ley y su Reglamento Interior establecen.
+II. Un representante de organizaciones sociales legalmente constituidas, un representante de organizaciones del sector privado y un representante de instituciones académicas o de investigación, relacionados con la materia de la presente Ley, propuestos por la Secretaría del Medio Ambiente, mismos que durarán en su encargo 3 años y su participación será de carácter honorario, con derecho a voz.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+
+Las y los integrantes del Consejo Directivo referidos en la fracción I del presente Artículo tendrán derecho a voz y voto en las sesiones. El Consejo Directivo podrá invitar a las y los representantes de las delegaciones, organismos autónomos, dependencias y entidades de la Administración Pública del Distrito Federal y de la Administración Pública Federal, de la Asamblea Legislativa del Distrito Federal y representantes de los usuarios que considere.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 9º.
 
@@ -226,73 +232,105 @@ Las y los integrantes del Consejo de Gobierno referidos en la fracción I del pr
 
 ###### Artículo 10.
 
-El Consejo de Gobierno celebrará sesiones ordinarias cada tres meses y las extraordinarias que sean necesarias cuando las convoque su Presidente o la mayoría de sus miembros.
+El Consejo Directivo celebrará sesiones ordinarias cada tres meses y las extraordinarias que sean necesarias cuando las convoque su Presidente o la mayoría de sus miembros.
 
-Habrá quórum cuando concurran más de la mitad de las y los integrantes del Consejo de Gobierno siempre que esté presente su Presidente o suplente y que la mayoría de los asistentes sean representantes de la administración pública del Distrito Federal. Las decisiones se tomarán por mayoría de votos de los miembros y en el caso de empate, su Presidente tendrá voto de calidad.
+Habrá quórum cuando concurran más de la mitad de las y los integrantes del Consejo Directivo siempre que esté presente su Presidente o suplente y que la mayoría de los asistentes sean representantes de la Administración Pública del Distrito Federal. Las decisiones se tomarán por mayoría de votos de los miembros y en el caso de empate, su Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 11.
 
-Son atribuciones del Consejo de Gobierno, además de las señaladas en la Ley Orgánica de la Administración Pública del Distrito Federal, las siguientes:
+Son atribuciones del Consejo Directivo, las siguientes:
 
 I. Aprobar los planes de labores, las previsiones de ingresos, presupuestos e informe de actividades;
 
-II. Aprobar los reportes de ingresos y del ejercicio presupuestal del Sistema de Aguas que le presente la o el Director General, quien deberá remitirle al Jefe de Gobierno en los términos establecidos en las leyes aplicables;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
 
-III. Aprobar los estados financieros anualmente, previo informe del Comisario Público, el dictamen de los auditores externos;
+II. Aprobar los reportes de ingresos y del ejercicio presupuestal del Sistema de Aguas que le presente la o el Director General, quien deberá remitirla al Jefe de Gobierno a través de la Secretaría del Medio Ambiente, en los términos establecidos en las leyes aplicables;
 
-IV. Aprobar, de acuerdo con las disposiciones aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o pedidos que deba celebrar el organismo con terceros, en materia de obra pública, adquisiciones, arrendamiento, administración de bienes y prestación de servicios;
+III. (DEROGADA, G.O. 30 DE MAYO DE 2005)
 
-V. Aprobar el Reglamento Interior, la organización general del Sistema de Aguas y los manuales de procedimientos y de servicios al público;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+IV. Aprobar, de acuerdo con las disposiciones aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o pedidos que deba celebrar el órgano con terceros, en materia de obra pública, adquisiciones, arrendamiento, administración de bienes y prestación de servicios;
+
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+V. Aprobar la organización general del Sistema de Aguas y los manuales de procedimientos y de servicios al público;
 
 VI. Autorizar la creación de comités o subcomités de apoyo;
 
-VII. Nombrar y remover, a propuesta del Director General, a los servidores públicos del organismo que ocupen cargos en las dos jerarquías administrativas inferiores a las de aquel;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+VII. Nombrar y remover, a propuesta del Director General, a los servidores públicos del órgano que ocupen cargos en las dos jerarquías administrativas inferiores a las de aquel;
 
 VIII. Aprobar el Programa de Gestión Integral de los Recursos Hídricos y el Programa para el Uso Eficiente y Ahorro del Agua;
 
 IX. Conocer los informes, dictámenes y recomendaciones de la contraloría interna;
 
-X. Aprobar la aceptación de legados, donaciones y demás liberalidades;
+X. (DEROGADA, G.O. 30 DE MAYO 2005)
 
-XI. Estudiar y aprobar los proyectos de inversión;
+XI. (DEROGADA, G.O. 30 DE MAYO 2005)
 
-XII. Proponer al Jefe de Gobierno del Distrito Federal, la celebración de convenios de coordinación con la federación, estados y municipios, y de concertación con los sectores social y privado, sobre el objeto de la presente Ley; y
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+XII. Proponer al Jefe de Gobierno del Distrito Federal a través de la Secretaría del Medio Ambiente, la celebración de convenios de coordinación con la federación, estados y municipios, y de concertación con los sectores social y privado, sobre el objeto de la presente ley; y,
 
 XIII. Las demás que correspondan al ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 12.
 
-El Sistema de Aguas estará a cargo de la o el Director General, nombrado por la o el Jefe de Gobierno del Distrito Federal, que cumpla con los requisitos establecidos en el artículo 103 del Estatuto de Gobierno del Distrito Federal, y en su caso removido en términos de la Ley Federal de Responsabilidades de los Servidores Públicos y, en el ejercicio de sus funciones, se auxiliará de coordinadores, directores y de las unidades administrativas que determine su Reglamento Interior.
+El Sistema de Aguas tendrá un Director General, así como la estructura administrativa que se apruebe.
 
 ###### Artículo 13.
 
 La o el Director General tendrá las siguientes facultades:
 
-I. Administrar y representar legalmente al organismo;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
 
-II. Formular los programas de ingresos y los presupuestos del organismo y someterlos a la aprobación del Consejo de Gobierno;
+I. Administrar los recursos financieros asignados al órgano en el presupuesto de egresos;
 
-III. Ejecutar los programas y ejercer los presupuestos aprobados por el Consejo de Gobierno así como los acuerdos del mismo, de conformidad con las normas jurídicas administrativas aplicables;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
 
-IV. Formular los programas de organización, reorganización o modernización del organismo;
+II. Intervenir en materia de ingresos derivados de las actividades del órgano y del ejercicio del gasto en los términos que establezca la normatividad aplicable;
 
-V. Elaborar el programa anual de actividades para someterlo a la aprobación del Consejo de Gobierno;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
 
-VI. Presentar al Consejo de Gobierno para su aprobación los manuales de organización y de procedimientos, así como las propuestas de reforma a dichos manuales y al reglamento interno;
+III. Ejecutar los programas y ejercer los presupuestos aprobados por el Consejo Directivo así como los acuerdos del mismo, de conformidad con las normas jurídicas administrativas aplicables;
 
-VII. Presentar al Consejo de Gobierno el informe sobre el desempeño de las actividades del organismo en forma trimestral;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+IV. Formular los programas de organización, reorganización o modernización del órgano;
+
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+V. Elaborar el programa anual de actividades para someterlo a la aprobación del Consejo Directivo;
+
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+VI. Presentar al Consejo Directivo para su aprobación los manuales de organización y de procedimientos, así como las propuestas de reforma a dichos manuales;
+
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+VII. Presentar al Consejo Directivo el informe sobre el desempeño de las actividades del órgano en forma trimestral;
 
 VIII. Proporcionar la información que solicite el Comisario Público;
 
-IX. Enterar a la Secretaría de Finanzas los remanentes del ejercicio presupuestal anual así como los ingresos que obtenga por el cobro de derechos, en los término (sic) de la legislación aplicable;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+IX. Enterar a la Secretaría de Finanzas los remanentes del ejercicio presupuestal anual así como los ingresos que obtenga con motivo de la prestación de los servicios a cargo del órgano, en los términos de la legislación aplicable;
 
 X. En su caso, expedir certificación de documentos de asuntos de su competencia; y
 
-XI. Las demás que le otorgue la Ley Orgánica de la Administración Pública del Distrito Federal; el Reglamento Interno de la Comisión y el Consejo de Gobierno.
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+XI. Las demás que le atribuyan otras leyes y reglamentos.
 
 ###### Artículo 14.
 
-El órgano de vigilancia del Sistema de Aguas estará presidido por un Comisario Público designado por la Contraloría General del Distrito Federal, de igual manera contará con un órgano de control interno cuyo titular será removido libremente por el Titular de la Contraloría General del Distrito Federal.
+(DEROGADO, G.O. 30 DE MAYO 2005)
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -314,9 +352,17 @@ VI. Emitir las normas ambientales para el Distrito Federal con relación al mane
 
 VII. Coordinar y vigilar el registro de descargas de aguas residuales de fuentes fijas que se vierten a los sistemas de drenaje y alcantarillado y demás cuerpos receptores en el Distrito Federal;
 
-VIII. Establecer y actualizar el registro de descargas de aguas residuales que se viertan en el sistema de drenaje y alcantarillado o a cuerpos receptores en el Distrito Federal; y
+VIII. Establecer y actualizar el registro de descargas de aguas residuales que se viertan en el sistema de drenaje y alcantarillado o a cuerpos receptores en el Distrito Federal; y (sic)
 
-IX. La atención de los demás asuntos que le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la federación o a otras dependencias o entidades de la administración pública del Distrito Federal.
+> <small>(ADICIONADA, G.O. 30 DE MAYO 2005)</small>
+
+IX. Conducir la política relacionada con la construcción de obras hidráulicas;
+
+> <small>(ADICIONADA, G.O. 30 DE MAYO 2005)</small>
+
+X. Otorgar concesiones para la realización de obras y la prestación de los servicios hidráulicos y vigilar su cumplimiento;
+
+XI. La atención de los demás asuntos que le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la federación o a otras dependencias o entidades de la Administración Pública del Distrito Federal.
 
 ###### Artículo 16.
 
@@ -324,7 +370,9 @@ Corresponde al Sistema de Aguas el ejercicio de las siguientes facultades:
 
 I. Elaborar, ejecutar, evaluar y vigilar el Programa de Gestión Integral de los Recursos Hídricos, como instrumento rector de la política hídrica;
 
-II. Planear, organizar, controlar y prestar los servicios hidráulicos, y los procesos de tratamiento y reuso de aguas residuales así como facultar mediante acuerdo a las delegaciones para que estas se encarguen de la prestación de estos servicios o procesos en su demarcación territorial;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+II. Planear, organizar, controlar y prestar los servicios hidráulicos, y los procesos de tratamiento y reuso de aguas residuales coordinándose en su caso con las delegaciones;
 
 III. Elaborar el padrón de usuarios del servicio público a su cargo;
 
@@ -336,7 +384,9 @@ VI. Analizar y proponer a la o el Jefe de Gobierno del Distrito Federal los mont
 
 VII. Ordenar el tratamiento obligatorio de aguas residuales y el manejo de lodos a las personas físicas o morales que utilicen y contaminen el agua con motivo de los procesos industriales, comerciales o de servicios que realicen;
 
-VIII. Fungir como auxiliar de la autoridad fiscal en los términos establecidos en el Código Financiero del Distrito Federal para recaudar, comprobar, determinar, administrar, cobrar y enterar derechos en materia de servicios hidráulicos;
+> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+
+VIII. Fungir como auxiliar de la autoridad fiscal en los términos establecidos en el Código Financiero del Distrito Federal para recaudar, comprobar, determinar, administrar, cobrar y enterar ingresos en materia de servicios hidráulicos;
 
 IX. Suspender y/o restringir los servicios hidráulicos a inmuebles y tomas conforme a las disposiciones establecidas en la presente Ley y el Código Financiero del Distrito Federal;
 
@@ -346,7 +396,7 @@ XI. Vigilar la aplicación de políticas de extracción de las fuentes de abaste
 
 XII. Establecer los criterios técnicos para la prestación de servicios hidráulicos por las delegaciones y propiciar la coordinación entre los programas sectorial y delegacionales, atendiendo tanto a las políticas de gobierno como a las disponibilidades presupuestales;
 
-XIII. Expedir, conforme a los lineamientos establecidos por la Oficialía Mayor y en coordinación con esta, las constancias o credenciales del personal que se autorice para llevar a cabo las visitas domiciliarias, inspecciones y verificaciones de la instalación hidráulica y descargas al drenaje de los usuarios de los servicios hidráulicos;
+XIII. (DEROGADA, G.O. 30 DE MAYO 2005)
 
 XIV. Llevar a cabo los estudios y proponer la necesidad de otorgar concesiones para la realización de obras y la prestación de los servicios hidráulicos y vigilar su cumplimiento;
 
@@ -458,9 +508,11 @@ V. La programación y evaluación anual del cumplimiento de metas y del impacto 
 
 VI. La adecuación necesaria de las acciones, proyectos, políticas y subprogramas considerados en los programas a que esta Ley hace referencia, con base en la evaluación permanente y sistemática.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 23.
 
-El Sistema de Aguas formulará, ejecutará, evaluará y vigilará el Programa de Gestión Integral de los Recursos Hídricos, mismo que integrará los lineamientos, acciones y metas en materia de manejo integral de dichos recursos y la prestación de los servicios hidráulicos, con base en los principios establecidos en al artículo 6º de la presente Ley, además de los siguientes criterios:
+La Secretaría formulará, evaluará y vigilará el Programa de Gestión Integral de los Recursos Hídricos, mismo que contendrá los lineamientos, acciones y metas en materia de manejo integral de dichos recursos y la prestación de los servicios hidráulicos, con base en los principios establecidos en el Artículo 6 de la presente Ley, además de los siguientes criterios:
 
 I. Promover la cultura, educación y capacitación ambientales, así como la participación de la sociedad en la gestión integral de los recursos hídricos;
 
@@ -504,19 +556,25 @@ XX. Establecer mecanismos necesarios para el tratamiento de aguas residuales, su
 
 XXI. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 24.
 
-El Sistema de Aguas, en la formulación del diagnóstico, análisis, estrategias políticas, acciones y proyectos de gestión integral de los recursos hídricos, observará proyecciones de corto, mediano y largo plazos y promoverá la participación de los distintos grupos sociales en su elaboración.
+La Secretaría, en la formulación del diagnóstico, análisis, estrategias, políticas, acciones y proyectos de gestión integral de los recursos hídricos, observará proyecciones de corto, mediano y largo plazos y promoverá la participación de los distintos grupos sociales en su elaboración.
 
 Los programas de carácter metropolitano que acuerde el Gobierno del Distrito Federal considerarán las disposiciones que esta Ley establece para la gestión integral de los recursos hídricos.
 
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 25.
 
-El Sistema de Aguas, al elaborar el programa, deberá considerar las disposiciones contendidas en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, la legislación federal aplicable y demás ordenamientos jurídicos.
+La Secretaría, al elaborar el programa, deberá considerar las disposiciones contendidas en esta Ley, su Reglamento, las Normas Oficiales Mexicanas, las Normas Ambientales para el Distrito Federal, la Legislación Federal aplicable y demás ordenamientos jurídicos.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 26.
 
-El Sistema de Aguas formulará, ejecutará, evaluará y vigilará el Programa para el Uso Eficiente y Ahorro del Agua, mismo que contendrá los proyectos y acciones que deben adoptarse, basado en el Programa de Gestión Integral de los Recursos Hídricos y en un diagnóstico de la oferta hídrica de las fuentes de abastecimiento y la demanda de agua, y deberá contener las metas anuales de reducción de pérdidas, las campañas educativas y de difusión a la comunidad, la utilización de aguas superficiales, pluviales y subterráneas, los incentivos, las medidas que deberán adoptar los usuarios del agua y los prestadores de servicios, así como otros aspectos que en él se señalen.
+La Secretaría formulará, evaluará y vigilará el Programa para el Uso Eficiente y Ahorro del Agua, mismo que contempla los proyectos y acciones que deben adoptarse, basado en el Programa de Gestión Integral de los Recursos Hídricos y en un diagnóstico de la oferta hídrica de las fuentes de abastecimiento y la demanda de agua, y deberá contener las metas anuales de reducción de pérdidas, las campañas educativas y de difusión a la comunidad, la utilización de aguas superficiales, pluviales y subterráneas, los incentivos, las medidas que deberán adoptar los usuarios del agua y los prestadores de servicios, así como otros aspectos que en él se señalen.
 
 ###### Artículo 27.
 
@@ -558,9 +616,11 @@ La Secretaría solicitará periódicamente a la autoridad federal toda la inform
 
 En materia de conservación, aprovechamiento sustentable y prevención y control de la contaminación del agua se aplicarán las disposiciones contenidas en el presente Capítulo, sin perjuicio de aquellas establecidas en la Ley Ambiental.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 34.
 
-El Sistema de Aguas, en la formulación, ejecución, evaluación y vigilancia del Programa de Gestión Integral de los Recursos Hídricos, con la finalidad de conservar y aprovechar sustentablemente estos recursos así como para prevenir y controlar la contaminación, deberá considerar los criterios contenidos en la Ley Ambiental así como los siguientes:
+La Secretaría en la formulación, evaluación y vigilancia del Programa de Gestión Integral de los Recursos Hídricos, con la finalidad de conservar y aprovechar sustentablemente estos recursos, así como para prevenir y controlar la contaminación, deberá considerar los criterios contenidos en la Ley Ambiental, así como los siguientes:
 
 I. El aprovechamiento del agua para consumo humano o actividades productivas, deberá realizarse bajo mecanismos de optimización, procurando obtener los mayores beneficios humanos, antes de incorporarla al ciclo natural o verterla al sistema de drenaje;
 
@@ -840,11 +900,13 @@ III. A solicitud del usuario; para hacer trabajos de remodelación, construcció
 
 IV. Por no cumplir con las demás obligaciones contenidas en la presente Ley, su Reglamento, el Código Financiero del Distrito Federal y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 62.
 
 El Sistema de Aguas dictaminará la factibilidad de otorgamiento del servicio a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, considerando la disponibilidad del agua y de la infraestructura para su prestación.
 
-En el caso de otorgamiento de la factibilidad de servicios, el Sistema de Aguas determinará el cálculo hidráulico en la red disponible complementándolo con aforos, monitoreo para su aprobación o negativa. Asimismo, aprobará y supervisará en los términos del Reglamento de la presente Ley, las obras necesarias para su prestación, a cargo del propietario promotor, desarrollador (sic) poseedores, condóminos o usuarios, mismas, que se considerarán para el cálculo del derecho por conexión o infraestructura señalado en la presente Ley.
+En el caso de otorgamiento de la factibilidad de servicios, el Sistema de Aguas determinará el cálculo hidráulico en la red disponible complementándolo con aforos, monitoreo para su aprobación o negativa.
 
 ###### Artículo 63.
 
@@ -888,7 +950,7 @@ II. Al momento de solicitar la licencia de construcción o presentar la manifest
 
 En caso de uso doméstico, cuando no exista o se suspenda el servicio público de agua potable, el Sistema de Aguas considerará las formas posibles de abastecimiento por medio de carros tanque o hidrantes provisionales y públicos. La prestación de este servicio será gratuita.
 
-Al establecerse el servicio público de agua potable en lugares que carezcan de él, se notificará a los interesados por medio de avisos que se colocarán en las calles respectivas;
+Al establecerse el servicio público de agua potable en lugares que carezcan de él, se notificará a los interesados por medio de avisos que se colocarán en las calles respectivas.
 
 ###### Artículo 68.
 
@@ -958,7 +1020,7 @@ Los términos y condiciones a que deban sujetarse los usuarios para la contratac
 
 ###### Artículo 77.
 
-El Sistema de Aguas está facultada para:
+El Sistema de Aguas está facultada (sic) para:
 
 I. Establecer criterios técnicos para el control y la prevención de la contaminación por la descarga de aguas residuales al sistema de drenaje del Distrito Federal, con base en las normas oficiales mexicanas y las normas ambientales para el Distrito Federal;
 
@@ -986,7 +1048,7 @@ El Sistema de Aguas instrumentará lo necesario para que los usuarios no domést
 
 ###### Artículo 80.
 
-El Sistema de Aguas está facultada para supervisar que los proyectos y obras realizadas por los usuarios no domésticos para el tratamiento de aguas residuales que se descarguen en el sistema de drenaje, cumplan con las disposiciones en materia de calidad de las aguas residuales.
+El Sistema de Aguas está facultada (sic) para supervisar que los proyectos y obras realizadas por los usuarios no domésticos para el tratamiento de aguas residuales que se descarguen en el sistema de drenaje, cumplan con las disposiciones en materia de calidad de las aguas residuales.
 
 ###### Artículo 81.
 
@@ -1018,13 +1080,19 @@ El Sistema de Aguas promoverá ante los usuarios prioritariamente el desarrollo 
 
 ### CAPÍTULO II. EL PAGO DE LOS DERECHOS HIDRÁULICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 87.
 
-El Sistema de Aguas propondrá anualmente al Jefe de Gobierno del Distrito Federal los derechos para el cobro de los servicios hidráulicos.
+La Secretaría propondrá anualmente al Jefe de Gobierno del Distrito Federal los ingresos relacionados con el cobro de los servicios hidráulicos.
 
-Para determinar el costo de los derechos, el Sistema de Aguas elaborará los estudios necesarios y con base en estos, formulará el proyecto correspondiente, el cual incorporará las observaciones y sugerencias que realicen los usuarios.
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
-El proyecto de derechos deberá contemplar:
+Para determinar el monto de los ingresos, la Secretaría con apoyo del Sistema de Aguas elaborará los estudios necesarios y con base en éstos, formulará el proyecto correspondiente, al cual incorporará las observaciones y sugerencias que realicen los usuarios.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+
+El proyecto de ingresos deberá contemplar:
 
 I. La autosuficiencia financiera de los prestadores de servicios públicos;
 
@@ -1070,9 +1138,11 @@ Son aguas de jurisdicción del Distrito Federal, aquellas que se localicen en do
 
 La jurisdicción del Distrito Federal de las aguas a que se refiere el párrafo anterior, subsistirá aún cuando las aguas no cuenten con la declaratoria respectiva emitida por el Jefe del Gobierno del Distrito Federal, asimismo subsistirá la propiedad de esas aguas, cuando mediante la construcción de obras, sean desviadas del cauce o vasos originales, o se impida su afluencia a ellos. Las aguas residuales provenientes del uso de las aguas de jurisdicción estatal que converjan al territorio del Distrito Federal tendrán el mismo carácter, siempre y cuando hayan sido asignadas por la federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 94.
 
-El Jefe del Gobierno del Distrito Federal, a través del Sistema de Aguas, normará la explotación, uso, aprovechamiento, distribución y control de las aguas asignadas o de jurisdicción del Distrito Federal, en los términos de la presente Ley y su Reglamento.
+El Jefe del Gobierno del Distrito Federal, a través de la Secretaría, normará la explotación, uso, aprovechamiento, distribución y control de las aguas asignadas o de jurisdicción del Distrito Federal, en los términos de la presente Ley y su Reglamento.
 
 La explotación, uso o aprovechamiento de las aguas asignadas y/o de jurisdicción del Distrito Federal, así como sus bienes inherentes, motivará por parte del usuario el pago de derechos que establezca el Código Financiero del Distrito Federal.
 
@@ -1140,15 +1210,19 @@ Por causas de interés público el Jefe de Gobierno del Distrito Federal, a trav
 
 Previamente se deberán realizar las obras de control y las que sean necesarias para reducir o suprimir la zona de protección o restauración.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 103.
 
-El Jefe de Gobierno del Distrito Federal a través del Sistema de Aguas, podrá solicitar y promover ante la autoridad federal competente el resguardo de zonas de protección para su preservación, conservación y mantenimiento.
+El Jefe de Gobierno del Distrito Federal a través de la Secretaría, podrá solicitar y promover ante la autoridad federal competente el resguardo de zonas de protección para su preservación, conservación y mantenimiento.
 
 Asimismo, podrá solicitar la desincorporación de las zonas federales de los vasos, cauces y depósitos de propiedad de la Nación, que se encuentren urbanizados dentro de la mancha urbana de las poblaciones, pueblos, colonias y barrios del Distrito Federal, para la regularización de la tenencia de la tierra.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 104.
 
-El Sistema de Aguas, conforme a ésta Ley y en coordinación con los Gobiernos Federal, Estatales y Municipales conurbados al Distrito Federal (sic):
+La Secretaría, conforme a esta Ley y en coordinación con los Gobiernos Federales, Estatales y Municipales conurbados al Distrito Federal tiene las siguientes facultades:
 
 I. Construir y operar las obras para el control de avenidas y protección contra inundaciones de centros urbanos, poblacionales y áreas productivas;
 
@@ -1212,9 +1286,11 @@ El usuario en los plazos para alegar lo que a su derecho convenga, podrá ofrece
 
 ### CAPÍTULO II. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 110.
 
-La autoridad competente, en los términos de este capítulo, sancionará conforme a lo previsto por esta Ley, su Reglamento y las disposiciones legales aplicables por lo siguiente:
+El Sistema de Aguas en los términos de este capítulo, sancionará conforme a lo previsto por esta Ley, su Reglamento y las disposiciones legales aplicables por lo siguiente:
 
 I. Explotar, usar, o aprovechar aguas del Distrito Federal sin título o autorización; así como modificar o desviar los cauces o corrientes asignadas o de jurisdicción del Distrito Federal sin autorización;
 
@@ -1272,9 +1348,11 @@ La imposición de las presentes sanciones es independiente de las previstas y sa
 
 Cuando se cometan violaciones a la presente Ley, además de las penas señaladas, se procederá a la reparación del daño ambiental.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 111.
 
-Las faltas a que se refiere el artículo anterior, serán sancionadas administrativamente por el Gobierno del Distrito Federal a través de la autoridad competente, con multas equivalentes a días de salario mínimo general vigente en el Distrito Federal y en el momento en que se cometa la infracción, conforme a lo siguiente:
+Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por el Gobierno del Distrito Federal a través del Sistema de Aguas, con multas equivalentes a días de salario mínimo general vigente en el Distrito Federal y en el momento en que se cometa la infracción, conforme a lo siguiente:
 
 I. Cuando se trate de usuarios domésticos en caso de violación a las fracciones:
 
@@ -1328,9 +1406,11 @@ Las sanciones a que se refiere éste capítulo se impondrán sin perjuicio de qu
 
 Cuando los hechos que contravengan las disposiciones de ésta Ley y su Reglamento constituyan un delito, se presentará la denuncia ante la autoridad competente, sin perjuicio de aplicar las sanciones administrativas que correspondan.
 
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+
 ###### Artículo 116.
 
-Se entenderá por medidas de seguridad la adopción y ejecución de acciones y disposiciones que con apego a ésta Ley, dicten la autoridad competente, encaminadas a evitar daños que puedan causarse a las instalaciones, construcciones y obras de los sistemas hidráulicos.
+Se entenderá por medidas de seguridad la adopción y ejecución de acciones y disposiciones que con apego a esta Ley dicte el Sistema de Aguas, encaminadas a evitar daños que puedan causarse a las instalaciones, construcciones y obras de los sistemas hidráulicos.
 
 ###### Artículo 117.
 
@@ -1395,3 +1475,19 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 29 DE ENERO DE 2004.
 
 PRIMERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
+
+G.O. 30 DE MAYO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Para la extinción del Organismo Público Descentralizado Sistema de Aguas de la Ciudad de México, el Jefe de Gobierno del Distrito Federal, a través de la Secretaría de Finanzas, señalará las bases para el desarrollo del proceso y designará un liquidador.
+
+TERCERO.- Para dar cumplimiento a lo dispuesto en el Artículo 98 del Estatuto de Gobierno del Distrito Federal, el Jefe de Gobierno del Distrito Federal emitirá el decreto por el cual deba extinguirse el organismo descentralizado denominado Sistema de Aguas del Distrito Federal.
+
+CUARTO.- El Gobierno del Distrito Federal se subroga en todos sus efectos legales respecto de los contratos, convenios, acuerdos, concesiones y demás instrumentos legales a cargo del organismo público descentralizado Sistema de Aguas de la Ciudad de México.
+
+QUINTO.- Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+SEXTO.- En tanto se expiden las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
+
+SÉPTIMO.- Las disposiciones referidas en el Código Financiero del Distrito Federal al Sistema de Aguas de la Ciudad de México, se entenderá referidas al hoy Sistema de Aguas de la Ciudad de México, órgano público desconcentrado de la Administración Pública del Distrito Federal, en tanto no se actualicen las mismas.
