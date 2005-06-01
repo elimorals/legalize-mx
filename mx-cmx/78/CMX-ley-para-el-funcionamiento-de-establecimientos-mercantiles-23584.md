@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2002-05-14"
+last_updated: "2005-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -332,7 +332,7 @@ Para cerciorarse de la mayoría de edad, el titular del Establecimiento Mercanti
 
 XI. Los titulares de las Licencias de Funcionamiento Tipo B deberán colocar en el exterior del Establecimiento Mercantil, un letrero visible que señale "en este establecimiento no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo" incluyendo para quejas, los teléfonos de emergencia y dirección de la Procuraduría General de Justicia del Distrito Federal;
 
-XII. Contar con un botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con el personal capacitado para brindar dichos auxilios.
+XII. Contar con un botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con el personal capacitado para brindar dichos auxilios;
 
 XIII. Dar aviso por escrito a la Delegación del cambio de la denominación o nombre comercial del establecimiento, dentro de los 5 días hábiles siguientes en que se hubiese hecho el cambio;
 
@@ -528,7 +528,9 @@ Los Establecimientos Mercantiles que opten por ejercer como giro único la venta
 
 Para efectos de esta Ley, los Establecimientos Mercantiles que presten el servicio de Hospedaje serán todos aquellos que proporcionen al público albergue o alojo mediante el pago de un precio determinado. Se consideran establecimientos de Hospedaje los Hoteles, Moteles y Desarrollos con Sistemas de Tiempo Compartido.
 
-Los Establecimientos Mercantiles a que se refiere éste artículo podrán prestar los siguientes servicios:
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+Los Establecimientos Mercantiles a que se refiere este artículo podrán prestar, sin necesidad de tramitar otra licencia de funcionamiento o dar aviso de declaración de apertura, los siguientes servicios:
 
 a) Venta de alimentos preparados y bebidas alcohólicas al copeo en los cuartos y albercas;
 
@@ -536,7 +538,9 @@ b) Música viva, grabada o videograbada;
 
 c) Servicio de lavandería, planchaduría y tintorería;
 
-d) Peluquería y estética;
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+d) Peluquería y/o estética;
 
 e) Alberca, instalaciones deportivas, juegos de salón y billares;
 
@@ -544,9 +548,23 @@ f) Alquiler de salones para convenciones o eventos sociales, artísticos o cultu
 
 g) Agencia de viajes;
 
-h) Zona comercial; y
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+h) Zona comercial;
 
 i) Renta de autos.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+j) Los que se establecen para el giro de restaurante en términos del primer párrafo del artículo 22 de la Ley, sujetándose a las condiciones que para este giro se establecen; y
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+k) Los que se establecen para los giros de bar y discoteca en términos de los inciso c) y e) del artículo 24 de la Ley, sujetándose a las condiciones que para este giro se establecen en el artículo 25.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+Las actividades complementarias deberán de ajustar su horario a las disposiciones que para cada giro se encuentren señaladas en el presente ordenamiento, salvo las actividades señaladas en el inciso a) que serán permanentes
 
 Quedan exceptuados de la tramitación de Licencia de Funcionamiento los Campos para Casas Móviles, Casas de Huéspedes, Hostales y Albergues, que sólo requerirán Declaración de Apertura y en ningún caso podrán vender bebidas alcohólicas.
 
@@ -682,7 +700,7 @@ Los giros con Licencia Tipo B, considerados de Impacto Zonal, para la prestació
 
 De domingo a miércoles el horario de funcionamiento y de venta de bebidas alcohólicas será de una hora menos al especificado en la tabla anterior.
 
-### CAPÍTULO VI. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO VI (SIC). DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 34.
 
@@ -696,9 +714,11 @@ Para el caso de los Establecimientos Mercantiles, con Licencia de Funcionamiento
 
 Los procedimientos de medición se realizarán conforme a lo que se establezca en el Reglamento de esta Ley, con base a la Norma Oficial Mexicana correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JUNIO DE 2005)</small>
+
 ###### Artículo 35.
 
-Los Establecimientos Mercantiles en los que se preste el servicio de hospedaje y paralelamente se ejerza algún otro giro, deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias a los huéspedes en sus habitaciones y observarán las siguientes disposiciones:
+Los establecimientos mercantiles en los que se preste el servicio de hospedaje con servicio de restaurante, bar o discoteca, o paralelamente se ejerza algún otro giro, deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias tanto a los huéspedes en sus habitaciones como a las personas que vivan en inmuebles aledaños, y observarán las siguientes disposiciones:
 
 I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de los giros autorizados y el aviso de que cuenta con caja de seguridad para la guarda de valores;
 
@@ -950,15 +970,11 @@ I. Emitir boletos de depósito del vehículo a cada uno de los usuarios, en el q
 
 II. Contar con iluminación suficiente durante el tiempo que permanezca en operación el estacionamiento;
 
-III. Tener una señalización clara y suficiente para el control de entradas, salidas y circulación en el
-
-estacionamiento;
+III. Tener una señalización clara y suficiente para el control de entradas, salidas y circulación en el estacionamiento;
 
 IV. Contar con un seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo o en la de terceros hasta por 9000 días de salario mínimo vigente en el Distrito Federal por vehículo, de acuerdo a la siguiente modalidad:
 
-a) Autoservicio.- responsabilidad por robo total del vehículo e incendio del inmueble donde se
-
-depositó el vehículo, cuando éste sea atribuible al titular u operador; y
+a) Autoservicio.- responsabilidad por robo total del vehículo e incendio del inmueble donde se depositó el vehículo, cuando éste sea atribuible al titular u operador; y
 
 b) Acomodadores de vehículos.- responsabilidad por robo total, daño parcial, accesorios mostrados a la entrega del vehículo e incendio del inmueble donde se depositó el vehículo, cuando éste sea atribuible al titular u operador; y
 
@@ -1014,7 +1030,7 @@ Además, cuando existan estancias prolongadas deberán cobrar únicamente hasta 
 
 Asimismo, deberán de asignar un espacio para usuarios que utilicen otros medios de transporte como bicicletas o motocicletas que garanticen su seguridad.
 
-Deberán destinar al menos el 10% de los cajones de estacionamientos en algun área exclusivamente para los trabajadores, por un tiempo igual a la duración de su jornada de trabajo.
+Deberán destinar al menos el 10% de los cajones de estacionamientos en algún área exclusivamente para los trabajadores, por un tiempo igual a la duración de su jornada de trabajo.
 
 ### CAPÍTULO V. DE LOS BILLARES Y BOLICHES
 
@@ -1182,7 +1198,7 @@ X. Cuando sea falso el documento con el que se acredite que el establecimiento c
 
 XI. Cuando no se permita el acceso a las instalaciones a todo usuario respetando el orden de llegada; y
 
-XII. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los usuarios.
+XII. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los usuarios;
 
 > <small>(ADICIONADA, G.O. 14 DE MAYO DE 2002)</small>
 
@@ -1336,7 +1352,7 @@ NOVENO.- Los Establecimientos Mercantiles que a la entrada en vigor del presente
 
 DÉCIMO.- Los titulares de los Establecimientos Mercantiles que a la entrada en vigor de esta Ley se encuentren operando con Licencia de Funcionamiento o Declaración de Apertura, tendrán un plazo de 6 meses, contados a partir de la publicación de la presente Ley, para adecuar sus establecimientos, según sea el caso, a lo prescrito por las fracciones XI, XII, XIV, XV, XVIII y XX del artículo 9 de esta Ley.
 
-DÉCIMO PRIMERO- La Secretaría de Gobierno tendrá un plazo de 6 meses contados a partir de la publicación de esta ley para la creación del Registro de Videojuegos del Distrito Federal y deberá tomar en cuenta la opinión de los sectores sociales y privados para autorizar la operación comercial de títulos y contenido de videojuegos que se exhiben en los Establecimientos Mercantiles.
+DÉCIMO PRIMERO.- La Secretaría de Gobierno tendrá un plazo de 6 meses contados a partir de la publicación de esta ley para la creación del Registro de Videojuegos del Distrito Federal y deberá tomar en cuenta la opinión de los sectores sociales y privados para autorizar la operación comercial de títulos y contenido de videojuegos que se exhiben en los Establecimientos Mercantiles.
 
 Recinto Legislativo, a 12 de febrero de 2002.
 
@@ -1353,3 +1369,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- Estas Reformas y Adiciones entrarán en vigor al día siguiente de su Publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Los establecimientos mercantiles a los que se refieren los artículos 9 fracción XVI párrafo segundo y 67-Bis, deberán ajustarse a las disposiciones que el mismo artículo establece dentro de los 60 días hábiles siguientes a la fecha de entrada en vigor de este Decreto.
+
+G.O. 1 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los establecimientos mercantiles con giro de servicio de hospedaje que cuenten actualmente con la licencia tipo A y además con diversas licencias para los giros de restaurante, bar o discoteca, contarán con un término de 180 días hábiles para presentar el o los avisos de cese definitivo ante la autoridad competente por estos giros, para los efectos de revalidación sólo de la licencia correspondiente al giro de servicio de hospedaje.
+
+TERCERO.- Para el caso de los establecimientos mercantiles que tengan como actividad preponderante el servicio de hospedaje, y además brinden el servicio complementario de restaurante, bar y/o discoteca, efectuaran el pago de derechos equivalente al número y tipo de actividades complementarias por expedición de licencia nueva o revalidación, conforme a lo dispuesto por el Código Financiero del Distrito Federal.
