@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5653,7 +5653,9 @@ XVI. DISCOTECA. Establecimiento mercantil que cuenta con pista para bailar con m
 
 XVII. CABARET. Establecimiento mercantil que presenta espectáculos o variedades con música en vivo, grabada o videograbada de acuerdo con las prescripciones del Capítulo de Espectáculos de este Código Reglamentario, así como pista de baile, servicio de bar y opcionalmente de restaurante;
 
-XVIII. VINATERIAS CON SERVICIO 24 HORAS. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada, y que de manera accesoria puede vender ultramarinos, con servicio durante las veinticuatro horas del día;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+
+XVIII. VINATERIAS CON SERVICIO HASTA LAS 2:00 HRS. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada y que de manera accesoria puede vender ultramarinos, con servicio hasta las 2:00 Hrs.;
 
 XIX. BILLARES Y/O BOLICHE CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- Establecimiento mercantil cuya actividad preponderante es la renta de mesas de billar o pista para jugar boliche y, en forma accesoria, cuenta con la autorización para expender cerveza en botella abierta;
 
@@ -5749,47 +5751,91 @@ XIII. Las demás que se establecen o se desprenden de las disposiciones de este 
 
 DE LOS HORARIOS AUTORIZADOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2005)</small>
+
 ###### Artículo 616.
 
-En los establecimientos referidos en el presente Capítulo, se podrán vender, enajenar y/o consumir bebidas alcohólicas dentro del siguiente horario:
+En los establecimientos referidos en el presente artículo, podrán vender, enajenar o consumir bebidas alcohólicas dentro del siguiente horario:
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2005)</small>
 
 I. MISCELÁNEA O ULTRAMARINOS CON VENTA DE CERVEZA EN BOTELLA CERRADA. De la 06:00 a las 24:00 horas;
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+
 II. MISCELÁNEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHOLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
 
 III. DEPÓSITO DE CERVEZA. De las 06:00 a las 24:00 horas;
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+
 IV. CERVECERÍA. De las 12:00 a las 24:00 horas;
 
-V. ALIMENTOS CON VENTA DE CERVEZA. De 09:00 a las 03:00 horas;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
 
-VI. BAÑOS PÚBLICOS CON VENTA DE CERVEZA. De las 06:00 a las 20:00 horas;
+V. BAÑOS PÚBLICOS CON VENTA DE CERVEZA. De las 06:00 a las 20:00 horas;
 
-VII. PULQUERÍA. De las 07:00 a las 19:00 horas;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
 
-VIII. VINATERÍA. De las 06:00 a las 24:00 horas;
+VI. PULQUERÍA. De las 07:00 a las 19:00 horas;
 
-IX. RESTAURANTE CON VENTA DE BEBIDAS ALCOHÓLICAS. De las 07:00 a las 03:00 horas;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
 
-X. CANTINA. De las 12:00 a las 24:00 horas;
+VII. VINATERÍA. De las 06:00 a las 24:00 horas, y
 
-XI. BAR. De las 12:00 a las 03:00 horas;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
 
-XII. RESTAURANTE BAR. De las 07:00 a las 03:00 horas;
+VIII. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas.
 
-XIII. HOTEL Y MOTEL CON SERVICIO DE RESTAURANTE BAR. De las 07:00 a las 03:00 horas;
+IX. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-XIV. SALÓN SOCIAL. De la 12:00 a las 04:00 horas;
+X. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-XV. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHOLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas;
+XI. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-XVI. DISCOTECA. De las 18:00 a las 03:00 horas;
+XII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-XVII. CABARET. De las 20:00 a las 03:00 horas;
+XIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-XVIII. VINATERIAS 24 HORAS. Las 24 horas del día.
+XIV. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-DE LAS SANCIONES.
+XV. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XVI. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XVII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XVIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
+
+Artículo 616 bis.- En los comercios señalados en el presente artículo queda estrictamente prohibida la venta de bebidas alcohólicas e ingreso de clientes a partir de las 2:00Hrs.
+
+I. LAS CANTINAS;
+
+II. LOS BARES;
+
+III. LOS RESTAURANTES-BAR;
+
+IV. LOS COMERCIOS DE ALIMENTOS CON VENTA DE CERVEZA;
+
+V. LOS CENTROS NOCTURNOS;
+
+VI. LOS VIDEOBARES;
+
+VII. LAS DISCOTECAS;
+
+VIII. LOS CABARETS
+
+IX. LOS SALONES SOCIALES, Y
+
+X. LOS BILLARES Y/O BOLICHE
+
+XI. Cualquier otro establecimiento con venta de bebidas alcohólicas al público, diversas de las señaladas en el artículo 616 del presente Código.
+
+Dichos comercios podrán permitir que sus clientes permanezcan hasta las 3:00 Hrs., sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
 
 DE LAS SANCIONES
 
@@ -5845,7 +5891,11 @@ Queda a juicio del Presidente Municipal determinar si la clausura es definitiva 
 
 ###### Artículo 625.
 
-Se concede acción popular para denunciar ante las autoridades Municipales, a los establecimientos que violen las disposiciones del presente Capítulo.
+Se concede acción popular para denunciar ante las Autoridades Municipales, a los establecimientos que violen las disposiciones del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
+
+El Presidente Municipal a través de la dependencia correspondiente implementará los operativos dirigidos a verificar que los establecimientos a que se refiere el presente Capítulo respeten los horarios establecidos en el mismo.
 
 ###### Artículo 626.
 
@@ -8175,7 +8225,9 @@ Los centros de reunión se sujetarán a las mismas disposiciones que se establec
 
 Los centros de reunión, estarán equipados con un sistema contra incendios de acuerdo a las especificaciones vigentes.
 
-Artículo 82Artículo 829.- ESTACIONAMIENTOS: La previsión de estacionamientos para los centros de reunión, se aplicará de acuerdo a la capacidad del inmueble previamente especificado en el artículo 822.
+###### Artículo 829.
+
+ESTACIONAMIENTOS: La previsión de estacionamientos para los centros de reunión, se aplicará de acuerdo a la capacidad del inmueble previamente especificado en el artículo 822.
 
 Restaurantes sin venta de bebidas
 
@@ -10601,7 +10653,7 @@ Zapatas aisladas.
 
 Zapatas corridas.
 
-Lozas de cimentación.
+Lozas de cimentacion.
 
 Las cimentaciones profundas comprenden:
 
@@ -11695,7 +11747,7 @@ II. En edificios de tres niveles o mas las escaleras de escape serán parte del 
 
 III. Las escaleras, pasillos, rampas y salidas serán de 1.20 mts de ancho efectivo como mínimo y se incrementarán 60 cm. por cada 75 personas o fracción de las mismas que llegaran a pasar por ese lugar.
 
-SANCIONES, INSPECIONES, RECURSOS
+SANCIONES, INSPECCIONES, RECURSOS
 
 ###### Artículo 1149.
 
@@ -14503,9 +14555,9 @@ III. Empadronar los centros de acopio;
 
 IV. Promover tipos de bolsas y empaques para el mejor manejo de la recolección de los residuos sólidos;
 
-V. Promover, orientar y apoyar las (sic) acciones en materia de aseo, limpia, con la sujeción a las políticas a nivel nacional, estatal y municipal,
+V. Promover, orientar y apoyar las acciones en materia de aseo, limpia, con la sujeción a las políticas a nivel nacional, estatal y municipal,
 
-VI. Vigilar y hacer cumplir, en las esfera de su competencia, este Capítulo y demás disposiciones aplicables;
+VI. Vigilar y hacer cumplir, en las (sic) esfera de su competencia, este Capítulo y demás disposiciones aplicables;
 
 VII. Ejecutar los acuerdos que en materia de aseo y limpia dicte el H. Ayuntamiento;
 
@@ -17319,7 +17371,7 @@ VIII. Alterar o mutilar documentos oficiales que amparen la propiedad o legal pr
 
 IX. Los introductores que infrinjan las disposiciones del presente Capítulo se harán acreedores a las sanciones que al efecto se señalen.
 
-DEL SERVICIO DE REFRIGERACIÓN
+DEL SERVICIO DE REFIGERACIÓN
 
 ###### Artículo 1660.
 
@@ -21500,3 +21552,13 @@ OCTAVO.- El inicio de las actividades tendientes a la implementación de las dis
 NOVENO.- En tanto se realizan las modificaciones conducentes en los sellos, formatos y demás documentos, se seguirán utilizando los que obren en poder de las diversas Unidades Administrativas del Honorable Ayuntamiento de Puebla, sin que por ello puedan alegarse vicios en la legalidad de los actos de autoridad emitidos, pero en ningún caso, el contenido del presente artículo transitorio podrá aplicarse después del término de 60 días posteriores a la entrada en vigor del presente Código Reglamentario.
 
 Dado en el Palacio Municipal del Municipio de Puebla, en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de agosto de dos mil cuatro.- El Presidente Municipal Constitucional del Municipio de Puebla.- ARQUITECTO LUIS EDUARDO DEL SAGRADO CORAZÓN DE JESÚS PAREDES MOCTEZUMA.- Rúbrica.- El Síndico Municipal del Honorable Ayuntamiento de Puebla.- ABOGADO LUIS ARMANDO OLMOS PINEDA.- Rúbrica.- El Secretario General del Honorable Ayuntamiento de Puebla.- LICENCIADO JORGE ALFONSO PICAZO HERNÁNDEZ.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 1 DE JUNIO DE 2005.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las demás disposiciones que sean incompatibles con el presente Acuerdo.
+
+TERCERO.- El Presidente Municipal girará instrucciones a la dependencia correspondiente a fin de que ésta implemente los mecanismos tendientes a verificar que los comercios señalados en los artículos 616 y 616 bis cumplan con el horario establecido, o en caso contrario imponga las sanciones correspondientes.
