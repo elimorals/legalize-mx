@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-12803"
 country: "mx"
 rank: "estatuto"
 publication_date: "1998-12-22"
-last_updated: "2004-12-06"
+last_updated: "2005-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-08"
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
 
 > <small>N. DE E. LAS REFORMAS APROBADAS POR LA ASAMBLEA GENERAL DEL INFONAVIT EN EL ACUERDO NUMERO 1129, MODIFICAN DE MANERA SUSTANCIAL EL TEXTO DEL PRESENTE ESTATUTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, AUN Y CUANDO DIVERSOS ARTICULOS QUEDAN INTACTOS, SE PUBLICA EL MISMO EN FORMA INTEGRA.</small>
 
@@ -349,7 +349,9 @@ XXI. Difundir y unificar los criterios jurídicos en la aplicación de las norma
 
 XXII. Formular y someter a la Dirección General las propuestas de proyectos de ley, reglamentos, reglas generales, instructivos, acuerdos y circulares, relativos a las actividades del Instituto;
 
-XXIII. Coordinar el desahogo de las vistas y demás solicitudes que formule la Comisión de Inconformidades y de Valuación, en los términos del Reglamento respectivo;
+> <small>(REFORMADA POR ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XXIII. Coordinar el desahogo de las vistas y demás solicitudes que formule la Comisión de Inconformidades, en los términos del Reglamento respectivo;
 
 XXIV. Autorizar la aceptación de fianzas que otorguen desarrolladores, contratistas, proveedores y terceros, que garanticen obligaciones a su cargo ante el Instituto, en los contratos y convenios que éstos celebren;
 
@@ -718,3 +720,13 @@ El presente Estatuto Orgánico modifica al aprobado por Acuerdo número 1129 de 
 ###### ARTICULO SEGUNDO.
 
 Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberá implementar lo previsto en el presente Decreto a más tardar el 31 de julio de 2005.
+
+TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
