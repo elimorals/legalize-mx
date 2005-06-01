@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2004-12-29"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,69 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMINIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, EN EL PERIODO DEL 1 DE JULIO AL 31 DE AGOSTO DE CADA AÑO Y DEL 1 DE ABRIL AL 30 DE JUNIO DEL AÑO SIGUIENTE, FRIJOL, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LA REPUBLICA DE NICARAGUA
 
-Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 29 de diciembre de 2004.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de junio de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los Artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, y 14 de la Ley de Comercio Exterior, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 27, 28, 29, 30, 32, 33, 34 y 36 de su Reglamento, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que la Decisión 2/2000 del Consejo Conjunto, CE-México firmada bajo el Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una parte, y la Comunidad Europea y sus Estados Miembros, por otra; el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio; el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras y el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua establecen, respectivamente, las condiciones para la eliminación de aranceles aduaneros para el comercio de mercancías originarias entre dichos países signatarios y los Estados Unidos Mexicanos, mediante reglas de origen y mecanismos específicos para definir tales mercancías;
+Que el 30 de abril de 1998 fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
 
-Que desde la entrada en vigor de los tratados de libre comercio, el Ejecutivo Federal ha publicado anualmente un Decreto que refleja las tasas preferenciales establecidas en los tratados de libre comercio aplicables durante ese año a las mercancías originarias provenientes de los países con los que México ha suscrito tratados de libre comercio;
+Que el artículo 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que la desgravación establecida en los tratados de libre comercio señalados en el primer considerando no exime de las restricciones ni libera del cumplimiento de regulaciones no arancelarias, así como tampoco de los requisitos previos de importación impuestos por la Secretaría de Economía o cualquier otra dependencia en el ámbito de sus facultades; de los requisitos de Normas Oficiales Mexicanas o para tramitar el despacho aduanero de mercancías, entre otras, siempre que estén de conformidad con los compromisos internacionales adquiridos por México;
+Que los procedimientos a través de los cuales se asignan los cupos de importación establecidos en el Tratado, son un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
 
-Que resulta necesario para operadores y autoridades aduaneras conocer con claridad las condiciones y los mecanismos que regirán el comercio de mercancías en los Estados Unidos Mexicanos durante 2005, y
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que las condiciones descritas anteriormente permitirán un comercio ordenado durante 2005, abriendo así un campo de retos y oportunidades que coadyuvarán al desarrollo de nuestro país, he tenido a bien expedir el siguiente
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, EN EL PERIODO DEL 1 DE JULIO AL 31 DE AGOSTO DE CADA AÑO Y DEL 1 DE ABRIL AL 30 DE JUNIO DEL AÑO SIGUIENTE, FRIJOL, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LA REPUBLICA DE NICARAGUA
 
-DECRETO
+###### ARTICULO PRIMERO.
+
+El cupo para importar en el periodo del 1 de julio al 31 de agosto de cada año y del 1 de abril al 30 de junio del año siguiente, frijol, excepto para siembra, originario de la República de Nicaragua, con el arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, es el que se determina a continuación:
+
+Fracción Descripción Monto del cupo
+
+arancelaria (toneladas métricas) (1)
+
+0713.33.02 Frijol, excepto para siembra
+
+0713.33.03 2005/2006 5,014.8
+
+0713.33.99 2006/2007 5,265.5
+
+(1) En el periodo del 1 de julio al 31 de agosto de cada año y del 1 de abril al 30 de junio del año siguiente.
+
+###### ARTICULO SEGUNDO.
+
+De conformidad con lo dispuesto en el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de importación a que se refiere el presente Acuerdo, el procedimiento de licitación pública.
+
+###### ARTICULO TERCERO.
+
+En la licitación pública pueden participar las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cumplan con los requisitos que señalen las bases de la licitación. La oferta deberá ser presentada en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar” adjuntando la documentación que corresponda conforme se señale en las bases de la licitación.
+
+###### ARTICULO CUARTO.
+
+La convocatoria correspondiente, se publicará en el Diario Oficial de la Federación, por lo menos 20 días hábiles antes de que inicie el periodo de registro, y en ella se establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a la que se regirá.
+
+###### ARTICULO QUINTO.
+
+Una vez demostrado el pago de adjudicación correspondiente, del monto para importar dentro del arancel-cuota obtenido en la licitación pública, la Secretaría, a través de la representación federal respectiva, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
+
+El certificado de cupo deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+
+La vigencia de los certificados será al 31 de agosto de cada año. Los saldos devueltos y no utilizados, al término de la vigencia, serán reexpedidos para ser utilizados en el segundo periodo estacional del cupo, con vigencia del 1 de abril al 30 de junio del año siguiente.
+
+###### ARTICULO SEXTO.
+
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+
+http://www.cofemertramites.gob.mx/intranet/co_bin_passthrough.asp?coNodes=628257&coMediaID=0000829239, para el caso del formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, y
+
+http://www.cofemertramites.gob.mx/intranet/co_bin_passthrough.asp?coNodes=791607&coMediaID=0000833528, para el caso del formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
 
 ###### ARTÍCULO 1.
 
@@ -205,156 +247,8 @@ La importación de mercancías originarias de Noruega, comprendidas en las fracc
 
 En aquellos casos de este artículo o en los de la columna “Noruega” del Apéndice, en los que se indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005.
 
-###### ARTÍCULO 13.
-
-La importación de mercancías originarias de Islandia, comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Islandia” conforme al artículo 3, las cuales se identifican con el código “NIL” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel que se establece a continuación, únicamente cuando se trate de la modalidad que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-En aquellos casos de este artículo o en los de la columna “Islandia” del Apéndice, en los que se indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de septiembre de 2005, y la segunda a las importaciones que se realicen entre el 1 de octubre y el 31 de diciembre de 2005.
-
-###### ARTÍCULO 14.
-
-La importación de las mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Guatemala” conforme al artículo 3, fracción III, inciso (b), las cuales se identifican con el código “CGU” bajo el rubro “Nota” en el Apéndice de este Decreto, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas, únicamente cuando se trate de la modalidad que se trate:
-
-(VEASE ARCHIVO ANEXO)
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
-
-###### ARTÍCULO 15.
-
-La importación de las mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Guatemala” conforme el artículo 3, fracción III, inciso (b) de este Decreto, las cuales se identifican con el código “S” bajo el rubro “Nota” en el Apéndice, estará sujeta a la tasa prevista en el Apéndice para cada una de ellas. A partir de la fecha en la que se cumplan para cada fracción los supuestos establecidos en el Anexo 4-09 Sección B del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, el arancel preferencial aplicable a dichas fracciones será el listado en este artículo. Para tal efecto, la Secretaría de Economía, publicará un Aviso en el Diario Oficial de la Federación en el que se indique que se han cumplido los supuestos mencionados:
-
-Fracción Arancel
-
-1704.10.01 5.0% ad-valorem
-
-1704.90.99 3.0% ad-valorem
-
-1905.90.99 4.0% ad-valorem
-
-2104.10.01 5.0% ad-valorem
-
-2207.10.01 1.5% ad-valorem
-
-2401.20.01 22.5% ad-valorem
-
-###### ARTÍCULO 16.
-
-La importación de las mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Honduras” conforme el Artículo 3, fracción III, inciso (c) de este Decreto, las cuales se identifican con el código “S” bajo el rubro “Nota” en el Apéndice, estará sujeta a la tasa prevista en el Apéndice para cada una de ellas. A partir de la fecha en la que se cumplan para cada fracción los supuestos establecidos en el Anexo 4-09 Sección C del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, el arancel preferencial aplicable a dichas fracciones será el listado en este Artículo. Para tal efecto, la Secretaría de Economía, publicará un Aviso en el Diario Oficial de la Federación en el que se indique que se han cumplido los supuestos mencionados:
-
-Fracción Arancel
-
-0201.30.01 20.0% ad-valorem
-
-0202.30.01 25.0% ad-valorem
-
-0306.13.01 20.0% ad-valorem
-
-0701.90.99 63.0% ad-valorem
-
-0804.30.01 20.0% ad-valorem
-
-0807.19.01 10.0% ad-valorem
-
-0807.19.99 10.0% ad-valorem
-
-0807.20.01 20.0% ad-valorem
-
-2009.11.01 5.0% ad-valorem
-
-2103.20.99 5.0% ad-valorem
-
-2401.20.01 22.5% ad-valorem
-
-###### ARTÍCULO 17.
-
-La importación de mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna de “El Salvador” conforme al artículo 3 fracción III, inciso (a) de este Decreto, las cuales se identifican con el código “NSA” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 18.
-
-La importación de mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalen en este artículo que correspondan a la columna “Guatemala” conforme al artículo 3 fracción III, inciso (b) de este Decreto, las cuales se identifican con el código “CAG” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas:
-
-Fracción Arancel
-
-6401.10.01 Ex.
-
-6402.19.01 Ex.
-
-6402.20.01 Ex.
-
-6402.99.01 Ex.
-
-6402.99.04 Ex.
-
-6402.99.05 Ex.
-
-6403.40.01 Ex.
-
-6403.91.01 Ex.
-
-6403.99.03 Ex.
-
-6403.99.04 Ex.
-
-6403.99.05 Ex.
-
-6404.19.01 Ex.
-
-6404.19.02 Ex.
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con una copia del certificado de origen avalado por el Ministerio de Economía de Guatemala, misma que será acompañada en cada operación.
-
-###### ARTÍCULO 19.
-
-La importación de mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna de “Guatemala” conforme al artículo 3 fracción III, inciso (b) de este Decreto, las cuales se identifican con el código “NGU” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 20.
-
-La importación de mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras, comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna de “Honduras” conforme al artículo 3 fracción III, inciso (c) de este Decreto, las cuales se identifican con el código “NHO” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 21.
-
-La importación de las mercancías originarias de la región conformada por México y Nicaragua comprendidas en las fracciones arancelarias que se señalan en este artículo, las cuales se identifican con el código “CPN” bajo el rubro “Nota” en el Apéndice de este Decreto, estará sujeta al arancel preferencial indicado a continuación, ya sea para la totalidad de las mercancías incluidas en cada fracción o únicamente para la modalidad indicada:
-
-(VEASE ARCHIVO ANEXO)
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
-
-###### ARTÍCULO 22.
-
-La importación de mercancías originarias de la región conformada por México y Nicaragua comprendidas en las fracciones arancelarias que se señalan en este artículo, las cuales se identifican con el código “NNI” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-En aquellos casos de este artículo o en los de la columna “Nicaragua” del Apéndice, en los que se indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005.
-
-###### ARTÍCULO 23.
-
-La importación de mercancías originarias provenientes de la Comunidad Europea, AELC, El Salvador, Guatemala, Honduras y Nicaragua, identificadas con el código “CORR” en el Apéndice, estarán sujetas al arancel preferencial establecido en este artículo, el cual establece cada una de las fracciones arancelarias previstas en la Ley de los Impuestos Generales de Importación y de Exportación a las que corresponde más de un arancel preferencial para la mercancía o la modalidad de la mercancía respectiva en virtud de los tratados comerciales internacionales suscritos por México y de la Tarifa del Impuesto General de Importación vigente hasta el 31 de marzo de 2002, de acuerdo a la siguiente correlación:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 24.
-
-Lo dispuesto en el presente Decreto no libera del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
-
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto estará en vigor del 1 de enero al 31 de diciembre de 2005.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2005 y concluirá su vigencia el 30 de junio de 2007.
 
-APENDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA
-
-(VEASE ARCHIVO ANEXO)
-
-APENDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA
-
-(VEASE ARCHIVO ANEXO)
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 25 de mayo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
