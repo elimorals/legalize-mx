@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2001-05-25"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
+Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -86,9 +86,15 @@ V.- Con los rendimientos que obtenga de la inversión de los recursos a que se r
 
 Las aportaciones de los patrones a las subcuentas de vivienda son patrimonio de los trabajadores.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 6o.
 
-Los órganos del Instituto serán: la Asamblea General, el Consejo de Administración, la Comisión de Vigilancia, el Director General, dos Directores Sectoriales, la Comisión de Inconformidades y de Valuación y las Comisiones Consultivas Regionales.
+Los órganos del Instituto serán: la Asamblea General, el Consejo de Administración, la Comisión de Vigilancia, el Comité de Auditoría, el Director General, dos Directores Sectoriales, la Comisión de Inconformidades, el Comité de Transparencia y Acceso a la Información y las Comisiones Consultivas Regionales.
+
+Los integrantes de los órganos del Instituto serán responsables para con éste por el cumplimiento de las obligaciones que esta Ley les impone.
+
+Los integrantes del Consejo de Administración, de la Comisión de Vigilancia, del Comité de Auditoría, de la Comisión de Inconformidades, del Comité de Transparencia y Acceso a la Información y de las Comisiones Consultivas Regionales, que en cualquier asunto relacionado con el mismo tuvieren o conocieren de un posible conflicto de intereses personal o de alguno de los demás miembros del Órgano, deberán manifestarlo y, el que tuviere el conflicto, abstenerse de toda intervención en dicho asunto. Igualmente deberán abstenerse de promover o participar, a título personal, en la atención de solicitudes, planteamientos o recursos que cualquier tercero promueva ante el Instituto.
 
 ###### ARTICULO 7o.
 
@@ -112,17 +118,27 @@ El Ejecutivo Federal, por conducto de la Secretaría del Trabajo y Previsión So
 
 La Asamblea General deberá reunirse por lo menos dos veces al año.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 10.
 
-La Asamblea General, tendrá las atribuciones y funciones siguientes:
+La Asamblea General, tendrá las atribuciones y facultades siguientes:
 
-I.- Examinar y en su caso aprobar, dentro de los últimos tres meses del año, el presupuesto de ingresos y egresos y los planes de labores y de financiamientos del Instituto para el siguiente año;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-II.- Examinar y en su caso aprobar, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio, los dictámenes de la Comisión de Vigilancia y el informe de actividades de la Institución;
+I.- Examinar y en su caso aprobar, dentro de los últimos tres meses del año, el presupuesto de ingresos y egresos y los planes de labores y de financiamientos del Instituto para el siguiente año.
+
+Aprobar el plan financiero a cinco años y sus actualizaciones.
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+II.- Examinar y en su caso aprobar, dentro de los cuatro primeros meses del año, los estados financieros dictaminados por el auditor externo y aprobados por el Consejo de Administración, que resulten de la operación en el último ejercicio y el informe de actividades de la institución;
 
 III.- Decidir, señalando su jurisdicción, sobre el establecimiento y modificación o supresión de las Comisiones Consultivas Regionales del Instituto;
 
-IV.- Expedir los reglamentos del Instituto;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+IV.- Aprobar las Reglas de Operación de los Órganos del Instituto, así como el Estatuto Orgánico del mismo y ordenar al Director General su expedición;
 
 V.- (DEROGADA, D.O.F. 24 DE FEBRERO DE 1992)
 
@@ -130,7 +146,33 @@ VI.- (DEROGADA, D.O.F. 24 DE FEBRERO DE 1992)
 
 VII.- (DEROGADA, D.O.F. 24 DE FEBRERO DE 1992)
 
-VIII.- Las demás, necesarias para el cumplimiento de los fines del Instituto, que no se encuentren encomendadas a otro órgano del mismo.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+VIII.- Aprobar las políticas de crédito;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+IX.- Aprobar el Código de Ética del Instituto y ordenar al Director General su expedición;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+X.- Aprobar normatividad en materia de transparencia y acceso a la información y ordenar al Director General su expedición;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XI.- Designar a propuesta de la Comisión de Vigilancia a los miembros del Comité de Transparencia y Acceso a la Información y de la Comisión de Inconformidades;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XII.- Conocer los informes que le presente el Comité de Auditoría, así como los dictámenes de la Comisión de Vigilancia sobre la situación que guarda el sistema de control interno del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XIII.- Ratificar los nombramientos y remociones de los integrantes del Comité de Auditoría, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XIV.- Las demás a que se refiere la presente Ley y las necesarias para el cumplimiento de los fines del Instituto, que no se encuentren encomendadas a otro órgano del mismo.
 
 ###### ARTICULO 11.
 
@@ -160,21 +202,31 @@ Los miembros del Consejo de Administración presidirán las sesiones en forma ro
 
 El Consejo de Administración sesionará, por lo menos, una vez al mes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 16.
 
-El Consejo de Administración, tendrá las atribuciones y funciones siguientes:
+El Consejo de Administración, tendrá las atribuciones y facultades siguientes:
 
-I.- Decidir, a propuesta del Director General, sobre las inversiones de los fondos y los financiamientos del Instituto, conforme a lo dispuesto por el Artículo 66 fracción II;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+I.- Decidir, a propuesta del Director General, sobre las inversiones de los fondos y los financiamientos del Instituto, conforme a lo dispuesto por el Artículo 66, fracción I;
 
 II.- Resolver sobre las operaciones del Instituto, excepto aquéllas que por su importancia, a juicio de alguno de los sectores o del Director General, ameriten acuerdo expreso de la Asamblea General; la que deberá celebrarse dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
 
 III.- Proponer a la Asamblea General el establecimiento, modificación, supresión y jurisdicción de las Comisiones Consultivas Regionales del Instituto;
 
-IV.- Examinar y en su caso aprobar, la presentación a la Asamblea General, de los presupuestos de ingresos y egresos, los planes de labores y de financiamientos, así como los estados financieros y el informe de actividades formulados por la Dirección General;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-V.- Presentar a la Asamblea General para su examen y aprobación, los reglamentos del Instituto;
+IV.- Examinar y en su caso aprobar, la presentación a la Asamblea General, de los presupuestos de ingresos y egresos, los planes de labores y de financiamientos, el plan financiero a cinco años y sus actualizaciones, así como los estados financieros, dictaminados por el Auditor Externo aprobados por el Comité de Auditoría y el informe de actividades formulados por la Dirección General;
 
-VI.- Estudiar y en su caso aprobar, los nombramientos del personal directivo y de los delegados regionales que proponga el Director General;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+V.- Presentar a la Asamblea General, para su examen y aprobación, las Reglas de Operación de los Órganos del Instituto y el Estatuto Orgánico del mismo;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+VI.- A propuesta del Director General aprobar los nombramientos del personal directivo y los delegados de conformidad con el Estatuto Orgánico del Instituto. Asimismo, aprobar las bases para el establecimiento, organización y funcionamiento de un sistema permanente de profesionalización y desarrollo de los trabajadores del Instituto;
 
 > <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -186,9 +238,11 @@ El Consejo de Administración deberá someter a dictamen de auditores externos e
 
 VIII.- Estudiar y en su caso aprobar, los tabuladores y prestaciones correspondientes al personal del Instituto, propuestos por el Director General y conforme al presupuesto de gastos de administración autorizados por la Asamblea General;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-IX.- Establecer las reglas para el otorgamiento de créditos;
+IX.- Proponer para su aprobación a la Asamblea General las políticas de crédito y aprobar las reglas para su otorgamiento, así como la normatividad en materia de control interno.
+
+A propuesta del Director General, aprobar los castigos y quebrantos derivados de los créditos, las políticas de riesgos, así como las de adquisición de bienes y prestación de servicios, y cualquiera otra que sea necesaria para el cumplimiento de los objetivos del Instituto;
 
 > <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -198,79 +252,241 @@ X.- Determinar la tasa de interés que generará el saldo de la subcuenta de viv
 
 XI.- Determinar las reservas que deban constituirse para asegurar la operación del Fondo Nacional de la Vivienda y el cumplimiento de los demás fines y obligaciones del Instituto. Dichas reservas deberán invertirse en valores a cargo del Gobierno Federal e instrumentos de la Banca de Desarrollo;
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-XII.- Resolver sobre las circunstancias específicas no previstas en la presente Ley y en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro en relación a las subcuentas del Fondo Nacional de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro. Con fines de coordinación, en la elaboración de las resoluciones que se adopten conforme a esta fracción; el Consejo escuchará previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro. Dichas resoluciones se publicarán en el Diario Oficial de la Federación.
+XII.- Resolver sobre las circunstancias específicas no previstas en la presente Ley y en la Ley de los Sistemas de Ahorro para el Retiro en relación a las subcuentas del Fondo Nacional de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro. Con fines de coordinación, en la elaboración de las resoluciones que se adopten conforme a esta fracción, el Consejo escuchará previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro. Dichas resoluciones se publicarán en el Diario Oficial de la Federación.
 
-Lo anterior, es sin perjuicio de las facultades que, en relación con dichas cuentas, correspondan a la citada Comisión o a otras autoridades del sistema financiero de conformidad con lo previsto en otras disposiciones legales.
+Lo anterior, es sin perjuicio de las facultades que, en relación con dichas cuentas, correspondan a la citada Comisión o a otras autoridades del sistema financiero de conformidad con lo previsto en otras disposiciones legales;
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-XIII.- Designar en el propio Consejo, a los miembros de la Comisión de Inconformidades y de Valuación, a propuesta de los representantes del Gobierno Federal, de los trabajadores y de los patrones, respectivamente, y
+XIII.- Previo dictamen de la Comisión de Vigilancia, designar y remover a los miembros del Comité de Auditoría y someterlos a la ratificación de la Asamblea General;
 
-XIV.- Las demás que le señale la Asamblea General.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XIV.- Conocer y aprobar los informes que le presente el Comité de Auditoría, así como los dictámenes de la Comisión de Vigilancia, sobre la situación que guarda el sistema de control interno del Instituto, para la determinación de las medidas procedentes;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XV.- Evaluar la opinión que le envíe la Comisión de Vigilancia sobre los informes remitidos por el Comité de Auditoría;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XVI.- Conocer la opinión que le envíe la Comisión de Vigilancia sobre los informes presentados por cualquiera de las diferentes áreas de la Administración;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XVII.- A propuesta del Comité de Auditoría, designar o remover al Auditor Externo;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XVIII.- Designar o remover al Auditor Interno a propuesta del Comité de Auditoría; éste lo escogerá de una terna propuesta por el Director General;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XIX.- Aprobar la normatividad que derive de la presente Ley, salvo aquella que se encuentre reservada expresamente para aprobación de la Asamblea General;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XX.- Interpretar para efectos administrativos la presente Ley;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XXI.- Establecer los comités que estime necesarios para el cumplimiento de sus funciones, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+XXII.- Las demás que le señale la Asamblea General o se desprendan de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 17.
 
-La Comisión de Vigilancia se integrará con nueve miembros designados por la Asamblea General. Cada una de las representaciones propondrá el nombramiento de tres miembros, con sus respectivos suplentes.
+La Comisión de Vigilancia se integrará con nueve miembros nombrados de la siguiente forma:
 
-Los miembros de esta Comisión, no podrán serlo de la Asamblea General ni del Consejo de Administración.
+Tres a propuesta de los representantes del Gobierno Federal, tres a propuesta de los representantes de los trabajadores y tres a propuesta de los representantes patronales ante la Asamblea General.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+Por cada miembro propietario deberá haber un suplente.
 
-La Comisión de Vigilancia será presidida en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el artículo 7o.
+Los miembros propietarios y suplentes de esta Comisión, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
 
-Los miembros de la Comisión de Vigilancia durarán en su cargo seis años y serán removidos por la Asamblea General, a petición de la representación que los hubiere propuesto.
+1. Ser una persona de reconocido prestigio.
 
-La solicitud de remoción que presente el sector, se hará por conducto del Director General.
+2. Contar con conocimientos y experiencia mínima de cinco años en materia financiera, legal o administrativa.
 
-En tanto se reúne la Asamblea General, los miembros de la Comisión de Vigilancia cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones.
+3. No haber sido condenado por sentencia irrevocable por delito patrimonial o intencional que haya ameritado pena corporal, y
+
+4. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
+
+La Comisión de Vigilancia sesionará por lo menos una vez al mes y será presidida en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+
+Los miembros de la Comisión de Vigilancia durarán en su cargo seis años y podrán ser removidos por la Asamblea General, a petición de quien les hubiere propuesto. La solicitud de remoción, se hará por conducto del Director General.
+
+Los miembros de la Comisión de Vigilancia cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones y el suplente tomará su lugar, hasta en tanto la Asamblea General determine lo conducente.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 18.
 
-La Comisión de Vigilancia tendrá las siguientes atribuciones y funciones:
+La Comisión de Vigilancia tendrá las siguientes atribuciones y facultades:
 
-I.- Vigilar que la administración de los recursos y los gastos, así como las operaciones se hagan de acuerdo con las disposiciones de esta Ley y de sus Reglamentos;
+I.- Proponer a la Asamblea y al Consejo de Administración, en su caso, las medidas que juzgue convenientes para mejorar el funcionamiento del Instituto;
 
-II.- Practicar la auditoría de los estados financieros y comprobar, cuando lo estime conveniente los avalúos de los bienes, materia de operación del Instituto;
+II.- Proponer para la aprobación de la Asamblea General el Código de Ética del Instituto;
 
-III.- Proponer a la Asamblea y al Consejo de Administración, en su caso, las medidas que juzgue convenientes para mejorar el funcionamiento del Instituto, y
+III.- Vigilar que los integrantes de los Órganos del Instituto actúen conforme a la normatividad aplicable y con apego al Código de Ética del Instituto;
 
-IV.- En los casos que a su juicio lo ameriten, citar a Asamblea General.
+IV.- Informar, una vez al año, a la Asamblea General sobre el funcionamiento de los Órganos del Instituto;
 
-La Comisión de Vigilancia dispondrá del personal y de los elementos que requiera para el eficaz cumplimiento de sus atribuciones y funciones.
+V.- Proponer a la Asamblea General la designación o remoción de los miembros del Comité de Transparencia y Acceso a la Información y de la Comisión de Inconformidades;
+
+VI.- Vigilar la actuación del Comité de Transparencia y Acceso a la Información y de la Comisión de Inconformidades;
+
+VII.- En los casos que a su juicio lo amerite, convocar a Asamblea General;
+
+VIII.- Enviar al Consejo de Administración su opinión sobre el informe periódico que le remita el Comité de Auditoría;
+
+IX.- Emitir dictamen sobre el informe que le remita el Comité de Auditoría en relación a la situación que guarda el sistema de control interno del Instituto, para su presentación al Consejo de Administración o a la Asamblea General;
+
+X.- Enviar al Consejo de Administración su opinión sobre el informe que le presente mensualmente cualquiera de las diferentes áreas de la Administración, y
+
+XI.- Dictaminar la propuesta para el nombramiento y remoción de los miembros del Comité de Auditoría.
+
+La Comisión de Vigilancia podrá solicitar la opinión de terceros para el adecuado desempeño de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 18 Bis.
+
+El Comité de Auditoría se integrará en forma tripartita con un miembro por cada representación, designados por el Consejo de Administración, previo dictamen de la Comisión de Vigilancia, y sujetos a la ratificación de la Asamblea General.
+
+Por cada miembro propietario deberá haber un suplente.
+
+Los miembros propietarios y suplentes de este Comité, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
+
+1. Ser una persona de reconocido prestigio.
+
+2. Contar con Título y Cédula Profesional.
+
+3. Contar con conocimientos y experiencia profesional mínima de cinco años en materia de auditoría relacionada con entidades financieras.
+
+4. No haber sido condenado por sentencia irrevocable por delito patrimonial o intencional que haya ameritado pena corporal, y
+
+5. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
+
+El Comité de Auditoría será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+
+Los miembros del Comité durarán en su cargo seis años y serán removidos, previo dictamen de la Comisión de Vigilancia, por el Consejo de Administración, a petición de la representación que los hubiere propuesto; dicha remoción deberá ser ratificada por la Asamblea General.
+
+Los miembros del Comité de Auditoría cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones, y el suplente tomará su lugar, hasta en tanto la Asamblea General determine lo conducente.
+
+Para el cumplimiento de sus funciones, el Comité de Auditoría se auxiliará del Auditor Interno y sesionará por lo menos una vez al mes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 18 Bis 1.
+
+El Comité de Auditoría deberá desempeñar las actividades siguientes:
+
+I.- Vigilar que la administración de los recursos y los gastos, así como las operaciones se hagan de acuerdo con las disposiciones de esta Ley y de la normatividad que de la misma emane;
+
+II.- Aprobar los dictámenes, opiniones, reportes o informes que elabore el Auditor Externo, para enviarlos al Consejo de Administración. En caso de considerarlo conveniente, solicitar al propio Consejo que se convoque a Asamblea General;
+
+III.- Proponer para aprobación del Consejo de Administración los lineamientos generales en materia de control interno que el Instituto requiera para su adecuado funcionamiento, así como sus actualizaciones;
+
+IV.- Aprobar los manuales de operación del Instituto, en la parte relativa a las políticas y procedimientos que en materia de control interno se requieran para el correcto funcionamiento del Instituto, acordes con la normatividad que sobre el particular haya sido aprobada por el Consejo de Administración;
+
+V.- Verificar, cuando menos una vez al año, que el programa de auditoría se desempeñe de conformidad con estándares de calidad adecuados en materia contable y de controles internos;
+
+VI.- Evaluar e informar al Consejo de Administración, cuando menos dos veces al año, y una vez al año a la Asamblea General, previo dictamen de la Comisión de Vigilancia, sobre la situación que guarda el sistema de control interno del Instituto;
+
+VII.- Verificar la existencia y funcionamiento de un sistema integral de información de la situación patrimonial de los funcionarios del Instituto, aprobado por el Consejo de Administración a propuesta del Director General;
+
+VIII.- En general, conocer y evaluar las operaciones relevantes del Instituto y la información financiera producida por la administración;
+
+IX.- Enviar a la Comisión de Vigilancia un informe periódico sobre la situación financiera del Instituto, y
+
+X.- Las demás que se señalen en la normatividad que al efecto emita el Consejo de Administración.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-La Comisión de Vigilancia designará a un Auditor Externo que será Contador Público en ejercicio de su profesión, para auditar y certificar los estados financieros del Instituto. El auditor externo tendrá las más amplias facultades para revisar la contabilidad y los documentos de la Institución y podrá sugerir a la Comisión de Vigilancia las modificaciones y reformas que a su juicio convenga introducir, poniendo a su disposición los informes y documentos que requiera el ejercicio de sus atribuciones y funciones.
+El Auditor Externo será designado por el Consejo de Administración de entre tres candidatos propuestos por el Comité de Auditoría, no podrá ocupar el cargo por más de cinco años y deberá reunir los siguientes requisitos:
+
+1. Ser una persona de reconocido prestigio.
+
+2. Contar con Título y Cédula Profesional de Contador Público o Licenciado en Contaduría.
+
+3. Estar debidamente certificado.
+
+4. Contar con conocimientos y experiencia profesional mínima de cinco años en materia de auditoría relacionada con entidades financieras.
+
+5. No haber sido condenado por sentencia irrevocable por delito patrimonial o intencional que haya ameritado pena corporal.
+
+6. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
+
+7. Ser socio de una firma de contadores públicos de reconocido prestigio. Esta firma no podrá ser la misma que aquélla a la que hubiera pertenecido el Auditor, en el período inmediato anterior, y
+
+8. No desempeñar ningún cargo o comisión en el servicio público.
+
+El Comité de Auditoría propondrá al Consejo de Administración una firma de reconocido prestigio para que se autorice la contratación del Auditor Externo. Para este efecto podrá solicitar a un Colegio o Instituto de Contadores Públicos ampliamente representativo de la profesión, le proponga una terna de firmas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 19 Bis.
+
+El Auditor Externo tendrá las siguientes atribuciones y facultades:
+
+I.- Practicar la auditoría de los estados financieros y comprobar, cuando lo estime conveniente los avalúos de los bienes, materia de operación del Instituto;
+
+II.- Emitir anualmente un dictamen al Comité de Auditoría sobre la situación financiera que guarda el Instituto, para su presentación a la Asamblea General por medio del Consejo de Administración.
+
+Para rendir fundadamente dicho dictamen, deberá llevar a cabo el examen de las operaciones, documentación, registros y demás evidencias comprobatorias, en el grado y extensión que sean necesarios;
+
+III.- Hacer del conocimiento del Consejo de Administración, por conducto del Comité de Auditoría, información sobre la situación financiera que guarda el Instituto, y
+
+IV.- Asistir, con voz, pero sin voto, a las sesiones de la Asamblea General y del Consejo de Administración.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 19 Bis 1.
+
+El Auditor Externo será responsable para con el Instituto por el cumplimiento de las obligaciones que esta Ley le impone y será solidariamente responsable con el que le haya precedido por las irregularidades en que éste hubiere incurrido si, conociéndolas, no las denunciare por escrito a la Asamblea General.
+
+El Auditor Externo que en cualquier asunto relacionado con el Instituto tuviere un conflicto de intereses, deberá abstenerse de toda intervención.
 
 ###### ARTICULO 20.
 
-La Comisión de Vigilancia presentará ante la Asamblea General, un dictamen sobre los estados financieros de cada ejercicio social del Instituto, acompañado del dictamen del auditor externo; para cuyo efecto les serán dados a conocer, por lo menos treinta días antes de la fecha en que se vaya a celebrar la Asamblea General correspondiente.
+(DEROGADO, D.O.F. 1 DE JUNIO DE 2005)
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 21.
 
-El Balance Anual del Instituto deberá publicarse dentro de los treinta días siguientes a la fecha en que sea aprobado por la Asamblea General, por lo menos en dos de los diarios que tengan mayor circulación.
+El Balance Anual del Instituto deberá publicarse dentro de los treinta días siguientes a la fecha en que sea aprobado por la Asamblea General, en el Diario Oficial de la Federación y en dos de los diarios de mayor circulación.
 
 ###### ARTICULO 22.
 
 El Director General será nombrado por la Asamblea General, a proposición del Presidente de la República. Para ocupar dicho cargo, se requiere ser mexicano por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 23.
 
-El Director General tendrá las siguientes atribuciones y funciones:
+El Director General tendrá las siguientes atribuciones y facultades:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje así como otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el acuerdo del Consejo de Administración.
+El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje así como otorgar y revocar poderes generales o especiales.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-Las facultades que correspondan al Instituto, en su carácter de organismo fiscal autónomo, de conformidad con el artículo 30 de esta Ley, se ejercerán por el Director General, el Subdirector General Jurídico y de Fiscalización, los Delegados Regionales y el demás personal que expresamente se indique en el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia de facultades como organismo fiscal autónomo.
+Las facultades que correspondan al Instituto, en su carácter de organismo fiscal autónomo, de conformidad con el Artículo 30 de esta Ley, se ejercerán por el Director General y el demás personal que expresamente se indique en el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia de facultades como organismo fiscal autónomo;
 
 II.- Asistir a las sesiones de la Asamblea General y del Consejo de Administración, con voz, pero sin voto;
 
@@ -282,13 +498,19 @@ V.- Presentar al Consejo de Administración, a más tardar el último día de oc
 
 VI.- Presentar a la consideración del Consejo de Administración, un informe mensual sobre las actividades del Instituto;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-VII.- Presentar al Consejo de Administración, para su consideración y en su caso aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 42, a ser subastados y otorgados, según corresponda, por el Instituto.
+VII.- Presentar al Consejo de Administración, para su consideración y en su caso aprobación, los programas de créditos a que se refiere la fracción II del Artículo 42, a ser otorgados por el Instituto;
 
 VIII.- Nombrar y remover al personal del Instituto, señalándole sus funciones y remuneraciones; y
 
-IX.- Las demás que le señalen esta Ley y sus disposiciones reglamentarias.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+IX.- Después de ser aprobado por la Asamblea General, enviar al Congreso de la Unión, durante el mes de octubre de cada año, un Informe sobre la situación financiera, patrimonial y operativa que guarda el Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+X.- Las demás que le señalen esta Ley y sus disposiciones reglamentarias.
 
 ###### ARTICULO 24.
 
@@ -296,15 +518,71 @@ La Asamblea General, a propuesta de los representantes de los trabajadores y de 
 
 El Director General y los Directores Sectoriales no podrán ser miembros de la Asamblea General, del Consejo de Administración, ni de la Comisión de Vigilancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 25.
 
-La Comisión de Inconformidades y de Valuación se integrará en forma tripartita con un miembro por cada representación, designados conforme a lo dispuesto por el artículo 16. Por cada miembro propietario se designará un suplente.
+La Comisión de Inconformidades se integrará en forma tripartita con un miembro por cada representación, designados por la Asamblea General y durarán en su cargo seis años. Por cada miembro propietario se designará un suplente.
 
-La Comisión conocerá, substanciará y resolverá los recursos que promuevan ante el Instituto, los patrones, los trabajadores o sus causahabientes y beneficiarios, en los términos del reglamento correspondiente y con sujeción a los criterios que sobre el particular, establezca el Consejo de Administración.
+La Comisión será presidida en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
 
-La Comisión conocerá de las controversias que se susciten sobre el valor de las prestaciones que las empresas estuvieren otorgando a los trabajadores, en materia de habitación, para decidir si son inferiores, iguales o superiores al porcentaje consignado en el artículo 136 de la Ley Federal del Trabajo y poder determinar las aportaciones que deban enterar al Instituto o si quedan exentas de tal aportación. Una vez tramitadas las controversias en los términos del reglamento respectivo, la Comisión presentará un dictamen sobre las mismas al Consejo de Administración, que resolverá lo que a su juicio proceda.
+Los miembros de la Comisión, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
+
+1. Ser una persona de reconocido prestigio.
+
+2. Contar con conocimientos y experiencia profesional mínima de cinco años.
+
+3. No haber sido condenado por sentencia irrevocable por delito patrimonial o intencional que haya ameritado pena corporal, y
+
+4. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
+
+La Comisión conocerá de las reclamaciones que reciba por parte de patrones, los trabajadores o sus causahabientes y beneficiarios, cuando a juicio de éstos hubiesen recibido un tratamiento incorrecto, injusto o negligente y se asegurará de su debida atención, en los términos de la normatividad correspondiente.
+
+La Comisión conocerá, substanciará y resolverá los recursos que promuevan ante el Instituto, los patrones, los trabajadores o sus causahabientes y beneficiarios; en los términos de la normatividad correspondiente y con sujeción a los criterios que sobre el particular, establezca la Comisión de Vigilancia.
+
+La Comisión conocerá de las controversias que se susciten sobre el valor de las prestaciones que las empresas estuvieren otorgando a los trabajadores, en materia de habitación, para decidir si son inferiores, iguales o superiores al porcentaje consignado en el Artículo 136 de la Ley Federal del Trabajo y poder determinar las aportaciones que deban enterar al Instituto o si quedan exentas de tal aportación. Una vez tramitadas las controversias en los términos de la normatividad respectiva, la Comisión presentará un dictamen sobre las mismas a la Comisión de Vigilancia, que resolverá lo que a su juicio proceda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 25 Bis.
+
+El Comité de Transparencia y Acceso a la Información se integrará en forma tripartita, por un representante del sector de los trabajadores, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
+
+El Comité será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+
+Los miembros del Comité, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
+
+1. Ser una persona de reconocido prestigio.
+
+2. Contar con conocimientos y experiencia profesional mínima de cinco años.
+
+3. No haber sido condenado por sentencia irrevocable por delito patrimonial o intencional que haya ameritado pena corporal, y
+
+4. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 25 Bis 1.
+
+Son funciones del Comité de Transparencia y Acceso a la Información:
+
+I.- Proveer lo necesario para que toda persona pueda tener acceso a la información de conformidad con la normatividad vigente del Instituto y apegada a los principios y políticas generales de la materia;
+
+II.- Transparentar la gestión mediante la difusión de la información que genera el Instituto;
+
+III.- Garantizar la protección de los datos personales en posesión del Instituto;
+
+IV.- Favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Instituto;
+
+V.- Mejorar la organización, clasificación y manejo de los documentos;
+
+VI.- Contribuir a la democratización de la sociedad mexicana y la plena vigencia del Estado de derecho;
+
+VII.- Resolver el recurso de revisión promovido por los solicitantes en los casos de negativa de acceso a la información o por la inexistencia de los documentos solicitados, y
+
+VIII.- Publicar un informe anual que contenga las actividades realizadas para garantizar el acceso a la información y remitir una copia del mismo al Instituto Federal de Acceso a la Información Pública.
+
+Las anteriores funciones se reglamentarán en la normatividad que en esta materia expida la Asamblea General.
 
 ###### ARTICULO 26.
 
@@ -322,9 +600,11 @@ III.- Las de carácter administrativo que establezca el Reglamento de las Delega
 
 IV.- Las demás de carácter consultivo que les encomiende el Director General.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 28.
 
-En la Asamblea General, corresponderá emitir un voto a los representantes del Gobierno Federal, uno a los representantes de los Trabajadores y uno a los representantes de los Patrones. En el Consejo de Administración, en la Comisión de Vigilancia y en la Comisión de Inconformidades y Valuación, cada uno de sus miembros tendrá un voto.
+En la Asamblea General cada sector contará con un voto. En el Consejo de Administración, en la Comisión de Vigilancia, en el Comité de Auditoría, en el Comité de Transparencia y Acceso a la Información y en la Comisión de Inconformidades, cada uno de sus miembros tendrá un voto.
 
 ###### ARTICULO 29.
 
@@ -334,7 +614,7 @@ I.- Proceder a inscribirse e inscribir a sus trabajadores en el Instituto y dar 
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
-Los patrones estarán obligados, siempre que contraten un nuevo trabajador, a solicitarle su número de Clave Unica de Registro de Población.
+Los patrones estarán obligados, siempre que contraten un nuevo trabajador, a solicitarle su número de Clave Única de Registro de Población.
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -554,7 +834,9 @@ El interés anual que se acreditará a las subcuentas de vivienda, se integrará
 
 Para obtener la cantidad básica, se aplicará al saldo de las subcuentas de vivienda, la tasa de incremento del salario mínimo del Distrito Federal que resulte de la revisión que para ese año haya aprobado la Comisión Nacional de los Salarios Mínimos.
 
-El Consejo de Administración procederá, al cierre de cada ejercicio, a calcular los ingresos y egresos del Instituto de acuerdo con los criterios aplicables y ajustándose a sanas técnicas contables y a las disposiciones emitidas por la Comisión Nacional Bancaria y de Valores para determinar el remanente de operación. No se considerarán remanentes de operación las cantidades que se lleven a las reservas previstas en esta Ley.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+El Consejo de Administración procederá, al cierre de cada ejercicio, a calcular los ingresos y egresos del Instituto de acuerdo con los criterios y disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en el ejercicio de las atribuciones que le son conferidas en el Artículo 66 de la presente Ley, para determinar el remanente de operación. No se considerarán remanentes de operación las cantidades que se lleven a las reservas previstas en esta misma Ley, así como aquellas destinadas a preservar el patrimonio del Instituto.
 
 Una vez determinado por el Consejo de Administración el remanente de operación del Instituto en los términos del párrafo anterior, se le disminuirá la cantidad básica para obtener la cantidad de ajuste resultante. Dicha cantidad de ajuste se acreditará en las subcuentas de vivienda a más tardar en el mes de marzo de cada año.
 
@@ -866,11 +1148,11 @@ Sin perjuicio de lo anterior, los patrones deberán proporcionar copias de las p
 
 Comete delito equiparable al de defraudación fiscal en los términos del Código Fiscal de la Federación, y será sancionado con las penas señaladas para dicho ilícito, quien haga uso de engaño, aproveche error, simule algún acto jurídico u oculte datos, para omitir total o parcialmente el pago de las aportaciones o el entero de los descuentos realizados.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 58.
 
-Se reputará como fraude y se sancionará como tal, en los términos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, el obtener los créditos o recibir los depósitos a que esta ley se refiere, sin tener derecho a ello, mediante engaño, simulación o sustitución de persona.
+Se reputará como fraude y se sancionará como tal, en los términos del Código Penal Federal, el obtener los créditos o recibir los depósitos a que esta Ley se refiere, sin tener derecho a ello, mediante engaño, simulación o sustitución de persona.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -908,15 +1190,29 @@ El Instituto no podrá intervenir en la administración, operación o mantenimie
 
 (DEROGADO, D.O.F. 24 DE FEBRERO DE 1992)
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 66.
 
-Con el fin de que los recursos del Instituto se inviertan de conformidad con lo que dispone la presente Ley, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Seguros, tendrá las siguientes facultades:
+Con el fin de que los recursos del Instituto se inviertan de conformidad con lo que dispone la presente Ley, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, tendrá las siguientes facultades:
 
 I.- La Secretaría de Hacienda y Crédito Público, vigilará que los programas financieros anuales del Instituto no excedan a los presupuestos de ingresos corrientes y de los financiamientos que reciba el Instituto. Dichos financiamientos deberán ser aprobados previamente por esta Secretaría, y
 
-II.- La Comisión Nacional Bancaria y de Seguros, aprobará los sistemas de organización de la contabilidad y de auditoría interna del Instituto y tendrá acceso a dicha contabilidad, pudiendo verificar los asientos y operaciones contables correspondientes. La propia Comisión vigilará que las operaciones del Instituto se ajusten a las normas establecidas y a las sanas prácticas, informando al Instituto y a la Secretaría de Hacienda y Crédito Público de las irregularidades que pudiera encontrar, para que se corrijan.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
-En virtud de lo anterior, no son aplicables al Instituto del Fondo Nacional para la Vivienda de los Trabajadores, las disposiciones de la Ley para el control por parte del Gobierno Federal, de los Organismos Descentralizados y Empresas de Participación Estatal.
+II.- La Comisión Nacional Bancaria y de Valores, aprobará los sistemas de organización de la contabilidad y de auditoría interna del Instituto en el ámbito de su competencia, dictándole las normas de registro contable de sus operaciones, fijándole las reglas para la estimación de sus activos, y en su caso, de sus obligaciones y responsabilidades, y expidiéndole las normas de carácter prudencial a que se sujetarán sus operaciones, atendiendo a esta Ley y a la naturaleza de los fines del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+III.- La Comisión Nacional Bancaria y de Valores supervisará y vigilará que las operaciones del Instituto se ajusten a las normas establecidas y a las sanas prácticas, informando al Instituto y a la Secretaría de Hacienda y Crédito Público de las irregularidades que pudiera encontrar, para que se corrijan, y en su caso, impondrá las sanciones que correspondan en el ejercicio de sus funciones, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+IV.- La Comisión Nacional Bancaria y de Valores ejercerá todas las demás facultades aplicables que le son conferidas, conforme a lo dispuesto en su propia Ley y sus Reglamentos respectivos.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+
+En virtud de lo anterior, no son aplicables al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las disposiciones de la Ley Federal de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -1150,7 +1446,7 @@ DECIMO PRIMERO.- En relación a lo dispuesto en el artículo 39, durante el prim
 
 DECIMO SEGUNDO.- Los artículos de la Ley del Seguro Social que se citan en este Decreto, se refieren a la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 21 de diciembre de 1995.
 
-DECIMO TERCERO.- Para la identificación del trabajador se utilizará su número de seguridad social en tanto no se le asigne su Clave Unica de Registro de Población (CURP) en los términos previstos por el "Acuerdo para la adopción y uso por la Administración Pública Federal de la Clave Unica de Registro de Población", publicado en el Diario Oficial de la Federación el 23 de octubre de 1996.
+DECIMO TERCERO.- Para la identificación del trabajador se utilizará su número de seguridad social en tanto no se le asigne su Clave Única de Registro de Población (CURP) en los términos previstos por el "Acuerdo para la adopción y uso por la Administración Pública Federal de la Clave Única de Registro de Población", publicado en el Diario Oficial de la Federación el 23 de octubre de 1996.
 
 DECIMO CUARTO.- A los descuentos efectuados a los acreditados por concepto de cuotas de administración, operación y mantenimiento de conjuntos habitacionales y que no hayan sido retirados por las representaciones vecinales a la fecha de entrada en vigor de esta Ley, se les aplicarán los siguientes criterios:
 
@@ -1175,3 +1471,13 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 D.O.F. 25 DE MAYO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberá implementar lo previsto en el presente Decreto a más tardar el 31 de julio de 2005.
+
+TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
