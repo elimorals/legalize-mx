@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-ley-de-transporte-para-el-estado-de-baja-12259
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-06-05"
-last_updated: "2002-06-20"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE JUNIO DE 2005.
 
-Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 5 de junio de 1998.
+Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el vienres 5 de junio de 1998.
 
 GUILLERMO MERCADO ROMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN EJERCICIO DE LA FACULTAD QUE ME CONFIEREN lOS ARTÍCULOS 79 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y 70 FRACCIÓN II DE LA LEY DE TRANSPORTE PARA El ESTADO DE BAJA CALIFORNIA SUR, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -129,9 +129,11 @@ d) Diseño y proyección del trazo de rutas de transporte urbano colectivo que r
 
 e) Las demás atribuciones en materia de transporte que les confiera la Ley y otras disposiciones legales y reglamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JUNIO DE 2005)</small>
+
 ###### Artículo 10.
 
-Son facultades de la Dirección de Transporte las siguientes:
+Son facultades de la Dirección, las siguientes:
 
 I. Conocer de las solicitudes para el otorgamiento de concesiones de servicio público de transporte terrestre, que se le formulen al Gobernador del Estado;
 
@@ -151,9 +153,15 @@ VIII. Elaborar los estudios técnicos y socioeconómicos para determinar las nec
 
 IX. Ordenar la suspensión de la circulación de unidades autorizadas para la prestación del servicio público de transporte, cuando éstas no reúnan las condiciones que exige la Ley y este Reglamento; así como aprobar la reanudación de su circulación, una vez que se cumpla con las condiciones antes mencionadas;
 
-X. Aplicar las sanciones que sean de su competencia en términos de la Ley y de este Reglamento, y
+> <small>(REFORMADA, B.O. 1 DE JUNIO DE 2005)</small>
 
-XI. Las demás que le confiera la Ley y el presente Reglamento y el Gobernador del Estado, en el ámbito de su competencia.
+X. Aplicar las sanciones que sean de su competencia en términos de la Ley y de este Reglamento;
+
+> <small>(ADICIONADA, B.O. 1 DE JUNIO DE 2005)</small>
+
+XI.- Conocer y emitir resoluciones administrativas; así como resolver el Recurso de Reconsideración contemplado en el Capítulo 11 de Titulo VI de la ley; y
+
+XII.- Las demás que le confiera la Ley, el presente Reglamento y el Gobernador del Estado, en el ámbito de su competencia.
 
 ###### Artículo 11.
 
@@ -1417,103 +1425,25 @@ En términos del artículo 7º fracción IX de la Ley, el Ejecutivo del Estado p
 
 ###### Artículo 165.
 
-La contravención a las disposiciones de la Ley y a este Reglamento que son regulatorias del servicio público de transporte, se sancionarán conforme al siguiente:
+(DEROGADO, B.O. 1 DE JUNIO DE 2005)
 
-TABULADOR
-
-Bases para determinar infracciones y fijar sanciones con motivo de la aplicación de la Ley y este Reglamento.
-
-CONCEPTO DE INFRACCIÓN SANCIÓN
-
-Salarios Fundamento
-
-Mínimos Legal
-
-Reglamento
-
-Min. Max. Art./Fracc.
-
-ASEO:
-
-Falta de aseo en el vehículo de 5 10 48 Fracc. V
-
-Servicio Público de transporte
-
-de Pasajeros
-
-Falta de aseo del Conductor de 10 20 123 Fracc. XIII
-
-Servicio Público de transporte
-
-de Pasajeros
-
-Sitios, centrales y terminales sucias. 15 25 93 Fracc. IV
-
-DOCUMENTOS:
-
-Dar boletos que no reúnan los
-
-requisitos legales 10 15 54
-
-No entregar boletos al público usuario. 10 20 123 Fracc. XVIII
-
-Negarse a entregar boletos de
-
-equipaje 5 10 60 Fracc. III
-
-CORTESIA:
-
-Comportase con falta de cortesía
-
-al público 20 30 123 Fracc. XII
-
-EQUIPAJE:
-
-Negarse a cubrir el pago por extravío
-
-de Equipaje 10 20 63
-
-INSTALACIÓN DE TERMINALES
-
-Instalaciones inadecuadas 20 30 95
-
-Instalaciones Incompletas 20 30 95
-
-AUTORIZACIÓN:
-
-Falta de autorización de la unidad en 20 30 44
-
-que se prestara el servicio público
-
-de transporte
-
-SEGUROS EN TRANSPORTE PÚBLICO
-
-No tener póliza de seguro 20 30 103
-
-No tener póliza de Seguro Vigente 10 20 111
-
-No traer la póliza de seguro 5 10 116 fracc. V
-
-DISCAPACITADOS:
-
-No reservar los asientos en el 10 30 112 Fracc. I
-
-transporte para los discapacitados
+> <small>(REFORMADO, B.O. 1 DE JUNIO DE 2005)</small>
 
 ###### Artículo 166.
 
-Las infracciones contempladas en el tabulador referido anteriormente, serán aplicadas por el personal de inspectores de la Dirección de Transporte, mismas que deberán ser pagadas en las oficinas recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+Las infracciones contempladas en el tabulador referido en el Artículo76 de la Ley, serán aplicadas por el personal de la Dirección, mismas que deberán ser pagadas en las oficinas recaudadoras de la Secretaría de Finanzas del Gobierno del Estado.
 
-Los ingresos provenientes de las sanciones a que se refiere el párrafo anterior serán destinados para apoyar el funcionamiento de la Dirección de Transporte del Gobierno del Estado.
+Los ingresos provenientes de las sanciones a que se refiere el párrafo anterior serán destinados para apoyar el funcionamiento de la Dirección.
+
+> <small>(REFORMADO, B.O. 1 DE JUNIO DE 2005)</small>
 
 ###### Artículo 167.
 
-Las infracciones que se cometan por violación a horarios, tarifas y rutas autorizadas para brindar el servicio público de transporte en la modalidad que corresponda, serán sancionadas por la autoridad municipal competente con multa que no podrá ser menor de cinco ni mayor de treinta días de salario mínimo vigente en la entidad.
+Las infracciones que se cometan por violación a horarios, tarifas y rutas autorizadas para brindar el servicio público de transporte en la modalidad, que corresponda, serán sancionadas por la autoridad municipal competente con multa que no podrá ser inferior o exceder de las establecidas en el Artículo 76 de la Ley. Dichas sanciones deberán especificarse en los reglamentos municipales correspondientes.
 
 Cuando con motivo de la conducción de las unidades destinadas a prestar el servicio público o particular de transporte, se cometan infracciones a las disposiciones legales en materia de tránsito, se estará a lo establecido en los ordenamientos legales respectivos y las autoridades municipales levantarán las infracciones y aplicarán las sanciones que correspondan.
 
-La autoridad municipal notificará a la ''Dirección'' de la aplicación de las sanciones a que se refiere este artículo.
+La autoridad municipal notificará a la Dirección de la aplicación de las sanciones a que se refiere este Artículo.
 
 ### CAPITULO XXVII. DE LOS RECURSOS
 
@@ -1590,3 +1520,9 @@ B.O. 20 DE JUNIO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 1 DE JUNIO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
