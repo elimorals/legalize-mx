@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2004-10-30"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2005.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -53,13 +53,17 @@ DE LOS DERECHOS DEL GOBERNADO.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO I
+### CAPITULO I.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 4o.
 
 En el Estado de Chihuahua, toda persona gozará de los derechos que establecen esta Constitución y la Federal.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -341,7 +345,7 @@ Es revocable el mandato de los funcionarios públicos electos mediante el voto. 
 
 Los partidos políticos recibirán en forma equitativa, de acuerdo con las disponibilidades presupuestales y en los términos que establezca la ley, recursos del erario público estatal para su sostenimiento y para que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del Sufragio Universal.
 
-La ley establecerá los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asímismo establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+La ley establecerá los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
 
 La autoridad electoral garantizará condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
 
@@ -565,7 +569,7 @@ VI.- No ser ministro de algún culto religioso o haberse retirado del mismo en l
 
 Los diputados en ejercicio, durante el período de su encargo, no podrán desempeñar ninguna otra comisión, cargo o empleo de la federación, de éste u otro Estado o de algún municipio, por los cuales se perciba remuneración, sin licencia previa del Congreso o de la Diputación Permanente.
 
-Concedida la licencia, cesarán en su funciones representativas mientras desempeñen la nueva ocupación. La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio.
+Concedida la licencia, cesarán en sus funciones representativas mientras desempeñen la nueva ocupación. La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio.
 
 La infracción de esta disposición será castigada, previa audiencia del interesado, con la pérdida del carácter de diputado.
 
@@ -1307,7 +1311,7 @@ Las faltas temporales o absolutas del Gobernador se suplirán en la siguiente fo
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-I. En caso de falta temporal que no exceda de sesenta días, el Secretario General de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente. Si la falta excediere de dicho plazo, el Congreso o la citada Diputación nombrará un Gobernador Interino. Si la falta temporal se convierte en absoluta, se estará a lo dispuesto en la fracción IV de este precepto.
+I.- En caso de falta temporal que no exceda de sesenta días, el Secretario General de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente. Si la falta excediere de dicho plazo, el Congreso o la citada Diputación nombrará un Gobernador Interino. Si la falta temporal se convierte en absoluta, se estará a lo dispuesto en la fracción IV de este precepto.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1323,11 +1327,11 @@ IV.- Si la falta absoluta ocurriere no encontrándose el Gobernador en ejercicio
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-V. Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Secretario General de Gobierno se encargará del Despacho, hasta la toma de posesión del Gobernador Provisional o del Sustituto, en sus respectivos casos;
+V.- Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Secretario General de Gobierno se encargará del Despacho, hasta la toma de posesión del Gobernador Provisional o del Sustituto, en sus respectivos casos.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-VI. Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministerio de ley el Secretario General de Gobierno, Provisional o Sustituto, se requieren las condiciones que para ser Gobernador Constitucional exigen las fracciones I, II, III y IV del artículo 84 de esta Constitución.
+VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministerio de ley el Secretario General de Gobierno, Provisional o Sustituto, se requieren las condiciones que para ser Gobernador Constitucional exigen las fracciones I, II, III y IV del artículo 84 de esta Constitución.
 
 ###### Art. 90.
 
@@ -1991,11 +1995,11 @@ No podrán ser reelectos para el período inmediato, los miembros de las Juntas 
 
 En las elecciones de ayuntamientos, juntas municipales y comisarios de policía, sólo podrá votar quien reúna los siguientes requisitos:
 
-I.- Ser ciudadano mexicano y chihuahuense,
+I.- Ser ciudadano mexicano y chihuahuense.
 
 II.- Ser vecino del Estado, y
 
-III.- Tener cuando menos dos meses de residencia habitual inmediatamente anteriores a la fecha de la elección en la municipalidad, sección municipal o comisaria de policía de que se trate.
+III.- Tener cuando menos dos meses de residencia habitual inmediatamente anteriores a la fecha de la elección en la municipalidad, sección municipal o comisaría de policía de que se trate.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -2757,7 +2761,7 @@ Mientras no se expidan las leyes orgánicas que ella exige, continuarán vigente
 
 Los preceptos que establecen los requisitos necesarios para los funcionarios públicos de elección popular, no son aplicables a los electos últimamente.
 
-DECRETO NO. 356.
+DECRETO No. 356.
 
 INGENIERO FERNANDO FOGLIO MIRAMONTES GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -3144,3 +3148,13 @@ DECRETO No. 1011/04 II P.O., QUE MODIFICA EL ARTICULO 93, EN SU FRACCION XXXIV, 
 PRIMERO. Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución local.
 
 SEGUNDO. Realizado que sea el procedimiento del artículo 202 de la Constitución Política Estatal, publíquese el presente Decreto en el Periódico Oficial del Estado, para que entre en vigor al día siguiente de su publicación.
+
+P.O. 1 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del artículo 202 de la Constitución Política del Estado, envíese a los 67 ayuntamientos del Estado, copia del presente Decreto, de la iniciativa y del Diario de los Debates, en su caso.
