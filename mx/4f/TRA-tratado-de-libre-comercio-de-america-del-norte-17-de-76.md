@@ -4,7 +4,7 @@ identifier: "TRA-tratado-de-libre-comercio-de-america-del-norte-17-de-76"
 country: "mx"
 rank: "tratado"
 publication_date: "1993-12-08"
-last_updated: "2005-05-03"
+last_updated: "2005-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,131 +19,55 @@ issue_date: "1993-12-07"
 ---
 # TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (17 DE DICIEMBRE DE 1992)
 
-MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+COMPLEMENTACION DE LA LISTA DE SERVICIOS EXCLUIDOS POR MEXICO EN EL CAPITULO X DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Modificaciones publicadas en el Diario Oficial de la Federación, el martes 3 de mayo de 2005.
+Acuerdo complementario publicado en el Diario Oficial de la Federación, el miércoles 1 de junio de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en lo dispuesto en el Apéndice 1001.1b-2-A del Tratado de Libre Comercio de América del Norte; los artículos 34 de la Ley Orgánica de la Administración Pública Federal; y 5 fracción X de la Ley de Comercio Exterior, y
 
-Que la Cámara de Senadores del Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+CONSIDERANDO
 
-DECRETO
+Que de conformidad con los artículos 28 fracción II inciso a) y 30 fracción II inciso a) de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, respectivamente, establecen que se deberán llevar a cabo licitaciones públicas internacionales cuando resulte obligatorio conforme a lo establecido en los tratados;
 
-"LA CAMARA DE SENADORES DEL HONORABLE CONGRESO DE LA UNION, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTICULO 76 FRACCION I DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+Que México completó su lista de servicios para la Sección B del Anexo 1001.1b-2 del Tratado de Libre Comercio de América del Norte publicado en el Diario Oficial de la Federación el 20 de diciembre de 1993, después de consultar con Canadá y Estados Unidos, tal como lo establece el Apéndice 1001.1b-2-A de dicho tratado, y
+
+Que debido a que los servicios acordados son un elemento necesario para determinar la cobertura de las compras que lleven a cabo las entidades de la Administración Pública Federal, es necesario hacer del conocimiento de las mismas la lista completa de servicios excluidos por México en el Tratado de Libre Comercio de América del Norte, por lo que he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE COMPLEMENTA LA LISTA DE SERVICIOS EXCLUIDOS POR MEXICO EN EL CAPITULO X DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 20 DE DICIEMBRE DE 1993
 
 ###### ARTICULO UNICO.
 
-Se aprueban las MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, formalizadas mediante intercambio de comunicaciones los días ocho y veintidós de octubre y quince de noviembre de dos mil cuatro, entre los Gobiernos de los Estados Unidos de América, Canadá y los Estados Unidos Mexicanos, respectivamente, conforme a lo siguiente:
+La lista de servicios excluidos por México en el Capítulo X del Tratado de Libre Comercio de América del Norte, establecida en la Sección B del Anexo 1001.1b-2, se complementa con lo siguiente:
 
-Condimentos y especias
+Anexo 1001.1b-2 Servicios
+
+(VEASE ARCHIVO ANEXO)
+
+Notas Generales:
+
+1.- Las disposiciones de este capítulo no aplican a la operación de instalaciones del gobierno sujetas a concesión.
+
+2.- Todos los servicios relacionados con aquellos bienes adquiridos por la Secretaría de la Defensa Nacional y la Secretaría de Marina que no se identifiquen como sujetos a la cobertura de este capítulo (Anexo 1001.1b-1), estarán excluidos de las disciplinas de este capítulo.
+
+3.- Todos los servicios que no se excluyan de la cobertura de este capítulo se sujetarán a las disposiciones sobre ejercicio profesional establecidas en el capítulo XII (Comercio Transfronterizo de Servicios), sus anexos y sus reservas.
+
+4.- Los servicios de administración y operación de contratos otorgados a centros de investigación y desarrollo que operan con fondos federales, o relacionados con la ejecución de programas de investigación patrocinados por el gobierno, quedan excluidos de las disciplinas de este capítulo.
+
+5.- Este capítulo no aplica a la compra de servicios de transporte que formen parte de, o sean conexos a un contrato de compra.
 
 #### Sección I Animales Vivos y Productos del Reino Animal (Capítulos 1 a 5).
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Decreto entrará en vigor el quince de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario del Despacho de Relaciones Exteriores, Luis Ernesto Derbez Bautista.- Rúbrica.
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE
+SEGUNDO.- De conformidad con el párrafo 1 del Apéndice 1001.1b-2-A del Tratado de Libre Comercio de América del Norte, debido a que México ha completado su lista de servicios excluidos para la Sección B del Anexo 1001.1b-2 de acuerdo con el párrafo 2 de dicho apéndice, la lista provisional de servicios que ahí se indica dejará de surtir efectos en cuanto a su aplicación de conformidad con lo establecido en el referido apéndice al día siguiente de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
 
-Adecuaciones Propuestas al Anexo 401
+TERCERO.- No obstante lo dispuesto en el artículo transitorio anterior, la lista de servicios del Apéndice 1001.1b-2-A, "Lista Provisional de servicios de México", del Tratado de Libre Comercio de América del Norte, seguirá aplicando en aquellos procedimientos de contratación que se hayan iniciado con anterioridad a la entrada en vigor del presente Acuerdo.
 
-22.03-22.09: Eliminar la partida 22.03-22.09 y la regla de origen aplicable para las mismas y reemplazar con lo siguiente:
-
-22.03-22.07 Un cambio a la partida 22.03 a 22.07 de cualquier partida fuera del grupo, excepto de la fracción arancelaria 2106.90.ee o partida 22.08 a 22.09.
-
-2208.20 Un cambio a la subpartida 2208.20 de cualquier otra partida, excepto de la fracción arancelaria 2106.90.ee o partida 22.03 a 22.07 o 22.09.
-
-2208.30-2208.70 No se requiere cambio de clasificación arancelaria a la subpartida 2208.30 a 2208.70, siempre que los ingredientes alcohólicos no originarios no constituyan más del 10 por ciento del contenido alcohólico del volumen del bien.
-
-2208.90 Un cambio a la subpartida 2208.90 de cualquier otra partida, excepto de la fracción arancelaria
-
-2106.90.ee o partida 22.03 a 22.07 o 22.09.
-
-22.09 Un cambio a la partida 22.09 de cualquier otra partida, excepto de la fracción arancelaria 2106.90.ee o partida 22.03 a 22.08.
-
-27.10-27.15: Eliminar la partida 27.10-27.15 y la regla de origen aplicable para las mismas y reemplazar con lo siguiente:
-
-27.10 Un cambio a la partida 27.10 de cualquier otra partida, excepto de la partida 27.11 a 27.15; o
-
-Producción de cualquier bien de la partida 27.10 como resultado de la destilación atmosférica, destilación al vacío, hidroprocesamiento catalítico, reformado catalítico, alquilación, craqueo catalítico, craqueo térmico, coqueo o isomerización.
-
-27.11-27.15 Un cambio a la partida 27.11 a 27.15 de cualquier otra partida fuera del grupo, excepto de la partida 27.10.
-
-Inmediatamente después del Capítulo 27 y su título, insertar la siguiente nota para el capítulo:
-
-Nota: Para efectos de la partida 27.10, los siguientes procesos otorgan origen:
-
-(a) Destilación atmosférica - Proceso de separación en el cual el petróleo es convertido, en una torre de destilación, en fracciones de acuerdo al punto de ebullición, posteriormente los vapores son condensados en diferentes fracciones líquidas, gas licuado de petróleo, nafta, gasolina, queroseno, diesel (aceite para calentamiento), gasóleos ligeros, y bases para lubricantes son producidos por medio de la destilación atmosférica de petróleo;
-
-(b) Destilación al vacío - Destilación a presión por debajo de la atmosférica, pero no tan baja para ser considerada como destilación molecular. La destilación al vacío es utilizada para destilar productos sensibles al calor, con puntos de ebullición altos, tales como los destilados pesados contenidos en el petróleo de los cuales se obtienen gasóleos ligeros y pesados de vacío y residuos. En algunas refinerías, los gasóleos pueden ser posteriormente procesados para obtener bases para aceites lubricantes;
-
-(c) Hidroprocesamiento catalítico - El craqueo y/o tratamiento derivados de petróleo con hidrógeno a altas temperaturas y presión, con la presencia de catalizadores especiales.
-
-Hidroprocesamiento catalítico incluye el craqueo con hidrógeno e hidrotratamiento;
-
-(d) Reformado (reformado catalítico) - Consiste en el rearreglo de moléculas en un rango de ebullición de las naftas para formar aromáticos de mayor octano (por ejemplo mejorando la calidad antidetonante a expensas del rendimiento en gasolinas). Uno de los productos principales es el reformado catalítico, utilizado como componente de la mezcla para gasolina.
-
-En este proceso se obtiene hidrógeno como subproducto;
-
-(e) Alquilación - proceso mediante el cual se obtienen gasolinas de alto octanaje para la combinación catalítica de una isoparafina y una oleofina;
-
-(f) Craqueo - proceso de refinación que involucra la descomposición y recombinación molecular de compuestos orgánicos por medio de calor, los que se combinan para formar moléculas más adecuadas para constituir combustibles para motores, monómeros, etc.;
-
-(i) Craqueo térmico - Se someten los hidrocarburos líquidos destilados, a temperaturas elevadas de 540-650C (1000-1200F) por períodos variados de tiempo, el proceso produce menores cantidades de gasolina y en mayor proporción altos rendimientos de destilados intermedios (querosina y diesel) y residuales que mezclados son utilizados como combustibles para calentamiento.
-
-(ii) Craqueo catalítico - Los hidrocarburos en fase de vapor se hacen pasar por un lecho de catalizador metálico (sílice-alúmina o platino) a temperaturas de aproximadamente 400°C (750°F), donde ocurren en segundos, complejas recombinaciones moleculares, para producir gasolinas de mayor octano, gas licuado de petróleo (GLP), olefinas e hidrocarburos residuales. En este proceso se producen en menor cantidad hidrocarburos residuales y ligeros en comparación con el craqueo térmico;
-
-(g) Coqueo - Proceso de craqueo térmico en el que los hidrocarburos residuales pesados de poco valor económico, tales como: crudo reducido, residuo de craqueo, alquitrán, y aceite de esquistos, se convierten por efecto de altas temperaturas, en carbón, obteniéndose también fracciones de hidrocarburos de menores temperaturas de ebullición, los cuales son preparados para ser utilizados como insumos de otras unidades de proceso en las refinerías, para convertirse finalmente en productos de mayor valor agregado; y
-
-(h) Isomerización - Proceso de refinación de petróleo en el que se convierten los hidrocarburos con estructura molecular iso en sus correspondientes isómeros.
-
-2905.11-2905.45, 2905.49: Eliminar las subpartidas 2905.11-2905.45 y 2905.49, y fracción arancelaria 2905.49.aa y las reglas de origen aplicables a las mismas y reemplazar con lo siguiente:
-
-2905.11-2905.49 Un cambio a la subpartida 2905.11 a 2905.49 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
-
-71.13-71.18: Eliminar la Nota y regla de origen aplicable a la partida 71.13-71.18 y reemplazar con lo siguiente:
-
-71.13-71.18 Un cambio a la partida 71.13 a 71.18 de cualquier otra partida fuera del grupo.
-
-8518.30: Eliminar las reglas de origen aplicables a la subpartida 8518.30 y reemplazar con lo siguiente:
-
-8518.30
-
-8518.30.aa Un cambio a la fracción arancelaria 8518.30.aa de cualquier otra fracción arancelaria.
-
-8518.30 Un cambio a la subpartida 8518.30 de cualquier otra partida; o
-
-Un cambio a la subpartida 8518.30 de la subpartida 8518.10, 8518.29 o 8518.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
-
-(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
-
-(b) 50 por ciento, cuando se utilice el método de costo neto.
-
-87.06: Eliminar las reglas de origen aplicables a la fracción arancelaria 8706.00.aa y 8706.00.bb y reemplazar con lo siguiente:
-
-8706.00.aa Un cambio a la fracción arancelaria 8706.00.aa de cualquier otra partida, excepto de la subpartida 8708.50 o 8708.60, cumpliendo con un contenido regional no menor a 50 por ciento bajo el método de costo neto.
-
-8706.00.bb Un cambio a la fracción arancelaria 8706.00.bb de cualquier otra partida, excepto de la subpartida 8708.50 o 8708.60, cumpliendo con un contenido regional no menor a 50 por ciento bajo el método de costo neto.
-
-9009.91-9009.93, 9009.99: Eliminar las reglas de origen aplicables a la subpartida 9009.91-9009.93 y 9009.99 y reemplazar con lo siguiente:
-
-9009.91-9009.93 Un cambio a la subpartida 9009.91 a 9009.93 de cualquier subpartida fuera del grupo, excepto de la fracción arancelaria 9009.99.bb.
-
-9009.99
-
-9009.99.aa Un cambio a la fracción arancelaria 9009.99.aa de la subpartida 9009.91, 9009.92 o 9009.93, fracción arancelaria 9009.99.bb o cualquier otra partida, siempre que al menos uno de los componentes de cada ensamble listados en la Nota 3 del Capítulo 90 sea originario.
-
-9009.99 Un cambio a la subpartida 9009.99 de cualquier otra subpartida.
-
-ARTURO AQUILES DAGER GOMEZ, CONSULTOR JURIDICO DE LA SECRETARIA DE RELACIONES EXTERIORES.
-
-CERTIFICA:
-
-Que en los archivos de esta Secretaría obra el original correspondiente a México de las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días veintisiete de noviembre de dos mil dos, tres de diciembre de dos mil dos y diecisiete de septiembre de dos mil tres, entre los Gobiernos de los Estados Unidos de América, Canadá y los Estados Unidos Mexicanos, respectivamente, cuyo texto en español es el siguiente:
-
-Extiendo la presente, en seis páginas útiles, en la Ciudad de México, Distrito Federal, el dos de junio de dos mil cuatro, a fin de incorporarla al Decreto de Promulgación respectivo.- Conste.- Rúbrica.
+México, D.F., a 23 de mayo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
 ### Capítulo 9, 09.01-09.10: Eliminar la regla de origen aplicable a la partida 09.01-09.10 y reemplazarla con las siguientes reglas:
 
