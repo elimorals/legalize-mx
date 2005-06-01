@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-imposicion-de-multas-por-infraccion-a-11583"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-24"
-last_updated: "1998-03-24"
+last_updated: "2005-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11583&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-03-19"
 
 REGLAMENTO PARA LA IMPOSICION DE MULTAS POR INFRACCION A LAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y SUS REGLAMENTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 24 de marzo de 1998.
 
@@ -241,9 +241,11 @@ La autoridad competente sancionará las infracciones a la Ley cometidas por los 
 
 Cuando el Instituto, en el ejercicio de sus facultades y en los términos de la Ley, encuentre elementos para suponer la comisión de un delito, bajo su más estricta responsabilidad, formulará la denuncia correspondiente ante el Ministerio Público a través de la autoridad que conozca del asunto.
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 27.
 
-El patrón que considere que la resolución emitida y notificada no se apega a derecho, podrá interponer el recurso de inconformidad de acuerdo con lo establecido en el Reglamento de la Comisión de Inconformidades y de Valuación del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+El patrón que considere que la resolución emitida y notificada no se apega a derecho, podrá interponer el recurso de inconformidad de acuerdo con lo establecido en el Reglamento de la Comisión de Inconformidades del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 Será optativo para los patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Fiscal de la Federación para impugnar la resolución de que se trate.
 
@@ -298,3 +300,15 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los procedimientos administrativos para la imposición de multas por infracción a las disposiciones de la Ley y sus Reglamentos que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, se continuarán conforme a las disposiciones vigentes al momento de su iniciación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de marzo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberá implementar lo previsto en el presente Decreto a más tardar el 31 de julio de 2005.
+
+TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
