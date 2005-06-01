@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-del-fondo-nacional-de-la-1158
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-24"
-last_updated: "1998-03-24"
+last_updated: "2005-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-03-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES EN MATERIA DE FACULTADES COMO ORGANISMO FISCAL AUTONOMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 24 de marzo de 1998.
 
@@ -157,9 +157,11 @@ En las ausencias de los Gerentes de Fiscalización y de Servicios Legales, las f
 
 En las ausencias de los Delegados Regionales o de los Representantes de la Dirección General y del Coordinador del Distrito Federal, las facultades que les correspondan se ejercerán por los Jefes de las Áreas de Fiscalización y de Servicios Jurídicos de la entidad federativa de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 13.
 
-Las controversias que se susciten con motivo de la aplicación de las facultades a que se refiere el presente Reglamento se tramitarán ante la Comisión de Inconformidades y de Valuación, en los términos del reglamento respectivo.
+Las controversias que se susciten con motivo de la aplicación de las facultades a que se refiere el presente Reglamento se tramitarán ante la Comisión de Inconformidades, en los términos del reglamento respectivo.
 
 Será optativo para los contribuyentes agotar el recurso de inconformidad ante dicha Comisión o acudir directamente ante el Tribunal Fiscal de la Federación.
 
@@ -172,3 +174,15 @@ SEGUNDO.- Se abroga el Reglamento Interior del Instituto del Fondo Nacional de l
 TERCERO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su iniciación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de marzo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberá implementar lo previsto en el presente Decreto a más tardar el 31 de julio de 2005.
+
+TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
