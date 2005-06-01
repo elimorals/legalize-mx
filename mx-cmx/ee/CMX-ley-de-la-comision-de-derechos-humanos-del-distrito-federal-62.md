@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2005-05-18"
+last_updated: "2005-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -160,7 +160,7 @@ Esta sustitución se realizará independientemente de las extraordinarias que de
 
 > <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
 
-Los consejeros no podrán durar en el cargo más de cinco años, a menos que sean reelectos sólo para un segundo periodo inmediato. Bajo ninguna circunstancia cualquier consejero que haya renunciado a su cargo podrá ser electo nuevamente como miembro del Consejo.
+Los consejeros no podrán durar en el cargo más de cinco años, a menos que sean reelectos sólo para un segundo periodo inmediato. Bajo ninguna circunstancia cualquier consejero que haya renunciado a su cargo podrá ser electo nuevamente como miembros del Consejo.
 
 > <small>(REFORMADO, G.O. 18 DE MAYO DE 2005)</small>
 
@@ -172,7 +172,7 @@ De ocurrir una sustitución extraordinaria de algún Consejero, el que resultase
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
-En el supuesto de que la Asamblea Legislativa del Distrito Federal nombre a dos o más integrantes del Consejo al mismo tiempo, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal realizará un (sic) insaculación para conocer el orden en el que serán sustituidos.
+En el supuesto de que la Asamblea Legislativa del Distrito Federal nombre a dos o más integrantes del Consejo al mismo tiempo, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal realizará una insaculación para conocer el orden en el que serán sustituidos.
 
 > <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
 
@@ -634,6 +634,10 @@ De igual forma, la o el Presidente deberá presentar un informe de sus actividad
 
 El informe anual de la o el Presidente de la Comisión de Derechos Humanos del Distrito Federal deberá contener una descripción resumida del número y características de las quejas y denuncias que se hayan presentado, los resultados de la labor de conciliación, las investigaciones realizadas, las Recomendaciones emitidas que hayan sido rechazadas, cumplidas y las pendientes de cumplir, los Acuerdos de No Responsabilidad que hubiesen emitido, los resultados logrados así como las estadísticas y demás casos que se consideren de interés.
 
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2005)</small>
+
+El contenido del informe se clasificará por género y describirá la situación de los derechos humanos de la mujer en el Distrito Federal de manera detallada.
+
 Asimismo, con el objeto de tutelar de manera más efectiva los derechos humanos de los mexicanos y extranjeros que se encuentren en el territorio del Distrito Federal, así como para lograr una mayor eficiencia en la prestación de los servicios públicos, el informe podrá contener las propuestas dirigidas a las autoridades competentes para expedir o modificar disposiciones legislativas y reglamentarias, así como para mejorar las prácticas administrativas correspondientes.
 
 Se informará también sobre cada uno de los programas generales que la Comisión lleva a cabo.
@@ -838,12 +842,20 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 
 Artículo Segundo. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
-Artículo Tercero. Con objeto de no vulnerar los derechos adquiridos de los actuales integrantes del Consejo de la Comisión de Derechos Humanos del Distrito Federal, las dos sustituciones ordinarias anuales, así como la duración del encargo hasta por un periodo de cinco años, se aplicarán a partir de las sustituciones o reelecciones posteriores a la entrada en vigor del presente decreto.
+Artículo Tercero. Con el objeto de no vulnerar los derechos adquiridos de los actuales integrantes del Consejo de la Comisión de Derechos Humanos del Distrito Federal, las dos sustituciones ordinarias anuales, así como la duración del encargo hasta por un periodo de cinco años, se aplicarán a partir de las sustituciones o reelecciones posteriores a la entrada en vigor del presente decreto.
 
-Artículo Cuarto. En caso de que la Asamblea Legislativa del Distrito Federal elija a más de un integrante del Consejo de la Comisión de Derechos Humanos del Distrito Federal y en tanto se regulariza la sustitución o reelección de dos consejeros en los términos de la presente reforma, la Comisión de Derechos Humanos de dicha Asamblea realizará una insaculación para determinar el orden en que deberán ser sustituidos, de tal manera que un consejero sea sustituido o reelecto dentro de cinco años, el siguiente dentro de cuatro y así sucesivamente.
+Artículo Cuarto. En caso de que la Asamblea Legislativa del Distrito Federal elija a más de un integrante del Consejo de la Comisión de Derechos Humanos del Distrito Federal, y en tanto se regulariza la sustitución o reelección de dos consejeros en los términos de la presente reforma, la Comisión de Derechos Humanos de dicha Asamblea realizará una insaculación para determinar el orden en que deberán ser sustituidos, de tal manera que un consejero sea sustituido o reelecto dentro de cinco años, el siguiente dentro de cuatro y así sucesivamente.
 
 G.O. 18 DE MAYO DE 2005.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE JUNIO DE 2005.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese también en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
