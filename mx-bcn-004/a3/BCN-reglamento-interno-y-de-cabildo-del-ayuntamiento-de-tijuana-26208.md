@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2005-02-11"
+last_updated: "2005-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1137,7 +1137,9 @@ V.- En general, aquellas que el Cabildo le encomiende.
 
 COMISION REGULADORA DE BEBIDAS ALCOHOLICAS.- Se integrara con lo (sic) Presidentes de las Comisiones de Fortalecimiento y Administracion Publica, de Legislación Gobernación (sic), de Seguridad Pública, de Juventud, de Desarrollo Economico, de Planeacion de Desarrollo Municipal, de Obras y Servicios Publicos, la de Hacienda y el secretario tecnico quien n (sic) sera regidor, que por mayoria se designe, la cual tendra las siguientes atribuciones:
 
-I.- Emitir Dictamen, previo estudio y análisis del expediente debidamente integrado de acuerdo a (sic) reglamento de la materia, sobre permisos definitivos para la venta, almacenaje y consumo publico d (sic) bebidas alcohólicas así como de cambios de domicilio;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2005)</small>
+
+I.- Emitir dictamen, previo estudio y análisis del expediente debidamente integrado de acuerdo al reglamento de la materia, sobre permisos definitivos o eventuales gastronómicos para la venta, almacenaje y consumo publico de bebidas alcohólicas así como de cambios de domicilio;
 
 II.- Emitir Dictamen, previo estudio y análisis del expediente debidamente integrado de acuerdo a (sic) reglamento respectivo, sobre la revocación de permisos para la venta, almacenaje y consumo public (sic) de bebidas alcohólicas, y
 
@@ -1424,3 +1426,15 @@ P.O. 11 DE FEBRERO DE 2005.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial órgano de Gobierno del Estado.
 
 SEGUNDO: Publíquese para conocimiento público en un periódico de circulación local.
+
+P.O. 3 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
+
+ARTICULOTERCERO.- Publíquense las presentes en la Gaceta Municipal y/o un diario de mayor circulación municipal, para conocimiento de los ciudadanos.
