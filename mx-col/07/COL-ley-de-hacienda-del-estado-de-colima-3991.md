@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2004-12-25"
+last_updated: "2005-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -257,7 +257,7 @@ La base gravable para la determinación de este impuesto será:
 
 I.- Tratándose de automóviles, camiones y motocicletas:
 
-a).- Para vehículos del ultimo año modelo, el 90% del importe total de la primera facturación, sin incluir intereses por financiamiento.
+a).- Para vehículos del último año modelo, el 90% del importe total de la primera facturación, sin incluir intereses por financiamiento.
 
 b).- Para vehículos de años modelos anteriores al año de calendario en el que se realizo la transmisión: el valor consignado en el Tabulador Oficial que se publique en el Periódico Oficial del Estado.
 
@@ -309,91 +309,7 @@ II.- Los comisionistas, consignatarios o cualquier otra persona que intervengan 
 
 III.- Los servidores públicos que autoricen cualquier trámite de los referidos en la fracción III del Artículo 30.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A.- Es objeto de este impuesto la prestación de servicios de hospedaje en el territorio del Estado de Colima, a cambio de una contraprestación.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Para los efectos de este impuesto se consideran servicios de hospedaje, los siguientes:
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-I.- El alojamiento o albergue temporal de personas en hoteles y moteles.
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-II.- La prestación de servicios mediante el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea sobre una sola unidad o sobre una diversidad de unidades a opción del prestatario, durante un período específico, a intervalos previamente establecidos, determinados o determinables.
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
-
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
-
-Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 F.- Los contribuyentes de este impuesto tendrán además de las señaladas en otros artículos, las siguientes obligaciones:
-
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
-
-II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
-
-III.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la autoridad y en la forma señalada en la fracción I.
-
-IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto, que les sean solicitados dentro del plazo que para ello se fije.
-
-V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
-
-VI.- Llevar los libros o registros y expedir documentación comprobatoria de las operaciones gravadas, de conformidad con las disposiciones fiscales federales correspondientes.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 G.- La Secretaría de Finanzas podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
-
-I.- Cuando los contribuyentes no registren en la contabilidad cada una de las percepciones gravadas;
-
-II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Finanzas; y
-
-III.- Cuando se imposibilite por cualquier medio el conocimiento de las operaciones realizadas por servicios objeto de este impuesto.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
+### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
 
 ###### Artículo 33.
 
@@ -433,7 +349,91 @@ Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del im
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
+### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A.- Es objeto de este impuesto la prestación de servicios de hospedaje en el territorio del Estado de Colima, a cambio de una contraprestación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, los siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+I.- El alojamiento o albergue temporal de personas en hoteles y moteles.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+II.- La prestación de servicios mediante el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea sobre una sola unidad o sobre una diversidad de unidades a opción del prestatario, durante un período específico, a intervalos previamente establecidos, determinados o determinables.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
+
+Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 F.- Los contribuyentes de este impuesto tendrán además de las señaladas en otros artículos, las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+
+II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
+
+III.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la autoridad y en la forma señalada en la fracción I.
+
+IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto, que les sean solicitados dentro del plazo que para ello se fije.
+
+V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+VI.- Llevar los libros o registros y expedir documentación comprobatoria de las operaciones gravadas, de conformidad con las disposiciones fiscales federales correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 G.- La Secretaría de Finanzas podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+
+I.- Cuando los contribuyentes no registren en la contabilidad cada una de las percepciones gravadas;
+
+II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Finanzas; y
+
+III.- Cuando se imposibilite por cualquier medio el conocimiento de las operaciones realizadas por servicios objeto de este impuesto.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
 
@@ -797,9 +797,9 @@ a).- Dentro y fuera de la ciudad 4.500
 
 Más:
 
-1.- Por kilometro recorrido en camino asfaltado 0.225
+1.- Por kilómetro recorrido en camino asfaltado 0.225
 
-2.- Por kilometro recorrido en camino de terracería o brecha 0.270
+2.- Por kilómetro recorrido en camino de terracería o brecha 0.270
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
 
@@ -953,9 +953,9 @@ h).- Renovación de tarjeta de circulación de automóviles y camiones 2.000
 
 i).- Placas para vehículos antiguos 15.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2005)</small>
 
-Los derechos consignados en los incisos a), b), c), d), e), f), h) e i), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a marzo.
+Los Derechos consignados en los incisos a), b), c), d), e), f), h) e i), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a junio.
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
@@ -2687,9 +2687,7 @@ No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII 
 
 ### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
 
-### CAPITULO IX. Otros Derechos
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 56.
 
@@ -2713,7 +2711,9 @@ IV.- Expedición de credencial de identificación con vigencia por Tres años 1.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO IX. Otros Derechos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 57.
 
@@ -2971,7 +2971,7 @@ III.- DEPARTAMENTO DE MEDICINA Y CIENCIAS APLICADAS AL DEPORTE:
 
 a).- Certificado médico en general 0.250
 
-b).- Certificado médico de natació 0.500
+b).- Certificado médico de natación 0.500
 
 c).- Consulta general 0.500
 
@@ -3057,7 +3057,7 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 
 (DEROGADO, P.O. 27 DE JULIO DE 1996)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ### CAPITULO UNICO
 
@@ -3066,10 +3066,6 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 ### CAPITULO UNICO
 
 ### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
-
-Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
 
 ###### Artículo 63.
 
@@ -3099,9 +3095,13 @@ III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 IV.- Copias certificadas de sentencias 1.350
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
 
 ###### Artículo 64.
 
@@ -3149,7 +3149,7 @@ III.- Información diversa no certificada expedida en los Kioscos de servicios e
 
 ## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -3241,8 +3241,6 @@ XIII.- Otros ingresos no especificados.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
-
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
@@ -3250,6 +3248,8 @@ Son participaciones las que obtenga el Estado de la Federación, de conformidad 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -3512,3 +3512,7 @@ Para los efectos del ajuste monetario en el pago de las contribuciones a que se 
 ###### ARTÍCULO CUARTO.
 
 El monto que se recaude por concepto del cobro del impuesto sobre nómina, establecido en el Capítulo VII, del Título Primero, se depositará en una cuenta única que para tal efecto abra la Secretaría de Finanzas del Gobierno del Estado.
+
+P.O. 4 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
