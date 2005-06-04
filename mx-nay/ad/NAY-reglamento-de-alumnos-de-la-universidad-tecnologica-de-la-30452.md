@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-la-30452
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-05"
-last_updated: "2003-04-05"
+last_updated: "2005-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2005.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 5 de abril de 2003.
 
@@ -467,9 +467,11 @@ II. Haber cursado y aprobado todas las asignaturas de la carrera;
 
 III. Haber realizado la estadía y presentar la memoria correspondiente, en un plazo de 15 días naturales después del término de ésta, debidamente aprobado por el Tutor Empresarial y el Tutor Académico, así como requisitado de acuerdo al Reglamento de Estadías;
 
-IV. Presentar examen profesional dentro de los 30 días naturales siguientes a la recepción de la memoria, mismo que consistirá en la exposición oral por parte del alumno del contenido del reporte de estadía ante el Director de Carrera, Tutor Académico y opcionalmente el Tutor Empresarial donde se realizó la estadía, y la contestación del interrogatorio formulado por los sinodales. El examen podrá ser público o privado, a elección del alumno;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2005)</small>
 
-V. Los casos de alumnos que presenten su examen de manera extemporánea, después de los 30 días naturales siguientes a la recepción de la memoria, se someterán al dictamen del Director de Vinculación, el Director de Carrera y el Tutor Académico.
+IV. La presentación del examen profesional o de grado no es requisito, de la titulación y el mismo será una actividad ceremonial, en el caso de las universidades que así lo tengan reglamentado;
+
+V. (DEROGADA, P.O. 4 DE JUNIO DE 2005)
 
 ###### Artículo 58°.
 
@@ -572,3 +574,9 @@ C.P. Antonio Flores Crespo
 C. Flavio Amaya Madera
 
 Dr. José Angel Martínez Imurriaga
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL DEL ESTADO DE NAYARIT.
