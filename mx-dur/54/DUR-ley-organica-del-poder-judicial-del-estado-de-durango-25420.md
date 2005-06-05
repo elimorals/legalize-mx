@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-25420"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-13"
-last_updated: "2002-06-13"
+last_updated: "2005-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 5 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -2276,3 +2278,59 @@ LIC. ANGEL SERGIO GUERRERO MIER. (Rúbrica)
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LI. (SIC) JOSE MIGUEL CASTRO CARRILLO. (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 5 DE JUNIO DE 2005.
+
+PRIMERO. Esta Ley entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Durango, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango número 47 bis de fecha 13 de junio de 2002.
+
+TERCERO. Los servidores públicos del Poder Judicial del Estado que se encuentren en las hipótesis a que se refiere el artículo 196 de esta Ley, permanecerán en los puestos que actualmente ocupan, ya que dichas disposiciones se aplicarán a partir de su vigencia para cambios de adscripción o cuando se trate de servidores públicos de nuevo ingreso.
+
+CUARTO. Al entrar en vigor el presente decreto, se seguirán aplicando los reglamentos que se hubieren expedido con anterioridad en lo que no se opongan al contenido de esta Ley, en tanto se expidan los nuevos reglamentos;
+
+QUINTO. Los procedimientos instaurados en contra de los servidores del Poder Judicial del Estado que se estén sustanciando actualmente, se seguirán llevando conforme a las disposiciones de esta Ley en cuanto no les perjudiquen en sus derechos.
+
+SEXTO. En tanto sea nombrado el Secretario Ejecutivo de Disciplina del Consejo de la Judicatura a que se refiere la fracción II del artículo 86 de esta Ley, seguirá realizando las tareas disciplinarias el Secretario Ejecutivo del Pleno y Carrera Judicial que se menciona en la fracción I del mencionado artículo.
+
+SÉPTIMO. Mientras se formen las listas a que se refiere el artículo 158 de esta Ley, el Consejo de la Judicatura nombrará a un servidor público del propio Poder Judicial para que sustituya al juez o al secretario, en este último caso, nombrará a quien haya designado el juez en forma provisional; en caso del actuario, el Consejo de la Judicatura nombrará a la persona que designe el juez en forma provisional, siempre y cuando todos reúnan los requisitos legales.
+
+OCTAVO. Esta Ley, al entrar en vigor, no afectará los derechos laborales y administrativos adquiridos y, por ende, tampoco su situación actual como servidores públicos del Poder Judicial del Estado.
+
+NOVENO. Con relación al artículo 116 fracción II de esta Ley, mientras se fijen los parámetros definidos en el perfil psicológico por el Consejo de la Judicatura para ser juez, este órgano se podrá auxiliar de los parámetros señalados por los psicólogos que realicen el examen psicométrico.
+
+DÉCIMO. Hasta que inicie formalmente sus labores el Juzgado Segundo Auxiliar con Jurisdicción Mixta en el Tercer Distrito Judicial con residencia en Gómez Palacio, los juzgados de primera instancia del Segundo Distrito Judicial con residencia en Lerdo, salvo acuerdo del Pleno del Tribunal Superior de Justicia, seguirán conociendo en materia penal de los delitos que tengan como sanción multa o pena alternativa, cuya sanción privativa de libertad sea hasta de dos años.
+
+DÉCIMO PRIMERO. En tanto se dicten los acuerdos generales a que se refieren los artículos 49 y 146 de esta Ley, en el Primer Distrito Judicial con residencia en Durango existirán tres juzgados auxiliares, dos civiles y uno penal, en el Tercer Distrito Judicial con residencia en Gómez Palacio existirá un Juzgado Auxiliar Mixto, y los distritos judiciales continuarán siendo:
+
+Primer distrito: Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas;
+
+Segundo distrito: Ciudad Lerdo como residencia; comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito;
+
+Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo de Zaragoza;
+
+Cuarto distrito: Santiago Papasquiaro como residencia; comprende los municipios de Santiago Papasquiaro, Tepehuanes, Guanaceví y Otáez;
+
+Quinto distrito: Canatlán como residencia; comprende los municipios de Canatlán y Nuevo Ideal;
+
+Sexto distrito: El Salto como residencia; comprende los municipios de Pueblo Nuevo y San Dimas, con excepción de las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último Municipio;
+
+Séptimo distrito: Topia como residencia; comprende los municipios de Topia, Tamazula y Canelas;
+
+Octavo distrito: Guadalupe Victoria como residencia; comprende los municipios de Guadalupe Victoria y Pánuco de Coronado;
+
+Noveno distrito: Cuencamé como residencia; comprende los municipios de Cuencamé, Peñón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolívar;
+
+Décimo distrito: Nazas como residencia; comprende los municipios de Nazas, San Luis del Cordero y San Pedro del Gallo;
+
+Décimo primer distrito: San Juan del Río como residencia; comprende los municipios de San Juan del Río, Rodeo y Coneto de Comonfort;
+
+Décimo segundo distrito: Santa María del Oro como residencia; comprende los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo, y
+
+Décimo tercer distrito: Nombre de Dios como residencia; comprende los municipios de Nombre de Dios, Súchil, Poanas y Vicente Guerrero.
+
+DÉCIMO SEGUNDO. Por única ocasión el Plan a que se refieren los artículos 9, 12, 70 y 85 de esta Ley, deberá ser aprobado a más tardar en el mes de enero de 2006 y su vigencia se limitar a dos años.
+
+DÉCIMO TERCERO. Se derogan todas las disposiciones que en la legislación dispersa se opongan a la presente Ley.
