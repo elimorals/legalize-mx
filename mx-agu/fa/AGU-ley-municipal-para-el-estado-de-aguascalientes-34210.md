@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2003-10-06"
+last_updated: "2005-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -339,7 +339,7 @@ XXIII. Informar por escrito semanalmente a través del Presidente Municipal, al 
 
 XXIV. Acordar las medidas tendientes a la conservación, establecimiento y la administración de los centros de reclusión municipal, así como la alimentación de los detenidos o arrestados conforme a las leyes respectivas;
 
-XXV. Auxiliar a las autoridades policiacas del fuero común y a las administrativas, en el ámbito de sus atribuciones, en aquello que les sea solicitado;
+XXV. Auxiliar a las autoridades policíacas del fuero común y a las administrativas, en el ámbito de sus atribuciones, en aquello que les sea solicitado;
 
 XXVI. Reglamentar los mercados e impedir la venta de frutas, hortalizas y toda clase de alimentos y bebidas nocivas a la salud, consultando siempre la opinión de las autoridades de Salud Pública en el Estado;
 
@@ -1719,6 +1719,10 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 CUARTO.- Los actos jurídicos municipales y los trámites ante las autoridades municipales que se encuentren pendientes de resolución se sujetarán a los procedimientos previstos en la Ley que se abroga.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2005)</small>
+
+QUINTO.- Se abroga la Ley Reglamentaria del Párrafo Tercero del Artículo 70 Constitucional, publicada en el Periódico Oficial del Estado de Aguascalientes el día 24 de marzo de 1985.
+
 Dado en el salón de sesiones del Poder Legislativo, a los treinta días del mes de julio del año 2003.
 
 Por lo tanto el Congreso ordena se imprima, publique y se le dé el debido cumplimiento.
@@ -1748,3 +1752,9 @@ Felipe González González
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 6 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
