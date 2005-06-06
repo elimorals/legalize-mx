@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2004-05-28"
+last_updated: "2005-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2005.
 
-Reglamento publicado en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1996.
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -233,9 +233,9 @@ VIII. 1. Dirección de Análisis de Riesgos;
 
 VIII. 2. Dirección General Adjunta de Seguros y Fianzas;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VIII. 3. Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito;
+VIII.3. Dirección General Adjunta de Pensiones y Organizaciones Auxiliares del Crédito;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -307,11 +307,11 @@ XII. Coordinación General de Estudios y Tratados Internacionales:
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XII. 1. Dirección General Adjunta de Tratados Internacionales.
+XII. 1. Dirección General Adjunta de Tratados Internacionales;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XII. Bis. Dirección General Adjunta de Precios y Tarifas.
+XII. Bis. Dirección General Adjunta de Precios y Tarifas;
 
 > <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -549,15 +549,23 @@ XXX. Subtesorería de Operación;
 
 XXXI. Subtesorería de Contabilidad y Control Operativo;
 
-XXXII. Dirección General de Vigilancia de Fondos y Valores:
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXXII. 1 Dirección de Fiscalización a Dependencias y Entidades;
+XXXII. Unidad de Vigilancia de Fondos y Valores:
 
-XXXII. 2 Dirección de Inspección a la Operación Fiscal;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXXII. 3 Dirección de Fiscalización de la Operación Recaudatoria, y
+XXXII.1. Dirección General Adjunta de Fiscalización;
 
-XXXII. 4 Dirección de Inspección y Supervisión de Procesos.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XXXII.2. Dirección General Adjunta de Inspección, y
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XXXII.3. Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión.
+
+XXXII.4. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
 XXXIII. Dirección General de Procedimientos Legales:
 
@@ -585,7 +593,9 @@ XXXIX. Direcciones de Técnica Operativa.
 
 C. Unidades Administrativas Regionales:
 
-I. Delegaciones Regionales de la Tesorería de la Federación.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+I. Direcciones Regionales de Vigilancia de Fondos y Valores.
 
 D. Órganos Desconcentrados:
 
@@ -949,15 +959,15 @@ XXIV. Llevar la instrucción de los procedimientos en que deba intervenir la Sec
 
 XXV. Contestar en representación del Secretario los escritos de los particulares en que ejerzan el derecho de petición, en asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXVI. Ejercer, en materia de infracciones o delitos, las atribuciones señaladas a la Secretaría en el Código Fiscal de la Federación y en las demás leyes, e imponer las sanciones correspondientes por infracciones a dichas leyes, excepto cuando competa imponerlas a otra unidad o autoridad administrativa de la Secretaría, así como formular las abstenciones para presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio o peticiones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que le aporte la Subprocuraduría Fiscal Federal de Investigaciones, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+XXVI. Ejercer, en materia de infracciones o delitos, las atribuciones señaladas a la Secretaría en el Código Fiscal de la Federación y en las demás leyes, e imponer las sanciones correspondientes por infracciones a dichas leyes, excepto cuando competa imponerlas a otra unidad o autoridad administrativa de la Secretaría; formular las abstenciones para presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio o peticiones cuando exista impedimento legal o material para ello; formular la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos que proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal o, tratándose de delitos previstos en leyes financieras, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría manifiesten no tener objeción en su otorgamiento; orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos, deban intervenir en los procedimientos penales incoados con base en la competencia a que se refiere este artículo;
 
 XXVII. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, allegándose los elementos probatorios del caso, dando la intervención que corresponda al Órgano Interno de Control en la Secretaría y a la Secretaría de la Función Pública; así como denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés, coadyuvar en estos casos con el propio Ministerio Público, en representación de la Secretaría y, con base en el dictamen favorable que le aporte la Subprocuraduría Fiscal Federal de Investigaciones, proponer la petición de sobreseimiento del proceso u otorgar el perdón legal, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, allegarse de los elementos probatorios del caso, darle la intervención que corresponda al Órgano Interno de Control en la Secretaría y a la Secretaría de la Función Pública; denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida o en aquéllos en que tenga conocimiento o interés, coadyuvar en estos casos con el propio Ministerio Público, en representación de la Secretaría, y formular la petición de sobreseimiento del proceso penal u otorgar el perdón legal, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -1106,6 +1116,10 @@ LXXIV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 LXXV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 En los casos en que el Procurador Fiscal de la Federación así lo considere conveniente, podrá ejercer la representación de la Secretaría o de cualquiera de sus unidades administrativas, en cualquier tipo de juicio o procedimiento judicial o administrativo.
+
+> <small>(ADICIONADO D.O.F, 6 DE JUNIO DE 2005)</small>
+
+La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refieren las fracciones XXVI y XXVIII de este artículo, podrá ser ejercida por el Procurador Fiscal de la Federación, siempre que en los actos correspondientes intervenga simultáneamente el Subprocurador Fiscal Federal de Investigaciones.
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -1261,9 +1275,9 @@ LI. Determinar la unidad administrativa de la Tesorería de la Federación respo
 
 LII. Ejercer las atribuciones contenidas en el artículo 7o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-El Tesorero de la Federación será asistido por los Subtesoreros de Operación, y de Contabilidad y Control Operativo; por el Director General de Vigilancia de Fondos y Valores; por el Director General de Procedimientos Legales; por el Director General Adjunto de Administración de Cartera y Activos no Monetarios y por los Delegados Regionales de la Tesorería de la Federación, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+El Tesorero de la Federación será asistido por los Subtesoreros de Operación, y de Contabilidad y Control Operativo; por el Titular de la Unidad de Vigilancia de Fondos y Valores; por el Director General de Procedimientos Legales; por el Director General Adjunto de Administración de Cartera y Activos no Monetarios y por los Directores Regionales de Vigilancia de Fondos y Valores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO VI. DE LAS UNIDADES ADMINISTRATIVAS CENTRALES
 
@@ -1295,7 +1309,9 @@ VII. Las demás facultades que en el ámbito de sus respectivas competencias atr
 
 Compete a la Unidad de Coordinación con Entidades Federativas:
 
-I. Ser el enlace entre las Entidades Federativas y Municipios y la Secretaría, en las materias de la competencia de esta última, inclusive en materia de coordinación fiscal, planeación, programación y presupuesto;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+I. Ser el enlace entre las Entidades Federativas y Municipios y la Secretaría, en las materias de la competencia de esta última, salvo en materia de programación y presupuesto;
 
 II. Asistir a las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria en las materias de su competencia;
 
@@ -1315,13 +1331,19 @@ IX. Asesorar a las Entidades Federativas y Municipios cuando lo soliciten, en el
 
 X. Llevar a cabo, con la participación de las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, la promoción de la colaboración y la concertación con las autoridades de las Entidades Federativas en los asuntos relativos a la coordinación en materia de ingreso, gasto y deuda, así como estimular la colaboración administrativa entre las citadas Entidades Federativas para la modernización de sus sistemas fiscales;
 
-XI. Resolver los asuntos que las disposiciones legales que rigen las actividades de coordinación con Entidades Federativas y Municipios atribuyan a la Secretaría en materia de ingreso, gasto y deuda, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XII. Administrar en forma integral la partida presupuestaria de participaciones a Entidades Federativas y Municipios, de conformidad a lo establecido al efecto en la Ley de Coordinación Fiscal;
+XI. Coadyuvar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en la resolución de los asuntos que las disposiciones legales que rigen las actividades de coordinación con Entidades Federativas y Municipios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
 
-XIII. Proponer políticas de aplicación, normatividad y coordinación de los ramos presupuestarios que asignen recursos para las Entidades Federativas;
+XII. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-XIV. Promover la transparencia de la información en materia de ingreso, gasto y deuda de las Entidades Federativas;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XIII. Coadyuvar en la elaboración de políticas, normas y lineamientos para la coordinación de los ramos generales presupuestarios que asignen recursos para las Entidades Federativas y Municipios;
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XIV. Coadyuvar en la promoción de la transparencia de la información en materia de ingreso, gasto y deuda de las Entidades Federativas;
 
 XV. Establecer en coordinación con la Unidad de Crédito Público, las políticas relativas al Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, de conformidad con la legislación aplicable; llevar dicho Registro y elaborar y difundir la información estadística en materia de deuda pública de las Entidades Federativas, del Distrito Federal y de los Municipios, así como proporcionar dicha información a las unidades administrativas que la requieran;
 
@@ -1351,9 +1373,9 @@ El Jefe de la Unidad de Coordinación con Entidades Federativas, será asistido 
 
 Compete a la Dirección General Adjunta de Participaciones y Aportaciones Federales:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Administrar en forma integral la partida presupuestaria de participaciones a Entidades Federativas y Municipios, de conformidad a lo establecido al efecto en la Ley de Coordinación Fiscal;
+I. Coadyuvar en la elaboración de políticas, normas y lineamientos para la coordinación de los ramos generales presupuestarios que asignen recursos para las Entidades Federativas y Municipios;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1367,41 +1389,39 @@ III. Liquidar y registrar contablemente los incentivos que correspondan a las En
 
 IV. Llevar el registro y dar trámite a las afectaciones que correspondan a las participaciones de las Entidades Federativas y Municipios, en los términos de la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-V. Resolver, en la materia de su competencia, los asuntos que las disposiciones legales que rigen las actividades de coordinación con Entidades Federativas y Municipios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
+V. Coadyuvar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en la resolución de los asuntos que las disposiciones legales que rigen las actividades de coordinación con Entidades Federativas y Municipios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VI. Participar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria en la evaluación y promoción del cumplimiento recíproco de las obligaciones derivadas del ámbito tributario de la Ley de Coordinación Fiscal, de los convenios y acuerdos, así como sus anexos, declaratorias y demás disposiciones legales relativas al Sistema Nacional de Coordinación Fiscal; así como en materia de gasto público federalizado;
+VI. Coadyuvar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en la evaluación y promoción del cumplimiento recíproco de las obligaciones derivadas del ámbito tributario de la Ley de Coordinación Fiscal, de los convenios y acuerdos, así como sus anexos, declaratorias y demás disposiciones legales relativas al Sistema Nacional de Coordinación Fiscal;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VII. Participar con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria en la promoción de la colaboración y la concertación con las autoridades de las Entidades Federativas en los asuntos relativos a la coordinación en materia fiscal; así como en materia de gasto público federalizado;
+VII. Participar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en la promoción de la colaboración y la concertación con las autoridades de las Entidades Federativas en los asuntos relativos a la coordinación en materia fiscal;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VIII. Proponer políticas de aplicación, normatividad y coordinación en materia de asignaciones presupuestarias a las Entidades Federativas por participaciones e incentivos; así como en materia de gasto público federalizado;
+VIII. Proponer políticas, normas y lineamientos para la coordinación en materia de participaciones e incentivos a las Entidades Federativas y Municipios;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-IX. Asistir a las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria en sus relaciones con los organismos en materia de coordinación fiscal y de gasto público federalizado y servir de enlace, en la materia de su competencia, entre las autoridades fiscales de las Entidades Federativas y las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria;
+IX. Asistir a las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria en sus relaciones con los organismos en materia de coordinación fiscal y servir de enlace, en la materia de su competencia, entre las autoridades fiscales de las Entidades Federativas y las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-X. Asesorar, en la materia de su competencia, a las Entidades Federativas y Municipios cuando lo soliciten, en el establecimiento de los sistemas de administración impositiva, así como en materia de gasto público federalizado;
+X. Asesorar, en coordinación con las demás unidades de la Secretaría y del Servicio de Administración Tributaria, en la materia de su competencia, a las Entidades Federativas y Municipios cuando lo soliciten, en el establecimiento de los sistemas de administración impositiva, así como en materia de deuda y gasto público federalizado;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XI. Diseñar, con la participación que corresponda a otras unidades competentes de la Secretaría y del Servicio de Administración Tributaria, los sistemas para un eficiente movimiento de los fondos por participaciones e incentivos, así como los derivados de los convenios de colaboración administrativa en materia de gasto público federalizado;
+XI. Diseñar, con la participación que corresponda a otras unidades competentes de la Secretaría y del Servicio de Administración Tributaria, los sistemas para un eficiente movimiento de los fondos por participaciones e incentivos;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XII. Llevar el registro y seguimiento sobre el gasto público federalizado;
+XII. Coadyuvar, con las unidades administrativas competentes de la Secretaría, en la elaboración de proyectos de convenios, acuerdos, criterios de operación y demás disposiciones legales relativas a la coordinación con las Entidades Federativas y Municipios en materia de gasto, incluyendo el gasto público federalizado;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
-
-XIII. Participar en la elaboración de proyectos de convenios, acuerdos, criterios de operación y demás disposiciones legales relativas a la coordinación con las Entidades Federativas y Municipios en materia de gasto público federalizado, y
+XIII. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -1455,7 +1475,9 @@ Compete a la Dirección General Adjunta de Planeación, Financiamiento y Vincula
 
 I. Participar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en la elaboración de proyectos de convenios, acuerdos y demás disposiciones legales en materia de modernización de sistemas de las haciendas pública locales;
 
-II. Participar como enlace entre las Entidades Federativas y Municipios y las Areas competentes de la Secretaría, en materia de planeación, programación y presupuesto;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+II. Participar como enlace entre las Entidades Federativas y Municipios y las áreas competentes de la Secretaría, en materia de planeación;
 
 III. Promover la colaboración y la concertación con las autoridades de las Entidades Federativas y Municipios en los asuntos relativos a la modernización de las haciendas locales, así como estimular la colaboración administrativa entre las citadas Entidades Federativas para la modernización de sus sistemas fiscales;
 
@@ -2687,15 +2709,17 @@ XI. Instrumentar y, en su caso, previo acuerdo superior formalizar mandatos rela
 
 Compete a la Unidad de Banca y Ahorro:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Formular, para aprobación superior, las políticas de promoción, regulación y supervisión de: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior antes señaladas, sucursales de bancos extranjeros de primer orden, sociedades de ahorro y préstamo, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, grupos financieros en los que participen una o más instituciones de banca múltiple, una o más sociedades financieras de objeto limitado o una o más administradoras de fondos para el retiro o bien, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado, administradoras de fondos para el retiro, o sociedades controladoras de los grupos financieros anteriormente referidos, así como las actividades financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de esta Unidad;
+I. Formular, para aprobación superior, las políticas de promoción, regulación y supervisión de: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior a que se refiere la Ley de Instituciones de Crédito, sucursales de bancos extranjeros de primer orden, sociedades de ahorro y préstamo, grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos, así como las actividades financiera, bancaria, crediticia y de ahorro y los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, dentro del ámbito de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Instituciones de Crédito en materia de Instituciones de Banca Múltiple, las disposiciones de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
+I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia; de la Ley de Instituciones de Crédito, en materia de instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades anteriormente referidas, oficinas de representación de las entidades financieras del exterior a que se refiere esta ley y sucursales de bancos extranjeros de primer orden; de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participen una o más instituciones de banca múltiple, una o más sociedades financieras de objeto limitado, una o más de las filiales antes referidas o una sociedad controladora filial de dichos grupos; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en materia de sociedades de ahorro y préstamo; de la Ley de Ahorro y Crédito Popular; de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
 
-II. Participar, mediante la formulación de las políticas a que se refiere la fracción anterior, en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+II. Participar, mediante la formulación de las políticas a que se refiere la fracción I de este artículo, en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas;
 
 III. Participar en la evaluación de la operación y desempeño de las entidades y materias señaladas en la fracción I de este artículo;
 
@@ -2705,25 +2729,25 @@ V. Coadyuvar, en su ámbito de competencia, en la formulación de políticas y m
 
 VI. Aprobar los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple y aprobar los programas correspondientes de aquellas en las que el Gobierno Federal tenga el control por su participación accionaria;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VII. Proponer, para aprobación superior, las autorizaciones y revocaciones para constituir, organizar, operar y funcionar, según sea el caso, como: institución de banca múltiple, sociedad financiera de objeto limitado, sociedad de información crediticia, sociedad de ahorro y préstamo, grupo financiero en el que participen una o más instituciones de banca múltiple o una o más sociedades de información crediticia, así como filiales de instituciones financieras del exterior que se pretendan constituir bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Dirección General de Seguros y Valores;
+VII. Proponer, para aprobación superior, las autorizaciones y revocaciones para constituir, organizar y operar, según sea el caso, como: institución de banca múltiple, sociedad financiera de objeto limitado, sociedad de información crediticia, sociedad de ahorro y préstamo, grupo financiero en el que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como filiales de instituciones financieras del exterior que se pretendan constituir bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Dirección General de Seguros y Valores;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VII. bis. Aprobar las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple y sociedades financieras de objeto limitado, así como de sociedades de información crediticia y sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades de información crediticia, respectivamente, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
+VII. bis. Aprobar las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple y sociedades financieras de objeto limitado, así como de sociedades de información crediticia y sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+VIII. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-VIII. Emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, y sus respectivas modificaciones, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de administradoras de fondos para el retiro;
-
-IX. Proponer, para aprobación superior, las concesiones para operar la Base de Datos Nacional SAR, así como la modificación, terminación y revocación de éstas y, en su caso, autorizar la suspensión de la prestación de los servicios de las empresas operadoras;
+IX. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 IX. bis. Autorizar las inversiones que las instituciones de banca múltiple pretendan realizar en las sociedades a que se refieren los artículos 75, fracción III, 88 y 89 de la Ley de Instituciones de Crédito, así como las inversiones que realicen las sociedades controladoras de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, de conformidad con el artículo 7o. último párrafo de la Ley para Regular las Agrupaciones Financieras, en relación con las disposiciones generales aplicables a tales grupos financieros;
 
-X. Autorizar la fusión o escisión de las entidades a que se refiere la fracción VII del presente artículo, ya sea entre ellas o con las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, así como autorizar la incorporación de una entidad a un grupo financiero en el que participen una o más instituciones de banca múltiple, la separación, fusión o escisión de alguno de sus integrantes, y los programas conducentes a dichas fusiones o escisiones cuando se trate de alguna de las entidades a que se refiere la fracción I de este artículo. Lo anterior, cuando el caso lo requiera, en coordinación con la Dirección General de Seguros y Valores;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+X. Autorizar la fusión o escisión de las entidades a que se refiere la fracción VII del presente artículo, ya sea entre ellas o con las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, así como la incorporación de una entidad a un grupo financiero en el que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado; autorizar la separación de alguno de los integrantes del grupo financiero y los programas conducentes a dichas fusiones o escisiones, cuando se trate de alguna de las entidades a que se refiere la fracción I de este artículo. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Dirección General de Seguros y Valores;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2757,11 +2781,15 @@ XIV. Imponer, en el ámbito de su competencia, las sanciones establecidas en las
 
 XV. Representar a la Secretaría, en el ámbito de su competencia, en sus relaciones con el Banco de México en las funciones que éste desempeñe de conformidad con las disposiciones que le sean aplicables;
 
-XVI. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional del Sistema de Ahorro para el Retiro y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas en lo referente a los sistemas de ahorro para el retiro, siempre y cuando no formen parte de las facultades no delegables del Secretario. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XVI. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional Bancaria y de Valores, siempre y cuando no formen parte de las facultades no delegables del Secretario, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 XVII. Participar en la negociación de tratados en los que se comprendan los servicios financieros competencia de la Unidad de Banca y Ahorro, así como proponer para aprobación superior los términos que resulten de estas negociaciones, y participar en organismos y comités internacionales relacionados con las materias de su competencia;
 
-XVIII. Resolver los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades y actividades señaladas en la fracción I de este artículo, que sean competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XVIII. Resolver lo referente a la aplicación de las disposiciones relacionadas con las entidades, actividades y asuntos señalados en la fracción I de este artículo, que sean competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2811,9 +2839,9 @@ I. Participar en la formulación de políticas y medidas de promoción, regulaci
 
 I. bis. Aprobar las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple y sociedades financieras de objeto limitado, así como de sociedades de información crediticia y sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades de información crediticia, respectivamente, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. ter. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Instituciones de Crédito en materia de Instituciones de Banca Múltiple, las disposiciones de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
+I. ter. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia; de la Ley de Instituciones de Crédito en materia de instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades anteriormente referidas, oficinas de representación de las entidades financieras del exterior a que se refiere esta ley y sucursales de bancos extranjeros de primer orden; de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participen una o más instituciones de banca múltiple, o una o más sociedades financieras de objeto limitado, una o más de las filiales antes referidas o una sociedad controladora filial de dichos grupos, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -2981,9 +3009,9 @@ Compete a la Dirección de Control Jurídico:
 
 I. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en su participación en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las entidades y actividades señaladas en la fracción I del artículo 28 anterior;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento, así como en el ejercicio de las facultades de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores; lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+II. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3031,9 +3059,9 @@ XII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio 
 
 Compete a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con respecto a instituciones de banca múltiple, sociedades financieras de objeto limitado, administradoras de fondos para el retiro, grupos financieros en los que participen una o más administradoras de fondos para el retiro, una o más instituciones de banca múltiple, o bien una o más sociedades financieras de objeto limitado y filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de información crediticia y sociedades de ahorro y préstamo, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro con el fin de llevar a cabo un seguimiento de la evolución del sistema financiero en general e identificar riesgos potenciales en el ámbito de su competencia;
+I. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con respecto a instituciones de banca múltiple, sociedades financieras de objeto limitado, grupos financieros en los que participen una o más instituciones de banca múltiple, o bien, una o más sociedades financieras de objeto limitado o filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de información crediticia o sociedades de ahorro y préstamo, con el fin de llevar a cabo un seguimiento de la evolución del sistema financiero en general e identificar riesgos potenciales en el ámbito de su competencia;
 
 II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las actividades financiera, bancaria, crediticia y de banca y ahorro dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
 
@@ -3061,7 +3089,9 @@ VIII. quáter. Fungir como enlace en las materias de su competencia entre la Sec
 
 IX. Resolver los asuntos referentes a las atribuciones de la Secretaría en las materias de su competencia, excepto los que estén asignados expresamente a otra unidad administrativa de la Secretaría y los que, con carácter indelegable, correspondan al Secretario;
 
-X. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con el Banco de México, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas, en lo referente a los sistemas de ahorro para el retiro;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+X. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con el Banco de México, la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
 
 X. bis. Participar, en el ámbito de competencia de la Secretaría, de manera coordinada con las demás Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, en la detección de actos que se encuentren sancionados en las leyes financieras, sin perjuicio de las demás atribuciones conferidas a otras unidades administrativas de la Secretaría;
 
@@ -3103,9 +3133,9 @@ XIX. Solicitar información necesaria a las entidades a que se refiere la fracci
 
 Compete a la Dirección de Análisis Financiero de Intermediarios Bancarios:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia, de los grupos financieros en los que participe una o más administradoras de fondos para el retiro, una o más instituciones de banca múltiple o bien, una o más sociedades financieras de objeto limitado, instituciones de banca múltiple, administradoras de fondos para el retiro y filiales de instituciones financieras del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente, sociedades de información crediticia, sociedades de inversión especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro;
+I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia, de los grupos financieros en los que participen una o más instituciones de banca múltiple, o bien, una o más sociedades financieras de objeto limitado, instituciones de banca múltiple o filiales de instituciones financieras del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente, así como de las sociedades de información crediticia;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3207,41 +3237,39 @@ VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculaci
 
 Compete a la Dirección General Adjunta de Ahorro y Regulación Financiera:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en materia crediticia y de ahorro de las siguientes entidades financieras: administradoras de fondos para el retiro, filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de ahorro y préstamo, sociedades de inversión especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro y grupos financieros en los que participe una o más administradoras de fondos para el retiro; así como brindar apoyo en general respecto a la formulación de las políticas a que se refiere la fracción I del artículo 27 de este Reglamento;
+I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión de sociedades de ahorro y préstamo, de las actividades financiera, bancaria, crediticia y de ahorro y los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, en el ámbito de su competencia, y brindar apoyo en general respecto a la formulación de las políticas a que se refiere la fracción I del artículo 27 de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas afines, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
+I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en materia de sociedades de ahorro y préstamo, de la Ley de Ahorro y Crédito Popular y de la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+II. Participar en la evaluación de la operación y desempeño de las entidades, actividades y asuntos señalados en la fracción I de este artículo, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 III. Participar en la evaluación de la operación y desempeño de las entidades señaladas en la fracción I de este artículo y de los sistemas de ahorro para el retiro, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+IV. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-IV. Emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y las sociedades de inversión especializadas de fondos para el retiro, así como filiales de instituciones financieras del exterior que se constituyan bajo la figura de administradoras de fondos para el retiro;
+V. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-V. Proponer, para aprobación superior, las concesiones para operar la Base de Datos Nacional SAR, así como la prórroga, modificación, terminación y revocación de éstas; y, en su caso, autorizar la suspensión de la prestación de los servicios de las empresas operadoras, así como coadyuvar en el ámbito de su competencia, con la Unidad de Banca y Ahorro, en el ejercicio de las facultades que se le confieren a esta Secretaría en las mencionadas concesiones;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-VI. Participar en la formulación de dictámenes a las solicitudes de autorización para la incorporación de una nueva sociedad a un grupo financiero, la separación o escisión de alguno de sus integrantes, la fusión de dos o más grupos financieros, la fusión de dos o más entidades participantes en el mismo grupo financiero y la disolución de un grupo financiero o su escisión, todo ello siempre que participe una administradora de fondos para el retiro, en coordinación con las demás unidades administrativas competentes de la Secretaría;
+VI. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VI. bis. Participar en coordinación con la Dirección General Adjunta de Banca Múltiple y la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refiere el artículo 27 fracciones VII a X de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VII. Imponer, en el ámbito de competencia de la Secretaría, las sanciones establecidas en las leyes que rigen las actividades crediticia y de ahorro, como atribución de la Secretaría, y dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
+VII. Imponer, dentro del ámbito de su competencia y como atribución de la Secretaría, las sanciones establecidas en las leyes que rigen las actividades crediticia y de ahorro;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VIII. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional del Sistema de Ahorro para el Retiro y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas en lo referente a los sistemas de ahorro para el retiro; así como respecto de los órganos o mecanismos que se implementen para el apoyo al ahorro popular. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+VIII. Ejercer, en el ámbito de su competencia, las facultades de la Secretaría respecto de los órganos o mecanismos que se implementen para la operación y desempeño de las entidades, actividades y asuntos señalados en la fracción I de este artículo, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3257,9 +3285,9 @@ IX. Participar, en el ámbito de su competencia, en la negociación y elaboraci�
 
 X. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XI. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades señaladas en la fracción I de este artículo, así como los asuntos referentes a los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular que sean competencia de la Secretaría, y no estén asignados expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
+XI. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades, actividades y asuntos señalados en la fracción I de este artículo que no estén asignados expresamente a otra unidad administrativa de la Secretaría, excepto los que, con carácter indelegable, correspondan al Secretario;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3291,9 +3319,9 @@ XVIII. Coordinar la elaboración de estudios, en el ámbito de su competencia, s
 
 XIX. Coordinar la elaboración de políticas públicas encaminadas a proporcionar transparencia, claridad y eficiencia en la regulación de las entidades a que se refiere el artículo 27 fracción I del presente Reglamento;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XX. Participar con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, y con las autoridades y demás unidades administrativas de la Secretaría competentes, en la elaboración y discusión de las iniciativas de ley o decretos relativos a las disposiciones legales aplicables a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento; sin perjuicio de las atribuciones conferidas a otras unidades administrativas de la Secretaría;
+XX. Participar, con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro y con las autoridades y demás unidades administrativas de la Secretaría competentes, en la elaboración y discusión de las iniciativas de leyes o decretos relativos a las disposiciones legales aplicables a las entidades, actividades y asuntos a los que se refiere la fracción I del artículo 27 del presente Reglamento;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3303,9 +3331,9 @@ XXI. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculaci�
 
 XXII. Fungir, como enlace de la Unidad de Banca y Ahorro con otras autoridades de la Administración Pública Federal, en las materias de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXIII. Apoyar, en el ámbito de su competencia a la Unidad de Banca y Ahorro en sus relaciones con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, y el Instituto para la Protección al Ahorro Bancario;
+XXIII. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3321,25 +3349,25 @@ XXV. Emitir, en el ámbito de su competencia, las opiniones que le sean solicita
 
 Compete a la Dirección de Planeación y Ahorro:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la formulación de políticas y medidas de promoción de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, así como de los sistemas de ahorro para el retiro;
+I. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera, en la formulación de políticas y medidas de promoción de sociedades de ahorro y préstamo, de las actividades crediticia y de ahorro y de los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas afines, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
+II. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera, en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas afines, en lo relacionado con las entidades, actividades y asuntos señalados en la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-III. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la evaluación de la operación y desempeño de las entidades señaladas en la fracción I de este artículo y de los sistemas de ahorro para el retiro, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades;
+III. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera, en la evaluación de la operación y desempeño de las entidades, actividades y asuntos señalados en la fracción I de este artículo, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 IV. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con el Banco de México;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-V. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas, en lo referente a los sistemas de ahorro para el retiro; así como respecto del Instituto para la Protección al Ahorro Bancario y órganos o mecanismos que se implementen para el apoyo al ahorro popular. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+V. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con las entidades y órganos a que se refiere la fracción XXIII del artículo 30 de este Reglamento, así como respecto de los órganos o mecanismos que se implementen para el apoyo al ahorro popular, salvo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3363,15 +3391,13 @@ X. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financier
 
 XI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante;
 
-XII. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de dictámenes de opinión sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro, las sociedades de inversión especializadas de fondos para el retiro, así como filiales de instituciones financieras del exterior que se constituyan bajo la figura de administradoras de fondos para el retiro;
+XII. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+XIII. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
-XIII. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de dictámenes a las solicitudes de autorización para la incorporación de una nueva sociedad a un grupo financiero, la separación o escisión de alguno de sus integrantes, la fusión de dos o más grupos financieros, la fusión de dos o más entidades participantes en el mismo grupo financiero y la disolución de un grupo financiero o su escisión. Lo anterior, siempre que participe una administradora de fondos para el retiro o una filial de instituciones financieras del exterior que se constituyan bajo la figura de ésta;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
-
-XIV. Proponer para autorización superior la resolución de los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades señaladas en la fracción I de este artículo, así como respecto de los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular que sean competencia de la Secretaría, excepto los que con carácter indelegable, correspondan al Secretario, y sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
+XIV. Proponer, para autorización superior, la resolución de lo referente a la aplicación de las disposiciones relacionadas con las entidades, actividades y asuntos señalados en la fracción I de este artículo, así como respecto de la protección al ahorro bancario y fomento al ahorro popular que sean competencia de la Secretaría, excepto los que con carácter indelegable correspondan al Secretario, sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3387,25 +3413,23 @@ XVI. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera, 
 
 Compete a la Dirección Jurídica de Regulación Financiera:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la regulación de las sociedades de ahorro y préstamo y empresas operadoras de la Base de Datos Nacional SAR;
+I. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera, en la regulación de las sociedades de ahorro y préstamo, de las actividades crediticia y de ahorro y de los asuntos referentes a la protección al ahorro bancario, ahorro y crédito popular, así como de protección y defensa al usuario de servicios financieros, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración del Programa Nacional de Financiamiento del Desarrollo, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
+II. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración del Programa Nacional de Financiamiento del Desarrollo, en lo relacionado con las entidades, actividades y asuntos señalados en la fracción anterior;
 
 III. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
-
-IV. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de dictámenes respecto al otorgamiento de concesiones para operar la Base de Datos Nacional SAR, para la modificación, renovación, terminación y revocación de éstas, así como la autorización para suspender la prestación de los servicios de las empresas operadoras;
+IV. (DEROGADA, D.O.F. 6 DE JUNIO DE 2005)
 
 V. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VI. Analizar, dictaminar y someter a aprobación superior, la aplicación de las sanciones establecidas en las leyes que rigen a los sistemas de ahorro para el retiro como atribución de la Secretaría;
+VI. Analizar, dictaminar y someter a aprobación superior, la aplicación de las sanciones establecidas en las leyes que rigen las actividades crediticia y de ahorro, como atribución de la Secretaría, y dentro del ámbito de su competencia;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -3413,17 +3437,17 @@ VII. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de
 
 VIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-IX. Proponer para autorización superior la resolución de los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades señaladas en la fracción I de este artículo, excepto los que con carácter indelegable, correspondan al Secretario, y sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
+IX. Proponer, para autorización superior, la resolución de lo referente a la aplicación de las disposiciones relacionadas con las entidades, actividades y asuntos señalados en la fracción I de este artículo, excepto los que con carácter indelegable correspondan al Secretario, sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 X. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de estudios y proyectos para instrumentar las estrategias de política financiera contenidas en el Plan Nacional de Desarrollo;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XI. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en los procesos de reformas y emisión de disposiciones legales aplicables a las entidades financieras reguladas por ésta, así como las aplicables a los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular;
+XI. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera, en los procesos de reformas y emisión de disposiciones legales aplicables a las entidades financieras reguladas por ésta, así como en materia de protección al ahorro bancario y al ahorro y crédito popular;
 
 XII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -3499,15 +3523,21 @@ X. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera, en
 
 Compete a la Dirección General de Seguros y Valores:
 
-I. Formular, para aprobación superior, las políticas de promoción, desarrollo, regulación y supervisión de las instituciones y sociedades mutualistas de seguros, de las reaseguradoras extranjeras, de las oficinas de representación de reaseguradoras extranjeras, de las instituciones de fianzas, de los consorcios de instituciones de seguros y de fianzas, de las casas de bolsa, de las sociedades de inversión y de sus operadoras, de las distribuidoras de acciones de sociedades de inversión, de grupos financieros en los que no participen instituciones de banca múltiple, de las bolsas de valores, de las bolsas de futuros y opciones, de los socios liquidadores, operadores y formadores de mercado en el mercado de futuros y opciones, de las cámaras de compensación, de las instituciones para el depósito de valores, de las contrapartes centrales, de las oficinas de representación de casas de bolsa del exterior, de los demás participantes en el mercado de valores, futuros y opciones, de las organizaciones auxiliares del crédito y casas de cambio, de las actividades de seguros, fianzas, valores, futuros, opciones y auxiliares del crédito y demás previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito. Lo anterior, excluyendo las entidades y actividades, así como las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan asignadas expresamente o conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+I. Formular, para aprobación superior, las políticas de promoción, desarrollo, regulación y supervisión de las instituciones y sociedades mutualistas de seguros; de las reaseguradoras extranjeras; de las oficinas de representación de reaseguradoras extranjeras; de las instituciones de fianzas; de los consorcios de instituciones de seguros y de fianzas; de las casas de bolsa; de las sociedades de inversión y de sus operadoras; de las distribuidoras de acciones de sociedades de inversión; de las administradoras de fondos para el retiro; de las sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR; de grupos financieros en los que no participen instituciones de banca múltiple o sociedades financieras de objeto limitado; de las bolsas de valores; de las bolsas de futuros y opciones; de los socios liquidadores, operadores y formadores de mercado en el mercado de futuros y opciones; de las cámaras de compensación; de las instituciones para el depósito de valores; de las contrapartes centrales; de las oficinas de representación de casas de bolsa del exterior; de los demás participantes en el mercado de valores, futuros y opciones; de las organizaciones auxiliares del crédito, excepto aquéllas que sean de competencia expresa de otra unidad administrativa; y de las casas de cambio, así como de las actividades de seguros, fianzas, valores, futuros, opciones y auxiliares del crédito y demás previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito y las relativas a los sistemas de ahorro para el retiro. Lo anterior, excluyendo las entidades y actividades, así como las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan asignadas expresamente o conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 II. Participar, mediante la formulación de las políticas a que se refiere la fracción anterior, en la elaboración del Programa Nacional de Financiamiento al Desarrollo y otros programas;
 
-III. Proponer, para aprobación superior, las actividades de planeación, coordinación, vigilancia y evaluación de las entidades financieras a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal; así como ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional de Seguros y Fianzas. Lo anterior, exceptuando aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de esta Secretaría en materia presupuestal, de administración de sueldos, de prestaciones o de ministración de recursos;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+III. Proponer, para aprobación superior, las actividades de planeación, coordinación, vigilancia y evaluación de las entidades financieras a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal; ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional de Seguros y Fianzas y con la Comisión Nacional del Sistema de Ahorro para el Retiro, salvo aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
 
 IV. Ejercer las facultades de la Secretaría como coordinadora de sector de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal, exceptuando aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de esta Secretaría en materia presupuestal, de administración de sueldos, de prestaciones o de ministración de recursos;
 
-V. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar, operar y funcionar, según sea el caso, como cualquiera de las entidades financieras a que se refiere la fracción I de este artículo y de las solicitudes de concesión para operar bolsas de valores y para prestar los servicios propios de las instituciones para el depósito de valores y de las contrapartes centrales en los términos de la Ley del Mercado de Valores, así como sobre la revocación de las autorizaciones o concesiones que se hubiesen otorgado para tales efectos. Tratándose de sociedades controladoras de grupos financieros, el ejercicio de esta atribución se llevará a cabo, en su caso, en coordinación con la Unidad de Banca y Ahorro;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+V. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar y operar, según sea el caso, como cualquiera de las entidades financieras a que se refiere la fracción I de este artículo y sociedades de inversión especializadas de fondos para el retiro; de las solicitudes de concesión para operar bolsas de valores y para prestar los servicios propios de las instituciones para el depósito de valores, de las contrapartes centrales, en los términos de la Ley del Mercado de Valores, o de las empresas operadoras de la Base de Datos Nacional SAR, en los términos de las disposiciones aplicables; proponer, para aprobación superior, las resoluciones sobre la revocación de las autorizaciones o concesiones que se hayan otorgado y, en su caso, para determinar la suspensión de la prestación de los servicios de las empresas operadoras de la Base de Datos Nacional SAR; emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, revocación. Tratándose de sociedades controladoras de grupos financieros, el ejercicio de las atribuciones a que se refiere esta fracción se llevará a cabo en coordinación con la Unidad de Banca y Ahorro;
 
 VI. Autorizar la incorporación de una nueva entidad a un grupo financiero en los que no participen instituciones de banca múltiple, la fusión de dos o más de estos grupos, así como la fusión de dos o más entidades que en ellos participen, o de una entidad financiera de éstas con cualquier sociedad, así como la separación de alguno de sus integrantes y, tratándose de grupos financieros en los que participen instituciones de banca múltiple y cualquiera de las entidades a que se refiere la fracción I de este artículo, coordinar con la Unidad de Banca y Ahorro el otorgamiento de dichas autorizaciones;
 
@@ -3523,7 +3553,9 @@ XI. Representar a la Secretaría, en las materias de su competencia, en sus rela
 
 XII. Coordinar la aplicación de los mecanismos de control de gestión de las promociones presentadas por las instituciones y sociedades a que se refiere la fracción I de este artículo;
 
-XIII. Ejercer, previo acuerdo superior, las atribuciones de la Secretaría respecto al mecanismo preventivo y de protección al mercado de valores;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XIII. Ejercer, previo acuerdo superior, las atribuciones de la Secretaría en relación con el mecanismo preventivo y de protección al mercado de valores, así como respecto a los sistemas de ahorro para el retiro;
 
 XIV. Participar en la evaluación de la operación y desempeño de las entidades y actividades señaladas en la fracción I de este artículo;
 
@@ -3611,25 +3643,45 @@ IX. Ejercer, previo acuerdo superior, las atribuciones de la Dirección General 
 
 (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 35.
 
-Compete a la Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito:
+Compete a la Dirección General Adjunta de Pensiones y Organizaciones Auxiliares del Crédito:
 
-I. Participar en la formulación de las políticas de promoción, desarrollo, regulación y supervisión de las organizaciones auxiliares del crédito, de las casas de cambio y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+I. Participar en la formulación de las políticas de promoción, desarrollo, regulación y supervisión de las organizaciones auxiliares del crédito, de las casas de cambio y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como de las sociedades de inversión especializadas de fondos para el retiro, de las administradoras de fondos para el retiro y de las empresas operadoras de la Base de Datos Nacional SAR y, en general, de los sistemas de ahorro para el retiro;
 
 II. Coadyuvar, con la Dirección General Adjunta de Normatividad y Coordinación Sectorial, en la resolución de los asuntos referentes a grupos financieros, en los casos en los que estén relacionadas las entidades señaladas en la fracción I de este artículo;
 
-III. Efectuar el análisis, propuestas y seguimiento de las políticas, programas y mecanismos en materia de organizaciones auxiliares del crédito, de casas de cambio, y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como evaluar sus resultados;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-IV. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar, operar y funcionar, según sea el caso como organizaciones auxiliares del crédito y casas de cambio, así como sobre la revocación de las autorizaciones que hayan sido otorgadas para tales efectos, conforme a las disposiciones legales respectivas;
+III. Efectuar el análisis, propuestas y seguimiento de las políticas, programas y mecanismos en materia de organizaciones auxiliares del crédito, de casas de cambio, de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como las relativas a las administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, y evaluar sus resultados;
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IV. Proponer, para aprobación superior, las resoluciones sobre las solicitudes de autorización para constituir, organizar y operar, según sea el caso, como organizaciones auxiliares del crédito y casas de cambio, así como en relación con las concesiones para operar como empresas operadoras de la Base de Datos Nacional SAR; proponer, para aprobación superior, las resoluciones sobre la revocación de las autorizaciones o concesiones que hayan sido otorgadas, conforme a las disposiciones legales respectivas; proponer, para resolución superior, la emisión de las opiniones relativas a las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades especializadas de fondos para el retiro, así como sobre sus modificaciones y, en su caso, revocación;
 
 V. Tramitar la imposición de sanciones y los recursos administrativos establecidos en las leyes que rigen las entidades y actividades señaladas en la fracción I de este artículo;
 
 VI. Resolver sobre los asuntos relacionados con la aplicación de los ordenamientos legales que rigen las entidades y demás actividades a que se refiere la fracción I de este artículo. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría, y
 
-VII. Ejercer, previo acuerdo superior, las atribuciones de la Dirección General de Seguros y Valores en materia de organizaciones auxiliares del crédito, de casas de cambio y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+VII. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con relación a las entidades y materias a que se refiere la fracción I de este artículo, así como de los grupos financieros en que participen una o más administradoras de fondos para el retiro, a efecto de evaluar el comportamiento financiero y el riesgo potencial de las entidades y materias antes señaladas;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+VIII. Diseñar y elaborar estudios sobre las entidades y materias a que se refiere la fracción I de este artículo, así como sobre los grupos financieros en que participen una o más administradoras de fondos para el retiro;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IX. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I de este artículo, que tengan el carácter de entidades de la Administración Pública Federal; ejercer las facultades de la Dirección General de Seguros y Valores relacionadas con la Comisión Nacional del Sistema de Ahorro para el Retiro, salvo aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+X. Ejercer, previo acuerdo superior, las atribuciones de la Dirección General de Seguros y Valores en materia de organizaciones auxiliares del crédito, de casas de cambio y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como de administradoras de fondos para el retiro, sociedades especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR y, en general, de los sistemas de ahorro para el retiro.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3643,7 +3695,9 @@ II. Participar en la expedición de normas jurídicas para la constitución, fun
 
 III. Promover y supervisar el cumplimiento de las normas y políticas en materia de organizaciones auxiliares del crédito, de casas de cambio, y de las demás actividades previstas por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y
 
-IV. Ejercer, previo acuerdo superior, las atribuciones que este Reglamento otorga a la Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IV. Ejercer, previo acuerdo superior, las atribuciones que este Reglamento otorga a la Dirección General Adjunta de Pensiones y Organizaciones Auxiliares del Crédito.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3659,7 +3713,9 @@ III. Proponer, para aprobación superior, las resoluciones sobre las solicitudes
 
 IV. Resolver sobre los asuntos relacionados con la aplicación de los ordenamientos legales que rigen a las entidades y actividades señaladas en la fracción II de este artículo, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-V. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I del artículo 32 de este Reglamento, que tengan el carácter de entidades de la Administración Pública Federal, exceptuando las relativas a seguros y fianzas y aquellas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de esta Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+V. Participar en las actividades de planeación, coordinación, vigilancia, evaluación, promoción, regulación, supervisión, coordinación sectorial y seguimiento de las políticas y los programas institucionales de las entidades a que se refiere la fracción I del artículo 32 de este Reglamento, que tengan el carácter de entidades de la Administración Pública Federal, con excepción de las relativas a seguros y fianzas, de las correspondientes a los sistemas de ahorro para el retiro y de aquéllas que correspondan al Secretario con carácter de indelegable, así como a otras unidades administrativas de la Secretaría en materia presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos;
 
 VI. Apoyar a la Dirección General de Seguros y Valores en la resolución de los asuntos relacionados con la aplicación de los ordenamientos normativos en materia de las entidades y actividades a que se refiere la fracción I del artículo 32 de este Reglamento;
 
@@ -4363,29 +4419,57 @@ XXI. Administrar los sistemas de información para el registro y control presupu
 
 XXII. Definir, conjuntamente con los coordinadores sectoriales, el sistema de información que asegure los elementos necesarios para el seguimiento del ejercicio de los programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, en congruencia con las determinaciones y requerimientos de información que para tal efecto se acuerden con la Secretaría de la Función Pública;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXIII. Integrar el presupuesto del ramo general correspondiente al Programa de Apoyos para el Fortalecimiento de las Entidades Federativas, así como registrar y llevar el seguimiento del ejercicio del presupuesto autorizado, de acuerdo con las disposiciones aplicables;
+XXIII. Integrar el presupuesto de los ramos generales correspondientes a las Participaciones a Entidades Federativas y Municipios y al Programa de Apoyos para el Fortalecimiento de las Entidades Federativas, así como registrar y llevar el seguimiento del ejercicio del presupuesto autorizado, de acuerdo con las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXIV. Ejercer el control presupuestario global de los servicios personales, así como expedir las normas, fijar las políticas y los lineamientos en materia de control del gasto en ese rubro;
+XXIV. Administrar, en el ámbito presupuestario y en forma integral, el ramo general relativo a las Participaciones a Entidades Federativas y Municipios, de conformidad con lo establecido en la Ley de Coordinación Fiscal, así como el ramo general Programa de Apoyos para el Fortalecimiento de las Entidades Federativas, en los términos del Presupuesto de Egresos de la Federación;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXV. Expedir normas y fijar las políticas y los lineamientos a que deberá sujetarse la formulación del presupuesto en materia de servicios personales de las dependencias y entidades de la Administración Pública Federal, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación;
+XXV. Definir y establecer políticas, normas y lineamientos para la coordinación de los ramos generales presupuestarios que asignen recursos para las Entidades Federativas y Municipios;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXVI. Emitir dictamen en el ámbito presupuestario, conjuntamente con las Direcciones Generales de Programación y Presupuesto sectoriales, previo diagnóstico de la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de su competencia, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales;
+XXVI. Asistir a las unidades administrativas de la Secretaría en materia de gasto público federalizado;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXVII. Fijar, previa opinión de las Direcciones Generales de Programación y Presupuesto sectoriales, las políticas generales para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades de la Administración Pública Federal, respecto a las medidas que impliquen erogaciones con cargo al Presupuesto de Egresos de la Federación, y
+XXVII. Coadyuvar, en el ámbito de su competencia, en el otorgamiento de asesoría a las Entidades Federativas y Municipios que lo soliciten, en materia de gasto público federalizado;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXVIII. Resolver los asuntos que las disposiciones legales que regulan las materias de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma.
+XXVIII. Diseñar, con la participación que corresponda a otras unidades competentes de la Secretaría, los sistemas para el registro de los recursos correspondientes a participaciones e incentivos, al Programa de Apoyos para el Fortalecimiento de las Entidades Federativas y a los convenios en materia de gasto público federalizado;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XXIX. Coordinar la elaboración de proyectos de convenios, acuerdos, criterios de operación y demás disposiciones legales en materia de gasto público federalizado;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XXX. Coadyuvar, con las unidades administrativas competentes de la Secretaría, en el seguimiento y la evaluación del gasto público federalizado;
+
+(REUBICADA, D.O.F. 6 DE JUNIO DE 2005)
+
+XXXI. Ejercer el control presupuestario global de los servicios personales, así como expedir las normas, fijar las políticas y los lineamientos en materia de control del gasto en ese rubro;
+
+(REUBICADA, D.O.F. 6 DE JUNIO DE 2005)
+
+XXXII. Expedir normas y fijar las políticas y los lineamientos a que deberá sujetarse la formulación del presupuesto en materia de servicios personales de las dependencias y entidades de la Administración Pública Federal, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación;
+
+(REUBICADA, D.O.F. 6 DE JUNIO DE 2005)
+
+XXXIII. Emitir dictamen en el ámbito presupuestario, conjuntamente con las Direcciones Generales de Programación y Presupuesto sectoriales, previo diagnóstico de la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de su competencia, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales;
+
+(REUBICADA, D.O.F. 6 DE JUNIO DE 2005)
+
+XXXIV. Fijar, previa opinión de las Direcciones Generales de Programación y Presupuesto sectoriales, las políticas generales para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades de la Administración Pública Federal, respecto a las medidas que impliquen erogaciones con cargo al Presupuesto de Egresos de la Federación, y
+
+(REUBICADA, D.O.F. 6 DE JUNIO DE 2005)
+
+XXXV. Resolver los asuntos que las disposiciones legales que regulan las materias de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma.
 
 ###### Artículo 63.
 
@@ -4959,13 +5043,17 @@ XIX. Someter para aprobación superior los convenios que se celebren por parte d
 
 XX. Designar bajo su estricta responsabilidad a los servidores públicos de la Subprocuraduría a su cargo, para efectos de dar cumplimiento al artículo 16 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como para dar contestación a los requerimientos de información que procedan conforme a la citada Ley;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXI. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia, y
+XXI. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-XXII. Resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a la Secretaría, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la misma.
+XXII. Resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a la Secretaría, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la misma, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XXIII. Atender los demás asuntos que le encomiende el Procurador Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -6195,17 +6283,17 @@ Compete a la Subprocuraduría Fiscal Federal de Investigaciones:
 
 I. Investigar la comisión de delitos fiscales, de aquellos en que incurran servidores públicos de la Secretaría en el desempeño de sus funciones y de los que se cometan en perjuicio de la misma o de los que tenga conocimiento;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Denunciar, querellarse, presentar las declaratorias de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio respecto de delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales; los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones; de otros hechos delictuosos que sean competencia de la Secretaría; así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore la unidad a su cargo, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+II. Denunciar, querellarse y presentar las declaratorias de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio, respecto de delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales, así como los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones y de otros hechos delictuosos que sean competencia de la Secretaría; formular las abstenciones cuando exista impedimento legal o material para ello, así como la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal o, tratándose de delitos previstos en leyes financieras, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría manifiesten no tener objeción en su otorgamiento; orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos deban intervenir en los procedimientos penales incoados con base en la competencia a que se refiere este artículo;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-III. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida, de aquellos de que tenga conocimiento o interés, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore la unidad a su cargo, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+III. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida y de aquellos de que tenga conocimiento o interés; formular las abstenciones cuando exista impedimento legal o material para ello, así como la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-IV. Formular y presentar las peticiones, así como denunciar o querellarse, en la materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, por la comisión de los delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores y al sistema de ahorro para el retiro, y demás instituciones que integren el sistema financiero; así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore la unidad a su cargo, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+IV. Formular y presentar las peticiones, así como denunciar o querellarse, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, por la comisión de los delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero; formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -6365,6 +6453,10 @@ LVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 LVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refieren las fracciones II, III y IV de este artículo, podrá ser ejercida por el Subprocurador Fiscal Federal de Investigaciones, siempre que en los actos correspondientes intervenga en forma simultánea con el Procurador Fiscal de la Federación, con el Director General de Delitos Fiscales o con el Director General de Delitos Financieros y Diversos.
+
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
 
 ###### Artículo 82.
@@ -6375,9 +6467,11 @@ Compete a la Dirección General de Delitos Fiscales:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de los delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales e investigar los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público; formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal o, tratándose de delitos previstos en leyes financieras, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
+
+La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director General de Delitos Fiscales, siempre que en los actos correspondientes intervenga simultáneamente el Subprocurador Fiscal Federal de Investigaciones;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
@@ -6409,9 +6503,9 @@ Compete a la Dirección de Defraudación Fiscal:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión del delito de defraudación fiscal, sus equiparables y demás delitos fiscales; así como de otros hechos delictuosos en que la Secretaría resulte ofendida, o de aquellos en los que tenga interés;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
@@ -6437,9 +6531,9 @@ Compete a la Dirección de Contrabando:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión del delito de contrabando, sus equiparables y demás delitos fiscales; así como de otros delitos en que la Secretaría resulte ofendida o que tenga interés;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello;
 
 > <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -6479,13 +6573,15 @@ IX. Acordar con el Director General de Delitos Fiscales los asuntos de su compet
 
 Compete a la Dirección General de Delitos Financieros y Diversos:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría; e investigar y allegarse de las pruebas relacionadas con los hechos que impliquen la probable comisión de delitos cometidos en contra del patrimonio de la Secretaría, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
+I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero, así como las relativas a los delitos cometidos por los servidores públicos de la Secretaría en ejercicio de sus funciones y de otros hechos delictuosos en que ésta resulte ofendida o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría; investigar y allegarse de las pruebas relacionadas con los hechos que impliquen la probable comisión de delitos cometidos en contra del patrimonio de la Secretaría, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento; asimismo, denunciar o querellarse respecto de la comisión de las conductas ilícitas en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación;
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos que proceda, siempre y cuando, tratándose de delitos previstos en leyes financieras, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
+
+La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director General de Delitos Financieros y Diversos, siempre que en los actos correspondientes intervenga simultáneamente el Subprocurador Fiscal Federal de Investigaciones.
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -6541,19 +6637,21 @@ XIV. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos 
 
 Compete a la Dirección de Delitos Financieros:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría;
+I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero, así como de otros hechos delictuosos en que la Secretaría resulte ofendida o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
 IV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
 
-V. Estudiar las causas que originen los hechos delictuosos relativos a la materia de su competencia y presentar al Director General de Delitos Financieros y de Operaciones con Recursos de Procedencia Ilícita las propuestas sobre las medidas preventivas y correctivas correspondientes;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+V. Estudiar las causas que originen los hechos delictuosos relativos a la materia de su competencia y presentar al Director General de Delitos Financieros y Diversos las propuestas sobre las medidas preventivas y correctivas correspondientes;
 
 VI. Tramitar y resolver en el ámbito de su competencia los requerimientos y resoluciones de las autoridades judiciales, administrativas o del Ministerio Público, solicitando, en su caso, la solventación dentro del término legal a las unidades administrativas competentes;
 
@@ -6577,7 +6675,9 @@ II. Apoyar en la investigación de los hechos delictuosos relativos a la materia
 
 III. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos fiscales; así como de los cometidos por servidores públicos de la Secretaría en el ejercicio de sus funciones y de otros delitos en que ésta resulte ofendida o que tenga interés, e integrar los expedientes relacionados con las investigaciones a que se refiere la fracción I de este artículo;
 
-IV. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IV. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello;
 
 V. Representar a la Secretaría ante el Ministerio Público en el ámbito de su competencia;
 
@@ -6623,7 +6723,9 @@ Compete a la Dirección General de Control Procedimental:
 
 I. Coordinar el seguimiento y control de los procedimientos originados por las denuncias, querellas, declaratorias de perjuicio y peticiones formuladas por la Secretaría, así como de aquéllos en que ésta tenga interés;
 
-II. Coadyuvar con las autoridades competentes, en representación de la Secretaría, para la integración de los procedimientos penales que sean competencia de la Subprocuraduría Fiscal Federal de Investigaciones;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+II. Coadyuvar, con las autoridades competentes, en representación de la Secretaría para la integración de los procedimientos penales que sean competencia de la Subprocuraduría Fiscal Federal de Investigaciones; proponer ante el Ministerio Público, órganos jurisdiccionales o cualquier otra autoridad, los argumentos jurídicos en que se expongan pruebas, agravios u objeciones en cualquier instancia de dichos procedimientos penales, así como orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos, deban intervenir en los procedimientos penales incoados con base en la competencia de la Subprocuraduría Fiscal Federal de Investigaciones;
 
 III. Recabar directamente y estudiar las pruebas, constancias, documentación e informes sobre la comisión de los delitos en que la Secretaría resulte ofendida o que tenga interés o cuya competencia corresponda a la Subprocuraduría Fiscal Federal de Investigaciones;
 
@@ -6841,11 +6943,11 @@ XI. Fungir como enlace entre las autoridades fiscalizadoras y las diversas área
 
 XII. Resolver los asuntos que los ordenamientos legales y administrativos que rigen las actividades de control de fondos atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignados expresamente a otra unidad administrativa de la misma.
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 90.
 
-Compete a la Dirección General de Vigilancia de Fondos y Valores:
+Compete a la Unidad de Vigilancia de Fondos y Valores:
 
 I. Proponer, para aprobación superior, los programas en materia de inspección, vigilancia y comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores de la propiedad o al cuidado de la Federación, por parte de los servidores públicos; así como dirigir, ordenar, supervisar y coordinar la operación y ejecución de los programas aprobados;
 
@@ -6853,17 +6955,19 @@ I. Proponer, para aprobación superior, los programas en materia de inspección,
 
 II. Establecer en función de los programas aprobados, los sistemas, procedimientos y métodos de trabajo en las materias de su competencia;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-III. Ordenar y practicar inspecciones, auditorías, investigaciones, visitas, compulsas, reconocimiento de existencias, análisis de los sistemas de control establecidos y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y auxiliares, así como para la revisión de las operaciones realizadas por los sujetos mencionados relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales, y respecto de las funciones que realizan las unidades propias de la Tesorería de la Federación y de los procedimientos administrativos que deban cumplir sin detrimento de las facultades que corresponden a otras dependencias y emitir recomendaciones;
+III. Ordenar y practicar inspecciones, auditorías, investigaciones, visitas, compulsas, reconocimientos de existencias, análisis de los sistemas de control establecidos y demás actos de vigilancia de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y auxiliares de Tesorería de la Federación, así como para la revisión de las operaciones realizadas por los sujetos mencionados relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales, y respecto de las funciones que realizan las unidades de la Tesorería de la Federación y de los procedimientos administrativos que deban cumplir, sin detrimento de las facultades que corresponden a otras dependencias; asimismo, coordinarse con otras autoridades para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
 
-IV. Embargar precautoriamente los bienes de los servidores públicos, responsables de irregularidades en la recaudación, manejo, custodia, aplicación o administración de fondos y valores de la propiedad o al cuidado de la Federación para asegurar los intereses del Erario Federal y suspender provisionalmente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos y valores a dichos responsables, informando de ello, inmediatamente, a la Secretaría de Contraloría y Desarrollo Administrativo y ordenar la sustitución que, en su caso, corresponda;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IV. Embargar precautoriamente los bienes de los servidores públicos, probables responsables de irregularidades en la recaudación, manejo, custodia, aplicación o administración de fondos y valores de la propiedad o al cuidado de la Federación para asegurar los intereses del Erario Federal, así como suspender provisionalmente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos y valores a dichos servidores públicos, informando de ello a la Secretaría de la Función Pública o al respectivo órgano interno de control y ordenar la sustitución que, en su caso, corresponda;
 
 V. Coordinar la práctica de la inspección, vigilancia y comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores de la propiedad o al cuidado de la Federación;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-VI. Supervisar la impresión, envío, custodia y destrucción de valores, dando aviso de sus resultados a la Secretaría de Contraloría y Desarrollo Administrativo; así como supervisar las actividades de los representantes de la Secretaría designados para ejercer los derechos patrimoniales de las inversiones financieras del Gobierno Federal;
+VI. Supervisar la impresión, envío, custodia y destrucción de valores, dando aviso de sus resultados a la Secretaría de la Función Pública; supervisar las actividades de los representantes de la Secretaría designados para ejercer los derechos patrimoniales de las inversiones financieras del Gobierno Federal;
 
 VII. Formular los pliegos preventivos de responsabilidades y los de observaciones y ejercer las facultades que correspondan al personal de vigilancia conforme a la Ley del Servicio de Tesorería de la Federación, su reglamento y demás disposiciones aplicables;
 
@@ -6877,29 +6981,39 @@ IX. Informar a la Procuraduría Fiscal de la Federación de los hechos de que te
 
 X. Vigilar las actividades asociadas con el procedimiento, seguimiento y control de la recaudación de contribuciones federales de conformidad con la autorización otorgada a las instituciones de crédito; así como requerir a las instituciones mencionadas el entero de los montos correspondientes a importes desfasados, así como a los intereses y a las sanciones aplicables cuando existan irregularidades en las concentraciones de fondos;
 
-XI. Dirigir y coordinar los programas de trabajo y las actividades que desempeñen las Delegaciones Regionales de la Tesorería de la Federación y supervisar su correcto funcionamiento;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XI. Dirigir y coordinar los programas de trabajo y las actividades que desempeñen las direcciones generales adjuntas de Fiscalización y de Inspección, la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión y las Direcciones Regionales de Vigilancia de Fondos y Valores, así como supervisar su correcto funcionamiento;
 
 XII. Imponer sanciones administrativas a los servidores públicos y a los particulares que resulten infractores en los términos de la Ley del Servicio de Tesorería de la Federación, su reglamento y demás disposiciones legales aplicables, y
 
-XIII. Resolver los asuntos que las disposiciones legales que rigen las actividades de vigilancia de fondos y valores atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades de otras unidades administrativas de la Secretaría o de las indelegables del Secretario.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
+XIII. Resolver los asuntos que las disposiciones legales que rigen las actividades de vigilancia de fondos y valores atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades de otras unidades administrativas o de las indelegables del Secretario;
 
-XIV. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 1998)</small>
+XIV. Realizar las intervenciones que prevé el Reglamento de la Ley del Servicio de Tesorería de la Federación, así como habilitar para tales efectos a los servidores públicos de la Federación, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XV. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 90-A.
 
-Compete a la Dirección de Fiscalización a Dependencias y Entidades:
+Compete a la Dirección General Adjunta de Fiscalización:
 
 I. Aplicar los programas aprobados en materia de inspección, vigilancia y comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores de la propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares; así como los sistemas, procedimientos y métodos de trabajo establecidos;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-II. Ordenar y practicar por conducto de su personal, las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares, así como para la revisión de las operaciones realizadas por los sujetos mencionados relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales;
+II. Ordenar y practicar las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y demás actos de vigilancia de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y auxiliares de Tesorería de la Federación, que tengan por objeto la revisión de operaciones de recaudación, examinando los aspectos contables y legales correspondientes o la revisión de las operaciones realizadas por los sujetos mencionados, relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales;
 
-III. Formular pliegos preventivos de responsabilidades y los de observaciones, así como proceder a su notificación, requerimiento de pago y dictar mandamiento de ejecución por escrito, debidamente fundado y motivado, designando ejecutor para embargar precautoriamente bienes propiedad de los responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+III. Formular, previa opinión de la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión, pliegos preventivos de responsabilidades y de observaciones; suspender provisionalmente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos y valores a los probables responsables de irregularidades en dichas funciones, informando de ello a la Secretaría de la Función Pública o al respectivo órgano interno de control y ordenar la sustitución que, en su caso, corresponda;
 
 IV. Vigilar, en lo que corresponde a ingresos federales, la correcta aplicación de convenios de colaboración establecidos con Entidades Federativas y Municipios;
 
@@ -6907,23 +7021,49 @@ V. Vigilar las actividades asociadas con el procedimiento, seguimiento, control 
 
 VI. Vigilar las actividades asociadas con el procedimiento, seguimiento, control y recuperación de garantías a favor del Gobierno Federal derivadas del ejercicio presupuestal, y
 
-VII. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
+VII. Vigilar las actividades asociadas con el procedimiento, seguimiento y control de la recaudación de contribuciones federales, de conformidad con la autorización otorgada a las instituciones de crédito, así como supervisar que en caso de que existan irregularidades en las concentraciones de fondos, dichas instituciones enteren los montos correspondientes a los importes desfasados y a las sanciones aplicables;
 
-VIII. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 1998)</small>
+VIII. Vigilar y controlar los procedimientos relacionados con los pagos y depósitos a través de la cuenta aduanera, comprobando el cumplimiento de las obligaciones de las instituciones de crédito y demás instituciones autorizadas en dicha materia a que se refiere la Ley Aduanera;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IX. Coordinar con las Direcciones Regionales de Vigilancia de Fondos y Valores los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+X. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XI. Solicitar a la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión la imposición de multas a quienes incurran en las infracciones previstas en la Ley del Servicio de Tesorería de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XII. Realizar las intervenciones que prevé el Reglamento de la Ley del Servicio de Tesorería de la Federación, así como habilitar para tales efectos a los servidores públicos de la Federación, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XIII. Desahogar los asuntos de la competencia de la Unidad de Vigilancia de Fondos y Valores que le encomiende el Titular de dicha Unidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 90-B.
 
-Compete a la Dirección de Inspección a la Operación Fiscal:
+Compete a la Dirección General Adjunta de Inspección:
 
 I. Aplicar los programas aprobados en materia de inspección, vigilancia y comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores de la propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares; así como los sistemas, procedimientos y métodos de trabajo establecidos;
 
-II. Ordenar y practicar por conducto de su personal las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-III. Formular pliegos preventivos de responsabilidades y los de observaciones, así como proceder a su notificación, requerimiento de pago y dictar mandamiento de ejecución por escrito, debidamente fundado y motivado, designando ejecutor para embargar bienes propiedad de los responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda;
+II. Ordenar y practicar las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y demás actos de vigilancia de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y auxiliares de Tesorería de la Federación;
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+III. Formular, previa opinión de la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión, pliegos preventivos de responsabilidades y de observaciones; suspender provisionalmente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos y valores a los probables responsables de irregularidades en dichas funciones, informando de ello a la Secretaría de la Función Pública o al respectivo órgano interno de control y ordenar la sustitución que, en su caso, corresponda;
 
 IV. Vigilar las actividades asociadas con el procedimiento, seguimiento, control y recuperación de la cartera de créditos fiscales;
 
@@ -6933,61 +7073,63 @@ VI. Vigilar las actividades asociadas con el procedimiento, seguimiento y contro
 
 VII. Supervisar la impresión, envío, custodia y destrucción de valores, formas valoradas y otros bienes propiedad o al cuidado de la Federación, dando aviso de los resultados a la superioridad;
 
-VIII. Intervenir en los actos de entrega recepción de oficinas que manejen fondos y valores; así como comparecer en los actos de entrega física de bienes o mercancías decomisadas o abandonadas a favor del Gobierno Federal, a las que las autoridades competentes les hayan dado un destino final, con el objeto de comprobar que dicha entrega física se efectúe, y
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-IX. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia.
+VIII. Revisar y vigilar los sistemas, procesos y procedimientos operativos de registro y control interno de la Tesorería de la Federación y de los responsables de enteros a la misma;
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-X. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
+IX. Formular pliegos preventivos de responsabilidades y de observaciones que correspondan a los servidores públicos de la Tesorería de la Federación, previa opinión de la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión;
 
-> <small>(ADICIONADO D.O.F. 10 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+X. Coordinar con las Direcciones Regionales de Vigilancia de Fondos y Valores los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XI. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XII. Solicitar a la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión la imposición de multas a quienes incurran en las infracciones previstas en la Ley del Servicio de Tesorería de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XIII. Realizar las intervenciones que prevé el Reglamento de la Ley del Servicio de Tesorería de la Federación, así como habilitar para tales efectos a los servidores públicos de la Federación, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XIV. Desahogar los asuntos de la competencia de la Unidad de Vigilancia de Fondos y Valores que le encomiende el Titular de dicha Unidad.
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 90-C.
 
-Compete a la Dirección de Fiscalización de la Operación Recaudatoria:
+Compete a la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión:
 
-I. Aplicar los programas aprobados en materia de inspección, vigilancia y comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores de la propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares; así como los sistemas, procedimientos y métodos de trabajo establecidos;
+I. Emitir opinión sobre aspectos legales de los actos relacionados con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos y valores federales, así como de los formatos de documentos de los actos inherentes a las visitas, inspecciones, auditorías, intervenciones, reconocimientos de existencias y demás actos de vigilancia de fondos y valores de la propiedad o al cuidado de la Federación;
 
-II. Ordenar y practicar por conducto de su personal las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares, que tengan por objeto la revisión de operaciones de recaudación, examinando los aspectos contables y legales correspondientes;
+II. Notificar pliegos preventivos de responsabilidades y de observaciones, requerir su pago y dictar mandamiento de ejecución por escrito debidamente fundado y motivado; designar ejecutor para embargar precautoriamente bienes propiedad de los probables responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda;
 
-III. Formular pliegos preventivos de responsabilidades y los de observaciones, así como proceder a su notificación, requerimiento de pago y dictar mandamiento de ejecución por escrito, debidamente fundado y motivado, designando ejecutor para embargar bienes de los responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda;
+III. Imponer multas por infracciones a la Ley del Servicio de Tesorería de la Federación y demás disposiciones aplicables, así como notificarlas y requerir su pago;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+IV. Vigilar y comprobar el cumplimiento del procedimiento para el control, seguimiento y cobro de las sanciones económicas, multas y pliegos de responsabilidades, formulados por la Secretaría de la Función Pública y los órganos internos de control en las dependencias y entidades de la Administración Pública Federal;
 
-IV. Aplicar multas por infracciones a la Ley del Servicio de Tesorería de la Federación y demás disposiciones aplicables, notificarlas y requerir su pago;
+V. Proponer los criterios de aplicación de las disposiciones legales en materia de vigilancia de fondos y valores de la Federación;
 
-V. Vigilar y comprobar el cumplimiento del procedimiento para el control, seguimiento y cobro de las sanciones económicas, multas y pliegos de responsabilidades, formulados por la Secretaría de Contraloría y Desarrollo Administrativo y las Contralorías Internas en las dependencias y entidades de la administración pública federal;
+VI. Proponer al Titular de la Unidad de Vigilancia de Fondos y Valores los anteproyectos de disposiciones legales en el ámbito de competencia de la mencionada Unidad;
 
-VI. Vigilar las actividades asociadas con el procedimiento, seguimiento y control de la recaudación de contribuciones federales, de conformidad con la autorización otorgada a las instituciones de crédito; así como supervisar que en caso de que existan irregularidades en las concentraciones de fondos, dichas instituciones enteren los montos correspondientes a los importes desfasados y a las sanciones aplicables;
+VII. Revisar y opinar sobre la fundamentación y motivación de los proyectos de pliegos preventivos de responsabilidades y de observaciones que formulen las unidades administrativas de la Unidad de Vigilancia de Fondos y Valores y, en general, sobre cualquier documento que emitan las mencionadas unidades administrativas en el ámbito de sus funciones;
 
-VII. Vigilar y controlar los procedimientos relacionados con los pagos y depósitos a través de la cuenta aduanera, comprobando el cumplimiento de las obligaciones de las instituciones de crédito y demás instituciones autorizadas a que se refiere la Ley Aduanera, y
+VIII. Coordinar con las Direcciones Regionales de Vigilancia de Fondos y Valores los asuntos de su competencia;
 
-VIII. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia;
+IX. Emitir opinión sobre los proyectos de manuales de procedimientos de los diversos actos de vigilancia, así como de las guías de fiscalización de la Unidad de Vigilancia de Fondos y Valores, y
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-IX. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
-
-> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 1998)</small>
+X. Desahogar los asuntos de la competencia de la Unidad de Vigilancia de Fondos y Valores que le encomiende el Titular de dicha Unidad.
 
 ###### Artículo 90-D.
 
-Compete a la Dirección de Inspección y Supervisión de Procesos:
-
-I. Revisar, vigilar y comprobar los procesos operativos de registro y control de la Tesorería de la Federación;
-
-II. Ordenar y practicar inspecciones, auditorías, revisiones, compulsas, análisis de los procesos operativos y de control interno de la Tesorería de la Federación;
-
-III. Ordenar y practicar inspecciones, auditorías y análisis de los sistemas informáticos de la Tesorería de la Federación con el fin de disminuir los riesgos operativos;
-
-IV. Formular pliegos preventivos de responsabilidades y los de observaciones que correspondan a los servidores públicos de la Tesorería de la Federación, así como proceder a su notificación, requerimiento de pago y dictar mandamiento de ejecución por escrito, debidamente fundado y motivado, designando ejecutor para embargar bienes de los responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda, y
-
-V. Coordinar con las Delegaciones Regionales de la Tesorería de la Federación los asuntos de su competencia;
-
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-VI. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
+(DEROGADO, D.O.F. 6 DE JUNIO DE 2005)
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
 
@@ -7099,7 +7241,9 @@ VII. Tramitar y resolver los requerimientos y resoluciones de autoridad judicial
 
 VIII. Acordar con el Director General de Procedimientos Legales los asuntos de su competencia, y
 
-IX. Atender los demás asuntos que le encomiende el Director General de Procedimientos Legales.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IX. Desahogar los asuntos de la competencia de la Dirección General de Procedimientos Legales que le encomiende el Titular de la misma.
 
 > <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -7123,7 +7267,9 @@ VII. Ser órgano de consulta de las unidades administrativas de la Secretaría, 
 
 VIII. Acordar con el Director General de Procedimientos Legales los asuntos de su competencia, y
 
-IX. Atender los demás asuntos que le encomiende el Director General de Procedimientos Legales.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+IX. Desahogar los asuntos de la competencia de la Dirección General de Procedimientos Legales que le encomiende el Titular de la misma.
 
 > <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -7153,7 +7299,9 @@ X. Analizar y, en su caso, emitir opinión respecto de las propuestas que le pre
 
 XI. Acordar con el Director General de Procedimientos Legales los asuntos de su competencia, y
 
-XII. Atender los demás asuntos que le encomiende el Director General de Procedimientos Legales.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+XII. Desahogar los asuntos de la competencia de la Dirección General de Procedimientos Legales que le encomiende el Titular de la misma.
 
 ###### Artículo 91-D.
 
@@ -7277,39 +7425,29 @@ IX. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos d
 
 Cada Dirección Regional de la Procuraduría Fiscal de la Federación estará a cargo de un Director Regional, del que dependerán los Subdirectores Regionales que tenga adscritos, así como el personal que las necesidades del servicio requiera.
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
+
 ###### Artículo 97.
 
-Compete a las Delegaciones Regionales de la Tesorería de la Federación, dentro de la circunscripción territorial que les corresponda:
+Compete a las Direcciones Regionales de Vigilancia de Fondos y Valores, dentro de la circunscripción territorial que les corresponda:
 
 I. Aplicar los programas aprobados en materia de vigilancia del patrimonio de la Federación y de los fondos y valores de su propiedad o a su cuidado, así como los sistemas, procedimientos y métodos de trabajo establecidos;
 
-II. Ordenar y practicar, por conducto del personal de inspección de la Tesorería de la Federación que tenga adscrito, las inspecciones, investigaciones, visitas, compulsas, reconocimientos de existencias, análisis de los sistemas de control establecidos y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación, por parte de los servidores públicos y auxiliares de la Tesorería de la Federación, sin detrimento de las facultades que correspondan a otras dependencias;
+II. Ordenar y practicar las inspecciones, investigaciones, visitas, compulsas, reconocimientos de existencias, análisis de los sistemas de control establecidos y demás actos de vigilancia de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación, por parte de los servidores públicos y auxiliares de Tesorería de la Federación, sin detrimento de las facultades que correspondan a otras dependencias;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 1998)</small>
+III. Formular, previa opinión de la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión, pliegos preventivos de responsabilidades y de observaciones, así como suspender provisionalmente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos y valores a los probables responsables de irregularidades en dichas funciones, informando de ello a la Secretaría de la Función Pública o al respectivo órgano interno de control y ordenar la sustitución que, en su caso, corresponda;
 
-III. Formular los pliegos preventivos de responsabilidades y los de observaciones, así como ejercer las facultades que corresponda al personal de vigilancia, conforme a la Ley del Servicio de Tesorería de la Federación, su reglamento y demás disposiciones aplicables;
+IV. Notificar, en coordinación con la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión, pliegos preventivos de responsabilidades y de observaciones y requerir su pago, así como, previa opinión de la mencionada Dirección, dictar mandamiento de ejecución por escrito debidamente fundado y motivado; designar ejecutor para embargar precautoriamente bienes propiedad de los probables responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda;
 
-IV. Dictar mandamiento de ejecución por escrito, debidamente motivado y fundado, designando ejecutor y embargar precautoriamente, bienes de los servidores públicos responsables de irregularidades en la recaudación, manejo, custodia, aplicación o administración de fondos y valores de la propiedad o al cuidado de la Federación, para asegurar los intereses del Erario Federal, cuando los pliegos preventivos de responsabilidades no se solventen en el acto;
+V. Supervisar la impresión, envío, custodia y destrucción de valores, dando aviso inmediato de sus resultados a la Secretaría de la Función Pública o al órgano interno de control que corresponda;
 
-V. Ampliar o reducir los embargos precautorios cuando proceda, y suspender preventivamente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos o valores de la propiedad o al cuidado de la Federación a dichos responsables, informando de ello inmediatamente a la Secretaría de Contraloría y Desarrollo Administrativo y ordenar la sustitución que en su caso corresponda;
+VI. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado de la Federación;
 
-VI. Supervisar la impresión, envío, custodia, y destrucción de valores, dando aviso inmediato de sus resultados a la Secretaría de Contraloría y Desarrollo Administrativo;
+VII. Realizar las intervenciones que prevé el Reglamento de la Ley del Servicio de Tesorería de la Federación, así como habilitar para tales efectos a los servidores públicos de la Federación, y
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+VIII. Solicitar a la Dirección de Vigilancia de Fondos y Valores y Proyectos de Inversión la imposición de multas a quienes incurran en las infracciones previstas en la Ley del Servicio de Tesorería de la Federación.
 
-VII. Ordenar y supervisar al personal de inspección que le sea adscrito, el ejercicio de las atribuciones conferidas por la Ley del Servicio de Tesorería de la Federación y otras disposiciones legales, a fin de dar cumplimiento a los programas aprobados, y
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-VIII. Coordinarse con las demás unidades administrativas regionales de la Secretaría, de la propia Tesorería, y de otras dependencias, así como con las autoridades fiscales de las entidades federativas coordinadas, para el mejor ejercicio de sus facultades.
-
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-IX. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
-
-> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-Cada Delegación Regional de la Tesorería de la Federación, estará a cargo de un Delegado Regional, del que dependerán los inspectores que tenga adscritos, así como los Subdelegados y el personal que las necesidades del servicio requiera.
+Cada Dirección Regional de Vigilancia de Fondos y Valores estará a cargo de un Director Regional, del que dependerán los Subdirectores, Jefes de Departamento y el personal que las necesidades del servicio requiera.
 
 ###### Artículo 98.
 
@@ -7573,9 +7711,7 @@ e) (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 f) Ejecutar las políticas, en materia de recursos humanos, materiales y financieros, así como coordinar y supervisar la administración de éstos, de acuerdo con los objetivos y lineamientos que al efecto señale el Presidente del Instituto;
 
-g) Brindar el apoyo administrativo a las unidades administrativas del Instituto, respecto al proceso interno de programación y formulación del anteproyecto de presupuesto, así como
-
-al control presupuestario y contabilidad;
+g) Brindar el apoyo administrativo a las unidades administrativas del Instituto, respecto al proceso interno de programación y formulación del anteproyecto de presupuesto, así como al control presupuestario y contabilidad;
 
 h) Elaborar y someter a consideración del Presidente del Instituto los anteproyectos del presupuesto del Instituto y verificar su correcta y oportuna ejecución;
 
@@ -7695,43 +7831,77 @@ El Instituto proporcionará al titular del órgano interno de control los recurs
 
 ### CAPÍTULO X. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 105.
 
-El Secretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
+El Secretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado.
 
-El Subsecretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-El Subsecretario de Ingresos será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
+El Subsecretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado.
 
-El Subsecretario de Egresos será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
-El Oficial Mayor será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
+El Subsecretario de Ingresos será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+El Subsecretario de Egresos será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+El Oficial Mayor será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 El Procurador Fiscal de la Federación será suplido en sus ausencias por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado. La ausencia de los Subprocuradores será suplida entre ellos en el orden indicado, o por los Directores Generales que de ellos dependan en los asuntos de su respectiva competencia, en el orden que aparecen citados en este Reglamento.
 
-El Tesorero de la Federación será suplido en sus ausencias por el Subtesorero de Operación, por el Subtesorero de Contabilidad y Control Operativo, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, por el Director General de Vigilancia de Fondos y Valores, el Director General de Procedimientos Legales y por el Director General Adjunto de Administración de Cartera y Activos no Monetarios, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+El Tesorero de la Federación será suplido en sus ausencias por el Subtesorero de Operación, por el Subtesorero de Contabilidad y Control Operativo, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros, por el Subprocurador Fiscal Federal de Investigaciones, por el Titular de la Unidad de Vigilancia de Fondos y Valores, por el Director General de Procedimientos Legales y por el Director General Adjunto de Administración de Cartera y Activos no Monetarios, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas de Auditoría Interna "A", de Auditoría Interna "B", de Auditoría de Control y Evaluación y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto por el artículo 74, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública. Los coordinadores de área, en los asuntos y procedimientos en los que auxilien a los titulares de dichas áreas, serán suplidos por los subcoordinadores.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
 El Titular de la Unidad de Inteligencia Financiera será suplido en sus ausencias, por los Directores Generales Adjuntos de Normatividad y Relaciones Nacionales e Internacionales, de Análisis Financiero, y de Procesos Legales, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 El Titular de la Unidad de Inversiones será suplido en sus ausencias por los Directores Generales Adjuntos de Proyectos de Inversión A; de Proyectos de Inversión B, y de Normatividad, en el orden indicado.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
 El Titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias por los Directores Generales Adjuntos de Programación e Integración Presupuestaria; de Estrategia y Política Presupuestaria; de Operación y Control Presupuestario, y de Seguimiento y Evaluación Presupuestaria, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 El Titular de la Unidad de Contabilidad Gubernamental e Informes sobre la Gestión Pública, será suplido en sus ausencias por los Directores Generales Adjuntos de Normas y Cuenta Pública, de Integración de Informes y Análisis Programático, y de Análisis y Desarrollo de la Cuenta Pública Federal; en el orden indicado.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
 El Director General de Programación y Presupuesto "A" será suplido en sus ausencias por los Directores Generales Adjuntos de Programación y Presupuesto de Salud y Seguridad Social; de Educación, y de Servicios, en el orden indicado. El Director General de Programación y Presupuesto "B" será suplido en sus ausencias por los Directores Generales Adjuntos de Programación y Presupuesto de Desarrollo Agropecuario, Recursos Naturales, Hacienda y Turismo; de Desarrollo Social, Trabajo, Economía y Comunicaciones, y de Energía, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 El Director General Jurídico de Egresos será suplido en sus ausencias por los Directores Generales Adjuntos de Análisis Jurídico, y de Normas Presupuestarias, en el orden indicado.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
 Los Titulares de las Coordinaciones Generales serán suplidos en sus ausencias por los Directores Generales que de ellos dependan, los titulares de las Unidades y los Directores Generales, serán suplidos en sus ausencias por los Directores Generales Adjuntos que de ellos dependan en los asuntos de su respectiva competencia o, en su caso, serán suplidos por los Directores que de ellos dependan en los asuntos de su respectiva competencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 Los Directores Generales Adjuntos serán suplidos en sus ausencias por los Directores que de ellos dependan en los asuntos de su respectiva competencia, los Directores, serán suplidos por los Subdirectores que de ellos dependan en los asuntos de su respectiva competencia. Los Subdirectores, Jefes de Departamento y Supervisores, serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
 
-Los Delegados Regionales de la Tesorería de la Federación serán suplidos en sus ausencias por los Subdelegados que de ellos dependan en los asuntos de su respectiva circunscripción territorial o competencia.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2005)</small>
+
+Los Directores Regionales de Vigilancia de Fondos y Valores serán suplidos en sus ausencias por los Subdirectores que de ellos dependan en los asuntos de su respectiva circunscripción territorial o competencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 Los demás servidores públicos serán suplidos en sus ausencias por sus inmediatos inferiores que de ellos dependan, salvo que se trate de personal de base.
 
@@ -7749,11 +7919,11 @@ II. La Procuraduría Fiscal de la Federación, en las materias de su respectiva 
 
 Cuando se alegue que un acto administrativo impugnable mediante recurso de revocación, no fue notificado o que lo fue ilegalmente, será competente la unidad administrativa que, conforme a los incisos anteriores, lo sea para conocer del recurso contra dicho acto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2005)</small>
 
 ###### Artículo 107.
 
-Los Subtesoreros, los Directores Generales u homólogos, los Directores Generales Adjuntos, los Directores de Área y los Delegados Regionales de la Tesorería de la Federación, están facultados en el ámbito de sus respectivas competencias para:
+Los Subtesoreros, los Titulares de Unidad, los Directores Generales u homólogos, los Directores Generales Adjuntos, los Directores de Área y los Directores Regionales de Vigilancia de Fondos y Valores, están facultados en el ámbito de sus respectivas competencias para:
 
 I. Aplicar, cuando proceda, las medidas de apremio previstas en la Ley;
 
@@ -7968,3 +8138,27 @@ DÉCIMO SEXTO.- Dentro de los 30 días naturales contados a partir de la publica
 D.O.F. 28 DE MAYO DE 2004.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Para los efectos de lo dispuesto en el artículo segundo de este Decreto, se aplicarán las siguientes disposiciones:
+
+I. Las referencias que se hagan y las atribuciones que se otorgan, en materia de programación, presupuesto y gasto público federalizado, a la Unidad de Coordinación con Entidades Federativas y a la Dirección General Adjunta de Participaciones y Aportaciones Federales, en leyes, reglamentos, acuerdos, oficios, circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Política y Control Presupuestario, en el ámbito de la competencia que le corresponde, de conformidad con el artículo segundo de este Decreto.
+
+II. Los asuntos relativos a las facultades en materia de programación, presupuesto y gasto federalizado, que a la entrada en vigor del artículo segundo de este Decreto se encuentren en trámite en la Unidad de Coordinación con Entidades Federativas y que mediante éste mismo sean transferidas a la Unidad de Política y Control Presupuestario, serán tramitados por esta última hasta su conclusión.
+
+Los archivos relativos al ejercicio de las facultades que mediante este Decreto dejan de ser competencia de la Unidad de Coordinación con Entidades Federativas, serán transferidos a la Unidad de Política y Control Presupuestario a más tardar dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+III. Los asuntos relativos a las facultades en materia de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, que a la entrada en vigor del artículo segundo de este Decreto se encuentren en trámite en la Unidad de Banca y Ahorro y que mediante este mismo sean transferidas a la Dirección General de Seguros y Valores, serán tramitados por la citada Unidad hasta su conclusión.
+
+IV. Las referencias que se hagan y las atribuciones que se otorgan a la Unidad de Banca y Ahorro en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones que se relacionen con las administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, se entenderán hechas a la Dirección General de Seguros y Valores.
+
+V. Las referencias que se hagan y las atribuciones que se otorgan a la Dirección General de Vigilancia de Fondos y Valores en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones se entenderán hechas a la Unidad de Vigilancia de Fondos y Valores.
+
+VI. Los asuntos en materia de vigilancia de fondos y valores que se encuentren pendientes a la fecha de entrada en vigor de este Decreto y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones vigentes antes de esa fecha, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+VII. Los derechos laborales de los trabajadores de la Secretaría serán respetados. El cargo de Director General Adjunto de Organizaciones y Actividades Auxiliares del Crédito, el cual cambia de denominación con motivo de este Decreto a Director General Adjunto de Pensiones y Organizaciones Auxiliares del Crédito, adscrito a la Dirección General de Seguros y Valores, quedará sujeto a lo dispuesto por el artículo tercero transitorio de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y demás disposiciones aplicables.
