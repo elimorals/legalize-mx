@@ -4,7 +4,7 @@ identifier: "AGU-ley-reglamentaria-del-parrafo-tercero-del-articulo-70-13510"
 country: "mx"
 rank: "ley"
 publication_date: "1985-03-24"
-last_updated: "2003-10-06"
+last_updated: "2005-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY REGLAMENTARIA DEL PARRAFO TERCERO DEL ARTICULO 70 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2005 Y ADICIONADO A LA LEY MUNICIPAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 6 DE OCTUBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 24 de marzo de 1985.
 
@@ -180,3 +182,11 @@ SEGUNDO.- Se abroga la Ley Orgánica Municipal del Estado de Aguascalientes, pub
 TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 CUARTO.- Los actos jurídicos municipales y los trámites ante las autoridades municipales que se encuentren pendientes de resolución se sujetarán a los procedimientos previstos en la Ley que se abroga.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2005)</small>
+
+QUINTO.- Se abroga la Ley Reglamentaria del Párrafo Tercero del Artículo 70 Constitucional, publicada en el Periódico Oficial del Estado de Aguascalientes el día 24 de marzo de 1985.
+
+P.O. 6 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
