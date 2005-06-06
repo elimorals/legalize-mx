@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-20177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-22"
-last_updated: "2003-06-17"
+last_updated: "2005-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20177&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-03-15"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2003.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 22 de marzo de 2001.
 
@@ -3192,3 +3194,61 @@ D.O.F. 17 DE JUNIO DE 2003.
 SE TRANSCRIBE UNICAMENTE EL ARTICULO TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON EL PRESENTE REGLAMENTO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2005.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para los efectos de lo dispuesto en el artículo primero de este Decreto, se aplicarán las siguientes disposiciones:
+
+I. Se abroga el Reglamento Interior del Servicio de Administración Tributaria publicado en el Diario Oficial de la Federación el 22 de marzo de 2001.
+
+II. Se abroga el Acuerdo mediante el cual el Jefe del Servicio de Administración Tributaria delega en el Administrador General de Aduanas diversas facultades en materia de destino y transferencia de bienes, publicado en el Diario Oficial de la Federación el 24 de noviembre de 2003.
+
+III. Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto, se tramitarán y resolverán por la unidad administrativa del Servicio de Administración Tributaria que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme al citado Reglamento.
+
+Las referencias en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, que se hagan a las unidades administrativas del Servicio de Administración Tributaria en el Reglamento que se abroga, que cambian de denominación por virtud del Reglamento a que se refiere el artículo primero de este Decreto, se entenderán hechas a las unidades administrativas que les corresponda.
+
+IV. Respecto de los casos en que con anterioridad a la entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto, alguna de las Administraciones Locales de la Administración General de Grandes Contribuyentes haya iniciado el ejercicio de sus facultades de comprobación respecto de los contribuyentes a que se refiere el apartado B del artículo 19 del citado Reglamento, podrán continuar con el ejercicio de dichas facultades la Administración General de Auditoría Fiscal Federal, sus Administraciones Centrales o la Administración Local de Auditoría Fiscal que corresponda al domicilio del contribuyente.
+
+V. Salvo lo dispuesto en la fracción VI de este precepto, cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia del Reglamento a que se refiere el artículo primero de este Decreto, deba ser ejercida por otra u otras unidades que en el mismo se establecen, corresponderá a la nueva unidad administrativa terminar la sustanciación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda. No obstante lo anterior, los asuntos pendientes de trámite a cargo de la Administración General de Grandes Contribuyentes y que con motivo de la actualización de los montos establecidos en la fracción XII del apartado B del artículo 17 del Reglamento que se abroga, dejaren de ser competencia de esta unidad administrativa, competerá a la propia Administración General de Grandes Contribuyentes continuar su trámite hasta su conclusión.
+
+El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud del artículo primero de este Decreto, pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda, a excepción del personal, expedientes, mobiliario y equipo a cargo de la Administración General Jurídica, la cual se regirá por lo dispuesto en la siguiente fracción.
+
+Los expedientes de los casos en que la Administración General de Evaluación haya presentado denuncia o hecho la remisión a la Procuraduría Fiscal de la Federación, hasta antes de la entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto, serán enviados a la Administración General Jurídica para su control y seguimiento, en un plazo no mayor a veinte días hábiles contados a partir del inicio de la vigencia de dicho Reglamento.
+
+Las Administraciones Regionales de Grandes Contribuyentes, iniciarán sus actividades a los 30 días hábiles siguientes a la fecha de entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto. Durante el periodo comprendido desde la entrada en vigor del mencionado precepto hasta la fecha de inicio de actividades de las Administraciones Regionales de Grandes Contribuyentes, la sustanciación de los asuntos que correspondan a éstas de conformidad con el referido Reglamento serán tramitados por la Administración General de Grandes Contribuyentes o las unidades administrativas centrales a ella adscritas, en el ámbito de su competencia.
+
+VI. Sin perjuicio de las facultades que correspondan a la Administración General de Recaudación y sus unidades administrativas, las Administraciones Locales Jurídicas estarán facultadas, de manera concurrente con aquéllas, para iniciar, continuar y concluir el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, únicamente en relación con los créditos fiscales que hasta la fecha de entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto, hayan notificado la Administración General Jurídica y sus unidades administrativas, así como para hacer efectivas las garantías constituidas para asegurar el interés fiscal relativo a dichos créditos, inclusive el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios, respecto de los cuales ejerza el procedimiento administrativo de ejecución; enajenar fuera de remate bienes embargados, así como para expedir el documento que ampare la enajenación de los bienes rematados y proceder a la ampliación del embargo en otros bienes del contribuyente o de sus responsables solidarios, cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales; fijar los honorarios del depositario interventor de negociaciones o administrador de bienes raíces, en coordinación con las unidades administrativas competentes y, en general, para realizar cualquier acto o dictar cualquier resolución en materia del procedimiento administrativo de ejecución, incluyendo el trámite y resolución del incidente de violación a la suspensión al procedimiento administrativo de ejecución respecto a créditos fiscales de su competencia.
+
+Igualmente, la Administración General de Evaluación continuará ejerciendo en forma concurrente con la Administración General Jurídica, las facultades respecto de aquellas denuncias que haya formulado ante el Ministerio Público competente, respecto de conductas que puedan constituir delitos de los servidores públicos adscritos al Servicio de Administración Tributaria, con anterioridad a la entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto.
+
+Las facultades concurrentes a que se refieren los párrafos anteriores se concluirán a más tardar dentro de los tres meses siguientes a la entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto.
+
+VII. Cuando la Administración General de Grandes Contribuyentes o cualquiera de las unidades administrativas que de ella dependan, antes de la entrada en vigor del Reglamento a que se refiere el artículo primero de este Decreto, hayan iniciado sus facultades de comprobación respecto de un sujeto de su competencia, éste continuará siéndolo por los ejercicios fiscales revisados hasta que la resolución que se emita quede firme. La resolución de los recursos y la defensa del interés fiscal en este supuesto también serán competencia de la Administración General de Grandes Contribuyentes o de las mencionadas unidades administrativas, así como la reposición del acto impugnado que, en su caso, se ordene.
+
+Lo dispuesto en el párrafo anterior también será aplicable a las solicitudes de devolución de contribuciones, efectuadas en los términos del artículo 22 del Código Fiscal de la Federación.
+
+VIII. Para los efectos de lo dispuesto en las fracciones LXXIX del apartado A y XV del apartado B, del artículo 19 del Reglamento a que se refiere el artículo primero de este Decreto, se considerarán inversiones en regímenes fiscales preferentes, además de aquéllas a que se refiere el Capítulo VI de la Ley del Impuesto sobre la Renta, las que conforme a otras disposiciones legales sean denominadas jurisdicciones de baja imposición fiscal o territorios con regímenes fiscales preferentes.
+
+IX. En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del Reglamento a que se refiere el artículo primero de este Decreto, continuarán siendo aplicables, en lo conducente, los acuerdos expedidos con anterioridad a la entrada en vigor del citado Reglamento.
+
+Tercero. Para los efectos de lo dispuesto en el artículo segundo de este Decreto, se aplicarán las siguientes disposiciones:
+
+I. Las referencias que se hagan y las atribuciones que se otorgan, en materia de programación, presupuesto y gasto público federalizado, a la Unidad de Coordinación con Entidades Federativas y a la Dirección General Adjunta de Participaciones y Aportaciones Federales, en leyes, reglamentos, acuerdos, oficios, circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Política y Control Presupuestario, en el ámbito de la competencia que le corresponde, de conformidad con el artículo segundo de este Decreto.
+
+II. Los asuntos relativos a las facultades en materia de programación, presupuesto y gasto federalizado, que a la entrada en vigor del artículo segundo de este Decreto se encuentren en trámite en la Unidad de Coordinación con Entidades Federativas y que mediante éste mismo sean transferidas a la Unidad de Política y Control Presupuestario, serán tramitados por esta última hasta su conclusión.
+
+Los archivos relativos al ejercicio de las facultades que mediante este Decreto dejan de ser competencia de la Unidad de Coordinación con Entidades Federativas, serán transferidos a la Unidad de Política y Control Presupuestario a más tardar dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+III. Los asuntos relativos a las facultades en materia de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, que a la entrada en vigor del artículo segundo de este Decreto se encuentren en trámite en la Unidad de Banca y Ahorro y que mediante este mismo sean transferidas a la Dirección General de Seguros y Valores, serán tramitados por la citada Unidad hasta su conclusión.
+
+IV. Las referencias que se hagan y las atribuciones que se otorgan a la Unidad de Banca y Ahorro en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones que se relacionen con las administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, se entenderán hechas a la Dirección General de Seguros y Valores.
+
+V. Las referencias que se hagan y las atribuciones que se otorgan a la Dirección General de Vigilancia de Fondos y Valores en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones se entenderán hechas a la Unidad de Vigilancia de Fondos y Valores.
+
+VI. Los asuntos en materia de vigilancia de fondos y valores que se encuentren pendientes a la fecha de entrada en vigor de este Decreto y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones vigentes antes de esa fecha, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+VII. Los derechos laborales de los trabajadores de la Secretaría serán respetados. El cargo de Director General Adjunto de Organizaciones y Actividades Auxiliares del Crédito, el cual cambia de denominación con motivo de este Decreto a Director General Adjunto de Pensiones y Organizaciones Auxiliares del Crédito, adscrito a la Dirección General de Seguros y Valores, quedará sujeto a lo dispuesto por el artículo tercero transitorio de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y demás disposiciones aplicables.
