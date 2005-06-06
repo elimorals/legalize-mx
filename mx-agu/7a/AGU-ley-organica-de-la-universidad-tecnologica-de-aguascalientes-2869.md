@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-aguascalientes-28
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-06-06"
-last_updated: "1993-06-06"
+last_updated: "2005-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1993.
 
@@ -41,15 +41,21 @@ LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
 ### CAPITULO PRIMERO. Naturaleza, Objeto y Facultades
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 1o.
 
-Se crea la Universidad Tecnológica de Aguascalientes como organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, integrada al Sistema Nacional de Universidades Tecnológicas, adoptando el modelo pedagógico y los sistemas educativos que señale el Consejo Nacional de Universidades Tecnológicas y el Instituto de Educación de Aguascalientes.
+En su régimen administrativo y laboral se sujetará a la presente Ley y a las disposiciones legales aplicables.
+
+En cuanto al modelo pedagógico se integrará al Sistema Nacional de Universidades Tecnológicas, de acuerdo a los criterios que señalen la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes, conforme a lo prescrito en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Aguascalientes.
 
 ###### ARTICULO 2o.
 
 La Universidad Tecnológica de Aguascalientes tendrá como objetivos:
 
-I.- Formar Técnicos Superiores, con sentido de innovación en la incorporación de los avances científicos y tecnológicos, los cuales estarán vinculados con las necesidades productivas de la comunidad.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+I.- Formar Técnicos Superiores, con una sólida preparación humanística, con sentido de innovación en la incorporación de los avances científicos y tecnológicos, los cuales estarán vinculados con las necesidades productivas de la comunidad.
 
 II.- Realizar investigación en las áreas de su competencia, que se traduzca en aportaciones concretas que contribuyan al mejoramiento y eficiencia en la producción industrial y de servicios y a la elevación de la calidad de vida del Estado y de la región.
 
@@ -67,41 +73,57 @@ La Universidad, para el cumplimiento de su objeto, estará facultada para:
 
 I.- Planear y programar la enseñanza y determinar en sus planes y programas de estudio los contenidos particulares o regionales.
 
-II.- Determinar programas de investigación y vinculación.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+II.- Desarrollar y mantener con el sector productivo una vinculación permanente para la creación y la actualización, en los términos de esta Ley, de carreras, planes y programas de estudio e investigación, asistencia técnica y educación continua.
 
 III.- Expedir certificados de estudio, títulos, diplomas, distinciones especiales y grados de los estudios que impartan, de acuerdo a lo dispuesto en el Estatuto de la Ley y los Reglamentos respectivos.
 
-IV.- Revalidar y establecer equivalencias de los estudios realizados en otras instituciones educativas, nacionales y extranjeras, de acuerdo a lo establecido en el Estatuto de esta Ley y/o en el Reglamento respectivo.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+IV.- Revalidar y establecer equivalencias de los estudios realizados en otras instituciones educativas, nacionales y extranjeras, de acuerdo a lo establecido en el Estatuto de esta Ley, sus reglamento respectivos y disposiciones legales aplicables.
 
 V.- Determinar los procedimientos de selección de los alumnos y establecer las normas para su permanencia en la institución.
 
-VI.- Administrar su patrimonio conforme a lo estatuido en esta Ley, expidiendo las disposiciones internas que lo regulan.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+VI.- Dirigir el manejo presupuestal y financiero con apego a lo dispuesto en esta Ley, su normatividad interna, así como a las leyes, reglamentos y demás disposiciones vigentes del Estado.
 
 VII.- Expedir el Estatuto, Reglamentos y disposiciones legales necesarias, a fin de hacer efectivas las facultades que se le confieren para el cumplimiento de su objetivo.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+VIII. Suscribir contratos y convenios con personas físicas o morales y con instituciones públicas, ya sea de la Entidad, del país o del extranjero, para el cumplimiento de sus objetivos.
+
 ### CAPITULO SEGUNDO. De la Organización de la Universidad
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 4o.
 
 La Universidad para su organización y gobierno contará con las siguientes autoridades:
 
-I.- El Consejo Directivo.
+I.- El Consejo Directivo;
 
-II.- El Rector.
+II.- El Rector;
 
-III.- El Director de Vinculación.
+III.- El Director de Vinculación;
 
-IV.- Los Directores de Area.
+IV.- El Secretario Académico;
 
-V.- Los Directores de División.
+V.- Los Directores de Area;
 
-VI.- Los Organos Colegiados.
+VI.- Los Directores de División;
+
+VII Los Organos Colegiados.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 5o.
 
-El Consejo Directivo de la Universidad estará integrado por ocho miembros, a invitación del Gobernador del Estado; El Director General del Instituto de Educación de Aguascalientes; un Representante de las Instituciones de Educación Superior de la Entidad, designado por el Gobernador; tres representantes de los Municipios del Estado, designados por los Ayuntamientos en la forma que los mismos determinen; tres representantes del Sector Productivo. El Director General del Instituto de Educación de Aguascalientes, el representante designado por el Gobernador y los representantes del sector productivo durarán en su cargo seis años y los representantes de los Municipios tres años, debiendo hacerse su designación dentro de los primeros treinta días siguientes a la toma de posesión del Gobernador y de los Presidentes Municipales, respectivamente.
+El Consejo Directivo de la Universidad estará integrado por: el Director General del Instituto de Educación de Aguascalientes; dos representantes de la Coordinación General de las Universidades Tecnológicas y el representante de la Secretaría de Educación Pública en el Estado; los alcaldes de los Municipios en los que se encuentre la Universidad; un representante del Congreso del Estado, y tres representantes del sector productivo a invitación del Gobernador.
 
-Los representantes del sector productivo serán designados por los organismos constituídos y reconocidos del sector, a invitación del Gobernador del Estado.
+El Director General del Instituto de Educación de Aguascalientes, los representantes de la Coordinación General de Universidades Tecnológicas y el representante de la Secretaría de Educación Pública en el Estado, así como los representantes del sector productivo durarán en su encargo seis años y los representantes de los Municipios y del Congreso del Estado tres años, debiendo hacerse su designación dentro de los primeros treinta días siguientes a la toma de posesión del Gobernador de la Legislatura del Congreso del Estado y de los Presidentes Municipales respectivamente.
 
 ###### ARTICULO 6o.
 
@@ -119,6 +141,10 @@ III.- Tener experiencia académica y/o profesional.
 
 IV.- Ser persona de amplia solvencia moral y de reconocido prestigio académico y/o profesional.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+V. No ocupar cargos directivos o administrativos en la Universidad.
+
 ###### ARTICULO 8o.
 
 El cargo de miembro del Consejo Directivo será honorario y su desempeño será compatible, dentro de la Universidad, únicamente con la realización de tareas académicas. Los miembros del Consejo Directivo no podrán ser designados para cargos de dirección en la Universidad antes de los dos años, contados a partir de su separación de dicho cargo.
@@ -127,31 +153,45 @@ El cargo de miembro del Consejo Directivo será honorario y su desempeño será 
 
 El Consejo Directivo tendrá la facultad de designar y remover al Rector de la Universidad y, en su caso, de conocer y aceptar su renuncia. La designación la hará el Consejo Directivo, a propuesta del Gobernador del Estado, de acuerdo con los requisitos que para el efecto se señalen en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 10.
 
-El Consejo Directivo tendrá, además, como funciones, facultades y atribuciones, las siguientes:
+El Consejo Directivo tendrá, además, como funciones y atribuciones, las siguientes:
 
-I.- Designar al Director de Vinculación, a los Directores de Area y a los Directores de División, a propuesta formulada por el Rector.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+I.- Designar a los Secretarios de Vinculación y Académico, a los Directores de Area y de División, a propuesta formulada por el Rector.
 
 II.- Expedir el Estatuto de la Ley Orgánica, los reglamentos y las disposiciones relativas a la estructura, organización y funciones técnico, académico y administrativo de la Universidad.
 
-III.- Crear, modificar o suprimir carreras, cursos y planes de estudio propuestos por el Rector.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+III.- Conocer de la creación, modificación o suspensión de carreras, recursos y planes de estudio propuestos por el Rector.
 
 IV.- Examinar y, en su caso, aprobar los proyectos anuales de ingreso y los presupuestos de egresos.
 
-V.- Discutir y, en su caso, aprobar la cuenta anual de ingresos y egresos de la institución y designar al auditor externo que dictamine sus estados financieros.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
 
-VI.- Dirimir los conflictos que surjan entre las autoridades universitarias.
+V.- Discutir y en su caso, aprobar la cuenta anual de ingresos y egresos de la Institución, así como nombrar auditor externo que dictamine sus estados financieros.
+
+VI.- (DEROGADA, P.O. 19 DE JUNIO DE 2005)
 
 VII.- Integrar comisiones de análisis de los asuntos y problemas de su competencia.
 
-VIII.- Conocer y aprobar, en su caso, el Plan Anual de Trabajo y los informes trimestrales del Rector.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+VIII.- Conocer y aprobar, en su caso, el Plan Anual de Trabajo y los informes cuatrimestrales del Rector.
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
 
 IX.- Conferir grados honoríficos.
 
 X.- Designar a los miembros de Patronato de la Universidad.
 
-XI.- Las demás que le sean conferidas por esta Ley, el Estatuto y los Reglamentos de la Universidad, así como cualquier asunto que no se encuentre atribuido a otro Organo o Autoridad de la Universidad.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+XI.- Las demás que le sean conferidas por esta Ley, por las disposiciones estatales aplicables y aquéllas que no estén atribuidas a otro Organo o Autoridad Administrativa.
 
 ###### ARTICULO 11.
 
@@ -171,7 +211,9 @@ II.- Ser originario del Estado de Aguascalientes o tener arraigo efectivo, no me
 
 III.- Ser mayor de 30 años y menor de 70 al momento de su designación.
 
-IV.- Poseer título académico de técnico superior o licenciatura.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+IV.- Poseer título académico de Licenciatura expedido por institución académica reconocida por las autoridades educativas del país, o Maestría en Ciencias.
 
 V.- Ser persona de amplia solvencia moral y de reconocido prestigio académico y/o profesional.
 
@@ -181,7 +223,9 @@ VI.- No haber sido sentenciado por delito intencional.
 
 Son facultades y obligaciones del Rector:
 
-I.- Proponer al Consejo Directivo las ternas para la designación del Director de Vinculación, de los Directores de Area y de los Directores de División.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+I.- Proponer al Consejo Directivo las ternas para la designación de los Secretarios de Vinculación y Académico, de los Directores de Area y de los Directores de División.
 
 II.- Conducir el funcionamiento de la institución, vigilando el cumplimiento de los planes y programas de trabajo de los órganos competentes.
 
@@ -191,17 +235,25 @@ IV.- Designar al docente, técnico y administrativo, de acuerdo a las disposicio
 
 V.- Presentar y someter a consideración del Consejo Directivo para su discusión y aprobación, en su caso, el presupuesto anual de ingresos y egresos.
 
-VI.- Dar a conocer anualmente al Consejo Directivo el plan de trabajo de la Universidad y presentar trimestralmente el informe de las actividades realizadas.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+
+VI.- Dar a conocer anualmente al Consejo Directivo el plan de trabajo de la Universidad y presentar cuatrimestralmente el informe de las actividades realizadas.
 
 VII.- Las demás que le otorguen la presente Ley, el Estatuto y los Reglamentos que normen la vida de la Universidad.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 15.
 
-En sus ausencias temporales, que no excedan de 15 días, el Rector será sustituido por el Director de Vinculación. En caso de que la ausencia fuese por un tiempo mayor, el Director de Vinculación continuará ejerciendo las mismas funciones hasta que se designe a un Rector interino, quien concluirá el período de tres años, correspondiente al titular separado de su cargo, en los términos de la presente Ley, el Estatuto y los Reglamentos.
+En sus ausencias temporales del Rector será sustituido por el Secretario de Vinculación; las ausencias temporales no excederán de quince días, salvo las causas plenamente justificadas que prevea el Estatuto.
+
+En caso de ausencia definitiva, el Secretario de Vinculación ejercerá las funciones del Rector hasta que el Consejo Directivo designe a un Interino, quien concluirá el periodo de cuatro años correspondiente al titular separado de su cargo, en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 16.
 
-El Rector será apoyado para el cumplimiento de sus funciones por el Director de Vinculación, los Directores de Area y los Directores de División que sean señalados en el Estatuto, de acuerdo con los requisitos y atribuciones que éste les confiera.
+El Rector será apoyado, para el cumplimiento de sus funciones por el Secretario de Vinculación y Académico, los Directores de Area y de División, con las atribuciones que les confiera el Estatuto.
 
 ###### ARTICULO 17.
 
@@ -217,9 +269,11 @@ Para el cumplimiento de sus funciones, la Universidad contará con el personal a
 
 Los nombramientos definitivos del académico de la Universidad se otorgarán por el sistema de oposición para garantizar el ingreso, promoción y la permanencia de altamente calificado, ajustándose a los procedimientos dispuestos en el Estatuto y el Reglamento de la presente Ley. Los principios de libertad de cátedra y de libre investigación normarán la actividad académica y de investigación universitaria.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 20.
 
-Las relaciones entre la Universidad y su personal académico, técnico y administrativo, se regirán por los Reglamentos que para tal efecto expida el Consejo Directivo, los que deberán ajustarse a la legislación laboral vigente.
+Las relaciones entre la Universidad y su personal académico técnico y administrativo, se regirá por los reglamentos que para tal efecto expida el Consejo Directivo y demás disposiciones aplicables.
 
 ### CAPITULO CUARTO. De los Alumnos de la Universidad
 
@@ -259,7 +313,7 @@ Los ingresos de la Universidad y los bienes de su propiedad no estarán sujetos 
 
 ###### ARTICULO 26.
 
-Los bienes inmuebles que forman parte del patrimonio universitario serán inalienables, imprescriptibles e inembargables, y en ningún caso podrá constituirse gravamen sobre ellos.
+(DEROGADO, P.O. 19 DE JUNIO DE 2005)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -302,3 +356,11 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las adecuaciones al Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, se expedirán en un término que no excederá de 90 días a partir de la vigencia del presente Decreto.
