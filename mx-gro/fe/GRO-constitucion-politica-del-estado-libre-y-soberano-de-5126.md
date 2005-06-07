@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2005-03-11"
+last_updated: "2005-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2005.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -77,7 +77,9 @@ Con Michoacán por dos Decretos: uno de la Federación publicado en el Diario Of
 
 ###### ARTICULO 5.
 
-Los Municipios integrantes del Estado de Guerrero son:
+Los municipios integrantes del Estado de Guerrero son:
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 1.- Acapulco de Juárez
 
@@ -85,31 +87,59 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 2.- Acatepec
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 3.- Ahuacuotzingo
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 4.- Ajuchitlán del Progreso
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 5.- Alcozauca de Guerrero
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 6.- Alpoyeca
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 7.- Apaxtla
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 8.- Arcelia
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 9.- Atenango del Río
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 10.- Atlamajalcingo del Monte
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 11.- Atlixtac
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 12.- Atoyac de Alvarez
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 13.- Ayutla de los Libres
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 14.- Azoyú
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 15.- Buenavista de Cuéllar
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 16.- Benito Juárez
 
@@ -121,35 +151,63 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 18.- Cochoapa el Grande
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 19.- Cocula
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 20.- Copala
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 21.- Copalillo
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 22.- Copanatoyac
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 23.- Coyuca de Benítez
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 24.- Coyuca de Catalán
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 25.- Cuajinicuilapa
 
-25.- Cualac
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+26.- Cualac
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 27.- Cuauhtepec
 
-27.- Cuetzala del Progreso
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+28.- Cuetzala del Progreso
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 29.- Cutzamala de Pinzón
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 30.- Chilapa de Alvarez
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 31.- Chilpancingo de los Bravo
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
 32.- Eduardo Neri
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 33.- Florencio Villarreal
 
@@ -161,15 +219,27 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 35.- General Heliodoro Castillo
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 36.- Huamuxtitlán
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 37.- Huitzuco de los Figueroa
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 38.- Iguala de la Independencia
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 39.- Igualapa
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 40.- Ixcateopan de Cuauhtémoc
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 41.- José Azueta
 
@@ -177,87 +247,157 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 42.- José Joaquín de Herrera
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 43.- Juan R. Escudero
 
-44.- Leonardo Bravo
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
 
-45.- Malinaltepec
+44.- Juchitán
 
-46.- Mártir de Cuilapan
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+45.- Leonardo Bravo
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+46.- Malinaltepec
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+47.- Mártir de Cuilapan
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-47.- Marquelia
+48.- Marquelia
 
-48.- Metlatónoc
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-49.- Mochitlán
+49.- Metlatónoc
 
-50.- Olinalá
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-51.- Ometepec
+50.- Mochitlán
 
-52.- Pedro Ascencio Alquisiras
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-53.- Petatlán
+51.- Olinalá
 
-54.- Pilcaya
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-55.- Pungarabato
+52.- Ometepec
 
-56.- Quechultenango
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-57.- San Luis Acatlán
+53.- Pedro Ascencio Alquisiras
 
-58.- San Marcos
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-59.- San Miguel Totolapan
+54.- Petatlán
 
-60.- Taxco de Alarcón
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-61.- Tecoanapa
+55.- Pilcaya
 
-62.- Tecpan de Galeana
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-63.- Teloloapan
+56.- Pungarabato
 
-64.- Tepecoacuilco de Trujano
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-65.- Tetipac
+57.- Quechultenango
 
-66.- Tixtla de Guerrero
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-67.- Tlacoapa
+58.- San Luis Acatlán
 
-68.- Tlacoachistlahuaca
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-69.- Tlalchapa
+59.- San Marcos
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+60.- San Miguel Totolapan
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+61.- Taxco de Alarcón
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+62.- Tecoanapa
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+63.- Tecpan de Galeana
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+64.- Teloloapan
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+65.- Tepecoacuilco de Trujano
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+66.- Tetipac
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+67.- Tixtla de Guerrero
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+68.- Tlacoapa
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+69.- Tlacoachistlahuaca
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+70.- Tlalchapa
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1988)</small>
 
-70.- Tlalixtaquilla de Maldonado
+71.- Tlalixtaquilla de Maldonado
 
-71.- Tlapa de Comonfort
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-72.- Tlapehuala
+72.- Tlapa de Comonfort
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+73.- Tlapehuala
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1993)</small>
 
-73.- La Unión de Isidoro Montes de Oca
+74.- La Unión de Isidoro Montes de Oca
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-74.- Xalpatláhuac
+75.- Xalpatláhuac
 
-75.- Xochistlahuaca
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-76.- Xochihuehuetlán
+76.- Xochistlahuaca
 
-77.- Zapotitlán Tablas
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-78.- Zirándaro
+77.- Xochihuehuetlán
 
-79.- Zitlala
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+78.- Zapotitlán Tablas
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+79.- Zirándaro
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+80.- Zitlala
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1159,7 +1299,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1271,7 +1411,7 @@ XXXIX.- Las demás que se deriven de las Constituciones Federal y Local, así co
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1303,9 +1443,9 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 77.
 
@@ -1319,7 +1459,7 @@ I. Recibir asesoría jurídica; ser informado de los derechos que en su favor es
 
 II. Coadyuvar con el Ministerio Público, a que se le reciban todos los datos o elementos de prueba con los que cuente, y a que se desahoguen las diligencias correspondientes;
 
-III. Recibir, desde la comisión del delito, atención médica y psicolóigica de urgencia;
+III. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
 
 IV. Que se le repare el daño;
 
@@ -1465,11 +1605,11 @@ No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario
 
 Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial del Estado serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2004)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1505,7 +1645,7 @@ El Tribunal Superior de Justicia por conducto de su Presidente, en el mes de may
 
 Las atribuciones que le corresponden a las salas y al Presidente del Tribunal Superior serán fijadas por la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 91.
 
@@ -1577,11 +1717,11 @@ VI.- De conformidad a los fines señalados por el párrafo tercero del artículo
 
 VII.- Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros Municipios en el ámbito de sus competencias el desarrollo de aquellas zonas urbanas situadas en los territorios municipales del Estado o de otras Entidades Federativas que formen o tiendan a formar una continuidad demográfica, de conformidad con las Leyes de la Materia.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2004)</small>
 
 ###### Artículo 94.
 
@@ -1699,9 +1839,9 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 100.
 
@@ -1759,7 +1899,7 @@ V.- Suscribir acuerdos o convenios que comprometan al Municipio por un plazo may
 
 La Ley establecerá los supuestos y procedimientos a seguir, para el ejercicio de las facultades contenidas en las fracciones II a la V de este artículo, así como, la intervención que corresponda al Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 104.
 
@@ -2065,7 +2205,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ### CAPITULO II. DE LA DIVISION TERRITORIAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2005)</small>
 
 ### CAPITULO III. DE LOS DISTRITOS
 
@@ -2075,11 +2215,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2099,26 +2239,6 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO, SU ADMINISTRACION Y FISCALIZACION SUPERIOR
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO NOVENO. DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
-
 ## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
@@ -2127,9 +2247,29 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
+## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO, SU ADMINISTRACION Y FISCALIZACION SUPERIOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+
+## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO
 
@@ -2978,3 +3118,13 @@ Los Ayuntamientos que hayan de instalarse el 2 de diciembre del 2005 durarán en
 ###### ARTICULO TERCERO.
 
 Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos de lo dispuesto por el artículo 125 fracción III de la Constitución Política del Estado de Guerrero y oportunamente expídase el acuerdo de ratificación respectivo.
+
+P.O. 7 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos de lo dispuesto por el artículo 125 fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero y oportunamente expídase el Acuerdo de validación respectivo.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
