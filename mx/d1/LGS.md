@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2005-02-24"
+last_updated: "2005-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2005.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -888,11 +888,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
-### CAPITULO VII. Salud Mental
-
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+
+### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -1028,9 +1028,7 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1090,7 +1088,7 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1170,11 +1168,13 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1266,11 +1266,11 @@ El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
+### CAPITULO V. De las Cuotas Familiares
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1328,7 +1328,7 @@ Será causa de responsabilidad administrativa el incumplimiento en tiempo y form
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1342,7 +1342,7 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1398,7 +1398,7 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1416,7 +1416,7 @@ No se considerarán elegibles para la participación en los recursos del fondo q
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
+### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1473,6 +1473,8 @@ El Consejo Nacional de Protección Social en Salud ejercerá las atribuciones qu
 ###### ARTICULO 77 Bis 35.
 
 El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud tras haber recogido las opiniones de los miembros del Consejo a que se refiere este Capítulo, que dispondrá para su operación de los recursos que le asigne la Federación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
@@ -1579,8 +1581,6 @@ En la aplicación de este artículo la Secretaría de Salud tomará como base la
 ###### ARTICULO 77 Bis 41.
 
 En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -4374,7 +4374,9 @@ Para efectos de este título se entiende por:
 
 I. Células germinales, a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
 
-II. Cadáver, al cuerpo humano en el que se compruebe la presencia de los signos de muerte referidos en la fracción II, del artículo 343 de esta Ley;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2005)</small>
+
+II. Cadáver, el cuerpo humano en el que se haya comprobado la pérdida de la vida;
 
 III. Componentes, a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
 
@@ -4796,11 +4798,13 @@ Una vez concluido el plazo correspondiente sin reclamación, las instituciones e
 
 Los cadáveres de personas desconocidas, los no reclamados y los que se hayan destinado para docencia e investigación, serán inhumados o incinerados.
 
-> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 350 Bis 6.
 
 Sólo podrá darse destino final a un feto previa expedición del certificado de muerte fetal.
+
+En el caso de que el cadáver del feto no sea reclamado dentro del término que señala el artículo 348 de esta ley, deberá dársele destino final. Salvo aquellos que sean destinados para el apoyo de la docencia e investigación por la autoridad de Salud conforme a esta ley y a las demás disposiciones aplicables, quien procederá directamente o por medio de las instituciones autorizadas que lo soliciten mismas que deberán cumplir con los requisitos que señalen las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -6083,3 +6087,9 @@ DECRETO POR EL QUE SE REFORMAN; LA FRACCIÓN II DEL APARTADO A Y FRACCIÓN I DEL
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Con la finalidad de diagnosticar y tratar oportuna e integralmente a las personas con debilidad auditiva y visual, conforme a lo establecido por las modificaciones a la Ley General de Salud, la Secretaría de Salud deberá crear un programa coordinado con la Secretaría de Educación Pública, que integre a los tres niveles de gobierno y que no ponga en riesgo la viabilidad financiera de las Instituciones de Salud.
+
+D.O.F. 7 DE JUNIO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- La legislación secundaria deberá adecuarse a lo dispuesto en este Decreto.
