@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-la-gestion-publica-3881
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-20"
-last_updated: "2004-04-20"
+last_updated: "2005-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA GESTION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2005.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de abril de 2004.
 
@@ -65,15 +65,31 @@ b) Dirección General de Asuntos Jurídicos:
 
 2. Dirección de Responsabilidades e Inconformidades;
 
-3. Dirección de Quejas y Denuncias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+3. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+4. Unidad de Enlace.
 
 c) Dirección de Personal;
 
 d) Dirección Administrativa;
 
-e) Dirección de Informática; y
+e) Dirección de Informática; y (sic)
 
 f) Dirección de Integridad Institucional;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+g) Coordinación de Comunicación Social.
 
 II. Subsecretaría de Evaluación Gubernamental:
 
@@ -99,7 +115,11 @@ b) Dirección General de Evaluación y Control de Obras:
 
 III. Subsecretaría de Impulso a la Administración Pública:
 
-a) Dirección General de Gestoría de Proyectos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+a) Gestores de Proyectos; y
 
 b) Coordinación de Vinculación Social y Capacitación.
 
@@ -251,13 +271,21 @@ III. Coordinar reuniones con los titulares de las unidades administrativas de la
 
 IV. Coordinar las actividades de relaciones públicas de la Secretaría;
 
-V. Proporcionar asesoría y apoyo en materia de comunicación a las unidades administrativas de la Secretaría, para la elaboración de productos de difusión internos y externos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VI. Colaborar con la Coordinación General de Comunicación Social del Gobierno del Estado, para la difusión de los asuntos y programas de la Secretaría;
+V. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
 
-VII. Producir el material e instrumentar la estrategia de divulgación para las campañas institucionales de la Secretaría; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VIII. Identificar, diseñar y producir instrumentos de comunicación que permitan fomentar las relaciones públicas de la Secretaría con la sociedad.
+VI. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+VII. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+VIII. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
@@ -267,9 +295,19 @@ La Dirección General de Asuntos Jurídicos contará con el apoyo de las siguien
 
 I. Dirección de Asesoría Legal y Situación Patrimonial;
 
-II. Dirección de Responsabilidades e Inconformidades; y
+II. Dirección de Responsabilidades e Inconformidades; y (sic)
 
-III. Dirección de Quejas y Denuncias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+III. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+IV. Unidad de Enlace.
 
 ###### Artículo 14.
 
@@ -279,9 +317,21 @@ I. Turnar a las autoridades competentes los casos en que se presuma la existenci
 
 II. Instaurar los procedimientos administrativos disciplinarios y emitir las resoluciones derivadas de los mismos y, en su caso, turnarlas para su ejecución a las áreas competentes;
 
-III. Emitirlas resoluciones derivadas de los medios de impugnación de la competencia de la Secretaría; y
+III. Emitirlas resoluciones derivadas de los medios de impugnación de la competencia de la Secretaría; y (sic)
 
-IV. Instrumentar mecanismos de difusión y atención a usuarios a fin de facilitar la presentación, recepción y verificación de los informes de situación patrimonial de los servidores públicos del Poder Ejecutivo, y fijar criterios al interior de la Dirección General para el control y registro de dicha información.
+IV. Instrumentar mecanismos de difusión y atención a usuarios a fin de facilitar la presentación, recepción y verificación de los informes de situación patrimonial de los servidores públicos del Poder Ejecutivo, y fijar criterios al interior de la Dirección General para el control y registro de dicha información;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+V.- Tramitar y resolver los procedimientos administrativos de responsabilidad patrimonial del Estado así como los tendientes a repetir de los servidores públicos el pago de las indemnizaciones cubiertas a los particulares, y emitir las resoluciones de los mismos, de conformidad con las disposiciones legales aplicables; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+VI.- Coordinar el enlace entre la Secretaría y la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ASESORÍA LEGAL Y SITUACIÓN PATRIMONIAL
 
@@ -373,11 +423,19 @@ III. Levantar las actas correspondientes a las diligencias que se practiquen y d
 
 IV. Todas aquellas acciones que el Director de Responsabilidades e Inconformidades delegue o encomiende a dicho personal.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE QUEJAS Y DENUNCIAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 2005)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE QUEJAS, DENUNCIAS Y RESPONSABILIDAD PATRIMONIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2005)</small>
 
 ###### Artículo 19.
 
-La Dirección de Quejas y Denuncias tendrá las siguientes atribuciones:
+La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial, tendrá las siguientes atribuciones:
 
 I. Realizar investigaciones de oficio, o derivadas de quejas o denuncias debidamente fundadas, sobre la probable existencia de irregularidades administrativas cometidas por los servidores públicos de la Administración Pública Estatal, en los términos de la ley de la materia, ordenando el inicio de procedimiento disciplinario, o en su caso, el archivo provisional o definitivo;
 
@@ -391,7 +449,11 @@ V. Implementar u ordenar la realización de evaluaciones operativas a las difere
 
 VI. Instaurar, substanciar y resolver los procedimientos administrativos disciplinarios contra servidores públicos de la Administración Pública Estatal, cuando derivado de las actividades de investigación y evaluación operativa de la Dirección pudiera existir responsabilidad administrativa en los términos de la legislación aplicable;
 
-VII. Emitir los acuerdos que recaigan a las promociones presentadas en la Dirección General de Asuntos Jurídicos dentro de los procedimientos de investigación o disciplinarios cuyo conocimiento corresponda a la Dirección;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+VII.- Emitir los acuerdos que recaigan a las promociones presentadas en la Dirección General de Asuntos Jurídicos dentro de los procedimientos administrativos cuyo conocimiento corresponda a la Dirección;
 
 VIII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean materia de competencia de la Dirección;
 
@@ -399,23 +461,69 @@ IX. Notificar las resoluciones recaídas en los procedimientos administrativos y
 
 X. Tramitar el recurso de reconsideración interpuesto en contra de las resoluciones recaídas en los procedimientos administrativos disciplinarios instaurados por la Secretaría con motivo de la presentación de quejas o denuncias;
 
-XI Instrumentar y operar los mecanismos técnicos y administrativos necesarios a fin de dar a conocer los indicadores sobre las quejas y denuncias que formulen los particulares, a los titulares de las diversas dependencias y entidades de la Administración Pública Estatal; y
+XI. Instrumentar y operar los mecanismos técnicos y administrativos necesarios a fin de dar a conocer los indicadores sobre las quejas y denuncias que formulen los particulares, a los titulares de las diversas dependencias y entidades de la Administración Pública Estatal; y (sic)
 
-XII. Establecer y operar un sistema de información de quejas y denuncias con el objeto de definir indicadores que permitan evaluar el servicio y la gestión gubernamental.
+XII. Establecer y operar un sistema de información de quejas y denuncias con el objeto de definir indicadores que permitan evaluar el servicio y la gestión gubernamental;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XIII.- Sugerir, a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a eficientar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XIV.- Conocer de las reclamaciones que realicen los particulares respecto de la responsabilidad patrimonial que se le impute al Estado, para tal efecto instaurará, substanciará, desahogará, resolverá y notificará el procedimiento correspondiente de acuerdo con la legislación vigente; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XV.- Instaurar, substanciar y resolver los procedimientos administrativos disciplinarios tendientes a repetir en contra de los servidores públicos de la Administración Pública, que hubieren dado lugar a la responsabilidad patrimonial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2005)</small>
 
 ###### Artículo 20.
 
-La Dirección de Quejas y Denuncias para el desahogo de los asuntos de su competencia, contará con los Coordinadores Operativos, Jefes de Departamento "A" y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, quienes tendrán las siguientes atribuciones:
+La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial, para el desahogo de los asuntos de su competencia, contará con los Coordinadores Operativos, Jefes de Departamento "A" y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, quienes tendrán las siguientes atribuciones:
 
-I. Desahogar las actuaciones y diligencias que acuerde el Director de Quejas y Denuncias en la investigación de quejas y denuncias y substanciación de los procedimientos disciplinarios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+I. Desahogar las actuaciones y diligencias que acuerde el Director de Quejas, Denuncias y Responsabilidad Patrimonial en la investigación de quejas y denuncias y substanciación de los procedimientos;
 
 II. Notificar las resoluciones que se emitan en los procedimientos administrativos;
 
 III. Levantar las actas correspondientes a las diligencias y evaluaciones operativas que se practiquen y de todos aquellos actos que por su naturaleza así lo requieran; y
 
-IV. Todas aquellas acciones que el Director de Quejas y Denuncias delegue o encomiende a dicho personal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-#### SECCIÓN ÚNICA. DE LAS DIRECCIONES DE EVALUACIÓN Y CONTROL A LA ADMINISTRACIÓN PÚBLICA "A", "B", "C" Y "D"
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+IV. Todas aquellas que el Director de Quejas, Denuncias y Responsabilidad Patrimonial delegue o encomiende a dicho personal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+#### SECCIÓN CUARTA. DE LA UNIDAD DE ENLACE
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+###### Artículo 20 Bis.
+
+La Unidad de Enlace, tendrá las siguientes atribuciones:
+
+I.- Dar trámite a las solicitudes de acceso a la información y de corrección de datos personales que sean remitidas a la Secretaría por la Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
+
+II.- Las demás que le señalen las disposiciones reglamentarias y administrativas aplicables en la materia.
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PERSONAL
 
@@ -519,7 +627,9 @@ III. Establecer mecanismos de comunicación estrecha con los usuarios y colabora
 
 IV. Apoyar al Secretario en la verificación de la correcta realización de auditorías, evaluaciones y demás procedimientos ejecutados por la Secretaría;
 
-V. Ser el enlace entre la Secretaría y la Unidad de Acceso a la Información Pública del Poder Ejecutivo, con las facultades y obligaciones que le otorguen las disposiciones reglamentarias y administrativas respectivas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+V. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
 
 VI. Proponer mejoras en procesos internos que así lo ameriten;
 
@@ -529,9 +639,31 @@ VIII. Coordinar el programa institucional de transparencia; y
 
 IX. Instrumentar y operar programas de difusión que permitan contribuir a la prevención de irregularidades dentro de la Administración Pública Estatal, en coordinación con las diversas áreas que integran la Secretaría.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE AUDITORÍA GUBERNAMENTAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EVALUACIÓN Y CONTROL DE OBRAS
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
+
+###### Artículo 24 Bis.
+
+La Coordinación de Comunicación Social, tendrá las siguientes atribuciones:
+
+I.- Proporcionar asesoría y apoyo en materia de comunicación a las unidades administrativas de la Secretaría, para la elaboración de productos de difusión internos y externos;
+
+II.- Colaborar con la Coordinación General de Comunicación Social del Gobierno del Estado, para la difusión de los asuntos y programas de la Secretaría;
+
+III.- Producir el material e instrumentar la estrategia de divulgación para las campañas institucionales de la Secretaría;
+
+IV.- Identificar, diseñar y producir instrumentos de comunicación que permitan fomentar las relaciones públicas de la Secretaría con la sociedad; y
+
+V.- Las demás que le señale el Secretario.
+
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE AUDITORÍA GUBERNAMENTAL
 
 ###### Artículo 26.
 
@@ -555,13 +687,13 @@ La Subsecretaría de Evaluación Gubernamental tendrá las siguientes atribucion
 
 I. Vigilar y comprobar la ejecución de acciones, programas y proyectos que realicen las dependencias y entidades de la Administración Pública Estatal, verificando que las etapas de planeación, programación, presupuestación y ejecución se apeguen al marco legal.
 
-En el caso de las dependencias y entidades de la Administración Pública Municipal, tendrá esta atribución, tratándose de recursos transferidos por el Estado y la Federación;
+En el caso de las dependencias y entidades de la Administración Pública Municipal, tendrá esta atribución, tratándose de recursos transferidos por el Estado y la Federación.
 
 II. Prevenir, verificar y evaluar el uso de los recursos públicos aplicados en los programas y proyectos de trabajo a que se refiere la fracción anterior, mediante las estrategias que considere necesarias; así como dar seguimiento a los programas, obras y acciones que de los deriven; y
 
 III. Ser el vínculo de comunicación, seguimiento de acuerdos y compromisos, e intercambio de información entre la Secretaría y las Contralorías Municipales al interior de la Alianza Estado-Municipios para el Fortalecimiento de los Órganos Internos de Control Municipal.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE GESTORÍA DE PROYECTOS
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EVALUACIÓN Y CONTROL DE OBRAS
 
 ###### Artículo 27.
 
@@ -585,7 +717,7 @@ V. Proponer la simplificación de las reglas de operación y disposiciones admin
 
 VI. Emitir criterios a efecto de validar el apego a los lineamientos de calidad en la administración de los fideicomisos de la Administración Pública Para estatal.
 
-#### SECCIÓN PRIMERA. DE LAS DIRECCIONES DE EVALUACIÓN DE PROGRAMAS DE OBRA PÚBLICA "A", "B" Y "C"
+#### SECCIÓN ÚNICA. DE LAS DIRECCIONES DE EVALUACIÓN Y CONTROL A LA ADMINISTRACIÓN PÚBLICA "A", "B", "C" Y "D"
 
 ###### Artículo 29.
 
@@ -651,7 +783,11 @@ III. Realizar por instrucciones, o por comisión, del Director de Área, las fun
 
 IV. Todas aquellas acciones que su Director les delegue o encomiende, de conformidad con las prioridades establecidas por el plan de Gobierno, programas prioritarios, o bien por las necesidades del servicio.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE VINCULACIÓN SOCIAL Y CAPACITACIÓN
+### CAPÍTULO PRIMERO. DE LOS GESTORES DE PROYECTOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2005)</small>
 
 ###### Artículo 31.
 
@@ -681,7 +817,7 @@ III. Emitir los dictámenes de resultados de las evaluaciones practicadas por la
 
 IV. Proponer la simplificación de las reglas de operación y disposiciones administrativas de los convenios, fideicomisos, y programas en los que participe.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE EVALUACIÓN DE PROGRAMAS DE IMPACTO SOCIAL
+#### SECCIÓN PRIMERA. DE LAS DIRECCIONES DE EVALUACIÓN DE PROGRAMAS DE OBRA PÚBLICA "A", "B" Y "C"
 
 ###### Artículo 33.
 
@@ -729,6 +865,8 @@ XX. Evaluar los procesos desarrollados por las diferentes dependencias o entidad
 
 XXI. Aportar oportunamente los elementos documentales y técnicos que soporten la evidencia de las irregularidades que deriven de las evaluaciones que realice la Dirección, detalladas en los informes técnicos turnados a la Dirección General de Asuntos Jurídicos, con la finalidad de que ésta los analice y determine las responsabilidades y acciones correctivas que procedan.
 
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE EVALUACIÓN DE PROGRAMAS DE IMPACTO SOCIAL
+
 ###### Artículo 34.
 
 La Dirección de Evaluación de Programas de Impacto Social, tendrá las siguientes atribuciones:
@@ -761,9 +899,9 @@ III. Asistir por encargo de su superior jerárquico a la entrega-recepción de l
 
 IV. Todas aquellas secciones que su Director les delegue o encomiende, de conformidad con las prioridades establecidas por el Plan de Gobierno, programas prioritarios, o bien por las necesidades del servicio.
 
-### CAPÍTULO PRIMERO. DE LAS SUPLENCIAS Y LICENCIAS
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE VINCULACIÓN SOCIAL Y CAPACITACIÓN
 
-### CAPÍTULO SEGUNDO. DE LAS RELACIONES LABORALES
+### CAPÍTULO PRIMERO. DE LAS SUPLENCIAS Y LICENCIAS
 
 ## TÍTULO QUINTO. DE LA SUBSECRETARÍA DE IMPULSO A LA ADMINISTRACIÓN PÚBLICA Y LAS UNIDADES ADMINISTRATIVAS QUE LE ESTÁN ADSCRITAS
 
@@ -771,47 +909,133 @@ IV. Todas aquellas secciones que su Director les delegue o encomiende, de confor
 
 La Subsecretaría de Impulso a la Administración Pública, tendrá las siguientes atribuciones:
 
-I. Elaborar y operar, en colaboración con las dependencias y entidades del Poder Ejecutivo los programas, proyectos y acciones que propicien la modernización y mejoramiento de la Administración Pública Estatal, a través de mecanismos relativos a la medición de metas y resultados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Impulsar la profesionalización de los servidores públicos y el diagnóstico y propuestas de solución de problemas organizacionales de las dependencias y entidades de las Administración Pública Estatal; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
 
-III. Diseñar y operar los sistemas de capacitación, vinculación ciudadana y gubernamental, que tiendan a abatir las conductas indebidas al interior de la Administración Pública Estatal, privilegiando la participación y el involucramiento activo de todos los sectores en el actuar del Gobierno.
+I.- Elaborar y operar, en colaboración con las dependencias y entidades del Poder Ejecutivo, los programas, proyectos y acciones que propicien la modernización y mejoramiento de la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+II.- Verificar que las dependencias y entidades de la Administración Pública Estatal lleven a cabo el diseño e instrumentación de estrategias de mejora en los servicios públicos que ofrecen, en un contexto de rediseño de procesos y simplificación regulatoria;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+
+III.- Establecer y actualizar el padrón de servicios públicos que ofrecen las dependencias y entidades de la Administración Pública Estatal a la ciudadanía, con el objeto de valorarlos, proponer mejoras a su desempeño y validar aquellos esquemas que sean ejemplos de buenas prácticas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+IV.- Diseñar y coordinar el sistema de medición gubernamental establecido por la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+V.- Determinar lineamientos para el registro y seguimiento de metas y resultados de las dependencias y entidades de la Administración Pública Estatal, a efecto de realizar la correspondiente medición de la gestión gubernamental, en apego a lo establecido en el Plan de Gobierno y programas correspondientes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+VI.- Revisar las estructuras organizacionales de las dependencias y entidades, a efecto de proponer mejoras en las mismas a sus titulares para asegurar su óptimo funcionamiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+VII.- Evaluar, en coordinación con la Secretaría de Finanzas y Administración el clima laboral, así como proponer y validar los mecanismos internos de evaluación del desempeño que cada dependencia y entidad deberá poner en marcha;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+VIII.- Promover, en coordinación con la Secretaría de Finanzas y Administración, la profesionalización de los servidores públicos de la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+IX.- Apoyar en el diagnóstico y propuestas de solución de problemas organizacionales de las dependencias y entidades de la Administración Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+X.- Proponer políticas y lineamientos para el desarrollo de la administración pública, mediante procesos de modernización y adecuación del orden organizacional relativo a su
+
+funcionamiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XI.- Emitir lineamientos sobre la definición de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal, y verificar su observancia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XII.- Diseñar y operar los sistemas de capacitación, vinculación ciudadana y gubernamental, que tiendan a abatir las conductas indebidas al interior de la Administración Pública Estatal, privilegiando la participación y el involucramiento activo de todos los sectores en el actuar del Gobierno;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XIII.- Promover las estrategias necesarias para establecer políticas de tecnología en información;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XIV.- Emitir lineamientos y recomendaciones en materia de coordinación entre dependencias y entidades;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XV.- Sugerir a las dependencias y entidades de la Administración Pública Estatal, medidas de prevención y auto corrección, de acuerdo con los resultados que arrojen las actividades desarrolladas por la Subsecretaría; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+
+XVI.- Decidir sobre la contratación, promoción, y participar en el desarrollo, capacitación y evaluación del personal bajo su responsabilidad, en acuerdo con su superior jerárquico, de conformidad con la normatividad vigente, así como ejercer las facultades disciplinarias sobre el mismo, en los términos de las normas y criterios establecidos por el Gobernador del Estado y el Secretario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 2005)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS RELACIONES LABORALES
 
 ###### Artículo 37.
 
-La Dirección General de Gestoría de Proyectes tendrá las siguientes atribuciones:
+La Subsecretaría de Impulso a la Administración Pública contará con los gestores de proyectos que requieran las necesidades del servicio y permita el presupuesto.
 
-I. Verificar que las dependencias y entidades de la Administración Pública Estatal lleven a cabo el diseño e instrumentación de estrategias de mejora en los servicios públicos que ofrecen, en un contexto de rediseño de procesos y simplificación regulatoria;
+Los gestores de proyectos serán personas altamente calificadas en la rama del servicio requerido, se encargarán primordialmente de diseñar y llevar a cabo programas administrativos en las dependencias y entidades con el fin de optimizar sus servicios, mejorar la transparencia y vinculación con la población, y promover que la administración pública oriente sus acciones hacia la consecución del Plan de Gobierno; y tendrán las siguientes atribuciones:
 
-II. Establecer y actualizar e! padrón de servicios públicos que ofrecen las dependencias y entidades de la Administración Pública Estatal a la ciudadanía, con el objeto de valorarlos, proponer mejoras a su desempeño y validar aquellos esquemas que sean ejemplos de buenas prácticas;
+I.- Proponer a su superior jerárquico los planes, programas y actividades a realizar en el área de su competencia;
 
-III. Determinar lineamientos para el registro y seguimiento de metas y resultados de las dependencias y entidades de la Administración Pública Estatal, a efecto de realizar la correspondiente medición de la gestión gubernamental, en apego a lo establecido en el Plan de Gobierno y programas correspondientes;
+II.- Someter al acuerdo del Subsecretario de Impulso a la Administración Pública los asuntos que les hayan sido encomendados, y desempeñar las comisiones, suplencias, representaciones y funciones específicas que aquél les confiera;
 
-IV. Revisar las estructuras organizacionales de las dependencias y entidades, a efecto de proponer mejoras en las mismas a sus titulares para asegurar su óptimo funcionamiento;
+III.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así como aquellos que les sean señalados por delegación o les corresponda por suplencia;
 
-V. Evaluar el clima laboral, proponer y validar los mecanismos internos de evaluación del desempeño que cada dependencia y entidad deberá poner en marcha;
+IV.- Coordinar sus actividades con los titulares de otras unidades administrativas de la Secretaría y proporcionar los informes, datos, cooperación técnica que les sean requeridos por las mismas; y
 
-VI. Proponer políticas y lineamientos para el desarrollo de la administración pública, mediante procesos de modernización y adecuación del orden organizacional relativo a su funcionamiento;
-
-VII. Diseñar y coordinar el sistema de medición gubernamental establecido por la Secretaría;
-
-VIII. Emitir lineamientos sobre la definición de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal, y verificar su observancia;
-
-IX. Promover en coordinación con la Dirección General de Recursos Humanos de la Secretaría de Finanzas y Administración, la profesionalización de los servidores públicos de la Administración Pública Estatal;
-
-X. Diseñar y organizar las actividades de impulso y mejoramiento del desarrollo gubernamental;
-
-XI. Apoyar en el diagnóstico y propuestas de solución de problemas organizacionales de las dependencias y entidades de la Administración Pública;
-
-XII. Promover las estrategias necesarias para establecer políticas de tecnología en información; y
-
-XIII. Emitir lineamientos y recomendaciones en materia de coordinación entre dependencias y entidades.
+V.- Solicitar la información necesaria a las distintas dependencias y entidades de la Administración Pública Estatal para la realización de las funciones, y cumplimiento de los trabajos a su cargo, de conformidad con las políticas y normas que establezcan en acuerdo con su superior jerárquico.
 
 ###### Artículo 38.
 
 La Coordinación de Vinculación Social y Capacitación tendrá las siguientes atribuciones:
 
-l. Sugerir a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto-corrección, tendientes a eficientar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+l. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
 
 II. Promover, orientar y organizar la participación activa y permanente de la población, en la evaluación y vigilancia de las acciones realizadas por la Administración Pública Estatal;
 
@@ -868,3 +1092,9 @@ GERARDO LUIS RODRIGUEZ OROZCO
 EL SECRETARIO DE LA GESTIÓN PÚBLICA
 
 JORGE ALBERTO ROMERO HIDALGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE JUNIO DE 2005.
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
