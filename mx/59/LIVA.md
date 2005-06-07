@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2004-12-01"
+last_updated: "2005-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,11 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2005.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
-Ley publicada en el Diario Oficial de la Federación el viernes 29 de diciembre de 1978.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -100,11 +100,13 @@ III. Sean personas físicas o morales que adquieran bienes tangibles, o los usen
 
 IV. Sean personas morales que cuenten con un programa autorizado conforme al Decreto que Establece Programas de Importación Temporal para Producir Artículos de Exportación o al Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación, o tengan un régimen similar en los términos de la legislación aduanera, o sean empresas de la industria automotriz terminal o manufacturera de vehículos de autotransporte o de autopartes para su introducción a depósito fiscal, cuando adquieran bienes autorizados en sus programas de proveedores nacionales.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
-Las personas morales que hayan efectuado la retención del impuesto, y que a su vez se les retenga dicho impuesto conforme a esta fracción o realicen la exportación de bienes tangibles en los términos previstos en la fracción I del artículo 29 de esta Ley, podrán considerar como impuesto acreditable, el impuesto que les trasladaron y retuvieron, aun cuando no hayan enterado el impuesto retenido de conformidad con lo dispuesto en la fracción V del artículo 4o. de esta Ley.
+Las personas morales que hayan efectuado la retención del impuesto, y que a su vez se les retenga dicho impuesto conforme a esta fracción o realicen la exportación de bienes tangibles en los términos previstos en la fracción I del artículo 29 de esta Ley, podrán considerar como impuesto acreditable, el impuesto que les trasladaron y retuvieron, aun cuando no hayan enterado el impuesto retenido de conformidad con lo dispuesto en la fracción IV del artículo 5o. de esta Ley.
 
-Cuando en el cálculo del impuesto mensual previsto en el artículo 5o. de este ordenamiento resulte saldo a favor, los contribuyentes a que se refiere esta fracción podrán obtener la devolución inmediata de dicho saldo disminuyéndolo del monto del impuesto que hayan retenido por las operaciones mencionadas en el mismo periodo y hasta por dicho monto.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
+
+Cuando en el cálculo del impuesto mensual previsto en el artículo 5o.-D de este ordenamiento resulte saldo a favor, los contribuyentes a que se refiere esta fracción podrán obtener la devolución inmediata de dicho saldo disminuyéndolo del monto del impuesto que hayan retenido por las operaciones mencionadas en el mismo periodo y hasta por dicho monto.
 
 Las cantidades por las cuales los contribuyentes hayan obtenido la devolución en los términos de esta fracción, no podrán acreditarse en declaraciones posteriores.
 
@@ -374,9 +376,9 @@ Tratándose de los contribuyentes a que se refiere el presente artículo, que re
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
-La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos o aprovechamientos, y sólo podrán acreditar el impuesto al valor agregado que les haya sido trasladado en las erogaciones o el pagado en la importación, que se identifique exclusivamente con las actividades por las que estén obligados al pago del impuesto establecido en esta Ley o les sea aplicable la tasa del 0%. Para el acreditamiento de referencia se deberán cumplir con los requisitos previstos en el artículo 4o. de esta Ley.
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos o aprovechamientos, y sólo podrán acreditar el impuesto al valor agregado que les haya sido trasladado en las erogaciones o el pagado en la importación, que se identifique exclusivamente con las actividades por las que estén obligados al pago del impuesto establecido en esta Ley o les sea aplicable la tasa del 0%. Para el acreditamiento de referencia se deberán cumplir con los requisitos previstos en esta Ley.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -386,149 +388,151 @@ La Federación y sus organismos descentralizados efectuarán igualmente la reten
 
 Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 4o.
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley la tasa que corresponda según sea el caso. Se entiende por impuesto acreditable el impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes de que se trate.
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley la tasa que corresponda según sea el caso.
 
-Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
+Para los efectos del párrafo anterior, se entiende por impuesto acreditable el impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes de que se trate.
 
-I. Que corresponda a bienes, servicios o al uso o goce temporal de bienes, estrictamente indispensables para la realización de actividades distintas de la importación, por las que se deba pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para los fines del impuesto sobre la renta, únicamente se considerará el monto equivalente al impuesto que haya sido trasladado al contribuyente y el propio impuesto que haya pagado con motivo de la importación, en la proporción en la que dichas erogaciones sean deducibles para los fines del citado impuesto sobre la renta. La deducción inmediata de la inversión en bienes nuevos de activo fijo prevista en la Ley del Impuesto sobre la Renta, se considera como erogación totalmente deducible, siempre que se reúnan los requisitos establecidos en la citada Ley.
-
-En ningún caso será acreditable el impuesto al valor agregado que le haya sido trasladado al contribuyente o el que haya pagado en la importación, tratándose de erogaciones por la adquisición de bienes, de servicios o por el otorgamiento del uso o goce temporal de bienes, que se utilicen en la realización de las actividades que no sean objeto del impuesto que establece esta Ley.
-
-Tratándose de inversiones o gastos en períodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto. Si de dicha estimación resulta diferencia de impuesto que no exceda de 10% del impuesto pagado, no se cobrarán recargos, siempre que el pago se efectúe espontáneamente.
-
-II. Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea aplicable la tasa de 0%, sólo por una parte de las actividades que realice el contribuyente, se estará a lo siguiente:
-
-a) Cuando el impuesto al valor agregado trasladado o pagado en la importación, corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, será acreditable en su totalidad.
-
-b) Cuando el impuesto al valor agregado trasladado o pagado en la importación, corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que no se deba pagar el impuesto al valor agregado, no será acreditable.
-
-c) Cuando el contribuyente utilice indistintamente bienes diferentes a las inversiones a que se refiere el inciso d) de esta fracción, servicios o el uso o goce temporal de bienes, para realizar las actividades por las que se deba pagar el impuesto, les sea aplicable la tasa de 0% o para realizar las actividades por las que no se deba pagar el impuesto o actividades que no sean objeto del impuesto que establece esta Ley, el acreditamiento procederá únicamente en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate.
-
-d) Tratándose de las inversiones a que se refiere la Ley del Impuesto sobre la Renta, el impuesto al valor agregado que le haya sido trasladado al contribuyente en su adquisición o el pagado en su importación, será acreditable considerando el destino habitual que dichas inversiones tengan para realizar las actividades por las que se deba o no pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0% o a actividades que no sean objeto del impuesto que establece esta Ley, debiendo efectuar el ajuste que proceda cuando se altere el destino mencionado. Para ello se procederá en la forma siguiente:
-
-1. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente esté obligado al pago del impuesto o a las que les sea aplicable la tasa de 0%, el impuesto al valor agregado que haya sido trasladado al contribuyente o el pagado en su importación, será acreditable en su totalidad en el mes de que se trate.
-
-2. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente no esté obligado al pago del impuesto o actividades que no sean objeto del impuesto que establece esta Ley, el impuesto al valor agregado que haya sido efectivamente trasladado al contribuyente o pagado en la importación, no será acreditable.
-
-3. Cuando el contribuyente utilice las inversiones indistintamente para realizar tanto actividades por las que se deba pagar el impuesto o les sea aplicable la tasa de 0%, así como a actividades por las que no esté obligado al pago del impuesto o actividades que no sean objeto del impuesto que establece esta Ley, el impuesto trasladado o el pagado en la importación, será acreditable en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate, debiendo, en su caso, aplicar el ajuste a que se refiere el artículo 4o.-A de esta Ley.
-
-Los contribuyentes que efectúen el acreditamiento en los términos previstos en el párrafo anterior, deberán aplicarlo a todas las inversiones que adquieran o importen en un período de cuando menos sesenta meses contados a partir del mes en el que se haya realizado el acreditamiento de que se trate.
-
-Respecto de las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 4o.-B de esta Ley, no les será aplicable el procedimiento establecido en el primer párrafo de este numeral.
-
-4. Cuando las inversiones a que se refieren los numerales 1 y 2 de este inciso, dejen de destinarse en forma exclusiva a las actividades previstas en dichos numerales, en el mes en el que ello ocurra, deberán aplicar el ajuste previsto en el artículo 4o.-A de esta Ley.
-
-III. Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley. Tratándose de los contribuyentes que ejerzan la opción a que se refiere el artículo 29-C del Código Fiscal de la Federación, el impuesto al valor agregado trasladado deberá constar en forma expresa y por separado en el reverso del cheque de que se trate o deberá constar en el estado de cuenta, según sea el caso.
-
-IV. Que el impuesto al valor agregado trasladado al contribuyente haya sido efectivamente pagado en el mes de que se trate.
-
-V. Que tratándose del impuesto trasladado que se hubiese retenido conforme al artículo 1o.-A de esta Ley, dicha retención se entere en los términos y plazos establecidos en la misma, con excepción de lo previsto en la fracción IV de dicho artículo. El impuesto retenido y enterado, podrá ser acreditado en la declaración de pago mensual siguiente a la declaración en la que se haya efectuado el entero de la retención.
-
-El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
-
-Cuando el impuesto al valor agregado en la importación se hubiera pagado a la tasa de 10%, dicho impuesto será acreditable en los términos de este artículo siempre que los bienes o servicios importados sean utilizados o enajenados en la región fronteriza.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
 
 ###### ARTICULO 4o.-A.
 
-Cuando el contribuyente haya efectuado el acreditamiento en los términos del artículo 4o., fracción II, inciso d), numeral 3 de esta Ley, y en los meses posteriores a aquél en el que se efectuó el acreditamiento de que se trate, se modifique en más de un 3% la proporción mencionada en dicha disposición, deberá ajustar el acreditamiento en la forma siguiente:
-
-I. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento, actualizado desde el mes en el que se acreditó y hasta el mes de que se trate, conforme al siguiente procedimiento:
-
-a) Al impuesto al valor agregado que haya sido trasladado al contribuyente o pagado en la importación, correspondiente a la inversión, se le aplicará el porciento máximo de deducción por ejercicio que para el bien de que se trate se establece en el Título II de la Ley del Impuesto sobre la Renta.
-
-b) El monto obtenido conforme al inciso anterior se dividirá entre doce.
-
-c) Al monto determinado conforme al inciso precedente, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, representó en el valor total de las actividades que el contribuyente realizó en el mes en el que llevó a cabo el acreditamiento.
-
-d) Al monto determinado conforme al inciso b) de esta fracción, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, represente en el valor total de las actividades que el contribuyente realice en el mes por el que se lleve a cabo el ajuste.
-
-e) A la cantidad obtenida conforme al inciso c) de esta fracción se le disminuirá la cantidad obtenida conforme al inciso d) de esta fracción. El resultado será la cantidad que deberá reintegrarse, actualizada desde el mes en el que se acreditó y hasta el mes de que se trate.
-
-II. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento, actualizado desde el mes en el que se acreditó y hasta el mes de que se trate, conforme al siguiente procedimiento:
-
-a) Al impuesto al valor agregado que haya sido trasladado al contribuyente o pagado en la importación, correspondiente a la inversión, se le aplicará el porciento máximo de deducción por ejercicio que para el bien de que se trate se establece en el Título II de la Ley del Impuesto sobre la Renta.
-
-b) El monto obtenido conforme al inciso anterior se dividirá entre doce.
-
-c) Al monto determinado conforme al inciso precedente, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, representó en el valor total de las actividades que el contribuyente realizó en el mes en el que llevó a cabo el acreditamiento.
-
-d) Al monto determinado conforme al inciso b) de esta fracción, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto o se aplique la tasa de 0%, represente en el valor total de las actividades que el contribuyente realice en el mes por el que se lleve a cabo el ajuste.
-
-e) A la cantidad obtenida conforme al inciso d) de esta fracción se le disminuirá la cantidad obtenida conforme al inciso c) de esta fracción. El resultado será la cantidad que podrá acreditarse, actualizada desde el mes en que se acreditó y hasta el mes de que se trate.
-
-El procedimiento establecido en este artículo deberá aplicarse por el número de meses comprendidos en el período en el que para los efectos de la Ley del Impuesto sobre la Renta el contribuyente hubiera deducido la inversión de que se trate, de haber aplicado los porcientos máximos establecidos en el Título II de dicha Ley. El número de meses se empezará a contar a partir de aquel en el que se realizó el acreditamiento de que se trate. El período correspondiente a cada inversión concluirá anticipadamente cuando la misma se enajene o deje de ser útil para la obtención de ingresos en los términos de la Ley del Impuesto sobre la Renta.
-
-La actualización a que se refiere el presente artículo deberá calcularse aplicando el factor de actualización que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes más reciente del período, entre el citado índice correspondiente al mes más antiguo de dicho período.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
 ###### ARTICULO 4o.-B.
 
-Los contribuyentes, en lugar de aplicar lo previsto en el artículo 4o., fracción II, incisos c) y d), numeral 3 y en el artículo 4o.-A de esta Ley, podrán acreditar el impuesto al valor agregado que les haya sido trasladado al realizar erogaciones por la adquisición de bienes, de servicios o por el uso o goce temporal de bienes o el pagado en su importación, en la cantidad que resulte de aplicar al impuesto mencionado la proporción que el valor de las actividades por las que se deba pagar el impuesto o a las que se les aplique la tasa de 0%, correspondientes al año de calendario inmediato anterior al mes por el que se calcula el impuesto acreditable, represente en el valor total de las actividades, incluyendo en su caso, las actividades que no sean objeto del impuesto que establece esta Ley, realizadas por el contribuyente en dicho año de calendario.
-
-Durante el año de calendario en el que los contribuyentes inicien las actividades por las que deban pagar el impuesto que establece esta Ley y en el siguiente, la proporción aplicable en cada uno de los meses de dichos años se calculará considerando los valores mencionados en el párrafo anterior, correspondientes al período comprendido desde el mes en el que se iniciaron las actividades y hasta el mes por el que se calcula el impuesto acreditable.
-
-Los contribuyentes que ejerzan la opción prevista en este artículo deberán aplicarla respecto de todas las erogaciones por la adquisición de bienes, de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto o a las que se les aplique la tasa de 0% o actividades que no sean objeto del impuesto que establece esta Ley, en un período de sesenta meses, contados a partir del mes en el que se haya realizado el acreditamiento en los términos del presente artículo.
-
-Respecto de las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 4o., fracción II, inciso d), numeral 3 de esta Ley, no les será aplicable el procedimiento establecido en este artículo.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
 ###### ARTICULO 4o.-C.
 
-Para calcular la proporción a que se refieren los artículos 4o., fracción II, incisos c) y d), numeral 3; 4o.-A, fracción I, incisos c) y d), fracción II, incisos c) y d), y 4o.-B de esta Ley, no se deberán incluir en los valores a que se refieren dichos preceptos, los conceptos siguientes:
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
-I. Las importaciones de bienes o servicios, inclusive cuando sean temporales en los términos de la Ley Aduanera.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
-II. Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo 38 de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria.
+###### ARTICULO 5o.
 
-III. Los dividendos percibidos en moneda, en acciones, en partes sociales o en títulos de crédito, siempre que en este último caso su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo, salvo que se trate de personas morales que perciban ingresos preponderantemente por este concepto.
+Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
 
-IV. Las enajenaciones de acciones o partes sociales, documentos pendientes de cobro y títulos de crédito, siempre que su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo.
+I. Que el impuesto al valor agregado corresponda a bienes, servicios o al uso o goce temporal de bienes, estrictamente indispensables para la realización de actividades distintas de la importación, por las que se deba pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para los fines del impuesto sobre la renta, únicamente se considerará para los efectos del acreditamiento a que se refiere esta Ley, el monto equivalente al impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto al valor agregado que haya pagado con motivo de la importación, en la proporción en la que dichas erogaciones sean deducibles para los fines del impuesto sobre la renta. Asimismo, la deducción inmediata de la inversión en bienes nuevos de activo fijo prevista en la Ley del Impuesto sobre la Renta, se considera como erogación totalmente deducible, siempre que se reúnan los requisitos establecidos en la citada Ley.
 
-V. Las enajenaciones de moneda nacional y extranjera, así como la de piezas de oro o de plata que hubieran tenido tal carácter y la de piezas denominadas "onza troy".
+Tratándose de inversiones o gastos en períodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto al valor agregado que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley. Si de dicha estimación resulta diferencia de impuesto que no exceda de 10% del impuesto pagado, no se cobrarán recargos, siempre que el pago se efectúe espontáneamente;
 
-VI. Los intereses percibidos ni la ganancia cambiaria.
+II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley. Tratándose de los contribuyentes que ejerzan la opción a que se refiere el artículo 29-C del Código Fiscal de la Federación, el impuesto al valor agregado trasladado deberá constar en forma expresa y por separado en el reverso del cheque de que se trate o deberá constar en el estado de cuenta, según sea el caso;
 
-VII. Las enajenaciones realizadas a través de arrendamiento financiero. En estos casos el valor que se deberá excluir será el valor del bien objeto de la operación que se consigne expresamente en el contrato respectivo.
+III. Que el impuesto al valor agregado trasladado al contribuyente haya sido efectivamente pagado en el mes de que se trate;
 
-VIII. Las enajenaciones de bienes adquiridos por dación en pago o adjudicación judicial o fiduciaria, siempre que dichas enajenaciones sean realizadas por contribuyentes que por disposición legal no puedan conservar en propiedad los citados bienes.
+IV. Que tratándose del impuesto al valor agregado trasladado que se hubiese retenido conforme al artículo 1o.-A de esta Ley, dicha retención se entere en los términos y plazos establecidos en la misma, con excepción de lo previsto en la fracción IV de dicho artículo. El impuesto retenido y enterado, podrá ser acreditado en la declaración de pago mensual siguiente a la declaración en la que se haya efectuado el entero de la retención, y
+
+V. Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea aplicable la tasa de 0%, sólo por una parte de las actividades que realice el contribuyente, se estará a lo siguiente:
+
+a) Cuando el impuesto al valor agregado trasladado o pagado en la importación, corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, por la adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, dicho impuesto será acreditable en su totalidad;
+
+b) Cuando el impuesto al valor agregado trasladado o pagado en la importación, corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, por la adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que no se deba pagar el impuesto al valor agregado, dicho impuesto no será acreditable;
+
+c) Cuando el contribuyente utilice indistintamente bienes diferentes a las inversiones a que se refiere el inciso d) de esta fracción, servicios o el uso o goce temporal de bienes, para realizar las actividades por las que se deba pagar el impuesto al valor agregado, para realizar actividades a las que conforme esta Ley les sea aplicable la tasa de 0% o para realizar las actividades por las que no se deba pagar el impuesto que establece esta Ley, el acreditamiento procederá únicamente en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o a las que se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate, y
+
+d) Tratándose de las inversiones a que se refiere la Ley del Impuesto sobre la Renta, el impuesto al valor agregado que le haya sido trasladado al contribuyente en su adquisición o el pagado en su importación será acreditable considerando el destino habitual que dichas inversiones tengan para realizar las actividades por las que se deba o no pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%, debiendo efectuar el ajuste que proceda cuando se altere el destino mencionado. Para tales efectos se procederá en la forma siguiente:
+
+1. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente esté obligado al pago del impuesto al valor agregado o a las que les sea aplicable la tasa de 0%, el impuesto al valor agregado que haya sido trasladado al contribuyente o el pagado en su importación, será acreditable en su totalidad en el mes de que se trate.
+
+2. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente no esté obligado al pago del impuesto que establece esta Ley, el impuesto al valor agregado que haya sido efectivamente trasladado al contribuyente o pagado en la importación no será acreditable.
+
+3. Cuando el contribuyente utilice las inversiones indistintamente para realizar tanto actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, así como a actividades por las que no esté obligado al pago del impuesto que establece esta Ley, el impuesto al valor agregado trasladado al contribuyente o el pagado en la importación, será acreditable en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate debiendo, en su caso, aplicar el ajuste a que se refiere el artículo 5o.-A de esta Ley.
+
+Los contribuyentes que efectúen el acreditamiento en los términos previstos en el párrafo anterior, deberán aplicarlo a todas las inversiones que adquieran o importen en un período de cuando menos sesenta meses contados a partir del mes en el que se haya realizado el acreditamiento de que se trate.
+
+A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 5o.-B de esta Ley, no les será aplicable el procedimiento establecido en el primer párrafo de este numeral.
+
+4. Cuando las inversiones a que se refieren los numerales 1 y 2 de este inciso dejen de destinarse en forma exclusiva a las actividades previstas en dichos numerales, en el mes en el que ello ocurra, se deberá aplicar el ajuste previsto en el artículo 5o.-A de esta Ley.
+
+Cuando el impuesto al valor agregado en la importación se hubiera pagado a la tasa de 10%, dicho impuesto será acreditable en los términos de este artículo siempre que los bienes o servicios importados sean utilizados o enajenados en la región fronteriza.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 5o.-A.
+
+Cuando el contribuyente haya efectuado el acreditamiento en los términos del artículo 5o., fracción V, inciso d), numeral 3 de esta Ley, y en los meses posteriores a aquél en el que se efectuó el acreditamiento de que se trate, se modifique en más de un 3% la proporción mencionada en dicha disposición, se deberá ajustar el acreditamiento en la forma siguiente:
+
+I. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento que corresponda, actualizado desde el mes en el que se acreditó y hasta el mes de que se trate, conforme al siguiente procedimiento:
+
+a) Al impuesto al valor agregado que haya sido trasladado al contribuyente o pagado en la importación, correspondiente a la inversión, se le aplicará el por ciento máximo de deducción por ejercicio que para el bien de que se trate se establece en el Título II de la Ley del Impuesto sobre la Renta.
+
+b) El monto obtenido conforme al inciso anterior se dividirá entre doce.
+
+c) Al monto determinado conforme al inciso precedente, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, representó en el valor total de las actividades que el contribuyente realizó en el mes en el que llevó a cabo el acreditamiento.
+
+d) Al monto determinado conforme al inciso b) de esta fracción, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades que el contribuyente realice en el mes por el que se lleve a cabo el ajuste.
+
+e) A la cantidad obtenida conforme al inciso c) de esta fracción se le disminuirá la cantidad obtenida conforme al inciso d) de esta fracción. El resultado será la cantidad que deberá reintegrarse, actualizada desde el mes en el que se acreditó y hasta el mes de que se trate, y
+
+II. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento, actualizado desde el mes en el que se acreditó y hasta el mes de que se trate, conforme al siguiente procedimiento:
+
+a) Al impuesto al valor agregado que haya sido trasladado al contribuyente o pagado en la importación, correspondiente a la inversión, se le aplicará el por ciento máximo de deducción por ejercicio que para el bien de que se trate se establece en el Título II de la Ley del Impuesto sobre la Renta.
+
+b) El monto obtenido conforme al inciso anterior se dividirá entre doce.
+
+c) Al monto determinado conforme al inciso precedente, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, representó en el valor total de las actividades que el contribuyente realizó en el mes en el que llevó a cabo el acreditamiento.
+
+d) Al monto determinado conforme al inciso b) de esta fracción, se le aplicará la proporción que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades que el contribuyente realice en el mes por el que se lleve a cabo el ajuste.
+
+e) A la cantidad obtenida conforme al inciso d) de esta fracción se le disminuirá la cantidad obtenida conforme al inciso c) de esta fracción. El resultado será la cantidad que podrá acreditarse, actualizada desde el mes en que se realizó el acreditamiento correspondiente y hasta el mes de que se trate.
+
+El procedimiento establecido en este artículo deberá aplicarse por el número de meses comprendidos en el período en el que para los efectos de la Ley del Impuesto sobre la Renta el contribuyente hubiera deducido la inversión de que se trate, de haber aplicado los por cientos máximos establecidos en el Título II de dicha Ley. El número de meses se empezará a contar a partir de aquél en el que se realizó el acreditamiento de que se trate. El período correspondiente a cada inversión concluirá anticipadamente cuando la misma se enajene o deje de ser útil para la obtención de ingresos en los términos de la Ley del Impuesto sobre la Renta.
+
+La actualización a que se refiere el presente artículo deberá calcularse aplicando el factor de actualización que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes más reciente del período, entre el citado índice correspondiente al mes más antiguo de dicho período.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 5o.-B.
+
+Los contribuyentes, en lugar de aplicar lo previsto en el artículo 5o., fracción V, incisos c) y d), numeral 3 y en el artículo 5o.-A de esta Ley, podrán acreditar el impuesto al valor agregado que les haya sido trasladado al realizar erogaciones por la adquisición de bienes, adquisición de servicios o por el uso o goce temporal de bienes o el pagado en su importación, en la cantidad que resulte de aplicar al impuesto mencionado la proporción que el valor de las actividades por las que se deba pagar el impuesto o a las que se les aplique la tasa de 0%, correspondientes al año de calendario inmediato anterior al mes por el que se calcula el impuesto acreditable, represente en el valor total de las actividades, realizadas por el contribuyente en dicho año de calendario.
+
+Durante el año de calendario en el que los contribuyentes inicien las actividades por las que deban pagar el impuesto que establece esta Ley y en el siguiente, la proporción aplicable en cada uno de los meses de dichos años se calculará considerando los valores mencionados en el párrafo anterior, correspondientes al período comprendido desde el mes en el que se iniciaron las actividades y hasta el mes por el que se calcula el impuesto acreditable.
+
+Los contribuyentes que ejerzan la opción prevista en este artículo deberán aplicarla respecto de todas las erogaciones por la adquisición de bienes, adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto al valor agregado o a las que se les aplique la tasa de 0%, en un período de sesenta meses, contados a partir del mes en el que se haya realizado el acreditamiento en los términos del presente artículo.
+
+A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 5o., fracción V, inciso d), numeral 3 de esta Ley, no les será aplicable el procedimiento establecido en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 5o.-C.
+
+Para calcular la proporción a que se refieren los artículos 5o., fracción V, incisos c) y d), numeral 3; 5o.-A, fracción I, incisos c) y d), fracción II, incisos c) y d), y 5o.-B de esta Ley, no se deberán incluir en los valores a que se refieren dichos preceptos, los conceptos siguientes:
+
+I. Las importaciones de bienes o servicios, inclusive cuando sean temporales en los términos de la Ley Aduanera;
+
+II. Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo 38 de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria;
+
+III. Los dividendos percibidos en moneda, en acciones, en partes sociales o en títulos de crédito, siempre que en este último caso su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo, salvo que se trate de personas morales que perciban ingresos preponderantemente por este concepto;
+
+IV. Las enajenaciones de acciones o partes sociales, documentos pendientes de cobro y títulos de crédito, siempre que su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo;
+
+V. Las enajenaciones de moneda nacional y extranjera, así como la de piezas de oro o de plata que hubieran tenido tal carácter y la de piezas denominadas "onza troy";
+
+VI. Los intereses percibidos ni la ganancia cambiaria;
+
+VII. Las enajenaciones realizadas a través de arrendamiento financiero. En estos casos el valor que se deberá excluir será el valor del bien objeto de la operación que se consigne expresamente en el contrato respectivo;
+
+VIII. Las enajenaciones de bienes adquiridos por dación en pago o adjudicación judicial o fiduciaria, siempre que dichas enajenaciones sean realizadas por contribuyentes que por disposición legal no puedan conservar en propiedad los citados bienes, y
 
 IX. Los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
 
 Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casas de cambio, sociedades financieras de objeto limitado y las sociedades para el depósito de valores, no deberán excluir los conceptos señalados en las fracciones IV, V, VI y IX que anteceden.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
-###### ARTICULO 5o.
+###### ARTICULO 5o.-D.
 
 El impuesto se calculará por cada mes de calendario, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
 Los contribuyentes efectuarán el pago del impuesto mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+El pago mensual será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento determinadas en los términos de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en dicho mes.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-El pago mensual será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento determinadas en los términos del artículo 4o. de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en dicho mes.
-
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-> <small>(DEROGADO OCTAVO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
+Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28 de este ordenamiento. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -1024,9 +1028,9 @@ Tratándose de importación de bienes tangibles, el pago tendrá el carácter de
 
 Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
-El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
+El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos que establece esta Ley.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -1048,7 +1052,7 @@ Para los efectos de esta Ley, se considera exportación de bienes o servicios:
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-I. La que tenga el carácter de definitiva en los términos de la Ley Aduanera.
+I.- La que tenga el carácter de definitiva en los términos de la Ley Aduanera.
 
 II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
 
@@ -1064,7 +1068,7 @@ a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaci
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-b) Operaciones de maquila y submaquila para exportación en los términos de la legislación aduanera y del Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación. Para los efectos anteriores, se entenderá que los servicios se aprovechan en el extranjero cuando los bienes objeto de la maquila o submaquila sean exportados por la empresa maquiladora.
+b).- Operaciones de maquila y submaquila para exportación en los términos de la legislación aduanera y del Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación. Para los efectos anteriores, se entenderá que los servicios se aprovechan en el extranjero cuando los bienes objeto de la maquila o submaquila sean exportados por la empresa maquiladora.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -1084,7 +1088,7 @@ f).- Operaciones de financiamiento.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-g) Filmación o grabación, siempre que cumplan con los requisitos que al efecto se señalen en el reglamento de esta Ley.
+g).- Filmación o grabación, siempre que cumplan con los requisitos que al efecto se señalen en el reglamento de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -1092,17 +1096,17 @@ V.- La transportación internacional de bienes prestada por residentes en el pa�
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del penúltimo párrafo del artículo 16 no se considera prestada en territorio nacional.
+VI.- La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del penúltimo párrafo del artículo 16 no se considera prestada en territorio nacional.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-VII. La prestación de servicios de hotelería y conexos realizados por empresas hoteleras a turistas extranjeros que ingresen al país para participar exclusivamente en congresos, convenciones, exposiciones o ferias a celebrarse en México, siempre que dichos extranjeros les exhiban el documento migratorio que acredite dicha calidad en los términos de la Ley General de Población, paguen los servicios de referencia mediante tarjeta de crédito expedida en el extranjero y la contratación de los servicios de hotelería y conexos se hubiera realizado por los organizadores del evento.
+VII.- La prestación de servicios de hotelería y conexos realizados por empresas hoteleras a turistas extranjeros que ingresen al país para participar exclusivamente en congresos, convenciones, exposiciones o ferias a celebrarse en México, siempre que dichos extranjeros les exhiban el documento migratorio que acredite dicha calidad en los términos de la Ley General de Población, paguen los servicios de referencia mediante tarjeta de crédito expedida en el extranjero y la contratación de los servicios de hotelería y conexos se hubiera realizado por los organizadores del evento.
 
 Para los efectos del párrafo anterior, se entiende por servicios de hotelería y conexos, los de alojamiento, la transportación de ida y vuelta del hotel a la terminal de autobuses, puertos y aeropuertos, así como los servicios complementarios que se les proporcionen dentro de los hoteles. Los servicios de alimentos y bebidas quedan comprendidos en los servicios de hotelería, cuando se proporcionen en paquetes turísticos que los integren.
 
 Los contribuyentes a que se refiere esta fracción deberán registrarse ante el Servicio de Administración Tributaria y cumplir los requisitos de control que establezca el reglamento de esta Ley, en el cual se podrá autorizar que el pago de los servicios se lleve a cabo desde el extranjero por otros medios. En dicho reglamento también se podrá autorizar el pago por otros medios, cuando los servicios a que se refiere esta fracción, se contraten con la intermediación de agencias de viajes.
 
-VIII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
+VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1954,7 +1958,7 @@ Unico. La presente Resolución entrará en vigor el día siguiente al de su publ
 
 D.O.F. 12 DE FEBRERO DE 2002.
 
-Unico.- La presente Resolución entrara en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Único.- La presente Resolución entrara en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 5 DE JULIO DE 2002.
 
@@ -2009,3 +2013,11 @@ Artículo Primero.- El presente Decreto entrará en vigor el 1 de enero del 2005
 Artículo Segundo.- Tratándose de la adquisición y de la importación de inversiones efectuadas con anterioridad al 1 de enero de 2005, cuyo impuesto al valor agregado que le haya sido trasladado al contribuyente o el que le corresponda con motivo de la importación, sea efectivamente pagado con posterioridad a la citada fecha, se aplicarán las disposiciones para el acreditamiento del impuesto, vigentes a partir de la fecha de la entrada en vigor de este Decreto.
 
 Artículo Tercero.- A partir del 1 de enero de 2005, en el primer mes en el que el contribuyente tenga impuesto trasladado efectivamente pagado o impuesto pagado en la importación, que corresponda a erogaciones por la adquisición de bienes, de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto o a las que se les aplique la tasa de 0%, la opción que ejerza el contribuyente en los términos de los artículos 4o., 4o.-A y 4o.-B para efectuar su acreditamiento, la deberá mantener al menos durante sesenta meses.
+
+D.O.F. 7 DE JUNIO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Tratándose de la adquisición y de la importación de inversiones realizadas con anterioridad a la entrada en vigor de este Decreto, cuyo impuesto al valor agregado haya sido trasladado al contribuyente o el que le corresponda con motivo de la importación, sea efectivamente pagado con posterioridad a la citada fecha, se aplicarán las disposiciones para el acreditamiento del impuesto, vigentes a partir de la fecha de la entrada en vigor de este Decreto.
+
+Tercero.- A partir de la entrada en vigor del presente Decreto, en el primer mes en el que el contribuyente tenga impuesto al valor agregado trasladado efectivamente pagado o impuesto al valor agregado pagado en la importación, que corresponda a erogaciones por la adquisición de bienes, de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto o a las que se les aplique la tasa de 0%, la opción que ejerza el contribuyente en los términos de los artículos 5o., 5o.-A y 5o.-B para efectuar su acreditamiento, la deberá mantener al menos durante sesenta meses.
