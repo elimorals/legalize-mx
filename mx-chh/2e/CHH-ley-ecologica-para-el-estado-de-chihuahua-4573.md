@@ -4,7 +4,7 @@ identifier: "CHH-ley-ecologica-para-el-estado-de-chihuahua-4573"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-26"
-last_updated: "2005-01-01"
+last_updated: "2005-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ECOLOGICA PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL PERIODICO OFICIAL EL 8 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de octubre de 1991.
 
@@ -1568,3 +1570,25 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 1 DE ENERO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor a los 60 días hábiles siguientes a los de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Ecológica para el Estado de Chihuahua, publicada en el Periódico Oficial del Estado, en fecha 09 de octubre de 1991.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales en el Estado de Chihuahua que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado expedirá los reglamentos a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
