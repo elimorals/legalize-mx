@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-del-estado-de-chihuahua-11959"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2005-01-01"
+last_updated: "2005-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1021,15 +1021,19 @@ Los programas de vivienda rural que efectúen las Entidades de la Administració
 
 ### Capítulo Séptimo. De la Imagen Urbana y la Protección del Patrimonio Cultural
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 76.
 
-Los Planes de Desarrollo Urbano señalarán los inmuebles o zonas con valores culturales cuyos edificios no podrán ser demolidos.
+Los Planes de Desarrollo Urbano señalarán los inmuebles o zonas protegidas considerados como Patrimonio Cultural, según lo establecido en la Ley del Patrimonio Cultural del Estado, cuyos edificios no podrán ser demolidos.
 
-Se establecen como normas básicas para mantener o mejorar la imagen urbana de los Centros de población del Estado y protección del patrimonio cultural, sin perjuicio de las normas consignadas en otros ordenamientos legales las siguientes:
+Se establecen como normas básicas para mantener o mejorar la imagen urbana de los centros de población del Estado y protección del patrimonio cultural, sin perjuicio de las normas consignadas en otros ordenamientos legales las siguientes:
 
 I.- Los sitios y los edificios que signifiquen para la comunidad un testimonio valioso de su historia y su cultura se identificarán en los planes correspondientes y su conservación y protección podrán ser declaradas de interés público por el Ejecutivo del Estado y los Ayuntamientos;
 
-II.- Las zonas e inmuebles con valores culturales estarán constituidos por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2005)</small>
+
+II.- Las zonas protegidas e inmuebles con valores considerados como patrimonio cultural, estarán constituidos por:
 
 a) Los inmuebles vinculados a la historia local o nacional;
 
@@ -1039,15 +1043,29 @@ c) Las plazas, parques y calles que contengan expresiones de arte o que constitu
 
 d) Las zonas arqueológicas y poblados típicos;
 
-III.- Para la conservación y mejoramiento de la imagen urbana en las zonas y construcciones del patrimonio cultural, se atenderá a lo siguiente:
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2005)</small>
+
+e) Lo establecido en la Ley del Patrimonio Cultural del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2005)</small>
+
+III.- Para la conservación y mejoramiento de la imagen urbana en las zonas y construcciones consideradas como patrimonio cultural, se atenderá a lo siguiente:
 
 a) Las edificaciones que se localicen en su entorno, deberán ser armónicas y compatibles con aquellas, en lo que al estilo, materiales y forma se refiere;
 
-b) Los propietarios de las edificaciones, tendrán obligación de conservarlas en buen estado de estabilidad, servicios, aspecto e higiene y evitarán su utilización en actividades incompatibles con su valor histórico, artístico, cultural o arquitectónico;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2005)</small>
 
-IV.- En las zonas y construcciones de valor cultural, los ayuntamientos podrán reglamentar el tipo y las características de los anuncios para hacerlos compatibles y armónicos con el entorno;
+b) Lo establecido en la Ley del Patrimonio Cultural del Estado.
 
-V.- Las autoridades podrán establecer convenios con los propietarios de inmuebles con valor cultural para su mejoramiento, preservación, conservación, reparación, utilización y mejor aprovechamiento.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2005)</small>
+
+IV.- En las zonas y construcciones de valor cultural, los ayuntamientos deberán reglamentar el tipo y las características de los anuncios para hacerlos compatibles y armónicos con el entorno;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2005)</small>
+
+V.- Las autoridades podrán establecer convenios con los propietarios de inmuebles considerados como patrimonio cultural para su mejoramiento, preservación, conservación, reparación, utilización y mejor aprovechamiento.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2005)</small>
 
 Para tal efecto, promoverán los mecanismos presupuestales y financieros y las facilidades administrativas y fiscales que apoyen la conservación y restauración de dichos inmuebles, por parte de sus poseedores o propietarios.
 
@@ -1441,7 +1459,7 @@ I.- Red de agua potable y tomas domiciliarias; y
 
 II.- Red de electrificación y alumbrado público.
 
-La densidad bruta máxima de población será de cinco viviendas por hectárea. Sólo se podrá construir vivienda unifamiliar, con las salvedades que se preven en el Reglamento, y deberá formarse una barrera arbolada alrededor del fraccionamiento para evitar la continuidad con otro. La ocupación del suelo para vivienda no podrá exceder del 20% de la superficie total del predio.
+La densidad bruta máxima de población será de cinco viviendas por hectárea. Sólo se podrá construir vivienda unifamiliar, con las salvedades que se prevén en el Reglamento, y deberá formarse una barrera arbolada alrededor del fraccionamiento para evitar la continuidad con otro. La ocupación del suelo para vivienda no podrá exceder del 20% de la superficie total del predio.
 
 ###### ARTICULO 120.
 
@@ -2560,3 +2578,7 @@ DECRETO No. 95/04 I P.O. QUE ADICIONA LA FRACCION IV DEL ARTICULO 174 DE LA LEY 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
