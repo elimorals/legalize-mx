@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establece-la-unidad-de-35427"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2003-11-28"
+last_updated: "2005-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA DEPENDENCIA DENOMINADA REPRESENTACION DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA REPRESENTACION DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 8 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el viernes 28 de noviembre de 2003.
 
@@ -78,3 +80,11 @@ EL SECRETARIO DE GOBIERNO
 C. EDUARDO BECERRA PÉREZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. DE 8 DE JUNIO DE 2005.
+
+PRIMERO. El presente acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente acuerdo abroga el Acuerdo mediante el cual se establece la Unidad de Información Pública y se crea el Consejo de Información Clasificada de la Dependencia denominada Representación del Poder Ejecutivo del Estado, publicado el veintiocho de noviembre del año dos mil tres, en el Periódico Oficial "Tierra y Libertad", número cuatro mil doscientos noventa y dos.
