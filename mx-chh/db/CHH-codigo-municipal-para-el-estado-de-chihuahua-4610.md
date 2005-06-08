@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2005-04-27"
+last_updated: "2005-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2005.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -329,7 +329,7 @@ VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
-ARTICULO 13 BIS.- Los centros de población de los municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. Los Ayuntamientos determinarán la categoría correspondiente, según satisfagan las características, condiciones y requisitos que deberán reunir los centros de población atendiendo a las siguientes;:
+ARTICULO 13 BIS.- Los centros de población de los municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. Los Ayuntamientos determinarán la categoría correspondiente, según satisfagan las características, condiciones y requisitos que deberán reunir los centros de población atendiendo a las siguientes:
 
 BASES:
 
@@ -587,7 +587,7 @@ XVIII.- Vigilar, el mantenimiento y conservación del patrimonio municipal;
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-XIX. Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes y monumentos artísticos, arquitectónicos e históricos, ubicados en el Municipio, así como de los documentos históricos o cualquier material testimonial de un hecho jurídico o socialmente trascendente, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
+XIX.- Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes y monumentos artísticos, arquitectónicos e históricos, ubicados en el Municipio, así como de los documentos históricos o cualquier material testimonial de un hecho jurídico o socialmente trascendente, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2003)</small>
 
@@ -917,7 +917,7 @@ XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidad
 
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
 
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
@@ -929,7 +929,7 @@ XV.- Solicitar datos, informes y documentación en general a fin de hacer las co
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
-XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente.
 
 XVII.- Las demás que establezcan las leyes y reglamentos.
 
@@ -1257,7 +1257,11 @@ II.- Ser mexicano y del estado seglar;
 
 III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y
 
-IV.- No ser cónyuge, pariente consanguíneo o afín, en línea recta, sin limitación de grado o colateral por consanguinidad, dentro del cuarto grado o por afinidad dentro del segundo, del Presidente Municipal, del Presidente Seccional o de los Regidores.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2005)</small>
+
+IV.- No ser cónyuge, pariente consanguíneo o afín, en línea recta, sin limitación de grado o colateral por consanguinidad, dentro del cuarto grado o por afinidad dentro del segundo, del Presidente Municipal, del Presidente Seccional, de los Regidores o del Síndico.
+
+Se exceptúa de lo dispuesto en el párrafo anterior a quien tenga una antigüedad mínima de un año en su puesto o función, al momento de la toma de posesión de los integrantes del ayuntamiento o de las Juntas Municipales, según sea el caso.
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1289,7 +1293,7 @@ VII.- Recopilar la documentación e información necesarias para acreditar la ex
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-VIII. Administrar el archivo del ayuntamiento, incluyendo la colección ordenada y anotada de leyes, decretos, reglamentos, circulares y órdenes relativas a los distintos ramos de la administración municipal; así como la custodia guarda, conservación y difusión del acervo documental del archivo histórico municipal;
+VIII.- Administrar el archivo del ayuntamiento, incluyendo la colección ordenada y anotada de leyes, decretos, reglamentos, circulares y órdenes relativas a los distintos ramos de la administración municipal; así como la custodia guarda, conservación y difusión del acervo documental del archivo histórico municipal;
 
 IX.- Llevar los trámites necesarios para que se otorgue dispensa de edad y para que se supla el consentimiento de quienes, deben otorgarlo a fin de que contraigan matrimonio los menores de edad;
 
@@ -1461,7 +1465,7 @@ La policía preventiva municipal estará al mando del Presidente Municipal en lo
 
 ###### ARTICULO 70.
 
-Toda persona que sea detenida por infracciones a reglamentos gubernativos o de policía tendrá derecho a que se le fije la sanción alternativa, en los términos del articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, en un término no mayor de seis horas. El reglamento respectivo garantizará la implementación de un mecanismo para que en todas las direcciones de seguridad pública y comandancias municipales exista permanentemente personal con facultades para cumplir lo anterior.
+Toda persona que sea detenida por infracciones a reglamentos gubernativos o de policía tendrá derecho a que se le fije la sanción alternativa, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en un término no mayor de seis horas. El reglamento respectivo garantizará la implementación de un mecanismo para que en todas las direcciones de seguridad pública y comandancias municipales exista permanentemente personal con facultades para cumplir lo anterior.
 
 ###### ARTICULO 71.
 
@@ -1555,19 +1559,19 @@ VI.- Las demás, que le señalen expresamente otras leyes o reglamentos.
 
 Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
 
-I. Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
+I.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
 
-II. Promover la aplicación de la política ambiental del Municipio en congruencia y coordinación con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda a otras dependencias del Poder Ejecutivo Estatal;
+II.- Promover la aplicación de la política ambiental del Municipio en congruencia y coordinación con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda a otras dependencias del Poder Ejecutivo Estatal;
 
-III. Fomentar la elaboración de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales;
+III.- Fomentar la elaboración de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales;
 
-IV. Proponer ante las instancias gubernamentales acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Municipio, en concordancia con las disposiciones de carácter Estatal y Federal.
+IV.- Proponer ante las instancias gubernamentales acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Municipio, en concordancia con las disposiciones de carácter Estatal y Federal.
 
-V. Promover en coordinación con las instancias correspondientes el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
+V.- Promover en coordinación con las instancias correspondientes el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
 
-VI. Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología.
+VI.- Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología.
 
-VII. Las demás, que le señalen expresamente otras leyes y reglamentos.
+VII.- Las demás, que le señalen expresamente otras leyes y reglamentos.
 
 ###### ARTICULO 75.
 
@@ -1603,7 +1607,7 @@ Los municipios podrán celebrar convenios entre sí o con instituciones pública
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 78.
+###### ARTICULO 78.
 
 En cada Municipio existirá un Tribunal de Arbitraje, el cual podrá funcionar accidental o permanentemente, para resolver los conflictos de trabajo individuales o colectivos.
 
@@ -1937,7 +1941,7 @@ d) La justificación para incorporarlo, desincorporarlo, o cambiar su destino.
 
 > <small>(F. DE E., P.O. 25 DE OCTUBRE DE 2003)</small>
 
-II. Asimismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
+II.- Asimismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
 
 Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
@@ -2079,7 +2083,7 @@ b) Las participaciones federales, que serán cubiertas por la Federación a los 
 
 c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los inciso a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o por conducto de la dependencia que ellos determinen y de conformidad con el Presupuesto de Egresos.
 
@@ -2375,7 +2379,7 @@ La base del impuesto es el valor catastral del inmueble, determinado por lo disp
 
 El impuesto se determinará anualmente, conforme a las siguientes tarifas:
 
-I. Predios urbanos
+I.- Predios urbanos
 
 LIMITES DE RANGO TASA DE RANGO CUOTA FIJA
 
@@ -3505,13 +3509,13 @@ P.O. 14 DE JUNIO DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JULIO DE 2003.
+P.O. 21 DE JUNIO DE 2003.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE JUNIO DE 2003.
+P.O. 16 DE JULIO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3523,7 +3527,7 @@ Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municip
 
 P.O. 19 DE JULIO DE 2003.
 
-###### ARTICULO ÚNICO.
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3662,6 +3666,10 @@ Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería Genera
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
 
 P.O. 27 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
