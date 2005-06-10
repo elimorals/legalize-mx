@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-la-relacion-administrativa-de-los-miembros-36603
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-16"
-last_updated: "2004-01-16"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LA RELACION ADMINISTRATIVA DE LOS MIEMBROS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 16 de enero de 2004.
 
@@ -65,9 +65,15 @@ V.- Dependencias: Los órganos de la Administración Pública Centralizada Estat
 
 VI.- Contraloría Interna: El órgano de la Dependencia encargado de llevar a cabo el procedimiento de remoción, así como de ordenar la suspensión preventiva en los términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+En el caso de los municipios y en los términos del párrafo anterior, la Contraloría será la Sindicatura Municipal.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 3.
 
-La aplicación de esta Ley, corresponde al titular del Poder Ejecutivo y a los ayuntamientos, en sus respectivos ámbitos de competencia, por conducto de las Dependencias.
+La aplicación de esta Ley corresponde al Titular del Poder Ejecutivo y a los ayuntamientos, en sus respectivos ámbitos de competencia, por conducto de las Dependencias y Contralorías Internas.
 
 ###### ARTÍCULO 4.
 
@@ -78,6 +84,10 @@ I.- Los Titulares y los que ejerzan el mando directo, de las Instituciones Polic
 II.- Aquellas personas que desempeñen el cargo inmediato inferior a quienes ejerzan el mando directo de la Institución Policial, de conformidad con su estructura orgánica, y
 
 III.- Aquellas personas que además de no contar con el nombramiento que lo acredito como Miembro, desempeñen funciones ajenas a las de la seguridad pública de manera permanente, aún cuando laboren en las Instituciones Policiales.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+Tratándose de los ayuntamientos, éstos determinarán en sus respectivos reglamentos, quienes, en su caso, serán excluidos de la aplicación de las disposiciones contenidas en esta Ley.
 
 ###### ARTÍCULO 5.
 
@@ -93,7 +103,9 @@ I.- El titular de la Dependencia y los que ejerzan el mando directo de las Insti
 
 II.- El titular de la Contraloría Interna, y
 
-III.- El personal encargado de auxiliar al titular de la Contraloría Interna en la substanciación del procedimiento de remoción, y en las notificaciones, conforme lo determinen los reglamentos correspondientes.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+III.- El Personal encargado de auxiliar al titular de la Contraloría Interna en la substanciación del procedimiento para la aplicación de correctivos disciplinarios o de remoción, y en las notificaciones, conforme lo determinen los reglamentos correspondientes.
 
 ###### ARTÍCULO 7.
 
@@ -181,7 +193,9 @@ XIII.- No desempeñar algún otro empleo, cargo o comisión oficial o particular
 
 XIV.- Hacer entrega inmediata de los asuntos bajo su responsabilidad y del equipo de cargo que se le haya asignado, en los casos de suspensión y cuando así le sea requerido;
 
-XV.- Presentar declaración patrimonial ante la Dirección de Control y Evaluación Gubernamental, o en el órgano equivalente en los Municipios, según sea el caso;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+XV.- Presentar declaración patrimonial ante la Dirección de Control y Evaluación Gubernamental, o ante la Sindicatura Municipal, según sea el caso, y en los términos que señale el reglamento correspondiente.
 
 XVI.- Dar aviso por escrito a la Institución Policial, de cualquier cambio de domicilio, en un plazo no mayor de cinco días de que ello acontezca;
 
@@ -221,11 +235,15 @@ XI.- Acudir a la realización de exámenes médicos, físicos, de personalidad, 
 
 XII.- Aprobar los exámenes que resulten indispensables para asegurar la debida prestación el (sic) servicio;
 
-XIII.- Abstenerse de acudir al servicio con aliento alcohólico, estado de ebriedad o bajo el influjo de sustancias psicotrópicas o estupefacientes;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+XIII.- Abstenerse de acudir al servicio con aliento alcohólico, estado de ebriedad o bajo la (sic) influjo de sustancias psicotrópicas, enervantes, depresivas o estupefacientes.
 
 XIV.- Abstenerse de consumir bebidas alcohólicas durante la prestación del servicio;
 
-XV.- Abstenerse de consumir sustancias psicotrópicas o estupefacientes durante o fuera de la prestación del servicio;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+XV.- Abstenerse de consumir sustancias psicotrópicas, enervantes, depresivas o estupefacientes durante o fuera de la prestación del servicio;
 
 XVI.- Abstenerse de utilizar vehículos, para el ejercicio de sus funciones, que no les hubieren sido asignados para tal fin, o bien utilice vehículos robados, excepto en los casos de que los Miembros deban trasladar estos, para su resguardo;
 
@@ -295,9 +313,13 @@ IV.- Los demás elementos, circunstancias, condiciones y consecuencias que afect
 
 El procedimiento para la aplicación de correctivos disciplinarios, iniciará cuando por cualquier medio se tenga conocimiento de que algún Miembro no observe las obligaciones previstas en esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 17.
 
-Los reglamentos que se expidan de conformidad con la Ley, deberán determinar el procedimiento mediante el cual se aplicarán los correctivos disciplinarios.
+Los reglamentos que se expidan de conformidad con la Ley, deberán determinar el procedimiento mediante el cual se substanciarán y aplicarán los correctivos disciplinarios.
+
+Asimismo, podrán prever las medidas preventivas que se estimen necesarias durante su desahogo, los casos en que se ordenará y levantará su aplicación, así como las consecuencias que se generarán cuando se haya o no acreditado el incumplimiento de la obligación por parte del Miembro.
 
 ###### ARTÍCULO 18.
 
@@ -537,13 +559,15 @@ En caso de que no se acredite la falta de un requisito de permanencia, se determ
 
 ### CAPÍTULO OCTAVO. DE LA PRESCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 57.
 
-Prescribe en treinta días naturales, contados a partir de que tenga conocimiento de que algún Miembro no observe las obligaciones previstas en esta Ley, la facultad para aplicar los correctivos disciplinarios.
+Los reglamentos determinarán los términos para la prescripción de la aplicación de correctivos disciplinarios o para iniciar los procedimientos de remoción, a los Miembros que no observen las obligaciones previstas en esta Ley.
 
 ###### ARTÍCULO 58.
 
-Prescribe en treinta días naturales, la facultad de la Contraloría Interna para iniciar el procedimiento de remoción, contados a partir de que tenga conocimiento de hechos que hagan presumir, que algún Miembro ha dejado de cumplir con alguno de los requisitos de permanencia.
+(DEROGADO, P.O. 10 DE JUNIO DE 2005)
 
 ###### ARTÍCULO 59.
 
@@ -612,3 +636,11 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En el caso, de los municipios, en tanto no se expidan los reglamentos y demás disposiciones a que se hace referencia en esta Ley, los procedimientos que se encuentren pendientes de resolución antes de la entrada en vigor de los mismos, se substanciarán conforme a las disposiciones que se encuentren vigentes al momento del inicio del procedimiento.
