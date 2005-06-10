@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-deporte-para-el-distrito-federal-10342
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-04-10"
-last_updated: "1997-04-10"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10342&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1997-04-04"
 
 REGLAMENTO DE LA LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL NUEVO REGLAMENTO DE LA LEY DEL DEPORTE PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DEL 10 DE JUNIO DE 2005.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 9 de abril de 1997 y republicado en el Diario Oficial de la Federación, el jueves 10 de abril de 1997.
 
@@ -363,3 +365,15 @@ SEGUNDO.- Las bases y lineamientos para el otorgamiento del Premio al Mérito De
 TERCERO.- Las menciones que en este Reglamento se hacen al Jefe de Gobierno del Distrito Federal, se entenderán referidas al Jefe del Departamento del Distrito Federal, hasta en tanto aquél entre en funciones.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los cuatro días del mes de abril de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 10 DE JUNIO DE 2005.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley del Deporte para el Distrito Federal publicado el 09 de abril de 1997 en la Gaceta Oficial del Distrito Federal y el 10 de abril de 1997 en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones jurídicas y administrativas que se opongan al contenido del presente Reglamento.
+
+CUARTO.- A más tardar en treinta días naturales posteriores a la entrada en vigencia del presente Reglamento deberán instalarse el Consejo del Deporte del Distrito Federal y en sesenta días naturales los Comités Delegacionales para el Deporte.
