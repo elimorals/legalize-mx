@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2005-03-11"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -683,7 +683,7 @@ Para el reconocimiento de un hijo nacido fuera de matrimonio, hecho con posterio
 
 El acta de reconocimiento deberá contener:
 
-Del reconocido; nombre, primer apellido del padre, primer apellido de la madre, fecha y lugar de nacimiento, edad, sexo, domicilio e impresión digital, salvo lo dispuesto en el articulo 51.
+Del reconocido; nombre, primer apellido del padre, primer apellido de la madre, fecha y lugar de nacimiento, edad, sexo, domicilio e impresión digital, salvo lo dispuesto en el artículo 51.
 
 Del reconocedor; nombre, apellidos, nacionalidad, edad y domicilio.
 
@@ -763,6 +763,14 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 El Oficial del Registro Civil a quien se presenten una solicitud de matrimonio que satisfaga los requisitos anteriores, hará que los pretendientes y los ascendientes o tutores que en su caso presten su consentimiento, reconozcan ante él, y por separado sus firmas y que los testigos a que se refiere el punto 3 del artículo anterior ratifiquen sus dichos bajo protesta de decir verdad. Cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando su ratificación, en su presencia.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 99 Bis.
+
+Cubiertos los requisitos para contraer matrimonio y previo a la celebración del mismo, la Oficialía del Registro Civil en la que habrá de llevarse a cabo, orientará a los contrayentes sobre los fines del matrimonio, los derechos y obligaciones que nacen de él y las cuestiones patrimoniales que lo rigen, conforme al presente Código.
+
+La orientación aludida, se otorgará en la forma que para ello establezca la Dirección Estatal del Registro Civil en su Reglamento.
+
 ###### ARTÍCULO 100.
 
 El matrimonio se celebrará dentro de los ocho días siguientes en el local de la Oficialía, en el día y hora que se señale a excepción de lo dispuesto por el artículo 61.
@@ -783,7 +791,7 @@ II. Si son mayores o menores de edad;
 
 III. Los nombres, apellidos, ocupación y domicilio de los padres;
 
-IV. El consentimiento de éstos, de los abuelos o tutores, o de la autoridades que deban suplirlo, si los contrayentes son menores de edad;
+IV. El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlo, si los contrayentes son menores de edad;
 
 V. Que no hubo impedimento para el matrimonio o que este se dispensó;
 
@@ -905,7 +913,7 @@ Cuando alguna persona falleciere en lugar que no sea su domicilio, se remitirá 
 
 El jefe de cualquier puesto a destacamento militar, tiene obligación de dar parte al Oficial del Registro Civil, de los muertos habidos en campaña, o en otro acto de servicio especificándose filiación de los mismos.
 
-ARTÍCULOS 123.- En todos los casos de muerte, en los establecimientos de reclusión, no se hará mención de esta circunstancia en los registros y la actas contendrán solamente los requisitos señalados en el artículo 117.
+ARTÍCULOS 123.- En todos los casos de muerte, en los establecimientos de reclusión, no se hará mención de esta circunstancia en los registros y las actas contendrán solamente los requisitos señalados en el artículo 117.
 
 ### CAPITULO VIII
 
@@ -1257,7 +1265,7 @@ No pueden renunciarse los gananciales durante el matrimonio, pero disuelto éste
 
 ###### ARTÍCULO 168.
 
-Los cónyuges podrán en toda tiempo variar el régimen patrimonial sujetándose a las disposiciones de este Código.
+Los cónyuges podrán en todo tiempo variar el régimen patrimonial sujetándose a las disposiciones de este Código.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
@@ -1521,7 +1529,7 @@ La donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efec
 
 ###### ARTÍCULO 215.
 
-Son aplicables a la donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
+Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
 
 ### CAPITULO VIII. DE LAS DONACIONES ENTRE CONSORTES
 
@@ -2009,7 +2017,7 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ###### ARTÍCULO 287.
 
-El derecho a alimentos es una prerrogativa derivada de la pertenencia a una familia, del parentesco y en los caos previstos por la ley, del matrimonio o del concubinato.
+El derecho a alimentos es una prerrogativa derivada de la pertenencia a una familia, del parentesco y en los casos previstos por la ley, del matrimonio o del concubinato.
 
 La obligación de dar alimentos es recíproca. El que los da, tiene a su vez el derecho de pedirlos.
 
@@ -2067,7 +2075,7 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 
 ###### ARTÍCULO 298.
 
-Los alimentos han de ser proporcionados a la posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo diario general vigente en la zona, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo diario general vigente en la zona, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
@@ -2659,7 +2667,7 @@ III. Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
 
 En el primer caso del artículo 391, el juez resolverá que la adopción queda revocada, si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
 
-En todo caso subsisten la obligaciones alimentarias a cargo del adoptado.
+En todo caso subsisten las obligaciones alimentarias a cargo del adoptado.
 
 ###### ARTÍCULO 394.
 
@@ -5065,7 +5073,7 @@ No pertenecen al dueño del predio los minerales o substancias mencionadas en el
 
 ###### ARTÍCULO 815.
 
-En un predio no pueden hacerse excavaciones o construcciones que hagan perder el sostén necesario al suelo de la Propiedad vecina; a menos que se hagan la obras de consolidación indispensables para evitar todo daño a este predio.
+En un predio no pueden hacerse excavaciones o construcciones que hagan perder el sostén necesario al suelo de la Propiedad vecina; a menos que se hagan las obras de consolidación indispensables para evitar todo daño a este predio.
 
 ###### ARTÍCULO 816.
 
@@ -5611,7 +5619,7 @@ El propietario de un edificio que se apoya en una pared común, puede al derriba
 
 ###### ARTÍCULO 938.
 
-El propietario de un fina contigua a una pared divisoria que no sea común, sólo puede darle ese carácter en todo o en parte, por contrato con el dueño de ella.
+El propietario de una finca contigua a una pared divisoria que no sea común, sólo puede darle ese carácter en todo o en parte, por contrato con el dueño de ella.
 
 ###### ARTÍCULO 939.
 
@@ -5627,7 +5635,7 @@ Si la pared de propiedad común no puede resistir a la elevación, el propietari
 
 ###### ARTÍCULO 942.
 
-En los casos señalados por los artículo 939 y 940, la pared continúa siendo de propiedad común hasta la altura en que lo era antiguamente aun cuando haya sido edificada de nuevo a expensas de uno sólo, y desde el punto donde comenzó la mayor altura, es propiedad del que la edificó.
+En los casos señalados por los artículos 939 y 940, la pared continúa siendo de propiedad común hasta la altura en que lo era antiguamente aun cuando haya sido edificada de nuevo a expensas de uno sólo, y desde el punto donde comenzó la mayor altura, es propiedad del que la edificó.
 
 ###### ARTÍCULO 943.
 
@@ -15926,3 +15934,9 @@ La designación de los Oficiales del Registro Civil, así como las Oficialías d
 ###### ARTÍCULO CUARTO.
 
 En ejercicio de sus facultades, el Titular del Poder Ejecutivo del Estado, emitirá el Reglamento Estatal del Registro Civil en un plazo que no exceda de 180 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+P.O. 10 DE JUNIO DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- La Dirección Estatal del Registro Civil, contará con un plazo de sesenta días naturales, computados a partir de la publicación de la presente Ley, para estructurar la orientación que se otorgará en las Oficialías del Registro Civil, previo a la celebración del matrimonio.
