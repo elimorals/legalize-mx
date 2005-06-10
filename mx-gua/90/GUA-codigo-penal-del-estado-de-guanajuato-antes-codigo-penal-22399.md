@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2004-08-13"
+last_updated: "2005-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -297,7 +297,7 @@ I.- El hecho se realice sin intervención de la voluntad del agente;
 
 II.- Falte alguno de los elementos del tipo penal de que se trate;
 
-III.- Se obre en cumplimiento de un deber legal o en el ejercicio legítimo de un derecho.;
+III.- Se obre en cumplimiento de un deber legal o en el ejercicio legítimo de un derecho;
 
 IV.- Se actúe con el consentimiento válido del sujeto pasivo, siempre que el bien jurídico afectado sea de aquéllos de que pueden disponer lícitamente los particulares;
 
@@ -313,7 +313,7 @@ c) Que no exista otro medio practicable y menos perjudicial.
 
 No operará esta justificante en los delitos derivados del incumplimiento de sus obligaciones, cuando las personas responsables tengan el deber legal de afrontar el peligro;
 
-VII.- Al momento de realizar el hecho típico y por causa de enfermedad mental que perturbe gravemente su conciencia, de desarrollo psíquico incompleto o retardado o de grave perturbación de la conciencia sin base patológica, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión.
+VII.- Al momento de realizar el hecho típico y por causa de enfermedad mental que perturbe gravemente su conciencia, de desarrollo psíquico incompleto o retardado o de grave perturbación de la conciencia sin base patológica, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión;
 
 Cuando el agente sólo haya poseído en grado moderado la capacidad a que se refiere el párrafo anterior, se estará a lo dispuesto en el artículo 35;
 
@@ -1231,11 +1231,11 @@ Este delito será sancionado con prisión de veinte a cuarenta años y de doscie
 
 Se impondrá prisión de treinta a cuarenta años y de mil a dos mil días multa, si en el secuestro concurre cualquiera de las circunstancias siguientes:
 
-I.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad o se encuentre indefensa, por sus condiciones especiales, frente al secuestrador;
+I.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad o se encuentre indefensa, por sus condiciones especiales, frente al secuestrador.
 
-II.- Que intervengan dos o más sujetos activos;
+II.- Que intervengan dos o más sujetos activos.
 
-III.- Que el activo tenga o haya tenido, en los seis años que antecedan a la comisión del delito, funciones de seguridad pública o privada, de investigación de delitos, de procuración o administración de justicia o de ejecución de penas;
+III.- Que el activo tenga o haya tenido, en los seis años que antecedan a la comisión del delito, funciones de seguridad pública o privada, de investigación de delitos, de procuración o administración de justicia o de ejecución de penas.
 
 IV.- Que el delito se cometa en un lugar desprotegido o haciendo uso de la violencia, o bien que se apliquen actos humillantes o de tortura al secuestrado al efectuar su detención o durante el tiempo que permanezca privado de su libertad; o
 
@@ -1253,9 +1253,9 @@ Si se pone espontáneamente en libertad a la víctima, dentro de las veinticuatr
 
 a.- Se impondrá prisión de dos a diez años y de doscientos a quinientos días multa al que en relación con las conductas sancionadas por los artículos anteriores y sin el consentimiento de quienes representen o gestionen legítimamente a favor de la víctima:
 
-I.- Actúe como intermediario en las negociaciones de rescate;
+I.- Actúe como intermediario en las negociaciones de rescate.
 
-II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información.
 
 III.- Persuada a no presentar la denuncia del secuestro cometido o bien a no colaborar u obstruir la actuación de las autoridades; o
 
@@ -1485,7 +1485,7 @@ Si el valor del ganado, sus productos o subproductos, es de cuando menos ciento 
 
 c.- Se impondrá prisión de seis meses a cuatro años y multa de diez a cien días, a quien:
 
-I.- Altere o elimine las marcas en animales vivos o pieles ajenas, sin estar facultado para ello;
+I.- Altere o elimine las marcas en animales vivos o pieles ajenas, sin estar facultado para ello.
 
 II.- Marque, trasherre, señale o contraseñale animales ajenos, en cualquier parte, sin derecho para el efecto; o
 
@@ -1879,6 +1879,8 @@ A quien ejerza los actos propios de una profesión sin tener título o autorizac
 
 ### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 236.
 
 A quien por cualquier medio obligue, emplee, facilite o induzca a una persona menor de dieciocho años o incapaz, a fin de que realice actos de exhibicionismo sexual, con el objeto de que se le observe, muestre, fotografíe, filme, videograbe o de cualquier modo se generen u obtengan imágenes impresas o electrónicas, se le impondrá de seis a quince años de prisión y de quinientos a cinco mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
@@ -1897,7 +1899,7 @@ Si el delincuente ejerce violencia sobre la víctima, las penas se incrementará
 
 b.- Se impondrá de seis a quince años de prisión y de quinientos a cinco mil días multa, a quien:
 
-I.- Venda, comercialice, reproduzca, distribuya, transporte, arriende, exponga, publicite, difunda o de cualquier otro modo trafique con el material a que se refiere el artículo 236;
+I.- Venda, comercialice, reproduzca, distribuya, transporte, arriende, exponga, publicite, difunda o de cualquier otro modo trafique con el material a que se refiere el artículo 236.
 
 II.- Aporte recursos económicos o de cualquier especie o colabore de alguna manera al financiamiento, supervisión o fomento para posibilitar la ejecución de alguno de los delitos a que se refiere este capítulo; o
 
@@ -2091,7 +2093,7 @@ Al servidor público que dolosamente, con motivo de sus funciones exceda el lím
 
 ###### Artículo 262.
 
-A quien contraviniendo la ley de la materia y sin contar con la autorización o el permiso de autoridad competente, reciba dinero o cualquier otra prestación por la celebración de un acto o contrato verbal o escrito, preparatorio o definitivo, que implique la transmisión de dominio o de otro derecho respecto a inmuebles que para su fraccionamiento, división, lotificación, relotificación o desarrollo en condominio así lo requieran, se le impondrá de uno a nueve años de prisión y de cien a mil días multa.
+A quien contraviniendo la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios, y sin contar con la autorización o el permiso de autoridad competente, reciba dinero o cualquier otra prestación por la celebración de un acto o contrato verbal o escrito, preparatorio o definitivo, que implique la transmisión de dominio o de otro derecho respecto a inmuebles que para su fraccionamiento, división, lotificación, relotificación o desarrollo en condominio así lo requieran, se le impondrá de uno a nueve años de prisión y de cien a mil días multa.
 
 ###### Artículo 263.
 
@@ -2406,3 +2408,7 @@ JUAN MANUEL OLIVA RAMÍREZ.
 P.O. 13 DE AGOSTO DE 2004.
 
 Artículo Único.- el presente decreto entrará en vigor a los sesenta días siguientes contados al de su fecha de publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
