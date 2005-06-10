@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-proteccion-animal-25741"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-12"
-last_updated: "2002-07-12"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE PROTECCION ANIMAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 12 de julio del año 2002.
 
@@ -113,7 +113,7 @@ Corresponde al Ejecutivo del Estado:
 
 I.- Formular y conducir la política estatal sobre conservación y aprovechamiento sustentable de la fauna silvestre y doméstica, en forma congruente con la política nacional en la materia, y participar en el diseño y aplicación de ésta.
 
-II.- Regular el manejo, control y remediación de los problemas asociados a ejemplares o poblaciones ferales, así como la aplicación de las disposiciones en la materia, dentro de su ámbito territorial;
+II.- Regular el manejo, control y remediación de los problemas asociados a ejemplares o poblaciones federales, así como la aplicación de las disposiciones en la materia, dentro de su ámbito territorial;
 
 III.- Integrar, actualizar y dar seguimiento al Sistema Estatal de Información sobre Fauna Silvestre y Doméstica, y compilar la información sobre los usos y formas de aprovechamiento de ejemplares, partes y derivados de la fauna silvestre con fines de subsistencia por parte de las comunidades rurales;
 
@@ -123,9 +123,9 @@ V.- Fomentar la creación de sociedades, asociaciones o grupos de protección de
 
 VI.- Crear y administrar el Registro Estatal de personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales silvestres, exóticos y domésticos no destinados al consumo humano, y en general de toda organización relacionada con la conservación y aprovechamiento sustentable de la fauna silvestre;
 
-VII.- Promover campañas permanentes de difusión en materia de protección animal y de conservación y respeto a la fauna silvestre;
+VII.- Promover campañas permanentes de difusión en materia de protección animal y de conservación y respeto ala fauna silvestre;
 
-VIII.- Gestionar y promover ante las autoridades educativas federales y estatales la incorporación de temas y programas de estudio en los niveles básicos, relativos al respeto, cuidado y protección de los animales y de la fauna silvestre en general;
+VIII.- Gestionar y promover ante las autoridades educativas federales y estatales la incorporación de temas y programas de estudio en los niveles básicos, relativos al respecto, cuidado y protección de los animales y de la fauna silvestre en general;
 
 IX.- Brindar, en la medida de sus posibilidades presupuestales, el apoyo, asesoría técnica y capacitación a instituciones públicas y privadas y a las comunidades rurales para el desarrollo de actividades de conservación y aprovechamiento sustentable de la fauna silvestre, la elaboración de planes de manejo, el desarrollo de estudios de poblaciones, los métodos y procedimientos de protección a los animales y la normatividad en materia de autorizaciones ante las diferentes instancias de gobierno;
 
@@ -143,11 +143,13 @@ XV.- Proponer a la Federación la calificación de especies o poblaciones bajo c
 
 XVI.- Suscribir convenios con los Ayuntamientos para la aplicación de la presente ley; y
 
-XVII.- Recibir las denuncias sobre maltrato a los animales y demás infracciones a la presente ley;
+XVII.- (DEROGADA, P.O. 10 DE JUNIO DE 2005)
 
-XVIII.- Realizar visitas de inspección en domicilios particulares y establecimientos de entretenimiento, servicio o comercio, o servicio como circos, laboratorios, rastros, criaderos, empresas que ofrecen seguridad privada, cuerpos policíacos o cualquier otro en donde se utilicen animales, con el objeto de verificar que las condiciones en que se encuentran sean las establecidas por la ley y sus disposiciones reglamentarias; y solicitar la cooperación de las autoridades municipales para realizar dichas inspecciones, en los casos de urgencia;
+XVIII.- (DEROGADA, P.O. 10 DE JUNIO DE 2005)
 
-XIX.- Imponer las sanciones correspondientes en caso de que se comprueben infracciones a ésta ley, a través de la autoridad fiscalizadora correspondiente; y
+XIX.- (DEROGADA, P.O. 10 DE JUNIO DE 2005)
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
 XX.- Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
@@ -171,7 +173,21 @@ V.- Coordinarse con las autoridades federales y estatales competentes, en las ma
 
 VI.- Emitir recomendaciones a las autoridades competentes en materia de fauna silvestre, con el propósito de promover el cumplimiento de la legislación respectiva y considerar las que reciba de otras autoridades sobre su propia actuación; y
 
-VII.- Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+VII.- Recibir las denuncias sobre maltrato a los animales y demás infracciones a la presente Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+VIII.- Realizar visitas de inspección de domicilios particulares y establecimientos de entretenimiento, servicio y comercio, u otros servicios, como circos, laboratorios, rastros, criaderos, empresas que ofrecen seguridad privada, cuerpos policíacos o cualquier otro en donde se utilicen animales, con el objeto de verificar que las condiciones en que se encuentran sean de las establecidas por la ley y sus disposiciones reglamentarias;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+IX.- Imponer las sanciones correspondientes, en caso de que se comprueben infracciones a esta ley, a través de la autoridad fiscalizadora correspondiente; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+X.- Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
 ###### Artículo 10.
 
@@ -739,11 +755,13 @@ Cualquier persona física o colectiva podrá denunciar ante el Departamento las 
 
 La autoridad distinta al Departamento que reciba la denuncia, la turnará de inmediato a dicha dependencia, sin mayor pronunciamiento.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 92.
 
 La denuncia contendrá los datos de identificación del denunciante y del denunciado y los hechos y omisiones materia de la infracción.
 
-La admisión de la denuncia no es condicionable al acreditamiento de afectación o interés personal y directo.
+La admisión de la denuncia no es condicionable al acreditamiento, afectación o interés personal y directo.
 
 ###### Artículo 93.
 
@@ -972,3 +990,11 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+PRIMERO. La presente Ley iniciará su vigencia el día siguiente a su publicación en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta Ley.
