@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2003-05-21"
+last_updated: "2005-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
+Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -982,9 +982,13 @@ XXVIII.- Fomentar el aprovechamiento de los recursos minerales y llevar el catas
 
 XXIX.- Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 10 DE JUNIO DE 2005)</small>
 
-XXX.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales, en coordinación con las Entidades Federativas, para que se facilite su traslado con infraestructura industrial, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2005)</small>
+
+XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -1878,7 +1882,7 @@ TERCERO.- A partir de la entrada en vigor del presente Decreto, se suprime la re
 
 CUARTO.- A partir de la entrada en vigor del presente Decreto, el Consejo Directivo del Instituto Nacional Indigenista, será presidido por el Secretario de Desarrollo Social.
 
-QUINTO.- El personal, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la Secretaría de Desarrollo Urbano y Ecología utiliza para la atención de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este Decreto se transfieren a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, mismos que pasarán a estas dependencias. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que tienen asignadas las funciones a que se refieren las fracciones II a VI y VIII del artículo 32 modificado.También pasarán a la Secretaría de Desarrollo Social, el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Educación Pública que tienen asignadas las funciones a que se refiere la fracción VII del artículo 32 modificado.
+QUINTO.- El personal, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la Secretaría de Desarrollo Urbano y Ecología utiliza para la atención de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este Decreto se transfieren a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, mismos que pasarán a estas dependencias. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que tienen asignadas las funciones a que se refieren las fracciones II a VI y VIII del artículo 32 modificado. También pasarán a la Secretaría de Desarrollo Social, el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Educación Pública que tienen asignadas las funciones a que se refiere la fracción VII del artículo 32 modificado.
 
 SEXTO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pase de una dependencia a otra, se respetarán conforme a la ley.
 
@@ -2064,4 +2068,8 @@ Artículo Tercero.- El presente decreto entrará en vigor al día siguiente de s
 
 D.O.F. 21 DE MAYO DE 2003.
 
-Unico.- Los artículos segundo y tercero de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Único.- Los artículos segundo y tercero de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
