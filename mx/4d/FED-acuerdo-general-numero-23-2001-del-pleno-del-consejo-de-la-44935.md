@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-04-29"
+last_updated: "2005-06-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -659,13 +659,13 @@ El juzgado de distrito en el Estado de Coahuila, con residencia en Monclova, eje
 
 Los juzgados de distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL 21/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JUNIO DE 2005)</small>
 
-IX.- NOVENO CIRCUITO:
+IX.- Noveno Circuito:
 
-Los juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
+Los juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Ciudad Fernández, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Rioverde, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
 
-El juzgado de distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Ciudad Fernández, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, Rioverde, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo, y Xilitla.
+El juzgado de distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo, y Xilitla.
 
 X.- DECIMO CIRCUITO:
 
@@ -1438,3 +1438,9 @@ PRIMERO.- Este acuerdo entrará en vigor el doce de mayo de dos mil cinco.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- En los términos del presente acuerdo, se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al primer y segundo tribunales colegiados del vigésimo cuarto Circuito, así como a la Oficina de Correspondencia Común de los Tribunales Colegiados del Vigésimo Cuarto Circuito.
+
+D.O.F. 10 DE JUNIO DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el dieciséis de junio de dos mil cinco.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
