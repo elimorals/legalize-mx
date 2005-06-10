@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-que-establece-el-derecho-a-la-pension-3571
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2005-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35718&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-29"
 
 REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS RESIDENTES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JUNIO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 31 de diciembre de 2003.
 
@@ -48,7 +48,9 @@ I. Ley.- La Ley que Establece el Derecho a la Pensión Alimentaria para los Adul
 
 II. Reglamento.- Reglamento de la Ley que Establece el Derecho a la Pensión Alimentaria para los Adultos Mayores de setenta años residentes en el Distrito Federal.
 
-III. Adulto Mayor.- Toda persona mayor de setenta años de edad, con una antigüedad mínima de tres años como residente permanente en el Distrito Federal.
+> <small>(REFORMADA, D.O.F 10 DE JUNIO DE 2005)</small>
+
+III. Adulto Mayor.- Toda persona de setenta años de edad y más, con una antigüedad mínima de tres años como residente permanente en el Distrito Federal.
 
 IV. Pensión.- Pensión Alimentaria para los Adultos Mayores de setenta años.
 
@@ -76,6 +78,12 @@ El monto de la Pensión, será el equivalente a la cantidad correspondiente al 5
 
 La Secretaría, autorizará y expedirá las tarjetas electrónicas, que serán el medio por el cual los beneficiarios recibirán la Pensión.
 
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+
+###### Artículo 7°.
+
+La Secretaría depositará mensualmente en la tarjeta electrónica la cantidad correspondiente a la Pensión del Adulto Mayor, la que podrá ser utilizada en los principales centros comerciales autorizados.
+
 ###### Articulo 7º.
 
 La Secretaría depositará mensualmente en la tarjeta electrónica la cantidad correspondiente a la Pensión del Adulto Mayor, la que podrá ser utilizada en los principales centros comerciales autorizados en el Distrito Federal.
@@ -96,7 +104,9 @@ I. Tener setenta años de edad o más, al momento de solicitar su inscripción a
 
 II. Radicar permanentemente en el Distrito Federal, con una antigüedad mínima de tres años de residencia al momento de la solicitud de la Pensión, lo que deberá acreditar a través de cualquiera de los medios reconocidos por la Ley y el presente Reglamento.
 
-III. Acreditar mediante identificación o documento oficial, la edad mencionada en la fracción primera de este artículo, excepto en aquellos casos en que la avanzada edad y condición socioeconómica justifique plenamente la carencia de dicha documentación por parte del Adulto Mayor, en cuyo caso manifestará bajo protesta que reúne los requisitos señalados en los incisos I y II de este artículo.
+> <small>(REFORMADA, D.O.F 10 DE JUNIO DE 2005)</small>
+
+III. Acreditar mediante identificación o documentación idónea, la edad mencionada en la fracción primera de este artículo, excepto en aquellos casos en que la avanzada edad y/o condición socioeconómica justifique plenamente la carencia de dicha documentación por parte del Adulto Mayor, en cuyo caso manifestará bajo protesta de decir verdad que reúne los requisitos señalados en los incisos I y II de este artículo.
 
 IV. Aceptar por escrito los compromisos que nacen con motivo de su incorporación al padrón de beneficiarios de la Pensión alimentaria.
 
@@ -131,6 +141,8 @@ En caso de no encontrar a la persona adulta mayor al momento de la visita domici
 La notificación se dejará con un familiar o vecino del Adulto Mayor, quien manifestará expresamente su voluntad de asumirla responsabilidad de hacerle llegar la notificación.
 
 ### CAPÍTULO II. DE LA DESIGNACIÓN DE REPRESENTANTES DEL ADULTO MAYOR
+
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
 
 ###### Artículo 15.
 
@@ -168,19 +180,41 @@ En caso de que el pensionado, decida cambiar de representante o requiera nombrar
 
 ###### Artículo 22.
 
-En caso de que el Adulto Mayor manifieste que por cuestiones físicas o de otra índole le es imposible hacer uso de manera personal de la Pensión, podrá nombrar un representante, para que en su nombre haga uso del beneficio.
+En caso de que al Adulto Mayor le sea imposible hacer uso de manera personal de la tarjeta de la Pensión o bien, que exprese su voluntad de tener un representante, podrá nombrar un representante de entre las opciones que este precepto prevé, para que en su nombre realice las compras requeridas en su beneficio a través de la tarjeta plástica.
 
-En la Carta Compromiso quedará asentado el consentimiento del Adulto Mayor de contar con un representante a través del cual hará efectivo el beneficio de la Pensión; asimismo quedará enterado que el representante firmará la tarjeta plástica y la Carta Compromiso.
+a) Familiar.
+
+b) Amistad.
+
+c) Trabajador del asilo.
+
+d) Representante Voluntario.
 
 ###### Artículo 23.
 
 Si el Adulto Mayor padece discapacidad mental, pero se ha corroborado que cumple con los requisitos establecidos, la Institución solicitará a los familiares que alguno de ellos funja como representante, haciendo hincapié que el beneficio es para el Adulto Mayor y que se realizarán visitas de seguimiento para su verificación.
 
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 24.
 
-En caso de que el Adulto Mayor se encuentre en un asilo, esté incapacitado mentalmente y no cuente con un familiar que lo represente, la Institución solicitará a la autoridad responsable del asilo designe un representante para el Adulto Mayor. La persona que funja como representante firmará una carta de las responsabilidades que adquiere.
+En caso de que el Adulto Mayor se encuentre en un asilo, esté incapacitado mentalmente y no cuente con un familiar que lo represente, la Institución solicitará a la autoridad responsable del asilo designe un representante para el Adulto Mayor, de entre las opciones que en este precepto se mencionan:
 
-Con la finalidad de verificar que el beneficio de la Pensión es utilizado para el bienestar del Adulto Mayor, la Institución podrá solicitar en cualquier momento al representante, la comprobación de gastos realizados con la tarjeta plástica, los que estarán integrados en un expediente que contenga los pormenores de la forma en que se han utilizado los recursos de la Pensión.
+a) Amistad.
+
+b) Trabajador del asilo.
+
+c) Representante Voluntario.
+
+El asilo deberá informar, por escrito, a la Institución la designación del representante, para que se realicen los trámites correspondientes.
+
+En el caso de que la autoridad del asilo no desee o no le sea posible designar al representante, la Institución designará un representante voluntario.
+
+En el caso de que el asilo no permita el acceso para que la Institución visite al pensionado en tres ocasiones consecutivas, se procederá a la suspensión temporal de la pensión hasta aclarar la situación.
+
+La persona que funja como representante firmará una carta compromiso de las responsabilidades que adquiere y la tarjeta plástica.
+
+Con la finalidad de verificar que el beneficio de la Pensión es utilizado para el bienestar del Adulto Mayor, la Institución podrá solicitar en cualquier momento al representante la comprobación de los gastos realizados con la tarjeta plástica, los que estarán integrados en un expediente que contenga los pormenores de la forma en que se han utilizado los recursos de la Pensión.
 
 ### CAPÍTULO IV. DE LA BAJA DEL PADRÓN DE BENEFICIARIOS DE LA PENSIÓN ALIMENTARIA
 
@@ -190,7 +224,9 @@ Son compromisos del Pensionado, los siguientes:
 
 I. Firmar en original y por duplicado la Carta Compromiso por sí o por su representante al momento de recibir la tarjeta electrónica. Un original será entregado al pensionado y el otro será resguardado en el archivo de la Institución.
 
-II. Utilizar la tarjeta electrónica, en las tiendas de autoservicio autorizadas en el Distrito Federal, sin exceder del monto total disponible en el momento de su utilización.
+> <small>(REFORMADA, D.O.F 10 DE JUNIO DE 2005)</small>
+
+II. Utilizar la tarjeta electrónica, en los centros comerciales autorizados, sin exceder del monto total disponible en el momento de su utilización.
 
 III. Emplear la tarjeta electrónica, preferentemente, para la compra de productos alimenticios.
 
@@ -216,11 +252,11 @@ XI. Cumplir con los compromisos establecidos en la Carta Compromiso, los que cob
 
 Para verificar la residencia, disfrute del beneficio de la pensión, sobrevivencia y atención de dudas o problemas relacionados con el derecho a la Pensión alimentaria, así como para recopilar información que requiera la Secretaría o la propia Institución a fin de implementar acciones y estrategias orientadas a un mejor servicio a los adultos mayores pensionados, la Institución dará seguimiento permanente a los beneficiarios, a través de visitas domiciliarias.
 
-###### Articulo 27.
+###### Artículo 27.
 
 Las visitas domiciliarias de seguimiento serán programadas, de acuerdo a las cargas de trabajo del personal asignado para tal efecto, así como a la situación de riesgo en que se encuentre el Adulto Mayor. Asimismo, se realizarán visitas para atención de casos especiales reportados por familiares, vecinos y/o personas cercanas al Adulto Mayor.
 
-###### Articulo 28.
+###### Artículo 28.
 
 El personal asignado para efectuar las visitas domiciliarias de seguimiento, contará con una identificación expedida por la Institución, la que deberá mostrar al Pensionado, su representante o familiares en el acto de visita domiciliaria.
 
@@ -244,7 +280,9 @@ Son causas de baja del padrón de beneficiarios de la pensión:
 
 I. Cuando al menos después de tres visitas consecutivas en días y horarios diferentes, la persona adulta mayor no es localizada en el domicilio reportado como residencia del mismo, según solicitud de inscripción y/o Carta Compromiso.
 
-II. Cuando la persona adulta mayor haya cambiado de domicilio sin notificarlo a las instancias correspondientes y no se pueda indagar el nuevo domicilio o éste sea fuera del Distrito Federal.
+> <small>(REFORMADA, D.O.F 10 DE JUNIO DE 2005)</small>
+
+II. Cuando la persona adulta mayor haya cambiado de domicilio sin notificarlo oportunamente a las instancias correspondientes y no se pueda indagar el nuevo domicilio o éste sea fuera del Distrito Federal.
 
 III. Cuando se compruebe documentalmente la existencia de una alta repetida.
 
@@ -276,7 +314,7 @@ Las causas de baja de pensión, excepto los fallecimientos notificados por famil
 
 En ningún caso el personal de la Institución retirará la tarjeta al pensionado o representante.
 
-###### Articulo 36.
+###### Artículo 36.
 
 Asimismo, si durante la visita domiciliaria de seguimiento, se corrobora cualquiera de las causales de baja, la Institución procederá a la baja del padrón de beneficiarios de la Pensión, previa notificación correspondiente.
 
@@ -338,6 +376,8 @@ X Informar a la Secretaría sobre el desarrollo de las acciones de ejecución de
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 42.
 
 El Jefe de Gobierno del Distrito Federal deberá incluir en el Proyecto de Presupuesto (sic) Egresos del Distrito Federal, la asignación que garantice, efectivamente, el derecho a la Pensión Alimentaria a todos los adultos mayores de setenta años, residentes en el Distrito Federal.
@@ -368,27 +408,35 @@ La Institución actualizará permanentemente los archivos del padrón de benefic
 
 Los servidores públicos asignados por la Secretaría y por la Institución para la ejecución de la Ley y el Reglamento, deberán actuar con apego a los principios de igualdad, imparcialidad y transparencia, así como a lo establecido al presente Reglamento, de no hacerlo serán sancionados conforme a los ordenamientos legales aplicables al caso.
 
-## TÍTULO QUINTO. DE LA REINSCRIPCIÓN AL PADRÓN DE BENEFICIARIOS
+> <small>(REFORMADA SU DENOMINACION, D.O.F 10 DE JUNIO DE 2005)</small>
+
+## TÍTULO QUINTO. DE LA REINCORPORACIÓN AL PADRÓN DE BENEFICIARIOS
 
 ###### Artículo 49.
 
-En contra de la baja del padrón de beneficiarios de la pensión alimentaria, el Adulto Mayor y/o representante podrá solicitar hasta por tres ocasiones más, su reinscripción al padrón de beneficiarios. Dicha solicitud se realizará ante el superior jerárquico de la autoridad que emitió la baja.
+En contra de la baja del padrón de beneficiarios de la pensión alimentaria, el Adulto Mayor y/o representante podrá solicitar hasta por tres ocasiones más, su reincorporación al padrón de beneficiarios. Dicha solicitud se realizará por escrito ante el superior jerárquico de la autoridad que emitió la baja.
+
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
 
 ###### Artículo 50.
 
-El escrito de solicitud de reinscripción deberá expresar los motivos por los que no está de acuerdo con la baja. Asimismo, deberá estar acompañado por los documentos que sustenten su motivación.
+El escrito de solicitud de reincorporación deberá expresar los motivos por los que no está de acuerdo con la baja. Asimismo, deberá estar acompañado por los documentos que sustenten su motivación.
+
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
 
 ###### Artículo 51.
 
-Una vez recibida (sic) el escrito de solicitud de reinscripción, el superior jerárquico ordenará las investigaciones que correspondan al caso. Asimismo, contará con diez días hábiles para resolverla, contados a partir de que se presente la solicitud de reinscripción.
+Una vez recibido el escrito de solicitud de reincorporación, el superior jerárquico ordenará las investigaciones que correspondan al caso. Asimismo, contará con diez días hábiles para resolverla, contados a partir de que se reciba formalmente la solicitud de reincorporación.
 
 ###### Artículo 52.
 
 La respuesta a la solicitud de reinscripción que emita el superior jerárquico deberá estar fundada y motivada y podrá confirmar o revocar la baja del padrón de beneficiarios de la pensión alimentaria.
 
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 53.
 
-Si el superior jerárquico ordena la reinscripción en el padrón de beneficiarios de la pensión alimentaria, ésta deberá cumplirse en un plazo de 10 días hábiles contados a partir de que se haya mandado la reinscripción.
+Si el superior jerárquico ordena la reincorporación en el padrón de beneficiarios de la pensión alimentaria, ésta deberá cumplirse en un plazo de 20 días hábiles contados a partir de que haya mandado la reincorporación y con apego a los calendarios establecidos para altas y bajas del padrón de beneficiarios de la pensión alimentaria.
 
 ## TRANSITORIOS
 
@@ -397,3 +445,9 @@ PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente d
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Reglamento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintinueve días del mes de diciembre de dos mil tres.- ANDRÉS MANUEL LÓPEZ OBRADOR, JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHISTINA LAURELL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F 10 DE JUNIO DE 2005.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
