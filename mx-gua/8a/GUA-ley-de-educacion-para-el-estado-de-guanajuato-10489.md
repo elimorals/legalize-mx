@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-10489"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-13"
-last_updated: "2000-06-23"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 1996.
 
@@ -413,7 +413,7 @@ IV.- Establecer fuentes complementarias de financiamiento que apoyen los program
 
 En cada institución educativa los padres de familia, tutores o quienes ejerzan la patria potestad, podrán constituirse en asociaciones de padres de familia las que tendrán por objeto:
 
-I.- Colaborar entre sí para el cumplimiento de las obligaciones que comunmente les correspondan;
+I.- Colaborar entre sí para el cumplimiento de las obligaciones que comúnmente les correspondan;
 
 II.- Procurar el respeto al ejercicio de los derechos de los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos;
 
@@ -781,9 +781,11 @@ Para el cumplimiento de lo anterior atenderán los conceptos de libertad de cát
 
 El sistema estatal de formación, actualización, capacitación y superación profesional para educadores estará integrado por las instituciones oficiales y particulares con reconocimiento de validez oficial de estudios o autorización dedicadas a la formación, actualización y capacitación de educadores de cualquier nivel académico o modalidad.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 82.
 
-La Secretaría por conducto del instituto superior de estudios pedagógicos del Estado de Guanajuato, coordinará a excepción de las universidades autónomas por Ley, el sistema de formación, actualización, capacitación y superación profesional para educadores en la entidad y su finalidad será lograr la formación integral de los mismos.
+La Secretaría coordinará, a excepción de las universidades autónomas por Ley, el sistema de formación, actualización, capacitación y superación profesional para educadores en la entidad y su finalidad será lograr la formación integral de los mismos.
 
 ### CAPITULO SEXTO. DE LOS SERVICIOS DE EDUCACION ESPECIALIZADA
 
@@ -995,7 +997,7 @@ Atendiendo a la gravedad de la infracción, la Secretaría podrá aplicar como s
 
 ###### Artículo 113.
 
-Cuando la Secretaría considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor en el domicilio oficial de la institución para que dentro de un plazo de quince días naturales manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos y aquellos que considere idoneos para su defensa.
+Cuando la Secretaría considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor en el domicilio oficial de la institución para que dentro de un plazo de quince días naturales manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos y aquellos que considere idóneos para su defensa.
 
 Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no del infractor y si se trata de reincidencia.
 
@@ -1116,3 +1118,9 @@ P.O. 23 DE JUNIO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 2005.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación ene. Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
