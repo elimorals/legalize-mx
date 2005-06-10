@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2004-12-27"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -451,15 +451,15 @@ III.- Imposibiliten, por cualquier medio, el conocimiento de las operaciones que
 
 Las infracciones a las disposiciones de este Capítulo se sancionarán en los términos del Código Fiscal para el Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 47.
 
-La administración del 90% de los ingresos que se obtengan de este impuesto, corresponderá a la Coordinadora de Turismo.
+El 90% de los ingresos que se obtengan de este impuesto, se destinarán por conducto de la dependencia respectiva, a la promoción y difusión de la imagen turística del Estado y municipios de Guanajuato, a la inversión y desarrollo en paraderos turísticos públicos, así como la participación del Estado en los fondos concurrentes con los gobiernos federal y municipales y el sector privado en esta materia.
 
-En la administración de los ingresos señalados en el párrafo anterior, la Coordinadora de Turismo tendrá únicamente como finalidades: la promoción y difusión de la imagen turística del Estado y municipios de Guanajuato, la inversión y desarrollo en paraderos turísticos públicos, así como la participación del Estado, en los fondos concurrentes con los gobiernos federal y municipales y el sector privado en esta materia.
+La Secretaría de Finanzas y Administración asignará a la dependencia correspondiente los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto en la Oficina Recaudadora.
 
-La Secretaría de Finanzas y Administración entregará a la Coordinadora de Turismo los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto en la Oficina Recaudadora.
-
-En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto la Coordinadora de Turismo deberá presentar a la Secretaría de Finanzas y Administración un informe financiero en forma trimestral.
+En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto se deberá presentar a la Secretaría de Finanzas y Administración un informe financiero en forma trimestral.
 
 ###### Artículo 48.
 
@@ -537,13 +537,17 @@ Para obtener la baja definitiva del vehículo en los casos de cambio de propieta
 
 Las personas físicas y las morales que usen las carreteras y puentes de cuota en operación pagarán derechos conforme a las tarifas que al efecto establezca la Ley de Ingresos para el Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Artículo 57.
 
-El organismo público descentralizado a que se refiere este Capítulo, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, la tarifa vigente para el pago de los derechos correspondientes. Asimismo, podrá celebrar convenios y promociones para el pago de los derechos correspondientes por el uso de las carreteras y puentes estatales de cuota.
+La Secretaría de Finanzas y Administración, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, la tarifa vigente para el pago de los derechos correspondientes por el uso de las carreteras y puentes estatales de cuota. Asimismo, podrá proponer la celebración de convenios, y efectuar promociones para el pago de dichos derechos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Artículo 58.
 
-Estos derechos serán cubiertos a través del organismo descentralizado Carreteras y Puentes Estatales de Cuota de Guanajuato, quien los deberá enterar a la Secretaría de Finanzas y Administración.
+La Secretaría de Finanzas y Administración recaudará los ingresos a que se refiere el artículo anterior.
 
 ###### Artículo 59.
 
@@ -796,3 +800,11 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+Artículo Primero.- El presente decreto iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
