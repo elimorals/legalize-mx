@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-atencion-a-la-violencia-intrafamiliar-en-el-estado-16354
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-04"
-last_updated: "2000-02-04"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE ATENCION A LA VIOLENCIA INTRAFAMILIAR EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ASISTENCIA, LA PREVENCION Y LA ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL EL 10 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 4 de febrero de 2000.
 
@@ -566,3 +568,13 @@ LIC. RAMON MARTIN HUERTA
 EL SECRETARIO DE GOBIERNO
 
 LIC. ANTONIO OBREGON PADILLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Con la entrada en vigor de la presente Ley se abroga la Ley de Atención a la Violencia Intrafamiliar para el Estado de Guanajuato.
+
+Artículo Tercero.- Para efectos del artículo 52, la referencia que se hace a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, se entenderá referida a la Ley de Responsabilidades de los Servidores Públicos, en tanto aquélla entra en vigor.
