@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-economico-para-el-estado-de-baja-california-1094
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-08"
-last_updated: "1996-11-08"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL PERIODICO OFICIAL EL 10 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de noviembre de 1996.
 
@@ -368,3 +370,31 @@ LIC. HECTOR TERAN TERAN
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RODOLFO VALDEZ GUTIERREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley de Fomento Económico para el Estado de Baja California, publicada en el Periódico Oficial del Estado del 8 de noviembre de 1996 y el Reglamento de los Incentivos Previstos en la Ley de Fomento Económico para el Estado de Baja California, publicado en el Periódico Oficial del Estado el día 9 de mayo de 1997.
+
+###### ARTÍCULO TERCERO.
+
+El Titular de la Secretaría deberá convocar en un plazo máximo de 30 días, a los miembros del Comité, contados a partir de la publicación de la Presente Ley, a efecto de que celebren la sesión de instalación de dicho órgano. Asimismo para tales efectos y dentro del referido plazo, deberá designar a los dos representantes de las instituciones de educación superior.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor de la presente Ley, deberá expedir el Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto se expida el Reglamento la Secretaría y la Secretaría de Planeación y Finanzas, podrán emitir las disposiciones de carácter general que consideren necesarias para la aplicación de la Ley.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto se expida el Reglamento, el Comité acordará las medidas tendientes a regular su funcionamiento y el de sus órganos de trabajo.
