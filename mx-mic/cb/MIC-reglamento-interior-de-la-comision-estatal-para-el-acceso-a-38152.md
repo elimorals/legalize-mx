@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-para-el-acceso-a-381
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-19"
-last_updated: "2004-02-19"
+last_updated: "2005-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 10 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 19 de febrero de 2004.
 
@@ -227,7 +229,7 @@ XXIX. Autorizar la constitución de las unidades auxiliares que considere pertin
 
 XXX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y en favor de la Comisión; y,
 
-XXXI. Las que señale la Ley, este Reglament (sic), y demás disposiciones legales aplicables.
+XXXI. Las que señale la Ley, este Reglament, (sic) y demás disposiciones legales aplicables.
 
 ### CAPÍTULO CUARTO. DE LOS COMISIONADOS
 
@@ -706,3 +708,19 @@ Comisionada
 (Firmado)
 
 La ciudadana Licenciada Alma Noemí García Justiniano, Secretaria de Acuerdos de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, hace constar y certifica: Que el presente Reglamento Interior de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, fue aprobado por unanimidad de votos de los Comisionados José Antonio Isidro Alvarado Zavala, María Teresa Cortés Zavala y Lucía Villalón Alejo, en sesión ordinaria del Pleno celebrada el día 12 doce de enero del 2004 dos mil cuatro, en Morelia, Michoacán de Ocampo.- Morelia, Michoacán 12 doce de enero del 2004 dos mil cuatro.- Doy fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema del Servicio Civil de Carrera se aplicará en forma progresiva, según lo permitan las revisiones presupuestales y la integración paulatina de la estructura orgánica de la Comisión. En todo caso, deberá estar debidamente integrado en un plazo no mayor a dos años.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Reglamento Interior, quedará abrogado el Reglamento Interior de la Comisión aprobado el 12 doce de enero del 2004 dos mil cuatro por el Pleno de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo y publicado en Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 19 diecinueve de febrero del año 2004 dos mil cuatro.
