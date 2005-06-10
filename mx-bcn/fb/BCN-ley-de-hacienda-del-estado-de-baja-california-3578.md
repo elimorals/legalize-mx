@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2004-04-02"
+last_updated: "2005-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1325,31 +1325,11 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 #### SECCION PRIMERA. Del Impuesto Sobre Remuneraciones al Trabajo Personal
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 151
 
-13.- Es objeto del Impuesto, la realización de pagos por concepto de remuneraciones al trabajo personal, prestado bajo la dirección o dependencia de un tercero dentro del territorio del Estado, excepto cuando se identifiquen como necesarios para la realización de los siguientes actos o actividades:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado, excepto los expresamente señalados en esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
-
-b) Operaciones de maquila para exportación en los términos de la Legislación Aduanera de los Estados Unidos Mexicanos, incluyendo aquéllas operaciones de maquila que se lleven a cabo bajo un programa distinto al de maquila para exportación, autorizado por la autoridad competente.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
-
-La excepción a que se refiere este Inciso sólo será aplicable respecto de los pagos que se efectúen durante el período preoperativo, es decir, aquellos destinados a la investigación y desarrollo relacionados con el diseño, elaboración, mejoramiento, empaque o distribución de un producto, siempre que se efectúen antes de que el contribuyente realice su primera exportación; y de los que se realicen durante los dos primeros años de haber iniciado la primera exportación.
-
-c).- Enajenación de bienes o prestación de servicios que se realicen por residentes en el Estado, a quien resida en una entidad federativa diferente a Baja California, siempre que la entrega material de bienes o la prestación de servicios se lleve a cabo fuera del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
-
-Cuando los pagos por remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un tercero, no sean plenamente identificables como necesarios para la realización de los actos no gravados a que se refiere este Artículo, se podrán considerar como tales, en el porciento que el valor de dichos actos represente en el valor total de los que el contribuyente realice en el período correspondiente.
-
-Para los efectos de este Artículo se aplicarán supletoriamente en lo conducente las normas de la Ley del Impuesto al Valor Agregado, vigente a nivel federal.
+13.- Es objeto de este impuesto, la realización de pagos por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección o dependencia de un tercero.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
@@ -1497,7 +1477,7 @@ III.- Proporcionar a las Autoridades Fiscales los datos e informes que les sean 
 
 IV.- Recibir las visitas de inspección y proporcionar a las Autoridades Fiscales comisionadas para el efecto, todos los informes y documentos que soliciten para el desempeño de sus funciones.
 
-V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser prenumerada, señalando como mínimo, nombre, dirección, actividad y numero de registro.
+V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser prenumerada, señalando como mínimo, nombre, dirección, actividad y número de registro.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -1897,37 +1877,41 @@ IV.- Expropiaciones;
 
 V.- Aportaciones extraordinarias de los Entes Públicos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACION, P.O. 25 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JUNIO DE 2005)</small>
 
-## TITULO IX
+## TÍTULO NOVENO. DE LOS ESTIMULOS Y LAS EXENCIONES DE PAGO
 
-EXENCIONES PARA JUBILADOS, PENSIONADOS E INDIGENTES MAYORES DE SESENTA AÑOS, PERSONAS VIUDAS EN SITUACION DE INDIGENCIA MAYORES DE CINCUENTA AÑOS Y DISCAPACITADOS
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+###### ARTÍCULO 172.
 
-###### ARTICULO 172.
+Los jubilados, pensionados e indigentes mayores de sesenta años, personas viudas en situación de indigencia mayores de cincuenta años, personas con capacidades diferentes, y empresas, quedarán exentas del pago de contribuciones a que se refiere este Título, en los términos y condiciones que en el mismo se establecen.
 
-Para efectos de esta Ley se consideran jubilados o pensionados, aquellas personas que acrediten la calidad correspondiente a través de la documentación oficial expedida por las Instituciones Públicas de Seguridad Social que a continuación se señalan:
+Para efectos de esta Ley se consideran:
 
-I.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS TRABAJADORES DEL ESTADO DE BAJA CALIFORNIA;
+I.- Jubilados o Pensionados: aquellas personas que acreditan la calidad correspondiente a través de la documentación oficial expedida por las Instituciones Públicas de Seguridad Social que a continuación se señalan:
 
-II.- INSTITUTO MEXICANO DEL SEGURO SOCIAL;
+a) Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California.
 
-III.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO;
+b) Instituto Mexicano del Seguro Social.
 
-IV.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LAS FUERZAS ARMADAS MEXICANAS, DE PETROLEOS MEXICANOS, DE LA COMISION FEDERAL DE ELECTRICIDAD Y DE FERROCARRILES NACIONALES DE MEXICO;
+c) Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-V.- OTRAS INSTITUCIONES DE SEGURIDAD SOCIAL QUE PRESTEN ESTOS SERVICIOS EN LAS DIVERSAS ENTIDADES FEDERATIVAS DEL PAIS, O A DIVERSAS AGRUPACIONES SINDICALES.
+d) Institutos de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2000)</small>
+e) Otras instituciones de seguridad social que presten estos servicios en las diversas entidades federativas del país, o a diversas agrupaciones sindicales.
 
-Tratándose de personas indigentes mayores de sesenta años y personas viudas en situación de indigencia mayores de 50 años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, la viudez con el acta de defunción del cónyuge, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado. Este mismo Organismo expedirá la constancia para acreditar en el caso de personas discapacitadas, que no son económicamente productivas o que siéndolo, sus ingresos no rebasan el equivalente a 5 veces el salario mínimo y, el estado de discapacidad será acreditado mediante certificado médico, expedido por cualquier Institución Pública de Salud, con domicilio en el Estado.
+II.- Indigentes mayores de 60 años y personas viudas en situación de indigencia mayores de 50 años: las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de las Personas Adultas Mayores; la viudez con el acta de defunción del cónyuge, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema Estatal para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+III.- Personas con capacidades diferentes: Las personas que acrediten su discapacidad mediante certificado médico, expedido por cualquier institución pública de salud con domicilio en el Estado. El Sistema Estatal para el Desarrollo Integral de la Familia, expedirá la constancia para acreditar que no son económicamente activas o que siéndolo, sus ingresos no rebasan el equivalente a 5 veces el salario mínimo, y
 
-###### ARTICULO 173.
+IV.- Empresa: La definida como tal en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
 
-Las exenciones que este Título otorga a los jubilados y pensionados, así como los discapacitados que realicen alguna actividad económicamente productiva siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente, serán del 50% del monto del crédito fiscal de las contribuciones reguladas en esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 173.
+
+Las exenciones que este Título otorga a los Jubilados y Pensionados, así como a las Personas con Capacidades Diferentes que realicen alguna actividad económicamente activa, siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente, serán del 50% del monto del crédito fiscal de las contribuciones reguladas por esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -1959,21 +1943,85 @@ VI.- DERECHOS POR LA LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y CERTIF
 
 VII.- IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTICULO 174.
+###### ARTÍCULO 174.
 
-En el caso de las personas indigentes mayores de sesenta años, personas viudas en situación de indigencia mayores de 50 años, y de discapacitados que no desempeñen actividades productivas, respecto a las contribuciones estatales señaladas en el Artículo 173 de esta Ley estarán exentas al 100%.
+En el caso de las personas indigentes mayores de 60 años, personas viudas en situación de indigencia, mayores de 50 años, y de las Personas con Capacidades Diferentes que no desempeñen actividades productivas, respecto a las contribuciones estatales señaladas en el artículo 173 de esta Ley, estarán exentas al 100%.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+Para los efectos de las contribuciones de mejoras, se estará a lo dispuesto en el artículo 9 de la Ley de Urbanización del Estado de Baja California.
 
-Para los efectos del Impuesto de Plusvalía se estará a lo dispuesto en el Artículo 9o. de la Ley de Urbanización del Estado de Baja California.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2000)</small>
+###### ARTÍCULO 175.
 
-###### ARTICULO 175.
+Las Empresas que con motivo de la realización de un proyecto de inversión, y en términos de los rubros y esquemas previstos en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, obtengan la puntuación prevista en alguno de los incisos de las fracciones I y II de este artículo, estarán exentas del pago de las contribuciones que a continuación se especifican, conforme a los porcentajes, períodos y lineamientos siguientes:
 
-Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, personas viudas en situación de indigencia mayores de 50 años, y discapacitados, se causará sobre la cantidad que éstos deban cubrir, según lo estipulado en los Artículos 173 y 174 de esta Ley.
+I. Impuesto sobre remuneraciones al trabajo personal:
+
+a) De 32 a 44 puntos:
+
+1. En un 100% respecto del impuesto que le corresponda cubrir periódicamente, durante los dos primeros años del estímulo fiscal.
+
+2. En un 75% respecto del impuesto que le corresponda cubrir periódicamente, durante el tercer año del estímulo fiscal.
+
+b) De 45 a 54 puntos:
+
+1. En un 100% respecto del impuesto que le corresponda cubrir periódicamente, durante los dos primeros años del estímulo fiscal.
+
+2. En un 75% respecto del impuesto que le corresponda cubrir periódicamente, durante el tercer año del estímulo fiscal.
+
+3. En un 50% respecto del impuesto que le corresponda cubrir periódicamente, durante el cuarto año del estímulo fiscal.
+
+c) De 55 puntos o más:
+
+1. En un 100% respecto del impuesto que le corresponda cubrir periódicamente, durante los dos primeros años del estímulo fiscal.
+
+2. En un 75% respecto del impuesto que le corresponda cubrir periódicamente, durante el tercer año del estímulo fiscal.
+
+3. En un 50% respecto del impuesto que le corresponda cubrir periódicamente, durante el cuarto año del estímulo fiscal.
+
+4. En un 25% respecto del impuesto que le corresponda cubrir periódicamente, durante el quinto año del estímulo fiscal.
+
+II. Derechos de conexión al sistema de agua potable y alcantarillado sanitario:
+
+a) De 45 a 59 puntos, en un 20% del pago total, por única ocasión.
+
+b) De 60 puntos o más, en un 50% del pago total, por única ocasión.
+
+Los sujetos de exención de pago del impuesto sobre remuneraciones al trabajo personal a que se refiere este artículo, deberán cumplir con las demás obligaciones fiscales relativas al mismo, como es la de presentar las declaraciones periódicas que correspondan en las formas que establezca la Secretaría de Planeación y Finanzas, así como la demás información que en las mismas se establezcan.
+
+Para que las Empresas puedan hacerse acreedoras de los estímulos fiscales previstos en este artículo, además de las condiciones estipuladas, deberán encontrarse al corriente de sus obligaciones fiscales.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 176.
+
+Para la solicitud y extinción de los estímulos fiscales a que se refiere el artículo anterior, se estará a lo dispuesto en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California y demás disposiciones aplicables.
+
+Los estímulos fiscales corresponderán a aquellos que la Empresa solicite y que la Autoridad resuelva procedentes, e iniciarán a partir de la fecha que dicha Empresa indique en la solicitud a que se refiere el artículo 14 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California. La fecha de inicio no podrá ser menor de sesenta días hábiles ni mayor de un año, contado a partir de la presentación de la solicitud.
+
+En caso de que la fecha de inicio indicada por la empresa solicitante, sea anterior a la notificación de la resolución de procedencia, el estímulo fiscal iniciará a partir del día siguiente a aquel en que se haya realizado dicha notificación.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 177.
+
+Las Empresas que contraten personas productivas con capacidades diferentes y/o personas adultas mayores, consideradas como tales en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, estarán exentas del pago del impuesto sobre remuneraciones al trabajo personal que les corresponda cubrir periódicamente por las remuneraciones relativas a estos empleados, siempre que la Empresa no se encuentre recibiendo una exención sobre este impuesto en los términos del artículo 175 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 178.
+
+A las empresas que operen sistemas para el tratamiento de aguas residuales y las reutilicen totalmente, o bien disponga de ellas de conformidad con la normatividad aplicable siempre que su descarga final no se realice en el sistema de alcantarillado, se les otorgará una exención del 30%, en el pago mensual de los derechos que por consumo de agua deban cubrir a la Comisión Estatal de Servicios Públicos que corresponda, de acuerdo a la tarifa aplicable de la Ley de Ingresos del Estado de Baja California del ejercicio fiscal respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 179.
+
+Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, personas viudas en situación de indígena mayores de 50 años y personas con capacidades diferentes, se causará sobre la cantidad que éstos deban de cubrir, según lo estipulado en los artículos 173 y 174 de esta Ley.
+
+En el caso de las Empresas, el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, se determinará sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar los estímulos fiscales otorgados en términos de los artículos 175 y 177 de esta Ley.
 
 TRANSITORIOS:
 
@@ -2340,3 +2388,33 @@ Los procedimientos, trámites y recursos administrativos, que se hubieren inicia
 ###### ARTICULO TERCERO.
 
 Las infracciones cometidas antes de la entrada en vigor de este Decreto, se sancionarán en los términos preceptuados por las disposiciones vigentes en la época en que se cometieron. En caso de que las disposiciones vigentes prevean una multa distinta, se sancionará con la que resulte más benéfica para el contribuyente.
+
+P.O. 10 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas, hubieren sido sujetas de los beneficios que se encontraban previstos en los incisos a) y c) del artículo 151-13 de esta Ley, seguirán gozando del mismo, siempre y cuando continúen realizando las operaciones por las que les correspondió dicho beneficio, en los siguientes porcentajes:
+
+I. Durante el ejercicio fiscal 2005 en un 100%;
+
+II. Durante el ejercicio fiscal 2006 en un 60%, y
+
+III. Durante el ejercicio fiscal 2007 en un 20%.
+
+Estos beneficios no serán aplicables a las Empresas que reciban un estímulo fiscal en los términos del artículo 175 de las presentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas hubieren sido sujetas del beneficio que se encontraba previsto en el inciso b) del artículo 151-13 de esta Ley, continuarán gozando de éste hasta en tanto concluya el período por el cual se hicieron acreedores al mismo, siempre y cuando continúen realizando las operaciones por las que les correspondió, y no reciban un estímulo fiscal en los términos del artículo 175 de las presentes reformas.
+
+###### ARTÍCULO CUARTO.
+
+Las Empresas que inicien la ejecución de un Proyecto de Inversión durante el ejercicio fiscal en el que entre (sic) en vigor las presentes reformas, podrán ser sujetas al otorgamiento de un Estímulo fiscal, siempre y cuando obtengan la puntuación requerida para tal efecto.
+
+###### ARTÍCULO QUINTO.
+
+Asimismo las empresas que estén tratando aguas residuales y las reutilicen totalmente, durante el ejercicio fiscal en el que entre (sic) en vigor las presentes reformas, podrán ser sujetas al otorgamiento del Estímulo fiscal, previsto en el artículo 178 de esta Ley.
