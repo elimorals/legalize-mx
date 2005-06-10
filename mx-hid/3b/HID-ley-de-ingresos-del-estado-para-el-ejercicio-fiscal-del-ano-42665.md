@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-del-ano-426
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-06-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2004.
 
@@ -153,6 +153,8 @@ F.- El Estado percibirá ingresos por concepto de participaciones y fondos de ap
 
 Las participaciones y fondos de aportación federales se percibirán de acuerdo con las bases, cuotas y conductos que establezca la Ley de Coordinación Fiscal Federal, así como, los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, el de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, así como, los demás que se suscriban para el efecto con el Gobierno Federal.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 Lo que significa un total estimado por conceptos, por las siguientes cantidades:
 
 CONCEPTO MILES DE PESOS
@@ -165,7 +167,7 @@ Impuesto sobre Nóminas 128,759.9
 
 Adicional para la construcción de carreteras,
 
-sostenimiento de la Asistencia Pública y del
+sostenimiento de Asistencia Pública y del
 
 Hospital del Niño D.I.F., del Estado 72,470.5
 
@@ -181,9 +183,13 @@ DERECHOS 390,221.2
 
 Secretaría de Gobierno 58,804.8
 
-Secretaría de Finanzas y Administración 40,789.0
+Secretaría de Finanzas 40,789.0
 
-Secretaría de Obras Públicas 81.9
+Secretaría de Obras Públicas,
+
+Comunicaciones, Transportes y
+
+Asentamientos 81.9
 
 Secretaría de Contraloría 194.1
 
@@ -233,7 +239,7 @@ Incentivos económicos 33,641.5
 
 Fondo de fomento municipal 564,801.0
 
-CRÉDITO 0
+CREDITO 1,250,000.0
 
 INFRAESTRUCTURA EN LOS ESTADOS 0
 
@@ -241,7 +247,7 @@ PROGRAMA DE FORTALECIMIENTO
 
 DE ENTIDADES FEDERATIVAS 347,230.1
 
-S U B T O T A L : 5,973,445.8
+SUBTOTAL: 7,223,445.8
 
 RAMO 33 8,359,571.0
 
@@ -273,7 +279,7 @@ Educación de Adultos 43,118.0
 
 Seguridad Pública 120,000.0
 
-TOTAL INGRESOS 14,333,016.8
+TOTAL INGRESOS 15,583,016.8
 
 ###### ARTÍCULO 2.
 
@@ -347,6 +353,12 @@ Lo establecido en los artículos anteriores, se aplicará a los ingresos que por
 
 Las Entidades y Organismos a que se refiere el artículo anterior y las Empresas de Participación Estatal, deberán estar inscritas en el registro estatal correspondiente y llevar contabilidad de conformidad con las disposiciones fiscales, así como, presentar las declaraciones e informes que correspondan en los términos de dichos ordenamientos.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 12.
+
+El monto de endeudamiento anual autorizado, bajo la partida de Crédito a que se refiere el Artículo 1° de esta Ley, mismo que asciende a la cantidad de $1,250 000,000.00 (MIL DOSCIENTOS CINCUENTA MILLONES DE PESOS 00/100 M.N.), será aplicado en los términos que señale el Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo para el año 2005.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO 1.
@@ -390,3 +402,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JUNIO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
