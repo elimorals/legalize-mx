@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-responsabilidades-de-los-servidores-publicos-del-22089"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-08"
-last_updated: "2001-09-08"
+last_updated: "2005-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2005.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 8 de septiembre de 2001.
 
@@ -125,9 +125,11 @@ I. Auxilio de la fuerza pública. Si existiere resistencia al mandamiento legít
 
 II. Multa de hasta 1,000 cuotas de salario mínimo general vigente en la Capital del Estado. Las multas se harán efectivas a través del procedimiento administrativo de ejecución, que a pedido de la autoridad implemente la Secretaría de Finanzas y sus oficinas recaudadoras.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2005)</small>
+
 ###### Artículo 5°.
 
-Obligaciones y causales de responsabilidad de los servidores públicos
+Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizar al servidor público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, de acuerdo con la respectiva ley y su reglamentación, todo servidor público tendrá las siguientes obligaciones de carácter general:
 
 1.- Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizar al servidor público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, de acuerdo con la respectiva ley y su reglamentación, todo servidor público tendrá las siguientes obligaciones de carácter general:
 
@@ -158,6 +160,10 @@ XII. Abstenerse de disponer o autorizar a un subordinado a no asistir, sin causa
 XIII. Abstenerse de desempeñar más de un empleo, cargo o comisión remunerados en el sector público. Excepto que lo haga en las áreas de la docencia, la salud o la beneficencia, y ello no afecte el buen desempeño de sus responsabilidades;
 
 XIV. Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien no cumpla requisitos, o se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2005)</small>
+
+Se considerará que cumple el requisito de no antecedentes penales, la persona que haya sido condenado y habiendo cumplido su pena, exhiba en su solicitud de trabajo, su constancia de readaptación expedida por la Dirección de Prevención y Readaptación Social.
 
 XV. Abstenerse de discriminar o relegar a la mujer, por su sola condición de género, en la selección, contratación o nombramiento en empleos, cargos o comisiones;
 
@@ -880,3 +886,11 @@ LIC. RICARDO MONREAL AVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 11 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO.- La Dirección de Prevención y Readaptación Social iniciará de inmediato la elaboración y entrega de las constancias de readaptación de los condenados que hayan cumplido con su pena en un periodo de cinco años a la fecha; las relativas a las fechas anteriores, se expedirán, siempre y cuando sean solicitados por los interesados.
