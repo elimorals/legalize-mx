@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-8224
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "1997-07-05"
+last_updated: "2005-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2005.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 10 de julio de 1993.
 
@@ -115,7 +115,11 @@ I.- Normar la ejecución de sanciones privativas y restrictivas de la libertad, 
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
 
-II.- Crear un sistema integral de reclusión, readaptación y reintegración social, aplicable a toda persona mayor de dieciocho años de edad que se encuentre en el ámbito del derecho ejecutivo penal.
+II.- Crear un sistema integral de Reclusión, Readaptación y Reintegración Social, aplicable a toda persona mayor de dieciocho años de edad que se encuentre en el ámbito del derecho ejecutivo penal.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2005)</small>
+
+Este sistema se integra con la fase de reclusión y tratamiento para la readaptación y la fase de integración social, los principios que regirán cada una de estas etapas son el respeto a la dignidad humana, la educación y el trabajo.
 
 ### Capítulo Segundo. Garantías Individuales del Interno
 
@@ -123,7 +127,9 @@ II.- Crear un sistema integral de reclusión, readaptación y reintegración soc
 
 El funcionamiento, supervisión y control del sistema integral de reclusión, readaptación y reintegración social se sujetará a lo previsto por la Constitución Política de los Estados Unidos Mexicanos en su parte relativa; así como a los lineamientos y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos. En consecuencia:
 
-I.- El tratamiento penitenciario se aplicará sin discriminaciones ni privilegios por circunstancias de nacionalidad, raza, condición económica o social, ideología o creencia religiosa de los internos;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2005)</small>
+
+I.- En la fase de reclusión y readaptación, el tratamiento penitenciario se aplicará sin discriminaciones ni privilegios por circunstancias de nacionalidad, raza, condición económica o social, ideología o creencia religiosa de los internos;
 
 II.- En los establecimientos penitenciarios estarán completamente separados los internos sujetos a prisión preventiva, de aquéllos que extingan penas; y, los hombres de las mujeres;
 
@@ -133,7 +139,9 @@ IV.- Los internos sujetos a prisión preventiva no estarán obligados a adoptar 
 
 V.- La correspondencia de los internos no será objeto de retención o violación. Se exceptúa lo que disponga la legislación procesal penal en materia de pruebas documentales, o cuando dicha correspondencia motive duda fundada de que pueda contener objetos cuya introducción al establecimiento esté prohibida. En tal caso, la correspondencia será puesta bajo control, en términos del reglamento;
 
-VI.- En los establecimientos penitenciarios se respetará la libertad de creencia. El reglamento dispondrá las condiciones para la realización de servicios religiosos;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2005)</small>
+
+VI.- La fase de reintegración social se realizará facilitando al condenado las condiciones necesarias para reinsertarse en la vida familiar, laboral y social. Procurando evitar cualquier estigma prejuicio que dañe su vida futura;
 
 VII.- Queda terminantemente prohibida toda práctica de tortura, trato cruel e inhumano o que atente contra la integridad física o mental de los internos y de sus familiares.
 
@@ -144,6 +152,10 @@ El uso de la fuerza sólo podrá emplearse como medida estrictamente necesaria p
 VIII.- En ningún caso se impondrán precios, tarifas o cuotas a los internos o a sus familiares para el disfrute de los derechos o beneficios legalmente autorizados. La violación a esta norma, hace a la autoridad responsable de los delitos que resulten previstos en el Código Penal;
 
 IX.- Se respetarán los derechos de petición y de audiencia que, en forma pacífica y respetuosa, los internos planteen a los órganos de ejecución de esta ley.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2005)</small>
+
+X.- Debe rescribir el interno al determinarse su excarcelación en virtud de haber cumplido con la pena, por parte de la Dirección de Prevención y Readaptación Social, constancia que acredite que se considera un individuo readaptado y, por tanto, apto para su reinserción a la vida social y productiva. En el caso de los condenados que no fueran objeto de prisión preventiva, de igual manera, al cumplir la pena que les fue impuesta, recibirán su constancia en el mismo sentido.
 
 ### Capítulo Tercero. Coordinación Institucional
 
@@ -185,29 +197,35 @@ Corresponde al Ejecutivo del Estado, a través de la Dirección de Prevención y
 
 En el cumplimiento de sus objetivos, la Dirección de Prevención y Readaptación Social ejercerá las siguientes atribuciones:
 
-I.- Planear, organizar, coordinar y dirigir la política criminológica de la entidad por medio del sistema integral de reclusión, readaptación y reintegración social.
+I.- Planear, organizar, coordinar y dirigir la política criminológica de la entidad por medio del sistema integral de reclusión, readaptación y reintegración social;
 
-II.- Crear y administrar el sistema de instituciones de tratamiento penitenciario, que incluya establecimientos cerrados y abiertos; regionales y distritales; de máxima, media y mínima seguridad.
+II.- Crear y administrar el sistema de instituciones de tratamiento penitenciario, que incluya establecimientos cerrados y abiertos; regionales y distritales; de máxima, media y mínima seguridad;
 
-III.- Establecer y supervisar las unidades de ingreso, observación, clasificación y trabajo social, para realizar las fases de estudio, diagnóstico, pronóstico y tratamiento psiquiátrico, psicológico, pedagógico y ocupacional de los internos.
+III.- Establecer y supervisar las unidades de ingreso, observación, clasificación y trabajo social, para realizar las fases de estudio, diagnóstico, pronóstico y tratamiento psiquiátrico, psicológico, pedagógico y ocupacional de los internos;
 
-IV.- Ordenar y supervisar la identificación, distribución, custodia, vigilancia, traslado y tratamiento de los internos en los establecimientos penitenciarios.
+IV.- Ordenar y supervisar la identificación, distribución, custodia, vigilancia, traslado y tratamiento de los internos en los establecimientos penitenciarios;
 
-V.- Planear, dirigir, controlar y evaluar el trabajo de los internos. Al efecto, se estimulará la participación de los sectores público, social y privado para impulsar proyectos productivos que coadyuven al autofinanciamiento del sistema penitenciario.
+V.- Planear, dirigir, controlar y evaluar el trabajo de los internos. Al efecto, se estimulará la participación de los sectores público, social y privado para impulsar proyectos productivos que coadyuven al autofinanciamiento del sistema penitenciario;
 
-VI.- Establecer, en coordinación con la Secretaría de Educación y Cultura, el sistema educativo aplicable a los internos.
+VI.- Establecer, en coordinación con la Secretaría de Educación y Cultura, el sistema educativo aplicable a los internos;
 
-VII.- Implantar, en concertación con los Servicios Coordinados de Salud Pública en el Estado, el sistema de atención médica a los internos.
+VII.- Implantar, en concertación con los Servicios Coordinados de Salud Pública en el Estado, el sistema de atención médica a los internos;
 
-VIII.- Reclutar, seleccionar, capacitar y proponer al Ejecutivo del Estado, a través de Oficialía Mayor para su nombramiento, al personal idóneo administrativo, técnico, de servicios generales y de custodia, de los establecimientos penitenciarios.
+VIII.- Reclutar, seleccionar, capacitar y proponer al Ejecutivo del Estado, a través de Oficialía Mayor para su nombramiento, al personal idóneo administrativo, técnico, de servicios generales y de custodia, de los establecimientos penitenciarios;
 
-IX.- Emitir opinión fundada ante el Ejecutivo del Estado, para el otorgamiento y ampliación de los beneficios del régimen de liberaciones establecido para los internos, siempre y cuando no contravenga a la del Consejo Técnico Interdisciplinario.
+IX.- Emitir opinión fundada ante el Ejecutivo del Estado, para el otorgamiento y ampliación de los beneficios del régimen de liberaciones establecido para los internos, siempre y cuando no contravenga a la del Consejo Técnico Interdisciplinario;
 
-X.- Proponer al Ejecutivo los reglamentos y formular las disposiciones internas que habrán de regir el funcionamiento de los establecimientos penitenciarios, así como vigilar su cumplimiento.
+X.- Proponer al Ejecutivo los reglamentos y formular las disposiciones internas que habrán de regir el funcionamiento de los establecimientos penitenciarios, así como vigilar su cumplimiento;
 
 XI.- Constituir y participar en los organismos para reos liberados que requiera el sistema y;
 
-XII.- Las demás que conforme a la ley le asigne el Ejecutivo del Estado.
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2005)</small>
+
+XII.- Otorgar la constancia de readaptación social, a favor de los condenados que hayan cumplido la pena que les fue impuesta, sin necesidad de trámite alguno, con el fin de que puedan reintegrarse plenamente a la vida laboral y social. En ningún caso se expedirá la constancia cuando se trate de condenados por delitos de secuestro;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2005)</small>
+
+XIII.- Las demás que conforme a la ley le asigne el Ejecutivo del Estado.
 
 ### Capítulo Segundo. De los Consejos Técnicos Interdisciplinarios
 
@@ -329,13 +347,13 @@ Para ser jefe de departamento o personal técnico, se deberán satisfacer los mi
 
 Para ser jefe de establecimiento penitenciario distrital, personal administrativo o custodio, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-II.- Haber concluido la enseñanza secundaria, a excepción del Jefe de Establecimiento Penitenciario Distrital quien acreditará mínimamente la educación media superior.
+II.- Haber concluido la enseñanza secundaria, a excepción del Jefe de Establecimiento Penitenciario Distrital quien acreditará mínimamente la educación media superior;
 
-III.- Acreditar buena conducta; no encontrarse sujeto a procedimiento penal alguno, ni haber sido sentenciado como responsable de delito intencional.
+III.- Acreditar buena conducta; no encontrarse sujeto a procedimiento penal alguno, ni haber sido sentenciado como responsable de delito intencional;
 
-IV.- Aprobar los exámenes de ingreso que se practiquen.
+IV.- Aprobar los exámenes de ingreso que se practiquen;
 
 V.- Aprobar los cursos de capacitación que se requieran.
 
@@ -351,15 +369,15 @@ Para los efectos de la readaptación del interno, y su reintegración social, se
 
 Corresponde a los consejos técnicos interdisciplinarios determinar el tratamiento aplicable a los internos, de conformidad con los siguientes lineamientos:
 
-I.- Todo tratamiento se sustentará sobre la base de la individualización y haciendo acopio de la interdisciplina.
+I.- Todo tratamiento se sustentará sobre la base de la individualización y haciendo acopio de la interdisciplina;
 
-II.- Los inculpados, procesados y acusados deben ser tratados a partir de los principios de inocencia o inculpabilidad.
+II.- Los inculpados, procesados y acusados deben ser tratados a partir de los principios de inocencia o inculpabilidad;
 
-III.- Los sentenciados tendrán un tratamiento de readaptación que tienda a su reintegración social.
+III.- Los sentenciados tendrán un tratamiento de readaptación que tienda a su reintegración social;
 
-IV.- Los inimputables o quienes estén sujetos a interdicción serán internados en instituciones especializadas o en tratamiento en libertad.
+IV.- Los inimputables o quienes estén sujetos a interdicción serán internados en instituciones especializadas o en tratamiento en libertad;
 
-V.- Se establecerán programas de tratamiento psiquiátrico, psicológico, educacional, laboral y de preliberación, como sustento del sistema integral.
+V.- Se establecerán programas de tratamiento psiquiátrico, psicológico, educacional, laboral y de preliberación, como sustento del sistema integral;
 
 VI.- Todo tratamiento se otorgará simultáneamente al interno y de ser posible, a su familia si la hubiere, considerando siempre el núcleo social al que se reintegrará.
 
@@ -883,7 +901,7 @@ LIC. PEDRO GOYTIA ROBLES
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 5 DE JULIO DE 1997
+P.O. 5 DE JULIO DE 1997.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 1998.
 
@@ -896,3 +914,9 @@ CUARTO.- El censo de la población interna menor de dieciocho años, deberá est
 QUINTO.- Las actuaciones practicadas por lo (sic) órganos ministeriales y jurisdiccionales de fuero común, antes del inicio de vigencia de este Decreto, tendrán validez legal por lo que respecta a procesados, sentenciados o reos menores de dieciocho años, únicamente en lo que sean compatibles con el procedimiento que prevé el Código Tutelar para Menores del Estado de Zacatecas.
 
 SEXTO.- El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar de Menores.
+
+P.O. 11 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- La Dirección de Prevención y Readaptación Social iniciará de inmediato la elaboración y entrega de las constancias de readaptación de los condenados que hayan cumplido con su pena en un periodo de cinco años a la fecha; las relativas a fechas anteriores, se expedirán, siempre y cuando sean solicitados por los interesados.
