@@ -4,7 +4,7 @@ identifier: "TRA-tratado-de-libre-comercio-de-america-del-norte-17-de-76"
 country: "mx"
 rank: "tratado"
 publication_date: "1993-12-08"
-last_updated: "2005-06-01"
+last_updated: "2005-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,61 +19,43 @@ issue_date: "1993-12-07"
 ---
 # TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (17 DE DICIEMBRE DE 1992)
 
-COMPLEMENTACION DE LA LISTA DE SERVICIOS EXCLUIDOS POR MEXICO EN EL CAPITULO X DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo complementario publicado en el Diario Oficial de la Federación, el miércoles 1 de junio de 2005.
+Modificaciones publicadas en el Diario Oficial de la Federación, el martes 14 de junio de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en lo dispuesto en el Apéndice 1001.1b-2-A del Tratado de Libre Comercio de América del Norte; los artículos 34 de la Ley Orgánica de la Administración Pública Federal; y 5 fracción X de la Ley de Comercio Exterior, y
+VICENTE FOX QUESADA, PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
 
-CONSIDERANDO
+El ocho y veintidós de octubre y quince de noviembre de dos mil cuatro, se adoptaron en las ciudades de Washington, D.C., Ottawa y México, las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, cuyo texto en español consta en la copia certificada adjunta.
 
-Que de conformidad con los artículos 28 fracción II inciso a) y 30 fracción II inciso a) de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, respectivamente, establecen que se deberán llevar a cabo licitaciones públicas internacionales cuando resulte obligatorio conforme a lo establecido en los tratados;
+Las Modificaciones mencionadas fueron aprobadas por la Cámara de Senadores del Honorable Congreso de la Unión, el dieciséis de marzo de dos mil cinco, según decreto publicado en el Diario Oficial de la Federación del tres de mayo del propio año.
 
-Que México completó su lista de servicios para la Sección B del Anexo 1001.1b-2 del Tratado de Libre Comercio de América del Norte publicado en el Diario Oficial de la Federación el 20 de diciembre de 1993, después de consultar con Canadá y Estados Unidos, tal como lo establece el Apéndice 1001.1b-2-A de dicho tratado, y
-
-Que debido a que los servicios acordados son un elemento necesario para determinar la cobertura de las compras que lleven a cabo las entidades de la Administración Pública Federal, es necesario hacer del conocimiento de las mismas la lista completa de servicios excluidos por México en el Tratado de Libre Comercio de América del Norte, por lo que he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE COMPLEMENTA LA LISTA DE SERVICIOS EXCLUIDOS POR MEXICO EN EL CAPITULO X DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 20 DE DICIEMBRE DE 1993
-
-###### ARTICULO UNICO.
-
-La lista de servicios excluidos por México en el Capítulo X del Tratado de Libre Comercio de América del Norte, establecida en la Sección B del Anexo 1001.1b-2, se complementa con lo siguiente:
-
-Anexo 1001.1b-2 Servicios
-
-(VEASE ARCHIVO ANEXO)
-
-Notas Generales:
-
-1.- Las disposiciones de este capítulo no aplican a la operación de instalaciones del gobierno sujetas a concesión.
-
-2.- Todos los servicios relacionados con aquellos bienes adquiridos por la Secretaría de la Defensa Nacional y la Secretaría de Marina que no se identifiquen como sujetos a la cobertura de este capítulo (Anexo 1001.1b-1), estarán excluidos de las disciplinas de este capítulo.
-
-3.- Todos los servicios que no se excluyan de la cobertura de este capítulo se sujetarán a las disposiciones sobre ejercicio profesional establecidas en el capítulo XII (Comercio Transfronterizo de Servicios), sus anexos y sus reservas.
-
-4.- Los servicios de administración y operación de contratos otorgados a centros de investigación y desarrollo que operan con fondos federales, o relacionados con la ejecución de programas de investigación patrocinados por el gobierno, quedan excluidos de las disciplinas de este capítulo.
-
-5.- Este capítulo no aplica a la compra de servicios de transporte que formen parte de, o sean conexos a un contrato de compra.
+Por lo tanto, para su debida observancia, en cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, promulgo el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, el nueve de mayo de dos mil cinco.
 
 #### Sección I Animales Vivos y Productos del Reino Animal (Capítulos 1 a 5).
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Decreto entrará en vigor el quince de junio de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario del Despacho de Relaciones Exteriores, Luis Ernesto Derbez Bautista.- Rúbrica.
 
-SEGUNDO.- De conformidad con el párrafo 1 del Apéndice 1001.1b-2-A del Tratado de Libre Comercio de América del Norte, debido a que México ha completado su lista de servicios excluidos para la Sección B del Anexo 1001.1b-2 de acuerdo con el párrafo 2 de dicho apéndice, la lista provisional de servicios que ahí se indica dejará de surtir efectos en cuanto a su aplicación de conformidad con lo establecido en el referido apéndice al día siguiente de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+ARTURO AQUILES DAGER GOMEZ, CONSULTOR JURIDICO DE LA SECRETARIA DE RELACIONES EXTERIORES.
 
-TERCERO.- No obstante lo dispuesto en el artículo transitorio anterior, la lista de servicios del Apéndice 1001.1b-2-A, "Lista Provisional de servicios de México", del Tratado de Libre Comercio de América del Norte, seguirá aplicando en aquellos procedimientos de contratación que se hayan iniciado con anterioridad a la entrada en vigor del presente Acuerdo.
+CERTIFICA:
 
-México, D.F., a 23 de mayo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+Que en los archivos de esta Secretaría obra el original correspondiente a México de las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días ocho y veintidós de octubre y quince de noviembre de dos mil cuatro, entre los Gobiernos de los Estados Unidos de América, Canadá y los Estados Unidos Mexicanos, respectivamente, cuyo texto en español es el siguiente:
+
+MODIFICACIONES DE REGLAS DE ORIGEN DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+
+A. Anexo 401:
+
+Condimentos y especias
 
 ### Capítulo 9, 09.01-09.10: Eliminar la regla de origen aplicable a la partida 09.01-09.10 y reemplazarla con las siguientes reglas:
 
 09.01 Un cambio a la partida 09.01 de cualquier otro capítulo.
 
-0902.10-0902.40 Un cambio a la subpartida 0902.10 a 0902.40 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+0902.10-0902.40 Un cambio a la subpartida 0902.10 a 0902.40 de cualquier otra subpartida, incluyendo obra subpartida dentro del grupo.
 
 09.03 Un cambio a la partida 09.03 de cualquier otro capítulo.
 
@@ -137,11 +119,11 @@ Mezclas de condimentos y mezclas de sazonadores
 
 2103.30 Un cambio a la subpartida 2103.30 de cualquier otro capítulo.
 
-2103.90 Un cambio a mezclas de condimentos o mezclas de sazonadores de la subpartida 2103.90 de levadura de la subpartida 2102.10 o 2102.20 o de cualquier otro capítulo; o
+2103.90 Un cambio a mezclas de condimentos o mezclas de sasonadores de la subpartida 2103.90 de levadura de la subpartida 2102.10 o 2102.20 o de cualquier otro capítulo; o
 
 Un cambio a cualquier otro bien de la subpartida 2103.90 de cualquier otro capítulo.
 
-Metales preciosos-Oro, Plata, Platino, Paladio y Rodio
+Metales preciosos- Oro, Plata, Platino, Paladio y Rodio
 
 ### Capítulo 71, 71.01-71.12: Eliminar la regla de origen aplicable a la partida 71.01-71.12 y reemplazarla con las siguientes reglas:
 
@@ -181,9 +163,7 @@ Electrodomésticos Menores
 
 ### Capítulo 84, 8414.51: Eliminar la regla de origen aplicable a la subpartida 8414.40-8414.80 y reemplazarla con las siguientes reglas:. 8414.40 Un cambio a la subpartida 8414.40 de cualquier otra partida; o
 
-Un cambio a la subpartida 8414.40 de la subpartida 8414.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional
-
-no menor a:
+Un cambio a la subpartida 8414.40 de la subpartida 8414.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
 
 (a) 60 por ciento, cuando se utilice el método de valor de transacción, o
 
@@ -253,11 +233,7 @@ Un cambio a la subpartida 9032.20 a 9032.89 de la subpartida 9032.90, habiendo o
 
 Partes de Partes
 
-### Capítulo 84: Eliminar la regla de origen aplicable a la subpartida 8473.30 y reemplazarla con la
-
-siguiente regla:
-
-8473.30 Un cambio a la subpartida 8473.30 de cualquier otra partida; o
+### Capítulo 84: Eliminar la regla de origen aplicable a la subpartida 8473.30 y reemplazarla con la siguiente regla:. 8473.30 Un cambio a la subpartida 8473.30 de cualquier otra partida; o
 
 No se requiere cambio de clasificación arancelaria a la subpartida 8473.30, cumpliendo con un contenido regional no menor a:
 
@@ -523,9 +499,9 @@ No se requiere cambio de clasificación arancelaria a la subpartida 9032.90, cum
 
 (b) 50 por ciento, cuando se utilice el método de costo neto.
 
-90.33 Un cambio a la partida 90.33 de cualquier otra partida; o
+90.33 Un cambio a la subpartida 90.33 de cualquier otra partida; o
 
-No se requiere cambio de clasificación arancelaria a la partida 90.33, cumpliendo con un contenido regional no menor a:
+No se requiere cambio de clasificación arancelaria a la subpartida 90.33, cumpliendo con un contenido regional no menor a:
 
 (a) 60 por ciento, cuando se utilice el método de valor de transacción, o
 
@@ -541,11 +517,9 @@ Un cambio a un bien de la subpartida 9501.00 a 9505.90 de cualquier otro bien de
 
 (b) 50 por ciento, cuando se utilice el método de costo neto.
 
-México, D.F., a 16 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.-
+La presente es copia fiel y completa en español de las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días ocho y veintidós de octubre y quince de noviembre de dos mil cuatro, entre los Gobiernos de los Estados Unidos de América, Canadá y los Estados Unidos Mexicanos, respectivamente.
 
-Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+Extiendo la presente, en dieciocho páginas útiles, en la Ciudad de México, Distrito Federal, el seis de mayo de dos mil cinco, a fin de incorporarla al Decreto de Promulgación respectivo.- Conste.- Rúbrica.
 
 ### Capítulo 16 Preparaciones de Carne, de Pescado o de Crustáceos, de Moluscos o de otros Invertebrados Acuáticos. Partida(s) Regla(s) aplicable(s)
 
