@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -1269,7 +1269,7 @@ Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portador
 
 El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados a juicio de las autoridades sanitarias.
 
-No deberán ser excluidos de los centros de reunión a que se refiere este articulo, las personas que padezcan enfermedades no transmisibles por el simple contacto físico externo.
+No deberán ser excluidos de los centros de reunión a que se refiere este artículo, las personas que padezcan enfermedades no transmisibles por el simple contacto físico externo.
 
 ###### ARTÍCULO 135.
 
@@ -1337,7 +1337,7 @@ VI.- Promover la participación de la comunidad en la prevención de accidentes.
 
 El consejo estatal para la prevención de accidentes, se coordinará con el consejo nacional, dentro del marco de los sistemas nacional y estatal de salud.
 
-## TÍTULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓNY REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD Y ATENCION GERIATRICA
+## TÍTULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD Y ATENCION GERIATRICA
 
 ### CAPÍTULO II. PREVENCIÓN DE INVALIDEZ Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
@@ -3011,9 +3011,11 @@ Todos los actos, procedimientos y recursos administrativos relacionados con la m
 
 Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que la Secretaría de Salud, adecue el reglamento correspondiente.
 
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
-Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que este Poder Legislativo, emita la Ley que crea la Comisión Estatal de Arbitraje Médico.
+Se concede de plazo hasta el treinta y uno de diciembre del año dos mil cinco, para que el Poder Legislativo, emita la Ley que crea la Comisión Estatal de Arbitraje Médico.
 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
@@ -3042,3 +3044,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+B.O. 14 DE JUNIO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado del (sic) Baja California Sur.
