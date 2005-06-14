@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2005-02-03"
+last_updated: "2005-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2005.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -270,6 +270,10 @@ Para las elecciones extraordinarias de Gobernador, de diputados y/o de ayuntamie
 Las vacantes definitivas de diputaciones y de regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso del Estado con quienes sigan en la lista plurinominal que hubiese presentado el mismo partido.
 
 La convocatoria expedida para la celebración de elecciones extraordinarias, no podrá restringir los derechos y prerrogativas a los ciudadanos y a partidos políticos, ni alterar los procedimientos y formalidades establecidas.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2005)</small>
+
+El Gobernador entrará a ejercer su cargo a los noventa y tres días naturales siguientes al día de la elección extraordinaria; los diputados entrarán a ejercer su cargo a los sesenta y dos días naturales siguientes al día de la elección extraordinaria; y los integrantes de los ayuntamientos tomarán posesión de su cargo a los cuarenta y ocho días naturales siguientes al día de la elección extraordinaria.
 
 # Libro Segundo. De los Partidos Políticos
 
@@ -1733,7 +1737,7 @@ VIII. Presentar al Consejo General la propuesta para la designación del Secreta
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2001)</small>
 
-IX. Proponer al Consejo General el proyecto de presupuesto anual del Instituto Electoral de Michoacán, remitiéndolo una vez aprobado, al titular del Poder Ejecutivo para su inclusión ;
+IX. Proponer al Consejo General el proyecto de presupuesto anual del Instituto Electoral de Michoacán, remitiéndolo una vez aprobado, al titular del Poder Ejecutivo para su inclusión;
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2001)</small>
 
@@ -3539,7 +3543,7 @@ Los magistrados tendrán obligación de guardar absoluta reserva sobre los asunt
 
 En el tiempo que transcurre entre procesos electorales, únicamente funcionará una Sala Unitaria del Tribunal, la que estará a cargo del Presidente del mismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DE 2001)</small>
 
 # Libro Octavo. De las Faltas y Sanciones Administrativas
 
@@ -3569,7 +3573,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ###### Artículo 221.
 
@@ -4040,3 +4044,9 @@ P.O. 3 DE FEBRERO DE 2005.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Para la elección extraordinaria de ayuntamiento derivada del proceso electoral de 2004, se instalará la Primera Sala Colegiada de Segunda Instancia el día de la jornada electoral, correspondiendo a la Segunda Sala Colegiada de Segunda Instancia, instalarse el próximo proceso electoral del que deriven elecciones extraordinarias.
+
+P.O. 14 DE JUNIO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
