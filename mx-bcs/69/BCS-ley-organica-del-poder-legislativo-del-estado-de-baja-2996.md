@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2002-07-10"
+last_updated: "2005-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -59,9 +59,11 @@ El ejercicio de las funciones de los Diputados al Congreso del Estado durante tr
 
 El Congreso tendrá la organización y funcionamiento que establecen la Constitución Política del Estado, esta Ley y los Reglamentos que deriven de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 5o.
 
-El Congreso del Estado tendrá durante el año dos períodos ordinarios de sesiones: El primero, del 15 de Marzo al 15 de Junio; y el segundo, del 15 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
+El Congreso del Estado tendrá durante el año dos períodos ordinarios de sesiones: El primero, del 15 de Marzo al 30 de Junio; y el segundo, del 01 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
 
 A convocatoria del Gobernador o de la Diputación Permanente, los períodos ordinarios de sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 
@@ -985,6 +987,8 @@ DE LAS INICIATIVAS.
 
 DE LOS DICTAMENES.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 85.
 
 Las Sesiones serán: Ordinarias y Extraordinarias; Públicas y Secretas; Solemnes y Permanentes.
@@ -1183,6 +1187,26 @@ III.- Inmediatamente se preguntará al Congreso si se admite o no a discusión. 
 
 Toda petición de particulares, corporaciones o autoridades que no tengan derecho a iniciativa, se mandará pasar directamente por el Presidente del Congreso a la Comisión que corresponda, según la naturaleza del asunto que se trate. Las Comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
 
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2005)</small>
+
+ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del Estado las Legislaturas locales, la Cámara de Senadores o la de Diputados del Honorable Congreso de la Unión, relativas a acuerdos económicos que hayan tomado tales cuerpos colegiados se sujetarán a las prevenciones siguientes:
+
+I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
+
+II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+
+III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
+
+IV.- Para el caso de que la comunicación oficial de alguna Legislatura fuera sólo un oficio con la cita textual del acuerdo económico que se haya tomado en su seno, sin anexo del dictamen respectivo, y por lo tanto sin los elementos de juicio que llevaron a la asunción de tal acuerdo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
+
+V.- Cuando el acuerdo económico de alguna Legislatura plantee derogar, abrogar, o proponga reformas o adiciones a alguna ley o leyes federales o a la Constitución Política de los Estados Unidos Mexicanos, invariablemente el asunto se turnará a la Comisión Permanente que corresponda. Sin embargo, cuando tal acuerdo económico no contenga o no se le anexe la exposición de motivos respectiva, o no contenga el proyecto de decreto respectivo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
+
+VI.- Todos aquellos asuntos que se hayan discutido y resuelto con anterioridad por este Congreso, independientemente de que sean enviados por legislaturas diferentes, pero que se refieran al mismo tema, el Presidente de la Mesa Directiva ordenará al Oficial Mayor su archivo definitivo, bastando únicamente que se acuse de recibida tal comunicación oficial y se envíe dicho acuse a la Legislatura de origen;
+
+VII.- Aquellos asuntos que por su contenido y su fecha estén notoriamente desfasados para ser tomados en cuenta, a petición de cualquier Diputada o Diputado se mandaran archivar por el Presidente de la Mesa Directiva, previa consulta ala Asamblea, quien resolverá mediante votación económica; y
+
+VIII.- Cuando la naturaleza de los asuntos lo permita y proceda su elaboración, podrán dictaminarse en forma conjunta dos o más asuntos en un solo dictamen.
+
 ###### ARTICULO 107.
 
 Desechada una iniciativa en lo general, no podrá presentarse nuevamente durante el mismo Período de Sesiones.
@@ -1213,9 +1237,13 @@ DE LAS DISCUSIONES.
 
 ###### ARTICULO 113.
 
-Las Comisiones a las que se turnen iniciativas, rendirán su dictamen al Congreso por escrito, dentro de los 15 días hábiles siguientes al en que las hayan recibido.
+Las Comisiones a las que se turnen iniciativas, rendirán su dictamen al Congreso por escrito, dentro de un plazo de hasta 30 días hábiles siguientes a aquel en que las hayan recibido.
 
 Tratándose de iniciativas que a juicio de la Comisión requieran de mayor estudio, dicho término podrá prorrogarse por la Asamblea.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2005)</small>
+
+Cuando la naturaleza del asunto lo permita, podrán conjuntarse dos o más iniciativas en un mismo dictamen.
 
 ###### ARTICULO 114.
 
@@ -1988,3 +2016,9 @@ Los ayuntamientos de la entidad contarán con noventa días naturales para los e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE JUNIO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los asuntos que actualmente se encuentran turnados a las diferentes Comisiones Permanentes y que encuadren en los supuestos que prevén las fracciones IV, V, VI y VII del artículo 106 Bis que contiene el presente decreto, se relacionarán de manera detallada por cada una de dichas Comisiones, en un informe que será presentado ante el Pleno del Congreso del Estado para su conocimiento y aprobación.
