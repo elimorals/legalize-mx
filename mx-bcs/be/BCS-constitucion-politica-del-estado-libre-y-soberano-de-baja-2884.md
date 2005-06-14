@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2004-12-31"
+last_updated: "2005-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2005.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -445,9 +445,11 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)</small>
 
-50.- El Congreso del Estado tendrá durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo, al 15 de Junio; y el segundo, del 15 de septiembre, al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año.
+50.- El Congreso del Estado tendrá, durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo al 30 de Junio; y el segundo, del 01 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)</small>
 
 A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 
@@ -1047,23 +1049,25 @@ Este organismo que establezca el Congreso de la Unión conocerá de las inconfor
 
 89.- El desempeño de la función jurisdiccional, corresponde a:
 
-I.- El Tribunal Superior de Justicia;
+I.- El Tribunal Superior de Justicia.
 
-II.- Tribunal Estatal Electoral;
+II.- El Tribunal Estatal Electoral.
 
-III.- Los Jueces de Primera Instancia;
+III.- Los Jueces de Primera Instancia
 
-IV.- Los Jueces Menores;
+IV.- Los Jueces Menores.
 
-V.- Los Jueces de Paz;
+V.- Los Jueces de Paz.
 
-VI.- Los árbitros;
+VI.- Los árbitros.
 
-VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
+> <small>(DEROGADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
-VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+VII.- Se deroga; y
 
-La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+VIII.- Los demás funcionarios y auxiliares de la administración de justicia.
+
+La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1309,7 +1313,7 @@ a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea
 
 > <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el Litoral del Pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
+b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el litoral del pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
 
 > <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -2440,3 +2444,7 @@ B.O. 31 DE DICIEMBRE DE 2004.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE JUNIO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
