@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2003-09-03"
+last_updated: "2005-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -657,9 +657,11 @@ PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe 
 
 PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 89.
 
-PARENTESCO CIVIL. El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado, salvo el caso de adopción plena.
+PARENTESCO CIVIL. El parentesco civil es el que nace de la adopción.
 
 ###### ARTICULO 90.
 
@@ -1689,19 +1691,29 @@ III.- Percibir la porción hereditaria que fije la Ley, o en su caso los aliment
 
 ### CAPITULO V. DE LA ADOPCION
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 243.
 
-QUIENES PUEDEN ADOPTAR. Los mayores de treinta años en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a uno o varios menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga, como mínimo, diecisiete años más que el adoptado y que la adopción sea benéfica para éste, acreditando:
+DISPOSICIONES GENERALES. La adopción es la institución jurídica por medio de la cual a través de una resolución judicial, se integra a un menor o a un incapacitado, aún cuando éste sea mayor de edad, a una familia en calidad de hijo, con todos los derechos y obligaciones de un hijo consanguíneo.
 
-I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, como un hijo propio, según las circunstancias de la persona que trata de adoptar;
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
 
-II.- Que el adoptante sea persona de buenas costumbres, y disfrute de buena salud; y
+###### ARTICULO 243-A.
 
-III.- Que otorgue caución a criterio del Juez.
+QUIENES PUEDEN ADOPTAR. Los mayores de veintiocho años y menores de cincuenta y ocho años en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga, como mínimo, diecisiete años más que el adoptado y que la adopción sea benéfica para éste, acreditando:
+
+I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, según las circunstancias de la persona que trata de adoptar;
+
+II.- Que el adoptante sea persona de buenas costumbres, y que su condición de salud le permita atender el desarrollo integral del adoptado; y
+
+III.- Su identidad, entorno social y motivos para adoptar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 244.
 
-ADOPCION POR CONYUGES. Los consortes en pleno ejercicio de sus derechos y que no tengan hijos, podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
+ADOPCION POR CONYUGES. Los consortes en pleno ejercicio de sus derechos, podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
 
 Nadie puede ser adoptado por más de una persona, salvo en el caso anterior.
 
@@ -1729,7 +1741,7 @@ El Juez que apruebe la adopción remitirá copias de las diligencias respectivas
 
 ###### ARTICULO 249.
 
-LIMITES DE DERECHOS Y OBLIGACIONES DERIVADOS DE LA ADOPCION. Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 128 de este Código.
+(DEROGADO, P.O. 15 DE JUNIO DE 2005)
 
 ###### ARTICULO 250.
 
@@ -1741,39 +1753,55 @@ La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
 REGULACION PROCESAL DE LA REVOCACION DE LA ADOPCION. El procedimiento y los efectos de la revocación se reglamentan en los numerales 842 al 848 del Código Procesal Civil.
 
-### CAPITULO VI. DE LA ADOPCION PLENA
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2005)</small>
+
+### CAPITULO VI. DE LOS EFECTOS Y PROCEDIMIENTO DE LA ADOPCION
 
 ###### ARTICULO 252.
 
-MARCO JURIDICO. La adopción plena se sujetará a lo establecido en el presente Capítulo y, en lo no previsto, a lo dispuesto en el Capítulo V precedente.
+(DEROGADO, P.O. 15 DE JUNIO DE 2005)
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 253.
 
-NOCION DE ADOPCION PLENA. La adopción plena tiene las siguientes características:
+EFECTOS DE LA ADOPCIÓN. La adopción tiene los siguientes efectos:
 
-I.- Sólo podrán ser adoptados los menores de seis años, abandonados, expósitos o entregados a una institución de asistencia autorizada para promover su adopción;
+I.- Podrán ser adoptados los menores de edad, incapaces, abandonados o expósitos, acogidos o entregados a una institución de asistencia autorizada para promover su adopción, e incapacitados aún cuando sean mayores de edad siempre que la adopción sea benéfica.
 
-II.- Unicamente podrán adoptar las personas que reúnan los requisitos establecidos en los artículos 243 y 244 de este Código, con la limitación de que no podrán ser adoptantes las personas mayores de cincuenta años;
+Para efectos de este Código el menor expósito es aquél del se desconoce quienes son sus padres o familiares, y que posterior a tres meses de que fue acogido por una institución pública o privada, ha sido declarado ministerialmente en estado de exposición.
 
-III.- La adopción, una vez aprobada, será irrevocable;
+Se entiende por menor abandonado el acogido por una institución pública o privada de protección a menores, cuyos padres se han desinteresado de él durante tres meses y que ha sido declarado ministerialmente en estado de abandono;
 
-IV.- La patria potestad se ejercerá en los términos y por las personas señaladas en este Código para los hijos consanguíneos; y
+II.- La patria potestad se ejercerá en los términos y por las personas señaladas en este Código para los hijos consanguíneos; y
 
-V.- El adoptado se integrará a la familia de los adoptantes, adquiriendo lazos de parentesco con todos los parientes de éstos, como si hubiera filiación consanguínea; correlativamente, se extinguirá toda relación de parentesco con sus parientes naturales.
+III. El adoptado se integrará a la familia de los adoptantes, adquiriendo lazos de parentesco con todos los parientes de éstos, como si hubiera filiación consanguínea; correlativamente se extinguirá toda relación de parentesco con sus parientes naturales.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 254.
 
-PROCEDIMIENTO. La adopción plena requerirá de aprobación judicial, cuyo trámite se hará conforme al procedimiento establecido en el Capítulo VII, del Título Primero, del Libro Séptimo del Código Procesal Civil en lo conducente y atentas las disposiciones del presente Capítulo.
+PROCEDIMIENTO. La adopción requerirá de aprobación judicial, cuyo trámite se hará conforme al procedimiento establecido en el Capítulo VII, del Título Primero, del Libro Séptimo del Código Procesal Civil en lo conducente y atentas las disposiciones del presente Capítulo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 255.
 
-INTERVENCION DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo procedimiento relativo a adopción plena, tendrá intervención como parte el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
+INTERVENCION DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo procedimiento relativo a la adopción, tendrá intervención como parte al Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Defensa del Menor y la Familia.
+
+El sistema para el Desarrollo Integral de la Familia en Morelos, a través de la Procuraduría de la Defensa del Menor y la Familia, deberá realizar el seguimiento del otorgamiento en adopción de acuerdo a lo establecido en el Reglamento para Adopción de Menores.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 256.
 
-EFECTOS EN EL REGISTRO CIVIL. La resolución que apruebe la adopción plena ordenará al Oficial del Registro Civil que levante acta de nacimiento, en la que figurarán como padres los adoptantes y como abuelos los padres de éstos, sin hacer mención de la adopción. También ordenará la cancelación, en su caso, del acta de nacimiento del adoptado.
+EFECTOS EN EL REGISTRO CIVIL. La resolución que apruebe la adopción ordenará al Oficial del Registro Civil que levante acta de nacimiento, en la que figurarán como padres los adoptantes y como abuelos los padres de éstos, sin hacer mención de la adopción. También ordenará la cancelación, en su caso, del acta de nacimiento del adoptado.
 
-La resolución judicial se guardará en el apéndice del acta, quedando absolutamente prohibido dar información sobre ella, salvo orden de Juez competente.
+La resolución judicial se guardará en el apéndice del acta, quedando absolutamente prohibido dar información sobre ella, excepto en los siguientes casos y siempre que sea por orden de Juez competente:
+
+I. Para efectos de impedimento para contraer matrimonio, y
+
+II. Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; si fuere menor de edad se requerirá el consentimiento del o los adoptantes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1851,7 +1879,7 @@ PATRIA POTESTAD SOBRE EL HIJO NACIDO FUERA DE MATRIMONIO. Cuando los padres del 
 
 ###### ARTICULO 262.
 
-PATRIA POTESTAD SOBRE EL ADOPTADO. La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
+(DEROGADO, P.O. 15 DE JUNIO DE 2005)
 
 ###### ARTICULO 263.
 
@@ -1981,7 +2009,9 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 82
 
 III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y
 
-IV.- Por la exposición o el abandono del sujeto a patria potestad que dure hasta seis meses, por quien ejerza ésta conforme a la Ley.
+> <small>(REFORMADA P.O. 15 DE JUNIO DE 2005)</small>
+
+IV.- Por la exposición o el abandono del sujeto a patria potestad que dure hasta tres meses, por quien ejerza ésta conforme a la Ley.
 
 En el caso de ulteriores nupcias de quien ejerza la patria potestad, no confiere al cónyuge nuevo el derecho de su ejercicio respecto de las personas que están sujetas a ella.
 
@@ -15424,3 +15454,11 @@ DECRETO No. 1062
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se concede al Titular del Poder Ejecutivo un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para que expida el Reglamento de Adopción de Menores a que se refiere el artículo 255 del Código Civil para el Estado Libre y Soberano de Morelos.
+
+TERCERO.- Remítase el Presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
