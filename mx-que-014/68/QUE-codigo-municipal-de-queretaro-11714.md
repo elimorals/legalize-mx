@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2004-10-01"
+last_updated: "2005-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -677,7 +677,7 @@ Para el despacho de los asuntos de su competencia, el Secretario de Economía y 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO VI. De la Secretaría de Desarrollo Sustentable del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
+### CAPITULO VI. Secretaría de Desarrollo Sustentable del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -993,139 +993,21 @@ La vigilancia de los organismos descentralizados y las empresas de participació
 
 ### CAPITULO XI. De la Secretaría de la Contraloría Municipal
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+ARTICULO 83 bis.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-ARTICULO 83 bis.- La Secretaría de la Contraloría Municipal es la unidad administrativa que dentro de la estructura orgánica del Municipio de Querétaro, tiene como función primordial la aplicación del Sistema Municipal de Prevención, Vigilancia, Control y Evaluación, la salvaguarda de los principios de legalidad, honradez, lealtad, imparcialidad de eficiencia de los Servidores Públicos de la Administración Pública Municipal, la aplicación de los procesos de determinación de responsabilidad administrativa y sanciones disciplinarias que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado.
+ARTICULO 83 bis 1.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+ARTICULO 83 bis 2.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-ARTICULO 83 bis 1.- La Secretaría de la Contraloría Municipal tiene como finalidad operar el sistema de control y evaluación, que permite que los recursos humanos, materiales y financieros, se administren adecuadamente conforme al plan, programas y presupuesto aprobados, observando las disposiciones legales al respecto.
+ARTICULO 83 bis 3.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+ARTICULO 83 bis 4.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-ARTICULO 83 bis 2.- El Secretario de la Contraloría Municipal, será nombrado a propuesta del Presidente Municipal, con aprobación del Ayuntamiento; dependerá funcionalmente de este cuerpo colegiado y operacionalmente del Presidente Municipal; quien se auxiliará del personal que le sea necesario para el desempeño de sus funciones.
+ARTICULO 83 bis 5.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-El Ayuntamiento analizará y aprobará en su caso las políticas, planes y sistemas que le proponga la Contraloría para el cumplimiento de sus tareas; igualmente aprobará la calendarización y programa de actividades de la Secretaría de la Contraloría Municipal.
+ARTICULO 83 bis 6.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 83 bis 3.- Para ser Secretario de la Contraloría Municipal de Querétaro se requiere:
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-I. Ser mexicano, en pleno uso de sus derechos, no estar imposibilitado para desempeñar cargo, empleo o comisión pública y no haber sido condenado, en proceso penal, por delito intencional.
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-II. Tener título profesional de Contador Público, Actuario, Licenciado en Administración u otro equivalente, y contar con los conocimientos y experiencia suficiente para desempeñar el cargo, a juicio del Ayuntamiento.
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-III. Haber ejercido la práctica profesional, por un período no menor de cinco años;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-IV. Ser de reconocida solvencia moral en la localidad.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 83 bis 4.- La Secretaría de la Contraloría Municipal tendrá las siguientes atribuciones:
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-I. Inspeccionar el ejercicio del gasto público y su congruencia con los presupuestos de egresos del Municipio;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-II. Vigilar el uso correcto de los recursos patrimoniales del Municipio, los que la Federación les transfiera para su ejercicio y administración y los que el Estado otorgue para los programas;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-III. Proponer al Cabildo para que en el reglamento respectivo, se expida, reformen o adicionen las normas reguladoras del funcionamiento, instrumentos y procedimientos de control de la administración pública municipal;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-IV. Vigilar el cumplimiento de las normas de control y fiscalización, asesorando y apoyando a los organismos de control interno de las dependencias y organismos municipales;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-V. Establecer las bases generales para la realización de auditorías, en las dependencias y entidades municipales;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-VI. Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones, que en materia de planeación, presupuesto, ingreso, financiamiento, inversión, deuda, patrimonio y valores, tenga la administración municipal;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-VII. Establecer, métodos, procedimientos y sistemas que permitan el logro de los objetivos encomendados a la Secretaría de la Contraloría Municipal, así como vigilar su observancia y aplicación;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-VIII. Asesorar técnicamente a los responsables de unidades administrativas, sobre reformas administrativas relativas a organización, métodos, procedimientos y controles;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-IX. Practicar auditorías a petición de la Contraloría de la Federación, Contraloría del Estado, Ayuntamiento, Presidente Municipal, Secretaría de Economía y Finanzas y Tesorería Municipal, a efecto de promover la eficiencia de sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, iniciando el procedimiento correspondiente a fin de fincar responsabilidad en su caso, por conducto del Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-X. Proporcionar información a la Secretaría de la Contraloría Municipal y Desarrollo Administrativo Federal o a la Secretaría de la Contraloría del Estado, sobre el destino y uso de los recursos transferidos;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-XI. Vigilar directamente o a través de los órganos de control de las entidades municipales, el cumplimiento de normas y disposiciones sobre: Registro y contabilidad, contratación y pago de personal, contratación e servicios, obra pública, adquisiciones, arrendamientos, uso y conservación de bienes muebles e inmuebles, activos y en general los recursos materiales del municipio;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-XII. Emitir opinión sobre proyectos de sistemas de contabilidad y control en materia de programación, presupuesto, administración de recursos humanos, materiales y financieros, contratación de deuda y manejo de fondos y valores que formule la Secretaría de Economía y Finanzas y Tesorería Municipal;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-XIII. Informar cuando lo requiera el Cabildo, sobre el resultado de la evaluación y responsabilidad de las dependencias y entidades de la administración municipal que hayan sido objeto de investigación;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-XIV. Conocer e investigar los actos ilícitos u omisiones en el cumplimiento de sus funciones de los servidores públicos a fin de que se sancionen administrativamente conforme a la Ley de Responsabilidad de los Servidores Públicos, y en su caso se ejercite la acción correspondiente por conducto del Síndico Municipal;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-XV. Atender las quejas de la ciudadanía, relativas al ámbito de su competencia y de acuerdo a las atribuciones conferidas a la Secretaría de la Contraloría Municipal; y
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-XVI. Las demás que expresamente le confieran las leyes y reglamentos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 83 bis 5.- El Secretario de la Contraloría Municipal, tendrá entre otras obligaciones, las siguientes:
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-I. Elaborar y ejecutar el programa anual de actividades que deberá ser presentado al Ayuntamiento, por conducto del Presidente Municipal, durante el mes de enero de cada año;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-II. Elaborar bimestralmente un informe de las actividades desarrolladas, así como de la ejecución del programa anual de actividades y remitirlo al Presidente Municipal;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-III. Informar al Ayuntamiento, por conducto del Presidente Municipal o Síndicos Municipales de las revisiones administrativas o auditorías realizadas a las dependencias y entidades municipales, así como las observaciones o recomendaciones, derivadas de las mismas y del seguimiento y corrección de ellas;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-IV. Desahogar el procedimiento administrativo de investigación a que se refiere el Título Sexto de la Ley de Responsabilidades de los Servidores Públicos, informando al Presidente Municipal de los mismos y de las resoluciones que se dicten;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
-
-V. Vigilar que dentro de la estructura de la administración pública municipal no se contraten a los servidores públicos inhabilitados.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 83 bis 6.- La Secretaría de la Contraloría Municipal, con autorización expresa del Presidente Municipal, podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoría y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral algunas acciones de la competencia de la propia Secretaría de la Contraloría Municipal. En este caso, se establecerá por escrito el carácter confidencial de las diligencias y sus resultados deberán informarse al Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 83 bis 7.- Todos los servidores públicos que integran la Administración Pública Municipal, tendrán la obligación de proporcionar al Secretario de la Contraloría Municipal, la información y documentación que éste les solicite en el plazo que para el efecto les conceda, a fin de garantizar el cumplimiento de su cometido, en la inteligencia de que la Secretaría de la Contraloría Municipal en el desempeño de sus funciones procurará que éstas se verifiquen sin entorpecer el funcionamiento normal del servidor público.
+ARTICULO 83 bis 7.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
 APARTADO TERCERO
 
@@ -8680,3 +8562,21 @@ TERCERO. Respecto de las reformas a los artículos 910, 973 Bis, 987, 992 y 995 
 CUARTO. Los procedimientos o recursos administrativos, que se hubieren iniciado con anterioridad a la entrada en vigencia de la Ley de Procedimientos Administrativos para el Estado y Municipios, se tramitarán y resolverán conforme a las disposiciones que los originaron.
 
 QUINTO. Notifíquese a los titulares de la Secretaría General de Gobierno Municipal, Secretaría de Administración, Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría de Obras Públicas Municipales, Secretaría de la Contraloría Municipal, Secretaría de Economía y Finanzas y Tesorería Municipal, Secretaría de Desarrollo Social, Secretaría de Servicios Públicos Municipales e Instituto Municipal de Equidad de Género.
+
+P.O. 15 DE JUNIO DE 2005.
+
+REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos, 83 BIS, 83 BIS 1, 83 BIS 2, 83 BIS 3, 83 BIS 4, 83 BIS 5, 83 BIS 6, 83 BIS 7 del Código Municipal de Querétaro, así como todas aquellas disposiciones de igual o menor jerarquía que contravengan al presente reglamento.
