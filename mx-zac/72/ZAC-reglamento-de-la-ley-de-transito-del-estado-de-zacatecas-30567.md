@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-transito-del-estado-de-zacatecas-30567"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-12-15"
-last_updated: "2003-05-14"
+last_updated: "2005-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2003.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MAYO DE 2003.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2005.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de diciembre de 1990.
 
@@ -175,7 +173,9 @@ III.- Utilizar el silbato y el sistema de señales humanas establecidas, para ag
 
 IV.- Permanecer en el área de servicio de vigilancia ordinario o extraordinario que se le encomiende;
 
-V.- Proteger y auxiliar a los ancianos, minusválidos y menores de edad al cruzar las vías públicas;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
+
+V.- Proteger y auxiliar a las personas de la tercera edad, con discapacidad y menores de edad al cruzar las vías públicas;
 
 VI.- Levantar y remitir las infracciones a la ley y Reglamento en que incurran los conductores;
 
@@ -226,6 +226,10 @@ IV.- Abandono injustificado por más de 72 horas en las vías públicas;
 V.- Violación grave a las reglas sobre circulación, o sobre presentación de servicio público de transporte;
 
 VI.- Orden escrita de autoridad competente.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2005)</small>
+
+VII.- Cuando se incurra en alguno de los supuestos que prevé el artículo 48 de este Reglamento.
 
 ### CAPITULO III. DE LA CLASIFICACION DE LOS VEHICULOS
 
@@ -415,6 +419,24 @@ XVI. No utilizar cornetas de aire dentro de la zona urbana, y
 
 XVII. Se prohibe la instalación de calcomanías en cualquier parte del vehículo, que muestren imágenes que hagan apología de algún delito.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 14-A.
+
+Las personas con discapacidad que utilicen vehículos automotores tendrán derecho a que se les expida un tarjetón con el logotipo universal de discapacidad y su uso será obligatorio en los espacios de estacionamiento asignados para este sector de la población.
+
+El tarjetón será expedido por la Comisión Estatal para la Integración Social de las Personas con Discapacidad (CEISD) y deberá ser refrendado anualmente por quien ostente la titularidad de dicho documento.
+
+La CEISD informará mensualmente a la Dirección sobre los tarjetones otorgados, con el fin de que dicha Dirección mantenga actualizada la base de datos creada para tales efectos.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 14-B.
+
+El conductor que haga uso indebido del tarjetón a que se refiere el artículo anterior o utilice un tarjetón falsificado, será sujeto a sanción pecuniaria equivalente a 5 días de salario mínimo general vigente; ello, sin perjuicio de la responsabilidad penal que pudiera proceder.
+
+En los casos de uso indebido del tarjetón, la Dirección podrá ordenar a la CEISD la suspensión o cancelación de tal documento.
+
 ###### ARTICULO 15.
 
 Los vehículos de servicio público para pasajeros, automóviles y autobuses, además de llenar los requisitos establecidos en el artículo anterior deberán:
@@ -426,6 +448,14 @@ II.- Llevar adherido en el interior en lugar visible, salvo parabrisas y vidrio 
 III.- Presentar condiciones satisfactorias de limpieza y comodidad. Serán fumigados cada 6 meses;
 
 IV.- Omitir el uso de vidrios polarizados, aditamentos o accesorios no autorizados por la Dirección, y la inscripción de leyendas o frases que ataquen la moral o las buenas costumbres.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2005)</small>
+
+V.- En el caso de autobuses, contar con lugares exclusivos para las personas de la tercera edad y con discapacidad, los asignados a estas últimas deberán estar identificados con el logotipo universal de discapacidad; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2005)</small>
+
+VI.- Permitir el acceso de perros guías de personas ciegas y débiles visuales.
 
 ###### ARTICULO 16.
 
@@ -535,6 +565,12 @@ VIII.- Cambiar de carril cuando exista raya continua delimitando los carriles de
 
 IX. Conducir utilizando el teléfono celular, o en su caso, cualquier tipo de audífono o con el aparato de sonido a tal volumen, que le sea racionalmente imposible al conductor percatarse de los estímulos auditivos del ambiente.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 24-A.
+
+Los conductores y peatones están obligados a respetar las indicaciones de los agentes de tránsito. En caso de que por cualquier medio los obstruyan en el cumplimiento de sus funciones, se harán acreedores a una multa de 20 días de salario mínimo.
+
 LIMITES LEGALES DE VELOCIDAD MAXIMA
 
 ###### ARTICULO 25.
@@ -554,6 +590,12 @@ Callejones 20 km/h.
 Se prohibe transitar a una velocidad tan baja, que entorpezca el tránsito o haya riesgo de accidente, excepto en aquellos casos en que así lo determinen las condiciones de las vialidades, del tránsito de la visibilidad.
 
 En base a estudios técnicos de necesidad, los límites de velocidad a que se refiere este artículo, podrán variar, debiendo existir en tal caso, el señalamiento vial respectivo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JUNIO DE 2005)</small>
+
+Los conductores que excedan en 20 kilómetros las velocidades máximas establecidas en este artículo o las especificadas en los señalamientos viales respectivos, se harán acreedores a una multa de 20 días de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2005)</small>
 
 Los conductores que reincidan en la infracción de los límites de velocidad, serán sancionadas con la suspensión de la licencia.
 
@@ -851,13 +893,19 @@ XV.- En sentido contrario;
 
 XVI.- Frente a tomas de agua para bomberos;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
 
-XVII.- En los lugares destinados a los discapacitados o personas con capacidades diferentes, o frente a las rampas de acceso a la banqueta;
+XVII.- En los lugares destinados a las personas con discapacidad o frente a las rampas especiales de acceso a la banqueta;
 
 XVIII.- En donde exista señalamiento o marca que indique prohibido el estacionamiento;
 
 XIX.- En vías de circulación contínua, por falta de combustible en el vehículo, o cualquier otra causa.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 48-A.
+
+En el caso de violaciones a las disposiciones contenidas en el artículo anterior, los agentes podrán utilizar aditamentos inmovilizadores del vehículo y tratándose de la fracción XVII, la multa que corresponda a la citada infracción podrá incrementarse en un 50%.
 
 PROHIBICION DE APARTAR LUGARES
 
@@ -867,7 +915,13 @@ Queda prohibido apartar lugares de estacionamiento en la vía pública, así com
 
 Los agentes removerán o depositarán en la Dirección, los objetos a que se refiere este artículo.
 
-La Dirección procurará no autorizar el estacionamiento exclusivo en la vía pública, que en es (sic) es un bien de uso común.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+La Dirección procurará no autorizar el estacionamiento exclusivo en la vía pública, salvo los lugares destinados para las personas con discapacidad, los que serán determinados por la Dirección.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+La Comisión Estatal para la Integración Social de la Personas con Discapacidad podrá solicitar a la Dirección la asignación de cajones de estacionamiento, presentando la justificación correspondiente.
 
 ### CAPITULO VIII. CLASIFICACION DE LAS VIAS PUBLICAS
 
@@ -1359,6 +1413,70 @@ e).- Substancias tóxicas, inflamables o explosivas.
 
 El que se presta con camioneta o camión de dos o más ejes, acondicionados, a tarifa convencional, destinado a circular por vías de jurisdicción estatal, para el traslado de substancias tóxicas, inflamables o explosivas.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 74-A.
+
+El servicio público de transporte turístico podrá prestarse bajo las modalidades siguientes:
+
+I. Foráneo, es aquel que se presta con autobús o minibús, a tarifa autorizada y destinado a circular por vías de jurisdicción estatal, quedando sujeto a los itinerarios previamente autorizados por la Dirección, escuchando la opinión de la Secretaría de Turismo; y
+
+II. Urbano, es aquel que se presta en las zonas típicas a que se refiere el artículo 9 de la Ley de Protección y Conservación de Zonas Típicas del Estado de Zacatecas, a tarifa y recorrido previamente autorizados por la Dirección, escuchando la opinión de la Secretaría de Turismo.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 74-B.
+
+La Dirección deberá efectuar los estudios técnicos necesarios para determinar las rutas para el servicio público de transporte turístico en sus diversas modalidades y los paraderos de ascenso y descenso de los usuarios. Para tales efectos, solicitará la opinión de la Secretaría de Turismo y el Instituto Zacatecano de Cultura.
+
+Los referidos paraderos serán identificados con los señalamientos que establezca la propia Dirección, escuchando las recomendaciones que solicite a la Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 74-C.
+
+Para el otorgamiento de la concesión para la prestación del servicio público de transporte turístico, además de cubrir los requisitos previstos en los artículos 76 y 77 fracciones I y II del presente Reglamento, los solicitantes deben cumplir con lo siguiente:
+
+I. Prestar el servicio en autobuses y/o minibuses con las características exigidas por la Dirección;
+
+II. Registrarse en la Secretaría de Turismo y en el Instituto Zacatecano de Cultura y refrendar dicho registro anualmente;
+
+III. Enviar a sus operadores a los cursos de capacitación que impartan las dependencias mencionadas en la fracción anterior y sujetarse a la evaluación que éstas emitan;
+
+IV. Capacitar a sus operadores para que tengan la suficiente sensibilidad para atender a las personas con discapacidad y de la tercera edad; y
+
+V. Con las obligaciones que derivan de su calidad de prestadores de servicios turísticos y que están contenidas en la Ley para el Desarrollo Turístico del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 74-D.
+
+Los prestadores del servicio público de transporte turístico en recorridos específicos no pueden:
+
+I. Modificar las rutas autorizadas;
+
+II. Realizar paradas de ascenso y descenso de pasajeros fuera de los puntos autorizados en la ruta;
+
+III. Exceder la capacidad de pasajeros de acuerdo al número de asientos; y,
+
+IV. Prestar los servicios en vehículos distintos a los señalados en el artículo 74-C fracción II del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 74-E.
+
+Los autobuses y/o minibuses dedicados a este servicio deben contar con:
+
+I. Colores distintivos de acuerdo al recorrido autorizado y que serán asignados por la Dirección;
+
+II. Lugares exclusivos para las personas con discapacidad y de la tercera edad;
+
+III. Mapa con los diferentes puntos de ascenso y descenso que integran el recorrido autorizado, así como aquellos lugares que sean de interés para el usuario de dicho transporte; y (sic)
+
+IV. Sistema de sonido adecuado por el cual se indique las paradas en español y en otro idioma y que, además, permita a los usuarios escuchar claramente los comentarios de los operadores sobre los sitios turísticos que integran la ruta; y
+
+V. La tarifa autorizada en lugar visible de la unidad, escrita en español y algún otro idioma.
+
 SANCIONES PECUNIARIAS POR FALTAS COMETIDAS EN LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 75.
@@ -1404,6 +1522,10 @@ XVIII).- No cumplir los horarios establecidos
 XIX).- Negarse a prestar el servicio al usuario
 
 XX).- Injuriar de palabra o de obra a otros prestadores del servicio público.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2005)</small>
+
+XXI).- No proporcionar los espacios físicos necesarios para las personas de la tercera edad o con discapacidad.
 
 ### CAPITULO XII. DE LAS CONCESIONES
 
@@ -1585,19 +1707,25 @@ Las escuelas proporcionarán al alumno que termine su instrucción, una constanc
 
 ### CAPITULO XIV. DE LAS SANCIONES PECUNIARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 94.
 
-Al conductor que contravenga las disposiciones del presente Reglamento se le sancionará, de acuerdo a la falta cometida, con el pago de una multa correspondiente al importe de 1, 3 ó 5 días de salario mínimo general vigente en el Estado, según se indica a continuación:
+Al conductor que contravenga las disposiciones del presente Reglamento se le sancionará, de acuerdo a la falta cometida, con el pago de una multa correspondiente al importe de uno, tres, cinco o veinte días de salario mínimo general vigente en el estado, según se indica a continuación:
 
 > <small>N. DE E. VÉASE MULTAS EN EL SUPLEMENTO AL P.O. DE 15 DE DICIEMBRE DE 1990, PÁGINAS 92 A 98.</small>
 
 > <small>N. DE E. VÉASE REFORMAS A LAS MULTAS EN EL SUPLEMENTO DEL P.O. DE 26 DE ABRIL DE 2003, PÁGINAS 7 Y 8.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LAS MULTAS EN EL SUPLEMENTO DEL P.O. DE 15 DE JUNIO DE 2005, PÁGINA 9.</small>
+
 DESCUENTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 95.
 
-El infractor que pague la multa dentro de los cinco días siguientes a la fecha de la infracción, tendrá derecho a un descuento del 50%.
+El infractor que pague la multa dentro de los cinco días siguientes a la fecha de la infracción, tendrá derecho a un descuento del 50%. Dicho beneficio no se aplicará cuando se trate de las infracciones a los artículos 24 fracciones V, VII y VIII, 24-A, 25, 48 fracciones II, V, XIV, XVII y XVIII y 59 fracción III de este Reglamento.
 
 Después de ese plazo no se le concederá descuento alguno.
 
@@ -1630,3 +1758,11 @@ Artículo Primero.- El presente Decreto entrará en vigor a los treinta días na
 Artículo Segundo.- Se derogan las disposiciones administrativas que contravengan este Decreto.
 
 Artículo Tercero.- La Secretaría General de Gobierno a través de la Dirección de Transporte Público y Vialidad, realizará la difusión de este Decreto en los medios masivos de comunicación de la Entidad.
+
+P.O. 15 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que contravengan el presente instrumento.
+
+TERCERO.- La Secretaría General de Gobierno, a través de la Dirección de Transporte Público y Vialidad y con apoyo de la Comisión Estatal para la Integración Social de las Personas con Discapacidad, realizará la difusión de este Decreto en los medios masivos de comunicación de la Entidad.
