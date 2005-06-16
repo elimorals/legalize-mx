@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2004-05-26"
+last_updated: "2005-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2005.
 
-Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
+Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -167,7 +167,7 @@ Son autores o partícipes del delito:
 
 > <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
 
-I.- Los que acuerden o preparen su realización.
+I.- Los que acuerden o preparen su realización;
 
 > <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -993,7 +993,7 @@ III.- Que haya reparado o se comprometa a reparar el daño causado, sujetándose
 
 Llenados los anteriores requisitos, la autoridad competente podrá conceder la libertad, sujeta a las siguientes condiciones:
 
-a).- Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando la cincunstancia (sic) de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
+a).- Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando la cincunstancia (sic) de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda;
 
 b).- Desempeñar en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia;
 
@@ -1025,7 +1025,7 @@ e) Homicidio, previsto en los artículos 315, 315 bis y 320;
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-f) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter.;
+f) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter;
 
 g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
@@ -1117,11 +1117,11 @@ VI.- En caso de haberse nombrado fiador para el cumplimiento de las obligaciones
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-VII.- Si durante el término de duración de la pena, desde la fecha de la sentencia que cause ejecutoria el condenado no diere lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será consignado como reincidente sin perjuicio de lo establecido en el artículo 20 de este Código. Tratándose del delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida;
+VII.- Si durante el término de duración de la pena, desde la fecha de la sentencia que cause ejecutoria el condenado no diere lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será consignado como reincidente sin perjuicio de lo establecido en el artículo 20 de este Código. Tratándose del delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida.
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-VIII.- Los hechos que originen el nuevo proceso interrumpen el término a que se refiere la fracción VII tanto si se trata del delito doloso como culposo, hasta que se dicte sentencia firme;
+VIII.- Los hechos que originen el nuevo proceso interrumpen el término a que se refiere la fracción VII tanto si se trata del delito doloso como culposo, hasta que se dicte sentencia firme.
 
 IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el condenado, el juez podrá hacer efectiva la sanción suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha sanción.
 
@@ -1961,7 +1961,7 @@ I.- Por el solo hecho de quitar o modificar sin la debida autorización: uno o m
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II. Al que destruya o separe uno o más postes, aisladores, alambres, máquinas o aparatos, empleados en el servicio de telégrafos; cualquiera de los componentes de la red pública de telecomunicaciones, empleada en el servicio telefónico, de conmutación o de radiocomunicación, o cualquier componente de una instalación de producción de energía magnética o electromagnética o sus medios de transmisión.
+II.- Al que destruya o separe uno o más postes, aisladores, alambres, máquinas o aparatos, empleados en el servicio de telégrafos; cualquiera de los componentes de la red pública de telecomunicaciones, empleada en el servicio telefónico, de conmutación o de radiocomunicación, o cualquier componente de una instalación de producción de energía magnética o electromagnética o sus medios de transmisión;
 
 III.- Al que, para detener los vehículos en un camino público, o impedir el paso de una locomotora, o hacer descarrilar ésta o los vagones, quite o destruya los objetos que menciona la fracción I, ponga algún estorbo, o cualquier obstáculo adecuado;
 
@@ -1971,7 +1971,7 @@ V.- Al que inundare en todo o en parte, un camino público o echare sobre él la
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-VI. Al que dolosamente o con fines de lucro, interrumpa o interfiera las comunicaciones, alámbricas, inalámbricas o de fibra óptica, sean telegráficas, telefónicas o satelitales, por medio de las cuales se transfieran señales de audio, de video o de datos;
+VI.- Al que dolosamente o con fines de lucro, interrumpa o interfiera las comunicaciones, alámbricas, inalámbricas o de fibra óptica, sean telegráficas, telefónicas o satelitales, por medio de las cuales se transfieran señales de audio, de video o de datos;
 
 VII.- Al que destruya en todo o en parte o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación o destruya o deteriore un puente, un dique, una calzada o camino, o una vía;
 
@@ -2663,7 +2663,7 @@ VII.- Cuando teniendo conocimiento de una privación ilegal de la libertad no la
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
-VIII.- Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
+VIII.- Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -3139,7 +3139,7 @@ Se impondrá de uno a cinco años de prisión y hasta quinientos días multa:
 
 I.- Al que, produzca, almacene o distribuya piezas de papel con tamaño similar o igual al de los billetes, cuando dichas piezas presenten algunas de las imágenes o elementos de los contenidos en aquellos, resultando con ello piezas con apariencia de billetes;
 
-II.- Al que marque la moneda con leyendas, sellos, troqueles o de cualquier otra forma, que no sean delebles para divulgar mensajes dirigidos al público.
+II.- Al que marque la moneda con leyendas, sellos, troqueles o de cualquier otra forma, que no sean delebles para divulgar mensajes dirigidos al público;
 
 III.- Al que permita el uso o realice la enajenación, por cualquier medio y título, de máquinas, instrumentos o útiles que únicamente puedan servir para la fabricación de moneda, a personas no autorizadas legalmente para ello.
 
@@ -3235,11 +3235,11 @@ II.- Al que falsifique en la República los sellos punzones o marcas de una naci
 
 III.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 
-IV.- Al que, para defraudar a otro altere las pesas y las medidas legítimas o quite de ellas las marcas verdaderas y las pase a pesas o medidas falsas, o haga uso de éstas.
+IV.- Al que, para defraudar a otro altere las pesas y las medidas legítimas o quite de ellas las marcas verdaderas y las pase a pesas o medidas falsas, o haga uso de éstas;
 
 V.- Al que falsifique los sellos nacionales o extranjeros adheribles;
 
-VI.- Al que haga desaparecer alguno de los sellos de que habla la fracción anterior o la marca indicadora que ya se utilizó.
+VI.- Al que haga desaparecer alguno de los sellos de que habla la fracción anterior o la marca indicadora que ya se utilizó;
 
 VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga uso indebido de ellos; y
 
@@ -3285,7 +3285,7 @@ VII.- Añadiendo o alterando cláusulas o declaraciones, o asentando como cierto
 
 VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales, suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancial, y
 
-IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo.
+IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo;
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
@@ -3467,13 +3467,13 @@ e).- La suspensión de la producción, procesamiento, distribución, oferta o ve
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-Si se depone la conducta ilícita dentro de los dos días hábiles siguientes al momento en que la autoridad administrativa competente lo requiera, la sanción aplicable será de seis meses a tres años de prisión, o de cien a quinientos días multa;
+Si se depone la conducta ilícita dentro de los dos días hábiles siguientes al momento en que la autoridad administrativa competente lo requiera, la sanción aplicable será de seis meses a tres años de prisión, o de cien a quinientos días multa.
 
 f).- La exportación, sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con las disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-g).- La venta con inmoderado lucro, por los productores, distribuidores o comerciantes en general. En los casos de que el lucro indebido sea inferior al equivalente a sesenta días del salario mínimo general vigente en la región y en el momento donde se consuma el delito, se sancionará con prisión de dos a seis años y de sesenta a trescientos días multa;
+g).- La venta con inmoderado lucro, por los productores, distribuidores o comerciantes en general. En los casos de que el lucro indebido sea inferior al equivalente a sesenta días del salario mínimo general vigente en la región y en el momento donde se consuma el delito, se sancionará con prisión de dos a seis años y de sesenta a trescientos días multa.
 
 h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un fin determinado, por una entidad pública o por sus distribuidores, cuando el precio a que se hubiese entregado la mercancía sea inferior al que tenga si se destina a otros usos.
 
@@ -3483,7 +3483,7 @@ i).- Impedir o tratar de impedir la generación, conducción, transformación, d
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-j).- Interrumpir o interferir intencionalmente la producción, o el servicio de almacenamiento o distribución de gas natural, artificial o licuado de petróleo
+j).- Interrumpir o interferir intencionalmente la producción, o el servicio de almacenamiento o distribución de gas natural, artificial o licuado de petróleo.
 
 > <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
@@ -4529,6 +4529,10 @@ b) Detener en calidad de rehén a una persona y amenazar con privarla de la vida
 
 c) Causar daño o perjuicio a la persona privada de la libertad o a cualquier otra;
 
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+d) Cometer secuestro exprés, desde el momento mismo de su realización, entendiéndose por éste, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten;
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 II. De veinte a cuarenta años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad a que se hace referencia en la fracción anterior concurre alguna o algunas de las circunstancias siguientes:
@@ -4799,7 +4803,7 @@ Además de la pena que le corresponda conforme a los artículos 370 y 371, se ap
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
-I.- Cuando se cometa el delito en un lugar cerrado.
+I.- Cuando se cometa el delito en un lugar cerrado;
 
 II.- Cuando lo cometa un dependiente o un doméstico contra su patrón o alguno de la familia de éste, en cualquier parte que lo cometa.
 
@@ -4811,7 +4815,7 @@ IV.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, c
 
 V.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes, y
 
-VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación, oficina, bodega u otro lugar al que tengan libre entrada por el carácter indicado.
+VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación, oficina, bodega u otro lugar al que tengan libre entrada por el carácter indicado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -4827,7 +4831,7 @@ IX.- Cuando se cometa por una o varias personas armadas, o que utilicen o porten
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE ENERO DE 1984)</small>
 
-X.- Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales, contra personas que las custodien o transporten aquéllos.
+X.- Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales, contra personas que las custodien o transporten aquéllos;
 
 (ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
 
@@ -4913,7 +4917,7 @@ I.- Con prisión de 3 días a 6 meses o de 30 a 180 días multa, cuando el valor
 
 (F. DE E., D.O.F. 13 DE ENERO DE 1982) (F. DE E., D.O.F. 15 DE ENERO DE 1982)
 
-II.- Con Prisión de 6 meses a 3 años y multa de 10 a 100 veces el salario, cuando el valor de lo defraudado excediera de 10, pero no de 500 veces el salario.
+II.- Con Prisión de 6 meses a 3 años y multa de 10 a 100 veces el salario, cuando el valor de lo defraudado excediera de 10, pero no de 500 veces el salario;
 
 III.- Con prisión de tres a doce años y multas hasta de ciento veinte veces el salario, si el valor de lo defraudado fuere mayor de quinientas veces el salario.
 
@@ -6168,3 +6172,7 @@ D.O.F. 12 DE JUNIO DE 2003.
 D.O.F. 26 DE MAYO DE 2004.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JUNIO DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
