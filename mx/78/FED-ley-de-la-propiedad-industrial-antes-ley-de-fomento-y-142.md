@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2004-01-26"
+last_updated: "2005-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -103,7 +103,9 @@ I.- Coordinarse con las unidades administrativas de la Secretaría de Comercio y
 
 II.- Propiciar la participación del sector industrial en el desarrollo y aplicación de tecnologías que incrementen la calidad, competitividad y productividad del mismo, así como realizar investigaciones sobre el avance y aplicación de la tecnología industrial nacional e internacional y su incidencia en el cumplimiento de tales objetivos, y proponer políticas para fomentar su desarrollo;
 
-III.- Tramitar y, en su caso, otorgar patentes de invención, y registros de modelos de utilidad, diseños industriales, marcas, y avisos comerciales, emitir declaratorias de protección a denominaciones de origen, autorizar el uso de las mismas; la publicación de nombres comerciales, así como la inscripción de sus renovaciones, transmisiones o licencias de uso y explotación, y las demás que le otorga esta Ley y su reglamento, para el reconocimiento y conservación de los derechos de propiedad industrial;
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+III.- Tramitar y, en su caso, otorgar patentes de invención, y registros de modelos de utilidad, diseños industriales, marcas, y avisos comerciales, emitir declaratorias de notoriedad o fama de marcas, emitir declaratorias de protección a denominaciones de origen, autorizar el uso de las mismas; la publicación de nombres comerciales, así como la inscripción de sus renovaciones, transmisiones o licencias de uso y explotación, y las demás que le otorga esta Ley y su reglamento, para el reconocimiento y conservación de los derechos de propiedad industrial;
 
 IV.- Sustanciar los procedimientos de nulidad, caducidad y cancelación de los derechos de propiedad industrial, formular las resoluciones y emitir las declaraciones administrativas correspondientes, conforme lo dispone esta Ley y su reglamento y, en general, resolver las solicitudes que se susciten con motivo de la aplicación de la misma;
 
@@ -117,7 +119,9 @@ VIII.- Sustanciar y resolver los recursos administrativos previstos en esta Ley,
 
 IX.- Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela esta Ley, cuando los involucrados lo designen expresamente como tal; de conformidad con las disposiciones contenidas en el Título Cuarto del Libro Quinto del Código de Comercio;
 
-X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley;
 
 XI.- Difundir, asesorar y dar servicio al público en materia de propiedad industrial;
 
@@ -947,15 +951,27 @@ XIII.- Los títulos de obras intelectuales o artísticas, así como los títulos
 
 XIV.- Las denominaciones, figuras o formas tridimensionales, susceptibles de engañar al público o inducir a error, entendiéndose por tales las que constituyan falsas indicaciones sobre la naturaleza, componentes o cualidades de los productos o servicios que pretenda amparar;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2005)</small>
 
-XV.- Las denominaciones, figuras o formas tridimensionales, iguales o semejantes a una marca que el Instituto estime notoriamente conocida en México, para ser aplicadas a cualquier producto o servicio.
+XV.- Las denominaciones, figuras o formas tridimensionales, iguales o semejantes a una marca que el Instituto estime o haya declarado notoriamente conocida en México, para ser aplicadas a cualquier producto o servicio.
 
-Se entenderá que una marca es notoriamente conocida en México, cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios, así como el conocimiento que se tenga de la marca en el territorio, como consecuencia de la promoción o publicidad de la misma.
+Este impedimento procederá en cualquier caso en que el uso de la marca cuyo registro se solicita:
 
-A efecto de demostrar la notoriedad de la marca, podrán emplearse todos los medios probatorios permitidos por esta Ley.
+a) Pudiese crear confusión o un riesgo de asociación con el titular de la marca notoriamente conocida; o
 
-Este impedimento procederá en cualquier caso en que el uso de la marca por quien solicita su registro, pudiese crear confusión o un riesgo de asociación con el titular de la marca notoriamente conocida, o constituya un aprovechamiento que cause el desprestigio de la marca. Dicho impedimento no será aplicable cuando el solicitante del registro sea titular de la marca notoriamente conocida.
+b) Pudiese constituir un aprovechamiento no autorizado por el titular de la marca notoriamente conocida; o
+
+c) Pudiese causar el desprestigio de la marca notoriamente conocida; o
+
+d) Pudiese diluir el carácter distintivo de la marca notoriamente conocida.
+
+Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca notoriamente conocida, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+XV bis.- Las denominaciones, figuras o formas tridimensionales, iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado famosa en términos del capítulo II BIS, para ser aplicadas a cualquier producto o servicio.
+
+Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca famosa.
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1037,15 +1053,119 @@ La marca colectiva no podrá ser transmitida a terceras personas y su uso quedar
 
 Las marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+### Capítulo II BIS.. De las Marcas Notoriamente Conocidas y Famosas
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS.- Para efectos de su estimación o declaración por el Instituto, se entenderá que una marca es notoriamente conocida en México, cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios o bien, como consecuencia de la promoción o publicidad de la misma.
+
+Para efectos de su estimación o declaración por el Instituto, se entenderá que una marca es famosa en México, cuando sea conocida por la mayoría del público consumidor.
+
+A efecto de demostrar la notoriedad o fama de la marca, podrán emplearse todos los medios probatorios permitidos por esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 1.- La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.
+
+Los impedimentos previstos en el artículo 90 fracciones XV y XV bis, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas.
+
+Sin embargo, para que el titular de una marca pueda obtener declaratoria, la misma debe estar registrada en México y amparar los productos o servicios en los que la marca originó su notoriedad o fama.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 2.- Para efectos de obtener la declaratoria de notoriedad o fama, el solicitante deberá aportar, entre otros, los siguientes datos:
+
+I. El sector del público integrado por los consumidores reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley.
+
+II. Otros sectores del público diversos a los consumidores reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley.
+
+III. Los círculos comerciales integrados por los comerciantes, industriales o prestadores de servicios relacionados con el género de productos o servicios, que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley.
+
+IV. La fecha de primer uso de la marca en México y en su caso en el extranjero.
+
+V. El tiempo de uso continuo de la marca en México y en su caso en el extranjero.
+
+VI. Los canales de comercialización en México y en su caso en el extranjero.
+
+VII. Los medios de difusión de la marca en México y en su caso en el extranjero.
+
+VIII. El tiempo de publicidad efectiva de la marca en México y en su caso en el extranjero.
+
+IX. La inversión realizada durante los 3 últimos años en publicidad o promoción de la marca en México y en su caso en el extranjero.
+
+X. El área geográfica de influencia efectiva de la marca.
+
+XI. El volumen de ventas de los productos o los ingresos percibidos por la prestación de los servicios amparados bajo la marca, durante los últimos 3 años.
+
+XII. El valor económico que representa la marca, en el capital contable de la compañía titular de ésta o conforme a avalúo que de la misma se realice.
+
+XIII. Los registros de la marca en México y en su caso en el extranjero.
+
+XIV. Las franquicias y licencias que respecto a la marca hayan sido otorgadas.
+
+XV. El porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 3.- El Instituto presumirá, salvo prueba en contrario, que las condiciones que originaron la declaratoria o sus actualizaciones, subsisten por un período de cinco años a partir de la fecha de su expedición; en consecuencia, durante dicho período deberá aplicar según corresponda, el impedimento previsto en artículo 90 fracción XV o el previsto en la fracción XV bis, de manera expedita.
+
+La declaratoria podrá actualizarse en cualquier tiempo, a petición de quien tenga interés jurídico, siempre que acredite que las condiciones que le dieron origen subsisten a la fecha de la solicitud respectiva.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 4.- La solicitud de declaración de notoriedad o fama se hará por escrito con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:
+
+I. Nombre, nacionalidad, domicilio, teléfono, fax y correo electrónico del solicitante y en su caso de su apoderado;
+
+II. La marca y el número de registro que le corresponde, y
+
+III. Los documentos y elementos probatorios que se acompañan a la solicitud.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 5.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.
+
+Si a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses.
+
+Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud será desechada.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 6.- Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.
+
+En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 7.- Las resoluciones sobre declaratorias de notoriedad o fama deberán ser publicadas en la Gaceta.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 8.- Procederá la nulidad de la declaratoria:
+
+Cuando se haya otorgado en contravención a las disposiciones de este Capítulo.
+
+Cuando las pruebas en las que se sustente la declaratoria sean falsas.
+
+Cuando se haya otorgado con base en una incorrecta valoración de las pruebas.
+
+Cuando se hubiese concedido a quien no tuviera derecho de obtenerla.
+
+Las declaraciones administrativas de nulidad se harán por el Instituto, a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud.
+
+Cuando el o los registros marcarios que sirvieron de base para emitir la declaratoria, se nulifiquen, caduquen o cancelen, la declaratoria perderá su valor probatorio.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+
+Artículo 98 BIS 9.- Para efectos de su transmisión, la declaratoria se considerará ligada al o los registros marcarios que le dieron origen.
+
 ### Capítulo III. De los Avisos Comerciales
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ### Capítulo IV. De los Nombres Comerciales
-
-### Capítulo V. Del Registro de Marcas
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 99.
 
@@ -1075,9 +1195,9 @@ El registro de un aviso comercial tendrá una vigencia de diez años a partir de
 
 Los avisos comerciales se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
-### Capítulo VI. De las Licencias y la Transmisión de Derechos
+### Capítulo V. Del Registro de Marcas
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 105.
 
@@ -1117,7 +1237,7 @@ En la transmisión de una empresa o establecimiento se comprenderá el derecho d
 
 El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
-### Capítulo VII. De la Nulidad, Caducidad y cancelación de Registro
+### Capítulo VI. De las Licencias y la Transmisión de Derechos
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1307,7 +1427,9 @@ La renovación del registro de una marca sólo procederá si el interesado prese
 
 Si una misma marca se encuentra registrada para proteger determinados productos o servicios, bastará que proceda la renovación en alguno de dichos registros para que su uso surta efectos y beneficie a todos los registros, previa presentación del comprobante de pago de las tarifas correspondientes.
 
-### Capítulo I. De la Protección a la Denominación de Origen
+### Capítulo VII. De la Nulidad, Caducidad y cancelación de Registro
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 136.
 
@@ -1399,9 +1521,7 @@ Cuando se solicite la inscripción de alguna transmisión de marca registrada o 
 
 El Instituto negará la inscripción de una licencia o transmisión de derechos cuando el registro de la marca no se encuentre vigente.
 
-### Capítulo II. De la autorización para su Uso
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+### Capítulo I. De la Protección a la Denominación de Origen
 
 ###### Artículo 151.
 
@@ -1449,9 +1569,9 @@ La declaración de nulidad, caducidad o cancelación del registro de una marca, 
 
 ## TITULO QUINTO. De la Denominación de Origen
 
-### Capítulo I. Reglas Generales de los Procedimientos
+### Capítulo II. De la autorización para su Uso
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 156.
 
@@ -1533,13 +1653,17 @@ Si la resolución a que se refiere el artículo anterior otorga la protección d
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
-### Capítulo II. Del Procedimiento de Declaración Administrativa
+### Capítulo I. Reglas Generales de los Procedimientos
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 165.
 
 La vigencia de la declaración de protección de una denominación de origen estará determinada por la subsistencia de las condiciones que la motivaron y sólo dejará de surtir efectos por otra declaración del Instituto.
+
+### Capítulo II. Del Procedimiento de Declaración Administrativa
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ### Capítulo III. Del Recurso de Reconsideración
 
@@ -1548,8 +1672,6 @@ La vigencia de la declaración de protección de una denominación de origen est
 ### Capítulo I. De la Inspección
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
-
-### Capítulo II. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 166.
 
@@ -1749,9 +1871,7 @@ El titular del registro de un esquema de trazado podrá demandar daños y perjui
 
 ## TITULO SEXTO. De los Procedimientos Administrativos
 
-### Capítulo III. De los Delitos
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+### Capítulo II. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 179.
 
@@ -1818,6 +1938,10 @@ El personal del Instituto que intervenga en los diversos trámites que procedan 
 Se exceptúa de lo anterior a la información que sea de carácter oficial o la requerida por la autoridad judicial.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 1994)</small>
+
+### Capítulo III. De los Delitos
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 187.
 
@@ -2554,3 +2678,7 @@ SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el 
 D.O.F. 26 DE ENERO DE 2004.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JUNIO DE 2005.
+
+Único.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
