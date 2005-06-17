@@ -4,7 +4,7 @@ identifier: "CMX-reglas-de-operacion-del-centro-de-justicia-alternativa-51665"
 country: "mx"
 rank: "reglas"
 publication_date: "2003-09-11"
-last_updated: "2003-09-11"
+last_updated: "2005-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51665&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2005-06-17"
 
 REGLAS DE OPERACION DEL CENTRO DE JUSTICIA ALTERNATIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LAS NUEVAS REGLAS DE OPERACION DEL CENTRO DE JUSTICIA ALTERNATIVA, PUBLICADAS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 17 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: SIN EFECTOS.
 
 Reglas publicadas en la Gaceta Oficial del Distrito Federal, el jueves 11 de septiembre de 2003.
 
@@ -824,3 +826,27 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES REGLAS.</small>
+
+G.O. 17 DE JUNIO DE 2005.
+
+TRANSITORIO PRIMERO
+
+PRIMERO. Estas Nuevas Reglas entrarán en vigor al día siguiente de su publicación en Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+TRANSITORIO SEGUNDO
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, por tratarse de un ordenamiento de interés general.
+
+TRANSITORIO TERCERO
+
+TERCERO. El Centro de Justicia Alternativa en su primera etapa sólo ofrece el servicio de Mediación familiar, respetando la autoridad primaria de la voluntad individual, en los casos y situaciones legales que permitan el acuerdo, el convenio, el contrato o la transacción, siempre que no se contravengan las disposiciones de orden público y los asuntos de excepción expresamente señalados en los ordenamientos vigentes.
+
+TRANSITORIO CUARTO
+
+CUARTO. Quedan sin efecto las Reglas de Operación del Centro de Justicia Alternativa, a que se refiere el segundo punto resolutivo del Acuerdo General 19-47/2003 emitido por el Consejo de la Judicatura del Distrito Federal, en sesión ordinaria de fecha 27 de agosto de 2003.
+
+TRANSITORIO QUINTO
+
+QUINTO. Los procedimientos de mediación que se hayan iniciado con anterioridad a la entrada en vigor de este ordenamiento, deberán regirse por el mismo.
