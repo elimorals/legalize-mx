@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-control-por-parte-del-gobierno-del-estado-de-3725"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-19"
-last_updated: "1980-12-19"
+last_updated: "2005-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA EL CONTROL, POR PARTE DEL GOBIERNO DEL ESTADO, DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACION ESTATAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 17 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de diciembre de 1980.
 
@@ -324,3 +326,15 @@ OSCAR FLORES TAPIA, (Rúbrica).
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. ROBERTO OROZCO MELO. (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 2005.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado.
+
+SEGUNDO. Se abroga la Ley para el Control por parte del Gobierno del estado, de los Organismos Descentralizados y Empresas de Participación Estatal, contenida en el Decreto No. 151 y publicada en el Periódico Oficial del Gobierno del estado en fecha 19 de diciembre de 1980.
+
+TERCERO. Las entidades paraestatales a que hace referencia la presente ley, deberán realizar los trámites pertinentes ante la Secretaría de Finanzas del Gobierno del Estado, a fin de obtener el registro respectivo, en un plazo de tres meses a partir de la entrada en vigor de la presente ley.
+
+CUARTO. El ejecutivo del estado, podrá expedir los reglamentos y normatividad que considere necesarios, para facilitar la aplicación e interpretación de la presente ley.
