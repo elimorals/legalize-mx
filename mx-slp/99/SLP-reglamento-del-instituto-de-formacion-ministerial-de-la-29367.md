@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-instituto-de-formacion-ministerial-de-la-29367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-08"
-last_updated: "2003-03-08"
+last_updated: "2005-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DEL INSTITUTO DE FORMACION MINISTERIAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DEL INSTITUTO DE FORMACION MINISTERIAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO DEL INSTITUTO DE FORMACIÓN MINISTERIAL DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO ADMINISTRATIVO PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 18 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 8 de marzo de 2003.
 
@@ -364,3 +366,31 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 LIC. MANUEL GONZÁLEZ CARRILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se instruye a la Oficialía Mayor de Gobierno del Estado para que realice todos los movimientos necesarios en materia presupuestal, material y de personal que se originan con la entrada en vigor de este decreto, entre los cuales podrán incluir de manera enunciativa: movimiento de personal, adecuaciones presupuestales, traspasos de recursos materiales, etc.
+
+###### ARTICULO TERCERO.
+
+Se establece un término de sesenta días para que la Academia de Seguridad Pública del Estado elabore su Reglamento Interior y se lo remita al Titular del Ejecutivo para su publicación correspondiente.
+
+###### ARTICULO CUARTO.
+
+Se abroga el Reglamento del Instituto de Formación Ministerial de la Procuraduría General de Justicia del Estado de San Luis Potosí publicado en el Periódico Oficial del Estado el 8 de marzo de 2003.
+
+###### ARTICULO QUINTO.
+
+Se derogan las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los derechos de antigüedad del personal proveniente de la Dirección General de Seguridad Pública, que conformarán la Dirección General de la Academia, serán respetados y quedarán a salvo conforme a las Leyes y ordenamientos vigentes, relacionados con la materia.
