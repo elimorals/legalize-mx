@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-seguridad-publica-del-estado-35239"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-07"
-last_updated: "2003-11-07"
+last_updated: "2005-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO
 
-REGLAMENTO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSÍ
+REGLAMENTO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 7 de noviembre de 2003.
 
@@ -157,9 +157,11 @@ II. Si el convenio es intermunicipal debe expresarse las obligaciones mancomunad
 
 III. La forma de solucionar las controversias que se susciten con motivo del cumplimiento del convenio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde al pleno del Cabildo discutir y aprobar el programa anual para la profesionalización de los integrantes de los Grupos Preventivos Municipales de Seguridad Pública, a que se refiere la fracción V del artículo 15 de la Ley, debiendo considerar su costo en el presupuesto de egresos de cada año y además en el caso de que no cuente el ayuntamiento con una academia que prepare sus elementos, podrá celebrar convenio con el Ejecutivo del Estado para que por conducto de la Academia Estatal de Formación Policial, sea garantizada la profesionalización a que se refiere el presente artículo.
+Corresponde al Pleno del Cabildo discutir y aprobar el programa anual para la profesionalización de los integrantes de los Grupos Preventivos Municipales de Seguridad Pública a que se refiere la fracción V del artículo 15 de la Ley, debiendo considerar su costo en el presupuesto de egresos de cada año y además en el caso de que no cuente el ayuntamiento con una academia que prepare a sus elementos, podrá celebrar convenio con el Ejecutivo del Estado para que por conducto de la Academia de Seguridad Pública del Estado, sea garantizada la profesionalización a que se refiere el presente artículo.
 
 Para tal efecto, en el convenio deberá pactarse:
 
@@ -207,9 +209,11 @@ El cumplimiento de todos los ordenamientos jurídicos estatales y municipales re
 
 Corresponde a las direcciones Estatal y Municipales de seguridad pública ejercer las atribuciones que le marca la ley y sus respectivos reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 19.
 
-La preferencia para cubrir las plazas vacantes dentro de los Cuerpos de Seguridad Pública, debe sustentarse en los egresados de la academia estatal de formación policial, municipal o institución similar.
+La preferencia para cubrir las plazas vacantes dentro de los cuerpos de seguridad pública, debe sustentarse en los egresados de la Academia de Seguridad Publica del Estado, la municipal o institución similar.
 
 Los Egresados que hayan sido capacitados en base a los convenios que los ayuntamientos celebraron con el Titular del Ejecutivo cubrirán las plazas en sus respectivos municipios.
 
@@ -1202,3 +1206,31 @@ El Secretario General de Gobierno
 LIC. ALFONSO JOSE CASTILLO MACHUCA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se instruye a la Oficialía Mayor de Gobierno del Estado para que realice todos los movimientos necesarios en materia presupuestal, material y de personal que se originan con la entrada en vigor de este decreto, entre los cuales podrán incluir de manera enunciativa: movimiento de personal, adecuaciones presupuestales, traspasos de recursos materiales, etc.
+
+###### ARTICULO TERCERO.
+
+Se establece un término de sesenta días para que la Academia de Seguridad Pública del Estado elabore su Reglamento Interior y se lo remita al Titular del Ejecutivo para su publicación correspondiente.
+
+###### ARTICULO CUARTO.
+
+Se abroga el Reglamento del Instituto de Formación Ministerial de la Procuraduría General de Justicia del Estado de San Luis Potosí publicado en el Periódico Oficial del Estado el 8 de marzo de 2003.
+
+###### ARTICULO QUINTO.
+
+Se derogan las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los derechos de antigüedad del personal proveniente de la Dirección General de Seguridad Pública, que conformarán la Dirección General de la Academia, serán respetados y quedarán a salvo conforme a las Leyes y ordenamientos vigentes, relacionados con la materia.
