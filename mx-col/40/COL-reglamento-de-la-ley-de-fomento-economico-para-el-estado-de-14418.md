@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-de-fomento-economico-para-el-estado-de-144
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-08"
-last_updated: "2004-09-25"
+last_updated: "2005-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2005.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de mayo de 1999.
 
@@ -275,9 +275,113 @@ Transcurrido el término señalado en el artículo anterior, haya o no comparece
 
 Toda resolución dictada por la Secretaría en los expedientes respectivos, deberá ser notificada a los interesados y comunicada al Consejo para su conocimiento e intervención legal procedente, en cumplimiento a sus facultades y atribuciones de Ley.
 
-### CAPITULO V. DEL PREMIO ESTATAL A LA EXCELENCIA EMPRESARIAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2005)</small>
 
-### CAPITULO VI. DEL CONSEJO
+### CAPITULO IV BIS. DEL CERTIFICADO DE EMPRESA COLIMENSE
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS.- Para el otorgamiento y expedición, en su caso, del Certificado previsto por la Ley, los solicitantes, por sí o a través de representante o apoderado, presentarán ante la Ventanilla Única de Gestión, dependiente de la Secretaría, solicitud elaborada en formato libre, describiendo, bajo protesta de decir verdad, las características de la empresa de la cual son propietarios o representantes. Con el propósito de acreditar su calidad local dicha solicitud deberá contener los siguientes datos básicos:
+
+I.- Nombre, denominación o razón social;
+
+II.- Nacionalidad;
+
+III.- Domicilio fiscal, en esta entidad federativa, de conformidad a lo dispuesto por las leyes fiscales aplicables;
+
+IV.- Nombre de su apoderado o representante legal, tratándose de persona moral;
+
+V.- Giro de la actividad a la que se dedica;
+
+VI.- Anexos, en original y 2 copias para cotejo, de los siguientes documentos:
+
+a).- Acta de Nacimiento y credencial de elector, en el caso de personas físicas;
+
+b).- Acta Constitutiva y documento en el que conste la calidad de representante o apoderado de la misma, en el casos (sic) de personas morales;
+
+c).- Licencia de funcionamiento o comercial;
+
+d).- Inscripción en el Registro Federal de Contribuyentes expedida por el Servicio de Administración Tributaria (Secretaría de Hacienda y Crédito Público);
+
+e).- Última declaración ante la Secretaría de Hacienda y Crédito Público, anual o provisional;
+
+f).- Último recibo de pago ante el Instituto Mexicano del Seguro Social, en los casos de generación de empleos directos;
+
+g).- Contrato o convenio respectivo que acredite una relación jurídica con unidad económica distinta para la generación de empleos indirectos, así como último recibo de pago ante el Instituto Mexicano del Seguro Social de está última; y
+
+h).- Comprobante de domicilio.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS-A.- La Ventanilla Única de Gestión, previa elaboración del formato correspondiente, con la solicitud y las copias cotejadas de los documentos que se anexen a la misma, integrará el expediente respectivo, asignándole un número progresivo que permita identificarlo. El formato, así como el expediente respectivo será turnado a la Dirección de Asuntos Jurídicos de la Secretaría para su análisis y dictaminación.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS-B.- La Secretaría extenderá el Certificado a favor de la empresa solicitante que se adecue a los supuestos de expedición previstos en la Ley y previo cumplimiento de los requisitos exigidos en la misma y el presente Reglamento, el cuál deberá emitir en papelería oficial de la Secretaría y contener la siguiente información:
+
+1.- Folio.
+
+2.- Fundamento Legal.
+
+3.- Secretaría que lo expide.
+
+4.- Datos generales de la Empresa a favor de quien se expide.
+
+5.- Fecha de expedición.
+
+6.- Vigencia.
+
+7.- Firma autógrafa del Titular de la Secretaría.
+
+8.- Sello oficial de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS-C.- Las empresas que hubieren obtenido el Certificado estarán obligadas a comunicar a la Secretaría, mediante escrito dirigido al Titular, cualquier cambio o variación respecto de su calidad de Empresa Colimense, debiéndolo presentar ante la Ventanilla Única de Gestión, dentro de un término de 7 días hábiles siguientes a aquel en que se hubiere perdido dicha calidad, por falta de cualquiera de los requisitos previstos en la Ley. Una vez recibida esta comunicación la Secretaría procederá a dejar sin efecto el registro del Certificado, mismo que se retrotraerá a la fecha de presentación a la Secretaría, debiéndose notificar la anterior circunstancia a la Empresa.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS-D.- La Secretaría, a fin de comprobar que las empresas que hubieren obtenido el Certificado, conservan la calidad de Empresa Colimense, estará facultada para:
+
+I.- Recabar de los servidores, notarios y fedatarios públicos, los informes y datos que posean con motivo de sus funciones; y
+
+II.- Solicitar a las autoridades fiscales competentes la práctica de visitas domiciliarias, de conformidad a las disposiciones legales.
+
+Una vez determinada la pérdida efectiva de la calidad de Empresa Colimense, deberá procederse de conformidad a lo dispuesto por el artículo 17 Bis-E de la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS-E.- En los casos de revocación de Certificados, la Secretaría notificará a la empresa, en un término que no exceda de 7 días hábiles, revocación que deberá estar fundada y motivada.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 41 BIS-F.- La Secretaría, por conducto de la Ventanilla Única de Gestión, contará con un registro de las empresas que hubieren obtenido el Certificado, así como de aquellas a las cuales se les hubiere revocado el mismo, el cual deberá contener los siguientes datos:
+
+I.- Número de expediente;
+
+II.- Folio del Certificado correspondiente;
+
+III.- Nombre, denominación o razón social;
+
+IV.- Nacionalidad;
+
+V.- Domicilio fiscal, en esta entidad federativa, de conformidad a lo dispuesto por las leyes fiscales aplicables;
+
+VI.- Nombre de su apoderado o representante legal, tratándose de persona moral;
+
+VII.- Giro de la actividad a la que se dedica;
+
+VIII.- Fecha de expedición;
+
+IX.- Vigencia;
+
+X.- Fecha de revocación, en su caso.
+
+El registro deberá estar a disposición de cualquier persona, invariablemente la Secretaría remitirá dicho registro, por lo menos cada 6 meses a las Secretarías de Administración y Desarrollo Urbano del Gobierno del Estado; en los casos de revocación de los Certificados, deberá hacerlo en un plazo que no exceda de 7 días hábiles.
+
+En los casos en que las dependencias de la Administración Pública Descentralizada o Paraestatal y los Ayuntamiento (sic) de la Entidad, soliciten informes respecto del registro, deberán hacerlos por escrito dirigido al titular de la Secretaría, y presentarlo en la Ventanilla ya mencionada, estando la Secretaría obligada a proporcionar la información solicitada en un término que no exceda los 7 días hábiles.
+
+### CAPITULO V. DEL PREMIO ESTATAL A LA EXCELENCIA EMPRESARIAL
 
 ###### ARTICULO 42.
 
@@ -301,7 +405,7 @@ VII. El premio estatal a la excelencia empresarial será entregado por el Presid
 
 En caso de que las empresas participantes no cumplan las condiciones y requisitos señalados en la convocatoria respectiva, se declarará desierto, el evento.
 
-### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS ECONÓMICOS MUNICIPALES
+### CAPITULO VI. DEL CONSEJO
 
 ###### ARTICULO 44.
 
@@ -347,7 +451,7 @@ De igual manera, en los términos de la parte final del inciso b) de la fracció
 
 Para el debido cumplimiento, de sus atribuciones, el Secretario Ejecutivo del Consejo será auxiliado por el personal necesario, que será el mismo de la Secretaría.
 
-### CAPITULO VIII. DEL COMITÉ TÉCNICO
+### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS ECONÓMICOS MUNICIPALES
 
 ###### ARTICULO 53.
 
@@ -377,7 +481,7 @@ V. En calidad de asesor, asistirá a todas las sesiones un funcionario represent
 
 En cuanto al funcionamiento, atribuciones y facultades de los Consejos Consultivos Económicos Municipales, serán aplicables las disposiciones relativas al Consejo en lo conducente.
 
-### CAPITULO IX. DE LAS SANCIONES
+### CAPITULO VIII. DEL COMITÉ TÉCNICO
 
 ###### ARTICULO 55.
 
@@ -400,6 +504,8 @@ Una vez aprobadas las actas y suscritas por los asistentes, se enviará copia de
 ###### ARTICULO 59.
 
 Para el mejor cumplimiento de sus funciones el Comité dentro de los 60 días siguientes a su integración formal, elaborará sus bases internas de operación y distribución de actividades.
+
+### CAPITULO IX. DE LAS SANCIONES
 
 ###### ARTICULO 60.
 
@@ -442,6 +548,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.-
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''El Estado de Colima''.
+
+P.O. 18 DE JUNIO DE 2005.
 
 ###### ARTICULO PRIMERO.
 
