@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2004-08-31"
+last_updated: "2005-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2004.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE AGOSTO DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -87,7 +85,7 @@ a).- Las Direcciones de los Centros de Readaptación Social de la capital, así 
 
 b).- El Consejo Central Tutelar de Menores Infractores, de quien a su vez depende:
 
-1.- La Dirección de Área, Escuela “Profesor Ángel Silva”.
+1. La Dirección de Área, Escuela “Profesor Ángel Silva”.
 
 V.- Las Coordinaciones para Asuntos Especiales en la Zona Huasteca, y en la Zona Altiplano.
 
@@ -99,7 +97,7 @@ b).- La Dirección de Operación;
 
 c).- La Dirección de Inspección General;
 
-d).- La Academia de Seguridad Pública; y
+d).- (DEROGADO, P.O. 18 DE JUNIO DE 2005)
 
 e).- La Dirección Zona Huasteca.
 
@@ -123,9 +121,13 @@ g).- La Coordinación de Zona Huasteca.
 
 VIII.- La Dirección de Informática y Sistemas;
 
-IX.- La Coordinación General de Apoyo Administrativo; y
+IX.- La Coordinación General de Apoyo Administrativo; y (sic)
 
 X.- La Contraloría Interna.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2005)</small>
+
+XI.- La Dirección General de la Academia de Seguridad Publica del Estado.
 
 ###### ARTICULO 4.
 
@@ -753,11 +755,11 @@ VIII.- Participar en todas aquellas acciones que contribuyan a promover el desar
 
 IX.- Las demás que les asigne el Secretario General de Gobierno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 26.
 
-Competen a la Dirección General de Seguridad Pública, la cual se integra con las Direcciones de Estado Mayor, de Operaciones, de Inspección General, de la Academia de Seguridad Pública, y Dirección Zona Huasteca, las siguientes atribuciones.
+Compete a la Dirección General de Seguridad Pública, la cual se integra con las Direcciones de Estado Mayor, de Operaciones, de Inspección General y Dirección Zona Huasteca, las siguientes atribuciones:
 
 I.- Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, así como prevenir la comisión de conductas antisociales y proteger los derechos de las personas;
 
@@ -783,9 +785,11 @@ XI.- Conjuntamente con la Coordinación General de Apoyo Administrativo, llevar 
 
 XII.- Incorporarse al Registro Nacional de Servicios Policiales, al que comunicará periódicamente las altas, bajas, ascensos, estímulos y sanciones de su personal, así como la información pertinente;
 
-XIII.- Elaborar y ejecutar, previa autorización del superior, programas de reclutamiento, selección, formación, capacitación, adiestramiento y actualización del personal aspirante y activo en la Academia de Policía de la propia Dirección;
+XIII.- (DEROGADA, P.O. 18 DE JUNIO DE 2005)
 
-XIV.- Exigir a los aspirantes a ingresar a la Dirección su capacitación previa en la Academia de Policía de la misma, a menos que demuestren haberla recibido en otra análoga;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2005)</small>
+
+XIV.- Exigir a los aspirantes a ingresar a la Dirección su capacitación previa en la Academia de Seguridad Pública del Estado, a menos que demuestren haberla recibido en otra análoga;
 
 XV.- Aplicar las reglas y medidas disciplinarias establecidas para el desempeño de las actividades de su personal;
 
@@ -975,6 +979,56 @@ XIII.- Dar un informe de sus actividades al Contralor General del Estado y al Se
 
 XIV.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 29 BIS.- La Secretaría General de Gobierno, con el carácter de autoridad de seguridad pública en el Estado, contará con una Academia de Seguridad Pública del Estado, cuyo objetivo será, el reclutamiento, la selección, la preparación básica, de actualización y de especialización tendiente a la profesionalización del personal dependiente de las instituciones de seguridad publica en el estado. Por la naturaleza de sus funciones se le considera como una institución de seguridad del estado, para la capacitación formal de todas las Corporaciones, que proporcione los conocimientos y el adiestramiento al personal de seguridad pública, bajo los criterios académicos necesarios. Sus instalaciones estarán el (sic) la capital del estado, pudiendo contar con unidades en el Territorio del Estado. Así como de celebrar todos los acuerdos o convenios tendientes a la capacitación con las corporaciones del estado y otros.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 29 BIS 1.- La Dirección General de la Academia de Seguridad Pública del Estado, tiene además la función fundamental de formar técnica, profesional y académicamente, a los cadetes o aspirantes a ingresar a las Corporaciones, así como especializar y actualizar los conocimientos del personal activo de las (sic) todas las instituciones de seguridad pública. Su estructura será conforme a las necesidades académicas y contará con su propio Reglamento.
+
+La Dirección General de la Academia de Seguridad Pública del Estado buscará la profesionalización del personal de las instituciones de seguridad pública, cumpliendo con los cuatro principios de actuación establecidos en el artículo 21 de la Constitución General de la República: legalidad, eficiencia, profesionalismo y honradez, y dada la naturaleza de su función, será considerada como una Institución de Seguridad Pública, por lo que atendiendo a lo establecido en el numeral 123, apartado B, fracción XIII del ordenamiento legal en cita, 89 de la Constitución Política del Estado y al diverso 38 de la Ley de Seguridad Pública del Estado, la relación laboral entre su personal y la Administración Pública Estatal será de carácter administrativo, y se regirá por lo establecido en dicha Ley, en el presente Decreto y en el Reglamento Interno de la Academia.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2005)</small>
+
+ARTICULO 29 BIS 2.- Las facultades y obligaciones del Director General de la Academia de Seguridad Pública del Estado, serán:
+
+I.- Dirigir administrativa, técnica y pedagógicamente el funcionamiento de la Academia;
+
+II.- Diseñar, operar y supervisar las políticas y medidas de seguridad pertinentes, para garantizar la protección y resguardo del personal, información, patrimonio, instalaciones, bienes muebles e inmuebles de la Academia;
+
+III.- Elaborar los perfiles de ingresos y permanencia del personal que labore en las instituciones de seguridad pública del estado;
+
+IV.- Seleccionar psicológica, física y académicamente, a los aspirantes a ingresar a la Academia, encargándose de su formación profesional;
+
+V.- Contribuir al desarrollo integral de los elementos de los cuerpos de seguridad, a través de la capacitación teórica y práctica;
+
+VI.- Elaborar y proponer al Secretario General de Gobierno, los programas anuales de capacitación a desarrollar para el cumplimiento de los fines de la Academia, los cuales serán aprobados previamente por el titular del área del personal a capacitar;
+
+VII.- Diseñar los planes y programas de enseñanza y aprendizaje, adecuado a las necesidades del personal a capacitar, pudiendo para este efecto celebrar convenios o intercambios académicos con otras instituciones o corporaciones;
+
+VIII.- Organizar e impartir cursos de capacitación a los aspirantes a ingresar a las corporaciones, actualización y especialización a los miembros en servicio activo;
+
+IX.- Informar al Secretario General de Gobierno sobre el cumplimiento de los planes y programas de trabajo, así como a los titulares del personal capacitado;
+
+X.- Administrar los recursos materiales y económicos asignados a la Academia;
+
+XI.- Diseñar un programa de educación que eleve el nivel académico, para la capacitación permanente de los profesores de la Academia y de los miembros de los cuerpos de seguridad pública;
+
+XII.- Diseñar un programa de capacitación continua y abierta que permita a los miembros de las corporaciones y de apoyo administrativo, compactar su nivel académico, para obtener la capacitación;
+
+XIII.- Establecer los programas del servicio policial de carrera, al personal perteneciente a los cuerpos de seguridad que le sea aplicable, mismo que será de carácter obligatorio y permanente, para asegurar su profesionalización;
+
+XIV.- Supervisar los servicios generales que sean asignados a la Academia;
+
+XV.- Representar a la Academia en cualquier evento relacionado con sus funciones;
+
+XVI.- Vigilar el uso adecuado de las instalaciones, mobiliario y equipo de la Academia;
+
+XVII.- Imponer las sanciones a los cadetes y alumnos en el plantel; y
+
+XVIII.- Las demás funciones que le sean asignadas por la superioridad.
+
 ### CAPITULO III.. DE LA DESCONCENTRACION ADMINISTRATIVA
 
 ###### ARTICULO 30.
@@ -1084,3 +1138,29 @@ TERCERO.- Para los efectos del artículo anterior, los recursos humanos, materia
 CUARTO.- Para efectos de establecer la normatividad interna de la Dirección General de Protección Civil, se concede un plazo que no deberá exceder de dos meses a partir de la entrada en vigor del presente decreto, para expedir su Reglamento Interior.
 
 QUINTO.- Se derogan todas las disposiciones legales de igual o menor rango que se opongan a la entrada en vigor del presente decreto.
+
+P.O. 18 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se instruye a la Oficialía Mayor de Gobierno del Estado para que realice todos los movimientos necesarios en materia presupuestal, material y de personal que se originan con la entrada en vigor de este decreto, entre los cuales podrán incluir de manera enunciativa: movimiento de personal, adecuaciones presupuestales, traspasos de recursos materiales, etc.
+
+###### ARTICULO TERCERO.
+
+Se establece un término de sesenta días para que la Academia de Seguridad Pública del Estado elabore su Reglamento Interior y se lo remita al Titular del Ejecutivo para su publicación correspondiente.
+
+###### ARTICULO CUARTO.
+
+Se abroga el Reglamento del Instituto de Formación Ministerial de la Procuraduría General de Justicia del Estado de San Luis Potosí publicado en el Periódico Oficial del Estado el 8 de marzo de 2003.
+
+###### ARTICULO QUINTO.
+
+Se derogan las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los derechos de antigüedad del personal proveniente de la Dirección General de Seguridad Pública, que conformarán la Dirección General de la Academia, serán respetados y quedarán a salvo conforme a las Leyes y ordenamientos vigentes, relacionados con la materia.
