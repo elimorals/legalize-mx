@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-tecnologica-de-tulancingo-23037
 country: "mx"
 rank: "decreto"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2005-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE TULANCINGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EL EN PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de octubre de 2001.
 
@@ -113,41 +113,55 @@ II. El Rector.
 
 ### CAPITULO III. DEL CONSEJO DIRECTIVO
 
-###### ARTICULO 6.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
 
-El Consejo Directivo será el Organo Supremo de la Universidad y estará integrado por:
+###### Artículo 6°.
 
-I. Tres representantes de Gobierno del Estado, que serán designados por el Gobernador Constitucional uno de los cuales lo presidirá;
+El Consejo Directivo será el Órgano Supremo de la Universidad y estará integrado por:
 
-II. Tres Representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
+I.- Un Presidente, que será el Gobernador del Estado;
 
-III. Un Representante del Municipio de Tulancingo, designado por el Ayuntamiento y;
+II.- El Secretario de Educación Pública del Estado;
 
-IV. Tres Representantes del sector productivo de la región, invitados por el Ejecutivo Estatal.
+III.- El Secretario de Contraloría del Estado;
 
-También asistirá a las sesiones del Consejo Directivo con voz pero sin voto, un Comisario Público designado por la Secretaría de Contraloría del Gobierno del Estado.
+IV.- El Secretario de Administración del Estado;
 
-Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las extraordinarias cuando sean necesarias, las que serán convocadas para ello por su Presidente o a iniciativa de alguno de sus miembros.
+> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2005)</small>
 
-Los acuerdos tomados en las sesiones, serán validos cuando se encuentre presente la mayoría de sus miembros. Quien presida la sesión tendrá voto de calidad en caso de empate.
+V.- Tres Representantes de la Federación designados por el Secretario de Educación Pública;
+
+VI.- Un Representante del Municipio de Tulancingo de Bravo, Hidalgo designado por la Asamblea Municipal; y
+
+> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2005)</small>
+
+VII.- Tres Representantes del Sector Productivo de la Región, invitados por el Ejecutivo Estatal.
+
+Las Sesiones del Consejo Directivo podrán ser Ordinarias o Extraordinarias. Las Ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las Extraordinarias cuando sean necesarias, las que serán convocadas por su Presidente a iniciativa de alguno de sus miembros.
+
+Los Acuerdos tomados en las Sesiones, serán válidos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 7.
 
-El Consejo Directivo sesionará con la asistencia de su Presidente o en ausencia de éste, con la de su suplente y con la mayoría de sus miembros.
-
 Cada miembro propietario del Consejo Directivo designará un suplente, quien lo sustituirá en sus ausencias con las mismas facultades.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 8.
 
-En las sesiones del Consejo Directivo participará el Rector de la Universidad con voz pero sin voto.
+Quienes hayan sido miembros del Consejo Directivo, no podrán ser designados para cargos de Dirección en la Universidad, hasta en tanto no transcurran dos años contados a partir de la separación del cargo.
 
-El Consejo Directivo podrá invitar a sus sesiones a quienes estime que con sus opiniones puedan coadyuvar a la mejor realización del objeto de la Universidad, con voz pero sin voto.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 9.
 
-El Consejo Directivo tendrá las siguientes facultades:
+Compete al Consejo Directivo:
 
-I. Establecer en congruencia con los programas gubernamentales, las políticas generales y definir las prioridades a las que deberá sujetarse la Entidad paraestatal, relativas a la producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE JUNIO DE 2005)</small>
+
+I.- Formular, Aprobar y Expedir el reglamento de la Universidad, así como los reglamentos y disposiciones generales relativas a la organización y funcionamiento económico, académico, técnico y administrativo de la Universidad;
 
 II. Aprobar el programa institucional de desarrollo y el programa financiero de mediano plazo, así como el programa operativo anual del organismo, sus modificaciones y el presupuesto de ingresos y egresos, en los términos de la legislación aplicable;
 
@@ -305,6 +319,16 @@ El Comisario, evaluará el desempeño general y por funciones del organismo, rea
 
 Las relaciones laborales entre el organismo y su personal se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipal, así como de los Organismos Descentralizados del Estado de Hidalgo.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE JUNIO DE 2005)</small>
+
+### CAPITULO VIII. DE LAS RELACIONES LABORALES DEL ORGANISMO
+
+(ADICIONADO, P.O. 20 DE JUNIO DE 2005) (F. DE E., P.O. 1 DE AGOSTO DE 2005)
+
+Artículo 21 (sic).- La vigilancia del Organismo estará a cargo de un Comisario Propietario y Suplente designados por el Secretario de la Contraloría.
+
+El comisario evaluará el desempeño general y por funciones del organismo; realizará también estudios sobre la eficiencia con la que se ejerzan las erogaciones de los gastos corrientes y de inversión, así como lo referente a los ingresos y, en general, solicitará toda la información que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Contraloría le asigne de conformidad con la Ley. Para el adecuado cumplimiento de sus funciones la Junta de Gobierno y el Rector deberán proporcionar la información que solicite el comisario.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
@@ -316,3 +340,11 @@ Dado en la sede del Poder Ejecutivo del Estado en la Ciudad de Pachuca de Soto, 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 20 DE JUNIO DE 2005.
+
+PRIMERO.- Las reformas al Decreto que creó la Universidad Tecnológica de Tulancingo, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
