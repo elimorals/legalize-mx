@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2004-09-27"
+last_updated: "2005-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2005.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -469,6 +469,10 @@ Tratándose de trabajadores no asalariados, la multa no excederá del equivalent
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Las resoluciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal, podrán ser impugnadas por vía jurisdiccional en los términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2005)</small>
+
+El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconocer la jurisdicción de la Corte Penal Internacional.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2468,7 +2472,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)
+
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -2544,7 +2550,7 @@ Para poder proceder penalmente por delitos federales contra los Gobernadores de 
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Las declaraciones y resoluciones de la (sic)Cámaras de Diputados (sic) Senadores son inatacables.
+Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3082,7 +3088,7 @@ DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la Ley.
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO , D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán:
 
@@ -5037,6 +5043,10 @@ SEGUNDO.- Al entrar en vigor el presente decreto, deberán impulsarse las reform
 D.O.F. 27 DE SEPTIEMBRE DE 2004.
 
 UNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
