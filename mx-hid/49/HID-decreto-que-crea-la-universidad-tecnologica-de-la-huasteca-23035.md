@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-tecnologica-de-la-huasteca-2303
 country: "mx"
 rank: "decreto"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2005-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE LA HUASTECA HIDALGUENSE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de octubre de 2001.
 
@@ -113,23 +113,33 @@ II. El Rector.
 
 ### CAPITULO III. DEL CONSEJO DIRECTIVO
 
-###### ARTICULO 6.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
+
+###### Artículo 6°.
 
 El Consejo Directivo será el Organo Supremo de la Universidad y estará integrado por:
 
-I. Tres representantes del Estado, que serán designados por el Gobernador Constitucional uno de los cuales lo presidirá;
+I.- Un Presidente, que será el Gobernador del Estado;
 
-II. Tres representantes de la Federación, designados por el Secretario de Educación Pública;
+II.- El Secretario de Educación Pública del Estado;
 
-III. Un Representante del Municipio de Huejutla de Reyes, designado por el Ayuntamiento y
+III.- El Secretario de Contraloría del Estado;
 
-IV. Tres Representantes del sector productivo de la región, invitados por el Ejecutivo Estatal.
+IV.- El Secretario de Administración del Estado;
 
-También asistirá a las sesiones del Consejo Directivo con voz pero sin voto, un Comisario Público designado por la Secretaría de Contraloría del Poder Ejecutivo del Estado.
+> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2005)</small>
 
-Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las extraordinarias cuando sean necesarias, las que serán convocadas para ello por su Presidente o a iniciativa de alguno de sus miembros.
+V.- Tres Representantes de la Federación designados por el Secretario de Educación Pública;
 
-Los acuerdos tomados en las sesiones, serán validos cuando se encuentre presente la mayoría de sus miembros. Quien presida la sesión tendrá voto de calidad en caso de empate.
+VI.- Un representante del Municipio de Huejutla de Reyes, designado por el Ayuntamiento; y
+
+> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2005)</small>
+
+VII.- Tres Representantes del Sector Productivo de la Región, invitados por el Ejecutivo Estatal.
+
+Las Sesiones de la Junta Directiva podrán ser Ordinarias o Extraordinarias. Las Ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las Extraordinarias cuando sean necesarias, las que serán convocadas por su Presidente a iniciativa de alguno de sus miembros.
+
+Los Acuerdos tomados en las Sesiones, serán válidos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 7.
 
@@ -159,7 +169,9 @@ V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere n
 
 VI. Aprobar anualmente previo informe del Comisario y dictamen de los auditores externos en su caso, los estados financieros del organismo y autorizar la publicación de los mismos;
 
-VII. Aprobar el Estatuto Orgánico del Organismo;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE JUNIO DE 2005)</small>
+
+VII. Aprobar y Expedir el Estatuto Orgánico del Organismo;
 
 VIII. Aprobar de acuerdo con las Leyes y Reglamentos aplicables, las bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el organismo con terceros en obras públicas, arrendamientos, adquisiciones y prestaciones de servicios relacionados con bienes muebles o inmuebles. El Rector y en su caso, los servidores públicos que deban de intervenir de conformidad con el Estatuto Orgánico, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Consejo Directivo;
 
@@ -171,7 +183,7 @@ XI. Nombrar y remover a propuesta del Rector, a los servidores públicos del org
 
 XII. Aprobar en caso de existir excedentes económicos, la constitución de reservas y su aplicación, previa aprobación del Titular del Ejecutivo a través de la Comisión Gasto Financiamiento;
 
-XIII. Establecer, con sujeción a las disposiciones relativas, las normas y bases para la adquisición, arrendamiento y enajenación de los bienes inmuebles que el organismo requiera para al prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado de Hidalgo considere de dominio público;
+XIII. Establecer, con sujeción a las disposiciones relativas, las normas y bases para la adquisición, arrendamiento y enajenación de los bienes inmuebles que el organismo requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado de Hidalgo considere de dominio público;
 
 XIV. Analizar y en su caso aprobar, los informes periódicos que rinda el Rector, con la intervención que corresponda al Comisario;
 
@@ -316,3 +328,11 @@ Dado en la sede del Poder Ejecutivo del Estado en la Ciudad de Pachuca de Soto, 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 20 DE JUNIO DE 2005.
+
+PRIMERO.- Las reformas al Decreto que creó la Universidad Tecnológica de la Huasteca Hidalguense, entrarán en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
