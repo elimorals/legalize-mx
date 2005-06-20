@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2003-07-07"
+last_updated: "2005-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -113,9 +113,7 @@ XVI. La asistencia social;
 
 XVII. Los programas contra el alcoholismo y el tabaquismo;
 
-> <small>(REFORMADA, B.O. 7 DE JULIO DE 2003)</small>
-
-XVIII. La asignación de órganos, tejidos y células para trasplantes en seres humanos, así como el fomento y promoción de la cultura de la donación de los mismos; y
+XVIII. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 > <small>(ADICIONADA, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -937,7 +935,7 @@ IX. Lepra y mal del pinto;
 
 X. Micosis Sistemática;
 
-XI. Helmitiasis intestinales y extraintestinales;
+XI. Helmintiasis intestinales y extraintestinales;
 
 XII. Toxoplasmosis;
 
@@ -1319,15 +1317,9 @@ ARTICULO 154 BIS.- Toda persona es disponente de su cuerpo y podrá donarlo, tot
 
 El consentimiento de las personas para disponer de su cuerpo, deberá efectuarse en la forma, circunstancias, requisitos, restricciones y prohibiciones previstos en el ordenamiento antes mencionado.
 
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+ARTICULO 154 BIS A.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
-ARTICULO 154 BIS A.- Los trasplantes de órganos, tejidos y células en seres humanos vivos, la obtención de los mismos, la selección del donante y del receptor y los requisitos del donante, se llevará a cabo de conformidad con la Ley General de Salud, el Reglamento respectivo y esta Ley.
-
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
-
-ARTICULO 154 BIS B.- Para la asignación de órganos y tejidos de donadores no vivos, deberán cumplirse los requisitos y criterios médicos previstos en la Ley General de Salud, esta Ley y los reglamentos respectivos.
-
-Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a las listas que se integrarán con los datos de los receptores en espera.
+ARTICULO 154 BIS B.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 > <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -1335,37 +1327,7 @@ ARTICULO 154 BIS C.- El traslado, preservación, conservación, manejo, etiqueta
 
 Los concesionarios del servicio público de transporte, de ámbito estatal, otorgarán todas las facilidades que requiera el traslado de órganos y tejidos destinados a trasplantes, conforme a las disposiciones aplicables y las normas oficiales mexicanas que emitan las autoridades competentes.
 
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
-
-ARTICULO 154 BIS D.- El Ejecutivo del Estado establecerá el Centro Estatal de Trasplantes, el cual tendrá las facultades siguientes:
-
-I. Decidir y vigilar, dentro de su ámbito de competencia, la correcta asignación de órganos, tejidos y células para trasplantes en seres humanos;
-
-II. Promover y fomentar, en coordinación con los Consejos Estatal y Nacional de Trasplantes, dependencias y entidades federales, estatales y municipales, acciones de orientación y educación a la población, referente a la cultura de la donación de órganos, tejidos y células;
-
-III.- Actualizar, orientar y difundir entre los profesionales, técnicos y auxiliares de la salud, la información científica, técnica y sanitaria en materia de trasplantes;
-
-IV. Operar y mantener actualizado el Registro Estatal de Trasplantes en el Estado, con la siguiente información:
-
-a) Lista de donadores del Estado de Sonora, a quienes se les otorgará una credencial que los identifique plenamente;
-
-b) Lista de receptores o sujetos susceptibles de trasplante del Estado de Sonora, que se integrará en forma sistemática y cronológica de acuerdo con su presentación;
-
-c) La fecha en que se realicen los trasplantes;
-
-d) Los establecimientos autorizados para realizar trasplantes de órganos, tejidos y células, conforme a la Ley General de Salud; y
-
-e) Los profesionales de la salud que intervengan en trasplantes.
-
-V. Proporcionar al Registro Nacional de Trasplantes la información correspondiente al Estado y su actualización, en los términos de los acuerdos de coordinación que se celebren;
-
-VI. Coadyuvar con las autoridades competentes, a fin de que se respete la voluntad de las personas que han decidido donar sus órganos y tejidos;
-
-VII. Reconocer el mérito y altruismo de los donadores y sus familias, mediante la expedición de las constancias correspondientes;
-
-VIII. Diseñar e impartir cursos de capacitación al personal de salud que participe en donaciones y trasplantes de órganos y tejidos; y
-
-IX.- Las demás que le señalen otras disposiciones aplicables.
+ARTICULO 154 BIS D.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 > <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -1377,9 +1339,7 @@ ARTICULO 154 BIS F.- Los establecimientos de salud en el Estado autorizados por 
 
 Los establecimientos informarán al Registro Estatal de Trasplantes de las acciones que realicen, así como de los donadores, receptores y profesionales que intervengan en los trasplantes, en los términos, forma y periodicidad que señale el Centro Estatal de Trasplantes.
 
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
-
-ARTICULO 154 BIS G.- La pérdida de la vida ocurre cuando se presenta la muerte cerebral o los signos de muerte a que hace referencia la Ley General de Salud.
+ARTICULO 154 BIS G.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 ###### ARTICULO 145.
 
@@ -1759,7 +1719,7 @@ IV. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejo
 
 ###### ARTICULO 203.
 
-Los establos, granjas avícolas y porcicolas, apiarios y otros establecimientos similares, no podrán estar ubicados en los centros de población o en lugares contiguos a ellos en un radio que delimitará la Secretaría de Salud Pública, conforme a las disposiciones legales en vigor. En todo caso, los establos y las granjas avícolas y porcícolas deberán contar con sistema de tratamiento para sus deshechos de tal manera que evite la contaminación.
+Los establos, granjas avícolas y porcícolas, apiarios y otros establecimientos similares, no podrán estar ubicados en los centros de población o en lugares contiguos a ellos en un radio que delimitará la Secretaría de Salud Pública, conforme a las disposiciones legales en vigor. En todo caso, los establos y las granjas avícolas y porcícolas deberán contar con sistema de tratamiento para sus deshechos de tal manera que evite la contaminación.
 
 ###### ARTICULO 204.
 
@@ -2628,3 +2588,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en le
 ###### ARTICULO SEGUNDO.
 
 Los procedimientos en trámite ante las instancias mencionadas en esta Ley se seguirán conforme a las disposiciones vigentes al momento de su iniciación.
+
+B.O. 20 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan la fracción XVIII del artículo 3° y los artículos 154 BIS A, 154 BIS B, 154 BIS D y 154 BIS G, de la Ley de Salud para el Estado de Sonora.
+
+###### ARTICULO TERCERO.
+
+El Centro deberá realizar su sesión de instalación a más tardar sesenta días naturales a partir de la entrada en vigor de la presente Ley, para lo cual, el Presidente Ejecutivo, girará los citatorios e invitaciones respectivas.
+
+En dicha sesión de instalación se nombrará al Director General del Centro.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado realizará las reasignaciones de recursos necesarias para que el Centro pueda cumplir con sus atribuciones en el presente ejercicio fiscal o, en su caso y para el mismo fin, hará la propuesta respectiva de modificación al Presupuesto de Egresos del Gobierno del Estado para el presente ejercicio fiscal al Congreso del Estado.
+
+###### ARTICULO QUINTO.
+
+El reglamento interno del Centro deberá ser aprobado a más tardar a los treinta días naturales contados a partir de la fecha de la sesión de instalación del mismo.
