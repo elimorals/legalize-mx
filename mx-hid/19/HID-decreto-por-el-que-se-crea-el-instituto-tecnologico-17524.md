@@ -4,7 +4,7 @@ identifier: "HID-decreto-por-el-que-se-crea-el-instituto-tecnologico-17524"
 country: "mx"
 rank: "decreto"
 publication_date: "2000-08-21"
-last_updated: "2002-06-24"
+last_updated: "2005-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO POR EL QUE SE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DEL OCCIDENTE DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de agosto de 2000.
 
@@ -32,8 +32,6 @@ LIC. MANUEL ANGEL NUÑEZ SOTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBE
 ...
 
 Por lo que he tenido a bien expedir el siguiente:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO QUE MODIFICA AL DIVERSO QUE CREO EL INSTITUTO TECNOLOGICO SUPERIOR DEL OCCIDENTE DEL ESTADO DE HIDALGO, POR DECRETO GUBERNAMENTAL MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL PRESENTE ORDENAMIENTO; MOTIVO POR EL CUAL, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2002.</small>
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2002)</small>
 
@@ -137,13 +135,31 @@ Las Sesiones de la Junta Directiva podrán ser Ordinarias o Extraordinarias. Las
 
 Los Acuerdos tomados en las Sesiones, serán válidos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 6.
 
-La Junta Directiva sesionará con la asistencia de su Presidente o en ausencia de éste, con la de su suplente y con la mayoría de sus miembros.
+La Junta Directiva será el Organo Supremo del Instituto y estará integrada por:
 
-Cada miembro propietario de la Junta Directiva designará un suplente, quien lo sustituirá en sus ausencias con las mismas facultades.
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- El Secretario de Educación Pública del Estado;
+
+III.- El Secretario de Contraloría del Estado;
+
+IV.- El Secretario de Administración del Estado;
+
+V.- Dos Representantes de la Federación designados por el Secretario de Educación Pública;
+
+VI.- Un Representante del Municipio de Mixquiahuala de Juárez, Hidalgo, designado por la Asamblea Municipal;
+
+VII.- Dos Representantes del Sector Productivo de la Región que serán miembros del Patronato; y
+
+VIII.- Un Representante del Sector Social designado por la Asamblea Municipal.
+
+Las Sesiones de la Junta Directiva podrán ser Ordinarias o Extraordinarias. Las Ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las Extraordinarias cuando sean necesarias, las que serán convocadas por su Presidente a iniciativa de alguno de sus miembros.
+
+Los Acuerdos tomados en las Sesiones, serán válidos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2002)</small>
 
@@ -223,7 +239,9 @@ El Director General del Instituto, será nombrado y removido por el Gobernador d
 
 Para ser Director General se requiere:
 
-I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE JUNIO DE 2005)</small>
+
+I.- Formular, Aprobar y Expedir los reglamentos y disposiciones generales relativas a la organización y funcionamiento económico, académico, técnico y administrativo del Instituto; (sic)
 
 II.- No ser ministro de cualquier culto religioso, ni haber sido sentenciado por la comisión de algún delito intencional;
 
@@ -341,6 +359,14 @@ El Comisario, evaluará el desempeño general por funciones del Organismo, reali
 
 Las relaciones de trabajo entre el Organismo y su personal se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2005)</small>
+
+### CAPITULO VIII
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2005)</small>
+
+ARTICULO 19 (SIC).- Las relaciones de trabajo del Organismo y su personal se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -360,3 +386,9 @@ LIC. MANUEL ANGEL NUÑEZ SOTO.
 P.O. 24 DE JUNIO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2005.
+
+PRIMERO.- Las reformas al Decreto que creó el Instituto Tecnológico Superior del Occidente del Estado de Hidalgo, entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
