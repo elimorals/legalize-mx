@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-politecnica-de-pachuca-38081"
 country: "mx"
 rank: "decreto"
 publication_date: "2004-03-15"
-last_updated: "2004-03-15"
+last_updated: "2005-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO QUE CREA LA UNIVERSIDAD POLITECNICA DE PACHUCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de marzo de 2004.
 
@@ -119,25 +119,33 @@ I.- La Junta de Gobierno y
 
 II.- El Rector.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 5.
 
-La Junta de Gobierno es la Autoridad Suprema de la Universidad y estará integrada por:
+La Junta de Gobierno es el Organo Supremo de la Universidad y estará integrada por:
 
-I.- El Secretario del Sistema de Educación Pública de Hidalgo, quien la presidirá;
+I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- El Secretario de Desarrollo Económico;
+II.- El Secretario de Educación Pública del Estado;
 
-III.- El Secretario de Finanzas y Administración;
+III.- El Secretario de la Contraloría del Estado;
 
-IV.- Tres representantes de la Secretaría de Educación Pública;
+IV.- El Secretario de Desarrollo Económico del Estado;
 
-V.- Un representante del Municipio de Zempoala, Hidalgo;
+V.- El Secretario de Finanzas del Estado;
 
-VI.- Un representante del Municipio de Pachuca, Hidalgo y
+VI.- El Secretario de Administración del Estado;
 
-VII.- Un representante del sector social y uno del sector privado, ambos del área de influencia de la Universidad, propuestos por el Titular del Ejecutivo Estatal, los cuales durarán en su encargo dos años, pudiendo ser ratificados.
+VII.- Tres Representantes de la Federación designados por el Secretario de Educación Pública;
 
-Por cada miembro Propietario habrá un Suplente, quien será designado por el Titular y contará con las mismas facultades que los Propietarios, en caso de ausencia de éstos.
+VIII.- Un representante del Municipio de Zempoala, Hidalgo;
+
+IX.- Un Representante del Municipio de Pachuca, Hidalgo; y
+
+X.- Dos Representantes, uno del Sector Social y uno del Sector Privado, ambos del área de influencia de la Universidad, los cuales durarán en su encargo dos años, pudiendo ser ratificados para cubrir otro periodo.
+
+Por cada miembro propietario habrá un suplente, en caso de ausencia de éstos, quien será designado por el Titular y contará con las mismas facultades que los propietarios.
 
 ###### ARTICULO 6.
 
@@ -171,7 +179,9 @@ VI.- Aprobar la estructura básica de la Universidad y modificaciones que proced
 
 VII.- Aprobar la constitución del Consejo de Calidad y del Consejo Social, llevando a cabo su seguimiento y evaluación;
 
-VIII.- Aprobar el Estatuto Orgánico del Organismo, así como las disposiciones reglamentarias que rijan la organización, funcionamiento, control y evaluación de la Universidad, así como sus modificaciones;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2005)</small>
+
+VIII.- Aprobar y Expedir el Estatuto Orgánico del Organismo, así como las disposiciones reglamentarias que rijan la organización, funcionamiento, control y evaluación de la Universidad, así como sus modificaciones;
 
 IX.- Aprobar las disposiciones jurídico-administrativas y los mecanismos orientados a mejorar la organización y funcionamiento académico;
 
@@ -342,3 +352,11 @@ Dado en el Palacio del Poder Ejecutivo en la Ciudad de Pachuca de Soto, Hidalgo,
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 20 DE JUNIO DE 2005.
+
+PRIMERO.- Las reformas al Decreto que creó la Universidad Politécnica de Pachuca, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
