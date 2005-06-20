@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2004-01-23"
+last_updated: "2005-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2005.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 28 de abril de 1995.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 1995.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -360,6 +360,18 @@ Las entidades del sector financiero sujetas a la supervisión de la Comisión, e
 
 Las relaciones laborales entre la Comisión y sus trabajadores, se regirán por lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional.
 
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2005)</small>
+
+###### Artículo 21.
+
+La Comisión prestará los servicios de asistencia y defensa legal a los integrantes de su Junta de Gobierno y a los servidores públicos que laboren en la propia Comisión, con respecto a los actos que las personas antes referidas lleven a cabo en el ejercicio de las funciones que por ley les estén encomendadas.
+
+Los interventores de entidades financieras que sean designados por la Comisión en términos de las leyes aplicables, así como de lo dispuesto en esta Ley y el personal auxiliar al cual los propios interventores les otorguen poderes porque sea necesario para el desempeño de sus funciones, también serán sujetos de asistencia y defensa legal por actos que desempeñen en el ejercicio de las facultades que las leyes les encomienden derivados de la intervención, cuando la entidad de que se trate no cuente con recursos líquidos suficientes para hacer frente a dicha asistencia y defensa legal.
+
+La asistencia y defensa legal se proporcionará con cargo a los recursos con los que para estos fines cuente la Comisión de acuerdo con los lineamientos de carácter general que apruebe la Junta de Gobierno de la propia Comisión, en los cuales deberá preverse el supuesto de que si la autoridad competente le dicta al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicho sujeto deberá rembolsar a la Comisión los gastos y cualquier otra erogación en que se hubiere incurrido con motivo de la asistencia y defensa legal.
+
+Para tales efectos, la Secretaría de Hacienda y Crédito Público oyendo la opinión de la Comisión, establecerá los mecanismos necesarios para cubrir los gastos que deriven de la asistencia y defensa legal previstos en este artículo.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el 1o. de mayo de 1995.
@@ -442,11 +454,11 @@ DECIMO.- Lo dispuesto en los artículos 127 a 130 entrará en vigor el 1 de ener
 
 DECIMO PRIMERO.- Lo previsto en el artículo 14 Bis 3, fracción II, segundo párrafo de la Ley del Mercado de Valores, no será aplicable tratándose de ofertas públicas secundarias de venta de acciones que realicen accionistas de emisoras con valores inscritos en el Registro Nacional de Valores o a la adquisición o colocación de acciones propias que realicen las emisoras, cuyas acciones estuvieren inscritas con anterioridad a la fecha de entrada en vigor del presente Decreto.
 
-> <small>(ADICIONADO, D.O. F. 23 DE ENERO DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
 No estarán sujetas a las restricciones establecidas en la fracción II, segundo y tercer párrafos del propio artículo 14 Bis 3, las emisoras que hayan emitido las acciones o instrumentado los mecanismos a que dichos párrafos se refieren, con anterioridad al inicio de vigencia del mismo precepto, siempre que para ello se hayan ajustado a las disposiciones legales correspondientes.
 
-> <small>(ADICIONADO, D.O. F. 23 DE ENERO DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
 En caso de modificaciones al capital social, las excepciones antes señaladas serán aplicables en tanto tienda a incrementarse la proporción de acciones ordinarias original o, cuando la situación de la emisora lo justifique, se mantenga dicha proporción, siempre que se revele al público inversionista que con la modificación al capital, éste aún no se ajusta al régimen vigente. En ambos casos se requerirá la previa autorización de la Comisión Nacional Bancaria y de Valores, la cual procederá cuando a su juicio se acredite que no se afectan los intereses del público inversionista.
 
@@ -456,6 +468,10 @@ DECIMO TERCERO.- El artículo 43 reformado entrará en vigor seis meses después
 
 DECIMO CUARTO.- No será exigible el requisito de la autorización a que se refiere el artículo 116, segundo párrafo, de la Ley General de Sociedades Mercantiles, por parte de la Comisión Nacional de Bancaria y de Valores.
 
-D.O. F. 23 DE ENERO DE 2004.
+D.O.F. 23 DE ENERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JUNIO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
