@@ -4,7 +4,7 @@ identifier: "HID-decreto-por-el-que-se-crea-el-instituto-tecnologico-45236"
 country: "mx"
 rank: "decreto"
 publication_date: "2002-06-24"
-last_updated: "2002-06-24"
+last_updated: "2005-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # DECRETO POR EL QUE SE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO
 
-DECRETO POR EL QUE SE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO
+DECRETO POR EL QUE SE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de junio de 2002.
 
@@ -101,23 +101,29 @@ II.- El Director General.
 
 ### CAPITULO III. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 5.
 
-La Junta Directiva será el Órgano Supremo del Instituto y estará integrada por:
+La Junta Directiva será el Organo Supremo del Instituto y estará integrada por:
 
-I.- Dos representantes del Estado que serán designados por el Gobernador Constitucional del Estado, uno de los cuales será el Secretario del Sistema de Educación Pública en Hidalgo quien lo presidirá;
+I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Dos representantes de la Federación designados por el Secretario de Educación Pública;
+II.- El Secretario de Educación Pública del Estado;
 
-III.- Un representante del Ayuntamiento de Apan, Hidalgo y un representante del sector social de la comunidad, designados por el Ayuntamiento y
+III.- El Secretario de la Contraloría del Estado;
 
-IV.- Dos representantes del sector productivo de la región.
+IV.- El Secretario de Administración;
 
-También asistirá a las Sesiones de la Junta Directiva con voz pero sin voto, un Comisario designado por la Secretaría de Contraloría del Poder Ejecutivo del Estado.
+V.- Dos Representantes de la Federación designados por el Secretario de Educación Pública;
+
+VI.- Un representante del Ayuntamiento de Apan y un representante del Sector Social de la Comunidad, designados por el Ayuntamiento; y
+
+VII.- Dos Representantes del Sector Productivo de la Región;
 
 Las Sesiones de la Junta Directiva podrán ser Ordinarias o Extraordinarias. Las Ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las Extraordinarias cuando sean necesarias, las que serán convocadas por su Presidente a iniciativa de alguno de sus miembros.
 
-Los Acuerdos tomados en las Sesiones, serán validos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
+Los Acuerdos tomados en las Sesiones, serán válidos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 6.
 
@@ -147,7 +153,9 @@ V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere 
 
 VI.- Aprobar anualmente previo Informe del Comisario y dictamen de los auditores externos en su caso, los Estados Financieros del Organismo y autorizar la publicación de los mismos;
 
-VII.- Aprobar el Estatuto Orgánico del Instituto;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2005)</small>
+
+VII.- Aprobar y expedir el Estatuto Orgánico del Instituto;
 
 VIII.- Aprobar de acuerdo con las Leyes y Reglamentos aplicables, las bases y programas generales que regulen los Convenios, Contratos, Pedidos o Acuerdos que deba celebrar el Organismo con terceros en obras públicas, arrendamientos, adquisiciones y prestaciones de servicios relaciones (sic) con bienes muebles o inmuebles. El Director General y en su caso, los servidores públicos que deban de intervenir de conformidad con el Estatuto Orgánico, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta Directiva;
 
@@ -306,3 +314,11 @@ Dado en la Sede del Poder Ejecutivo del Estado en la Ciudad de Pachuca de Soto, 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 20 DE JUNIO DE 2005.
+
+PRIMERO.- Las reformas al Decreto que creó el Instituto Tecnológico Superior del Oriente del Estado de Hidalgo denominado también ITESA, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
