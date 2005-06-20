@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-tecnologica-del-valle-del-23039
 country: "mx"
 rank: "decreto"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2005-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DEL VALLE DEL MEZQUITAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de octubre de 2001.
 
@@ -113,23 +113,33 @@ II. El Rector
 
 ### CAPITULO III. DEL CONSEJO DIRECTIVO
 
-###### ARTICULO 6.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2005)</small>
 
-El Consejo Directivo será el Organo Supremo de la Universidad y estará integrado por:
+###### Artículo 6°.
 
-I. Tres representantes de Gobierno del Estado, que serán designados por el Gobernador Constitucional uno de los cuales lo presidirá;
+El Consejo Directivo será el Órgano Supremo de la Universidad y estará integrado por:
 
-II. Tres Representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
+I.- Un Presidente, que será el Gobernador del Estado;
 
-III. Un Representante del Municipio de Ixmiquilpan, designado por el Ayuntamiento y
+II.- El Secretario de Educación Pública del Estado;
 
-IV. Tres Representantes del sector productivo de la región, invitados por el Ejecutivo Estatal.
+III.- El Secretario de Contraloría del Estado;
 
-También asistirá a las sesiones del Consejo Directivo con voz pero sin voto, un Comisario Público designado por la Secretaría de Contraloría del Gobierno del Estado.
+IV.- El Secretario de Administración del Estado;
 
-Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las extraordinarias cuando sean necesarias, las cuales serán convocadas para ello por su Presidente o a iniciativa de alguno de sus miembros.
+> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2005)</small>
 
-Los acuerdos tomados en las sesiones, serán validos cuando se encuentre presente la mayoría de sus miembros. Quien presida la sesión tendrá voto de calidad en caso de empate.
+V.- Tres Representantes de la Federación designados por el Secretario de Educación Pública;
+
+VI.- Un representante del Municipio de Ixmiquilpan, Hidalgo, designado por el Ayuntamiento; y
+
+> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2005)</small>
+
+VII.- Tres Representantes del Sector Productivo de la Región, invitados por el Ejecutivo Estatal.
+
+Las Sesiones del Consejo Directivo podrán ser Ordinarias o Extraordinarias. Las Ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las Extraordinarias cuando sean necesarias, las que serán convocadas por su Presidente a iniciativa de alguno de sus miembros.
+
+Los Acuerdos tomados en las Sesiones, serán válidos cuando se encuentren presentes la mayoría de sus miembros. Quien presida la Sesión tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 7.
 
@@ -143,9 +153,11 @@ En las sesiones del Consejo Directivo participará el Rector de la Universidad c
 
 El Consejo Directivo podrá invitar a sus sesiones a quienes estime que con sus opiniones puedan coadyuvar a la mejor realización del objeto de la Universidad, con voz pero sin voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 9.
 
-El Consejo Directivo tendrá las siguientes facultades:
+La Junta de Gobierno tendrá las siguientes facultades y obligaciones:
 
 I. Establecer en congruencia con los programas gubernamentales, las políticas generales y definir las prioridades a las que deberá sujetarse la Entidad paraestatal, relativas a la producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
@@ -159,7 +171,9 @@ V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere n
 
 VI. Aprobar anualmente previo informe del Comisario y dictamen de los auditores externos en su caso, los estados financieros del organismo y autorizar la publicación de los mismos;
 
-VII. Aprobar el Estatuto Orgánico del Organismo;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE JUNIO DE 2005)</small>
+
+VII. Aprobar y Expedir el Estatuto Orgánico del Organismo;
 
 VIII. Aprobar de acuerdo con las Leyes y Reglamentos aplicables, las bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el organismo con terceros en obras públicas, arrendamientos, adquisiciones y prestaciones de servicios relacionados con bienes muebles o inmuebles. El Rector y en su caso, los servidores públicos que deban de intervenir de conformidad con el Estatuto Orgánico, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Consejo Directivo;
 
@@ -316,3 +330,11 @@ Dado en la sede del Poder Ejecutivo del Estado en la Ciudad de Pachuca de Soto, 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 20 DE JUNIO DE 2005.
+
+PRIMERO.- Las reformas al Decreto que modificó el Diverso que creó la Universidad Tecnológica del Valle del Mezquital, entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
