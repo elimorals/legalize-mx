@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-4481
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-27"
-last_updated: "2005-05-27"
+last_updated: "2005-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-05-24"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2005.
 
@@ -210,6 +210,10 @@ C. Delegados y Comisarios Públicos;
 D. Titulares de Órganos Internos de Control y los de sus áreas de Auditoría, Quejas y Responsabilidades, y
 
 E. Supervisores Regionales.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+Para los efectos de lo previsto por las fracciones XI y XII del artículo 37 de la Ley Orgánica, la Secretaría contará con los titulares de los órganos internos de control en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República y con los titulares de las áreas de auditoría, quejas y responsabilidades de dichos órganos, quienes tendrán el carácter de autoridad, así como con los delegados, comisarios públicos y los supervisores regionales quienes tendrán las atribuciones a que se refieren los artículos 63 a 68 y 70 de este Reglamento.
 
 La Secretaría contará, asimismo, con las unidades subalternas que se establezcan por acuerdo de su Titular, las que deberán contenerse y especificarse en el Manual de Organización General de la Dependencia.
 
@@ -1073,7 +1077,9 @@ I. Establecer, en coordinación con la Dirección General de Responsabilidades y
 
 II. Recibir las quejas y denuncias que se formulen en contra de los servidores públicos por el incumplimiento de sus obligaciones; practicar, en su caso, las investigaciones que se requieran para la integración de los expedientes relativos, y turnarlos para su atención a la autoridad competente;
 
-Igualmente, dar seguimiento a los procedimientos disciplinarios instaurados en términos del párrafo anterior para informar al denunciante las incidencias del caso, así como captar y gestionar las peticiones sobre los trámites, servicios y sugerencias de mejoramiento que presente la ciudadanía, comunicando la remisión de su petición al órgano interno de control competente o a la autoridad que corresponda;
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+Igualmente, dar seguimiento a los procedimientos disciplinarios instaurados en los términos del párrafo anterior hasta su resolución, así como captar y dar curso a las peticiones sobre los trámites, servicios y sugerencias de mejoramiento que presente la ciudadanía, comunicando al solicitante la remisión de su petición al órgano interno de control competente o a la autoridad que corresponda;
 
 III. Promover, en coordinación con las dependencias, las entidades y la Procuraduría, la instalación de oficinas y módulos de orientación y recepción de quejas, a efecto de facilitar a la ciudadanía la presentación de sugerencias, quejas y denuncias y propiciar el mejoramiento de los servicios;
 
@@ -1133,7 +1139,9 @@ XVI. Implantar los sistemas que se requieran para el control de los asuntos de s
 
 XVII. Definir para efectos internos de la Secretaría los criterios y las propuestas de lineamientos en materia de responsabilidades, y
 
-XVIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el Secretario.
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+XVIII. Las demás que le atribuya expresamente el Secretario, así como las que competen a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 39.
 
@@ -1147,7 +1155,9 @@ III. Determinar la suspensión temporal de los presuntos responsables de sus car
 
 IV. Revisar el proyecto de resolución en el procedimiento administrativo de responsabilidades y someterlo a la consideración del Director General de Responsabilidades y Situación Patrimonial, así como proponer a éste la realización de las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas que lleguen a imponerse, y
 
-V. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el Secretario.
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+V. Las demás que le atribuya expresamente el Secretario, así como las que competen a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 40.
 
@@ -1181,7 +1191,9 @@ VI. Integrar el expediente de evolución patrimonial y demás constancias que se
 
 VII. Remitir a la Dirección General Adjunta de Responsabilidades los expedientes y constancias cuando se detecten presuntas responsabilidades a cargo de los servidores públicos, y
 
-VIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el Secretario.
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+VIII. Las demás que le atribuya expresamente el Secretario, así como las que competen a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 42.
 
@@ -1251,7 +1263,9 @@ XIV. Revisar la información asentada en las declaraciones de situación patrimo
 
 XV. Diseñar el contenido de la página de Declaranet y de los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos, y
 
-XVI. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el Secretario.
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+XVI. Las demás que le atribuya expresamente el Secretario, así como las que competen a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 45.
 
@@ -1385,9 +1399,13 @@ Corresponderá a la Dirección General de Planeación, Organización y Compensac
 
 I. Elaborar, en coordinación con la Unidad de Recursos Humanos y Profesionalización de la Administración Pública Federal, normas en materia de servicios personales en lo relativo a tabuladores de sueldos, pago de remuneraciones, prestaciones y separación voluntaria en la Administración Pública Federal;
 
-II. Elaborar metodologías, criterios técnicos y herramientas que permitan a las dependencias y entidades definir las descripciones, perfiles, capacidades y valuación de los puestos;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
 
-III. Definir criterios generales en materia de puestos de libre designación en las dependencias y entidades;
+II. Elaborar metodologías, criterios técnicos y herramientas que permitan a las dependencias y, en su caso, a las entidades definir las descripciones, perfiles, capacidades y valuación de los puestos;
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+III. Definir criterios generales en materia de puestos de libre designación en las dependencias;
 
 IV. Elaborar los lineamientos que permitan a las dependencias y entidades definir sus estructuras orgánicas, así como establecer las metodologías y lineamientos que precisen las características y contenidos del catálogo de puestos;
 
@@ -1419,7 +1437,9 @@ XVI. Las demás que las disposiciones legales y administrativas le confieran y l
 
 Corresponderá a la Dirección General de Ingreso, Capacitación y Certificación el ejercicio de las siguientes atribuciones:
 
-I. Asesorar, establecer y definir los criterios técnicos, metodologías y manuales que permitan a las dependencias y entidades seleccionar, ingresar, capacitar, certificar y evaluar el desempeño de los servidores públicos;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+I. Asesorar, establecer y definir los criterios técnicos, metodologías y manuales que permitan a las dependencias y, en su caso, a las entidades, seleccionar, ingresar, capacitar, certificar y evaluar el desempeño de los servidores públicos;
 
 II. Diseñar los lineamientos para que las dependencias desarrollen los procedimientos y mecanismos para determinar los planes individuales de carrera, identificación de puestos clave, intercambio de recursos humanos, rotación periódica de servidores públicos, sistema de puntuación para la evaluación del desempeño, así como la filiación de servidores públicos;
 
@@ -1663,9 +1683,11 @@ Los delegados serán asistidos por los subdelegados y el personal de apoyo que e
 
 Los comisarios públicos serán propietarios y suplentes y representarán a la Secretaría ante los órganos de gobierno o de control interno, así como ante los comités y subcomités especializados de las entidades, de acuerdo a lo dispuesto en el Capítulo VI de la Ley Federal de las Entidades Paraestatales y demás disposiciones aplicables, analizarán los riesgos y problemas de corrupción y falta de transparencia en las entidades en las que sean designados y desarrollarán las demás tareas específicas que les asigne el Secretario o el Coordinador General de Órganos de Vigilancia y Control.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 66.
 
-Corresponderá a los titulares de los órganos internos de control, en el ámbito de la dependencia o entidad en la que sean designados o en el de la Procuraduría, el ejercicio de las siguientes atribuciones:
+Los titulares de los órganos internos de control tendrán, en el ámbito de la dependencia, de sus órganos desconcentrados o entidad de la Administración Pública Federal en la que sean designados o de la Procuraduría General de la República, las siguientes facultades:
 
 I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos y darles seguimiento; investigar y fincar las responsabilidades a que haya lugar e imponer las sanciones respectivas, en los términos del ordenamiento legal en materia de responsabilidades, con excepción de las que conozca la Dirección General de Responsabilidades y Situación Patrimonial; determinar la suspensión temporal del presunto responsable de su empleo, cargo o comisión, si así conviene a la conducción o continuación de las investigaciones, de acuerdo a lo establecido en el ordenamiento aludido y, en su caso, llevar a cabo las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas que se llegue a imponer a los servidores públicos con motivo de la infracción cometida;
 
@@ -1691,9 +1713,11 @@ XI. Llevar a cabo programas específicos tendientes a verificar el cumplimiento 
 
 XII. Las demás que las disposiciones legales y administrativas les confieran y las que les encomienden el Secretario y el Coordinador General de Órganos de Vigilancia y Control.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 67.
 
-Corresponderá a los titulares de las áreas de responsabilidades, de auditoría y de quejas de los órganos internos de control, en el ámbito de la dependencia o entidad en la que sean designados o de la Procuraduría y sin perjuicio de las que corresponden a los titulares de dichos órganos, el ejercicio de las siguientes atribuciones:
+Los titulares de las áreas de responsabilidades, auditoría y quejas de los órganos internos de control tendrán, en el ámbito de la dependencia, de sus órganos desconcentrados o entidad en la que sean designados o de la Procuraduría General de la República, sin perjuicio de las que corresponden a los titulares de dichos órganos, las siguientes facultades:
 
 I. Titulares de las Áreas de Responsabilidades:
 
@@ -1875,6 +1899,12 @@ Las ausencias de los titulares de las áreas de responsabilidades, auditoría y 
 
 Las ausencias de los supervisores regionales serán suplidas por los supervisores regionales adjuntos; las de éstos, por el especialista en atención ciudadana que designe el supervisor regional.
 
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 76.
+
+Durante las ausencias del Secretario Ejecutivo de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal, del Coordinador General de Órganos de Vigilancia y Control, de los Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, éstos serán suplidos por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes Secretario Ejecutivo de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal, Coordinador General de Órganos de Vigilancia y Control, Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento. Las ausencias del Coordinador de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades serán suplidas por el servidor público de la jerarquía inmediata inferior que designe el propio Coordinador de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1892,3 +1922,9 @@ SEXTO.- La Oficialía Mayor de la Secretaría de la Función Pública realizará
 SÉPTIMO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Secretaría de la Función Pública, se deberán realizar mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
