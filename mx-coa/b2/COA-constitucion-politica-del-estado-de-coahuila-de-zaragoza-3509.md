@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2004-12-03"
+last_updated: "2005-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -106,11 +106,11 @@ La División Territorial.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-#### SECCION III.
+#### SECCION II.
 
-La Competencia Municipal.
+El Ayuntamiento y el Concejo Municipal.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 7º.
 
@@ -378,7 +378,7 @@ El pueblo, en quien reside esencial y originariamente la soberanía que deposita
 
 ###### Artículo 27.
 
-Los ciudadanos, mediante el ejercicio del voto, y de entre los candidatos propuestos por los partidos políticos, eligirán a los diputados locales, al Gobernador del Estado y a los integrantes de los ayuntamientos. Para ello, se observará un procedimiento eleccionario que garantice la seguridad jurídica de los electores.
+Los ciudadanos, mediante el ejercicio del voto, y de entre los candidatos propuestos por los partidos políticos, elegirán a los diputados locales, al Gobernador del Estado y a los integrantes de los ayuntamientos. Para ello, se observará un procedimiento eleccionario que garantice la seguridad jurídica de los electores.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -688,7 +688,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
 
 ###### Artículo 56.
 
@@ -840,9 +840,11 @@ IMPRIMASE, COMUNIQUESE Y OBSERVESE.
 
 Facultades del Poder Legislativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+
 ###### Artículo 67.
 
-Son facultades del Poder Legislativo:
+Son atribuciones del Poder Legislativo:
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -914,17 +916,17 @@ XV. Recibir para su conocimiento las declaratorias de validez de las elecciones 
 
 XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
-XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia y del Tribunal Electoral del Poder Judicial, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
+XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo del Poder Judicial, que les someta el Gobernador del Estado, en los términos de la Constitución y las leyes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1999)</small>
 
 Igualmente, ratificar el nombramiento que el titular del Ejecutivo del Estado haga del Procurador General de Justicia en el Estado.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
 
-XVIII. Conocer de las renuncias y de las licencias de los diputados, del gobernador, de los magistrados del Tribunal Superior de Justicia y del Tribunal Electoral, así como de los miembros de los Ayuntamientos y concejos municipales.
+XVIII. Conocer de las renuncias y de las licencias de los diputados, del gobernador, de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo, así como de los miembros de los Ayuntamientos y Concejos Municipales.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -966,9 +968,9 @@ XXIX. Erigirse en Jurado de Sentencia para conocer en juicio político de aquell
 
 Asimismo, declarar si ha o no lugar a proceder penalmente contra los servidores públicos a que se refiere el artículo 165 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
 
-XXX. Establecer las normas para la organización y funcionamiento del Tribunal de lo Contencioso Administrativo, dotándolo de plena autonomía para dictar sus fallos; así como definir los procedimientos para dirimir las controversias que se susciten entre la Administración Pública Estatal o Municipal y los particulares.
+XXX. Establecer las normas para la organización y funcionamiento del Tribunal Administrativo del Poder Judicial, a fin de dirimir las controversias de naturaleza administrativa, en los términos que establece esta Constitución y las leyes.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1086,11 +1088,11 @@ Durante los recesos del Congreso habrá una Diputación Permanente que se integr
 
 Si durante el receso del Congreso fuere éste convocado a sesiones extraordinarias, la Diputación Permanente no suspenderá sus trabajos, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 73.
 
-Son facultades de la Diputación Permanente:
+Son atribuciones de la Diputación Permanente:
 
 I. Llevar la correspondencia con los Poderes de la Federación y con los de los Estados.
 
@@ -1104,9 +1106,9 @@ III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatu
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
 
-V. Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes. Igualmente, en su caso, recibir la protesta de Ley al Gobernador y a los Magistrados.
+V.- Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal Administrativo, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes. Igualmente, en su caso, recibir la protesta de Ley al Gobernador y a los magistrados.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1642,9 +1644,15 @@ De la Instrucción Pública.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
-#### SECCION II.
+#### SECCION III.
 
-El Ayuntamiento y el Concejo Municipal.
+La Competencia Municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO PRIMERO.
+
+Bases Generales.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1788,7 +1796,7 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 122.
 
@@ -1854,11 +1862,11 @@ El Poder Judicial.
 
 De las Garantías de la Función Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 135.
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal Electoral, en los Tribunales Unitarios de Distrito, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en un Consejo de la Judicatura y en los demás órganos jurisdiccionales que con cualquier otro nombre determinen las leyes.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal Electoral, en el Tribunal Administrativo, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos jurisdiccionales que con cualquier otro nombre determinen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -1868,9 +1876,9 @@ El período constitucional de los integrantes del Poder Judicial será:
 
 I. De seis años para los Magistrados del Tribunal Superior de Justicia, a partir del día 30 de diciembre del año en el que corresponda tomar posesión del cargo de Gobernador del Estado en los términos de lo dispuesto por el artículo 77 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
-Los magistrados del Tribunal Electoral del Poder Judicial durarán en su encargo seis años a partir de la fecha en que surta efectos su designación.
+Los magistrados del Tribunal Electoral y del Tribunal Administrativo del Poder Judicial durarán en su encargo seis años a partir de la fecha en que surta efectos su designación.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1884,9 +1892,13 @@ III. (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
 La competencia, organización y atribuciones del Pleno y de las Salas del Tribunal Superior de Justicia, así como las facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo tres años y podrá ser reelecto por igual término. Mientras ejerza su función no integrará Sala.
 
-La competencia, procedimientos, organización y atribuciones del Tribunal Electoral, los Tribunales Unitarios de Distrito, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo que dispongan las propias leyes de conformidad con las bases que esta Constitución establece.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
-El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y de plena jurisdicción, y funcionará conforme a las bases generales siguientes:
+La competencia, procedimientos, organización y atribuciones del Tribunal Electoral, del Tribunal Administrativo, los Tribunales Distritales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 21 DE JUNIO DE 2005)</small>
+
+A. El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y de plena jurisdicción, y funcionará conforme a las bases generales siguientes:
 
 I. Se integrará por tres magistrados que durarán en su cargo el tiempo que señala el último párrafo de la fracción I del artículo 135 de esta Constitución, y funcionará en Pleno en los términos que disponga la ley.
 
@@ -1934,11 +1946,47 @@ XI. El Pleno del Tribunal Electoral emitirá su opinión sobre la acción de inc
 
 XII. La administración, vigilancia y disciplina del Tribunal Electoral corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado. El presidente del Tribunal Electoral formará parte del Consejo de la Judicatura con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2005)</small>
+
+B. El Tribunal Administrativo es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
+
+I. Funcionará con una Sala Superior y Salas Distritales, en los términos que establezca la ley.
+
+II. La Sala Superior se integrará por tres magistrados numerarios y tres magistrados supernumerarios.
+
+III. Para ser magistrado del Tribunal Administrativo se requiere:
+
+1. Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles.
+
+2. Tener título oficial de licenciado en derecho y haber ejercido la profesión cinco años por lo menos.
+
+3. No haber desempeñado un cargo de elección popular federal, estatal o municipal, durante los últimos cinco años inmediatos a la fecha de su designación.
+
+4. No haber desempeñado un cargo de Secretario de la Administración Pública Estatal o Director General de una entidad paraestatal, durante los últimos cinco años inmediatos a la fecha de su designación.
+
+5. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+6. No tener más de sesenta y cinco años de edad, ni menos de treinta, el día en que tome posesión del cargo.
+
+7. Tener residencia en el estado durante los últimos cinco años, salvo el caso de ausencia por desempeño de cargo público al servicio de la federación, del estado o del municipio.
+
+IV. El Tribunal Administrativo será competente para resolver en los términos de esta Constitución y la ley, sobre:
+
+1. El juicio administrativo y demás impugnaciones de naturaleza administrativa en contra de actos u omisiones de los poderes del estado, de los municipios, de los órganos públicos autónomos o cualquier de otra entidad pública, que violen normas constitucionales o legales.
+
+2. Las quejas, juicios y las impugnaciones en materia de responsabilidad administrativa, gubernamental o patrimonial, presentadas en contra de los servidores públicos de los poderes Ejecutivo y Legislativo, de los Municipios, órganos públicos autónomos u de otras entidades públicas.
+
+3. El juicio de nulidad y demás recursos en materia fiscal.
+
+4. Las demás controversias de naturaleza administrativa que determinen las leyes.
+
+V. La administración, vigilancia y disciplina del Tribunal Administrativo corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado. El Presidente del Tribunal Administrativo formará parte del Consejo de la Judicatura siempre con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 137.
 
-El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
+El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral, el Tribunal Administrativo y los Tribunales Distritales, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1968,11 +2016,11 @@ Los requisitos para ser Juez serán determinados en la ley de la materia.
 
 El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde exclusivamente a los órganos del Poder Judicial en los negocios que les encomienden las leyes, según los procedimientos que las mismas establezcan.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 141.
 
-La Justicia se imparte en nombre del pueblo y se administra por el Estado a través de la función jurisdiccional, ejercida por Magistrados y Jueces integrantes del Poder Judicial, independientes, imparciales, responsables y sometidos únicamente al imperio de la Ley.
+La Justicia se imparte en nombre del pueblo y se administra por el Estado a través de la función jurisdiccional, ejercida por Magistrados y Jueces integrantes del Poder Judicial, independientes, imparciales, responsables, profesionales y sometidos únicamente al imperio de esta Constitución y la ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1986,7 +2034,9 @@ Es obligatorio para toda autoridad, cumplir las sentencias y demás resoluciones
 
 El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Unitario y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. El Presidente del Tribunal Electoral formará parte del Consejo cuando se traten asuntos relativos al Tribunal que preside.
+(REFORMADO, P.O. 21 DE JUNIO DE 2005) (F. DE E., P.O. 19 DE AGOSTO DE 2005)
+
+El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. Los Presidentes del Tribunal Electoral y del Tribunal Administrativo formarán parte siempre del Consejo con voz, pero sólo tendrán voto cuando se traten de asuntos relativos a los Tribunales que presiden.
 
 Los consejeros deberán reunir los requisitos para ser magistrados y durarán tres años en su cargo, salvo su Presidente. Por cada uno de los consejeros, habrá un suplente.
 
@@ -2016,11 +2066,11 @@ La formación y actualización de los servidores públicos judiciales, estará a
 
 Los nombramientos de los Magistrados y Jueces, integrantes del Poder Judicial, serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 146.
 
-Los nombramientos de los magistrados del Tribunal Superior de Justicia y del Tribunal Electoral serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, el que la otorgará o negará dentro del improrrogable término de cinco días.
+Los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo, serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2046,11 +2096,11 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 148.
 
-Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2120,15 +2170,41 @@ La Justicia Constitucional Local.
 
 ###### Artículo 154.
 
-Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+Toda persona tiene derecho al acceso a la justicia para tutelar de manera efectiva sus derechos fundamentales.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+Esta garantía de la tutela judicial efectiva se regirá por los principios siguientes:
 
-Las Leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+I. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Se prohíben los tribunales especiales. El servicio de justicia será gratuito. Quedan prohibidas las costas judiciales.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+II. El acceso a la justicia se sujetará a lo siguiente:
 
-Los daños causados por error judicial grave, así como los que sean consecuencia del funcionamiento anormal de la administración de justicia, darán derecho a una indemnización a cargo del Estado, conforme a las leyes.
+1. La garantía de la transparencia judicial que significa la publicidad de la función de los jueces, desde su organización y funcionamiento hasta el acceso libre al expediente y actuaciones judiciales, salvo los casos reservados por razones válidas de orden público o privado conforme a la ley.
+
+2. La dirección e impulso del proceso por parte de los jueces, sin perjuicio de la disponibilidad de las partes.
+
+3. La garantía del breve juicio bajo principios de celeridad, oralidad, oportunidad y expeditez.
+
+4. El derecho a la igualdad, salvo la prevalencia del trato judicial más favorable a las personas más débiles o vulnerables.
+
+5. El derecho a la audiencia y defensa de las partes.
+
+6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso.
+
+7. La interpretación más favorable del derecho fundamental.
+
+8. La interpretación restrictiva de las causas de inadmisión de la controversia.
+
+9. El debido procedimiento con formalidades esenciales, a partir de los principios de antiformalismo, subsanabilidad, razonabilidad, proporcionalidad y estabilidad o conservación de los actos válidos.
+
+10. Los principios generales del proceso.
+
+11. El procedimiento judicial se podrá tramitar a través de un sistema de justicia digital confiable.
+
+12. La plena y efectiva ejecución de las resoluciones judiciales.
+
+III. La ley establecerá los casos en que procederá la indemnización a cargo del Estado, por los daños causados por error judicial grave o funcionamiento anormal de la administración de justicia.
+
+IV. Se establecerá un sistema de justicia alternativa, a través de la mediación, conciliación, arbitraje o cualquier otro medio de solución alterno para resolver las controversias entre particulares.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2142,15 +2218,29 @@ En los juicios del orden criminal, queda prohibido imponer, por simple analogía
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la Ley, a falta de ésta, se fundará en los principios generales del derecho.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 156.
 
-Las actuaciones judiciales serán públicas y, por excepción, secretas, cuando así lo exijan la moral o el interés público.
+Los juicios, los expedientes y las actuaciones judiciales serán públicas, salvo los casos que la ley exija que sean reservadas por razones de orden público o privado.
 
-En el procedimiento se observará el principio de igualdad de las partes; la mayor concentración de los actos procesales y amplios poderes de dirección e impulso por los jueces.
+La garantía de la transparencia judicial se regirá por los principios siguientes:
 
-Las resoluciones judiciales siempre serán fundadas y motivadas.
+I. Toda persona tiene derecho a recibir información en los términos que disponga la ley y el reglamento, sobre:
+
+1. La organización y el funcionamiento del sistema judicial.
+
+2. Las características y requisitos de los procedimientos que se sigan ante los jueces y tribunales.
+
+3. El orden jurídico legal y reglamentario, las sentencias, jurisprudencias y tesis aisladas a través de un sistema de fácil acceso.
+
+4. El contenido y el estado de cualquier expediente, salvo que se trate de información confidencial o reservada conforme a la ley.
+
+5. La demás información que resulte relevante para conocer el sistema judicial.
+
+II. Los jueces tienen el deber de trascender el ámbito de ejercicio de dicha función, procurando que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con respeto a la dignidad de la persona que acude en demanda del servicio.
+
+III. Los actos de comunicación y difusión judicial se deberán realizar en términos sencillos y comprensibles a cualquier persona.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2160,15 +2250,15 @@ Todo inculpado, desde el inicio de su proceso, deberá ser informado de los dere
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho recibir asesoría jurídica y a ser informada de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución; particularmente, a coadyuvar con el Ministerio Público; a que se le reciban todos los medios de prueba con los que cuente, tanto en la averiguación previa como en el proceso; a la reparación del daño, en los casos en que sea procedente, a recibir, desde la comisión del delito, atención medica y psicológica de urgencia, en caso de ser necesaria; a no ser careado con el inculpado, cuando el ofendido sea menor de edad y se trate de los delitos de violación y secuestro, y a solicitar las medidas y providencias que prevea la ley, para su seguridad y auxilio.
 
-Los daños causados por error judicial grave, así como los que sean consecuencia del funcionamiento anormal de la administración de justicia, darán derecho a una indemnización a cargo del Estado, conforme a las leyes.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-El Gobierno Municipal.
+Bases Fundamentales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158.
 
@@ -2180,7 +2270,9 @@ La Justicia Constitucional Local tiene por objeto dirimir de manera definitiva e
 
 Cuando la autoridad jurisdiccional considere en su resolución que una norma es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
 
-El Tribunal Superior de Justicia en su carácter de Tribunal Constitucional Local conocerá, en los términos que establezca la ley, de los medios de control siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+
+El Pleno del Tribunal Superior de Justicia, en su carácter de Tribunal Constitucional Local conocerá, en los términos que establezca la ley, de los medios de control siguientes:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -2208,7 +2300,9 @@ En el caso del inciso 1, la controversia sólo procederá en materia de régimen
 
 En los casos de los incisos 2., 3. y 5., la controversia sólo procederá en los supuestos previstos en el artículo 115, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las controversias constitucionales locales se sujetarán a las siguientes bases:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+
+Las controversias constitucionales locales se sujetarán a lo siguiente:
 
 1. Podrán promoverse por cualquiera de las partes, según la controversia de que se trate.
 
@@ -2220,39 +2314,51 @@ Las controversias constitucionales locales se sujetarán a las siguientes bases:
 
 II. De las acciones de inconstitucionalidad local que tengan por objeto plantear la posible contradicción entre una norma o acuerdo de carácter general y esta Constitución, las que deberán resolverse con base en lo establecido en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El ejercicio de las acciones de inconstitucionalidad se sujetará a las bases siguientes:
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
-1. Sólo podrá promoverse por:
+Las acciones de inconstitucionalidad locales se sujetarán a lo siguiente:
 
-a) El equivalente al treinta por ciento de los integrantes de los Ayuntamientos o Concejos Municipales en contra de los bandos de policía y de gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, aprobadas por los propios Ayuntamientos o Concejos Municipales;
+1. Se podrán promover en forma abstracta por:
 
-b) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente, o por el equivalente al treinta por ciento de los integrantes del Poder Legislativo, en contra de los bandos de policía y de gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que dicten los Ayuntamientos o Concejos Municipales, y
+a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente.
 
-c) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente, o el equivalente al treinta por ciento de los integrantes de los Ayuntamientos o Concejos Municipales en contra de las leyes, decretos o acuerdos que apruebe el Congreso del Estado.
+b) El equivalente al diez por ciento de los integrantes del Poder Legislativo.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+c) El equivalente al diez por ciento de los integrantes de los Ayuntamientos o Concejos Municipales.
 
-d) El organismo público autónomo, por conducto de quien le represente legalmente, en contra de las leyes, decretos o acuerdos que apruebe el Congreso del Estado con relación a la materia de su competencia.
+d) El organismo público autónomo, por conducto de quien le represente legalmente.
 
-2. Se ejercitarán dentro de los treinta días naturales siguientes a la fecha de publicación de la norma o acuerdo general o de que se tenga conocimiento de las mismas.
+e) Cualquier persona, a través del organismo protector de los derechos humanos previsto en el artículo 195 de esta Constitución, cuando se trate de violaciones a los derechos y garantías constitucionales.
 
-3. Las resoluciones del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por la mayoría absoluta de sus miembros y tendrá efectos de cosa juzgada.
+f) Los partidos políticos nacionales y estatales con registro debidamente acreditado ante la autoridad electoral que corresponda.
 
-4. La ley reglamentaria establecerá el procedimiento para resolver la acción de inconstitucionalidad local.
+2. Se ejercitarán dentro de los sesenta días naturales siguientes a la fecha de publicación oficial de la norma, o en su defecto, de que se tenga conocimiento de la misma.
+
+3. Procederán contra:
+
+a) Las leyes, decretos o puntos de acuerdos que apruebe el Congreso del Estado o la Diputación Permanente.
+
+b) Los reglamentos, acuerdos, decretos y demás normas administrativas de carácter general expedidas por el poder Ejecutivo, organismos públicos autónomos y demás entidades públicas con facultad reglamentaria.
+
+c) Los bandos de policía y de gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, expedidas por los Ayuntamientos o Concejos Municipales.
+
+d) Las normas de carácter general que expidan los organismos públicos autónomos.
+
+e) Las demás normas de carácter general, salvo las que dicte el Pleno del Tribunal Superior de Justicia.
+
+f) La omisión normativa consistente en la falta de regulación legislativa o reglamentaria.
+
+4. Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas con efectos generales, siempre que fueren aprobadas por la mayoría absoluta de sus miembros y tendrá efectos de cosa juzgada en los términos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerdos legislativos en materia electoral, es la prevista en este artículo, sin perjuicio del control difuso que ejercerá el Tribunal Electoral del Poder Judicial en los términos de esta Constitución.
 
-La Justicia Constitucional se regirá en todos los casos por la jurisprudencia local.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-APARTADO TERCERO.
-
-Las Funciones y Servicios Públicos Municipales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2260,17 +2366,11 @@ El Municipio Libre.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-APARTADO PRIMERO.
+### CAPITULO II.
 
-Bases Generales.
+El Gobierno Municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
-### CAPITULO I.
-
-Bases Fundamentales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2306,7 +2406,7 @@ Los gobiernos estatal y municipal y los organismos públicos autónomos, en la e
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2360,7 +2460,7 @@ III. Si se trata de la creación de un nuevo Municipio deberán, por lo menos, s
 
 IV. Podrá crearse un nuevo Municipio mediante fusión o división de los existentes cuando así lo exija el interés público.
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-K.
 
@@ -2418,13 +2518,7 @@ VII. En el caso de que un Concejo Municipal se ubique en el supuesto previsto en
 
 VIII. En todo caso, el Congreso del Estado deberá tomar las medidas necesarias para asegurar la gobernabilidad del Municipio mientras realiza la designación de los miembros del Concejo Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO SEGUNDO.
-
-La Hacienda Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-N.
 
@@ -2456,7 +2550,13 @@ En la ley o en el convenio se preverá la correspondiente transferencia de medio
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO SEGUNDO.
+
+La Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-P.
 
@@ -2511,6 +2611,14 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 ###### Artículo 158-T.
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO TERCERO.
+
+Las Funciones y Servicios Públicos Municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-U.
 
@@ -2710,8 +2818,6 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
 ## TITULO SEPTIMO.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
@@ -2756,11 +2862,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el gobernador del Estado; los secretarios del ramo; el procurador general de justicia, los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados de los Tribunales Unitarios de Distrito; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila; y los demás integrantes de los organismos públicos autónomos que establezca esta Constitución.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el gobernador del Estado; los secretarios del ramo; el procurador general de justicia; los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados del Tribunal Administrativo; los magistrados de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores, síndicos de los Ayuntamientos del estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2776,19 +2882,19 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 165.
 
-Para proceder penalmente contra el gobernador del Estado; los diputados del Congreso Local; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los secretarios del ramo; el procurador general de justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los concejos municipales; los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila; y los demás integrantes de los organismos públicos autónomos que establezca esta Constitución, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el gobernador del Estado; los diputados del Congreso del Estado; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados del Tribunal Administrativo; los magistrados de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el procurador general de justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los concejos municipales; y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Si la resolución del Congreso del Estado fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluído el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del gobernador del Estado, de los diputados al Congreso Local, de los magistrados del Tribunal Superior de Justicia, de los magistrados del Tribunal Electoral, de los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila, y los demás integrantes de los organismos públicos autónomos que establezca esta Constitución, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del gobernador del Estado, de los diputados al Congreso del Estado, de los magistrados del Tribunal Superior de Justicia, de los magistrados del Tribunal Electoral, de los magistrados del Tribunal Administrativo y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cuál fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3066,6 +3172,18 @@ En el caso de que ninguna de las prevenciones anteriores fuese aplicable a la de
 
 El Estado no reconoce más ley fundamental para su Gobierno interior, que la presente Constitución y ningún Poder ni Autoridad, puede dispensar su observancia.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2005)</small>
+
+Esta Constitución, las Cartas de los Derechos Fundamentales Locales y demás leyes fundamentales locales, serán parte de la Ley Suprema Coahuilense. Este bloque de la constitucionalidad local se conformará y modificará bajo el mismo procedimiento previsto en el artículo 196 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2005)</small>
+
+Los magistrados y jueces están sometidos a esta Constitución y a la ley conforme a ella. Todo juez tiene la obligación de cumplir y hacer cumplir los principios, valores y reglas bajo el estado humanista, social y democrático de derecho.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2005)</small>
+
+El sistema de justicia constitucional local previsto en esta Constitución, es la garantía de defensa judicial del bloque de la constitucionalidad local dentro del régimen interno del estado.
+
 ###### Artículo 195.
 
 Todos los ciudadanos tienen derecho de reclamar ante el Congreso sobre la inobservancia o infracción de la Constitución, a fin de que se haga efectiva la responsabilidad de los infractores.
@@ -3082,9 +3200,11 @@ Este organismo será autónomo y conocerá de quejas en contra de actos u omisio
 
 Sus procedimientos serán gratuitos, breves y sencillos, y en ocasión de su investigación, podrá formular recomendaciones públicas, no obligatorias, a las autoridades respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+
 ###### Artículo 196.
 
-La presente Constitución puede ser adicionada o reformada por el Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte de esta Constitución, deben observarse los requisitos siguientes:
+La Ley Suprema Coahuilense puede ser adicionada o reformada por el Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte del bloque de la constitucionalidad local, deben observarse los requisitos siguientes:
 
 I. Iniciativa suscrita cuando menos por tres diputados o por el Gobernador, a la vez que se darán dos lecturas con un intervalo de diez días.
 
@@ -3637,3 +3757,17 @@ P.O. 3 DE DICIEMBRE DE 2004.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor y surtirá sus efectos a partir del día 1º de Enero del año 2005 y hasta en tanto se observará lo establecido actualmente en las disposiciones que se reforman en este Decreto.
+
+P.O. 21 DE JUNIO DE 2005.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente a su publicación, bajo las modalidades previstas en los artículos siguientes.
+
+SEGUNDO. En un término que no excederá de seis meses contados a partir de que entre en vigor este Decreto, el Poder Legislativo del Estado expedirá la Ley de Justicia administrativa que regulará la competencia, procedimientos, organización y atribuciones del Tribunal Administrativo.
+
+En dicho ordenamiento se establecerán las disposiciones relativas a los recursos presupuestales para la instalación del Tribunal Administrativo.
+
+TERCERO. Las impugnaciones, a través de las acciones de inconstitucionalidad a ordenamientos jurídicos vigentes, al momento de entrar en vigor este Decreto, se substanciarán y resolverán en los términos de lo previsto en el artículo Segundo Transitorio del Decreto de reforma constitucional, publicado el veinte de marzo del dos mil uno.
+
+CUARTO. Hasta en tanto el Congreso del Estado expida un ordenamiento legal para regular las figuras a que se refieren los artículos 154, fracción II, numerales 1 y 11, y 156 de este Decreto, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura, en el ámbito de sus respectivas atribuciones, emitirán los acuerdos generales en los plazos y bajo las modalidades que estimen convenientes conforme a esta Constitución.
+
+QUINTO. Se derogan todas las disposiciones legales y reglamentarias que contravengan este Decreto.
