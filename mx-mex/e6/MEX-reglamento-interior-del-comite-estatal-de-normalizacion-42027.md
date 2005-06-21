@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-estatal-de-normalizacion-42027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2004-12-03"
+last_updated: "2005-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COMITE ESTATAL DE NORMALIZACION AMBIENTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2005.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 3 de diciembre del 2004.
 
@@ -47,7 +47,9 @@ Para efectos del presente Reglamento Interior se entiende por:
 
 I. Comité: Al Comité Estatal de Normalización Ambiental;
 
-II. Código: Al Código Administrativo del Estado de México;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2005)</small>
+
+II. Un Secretario Técnico, que será nombrado por el Presidente;
 
 III. Secretaría: A la Secretaría de Ecología del Gobierno del Estado de México.
 
@@ -221,7 +223,9 @@ Corresponde al Secretario Técnico:
 
 I. Suplir al Presidente en su ausencia, asumiendo las atribuciones que el cargo le confiere, incluyendo el contar con el voto aprobatorio;
 
-II. Proponer al Comité la designación de un Auxiliar Técnico, la cual la formulara del personal adscrito a la Subsecretaría de Prevención y Control de la contaminación;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2005)</small>
+
+II. Designar a un Auxiliar Técnico, dentro del personal adscrito a su área;
 
 III. Preparar y organizar las sesiones del Pleno, previo acuerdo con el Presidente;
 
@@ -498,3 +502,9 @@ La Secretaria de Ecología
 M. en C. Arlette López Trujillo
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 21 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
