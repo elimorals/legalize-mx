@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-el-fomento-del-desarrollo-basado-en-el-conocimiento-38
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-19"
-last_updated: "2004-03-19"
+last_updated: "2005-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA EL FOMENTO DEL DESARROLLO BASADO EN EL CONOCIMIENTO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de marzo de 2004.
 
@@ -39,75 +39,103 @@ LEY PARA EL FOMENTO DEL DESARROLLO BASADO EN EL CONOCIMIENTO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público, interés social y de observancia general en el Estado de Nuevo León, y tienen por objeto establecer las bases para el fomento en la entidad del desarrollo basado en el conocimiento; la coordinación de acciones entre los sectores público, privado y académico, que impulsen, promuevan y consoliden el desarrollo científico y tecnológico, y el fomento del desarrollo de la cultura del conocimiento en todos los ámbitos de la sociedad nuevoleonesa; así como organizar y regular el funcionamiento y estructura del Consejo de Ciencia y Tecnología del Estado de Nuevo León.
+Las disposiciones contenidas en la presente Ley son de orden público, interés social y de observancia general en el Estado de Nuevo León, y tienen por objeto crear las bases para el fomento en la Entidad del desarrollo basado en el conocimiento y establecer el Instituto de Innovación y Transferencia de Tecnología de Nuevo León.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 2.
 
-Para el cumplimiento del objeto de la Ley, se determinan los siguientes objetivos específicos:
+Para dar cumplimiento a esta Ley, se determinan los siguientes objetivos:
 
-I. Establecer mecanismos e instrumentos para vincular las acciones que en materia de ciencia y tecnología realicen el Gobierno del Estado, el sector empresarial, el sector social, las instituciones de educación y la comunidad científica, que faciliten la promoción, difusión y aplicación del conocimiento científico y tecnológico;
+I. Generales:
 
-II. Contribuir al establecimiento de un modelo de vinculación entre los distintos sectores que participan en la producción, a través de la preparación académica y práctica del capital humano en la entidad;
+a) Apoyar el desarrollo de la ciencia y la tecnología y su aplicación práctica por medio de la innovación y transferencia de tecnología;
 
-III. Fomentar el conocimiento a fin de fortalecer la competitividad de la actividad productiva;
+b) Propiciar el crecimiento económico y el desarrollo social a través del fomento de la ciencia, transferencia de tecnología, e innovaciones multidisciplinarias;
 
-IV. Vincular la investigación científica y tecnológica con la solución a los requerimientos de la población;
+c) Participar en la coordinación de acciones que promuevan y consoliden el desarrollo científico entre los sectores público, privado, académico y social;
 
-V. Propiciar el desarrollo científico y tecnológico por medio de la capacitación y difusión del conocimiento que estimule la alta tecnología;
+d) Apoyar una nueva cultura de la creatividad y la innovación científica y tecnológica;
 
-VI. Vigilar que el desarrollo científico y tecnológico se realice de una forma ética y responsable; y
+e) Precisar las bases organizacionales y funcionales del Instituto de Innovación y Transferencia de Tecnología;
 
-VII. Vigilar que la utilización del conocimiento científico y tecnológico sea en beneficio de la humanidad.
+f) Establecer las bases de operación del Consejo Consultivo de Ciencia del Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
+
+g) Establecer el enlace con las áreas de Ciencia y Tecnología; y
+
+h) Las demás que señala la Ley.
+
+II. Específicos:
+
+a) Fomentar la investigación científica y tecnológica orientada a necesidades de mercado en las áreas estratégicas establecidas por el Titular del Ejecutivo;
+
+b) Apoyar la creación de empresas de desarrollo tecnológico mediante la salvaguarda de la propiedad industrial, el acceso a capital de riesgo y ayuda en la comercialización de nuevas tecnologías;
+
+c) Fomentar y vincular la participación interdisciplinaria de los sectores académicos, centros de investigación y productivos, para impulsar la transferencia y generación de nuevos productos, procesos o servicios;
+
+d) Fomentar la formación de capital intelectual mediante la articulación de programas entre la academia y las empresas del conocimiento, centros de diseño y centros de investigación;
+
+e) Promover y fortalecer redes de investigadores y consorcios con los sectores productivos en las áreas estratégicas del conocimiento;
+
+f) Gestionar alianzas estratégicas con organismos nacionales e internacionales de los ámbitos privado y académico; y
+
+g) Promover una cultura de innovación en la sociedad en general y en particular en los sectores productivos en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-Programa El Programa Estatal de Ciencia y Tecnología.
+I. Consejo: Consejo Consultivo Ciudadano del Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
 
-Ley Ley para el Fomento del Desarrollo
+II. Director General: Director General del Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
 
-Basado en el Conocimiento.
+III. IITT: Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
 
-COCyTE NL Organismo Público Descentralizado de
+IV. Junta de Gobierno: Junta de Gobierno del IITT;
 
-Participación Ciudadana denominado
+V. Ley: Ley para el Fomento para el Desarrollo Basado en el Conocimiento.
 
-Consejo de Ciencia y Tecnología del
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2005)</small>
 
-Estado de Nuevo León.
+### CAPÍTULO II. DEL INSTITUTO DE INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA DE NUEVO LEÓN
 
-Consejo Consejo de Participación Ciudadana del
-
-COCyTE NL.
-
-Junta de Gobierno Junta de Gobierno del COCyTE NL.
-
-Coordinador General Coordinador General del COCyTE NL.
-
-### CAPÍTULO II. DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE NUEVO LEÓN
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 4.
 
-Se crea el Consejo de Ciencia y Tecnología del Estado de Nuevo León (COCyTE NL) como un organismo público descentralizado de participación ciudadana de la administración pública estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de su objeto y atribuciones.
+Se establece el Instituto de Innovación y Transferencia de Tecnología de Nuevo León como un organismo público descentralizado de participación ciudadana de la administración pública estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de su objeto y atribuciones.
 
-El Consejo tendrá su domicilio legal en la ciudad de Monterrey, Nuevo León, o en cualquiera de los municipios del área conurbada de la cual ésta forma parte, en donde establezca su oficina principal. Asimismo, podrá establecer oficinas regionales o municipales en el Estado para el cumplimiento de su objeto.
+El Instituto tendrá su domicilio legal en la ciudad de Monterrey, Nuevo León, o en cualquiera de los municipios del área conurbada de la cual ésta forma parte, en donde establezca su oficina principal. Asimismo, podrá establecer oficinas regionales o municipales en el Estado para el cumplimiento de su objeto.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 5.
 
-El objeto general del COCyTE NL consiste en llevar a cabo la planeación, coordinación, promoción, aplicación, seguimiento y evaluación de las acciones que se deriven de la presente Ley, sin perjuicio de las atribuciones que otros ordenamientos legales establecen para otras dependencias y entidades públicas.
+El objeto general del IITT consiste en llevar a cabo la planeación, coordinación, promoción, aplicación, seguimiento y evaluación de las acciones que se deriven de la presente Ley, sin perjuicio de las atribuciones que otros ordenamientos legales establecen para otras dependencias y entidades públicas.
 
-### CAPÍTULO III. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL COCyTE NL
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2005)</small>
 
-#### SECCIÓN PRIMERA. DE LA ESTRUCTURA ORGÁNICA Y ADMINISTRATIVA DEL COCyTE NL
+### CAPÍTULO III. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL IITT
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2005)</small>
+
+#### SECCIÓN PRIMERA. DE LA ESTRUCTURA ORGÁNICA Y ADMINISTRATIVA DEL IITT
+
+> <small>(REFORMADO PRIMER PARRAFO P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 6.
 
-El COCyTE NL contará con la siguiente estructura orgánica:
+El IITT contará con la siguiente estructura orgánica:
 
-I. El Consejo de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+I. El Consejo;
 
 II. La Junta de Gobierno;
 
@@ -115,93 +143,97 @@ III. El Director General; y
 
 IV. El Comisario.
 
-El COCyTE NL contará con la estructura administrativa que se establezca en su propio Reglamento Interior.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
+
+El IITT contará con la estructura administrativa que se establezca en su propio Reglamento Interior.
 
 #### SECCIÓN SEGUNDA. DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 7.
 
-El COCyTE NL contará con un órgano asesor, consultor y promotor de las acciones que se emprendan para el cumplimiento del objeto de la presente Ley, denominado Consejo de Participación Ciudadana, el cual será de carácter honorífico y representativo de la sociedad civil.
+El IITT contará con un órgano asesor, consultor y promotor de las acciones que se emprendan para el cumplimiento del objeto de la presente Ley, denominado Consejo, conformado por integrantes de carácter honorífico y representativos de la sociedad civil.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 8.
 
 El Consejo tiene como facultades:
 
-I. Fungir como órgano de consulta del COCyTE NL;
+I. Fungir como órgano de consulta del IITT;
 
-II. Proponer y dar seguimiento a la agenda que especifique las acciones y programas concretos a ejecutar;
+II. Proponer proyectos y acciones que se emprendan en beneficio de desarrollos e innovaciones para el crecimiento económico del Estado;
 
-III. Integrar comisiones o comités para la atención de asuntos específicos;
+III. Favorecer la participación de todos los sectores involucrados en el cumplimiento de los objetivos de esta Ley;
 
-IV. Aprobar el proyecto del Programa Estatal de Ciencia y Tecnología;
+IV. Impulsar estudios y proyectos que permitan identificar las necesidades estatales en materia de innovación y transferencia de tecnología en el Estado, proponiendo las alternativas de solución que correspondan;
 
-V. Proponer esquemas y mecanismos que contribuyan al diseño y cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio del desarrollo de la ciencia y tecnología en el Estado;
+V. Emitir opiniones al Director General para el mejor cumplimiento de los objetivos de la Ley; y
 
-VI. Favorecer la participación de todos los sectores involucrados en las acciones para el desarrollo científico y tecnológico en el Estado, así como estimular la atracción, permanencia y desarrollo de investigadores en la entidad, vinculando sus acciones con los planes y programas estatales;
-
-VII. Proponer la creación de instituciones de investigación científica y de desarrollo tecnológico en el Estado y brindar asesoría respecto a la formulación de planes de estudio para la especialización, la capacitación y la formación de técnicos o técnicas e investigadores o investigadoras que tengan relación con el objeto de esta Ley, cuando se considere necesaria su intervención;
-
-VIII. Fomentar, con instituciones de investigación a nivel nacional e internacional, el intercambio de docentes, investigadores o investigadoras, técnicos o técnicas, así como de información y experiencias sobre programas relacionados con el desarrollo científico y tecnológico;
-
-IX. Fomentar la creación de grupos de trabajo que generen actividades científicas y tecnológicas, y se constituyan en transmisores y promotores de los programas que tengan relación con el objeto de esta Ley;
-
-X. Promover el establecimiento de programas para la divulgación y difusión de las actividades, estudios y publicaciones relacionados con el desarrollo de la ciencia y la tecnología en el Estado;
-
-XI. Asesorar al Ejecutivo del Estado, a los municipios y a las personas físicas o morales que lo soliciten, sobre asuntos relacionados con el desarrollo de la ciencia y la tecnología en la entidad, en el ámbito de su competencia y de conformidad a los convenios que para tal efecto se celebren;
-
-XII. Impulsar estudios y proyectos que permitan identificar las necesidades estatales en materia de ciencia y tecnología, proponiendo las alternativas de solución que correspondan; y
-
-XIII. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+VI. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
 
 ###### Artículo 9.
 
 El Consejo estará integrado de la siguiente manera:
 
-I. Un Presidente, quien fungirá como Director General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-II. Un Secretario Técnico que será nombrado por el Presidente del Consejo; y
+I. Un Presidente Honorario, que será el Gobernador del Estado;
 
-III. Catorce Consejeros, que serán:
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-a) El Secretario de Educación;
+II. Un Presidente que será la persona que designe el Gobernador del Estado;
 
-b) El Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-c) El Titular de la Corporación de Proyectos Estratégicos de Nuevo León; y
+III. Un Secretario que será el Director General; y
 
-d) Once miembros designados por invitación del Titular del Ejecutivo Estatal, que en su conjunto representen a los sectores académico, científico, tecnológico, social, cultural, público y empresarial del Estado de Nuevo León; de los cuales cuatro deberán ser representantes de distintas universidades de la entidad.
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+IV. Un grupo multidisciplinario no menor de cinco y no mayor de quince Consejeros designados por invitación del Titular del Ejecutivo Estatal, que en su conjunto representen a los sectores público, privado, académico y social del Estado de Nuevo León.
 
 Los Consejeros contarán con voz y voto. Las funciones de los integrantes de este Consejo serán las de integrantes de un órgano colegiado, su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 10.
 
-El Consejo deberá sesionar de manera ordinaria cada dos meses, y de manera extraordinaria, las que sean necesarias, cuando lo soliciten el Presidente, la mayoría de sus miembros o el Comisario. Las convocatorias para sesiones ordinarias serán enviadas de manera escrita, vía fax o correo electrónico con cuando menos 72 horas de anticipación a la fecha programada y a la convocatoria se deberá agregar el orden del día y los anexos correspondientes. En el caso de las sesiones extraordinarias, las convocatorias serán enviadas con una anticipación mínima de 24 horas a su celebración.
+El Consejo deberá sesionar de manera ordinaria tres veces al año como mínimo, y de manera extraordinaria, las que sean necesarias, cuando lo soliciten el Presidente, la mayoría de sus miembros o el Comisario. Las convocatorias para sesiones ordinarias serán enviadas de manera escrita, vía fax o correo electrónico con cuando menos setenta y dos horas de anticipación a la fecha programada y a la convocatoria se deberá agregar el orden del día y los anexos correspondientes. En el caso de las sesiones extraordinarias, las convocatorias serán enviadas con una anticipación mínima de veinticuatro horas a su celebración.
 
-Las sesiones del Consejo en primera convocatoria, serán válidas con la asistencia del Presidente, del Secretario Técnico y de al menos la mitad de los consejeros; y en la segunda convocatoria con la asistencia mínima del Presidente, del Secretario Técnico, y de cinco Consejeros; en cuanto a las convocatorias subsecuentes con asistencia mínima del Presidente, del Secretario Técnico y de los Consejeros presentes.
+Las sesiones del Consejo en primera convocatoria, serán válidas con la asistencia del Presidente, del Secretario y de al menos la mitad de los consejeros; y en la segunda convocatoria con la asistencia mínima del Presidente, del Secretario, y de cinco Consejeros; en cuanto a las convocatorias subsecuentes con asistencia mínima del Presidente, del Secretario y de los Consejeros presentes.
 
-Las resoluciones del Consejo se tomarán por mayoría simple de los presentes, y en caso de empate el Presidente tendrá voto de calidad.
+Las resoluciones del Consejo se tomarán por mayoría simple de los presentes, y en caso de empate quien presida tendrá voto de calidad.
 
-De cada sesión del Consejo, el Secretario Técnico levantará el acta correspondiente que firmarán el Presidente, el Secretario Técnico y los consejeros que asistan.
+De cada sesión del Consejo, el Secretario levantará el acta correspondiente que firmarán el Presidente, el Secretario y los consejeros que asistan.
 
-El Presidente podrá invitar a las sesiones del Consejo a los representantes de dependencias u organismos de los gobiernos federal, estatal y municipales, así como de los sectores académico, social y privado, nacionales o extranjeros, relacionados con la materia objeto de esta Ley, cuya presencia sea de interés para los asuntos que se ventilen. Estos invitados tendrán derecho a voz pero no a voto.
+El Presidente podrá invitar a las sesiones del Consejo a representantes de dependencias u organismos de los gobiernos federal, estatal y municipales, así como de los sectores académico, social y privado, nacionales o extranjeros, relacionados con la materia objeto de esta Ley, cuya presencia sea de interés para los asuntos que se ventilen. Estos invitados tendrán derecho a voz pero no a voto.
 
-Los integrantes del Consejo acreditarán por escrito a su respectivo suplente.
+Los Consejeros acreditarán por escrito a su respectivo suplente.
 
 ###### Artículo 11.
 
 El Presidente del Consejo tendrá las siguientes facultades:
 
-I. Convocar a las sesiones del Consejo a través del Secretario Técnico;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-II. Presidir las sesiones del Consejo y hacer cumplir sus acuerdos;
+I. Convocar a las sesiones del Consejo a través del Secretario;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+II. Presidir las sesiones del Consejo en ausencia del Gobernador del Estado y hacer cumplir sus acuerdos;
 
 III. Representar y ejecutar los acuerdos del Consejo; y
 
-IV. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+IV. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 12.
 
-El Secretario Técnico del Consejo tendrá las facultades siguientes:
+El Secretario del Consejo tendrá las facultades siguientes:
 
 I. Convocar a las reuniones ordinarias y extraordinarias que procedan;
 
@@ -213,29 +245,41 @@ IV. Someter a consideración del Consejo el orden del día que se deberá desaho
 
 V. Elaborar la lista de asistencia de cada sesión y verificar el quórum de la misma; y
 
-VI. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+VI. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
 
 #### SECCIÓN TERCERA. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 13.
 
-El órgano supremo de gobierno del COCyTE NL estará a cargo de una Junta de Gobierno, que será la autoridad máxima del mismo y tendrá las siguientes facultades:
+El órgano supremo de gobierno del IITT estará a cargo de una Junta de Gobierno, que será la autoridad máxima del mismo y tendrá las siguientes facultades:
 
 I. Aprobar los planes, los presupuestos de ingresos y egresos, y los programas de trabajo, inversión y financiamiento;
 
-II. Conocer del balance y demás estados financieros del COCyTE NL, así como los informes generales y especiales, del ejercicio anterior;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+II. Conocer del balance y demás estados financieros del IITT, así como los informes generales y especiales, del ejercicio anterior;
 
 III. Aprobar el informe anual de actividades presentado por el Director General;
 
-IV. Aprobar las propuestas que presente el Director General, sobre la enajenación y garantía de los bienes inmuebles que integran el patrimonio del COCyTE NL, con sujeción a las leyes y disposiciones de la materia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+IV. Aprobar las propuestas que presente el Director General, sobre la enajenación y garantía de los bienes inmuebles que integran el patrimonio del IITT, con sujeción a las leyes y disposiciones de la materia;
 
 V. Otorgar, sustituir y revocar toda clase de poderes generales o especiales para actos de dominio, administración, laboral, pleitos y cobranzas y cambiario para suscribir, endosar y negociar títulos de crédito; con todas las facultades generales o especiales que requieran cláusula especial en los términos de la legislación aplicable;
 
-VI. Aprobar el Reglamento Interior y la estructura administrativa del COCyTE NL que debe presentar el Director General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-VII. Aprobar el manual de procedimientos y servicios del COCyTE NL; y
+VI. Aprobar el Reglamento Interior y la estructura administrativa del IITT que debe presentar el Director General;
 
-VIII. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+VII. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT; y
+
+VIII. (DEROGADA, P.O. 22 DE JUNIO DE 2005)
 
 ###### Artículo 14.
 
@@ -245,21 +289,29 @@ I. Un Presidente que será el Gobernador del Estado o la persona que éste desig
 
 II. Un Secretario, que será el Director General, con voz pero sin voto; y
 
-III. Cuatro Vocales que serán los titulares de cada una de las siguientes dependencias públicas:
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-a) Secretaría General de Gobierno;
+III. Seis Vocales que serán los titulares de cada una de las siguientes instancias públicas:
 
-b) Secretaría de Finanzas y Tesorería General de Estado;
+a) Secretaría de Finanzas y Tesorería General de Estado;
 
-c) Secretaría de Desarrollo Económico, y
+b) Secretaría de Desarrollo Económico;
 
-d) Secretaría de Educación.
+c) Secretaría de Educación;
+
+d) Oficina Ejecutiva de la Gubernatura;
+
+e) Coordinación de Ciencia y Tecnología de Nuevo León; y
+
+f) Consejo de Relaciones Laborales y Productividad.
 
 Los integrantes de la Junta de Gobierno acreditarán en forma oficial y por escrito a sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 15.
 
-La Junta de Gobierno deberá sesionar de manera ordinaria cada cuatro meses, y de forma extraordinaria las veces que sean necesarias, cuando así lo solicite el Presidente, el Secretario o el Comisario. Las convocatorias para sesiones ordinarias serán enviadas de manera escrita, vía fax o correo electrónico con cuando menos 72 horas de anticipación a la fecha programada y a la convocatoria se deberá agregar el orden del día y los anexos correspondientes. En el caso de las sesiones extraordinarias, las convocatorias serán enviadas con una anticipación mínima de 24 horas a su celebración.
+La Junta de Gobierno deberá sesionar de manera ordinaria cada seis meses, y de forma extraordinaria las veces que sean necesarias, cuando así lo solicite el Presidente o el Secretario. Las convocatorias para sesiones ordinarias serán enviadas de manera escrita, vía fax o correo electrónico con cuando menos setenta y dos horas de anticipación a la fecha programada y a la convocatoria se deberá agregar el orden del día y los anexos correspondientes. En el caso de las sesiones extraordinarias, las que deberán cumplir con las mismas determinaciones previstas para las convocatorias de las sesiones ordinarias, serán enviadas con una anticipación mínima de veinticuatro horas a su celebración.
 
 Las sesiones de la Junta de Gobierno, en primera convocatoria, serán válidas con la asistencia del Presidente o su representante, del Secretario y de al menos la mitad de los vocales; y en la segunda y subsecuentes convocatorias con la asistencia del Presidente o su representante, del Secretario y por lo menos un vocal.
 
@@ -277,7 +329,9 @@ I. Convocar a las sesiones de la Junta de Gobierno a través del Secretario;
 
 II. Presidir las sesiones de la Junta de Gobierno y hacer cumplir sus acuerdos; y
 
-III. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+III. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
 
 ###### Artículo 17.
 
@@ -293,67 +347,101 @@ IV. Someter a consideración de la Junta de Gobierno el orden del día que se de
 
 V. Elaborar la lista de asistencia de cada sesión y verificar el quórum de la misma; y
 
-VI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+VI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
 
 #### SECCIÓN CUARTA. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 18.
 
-El Gobernador del Estado designará y removerá libremente al titular del COCyTE NL, bajo el cargo de Director General.
+El Gobernador del Estado designará y removerá libremente al Director General, quien será titular del IITT.
 
 ###### Artículo 19.
 
 El Director General tendrá las siguientes atribuciones:
 
-I. Planear, organizar, dirigir y administrar el funcionamiento del COCyTE NL;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-II. Ejecutar los acuerdos de la Junta de Gobierno y del Consejo;
+I. Planear, organizar, dirigir y administrar el funcionamiento del IITT;
 
-III. Representar al COCyTE NL ante cualquier autoridad federal, estatal o municipal, o personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, y para pleitos y cobranzas, así como las generales y especiales que requieran cláusula especial conforme a la Ley, igualmente ante toda clase de autoridades civiles, laborales, penales y en materia de amparo, incluyendo la facultad para iniciar o desistirse de acciones legales; poder cambiario para suscribir, endosar y negociar títulos de crédito; de igual forma para delegar, sustituir, otorgar y revocar poderes para pleitos y cobranzas, actos de administración en materia laboral individual y colectiva, civil y penal, sin que por ello se consideren substituidas o restringidas las facultades que se le otorgan. Los poderes para actos de dominio para bienes inmuebles le serán otorgados por la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-IV. Celebrar los convenios, contratos y demás actos jurídicos que se requieran para el cumplimiento del objeto de esta Ley, respetando los criterios de la Junta de Gobierno, y el marco jurídico de la Administración Pública;
+II. Ejecutar y dar seguimiento los acuerdos de la Junta de Gobierno y del Consejo;
 
-V. Promover y coordinar la participación de las dependencias y entidades del sector público federal, estatal y municipal; la comunidad científica y académica de las instituciones de educación; los centros de investigación; los sectores social y privado y demás organismos nacionales o internacionales, en los programas y proyectos para el fortalecimiento de la investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-VI. Elaborar y presentar para aprobación del Consejo, el proyecto de Programa Estatal de Ciencia y Tecnología;
+III. Representar al IITT ante cualquier autoridad federal, estatal o municipal, o personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, y para pleitos y cobranzas, así como las generales y especiales que requieran cláusula especial conforme a la Ley, igualmente ante toda clase de autoridades civiles, laborales, penales y en materia de amparo, incluyendo la facultad para iniciar o desistirse de acciones legales; poder cambiario para suscribir, endosar y negociar títulos de crédito; de igual forma para delegar, sustituir, otorgar y revocar poderes para pleitos y cobranzas, actos de administración en materia laboral individual y colectiva, civil y penal, sin que por ello se consideren substituidas o restringidas las facultades que se le otorgan. Los poderes para actos de dominio respecto de bienes inmuebles le serán otorgados por la Junta de Gobierno;
 
-VII. Fomentar programas de intercambio científico y tecnológico con instituciones de investigación a nivel nacional e internacional;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-VIII. Mantener un inventario estatal actualizado de recursos humanos, materiales y financieros destinados a la investigación científica y al desarrollo experimental en Nuevo León;
+IV. Celebrar los convenios, contratos y demás actos jurídicos que se requieran para el cumplimiento del objeto de esta Ley, respetando los criterios de la Junta de Gobierno, y el marco jurídico de la Administración Pública Estatal;
 
-IX. Administrar los recursos humanos, materiales y financieros del COCyTE NL, de los que será responsable directo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-X. Promover, gestionar y aplicar recursos y financiamientos para consolidar los programas obras y acciones que le estén encomendadas al COCyTE NL de acuerdo con el objeto de esta Ley;
+V. Promover acciones de coordinación y colaboración con las dependencias y entidades del sector público federal, estatal y municipal; los centros de investigación; los sectores productivos y académicos y demás organismos nacionales o internacionales, para el fomento de los programas y proyectos orientados al establecimiento de empresas de innovación en áreas estratégicas del conocimiento;
 
-XI. Proponer a la Junta de Gobierno, para su aprobación, el Reglamento Interior y la estructura administrativa del COCyTE NL, que debe presentar el Director General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XII. Elaborar y someter a conocimiento y aprobación de la Junta de Gobierno, los planes, los presupuestos de ingresos y egresos, los programas de trabajo, inversión y financiamiento del COCyTE NL;
+VI. Elaborar y presentar para aprobación de la Junta de Gobierno los planes, los anteproyectos de presupuesto de ingresos y egresos, programas de trabajo, inversión y financiamiento;
 
-XIII. Elaborar y someter a conocimiento y aprobación de la Junta de Gobierno el Manual de Procedimientos y Servicios del COCyTE NL;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XIV. Presentar los balances y estados contables ante la Junta de Gobierno;
+VII. Administrar los recursos humanos, materiales y financieros del IITT, de los que será responsable directo;
 
-XV. Fungir como Secretario en las sesiones de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XVI. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de recursos humanos del organismo, otorgar y revocar los nombramientos correspondientes a los servidores públicos del COCyTE NL;
+VIII. Promover, gestionar y aplicar recursos y financiamientos para consolidar los programas y acciones que le estén encomendadas al IITT de acuerdo con el objeto de esta Ley;
 
-XVII. Constituir o participar en fideicomisos, asociaciones y sociedades que se requieran para cumplir con el objeto de esta Ley, de conformidad con los lineamientos que establezca la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XVIII. Realizar todo tipo de gestiones y actos necesarios para el cumplimiento del objeto de esta Ley; y
+IX. Proponer a la Junta de Gobierno, para su aprobación, el Reglamento Interior y la estructura administrativa del IITT;
 
-XIX. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+X. Aprobar los manuales de organización, de procedimientos y de servicios del IITT;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XI. Presentar los estados financieros y contables ante la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XII. Fungir como Secretario en las sesiones del Consejo y de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XIII. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de recursos humanos del organismo, otorgar y revocar los nombramientos correspondientes a los servidores públicos del IITT;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XIV. Constituir o participar en fideicomisos, asociaciones y sociedades que se requieran para cumplir con el objeto de esta Ley, de conformidad con los lineamientos y acuerdos que establezca la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XV. Realizar todo tipo de actos y gestiones necesarios para el cumplimiento del objeto de esta Ley; y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XVI. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
 
 #### SECCIÓN QUINTA. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
+
 ###### Artículo 20.
 
-Para llevar a cabo las labores de vigilancia de la operación del COCyTE NL, habrá un Comisario designado y removido por el Ejecutivo Estatal a propuesta de la Contraloría Interna en los términos de la legislación aplicable.
+Para llevar a cabo las labores de vigilancia de la operación del IITT, habrá un Comisario designado y removido por el Ejecutivo Estatal a propuesta de la Contraloría Interna en los términos de la legislación aplicable.
 
 ###### Artículo 21.
 
 El Comisario tendrá las siguientes facultades:
 
-I. Vigilar que los gastos, cuentas y administración de los recursos del COCyTE NL se encaminen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a lo que disponen esta Ley, los planes y presupuestos aprobados, y las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+I. Vigilar que los gastos, cuentas y administración de los recursos del IITT se encaminen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a lo que disponen esta Ley, los planes y presupuestos aprobados, y las disposiciones aplicables;
 
 II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende el órgano de vigilancia de la administración pública estatal;
 
@@ -363,67 +451,69 @@ IV. Recomendar a la Junta de Gobierno y al Director General, las medidas prevent
 
 V. Asistir a las sesiones de la Junta de Gobierno, sólo con derecho a voz y sin voto; y
 
-VI. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del COCyTE NL.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+VI. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del IITT.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 22.
 
-Las facultades del Comisario se señalan sin perjuicio de las que le otorguen otras disposiciones legales, ni de aquellas que le correspondan a otras dependencias de la administración pública estatal conforme a las leyes en vigor.
+Las facultades del Comisario se señalan sin perjuicio de las que le otorguen otras disposiciones legales, ni de aquellas que le correspondan a otras dependencias de la administración pública estatal conforme a las leyes vigentes.
 
-#### SECCIÓN SEXTA. DEL PATRIMONIO DEL COCyTE NL
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2005)</small>
 
-### CAPÍTULO IV. DEL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGÍA
+### CAPITULO IV. DEL PATRIMONIO Y DE LAS RELACIONES LABORALES DEL IITT
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 23.
 
-El patrimonio del COCyTE NL se integrará con:
+El patrimonio del IITT se integrará con:
 
-I. Los recursos estatales previstos en las disposiciones presupuestales correspondientes, que recibirá para su aplicación en los programas, obras y acciones que le están encomendadas al COCyTE NL de acuerdo el objeto de esta Ley;
+I. Los recursos estatales previstos en las disposiciones presupuestales correspondientes, que recibirá para su aplicación en los programas, obras y acciones que le están encomendadas al IITT de acuerdo el (sic) objeto de esta Ley;
 
-II. Los bienes muebles, inmuebles y derechos que por cualquier título adquiera, o los que en el futuro aporten o afecten la Federación, el Estado, los municipios, otras instituciones públicas o privadas y personas físicas;
+II. Los bienes inmuebles, muebles y derechos que por cualquier título adquiera, o los que en el futuro aporten o afecten la Federación, el Estado, los municipios, otras instituciones públicas o privadas y personas físicas o morales;
 
-III. Las transferencias, aportaciones en dinero, bienes, subsidios, estímulos y prestaciones que reciba de los gobiernos federal, estatal y municipales, y los que obtenga de personas físicas o morales, y las demás instituciones públicas o privadas, nacionales o extranjeras;
+III. Las transferencias, aportaciones en dinero, bienes, subsidios, estímulos y prestaciones que reciba de los gobiernos federal, estatal y municipales, y los que obtenga de personas físicas o morales, y las demás instituciones y organismos públicos o privados, nacionales o extranjeros;
 
-IV. Los recursos que obtenga de las actividades materia de su objeto;
+IV. Los recursos que obtenga de las actividades materia de su objeto general;
 
-V. Los rendimientos, frutos, productos, y en general, los aprovechamientos que obtenga con las operaciones que realice o que le corresponda por cualquier título legal;
+V. Los rendimientos, frutos, productos, y en general, los aprovechamientos que obtenga de las operaciones que realice o que le corresponda por cualquier título legal;
 
-VI. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
+VI. Los créditos que obtenga, así como los bienes y derechos que adquiera legalmente;
 
-VII. Los créditos que obtenga, así como los bienes y derechos que adquiera legalmente; y
+VII. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales; y
 
-VIII. Cualquier otra percepción de la cual el COCyTE NL resulte beneficiario.
+VIII. Cualquier otra percepción de la cual el IITT resulte beneficiario.
 
-#### SECCIÓN SÉPTIMA. DE LAS REGLAS DE GESTIÓN Y DE LAS RELACIONES LABORALES DEL COCyTE NL
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 24.
 
-El COCyTE NL queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal, de conformidad a lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León.
+El IITT queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal, de conformidad a lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
 ###### Artículo 25.
 
-Con excepción del cargo honorario de los integrantes del Consejo de Participación Ciudadana, las relaciones laborales del COCyTE NL con el personal que tenga el carácter de servidor público a su cargo se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+Con excepción del cargo honorario de los integrantes del Consejo, las relaciones laborales del IITT con el personal que tenga el carácter de servidor público a su cargo se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables. Los prestadores de servicios que no sean considerados servidores públicos se regirán por las normas del derecho común que les resulten aplicables.
 
 ###### Artículo 26.
 
-Para la elaboración y Ejecución del programa se integrarán:
-
-I. El Sistema Estatal de Información Científica y Tecnológica; y
-
-II. Los elementos que sirvan de base para el Programa Estatal de Ciencia y Tecnología.
+(DEROGADO, P.O. 22 DE JUNIO DE 2005)
 
 ###### Artículo 27.
 
-En los términos que proponga el Consejo, el Director General integrará y administrará un Sistema Estatal de Información Científica y Tecnológica de carácter permanente, que contenga la información de interés general relacionada con las actividades de investigación científica y tecnológica en el Estado.
-
-El Reglamento determinará los aspectos que deberá contener dicho sistema y regulará su actualización permanente.
+(DEROGADO, P.O. 22 DE JUNIO DE 2005)
 
 ###### Artículo 28.
 
-Con base en el proyecto que apruebe el Consejo, el Titular del Ejecutivo Estatal expedirá el Programa Estatal de Ciencia y Tecnología que contenga las políticas y acciones de la Administración Pública Estatal.
+(DEROGADO, P.O. 22 DE JUNIO DE 2005)
 
 ###### Artículo 29.
 
-El COCyTE NL, a través del Director General, integrará un Sistema Estatal de Investigadores que promueva la actividad científica y tecnológica en el Estado, propicie la formación de nuevos investigadores que coadyuven al desarrollo de la entidad y les facilite la realización de las investigaciones científicas y tecnológicas.
+(DEROGADO, P.O. 22 DE JUNIO DE 2005)
 
 ## TRANSITORIOS
 
@@ -460,3 +550,17 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 LA C. SECRETARIA DE EDUCACIÓN DEL ESTADO
 
 MARÍA YOLANDA BLANCO GARCÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Junta de Gobierno del Instituto de Innovación y Transferencia de Tecnología de Nuevo León deberá quedar instalada en un plazo que no exceda de los treinta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- El Consejo Consultivo de Ciudadano (sic) del Instituto de Innovación y Transferencia de Tecnología de Nuevo León deberá quedar constituido en un plazo no mayor de treinta días hábiles, contados a partir de la fecha de instalación de la Junta de Gobierno del Instituto de Innovación y Transferencia de Tecnología de Nuevo León.
+
+Artículo Cuarto.- En un plazo no mayor de noventa días contados a partir de la fecha de instalación de la Junta de Gobierno del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, ésta deberá aprobar, a propuesta del Director General del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, el Reglamento Interior para el Instituto de Innovación y Transferencia de Tecnología de Nuevo León.
+
+Artículo Quinto.- Los recursos humanos, materiales y financieros con los que actualmente cuenta el Consejo de Ciencia y Tecnología del Estado de Nuevo León, a partir de la entrada en vigor del presente Decreto, se aplicarán tanto al objeto del Instituto de Innovación y Transferencia de Tecnología de Nuevo León como a la Unidad de Coordinación de Ciencia y Tecnología del Estado de Nuevo León.
