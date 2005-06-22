@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-operadora-municipal-de-estacionamientos-de-juarez-309
 country: "mx"
 rank: "ley"
 publication_date: "1990-06-20"
-last_updated: "2003-04-30"
+last_updated: "2005-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA OPERADORA MUNICIPAL DE ESTACIONAMIENTOS DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 20 de junio de 1990.
 
@@ -114,6 +114,10 @@ La Administración de la Operadora Municipal de Estacionamientos de Juárez, est
 8.- Un Vocal Tesorero, designado libremente por el Presidente Municipal.
 
 9.- Un Director, designado también por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2005)</small>
+
+Pudiendo designar, los titulares del mismo, a un representante con las mismas atribuciones en las reuniones del Consejo.
 
 De los anteriores Miembros del Consejo Directivo, el Representante del Consejo de Planeación, el Secretario, el Vocal Tesorero y el Director, durarán en su cargo todo el tiempo que determine el Presidente Municipal, pudiendo también ser ratificados. Sin embargo, en todo momento, serán removibles por quienes les hayan designado.
 
@@ -246,3 +250,7 @@ P.O. 30 DE ABRIL DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
