@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2000-04-01"
+last_updated: "2005-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2000.
+> <small>N. DE E. CONFORME A LO SEÑALADO POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO, PUBLICADA EN EL PERIODICO OFICIAL EL 22 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -581,7 +583,7 @@ V. Los sujetos obligados al pago del impuesto con responsabilidad directa o soli
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. DE LAS EXENCIONES
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -599,9 +601,9 @@ IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les
 
 V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+#### SECCION CUARTA. DE LAS EXENCIONES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -613,7 +615,7 @@ No obstante lo anterior, estas instituciones deberán cumplir con la obligación
 
 En ningún caso, se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ### CAPITULO SEXTO. DEL IMPUESTO POR LA PRESTACION DE SERVICIO DE HOSPEDAJE
 
@@ -1502,3 +1504,17 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Se autoriza al Titular del Poder Ejecutivo del Estado de Tabasco para que a través de las dependencias con atribuciones legales, se coordinen en la debida cumplimentación de las prevenciones materia de este Decreto.
+
+P.O. 22 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día uno del mes de enero del dos mil seis.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga en todas y cada una de sus partes la Ley de Hacienda del Estado de Tabasco, publicada en el Suplemento al Periódico Oficial número 5249, de fecha 30 de diciembre de 1992, así como las reformas a la misma, publicadas en los Periódicos Oficiales números 5480, 5563, 5667 y 6007 de fecha 15 de marzo y 30 de diciembre de 1995, 28 de diciembre de 1996, y 1 de abril de 2000 respectivamente. También se derogan las reformas contenidas en los siguientes suplementos: al Periódico Oficial número 5705, de fecha 10 de mayo de 1997; suplemento C, al Periódico Oficial número 5772, de fecha 31 de diciembre de 1997; suplemento B, al Periódico Oficial número 5876, de fecha 3 de diciembre de 1998, demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Igualmente, queda sin efecto cualquier disposición que contravenga a lo estipulado en los Convenios de Adhesión y Colaboración Administrativa en Materia Fiscal, celebrados entre el Gobierno del Estado de Tabasco y la Secretaría de Hacienda y Crédito Público.
