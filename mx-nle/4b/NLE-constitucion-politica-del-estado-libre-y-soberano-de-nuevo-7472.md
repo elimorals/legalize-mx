@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2004-07-14"
+last_updated: "2005-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -39,11 +39,9 @@ De los Derechos del Hombre.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
-## TITULO II
+## TITULO II.
 
-Del Estado en General, Forma de Gobierno,
-
-Nuevoleoneses y Ciudadanos
+Del Estado en General, Forma de Gobierno, Nuevoleoneses y Ciudadanos.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1987)</small>
 
@@ -185,7 +183,9 @@ Corresponde exclusivamente a la Legislatura del Estado rehabilitar en sus derech
 
 El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey, (Capital del Estado), Abasolo, Agualeguas, Apodaca, Arramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos, de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería Chica, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás Hidalgo, San Nicolás de los Garzas, Santa Catarina, Santiago, Vallecillo, Villaldama y las Congregaciones de Colombia y Melchor Ocampo, con las demás Municipalidades que se formen en lo sucesivo.
 
-## TITULO III.. Del Proceso Electoral
+## TITULO III.
+
+Del Proceso Electoral.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -883,9 +883,9 @@ XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
 XX.- Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Presidente de la Comisión Estatal de Derechos Humanos, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de ésta Constitución.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XXI.- Presentar a la Legislatura, a más tardar en la primera quincena del mes de diciembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo
+XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo.
 
 XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
@@ -1007,7 +1007,9 @@ Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tamp
 
 El cargo de Gobernador sólo es renunciable por causa grave que calificará el Congreso.
 
-## TITULO VI.. Del Poder Judicial
+## TITULO VI.
+
+Del Poder Judicial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -1299,9 +1301,9 @@ Art.- 104.- Los Jueces Menores serán Licenciados en Derecho, tendrán las facul
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
-## TITULO VII.. De las Responsabilidades
+## TITULO VII.
 
-de los Servidores Públicos
+De las Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1449,7 +1451,9 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley señalará los casos de prescripción de responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones que hace referencia la fracción III del Artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-## TITULO VIII.. De los Municipios
+## TITULO VIII.
+
+De los Municipios.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -2797,7 +2801,7 @@ Artículo Tercero.- Los Municipios y la Legislatura Local se coordinarán para q
 
 Artículo Cuarto.- Los derechos adquiridos por particulares, servidores públicos del Estado y de los Municipios de éste, con anterioridad a la entrada en vigor de este Decreto, serán respetados.
 
-Artículo Quinto.- En tanto se crean o modifican las leyes municipales correspondientes y se establecen los órganos a que se refiere el Artículo 130 de esta Constitución, se continuarán aplicando las leyes existentes. así mismo, los procedimientos y procesos iniciados con anterioridad, a la fecha de entrada en vigor de este Decreto, se seguirán tramitando conforme a lo dispuesto por las leyes con que se iniciaron.
+Artículo Quinto.- En tanto se crean o modifican las leyes municipales correspondientes y se establecen los órganos a que se refiere el Artículo 130 de esta Constitución, se continuarán aplicando las leyes existentes. Así mismo, los procedimientos y procesos iniciados con anterioridad, a la fecha de entrada en vigor de este Decreto, se seguirán tramitando conforme a lo dispuesto por las leyes con que se iniciaron.
 
 Artículo Sexto.- Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor del mismo, sean prestados por el Estado, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
 
@@ -2833,7 +2837,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 14 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 242, QUE REFORMA LOS RATICULOS 16 Y 19.
+DECRETO NUMERO 242, QUE REFORMA LOS ARTICULOS 16 Y 19.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2845,7 +2849,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 
 P.O. 21 DE FEBRERO DE 2003.
 
-DECRETO NUMERO 330, QUE REFORMA LOS ARTICULOS15, 107 Y 131.
+DECRETO NUMERO 330, QUE REFORMA LOS ARTICULOS 15, 107 Y 131.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -2932,5 +2936,11 @@ P.O. 21 DE JUNIO DE 2004.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE JULIO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2005.
+
+DECRETO NUMERO 244, QUE REFORMA EL ARTICULO 85.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
