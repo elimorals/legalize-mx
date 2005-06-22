@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2004-11-05"
+last_updated: "2005-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -109,6 +109,10 @@ VI. Instituto Nacional de Pediatría, para los padecimientos de la población in
 VII. Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, para la salud reproductiva y perinatal;
 
 VIII. Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, para la psiquiatría y la salud mental;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2005)</small>
+
+VIII Bis. Instituto Nacional de Rehabilitación;
 
 IX. Instituto Nacional de Salud Pública, para la investigación y enseñanza en salud pública;
 
@@ -627,3 +631,13 @@ TERCERO.- Una vez constituida la Junta de Gobierno del Instituto Nacional de Med
 D.O.F. 5 DE NOVIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2005.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. La creación del Organismo Público Descentralizado de la Administración Pública Federal, Instituto Nacional de Rehabilitación, deberá sujetarse a los recursos humanos, financieros y materiales con los que cuenta actualmente el Órgano Desconcentrado Centro Nacional de Rehabilitación.
+
+Artículo Tercero. Las relaciones entre el Instituto Nacional de Rehabilitación y sus trabajadores, se sujetarán a lo dispuesto en el apartado B) del artículo 123 Constitucional.
+
+Artículo Cuarto. Una vez constituida la Junta de Gobierno del Instituto Nacional de Rehabilitación, expedirá su Estatuto Orgánico en un plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto.
