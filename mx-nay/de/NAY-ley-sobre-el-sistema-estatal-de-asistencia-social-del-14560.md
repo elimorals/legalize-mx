@@ -4,7 +4,7 @@ identifier: "NAY-ley-sobre-el-sistema-estatal-de-asistencia-social-del-14560"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-01"
-last_updated: "1986-11-01"
+last_updated: "2005-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2005.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 1 de noviembre de 1986.
 
@@ -79,9 +79,17 @@ IX.- Víctimas de la comisión de delitos en estado de abandono;
 
 X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
 
-XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia, y
+XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia, y (sic)
 
-XII.- Personas afectadas por desastres.
+XII.- Personas afectadas por desastres;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XIII.- Víctimas de la violencia intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2005)</small>
+
+XIV.- Todas aquéllas personas que se encuentren en las condiciones y circunstancias similares a las descritas en las fracciones anteriores.
 
 ###### ARTICULO 5o.
 
@@ -516,3 +524,9 @@ EMILIO M. GONZALEZ.- Rúbrica.
 El Secretario General de Gobierno
 
 LIC. RAFAEL PEREZ CARDENAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 2005.
+
+UNICO.- El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
