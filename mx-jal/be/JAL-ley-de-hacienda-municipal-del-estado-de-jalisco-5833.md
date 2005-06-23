@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2004-08-26"
+last_updated: "2005-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1286,6 +1286,10 @@ II. Los Estados extranjeros por la adquisición de inmuebles, en caso de recipro
 III. La persona a quien por rescisión o cualquier otra ineficacia del contrato que conste en resolución judicial ejecutoriada, le hubieren sido devueltos los bienes o derechos que transmitió; y
 
 IV. Cuando por cualquier causa regresen los bienes o derechos al enajenante dentro de los 60 días naturales de la fecha en que se celebró el contrato de transmisión.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2005)</small>
+
+V.- Los trabajadores que encontrándose en huelga, acepten destinar sus salarios caídos o créditos laborales para la adquisición de partes sociales o activos de la empresa en la que laboran, o de nuevas empresas que reanudarán la producción de sus plantas para la fabricación de los mismos o similares bienes; así como a las empresas que dichos trabajadores constituyan, y a las personas morales donde las empresas de los trabajadores participen como socios o las empresas que adquieran bienes para participar con los trabajadores en conjunto a fin de reactivar las plantas industriales que estén en huelga.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -3406,3 +3410,7 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE JUNIO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y tendrá efectos a partir del 11 de enero de 2005.
