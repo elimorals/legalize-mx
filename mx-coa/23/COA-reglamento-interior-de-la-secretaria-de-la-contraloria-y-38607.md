@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-la-contraloria-y-38607"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-16"
-last_updated: "2004-03-16"
+last_updated: "2005-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 16 de marzo de 2004.
 
@@ -69,7 +69,9 @@ IV) Direcciones adscritas a las unidades administrativas de la Secretaría:
 
 1. A la Subsecretaría de Auditoría Gubernamental:
 
-a. Unidad de Control y Seguimiento.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+a. Dirección de Control y Seguimiento y Entrega - Recepción de Auditoría Gubernamental.
 
 b. Dirección de Auditoría y Control de los Despachos Externos.
 
@@ -81,7 +83,9 @@ e. Dirección de Auditoría a Órganos Internos de Control.
 
 2. A la Subsecretaría de Auditoría de Obra Pública y Programas Sociales:
 
-a. Unidad de Control y Seguimiento.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+a. Dirección de Control y Seguimiento y Entrega - Recepción de Obra Pública.
 
 b. Dirección de Fiscalización.
 
@@ -102,6 +106,20 @@ a. Dirección de Calidad.
 b. Dirección de Políticas de Informática.
 
 c. Dirección de Control y Seguimiento de Proyectos de Modernización.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+4. A la Coordinación General de Asuntos Jurídicos:
+
+a. Dirección de Control Patrimonial y Transparencia.
+
+b. Dirección de Responsabilidades.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+5. A la Coordinación General Administrativa:
+
+a. Dirección de Control Presupuestal.
 
 Los manuales de organización precisarán la estructura orgánica y las funciones de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -475,25 +493,37 @@ XIV. Las demás que les confieran las disposiciones legales aplicables, el Secre
 
 #### SECCIÓN I. LAS UNIDADES ADSCRITAS A LA SUBSECRETARÍA DE AUDITORÍA GUBERNAMENTAL
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 16.
 
-Corresponde al Titular de la Unidad de Control y Seguimiento:
+Corresponde al Titular de la Dirección de Control y Seguimiento y Entrega - Recepción de Auditoría Gubernamental:
 
-I. Recabar de las Direcciones y Unidades adscritas a la Subsecretaría los informes de resultados de las funciones de auditoría que les correspondan.
+I. Participar, en los términos de la ley de la materia, en el proceso de Entrega-Recepción correspondiente al área gubernamental, así como intervenir en los actos de entrega - recepción de las dependencias, entidades o unidades administrativas de la Administración Pública Estatal.
 
-II. Trabajar en forma coordinada con las Direcciones y Unidades adscritas a la Subsecretaría en los asuntos de su competencia para el mejor desempeño.
+II. Apoyar y asesorar a las dependencias, entidades y unidades administrativas de la Administración Pública Estatal, cuando así lo requieran, en actividades relacionadas al área gubernamental con relación a los procesos de Entrega - Recepción.
 
-III. Integrar los indicadores para las evaluaciones de las actividades de las Direcciones y Unidades adscritas a la Subsecretaría, manteniendo un adecuado registro de los mismos y, en su caso, sugerir las adecuaciones necesarias.
+III. Recibir la correspondencia oficial remitida a la Subsecretaría y previo acuerdo con el Subsecretario, turnarla a quien corresponda, para su despacho y dar seguimiento a su atención y archivo.
 
-IV. Integrar y mantener el archivo de los informes de actividades realizadas por las Direcciones y Unidades adscritas a la Subsecretaría, así como los que indique el Subsecretario.
+IV. Vigilar y dar seguimiento de los asuntos que sean turnados por el Titular de la Subsecretaría a las Direcciones y Unidades adscritas a la misma.
 
-V. Dar seguimiento y mantener actualizada la información relativa a la solventación de observaciones detectadas en las auditorías y elaborar los informes correspondientes.
+V. Participar como enlace de la Subsecretaria para efectos de la Ley de Acceso a la Información Pública.
 
-VI. Controlar el sistema de archivo documental y de información en los dispositivos magnéticos que determine la Subsecretaría.
+VI. Recabar el Programa Anual de Control y Auditoría correspondiente a las Direcciones adscritas a la Subsecretaría e integrarlo para su autorización y aprobación, así como dar seguimiento al mismo.
 
-VII. Vigilar y controlar el seguimiento de los asuntos que sean turnados por el Titular de la Subsecretaría a las Direcciones y Unidades adscritas a la misma.
+VII. Recabar de las Direcciones y Unidades adscritas a la Subsecretaría los informes de resultados de las funciones de auditoría que les correspondan.
 
-VIII. Las demás que le confieran las disposiciones legales aplicables y el Subsecretario dentro de la esfera de su competencia.
+VIII. Dar seguimiento a los asuntos que, como resultado de las auditarías, se hayan turnado al área correspondiente de la Coordinación de Asuntos Jurídicos.
+
+IX. Integrar los indicadores para las evaluaciones de las actividades de las Direcciones y Unidades adscritas a la Subsecretaría, manteniendo un adecuado registro de los mismos y, en su caso, sugerir las adecuaciones necesarias.
+
+X. Dar seguimiento y mantener actualizada la información relativa a la solventación de observaciones detectadas en las auditorías y elaborar les informes correspondientes.
+
+XI. Trabajar de manera coordinada con las Direcciones y Unidades adscritas a la Subsecretaría los asuntos de su competencia para su mejor desempeño.
+
+XII. Asesorar y brindar apoyo a las Direcciones y Unidades adscritas a la Subsecretaría en materia jurídica, de sistemas informáticos y de procedimiento, de control interno de la misma.
+
+XIII. Las demás que le confieran las disposiciones legales aplicables y el Subsecretario dentro de la esfera de su competencia.
 
 ###### ARTÍCULO 17.
 
@@ -635,37 +665,51 @@ XX. Las demás que le confieran las disposiciones legales aplicables, el Secreta
 
 #### SECCIÓN II. LAS UNIDADES ADSCRITAS A LA SUBSECRETARÍA DE AUDITORÍA DE OBRA PÚBLICA Y PROGRAMAS SOCIALES
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
 ###### ARTÍCULO 21.
 
-Corresponde al Titular de la Unidad de Control y Seguimiento:
+Corresponde al Titular de la Dirección de Control y Seguimiento y Entrega - Recepción de Obra Pública:
 
-I. Recabar de las Direcciones y Unidades adscritas a la Subsecretaría los informes de resultados de las funciones de investigación, inspección, auditoría, evaluación, verificación, fiscalización, supervisión o revisión que le correspondan.
+I. Elaborar, para efectos de planeación, el programa de auditoría a realizar por las Direcciones de Fiscalización, Verificación y Supervisión.
 
-II. Trabajar en forma coordinada con las Direcciones y Unidades adscritas a la Subsecretaría en los asuntos de su competencia para el mejor desempeño.
+II. Recabar de las Direcciones y Unidades adscritas a la Subsecretaría, por medio de los sistemas informáticos existentes, los informes de resultados de las funciones de investigación, inspección, auditoria, evaluación, verificación, fiscalización, supervisión o revisión que les correspondan.
 
-III. Asesorar y brindar apoyo a las Direcciones y Unidades en materia de sistemas informáticos y procedimientos administrativos internos de la Subsecretaría.
+III. Trabajar en forma coordinada con las Direcciones y Unidades adscritas a la
 
-IV. Establecer y mantener actualizado el sistema informático de la subsecretaría y proponer las adecuaciones para su mejora.
+Subsecretaría en los asuntos de su competencia para su mejor desempeño.
 
-V. Realizar evaluaciones de las actividades de las Direcciones y Unidades adscritas a la Subsecretaría, mantener un adecuado registro de las mismas y sugerir las adecuaciones necesarias.
+IV. Asesorar y brindar apoyo a las Direcciones y Unidades en materia de sistemas informáticos y procedimientos administrativos internos de la Subsecretaria.
 
-VI. Integrar y mantener el archivo de los informes de actividades realizadas por las Direcciones y Unidades adscritas a la Subsecretaría, así como los que indique el Subsecretario.
+V. Establecer y mantener actualizado el sistema informático de la subsecretaría y proponer las adecuaciones que estime necesarias para su mejora.
 
-VII. Recibir la correspondencia oficial y previo acuerdo con el Subsecretario distribuirla para su despacho a las Direcciones y Unidades adscritas y vigilar su seguimiento y despacho.
+VI. Realizar evaluaciones de las actividades de las Direcciones y Unidades adscritas a la Subsecretaría, así como mantener un adecuado registro de las mismas y sugerir las adecuaciones necesarias.
 
-VIII. Registrar y dar seguimiento a los procedimientos administrativos que le sean turnados por las distintas Direcciones y Unidades adscritas a la Subsecretaría con motivo del resultado de la verificación, supervisión, auditoría y fiscalización de acuerdo a su competencia.
+VII. Integrar, mantener el archivo de los informes de actividades realizadas por las Direcciones y Unidades adscritas a la Subsecretaría, así como los que indique el Subsecretario.
 
-IX. Dar seguimiento y mantener actualizada la información relativa a la solventación de observaciones o recomendaciones hechas a las Dependencias, Entidades, proveedores o contratistas de la Administración Pública Estatal y elaborar los informes correspondientes.
+VIII. Recibir la correspondencia oficial de la Subsecretaría y previo acuerdo con el Subsecretario distribuirla para su despacho a las Direcciones y Unidades adscritas y vigilar su seguimiento y despacho.
 
-X. Elaborar documentos para notificar el inicio de procedimientos y recabar las constancias debidamente rubricadas por los indiciados.
+IX. Registrar y dar seguimiento a los procedimientos administrativos que le sean turnados por las distintas Direcciones y Unidades adscritas a la Subsecretaría con motivo del resultado de la verificación, supervisión, auditoría y fiscalización, de acuerdo a su competencia.
 
-XI. Brindar apoyo jurídico a las Direcciones y Unidades adscritas a la Subsecretaría, para substanciar los procedimientos administrativos a los contratistas y/o proveedores, por actos u omisiones que contravengan las disposiciones contenidas en la legislación vigente relativa a programas sociales, obra pública y servicios relacionados con las mismas y proponer resoluciones.
+X. Dar seguimiento y mantener actualizada la información relativa a la solventación de observaciones o recomendaciones; hechas a las dependencias, entidades, proveedores o contratistas de la Administración Pública Estatal y elaborar los informes correspondientes.
 
-XII. Ejecutar, previo acuerdo con el Subsecretario, las resoluciones dictadas por la Subsecretaria y vigilar su debido cumplimiento.
+XI. Elaborar documentos para notificar el inicio de procedimientos y recabar las constancias debidamente rubricadas por los indiciados.
 
-XIII. Turnar, previo acuerdo con el Subsecretario, los expedientes con la documentación, información y demás elementos necesarios a las Direcciones y Unidades adscritas para el despacho de los asuntos que les competen.
+XII. Brindar apoyo jurídico a las Direcciones y Unidades adscritas a la Subsecretaría, para substanciar los procedimientos administrativos a los servidores públicos, contratistas y/o proveedores, por actos u omisiones que contravengan las disposiciones contenidas en la legislación vigente relativa a programas sociales, obra pública y servicios relacionados con las mismas y proponer las resoluciones que correspondan.
 
-XIV. Las demás que le confieran las disposiciones legales aplicables y el Subsecretario dentro de la esfera de su competencia.
+XIII. Ejecutar, previo acuerdo con el Subsecretario, las resoluciones dictadas por él mismo y vigilar su debido cumplimiento.
+
+XIV. Turnar, previo acuerdo con el Subsecretario, los expedientes con la documentación, información demás elementos necesarios a las Direcciones y Unidades adscritas a la Subsecretaría para el despacho de los asuntos que les competen.
+
+XV. Ser el enlace ante la Coordinación General Jurídica en materia de acceso a la información, llevando el control y seguimiento de la solicitud de información que genere la ciudadanía con referencia a Obra Pública y Programas Sociales, vigilando el estricto cumplimiento de resolución de acuerdo a los plazos establecidos en la Ley de la materia.
+
+XVI. Proporcionar a la instancia correspondiente la información que servirá para alimentar periódicamente la pagina de transparencia de la Secretaría con las actuaciones que confiere el presente Reglamento a la Subsecretaría en materia de Obra Pública y Programas Sociales.
+
+XVII. Participar como enlace ante la Subsecretaría de Modernización Administrativa en materia Certificación de procesos relacionados con el Sistema de Gestión de la Calidad ISO 9001:2000.
+
+XVIII. Participar en representación del Titular de la Subsecretaría, en los actos de entrega - recepción que se lleven a cabo por funcionarios de la Administración Pública Estatal en materia de Obra Pública y Programas Sociales por inicio, cambio o terminación laboral.
+
+XIX. Las demás que le confieran las disposiciones legales aplicables y el Subsecretario dentro de la esfera de su competencia.
 
 ###### ARTÍCULO 22.
 
@@ -947,6 +991,132 @@ VII. Evaluar y dar seguimiento a la implementación de los procesos y procedimie
 
 VIII. Las demás que le confieran las disposiciones legales aplicables, el Secretario y/o el Subsecretario de su adscripción dentro de la esfera de sus atribuciones.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2005)</small>
+
+#### SECCIÓN IV. LAS UNIDADES ADSCRITAS A LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 30-A.
+
+Corresponde a la Dirección de Control Patrimonial y Transparencia:
+
+I. Vigilar en el ámbito de competencia de la Secretaría, el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+
+II. Expedir los medios de identificación electrónica correspondientes al sistema DECLARANET COAHUILA.
+
+III. Asesorar y capacitar en la presentación de declaraciones de situación patrimonial a los servidores públicos, así como en el uso del sistema DECLARANET COAHUILA.
+
+IV. Asesorar en el área de su competencia, a las unidades administrativas de la Secretaría, a los órganos internos de control de las dependencias y entidades de la Administración Pública, así como a los municipios del Estado, cuando así lo soliciten.
+
+V. Recibir y registrar las declaraciones de situación patrimonial de los servidores públicos del Estado en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales.
+
+VI. Expedir los acuses de recibo de las declaraciones presentadas por los servidores públicos estatales y, en los términos de las disposiciones aplicables, las certificaciones o constancias que se soliciten por autoridades competentes o servidores públicos interesados.
+
+VII. Practicar las investigaciones de oficio o a petición de autoridad competente, respecto al incumplimiento de las obligaciones de los servidores públicos, y en su caso, instruir el procedimiento de responsabilidad que proceda.
+
+VIII. Proponer, formular y difundir, entre los servidores públicos, la normatividad administrativa bajo la cual se debe presentar la declaración de situación patrimonial, así como los manuales e instructivos correspondientes, de acuerdo con los lineamientos, expedidos en la materia.
+
+IX. Practicar, previo acuerdo de su superior jerárquico, las investigaciones y proponer la realización de las auditorías que, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, procedan en relación con la situación patrimonial de los servidores públicos.
+
+X. Revisar y resolver las inconformidades de los servidores públicos, respecto a las visitas o auditorías que se les practiquen en relación con su situación patrimonial.
+
+XI. Sistematizar los archivos y procedimientos del registro de declaraciones de situación patrimonial de los servidores públicos y mantenerlos actualizados, así como administrar el sistema DECLARANET COAHUILA.
+
+XII. Requerir a la Secretaría de Finanzas y a los titulares de las entidades de la Administración Pública Estatal, la información relativa a los movimientos de altas y bajas de los servidores públicos, con la finalidad de mantener actualizado el padrón de servidores públicos obligados, a presentar declaración de situación patrimonial.
+
+XIII. Solicitar información necesaria para la integración de les expedientes de auditoria patrimonio, a las instituciones públicas y privadas a nivel federal, estatal y municipal.
+
+XIV. Establecer comunicación y coordinación con las dependencias y entidades de la Administración Pública Estatal a efecto de atender, en la esfera de su competencia, todo lo relacionado en materia de acceso a la información pública.
+
+XV. Administrar un sistema de trabajo que permita recibir, turnar y responder de manera pronta y expedita las solicitudes de acceso a la información que sean presentadas a la Secretaría, de conformidad con lo establecido en la Ley de la materia.
+
+XVI. Asesorar permanentemente a las dependencias y entidades en materia acceso a la información pública en los términos del ordenamiento legal aplicable.
+
+XVII. Asesorar respecto a las directrices generales para la clasificación, catalogación, conservación, reproducción y resguardo de los documentos públicos que generan las dependencias y entidades de la Administración Pública Estatal, en los términos de la legislación aplicable.
+
+XVIII. Impulsar y fomentar la capacitación y actualización en las normas y materias afines, de los servidores públicos de la Unidad de Atención en materia de Acceso a la Información Pública y, en general, de la Secretaría.
+
+XIX. Vigilarla conservación y preservación de los archivos públicos bajo su responsabilidad.
+
+XX. Establecer los mecanismos necesarios para la coordinación entre las distintas unidades documentales de la Administración Pública Estatal y municipales.
+
+XXI. Formar parte de la unidad de transparencia de Acceso a la Información Pública de la Secretaria, así como del Comité de Acceso a la Información de la Secretaría.
+
+XXII. Dar trámite a las solicitudes de acceso a la Información en los términos de la Ley de Acceso a la Información Pública.
+
+XXIII. Las demás que le confieran las disposiciones legales aplicables, el Secretario y/o el Coordinador General de su adscripción dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 30-B.
+
+Corresponde a la Dirección de Responsabilidades:
+
+l. Vigilar en el ámbito de competencia de la Secretaría el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+
+II. Recibir, tramitar y resolver las quejas y denuncias formuladas con motivo del incumplimiento de las obligaciones de los servidores públicos estatales, y turnar a la autoridad competente aquéllas que no fueren competencia de la Secretaría.
+
+III. Tramitar y resolver los procedimientos administrativos resarcitorios, conforme a las disposiciones legales aplicables, fincando los pliegos preventivos de responsabilidad y turnar los expedientes a la Subsecretaría para su resolución correspondiente.
+
+IV. Substanciar los procedimientos administrativos disciplinarios que resulten de la competencia de la Secretaría de conformidad con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, proyectando la resolución que corresponda.
+
+V. Practicar las investigaciones de oficio o a petición de autoridad competente, respecto al incumplimiento de las obligaciones de los servidores públicos, y en su caso, instruir el procedimiento de responsabilidad que proceda.
+
+VI. Solicitar, a través de la Coordinación General de Asuntos Jurídicos a los titulares de las dependencias y entidades de la Administración Pública Estatal, la aplicación de sanciones disciplinarias en contra de quienes resulten responsables por contravenciones a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado y demás disposiciones jurídicas aplicables, además de las que resulten del cumplimiento de Acuerdos de Coordinación o convenios celebrados con la Secretaría.
+
+VII. Tramitar les recurso administrativos que le corresponda conocer a la Secretaría, de acuerdo con las disposiciones legales vigentes.
+
+VIII. Llevar el registro de servidores públicos inhabilitados y expedir las constancias de no inhabilitación a solicitud de parte, previo pago de derechos que correspondan.
+
+IX. Llevar y mantener actualizado el padrón de servidores públicos sancionados e inhabilitados, y rendir los informes que soliciten las autoridades competentes de conformidad con las leyes en la materia.
+
+X. Elaborar los proyectos de denuncias o querellas penales necesarias respecto de hechos que puedan constituir delitos derivados de las investigaciones, revisiones, auditorías o fiscalizaciones que se realicen por parte de las Unidades competentes de la Secretaría y turnar los expediente a la Coordinación de su adscripción.
+
+XI. Establecer, operar y difundir programas preventivos en materia de responsabilidades de los servidores públicos.
+
+XII. Asesorar en el área de su competencia, a las unidades administrativas de la Secretaría, a los órganos internos de control de las dependencias y entidades de la Administración Pública, así como a los municipios del Estado, previa solicitud de los mismos y, como órgano de consulta, compilar las normas jurídicas relacionadas con las funciones de la Secretaría.
+
+XIII. Apoyar y asesorar en la celebración de acuerdos, convenios y contratos de las dependencias y Entidades de la Administración Pública Estatal, y supervisar que en los mismos sean observadas as disposiciones legales aplicables.
+
+XIV. Llevar el registro, archivo y control de los acuerdos, convenios y contratos que celebre la Administración Pública del Estado, en las que se involucren atribuciones y obligaciones de la Secretaría, atendiendo a los lineamientos que determine el titular de la misma.
+
+XV. Las demás que le confieran las disposiciones legales aplicables, el Secretario y/o el Coordinador General de su adscripción dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE JUNIO DE 2005)</small>
+
+#### SECCIÓN V. LAS UNIDADES ADSCRITAS A LA COORDINACIÓN GENERAL ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO 30-C.
+
+Corresponde a la Dirección de Control Presupuestal:
+
+I. Formular y proponer a consideración de su superior jerárquico, la calendarización del presupuesto de egresos autorizado para la Secretaría.
+
+II. Emitir los reportes presupuestales requeridos para la toma de decisiones.
+
+III. Organizar y coordinar la elaboración cuentas por pagar para la reposición del fondo revolvente.
+
+IV. Dar seguimiento a los documentos turnados a la Secretaría de Finanzas para su pago o reposición.
+
+V. Gestionar la liberación de remesas especiales requeridas para el cumplimiento de las funciones de la Secretaría.
+
+VI. Programar y tramitar los pagos de viáticos del personal comisionado, así como los que correspondan a proveedores.
+
+VII. Recabar y revisar la nómina del personal adscrito a la Secretaría para su pago.
+
+VIII. Verificar que las afectaciones presupuestales se realicen de conformidad con las normas y procedimientos establecidos.
+
+IX. Supervisar la integración y actualización del archivo documental.
+
+X. Brindar apoyo en la supervisión de bitácora de mantenimientos y control de activos asignados a la Secretaría.
+
+XI. Coordinar el ejercicio de sus funciones con las de las unidades responsables del suministro de bienes y servicios para el mejor desempeño de las unidades administrativas de la Secretaría.
+
+XII. Las demás que le confieran las disposiciones legales aplicables y su superior jerárquico dentro de la esfera de su competencia.
+
 ### CAPÍTULO V. LA DESCONCENTRACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 31.
@@ -998,3 +1168,11 @@ LIC. JOSÉ JESÚS RAÚL SIFUENTES GUERRERO
 LA SECRETARÍA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 
 C. P. Y M. I. MARÍA INÉS GARZA ORTA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JUNIO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
