@@ -4,7 +4,7 @@ identifier: "GRO-codigo-electoral-del-estado-de-guerrero-numero-264-5115"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-05-01"
-last_updated: "2004-02-13"
+last_updated: "2005-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO ELECTORAL DEL ESTADO DE GUERRERO NUMERO 264
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1 de mayo de 1992.
 
@@ -203,7 +203,9 @@ PRIMER DISTRITO.- Con cabecera en Chilpancingo de los Bravo (parte de la zona ur
 
 SEGUNDO DISTRITO.- Con cabecera en Tixtla de Guerrero y los Municipios de Mártir de Cuilapan, Mochitlán y Quechultenango.
 
-TERCER DISTRITO.- Con cabecera en Chilapa de Alvarez (parte de la zona urbana y rural) y los Municipios de Atlixtac y Zitlala.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+TERCER DISTRITO.- Con cabecera en Chilapa de Alvarez (parte de la zona urbana y rural) y los municipios de Atlixtac, José Joaquín de Herrera y Zitlala.
 
 CUARTO DISTRITO.- Con cabecera en Tecpan de Galeana y los Municipios de Atoyac de Alvarez y Benito Juárez.
 
@@ -245,13 +247,17 @@ VIGESIMO SEGUNDO DISTRITO.- Con cabecera en Huamuxtitlán y los Municipios de Al
 
 VIGESIMO TERCER DISTRITO.- Con cabecera en Pungarabato y los Municipios de Cutzamala de Pinzón y Tlalchapa.
 
-VIGESIMO CUARTO DISTRITO.- Con cabecera en San Luis Acatlán y los Municipios de Azoyú, Copala e Igualapa.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+VIGESIMO CUARTO DISTRITO.- Con cabecera en San Luis Acatlán y los Municipios de Azoyú, Copala, Igualapa, Juchitán y Marquelia.
 
 VIGESIMO QUINTO DISTRITO.- Con cabecera en Chilapa de Alvarez (parte de la zona urbana y rural) y los Municipios de Ahuacuotzingo y Olinalá.
 
 VIGESIMO SEXTO DISTRITO.- Con cabecera en Acapulco de Juárez (parte de la zona urbana).
 
-VIGESIMO SEPTIMO DISTRITO.- Con cabecera en Tlapa de Comonfort (parte de la zona urbana y rural) y los Municipios de Atlamajalcingo del Monte, Metlatonoc y Xalpatláhuac.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+VIGESIMO SEPTIMO DISTRITO.- Con cabecera en Tlapa de Comonfort (parte de la zona urbana y rural) y los Municipios de Atlamajalcingo del Monte, Cochoapa el Grande, Metlatónoc y Xalpatláhuac.
 
 VIGESIMO OCTAVO DISTRITO.- Con cabecera en Acapulco de Juárez.
 
@@ -943,7 +949,9 @@ III.- Las cuotas voluntarias y personales que los candidatos aporten exclusivame
 
 b) El financiamiento de simpatizantes estará conformado por las aportaciones o donativos en dinero o en especie, hechas a los Partidos Políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el País que no estén comprendidas en el párrafo segundo de este artículo. Las aportaciones se deberán sujetar a las siguientes reglas:
 
-I.- Los Partidos Políticos no podrán recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 20% del total de financiamiento público para actividades ordinarias que corresponda a todos los Partidos Políticos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+I.- Los Partidos Políticos no podrán recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 20% del total de su financiamiento público para actividades ordinarias;
 
 II.- Los Partidos Políticos deberán expedir recibos foliados por las aportaciones o donativos en dinero que perciban y por la venta de bienes y artículos promocionales, dejando constancia de los datos de identificación del aportante, salvo los casos en que las hayan obtenido mediante colectas realizadas en mítines o en la vía pública; cuando el monto de las aportaciones o donativos sea superior a los cincuenta salarios mínimos diarios vigentes en la capital del Estado, sólo se recepcionará mediante cheque para depósito en la cuenta del Partido Político, expidiéndose el recibo foliado correspondiente y conservando para su registro, copia del cheque;
 
@@ -1857,9 +1865,9 @@ I. Vigilar la observancia de este Código y de los acuerdos y resoluciones de la
 
 II. Intervenir conforme a este Código, dentro de sus respectivos Distritos, en la preparación, desarrollo y vigilancia del Proceso Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
-III. Designar, en el mes de junio, por el voto de la mayoría de sus miembros presentes, al Presidente y Consejeros Electorales de los Consejos Municipales Electorales a que se refiere el artículo 86 de este Código. Las designaciones se harán de una lista de personas que proponga su Presidente y de los que saldrán también los Consejeros Supernumerarios;
+III.- Designar, en el mes de junio, por el voto de las dos terceras partes de sus miembros presentes, al Presidente y Consejeros Electorales de los Consejos Municipales Electorales a que se refiere el artículo 86 de este Código. Las designaciones se harán de una lista de personas que proponga su Presidente y de los que saldrán también los Consejeros Supernumerarios;
 
 IV. Registrar las planillas de candidatos a miembros del Ayuntamiento de la cabecera y las listas de candidatos a Regidores;
 
@@ -2501,9 +2509,13 @@ VIII.- El sistema salarial y condiciones de trabajo;
 
 IX.- La organización de empleados administrativos y trabajadores auxiliares y eventuales;
 
-X.- El sistema de recontratación de los servidores de los Consejos Estatal, Distritales y Municipales, quienes tendrán preferencia para reingresar a los cargos y puestos en cada proceso electoral. La recontratación se basará en el mérito y rendimiento mostrado en la labor realizada en el proceso electoral anterior, y
+X.- El sistema de recontratación de los servidores de los Consejos Estatal, Distritales y Municipales, quienes tendrán preferencia para reingresar a los cargos y puestos en cada proceso electoral. La recontratación se basará en el mérito y rendimiento mostrado en la labor realizada en el proceso electoral anterior; y
 
 XI.- Las demás necesarias para la organización y buen funcionamiento del Consejo Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+El personal que integre los cuerpos del Servicio Profesional de Carrera y las ramas Administrativas del Consejo Estatal Electoral, serán considerados de confianza, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -5222,3 +5234,9 @@ TERCERO.- Los artículos 144-BIS, 144-BIS 1, 144-BIS 2, 144-BIS 3, 144-BIS 4, 14
 CUARTO.- La reforma contenida en el artículo 70 párrafo quinto entrará en vigencia el día 2 de enero del 2006. Fenecido el periodo de nombramiento del Secretario Técnico, actualmente en funciones, el Consejo Estatal podrá ratificarlo para el periodo comprendido de agosto del 2004 al 1 de enero del 2006 o bien nombrar a nueva persona para ejercer el cargo durante el periodo antes mencionado.
 
 QUINTO.- El Consejo Estatal Electoral, emitirá las disposiciones relativas a la organización, funcionamiento y desarrollo del servicio profesional de carrera electoral, en un plazo no mayor de 60 días a la entrada en vigor del presente Decreto para la aplicación del servicio de carrera a partir del próximo proceso electoral.
+
+P.O. 24 DE JUNIO DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
