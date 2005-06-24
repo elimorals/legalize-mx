@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2003-11-21"
+last_updated: "2005-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -1021,7 +1021,9 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, co
 
 II. Poseer título profesional a nivel licenciatura afín a las funciones del cargo, expedido con al menos cinco años anteriores al día de la designación;
 
-III. No haber sido dirigente, funcionario o candidato de partido político u ocupado algún cargo de elección popular en los últimos 18 meses;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+III. No haber sido dirigente, funcionario o candidato de partido político u ocupado algún cargo de elección popular en el último año;
 
 IV. No haber sido sentenciado por delito doloso que amerite pena privativa de libertad o haber sido destituido de algún cargo público por resolución relativa a responsabilidad administrativa;
 
@@ -1053,9 +1055,11 @@ OFICIALÍA MAYOR
 
 (Función y ubicación orgánica) La Oficialía Mayor es la dependencia encargada de la prestación de los servicios administrativos al Poder Legislativo; orgánicamente se encuentra subordinada a la Mesa Directiva.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2005)</small>
+
 ###### Artículo 106.
 
-(Requisitos) Para ser titular de la Oficialía Mayor se requiere poseer título de licenciatura en administración, contabilidad o derecho; comprobar experiencia de al menos tres años en el área profesional y al menos uno de ellos en funciones públicas gubernamentales.
+(Requisitos) Para ser titular de la Oficialía Mayor se requiere poseer título profesional, comprobar experiencia de al menos tres años en el área administrativa y al menos uno de ellos en funciones públicas gubernamentales.
 
 ###### Artículo 107.
 
@@ -2069,7 +2073,7 @@ III. Que sea o hubiere sido cónyuge de una de las partes o de su representante;
 
 IV. Que tenga en relación con el objeto del procedimiento, interés personal y directo de cualquier género o concurran circunstancias notorias que impidan el ejercicio de su imparcial y objetivo criterio.
 
-### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATO DE ALGUNO DE SUS MIEMBROS
+### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATODE ALGUNO DE SUS MIEMBROS
 
 ###### Artículo 228.
 
@@ -2326,3 +2330,13 @@ Rúbrica
 P.O. 21 DE NOVIEMBRE DE 2003.
 
 UNICO.- La presente ley entrará en vigor a partir de la fecha de su aprobación y tiene efectos retroactivos a partir del día 27 de septiembre de 2003.
+
+P.O. 24 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día de su aprobación, se ordena su publicación en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente ley.
