@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-de-proteccion-civil-de-mexicali-baja-41981
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2004-12-03"
+last_updated: "2005-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 3 de diciembre de 2004.
 
@@ -83,11 +83,13 @@ I. El Presidente Municipal;
 
 II. El Secretario del Ayuntamiento;
 
-III. El Director de Seguridad Pública;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
-IV. El Director de Bomberos y Protección Civil;
+III. El Secretario Técnico de la Unidad de Protección Civil.
 
-V. Los inspectores de protección civil municipal.
+IV. (DEROGADA, P.O. 24 DE JUNIO DE 2005)
+
+V. (DEROGADA, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 4.
 
@@ -335,23 +337,53 @@ V. El Regidor que coordine la Comisión de Seguridad Pública, Tránsito y Trans
 
 VI. El Director de Seguridad Pública Municipal, con Carácter de Vocal;
 
-VII. El Tesorero Municipal, con Carácter de Vocal;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
-VIII. Dos Directores, de Obras Municipales, y Director de Servicios Públicos Municipales, con Carácter de Vocales;
+VII. El Director de Bomberos, con carácter de Vocal;
 
-IX. El Director de Desarrollo Urbano y Ecología con Carácter de Vocal;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
-X.- El Director de Servicios Médicos, con Carácter de Vocal;
+VIII. El Tesorero Municipal, con carácter de Vocal;
 
-XI. D.I.F. Municipal, con Carácter de Vocal;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
-XII. El Director de Desarrollo Rural y Delegaciones, con Carácter de Vocal;
+IX. El Director de Obras Públicas Municipales, con carácter de Vocal;
 
-XIII. Un representante de los grupos de voluntarios en materia de protección civil;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
-XIV. Por cada miembro propietario se nombrará un suplente;
+X. El Director de Servicios Públicos Municipales, con carácter de Vocal;
 
-XV. El Presidente del Consejo de acuerdo a los asuntos a tratar, podrá invitar a las sesiones o a formar parte de las comisiones especializadas, a representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+XI. El Director de Administración Urbana, con carácter de Vocal;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+XII. El Director de Ecología, con carácter de Vocal;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+XIII. El Director de Servicios Médicos, con carácter de Vocal;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+XIV. El Director de Desarrollo Integral para la Familia, con carácter de Vocal;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+XV. El Director de Coordinación de Delegaciones, con carácter de Vocal; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2005)</small>
+
+XVI. Un representante de los grupos de voluntarios en materia de Protección Civil, con carácter de Vocal.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+Por cada miembro propietario se nombrará un suplente.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
+
+El Presidente del Consejo de acuerdo a los asuntos a tratar, podrá invitar a las sesiones o a formar parte de las comisiones especializadas, a representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales.
 
 ###### Artículo 18.
 
@@ -1055,239 +1087,105 @@ Las Autoridades Municipales en los términos de este reglamento, atenderán de m
 
 ###### Artículo 70.
 
-La Unidad Municipal de Protección Civil, tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de emergencias y desastres, sin perjuicios de las facultades que se confieran a otras dependencias de la Administración Pública Federal y Estatal.
-
-La Unidad Municipal de Protección Civil, vigilará en el ámbito de su competencia el cumplimiento del presente reglamento y de más (sic) disposiciones que se dicten con base en él y aplicar las medidas de seguridad que correspondan.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 71.
 
-Las inspecciones de Protección Civil, tienen el carácter de visitas domiciliarias; por lo que los propietarios, administradores o encargados de los establecimientos señalados por este reglamento y los propietarios, ocupantes o encargados de inmuebles u obras, están obligados a permitirlas, así como a proporcionar toda clase de información necesaria para el desahogo de las mismas.
-
-Los inspectores de Protección Civil, son autoridades auxiliares para el cumplimiento y observancia del presente reglamento y están autorizados para levantar las actas, notificaciones y aplicar clausuras de establecimientos en caso de violación a cualquier artículo de este reglamento, en observancia de los (sic) dispuesto para cada caso por el Secretario Técnico de la Unidad Municipal de Protección Civil.
-
-A los inspectores designados para llevar acabo la inspección y vigilancia, se le confieren las siguientes atribuciones:
-
-- Realizar visitas de inspección a los establecimientos que menciona el presente reglamento;
-
-- Solicitar el apoyo policíaco en el caso de oposición de parte del propietario, administrados, encargado u ocupantes, para que se cumplan con la diligencia de inspección o clausura por violación al presente reglamento; y
-
-- Las que le otorguen el presente reglamento y demás leyes aplicables.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 72.
 
-Las inspecciones se sujetarán a las siguientes bases:
-
-- El inspector deberá contar con orden por escrito que contendrá: la fecha, ubicación del inmueble por inspeccionar; objeto y aspecto de la vista; el fundamento legal y motivación de la misma; el nombre y la firma de la autoridad que expira la orden y el nombre del inspector;
-
-- El inspector deberá identificarse ante el propietario, arrendatario o poseedor, administrador o representante legal, o ante la persona cuyo cargo esté el inmueble, con la credencial vigente que para tal efecto fue expedida y entregada copia legible de la orden de inspección;
-
-- Los inspectores practicarán la visita dentro de las veinticuatro horas siguientes a la expedición de la orden de inspección;
-
-- Al inicio de la visita de la inspección, el inspector deberá requerir al ocupante del lugar visitado, para que designe a dos personas de su confianza que funjan como testigo en el desarrollo de la diligencia, advirtiéndose que en caso de no hacerlo, éstos serán propuestos y nombrados por el propio inspector, debiendo asentar en el acta correspondiente tal requerimiento y lo procedente en su caso;
-
-- De toda visita se levantará acta circunstanciada por triplicado, cuyas fojas deberán ir numeradas y foliadas, en la que se expresará: lugar fecha y nombre de la persona con quien se entienda la diligencia y de los testigos de asistencia propuestos por ésta o nombrados por el inspector, en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento;
-
-- En el acta que se levante por motivo de la inspección se hará constar las circunstancias de la diligencia, las deficiencias o irregularidades observadas;
-
-- El inspector deberá hacer constar en el acta, la violación al reglamento, indicando al presunto infractor que cuenta con cinco días hábiles, para impugnar por escrito a la Unidad Municipal de Protección Civil la constancia de infracción y de que en caso de inconformidad con tal evento, deberá exhibir las pruebas que estimen conducentes; y
-
-- Unos de los ejemplares visibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregará a la Unidad Municipal de Protección Civil.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 73.
 
-Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con este reglamento y demás ordenamientos aplicables, para proteger el interés público o evitar los riesgos, alto riesgo, emergencias o desastres, que puedan ocurrir en los establecimientos a que se refiere este reglamento. Las medidas de seguridad, si no se trata de un alto riesgo emergencia o desastre, se notificarán antes de su aplicación al interesado sin perjuicio de las sanciones que en su caso correspondieran.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 74.
 
-Mediante resolución debidamente fundada y motivada, se podrán establecer las medidas de seguridad siguientes:
-
-I. La suspensión de trabajos y servicios;
-
-II. La desocupación o desalojo de casas, edificios, establecimientos o en general de cualquier inmueble;
-
-III. La demolición de construcciones o el retiro de instalaciones;
-
-IV. El aseguramiento y secuestro de objetos o materiales;
-
-V. La clausura temporal o definitiva, total o parcial de establecimientos, construcciones, instalaciones u obras;
-
-VI. La realización de acto, rebeldía de los que están obligados a ejecutarlos;
-
-VII. El auxilio de la fuerza pública; y
-
-VIII. La emisión de mensajes de alerta.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 75.
 
-Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Unidad Municipal de Protección Civil, esta autoridad en el ámbito de su competencia procederá como sigue:
-
-- Se procederá a la suspensión de la construcción, servicios o de las obras o acto relativo a ordenar el desalojo del inmueble y a aplicar las medidas de seguridad que resulten procedentes enunciadas en este ordenamiento;
-
-- Se amonestará al propietario, responsable, encargado u ocupante del establecimiento, para que se apliquen las recomendaciones de la Autoridad de Protección Civil, afín de que se evite o se extinga el riesgo;
-
-- En caso de que el riesgo se hubiera producido por la negligencia o irresponsabilidad del propietario, responsable, encargado u ocupante, en el manejo de uso de materiales; de personas; o por no haber sido atendidas las recomendaciones de la autoridad competente, la Autoridad de Protección Civil, sin perjuicios de que se apliquen las medidas de seguridad o sanciones que se establezcan en este u otro ordenamiento, impondrá multa a quien resultase responsable;
-
-- Cuando no obstante la aplicación de las medidas a que se refieren las tres fracciones anteriores, no se hubiera evitado o extinguido el riesgo, la Autoridad de Protección Civil y previa audiencia del interesado, procederá en su caso, a la clausura de los establecimientos, hasta en tanto no se demuestre que dicho riesgo ha sido definitivamente superado.
-
-- En caso de que la Autoridad de Protección Civil determine, que por motivos de su naturaleza resulte imposible la suspensión de la construcción obra o acto relativo o la clausura de los establecimientos; se publicarán avisos a cuenta del propietario o responsable, en uno de los diarios de mayor circulación en el Municipio, advirtiendo a la población de los riesgos.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 76.
 
-Cuando en los establecimientos se presenten emergencias o desastres, inherentes a los actos, servicios o funcionamiento de los mismos, las Autoridades de Protección Civil procederán de inmediato a la desocupación del inmueble, a la suspensión de las actividades y a clausurar los lugares en donde se realicen, imponiendo además cualquier otra medida de seguridad y sanción que resulte aplicable de acuerdo a este ordenamiento. Lo anterior sin perjuicio de que se apliquen las demás medidas de seguridad, sanciones que establezcan las demás leyes o reglamentos.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 77.
 
-Las obras que se ordenen por parte de las Autoridades de Protección Civil, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento sin perjuicio de que sea la propia autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicarán las sanciones económicas que correspondan.
-
-Tanto las sanciones económicas, como en su caso, las cantidades por el concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales y serán cobrados mediante el procedimiento económico-coactivo de ejecución, por la Secretaría de Finanzas y Tesorería Municipal.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 78.
 
-La responsabilidad por daños y perjuicios derivados de acciones u omisiones que devengan en siniestros o desastres, se determinará y hará efectiva, conforme a las disposiciones de la legislación aplicable.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ### CAPITULO XIV. DE LAS SANCIONES
 
 ###### Artículo 79.
 
-Es competente para imponer las sanciones a que se refiere el presente capítulo el Secretario Técnico de la Unidad Municipal de Protección Civil.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 80.
 
-Son conductas constitutivas de infracción las que se llevan a cabo para:
-
-I. Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de prevención, auxilio o apoyo a la población en caso de desastre;
-
-II. Impedir u obstaculizar al personal autorizado a realizar inspecciones o actuaciones en los términos de este reglamento;
-
-III. No dar cumplimiento a los requerimientos de la autoridad competente;
-
-IV. No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de este reglamento; y
-
-V. En general, cualquier acto u omisión que contravengan las disposiciones del presente reglamento.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 81.
 
-Las sanciones que podrán aplicarse consistirán en:
-
-I. Amonestación;
-
-II. Clausura temporal o definitiva, total o parcial de los establecimientos;
-
-III. Multa equivalente al monto de 20 a 1,000 días de salario mínimo general, vigente en la zona económica a la que pertenece el Municipio al momento de la comisión de la infracción;
-
-IV. En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de los 2,000 días de salario mínimo general, así como la clausura definitiva;
-
-V. Suspensión de obras, instalaciones o servicios; y
-
-VI. Arresto administrativo hasta por 36 horas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 82.
 
-Para los efectos de este reglamento serán responsables:
-
-- Los propietarios, poseedores, administradores, representantes, organizadores y demás responsables, involucrados en las violaciones a este reglamento; y
-
-- Quienes ejecuten orden o favorezcan las acciones u omisiones constitutivas de una infracción y los servidores públicos que intervengan o faciliten la comisión de una infracción.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 83.
 
-La imposición de sanciones se hará sin perjuicio de la responsabilidad que conforme a otras leyes corresponda al infractor.
-
-Recibida un acta de visita de inspección por el Secretario Técnico de la Unidad Municipal de Protección Civil y si de la misma se presume infracción al presente reglamento, a fin de determinar la comisión de una o varias infracciones, se citará al propietario o representante legal de la negociación inspeccionada. Para lo anterior, se fijará fecha y hora a fin de que tenga verificativo una audiencia a pruebas y alegatos; Debiendo el interesado dirigirse a la Unidad Municipal de Protección Civil por escrito, audiencia en la cual se desahogarán todas las pruebas ofrecidas y que tengan relación inmediata y tendientes a desvirtuar los hechos consignados en el acta de vista de inspección y se reciban por escrito los alegatos que se realicen.
-
-En la citada audiencia de (sic) admitirán toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a diversas Autoridades Estatales o Federales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución correspondiente.
-
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por la unidad de documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Las demás pruebas quedarán a la prudente apreciación de la autoridad.
-
-Si por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiere convicción distinta acerca de los hechos en materia del procedimiento de determinación de las infracciones, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 84.
 
-El escrito de ofrecimiento de pruebas deberá contener:
-
-I. Nombre y domicilio del propietario de la negociación inspeccionada y en su caso, de quien se promueve en su representación; si fuesen varios los propietarios, el nombre y el domicilio de su representante común;
-
-II. El interés legítimo y específico que asiste al propietario;
-
-III. La autoridad que levantó el acta de vista de inspección;
-
-IV. La mención precisa de los hechos consignados por la autoridad en el acta de vista de la inspección y que motivan el ofrecimiento de pruebas;
-
-V. Las pruebas que ofrezcan y que tengan relación inmediata y directa con los hechos consignados en el acta de visita de inspección, debiendo acompañar las documentales con que se cuente, incluidas las que acrediten su personalidad, cuando se actúe en nombre de otro o de personas morales.
-
-VI. El lugar y fecha de promoción.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 85.
 
-Dentro de un término no mayor de 15-quince días hábiles después de concluida la audiencia de pruebas y de alegatos, la Unidad Municipal de Protección Civil determinará la existencia o inexistencia en su caso, de una o varias infracciones al presente reglamento.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 86.
 
-Al imponerse una sanción se tomará en cuenta:
-
-I. El daño o peligro que se ocasione o pueda ocasionarse a la salud o a la seguridad de la población o su entorno;
-
-II. La gravedad de la infracción;
-
-III. Las condiciones socio-económicas del infractor; y
-
-IV. La reincidencia en su caso.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ### CAPITULO XV. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 87.
 
-Contra los actos y resoluciones de la Unidad Municipal de Protección Civil, dictados con motivo de la aplicación de este reglamento, los interesados podrán imponer recursos de inconformidad.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 88.
 
-El recurso de inconformidad es el que tiene por objeto que la autoridad, conforme revoque o modifique a solicitud de la parte interesada una resolución o actos de la Unidad Municipal de Protección Civil.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 89.
 
-El recurso de inconformidad que se interponga, deberá presentarse para su substanciación, ante el Secretario Ejecutivo de Consejo Municipal de Protección Civil. El afectado contará con un plazo de 15- quince días hábiles para la promoción del recurso, contados a partir de la notificación.
-
-El recurso mencionado, deberá formularse por escrito y firmarse por el recurrente o por su representante debidamente acreditado; el escrito debe contener:
-
-- Nombre y domicilio del recurrente y en su caso, de quien promueva su presentación;
-
-- Si fuesen varios recurrentes, el nombre y domicilio de su representante común;
-
-- El interés legítimo y específico que asiste al recurrente;
-
-- La autoridad o autoridades que dictaron el acto recurrido;
-
-- La mención precisa del acto de autoridad que motiva la interposición del recurso;
-
-- Los conceptos de violación o en su caso las objeciones a la sanción reclamada;
-
-- Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado, debiendo acompañarlos documentales con que cuente, incluidas las que acrediten su personalidad, cuando actúen en nombre de otro o de personas morales; y
-
-- El lugar y fecha de promoción.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 90.
 
-El término para el desahogo de las pruebas ofrecidas, será en los próximos 5-cinco días, contados a partir del día siguiente de hecha la solicitud.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 91.
 
-Dentro de un término no mayor a 15-quince días hábiles, después de concluir el periodo de pruebas, el Secretario Ejecutivo del Consejo Municipal de Protección Civil, mediante resolución debidamente fundada y motivada, confirmará, modificará o revocará el acto recurrido.
-
-Si no lo hiciere en este término, el recurso de (sic) entenderá a favor del recurrente.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ### CAPITULO XVI. DEL PROCEDIMIENTO DE REVISION Y CONSULTA
 
 ###### Artículo 92.
 
-En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado tomando en cuenta la opinión de la propia comunidad.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 93.
 
-Para garantizar la participación ciudadana en la revisión para la modificación o actualización toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias ponencias o quejas en relación con el contenido normativo del presente reglamento, escrito que deberá dirigirse al Secretario del Ayuntamiento, a fin de que previo análisis, el Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ## TITULO II. DE LOS REQUISITOS Y CONDICIONES GENERALES PARA LA SEGURIDAD CIVIL Y PREVENCION DE INCENDIOS
 
@@ -1295,33 +1193,7 @@ Para garantizar la participación ciudadana en la revisión para la modificació
 
 ###### Artículo 94.
 
-Se contraviene el régimen de seguridad civil por:
-
-I. Fumar dentro de inmuebles en los que esté prohibido hacerlo;
-
-II. Lanzar voces en edificios, centros de reunión o de espectáculos públicos, que por su naturaleza infunda pánico;
-
-III. Obstruir zonas de acceso, pasillos, rutas de evacuación y salidas de emergencia con mobiliario, mercancías, cadenas, candado y cualquier otro elemento que obstaculice su operación;
-
-IV. Coaccionar de palabra o de hecho, a los inspectores municipales o a los Agentes de Seguridad Pública en su caso, en el desempeño de su labor;
-
-V. Hacer uso de fuego o materiales combustibles o inflamables en vías o lugares públicos sin la previa autorización de la Dirección;
-
-VI. Almacenar o trabajar la pólvora, con cualquier fin, dentro de las zonas urbanas o centros de población;
-
-VII. Construir edificios con materiales fácilmente combustibles o inflamables, que pongan en riesgo la seguridad de las personas o propiedades adyacentes;
-
-VIII. Almacenar substancias de naturaleza inflamable, combustible o explosivas en cantidades que pongan en riesgo la seguridad de la propia edificación, así como las de las vecinas y sus ocupantes; asimismo, en el caso de casa-habitación, acumular líquidos inflamables que excedan de 7.5 litros, o cuando sin exceder de lo anteriormente señalado se encuentren envasados indebidamente o en sitio inadecuado;
-
-IX. Acumular basura o materiales de desecho en cantidad tal que pudieran afectar a las construcciones vecinas y dañar a terceros en caso de presentarse un incendio;
-
-X. Realizar quemas de basura y materiales de desecho que pudieran afectar a terceros en su persona o propiedad;
-
-XI. Exceder la capacidad máxima de ocupantes establecida por la autoridad municipal correspondiente;
-
-XII. Permitir la propagación del fuego o utilizar cualquier dispositivo que pudiera ser fuente de ignición, sin el desalojo apropiado de materiales combustibles, o sin tomar las precauciones para evitar el inicio y propagación de un incendio;
-
-XIII. Las demás que prevea este reglamento y las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ### CAPITULO II. DE LOS TIPOS DE INCENDIOS, EQUIPOS Y SISTEMAS PARA SU PREVENCION Y COMBATE
 
@@ -1329,313 +1201,195 @@ XIII. Las demás que prevea este reglamento y las disposiciones legales y reglam
 
 ###### Artículo 95.
 
-Los incendios se clasifican por el grado de intensidad producida según el tipo de material inflamable, y son:
-
-I. Clase A: fuego en materiales combustibles ordinarios como madera, derivados de celulosa, papel, telas, hule, plásticos y similares;
-
-II. Clase B: fuego en materiales combustibles derivados de hidrocarburos, líquidos y gases inflamables como gasolina, diesel, grasa, aceite, pinturas de base disolvente, lacas, alquitrán, gas butano, gas propano, hidrógeno, acetileno, entre otros;
-
-III. Clase C: fuego que involucre materiales, equipos o circuitos energizados eléctricamente; y
-
-IV. Clase D: fuego en metales combustibles, como magnesio, titanio, zirconio, sodio, litio y potasio; los cuales pueden reaccionar violentamente al contacto con el agua.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 96.
 
-Las edificaciones en general se clasificarán, en base a su riesgo de incendio, en las siguientes categorías:
-
-I. Riesgo Bajo;
-
-II. Riesgo Medio; y
-
-III. Riesgo Alto.
-
-Dichas categorías estarán descritas en las normas técnicas, atendiendo a lo dispuesto en las normas oficiales vigentes.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 #### SECCION SEGUNDA. DE LOS EXTINTORES
 
 ###### Artículo 97.
 
-El extintor es el dispositivo básico para combatir un fuego en su etapa inicial, por lo que debe implementarse en todo edificio, estructura, instalación o vehículo donde exista riesgo de incendio. Para efectos del presente reglamento se clasificarán de acuerdo a lo que establezcan las normas técnicas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 98.
 
-Las normas técnicas establecerán la cantidad, tipo y capacidad de los extintores requeridos en cada caso, dependiendo del tipo de riesgo, carga de calor latente y superficie a proteger.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 99.
 
-En base a un análisis específico del tipo de riesgo y volúmenes de material combustible, la Dirección podrá exigir mayor cantidad de extintores portátiles o móviles o de carretilla, y de mayor capacidad para riesgos clase “B”.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 100.
 
-En la instalación, operación, mantenimiento e inspección de extintores se deberá cumplir con los requisitos que establezcan el reglamento respectivo y las normas técnicas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 #### SECCION TERCERA. DE LOS SISTEMAS FIJOS CONTRA INCENDIOS
 
 ###### Artículo 101.
 
-Los sistemas fijos contra incendios se requerirán en edificios donde la cantidad de materiales y tipo de riesgo pueden producir fuegos de rápido desarrollo, donde los extintores portátiles ya no sean eficientes. Estos sistemas comprenden:
-
-I. Sistemas de hidrantes;
-
-II. Sistemas de mangueras contra incendio;
-
-III. Sistema de rociadores automáticos; y
-
-IV. Sistemas especiales de extinción de incendios.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 102.
 
-Se requerirá uno o más sistemas fijos contra incendios en los siguientes casos:
-
-I. En edificios de riesgo bajo con superficie de 3,000 metros cuadrados o más;
-
-II. En edificios de riesgo medio con superficie de 2,000 metros cuadrados o más;
-
-III. En edificios o instalaciones de riesgo alto, sin importar su superficie o altura;
-
-IV. En edificios de tres niveles en adelante;
-
-V. En edificios no incluidos en puntos anteriores, pero que tras una previa valoración de los riegos, la Dirección determine la necesidad de que sea protegido con instalaciones fijas de protección contra incendios; y
-
-VI. En los demás que señale este Reglamento.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 103.
 
-Los Sistemas de mangueras, conexiones o hidrantes para combate de incendios deben contar con una o más fuentes de abastecimiento de agua, equipo de bombas y sistema de tuberías con sus dispositivos y controles. La red hidráulica del sistema contra incendios deberá ser independiente de la red de abastecimiento normal para el edificio.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 104.
 
-Los sistemas de mangueras, conexiones e hidrantes deben cumplir con los requerimientos y especificaciones indicados en las normas técnicas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 105.
 
-Los sistemas de mangueras contra incendios requeridos serán los de tubería húmeda y operación automática, pudiendo permitirse sistemas de operación remota o sistemas secos, si así lo autoriza la Dirección en base a las normas técnicas, los cuales deberán contar con los siguientes componentes:
-
-I. Depósito para almacenamiento del agua necesaria para suministrar el caudal contra incendios requerido, durante un tiempo de treinta minutos a dos horas de acuerdo al riesgo del incendio;
-
-II. Equipo de bombeo contra incendios, ya sea bomba con motor de combustión interna o con motor eléctrico, con potencia para mantener un caudal mínimo contra incendios, a la presión de bombeo requerida de acuerdo al cálculo hidráulico del sistema;
-
-III. Bomba eléctrica para mantener la presión estática del sistema;
-
-IV. Conexión siamesa;
-
-V. Cabezal para pruebas del sistema;
-
-VI. Red de tuberías para alimentar mangueras contra incendio, con diámetros de acuerdo al cálculo hidráulico y de material aprobado para uso en redes contra incendio; y
-
-VII. Estaciones de manguera contra incendio, suficientes para la protección completa de cada uno de los niveles del edificio, incluyendo sótanos y azoteas, considerando obstáculos y divisiones internas para determinar el alcance real de tramos de manguera.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 106.
 
-La instalación de un sistema de rociadores automáticos en un edificio, permitirá, cuando así lo establezcan las normas técnicas, y siempre y cuando lo autorice la Dirección:
-
-I. El incremento, si así lo desea el interesado, del número de niveles o área de piso del edificio;
-
-II. Reducir requerimientos de resistencia al fuego en construcciones;
-
-III. Reducir la resistencia al fuego de muros corta fuego y aumentar aberturas en los mismos;
-
-IV. Reducir requerimientos de salidas, aumentar longitud permisible de pasillo ciegos en su caso;
-
-V. Incrementar espaciamiento entre hidrantes contra incendios; y
-
-VI. Eliminar o reducir requerimientos de dispositivos de seguridad, de construcción o diseño del edificio.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 107.
 
-Los sistemas de rociadores automáticos deberán ajustarse a los requerimientos y especificaciones indicados por las normas técnicas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 108.
 
-Los desarrollos habitacionales, comerciales e industriales deberán contar con suficientes hidrantes exteriores contra incendios de banqueta, para conexión de mangueras del servicio de bomberos, con objeto de disponer del agua necesaria para combatir un siniestro.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 109.
 
-Los hidrantes exteriores instalados en la vía pública, deben ubicarse de acuerdo a lo siguiente:
-
-I. En áreas urbanas, el radio de cobertura por hidrante será de setenta y cinco metros, por lo que la máxima separación entre uno y otro deberá ser de ciento cincuenta metros;
-
-II. En áreas rurales, el radio de cobertura por hidrante será de ciento veinte metros, por lo que la máxima separación entre uno y otro deberá ser de doscientos cuarenta metros;
-
-III. En áreas industriales con alto riesgo de incendio se podrá reducir la separación máxima entre un hidrante y otro a setenta metros, y
-
-IV. Los hidrantes que se instalen en la vía pública deberán ubicarse preferentemente en esquinas y vialidades principales, evitando instalarlos en calles cerradas y callejones de servicio.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 110.
 
-Los hidrantes exteriores privados para la protección de edificios comerciales, industriales o de gran concurrencia, se ubicarán en base a lo siguiente:
-
-I. La separación entre hidrante y edificio no será menor a quince metros, ubicándolos en sitios donde no puedan ser obstruidos por vehículos;
-
-II. Se establecerán áreas cercanas a hidrantes y conexiones siamesas, al frente del edificio protegido, para uso exclusivo de vehículos de emergencia y de máquinas extinguidoras;
-
-III. Los hidrantes exteriores instalados en áreas de estacionamiento deberán protegerse con barreras o postes para evitar daños a los mismos por circulación de vehículos; y
-
-IV. Se deberá evitar su instalación en áreas de riesgo, donde pudiera haber subestaciones eléctricas, tanques de gas, almacenes químicos, u otras similares.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 111.
 
-Los hidrantes exteriores contra incendio podrán ser de columna húmeda o columna seca, debiendo contar con dos salidas de dos y media pulgadas de diámetro y una de cuatro pulgadas de diámetro, o su equivalente.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 112.
 
-La presión mínima en cualquier hidrante exterior contra incendios no debe ser inferior a quince metros columna de agua, cuando se realice maniobra de extracción de agua con máquina extinguidora o camión cisterna de bomberos.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 113.
 
-Los hidrantes exteriores contra incendio deberán conectarse a tuberías de alimentación de ciento cincuenta y dos milímetros o seis pulgadas de diámetro, permitiéndose la conexión a tuberías de cien milímetros o cuatro pulgadas de diámetro en casos especiales a criterio de la Dirección.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 114.
 
-Las normas técnicas establecerán la periodicidad de mantenimiento, inspección y pruebas de operación requeridas para los sistemas fijos contra incendios.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ### CAPITULO III. DE LOS SISTEMAS DE DETECCION Y ALARMA CONTRA INCENDIOS
 
 ###### Artículo 115.
 
-Se requerirá la instalación de sistemas de alarma contra incendios, en aquellos edificios que por el grado de riego o volúmenes de ocupación se considere necesario, estableciéndose en las normas técnicas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 116.
 
-Independientemente del grado de riesgo, todo edificio deberá contar con un detector de incendios por lo menos.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 117.
 
-Se deberán instalar estaciones manuales de alarma contra incendios en vías de evacuación y a un costado de puertas de salidas de emergencia, no debiendo recorrer más de sesenta metros desde cualquier punto, en la misma planta del edificio, para alcanzar la estación manual de alarmas más cercana.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 118.
 
-Los sistemas de alarma contra incendios se aprobarán exclusivamente para ese fin. Se podrán utilizar estaciones manuales de alarma, estaciones para rondines de vigilancia, o ambas de acuerdo a las normas técnicas respectivas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 119.
 
-Las estaciones manuales de alarma contra incendios de un edificio deberán ser en general del mismo tipo, e instalarse en sitio visible, accesible y señalizado de acuerdo a las normas oficiales vigentes.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 120.
 
-El sistema de alarma contra incendios deberá activar una señal general audible; en caso de considerarse necesario, la Dirección requerirá adicionalmente la instalación de sistema con señal visual.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 121.
 
-La señal de alarma contra incendios debe ser audible en todo el edificio, a excepción de los casos indicados por las normas técnicas respectivas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 122.
 
-En los sistemas de alarma y detección de incendios se deberá cumplir con las especificaciones de instalación, operación y mantenimiento indicadas en las normas técnicas respectivas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ### CAPITULO IV. DE LAS VIAS DE EVACUACION
 
 ###### Artículo 123.
 
-Los edificios a los que hace referencia este reglamento deberán contar con las vías de salida necesarias para que sus ocupantes, en caso de emergencia, puedan salir desde cualquier punto del edificio hacia la vía pública o hacia un área abierta que conduzca a la misma, en forma rápida, segura y sin obstáculos.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 124.
 
-Para calcular el número de salidas de emergencia requerido deberán tomarse en cuenta los siguientes factores:
-
-I. Tipo de ocupación del edificio;
-
-II. Capacidad máxima de ocupantes; y
-
-III. Distancia máxima a recorrer hasta la salida más cercana.
-
-De acuerdo con lo anterior, se establecerá en las normas técnicas la cantidad de salidas de emergencia que se requerirán en cada caso.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 125.
 
-Los edificios en general, excepto las casas habitación unifamiliares y los que en su caso indiquen las normas técnicas, deberán contar con un mínimo de dos vías de salida en cada planta, tan lejanas e independientes entre sí como sea posible.
-
-Los edificios de tres o más niveles deberán contar con escalera de emergencia, independientemente de las vías de acceso normal.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 126.
 
-La mitad, por lo menos de las puertas de salida de emergencia, tanto en número como en capacidad, conducirán directamente al exterior; ya sea a la vía pública o a un espacio abierto.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 127.
 
-En las vías de evacuación se deberá cumplir con las disposiciones que al respecto establezca la reglamentación municipal en materia de edificaciones, así como las normas que señala el presente Reglamento.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 128.
 
-Las vías de evacuación deberán protegerse contra las llamas, el calor y el humo, dicha protección deberá resistir por lo menos el tiempo necesario para que el edificio sea desocupado, por lo que se ajustarán a los requerimientos en acabados y de compartimentación indicados en este Reglamento.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 129.
 
-En aquellos edificios en los que debido a su altura o extensión, la evacuación no pueda ser el primer mecanismo de protección para los ocupantes, deberán ser compartimentados con barreras corta fuego y contra humo para crear áreas seguras.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 130.
 
-El diseño de las vías de evacuación y salidas de emergencia, deberá tomar en cuenta situaciones especiales que pudieran disminuir la seguridad personal de los ocupantes de edificio, tales como:
-
-I. La incapacidad física de los ocupantes para abandonar el edificio en condiciones seguras o por sí solos, en hospitales, asilos, guarderías maternales y demás similares;
-
-II. Impedimentos físicos;
-
-III. Aglomeración del público en sitios con los que no están familiarizados; y
-
-IV. Incendios cuando los ocupantes pudieran encontrase durmiendo, requiriendo de protecciones extras debido al tiempo que necesitan las personas para despertar y reaccionar, en edificios como casa-habitación, departamentos, hoteles, moteles, pensiones y demás similares.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 131.
 
-Las puertas de salida deben abrir en el sentido de evacuación en cualquiera de los siguientes casos:
-
-I. Se utilicen en un cerramiento de salida;
-
-II. En área con ocupación igual o superior a cincuenta personas; o
-
-III. En área considerada de alto riesgo.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 132.
 
-Las puertas de salidas de emergencia deberán operarse sin el uso de llaves o dispositivos semejantes, y su apertura será sencilla incluso en la obscuridad.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 133.
 
-Los pasillos ciegos no deberán tener más de seis metros de longitud, pudiendo permitirse pasillos ciegos de hasta quince metros cuando la edificación se encuentre protegida con rociadores automáticos.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 134.
 
-Se permitirá que una vía de evacuación atraviese áreas de almacenamiento para alcanzar una salida de emergencia, cuando se cumpla con los siguientes requisitos:
-
-I. Si existe por lo menos otra vía de evacuación como alternativa;
-
-II. Si no hay posibilidad de que el almacén esté cerrado;
-
-III. Si el pasillo principal hacia la salida de emergencia está libre de obstáculos y mida más de 1.10 metros de ancho, y
-
-IV. Si el recorrido por el almacén hacia la salida de emergencia es obvio y sin complicaciones.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 135.
 
-Los edificios deberán contar con señalizaciones para identificar vías de evacuación y salidas de emergencia, las cuales deberán instalarse en pasillos y áreas comunes, a cada treinta metros como máximo, debiendo indicar claramente la ruta hacia la salida más cercana. Las señalizaciones deben cumplir con las especificaciones indicadas por la norma oficial.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 136.
 
-En la señalización se deberá tomar en cuenta la altura y direccionamiento en que se instale la misma, de manera que puedan ser vistas sin dificultad desde cualquier punto del área donde se encuentren, de lo contrario deberán instalarse señalizaciones adicionales.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 137.
 
-En los edificios que operen en horarios nocturnos, o que por sus características no utilicen la iluminación natural durante el día, las señalizaciones requeridas deberán ser de tipo fotoluminiscente o de tipo luminoso con batería de emergencia, ya sea iluminación interna o externa.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 138.
 
-Las vías de evacuación y salidas de emergencia en los edificios a que hace referencia el presente Reglamento, deberán contar con dispositivos aprobados para iluminación de emergencia, excepto en los siguientes casos:
-
-I. En casa habitación;
-
-II. En edificios con operación exclusivamente en horarios diurnos y con medios para captar suficiente iluminación natural;
-
-III. En vías de evacuación abiertas o semiabiertas, sin obstáculos o desniveles; y
-
-IV. En áreas con salida directa al exterior, donde por tener reducida ocupación y el recorrido hacia la salida sea obvio, la Dirección no considere necesaria la iluminación de emergencia.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 139.
 
-Los dispositivos para iluminación de emergencia de las vías de evacuación, deberán mantener el nivel mínimo de iluminación, el cual nunca deberá ser menos a 10 luxes o 1 Footcandle, por un periodo de noventa minutos como mínimo, los cuales deberán funcionar en caso de fallar el sistema de iluminación normal del edificio.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ###### Artículo 140.
 
-La operación, pruebas y mantenimiento del sistema de iluminación de emergencia deberá cumplir con las especificaciones de las normas técnicas respectivas.
+(DEROGADO, P.O. 24 DE JUNIO DE 2005)
 
 ## TRANSITORIOS
 
@@ -1653,4 +1407,14 @@ A T E N T A M E N T E
 
 LIC. LUIS CHIANG RODRÍGUEZ
 
-SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
+SECRETARIO DEL XVII AYUNTAMIENTO
+
+DE MEXICALI, BAJA CALIFORNIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JUNIO DE 2005.
+
+Primero: Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo: Quedan abrogadas todas aquellas disposiciones municipales que se opongan a lo dispuesto por el presente reglamento.
