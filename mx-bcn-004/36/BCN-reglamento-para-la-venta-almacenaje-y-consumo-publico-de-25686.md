@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2005-06-03"
+last_updated: "2005-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2005 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2005.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JUNIO DE 2005.</small>
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -92,6 +92,10 @@ ESTUDIO DE IMPACTO SOCIAL: Es el documento expedido por la Dirección General de
 EVENTO: Es el suceso mediante el cual las personas realizan Espectáculos Públicos, Bailes Públicos, Ferias, Variedades o Diversiones Análogas en los cuales se expenden bebidas alcohólicas por un determinado lapso de tiempo.
 
 PERMISO EVENTUAL PARA ESPECTACULOS PÚBLICOS, FERIAS, BAILES PÚBLICOS, VARIEDADES O DIVERSIONES ANALOGAS: Autorización por escrito expedida por el Presidente Municipal para expender bebidas alcohólicas en lugares que no cuenten con giro autorizado, limitado este a la realización temporal de un solo evento y que se organicen en favor de Instituciones Altruistas o de Mejoramiento Social, Asociaciones Civiles, Religiosas, Clubes, Organizaciones Deportivas, Partidos Políticos o persona física o moral legalmente constituida, con excepción de los lugares no autorizados por la ley.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+PERMISO EVENTUAL GASTRONOMICO: Es aquel que otorga el Cabildo para la venta y consumo de bebidas alcohólicas preferentemente de producción regional o nacional, de acuerdo al procedimiento que contempla el presente ordenamiento para los permanentes, por un termino que no excederá de 90 días naturales improrrogables.
 
 FERIA: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo de la Ciudad o el Estado, en el que se puede expender bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno.
 
@@ -169,15 +173,15 @@ IV.- Dirección General de Gobierno, y
 
 V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
-
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 8.
 
 Son facultades del Ayuntamiento:
 
-I.- Otorgar o negar en ejercicio de la facultad plena de Cabildo y de la autonomía municipal los permisos a que se refiere el artículo 10 de la ley, atendiendo al orden público e interés social, así como los cambios de domicilio y las revocaciones de los mismos;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+I.- Otorgar o negar en ejercicio de la facultad plena de Cabildo y de la Autonomía Municipal los permisos a que se refiere el Artículo 10 de la Ley, y el presente ordenamiento, atendiendo al orden público e interés social, así como los cambios de domicilio y las revocaciones de los mismos;
 
 II.- Autorizar las ampliaciones de horarios permanentes según corresponda a cada giro;
 
@@ -449,15 +453,27 @@ La Dirección de Regulación Municipal, podrá autorizar horarios extraordinario
 
 ### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 21.
 
 El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos para la venta, almacenaje y venta para consumo público de bebidas alcohólicas, así como los cambios de domicilio de los establecimientos que cuenten con el permiso correspondiente.
 
-El cabildo decidirá, el otorgar o negar la solicitud sobre el permiso para la venta, almacenaje o venta para consumo público, de bebidas alcohólicas, los cambios de domicilio, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
-ARTICULO 21 BIS.- N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.
+El cabildo decidirá, el otorgar o negar la solicitud sobre el permiso permanente o eventual gastronómico, para la venta, almacenaje o venta para consumo público, de bebidas alcohólicas, los cambios de domicilio, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+ARTICULO 21 BIS.- El permiso eventual gastronómico, se podrá otorgar cuando la actividad solicitada se refiera exclusivamente a los establecimientos cuyo giro sea la venta de alimentos preparados para consumo a que se refieren los incisos i, j y k del artículo 18 de este reglamento; dicho permiso contendrá esta condición, la mención de que es improrrogable e intransferible, así como la fecha de su vencimiento, entendiéndose que a partir de este vencimiento no podrá venderse bebidas alcohólicas de ninguna especie.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+El permisionario eventual gastronomico obtendrá el permiso permanente, si dentro del plazo de vigencia del eventual referido, realiza el pago de los derechos correspondientes al permanente.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+Si pasado el plazo, no se realizo el pago de derechos correspondientes a un permiso permanente, el interesado deberá realizar de nueva cuenta el trámite desde su inicio. No se podrá solicitar permiso eventual gastronómico de manera inmediata en el mismo domicilio.
 
 ###### ARTICULO 22.
 
@@ -533,25 +549,29 @@ Una vez elaborado el estudio de impacto social e integrado el expediente, éste 
 
 Elaborado el Dictamen de Comisión se turnará al Secretario del Ayuntamiento quien deberá incluirlo en el orden del día de la próxima inmediata sesión ordinaria de Cabildo para su resolución, la cual deberá ser notificada por la autoridad municipal en forma personal al solicitante en un término de 5 días.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 31.
 
-Los interesados a quienes el Ayuntamiento les haya autorizado permisos, deberán comparecer ante la autoridad municipal a recibirlos en un plazo no mayor de 30 días a partir de la fecha de notificación, previo pago de los derechos correspondiente (sic) de acuerdo a la Ley de Ingresos vigente para el Municipio de Tijuana, en caso de que transcurra dicho término sin que haya sido peticionada su entrega, se procederá a la revocación del mismo.
+Los interesados a quienes el Ayuntamiento les haya autorizado permisos, deberán comparecer ante la Autoridad Municipal a recibirlos en un plazo no mayor de 30 días a partir de la fecha de notificación, previo pago de los derechos correspondiente (sic) de acuerdo a la ley de ingresos vigente para el Municipio de Tijuana, en caso de que transcurra dicho término sin que haya sido peticionada su entrega sin causa justificada, quedara sin efecto el mismo y se tendrá que iniciar nuevamente, en su caso el tramite.
 
-Una vez entregado dicho permiso al interesado este lo deberá presentar ante la Dirección de Administración Urbana a efecto de que se dé alta (sic) la actividad autorizada en su licencia de operación municipal.
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+Una vez entregado dicho permiso al interesado este lo deberá presentar ante la Dirección de Administración Urbana a efecto de dar de alta la actividad autorizada en su licencia de operación municipal, con excepción de los permisos eventuales gastronómicos.
 
 ###### ARTICULO 32.
 
 El giro cuya operación haya sido autorizada por el Ayuntamiento, deberá iniciar su actividad en un plazo no mayor de sesenta días contados a partir de la entrega del permiso respectivo. En caso de no iniciarse la operación del giro en el plazo mencionado se aplicaran las medidas de apremio y sanciones a que se refiere el presente ordenamiento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 33.
 
 Los permisos autorizados por el Ayuntamiento serán entregados por el Secretario del Ayuntamiento al solicitante, debiendo contener dichos permisos los siguientes datos:
 
-a).- Nombre del titular;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+a).- Nombre del titular, y cuando se trate de persona física fotografía del mismo;
 
 b).- Nombre comercial del establecimiento;
 
@@ -576,6 +596,10 @@ k).- Firma del Presidente Municipal y del Secretario del Ayuntamiento;
 l).- Llevara la siguiente leyenda: "En caso de cesión de derechos el titular del presente permiso, deberá previamente dar aviso por escrito a la Secretaría del Ayuntamiento, para conocer sobre la situación actual del permiso de acuerdo a la ley y el reglamento que regulan las bebidas alcohólicas", y
 
 m).- Sello de la Secretaría del Ayuntamiento.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+Para el caso de los permisos eventuales gastronómicos, estos deberán contener los mismos datos que el permanente, así como lo previsto en el artículo 21 Bis, con excepción de lo establecido en el inciso l) de este mismo artículo.
 
 ###### ARTICULO 34.
 
@@ -605,11 +629,11 @@ En caso de extravío, robo o destrucción del permiso original, el titular del m
 
 El Presidente Municipal por conducto de la Secretaría del Ayuntamiento o la Dirección General de Gobierno, podrá otorgar, negar o revocar permisos eventuales para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, en donde se vendan, consuman o degusten, bebidas alcohólicas.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 37.
 
-Para la expedición de permisos eventuales el interesado deberá solicitarlo cuando menos con 10 días hábiles de anticipación a la celebración del evento, presentando la solicitud por escrito ante la Secretaría del Ayuntamiento, de acuerdo al formato expedido por la Dirección General de Gobierno en el que señale su nombre, domicilio particular, lugar del evento; asimismo deberá informar la causa o motivo del evento, duración, área de servicio del evento y horario deseado, además deberá cumplir con los siguientes requisitos de acuerdo al tipo de evento solicitado:
+Para la expedición de permisos eventuales para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, el interesado deberá solicitarlo cuando menos con 10 días hábiles de anticipación a la celebración del evento, presentando la solicitud por escrito ante la Secretaría del Ayuntamiento, de acuerdo al formato expedido por la Dirección General de Gobierno en el que señale su nombre, domicilio particular, lugar del evento; asimismo deberá informar la causa o motivo del evento, duración, área de servicio del evento y horario deseado, además deberá cumplir con los siguientes requisitos de acuerdo al tipo de evento solicitado:
 
 a).- Para eventos sociales deberá:
 
@@ -641,15 +665,15 @@ c).- Para espectáculos públicos o diversiones análogas:
 
 5.- Se deberá garantizar el crédito fiscal estimado por la tesorería municipal mediante fianza mercantil otorgada por compañía afianzadora acreditada en el Municipio para eventos de más de 5000 personas.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
-
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 38.
 
-El permiso eventual que se expida contendrá el nombre de la persona física o moral a favor de quien se otorgue, la duración, lugar y horario de funcionamiento del evento a realizarse, el tipo de bebidas alcohólicas autorizadas, la delimitación del área especifica donde se expenderán las bebidas alcohólicas, en su caso la prohibición de entrada a menores de edad, la firma del Presidente Municipal y la del Secretario del Ayuntamiento, así mismo llevara estampado el sello de la Secretaría.
+El Permiso eventual para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, que se expida contendrá el nombre de la persona física o moral a favor de quien se otorgue, la duración, lugar y horario de funcionamiento del evento a realizarse, el tipo de bebidas alcohólicas autorizadas, la delimitación del área específica donde se expenderán las bebidas alcohólicas, en su caso la prohibición de entrada a menores de edad, la firma del Presidente Municipal o la del Secretario del Ayuntamiento o la del Director General de Gobierno, así mismo llevara estampado el sello de la Secretaria.
 
-El permiso se otorgara previo pago de derechos de acuerdo a las tarifas establecidas para el evento a realizarse en la Ley de Ingresos Municipal vigente.
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
+Los permisos eventuales se otorgarán previo pago de los derechos de acuerdo a lo establecido en la Ley de Ingresos Municipal.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
 
