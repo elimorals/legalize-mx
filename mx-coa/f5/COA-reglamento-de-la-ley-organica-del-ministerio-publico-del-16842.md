@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-organica-del-ministerio-publico-del-16842"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-23"
-last_updated: "2003-06-27"
+last_updated: "2005-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 23 de noviembre de 1999.
 
@@ -2552,3 +2554,15 @@ P.O. 27 DE JUNIO DE 2003.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 24 DE JUNIO DE 2005.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica del Ministerio Público, publicado en el Periódico Oficial del Gobierno del Estado número 94 del veintitrés de noviembre de mil novecientos noventa y nueve; y se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO. La Dirección General para la Investigación y Combate al Narcomenudeo prevista en este Reglamento, iniciará sus operaciones una vez que se aprueben y entren en vigor las reformas a la Constitución General de la República en materia de concurrencia de delitos contra la salud, así como las correspondientes al Código Penal Federal y a la Ley General de Salud.
+
+CUARTO. El Procurador queda facultado para resolver las cuestiones que se susciten con motivo de la aplicación de este Reglamento o de los manuales que para el efecto se expidan.
+
+QUINTO. Se exime la publicación de la relación de las agencias del Ministerio Público que operan en la entidad, toda vez que el presente Reglamento no modifica la existencia y ubicación de las actuales.
