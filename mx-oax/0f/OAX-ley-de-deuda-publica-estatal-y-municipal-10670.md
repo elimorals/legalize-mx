@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2005-03-22"
+last_updated: "2005-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -137,7 +137,9 @@ IV.- Reconocer y autorizar el pago de la deuda pública;
 
 V.- Solicitar informes para revisar y aprobar el uso y destino de los recursos financieros contratados por el Ejecutivo del Estado, Municipios y Organismos Descentralizados de ambos niveles de gobierno;
 
-VI.- Autorizar la afectación en garantía del pago, tanto de las participaciones en ingresos federales que correspondan al Estado o al Municipio, así como de los bienes del dominio privado propiedad de los entes públicos en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2005)</small>
+
+VI.- Autorizar la afectación como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales le corresponden al Estado o al Municipio, así como de los bienes de dominio privado de los entes públicos en los términos de la legislación aplicable;
 
 VII.- Autorizar montos de endeudamiento adicionales a los previstos en la Ley de Ingresos vigente al tiempo de su presentación, únicamente por circunstancias extraordinarias que así lo exijan;
 
@@ -171,7 +173,9 @@ III.- Formular el capítulo de deuda pública que se incluirá en el Presupuesto
 
 IV.- Celebrar los convenios y suscribir los documentos o títulos de crédito necesarios para formalizar las operaciones de reestructuración de los financiamientos adquiridos directa, indirecta o contingentemente;
 
-V.- Afectar en garantía de pago las participaciones que en ingresos federales le corresponden al Estado como resultado de las obligaciones de pasivo contraídas en forma directa o como avalista; así como dar en garantía los bienes del dominio privado estatales, que haya autorizado la Legislatura;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2005)</small>
+
+V.- Afectar como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales le correspondan al Estado, como resultado de las obligaciones de pasivo contraídas en forma directa o como avalista; así como dar en garantía los bienes de dominio privado, estatales que haya autorizado la Legislatura;
 
 VI.- Efectuar los pagos de las obligaciones contraídas por los Municipios cuando éstos así lo soliciten, dichos pagos se efectuarán descontándolos de las participaciones que les correspondan. Asimismo en caso de incumplimiento de los financiamientos contraídos, efectuar los pagos de las obligaciones garantizadas con afectación de las participaciones;
 
@@ -333,19 +337,23 @@ Los entes públicos, deberán indicar claramente, los recursos que se utilizará
 
 El Ejecutivo del Estado a través de la Secretaría de Finanzas, los Municipios a través de la Unidad Administrativa representativa, los Organismos de la Administración Pública Paraestatal y los Organismos Descentralizados Municipales, al presentar la solicitud de autorización de endeudamiento a que se refiere esta Ley, deberán señalar las garantías que otorgarán a los acreedores, para que la Legislatura Local proceda al análisis de dicha solicitud.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2005)</small>
+
 ###### Artículo 24.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los Municipios a través de la Unidad Administrativa representativa, podrán afectar en garantía las participaciones que en ingresos federales les correspondan, así como aquellos bienes del dominio privado de su propiedad, siempre y cuando se cumplan los requisitos que señala la presente Ley y demás disposiciones aplicables. Asimismo, deberán inscribir dichas obligaciones en el Registro Único de Obligaciones y Financiamientos de la Secretaría de Finanzas.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los Municipios a través de la Unidad Administrativa representativa, podrán afectar como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales les correspondan, así como aquellos bienes del dominio privado de su propiedad, siempre y cuando se cumplan los requisitos que señala la presente Ley y demás disposiciones aplicables. Asimismo, deberán inscribir dichas obligaciones en el Registro Unico de Obligaciones y Financiamientos de la Secretaría de Finanzas.
 
 ###### Artículo 25.
 
 El ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá otorgar aval para garantizar operaciones de deuda pública de los Municipios o de los Organismos de la Administración Pública Paraestatal. Asimismo, los Municipios a través de los Ayuntamientos, podrán otorgar aval a sus Organismos Descentralizados Municipales para el mismo efecto; siempre y cuando, en ambos casos, los recursos que se obtengan, sean destinados a proyectos públicos productivos y se encuentren dentro del programa financiero de actividades de dichos entes, dando cumplimiento a las disposiciones de la presente Ley.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2005)</small>
+
 ###### Artículo 26.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá establecer mecanismos de garantía con afectación de las participaciones que en ingresos federales le correspondan, siempre y cuando, dicha afectación esté autorizada por la Legislatura del Estado y no se contraponga a lo dispuesto por la Ley de Coordinación Fiscal Federal.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá establecer mecanismos para afectar como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales le correspondan al Estado, siempre y cuando, dicha afectación esté autorizada por la Legislatura del Estado mediante la Ley de Ingresos del Estado de Oaxaca o a través de un decreto especifico, y dicha afectación no se contraponga a lo dispuesto en la Ley de Coordinación Fiscal Federal.
 
-Los mecanismos de garantía a que se refiere el presente Artículo, deberán ajustarse al Artículo 9 de la Ley de Coordinación Fiscal Federal.
+Los mecanismos a que se refiere el presente artículo, deberán sujetarse al artículo 9 de la Ley de Coordinación Fiscal Federal.
 
 ### CAPÍTULO VI. DEL REGISTRO ÚNICO DE OBLIGACIONES Y FINANCIAMIENTOS
 
@@ -387,13 +395,19 @@ IV.- Que se hayan cumplido, todos los requisitos señalados en esta Ley, para la
 
 Una vez integrado el expediente respectivo, la Secretaría de Finanzas del Estado, resolverá sobre la procedencia de la inscripción y notificará a las partes interesadas, su resolución. La Secretaría de Finanzas anotará en los documentos, materia de la inscripción, la constancia relativa, conservando copia de los mismos.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2005)</small>
+
 ###### Artículo 34.
 
-Las obligaciones crediticias a cargo del Estado y de los Municipios, inscrita en el Registro Único de Obligaciones y Financiamientos, confiere a los acreditantes, el derecho a que los adeudos, en caso de incumplimiento, se cubran con cargo a las participaciones afectadas en garantía, deduciendo su importe de las que les correspondían, siempre y cuando, se cumpla con lo estipulado en el Artículo 9 de la Ley de Coordinación Fiscal Federal. Para este efecto, el acreditante deberá presentar solicitud por escrito, de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente al deudor. La Secretaría de Finanzas, confirmará la mora existente y en su caso, efectuará el pago respectivo con cargo a las participaciones afectadas, informándole al titular del ente deudor.
+Las obligaciones constitutivas de deuda pública a cargo del Estado y de los Municipios, inscritas en el Registro Único de Obligaciones y Financiamientos, confieren a los acreedores que no cuenten con un fideicomiso u otro mecanismo de afectación de participaciones como fuente de pago o garantía, el derecho a que los adeudos, en caso de incumplimiento, se cubran con cargo a las participaciones afectadas en garantía, deduciendo su importe de las que les correspondan, siempre y cuando, se cumpla con lo estipulado en el artículo 9 de la Ley de Coordinación Fiscal Federal. Para este efecto, el acreditante deberá presentar solicitud por escrito, de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente al deudor. La Secretaría de Finanzas, confirmará la mora existente y en su caso, efectuará el pago respectivo con cargo a las participaciones afectadas, informándole al titular del ente deudor.
+
+El procedimiento a que se refiere el párrafo anterior no será aplicable tratándose de acreedores que cuenten con un fideicomiso u otro mecanismo de afectación de participaciones como fuente de pago o garantía, caso en el cual será aplicable el procedimiento establecido en el fideicomiso o mecanismo de que se trate.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2005)</small>
 
 ###### Artículo 35.
 
-En caso de incumplimiento, los acreedores de los entes a que se refiere el Artículo anterior, podrán solicitar a la Secretaría de Fianzas (sic), el pago de las obligaciones contratadas e incumplidas, siempre y cuando, estén inscritas en el Registro Único de Obligaciones y Financiamientos. Para tal efecto, los acreedores, deberán justificar plenamente el incumplimiento de que se trate.
+En caso de incumplimiento, los acreedores de los entes a que se refiere el primer párrafo del Artículo anterior, podrán solicitar a la Secretaría de Finanzas, el pago de las obligaciones contratadas e incumplidas, siempre y cuando, estén inscritas en el Registro Único de Obligaciones y Financiamientos. Para tal efecto, los acreedores antes referidos, deberán justificar plenamente el incumplimiento de que se trate.
 
 TRANSITORIOS:
 
@@ -452,3 +466,9 @@ AL C......
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones contenidas en el presente Decreto serán aplicables para todas las obligaciones constitutivas de deuda pública contratadas por el Estado de Oaxaca y los Municipios del Estado de Oaxaca que se encuentren vigentes, en todo lo que no se opongan.
