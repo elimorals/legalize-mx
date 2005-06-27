@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4188
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-01"
-last_updated: "2004-11-01"
+last_updated: "2005-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD MUNICIPIO DE GENERAL TREVIÑO, N.L
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de noviembre de 2004.
 
@@ -1253,671 +1253,107 @@ V.- La licencia de conducir podrá ser retirada por los elementos de la Direcci�
 
 VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general de la región, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-TABULADOR
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-INFRACCIÓN ART. FRACC. INCISO SANCIÓN
+TABLA DE MULTAS GRAL. TREVIÑO, N. L.
 
-Abandonar vehículo en
+01.- Manejar sin licencia 2 salarios mínimos
 
-vía publica 89 IV I
+02.- No portar tarjeta de circulación 2 salarios mínimos
 
-Abastecer de gas butano
+03.- Manejar a exceso de velocidad en zona escolar 5 salarios mínimos
 
-en vía pública a vehículos 7 XIII
+04.- Manejar a exceso de velocidad 4 salarios mínimos
 
-Abrir zanjas o realizar trabajos sin
+05.- Manejar ebrio completo 13 salarios mínimos
 
-autorización 7 VI
+06.- Manejar ebrio incompleto 8 salarios mínimos
 
-Altera, derribar, cubrir o cambiar de
+07.- Manejar con aliento alcohólico 3 salarios mínimos
 
-posición las señales o dispositivos
+08.- Ocupantes de vehículo en marcha
 
-para el control del tránsito 7 I
+arrojando objetos fuera de el 3 salarios mínimos
 
-Anunciar con equipo de sonido sin
+09.- Ingerir bebidas alcohólicas dentro
 
-autorización 7 XII
+de un vehículo en marcha 2 salarios mínimos
 
-Arrancar o frenar repentinamente sin
+10.- No respetar el rotulo de alto 3 salarios mínimos
 
-necesidad 27 XIII
+11.- No obedecer las señales del Agente de
 
-Bajar o subir pasaje en lugar
+Tránsito (Policía) 4 salarios mínimos
 
-prohibido 39
+12.- Manejar vehículo un menor de edad 3 salarios mínimos
 
-Bajar o subir pasaje dentro del Municipio
+13.- Jugar carreras con otro vehículo 13 salarios mínimos
 
-los vehículos de servicio público
+14.- Estacionarse en lugar prohibido 2 salarios mínimos
 
-federal de pasajeros 68
+15.- Circular sin placas 2 salarios mínimos
 
-Circular a baja velocidad
+16.- Por chocar y huir 8 salarios mínimos
 
-obstaculizando
+17.- Circular en sentido contrario 3 salarios mínimos
 
-circulación 28 XVII
+18.- Invadir carril contrario 2 salarios mínimos
 
-Circular atrás o a los lados de vehículo
+19.- Circular sin luces generales 3 salarios mínimos
 
-con sirena 28 XII
+20.- Falta de luces posteriores 2 salarios mínimos
 
-Circular con dispositivos de tablero en
+21.- No ceder el paso a los peatones cuando
 
-mal estado 19 IX
+estos tienen derecho 2 salarios mínimos
 
-Circular con exceso en dimensiones,
+22.- No hacer cambio de luces 2 salarios mínimos
 
-por cada cincuenta centímetros o
+23.- Dar vuelta en “U” en lugar prohibido 2 salarios mínimos
 
-fracción 20
+24.- Rebasar la línea de paso para peatones 2 salarios mínimos
 
-Circular con exceso de peso por cada
+25.- Efectuar reversa más de 10 metros 2 salarios mínimos
 
-quinientos kilos 20
+26.- Viajar más de 3 personas en vehículos de carga 2 salarios mínimos
 
-Circular con limpiavidrios en mal estado
+27.- Dañar o destruir señales oficiales de la
 
-o carecer de ellos c/u 19 X
+Dirección de Tránsito y Transporte 4 salarios mínimos
 
-Circular con luces altas en zona urbana
+28.- Estacionarse a la derecha en calles de una sola
 
-cuando haya
+circulación 2 salarios mínimos
 
-iluminación 72
+29.- Estacionarse a la izquierda en calles de
 
-Circular con luces prohibidas en la
+doble circulación 2 salarios mínimos
 
-parte posterior 21 II
+30.- Estacionarse en octavo 3 salarios mínimos
 
-Circular con luces prohibidas en la
+31.- Usar indebidamente el claxon 2 salarios mínimos
 
-parte delantera 21 I
+32.- Usar la sirena o faros de luz roja delanteros
 
-Circular con una luz indicadora de
+en vehículos no autorizados 8 salarios mínimos
 
-frenado 19 III B
+33.- Transitar con llantas metálicas sobre las calles pavimentadas,
 
-Circular con luz interior
+ya sea tracción mecánicas o animal 3 salarios mínimos
 
-encendida 19 III I
+34.- Por patinar, virar o frenar estrepitosamente 8 salarios mínimos
 
-Circular con llantas metálicas
+35.- Usar volumen excesivo de autoestéreo 4 salarios mínimos
 
-o cadenas 21 III
+36.- Obstaculizar el tráfico vehicular 2 salarios mínimos
 
-Circular con mofle o sistema de escape
+37.- Falta de respeto a la Autoridad 3 salarios mínimos
 
-ruidoso o defectuoso 19 XII
+38.- Circular en un vehículo de motor sobre una
 
-Circular con objetos que impiden visibilidad
+Plaza Pública Municipal 15 salarios mínimos
 
-del conductor 21 VII
-
-Circular con parabrisas astilIado o
-
-sombreado 19 VIII
-
-Circular con permiso
-
-vencido 9 IV
-
-Circular con piezas que puedan
-
-desprenderse 21 V
-
-Circular con placas
-
-alteradas 11
-
-Circular con placa (s) en el interior del
-
-vehículo 11
-
-Circular con placa (s)
-
-sobrepuesta (s) 14
-
-Circular con placa (s)
-
-vencida (s) 9 I
-
-Circular con puertas
-
-abiertas 27 II
-
-Circular con sirena los vehículos no
-
-autorizados 21 VI
-
-Circular con una luz delantera y/o
-
-trasera 19 III A y B
-
-Circular con vehículo en
-
-malas condiciones 19
-
-Circular en caravana sin dejar espacio
-
-reglamentario 28 XVIII
-
-circular en zona prohibida 66
-
-Circular en reversa más de lo autorizado o
-
-en lugar prohibido 63
-
-Circular en sentido
-
-contrario 27 X
-
-Circular fuera de ruta 68
-
-Circular ocupando
-
-dos carriles 27 IX
-
-Circular sin asientos
-
-reglamentarios 19 XVI
-
-Circular sin cadenas
-
-reglamentarias 19 XVII
-
-Circular sin colores o leyenda reglamentaria, para
-
-transporte escolar 19 XVIII
-
-Circular sin defensas
-
-metálicas 19 XIII
-
-Circular sin espejo
-
-retrovisor 19 XV
-
-Circular sin extinguidor contra incendio,
-
-(vehículos requeridos) 19 XI
-
-Circular sin luces delanteras y/o
-
-traseras 70
-
-Circular sin luces indicadoras de
-
-frenado 19 III B
-
-Circular sin luces y/o reflejantes
-
-especiales cada uno 19 III
-
-Circular sin luz (es) direccional (es)
-
-c/u 19 III C
-
-Circular sin luz iluminadora
-
-de placa 19 III F
-
-Circular sin malla protectora,
-
-transporte escolar 19 XVIII A
-
-Circular sin pantaloneras 19 XIV
-
-Circular sin placas 9 I
-
-Circular sin tapón en tanque
-
-de combustible 19 VI
-
-Circular sobre mangueras de
-
-bomberos banquetas, isletas,
-
-camellones, etc 28 XIII
-
-Circular zigzagueando 28 XIV
-
-Colocar anuncios que se confundan
-
-con señales 7 III
-
-Colocar artículos o dispositivos
-
-semejantes a placas 10
-
-Colocar luces o anuncios que deslumbren
-
-o distraigan 7 IV
-
-Colocar señales, boyas, bordos o
-
-dispositivos de tránsito sin
-
-autorización 7 II
-
-Conducir sin equipo necesario, en caso de
-
-minusválidos 19 XX
-
-Dar vuelta con exceso
-
-de velocidad 59 I C
-
-Efectuar competencias de vehículos sin
-
-autorización 28 VI
-
-Efectuar compraventa de vehículos en
-
-vía pública 7 XI
-
-Efectuar piruetas los
-
-motociclistas 30 II
-
-Efectuar ruidos molestos o insultativos
-
-con escape o claxon 28 VII
-
-Empalmarse con otro vehículo en un
-
-mismo carril 28 XIX
-
-Entorpecer marcha de desfiles,
-
-cortejos o eventos 28 V
-
-Estacionarse en área habitacional los vehículos de mas de cinco metros y cincuenta centímetros
-
-de largo 47
-
-Estacionarse en carril
-
-de circulación 44
-
-Estacionase en forma
-
-indebida 52
-
-Estacionarse en lugar
-
-Exclusive (sic) o prohibido 52 XIV
-
-Estacionarse más de dos vehículos:
-
-autobuses, omnibus en paradas o
-
-terminales 51
-
-Estacionar remolques o
-
-semiremolques sin estar unidos al
-
-vehículo que estira 48
-
-Estacionar vehículo sin
-
-cambio 43 V A
-
-Exceso de pasajeros 28 XXIV
-
-Exceso de velocidad en
-
-zona escolar 29
-
-Exceso de velocidad en
-
-zona urbana 29
-
-Expedir humo o ruido
-
-excesivo 28 XV
-
-Falta de calcomanía de placas y/o
-
-refrendo 9 III
-
-Falta de casco para motociclista o
-
-acompañante 30 I
-
-Falta de cinturón de seguridad o no
-
-usarlo 19 V
-
-Falta de luz de reversa 19 III G
-
-Falta de luz (es) especiales en
-
-transporte escolar 19 III K
-
-Falta de luz iluminadora
-
-de tablero 19 III J
-
-Falta de protección en zanjas o trabajos
-
-en vía pública 7 VI
-
-Falta de visibilidad en
-
-placas 11
-
-Hacer eventos en vía pública sin dar
-
-aviso 9
-
-Hacer servicio público con placas
-
-particulares 28 XX
-
-Hacer uso indebido del
-
-claxon 7 XIV
-
-Ingerir bebidas alcohólicas, pasajeros
-
-y ocupantes de vehículos privados o de servicio
-
-público 34 I
-
-Iniciar marcha sin
-
-precaución 27 XIV
-
-Instalar objetos que crucen la calle a una altura menor de cuatro metros con
-
-Sesenta centímetros 7 X
-
-Insultar o no respetar a personal de
-
-tránsito 27 I
-
-Intervenir en asuntos de tránsito,
-
-peatones y pasajeros 34 IX
-
-Interrumpir circulación 44
-
-Llevar personas u objetos entre su cuerpo y
-
-dispositivos de manejo 28 II
-
-Manejar bajo efectos de medicina que
-
-altere facultades 28 I
-
-Manejar bajo el influjo de drogas o
-
-sustancias tóxicas 28 I
-
-Manejar con aliento
-
-alcohólico 28 I
-
-Manejar con licencia de automovilista
-
-siendo chofer 23
-
-Manejar con licencia
-
-vencida 23
-
-Manejar ebrio completo 28 I
-
-Manejar sin licencia 23
-
-Mover vehículo
-
-accidentado 79 I
-
-Negarse a dar datos 79 VII
-
-Negarse a entregar la licencia de
-
-conducir 89 V
-
-Negarse a llenar reporte
-
-de accidente 79 VII
-
-No ceder el paso a invidentes o
-
-minusválidos 27 VI
-
-No ceder el paso al circular de
-
-reversa 64
-
-No ceder el paso a peatón al dar
-
-vuelta 59 I D
-
-No ceder el paso a peatón en zona de
-
-peatones 27 VII
-
-No ceder el paso a vehículo que entra de reversa a
-
-estacionamiento 64
-
-No dar aviso de accidente. 79 IV
-
-No dar aviso de recepción de persona
-
-lesionada 83
-
-No detenerse de
-
-transporte escolar con luces especiales
-
-encendidas 41
-
-No esperar intervención de oficial de tránsito en caso de
-
-accidente 79 VI
-
-No guardar distancia 65
-
-No hacer alto en vía de
-
-ferrocarril 69
-
-No hacer cambio de luces 71
-
-No hacer señales manuales al voltear o
-
-detenerse, cuando no haya luces
-
-direccionales 74 I B
-
-No pagar cuota de reloj
-
-estacionómetro 60
-
-No portar licencia 23
-
-No portar tarjeta de
-
-circulación 9 II
-
-No portar llanta de refacción o
-
-herramienta para cambio 19 I 5
-
-No prestar y/o solicitar ayuda para
-
-lesionados 79 II
-
-No proteger y/o abandonar vehículo estacionado por emergencia o
-
-accidentado 44 I y II
-
-No rebasar en un mismo carril, los
-
-motociclistas 30 V
-
-No reducir la velocidad ante concentraciones
-
-de peatones 27 XVI
-
-No reportar cambios, de propietario, domicilio, tipo de vehículo o servicio,
-
-Robo e incendio 18
-
-No respetar indicaciones de oficial de
-
-tránsito 27 I
-
-No respetar paso de vehículos sobre
-
-rieles 27 VIII
-
-No respetar sirena 57
-
-No usar anteojos o dispositivos
-
-requeridos 27 XI
-
-No usar freno de
-
-estacionamiento 43 V B
-
-No tener trato amable y cortes los pasajeros y ocupantes de
-
-vehículos 31
-
-Pasar en luz roja 75 III A, B, C
-
-Peatones, por
-
-faltas diversas 31 32
-
-Pasajeros mover controles de
-
-vehículo 34 VIII
-
-Permitir a terceros el uso de dispositivos de control
-
-de vehículo 28 XVI
-
-Portar radios con frecuencia de la Dependencia de
-
-tránsito 21 IV
-
-Portar tarjeta de circulación
-
-deteriorada 13
-
-Prestar placas. 14
-
-Proporcionar datos falsos en expedición de
-
-licencia 23
-
-Rebasar a vehículo detenido cediendo
-
-paso a peatones 58 IV
-
-Rebasar en forma
-
-prohibida 58 I C
-
-Registrar vehículo fuera del
-
-Municipio 9
-
-Remolcar o empujar vehículo los
-
-motociclistas 30 III
-
-Remolcar vehículos sin equipo
-
-especial 28 XXIII
-
-Reparar vehículos en vía
-
-pública 7 VII
-
-Separar lugar en estacionamiento no
-
-exclusivo 46
-
-Tirar basura o líquidos 7 V
-
-Traer semovientes sueltos 7 IX
-
-Transportar animales sueltos dentro del compartimiento
-
-de pasajeros 28 XXII
-
-Transportar cadáveres de animales en compartimiento
-
-de pasajeros 37 III
-
-Transportar carga que obstruya visión
-
-de conductor 36 I
-
-Transportar carga que se esparza sin
-
-mojarla o cubrirla 36 II
-
-Transportar carga que arrastre o pueda
-
-caerse 37 IV
-
-Transportar carga
-
-maloliente 37 II
-
-Transportar carga sin sujetarla
-
-adecuadamente 36 IV
-
-Transportar carga sobresaliente hacia
-
-atrás mas de lo permitido, por cada
-
-metro o fracción 36 V
-
-Transportar carga sobresaliente sin
-
-protección. 36 V
-
-Transportar explosivos o material
-
-peligroso sin autorización 36 III
-
-Transportar personas en lugar
-
-prohibido 28 IV
-
-Usar audífono al
-
-conducir 28 X
-
-Usar equipo de radio con frecuencia
-
-restringida 28 VIII
-
-Usar equipos de sonido cuyo nivel de
-
-volumen sea molesto 28 IX
-
-Uso innecesario de luz (es) direccional(es) o
-
-de emergencia 72
-
-Utilizar personas para proteger o sujetar
-
-carga 37 I
+39.- Transitar sobre una Plaza Pública Municipal montado en cualquier animas (sic) o bestia (excepto en desfiles) 10 salarios mínimos
 
 ###### ARTÍCULO 90.
 
@@ -2018,3 +1454,11 @@ C. PROFA. SILVIA GARZA RAMOS
 SRIA. DEL R. AYUNTAMIENTO
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
