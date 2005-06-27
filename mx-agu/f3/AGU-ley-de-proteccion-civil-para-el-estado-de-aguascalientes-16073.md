@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-16073"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-25"
-last_updated: "1999-07-25"
+last_updated: "2005-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE PROTECCION CIVIL
+LEY DE PROTECCION CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 25 de julio de 1999.
 
@@ -37,7 +37,9 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 
 La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, Fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo decreta:
 
-LEY DE PROTECCION CIVIL
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2005)</small>
+
+LEY DE PROTECCION CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -49,9 +51,11 @@ El propósito fundamental es fomentar la participación ciudadana junto con el G
 
 Para dar cumplimiento a las disposiciones contenidas en esta Ley, se crea el Sistema Estatal de Protección Civil en los términos y condiciones establecidas en el presente ordenamiento.
 
-###### ARTICULO 2º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2005)</small>
 
-La Protección Civil comprende el conjunto de acciones encaminadas a salvaguardar la vida de las personas, sus bienes y su entorno, así como el buen funcionamiento de los servicios públicos y equipamiento estratégico, ante cualquier evento destructivo de origen natural o generado por la actividad humana, a través de la capacitación, prevención, auxilio, recuperación y apoyo para el establecimiento de los servicios públicos, en el marco de los objetivos nacionales y de acuerdo al interés general del Estado y sus Municipios, por lo que se establece con atribuciones legales en el ámbito de su respectiva competencia, la Coordinación Estatal de Protección Civil para atender todo lo que implique riesgos generales a la población.
+###### ARTICULO 2°.
+
+La Protección Civil comprende el conjunto de disposiciones, medidas y acciones realizadas por la Administración Pública Estatal y los gobiernos municipales, en sus respectivos ámbitos de competencia en coordinación con los sectores social y privado, encaminadas a salvaguardar y proteger la vida de las personas, sus bienes y su entorno, así como el apoyo para la recuperación, el establecimiento o reestablecimiento de los servicios públicos, y equipamiento estratégico, ante cualquier evento destructivo de origen natural o generado por la actividad humana; en el marco de los objetivos nacionales y de acuerdo al interés general del Estado y sus municipios, por lo que se establece con atribuciones legales en el cambio de su respectiva competencia, la Coordinación Estatal de Protección Civil para atender todo lo que implique riesgos generales a la población.
 
 En los presupuestos anuales de egresos tanto del Gobierno del Estado como de los Municipios se asignarán las partidas presupuestales correspondientes a fin de dar cumplimiento a las acciones que se indican en este ordenamiento, las que no podrán ser reducidas en ningún caso y por ningún motivo y si en cambio, procurar incrementarlas con base en los programas de prevención, auxilio y recuperación, elaborados y presentados por sus respectivas Direcciones o Coordinaciones de Protección Civil.
 
@@ -63,7 +67,9 @@ La prevención en situaciones normales, así como las acciones de auxilio a la p
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Siniestro: Evento determinado causado por evento o agente perturbador en que la población sufre un daño violento en su integridad física y material, de tal manera que afecte su vida normal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+I.- Desastre: El evento que sucede en tiempo y espacio en el cual la población o una parte de ella sufren severos daños en su integridad física o material, causado por un fenómeno destructivo de tal manera que la estructura social se desajusta y se impide el cumplimiento de las actividades esenciales de la población, afectando el funcionamiento vital de la misma;
 
 II.- Riesgo: Amenaza de accidente o acción susceptible de causar daño o perjuicio a la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente, derivado de circunstancias que se pueden prever;
 
@@ -77,43 +83,75 @@ VI.- Alerta: Advertencia sobre una situación de riesgo latente;
 
 VII.- Alarma: Mensaje de advertencia de una situación de riesgo inminente;
 
-VIII.- Emergencia: Situación súbita que requiere de atención urgente e inmediata;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+VIII.- Emergencia: Situación súbita anormal que puede causar un daño a la población y propiciar un riesgo excesivo para su seguridad e integridad; que requiere de atención urgente e inmediata;
 
 IX.- Damnificado: Persona que sufre un considerable daño fortuito en sus bienes a causa de un siniestro o desastre y que generalmente ha quedado junto con su familia sin alojamiento o vivienda, en forma total o parcial, permanente o temporalmente;
 
-X.- Afectado: Persona que sufre de daños menores y transitorios en sus bienes;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XI.- Refugio temporal o transitorio: Aquel, que dependiendo del tipo de calamidad, opera por tiempos cortos definidos y no rebasa una semana de instalación;
+X.- Afectado: Las personas, sistemas o territorios sobre los cuales actúa un fenómeno destructivo, cuyos efectos les producen daño;
 
-XII.- Albergue provisional: Aquel, que dependiendo del tipo de calamidad no rebasa su operación por más de treinta día (sic) de duración;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XIII.- Albergue permanente: Aquel, que dependiendo del tipo de calidad rebasa su operación por más de treinta días de duración;
+XI.- Albergue o Refugio Temporal: Lugar físico destinado por tiempos definidos, a prestar asilo, amparo, alojamiento y resguardo a personas ante la amenaza, inminencia u ocurrencia de un fenómeno destructivo;
 
-XIV.- Acumulación de riesgos: Situación que suma o encadena los peligros que conllevan a un riesgo pudiendo ser dentro de un espacio específico o un objetivo técnico en una zona determinada por los alcances de daño que pueden ocasionar las acciones de la naturaleza y los productos o materiales utilizados por el género humano, animal y vegetal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XV.- Vulnerable: Ente o ser que es propenso de afectación, susceptible de sufrir daños por situación de riesgos;
+XII.- Acumulación de riesgos: situación que suma o encadena serios peligros, ocurriendo dentro de un espacio específico o zona determinada, con amenaza de daño, que pueden ocasionar las acciones de la naturaleza, así como por los productos o materiales utilizados por el género humano animal y vegetal;
 
-XVI.- Agentes destructivos: A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico o socio-organizativo que pueden producir riesgo;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XVII.- Apoyo: Al conjunto de actividades administrativas destinadas a la prevención, auxilio y recuperación de la población ante situaciones de emergencia o desastre;
+XIII.- Vulnerable: Ente o ser que es propenso de afectación, susceptible de sufrir daños en una situación de riesgo;
 
-XVIII.- Auxilio: Las acciones destinadas primordialmente a salvaguardar la vida, salud y bienes de las personas; la planta productiva; y preservar los servicios públicos y el medio ambiente ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencias; seguridad; búsqueda; salvamento y asistencia, servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento, comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XIX.- Establecimientos: A las escuelas, oficinas públicas, empresas, fábricas, cines, auditorios, industrias o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su naturaleza, uso a que se destine, o bien, a la concurrencia masiva, puedan existir riesgos. Para los efectos de estatal (sic) existen establecimientos de competencia Estatal, y de competencia municipal;
+XIV.- Agentes destructivos: A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, o socio-organizativo que pueden producir riesgo, emergencia o desastre;
 
-XX.- Grupos voluntarios: A las organizaciones y asociaciones legalmente constituidas y que cuenten con reconocimiento oficial, cuyo objeto sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para el efecto cuenten con los conocimientos, preparación y equipos idóneos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XXI.- Prevención: A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir, eliminar riesgos, así como para evitar desastres o mitigar su impacto sobre la vida, salud y bienes de las personas; la planta productiva, los servicios públicos o el medio ambiente;
+XV.- Apoyo: Al conjunto de actividades administrativas destinadas a la prevención, auxilio y recuperación de la población ante situaciones de emergencia o desastre;
 
-XXII.- Recuperación: Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado; la población y su entorno; así como a la reducción del riesgo a ocurrir. Se logra con la evaluación de daños ocasionados, en el análisis y la prevención de riesgos en los planes de desarrollo establecidos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-XXIII.- Protección Civil: Al conjunto de acciones, principios, normas, capacitación, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios y el medio ambiente; realizadas ante los riesgos, altos o menores, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, y que lleven a cabo las autoridades, organismos, dependencias e instituciones de carácter público, privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten o transiten en la Entidad; y
+XVI.- Auxilio: Las acciones destinadas primordialmente a salvaguardar la vida, salud y bienes de las personas; la planta productiva; y preservar los servicios públicos y el medio ambiente ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencias; seguridad; búsqueda; salvamento y asistencia, servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
 
-XXIV.- Ley: Ley Estatal de Protección Civil.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-###### ARTICULO 5º.
+XVII.- Establecimientos: A las escuelas, oficinas públicas, empresas fábricas, cines, auditorios, industrias o comercios, así como a cualquier otro local público o privado e, en general, a cualquier instalación, construcción, servicio y obra, en los que debido a su naturaleza, uso a que se destine, o bien, a la concurrencia masiva, puedan existir riesgos;
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones que por su uso y destino reciban una afluencia masiva de personas están obligados a elaborar y cumplir un programa específico de protección civil, contando para ello con la asesoría técnica de la Coordinación Estatal de Protección Civil, la cual podrá señalar quiénes serán las personas indicadas, que tienen que cumplir con la preparación y aplicación del programa específico en los Municipios.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XVIII.- Grupos voluntarios: Las instituciones, organizaciones o asociaciones sociales o privadas legalmente constituidas, que cuenten con personal, conocimientos, experiencia y equipo necesarios cuyo objeto sea prestar sus servicios en acciones de protección civil de manera altruista y comprometida, sin recibir remuneración alguna, y que para el efecto cuenten con los conocimientos, preparación y equipos idóneos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XIX.- Prevención: Las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir, evitar y eliminar riesgos de desastres o mitigar su impacto destructivo sobre la vida, salud y bienes de las personas; la planta productiva, ,los servicios públicos y su entorno;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XX.- Recuperación: Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado; la población y su entorno; así como a la reducción del riesgo a ocurrir. Se logra con la evaluación de daños ocasionados, en el análisis y la prevención de riesgos en los planes de desarrollo establecidos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XXI.- Protección Civil: Al conjunto de acciones, principios, normas, capacitación, políticas y procedimientos preventivos o de auxilio, recuperación y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios y el medio ambiente; realizadas ante los riesgos, altos o menores, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, y que lleven a cabo las autoridades, organismos, dependencias o instituciones de carácter público, privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten o transiten en la Entidad;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XXII.- Unidades de Protección Civil: Organos ejecutivos del sistema a nivel estatal o municipal con la responsabilidad de integrar, coordinar y dirigir los programas de protección civil, correspondientes en las tres etapas de prevención, auxilio y recuperación;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XXIII.- Ley: Ley de Protección Civil para el Estado de Aguascalientes.
+
+XXIV (DEROGADA, P.O. 27 DE JUNIO DE 2005)
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 5°.
+
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones que por su uso y destino reciban una afluencia masiva de personas están obligados a elaborar y cumplir un programa específico de protección civil, contando con la asesoría técnica de la Coordinación Estatal de Protección Civil la cual señalará el tipo de programa y preparación específica con que deba contar cada establecimiento.
 
 ###### ARTICULO 6º.
 
@@ -295,7 +333,9 @@ Son objetivos generales del Sistema Estatal de Protección Civil:
 
 I.- Afirmar el sentido social de la función pública de protección civil, integrando sus programas, instrumentos y acciones para el desarrollo del Estado;
 
-II.- Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de la población ante la protección civil, para motivar en los momentos de alto riesgo, siniestro o desastre, una respuesta eficaz, amplia, responsable y participativa;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+II.- Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de protección civil en la población, para motivar en los momentos de alto riesgo, siniestro o desastre, una respuesta eficaz, amplia, responsable y participativa;
 
 III.- Integrar la acción del Estado y los Municipios para organizar y mejorar su capacidad de respuesta ante siniestros y desastres; y
 
@@ -325,7 +365,9 @@ V.- La Agencia del Ministerio Público adscrita permanentemente a la Coordinaci�
 
 VI.- Las Unidades Internas de Protección Civil dentro de las instituciones, dependencias o empresas,
 
-VII.- La Organización Estatal de Seguros Voluntarios; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+VII.- Las organizaciones de voluntarios en el Estado;
 
 VIII.- Podrá integrarse además al Sistema Estatal de Protección Civil, la información aportada por las delegaciones, representaciones, y dependencias, de la administración pública federal que desarrollen actividades en el Estado, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atienda asuntos relacionados con el ramo.
 
@@ -347,7 +389,11 @@ VI.- Los Programas Institucionales;
 
 VII.- Los Programas Específicos; y
 
-VIII.- Las disposiciones de la presente Ley y sus Reglamentos.
+VIII.- Las disposiciones de la presente Ley y sus Reglamentos;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+IX.- Los convenios celebrados con cualquiera de los sectores público, social o privado.
 
 ### CAPITULO IV
 
@@ -435,41 +481,47 @@ II.- Un Secretario General, que será el Secretario General de Gobierno;
 
 III.- Un Secretario Técnico que será el titular de la Coordinación Estatal de Protección Civil;
 
-IV.- Los presidentes de las siguientes comisiones competentes del Congreso del Estado sobre las siguientes materias:
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-A).- Protección Civil;
+IV.- Los presidentes de las comisiones competentes del Congreso del Estado sobre las siguientes materias:
 
-B).- Salud;
+A).- Gobernación y Puntos Constitucionales;
 
-C).- Desarrollo social;
+B).- De Desarrollo Social;
 
-D).- Ecología;
+C).- Del Medio Ambiente y Recursos Naturales;
 
-E).- Gobierno; y
+D).- De Educación y Cultura;
 
-F).- Educación.
+E).- De Salud Pública y Asistencia Social; y
 
-V.- Un representante por cada una de las dependencias del Poder Ejecutivo Estatal siguientes:
+F).- De Seguridad Pública;
 
-A).- Coordinación Estatal de Protección Civil de Seguridad Pública y Vialidad;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-B).- Desarrollo social;
+V:- Las dependencias y entidades del Poder Ejecutivo Estatal siguientes:
 
-C).- Sistema para el Desarrollo Integral de la Familia;
+A).- La Secretaría de Seguridad Pública, a través del titular de la jefatura del Departamento de Bomberos del Estado, del Director General de Seguridad Pública y Vialidad, y del titular del Centro Estatal de Telecomunicaciones C4;
 
-D).- Instituto de Salud del Estado de Aguascalientes;
+B).- Secretaría de Desarrollo Social, a través del Subsecretario de Programas de Desarrollo Social y Humano;
 
-E).- Comisión de Desarrollo Agropecuario;
+C).- El titular del Sistema para el Desarrollo Integral de la Familia en el Estado;
 
-F).- Secretaría de Finanzas;
+D).- El titular de la Comisión Para el Desarrollo Agropecuario de Aguascalientes;
 
-G).- Procuraduría General de Justicia del Estado;
+E).- El titular del Instituto de Salud del Estado de Aguascalientes;
 
-H).- Instituto de Educación de Aguascalientes;
+F).- El titular de la Secretaría de Finanzas del Estado;
 
-I).- Secretaría de Obras Públicas; y
+G).- El titular de la Procuraduría General de Justicia del Estado;
 
-J).- Dirección de Comunicación Social;
+H).- El titular del Instituto de Educación del Estado de Aguascalientes;
+
+I).- El titular de la Secretaría de Obras Públicas del Estado;
+
+J).- El Director General del Información y Prensa del Estado; y
+
+K).- El titular del Instituto del Medio Ambiente del Estado de Aguascalientes.
 
 VI.- Un representante por cada una de las dependencias del Poder Ejecutivo Federal siguientes:
 
@@ -483,17 +535,43 @@ D).- Secretaría de Comunicaciones y Transportes;
 
 E).- Secretaría del Trabajo y Previsión Social;
 
-F).- Secretaría del Medio Ambiente, Recursos Naturales y Pesca; y
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
 
-G).- Secretaría de Agricultura y Ganadería.
+F).- Secretaría del Medio Ambiente y Recursos Naturales;
 
-VII.- Los Presidentes de los Municipios en donde se establezca una base regional de la Coordinación Estatal de Protección Civil; y
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+G).- Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+H).- Policía Federal Preventiva;
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+I).- Comisión Nacional del Agua;
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+J).- Procuraduría Federal de Protección al Ambiente;
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+K).- Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+VII.- Los Presidentes de cada uno de los Municipios del Estado de Aguascalientes;
 
 VIII.- Un representante de las siguientes organizaciones:
 
-A).- De las dos Organizaciones mayoritarias de los ejidatarios, comuneros, trabajadores agrícolas e industriales en el Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
 
-B).- De la Organización mayoritaria de propietarios rurales;
+A).- De dos organizaciones de producción agrícolas representativas en el Estado;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+B).- De dos organizaciones de Industriales en el Estado;
 
 C).- De las dos Organizaciones mayoritarias de asociaciones de vecinos en el Estado conforme a las disposiciones que reglamenten su constitución;
 
@@ -501,7 +579,9 @@ D).- Del Consejo de la Cruz Roja Mexicana Delegación Aguascalientes;
 
 E).- De los dos grupos voluntarios incorporados al Voluntariado Estatal de Protección Civil que conforme a su registro acrediten mayor membresía;
 
-F).- Un representante por cada Universidad instalada en el Estado; y
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+F).- Tres representantes de las Instituciones de Educación Superior públicas y privadas en el Estado;
 
 G).- Los organismos intermedios de reconocido prestigio por su trabajo en bien de la comunidad en el área de protección civil.
 
@@ -659,9 +739,11 @@ El Reglamento Interno de la Coordinación Estatal General de Protección Civil d
 
 La Procuraduría General de Justicia del Estado dispondrá se adscriba a la Coordinación Estatal de Protección Civil, una Agencia del Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 37.
 
-Compete a la Coordinación Estatal de Protección Civil, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento, desarrollando las siguientes funciones:
+Compete a la Coordinación Estatal de Protección Civil, ejecutar los programas de prevención, auxilio y recuperación o restablecimiento, desarrollando las siguientes funciones:
 
 I.- Elaborar el proyecto de Programa Estatal de Protección y presentarlo a consideración del Consejo Estatal y en su caso, las propuestas para su modificación;
 
@@ -671,9 +753,13 @@ III.- Identificar los riesgos que se presentan en la Entidad para integrar el At
 
 IV.- Establecer y ejecutar los subprogramas, básicos de prevención, auxilio y recuperación o restablecimiento;
 
-V.- Promover y realizar acciones de educación, capacitación y difusión a la comunidad en materia de simulaciones, señalización y uso de equipos de seguridad personal para la protección civil, impulsando la formación del personal que pueda ejercer esas funciones;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
 
-VI.- Elaborar el catálogo de recursos humanos y materiales necesarios en casos de emergencias; verificar la existencia de éstos y coordinar su utilización y cuando no exista al alcance de la Coordinación Estatal de Protección Civil otro medio producible y menos perjudicial, podrá realizar o hacerse llegar de materiales o insumos indispensables ante situaciones de alto riesgo, siniestros o desastres o por estado de necesidad, mediante acciones de voluntad propia, donación o en su defecto la requisa de los materiales e insumos del poseedor legal, encargado, factor o dependiente, proporcionando por todo acto que se dé requisa, el documento que especifique o señale el material o insumo que ampare su cantidad y la causa por la que se actúa o proceda, aplicando a la partida de contingencias contenidas en el presupuesto de Egresos el cargo correspondiente al efecto de cubrir el factor económico que se desprenda de la requisa;
+V.- Promover y realizar acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y uso de equipos de seguridad personal para la protección civil, impulsando la formación del personal que pueda ejercer esas funciones;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+VI.- Elaborar el catálogo de recursos humanos y materiales necesarios en casos de emergencias; verificar la existencia de éstos y coordinar su utilización y cuando no exista alcance de la Coordinación Estatal de Protección Civil otro medio producible y menos perjudicial, podrá realizar o hacerse llegar materiales o insumos indispensables ante situaciones de alto riesgo, siniestros o desastres o por estado de necesidad, mediante acciones de voluntad propia, donación o en su defecto la requisa de los materiales e insumos del poseedor legal, encargado, propietario o dependiente proporcionado por todo acto que se dé requisa, el documento que especifique o señale el material o insumo que ampare su cantidad y la causa por la que se actúa o proceda, aplicando a la partida de continencias contenidas en el presupuesto de Egresos el cargo correspondiente al efecto de cubrir el factor económico que se desprenda de la requisa;
 
 VII.- Llevar el registro y control de: manejo, almacenamiento, transporte y utilización de materiales peligrosos y explosivos en la Entidad, además de disponer las medidas preventivas en las instalaciones y transporte que en materia de Protección Civil se deban cumplir para garantizar el menor riesgo posible a la población reservándose esta atribución exclusivamente a la Coordinación Estatal de Protección Civil;
 
@@ -685,13 +771,19 @@ X.- Llevar el registro, prestar asesoría y coordinar a los grupos voluntarios;
 
 XI.- Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general dirigir las operaciones del Sistema Estatal;
 
-XII.- Establecer u operar los centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro, desastre, vigilar y disponer que todos los centros de acopio establecidos en la Entidad, por personas físicas o morales, destinen la ayuda recibida a la población afectada, estableciendo mecanismos ágiles de control en recepción y destino para su verificación;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+XII.- Establecer y operar los centros de acopio para recibir y administrar ayuda a la población afectada por un desastre;
 
 XIII.- En el ámbito de su competencia practicar inspecciones a fin de vigilar el cumplimiento de las disposiciones estatales en materia de protección civil;
 
 XIV.- Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de Protección Civil;
 
 XV.- Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+Vigilar que todos los centros de acopio establecidos por personas físicas o morales, efectivamente destinen la ayuda recibida a la población afectada, estableciendo mecanismos ágiles de control en recepción y destino.
 
 ###### ARTICULO 38.
 
@@ -723,7 +815,13 @@ IV.- Coordinar las acciones de la Coordinación Estatal de Protección Civil con
 
 V.- Ordenar la práctica de inspecciones en la forma y términos que establece esta Ley, en el ámbito de su competencia; y
 
-VI.- Todas las demás que le confieren esta Ley y demás disposiciones legales.
+> <small>(REFORMADA [ N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2005)</small>
+
+VI.- Suscribir convenio con cualquier institución del sector público, social o privado, siempre y cuando tengan como propósito la consecuencia de los objetivos de la protección civil;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2005)</small>
+
+VII.- Todas las demás que le confiere esta Ley y demás disposiciones legales.
 
 ###### ARTICULO 40.
 
@@ -995,25 +1093,39 @@ Toda empresa, industria, comercio o prestadores de servicios que sea considerada
 
 El Programa par (sic) la Prevención de Accidentes consistirá en la organización de las acciones, personas, servicios y recursos disponibles para la atención del desastre, con base en la identificación de riesgos, preparación de la comunidad y capacitación de respuesta local, de igual manera establecerá la estructura jerárquica y funcional de las autoridades y organismos que intervendrán durante la emergencia.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 78.
 
-Para la elaboración de los programas para la Prevención de Accidentes se atenderá a lo dispuesto por la "Guía Número 06" que para dicho fin establece el Comité de Análisis y Aprobación de los Programas para la Prevención de Accidentes.
+Para la elaboración de los programas para la Prevención de Accidentes se atenderá a lo dispuesto por la guía respectiva que para dicho fin establece el Comité de Análisis y Aprobación de los Programas para la Prevención de Accidentes y los que dé a conocer el Gobierno Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, 27 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 79.
 
-Los Programas para la Prevención de Accidentes serán sometidos para su análisis y aprobación al Comité del Estado de Aguascalientes para Análisis y Aprobación de los Programas para la Prevención de Accidentes, el cual será conformado por los representantes de las siguientes dependencias:
+Los Programas para la Prevención de Accidentes serán sometidos al Comité del Estado de Aguascalientes para Análisis y Aprobación, el cual será conformado por:
 
-a).- Subsecretaría de Ecología de Gobierno del Estado.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
 
-b).- Instituto de Salud del Estado de Aguascalientes.
+a).- Instituto de Medio Ambiente del Estado de Aguascalientes;
 
-c).- Coordinación Estatal de Protección Civil.
+b).- Instituto de Salud del Estado de Aguascalientes;
 
-d).- Secretaría de Comercio y Fomento Industrial.
+c).- Coordinación Estatal de Protección Civil;
 
-e).- Secretaría del Trabajo y Previsión Social.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
 
-f).- Secretaría del Medio Ambiente, Recursos Naturales y Pesca.
+d).- Secretaría de Desarrollo Económico;
+
+e).- Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+f).- Secretaría del Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2005)</small>
+
+g).- Procuraduría Estatal de Protección al Ambiente.
 
 ###### ARTICULO 80.
 
@@ -1071,17 +1183,21 @@ Todo inmueble con una altura mayor a 15 metros, deberá contar por lo menos con 
 
 ### CAPITULO XV. De las Brigadas y Simulacros Contra Incendios
 
+> <small>(REFORMADO, P.O. 27 DE JUNIOI DE 2005)</small>
+
 ###### ARTICULO 91.
 
-Los simulacros contra incendios, sólo serán dirigidos y llevados a cabo, por personal registrado, avalado y autorizado oficialmente por la Coordinación Estatal de Protección Civil y el Departamento de Bomberos.
+Los simulacros contra incendios, sólo serán dirigidos y llevados a cabo, por personal registrado, avalado y autorizado oficialmente por la Coordinación Estatal de Protección Civil y el Departamento de Bomberos del Estado.
 
 ###### ARTICULO 92.
 
 Las personas físicas que colaboren en la realización de simulacros, deberán de estar registradas y programadas previamente ante la Coordinación Estatal de Protección Civil; asimismo, deberán de llevar una bitácora con la relación y registro de todo este tipo de acciones realizadas.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 93.
 
-Los simulacros contra incendios se podrán realizar en la fecha de vencimiento de los extinguidores; para la realización de dichos simulacros se deberá contar con la autorización y asesoría de la Unidad Estatal o Municipal de Protección Civil, del Departamento de Bomberos correspondiente y la Delegación Federal en Aguascalientes, de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca.
+Los simulacros contra incendios se podrán realizar en la fecha de vencimiento de los extintores; para la realización de dichos simulacros se deberá contar con la autorización del Instituto del Medio Ambiente del Estado de Aguascalientes, así como con la asesoría del personal registrado, avalado y autorizado oficialmente por la Coordinación Estatal de Protección Civil y el Departamento de Bomberos del Estado.
 
 ###### ARTICULO 94.
 
@@ -1099,11 +1215,15 @@ Las brigadas contra incendios, deberán haber realizado un curso de entrenamient
 
 Las brigadas contra incendios, deberán contar con el equipo adecuado y necesario para su objetivo, y que consistirá entre otros: cascos, chaquetones, botas y tanques se (sic) aire comprimido, guantes, hachas, sistemas fijos y manuales contra incendios.
 
-### CAPITULO XVI. De la Inspección, Mantenimiento y Recarga de Extinguidores
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2005)</small>
+
+### CAPITULO XVI. De la Inspección, Mantenimiento y Recarga de Extintores
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 98.
 
-Las instalaciones que en forma programática, por oficio o a solicitud de partes realice la Coordinación Estatal de Protección Civil, para revisión de los extinguidores portátiles, deberán de abarcar y cubrir los siguientes aspectos:
+Las inspecciones que en forma programática, de oficio o a solicitud de partes realice la Coordinación Estatal de Protección Civil, para revisión de los extintores portátiles, deberán abarcar y cubrir los siguientes aspectos:
 
 a).- Colocación y ubicación;
 
@@ -1121,35 +1241,45 @@ g).- El nombre de la empresas (sic) donde se encuentre instalada;
 
 h).- Instrucciones para uso y manejo en el idioma español, así como el tipo a que pertenece.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 99.
 
-La frecuencia que reciban mantenimiento los extinguidores, nunca podrá ser mayor a un año.
+La frecuencia que reciban mantenimiento los extintores nunca podrá ser mayor de un año.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 100.
 
-La recarga de extinguidores se deberán efectuar, después de cada uso de los mismos, durante una visita de inspección que ordene su descarga o según los simulacros contra incendios, o en la fecha que indique la etiqueta de la última recarga.
+La recarga de extintores se deberán efectuar, después de cada uso de los mismos, durante una visita de inspección que ordene su descarga o según los simulacros contra incendios, o en la fecha que indique la etiqueta de la última recarga.
 
 ### CAPITULO XVII. De la Prueba Hidrostática
 
+REFORMADO, P.O. 27 DE JUNIO DE 2005)
+
 ###### ARTICULO 101.
 
-La prueba hidrostática del (sic) los extinguidores portátiles, deberá ser realizadas (sic) por profesionales reconocidos con base en sus capacidades, estudios y conocimientos; y que cuente con el debido registro y autorización de la Coordinación Estatal de Protección Civil.
+La prueba hidrostática de los extintores, deberá ser realizada por profesionales reconocidos con base en sus capacidades, estudios y conocimientos; y que cuenten con el debido registro y autorización de la Coordinación Estatal de Protección Civil.
 
 ###### ARTICULO 102.
 
 Todas aquellas personas que lleven a cabo pruebas hidrostáticas, deberán de estar provistas del equipo necesario, suficiente, adecuado y seguro para dicho trabajo.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 103.
 
-A todos los extinguidores portátiles deberá practicárseles la prueba hidrostática por lo menos cinco años, debiendo llevarse una bitácora de los extinguidores por las empresas dedicadas a dicha función, a fin de vigilar el cumplimiento de esta obligación que aquí se enmarca.
+A todos los extintores portátiles deberá practicárseles la prueba hidrostática por lo menos cinco años, debiendo llevarse una bitácora de los extintores por las empresas dedicadas a dicha función, a fin de vigilar el cumplimiento de esta obligación que así se enmarca.
 
 ###### ARTICULO 104.
 
 Las áreas de trabajo, donde se efectúen, los servicios de cargas, mantenimiento, prueba hidrostática u otros, deberá contar con los medios de seguridad suficientes, a fin de proteger la integridad física del trabajador dedicado a dichas tareas.
 
+REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2005)
+
 ### CAPITULO XVIII
 
-De las Instalaciones, Grados Mínimos de Adecuación con las que Deben Contar las Personas Físicas y las Empresas Dedicadas a la Venta, Renta y Recarga de Extinguidores Portátiles
+De las Instalaciones, Grados Mínimos de Adecuación con las que Deben Contar las Personas Físicas y las Empresas Dedicadas a la Venta, Renta y Recarga de Extintores Portátiles
 
 ###### ARTICULO 105.
 
@@ -1183,9 +1313,11 @@ El equipo con que deben contar las empresas, que se dediquen a la venta, renta, 
 
 14).- Las demás que fije y determine la Coordinación Estatal de Protección Civil, previa reunión que se verifique con las empresas que se dedican a esta actividad, y con sujeción a las Leyes y Reglamentos que les sean aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 106.
 
-Todos los extinguidores que se encuentren dentro de los límites del Estado de Aguascalientes, solamente podrán ser recargados por las personas físicas o morales que reúnan y cumplan con los requisitos que establece el Reglamento y los que determine la Coordinación Estatal de Protección Civil conforme a esta Ley, mismas que deberán encontrarse legalmente establecidas en el Estado para su operación.
+Todos los extintores que se comercialicen en el Estado de Aguascalientes, solamente podrán ser recargados por las personas físicas o morales que reúnan y cumplan con los requisitos que establece el Reglamento de esta Ley, mismas que deberán encontrarse legalmente establecidas en el Estado para su operación.
 
 ### CAPITULO XIX
 
@@ -1400,3 +1532,11 @@ FELIPE GONZALEZ GONZALEZ
 EL C. SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. ABELARDO REYES SAHAGUN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JUNIO DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
