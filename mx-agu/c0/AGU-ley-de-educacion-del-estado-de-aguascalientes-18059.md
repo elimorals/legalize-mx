@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-18059"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-26"
-last_updated: "2004-12-27"
+last_updated: "2005-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE EDUCACION DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
 
-Ley publicada en el Alcance al Número 12 al Periódico Oficial del Estado de Aguascalientes, el miércoles 26 de marzo de 1997.
+Ley publicada en el Alcance al Número 12 del Periódico Oficial del Estado de Aguascalientes, el miércoles 26 de marzo de 1997.
 
 OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -637,9 +637,11 @@ VIII.- Desarrollar investigación pedagógica y promover innovaciones educativas
 
 ### CAPITULO VII. De Otras Modalidades de la Educación
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 55.
 
-El Instituto de Educación de Aguascalientes, promoverá y atenderá otras modalidades de la educación, en particular la inicial, la especial, la de adultos y la de formación para el trabajo. Las autoridades educativas promoverán y apoyarán con los medios a su alcance la participación de los particulares. Estos servicios educativos deberán ofrecer una formación armónica e integral.
+Los organismos públicos del sector educativo creados para tal efecto en sus respectivos ámbitos de competencia, promoverán y atenderán la educación para adultos en sus niveles de primaria, secundaria, media-superior y la de formación para el trabajo. Las autoridades educativas promoverán y apoyarán con los medios a su alcance la participación de los particulares. Estos servicios educativos deberán ofrecer una formación armónica e integral.
 
 ###### ARTICULO 56.
 
@@ -661,9 +663,11 @@ II.- Las necesidades individuales, grupales o comunitarias para propiciar su des
 
 III.- Las necesidades de los sectores productivos.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 59.
 
-El Instituto de Educación de Aguascalientes establecerá los criterios y procedimientos mediante los cuales los adultos podrán acreditar los niveles de educación primaria y secundaria así como los elementos susceptibles de certificación de la formación para el trabajo. Como establecen los Artículos 44, 45 y 64 de la Ley General de Educación, y en coordinación con la autoridad federal cuando proceda, se instrumentarán mecanismos que faciliten la acreditación efectiva, global o parcial, de conocimientos adquiridos en forma autodidacta o a través de la experiencia.
+Los organismos públicos del sector educativo, creados para tal efecto y atendiendo sus respectivos ámbitos de competencia establecerán los criterios y procedimientos mediante los cuales los adultos podrán acreditar los niveles de educación primaria y secundaria y educación media-superior, así como los elementos susceptibles de certificación de la formación para el trabajo. Como establecen los Artículos 44, 45 y 64 de la Ley General de Educación, y en coordinación con la autoridad federal cuando proceda, se instrumentarán mecanismos que faciliten la acreditación efectiva, global o parcial, de conocimientos adquiridos en forma autodidacta o a través de la experiencia.
 
 ###### ARTICULO 60.
 
@@ -681,13 +685,17 @@ La formación para el trabajo es un proceso que a lo largo de la vida busca mejo
 
 I.- Se respetará lo establecido en el Artículo 45 de la Ley General de Educación respecto al régimen federal;
 
-II.- El Instituto de Educación de Aguascalientes se regirá por los lineamientos federales respecto a la definición de los conocimientos, habilidades o destrezas susceptibles de certificación, así como de los procedimientos de evaluación correspondientes, sin perjuicio de las disposiciones que la propia autoridad estatal emita en atención a requerimientos particulares;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+II.- Los organismos públicos del sector educativo competentes en formación para el trabajo se regirán por los lineamientos federales respecto a la definición de los conocimientos, habilidades o destrezas susceptibles de certificación, así como de los procedimientos de evaluación correspondientes, sin perjuicio de las disposiciones que la propia autoridad estatal emita en atención a requerimientos particulares;
 
 III.- Las instituciones públicas y los particulares legalmente acreditados para tal efecto otorgarán los certificados, constancias o diplomas correspondientes;
 
 IV.- La autoridad educativa estatal podrá celebrar convenios para ofrecer formación para el trabajo así como para que ésta pueda ofrecerse por los ayuntamientos, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares en el marco de los lineamientos de carácter general;
 
-V.- El Instituto de Educación de Aguascalientes y las autoridades estatales competentes de otras áreas de la administración pública definirán mecanismos que integren la oferta de formación para el trabajo. Tendrán como prioridad la atención de los grupos sociales excluidos; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+V.- Los organismos públicos competentes en materia de formación para el trabajo y las autoridades estatales competentes de otras áreas de la administración pública definirán mecanismos que integren la oferta de formación para el trabajo. Tendrán como prioridad la atención de los grupos sociales excluidos; y
 
 VI.- La formación para el trabajo que se imparta en términos del presente Artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del apartado A) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -735,7 +743,9 @@ V.- Mantener informados a los padres de familia o tutores del avance escolar de 
 
 VI.- Participar en el consejo técnico de su escuela, especialmente en la elaboración del proyecto escolar;
 
-VII.- Asistir, según corresponda, a los programas de actualización a los que convoque el Instituto de Educación de Aguascalientes; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2005)</small>
+
+VII.- Asistir, según corresponda, a los programas de actualización a los que convoque el Instituto de Educación de Aguascalientes u organismo público del sector educativo para el cual preste sus servicios; y
 
 VIII.- Proporcionar a la dirección de su escuela la información estadística que se le requiera para su integración a nivel estatal.
 
@@ -765,7 +775,9 @@ VIII.- Otorgar estímulos y reconocimientos a los maestros que se destaquen en s
 
 Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de maestros, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel.
 
-A partir del concepto de escuela singular que reconoce la diversidad, el Instituto de Educación de Aguascalientes fomentará la autogestión de los centros escolares a fin de que se establezcan las condiciones pedagógicas más apropiadas para la educación y se logren las orientaciones de calidad de la misma.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+A partir del concepto de escuela singular que reconoce la diversidad, el Instituto de Educación de Aguascalientes y los organismos públicos del sector educativo en sus respectivos ámbitos de competencia, fomentarán la autogestión de los centros escolares a fin de que se establezcan las condiciones pedagógicas más apropiadas para la educación y se logren las orientaciones de calidad de la misma.
 
 Con el equipo docente de la escuela, los directores formarán el Consejo Técnico Escolar el cual presidirán. Dicho Consejo se sujetará al reglamento que para tal efecto expida la autoridad educativa.
 
@@ -787,9 +799,11 @@ VII.- Vigilar que se mantenga actualizado el archivo escolar; y
 
 VIII.- Cumplir con las demás funciones que le confiera el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 70.
 
-El supervisor escolar de un determinado nivel o modalidad es la autoridad educativa que representa al Instituto de Educación de Aguascalientes en las escuelas de la zona escolar confiada a su cuidado.
+El supervisor escolar de las de educación básica del Instituto de Educación de Aguascalientes, es la autoridad educativa, representa al Instituto de Educación de Aguascalientes en las escuelas de la zona escolar confiada a su cuidado.
 
 Las funciones de los supervisores son de carácter técnico-pedagógico y técnico-administrativo y sus responsabilidades serán:
 
@@ -817,17 +831,21 @@ XI.- Elaborar y mantener actualizado el archivo de las escuelas de su zona escol
 
 XII.- Las demás que le confiera la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 71.
 
-En cada zona escolar, y de acuerdo con la normatividad aplicable, funcionará un consejo técnico integrado por el supervisor y los directores de las escuelas del nivel correspondiente, a fin de lograr que cada escuela funcione de manera efectiva como una unidad educativa y de que se aseguren las condiciones institucionales para la realización del derecho a una educación de calidad.
+En cada zona escolar del Instituto de Educación de Aguascalientes, y de acuerdo con la normatividad aplicable, funcionará un consejo técnico integrado por el supervisor y los directores de las escuelas del nivel correspondiente, a fin de lograr que cada escuela funcione como una unidad educativa y de que se aseguren las condiciones institucionales para la realización del derecho a una educación de calidad.
 
 ###### ARTICULO 72.
 
 Para favorecer la articulación entre los niveles y modalidades de la educación básica, los supervisores trabajarán en equipo, para garantizar una mayor eficiencia en la prestación de los servicios educativos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 73.
 
-El equipo de supervisión constituye una organización intermediaria entre las escuelas, los equipos docentes y los directores, por una parte, y las autoridades educativas estatales, por la otra.
+El equipo de supervisión de las zonas de educación básica constituye una organización intermediaria entre las escuelas, los equipos docentes y los directores, por una parte, y las autoridades educativas estatales, por la otra.
 
 Cada equipo de supervisión está integrado por los supervisores de los distintos niveles y modalidades de la educación básica, así como por el personal auxiliar y de apoyo adscrito al mismo.
 
@@ -945,9 +963,11 @@ IV.- Proponer las medidas que se estimen conducentes para alcanzar los objetivos
 
 V.- Informar oportunamente a las autoridades educativas de cualquier irregularidad que afecte a los educandos.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 81.
 
-Se promoverá la formación de sociedades de alumnos para fortalecer la cultura de participación democrática, con base en los lineamientos generales que para ello expida el Instituto de Educación de Aguascalientes.
+Se promoverá la formación de sociedades de alumnos para fortalecer la cultura de participación democrática, con base en los lineamientos generales que para ello expidan el Instituto de Educación de Aguascalientes y los organismos públicos del sector educativo en el ámbito de su respectiva competencia, dirigido a la población estudiantil que corresponda.
 
 ###### ARTICULO 82.
 
@@ -973,9 +993,11 @@ III.- Recibir observaciones y sugerencias de educandos y padres de familia o tut
 
 El Instituto de Educación de Aguascalientes ofrecerá a los padres de familia programas permanentes de formación para que participen de manera activa y con propuestas en el proceso educativo de sus hijos y así, lograr el cumplimiento de los fines de la educación.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 86.
 
-El Instituto de Educación de Aguascalientes contará con canales directos de atención a la ciudadanía, para promover la participación social.
+El Instituto de Educación de Aguascalientes y los organismos públicos del sector educativo contarán con canales directos de atención a la ciudadanía, para promover la participación social.
 
 ###### ARTICULO 87.
 
@@ -1210,3 +1232,7 @@ Lic. Jesús Orozco Castellanos.
 P.O. 27 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2005
+
+UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
