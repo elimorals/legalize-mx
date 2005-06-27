@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2005-06-06"
+last_updated: "2005-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -650,6 +650,10 @@ Las solicitudes para cambiar el destino de los bienes inmuebles dedicados a un s
 ###### Artículo 55.
 
 Por ningún motivo los ayuntamientos realizarán donaciones bajo cualquier título, de los bienes muebles e inmuebles propiedad municipal, excepto cuando se trate de la realización de obras de beneficio colectivo en términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2005)</small>
+
+Podrá ser solicitada la verificación del destino de los bienes inmuebles propiedad municipal que hayan sido objeto de acto, contrato o convenio que trasmitió la propiedad o posesión por cualquier ciudadano, en virtud a que los mismos no sean destinados al beneficio colectivo en términos del párrafo que antecede, para que el Municipio en su caso proceda conforme a la Ley o Decreto respectivo.
 
 ###### Artículo 56.
 
@@ -1758,3 +1762,7 @@ Lic. Abelardo Reyes Sahagún
 P.O. 6 DE JUNIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE JUNIO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
