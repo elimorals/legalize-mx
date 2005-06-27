@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2004-12-01"
+last_updated: "2005-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -653,7 +653,7 @@ IX. Crear las unidades administrativas necesarias para el adecuado funcionamient
 
 IX Bis. Crear en el ámbito de sus respectivas competencias una Coordinación Municipal de Derechos Humanos, la cual será autónoma en sus decisiones;
 
-X. Conocer los informes contables y financieros anuales dentro de los tres meses siguientes a la terminación del ejercicio presupuestal que presentará el tesorero con el visto bueno del sindico;
+X. Conocer los informes contables y financieros anuales dentro de los tres meses siguientes a la terminación del ejercicio presupuestal que presentará el tesorero con el visto bueno del síndico;
 
 XI. Designar de entre sus miembros a los integrantes de las comisiones del ayuntamiento; y de entre los habitantes del municipio, a los jefes de sector y de manzana;
 
@@ -721,15 +721,15 @@ XXXVIII. Los municipios de manera libre decidirán si tienen oficialías mediado
 
 > <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIX.- Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
+XXXIX. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
 
 > <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-XL.- Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
+XL. Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
 
 > <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-XLI.- Las demás que señalen las leyes y otras disposiciones legales.
+XLI. Las demás que señalen las leyes y otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -975,7 +975,9 @@ Los síndicos municipales tendrán a su cargo la procuración y defensa de los d
 
 Los síndicos tendrán las siguientes atribuciones:
 
-I. Procurar, defender y promover los derechos e intereses municipales; representar jurídicamente a los ayuntamientos en los litigios en que éstos fueren parte, y en la gestión de los negocios de la hacienda municipal;
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2005)</small>
+
+I. Procurar, defender y promover los derechos e intereses municipales; representar legal y jurídicamente a los ayuntamientos en los litigios en los que éstos fueran parte; así como la gestión de los negocios de la hacienda municipal, facultándolos para otorgar y revocar poderes generales y especiales a terceros o mediante carta poder u oficio para la debida representación legal y jurídica de los Ayuntamientos; pudiendo convenir en los mismos;
 
 II. Revisar y firmar los cortes de caja de la tesorería municipal;
 
@@ -1063,7 +1065,7 @@ c). Auxiliar al secretario del ayuntamiento con la información que requiera par
 
 d). Informar anualmente a sus representados y al ayuntamiento, sobre la administración de los recursos que en su caso tenga encomendados, y del estado que guardan los asuntos a su cargo;
 
-e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, con la asesoría del ayuntamiento.
+e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, con la asesoría del ayuntamiento;
 
 II. Corresponde a los jefes de sector o de sección y de manzana:
 
@@ -1197,7 +1199,7 @@ n). De salud pública;
 
 o). De revisión y actualización de la reglamentación municipal;
 
-p). Las demás que determine el ayuntamiento, de acuerdo con las necesidades el municipio.
+p). Las demás que determine el ayuntamiento, de acuerdo con las necesidades el municipio;
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -1249,7 +1251,7 @@ Los ayuntamientos promoverán entre sus habitantes la creación y funcionamiento
 
 ###### Artículo 78.
 
-Las organizaciones sociales a que se refiere el artículo anterior se integrarán con los habitantes del municipio, por designación de ellos mismos , y sus actividades serán transitorias o permanentes, conforme al programa o proyecto de interés común en el que acuerden participar.
+Las organizaciones sociales a que se refiere el artículo anterior se integrarán con los habitantes del municipio, por designación de ellos mismos, y sus actividades serán transitorias o permanentes, conforme al programa o proyecto de interés común en el que acuerden participar.
 
 ###### Artículo 79.
 
@@ -2057,9 +2059,9 @@ c) Ser de reconocida buena conducta y solvencia moral;
 
 d) Tener cuando menos treinta años al día de su designación; y
 
-e) Ser licenciado en Derecho, en Psicología, en Sociología, en Antropología, en Trabajo Social, o en Comunicación y tener acreditados estudios en materia de Mediación.
+e) Ser licenciado en Derecho, en Psicología, en Sociología, en Antropología, en Trabajo Social, o en Comunicación y tener acreditados estudios en materia de Mediación;
 
-II.- Para ser Oficial Calificador, se requiere:
+II. Para ser Oficial Calificador, se requiere:
 
 a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
@@ -2077,7 +2079,7 @@ e) Ser licenciado en Derecho.
 
 Son facultades y obligaciones de:
 
-I.- Los Oficiales Mediadores-Conciliadores:
+I. Los Oficiales Mediadores-Conciliadores:
 
 a) Evaluar las solicitudes de los interesados con el fin de determinar el medio alternativo idóneo para el tratamiento del asunto de que se trate;
 
@@ -2097,7 +2099,7 @@ h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuale
 
 i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
 
-II.- De los Oficiales Calificadores:
+II. De los Oficiales Calificadores:
 
 a) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades;
 
@@ -2399,7 +2401,7 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
-TERCERO.- Mientras los ayuntamientos instalan oficialías mediadoras-conciliadoras, podrán remitir al Centro de Mediación y Conciliacióndel Poder Judicial del Estado de México los asuntos susceptibles de mediación o conciliación.
+TERCERO.- Mientras los ayuntamientos instalan oficialías mediadoras-conciliadoras, podrán remitir al Centro de Mediación y Conciliación del Poder Judicial del Estado de México los asuntos susceptibles de mediación o conciliación.
 
 G.G. 6 DE ABRIL DE 2004.
 
@@ -2422,3 +2424,9 @@ TERCERO.- Para cumplir con lo establecido en los artículos 53 fracciones VIII y
 G.G. 1 DE DICIEMBRE DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 8 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+
+G.G. 27 DE JUNIO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
