@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2005-06-07"
+last_updated: "2005-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2005.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -402,7 +402,7 @@ El derecho al acreditamiento es personal para los contribuyentes del impuesto al
 
 (DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
-###### ARTICULO 4o.-B.
+###### Artículo 4o.-B.
 
 (DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
@@ -1089,6 +1089,10 @@ f).- Operaciones de financiamiento.
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 g).- Filmación o grabación, siempre que cumplan con los requisitos que al efecto se señalen en el reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
+
+h).- Servicio de atención en centros telefónicos de llamadas originadas en el extranjero, que sea contratado y pagado por un residente en el extranjero sin establecimiento permanente en México.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -2021,3 +2025,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Tratándose de la adquisición y de la importación de inversiones realizadas con anterioridad a la entrada en vigor de este Decreto, cuyo impuesto al valor agregado haya sido trasladado al contribuyente o el que le corresponda con motivo de la importación, sea efectivamente pagado con posterioridad a la citada fecha, se aplicarán las disposiciones para el acreditamiento del impuesto, vigentes a partir de la fecha de la entrada en vigor de este Decreto.
 
 Tercero.- A partir de la entrada en vigor del presente Decreto, en el primer mes en el que el contribuyente tenga impuesto al valor agregado trasladado efectivamente pagado o impuesto al valor agregado pagado en la importación, que corresponda a erogaciones por la adquisición de bienes, de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto o a las que se les aplique la tasa de 0%, la opción que ejerza el contribuyente en los términos de los artículos 5o., 5o.-A y 5o.-B para efectuar su acreditamiento, la deberá mantener al menos durante sesenta meses.
+
+D.O.F. 28 DE JUNIO DE 2005.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
