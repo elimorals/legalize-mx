@@ -4,7 +4,7 @@ identifier: "LACP"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2005-05-27"
+last_updated: "2005-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21346&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LACP"
 
 LEY DE AHORRO Y CREDITO POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -888,7 +888,7 @@ Ninguna persona física o moral podrá adquirir, directa o indirectamente, media
 
 Las personas físicas y morales podrán adquirir o transmitir la propiedad de acciones de una Sociedad Financiera Popular hasta por un monto equivalente al diez por ciento del capital social de dicha Sociedad. En caso de que una persona pretenda adquirir o transmitir más del diez por ciento del capital social de una Sociedad Financiera Popular, deberá solicitar la autorización de la Comisión, previo dictamen favorable de la Federación que la supervise de manera auxiliar.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
 ### Capítulo I. Disposiciones Generales
 
@@ -896,7 +896,7 @@ Las personas físicas y morales podrán adquirir o transmitir la propiedad de ac
 
 ###### Artículo 46.
 
-Las personas que adquieran o se les haya transmitido la propiedad de acciones de una Sociedad Financiera Popular, por más del uno por ciento del capital social de la Entidad, no podrán recibir créditos de la misma, pero sí podrán acceder a las demás operaciones o servicios de la Entidad. Las personas morales que posean hasta el diez por ciento del capital de la Sociedad Financiera Popular y que cuenten con más de cincuenta socios, podrán recibir créditos, previo acuerdo de las dos terceras partes del consejo de administración.
+Las personas que adquieran o se les haya transmitido la propiedad de acciones de una Sociedad Financiera Popular, por más del dos por ciento del capital social de la Entidad, no podrán recibir créditos de la misma, pero sí podrán acceder a las demás operaciones o servicios de la Entidad. Las personas morales que posean hasta el diez por ciento del capital de la Sociedad Financiera Popular y que cuenten con más de cincuenta socios, podrán recibir créditos, previo acuerdo de las dos terceras partes del consejo de administración.
 
 #### Sección Segunda. De su funcionamiento y de las medidas correctivas
 
@@ -2317,3 +2317,7 @@ II. Declaren, bajo protesta de decir verdad, a la Federación ante la cual se re
 III. Acrediten a la Federación ante la cual se registren que, al momento de su constitución, el número de sus socios o asociados no era superior a 250 personas y que el monto total de sus activos era inferior al equivalente a 350,000 unidades de inversión en ese mismo momento, y
 
 IV. A más tardar el 31 de diciembre de 2005, se sujeten a lo dispuesto por el Artículo Cuarto Transitorio del presente Decreto.
+
+D.O.F. 28 DE JUNIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
