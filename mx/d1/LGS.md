@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2005-06-07"
+last_updated: "2005-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2005.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -3050,7 +3050,7 @@ La Secretaría tendrá la facultad de adicionar a esta lista otras substancias, 
 
 ###### ARTICULO 240.
 
-Sólo podrán prescribir estupefacientes los profesionales que a continuación se mencionan, siempre que tengan título registrado por las autoridades educativas competentes, cumplan con las condiciones que señala esta Ley y sus reglamentos y con los requisitos que determine la Secretaría de Salud
+Sólo podrán prescribir estupefacientes los profesionales que a continuación se mencionan, siempre que tengan título registrado por las autoridades educativas competentes, cumplan con las condiciones que señala esta Ley y sus reglamentos y con los requisitos que determine la Secretaría de Salud:
 
 I.- Los médicos cirujanos;
 
@@ -4460,7 +4460,7 @@ V. Haber otorgado su consentimiento en forma expresa, en términos del artículo
 
 > <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
-VI.- Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
+VI. Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
 
 a) Obtener resolución favorable del Comité de Trasplantes de la institución hospitalaria, donde se vaya a realizar el trasplante, previa evaluación médica, clínica y psicológica;
 
@@ -5312,6 +5312,14 @@ Los productos perecederos asegurados que se descompongan en poder de la autorida
 
 Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
+
+###### ARTICULO 414 Bis.
+
+Será procedente la acción de aseguramiento prevista en el artículo 414 como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos de perfumería y belleza que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
+
+En caso de que se actualice el supuesto previsto en el párrafo anterior, la medida de seguridad se aplicará respecto de los productos que tenga almacenados el fabricante, así como de los que se encuentren en poder de distribuidores, comercializadores o comerciantes para efectos de su venta al público.
+
 ###### ARTICULO 415.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
@@ -5356,17 +5364,17 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 259, 260, 263, 282 bis 1, 342, 346, 348, segundo párrafo, 350 bis 6, 391 y 392 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
-###### ARTICULO 420.
+###### Artículo 420.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 306, 307, 308, 315, 341, 348, tercer párrafo, 349, 350 bis, 350 bis 1, 350 bis 2, 350 bis 3, 373, 376 y 413 de esta Ley.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 307, 308, 315, 341, 348, tercer párrafo, 349, 350 bis, 350 bis 1, 350 bis 2, 350 bis 3, 373, 376 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
-###### ARTICULO 421.
+###### Artículo 421.
 
-Se sancionará con una multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 251, 252, 254, 255, 256, 264, 266, 276, 277, 277 bis, 281, 289, 293, 298, 308 bis, 309, 309 bis, 317, 325, 327, 330, 331, 332, 333, 334, 335, 336, 338, último párrafo, 348, primer párrafo, 365, 367, 375, 400 y 411 de esta Ley.
+Se sancionará con una multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 251, 252, 254, 255, 256, 264, 266, 276, 277, 277 bis, 281, 289, 293, 298, 306, 308 bis, 309, 309 bis, 317, 325, 327, 330, 331, 332, 333, 334, 335, 336, 338, último párrafo, 348, primer párrafo, 365, 367, 375, 400 y 411 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5973,3 +5981,7 @@ D.O.F. 7 DE JUNIO DE 2005.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- La legislación secundaria deberá adecuarse a lo dispuesto en este Decreto.
+
+D.O.F. 28 DE JUNIO DE 2005.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
