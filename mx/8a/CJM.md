@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1999-05-18"
+last_updated: "2005-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 2005.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -492,7 +492,9 @@ VI.- de todo lo relativo a la libertad preparatoria y a la retención de los reo
 
 VII.- de las solicitudes de indulto necesario;
 
-VIII.- de la tramitación de las solicitudes de conmutación o reducción de penas;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+VIII.- de la tramitación de las solicitudes de reducción de penas;
 
 IX.- de consultas sobre dudas de ley que le dirijan los jueces;
 
@@ -580,9 +582,11 @@ El secretario auxiliar del Supremo Tribunal Militar, desempeñará las labores q
 
 Los consejos de guerra ordinarios son competentes para conocer de todos los delitos contra la disciplina militar, cuyo conocimiento no corresponde a los jueces militares o a los consejos de guerra extraordinarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 73.
 
-Los consejos de guerra extraordinarios, son competentes para juzgar en campaña, y dentro del territorio ocupado por las fuerzas que tuviere bajo su mando el comandante investido de la facultad de convocarlos, a los responsables de delitos que tengan señalada pena de muerte.
+Los consejos de guerra extraordinarios, son competentes para juzgar en campaña y dentro del territorio ocupado por las fuerzas que tuvieren bajo su mando el comandante investido de la facultad de convocarlos, a los responsables de delitos que tengan señalada pena de treinta a sesenta años de prisión.
 
 Son competentes para convocar consejos de guerra extraordinarios:
 
@@ -590,9 +594,11 @@ I.- Los comandantes de la guarnición;
 
 II.- El jefe de un ejército, cuerpo de ejército o comandante en jefe de fuerzas navales, y los de las divisiones, brigadas, secciones o buques que operen aisladamente.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 74.
 
-Los consejos de guerra extraordinarios en los buques de la Armada, son competentes para conocer, en tiempo de paz y sólo cuando la unidad naval se halle fuera de aguas territoriales, de los delitos castigados con pena de muerte, cometidos por marinos a bordo; y en tiempo de guerra, de los mismos delitos, cometidos, también a bordo, por cualquier militar.
+Los consejos de guerra extraordinarios en los buques de la Armada, sí son competentes para conocer, en tiempo de paz y sólo cuando la unidad naval se halle fuera de aguas territoriales, de los delitos sancionados con penas de treinta a sesenta años de prisión, cometidos por marinos a bordo; y en tiempo de guerra, de los mismos delitos, cometidos también a bordo, por cualquier militar.
 
 ###### ARTICULO 75.
 
@@ -1036,6 +1042,8 @@ III.- si para la perpetración del delito hubiere precedido a la orden, acuerdo 
 
 ### CAPITULO II. De la prisión
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 111.
 
 Son cómplices:
@@ -1164,15 +1172,21 @@ IV.- la actitud del acusado con posterioridad a la comisión del delito y especi
 
 Las penas son:
 
-I.- Prisión ordinaria;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-II.- prisión extraordinaria;
+I.- Prisión.
 
-III.- suspensión de empleo o comisión militar;
+II.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
-IV.- destitución de empleo, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-V.- muerte.
+III.- Suspensión de empleo o comisión militar, y
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+IV.- Destitución de empleo.
+
+V.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 123.
 
@@ -1198,15 +1212,17 @@ No se estimarán como penas para los efectos de esta ley: la restricción de la 
 
 ###### ARTICULO 128.
 
-La pena de prisión ordinaria consiste en la privación de la libertad desde dieciséis días a quince años, sin que este segundo término pueda ser aumentado ni aun por causa de acumulación o de reincidencia, pues únicamente quedará sujeto a los efectos de la retención en su caso.
+La pena de prisión consiste en la privación de la libertad desde dieciséis días a sesenta años, sin que este segundo término pueda ser aumentado ni aún por causa de acumulación o de reincidencia, pues únicamente quedará sujeto a los efectos de la retención en su caso.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 129.
 
-Los condenados a prisión ordinaria la sufrirán en la cárcel militar o común o en el lugar que la Secretaría de Guerra y Marina designe.
+Los condenados a prisión la compurgarán en la cárcel militar o común o en el lugar que la autoridad competente designe.
 
 ###### ARTICULO 130.
 
-La pena de prisión extraordinaria es la que se aplica en lugar de la de muerte, en los casos en que así lo autoriza expresamente este Código; durará veinte años, y se hará efectiva en los términos establecidos en el artículo anterior.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ### CAPITULO II. Aplicación de penas a los menores de dieciocho años y a los alumnos de los establecimientos de educación militar
 
@@ -1258,11 +1274,13 @@ El Ejecutivo podrá conceder por una sola vez la rehabilitación siempre que el 
 
 La rehabilitación devuelve al condenado la capacidad legal para volver a servir en el ejército.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ### CAPITULO IV. Aplicación de penas en los grados de conato y delito frustrado
 
 ###### ARTICULO 142.
 
-La pena de muerte no deberá ser agravada con circunstancia alguna que aumente los padecimientos del reo, antes o en el acto de realizarse la ejecución.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ### CAPITULO V. Aplicación de penas en caso de acumulación y reinsidencia (sic)
 
@@ -1278,7 +1296,9 @@ A todo militar se le considerará suspenso en el ejercicio de su empleo sin qued
 
 A los sargentos, cabos y soldados procesados por el delito de deserción simple o condenados a sufrir una pena sin perjuicio del servicio, cualquiera que sea el lugar señalado para unos y otros, se considerarán como soldados; prestarán los servicios que se les designen y estarán sujetos en todo a las prevenciones de la ordenanza o leyes que la substituyan, y a las del presente Código.
 
-## TITULO TERCERO. Aplicación de las penas, substitución, reducción y conmutación de ellas
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+## TITULO TERCERO. Aplicación, Substitución y Reducción de las Penas
 
 ### CAPITULO VI. Aplicación de penas a los cómplices y encubridores
 
@@ -1288,9 +1308,11 @@ Se prohibe imponer por simple analogía y aun por mayoría de razón, pena algun
 
 I.- Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgasen una o más leyes que disminuyan la pena establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley;
 
-II.- cuando pronunciada una sentencia irrevocable en que se haya impuesto una pena corporal que no sea la de muerte, se dictare una ley que sólo disminuya la duración de la pena, si el reo lo pidiere y se hallare en el caso de la nueva ley, se reducirá la pena impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-III.- cuando pronunciada una sentencia irrevocable en que se haya impuesto la pena capital, se dictare una ley que varíe esa pena, se conmutará con la establecida en la nueva ley;
+II.- cuando pronunciada una sentencia irrevocable en que se haya impuesto una pena privativa de libertad, se dictare una ley que sólo disminuya la duración de la pena, si el reo lo pidiere y se hallare en el caso de la nueva ley, se reducirá la pena impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior;
+
+III.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005);
 
 IV.- cuando una ley quite a un hecho u omisión el carácter de delito que otra anterior le daba, se pondrá en absoluta libertad a quienes se estuviere juzgando, así como a los sentenciados que se hallen cumpliendo sus condenas y cesarán de pleno derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 
@@ -1314,11 +1336,13 @@ Las circunstancias calificativas o modificativas de la pena que tienen relación
 
 Si el reo ha permanecido preso mayor tiempo del que debiere durar la pena privativa de libertad que haya de imponérsele y hubiere que aplicarle además, la de suspensión de empleo o comisión, o la de destitución de empleo, el juez disminuirá del tiempo de la suspensión o de la inhabilitación para volver al ejército el exceso de la prisión sufrida.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 151.
 
-Siempre que a determinado responsable de un delito se hubiere de imponer una pena que le resulte inaplicable por ser incompatible alguna de las circunstancias de ella con las personales del reo o se hubiere de imponer una parte proporcional de alguna pena indivisible, se observarán las reglas siguientes:
+Siempre que a determinado responsable de un delito se hubiere de imponer una pena que le resulte inaplicable por ser incompatible alguna de las circunstancias de ella con las personales del reo o se hubiere de imponer una parte proporcional de alguna pena indivisible, se observará lo siguiente:
 
-I.- Si la pena fuere la capital se hará el cómputo, como si aquélla fuese la de veinte años de prisión, y
+I.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005).
 
 II.- si la pena fuere la de suspensión de empleo o comisión o la de destitución de empleo, se aplicará proporcionalmente la de prisión, computada conforme a la mitad de la duración que hubieren debido tener la suspensión o la inhabilitación para volver a pertenecer al ejército.
 
@@ -1354,19 +1378,21 @@ Para los efectos de este Código, todos los militares que ingresen a alguno de l
 
 Para los mismos efectos del artículo que antecede, los alumnos cadetes de los establecimientos de educación militar, con relación a los demás miembros del ejército, serán considerados como sargentos primeros.
 
-### CAPITULO VIII. De la substitución, conmutación y reducción de penas
+### CAPITULO VIII. De la Substitución de Penas
 
 ###### ARTICULO 157.
 
 Los delitos de imprudencia, cuando este Código no señale pena determinada, se castigarán:
 
-I.- Con tres años de prisión cuando el delito, de ser intencional, tuviere señalada la pena de muerte;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-II.- con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo;
+I.- Con tres años de prisión cuando el delito, de ser intencional, tuviere señalada pena de treinta a sesenta años;
 
-III.- con una tercera parte del tiempo de suspensión de empleo o comisión que tuviese fijado para el delito, de ser intencional, y
+II.- Con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo;
 
-IV.- en cualquier otro caso con prisión de dieciséis días a dos años al arbitrio del juez, quien tomará en cuenta para la fijación de la pena, la mayor o menor facilidad de prever y evitar el daño causado; si bastaban para esto una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia; si los acusados han delinquido anteriormente en circunstancias semejantes, y si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
+III.- Con una tercera parte del tiempo de suspensión de empleo o comisión que tuviese fijado para el delito, de ser intencional, y
+
+IV.- En cualquier otro caso con prisión de dieciséis días a dos años al arbitrio del juez, quien tomará en cuenta para la fijación de la pena, la mayor o menor facilidad de prever y evitar el daño causado; si bastaban para esto una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia; si los acusados han delinquido anteriormente en circunstancias semejantes, y si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
 
 Tratándose de exceso en la defensa, tomará en consideración además, el grado de agitación y sobresalto del agredido, la hora y lugar de la agresión, la edad, la constitución física y demás circunstancias corporales del agresor y del agredido, el número de atacantes y defensores y las armas empleadas en el ataque y en la defensa.
 
@@ -1391,6 +1417,8 @@ II.- cuando el delito no se consume por causas extrañas a la voluntad del agent
 El juez tendrá en cuenta lo dispuesto en los artículos 146 y 147.
 
 ### CAPITULO II. De la retención
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 160.
 
@@ -1462,6 +1490,8 @@ Si la autoridad judicial estima atenuantes, podrá disminuir la pena del medio a
 
 Si la ley fijare los extremos, la autoridad judicial impondrá la que estime justa, debiendo tomar en cuenta las circunstancias que atenúen o agraven la responsabilidad del acusado, si algunas concurren.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ### CAPITULO II. Extinción de la pena
 
 > <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
@@ -1474,45 +1504,35 @@ La substitución no puede hacerse sino por la autoridad judicial cuando este Có
 
 La substitución podrá hacerse en los casos siguientes:
 
-I.- Cuando la pena señalada sea la capital y el acusado fuere mujer o no llegue a dieciocho años o haya cumplido sesenta, al tiempo de pronunciarse sentencia, o hayan transcurrido cinco años desde que se cometió el delito hasta el momento de ser aprehendido el culpable, aunque se hubiere actuado en el proceso;
+I.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005);
 
 II.- cuando se trate de un delito que no haya causado daño ni escándalo, y la pena señalada no pase de seis meses de prisión, si es la primera vez que delinque el acusado, ha sido antes de buena conducta y median otras circunstancias dignas de tomarse en cuenta, y
 
 III.- cuando la ley lo determine expresamente.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 175.
 
-En los casos de la fracción I del artículo anterior, la pena de muerte se substituirá con la de prisión extraordinaria. En los casos de la fracción II, no se ejecutará la sentencia, pero sí se amonestará al reo.
+En los casos de la fracción II del artículo anterior, no se ejecutará la sentencia, pero sí se amonestará al reo.
 
 ###### ARTICULO 176.
 
-La conmutación de las penas podrá hacerla el Presidente de la República después de pronunciada sentencia irrevocable, que imponga la pena capital, si concurre alguno de los siguientes requisitos:
-
-I.- Que el acusado haya cumplido sesenta años de edad;
-
-II.- que el acusado acredite plenamente que la pena que le fué impuesta es incompatible por alguna de sus circunstancias con las personales de aquél;
-
-III.- cuando se haya promulgado una ley que varíe la naturaleza de la pena;
-
-IV.- cuando lo estime procedente en atención al tiempo transcurrido después de la comisión del delito o por cualquier otro motivo de conveniencia pública, y
-
-V.- cuando se conceda indulto por gracia.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 177.
 
-La pena de muerte se conmutará en la de prisión extraordinaria. En el caso de la fracción II del artículo anterior, se modificará la circunstancia que haga inaplicable la pena y en el caso de la fracción III se conmutará en la señalada en la nueva ley.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 178.
 
-La reducción de pena impuesta en sentencia irrevocable, podrá hacerse por el Ejecutivo Federal, en los casos siguientes:
-
-I.- Cuando encontrándose el reo extinguiendo una pena temporal en virtud de sentencia ejecutoria, de indulto o conmutación de la de muerte, se dictare una ley en la que respecto del delito por el que aquél hubiere sido condenado, se disminuya la penalidad, se reducirá ésta, hasta el máximo de la señalada en la nueva ley, y
-
-II.- cuando no se hubiere hecho la acumulación de penas.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ## TITULO CUARTO. Ejecución de las sentencias, retención y libertad preparatoria
 
 ### CAPITULO I. Traición a la patria
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 179.
 
@@ -1528,11 +1548,11 @@ La ejecución de las sentencias se hará en la forma y circunstancias que determ
 
 ### CAPITULO II. Espionaje
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 182.
 
-Toda pena de prisión ordinaria por dos o más años, será siempre impuesta con calidad de retención por una cuarta parte más de tiempo, y así se expresará en la sentencia.
-
-La pena de prisión extraordinaria, nunca se impondrá con calidad de retención.
+Toda pena de prisión por dos o más años, será siempre impuesta con calidad de retención por una cuarta parte más de tiempo, y así se expresará en la sentencia.
 
 ###### ARTICULO 183.
 
@@ -1540,13 +1560,17 @@ La retención se hará efectiva cuando el condenado con esa calidad, tuviere mal
 
 ### CAPITULO III. Delitos contra el derecho de gentes
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 184.
 
 Los reos condenados a sufrir una pena privativa de libertad por delito cuyo término medio no sea menor de dos años, tendrán derecho a que se les conceda el beneficio de libertad preparatoria, dispensándoles el tiempo restante, cuando hayan observado buena conducta durante la mitad de su condena.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 185.
 
-Al condenado a prisión extraordinaria, no se le otorgará la libertad preparatoria, sino cuando haya tenido buena conducta por un tiempo igual a los dos tercios de su pena.
+Al sentenciado a cumplir una pena privativa de libertad de treinta a sesenta años, sólo se le otorgará la libertad preparatoria, cuando haya tenido buena conducta por un tiempo igual a los dos tercios de su pena.
 
 ## TITULO QUINTO. De la extinción de la acción penal y de la pena
 
@@ -1582,11 +1606,13 @@ Las acciones penales prescribirán en los plazos siguientes:
 
 I.- En un año si el término medio de la pena privativa de la libertad fuere menor de ese tiempo o fuere la de suspensión de empleo o comisión;
 
-II.- en tres años si el término medio de la pena de prisión fuere de un año o más, sin exceder de tres; o si la acción naciere de delito que tenga señalada como única pena la de destitución de empleo;
+II.- En tres años si el término medio de la pena de prisión fuere de un año o más, sin exceder de tres; o si la acción naciere de delito que tenga señalada como única pena la de destitución de empleo;
 
-III.- en un tiempo igual al término medio de la pena si éste debiere exceder de tres años, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-IV.- en quince años si la pena fuere la de muerte.
+III.- En un tiempo igual al término medio de la pena si éste debiere exceder de tres años.
+
+IV.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 191.
 
@@ -1620,13 +1646,15 @@ Los términos para la prescripción de las penas serán continuos y correrán de
 
 Las penas prescribirán en los siguientes plazos:
 
-I.- En quince años la de muerte y la de prisión extraordinaria;
+I.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
-II.- en un término igual al de su duración, más una cuarta parte, las demás penas, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+II.- En un término igual al de su duración, más una cuarta parte de la pena impuesta, y
 
 III.- en un tiempo igual al que falte de la condena, más una cuarta parte, cuando el reo hubiere cumplido parcialmente aquélla.
 
-En ningún caso el término para la prescripción excederá de quince años.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 198.
 
@@ -1664,11 +1692,11 @@ No se aplicará lo dispuesto en el párrafo anterior, al indulto a que se refier
 
 El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño causado.
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 202.
 
-Cuando se conceda indulto de la pena de muerte, ésta se conmutará por la de prisión extraordinaria. En el caso de reconocimiento de inocencia, se relevará de toda pena al sentenciado.
+En el caso de reconocimiento de inocencia, se relevará de toda pena al sentenciado y si está detenido, se le pondrá en inmediata libertad.
 
 ## TITULO SEXTO. Delitos contra la seguridad exterior de la Nación
 
@@ -1676,7 +1704,7 @@ Cuando se conceda indulto de la pena de muerte, ésta se conmutará por la de pr
 
 ###### ARTICULO 203.
 
-Será castigado con la pena de muerte, quien:
+Se impondrá pena de treinta a sesenta años de prisión, a quien:
 
 I.- Induzca a una potencia extranjera a declarar la guerra a México, o se concierte con ella para el mismo fin;
 
@@ -1722,9 +1750,11 @@ XXI.- sea cómplice o encubridor de los espías o exploradores del enemigo, y
 
 XXII.- esté de acuerdo con el gobierno o súbdito de una potencia extranjera, para ocasionar cualquier daño o perjuicio a la patria.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 204.
 
-En el caso de la fracción XX del artículo anterior, en vez de la pena de muerte se impondrá la de nueve años de prisión, siempre que entre el reo y el prisionero a quien hubiere puesto en libertad o cuya evasión hubiere favorecido, existan circunstancias personales de parentesco por consanguinidad en línea recta sin limitación de grado, y en la colateral hasta el cuarto grado o por afinidad hasta el segundo inclusives (sic) u otras igualmente atendibles a juicio de los tribunales.
+En el caso de la fracción XX del artículo anterior, se impondrá la pena de nueve años de prisión, siempre que entre el reo y el prisionero a quien hubiere puesto en libertad o cuya evasión hubiere favorecido, existan circunstancias personales de parentesco por consanguinidad en línea recta sin limitación de grado, y en la colateral hasta el cuarto grado o por afinidad hasta el segundo, inclusive, u otras igualmente atendibles a juicio de los tribunales.
 
 ###### ARTICULO 205.
 
@@ -1736,7 +1766,7 @@ Hay conspiración siempre que dos o más personas resuelven de concierto cometer
 
 ###### ARTICULO 206.
 
-Se castigará con la pena de muerte: a quien se introduzca en las plazas fuertes o puestos militares o entre las tropas que operen en campaña, con objeto de recoger noticias útiles al enemigo y comunicarlas a éste.
+A quien se introduzca en las plazas, fuertes, puestos militares o entre las tropas que operen en campaña, con objeto de obtener información útil al enemigo y comunicarla a éste, se le impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 207.
 
@@ -1746,7 +1776,7 @@ El espía que habiendo logrado su objeto se hubiere incorporado a su ejército y
 
 ###### ARTICULO 208.
 
-Se castigará con la pena de muerte al que sin motivo justificado:
+Se impondrá pena de treinta a sesenta años de prisión, al que sin motivo justificado:
 
 I.- Ejecute actos de hostilidad contra fuerzas, barcos, aeronaves, personas o bienes de una nación extranjera, si por su actitud sobreviniese una declaración de guerra o se produjesen violencias o represalias;
 
@@ -1762,11 +1792,15 @@ III.- prolongue las hostilidades o un bloqueo después de haber recibido el avis
 
 Se castigará con la pena de doce años de prisión al que, sin exigencia extrema de las operaciones de la guerra, incendie edificios, devaste sementeras, saquee pueblos o caseríos, ataque hospitales, ambulancias o asilos de beneficencia dados a conocer por los signos establecidos, o cuyo carácter pueda distinguirse a lo lejos de cualquier modo, o destruya bibliotecas, museos, archivos, acueductos u obras notables de arte; así como vías de comunicación.
 
-A los promovedores se les aplicará la pena de muerte.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+A los promovedores se les impondrá pena de treinta a sesenta años de prisión.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 210.
 
-Se castigará con la pena de muerte a todo comandante de nave que valiéndose de su posición en la Armada, se apodere durante la guerra, de un buque perteneciente a una nación aliada, amiga o neutral; o en tiempo de paz, de cualquier otro sin motivo justificado para ello, o exija por medio de la amenaza o de la fuerza, rescate o contribución a alguno de esos buques o ejerza cualquier otro acto de piratería.
+Se impondrá pena de treinta a sesenta años de prisión, a todo comandante de nave que valiéndose de su posición en la Armada, se apodere durante la guerra, de un buque perteneciente a una nación aliada, amiga o neutral; o en tiempo de paz, de cualquier otro sin motivo justificado para ello, o exija por medio de la amenaza o de la fuerza, rescate o contribución a alguno de esos buques o ejerza cualquier otro acto de piratería.
 
 ###### ARTICULO 211.
 
@@ -1780,7 +1814,9 @@ Se impondrá la pena de cinco años de prisión, al comandante de un barco armad
 
 Se impondrá la pena de diez años de prisión, a los miembros de la tripulación de un buque de guerra mexicano, o armado en corso bajo la bandera nacional, que utilicen su embarcación y elementos para cometer violencias y robos en las costas o en otras embarcaciones.
 
-Si al apresar una embarcación cometieren innecesariamente homicidios, lesiones graves u otras violencias, o dejaren a las personas sin medios de salvarse, se les aplicará la pena de muerte.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+Si al apresar una embarcación cometieren innecesariamente homicidios, lesiones graves u otras violencias, o dejaren a las personas sin medios de salvarse, se les impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 214.
 
@@ -1826,9 +1862,11 @@ III.- separar de su cargo al Presidente de la República, los Secretarios de Est
 
 IV.- abolir o reformar la Constitución Política de alguno de los Estados de la Federación, las instituciones que de ella emanen, impedir la integración de éstas o la elección correspondiente; o para lograr la separación del gobernador, miembros del Tribunal Superior o Procurador General de Justicia; todo ello, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Federal, los alzados no depongan, sin resistencia, las armas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 219.
 
-Se castigará con la pena de muerte:
+Se impondrá pena de treinta a sesenta años de prisión:
 
 I.- Al que promueva o dirija una rebelión;
 
@@ -1940,9 +1978,11 @@ Si el delito de que habla el artículo anterior, se perpetrare por otro que no s
 
 A los responsables de los delitos expresados en los cinco artículos precedentes, a quienes deba imponerse la destitución como consecuencia de la pena privativa de libertad que les corresponda, se les fijará para la inhabilitación otro tiempo igual al que deba durar la pena corporal.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 237.
 
-El que intencionalmente altere, cambie, destruya o modifique los diarios de bitácora, navegación, o desviación del compás o cronómetros o libros de cargo, estudios científicos o relativos a una navegación, o que dé un falso rumbo, u observaciones de situación (sic) distintas de las verdaderas, será castigado con ocho meses de prisión, si no resultare daño. Si resultare éste, la pena será de tres años de prisión, y si se perdiere el buque, la pena será la de muerte.
+El que intencionalmente altere, cambie, destruya o modifique los diarios de bitácora, navegación, o desviación del compás o cronómetros o libros de cargo, estudios científicos o relativos a una navegación, o que dé un falso rumbo, u observaciones de situación distintas de las verdaderas, será castigado con ocho meses de prisión, si no resultare daño. Si resultare éste, la pena será de tres años de prisión, y si se perdiere el buque, se impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 238.
 
@@ -2056,19 +2096,23 @@ El que, maliciosamente y fuera de los casos previstos en el artículo 203, fracc
 
 Igual pena tendrá el que maliciosamente comunique el agua de mar con los pañoles de pólvora, municiones o víveres, si por esa causa se inutilizaren dichos efectos.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 251.
 
-Si el medio empleado para la destrucción o devastación hubiere sido el incendio o la explosión de una mina, y para ello se hubiere hecho uso de la fuerza armada, la pena será la de muerte. Si no se hubiere usado de fuerza armada, la pena será la de once años de prisión.
+Si el medio empleado para la destrucción o devastación, hubiere sido el incendio o la explosión de una mina, y para ello se hubiere hecho uso de la fuerza armada, se impondrá pena de treinta a sesenta años de prisión. Si no se hubiere usado de fuerza armada, la pena será de once años de prisión.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 252.
 
-Al que por medio de barrenos o abertura de una o más válvulas, produzca maliciosamente la pérdida total de un buque, se le aplicará la pena de muerte.
+Al que por medio de barrenos o abertura de una o más válvulas, produzca maliciosamente la pérdida total de un buque, se le impondrá pena de treinta a sesenta años de prisión.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 253.
 
-El que, con intención dolosa, destruya o haga destruir frente al enemigo, objetos necesarios para la defensa o el ataque, o para la navegación o maniobras de un buque, todo o parte del material de guerra, aeronaves, armas, municiones, víveres o efectos de campamento o del servicio de barco, será castigado con la pena de muerte.
+El que, con intención dolosa, destruya o haga destruir frente al enemigo, objetos necesarios para la defensa o el ataque, o para la navegación o maniobras de un buque, todo o parte del material de guerra, aeronaves, armas, municiones, víveres o efectos de campamento o del servicio de barco, se le impondrá pena de treinta a sesenta años de prisión.
 
 Si el delito a que el presente artículo se contrae no hubiere sido perpetrado frente al enemigo ni estuviere comprendido en la fracción XVII del artículo 203, la pena será la de ocho años de prisión.
 
@@ -2126,7 +2170,7 @@ Los individuos de tropa que desertaren efectuando su separación ilegal del serv
 
 ###### ARTICULO 261.
 
-Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se preven en seguida, serán castigados:
+Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se prevén en seguida, serán castigados:
 
 I.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la pena de tres años de prisión;
 
@@ -2238,9 +2282,11 @@ III.- en los casos de las fracciones VIII a X, con destitución de empleo.
 
 Siempre que al aplicarse la penalidad establecida en los artículos 267, 268 y 270 deba imponerse la destitución de empleo, se fijará en diez años al término de la inhabilitación para volver al ejército.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 272.
 
-Los que desertaren frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, bajo su persecución o durante la retirada, serán castigados con la pena de muerte.
+Los que desertaren frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, bajo su persecución o durante la retirada, se les impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 273.
 
@@ -2250,11 +2296,15 @@ La deserción en actos del servicio o en campaña, se entenderá perpretada (sic
 
 Siempre que tres o más individuos reunidos cometieren simultáneamente alguno de los delitos consignados en este capítulo, se observará lo que a continuación se expresa:
 
-I.- A los que en el caso de haber cometido el delito aisladamente, hubiere debido aplicársele la pena de muerte, se les impondrá ésta;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-II.- a los que en ese mismo caso hubiere debido imponérseles una privativa de libertad, sola o reunida a otra de distinta especie, se les impondrá el máximo de aquélla aumentada en una cuarta parte de su duración, y las demás que hubiere debido imponérseles en el caso indicado, y
+I.- A los que en el caso de haber cometido el delito aisladamente, hubiere debido aplicársele pena de treinta a sesenta años de prisión, se les impondrá ésta;
 
-III.- al que hubiere encabezado la reunión o grupo si fuere individuo de tropa se le castigará con la pena de trece años de prisión, siempre que conforme a lo prevenido en la fracción I, no debiere aplicársele la pena de muerte; pero si fuere oficial o el delito se hubiere cometido en campaña, se le aplicará en todo caso esa última pena.
+II.- A los que en ese mismo caso hubiere debido imponérseles una privativa de libertad, sola o reunida a otra de distinta especie, se les impondrá el máximo de aquélla aumentada en una cuarta parte de su duración, y las demás que hubiere debido imponérseles en el caso indicado, y
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+III.- Al que hubiere encabezado la reunión o grupo si fuere individuo de tropa se le castigará con la pena de trece años de prisión, siempre que conforme a lo prevenido en la fracción I, no debiere imponérsele pena de treinta a sesenta años de prisión; pero si fuere oficial o el delito se hubiere cometido en campaña, se le aplicará en todo caso esa última pena.
 
 > <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
 
@@ -2290,13 +2340,17 @@ Se impondrá la pena de ocho meses de prisión, a quien se valga de recursos o m
 
 El que ofenda o amenace a un centinela, a un miembro de una guardia, a un viglante (sic), serviola, guardián o salvaguardia y el que destruya ésta si fuere escrita, será castigado con la pena de un año de prisión.
 
+> <small>(REFORMADO RIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 279.
 
-El que cometa una violencia contra los individuos expresados, será castigado:
+El que cometa violencia contra cualquiera de los individuos mencionados en el artículo anterior, será sancionado:
 
-I.- Con la pena de muerte si hiciere uso de armas, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-II.- con la pena de cinco años de prisión, si la violencia se cometiere sin hacer uso de armas.
+I.- Con pena de treinta a sesenta años de prisión si hiciere uso de armas, y
+
+II.- Con la pena de cinco años de prisión, si la violencia se cometiere sin hacer uso de armas.
 
 ###### ARTICULO 280.
 
@@ -2320,7 +2374,9 @@ I.- Con seis meses de prisión en tiempo de paz;
 
 II.- con un año de prisión estando en campaña, y
 
-III.- con la pena de muerte, estando frente al enemigo, si hubiere resultado daño a las tropas, embarcaciones o aeronaves.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+III.- Con pena de treinta a sesenta años de prisión, si estando frente al enemigo, se hubiere causado daño a las tropas, embarcaciones o aeronaves.
 
 ## TITULO NOVENO. Delitos contra la jerarquía y la autoridad
 
@@ -2362,13 +2418,17 @@ Si la deformidad fuere en la cara, se tendrá esta circunstancia como agravante;
 
 VIII.- con diez años de prisión cuando resulte incapacidad permanente para trabajar, enajenación mental, pérdida de la vista, o del habla, o de las funciones sexuales, y
 
-IX.- con la pena capital cuando se causare la muerte del superior.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+IX.- con pena de treinta a sesenta años de prisión cuando se causare la muerte del superior.
 
 Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones IV a VIII.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 286.
 
-La insubordinación fuera del servicio, cuando se cometa de cualquiera de las maneras previstas en los artículos anteriores, será castigado (sic) con la mitad de las penas que en ellos se establecen, pero si la pena fuere la de muerte, se impondrá ésta.
+La insubordinación fuera del servicio, cuando se cometa de cualquiera de las maneras previstas en los artículos anteriores, será castigada con la mitad de las penas que en ellos se establecen, pero si la insubordinación provocara la muerte del superior, se le impondrá pena de treinta a sesenta años de prisión.
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -2376,9 +2436,11 @@ La insubordinación fuera del servicio, cuando se cometa de cualquiera de las ma
 
 Si el delito de insubordinación a que se refieren las fracciones I al VIII del artículo 285 fuere perpetrado cuando el que lo cometa estuviere sobre las armas, o delante de bandera, o de tropa formada, o durante zafarrancho de combate con armas, el término de la pena se formará aumentando en un tercio, el que según esas mismas disposiciones hubiere de corresponder.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 288.
 
-Cuando el inferior haya sido excitado u obligado a cometer súbitamente alguno de los delitos previstos en este capítulo, por algún acto del superior contrario a las prescripciones legales o en el que éste se haya excedido en el uso de sus facultades, se le aplicará la mitad del mínimo de la pena que corresponda y si la pena señalada fuere la de muerte, deberá imponerse la de siete años de prisión.
+Cuando el inferior haya sido excitado u obligado a cometer súbitamente alguno de los delitos previstos en este capítulo, por algún acto del superior contrario a las prescripciones legales o en el que éste se haya excedido en el uso de sus facultades, se le aplicará la mitad del mínimo de la pena que corresponda.
 
 ###### ARTICULO 289.
 
@@ -2388,19 +2450,19 @@ Si en los casos del artículo que antecede, los actos del superior constituyen u
 
 El que por violencia o amenaza intentara impedir la ejecución de una orden del servicio dada por un superior u obligar a éste a que la ejecute o a que la dé o se abstenga de darla, será castigado con la pena de diez años de prisión.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-Si el delito de que se trata en este artículo fuere cometido sobre las armas o delante de la bandera o tropa formada o durante zafarrancho de combate con armas, se impondrá la pena de muerte.
+Si el delito de que se trata en este artículo fuere cometido sobre las armas o delante de la bandera o tropa formada o durante zafarrancho de combate con armas, se impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 291.
 
 Si en la orden cuyo cumplimiento se trate de impedir, concurriere alguna de las circunstancias especificadas en los artículos 288 y 289, las disposiciones contenidas en esos preceptos, serán igualmente aplicables a los casos comprendidos en el artículo que antecede.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 292.
 
-Cuando la insubordinación consistiere en vías de hecho o estuviere comprendida en el artículo 290, si se cometiere en marcha para atacar al enemigo, frente a él, esperando a la defensiva, bajo su persecución o durante la retirada, se aplicará la pena de muerte sin tener en cuenta las disposiciones de los artículos 119, fracción III, 288 y 289.
+Cuando la insubordinación consistiere en vías de hecho o estuviere comprendida en el artículo 290, si se cometiere en marcha para atacar al enemigo, frente a él, esperando a la defensiva, bajo su persecución o durante la retirada, se aplicará pena de treinta a sesenta años de prisión sin tener en cuenta las disposiciones de los artículos 119 fracción III, 288 y 289.
 
 ### CAPITULO IV. Pillaje, devastación, merodeo, apropiación de botín, contrabando, saqueo y violencias contra las personas
 
@@ -2448,7 +2510,9 @@ V.- con ocho años de prisión, si fuere de las expresadas en la fracción VIII;
 
 VI.- con diez años y seis meses de prisión, si resultare homicidio simple, y
 
-VII.- con la pena de muerte si el homicidio fuere calificado.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+VII.- Con pena de treinta a sesenta años de prisión si resultare homicidio calificado.
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -2476,9 +2540,11 @@ La desobediencia en actos del servicio será castigada con un año de prisión, 
 
 I.- Cuando ocasione un mal grave que se castigará con dos años de prisión;
 
-II.- cuando fuere cometida en campaña, que se castigará con cinco años de prisión, y si resultare perjuicio a las operaciones militares, con diez años de prisión, y
+II.- Cuando fuere cometida en campaña, que se castigará con cinco años de prisión, y si resultare perjuicio a las operaciones militares, con diez años de prisión, y
 
-III.- cuando se efectúe frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, persiguiéndolo o durante la retirada, se impondrá la de muerte.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+III.- Cuando se efectúe frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, persiguiéndolo o durante la retirada, se impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 304.
 
@@ -2500,7 +2566,9 @@ Los que en grupo de cinco, por lo menos, o sin llegar a ese número cuando forme
 
 I.- Con diez años de prisión los promovedores, instigadores o cabecillas del delito y con cinco años de prisión, los que hubieren secundado a los anteriores, si el delito se cometiere en tiempo de paz, y
 
-II.- con la pena de muerte todos los promovedores, instigadores o cabecillas de la asonada, de cabos en adelante, y con doce años de prisión los soldados, si el delito se cometiere en campaña.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+II.- Con pena de treinta a sesenta años de prisión, a todos los promovedores, instigadores o cabecillas de la asonada, de cabos en adelante, y con doce años de prisión los soldados, si el delito se cometiere en campaña.
 
 ###### ARTICULO 306.
 
@@ -2528,6 +2596,8 @@ La conspiración para cometer el delito de asonada, se castigará con un año de
 
 ### CAPITULO III. Infracción de deberes especiales de marinos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 310.
 
 El delito de abandono de comisión o de puesto, consiste en la separación del lugar o punto, en el que conforme a disposición legal o por orden superior se debe permanecer, para desempeñar las funciones del encargo recibido.
@@ -2544,7 +2614,9 @@ II.- con tres años de prisión el que abandone la custodia o la escolta de pris
 
 III.- con cuatro años y seis meses de prisión al que abandone la guardia o una escolta de municiones. Al comandante de la guardia o de la escolta se le aplicará la pena de seis años de prisión.
 
-El término de las penas señaladas se aumentará con un año de prisión, si el delito se cometiere en campaña; si se cometiere frente al enemigo la pena será la de muerte.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+Las penas señaladas se aumentarán con un año de prisión, si el delito se cometiere en campaña; si se cometiere frente al enemigo la pena será de treinta a sesenta años de prisión.
 
 ###### ARTICULO 312.
 
@@ -2552,9 +2624,13 @@ El abandono de puesto se castigará:
 
 I.- Con la pena de doce años de prisión cuando el comandante de un buque o encargado de un puesto, defendiéndose en cualquiera de ellos, lo abandone o pierda, sin haber hecho todo lo posible para conservarlo y mantener el honor de las armas;
 
-II.- con la pena de muerte, cuando el comandante de un puesto o buque, que habiendo recibido orden absoluta de defenderlo a toda costa, lo abandone o no haga la defensa que se le hubiere ordenado, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-III.- con la pena de muerte cuando el militar abandone el puesto que tuviere señalado para defenderlo o para observar al enemigo.
+II.- Con pena de treinta a sesenta años de prisión, cuando el comandante de un puesto o buque, que habiendo recibido orden absoluta de defenderlo a toda costa, lo abandone o no haga la defensa que se le hubiere ordenado, y
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+III.- Con pena de treinta a sesenta años de prisión, cuando el militar abandone el puesto que tuviere señalado para defenderlo o para observar al enemigo.
 
 ###### ARTICULO 313.
 
@@ -2566,15 +2642,19 @@ II.- con tres años de prisión el que abandone la guardia o la escolta de munic
 
 III.- con cuatro años y seis meses de prisión al que abandone el puesto de centinela.
 
-El término de las penas señaladas se aumentará en un año de prisión, cuando el delito se cometa en campaña; si se efectuare frente al enemigo se impondrá la de muerte.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+Las penas señaladas se aumentarán en un año de prisión, cuando el delito se cometa en campaña; si se efectuare frente al enemigo, se impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 314.
 
 Los individuos de tropa que abandonen en tiempo de paz la comisión del servicio que estuvieren desempeñando, serán castigados con la pena de un año y seis meses de prisión, si el servicio de que se trate fuere el de armas, y con la de seis meses de prisión, si fuere económico del cuartel o del buque o cualquiera otro que no sea el de armas.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 315.
 
-El abandono de mando se castigará con un año y seis meses de prisión en tiempo de paz; con seis años de prisión, en campaña; y con la pena de muerte si se efectuare frente al enemigo.
+El abandono de mando se sancionará con un año y seis meses de prisión en tiempo de paz; con seis años de prisión, en campaña; y con pena de treinta a sesenta años de prisión si se efectuare frente al enemigo.
 
 ###### ARTICULO 316.
 
@@ -2598,15 +2678,17 @@ IV.- con diez años de prisión si el abandono se realiza a la vista del enemigo
 
 V.- con seis años de prisión cuando el abandono se cometa en ocasión de peligro para la seguridad del buque y en tiempo de paz; en tiempo de guerra, se le impondrá la pena de doce años de prisión, y
 
-VI.- con la pena de muerte a los oficiales y de doce años de prisión a los marineros, si el abandono se comete cuando el buque esté varado o acosado por el enemigo y su comandante hubiere dispuesto salvarlo o defenderlo.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+VI.- con pena de treinta a sesenta años de prisión a los oficiales y de doce años de prisión a los marineros, si el abandono se comete cuando el buque esté varado o acosado por el enemigo y su comandante hubiere dispuesto salvarlo o defenderlo.
 
 ###### ARTICULO 319.
 
 El marino encargado de un buque o convoy, que lo abandone sin motivo poderoso ni justificado, sufrirá la pena:
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-I.- De muerte, si el escoltado fuere buque de la armada, o convoy o buque mercante que transporte tropas, efectos militares, víveres, combustible, pertrechos de guerra o caudales del Estado, y si por el abandono fueren apresados o destruídos por el enemigo, alguno o todos los buques;
+I.- De treinta a sesenta años de prisión, si el escoltado fuere buque de la armada o convoy o buque mercante que transporte tropas, efectos militares, víveres, combustible, pertrechos de guerra o caudales del Estado, y si por el abandono fueren apresados o destruidos por el enemigo, alguno o todos los buques;
 
 II.- de diez años de prisión si no fuere apresado ni destruido por el enemigo ningún buque de los convoyados, o si no transportare tropas ni efectos de los que expresa la fracción anterior;
 
@@ -2618,17 +2700,19 @@ IV.- de siete meses de prisión y destitución de empleo, en todos los demás ca
 
 El cabo de cuarto o timonel, que abandone el puesto que esté desempeñando, sufrirá la pena de tres meses de prisión, en tiempo de paz. En campaña, o durante tormenta o temporal, será castigado con un año de prisión, si no resultare daño. Si resultare daño, la pena será de cinco años de prisión, y si aquel consistiere en la pérdida del buque, la pena será la de diez años.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 321.
 
-El marino encargado de la escolta de un buque o de la conducción de un convoy, que pudiendo defenderlo lo abandone, entregue o rinda al enemigo sufrirá la pena de muerte.
+Al marino encargado de la escolta de un buque o de la conducción de un convoy, que pudiendo defenderlo lo abandone, entregue o rinda al enemigo se le impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 322.
 
 El marino que formando parte de la tripulación de un bote, abandone éste sin permiso del superior, será castigado con prisión de dos meses.
 
 ### CAPITULO IV. Infracción de deberes especiales de aviadores
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 323.
 
@@ -2638,7 +2722,9 @@ I.- Con la pena de tres años y seis meses de prisión, si no se ocasionare perj
 
 II.- con la pena de siete años de prisión si causa perjuicio grave, y
 
-III.- con la pena de muerte si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacía él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+III.- Con pena de treinta a sesenta años de prisión si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacia él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
 
 ### CAPITULO V. Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
 
@@ -2661,6 +2747,8 @@ V.- con dos años de prisión cuando se obligue al prisionero a combatir contra 
 VI.- Con un año de prisión cuando se despoje de sus vestidos u otros objetos, al herido, prisionero, detenido o preso, para apropiárselos.
 
 ### CAPITULO VI. Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 325.
 
@@ -2730,6 +2818,8 @@ Delitos contra el deber y decoro militares
 
 ### CAPITULO VII. Contra el honor militar
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 338.
 
 El que revele un asunto que se le hubiere confiado como del servicio, y que por su propia naturaleza o por circunstancias especiales deba tener el carácter de reservado, o sobre el cual se le tuviere prevenido reserva, o que encargado de llevar una orden por escrito u otra comunicación recomendadas especialmente a su vigilancia, las extravíe por no haber cuidado escrupulosamente de ellas, o no las entregue a la persona a quien fueren dirigidas o no intentare destruirlas de cualquier modo y a cualquiera costa cuando estuviere en peligro de caer prisionero o ser sorprendido, será castigado:
@@ -2738,7 +2828,9 @@ El que revele un asunto que se le hubiere confiado como del servicio, y que por 
 
 I.- Si se hubiere cometido en tiempo de paz, con la pena de dos años de prisión; en el caso de revelación de asuntos militares y en el de extravío o falta de entrega de una orden o comunicación, con la de tres meses de prisión, y
 
-II.- si el delito se hubiere efectuado en campaña y con este motivo hubiere resultado grave daño al Ejército, a una parte de él, a un buque o aeronave, con la pena de muerte.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+II.- Si el delito se hubiere efectuado en campaña y con este motivo hubiere resultado grave daño al Ejército, a una parte de él, a un buque o aeronave, con pena de treinta a sesenta años de prisión.
 
 Si no hubiere resultado grave daño, con la de cuatro años de prisión.
 
@@ -2876,9 +2968,11 @@ II.- con la de cuatro años de prisión, si estuviere en campaña; pero no frent
 
 III.- con prisión de cinco meses, en los demás casos del servicio ordinario.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 356.
 
-Al centinela que faltando a lo prevenido en la ordenanza, no haga respetar su persona, cualquiera que sea el que intente atropellarla o no defienda su puesto contra tropa armada o grupo de gente, hasta repeler la agresión o perder la vida, sufrirá la pena de seis meses de prisión, en el primer caso, y en el segundo, la pena de muerte.
+Al centinela que faltando a lo prevenido en la ordenanza, no haga respetar su persona, cualquiera que sea el que intente atropellarla o no defienda su puesto contra tropa armada o grupo de gente, hasta repeler la agresión o perder la vida, se le impondrá pena de seis meses de prisión, en el primer caso, y en el segundo, pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 357.
 
@@ -2896,11 +2990,11 @@ II.- en campaña de guerra, con un año y seis meses de prisión, y
 
 III.- al frente del enemigo, con la pena de siete años de prisión, y si resultare perjuicio al barco o a las operaciones de guerra, con la de ocho años.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 359.
 
-El centinela, vigilante, serviola o tope, que viendo que se le aproxima el enemigo no dé la voz de alarma, o no haga fuego, o se retire sin orden para ello, sufrirá la pena de muerte.
+El centinela, vigilante, serviola o tope, que viendo que se le aproxima el enemigo no dé la voz de alarma, o no haga fuego, o se retire sin orden para ello, se le impondrá pena de treinta a sesenta años de prisión.
 
 ###### ARTICULO 360.
 
@@ -2916,7 +3010,7 @@ El vigilante, serviola o tope, que se deje relevar sin la orden del contramaestr
 
 ###### ARTICULO 362.
 
-Será castigado con la pena de muerte:
+Será sancionado con pena de treinta a sesenta años de prisión:
 
 I.- El comandante u oficial de guardia que deliberadamente perdiere su buque;
 
@@ -2926,9 +3020,11 @@ Si el buque no estuviere en esa situación y se realizase su pérdida o se impid
 
 III.- el marino que rehusare situarse o permanecer en el punto que se le hubiere señalado en el combate o que se ocultare o volviere la espalda al enemigo durante aquél.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 363.
 
-Serán castigados con la pena de once años de prisión, los marinos que, faltando a la obediencia debida a sus jefes, incendiaren o destruyeren buques, edificios u otras propiedades. A los promovedores y al de mayor empleo o antigüedad de los del Cuerpo Militar, les será impuesta la pena de muerte.
+Serán sancionados con pena de once años de prisión, los marinos que, faltando a la obediencia debida a sus jefes, incendiaren o destruyeren buques, edificios u otras propiedades. A los promovedores y al de mayor empleo o antigüedad de los del Cuerpo Militar, les será impuesta pena de treinta a sesenta años de prisión.
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -2946,9 +3042,9 @@ II.- con siete años de prisión, en campaña de guerra;
 
 III.- con trece años de prisión, frente al enemigo, y
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-IV.- con la pena de muerte cuando en los casos de estas dos últimas fracciones resultare algún daño al grupo, escuadra o división o a sus tripulantes, o si se ocasionare la pérdida del combate.
+IV.- Con pena de treinta a sesenta años de prisión cuando en los casos de estas dos últimas fracciones resultare algún daño al grupo, escuadra o división o a sus tripulantes, o si se ocasionare la pérdida del combate.
 
 ###### ARTICULO 365.
 
@@ -3036,7 +3132,7 @@ Si resultare daño o pérdida, la pena será de cuatro años de prisión.
 
 ###### ARTICULO 376.
 
-Será castigado con la pena de muerte:
+Será sancionado con pena de treinta a sesenta años de prisión:
 
 I.- El aviador que frente al enemigo dolosamente destruya su aeronave, y
 
@@ -3090,15 +3186,17 @@ Si de la infracción resultare daño a un buque o aeronave, por este solo motivo
 
 Cuando la infracción ocasionare daño a las tropas, o la pérdida de un buque o aeronave, se castigará con diez años de prisión.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 385.
 
-Si de la infracción resultare la derrota de las tropas, o la pérdida de un buque o aeronave, estando en campaña, la pena será la de muerte.
+Si de la infracción resultare la derrota de las tropas, o la pérdida de un buque o aeronave, estando en campaña, la pena será de treinta a sesenta años de prisión.
 
 ### CAPITULO II. De la incoación del procedimiento
 
 ###### ARTICULO 386.
 
-El prisionero que vuelva a tomar las armas en contra de la Nación, después de haberse comprometido bajo su palabra de honor a no hacerlo, y que en estas condiciones fuere capturado, sufrirá la pena de muerte.
+El prisionero que vuelva a tomar las armas en contra de la Nación, después de haberse comprometido bajo su palabra de honor a no hacerlo, y que en estas condiciones fuere capturado, se le impondrá pena de treinta a sesenta años de prisión.
 
 Se impondrá la misma pena al prisionero que habiéndose comprometido en idénticas circunstancias a guardar su prisión, se evada y sea después aprehendido, prestando servicios de armas en contra de la República.
 
@@ -3112,25 +3210,31 @@ Cuando el encargado de conducir o custodiar un prisionero, proteja su fuga o lo 
 
 Cuando el encargado de la custodia de un prisionero auxilie su fuga, empleando la violencia física por medio de fractura, horadación, excavación, escalamiento o llaves falsas o violencia moral valiéndose de su posición militar, será castigado con cuatro años de prisión en el caso del artículo 387. Cuando el que auxilie la fuga no sea el encargado de la custodia, sufrirá las dos terceras partes de esa pena.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 389.
 
-Cuando se evada un prisionero que se encuentre en las condiciones que mencionan los artículos 203 fracción XX y 386, se impondrá la pena de muerte a quien haya auxiliado su fuga, sea o no el encargado de su custodia.
+Cuando se evada un prisionero que se encuentre en las condiciones que mencionan los artículos 203, fracción XX y 386, se impondrá pena de treinta a sesenta años de prisión a quien haya auxiliado su fuga, sea o no el encargado de su custodia.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 390.
 
-Cuando la evación (sic) se efectuare por negligencia de los custodios, se aplicará la mitad de las penas mencionadas, si fueren privativas de la libertad, y la de diez años si fuere la de muerte; pero si por las gestiones de alguno de los responsables se lograre la reaprehensión del prófugo antes de tres meses contados desde que se hubiere efectuado la evación (sic), las penas dichas se podrán reducir a la cuarta parte, imponiéndose cinco años de prisión si fuere la de muerte.
+Cuando la evasión se efectuare por negligencia de los custodios, se aplicará la mitad de las penas mencionadas, si fueren privativas de la libertad; pero si por las gestiones de alguno de los responsables se lograre la reaprehensión del prófugo antes de tres meses contados desde que se hubiere efectuado la evasión, dichas penas se podrán reducir a la cuarta parte.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 391.
 
-Los presos o detenidos militares que se evadan horadando muros o escalando, fracturando puertas, falseando cerraduras, saliendo de abordo de los buques por otros sitios que los destinados para el desembarque, o empleando algún otro medio violento, sufrirán la pena de diez meses de prisión, sin perjuicio de la que estuvieren extinguiendo, y si aún no hubiere recaído sentencia definitiva en su proceso, se les aplicará la misma pena, sin perjuicio también de la que en virtud de aquél haya de imponérseles, siempre que no sea la de muerte y ésta deba ejecutarse. Tratándose de oficiales no destituídos de sus respectivos empleos, al efectuarse la evasión, serán destituídos, y la pena expresada en este artículo les será aplicada aun cuando para evadirse no hubieren usado violencia.
+Los presos o detenidos militares que se evadan horadando muros o escalando, fracturando puertas, falseando cerraduras, saliendo de a bordo de los buques por otros sitios que los destinados para el desembarque, o empleando algún otro medio violento, serán sancionados con pena de diez meses de prisión, sin perjuicio de la que estuvieren extinguiendo, y si aún no hubiere recaído sentencia definitiva en su proceso, se les aplicará la misma pena, sin perjuicio también de la que en virtud de aquél haya de imponérseles. Tratándose de oficiales no destituidos de sus respectivos empleos, al efectuarse la evasión, serán destituidos, y la pena expresada en este artículo le será aplicada aun cuando para evadirse no hubieren usado violencia.
 
 ###### ARTICULO 392.
 
 Cuando el encargado de conducir o custodiar un preso o detenido, proteja su fuga, o lo ponga indebidamente en libertad, será castigado:
 
-I.- Con la pena de cinco años de prisión, si el delito imputado al preso o detenido tuviera señalada la de muerte o como máximo, la de quince años de prisión;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+I.- Con pena de cinco años de prisión, si el delito imputado al preso o detenido tuviera señalada la de quince años de prisión o más;
 
 II.- con la pena de tres años de prisión, si la del delito imputado no fuere menor de diez años, ni llegare a quince;
 
@@ -3166,7 +3270,7 @@ Siempre que se evadan uno o más prisioneros, presos o detenidos, se hará efect
 
 ###### ARTICULO 397.
 
-Será castigado con la pena de muerte:
+Será sancionado con pena de treinta a sesenta años de prisión:
 
 I.- El que por cobardía sea el primero en huir en una acción de guerra, al frente del enemigo, marchando a encontrarlo o esperándolo a la defensiva;
 
@@ -3180,13 +3284,17 @@ IV.- los subalternos que obliguen a sus superiores por medio de la fuerza, a cap
 
 No servirá de excusa al comandante de una plaza, fuerza, buque o aeronave, el haber sido violentado por sus subordinados para rendirse o capitular.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 398.
 
-El que convoque, en contravención a prescripciones disciplinarias, a una junta para deliberar sobre la capitulación, sufrirá por ese solo hecho la pena de destitución de empleo e inhabilitación por diez años para servir al ejército; pero si se celebrare la junta, y de ella resultare la rendición o capitulación, se aplicará la pena de muerte.
+El que convoque, en contravención a prescripciones disciplinarias, a una junta para deliberar sobre la capitulación, sufrirá por ese solo hecho la pena de destitución de empleo e inhabilitación por diez años para servir al Ejército; pero si se celebrare la junta, y de ella resultare la rendición o capitulación, se le impondrá pena de treinta a sesenta años de prisión.
 
 El hecho de concurrir a una junta convocada con el fin y condiciones expresados, aunque se votare en sentido diverso al de la capitulación, será castigado con suspensión de empleo por cinco años.
 
-Si el voto es en pro de la capitulación indebida, se aplicará la pena de muerte o la de destitución, de acuerdo con lo prescrito en la fracción III del artículo 397.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+Si el voto es en pro de la capitulación indebida, se impondrá pena de treinta a sesenta años de prisión o la de destitución, de acuerdo con lo prescrito en la fracción III del artículo 397.
 
 ###### ARTICULO 399.
 
@@ -3430,13 +3538,15 @@ Será castigado con la pena de dos años de prisión, el que declare falsamente 
 
 La pena será de cinco años si al falso testimonio se le hubiere dado fuerza probatoria, y se ha impuesto al reo una pena mayor de la que le correspondería sin ese testimonio o si por éste se le hubiese condenado.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 430.
 
-El funcionario o empleado que al ejecutar una sentencia de los Tribunales Militares, la altere en contra o en pro del reo, será castigado con la pena de un año de prisión. Si en el segundo caso resultare al reo un daño personal, a la pena que conforme al daño ocasionado deba imponerse, se aumentará la expresada en este artículo, salvo cuando deba aplicarse la de muerte.
+El funcionario o empleado que al ejecutar una sentencia de los Tribunales Militares, la altere en contra o a favor del reo, se le impondrá pena de uno a tres años de prisión.
 
 ###### ARTICULO 431.
 
-Se castigará como reo del delito de insubordinación, al que, estando formando el cuadro en que deba ejecutarse una sentencia de pena de muerte, levante la voz pidiendo gracia para el reo o de cualquiera manera trate de impedir que se efectúe esa ejecución.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -5132,13 +5242,11 @@ Cuando se declare que el acusado es inculpable, se pronunciará su absolución y
 
 ###### ARTICULO 712.
 
-La Secretaría de Guerra y Marina podrá mandar suspender la ejecución de una sentencia de pena de muerte, pronunciada por un consejo de guerra extraordinario. La autoridad militar que hubiere convocado a ese consejo, podrá también hacer lo mismo, por motivos poderosos y bajo su responsabilidad.
-
-Ordenada la suspensión, deberá remitirse inmediatamente el expediente a la Secretaría de Guerra y Marina, acompañado de un informe justificado del jefe militar que convocó al consejo, si él fue el que acordó la suspensión.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 713.
 
-La Secretaría de Guerra y Marina, teniendo en cuenta los datos del proceso, informe del jefe militar que ordenó la suspensión, y las necesidades disciplinarias del momento, ordenará que se ejecute la pena de muerte, o la conmutará por la de prisión extraordinaria si lo creyere conveniente.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 714.
 
@@ -5606,7 +5714,7 @@ I.- En los casos del párrafo segundo de la fracción X del artículo 20 constit
 
 II.- cuando habiéndose pronunciado sentencia condenatoria en primera instancia, la haya cumplido íntegramente el acusado, y esté pendiente del recurso de apelación.
 
-### CAPITULO III. De la conmutación, reducción, indulto, reconocimiento de inocencia y rehabilitación
+### CAPITULO III. De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación
 
 ###### ARTICULO 799.
 
@@ -5998,7 +6106,7 @@ Se suspenderá la ejecución de una sentencia, en los siguientes casos:
 
 I.- Cuando el sentenciado se encuentre en estado de enajenación mental;
 
-II.- cuando condenado a sufrir la pena de muerte, el sentenciado se encontrare enfermo o herido de gravedad;
+II.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005);
 
 III.- cuando el sentenciado hubiere pedido el indulto en alguno de los casos en que proceda y mientras resuelve el Ejecutivo;
 
@@ -6006,11 +6114,11 @@ IV.- en los demás casos especialmente señalados en este Código.
 
 ###### ARTICULO 851.
 
-La Secretaría de Guerra y Marina, previo dictamen de la Procuraduría, resolverá si aprueba la suspensión decretada por el jefe militar, determinando en este caso si hay lugar a la conmutación de la pena, o por cuánto tiempo dure la suspensión, y, en caso contrario, que se lleve adelante la ejecución, consignando a dicho jefe, si hubiere responsabilidad que exigirle.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 852.
 
-La pena de muerte se ejecutará en la forma prevenida por las prescripciones disciplinarias, agregándose al proceso, certificado del médico que asista a la ejecución.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 853.
 
@@ -6084,17 +6192,15 @@ El día de la audiencia el secretario dará cuenta con el expediente y las parte
 
 Cumplido el término de la condena, si el director del establecimiento penal, no tuviere el fallo sobre la retención, deberá poner al reo inmediatamente en libertad.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 869.
 
-El que hubiere sido condenado por sentencia irrevocable y se encontrare en alguno de los casos que mencionan las fracciones I a IV del artículo 176, podrá ocurrir al Ejecutivo por conducto de la Secretaría de Guerra y Marina, solicitando la conmutación de la pena que se le hubiere impuesto.
-
-A su solicitud acompañará el condenado, testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuviere para pedir la conmutación.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 870.
 
-La conmutación se otorgará por el Ejecutivo, observándose las reglas establecidas en este Código y recabando del Supremo Tribunal Militar, los informes que creyere convenientes.
+(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ###### ARTICULO 871.
 
@@ -6102,9 +6208,11 @@ La reducción de pena se solicitará cuando se haya pronunciado sentencia que ca
 
 El tribunal, después de oír al Ministerio Público, elevará la instancia con el informe respectivo y testimonio del fallo, a la Secretaría de Guerra y Marina para que se tome en consideración por el Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 872.
 
-Ni la solicitud de conmutación ni la de reducción de pena, suspenderán la ejecución, excepto cuando se trate de la conmutación de pena capital.
+La solicitud de reducción de pena no suspenderá la ejecución de la sentencia.
 
 > <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
@@ -6451,3 +6559,11 @@ D.O.F. 18 DE MAYO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
+
+D.O.F. 29 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las personas que antes de la entrada en vigor del presente Decreto hayan cometido un delito sancionado con pena de muerte en el Código de Justicia Militar, incluyendo los procesados y sentenciados o aquellos a quienes no se haya ejecutado o tramitado la conmutación de la pena capital, se les impondrá pena de 20 años de prisión.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
