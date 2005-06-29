@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1989-07-03"
+last_updated: "2005-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -59,39 +59,35 @@ IV.- A los familiares derechohabientes tanto de los trabajadores como de los pen
 
 V.- Al Estado y organismos públicos que se menciona en este artículo.
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 2o.
 
-Para los efectos de esta Ley, se entiende:
+Para los efectos de esta Ley, se entiende por:
 
-I.- Por Estado, a las dependencias de la Administración Pública Estatal, al igual que los Poderes Legislativo y Judicial;
+I.- Instituto: al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora:
 
-II.- Por organismos públicos incorporados, a las entidades de la Administración Pública Estatal, los Municipios de la Entidad y los organismos o instituciones que se incorporen al régimen de seguridad social de esta Ley;
+II.- Estado: a las dependencias de la Administración Pública Estatal, al igual que los poderes Legislativo y Judicial;
 
-III.- Por trabajador, a toda persona que preste sus servicios al Estado o a los organismos públicos incorporados, mediante designación legal y siempre que sus retribuciones estén consignadas en los presupuestos respectivos o se paguen con cargo a alguna de estas partidas o por estar incluido en las listas de raya de trabajadores temporales. No se considerarán como trabajadores a las personas que presten sus servicios mediante contrato sujeto a la legislación común, a las que perciban emolumentos con cargo a la partida de honorarios, y a los menores de 16 años;
+III.- Organismos públicos incorporados: a las entidades de la Administración Pública Estatal, los municipios de la Entidad y los organismos o instituciones que se incorporen al régimen de seguridad social que regula esta Ley;
 
-IV.- Por pensionista, a toda persona a la que esta Ley le reconozca tal carácter;
+IV.- Trabajador: a toda persona que preste sus servicios al Estado o a los organismos públicos incorporados, mediante designación legal y siempre que sus retribuciones estén consignadas en la normatividad y los presupuestos respectivos, o se paguen con cargo a alguna de estas partidas, o por estar incluido en las nóminas de trabajadores temporales. No se considerarán como trabajadores a las personas que presten sus servicios mediante contrato sujeto a la legislación común, a las que perciban emolumentos con cargo a la partida de honorarios y a los menores de 16 años;
 
-V.- Por familiares derechohabientes a:
+V.- Pensionista o pensionado: a toda persona que tiene derecho a percibir y cobrar una pensión en los términos de esta Ley;
 
-La esposa o a la falta de ésta, la mujer con quien el trabajador o pensionista ha vivido como si lo fuera durante los cinco años anteriores o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a recibir la prestación.
+VI.- Familiares derechohabientes, a:
 
-Los hijos el asegurado menores de 18 años, siempre que dependan económicamente de él.
+A) El o la cónyuge o, en su caso, la persona con quien el trabajador o pensionista ha vivido como si lo fuera durante los cinco años anteriores, o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas, ninguno de ellas tendrá derecho a recibir la prestación.
 
-Los hijos solteros mayores de 18 años, hasta la edad de 25, previa comprobación de que están realizando estudios de nivel medio o superior, en cualquier rama del conocimiento, en planteles oficiales o reconocidos y que no tengan un trabajo remunerado.
+B) Los hijos del asegurado menores de 18 años, siempre que dependan económicamente de él.
 
-Los hijos mayores de 18 años, incapacitados físicamente o psíquicamente, que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales procedentes.
+C) Los hijos solteros mayores de 18 años, hasta la edad de 25, previa comprobación de que están y continúan realizando estudios de nivel medio o superior, en cualquier rama del conocimiento, en planteles oficiales o reconocidos y que no tengan un trabajo remunerado.
 
-El esposo o concubinario de la trabajadora o pensionista, siempre que esté incapacitado física o psíquicamente y dependa económicamente de ella.
+D) Los hijos mayores de 18 años incapacitados física o psíquicamente que no puedan trabajar para obtener su subsistencia, según comprobación que se hará mediante certificado médico expedido por el Instituto y por los medios legales procedentes.
 
-Los padres de los trabajadores, en los términos que establece esta Ley.
+E) Los padres de los trabajadores, en los términos que establece esta Ley; y
 
-Los familiares que se mencionan en este artículo tendrán los derechos que esta Ley les concede, si reúnen los requisitos que para el otorgamiento de dichas prestaciones señala el presente ordenamiento.
-
-VI.- Por costo porcentual promedio:
-
-El definido como tal por el Banco de México, mediante acuerdo publicado en el Diario Oficial de la Federación.
+Los familiares que se mencionan en esta fracción tendrán los derechos que esta Ley les concede si reúnen los requisitos que para el otorgamiento de dichas prestaciones señala el presente ordenamiento.
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -101,9 +97,11 @@ El Instituto podrá celebrar convenios con las entidades de la Administración P
 
 La Junta Directiva del Instituto establecerá los requisitos, condiciones, modalidades y obligaciones, a los que se sujetarán los organismos que decidan incorporarse al régimen de esta Ley. La incorporación podrá ser total o parcial.
 
-###### Artículo 4o.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Se establecen con el carácter de obligatorias, las siguientes prestaciones:
+###### Artículo 4º.
+
+Se establecen con el carácter de obligatorias las siguientes prestaciones, salvo la prevención señalada en el párrafo segundo del artículo 3º de esta Ley:
 
 I.- Seguro de enfermedades no profesionales y de maternidad;
 
@@ -223,21 +221,35 @@ El sueldo que se tomará como base para los efectos de esta Ley, se integrará c
 
 El sueldo básico integrado por las prestaciones a que se refiere el párrafo anterior, estará sujeto a las cotizaciones establecidas en los artículos 16 y 21 de esta Ley y se tomará en cuenta para la determinación del monto de los seguros, pensiones, subsidios y préstamos que la misma establece.
 
-El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará con sujeción a los mismos lineamientos que fija el presente Artículo.
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará en cada caso particular mediante los convenios que celebren con el Instituto, en los términos del párrafo segundo del artículo 3º de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 16.
 
-Todo trabajador al servicio del Estado deberá aportar la cuota obligatoria del 10% sobre el sueldo básico integrado que devengue, definido en el primer párrafo del artículo anterior; dicha cuota se aplicará de la siguiente manera:
+Todo trabajador al servicio del Estado deberá aportar la cuota obligatoria del 17.5% sobre el sueldo básico integrado que devengue, definido en el primer párrafo del artículo anterior, aplicándose dicha cuota de la siguiente manera:
 
-A) El 4% para pensiones y jubilaciones;
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-B) El 5% para servicios médicos;
+A) El 10% para pensiones y jubilaciones;
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+B) El 5.5% para servicios médicos;
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
 C) El .5% para préstamos a corto plazo;
 
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
 D) El .5% para préstamos prendarios.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+E) El 1% para infraestructura, equipamiento y mantenimiento hospitalario.
 
 ###### Artículo 17.
 
@@ -277,27 +289,47 @@ Para disfrutar del cómputo mencionado en los cuatro casos anteriores, el trabaj
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto ordenará descontar hasta un 50% del sueldo mientras el adeudo no esté cubierto.
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 21.
 
-El Estado cubrirá al Instituto como aportaciones, el 14% sobre el sueldo básico integrado de los trabajadores, definido en el artículo 15.
+El Estado cubrirá al Instituto por vía de aportaciones el 29.5% sobre el sueldo básico integrado de los trabajadores según éste se define por el artículo 15 de esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
 Estas aportaciones se aplicarán de la siguiente manera:
 
-A) El 4% para pensiones y jubilaciones;
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-B) El 6% para servicios médicos;
+A) El 17% para pensiones y jubilaciones;
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+B) El 7.5% para servicio médico;
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
 C) El .5% para préstamos a corto plazo;
 
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
 D) El .5% para préstamos prendarios;
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
 E) El .4% para indemnización global;
 
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
 F) El .1% para ayuda de funeral;
 
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
 G) El 2.5% para gastos de administración.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+H) El 1% para infraestructura, equipamiento y mantenimiento hospitalario.
 
 ###### Artículo 22.
 
@@ -331,31 +363,31 @@ II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trab
 
 Al principiar la licencia sin goce de sueldo, y para los efectos de pago del subsidio señalado en el párrafo anterior, el trabajador deberá dar el aviso respectivo, dentro de las 48 horas siguientes a la fecha en que se le haya extendido la incapacidad correspondiente; en caso contrario, el Instituto no entregará el subsidio.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 24.
 
-También tendrán derecho a los servicios que señala la Fracción I del Artículo 23 en caso de enfermedad los familiares del trabajador y del pensionista que enseguida se señalan:
+También tendrán derecho a los servicios que señala la fracción I del artículo 23 de esta Ley en caso de enfermedad, siempre y cuando reúnan los requisitos y condiciones que establece la misma y el Reglamento para los Servicios Médicos del Instituto, los familiares del trabajador y del pensionista que enseguida se señalan:
 
-I.- La esposa, o a falta de esta, la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o aun durante un término menor si con ella tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a recibir las mencionadas prestaciones;
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2005)</small>
+
+I.- La cónyuge o, en su caso, la persona con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o aún durante un término menor si con ella tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a recibir las mencionadas prestaciones.
+
+En el caso de fallecimiento de la trabajadora o pensionista, únicamente continuará recibiendo el servicio médico el esposo o concubinario que esté incapacitado física o psíquicamente y haya dependido económicamente de ella;
 
 II.- Los hijos menores de 18 años.
 
-Los familiares que se mencionan en este artículo tendrán el derecho antes establecido si reúnen los siguientes requisitos:
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
-
-a) Que dependan económicamente en forma exclusiva del trabajador o del pensionista.
-
-.
-
-b).- Que el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 23;
-
-c).- Que dichos familiares no tengan por sí mismos derechos propios a las prestaciones otorgadas por esta Ley o por la Ley del Seguro Social o la Ley que Crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado dependientes de la Federación.
+Los familiares que se mencionan en esta fracción y la precedente, tendrán el derecho antes establecido cuando el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la fracción I del artículo 23 de esta Ley y cuando dichos familiares no tengan por sí mismos derechos propios a las prestaciones otorgadas por esta Ley o por la Ley del Seguro Social o la del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado dependientes de la Federación.
 
 > <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
 
 III.- Los hijos mayores de 18 y hasta 25 años.
 
-Los familiares que se mencionan en esta fracción, tendrán el derecho antes establecido si reúnen además de los requisitos que se señalan en los incisos a, b y c de la fracción anterior, lo siguiente:
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Los familiares que se mencionan en esta fracción, tendrán el derecho antes establecido si reúnen además de los requisitos que se señalan en la fracción anterior, los siguientes:
 
 a).- Que esté cursando estudios de nivel medio superior o subsecuentes.
 
@@ -461,7 +493,7 @@ Al ser declarada una incapacidad total permanente, se concederá al incapacitado
 
 ###### Artículo 34.
 
-Al declararse una incapacidad permanente total, se concederá la pensión respectiva con carácter provisional, por un período de dos años. En el transcurso de este lapso, el Instituto podrá ordenar, y, por su parte, el afectado tendrá derecho a solicitar, la revisión de la incapacidad con el fin de aumentar, disminuir o revocar la cuantía de la pensión, según el caso. Transcurrido el período anterior, la pensión se considerará como definitiva y su revisión sólo podrá hacerse una vez al año, salvo que existieran pruebas de una cambio substancial en las condiciones de la incapacidad.
+Al declararse una incapacidad permanente total, se concederá la pensión respectiva con carácter provisional, por un período de dos años. En el transcurso de este lapso, el Instituto podrá ordenar, y, por su parte, el afectado tendrá derecho a solicitar, la revisión de la incapacidad con el fin de aumentar, disminuir o revocar la cuantía de la pensión, según el caso. Transcurrido el período anterior, la pensión se considerará como definitiva y su revisión sólo podrá hacerse una vez al año, salvo que existieran pruebas de un cambio substancial en las condiciones de la incapacidad.
 
 El incapacitado estará obligado, en todo tiempo, a someterse a los reconocimientos, tratamientos y exámenes médicos que determine el Instituto.
 
@@ -475,7 +507,7 @@ Cuando el trabajador fallezca a consecuencia de un riesgo profesional, los derec
 
 Cuando un pensionado por incapacidad permanente total fallezca, se aplicarán las siguientes reglas:
 
-I.- Si el fallecimiento se produce como consecuencia directa de la incapacidad total permanente, los familiares derechohabientes señalados en esta Ley y en el orden que la misma establece, continuarán percibiendo la pensión con cuota íntegra durante el primer año, diez por ciento menos en el segundo año e igual deducción en los años sucesivos , hasta llegar al cincuenta por ciento de la pensión original.
+I.- Si el fallecimiento se produce como consecuencia directa de la incapacidad total permanente, los familiares derechohabientes señalados en esta Ley y en el orden que la misma establece, continuarán percibiendo la pensión con cuota íntegra durante el primer año, diez por ciento menos en el segundo año e igual deducción en los años sucesivos, hasta llegar al cincuenta por ciento de la pensión original.
 
 II.- Si la muerte es originada por causas ajenas a la incapacidad permanente total, se entregará a los derechohabientes, como única prestación, el importe de seis meses de la cuota disfrutada por el pensionista.
 
@@ -517,9 +549,11 @@ En los términos de la presente Ley, se instituye el Fondo de la Vivienda para l
 
 I.- Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria para:
 
-A) La adquisición en propiedad de habitaciones cómodas e higiénicas, incluyendo aquéllas sujetas al régimen de condominio;
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-B).- La construcción, reparación, ampliación o mejoramientos de sus habitaciones;
+A) El pago de enganche para la adquisición de vivienda o, en su caso, la adquisición en propiedad de habitaciones cómodas e higiénicas, incluyendo aquellas sujetas al régimen de condominio;
+
+B).- La construcción, reparación, ampliación o mejoramiento de sus habitaciones;
 
 C).- El pago de pasivos contraídos por los conceptos anteriores, en los términos que acuerde la Comisión Ejecutiva del Fondo;
 
@@ -528,6 +562,10 @@ D).- La adquisición de terrenos en los que deberá construir la habitación el 
 II.- Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad o en arrendamiento por los trabajadores; y
 
 III.- Los demás que esta Ley establece.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 40 BIS.- Para el cumplimiento del objeto del Fondo de la Vivienda para los Trabajadores, el Instituto podrá diseñar e instrumentar coordinadamente con las organizaciones sindicales o, en su caso, con los organismos incorporados, los mecanismos necesarios para acceder a esquemas de financiamiento compartido con instituciones del ramo de la vivienda, como sociedades financieras de objeto limitado, sociedades o asociaciones hipotecarias, bancos, compañías constructoras o inmobiliarias y otras semejantes. Asimismo, el Instituto podrá convenir con las organizaciones u organismos mencionados la transferencia de recursos y obligaciones para la instrumentación de tales mecanismos.
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -565,7 +603,7 @@ III.- Con los rendimientos que se obtengan de las inversiones de los recursos a 
 
 Para asignar los créditos a los trabajadores, se tomarán en cuenta el número de miembros de la familia, el sueldo o salario o el ingreso conyugal, si hay acuerdo por los interesados, y las características y precios de venta de las habitaciones disponibles.
 
-Si dentro de cada grupo de trabajadores en una clasificación semejante, hay varios con el mismos derecho, se asignarán entre éstos los créditos individuales mediante sorteos.
+Si dentro de cada grupo de trabajadores en una clasificación semejante, hay varios con el mismo derecho, se asignarán entre éstos los créditos individuales mediante sorteos.
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -603,11 +641,11 @@ El Estado continuará haciendo los depósitos para constituir el Fondo de la Viv
 
 La existencia de los supuestos a que se refiere este artículo y el anterior deberán comprobarse a satisfacción del Instituto.
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 50.
 
-Los créditos a los trabajadores a que se refieren las fracciones I y II del artículo 40 de esta Ley, devengarán un interés que en ningún caso será inferior al 30 % del costo porcentual promedio vigente al momento del otorgamiento del crédito, y el plazo no será mayor de 10 años.
+Los créditos a los trabajadores a que se refieren las fracciones I y II del artículo 40 de esta Ley devengarán un interés que en ningún caso será inferior al 30% del costo porcentual promedio vigente al momento del otorgamiento del financiamiento, con un plazo para su amortización que no podrá ser mayor a quince años.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 11 DE ENERO DE 1982)</small>
 
@@ -645,7 +683,7 @@ El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, 
 
 El Instituto sólo podrá realizar con cargo al Fondo, las inversiones en los bienes muebles e inmuebles estrictamente necesarias para el cumplimiento de los fines del mismo.
 
-En caso de adjudicación o de recepción en pago de bienes inmuebles, el Instituto deberá venderlos en el término de seis meses.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -813,6 +851,8 @@ Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su v
 
 Los préstamos prendarios se otorgarán hasta el importe de ocho veces el sueldo básico integrado, si la aportación con derecho a retiro, en el caso de indemnización global a que se refiere el artículo 89, es igual o mayor que el monto del préstamo.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 58 Bis.
 
 Los trabajadores que hayan contribuido por más de seis meses al Instituto podrán obtener préstamos prendarios para la adquisición de bienes de consumo duradero, constituyendo la prenda el propio bien adquirido. Este tipo de operaciones, se realizarán de acuerdo a las siguientes bases:
@@ -859,17 +899,25 @@ DECIMA PRIMERA.- El otorgamiento de créditos prendarios estará condicionado a 
 
 DECIMA SEGUNDA.- Queda facultado el Director General para formular las reglas y procedimientos que deberán seguirse en el otorgamiento de estos créditos, debiendo contar con la autorización de la Junta Directiva antes de ponerlos en efecto.
 
-### CAPITULO SÉPTIMO. DE LA JUBILACION Y DE LAS PENSIONES POR VEJEZ, INVALIDEZ Y MUERTE
+### CAPÍTULO SÉPTIMO. DE LA JUBILACIÓN Y DE LAS PENSIONES POR VEJEZ, CESANTÍA EN EDAD AVANZADA, INVALIDEZ Y MUERTE
 
 SECCION 1a
 
 GENERALIDADES
 
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 59.
 
-El derecho a la jubilación y a la pensión por vejez, invalidez o muerte nace cuando el trabajador o sus familiares derechohabientes se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señala.
+El derecho a la jubilación, pensión por vejez, cesantía por edad avanzada, invalidez o muerte se genera cuando el trabajador o sus familiares derechohabientes se encuentran en los supuestos establecidos en esta Ley y satisfacen los requisitos que la misma señala.
 
-El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de quince días, a partir de la fecha en que quede integrado el expediente. Dentro de los quince días inmediatos siguientes, el Gobernador del Estado revisará y resolverá en definitiva acerca de la solicitud de que se trate, para los efectos que expresa la primera parte del artículo 108 de esta Ley.
+Los montos de las pensiones y jubilaciones que se otorguen con base en esta Ley se incrementarán en beneficio de quienes las reciban en el mismo porcentaje en que aumente el salario mínimo general en la zona de Hermosillo, Sonora, o conforme al índice inflacionario que anualmente determine el Banco de México, el que sea mayor, con posterioridad a la fecha de su otorgamiento.
+
+El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de treinta días hábiles a partir de la fecha en que quede integrado el expediente. Dentro de los treinta días hábiles siguientes, el Gobernador del Estado revisará y resolverá en definitiva acerca de la solicitud de que se trate, para los efectos que expresa la primera parte del artículo 108 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 59 BIS.- El Fondo de Pensiones y Jubilaciones del Instituto será administrado a través de un fideicomiso cuya operación y reglamentación será prevista en el acto jurídico de su constitución. El Comité Técnico del fideicomiso estará obligado a solicitarle al Director General del Instituto la publicación trimestral en la página de Internet del Organismo, de la información relativa al manejo de los recursos del relacionado Fondo, y éste deberá publicarla en los términos y condiciones previstos por la Ley de Acceso a la Información Pública del Estado de Sonora.
 
 ###### Artículo 60.
 
@@ -878,6 +926,14 @@ Todas las pensiones que se concedan, se otorgarán por cuota diaria.
 > <small>(ADICIONADO, B.O. 19 DE MARZO DE 1975)</small>
 
 Para el otorgamiento de las pensiones directas por vejez o invalidez, si el sueldo regulador fuere inferior al salario mínimo vigente, se tomará éste para los efectos de la aplicación de la tabla de porcentajes contenida en el artículo 71 de ésta ley.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 60 BIS A.- Quienes accedan a una pensión o jubilación tendrán derecho a recibir un apoyo extraordinario anual en el mes de diciembre por concepto de aguinaldo, por el equivalente a 40 días de la cuota diaria que señala el primera párrafo del artículo precedente.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 60 BIS B.- Quienes disfruten una pensión o jubilación del Instituto, aportarán mensualmente al Fondo de Pensiones el 10% de la cuantía de su pensión mensual.
 
 ###### Artículo 61.
 
@@ -923,71 +979,161 @@ SECCION 2a
 
 JUBILACION
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 68.
 
-Tienen derecho a la pensión por jubilación los trabajadores con 30 años o más de servicios y las trabajadoras con 28 años o más de servicios e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
+Tienen derecho a la pensión por jubilación los trabajadores del sexo masculino con treinta y cinco años o más de servicio e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad. En el caso de trabajadoras mujeres el derecho lo adquieren al cumplir treinta y tres años o más de servicio e igual tiempo de cotización al Instituto.
 
-La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento de su último sueldo, si se cumple son los requisitos abajo señalados y su percepción comenzará a partir del día siguiente a aquél en que el trabajador lo hubiese devengado.
+La jubilación dará derecho al pago de una cantidad equivalente a lo que resulte menor entre veinte salarios mínimos mensuales o el cien por ciento del sueldo regulador, entendiéndose por éste, el promedio ponderado de los sueldos cotizados de los últimos diez años, previa su actualización con el índice nacional de precios al consumidor o, en su caso, el incremento salarial del año correspondiente, el que sea menor, si se cumple con los requisitos abajo señalados y su recepción comenzará a partir del día siguiente a aquél en que el trabajador lo hubiese devengado. En ningún caso, las pensiones por jubilación podrán ser menores al equivalente a dos salarios mínimos generales mensuales en la zona de Hermosillo, Sonora.
 
-Además de lo anterior, deberán cubrirse los siguiente requisitos:
+Además de lo anterior, deberán cubrirse los siguientes requisitos:
 
-I.- Que la cantidad contribuida por el trabajador al Fondo de pensiones durante los últimos tres años se calcule sobre la base del último sueldo; y
+I.- Que la cantidad contribuida por el trabajador al Fondo de Pensiones resulte de la base del cálculo del sueldo regulador; y
 
-II.- Que cumplan con los demás requisitos que establezca el Reglamento respectivo.
+II.- Que cumplan con los demás requisitos que establezca el reglamento respectivo que emita la Junta Directiva del Instituto.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE JUNIO DE 2005)</small>
 
 SECCION 3a
 
-PENSION POR VEJEZ
+PENSIÓN POR VEJEZ Y DE CESANTÍA POR EDAD AVANZADA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE ENERO DE 1965)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 69.
 
-Tienen derecho a pensión por vejez, los trabajadores que habiendo cumplido 55 años de edad, tuviesen 15 años de servicios como mínimo e igual tiempo de contribución al Instituto o A LA ANTIGUA DIRECCION GENERAL DE PENSIONES DEL ESTADO EN LOS TERMINOS DEL ARTICULO PRECEDENTE.
+Tienen derecho a pensión por vejez los trabajadores que, habiendo cumplido cincuenta y cinco años de edad, tuviesen quince años de servicio como mínimo e igual tiempo de contribución al Instituto o a la antigua Dirección General de Pensiones del Estado, y recibirán como pensión un porcentaje del sueldo regulador dependiendo de los años de cotización al momento del retiro conforme a la siguiente tabla:
+
+AÑOS DE COTIZACIÓN PORCENTAJE DEL SUELDO REGULADOR
+
+15 50.0%
+
+16 52.0%
+
+17 54.0%
+
+18 56.0%
+
+19 58.0%
+
+20 60.0%
+
+21 62.5%
+
+22 65.0%
+
+23 67.5%
+
+24 70.0%
+
+25 72.5%
+
+26 75.0%
+
+27 77.5%
+
+28 80.0%
+
+29 82.5%
+
+30 85.0%
+
+31 88.0%
+
+32 91.0%
+
+33 94.0%
+
+34 97.0%
+
+35 o más 100.0%
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 69 BIS.- Tienen derecho a pensión de cesantía por edad avanzada los trabajadores que, habiendo cumplido sesenta años de edad, tuviesen diez años de servicio como mínimo e igual tiempo de contribución al Instituto y recibirán como pensión un porcentaje del sueldo regulador dependiendo de la edad al momento del retiro conforme a la siguiente tabla:
+
+CON UN MÍNIMO DE 10 AÑOS COTIZADOS PORCENTAJE DEL SUELDO
+
+Y LA SIGUIENTE EDAD REGULADOR
+
+60 40.0%
+
+61 42.0%
+
+62 44.0%
+
+63 46.0%
+
+64 48.0%
+
+65 o más 50.0%
 
 ###### Artículo 70.
 
 El cómputo de los años de servicios se hará considerando uno solo de los empleos, en los casos en que el trabajador hubiese desempeñado simultáneamente varios, cualesquiera que fuesen; en consecuencia, para dicho cómputo se considerará por una sola vez el tiempo durante el cual haya tenido o tenga el interesado el carácter de trabajador.
 
-> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 71.
 
-Para los efectos del otorgamiento de las pensiones directas, por vejez o invalidez, cuando el trabajador haya cumplido 55 años de edad y prestado servicios al Gobierno del Estado y organismos incorporados durante 15 años por lo menos y contribuido al Instituto por el mismo período, aquella se calculará aplicando el sueldo regulador a que se refiere el artículo 73, de acuerdo con los porcentajes que especifica la tabla siguiente:
+Para los efectos del otorgamiento de las pensiones por invalidez, cuando el trabajador haya prestado servicios al Gobierno del Estado y organismos incorporados durante diez años por lo menos y contribuido al Instituto por el mismo período, aquella se calculará aplicando el sueldo regulador a que se refiere el artículo 68 de esta Ley, de acuerdo con los porcentajes que especifica la tabla siguiente:
 
-15 años de servicios: 50%
+AÑOS DE SERVICIO PORCENTAJE DEL SUELDO REGULADOR
 
-16 años de servicios: 52.5%
+10 40.0%
 
-17 años de servicios: 55%
+11 42.0%
 
-18 años de servicios: 57.5%
+12 44.0%
 
-19 años de servicios: 60%
+13 46.0%
 
-20 años de servicios: 62.5%
+14 48.0%
 
-21 años de servicios: 65%
+15 50.0%
 
-22 años de servicios: 67.5%
+16 52.5%
 
-23 años de servicios: 70%
+17 55.0%
 
-24 años de servicios: 72.5 %
+18 57.5%
 
-25 años de servicios: 75%
+19 60.0%
 
-26 años de servicios: 80%
+20 62.5%
 
-27 años de servicios: 85%
+21 65.0%
 
-28 años de servicios: 90%
+22 67.5%
 
-29 años de servicios: 95%
+23 70.0%
 
-30 años de servicios: 100%
+24 72.5%
+
+25 75.0%
+
+26 77.5%
+
+27 80.0%
+
+28 82.5%
+
+29 85.0%
+
+30 87.5%
+
+31 90.0%
+
+32 92.5%
+
+33 95.0%
+
+34 97.5%
+
+35 o más 100%
+
+> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
 
 En el cómputo final, toda fracción de más de seis meses se considerará como año completo.
 
@@ -999,9 +1145,13 @@ En el cómputo final, toda fracción de más de seis meses se considerará como 
 
 Para calcular el monto de la pensión a que tengan derecho los trabajadores, se tomarán en cuenta exclusivamente el sueldo o sueldos percibidos, y, a partir del 1 de enero de 1949, sólo se considerarán aquellos sobre los cuales se hubiesen cubierto las aportaciones correspondientes.
 
-> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Asimismo, para calcular el monto de las cantidades que correspondan por jubilación o por pensión en los términos de los artículos 67 y 71 respectivamente, se tomará el promedio de los sueldos percibidos en cada uno de los tres años inmediatos anteriores a la fecha del Acuerdo por el que se conceda, sobre lo que hubiesen cubierto las aportaciones respectivas. Dicho promedio se denominará sueldo regulador.
+Todas las pensiones que otorgue el Instituto se calcularán sobre la base del sueldo regulador que define el artículo 68 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+El Instituto tendrá la obligación de publicar en el Boletín Oficial del Gobierno del Estado, dentro de los siete días hábiles siguientes a su autorización por el órgano de gobierno, los aumentos porcentuales que sirvan de base para la actualización de los montos de las pensiones que otorga.
 
 ###### Artículo 74.
 
@@ -1061,15 +1211,19 @@ SECCION 5a
 
 PENSION POR CAUSA DE MUERTE
 
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 82.
 
-La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere contribuido al Instituto por más de quince años, así como la de un pensionado por vejez e invalidez, darán origen a las pensiones de viudez y de orfandad o pensiones a los ascendientes, en su caso, según lo previene esta ley. El derecho al pago de esta pensión se iniciará a partir del día siguiente al de la muerte de la persona que haya originado la pensión.
+La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere contribuido al Instituto por al menos diez años, así como la de un pensionado por vejez, invalidez o por cesantía por edad avanzada, darán origen a las pensiones de viudez y de orfandad o pensiones a los ascendientes, en su caso, según lo previene esta Ley. El derecho al pago de esta pensión se iniciará a partir del día siguiente al de la muerte de la persona que haya originado la pensión.
 
 ###### Artículo 83.
 
 El orden para gozar de las pensiones a que se refiere este capítulo será el siguiente:
 
-I.- Esposa supérstite e hijos menores de 18 años ya sean habidos dentro o fuera de matrimonio;
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2005)</small>
+
+I.- Esposa supérstite e hijos menores de 18 años o, en su caso, aquellos hijos que habiendo alcanzado la mayoría de edad, no pudieren mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o afectación psíquica, ya sean habidos dentro o fuera de matrimonio;
 
 II.- A falta de esposa legítima, la mujer con quien viviere el trabajador o pensionado al ocurrir el fallecimiento y tuvieren hijos o aquella con la que haya vivido maritalmente durante los cinco años que precedieron a su muerte, siempre que ambos hayan estado libres de matrimonio. Si al morir el trabajador tuviere varias concubinas, ninguna tendrá derecho a pensión;
 
@@ -1079,21 +1233,21 @@ IV.- A falta de las personas a las que se refieren las tres fracciones anteriore
 
 La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
 
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 84.
 
 El monto de las pensiones se calculará aplicando las siguientes reglas:
 
-I.- Cuando el trabajador fallezca después de quince años de servicios, la pensión será equivalente, durante el primer año posterior al deceso, a la que hubiese correspondido al trabajador en los términos de los artículos 71, 72 y 73 de esta ley. Durante los cinco años sucesivos se disminuirá en un diez por ciento hasta reducirla al cincuenta por ciento de la cifra primitiva;
+I.- Cuando el trabajador fallezca habiendo cumplido diez o más años de servicios y cotizado al Instituto por un período similar, la pensión será equivalente a la que hubiese correspondido al trabajador en los términos de los artículos 71 y 73 de esta Ley;
 
-II.- Al fallecer un jubilado o un pensionista por vejez o por invalidez, sus deudos, en el orden establecido por esta Ley, continuarán percibiendo pensión como sigue:
+II.- Al fallecer un jubilado o un pensionista por vejez, invalidez o por cesantía por edad avanzada, sus deudos, en el orden establecido por esta Ley, continuarán recibiendo una pensión por un monto equivalente al 80% de la jubilación o pensión de la que percibía el fallecido.
 
-a).- El ochenta por ciento del monto original, durante el primer año;
-
-b).- Del segundo en adelante se irá rebajando anualmente un diez por ciento y así sucesivamente hasta llegar a la mitad de la pensión original.
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 85.
 
-Si el hijo pensionado llegare a los 18 años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione y a las investigaciones que en cualquier tiempo este ordene para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
+Si el hijo del trabajador o del pensionado, cualquiera que fuese su edad, no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o afectación psíquica, el pago de la pensión por orfandad se otorgará por el tiempo que subsista su inhabilitación. En tal caso estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione y a las investigaciones que en cualquier tiempo éste ordene para los efectos de determinar su estado de invalidez, pudiendo decretarse, en caso contrario, a la suspensión de la pensión.
 
 ###### Artículo 86.
 
@@ -1315,7 +1469,7 @@ IX.- Expedir los reglamentos para la debida prestación de sus servicios y de su
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
-X.- Obtener prestamos, créditos o financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
+X.- Obtener préstamos, créditos o financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
@@ -1373,7 +1527,9 @@ I.- Planear las operaciones y servicios del Instituto;
 
 II.- Decidir las inversiones del Instituto;
 
-III.- Dictar los acuerdos que resulten necesarios para satisfacer las prestaciones establecidas en esta ley;
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2005)</small>
+
+III.- Dictar los acuerdos que resulten necesarios para satisfacer las prestaciones establecidas en esta Ley, incluso aquellos relativos a la autorización de transferencia de recursos entre programas cuando las condiciones financieras del Instituto así lo requieran, exceptuando los recursos de los Fondos de Pensiones y de Vivienda para los Trabajadores;
 
 IV.- Conceder, negar, suspender, modificar y revocar las jubilaciones y pensiones, en los términos de esta ley;
 
@@ -1589,9 +1745,11 @@ SECCION 2a.
 
 INVERSIONES
 
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 117.
 
-La inversión de las reservas del Instituto deberá hacerse en las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias las que, además garanticen mayor utilidad social.
+La inversión de los recursos y reservas financieras del Instituto deberá hacerse procurándose las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias aquellas que generen un mayor beneficio social.
 
 ###### Artículo 118.
 
@@ -1631,6 +1789,34 @@ IV.- Los de la fracción XII; y
 
 V.- Los de la fracción XIII.
 
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 120 BIS.- Con atribuciones específicas para vigilar el gasto del Instituto y la inversión de sus recursos, así como fiscalizar su aplicación según los programas correspondientes, éste contará con un Comité de Vigilancia y Fiscalización, cuya operación y reglamentación será emitida por la Junta directiva del Instituto, y que estará integrado por un representante de la Secretaría de Hacienda, otro del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado de Sonora, uno de la Sección 54 del Sindicato Nacional de Trabajadores de la Educación, y de los organismos incorporados al régimen de la Ley, un representante elegido de entre las Instituciones de Educación Media Superior y Superior, otro de los Ayuntamientos, otro de los Organismos Públicos Descentralizados y uno más de las organizaciones sindicales, respectivamente.
+
+Los integrantes del Comité de Vigilancia no podrán ser miembros de la Junta Directiva ni tener cargo alguno en el Instituto, con excepción del Director General de éste, quien fungirá como Secretario Técnico del Comité con derecho a voz pero sin voto.
+
+Los integrantes del Comité ejercerán su cargo honoríficamente.
+
+Sin perjuicio de lo establecido por el artículo 121 de esta Ley, el Comité de Vigilancia y Fiscalización tendrá las siguientes atribuciones:
+
+I.- Exigir y obtener del Director General un informe trimestral sobre el manejo financiero de todos los fondos del Instituto
+
+II. Exigir y obtener del Director General un informe detallado del comportamiento del sistema de pensiones con la periodicidad que el propio Comité determine.
+
+III.- Exigir y obtener del Director General un dictamen semestral de los estados financieros del Instituto.
+
+IV.- Obtener del Contador Mayor de Hacienda del Congreso, o del órgano que lo substituya, información relativa al estado financiero y el resultado de las auditorías, inspecciones y visitas que se le practiquen al Instituto.
+
+V.- Participar en el procedimiento de contratación de los auditores externos que elaboren los dictámenes sobre los estados financieros del Instituto, con la facultad especial de vetar, con las dos terceras partes del voto del Comité, la contratación de auditores.
+
+VI.- Definir las acciones que se consideren necesarias y conducentes al cumplimiento de los objetivos y metas del Instituto, según se encuentren previstos en los presupuestos y programas respectivos.
+
+VII.- Obtener, analizar y, en su caso, opinar sobre la valoración actuarial del Instituto.
+
+VIII.- Cada vez que lo considere conveniente, examinar la suficiencia de las aportaciones y el cumplimiento de los programas anuales de constitución de reservas.
+
+IX.- Intervenir como coadyuvante de la Contraloría General en las auditorías y procedimientos de revisión que ésta practique sobre el Instituto.
+
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
 ###### Artículo 121.
@@ -1669,9 +1855,9 @@ Se reputará como fraude y se sancionará como tal, en los términos del Código
 
 Cuando se establezca una responsabilidad pecuniaria a cargo del trabajador y a favor del Instituto por la imposición de las sanciones establecidas en este capítulo o por haber recibido servicios indebidamente, el Estado u organismos públicos incorporados de quienes dependa el trabajador, le harán a petición del Instituto los descuentos correspondientes hasta por el importe de su responsabilidad, con la limitación establecida en el artículo 20 de esta ley.
 
-> <small>(ADICIONADO, B.O. 19 DE MARZO DE 1975)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Artículo 127 bis.- Los médicos del servicio que expidan incapacidad que resulten improcedentes, conforme a la investigación que practique la autoridad médica del Instituto, por contravenir lo dispuesto en el artículo 31 del Reglamento para los servicios médicos, serán denunciados al Ministerio Público por la responsabilidad que conforme al Código Penal pueda resultar.
+Artículo 127 bis.- Aquellos médicos que le presten sus servicios al Instituto y que expidan incapacidades que resulten improcedentes por contravención a las normas que regulan su expedición y que se encuentren contenidas en el Reglamento de Servicios Médicos que emita la Junta Directiva del Instituto, serán denunciados inmediatamente ante el Ministerio Público y la Secretaría de la Contraloría General para la determinación de las responsabilidades correspondientes.
 
 ### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
 
@@ -1872,3 +2058,157 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+B.O. 29 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora deberá realizar las acciones necesarias para que el fideicomiso que señala el artículo 59 BIS adicionado, se constituya dentro de un plazo no mayor a noventa días hábiles contados a partir del día siguiente al de la vigencia de esta reforma.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de las generaciones actuales, conformadas por aquellos trabajadores, mujeres y hombres, que iniciaron su prestación de servicios al Estado con anterioridad a la vigencia del presente Decreto, se incrementarán gradualmente sus porcentajes de cotización al fondo de pensiones hasta alcanzar compartidamente con el Estado el 27% de cuotas y aportaciones, aumentándose de la forma gradual indicada los porcentajes de cotización que refieren los incisos A) de los artículos 16 y 21 de la Ley en la medida de un punto porcentual por año, de acuerdo a la siguiente tabla:
+
+AÑO CUOTA DEL TRABAJADOR APORTACIÓN DEL PATRÓN
+
+2005 5% 12%
+
+2006 6% 13%
+
+2007 7% 14%
+
+2008 8% 15%
+
+2009 9% 16%
+
+2010 10% 17%
+
+Las generaciones futuras, que estarán conformadas por aquellas personas que ingresen a trabajar al servicio del Estado con posterioridad a la vigencia de este Decreto, cubrirán íntegramente el porcentaje de cuotas para pensiones y jubilaciones que prevé el artículo 16, inciso A) de la Ley. Las aportaciones que por el mismo concepto le corresponden al Estado, se cubrirán con el porcentaje que establece el artículo 21, párrafo segundo, inciso A) de este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Para las generaciones actuales se entenderá por sueldo regulador al promedio ponderado de los sueldos cotizados de los últimos tres años, previa su actualización con el índice nacional de precios al consumidor o, en su caso, el incremento salarial correspondiente, el que sea menor.
+
+###### ARTÍCULO QUINTO.
+
+Los montos de las pensiones y jubilaciones que actualmente cubre el Instituto y las que se autoricen en el futuro a los trabajadores que conforman a las generaciones actuales, se incrementarán en el mismo porcentaje en que aumente el salario mínimo general en la zona de Hermosillo, Sonora o, en su caso, conforme al aumento derivado de la negociación de los trabajadores del Estado con éste, el que sea mayor, con posterioridad a la fecha de su otorgamiento.
+
+###### ARTÍCULO SEXTO.
+
+Para el caso de los trabajadores que conforman las generaciones actuales, el tiempo cotizado requerido para jubilarse se modifica en los términos siguientes:
+
+A).- En el caso de los trabajadores:
+
+NÚMERO DE AÑOS REQUERIRÁN LOS SIGUIENTES
+
+COTIZADOS AL MOMENTO DE AÑOS DE COTIZACIÓN
+
+LA VIGENCIA DE ESTE DECRETO PARA JUBILARSE
+
+15 o más 30.0
+
+14 30.5
+
+13 30.5
+
+12 30.5
+
+11 31.0
+
+10 31.0
+
+9 31.0
+
+8 31.5
+
+7 31.5
+
+6 31.5
+
+5 o menos 32.0
+
+B) En el caso de las trabajadoras:
+
+NÚMERO DE AÑOS REQUERIRÁN LOS SIGUIENTES
+
+COTIZADOS AL MOMENTO DE AÑOS DE COTIZACIÓN
+
+LA VIGENCIA DE ESTE DECRETO PARA JUBILARSE
+
+14 o más 28.0
+
+13 28.5
+
+12 28.5
+
+11 28.5
+
+10 29.0
+
+9 29.0
+
+8 29.0
+
+7 29.5
+
+6 29.5
+
+5 29.5
+
+4 o menos 30.0
+
+Los trabajadores con 30 o más años y las trabajadoras con 28 o más años cotizados al momento de la vigencia de este Decreto, recibirán sus jubilaciones con base en el último salario cotizado, los restantes trabajadores o trabajadoras con menor número de años cotizados, recibirán sus jubilaciones con base en el sueldo regulador que refiere el artículo cuarto transitorio.
+
+Como caso de excepción y exclusivamente para efectos jubilatorios, cuando un trabajador se haya mantenido durante un período de 3 años en un mismo nivel y rango laboral, se le aplicará dicho período de años para calcular el sueldo regulador, previa su actualización con el índice nacional de precios al consumidor.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para el caso de las generaciones actuales, el Estado y los organismos incorporados podrán implementar programas con cargo a sus respectivos presupuestos para estimular la permanencia de los trabajadores que hayan cumplido con el tiempo cotizado requerido para acceder a su jubilación en los términos que prevé el artículo sexto transitorio. El estímulo que se llegare a otorgar no será considerado para los efectos de la determinación del monto de la pensión cuando se solicite.
+
+###### ARTÍCULO OCTAVO.
+
+Las solicitudes de pensión o jubilación presentadas y en trámite con anterioridad al inicio de la vigencia del presente Decreto, se resolverán conforme al momento y a las condiciones en que se haya generado el derecho correspondiente, por lo que no serán afectadas por las modificaciones establecidas en ésta. Igual suerte correrán las que presenten los trabajadores de uno u otro sexo con el derecho adquirido antes del inicio de la vigencia de este Decreto.
+
+En tratándose de trabajadores de generaciones actuales, en ningún caso les resultará aplicable la restricción de monto de jubilación referida en el artículo 68 de este Decreto.
+
+###### ARTÍCULO NOVENO.
+
+El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora continuará cubriendo el importe de las pensiones concedidas con anterioridad a la entrada en vigor de esta reforma en los términos en que se hayan otorgado.
+
+###### ARTÍCULO DÉCIMO.
+
+El pago del porcentaje que establece el artículo 60 BIS B, tendrá aplicación en los casos de aquéllos trabajadores o sus derechohabientes que obtengan una pensión o jubilación del Instituto a partir de la vigencia de este decreto. La señalada obligación de pago se cumplirá por los beneficiarios de pensiones o jubilaciones en los plazos y en los incrementos porcentuales que establece la siguiente tabla:
+
+AÑO PORCENTAJE A CUBRIR MENSUALMENTE DEL
+
+MONTO DE LA PENSIÓN O JUBILACIÓN MENSUAL
+
+2005 5.0%
+
+2006 6.0%
+
+2007 7.0%
+
+2008 8.0%
+
+2009 9.0%
+
+2010 10%
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las generaciones actuales empezarán a cubrir el 0.5% de incremento a la cuota del rubro de servicio médico previsto por el artículo 16, inciso B), de esta Ley, a partir del mes de enero del año 2006. En esa misma fecha se empezarán a cubrir las aportaciones correspondientes al Estado por el mismo concepto.
+
+Para estas mismas generaciones, los conceptos de cuotas y aportaciones de los trabajadores y el Estado para el rubro de infraestructura, equipamiento y mantenimiento hospitalario o establecidas por los incisos E) y H) de los artículos 16 y 21 de la Ley, respectivamente, se cubrirán de manera gradual a partir del año 2005 con un 0.5% y el restante en un porcentaje similar en el año 2006.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Durante un plazo no mayor de dos años contado a partir de la vigencia de este Decreto y previa autorización expresa de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, los recursos de las diferentes prestaciones económicas para los trabajadores podrán transferirse cuando exista insuficiencia en la prestación de los servicios médicos que presta el Instituto, mismas que deberán reflejarse en los presupuestos de ingresos o egresos correspondientes.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La Junta Directiva del Instituto Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora deberá emitir, dentro de un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor de este Decreto, las Bases, Convocatorias y el Reglamento a que se refiere el artículo 120 BIS de la misma.
