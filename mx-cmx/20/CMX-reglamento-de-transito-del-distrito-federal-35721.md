@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-35721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2005-01-19"
+last_updated: "2005-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-02"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -824,7 +824,11 @@ a) Cuando la vía en que se circula sea de mayor amplitud que la otra o tenga ma
 
 b) Cuando quien circula por la derecha se encuentre sobre una vía sin pavimentar;
 
-VII. Cuando en las intersecciones no haya posibilidad de que los vehículos avancen hasta cruzar la vía en su totalidad, evitará continuar la marcha y obstruir de este modo la circulación de las calles transversales a su sentido de circulación;
+VII. Cuando en las intersecciones no haya posibilidad de que los vehículos avancen hasta cruzar la vía en su totalidad, evitará continuar la marcha y obstruir de este modo la circulación de las calles transversales a su sentido de circulación.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+En las intersecciones con indicación de “circulo rojo”, los conductores deberán detenerse antes de cruzar la línea que lo delimita;
 
 VIII. En los cruceros de ferrocarril y en los de tren ligero, éstos tienen preferencia de paso;
 
@@ -834,7 +838,9 @@ X. Entre las 23:00 y las 5:00 horas del día siguiente, deberá detener totalmen
 
 XI. En las glorietas, los que se hallen dentro de la vía circular tienen preferencia de paso sobre los que pretendan acceder a ellas;
 
-XII. Los que circulen por una vía primaria tienen preferencia de paso sobre los que pretenden acceder a ella; y
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2005)</small>
+
+XII. En las agujas de ingreso y salida de las vías primarias de acceso controlado, los conductores de los vehículos deberán alternarse, cediéndose el paso uno y uno;
 
 XIII. Los vehículos de emergencia o de policía tienen derecho de paso cuando circulen con las señales de sonido o luminosas funcionando.
 
@@ -1148,9 +1154,51 @@ VI. No vaya debidamente sujeta al vehículo por cables o lonas.
 
 Los vehículos a que se refiere este artículo tienen prohibido circular por los carriles centrales y tercer carril, contado de derecha a izquierda, así como en vialidades y horarios restringidos por la Secretaría.
 
-### CAPÍTULO III. DE LA CIRCULACIÓN DE BICICLETAS, BICICLETAS ADAPTADAS, TRICICLOS, BICIMOTOS, TRICICLOS AUTOMOTORES, TETRAMOTOS, MOTONETAS Y MOTOCICLETAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE JUNIO DE 2005)</small>
 
-### CAPÍTULO IV. DEL TRANSPORTE DE SUSTANCIAS TÓXICAS O PELIGROSAS
+### CAPÍTULO II BIS. DE LAS NORMAS DE CIRCULACIÓN DEL SISTEMA DE CORREDORES
+
+DE TRANSPORTE PÚBLICO DE PASAJEROS, METROBÚS Y DE LA AVENIDA DE LOS INSURGENTES
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 85-A.
+
+En la circulación sobre la Avenida de los Insurgentes en el tramo del recorrido de los vehículos vinculados al Sistema de Corredores de Transporte Público de Pasajeros, Metrobús, se aplicarán, las disposiciones previstas en este Reglamento, y en especial las contenidas en este capítulo.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 85-B.
+
+Se destina para uso exclusivo del “Metrobús” el carril de la extrema izquierda en ambos sentidos de la circulación de la Avenida de los Insurgentes, en el tramo referido en el artículo anterior, por lo que se prohíbe circular en ellos a vehículos de cualquier otro tipo.
+
+En circunstancias excepcionales y de emergencia, podrán circular en el carril de uso exclusivo del “Metrobús”, ambulancias, vehículos de policía, de bomberos y de protección civil, en los términos del artículo 80 de este Reglamento.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 85-C.
+
+En ambos sentidos de la circulación de la Avenida de los Insurgentes, la vuelta a la izquierda y la vuelta en “U” están prohibidas.
+
+Sólo se permite la vuelta a la izquierda en las intersecciones de la Avenida de los Insurgentes, cuando la señalización expresamente lo permita.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 85-D.
+
+Queda prohibido a los conductores detener sus vehículos invadiendo los pasos peatonales marcados con rayas para cruces, en ambos sentidos de la circulación de la Avenida de los Insurgentes, así como en las intersecciones con esta vía que se encuentren en el tramo del recorrido del “Metrobús”.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 85-E.
+
+En la Avenida de los Insurgentes, queda prohibido estacionar vehículos, aun cuando sea momentáneamente y circular a baja velocidad reduciendo la capacidad vial.
+
+Los agentes, al percatarse de que un vehículo se encuentra estacionado o circulando a baja velocidad reduciendo la capacidad vial, conminarán al conductor para que reinicie o continué la marcha inmediatamente. Cuando el conductor haga caso omiso de lo anterior o no se encuentre presente, se procederá de inmediato e invariablemente a la remisión del vehículo al depósito, observando en lo conducente lo dispuesto por el artículo 62 de este Reglamento.
+
+También se remitirán al depósito los vehículos cuyos conductores infrinjan los artículos 85- B y 85- C de este Reglamento; en cuyo caso, sólo podrán ser retirados del depósito los vehículos, después de transcurridas 24 horas contadas a partir del momento en que se comete la infracción, lo anterior sin perjuicio de la aplicación de otras sanciones previstas en el artículo 103 de este Reglamento.
+
+### CAPÍTULO III. DE LA CIRCULACIÓN DE BICICLETAS, BICICLETAS ADAPTADAS, TRICICLOS, BICIMOTOS, TRICICLOS AUTOMOTORES, TETRAMOTOS, MOTONETAS Y MOTOCICLETAS
 
 ###### Artículo 86.
 
@@ -1208,7 +1256,7 @@ Las bicicletas para transitar en las vías públicas, deben estar equipadas con 
 
 Las bicicletas que utilicen motor para su propulsión serán consideradas dentro de la categoría de motocicletas. Por tanto no pueden circular en las ciclovías.
 
-### CAPÍTULO V. DE LAS NORMAS APLICABLES RELATIVAS AL CONSUMO DE BEBIDAS ALCOHÓLICAS, ENERVANTES, ESTUPEFACIENTES Y SUSTANCIAS PSICOTRÓPlCAS O TÓXICAS
+### CAPÍTULO IV. DEL TRANSPORTE DE SUSTANCIAS TÓXICAS O PELIGROSAS
 
 ###### Artículo 92.
 
@@ -1246,7 +1294,7 @@ Cuando por alguna circunstancia de emergencia se requiera estacionar un vehícul
 
 Cuando lo anterior suceda en horario nocturno, el conductor deberá colocar triángulos de seguridad, tanto en la parte delantera, como trasera de la unidad, a una distancia que permita a otros conductores tomar las precauciones necesarias.
 
-### CAPÍTULO I. DE LAS SANCIONES
+### CAPÍTULO V. DE LAS NORMAS APLICABLES RELATIVAS AL CONSUMO DE BEBIDAS ALCOHÓLICAS, ENERVANTES, ESTUPEFACIENTES Y SUSTANCIAS PSICOTRÓPlCAS O TÓXICAS
 
 ###### Artículo 99.
 
@@ -1270,7 +1318,7 @@ III. El agente entregará un ejemplar del comprobante de los resultados de la pr
 
 ## TÍTULO QUINTO. DE LAS SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO II. DE LOS MEDIOS DE IMPUGNACIÓN Y DEFENSA DE LOS PARTICULARES FRENTE A LOS ACTOS DE AUTORIDAD
+### CAPÍTULO I. DE LAS SANCIONES
 
 ###### Artículo 101.
 
@@ -1292,9 +1340,11 @@ Las infracciones a este Reglamento sancionables con multa son las contenidas en 
 
 (VEASE TABLA ANEXA)
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2005)</small>
+
 ###### Artículo 104.
 
-El infractor que cubra el importe de las multas que establece este Reglamento dentro de los treinta días naturales de haber sido impuesta, tiene derecho a que se le descuente un 50% del monto de la misma, con excepción de lo dispuesto por el artículo 63. Vencido este plazo no procederá descuento alguno.
+El infractor que cubra el importe de las multas que establece este Reglamento dentro de los treinta días naturales de haber sido impuesta, tiene derecho a que se le descuente un 50% del monto de la misma, con excepción de lo dispuesto por el artículo 63 y de las multas que deriven de las infracciones al Capítulo II Bis del Título Cuarto de este Reglamento. Vencido este plazo no procederá descuento alguno.
 
 El pago de la multa se puede realizar en las oficinas de la Administración Tributaria de la Tesorería del Distrito Federal de la Secretaría de Finanzas o en centros autorizados para este fin, teniendo como plazo sesenta días naturales contados a partir de la fecha de emisión de la boleta de sanción, vencido dicho plazo sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Financiero del Distrito Federal.
 
@@ -1305,6 +1355,12 @@ Para la procedencia de cualquier trámite de licencias de conducir o de control 
 Sin perjuicio de las sanciones que correspondan, los conductores de vehículos que cometan alguna infracción a las normas de este Reglamento que pueda dar lugar a la tipificación de un delito, serán puestos a disposición del Ministerio Público que corresponda por los agentes que tengan conocimiento del caso, para que aquél resuelva conforme a derecho.
 
 Tratándose de menores de edad, el agente o el Ministerio Público que tenga conocimiento del caso, deberá llamar a los padres o tutores del menor a efecto de que, sin perjuicio de efectuar su remisión al Consejo Tutelar para Menores Infractores, en los casos que proceda, se tomen las providencias necesarias para que se cubra la responsabilidad civil en que haya incurrido.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+Tratándose de transportes de carga, los conductores que, violando lo dispuesto por el último párrafo del artículo 85, produzcan daños al equipamiento urbano o interrumpan la circulación, además se les sancionará con multa por el equivalente a 200 veces el salario mínimo general vigente en el Distrito Federal, con independencia de lo dispuesto por el primer párrafo del artículo 52 de este Reglamento.
+
+### CAPÍTULO II. DE LOS MEDIOS DE IMPUGNACIÓN Y DEFENSA DE LOS PARTICULARES FRENTE A LOS ACTOS DE AUTORIDAD
 
 ###### Artículo 106.
 
@@ -1341,3 +1397,9 @@ G.O. 13 DE ABRIL DE 2004.
 G.O. 19 DE ENERO DE 2005.
 
 ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE JUNIO DE 2005.
+
+Primero.- El presente decreto entrará en vigor el día cuatro de julio de dos mil cinco
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
