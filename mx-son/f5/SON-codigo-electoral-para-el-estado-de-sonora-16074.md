@@ -4,7 +4,7 @@ identifier: "SON-codigo-electoral-para-el-estado-de-sonora-16074"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-06-24"
-last_updated: "1996-06-24"
+last_updated: "2005-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 CODIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL NUEVO CODIGO ELECTORAL PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 29 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Código publicado en el Boletín Oficial del Estado de Sonora, el lunes 24 de junio de 1996.
 
@@ -4352,3 +4354,27 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 21 de Junio de 1996.- DIPUTADO PRESIDENTE.- LIC. WENCESLAO COTA MONTOYA.- RUBRICA.- DIPUTADO SECRETARIO.- C. LEOBARDO JORGE GONZALEZ CEJUDO.- RUBRICA.- DIPUTADO SECRETARIO.- C. RAUL ROMERO FONTES.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veinticuatro de junio de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 29 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Electoral para el Estado de Sonora publicado en el Boletín Oficial del Gobierno del Estado de fecha 24 de junio de 1996, derogándose expresamente también todas aquellas disposiciones que se opongan a la aplicación de lo dispuesto en el presente Código.
+
+###### ARTÍCULO TERCERO.
+
+Se ratifican en todos sus términos las convocatorias emitidas para integrar el Consejo Estatal Electoral y el Tribunal Estatal Electoral y de Transparencia Informativa, así como el procedimiento realizado por esta Soberanía para estar en condiciones de renovar dichos organismos.
+
+###### ARTÍCULO CUARTO.
+
+Los convenios de coordinación celebrados con la estructura federal continuarán en vigor en cuanto al Seccionamiento, Listas Nominales de Electores, Catálogo General de Electores, Padrón Electoral y Credenciales con Fotografía para Votar.
+
+###### ARTÍCULO QUINTO.
+
+Los partidos político que actualmente tienen reconocido su registro en el Estado, lo mantendrán sin necesidad de realizar trámite alguno por la entrada en vigor de este Código.
