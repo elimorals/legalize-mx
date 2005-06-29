@@ -1,0 +1,3276 @@
+---
+title: "LEY DE SALUD DEL ESTADO DE MORELOS"
+identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
+country: "mx"
+rank: "ley"
+publication_date: "2005-06-29"
+last_updated: "2005-06-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "45351"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "4400 SECCION SEGUNDA"
+reform_count: "78"
+scjn_last_update: "2026-07-01"
+issue_date: "2005-06-27"
+state: "MOR"
+---
+# LEY DE SALUD DEL ESTADO DE MORELOS
+
+LEY DE SALUD DEL ESTADO DE MORELOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
+
+Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra Volverá a quienes la trabajan con sus manos.
+
+SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+
+LEY DE SALUD DEL ESTADO DE MORELOS
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO I
+
+###### Artículo 1.
+
+La presente Ley regirá en el Estado de Morelos. Es de orden público e interés social y tiene por objeto la promoción y la protección de la salud, el establecimiento de las bases y modalidades para el acceso de la población a los servicios de salud y asistencia social proporcionados por el Estado y los Municipios en materia de salubridad local, en los términos que dispone el Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
+
+###### Artículo 2.
+
+El derecho a la promoción y la protección de la salud, tiene las siguientes finalidades:
+
+I.- El bienestar físico, mental y social de la persona para contribuir al ejercicio pleno de sus capacidades;
+
+II.- La prolongación y el mejoramiento de la calidad de la vida humana;
+
+III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, promoción, conservación y disfrute de condiciones de salud que contribuyan al bienestar y desarrollo social;
+
+IV.- La extensión de actitudes solidarias y responsables de la población, en la promoción, preservación, conservación, mejoramiento y restauración de la salud;
+
+V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+
+###### Artículo 3.
+
+En los términos de la Ley General de Salud, los acuerdos para la descentralización de los servicios de salud y la presente Ley:
+
+A).- Corresponde al Estado en materia de salubridad general:
+
+I.- La atención médica;
+
+II.- La atención a la salud del niño y del adolescente;
+
+III.- La salud reproductiva;
+
+IV.- La salud mental;
+
+V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas, auxiliares y tradicionales para la salud;
+
+VI.- La promoción de la formación de recursos humanos para la salud;
+
+VII.- La promoción y coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+
+VIII.- La información relativa a las condiciones, recursos y servicios de salud;
+
+IX.- La promoción y la educación para la salud;
+
+X.- La orientación y vigilancia en materia de nutrición;
+
+XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
+
+XII.- La salud ocupacional y el saneamiento básico;
+
+XIII.- La prevención y el control de enfermedades transmisibles;
+
+XIV.- La prevención y el control de enfermedades no transmisibles y accidentes;
+
+XV.- La prevención de invalidez y la rehabilitación de las personas con discapacidad;
+
+XVI.- La asistencia social;
+
+XVII.- La realización y vigilancia de programas contra el alcoholismo el tabaquismo y la Fármaco dependencia;
+
+XVIII.- La verificación y el control sanitario de los establecimientos que intervengan en cualquiera de las etapas del proceso de alimentos y bebidas no alcohólicas, y alcohólicas, adicionadas o acondicionados, para consumo dentro y fuera del mismo establecimiento, basándose en las Normas Oficiales Mexicanas que al efecto se emitan;
+
+XIX.- El desarrollo de programas de promoción, protección y atención de la salud y asistencia social, preferentemente en beneficio de grupos vulnerables;
+
+XX.- La atención a la salud en situaciones de desastres;
+
+XXI.- La atención a la salud del adulto y del adulto mayor preferentemente dirigida a la detección y control de enfermedades crónico-degenerativas;
+
+XXII.- Con la participación de los organismos y dependencias paraestatales, establecer acuerdos, convenios y coordinaciones a fin de promover el acceso universal a los servicios médicos;
+
+XXIII.- La vigilancia de la aplicación del reglamento para la determinación de las cuotas de recuperación o cobro de los servicios de salud, así como del destino final de dichos recursos que deberán ser destinados prioritariamente para financiamiento de los mismos centros de atención en donde se recaban, a través de la Beneficencia Pública Estatal.
+
+XXIV.- Las demás atribuciones específicas que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+
+B).- Corresponde al Estado en materia de salubridad local, la regulación, control y fomento sanitario de:
+
+I.- Mercados y centros de abasto;
+
+II.- Agua potable y alcantarillado;
+
+III.- Crematorios y funerarias;
+
+IV.- Rastros;
+
+V.- Establos y todo establecimiento que congregue a cualquier especie animal para ornato o consumo human, (sic) que potencialmente se conviertan en factor de riego (sic) sanitario;
+
+VI.- Reclusorios o centros de readaptación social;
+
+VII.- Peluquerías, salones de belleza, estéticas y establecimientos similares;
+
+VIII.- Prevención y control de la rabia en animales;
+
+IX.- Medicina alternativa, tradicional y herbolaria acorde a lo indicado en los Artículos 45, 48, y 79 de la Ley General de Salud; y.
+
+X.- Las demás materias que determine esta Ley, las disposiciones generales aplicables y las que, correspondiendo a los H. Ayuntamientos, estos no estén en posibilidad de efectuar por sí mismos.
+
+C).- Corresponde a los H. Ayuntamientos en materia de salubridad local, el control y fomento sanitario en:
+
+I.- Construcciones, excepto las de los establecimientos de salud;
+
+II.- Cementerios;
+
+III.- Limpieza pública;
+
+IV.- Sexo servicio;
+
+V.- Baños públicos y balnearios;
+
+VI.- Centros de reunión y espectáculos;
+
+VII.- Lavanderías;
+
+VIII.- Establecimientos para el hospedaje;
+
+IX.- Centros de acopio animal y control de fauna nociva;
+
+X.- Establecimientos semifíjos y ambulantes que intervengan en cualquiera de las etapas del proceso de alimentos;
+
+XI.- Granjas avícolas y porcícolas, apiarios y establecimientos similares; y
+
+XII.- Las demás materias que determine esta Ley y las disposiciones generales aplicables.
+
+###### Artículo 4.
+
+Son autoridades sanitarias en el Estado:
+
+I.- El Gobernador del Estado;
+
+II.- El Secretario de Salud;
+
+III.- El Organismo público descentralizado denominado “Servicios de Salud de Morelos”;
+
+IV.- Los H. Ayuntamientos, en el ámbito de su respectiva competencia, de conformidad con las disposiciones que le confiere la presente Ley, así como de conformidad con los convenios, acuerdos, programas y lineamientos que se efectúen con las autoridades sanitarias Estatales.
+
+###### Artículo 5.
+
+Los H. Ayuntamientos deberán sujetarse a las Normas Oficiales Mexicanas de prevención, control y vigilancia epidemiológica.
+
+### CAPÍTULO II. DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL SECTOR SALUD
+
+A.- DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
+
+###### Artículo 6.
+
+La estructura administrativa establecida coordinadamente por la Federación y el Estado de Morelos, encargada de la operación de los Servicios de Salubridad General se denomina Servicios de Salud de Morelos misma que se ajustará a las bases marcadas en el artículo 20 de la Ley General de Salud.
+
+###### Artículo 7.
+
+Los Servicios de Salud de Morelos, tendrán a su cargo la aplicación en el ámbito estatal, de las legislaciones sanitarias Federal y Estatal y demás disposiciones legales aplicables, en los términos convenidos en el acuerdo de coordinación correspondiente, de creación del propio Organismo, y de conformidad con los reglamentos y Normas Oficiales Mexicanas que al efecto se emitan.
+
+Este Organismo público descentralizado se regirá de acuerdo al decreto expedido para su creación.
+
+###### Artículo 8.
+
+Los organismos públicos descentralizados serán consecuentemente, el conducto de ejecución de todo lo contenido en los apartados A y B del Artículo 3, de la presente Ley, por lo que para el debido cumplimiento de los actos de autoridad sanitaria, solicitará, en su caso, el apoyo de las autoridades competentes del Estado, quienes se lo brindarán en tanto aquellas estén debidamente motivadas y fundadas con base en la legislación aplicable.
+
+B.- DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO HOSPITAL DEL NIÑO MORELENSE
+
+###### Artículo 9.
+
+El organismo público descentralizado encargado de la asistencia médica de tercer nivel, enfocado a la población infantil del Estado de Morelos se denomina “Hospital del Niño Morelense”, mismo que se deberá ajustar a las bases marcadas en el Artículo 20 de la Ley General de Salud, así como a las obligaciones y atribuciones determinadas en la Ley que le da origen y el reglamento expedido para tal efecto.
+
+C.- DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN ESTATAL DE ARBITRAJE MÉDICO
+
+###### Artículo 10.
+
+La Comisión Estatal de Arbitraje Médico es el organismo público descentralizado encargado de fungir como árbitro en relación a las quejas y denuncias presentadas por usuarios y prestadores de servicios relacionados con la salud, que tiene como objetivo el coadyuvar al mejoramiento en la calidad de los servicios de salud.
+
+Este deberá de regirse por las bases marcadas en el Artículo 20 de la Ley General de Salud así como a las atribuciones y obligaciones de acuerdo al decreto que les dió origen y al reglamento que se expida para tal efecto.
+
+D.- DEL ORGANISMO PÚBLICO DENOMINADO SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+
+###### Artículo 11.
+
+El organismo público descentralizado, denominado Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, será el organismo rector del Sistema Estatal de Asistencia Social, y que se regirá acorde a las bases marcadas en el Artículo 20 de la Ley General de Salud, así como en las atribuciones y obligaciones que le marca la Ley de Asistencia Social del Estado de Morelos y las que se contemplan en el Título Noveno de esta Ley.
+
+## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 12.
+
+El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas, así como por todas las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la promoción y protección de la salud en el territorio del Estado.
+
+###### Artículo 13.
+
+El Sistema Estatal de Salud tiene los siguientes objetivos:
+
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo los problemas sanitarios prioritarios del estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+
+II.- Contribuir al desarrollo demográfico armónico del Estado;
+
+III.- Colaborar al bienestar social de la población del Estado de Morelos, mediante servicios de asistencia social, principalmente a menores en estado de abandono, adultos mayores desamparados y discapacitados, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y en lo social;
+
+IV.- Dar impulso al desarrollo de la familia y la comunidad, así como la integración social y crecimiento físico y mental de la niñez y la adolescencia;
+
+V.- Apoyar el mejoramiento de las condiciones sanitarias ambientales del Estado, que propicien el desarrollo satisfactorio de la vida;
+
+VI.- Impulsar, en el ámbito Estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+VII.- Fomentar estilos de vida saludables que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+
+VIII.- Definir los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el estado, de conformidad con las aplicaciones de esta Ley y las que al respecto sean aplicables.
+
+###### Artículo 14.
+
+La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud de Morelos, correspondiéndole lo siguiente:
+
+I.- Establecer y conducir la política Estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
+
+II.- Coordinar los programas de servicios de salud, de las dependencias y entidades de la administración pública estatal;
+
+III.- Apoyar la coordinación de los programas y servicios de salud de toda dependencia y entidad pública estatal en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
+
+IV.- En el caso de los programas y servicios de instituciones federales de seguridad social, el apoyo se realizará tomando en cuenta lo que establezcan las Leyes que rigen el funcionamiento de éstas;
+
+V.- Impulsar la desconcentración y descentralización de los servicios de salud del Estado a los Municipios;
+
+VI.- Promover y coordinar las actividades de los H. Ayuntamientos, relacionadas con programas y servicios de salud del Estado;
+
+VII.- Determinar la periodicidad y característica de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
+
+VIII.- Coordinar el proceso de programación de las actividades de salud en el Estado sujetándose a lo que las Leyes aplicables dispongan;
+
+IX.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
+
+X.- Impulsar, en el ámbito Estatal, las actividades científicas y tecnológicas en el área de la salud;
+
+XI.- Coadyuvar con las dependencias Federales competentes a la regulación y control de la transferencia de tecnología en el área de salud;
+
+XII.- Coordinar y administrar el sistema Estatal de información básica en materia de salud;
+
+XIII.- Apoyar la coordinación entre las instituciones de salud y las educativas Estatales y Federales para formar y capacitar recursos humanos para la salud;
+
+XIV.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
+
+XV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
+
+XVI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+XVII.- Llevar el Registro de Agrupaciones para la Salud; y
+
+XVIII.- Las demás atribuciones, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+
+###### Artículo 15.
+
+La Secretaría de Salud de Morelos promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+
+Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+
+###### Artículo 16.
+
+La concertación de acciones entre la Secretaría de Salud del Estado de Morelos, y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+
+I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud de Morelos; y
+
+III.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+
+###### Artículo 17.
+
+La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas aplicables.
+
+###### Artículo 18.
+
+El Gobierno del Estado, con la participación que corresponda al Comité de Planeación del Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE SALUD Y LOS CONSEJOS MUNICIPALES DE SALUD
+
+###### Artículo 19.
+
+El Consejo Estatal de Salud es el órgano de consulta y propuesta, según lo establece el reglamento que le da origen.
+
+###### Artículo 20.
+
+El Consejo Estatal de Salud se integrará por:
+
+I.- Un Presidente que será El Secretario de Salud del Estado.
+
+II.- Un Secretario que será el Director de los Servicios de Salud de Morelos.
+
+III.- Catorce Vocales que serán:
+
+Los Directores de cada uno de las Organismos Públicos Descentralizados que pertenecen al sector salud:
+
+a.- El Director Médico del Hospital del Niño Morelense.
+
+b.- El Director General de la Comisión Estatal de Arbitraje Médico de Morelos.
+
+c.- El Director del Sistema para el Desarrollo Integral de la Familia.
+
+d.- El Presidente del Consejo Administrativo de la Beneficencia Pública del Estado.
+
+e.- El Presidente del Colegio de Médicos Cirujanos del Estado de Morelos.
+
+f.- El Presidente de la Asociación de Clínicas y Hospitales Privados de Morelos.
+
+g.- El Delegado Estatal del Instituto Mexicano del Seguro Social.
+
+h.- El Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado.
+
+Los Presidentes de cada una de las Asociaciones de Morelos de las Especialidades básicas:
+
+i.- Cirugía General.
+
+j.- Medicina Interna.
+
+k.- Pediatría.
+
+l.- Ginecología y Obstetricia.
+
+m.- El representante de la Academia Mexicana de Cirugía Capítulo Sur.
+
+n.- El Director de la Facultad de Medicina de la Universidad Autónoma del Estado de Morelos.
+
+Contará con un Secretario Técnico que será elegido entre los vocales y que ostentará el cargo durante un año pudiendo reelegirse por una sola ocasión.
+
+###### Artículo 21.
+
+El Consejo Estatal de Salud se reunirá en sesión ordinaria cuando menos una vez cada seis meses y en sesión extraordinaria cuantas veces sea necesario, con la asistencia de la mayoría de sus integrantes. Los acuerdos se tomarán por mayoría de votos; en caso de empate, el Presidente del Consejo, tendrá voto de calidad. El cargo de consejero será honorífico.
+
+El Consejo Estatal de Salud podrá invitar a sus sesiones a los Diputados que conformen la Comisión Legislativa encargada de los asuntos del sector, así como a las personas que para el cumplimiento de sus objetivos se estime conveniente.
+
+###### Artículo 22.
+
+El Consejo Estatal de Salud tiene los siguientes objetivos y facultades:
+
+I.- Proponer al Ejecutivo Estatal y, en su caso, al Comité de Planeación para el Desarrollo Estatal, el desarrollo de programas especiales en materia de salud;
+
+II.- Impulsar la firma de convenios y acuerdos para la coordinación de los programas de servicios de salud de las instituciones, organismos, dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal;
+
+III.- Promover la participación de la sociedad en la planeación, desarrollo y aplicación de los programas de salud;
+
+IV.- Proponer recomendaciones al H. Congreso del Estado sobre la asignación de los recursos que requieran los programas de salud del Estado;
+
+V.- Fungir como organismo consultivo en materia de salud ante el Ejecutivo Estatal;
+
+VI.- Promover la coordinación interinstitucional para el desarrollo de bancos de datos, estadísticas e información en salud;
+
+VII.- Procurar el desarrollo prioritario de los programas para la salud, salubridad general, local y Municipal;
+
+VIII.- Apoyar la coordinación entre las instituciones de salud y las educativas Estatales y Federales en la formación y capacitación de recursos humanos para la salud, y
+
+IX.- Promover la creación de los Consejos Municipales de Salud.
+
+###### Artículo 23.
+
+Será obligación de los Ayuntamientos el establecer los Consejos Municipales de Salud en el Estado de Morelos con políticas y actividades que deberán estar contemplados en el Plan Municipal de Desarrollo.
+
+### CAPÍTULO III. DISTRIBUCIÓN DE COMPETENCIAS
+
+###### Artículo 24.
+
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud:
+
+A.- EN MATERIA DE SALUBRIDAD GENERAL:
+
+I.- Aplicar y vigilar el cumplimiento de las Normas Oficiales Mexicanas que emita la Secretaría de Salud del Gobierno Federal;
+
+II.- Con Participación del Ejecutivo Federal: organizar, operar, supervisar y evaluar los servicios de salud a que se refiere el apartado A del Artículo 3 de esta Ley;
+
+III.- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
+
+IV.- Formular y desarrollar programas locales de salud en el marco del Sistema Estatal y Nacional de Salud y de acuerdo con los principios y objetivos de la planeación nacional y Estatal;
+
+V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones aplicables;
+
+VI.- Celebrar convenios con los H. Ayuntamientos para la prestación de los servicios sanitarios locales o la atención de las funciones de salud, y
+
+VII.- Las demás atribuciones que le otorguen esta Ley y otras disposiciones generales aplicables.
+
+B.- EN MATERIA DE SALUBRIDAD LOCAL:
+
+I.- Ejercer el control sanitario de los establecimientos y servicios a que se refiere el Artículo 3°, apartado B de esta Ley y verificar su cumplimiento;
+
+II.- Dictar disposiciones administrativas y regulatorias en materia de salubridad local y municipal;
+
+III.- Establecer las acciones sanitarias en los límites territoriales con otras Entidades Federativas;
+
+IV.- Llevar a cabo los programas y acciones que en materia de salubridad local se implanten;
+
+V.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los H. Ayuntamientos, con sujeción a las políticas nacional y Estatal de salud y a los convenios que al efecto se celebren;
+
+VI.- Vigilar, en la esfera de su competencia el cumplimiento de esta Ley y demás disposiciones legales aplicables;
+
+VII.- Las demás atribuciones que establezcan esta Ley y otras disposiciones legales aplicables.
+
+###### Artículo 25.
+
+El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la desconcentración o descentralización por parte de estos, de la prestación de los servicios de salubridad general y de salubridad local cuando su desarrollo económico y social lo haga posible, solicitando en su caso la asesoría de la Secretaría de Salud del Gobierno Federal, así como para ejercer aquellas que siendo competencia de los H. Ayuntamientos no pudiesen ejercer por sí mismos.
+
+###### Artículo 26.
+
+Corresponde a los H. Ayuntamientos:
+
+I.- Asumir sus atribuciones en los términos de esta Ley y de los convenios que suscriban con el Ejecutivo del Estado;
+
+II.- Garantizar la calidad del agua para uso y consumo humano, independientemente de los términos de los convenios que celebre con el Ejecutivo del Estado y de conformidad con la normatividad que emita la Secretaría de Salud del Gobierno Federal y otras dependencias del gobierno Federal y Estatal;
+
+III.- Formular y desarrollar programas municipales de salud en el marco de los Sistemas Nacional y Estatal de Salud;
+
+IV.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes;
+
+V.- Ejercer las actividades de control y fomento sanitario a que se refiere el apartado C del Artículo 3° de esta Ley, con apego a la normatividad de la Ley General de Salud, la presente Ley y sus disposiciones administrativas y reglamentarias en la materia; y
+
+VI.- Las demás atribuciones que esta Ley y demás ordenamientos legales les otorguen.
+
+###### Artículo 27.
+
+El Ejecutivo Estatal y los Ayuntamientos, de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales y financieros que sean necesarios para la operación de los servicios de salubridad local en el ámbito de sus respectivas competencias, así como las que queden comprendidas en los convenios que ambos celebren.
+
+Los recursos que aporten las partes quedarán expresamente destinados a los fines del convenio respectivo y sujetos al régimen legal que les corresponda.
+
+###### Artículo 28.
+
+Los ingresos que se obtengan por los servicios de salubridad local que se presten en los términos de los convenios a que se refiere el Artículo anterior, se afectarán en los mismos conceptos en la forma que se establezca en la legislación fiscal aplicable.
+
+###### Artículo 29.
+
+El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias y, en su caso, en los términos de los convenios que celebren, darán prioridad a los siguientes servicios sanitarios:
+
+I.- Proporcionar el suministro de agua potable para el uso y consumo humano y garantizar su calidad, de conformidad con la normatividad que emita la Secretaría de Salud del Ejecutivo Federal y otras dependencias del Gobierno Federal y Estatal;
+
+II.- Instalar sistemas de drenaje, alcantarillado y plantas de tratamiento de aguas residuales;
+
+III.- Prestar servicios de limpieza pública, y la eliminación de desechos sólidos y líquidos; y
+
+IV.- Vigilar que los Servicios Municipales de rastros cumplan las Normas Oficiales Mexicanas correspondientes.
+
+###### Artículo 30.
+
+Los H. Ayuntamientos, conforme a las Leyes aplicables, promoverán la desconcentración de los servicios sanitarios básicos de su competencia, a sus correspondientes delegaciones, intendencias y ayudantías municipales cuando su desarrollo económico y social lo haga posible.
+
+###### Artículo 31.
+
+El Ejecutivo del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de interés común.
+
+###### Artículo 32.
+
+Los H. Ayuntamientos del Estado, en el ámbito de su competencia, podrán celebrar entre sí, convenios de coordinación y cooperación sobre materia sanitaria.
+
+## TÍTULO TERCERO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 33.
+
+Se entenderá por servicios de salud, todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad.
+
+###### Artículo 34.
+
+Los servicios de salud se clasifican en tres tipos que son:
+
+I.- De atención médica;
+
+II.- De salud pública; y
+
+III.- De asistencia social.
+
+###### Artículo 35.
+
+Conforme a las prioridades del Sistema Estatal de Salud y al Programa Estatal de Reforma del Sector Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente en beneficio de grupos vulnerables.
+
+###### Artículo 36.
+
+Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como de universalización de cobertura y de colaboración institucional por cada uno de los organismos públicos descentralizados dentro del sector salud.
+
+###### Artículo 37.
+
+Para los efectos del derecho a la promoción y protección de la salud, se consideran servicios básicos los siguientes:
+
+I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias ambientales;
+
+II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+
+III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+
+IV.- La atención a la salud del niño;
+
+V.- La salud reproductiva;
+
+VI.- La atención a la salud del adulto y del adulto mayor;
+
+VII.- La salud mental;
+
+VIII.- La prevención y el control de las enfermedades buco dentales;
+
+IX.- La disponibilidad de un cuadro básico de los servicios de salud, conforme a los niveles de atención médica;
+
+X.- La promoción del mejoramiento de la nutrición;
+
+XI.- La asistencia social a los grupos más vulnerables;
+
+XII.- La atención a las víctimas de la violencia intrafamiliar y de abandono; y
+
+XIII.- Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+
+###### Artículo 38.
+
+El Ejecutivo del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la Entidad se ajusten al Cuadro Básico de Insumos para el Primer Nivel de Atención Médica y al Catálogo de Insumos para el Segundo y Tercer Nivel elaborados por el Consejo de Salubridad General. Asimismo, convendrá con el Ejecutivo Federal, los términos en que las dependencias y Entidades del Estado que presten servicios de salud puedan participar en la elaboración del mencionado cuadro y catálogo.
+
+###### Artículo 39.
+
+Es atribución del Ejecutivo del Estado:
+
+I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos; y
+
+II.- Que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
+
+### CAPÍTULO II. ATENCIÓN MÉDICA
+
+###### Artículo 40.
+
+Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restablecer su salud.
+
+###### Artículo 41.
+
+Las actividades de atención médica son:
+
+I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+
+III.- De habilitación y rehabilitación, que incluyen acciones tendientes a corregir la discapacidad física y mental.
+
+### CAPÍTULO III. PRESTADORES DE SERVICIOS DE SALUD
+
+###### Artículo 42.
+
+Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
+
+I.- Servicios públicos a la población en general;
+
+II.- Servicios a derechohabientes de instituciones públicas de seguridad social mediante esquemas de cotización, o los que con sus propios recursos o por encargo del Ejecutivo Federal y Estatal, presten las mismas instituciones a otros grupos de usuarios;
+
+III.- Servicios de atención médica a través del Sistema de Protección en Salud; y
+
+IV.- Servicios sociales y/o privados, sea cual fuere la forma en que se contraten.
+
+###### Artículo 43.
+
+Todos los prestadores de servicios de salud independientemente de esta clasificación tienen la obligación de atender todos los casos de urgencias hasta su estabilización en forma gratuita sin perjuicio de su posterior remisión a otra institución.
+
+###### Artículo 44.
+
+Son servicios públicos a la población en general, los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+
+###### Artículo 45.
+
+El Sistema de Protección Social en Salud es el mecanismo creado por convenio entre la Federación y el Estado de Morelos mediante el cual se garantiza el acceso efectivo, oportuno, de calidad, sin desembolso al momento de la utilización y sin discriminación de los servicios de atención médica.
+
+###### Artículo 46.
+
+Para los efectos de esta Ley, se entenderá por Sistema de Protección Social en Salud, a las acciones que en esta materia provean los Servicios de Salud de Morelos de acuerdo con lo establecido por la Ley General de Salud, contará con la participación subsidiaria y coordinada de la Federación, de conformidad con lo dispuesto en el Título Tercero bis de la Protección Social en Salud de la Ley General de Salud.
+
+###### Artículo 47.
+
+Las familias y personas que no sean derechohabientes de las Instituciones de Seguridad Social o no cuenten con algún otro mecanismo de previsión social en salud, se podrán incorporar al Sistema de Protección Social en Salud de Morelos.
+
+###### Artículo 48.
+
+Las atribuciones y obligaciones, así como los mecanismos de coordinación entre Gobierno Federal, Gobierno Estatal y usuarios se regirán de acuerdo a lo establecido en el Título Tercero bis de la Protección Social en Salud de la Ley General de Salud vigente.
+
+###### Artículo 49.
+
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud en las Instituciones Públicas Estatales, se ajustarán a lo que disponga el tabulador de la Beneficencia Pública Estatal. Misma que vigilará la Administración de estas cuotas cuidando que sean aplicadas prioritariamente en el financiamiento de los centros en donde se recaben, sin perjuicio de las atribuciones que competen a la Auditoría Superior Gubernamental.
+
+Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro a quien carezca de recursos para cubrirlas, o radique en las zonas de escaso desarrollo económico y social, conforme a las disposiciones del Gobierno del Estado y lo dispuesto en el Reglamento promulgado para tal efecto.
+
+###### Artículo 50.
+
+Los servicios de salud que presten las unidades públicas Estatales y empresas privadas, a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones celebradas entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud.
+
+###### Artículo 51.
+
+Los servidores públicos de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, así como opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+
+###### Artículo 52.
+
+El Ejecutivo del Estado y los municipios podrán convenir con las Instituciones Federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
+
+###### Artículo 53.
+
+El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+
+###### Artículo 54.
+
+La Secretaría de Salud de Morelos coadyuvará con las autoridades educativas competentes para la promoción de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud; así mismo estimulará la participación de éstos en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+
+### CAPÍTULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
+
+###### Artículo 55.
+
+Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+
+###### Artículo 56.
+
+Los usuarios tendrán derecho a obtener servicios de salud en forma oportuna y de calidad garantizada, y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno por parte de los profesionales, técnicos y auxiliares.
+
+###### Artículo 57.
+
+Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+
+###### Artículo 58.
+
+La Secretaría de Salud de Morelos establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los sociales y privados en el Estado.
+
+###### Artículo 59.
+
+Las autoridades sanitarias del Estado, las instituciones de salud y la Comisión de Arbitraje Médico del Estado establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como procedimientos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
+
+###### Artículo 60.
+
+Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o de que alguna persona requiera de la prestación urgente de servicios de salud, estarán obligados a trasladar, por los medios a su alcance, a los accidentados o enfermos a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata en forma gratuita, sin perjuicio de su posterior remisión a otras instituciones.
+
+###### Artículo 61.
+
+De conformidad con lo que señalen las disposiciones generales aplicables, los Agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que éstas sean trasladadas de inmediato al establecimiento de salud más cercano donde la atención inmediata deberá ser gratuita sin perjuicio de su posterior remisión a otras instituciones.
+
+###### Artículo 62.
+
+La participación de la comunidad en los programas de protección de salud, seguridad social y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
+
+###### Artículo 63.
+
+La comunidad podrá participar corresponsablemente en los servicios de salud de los sectores públicos, social y privado, a través de las siguientes acciones:
+
+I.- Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud e intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes;
+
+II.- Colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
+
+III.- Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+
+IV.- Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas para solicitar auxilio por sí mismas;
+
+V.- Formulación de sugerencias para mejorar los servicios de salud;
+
+VI.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de sustancias tóxicas o peligrosas y sus desechos;
+
+VII.- Información a las autoridades competentes, de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y
+
+VIII.- Otras actividades que coadyuven a la protección de la salud.
+
+###### Artículo 64.
+
+Los Servicios de Salud de Morelos y demás instituciones de salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de habilitación y rehabilitación de discapacitados.
+
+###### Artículo 65.
+
+Para los efectos del artículo anterior, en las cabeceras municipales y en las localidades en que se juzgue necesario, se constituirán comités de salud que podrán ser integrados por núcleos de población urbana, rural o indígena, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud en sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructuras básica y social y mantenimiento de unidades.
+
+###### Artículo 66.
+
+Los Ayuntamientos, con sujeción a las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los comités a que se refiere el Artículo anterior y de que cumplan los fines para los que son creados.
+
+###### Artículo 67.
+
+Se concede acción popular para denunciar ante las autoridades sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población.
+
+La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso, el señalamiento de los datos que permitan localizar la causa del riesgo.
+
+### CAPÍTULO V. ATENCIÓN A LA SALUD DE LOS MENORES
+
+###### Artículo 68.
+
+Se reconoce el derecho de los menores al disfrute del más alto nivel posible de salud y servicios para el tratamiento de enfermedades y la rehabilitación de la salud.
+
+La atención a la salud de los menores tiene carácter prioritario, teniendo como objetivo general, mejorar sus actuales niveles de salud mediante la integración y desarrollo de programas de prevención y control de las enfermedades que más frecuentemente pueden afectarlos, comprendiendo las siguientes acciones:
+
+I.- La atención al niño y la vigilancia de su crecimiento y desarrollo;
+
+II.- Promoción de un esquema básico de vacunación oportuno y gratuito, de cobertura Estatal;
+
+III.- La promoción de la integración y bienestar familiar;
+
+IV.- La prevención y control de las enfermedades más frecuentes;
+
+V.- La educación para su salud;
+
+VI.- Asegurar la prestación de la asistencia médica y la atención sanitaria que sea necesaria a todos los menores, haciendo hincapié en el desarrollo de la atención primaria de salud;
+
+VII.- Combatir las enfermedades y mal nutrición en el marco de la atención primaria de la salud, promoviendo la aplicación de tecnologías de fácil acceso y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente;
+
+VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los menores; y
+
+IX.- La atención de los problemas en el área de la comunicación humana y de la Psicología en el niño, como grupo prioritario y de alto riesgo.
+
+###### Artículo 69.
+
+A efecto de conocer, sistematizar y evaluar el problema, para adoptar medidas conducentes, la Secretaría de Salud de Morelos promoverá la organización sectorial de comités de prevención de la mortalidad infantil.
+
+###### Artículo 70.
+
+La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la Sociedad en general.
+
+###### Artículo 71.
+
+En la organización y operación de los servicios de salud destinados a la atención de los menores, las autoridades sanitarias del Estado, establecerán:
+
+I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los menores;
+
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la inscripción a programas federales de ayuda alimentaria directa, tendiente a mejorar el estado nutricional de los menores;
+
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de cinco años;
+
+IV.- Acciones de coordinación con las instituciones del sector para extender la cobertura de los servicios de atención a los menores, con el objeto de alcanzar el acceso universal, eliminando barreras económicas para los cinco componentes de la atención a la salud de los menores; y
+
+V.- Los programas de prevención contra las adicciones a los menores.
+
+###### Artículo 72.
+
+Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I.- Los programas para padres, destinados a promover la atención a la salud de los menores;
+
+II.- Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física mental de los menores y de las mujeres embarazadas;
+
+IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta;
+
+V.- Los programas de prevención al maltrato infantil y de la violencia intrafamiliar; y
+
+VI.- Las demás que coadyuven a la salud de los menores.
+
+###### Artículo 73.
+
+En materia de higiene escolar, corresponde a las autoridades sanitarias del estado, vigilar el cumplimiento de las normas para proteger la salud del educando y de la comunidad escolar de los centros educativos de la entidad. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de dichas normas.
+
+La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
+
+### CAPÍTULO VI. SERVICIOS DE SALUD REPRODUCTIVA
+
+###### Artículo 74.
+
+La salud reproductiva tiene carácter prioritario. Tiene como objetivo general, proporcionar información y servicios de salud reproductiva a la población, incluyendo acciones de planificación familiar. En sus actividades se debe incluir información, orientación educativa y servicios para los adolescentes y jóvenes. Asimismo, para disminuir la morbilidad y mortalidad materna y perinatal, se debe contribuir a que los individuos y las parejas disfruten de una vida sexual y reproductiva satisfactoria, saludable y sin riesgos, con la absoluta libertad para decidir de manera libre, responsable y bien informada el número y espaciamiento de los hijos y, de esta forma, regular en forma armónica el crecimiento de la población.
+
+Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre su vida sexual y reproductiva, con pleno respeto a su dignidad.
+
+En el ámbito de los servicios de salud reproductiva, quienes practiquen una esterilización o un método de planificación familiar, sin la voluntad del paciente, o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de las responsabilidades penales en que incurran.
+
+###### Artículo 75.
+
+La atención a la salud reproductiva comprende las siguientes acciones:
+
+I.- Atención a la salud de la mujer, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo;
+
+II.- Atención a la salud de la mujer durante el embarazo, el parto y el puerperio;
+
+III.- Servicios de planificación familiar, considerando los componentes señalados a este efecto por la Ley General de Salud;
+
+IV.- Promoción y desarrollo de programas de comunicación educativa en materia de salud reproductiva, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
+
+V.- La asesoría para la prestación de servicios de salud reproductiva, a cargo de los sectores público, privado y social, y la supervisión y evaluación de su ejecución, de acuerdo con las políticas establecidas por los Consejos Nacional y Estatal de Población;
+
+VI.- El apoyo y fomento de la investigación, desde la perspectiva de género en materia de salud reproductiva;
+
+VII.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas;
+
+VIII.- La promoción de la participación del hombre en la toma de decisiones reproductivas responsables con su pareja, incorporando la perspectiva de género en el diseño y ejecución de programas y proyectos en esta materia;
+
+IX.- Los Hospitales tanto del Sector Privado como público deberán garantizar la confidencialidad y realización de los procedimientos necesarios acorde a lo establecido y autorizado en el artículo 119 del Código Penal del Estado de Morelos sin perjuicio de los profesionales que los realicen.
+
+###### Artículo 76.
+
+La Secretaría de Salud de Morelos, promoverá la organización sectorial de comités de prevención de la mortalidad materna, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+
+###### Artículo 77.
+
+La Secretaría de Salud de Morelos establecerá y promoverá programas para la detección oportuna y atención del cáncer cérvico uterino y cáncer de mama.
+
+###### Artículo 78.
+
+Los comités de salud a que se refiere el Artículo 65 de esta Ley, promoverán que en las poblaciones y comunidades suburbanas y rurales del Estado, se impartan pláticas de orientación en materia de salud reproductiva. Las instituciones de salud y educativas otorgarán al efecto el apoyo necesario.
+
+###### Artículo 79.
+
+El Titular del Poder Ejecutivo participará con la Secretaría de Salud en las acciones del Programa de Salud Reproductiva, incorporando en los programas estatales de salud, las acciones que para el caso formulen los Consejos Nacional y Estatal de Población, así como las del Programa de Salud Reproductiva del Sector Salud.
+
+### CAPÍTULO VII. ATENCIÓN A LA SALUD DEL ADULTO Y DE LOS ADULTOS MAYORES
+
+###### Artículo 80.
+
+La salud del adulto y del adulto mayor tiene carácter prioritario; su objetivo general es la promoción y protección de la salud, la prevención, detección oportuna y control de las enfermedades crónico-degenerativas y, elevar la calidad de vida de la población adulta y de los adultos mayores.
+
+###### Artículo 81.
+
+La atención a la salud del adulto y del adulto mayor comprende las siguientes acciones:
+
+I.- Utilización de métodos sensibles y específicos para la detección temprana de enfermedades crónico-degenerativas;
+
+II.- Desarrollo de programas de comunicación educativa dirigidos a la comunidad, con el propósito de informar sobre los factores de riesgo de las enfermedades crónico-degenerativas para prevenir su aparición y sus complicaciones;
+
+III.- Apoyo y fomento de la investigación en materia de enfermedades crónico-degenerativas; y
+
+IV.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
+
+###### Artículo 82.
+
+La Secretaría de Salud de Morelos promoverá la organización institucional de programas de atención a la salud del adulto y del adulto mayor, a efecto de conocer, sistematizar y evaluar el problema de las enfermedades crónico-degenerativas, para adoptar las medidas conducentes.
+
+###### Artículo 83.
+
+La Secretaría de Salud de Morelos conforme a las Normas Oficiales Mexicanas que establezca la Secretaría de Salud del Gobierno Federal y la Ley Estatal de protección a los adultos mayores, prestará atención médica a los adultos y adultos mayores que presenten enfermedades crónico-degenerativas incluidas como prioritarias en el Programa Estatal de Salud.
+
+### CAPÍTULO VIII. SALUD MENTAL
+
+###### Artículo 84.
+
+La prevención y tratamiento de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+
+###### Artículo 85.
+
+Para la promoción de la salud mental, la Secretaría de Salud de Morelos y las instituciones de salud, en coordinación con las autoridades competentes en cada materia coadyuvarán para el adecuado funcionamiento del Consejo Estatal para la Prevención de las Adicciones cuyas actividades fundamentales serán fomentar y apoyar:
+
+I.- El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+
+II.- La orientación para la promoción de la salud mental;
+
+III.- La realización de programas para la prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencias; y
+
+IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+###### Artículo 86.
+
+La atención de las enfermedades mentales, comprende:
+
+I.- La atención de personas con padecimientos mentales, la rehabilitación de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas; y
+
+II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+
+###### Artículo 87.
+
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de quien presente alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+
+Para tal efecto podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+
+###### Artículo 88.
+
+Los Servicios de Salud de Morelos conforme a las Normas Oficiales Mexicanas que establezca la Secretaría de Salud, prestarán atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones Estatales no especializadas en salud mental.
+
+Para estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+
+### CAPÍTULO I. PROFESIONALES, TÉCNICOS Y AUXILIARES
+
+### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+
+### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+
+## TÍTULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 89.
+
+En el Estado de Morelos, el ejercicio de las especialidades, de las profesiones y de las actividades técnicas, auxiliares, estará sujeto a:
+
+I.- La Ley Sobre el Ejercicio de las Profesiones del Estado de Morelos;
+
+II.- Las bases de coordinación que, conforme a la Ley se definan entre las autoridades educativas y las autoridades sanitarias del Estado;
+
+III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la Federación; y
+
+IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
+
+###### Artículo 90.
+
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los Títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+Para el ejercicio de las actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+
+###### Artículo 91.
+
+Las autoridades educativas del Estado proporcionarán a las autoridades sanitarias Estatales, la relación de Títulos, diplomas y certificados de área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria.
+
+En tanto exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado procurará que se proporcione la información a que se refiere el párrafo anterior.
+
+###### Artículo 92.
+
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares a que se refiere éste Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional, iguales menciones deberán consignarse en los documentos y papeles que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
+
+###### Artículo 93.
+
+Los Servicios de Salud en Morelos procurarán que en los Centros de Salud de las comunidades indígenas, si se requiere, cuenten con personal que conozca la lengua que se practique en ellas.
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 94.
+
+Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de las de esta Ley.
+
+###### Artículo 95.
+
+Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rige su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+
+La operación de programas en los establecimientos de salud del Estado se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias Estatales.
+
+###### Artículo 96.
+
+Para los efectos de la eficiente prestación del servicio social de los pasantes de las profesiones para la salud se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas urbanas y rurales de menor desarrollo económico social del Estado.
+
+Para los efectos del párrafo anterior, la Secretaría de Salud en coordinación con las instituciones educativas, definirán los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los Comités de Salud a que alude el Artículo 65 de esta Ley.
+
+###### Artículo 97.
+
+La Secretaría de Salud, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud en beneficio de la colectividad de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 98.
+
+Las autoridades educativas, en coordinación con las autoridades sanitarias Estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+
+Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas en coordinación con ellas, así como la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de recursos humanos para la salud.
+
+###### Artículo 99.
+
+Corresponde a la Secretaría de Salud de Morelos, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
+
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
+
+II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+
+III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rigen el funcionamiento de los primeros; y
+
+IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
+
+###### Artículo 100.
+
+La Secretaría de Salud sugerirá a las autoridades e instituciones educativas cuando éstas lo soliciten, criterios sobre:
+
+I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
+
+II.- El perfil de los profesionales para la salud en sus etapas de formación.
+
+###### Artículo 101.
+
+La Secretaría de Salud de Morelos, con la participación de las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+
+###### Artículo 102.
+
+Las instituciones del sector salud del Estado, con base en las Normas Oficiales Mexicanas que emita la Secretaría de Salud del Gobierno Federal, establecerán las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
+
+###### Artículo 103.
+
+Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirá por lo que establezcan las instituciones de educación superior; deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que le otorguen las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+
+La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+
+## TÍTULO QUINTO. INVESTIGACIÓN PARA LA SALUD
+
+### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
+
+###### Artículo 104.
+
+La investigación para la salud comprende el desarrollo de acciones que contribuyan:
+
+I.- Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+
+II.- Al conocimiento de vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
+
+III.- A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+
+IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+
+V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud; y
+
+VI.- A la producción de insumos para la salud.
+
+###### Artículo 105.
+
+La Secretaría de Salud de Morelos, apoyarán (sic) y estimularán (sic) la promoción, la constitución y el funcionamiento de establecimientos destinados a la investigación para la salud vigilando que cumpla la normatividad marcada en el Título Quinto de Investigación para la Salud de la Ley General de Salud.
+
+## TÍTULO SEXTO. INFORMACIÓN PARA LA SALUD
+
+### CAPÍTULO III. NUTRICIÓN
+
+###### Artículo 106.
+
+La Secretaría de Salud de Morelos, de conformidad con la Ley de Información Estadística y Geografía y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el Estado y evolución de la salud pública de la Entidad.
+
+La información se referirá fundamentalmente a los siguientes aspectos:
+
+I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
+
+II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+
+III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población y su utilización.
+
+###### Artículo 107.
+
+Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de salud en el Estado, llevarán las estadísticas que en materia de salud le señalen las autoridades sanitarias locales, y proporcionarán a éstas y a las autoridades Federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
+
+## TÍTULO SÉPTIMO. PROMOCIÓN DE LA SALUD
+
+### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+
+###### Artículo 108.
+
+La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, hábitos, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
+
+###### Artículo 109.
+
+La promoción de la salud comprende:
+
+I.- Educación para la salud;
+
+II.- Nutrición;
+
+III.- Control de los efectos nocivos del ambiente en la salud;
+
+IV.- Salud ocupacional; y
+
+V.- Fomento Sanitario.
+
+### CAPÍTULO V. SALUD OCUPACIONAL
+
+###### Artículo 110.
+
+La educación para la salud tiene por objeto:
+
+I.- Fomentar en la población el desarrollo de actitudes y conductas que le permita participar en la prevención de enfermedades individuales, colectivas y accidentes y proteger de los riesgos que pongan en peligro la salud;
+
+II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
+
+III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tienen la violencia intrafamiliar y el maltrato de menores.
+
+###### Artículo 111.
+
+Las autoridades sanitarias estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 112.
+
+Para la atención y mejoramiento de la nutrición de la población, las Entidades del sector salud y los H. Ayuntamientos del Estado, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los sectores social y privado.
+
+###### Artículo 113.
+
+En los programas a que se refiere el artículo anterior; se incorporarán acciones que promuevan el consumo de alimentos de producción regional, se procurará al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+
+###### Artículo 114.
+
+Los apoyos nutricionales que proporcionen las dependencias y Entidades de la administración pública estatal, serán entregados a los beneficiarios previa valoración del estado nutricional que realicen los Servicios de Salud en el Estado.
+
+###### Artículo 115.
+
+La Secretaría de Salud tendrá a su cargo:
+
+I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
+
+II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+
+III.- Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
+
+IV.- Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos;
+
+V.- Promover investigaciones necesarias encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población;
+
+VI.- Recomendar dietas y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos para la población en general y promoveer (sic) en la esfera de su competencia a dicho consumo; y
+
+VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos y efectuar la valoración a que se refiere el artículo que antecede.
+
+### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+
+### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
+
+###### Artículo 116.
+
+Las autoridades sanitarias del Estado, en coordinación con otras instituciones de esta competencia vigilarán el cumplimiento de las normas oficiales mexicanas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del medio ambiente.
+
+###### Artículo 117.
+
+Corresponde a las autoridades sanitarias en Morelos:
+
+I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población originen la contaminación del ambiente;
+
+II.- Vigilar y certificar la calidad del agua para el consumo humano;
+
+III.- Promover y apoyar el saneamiento básico;
+
+IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y
+
+V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas como brotes epidémicos y desastres.
+
+VI.- Vigilar y certificar la calidad del aire, en las ciudades del Estado;
+
+VII.- Vigilar los niveles de contaminación sonora que se produce en las ciudades del Estado.
+
+###### Artículo 118.
+
+Las Dependencias Federales se coordinarán con la Secretaría de Salud de Morelos y con las Dependencias Estatales y Municipales para la prestación de los servicios a que se refiere este Capítulo.
+
+###### Artículo 119.
+
+Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
+
+###### Artículo 120.
+
+Las sustancias tóxicas peligrosas, plaguicidas y nutrientes vegetales serán objeto de regulación y control sanitario, mediante los acuerdos de coordinación específicos efectuados con el Ejecutivo Federal. Los establecimientos, productos y servicios inherentes a estos procesos deberán cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, Las Normas Oficiales Mexicanas, esta Ley y demás disposiciones reglamentarias aplicables.
+
+###### Artículo 121.
+
+Queda prohibida la descarga de aguas residuales a cuerpos de agua que se destinen para uso o consumo humano, sin el tratamiento para satisfacer los criterios sanitarios, que mediante las normas ecológicas emitan las autoridades Federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales, así como de residuos peligrosos que conlleven riesgos para la salud pública.
+
+###### Artículo 122.
+
+Los Servicios de Salud de Morelos, con la participación de las autoridades Federales y municipales competentes, y con la autoridad Estatal encargada de la administración de los distritos de riego, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico originada por plaguicidas, sustancias tóxicas o peligrosas y desperdicios o basura.
+
+###### Artículo 123.
+
+Para los efectos de esta Ley se entiende por fuentes de radiación cualquier dispositivo o sustancia que emita radiación ionizante en forma cuantificable. Y deberá apegarse a lo marcado en el titulo séptimo capítulo IV de los efectos del medio ambiente en la salud de la Ley General de Salud, la regulación y el control sanitario de éstas, es atribución de la Comisión Federal para la Protección Contra Riesgos Sanitarios.
+
+### CAPÍTULO IV. ACCIDENTES
+
+###### Artículo 124.
+
+Los Servicios de Salud de Morelos, vigilará el cumplimiento de las normas establecidas por la Secretaría de Salud del Gobierno Federal en los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezca la normatividad respectiva. La regulación y el control sanitario de lo referente a este Capítulo, es atribución de la Comisión Federal para la Protección Contra Riesgos Sanitarios.
+
+###### Artículo 125.
+
+Las Entidades Federales en coordinación con el Ejecutivo Estatal, desarrollarán y difundirán investigación interdisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del ser humano.
+
+## TÍTULO OCTAVO. PREVENCIÓN Y CONTROL DE ENFERMEDADES, ACCIDENTES Y DESASTRES
+
+### CAPÍTULO V. DESASTRES
+
+###### Artículo 126.
+
+El Ejecutivo Estatal en materia de prevención y control de enfermedades y accidentes de trabajo y con la participación de las autoridades e instituciones Federales competentes, realizará las siguientes acciones:
+
+I.- Vigilará la aplicación de las Normas Oficiales Mexicanas para la prevención y el control de enfermedades, accidentes y desastres, que dicte la Secretaría de Salud del Gobierno Federal.
+
+II.- Establecer y operar el Sistema Estatal de Vigilancia Epidemiológica Apoyar al Sistema Nacional de Vigilancia Epidemiológica, de conformidad con la Ley General de Salud, esta Ley y las demás disposiciones que al efecto se expidan; y
+
+III.- Promoverá la participación de los sectores público y privado del Estado en la aplicación de programas y actividades que establezca la Secretaría de Salud del Gobierno Federal, para la prevención y control de enfermedades, accidentes y desastres.
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 127.
+
+Las Autoridades Sanitarias del Estado, elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
+
+Asimismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+
+I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis vírales y otras enfermedades del aparato digestivo;
+
+II.- Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningococcicas y enfermedades causadas por estreptococos;
+
+III.- Tuberculosis;
+
+IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
+
+V.- Rabia, peste, brucelosis y otras zoonosis.
+
+En estos casos se coordinará con la Secretaría de Salud y con otras dependencias competentes en esta materia;
+
+VI.- Fiebre amarilla, dengue, y otras enfermedades vírales transmitidas por artrópodos.
+
+VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo y otras rickettsiosis, leishmaniasis, tripanosomiasis, oncocercosis;
+
+VIII.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+
+IX.- Lepra y mal del pinto;
+
+X.- Micosis profundas;
+
+XI.- Helmintiasis intestinales y extraintestinales;
+
+XII.- Toxoplasmosis;
+
+XIII.- Infección de VIH, síndrome de inmunodeficiencia adquirida (SIDA); y
+
+XIV.- Las demás que determinen el Consejo de Salubridad General y los Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos sea parte.
+
+###### Artículo 128.
+
+Las personas que viven con enfermedades transmisibles, gozarán de igual protección ante la Ley en lo que respecta al acceso a la atención sanitaria y a la protección de la salud.
+
+Los Servicios de Salud en Morelos, establecerán por todos los medios a su alcance, los mecanismos de seguridad de las transfusiones y los productos sanguíneos que proporcione y vigilar que estos se apliquen y vigilar su aplicación.
+
+Asimismo, en coordinación con los grupos y organizaciones interesadas, promoverán la realización de actividades específicas para reducir los riesgos de transmisión de enfermedades transmisibles y apoyar la coordinación de las redes formadas por las personas que viven con VIH-SIDA y los movimientos asociativos vinculados con estos, permitiendo su plena y total participación en la respuesta común a la pandemia, en todos los niveles.
+
+###### Artículo 129.
+
+Es obligatoria la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se específica:
+
+I.- Inmediatamente, en los casos individuales de enfermedades objetos de reglamento sanitario internacional: fiebre amarilla, cólera y peste;
+
+II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
+
+III.- Inmediatamente, a la autoridad sanitaria más cercana, en los casos en que se detecte la presencia del virus de inmunodeficiencia humana (VIH) o de anticuerpos de dicho virus, en alguna persona, o un caso confirmado de Síndrome de Inmunodeficiencia Adquirida (SIDA);
+
+IV.- En un plazo no mayor de veinticuatro horas, en los casos individuales de enfermedades de vigilancia internacional: poliomielitis, meningitis meningococcica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana; y
+
+V.- En un plazo no mayor de veinticuatro horas, de los casos individuales de las demás enfermedades transmisibles que se presenten en un área no afectada.
+
+###### Artículo 130.
+
+Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso por escrito a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
+
+###### Artículo 131.
+
+Están obligados a dar aviso, en los términos del Artículo 129 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fabricas, talleres, asilos, los jefes de oficina, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tengan conocimiento de alguno de los casos de enfermedades a que se refiere este Capítulo.
+
+###### Artículo 132.
+
+Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el Artículo 127 de esta Ley, deberán ser observadas por los particulares, el ejercicio de ésta acción comprenderá una o más de las siguientes medidas según el caso de que se trate:
+
+I.- La confirmación de la enfermedad por los medios clínicos disponibles;
+
+II.- El aislamiento, por el tiempo estrictamente necesario, de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
+
+III.- La observación, en el grado que se requiera de los contactos humanos y animales;
+
+IV.- La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
+
+V.- La descontaminación microbiana o parasitaria, desinfección y desinfectación de zonas habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
+
+VI.- La destrucción o control de vectores y reservorios y fuentes de infección natural o artificial, cuando representen peligro para la salud.
+
+VII.- La inspección de pasajeros que puedan ser portadores de gérmenes así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+
+VIII.- Las demás que determine esta Ley, su reglamento y la Secretaría de Salud del Gobierno Federal.
+
+###### Artículo 133.
+
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expide el Consejo de Salubridad General y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
+
+###### Artículo 134.
+
+Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y las características del padecimiento, aplicando los recursos a su alcance, para proteger la salud individual y colectiva.
+
+###### Artículo 135.
+
+Los trabajadores de salud, del Gobierno del Estado y de los municipios, así como los de otras instituciones autorizadas por las autoridades sanitarias Estatales, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de las actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+
+###### Artículo 136.
+
+Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares, en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de la Ley General de Salud, de esta Ley y los reglamentos aplicables.
+
+###### Artículo 137.
+
+Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos, deportivos etc.
+
+###### Artículo 138.
+
+El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados, a juicio de las autoridades sanitarias.
+
+###### Artículo 139.
+
+Las autoridades sanitarias del Estado podrán ordenar, por causa de epidemia, la clausura temporal de los locales o centros de reunión de cualquier índole.
+
+###### Artículo 140.
+
+El transporte de personas con enfermedades transmisibles deberá efectuarse en vehículos acondicionados al efecto; a falta de éstos deberán utilizarse los que autorice la autoridad sanitaria. Los vehículos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
+
+Las autoridades sanitarias determinaran que tipo de enfermos o portadores de gérmenes ameritaran este tipo de aislamiento.
+
+###### Artículo 141.
+
+Las autoridades sanitarias determinarán los casos en que deba procederse a la descontaminación microbiana o parasitaria, desinfección y desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
+
+### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
+
+###### Artículo 142.
+
+Las autoridades sanitarias del Estado realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades determinen.
+
+###### Artículo 143.
+
+El ejercicio de la acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+
+I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+
+II.- La divulgación de medidas higiénicas para el control de los padecimientos;
+
+III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
+
+IV.- La realización de estudios epidemiológicos; y
+
+V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+
+###### Artículo 144.
+
+Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria les requiera, acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+
+### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
+
+###### Artículo 145.
+
+Para los efectos de esta Ley se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles.
+
+###### Artículo 146.
+
+Las acciones en materia de prevención y control de accidentes comprenden:
+
+I.- El conocimiento de las causas más usuales que generan accidentes;
+
+II.- La adopción de medidas para prevenir accidentes;
+
+III.- El desarrollo de la investigación para la prevención de los mismos;
+
+IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
+
+V.- La atención de los padecimientos que se produzcan como consecuencia de accidentes; y
+
+VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+
+Estas acciones serán coordinadas por los Servicios de Salud de Morelos conjuntamente con el Consejo Estatal para la Prevención de Accidentes. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes y dentro de los marcos de los Sistemas Nacional y Estatal de Salud.
+
+### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+
+###### Artículo 147.
+
+Se entiende por desastre al evento o fenómeno natural y/o provocado por el hombre, que afecta en la salud, económica y socialmente al individuo o sociedad y cuyos efectos pueden ser prevenibles, mitigados o evitados.
+
+###### Artículo 148.
+
+Los desastres por su origen pueden clasificarse en: geológicos, hidrometereológicos, físicos, químicos, sanitarios y socio-organizativos.
+
+###### Artículo 149.
+
+Los desastres de origen sanitario son: brotes, epidemias, contaminación e intoxicaciones.
+
+###### Artículo 150.
+
+Los Servicios de Salud de Morelos ejercerán acciones con el objetivo de prestar auxilio ante cualquier desastre en forma inmediata y obligada, tanto en unidades médicas de primer nivel de atención, como en las unidades médicas hospitalarias, a través de:
+
+I.- La coordinación del sector salud, basada en un programa integral de atención a la salud en caso de desastres; y
+
+II.- Participación del personal de los Servicios de Salud de Morelos que se encuentra comprometido a participar en acciones que les sean asignadas de acuerdo a sus funciones o profesiones.
+
+###### Artículo 151.
+
+Ante un desastre, las actividades de los Servicios de Salud de Morelos son de prevención, atención prehospitalaria, atención hospitalaria y atención a la salud de damnificados en albergues:
+
+I.- Las actividades de prevención son: información sobre el fenómeno que se trate y sus consecuencias, fomentar medidas especificas para disminuir el daño a la salud, metodología para la detección de factores de riesgo en el, antes, durante y después del evento;
+
+II.- Ante un desastre, la atención prehospitalaria debe ser a través de: instalación de puestos de triage (primera atención al paciente), referencia a hospitales por ambulancias;
+
+III.- La atención hospitalaria en caso de desastre debe ser otorgada por las unidades hospitalarias en el Estado, sin importar derechohabiencia, incluyendo los servicios particulares; y
+
+IV.- La atención a la salud de los damnificados en albergues será a través de: consulta, vigilancia epidemiológica, control de excretas, basura y agua, toma de muestras ambientales y humanas, y saneamiento del albergue posterior al desalojo del mismo.
+
+## TÍTULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES Y REHABILITACIÓN DE DISCAPACITADOS
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 152.
+
+Para los efectos de esta Ley, se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social, que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr incorporación a una vida plena y productiva.
+
+Serán objeto de esta Ley los servicios asistenciales que se presten tanto en las instituciones públicas como privadas y deberá apegarse a lo estipulado en la Ley de Asistencia Social del estado de Morelos y a la Ley de Atención Integral para las Personas con Discapacidad en el Estado de Morelos.
+
+###### Artículo 153.
+
+Para fomentar el desarrollo de programas públicos de asistencia social, el Ejecutivo promoverá la canalización de recursos y apoyo técnico necesario.
+
+Asimismo procurará destinar los apoyos necesarios a los programas de asistencia social, públicos para fomentar su aplicación.
+
+###### Artículo 154.
+
+Los menores, en estado de desprotección social tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Gobierno del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+###### Artículo 155.
+
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata, a menores y adultos mayores sometidos a cualquier forma de maltrato, que pongan en peligro su salud física o mental, así mismo darán atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental, o el normal desarrollo psico-somático de los individuos.
+
+En estos casos, las instituciones del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y adultos mayores sin perjuicio de dar intervención a las autoridades competentes.
+
+###### Artículo 156.
+
+El Sistema Para el Desarrollo Integral de la Familia en Morelos que tendrá entre sus objetivos la promoción de la asistencia social, la prestación de los servicios en ese campo y la realización de las demás acciones que en la materia lleven a cabo las instituciones Públicas en el Estado en coordinación con el organismo Federal encargado al efecto.
+
+Las atribuciones y funciones que correspondan al sistema se regirán por la Ley de Asistencia Social del Estado de Morelos como lo marca el Artículo 11 de esta misma Ley.
+
+###### Artículo 157.
+
+El Gobierno del Estado y los H. Ayuntamientos, promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos discapacitantes, a niños desprotegidos y ancianos desamparados.
+
+###### Artículo 158.
+
+Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar habilitación y rehabilitación, cuando así lo requieran.
+
+###### Artículo 159.
+
+Los Servicios de Salud de Morelos en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades de acceso y atención prioritaria para las personas discapacitadas.
+
+###### Artículo 160.
+
+Para los efectos de esta Ley, se entiende por:
+
+I.- Discapacidad: La limitación en la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, Psicológica o social.
+
+II. Habilitación: Aplicación coordinada de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales, por tiempo determinado, que permitan a las personas con discapacidad congénita desarrollar su máximo grado de funcionalidad, a fin de ser aptos para realizar, en la medida de sus posibilidades, actividades que los integren familiar y socialmente;
+
+III. Rehabilitación: Aplicación coordinada de un conjunto de medidas y acciones médicas, psicológicas, educativas, ocupacionales y de capacitación social, por tiempo determinado, que tengan como finalidad readaptar y reeducar a la persona con discapacidad adquirida, para que alcance la mayor proporción posible de recuperación funcional, a fin de ser independiente y útil a sí misma, a su familia y a la sociedad.
+
+###### Artículo 161.
+
+La atención en materia de prevención de discapacidad habilitación y rehabilitación de discapacitados comprende:
+
+I.- La investigación de las causas de la discapacidad y los factores que la condicionan;
+
+II.- La promoción de la participación de la comunidad en la prevención de las causas y factores condicionantes de las discapacidades;
+
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales, que puedan causar discapacidad;
+
+IV.- La orientación educativa en materia de habilitación y rehabilitación a la colectividad en general, y en particular, a las familias en las que exista algún discapacitado, promoviendo al efecto la solidaridad social;
+
+V.- La atención integral de los discapacitados, incluyendo adaptación de la prótesis, órtesis y ayudas funcionales que requieran;
+
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas, a las necesidades de los discapacitados; y
+
+VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas con discapacidad y en proceso de habilitación o rehabilitación.
+
+###### Artículo 162.
+
+Los servicios de habilitación y rehabilitación que proporcionen los establecimientos dependientes del Sector Salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Sistema para el Desarrollo Integral de la Familia del Estado.
+
+###### Artículo 163.
+
+El Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia y en coordinación con los H. Ayuntamientos y la participación de las Dependencias y Entidades Federales, promoverá el establecimiento de centros y servicios de habilitación y rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+###### Artículo 164.
+
+El Sistema para el Desarrollo Integral de la Familia, tendrá entre sus objetivos operar establecimientos de habilitación y rehabilitación, realizar estudios e investigaciones en materia de discapacidades.
+
+## TÍTULO DÉCIMO. PROGRAMA CONTRA LAS ADICCIONES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 165.
+
+Las autoridades sanitarias Estatales deberán coordinar la ejecución, del programa contra el alcoholismo y el abuso de bebidas alcohólicas, que comprenda entre otras, las siguientes acciones:
+
+I.- La prevención y el tratamiento de alcoholismo, y en su caso, la rehabilitación del alcohólico;
+
+II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a niños, adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva; y
+
+III.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos considerados de alto riesgo.
+
+###### Artículo 166.
+
+Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado en coordinación con otras dependencias, y Entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+
+I.- Causas del alcoholismo y acciones para controlarlas;
+
+II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
+
+III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
+
+IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 167.
+
+Las autoridades sanitarias Federales se coordinarán con el Ejecutivo del Estado, para la aplicación del Reglamento Sobre el Consumo de Tabaco, que tiene por objeto proteger la salud de las personas de los efectos nocivos causados por la exposición al humo del tabaco, a través de la reducción del consumo de éste, principalmente en lugares públicos cerrados.
+
+La protección de la salud de los efectos nocivos del humo de tabaco comprende los siguiente:
+
+I. El derecho de las personas no fumadoras a no estar expuestas al humo del tabaco en los sitios cerrados que comparten con fumadores;
+
+II. La orientación a la población para que se abstenga de fumar en el hogar, los centros de trabajo y en lugares públicos;
+
+III. La prohibición de fumar en los edificios públicos que se señalan en el Reglamento;
+
+IV. El apoyo a los fumadores, cuando lo soliciten, para abandonar el tabaquismo con los tratamientos correspondientes, y
+
+V. La información a la población sobre los efectos nocivos del consumo de tabaco y la promoción de su abandono.
+
+###### ARTÍCULO 168.
+
+La prevención del tabaquismo tiene carácter prioritario, principalmente en la infancia y la adolescencia, y comprenderá las siguientes acciones, que se ajustarán a lo dispuesto en esta Ley, sin perjuicio de lo que establezcan las demás disposiciones aplicables.
+
+I. La promoción de la salud, que considerará el desarrollo de actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;
+
+II. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco;
+
+III. La inclusión de contenidos acerca del tabaquismo en programas y materiales educativos;
+
+IV. La orientación a la población para que se abstenga de fumar en el hogar, centro de trabajo y en los lugares públicos;
+
+V. La detección temprana del fumador;
+
+VI. La promoción de espacios libres de humo de tabaco;
+
+VII. El fortalecimiento de la vigilancia sobre el cumplimiento de la regulación sanitaria relativa a las restricciones para la venta de tabaco y las condiciones de inmuebles y edificios sujetos a verificación,
+
+VIII. El establecimiento de políticas tendientes a disminuir el acceso al tabaco.
+
+IX.- El tratamiento del tabaquismo el cual comprenderá las acciones tendientes a:
+
+a.- Conseguir que las personas que lo deseen puedan abandonar el hábito;
+
+b.- Reducir los riesgos y daños causados por el consumo de tabaco;
+
+c.- Abatir los padecimientos asociados al consumo de tabaco;
+
+d.- Atender y rehabilitar a quienes tengan alguna enfermedad atribuible al consumo de tabaco, y
+
+e.- Incrementar el grado de bienestar físico, mental y social tanto del consumidor de tabaco como de su familia y compañeros de trabajo.
+
+X.- La investigación sobre el tabaquismo considerará sus causas y el estudio de las acciones para controlarlo.
+
+###### Artículo 169.
+
+Para los efectos de esta Ley se consideran auxiliares de la autoridad sanitaria, las siguientes:
+
+I.- Los particulares en su calidad de ciudadanos, en pleno uso de sus derechos;
+
+II.- Los servidores públicos de las oficinas en las que se proporcione atención directa al público;
+
+III.- Los propietarios, poseedores o responsables y empleados de los locales, establecimientos y medios de transporte a que se refiere este Capítulo; y
+
+IV.- Los maestros, las asociaciones de padres de familia y asociaciones de alumnos de escuelas e institutos públicos y privados, a través del personal administrativo y directivo de las mismas.
+
+###### Artículo 170.
+
+Se restringe el consumo de tabaco en:
+
+I.- Los locales o establecimientos cerrados en los que se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de los mismos, deberán delimitar secciones reservadas para fumadores y para personas que no fumen durante su estancia en los mismos. Dichas secciones deberán estar identificadas con señalizaciones en lugares visibles al público asistente y cumplir con las condiciones estipuladas en la reglamentación correspondiente;
+
+II.- Los cines, auditorios y teatros cerrados a los que tenga acceso el público en general, con excepción de las secciones indicadas como áreas de fumadores;
+
+III.- En los vehículos de servicio público de transporte colectivo y en los de transporte público foráneo que circulen en el Estado, a excepción de que tengan un área destinada para tal efecto, debiendo fijar en el interior de los mismos, letreros o emblemas que indiquen la prohibición de fumar. Los choferes no podrán fumar mientras lleven pasaje;
+
+IV.- En los edificios e instalaciones de atención al público en general, del Gobierno Federal y Estatal y de los Ayuntamientos, así como aeropuertos, terminales aéreas y centrales camioneras;
+
+V.- En las tiendas de autoservicio, sucursales bancarias y financieras, industrias y en las oficinas comerciales o de servicio; y
+
+VI.- En los salones, auditorios, bibliotecas y salas de usos múltiples de las escuelas oficiales y particulares de educación preescolar, primaria, secundaria, especial, media superior y superior.
+
+###### Artículo 171.
+
+En términos de la presente Ley, se vigilará el cumplimiento del reglamento para la definición de áreas restringidas al consumo de tabaco, que tomará en cuenta el giro y opinión de los propietarios o responsables de los establecimientos.
+
+###### Artículo 172.
+
+Los Servicios de Salud de Morelos, en el ámbito de su competencia como autoridad sanitaria, vigilará el cumplimiento de esta Ley y del Reglamento Federal sobre consumo de tabaco coordinados con los auxiliares mencionados en el Artículo 169 de esta misma Ley.
+
+###### Artículo 173.
+
+En los edificios e instalaciones a que se refiere el Artículo 170 Fracción IV se destinará un área para que los trabajadores, visitantes o usuarios, que así lo deseen, puedan fumar, la cual deberá:
+
+I.- Estar aislada de las áreas de trabajo;
+
+II. Tener ventilación hacia el exterior o un sistema de extracción o purificación de aire;
+
+III.- Ubicarse, de acuerdo con la distribución de trabajadores, por piso, área o edificio, y
+
+IV. Estar identificada como área de fumar, con señalización clara y visible.
+
+###### Artículo 174.
+
+Deberán fijarse en lugares visibles, avisos o símbolos que expresen la prohibición de fumar e identifiquen las áreas en donde está permitido fumar. Fuera de las áreas reservadas para fumadores, no deberán existir ceniceros de ningún tipo.
+
+### CAPÍTULO II. ESTABLECIMIENTOS DESTINADOS AL PROCESO DE MEDICAMENTOS
+
+###### Artículo 175.
+
+El Gobierno del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución del Programa Nacional contra la fármacodependencia a través de las siguientes acciones:
+
+I.- Prevención y tratamiento de la fármacodependencia y, en su caso la rehabilitación de los fármaco dependientes;
+
+II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales;
+
+III.- La educación y orientación a la familia y la comunidad sobre las formas para reconocer los síntomas de la drogodependencia y adoptar las medidas a su alcance para su prevención y tratamiento, y
+
+IV.- La atención médica, psicológica y siquiátrica a los individuos con cualquier tipo de adicción.
+
+###### Artículo 176.
+
+El Titular del Ejecutivo y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+
+I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalables, para prevenir su consumo por parte de menores de edad e incapaces;
+
+II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
+
+III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes; y
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes.
+
+A los establecimientos que vendan o utilicen sustancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
+
+## TÍTULO DÉCIMO PRIMERO. DE LOS ESTABLECIMIENTOS DEDICADOS A PROCESO DE ALIMENTOS, BEBIDAS ALCOHÓLICAS Y NO ALCOHÓLICAS
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 177.
+
+Para efectos de esta Ley, se entiende por proceso, la o las actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos sujetos a control sanitario.
+
+###### Artículo 178.
+
+Los Servicios de Salud de Morelos ejercerá (sic) la verificación y control sanitario de los establecimientos dedicados al proceso de alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con la Ley General de Salud, sus reglamentos y Normas Oficiales Mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal y otras disposiciones aplicables al respecto.
+
+###### Artículo 179.
+
+Corresponde a los Ayuntamientos en los términos de esta Ley y demás disposiciones aplicables, autorizar la ubicación y los horarios de funcionamiento de los establecimientos a que se refiere este Capítulo así como vigilar su estricto cumplimiento.
+
+###### Artículo 180.
+
+Para determinar la ubicación y horario de funcionamiento de los establecimientos dedicados a la venta de bebidas alcohólicas, los Ayuntamientos tomarán en cuenta la cercanía de unidades de atención médica centros de recreo, culturales, educativos y otros similares, a efecto de coadyuvar eficazmente con las acciones derivadas del Programa Nacional Contra el Alcoholismo.
+
+###### Artículo 181.
+
+Los propietarios, encargados o responsables de los establecimientos en que se elaboren, expendan o suministren bebidas alcohólicas, en ningún caso y de ninguna forma las expenderán o suministraran a menores de edad así como, limitar su consumo a toda persona que presente manifestaciones presumibles de intoxicación etílica.
+
+###### Artículo 182.
+
+El proceso de los productos a que se refiere este Título deberá realizarse en condiciones higiénicas sin adulteración, contaminación o alteración y de conformidad con las disposiciones de la Ley General de Salud, esta Ley, sus reglamentos, Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
+###### Artículo 183.
+
+Se considera adulterado un producto cuando:
+
+I.- Su naturaleza o composición no correspondan a aquellas con que se etiquete, anuncie, expenda y suministre; y
+
+II.- Haya sufrido tratamiento que disimule su alteración, encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
+
+###### Artículo 184.
+
+Se considera contaminado el producto o materia prima que contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salud.
+
+###### Artículo 185.
+
+Se considera alterado un producto o materia prima cuando, por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que:
+
+I.- Reduzcan su poder nutritivo;
+
+II.- Lo conviertan en nocivo para la salud; y
+
+III.- Modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
+
+###### Artículo 186.
+
+Para los efectos de esta Ley se consideran bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción del 2 al 55 por ciento en volumen. Cualquiera otra que contenga una proporción mayor no podrá comercializarse como bebida.
+
+TÍTULO DÉCIMOSEGUNDO
+
+PUBLICIDAD
+
+### CAPÍTULO II. DONACIÓN Y TRASPLANTES
+
+###### Artículo 187.
+
+Con el fin de proteger la salud pública, es competencia de los Servicios de Salud de Morelos la autorización de la publicidad que se refiere a la salud, al tratamiento de las enfermedades, a la rehabilitación de los discapacitados, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia se confiera a otras dependencias del Ejecutivo Federal y Estatal.
+
+La regulación y el control sanitario de la publicidad dependerá de la Comisión Federal para la Protección Contra Riesgos Sanitarios.
+
+###### Artículo 188.
+
+Será objeto de autorización por parte de los Servicios de Salud de Morelos, la publicidad que se realice sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos; así como de la prestación de servicios de salud y de los servicios y procedimientos de embellecimiento y los demás que determine la Ley General de Salud y demás disposiciones aplicables.
+
+###### Artículo 189.
+
+La publicidad a que se refiere esta Ley se sujetará a los siguientes requisitos:
+
+I.- La información contenida en el mensaje sobre calidad, origen, pureza, conservación, propiedades nutritivas y beneficios de empleo deberá ser comprobable;
+
+II.- El mensaje deberá tener contenido orientador y educativo;
+
+III.- Los elementos que compongan el mensaje, en su caso, deberán corresponder a las características de la autorización sanitaria respectiva;
+
+IV.- El mensaje no deberá inducir a conductas, prácticas o hábitos nocivos para la salud física o mental que impliquen riesgos o atenten contra la seguridad o integridad física o dignidad de las personas;
+
+V.- El mensaje no deberá desvirtuar ni contravenir los principios, disposiciones y ordenamientos que en materia de prevención, tratamiento de enfermedades o rehabilitación, establezca la Secretaría de Salud del Gobierno Federal, y
+
+VI.- El mensaje publicitario deberá estar elaborado conforme a las disposiciones legales aplicables.
+
+###### Artículo 190.
+
+El ejercicio de las atribuciones en publicidad se circunscribirá a los acuerdos de descentralización y coordinación establecidos entre el Ejecutivo Federal y Estatal, apegados a las normas y procedimientos reglamentarios en la materia y a lo que marque esta Ley y demás disposiciones aplicables.
+
+## TÍTULO DÉCIMO TERCERO. CONTROL SANITARIO DEL PROCESO DE INSUMOS PARA LA SALUD
+
+### CAPÍTULO III. PÉRDIDA DE LA VIDA
+
+###### Artículo 191.
+
+Para los efectos de esta Ley se considera insumos para la salud, los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológicos, materiales quirúrgicos, de curación y productos higiénicos.
+
+La regulación y el control sanitario de los establecimientos dedicados al proceso, así como el uso, mantenimiento, importación, exportación y disposición final de estos insumos es atribución de la Comisión Federal para la Protección Contra Riesgos Sanitarios.
+
+###### Artículo 192.
+
+No podrán venderse medicamentos u otros insumos para la salud en puestos semifijos, módulos móviles o ambulantes.
+
+###### Artículo 193.
+
+Los productos y servicios a que se refiere este Título deben cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+
+### CAPÍTULO IV. CADÁVERES
+
+###### Artículo 194.
+
+Corresponde a la Comisión Federal para la Protección Contra Riesgos Sanitarios la regulación y el control sanitario de los establecimientos que se destinen al proceso de los productos a que se refiere este Título. Para los efectos de esta Ley se clasifican en:
+
+I.- Almacén de depósito y distribución de medicamentos herbolarios;
+
+II.- Almacén de depósito y distribución de medicamentos homeopáticos;
+
+III.- Almacén de depósito y distribución de medicamentos o productos biológicos para uso humano;
+
+IV.- Almacén de acondicionamiento, depósito y distribución de: instrumental y equipo médico, agente de diagnóstico, gases medicinales, material de curación y prótesis, productos higiénicos y material, instrumental y equipo médico odontológico;
+
+V.- Droguería;
+
+VI.- Farmacia;
+
+VII.- Botica; y
+
+VIII.- Los demás establecimientos que determine la Ley General de Salud.
+
+###### Artículo 195.
+
+Los establecimientos citados en el Artículo anterior cuando así proceda deberán contar con un responsable de la identidad, pureza y seguridad de los productos.
+
+Los responsables deberán reunir los requisitos establecidos en las disposiciones aplicables y serán designados por los titulares de las licencias o propietarios de los establecimientos, quienes darán el aviso correspondiente a los Servicios de Salud de Morelos.
+
+###### Artículo 196.
+
+Los establecimientos, productos y servicios a que se refiere este Título deberán cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+
+## TÍTULO DÉCIMO CUARTO. DONACIÓN DE ÓRGANOS, TEJIDOS Y CÉLULAS; TRASPLANTES Y PÉRDIDA DE LA VIDA
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### Artículo 197.
+
+Compete a la Secretaría de Salud del Gobierno Federal:
+
+El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del Órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios.
+
+###### Artículo 198.
+
+El Consejo Estatal de Trasplantes de Morelos es el rector de lo relacionado con la donación de órganos, tejidos, células y trasplantes; en el aspecto operativo y consultivo, deberá reunirse cuando menos cada 6 meses teniendo las siguientes atribuciones:
+
+I.- Diseñar, instrumentar, operar y dirigir el Sistema de Asignación de órganos, tejidos y células dentro del Estado;
+
+II.- Elaborar y aplicar el Programa Estatal de Trasplantes;
+
+III.- Mantener comunicación y coordinación con el Consejo Nacional de Trasplantes, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Trasplantes;
+
+IV.- Dictar medidas y lineamientos generales, para una mejor operación, al Registro Estatal de Donadores del Estado de Morelos y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos en el Código Civil para el Estado de Morelos;
+
+V.- Llevar el Registro de Receptores o sujetos susceptibles a trasplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud integrantes del propio Consejo proporcionen e inscriban;
+
+VI.- Expedir en cada caso inscrito de receptor o sujeto susceptible a trasplante, al propio interesado, su célula que, certifique su lugar progresivo en el registro y la fecha de su incorporación;
+
+VII.- Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
+
+VIII.- Fomentar y sistematizar el estudio y la investigación, en el trasplante de órganos y tejidos de seres humanos con fines terapéuticos; así como propiciar programas de capacitación para el personal médico y de enfermería en trasplante;
+
+IX.- Revisar permanentemente la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
+
+X.- Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y las autoridades estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos; así como sus Consejos homólogos de otras Entidades Federativas;
+
+XI.- Promover y coordinar la participación de los sectores social y privado, en acciones de apoyo en la materia;
+
+XII.- Presentar por conducto de su Presidente, durante el primer bimestre de cada año, un informe sobre lo realizado por el organismo, así como sobre los avances en, cuanto a trasplante de órganos y tejidos de seres humanos con fines terapéuticos;
+
+XIII.- Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplante;
+
+XIV.- Implementar un sistema de información con respecto al sistema y al Programa Estatal de Trasplantes, que permitan tanto la toma de decisiones, como la evaluación de la atención médica relacionada con los trasplantes;
+
+XV.- Diseñar el sistema logístico e informático. Que permita la operación eficaz del Registro Estatal de Donadores;
+
+XVI.- Solicitar al Registro Estatal de Donadores, en forma mensual, un informe respecto del número de donadores inscritos;
+
+XVII.- Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos;
+
+XVIII.- Acordar, su reglamento interior; y aprobarlo; y
+
+XIX.- Las demás que le señale su reglamento.
+
+###### Artículo 199.
+
+Los establecimientos de salud que requieren de autorización sanitaria son los dedicados a:
+
+I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
+
+II. Los trasplantes de órganos y tejidos;
+
+III. Los bancos de órganos, tejidos y células, y
+
+IV. Los bancos de sangre y servicios de transfusión.
+
+La Secretaría de Salud del Gobierno Federal a través de la Comisión Federal para la Protección contra riesgos sanitarios otorgará la autorización a que se refiere el presente Artículo y llevará el control sanitario a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de la Ley General de Salud y demás aplicables.
+
+###### Artículo 200.
+
+Los establecimientos a que se refiere el Artículo anterior contarán con un responsable sanitario, quien deberá presentar aviso ante la Secretaría de Salud del Gobierno Federal.
+
+Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un Comité Interno de Trasplantes y con un coordinador de estas acciones, que serán supervisadas por el Comité Institucional de Bioética respectivo.
+
+###### Artículo 201.
+
+Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe sin estar autorizada por la Ley General de Salud, esta Ley y demás disposiciones aplicables.
+
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+
+###### Artículo 202.
+
+En el Estado de Morelos toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en el mismo que se apegará en Derecho a lo establecido en el Capítulo II del Título Décimo Cuarto de la Ley General de Salud y al Código Civil del Estado de Morelos.
+
+###### Artículo 203.
+
+El Comité Estatal de Trasplantes de Morelos hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
+
+###### Artículo 204.
+
+Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico debiendo contar con el aval del Comité de Ética de la propia institución y apegándose a las obligaciones y pautas del Capítulo III del Título Décimo Cuarto de la Ley General de Salud.
+
+###### Artículo 205.
+
+Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
+
+I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
+
+II. Donar un órgano o parte de él, que al ser extraído su función pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
+
+III. Tener compatibilidad aceptable con el receptor;
+
+IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
+
+V. Haber otorgado su consentimiento en forma expresa, en términos del Capítulo II del Título Décimo Cuarto de la Ley General de Salud;
+
+VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
+
+###### Artículo 206.
+
+Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse lo siguiente:
+
+I. Comprobar, previo a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en el Capítulo III de este Título;
+
+II. Existir consentimiento expreso del disponente o no constar su revocación del tácito para la donación de sus órganos y tejidos, y
+
+III. Asegurarse que no exista riesgo sanitario.
+
+###### Artículo 207.
+
+Para la asignación de órganos y tejidos de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados.
+
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los pacientes en espera dando prioridad a los pertenecientes a la lista de espera Estatal y posteriormente al Listado Nacional, y que estarán a cargo del Consejo Estatal de Trasplantes y del Registro Nacional de Trasplantes respectivamente.
+
+###### Artículo 208.
+
+El Consejo Estatal de Trasplantes tendrá a su cargo la lista Estatal y conjuntamente con el Centro Nacional de Trasplantes informará de la misma para su integración al Registro Nacional de Trasplantes, y mantendrá actualizada la siguiente información:
+
+I.- Los datos de los receptores, de los donadores y fecha del trasplante;
+
+II.- Los establecimientos autorizados conforme al Artículo 199 de esta Ley;
+
+III.- Los profesionales de las disciplinas para la salud que estén autorizados y que intervengan en trasplantes;
+
+IV.- Los pacientes en espera de algún órgano o tejido, integrados en listas Estatales y Nacional, y
+
+V.- Los casos de muerte cerebral en los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el Artículo 199 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa a las Fracciones I, III, IV y V de este Artículo.
+
+###### Artículo 209.
+
+El Comité Estatal de Trasplantes vigilará la asignación de órganos, tejidos y células, dentro del ámbito de su competencia. Así mismo, actuará coordinadamente en el fomento y promoción de la cultura de la donación, para lo cual, participarán con el Consejo Nacional de Trasplantes, cuyas funciones, integración y organización se determinarán en el Reglamento respectivo.
+
+###### Artículo 210.
+
+El control sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud a través de la Comisión Federal para la Protección contra riesgos sanitarios.
+
+###### Artículo 211.
+
+La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión y funcionarán de acuerdo a la normatividad aplicable. La sangre será considerada como tejido.
+
+### CAPÍTULO III. AGUA POTABLE Y ALCANTARILLADO
+
+###### Artículo 212.
+
+Para efectos de este Título, la pérdida de la vida ocurre cuando:
+
+I.- Se presente la muerte cerebral, o II.- Se presenten los siguientes signos de muerte:
+
+a. La ausencia completa y permanente de conciencia;
+
+b. La ausencia permanente de respiración espontánea;
+
+c. La ausencia de los reflejos del tallo cerebral, y
+
+d. El paro cardiaco irreversible.
+
+###### Artículo 213.
+
+La muerte cerebral se presenta cuando existen los siguientes signos:
+
+I.- Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+II.- Ausencia de automatismo respiratorio, y
+
+III.- Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos. Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+
+Los signos señalados en las Fracciones anteriores deberán corroborarse por cualquiera de las siguientes pruebas:
+
+a.- Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o
+
+b.- Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+
+###### Artículo 214.
+
+No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas:
+
+El o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la Fracción II del Artículo 212 de esta Ley.
+
+### CAPÍTULO IV. CREMATORIOS Y FUNERARIAS
+
+###### Artículo 215.
+
+En el Estado de Morelos los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración apegándose estrictamente a lo marcado en el Capítulo V del Título Décimo Cuarto de la Ley General de Salud.
+
+###### Artículo 216.
+
+En el caso del traslado de cadáveres fuera del Estado de Morelos se requerirá dar aviso a la autoridad sanitaria competente del lugar en donde se haya expedido el certificado de defunción.
+
+###### Artículo 217.
+
+Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la Secretaría de Salud a través de los Servicios de Salud de Morelos en los términos de esta Ley y demás disposiciones generales aplicables, y deberán contar con un responsable sanitario que también deberá presentar aviso.
+
+## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
+
+### CAPÍTULO V. RASTROS
+
+###### Artículo 218.
+
+Compete al Ejecutivo Estatal y a los Ayuntamientos, en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones legales aplicables y los convenios que celebren en la materia, el control sanitario de las materias a que se refiere el Artículo 3º de esta Ley.
+
+###### Artículo 219.
+
+Para efectos de este Título, se entiende por control sanitario el conjunto de acciones de orientación educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones, que se ejercen por los Servicios de Salud de Morelos y los H. Ayuntamientos, con la participación de los productores, comercializadores y consumidores, con base en lo que establece la legislación sanitaria vigente. El ejercicio del control sanitario en materia de salubridad local será aplicable a los establecimientos y servicios a que se refiere el Artículo 3º apartado B y C de esta Ley.
+
+###### Artículo 220.
+
+Los Servicios de Salud de Morelos emitirán reglamentos y disposiciones legales aplicables a que quedará sujeto el control sanitario de las materias de salubridad local.
+
+###### Artículo 221.
+
+Se entenderá por norma, el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud Federal, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+
+Por reglamento se entenderá al ordenamiento de carácter general que expidan las autoridades administrativas, respecto de las disposiciones de esta Ley.
+
+Por disposiciones legales se entenderá (sic) las que emita la autoridad administrativa con el fin de dar cumplimiento a los ordenamientos contenidos en esta Ley y sus reglamentarias.
+
+###### Artículo 222.
+
+Los establecimientos que señala el Artículo 3º apartado B y C de esta Ley no requieren de autorización sanitaria, pero quedan sujetos al control sanitario, así como al cumplimiento de los requisitos establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan.
+
+###### Artículo 223.
+
+Los establecimientos a que se refiere el presente Título, para su funcionamiento, deberán presentar dentro de los 10 días posteriores al inicio de operaciones, el aviso de funcionamiento por escrito a los Servicios de Salud de Morelos o los H. Ayuntamientos, según sus respectivos ámbitos de competencia, de acuerdo a los lineamientos establecidos por la autoridad sanitaria Estatal.
+
+Los Servicios de Salud en Morelos o los H. Ayuntamientos, a petición de parte, prestarán el servicio de visita previa para la orientación sanitaria que se requiera.
+
+###### Artículo 224.
+
+Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos o en su caso la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente, en un plazo no mayor de treinta días hábiles, a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
+
+###### Artículo 225.
+
+Los Servicios de Salud de Morelos publicarán en el Periódico Oficial “Tierra y Libertad”, órgano de Gobierno del Estado, la reglamentación en materia de salubridad local que se expida.
+
+### CAPÍTULO VI. ESTABLOS Y ESTABLECIMIENTOS QUE CONGREGUEN A CUALQUIER ESPECIE ANIMAL PARA ORNATO O CONSUMO HUMANO
+
+###### Artículo 226.
+
+Para los efectos de esta Ley se entiende por:
+
+I.- Mercado: el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados; y
+
+II.- Centros de abasto: el sitio destinado al servicio público en maniobras de carga y descarga, conservación, en frío y demás operaciones relativas a la compraventa, al mayoreo y medio mayoreo, de productos en general.
+
+###### Artículo 227.
+
+Los Servicios de Salud de Morelos y los Ayuntamientos, en el ámbito de sus respectivas competencias, verificarán que los mercados y centros de abasto, sean provisionales o permanentes, cumplan con los requisitos que establezca esta Ley y las disposiciones reglamentarias y las normas que se emitan para tal efecto.
+
+###### Artículo 228.
+
+Los vendedores, locatarios y personas, cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y en el ejercicio de sus actividades se sujetarán a lo que dispongan esta Ley, los reglamentos respectivos, y otras disposiciones legales aplicables.
+
+### CAPÍTULO VII. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+
+###### Artículo 229.
+
+Los Gobiernos Estatal y Municipal, en sus respectivos ámbitos de competencia se coordinarán para procurar que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable.
+
+###### Artículo 230.
+
+Los proyectos de sistemas de abastecimiento de agua potable deberán ser sometidos a la consideración de la autoridad sanitaria Municipal, o Estatal en su caso, para la aprobación del sistema adoptado y el análisis minucioso de las aguas.
+
+###### Artículo 231.
+
+La Autoridad Municipal, y los Servicios de Salud de Morelos, realizarán periódicamente análisis de la potabilidad del agua conforme a esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+###### Artículo 232.
+
+En los centros de población que carezcan de Sistema de Agua Potable y Alcantarillado, la Autoridad Municipal deberá proteger las fuentes de abastecimiento para prevenir su contaminación, conforme a las normas correspondientes.
+
+Queda prohibido utilizar para el consumo humano, el agua del pozo de aljibe que se encuentre situado a una distancia menor de 15 metros de retretes, alcantarillado, estercoleros o depósitos de desperdicios que puedan contaminarlo, considerando la corriente o flujo subterráneo de aquellos.
+
+###### Artículo 233.
+
+Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
+
+###### Artículo 234.
+
+Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado y plantas de tratamiento o en su defecto de fosas sépticas.
+
+###### Artículo 235.
+
+En las poblaciones donde no haya sistema de alcantarillado, se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
+
+###### Artículo 236.
+
+Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en ríos, arroyos, acueductos, corrientes o canales, por donde fluyan aguas destinadas al uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de prevención de la contaminación.
+
+###### Artículo 237.
+
+Las Autoridades Municipales serán las responsables de que los niveles de cloración del agua potable cumplan con la normatividad al respecto, así mismo deberán proporcionar los medios para lograr la certificación del agua potable y garantizar así la inocuidad de esta para el uso y consumo del ser humano.
+
+### CAPÍTULO VIII. PELUQUERÍAS, SALONES DE BELLEZA, ESTÉTICAS Y ESTABLECIMIENTOS SIMILARES
+
+###### Artículo 238.
+
+Para los efectos de esta Ley se considera:
+
+I.- Crematorio: las instalaciones destinadas a la incineración de cadáveres y restos humanos; y
+
+II.- Funeraria: el establecimiento dedicado a la prestación de servicios funerarios, venta de féretros, velación y traslado de cadáveres de seres humanos a los cementerios o crematorios.
+
+###### Artículo 239.
+
+El funcionamiento de los crematorios y funerarias estará sujeto a esta Ley, otras disposiciones reglamentarias aplicables y las normas correspondientes.
+
+###### Artículo 240.
+
+Para la conservación, inhumación, exhumación y traslado de cadáveres, se requiere aprobación de la autoridad sanitaria competente, la que verificará el cumplimiento de las medidas de higiene y seguridad sanitaria en base a la normatividad vigente y lo marcado en el Capítulo V del Título Décimo Cuarto de la Ley General de Salud.
+
+###### Artículo 241.
+
+Para la disposición final de cadáveres de seres humanos infecto contagiosos de interés a la salud pública, sea para inhumación o cremación, se requiere la notificación inmediata a la autoridad sanitaria; el médico o la autoridad que determine la causa de la muerte, dispondrá de inmediato su inhumación o cremación en términos de la presente Ley, sus normas reglamentarias y demás disposiciones aplicables.
+
+### CAPÍTULO IX. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES
+
+###### Artículo 242.
+
+Para los efectos de esta Ley, se entiende por rastro el establecimiento destinado al sacrificio de animales para consumo público.
+
+###### Artículo 243.
+
+El funcionamiento, aseo y conservación de los rastros Municipales quedarán a cargo de la autoridad municipal competente. Si fueren concesionados a particulares, las acciones anteriores quedarán a cargo de los concesionarios y bajo la verificación de las autoridades municipales competentes. En ambos casos quedan sujetos al cumplimiento de lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+
+Queda prohibido el funcionamiento de rastros que no satisfagan los requisitos sanitarios establecidos en esta Ley y demás disposiciones legales aplicables, así como todo sacrificio cruel de animales.
+
+###### Artículo 244.
+
+Los animales deberán ser examinados en pie y en canal, por la autoridad sanitaria competente, la cual señalará que productos son aptos para el consumo humano.
+
+###### Artículo 245.
+
+Queda prohibido el sacrificio de animales en domicilios particulares o en la vía pública, cuando las carnes sean destinadas al consumo público.
+
+Podrá sacrificarse ganado menor en domicilios particulares sólo en el caso de que se destine la carne y los productos derivados al consumo familiar.
+
+###### Artículo 246.
+
+Para el sacrificio de los animales destinados al aprovechamiento humano en cualquiera de sus formas, se utilizarán métodos científicos y técnicos, actualizados y específicos, que señalen las disposiciones reglamentarias correspondientes.
+
+###### Artículo 247.
+
+Los requisitos sanitarios relativos al manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio se apegarán al reglamento y normatividad correspondiente.
+
+###### Artículo 248.
+
+Los vehículos para transportar animales destinados al sacrificio deberán cumplir con los requisitos sanitarios y de funcionamiento que se establece en la norma correspondiente.
+
+###### Artículo 249.
+
+El sacrificio de animales en los rastros se efectuará en los días y horas que fije la Autoridad Municipal.
+
+### CAPÍTULO X. MEDICINA ALTERNATIVA, TRADICIONAL Y HERBOLARIA
+
+###### Artículo 250.
+
+Para los efectos de esta Ley se entiende por establos o establecimientos, todos aquellos sitios dedicados a la explotación de animales para consumo humano, productores de lácteos y sus derivados y ornato que potencialmente se pudieran convertir en factor de riesgo sanitario.
+
+###### Artículo 251.
+
+La Autoridad Municipal, conforme a las disposiciones legales en vigor, delimitará el radio respecto a los lugares poblados en donde no podrán ubicarse los establecimientos a que se refiere este Capítulo. Los establecimientos de esta naturaleza que actualmente se localizan en estos lugares, deberán salir de las poblaciones en el plazo que los H. Ayuntamientos les señalen.
+
+###### Artículo 252.
+
+Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere este Capítulo, serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
+
+### CAPÍTULO XI. DE LAS CONSTRUCCIONES
+
+###### Artículo 253.
+
+Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptación social, el local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa.
+
+###### Artículo 254.
+
+Los reclusorios estarán sujetos al control sanitario de los Servicios de Salud de Morelos, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones generales aplicables.
+
+###### Artículo 255.
+
+Los reclusorios y centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas correspondientes, con un departamento de baños de regadera y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea necesario el traslado de éstos a un hospital. Dicho consultorio y el personal técnico y profesional que laboran en el mismo deberán cumplir con las disposiciones legales y normatividad emitidas al respecto; requiriéndose de un responsable médico el cual deberá cumplir con lo establecido en esta Ley y otras disposiciones aplicables.
+
+###### Artículo 256.
+
+Tratándose de situaciones de emergencia, de enfermedades graves o cuando así lo requiera el tratamiento de un interno, a juicio del personal médico de la institución, previa la autorización del Director de la misma, el interno podrá ser trasladado a la unidad hospitalaria que el propio Director determine, lo que se deberá hacer del conocimiento de las autoridades competentes.
+
+Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como hacer la notificación a que se refiere el Artículo 129 y 131 de esta Ley.
+
+### CAPÍTULO XII. CEMENTERIOS
+
+###### Artículo 257.
+
+Para los efectos de esta Ley, se entiende por peluquerías, salones de belleza, estéticas y establecimientos similares, los establecimientos abiertos al público, dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; al arreglo estético de uñas de manos y pies o a la aplicación de tratamientos externos de belleza en general, así como los dedicados al tatuaje, con productos y técnicas legalmente autorizados para ese fin.
+
+###### Artículo 258.
+
+Los establecimientos a que se refiere el Artículo anterior, deberán utilizar productos legalmente autorizados, material desechable y equipo estéril y ser efectuado por profesionales; en relación al tatuaje los usuarios a los que se les efectúe este procedimiento deberán ser mayores de edad, los cuales deberán manifestar por escrito su aprobación.
+
+###### Artículo 259.
+
+El funcionamiento y personal de los establecimientos señalados en los Artículos anteriores deberán apegarse a lo establecido por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
+
+### CAPÍTULO XIII. LIMPIEZA PÚBLICA
+
+###### Artículo 260.
+
+Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
+
+###### Artículo 261.
+
+Los propietarios de los animales transmisores de la rabia, estarán obligados a hacerlos vacunar por las autoridades sanitarias o servicios particulares, así como a mantenerlos dentro de sus domicilios y bajo su control, evitando que éstos causen molestias a los vecinos.
+
+### CAPÍTULO XIV. SEXO SERVICIO
+
+###### Artículo 262.
+
+Las actividades a que se refiere el presente Capítulo serán reguladas y controladas por los Servicios de Salud de Morelos en coordinación con las autoridades educativas, en sus respectivos ámbitos de competencia.
+
+Para los efectos de esta Ley se entiende por medicina alternativa, la atención a la salud mediante la aplicación de sistemas, técnicas o prácticas basadas en avances científicos y tecnológicos, que no estén comprendidos en la formación formal de la medicina y esta formado por la medicina tradicional y herbolaria, la atención a la salud, basada en el sistema de creencias, conceptos y prácticas, originada por nuestra cultura indígena y otras culturas étnicas.
+
+###### Artículo 263.
+
+El sector Salud de Morelos contarán dentro de su estructura, con un área para promover e impulsar la investigación de la medicina alternativa, tradicional y herbolaria con la participación de las instituciones públicas que tengan por objeto, entre otras cosas, su estudio e investigación y de los profesionales de la salud, así como de los practicantes, terapeutas tradicionales y agrupaciones civiles organizadas con este objeto.
+
+###### Artículo 264.
+
+Ninguna persona que se dedique a la práctica de la medicina alternativa, tradicional y herbolaria a que se refiere este Título, podrá ser obligada a pertenecer a alguna agrupación o asociación de esta naturaleza.
+
+###### Artículo 265.
+
+Las personas, agrupaciones y asociaciones, así como las dependencias e instituciones que proporcionen servicios de medicina alternativa, tradicional y herbolaria, serán responsables ante las autoridades competentes de las prácticas o métodos que apliquen, así como de sus consecuencias.
+
+### CAPÍTULO XV. BAÑOS PÚBLICOS Y BALNEARIOS
+
+###### Artículo 266.
+
+Para los efectos de esta Ley, se entiende por construcción, toda edificación o local que se destine a la habitación, comercio, enseñanza, recreación, trabajo o cualquier otro uso con excepción de los establecimientos de salud.
+
+###### Artículo 267.
+
+En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con las disposiciones legales aplicables.
+
+###### Artículo 268.
+
+Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos técnico sanitarios correspondientes.
+
+###### Artículo 269.
+
+Los edificios, locales, construcciones y terrenos urbanos, podrán ser verificados por la autoridad municipal competente, la que ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley y otras disposiciones legales aplicables.
+
+###### Artículo 270.
+
+Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables, dentro de los plazos y bajo las condiciones que señale la autoridad competente.
+
+###### Artículo 271.
+
+Cuando los edificios, construcciones o terrenos, representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estimen de urgencia, con cargo a sus propietarios o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos otorgados por la Autoridad Municipal.
+
+### CAPÍTULO XVI. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+
+###### Artículo 272.
+
+Para los efectos de esta Ley se considera cementerio: el lugar destinado a la inhumación de los cadáveres y restos humanos.
+
+###### Artículo 273.
+
+El funcionamiento de los cementerios estará sujeto a esta Ley, otras disposiciones reglamentarias aplicables y las normas correspondientes.
+
+###### Artículo 274.
+
+La autoridad sanitaria Municipal verificará el establecimiento, funcionamiento conservación y operación de conformidad con lo que establezcan las disposiciones legales y reglamentarias aplicables.
+
+### CAPÍTULO XVII. LAVANDERÍAS
+
+###### Artículo 275.
+
+Para los efectos de esta Ley se entiende por limpieza pública la recolección, manejo, disposición y tratamiento de residuos sólidos, a cargo de los H. Ayuntamientos, los que estarán obligados a prestar este servicio de manera regular y eficiente con apego a las normas correspondientes.
+
+###### Artículo 276.
+
+Así mismo, para efectos de la presente Ley, se entenderá por residuo sólido, el material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control, tratamiento, de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, y que provenga de actividades que se desarrollen en los domicilios, establecimientos mercantiles o de servicios y las vías públicas, con apego a las normas correspondientes.
+
+###### Artículo 277.
+
+El servicio de limpieza pública se sujetará a lo siguiente:
+
+I.- Los residuos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final, vigilando que no se ocasionen riesgos a la salud y al medio ambiente;
+
+II.- Queda prohibida la quema o incineración de residuos sólidos, cuya combustión sea nociva para la salud y al medio ambiente, fuera de lugares que determine la autoridad sanitaria;
+
+III.- Los residuos sólidos patológicos de los establecimientos de atención médica deberán manejarse separadamente de los otros, procediéndose a su incineración o eliminación a través de cualquier método previsto en las disposiciones legales aplicables;
+
+IV.- Los restos de animales encontrados en la vía pública deberán ser incinerados o enterrados por la Autoridad Municipal, procurando que se haga antes de que entren en Estado de descomposición y de conformidad con las normas correspondientes; y
+
+V.- El depósito final de los residuos sólidos deberá cumplir con los criterios de ubicación y funcionamiento establecidos por las autoridades de protección al ambiente.
+
+###### Artículo 278.
+
+Las autoridades Municipales fijarán lugares especiales para depositar la basura, tomando en cuenta al efecto, la legislación aplicable en materia de prevención de la contaminación ambiental y demás disposiciones aplicables.
+
+###### Artículo 279.
+
+Los H. Ayuntamientos, y en su caso el Gobierno del Estado, proveerán de depósitos de basura a los parques, jardines, paseos públicos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos; asimismo, fijarán lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de prevención de la contaminación ambiental.
+
+###### Artículo 280.
+
+Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
+
+### CAPÍTULO XVIII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+
+###### Artículo 281.
+
+Dado que el sexo servicio constituye un problema social que incide en la salud pública, este se regulará conforme a las disposiciones de esta Ley, y demás ordenamientos aplicables.
+
+###### Artículo 282.
+
+Para los efectos de esta Ley se entiende por sexo servicio, el que proporcionan las personas que utilizan actividades sexuales y/o corpóreas de estimulación sexual, como medio de subsistencia.
+
+###### Artículo 283.
+
+La autoridad municipal será la responsable de llevar a cabo la vigilancia y el control sanitario de los sujetos dedicados al sexo servicio a través de la Dirección de Salud Pública Municipal, aplicando las medidas necesarias, para que se realice dentro del marco normativo sanitario y que tendrá las siguientes atribuciones:
+
+I.- Prestar los servicios de orientación control y fomento sanitario de los sujetos;
+
+II.- Evaluar sanitariamente las actividades que desarrollan los sujetos en los establecimientos;
+
+III.- Otorgar la autorización sanitaria a los sujetos previo examen médico integral;
+
+IV.- Aplicar medidas de seguridad para el debido control sanitario;
+
+V.- Proporcionar a los Servicios de Salud cuando lo requiera, información relativa a:
+
+a).- Los sujetos en cuanto a censo nominal, sede laboral y generales.
+
+b).- La actividad regulada por esta Ley.
+
+VI.- Prestar lo (sic) servicios de educación y difusión para la salud, dirigidos a los sujetos, a los propietarios de los establecimientos, a los usuarios y al público en general;
+
+VII.- Prestar los servicios de orientación y vigilancia relacionados con el sexo servicio;
+
+VIII.- Implementar las medidas y las actividades tendientes a prevenir y controlar la propagación de las enfermedades transmisibles por contacto sexual;
+
+IX.- Elaborar la información estadística relacionada con la actividad e informar a los Servicios de Salud de Morelos;
+
+X.- Vigilar el cumplimiento de la presente Ley y demás disposiciones sanitarias;
+
+XI.- Sancionar las conductas de los sujetos así como de propietarios de establecimientos que contravengan a la presente Ley; y
+
+XII.- Las demás que les señalen los ordenamientos aplicables.
+
+###### Artículo 284.
+
+Las Autoridades Municipales podrán celebrar convenios con Dependencias Públicas o Privadas para llevar a cabo acciones de apoyo en relación con la materia objeto de esta Ley.
+
+###### Artículo 285.
+
+Los Servicios de Salud de Morelos apoyarán las funciones de los Ayuntamientos, proponiendo programas para la formación y desarrollo del personal técnico dedicado a las funciones de control y fomento sanitario.
+
+###### Artículo 286.
+
+La Dirección de Salud Municipal contará con un registro en donde deberán inscribirse a los sujetos bajo el siguiente procedimiento:
+
+I.- Elaboración del padrón de trabajadoras y trabajadores de los establecimientos del Municipio;
+
+II.- Archivo de Reconocimiento médico obligatorio de los sujetos, respaldado por una historia clínica completa y exámenes de laboratorio con la siguiente periodicidad:
+
+1.- Revisión médica cada tres semanas;
+
+2.- Exámenes de Laboratorio:
+
+a).- VIH-cada tres meses.
+
+b).- VDRL-cada seis meses.
+
+c).- Exudado vaginal - cada mes.
+
+d).- Exudado faringeo - cada tres meses.
+
+e).- Papanicolaou - cada doce meses.
+
+f).- Hepatitis - cada seis meses.
+
+g).- Prueba de Embarazo - cada tres meses.
+
+III.- Expedición en su caso de la tarjeta de control sanitario con fotografía, sus generales, un resumen de las disposiciones sanitarias y el estado de salud, que deberá portar el sujeto cada vez que sea objeto de reconocimiento médico;
+
+IV.- Mantendrá actualizado el registro con los cambios de domicilio, suspensión o reanudación de actividades, cancelación de registro y demás circunstancias que afecten a los sujetos.
+
+###### Artículo 287.
+
+Informará a los Servicios de Salud de la aparición de enfermedades que por su naturaleza o gravedad, puedan afectar la salud de grupos de la población a fin de tomar las medidas preventivas o correctivas que correspondan.
+
+###### Artículo 288.
+
+La tarjeta de control sanitario deberá ser resellada cada tres meses previos estudios de laboratorio calendarizados de acuerdo a lo marcado en el artículo 286.
+
+###### Artículo 289.
+
+Los sujetos están obligados a someterse, por lo menos una vez por trimestre al reconocimiento médico y a los exámenes estipulados en el Artículo 286 de la presente Ley, con la periodicidad marcada. Los sujetos además, deberán presentarse las veces que sean necesarias siempre y cuando medie prescripción médica.
+
+Los propietarios de los establecimientos o responsables de los sujetos que ejerzan las actividades del sexo servicio deberán informar a la Autoridad Sanitaria Municipal el cambio del trabajador o la suspensión de sus actividades.
+
+###### Artículo 290.
+
+Todos los sujetos están obligados a someterse a reconocimiento médico extraordinario en los casos siguientes:
+
+I.- Cuando se presuma o afirme hayan contraído alguna enfermedad de las previstas en el Artículo 291 de esta Ley;
+
+II.- Cuando la Dirección lo juzgue conveniente atendiendo razones de prevención de enfermedades epidémicas.
+
+###### Artículo 291.
+
+Queda prohibida la actividad de sexo servicio a las personas en los casos siguientes:
+
+I.- No cuente con la tarjeta y autorización de control sanitario vigentes.
+
+II.- Si padece alguna de las siguientes enfermedades:
+
+a) Sífilis
+
+b) Blenorragia y enfermedades de transmisión sexual
+
+c) Herpes
+
+d) Lepra
+
+e) Tuberculosis
+
+f) Sarna
+
+g) Micosis profunda
+
+h) Condilomatosis
+
+i) Virus de papiloma humano ( VPH )
+
+j) Cólera, fiebre Tifoidea, Paratifoidea, Hepatitis viral
+
+k) Difteria, tosferina, sarampión, Rubéola
+
+l) Síndrome de inmunodeficiencia adquirida (SIDA)
+
+m) Otras enfermedades que pongan en peligro la salud de la población.
+
+###### Artículo 292.
+
+El sujeto que contraiga alguna de las enfermedades previstas en el Artículo anterior, o alguna otra de carácter transmisible, están obligados a suspender el ejercicio de la actividad hasta que la autoridad sanitaria municipal lo considere conveniente.
+
+###### Artículo 293.
+
+Los sujetos están obligados a dar aviso a la Dirección de Salud Municipal, de su cambio de domicilio y de la suspensión o reanudación de su actividad.
+
+###### Artículo 294.
+
+Los sujetos deberán realizar sus actividades, con el uso de preservativos y los establecimientos deberán contar con publicidad y venta de éstos.
+
+###### Artículo 295.
+
+Queda prohibido el ejercicio de esta actividad a personas menores de dieciocho años y aquellas que padezcan alguna discapacidad mental.
+
+###### Artículo 296.
+
+Se hará acreedor a una sanción, a los dueños de los establecimientos y a quien ejerza la actividad con pleno conocimiento de padecer alguna enfermedad de transmisión sexual u otra grave en período de transmisibilidad, sin perjuicio de las penas que corresponda cuando sean constitutivas de delitos.
+
+###### Artículo 297.
+
+No podrán ejercer la actividad, las mujeres que se encuentren en estado de gravidez.
+
+###### Artículo 298.
+
+Queda prohibido por todos los medios publicitarios, la emisión de mensajes relacionados con actividades de estimulación sexual.
+
+###### Artículo 299.
+
+Si un sujeto se separa temporalmente de su actividad no podrán reingresar si no se someten a los requisitos médicos que se establecen en la presente Ley.
+
+###### Artículo 300.
+
+Los establecimientos que cuenten con autorización para el ejercicio del sexo servicio, no podrán estar ubicadas (sic) a menos de 500 metros perimetrales, de una institución educativa, religiosa o de beneficio social.
+
+###### Artículo 301.
+
+Todo establecimiento de los referidos en este Capítulo deberán reunir los requisitos necesarios para los establecimientos de elaboración y consumo de alimentos y bebidas alcohólicas y no alcohólicas.
+
+###### Artículo 302.
+
+El acceso al establecimiento deberá ser independiente de otros establecimientos o casas habitación.
+
+###### Artículo 303.
+
+Los establecimientos que se autoricen para la actividad materia de este ordenamiento, no podrán proporcionar servicio de alojamiento y hospedaje a personas ajenas a esta actividad.
+
+###### Artículo 304.
+
+El establecimiento que inicie actividades sin que haya sido autorizado previamente será considerado como clandestino y será sancionado como tal.
+
+###### Artículo 305.
+
+Las personas que hubieren contraído alguna enfermedad de transmisión sexual, deberán acudir a la autoridad sanitaria municipal para corroborar que se ha extinguido dicho padecimiento, comprobado mediante la práctica de estudios de laboratorio y el certificado médico que así lo acredite, hasta entonces podrá reincorporarse a sus actividades.
+
+###### Artículo 306.
+
+En los casos de separación temporal de los sexo servidores, no podrán reingresar a ejercer la actividad si no se someten a los requisitos médicos establecidos.
+
+###### Artículo 307.
+
+No podrán separarse definitivamente del control sanitario establecido sin que sean atendidos los sexo servidores, que al momento de solicitarlo, tuvieren manifestaciones de alguna enfermedad de transmisión sexual u otra, o se presuma que existe peligro de contagio. En este caso la Autoridad Municipal Sanitaria procederá a ejercer la vigilancia correspondiente del enfermo hasta su total restablecimiento.
+
+###### Artículo 308.
+
+Las Autoridades Municipales sanitarias en el ámbito de sus respectivas competencias, podrán ordenar la inmediata suspensión temporal o definitiva de trabajos o servicios de los sexo servidores o establecimientos que violen los preceptos o presenten alguna de las enfermedades establecidas en este ordenamiento cuando de continuar aquellos se ponga en peligro la salud de las personas.
+
+###### Artículo 309.
+
+La suspensión de trabajos o de servicios será temporal; podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario para corregir irregularidades que pongan en peligro la salud de las personas. Se ejecutarán en su caso, acciones necesarias que permitan asegurar la suspensión. Esta será levantada a instancia del interesado o por la propia autoridad que la ordenó cuando cese la causa por la cual fue suspendido.
+
+###### Artículo 310.
+
+Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas donde la autoridad municipal autorice el ejercicio del sexo servicio.
+
+###### Artículo 311.
+
+Todas las acciones emprendidas por las autoridades sanitarias y Municipales respecto al sexo servicio se harán en estricto apego y respeto a sus garantías individuales y de sus derechos humanos.
+
+###### Artículo 312.
+
+La aplicación de infracciones y sanciones en los casos de violaciones serán aplicadas por las mismas autoridades Municipales acorde a esta Ley; el reglamento para control de sexo servicio y el bando de policía y buen gobierno adoptado en los respectivos Municipios.
+
+### CAPÍTULO XIX. CENTROS DE ACOPIO ANIMAL Y CONTROL DE FAUNA NOCIVA
+
+###### Artículo 313.
+
+Para los efectos de esta Ley, se entiende por baños públicos y balnearios el establecimiento destinado a usar el agua para el aseo corporal, deporte, recreativo o uso medicinal, bajo la forma de baño y al que pueda concurrir el público; quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
+
+###### Artículo 314.
+
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 315.
+
+Los niveles de cloración que en su caso deberán cumplir los establecimientos a que se refiere el Artículo 313 de esta Ley serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
+
+### CAPÍTULO XX. ESTABLECIMIENTOS SEMIFIJOS Y AMBULANTES QUE INTERVENGAN EN CUALQUIERA DE
+
+LAS ETAPAS DEL PROCESO DE ALIMENTOS
+
+###### Artículo 316.
+
+Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, los establecimientos destinados a la concurrencia de personas con fines recreativos, sociales, deportivos, culturales o de esparcimiento.
+
+###### Artículo 317.
+
+El funcionamiento de los establecimientos a que se refiere el Artículo anterior, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
+
+### CAPÍTULO XXI. GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+
+###### Artículo 318.
+
+Para los efectos de esta Ley, se entiende por lavandería el establecimiento dedicado al lavado de ropa.
+
+###### Artículo 319.
+
+Corresponde a los H. Ayuntamientos ejercer la verificación sanitaria de las lavanderías, conforme a las disposiciones legales aplicables.
+
+### CAPÍTULO I. AUTORIZACIONES
+
+###### Artículo 320.
+
+Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje, cualquier edificación que se destine a albergar a toda persona que paga por ello.
+
+###### Artículo 321.
+
+Corresponde a los H. Ayuntamientos ejercer la verificación sanitaria a los establecimientos para el hospedaje, que conforme a esta Ley y otras disposiciones legales aplicables les corresponda.
+
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIÓN SANITARIAS
+
+###### Artículo 322.
+
+Para efectos de esta Ley, se entiende por centro de acopio animal y control de fauna nociva al establecimiento operado o concesionado por la Autoridad Municipal, con el propósito de contribuir a la prevención y control de la rabia animal principalmente, y coadyuvar con las autoridades sanitarias en los casos en que seres humanos hubieren tenido contacto con un animal sospechoso.
+
+Es obligación de los ayuntamientos instalar, poner en marcha y operar un centro de acopio animal, si el centro estuviese concesionado el ayuntamiento tendrá la obligación de vigilar su correcto funcionamiento.
+
+###### Artículo 323.
+
+Los centros de acopio animal y control de fauna nociva que establezcan los H. Ayuntamientos tendrán las siguientes funciones:
+
+I.- Atender quejas sobre animales agresores;
+
+II.- Capturar animales agresores y callejeros;
+
+III.- A los animales capturados someterlos a observación clínica por un período mínimo de diez días;
+
+IV.- Vacunar a los animales capturados y reclamados por su propietario, a costa del mismo dentro del lapso señalado en la fracción anterior, así como también a aquellos que para tal fin sean llevados voluntariamente por sus propietarios;
+
+V.- Obtener los diagnósticos de rabia por medio de análisis de laboratorio e informar a los Servicios de Salud de Morelos;
+
+VI.- Llevar a cabo el sacrificio de los animales en forma humanitaria, que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten;
+
+VII.- Practicar la necropsia de animales sospechosos de padecer rabia;
+
+VIII.- Canalizar a las personas agredidas, para su tratamiento oportuno y notificar a la autoridad sanitaria de toda persona agredida con datos fidedignos y completos para su localización;
+
+IX.- Participar en actividades de esterilización de mascotas en coordinación con los Servicios de Salud de Morelos y las asociaciones protectoras de animales;
+
+X.- Realizar, vigilar y coordinar acciones inherentes a la prevención, control y erradicación de fauna nociva y vectores relacionados con las Fracciones V, VI y VII del Artículo 127 de esta Ley y demás que determinen las autoridades sanitarias Estatales, bajo la coordinación, lineamientos y normatividad que definan los Servicios de Salud de Morelos; y
+
+XI.- Celebrar convenios con instituciones públicas, sociales o privadas, para la realización y ejecución de las acciones a que se refiere el presente Capítulo.
+
+###### Artículo 324.
+
+Los centros de acopio animal y control de fauna nociva coadyuvarán con las autoridades sanitarias correspondientes y a petición de las mismas a fin de que los propietarios de los animales transmisores de la rabia, los hagan vacunar por las autoridades sanitarias o servicios particulares, así como a mantenerlos dentro de sus domicilios y bajo su control, evitando que éstos causen molestias a los vecinos.
+
+### CAPÍTULO III. CERTIFICADOS
+
+###### Artículo 325.
+
+Para efectos de esta Ley, se entiende por proceso de alimentos para establecimientos semifijos y ambulantes la o las actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos sujetos a control sanitario que se destinen al comercio en vía pública.
+
+###### Artículo 326.
+
+Los H. Ayuntamientos ejercerán la verificación y control sanitario de los establecimientos dedicados al proceso de alimentos en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera de los establecimientos semifijos o ambulantes, de conformidad con la Ley General de Salud, esta Ley, sus Reglamentos y Normas Oficiales Mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal y otras disposiciones aplicables al respecto.
+
+###### Artículo 327.
+
+Corresponde a los H. Ayuntamientos en los términos de esta Ley y demás disposiciones aplicables el autorizar la ubicación y los horarios de funcionamientos de los establecimientos a que se refiere este Capítulo y vigilar su cumplimiento.
+
+###### Artículo 328.
+
+Para determinar la ubicación y horario de funcionamiento de los establecimientos semifijos o ambulantes dedicados a la venta de alimentos, los H. Ayuntamientos tomarán en cuenta la cercanía de unidades de atención médica, centros educativos y otros similares, atendiendo a las disposiciones reglamentarias correspondientes.
+
+###### Artículo 329.
+
+El proceso de los productos a que se refiere este Título deberá realizarse en condiciones higiénicas, sin adulteración, contaminación o alteración y de conformidad con las disposiciones de la Ley General de Salud, esta Ley, sus Reglamentos, Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
+###### Artículo 330.
+
+Se considera contaminado el producto o materia prima que contengan microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles establecidos por las disposiciones legales correspondientes.
+
+###### Artículo 331.
+
+Se considera alterado un producto o materia prima cuando, por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que:
+
+I.- Reduzcan su poder nutritivo;
+
+II.- Lo conviertan en nocivo para la salud; y
+
+III.- Modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
+
+Se considera adulterado un producto cuando:
+
+I.- Su naturaleza o composición no correspondan a aquellas con que se etiquete, anuncie, expenda y suministre; y
+
+II.- Haya sufrido tratamiento que disimule su alteración, encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 332.
+
+Para los efectos de esta Ley se entiende por:
+
+I.- Granjas avícolas: Los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de las especies y variedades de aves útiles a la alimentación humana;
+
+II.- Granjas porcícolas: Los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
+
+III.- Apiarios: El conjunto de colmenas destinados a la cría, reproducción y mejoramiento genético de las abejas; y
+
+IV.- Establecimientos similares: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las Fracciones anteriores; pero aptas para el consumo humano.
+
+###### Artículo 333.
+
+La Autoridad Municipal, conforme a las disposiciones legales en vigor, delimitará el radio respecto a los lugares poblados en donde no podrán ubicarse los establecimientos a que se refiere este Capítulo. Los establecimientos de esta naturaleza que actualmente se localiza (sic) en estos lugares, deberán salir de las poblaciones en el plazo que los H. Ayuntamientos les señalen.
+
+###### Artículo 334.
+
+Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el Artículo 332, de esta Ley, serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
+
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD
+
+## TÍTULO DÉCIMO SEXTO. AUTORIZACIONES Y CERTIFICADOS
+
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+###### Artículo 335.
+
+La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria competente, permite a una persona, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
+
+Las autorizaciones sanitarias tendrán el carácter de licencia, permisos o tarjetas de control sanitario.
+
+###### Artículo 336.
+
+Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado con las excepciones que establezca esta Ley y demás disposiciones legales aplicables, en caso de incumplimiento de las disposiciones legales las autorizaciones serán canceladas.
+
+###### Artículo 337.
+
+La autoridad sanitaria competente expedirá las autorizaciones respectivas, cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal aplicable.
+
+###### Artículo 338.
+
+Los establecimientos que prestan servicios de asistencia social no requerirán, para su funcionamiento, de autorización sanitaria, pero serán sujetos del control y vigilancia sanitaria, así como de los requisitos que establezcan las disposiciones reglamentarias y normas que se expidan.
+
+###### Artículo 339.
+
+Las autorizaciones sanitarias expedidas por la autoridad sanitaria competente por tiempo determinado, podrán prorrogarse de conformidad con las disposiciones generales aplicables.
+
+La solicitud correspondiente deberá presentarse a las autoridades sanitarias con antelación al vencimiento de la autorización.
+
+Solo procederá la prorroga cuando se sigan cumpliendo los requisitos que señalen esta Ley y demás disposiciones aplicables y previo pago de los derechos correspondientes.
+
+###### Artículo 340.
+
+Requieren de Autorización sanitaria los establecimientos a que se refieren los Artículos 198 y 315, de la Ley General de Salud.
+
+###### Artículo 341.
+
+Los establecimientos de servicios de salud en donde no se practiquen actos quirúrgicos u obstétricos, deberán presentar aviso de funcionamiento por escrito a los Servicios de Salud de Morelos.
+
+###### Artículo 342.
+
+Los establecimientos que no requieran de autorización sanitaria, deberán dar aviso de funcionamiento.
+
+El aviso a que refiere este Artículo deberá presentarse por escrito a los Servicios de Salud del Estado o a la Autoridad municipal en su caso, dentro de los 10 días posteriores al inicio de operaciones y contendrá los siguientes datos:
+
+I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
+
+II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones;
+
+III.- Procesos utilizados y línea o líneas de productos;
+
+IV.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+V.- Número de Clasificación Mexicana de Actividades y Productos (CMAP) de la actividad del establecimiento o de la clasificación correspondiente de la actividad sanitaria local;
+
+VI.- Nombre y número de cédula profesional, en su caso, del responsable sanitario; y
+
+VII.- Tipo de establecimiento.
+
+Anexar los documentos que acredite la existencia de la persona moral, la personalidad del representante legal que realice el trámite y, tratándose de personas físicas extranjeras, su legal estancia en el país.
+
+Además debe entregar, en su caso, el comprobante de pago de derechos o aprovechamientos correspondientes cuando se trate de los establecimientos a que se refiere el apartado A del Artículo 3° de esta Ley.
+
+###### Artículo 343.
+
+Requieren permiso de los Servicios de Salud de Morelos:
+
+I.- Los libros de control de estupefacientes o sustancias psicotrópicas, así como los actos a que se refiere el Artículo 242 de la Ley General de Salud;
+
+II.- La publicidad relativa a los productos y servicios comprendidos en los Artículos 188 y 189 de esta Ley; y
+
+III.- Las demás que determine esta Ley y otras disposiciones generales aplicables.
+
+###### Artículo 344.
+
+Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado y el Ejecutivo Federal.
+
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+###### Artículo 345.
+
+La autoridad sanitaria competente podrá revocar las autorizaciones sanitarias que haya otorgado, en los siguientes casos:
+
+I.- Cuando por causas supervinientes se compruebe que los productos, o el ejercicio de las actividades que se hubieren autorizado, constituyan riesgo o daño para la salud humana;
+
+II.- Cuando el ejercicio de la actividad que se hubiere autorizado, exceda los límites fijados en la autorización respectiva;
+
+III.- Porque se dé un uso distinto a la autorización;
+
+IV.- Por incumplimiento grave a las disposiciones de esta Ley, sus reglamentos y demás disposiciones generales aplicables;
+
+V.- Por reiterada renuencia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables;
+
+VI.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la autoridad sanitaria para otorgar la autorización;
+
+VII.- Cuando resulten falsos los dictámenes proporcionados por terceros autorizados;
+
+VIII.- Cuando el interesado no se ajuste a los términos, condiciones, y requisitos en que se le haya otorgado la autorización, o haga uso indebido de ésta;
+
+IX.- Cuando lo solicite el interesado;
+
+X.- Cuando los establecimientos y personas dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones; y
+
+XI.- En los demás casos en que conforme a esta Ley y demás disposiciones aplicables, lo determine la autoridad sanitaria competente.
+
+###### Artículo 346.
+
+Cuando la revocación de una autorización se funde en riesgos o daños que pueda causar un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y Entidades públicas que tengan atribuciones de orientación al consumidor.
+
+###### Artículo 347.
+
+En los casos a que se refiere el Artículo 345, con excepción del previsto en la Fracción VII, la autoridad sanitaria notificará personalmente al interesado la determinación fundada y motivada de revocar la autorización sanitaria que tenga éste a su favor, corriéndole traslado con las copias simples de las constancias del expediente que al respecto se haya formado; debiendo hacer además del conocimiento del interesado, que cuenta con un plazo de 30 días hábiles para recurrir a través de la impugnación prevista en la Ley de Procedimiento Administrativo para el Estado de Morelos, la determinación que contenga la revocación de la autorización sanitaria.
+
+###### Artículo 348.
+
+En la substanciación del procedimiento de revocación de autorizaciones, se admitirá toda clase de medios probatorios, excepto la confesional; al efecto, será de aplicación supletoria lo dispuesto por el Código Civil para el Estado Libre y Soberano de Morelos.
+
+###### Artículo 349.
+
+La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de actividades a que se refiera la autorización revocada.
+
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+
+###### Artículo 350.
+
+Para los efectos de esta Ley, se entiende por certificado, la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
+
+###### Artículo 351.
+
+Para fines sanitarios se extenderán los siguientes certificados:
+
+I.- Prenupciales;
+
+II.- De nacimiento;
+
+III.- De defunción;
+
+IV.- De muerte fetal; y
+
+V.- Los demás que determine esta Ley y sus reglamentos.
+
+###### Artículo 352.
+
+El certificado médico prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio, con las excepciones que establezca (sic) las disposiciones generales aplicables.
+
+###### Artículo 353.
+
+Los certificados de nacimiento, de defunción y de muerte fetal serán expedidos una vez comprobado el nacimiento, el fallecimiento y determinada su causa de éste, por profesionales de la medicina o personas autorizadas por los Servicios de Salud de Morelos.
+
+###### Artículo 354.
+
+Los certificados prenupciales, de defunción y de muerte fetal, a que se refiere este Título se extenderán de conformidad con la normatividad que emita la Secretaría de Salud del Gobierno Federal.
+
+Los certificados de nacimiento a que se refiere este Título, se extenderán en el formato aprobado por los Servicios de Salud de Morelos como autoridad sanitaria del Estado, de conformidad con la reglamentación que al respecto se emita.
+
+La autoridad del Registro Civil sólo admitirá como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
+
+### CAPÍTULO V. PRESCRIPCIÓN
+
+###### Artículo 355.
+
+Corresponde a los Servicios de Salud de Morelos y a los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de este Título y demás disposiciones reglamentarias que se dicten con base en ella.
+
+###### Artículo 356.
+
+Las demás dependencias o Entidades públicas en el Estado, coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y cuando encontraren irregularidades, que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
+
+###### Artículo 357.
+
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se aplique, si procedieren, las medidas de seguridad y sanciones correspondientes en esos casos.
+
+###### Artículo 358.
+
+La vigilancia sanitaria se realizará mediante visitas de verificación del personal expresamente autorizado por la Autoridad Sanitaria Estatal competente, el cual deberá desahogar las diligencias respectivas de conformidad con las prescripciones de esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 359.
+
+Las autoridades sanitarias competentes en el Estado podrán encomendar a sus verificadores, además, actividades de orientación, educativas y aplicación, en su caso de las medidas de seguridad a que se refieren las Fracciones VII, VIII, IX del Artículo 369 de esta Ley.
+
+###### Artículo 360.
+
+Las verificaciones podrán ser ordinarias o extraordinarias; las primeras se efectuarán en días y horas hábiles y las segundas, en cualquier tiempo.
+
+Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles, las de su funcionamiento habitual o autorizado.
+
+###### Artículo 361.
+
+Los verificadores en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales, de servicios y en general a todos los lugares a que hace referencia esta Ley.
+
+Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de transportes objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+###### Artículo 362.
+
+Los verificadores para practicar visitas deberán estar provistos de órdenes escritas, con firma autógrafa, expedidas por la autoridad sanitaria competente, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+
+Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
+
+###### Artículo 363.
+
+En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
+
+I.- Al iniciar la visita, el verificador deberá exhibir credencial vigente, expedida por la autoridad sanitaria competente que lo acredite para desempeñar dicha función, así como la orden expresa a que se refiere el Artículo 362 de esta Ley, de la que deberá dejar copia al propietario responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá contener en el acta correspondiente;
+
+II.- Al inicio de la visita, se deberá requerir al propietario, responsable encargado u ocupante del establecimiento, o conductor del transporte, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias de la designación de testigos, así como su nombre, domicilio y firma, se harán constar en el acta;
+
+III.- En el acta que se levante con motivo de la verificación, se hará constar las circunstancias de la diligencia; las deficiencias o anomalías observadas; el número y tipo de muestras tomadas y, en su caso, las medidas de seguridad que se ejecuten; y
+
+IV.- Al cumplir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento, o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta, o a recibir copia de la misma, o de la orden de visita, se deberá hacer constar en el documento y no afectará su validez, ni la de la diligencia practicada.
+
+###### Artículo 364.
+
+La recolección de muestras se efectuará con la sujeción a las siguientes reglas:
+
+I.- Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
+
+II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberá tomarse del mismo lote producción o recipiente procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
+
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia, para su análisis particular; otra muestra quedará en poder de la misma persona, a disposición de la autoridad sanitaria y tendrá el carácter de muestra testigo; la última, será enviada por la autoridad sanitaria al laboratorio autorizado y habilitado por esta, para su análisis oficial;
+
+IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, fax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+
+V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles, a partir de la notificación del análisis oficial; transcurrido este plazo sin que se haya impugnado el análisis, éste quedará firme y la autoridad sanitaria competente procederá conforme a la Fracción VII de este Artículo según corresponda;
+
+VI.- Con la impugnación a que se refiere la Fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiera practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso la muestra testigo. Sin el cumplimiento de estos requisitos no se dará trámite a la impugnación, y el resultado del análisis oficial quedará firme;
+
+VII.- La impugnación presentada en los términos de las Fracciones anteriores dará lugar a que al interesado a su cuenta y cargo, solicite a la autoridad sanitaria, el análisis de la muestra testigo, en un laboratorio que la misma señale. El resultado del análisis de la muestra testigo será el que en definitiva, acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+
+VIII.- El resultado del análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, fax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a ordenar el levantamiento de las medidas de seguridad que se hubieran ejecutado, según corresponda.
+
+Si el resultado a que se refiere la Fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarias, la autoridad sanitaria competente procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o, a confirmar las que se hubieren ejecutado y a imponer las sanciones que correspondan.
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificador esta obligado a enviar, en condiciones adecuadas de conservación, dentro del término de tres días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
+
+En este caso, el titular de la autorización sanitaria podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+
+El depositario de la muestra testigo será responsable solidario con el titular de la autorización sanitaria, si no conserva la muestra citada.
+
+El procedimiento de muestreo no impide que la autoridad sanitaria competente dicte y ejecute las medidas de seguridad sanitarias que procedan, en cuyo caso se asentará en el acta de verificación las que se hubieren ejecutado y los productos que comprenda.
+
+###### Artículo 365.
+
+En caso de toma de muestras de productos perecederos, deberán conservarse en condiciones óptimas para evitar su descomposición y su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará al interesado dentro de los quince días hábiles siguientes, contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las Fracciones VI y VII del Artículo anterior.
+
+Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme.
+
+###### Artículo 366.
+
+En el caso de productos recogidos en procedimiento de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
+
+## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+###### Artículo 367.
+
+Se consideran medidas de seguridad, las disposiciones que dicten los Servicios de Salud de Morelos y los H. Ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+
+###### Artículo 368.
+
+La participación de los Municipios estará determinada por los convenios que celebren con el Gobierno del Estado y por lo que dispongan las Leyes y reglamentos aplicables.
+
+###### Artículo 369.
+
+Son medidas de seguridad sanitaria las siguientes:
+
+I.- El aislamiento;
+
+II.- La cuarentena;
+
+III.- La observación personal;
+
+IV.- La vacunación de personas;
+
+V.- La vacunación de animales;
+
+VI.- La destrucción o control de insectos u otra fauna transmisora nociva;
+
+VII.- La suspensión de trabajos o servicios;
+
+VIII.- La suspensión de mensajes publicitarios en materia de salud;
+
+IX.- El aseguramiento y destrucción de objetos, productos o sustancias;
+
+X.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
+
+XI.- La prohibición de actos de uso; y
+
+XII.- Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud. Son de inmediata ejecución las medidas de seguridad señaladas en el presente Artículo.
+
+###### Artículo 370.
+
+Se entiende por aislamiento la separación de personas infectadas, durante el período de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio: El aislamiento se ordenará por escrito y por la autoridad sanitaria competente, previo dictamen médico y durará el tiempo estrictamente necesario para que desaparezca el peligro.
+
+###### Artículo 371.
+
+Se entiende por cuarentena la limitación a la libertad de tránsito de las personas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio. La cuarentena se ordenará por escrito y por la autoridad sanitaria competente, previo dictamen médico, y consistirá en que las personas expuestas no abandonen determinado sitio o se restrinja su asistencia a determinados lugares.
+
+###### Artículo 372.
+
+La observación personal consiste en la estrecha supervisión sanitaria de los presuntos portadores sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
+
+###### Artículo 373.
+
+La autoridad sanitaria competente ordenará la vacunación de personas expuestas a contraer enfermedades transmisibles en los siguientes casos:
+
+I.- Cuando no hayan sido vacunados contra la tosferina, difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades cuya vacunación se estime obligatoria;
+
+II.- En caso de epidemia grave; y
+
+III.- Si existiere peligro de invasión de dichos padecimientos en la Entidad.
+
+###### Artículo 374.
+
+Las autoridades sanitarias competentes podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre, o que pongan en peligro su salud, coordinándose en su caso con las dependencias encargadas de la sanidad animal.
+
+###### Artículo 375.
+
+Los Servicios de Salud de Morelos y los H. Ayuntamientos, en los ámbitos de sus respectivas competencias, ejecutarán las medidas para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando estos constituyan un peligro grave para la salud de las personas.
+
+En todo caso se dará a las dependencias encargadas de la sanidad animal, la intervención que corresponda.
+
+###### Artículo 376.
+
+Los Servicios de Salud de Morelos y los H. Ayuntamientos en el ámbito de sus respectivas competencias, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando de continuar aquellos se ponga en peligro la salud de las personas.
+
+###### Artículo 377.
+
+La suspensión de trabajo o de servicios será temporal; podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario para corregir irregularidades que pongan en peligro la salud de las personas. Se ejecutarán en su caso, las acciones necesarias que permitan asegurar la referida suspensión. Esta será levantada a instancia del interesado o por la propia autoridad que la ordenó, cuando cese la causa por la cual fue decretado.
+
+Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendado (sic) la corrección de las irregularidades que la motivaron.
+
+###### Artículo 378.
+
+La suspensión de mensajes publicitarios en materia de salud, procederá cuando éstos se difundan por cualquier medio de comunicación social contraviniendo lo dispuesto en esta Ley y demás ordenamientos aplicables o cuando la autoridad sanitaria competente determine que el contenido de los mensajes afecta o induce a actos que pueden afectar la salud pública.
+
+En estos casos, los responsables de la publicidad procederán a suspender el mensaje, dentro de las 24 hrs. siguientes a la notificación de la medida de seguridad. Si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública.
+
+En casos de publicaciones periódicas, la suspensión surtirá efectos a partir del siguiente ejemplar en el que apareció el mensaje.
+
+###### Artículo 379.
+
+El aseguramiento de objetos, productos o sustancias tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas, o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. Los Servicios de Salud de Morelos y los H. Ayuntamientos podrán retenerlos, o dejarlos en depósito, hasta en tanto se determine, previo dictamen, su destino.
+
+Si el dictamen indicara que el bien asegurado no es nocivo pero no cumple con las disposiciones legales correspondientes, la autoridad sanitaria concederá al interesado un plazo hasta de 30 días para que tramite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realiza el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
+
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el interesado y bajo la vigilancia de aquella, someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad le señale.
+
+Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o substancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruidos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+
+Los productos perecederos que no se reclamen por los interesados dentro de las 24 horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social, públicas o privadas.
+
+###### Artículo 380.
+
+La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio se ordenará previa observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+###### Artículo 381.
+
+Las violaciones a los preceptos de esta Ley, a sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas por las autoridades sanitarias del Estado, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+
+###### Artículo 382.
+
+Las sanciones administrativas podrán ser:
+
+I.- Amonestaciones con apercibimiento;
+
+II.- Multa;
+
+III.- Clausura temporal o definitiva que podrá ser parcial o total; y
+
+IV.- Arresto hasta por 36 horas.
+
+###### Artículo 383.
+
+Al imponerse una sanción se fundará y motivará la resolución, tomando en cuenta:
+
+I.- Los daños que se hayan producido o puedan producirse en la salud de las personas;
+
+II.- La gravedad de la infracción;
+
+III.- Las condiciones socioeconómicas del infractor;
+
+IV.- La calidad del reincidente del infractor; y
+
+V.- El beneficio obtenido por el infractor como resultado de la infracción.
+
+###### Artículo 384.
+
+Se sancionará con multa hasta 1,000 veces el salario mínimo general diario vigente en el área geográfica que corresponda la violación de las disposiciones contenidas en los Artículos 43, 60, 61, 92, 107, 130, 131, 132, 144, 170, 195, 217, 226, 298, 342, 353, 354 de esta Ley y el 103 de la Ley General de Salud.
+
+###### Artículo 385.
+
+Se sancionará con multa de 1,000 hasta 4,000 mil veces el salario mínimo general diario vigente en el área geográfica que corresponda, la violación de las disposiciones contenidas en los Artículos 119, 134, 140, 189, 233, 240, 241, 296, 340, 343, y 378 de esta Ley.
+
+###### Artículo 386.
+
+Se sancionará con multa de 4,000 hasta 10,000 veces el salario mínimo general diario vigente en el área geográfica que corresponda, la violación de las disposiciones contenidas en los artículos 74, 121, 181, 182, 199, 361 y 376 de esta Ley y los artículos 100 y 101 de la Ley General de Salud.
+
+###### Artículo 387.
+
+Las autoridades municipales sancionarán con multa de hasta 500 veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los Artículos 228, 234, 235, 244, 245, 261, 268, 271, 278 y 323 de esta Ley.
+
+###### Artículo 388.
+
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por 10,000 veces el salario mínimo general diario vigente en el Estado, atendiendo a las reglas de calificación establecidas en el Artículo 383 de esta Ley.
+
+###### Artículo 389.
+
+En caso de reincidencia se duplicará el monto de la multa que corresponda para los efectos de este Capítulo, se entiende por reincidencia, el hecho de que el mismo infractor cometa la misma violación a las disposiciones de esta Ley o de sus reglamentos, de dos o más veces dentro del lapso de un año, contando a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
+
+###### Artículo 390.
+
+La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan hasta en tanto se subsanen las irregularidades.
+
+###### Artículo 391.
+
+Procederá la clausura, temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
+
+I.- Cuando los establecimientos no reúnan los requisitos sanitarios que establece esta Ley y las demás disposiciones reglamentarias aplicables;
+
+II.- Cuando el peligro para la salud de las personas se originen por la violación reiterada de los preceptos de la Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
+
+III.- Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajo o actividades o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
+
+IV.- Cuando la peligrosidad de las actividades que se realicen, o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate sea necesario proteger la salud de la población;
+
+V.- Cuando en el establecimiento se vendan o suministren estupefacientes y/o sustancias psicotrópicas sin cumplir con los requisitos que señalen la Ley General de Salud, esta Ley, reglamentos y demás disposiciones legales aplicables;
+
+VI.- Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud, y
+
+VII.- Por reincidencia en tercera ocasión.
+
+###### Artículo 392.
+
+En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubieran otorgado al establecimiento, local, fábrica o edificio de que se trate.
+
+###### Artículo 393.
+
+Se sancionará con arresto hasta por treinta y seis horas:
+
+I.- A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
+
+II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
+
+Sólo se procederá ésta sanción si previamente se dictó cualquiera de las que previene este Capítulo.
+
+Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+###### Artículo 394.
+
+Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte del Gobierno del Estado y de los H. Ayuntamientos, se sujetarán a los siguientes criterios:
+
+I.- Se fundará y motivará la resolución en los términos de los Artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos y 2º de la Constitución Política del Estado de Morelos;
+
+II.- Se tomarán en cuenta las necesidades sociales y Estatales, y en general, los derechos e intereses de la sociedad;
+
+III.- Se considerarán los precedentes que se hayan dado en el ejercicio de las facultades específicas que van a ser aplicadas, así como la experiencia acumulada a este respecto;
+
+IV.- Los demás que establezca el superior jerárquico, tendientes a la predictibilidad de la resolución de los funcionarios; y
+
+V.- La resolución que se adopte se hará saber al interesado dentro del plazo que marca la Ley.
+
+Para tal caso de que no exista éste, dentro de un plazo no mayor de cuatro meses, contados a partir de la recepción de la solicitud del particular.
+
+###### Artículo 395.
+
+La definición, observancia e instrucción de los procedimientos que se establecen en esta Ley, se sujetarán a los siguientes principios jurídicos y administrativos:
+
+I.- Legalidad;
+
+II.- Imparcialidad;
+
+III.- Eficacia;
+
+IV.- Economía;
+
+V.- Probidad;
+
+VI.- Participación;
+
+VII.- Publicidad;
+
+VIII.- Coordinación;
+
+IX.- Eficiencia;
+
+X.- Jerarquía; y
+
+XI.- Buena fe.
+
+###### Artículo 396.
+
+Los Servicios de Salud de Morelos, con base en los resultados de las visitas o del informe de verificación a que se refiere el Artículo 363 de esta Ley, podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la Fracción XVIII del Artículo 3º apartado A, así como los establecimientos a que se refiere el apartado B del propio Artículo, notificándolas al interesado y otorgándole un plazo adecuado para su realización. De igual forma procederán las autoridades municipales respecto de las irregularidades que se hubieren encontrado en los establecimientos a que se refiere el apartado C del mismo Artículo 3°.
+
+###### Artículo 397.
+
+Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que hayan dispuesto.
+
+###### Artículo 398.
+
+Derivado de las irregularidades sanitarias que reporte el acta o informe de verificación, la autoridad sanitaria competente citará al interesado, personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime conveniente en relación con los hechos asentados en acta o informe de verificación, según el caso. Tratándose del informe de verificación, la autoridad sanitaria competente deberá acompañar al citatorio, invariablemente, copia de aquel.
+
+###### Artículo 399.
+
+El cómputo de los plazos que señale la autoridad sanitaria competente para el cumplimiento de sus disposiciones sanitarias, se hará entendiendo los días como naturales, con las excepciones que esta Ley establezca.
+
+###### Artículo 400.
+
+Una vez oído al presunto infractor o al representante legal que él designe, y desahogada las pruebas que ofreciere y fueren admitidas, se procederá, dentro de los cinco días hábiles siguientes, a dictar por escrito la resolución que proceda, la cual será notificada en forma personal, o por correo certificado con acuse de recibo.
+
+###### Artículo 401.
+
+En caso de que el presunto infractor no compareciera dentro del plazo fijado por el Artículo 400, se procederá a dictar en rebeldía la resolución definitiva, y a notificarla personalmente, o en su caso por correo certificado con acuse de recibo.
+
+###### Artículo 402.
+
+En los casos de suspensión de trabajos o de servicios, o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
+
+###### Artículo 403.
+
+Cuando del contenido de un acta de verificación se desprende la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+###### Artículo 404.
+
+Contra los actos y resoluciones que dicten las autoridades sanitarias del Estado, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de impugnación.
+
+###### Artículo 405.
+
+Para la interposición y substanciación del procedimiento administrativo a que se refiere el Artículo anterior, se observarán los requisitos y las formalidades previstas en la Ley de Procedimiento Administrativo para el Estado de Morelos.
+
+###### Artículo 406.
+
+La interposición del procedimiento administrativo suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
+
+Tratándose de otro tipo de actos o resoluciones, la interposición del procedimiento administrativo suspenderá su ejecución, siempre y cuando se satisfagan los siguientes requisitos:
+
+I.- Que lo solicite el recurrente;
+
+II.- Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público; y
+
+III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente con la ejecución del acto o resolución recurrida.
+
+###### Artículo 407.
+
+El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley prescribirá en el plazo de cinco años.
+
+###### Artículo 408.
+
+Los plazos para la prescripción serán continuos y se contarán desde el día en que se cometió la falta o infracción administrativa si fuere consumada, o desde que cesó, si fuere continua.
+
+###### Artículo 409.
+
+Cuando el presunto infractor impugnare los actos de la autoridad sanitaria competente se interrumpirá la prescripción, hasta en tanto se dicte resolución definitiva que no admita ulterior recurso.
+
+###### Artículo 410.
+
+Los interesados podrán hacer valer la prescripción por vía de excepción. La autoridad deberá declararla de oficio.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Salud del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4027 del 19 de enero de 2000, así como todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular del Ejecutivo del Estado para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos cuentan con seis meses naturales para reubicar los establecimientos autorizados para la prestación de sexo servicio que estuvieren a menos de 500 metros perimetrales de instituciones educativas, religiosas o de beneficio social.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos cuentas con un año natural para reubicar los establecimientos dedicados a lo referente en el Capitulo XXI del Título Décimo quinto de la salubridad local de esta misma Ley.
+
+Recinto Legislativo a los treinta y un días del mes de mayo de dos mil cinco.
+
+ATENTAMENTE.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+
+LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+
+DIP. LUIS ÁNGEL CISNEROS ORTÍZ.
+
+VICEPRESIDENTE EN FUNCIONES DE PRESIDENTE.
+
+DIP. ROSALÍO GONZÁLEZ NÁJERA.
+
+SECRETARIO.
+
+DIP. IGNACIO SANDOVAL ALARCÓN.
+
+SECRETARIO.
+
+RÚBRICAS.
+
+Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintisiete días del mes de junio de dos mil cinco.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ
+
+SECRETARIO DE GOBIERNO
+
+JESÚS GILES SÁNCHEZ.
+
+SECRETARIO DE SALUD
+
+DR. ANTONIO CAMPOS RENDÓN
+
+RÚBRICAS.
