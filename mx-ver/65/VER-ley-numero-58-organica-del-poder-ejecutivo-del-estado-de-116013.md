@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2004-09-03"
+last_updated: "2005-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 3 DE SEPTIEMBRE DE 2004 NO APLICA AL CONTENIDO DEL ARTICULADO DEL DECRETO 848 PUBLICADO EN LA G.O. DE 2 DE JULIO DE 2004.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JUNIO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -157,11 +155,9 @@ III. Secretaría de Finanzas y Planeación
 
 IV. Secretaría de Educación y Cultura
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2005)</small>
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
-
-V. Secretaría de Trabajo y Previsión Social
+V. Secretaría de Trabajo, Previsión Social y Productividad;
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -741,67 +737,145 @@ XXXIV. Promover la participación social para el fortalecimiento y desarrollo de
 
 XXXV. Promover los servicios de formación, actualización, capacitación y superación profesional para los maestros del Sistema Educativo Estatal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL SUBTÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JUNIO DE 2005)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE MAYO DE 2002)</small>
+De la Secretaría de Trabajo, Previsión Social y Productividad.
 
-De la Secretaría de Trabajo y Previsión Social
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 22 Bis.
 
-La Secretaría de Trabajo y Previsión Social es la dependencia responsable de conducir y coordinar la política laboral en el estado, y tendrá la competencia que en la materia le otorguen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+La Secretaría de Trabajo, Previsión Social y Productividad es la dependencia responsable de conducir y coordinar la política laboral en el estado, y tendrá la competencia que en la materia le otorguen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 22 Ter.
 
-Son atribuciones del secretario de Trabajo y Previsión Social, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Trabajo, Previsión Social y Productividad, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 I. Vigilar, en el ámbito estatal, la exacta aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los reglamentos estatales vigentes en materia laboral, así como las relaciones del Gobierno del Estado con sus trabajadores;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 II. Formular y ejecutar el Programa Estatal de Empleo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 III. Promover y procurar el equilibrio de los factores de la producción, de conformidad con las disposiciones legales aplicables;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 IV. Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y la demanda de trabajo en la Entidad;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 V. Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con la autoridad federal del trabajo y con la participación de los sectores patronal, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 VI. Vigilar, mediante visitas e inspecciones, que los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 VII. Presidir la Junta Local de Conciliación y Arbitraje y las Juntas Especiales de la misma, cuando se trate de conflictos colectivos;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 VIII. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 IX. Ejecutar los convenios y acuerdos que en materia de Trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la dependencia federal correspondiente en la solución de los conflictos suscitados con motivo de Contratos-Ley de empresas asentadas en la Entidad;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 X. Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 XI. Promover programas en materia de Previsión Social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 XII. Estudiar y proponer al Ejecutivo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del Estado y la mejoría de quienes laboran en ella;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 XIII. Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 XIV. Aportar a las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 XV. Participar en la integración y funcionamiento de los organismos estatales encargados de la Capacitación y Adiestramiento y de la Seguridad e Higiene en el Trabajo;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 XVI. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 XVII. Mediar y conciliar, a petición de parte o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a la Ley Federal del Trabajo o a los contratos colectivos de trabajo;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 XVIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 XIX. Promover y apoyar el incremento de la calidad y la productividad.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
 XX. Fomentar y apoyar la organización social para el trabajo y el autoempleo; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
 
 XXI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
 
@@ -1471,7 +1545,7 @@ IV. Cumplir con los demás requerimientos que, de común acuerdo con el fideicom
 
 Los fideicomisos deberán proporcionar a la Secretaría de Finanzas y Planeación y a la Contraloría General, la información y datos que se les soliciten, así como la que les requiera su coordinadora de sector.
 
-Para el cumplimiento de lo anteriormente establecido, la Secretaría de Fianzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la Secretaría de Finanzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
 
 ### CAPÍTULO IV. DE LA TRANSMISIÓN Y CONTINUIDAD DE LOS ASUNTOS DE LA ADMINISTRACIÓN PÚBLICA
 
@@ -1654,3 +1728,11 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
 
 CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
+
+G.O. 29 DE JUNIO DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 245 QUE REFORMA EL ARTÍCULO 9 FRACCIÓN V, EL APARTADO UBICADO ENTRE LOS ARTÍCULOS 22 Y 22 BIS, QUE SE DENOMINARÁ DE LA SECRETARÍA DEL TRABAJO, PREVISIÓN SOCIAL Y PRODUCTIVIDAD, LOS ARTÍCULOS 22 BIS Y EL PRIMER PÁRRAFO DEL 22 TER, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
