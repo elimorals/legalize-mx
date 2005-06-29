@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-15940"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-19"
-last_updated: "2004-01-14"
+last_updated: "2005-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2004.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD DEL ESTADO DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el 19 de enero de 2000.
 
@@ -3138,3 +3140,25 @@ P.O. 14 DE ENERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para su publicación y efectos legales respectivos.
+
+P.O. 29 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Salud del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4027 del 19 de enero de 2000, así como todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular del Ejecutivo del Estado para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos cuentan con seis meses naturales para reubicar los establecimientos autorizados para la prestación de sexo servicio que estuvieren a menos de 500 metros perimetrales de instituciones educativas, religiosas o de beneficio social.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos cuentas (sic) con un año natural para reubicar los establecimientos dedicados a lo referente en el Capítulo XXI del Título Décimo quinto de la salubridad local de esta misma Ley.
