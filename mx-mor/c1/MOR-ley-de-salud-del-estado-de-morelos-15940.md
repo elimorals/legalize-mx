@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-15940"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-19"
-last_updated: "2004-01-14"
+last_updated: "2005-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2004.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD DEL ESTADO DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE JUNIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el 19 de enero de 2000.
 
@@ -3139,40 +3141,24 @@ PRIMERO.- El presente Decreto entrará en vigor al momento de su publicación en
 
 SEGUNDO.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para su publicación y efectos legales respectivos.
 
+P.O. 29 DE JUNIO DE 2005.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+Se abroga la Ley de Salud del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4027 del 19 de enero de 2000, así como todas las disposiciones que se opongan a la presente Ley.
 
 ###### ARTÍCULO TERCERO.
 
-Una vez instalada la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, sus integrantes contarán con 60 días naturales para la aprobación de los Lineamientos para la vigilancia y evaluación de las políticas y programas sociales.
-
-Dichos lineamientos tomaran en cuenta lo siguiente:
-
-La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales contará con los siguientes objetivos:
-
-I. Colaborar con el Gobierno del Distrito Federal en la implementación y evaluación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
-
-II. Vigilar la legalidad en cuanto al diseño e implementación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
-
-III. Llevar a cabo la evaluación y seguimiento de los planes, programas, metas y acciones que en materia de políticas y programas sociales se lleve a cabo en el Distrito Federal, y
-
-IV. Proponer las acciones correctivas que se consideren necesarias en la implementación de los planes, programas, metas y acciones en materia de políticas y programas sociales.
-
-La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales asegurará, por sí o a través de instituciones de educación superior e investigación científica u organizaciones de la sociedad civil, la vigilancia permanente y la revisión periódica, técnica y profesional del cumplimiento de objetivos, metas y acciones de las políticas de desarrollo social implementadas en el Distrito Federal.
-
-La evaluación que ordene o practique la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales se centrará en la consistencia y el resultado de los programas de desarrollo sociales. Para tales efectos, generará indicadores de resultados, gestión y servicios que garanticen una medición técnica de la cobertura, operación, viabilidad, calidad e impacto social.
+Remítase al Titular del Ejecutivo del Estado para los efectos constitucionales correspondientes.
 
 ###### ARTÍCULO CUARTO.
 
-Todos los asuntos que se encuentren en archivo pendientes de desahogar por la que fue la Comisión Especial que investiga la utilización de Programas Sociales o Recursos Públicos con fines Político Electorales, serán turnados a la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales.
+Los Ayuntamientos cuentan con seis meses naturales para reubicar los establecimientos autorizados para la prestación de sexo servicio que estuvieren a menos de 500 metros perimetrales de instituciones educativas, religiosas o de beneficio social.
 
 ###### ARTÍCULO QUINTO.
 
-En el caso de las reformas relativas a la conformación del Programa Operativo Anual, operarán a partir del ejercicio fiscal 2009.
-
-G.O. 31 DE DICIEMBRE DE 2008.
+Los Ayuntamientos cuentas (sic) con un año natural para reubicar los establecimientos dedicados a lo referente en el Capítulo XXI del Título Décimo quinto de la salubridad local de esta misma Ley.
