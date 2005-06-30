@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2004-04-29"
+last_updated: "2005-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 29 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -8867,9 +8867,15 @@ Se prohibe a los notarios y a cualesquiera otras personas que hayan de redactar 
 
 El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2005)</small>
+
+En los casos en que se otorgue un testamento, el notario que dé fe de su otorgamiento o la autoridad que lo reciba, o ambos si fuere el caso, deberán formular aviso de dicho otorgamiento en cuanto lo conozcan a la autoridad registral correspondiente en los términos señalados en la legislación aplicable.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2005)</small>
+
 ###### Art. 1585.
 
-Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
+Lo dispuesto en el párrafo primero del artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
 
 ###### Art. 1586.
 
@@ -9169,9 +9175,11 @@ Sólo cuando el original depositado haya sido destruido o robado, se tendrá com
 
 El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaturas (sic), aun cuando el contenido del testamento no sea vicioso.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2005)</small>
+
 ###### Art. 1640.
 
-El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+El encargado del Registro Público de la Propiedad no proporcionará informes acerca de testamentos depositados en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan o, en los términos de la Ley Catastral y Registral del Estado de Sonora, al Registro Nacional de Avisos de Testamento.
 
 ### CAPITULO VI.
 
@@ -18868,3 +18876,17 @@ B.O. 29 DE ABRIL DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decreto deberá realizarse, por quien esté obligado a ello, la inscripción en el Registro Nacional de Avisos de Testamento de aquellos instrumentos respecto de los cuales no conste el aviso respectivo en dicho registro.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
