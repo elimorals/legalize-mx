@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "1993-06-03"
+last_updated: "2005-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -551,6 +551,14 @@ Las controversias y los actos contenciosos que se presentaren en relación a est
 
 Jubilación es la relevación de la obligación del servidor público de seguir desempeñando su empleo en razón de su edad, de su tiempo de servicios o por la imposibilidad física o mental, con derecho a percibir en calidad de pensión el total o parte de su último sueldo. El Instituto está obligado a pagar las pensiones por jubilación y de otra índole que se consignen en la presente Ley.
 
+> <small>(ADICIONADO, P.O.30 DE JUNIO DE 2005)</small>
+
+Los servicios a que se refiere el presente capítulo relacionados con la materia de jubilaciones y pensiones podrán ser subrogados mediante convenio que celebre el Gobierno del Estado de Campeche o el Instituto con otras instituciones públicas o privadas. Cuando exista convenio de subrogación, el Instituto entregará al subrogatario las aportaciones correspondientes a estos servicios; en consecuencia, tanto el Gobierno del Estado como el Instituto quedarán relevados de la responsabilidad del pago de pensiones y jubilaciones, con excepción de lo establecido en el siguiente párrafo.
+
+> <small>(ADICIONADO, P.O.30 DE JUNIO DE 2005)</small>
+
+En el caso de que el Gobierno del Estado o el Instituto hayan subrogado estos servicios específicamente con el Instituto Mexicano del Seguro Social, se estará a lo que disponga la ley que rija a ese organismo, como al convenio que se firme, para los efectos de los requisitos para la operación de las pensiones y jubilaciones. Asimismo, en el caso de que la jubilación o pensión que el Instituto Mexicano del Seguro Social como entidad subrogataria otorgue a los pensionados o jubilados del Estado no alcance a cubrir los montos y porcentajes que éstos tengan derecho a recibir conforme a esta Ley, debido al sistema de cotizaciones de ese Organismo Público Federal, el Instituto completará la cantidad que se requiera hasta cubrir los montos y porcentajes que conforme a esta Ley, tengan derecho a percibir las personas que se pensionen o jubilen, de conformidad con los años de servicio y tiempo de aportaciones. En este supuesto, el Gobierno del Estado y el Instituto no tendrán la obligación de otorgar pensión o jubilación al trabajador, excepto la parte complementaria que ha quedado señalada.
+
 ###### ARTICULO 59.
 
 La jubilación o pensión se tramitará a solicitud escrita del interesado, o por acuerdo expreso del Consejo Directivo del Instituto, y se resolverá dentro de los 30 días hábiles siguientes de iniciado el expediente. Sólo por acuerdo del mismo Consejo se podrá ampliar este plazo en los casos en que el interesado no haya satisfecho los requisitos legales a que está obligado para obtener su jubilación o pensión.
@@ -965,9 +973,9 @@ Las personas que en el momento de entrar en vigor esta Ley estén disfrutando de
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2005)</small>
 
-###### Artículo 5°Bis.
+###### Artículo 5o. Bis.
 
-Lo establecido en los dos párrafos que se adicionan al artículo 58, sólo será aplicable a las personas de nuevo ingreso al servicio del Gobierno del Estado de Campeche, de sus municipios y de los organismos públicos descentralizados de carácter estatal, con excepción de aquellos trabajadores que hayan causado alta en el servicio antes de la entrada en vigor de este decreto, los qu serán sujetos del anterior régimen de jubilaciones y pensiones, del mismo modo las personas que ya se encuentren disfrutando de sus pensiones o jubilaciones, continuarán con éstas, en los términos y condiciones como se les ha estado otorgando hasta antes de la entrada en vigor del presente decreto.
+Lo establecido en los dos párrafos que se adicionan al artículo 58, sólo será aplicable a las personas de nuevo ingreso al servicio del Gobierno del Estado de Campeche, de sus municipios y de los organismos públicos descentralizados de carácter estatal, con excepción de aquellos trabajadores que hayan causado alta en el servicio antes de la entrada en vigor de este decreto, los que serán sujetos del anterior régimen de jubilaciones y pensiones, del mismo modo las personas que ya se encuentren disfrutando de sus pensiones o jubilaciones, continuarán con éstas, en los términos y condiciones como se les ha estado otorgando hasta antes de la entrada en vigor del presente decreto.
 
 ###### ARTICULO 6o.
 
@@ -1000,3 +1008,9 @@ Unico.- El presente decreto entrará en vigor el día 1º de agosto del presente
 P.O. 3 DE JUNIO DE 1993.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2005.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
