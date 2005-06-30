@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2005-03-17"
+last_updated: "2005-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2005.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -1063,6 +1063,34 @@ VIII. Resguardar y custodiar las obras artísticas propiedad del Congreso;
 
 IX. Coordinar las tareas editoriales del Poder Legislativo; y
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2005)</small>
+
+X. Crear y mantener actualizado un Programa de Sistema de Información de Procesos (SIP) que permita el establecer una base de datos para el control y seguimiento de la estadística y archivo de los decretos aprobados por el pleno del Congreso del Estado, para que pueda ser útil a la labor parlamentaria.
+
+El programa deberá contener mínimo 3 vértices:
+
+En cuanto a Decreto:
+
+1. Por número de Decreto.
+
+2. Por nominación de Modificaciones, Adiciones o Derogaciones.
+
+3. Por descripción general del contenido.
+
+En cuanto a iniciativas:
+
+1. Por descripción general del contenido.
+
+2. Por la Propuesta de reformas.
+
+3. Por materia y turnos a comisiones.
+
+Deberá actualizar el archivo de las iniciativas pendientes.
+
+Tanto en el procedimiento de alimentación del sistema, como el de consulta, deberá de realizarse de conformidad al manual que para tal efecto realice la Dirección de Biblioteca, Archivo y Editorial.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2005)</small>
+
 X. Las demás que le sean designadas por el Secretario General.
 
 ###### Artículo 113.
@@ -2024,3 +2052,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 17 DE MARZO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE JUNIO DE 2005.
+
+PRIMERO. La Dirección de Biblioteca, Archivo y Editorial del Congreso del Estado de Jalisco, elaborará y presentará al Pleno del Congreso, el manual para alimentar y consultar el Sistema de Información de Publicaciones en un plazo no mayor de 30 días hábiles a partir de la entrada en vigor del presente decreto.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
