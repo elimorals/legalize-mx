@@ -4,7 +4,7 @@ identifier: "SON-ley-del-notariado-para-el-estado-de-sonora-8382"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-04"
-last_updated: "1996-01-04"
+last_updated: "2005-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el jueves 4 de enero de 1996.
 
@@ -523,13 +523,51 @@ III.- La escritura de lotificación, fusión, subdivisión o constitución del r
 
 IV.- A los testimonios de las escrituras autorizadas de conformidad con este artículo, el notario anexará una copia, en lo conducente, del instrumento de certificación de antecedentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2005)</small>
+
 ###### ARTICULO 46.
 
-Siempre que se otorgue un testamento público, abierto, cerrado o simplificado, el notario ante quien se otorgó, dará aviso a la Dirección, dentro de los cinco días hábiles siguientes, expresando el número de escritura, volumen, hora y fecha del otorgamiento, nombre del testador, lugar y fecha de su nacimiento, estado civil, nacionalidad, ocupación y su domicilio; asimismo deberá manifestar, en su caso, si mediante el testamento se cancela o revoca otra disposición testamentaria otorgada con anterioridad.
+Siempre que se otorgue un testamento público, abierto, cerrado o simplificado, el notario ante quien se celebre dicho acto jurídico dará aviso por escrito a la Dirección dentro de los cinco días hábiles siguientes y esta Dirección, a su vez, ingresará el aviso preferentemente por vía electrónica a la base de datos del Registro Nacional de Avisos de Testamento, dentro de los quince días hábiles siguientes a aquél en que lo reciba, expresando en dichos avisos:
+
+I.- Nombre completo del testador;
+
+II.- Nacionalidad;
+
+III.- Ocupación y domicilio;
+
+IV.- Lugar y fecha de nacimiento;
+
+V.- Clave única de registro poblacional;
+
+VI.- Estado civil, régimen matrimonial y nombre completo del cónyuge, en su caso;
+
+VII.- Nombre completo de los padres;
+
+VIII.- Tipo de testamento;
+
+IX.- Número de escritura;
+
+X.- Tipo de notario;
+
+XI.- Volumen o tomo;
+
+XII.- Lugar, hora y fecha del otorgamiento de la escritura;
+
+XIII.- Si se establecieron disposiciones de contenido irrevocable;
+
+XIV.- Nombre completo del notario;
+
+XV.- Número de notaría;
+
+XVI.- Municipio y demarcación notarial; y
+
+XVII.- Si mediante el testamento se cancela o revoca otra disposición testamentaria otorgada con anterioridad.
 
 Si el testamento fuere cerrado indicará además la persona en cuyo poder se depositó o el lugar en que se haya hecho el depósito.
 
-En todos los casos, el notario al dar el aviso, deberá anexar, en sobre cerrado, el duplicado a que se refiere el artículo 74 de esta ley.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2005)</small>
+
+En todos los casos, el notario, al dar el aviso a la Dirección, deberá anexar, en sobre cerrado, el duplicado a que se refiere el artículo 74 de esta ley.
 
 La Dirección llevará un registro especialmente destinado a asentar las inscripciones relativas a la existencia de testamentos, con los datos que se mencionan en este artículo.
 
@@ -1408,3 +1446,19 @@ Para los efectos de lo dispuesto en el artículo 15 primer párrafo de esta Ley,
 Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 22 de Diciembre de 1995.- DIPUTADO PRESIDENTE.- ING. JULIO CESAR RODRIGUEZ PEREZ.- RUBRICA.- DIPUTADO SECRETARIO.- LIC. RAMON ANTONIO FERNANDEZ PALAFOX.- RUBRICA.- DIPUTADO SECRETARIO.- C. LEOBARDO JORGE GONZALEZ CEJUDO.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO, Hermosillo, Sonora, a veintisiete de diciembre de mil novecientos noventa y cinco.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decreto deberá realizarse, por quien esté obligado a ello, la inscripción en el Registro Nacional de Avisos de Testamento de aquellos instrumentos respecto de los cuales no conste el aviso respectivo en dicho registro.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
