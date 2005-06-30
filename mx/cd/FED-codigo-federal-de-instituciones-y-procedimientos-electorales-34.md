@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "2003-12-31"
+last_updated: "2005-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2005.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -45,7 +45,9 @@ Se aprueba el Código Federal de Instituciones y Procedimientos Electorales en l
 
 ARTICULO 1
 
-1. Las disposiciones de este Código son de orden público y de observancia general en los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2005)</small>
+
+1. Las disposiciones de este Código son de orden público y de observancia general en el territorio nacional y para los ciudadanos mexicanos que ejerzan su derecho al sufragio en territorio extranjero en la elección para Presidente de los Estados Unidos Mexicanos.
 
 2. Este Código reglamenta las normas constitucionales relativas a:
 
@@ -233,9 +235,11 @@ ARTICULO 8
 
 ### CAPITULO PRIMERO. De los sistemas electorales
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2005)</small>
+
 ARTICULO 9
 
-1. El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Presidente de los Estados Unidos Mexicanos electo cada seis años por mayoría relativa y voto directo en toda la República.
+1. El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Presidente de los Estados Unidos Mexicanos electo cada seis años por mayoría relativa y voto directo de los ciudadanos mexicanos.
 
 ARTICULO 10
 
@@ -5191,9 +5195,15 @@ a) Se harán las operaciones señaladas en los incisos a) al d) del artículo 24
 
 b) Acto seguido, se procederá a extraer los expedientes de las casillas especiales relativos a la elección de Presidente y se realizarán las operaciones referidas en el inciso anterior;
 
-c) El cómputo distrital de la elección de Presidente de los Estados Unidos Mexicanos, será el resultado de sumar las cifras obtenidas según los dos incisos anteriores, y se asentará en el acta correspondiente a esta elección; y
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-d) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren durante la misma.
+c) Se sumarán los resultados obtenidos según los dos incisos anteriores;
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
+
+d) El cómputo distrital de la elección de Presidente de los Estados Unidos Mexicanos, será el resultado de sumar a los resultados obtenidos según el inciso anterior, los consignados en el acta distrital de cómputo de los votos emitidos en el extranjero, a que se refieren los Artículos 294 y 295 de este Código. El resultado así obtenido se asentará en el acta correspondiente a esta elección, y
+
+e) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren durante la misma.
 
 ARTICULO 251
 
@@ -5507,389 +5517,329 @@ ARTICULO 272
 
 2. Las multas que no hubiesen sido recurridas, o bien, que fuesen confirmadas por la autoridad competente, deberán ser pagadas en la Dirección Ejecutiva de Administración del Instituto en un plazo improrrogable de quince días contados a partir de la notificación. Transcurrido el plazo sin que el pago se hubiere efectuado, el Instituto podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda. De no resultar posible lo anterior, el Instituto Federal Electoral notificará a la Tesorería de la Federación para que se proceda a su cobro en términos de la normatividad aplicable.
 
-> <small>(DEROGADO CON LOS TITULOS Y CAPITULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON EL TITULO Y LOS ARTICULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2005)</small>
 
-# LIBRO SEXTO. Del Tribunal Federal Electoral
+# LIBRO SEXTO. DEL VOTO DE LOS MEXICANOS RESIDENTES EN EL EXTRANJERO
 
-> <small>(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-## TITULO PRIMERO. Disposiciones Preliminares
+## TÍTULO ÚNICO
 
-> <small>N. DE E. LOS ARTICULOS QUE CONFORMABAN EL TITULO PRIMERO DEL LIBRO SEXTO QUE COMPRENDIAN DEL 264 AL 272 PASAN A FORMAR PARTE DEL ADICIONADO TITULO QUINTO, CAPITULO UNICO DEL LIBRO QUINTO; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON LOS CAPITULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 273
 
-## TITULO SEGUNDO. Del Pleno, de las Salas y de los Magistrados del Tribunal
+1. Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto exclusivamente para la elección de Presidente de los Estados Unidos Mexicanos.
 
-> <small>(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-### CAPITULO PRIMERO. Del Pleno del Tribunal
+ARTICULO 274
 
-> <small>(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+1. Para el ejercicio del voto los ciudadanos que residan en el extranjero, además de los que fija el Artículo 34 de la Constitución y los señalados en el párrafo 1 del Artículo 6 de este Código, deberán cumplir los siguientes requisitos:
 
-### CAPITULO SEGUNDO. De la Sala Central
+I. Solicitar a la Dirección Ejecutiva del Registro Federal de Electores, por escrito, con firma autógrafa o, en su caso, huella digital, en el formato aprobado por el Consejo General, su inscripción en el listado nominal de electores residentes en el extranjero;
 
-> <small>(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+II. Manifestar, bajo su más estricta responsabilidad y bajo protesta de decir verdad, el domicilio en el extranjero al que se le hará llegar, en su caso, la boleta electoral, y
 
-### CAPITULO TERCERO. De las Salas Regionales
+III. Los demás establecidos en el presente Libro.
 
-> <small>(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-### CAPITULO CUARTO. De la Sala de Segunda Instancia
+ARTICULO 275
 
-> <small>(DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+1. Los ciudadanos mexicanos que cumplan los requisitos señalados enviarán la solicitud a que se refiere el inciso I del párrafo 1 del Artículo anterior entre el 1o. de octubre del año previo, y hasta el 15 de enero del año de la elección presidencial.
 
-### CAPITULO QUINTO. De los Magistrados
+2. La solicitud será enviada a la Dirección Ejecutiva del Registro Federal de Electores, por correo certificado, acompañada de los siguientes documentos:
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+a) Fotocopia legible del anverso y reverso de su credencial para votar con fotografía; el elector deberá firmar la fotocopia o, en su caso, colocar su huella digital, y
 
-## TITULO TERCERO. De su Funcionamiento
+b) Documento en el que conste el domicilio que manifiesta tener en el extranjero.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+3. Para efectos de verificación del cumplimiento del plazo de envío señalado en el párrafo 1 de este Artículo, se tomará como elemento de prueba la fecha de expedición de la solicitud de inscripción que el servicio postal de que se trate estampe en el sobre de envío.
 
-### CAPITULO PRIMERO. Del Presidente del Tribunal
+4. A ninguna solicitud enviada por el ciudadano después del 15 de enero del año de la elección, o que sea recibida por el Instituto después del 15 de febrero del mismo año, se le dará trámite. En estos casos, la Dirección Ejecutiva del Registro Federal de Electores enviará al interesado, por correo certificado, aviso de no inscripción por extemporaneidad.
 
-ARTICULO 273 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+5. El ciudadano interesado podrá consultar al Instituto, por vía telefónica o electrónica, su inscripción.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-### CAPITULO SEGUNDO. De los Presidentes de Sala
+ARTICULO 276
 
-ARTICULO 274 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. La solicitud de inscripción en el listado nominal de electores tendrá efectos legales de notificación al Instituto de la decisión del ciudadano de votar en el extranjero en la elección para Presidente de los Estados Unidos Mexicanos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+Para tal efecto el respectivo formato contendrá la siguiente leyenda: “Manifiesto, bajo protesta de decir verdad, que por residir en el extranjero:
 
-### CAPITULO TERCERO. De los jueces instructores
+a) Expreso mi decisión de votar en el país en que resido y no en territorio mexicano;
 
-ARTICULO 275 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+b) Solicito votar por correo en la próxima elección para Presidente de los Estados Unidos Mexicanos;
 
-ARTICULO 276 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+c) Autorizo al Instituto Federal Electoral, verificado el cumplimiento de los requisitos legales, para ser inscrito en la lista nominal de electores residentes en el extranjero, y darme de baja, temporalmente, de la lista correspondiente a la sección electoral que aparece en mi credencial para votar;
 
-ARTICULO 277 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+d) Solicito que me sea enviada a mi domicilio en el extranjero la boleta electoral, y
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+e) Autorizo al Instituto Federal Electoral para que, concluido el proceso electoral, me reinscriba en la lista nominal de electores correspondiente a la sección electoral que aparece en mi credencial para votar”.
 
-### CAPITULO CUARTO. Del Secretario General del Tribunal y de los secretarios generales de acuerdos de las Salas
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 278 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 277
 
-ARTICULO 279 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Las listas nominales de electores residentes en el extranjero son las relaciones elaboradas por la Dirección Ejecutiva del Registro Federal de Electores que contienen el nombre de las personas incluidas en el Padrón Electoral que cuentan con su credencial para votar, que residen en el extranjero y que solicitan su inscripción en dichas listas.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+2. Las listas nominales de electores residentes en el extranjero serán de carácter temporal y se utilizarán, exclusivamente, para los fines establecidos en este Libro.
 
-### CAPITULO QUINTO. Del Secretario Administrativo y de las Coordinaciones del Tribunal
+3. Las listas nominales de electores residentes en el extranjero no tendrán impresa la fotografía de los ciudadanos en ellas incluidos.
 
-ARTICULO 280 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. El Consejo General podrá ordenar medidas de verificación adicionales a las previstas en el presente Libro a fin de garantizar la veracidad de las listas nominales de electores residentes en el extranjero.
 
-ARTICULO 281 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+5. Serán aplicables, en lo conducente, las normas contenidas en el Título Primero del Libro Cuarto de este Código.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-### CAPITULO SEXTO. Del Centro de Capacitación Judicial Electoral
+ARTICULO 278
 
-ARTICULO 282 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. A partir del 1 de octubre del año previo al de la elección presidencial y hasta el 15 de enero del año de la elección, la Dirección Ejecutiva del Registro Federal de Electores pondrá a disposición de los interesados el formato de solicitud de inscripción en la lista nominal de electores residentes en el extranjero, en los sitios, en territorio nacional y en el extranjero, que acuerde la Junta General Ejecutiva, y a través de la página electrónica del Instituto.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+2. Las sedes diplomáticas de México en el extranjero contarán con los formatos a que se refiere el párrafo anterior para que estén a disposición de los ciudadanos mexicanos. El Instituto celebrará con la Secretaría de Relaciones Exteriores los acuerdos correspondientes.
 
-### CAPITULO SEPTIMO. De los secretarios y del personal auxiliar y administrativo
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 283 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 279
 
-ARTICULO 284 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Las solicitudes de inscripción en la lista nominal de electores en el extranjero serán atendidas en el orden cronológico de su recepción, debiéndose llevar un registro de la fecha de las mismas.
 
-ARTICULO 285 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Una vez verificado el cumplimiento de los requisitos, la Dirección Ejecutiva del Registro Federal de Electores procederá a la inscripción del solicitante en la lista nominal de electores residentes en el extranjero, dándolo de baja, temporalmente, de la lista nominal de electores correspondiente a la sección del domicilio asentado en su credencial para votar.
 
-> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+3. La Dirección Ejecutiva del Registro Federal de Electores conservará los documentos enviados y el sobre que los contiene hasta la conclusión del proceso electoral.
 
-# LIBRO SEPTIMO. De las nulidades; del sistema de medios de impugnación y de las faltas y sanciones administrativas
+4. Concluido el proceso electoral, cesará la vigencia de las listas nominales de electores residentes en el extranjero. La Dirección Ejecutiva del Registro Federal de Electores procederá a reinscribir a los ciudadanos en ellas registrados, en la lista nominal de electores de la sección electoral que les corresponda por su domicilio en México.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+5. Para fines de estadística y archivo, el Instituto conservará copia, en medios digitales, por un periodo de siete años, de las listas nominales de electores residentes en el extranjero.
 
-## TITULO PRIMERO. De las nulidades
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 280
 
-### CAPITULO PRIMERO. De los casos de nulidad
+1. Concluido el plazo para la recepción de solicitudes de inscripción, la Dirección Ejecutiva del Registro Federal de Electores procederá a elaborar las listas nominales de electores residentes en el extranjero.
 
-ARTICULO 286 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Las listas se elaborarán en dos modalidades:
 
-ARTICULO 287 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+a. Conforme al criterio de domicilio en el extranjero de los ciudadanos, ordenados alfabéticamente. Estas listas serán utilizadas exclusivamente para efectos del envío de las boletas electorales a los ciudadanos inscritos.
 
-ARTICULO 288 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+b. Conforme al criterio de domicilio en México de los ciudadanos, por entidad federativa y distrito electoral, ordenados alfabéticamente. Estas listas serán utilizadas por el Instituto para efectos del escrutinio y cómputo de la votación.
 
-ARTICULO 289 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. En todo caso, el personal del Instituto y los partidos políticos están obligados a salvaguardar la confidencialidad de los datos personales contenidos en las listas nominales de electores residentes en el extranjero. La Junta General Ejecutiva dictará los acuerdos e instrumentará las medidas necesarias para tal efecto.
 
-ARTICULO 290 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. La Junta General Ejecutiva presentará al Consejo General un informe del número de electores en el extranjero, agrupados por país, estado o equivalente, y municipio o equivalente.
 
-ARTICULO 291 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 281
 
-### CAPITULO SEGUNDO. De los efectos de la declaración de nulidad
+1. Los partidos políticos, a través de sus representantes en la Comisión Nacional de Vigilancia, tendrán derecho a verificar las listas nominales de electores residentes en el extranjero, a que se refiere el inciso b del numeral 2 del Artículo anterior, a través de los medios electrónicos con que cuente la Dirección Ejecutiva del Registro Federal de Electores.
 
-ARTICULO 292 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Las listas nominales de electores residentes en el extranjero no serán exhibidas fuera del territorio nacional.
 
-ARTICULO 293 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 282
 
-## TITULO SEGUNDO. Del sistema de medios de impugnación
+1. A más tardar el 15 de marzo del año de la elección presidencial, la Dirección Ejecutiva del Registro Federal de Electores pondrá a disposición de los partidos políticos las listas nominales de electores residentes en el extranjero.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+2. Los partidos políticos podrán formular observaciones a dichas listas, señalando hechos y casos concretos e individualizados, hasta el 31 de marzo, inclusive.
 
-### CAPITULO PRIMERO. Disposiciones Preliminares
+3. De las observaciones realizadas por los partidos políticos se harán las modificaciones a que hubiere lugar y se informará al Consejo General y a la Comisión Nacional de Vigilancia a más tardar el 15 de mayo.
 
-ARTICULO 294 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. Los partidos políticos podrán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior. La impugnación se sujetará a lo establecido en el párrafo 5 del Artículo 158 de este Código y en la ley de la materia.
 
-ARTICULO 295 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+5. Si no se impugna el informe o, en su caso, una vez que el Tribunal haya resuelto las impugnaciones, el Consejo General del Instituto sesionará para declarar que los listados nominales de electores residentes en el extranjero son válidos.
 
-ARTICULO 296 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 297 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 283
 
-ARTICULO 298 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. La Junta General Ejecutiva deberá ordenar la impresión de las boletas electorales, de los sobres para su envío al Instituto, del instructivo para el elector y de los sobres en que el material electoral antes descrito será enviado, por correo certificado o mensajería, al ciudadano residente en el extranjero.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+2. Para los efectos del párrafo anterior a más tardar el 31 de enero del año de la elección, el Consejo General del Instituto aprobará el formato de boleta electoral para la elección de Presidente de los Estados Unidos Mexicanos que será utilizada por los ciudadanos residentes en el extranjero, el instructivo para su uso, así como los formatos de las actas para escrutinio y cómputo y los demás documentos y materiales.
 
-### CAPITULO SEGUNDO. De la competencia, de la legitimación y de la personería
+3. Serán aplicables, en lo conducente, respecto a la boleta electoral, las disposiciones del Artículo 205 de este Código. La boleta electoral que será utilizada en el extranjero contendrá la leyenda “Mexicano residente en el extranjero”.
 
-ARTICULO 299 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. El número de boletas electorales que serán impresas para el voto en el extranjero será igual al número de electores inscritos en las listas nominales correspondientes. El Consejo General determinará un número adicional de boletas electorales. Las boletas adicionales no utilizadas serán destruidas, antes del día de la jornada electoral, en presencia de representantes de los partidos políticos.
 
-ARTICULO 300 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 301 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 284
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+1. La documentación y el material electoral a que se refiere el Artículo anterior estará a disposición de la Junta General Ejecutiva a más tardar el 15 de abril del año de la elección.
 
-### CAPITULO TERCERO. De los plazos y de los términos
+2. La Dirección Ejecutiva del Registro Federal de Electores pondrá a disposición de la Junta General Ejecutiva los sobres con el nombre y domicilio en el extranjero de cada uno de los ciudadanos inscritos en las listas nominales correspondientes, ordenados conforme a la modalidad establecida en el inciso a) del párrafo 2 del Artículo 280 de este Código.
 
-ARTICULO 302 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. La Junta General Ejecutiva realizará los actos necesarios para enviar, a cada ciudadano, por correo certificado con acuse de recibo, la boleta electoral, la documentación y demás material necesarios para el ejercicio del voto.
 
-ARTICULO 303 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. El envío de la documentación y material electoral antes señalados concluirá, a más tardar, el 20 de mayo del año de la elección.
 
-ARTICULO 304 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 285
 
-### CAPITULO CUARTO. De las notificaciones
+1. Recibida la boleta electoral el ciudadano deberá ejercer su derecho al voto, de manera libre, secreta y directa, marcando el recuadro que corresponda a su preferencia, en los términos del Artículo 218 de este Código.
 
-ARTICULO 305 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. El instructivo a que se refiere el párrafo 1 del Artículo 283 anterior, deberá incluir, al menos, el texto íntegro del Artículo 4 del presente Código.
 
-ARTICULO 306 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 307 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 286
 
-ARTICULO 308 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Una vez que el ciudadano haya votado, deberá doblar e introducir la boleta electoral en el sobre que le haya sido remitido, cerrándolo de forma que asegure el secreto del voto.
 
-ARTICULO 309 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. En el más breve plazo, el ciudadano deberá enviar el sobre que contiene la boleta electoral, por correo certificado, al Instituto Federal Electoral.
 
-ARTICULO 310 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. Para los efectos del párrafo anterior, los sobres para envío a México de la boleta electoral, tendrán impresa la clave de elector del ciudadano remitente, así como el domicilio del Instituto que determine la Junta General Ejecutiva.
 
-ARTICULO 311 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 287
 
-### CAPITULO QUINTO. De las partes
+1. La Junta General Ejecutiva dispondrá lo necesario para:
 
-ARTICULO 312 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+a) Recibir y registrar, señalando día, los sobres que contienen la boleta electoral, clasificándolos conforme a las listas nominales de electores que serán utilizadas para efectos del escrutinio y cómputo;
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+b) Colocar la leyenda “votó” al lado del nombre del elector en la lista nominal correspondiente; lo anterior podrá hacerse utilizando medios electrónicos, y
 
-### CAPITULO SEXTO. De la improcedencia y del sobreseimiento
+c) Resguardar los sobres recibidos y salvaguardar el secreto del voto.
 
-ARTICULO 313 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 314 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 288
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+1. Serán considerados votos emitidos en el extranjero los que se reciban por el Instituto hasta veinticuatro horas antes del inicio de la jornada electoral.
 
-### CAPITULO SEPTIMO. De la acumulación
+2. Respecto de los sobres recibidos después del plazo antes señalado, se elaborará una relación de sus remitentes y acto seguido, sin abrir el sobre que contiene la boleta electoral, se procederá, en presencia de los representantes de los partidos políticos, a su destrucción.
 
-ARTICULO 315 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. El día de la jornada electoral el Secretario Ejecutivo rendirá al Consejo General del Instituto un informe previo sobre el número de votos emitidos por ciudadanos residentes en el extranjero, clasificado por país de residencia de los electores, así como de los sobres recibidos fuera de plazo a que se refiere el párrafo anterior.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-### CAPITULO OCTAVO. Reglas de procedimiento para los recursos
+ARTICULO 289
 
-ARTICULO 316 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Con base en las listas nominales de electores residentes en el extranjero, conforme al criterio de su domicilio en territorio nacional, el Consejo General:
 
-ARTICULO 317 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+a) Determinará el número de mesas de escrutinio y cómputo que correspondan a cada distrito electoral uninominal. El número máximo de votos por mesa será de 1,500, y
 
-ARTICULO 318 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+b) Aprobará el método y los plazos para seleccionar y capacitar a los ciudadanos que actuarán como integrantes de las mesas de escrutinio y cómputo, aplicando en lo conducente lo establecido en el artículo 193 de este Código.
 
-ARTICULO 319 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Las mesas de escrutinio y cómputo de la votación de los electores residentes en el extranjero se integrarán con un presidente, un secretario y dos escrutadores; habrá dos suplentes por mesa.
 
-ARTICULO 320 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. Las mesas antes señaladas tendrán como sede el local único, en el Distrito Federal, que determine la Junta General Ejecutiva.
 
-ARTICULO 321 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. Los partidos políticos designarán dos representantes por cada mesa y un representante general por cada veinte mesas, así como un representante general para el cómputo distrital de la votación emitida en el extranjero.
 
-ARTICULO 322 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+5. En caso de ausencia de los funcionarios titulares y suplentes de las mesas, la Junta General Ejecutiva determinará el procedimiento para la designación del personal del Instituto que los supla.
 
-ARTICULO 323 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+6. La Junta General Ejecutiva adoptará las medidas necesarias para asegurar la integración y funcionamiento de las mesas de escrutinio y cómputo.
 
-ARTICULO 324 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 325 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 290
 
-ARTICULO 326 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Las mesas de escrutinio y cómputo se instalarán a las 17 horas del día de la jornada electoral. A las 18 horas, iniciará el escrutinio y cómputo de la votación emitida en el extranjero.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+2. El Consejo General podrá determinar el uso de medios electrónicos para el cómputo de los resultados y la elaboración de actas e informes relativos al voto de los electores residentes en el extranjero. En todo caso, los documentos así elaborados deberán contar con firma.
 
-### CAPITULO NOVENO. De las pruebas
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 327 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 291
 
-ARTICULO 328 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Para el escrutinio y cómputo de los votos emitidos en el extranjero para la elección de Presidente de los Estados Unidos Mexicanos, se estará a lo siguiente:
 
-ARTICULO 329 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+a) El presidente de la mesa verificará que cuenta con el listado nominal de electores residentes en el extranjero que le corresponde, y sumará los que en dicho listado tienen marcada la palabra “votó”.
 
-ARTICULO 330 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+b) Acto seguido, los escrutadores procederán a contar los sobres que contienen las boletas electorales y verificarán que el resultado sea igual a la suma de electores marcados con la palabra “votó” que señala el inciso anterior.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+c) Verificado lo anterior, el presidente de la mesa procederá a abrir el sobre y extraerá la boleta electoral, para, sin mayor trámite, depositarla en la urna; si abierto un sobre se constata que no contiene la boleta electoral, o contiene más de una boleta electoral, se considerará que el voto, o votos, son nulos y el hecho se consignará en el acta.
 
-### CAPITULO DECIMO. De las resoluciones
+d) Los sobres que contengan las boletas serán depositados en un recipiente por separado para su posterior destrucción.
 
-ARTICULO 331 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+e) Una vez terminado lo anterior, dará inicio el escrutinio y cómputo, aplicándose, en lo conducente, las reglas establecidas en los incisos c) al f) del párrafo 1 del Artículo 229 y 233 de este Código.
 
-ARTICULO 332 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+f) Para determinar la validez o nulidad del voto, será aplicable lo establecido en el Artículo 230 de este Código y en el inciso c) de este párrafo.
 
-ARTICULO 333 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 334 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 292
 
-ARTICULO 335 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Las actas de escrutinio y cómputo de cada mesa serán agrupadas conforme al distrito electoral que corresponda.
 
-###### ARTICULO 335
+2. El personal del Instituto designado previamente por la Junta General Ejecutiva, procederá, en presencia de los representantes generales de los partidos políticos, a realizar la suma de los resultados consignados en las actas de escrutinio y cómputo de las respectivas mesas para obtener el resultado de la votación emitida en el extranjero para la elección de Presidente de los Estados Unidos Mexicanos por distrito electoral uninominal, que será asentado en el acta de cómputo correspondiente a cada distrito electoral.
 
-A (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. Las actas de cómputo distrital serán firmadas por el funcionario responsable y por el representante general de cada partido político designado para el efecto.
 
-ARTICULO 336 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+4. Los actos señalados en los párrafos anteriores de este Artículo serán realizados en presencia de los representantes generales de los partidos políticos para el cómputo distrital de la votación emitida en el extranjero.
 
-ARTICULO 337 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+ARTICULO 293
 
-CAPITULO DECIMOPRIMERO
+1. Concluido en su totalidad el escrutinio y cómputo de los votos emitidos en el extranjero, y después de que el presidente del Consejo General haya dado a conocer los resultados de los estudios a que se refiere el inciso k) del párrafo 1 del Artículo 83 de este Código, el Secretario Ejecutivo informará al Consejo General los resultados, por partido, de la votación emitida en el extranjero para Presidente de los Estados Unidos Mexicanos.
 
-De los Procedimientos Especiales
+2. El Secretario Ejecutivo hará entrega a los integrantes del Consejo General del informe que contenga los resultados, por distrito electoral uninominal, de la votación recibida del extranjero y ordenará su inclusión, por distrito electoral y mesa de escrutinio y cómputo, en el sistema de resultados electorales preliminares.
 
-###### ARTICULO 337
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-A (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 294
 
-###### ARTICULO 337
+1. La Junta General Ejecutiva, por los medios que resulten idóneos, antes del miércoles siguiente al día de la jornada electoral, entregará, a cada uno de los Consejos Distritales, copia del acta de cómputo distrital a que se refiere el Artículo 292 de este Libro.
 
-B (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Los partidos políticos recibirán copia legible de todas las actas.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+3. Las boletas electorales, los originales de las actas de escrutinio y cómputo de las mesas y del cómputo por distrito electoral uninominal, así como el informe circunstanciado que elabore la Junta General Ejecutiva, respecto de la votación emitida en el extranjero para la elección de Presidente de los Estados Unidos Mexicanos, serán integrados en un paquete electoral que será remitido, antes del domingo siguiente al de la jornada electoral, a la Sala Superior del Tribunal Electoral, para los efectos legales conducentes.
 
-## TITULO TERCERO. De las faltas administrativas y de las sanciones
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 338 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 295
 
-ARTICULO 339 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. Realizados los actos a que se refiere el Artículo 250 de este Código, en cada uno de los Consejos Distritales el presidente del mismo informará a sus integrantes del resultado consignado en la copia del acta distrital de cómputo de los votos emitidos en el extranjero para Presidente de los Estados Unidos Mexicanos, para que sean sumados a los obtenidos del cómputo de los resultados de las casillas instaladas en el respectivo distrito.
 
-ARTICULO 340 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. El resultado de la suma señalada en el párrafo anterior se asentará en el acta a que se refiere el inciso d) del párrafo primero del Artículo 250 de este Código.
 
-ARTICULO 341 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. La copia certificada del acta distrital de cómputo de los votos emitidos en el extranjero para Presidente de los Estados Unidos Mexicanos en el distrito electoral respectivo, será integrada al expediente a que se refiere el inciso e) del párrafo 1 del Artículo 252 de este Código.
 
-ARTICULO 342 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 343 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 296
 
-###### ARTICULO 343
+1. Los partidos políticos nacionales y sus candidatos a cargos de elección popular no podrán realizar campaña electoral en el extranjero; en consecuencia, quedan prohibidas en el extranjero, en cualquier tiempo, las actividades, actos y propaganda electoral a que se refiere el Artículo 182 de este Código.
 
-A (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Durante el proceso electoral, en ningún caso y por ninguna circunstancia los partidos políticos utilizarán recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de campaña en el extranjero.
 
-> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO VIGESIMO TRANSITORIO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-# LIBRO OCTAVO. De la Elección e Integración de la Asamblea de Representantes del Distrito Federal
+ARTICULO 297
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+1. La violación a lo establecido en el Artículo anterior podrá ser denunciada, mediante queja presentada por escrito, debidamente fundada y motivada, aportando los medios de prueba, ante el Secretario Ejecutivo del Instituto, por los representantes de los partidos políticos ante el Consejo General.
 
-## TITULO PRIMERO. Disposiciones Preliminares
+2. Para el desahogo de las quejas señaladas en el párrafo anterior, serán aplicables, en lo conducente, las disposiciones del Título Quinto, del Libro Quinto y los Artículos 49-A y 49-B de este Código.
 
-ARTICULO 344 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+3. Si de la investigación se concluye la existencia de la falta, las sanciones que se impondrán al partido político responsable serán las establecidas en el Artículo 269 de este Código, según la gravedad de la falta.
 
-ARTICULO 345 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 346 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 298
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+1. Para el cumplimiento de las atribuciones y tareas que este Libro otorga al Instituto Federal Electoral, la Junta General Ejecutiva propondrá al Consejo General, en el año anterior al de la elección presidencial, la creación de las unidades administrativas que se requieran, indicando los recursos necesarios para cubrir sus tareas durante el proceso electoral.
 
-### CAPITULO PRIMERO. De los Requisitos de Elegibilidad
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-ARTICULO 347 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+ARTICULO 299
 
-ARTICULO 348 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. El costo de los servicios postales derivado de los envíos que por correo realice el Instituto a los ciudadanos residentes en el extranjero, será previsto en el presupuesto del propio Instituto.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2005)</small>
 
-### CAPITULO SEGUNDO. De los Partidos Políticos
+ARTICULO 300
 
-ARTICULO 349 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+1. El Consejo General proveerá lo conducente para la adecuada aplicación de las normas contenidas en el presente Libro.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-### CAPITULO TERCERO. Del Registro de Candidatos y de la Elección
-
-ARTICULO 350 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 351 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 352 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 353 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 354 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 355 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 356 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 357 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 358 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 359 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-### CAPITULO CUARTO. De los Resultados Electorales
-
-ARTICULO 360 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 361 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 362 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 363 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-### CAPITULO QUINTO. De las Constancias de Mayoría y Validez y de las Asignaciones por Representación Proporcional
-
-ARTICULO 364 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 365 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 366 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 367 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 368 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 369 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 370 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-ARTICULO 371 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-### CAPITULO SEXTO. Del Sistema de Medios de Impugnación
-
-ARTICULO 372 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
+2. Son aplicables, en todo lo que no contravenga las normas del presente Libro, las demás disposiciones conducentes de este Código, la Ley General del Sistema de Medios de Impugnación en Materia Electoral y las demás leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -6416,3 +6366,21 @@ Segundo.- Lo dispuesto en los artículos 175-A, 175-B y 175-C se aplicará por l
 D.O.F. 31 DE DICIEMBRE DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2005.
+
+Artículo Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Antes del mes de octubre de 2005, la Junta General Ejecutiva del Instituto Federal Electoral deberá formular y presentar, para su aprobación, al Consejo General, el programa que contenga las actividades relevantes y el proyecto de asignaciones presupuestarias en el ejercicio fiscal de 2005, las previsiones para el ejercicio fiscal de 2006 y, en su caso, la solicitud de ampliación del presupuesto 2005, para hacer posible el cumplimiento de las responsabilidades y tareas asignadas al Instituto por el Libro Sexto del Código Federal de Instituciones y Procedimientos Electorales que se reforma con el presente Decreto.
+
+Artículo Tercero.- Se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, para, en su caso, realizar las ampliaciones presupuestarias que resulten necesarias para proveer, en el ejercicio fiscal de 2005, al Instituto Federal Electoral, los recursos que solicite conforme al Artículo transitorio anterior. En su caso, esta autorización se entenderá otorgada al Ejecutivo Federal respecto de otros entes públicos que tengan participación directa en la aplicación de lo dispuesto por las adiciones al Libro Sexto que corresponden al presente Decreto.
+
+Artículo Cuarto.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, informará a la Cámara de Diputados de las ampliaciones presupuestarias realizadas a favor del Instituto Federal Electoral en el ejercicio fiscal de 2005.
+
+Artículo Quinto.- A partir de la entrada en vigor del presente Decreto, y hasta la conclusión del proceso electoral federal ordinario inmediato siguiente, se autoriza a la Junta General Ejecutiva del Instituto Federal Electoral para adjudicar en forma directa a los proveedores idóneos, tanto en México como en el extranjero, los contratos de adquisición de bienes, servicios y arrendamientos de inmuebles, cuando tal procedimiento sea necesario para garantizar el cumplimiento de los plazos establecidos en las disposiciones adicionadas en el Libro Sexto que es materia de reforma del presente Decreto. Para tal efecto, los procedimientos para la adjudicación directa se sujetarán a lo establecido por el Artículo 41 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, sin que resulten aplicables los límites establecidos en el Presupuesto de Egresos de la Federación para los ejercicios fiscales de 2005 y 2006. La Junta General Ejecutiva informará al Consejo General de las resoluciones que adopte.
+
+El Instituto Federal Electoral rendirá un informe de las adjudicaciones directas autorizadas conforme el presente Artículo al rendir las cuentas públicas correspondientes a los ejercicios fiscales de 2005 y 2006.
+
+Artículo Sexto.- El Instituto Federal Electoral establecerá, en su caso, con el organismo público descentralizado denominado Servicio Postal Mexicano, y con los servicios postales del extranjero, los acuerdos necesarios para asegurar el eficiente, seguro y oportuno manejo, despacho, recepción y entrega de los documentos y materiales que se requieran para el ejercicio del derecho al voto de los mexicanos residentes en el extranjero.
+
+Artículo Séptimo.- De ser necesario, con la participación del Instituto, el Titular del Poder Ejecutivo Federal por conducto de la Secretaría de Relaciones Exteriores, establecerá los acuerdos necesarios para coadyuvar al cumplimiento de lo establecido en el Artículo Transitorio anterior.
