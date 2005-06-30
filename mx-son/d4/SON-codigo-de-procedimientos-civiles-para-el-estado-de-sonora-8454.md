@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2004-06-14"
+last_updated: "2005-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -6965,6 +6965,10 @@ I.- Ante la autoridad judicial, cualquiera que sea el caso;
 
 II.- Extrajudicialmente, ante Notario Público, pero sólo en los casos en que la ley lo autoriza.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2005)</small>
+
+El juez competente o el notario público que inicie un procedimiento sucesorio deberá solicitar al Registro Público de la Propiedad, a la Dirección General de Notarías y al Registro Nacional de Avisos de Testamento, un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión.
+
 ###### Art. 755.
 
 El juicio sucesorio testamentario o intestado, se inicia mediante denuncia hecha por parte legítima. Una vez admitida la denuncia, el juez tendrá por radicada la sucesión.
@@ -8538,3 +8542,17 @@ B.O. 14 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE JUNIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decreto deberá realizarse, por quien esté obligado a ello, la inscripción en el Registro Nacional de Avisos de Testamento de aquellos instrumentos respecto de los cuales no conste el aviso respectivo en dicho registro.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
