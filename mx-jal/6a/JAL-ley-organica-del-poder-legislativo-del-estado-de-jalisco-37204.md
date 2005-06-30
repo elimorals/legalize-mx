@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2005-04-26"
+last_updated: "2005-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -433,7 +433,7 @@ II. Abrir, prorrogar, suspender, declarar recesos y clausurar las sesiones del C
 
 III. Cuidar que los diputados y el público asistente a las sesiones, observen el debido orden y comportamiento;
 
-IV. Dar curso a los asuntos en términos de la normatividad aplicable y determinar los tramites que deban recaer sobre las cuestiones con que se de cuenta al Pleno;
+IV. Dar curso a los asuntos en términos de la normatividad aplicable y determinar los tramites que deban recaer sobre las cuestiones con que se dé cuenta al Pleno;
 
 V. Proponer a la Asamblea, el orden que corresponda a los asuntos que se presenten en las sesiones, señalando la distribución de los asuntos que se agenden en la misma, para que lo apruebe o lo modifique. En casos de obvia y urgente resolución en los que el Congreso del Estado tenga que tomar alguna determinación, el Presidente a propuesta de alguno de los diputados, puede modificar el orden de los asuntos o dispensar lecturas, previa aprobación de la Asamblea;
 
@@ -653,7 +653,7 @@ I. Funcionan en el área legislativa las siguientes direcciones:
 
 a) Dirección de Procesos Legislativos; es la responsable de la planeación y programación técnica de la (sic) sesiones; de la asistencia a la Mesa Directiva para el desarrollo de las sesiones; así como la realización de minutas y su remisión y la trascripción (sic) en el "Diario de los Debates";
 
-b) Dirección de Asuntos Jurídicos y Dictamen Legislativo, es la responsable de dar soporte jurídico en los asuntos legales de que sea parte el Congreso, así como apoyo, a petición de las comisiones para la realización del contenido jurídico de los dictámenes;
+b) Dirección de Asuntos Jurídicos y Dictamen Legislativo, es la responsable de dar soporte jurídico en los asuntos legales del que sea parte el Congreso, así como apoyo, a petición de las comisiones para la realización del contenido jurídico de los dictámenes;
 
 c) Dirección de Biblioteca, Archivo y Editorial, es la responsable de salvaguardar el acervo histórico del Congreso del Estado, así como brindar el servicio de consulta pública del mismo;
 
@@ -675,7 +675,7 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 (ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
 
-3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando lo estime pertinente.
+3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando lo estime pertinentes.
 
 ###### Artículo 51.
 
@@ -1251,13 +1251,13 @@ I. La legislación en materia de fiscalización;
 
 II. La revisión, examen y fiscalización de las cuentas públicas de los Poderes del Estado, organismos públicos autónomos, descentralizados y desconcentrados; ayuntamientos, sus dependencias y entidades; así como los entes públicos de índole estatal y municipal e instituciones públicas o privadas que administran fondos o valores públicos, incluyendo la aplicación de recursos de origen federal cuando estos formen parte de la respectiva cuenta pública estatal o municipal; así como el Tribunal de Arbitraje y Escalafón;
 
-III. La legislación, actuación, administración, control y vigilancia del órgano técnico de auditoría superior del estado en los términos de la legislación estatal aplicable en la materia;
+III. La legislación, actuación, administración, control y vigilancia del órgano técnico de auditoria superior del estado en los términos de la legislación estatal aplicable en la materia;
 
-IV. La propuesta para el nombramiento y remoción del titular y los directores de la Auditoría Superior del Estado, de conformidad con lo establecido por la legislación estatal aplicable en la materia;
+IV. La propuesta para el nombramiento y remoción del titular y los directores de la Auditoria Superior del Estado, de conformidad con lo establecido por la legislación estatal aplicable en la materia;
 
-V. La propuesta para el nombramiento y la remoción de los empleados del órgano técnico de auditoría superior del estado;
+V. La propuesta para el nombramiento y la remoción de los empleados del órgano técnico de auditoria superior del estado;
 
-VI. La sustanciación y resolución, en su caso, en los términos de ley de las denuncias e inconformidades que se presenten en contra de la actuación de servidores públicos de la Auditoría Superior del Estado por incumplimiento de la legislación estatal aplicable en la materia;
+VI. La sustanciación y resolución, en su caso, en los términos de ley de las denuncias e inconformidades que se presenten en contra de la actuación de servidores públicos de la Auditoria Superior del Estado por incumplimiento de la legislación estatal aplicable en la materia;
 
 VII. Las políticas, planes y programas correspondientes para el fortalecimiento de la vigilancia, supervisión, control; y
 
@@ -1451,13 +1451,19 @@ VI. Las políticas, planes y programas para la difusión y fortalecimiento de la
 
 2. El orden en que las iniciativas son derivadas a los diputados integrantes de las comisiones es estrictamente alfabético y sucesivo, incluyendo al presidente de la comisión.
 
-3. El diputado al que le hubiera sido derivada la iniciativa debe formular su proyecto de dictamen dentro del plazo de quince días naturales, salvo que la iniciativa requiera, a juicio de la comisión, plazo mayor; caso en el cual puede prorrogarse, cuidando siempre de respetar los plazos en que la Comisión debe dictaminar.
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2005)</small>
 
-4. Una vez presentado el proyecto de dictamen para su discusión, éste debe ser entregado a los integrantes de la comisión a más tardar tres días hábiles antes de la sesión de comisión en que vaya a discutirse.
+3. Cuando al diputado que le correspondería realizar el proyecto de dictamen, sea el mismo que presentó la iniciativa, el presidente deberá derivarla al que le sigue en el orden alfabético.
 
-5. Si el proyecto presentado por el diputado es aprobado sin adiciones o reformas se tiene como resolución definitiva de la comisión. Si en la reunión de Comisión en que se estudie este proyecto se aprueban modificaciones o adiciones al mismo, deben hacerse en ese momento y proceder a su firma.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2005)</small>
 
-6. Las resoluciones de las comisiones, se toman por mayoría relativa y, en caso de empate, el Presidente tiene el voto de calidad.
+4. El diputado al que le hubiera sido derivada la iniciativa debe formular su proyecto de dictamen dentro del plazo de quince días naturales, salvo que la iniciativa requiera, a juicio de la comisión, plazo no mayor; caso en el cual puede prorrogarse, cuidando siempre de respetar los plazos en que la Comisión debe dictaminar.
+
+5. Una vez presentado el proyecto de dictamen para su discusión, éste debe ser entregado a los integrantes de la comisión a más tardar tres días hábiles antes de la sesión de comisión en que vaya a discutirse.
+
+6. Si el proyecto presentado por el diputado es aprobado sin adiciones o reformas se tiene como resolución definitiva de la comisión. Si en la reunión de Comisión en que se estudie este proyecto se aprueban modificaciones o adiciones al mismo, deben hacerse en ese momento y proceder a su firma.
+
+7. Las resoluciones de las comisiones, se toman por mayoría relativa y, en caso de empate, el Presidente tiene el voto de calidad.
 
 ###### Artículo 108.
 
@@ -2594,3 +2600,7 @@ UNICO.- El presente decreto entrará en vigor al día de su publicación en el P
 P.O. 26 DE ABRIL DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE JUNIO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
