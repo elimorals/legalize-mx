@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2004-12-23"
+last_updated: "2005-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -1149,6 +1149,96 @@ A los propietarios de establecimientos que hayan presentado solicitudes de permi
 
 Transcurrido el plazo a que se refiere el Artículo Cuarto anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley, así como a la clausura de los establecimientos, en su caso.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2005)</small>
+
+###### ARTÍCULO OCTAVO.
+
+Los artículos contenidos en las Leyes de Ingresos y Presupuestos de Ingresos de los municipios del Estado para el Ejercicio fiscal del año 2005 que contemplen giros que por disposición de esta Ley son derogados, se modifican de tal manera que dichos giros puedan ser incorporados a los considerados en este ordenamiento, conforme a lo siguiente:
+
+GIRO ANTERIOR GIRO AL QUE SE
+
+INCORPORAN
+
+I.- ENVASADORA FABRICA
+
+II.- AGENCIA AGENCIA DISTRIBUIDORA
+
+III.- DISTRIBUIDORA AGENCIA DISTRIBUIDORA
+
+IV.- DEPOSITO EXPENDIO
+
+V.- EXPENDIO EXPENDIO
+
+VI.- ULTRAMARINOS EXPENDIO
+
+VII.- CANTINA, BAR CANTINA, BILLAR O
+
+O CERVECERIA BOLICHE
+
+VIII.- RESTAURANTE RESTAURANTE
+
+IX.- FONDAS, LONCHERIAS, RESTAURANTE
+
+TAQUERIAS Y SIMILARES
+
+X.- CAFE CANTANTE RESTAURANTE
+
+XI.- TIENDA DE SERVICIO TIENDA DE
+
+AUTOSERVICIO
+
+XII.- SUPERMERCADO TIENDA DE
+
+AUTOSERVICIO
+
+XIII.- ABARROTES TIENDA DE ABARROTES
+
+XIV.- CABARET O CENTRO NOCTURNO
+
+CENTRO NOCTURNO
+
+XV.- CENTRO DE CENTRO NOCTURNO
+
+ESPECTACULO EROTICO
+
+XVI.- DISCOTECAS CENTRO NOCTURNO
+
+XVII.- CENTRO DE CENTRO DE EVENTOS O
+
+EVENTOS O SALON DE SALON DE BAILE
+
+BAILE
+
+XVIII.- SALON SOCIAL CENTRO DE EVENTOS O
+
+SALON DEBAILE
+
+XIX.- SALON DE BAILE CENTRO DE EVENTOS O
+
+SALON DE BAILE
+
+XX.- BOLICHES Y BILLARES CANTINA, BILLAR O
+
+BOLICHE
+
+XXI.- CENTRO RECREATIVO Y CENTRO RECREATIVO
+
+DEPORTIVO O DEPORTIVO
+
+XXII.- HOTEL O MOTEL HOTEL O MOTEL
+
+XXIII.- PORTEADORA PORTEADORA
+
+Los montos previstos para el cobro de anuencias municipales para nuevos establecimientos y como estimado de recaudación por cada giro durante el presente ejercicio fiscal en cada Ley de Ingresos y Presupuesto de Ingresos de los municipios de la Entidad, se mantendrán vigentes tomando en consideración las modificaciones referidas en las fracciones anteriores.
+
 COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 14 DE DICIEMBRE DE 2004.- DIPUTADO PRESIDENTE.- C. JOSE RODRIGO VELEZ ACOSTA.- RUBRICA.- DIPUTADO SECRETARIO.- C. ONESIMO MARISCALES DELGADILLO.- RUBRICA,. DIPUTADO SECRETARIO.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTIUN DIAS DEL ME S DE DICIEMBRE DEL AÑO DOS MIL CUATRO.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE JUNIO DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
