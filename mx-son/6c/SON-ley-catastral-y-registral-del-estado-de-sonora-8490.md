@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2002-12-19"
+last_updated: "2005-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -1029,6 +1029,28 @@ Los testamentos ológrafos serán depositados en los términos que dispone el C�
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el articulo 1640 del Código Civil para el Estado de Sonora.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2005)</small>
+
+ARTICULO 87 BIS.- Cuando se deposite un testamento ológrafo en el Registro, el Registrador, dentro de los diez días hábiles siguientes, dará aviso, preferentemente por vía electrónica, al Registro Nacional de Avisos de Testamento, en el que se expresará:
+
+I.- Nombre completo del testador;
+
+II.- Nacionalidad;
+
+III.- Lugar y fecha de nacimiento;
+
+IV.- Clave única de registro poblacional;
+
+V.- Estado civil;
+
+VI.- Nombre completo de los padres;
+
+VII.- Tipo de testamento; y
+
+VIII.- Lugar y fecha de otorgamiento.
+
+Asimismo dará un aviso semejante cuando registre la escritura complementaria del testamento público simplificado a que se refiere el artículo 1625 Bis del Código Civil para el Estado de Sonora.
+
 ###### ARTICULO 88.
 
 El Registrador deberá autorizar un libro especial de registro de testamentos ológrafos, para los efectos previstos en el artículo 1633 del Código Civil para el Estado de Sonora y proveerá lo necesario, bajo su responsabilidad, para la debida custodia del ejemplar del testamento depositado, hasta su entrega al mismo testador o al juez competente.
@@ -1336,3 +1358,17 @@ El segundo párrafo del artículo 59 de la Ley de Hacienda Municipal contenido e
 ###### ARTICULO SEGUNDO.
 
 El resto de las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE JUNIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decreto deberá realizarse, por quien esté obligado a ello, la inscripción en el Registro Nacional de Avisos de Testamento de aquellos instrumentos respecto de los cuales no conste el aviso respectivo en dicho registro.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
