@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2004-07-20"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -481,9 +481,13 @@ II. Aprobar las comisiones a que se refiere este código.
 
 III. Realizar la entrega-recepción de la situación que guarda la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2005)</small>
+
 ###### ARTÍCULO 64.
 
-Al término del período constitucional de la Administración Pública Municipal, el Ayuntamiento saliente entregará al Ayuntamiento entrante, el documento que contenga la situación que guarda la Administración Pública Municipal. En la entrega-recepción, el Congreso del Estado, a través de la Contaduría Mayor de Hacienda, podrá designar un representante, el cual participará sólo como observador del proceso.
+Al término del período constitucional de la Administración Pública Municipal, los integrantes del Ayuntamiento, así como los titulares de las dependencias, organismos y entidades, entregarán a los servidores públicos entrantes, el documento que contenga la situación que guarda la Administración Pública Municipal, a la que se anexarán los documentos establecidos en el artículo siguiente.
+
+En la entrega-recepción de las dependencias, organismos y entidades, la Contaduría Mayor de Hacienda, podrá designar un representante, el cual participará sólo como observador del proceso.
 
 ###### ARTÍCULO 65.
 
@@ -513,21 +517,31 @@ XI. Informe y documentación relativa al estado que guardan los asuntos tratados
 
 XII. La demás información que se estime conveniente para garantizar la continuidad de la administración pública municipal.
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2005)</small>
+
+XIII. La demás información establecida en la Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2005)</small>
+
 ###### ARTÍCULO 66.
 
-Para el cumplimiento de las anteriores disposiciones el Ayuntamiento saliente, seis meses antes del término del período constitucional de la Administración Pública Municipal, facultará al Contralor Municipal para coordinar el proceso de entrega-recepción en todas las unidades de la administración pública municipal, centralizada y descentralizada; el cual junto con el Síndico elaborará los documentos a que se refiere este capítulo, y los presentará al Ayuntamiento y al Presidente Municipal para su revisión y firma.
+Para el cumplimiento de lo anterior, con la anticipación necesaria, los sujetos obligados en términos de la Ley de Entrega-Recepción del Estado y Municipios, prepararán la documentación referida atendiendo al Manual de Entrega-Recepción de la Administración Pública Municipal, expedido por la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 67.
 
-El Secretario del Ayuntamiento entrante, levantará acta circunstanciada por triplicado de la entrega-recepción, la cual deberá ser firmada por los que intervinieron, entregándose un tanto al Ayuntamiento entrante, otro al Ayuntamiento saliente y otro a la Contaduría Mayor de Hacienda del Congreso del Estado.
+La entrega-recepción de la documentación prevista en el artículo 65, tendrá carácter de acto formal, en el cual deberá intervenir el servidor público saliente, el servidor público que recibe, un testigo por cada parte y un representante de la Contraloría Municipal. En dicho acto deberá elaborarse acta circunstanciada de la entrega-recepción y la mención de los anexos correspondientes, debiendo presentarse por triplicado, correspondiendo un tanto para el servidor público entrante, otro para el saliente y el tercero para el representante de la Controlaría Municipal. El acta deberá firmarse por los servidores públicos referidos en el párrafo anterior, con asistencia de dos testigos que ellos mismos designen.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 68.
 
-Terminado el proceso de entrega-recepción, el expediente integrado será sometido al análisis de una comisión especial que nombrará el Ayuntamiento entrante, la cual emitirá un dictamen en un plazo no mayor de treinta días naturales.
+Terminado el proceso de entrega-recepción, el servidor público entrante deberá proceder a la verificación y validación física del contenido del acta administrativa de entrega-recepción y sus anexos, en un plazo no mayor de treinta días hábiles contados a partir del acto de entrega.
 
-El dictamen será sometido por la comisión especial a consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos señalados, para solicitar información o documentación. Los servidores públicos municipales de la administración saliente estarán obligados a proporcionar la información solicitada y atender las observaciones que se formulen.
+Durante la validación y verificación, el servidor público que reciba podrá solicitar al servidor público que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsele por escrito y notificada en el domicilio que tenga registrado, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión a la Contraloría Municipal para que proceda de conformidad con la Ley de Responsabilidades. Igualmente, las irregularidades encontradas deberán hacerse del conocimiento de la Contraloría Municipal.
 
-Para lo anterior, el Ayuntamiento contará con un plazo de quince días naturales contados a partir de que el dictamen fue sometido a su consideración, al término del cual emitirá el acuerdo correspondiente, mismo que no eximirá de responsabilidad a los integrantes y servidores públicos de la Administración saliente.
+En todo el proceso de entrega-recepción deberá estarse a lo establecido en la Ley de Entrega-Recepción del Estado y Municipios.
 
 ### CAPÍTULO IV. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO, Y DE LA DESAPARICIÓN DE AYUNTAMIENTOS
 
@@ -1269,7 +1283,9 @@ III. Dar cuenta en la primera sesión de cada mes, del número y contenido de lo
 
 IV. Autentificar con su firma los acuerdos, documentos y comunicaciones oficiales emanados del Ayuntamiento y del Presidente Municipal, sin este requisito no serán válidas.
 
-V. Entregar al término de su gestión, los libros de actas de cabildo y la demás documentación que integran el archivo municipal, en acta circunstanciada, en los términos del procedimiento de entrega-recepción previsto en este código.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2005)</small>
+
+V. Entregar al término de su gestión, los libros de actas de cabildo y la demás documentación que integran el archivo municipal, en acta circunstanciada, en los términos del procedimiento de entrega-recepción previsto en este Código y en la Ley de Entrega-Recepción del Estado y Municipios.
 
 VI. Atender todo lo relativo a la remisión de acuerdos del Ayuntamiento que requieran la aprobación o conocimiento de la Legislatura o del Ejecutivo del Estado.
 
@@ -1409,7 +1425,9 @@ XI. Vigilar el cumplimiento de las obligaciones de proveedores y contratistas de
 
 XII. Establecer y operar un sistema de quejas, denuncias y sugerencias.
 
-XIII. Participar en la entrega-recepción de las unidades administrativas de las dependencias, entidades y fideicomisos públicos municipales.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2005)</small>
+
+XIII. Participar en la entrega-recepción de las unidades administrativas de las dependencias, entidades y fideicomisos públicos municipales y ejercer las atribuciones que le otorga la Ley de Entrega-Recepción del Estado y Municipios.
 
 XIV. Supervisar el inventario general de bienes muebles e inmuebles propiedad del municipio, verificando los datos de identificación y el destino de los mismos.
 
@@ -3978,3 +3996,7 @@ P.O. 20 DE JULIO DE 2004.
 PRIMERO. El presente decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día primero de enero del año 2005.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 1 DE JULIO DE 2005.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
