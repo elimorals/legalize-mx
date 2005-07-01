@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-del-sistema-de-2363
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-18"
-last_updated: "2002-03-18"
+last_updated: "2005-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23630&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-03-13"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 1 DE JULIO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 18 de marzo de 2002.
 
