@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2005-06-15"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -919,7 +919,7 @@ I. Planear, realizar, supervisar, controlar y mantener en condiciones de operaci
 
 - Ornato, forestación y conservación de parques, plazas y jardines.
 
-- Reparación y mantenimiento de vías públicas.
+- (DEROGADO, P.O. 1 DE JULIO DE 2005)
 
 - Limpieza de vías, áreas municipales y drenaje pluvial.
 
@@ -4101,7 +4101,7 @@ DIMENSIONES MINIMAS DIMENSIONES DEL CAJON EN METROS
 
 DE CAJONES TIPO DE
 
-AUTOMOVIL EN BATERIA EN CORDON
+AUTOMÓVIL EN BATERIA EN CORDON
 
 Grandes y Medianos 5.0X2.4 =12 M2 6.0X2.4 = 14.40 M2
 
@@ -8580,3 +8580,19 @@ El presente reglamento entrará en vigor el día siguiente al de su publicación
 ###### ARTÍCULO TERCERO.
 
 Se derogan los artículos, 83 BIS, 83 BIS 1, 83 BIS 2, 83 BIS 3, 83 BIS 4, 83 BIS 5, 83 BIS 6, 83 BIS 7 del Código Municipal de Querétaro, así como todas aquellas disposiciones de igual o menor jerarquía que contravengan al presente reglamento.
+
+P.O. 1 DE JULIO DE 2005.
+
+PRIMERO. Publíquese por una sola ocasión en la Gaceta Municipal y en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se derogan todas aquellas disposiciones legales y administrativas de igual o menor jerarquía que contravengan al presente.
+
+CUARTO. Se deja sin efecto el artículo Segundo Transitorio del Reglamento de Limpia y Aseo Público para el Municipio de Querétaro, aprobado en Sesión de Cabildo de fecha 27 de marzo del 2002 y publicado en la Gaceta Municipal No. 55, de fecha 30 de julio de 2003.
+
+QUINTO. Se instruye a la Secretaría de Administración a que en coordinación con la Secretaría de Servicios Públicos Municipales elaboren y actualicen los correspondientes manuales de procedimientos.
+
+SEXTO. Se deroga el punto sexto de la fracción I del Artículo 76 del Código Municipal de Querétaro.
+
+SÉPTIMO. Notifíquese a la Secretaría de Servicios Públicos Municipales, Secretaría General de Gobierno Municipal, Secretaría de Desarrollo Sustentable, Secretaría de Administración, Secretaría de Economía y Finanzas y Tesorería Municipal y a la Auditoría Superior de Fiscalización del Municipio de Querétaro.
