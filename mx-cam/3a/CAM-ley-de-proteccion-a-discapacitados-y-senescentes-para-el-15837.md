@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-a-discapacitados-y-senescentes-para-el-15837"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-10"
-last_updated: "2005-06-28"
+last_updated: "2005-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY DE PROTECCION A DISCAPACITADOS PARA EL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE LOS ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL PERIODICO OFICIAL DE 28 DE JUNIO DE 2005, SE DEROGAN LOS ARTICULOS CORRESPONDIENTES DE LA LEY DE PROTECCION A DISCAPACITADOS Y SENESCENTES PARA EL ESTADO DE CAMPECHE DEL 10 DE NOVIEMBRE DE 1993, SUBSISTIENDO UNICAMENTE LO CONCERNIENTE A DISCAPACITADOS CONTENIDO EN ESA LEY .</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS CON CAPACIDADES DIFERENTES EN EL ESTADO DE CAMPECHE, PUBLICADA EN EL PERIODICO OFICIAL DE 1 DE JULIO DE 2005., EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 10 de noviembre de 1993.
 
@@ -712,3 +712,13 @@ SEGUNDO.- A partir de la entrada en vigor de esta Ley se derogan los artículos 
 TERCERO.- La ejecución de las obras que el Gobierno del Estado y los Gobiernos de los Municipios deban efectuar para la eliminación de barreras arquitectónicas y urbanas en edificios y vía pública, se efectuará en los términos y plazos que la previsión presupuestal permita y siempre que ello no implique erogaciones que por cuantía reduzcan o vendan la satisfacción de otras obras de beneficio colectivo.
 
 CUARTO.- Los propietarios de inmuebles y prestadores del servicio público de transporte colectivo de pasajeros, contarán con un plazo de 180 días para hacer en sus correspondientes bienes las adecuaciones tendientes al cumplimiento de esta ley, salvo que pericialmente quede acreditada la imposibilidad de efectuarlas o que su costo resulte prohibitivo.
+
+P.O. 1 DE JULIO DE 2005.
+
+Primero.- La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Protección a Discapacitados y Senescentes para el Estado de Campeche, expedida mediante Decreto número 165 por la LIV Legislatura del H. Congreso del Estado, publicada en el Periódico Oficial del Estado el 10 de noviembre de 1993. Todas las referencias que en otras leyes, reglamentos y demás disposiciones de observancia general se hagan a la ley que se abroga, se tendrán como hechas a la presente Ley, tratándose de las personas con capacidades diferentes.
+
+Tercero.- La Secretaría de Obras Públicas y Comunicaciones, en un plazo de ciento veinte días hábiles, a partir de que esta Ley cobre vigencia, emitirá las normas técnicas sobre infraestructura y equipamiento básicos para la accesibilidad y libre desplazamiento de personas con capacidades diferentes, a las que se refiere su artículo 7.
+
+Cuarto.- La ejecución de las obras que el Estado y los Municipios deban efectuar para la eliminación de barreras arquitectónicas y urbanas, en edificios y vía pública, se efectuará en los términos y plazos que sus correspondientes previsiones presupuestales les permitan.
