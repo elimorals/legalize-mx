@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2005-06-29"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -485,7 +485,7 @@ IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar inf
 
 X. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
-XI. Otorgar, rescatar, revertir o revocar, en su caso, concesiones, permisos, autorizaciones o licencias, a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento;
+XI. (DEROGADA, G.O. 1 DE JULIO DE 2005)
 
 XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
 
@@ -1736,3 +1736,11 @@ G.O. 29 DE JUNIO DE 2005.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 1 DE JULIO DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 247 QUE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
