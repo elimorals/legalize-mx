@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2004-01-16"
+last_updated: "2005-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2005.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
 HECTOR TERAN TERAN.
 
@@ -281,11 +281,11 @@ XVIII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 XIX.- Las demás unidades y servidores públicos que legalmente establezca el Procurador, y asimismo los que señale esta ley y su reglamento, el cual precisará las atribuciones que le correspondan.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 5.
 
-Operarán bajo el régimen de desconcentración pero directamente subordinadas al Procurador, tres Subprocuradurías de Zona con sus respectivas jurisdicciones territoriales; asentadas en los Municipios de Mexicali; de Tijuana que comprenderá los Municipios de Tecate y Playas de Rosarito; y en el Municipio de Ensenada. Cada Subprocuraduría de Zona contará con una Dirección de Averiguaciones Previas, una Dirección de Control de Procesos, un Comandante de Zona de la Policía Ministerial. La Dirección de Averiguaciones Previas contará a su vez con una Unidad de Servicios Periciales, Agencias del Ministerio Público necesarias, Agencias del Ministerio Público Iniciadoras Conciliadoras tantas como sean necesarias, Secretarías de Acuerdo, Secretarías de Acuerdo en materia Conciliadora y Canalizadores. La Dirección de Control de Procesos, contará con una Unidad de Ejecución de Ordenes de Aprehensión, una Unidad de Servicios Periciales y con el número suficiente de Agentes del Ministerio Público Adscritos a Juzgados.
+Operarán bajo el régimen de desconcentración pero directamente subordinadas al Procurador, cinco Subprocuradurías de Zona con sus respectivas jurisdicciones territoriales; asentadas en los municipios de Mexicali; de Tijuana; de Tecate; de Playas de Rosarito y Ensenada. Cada Subprocuraduría de Zona podrá contar con una Dirección de Averiguaciones Previas, una Dirección de Control de Procesos, un Comandante de Zona y la estructura de servidores públicos necesarios para el cumplimiento de sus atribuciones en función de las necesidades y naturaleza del servicio a prestar y atendiendo a las características propias de la misma.
 
 En cada Subprocuraduría de Zona operarán las Agencias del Ministerio Público Investigadoras por razón de la materia, en el número y clasificación que se requieran, conforme a la incidencia delictiva.
 
@@ -1468,3 +1468,9 @@ P.O. 16 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas y adiciones entrarán en vigor, al día siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE JULIO DE 2005.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente reforma, para realizar las previsiones necesarias a efecto de implementar la organización y funcionamiento de las Subprocuradurías de Zonas ubicadas en los Municipios de Tecate y Playas de Rosarito, Baja California.
