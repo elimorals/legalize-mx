@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-chihuahua-4764"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-01-07"
-last_updated: "1988-01-06"
+last_updated: "2005-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 7 de enero de 1987.
 
@@ -163,7 +163,7 @@ c) Opinar y vigilar sobre todos los aspectos financieros y patrimoniales;
 
 d) Firmar el Presidente del Patronato, en unión del Rector, Secretario General y Director Administrativo las publicaciones mensuales del estado que guarden las finanzas;
 
-e) Informar mensualmente al Consejo Universitario sobre el cumplimiento de la vigilancia del correcto ejercicio del Presupuesto de Ingresos y Egresos desglosando los estudios practicados y remitir, a la Secretaría de la Contraloría General de la Federación y a la Dirección General de Finanzas del Poder Ejecutivo del Gobierno del Estado, mensualmente un informe sobre el estado financiero de la Universidad, atendiendo a los recursos federales y estatales que le son asignados.
+e) Informar mensualmente al Consejo Universitario sobre el cumplimiento de la vigilancia del correcto ejercicio del Presupuesto de Ingresos y Egresos desglosando los estudios practicados y remitir, a la Secretaría de la Contraloría General de la Federación y a la Dirección General de Finanzas del Poder Ejecutivo del Gobierno del Estado, mensualmente un informe sobre el estado financiero de la Universidad, atendiendo a los recursos federales y estatales que le son asignados;
 
 VI. Crear y suprimir Facultades, Escuelas, Institutos y Unidades de Extensión;
 
@@ -237,7 +237,7 @@ II. Ser mayor de treinta años en el momento de la elección;
 
 III. Poseer como mínimo el grado de Licenciatura;
 
-IV. Haber destacado en su especialidad y gozar de fama pública como persona honorable y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+IV. Haber destacado en su especialidad y gozar de fama pública como persona honorable y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 V. Haber prestado servicios docentes o de investigación a la Universidad, por lo menos los últimos cinco años anteriores a la elección;
 
@@ -329,7 +329,7 @@ La destitución del Rector se ajustará al siguiente procedimiento:
 
 I. La denuncia de la causal deberá ser presentada ante el Consejo Universitario cuando menos por cinco de sus miembros en ejercicio mediante escrito fundado y motivado;
 
-II. Se someterá de inmediato a votación para que el Consejo determine por un mínimo de dos tercios de sus integrantes, si procede abrir la investigación, caso en el cual se integrará una comisión especial con dos directores, dos consejeros maestros y cuatro consejeros alumnos, para que formule dictamen, oyendo previamente al interesado y otorgándole el derecho a ofrecer y desahogar elementos de convicción y alegar en su favor.
+II. Se someterá de inmediato a votación para que el Consejo determine por un mínimo de dos tercios de sus integrantes, si procede abrir la investigación, caso en el cual se integrará una comisión especial con dos directores, dos consejeros maestros y cuatro consejeros alumnos, para que formule dictamen, oyendo previamente al interesado y otorgándole el derecho a ofrecer y desahogar elementos de convicción y alegar en su favor;
 
 III. El día de la presentación del dictamen, el Consejo sesionará presidido por un consejero maestro designado en el acto; se escuchará el dictamen; se oirá a las partes y se dictará resolución;
 
@@ -387,7 +387,7 @@ VII. Designar a la comisión dictaminadora de los exámenes de oposición y eval
 
 VIII. Proponer al Rector los nombramientos definitivos de los catedráticos e investigadores y demás personal académico, previo examen de oposición y evaluación de méritos de los candidatos, así como su remoción y destitución;
 
-Para que el Rector extienda el nombramiento, deberá obtener previamente la opinión del Consejo de Directores y en todo caso la contratación estará sujeta a la disponibilidad presupuestal.
+Para que el Rector extienda el nombramiento, deberá obtener previamente la opinión del Consejo de Directores y en todo caso la contratación estará sujeta a la disponibilidad presupuestal;
 
 IX. Nombrar a los maestros interinos por un plazo no mayor de un año. Si el interinato excede de ese tiempo se procederá en los términos de la fracción anterior;
 
@@ -551,7 +551,7 @@ II. Vincular las actividades de la investigación universitaria con las de los s
 
 III. Evaluar y dar seguimiento a los programas y proyectos de investigación;
 
-IV. Promover y coordinar a grupos de investigación multidisicplinarios;
+IV. Promover y coordinar a grupos de investigación multidisciplinarios;
 
 V. Vincular los programas y proyectos de investigación con las actividades de las otras direcciones de área;
 
@@ -771,7 +771,11 @@ VIII. Las demás que se deriven de su participación de la comunidad universitar
 
 ## TITULO V. RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 76.
+
+El Rector, el Secretario General, los Directores de Área, el Tesorero, los Directores de las Facultades, Escuelas e Institutos y sus Secretarios, así como aquellos otros funcionarios y empleados que manejen, recauden, vigilen o administren fondos y recursos universitarios deberán presentar declaración de situación patrimonial al inicio y a la conclusión del encargo y en forma anualizada, en los términos que establezca el Reglamento que para tal efecto expida el Consejo de la Universidad.
 
 Son causas de responsabilidad de orden universitario el incumplimiento de las obligaciones propias del carácter con que se participa en la comunidad universitaria y la contravención de las disposiciones de esta Ley, sus reglamentos o de las decisiones emitidas legalmente por las autoridades de la Universidad.
 
@@ -862,3 +866,9 @@ P.O. 6 DE ENERO DE 1988.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se autoriza a la Universidad Autónoma de Chihuahua a enajenar los inmuebles sorteados por su Patronato con anterioridad a la vigencia de este Decreto, en favor de las personas que resultaron agraciadas.
+
+P.O. 2 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El H. Consejo Universitario, expedirá el Reglamento a que se refiere este Decreto en un plazo no mayor de 90 días hábiles, contados a partir de que entre en vigor la adición.
