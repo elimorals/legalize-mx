@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "2002-07-27"
+last_updated: "2005-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 27 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 2 DE JULIO DE 2005.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -2003,9 +2003,9 @@ Los nombramientos de Consejeros Electorales, cuando menos en un 33%, recaerán e
 
 El CONSEJO GENERAL se reunirá en sesión ordinaria cada 3 meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de la mayoría de los Comisionados de los partidos. Sus sesiones serán públicas.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2005)</small>
 
-Para la preparación del proceso electoral, el CONSEJO GENERAL se reunirá dentro de la primera quincena del mes de noviembre del año previo al de las elecciones. A partir de esta fecha y hasta la conclusión del proceso el CONSEJO GENERAL sesionará en forma ordinaria por lo menos dos veces al mes.
+Para la preparación del proceso electoral, el CONSEJO GENERAL se reunirá dentro de la primera quincena del mes de diciembre del año previo al de las elecciones. A partir de esta fecha y hasta la conclusión del proceso el CONSEJO GENERAL sesionará en forma ordinaria por lo menos dos veces al mes.
 
 Para que el CONSEJO GENERAL pueda sesionar, deberán estar presentes la mayoría de los Consejeros, entre los que deberá estar el Presidente.
 
@@ -2589,9 +2589,11 @@ III.- Resultados y declaración de validez de las elecciones de Diputados y Ayun
 
 IV.- Resultados, declaración de validez y calificación de la elección de Gobernador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 192.
 
-La etapa preparatoria de la elección se inicia con la primera sesión que el CONSEJO GENERAL celebre durante la primera quincena del mes de noviembre del año anterior a la misma y concluye al iniciarse la jornada electoral. Durante ésta se realizan:
+La etapa preparatoria de la elección se inicia con la primera sesión que el CONSEJO GENERAL celebre durante la primera quincena del mes de Diciembre del año anterior a la misma y concluye al iniciarse la jornada electoral. Durante ésta se realizan:
 
 I.- La elección, en su caso, de los Consejeros Electorales para integrar los CONSEJOS MUNICIPALES, así como de los Presidentes y Secretarios de los mismos;
 
@@ -4852,3 +4854,7 @@ P.O. 27 DE JULIO DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La reforma al artículo 155, entrará en vigor el día primero de enero del año dos mil tres.
+
+P.O. 2 DE JULIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
