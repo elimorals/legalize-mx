@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "1995-06-27"
+last_updated: "2005-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2005.
 
 Ley publicada en la Primera Sección del Periódico Oficial, el viernes 29 de junio de 1984.
 
@@ -189,9 +189,11 @@ En el Congreso del Estado se constituirá una Comisión Instructora, formada por
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2005)</small>
+
 ###### Artículo 14.
 
-Presentada la denuncia ante la Oficialía Mayor del Congreso y ratificada dentro de tres días naturales, se turnará a la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, la que determinará:
+Presentada la denuncia ante la Secretaría General del Congreso y ratificada dentro de tres días naturales, se turnará a la Comisión de Gobernación, Justicia y Puntos Constitucionales, la que determinará:
 
 a).- Si la conducta atribuida corresponde a las enumeradas por el artículo 9º;
 
@@ -207,9 +209,11 @@ En caso contrario la comisión desechará de plano la denuncia presentada.
 
 Las denuncias anónimas no producirán ningún efecto.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2005)</small>
+
 ###### Artículo 16.
 
-Acreditados los extremos a que se refiere el artículo 14, la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, turnará la denuncia a la Comisión Instructora, la que practicará todas las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado.
+Acreditados los extremos a que se refiere el artículo 14, la Comisión de Gobernación, Justicia y Puntos Constitucionales, turnará la denuncia a la Comisión Instructora, la que practicará todas las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado.
 
 ###### Artículo 17.
 
@@ -267,7 +271,9 @@ El Decreto que contenga la sentencia, independientemente de su publicación en e
 
 Para proceder penalmente en contra de los servidores públicos a que se refiere el artículo 126 de la Constitución Política del Estado y el 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior, en materia de juicio político ante el Congreso del Estado; y se aplicarán las siguientes disposiciones:
 
-I.- Si a juicio de la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2005)</small>
+
+I.- Si a juicio de la Comisión de Gobernación, Justicia y Puntos Constitucionales, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
 II.- La Comisión Instructora, en su caso practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya privación se solicita.
 
@@ -956,3 +962,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE JULIO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
