@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2005-06-14"
+last_updated: "2005-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2005.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -263,7 +263,7 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 ## TITULO QUINTO. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
@@ -943,11 +943,9 @@ XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2005)</small>
 
-80.- La Administración Pública Estatal será Centralizada y Paraestatal conforme a la Ley Orgánica que expida el Congreso de Baja California Sur, que distribuirá los negocios del orden administrativo de la entidad que estará a cargo de la Secretaría General de Gobierno, la Procuraduría General de Justicia, la Oficialía Mayor, la Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico, la Secretaría de Planeación Urbana, Infraestructura y Ecología, la Secretaría de Salud, la Secretaría de Educación Pública, la Coordinación de Programas de Bienestar Social, la Coordinación Estatal de Promoción al Turismo y la Unidad de Desarrollo Administrativo y Control Gubernamental, y definirá las bases para la creación de las entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
-
-Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
+80.- La Administración Pública de Baja California Sur, será Centralizada y Paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos de orden administrativo que estarán a cargo de las Secretarías del Despacho, Dependencias y demás organismos, y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
 
 > <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2002)</small>
 
@@ -1345,7 +1343,7 @@ La extensión y límites de las delegaciones y subdelegaciones serán determinad
 
 ### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
 
 122.- Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 
@@ -2448,3 +2446,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 14 DE JUNIO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 5 DE JULIO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
