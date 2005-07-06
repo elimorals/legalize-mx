@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-salud-del-estado-de-44019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-01"
-last_updated: "2005-03-01"
+last_updated: "2005-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2005.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 1 de marzo de 2005.
 
@@ -547,7 +547,9 @@ XV. Jurisdicción de Regulación Sanitaria Número Quince, con residencia en el 
 
 XVI. Jurisdicción de Regulación Sanitaria Número Dieciséis, con residencia en el municipio de San Mateo Atenco y comprende los municipios de Huixquilucan, Ocoyoacac, Otzolotepec, San Mateo Atenco, Temoaya y Xonacatlán.
 
-XVII. Jurisdicción de Regulación Sanitaria Número Diecisiete, con residencia en el Municipio de Zumpango y comprende los municipios de Apaxco, Huehuetoca, Hueypoxtla, Jaltenco, Nextlalpan, Tecámac, Tequixquiac y Zumpango.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 6 DE JULIO DE 2007)</small>
+
+XVII. Jurisdicción de Regulación Sanitaria Número Diecisiete, con residencia en el Municipio de Zumpango y comprende los municipios de Apaxco, Huehuetoca, Hueypoxtla, Jaltenco, Nextlalpan, Tecámac, Tequixquiac, Tonanitla y Zumpango.
 
 XVIII. Jurisdicción de Regulación Sanitaria Número Dieciocho, con residencia en el municipio de Teotihuacán y comprende los municipios de Acolman, Axapusco, Nopaltepec, Otumba, San Martín de las Pirámides, Temascalapa y Teotihuacán.
 
@@ -654,3 +656,9 @@ M. EN A. FRANCISCO BERTERAME BARQUIN
 DIRECTOR DE ADMINISTRACION DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO Y SECRETARIO DEL CONSEJO INTERNO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 6 DE JULIO DE 2005.
+
+UNICO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
