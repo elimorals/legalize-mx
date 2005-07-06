@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-cultura-recreacion-2956
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-19"
-last_updated: "2003-02-19"
+last_updated: "2005-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA, RECREACION Y DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2005.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 19 de febrero de 2003.
 
@@ -65,9 +65,11 @@ Al frente de la Subsecretaría y Coordinaciones habrá un titular que se auxilia
 
 El Manual de Organización y Procedimientos Administrativos, así como las demás disposiciones jurídicas aplicables, precisarán las estructuras orgánicas y las funciones de las unidades administrativas no previstas en este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2005)</small>
+
 ###### ARTÍCULO 6.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría contará con la siguiente estructura orgánica:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría, contará con la siguiente estructura orgánica:
 
 A. SECRETARÍA
 
@@ -99,7 +101,13 @@ V. Dirección de Formación Artística y Cultural
 
 VI. Dirección de la Red Estatal de Bibliotecas
 
-El Secretario contará además con las unidades administrativas que se creen por necesidades de servicio y que se autoricen en el presupuesto, mismas que tendrán las atribuciones que a cada una se les otorgue.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2005)</small>
+
+VII. Dirección Editorial y de Literatura
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2005)</small>
+
+El Secretario contará además con las unidades administrativas que se creen por necesidades del servicio y que se autoricen en el presupuesto, mismas que tendrán las atribuciones que a cada una se les otorgue.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -431,9 +439,13 @@ IX. Coadyuvar en la elaboración del Manual de Operación y Procedimientos Admin
 
 X. Elaborar y revisar los contratos, convenios, acuerdos, circulares, reglamentos y demás documentos legales en los que intervenga la Secretaría;
 
-XI. Tramitar los procedimientos que se sigan para la investigación y aplicación de sanciones administrativas a los servidores públicos que contravengan las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2005)</small>
 
-XII. Realizar los trámites necesarios en el procedimiento que se siga a los empleados que contravengan las disposiciones contempladas en la Ley de los Trabajadores al Servicio del Estado de Tabasco y en las Condiciones Generales de Trabajo;
+XI. Tramitar y en su caso resolver los procedimientos que se sigan para la investigación y aplicación de sanciones administrativas a los servidores públicos que contravengan las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2005)</small>
+
+XII. Realizar los trámites necesarios en el procedimiento que se siga a los empleados que contravengan las disposiciones contempladas en la Ley de los Trabajadores al Servicio del Estado de Tabasco y en las Condiciones Generales de Trabajo, así como emitir la determinación correspondiente en los asuntos de esa índole;
 
 XIII. Llevar el registro de los expedientes laborales, penales y administrativos en proceso;
 
@@ -455,9 +467,15 @@ III. Atender a las personas que acuden a la Subsecretaría en busca de informaci
 
 IV. Fungir como enlace de la Subsecretaría con las distintas Coordinaciones, Direcciones y Órganos sectorizados de la Secretaría;
 
-V. Recibir, analizar y distribuir la correspondencia del Subsecretario; y
+V. Recibir, analizar y distribuir la correspondencia del Subsecretario; y (sic)
 
-VI. Las demás que le asigne el Subsecretario y no contravengan las disposiciones del presente Reglamento.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2005)</small>
+
+VI. Brindar apoyo técnico en proyectos, documentos y asuntos que le asigne el Subsecretario;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2005)</small>
+
+VII. Las demás que le asigne el Subsecretario y no contravengan las disposiciones del presente Reglamento.
 
 ###### ARTÍCULO 21.
 
@@ -593,9 +611,15 @@ XVII. Administrar y registrar el control de los recursos humanos, materiales y f
 
 XVIII. Elaborar el anteproyecto del presupuesto de la dirección, así como gestionar la aplicación de los recursos;
 
-XIX. Elaborar y enviar a la Subsecretaría de Cultura y a la Coordinación de Planeación, Evaluación e Informática Sectorial, los programas de trabajo e informes mensuales, trimestrales y anual de las actividades realizadas en la formación artística; y
+XIX. Elaborar y enviar a la Subsecretaría de Cultura y a la Coordinación de Planeación, Evaluación e Informática Sectorial, los programas de trabajo e informes mensuales, trimestrales y anual de las actividades realizadas en la formación artística; y (sic)
 
-XX. Las demás que le asigne el Subsecretario y no contravengan las disposiciones del presente Reglamento.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2005)</small>
+
+XX. Controlar y dar seguimiento al calendario cívico, con el fin de celebrar los actos que, en ese sentido, realice el Gobierno del Estado en coordinación con la Secretaría de Educación y la Oficialía Mayor, efectuando las gestiones y tramites que se requieran para la realización de las ceremonias cívicas;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2005)</small>
+
+XXI. Las demás que le asigne el Subsecretario y no contravengan las disposiciones del presente Reglamento.
 
 ###### ARTÍCULO 25.
 
@@ -630,6 +654,26 @@ XIII. Elaborar el anteproyecto del presupuesto de la dirección, así como gesti
 XIV. Elaborar y enviar a la Subsecretaría de Cultura y a la Coordinación de Planeación, Evaluación e Informática Sectorial, los programas de trabajo e informes mensuales, trimestrales y anual de las actividades realizadas en las bibliotecas; y
 
 XV. Las demás que le asigne el Subsecretario y no contravengan las disposiciones del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2005)</small>
+
+ARTÍCULO 25 BIS.- Corresponde al Director Editorial y de Literatura el ejercicio de las siguientes atribuciones:
+
+I.- Recibir y revisar las obras que se pretendan editar y someterlas al Consejo Editorial para su dictamen.
+
+II.- Presidir el Consejo Editorial de la Secretaría.
+
+III.- Coordinarse con las otras áreas de la Secretaría para presentar al público los libros editados.
+
+IV.- Revisar antes de la etapa de impresión, las obras que se editen a través del Consejo Editorial.
+
+V.- Apoyar y asesorar en la revisión y corrección de estilo de obras, convocatorias y documentos a las áreas de la Secretaría que lo soliciten.
+
+VI.- Programar y coordinar otras actividades literarias como: certámenes literarios, presentaciones de libros, recitales, conferencias, mesas redondas y ferias de libros.
+
+VII.- Representar a la Secretaría en actividades que atañen a la Dirección, en los ámbitos local, regional y nacional.
+
+VIII.- Las demás que le asigne el Subsecretario de Cultura y el propio Titular de la Dependencia.
 
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -716,3 +760,11 @@ SECRETARIO DE GOBIERNO
 LIC. MAXIMO EVIA RAMIREZ
 
 SECRETARIO DE CULTURA, RECREACION Y DEPORTE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE JULIO DE 2005.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Tabasco.
+
+SEGUNDO. Los asuntos pendientes al entrar en vigor este Acuerdo, que conforme al mismo deban pasar de una Unidad Administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se le haya atribuido la competencia en el presente acuerdo.
