@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-03-29"
+last_updated: "2005-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+DECRETO POR EL QUE SE ESTABLECE UN ARANCEL-CUPO A LAS IMPORTACIONES ADICIONALES DE MAIZ AMARILLO DURANTE 2005, PARA LAS MERCANCIAS ORIGINARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en el Diario Oficial de la Federación, el 29 de marzo de 2005.
+Acuerdo publicado en el Diario Oficial de la Federación, el jueves 7 de julio de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III; 5o. fracción V; 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior; sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
+Que el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, publicada en el Diario Oficial de la Federación el 24 de noviembre de 2004, establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las Partes en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
 
-Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que la oferta nacional de maíz amarillo resulta insuficiente para el abasto competitivo para los sectores productivos del país, por lo que se hace necesario complementarla con importaciones, a fin de que las industrias que lo utilizan en sus procesos productivos tengan acceso a este insumo en condiciones competitivas;
 
-Que el mecanismo de asignación del cupo de leche en polvo, es un instrumento de la política sectorial para complementar el abasto doméstico;
+Que durante las consultas con organizaciones de productores e industriales consumidores de maíz y el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, se resolvió sobre la importancia de promover la competitividad de las cadenas de productos agrícolas, y
 
-Que el 23 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte;
+Que la Comisión de Comercio Exterior ha emitido opinión favorable respecto a la tasa arancelaria aplicable a la cuota adicional de maíz amarillo, he tenido a bien expedir el siguiente
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, establece en el artículo sexto transitorio inciso IV disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible el Acuerdo antes citado con la mencionada Ley, y
-
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+DECRETO
 
 ###### ARTICULO 1o.
 
@@ -78,9 +74,17 @@ El cupo para importar, en el periodo 1 de enero al 31 de diciembre de cada año,
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-Se modifican los artículos segundo, tercero, cuarto, sexto, séptimo y octavo; se deroga el artículo quinto; se adiciona el artículo octavo bis; y se modifica la hoja uno de requisitos del Acuerdo por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de diciembre de 2003, para quedar en los siguientes términos:
+De conformidad con el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, en caso de requerir importar maíz amarillo, por encima de la cuota mínima acordada en el Tratado de Libre Comercio de América del Norte para la importación de las mercancías originarias en el propio Tratado, clasificadas y comprendidas en la fracción arancelaria 1005.90.03, se sujetarán al arancel-cupo que a continuación se indica:
+
+CÓDIGO DESCRIPCIÓN Unidad AD-VALOREM
+
+IMP. EXP.
+
+1005.90.03 Maíz amarillo. Kg 1 No aplica
+
+Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
 
 ### CAPITULO I - DISPOSICIONES GENERALES
 
@@ -384,30 +388,8 @@ Las disposiciones del presente Decreto no liberan del cumplimiento de las restri
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2005.
 
-México, D.F., a 18 de marzo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+> <small>(F. DE E., D.O.F 12 DE JULIO DE 2005)</small>
 
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CONTINGENTE MINIMO PARA IMPORTAR LECHE EN POLVO EN 2005
-
-PARA EMPRESAS CON ANTECEDENTES DE ASIGNACION EN EL AÑO PREVIO (0402.10.01 Y 0402.21.01)
-
-ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA
-
-Asignación Directa 1/1
-
-(VEASE ARCHIVO ANEXO)
-
-(1) El auditor externo deberá firmar el reporte e indicar su número de registro, así como rubricar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de cupo de importación de leche en polvo OMC y/o TLCAN.
-
-(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
-
-(3) Se deberá utilizar el factor de conversión de 8.5 para leche en polvo entera; de 11.3 para leche en polvo descremada; de 6.5 para suero de leche; y de 3.5 para crema de leche.
-
-(4) En el caso de leche en polvo, crema y suero de leche de procedencia nacional, se deberá indicar el ganadero productor de leche fluida a partir de la cual se elaboró este insumo; de no presentar esta información el reporte, no se considerará como consumo de leche fluida, de conformidad con lo establecido en el articulo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005.
-
-NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de julio de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.
