@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2005-03-08"
+last_updated: "2005-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2393,13 +2393,17 @@ XVIII. Rebasar por la derecha;
 
 XIX. Cambiar de carril sin precaución; y
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
-XX. A la persona que conduzca un vehículo de motor en ciclo pistas, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en una jornada de trabajo de índole social, en materia de vialidad y tránsito, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas.
+XX. A la persona que conduzca un vehículo de motor en ciclo pistas, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en una jornada de trabajo de índole social, en materia de vialidad y tránsito, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
-XXI. Conducir vehículo de motor, haciendo uso de aparatos de telefonía móvil o similar, salvo que se utilicen aditamentos para manos libres.
+XXI. Conducir vehículo de motor, haciendo uso de aparatos de telefonía móvil o similar, salvo que se utilicen aditamentos para manos libres; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2005)</small>
+
+XXII. A los motociclistas que no respeten su carril de circulación, en contravención con las disposiciones de esta ley y su reglamento.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2968,3 +2972,7 @@ P.O. 8 DE MARZO DE 2005.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes, llevará a cabo todas las medidas necesarias a efecto de mantener actualizadas las bases de datos del Registro Estatal de los Servicios Públicos de Tránsito y Transporte, a efecto de eficientar la coordinación y flujo de información entre las diferentes dependencias del Ejecutivo Estatal así como de las municipales o federales que la requieran.
+
+P.O. 7 DE JULIO DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
