@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2004-10-07"
+last_updated: "2005-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -49,7 +49,9 @@ IV. Las obligaciones de las dependencias y entidades públicas, privadas y de la
 
 ° Son finalidades de la presente Ley:
 
-I. El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
+
+I. El bienestar físico y mental de la persona, para contribuir al ejercicio pleno de sus capacidades;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -65,7 +67,7 @@ V. El acceso a los servicios de salud que satisfagan eficaz y oportunamente, las
 
 VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y
 
-VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud.
+VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
 
@@ -103,9 +105,9 @@ IX. La educación para la salud;
 
 X. La orientación y vigilancia en materia de nutrición;
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
-XI. La prevención y el control de los efectos nocivos de los Factores ambientales en la salud del hombre;
+XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de la persona;
 
 XII. La salud ocupacional en los términos del Art. 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -619,9 +621,11 @@ La Secretaría de Salud Jalisco, en coordinación con las autoridades federales 
 
 La Secretaría de Salud Jalisco ejercerá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
 ###### Art. 37.
 
-El Gobierno del Estado, por conducto del Departamento de Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria, que permita prevenir, controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
+El Gobierno del Estado, por conducto de la Secretaría del Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria, que permita prevenir, controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona que los utiliza.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3279,11 +3283,11 @@ II. En caso de epidemia grave; y
 
 III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### Art. 237.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco, podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco (sic), podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades o que pongan en riesgo la salud de las personas, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3746,3 +3750,9 @@ P.O. 7 DE OCTUBRE DE 2004.
 DECRETO 20606 QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY ESTATAL DE SALUD
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE JULIO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad a lo previsto por el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
