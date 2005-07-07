@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-potable-y-alcantarillado-en-el-estado-de-durango-47
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-23"
-last_updated: "1987-12-31"
+last_updated: "2005-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AGUA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. EL 7 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 23 de agosto de 1981.
 
@@ -749,11 +751,11 @@ Las obras de distribución de agua potable y alcantarillado deberán construirse
 
 ###### Artículo 95.
 
-Cuando los volúmenes de agua provenientes de las fuentes de abastecimiento de la Junta Estatal de Agua Potable y Alcantarillado sean insuficientes para dotar a los nuevos fraccionamientos, los interesados deberán hacer por su cuenta las obras necesarias para el abastecimiento de agua al fraccionamiento que se pretenda construír.
+Cuando los volúmenes de agua provenientes de las fuentes de abastecimiento de la Junta Estatal de Agua Potable y Alcantarillado sean insuficientes para dotar a los nuevos fraccionamientos, los interesados deberán hacer por su cuenta las obras necesarias para el abastecimiento de agua al fraccionamiento que se pretenda construir.
 
 ###### Artículo 96.
 
-Cuando los colectores de aguas negras sean insuficientes para captar nuevas descargas, los interesados en construír nuevos fraccionamientos deberán construir por su cuenta las ampliaciones que sean necesarias.
+Cuando los colectores de aguas negras sean insuficientes para captar nuevas descargas, los interesados en construir nuevos fraccionamientos deberán construir por su cuenta las ampliaciones que sean necesarias.
 
 ###### Artículo 97.
 
@@ -964,3 +966,83 @@ P.O. 31 DE DICIEMBRE DE 1987.
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y adiciones.
+
+P.O. 7 DE JULIO DE 2005.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente, de su publicación en el Periódico Oficial del Estado de Durango.
+
+Con excepción de los (sic) previsto por el artículo 145 de esta Ley, el cual entrará en vigor, después de pasado un año, de haberse publicado este ordenamiento, a fin de que en ese tiempo los usuarios, poseedores y propietarios de predios que se encuentren en esas hipótesis, puedan regularizar su situación y adecuar las instalaciones en cada departamento, despacho, para ello las autoridades y organismos operadores municipales, intermunicipales, o en su caso la propia comisión, le promocionara (sic) los medios y las facilidades necesarias, a fin de que puedan cumplir en dicho tiempo las obligaciones que les impone dicha disposición.
+
+Artículo Segundo.- Se abroga la Ley de Agua Potable y Alcantarillado en el Estado de Durango, publicada en el Periódico Oficial del Gobierno del Estado numero 16 de fecha 23 de Agosto de 1981 y el decreto número 84 que reforma la citada Ley, Publicado en el Periódico Oficial del Gobierno del Estado, No. 53 bis, de fecha 31 de Diciembre 1987.
+
+Artículo Tercero.- Se abrogan los decretos de creación de los siguientes organismos descentralizado (sic) municipales, en un término de cuarenta y cinco días posteriores a la entrada en vigor del presente ordenamiento.
+
+1. Decreto 402, de Junio 23 de 1992, por medio del cual se crea un Organismo Público Descentralizado de Agua Potable y Alcantarillado del Municipio de Durango, con fecha de Publicación en el Periódico Oficial No. 15 de fecha 20 Agosto de 1992.
+
+2. Decreto 472, Agosto 28 de 1992, por medio del cual se crea un Organismo Público Descentralizado del Municipio de Mapimi, Durango, el que recibe el nombre de Sistema descentralizado de Agua Potable, Rancho Blanco Mapimi, bermejillo Durango, con fecha de Publicación en el Periódico Oficial de fecha 26 de Septiembre de 1992.
+
+3. Decreto 328 del 18 de diciembre de 1991, por medio del cual se crea un Organismo Público denominado Sistema descentralizado de Agua Potable y alcantarillado de (sic) municipio de Gómez Palacio, Durango, el cual fue publicado en el Periódico Oficial numero 09, de fecha 30 de enero 1992.
+
+4. Decreto 92, de fecha 4 de mayo de 1993, por medio del cual se crea un organismo denominado sistema descentralizado de Agua Potable del municipio de Cuencame, Durango, el cual fue publicado en el Periódico Oficial 41, de fecha 23 de mayo de 1993.
+
+5. Decreto 182, 28 de Septiembre de 1993, por medio del cual se crea un organismo público descentralizado del Ayuntamiento del municipio de Guadalupe Victoria, Durango denominado Sistema descentralizado de Agua Potable y Alcantarillado, el cual fue publicado en el Periódico Oficial numero 30, de fecha 10 de octubre de 1993.
+
+6. Decreto 181, de fecha 28 de septiembre de 193, por medio del cual se crea un organismo público descentralizado de Agua Potable del municipio de Vicente Guerrero, Durango, el cual fue publicado en el Periódico Oficial 30, de fecha 10 de Octubre de 1993.
+
+7. Decreto 292 del 13 de abril de 1994, por medio del cual se crea un organismo público descentralizado de Agua Potable y alcantarillado, Saneamiento del municipio de Rodeo, Durango, el cual fue publicado en el Periódico Oficial 35, de fecha 01 de mayo de 1994.
+
+8. Decreto 460 del 5 de abril de 1995, por medio del cual se crea un organismo público descentralizado de Agua Potable y alcantarillado del municipio de Santiago Papasquiaro, el cual fue publicado en el Periódico Oficial 32, de fecha 20 de abril de 1995.
+
+9. Decreto 308, del 11 de junio 1997, por medio del cual se crea un organismo público descentralizado de Agua Potable del Ayuntamiento del Municipio de Pueblo Nuevo, Durango y el cual fue publicado en el Periódico Oficial 47 del 12 de Junio de 1997.
+
+10. Decreto 334, 10 de septiembre de 1997, por medio de la cual se crea el organismo público descentralizado de Agua Potable, alcantarillado y saneamiento del Municipio Canatlan, Durango. Publicado en Periódico Oficial numero 22 del 14 de septiembre 1997.
+
+11. Decreto 336, 26 de septiembre 1997, por medio de la (sic) cual se crea el organismo público descentralizado de Agua Potable y Saneamiento de Panuco de Coronado, publicado en el Periódico Oficial numero 29 de fecha 09 de octubre de 1997.
+
+12. Decreto 348, de fecha 11 de noviembre de 1997, por medio de la (sic) cual se crea el organismo público descentralizado de Agua Potable, alcantarillado y Saneamiento del Municipio de Súchil, Durango y publicado en el Periódico Oficial numero 44 de fecha 30 de noviembre de 1997.
+
+13. Decreto 437, de fecha 15 de abril de 1998, por medio de la (sic) cual se crea el organismo público descentralizado de Agua Potable y alcantarillado del Municipio de Oro, Durango y publicado en el Periódico Oficial numero 35 de fecha 30 de abril de 1998.
+
+14. Decreto 490, de fecha 03 de junio de 1998, por medio de la (sic) cual se crea el organismo público descentralizado de Agua Potable y alcantarillado del Municipio de Tepehuanes, Durango y publicado en el Periódico Oficial numero 48 de fecha 14 de junio de 1998.
+
+15. Decreto 128 del 2 de junio de 1999, por medio del cual se crea un organismo público descentralizado de la administración pública municipal de Lerdo, el cual fue publicado en el Periódico Oficial 5, de fecha 15 de Julio de 1999.
+
+16. Decreto No. 409 del 29 de mayo de 2001, por medio del cual se crea un Sistema descentralizado de agua potable y alcantarillado del área rural del municipio de Gómez Palacio, Dgo., el cual fue publicado en el Periódico Oficial No. 46 de fecha 10 de junio de 2001.
+
+Los asuntos que se encuentren en trámite o en proceso en alguno de los organismos descentralizados municipales al momento en que surta efectos la abrogación prevista en este artículo, continuarán tramitándose hasta su resolución en los términos de los decretos abrogados y las demás disposiciones aplicables.
+
+Los Ayuntamientos, tendrán un plazo hasta de cuarenta cinco días, contados a partir de la fecha de entrada en vigor del presente decreto, para aprobar y expedir los acuerdos de creación de los organismos establecidos en las fracciones I, II y III del artículo 28 de la presente Ley.
+
+Los Ayuntamientos tendrán un plazo hasta de cuarenta cinco días, contados a partir de la fecha de entrada en vigor del presente decreto, para aprobar y expedir el reglamento interior de los organismos a que se refiere el párrafo anterior y el acuerdo de incorporación al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, mismo que habrá de notificar a la Comisión dentro de los cinco días hábiles siguientes a su aprobación.
+
+Artículo Cuarto.- Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+Artículo Quinto.- A partir de la entrada en vigor de la presente Ley, Junta Estatal de Agua Potable y Alcantarillado y sus organismos operadores, se transformará en la Comisión Estatal (sic) Agua y se sujetará a las disposiciones que se prevén en esta Ley, debiendo adecuar su estructura en un plazo de hasta cuarenta y cinco días naturales, contados a partir de la entrada en vigor de esta Ley.
+
+El Titular del Poder Ejecutivo, definirá la forma y términos de liquidación de la Junta Estatal de Agua Potable y Alcantarillado, atendiendo además lo dispuesto por el presente decreto.
+
+Los asuntos que se encuentren en trámite o en proceso en los que la Junta Estatal de Agua Potable y Alcantarillado, sean parte al entrar en vigor la presente Ley, continuarán tramitándose hasta su resolución en los términos de la Ley que se abroga y las demás disposiciones aplicables.
+
+Los bienes propiedad de la Junta Estatal de Agua Potable y Alcantarillado y sus organismos operadores, pasarán a formar parte del patrimonio de la Comisión Estatal del Agua.
+
+Los derechos y obligaciones contractuales, contraídos por las dependencias y los organismos operadores, cuya denominación se vea cambiada o modificada a consecuencia del presente Decreto, serán atribuidos a la dependencia que las sustituye.
+
+En el caso de que esta Ley establezca una denominación distinta a alguna dependencia cuyas atribuciones estén conferidas por leyes vigentes anteriores a la expedición del presente decreto, dichas atribuciones se entenderán concedidas a la dependencia que observe tales funciones en términos del presente Decreto.
+
+Artículo Sexto.- Los derechos y obligaciones contractuales, contraídos por las dependencias y los organismos operadores, cuya denominación se vea cambiada o modificada a consecuencia del presente Decreto, serán atribuidos a la dependencia que las sustituye.
+
+Artículo Séptimo.- Los integrantes del Consejo Consultivo de la Comisión Estatal del Agua serán propuestos por el Ejecutivo del Estado, en un plazo no mayor a 30 días posteriores a la Instalación de la Comisión del Agua del Estado de Durango.
+
+Artículo Octavo.- Los organismos o comités prestadores de los servicios públicos de agua potable, alcantarillado y saneamiento, a partir de la fecha de publicación de la presente Ley, deberán acatar las disposiciones que establece esta Ley.
+
+Artículo Noveno.- En la adecuación de la estructura de la Comisión del Agua del Estado de Durango y de los organismos operadores paramunicipales e intermunicipales, deberá respetarse la Ley de Entrega-Recepción del Estado.
+
+Artículo Décimo.- El Ejecutivo del Estado, expedirá el reglamento de la presente Ley, en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Primero.- La Comisión del Agua del Estado de Durango, dentro de los 45 días posteriores a su integración, deberá aprobar y expedir el Estatuto Orgánico a que se refiere esta Ley.
+
+Artículo Décimo Segundo.- El Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento del Estado, deberá estar funcionando a más tardar dentro de los 200 días posteriores a la entrada en vigor (sic) la presente Ley.
+
+Artículo Décimo Tercero.- En tanto se determinen las cuotas y tarifas por la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en los términos previstos en la presente Ley, los prestadores de estos servicios públicos continuarán aplicando las cuotas y tarifas que hasta esta fecha se aplican.
+
+Artículo Décimo Cuarto.- La Comisión deberá integrar al Comité a que hace mención el capítulo VI título Sexto de esta Ley, en un plazo no mayor a sesenta días a la entrada en vigor de esta Ley.
