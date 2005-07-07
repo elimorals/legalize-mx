@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2005-06-23"
+last_updated: "2005-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -703,17 +703,21 @@ Las obligaciones ante el fisco municipal y los créditos a favor de éste por im
 
 La prescripción del crédito principal extingue simultáneamente los recargos y gastos de ejecución.
 
-La prescripción se inicia, a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos, y será reconocida o declarada por la Tesorería Municipal, a petición de cualquier interesado.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
+La prescripción se inicia, a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos, y será reconocida o declarada por la Tesorería Municipal de oficio o a petición de cualquier interesado.
 
 ###### Art. 62.
 
 La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada o hecha saber al deudor; por el reconocimiento de éste, expreso o tácito, respecto de la existencia de la obligación de que se trate, de los requisitos señalados en este artículo deberá existir constancia por escrito.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
 ###### Art. 63.
 
-Los particulares podrán solicitar que se declare la prescripción de algún crédito fiscal a su cargo, o que se han extinguido las facultades de las autoridades para determinarlo o liquidarlo.
+La Tesorería Municipal de oficio podrá declarar o los particulares podrán solicitar que se declare la prescripción de algún crédito fiscal a su cargo, o que se han extinguido las facultades de las autoridades para determinarlo o liquidarlo.
 
-Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta Ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de lo Contencioso Administrativo.
+Para que la Tesorería Municipal pueda llevar a cabo la declaración de la prescripción de algún crédito deberá obrar constancia de que el contribuyente no haya podido ser requerido o no lo puedan localizar en el domicilio del giro.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
 
@@ -3215,9 +3219,9 @@ Unico. El presente Decreto entrará en vigor el día primero de enero de mil nov
 
 P.O. 29 DE JUNIO DE 1991.
 
-Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1.º de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
+Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1º. de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
 
-Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
+Artículo Segundo. El presente Decreto entrará en vigor el día 1º. primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
 
 P.O. 16 DE ENERO DE 1992.
 
@@ -3414,3 +3418,7 @@ SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá r
 P.O. 23 DE JUNIO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y tendrá efectos a partir del 11 de enero de 2005.
+
+P.O. 7 DE JULIO DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
