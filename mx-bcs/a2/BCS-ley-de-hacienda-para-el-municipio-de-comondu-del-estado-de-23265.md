@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2002-12-31"
+last_updated: "2005-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2005.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -201,7 +201,7 @@ Se considera vivienda de interés social aquella que su costo de adquisición no
 
 ###### Artículo 14.
 
-No se causara este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
+No se causara este impuesto en las adquisiciones de inmuebles del dominio publico de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
 
 ###### Artículo 15.
 
@@ -645,7 +645,7 @@ V. Los contratos en que se pacten prestaciones periódicas se valuarán en la su
 
 VI. En los casos no previstos expresamente en el artículo anterior los derechos por servicios que preste el registro público de comercio se causarán por asimilación de acuerdo con las fracciones relativas a casos con los que guarden semejanza; y
 
-VII. Se exceptúa del pago de derechos de inscripción en el registro público de comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas de la Secretaria de Educación Pública y que estén bajo su vigilancia.
+VII. Se exceptúa del pago de derechos de inscripción en el registro público de comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas de la Secretaría de Educación Pública y que estén bajo su vigilancia.
 
 ### CAPÍTULO SEGUNDO. SERVICIOS CATASTRALES
 
@@ -741,71 +741,77 @@ La prestación del servicio de agua potable, alcantarillado y saneamiento a que 
 
 I. Tarifas para el cobro del sistema de agua potable en el municipio de Comondú.
 
-a). Tarifas para aparatos medidores.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2005)</small>
+
+a). Tarifas para servicio medido.
 
 SERVICIO DOMÉSTICO
 
 Consumo mensual en metros cúbicos.
 
-Hasta 35 m3 cuota mínima 1 salario mínimo.
+Hasta 20 m3 cuota mínima 1 salario mínimo.
 
-Los metros que excedan de 35 m3, hasta 45 m3 5% del salario mínimo diario por cada m3.
+Los metros que excedan de 20 m3 hasta 30 m3 6.0% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 45 m3, hasta 55 m3 6.5% del salario mínimo diario por cada m3.
+Los metros que excedan de 30 m3 hasta 40 m3 6.1% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 55 m3, hasta 65 m3 8.5% del salario mínimo diario por cada m3.
+Los metros que excedan de 40 m3 hasta 50 m3 6.3% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 65 m3, hasta 95 m3 10.5% del salario mínimo diario por cada m3
+Los metros que excedan de 50 m3 hasta 80 m3 7.5% del salario Mínimo, diario por cada m3.
 
-Cada metro que exceda de 95 m3 12% del salario mínimo diario por cada m3.
+Los metros que excedan de 80 m3 9.0% del salario Mínimo, diario por cada m3.
 
-SERVICIO COMERCIAL CONSUMO MENSUAL EN METROS CÚBICOS.
+SERVICIO COMERCIAL
 
-hasta 35 m3 cuota mínima 2 días del salario mínimo
+CONSUMO MENSUAL EN METROS CÚBICOS.
 
-Los metros que excedan de 35 m3 hasta 45 m3 8.5% del salario mínimo diario por cada m3.
+hasta 20 m3 cuota mínima 1.47 días del salario mínimo
 
-Los metros que excedan de 45 m3 hasta 55 m3 10.5% del salario mínimo diario por cada m3.
+Los metros que excedan de 20 m3 hasta 30 m3 8.08% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 55 m3, hasta 65 m3 12.5% del salario mínimo diario por cada m3.
+Los metros que excedan de 30 m3 hasta 40 m3 8.87% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 65 m3, hasta 75 m3 14.5% del salario mínimo por cada m3.
+Los metros que excedan de 40 m3 hasta 50 m3 9.76% del salario Mínimo, diario por cada m3.
 
-Cada metro que exceda de 75 m3 20% del salario mínimo diario por cada m3.
+Los metros que excedan de 50 m3 hasta 60 m3 11.22% del salario Mínimo, diario por cada m3.
+
+Los metros que excedan de 60 m3 19.54% del salario Mínimo, diario por cada m3.
 
 SERVICIO INDUSTRIAL Y TURISTICO
 
 CONSUMO MENSUAL EN METROS CUBICOS
 
-Hasta 50 m3 cuota mínima 6 días de salario diario.
+Hasta 50 m3 cuota mínima 6 días de salario mínimo diario.
 
-Los metros que excedan de 50 m3 hasta 100 m3 11% del salario mínimo diario por cada m3.
+Los metros que excedan de 50 m3 hasta 100 m3 11% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 100 m3, hasta 125 m3 13.2% del salario mínimo diario por cada m3.
+Los metros que excedan de 100 m3 hasta 125 m3 13.2% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 125 m3, hasta 150 m3 16.5% del salario mínimo diario por cada m3.
+Los metros que excedan de 125 m3 hasta 150 m3 16.5% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 150 m3, hasta 250 m3 21.5% del salario mínimo diario por cada m3.
+Los metros que excedan de 150 m3 hasta 250 m3 21.5% del salario Mínimo, diario por cada m3.
 
-Los metros que excedan de 250 m3, hasta 500 m3 el 24.6% del salario mínimo diario
+Los metros que excedan de 250 m3 hasta 500 m3 el 24.6% del salario Mínimo, diario por cada m3.
 
-Cada metro que exceda de 500 m3 25% del salario mínimo diario por cada m3.
+Los metros que exceda de 500 m3 27.5% del salario Mínimo, diario por cada m3.
 
 Esta tarifa será igualmente aplicada a buques cisternas y demás embarcaciones marinas.
 
-a). Tarifa cuando no existan medidores.
+a).- Tarifa cuando no existan medidores.
 
-Consumo mensual únicamente en servicio doméstico 1 día salario mínimo.
+Consumo mensual únicamente en servicio doméstico 1.5 días salario mínimo.
 
-b). El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
+b).- El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
 
 #### SECCION II (SIC). ALCANTARILLADO
 
-II. El usuario del servicio de alcantarillado estará obligado a pagar de la siguiente manera:
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2005)</small>
 
-a). Se cubrirá el 20% para el uso domestico y comercial y el 30% para el uso industrial, del valor del consumo de agua potable.
+II.- El usuario del servicio de alcantarillado estará obligado a pagar de la siguiente manera:
 
-b). El usuario pagará los accesorios, materiales y trabajos extraordinarios por la conexión del servicio de alcantarillado
+a).- Se cubrirá el 30% para el uso doméstico y comercial y el 35% para el uso industrial, del valor del consumo de agua potable.
+
+b).- El usuario pagará los accesorios, materiales y trabajos extraordinarios por la conexión del servicio de alcantarillado
 
 ###### Artículo 48.
 
@@ -923,7 +929,7 @@ II. En los casos de la construcción de banquetas y guarniciones, los derechos s
 
 III. Cuando se trate de pavimentos, los derechos serán causados en la siguiente forma:
 
-a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía publica que se pavimente.
+a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente.
 
 El monto de los derechos se determinara multiplicando la cuota unitaria que corresponda, atendiendo el costo del pavimento construido por el numero de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del arroyo y el producto por el numero de metros lineales del frente de cada predio.
 
@@ -1403,23 +1409,27 @@ En caso de que les sean presentadas hojas sin los requisitos indicados en el art
 
 Por la ocupación de la vía pública o de otros bienes de uso común será pagada una renta de acuerdo a la siguiente.
 
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2005)</small>
+
 TARIFA
 
 I. Automóviles de sitio o taxis por metro lineal anualmente 1 día salario mínimo.
 
-II. Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 50% día salario mínimo.
+II. Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 0.5 día salario mínimo.
 
 III. Estacionamientos exclusivos para uso comercial anual por metro lineal 3 días salario mínimo
 
-IV. Por estacionarse en las calles dotadas de estacionómetros de las 8.00 a las 20.00 horas diariamente a excepción de los domingos y días feriados o festivos, por cada hora $ 3.00
+IV. (DEROGADA, B.O. 10 DE JULIO DE 2005)
 
-V. Por instalaciones aéreas por cada 10 metros lineales 1 día salario mínimo.
+V. Por instalaciones aéreas por cada 10 metros lineales anualmente 1 día salario mínimo.
 
-VI. Por instalaciones subterráneas por cada 10 metros lineales 1 día de salario mínimo.
+VI. Por instalaciones subterráneas por cada 10 metros lineales anualmente 1 día de salario mínimo.
 
-VII. Por instalaciones de registros, cajas de válvulas y otras estructuras 3 días salario mínimo.
+VII. Por instalaciones de registros, cajas de válvulas y otras estructuras anualmente 3 días salario mínimo por cada uno.
 
-VIII. Por postes de madera, metal, concreto o cualquier otro material que sean soportadores de líneas conductoras de energía o señales de cualquier índole 0.4 % por cada uno.
+VIII. Por postes de madera, metal, concreto o cualquier otro material que sean soportadores de líneas conductoras de energía o señales de cualquier índole anualmente 0.4 día salario mínimo, por cada uno.
+
+El pago se realizará anticipadamente en los meses de enero y febrero de cada año, con excepción de la fracción IV. En el caso de nuevos contribuyentes, nuevas ocupaciones de la vía pública, o que por cualquier causa se haga exigible el cobro correspondiente, se pagará únicamente la proporción anual que corresponda.
 
 ###### Artículo 98.
 
@@ -1552,6 +1562,280 @@ El plazo para su cómputo no comenzará a correr si el causante no conoce por ra
 ###### Artículo 116.
 
 Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2005)</small>
+
+Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito, y demás disposiciones vigentes en el Municipio de Comondú, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
+
+No. CONCEPTO ART. SAL. MIN.
+
+1 MANEJAR SIN LICENCIA 60 6
+
+2 PERMIRIT MANEJAR SIN
+
+LICENCIA 76 2
+
+3 CARECER DE
+
+DOCUMENTACION
+
+LEGAL 05 6
+
+Y16
+
+4 MANEJAR EN ESTADO
+
+DE EBRIEDAD 1º, 2º Y 3º 103 15-
+
+16/20/50
+
+5 MANEJAR EN EXCESO
+
+DE VELOCIDAD 149 15
+
+6 MANEJAR A MAYOR
+
+VELOCIDAD PERMITIDA 149 15
+
+7 MANEJAR A MAS DE 15
+
+KM. EN ZONA ESCOLAR 113 10
+
+8 NEGARSE A PRESENTAR
+
+DOCUMENTACIÓN 7
+
+9 NO OBEDECER
+
+INDICACIONES DEL
+
+AGENTE DE SEGURIDAD 10
+
+10 RECURRIR A LA FUGA 20
+
+11 FALTA O AMENAZAS
+
+AL AGENTE DE SEGURIDAD 8
+
+12 CAUSAR ACCIDENTES
+
+CON DAÑOS MATERIALES 132 10
+
+Y
+
+143
+
+13 CAUSAR ACCIDENTES
+
+CON DAÑOS PERSONALES 143 10
+
+14 PRESTAR SERVICIO
+
+SIN AUTPRIZACION 19 6
+
+15 CIRCULAR FUERA DE
+
+LA RUTA 19 6
+
+16 RECURRIR A LA MISMA
+
+INFRACCIÓN
+
+17 MAL ESTADO 112 3
+
+18 ESTACIONAMIENTO
+
+EXCLUSIVO 161 5
+
+19 ESTACIONAMIENTO EN
+
+ZONA PROHIBIDA 161 5
+
+20 TRANSPORTAR PASAJEROS
+
+EN LUGAR DE CARGA 130 6
+
+21 CORTAR UN CORTEJO
+
+FÚNEBRE 141 5
+
+Y
+
+150
+
+22 ESTACIONARSE EN
+
+DOBLE FILA 5
+
+23 VEHÍCULO ABANDONADO
+
+EN VÍA PÚBLICA MÁS DE
+
+24 HRS. 142 5
+
+24 NO CEDER EL PASO
+
+AL PEATON 133 3
+
+Y
+
+134
+
+25 NO CEDER EL PASO
+
+A VEHÍCULO
+
+PREFERENTE 116 4
+
+Y
+
+135
+
+26 PASARSE EL ALTO
+
+DEL SEMÁFORO 87 6
+
+27 PASARSE EL ALTO
+
+DEL AGENTE 86 4
+
+28 ADELANTAR EL
+
+VEHÍCULO EN BOCACALLE 135 3
+
+Y
+
+136
+
+29 FALTA DE LUCES
+
+DELANTERAS 90 3
+
+30 FALTA DE LUCES
+
+TRASERAS 90 3
+
+31 TRANSITAR CON
+
+LUCES ALTAS 90 3
+
+32 FALTA DE RAZON
+
+SOCIAL 35 3
+
+Y 2
+
+33 CIRCULAR EN
+
+SENTIDO CONTRARIO 104 5
+
+34 DARTE VUELTA EN
+
+“U” PROHIBIDA 109 4
+
+35 FALTA DE PRECAUCION
+
+AL MANEJAR 103 5
+
+36 FALTA DE TARJETA
+
+DE CIRCULACION 16 3
+
+37 TRANSITAR SIN PLACAS 16 10
+
+38 TRANSITAR CON PLACAS
+
+VENCIDAS 16 10
+
+39 TRANSITAR CON PLACAS
+
+SOBREPUESTAS 16 25
+
+40 USO INDEBIDO DE LAS
+
+PLACAS DEMOSTRADORAS 21 12
+
+41 EXCESO DE PASAJE 16 3
+
+42 NO CEDER EL PASO A
+
+VEHÍCULOS DE POLICIA,
+
+BOMBEROS O AMBULANCIA
+
+CON TORRETA ENCENDIDA 123 15
+
+43 PRACTICAR ARRANCONES
+
+SIN AUTORIZACIÓN 149 25
+
+44 FALTA DE CINTILLA EN
+
+LUGAR VISIBLE 16 3
+
+Y 2
+
+45 ESTACIONAR CAMIONES DE
+
+CARGA, CARROTANQUE Y
+
+VOLTEO SOBRE ELBLVD.
+
+OLACHEA DURANTE LA
+
+NOCHE 161 6
+
+46 ESCAPE RUIDOSO 151 3
+
+47 INGERIR BEBIDAS
+
+ENBRIAGANTES DURANTE
+
+DURANTE LA CONDUCCIÓN
+
+DELVEHÍCULO
+
+ASÍ COMO PERMITIR
+
+INGERIR DICHAS
+
+BEBIDAS A SUS
+
+ACOMPAÑANTES 103 20
+
+48 FALTA DE RESELLO EN
+
+LA LICENCIA 61 2
+
+49 CONDUCIR CON
+
+MENORES EN LOS BRAZOS 103 2
+
+50 CONDUCIR MOTOCICLETA
+
+O TRICIMOTO S/CASCO
+
+PROTECTOR 103 3
+
+51 OBSTRUIR RAMPA O
+
+LUGAR DESTINADO
+
+P/DISCAPACITADOS 161 3
+
+52 TRANSPORTAR PASAJE
+
+EN AUTOBÚS EN ESTADO
+
+EBRIEDAD O DROGADO 103 80
+
+53 NO PROTEGER CON
+
+LONA LA CARGA 103 3
+
+54 CONDUCIR SIN PONERSE
+
+EL CINTURÓN DE SEGURIDAD BIS 3
 
 ### CAPÍTULO CUARTO. REZAGOS
 
@@ -1741,7 +2025,7 @@ Para efectos de lo dispuesto en este capítulo, se considerarán sujetos benefic
 
 ###### Artículo 142.
 
-La tesorería municipal expedirá los certificados de promoción fiscal de que gozará los sujetos beneficiarios, de conformidad a la resolución que emita la comisión dictaminadora a que se refiere la Ley de Fomento Económico del Estado.
+La tesorería municipal expedirá los certificados de promoción fiscal de que gozará (sic) los sujetos beneficiarios, de conformidad a la resolución que emita la comisión dictaminadora a que se refiere la Ley de Fomento Económico del Estado.
 
 ## TRANSITORIOS
 
@@ -1790,3 +2074,7 @@ B.O. 31 DE DICIEMBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
