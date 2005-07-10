@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transito-terrestre-del-estado-y-municipios-de-baja-44507
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2005-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -333,9 +333,11 @@ Los demás vidrios de vehículo podrán ser obscurecidos con un polarizado medio
 
 Corresponde a la Autoridad Municipal a través de la Oficina de Tránsito Municipal correspondiente, la expedición de las placas, engomados, tarjeta de circulación y permisos provisionales.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2005)</small>
+
 ###### ARTÍCULO 25.
 
-Las placas y tarjeta de circulación se clasifican atendiendo al tipo de servicio que preste el vehículo para el que se expidan y contendrán los datos y características que establezca el Ayuntamiento respectivo, conforme a la fracción I del Artículo 20 de esta Ley.
+Las placas metálicas y tarjetas de circulación se clasifican atendiendo al tipo de servicio que preste el vehículo para que se expidan y contendrán los datos y características que establezca el Ayuntamiento respectivo, conforme a la fracción I del artículo 20 de esta Ley, debiendo contener únicamente el escudo oficial del gobierno del estado, quedando prohibido el uso de cualquier expresión que haga alusión o identifique a algún partido, asociación política o culto religioso.
 
 ###### ARTÍCULO 26.
 
@@ -370,6 +372,10 @@ VII. Las demás que disponga esta Ley y sus Reglamentos.
 ###### ARTÍCULO 28.
 
 Cualquier extravío de las placas o tarjeta de circulación deberá notificarse a la autoridad que la expidió durante los 30 días siguientes, con el objeto de que se reponga, previo pago de los derechos por reposición que se paguen, sirviendo tal notificación para amparar la circulación del vehículo durante el trámite de la misma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE JULIO DE 2005)</small>
+
+Las placas metálicas que se expidan para la circulación de vehículos tendrán el carácter de PERMANENTES. Las leyes fiscales municipales respectivas determinarán la cuantía de los derechos por concepto de placas metálicas de circulación, expedición de licencias para conducir, certificaciones de revisión electromagnética, permisos para circular sin placas y establecimientos exclusivos y públicos.
 
 ###### ARTÍCULO 29.
 
@@ -886,3 +892,23 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los municipios del Estado a través de sus ayuntamientos, cuentan con un plazo de noventa días hábiles para llevar a cabo la dotación de las nuevas placas del parque vehicular que circula en su territorio.
+
+###### ARTICULO TERCERO.
+
+Los municipios del Estado a través de sus ayuntamientos deberán convenir con el Gobierno del Estado, la expedición de placas metálicas con características únicas para todos los vehículos clasificados en la fracción I del artículo 20 de esta ley, que circulen en el territorio estatal.
+
+###### ARTICULO CUARTO.
+
+Las placas para la circulación vehicular que fueron dotadas con anterioridad a esta reforma, estarán vigentes en tanto los ayuntamientos cumplen con lo dispuesto en el artículo 25 de la ley y en el transitorio segundo del presente Decreto.
