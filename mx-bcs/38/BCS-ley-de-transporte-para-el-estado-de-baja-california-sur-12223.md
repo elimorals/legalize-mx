@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2005-05-16"
+last_updated: "2005-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2005.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -211,7 +211,11 @@ IV. En su caso por un vocal representante común de las Asociaciones a que se re
 
 V. Por un vocal representante del sector privado; y
 
-VI. Por un vocal representante de los usuarios.
+VI. Por un vocal representante de los usuarios;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2005)</small>
+
+VII. Un integrante de la Dirección de Transporte en el Estado y un integrante de la Comisión Permanente de Comunicaciones y Transportes del Congreso del Estado de Baja California Sur.
 
 Por cada miembro propietario se nombrará un suplente, en los términos que establezca el Reglamento de la presente Ley.
 
@@ -1064,3 +1068,7 @@ B.O. 16 DE MAYO DE 2005.
 ###### ARTICULO ÚNICO
 
 - El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
