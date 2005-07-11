@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2004-12-15"
+last_updated: "2005-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2005.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -243,7 +243,9 @@ d) El otorgamiento de reconocimientos y estímulos cívicos; y
 
 e) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
-VIII.- TRABAJO Y PREVISIÓN SOCIAL:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2005)</small>
+
+VIII.- TRABAJO, COMPETITIVIDAD Y PREVISIÓN SOCIAL:
 
 a) Los ordenamientos de previsión y seguridad social;
 
@@ -731,7 +733,7 @@ I.- Lista de asistencia;
 
 II.- Declaratoria de quórum legal;
 
-III.- Lectura del acta de la Sesión anterior;
+III.-Lectura del acta de la Sesión anterior;
 
 IV.- Lectura de los asuntos existentes en cartera, que no requieran del acuerdo del Pleno y sean tramitados únicamente por el Presidente;
 
@@ -1233,7 +1235,7 @@ XIII.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Esta
 
 ###### ARTÍCULO 145.
 
-La Dirección General de Apoyo Parlamentario, Vinculación Institucional e Informática Legislativa, contará con las siguientes Coordinaciones:
+La Dirección General de Apoyo Parlamentario, Vinculación Institucional e Informática Legislativa, contará con las siguientes Coordinaciones;
 
 I.- Vinculación Institucional y Logística; y
 
@@ -1994,3 +1996,21 @@ De los asuntos que se encuentran en trámite en la Comisión de Salud y Grupos c
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La integración de la Comisión General de Trabajo, Competitividad y Previsión Social, será la misma que tiene actualmente la Comisión de Trabajo y Previsión Social.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos turnados a la Comisión General de Trabajo y Previsión Social, seguirán siendo tramitados por la Comisión General de Trabajo, Competitividad y Previsión Social.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente ordenamiento.
