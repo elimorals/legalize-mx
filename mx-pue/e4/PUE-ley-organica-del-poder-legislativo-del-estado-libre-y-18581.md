@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2004-12-15"
+last_updated: "2005-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -455,11 +455,11 @@ III.- Acto continuo, el Presidente de la Comisión Instaladora exhortará a los 
 
 IV.- Realizada la elección de la primera Mesa Directiva de la Legislatura entrante, conforme a los correspondientes resultados que serán anunciados por los Secretarios de la Comisión Instaladora, el Presidente de ésta invitará a los recién nombrados a que tomen lugar en el presídium. Antes de retirarse, hará la entrega por inventario de la totalidad de los documentos que obren en su poder y declarará concluidas sus funciones;
 
-V.- El Presidente de la primera Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirá:
+V.- El Presidente de la primera Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirá;
 
 "Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado de la (número) Legislatura de esta Cámara de Diputados que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciere, que el Estado y la Nación me lo demanden";
 
-VI.- Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás miembros de la Legislatura, quienes permanecerán de pie: ¿Protestáis sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa?. Los interrogados deberán contestar: "Sí, Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y la Nación os lo demanden".
+VI.- Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás miembros de la Legislatura, quienes permanecerán de pie: ¿Protestáis sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa?. Los interrogados deberán contestar: "Sí, Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y la Nación os lo demanden";
 
 Igual protesta están obligados a otorgar cada uno de los Diputados propietarios que se presenten después de la instalación;
 
@@ -869,7 +869,9 @@ VI.- Salud y Grupos con Capacidad Diferenciada;
 
 VII.- Educación, Cultura y Deporte;
 
-VIII.- Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2005)</small>
+
+VIII.- Trabajo, Competitividad y Previsión Social;
 
 IX.- Derechos Humanos;
 
@@ -1430,3 +1432,21 @@ De los asuntos que se encuentran en trámite en la Comisión de Salud y Grupos c
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La integración de la Comisión General de Trabajo, Competitividad y Previsión Social, será la misma que tiene actualmente la Comisión de Trabajo y Previsión Social.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos turnados a la Comisión General de Trabajo y Previsión Social, seguirán siendo tramitados por la Comisión General de Trabajo, Competitividad y Previsión Social.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente ordenamiento.
