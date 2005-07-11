@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2004-10-07"
+last_updated: "2005-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2005.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -765,7 +765,7 @@ d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El infor
 
 e). Que la creación del nuevo municipio sea aprobada por las dos terceras partes de los miembros del Congreso.
 
-XIII. Para suprimir aquellos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
+XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
 
 Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
 
@@ -817,9 +817,9 @@ XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos q
 
 XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos, así como las modificaciones a dichos presupuestos.
 
-> <small>(ADICIONADA, B.O. 10 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, B.O.11 DE JULIO DE 2005)</small>
 
-XXIV Bis. Para revisar los estados financieros a que se refiere el Artículo 136 Fracción XXIII de esta Constitución, pudiendo ordenar visitas e inspecciones, practicar auditorias, solicitar informes y, en general, recabar los elementos de información necesarios para cumplir con sus funciones.
+XXIV Bis. Para legislar sobre la organización del Instituto Superior de Auditoría y Fiscalización y, en general, expedir las leyes que normen la gestión, control y evaluación de los Poderes del Estado, de los organismos constitucionalmente autónomos, de los Ayuntamientos y de los entes públicos estatales y municipales.
 
 > <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -847,13 +847,13 @@ XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos,
 
 La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
-> <small>(REFORMADA, B.O. 10 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, B.O.11 DE JULIO DE 2005)</small>
 
-XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su Contaduría Mayor de Hacienda.
+XXXII. Para nombrar y remover, conforme a esta Constitución y a las leyes, a sus funcionarios y empleados, excluidos los del Instituto Superior de Auditoría y Fiscalización que serán nombrados por el titular de esta oficina.
 
-> <small>(ADICIONADA, B.O. 10 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, B.O.11 DE JULIO DE 2005)</small>
 
-XXXII Bis. Para vigilar, por medio de una comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor de Hacienda.
+XXXII Bis. Para coordinar, vigilar y evaluar el desempeño de las funciones del Instituto Superior de Auditoría y Fiscalización, sin perjuicio de su autonomía técnica y de gestión que deberá ser reconocida y respetada por todas las leyes secundarias, por medio de una Comisión de su seno en los términos que se establezcan en la legislación de la materia.
 
 XXXIII. Para investir al Ejecutivo de facultades extraordinarias, por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades con que se le invista y que nunca podrá ser las de organización municipal, funciones electorales y de jurado.
 
@@ -965,15 +965,63 @@ VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su e
 
 IX. Conceder permiso provisional al Gobernador del Estado a fin de que pueda asumir el mando inmediato y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado. Este permiso quedará sujeto a la aprobación del Congreso.
 
-X. Las demás que expresamente le confiere esta Constitución.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O.11 DE JULIO DE 2005)</small>
+
+X. Convocar al Congreso a sesiones extraordinarias cuando el Ejecutivo lo solicite.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O.11 DE JULIO DE 2005)</small>
+
+XI. Las demás que expresamente le confiere esta Constitución.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2005)</small>
+
+#### SECCION VII.
+
+Del Instituto Superior de Auditoría y Fiscalización.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+
+### CAPITULO III.
+
+Poder Ejecutivo.
 
 #### SECCION I.
 
 Elección y Funcionamiento.
 
-### CAPITULO III.
+###### Artículo 67.
 
-Poder Ejecutivo.
+El Instituto Superior de Auditoria y Fiscalización se constituye como un órgano con autonomía técnica y de gestión encargado de la revisión y fiscalización de los estados financieros y cuentas públicas estatal y municipales, con atribuciones para decidir sobre su organización interna y funcionamiento según lo disponga la ley.
+
+Para el señalado efecto, serán atribuciones específicas del Instituto Superior de Auditoria y Fiscalización:
+
+A) Revisar los estados financieros trimestrales de los municipios y del Ejecutivo del Estado, que para dicho particular deberán presentarse por los referidos niveles de gobierno, para el exclusivo efecto de formular observaciones si las hay y, en su caso, darles seguimiento, con la finalidad de colaborar con las autoridades administrativas en el cumplimiento de las disposiciones relativas al manejo de fondos públicos.
+
+B) Revisar anualmente las cuentas públicas del año inmediato anterior que deberán presentar los tres poderes del Estado y los municipios.
+
+C) Revisar anualmente las cuentas públicas del año inmediato anterior correspondientes a los organismos constitucionalmente autónomos, quienes deberán presentarlas auditadas por despacho externo de contadores designado por el propio organismo.
+
+D) Fiscalizar los ingresos y egresos, así como el manejo, custodia y aplicación de los recursos públicos de los poderes del Estado y de los Ayuntamientos, incluidos todos los entes, organismos, entidades, dependencias, fideicomisos, fondos y cualesquier otra oficina de cualquier naturaleza que de cualquier modo dependa o forme parte de las entidades estatal o municipales, e igualmente los recursos públicos ejercidos por particulares, incluyéndose para dicho efecto las atribuciones necesarias para verificar que los ejercicios correspondientes se encuentren ajustados a los criterios, los planes y los programas especificados en los presupuestos respectivos.
+
+E) Entregar al pleno del Congreso, por conducto de la Comisión referida en la fracción XXXII Bis del artículo 64 de esta Constitución, los resultados de la revisión de las cuentas públicas a más tardar el 30 de agosto del año de su presentación, incluyéndose en dicha entrega los dictámenes de la revisión, un apartado correspondiente a la verificación del cumplimiento de los objetivos de los programas y demás información que determinen las leyes secundarias.
+
+F) Investigar los actos u omisiones relativos a irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, pudiendo, para este efecto, realizar todas las diligencias que resulten conducentes; incluyéndose visitas domiciliarias a particulares que hubiesen fungido como proveedores de bienes o servicios a la autoridad estatal o municipal, con el exclusivo propósito de compulsar las transacciones correspondientes y la documentación que las sustente, en los términos y con las formalidades previstas para los cateos.
+
+G) Determinar y ejecutar las medidas conducentes a la recuperación de los daños y perjuicios que afecten al erario por el ejercicio indebido o equivocado de recursos públicos, fincando directamente a los responsables las indemnizaciones correspondientes y, en su caso, denunciar ante las autoridades competentes las responsabilidades administrativas y el o los delitos que presumiblemente aparezcan cometidos; de todo lo cual informará al pleno del Congreso por conducto de la Comisión referida en la fracción XXXII Bis del artículo 64 de esta Constitución.
+
+H) Ejercer las atribuciones referidas en los apartados D, F y G con respecto a los ejercicios presupuestales de los organismos constitucionalmente autónomos solamente en los casos en que, a propuesta de la Comisión referida en la fracción XXXII Bis del artículo 64 de esta Constitución, lo determine el pleno del Congreso por votación calificada de dos tercios de los diputados presentes en la sesión.
+
+El Instituto Superior de Auditoria y Fiscalización estará dirigido por un Auditor Mayor y dos auditores adjuntos que serán designados, según el procedimiento que se establezca en la ley secundaria, el primero por votación de dos tercios de los diputados del Congreso presentes en la sesión y los otros dos, a propuesta del Auditor Mayor, por mayoría simple del propio Congreso.
+
+La ley definirá formas alternativas de designación del Auditor Mayor del Instituto Superior de Auditoría y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el cargo de quien haya ejercido la función en el período que concluye.
+
+El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y Fiscalización durarán en su encargo un periodo de cuatro años y podrán ser designados para dos períodos adicionales de igual duración. Dichos funcionarios sólo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
+
+La ley especificará los requisitos que deberán reunir para su nombramiento el Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización, así como las atribuciones que les correspondan.
+
+Ni el Auditor Mayor ni los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización podrán formar parte, durante el ejercicio de sus encargos, de partido o asociación política algunos, ni desempeñar empleo, cargo o comisión distintos, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Tanto las oficinas públicas estatales y municipales como los particulares que ejerzan o hayan ejercido recursos públicos, deberán coadyuvar en lo que resulte legalmente necesario para el buen ejercicio de las funciones del Instituto Superior de Auditoria y Fiscalización.
 
 #### SECCION II.
 
@@ -981,21 +1029,11 @@ Hacienda del Estado.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### Artículo 67.
-
-La Diputación Permanente convocará al Congreso a sesiones extraordinarias siempre que el Ejecutivo lo solicite.
-
 #### SECCION III.
 
 Instrucción Pública.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
-
-#### SECCION IV.
-
-Ministerio Público.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO IV.
 
@@ -1003,11 +1041,11 @@ Poder Judicial.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
-#### SECCION V.
+#### SECCION IV.
 
-Defensoría de Oficio.
+Ministerio Público.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 68.
 
@@ -1301,11 +1339,11 @@ Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que susc
 
 Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
-#### SECCION I.
+#### SECCION V.
 
-Disposiciones Generales.
+Defensoría de Oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 83.
 
@@ -2960,6 +2998,26 @@ LEY No. 79, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCION.
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los Ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE JULIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley por, cuando menos, la mitad más uno de los ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los bienes de la naturaleza que fueren y los recursos presupuestales y sus productos que se encuentren asignados o sean propiedad de la Contaduría Mayor de Hacienda del Congreso del Estado, así como sus expedientes, archivos, información almacenada electrónicamente y documentos en general, igual que los derechos y obligaciones que se derivan para dicha oficina de resoluciones, convenios, contratos y actos jurídicos en general, le pertenecerán o se entenderá asignados, según sea el caso, desde que esta Ley entre en vigor, al Instituto Superior de Auditoria y Fiscalización.
+
+###### ARTICULO TERCERO.
+
+Las referencias de otras disposiciones legales y reglamentarias o administrativas, así como las que aparezcan en resoluciones, convenios, contratos y actos jurídicos en general, a la Contaduría Mayor de Hacienda del Congreso, se entenderán hechas al Instituto Superior de Auditoria y Fiscalización, sin necesidad de modificaciones o reformas especiales.
+
+###### ARTICULO CUARTO.
+
+El Congreso del Estado expedirá la legislación secundaria que corresponda a estas disposiciones constitucionales dentro de un plazo no mayor a seis meses contado desde la fecha en que entre en vigor la presente Ley.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
