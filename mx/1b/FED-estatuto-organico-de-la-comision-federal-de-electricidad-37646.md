@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2004-06-17"
+last_updated: "2005-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 2005.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -101,7 +101,7 @@ XVI. Subdirección de Finanzas;
 
 XVII. Subdirección de Control Financiero;
 
-XVIII. Subdirección de Administración;
+XVIII. (DEROGADA, D.O.F. 12 DE JULIO DE 2005)
 
 XIX. Subdirección de Contratación de Proyectos de Inversión Financiada;
 
@@ -123,31 +123,35 @@ XXVII. Coordinación de Generación Hidroeléctrica;
 
 XXVIII. Coordinación de Energéticos;
 
-XXIX. Coordinación de Transmisión;
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2005)</small>
 
-XXX. Coordinación de Protecciones, Comunicación y Control;
+XXIX. Coordinación de Seguridad Física;
 
-XXXI. Coordinación del Sistema Eléctrico Nacional;
+XXX. Coordinación de Transmisión;
 
-XXXII. Coordinación de Distribución;
+XXXI. Coordinación de Protecciones, Comunicación y Control;
 
-XXXIII. Coordinación Comercial;
+XXXII. Coordinación del Sistema Eléctrico Nacional;
 
-XXXIV. Coordinación de Relaciones Institucionales;
+XXXIII. Coordinación de Distribución;
 
-XXXV. Coordinación de Administración;
+XXXIV. Coordinación Comercial;
 
-XXXVI. Coordinación de Proyectos Especiales y Racionalización de Activos;
+XXXV. Coordinación de Relaciones Institucionales;
 
-XXXVII. Coordinación de Proyectos Hidroeléctricos;
+XXXVI. Coordinación de Administración;
 
-XXXVIII. Coordinación de Proyectos Termoeléctricos;
+XXXVII. Coordinación de Proyectos Especiales y Racionalización de Activos;
 
-XXXIX. Coordinación de Proyectos de Transmisión y Transformación;
+XXXVIII. Coordinación de Proyectos Hidroeléctricos;
 
-XL. Gerencias de Oficinas Nacionales, y
+XXXIX. Coordinación de Proyectos Termoeléctricos;
 
-XLI. Areas Administrativas Regionales.
+XL. Coordinación de Proyectos de Transmisión y Transformación;
+
+XLI. Gerencias de Oficinas Nacionales, y
+
+XLII. Areas Administrativas Regionales.
 
 La Comisión cuenta con un Organo Interno de Control que se regirá conforme a lo dispuesto por los artículos 54 a 58 de este Estatuto.
 
@@ -195,7 +199,9 @@ V. Aprobar, a propuesta del Director General, la estructura orgánica y funciona
 
 VI. Aprobar el Estatuto Orgánico de la Comisión y sus reformas.
 
-VII. Designar, a propuesta del Director General, a los Directores y Subdirectores de las distintas áreas de la Comisión.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+VII. Designar, a propuesta del Director General, a los Directores, al Abogado General y a los Subdirectores de las distintas áreas de la Comisión.
 
 VIII. Aprobar los sueldos y prestaciones de los servidores públicos de los dos niveles inferiores al Director General, así como concederles licencias.
 
@@ -269,7 +275,9 @@ III. Asistir a las reuniones de la Junta de Gobierno con voz.
 
 IV. Ejecutar las resoluciones y acuerdos que dicte la Junta de Gobierno.
 
-V. Someter a consideración de la Junta de Gobierno la estructura orgánica y funcional de la Comisión, de conformidad con los lineamientos aprobados por dicho órgano, y autorizar los dictámenes administrativos de las modificaciones a las estructuras orgánicas y ocupacionales de la Dirección de Administración de la Comisión.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+V. Someter a consideración de la Junta de Gobierno la estructura orgánica y funcional de la Comisión, así como sus modificaciones de conformidad con los lineamientos aprobados por dicho órgano y con las disposiciones legales aplicables.
 
 VI. Expedir los acuerdos de adscripción de las unidades administrativas que integran la Comisión y sus manuales internos.
 
@@ -283,7 +291,9 @@ X. Establecer indicadores de gestión y de evaluación del desempeño de la Comi
 
 XI. Supervisar el cumplimiento de programas de modernización, desconcentración, simplificación administrativa y capacitación.
 
-XII. Proponer a la Junta de Gobierno el nombramiento de los Directores y Subdirectores.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+XII. Proponer a la Junta de Gobierno el nombramiento de los Directores, Abogado General y Subdirectores.
 
 XIII. Nombrar al personal de confianza, cuya designación no esté reservada expresamente a la Junta de Gobierno.
 
@@ -327,7 +337,9 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la Dirección a su cargo, y
 
@@ -373,7 +385,9 @@ A la Dirección de Administración le corresponden, además de las facultades ge
 
 I. Determinar las normas y políticas en los procesos de administración de los recursos humanos, relaciones laborales, capacitación, desarrollo administrativo, evaluación y seguimiento de la gestión administrativa.
 
-II. Proponer al Director General las normas y propuestas de mejora de la organización y funcionamiento de la entidad, dictaminar y autorizar las modificaciones a las estructuras orgánicas y ocupacionales de la Comisión aprobadas por la Junta de Gobierno, así como establecer y administrar la valuación de puestos de personal de mando de la Comisión.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+II. Proponer al Director General las normas y propuestas de mejora de la organización y funcionamiento de la entidad, así como las modificaciones a las estructuras orgánicas y ocupacionales de la Comisión de conformidad con las disposiciones legales aplicables, y establecer y administrar la valuación de puestos de personal de mando de la Comisión.
 
 III. Fijar lineamientos para la formulación del Manual de Organización de la CFE y para los manuales de organización específicos, de procedimientos y demás documentos administrativos, así como promover su simplificación y desregulación.
 
@@ -417,7 +431,7 @@ El Abogado General y los Subdirectores, estos últimos a cargo de cada Subdirecc
 
 I. Planear, programar, organizar y supervisar el funcionamiento de las áreas administrativas adscritas.
 
-II Someter a la consideración del Director correspondiente los programas, proyectos y estudios del área de su competencia.
+II. Someter a la consideración del Director correspondiente los programas, proyectos y estudios del área de su competencia.
 
 III. Acordar con el Director correspondiente el despacho de los asuntos relevantes de su competencia.
 
@@ -427,7 +441,9 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y de las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obran en sus archivos.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la unidad administrativa a su cargo, y
 
@@ -595,15 +611,7 @@ VII. Elaborar los pliegos preventivos de responsabilidades de conformidad con la
 
 ###### Artículo 27.
 
-A la Subdirección de Administración le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
-
-I. Supervisar el cumplimiento de las normas legales y contractuales que regulan los aspectos administrativo-laborales de la Comisión, así como intervenir en los conflictos obrero-patronales de carácter colectivo.
-
-II. Administrar los recursos humanos de la Comisión en lo que corresponde a contratos, remuneraciones, prestaciones e incidencias del personal.
-
-III. Participar con el Sindicato Unico de Trabajadores Electricistas de la República Mexicana en la atención de las relaciones obrero-patronales, y
-
-IV. Supervisar los sistemas institucionales de seguridad e higiene en el trabajo y de seguridad social; coordinar el programa de mantenimiento preventivo y correctivo de los inmuebles de las oficinas nacionales de la Comisión, y proporcionar servicios generales a las mismas.
+(DEROGADO, D.O.F. 12 DE JULIO DE 2005)
 
 ###### Artículo 28.
 
@@ -685,7 +693,9 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obran en sus archivos.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
 VIII. Asegurar el buen uso y preservar los bienes asignados a la Coordinación a su cargo, y
 
@@ -788,6 +798,20 @@ I. Realizar la negociación y la formulación de los contratos correspondientes 
 II. Gestionar el transporte de los energéticos, en sus distintas modalidades, para las centrales generadoras de acuerdo al combustible con el que operan, y
 
 III. Coordinar el proceso de trámites de autorizaciones para el pago de facturas de energéticos a empresas suministradoras.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2005)</small>
+
+###### Artículo 38 Bis.
+
+A la Coordinación de Seguridad Física le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
+
+I. Supervisar las acciones operativas, tácticas, logísticas y normativas de seguridad física para la protección de las instalaciones de la Comisión.
+
+II. Elaborar las políticas y directrices de trabajos tendientes al desarrollo de una cultura de seguridad física en la Comisión.
+
+III. Realizar los estudios necesarios que coadyuvan al perfeccionamiento constante de los sistemas de seguridad física, y
+
+IV. Definir, aplicar y coordinar las políticas, normas y acciones tanto tácticas como de operación para unificar criterios en las diferentes áreas de seguridad.
 
 ###### Artículo 39.
 
@@ -943,7 +967,9 @@ V. Delegar facultades a los titulares de las unidades administrativas adscritas.
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia.
 
-VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obran en sus archivos.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
 VIII. Resolver los recursos administrativos que se interpongan en la esfera de su competencia.
 
@@ -951,17 +977,19 @@ IX. Asegurar el buen uso y preservar los bienes asignados a la Gerencia a su car
 
 X. Las demás facultades que le confieran su jefe inmediato, los manuales y los ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2005)</small>
+
 ###### Artículo 51.
 
 La Comisión cuenta con las Gerencias y Unidades siguientes:
 
 I. Abastecimientos;
 
-II. Administración y Servicios;
+II. Administración de Soluciones, Aplicaciones y Resultados;
 
-III. Análisis de Proyectos de Inversión Financiada;
+III. Administración y Servicios;
 
-IV. Apoyo Estratégico a la Transformación;
+IV. Análisis de Proyectos de Inversión Financiada;
 
 V. Asuntos Contenciosos;
 
@@ -975,7 +1003,7 @@ IX. Capacitación;
 
 X. Centrales Nucleoeléctricas;
 
-XI. Combustibles Líquidos y Carbón;
+XI. Combustibles Líquidos;
 
 XII. Comunicación y Control;
 
@@ -999,7 +1027,9 @@ XXI. Créditos;
 
 XXII. Desarrollo Social;
 
-XXIII. División para la Administración de Contratos con Productores Externos de Energía;
+XXIII. División para la Administración de Contratos con Productores Externos de
+
+Energía;
 
 XXIV. Estudios de Ingeniería Civil;
 
@@ -1007,97 +1037,111 @@ XXV. Estudios Económicos;
 
 XXVI. Evaluación de Inversiones;
 
-XXVII. Fondo de la Habitación y Servicios Sociales para los Trabajadores Electricistas;
+XXVII. Evaluación y Control Divisional;
 
-XXVIII. Gas Natural;
+XXVIII. Fondo de la Habitación y Servicios Sociales para los Trabajadores Electricistas;
 
-XXIX. Gestión de Riesgos;
+XXIX. Gas Natural;
 
-XXX. Información y Administración de Energía;
+XXX. Gestión de Riesgos;
 
-XXXI. Informática y Telecomunicaciones;
+XXXI. Información y Administración de Energía;
 
-XXXII. Ingeniería Civil;
+XXXII. Informática y Telecomunicaciones;
 
-XXXIII. Ingeniería Eléctrica;
+XXXIII. Ingeniería Civil;
 
-XXXIV. Ingeniería Experimental y Control;
+XXXIV. Ingeniería de Servicios al Cliente;
 
-XXXV. Ingeniería y Desarrollo;
+XXXV. Ingeniería Eléctrica;
 
-XXXVI. Jurídica de Asuntos Consultivos;
+XXXVI. Ingeniería y Desarrollo;
 
-XXXVII. Laboratorio de Pruebas de Equipos y Materiales;
+XXXVII. Jurídica de Asuntos Consultivos;
 
-XXXVIII. Legal de Proyectos de Inversión Financiada;
+XXXVIII. Laboratorio de Pruebas de Equipos y Materiales;
 
-XXXIX. Licitaciones y Contratación de Proyectos de Inversión Financiada;
+XXXIX. Legal de Proyectos de Inversión Financiada;
 
-XL. Líneas de Transmisión;
+XL. Licitaciones y Contratación de Proyectos de Inversión Financiada;
 
-XLI. Modernización;
+XLI. Líneas de Transmisión;
 
-XLII. Operación del Mercado;
+XLII. Modernización;
 
-XLIII. Operación del Sistema Eléctrico Nacional;
+XLIII. Normalización de Distribución;
 
-XLIV. Operación Financiera;
+XLIV. Operación de Distribución;
 
-XLV. Planeación Financiera;
+XLV. Operación del Mercado;
 
-XLVI. Planificación de Redes Eléctricas;
+XLVI. Operación del Sistema Eléctrico Nacional;
 
-XLVII. Planificación del Sistema de Generación;
+XLVII. Operación Financiera;
 
-XLVIII. Presupuestos;
+XLVIII. Planeación de Distribución;
 
-XLIX. Producción Hidroeléctrica;
+XLIX. Planeación Financiera;
 
-L. Producción Termoeléctrica;
+L. Planificación de Redes Eléctricas;
 
-LI. Programa de Ahorro de Energía del Sector Eléctrico;
+LI. Planificación del Sistema de Generación;
 
-LII. Programación y Evaluación Administrativa;
+LII. Presupuestos;
 
-LIII. Programación y Evaluación Financiera;
+LIII. Procesos Comerciales;
 
-LIV. Prospección Tecnológica;
+LIV. Producción Hidroeléctrica;
 
-LV. Protección Ambiental;
+LV. Producción Termoeléctrica;
 
-LVI. Protecciones;
+LVI. Programa de Ahorro de Energía del Sector Eléctrico;
 
-LVII. Proyecto ASARE;
+LVII. Programación y Evaluación Administrativa;
 
-LVIII. Proyectos de Líneas de Transmisión y Subestaciones;
+LVIII. Programación y Evaluación Financiera;
 
-LIX. Proyectos de Obra Pública Financiada;
+LIX. Programas Logísticos;
 
-LX. Proyectos de Productores Externos de Energía;
+LX. Prospección Tecnológica;
 
-LXI. Proyectos Geotermoeléctricos;
+LXI. Protección Ambiental;
 
-LXII. Relaciones Laborales;
+LXII. Protecciones;
 
-LXIII. Seguimiento y Control;
+LXIII. Proyectos de Líneas de Transmisión y Subestaciones;
 
-LXIV. Seguridad Física;
+LXIV. Proyectos de Obra Pública Financiada;
 
-LXV. Seguridad Industrial;
+LXV. Proyectos de Productores Externos de Energía;
 
-LXVI. Subestaciones;
+LXVI. Proyectos Geotermoeléctricos;
 
-LXVII. Técnica de Proyectos Hidroeléctricos;
+LXVII. Relaciones Laborales;
 
-LXVIII. Técnica de Proyectos Termoeléctricos;
+LXVIII. Seguimiento y Control;
 
-LXIX. Técnica de Proyectos de Transmisión y Transformación;
+LXXIX. Seguridad Física;
 
-LXX. Unidad de Administración de Riesgos;
+LXX. Seguridad Industrial;
 
-LXXI. Unidad de Desarrollo Organizacional y Evaluación, y
+LXXI. Servicios al Cliente;
 
-LXXII. Unidad de Ingeniería Especializada.
+LXXII. Subestaciones;
+
+LXXIII. Técnica de Proyectos Hidroeléctricos;
+
+LXXIV. Técnica de Proyectos Termoeléctricos;
+
+LXXV. Técnica de Proyectos de Transmisión y Transformación;
+
+LXXVI. Unidad de Administración de Riesgos;
+
+LXXVII. Unidad de Desarrollo Organizacional y Evaluación;
+
+LXXVIII. Unidad de Enlace para la Información Pública, y
+
+LXXIX. Unidad de Ingeniería Especializada.
 
 ### Capítulo VIII. De las Areas Administrativas Regionales
 
@@ -1117,7 +1161,9 @@ III. Gerencias Divisionales de Distribución;
 
 IV. Gerencias Regionales de Producción, y
 
-V. Residencias Generales de Construcción de: Proyectos Hidroeléctricos; de Proyectos Termoeléctricos; y de Proyectos de Transmisión y Transformación.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+
+V. Residencias Regionales de Construcción de: Proyectos Hidroeléctricos; de Proyectos Termoeléctricos; y de Proyectos de Transmisión y Transformación.
 
 A las Gerencias Divisionales de Distribución además de las facultades genéricas señaladas en el artículo 50 de este Estatuto les corresponde llevar a cabo todas las acciones necesarias relacionadas con el suministro de energía eléctrica, de conformidad con los capítulos V de la Ley del Servicio Público de Energía Eléctrica y V de su Reglamento, sin perjuicio de la participación de las demás unidades administrativas que tengan funciones inherentes a dichas actividades.
 
@@ -1139,7 +1185,7 @@ El Organo Interno de Control cuenta, además de las áreas mencionadas, con el a
 
 ###### Artículo 55.
 
-El Organo Interno de Control queda conformado por las siguientes unidades administrativas:
+El Órgano Interno de Control queda conformado por las siguientes unidades administrativas:
 
 I. Organo Interno de Control.
 
@@ -1151,7 +1197,7 @@ IV. Area de Quejas.
 
 V. Area de Auditoría de Control y Evaluación.
 
-VI. Area de Coordinación Administrativa.
+VI. (DEROGADA, D.O.F. 12 DE JULIO DE 2005).
 
 VII. Organos Internos de Control en sus distintas regiones.
 
@@ -1222,3 +1268,11 @@ Ciudad de México, Distrito Federal, a ocho de enero de dos mil cuatro.- El Dire
 D.O.F. 17 DE JUNIO DE 2004.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2005.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones administrativas internas que se opongan al presente Acuerdo.
+
+Tercero. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por el presente Acuerdo.
