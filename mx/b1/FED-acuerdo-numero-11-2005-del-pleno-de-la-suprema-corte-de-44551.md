@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-11-2005-del-pleno-de-la-suprema-corte-de-44551"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-04-26"
-last_updated: "2005-04-26"
+last_updated: "2005-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-04-19"
 
 ACUERDO GENERAL NUMERO 11/2005, DEL ONCE DE ABRIL DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA CONOCER Y RESOLVER ASUNTOS EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 2005.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 26 de abril de 2005.
 
@@ -67,7 +67,11 @@ En consecuencia, con fundamento en las disposiciones constitucional y legales me
 
 ACUERDO:
 
-PRIMERO. Una vez que la Suprema Corte de Justicia de la Nación establezca jurisprudencia en asuntos en los que se impugnen normas de carácter general en materia tributaria, fijando criterios sobre los principios de proporcionalidad, equidad, legalidad y destino al gasto público a los que se refiere el artículo 31, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, se remitirán los asuntos pendientes de resolución en los que se impugnen las mismas normas a los Tribunales Colegiados de Circuito quienes deberán aplicar la jurisprudencia y, en su caso, estudiar y resolver con plenitud de jurisdicción, los demás temas que procedan.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 14/2005 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE JULIO DE 2005)</small>
+
+PRIMERO. Una vez que la Suprema Corte de Justicia de la Nación establezca jurisprudencia en asuntos en los que se impugnen normas de carácter general en materia tributaria, fijando criterios sobre los principios de proporcionalidad, equidad, legalidad y destino al gasto público a los que se refiere el artículo 31, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, se remitirán los asuntos pendientes de resolución en los que se impugnen las mismas normas a los Tribunales Colegiados de Circuito quienes deberán aplicar la jurisprudencia y, en su caso, estudiar y resolver con plenitud de jurisdicción, los demás temas, cuando así lo determine el Pleno de la Suprema Corte de Justicia de la Nación.
+
+En consecuencia, en esos casos, habiendo resuelto la Suprema Corte de Justicia de la Nación los temas que consideró fundamentales para ser examinados por ella, todos los demás temas, aun los relativos a la constitucionalidad de leyes, deberán ser resueltos por los Tribunales Colegiados de Circuito.
 
 SEGUNDO. La remisión de los expedientes a los Tribunales Colegiados de Circuito deberá hacerse observando el trámite dispuesto al respecto en el Acuerdo General Número 5/2001, de veintiuno de junio de dos mil uno.
 
@@ -84,3 +88,13 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Mariano Azuela Güi
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, en su Sesión Privada celebrada hoy, emitió y aprobó el Acuerdo número 11/2005, RELATIVO A LA REMISION DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA CONOCER Y RESOLVER ASUNTOS EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA, así como el texto del documento formal que antecede y que lo contiene.- México, Distrito Federal, a once de abril de dos mil cinco.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo Número 11/2005, constante de nueve fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su Punto Tercero Transitorio. México, Distrito Federal, a diecinueve de abril de dos mil cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 12 DE JULIO DE 2005.
+
+PRIMERO. Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Comuníquese este Acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
