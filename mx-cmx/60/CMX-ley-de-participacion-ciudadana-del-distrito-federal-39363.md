@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2005-05-16"
+last_updated: "2005-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2005.
 
-Ley publicada en la Gaceta de Gobierno del Distrito Federal, el lunes 17 de mayo de 2004.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
 (Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México, La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL DECRERO (SIC) DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -694,9 +694,7 @@ No se podrá impedir la participación de ningún vecino del lugar en la Asamble
 
 > <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
 
-En la Asamblea Ciudadana se elegirá un Comité Ciudadano por Unidad Territorial, cada tres años. A la Asamblea Ciudadana en la que se lleve a cabo el proceso de elección de Comité Ciudadano se le denominará Asamblea Ciudadana
-
-Electiva.
+En la Asamblea Ciudadana se elegirá un Comité Ciudadano por Unidad Territorial, cada tres años. A la Asamblea Ciudadana en la que se lleve a cabo el proceso de elección de Comité Ciudadano se le denominará Asamblea Ciudadana Electiva.
 
 ###### Artículo 76.
 
@@ -1256,19 +1254,19 @@ El reglamento de la presente ley deberá expedirse por el Jefe de Gobierno del D
 
 > <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
-###### ARTÍCULO QUINTO.
+###### ARTÍCULO QUINTO
 
 Los actuales Comités Vecinales y las formas de organización vecinal formalmente constituidas en el Distrito Federal, continuarán en funciones hasta que entren en vigor las reformas que determinen las figuras, los plazos y los procedimientos correspondientes.
 
 > <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
-###### ARTÍCULO SEXTO.
+###### ARTÍCULO SEXTO
 
 La primera elección de Comités Ciudadanos que conforme a los artículos 98 y Cuarto Transitorio de la Ley de Participación Ciudadana del Distrito Federal debe celebrarse el último domingo del mes de abril de 2005, no se realizará hasta que la Asamblea Legislativa del Distrito Federal, establezca lo conducente en la presente ley.
 
 > <small>(ADICIONADO, G.O. 28 DE ENERO DE 2005)</small>
 
-###### ARTÍCULO SÉPTIMO.
+###### ARTÍCULO SÉPTIMO
 
 El proceso de selección de Comités Ciudadanos que conforme a lo dispuesto en el artículo 98 de la Ley de Participación Ciudadana del Distrito Federal debería celebrarse el último domingo del mes de abril de 2005 se pospone, hasta en tanto, en trabajo de Comisiones Unidas de Participación Ciudadana y de Asuntos Político-Electorales de la Asamblea Legislativa del Distrito Federal, se busquen y acuerden formas de organización y representación ciudadanas adecuadas al contexto del Distrito Federal, así como los procesos de elección o integración que no resulten onerosos para los habitantes de esta Ciudad a efecto de que se aprueben por el Pleno del órgano legislativo local, en cuyo caso se deberá realizar la convocatoria que se disponga por virtud de la modificación legal correspondiente, incluso dentro del año 2005.
 
@@ -1292,7 +1290,7 @@ G.O. 16 DE MAYO DE 2005.
 
 ###### ARTÍCULO PRIMERO
 
-La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 ###### ARTÍCULO SEGUNDO
 
@@ -1300,8 +1298,18 @@ Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión 
 
 ###### ARTÍCULO TERCERO
 
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+(DEROGADO, G.O. 13 DE JULIO DE 2005)
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2005)</small>
+
+###### ARTÍCULO CUARTO
+
+La primera elección de Comités Ciudadanos que conforme al artículo 98 de la Ley de Participación Ciudadana para el Distrito Federal deben celebrarse durante los días sábado y domingo de los meses de septiembre y octubre de 2005, no se realizará hasta que la Asamblea Legislativa del Distrito Federal, establezca lo conducente en la presente ley.
 
 Para los efectos de las elecciones de Comités Ciudadanos a celebrarse en el año 2005, se faculta al Consejo General del Instituto Electoral del Distrito Federal, para aprobar los acuerdos y los procedimientos específicos que sean necesarios para la organización y desarrollo de las citadas elecciones, observando en todo momento los principios rectores de certeza, legalidad, independencia, imparcialidad, objetividad y equidad.
 
 Para las elecciones de Comités Ciudadanos a celebrarse en el año 2005 no serán aplicables lo dispuesto en el segundo párrafo del artículo 135 del Código Electoral del Distrito Federal, ni aquellas disposiciones del mismo ordenamiento que se opongan o resulten contradictorias a lo establecido en la presente Ley.
+
+G.O. 13 DE JULIO DE 2005.
+
+Único.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, para su mayor difusión, publíquese en el Diario Oficial de la Federación.
