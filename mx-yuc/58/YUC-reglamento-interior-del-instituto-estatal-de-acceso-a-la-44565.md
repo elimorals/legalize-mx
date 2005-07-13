@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-44565"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-30"
-last_updated: "2005-03-30"
+last_updated: "2005-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE JULIO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Yucatán, el miércoles 30 de marzo de 2005.
 
@@ -603,9 +603,11 @@ X. Las demás tareas que le encomiende el Secretario Ejecutivo.
 
 DE LAS SESIONES DEL CONSEJO.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE JULIO DE 2005)</small>
+
 ###### Artículo 28.
 
-Las sesiones del Consejo serán públicas, salvo en los casos que determine el propio Consejo. La convocatoria debe determinar si la sesión a la que se cita es reservada.
+Las sesiones del Consejo serán públicas, salvo en los casos que la Ley obliga a resguardar la información confidencial o reservada. Las actas de las sesiones siempre serán públicas, pero cuando se trate de los casos aquí previstos se protegerán los datos en la forma que indica la Ley. La convocatoria debe determinar si la sesión a la que se cita no es pública.
 
 El Consejo podrá celebrar sesiones solemnes en los casos a que se refiere el artículo 35 del presente Reglamento.
 
@@ -625,9 +627,11 @@ Las resoluciones o acuerdos del Consejo se tomarán por mayoría de votos y para
 
 El Consejo, debe sesionar cuando menos una vez al mes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE JULIO DE 2005)</small>
+
 ###### Artículo 32.
 
-Las sesiones deben ser convocadas con una anticipación no menor de 10 días hábiles, por escrito con acuse de recibo y por estrados. La convocatoria escrita deberá realizarse una vez puesta la de estrados.
+Las sesiones deben ser convocadas con una anticipación no menor de 3 días hábiles, por escrito con acuse de recibo y por estrados. La convocatoria escrita deberá realizarse una vez puesta la de estrados.
 
 La convocatoria no será necesaria si se encuentran presentes la totalidad de los Consejeros, y sea aprobada por unanimidad dicha celebración, o bien, si fue acordado en sesión previa, con la asistencia de los antes mencionados.
 
@@ -731,9 +735,13 @@ IX. Proponer al Consejo y al Secretario Ejecutivo, las disposiciones complementa
 
 X. Orientar a los particulares, respecto de la Unidad de Acceso del sujeto obligado que pudiese tener la información requerida, cuando la solicitud no corresponda al ámbito de competencia del Instituto;
 
-XI. Abstenerse de dar trámite a solicitudes ofensivas o anónimas; y
+XI. Abstenerse de dar trámite a solicitudes ofensivas o anónimas; y (sic)
 
-XII. Acordar la ampliación del plazo para la entrega de la información cuando la Unidad Administrativa correspondiente se lo solicite, e informarlo al solicitante.
+XII. Acordar la ampliación del plazo para la entrega de la información cuando la Unidad Administrativa correspondiente se lo solicite, e informarlo al solicitante;
+
+> <small>(ADICIONADA, D.O. 13 DE JULIO DE 2005)</small>
+
+XIII. Notificar por cédula o por oficio a las personas o a los sujetos obligados, respectivamente, en los casos que considere necesarios en el procedimiento de solicitudes de acceso a la información pública.
 
 ### CAPÍTULO SEGUNDO. DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
 
@@ -925,9 +933,11 @@ Si del análisis de la solicitud la Unidad Administrativa determina que los dato
 
 Mediante requerimiento, la Unidad de Acceso informará al solicitante las omisiones o errores que deben de ser subsanados, apercibiéndole de que, si en un plazo de 10 días hábiles contados a partir de la fecha en que se le notifique el requerimiento, no aclara, corrige o completa su solicitud, será desechada.
 
+> <small>(REFORMADO, D.O. 13 DE JULIO DE 2005)</small>
+
 ###### Artículo 75.
 
-El plazo de 15 días hábiles para dar respuesta a la solicitud en el supuesto anterior, se suspende, en tanto el solicitante dé cumplimiento al requerimiento.
+El plazo de 15 días hábiles para dar respuesta a la solicitud en el supuesto anterior, se interrumpe, en tanto el solicitante dé cumplimiento al requerimiento.
 
 ###### Artículo 76.
 
@@ -1292,3 +1302,11 @@ Consejero
 C.P. Alberto del Río Leal
 
 Consejero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 13 DE JULIO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
