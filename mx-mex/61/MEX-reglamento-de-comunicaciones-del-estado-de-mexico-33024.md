@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-comunicaciones-del-estado-de-mexico-33024"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-01"
-last_updated: "2003-07-01"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2005.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 1 de julio de 2003.
 
@@ -37,9 +37,11 @@ REGLAMENTO DE COMUNICACIONES DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2005)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar las disposiciones del Libro Séptimo del Código Administrativo del Estado de México, en materia de comunicaciones de jurisdicción local.
+El presente ordenamiento tiene por objeto reglamentar las disposiciones del Libro Séptimo del Código Administrativo del Estado de México, en materia de comunicaciones de Infraestructura Vial Primaria.
 
 ###### Artículo 2.
 
@@ -217,7 +219,9 @@ VI. La autoridad de comunicaciones expedirá el permiso, una vez que el interesa
 
 VII. El trámite y plazos para el otorgamiento de los permisos se sujetará a las disposiciones aplicables del Código de Procedimientos Administrativos del Estado;
 
-VIII. Su vigencia será hasta por un año contado a partir de su expedición, pudiendo ser renovados.
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2005)</small>
+
+VIII. Su vigencia será hasta por cinco años contados a partir de su expedición, pudiendo ser renovados.
 
 ###### Artículo 15.
 
@@ -738,6 +742,16 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE JULIO DE 2005.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Comunicaciones, la Junta de Caminos del Estado de México y el Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, en el ámbito de su competencia, proveerán lo necesario para el cumplimiento del presente Acuerdo.
 
 ### CAPITULO OCTAVO. DE LAS TELECOMUNICACIONES
 
