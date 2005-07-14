@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-453
 country: "mx"
 rank: "otro"
 publication_date: "2004-07-19"
-last_updated: "2004-07-19"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45385&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,75 @@ issue_date: "2004-04-14"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA ORIENTAL DEL URUGUAY, 2003)
 
-DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA ORIENTAL DEL URUGUAY
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR QUESOS Y TEJIDOS DE LANA, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY.
 
-Decreto publicado en el Diario Oficial de la Federación, el lunes 19 de julio de 2004.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de julio de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o. fracción I, y 14 de la Ley de Comercio Exterior, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay fue aprobado por el Senado de la República el 28 de abril de 2004, y promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
+Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay, con fecha 15 de noviembre de 2003 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, mismo que aprobó el Senado de la República el 28 de abril de 2004 y fue promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
 
-Que en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay se establecieron condiciones para la eliminación de aranceles aduaneros para el comercio de mercancías originarias entre ambas Partes, con reglas de origen y mecanismos específicos para definir tales mercancías;
+Que el artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay establece que México permitirá la importación de ciertas mercancías originarias de Uruguay con una preferencia arancelaria porcentual dentro de una cuota determinada;
 
-Que la desgravación arancelaria pactada en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay no exime de las restricciones ni libera del cumplimiento de regulaciones no arancelarias, así como tampoco de los requisitos previos de importación impuestos por la Secretaría de Economía o cualquier otra dependencia en el ámbito de sus facultades; de los requisitos de Normas Oficiales Mexicanas, o para tramitar el despacho aduanero de mercancías, entre otras, siempre que estén de conformidad con los compromisos internacionales adquiridos por México;
+Que los procedimientos de asignación de los cupos que se tratan en el presente Acuerdo, son un instrumento de la política sectorial para promover condiciones equitativas de competencia e incrementar las corrientes comerciales con aquellos países con los que México tiene suscritos acuerdos comerciales, y
 
-Que el 27 de septiembre de 2002, los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay siendo los últimos cuatro Estados Partes del Mercado Común del Sur (MERCOSUR), suscribieron el Acuerdo de Complementación Económica No. 55 (ACE 55), el cual fue publicado en el Diario Oficial de la Federación el 29 de noviembre de 2002;
+Que la medida a que se refiere el presente Acuerdo, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que el Decreto para la aplicación del Primer Protocolo Adicional al Apéndice IV del ACE 55, expedido en esta misma fecha, establece las disposiciones aplicables al comercio bilateral en el comercio automotor entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, y
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR QUESOS Y TEJIDOS DE LANA, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
 
-Que resulta necesario, para operadores y autoridades aduaneras, conocer con claridad las condiciones y los mecanismos que regirán las importaciones de mercancías originarias de la República Oriental del Uruguay en México, derivados del Tratado mencionado anteriormente, he tenido a bien expedir el siguiente
+###### ARTICULO PRIMERO.
 
-DECRETO
+Los cupos para importar durante un periodo de doce meses contados a partir del 15 de julio de cada año, con el arancel-cupo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, quesos y tejidos de lana, originarios de la República Oriental del Uruguay, son los que se determinan en el cuadro siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTICULO SEGUNDO.
+
+De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, se aplicará a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
+
+###### ARTICULO TERCERO.
+
+Podrán solicitar asignación de estos cupos, las personas que se mencionan a continuación, conforme a los siguientes criterios:
+
+1) Del cupo de importación de quesos:
+
+a) Hasta 4,400 toneladas para las personas físicas y morales establecidas en los Estados Unidos Mexicanos, y
+
+b) Hasta 2,200 toneladas para las personas físicas y morales establecidas en los Estados Unidos Mexicanos, que utilicen los quesos como insumo en sus procesos productivos o que importen quesos en presentación de hasta 5 kilogramos.
+
+2) Del cupo de importación de tejidos de lana: las personas físicas y morales establecidas en los Estados Unidos Mexicanos.
+
+Para los cupos a que se refiere el presente Acuerdo, la asignación será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, en adelante la Secretaría, conforme al monto que señale el documento expedido por la autoridad competente de la República Oriental del Uruguay a nombre del proveedor uruguayo, hasta agotar el cupo, en un plazo no mayor a 7 días hábiles, contados a partir de la fecha de recepción de la solicitud.
+
+###### ARTICULO CUARTO.
+
+Las solicitudes de asignación de los cupos a que se refiere este Acuerdo, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de la Secretaría que corresponda al domicilio del solicitante. Las hojas de requisitos específicos se establecen como anexos al presente Acuerdo.
+
+###### ARTICULO QUINTO.
+
+Una vez asignado el monto para importar dentro del arancel-cupo, la Secretaría, a través de la Representación Federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)” en un plazo no mayor a 7 días hábiles, contados a partir de la fecha de recepción de la solicitud.
+
+Para el caso de las asignaciones de quesos que se clasifican en las fracciones arancelarias 0406.90.03; 0406.90.05; 0406.90.06; 0406.90.99, una vez asignado el monto para importar, la Secretaría, a través de la Representación Federal correspondiente, expedirá los respectivos permisos de importación, previa solicitud del interesado en el formato SE-03-018 “Solicitud de permiso de importación o exportación y de modificaciones”.
+
+El certificado de cupo y el permiso previo de importación son nominativos e intransferibles y deberán ser retornados a la oficina que los expidió, dentro de los quince días siguientes al término de su vigencia.
+
+La vigencia máxima de los certificados de cupo y de los permisos de importación será al 14 de julio de cada año, y será improrrogable.
+
+###### ARTICULO SEXTO.
+
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria www.cofemer.gob.mx., o en las siguientes direcciones electrónicas:
+
+Para el formato de solicitud de asignación de cupo (SE-03-011-1):
+
+http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905721&num_modalidad=1.
+
+Para el formato de expedición del certificado de cupo (SE-03-013-5):
+
+http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num_modalidad=0.
 
 ###### ARTÍCULO 1.
 
@@ -202,16 +248,42 @@ Lo dispuesto en el presente Decreto no libera del cumplimiento de las restriccio
 
 Para el caso en el que existan modificaciones o adecuaciones a la Tarifa de la LIGIE publicada en el Diario Oficial de la Federación el 18 de enero de 2002, los aranceles preferenciales originalmente negociados en el Tratado de Libre Comercio referido en este Decreto, seguirán aplicándose sobre dichas modificaciones o adecuaciones según corresponda. Para tal fin y únicamente con propósitos indicativos la Secretaría de Economía publicará en su página de Internet la correlación de fracciones arancelarias correspondientes, para el caso de las importaciones de mercancías originarias de Uruguay, prevaleciendo para éstas los aranceles preferenciales establecidos en el presente Decreto.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el 15 de julio de 2005.
 
-SEGUNDO.- A partir de la entrada en vigor del presente Decreto, se deroga la fracción X del artículo 2; el inciso e) de la fracción VI del artículo 3; el artículo 31; el artículo 32 y el artículo 33 del Decreto por el que se establece la tasa aplicable para 2004 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, el Estado de Israel, El Salvador, Guatemala, Honduras, Nicaragua, Colombia, Venezuela y la República Oriental del Uruguay, y la columna denominada "Uruguay" del Apéndice al Decreto mencionado anteriormente, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003.
+México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
-TERCERO.- No obstante lo establecido en los artículos anteriores, de conformidad con el artículo 20-09 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, los importadores que a la fecha de la entrada en vigor del citado tratado cuenten con un certificado de origen emitido con anterioridad a esa fecha, que cumpla con las disposiciones del Acuerdo de Complementación Económica No. 5 celebrado entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, podrán solicitar la preferencia arancelaria aplicable en el Decreto por el que se establece la tasa aplicable para 2004 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, el Estado de Israel, El Salvador, Guatemala, Honduras, Nicaragua, Colombia, Venezuela y la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, siempre que presenten el certificado de origen válido al momento de tramitar el despacho aduanero y dicho despacho se efectúe dentro de un plazo de 30 días contados a partir de la entrada en vigor del tratado antes mencionado.
+ANEXO
 
-CUARTO.- En tanto se modifica el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo de importación por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 26 de marzo de 2002, para adecuarlo a las condiciones de acceso establecidas en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, la importación de las mercancías originarias de la región conformada por México y Uruguay se sujetará a lo dispuesto en los artículos 11 y 12 de este Decreto. La Secretaría de Economía publicará en el Diario Oficial de la Federación dentro de un plazo de 180 días naturales contados a partir de la entrada en vigor de este Decreto, el Acuerdo antes mencionado con las modificaciones que correspondan.
+SECRETARIA DE ECONOMIA
 
-Para emitir la autorización de un permiso previo de importación de mercancías sujetas a este requisito, la Secretaría de Economía publicará los criterios que deberán cumplir las solicitudes. En tanto no se publiquen, la Secretaría de Economía no emitirá permisos previos de importación para estas mercancías, excepto para aquéllas clasificadas en las fracciones arancelarias 0406.90.03, 0406.90.05, 0406.90.06 y 0406.90.99, que serán otorgados conforme a lo establecido en el Acuerdo por el que se den a conocer los cupos correspondientes que se establezcan.
+DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+Para cada periodo de doce meses contados a partir del 15 de julio de cada año
+
+REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
+
+QUESOS
+
+Fracciones arancelarias: 0406.20.01, 0406.90.01, 0406.90.02, 0406.90.03, 0406.90.04, 0406.90.05, 0406.90.06 y 0406.90.99
+
+Asignación directa
+
+(VEASE ARCHIVO ANEXO)
+
+ANEXO
+
+SECRETARIA DE ECONOMIA
+
+DIRECCION GENERAL DE COMERCIO EXTERIOR
+
+REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
+
+TEJIDOS DE LANA
+
+Fracciones arancelarias: 5111.11.01, 5111.11.99, 5111.19.01, 5111.19.99, 5111.20.01, 5111.20.99, 5111.30.01, 5111.30.99, 5111.90.99, 5112.11.01, 5112.11.99, 5112.19.01, 5112.19.02, 5112.19.99, 5112.20.01, 5112.20.99, 5112.30.01, 5112.30.02, 5112.30.99 y 5112.90.99
+
+Asignación directa
+
+(VEASE ARCHIVO ANEXO)
