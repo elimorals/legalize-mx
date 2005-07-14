@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-15880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-02-18"
-last_updated: "2002-10-10"
+last_updated: "2005-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 14 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 18 de febrero de 2000.
 
@@ -708,3 +710,41 @@ B.O. 10 DE OCTUBRE DE 2002.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE JULIO DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, expedida por el Congreso del Estado, mediante Decreto 1266, así como los Decretos que la reformaron y adicionaron número 1368 y 1376.
+
+TERCERO.- EL Gobernador del Estado contará con un plazo de hasta el primero de enero de 2006, para instrumentar en la esfera administrativa la instalación, operación y funcionamiento de la Secretaría de Seguridad Pública. En tanto no se verifique lo anterior, la Secretaría General de Gobierno ejercerá las atribuciones a que se refiere el artículo 27 de la presente ley.
+
+CUARTO.- Las dependencias de la Administración Pública Estatal que conforme a esta ley transfieran asuntos administrativos a otra dependencia, lo harán considerando el personal, sin perjuicio de sus derechos laborales adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que tales unidades hayan venido usando para la atención de las funciones que tuvieren encomendadas.
+
+QUINTO.- Para los efectos presupuestales y administrativos a que haya lugar, dentro del plazo de 90 días hábiles contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Finanzas realizará los ajustes y traspasos presupuestales correspondientes. En consecuencia, el Ejecutivo del Estado enviará al Congreso del Estado la respectiva iniciativa de ampliación y modificación al presupuesto de egresos vigente en el presente ejercicio fiscal.
+
+Dentro del mismo plazo a que se refiere el párrafo anterior, la Secretaría de Finanzas deberá hacer entrega de los recursos financieros que correspondan a los organismos descentralizados referidos en la presente ley.
+
+SEXTO.- Los asuntos que con motivo de la actual ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los realicen se incorporen a la dependencia que señale la ley, a excepción de los que sean urgentes o estén sujetos a plazos improrrogables.
+
+SÉPTIMO.- Cuando en esta ley se de denominación distinta a alguna dependencia, cuyas funciones y facultades estén contempladas por la ley anterior y otras leyes, para el cumplimiento de las mismas y las que se establezcan por convenios celebrados con autoridades federales o municipales, dicha competencia se entenderá concedida a la dependencia que determine la presente ley.
+
+OCTAVO.- Las facultades otorgadas a la Secretaría de Desarrollo en el Capítulo II de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, del Gobierno del Estado de Baja California Sur, se tendrán por conferidas a la Oficialía Mayor de Gobierno.
+
+NOVENO.- La Secretaría de Seguridad Pública tendrá además de las atribuciones conferidas en esta ley, las señaladas para la Secretaría General de Gobierno, en la Ley de Seguridad Pública, en la Ley de los Servicios de Seguridad Privada, en la Ley del Consejo Tutelar para Menores Infractores y en la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad, todas para el Estado de Baja California Sur.
+
+DÉCIMO.- Las facultades otorgadas a la Coordinación Estatal de Promoción al Turismo en la Ley de Turismo del Estado, se tendrán conferidas a la Secretaría de Turismo.
+
+DÉCIMO PRIMERO.- Las facultades de coordinación de organismos descentralizados, así como las demás que le otorguen las distintas disposiciones jurídicas y administrativas a la Coordinación de Programas de Bienestar Social, se tendrán por conferidas a la Secretaría General de Gobierno.
+
+DÉCIMO SEGUNDO.- Cuando en otros ordenamientos legales se otorguen atribuciones a la "Contraloría del Estado" o a la "Unidad de Desarrollo Administrativo y Control Gubernamental", así como compromisos derivados de convenios celebrados con autoridades federales o municipales, se entenderán que corresponden a la Contraloría General del Estado prevista en el presente decreto.
+
+DÉCIMO TERCERO.- El Gobernador del Estado definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a las dependencias y entidades auxiliares que se creen, con el fin de mejorar la operatividad de cambio enfocada a la calidad de los servicios del Gobierno.
+
+DÉCIMO CUARTO.- Los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos que se encuentren vigentes al momento de entrada en vigor de la presente ley, mantendrán la estructura de sus órganos de gobierno, administración y vigilancia, señalados en sus documentos de creación.
+
+DÉCIMO QUINTO.- El Gobierno del Estado, de conformidad con las atribuciones asignadas a cada una de las secretarías y organismos descentralizados, expedirá los reglamentos necesarios en un término que no exceda de noventa días hábiles, contados a partir de la entrada en vigor de la presente ley. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente ley.
+
+DÉCIMO SEXTO.- Para los efectos de las adecuaciones legales relacionadas con el presente decreto, el Ejecutivo del Estado contará con un plazo de hasta el primero de enero del año 2006 para presentar ante el Poder Legislativo del Estado las iniciativas con proyectos de decretos que correspondan.
+
+DÉCIMO SÉPTIMO.- El Gobernador del Estado contará con un plazo de hasta el treinta y uno de enero del 2006, para instrumentar en la esfera administrativa la instalación, operación y funcionamiento de la Secretaría de Pesca y Acuacultura. En tanto no se verifique lo anterior, la Secretaría de Promoción y Desarrollo Económico ejercerá las atribuciones a que se refiere el artículo 29 de la presente ley.
