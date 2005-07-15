@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2005-05-30"
+last_updated: "2005-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -3930,75 +3930,197 @@ XVII. Administrar el Museo de la Ciudad de México y el Museo de la Revolución 
 
 XVIII. Administrar y programar las actividades de la Orquesta Filarmónica de la Ciudad de México;
 
-XIX. Administrar y programar las actividades de los Centros Culturales Ollin Yoliztli, Foro de Oriente y José Martí; y
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
 
-XX. Administrar y programar las actividades del Teatro de la Ciudad y del Teatro de las Vizcaínas.
+XIX. Administrar y programar las actividades de los Centros Culturales Ollín Yoliztli, y José Martí;
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
 
-###### Artículo 97-B.
+XX. Administrar y programar las actividades de los Teatros de la Ciudad de México, de las Vizcaínas, Benito Juárez y Sergio Magaña; y
 
-Corresponde a la Dirección de Vinculación Cultural.
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XXI. Administrar y programar las actividades de la Dirección Académica de las Escuelas del Centro Cultural hollín Yoliztli (Escuela de Música, Escuela de Iniciación Artística y Escuela de Danza Contemporánea).
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
+
+###### Artículo 97- B.
+
+Corresponde a la Coordinación de Vinculación Cultural:
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 I. Proponer las políticas relacionadas con la ejecución de los programas artísticos y culturales de la Secretaría, supervisando su cabal cumplimiento;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 II. Fomentar las actividades artísticas y culturales de los Órganos Político-Administrativos del Distrito Federal, en sus pueblos, barrios, unidades habitacionales y comunidades;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 III. Articular y programar las actividades artísticas y culturales que se realicen en los centros culturales de la Secretaría y en los del Gobierno del Distrito Federal, en coordinación con los Órganos Político-Administrativos, museos, casas de cultura, teatros, foros, salas de exposiciones y galerías donde se promueva y difunda el arte y la cultura en todas sus manifestaciones;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 IV. Realizar conjuntamente con otras instituciones culturales, actividades tales como: Festivales, coloquios, mesas redondas, seminarios y encuentros, que permitan una mayor y mejor difusión del arte teatral, dancístico, escénico, literario, musical, plástico y audiovisual;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 V. Organizar con instituciones públicas y privadas la realización de actividades artísticas y culturales que enriquezcan los programas de difusión y promoción de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 VI. Supervisar la planeación, organización e impartición de talleres, seminarios y cursos de formación musical para creadores y ejecutantes;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 VII. Supervisar la planeación, programación y difusión de exposiciones de artes plásticas montadas en los centros culturales de la ciudad;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 VIII. Estimular la educación artística a través de los talleres de iniciación, escritura, lectura, artes plásticas, música y artes escénicas para niños y adultos;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 IX. Proponer, coordinar y ejecutar programas de formación cultural informal;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 X. Coordinar la planeación y organización de exhibiciones cinematográficas en los centros culturales de la ciudad, con el propósito de formar un público y su gusto por el cine nacional e internacional;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XI. Fomentar la creación de espacios dedicados a la lectura, venta y distribución de libros para propiciar su préstamo y circulación gratuita;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 XII. Supervisar el proyecto editorial de la Secretaría con el previo cumplimiento de las normas vigentes;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XIII. Apoyar y asistir técnicamente a los grupos que realicen actividades artísticas y culturales;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 XIV. Establecer los lineamientos para la contratación de grupos y artistas en artes visuales, música, teatro, literatura, talleres y danza;
 
-XV. Autorizar contrataciones y órdenes de actuación que se acuerden con personas físicas o morales, que reúnan la documentación fiscal correspondiente; y
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
 
-XVI. Autorizar los pagos que se generen con motivo de las órdenes de actuación por servicios externos prestados a la Secretaría.
+XV. Administrar y programar las actividades en la Fábrica de Artes y Oficios (FARO).
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
+XVI. (DEROGADA, G.O. 15 DE JULIO DE 2005).
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
 
 ###### Artículo 97-C.
 
-Corresponde a la Dirección de Patrimonio Cultural y Participación Ciudadana:
+Corresponde a la Coordinación de Patrimonio Histórico, Artístico y Cultural:
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 I. Organizar, coordinar e implantar las acciones necesarias para la realización de las actividades cívicas protocolarias y especiales que requiera el Gobierno del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 II. Realizar directamente o en coordinación con otras dependencias, instituciones, agrupaciones o particulares, acciones para promover el conocimiento de la historia, la geografía, las tradiciones y los demás valores que forman parte del patrimonio cultural urbano y rural de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 III. Organizar y desarrollar, programas que permitan rendir homenaje a nuestros símbolos patrios, héroes nacionales y gestas heroicas;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 IV. Concertar y desarrollar, de forma conjunta con otras instituciones del sector público, programas cívicos y culturales que permitan fortalecer nuestros valores nacionales y conductas patrióticas;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 V. Concertar y coordinar los apoyos que sean necesarios para las actividades diplomáticas del Gobierno del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 VI. Establecer mecanismos de coordinación con las instancias internas de la Secretaría y otras dependencias del sector público para el mejoramiento de los compromisos y asuntos del área;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 VII. Establecer comunicación con instituciones, tanto públicas como privadas, a fin de coordinar las gestiones y asuntos que tiene encomendados;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 VIII. Definir el protocolo a aplicar en cada acto o evento cultural que se realice;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 IX. Mantener actualizado el protocolo y supervisar su aplicación en las ceremonias cívicas y diplomáticas; y
 
-X. Realizar las acciones necesarias para conservar, administrar y acrecentar los bienes históricos, arqueológicos y artísticos de la Ciudad de México, en los términos de las disposiciones legales y administrativas relativas.
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
+X. Realizar las acciones necesarias para conservar, administrar y acrecentar los bienes históricos, arqueológicos y artísticos de la Ciudad de México, en los términos de las disposiciones legales y administrativas relativas;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XI. Proponer políticas y lineamientos para la salvaguarda, preservación, restauración, exhibición, uso y mantenimiento del acervo cultural e histórico de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XII. Conducir, conservar, administrar, mantener y acrecentar el patrimonio cultural del Distrito Federal, procurando el óptimo aprovechamiento de los bienes que lo integran;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XIII. Elaborar, difundir y mantener vigentes las políticas, criterios y lineamientos administrativos para regular la utilización, custodia, clasificación y conservación de los documentos que forman parte del acervo histórico de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XIV. Proponer las normas administrativas o legales que se requieran para asegurar la adecuada clasificación, uso, tenencia, conservación y custodia de los documentos que deben formar parte del acervo histórico documental de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XV. Conducir y promover investigaciones históricas y bibliográficas;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XVI. Administrar y programar las actividades del Archivo Histórico del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XVII. Administrar y programar las actividades del Consejo de la Crónica de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+
+XVIII. Administrar el Museo de la Ciudad de México y el Museo Nacional de la Revolución y programar sus actividades.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
+
+Artículo 97 D.- Corresponde a la Coordinación de Programación Artística:
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
+I. Presentar oportunamente el programa anual de actividades con relación a eventos artísticos y culturales a realizarse en el territorio del Distrito Federal;
+
+(ADICIONADA, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+
+II. Coordinar y evaluar la contratación de artistas, grupos musicales y eventos artísticos en general, previa aprobación del Secretario;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
+III. Definir los criterios para la utilización de los diferentes foros en el Distrito Federal, para la realización de los eventos programados;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
+IV. Establecer la debida coordinación con los Órganos Político-Administrativos del Distrito Federal para la celebración de eventos en sus correspondientes demarcaciones territoriales;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
+V. Promover la obtención de apoyos externos y donativos encaminados al desarrollo de las actividades artísticas y culturales de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
+VI. Establecer el debido contacto con entidades del Gobierno Federal en el ámbito cultural, así como con instituciones y fundaciones culturales de carácter privado que coadyuven al mejor desarrollo de las actividades artísticas y culturales de la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
+VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer de un instrumento de información sistematizada para la realización de sus propias actividades.
+
+(ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
 
 ###### Artículo 97-D.
 
@@ -4044,25 +4166,9 @@ VIII. Brindar servicio óptimo a todas las áreas que conforman la Secretaría e
 
 IX. Diseñar y consolidar una estrategia de vinculación con los medios de comunicación, a través de ruedas de prensa, entrevistas exclusivas, boletines de prensa, inserciones pagadas.
 
-(ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
-
 ###### Artículo 97-F.
 
-Corresponde a la Dirección del Archivo Histórico:
-
-I. Administrar y programar las actividades del Archivo Histórico del Distrito Federal;
-
-II. Administrar y programar las actividades del Consejo de la Crónica de la Ciudad de México;
-
-III. Proponer políticas y lineamientos para la salvaguarda, preservación, restauración, exhibición, uso y mantenimiento del archivo histórico de la Ciudad de México;
-
-IV. Conducir, conservar, administrar, mantener y acrecentar el patrimonio cultural del Distrito Federal, procurando el óptimo aprovechamiento de los bienes que lo integran;
-
-V. Elaborar, difundir y mantener vigentes las políticas, criterios y lineamientos administrativos para regular la utilización, custodia, clasificación y conservación de los documentos que forman parte del acervo histórico de la Ciudad de México;
-
-VI. Proponer las normas administrativas o legales que se requieran para asegurar la adecuada clasificación, uso, tenencia, conservación y custodia de los documentos que deben formar parte del acervo histórico documental de la Ciudad de México; y
-
-VII. Conducir y promover investigaciones históricas y bibliográficas.
+(DEROGADO, G.O. 15 DE JULIO DE 2005)
 
 #### SECCION XII
 
@@ -6150,13 +6256,17 @@ La Dirección General de Servicios Urbanos, tendrá además de las señaladas en
 
 I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
-II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
 
-III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+II. Dar mantenimiento a los parques, jardines, triángulos, jardineras, y demás áreas verdes ubicadas en vialidades secundarias, así como aquellas que se encuentran a cargo del órgano político administrativo; y
 
-IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
 
-V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+III. Brindar el servicio de limpia en sus etapas de barrido manual y mecánico, así como recolección de residuos sólidos en vialidades secundarias, dentro del territorio delegacional;
+
+IV. (DEROGADA, G.O. 15 DE JULIO DE 2005)
+
+V. (DEROGADA, G.O. 15 DE JULIO DE 2005)
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -6227,6 +6337,20 @@ XXI. Establecer y desarrollar las estrategias de trabajo adecuadas para coordina
 XXII. Establecer e incrementar a través de los comités vecinales, la participación de los vecinos en el Distrito Federal, para colaborar con la autoridad del órgano político-administrativo en que residan, en la ejecución de una obra o la prestación de un servicio en su ámbito de competencia, aportando para su realización recursos económicos, materiales o trabajo personal; y
 
 XXIII. Las demás que de manera directa les asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
+
+###### Artículo 131 Bis.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Dar mantenimiento a escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normativa que al efecto se expida por las dependencias competentes;
+
+II. Prestar en su demarcación territorial el suministro de agua potable y alcantarillado, que no estén asignados a otra dependencia o entidad, atendiendo a los lineamientos que efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+III. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las dependencias, y
+
+IV. Dar mantenimiento a los mercados públicos que se encuentran a su cargo, de conformidad con la normativa que al efecto se expida por las dependencias competentes.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -6999,6 +7123,12 @@ XIX. Presentar ante el Secretario competente los informes o quejas sobre la actu
 XX. Proponer a la Dependencia respectiva la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones en las vialidades primarias; y coadyuvar con la Secretaría de Transporte y vialidad en la realización de los estudios técnicos sobre la localización, normas y tarifas que deberán aplicarse para la ubicación, construcción y funcionamiento de los estacionamientos públicos, y
 
 XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
+
+###### Artículo 152 Bis.
+
+Corresponde a la Dirección General de Desarrollo Social además de las atribuciones señaladas en el artículo 128; administrar, organizar y supervisar los centros de desarrollo infantil ubicados en su demarcación en coordinación con la dependencia respectiva.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -8513,3 +8643,7 @@ G.O. 6 DE MAYO DE 2005.
 G.O. 1 DE JUNIO DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE JULIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
