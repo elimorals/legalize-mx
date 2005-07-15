@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-pleno-del-consejo-de-la-judicatura-federal-45418"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-05-29"
-last_updated: "1996-05-29"
+last_updated: "2005-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-05-29"
 
 ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL COMITE DE PROTECCION CIVIL DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 25/2005 DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. EL 15 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2005.
 
 Acuerdo Publicado en el Tomo III del Semanario Judicial de la Federación, el 11 de junio de 1996.
 
@@ -84,3 +86,13 @@ LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUD
 CERTIFICA:
 
 Que este Acuerdo, relativo al Comité de Protección Civil del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de veintinueve de mayo de mil novecientos noventa y seis, por unanimidad de votos de los consejeros: presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a treinta y uno de mayo de mil novecientos noventa y seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE JULIO DE 2005.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal de veintinueve de mayo de mil novecientos noventa y seis, relativo al Comité de Protección Civil del Consejo de la Judicatura Federal.
