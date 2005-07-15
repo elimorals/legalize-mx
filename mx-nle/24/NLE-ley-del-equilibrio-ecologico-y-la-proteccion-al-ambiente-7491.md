@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-7491"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-26"
-last_updated: "2004-02-26"
+last_updated: "2005-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO SESENTA DIAS DESPUES DE LA ENTRADA EN VIGOR DE DICHA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de junio de 1989.
 
@@ -1294,3 +1296,27 @@ Artículo Quinto.- Quedan vigentes todas las disposiciones legales y reglamentar
 Artículo Sexto.- Se deroga el Título Cuarto, Capítulo Primero, de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León.
 
 Artículo Séptimo.- Cuando en otras leyes, reglamentos y demás ordenamientos, se haga referencia a la autoridad estatal en materia de medio ambiente y recursos naturales, la denominación y atribuciones inherentes se entenderán conferidas a la Agencia de Protección al Medio Ambiente y Recursos Naturales que por esta Ley se regula.
+
+P.O. 15 DE JULIO DE 2005.
+
+Artículo Primero.- La presente Ley entrará en vigor a los sesenta días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Nuevo León, publicada en el Periódico Oficial del Estado del 26 de junio de 1989. Asimismo, se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+Artículo Tercero.- En un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, los Municipios deberán adecuar sus reglamentos y demás disposiciones municipales correspondientes, a lo establecido en la presente Ley.
+
+Artículo Cuarto.- Los permisos y autorizaciones otorgados con anterioridad a la fecha de entrada en vigor de la presente Ley, seguirán vigentes hasta su vencimiento y, en su caso, su prórroga se sujetará a las disposiciones de la presente Ley.
+
+Artículo Quinto.- Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento que les dieron origen.
+
+Artículo Sexto.- En tanto se expida el acuerdo mediante el cual se determinará la clasificación de las actividades que no sean consideradas altamente riesgosas, a que se refiere el artículo 182 de la presente Ley, deberán tenerse por tales, aquellas contempladas en los listados que hasta el momento se aplican por la Agencia, y deberá ser integrado y expedido conforme a las disposiciones contenidas en la presente Ley, a mas tardar trescientos sesenta y cinco días naturales después de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- Las autoridades estatales y municipales competentes deberán emitir o en su caso actualizar, a más tardar en trescientos sesenta y cinco días naturales posteriores a la entrada en vigor de la presente Ley, los Programas Sectorial y Municipales del Medio Ambiente y los Programas de Ordenamiento Ecológico Regional y Local.
+
+Artículo Octavo.- En tanto se expidan las disposiciones reglamentarias de esta Ley, continuarán aplicándose las que sobre la materia hubiere, en lo que no se opongan a este ordenamiento.
+
+Artículo Noveno.- El Titular del Ejecutivo del Estado y los Ayuntamientos, mediante acuerdo que se publicará en el Periódico Oficial del Estado o en la Gaceta Municipal, según corresponda, deberán determinar la categoría de área natural protegida que conforme a lo dispuesto en esta Ley, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor de la misma, con la finalidad de cumplir alguno o algunos de los propósitos establecidos en la presente Ley o cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas previstas en este ordenamiento. Las Áreas Naturales Protegidas de competencia estatal, deberán ser objeto de recategorización en cumplimiento a lo dispuesto por el Título Segundo de la presente Ley.
+
+Artículo Décimo.- Cuando en otras leyes, reglamentos y demás ordenamientos, se haga referencia a la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León, la denominación y atribuciones inherentes se entenderán conferidas a la Ley Ambiental del Estado de Nuevo León.
+
+Artículo Undécimo.- El Titular del Ejecutivo del Estado expedirá el Reglamento y demás ordenamientos que resulten necesarios para la eficaz aplicación de la presente Ley en un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
