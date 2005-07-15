@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-seguro-social-en-materia-de-26398"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-01"
-last_updated: "2002-11-01"
+last_updated: "2005-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26398&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2002-10-30"
 
 REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACION, CLASIFICACION DE EMPRESAS, RECAUDACION Y FISCALIZACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2005.
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el viernes 1 de noviembre de 2002.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 1 de noviembre de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -59,7 +59,7 @@ Para efectos de este Reglamento, serán aplicables las definiciones establecidas
 
 I. Patrón del campo: persona física o moral que realiza actividades agrícolas, ganaderas, forestales o mixtas, independientemente de su naturaleza jurídica o económica y que contrata trabajadores para la explotación de dichas actividades;
 
-II. Trabajador eventual del campo: persona física que es contratada en forma eventual para la siembra, recolección, el desahije y otras de análoga naturaleza agrícola, ganadera, forestal o mixta;
+II. (DEROGADA, D.O.F. 15 DE JULIO DE 2005)
 
 III. Jornada reducida: tiempo que labora el trabajador, inferior a los máximos establecidos por la Ley Federal del Trabajo, en el cual el salario se determina por unidad de tiempo;
 
@@ -241,7 +241,9 @@ Los patrones también estarán obligados a lo establecido en el párrafo anterio
 
 Los patrones del campo y demás sujetos obligados, al registrarse ante el Instituto, deberán proporcionar el periodo y tipo de cultivo, superficie o unidad de producción, total de jornadas estimadas a utilizar por periodo y demás datos que se requieran, en los formatos autorizados por el Instituto.
 
-La modificación de cualquiera de los datos proporcionados deberá ser comunicada al Instituto, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que ocurra.
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2005)</small>
+
+La modificación de cualquiera de los datos proporcionados deberá ser comunicada al Instituto, en un plazo no mayor de treinta días naturales contados a partir de la fecha en que ocurran.
 
 ### CAPÍTULO II. DE LA CLASIFICACIÓN DE LAS EMPRESAS Y DETERMINACIÓN DE LA PRIMA EN EL SEGURO DE RIESGOS DE TRABAJO
 
@@ -559,6 +561,10 @@ Los patrones comunicarán al Instituto los salarios de sus trabajadores sin exce
 
 Los patrones que presenten en una sola exhibición cinco o más movimientos de afiliación, deberán hacerlo a través de cualquiera de los medios no impresos especificados en el último párrafo del artículo 15 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2005)</small>
+
+Tratándose de trabajadores eventuales del campo, los movimientos de afiliación, independientemente del número de trabajadores que comprendan, podrán hacerse en documento impreso o en medios magnéticos, cuando el patrón tenga registrados hasta treinta trabajadores. Cuando el patrón tenga registrados más de treinta trabajadores, los movimientos de afiliación deberán presentarse en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza.
+
 ###### Artículo 47.
 
 El Instituto, al recibir el aviso de inscripción de un trabajador, verificará que el aviso correspondiente contenga la Clave Única de Registro de Población del trabajador.
@@ -613,9 +619,11 @@ Si a través del dictamen de contador público autorizado se determina alguno de
 
 Para efectos de la determinación de las percepciones base de cotización de los socios de las sociedades cooperativas, se aplicarán las reglas previstas en la fracción II del artículo 30 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2005)</small>
+
 ###### Artículo 52.
 
-Para efectos de inscripción del trabajador eventual del campo, no se considerará como tal a aquél que realice labores de oficina, transporte, almacenamiento, exposición o venta de productos, así como al que participe en forma exclusiva en el proceso de empaque del producto, salvo que éste se realice de manera inmediata en el lugar del corte, pizca, recolección o cualquier otro proceso análogo de la cosecha.
+Para efectos de inscripción ante el Instituto, no se consideran trabajadores eventuales del campo, aquéllos que realicen labores de oficina, actividades de transporte, almacenamiento, exposición y venta de productos, así como la de empaque en lugares fijos, salvo cuando esta última se realice como preparación del producto para su primera enajenación, por patrones que cumplan con lo dispuesto en la fracción I del artículo 237-B de la Ley.
 
 ### CAPÍTULO IV. DE LAS MODIFICACIONES SALARIALES DE LOS TRABAJADORES
 
@@ -1319,6 +1327,10 @@ Tratándose de la solicitud de pago en parcialidades mensuales, ésta deberá pr
 
 Se tendrá por autorizado el pago diferido o en parcialidades, si el Instituto no notifica al patrón la resolución respectiva, dentro del plazo de veinte días hábiles contados a partir de la presentación de la solicitud.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2005)</small>
+
+El Consejo Técnico del Instituto emitirá anualmente las reglas de carácter general para que se realicen los pagos de las cuotas a cargo de los patrones del campo, respecto de los trabajadores eventuales del campo a su servicio, sin modificar los plazos establecidos en la Ley y tomando en cuenta la existencia de ciclos estacionales en el flujo de recursos de las ramas de la producción agrícola que corresponda. Para tal efecto, el Instituto solicitará la opinión de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
 ###### Artículo 134.
 
 Para efectos de los artículos 40 C y 40 D de la Ley, se requerirá autorización previa del Instituto para el pago en parcialidades o diferido en el caso de los patrones siguientes:
@@ -1926,3 +1938,11 @@ En este caso, los interesados al momento de manifestar por escrito la voluntad d
 Octavo. Para los efectos de la fracción VII del artículo 304 A de la Ley se entenderá como Reglamento para el Pago de Cuotas del Seguro Social, el presente Reglamento."
 
 Dado en la Residencia del Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de octubre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Carlos María Abascal Carranza.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de lo dispuesto en el segundo párrafo del artículo 46 de este Reglamento, durante el plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, solamente los patrones del campo que tengan registrados a más de ochenta trabajadores deberán presentar los movimientos de afiliación en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza.
