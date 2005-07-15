@@ -1,0 +1,2868 @@
+---
+title: "LEY AMBIENTAL DEL ESTADO DE NUEVO LEON"
+identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
+country: "mx"
+rank: "ley"
+publication_date: "2005-07-15"
+last_updated: "2005-07-15"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle"
+scjn_id: "45631"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "84"
+reform_count: "47"
+scjn_last_update: "2025-05-10"
+issue_date: "2005-07-05"
+state: "NLE"
+---
+# LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
+
+LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
+
+EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
+
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+D E C R E T O
+
+Núm... 252
+
+Artículo Único.- Se expide la Ley Ambiental del Estado de Nuevo León, en los siguientes términos:
+
+LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO I. NORMAS PRELIMINARES
+
+###### Artículo 1.
+
+La presente Ley es reglamentaria del segundo párrafo del artículo 3 de la Constitución Política del Estado de Nuevo León. Sus disposiciones son de orden público e interés social, y tienen por objeto propiciar la conservación y restauración del equilibrio ecológico, la protección al ambiente y el desarrollo sustentable del Estado, y establecer las bases para:
+
+I. Propiciar el derecho a disfrutar de un ambiente adecuado para el desarrollo, salud y bienestar de la población;
+
+II. Definir los principios, criterios e instrumentos de la política ambiental en el Estado;
+
+III. Ejercer las atribuciones que en materia ambiental correspondan al Estado y Municipios, de conformidad con lo previsto en el artículo 73 fracción XXIX- G de la Constitución Política de los Estados Unidos Mexicanos, y en los artículos 7 y 8 de la Ley General de Equilibrio Ecológico y la Protección al Ambiente;
+
+IV. Establecer y administrar las áreas naturales protegidas, así como la coordinación del Sistema Estatal de Áreas Naturales Protegidas;
+
+V. Evaluar el impacto ambiental de las obras o actividades que no sean competencia de la Federación;
+
+VI. Garantizar la participación corresponsable de las personas físicas y morales, en forma individual o colectiva, en la preservación del equilibrio ecológico y la protección al ambiente;
+
+VII. Promover, organizar y conservar el patrimonio ecológico de la entidad, integrado por las áreas naturales protegidas previstas en ésta Ley, para consolidarlo como espacio de convivencia social, objeto de investigación científica y promoción del desarrollo sustentable;
+
+VIII. Prevenir, controlar y mitigar la contaminación del aire, agua, y suelo en el territorio del Estado, en las materias que no sean competencia de la Federación;
+
+IX. Fijar las medidas de control y de seguridad para garantizar el cumplimiento y aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y
+
+X. Establecer los mecanismos de coordinación, inducción y concertación entre las autoridades y los sectores social y privado en materia ambiental.
+
+###### Artículo 2.
+
+Se considera de utilidad pública:
+
+I. El ordenamiento ecológico del territorio del Estado;
+
+II. La formulación y ejecución de acciones de protección, conservación y preservación de la biodiversidad ubicada en las zonas sobre las que el Estado ejerce su jurisdicción;
+
+III. El establecimiento, protección, conservación y preservación de las áreas naturales protegidas de competencia estatal o municipal, así como las zonas de restauración ecológica;
+
+IV. La conservación de la biodiversidad, y el aprovechamiento sustentable de los recursos naturales, a fin de hacer compatible la generación de beneficios económicos con la conservación de los ecosistemas;
+
+V. La prevención y control de la contaminación ambiental del aire, agua y suelo, así como el cuidado, restauración y aprovechamiento de los elementos naturales y de los sitios necesarios para asegurar la conservación y el incremento de la vida silvestre;
+
+VI. La planeación y ejecución de acciones que fomenten la educación ambiental y el fortalecimiento de una cultura ecológica, así como el desarrollo de tecnologías apegadas a criterios ambientales;
+
+VII. La participación social orientada al desarrollo sustentable del Estado; y
+
+VIII. El establecimiento de zonas intermedias de salvaguarda, por la presencia o realización de actividades riesgosas que afecten o puedan afectar el equilibrio de los ecosistemas, la seguridad de las personas en los centros de población o el ambiente del Estado en general o de uno o varios de sus Municipios.
+
+###### Artículo 3.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Actividad que no es considerada como altamente riesgosa: Toda acción u omisión que ponga en peligro la integridad de los seres vivos y del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen y que no están consideradas como altamente riesgosas por la Federación, de acuerdo a la Ley General y demás ordenamientos ambientales aplicables;
+
+II. Agencia: La Agencia de Protección al Medio Ambiente y Recursos Naturales, organismo público descentralizado de participación ciudadana del Estado de Nuevo León;
+
+Aguas residuales: Aquellas aguas que han sido alteradas, en su calidad original, como resultado de su uso o aprovechamiento doméstico, comercial, industrial, agrícola, o pecuario y en general, en cualquier actividad humana, que contienen contaminantes que modifican o alteran su calidad;
+
+Agua potable: La apta para alimentación, lavado y uso industrial. La apreciación de potabilización se efectuará mediante un examen organoléptico seguido de un análisis químico-bacteriológico. Dicho líquido deberá satisfacer las condiciones siguientes: sabor: insípido o, en su caso, agradable; aireación: aireada; limpidez: limpia y transparente; dureza: no debe cortar el jabón;
+
+Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+
+Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
+
+Áreas naturales protegidas: Las zonas del territorio del Estado sujetas al régimen previsto en la presente Ley, o en otros ordenamientos o decretos vigentes, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas;
+
+Asentamiento humano: El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
+
+Atmósfera: La capa de aire que circunda el planeta, formada por una mezcla principalmente de nitrógeno y oxígeno y otros gases como argón y neón, además de bióxido de carbono y vapor de agua; su límite se considera convencionalmente a veinte mil metros de altitud;
+
+Biodiversidad: La variabilidad de organismos vivos de cualquier origen, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+
+Centro de población: Las zonas constituidas por las áreas urbanas o urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación natural y ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros, así como las que por resolución de la autoridad competente se prevean para la fundación de los mismos;
+
+Condiciones particulares de descarga: La dictaminación que emita la Agencia respecto de los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, fijados por las Normas Oficiales Mexicanas y la Ley de Aguas Nacionales;
+
+XIII. (sic) Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; así como proteger, cuidar, manejar, mantener y en su caso el aprovechamiento de los ecosistemas, los hábitat, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo;
+
+XIV. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+
+XV. Contaminación ostensible: La presencia clara, contundente o directa en el ambiente, de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico o molestias a los seres vivos;
+
+XVI. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de éstos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
+
+XVII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
+
+XVIII. Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+
+XIX. Criterios ambientales: Los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
+
+XX. Cuerpo receptor: La corriente, depósito de agua, cauce o bienes del dominio público del Estado o Municipios en donde se descargan, infiltran o inyectan aguas residuales;
+
+XXI. Desarrollo urbano: El proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+
+XXII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+
+XXIII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+
+XXIV. Ecoeficiencia: Forma de cumplimiento ambiental que se sustenta en mecanismos proactivos en la aplicación de tecnologías ambientalmente compatibles para la producción de bienes o servicios, que redunden tanto en el ahorro económico o energético, como en la preservación y protección al ambiente, atendiendo a la premisa del desarrollo sustentable;
+
+XXV. Ecología:(Del griego “oicos” = casa y “logos”= tratado). Ciencia que estudia la distribución e interacción de los seres vivos entre sí y con su entorno o medio ambiente;
+
+XXVI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+
+XXVII. Ecoturismo: Son las actividades encaminadas a la distracción, esparcimiento o recreo orientadas al disfrute de la naturaleza, de forma tal que se respete, mantenga y preserve el equilibrio de los ecosistemas, sus elementos y procesos naturales;
+
+XXVIII. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la enseñanza, adquisición y asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+
+XXIX. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la coexistencia, transformación y desarrollo del hombre y demás seres vivos;
+
+XXX.- Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
+
+XXXI.- Emisiones a la atmósfera: La descarga directa o indirecta a la atmósfera de toda sustancia o energía, en cualquiera de sus estados físicos y formas;
+
+XXXII.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+
+XXXIII.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tiene un lugar fijo;
+
+XXXIV.- Gestión integral de residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+
+XXXV.- Gran generador: Persona física o moral que genere una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+
+XXXVI.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+XXXVII.- Instrumentos económicos: mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asuman los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
+
+XXXVIII.- Ley: Ley Ambiental del Estado de Nuevo León;
+
+XXXIX.- Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+XL.- Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+XLI.- Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+
+XLII.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes, y de los residuos que éstos generan;
+
+XLIII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+
+XLIV.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud, o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+
+XLV.- Mejoramiento: El incremento de la calidad del ambiente;
+
+XLVI.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+
+XLVII.- Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+
+XLVIII.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de biodiversidad fuera de sus hábitat naturales;
+
+XLIX.- Prestador de servicios en materia ambiental: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que tiene como actividad la gestión, tramitación o intermediación para la obtención de trámites, permisos y autorizaciones de cualquier tipo, ante la autoridad correspondiente, o cualquier diligencia administrativa o normativa ante ésta, por cuenta propia o a favor de terceros;
+
+L.- Prestador de servicios en materia de impacto y riesgo ambiental: Prestador de servicios, registrado o autorizado por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
+
+LI.-Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+(sic).- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+
+LIII.- Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
+
+LIV.- Recurso genético: El material genético de valor real o potencial;
+
+LV.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
+
+LVI.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un liquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
+
+LVII.- Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+
+LVIII.- Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
+
+LIX.- Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
+
+LX.- Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
+
+LXI.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+LXII.- Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
+
+LXIII.- Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
+
+LXIV.- Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
+
+LXV.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+
+LXVI.- Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; y
+
+LXVII.- Zona núcleo: Los sitios dentro de un área natural protegida, mejor conservados o no perturbados, que alojen ecosistemas, elementos naturales de especial importancia u organismos en riesgo que requieran protección especial.
+
+###### Artículo 4.
+
+Para la resolución de los casos no previstos por la presente Ley, serán aplicables supletoriamente, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, los Reglamentos que de dichos instrumentos se deriven, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y las demás leyes y ordenamientos relacionados con las materias que regula la presente Ley.
+
+### CAPÍTULO II. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN DE AUTORIDADES
+
+###### Artículo 5.
+
+El Estado y los Municipios ejercerán sus atribuciones en materia de preservación, restauración y conservación del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias previstas en la Ley General, en ésta Ley y en otros ordenamientos aplicables. Los Municipios, en el ámbito de su competencia, podrán aplicar de manera supletoria lo dispuesto en esta Ley, a falta de reglamentación municipal específica en la materia.
+
+###### Artículo 6.
+
+En la entidad son autoridades en materia ambiental:
+
+1.- El Estado a través de:
+
+a) El Titular del Ejecutivo del Estado; y
+
+b) La Agencia.
+
+II. Los Municipios a través de:
+
+a) Los Ayuntamientos;
+
+b) El Presidente Municipal; y
+
+c) Las dependencias o unidades administrativas que al efecto designen, en los términos de la reglamentación aplicable al ámbito municipal.
+
+###### Artículo 7.
+
+En la ejecución y cumplimiento de la presente Ley, corresponde al Titular del Ejecutivo del Estado, las siguientes atribuciones:
+
+I. Formular, conducir y evaluar la política ambiental estatal;
+
+II. Aplicar los instrumentos de política ambiental previstos en esta Ley;
+
+III. Expedir la declaratoria, así como los lineamientos necesarios para regular, administrar y vigilar las áreas naturales protegidas de competencia estatal, en su caso con la participación de los Municipios;
+
+IV. Formular y expedir los programas de Ordenamiento Ecológico Regional y Local, con la participación de los Municipios respectivos;
+
+V. Ordenar la elaboración, aprobar, evaluar, circular y mandar publicar en el Periódico Oficial del Estado, el Programa Sectorial de Medio Ambiente y Recursos Naturales;
+
+VI. Conducir la política estatal de información y difusión en materia ambiental;
+
+VII. Celebrar acuerdos o convenios de coordinación en materia ambiental con la Federación, otros Estados o con los Municipios;
+
+VIII. Concertar con los sectores social y privado la realización de acciones en las materias de su competencia conforme a esta Ley;
+
+IX. Atender coordinadamente con la Federación los asuntos que afecten simultáneamente el equilibrio ecológico en el Estado y una o más entidades federativas;
+
+X. Presidir, en los términos de la Ley de la Agencia de Protección al Medio Ambiente y Recursos Naturales, su Consejo de Participación Ciudadana;
+
+XI. Expedir, en la esfera administrativa, los ordenamientos necesarios para proveer el cumplimiento de la presente Ley; y
+
+XII. Las demás atribuciones que le otorgue la presente Ley u otros ordenamientos aplicables en la materia.
+
+###### Artículo 8.
+
+Corresponde a la Agencia, además de las facultades que le otorguen otros ordenamientos, el ejercicio de las siguientes atribuciones:
+
+I. Aplicar los instrumentos de política ambiental previstos en esta Ley y en otras disposiciones establecidas en la materia en el ámbito de su competencia;
+
+II. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción estatal;
+
+III. Prevenir, medir y controlar la contaminación a la atmósfera en el territorio del Estado, generada por fuentes fijas o móviles, dentro de la esfera de competencia que le otorgue la presente Ley;
+
+IV. Regular en el territorio del Estado las actividades cuyo nivel de riesgo no alcancen a ser consideradas como altamente riesgosas para el ambiente;
+
+V. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos que en esta Ley se establecen como de competencia estatal;
+
+VI. Prevenir, medir y controlar la contaminación generada por la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales, que puedan dañar el equilibrio ecológico o el ambiente en el territorio del Estado, provenientes de fuentes fijas o móviles, dentro de la esfera de competencia que le otorgue la Ley;
+
+VII.- Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en el Estado, con la participación de los Municipios y de la sociedad en general;
+
+VIII. Regular, promover y supervisar el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas el Estado;
+
+IX. Prevenir y controlar la contaminación generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
+
+X. Atender, con base en los lineamientos que determine el Titular del Ejecutivo del Estado, los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios;
+
+XI. Proponer al Titular del Ejecutivo del Estado la adopción de las medidas necesarias para la prevención y el control de emergencias y contingencias ambientales de competencia estatal;
+
+XII. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones III, V y VI de este Artículo;
+
+XIII. Evaluar el impacto ambiental en la realización de las obras o actividades a que se refiere esta Ley, siempre que no se encuentren expresamente reservadas a la Federación o a los Municipios y, en su caso, otorgar las autorizaciones correspondientes;
+
+XIV. Convenir con los Municipios el establecimiento de programas de verificación vehicular y control de contaminación a la atmósfera, cuando se trate de dos o más Municipios;
+
+XV. Integrar y mantener actualizado, en el ámbito de su competencia, el inventario de fuentes fijas de contaminación en el Estado;
+
+XVI. Prevenir y controlar la contaminación por descargas de aguas residuales en las redes de drenaje de su competencia;
+
+XVII. Aplicar las medidas correctivas, de seguridad y sanciones administrativas que procedan, por infracciones a esta Ley y su Reglamento, o a las disposiciones que de dichos instrumentos legales se deriven;
+
+XVIII. Realizar las acciones que le competan a fin de preservar y restaurar el equilibrio ecológico y la protección al ambiente en la entidad, coordinando en su caso, la participación de las demás dependencias de la administración pública estatal en la materia, según sus respectivas competencias;
+
+XIX. Diseñar programas que promuevan la regulación y auditoría ambiental en industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal;
+
+XX. Formular, conducir y evaluar la política estatal en materia de aprovechamiento sustentable de la vida silvestre, actividades cinegéticas y la pesca deportiva en el Estado, conforme a lo dispuesto en las leyes y reglamentos aplicables;
+
+XXI. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales, y que tengan relación directa con las materias que se encuentren dentro del objeto de la Agencia;
+
+XXII. Aplicar en el ámbito estatal y dentro de la esfera de su competencia, las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General de Vida Silvestre; así como las atribuciones que la Federación le transfiera al Estado, en el marco de las disposiciones que dichas leyes establecen;
+
+XXIII. Aplicar dentro de la esfera de su competencia, las disposiciones de la Ley Estatal de Protección a los Animales;
+
+XXIV. Administrar el Sistema Estatal de Áreas Naturales Protegidas llevando a cabo su manejo integral y vigilancia, promoviendo la participación de las instituciones científicas y académicas y de los sectores social y privado en su restauración, conservación y aprovechamiento sustentable;
+
+XXV. Administrar, desarrollar y supervisar en el ámbito de su competencia, la operación de los parques estatales, así como ejecutar las acciones necesarias para su rehabilitación, que permitan el mejoramiento de los servicios que ofrecen al público;
+
+XXVI. Atender los asuntos que en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, les concedan las leyes u otros ordenamientos y que no estén otorgados expresamente a la Federación;
+
+XXVII. Impulsar campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica;
+
+XXVIII. Integrar y coordinar el Sistema Estatal de Información Ambiental y Recursos Naturales en los términos de esta Ley;
+
+XXIX. Promover la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en esta Ley;
+
+XXX. Expedir y en su caso, revocar las autorizaciones, permisos, y demás trámites relativos a las materias que en esta Ley y su Reglamento, se establecen como de su competencia;
+
+XXXI. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta Ley, su Reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, y las condicionantes que en materia ambiental se impongan en los registros, documentos y autorizaciones que emita;
+
+XXXII. Clausurar y suspender las obras o actividades y en su caso, solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando se violenten los criterios y disposiciones de ésta Ley y su Reglamento;
+
+XXXIII. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria, de conformidad con la presente Ley;
+
+XXXIV. Tramitar y resolver los recursos administrativos que le competen conforme a esta Ley;
+
+XXXV. Atender y resolver las denuncias ciudadanas, presentadas conforme a lo dispuesto por la presente Ley, en los asuntos de su competencia;
+
+XXXVI. Proporcionar la información pública que le sea solicitada, de conformidad con lo establecido en la presente Ley y otros ordenamientos aplicables;
+
+XXXVII. Establecer y operar el registro de emisiones y transferencia de contaminantes, así como el registro obligatorio de las fuentes fijas de competencia estatal y el registro de descargas de aguas residuales que se viertan en los sistemas de drenaje y alcantarillado o a cuerpos receptores de competencia estatal;
+
+XXXVIII. Promover el uso de fuentes de energía alterna, así como de sistemas y equipos para prevenir o reducir las emisiones contaminantes de los vehículos en los que se preste el servicio público local de transporte de pasajeros o carga, así como procurar su utilización en los demás tipos de automotores;
+
+XXXIX Formular los listados de las actividades riesgosas, así como de las obras o actividades que generen impacto ambiental significativo;
+
+XL. Expedir el registro de los prestadores de servicios en materia ambiental;
+
+XLI. Coordinar la elaboración, administración, evaluación, revisión y modificación del Programa Sectorial de Medio Ambiente y Recursos Naturales de Nuevo León en términos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley Estatal de Planeación y otros ordenamientos aplicables;
+
+XLII. Establecer, regular, administrar y vigilar las áreas naturales protegidas previstas en esta Ley, cuando sean de su competencia;
+
+XLIII. Promover la formulación, expedición y ejecución de los programas de ordenamiento ecológico de la entidad, en sus modalidades regional y local;
+
+XLIV. Proporcionar, a solicitud de los Municipios, el apoyo, la asesoría técnica, capacitación e información, para la elaboración de los programas de ordenamiento ecológico local;
+
+XLV. Convenir con los productores y grupos empresariales, el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, certificados de bajas emisiones;
+
+XLVI. Establecer los criterios ambientales a que deberán sujetarse los programas, adquisiciones, obras y servicios de las dependencias y entidades de la Administración Pública del Estado de Nuevo León;
+
+XLVII. Proponer, o en su caso establecer, la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
+
+XLVIII. Promover y realizar programas para el desarrollo de tecnologías limpias y procedimientos que permitan prevenir y controlar la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, la conservación de los ecosistemas, y el desarrollo de procesos tecnológicos sustentables, con instituciones de educación superior, centros de investigación, instituciones públicas o privadas, organizaciones de la sociedad civil, organismos y cámaras empresariales, así como con otras entidades y dependencias de los tres niveles de gobierno;
+
+XLIX. Emitir recomendaciones a las autoridades federales y municipales, con el propósito de promover el cumplimiento de la normatividad ambiental;
+
+L. Aplicar las sanciones administrativas, medidas correctivas y de seguridad que correspondan, por infracciones a la Ley General, en materias de competencia local;
+
+LI. Denunciar ante el Ministerio Público los hechos considerados como delitos; y
+
+LII. Las demás atribuciones que le otorguen la presente Ley, la Ley de la Agencia de Protección al Medio Ambiente y Recursos Naturales, y otros ordenamientos aplicables en la materia.
+
+###### Artículo 9.
+
+En la ejecución y cumplimiento de la presente Ley, corresponderán a los Municipios, las siguientes atribuciones:
+
+I. Formular, conducir y evaluar la política ambiental municipal, en congruencia con la política federal y estatal en la materia;
+
+II. Aplicar los instrumentos de política ambiental previstos en las disposiciones legales aplicables en la materia;
+
+III. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas al Estado o a la Federación;
+
+IV. Aplicar los ordenamientos en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos comerciales o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal o estatal, con la participación que de acuerdo a la presente Ley corresponda al Estado;
+
+V. Participar con el Estado en la elaboración y aplicación de las Normas Ambientales Estatales, para regular las actividades riesgosas;
+
+VI. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos;
+
+VII. Crear y administrar, cuando así se determine en las disposiciones correspondientes, parques urbanos, zonas de preservación ecológica en los centros de población, jardines públicos y demás áreas análogas previstas por esta Ley;
+
+VIII Aplicar los ordenamientos relativos a la prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios, las provenientes del resultado de la quema a cielo abierto de cualquier tipo de residuos de su competencia, así como la vigilancia del cumplimiento de los ordenamientos que, en su caso, resulten aplicables a las fuentes móviles excepto las que sean consideradas de jurisdicción Federal o Estatal;
+
+IX. Promover el aprovechamiento sustentable, la conservación, ahorro, reciclaje y reuso de las aguas que se destinen para la prestación de los servicios públicos a su cargo, así como promover la captación y uso eficiente del agua de lluvia, conforme a lo dispuesto en la Ley de Aguas Nacionales;
+
+X. Formular, autorizar y expedir el programa de ordenamiento ecológico local, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dicho programa, en coordinación con el Estado, en términos de lo dispuesto en esta Ley y en otras disposiciones jurídicas aplicables;
+
+XI. Establecer y ejecutar en forma continua y permanente campañas o programas de educación ambiental y difusión de cultura ecológica, en el ámbito de su competencia;
+
+XII. Preservar y restaurar el equilibrio ecológico y proteger al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, y demás servicios públicos a su cargo, siempre y cuando no se trate de atribuciones otorgadas al Estado por la presente Ley;
+
+XIII. Sancionar, en el ámbito de su competencia, la realización de actividades ruidosas, así como las emisiones provenientes de aparatos de sonido, en establecimientos públicos o privados, o en unidades móviles, que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas y Normas Ambientales Estatales;
+
+XIV. Registrar la emisión de ruidos y vibraciones en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento de la salud;
+
+XV. Participar en coordinación con el Estado en la atención de los asuntos que afecten el equilibrio ecológico de dos o más Municipios y que generen efectos ambientales en su circunscripción territorial;
+
+XVI. Participar en la prevención y control de emergencias y contingencias ambientales que pudieren presentarse en su circunscripción territorial, atendiendo a las políticas y programas de protección civil que al efecto se establezcan por las autoridades competentes;
+
+XVII. Vigilar en la esfera de su competencia el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones de este artículo;
+
+XVIII. Formular y conducir la política municipal de información y difusión en materia ambiental;
+
+XIX. Formular, aprobar, ejecutar y evaluar el Programa Municipal del Medio Ambiente y Recursos Naturales, en congruencia con el Programa Sectorial de Medio Ambiente y Recursos Naturales de Nuevo León;
+
+XX. Celebrar acuerdos o convenios de coordinación en materia ambiental con otros Municipios o con el Estado;
+
+XXI. Concertar con los sectores social y privado la realización de acciones en las materias de su competencia;
+
+XXII. Vigilar el cumplimiento de las condiciones establecidas en las resolutivas en materia de impacto y riesgo ambiental en las obras y actividades que se realicen en el ámbito de su circunscripción territorial;
+
+XXIII. Establecer y aplicar las medidas correctivas y de urgente aplicación, e imponer las sanciones correspondientes por infracciones a la presente Ley, su Reglamento y demás disposiciones en el ámbito de sus respectivas competencias;
+
+XXIV. Expedir las autorizaciones, permisos, concesiones y demás trámites que en esta Ley se establecen como de su competencia;
+
+XXV. Elaborar los informes periódicos sobre la situación ambiental y de los recursos naturales en el respectivo Municipio;
+
+XXVI. Tramitar y resolver los recursos administrativos, en la esfera de su competencia;
+
+XXVII. Atender y resolver las denuncias populares, presentadas conforme a lo dispuesto por la presente Ley, en los asuntos de su competencia, así como canalizar oportunamente a la autoridad correspondiente, aquéllas que no entren en la esfera de su competencia;
+
+XXVIII. Llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos;
+
+XXIX. Expedir los Bandos de Policía y Buen Gobierno, sus Reglamentos, y disposiciones administrativas para coadyuvar con el cumplimiento de la presente Ley; y
+
+XXX. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
+
+#### SECCIÓN I. COORDINACIÓN DE AUTORIDADES
+
+###### Artículo 10.
+
+El Estado podrá suscribir con la Federación convenios o acuerdos de coordinación con la participación, en su caso, de sus Municipios, con el objeto de asumir las siguientes facultades:
+
+I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y las disposiciones de la Ley General;
+
+II. El control de los residuos peligrosos conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos;
+
+III. La evaluación del impacto ambiental de las obras o actividades a que se refiere el artículo 28 de la Ley General y, en su caso, la expedición de las autorizaciones correspondientes, con excepción de las obras o actividades que señala la fracción III del artículo 11 de la Ley General;
+
+IV. La protección y preservación del suelo, la vida silvestre y los recursos forestales;
+
+V. El control de acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al ambiente, así como en la zona federal de los cuerpos de agua considerados como nacionales;
+
+VI. La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
+
+VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y en su caso, la expedición de las autorizaciones correspondientes;
+
+VIII.- La realización de acciones operativas tendientes a cumplir con los fines previstos en la Ley General; o
+
+IX. La inspección y vigilancia del cumplimiento de la Ley General y demás ordenamientos federales aplicables, así como en aquellos que de los mismos deriven.
+
+###### Artículo 11.
+
+Los convenios y acuerdos de coordinación que suscriban la Federación y el Estado, con la participación, en su caso, de sus Municipios, para efectos del cumplimiento del artículo anterior, deberán sujetarse a las siguientes bases:
+
+I. Se celebrarán a petición del Estado, cuando se cuente con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría y que para tales efectos requiera la autoridad federal. Estos requerimientos dependerán del tipo de convenio o acuerdo a firmar y las capacidades serán evaluadas en conjunto con la Federación;
+
+II. Establecerán con precisión las materias, su objeto, así como las facultades que se asumirán;
+
+III. Determinarán la participación y responsabilidad que corresponda a cada una de las partes, así como los bienes y recursos aportados por las mismas, especificando su destino y forma de administración. Además precisarán qué tipo de facultades se pueden asumir de forma inmediata a la firma del convenio o acuerdo y cuáles en forma posterior;
+
+IV. Establecerán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, así como el cronograma de las actividades a realizar;
+
+V. Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
+
+VI. Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
+
+VII. Contendrán, los anexos técnicos necesarios para detallar los compromisos adquiridos; y
+
+VIII. Las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación.
+
+Los convenios a que se refiere el presente artículo deberán ser publicados en el Periódico Oficial del Estado.
+
+###### Artículo 12.
+
+El Estado también podrá suscribir con la Federación, con otros Estados o con los Municipios, convenios o acuerdos de coordinación con el propósito de atender y resolver problemas ambientales comunes, y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en esta Ley y otros ordenamientos aplicables en la materia.
+
+Con el propósito descrito en el párrafo anterior, los Municipios también podrán celebrar convenios o acuerdos de coordinación con otro o varios Municipios y con el Estado, en los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+
+###### Artículo 13.
+
+El Estado podrá suscribir convenios de concertación y colaboración con los sectores social y privado, para la realización de acciones conjuntas relativas a las materias que establece la presente Ley.
+
+###### Artículo 14.
+
+Los convenios o acuerdos de coordinación que suscriba el Estado con la Federación, otros Estados o Municipios, en los términos del artículo 12 de la presente Ley, así como con los sectores social y privado, deberán sujetarse a las siguientes bases:
+
+I. Definirán con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
+
+II. Deberá ser congruente el propósito de los convenios o acuerdos de coordinación con las disposiciones del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo y con la política ambiental nacional y estatal;
+
+III. Se describirán los bienes y recursos que aporten las partes esclareciendo cuál será su destino específico y su forma de administración;
+
+IV. Se especificará la vigencia del convenio o acuerdo, sus formas de terminación y de solución de controversias y, en su caso, de prórroga;
+
+V. Definirán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación y seguimiento; y
+
+VI. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo.
+
+Los convenios a que se refiere el presente artículo deberán ser publicados en el Periódico Oficial del Estado.
+
+###### Artículo 15.
+
+Las autoridades ambientales del Estado participarán y cumplirán las funciones que les corresponda en el seno del órgano que, en los términos del artículo 14 Bis de la Ley General sea integrado, con el propósito de coordinar los esfuerzos en materia ambiental de las instancias que lo conformen.
+
+### CAPÍTULO III. POLÍTICA AMBIENTAL DEL ESTADO
+
+###### Artículo 16.
+
+Para la formulación, evaluación y ejecución de la política ambiental estatal y demás instrumentos previstos en esta Ley, además de los que establece la Ley General, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, se observarán los siguientes principios:
+
+I. La política ambiental debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida;
+
+II. Del equilibrio de los ecosistemas dependen la vida y las posibilidades productivas del Estado, en términos de la ecoeficiencia;
+
+III. Los ecosistemas y sus elementos deben ser aprovechados de manera que no se rebase su capacidad de carga, para asegurar una productividad óptima y sustentable, compatible con su equilibrio e integridad, asegurando el mantenimiento de su diversidad y renovabilidad;
+
+IV. El Estado, los Municipios y la sociedad en general, deben asumir la responsabilidad concurrente de la protección al medio ambiente, que comprende las condiciones que determinarán la calidad de vida de generaciones presentes y futuras;
+
+V. La coordinación entre el Estado, sus Municipios y la Federación, así como la concertación con la sociedad, son indispensables para la eficacia de las acciones ambientales;
+
+VI. En el ejercicio de las atribuciones que las leyes confieren al Estado y a los Municipios para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación y restauración del equilibrio ecológico;
+
+VII. El Estado y los Municipios, en los términos que establezcan las leyes y reglamentos aplicables, tomarán las medidas necesarias para respetar el derecho a disfrutar de un ambiente sano;
+
+VIII. La persona que realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
+
+IX. El medio más eficaz para evitar los desequilibrios ecológicos es la prevención de las causas que los generan;
+
+X. Los sujetos principales de la concertación ambiental son los individuos y organizaciones sociales. El propósito de la concertación de acciones ambientales es reorientar las relaciones entre la sociedad y la naturaleza;
+
+XI. La calidad de vida de la población se incrementa a través de la prevención y control de la contaminación ambiental, el adecuado aprovechamiento de los recursos naturales, la preservación ecológica y el mejoramiento del entorno natural en los asentamientos humanos;
+
+XII. En el Estado se promoverá un ordenamiento ecológico que ubique y regule las actividades productivas o de servicios, de manera que quede asegurada la permanencia de los elementos y recursos naturales;
+
+XIII. Los recursos naturales no renovables deben utilizarse de manera responsable y de modo que se evite su agotamiento y la generación de efectos ecológicos y ambientales adversos;
+
+XIV. El derecho de las comunidades locales a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda de la biodiversidad, se garantizará de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables en la materia;
+
+XV. La educación ambiental es el medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sustentable de los ecosistemas, y con ello, prevenir los desequilibrios ecológicos y daños ambientales;
+
+XVI. Es prioritario el fomento al desarrollo basado en el conocimiento, a fin de encontrar esquemas de innovación tecnológica en el sector productivo, que permitan el crecimiento económico del Estado, sin comprometer el equilibrio ecológico y la protección al ambiente;
+
+XVII. Los servicios ambientales serán considerados en el desarrollo de las actividades productivas, a fin de no comprometer la disponibilidad de recursos naturales y permitir la restauración de los ecosistemas; y
+
+XVIII. En la promoción del desarrollo urbano, se deberá considerar de manera prioritaria el incremento sostenido en la proporción de áreas verdes por persona.
+
+XIX. Privilegiar esquemas de autorregulación respecto de los actos de inspección y vigilancia, como una forma de fomentar el cumplimiento a la normatividad ambiental.
+
+### CAPÍTULO IV. INSTRUMENTOS DE LA POLÍTICA AMBIENTAL DEL ESTADO
+
+#### SECCIÓN I. PLANEACIÓN AMBIENTAL
+
+###### Artículo 17.
+
+En la planeación estatal del desarrollo se deberá incorporar la política ambiental y los planes de ordenamiento ecológico que se establezcan de conformidad con esta Ley, su reglamento y otros ordenamientos en la materia.
+
+En la planeación y en la realización de las acciones a cargo de las dependencias y entidades de la Administración Pública Estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Estado para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo y los programas correspondientes.
+
+Para tal efecto se promoverá la participación de las instituciones de educación superior y de investigación científica, así como de los representantes de los distintos sectores sociales de la entidad.
+
+###### Artículo 18.
+
+El Estado y los Municipios en el ámbito de sus respectivas competencias, formularán sus respectivos Programas Sectorial y Municipal de Medio Ambiente y Recursos Naturales, conforme a lo establecido en esta Ley, la Ley Estatal de Planeación y otros ordenamientos aplicables y vigilarán su aplicación y evaluación periódica. En la elaboración de dichos instrumentos, se deberá considerar la participación de la sociedad.
+
+#### SECCIÓN II. ORDENAMIENTO ECOLÓGICO DEL ESTADO
+
+###### Artículo 19.
+
+La elaboración del ordenamiento ecológico del Estado se llevará a cabo de conformidad con lo dispuesto en esta Ley. Asimismo, el Titular del Ejecutivo del Estado deberá promover la participación de autoridades municipales, grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas, de conformidad con las disposiciones previstas en esta Ley, así como en otros ordenamientos aplicables.
+
+###### Artículo 20.
+
+El ordenamiento ecológico del Estado se llevará a cabo a través de los siguientes programas:
+
+I. Regional: comprende dos o más Municipios del territorio del Estado; y
+
+II. Local: comprende la totalidad o una parte del territorio del Municipio.
+
+###### Artículo 21.
+
+En la elaboración de los programas de ordenamiento ecológico del Estado, se deberá considerar lo siguiente:
+
+I. La naturaleza y características de cada ecosistema existente en el territorio del Estado;
+
+II. La vocación de cada zona o región del Estado, en función de los recursos naturales, la distribución de la población y las actividades económicas predominantes;
+
+III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
+
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
+
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades;
+
+VI. Las prácticas de aprovechamiento de los recursos naturales y sus repercusiones en sus ecosistemas; y
+
+VII. El carácter especial o prioritario de una región en el Estado.
+
+###### Artículo 22.
+
+Los Programas de Ordenamiento Ecológico Regional y Local deberán contener, por lo menos:
+
+I. La determinación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
+
+II. La determinación de los criterios de regulación ecológica para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en la región de que se trate, así como para la realización de actividades productivas y la ubicación de asentamientos humanos;
+
+III. Los lineamientos para su ejecución, evaluación, seguimiento y modificación; y
+
+IV. Los demás lineamientos que al efecto determine el Reglamento de ésta Ley.
+
+###### Artículo 23.
+
+Cuando una región ecológica se ubique en dos o más Municipios de la entidad, el Estado y los Municipios respectivos en el ámbito de sus competencias, podrán formular un Programa de Ordenamiento Ecológico Regional para dicha zona; para tal efecto se celebrarán los acuerdos o convenios de coordinación atendiendo en lo conducente a las disposiciones de la presente Ley y otros ordenamientos aplicables.
+
+###### Artículo 24.
+
+Corresponde a los Ayuntamientos la expedición de los Programas de Ordenamiento Ecológico Local, de conformidad con esta Ley. Estos programas tendrán por objeto:
+
+I. Determinar las distintas áreas ecológicas que se definan en la zona de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de tecnologías utilizadas por los habitantes del lugar;
+
+II. Regular fuera de los centros de población los usos de suelo con el propósito de proteger el ambiente, preservar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos; y
+
+III. Establecer los criterios de regulación ecológica para la preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes de desarrollo urbano correspondientes.
+
+###### Artículo 25.
+
+Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los Programas de Ordenamiento Ecológico Local, se sujetará a lo previsto en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, atendiendo las bases siguientes:
+
+I. Existirá congruencia entre los Programas de Ordenamiento Ecológico Regional y Local, con el Federal, y se deberán atender los criterios que al efecto señale el Estado, a través de la Agencia;
+
+II. Cubrirán la totalidad o una parte de la extensión geográfica del Municipio;
+
+III. Las previsiones mediante los cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se sujetará a lo que establezca el Programa de Ordenamiento Ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento que dio origen a éste;
+
+IV. Las autoridades estatales y municipales, harán compatibles los Programas de Ordenamiento Ecológico del Estado y la ordenación y regulación de los asentamientos humanos, incorporando las previsiones correspondientes en dichos programas, así como en los programas de ordenamiento territorial, asentamientos humanos y desarrollo urbano que resulten aplicables, de conformidad con la Ley del Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano de Nuevo León. Asimismo, los Programas de Ordenamiento Ecológico, preverán los mecanismos de coordinación entre las distintas autoridades involucradas;
+
+V. Cuando un Programa de Ordenamiento Ecológico Local incluya un área natural protegida, competencia de la Federación o parte de ella, el ordenamiento será formulado y aprobado en forma conjunta por la Federación, la Agencia y por los Municipios según corresponda;
+
+VI. Los Programas de Ordenamiento Ecológico Local, regularán los usos de suelo incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen, conforme a las disposiciones establecidas en la presente ley y en otros ordenamientos que resulten aplicables; y
+
+VII. Para la elaboración, actualización y modificación de los planes de ordenamiento ecológico municipal, se deberán cumplir los mecanismos que garanticen la participación de los particulares, los grupos y organizaciones sociales, empresariales y demás interesados. Se deberán considerar procedimientos de difusión y consulta pública de los planes respectivos.
+
+###### Artículo 26.
+
+En la formulación, aprobación, expedición, evaluación y modificación de los Programas de Ordenamiento Ecológico del Estado y los Municipios, se ajustarán a lo siguiente:
+
+I. El expediente que se integre, con motivo del proceso de elaboración del Programa del Ordenamiento Ecológico, Regional o Local, deberá estar a disposición del público en todo momento;
+
+II. Una vez realizado el proceso de consulta e incorporados los resultados del mismo, de ser procedente, se ordenará la publicación del Programa en el Periódico Oficial del Estado; y
+
+III. Una vez aprobado el Programa de Ordenamiento Ecológico, Regional o local, la autoridad competente ordenará la publicación del texto completo o de una síntesis del mismo en el Periódico Oficial del Estado y en periódicos de amplia circulación local.
+
+Asimismo, la Agencia o los Municipios, mediante acuerdo que será publicado en el Periódico Oficial del Estado o en la Gaceta Municipal correspondiente, de acuerdo al caso, establecerán las formas y procedimientos para que los particulares participen en la ejecución, vigilancia y evaluación de los Programas de Ordenamiento Ecológico a que se refiere esta Sección.
+
+###### Artículo 27.
+
+Los Programas de Ordenamiento Ecológico a que se refiere la presente sección, serán considerados obligatoriamente por las autoridades administrativas dentro (sic) sus correspondientes ámbitos de competencia, cuando resuelvan acerca del aprovechamiento sustentable de los recursos naturales, del uso del suelo, de la localización de las actividades productivas y de los asentamientos humanos, conforme a lo establecido por esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+#### SECCIÓN III. CRITERIOS AMBIENTALES EN LA PROMOCIÓN DEL DESARROLLO DEL ESTADO
+
+###### Artículo 28.
+
+En la planeación del desarrollo estatal y municipal y en la realización de obras o actividades de carácter público, las dependencias y entidades de la administración pública estatal y municipal, observarán los criterios ambientales establecidos en esta Ley y demás disposiciones que de ella emanen.
+
+###### Artículo 29.
+
+Para efectos del otorgamiento de estímulos fiscales, crediticios o financieros que se establezcan conforme a la Ley de Ingresos del Estado o que, en su caso, determine el titular del Ejecutivo del Estado, se considerarán prioritarias las actividades relacionadas con la conservación y restauración del equilibrio ecológico, la protección al ambiente y el aprovechamiento sustentable de los recursos naturales.
+
+###### Artículo 30.
+
+Para efectos de la promoción del desarrollo y, a fin de orientar e inducir, con un sentido de conservación, las acciones de los gobiernos estatal y municipal, y de los particulares y los diversos sectores sociales en la entidad, se considerarán los siguientes criterios:
+
+I. Pasar de una política correctiva a una preventiva, que otorgue prioridad a la búsqueda del origen de los problemas ambientales;
+
+II. Considerar las relaciones existentes entre el crecimiento y desarrollo económico y la generación de nuevas alternativas de ingreso, con la conservación del ambiente y el aprovechamiento sustentable de los recursos naturales, bajo esquemas de planificación a mediano y largo plazo;
+
+III. Incorporar a los costos de producción de bienes y servicios, los relativos a la preservación y restauración de los ecosistemas;
+
+IV. Propiciar el crecimiento económico que respete y promueva el equilibrio ecológico en el Estado y una calidad de vida digna para sus habitantes;
+
+V. Incluir la política de promoción del desarrollo basado en el conocimiento, la innovación tecnológica y la investigación científica; e
+
+VI. Incorporar variables o parámetros ecológicos en la planeación y promoción del desarrollo, para que éste sea equilibrado y sustentable.
+
+#### SECCIÓN IV. INSTRUMENTOS ECONÓMICOS
+
+#### SECCIÓN V. REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO
+
+###### Artículo 31.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, diseñarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, mediante los cuales se buscará:
+
+I. Promover un cambio en la conducta de las personas que realizan actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
+
+II. Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales al sistema de precios de la economía;
+
+III. Promover el otorgamiento de incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán vigilar que aquellos que dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
+
+IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental; y
+
+V. Procurar su utilización conjunta con otros instrumentos de política ambiental en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
+
+###### Artículo 32.
+
+Se considerarán instrumentos económicos, los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asuman los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente.
+
+Se considerarán instrumentos económicos de carácter fiscal, los estímulos que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos, los fideicomisos, cuando sus objetivos están dirigidos a la preservación, protección y restauración o aprovechamiento sustentable de los recursos naturales, así como el financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación y restauración del equilibrio ecológico y protección al ambiente.
+
+Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
+
+Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y al aprovechamiento sustentable de los recursos naturales.
+
+###### Artículo 33.
+
+Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos del Estado, las actividades relacionadas con:
+
+I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías ecoeficientes que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental así como el uso eficiente de recursos naturales y de energía;
+
+II. La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
+
+III. El ahorro, aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, de acuerdo a lo previsto en los programas y planes de ordenamiento ecológico y de desarrollo urbano;
+
+V El establecimiento, manejo y vigilancia de áreas naturales protegidas;
+
+VI. Los programas de autorregulación voluntaria para el cumplimiento de la normatividad ambiental; y
+
+VII. En general, aquellas actividades relacionadas con la preservación, conservación y restauración del equilibrio ecológico y la protección al ambiente, así como el diseño y aplicación de procedimientos y tecnologías basadas en la ecoeficiencia.
+
+Las autoridades correspondientes garantizarán el otorgamiento de estímulos fiscales, a los propietarios, poseedores o titulares de otros derechos sobre tierra, aguas y bosques comprendidos dentro de áreas naturales protegidas.
+
+#### SECCIÓN VI. EVALUACIÓN DEL IMPACTO AMBIENTAL
+
+###### Artículo 34.
+
+La planeación del desarrollo urbano, de los asentamientos humanos y los programas de ordenamiento territorial, deberán ser acordes con la política ambiental, además de cumplir con lo dispuesto en los ordenamientos aplicables, tomando en consideración los siguientes criterios:
+
+I. Los planes en materia de desarrollo urbano, asentamientos humanos y ordenamiento territorial, deberán tomar en cuenta los lineamientos y estrategias contenidas en los planes de ordenamiento ecológico regional y local;
+
+II. En la determinación de los usos del suelo, se buscará lograr una diversidad y eficiencia de los mismos y se evitará el desarrollo de esquemas segregados o unifuncionales, así como las tendencias al crecimiento urbano horizontal;
+
+III. En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población o al ambiente y se evitará que se afecten áreas con alto valor ambiental;
+
+IV. Se deberá privilegiar al establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
+
+V. Se establecerán y manejarán en forma prioritaria las áreas de preservación ecológica en torno a los asentamientos humanos;
+
+VI. Las autoridades estatales y municipales en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del ambiente y con un desarrollo urbano sustentable;
+
+VII. El aprovechamiento del agua para usos urbanos, deberá de llevarse a cabo en forma sustentable considerando la afectación a la calidad del recurso y la cantidad que se utilice, previendo el uso de agua tratada en el riego de área verde y en los procesos industriales, comerciales y de servicio que lo permitan; y
+
+VIII. En la determinación de áreas para actividades riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales, u otros que pongan en riesgo a la población o al ambiente.
+
+Para el cumplimiento de estos criterios deberá asegurarse la eficiente coordinación entre las diferentes dependencias que tengan competencia.
+
+###### Artículo 35.
+
+La regulación ambiental de los asentamientos humanos deberá comprender el conjunto de normas, disposiciones y medidas de desarrollo urbano y vivienda que determinen llevar a cabo el Estado y los Municipios, con objeto de mantener, mejorar y restaurar el equilibrio de los propios asentamientos humanos con la naturaleza, a fin de propiciar una mejor calidad de vida de la población.
+
+###### Artículo 36.
+
+Los principios de regulación ambiental de los asentamientos humanos en la entidad serán considerados en:
+
+I. La formulación y aplicación de la política estatal y municipal de desarrollo urbano y vivienda;
+
+II. La formulación de planes y programas de desarrollo urbano y vivienda estatal y municipal;
+
+III. El establecimiento de normas de diseño ecoeficientes, tecnología de construcción, uso y aprovechamiento de vivienda y, en general, las de desarrollo urbano estatal;
+
+IV. El señalamiento de la proporción que debe existir entre áreas verdes y edificaciones;
+
+V. La integración de áreas verdes a inmuebles de alto valor histórico y cultural y a zonas de convivencia social;
+
+VI. La delimitación de zonas habitacionales, industriales, turísticas, agrícolas o ganaderas y otras;
+
+VII. La regulación ambiental de los fraccionamientos, la vialidad y el transporte urbano locales; y
+
+VIII. La creación de áreas verdes mediante la delimitación del crecimiento urbano.
+
+#### SECCIÓN VII. NORMAS AMBIENTALES ESTATALES
+
+###### Artículo 37.
+
+La evaluación del impacto ambiental es el procedimiento a través del cual la Agencia, establecerá las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en los ordenamientos aplicables para proteger al ambiente, preservar y restaurar a los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
+
+Para ello, en los casos que determine el Reglamento de esta Ley, quienes pretendan llevar a cabo alguna de las obras o actividades señaladas en este artículo, solicitarán a la Agencia, previamente al inicio de la obra o actividad, la autorización en materia de impacto ambiental.
+
+Corresponde a la Agencia, evaluar el impacto ambiental de las siguientes obras y actividades:
+
+I. Obras y actividades destinadas a la prestación de un servicio público o para el aprovechamiento de recursos naturales no reservados a la Federación;
+
+II. Obras hidráulicas de competencia estatal y municipal;
+
+III. Vías estatales y municipales de comunicación, incluidos los caminos rurales;
+
+IV. Industrias ubicadas fuera de parques, corredores y zonas industriales;
+
+V. Exploración, explotación, extracción y beneficio de las sustancias minerales a excepción de las que competan a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos tales como roca y demás materiales pétreos o productos de su descomposición;
+
+VI. Instalaciones de tratamiento, recicladoras, y sitios de disposición final de residuos sólidos urbanos y de manejo especial, de conformidad con lo dispuesto en la Ley en la materia;
+
+VII. Desarrollos turísticos públicos o privados;
+
+VIII. Parques, corredores y zonas industriales donde no se prevea la realización de actividades altamente riesgosas;
+
+IX. Obras en áreas naturales protegidas competencia del Estado;
+
+X. Obras y actividades que estando reservadas a la Federación, se descentralicen al Estado, mediante instrumento jurídico y que requieran de la evaluación del impacto ambiental;
+
+XI. Obras o actividades que su control no se encuentre reservado a la Federación, que puedan causar desequilibrios ecológicos, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en los ordenamientos relativos a la preservación del equilibrio ecológico y la protección del ambiente;
+
+XII. Conjuntos habitacionales, fraccionamientos y nuevos centros de población;
+
+XIII. Establecimientos comerciales y de servicio que estén incluidos en los planes parciales de desarrollo urbano;
+
+XIV. Expendios de distribución de gasolinas, diesel y de gas; y
+
+XV. Las demás que no sean competencia de la Federación.
+
+###### Artículo 38.
+
+La evaluación del impacto ambiental se realizará mediante los estudios que al efecto presenten los interesados en llevar a cabo alguna de las obras o actividades señaladas en el artículo anterior. Dichos estudios tendrán las modalidades del informe preventivo o manifestación de impacto ambiental.
+
+El Reglamento de esta Ley determinará los contenidos y características que deberán contener dichas modalidades. Asimismo, determinará las obras o actividades, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, ni rebasen los límites y condiciones establecidas en los ordenamientos referidos a la preservación y restauración del equilibrio ecológico y protección al ambiente en el Estado, y que por lo tanto no deban sujetarse al procedimiento de evaluación del impacto ambiental.
+
+Para los efectos a los que se refiere la fracción XI del artículo anterior, la Agencia notificará a los interesados su determinación para que se someta al procedimiento de evaluación del impacto ambiental, la obra o actividad que corresponda, explicando las razones que lo justifiquen con el propósito de que aquellos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a 10-diez días hábiles, contados a partir del día hábil siguiente a aquel en que surta efectos dicha notificación.
+
+Una vez recibida la documentación de los interesados, la Agencia, en un plazo no mayor a 20-veinte días hábiles, comunicará si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y el plazo para hacerlo. Transcurrido el plazo señalado, sin que la Agencia emita la comunicación correspondiente, el interesado deberá formular una nueva petición, y en caso de que la Agencia no emita su respuesta a dicha solicitud, dentro de un plazo no mayor a diez días hábiles, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
+
+###### Artículo 39.
+
+Los efectos negativos, que sobre el ambiente y los recursos naturales, pudieran causar las obras o actividades de competencia estatal o municipal que no requieran someterse a los procedimientos de evaluación de impacto ambiental a que se refiere la presente sección, se sujetarán desde luego a las disposiciones de esta Ley, su Reglamento, las Normas Oficiales Mexicanas en materia ambiental, las Normas Ambientales Estatales, los ordenamientos legales aplicables, así como a través de los permisos, licencias, autorizaciones y concesiones que conforme a dicha normatividad se requiera.
+
+###### Artículo 40.
+
+Para obtener la autorización a que se refiere el artículo 37 de esta Ley, los interesados deberán presentar a la Agencia, una manifestación de impacto ambiental la cual deberá contener, por lo menos, una descripción de los posibles efectos en el o los ecosistemas que pudieren ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
+
+Si después de la presentación de una manifestación de impacto ambiental se realizaran modificaciones al proyecto de la obra o actividad respectiva, los interesados deberán hacerlas del conocimiento de la Agencia, a fin de que ésta, en un plazo no mayor de 10-diez días hábiles, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente, que pudiesen ocasionar tales modificaciones, en términos de lo dispuesto en esta Ley.
+
+Los contenidos del informe preventivo, así como las características y modalidades de las manifestaciones de impacto ambiental y los estudios de riesgo, serán establecidos en el Reglamento de la presente Ley.
+
+###### Artículo 41.
+
+Cuando se trate de obras o actividades que deban sujetarse al procedimiento de evaluación de impacto ambiental y que a juicio de la Agencia, y con base en su complejidad o dimensiones, se requiera la ampliación de elementos y datos para desarrollar dicho procedimiento, la Agencia notificará al Municipio correspondiente, dentro de los 10-diez días hábiles siguientes a la integración del expediente, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que, éste haga las observaciones que considere oportunas. Dicha solicitud deberá de ser respondida por el Municipio en un plazo no mayor a 10-diez días hábiles contados a partir de la notificación. De no recibir respuesta, se entenderá que no hay elementos que aportar y se continuará con el procedimiento de evaluación, conforme a lo dispuesto en éste capítulo.
+
+###### Artículo 42.
+
+En la manifestación de impacto ambiental se indicará, cuando la obra o actividad involucre el uso, manejo o almacenamiento de las sustancias consideradas por la Federación como altamente riesgosas, en cantidades inferiores a las de su reporte, haciendo mención expresa del monto de las mismas.
+
+###### Artículo 43.
+
+La realización de obras o actividades a que se refieren el artículo 37, requerirán únicamente la presentación de un informe preventivo y no una manifestación de impacto ambiental cuando:
+
+I. Existan Normas Oficiales Mexicanas u otros ordenamientos que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, los impactos ambientales relevantes que puedan producir las obras o actividades;
+
+II. Las obras o actividades de que se trate estén expresamente previstas en un plan parcial de desarrollo urbano o en un programa de ordenamiento ecológico que haya sido evaluado por la Agencia, en los términos del presente capítulo; y
+
+III. Se trate de instalaciones industriales ubicadas en parques industriales autorizados, en los términos de esta Ley y otros ordenamientos aplicables.
+
+Una vez analizado el informe preventivo, la Agencia determinará en un plazo no mayor de 20-veinte días hábiles si procede o no la presentación de una manifestación del impacto ambiental, así como la modalidad conforme a la que deba formularse. Transcurrido el plazo señalado, sin que la Agencia emita la comunicación correspondiente, el interesado deberá formular una nueva petición, y en caso de que la Agencia no emita su respuesta a dicha solicitud, dentro de un plazo no mayor a 10-diez días hábiles, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental. No se podrán iniciar las obras o actividades hasta en tanto se emita la resolución correspondiente.
+
+###### Artículo 44.
+
+Una vez que la Agencia reciba una manifestación de impacto ambiental e integre el expediente respectivo a que se refiere la presente Ley, podrá ponerla a disposición de los interesados que acrediten su interés jurídico.
+
+Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva, la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
+
+La Agencia, a solicitud del que tenga interés jurídico, podrá llevar a cabo una consulta pública, respecto de proyectos sometidos a su consideración a través de una manifestación de impacto ambiental, conforme a las bases que se establezcan en el Reglamento.
+
+###### Artículo 45.
+
+Una vez presentada la manifestación de impacto ambiental, la Agencia iniciará el procedimiento de evaluación para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento, las Normas Oficiales Mexicanas y las Normas Estatales Ambientales que resulten aplicables, e integrará el expediente respectivo en un plazo no mayor de 10-diez días hábiles.
+
+Para la autorización de obras y actividades a que se refiere el artículo 37 de esta Ley, la Agencia se sujetará a lo que establezcan los ordenamientos antes señalados, así como a los planes de ordenamiento territorial, asentamientos humanos y desarrollo urbano, los programas de ordenamiento ecológico en la entidad, las declaratorias de áreas naturales protegidas y los demás ordenamientos que resulten aplicables.
+
+Asimismo, para la autorización a que se refiere este artículo, la Agencia, deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
+
+###### Artículo 46.
+
+Una vez evaluada la manifestación de impacto ambiental, la Agencia, emitirá debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
+
+I. Autorizar la obra o actividad de que se trate, en los términos solicitados;
+
+II. Autorizar la obra o actividad de que se trate, de manera condicionada, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Agencia, señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista; ó
+
+III. Negar la autorización solicitada, cuando:
+
+a) Se contravenga lo establecido en esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás ordenamientos aplicables;
+
+b) La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como amenazadas, vulnerables, en peligro de extinción o cuando se afecte a alguna de dichas especies;
+
+c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate; o
+
+d) Existan riesgos fundados de que pudiere afectarse el equilibrio ecológico o pudieren causarse daños al ambiente, a las personas, a la flora o a la fauna, en caso de autorizarse la obra respectiva;
+
+La Agencia podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, en aquellos casos expresamente señalados en el Reglamento de esta Ley cuando se trate de obras cuya realización pueda producir afectaciones graves a los ecosistemas.
+
+La resolución de la Agencia, sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
+
+###### Artículo 47.
+
+La Agencia, dentro del plazo de 30-treinta días hábiles, contados a partir de la integración del expediente de la manifestación de impacto ambiental, deberá emitir la resolución correspondiente.
+
+Además, la Agencia, podrá solicitar al promovente, aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación del impacto ambiental o al estudio de riesgo que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento, una vez recibida la documentación solicitada, se reanudará dicho término.
+
+En ningún caso la suspensión podrá exceder de 30-treinta días hábiles, contados a partir de que ésta sea declarada por la Agencia, y siempre y cuando le sea entregada la información requerida. Transcurrido este plazo sin que la información sea entregada por el promovente, la Agencia declarará la caducidad del trámite mediante resolución que deberá ser notificada personalmente al interesado.
+
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad, la Agencia requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por un plazo igual al señalado en este artículo, debiendo justificar su decisión y hacerla del conocimiento del promovente.
+
+###### Artículo 48.
+
+Los interesados en la realización de las obras o actividades reguladas en esta sección, deberán sujetarse a las condiciones y limitaciones que señale la autorización respectiva.
+
+Para el seguimiento y cumplimiento de las condiciones que en su caso se establezcan en la autorización del impacto ambiental, el promovente deberá designar un representante legal o un representante técnico, previo al inicio de las obras. Dicho representante deberá presentar a la Agencia informes periódicos, sobre el cumplimiento de las condiciones establecidas en la autorización, en los términos que se señalen en el Reglamento de la presente Ley.
+
+###### Artículo 49.
+
+Solo podrán prestar servicios en materia de impacto y riesgo ambiental, en el territorio del Estado, aquellos prestadores que se encuentren inscritos en el Registro que establece el Capítulo IX del Título Cuarto de esta Ley. En ningún caso podrá prestar servicios en materia de impacto o riesgo ambiental, directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley.
+
+No será necesaria la inscripción en el Registro mencionado para el caso de los interesados que presenten sus manifestaciones de impacto ambiental y estudios de riesgo, en los términos del párrafo segundo del artículo 196 de esta Ley.
+
+###### Artículo 50.
+
+Las obras o actividades de competencia estatal no comprendidas en el artículo 38 de esta ley, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, en los términos previstos en la presente ley, serán evaluados por la Agencia considerando la opinión de las autoridades municipales respectivas.
+
+En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso de suelo, construcciones, fraccionamientos u otros procedimientos que establezcan las leyes estatales y las disposiciones que de ellas se deriven.
+
+Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
+
+###### Artículo 51.
+
+La Agencia podrá regularizar, de acuerdo a lo que señale el Reglamento de esta Ley, las obras iniciadas que no cuenten con la autorización en materia de impacto ambiental, independientemente de las sanciones económicas a que hubiere lugar. En todo caso, podrá decretarse la suspensión de la obra o actividad, atendiendo al sitio y las condiciones que motivaron la actuación irregular, en los términos de esta Ley.
+
+###### Artículo 52.
+
+Los Municipios podrán emitir, por sí mismos o a petición de la Agencia, opiniones técnicas relativas a la obra o actividad de que se trate, durante el proceso de evaluación de impacto o riesgo ambiental que desarrolle la Agencia, en términos de lo dispuesto en la presente Ley y su Reglamento.
+
+#### SECCIÓN VIII. INSTRUMENTOS DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+
+###### Artículo 53.
+
+Para garantizar la protección del medio ambiente, la prevención y control de la contaminación, la sustentabilidad de las actividades económicas y el aprovechamiento sustentable de los recursos naturales, la Agencia emitirá Normas Ambientales Estatales, que tendrán por objeto:
+
+I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
+
+II. Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al ambiente;
+
+III. Estimular o inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del ambiente y al desarrollo sustentable;
+
+IV. Otorgar certidumbre a largo plazo a la inversión e inducir a los agentes económicos a asumir los costos de la afectación ambiental que ocasionen; y
+
+V. Fomentar actividades productivas en un marco de eficiencia y sustentabilidad.
+
+###### Artículo 54.
+
+En la formulación de las Normas Ambientales Estatales no se deberán contravenir las Normas Oficiales Mexicanas vigentes ni otras disposiciones legales aplicables. Asimismo, deberán referirse a materias que sean de competencia local.
+
+En su formulación, se deberán considerar las tecnologías y sistemas de proceso, control y medición disponibles y los posibles efectos sobre los sectores social y privado.
+
+###### Artículo 55.
+
+Las instituciones de investigación y educación superior, las organizaciones empresariales, los integrantes del sector social, las entidades y dependencias de la Administración Pública y los ciudadanos en general, podrán proponer la creación de las Normas Ambientales Estatales.
+
+La formulación de las Normas Ambientales Estatales corresponderá a la Agencia, a través de un Comité Técnico, y previo a su aprobación deberán someterse a un proceso de consulta pública.
+
+El procedimiento para proponer, someter a consulta y formular Normas Ambientales Estatales, así como la integración y funcionamiento del Comité Técnico, se establecerá en el Reglamento de la presente Ley.
+
+###### Artículo 56.
+
+Una vez publicada una Norma Ambiental Estatal en el Periódico Oficial del Estado, será obligatoria. Las Normas Ambientales Estatales señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+
+#### SECCIÓN IX. EDUCACIÓN AMBIENTAL Y FOMENTO A LA INVESTIGACIÓN
+
+###### Artículo 57.
+
+Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando los ordenamientos aplicables en la materia y se comprometan a cumplir o alcanzar mayores niveles, metas y beneficios en materia de protección ambiental. La Agencia inducirá o concertará:
+
+I. El desarrollo de procesos productivos ecoeficientes y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con asociaciones o cámaras de industria, comercio, servicios y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica, y otras organizaciones interesadas;
+
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental, sin menoscabo de lo que dispongan las respectivas Normas Oficiales Mexicanas en la materia, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representan;
+
+III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean ecológicamente sustentables o que preserven, mejoren o restauren el medio ambiente;
+
+IV. Las acciones de coordinación necesarias con cámaras, sindicatos y empresas, con objeto de incluir en los temas a tratarse en el seno de las comisiones de seguridad e higiene y de adiestramiento y capacitación, capítulos relativos a la protección ambiental y el aprovechamiento sustentable de los recursos naturales, para crear y fortalecer una conciencia ecológica entre los factores de la producción; y
+
+V. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
+
+###### Artículo 58.
+
+Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoria ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente.
+
+###### Artículo 59.
+
+La Agencia desarrollará un programa dirigido a fomentar la realización de auditorías ambientales voluntarias y podrá supervisar su ejecución, de conformidad con los ordenamientos que se expidan, debiendo:
+
+I. Elaborar los términos de referencia que establezcan la metodología para la realización de auditorias ambientales;
+
+II. Establecer un sistema de reconocimiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema;
+
+III. Desarrollar programas de capacitación en materia de peritajes y auditorias ambientales;
+
+IV. Instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorias ambientales;
+
+V. Convenir o concertar con personas físicas o morales, públicas o privadas, la realización de auditorias ambientales; y
+
+VI. Promover el apoyo a la mediana y pequeña industria, con el fin de inducir y facilitar la realización de auditorias en dichos sectores.
+
+###### Artículo 60.
+
+La Agencia pondrá los programas preventivos y correctivos derivados de las auditorias ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados, respetando en todo caso, las disposiciones legales en relación con la confidencialidad de la información industrial y comercial.
+
+###### Artículo 61.
+
+La Agencia proporcionará la asesoría técnica y normativa necesaria, a fin de fomentar la realización de auditorias ambientales en el sector productivo, de acuerdo a los lineamientos señalados en las Normas Oficiales Mexicanas o Normas Ambientales Estatales, y deberá promover la aplicación de dichos procedimientos en el ámbito municipal.
+
+Para coadyuvar en las acciones para la implementación de lo dispuesto en la presente Sección, la Agencia integrará un comité de trabajo, en el que participarán los representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial y privado.
+
+###### Artículo 62.
+
+Con el propósito de que los resultados que se obtengan de la realización de auditorias ambientales sean reconocidos por las dependencias y entidades Federales, Estatales y Municipales, en el ámbito de sus respectivas competencias, la Agencia promoverá la celebración de acuerdos de coordinación.
+
+Asimismo, los responsables del funcionamiento de empresas interesadas en llevar a cabo una auditoria ambiental, podrán celebrar convenios de concertación con la Agencia o con las autoridades federales o municipales competentes para los fines arriba indicados.
+
+###### Artículo 63.
+
+El Reglamento de la presente Ley determinará los procedimientos para dar cumplimiento a lo dispuesto en la presente Sección.
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+###### Artículo 64.
+
+El Estado y los Municipios, en coordinación con las autoridades competentes, promoverán la incorporación de educación ambiental en los diversos ciclos escolares, así como la formación de Comités Ecológicos, cuyo objeto es el desarrollo cultural en materia ambiental de los diversos sectores de la sociedad.
+
+Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica y la socialización de proyectos de desarrollo sustentable.
+
+###### Artículo 65.
+
+La Agencia, con la participación de las autoridades educativas competentes, promoverá ante las instituciones de educación media y superior en el Estado y ante organismos dedicados a la investigación tecnológica y científica, el desarrollo de planes para la formación de especialistas en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado.
+
+###### Artículo 66.
+
+La Agencia promoverá, en coordinación con las autoridades laborales correspondientes, sean federales o locales, el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico. Además, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
+
+###### Artículo 67.
+
+El Estado y los Municipios fomentarán la investigación científica y promoverán programas para el desarrollo de técnicas y procedimientos, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+
+## TÍTULO SEGUNDO. CONSERVACIÓN DE LA BIODIVERSIDAD
+
+### CAPÍTULO I. ÁREAS NATURALES PROTEGIDAS
+
+#### SECCIÓN II. TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS
+
+###### Artículo 68.
+
+El Estado y los Municipios establecerán las medidas de preservación, protección y restauración en las áreas naturales protegidas de su competencia. La Agencia participará, junto con los Municipios, en los términos de la Ley General y de esta Ley, en la formulación de los programas de manejo y de aquellas medidas que establezca la Federación para la protección de las áreas naturales de su competencia, así como asumir la administración de dichas áreas conforme a los convenios y acuerdos de coordinación que para estos efectos se celebren.
+
+###### Artículo 69.
+
+Las zonas del territorio sobre las que el Estado ejerce su jurisdicción, en las que los ambientes originales no han sido significativamente alterados por las actividades humanas, o que requieran ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y en los demás ordenamientos aplicables.
+
+Los propietarios, poseedores o titulares de otros derechos sobre tierras y aguas comprendidos dentro de áreas naturales protegidas, deberán sujetarse a las modalidades que de conformidad con la presente Ley se establezcan en las declaratorias por las que se constituyan dichas áreas, así como a las demás previsiones contenidas en los programas de ordenamiento ecológico o de manejo que correspondan.
+
+###### Artículo 70.
+
+El establecimiento de las áreas naturales protegidas, tiene como propósito:
+
+I. Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas, ecológicas y de los ecosistemas del Estado, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos; así como la sustentabilidad del desarrollo y la calidad de vida de los habitantes del Estado;
+
+II. Salvaguardar la biodiversidad de la que depende la continuidad evolutiva, así como asegurar la protección y el aprovechamiento sustentable, en particular, proteger a los organismos y su respectivo hábitat, de acuerdo a lo establecido en los ordenamientos aplicables;
+
+III. Asegurar el manejo y aprovechamiento sustentable de los ecosistemas y sus elementos;
+
+IV. Propiciar la investigación científica, el estudio y el monitoreo de los ecosistemas y su equilibrio, así como fomentar la educación ambiental;
+
+V. Proteger los entornos naturales de zonas, monumentos y vestigios históricos, arqueológicos y artísticos, así como zonas turísticas y de otras áreas de importancia para la recreación, la cultura e identidad estatal;
+
+VI. Ofrecer alternativas basadas en el aprovechamiento sustentable de los recursos naturales del Estado, en particular de la flora y fauna silvestre, en concordancia con los demás ordenamientos aplicables, y con la participación de los propietarios y poseedores;
+
+VII. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad y los recursos naturales del territorio estatal, así como el disfrute de los mismos para el bienestar de las generaciones actuales y futuras;
+
+VIII. Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante la preservación de zonas forestales donde se originen torrentes, el ciclo hidrológico de las cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área;
+
+IX. Restaurar los ecosistemas que se encuentran degradados; y
+
+X. Asegurar la sustentabilidad integral a las actividades turísticas que se lleven a cabo.
+
+#### SECCIÓN III. DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
+
+###### Artículo 71.
+
+Se consideran áreas naturales protegidas del Estado, para efectos de normatividad y manejo, las siguientes:
+
+I. Reserva Natural Estatal;
+
+II. Parque Natural Estatal;
+
+III. Corredor Biológico Ripario;
+
+IV. Santuario Biológico;
+
+V. Monumento Natural Estatal; y
+
+VI. Parque Urbano.
+
+Para efectos de lo establecido en el presente capítulo, son competencia del Estado las áreas naturales protegidas comprendidas en las fracciones I, II, III, IV y V, y de competencia municipal las especificadas en las fracciones III, V y VI del presente artículo.
+
+En las áreas naturales protegidas no se autorizará la formación de nuevos centros de población.
+
+Las áreas naturales protegidas estatales no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas de competencia de la Federación, salvo los casos establecidos en la Ley General, o cuando exista la autorización correspondiente por parte de la Federación para el establecimiento, dentro de las áreas naturales protegidas de su competencia, de parques estatales.
+
+Cada área natural protegida deberá de contar con su Programa de Manejo, que será elaborado por la autoridad competente, conforme a lo dispuesto en esta Ley.
+
+###### Artículo 72.
+
+En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Agencia y los Municipios, en sus respectivos ámbitos de competencia, promoverán la participación de los propietarios o poseedores de los terrenos ubicados en dichas áreas, así como de sus habitantes, autoridades correspondientes y demás organizaciones sociales, públicas y privadas, de conformidad con los convenios de concertación o acuerdos de coordinación que al efecto se celebren, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y de su biodiversidad.
+
+###### Artículo 73.
+
+En las áreas naturales protegidas podrá determinarse la superficie o superficies mejor conservadas o no alteradas, donde existan ecosistemas o recursos naturales de especial importancia, o especies de flora y fauna que requieran protección especial que serán conceptuadas como zonas núcleo. En ellas únicamente podrá autorizarse la realización de actividades de preservación ecológica de los ecosistemas y sus elementos, de investigación y educación ambiental, prohibiéndose aprovechamientos que alteren ecosistemas.
+
+En dichas áreas podrán determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, en donde solo podrán realizarse actividades productivas emprendidas por las comunidades y sectores productivos que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, siempre que sean estrictamente compatibles con los objetivos del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
+
+En las zonas núcleo de las áreas naturales protegidas queda estrictamente prohibido:
+
+I. Verter o descargar contaminantes en el suelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
+
+II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
+
+III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres;
+
+IV. Cambiar el uso de suelo, a excepción de las actividades de repoblación forestal con especies nativas; y
+
+V. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y los demás ordenamientos que de ellas se deriven.
+
+###### Artículo 74.
+
+Las reservas naturales estatales se constituirán en áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados o restaurados, en los cuales habiten especies representativas de la biodiversidad estatal, incluyendo a las consideradas en los ordenamientos aplicables con alguna protección en particular; zonas de refugio, reproducción, descanso, alimentación o para alguna otra etapa crítica del ciclo de vida silvestre; sitios destinados al control de la erosión y la protección del suelo, las cuencas y de las subcuencas hidrológicas.
+
+###### Artículo 75.
+
+Los parques naturales estatales se constituirán tratándose de representaciones biogeográficas a nivel estatal de uno o más ecosistemas que se distingan por su belleza escénica, valor científico, educativo o de recreo, por su valor histórico, por la existencia de flora y fauna representativa del Estado, por su aptitud para el desarrollo del ecoturismo o bien por otras razones análogas de interés general.
+
+En los parques naturales estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, la conservación de los ecosistemas y en general, con la preservación de los ecosistemas y de sus elementos, así como la investigación, recreación, ecoturismo y educación ambiental.
+
+###### Artículo 76.
+
+Los corredores biológicos riparios son áreas de vegetación no alteradas significativamente por la acción del ser humano o que requieren ser preservados o restaurados a lo largo de cuerpos de agua, permanentes o temporales, con el objeto de permitir el flujo genético entre individuos de flora o fauna de dos o más regiones o ecosistemas.
+
+Las actividades que se pretendan llevar a cabo en estas zonas estarán sujetas a lo dispuesto en el Programa de Manejo que al efecto se expida y demás ordenamientos aplicables.
+
+###### Artículo 77.
+
+Los santuarios biológicos son aquellas zonas que se caracterizan por una considerable riqueza de flora o fauna o por la presencia de especies, subespecies o hábitat de distribución restringida. Dichas áreas podrán abarcar cañadas, grutas, cavernas, vegas, relictos u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas. En los santuarios solo se permitirán actividades de investigación y educación ambiental.
+
+###### Artículo 78.
+
+Los monumentos naturales estatales son aquellas áreas que por sus características naturales propias y singulares significan valores estéticos excepcionales o representativos del Estado o del Municipio, según sea el caso, y que se incorporen a un régimen de protección. En dichas zonas únicamente se permitirán actividades de esparcimiento, recreación, culturales, eco turísticas, o de educación ambiental.
+
+###### Artículo 79.
+
+Los parques urbanos son aquellas áreas de interés Estatal o Municipal de uso público que contienen hábitat o áreas verdes ubicadas en las porciones periféricas o interiores de los centros de población cuyo objetivo es preservar un ambiente sano y propiciar el esparcimiento de la población; así como proteger y conservar valores artísticos, históricos o de belleza natural que sean significativos para la comunidad.
+
+Estas áreas podrán ser adquiridas y desarrolladas directamente por las autoridades estatales o municipales o a través de un fideicomiso y que se destinen para establecer en ellas, arboledas, jardines, viveros, lagos y otros compatibles que permitan su uso común en actividades de esparcimiento, recreación, culturales o turísticas.
+
+En estos parques podrán llevarse a cabo todas las actividades que sean compatibles con la naturaleza y características propias del área, además podrá permitirse actividades que se destinen a conservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población en general.
+
+###### Artículo 80.
+
+Las autoridades estatales podrán promover ante las autoridades federales competentes, el reconocimiento de las áreas naturales protegidas que conforme a lo dispuesto en esta Ley se establezcan, con la finalidad de compatibilizar los regímenes de protección correspondientes. A estos efectos, las autoridades municipales también podrán promover ante la Agencia, el reconocimiento de las áreas naturales protegidas que conforme a la presente Ley establezcan en el ámbito de su competencia.
+
+Asimismo, la Agencia podrá solicitar a las autoridades federales, el establecimiento de las áreas naturales protegidas de competencia de dicho orden de gobierno, para la conservación de ecosistemas, hábitat, especies silvestres nativas, monumentos naturales y demás elementos de la biodiversidad representativa del Estado.
+
+###### Artículo 81.
+
+La Agencia constituirá el Consejo Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades de la Administración Pública Estatal, de instituciones académicas, centros de investigación, productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como por personas físicas, de reconocido prestigio en la materia.
+
+El Consejo fungirá como un órgano de consulta y apoyo de la Agencia en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia.
+
+El Consejo podrá invitar a sus sesiones a representantes de los gobiernos municipales, cuando se traten asuntos relacionados con áreas naturales protegidas de competencia estatal que se encuentren en el territorio de los mismos. Asimismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y en general a cualquier persona cuya participación sea necesaria conforme al asunto de que se trate.
+
+Las opiniones y recomendaciones que formule el Consejo, deberán ser consideradas por la Agencia en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
+
+#### SECCIÓN IV. SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
+
+###### Artículo 82.
+
+Las áreas naturales protegidas se establecerán mediante declaratoria que expida el Titular del Ejecutivo del Estado o el Ayuntamiento, según sea el caso, previa la satisfacción de los requisitos previstos en esta Ley y en los demás ordenamientos aplicables.
+
+Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el párrafo anterior, se deberán realizar los estudios que lo justifiquen, en los términos de la presente sección, los cuales deberán ser puestos a disposición del público. Asimismo, la Agencia o los Municipios deberán solicitar la opinión de:
+
+I. Las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal que deben intervenir de conformidad con sus atribuciones;
+
+II. Las organizaciones sociales, públicas o privadas y demás personas físicas o morales interesadas; y
+
+III. Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de las áreas naturales protegidas.
+
+###### Artículo 83.
+
+Las comunidades del lugar, las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante la Agencia o los Municipios respectivos, según sea el caso, el establecimiento de áreas naturales protegidas en terrenos de su propiedad o mediante contratos con terceros.
+
+La Agencia, en su caso, promoverá ante el Titular del Ejecutivo del Estado la expedición de la declaratoria respectiva, y los Municipios, la expedirán por sí. En este supuesto, la declaratoria respectiva establecerá el manejo del área por parte del promovente, con la participación de la propia Agencia o de los Municipios, conforme a sus atribuciones.
+
+###### Artículo 84.
+
+Las declaratorias para el establecimiento, preservación, administración y vigilancia de las áreas naturales protegidas, deberán contener, por lo menos, los siguientes aspectos:
+
+I. La delimitación precisa del área natural, señalando la superficie, ubicación, deslinde así como la propuesta de zonificación correspondiente;
+
+II. Los objetivos del área natural;
+
+III. Las modalidades a que se sujetará dentro del área, el uso o aprovechamiento de los recursos naturales en general o específicamente de aquellos sujetos a protección;
+
+IV. La descripción de actividades que podrán llevarse a cabo en el área correspondiente y las modalidades y limitaciones a que se sujetarán;
+
+V. La causa de utilidad pública que en su caso fundamente la expropiación de terrenos para que el Estado o Municipio adquiera su dominio, cuando al establecerse el área natural protegida se requiera dicha resolución; en estos casos, deberán de observarse las previsiones de la ley en la materia y los demás ordenamientos legales aplicables;
+
+VI. Los lineamientos generales para la administración, el establecimiento de un Consejo Técnico Asesor, la creación de fondos o fideicomisos y la elaboración del programa de manejo del área natural; y
+
+VII. Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en ésta y otras leyes aplicables.
+
+La Agencia o los Municipios promoverán el ordenamiento ecológico del territorio dentro y en las zonas de influencia de las áreas naturales protegidas, con el propósito de generar nuevos patrones de desarrollo regional acordes con los objetivos de sustentabilidad.
+
+###### Artículo 85.
+
+Las declaratorias deberán publicarse en el Periódico Oficial del Estado o en la Gaceta Municipal, según sea el caso, y se notificarán previamente a los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios, en caso contrario se hará una segunda publicación en dicho medio la que surtirá efectos de notificación. Las declaratorias, una vez publicadas, se inscribirán en el Registro Público de la Propiedad y del Comercio o en el Registro Agrario Nacional, según sea el caso.
+
+###### Artículo 86.
+
+Una vez establecida un área natural protegida, solo podrá ser modificada su extensión y en su caso, el uso del suelo permitido o cualquiera de sus disposiciones por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley para la expedición de la declaratoria respectiva.
+
+###### Artículo 87.
+
+Las áreas naturales protegidas establecidas por el Titular del Ejecutivo del Estado o los Ayuntamientos, podrán comprender de manera parcial o total, predios sujetos a cualquier régimen de propiedad.
+
+El Estado y los Municipios a través de las dependencias competentes, realizarán los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas, con el objeto de dar seguridad jurídica a los propietarios y poseedores de los predios en ellas comprendidas.
+
+La Agencia promoverá que las autoridades federales, estatales y municipales, dentro del ámbito de su competencia, en los términos que establezcan los ordenamientos aplicables y, en su caso, los programas de manejo, den prioridad a los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas de competencia estatal.
+
+###### Artículo 88.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias:
+
+I. Promoverán las inversiones públicas y privadas para el establecimiento y manejo de áreas naturales protegidas;
+
+II. Establecerán o en su caso, promoverán la creación de fideicomisos públicos o privados, así como de otros mecanismos que tendrán por objeto captar recursos y financiar o apoyar tanto el manejo de las áreas naturales como el establecimiento de las nuevas áreas naturales protegidas; y
+
+III. Promoverán los incentivos económicos o los estímulos fiscales para las personas u organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten bienes y recursos financieros a estos efectos, o para aquellas personas físicas o morales que realicen actividades de investigación, fomento y desarrollo de las mismas.
+
+###### Artículo 89.
+
+La Agencia y los Municipios, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, y demás personas interesadas, concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas, de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondiente.
+
+Los núcleos agrarios y demás propietarios o poseedores de los predios en los que se pretenda desarrollar las obras o actividades anteriormente señaladas, tendrán un derecho preferente para obtener las autorizaciones, concesiones o permisos respectivos.
+
+###### Artículo 90.
+
+La Agencia y los Municipios, en el ámbito de sus respectivas competencias, y sin contravenir disposiciones señaladas en otros ordenamientos aplicables, podrán otorgar o expedir permisos, licencias, concesiones o en general autorizaciones a que se sujetare la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas, de conformidad con lo que establece la presente Ley, la declaratoria y el programa de manejo correspondiente.
+
+Los interesados en tales aprovechamientos, deberán demostrar ante la autoridad competente su capacidad técnica y económica ya sea por sí mismo o a través de terceros, para llevar a cabo tales aprovechamientos sin causar deterioro al equilibrio ecológico.
+
+La Agencia y los Municipios, en el ámbito de su competencia, tomando como base los estudios técnicos y socioeconómicos practicados, podrán cancelar o revocar el permiso, concesión o autorización correspondiente, cuando la exploración o aprovechamiento de recursos naturales ocasione o pueda ocasionar deterioro al equilibrio ecológico. Cuando dichos actos no sean de su competencia, promoverán la cancelación o revocación ante la autoridad que los haya otorgado.
+
+###### Artículo 91.
+
+La Agencia y los Municipios podrán celebrar acuerdos de coordinación para efecto de determinar la participación que les corresponda en la administración, preservación, y vigilancia de las áreas naturales protegidas que se establezcan, así como convenios de concertación con los sectores social y privado.
+
+Dichos acuerdos determinarán, entre otras cosas:
+
+I. La participación en la administración de las áreas naturales protegidas;
+
+II. La coordinación de la política estatal con la municipal;
+
+III. El origen y destino de los recursos financieros para la administración, preservación y vigilancia de las áreas naturales protegidas;
+
+IV. La ejecución del programa de manejo de las áreas naturales protegidas; y
+
+V. Las formas de concertación con la comunidad, los propietarios o poseedores de los predios, los grupos sociales y científicos y las asociaciones civiles.
+
+###### Artículo 92.
+
+Los programas de manejo de las áreas naturales protegidas deberán contener por lo menos lo siguiente:
+
+I. La descripción de las características físicas, biológicas, sociales e históricas del área natural protegida, en el contexto estatal o municipal, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
+
+II. La zonificación a la que estará sujeta dicha área natural protegida, las superficies de cada una de las zonas y sus características más relevantes;
+
+III. Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con el Plan Estatal de Desarrollo, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán entre otras, las siguientes: de investigación y educación ambiental; protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna, para el desarrollo de actividades recreativas y turísticas; obras de infraestructura y demás actividades productivas; de financiamiento para la administración del área natural protegida; de prevención y control de contingencias; de vigilancia y las demás que por las características propias del área natural protegida se requieran;
+
+IV. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
+
+V. Los objetivos generales y específicos del área natural protegida;
+
+VI. La referencia a las Normas Oficiales Mexicanas, Normas Ambientales Estatales y demás ordenamientos aplicables a todas y cada una de las actividades a que esté sujeta el área;
+
+VII Los inventarios biológicos existentes y los que se prevea realizar; y
+
+VIII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
+
+###### Artículo 93.
+
+La Agencia y los Municipios correspondientes, formularán dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Periódico Oficial del Estado o en la Gaceta Municipal, según sea el caso, el Programa de Manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias competentes y los gobiernos municipales, en su caso, así como organizaciones sociales, públicas o privadas y demás personas interesadas.
+
+El Titular del Ejecutivo del Estado y los Ayuntamientos, deberán publicar en el Periódico Oficial del Estado o en la Gaceta Municipal respectiva, según sea el caso, un resumen del plan de manejo respectivo y el plano de localización del área natural protegida.
+
+###### Artículo 94.
+
+Una vez establecida un área natural protegida, la Agencia o los Municipios correspondientes, en el ámbito de sus competencias, podrá designar un responsable del área de que se trate, quien será coadyuvante en la formulación, ejecución y evaluación del Programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y los ordenamientos que de ella se deriven.
+
+###### Artículo 95.
+
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas, deberá contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad y del Comercio o en el Registro Agrario Nacional, según sea el caso.
+
+Los notarios y cualquier otro fedatario público sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente Título.
+
+###### Artículo 96.
+
+Los ingresos que el Estado y los Municipios recauden por concepto del otorgamiento de permisos, autorizaciones y concesiones en materia de áreas naturales protegidas, conforme a las disposiciones fiscales aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad y mantenimiento del equilibrio ecológico, dentro de las áreas en las que se generen dichos ingresos, de conformidad con los ordenamientos aplicables a la materia.
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+###### Artículo 97.
+
+Las áreas naturales protegidas establecidas por el Titular del Ejecutivo del Estado y los Ayuntamientos constituyen en su conjunto, el Sistema Estatal de Áreas Naturales Protegidas.
+
+###### Artículo 98.
+
+La Agencia integrará el Sistema Estatal de Áreas Naturales Protegidas, en donde se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen, su Programa de Manejo, así como los datos relativos a su inscripción en el Registro Público de la Propiedad y del Comercio o en el Registro Agrario Nacional, según sea el caso.
+
+Además, deberán inscribirse en dicho Sistema el registro de las declaratorias a que se refiere el artículo 84 de esta Ley.
+
+###### Artículo 99.
+
+Las dependencias y entidades de la administración pública estatal y municipal, deberán de considerar en los programas y acciones que afecten la circunscripción de un área natural protegida a que se refiere este Capítulo, al igual que para el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, en su Reglamento, en las Normas Oficiales Mexicanas, Normas Ambientales Estatales que se expidan en la materia, en los decretos por los que establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
+
+### CAPÍTULO II. ÁREAS NATURALES PROTEGIDAS PRIVADAS Y SOCIALES DE CONSERVACIÓN
+
+###### Artículo 100.
+
+Los pequeños propietarios, ejidos y comunidades interesados, podrán voluntariamente destinar los predios que les pertenezcan a acciones de conservación y restauración de los ecosistemas y su biodiversidad, de conformidad con los ordenamientos aplicables.
+
+###### Artículo 101.
+
+La determinación de áreas naturales protegidas privadas y sociales deberá tener como propósito:
+
+I. Coadyuvar con el Estado en preservar los ambientes naturales de los diferentes ecosistemas, para asegurar la continuidad de los procesos evolutivos y ecológicos;
+
+II. Salvaguardar la diversidad genética de las especies silvestres, de acuerdo a lo establecido en los ordenamientos aplicables;
+
+III. Conservar y restaurar el equilibrio ecológico en los ecosistemas urbanos;
+
+IV. Conservar en zonas circunvecinas a los asentamientos humanos, los elementos naturales indispensables para el equilibrio ecológico y el bienestar general;
+
+V. Proporcionar un campo propicio para la investigación científica, así como el estudio de los ecosistemas y su equilibrio;
+
+VI. Proteger los entornos naturales de zonas, monumentos y vestigios históricos, arqueológicos y artísticos de importancia para la cultura e identidad del Estado;
+
+VII. El cumplimiento de objetivos de la política ambiental, a través de los estímulos y beneficios a los que accesen los propietarios de las tierras en donde se establezcan las áreas, mediante los instrumentos previstos en ésta Ley; y
+
+VIII. Restaurar los ecosistemas que se encuentran degradados.
+
+###### Artículo 102.
+
+Se consideran áreas naturales protegidas privadas y sociales de conservación:
+
+I. Las servidumbres ecológicas;
+
+II. Las reservas privadas de conservación;
+
+III. Las reservas sociales;
+
+IV. Los jardines privados de conservación o regeneración de especies;
+
+V. Las tierras sujetas a contratos de preservación y conservación; y
+
+VI. Las demás que tengan este carácter conforme a los ordenamientos aplicables.
+
+###### Artículo 103.
+
+Para el establecimiento de un área natural protegida privada o social de conservación se deberá contar con el reconocimiento respectivo por parte de la Agencia. El certificado que emita dicha autoridad deberá contener, por lo menos, el nombre del promovente, la denominación del área respectiva, su ubicación, superficie y colindancias, la categoría de conservación y, en su caso, el plazo de vigencia. La administración, restauración, aprovechamiento y promoción de dichas áreas, una vez que se cuente con el reconocimiento respectivo, podrá ser asumida por organizaciones del sector social o privado.
+
+###### Artículo 104.
+
+Las servidumbres ecológicas son acuerdos entre dos o más propietarios, en los que al menos uno de ellos está dispuesto en limitar o restringir el tipo o intensidad de uso que puede tener el inmueble, con el fin de preservar los atributos naturales, las bellezas escénicas o los aspectos históricos, arquitectónicos, arqueológicos o culturales de ese inmueble.
+
+###### Artículo 105.
+
+Las reservas privadas de conservación son terrenos de propiedad privada que por sus condiciones biológicas o por la existencia de ambientes originales no alterados significativamente por la acción de sus propietarios, se sujetan a un régimen voluntario de protección, y los destinan a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general.
+
+###### Artículo 106.
+
+Las reservas sociales son terrenos ejidales o comunales que por sus condiciones biológicas o por la existencia de ambientes originales no alterados significativamente por la acción del hombre, se sujetan a un régimen voluntario de manejo que implica la conservación y protección de tierras de uso común.
+
+###### Artículo 107.
+
+Los jardines privados de conservación o regeneración de especies son las áreas de propiedad privada que se destinan a la producción o regeneración de germoplasma de variedades nativas de una región.
+
+###### Artículo 108.
+
+Se consideran contratos de preservación o conservación, aquellos acuerdos de voluntades que limiten los derechos de uso sobre tierras de propiedad privada o social o constituyan cargas de carácter real, con el objeto de conservar, preservar, proteger o restaurar los atributos ecológicos o naturales de dichos inmuebles en favor de terceros.
+
+### CAPÍTULO III. ZONAS DE RESTAURACIÓN
+
+###### Artículo 109.
+
+En aquellas áreas que presenten procesos de degradación o desertificación o graves desequilibrios ecológicos, el Estado, a través de la Agencia, deberá formular y ejecutar planes de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellas se desarrollaban.
+
+En la formulación, ejecución y seguimiento de dichos programas, el Estado deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, instituciones académicas y centros de investigación, habitantes de las comunidades locales, autoridades municipales y demás personas interesadas.
+
+###### Artículo 110.
+
+En aquellos casos en que se estén produciendo procesos acelerados de erosión, desertificación o degradación que impliquen la pérdida de recursos de muy difícil restauración, recuperación o afectaciones irreversibles a los ecosistemas o sus elementos, la Agencia promoverá ante el Titular del Ejecutivo del Estado o la Federación según corresponda, la expedición de declaratorias para el establecimiento de zonas de restauración ecológicas. Para tal efecto elaborará previamente, los estudios que las justifiquen. Las declaratorias deberán publicarse en el Periódico Oficial del Estado y serán inscritas en el Registro Público de la Propiedad y del Comercio correspondiente, así como en el Registro Agrario Nacional.
+
+Las declaratorias de restauración ecológica a que se refiere este Capítulo podrán comprender de manera parcial o total, predios sujetos a cualquier régimen de propiedad y expresarán:
+
+I. La delimitación de la zona sujeta a restauración ecológica, precisando superficie, ubicación y deslinde;
+
+II. Las acciones necesarias para restaurar o rehabilitar las condiciones naturales de la zona;
+
+III. Las condiciones a que se sujetarán dentro de la zona, el uso de suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
+
+IV. Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, habitantes de las comunidades locales, autoridades municipales y demás personas interesadas; y
+
+V. Los plazos para la ejecución del programa de restauración ecológica respectivo.
+
+###### Artículo 111.
+
+Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo anterior, quedarán sujetos a la aplicación de las modalidades previstas en las propias declaratorias.
+
+Los notarios y cualquier otro fedatario público harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan.
+
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
+
+### CAPÍTULO IV. VIDA SILVESTRE Y RECURSOS FORESTALES
+
+###### Artículo 112.
+
+Para la preservación y aprovechamiento sustentable de la vida silvestre en el territorio del Estado, se considerarán los criterios establecidos en la legislación federal aplicable en la materia, y otros ordenamientos relativos.
+
+Dichos criterios serán considerados en:
+
+I. El otorgamiento de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la vida silvestre;
+
+II. El establecimiento de vedas de la vida silvestre, así como en las condiciones de su modificación;
+
+III. Las acciones de sanidad fitopecuaria;
+
+IV. La protección y conservación de la vida silvestre del territorio del Estado, contra la acción perjudicial de plagas y enfermedades, o la contaminación que pueda derivarse de actividades fitopecuarias;
+
+V. El establecimiento de un sistema estatal de información sobre biodiversidad, así como la regulación de la preservación y restauración de flora y fauna silvestre;
+
+VI. La formulación del programa anual de producción, repoblación, cultivo, siembra y diseminación de especies de la flora y fauna acuáticas;
+
+VII. La creación de áreas de refugio para proteger las especies acuáticas que así lo requieran; y
+
+VIII. La determinación de los métodos y medidas aplicables o indispensables para la conservación, cultivo y repoblación de los recursos pesqueros.
+
+###### Artículo 113.
+
+En el ámbito de competencia estatal, los instrumentos jurídicos mediante los cuales se establezcan vedas, deberán precisar su naturaleza y temporalidad, los límites de las áreas o zonas vedadas y las especies de la vida silvestre comprendidas en ellas, de conformidad con las disposiciones legales que resulten aplicables. Dichos instrumentos deberán publicarse en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables.
+
+###### Artículo 114.
+
+Las disposiciones aplicables a la posesión, administración, preservación, repoblación, propagación, importación, exportación y desarrollo de la vida silvestre y material genético, se regularán en el ámbito estatal, atendiendo los criterios señalados en la presente Ley, sin perjuicio de lo establecido en otros ordenamientos jurídicos.
+
+###### Artículo 115.
+
+El aprovechamiento de los recursos naturales en áreas que sean el hábitat de especies de flora o fauna silvestres, especialmente de las endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
+
+La Agencia, de conformidad con los ordenamientos aplicables, promoverá y apoyará el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, y la información técnica, científica y económica disponible, con el propósito de hacer un aprovechamiento sustentable de las especies. Además, promoverá ante la autoridad federal competente el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especimenes de la flora y fauna silvestres e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del (sic) y destinadas al extranjero.
+
+###### Artículo 116.
+
+A la Agencia, y en su caso, a las entidades sectorizadas que al efecto formen parte de su estructura, le corresponde aplicar en el ámbito estatal las disposiciones que sobre aprovechamiento sustentable y conservación de especies de la fauna silvestre establezcan ésta y otras leyes, y los reglamentos que de ellas se deriven, y autorizar su aprovechamiento en actividades económicas, sin perjuicio de las facultades que correspondan a otras dependencias, conforme a otras leyes.
+
+###### Artículo 117.
+
+La política forestal estatal, y el manejo y aprovechamiento sustentable de los recursos forestales, incluidos los maderables y no maderables, se sujetará a lo dispuesto en los ordenamientos estatales que correspondan, los que mantendrán concordancia con la política nacional en la materia, así como en las normas oficiales mexicanas, normas ambientales estatales y demás disposiciones aplicables.
+
+###### Artículo 118.
+
+Los ingresos que, en su caso, el Estado pueda percibir por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de manejo de la vida silvestre y desarrollo forestal, conforme lo determinen los ordenamientos aplicables, se destinarán de manera preferente a la realización de acciones de preservación y restauración de la biodiversidad en las áreas que constituyan el hábitat de las especies de flora y fauna silvestre respecto de las cuales se otorgaron los permisos, licencias o autorizaciones correspondientes, o a otras acciones necesarias para el cumplimiento de los fines de esta Ley y otros ordenamientos aplicables.
+
+###### Artículo 119.
+
+El Estado, en el ámbito de su competencia, regulará el trato digno y respetuoso que deberá darse a los animales.
+
+## TÍTULO TERCERO. APROVECHAMIENTO SUSTENTABLE DE LOS ELEMENTOS NATURALES
+
+### CAPÍTULO I. APROVECHAMIENTO SUSTENTABLE DEL AGUA Y LOS ECOSISTEMAS ACUÁTICOS
+
+###### Artículo 120.
+
+Para el aprovechamiento sustentable del agua y los ecosistemas acuáticos se considerarán los siguientes criterios:
+
+I. Corresponde al Estado, a los Municipios y a la sociedad, la protección de los ecosistemas acuáticos y del equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
+
+II. El aprovechamiento sustentable de los recursos naturales que comprenden los ecosistemas acuáticos debe realizarse sin afectar su equilibrio ecológico y capacidad de recuperación;
+
+III. Para mantener la integridad y el equilibrio de los elementos naturales que intervienen en el ciclo hidrológico, se deberá considerar la protección del suelo, escurrimientos y cañadas, los recursos forestales y la vida silvestre, para asegurar la capacidad de recarga de los acuíferos;
+
+IV. La preservación y el aprovechamiento sustentable del agua y de los ecosistemas acuáticos, es responsabilidad de las autoridades y de los usuarios, así como de quienes realicen obras o actividades que afecten o puedan afectar dichos recursos o alguno de sus componentes;
+
+V. El agua debe ser aprovechada y distribuida con equidad, calidad y eficiencia, dando preferencia a la satisfacción del consumo doméstico, incluyendo el uso generalizado de dispositivos y sistemas de ahorro;
+
+VI. La captación y almacenamiento del agua de lluvia, para usos múltiples;
+
+VII. El tratamiento de aguas residuales y su reutilización en actividades industriales y de servicios, agropecuarias o forestales, así como su intercambio por aguas que no hayan sido utilizadas; y
+
+VIII. El cumplimiento de las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y demás ordenamientos aplicables.
+
+###### Artículo 121.
+
+Los criterios para el aprovechamiento sustentable del agua y de los ecosistemas acuáticos, serán considerados en:
+
+I. La formulación e integración de la programación estatal hidráulica;
+
+II. El otorgamiento o revocación de concesiones, permisos y en general de toda clase de autorizaciones para el aprovechamiento sustentable del agua o la realización de actividades que afecten o puedan afectar el ciclo hidrológico;
+
+III. El otorgamiento o revocación de concesiones, permisos y autorizaciones para el establecimiento de plantas de tratamiento y reutilización de aguas residuales cuando no sean de competencia federal;
+
+IV. El otorgamiento de autorizaciones para canalizar, extraer o derivar las aguas de jurisdicción estatal;
+
+V. La operación y administración de los sistemas de agua potable y alcantarillados que sirven a los centros de población e industrias;
+
+VI. Los programas estatales de desarrollo urbano y vivienda;
+
+VII. Las políticas y programas para la preservación de los organismos acuáticos;
+
+VIII. La reutilización de aguas residuales tratadas en el riego de áreas verdes públicas o privadas; y
+
+IX. La coordinación con las autoridades Federales competentes en la regulación y aprovechamiento de los pozos de agua de uso.
+
+### CAPÍTULO II. APROVECHAMIENTO SUSTENTABLE DEL SUELO Y SUS RECURSOS
+
+### CAPÍTULO III. APROVECHAMIENTO RESPONSABLE DE LOS MINERALES NO RESERVADOS A LA FEDERACIÓN
+
+###### Artículo 122.
+
+Para el aprovechamiento sustentable del suelo y su vegetación se considerarán, los siguientes criterios:
+
+I. El uso del suelo debe ser compatible con su vocación natural, y no debe alterar el equilibrio de los ecosistemas;
+
+II. El uso del suelo debe hacerse de manera que éste mantenga su integridad física y su capacidad productiva;
+
+III. Los usos productivos del suelo deben evitar prácticas que favorezcan la erosión, degradación o modificación de las características topográficas, con efectos ecológicos adversos;
+
+IV. En las acciones de aprovechamiento sustentable del suelo, deberán considerarse las medidas necesarias para prevenir o reducir su erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo así como la pérdida de la vegetación;
+
+V. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos o su vegetación, deben incluir acciones equivalentes de regeneración, recuperación o restablecimiento de su vocación natural;
+
+VI. En el aprovechamiento del suelo con fines urbanos, se deberán de considerar la delimitación de áreas que sustenten elementos vegetativos que por su especie, condición y distribución deberán preservarse para su uso en áreas verdes;
+
+VII. La afectación de la cubierta vegetal, deberá ser repuesta en especie, con individuos de variedades nativas en cantidad y dimensión equivalente a los afectados, bajo autorización de la autoridad competente; y
+
+VIII. Se preservará y cuidará la proporción de áreas verdes aprobadas en la autorización de uso de suelo en zona urbana.
+
+###### Artículo 123.
+
+Los criterios para la preservación y aprovechamiento sustentable del suelo se considerarán en:
+
+I. Los apoyos a las actividades agrícolas que otorgue el Estado, para que promueva la progresiva incorporación de cultivos compatibles con la preservación y restauración del equilibrio ecológico y de los ecosistemas;
+
+II. La fundación de centros de población y la radicación o reubicación de asentamientos humanos;
+
+III. El establecimiento de usos, reservas y destinos, en los planes de desarrollo urbano, así como en las acciones de mejoramiento y preservación ambiental en los centros de población;
+
+IV. El ordenamiento ecológico estatal, regional y municipal; y
+
+V. Los planes sectoriales estatales y municipales.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 124.
+
+En el caso de aprovechamiento responsable de los recursos minerales y sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes naturales, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la construcción u ornamentos de obras, la Agencia dictará las medidas de protección ambiental que deberán llevarse a cabo por parte de las personas físicas o morales que hagan uso de estos recursos.
+
+###### Artículo 125.
+
+En la ejecución de las actividades señaladas en el artículo anterior, se observará lo previsto en la presente Ley, su Reglamento y demás ordenamientos que emita el Estado por conducto de la Agencia.
+
+###### Artículo 126.
+
+Las personas físicas o morales que lleven a cabo las actividades a que se refiere el artículo 124 de esta Ley, tienen las siguientes obligaciones:
+
+I. Contar con autorización de la Agencia para su operación, así como para la ampliación o modificación de sus actividades;
+
+II. Presentar la manifestación de impacto ambiental;
+
+III. Prevenir la emisión o el desprendimiento de polvos, humos, gases o ruidos que pudieran dañar al ambiente;
+
+IV. Controlar y disponer adecuadamente de sus residuos y evitar su propagación fuera de los predios en los que se lleven a cabo dichas actividades;
+
+V. Llevar a cabo las disposiciones que en materia de control de contingencias ambientales establezca la Agencia, de conformidad con los planes preventivos que expida; y
+
+VI. Presentar y ejecutar un proyecto para la rehabilitación del área en donde se desarrollen las obras o actividades que se establecen en el presente capítulo.
+
+###### Artículo 127.
+
+La Agencia vigilará que las personas físicas o morales responsables de la exploración, explotación y aprovechamiento de los recursos minerales a que se refiere este Capítulo, cumplan con las disposiciones que sobre la materia señala la presente Ley.
+
+## TÍTULO CUARTO. PROTECCIÓN AL AMBIENTE
+
+### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA
+
+###### Artículo 128.
+
+Para la protección al ambiente, el Estado y los Municipios, en sus correspondientes ámbitos de competencia, deberán considerar los siguientes criterios:
+
+I. Que es prioritario generar las condiciones necesarias para contar con un ambiente adecuado para la salud y el desarrollo sustentable, mediante la disminución gradual de las emisiones, descargas y residuos;
+
+II. Que la obligación de prevenir y, en su caso, controlar la contaminación del ambiente corresponde tanto al Estado como a los municipios; y
+
+III. Que las emisiones, descargas, infiltración o depósito de contaminantes, sean de fuentes naturales o artificiales, fijas o móviles, deben ser reducidas y controladas para mejorar la calidad de vida y el bienestar de la población, así como para evitar daños a los diversos elementos que conforman los ecosistemas.
+
+###### Artículo 129.
+
+La Agencia, en coordinación con los Municipios y, en su caso, las dependencias y entidades de la Administración Pública Estatal, deberá integrar un inventario de emisiones atmosféricas, descargas de aguas residuales en sistemas de alcantarillado de su competencia, materiales y residuos que no se encuentren reservados a la Federación, en los términos que señale el Reglamento de la presente Ley, así como coordinar los registros que la misma establezca. Asimismo, deberán contar con un sistema de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse.
+
+La Agencia, en el ámbito estatal, implementará lo relativo al registro de emisiones y transferencia de contaminantes, de conformidad con las disposiciones que al efecto establezca la normatividad Federal aplicable.
+
+###### Artículo 130.
+
+En el ámbito de su competencia, la Agencia deberá establecer los mecanismos y procedimientos necesarios con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios, se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia estatal.
+
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
+
+#### SECCIÓN II. PREVENCIÓN Y CONTROL DE EMISIONES CONTAMINANTES GENERADAS POR FUENTES FIJAS
+
+###### Artículo 131.
+
+Para la prevención y control de la contaminación a la atmósfera, se considerarán los siguientes criterios:
+
+I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del Estado;
+
+II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, fijas o móviles, deberán ser controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico;
+
+III. Al Estado, a los Municipios y a la sociedad les corresponde la protección de la calidad del aire;
+
+IV. Considerar programas de reforestación, verificación de las emisiones contaminantes, desarrollo de tecnologías limpias apegadas a criterios ambientales, y protección del suelo, en busca de la ecoeficiencia, a fin de mantener la integridad y el equilibrio de los componentes de la atmósfera; y
+
+V. La preservación y el aprovechamiento sustentable de la atmósfera es responsabilidad concurrente de las autoridades y ciudadanos.
+
+###### Artículo 132.
+
+Para la aplicación de las disposiciones contenidas en el presente capítulo, se considerarán como:
+
+I. Fuentes emisoras de contaminación atmosférica de competencia estatal:
+
+a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el artículo 111 bis de la Ley General;
+
+b) Los bienes y zonas de competencia estatal;
+
+c) Los vehículos automotores destinados al servicio público de transporte estatal; y
+
+d) Las señaladas en otros ordenamientos aplicables.
+
+II. Fuentes emisoras de contaminación atmosférica de competencia municipal:
+
+a) Los establecimientos comerciales o de servicios, excepto los sectores que sean competencia exclusiva de la Federación establecidos en el artículo 111 bis de la Ley General;
+
+b) Los bienes y zonas de competencia municipal;
+
+c) Los vehículos automotores destinados al servicio privado de transporte que circulen dentro del territorio municipal; y
+
+d) Las que no sean de competencia estatal o federal.
+
+###### Artículo 133.
+
+El Estado y los Municipios, dentro de su competencia, llevarán a cabo las siguientes atribuciones:
+
+I. Controlar la contaminación del aire en los bienes y zonas de jurisdicción estatal o municipal, así como en fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, en el ámbito de sus respectivas competencias;
+
+II. Aplicar los criterios generales que establece ésta Ley para la protección a la atmósfera, en los planes de desarrollo urbano de su competencia;
+
+III. Requerir a los responsables de la operación de fuentes fijas de jurisdicción estatal o municipal, no exceder los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en el Reglamento de la presente Ley, en las Normas Oficiales Mexicanas respectivas, Normas Ambientales Estatales, y demás criterios o lineamientos ambientales establecidos en la presente Ley;
+
+IV. Establecer y operar sistemas de monitoreo de la calidad del aire, utilizando para ello los dispositivos tecnológicos que cumplan con las Normas Oficiales Mexicanas y Normas Ambientales Estatales;
+
+V. Integrar y mantener actualizados los sistemas estatales y nacionales de información ambiental que se establezcan, así como los reportes de monitoreo ambiental;
+
+VI. Formular y aplicar, programas de gestión de calidad del aire con base en las Normas Oficiales Mexicanas y Normas Ambientales Estatales para establecer la calidad ambiental en el territorio del Estado;
+
+VII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías ambientalmente compatibles o ecoeficientes, con el propósito de reducir o eliminar sus emisiones a la atmósfera; y
+
+VIII. Ejercer las demás facultades que les confieren esta Ley y los demás ordenamientos aplicables.
+
+###### Artículo 134.
+
+En las zonas que se hubieren determinado aptas para uso industrial, próximas a áreas habitacionales, la Agencia promoverá la utilización de tecnologías y combustibles que generen menos contaminación, conforme a los límites establecidos por las Normas Oficiales Mexicanas, Normas Ambientales Estatales y los criterios o lineamientos ambientales que establezcan los ordenamientos aplicables.
+
+###### Artículo 135.
+
+En los planes de ordenamiento territorial, asentamientos humanos y de desarrollo urbano, se considerarán las condiciones topográficas, climáticas y meteorológicas, así como la información obtenida del monitoreo atmosférico para establecer los programas de control de contaminantes en la atmósfera.
+
+###### Artículo 136.
+
+Para el otorgamiento de estímulos fiscales, las autoridades competentes considerarán a quienes:
+
+I. Adquieran, instalen u operen equipo para el control de emisiones contaminantes a la atmósfera;
+
+II. Fabriquen, instalen o proporcionen mantenimiento a equipo de filtrado, combustión, control, y en general, de tratamiento de emisiones que contaminen la atmósfera;
+
+III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes; y
+
+IV. Reubiquen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
+
+#### SECCIÓN III. PREVENCIÓN Y CONTROL DE EMISIONES CONTAMINANTES GENERADOS POR FUENTES MÓVILES
+
+###### Artículo 137.
+
+Se prohíbe emitir contaminantes a la atmósfera, que rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas y en las Normas Ambientales Estatales. Los responsables de emisiones provenientes de fuentes fijas, también deberán cumplir con lo dispuesto en la Ley General, la presente Ley y los Reglamentos de estas leyes.
+
+###### Artículo 138.
+
+Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de competencia estatal o municipal que emitan o puedan emitir olores, gases, partículas contaminantes sólidas o líquidas a la atmósfera, requerirán según el ámbito de competencia conforme a esta Ley, licencia de funcionamiento expedida por la Agencia o lineamientos de operación por parte del Municipio que corresponda.
+
+El Reglamento de esta Ley determinará los subsectores específicos pertenecientes a cada uno de los sectores industriales que competan al Estado, cuyos establecimientos se sujetarán a las disposiciones de la presente Ley, en lo que se refiere a la emisión de contaminantes a la atmósfera.
+
+###### Artículo 139.
+
+Para obtener la licencia de funcionamiento o lineamientos de operación a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la autoridad competente, solicitud por escrito acompañada de la información y documentación que señale el Reglamento de esta Ley. Una vez recibida tal información, la Agencia o el Municipio otorgará o negará la licencia de funcionamiento o lineamientos de operación respectivamente, dentro del plazo de 20-veinte días hábiles, contados a partir de la fecha en que se reciba la solicitud.
+
+###### Artículo 140.
+
+Una vez otorgada la licencia de funcionamiento o emitidos los lineamientos de operación, el responsable de las emisiones deberá actualizar, mediante una cédula de operación, la vigencia del documento donde conste la licencia de funcionamiento o los lineamientos de operación. La cédula se presentará ante la autoridad que corresponda, en el periodo y bajo el procedimiento que se determinen en el Reglamento de esta Ley, y en su caso, en el reglamento municipal correspondiente.
+
+De otorgarse la licencia o lineamientos de operación, la autoridad determinará qué acciones habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, las cuales, en todos los casos, se deberán de especificar en la señalada licencia o lineamientos de operación.
+
+###### Artículo 141.
+
+Las acciones a que se refiere el artículo anterior podrán ser las siguientes:
+
+I. Instalar equipos y sistemas que controlen las emisiones contaminantes a la atmósfera, para que éstas no rebasen los niveles máximos permisibles, conforme a lo que establece el Reglamento de esta Ley y las Normas Oficiales Mexicanas y Normas Ambientales Estatales;
+
+II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la autoridad, y remitir el mismo a estas autoridades con la periodicidad que determinen;
+
+III. Instalar plataformas y puertos de muestreo en chimeneas, tiros, ductos y descargas;
+
+IV. Medir las emisiones de contaminantes a la atmósfera de acuerdo a las Normas Oficiales Mexicanas y Normas Ambientales Estatales, en los períodos que determinen las autoridades, registrar los resultados en el formato que estas precisen y remitir los registros relativos cuando así lo soliciten;
+
+V. Efectuar el monitoreo perimetral de las emisiones contaminantes a la atmósfera en períodos que determinen las autoridades, así como cuando por sus características de operación o por sus materias primas o productos, puedan causar riesgos al ambiente o a la salud de los seres vivos;
+
+VI. Llevar una bitácora de operación y mantenimiento de los equipos de proceso y control;
+
+VII. Dar aviso anticipado a las autoridades correspondientes del inicio de la operación de sus procesos, en el caso de paros programados, y de inmediato cuando éstos sean circunstanciales, si ellos puedan provocar contaminación;
+
+VIII. Avisar de inmediato a las autoridades correspondientes, en el caso de falla del equipo de control para que éstos determinen lo conducente;
+
+IX. Establecer las medidas y acciones que deberán efectuarse en caso de contingencia;
+
+X. Elaborar y someter a la autoridad competente su programa de prevención, minimización, tratamiento, disposición y reutilización de contaminantes atmosféricos o reciclamiento para el caso de residuos, cuando éste se requiera por la cantidad o naturaleza de los contaminantes o residuos generados, de conformidad con los criterios establecidos en la presente Ley; y
+
+XI. Las demás que se establezcan en esta Ley, los ordenamientos que de ella se deriven o determinen las autoridades en el ámbito de sus respectivas competencias.
+
+###### Artículo 142.
+
+Las emisiones de contaminantes a la atmósfera, generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga, cuando esto no sea posible, por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Agencia o ante la autoridad municipal que corresponda, a fin de que se dicten las medidas que correspondan.
+
+###### Artículo 143.
+
+Queda prohibida la quema a cielo abierto de los residuos sólidos urbanos, así como del material vegetal resultante de la limpia, desmonte o despalme de cualquier terreno, para efectos de construcción o cualquier otro fin, salvo cuando se realicen con autorización escrita de la Agencia o, en su caso, de las autoridades municipales que correspondan. La Agencia o los Municipios solamente podrán expedir autorizaciones en los supuestos en que la quema no cause un riesgo ambiental o impacte la calidad del aire y se justifique por razones sociales o agrícolas, u otras aplicables a juicio de las autoridades respectivas. La incineración, mediante métodos controlados, de cualquier residuo, a excepción de los que la Ley General u otra legislación federal consideren como peligrosos, quedará sujeta a las disposiciones de emisiones señaladas en la presente Ley.
+
+#### SECCIÓN I. DERECHO A LA INFORMACIÓN AMBIENTAL
+
+###### Artículo 144.
+
+Los vehículos automotores cuyos niveles de emisión de contaminantes a la atmósfera rebasen los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y Normas Ambientales Estatales, no podrán circular en el territorio de la entidad.
+
+###### Artículo 145.
+
+La Agencia, en coordinación con los Municipios, podrá establecer y operar sistemas de verificación vehicular con el objeto de controlar las emisiones contaminantes provenientes de los vehículos automotores destinados al transporte privado. Dicha verificación deberá efectuarse conforme a los programas estatales y municipales que se establezcan, y de acuerdo al procedimiento que establezca el Reglamento de la presente Ley.
+
+###### Artículo 146.
+
+La Agencia, en coordinación con los Municipios, podrá emitir lineamientos técnicos para el establecimiento y operación de los sistemas de verificación de vehículos automotores destinados al transporte privado, de conformidad con lo que establezca el Reglamento de la presente Ley, así como las Normas Oficiales Mexicanas y Normas Ambientales Estatales que en su caso, correspondan.
+
+###### Artículo 147.
+
+La Agencia podrá establecer y operar sistemas de verificación vehicular para prevenir y controlar las emisiones contaminantes provenientes de los vehículos automotores destinados al servicio público de transporte estatal y al de servicio privado de uso intensivo. Dicha verificación deberá efectuarse conforme al programa que al efecto establezca la Agencia, y al procedimiento que establezca el Reglamento de esta Ley, en coordinación con las autoridades correspondientes.
+
+###### Artículo 148.
+
+Los vehículos automotores que circulen en el territorio de la entidad, deberán utilizar sistemas, equipos y combustible, de la tecnología y características necesarias para minimizar sus emisiones contaminantes, de conformidad con lo dispuesto en las Normas Oficiales Mexicanas y Normas Ambientales Estatales.
+
+###### Artículo 149.
+
+La Agencia, con la intervención de los Municipios, establecerá los requisitos, limitaciones y procedimientos para prevenir y controlar las emisiones contaminantes provenientes del transporte público estatal, incluida la promoción ante la autoridad competente de la suspensión o retiro de la circulación, en casos de contaminación ostensible, o se incumpla con los limites máximos permisibles establecidos por las Normas Oficiales Mexicanas y Normas Ambientales Estatales.
+
+###### Artículo 150.
+
+La Agencia, con la participación en su caso, de la autoridad municipal correspondiente, podrá limitar la circulación de vehículos automotores en el Estado, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, en casos de contaminación ostensible, o para prevenir y reducir las emisiones contaminantes, en los términos de los ordenamientos aplicables.
+
+###### Artículo 151.
+
+En el supuesto de que la Agencia establezca y opere sistemas de verificación vehicular, la omisión de las verificaciones a que se refiere la presente sección o la falta de cumplimiento de las medidas que para la prevención y el control de emisiones se establezcan, serán objeto de sanciones en los términos que prevenga esta Ley y su Reglamento.
+
+###### Artículo 152.
+
+El Estado, a través de la Agencia, y en coordinación con las autoridades estatales y municipales que correspondan, podrá restringir y sujetar a horarios nocturnos el tránsito vehicular y las maniobras respectivas en la vía pública de los vehículos de carga, a fin de agilizar la circulación vehicular diurna y reducir, de esta forma, las emisiones contaminantes generadas por las fuentes móviles. Podrán además requerir a la autoridad competente en el ámbito federal, o al operador del servicio que corresponda, la restricción de horarios para la circulación de ferrocarriles en áreas urbanas para los mismos efectos.
+
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, el Titular del Ejecutivo del Estado publicará el Acuerdo correspondiente en el Periódico Oficial del Estado.
+
+###### Artículo 153.
+
+La Agencia podrá otorgar permisos, autorizaciones y acreditaciones a fabricantes, distribuidores, importadores y talleres, para el servicio de diagnóstico, reparación, comercialización e instalación de dispositivos y equipos de reducción de emisiones contaminantes y de sistemas de gas, conforme a las convocatorias que al efecto emita, en las que se incluyan las condiciones y características a que deba sujetarse su actividad.
+
+###### Artículo 154.
+
+Para prevenir y reducir la emisión de contaminantes a la atmósfera, la Agencia promoverá ante las autoridades municipales competentes, programas de ordenamiento vial y de agilización del tránsito vehicular, especialmente en las horas de mayor incidencia de tráfico vehicular.
+
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+
+###### Artículo 155.
+
+Para la prevención y control de la contaminación de las aguas de jurisdicción estatal, se deberán aplicar las disposiciones de esta Ley, observando lo dispuesto en la Ley de Agua Potable y Saneamiento del Estado, Normas Oficiales Mexicanas y Normas Ambientales Estatales, y demás ordenamientos aplicables, y se considerarán los siguientes criterios:
+
+I. La prevención y control de la contaminación del agua es fundamental para evitar que se reduzca su disponibilidad en calidad y cantidad, y para proteger los ecosistemas del Estado;
+
+II. El aprovechamiento del agua en actividades productivas susceptibles de generar contaminación, conlleva la responsabilidad del usuario para realizar el tratamiento de las descargas, para reintegrarla en condiciones adecuadas con el fin de reutilizarla en otras actividades y mantener el equilibrio de los ecosistemas;
+
+III. Los ríos, cuencas, vasos y demás depósitos o corrientes de agua, incluyendo las del subsuelo, no deberán recibir aguas residuales sin su previo tratamiento; y
+
+IV. Corresponde al Estado, prevenir y controlar la contaminación de las aguas que se encuentren en el territorio del Estado, así como las que les fueren asignadas por la Federación, en coordinación con la Comisión Nacional del Agua.
+
+###### Artículo 156.
+
+Los criterios para la prevención y control de la contaminación del agua serán considerados en:
+
+I. El establecimiento de regulaciones sanitarias para el tratamiento, disposición, uso y reutilización de aguas residuales;
+
+II. La suscripción de convenios que se celebren para entrega de agua en bloque a los sistemas usuarios, especialmente en lo que se refiere a la determinación de los sistemas de tratamiento de aguas residuales que deban instalarse;
+
+III. Los programas para el control y vigilancia de descargas de aguas residuales al alcantarillado o fosas sépticas impermeables; y
+
+IV. Los permisos, autorizaciones o registros que se otorguen para descargar aguas residuales al alcantarillado de las poblaciones, fosas sépticas impermeables o en los cuerpos de agua de jurisdicción estatal.
+
+###### Artículo 157.
+
+En materia de prevención y control de la contaminación del agua, corresponde a la Agencia, de conformidad con la presente Ley, y demás ordenamientos aplicables:
+
+I. El control de las descargas residuales a los sistemas de drenaje, alcantarillado o fosas sépticas impermeables, en el ámbito de su competencia;
+
+II. La vigilancia de las Normas Oficiales Mexicanas, Normas Ambientales Estatales, lineamientos ó criterios ambientales, en el ámbito de su competencia;
+
+III. Exigir, en casos de riesgo inminente o contaminación ostensible, el tratamiento de las aguas residuales de descarga a los cuerpos receptores de su competencia, y aplicar las sanciones correspondientes por la violación a las disposiciones que en ésta materia, establece la presente Ley;
+
+IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado así como de fosas sépticas;
+
+V. Promover y establecer programas de pretratamiento de aguas residuales, para cumplir con los límites y condiciones para su descarga; y
+
+VI. Promover la difusión entre la población, de programas y acciones de control y prevención para evitar la contaminación del agua.
+
+###### Artículo 158.
+
+Para evitar la contaminación de las aguas que estén bajo jurisdicción estatal, quedan sujetos a regulación de la Agencia:
+
+I. Las descargas de origen industrial, comercial y de servicios;
+
+II. Las descargas derivadas de actividades agropecuarias;
+
+III. Las descargas de desechos, sustancias o residuos generados en las actividades de aprovechamiento de los minerales o sustancias no reservadas a la Federación;
+
+IV. La realización de actividades que no sean de competencia federal, en las cuales se realicen descargas;
+
+V. Las infiltraciones que afecten o dañen los mantos acuíferos, al suelo y subsuelo;
+
+VI. El vertimiento de residuos sólidos en cuerpos y corrientes de agua; y
+
+VII. La disposición final adecuada de los lodos generados en los sistemas de tratamiento.
+
+###### Artículo 159.
+
+No podrán descargarse en los sistemas de drenaje y alcantarillado, aguas residuales de cualquier tipo, que no cumplan con lo establecido por las Normas Oficiales Mexicanas, Normas Ambientales Estatales o condiciones particulares de descarga que dicte la Agencia.
+
+Los responsables de las descargas residuales objeto de esta Ley, podrán convenir con el Estado, para que éstos tomen a su cargo el tratamiento de dichas aguas, previo el pago de los derechos que al efecto se fijan en el ordenamiento legal correspondiente.
+
+Las descargas de agua de origen doméstico, no estarán sujetas al previo tratamiento y permiso a que se refiere el primer párrafo de éste artículo, a menos que se combine con otras actividades de carácter comercial, industrial o de servicios y no cumpla con las Normas Oficiales Mexicanas, Normas Ambientales Estatales o condiciones particulares de descarga.
+
+El otorgamiento de asignaciones, concesiones o permiso para la explotación, uso o aprovechamiento de aguas de jurisdicción estatal, o de aguas asignadas al Estado, estará condicionado al cumplimiento de las Normas Oficiales Mexicanas, Normas Ambientales Estatales o condiciones particulares de descarga.
+
+###### Artículo 160.
+
+Todas las descargas de aguas residuales a los sistemas de drenaje y alcantarillado de los centros de población, deberán satisfacer las condiciones generales, así como las que se señalen en las condiciones particulares de descarga que fije la Agencia, conforme a lo dispuesto en esta Ley, para prevenir:
+
+I. La contaminación de los cuerpos receptores;
+
+II. Las interferencias en los procesos de depuración de las aguas; y
+
+III. Los fenómenos que pongan en riesgo los ecosistemas o la capacidad hidráulica de las cuencas.
+
+###### Artículo 161.
+
+Cuando se afecten o puedan afectar fuentes de abastecimiento de agua, se dará aviso de inmediato a la Agencia y a la autoridad sanitaria más próxima. En estos casos, y en coordinación con la Secretaría de Salud en el Estado, la Agencia y el Municipio, en el ámbito de sus respectivas competencias tomarán las medidas que consideren necesarias.
+
+###### Artículo 162.
+
+Los Municipios observarán, según corresponda, las condiciones particulares de descarga que les sean fijadas, de acuerdo a los parámetros establecidos por la Agencia, y conforme a las Normas Oficiales Mexicanas, o Normas Ambientales Estatales, para el diseño, operación o administración de sus equipos y sistemas de tratamiento de aguas residuales de origen urbano.
+
+###### Artículo 163.
+
+Se informará por escrito a la Agencia las especificaciones técnicas para el diseño o modificación de los sistemas de tratamiento cuyos efluentes se descarguen en aguas de jurisdicción estatal, y cuando se descarguen en los sistemas de drenaje y alcantarillado de los centros de población.
+
+###### Artículo 164.
+
+Cuando no existan sistemas municipales para evacuación de las aguas residuales, los generadores de las mismas, deberán instalar sistemas de tratamiento y reciclaje de sus aguas residuales, con el objeto de cumplir la regulación ambiental aplicable.
+
+###### Artículo 165.
+
+El Estado se coordinará con las autoridades federales competentes, para realizar un sistemático y permanente monitoreo de calidad de las aguas de jurisdicción estatal y aplicar las medidas que procedan o en su caso promover su ejecución.
+
+### CAPÍTULO V. MANEJO Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+
+###### Artículo 166.
+
+Para la prevención y control de la contaminación del suelo, se considerarán los criterios que se establecen en ésta Ley, en la Ley General de Prevención y Gestión Integral de los Residuos, y demás ordenamientos aplicables.
+
+###### Artículo 167.
+
+Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
+
+I. Corresponde al Estado, a los Municipios y a la sociedad, prevenir la contaminación del suelo, fomentando la separación de los residuos desde su origen, así como el control y la disminución de la generación de residuos sólidos urbanos y de manejo especial y la incorporación de técnicas y procedimientos para su reutilización y reciclaje, así como el aprovechamiento del biogás producto de la descomposición de los residuos orgánicos como fuente renovable de energía;
+
+II. El uso de fertilizantes, plaguicidas y sustancias tóxicas, debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana, a fin de prevenir los daños que se pudieran ocasionar;
+
+III. En los suelos contaminados por la presencia de materiales o residuos de competencia estatal, así como por el aprovechamiento de minerales y sustancias no reservadas a la Federación, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones originales, de tal manera que puedan ser utilizadas en cualquier tipo de actividad prevista en los planes de desarrollo urbano o de ordenamiento ecológico que resulten aplicables, sujetándose en todo caso a las recomendaciones que dicte la Agencia;
+
+IV. En la disposición final de los lodos provenientes de los procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, en términos de la legislación federal, se implementarán las medidas específicas que establezcan las autoridades competentes, y demás ordenamientos aplicables; y
+
+V. En la circulación de vehículos en áreas urbanas o consideradas como tales, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, materiales, productos, subproductos o residuos, se deberán implementar, por parte de los transportistas u operadores, medidas especiales de seguridad y control, conforme a lo establecido en ésta Ley y otros ordenamientos aplicables, a efecto de prevenir riesgos ambientales, o daños a la salud de los seres vivos.
+
+###### Artículo 168.
+
+Los criterios señalados en el artículo anterior, deberán considerarse en:
+
+I. El ordenamiento territorial de los asentamientos humanos y la planeación del desarrollo urbano;
+
+II. La operación de los sistemas de limpia, manejo y disposición final de residuos sólidos urbanos y residuos de manejo especial en rellenos sanitarios;
+
+III. La generación, manejo y disposición final de residuos de competencia estatal, así como en las autorizaciones y permisos que al efecto se otorguen;
+
+IV. El uso de sistemas de reciclamiento de desechos sólidos que permitan disminuir su cantidad, a través de la separación y la clasificación, así como en la operación de otros sistemas de reciclaje; y
+
+V. El aprovechamiento sustentable de minerales y sustancias no reservadas a la Federación.
+
+### CAPÍTULO VI. ACTIVIDADES QUE NO SEAN CONSIDERADAS COMO ALTAMENTE RIESGOSAS
+
+###### Artículo 169.
+
+Las autoridades señaladas en la presente Ley, ejercerán sus atribuciones en materia de residuos, de conformidad con la distribución de competencias que establece la Ley General para la Prevención y Gestión Integral de los Residuos, ésta Ley, y otros ordenamientos aplicables.
+
+###### Artículo 170.
+
+Los residuos que se acumulen o puedan acumularse y se depositen o infiltren en los suelos, deberán reunir las condiciones necesarias para prevenir o evitar:
+
+I. La contaminación del suelo;
+
+II. Las alteraciones nocivas en el proceso biológico de los suelos;
+
+III. Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación; y
+
+IV. Los riesgos y problemas de salud.
+
+###### Artículo 171.
+
+Toda persona física o moral que genere residuos sólidos urbanos tiene la responsabilidad de su manejo hasta el momento en que son entregados al servicio de recolección autorizado por la autoridad competente, o cuando son depositados en los contenedores o sitios de confinamiento adecuados, a efecto de que puedan ser recolectados.
+
+###### Artículo 172.
+
+Toda persona física o moral que genere residuos de manejo especial, tiene la responsabilidad de su manejo hasta su disposición final, pudiendo trasladar dicha responsabilidad a los prestadores del servicio de recolección, transporte o tratamiento de dichos residuos, que al efecto contraten.
+
+###### Artículo 173.
+
+Las personas físicas o morales responsables de la producción, distribución o comercialización de bienes que, una vez terminada su vida útil, generen residuos sólidos urbanos y de manejo especial en alto volumen o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en la presente Ley y otras disposiciones aplicables, con las siguientes:
+
+I. Instrumentar planes de manejo de los residuos sólidos urbanos y de manejo especial en sus procesos de producción, prestación de servicios o en la utilización de envases y embalajes, así como su fabricación o diseño, comercialización o utilización que contribuyan a la minimización de los residuos y promuevan la reducción de la generación en la fuente, su valorización o disposición final, que ocasionen el menor impacto ambiental posible;
+
+II. Adoptar sistemas eficientes de recuperación para minimizar, reciclar o reusar los residuos sólidos urbanos y de manejo especial derivados de la comercialización de sus productos finales; y
+
+III. Promover el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reuso y reciclaje.
+
+El Reglamento de la presente Ley establecerá los casos en que se considere que las personas físicas o morales generen residuos sólidos urbanos y de manejo especial en alto volumen.
+
+###### Artículo 174.
+
+Para la prevención de la generación, valorización y manejo de los residuos que en esta Ley se regulan, se incluirán en el Reglamento las disposiciones para formular planes de manejo, guías y lineamientos para los grandes generadores de dichos residuos.
+
+###### Artículo 175.
+
+Se consideran conductas violatorias o infracciones a esta Ley, en materia de residuos, las siguientes:
+
+I. Arrojar o abandonar en la vía pública, lotes baldíos, a cielo abierto, cuerpos de agua superficiales o subterráneos, sistemas de drenaje, alcantarillado, parques, barrancas, caminos rurales, carreteras, ríos, arroyos y en general en sitios no autorizados por la autoridad competente, o los señalados en la presente Ley, residuos sólidos urbanos y de manejo especial;
+
+II. Depositar animales muertos, residuos que provoquen contaminación ostensible u olores desagradables o aquellos provenientes de la construcción, en los contenedores instalados en la vía pública para el acopio temporal de residuos sólidos urbanos de los transeúntes y en general en sitios no autorizados por la autoridad competente;
+
+III. Quemar a cielo abierto, en contravención a lo dispuesto en la presente Ley;
+
+IV. Pepenar materiales reciclables en los recipientes instalados en la vía pública y en los sitios de disposición final;
+
+V. Crear nuevos tiraderos de basura a cielo abierto;
+
+VI. Tratar térmicamente los residuos recolectados, sin considerar los ordenamientos aplicables;
+
+VII. Diluir o mezclar residuos sólidos urbanos, o de manejo especial o peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
+
+VIII. Mezclar residuos peligrosos con otro tipo de residuos de los contemplados en ésta Ley;
+
+IX. Depositar en los rellenos sanitarios, residuos en estado líquido o con contenidos de humedad que no permitan su dispersión y compactación; conforme a lo establecido en las Normas Oficiales Mexicanas; y
+
+X. Utilizar vehículos o medios de transporte para la recolección, manejo, acopio, traslado o disposición final de residuos sólidos urbanos o de manejo especial, que no estén registrados, a través de un número de folio, ante la Agencia o el Municipio, según corresponda.
+
+Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en otros ordenamientos aplicables.
+
+###### Artículo 176.
+
+La Agencia elaborará y mantendrá actualizado, un inventario de los residuos de manejo especial y sus tipos de fuentes generadoras, con la finalidad de:
+
+I. Orientar la toma de decisiones tendientes a la prevención, control y minimización de dicha generación de residuos de manejo especial;
+
+II. Proporcionar a quien genere, recolecte, trate, recicle o disponga finalmente los residuos de manejo especial, indicadores acerca de su estado físico o características que permitan anticipar su comportamiento en el ambiente; e
+
+III. Identificar las fuentes generadoras de residuos de manejo especial y residuos sólidos urbanos, las diferentes características que los constituyen y los aspectos relacionados con su valorización.
+
+###### Artículo 177.
+
+En materia de residuos, la Agencia emitirá las autorizaciones para:
+
+I. La prestación del servicio de manejo integral de los residuos de manejo especial;
+
+II. La prestación del servicio de manejo integral de los residuos sólidos urbanos en caso que se preste en dos o más Municipios;
+
+III. La actividad de microgeneradores de residuos peligrosos, en coordinación con la Federación y de acuerdo a los convenios de coordinación que al efecto se suscriban;
+
+IV. La ubicación, operación y manejo integral de las escombreras o sitios de disposición final de residuos provenientes de la construcción, y estaciones de transferencia;
+
+V. La instalación de plantas de tratamiento térmico de residuos;
+
+VI. La operación, ubicación y manejo integral de los rellenos sanitarios, conforme a las Normas Oficiales Mexicanas y demás ordenamientos aplicables;
+
+VII. La recolección, trasporte (sic), reciclaje, reuso y disposición final de los residuos de manejo especial;
+
+VIII. La operación de los vehículos recolectores de residuos sólidos urbanos cuando presten el servicio a mas de dos Municipios y de manejo especial que circulen en el Estado;
+
+IX. La operación y manejo integral de los establecimientos para la compra y venta de materiales reciclables;
+
+X. La operación y manejo integral de los centros de composteo;
+
+XI. Los Planes de Manejo Específicos de residuos de manejo especial; y
+
+XII. Las actividades relativas al manejo de los residuos de competencia estatal que señalen otras disposiciones aplicables.
+
+El Reglamento de la presente Ley, establecerá los procedimientos para la emisión de las autorizaciones que se señalan en este artículo.
+
+###### Artículo 178.
+
+En materia de residuos, el Municipio emitirá las autorizaciones para:
+
+I. La prestación del servicio de recolección de residuos sólidos urbanos por terceros; y
+
+II. La prestación del servicio público de manejo integral de los residuos sólidos urbanos.
+
+Los respectivos reglamentos municipales, establecerán los procedimientos para la emisión de las autorizaciones que se señalan en este artículo.
+
+###### Artículo 179.
+
+Los sitios que se pretendan utilizar para la disposición final de los residuos contemplados en la presente Ley, deberán apegarse a las Normas Oficiales Mexicanas aplicables y a las resolutivas de impacto ambiental que al efecto se expidan. También deberán apegarse a los lineamientos previstos en los planes de desarrollo urbano Estatal y municipales, así como en los programas de ordenamiento ecológico y territorial.
+
+###### Artículo 180.
+
+Las autoridades adoptarán las medidas necesarias para racionalizar la generación de los residuos regulados en la presente Ley, y promoverán las técnicas y procedimientos para su separación, clasificación, reuso y reciclaje. Asimismo, fomentarán la fabricación y utilización, en sus respectivas jurisdicciones, de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la contaminación al ambiente.
+
+###### Artículo 181.
+
+Con motivo de la operación de sistemas destinados al manejo de materiales y residuos peligrosos, el reglamento de esta Ley y, en su caso, las normas ambientales estatales, podrán establecer medidas o restricciones complementarias a las que emita la Federación, a fin de evitar o prevenir situaciones de riesgo ambiental y proteger la salud de la población en general.
+
+La vigilancia y aplicación de dichas medidas o restricciones corresponderá a la Agencia, en el ámbito de competencia determinado por la Ley General, y de conformidad con lo previsto en la presente Ley.
+
+En caso de que se detecten irregularidades o violaciones en el manejo de los residuos peligrosos competencia de la Federación, la Agencia levantará el acta respectiva, ordenará las medidas de seguridad y restauración e inmediatamente enviará el expediente a la instancia correspondiente, independientemente de atender la situación de contingencia.
+
+### CAPÍTULO VII. PREVENCIÓN Y CONTROL DEL RUIDO, VIBRACIONES, OLORES PERJUDICIALES, ENERGÍA TÉRMICA Y LUMÍNICA Y LA CONTAMINACIÓN VISUAL
+
+###### Artículo 182.
+
+La Agencia establecerá la clasificación, a través de un listado, de las actividades que no sean consideradas como altamente riesgosas, conforme a lo dispuesto en la Ley General, y que puedan generar efectos negativos en los ecosistemas o en el ambiente de la entidad, conforme a la presente Ley y las Normas Ambientales Estatales. El respectivo listado deberá ser publicado en el Periódico Oficial del Estado.
+
+###### Artículo 183.
+
+El Estado promoverá que en los instrumentos de planeación del desarrollo urbano, se especifiquen las zonas en las que será permitido el establecimiento de industrias, comercios o servicios que desarrollen actividades que no sean consideradas como altamente riesgosas de acuerdo a lo que establece este ordenamiento, por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente de la entidad. Para tal fin deberán considerarse, por lo menos:
+
+I. Las condiciones topográficas, geológicas, meteorológicas y climatológicas de las zonas, inclusive las corrientes de aire predominantes en el sitio, de manera que facilite el control de emisiones contaminantes;
+
+II. La proximidad a centros de población, previendo las tendencias de expansión del centro de población respectivo y la creación de nuevos asentamientos;
+
+III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate sobre los centros de población y sobre los recursos naturales;
+
+IV. La infraestructura existente y necesaria para la atención de emergencias ambientales;
+
+V. La infraestructura para la dotación de servicios básicos; y
+
+VI. Las resolutivas en materia de riesgo ambiental emitidas por la Agencia.
+
+###### Artículo 184.
+
+Las personas físicas o morales que realicen actividades que no sean consideradas como altamente riesgosas, deberán observar los lineamientos, medidas preventivas, correctivas, de control y mitigación, así como utilizar sistemas, procesos, instalaciones, equipos y materiales que prevén las Normas Oficiales Mexicanas y en su caso, las Normas Ambientales Estatales, con el objeto de prevenir y controlar accidentes que puedan causar efectos negativos en los ecosistemas o en el ambiente del Estado.
+
+Asimismo, deberán considerar dentro de sus proyectos el establecimiento de una zona intermedia de salvaguarda, con base en el estudio y resolutiva de riesgo correspondiente emitido por la Agencia, para prevenir efectos negativos en los ecosistemas, o el ambiente en la entidad.
+
+###### Artículo 185.
+
+Quienes realicen actividades que no sean consideradas como altamente riesgosas, deberán formular y presentar ante la Agencia un estudio de riesgo ambiental, previo al inicio de las mismas, por otra parte, deberán presentar un programa relativo a la prevención de accidentes y un plan de contingencia ambiental avalado por las autoridades de protección civil y el Municipio, correspondiente a la actividad a desarrollar.
+
+###### Artículo 186.
+
+El control de las actividades que no sean consideradas como altamente riesgosas corresponderá a los Municipios en los siguientes casos:
+
+I. Cuando las actividades que no sean consideradas como altamente riesgosas estén relacionadas con el manejo de residuos sólidos urbanos; y
+
+II. Tratándose de actividades relacionadas con los servicios públicos municipales, comercios u otros servicios de su competencia, en términos de lo dispuesto en la presente Ley y demás ordenamientos aplicables.
+
+### CAPÍTULO VIII. CONTINGENCIAS AMBIENTALES
+
+###### Artículo 187.
+
+Quedan prohibidas las emisiones contaminantes provenientes de cualquier fuente fija o móvil, ocasionadas por ruido, vibraciones, olores perjudiciales, energía térmica y lumínica y radiaciones electromagnéticas en cuanto rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas o en las Normas Ambientales Estatales.
+
+Las autoridades que ésta Ley señala, en los ámbitos de sus competencias, adoptarán las medidas necesarias para impedir que se rebasen dichos límites y en su caso, aplicarán las sanciones correspondientes.
+
+###### Artículo 188.
+
+En la construcción de obras o instalaciones que generen los contaminantes señalados en el artículo anterior, así como en la operación o funcionamiento de las mismas, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos negativos de tales contaminantes en los ecosistemas y en el ambiente, previo dictamen de la autoridad correspondiente.
+
+###### Artículo 189.
+
+La contaminación visual provocada por publicidad comercial y de servicios será regulada bajo el Reglamento de Anuncios de cada Municipio y tomando en cuenta los criterios establecidos en ésta Ley.
+
+###### Artículo 190.
+
+Con el fin de evitar la contaminación visual, los Municipios sólo otorgarán licencias para la ubicación, instalación, distancia y colocación de anuncios o elementos visibles desde la vía pública, cuando:
+
+I. Estén en armonía con las características de la estética e imagen urbana o conforme a las Normas Ambientales Estatales que correspondan;
+
+II. Se ubiquen en zonas o áreas permitidas conforme al plan de desarrollo urbano correspondiente; y
+
+III. Se cumpla con la normatividad aplicable en materia urbanística.
+
+Queda prohibida la instalación de anuncios o elementos visibles, en los siguientes casos:
+
+I. En áreas naturales protegidas o en zonas clasificadas como habitacionales;
+
+II. En sitios y monumentos considerados de patrimonio histórico, arquitectónico o cultural;
+
+III. Cuando afecten o impacten nocivamente el paisaje natural o urbano;
+
+IV. Cuando generen o proyecten imágenes o símbolos distractores;
+
+V. Cuando ocasionen riesgo o peligro para la población;
+
+VI. Cuando obstruyan la visibilidad en túneles, puentes, pasos a desnivel, vialidades o señalamientos de tránsito; ó
+
+VII. Contravengan esta Ley u otros ordenamientos aplicables a la materia.
+
+Los Municipios deberán incorporar en sus bandos de policía y buen gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
+
+### CAPÍTULO IX. PRESTADORES DE SERVICIOS EN MATERIA AMBIENTAL
+
+###### Artículo 191.
+
+El Estado y los Municipios, de manera coordinada, participarán y tomarán las medidas necesarias para hacer frente a las situaciones de contingencia ambiental, conforme a las políticas y programas en materia ambiental, así como de protección civil que establezca el Ejecutivo del Estado.
+
+El Estado intervendrá cuando la magnitud o gravedad de los desequilibrios ecológicos o efectos negativos al ambiente afecten el territorio de dos o más Municipios.
+
+###### Artículo 192.
+
+La Agencia emitirá programas de contingencia ambiental en los que se establecerán las condiciones ante las cuales es procedente la determinación de estado de contingencia, así como las medidas aplicables para hacerles frente.
+
+###### Artículo 193.
+
+Las autoridades competentes podrán declarar contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o al ambiente de acuerdo con las Normas Ambientales Estatales y los elementos técnicos aplicables.
+
+La declaratoria y las medidas que se aplicarán deberán darse a conocer a través de los medios de comunicación masiva y de los instrumentos que se establezcan para tal efecto. Dichas medidas entrarán en vigor y se instrumentarán en los términos que se precisen en el Reglamento de esta Ley y en los respectivos programas de contingencia ambiental.
+
+###### Artículo 194.
+
+Los programas de contingencia ambiental establecerán las condiciones bajo las cuales permanecerán vigentes las medidas y los términos en que podrán prorrogarse, así como las condiciones y supuestos de exención.
+
+Los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes, en situación de contingencia ambiental.
+
+### CAPÍTULO I. PARTICIPACIÓN SOCIAL
+
+###### Artículo 195.
+
+De conformidad con lo establecido en la presente Ley, las personas físicas o morales que presten servicios en materia ambiental en general, y en materia de impacto y riesgo ambiental, así como los laboratorios ambientales y centros de preverificación de fuentes móviles, deberán de estar inscritas en un registro estatal de prestadores de servicio en materia ambiental que estará a cargo de la Agencia. Aquellos prestadores que carezcan de dicha inscripción, o no hayan solicitado a la Agencia la actualización de su registro, en los términos que establece el Reglamento de la presente Ley, no podrán prestar sus servicios de gestoría, tramitación o intermediación de ninguna de las materias que establece la presente Ley y los ordenamientos e instrumentos que de ella se deriven.
+
+Los prestadores que incumplan lo dispuesto en el presente artículo serán sancionados en los términos que establece esta Ley.
+
+###### Artículo 196.
+
+Los prestadores de servicios en materia de impacto y riesgo ambiental, serán responsables ante la Agencia de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporarán las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas respecto de las obras y actividades que evalúen.
+
+Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados directamente por los interesados, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
+
+###### Artículo 197.
+
+Para integrar y actualizar el registro a que se refiere el artículo 195 de esta Ley, la Agencia elaborará una lista de prestadores de servicios en materia de impacto y riesgo ambiental, al efecto se consultará periódicamente a los colegios de profesionistas, a las cámaras empresariales e industriales y a las instituciones de investigación y de educación superior, cuyos representantes integrarán un Consejo Técnico, que podrá practicar las investigaciones y evaluaciones necesarias para verificar la capacidad y aptitud de los prestadores de servicios en materia de impacto y riesgo ambiental.
+
+El Reglamento de la presente Ley establecerá los procedimientos correspondientes al Registro, así como a la integración del Consejo Técnico.
+
+###### Artículo 198.
+
+Los prestadores de servicios en materia de impacto y riesgo ambiental son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios.
+
+###### Artículo 199.
+
+La Agencia podrá convenir programas de evaluación o capacitación de prestadores de servicios en materia ambiental, en coordinación con los Colegios y Asociaciones de Profesionales e instituciones de investigación y de educación superior correspondientes.
+
+###### Artículo 200.
+
+La Agencia podrá otorgar autorizaciones a los interesados en prestar servicios de preverificación de fuentes móviles de su competencia, previa satisfacción de los requisitos correspondientes que establezca el Reglamento de la presente Ley. La prestación de estos servicios se hará de manera independiente al servicio público de verificación de vehículos automotores que en su caso establezca la Agencia, de conformidad con lo establecido en la presente Ley y su Reglamento.
+
+Quienes realicen verificaciones de vehículos automotores y entreguen documentos que acrediten su revisión sin contar con la autorización correspondiente, o contando con éstas emitan datos falsos o inexactos al respecto del nivel de emisiones de dichos vehículos, serán sancionados en los términos de esta Ley y las demás disposiciones jurídicas aplicables.
+
+###### Artículo 201.
+
+La Agencia establecerá los lineamientos y procedimientos para incorporar al Registro señalado en el presente Capítulo, a los laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones, certificaciones o reconocimientos que hayan obtenido dichos laboratorios.
+
+## TÍTULO QUINTO. PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN AMBIENTAL
+
+### CAPÍTULO II. CONSEJOS DE PARTICIPACIÓN CIUDADANA
+
+###### Artículo 202.
+
+El Estado y los Municipios promoverán la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de los recursos naturales, a través de las siguientes acciones:
+
+I. Convocar a los sectores público, social y privado, para que manifiesten su opinión y propuestas;
+
+II. Celebrar convenios de concertación con los diferentes sectores de la sociedad y demás personas interesadas para el establecimiento, administración y manejo de áreas naturales protegidas;
+
+III. Promover convenios con los diversos medios de comunicación masiva para la difusión, orientación y promoción de acciones ambientales;
+
+IV. Fomentar el reconocimiento a quienes realicen acciones a favor de mantener el equilibrio ecológico y la protección al ambiente;
+
+V. Promover la conciencia ambiental de la sociedad en general;
+
+VI. Promover foros de consulta sobre temas de interés para la comunidad; y
+
+VII. Concertar acciones e inversiones en beneficio de la conservación de la biodiversidad y la preservación del equilibrio ecológico con los sectores social y privado.
+
+### CAPÍTULO III. SISTEMA ESTATAL DE INFORMACIÓN AMBIENTAL Y DE RECURSOS NATURALES
+
+###### Artículo 203.
+
+En el ámbito estatal, la Agencia contará con un Consejo de Participación Ciudadana, incluyente, plural y de carácter honorífico, representativo de la sociedad civil, cuyas funciones, estructura y atribuciones, estarán establecidos en la Ley de la Agencia de Protección al Medio Ambiente y Recursos Naturales, y en el Reglamento de la presente Ley.
+
+Los Municipios, en el ámbito de su jurisdicción territorial, podrán contar con un Consejo Ciudadano de Protección al Ambiente y Recursos Naturales, con carácter de órgano auxiliar y consultivo para los Ayuntamientos, que será incluyente, plural y de carácter honorífico, representativo de la sociedad civil, el cual se regulará de conformidad con las disposiciones que establezcan los ordenamientos municipales correspondientes.
+
+### CAPÍTULO IV. DENUNCIA CIUDADANA
+
+###### Artículo 204.
+
+Se establece el Sistema Estatal de Información Ambiental y de Recursos Naturales, mismo que será coordinado por la Agencia de Protección al Medio Ambiente y Recursos Naturales, y tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Estado, misma que estará disponible para su consulta y que se coordinará y complementará con el Sistema Nacional correspondiente.
+
+En dicho Sistema, la Agencia deberá integrar, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el territorio del Estado, a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, agua y suelo, al ordenamiento ecológico del territorio del Estado, así como la información correspondiente a los registros, planes y acciones que se realicen para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+La Agencia reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de protección o aprovechamiento sustentable de recursos naturales, realizados sobre el Estado, por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y Recursos Naturales.
+
+### CAPÍTULO I. INSPECCION Y VIGILANCIA
+
+###### Artículo 205.
+
+Cualquier persona física o moral, tiene el derecho a denunciar ante la Agencia o el Municipio que corresponda, todo hecho u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección al ambiente y recursos naturales.
+
+La autoridad que tenga conocimiento de los hechos u omisiones señalados en el párrafo anterior, deberá denunciarlos ante la autoridad competente en la materia a fin de que se siga el procedimiento correspondiente.
+
+###### Artículo 206.
+
+La denuncia ciudadana podrá realizarse tanto en forma verbal, como por escrito, proporcionando como mínimo el denunciante:
+
+I. Los hechos u omisiones denunciados; y
+
+II. En su caso los datos que permitan identificar al presunto infractor o localizar la fuente contaminante.
+
+La autoridad estará obligada a mantener en reserva el nombre del denunciante, cuando éste así lo solicite.
+
+###### Artículo 207.
+
+La autoridad deberá llevar un registro de las denuncias recibidas y procederá a su verificación siempre que éstas reporten la información suficiente que lo permita.
+
+Una vez presentada la denuncia, la autoridad iniciará el procedimiento administrativo de inspección y vigilancia, y efectuará las diligencias necesarias con el propósito de determinar la existencia de los hechos u omisiones constitutivos de la denuncia.
+
+###### Artículo 208.
+
+Si de la diligencia se desprende que no es asunto de la competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a 5-cinco días hábiles, turnará el asunto a la autoridad competente.
+
+###### Artículo 209.
+
+En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos u omisiones denunciados, aportándole las pruebas, documentación e información que estime pertinentes.
+
+###### Artículo 210.
+
+La autoridad exhortará de manera permanente al público en general a denunciar hechos u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente. Además, tendrá la obligación de informar al denunciante el resultado de su gestión, cuando el interesado lo solicite.
+
+###### Artículo 211.
+
+Si del resultado de las investigaciones realizadas por la Agencia, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante estas u otras, la ejecución de las acciones procedentes.
+
+###### Artículo 212.
+
+Toda persona tendrá derecho a que el Estado y los Municipios, según corresponda, pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley y en lo que no se oponga a lo establecido en la Ley de Acceso a la Información Pública. En su caso, los gastos que se generen por la reproducción de la información correrán por cuenta del solicitante.
+
+Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental, cualquier información escrita, audiovisual o en forma de base de datos, de que dispongan las autoridades en materia de agua, aire, suelo, flora, fauna, recursos naturales en general y áreas naturales protegidas del Estado.
+
+Toda petición deberá presentarse por escrito, especificando claramente la información ambiental que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social, domicilio y acreditar su interés jurídico.
+
+###### Artículo 213.
+
+Las autoridades en materia ambiental, negarán la entrega de información, únicamente en los casos que establece la Ley de Acceso a la Información Pública.
+
+###### Artículo 214.
+
+Las autoridades ambientales deberán responder por escrito a los solicitantes de información ambiental, en un plazo no mayor a 20-veinte días hábiles, contados a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste en sentido negativo la solicitud, deberá señalar las razones que motivaron su determinación.
+
+En caso de que la autoridad ambiental omita dar la contestación correspondiente, estará sujeta a la responsabilidad prevista por el marco jurídico vigente en el Estado.
+
+###### Artículo 215.
+
+Quien reciba información ambiental de las autoridades competentes, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
+
+## TÍTULO SEXTO. INSPECCIÓN Y VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSO DE INCONFORMIDAD
+
+### CAPÍTULO II. MEDIDAS DE SEGURIDAD
+
+###### Artículo 216.
+
+La Agencia y los Municipios, en el ámbito de sus respectivas competencias, conforme a las disposiciones de esta Ley, podrán realizar visitas de inspección para comprobar el cumplimiento de la misma, sus Reglamentos, Normas Oficiales Mexicanas, Normas Ambientales Estatales y demás ordenamientos aplicables en la materia. En su caso, podrán ordenar y ejecutar las medidas de seguridad y sanciones previstas en la presente Ley.
+
+###### Artículo 217.
+
+Las visitas de inspección podrán ser ordinarias y extraordinarias. Las ordinarias se efectuarán en días y horas hábiles y las segundas en cualquier tiempo. Se consideran días hábiles todos a excepción de sábado, domingo, días festivos por ley y los que por Decreto o Acuerdo del Ejecutivo del Estado, se declaren como inhábiles. Se entiende por horas hábiles las que medien desde las siete a las diecinueve horas.
+
+Iniciada una diligencia en horas hábiles podrá concluirse y será válida aun cuando se actúe en horas inhábiles sin necesidad de determinación especial de la autoridad competente; de igual forma podrá habilitar los días y las horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que las amerite, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+
+En materia procesal, será aplicado supletoriamente en lo que no se oponga a esta Ley, el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+###### Artículo 218.
+
+El personal autorizado como inspector, para realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite como tal, así como estar provisto de orden escrita debidamente fundada y motivada, con firma autógrafa expedida por la autoridad competente, en la que se precisará el lugar o las zonas que habrán de inspeccionarse, el objeto de la visita, el alcance que deba tener y el personal técnico o de apoyo en su caso.
+
+Al iniciar la visita de inspección, el inspector se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole para tal efecto identificación vigente con fotografía, expedida por la autoridad competente, y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa, requiriéndole para que en el acto designe dos testigos, los cuales deberán estar presentes durante todo el desarrollo de la visita.
+
+Si ésta no designa testigos, o bien éstos no aceptan su nombramiento, el personal acreditado como inspector podrá nombrarlos, en el caso de que no fuera posible encontrar en el lugar de la visita persona alguna que pudiera ser designada como testigo, el personal actuante deberá asentar estas circunstancias en el acta correspondiente, sin que por esto se afecte su validez.
+
+###### Artículo 219.
+
+Los propietarios, responsables, encargados u ocupantes del establecimiento, lugar o zona objeto de verificación o la persona con quien se atienda la diligencia, están obligados a permitir el acceso y dar facilidades así como proporcionar toda clase de información al personal acreditado como inspector para el desarrollo de la diligencia, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley.
+
+###### Artículo 220.
+
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguien obstaculice o se oponga a la práctica de la diligencia, independientemente de las acciones legales a que haya lugar.
+
+###### Artículo 221.
+
+En toda visita de inspección se levantará acta circunstanciada en la que se hará constar de forma detallada los hechos u omisiones que se hayan detectado durante la diligencia.
+
+Con base en los resultados que arroje la visita de inspección, la autoridad competente, advirtiendo la existencia de algún caso de contaminación ostensible, desequilibrio ecológico o riesgo ambiental, fundada y motivadamente, procederá a la aplicación de las medidas de seguridad que correspondan, conforme a lo dispuesto en el presente capítulo.
+
+Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentadas en el acta respectiva.
+
+La persona con quien se entendió la diligencia, los testigos si los hubiera y el personal responsable de la inspección, firmarán el acta correspondiente. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negara a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte la validez de la diligencia. De toda acta se dejará copia a la persona con quien se entendió la diligencia.
+
+###### Artículo 222.
+
+En las actas de inspección se hará constar lo siguiente:
+
+I. Nombre, denominación o razón social del visitado;
+
+II. Hora, día, mes y año en que inicie y concluya la diligencia;
+
+III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, municipio y código postal del lugar en que se practique la visita;
+
+IV. Número y fecha de la orden que motivó la visita;
+
+V. Nombre e identificación del personal acreditado como inspector que realizó la diligencia;
+
+VI. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VII. Nombre y domicilio de las personas que fungieron como testigos;
+
+VIII. Datos relativos a los hechos u omisiones observados durante la actuación;
+
+IX. Declaración del visitado, si quisiera hacerla; y
+
+X. Nombre, huella o firma y datos de la identificación de quienes intervinieron en la diligencia y así quisieran hacerlo.
+
+###### Artículo 223.
+
+Con base en los resultados que arroje la visita de inspección, la autoridad competente, emplazará mediante notificación personal al presunto infractor o a su representante legal debidamente acreditado, o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación, necesarias para cumplir con las disposiciones jurídicas aplicables, para que en el término de 10-diez días hábiles a partir de la fecha de la notificación, exprese lo que a sus intereses convenga y, en su caso, ofrezca las pruebas con relación a los hechos contenidos en el acta de inspección.
+
+###### Artículo 224.
+
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el artículo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo de 3-tres días hábiles, presente por escrito sus alegatos.
+
+###### Artículo 225.
+
+La autoridad competente podrá llevar a cabo posteriores visitas de verificación para observar el cumplimiento de los requerimientos señalados. Si del acta correspondiente se desprende que no se ha dado cumplimiento a los mismos, la autoridad competente considerará dicha conducta como un agravante, al imponer la sanción o sanciones que procedan conforme a esta Ley.
+
+###### Artículo 226.
+
+Recibidos los alegatos o transcurrido el término para presentarlos, la autoridad correspondiente, procederá a dictar fundada y motivadamente, la resolución administrativa que corresponda, dentro de los quince días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo.
+
+En la resolución administrativa correspondiente se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a esta Ley y su Reglamento.
+
+###### Artículo 227.
+
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
+
+###### Artículo 228.
+
+Durante el procedimiento y antes de que se dicte resolución, el interesado y la autoridad, a petición del primero, podrán convenir la realización de acciones de restauración o compensación de daños necesarias para la corrección de las irregularidades observadas.
+
+###### Artículo 229.
+
+La autoridad competente podrá ordenar la realización de posteriores visitas de verificación a efecto de constatar el cumplimiento de las medidas que haya impuesto en la resolución administrativa, en el plazo que la misma determine.
+
+Si de dichas visitas se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente impondrá las sanciones que correspondan, de conformidad con la presente Ley.
+
+###### Artículo 230.
+
+Cuando se detecte alguna presunta irregularidad de competencia federal, y la Agencia o los Municipios, según sea el caso, determinen la existencia de elementos suficientes para configurar una infracción a las disposiciones ambientales que correspondan, podrán aplicar por sí, las medidas de seguridad que resulten necesarias para proteger el equilibrio ecológico y evitar daños al ambiente, sin perjuicio de las facultades que a la Federación competen en la materia, y en un término no mayor a 2-días hábiles, pondrán los hechos en conocimiento de la autoridad que corresponda y le remitirán copia de todo lo actuado; en caso de ser un asunto de competencia Municipal que atienda el Estado o viceversa, se actuará conforme al mismo procedimiento.
+
+La autoridad responsable deberá de hacer del conocimiento de la autoridad que haya detectado la irregularidad en primera instancia, las actuaciones subsecuentes, hasta su conclusión.
+
+### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
+
+###### Artículo 231.
+
+Cuando exista riesgo inminente de desequilibrio ecológico, riesgo ambiental, actividades riesgosas, daño o deterioro grave a los recursos naturales o casos de contaminación ostensible o con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud de los seres vivos, la Agencia o el Municipio correspondiente, en el ámbito de su competencia, fundada y motivadamente podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
+
+I. La suspensión temporal, parcial o total de obras o actividades;
+
+II. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en las que se manejen o almacenen especímenes, productos o subproductos de especies de vida silvestre o se desarrollen actividades que den lugar a los supuestos a que se refiere el primer párrafo del presente artículo;
+
+III. La prohibición de actos de uso;
+
+IV. El aseguramiento precautorio de especies o ejemplares de vida silvestre, incluyendo sus partes, productos y subproductos, objetos, materiales, substancias contaminantes, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad; y
+
+V. La neutralización o cualquier acción análoga que impida que objetos, materiales o substancias generen los efectos previstos en el primer párrafo del presente artículo;
+
+Las medidas de seguridad ordenadas por las autoridades competentes en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivas, se aplicarán sin perjuicio de las sanciones que en su caso correspondan, por las infracciones cometidas. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas y deberán ser notificadas por escrito al infractor para su inmediata ejecución.
+
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+
+###### Artículo 232.
+
+Las violaciones a los preceptos de esta Ley, su Reglamento y las disposiciones que de ella emanen, constituyen infracciones administrativas y serán sancionadas por la Agencia o los Municipios, en el ámbito de su respectiva competencia, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+
+Las sanciones aplicables por las infracciones administrativas en este Capítulo, serán una o más de las siguientes:
+
+I. Apercibimiento;
+
+II. Multa de veinte a treinta mil días de salario mínimo general vigente en la zona geográfica del Estado donde se cometa la infracción;
+
+III. Clausura temporal o definitiva, parcial o total, cuando se presente uno o más de los supuestos establecidos en el artículo 237 de esta Ley;
+
+IV. Decomiso o aseguramiento precautorio de ejemplares o especies de flora y fauna, incluyendo sus partes, productos, subproductos, objetos, materiales o substancias contaminantes, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar al decomiso; y
+
+V. Suspensión o revocación de las autorizaciones, concesiones, permisos o licencias otorgadas.
+
+El Reglamento de la Ley, establecerá el procedimiento para llevar a cabo lo dispuesto en la fracción V de éste Artículo, así como lo relativo al destino final de los elementos decomisados o asegurados que ahí se señalan.
+
+Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción segunda de este Artículo.
+
+En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido, y en su caso, podrá proceder la clausura definitiva.
+
+Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+###### Artículo 233.
+
+El plazo de prescripción para la aplicación de las sanciones será de cinco años y empezará a computarse desde el día en que se hubiere cometido la infracción si fuera consumada, o desde que cesó; si fuera continua.
+
+###### Artículo 234.
+
+El infractor, además de las sanciones que se establecen en el presente capítulo, estará obligado a restaurar en lo posible las condiciones originales de los ecosistemas, zonas o bienes que resultaren afectados con motivo de la violación de este ordenamiento.
+
+###### Artículo 235.
+
+Al imponer una sanción, la autoridad fundará y motivará la resolución que corresponda, tomando en cuenta lo siguiente:
+
+I. La gravedad de la infracción. Esta se determinará tomando en cuenta el impacto en la salud de la población o los seres vivos; la generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad, el impacto en los ecosistemas y en su caso; los niveles en que se hubieran rebasado los límites máximos establecidos en las Normas Oficiales Mexicanas, Normas Ambientales Estatales y demás ordenamientos aplicables;
+
+II. La condición económica del infractor;
+
+III. La intencionalidad o negligencia de la acción u omisión constitutiva de la infracción;
+
+IV. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción; y
+
+V. La reincidencia, si la hubiere.
+
+En el caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la autoridad imponga una sanción, esta deberá considerar tal situación como atenuante de la infracción cometida.
+
+La autoridad correspondiente, por si o a solicitud del infractor podrá otorgar a éste, de acuerdo a los criterios que aquella establezca, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando sea en beneficio de la comunidad y se garanticen las obligaciones del infractor, debiendo la autoridad justificar plenamente su decisión.
+
+###### Artículo 236.
+
+Se consideran conductas violatorias a la presente Ley, las siguientes:
+
+I. Depositar, arrojar, abandonar, derramar o quemar residuos, en caminos, carreteras, derechos de vía, lotes baldíos, predios de propiedad privada, así como en cuerpos o corrientes de agua, de jurisdicción estatal o asignadas;
+
+II. Generar residuos de las categorías señaladas en la presente Ley y no atender las disposiciones establecidas en la misma, y otros ordenamientos aplicables;
+
+III. Llevar a cabo el manejo y disposición final de residuos sin contar con la autorización correspondiente;
+
+IV. Realizar actividades que impliquen riesgo ambiental en cuanto a la calidad del suelo, porque no apliquen medidas de preservación, protección y restauración, dictadas por la autoridad correspondiente;
+
+V. Incumplir los límites permitidos de emisiones para fuentes móviles o fijas señalados en los reglamentos y Normas Oficiales Mexicanas y Normas Ambientales Estatales;
+
+VI. Rebasar los límites máximos permitidos de emisiones contaminantes en fuentes fijas o impedir la verificación de sus emisiones;
+
+VII. Incumplir las medidas de tratamiento y reuso de aguas tratadas;
+
+VIII. Rebasar los límites máximos permitidos en materia de aguas residuales, no realizar muestreos y análisis periódicos de éstas, no proporcionar la información correspondiente o impedir la verificación de las medidas dictadas por la autoridad correspondiente;
+
+IX. Incumplir con las condiciones particulares de descarga de aguas residuales establecidas por la Agencia;
+
+X. Descargar aguas residuales y contaminantes a los cuerpos de agua o a los sistemas de drenaje y alcantarillado, sin cumplir los criterios y Normas Oficiales Mexicanas y Normas Ambientales Estatales y no instalar plantas o sistemas de tratamiento;
+
+XI. Descargar aguas residuales de origen industrial que rebasen los límites permitidos en el sistema de drenaje y alcantarillado;
+
+XII. Rebasar los límites permitidos y criterios aplicables de ruido, vibraciones, olores perjudiciales, energía térmica y lumínica; vapores, gases o contaminación visual establecidos en la presente Ley y otros ordenamientos aplicables;
+
+XIII. Prestar servicios en materia ambiental, sin estar inscrito en el Registro correspondiente, o sin contar con la actualización de su inscripción, expedida por la Agencia;
+
+XIV. Proporcionar información falsa o incorrecta en los estudios o manifestaciones de impacto o riesgo ambiental y que induzca a la autoridad competente a emitir con error o incorrecta apreciación la evaluación correspondiente;
+
+XV. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la autorización o resolutiva derivada de la manifestación de impacto ambiental presentada;
+
+XVI. Incumplir con los programas de restauración ecológica;
+
+XVII. Realizar obras o actividades que signifiquen riesgos al ambiente, que pongan en peligro la salud de la población, o que destruyan áreas naturales protegidas, de acuerdo a los criterios establecidos por esta Ley y otros ordenamientos aplicables;
+
+XVIII. Desatender la solicitud de información a personas físicas o morales que formulen, en el ejercicio de sus atribuciones, la Agencia o el Municipio, sin causa justificada y motivada;
+
+XIX. Impedir al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la presente Ley y su Reglamento; y
+
+XX. Las demás conductas contrarias a las disposiciones de esta Ley.
+
+###### Artículo 237.
+
+La clausura temporal, total o parcial, procederá cuando:
+
+I. Una vez detectada una conducta violatoria, el Infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
+
+II. Se realice una obra o actividad sin la autorización de la manifestación de impacto ambiental o estudio correspondiente, en los casos que establece esta Ley y su Reglamento;
+
+III. Se incumplan injustificadamente los requerimientos especiales que la autoridad haya establecido antes del inicio de la obra o actividad;
+
+IV. Se realicen actividades u obras riesgosas sin presentar el estudio de riesgo ambiental y un programa que establezca las acciones de prevención y control en caso de emergencia o contingencias ambientales;
+
+V. Se omita la instalación de equipos y sistemas de control de emisiones contaminantes, provenientes de fuentes fijas, o no se adopten las medidas especiales establecidas por la autoridad, para el control de emisiones;
+
+VI. Se descarguen aguas residuales de origen industrial al sistema de drenaje y alcantarillado, sin cumplir las condiciones particulares de descarga establecidas, se rebasen los límites establecidos en las Normas Oficiales Mexicanas u se omita la instalación de sistemas o plantas de tratamiento de aguas residuales cuando se rebasen los límites permitidos de contaminantes; o
+
+VII. Se lleve a cabo el manejo y disposición final de residuos sin contar con la autorización correspondiente;
+
+La clausura definitiva, total o parcial, procederá cuando:
+
+I. Exista reincidencia y las infracciones generen riesgo ambiental o efectos negativos al ambiente;
+
+II. Se trate de desobediencia reiterada, en dos o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad; o
+
+III. En los casos específicos que la autoridad señale, cuando se rebasen los límites establecidos en las Normas Oficiales Mexicanas o Normas Ambientales Estatales, y se trate de obras o actividades que puedan ocasionar situaciones de riesgo ambiental.
+
+###### Artículo 238.
+
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta circunstanciada de la diligencia, observando las disposiciones que establece el Capítulo I de este Título.
+
+En los casos en que se imponga como sanción la clausura temporal, la autoridad competente, indicará al infractor las medidas correctivas y acciones que deberá llevar a cabo para subsanar las irregularidades, así como los plazos para su realización.
+
+La clausura temporal de las obras o actividades, se levantará hasta que se haya cumplido con la totalidad de las medidas señaladas por la autoridad competente.
+
+###### Artículo 239.
+
+Cuando la gravedad de la infracción lo amerite, la autoridad competente solicitará la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización expedida para la realización de la actividad o proceso que haya dado lugar a la infracción ante la autoridad correspondiente.
+
+###### Artículo 240.
+
+La Agencia podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación, suspensión o cancelación de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos y fraccionamientos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico, daños a la salud de la población o de los seres vivos o pérdida de la biodiversidad, mediante el procedimiento administrativo que establece la presente Ley.
+
+###### Artículo 241.
+
+Una vez vencido el plazo concedido en la resolución para que el infractor realice el pago de la multa, la Secretaría de Finanzas y Tesorería General del Estado o las Tesorerías Municipales, según sea el caso, iniciará el procedimiento administrativo de ejecución de conformidad con lo dispuesto en el Código Fiscal del Estado, para hacer efectiva la multa impuesta.
+
+###### Artículo 242.
+
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, su Reglamento y demás ordenamientos que de ella se deriven, así como los que se obtengan, en su caso, de la venta de los bienes asegurados, se destinarán a la integración de fondos para desarrollar programas estatales y municipales vinculados con la preservación del equilibrio ecológico, la protección del medio ambiente, o con la inspección y la vigilancia en las materias a que se refiere esta Ley, de conformidad con los ordenamientos aplicables a la materia.
+
+###### Artículo 243.
+
+Los Municipios, en la esfera de su competencia, regularán las sanciones administrativas que correspondan por violaciones a los bandos y reglamentos que expidan para tal efecto, en concordancia con lo dispuesto en esta Ley.
+
+### CAPÍTULO V. DEL DAÑO AMBIENTAL
+
+###### Artículo 244.
+
+Los interesados afectados por los actos o resoluciones definitivas dictadas con motivo de la aplicación de esta Ley, su Reglamento y ordenamientos que de ella emanen, podrán interponer el recurso de inconformidad o intentar el juicio contencioso administrativo.
+
+El plazo para interponer el recurso de inconformidad ante la autoridad que emitió la resolución, será de quince días hábiles, contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación del acto o de la resolución que se recurra o en que el interesado tuviere conocimiento de los mismos.
+
+###### Artículo 245.
+
+El recurso de inconformidad se interpondrá por escrito y deberá contener lo siguiente:
+
+I. La autoridad administrativa a quien se dirige;
+
+II. El nombre del recurrente y del tercero perjudicado si lo hubiere, así como los domicilios que señalen para recibir notificaciones;
+
+III. El interés jurídico que asiste al recurrente;
+
+IV. El acto o resolución que se recurre y la fecha en que se le notificó o tuvo conocimiento del mismo, bajo protesta de decir verdad;
+
+V. Los agravios que se le causen;
+
+VI. La copia simple del acto o resolución que se impugna, así como de su correspondiente notificación. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o el documento sobre el cual no hubiere recaído resolución alguna; y
+
+VII. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro o de personas morales.
+
+###### Artículo 246.
+
+Una vez recibido el recurso, la autoridad acordará dentro de un plazo de cinco días hábiles sobre su admisión y, en su caso, sobre el otorgamiento o denegación de la suspensión del acto recurrido.
+
+###### Artículo 247.
+
+La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:
+
+I. Lo solicite expresamente el recurrente;
+
+II. Se admita el recurso;
+
+III. No se cause perjuicio al interés general;
+
+IV. No se causen daños de difícil o imposible reparación, de ejecutarse la resolución;
+
+V. No se trate de infractor reincidente; y
+
+VI. Tratándose de multas, el recurrente garantice el crédito fiscal en cualesquiera de las formas previstas en el Código Fiscal del Estado de Nuevo León.
+
+Se considera que se causa perjuicio al interés general, cuando se dañe gravemente el medio ambiente, se amenace el equilibrio ecológico o se ponga en peligro la salud y bienestar de la población o de los seres vivos.
+
+###### Artículo 248.
+
+Ponen fin al recurso administrativo:
+
+I. La improcedencia;
+
+II. El sobreseimiento;
+
+III. La resolución del mismo;
+
+IV. La caducidad;
+
+V. La imposibilidad de continuarlo por causas supervenientes; y
+
+VI. El convenio de las partes, siempre y cuando no sea contrario a lo establecido en esta Ley, y tenga por objeto satisfacer el interés social con el alcance, efectos y régimen jurídico especificado en cada caso.
+
+Para efectos de este artículo, la falta de actuación del recurrente por causas imputables a él por el término de treinta días naturales, producirá la caducidad del procedimiento. La autoridad competente acordará el archivo de las actuaciones notificándoselo al interesado.
+
+###### Artículo 249.
+
+El recurso se tendrá por no interpuesto y se desechará cuando:
+
+I. Se presente fuera de plazo;
+
+II. No se haya acompañado la documentación que acredite la personalidad del recurrente; y
+
+III. No aparezca suscrito por quien deba hacerlo.
+
+###### Artículo 250.
+
+El recurso será improcedente cuando se promueva:
+
+I. Contra actos o resoluciones que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto o resolución impugnado;
+
+II. Contra actos o resoluciones que no afecten los intereses jurídicos del promovente;
+
+III. Contra actos consumados de un modo irreparable; y
+
+IV. Contra actos o resoluciones consentidos expresamente.
+
+###### Artículo 251.
+
+Será sobreseído el recurso cuando:
+
+I. El promovente se desista expresamente del recurso;
+
+II. El agraviado fallezca durante el procedimiento, si el acto o resolución impugnado sólo afecta a su persona;
+
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+IV. Cuando hayan cesado los efectos del acto o resolución impugnado;
+
+V. Por falta de objeto o materia del acto o resolución impugnado; o
+
+VI. No se probare la existencia del acto o resolución impugnado.
+
+###### Artículo 252.
+
+La autoridad encargada de resolver el recurso podrá:
+
+I. Confirmar el acto o resolución impugnado;
+
+II. Declarar la inexistencia, nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente;
+
+III. Modificar u ordenar la modificación del acto o resolución impugnado; o
+
+IV. Dictar un nuevo acto o resolución.
+
+###### Artículo 253.
+
+La autoridad podrá dejar sin efectos un requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error manifiesto o el particular demuestre que cumplió con anterioridad.
+
+###### Artículo 254.
+
+Cuando hayan de tenerse en cuenta nuevos hechos o documentos que no obren en el expediente original derivado del acto o resolución impugnado, éstos se pondrán de manifiesto a los interesados para que, en un plazo no inferior a cinco días hábiles ni superior a diez días hábiles, formulen sus alegatos y presenten los documentos que estime procedentes.
+
+En la tramitación del recurso se admitirán todo tipo de pruebas, con excepción de la confesional. No se considerará dentro de esta prohibición la petición de informes a las autoridades administrativas respecto de hechos que consten en sus expedientes.
+
+Las pruebas ofrecidas por los interesados se rechazarán cuando no se hayan ofrecido conforme a derecho, no tengan relación con el asunto, sean improcedentes, innecesarias, o contrarias a la moral pública. La autoridad podrá allegarse de los medios de prueba que considere necesarios sin más limitaciones que las establecidas en la ley.
+
+El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no menor de tres días hábiles ni mayor de quince días hábiles, contados a partir de su notificación.
+
+Las pruebas supervenientes podrán presentarse hasta en tanto no se haya emitido resolución. No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente, cuando habiendo podido aportarlos durante el procedimiento no lo haya hecho.
+
+###### Artículo 255.
+
+Concluido el período para el desahogo de las pruebas, se pondrán las actuaciones a disposición de los interesados por el término de cinco días hábiles, para que en su caso formulen sus alegatos.
+
+Transcurrido el término para el desahogo de los alegatos, si los hubiere, se dictará resolución por escrito en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido. Dicha resolución se notificará al interesado, personalmente o por correo certificado.
+
+En caso de duda, la resolución buscará favorecer ante todo el mantenimiento del equilibrio ecológico, la protección al ambiente, la salud pública y la calidad de vida. Sin perjuicio de lo anterior, la autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos legales que se consideren violados y examinar en su conjunto los agravios así como los demás razonamientos del recurrente a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso ni los agravios.
+
+###### Artículo 256.
+
+Tratándose de obras o actividades que contravengan las disposiciones de esta ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos, las personas físicas y morales de las comunidades afectadas tendrán derecho a impugnar los actos administrativos o resoluciones correspondientes ante las autoridades que los expidieron, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño a los recursos naturales, la flora o la fauna silvestres, la salud pública o la calidad de vida.
+
+Para tal efecto, deberán interponer el recurso administrativo de inconformidad a que se refiere este capítulo.
+
+###### Artículo 257.
+
+En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se establece en el presente Capítulo.
+
+### CAPÍTULO VI. DELITOS AMBIENTALES
+
+###### Artículo 258.
+
+Toda persona que contamine o deteriore el ambiente, o afecte los recursos naturales de competencia estatal, será responsable y estará obligada a reparar los daños causados, de conformidad con lo dispuesto en la legislación civil aplicable.
+
+La acción para exigir la reparación por daños al ambiente prescribirá en los términos que establezca el Código Civil para el Estado de Nuevo León.
+
+###### Artículo 259.
+
+Sólo se presumirá la existencia de un daño al ambiente, cuando las autoridades judiciales competentes en materia administrativa, hayan resuelto que determinada persona o grupo de personas infringieron los ordenamientos ambientales vigentes en el Estado.
+
+###### Artículo 260.
+
+La reparación del daño consistirá en restablecer las condiciones de los elementos o recursos afectados al estado en que se encontraban antes de producirse el daño. Si esto no fuera posible, la reparación consistirá en llevar a cabo acciones de compensación dirigidas a la preservación, protección o restauración del ambiente, los elementos o recursos naturales, o al pago de una indemnización.
+
+Para este efecto el Juez solicitará a la Agencia que proporcione un catálogo de las acciones de compensación que se podrían imponer como sanción en los términos del presente artículo.
+
+Para el desahogo del procedimiento en el que se ejerza la acción por daños al ambiente se seguirán las reglas establecidas para el procedimiento ordinario civil, que señale el Código de Procedimientos Civiles del Estado.
+
+###### Artículo 261.
+
+En materia de responsabilidad por daños al ambiente serán competentes los jueces del Estado de Nuevo León, atendiendo a las disposiciones relativas a la distribución de competencias, por territorio y por cuantía que establecen las disposiciones correspondientes.
+
+###### Artículo 262.
+
+Cuando por infracción a las disposiciones de esta Ley y demás ordenamientos aplicables en materia ambiental, se hubieren ocasionado daños o perjuicios, los afectados podrán solicitar a la Agencia la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio. La Agencia deberá dar respuesta a la petición señalada, dentro de los treinta días hábiles siguientes a la recepción de la solicitud.
+
+###### Artículo 263.
+
+Las personas físicas o morales son responsables de los daños y perjuicios en materia ambiental que cause su personal en el ejercicio de sus funciones. No podrá repetirse contra subordinados que hayan actuado obedeciendo órdenes de sus superiores.
+
+###### Artículo 264.
+
+Comete el delito ambiental, quien por si o por interpósita persona, desobedezca las órdenes notificadas de la autoridad administrativa de suspensión o corrección de actividades, o aporte información falsa a las autoridades sobre los aspectos ambientales de un proyecto o actividad u obstaculice la vigilancia de las autoridades competentes, provocando deterioro grave en el ambiente.
+
+Se entiende por deterioro grave cuando simultáneamente se cause daño a la salud y a la calidad de vida de las personas, al mantenimiento del equilibrio de los ecosistemas y a la disponibilidad cuantitativa y cualitativa de los recursos naturales para el aprovechamiento sustentable.
+
+Si los daños ambientales fueren irreversibles, al responsable de este delito se le impondrá una pena de prisión de uno a cinco años y multa de cien a veinte mil cuotas.
+
+Si los daños ambientes (sic) fueren reversibles, al responsable de este delito se le sancionará con prisión de seis meses a tres años de prisión y multa de cincuenta a diez mil cuotas.
+
+Un daño se considerará irreversible cuando, con las tecnologías y conocimientos disponibles, no fuere posible recuperar el ambiente para volverlo al estado anterior al hecho punible.
+
+###### Artículo 265.
+
+Para proceder penalmente por el delito previsto en este Capítulo, será necesario previamente que la Agencia formule la denuncia correspondiente.
+
+###### Artículo 266.
+
+La Agencia proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+
+## TRANSITORIOS
+
+Artículo Primero.- La presente Ley entrará en vigor a los sesenta días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Nuevo León, publicada en el Periódico Oficial del Estado del 26 de junio de 1989. Asimismo, se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+Artículo Tercero.- En un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, los Municipios deberán adecuar sus reglamentos y demás disposiciones municipales correspondientes, a lo establecido en la presente Ley.
+
+Artículo Cuarto.- Los permisos y autorizaciones otorgados con anterioridad a la fecha de entrada en vigor de la presente Ley, seguirán vigentes hasta su vencimiento y, en su caso, su prórroga se sujetará a las disposiciones de la presente Ley.
+
+Artículo Quinto.- Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento que les dieron origen.
+
+Artículo Sexto.- En tanto se expida el acuerdo mediante el cual se determinará la clasificación de las actividades que no sean consideradas altamente riesgosas, a que se refiere el artículo 182 de la presente Ley, deberán tenerse por tales, aquellas contempladas en los listados que hasta el momento se aplican por la Agencia, y deberá ser integrado y expedido conforme a las disposiciones contenidas en la presente Ley, a mas tardar trescientos sesenta y cinco días naturales después de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- Las autoridades estatales y municipales competentes deberán emitir o en su caso actualizar, a más tardar en trescientos sesenta y cinco días naturales posteriores a la entrada en vigor de la presente Ley, los Programas Sectorial y Municipales del Medio Ambiente y los Programas de Ordenamiento Ecológico Regional y Local.
+
+Artículo Octavo.- En tanto se expidan las disposiciones reglamentarias de esta Ley, continuarán aplicándose las que sobre la materia hubiere, en lo que no se opongan a este ordenamiento.
+
+Artículo Noveno.- El Titular del Ejecutivo del Estado y los Ayuntamientos, mediante acuerdo que se publicará en el Periódico Oficial del Estado o en la Gaceta Municipal, según corresponda, deberán determinar la categoría de área natural protegida que conforme a lo dispuesto en esta Ley, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor de la misma, con la finalidad de cumplir alguno o algunos de los propósitos establecidos en la presente Ley o cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas previstas en este ordenamiento. Las Áreas Naturales Protegidas de competencia estatal, deberán ser objeto de recategorización en cumplimiento a lo dispuesto por el Título Segundo de la presente Ley.
+
+Artículo Décimo.- Cuando en otras leyes, reglamentos y demás ordenamientos, se haga referencia a la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León, la denominación y atribuciones inherentes se entenderán conferidas a la Ley Ambiental del Estado de Nuevo León.
+
+Artículo Undécimo.- El Titular del Ejecutivo del Estado expedirá el Reglamento y demás ordenamientos que resulten necesarios para la eficaz aplicación de la presente Ley en un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los veintiocho días del mes de junio de 2005. PRESIDENTE: DIP. PLÁCIDO GONZÁLEZ SALINAS; DIP. SECRETARIO: RICARDO CORTÉS CAMARILLO DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA.- Rúbrica.-
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 5 días del mes de julio del año dos mil cinco.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+
+JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+NAPOLEÓN CANTÚ CERNA
