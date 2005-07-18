@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-de-obras-publicas-del-estado-de-hidalgo-35
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2003-11-24"
+last_updated: "2005-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2005.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Gobierno del Estado de Hidalgo, el lunes 24 de noviembre de 2003.
 
@@ -39,13 +39,21 @@ DECRETO QUE CONTIENE EL REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE HID
 
 El presente Ordenamiento, tiene por objeto establecer los procedimientos y lineamientos aplicables para el oportuno y estricto cumplimiento de la Ley de Obras Públicas del Estado de Hidalgo.
 
-Para los efectos de este Reglamento, tendrán aplicación las definiciones establecidas en el Artículo 2 de la Ley, asimismo, se entenderá por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2005)</small>
 
-I.- LEY: La Ley de Obras Públicas del Estado de Hidalgo;
+Para los efectos de este Reglamento tendrán aplicación las definiciones establecidas en el Artículo 2 de la Ley, asimismo, se entenderá por:
 
-II.- SECRETARIA: Secretaría de Obras Públicas;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
 
-III.- FINANZAS Y ADMINISTRACION: Secretaría de Finanzas y Administración;
+I.- LEY: Ley de Obras Públicas del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
+
+II.- SECRETARIA: Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
+
+III.- FINANZAS: Secretaria de Finanzas;
 
 IV.- CONTRALORIA: Secretaría de Contraloría;
 
@@ -79,9 +87,11 @@ XVII.- CONVOCANTE: Dependencia, Entidad o Ayuntamiento que realice procedimiento
 
 XVIII.- COMITE TECNICO: Se entiende por Comité Técnico Intersecretarial Consultivo de Obras Públicas.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 2.
 
-Contraloría, Desarrollo Social y Finanzas y Administración, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, debiendo considerar las disposiciones establecidas en la Ley.
+Contraloría, Desarrollo Social y Finanzas, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, debiendo considerar las disposiciones establecidas en la Ley.
 
 ###### ARTICULO 3.
 
@@ -111,31 +121,45 @@ Para los efectos del Artículo 35 de la Ley, el uso de los medios electrónicos 
 
 El Titular del área responsable de la ejecución de los trabajos, deberá mantener actualizados el estado que guarden el avance físico y financiero de las obras, así como, la situación en que se encuentren los adeudos a cargo de los contratistas, derivados de anticipos no amortizados, finiquitos no liquidados o materiales y equipos no devueltos.
 
-Lo anterior, a efecto de que en cualquier momento la Contraloría, Finanzas y Administración y los Organos Internos de Control, se encuentren en posibilidad de requerir dicha información.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Lo anterior, a efecto de que en cualquier momento la Contraloría, Finanzas y los órganos internos de control se encuentren en posibilidad de requerir dicha información.
 
 La Contraloría, directamente o a través de los Organos Internos de Control en el ejercicio de la facultad que le otorga el Artículo 92 de la Ley, podrá solicitar los datos e informes relacionados con actos relativos a obras y servicios y los servidores públicos, contratistas y concesionarios estarán obligados a proporcionarlos. Los contratistas o concesionarios que no aporten la información que les requiera la Contraloría, en ejercicio de sus facultades de verificación, serán sancionados en los términos que establece el Título Octavo de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 6.
 
-A efecto de que el Comité Técnico Intersecretarial Consultivo de Obras Públicas, a que se refiere el Artículo 13 de la Ley, inicie funciones, el Secretario de Obras Públicas, convocará para su instalación, la cual, quedará debidamente asentada en el Acta respectiva, que al efecto se formule:
+A efecto de que el Comité Técnico Intersecretarial Consultivo de Obras Públicas, a que se refiere el Artículo 13 de la Ley, inicie funciones, el Secretario de Obras Públicas, Comunicaciones, Transportes y Asentamientos, convocará para su instalación, la cual, quedará debidamente asentada en el Acta respectiva, que al efecto se formule.
 
 A).- Este Comité, se integrará de la siguiente manera:
 
-I.- Un Presidente, que será el Secretario de Obras Públicas y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
 
-II.- Seis Vocales, que serán los Titulares de las Secretarías de: Finanzas y Administración, Técnica, Gobierno, Desarrollo Social, Desarrollo Económico y Contraloría.
+I.- Un Presidente, que será el Secretario de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
 
-Los integrantes, tendrán derecho a voz y voto, a excepción del Titular de la Secretaría de Contraloría, quien solo tendrá derecho a voz.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
 
-Cada integrante, podrá nombrar por escrito un Suplente, el cual, tendrá las facultades y obligaciones que a éste correspondan y solo participará, en ausencia del Titular.
+II.- Seis Vocales, que serán los Titulares de las Secretarías de: Gobierno, Finanzas, Desarrollo Social, Planeación y Desarrollo Regional, Desarrollo Económico y Contraloría.
+
+Los integrantes, tendrán derecho a voz y voto, a excepción del Titular de la Secretaría de (sic) Contraloría, quien solo tendrá derecho a voz.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Cada integrante, podrá nombrar por escrito un suplente, el cual, tendrá las facultades y obligaciones que a éste correspondan y solo participará, en ausencia del Titular.
 
 B).- Además de los anteriores, sin derecho a voto, pero con voz, los asesores invitados siguientes:
 
-I.- Un Servidor Público designado por el área jurídica de la Dependencia, Entidad o Ayuntamiento, solicitante del dictamen y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
+
+I.- Un servidor público designado por el área jurídica de la Dependencia, Entidad o Ayuntamiento, solicitante del dictamen; y
 
 II.- Invitados o especialistas, en su caso. Para la selección de estas personas, las Dependencias y Entidades, deberán considerar las características, magnitud, complejidad o especialidad técnica de las obras o servicios que se pretendan contratar o concesionar. Dichas personas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
 
-El Comité, para el desarrollo de las actividades necesarias para el desempeño de sus facultades, contará con un Secretario Ejecutivo, que será un Servidor Público adscrito a la Secretaría de Obras Públicas, con nivel no inferior al de Director General.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+El Comité, para el desarrollo de las actividades necesarias para el desempeño de sus facultades, contará con un Secretario Ejecutivo, que será un Servidor Público adscrito a la Secretaría, con nivel no inferior al de Director General.
 
 ###### ARTICULO 7.
 
@@ -269,7 +293,9 @@ En la planeación de las obras y servicios, las Dependencias, Entidades y Ayunta
 
 I.- La coordinación con otras Dependencias, Entidades y Ayuntamientos, que realicen trabajos en el lugar de ejecución o bien, que cuenten con instalaciones en operación, con el fin de identificar aquellos trabajos que pudieran causar daños, interferencias o suspensiones de los servicios públicos. Para tal efecto, las Dependencias, Entidades y Ayuntamientos delimitarán los alcances de los trabajos que a cada una de ellas les corresponda realizar, debiendo establecer el Programa de Ejecución que contemple una secuencia de actividades, de forma tal que se evite la duplicidad o repetición de conceptos de trabajo;
 
-II.- Las acciones que conforme a los lineamientos que en materia de su competencia expidan la Secretaría, Contraloría, Finanzas y Administración y Desarrollo Social, cuando los trabajos rebasen un ejercicio presupuestal, a efecto que les permitan contar con los recursos necesarios durante los primeros meses de cada nuevo ejercicio, a efecto de no interrumpir la debida continuidad de la obra o servicio de que se trate;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
+
+II.- Las acciones que conforme a los lineamientos que en materia de su competencia expidan la Secretaría, Contraloría, Finanzas y Desarrollo Social, cuando los trabajos rebasen un ejercicio presupuestal, a efecto que les permitan contar con los recursos necesarios durante los primeros meses de cada nuevo ejercicio, a efecto de no interrumpir la debida continuidad de la obra o servicio de que se trate;
 
 III.- Los avances tecnológicos en función de la naturaleza de las obras y servicios y la selección de aquellos procedimientos de seguridad del personal e instalaciones, construcción, materiales, productos y equipos que satisfagan los requerimientos técnicos, ambientales y económicos del Proyecto;
 
@@ -317,7 +343,9 @@ I.- Dependiendo del tipo de Contrato, que se cuente con los estudios y Proyectos
 
 II.- Que se haya garantizado y formalizado el Contrato o el Acuerdo de ejecución por administración directa, el Convenio o Concesión y
 
-III.- Que se haya designado por escrito, a las personas que se encargarán de la residencia de supervisión de obra y de la superintendencia de construcción del contratista, lo cual deberá comunicarse a la Secretaría, Contraloría y Finanzas y Administración.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
+
+III.- Que se haya designado por escrito a las personas que se encargarán de la residencia de supervisión de obra y de la superintendencia de construcción del contratista, lo cual deberá comunicarse a la Secretaría, Contraloría y Finanzas.
 
 En la realización de los trabajos, se deberán prever los impactos económicos, sociales y ecológicos que se originen con su ejecución; de realizarse dentro de un centro de población o cerca de él, deberán ser acordes con los Programas de Desarrollo Urbano que determine la Ley de la materia, debiendo contar para ello, con las autorizaciones correspondientes; salvo en los casos enunciados en las fracciones I, III, IV y V del Artículo 45 de la Ley.
 
@@ -887,9 +915,11 @@ VI.- Lugar y fecha de su emisión.
 
 No se requerirá de dictamen de aprobación del Comité Técnico, tratándose de las fracciones III, IV, V y IX del Artículo 45 de la Ley, pudiendo la Dependencia, Entidad o Ayuntamiento adjudicar el Contrato de forma directa, sin sujetarse al procedimiento de licitación, bajo su estricta responsabilidad, informando de ello al Comité Técnico, dentro de los diez días hábiles siguientes al inicio de los trabajos, por lo que hace a la mencionada fracción IX, solo aplicará respecto de aquellas obras que realicen los Comités Ciudadanos de Obras.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 50.
 
-Las Dependencias, Entidades y Ayuntamientos, que por sí mismas realicen contrataciones, dentro de los montos máximos que al efecto establece en el Presupuesto de Egresos del Estado de Hidalgo, se determinará en función de la inversión total autorizada que se asigne a cada una de ellas, para la realización de obras y servicios, misma que será calculada considerando la autorización global y las especiales que, en su caso, emita la Secretaría de Finanzas y Administración.
+Las Dependencias, Entidades y Ayuntamientos, que por sí mismas realicen contrataciones, dentro de los montos máximos que al efecto establece en el Presupuesto de Egresos del Estado de Hidalgo, se determinará en función de la inversión total autorizada que se asigne a cada una de ellas para la realización de obras y servicios, misma que será calculada considerando la autorización global y las especiales que, en su caso, emita la Secretaría de Finanzas.
 
 ###### ARTICULO 51.
 
@@ -973,7 +1003,9 @@ Esta garantía deberá ser entregada a la Dependencia, Entidad o Ayuntamiento in
 
 Cuando los trabajos se realicen en más de un ejercicio presupuestario, la garantía de cumplimiento deberá sustituirse en el o los siguientes ejercicios, por otra u otras equivalentes al importe de los trabajos faltantes por ejecutar, actualizando los importes de acuerdo con los ajustes de costos autorizados y modificaciones contractuales.
 
-A petición del contratista, la Dependencia, Entidad o Ayuntamiento podrá acceder a que no se sustituya la garantía otorgada en el primer ejercicio, siempre que continúe vigente y su importe mantenga la misma proporción que la del primer ejercicio, en relación con el valor actualizado de los trabajos faltantes por ejecutar en cada ejercicio subsiguiente, de lo cual deberá dar aviso a la Compañía Afianzadora y a la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+A petición del contratista, la Dependencia, Entidad o Ayuntamiento podrá acceder a que no se sustituya la garantía otorgada en el primer ejercicio, siempre que continúe vigente y su importe mantenga la misma proporción que la del primer ejercicio, en relación con el valor actualizado de los trabajos faltantes por ejecutar en cada ejercicio subsiguiente, de lo cual deberá dar aviso a la compañía afianzadora y a la Secretaría de Finanzas.
 
 ###### ARTICULO 67.
 
@@ -997,7 +1029,9 @@ II.- Las otorgadas para garantizar el cumplimiento de obligaciones, una vez que 
 
 III.- Las otorgadas para garantizar los defectos o vicios ocultos, con base a lo preceptuado por el Artículo 73 fracción I inciso b) de este Reglamento, una vez transcurridos doce meses a partir de la fecha de la firma del Acta de Entrega Recepción de la Obra o Servicios, en caso que durante dicho término no se presenten responsabilidades a cargo del contratista.
 
-En todos los casos, los contratantes están obligados a observar los términos señalados en el Artículo 120 de la Ley Federal de Instituciones de Fianzas y a dar los avisos oportunamente a la Contraloría y Finanzas y Administración para que ejerzan las funciones relativas a su competencia.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+En todos los casos los contratantes están obligados a observar los términos señalados en el Artículo 120 de la Ley Federal de Instituciones de Fianzas y a dar los avisos oportunamente a la Contraloría y Finanzas para que ejerzan las funciones relativas a su competencia.
 
 ###### ARTICULO 70.
 
@@ -1211,9 +1245,11 @@ El monto de los pagos referidos en el párrafo que antecede, serán calculados, 
 
 La Secretaría, una vez que haya resuelto otorgar la concesión, previo pago de los derechos a que alude el Artículo que antecede, se expedirá el Título de Concesión.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 94.
 
-El Título de Concesión, deberá estar signado por el Secretario de Obras Públicas y será publicado en el Periódico Oficial del Estado, entrará en vigor al día siguiente de su publicación.
+El Título de Concesión, deberá estar signado por el Secretario de Obras Públicas, Comunicaciones, Transportes y Asentamientos y será Publicado en el Periódico Oficial del Estado, entrará en vigor al día siguiente de su Publicación.
 
 ###### ARTICULO 95.
 
@@ -1281,9 +1317,11 @@ Cuando la supervisión se realice por terceras personas, el residente de supervi
 
 #### SECCION I. RESPONSABLES DE LOS TRABAJOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 102.
 
-La designación del residente de supervisión de obra, deberá constar por escrito remitiendo copia a la Secretaría, Contraloría y Finanzas y Administración. Las Dependencias, Entidades y Ayuntamientos, para designar al Servidor Público que fungirá como residente de supervisión de obra, deberán tomar en cuenta que tenga los conocimientos, habilidades, experiencia y capacidad suficiente para llevar la administración y dirección de los trabajos; debiendo considerar el grado académico de formación profesional de la persona, experiencia en administración y construcción de obras, desarrollo profesional y el conocimiento de obras similares a las que se hará cargo.
+La designación del residente de supervisión de obra deberá constar por escrito remitiendo copia a la Secretaría, Contraloría y Finanzas. Las Dependencias, Entidades y Ayuntamientos para designar al Servidor Público que fungirá como residente de supervisión de obra deberán tomar en cuenta que tenga los conocimientos, habilidades, experiencia y capacidad suficiente para llevar la administración y dirección de los trabajos.
 
 Dependiendo de la magnitud de los trabajos, la Dependencia, Entidad o Ayuntamiento previa justificación, podrá ubicar la residencia o residencias de obra en la zona de influencia de la ejecución de los trabajos.
 
@@ -1395,7 +1433,9 @@ Si el contratista, realiza trabajos por mayor valor del contratado sin mediar or
 
 Cuando los trabajos no se hayan realizado de acuerdo con lo estipulado en el contrato o conforme a las órdenes escritas de la Dependencia, Entidad o Ayuntamiento, deberá ordenar su demolición, reparación o reposición inmediata con los trabajos adicionales que resulten necesarios, que hará por su cuenta el contratista sin que tenga derecho a retribución alguna por ello. En este caso la Dependencia, Entidad o Ayuntamiento, si lo estima necesario, podrá ordenar la suspensión total o parcial de los trabajos contratados en tanto no se lleve a cabo la reposición o reparación de los mismos, sin que esto sea motivo para ampliar el plazo señalado para su terminación.
 
-Una vez finiquitado el contrato se regirán bajo lo previsto por el Artículo 81 de la Ley. En caso de que, el contratista, haya omitido las correcciones o reposiciones respectivas, la Dependencia, Entidad o Ayuntamiento, deberá dar aviso a la Secretaría de Finanzas y Administración para que proceda a iniciar el trámite tendiente a hacer efectiva la póliza.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Una vez finiquitado el contrato se regirán bajo lo previsto por el Artículo 81 de la Ley. En caso de que, el contratista, haya omitido las correcciones o reposiciones respectivas, la Dependencia, Entidad o Ayuntamiento, deberá dar aviso a la Secretaría de Finanzas para que proceda a iniciar el trámite tendiente a hacer efectiva la póliza.
 
 ###### ARTICULO 108.
 
@@ -1561,7 +1601,9 @@ A los importes que resulten, no les será aplicable costo adicional alguno por c
 
 El pago del anticipo, podrá realizarse en una sola exhibición o en varias parcialidades, en este último caso, las Dependencias, Entidades y Ayuntamientos deberán señalarlo dentro de las Bases de Licitación y en el Contrato respectivo.
 
-Para determinar el porcentaje de los anticipos que se otorgarán, las Dependencias, Entidades y Ayuntamientos deberán tener en cuenta, las características, complejidad y magnitud de los trabajos, los que tendrán por objeto, el apoyar la debida ejecución y continuidad de las obras y servicios, sin rebasar el 30% del monto contratado, solamente, en casos excepcionales o por causas extraordinarias, el Titular del área contratante, podrá autorizar un porcentaje mayor y previa su justificación deberá solicitar la autorización del Secretario de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Para determinar el porcentaje de los anticipos que se otorgarán, las Dependencias, Entidades y Ayuntamientos deberán tener en cuenta las características, complejidad y magnitud de los trabajos, los que tendrán por objeto el apoyar la debida ejecución y continuidad de las obras y servicios, sin rebasar el 30% del monto contratado, solamente, en casos excepcionales o por causas extraordinarias, el titular del área contratante, podrá autorizar un porcentaje mayor y previa su justificación deberá solicitar la autorización del Secretario de Finanzas.
 
 ###### ARTICULO 128.
 
@@ -1609,7 +1651,9 @@ C).- En caso de que exista un saldo faltante por amortizar, éste se deberá liq
 
 Cuando ocurra la suspensión, el Servidor Público designado por la Dependencia, Entidad o Ayuntamiento, lo notificará al contratista, señalando las causas que la motivan, la fecha de su inicio y de la probable reanudación de los trabajos, así como las acciones que debe considerar en lo relativo a su personal, maquinaria y equipo de construcción.
 
-La fecha de terminación, se prorrogará en igual proporción al período que comprenda la suspensión y la formalización se realizará mediante el Acta Circunstanciada de Suspensión, levantada por los Organos Internos de Control o en su caso, por la Contraloría de la cual se deberá remitir copia a la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+La fecha de terminación, se prorrogará en igual proporción al período que comprenda la suspensión, y la formalización se realizará mediante el acta circunstanciada de suspensión, levantada por los Órganos Internos de Control, o en su caso, por la Contraloría de la cual se deberá remitir copia a la Secretaría de Finanzas.
 
 No será motivo de suspensión de los trabajos, el suministro deficiente del proveedor de materiales y equipos de instalación permanente, cuando dicho suministro sea responsabilidad del contratista.
 
@@ -1659,7 +1703,9 @@ VIII.- Determinación del Programa de Ejecución que se aplicará, el que deber�
 
 IX.- En su caso, las medidas de protección que resulten necesarias para salvaguardar los trabajos realizados, el lugar de trabajo, sus instalaciones y equipos.
 
-El Acta Circunstanciada, se hará del conocimiento de la Secretaría, Contraloría y de Finanzas y Administración, a efecto de que se dispongan las medidas que procedan en el ámbito de su competencia, así como a la Compañía Afianzadora.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+El acta circunstanciada, se hará del conocimiento de la Secretaría, Contraloría y de Finanzas, a efecto de que se dispongan las medidas que procedan en el ámbito de su competencia, así como a la compañía afianzadora.
 
 ###### ARTICULO 137.
 
@@ -1671,7 +1717,9 @@ Cuando las suspensiones se deriven de un caso fortuito o fuerza mayor, no existi
 
 Cuando las suspensiones se deriven de un caso fortuito o fuerza mayor, sólo será procedente el pago de gastos no recuperables por los conceptos enunciados en el Artículo 135 fracciones III, IV y V de este Reglamento, salvo, que en el Contrato correspondiente, se prevea otra situación.
 
-Las situaciones anteriores, deberán hacerse del conocimiento de la Secretaría, Contraloría, Finanzas y Administración, así como de la Compañía Afianzadora.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Las situaciones anteriores, deberán hacerse del conocimiento de la Secretaría, Contraloría, Finanzas, así como de la compañía afianzadora.
 
 #### SECCION VI. TERMINACION ANTICIPADA DEL CONTRATO
 
@@ -1805,7 +1853,9 @@ X.- Constancia de que el contratista, entregó toda la documentación generada d
 
 La determinación de dar por rescindido administrativamente el Contrato, no podrá ser revocada o modificada por la propia Dependencia, Entidad o Ayuntamientos.
 
-La Dependencia, Entidad o Ayuntamiento, deberá remitir a la Secretaría, Contraloría y Finanzas y Administración, copia certificada del Acta Circunstanciada y de sus anexos correspondientes, incluyendo la liquidación en la que se señalen el monto total considerado, las cantidades pagadas y pendientes de pago, así como el saldo respectivo.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+La Dependencia, Entidad o Ayuntamiento, deberá remitir a la Secretaría, Contraloría y Finanzas, copia certificada del acta circunstanciada y de sus anexos correspondientes, incluyendo la liquidación en la que se señalen el monto total considerado, las cantidades pagadas y pendientes de pago, así como el saldo respectivo.
 
 ###### ARTICULO 149.
 
@@ -1873,7 +1923,9 @@ VIII.- Constancia de que el archivo de documentos derivados de la realización d
 
 Al acto de entrega física de los trabajos, se le dará la intervención a la Contraloría, a la cual se deberá comunicar oficialmente con, por lo menos ocho días hábiles de anticipación a la fecha de su realización y el contratista exhibirá la garantía prevista en el Artículo 81 de la Ley.
 
-La Contraloría, en el acto de recepción independientemente de su intervención, podrá hacer las observaciones respectivas a la Dependencia, Entidad o Ayuntamiento contratante, para que exijan al contratista la reparación de los trabajos que considere faltantes o mal ejecutados, sin perjuicio de los actos que se hubieren efectuado, como consecuencia de lo dispuesto en el Artículo 154 de este Reglamento, de la misma forma, podrá obligarlos a dar cumplimiento a los aspectos informativos y administrativos, relativos a la obra o servicio, de lo cual, se levantará la minuta de trabajo correspondiente, en la que se fijarán las fechas para solventar el requerimiento, de lo que, las contratantes remitirán copia a Finanzas y Administración, a fin de que realicen las funciones de seguimiento para efectos presupuestales.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+La Contraloría, en el acto de recepción independientemente de su intervención, podrá hacer las observaciones respectivas a la Dependencia, Entidad o Ayuntamiento contratante, para que exijan al contratista la reparación de los trabajos que considere faltantes o mal ejecutados, sin perjuicio de los actos que se hubieren efectuado, como consecuencia de lo dispuesto en el Artículo 154 de este Reglamento, de la misma forma, podrá obligarlos a dar cumplimiento a los aspectos informativos y administrativos, relativos a la obra o servicio, de lo cual, se levantará la minuta de trabajo correspondiente, en la que se fijarán las fechas para solventar el requerimiento, de lo que, las contratantes remitirán copia a Finanzas, a fin de que realicen las funciones de seguimiento para efectos presupuestales.
 
 ###### ARTICULO 156.
 
@@ -2833,7 +2885,9 @@ IX.- Lugar y fecha de su firma y
 
 X.- Nombre y firma del servidor público que emite el acuerdo.
 
-El Titular del Area Ejecutante, hará del conocimiento de la Secretaría, Contraloría y Finanzas y Administración el acuerdo, mediante oficio al que acompañe la documentación respectiva.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+El titular del área ejecutante, hará del conocimiento de la Secretaría, Contraloría y Finanzas el acuerdo, mediante oficio al que acompañe la documentación respectiva.
 
 ###### ARTICULO 227.
 
@@ -2945,9 +2999,11 @@ VII.- Señalar las causales y procedimientos mediante los cuales, la Dependencia
 
 Las Dependencias, Entidades y Ayuntamientos, serán responsables del proceso de adjudicación, que en los términos de la Ley y de este Reglamento, se determine realizar para la ejecución de la obra, así como del trámite ante las Instancias correspondientes de cualquier autorización, permiso o licencia que sean necesarios.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 237.
 
-Las Dependencias, Entidades y Ayuntamientos a través del Residente de Supervisión de Obra y el Comité Ciudadano de Obra, conjuntamente levantarán el Acta de Inicio de Obra. Corresponde al Presidente del Comité, reportar durante el proceso de la obra, el avance físico de la misma, lo que formará parte de la comprobación de los gastos efectuados que se tramiten ante Finanzas y Administración.
+Las Dependencias, Entidades y Ayuntamientos, a través del residente de supervisión de obra y el Comité Ciudadano de Obra, conjuntamente levantarán el acta de inicio de obra. Corresponde al Presidente del Comité, reportar durante el proceso de la obra, el avance físico de la misma lo que formará parte de la comprobación de los gastos efectuados que se tramiten ante Finanzas.
 
 ###### ARTICULO 238.
 
@@ -3054,3 +3110,9 @@ Dado en la Residencia del Poder Ejecutivo del Gobierno del Estado de Hidalgo, en
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LICENCIADO MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2005.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado
