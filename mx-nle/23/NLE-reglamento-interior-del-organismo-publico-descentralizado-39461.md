@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-organismo-publico-descentralizado-39461
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-23"
-last_updated: "2004-04-23"
+last_updated: "2005-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DE PARTICIPACION CIUDADANA DEL GOBIERNO DEL ESTADO DE NUEVO LEON, DENOMINADO CONSEJO DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2005.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 23 de abril de 2004.
 
@@ -65,27 +65,39 @@ I. Presidencia Ejecutiva.
 
 II. Secretaría Técnica.
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
+
 III. Direcciones:
 
 a) Dirección Administrativa.
 
-b) Dirección de Atención al Adulto Mayor.
+b) Dirección de Atención al Adulto Mayor y Participación Social.
 
-c) Dirección de Comunicación.
+c) Dirección de Informática.
 
 d) Dirección de Infraestructura Social.
 
 e) Dirección de Marginación Rural y Urbana.
 
-f) Dirección de Participación Social
+f) Dirección de Planeación, Estadística y Evaluación.
 
-g) Dirección de Planeación, Estadística y Evaluación.
+g) Dirección de Vinculación con Organizaciones de la Sociedad Civil.
 
-h) Dirección de Vinculación Interinstitucional.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2005)</small>
 
-IV. Las demás unidades que sean creadas por acuerdo de la Junta de Gobierno.
+IV. Unidades:
 
-Las Direcciones dependerán jerárquicamente de la Presidencia Ejecutiva y estarán integradas por las coordinaciones, departamentos y demás unidades previstas en la estructura administrativa y operativa que al efecto apruebe la Junta, con las atribuciones que le sean determinadas en los Manuales de Organización y Procedimientos que expidan y realizaran sus funciones a través del personal que se requiere para satisfacer las necesidades del servicio.
+a) Unidad de Teleaulas y Centros Comunitarios.
+
+b) Unidad de Comunicación.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2009)</small>
+
+V. Las demás Unidades que sean creadas por acuerdo de la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Las Direcciones dependerán jerárquicamente de la Presidenta Ejecutiva y estarán integradas por las Coordinaciones, Departamentos y demás Unidades previstas en la estructura administrativa y operativa que al efecto apruebe la Junta. De igual forma dependerán de la Presidenta Ejecutiva las Unidades comprendidas en la fracción IV del presente Articulo. La estructura administrativa y operativa del Consejo contará, además de las señaladas en el presente Reglamento, con las atribuciones que le sean determinadas en los Manuales de Organización y Procedimientos que se expidan y realizarán sus funciones a través del personal que se requiera para satisfacer las necesidades del servicio.
 
 ###### Artículo 4°.
 
@@ -171,43 +183,53 @@ XIII. Proporcionar las identificaciones oficiales del personal del Organismo y;
 
 XIV. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
 
-###### Artículo 9.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
 
-Corresponde a la Dirección de Atención al Adulto Mayor:
+###### Artículo 9°.
+
+Corresponde a la Dirección de Atención al Adulto Mayor y Participación Social:
 
 I. Administrar la información proporcionada por la Dirección de Planeación, Estadística y Evaluación, relativa a las condiciones de vida y necesidades de la población adulta mayor en el Estado;
 
-II. Participar en las actividades del Organismo con la Federación, con los demás Organismos paraestatales y dependencias del Gobierno del Estado, con los Municipios, con las demás instituciones públicas y privadas y con los particulares en materia de investigación y apoyo a los adultos mayores;
+II. Participar en las actividades del Organismo con la Federación, con los demás Organismos Paraestatales y Dependencias del Gobierno del Estado, con los Municipios, con las demás instituciones públicas y privadas, y con los particulares en materia de investigación y apoyo a los Adultos Mayores;
 
-III. Coordinar la realización de consultas públicas para la formulación de los programas de apoyo a los adultos mayores;
+III. Coordinar la realización de consultas públicas para la formulación de los Programas de Apoyo a los Adultos Mayores;
 
-IV. Elaborar los anteproyectos de los programas de apoyo a los adultos mayores y los criterios generales y reglas de operación para la asignación de los apoyos materia de los programas;
+IV. Elaborar los anteproyectos de los Programas de Apoyo a los Adultos Mayores y los criterios generales y Reglas de Operación para la asignación de los apoyos que se destinen a estos Programas;
 
-V. Ejecutar las acciones contenidas dentro de los programas de apoyo a los adultos mayores; y
+V. Ejecutar las acciones contenidas dentro de los Programas de Apoyo a los Adultos Mayores;
 
-VI. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
+VI. Allegar a los sectores más necesitados los servicios que en materia de desarrollo social brindan las instituciones públicas y privadas;
+
+VII. Concertar con las diversas instituciones y con la sociedad civil su participación en el diseño e implementación de las Brigadas;
+
+VIII. Constituir y fortalecer la estructura social que facilite la implementación de Programas de Desarrollo Social;
+
+IX. Apoyar a los municipios en el establecimiento de mecanismos que contribuyan a fomentar la participación ciudadana responsable y organizada en los Proyectos de Desarrollo Social; y
+
+X. Cualquier otra responsabilidad que le sea encomendada por la Presidenta Ejecutiva.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Dirección de Comunicación:
+Corresponde a la Dirección de Informática:
 
-I. Formular y proponer los programas de comunicación del Organismo;
+I. Crear y desarrollar sistemas de información que permitan el mejoramiento y modernización de los programas y acciones que se realizan en las unidades administrativas que conforman el Organismo;
 
-II. Coordinar y difundir estudios e investigaciones sobre temas relacionados con desarrollo social generados por el Organismo;
+II. Analizar, diseñar, formular e implementar las políticas, normas, programas y proyectos de sistemas de información, capacitación, informática, seguridad e integridad de la información, telecomunicaciones, equipo de cómputo y prestación de servicios informáticos del Organismo que permitan soportar las estrategias de sus unidades administrativas;
 
-III. Diseñar y administrar la información del sitio de internet del Organismo;
+III. Proponer programas de actualización tecnológica de los bienes y servicios de tecnología de información y telecomunicaciones, así como evaluar periódicamente su operación en función de los requerimientos de las unidades administrativas del Organismo;
 
-IV. Publicar en internet la información del Organismo que en términos de la Ley de Acceso a la Información Pública, debe ser de conocimiento público;
+IV. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones del Organismo, así como efectuar revisiones, verificaciones y evaluaciones respecto a su uso y aprovechamiento adecuados;
 
-V. Registrar, analizar y procesar la información que difunden los medios en referencia a las actividades y entornos del Organismo y circularlas entre las Direcciones del mismo;
+V. Garantizar la operación continua de los sistemas de información prioritarios para la operación del Organismo;
 
-VI. Proponer el diseño y elaboración de carteles, folletos, audiovisuales, videos promocionales y en general los elementos tendientes a difundir las actividades del Consejo;
+VI. Promover el uso de las tecnologías de información para apoyar la mejora continua en la realización de procesos internos del Organismo;
 
-VII. Apoyar en la logística para la realización de eventos, giras de trabajo y campañas promocionales que lleven a cabo las diferentes Direcciones del Organismo;
+VII. Administrar el soporte técnico a los sistemas, equipos computacionales y equipos de telecomunicaciones del Organismo, con el fin de que se realicen las actividades de manera efectiva y eficaz; y,
 
-VIII. Reseñar y conservar las memorias visuales de los eventos donde participen el Presidente Ejecutivo y los Directores del Organismo;
-
-IX. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
+VIII. Cualquier otra responsabilidad que le sea encomendada por la Presidenta Ejecutiva.
 
 ###### Artículo 11.
 
@@ -263,71 +285,99 @@ VIII. Programar cursos y talleres para la capacitación de los grupos sociales m
 
 IX. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
 ###### Artículo 13.
-
-Corresponde a la Dirección de Participación Social:
-
-I. Allegar a los sectores más necesitados los servicios que en materia de desarrollo social brindan las instituciones públicas y privadas;
-
-II. Concertar con las diversas instituciones y con la sociedad civil, su participación en el diseño e implementación de las brigadas;
-
-III. Constituir y fortalecer la estructura social que facilite la implementación de programas de desarrollo social;
-
-IV. Apoyar a los municipios en el establecimiento de mecanismos que contribuyan a fomentar la participación ciudadana, responsable y organizada, en los proyectos de desarrollo social;
-
-V. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
-
-###### Artículo 14.
 
 Corresponde a la Dirección de Planeación, Estadística y Evaluación:
 
 I. Uniformizar criterios de operatividad respecto a los objetivos y metas del Organismo;
 
-II. Analizar las políticas, programas y proyectos que emprenda el Organismo, para incrementar sus probabilidades de éxito;
+II. Analizar las políticas, programas y proyectos que emprenda el Organismo para incrementar sus probabilidades de éxito;
 
 III. Promover métodos y acciones que permitan al Organismo realizar las actividades operativas conforme a la planeación estratégica y mediante la aplicación de avances tecnológicos que faciliten su ejecución;
 
-IV. Sugerir a la Dirección administrativa, métodos de utilización racional de los recursos;
+IV. Sugerir a la Dirección Administrativa métodos de utilización racional de los recursos;
 
 V. Implementar una metodología formal de investigación básica y aplicada que fundamente conceptualmente la toma de decisiones de las políticas del Organismo;
 
-VI. Proponer modelos o esquemas de trabajo que permitan trabajar con eficacia al Organismo;
+VI. Proponer modelos o esquemas de trabajo que permitan al Organismo trabajar con eficacia;
 
-VII. Asesorar al Presidente Ejecutivo con información oportuna, relevante y significativa para evaluar alternativas en la toma de decisiones dentro del entorno de operatividad del Organismo;
+VII. Asesorar al (sic) Presidenta Ejecutiva con información oportuna, relevante y significativa para evaluar alternativas en la toma de decisiones dentro del entorno de operatividad del Organismo;
 
 VIII. Proponer criterios para la planeación, ejecución, supervisión y evaluación de las políticas y programas del Organismo;
 
 IX. Generar diagnósticos y planes detallados en temas de desarrollo social y superación de la pobreza;
 
-X. Proponer la creación de grupos de trabajo temáticos en materia de Desarrollo Social y superación de pobreza.
+X. Proponer la creación de grupos de trabajo temáticos en materia de desarrollo social y superación de la pobreza;
 
 XI. Promover el intercambio de experiencias en materia de desarrollo social y superación de la pobreza con otras instituciones del gobierno, de la academia y de la sociedad civil;
 
-XII. Contribuir a elevar la confianza y las expectativas de los ciudadanos respecto a la efectividad de los programas de desarrollo social, atención a grupos vulnerables y prestación de los servicios públicos;
+XII. Contribuir a elevar la confianza y las expectativas de los ciudadanos respecto a la efectividad de los programas de desarrollo social, atención a grupos vulnerables y prestación de servicios públicos; y
 
-XIII. Administrar el soporte técnico a los sistemas, a los equipos computacionales y a los equipos de telecomunicaciones del Organismo, con el fin de que se realicen las actividades de manera efectiva y eficaz; y
+XIII. Cualquier otra responsabilidad que le sea encomendada por el (sic) Presidenta Ejecutiva.
 
-XIV. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
 
-###### Artículo 15.
+###### Artículo 14.
 
-Corresponde a la Dirección de Vinculación Interinstitucional:
+Corresponde a la Dirección de Vinculación con Organizaciones de la Sociedad Civil:
 
 I. Fomentar la coordinación interinstitucional entre el Organismo y las dependencias y entidades públicas, instituciones educativas y la sociedad, en materia de desarrollo social;
 
 II. Impulsar el fortalecimiento institucional de organizaciones que atiendan a personas en situación de pobreza extrema y vulnerabilidad;
 
-III. Promover y asegurar la integración y vinculación de un cuerpo de servicio social y voluntariado activo, en continua actualización, que fortalezca los modelos de atención y el desarrollo individual y comunitario apoyando a las causas sociales;
+III. Promover y asegurar la integración y vinculación de un cuerpo de servicio social y voluntariado activo en continua actualización que fortalezca los modelos de atención y el desarrollo individual y comunitario apoyando a las causas sociales;
 
 IV. Dirigir y coordinar la ejecución de las actividades de integración y vinculación del cuerpo de servicio social y el voluntariado activo;
 
-V. Formular y proponer al Presidente Ejecutivo, estrategias y acciones que consoliden la coordinación interinstitucional, a través del trabajo en conjunto con las organizaciones civiles y educativas que promuevan el desarrollo humano;
+V. Formular y proponer al (sic) Presidenta Ejecutiva estrategias y acciones que consoliden la coordinación interinstitucional, a través del trabajo en conjunto con las organizaciones civiles y educativas que promuevan el desarrollo humano;
 
-VI. Promover e impulsar la formación de una estructura integral conformada por el gobierno, las organizaciones civiles y sus modelos de atención a grupos vulnerables en la comunidad, logrando sinergia y acuerdos que redunden en proyectos de desarrollo integrales, sociales y productivos;
+VI. Promover e impulsar la formación de una estructura integral conformada por el Gobierno, las organizaciones civiles y sus modelos de atención a grupos vulnerables en la comunidad, logrando sinergias y acuerdos que redunden en proyectos de desarrollo integral, social y productivo;
 
-VII. Impulsar el desarrollo humano y social a través de la educación, la capacitación y la organización comunitaria, que promueva el autodesarrollo según las necesidades específicas, de las personas y de la comunidad, y que les lleve a ser autosuficientes;
+VII. Impulsar el desarrollo humano y social a través de la educación, la capacitación y la organización comunitaria que promueva el autodesarrollo según las necesidades específicas de las personas y de la comunidad para lograr que sean autosuficientes;
 
-VIII. Cualquier otra responsabilidad que le sea encomendada por el Presidente Ejecutivo.
+VIII. Cualquier otra responsabilidad que le sea encomendada por el (sic) Presidenta Ejecutiva.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2005)</small>
+
+###### Artículo 15.
+
+Corresponde a la Unidad de Teleaulas y Centros Comunitarios:
+
+I. Proponer y ejecutar desde una perspectiva de educación no formal los programas que atiendan a los integrantes de las comunidades en la adquisición de conocimientos y habilidades que permitan un mayor desarrollo y bienestar;
+
+II. Participar, en colaboración con las autoridades federales y municipales, en el Programa de la Red Estatal de Teleaulas propiciando la realización de nuevos esquemas para la capacitación a distancia en materia de desarrollo social;
+
+III. Realizar la planeación, programación y operación de las actividades, cursos y talleres que se impartan en los Centros Comunitarios de Desarrollo Social;
+
+IV. Ofrecer programas de alfabetización y de educación para adultos en los Centros Comunitarios de Desarrollo Social, en coordinación con el Instituto Nacional para la Educación de los Adultos (INEA);
+
+V. Diseñar programas y proyectos de desarrollo social integral en los que participen los migrantes nuevoleoneses que se encuentren en Estados Unidos de América, con miras a elevar los niveles de bienestar en sus comunidades de origen y propiciar foros de debate para difundir las problemáticas migratorias, así como el perfil y las condiciones socio económicas de sus familias; y
+
+VI. Cualquier otra responsabilidad que le sea asignada por el (sic) Presidenta Ejecutiva del Consejo.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2005)</small>
+
+Artículo 15 bis.- Corresponde a la Unidad de Comunicación:
+
+I. Formular y proponer los programas de comunicación del Organismo;
+
+II. Coordinar y difundir estudios e investigaciones sobre temas relacionados con desarrollo social generados por el Organismo;
+
+III. Diseñar y administrar la información del sitio de Internet del Organismo;
+
+IV. Publicar en internet la información del Organismo que en términos de la Ley de Acceso a la Información Pública debe ser de conocimiento público;
+
+V. Registrar, analizar y procesar la información que difunden los medios en referencia a las actividades y entornos del Organismo y circularla entre las Direcciones del mismo;
+
+VI. Proponer el diseño y elaboración de carteles, folletos, audiovisuales, videos promocionales, y en general los elementos tendientes a difundir las actividades del Consejo;
+
+VII. Apoyar en la logística para la realización de eventos, giras de trabajo y campañas promociónales que lleven a cabo las diferentes Direcciones del Organismo;
+
+VIII. Reseñar y conservar las memorias visuales de los eventos donde participen el (sic) Presidenta Ejecutiva y los Directores del Organismo;
+
+X (SIC). Cualquier otra responsabilidad que le sea encomendada por el (sic) Presidenta Ejecutiva.
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -394,3 +444,11 @@ Dado en la ciudad de Monterrey, Nuevo León, el día 08 de marzo de 2004.
 LA C. PRESIDENTA EJECUTIVA DEL CONSEJO DE DESARROLLO SOCIAL Y SECRETARIA DE LA JUNTA DE GOBIERNO
 
 LIC. ALEJANDRA RANGEL HINOJOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes Reformas y Adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
