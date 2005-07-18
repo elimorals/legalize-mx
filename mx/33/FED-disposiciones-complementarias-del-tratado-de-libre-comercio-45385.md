@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-453
 country: "mx"
 rank: "otro"
 publication_date: "2004-07-19"
-last_updated: "2005-07-14"
+last_updated: "2005-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45385&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,75 +18,65 @@ issue_date: "2004-04-14"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA ORIENTAL DEL URUGUAY, 2003)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR QUESOS Y TEJIDOS DE LANA, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY.
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR MIEL DE ABEJA, PREPARACION USADA EN PANADERIA, HARINA Y POLVO DE CARNE O DESPOJOS Y ACIDO ESTEARICO DE VACUNO, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de julio de 2005.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 18 de julio de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en el artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 34 de la Ley Orgánica de la Administración Pública Federal, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay, con fecha 15 de noviembre de 2003 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, mismo que aprobó el Senado de la República el 28 de abril de 2004 y fue promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
+Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay, con fecha 15 de noviembre de 2003 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, mismo que aprobó el Senado de la República el 28 de abril de 2004 y promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
 
-Que el artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay establece que México permitirá la importación de ciertas mercancías originarias de Uruguay con una preferencia arancelaria porcentual dentro de una cuota determinada;
+Que el Anexo 3-03 (4) del artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay establece que México permitirá la importación de ciertas mercancías originarias de Uruguay con una preferencia arancelaria porcentual dentro de una cuota determinada;
 
-Que los procedimientos de asignación de los cupos que se tratan en el presente Acuerdo, son un instrumento de la política sectorial para promover condiciones equitativas de competencia e incrementar las corrientes comerciales con aquellos países con los que México tiene suscritos acuerdos comerciales, y
+Que los procedimientos de asignación de los cupos que se tratan en el presente Acuerdo, son un instrumento de la política sectorial para promover condiciones equitativas de competencia e incrementar las corrientes comerciales con los países con los que México tiene suscritos acuerdos comerciales, y
 
-Que la medida a que se refiere el presente Acuerdo, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR QUESOS Y TEJIDOS DE LANA, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR MIEL DE ABEJA, PREPARACION USADA EN PANADERIA, HARINA Y POLVO DE CARNE O DESPOJOS Y ACIDO ESTEARICO DE VACUNO, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para importar durante un periodo de doce meses contados a partir del 15 de julio de cada año, con el arancel-cupo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, quesos y tejidos de lana, originarios de la República Oriental del Uruguay, son los que se determinan en el cuadro siguiente:
+Los cupos para importar durante un periodo de doce meses contados a partir del 15 de julio de cada año, con el arancel-cupo establecido en el Anexo 3-03 (4) del artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, miel de abeja; preparaciones usadas en panadería, pastelería y galletería, chocolatería y similares, cuando contenga 15% a 40% de proteínas, 0.9% a 5% de grasas, 45% a 70% de carbohidratos, 3% a 4% de minerales y 3% a 8% de humedad; harina y polvo de carne o despojos y ácido esteárico de vacuno para ser utilizada como materia prima para la fabricación de estearina refinada, originarios de la República Oriental del Uruguay, son los que se determinan en el cuadro siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, se aplicará a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
+De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, se aplicará a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de estos cupos, las personas que se mencionan a continuación, conforme a los siguientes criterios:
+Podrán solicitar asignación de estos cupos, las personas físicas y morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía, hasta agotar el cupo.
 
-1) Del cupo de importación de quesos:
-
-a) Hasta 4,400 toneladas para las personas físicas y morales establecidas en los Estados Unidos Mexicanos, y
-
-b) Hasta 2,200 toneladas para las personas físicas y morales establecidas en los Estados Unidos Mexicanos, que utilicen los quesos como insumo en sus procesos productivos o que importen quesos en presentación de hasta 5 kilogramos.
-
-2) Del cupo de importación de tejidos de lana: las personas físicas y morales establecidas en los Estados Unidos Mexicanos.
-
-Para los cupos a que se refiere el presente Acuerdo, la asignación será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, en adelante la Secretaría, conforme al monto que señale el documento expedido por la autoridad competente de la República Oriental del Uruguay a nombre del proveedor uruguayo, hasta agotar el cupo, en un plazo no mayor a 7 días hábiles, contados a partir de la fecha de recepción de la solicitud.
+El monto a asignar será el que resulte menor entre la cantidad solicitada, el monto indicado en la factura comercial, el conocimiento de embarque; carta de porte o guía aérea, según sea el caso; en caso de que exista saldo del cupo, el monto de la asignación será el menor entre la cantidad solicitada y el saldo.
 
 ###### ARTICULO CUARTO.
 
-Las solicitudes de asignación de los cupos a que se refiere este Acuerdo, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de la Secretaría que corresponda al domicilio del solicitante. Las hojas de requisitos específicos se establecen como anexos al presente Acuerdo.
+Para cada año, la primera solicitud de asignación de cada uno de los cupos a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
 
 ###### ARTICULO QUINTO.
 
-Una vez asignado el monto para importar dentro del arancel-cupo, la Secretaría, a través de la Representación Federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)” en un plazo no mayor a 7 días hábiles, contados a partir de la fecha de recepción de la solicitud.
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato "Solicitud de certificados de cupo (obtenido por asignación directa)" SE-03-013-5, adjuntando copia de la factura comercial y conocimiento de embarque, guía aérea o carta de porte, según sea el caso, así como los requisitos señalados en la “hoja de Requisitos” anexa al presente instrumento, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-Para el caso de las asignaciones de quesos que se clasifican en las fracciones arancelarias 0406.90.03; 0406.90.05; 0406.90.06; 0406.90.99, una vez asignado el monto para importar, la Secretaría, a través de la Representación Federal correspondiente, expedirá los respectivos permisos de importación, previa solicitud del interesado en el formato SE-03-018 “Solicitud de permiso de importación o exportación y de modificaciones”.
+Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio de por lo menos una de las expediciones otorgadas, para lo cual deberá adjuntar a la solicitud de certificado de cupo, copia del pedimento de importación, de forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
 
-El certificado de cupo y el permiso previo de importación son nominativos e intransferibles y deberán ser retornados a la oficina que los expidió, dentro de los quince días siguientes al término de su vigencia.
-
-La vigencia máxima de los certificados de cupo y de los permisos de importación será al 14 de julio de cada año, y será improrrogable.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 14 de julio de cada año.
 
 ###### ARTICULO SEXTO.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria www.cofemer.gob.mx., o en las siguientes direcciones electrónicas:
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría de Economía, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, www.cofemer.gob.mx., o en las siguientes direcciones electrónicas:
 
 Para el formato de solicitud de asignación de cupo (SE-03-011-1):
 
-http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905721&num_modalidad=1.
+<http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905721&num_> modalidad=1.
 
 Para el formato de expedición del certificado de cupo (SE-03-013-5):
 
-http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num_modalidad=0.
+<http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num> modalidad=0.
 
 ###### ARTÍCULO 1.
 
@@ -250,40 +240,36 @@ Para el caso en el que existan modificaciones o adecuaciones a la Tarifa de la L
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 15 de julio de 2005.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
 ANEXO
 
-SECRETARIA DE ECONOMIA
+SECRETARIA DE ECONOMIA DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-DIRECCION GENERAL DE COMERCIO EXTERIOR
+Para cada periodo de doce meses contados a partir del 15 de julio de cada año.
 
-Para cada periodo de doce meses contados a partir del 15 de julio de cada año
+REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE LOS SIGUIENTES PRODUCTOS:
 
-REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
+MIEL DE ABEJA
 
-QUESOS
+Fracción arancelaria: 0409.00.01
 
-Fracciones arancelarias: 0406.20.01, 0406.90.01, 0406.90.02, 0406.90.03, 0406.90.04, 0406.90.05, 0406.90.06 y 0406.90.99
+PREPARACION USADA EN PANADERIA, PASTELERIA Y GALLETERIA, CHOCOLATERIA Y SIMILARES, CUANDO CONTENGA 15% A 40% DE PROTEINAS, 0.9% A 5% DE GRASAS, 45% A 70% DE CARBOHIDRATOS, 3% A 4% DE MINERALES Y 3% A 8% DE HUMEDAD
 
-Asignación directa
+Fracción arancelaria: 2106.90.02
 
-(VEASE ARCHIVO ANEXO)
+HARINA Y POLVO DE CARNE O DESPOJOS
 
-ANEXO
+Fracciones arancelarias: 2301.10.01 y 2301.10.99
 
-SECRETARIA DE ECONOMIA
+ACIDO ESTEARICO DE VACUNO PARA SER UTILIZADO COMO MATERIA PRIMA PARA LA FABRICACION DE ESTEARINA REFINADA
 
-DIRECCION GENERAL DE COMERCIO EXTERIOR
+Fracción arancelaria: 3823.11.01
 
-REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
+Asignación directa mediante la modalidad de
 
-TEJIDOS DE LANA
-
-Fracciones arancelarias: 5111.11.01, 5111.11.99, 5111.19.01, 5111.19.99, 5111.20.01, 5111.20.99, 5111.30.01, 5111.30.99, 5111.90.99, 5112.11.01, 5112.11.99, 5112.19.01, 5112.19.02, 5112.19.99, 5112.20.01, 5112.20.99, 5112.30.01, 5112.30.02, 5112.30.99 y 5112.90.99
-
-Asignación directa
+"Primero en tiempo, primero en derecho"
 
 (VEASE ARCHIVO ANEXO)
