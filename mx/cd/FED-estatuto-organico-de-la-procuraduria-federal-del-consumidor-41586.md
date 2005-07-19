@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-415
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-11-23"
-last_updated: "2004-11-23"
+last_updated: "2005-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-10-07"
 
 ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2005.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de noviembre de 2004.
 
@@ -81,7 +81,17 @@ IX.- Las subdelegaciones estarán adscritas a las delegaciones correspondientes 
 
 Actividad programada. Todas las unidades administrativas de la Procuraduría conducirán sus actividades en forma programada y con base en los objetivos y prioridades del Plan Nacional de Desarrollo, de los programas de innovación y calidad gubernamental, y los que determinen el Ejecutivo Federal o el Procurador.
 
-La Procuraduría ejecutará sus programas con base en acciones y procesos de mejora continua a los sistemas organizacionales y de información, que permitan elevar la calidad de los servicios que proporciona, para lo cual, la Coordinación General de Administración, a través de un área de innovación y transformación institucional, llevará a cabo las acciones conducentes para su definición, diseño, aplicación y seguimiento.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
+
+La Procuraduría ejecutará sus programas con base en acciones y procesos de mejora continua, que permitan elevar la calidad de los servicios que proporciona y realizar sus actividades de manera planificada y organizada, para lo cual, la Coordinación General de Planeación, a través de un área de calidad institucional llevará a cabo las acciones conducentes para su definición, diseño, aplicación y seguimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE JULIO DE 2005)</small>
+
+Asimismo, para apoyar y asesorar al Procurador y a las diversas unidades administrativas de la Institución, en la atención de asuntos de carácter internacional en materia de protección al consumidor; así como promover y fortalecer la presencia y participación de la Procuraduría en reuniones y foros bilaterales y multilaterales en donde se analizan y proponen lineamientos, políticas y acciones en la referida materia, la Coordinación General de Planeación contará con un área de asuntos internacionales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE JULIO DE 2005)</small>
+
+Los aspirantes a ingresar a la Procuraduría, los servidores públicos que deseen permanecer en ésta y que realicen actividades de verificación y otras vinculadas al desarrollo de las mismas; así como los que determine el Procurador, con excepción del personal de base, deberán someterse al proceso de evaluación de confianza en términos de las disposiciones aplicables.
 
 ###### ARTICULO 5.
 
@@ -593,7 +603,11 @@ VI.- Validar en su aspecto presupuestal los convenios y contratos en los que la 
 
 VII.- Coordinar, dirigir e integrar los informes de carácter programático, presupuestal, contable, financiero y administrativo, y todos aquellos que sean requeridos por el Procurador, y
 
-VIII.- Las señaladas en el artículo 17 del Reglamento.
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2005)</small>
+
+VIII.- Dictaminar y difundir la estructura orgánica de la Procuraduría; asesorar en materia de organización y procedimientos a las unidades administrativas de la Procuraduría; coordinar la elaboración y mantener actualizado el manual general de organización de la Procuraduría y apoyar a aquéllas en la elaboración de sus manuales específicos de organización, de procedimientos, de servicios al público y guías técnicas y llevar a cabo su registro, control y difusión, y
+
+IX.- Las señaladas en el artículo 17 del Reglamento.
 
 ###### ARTICULO 20.
 
@@ -625,7 +639,9 @@ I.- Aplicar las disposiciones jurídicas y normas administrativas en materia de 
 
 II.- Proponer lineamientos y criterios para la administración de los recursos humanos con que cuenten las delegaciones de la Procuraduría;
 
-III.- Realizar las funciones de reclutamiento, selección, ingreso, movimientos, pago de remuneraciones y tramitación de baja de los servidores públicos de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2005)</small>
+
+III.- Realizar las funciones de reclutamiento, y selección del personal de base, de conformidad con las disposiciones señaladas en el contrato colectivo de trabajo y demás normatividad aplicable, así como la tramitación de altas, movimientos, bajas y pago de remuneraciones de todo el personal de la Procuraduría;
 
 IV.- Coordinar la capacitación del personal de la Procuraduría, administrar el otorgamiento de prestaciones a los trabajadores y dirigir las actividades sociales, culturales y deportivas organizadas en beneficio del personal;
 
@@ -698,3 +714,9 @@ CUARTO.- Los procedimientos iniciados conforme al Estatuto que se abroga, se sus
 QUINTO.- Se abroga el Acuerdo del ciudadano Procurador Federal del Consumidor por el que determina los órganos superiores jerárquicos que deberán resolver los recursos de revisión, publicado en el Diario Oficial de la Federación el día 29 de noviembre de 1994.
 
 México, D.F., a 7 de octubre de 2004.- El Procurador Federal del Consumidor, Carlos Francisco Arce Macías.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 19 DE JULIO DE 2005.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
