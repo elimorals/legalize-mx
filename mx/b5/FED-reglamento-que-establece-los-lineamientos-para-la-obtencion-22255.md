@@ -4,7 +4,7 @@ identifier: "FED-reglamento-que-establece-los-lineamientos-para-la-obtencion-222
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-06"
-last_updated: "2001-11-06"
+last_updated: "2005-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22255&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-24"
 
 REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA OBTENCION DEL DICTAMEN DE PROCEDENCIA TECNICA PARA LA ADQUISICION Y DESINCORPORACION DE BIENES Y LA CONTRATACION DE SERVICIOS INFORMATICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 6 de noviembre de 2001.
 
@@ -71,245 +71,283 @@ ACUERDO
 
 UNICO.- Se aprueba el presente Reglamento que establece los Lineamientos para la Obtención del Dictamen de Procedencia Técnica para la Adquisición y Desincorporación de Bienes y la Contratación de Servicios Informáticos, en los términos siguientes:
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ACUERDO CG142/2005 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, SE MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE REGLAMENTO DEL 6 DE NOVIEMBRE DE 2001, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DEL 19 DE JULIO DE 2005.</small>
+
 REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA OBTENCION DEL DICTAMEN DE PROCEDENCIA TECNICA PARA LA ADQUISICION Y DESINCORPORACION DE BIENES Y LA CONTRATACION DE SERVICIOS INFORMATICOS
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
+
 I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 1
 
 Objeto y ámbito de aplicación
 
-1. El presente Reglamento tiene por objeto establecer los Lineamientos para la Obtención del Dictamen de Procedencia Técnica para la Adquisición y Desincorporación de Bienes y la Contratación de Servicios Informáticos del Instituto Federal Electoral, todo conforme, en su caso, con el artículo 134 constitucional, la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, la de Obras Públicas y Servicios, así como los Reglamentos de dichas Leyes.
+1. El presente Reglamento tiene por objeto establecer los Lineamientos para la Obtención del Dictamen de Procedencia Técnica para la Adquisición y Desincorporación de Bienes y la Contratación de Servicios Informáticos del Instituto Federal Electoral, todo conforme, en su caso, con el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Bienes Nacionales, la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como los Reglamentos de dichas Leyes.
 
-2. El Consejo General vigilará el estricto cumplimiento del presente reglamento a través de las Comisiones de Informática y de Contraloría Interna; la aplicación del mismo, corresponderá realizarla a la Unidad Técnica de Servicios de Informática, en colaboración con las áreas involucradas, dentro de los ámbitos de sus respectivas competencias.
+2. El Consejo General vigilará el estricto cumplimiento del presente Reglamento a través de las comisiones de Informática y de Contraloría Interna; la aplicación del mismo, corresponderá realizarla a la Unidad Técnica de Servicios de Informática, en colaboración con las áreas involucradas, dentro de los ámbitos de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 2
 
 Criterios de interpretación
 
-1. Para la interpretación de las disposiciones del presente reglamento, se recurrirá a lo dispuesto en el artículo 3, párrafo 2 del Código Federal de Instituciones y Procedimientos Electorales, sin que limite la función que legalmente le corresponda a la Dirección Ejecutiva de Administración y a la Junta General Ejecutiva.
+1. Para la interpretación de las disposiciones del presente Reglamento, se recurrirá a lo dispuesto en el artículo 3, párrafo 2 del Código Federal de Instituciones y Procedimientos Electorales, sin que limite la función que legalmente le corresponda a la Dirección Ejecutiva de Administración y a la Junta General Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 3
 
 Glosario
 
-1. Para efectos de este reglamento se entenderá:
+1. Para efectos de este Reglamento se entenderá:
 
 a) Por lo que se refiere a los ordenamientos jurídicos:
 
 I. Código: El Código Federal de Instituciones y Procedimientos Electorales;
 
-II. Reglamento: El Reglamento que establece los Lineamientos para la Obtención del Dictamen de Procedencia Técnica para la Adquisición y Desincorporación de Bienes y la Contratación de Servicios Informáticos.
+II. Reglamento: El Reglamento que Establece los Lineamientos para la Obtención del Dictamen de Procedencia Técnica para la Adquisición y Desincorporación de Bienes y la Contratación de Servicios Informáticos
 
 b) Por lo que hace a los organismos y órganos:
 
-I. Instituto: El Instituto Federal Electoral;
+I. Comisión de Informática: La Comisión del Consejo General especializada en la materia;
 
 II. Consejo General: El Organo Superior de Dirección del Instituto Federal Electoral;
 
-III. Comisión de Informática: La Comisión del Consejo General especializada en la materia;
+III. DEA: La Dirección Ejecutiva de Administración del Instituto Federal Electoral;
 
-IV. Dirección: La Dirección Ejecutiva de Administración del Instituto Federal Electoral; y,
+IV. Instituto: El Instituto Federal Electoral, y
 
-V Unidad: La Unidad Técnica de Servicios de Informática.
+V. Unidad Técnica: La Unidad Técnica de Servicios de Informática.
 
 c) Por lo que hace a la terminología:
 
-I. Bienes Informáticos: Bienes materiales que sirven para satisfacer las necesidades en materia de gestión, procesamiento, almacenamiento, comunicación o distribución de información digital;
+I. Area Usuaria: Unidad de Trabajo beneficiaria de un Bien o Servicio Informático;
 
-II. Servicios Informáticos: Servicios y/o estudios de análisis, diseño, desarrollo, programación, operación o mantenimiento de sistemas y/o Bienes Informáticos;
+II. Bienes Informáticos: Bienes materiales que sirven para satisfacer las necesidades en materia de, procesamiento, almacenamiento, comunicación o distribución de datos en formato digital;
 
-III. Area Usuaria: Unidad de trabajo beneficiaria de un servicio o bien informático común;
+III. Dictamen: Dictamen de Procedencia Técnica que se emite para la adquisición y desincorporación de Bienes y/o la contratación de Servicios Informáticos;
 
-IV. Dictamen: Dictamen de procedencia técnica para la adquisición de Bienes y/o contratación de Servicios Informáticos;
+IV. Proyecto de Dictamen: Propuesta de Dictamen que se remite a los miembros de la Comisión de Informática;
 
-V. Dictamen de Desincorporación: Dictamen de procedencia técnica para la Desincorporación de Bienes Informáticos; y
+V. Servicios Informáticos: Contratación de personal o empresas externas al Instituto para realizar trabajos relacionados con el análisis, diseño, desarrollo, implantación y mantenimiento de sistemas, mantenimiento, conservación y arrendamiento de Bienes Informáticos; capacitación y consultoría en materia informática; instalación y/o arrendamiento de infraestructura para la transmisión de voz, datos y video en formato digital, actualización y soporte de productos de software, y
 
-VI. Oficio-Solicitud: Documento a través del cual es solicitada la emisión de un Dictamen o Dictamen de Desincorporación.
+VI. Solicitud: Escrito oficial a través del cual es realizada la petición para la emisión de un Dictamen de Procedencia Técnica;
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 4
 
-1. La Unidad será la encargada de la emisión del Dictamen y del Dictamen de Desincorporación, atendiendo a las observaciones de los miembros de la Comisión de Informática.
+Responsabilidades de la Unidad Técnica
 
-II. DE LOS BIENES Y SERVICIOS INFORMATICOS QUE DEBERAN CONTAR CON EL DICTAMEN DE PROCEDENCIA TECNICA POR PARTE DE LA UNIDAD PARA SU ADQUISICION, CONTRATACION Y/O DESINCORPORACION
+1. La Unidad Técnica será la encargada de la emisión del Dictamen, atendiendo a las observaciones de los miembros de la Comisión de Informática.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
+
+II. DE LOS BIENES Y SERVICIOS INFORMATICOS QUE DEBERAN CONTAR CON EL DICTAMEN PARA SU ADQUISICION, CONTRATACION Y DESINCORPORACION
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 5
 
-1. Los Bienes y Servicios Informáticos que, para su adquisición y contratación respectivamente, deberán contar con el Dictamen, son los siguientes:
+Dictamen para la adquisición y contratación
 
-1. Bienes Informáticos;
+1. Los Bienes y Servicios Informáticos que deberán contar con el Dictamen para su adquisición y contratación son, respectivamente:
 
-2. Equipos y aparatos de comunicaciones;
+I. Bienes Informáticos:
 
-3. Refacciones y accesorios para equipo de cómputo y comunicaciones;
+a) Componentes para equipo de cómputo y comunicaciones;
 
-4. Patentes, regalías, licencias o cualquier tipo de derecho por el uso de programas de cómputo y su actualización;
+b) Computadoras, servidores, sistemas de almacenamiento, periféricos y unidades de energía ininterrumpida;
 
-5. Arrendamiento de equipo y Bienes Informáticos;
+c) Equipos de comunicaciones para la transmisión de voz, datos y video en formato digital, y
 
-6. Sistemas operativos, lenguajes Informáticos, programas, aplicaciones o cualquier tipo de sistema que funcione sobre el equipo de cómputo, así como sus actualizaciones y/o extensiones a los mismos;
+d) Licencias de uso de software, (paquetería y actualización de versiones).
 
-7. Información en formato digital;
+II. Servicios Informáticos:
 
-8. Servicios de Informática;
+a) Actualización y soporte a productos de software;
 
-9. Estudios e investigaciones en materia de informática o que contengan aspectos Informáticos;
+b) Arrendamiento de Bienes Informáticos;
 
-10. Servicios de conducción de señales analógicas y digitales;
+c) Capacitación en materia informática;
 
-11. Mantenimiento y conservación de Bienes Informáticos;
+d) Digitalización de imágenes y documentos;
 
-12. Capacitación en el uso de aplicaciones y sistemas Informáticos, así como en el manejo y uso de equipos de cómputo;
+e) Estudios, auditorías y consultorías relacionadas con el análisis, diseño, desarrollo, implantación y mantenimiento de sistemas;
 
-13. Sistemas de transmisión digitales para datos, audio y video;
+f) Estudios, investigaciones, auditorías y consultorías relacionados con el diseño, integración y crecimiento de la infraestructura de cómputo y comunicaciones;
 
-14. Proyectos de obra civil para la construcción de inmuebles nuevos conforme a lo establecido en los puntos 15 y 16 de este artículo;
+g) Instalación y/o arrendamiento de infraestructura para la transmisión de voz, datos y video en formato digital, tales como cableado estructurado (nodos de red), enlaces, troncales digitales, y
 
-15. Sugerencias en adecuación de inmuebles u oficinas en que se vaya a integrar sistemas de cableado estructurado para red;
+h) Mantenimiento preventivo y correctivo de Bienes Informáticos.
 
-16. Instalación y/o reubicación de nodos de red adicionales; y,
+2. La Unidad Técnica determinará con base en los montos involucrados en la adquisición de Bienes y/o contratación de Servicios Informáticos si existen Bienes o Servicios exentos de ser dictaminados, para efecto de lo anterior, se presentarán en la primera sesión ordinaria de la Comisión de Informática de cada año los “Criterios específicos para la emisión del Dictamen de Procedencia Técnica”.
 
-17. Todos los demás que se relacionen en materia de informática.
+3. La Unidad Técnica, en coordinación con la DEA, será la única responsable para contratar servicios de acceso a internet, enlaces de comunicaciones, troncales digitales, así como cualquier dispositivo con capacidad de procesar, almacenar y/o transmitir voz, datos y/o video en formato digital, necesarios para la interconexión de las áreas del Instituto a la Red Nacional de Informática.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 6
 
-1. Los Bienes Informáticos que para su desincorporación deberán contar con el Dictamen de Desincorporación, son los siguientes:
+Dictamen para la desincorporación
 
-1. Bienes Informáticos;
+1. Los Bienes Informáticos que para su desincorporación deberán contar con el Dictamen son los siguientes:
 
-2. Equipos y aparatos de comunicaciones;
+a) Computadoras, servidores, sistemas de almacenamiento y periféricos;
 
-3. Refacciones y accesorios para equipo de cómputo y comunicaciones;
+b) Equipos de comunicaciones para la transmisión de voz, datos y video en formato digital;
 
-4. Sistemas operativos, lenguajes Informáticos, programas, aplicaciones o cualquier tipo de sistema que funcione sobre el equipo de cómputo;
+c) Licencias de uso de software (paquetería), y
 
-5. Información en formato digital; y
+d) Refacciones y componentes para equipo de cómputo y comunicaciones
 
-6. Todos los demás que se relacionen en materia de informática.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
-III. DEL PROCEDIMIENTO PARA LA SOLICITUD Y EMISION DEL DICTAMEN PARA LA ADQUISICION DE BIENES Y CONTRATACION DE SERVICIOS INFORMATICOS
+III. DEL PROCEDIMIENTO PARA LA SOLICITUD DEL DICTAMEN PARA LA ADQUISICION Y DESINCORPORACION DE BIENES Y LA CONTRATACION DE SERVICIOS INFORMATICOS
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 7
 
-Para la Adquisición de Bienes Informáticos
+Adquisición de Bienes Informáticos
 
-1. En la solicitud y emisión del Dictamen se deberá observar el siguiente procedimiento:
+1. En la solicitud del Dictamen se deberá observar lo siguiente:
 
-a. El Area Usuaria deberá solicitar el Dictamen correspondiente mediante oficio dirigido al Coordinador de la Unidad, con copia dirigida al titular de la Dirección. El Oficio-Solicitud deberá incluir la siguiente información:
+a) El Area Usuaria deberá solicitar el Dictamen correspondiente al Coordinador de la Unidad Técnica, en la cual se deberá incluir la siguiente información:
 
 I. Justificación del requerimiento de la adquisición de los Bienes Informáticos, indicando el área destino de los Bienes o proyecto específico;
 
-II. Descripción detallada de las características técnicas de los Bienes Informáticos. No se deberán mencionar marcas ni modelos;
+II. Descripción detallada de las características técnicas de los Bienes Informáticos. No se deberán mencionar marcas ni modelos, excepto cuando la adquisición sea de componentes para Bienes Informáticos, así como licencias y/o actualizaciones de uso de software con que cuenta el Instituto;
 
-III. Cantidad; y,
+III. Cantidad, y
 
-IV. Costo unitario estimado o presupuestado.
+IV. Costo unitario estimado.
 
-b. La Unidad verificará las características técnicas de los Bienes Informáticos solicitados, con el objeto de que se adquieran con características técnicas actuales, mismas que satisfagan los requerimientos del Area Usuaria y que cumplan con las tendencias informáticas que prevalezcan en el Instituto. También se verificará que el costo estimado por el área usuaria esté de acuerdo con las características solicitadas.
+b) La Unidad Técnica pondrá a disposición de las Areas Usuarias en la página electrónica de Intranet del Instituto, formatos, y guías para la elaboración de la Solicitud, así como las especificaciones técnicas mínimas requeridas para la adquisición de Bienes Informáticos, y
 
-c. La Unidad hará llegar el Dictamen al área usuaria a través de oficio, con copia a la Dirección.
+c) El Area Usuaria podrá solicitar asesoría a la Unidad Técnica para la integración de la información establecida en el párrafo 1, inciso a) de este artículo, previamente al envío de la Solicitud.
 
-d. Una vez que el Area Usuaria cuente con el Dictamen, podrá dar inicio al trámite de adquisición ante la Dirección, la cual deberá realizarlo de acuerdo a la normatividad vigente.
+2. En caso de que la Solicitud no cumpla con los requisitos establecidos en el presente artículo, la Unidad Técnica solicitará, en un plazo no mayor a tres días hábiles a partir de la fecha de recepción de la Solicitud, la información complementaria.
 
-2. En caso de que el Area Usuaria requiera de asesoría para la integración de la información establecida en el inciso a. del párrafo 1 de este artículo podrá solicitar asesoría a la Unidad, previamente al envío del Oficio-Solicitud.
+3. La Unidad Técnica verificará las características técnicas de los Bienes Informáticos solicitados, con el objeto de revisar que satisfagan los requerimientos del Area Usuaria y que cumplan con las tendencias informáticas que prevalezcan en el Instituto.
 
-3. En caso de que el Oficio-Solicitud no cumpla con los requisitos señalados en el presente artículo, la Unidad notificará mediante oficio, en un plazo no mayor a tres días hábiles a partir de la fecha de recepción del Oficio-Solicitud, el motivo o los motivos por los cuales no procede el trámite para la emisión del Dictamen, con la finalidad de que el área usuaria subsane las deficiencias.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 8
 
-Para la Contratación de Servicios Informáticos
+Contratación de Servicios Informáticos
 
-1. En la solicitud y emisión del Dictamen se deberá observar el siguiente procedimiento:
+1. En la solicitud del Dictamen se deberá observar lo siguiente:
 
-a. El Area Usuaria deberá solicitar el Dictamen correspondiente mediante oficio dirigido al Coordinador de la Unidad, con copia dirigida al titular de la Dirección. El Oficio-Solicitud deberá incluir la siguiente información:
+a) El Area Usuaria deberá solicitar el Dictamen correspondiente al Coordinador de la Unidad Técnica, en la cual se deberá incluir la siguiente información:
 
-I. Justificación del requerimiento para la contratación de los Servicios Informáticos, mencionando el área destino de los servicios o proyecto específico y la causa de su contratación externa;
+I. Justificación del requerimiento para la contratación de los Servicios Informáticos, mencionando el área destino de los servicios o proyecto específico;
 
 II. Descripción detallada del tipo de los Servicios Informáticos a contratar;
 
-III. Periodo de contratación; y,
+III. Periodo de contratación, y
 
-IV. Costo estimado o presupuestado.
+IV. Costo estimado.
 
-b. La Unidad analizará la información presentada por el Area Usuaria y en conjunto evaluarán la posibilidad de solventar el requerimiento con recursos humanos del Instituto y/o la pertinencia de llevar a cabo la contratación en cuestión.
+b) La Unidad Técnica pondrá a disposición de las Areas Usuarias en la página electrónica de Intranet del Instituto, formatos y guías para la elaboración de la Solicitud;
 
-c. La Unidad hará llegar el Dictamen al Area Usuaria a través de oficio, con copia a la Dirección.
+c) El Area Usuaria podrá solicitar asesoría a la Unidad Técnica para la integración de la información establecida en el párrafo 1, inciso a) de este artículo, previamente al envío de la Solicitud;
 
-d. Una vez que el Area Usuaria cuente con el Dictamen, podrá dar inicio al trámite de contratación ante la Dirección, la cual deberá realizarlo de acuerdo a la normatividad vigente.
+d) En el caso de la contratación de servicios de mantenimiento preventivo y/o correctivo a Bienes Informáticos, además se deberá incluir la descripción de dichos Bienes indicando marca, modelo, número de serie y número de inventario, y
 
-2. En caso de que el área usuaria requiera asesoría en la integración de la información solicitada en el inciso a. del párrafo 1 de este artículo, podrá solicitarla a la Unidad, previamente al envío del Oficio-Solicitud.
+e) En el caso de la contratación de servicios de capacitación en materia informática, además se deberá incluir el temario, la duración del curso expresado en horas y el número de participantes.
 
-3. En caso de que el Oficio-Solicitud no cumpla con los requisitos establecidos en el presente artículo, la Unidad notificará mediante oficio en un plazo no mayor a tres días hábiles a partir de la fecha de recepción del Oficio-Solicitud, el motivo o los motivos por los cuales no procede el trámite para la emisión del Dictamen, con la finalidad de que el Area Usuaria subsane las deficiencias.
+2. En caso de que la Solicitud no cumpla con los requisitos establecidos en el presente artículo, la Unidad Técnica solicitará, en un plazo no mayor a tres días hábiles a partir de la fecha de recepción de la Solicitud la información complementaria.
 
-IV. DEL PROCEDIMIENTO PARA LA SOLICITUD Y EMISION DEL DICTAMEN DE DESINCORPORACION DE BIENES INFORMATICOS
+3. La Unidad Técnica analizará la información presentada por el Area Usuaria y en conjunto evaluarán la posibilidad de solventar el requerimiento con recursos internos del Instituto y/o la pertinencia de llevar a cabo la contratación en cuestión.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 9
 
-Para la Desincorporación de Bienes Informáticos.
+Desincorporación de Bienes Informáticos
 
-1. En la solicitud y emisión del Dictamen de Desincorporación se deberá observar el siguiente procedimiento:
+1. En la solicitud del Dictamen se deberá observar lo siguiente:
 
-a. El Area Usuaria deberá solicitar el Dictamen de Desincorporación correspondiente mediante oficio dirigido al Coordinador de la Unidad, con copia dirigida al titular de la Dirección. El oficio-solicitud deberá incluir la siguiente información:
+a) Las Areas Usuarias que podrán solicitar un Dictamen para la desincorporación de Bienes Informáticos, serán la DEA y las Juntas Ejecutivas Locales;
 
-I. Motivo por el cual se solicita la desincorporación de los Bienes Informáticos;
+b) El Area Usuaria deberá solicitar el Dictamen correspondiente mediante la Solicitud dirigida al Coordinador de la Unidad Técnica, en la cual se deberá incluir la siguiente información:
 
-II. Relación de Bienes Informáticos a desincorporar, mencionando sus características técnicas; y
+I. Justificación por la que se solicita la desincorporación de los Bienes Informáticos;
+
+II. Relación de Bienes Informáticos a desincorporar, mencionando marca, modelo, número de serie, número de inventario y el estado que guarda el bien indicando si está completo y en servicio, y
 
 III. Ubicación de los Bienes Informáticos.
 
-b. La Unidad verificará las características técnicas de los Bienes Informáticos, con el objeto de que se desincorporen aquellos que no cumplan con las características técnicas actuales y las tendencias informáticas que prevalezcan en el Instituto.
+c) La Unidad Técnica pondrá a disposición de las Areas Usuarias en la página electrónica de Intranet del Instituto, formatos y guías para la elaboración de la Solicitud, y
 
-c. La Unidad hará llegar a través de oficio al Area Usuaria el Dictamen de Desincorporación con copia dirigida al titular de la Dirección.
+d) El Area Usuaria podrá solicitar asesoría a la Unidad Técnica para la integración de la información establecida en el párrafo 1, inciso a) de este artículo, previamente al envío de la Solicitud.
 
-d. Una vez que el Area Usuaria, cuente con el Dictamen de Desincorporación correspondiente, podrá dar inicio al trámite de desincorporación ante la Dirección, la cual deberá realizarlo de acuerdo a la normatividad vigente.
+2. En caso de que la Solicitud no cumpla con los requisitos establecidos en el presente artículo, la Unidad Técnica solicitará en un plazo no mayor a tres días hábiles a partir de la fecha de recepción de la Solicitud la información complementaria.
 
-2. En caso de que el Oficio-Solicitud no cumpla con los requisitos mencionados en el presente artículo, la Unidad notificará mediante oficio, en un plazo no mayor a tres días hábiles, el motivo o los motivos por los cuales no procede el trámite para la emisión del Dictamen de Desincorporación, con la finalidad de que el Area Usuaria subsane las deficiencias.
+3. La Unidad Técnica verificará los Bienes Informáticos, con el objeto de que se desincorporen aquellos que no cumplan con las características técnicas actuales y las tendencias informáticas que prevalezcan en el Instituto.
 
-V. DE LA ELABORACION DE LOS DICTAMENES POR PARTE DE LA UNIDAD
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
+
+III (SIC). DE LA ELABORACION Y EMISION DE LOS DICTAMENES POR PARTE DE LA UNIDAD TECNICA
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 10
 
-Para el Dictamen
+Elaboración y emisión del Dictamen para la adquisición de Bienes y la contratación de Servicios Informáticos
 
-1. Para la elaboración y emisión del Dictamen, la Unidad analizará la información presentada por el Area Usuaria y emitirá el Dictamen, señalando la procedencia o improcedencia para la adquisición de los Bienes y/o contratación de los Servicios Informáticos solicitados y mencionando, en su caso, las adecuaciones que deban hacerse o las razones de la improcedencia.
+1. Para la elaboración del Dictamen, la Unidad Técnica analizará la información presentada por el Area Usuaria y emitirá el Dictamen, señalando la procedencia o improcedencia para la adquisición de los Bienes y/o contratación de los Servicios Informáticos solicitados y mencionando, en su caso, las adecuaciones que deban hacerse o las razones de la improcedencia.
 
-2. Para la emisión del Dictamen, la Unidad deberá observar:
+2. Para la emisión del Dictamen, la Unidad deberá observar lo siguiente:
 
-a. Que las características de los Bienes Informáticos solicitados sean compatibles con los aspectos técnicos de la Red Nacional de Informática vigentes;
+a) Que las características de los Bienes Informáticos solicitados sean compatibles con los aspectos técnicos de la Red Nacional de Informática; asimismo, que dichas características sean actuales y cumplan con las tendencias informáticas que prevalezcan en el Instituto;
 
-b. Que los Bienes Informáticos estén basados preferentemente en tecnologías abiertas, es decir que se utilicen estándares de la industria en los diferentes niveles de la arquitectura, con la finalidad de asegurar la independencia tecnológica respecto a proveedores y/o fabricantes, y cuando resulte necesaria la adquisición de tecnologías que no cumplan con lo anterior, deberá señalarse la justificación correspondiente dentro del mismo Dictamen;
+b) Que los Bienes Informáticos estén basados preferentemente en tecnologías abiertas, es decir, que se utilicen estándares de la industria en los diferentes niveles de la arquitectura, con la finalidad de asegurar la independencia tecnológica respecto a proveedores y/o fabricantes, y cuando resulte necesaria la adquisición de tecnologías que no cumplan con lo anterior, deberá señalarse la justificación correspondiente dentro del mismo Dictamen, y
 
-c. Que las características técnicas de los Bienes Informáticos sean actuales y cumplan con las tendencias informáticas que prevalezcan en el Instituto; y,
+c) Que el costo estimado por el Area Usuaria sea un costo aceptable de acuerdo con las tendencias de mercado y que sea congruente con las características solicitadas.
 
-d. Que el costo estimado por el Area Usuaria esté de acuerdo con las características solicitadas.
+3. La Unidad hará del conocimiento de los miembros de la Comisión de Informática, el proyecto de Dictamen para que, en un plazo no mayor a tres días hábiles, remitan sus observaciones en caso de haberlas.
 
-3. La Unidad hará del conocimiento de los miembros de la Comisión de Informática, el proyecto de Dictamen para que, en un plazo no mayor a tres días hábiles, en su caso, remitan sus observaciones.
+Si alguno de los miembros de la Comisión de Informática, al momento de remitir sus observaciones, considera que por la importancia, trascendencia o monto del proyecto éste debe ser presentado en sesión de dicha Comisión, la Unidad Técnica en conjunto con el Area Usuaria presentarán el proyecto y se agendará como un punto del orden del día de la siguiente Sesión.
 
-Si alguno de los miembros de la Comisión de Informática, al momento de remitir sus observaciones, considera que por la trascendencia o monto del proyecto éste debe ser presentado en sesión de dicha Comisión, se agendará como punto de la siguiente sesión de la misma.
+4. La Unidad Técnica contará con un plazo de diez días hábiles para emitir el Dictamen a partir de la fecha de recepción de la Solicitud o, en su caso, a partir de la fecha de recepción del documento que subsane la falta de información u omisiones detectadas.
 
-4. La Unidad presentará ante la Comisión de Informática, el proyecto de Dictamen de aquellas adquisiciones y/o contrataciones que por su importancia, trascendencia institucional o monto, requieran ser observadas y analizadas en el pleno de dicha Comisión.
+5. En los casos en que el proyecto de Dictamen sea revisado en el pleno de la Comisión de Informática, la Unidad contará con un plazo de 5 días hábiles posteriores a la fecha de la sesión en la cual fue presentado el proyecto, para la emisión del Dictamen.
 
-5. La Unidad contará con un plazo de diez días hábiles para emitir el Dictamen a partir de la fecha de recepción del Oficio-Solicitud o en su caso, a partir de la fecha de recepción del documento que subsane la falta de información u omisiones detectadas, siempre y cuando hayan sido debidamente atendidas las observaciones de los miembros de la Comisión de Informática.
+6. La Unidad Técnica hará llegar el Dictamen al Area Usuaria a través de oficio por escrito, con copia a la DEA.
 
-6. En los casos en que el proyecto de Dictamen sea revisado en el pleno de la Comisión de Informática, la Unidad contará con un plazo de 5 días hábiles posteriores a la fecha de la sesión en la cual fue presentado el proyecto, para la emisión del Dictamen.
+7. El Area Usuaria podrá dar inicio a su trámite para la adquisición de los Bienes considerados, una vez que cuente con el Dictamen solicitado, de acuerdo a la normatividad administrativa vigente.
 
-7. La Unidad deberá presentar ante la Comisión de Informática reportes trimestrales de los Dictámenes emitidos.
+8. La Unidad Técnica deberá presentar ante la Comisión de Informática reportes trimestrales de los Dictámenes emitidos.
+
+9. La DEA deberá presentar ante la Comisión de Informática reportes trimestrales de las adquisiciones y/o contrataciones de los Bienes y Servicios Informáticos solicitados, indicando la descripción del Bien y/o Servicio, número de Dictamen emitido y costo de adquisición y/o contratación.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2005)</small>
 
 Artículo 11
 
-Para el Dictamen de Desincorporación
+Elaboración y emisión del Dictamen para la desincorporación de Bienes Informáticos
 
-1. Para la elaboración y emisión del Dictamen de Desincorporación, la Unidad analizará la información presentada por el Area Usuaria y elaborará el Dictamen de Desincorporación, mencionando la procedencia o improcedencia para la desincorporación de los Bienes Informáticos en cuestión.
+1. Para la elaboración y emisión del Dictamen, la Unidad Técnica analizará la información presentada por el Area Usuaria y emitirá el Dictamen, señalando la procedencia o improcedencia para la desincorporación de Bienes Informáticos y mencionando, en su caso, las adecuaciones que deban hacerse o las razones de la improcedencia.
 
-2. La Unidad hará del conocimiento de los miembros de la Comisión de Informática, el proyecto de Dictamen de Desincorporación para que, en su caso, en un plazo no mayor a tres días hábiles remitan sus observaciones.
+2. El Dictamen para la desincorporación de Bienes Informáticos, se emitirá en función de su vigencia tecnológica, y en su caso considerando los costos de mantenimiento y/o reparación de los Bienes en cuestión.
 
-Si alguno de los miembros de la Comisión de Informática, al momento de remitir sus observaciones, considera que por la trascendencia del proyecto de desincorporación éste debe ser presentado en sesión de dicha Comisión, se agendará como punto de la siguiente sesión de la misma.
+3. La Unidad Técnica hará del conocimiento de los miembros de la Comisión de Informática, el proyecto de Dictamen para que, en su caso, en un plazo no mayor a tres días hábiles remitan sus observaciones.
 
-3. La Unidad presentará ante la Comisión de Informática, el proyecto de Dictamen de Desincorporación de aquellos Bienes Informáticos que por su importancia o trascendencia institucional requieran ser observados y analizados en el pleno de dicha Comisión.
+Si alguno de los miembros de la Comisión de Informática, al momento de remitir sus observaciones, considera que por la importancia o trascendencia del proyecto éste debe ser presentado en sesión de dicha Comisión, la Unidad Técnica en conjunto con el Area Usuaria presentarán el proyecto y se agendará como un punto del orden del día de la siguiente sesión.
 
-4. La Unidad notificará mediante oficio al área usuaria, el plazo en el cual le hará llegar el Dictamen de Desincorporación solicitado. Este plazo dependerá de la cantidad y ubicación de los Bienes Informáticos que se pretenden desincorporar del inventario del Instituto.
+4. La Unidad Técnica notificará mediante oficio por escrito al Area Usuaria, el plazo en el cual le hará llegar el Dictamen de Desincorporación solicitado. Este plazo dependerá de la cantidad y ubicación de los Bienes Informáticos que se pretenden desincorporar del inventario del Instituto.
 
-5. La Unidad deberá presentar ante la Comisión de Informática reportes trimestrales de los Dictámenes de Desincorporación emitidos.
+5. La Unidad Técnica hará llegar el Dictamen al Area Usuaria a través de oficio por escrito, con copia a la DEA.
+
+6. El Area Usuaria podrá dar inicio a su trámite para la desincorporación de los Bienes considerados, una vez que cuente con el Dictamen solicitado y de acuerdo con la normatividad administrativa vigente en la materia y conforme a los acuerdos que emitan los comités correspondientes.
+
+7. La Unidad Técnica deberá presentar ante la Comisión de Informática reportes trimestrales de los Dictámenes de Desincorporación emitidos.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -324,3 +362,39 @@ CUARTO.- Publíquese en el Diario Oficial de la Federación y en la Gaceta del I
 QUINTO.- El Secretario Ejecutivo editará a la brevedad posible el número de ejemplares de este Reglamento que se estimen necesarios.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 24 de octubre de 2001.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 19 DE JULIO DE 2005.
+
+PRIMERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+SEGUNDO.- Para los efectos previstos en el artículo 5, párrafo 2 del presente Reglamento, la Unidad Técnica presentará en la sesión ordinaria de la Comisión de Informática, inmediata siguiente a la publicación del presente acuerdo, los criterios específicos para la emisión del Dictamen de Procedencia Técnica.
+
+TERCERO.- La divulgación y distribución del presente Reglamento se hará extensiva a todo el personal del Instituto, una vez aprobado y publicado oficialmente.
+
+CUARTO.- Se deroga el Acuerdo del Consejo General del Instituto Federal Electoral por el que se aprueba el Reglamento que establece los lineamientos para la obtención del dictamen de procedencia técnica para la adquisición y desincorporación de bienes y la contratación de servicios informáticos, publicado en el Diario Oficial de la Federación el 6 de noviembre de 2001.
+
+QUINTO.- Las modificaciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+ANEXO
+
+UNIDAD DE SERVICIOS DE INFORMATICA
+
+CRITERIOS ESPECIFICOS PARA LA EMISION DEL DICTAMEN DE PROCEDENCIA TECNICA
+
+OBJETIVO
+
+Establecer los criterios a considerar por parte de la Unidad de Servicios de Informática para la emisión del Dictamen de Procedencia Técnica para la Adquisición de Bienes y la Contratación de Servicios Informáticos.
+
+CONSIDERACIONES
+
+1. Serán dictaminados aquellos Bienes y Servicios Informáticos con base en las consideraciones de la siguiente tabla:
+
+(VEASE ARCHIVO ANEXO)
+
+2. Para el caso de adquisición de Bienes Informáticos no se deberá adquirir componentes, partes, periféricos y refacciones para ensamblar equipos de cómputo.
+
+3. No se deberá realizar la adquisición de tarjetas principales para computadora (motherboard) y/o procesadores para la actualización de equipos de cómputo.
+
+4. Para aquellos Bienes Informáticos que su costo sea menor a $3,000 y sus características técnicas no estén publicadas en la página de Intranet del Instituto, el Area Usuaria deberá solicitar la emisión del Dictamen de Procedencia Técnica.
