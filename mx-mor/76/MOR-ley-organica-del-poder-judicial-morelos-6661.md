@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2001-05-23"
+last_updated: "2005-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -223,7 +223,7 @@ Los acuerdos del Pleno serán tomados por mayoría de votos, salvo que la ley de
 
 Corresponde al Pleno del Tribunal:
 
-I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejorar la organización de los Tribunales, la Legislación Civil y Penal, los Procedimientos Judiciales y en general, los ordenamientos relacionados con la mejor administracion de justicia;
+I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejorar la organización de los Tribunales, la Legislación Civil y Penal, los Procedimientos Judiciales y en general, los ordenamientos relacionados con la mejor administración de justicia;
 
 II.- Conocer de los juicios que se instruyan a los funcionarios mencionados en el artículo 134 de la Constitución Política Local a quienes el Congreso hubiere declarado que ha lugar a formación de causa, conforme al procedimiento señalado en el artículo 136 de la Constitución del Estado;
 
@@ -277,7 +277,7 @@ XXVI.- Las demás que le confieran las leyes.
 
 ###### ARTICULO 30.
 
-El Pleno del Tribunal celebrará las sesiones ordinarias y extraordinarias que se requieran, previa convocatoria del Presidente a iniciativa propia o a solicitud de dos o mas Magistrados. Serán sesiones ordinarias las que se celebren para tratar los asuntos contemplados en las fracciones VIII, IX, XII, XIII, XVII, XVIII, XIX, XXI, XXII, XXIV y XXV del artículo anterior. Todas las demás serán extraordinarias.
+El Pleno del Tribunal celebrará las sesiones ordinarias y extraordinarias que se requieran, previa convocatoria del Presidente a iniciativa propia o a solicitud de dos o más Magistrados. Serán sesiones ordinarias las que se celebren para tratar los asuntos contemplados en las fracciones VIII, IX, XII, XIII, XVII, XVIII, XIX, XXI, XXII, XXIV y XXV del artículo anterior. Todas las demás serán extraordinarias.
 
 ###### ARTICULO 31.
 
@@ -619,7 +619,7 @@ I.- Los Ayuntamientos;
 
 II.- El Director de Prevención y Readaptación Social y demás servidores públicos designados por esa dirección;
 
-III.- Los miembros de las corporaciones policiacas Estatales y municipales, cualquiera que sea su denominación;
+III.- Los miembros de las corporaciones policíacas Estatales y municipales, cualquiera que sea su denominación;
 
 IV.- El Director del Registro Público de la Propiedad y del Comercio;
 
@@ -1673,7 +1673,9 @@ I.- Abstenerse, sin causa justificada, de dictar las resoluciones en los negocio
 
 II.- Dejar de concluir sin causa justificada, dentro de los términos de la ley, la instrucción de los procesos de su conocimiento;
 
-III.- Dictar resoluciones o trámites infundados o notoriamente innecesarios, que sólo tiendan a retardar el procedimiento;
+> <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
+
+III.- Dictar resoluciones o trámites infundados, notoriamente innecesarios o contra constancias de autos;
 
 IV.- Admitir fianzas o contrafianzas en los casos que prescriban las leyes, de personas que no acrediten suficientemente su solvencia;
 
@@ -1687,13 +1689,49 @@ VIII.- Decretar un embargo, o ampliación de él, sin que se reúnan los requisi
 
 IX.- Dejar de concurrir o abandonar, sin causa justificada, sus labores oficiales;
 
-X.- No seguir el orden numérico de las listas autorizadas para la designación de auxiliares de la administración de justicia;
+> <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
+
+X.- No respetar los mecanismos establecidos por el Consejo de la Judicatura del Estado para la designación de auxiliares de la administración de justicia;
 
 XI.- Dedicar a los servidores de la administración de justicia de su dependencia, al desempeño de labores ajenas a las funciones oficiales;
 
 XII.- Concurrir a sus labores bajo el efecto de algún estupefaciente o producto prohibido por la ley, salvo el caso de prescripción médica; y
 
-XIII.- Concurrir a sus labores en estado de intoxicación etílica.
+> <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
+
+XIII.- Concurrir a sus labores en estado de intoxicación etílica o bajo la influencia de enervantes;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XIV.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XV.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XVI.- Desobeceder (sic) injustificadamente las circulares y ordenes expedidas por el Tribunal Superior de Justicia y Consejo de la Judicatura Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XVII.- Tratar al público o a sus compañeros de trabajo, con desatención o despotismo;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XVIII.- Asignar a los servidores públicos a su cargo, labores ajenas a sus funciones;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XIX.- Abstenerse de revisar de oficio las actuaciones de sus secretarios, ejecutores y notificadores en los casos que ordena la ley;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XX.- Las establecidas en el artículo 27 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, en lo que no sean contrarias a la naturaleza de la función jurisdiccional; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+XXI.- Las demás que determinen otras leyes u ordenamientos aplicables.
 
 ###### ARTICULO 184.
 
@@ -1705,13 +1743,27 @@ Se consideran como faltas de los miembros del Consejo de la Judicatura Estatal, 
 
 Si la falta se cometiere porque alguna de las Salas del Tribunal no dicte sus resoluciones dentro del termino legal, solamente será responsable el Magistrado Ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás Magistrados; y cualquiera de los tres será responsable si habiéndose presentado la ponencia correspondiente, no concurriere a la discusión del negocio o no firmare la sentencia dentro del mismo plazo legal, sin causa justificada en uno y otros casos.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 186.
 
 Son faltas de los Secretario (sic) de Acuerdos:
 
-I.- No cumplir con las atribuciones que establecen los artículos 49, 51 y 93 de esta ley; y
+I.- Dar cuenta, fuera del término legal, con los oficios, promociones de las partes y documentos oficiales dirigidos al juez;
 
-II.- Las demás que señale la ley.
+II.- Retardar la entrega de los expedientes para su notificación personal o su diligenciación;
+
+III.- Rehusarse a mostrar los expedientes a las partes, cuando lo soliciten o cuando se hubiera publicado en el boletín judicial del día la resolución correspondiente;
+
+IV.- Descuidar el trámite o la conservación de los expedientes, procesos, tocas, escritos, documentos, objetos y valores que tengan a su cargo;
+
+V.- Abstenerse de dar cuenta a su superior de las faltas u omisiones que hubieren observado en el personal de su oficina;
+
+VI.- Asentar en autos, las certificaciones que procedan de oficio o por mandato judicial, sin sujetarse a los plazos señalados en la ley o abstenerse de hacerla;
+
+VII.- No cumplir con las atribuciones en el ámbito de su competencia de lo que establecen los artículos 49, 51 y 93 de esta ley; y
+
+VIII.- Las demás que señalen otras leyes u ordenamientos aplicables.
 
 ###### ARTICULO 187.
 
@@ -1725,7 +1777,15 @@ III.- Hacer notificaciones, citaciones o emplazamientos, por cédula o instructi
 
 IV.- Practicar embargos, aseguramientos o retención de bienes notoriamente desproporcionados, o bien a personas físicas o morales que no sean las designadas en la resolución; y
 
-V.- Asentar en sus constancias o diligencias actos o hechos falsos.
+V.- Asentar en sus constancias o diligencias actos o hechos falsos;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+VI.- Incumplir con las atribuciones establecidas en el artículo 94 de la presente ley;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+VII.- Las demás establecidas en otras leyes u ordenamientos aplicables.
 
 ###### ARTICULO 188.
 
@@ -1795,11 +1855,67 @@ IV.- Suspensión del cargo hasta por un mes;
 
 V.- Destitución del cargo, y en su caso, consignación ante la autoridad competente.
 
-La suspensión por más de cinco días y la destitución del cargo, sólo podrán decretarse por el Consejo de la Judicatura Estatal.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+
+VI.- Inhabilitación temporal de uno a cinco años para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
+
+La suspensión por más de cinco días, la destitución del cargo, la consignación ante la autoridad competente y la inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público solo podrán decretarse por el Consejo de la Judicatura Estatal.
+
+> <small>(REFORMADO, P.O.20 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 195.
 
 Para la aplicación de las sanciones se tomará en cuenta la gravedad de la falta cometida.
+
+I.- Se considerarán como faltas graves el incumplimiento de las obligaciones previstas en:
+
+a).- El artículo 27 fracciones VII a IX y XI de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+
+b).- El artículo 49, fracciones I a III y VI a IX de esta ley;
+
+c).- El artículo 50 fracciones II, IV, V y VI del presente ordenamiento;
+
+d).- El artículo 93 fracciones VI, IX, XI y XIV de esta ley; y
+
+e).- El artículo 183 de la presente ley, con excepción de las fracciones XVII y XVIII.
+
+II.- Igualmente serán consideradas como faltas graves el incumplimiento de las atribuciones a que se refieren las fracciones V a VIII del artículo 51 de esta ley.
+
+La destitución e inhabilitación del cargo sólo procederán cuando los servidores públicos incurran en una causa de responsabilidad calificada como grave en los términos del presente ordenamiento o cuando reincidan en una causa de responsabilidad no grave sin haber atendido a las observaciones o amonestaciones que se les hubieren realizado.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
+
+###### ARTICULO 195 Bis.
+
+Las sanciones aludidas en el artículo que precede, se impondrán tomando en consideración los siguientes factores:
+
+I.- La gravedad de la falta cometida y la conveniencia de suprimir prácticas viciosas en el despacho de los asuntos;
+
+II.- Las circunstancias socioeconómicas del servidor público;
+
+III.- El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+IV.- Las condiciones exteriores y los medios de ejecución;
+
+V.- La antigüedad en el servicio;
+
+VI.- La reincidencia en la comisión de faltas; y
+
+VII.- En su caso, el monto del beneficio, daño o perjuicio económico causado, así como la gravedad de la interrupción o suspensión del servicio a su cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
+
+###### ARTICULO 195.
+
+Ter.- Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de la presentación de la denuncia que corresponda. En ambos casos las actuaciones realizadas por la Visitaduría o por el Consejo de la Judicatura Estatal, encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
+
+###### ARTICULO 195
+
+Quáter.- En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
 ###### ARTICULO 196.
 
@@ -1894,3 +2010,11 @@ P.O. 23 DE MAYO DE 2001.
 PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE JULIO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Remítase al titular del Poder Ejecutivo, para los efectos legales conducentes. Recinto Legislativo a los cinco días del mes de julio de dos mil cinco.
