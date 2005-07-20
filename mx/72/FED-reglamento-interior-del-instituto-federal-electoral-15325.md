@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-15325"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-13"
-last_updated: "2003-09-24"
+last_updated: "2005-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-11-30"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2005.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 13 de diciembre de 1999.
 
@@ -1145,7 +1145,7 @@ e) Coadyuvar en el proceso de insaculación de ciudadanos para la selección de 
 
 f) Dirigir y supervisar la investigación, análisis y preparación de material didáctico que requieren los programas de Capacitación Electoral y Educación Cívica;
 
-g) Planear, dirigir y supervisar el establecimiento y funcionamiento de la biblioteca del Instituto y de las bibliotecas estatales y distritales;
+g) (DEROGADO, D.O.F. 20 DE JULIO DE 2005)
 
 h) Promover la celebración de convenios con otras instituciones con la finalidad de divulgar la cultura democrática y la educación cívica;
 
@@ -2012,3 +2012,27 @@ TERCERO.- ESTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL
 D.O.F. 24 DE SEPTIEMBRE DE 2003.
 
 Unico.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F 20 DE JULIO DE 2005.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Unidad de Enlace contará con treinta días contados a partir de la aprobación del presente Reglamento, para elaborar el formato a que se refiere el artículo 6, párrafo 10.
+
+Tercero.- Los órganos del Instituto Federal Electoral contarán con treinta días contados a partir de la aprobación del presente Reglamento, para designar al funcionario que fungirá como enlace de transparencia ante los órganos competentes en materia de transparencia y acceso a la información, de conformidad con lo establecido en el artículo 7, párrafo 3.
+
+Cuarto.- La Junta General Ejecutiva deberá aprobar la designación del servidor del Instituto Federal Electoral que formará parte del Comité de Información, a propuesta que le presente la Secretaría Ejecutiva, en la siguiente sesión ordinaria a la aprobación del presente Reglamento.
+
+Quinto.- El Comité de Información establecerá los criterios específicos y Lineamientos en materia de información pública, clasificación y desclasificación, datos personales y organización de archivos y bibliotecas, dentro de los ciento veinte días hábiles siguientes a la fecha de aprobación del presente Reglamento.
+
+Sexto.- Los acuerdos emitidos en materia de difusión de información y transparencia por el Consejo General y la Junta General Ejecutiva seguirán siendo aplicables. Sólo se entenderá derogado aquello que se oponga a este Reglamento.
+
+Séptimo.- Con motivo de la aprobación del presente Reglamento, la Red Nacional de Bibliotecas estará adscrita a la Unidad Técnica, por lo que se deroga lo dispuesto en el artículo 47, párrafo 1, inciso g) del Reglamento Interior del Instituto Federal Electoral.
+
+Octavo.- De manera voluntaria, los partidos políticos y agrupaciones políticas nacionales podrán hacer del conocimiento del Instituto Federal Electoral, para que se publique en su portal de Internet, su catálogo de información pública así como los índices de información reservada y confidencial, dentro de los noventa días hábiles siguientes a la fecha de aprobación del presente Reglamento.
+
+Noveno.- Los órganos del Instituto Federal Electoral contarán con treinta días contados a partir de la aprobación del presente Reglamento, para remitir a la Unidad de Enlace el listado actualizado de los sistemas de datos personales que tengan en su poder.
+
+Décimo.- Los titulares de la Unidad de Enlace, la Red Nacional de Bibliotecas, el Archivo Institucional y el Centro Metropolitano IFETEL serán designados conforme a lo previsto en el Acuerdo del Consejo General del Instituto Federal Electoral por el que se crea la Unidad Técnica de Servicios de Información y Documentación como Unidad Técnica Especializada adscrita a la Secretaría Ejecutiva.
+
+Décimo primero.- La Unidad Técnica emitirá el manual a que se refiere el artículo 54, párrafo 2 del presente Reglamento, a más tardar dentro de los noventa días hábiles siguientes a la designación de su titular.
