@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2004-09-15"
+last_updated: "2005-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2005.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -55,6 +55,62 @@ El Estado de Morelos, es libre, Soberano e Independiente. Con los límites geogr
 El Estado de Morelos reconoce y asegura a todos sus habitantes, el goce de las garantías individuales y sociales contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123 de la Constitución Fundamental de la República y su legislación derivada.
 
 En el Estado de Morelos se reconoce como una extensión de la libertad de pensamiento, el derecho de todo individuo para poder acceder a la información pública sin más restricción que los que establezca la intimidad y el interés público de acuerdo con la ley de la materia, así como el secreto profesional, particularmente el que deriva de la difusión de los hechos y de las ideas a través de los medios masivos de comunicación.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
+
+###### Artículo 2
+
+BIS.- El Estado de Morelos tiene una composición pluriétnica, pluricultural y multilingüística, sustentada originalmente en sus pueblos y comunidades indígenas. Reconoce la existencia histórica y actual en su territorio de los pueblos y protege también los derechos de las comunidades asentadas en ellos por cualquier circunstancia.
+
+El Estado reconoce y garantiza el derecho a la libre determinación de sus pueblos y comunidades indígenas, ejercida en sus formas internas de convivencia y organización, sujetándose al marco constitucional de autonomía que asegure la unidad nacional y estatal.
+
+Esta Constitución establece sus derechos y obligaciones conforme a las bases siguientes:
+
+I. El Estado reconoce a los pueblos indígenas su unidad, lenguas, cultura y derechos históricos, manifestados en sus comunidades indígenas a través de su capacidad de organización;
+
+II. Queda prohibida toda discriminación que, por origen étnico o cualquier otro motivo, atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como su desarrollo comunitario;
+
+III. Las comunidades integrantes de un pueblo indígenas (sic) son aquellas que forman una unidad política, social, económica y cultural asentadas en un territorio. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta, además, los criterios etnolingüísticos;
+
+IV. Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse o asociarse en los términos y para los efectos que prevenga la ley;
+
+V. El Estado coadyuvará en la promoción y enriquecimiento de sus idiomas, conocimientos y todos los elementos que conforman su identidad cultural;
+
+VI. La conciencia de su identidad étnica y su derecho al desarrollo deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán, en última instancia, a este reconocimiento;
+
+VII. En los términos que establece la Constitución Federal y demás leyes de la materia, dentro de los ámbitos de competencia del Estado y los Municipios, los pueblos y comunidades indígenas tendrán derecho y obligación de salvaguardar la ecología y el medio ambiente, así como preservar los recursos naturales que se encuentren ubicados en sus territorios, en la totalidad del hábitat que ocupan o disfrutan, además tendrán preferencia en el uso y disfrute de los mismos;
+
+VIII. Se garantizará a los indígenas el efectivo acceso a la justicia, tanto municipal como estatal. Para garantizar este derecho en la fase preventiva o ejecutiva en los juicios y procedimientos en que sean parte, individual o colectivamente, se proveerá lo necesario en materia de prevención, procuración, administración de justicia y ejecución de sanciones y medidas de seguridad, tomando en consideración sus usos, costumbres y especificidades culturales;
+
+IX. Los pueblos y comunidades indígenas aplicarán internamente sus propios sistemas normativos comunitarios en la regulación y solución de conflictos internos sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando las garantías individuales, los derechos humanos, así como la dignidad e integridad de la mujer;
+
+X. Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de igualdad frente a los varones, respetando el pacto federal y la soberanía del Estado. En términos de la fracción anterior;
+
+XI. La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos;
+
+XII. De conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, con la participación de las comunidades, establecerán las instituciones y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución Federal y la presente Constitución refieren, así como establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
+
+a) Impulsar al desarrollo regional y Local:
+
+b) Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media y superior;
+
+c) Establecer un sistema de becas para los estudiantes indígenas en todos los niveles, así como definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, con apoyo de las leyes en la materia y en consulta con las comunidades indígenas, e impulsar el respeto y el conocimiento de las diversas culturas existentes en la Nación;
+
+d) Acceso efectivo a todos los niveles de salud, con aprovechamiento, promoción y desarrollo de la medicina tradicional;
+
+e) Mejoramiento de la vivienda y ampliación de cobertura de todos los servicios sociales básicos;
+
+f) Aplicación efectiva de todos los programas de desarrollo, promoción y atención de la participación de la población indígena;
+
+g) Impulso a las actividades productivas y al desarrollo sustentable de las comunidades indígenas;
+
+h) Propiciar la incorporación de las mujeres indígenas en el desarrollo de sus comunidades, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones en la vida comunitaria;
+
+i) Establecimiento, desarrollo e impulso de políticas públicas para la protección de los migrantes indígenas y sus familias, transeúntes, residentes no originarios y originarios del Estado de Morelos;
+
+j) Consulta a los pueblos y comunidades indígenas para la elaboración de los planes estatal y municipales sobre el desarrollo integral, y
+
+k) El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas, en los presupuestos de egresos que aprueben, para cumplir con las disposiciones de este artículo, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia, a través de la Comisión de Asuntos Indígenas de los ayuntamientos.
 
 ### CAPITULO II.
 
@@ -968,9 +1024,9 @@ XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empr
 
 XLVII.- Por conducto del Organismo Superior de Auditoría Gubernamental, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo, en su caso con los programas financieros o de deuda pública, determinando las responsabilidades que en su caso procedan.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
-XLVIII.- Legislar dentro del ámbito de su competencia sobre la materia de Asentamientos Humanos, Regularización de la Tenencia de la Tierra, Reservas Ecológicas, Territoriales y Utilización del Suelo. Asimismo, legislar sobre Planeación Estatal del Desarrollo Económico y Social del Estado y sobre Programación, Promoción, Concertación y Ejecución de Acciones de Orden Económico.
+XLVIII.- Legislar dentro del ámbito de su competencia y en lo que no este expresamente reservado a la Federación, sobre la materia de derechos, desarrollo, cultura y educación de las comunidades indígenas, asentamientos humanos, regularización de la tenencia de la tierra, reservas ecológicas, territoriales y utilización del suelo. Asimismo, legislar sobre planeación estatal del desarrollo económico y social del estado y sobre programación, promoción, concertación y ejecución de acciones de orden económico.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1104,9 +1160,13 @@ El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Pod
 
 El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Magistrados del Tribunal Estatal Electoral, al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
+
 ###### Artículo 47.
 
-Los Proyectos de Leyes o Decretos aprobados por el Congreso se remitirán al Ejecutivo, quien si no tuviera observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo todo Proyecto no devuelto al Congreso, con observaciones, dentro de diez días útiles.
+Los Proyectos de Leyes o Decretos aprobados por el Congreso se remitirán al Ejecutivo, quien si no tuviera observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones al Congreso dentro de diez días siguientes.
+
+Si hubiese vencido el plazo que el Ejecutivo tiene para formular las observaciones a que se refiere el párrafo anterior y no las hubiere hecho, el decreto o ley de que se trate, será considerado promulgado y el Presidente de la Mesa Directiva, del Congreso del Estado, deberá ordenar su inmediata publicación en el Periódico Oficial, del Gobierno del Estado.
 
 ###### Artículo 48.
 
@@ -1556,11 +1616,13 @@ III.- Ser de reconocida honorabilidad y no haber sido condenado por delito inten
 
 Para ser Consejero Jurídico, se deberá reunir los mismos requisitos que esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
 
 ###### Artículo 76.
 
-Todos los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán ser suscritos por el Secretario del Despacho encargado del Ramo a que el asunto corresponda. Las Leyes y Decretos Legislativos deberán ser firmados además por el Secretario de Gobierno.
+Todos los decretos, reglamentos y acuerdos administrativos del Gobernador del Estado, deberán ser suscritos por el Secretario de Despacho encargado del ramo a que el asunto corresponda.
+
+El decreto promulgatorio que realice el titular del Ejecutivo del Estado respecto de las leyes y decretos legislativos, deberá ser refrendado únicamente por el Secretario de Gobierno.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -2102,9 +2164,9 @@ Los Magistrados deberán cumplir con la presentación oportuna de sus declaracio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE SU HACIENDA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2114,9 +2176,9 @@ DEL MUNICIPIO LIBRE.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V.
+### CAPITULO VI.
 
-DE SU HACIENDA.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2288,7 +2350,7 @@ X.- Cuando dos o más centros urbanos situados en territorios municipales del Es
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO XI. (SIC)
+### CAPITULO III.
 
 DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
@@ -2316,11 +2378,11 @@ VII.- El padre en concurrencia con el hijo; el esposo o esposa con el cónyuge, 
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I.
+### CAPITULO IV.
 
-DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
+DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
+ADICIONADO, P.O. 20 DE JULIO DE 2005)
 
 ###### Artículo 118.
 
@@ -2332,7 +2394,7 @@ I.- Determinar las bases generales de la administración pública municipal y de
 
 II.- Las normas de aplicación general para celebrar los convenios relativos a la coordinación o asociación con otros Municipios del Estado, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; así como, cuando a juicio del Ayuntamiento sea necesaria la celebración de convenios con el Poder Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
-III.- El modo y términos en que se autorice la asunción de algunas de las funciones relacionadas a la administración de alguno de los ingresos públicos municipales, por el Ejecutivo del Estado; o bien, las funciones relacionadas a la administración de alguno de los ingresos estatales por el Ayuntamiento en el ámbito territorial y jurisdiccional del municipio;
+III.- El modo y términos en que se autorice la asunción de algunas de las funciones relacionadas a la administración de alguno de los ingresos públicos municipales, por el Ejecutivo del Estado; o bien, las funciones relacionadas a la administración de alguno de los ingresos estatales por el Ayuntamiento en el ámbito territorial y jurisdiccional del municipio,
 
 IV.- El modo y términos en que el Ayuntamiento puede celebrar con el Poder Ejecutivo del Estado, a efecto de que éste último asuma la prestación de alguna de sus funciones, la ejecución y operación de obras; incluida la asunción del Ayuntamiento de alguna de las funciones del Poder Ejecutivo del Estado o la ejecución y operación de obras Estatales en el ámbito territorial del Municipio;
 
@@ -2344,11 +2406,11 @@ VII.- Los procedimientos mediante los cuales se resolverán los conflictos que s
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 118
 
@@ -2379,6 +2441,12 @@ El Congreso del Estado expedirá la Ley o Decreto de Ley respectiva, en la que s
 DE LA ADMINISTRACION DEL ESTADO.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO X DEL TITULO SEXTO], P.O. 11 DE AGOSTO DE 2003)</small>
+
+### CAPITULO II.
+
+DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 119.
 
@@ -2478,7 +2546,7 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 20 DE JULIO DE 2005)</small>
 
 ###### Artículo 133
 
@@ -2489,6 +2557,14 @@ Dichas declaraciones serán: de situación patrimonial al inicio de su gestión 
 Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
 La presentación se hará ante el propio Congreso del Estado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2005)</small>
+
+###### Artículo 133
+
+TER.- La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cauce en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley de la materia. Para tal efecto, el Estado y los Municipios deberán incluir en sus respectivos presupuestos de egresos una partida para atender esta responsabilidad.
+
+El pago de la indemnización se efectuará después de seguir los procedimientos que la ley establezca, el cual estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -2930,11 +3006,11 @@ P.O. 20 DE JULIO DE 1988.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 1, DE FEBRERO DE 1989.
+P.O. 1 DE FEBRERO DE 1989.
 
 ###### ARTICULO PRIMERO.
 
-Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I de la Constitución Política Local, y 81, de la Ley Orgánica del Congreso del Estado.
+Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I, de la Constitución Política Local, y 81, de la Ley Orgánica del Congreso del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -3293,3 +3369,67 @@ PRIMERO.- Aprobada que sea la presente reforma en los términos de lo dispuesto 
 SEGUNDO.- El presente decreto iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del momento en que el Congreso del Estado haga el cómputo de los votos de los ayuntamiento (sic) y la declaratoria correspondiente.
 
 TERCERO.- Dando el cómputo un resultado aprobatorio, remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE JULIO DE 2005.
+
+DECRETO No. 725
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente proyecto de Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia, a partir de la aprobación del Constituyente Permanente, en los términos de lo dispuesto por la fracción II del numeral mencionado en el artículo que precede, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+Se concede al Congreso del Estado de Morelos un plazo máximo de noventa días hábiles contados a partir de la entrada en vigor del presente decreto, para que expida la ley reglamentaria de la materia.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de este Decreto, los Poderes del Estado, los Ayuntamientos, los órganos autónomos así como organismos auxiliares y descentralizados, estarán obligados a destinar una partida para dar cumplimiento al mismo, dentro de sus respectivos presupuestos, para el ejercicio fiscal del 2006.
+
+P.O. 20 DE JULIO DE 2005.
+
+DECRETO No. 726
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente proyecto de Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia, a partir de la aprobación del Constituyente Permanente, en los términos de lo dispuesto por la fracción II del numeral mencionado en el artículo que precede, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE JULIO DE 2005.
+
+DECRETO No. 727
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, a partir de la aprobación del Constituyente Permanente, en los términos de lo dispuesto por la fracción II del Artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE JULIO DE 2005.
+
+DECRETO No. 728
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, a partir de la aprobación del Constituyente Permanente, en los términos de lo dispuesto por la fracción II del Artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
