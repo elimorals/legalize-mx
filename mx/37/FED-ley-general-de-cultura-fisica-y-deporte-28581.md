@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2003-02-24"
+last_updated: "2005-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2005.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el lunes 24 de febrero de 2003.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -100,13 +100,9 @@ I. Educación Física: Proceso por medio del cual se adquiere, transmite y acrec
 
 II. Cultura Física: Conjunto de bienes (conocimientos, ideas, valores y elementos materiales) que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
-III. Actividad Física: Actos motores propios del ser humano, realizados como parte de sus
+III. Actividad Física: Actos motores propios del ser humano, realizados como parte de sus actividades cotidianas;
 
-actividades cotidianas;
-
-IV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del
-
-tiempo libre;
+IV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
 V. Deporte: Actividad institucionalizada y reglamentada, desarrollada en competiciones que tiene por objeto lograr el máximo rendimiento, y
 
@@ -976,6 +972,14 @@ Las instancias correspondientes, verificarán y certificarán que los laboratori
 
 Corresponde a la CONADE y a los organismos de los sectores públicos otorgar y promover en el ámbito de sus respectivas competencias, ayudas, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte ajustándose a lo dispuesto en la presente Ley, su Reglamento y en su caso, en la convocatoria correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2005)</small>
+
+La CONADE promoverá y gestionará la constitución de fideicomisos destinados al otorgamiento de un reconocimiento económico vitalicio, a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2005)</small>
+
+La CONADE, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados por los fideicomisos creados para reconocimiento a medallistas olímpicos y paralímpicos.
+
 ###### Artículo 100.
 
 Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto de la CONADE, tendrán por finalidad el cumplimiento de alguno de los siguientes objetivos:
@@ -1297,3 +1301,9 @@ Décimo. Se exhorta al Ejecutivo Federal para que en lo conducente modifique los
 México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara I. Castellanos Cortés, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de febrero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 21 DE JULIO DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
