@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2005-06-01"
+last_updated: "2005-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,69 +19,67 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, EN EL PERIODO DEL 1 DE JULIO AL 31 DE AGOSTO DE CADA AÑO Y DEL 1 DE ABRIL AL 30 DE JUNIO DEL AÑO SIGUIENTE, FRIJOL, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LA REPUBLICA DE NICARAGUA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CARNE DE BOVINO O SU EQUIVALENTE EN GANADO BOVINO EN PIE SUPERIOR O IGUAL A 250 KILOGRAMOS Y QUESO FRESCO, ACONDICIONADO PARA SU VENTA AL POR MENOR, ORIGINARIOS DE LA REPUBLICA DE NICARAGUA.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de junio de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de julio de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 27, 28, 29, 30, 32, 33, 34 y 36 de su Reglamento, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 del Reglamento de la Ley de Comercio Exterior, 34 de la Ley Orgánica de la Administración Pública Federal; y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 30 de abril de 1998 fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
+Que el 30 de abril de 1998, fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
 
-Que el artículo 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que el artículo 3-04, párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
 Que los procedimientos a través de los cuales se asignan los cupos de importación establecidos en el Tratado, son un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
 
 Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, EN EL PERIODO DEL 1 DE JULIO AL 31 DE AGOSTO DE CADA AÑO Y DEL 1 DE ABRIL AL 30 DE JUNIO DEL AÑO SIGUIENTE, FRIJOL, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LA REPUBLICA DE NICARAGUA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR, CARNE DE BOVINO O SU EQUIVALENTE EN GANADO BOVINO EN PIE SUPERIOR O IGUAL A 250 KILOGRAMOS Y QUESO FRESCO, ACONDICIONADO PARA SU VENTA AL POR MENOR, ORIGINARIOS DE LA REPUBLICA DE NICARAGUA
 
 ###### ARTICULO PRIMERO.
 
-El cupo para importar en el periodo del 1 de julio al 31 de agosto de cada año y del 1 de abril al 30 de junio del año siguiente, frijol, excepto para siembra, originario de la República de Nicaragua, con el arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, es el que se determina a continuación:
+Los cupos para importar en el periodo de julio al 30 de junio de los años 2005 a 2006 y 2006 a 2007, carne de bovino o su equivalente en ganado bovino en pie superior o igual a 250 kilogramos, y queso fresco, acondicionado para su venta al por menor, originarios de la República de Nicaragua, con los aranceles-cupo establecidos en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, son los que se determinan a continuación:
 
-Fracción Descripción Monto del cupo
-
-arancelaria (toneladas métricas) (1)
-
-0713.33.02 Frijol, excepto para siembra
-
-0713.33.03 2005/2006 5,014.8
-
-0713.33.99 2006/2007 5,265.5
-
-(1) En el periodo del 1 de julio al 31 de agosto de cada año y del 1 de abril al 30 de junio del año siguiente.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con lo dispuesto en el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de importación a que se refiere el presente Acuerdo, el procedimiento de licitación pública.
+De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios, durante cada periodo anual, de julio al 30 de junio, se aplicará a los cupos de importación a que se refiere el presente instrumento, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-En la licitación pública pueden participar las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cumplan con los requisitos que señalen las bases de la licitación. La oferta deberá ser presentada en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar” adjuntando la documentación que corresponda conforme se señale en las bases de la licitación.
+Podrán solicitar asignación de este cupo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía a través de la Dirección General de Comercio Exterior, hasta agotar el cupo.
 
 ###### ARTICULO CUARTO.
 
-La convocatoria correspondiente, se publicará en el Diario Oficial de la Federación, por lo menos 20 días hábiles antes de que inicie el periodo de registro, y en ella se establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a la que se regirá.
+Para cada año, la primera solicitud de asignación de cupo a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La hoja de requisitos específicos se establece como Anexo al presente instrumento.
 
 ###### ARTICULO QUINTO.
 
-Una vez demostrado el pago de adjudicación correspondiente, del monto para importar dentro del arancel-cuota obtenido en la licitación pública, la Secretaría, a través de la representación federal respectiva, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato "Solicitud de certificados de cupo (obtenido por asignación directa)" SE-03-013-5, adjuntando copia de la factura comercial señalando el monto y del certificado de origen, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-El certificado de cupo deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+Cuando el solicitante haya sido beneficiario de una expedición, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio de por lo menos el 90% de su asignación anterior, anexando copia del pedimento de importación a la solicitud correspondiente.
 
-La vigencia de los certificados será al 31 de agosto de cada año. Los saldos devueltos y no utilizados, al término de la vigencia, serán reexpedidos para ser utilizados en el segundo periodo estacional del cupo, con vigencia del 1 de abril al 30 de junio del año siguiente.
+El certificado de cupo es nominativo e intransferible, y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+
+Para el periodo comprendido de julio de 2005 al 30 de junio de 2006, la vigencia máxima de los certificados será al 30 de junio de 2006.
+
+Para el periodo comprendido del 1 de julio de 2006 al 30 de junio de 2007, la vigencia máxima de los certificados será al 30 de junio de 2007.
 
 ###### ARTICULO SEXTO.
 
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
 
-http://www.cofemertramites.gob.mx/intranet/co_bin_passthrough.asp?coNodes=628257&coMediaID=0000829239, para el caso del formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, y
+Para el formato de solicitud de asignación de cupo (SE-03-011-1):
 
-http://www.cofemertramites.gob.mx/intranet/co_bin_passthrough.asp?coNodes=791607&coMediaID=0000833528, para el caso del formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
+http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905721&num_modalidad=1.
+
+Para el formato de expedición del certificado de cupo (SE-03-013-5):
+
+http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num_modalidad=0.
 
 ###### ARTÍCULO 1.
 
@@ -249,6 +247,28 @@ En aquellos casos de este artículo o en los de la columna “Noruega” del Ap�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2005 y concluirá su vigencia el 30 de junio de 2007.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2007.
 
-México, D.F., a 25 de mayo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+
+ANEXO
+
+SECRETARIA DE ECONOMIA
+
+DIRECCION GENERAL DE COMERCIO EXTERIOR
+
+HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DEL CUPO DE IMPORTACION ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS MEXICANOS Y LA REPUBLICA DE NICARAGUA DE LOS SIGUIENTES PRODUCTOS:
+
+CARNE DE BOVINO O SU EQUIVALENTE EN GANADO BOVINO EN PIE SUPERIOR O IGUAL A 250 KG
+
+Fracciones: 0201.10.01; 0201.20.99; 0201.30.01; 0202.10.01; 0202.20.99; 0202.30.01 y 0102.90.99
+
+QUESO FRESCO, ACONDICIONADO A SU VENTA AL POR MENOR
+
+Fracción: 0406.10.01
+
+Asignación Directa bajo la modalidad de
+
+“Primero en tiempo, primero en derecho“
+
+(VEASE ARCHIVO ANEXO)
