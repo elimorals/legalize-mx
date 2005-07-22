@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-consejos-de-participacion-social-en-la-26402"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-11"
-last_updated: "2004-06-11"
+last_updated: "2005-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LOS CONSEJOS DE PARTICIPACION SOCIAL EN LA EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de octubre de 2002.
 
@@ -65,9 +65,11 @@ VIII.- Consejo Estatal: El Consejo Estatal de Participación Social en la Educac
 
 IX.- Autoridad Educativa: La Secretaría de Educación y Bienestar Social y el Instituto de Servicios Educativos y Pedagógicos de Baja California.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 3.
 
-Los Consejos de Participación Social se abstendrán de intervenir en aspectos laborales de los planteles educativos y en cuestiones políticas o religiosas.
+Los Consejos de Participación Social se abstendrán de intervenir en aspectos laborales de los planteles educativos, y en cuestiones políticas o religiosas, así como de utilizar las instalaciones con el fin de manifestarse e interrumpir o impedir la prestación del servicio educativo.
 
 ###### Artículo 4.
 
@@ -79,17 +81,45 @@ Los cargos de consejeros y secretarios técnicos de los Consejos de Participaci�
 
 ### CAPÍTULO II. DEL CONSEJO ESCOLAR
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 6.
 
-Los Consejos Escolares son órganos consultivos, de orientación, colaboración y apoyo de la Autoridad Educativa en los centros escolares, que tendrán como objeto promover la participación de la comunidad en acciones para elevar la calidad de la educación y ampliar la cobertura de estos servicios educativos con equidad, mejorar el aprovechamiento escolar, lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
+Los Consejos Escolares son órganos consultivos de orientación, gestión, colaboración y apoyo de la Autoridad Educativa en los centros escolares, que tendrán como objeto promover la participación de la comunidad en acciones para elevar la calidad de la educación y ampliar la cobertura de estos servicios educativos con equidad, mejorar el aprovechamiento escolar, así como lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 7.
 
-El Consejo Escolar es la base del Sistema de Participación Social, los cuales deben existir en todas las escuelas de nivel básico en el Estado.
+Los Consejos Escolares son la base del Sistema de Participación Social, los cuales deben existir en todas las escuelas de educación básica en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 8.
 
-Son atribuciones del Consejo Escolar las que le señale la Ley General, la Ley Estatal y demás ordenamientos aplicables.
+El Consejo Escolar tendrá las siguientes atribuciones:
+
+I. Conocer el calendario escolar, las metas educativas, el proyecto educativo del Estado y el avance de las actividades escolares del centro educativo de nivel básico, con el objeto de coadyuvar con el docente a su mejor realización;
+
+II. Conocer los resultados de las evaluaciones que realicen las autoridades educativas;
+
+III. Propiciar la colaboración de docentes y padres de familia para proponer estímulos y reconocimientos de carácter social para alumnos, docentes, directivos, personal de apoyo, padres de familia, así como miembros de la comunidad que destaquen por su contribución al desarrollo del centro educativo de nivel básico;
+
+IV. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
+
+V. Llevar a cabo acciones que impulsen y promuevan la participación, coordinación y difusión necesarias para el cuidado de la salud, medio ambiente, protección civil, emergencias escolares, orientación familiar, cultura de la legalidad, y de gestión de recursos que complementen la educación básica que se imparte en los centros educativos;
+
+VI. Emitir todo tipo de opiniones inherentes a los asuntos pedagógicos de la educación básica en el Estado;
+
+VII. Contribuir a reducir las condiciones adversas que influyan en la educación básica a través de las medidas, acciones o programas susceptibles de implementarse por las autoridades educativas competentes;
+
+VIII. Emitir convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
+
+IX. Presentar ante el Consejo Sectorial, el proyecto escolar a mediano plazo y el plan anual de trabajo con el objeto de que se considere dentro del proyecto educativo del sector;
+
+X. Realizar cualquier tipo de actividad que dentro de su competencia, sea en beneficio de la propia escuela; y
+
+XI. Las demás que le señale la Ley General, la Ley Estatal y los demás ordenamientos aplicables.
 
 ###### Artículo 9.
 
@@ -101,23 +131,31 @@ I.- Cinco miembros de la mesa directiva de la Asociación de Padres de Familia q
 
 II.- El director del centro educativo;
 
-III.- Un docente de la escuela, electo de entre los integrantes de la planta;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+III.- Un docente de la escuela, electo democráticamente de entre los integrantes de la planta;
 
 IV.- Un orientador educativo en el caso de educación secundaria, invitado por el Consejero Presidente;
 
 V.- El representante sindical de los docentes en el plantel;
 
-VI.- Un ex-alumno en los casos de primaria y secundaria, previa invitación del director del centro educativo;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
-VII.- Dos miembros de la comunidad donde se encuentra el centro educativo o del comité de vecinos, invitados por el Consejero Presidente;
+VI.- Un ex-alumno mayor de edad, en los casos de educación primaria y secundaria, previa invitación del director del centro educativo, y en los casos de las escuelas de nueva creación se invitará a un miembro de la comunidad; y
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+VII.- Dos miembros de la comunidad donde se encuentra el centro educativo o del comité de vecinos, que no pertenezcan a la mesa directiva de la Asociación de Padres de Familia, invitados por el Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 El Consejo Escolar por mayoría de votos de sus integrantes designará a su Consejero Presidente, quien durará en su cargo dos años.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 El Consejo Escolar por mayoría de votos de sus integrantes designará al Secretario Técnico de entre sus miembros, y requerirá de la misma votación para removerlo.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 Los miembros del Consejo Escolar deberán nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario.
 
@@ -129,9 +167,11 @@ El Consejo Escolar deberá instalarse dentro de los treinta días naturales sigu
 
 La renovación de los miembros del Consejo Escolar, se realizará dentro del plazo previsto en el artículo anterior. Cuando la permanencia de un consejero derive del desempeño de su encargo, se efectuará la renovación cuando cesen sus funciones.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 12.
 
-Para el registro del Consejo Escolar, el Secretario Técnico deberá llenar el formato del Acta Constitutiva del Consejo Escolar proporcionado por la Autoridad Educativa Estatal, que será firmada por todos los consejeros integrantes y remitirá copia certificada a la Inspección y Supervisión de Zona, y una vez firmada por el supervisor o inspector, la enviará para su registro a la Unidad de Atención a Padres de Familia y Consejos de Participación Social de la Delegación de la Autoridad Educativa en el municipio para su registro correspondiente.
+Para el registro del Consejo Escolar, el Secretario Técnico con apoyo del Director del centro educativo, deberá llenar el formato del Acta Constitutiva del Consejo Escolar proporcionado por la Autoridad Educativa Estatal, que será firmada por todos los consejeros integrantes y remitirá copia a la Inspección o Supervisión de Zona, y una vez firmada por el inspector o supervisor, la enviará al Área de Atención a Consejos Escolares dependientes de Vinculación Social de la Delegación de la Autoridad Educativa en el municipio para su registro correspondiente.
 
 ###### Artículo 13.
 
@@ -153,9 +193,13 @@ b) Presidir las sesiones del Consejo Escolar;
 
 c) Promover la capacitación de los consejeros e informar de los asuntos, así como coordinar los grupos de trabajo;
 
-d) Coordinar y revisar el diseño, seguimiento, ejecución y evaluación del proyecto escolar y plan anual de trabajo;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
-e) Informar a la comunidad educativa de los avances del proyecto de participación social;
+d) Coordinar y revisar el diseño, seguimiento, ejecución y evaluación del plan estratégico de transformación escolar; y del programa anual de trabajo de la dimensión comunitaria, y de participación social;
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+e) Informar a la comunidad educativa de los avances del plan estratégico de transformación escolar; y del programa anual de trabajo de la dimensión comunitaria, y de participación social;
 
 f) Fomentar y fortalecer las relaciones humanas entre los consejeros;
 
@@ -175,7 +219,9 @@ c) Pasar lista de asistencia y verificar el quórum para sesionar;
 
 d) Hacer llegar con oportunidad a los consejeros las actas de las sesiones, programas de trabajo, el orden del día y demás documentación necesaria para el ejercicio de sus funciones;
 
-e) Colaborar con el Consejero Presidente en el seguimiento y coordinación del diseño, ejecución y evaluación del proyecto escolar;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+e) Colaborar con el Consejero Presidente en el seguimiento y coordinación del diseño, ejecución y evaluación del plan estratégico de transformación escolar; y del programa anual de trabajo de la dimensión comunitaria, y de participación social;
 
 f) Recibir y despachar la documentación del Consejo Escolar.
 
@@ -183,17 +229,23 @@ III.- Los consejeros:
 
 a) Asistir y participar en las sesiones del Consejo Escolar con derecho a voz y voto;
 
-b) Integrar los grupos de trabajo;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+b) Integrar y participar en los grupos de trabajo;
 
 c) Coordinar el grupo de trabajo que le asigne el Consejo Escolar;
 
-d) Participar en la elaboración de los planes de trabajo;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+d) Participar en la elaboración y ejecución del programa anual de trabajo de la dimensión comunitaria;
 
 e) Conocer la situación de su escuela, partiendo de las evaluaciones elaboradas por la mesa directiva de la Asociación de Padres de Familia, el Consejo Técnico Consultivo y el Consejo Escolar;
 
 f) Informar al Consejo Escolar de los resultados de los grupos de trabajo;
 
-g) Firmar las actas de las sesiones en las que tenga participación;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+g) Firmar las actas de las sesiones en las tengan participación;
 
 h) Proponer los mecanismos e instrumentos que considere idóneos para el adecuado funcionamiento del Consejo Escolar.
 
@@ -217,13 +269,15 @@ III.- Lugar, día y hora de la sesión;
 
 IV.- Orden del día.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 18.
 
-Para sesionar válidamente se requiere de la presencia de la mayoría de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
+Para sesionar válidamente se requiere de la presencia de la mitad más uno de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
 
-En caso de no reunirse el quórum para sesionar, se emitirá una segunda convocatoria para que dentro de los siguientes cinco días hábiles se realice la sesión, la cual se efectuará con los consejeros que asistan.
+En caso de no reunirse el quórum para sesionar, después de veinte minutos de la hora acordada, se efectuará la reunión con los consejos presentes.
 
-Para la validez de los acuerdos del Consejo Escolar, deberán ser aprobados por la mayoría de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
+Para la validez de los acuerdos del Consejo Escolar, deberán ser aprobados por la mitad más uno de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
 ###### Artículo 19.
 
@@ -241,7 +295,9 @@ III.- Infraestructura.- Se ocupará de apoyar en la gestión, obtención y canal
 
 IV.- Actividades Extraescolares.- Promoverá la oferta de actividades culturales, deportivas y recreativas, aprovechando los programas y las instalaciones que para estos fines tengan los diferentes órdenes de gobierno, instituciones privadas y de asistencia social;
 
-V.- Formación de Padres de Familia y Motivación a la Participación Social.- Promoverá la organización de foros, conferencias y otras actividades que motiven al desarrollo y participación de los padres de familia.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+V.- Motivación a la Participación Social y Fomento de la Cultura de la Legalidad.- Promoverá la organización de foros, conferencias y otras actividades que motiven y fomenten al desarrollo y participación de los padres de familia, alumnos y docentes.
 
 ###### Artículo 21.
 
@@ -249,23 +305,43 @@ El Consejo Escolar podrá constituir grupos de trabajo temporales para conocer d
 
 ### CAPÍTULO III. DEL CONSEJO SECTORIAL
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 22.
 
-Los Consejos Sectoriales son órganos consultivos, de orientación, colaboración y apoyo de la Autoridad Educativa en las delegaciones municipales, que tendrán como objeto promover la participación de la comunidad dentro de dicha circunscripción territorial en acciones para elevar la calidad de la educación y ampliar la cobertura de los servicios educativos con equidad, mejorar el aprovechamiento escolar, lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
+Los Consejos Sectoriales son órganos consultivos, de orientación, gestión, colaboración y apoyo de la Autoridad Educativa en las delegaciones municipales, que tendrán como objeto promover la participación de la comunidad dentro de dicha circunscripción territorial en acciones para elevar la calidad de la educación y ampliar la cobertura de los servicios educativos con equidad, mejorar el aprovechamiento escolar, así como lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
 
 ###### Artículo 23.
 
 El Consejo Sectorial es una estructura operativa intermedia entre los Consejos Escolares y el Consejo Municipal.
 
+> <small>(REFORMADO. P.O, 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 24.
 
-El Consejo Sectorial tendrá las mismas atribuciones establecidas para el Consejo Escolar.
+El Consejo Sectorial tendrá las siguientes atribuciones:
 
-Los consejos sectoriales ejercerán las mismas facultades previstas para los consejeros escolares.
+I. Presentar ante el Consejo Municipal las necesidades de mejoramiento de la infraestructura en cuanto a construcción, rehabilitación y ampliación de escuelas del sector;
+
+II. Fungir como enlace con la autoridad educativa, con las autoridades municipales, consejos escolares y Consejo Municipal;
+
+III. Promover y apoyar actividades de intercambio educativo y cultural, así como colaborar y participar en aspectos cívicos, deportivos y sociales;
+
+IV. Participar en la realización de acciones que permitan impulsar, promover e implementar actividades de salud, medio ambiente, protección civil, seguridad y emergencia escolar en las escuelas del sector;
+
+V. Promover la superación educativa en el ámbito sectorial;
+
+VI. Implementar actividades y acciones tendientes a fomentar y difundir la cultura de la legalidad en las escuelas del sector;
+
+VII Promover actividades de orientación, capacitación y difusión para padres de familia, mismas que contribuyan a fomentar la Participación Social; y
+
+VIII. Las demás que le señale la Ley General, Ley Estatal, y los demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 25.
 
-El Consejo Sectorial, deberá presentar ante el Consejo Municipal un proyecto de mediano plazo y un plan anual de trabajo, con el objeto de que se considere dentro del proyecto educativo del municipio.
+El Consejo Sectorial deberá presentar ante el Consejo Municipal un proyecto de mediano plazo, así como un plan anual de trabajo acorde a los planes de trabajo de cada Consejo Escolar que integran el sector, con el objeto de que se considere dentro del proyecto educativo del municipio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -283,7 +359,9 @@ III.- Un representante por nivel educativo, electo de entre los representantes d
 
 IV.- (DEROGADA, P.O. 11 DE ABRIL DE 2003)
 
-V.- Un docente distinguido que pertenezca al sector, invitado por el Consejero Presidente;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+V.- Un representante por nivel educativo, electo de entre los representantes de los directores;
 
 VI.- Un representante por nivel educativo, electo de entre los supervisores o inspectores según sea el caso;
 
@@ -295,7 +373,7 @@ IX.- Un representante de la Autoridad Municipal en materia de seguridad pública
 
 X.- Un representante de las organizaciones o asociaciones civiles del área de circunscripción del sector, interesadas en la educación, invitado por el Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JULIO DE 2005)</small>
 
 El Consejero Sectorial por mayoría de votos de sus integrantes designará a su Consejero Presidente, quien durará tres años en su encargo.
 
@@ -305,15 +383,19 @@ El Consejo Sectorial tendrá un Secretario Técnico que será designado y removi
 
 Cada uno de los miembros del Consejo Sectorial deberá nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 27.
 
-El Consejo Sectorial deberá instalarse cada tres años, dentro de los cuarenta días naturales siguientes al inicio de cada administración pública municipal, para ello, el Presidente Municipal convocará a los consejeros al acto de instalación del Consejo Sectorial.
+El Consejo Sectorial deberá instalarse cada tres años, dentro de los cincuenta días naturales siguientes al inicio de cada administración pública municipal. Para esto, el Presidente Municipal convocará a los consejeros al acto de instalación del Consejo Sectorial.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 28.
 
-La renovación de los miembros del Consejo Sectorial, se realizará dentro de los cuarenta días naturales siguientes al inicio de cada ciclo escolar.
+La renovación de los miembros del Consejo Sectorial se realizará dentro de los cuarenta y cinco días naturales siguientes al inicio de cada ciclo escolar.
 
-Cuando la permanencia de un consejero derive del desempeño de su encargo, se efectuará la renovación cuando cesen sus funciones.
+Cuando la permanencia de un consejero derive del desempeño de su cargo, se efectuará la renovación cuando cesen sus funciones.
 
 ###### Artículo 29.
 
@@ -325,7 +407,9 @@ Tratándose de escuelas de distintos niveles ubicadas en un mismo poblado que po
 
 Para el registro del Consejo Sectorial se observará lo siguiente:
 
-El Secretario Técnico deberá llenar el formato del Acta Constitutiva del Consejo Sectorial proporcionado por la Autoridad Educativa Estatal, que será firmada por todos los consejeros integrantes y remitirá copia certificada a la Unidad de Atención a Padres de Familia y Consejos de Participación Social de la Delegación de la Autoridad Educativa en el Municipio, para su registro correspondiente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+El Secretario Técnico deberá llenar el formato de Acta Constitutiva del Consejo Sectorial proporcionado por la Autoridad Educativa Estatal, que será firmada por todos los consejeros integrantes y remitirá copia al Área de Atención a Consejos Escolares dependientes de Vinculación Social de la Delegación de la Autoridad Educativa en el Municipio, para su registro correspondiente, asimismo, se enviará copia a la Secretaría Técnica del Consejo Municipal·de Participación Social.
 
 ###### Artículo 31.
 
@@ -357,15 +441,19 @@ En caso de no reunirse el quórum y transcurridos treinta minutos de la hora se�
 
 El Consejo Sectorial sesionará ordinariamente cada cuarenta y cinco días naturales para revisar el avance del plan anual de trabajo y funcionamiento de los grupos de trabajo o para tratar asuntos específicos a petición de sus miembros, y extraordinariamente, cuando así lo determine el Consejero Presidente o, a solicitud de la mayoría de los consejeros.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 36.
 
-Para la validez de los acuerdos del Consejo Sectorial, deberán ser aprobados por la mayoría de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
+Para la validez de los acuerdos del Consejo Sectorial, deberán ser aprobados por la mitad más uno de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 37.
 
-El Consejo Sectorial constituirá grupos de trabajo permanentes y temporales, de acuerdo a sus necesidades y características, que coadyuven en el cumplimiento de su trabajo.
+El Consejo Sectorial constituirá grupos de trabajo con carácter permanente o temporal, de acuerdo a sus necesidades y características, que coadyuven en el cumplimiento de su trabajo.
 
-Los grupos de trabajo que se establezcan sesionarán con la periodicidad que consideren pertinente.
+Los grupos de trabajo permanentes podrán ser los mismos que se establecen en los Consejos Escolares, nombrando un Coordinador para cada grupo.
 
 ###### Artículo 38.
 
@@ -373,9 +461,11 @@ Los grupos de trabajo temporales, serán aquellos que se integren para realizar 
 
 ### CAPÍTULO IV. DE LOS CONSEJOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 39.
 
-Los Consejos Municipales son órganos consultivos, de orientación, colaboración y apoyo de la Autoridad Educativa en los municipios, que tendrán como objeto promover la participación de la comunidad en dicha circunscripción territorial, llevar a cabo acciones que eleven la calidad de la educación; ampliar la cobertura de estos servicios educativos con equidad; mejorar el aprovechamiento escolar, lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
+Los Consejos Municipales son órganos consultivos, de orientación, gestión, colaboración y apoyo de la Autoridad Educativa en los municipios, que tendrán como objeto promover la participación de la comunidad en dicha circunscripción territorial, llevar a cabo acciones que eleven la calidad de la educación, ampliar la cobertura de estos servicios educativos con equidad, mejorar el aprovechamiento escolar, así como lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
 
 El Consejo Municipal es una estructura operativa intermedia entre los Consejos Sectoriales y el Consejo Estatal.
 
@@ -383,15 +473,21 @@ El Consejo Municipal es una estructura operativa intermedia entre los Consejos S
 
 El Consejo Municipal tendrá las siguientes atribuciones:
 
-I.- Gestionar ante el Ayuntamiento y las autoridades educativas el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas y demás proyectos para el desarrollo educativo en el municipio;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+I.- Gestionar ante el Ayuntamiento y las autoridades educativas el mejoramiento de los servicios educativos, la construcción, rehabilitación y ampliación de escuelas, y demás proyectos para el desarrollo educativo en el municipio;
 
 II.- Fungir como enlace con la Autoridad Educativa, con las autoridades municipales y el Consejo Estatal;
 
 III.- Conocer las evaluaciones que realice la Autoridad Educativa, dentro de su circunscripción territorial;
 
-IV.- Dar seguimiento a las actividades de las escuelas públicas e incorporadas de educación básica de su circunscripción;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
-V.- Promover y apoyar actividades de intercambio educativo y cultural, colaborar y participar en aspectos culturales, cívicos, deportivos y sociales;
+IV.- Dar seguimiento a las actividades de las escuelas publicas e incorporadas de educación básica de su circunscripción, partiendo del Plan Anual de Trabajo del Consejo Sectorial de Participación Social;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+V.- Promover y apoyar actividades de intercambio educativo, así como colaborar y participar en aspectos culturales, cívicos, deportivos y sociales;
 
 VI.- Establecer la coordinación de escuelas del nivel básico con autoridades y programas de bienestar comunitario;
 
@@ -403,7 +499,9 @@ IX.- Coadyuvar en la realización de las actividades que respecto a cuestiones d
 
 X.- Promover la superación educativa en el ámbito municipal;
 
-XI.- Promover actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan con sus obligaciones en materia educativa;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+XI.- Promover actividades de orientación, capacitación, difusión y participación social dirigidas a padres de familia y tutores legales, para que cumplan con sus obligaciones en materia educativa;
 
 XII.- Promover, actividades de orientación, capacitación, y difusión dirigidas a maestros, para que cumplan con sus obligaciones en materia educativa;
 
@@ -413,7 +511,13 @@ XIV.- Procurar la obtención de recursos complementarios para proveer el mobilia
 
 XV.- Realizar actividades para apoyar y fortalecer la educación el municipio;
 
-XVI.- Las demás que le señale la Ley General, la Ley Estatal y demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+XVI.- Difundir y promover actividades que tiendan a fomentar la cultura de legalidad entre la comunidad escolar de las escuelas del municipio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XVII. Las demás que le señale la Ley General, la Ley Estatal, y los demás ordenamientos aplicables.
 
 ###### Artículo 41.
 
@@ -427,11 +531,13 @@ El Consejo Municipal se constituirá por un número no menor de quince y no mayo
 
 El Consejo Municipal estará integrado por los siguientes consejeros:
 
-I.- Un representante por cada nivel educativo, que será electo de entre los padres de familia de los consejos sectoriales;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+I.- Un representante por cada nivel educativo, que será electo de entre los presidentes de las Asociaciones de Padres de Familia que participan en los Consejos Sectoriales del municipio;
 
 II.- El representante de la Asociación Municipal de Padres de Familia y en su caso, el Presidente de la Unión de Padres de Familia de escuelas particulares;
 
-III.- Un docente distinguido que pertenezca al municipio, designado por el Consejero Presidente;
+III.- (DEROGADA, P.O. 22 DE JULIO DE 2005)
 
 IV.- Un representante de la sección 2 y otro de la sección 37, ambos del Sindicato Nacional de Trabajadores de la Educación, designados por su sección;
 
@@ -443,7 +549,7 @@ VII.- Un representante por cada nivel educativo, que será electo de entre los d
 
 VIII.- Cuatro representantes de los consejeros sectoriales, electos de entre los consejeros presidentes sectoriales;
 
-IX.- Un representante por cada nivel educativo, que será electo de entre los docentes de los consejeros sectoriales;
+IX.- (DEROGADA, P.O. 22 DE JULIO DE 2005)
 
 X.- Un representante por cada nivel educativo, que será electo de entre los supervisores o inspectores según sea el caso, de los consejos sectoriales;
 
@@ -455,9 +561,21 @@ XII.- La Autoridad Educativa Municipal, el Coordinador de la Comisión de Educac
 
 XllI.- Un representante del Comité de Vinculación Escuela - Empresa; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
-XIV.- Un representante de las organizaciones o asociaciones civiles, que atiendan a niños con capacidades diferentes, del área de circunscripción del sector, interesadas en la educación.
+XIV.- Un representante de las organizaciones o asociaciones civiles, que atiendan a niños con capacidades diferentes, del área de circunscripción del sector interesadas en la educación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XV.- Un representante de los padres de familia de educación indígena;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XVI.- Un representante del Instituto de Servicios de Salud Pública del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XVII.- El Director de Seguridad Pública Municipal, o quien éste designe.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -465,9 +583,11 @@ El Consejero Presidente será electo de entre los miembros del Consejo Municipal
 
 Cada miembro del Consejo Municipal deberá nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 44.
 
-El Consejo Municipal deberá instalarse cada tres años, dentro de los cincuenta días naturales siguientes al inicio de cada administración pública municipal. El Presidente Municipal convocará a los consejeros al acto de instalación del Consejo Municipal.
+El Consejo Municipal deberá instalarse cada tres años, dentro de los sesenta días naturales siguientes al inicio de cada administración pública municipal. El Presidente Municipal convocará a los consejeros al acto de instalación del Consejo Municipal.
 
 ###### Artículo 45.
 
@@ -478,6 +598,10 @@ La renovación de los miembros del Consejo Municipal, se realizará dentro de lo
 ###### Artículo 46.
 
 El Consejo Municipal contará con un Secretario Técnico, quién tendrá voz pero sin voto, y será nombrado y removido libremente por el Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JULIO DE 2005)</small>
+
+Asimismo, el Consejo Municipal contará con un asesor técnico para su adecuada organización y operación, que recaerá en el Coordinador Municipal de Participación Social o quien éste designe por escrito.
 
 ###### Artículo 47.
 
@@ -495,9 +619,11 @@ V.- La Autoridad Educativa Municipal, el Coordinador de la Comisión de Educaci�
 
 VI.- Un representante del Comité de Vinculación Escuela-Empresa.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 48.
 
-Para el registro del Consejo Municipal, el Secretario Técnico deberá llenar el formato del Acta Constitutiva del Consejo proporcionado por la Autoridad Educativa Estatal, que será firmada por todos los consejeros y remitirá copia certificada a la Unidad de Atención a Padres de Familia y Consejos de Participación Social de la Autoridad Educativa en el municipio y a la Secretaría Técnica del Consejo Estatal, para su registro correspondiente.
+Para el registro del Consejo Municipal, el Secretario Técnico deberá llenar el formato de Acta Constitutiva del Consejo proporcionado por la Autoridad Educativa Estatal, que será firmada por todos los consejeros y remitirá copia al Área de Atención a Consejos Escolares dependientes de Vinculación Social de la Autoridad Educativa en el municipio, y a la Secretaría Técnica del Consejo Estatal, para su registro correspondiente.
 
 ###### Artículo 49.
 
@@ -525,7 +651,13 @@ i) Firmar los documentos que expida el Consejo Municipal en el ejercicio de sus 
 
 j) Ser miembro del Consejo Nacional de Participación Social en la Educación, en caso de ser designado;
 
-k) Las demás que le otorgue este Reglamento y otras disposiciones legales.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+k) Dar a conocer los avances del Consejo Municipal después de cada sesión, a través de medios de comunicación; y
+
+> <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 22 DE JULIO DE 2005)</small>
+
+l) Las demás que le otorgue este Reglamento, y otras disposiciones legales aplicables.
 
 II.- El Secretario Técnico:
 
@@ -549,7 +681,9 @@ III.-Los consejeros:
 
 a) Asistir y participar en las sesiones del Consejo Municipal con derecho a voz y voto;
 
-b) Integrar los grupos de trabajo;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+b) Integrar y participar en los grupos de trabajo;
 
 c) Coordinar el grupo de trabajo que le asigne el Consejo Municipal;
 
@@ -583,17 +717,21 @@ II.- Lugar, día y hora;
 
 III.- Orden del día.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 53.
 
-Para sesionar válidamente se requiere de la presencia de la mayoría de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
+Para sesionar válidamente se requiere de la presencia de la mitad más uno de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
 
 En caso de no reunirse el quórum y transcurridos treinta minutos de la hora señalada para el inicio de la sesión, ésta podrá realizarse válidamente con los consejeros presentes.
 
 Para la validez de los acuerdos del Consejo Municipal, deberán ser aprobados por la mayoría de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 54.
 
-El Consejo Municipal sesionará ordinariamente cada sesenta días naturales para revisar el avance del plan anual de trabajo y funcionamiento de las comisiones o para tratar asuntos específicos a petición de sus miembros.
+EI Consejo Municipal sesionará ordinariamente por lo menos cada sesenta días naturales para revisar el avance del plan anual de trabajo y funcionamiento de las comisiones o para tratar asuntos específicos a petición de sus miembros.
 
 ###### Artículo 55.
 
@@ -613,9 +751,11 @@ Los grupos de trabajo se reunirán, cuando lo consideren conveniente.
 
 ### CAPÍTULO V. DEL CONSEJO ESTATAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 59.
 
-El Consejo Estatal es un órgano consultivo, de orientación, colaboración, apoyo e información de la Autoridad Educativa, que tendrá como objeto promover la participación de la comunidad bajacaliforniana en acciones para fortalecer y elevar la calidad de la educación básica, ampliar la cobertura de los servicios educativos con equidad, mejorar el aprovechamiento escolar, lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
+El Consejo Estatal es un órgano consultivo, de orientación, gestión, colaboración, apoyo e información de la Autoridad Educativa, que tendrá como objeto promover la participación de la comunidad bajacaliforniana en acciones para fortalecer y elevar la calidad de la educación básica, ampliar la cobertura de estos servicios educativos con equidad, mejorar el aprovechamiento escolar, lograr la corresponsabilidad de los actores inmersos en la educación y mejorar la infraestructura escolar.
 
 El Consejo Estatal es una estructura operativa intermedia entre los Consejos Escolares, Sectoriales y Municipales con el Consejo Nacional de Participación Social en la Educación.
 
@@ -623,7 +763,9 @@ El Consejo Estatal es una estructura operativa intermedia entre los Consejos Esc
 
 El Consejo Estatal para el cumplimiento de su objeto tendrá las siguientes atribuciones:
 
-I.- Actuar como órgano representativo de consulta, orientación, colaboración y apoyo en la educación en el ámbito estatal;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+I.- Actuar como órgano representativo de consulta, orientación, gestión, colaboración y apoyo en la educación en el ámbito estatal;
 
 II.- Fungir como enlace con la Autoridad Educativa, con las autoridades municipales y el Consejo Nacional de Participación Social en la Educación;
 
@@ -661,17 +803,29 @@ XVIII.- Definir y organizar las acciones y tareas a través de grupos de trabajo
 
 XIX.- Administrar y supervisar el destino de sus recursos;
 
-XX.- Las demás que le señalen otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+XX.- Proponer acciones que fomenten la cultura de la legalidad en la educación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XXI.- Conocer y validar los cambios que se propongan al presente Reglamento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XXII.- Las demás que le señalen otros ordenamientos legales aplicables.
 
 ###### Artículo 61.
 
 El Consejo Estatal estará integrado de la siguiente manera:
 
-I.- Un representante por cada nivel educativo, electo de entre los padres de familia que integren los Consejos Municipales;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+I.- Un representante por cada nivel educativo, electo de entre los presidentes de las Asociaciones de Padres de Familia que participan en los Consejos Municipales;
 
 II.- El Presidente de la Asociación Estatal de Padres de Familia y el Presidente de la Unión Estatal de Padres de Familia;
 
-III.- Un maestro distinguido de educación básica designado por el Consejero Presidente;
+III.- (REFORMADA [N. DE E. DEROGADA], P.O. 22 DE JULIO DE 2005)
 
 IV.- Un representante de la sección 2 y otro de la sección 37, ambos del Sindicato Nacional de Trabajadores de la Educación, designados por su sección;
 
@@ -701,7 +855,15 @@ XVI.- Un representante del Instituto de la Juventud de Baja California;
 
 XVII.- Dos representantes de los medios masivos de comunicación de cobertura estatal, invitados por el Consejero Presidente;
 
-XVIII.- La Autoridad Educativa Municipal; el Coordinador de Educación del Ayuntamiento si existe, o en su caso un miembro de la Comisión de Educación del Cabildo, y de no existir estos será la persona que designe el Presidente Municipal.
+XVIII.- La Autoridad Educativa Municipal; el Coordinador de Educación del Ayuntamiento si existe, o en su caso un miembro de la Comisión de Educación del Cabildo, y de no existir estos será la persona que designe el Presidente Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XIX.- El Secretario de Seguridad Pública del Estado, o quien éste designe; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+XX.- Un representante del Instituto de Servicios de Salud Pública del Estado.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -723,9 +885,11 @@ El Consejo Estatal deberá instalarse cada tres años dentro de los cien días n
 
 La renovación de los miembros del Consejo Estatal, se realizará dentro de los cien días naturales siguientes al inicio de cada ciclo escolar. Cuando la permanencia de un consejero derive del desempeño de su encargo, se efectuará la renovación cuando cesen sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 66.
 
-Para el registro del Consejo Estatal, el Secretario Técnico deberá llenar el formato del Acta Constitutiva del Consejo Estatal proporcionado por la Autoridad Educativa, que será firmada por todos los consejeros y remitirá copia certificada a la Coordinación General de Participación Social y Formación Ciudadana dependiente de la Autoridad Educativa para su registro correspondiente.
+Para el registro del Consejo Estatal, el Secretario Técnico deberá llenar el formato de Acta Constitutiva del Consejo Estatal proporcionado por la Autoridad Educativa, que será firmada por todos los consejeros y remitirá copia a la Coordinación General de Participación Social y Formación Valoral dependiente de la Autoridad Educativa, para su registro correspondiente.
 
 Asimismo, deberá remitir para su conocimiento, copia de dicha acta a los Secretarios Técnicos de los Consejos Municipales.
 
@@ -735,13 +899,17 @@ El Consejo Estatal establecerá una Coordinación Ejecutiva, que sesionará conf
 
 La Coordinación Ejecutiva estará integrada por el Consejero Presidente, Secretario Técnico, y los siguientes consejeros:
 
-I.- El Presidente de una Asociación de Padres de Familia designado por el Consejero Presidente;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+I.- El Presidente de una Asociación o Agrupación de Padres de Familia representado en el Consejo Estatal, electo por los consejeros;
 
 II.- El representante de una Organización Sindical de Trabajadores de la Educación, designado por el Consejero Presidente;
 
 III.- El Secretario de Educación y Bienestar Social y Director General del Instituto de Servicios Educativos y Pedagógicos de Baja California, o quien éste designe;
 
-IV.- Un representante del Consejo Coordinador Empresarial, designado por el Consejero Presidente;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+IV.- Un representante electo de entre los mismos consejeros que representan al Consejo Coordinador Empresarial; y
 
 V.- El Rector de la Universidad Autónoma de Baja California o a quien este designe.
 
@@ -755,7 +923,9 @@ II.- Presidir las sesiones del Consejo Estatal;
 
 III.-Fomentar y fortalecer las relaciones del Consejo Estatal con otros organismos sociales;
 
-IV.- Promover y supervisar el cumplimiento de los acuerdos del Consejo Estatal;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+IV.- Promover y supervisar el cumplimiento de los acuerdos tomados del Consejo Estatal;
 
 V.- Coordinar y revisar el diseño, seguimiento, ejecución y evaluación del proyecto del trabajo sexenal y de los programas anuales de trabajo con los integrantes;
 
@@ -763,7 +933,13 @@ VI.- Proponer al Consejo Estatal la creación de grupos de trabajo;
 
 VII.- Rendir al Consejo Estatal informe anual por escrito sobre el desempeño de sus funciones;
 
-VIII.- Las demás que sean necesarias para el cumplimiento de las funciones del Consejo Estatal.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+VIII.- Dar a conocer los avances del Consejo Estatal después de cada sesión a los medios de comunicación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2005)</small>
+
+IX.- Las demás que sean necesarias para el cumplimiento de las funciones del Consejo Estatal.
 
 ###### Artículo 69.
 
@@ -831,11 +1007,13 @@ III.- Lugar, día y hora;
 
 IV.- Orden del día.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 74.
 
-Para sesionar válidamente se requiere de la presencia de la mayoría de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
+Para sesionar válidamente se requiere de la presencia de la mitad más uno de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
 
-En caso de no verificarse el quórum necesario para la primera convocatoria, se emitirá una segunda convocatoria para que dentro de los siguientes cinco días hábiles se realice la sesión, la cual se llevará a cabo con los consejeros presentes.
+En caso de no reunirse el quórum para sesionar, y transcurridos treinta minutos de la hora señalada para el inicio de la sesión, ésta podrá realizarse validamente con los consejeros presentes.
 
 ###### Artículo 75.
 
@@ -924,3 +1102,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 11 DE JUNIO DE 2004.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 22 DE JULIO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
