@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2005-01-28"
+last_updated: "2005-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2005.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1030,15 +1030,13 @@ En caso de muerte, practicarán, además, la autopsia del cadáver.
 
 En todos los casos de robo, se harán constar en la descripción todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, haciendo cuando fuere necesario, que peritos emitan su opinión sobre estas circunstancias.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 115.
 
-Para comprobar el cuerpo del delito de violencia familiar deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en los artículos 200 y 201 del Nuevo Código Penal para el Distrito Federal, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo señalan los artículos 95, 96 y 121 del presente Código.
+Para comprobar el cuerpo del delito de violencia familiar deberán acreditarse las calidades especificas de los sujetos señalados en los Artículos 200 y 201 del Nuevo Código Penal para el Distrito Federal, además deberán agregarse a la averiguación previa los dictámenes correspondientes de los especialistas en el área de salud física ó psíquica, según lo señalan los Artículos 95, 96 y 121 del presente Código.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
-
-Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia familiar, podrán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto en este Código.
+Los profesionales que presten sus servicios en las instituciones legales constituidas, especializadas en atención de problemas relacionados con la violencia familiar podrán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto en este Código.
 
 ###### ARTICULO 116.
 
@@ -1272,7 +1270,7 @@ VI. Las presunciones.
 
 Se admitirá como prueba en los términos del artículo 20, fracción V, de la Constitución Política de los Estados Unidos Mexicanos, todo aquello que se ofrezca como tal, incluso aquellos elementos aportados por los descubrimientos de la ciencia.
 
-(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 También se admitirán como prueba las declaraciones de los servidores públicos que en ejercicio de sus funciones y con autorización fundada y motivada del Procurador General de Justicia del Distrito Federal, hayan simulado conductas delictivas con el fin de aportar elementos de prueba en una averiguación previa.
 
@@ -5681,3 +5679,9 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del Distrito Federal.
