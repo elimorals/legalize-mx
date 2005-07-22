@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-edificaciones-para-el-municipio-de-mexicali-35218
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-18"
-last_updated: "2004-01-02"
+last_updated: "2005-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "BCN"
 
 REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2005.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 18 de diciembre de 1998.
 
-EL C. LlC. BERNARDO H. MARTINEZ AGUIRRE, SECRETARIO DEL H. XV AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA, POR MEDIO DE LA PRESENTE:
+EL C. LIC. BERNARDO H. MARTINEZ AGUIRRE, SECRETARIO DEL H. XV AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA, POR MEDIO DE LA PRESENTE:
 
 C E R T I F I C A :
 
@@ -95,7 +95,9 @@ Reglamento.- El Reglamento de la Ley de Edificaciones para el Municipio de Mexic
 
 Normas Técnicas Complementarias.- Aquellas elaboradas de manera concurrente por el Ejecutivo del Estado y los Municipios, que el Ayuntamiento de Mexicali determine sean complementarias de este Reglamento.
 
-Dirección.- La Dirección de Catastro, Control Urbano y Ecología del Ayuntamiento de Mexicali, quien ejercerá las atribuciones que deriven del presente Reglamento, por sí, por medio del Departamento de Control Urbano o sus Unidades Administrativas.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+Dirección.- La Dirección de Administración Urbana del Ayuntamiento de Mexicali, quien ejercerá las atribuciones que deriven del presente reglamento, por si, por medio del Departamento de Control Urbano o sus Unidades Administrativas.
 
 Mobiliario Urbano.- Es el mobiliario en vía pública que brinda un servicio a los transeúntes, como medio de información, comunicación, descanso, higiene y ornato.
 
@@ -1725,21 +1727,25 @@ La inspección, revisión de proyectos y construcciones, así como la vigilancia
 
 La Dirección para comprobar el cumplimiento de las disposiciones legales y reglamentarias, podrá ordenar visitas de inspección, las cuales podrán ser ordinarias y extraordinarias, las primeras se efectuarán en días y horas hábiles de oficina, las segundas en cualquier momento especialmente en situaciones de flagrante contravención a la Ley y el Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 243.
 
-Los inspectores al realizar sus funciones deberán estar provistos de orden escrita fundada y motivada expedida por la Dirección, en la que se precise el lugar y objeto de la inspección, y nombre de la persona que deba realizar la inspección.
+Los Inspectores deberán estar provistos de identificación oficial al realizar sus funciones de inspección, citatorios, requerimientos, notificaciones y cualquier acción relacionada con sus atribuciones, y podrán dar fe de los hechos, no sin antes notificar a la Dirección de Administración Urbana a través del Departamento de Control Urbano en su sección de Coordinación de Inspectoría, sobre su actuación, para la cual podrán utilizar cualquier medio de comunicación debiendo asentar la acción y esta se trate de situaciones ordinarias.
 
-Las órdenes serán dirigidas al Responsable Propietario, poseedor o representante legal, y en su caso al Responsable Director de Obra o Responsable Director de Proyecto, quienes para efectos de este Reglamento se les denominará el visitado.
+La documentación emitida por la Dirección de Administración Urbana a través de la del Departamento de Control Urbano en su sección de Coordinación de inspectoría será dirigida al responsable propietario, poseedor o representante legal, y en su caso al responsable director de obra o responsable director de proyecto, quienes para efectos de este reglamento se les denominará el visitado.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 244.
 
-Al iniciar la inspección, el inspector deberá exhibir identificación oficial, debiendo entregar al visitado la orden expresa a que se refiere el artículo anterior.
+Al iniciar la inspección, el inspector deberá exhibir identificación oficial al visitado, que lo acredite como tal, de no encontrarse ente en el lugar objeto de la inspección, se le dejará citatorio, para que dentro de las 24 horas siguientes espere al inspector en el sitio mencionado a una hora determinada, para el desahogo de la diligencia, de no ser atendido el citatorio, se practicará con la persona que se encuentre en el lugar.
 
-De no encontrarse el visitado en el lugar objeto de inspección, se le dejará citatorio, para que dentro de las veinticuatro horas siguientes espere al inspector a una hora determinada para el desahogo de la diligencia. En el día y hora señalada para la diligencia, de no ser atendido el citatorio, se practicará con la persona que se encuentre en el lugar.
+EI visitado, cuya edificación, obra o instalación sea objeto de inspección, estará obligado a permitir el acceso y dar factibilidad e informes a los inspectores para el buen desarrollo de su función.
 
-El visitado cuya edificación, obra o instalación sea objeto de inspección, estará obligado a permitir el acceso y dar facilidades e informes a los inspectores para el buen desarrollo de su función.
+De negarse el visitado a proporcionar el acceso al inspector, este último podrá solicitar el apoyo de la fuerza pública para llevar a cabo la diligencia.
 
-De no encontrarse persona alguna en el lugar objeto de la inspección, se dejarán los citatorios o resoluciones emitidas por la Dirección, adheridos en un lugar visible del inmueble.
+De no encontrarse personal alguno en el lugar objeto de la inspección, se dejarán los citatorios o resoluciones emitidas por la Dirección de Administración Urbana a través del Departamento de Control Urbano, adheridos en un lugar visible del inmueble, causando los efectos correspondientes.
 
 ###### ARTICULO 245.
 
@@ -1942,3 +1948,9 @@ P.O. 2 DE ENERO DE 2004.
 ## [N. DE E. TRANSITORIO DEL ACUERDO DE “MODIFICACIÓN DEL PÁRRAFO SEGUNDO, ASÍ COMO LA ADICIÓN DE LAS FRACCIONES III Y IV (SIC) ARTÍCULO 253 DEL REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI”.]
 
 ARTICULO TRANSITORIO ÚNICO.- EI presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JULIO DE 2005.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL "ACUERDO DE CABILDO DE MEXICALI MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, CAPÍTULO PRIMERO, 243 Y 244 DEL CAPÍTULO NOVENO, TRÁMITES ADMINISTRATIVOS, SECCIÓN II, INSPECCIÓN Y VIGILANCIA, TODOS DEL REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, B.C.", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periodico Oficial Órgano de Gobierno del Estado.
