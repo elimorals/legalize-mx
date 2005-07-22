@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-06-10"
+last_updated: "2005-07-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -129,9 +129,9 @@ I.- PRIMER CIRCUITO:
 
 2.- Siete tribunales unitarios especializados: cinco en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 58/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JULIO DE 2005)</small>
 
-3.- Cincuenta y seis juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, dieciséis en materia administrativa, doce en materia civil y cuatro en materia de trabajo, todos con sede en el Distrito Federal.
+3.- Cincuenta y siete juzgados de distrito en el Distrito Federal, especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil, y cuatro en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -1444,3 +1444,11 @@ D.O.F. 10 DE JUNIO DE 2005.
 PRIMERO.- Este acuerdo entrará en vigor el dieciséis de junio de dos mil cinco.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE JULIO DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las plantillas del personal previstas en los puntos segundo y quinto del presente acuerdo, se integrarán con las plazas actualmente a disposición de la Dirección General de Recursos Humanos, lo que no implica la creación de nuevas plazas.
