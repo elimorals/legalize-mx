@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2004-09-06"
+last_updated: "2005-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2005.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2597,19 +2597,21 @@ Cuando el deudor alimentario no estuviere presente, o estándolo rehusare entreg
 
 El Juez de lo Familiar resolverá respecto al monto de la deuda, en atención a lo dispuesto en el artículo 311.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 323.
 
-En casos de separación o de abandono de los cónyuges, el que no haya dado lugar a ese hecho podrá solicitar al Juez de lo Familiar que obligue al otro a seguir contribuyendo con los gastos del hogar durante la separación, en la proporción en que lo venía haciendo hasta antes de ésta; así como también, satisfaga los adeudos contraídos en los términos del artículo 322. Si dicha proporción no se pudiera determinar, el Juez de lo Familiar fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y el pago de lo que ha dejado de cubrir desde la separación.
+En casos de separación o de abandono de los cónyuges, el que no haya dado lugar a ese hecho podrá solicitar al juez de lo familiar que obligue al otro a seguir contribuyendo con los gastos del hogar durante la separación, en la proporción en que lo venía haciendo hasta antes de ésta; así como también, satisfaga los adeudos contraídos en los términos del Artículo 322. Si dicha proporción no se pudiera determinar, el juez de lo familiar fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y el pago de lo que ha dejado de cubrir desde la separación.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 25 DE MAYO DE 2000)</small>
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+
+Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
 
 ###### ARTICULO 323 Bis.
 
-Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos, de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
-
-Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al obligado a ocultar o disimular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+(DEROGADO, G.O. 22 DE JULIO DE 2005)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -11181,9 +11183,9 @@ ARTICULO 2,533.- El depositario no puede retener la cosa, aun cuando al pedírse
 
 ARTICULO 2,534.- Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga contra el depositante.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ARTICULO 2,535.- Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 La responsabilidad de que habla este artículo, no excederá de la suma de doscientos cincuenta pesos, cuando no se pueda imputar culpa al hostelero o a su personal.
 
@@ -11334,6 +11336,8 @@ ARTICULO 2,579.- El mandatario podrá retener en prenda las cosas que son objeto
 ARTICULO 2,580.- Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
 ### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,581.- El mandante debe cumplir todas las obligaciones que el mandatario haya contraído dentro de los límites del mandato.
 
@@ -12185,15 +12189,13 @@ ARTICULO 2,849.- Si la fianza se ha otorgado por tiempo indeterminado, tiene der
 
 ### CAPITULO VI. De la fianza legal o judicial
 
-ARTICULO 2,850.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
-
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+ARTICULO 2,850.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
 Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituirse con prenda o hipoteca.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,851.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
@@ -13725,13 +13727,13 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O.F. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O.F. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -13743,7 +13745,7 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O.F. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
@@ -13860,3 +13862,9 @@ El presente decreto entrará en vigor a los noventa días siguientes a su public
 ###### ARTÍCULO TERCERO.
 
 Las presentes disposiciones se aplicarán a todos los procedimientos judiciales y administrativos en trámite ante las autoridades correspondientes y de acuerdo a lo dispuesto en el artículo 94 de Código de Procedimientos Civiles del DF; los interesados podrán promover los beneficios que le concede la presente Ley.
+
+G.O. 22 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del Distrito Federal.
