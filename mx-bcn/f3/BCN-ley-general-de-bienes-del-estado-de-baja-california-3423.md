@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2002-09-27"
+last_updated: "2005-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -367,13 +367,17 @@ Los inmuebles de dominio privado del Estado son inembargables. Tratándose de la
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito, los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del Artículo 39 de la Ley General de Bienes Nacionales.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 36.
 
 Se faculta al Gobierno del Estado para enajenar, a título gratuito, a los Municipios, Asociaciones o Instituciones Privadas cuyas actividades sean de interés social y no persigan fines de lucro, los bienes de dominio privado para que se destinen a servicios públicos, a fines educativos o de asistencia social o bien, en el caso de los Municipios, para que dispongan de ellos con el fin de arbitrarse fondos para aplicarlos al financiamiento, amortización o construcción de obras públicas.
 
+De igual manera se faculta al Ejecutivo del Estado para enajenar a título gratuito a favor de Instituciones y/o dependencias de la Administración Pública Federal, los bienes del dominio privado que se destinen exclusivamente a la construcción de infraestructura destinada a prestar servicios de salud, de seguridad pública, seguridad nacional o para actividades de procuración de justicia.
+
 En el acuerdo respectivo se fijará el plazo dentro del cual deberá ser destinado el bien al objeto previsto. En su defecto, se entenderá que el plazo es de dos años.
 
-Si el Municipio, asociación o institución no utilizaren el bien en el fin señalado, dentro del plazo previsto, o si habiéndolo hecho, dieren al inmueble distinto, sin contar con previa autorización del Gobernador del Estado, tanto el bien como sus mejoras revestirán en favor del Gobierno Estatal. Las condiciones a que se refiere este Artículo se insertarán en la escritura de enajenación respectiva.
+Si el Municipio, asociación o institución no utilizaren el bien en el fin señalado, dentro del plazo previsto, o si habiéndolo hecho, dieren al inmueble distinto, sin contar con previa autorización del Gobernador del Estado, tanto el bien como sus mejoras revertirán en favor del Gobierno Estatal. Las condiciones a que se refiere este Artículo se insertarán en la escritura de enajenación respectiva.
 
 ###### ARTICULO 37.
 
@@ -592,3 +596,7 @@ Las solicitudes de desincorporación de bienes que se encuentre (sic) en trámit
 ###### ARTICULO TERCERO.
 
 Los contratos de comodato que se encuentre (sic) vigentes al momento de la publicación de las presente reformas, se regirán hasta su terminación por las normas vigentes al momento de su celebración.
+
+P.O. 22 DE JULIO DE 2005.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
