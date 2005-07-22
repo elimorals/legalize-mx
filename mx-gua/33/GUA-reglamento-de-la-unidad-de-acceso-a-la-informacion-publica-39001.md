@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-3900
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-23"
-last_updated: "2004-04-23"
+last_updated: "2005-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL NUEVO REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2005, QUEDA ABROGADO EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 23 de abril de 2004.
 
@@ -472,3 +474,17 @@ En caso de que la persona con quien se entiende la diligencia se niegue a recibi
 A quienes incurran en responsabilidad por incumplimiento de las obligaciones previstas en el presente ordenamiento se le aplicarán las sanciones y los procedimientos previstos en la Ley de Acceso a la Información Pública del Estado y los Municipios de Guanajuato, así como, en su caso, la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y demás disposiciones legales aplicables.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 22 DE JULIO DE 2005.
+
+PRIMERO.- Se expide el nuevo Reglamento de la Unidad de Acceso a la Información Pública del Instituto Electoral del Estado de Guanajuato, quedando en los términos del documento anexo.
+
+SEGUNDO.- Se abroga el Reglamento de la Unidad de Acceso a la Información Pública del Instituto Electoral del Estado de Guanajuato, aprobado en la sesión ordinaria del 29 de marzo de 2004.
+
+TERCERO.- El Reglamento de la Unidad de Acceso a la Información Pública del Instituto Electoral del Estado de Guanajuato, entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+CUARTO.- Notifíquese por estrados.
+
+QUINTO.- Publíquense el presente acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
