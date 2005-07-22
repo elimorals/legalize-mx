@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2005-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -401,45 +401,47 @@ IV.- En el caso de que la acción de urbanización se vaya a realizar por etapas
 
 V.- La Dirección revisará la propuesta de ubicación de áreas para equipamiento que presente el urbanizador o promotor inmobiliario, y la aprobará o le solicitará que la modifique a fin de que cumpla con las disposiciones del presente artículo.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 29.
 
 Podrá determinarse por la Dirección a propuesta del urbanizador o promotor inmobiliario, que las áreas cuya propiedad deberá transmitirse gratuitamente al Municipio para equipamiento, que no sean vialidades o áreas verdes, se ubiquen en uno o varios predios propiedad del mismo urbanizador, diversos al que será objeto de la acción de urbanización que le hubiere generado la obligación de hacer dicha transmisión.
 
-En este caso, los predios que se propongan deberán tener valor igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización, una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos.
+En este caso, los predios que se propongan deberán tener valor igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización, una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
 
-La Dirección podrá aceptar la propuesta del urbanizador o promotor inmobiliario, si cuenta con un dictamen técnico aprobado por el Ayuntamiento, que justifique la conveniencia de la ubicación del área para equipamiento en el terreno propuesto.
-
-Esta opción también será aplicable a las áreas para equipamiento escolar, si se cuenta con la anuencia de la autoridad que deba recibirlas.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 30.
 
-El urbanizador o promotor inmobiliario también podrá proponer a la Dirección, la entrega de área para equipamiento diverso a las vías públicas y áreas verdes, con una superficie menor a la que corresponda de acuerdo con el tipo de acción de urbanización que vaya a desarrollar, ya sea en el predio que vaya a ser objeto de ésta o en otro diverso, si realiza sobre el mismo una edificación para el equipamiento específico que requiera la zona.
+El urbanizador o promotor inmobiliario también podrá proponer a la Dirección, la entrega de área para equipamiento diverso a las vías públicas y áreas verdes, con una superficie menor a la que corresponda de acuerdo con el tipo de acción de urbanización que vaya a desarrollar, ya sea en el predio que vaya a ser objeto de ésta o de otro diverso, si realiza sobre el mismo una edificación o equipamiento especifico que requiera la zona.
 
-La Dirección podrá aceptar la propuesta de menor superficie pero con edificación, siempre y cuando cuente con los siguientes elementos:
+La Dirección podrá aceptar la propuesta de menor superficie pero con edificación o infraestructura siempre y cuando cuente con los siguientes elementos:
 
-l.- Un dictamen técnico en el que se determine la necesidad del equipamiento específico para la zona, emitido por la misma Dirección o por la dependencia o entidad del gobierno municipal que tenga injerencia en la administración de dicho equipamiento, y aprobado por el Ayuntamiento;
+I.- Un dictamen técnico en el que se determine la necesidad del equipamiento especifico para la zona, emitido por la misma Dirección o por la dependencia o entidad del gobierno municipal que tenga injerencia en la administración de dicha obra o equipamiento, y aprobado por el Ayuntamiento;
 
-II.- Que el valor del predio cuya propiedad se vaya a transmitir, incluyendo la edificación a construir por el urbanizador, sea igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos.
+II.- Que el valor del predio cuya propiedad se vaya a transmitir, incluyendo la edificación o infraestructura a construir por el urbanizador, sea igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 31.
 
 El urbanizador o promotor inmobiliario asimismo podrá proponer a la Dirección, no transmitirle propiedad alguna de área para equipamiento diverso a las vialidades y áreas verdes, sino ejecutar una obra de infraestructura urbana, a la que no esté obligado por la autorización de la acción de urbanización.
 
-La Dirección podrá aceptar dicha obra de infraestructura urbana en lugar del área para equipamiento si se dan las siguientes condiciones:
+La Dirección podrá aceptar dicha obra o infraestructura urbana en lugar del área para equipamiento si se dan las siguientes condiciones:
 
-I.- Se cuente con un dictamen técnico emitido por la misma Dirección y aprobado por el Ayuntamiento, en el que se determine la necesidad de la obra de urbanización;
+I.- Se cuente con un dictamen técnico emitido por la misma Dirección y aprobado por el Ayuntamiento, en el que se determine la obra o infraestructura urbana.
 
-II.- El costo de la obra de urbanización, sea igual o superior, al valor que tuviere el área cuya propiedad debía transmitirse en el predio objeto de la acción de urbanización una vez concluida ésta. Para efectos de lo anterior, el costo de la obra de urbanización se determinará aplicando los valores unitarios de obra pública que emita la Secretaría de Asentamientos Humanos y Obras Públicas del Estado; y el valor del área para equipamiento será el que determine la Comisión Estatal de Avalúos;
+II.- El costo de la obra o infraestructura urbana sea igual o superior, al valor que tuviere el área cuya propiedad debía transmitirse en el predio objeto de la acción de urbanización una vez concluida ésta. Para efectos de lo anterior, el costo de la obra o infraestructura urbana se determinará aplicando los valores unitarios de obra pública que emita la Secretaría de Asentamientos Humanos y Obras Públicas del Estado; y el valor del área para equipamiento será el que determine la Comisión Estatal de Avalúo y/o un perito valuador autorizado.
 
 III.- En el caso de que la obra de infraestructura urbana tenga un costo superior al valor del predio que debía transmitirse, y el urbanizador o promotor inmobiliario no esté dispuesto a asumir la parte diferencial, podrá quedar ésta a cargo del Municipio. Dicha cantidad se compensará con los importes que el urbanizador o promotor inmobiliario deba pagar por concepto de derechos que genere la autorización de la acción de urbanización de la que se trate, u otra que lleve a cabo posteriormente.
 
 La opción a que se refiere este artículo sólo será aplicable en el caso de que la obra de infraestructura urbana que se proponga, sea de las que pueden ser ejecutadas mediante asignación directa conforme a la normatividad en materia de obras públicas.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### Artículo 32.
 
-Cuando el área para equipamiento cuya propiedad deba transmitirse gratuitamente al Municipio, diversa a las superficies para vialidades y áreas verdes, sea menor a tres mil metros cuadrados, podrá optar el urbanizador o promotor inmobiliario, por no efectuar la transmisión, sino pagar al Municipio el valor comercial que vaya a tener dicha superficie una vez concluida la acción de urbanización, que se determine mediante dictamen de la Comisión Estatal de Avalúos.
-
-El Ayuntamiento autorizará lo anterior, justificando mediante un dictamen técnico formulado por la Dirección, la inconveniencia de recibir uno o varios predios con superficie menor a la indicada.
+Cuando el área para equipamiento cuya propiedad deba transmitirse gratuitamente al Municipio, diversa a las superficies para vialidades y áreas verdes, sea menor a tres mil metros cuadrados, podrá optar el urbanizador o promotor inmobiliario, por no efectuar la transmisión, sino pagar al Municipio el valor comercial que vaya a tener dicha superficie una vez concluida la acción de urbanización, que se determine mediante dictamen de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
 
 ###### Artículo 33.
 
@@ -1130,3 +1132,9 @@ TERCERO.- Las autorizaciones de acciones de urbanización que se encuentren en t
 CUARTO.- Las acciones de urbanización que se hubieren autorizado antes de la entrada en vigor del presente Reglamento, y se estén ejecutando, se sujetarán a lo dispuesto en las autorizaciones respectivas.
 
 QUINTO.- Las subdivisiones que se hubieren autorizado y que no se hubieren inscrito en el Registro Público de la Propiedad y de Comercio, antes de la entrada en vigor del presente Reglamento, deberán agotar nuevamente el procedimiento de autorización respectivo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
