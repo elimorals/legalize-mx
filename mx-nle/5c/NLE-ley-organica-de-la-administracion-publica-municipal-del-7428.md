@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "1997-10-17"
+last_updated: "2005-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -121,6 +121,22 @@ III.- En los Municipios cuya población sea superior a cincuenta mil habitantes,
 
 Los cargos de Presidente Municipal, Regidores y Síndicos de un Ayuntamiento, son obligatorios pero no gratuitos y su remuneración se fijará en los presupuestos de egresos correspondientes. Estos cargos sólo podrán ser excusables o renunciables por causa justificada que calificará el propio Ayuntamiento con sujeción a esta Ley, en todos los casos, el H. Congreso del Estado conocerá y hará la declaratoria correspondiente y proverá (sic) lo necesario para cubrir la vacante.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+Los Ayuntamientos revisarán, evaluarán y aprobarán las remuneraciones para sus integrantes, tomando en consideración entre otros elementos como: población, eficiencia en el gasto administrativo, recaudación en el impuesto predial, presupuesto de ingresos, extensión territorial, nómina y tabuladores salariales.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+Los Regidores y Síndicos recibirán por concepto de remuneraciones hasta un 40% y 48%, respectivamente, de lo que se estipule para los Presidentes Municipales.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+Además, los Ayuntamientos podrán acordar las siguientes prestaciones similares a las de los servidores públicos no sindicalizados:
+
+I.- Las gratificaciones por concepto de aguinaldo y prima vacacional de los miembros del Ayuntamiento.
+
+II.- Los gastos por servicios médicos para los miembros del Ayuntamiento, así como para el cónyuge e hijos que dependan económicamente de los mismos. Estos servicios se prestarán en las mismas condiciones que a los funcionarios no sindicalizados.
+
 ###### ARTICULO 17.
 
 Los regidores electos por mayoría relativa y los designados conforme al principio de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
@@ -169,7 +185,9 @@ Son atribuciones y responsabilidades de los Ayuntamientos:
 
 a).- En materia de Régimen Interior:
 
-I.- Prestar, en su circunscripción territorial en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la presente Ley, los servicios públicos de agua potable y alcantarillado, alumbrado público, limpia, mercados y centrales de abastos, panteones, rastro, calles, parques y jardines, seguridad pública y tránsito, así como los demás que se determinen conforme a los ordenamientos señalados.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+I.- Prestar, en su circunscripción territorial, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de la presente ley, los servicios públicos de agua potable, drenaje y alcantarillado, tratamiento y disposición de sus aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abastos; panteones, rastro; calles, parque y jardines y su equipamiento; seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva y tránsito, así como los demás que se determinen conforme a los ordenamientos señalados. Para tal efecto, en los casos en que los Municipios no cuenten con los bandos o reglamentos correspondientes, se tendrá a lo dispuesto por la presente Ley y por las demás disposiciones aplicables.
 
 II.- Realizar sus políticas y programas de Gobierno, en coordinación con otras entidades de los gobiernos estatal y federal y de la sociedad civil.
 
@@ -231,11 +249,13 @@ VII.- Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el pe
 
 VIII.- Enviar trimestralmente al Congreso, los documentos y estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados del ejercicio presupuestario de ingresos y egresos que corresponda a la fecha.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
-IX.- Solicitar al H. Congreso del Estado, autorización para contratar créditos para obras de beneficio general.
+IX.- Autorizar la contratación de créditos para inversiones públicas productivas, previo acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, de conformidad con lo previsto en la presente Ley.
 
-X.- Solicitar al H. Congreso del Estado, en los términos de la Constitución Política estatal, expedición de Decretos para la venta, desafectación, gravámen o donación de bienes del Patrimonio Municipal.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+
+X.- Autorizar, previo el acuerdo tomado por las dos terceras partes de los integrantes del Ayuntamiento, la enajenación de sus bienes inmuebles, así como el gravamen de los mismos en los casos que exceda del periodo de la Administración Municipal. Cuando el gravamen no rebasara el término del mandato constitucional, se requerirá el acuerdo de la mayoría de los integrantes del Ayuntamiento.
 
 d).- En materia de Desarrollo Económico y Social:
 
@@ -963,11 +983,31 @@ Las resoluciones de terminación de concesiones de servicios públicos, deben pu
 
 Cumplido el plazo por el que se haya otorgado la concesión, y no habiendo prórroga, los bienes se revertirán en favor del Ayuntamiento.
 
-### CAPITULO I. DE LOS PLANES MUNICIPALES DE DESARROLLO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JULIO DE 2005)</small>
+
+### CAPITULO SEPTIMO (SIC). DE LOS CONVENIOS DE PRESTACION DE SERVICIOS ENTRE EL MUNICIPIO Y EL ESTADO
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+###### ARTICULO 108 Bis.
+
+Los Ayuntamientos podrán celebrar convenios con el Gobierno del Estado, para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la ejecución y operación de obras y prestación de servicios públicos, o bien conforme lo preceptuado en la fracción XLIX del artículo 63 de la Constitución Política Local.
+
+El Congreso del Estado resolverá cuando el Gobierno Estatal asuma una función o servicio municipal en el caso de que no exista convenio entre el Ejecutivo del Estado y el Ayuntamiento respectivo, por considerar que el Municipio de que se trata está imposibilitado para ejercer o prestar la función o servicio municipal en detrimento de su comunidad. En este caso, el procedimiento se sujetará a las bases siguientes:
+
+I.- Será necesario solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes.
+
+II.- Una vez recibida, la Legislatura la turnará a la Comisión de Gobernación y Organización Interna de los Poderes en la que se oirá al Estado, al Municipio de que se trate y a quien resultare interesado en la prestación de la función o servicio público municipal;
+
+III.- La Comisión de Gobernación y Organización Interna de los Poderes pondrá en estado de resolución el asunto planteado y se presentará dictamen al Pleno, el cual deberá ser votado por las dos terceras partes de los integrantes de la Legislatura.
+
+IV.- La resolución del Congreso del Estado, se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función, sin perjuicio del derecho que a la Comisión dictaminadora le corresponda para recabar todas las pruebas necesarias que estime a fin de normar su criterio.
+
+V.- La resolución del Congreso podrá ser impugnada en los términos del artículo 95 de la Constitución Política del Estado.
 
 ## TITULO CUARTO. DE LOS PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS
 
-### CAPITULO III (SIC). DE LA COORDINACION
+### CAPITULO I. DE LOS PLANES MUNICIPALES DE DESARROLLO
 
 ###### ARTICULO 109.
 
@@ -1009,7 +1049,7 @@ El Plan Municipal de Desarrollo y sus programas, serán revisados con la periodi
 
 Los Ayuntamientos establecerán, conforme a sus posibilidades, la unidad administrativa que deberá hacerse cargo de promover y ejecutar la elaboración, actualización, control y evaluación del Plan Municipal de Desarrollo.
 
-### CAPITULO IV. DE LA PARTICIPACION CIUDADANA
+### CAPITULO III (SIC). DE LA COORDINACION
 
 ###### ARTICULO 119.
 
@@ -1059,7 +1099,7 @@ XI.- La promoción de las actividades económicas;
 
 XII.- Los demás que consideren convenientes, en cumplimiento de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, y la presente Ley.
 
-### CAPITULO I. DEL PATRIMONIO MUNICIPAL
+### CAPITULO IV. DE LA PARTICIPACION CIUDADANA
 
 ###### ARTICULO 122.
 
@@ -1081,7 +1121,7 @@ IV.- El Ayuntamiento expedirá el reglamento correspondiente a la organización 
 
 ## TITULO QUINTO. DEL PATRIMONIO MUNICIPAL
 
-### CAPITULO II. DE LA HACIENDA MUNICIPAL
+### CAPITULO I. DEL PATRIMONIO MUNICIPAL
 
 ###### ARTICULO 124.
 
@@ -1095,7 +1135,7 @@ III.- Los derechos y obligaciones creados legítimamente en su favor; y
 
 IV.- Los demás bienes, derechos o aprovechamientos que señalen las leyes y otros ordenamientos legales.
 
-### CAPITULO III. DE LOS PRESUPUESTOS DE EGRESOS
+### CAPITULO II. DE LA HACIENDA MUNICIPAL
 
 ###### ARTICULO 125.
 
@@ -1119,9 +1159,7 @@ La vigilancia de la Hacienda Pública Municipal compete al Presidente Municipal,
 
 El H. Congreso del Estado revisará y aprobará en su caso las cuentas de cobro e inversión de los Municipios en los términos de la Fracción XIII del Artículo 63 de la Constitución Política del Estado.
 
-### CAPITULO IV. DE LA DEUDA PUBLICA MUNICIPAL
-
-> <small>(F. DE E., P.O. 18 DE MARZO DE 1991)</small>
+### CAPITULO III. DE LOS PRESUPUESTOS DE EGRESOS
 
 ###### ARTICULO 130.
 
@@ -1159,7 +1197,9 @@ El sistema contable deberá diseñarse y operar en forma que facilite el control
 
 Los libros o los registros contables deberán de conservarse durante 10 años por el Ayuntamiento en su Archivo Administrativo y no podrán, por ningún motivo, modificarse o destruirse. Al término de ese lapso, la documentación se remitirá al Archivo General del Estado.
 
-### CAPITULO V. DE LOS BIENES MUNICIPALES
+### CAPITULO IV. DE LA DEUDA PUBLICA MUNICIPAL
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 139.
 
@@ -1183,7 +1223,11 @@ Los Ayuntamientos con base en su programa financiero anual, al someter a la Legi
 
 Los montos de endeudamiento aprobados por la Legislatura Local, serán la base para la contratación de los créditos necesarios para el financiamiento de los programas que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos de los Ayuntamientos.
 
-### CAPITULO I. DE LOS REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS MUNICIPALES
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+Para la contratación de dichos créditos, se requerirá la aprobación de las dos terceras partes de los integrantes del Ayuntamiento.
+
+### CAPITULO V. DE LOS BIENES MUNICIPALES
 
 ###### ARTICULO 143.
 
@@ -1213,9 +1257,11 @@ Cuando un bien inmueble propiedad del Municipio, vaya a incorporarse al dominio 
 
 Igual declaratoria de incorporación deberá emitirse, cuando un bien, de hecho, esté destinado al uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 147.
 
-Los bienes de dominio público de los Municipios, podrán ser desincorporados, mediante Decreto del H. Congreso del Estado, cuando por algún motivo dejen de ser útiles para fines de servicio público. A la solicitud que para estos efectos realicen los Ayuntamientos, deberá acompañarse:
+Los bienes de dominio público de los Municipios, podrán ser desincorporados, mediante acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, cuando por algún motivo dejen de ser útiles para fines de servicio público. Para tales efectos deberá acompañarse:
 
 I.- Un dictamen técnico que justifique la desincorporación;
 
@@ -1225,7 +1271,9 @@ II.- Tratándose de inmuebles, un plano de localización de los mismos, en el qu
 
 III.- La especificación del aprovechamiento que se pretenda dar al bien. Tratándose de inmuebles, dicho aprovechamiento deberá ser compatible con las correspondientes declaratorias de previsiones, reservas, usos y destinos que señalen los planes y programas de Desarrollo Urbano Municipales.
 
-Cuando la desincorporación tenga como finalidad la enajenación o el gravamen de los bienes a que se refiere este precepto, cumpliéndose con los requisitos que señala el Artículo 151 de esta Ley, podrán presentarse las solicitudes en forma simultánea.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
+Cuando la desincorporación tenga como finalidad la enajenación o la constitución del gravamen de los bienes a que se refiere este precepto, cumpliéndose con los requisitos que señala el artículo 151 de esta Ley, podrán llevarse a cabo en forma simultánea.
 
 ###### ARTICULO 148.
 
@@ -1253,9 +1301,13 @@ A excepción de los bienes de Comodato, los Ayuntamientos podrán ejecutar sobre
 
 La enajenación o gravamen de los bienes muebles del domino privado del Municipio, requerirá la autorización previa del Ayuntamiento, la cual deberá publicarse en la Gaceta Oficial del Municipio y en el Periódico Oficial del Estado, acompañando a la misma el avalúo del bien, fecha y hora en la que se celebrará la subasta pública, así como la convocatoria a la que se refiere la fracción I del artículo 153 de esta Ley. Sólo podrán enajenarse los bienes muebles, que, previo acuerdo del Ayuntamiento, ya no se consideren útiles para el servicio público, por haber sido amortizados y considerados como chatarra.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
-Tratándose de la enajenación o gravamen de sus bienes inmuebles, se requerirá además, Decreto del H. Congreso del Estado y que se reúnan los siguientes requisitos:
+Tratándose de la enajenación de bienes inmuebles, así como del gravamen de los mismos, en el caso de que el término de éste exceda el período de la Administración Municipal, se requerirá el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento. Cuando el gravamen no rebase el término del mandato constitucional municipal, se requerirá el acuerdo de la mayoría de los integrantes del Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JULIO DE 2005)</small>
+
+Para tales efectos se requerirá que se reúnan los siguientes requisitos:
 
 I.- Que la necesidad de las enajenaciones responda a la ejecución de un programa, cuyo objetivo sea la satisfacción del suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos, o bien, al impulso o fomento de las actividades productivas o de desarrollo social, cívico, deportivo o cultural de sus comunidades;
 
@@ -1263,11 +1315,17 @@ II.- Que en la solicitud respectiva se especifique el destino que se proyecte da
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Que se anexe un avalúo expedido por el Departamento Fiduciario de una Institución de Crédito, por la dependencia municipal que corresponda o por Catastro. Asimismo, deberá acompañarse lo especificado en las fracciones II y III del artículo 147 de esta Ley.
+III.- Que se anexe un avalúo expedido por el Departamento Fiduciario de una Institución de Crédito, por la dependencia municipal que corresponda o por Catastro. Asimismo, deberá acompañarse lo especificado en las fracciones II y III del artículo 147 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2005)</small>
+
+IV.- A fin de garantizar las mejores condiciones posibles en cuanto al precio de la venta, ésta se realizará el valor más alto que resulte de los avalúos emitidos por la Dirección de Catastro y por alguna institución financiera que opere en la entidad.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 152.
 
-Los Ayuntamientos pueden dar en arrendamiento los bienes que integren su patrimonio. Cuando el período del arrendamiento exceda de cinco años será necesario el Decreto correspondiente del H. Congreso del Estado, en los términos de la Constitución Política del Estado.
+Los Ayuntamientos pueden dar en arrendamiento los bienes que integran su patrimonio. Cuando el período del arrendamiento exceda el periodo constitucional de la administración municipal se requerirá la aprobación de las dos terceras partes de los integrantes del Ayuntamiento.
 
 ###### ARTICULO 153.
 
@@ -1283,9 +1341,11 @@ III.- El Síndico Municipal declarará fincado el remate y el Ayuntamiento deter
 
 IV.- En la diligencia de remate y en cualquier otra formalidad se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 154.
 
-El Ayuntamiento, previo el cumplimiento de los requisitos establecidos en el Artículo 151 de esta Ley, podrá autorizar la enajenación directa en forma onerosa de inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda o bien, cuando el Congreso así lo determine al autorizar la enajenación.
+El Ayuntamiento, previo el cumplimiento de los requisitos establecidos en el artículo 151 de esta Ley, podrá autorizar la enajenación directa en forma onerosa de bienes inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda.
 
 ###### ARTICULO 155.
 
@@ -1329,7 +1389,7 @@ Cumplidas las condiciones a que se refiere el Artículo anterior, el Ayuntamient
 
 ## TITULO SEXTO. DE LA FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS
 
-### CAPITULO II. DE LAS BASES GENERALES PARA LA EXPEDICION DE REGLAMENTOS MUNICIPALES
+### CAPITULO I. DE LOS REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS MUNICIPALES
 
 ###### ARTICULO 160.
 
@@ -1367,6 +1427,8 @@ Con la normatividad que acuerde el Ayuntamiento, se podrán modificar los reglam
 
 Los Ayuntamientos tendrán la facultad de expedir circulares y disposiciones administrativas de observancia general en su circunscripción territorial, cuya aplicación redunde en beneficio de la comunidad y de la administración municipal.
 
+### CAPITULO II. DE LAS BASES GENERALES PARA LA EXPEDICION DE REGLAMENTOS MUNICIPALES
+
 ###### ARTICULO 166.
 
 Para la aprobación y expedición de los Reglamentos Municipales, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
@@ -1398,6 +1460,32 @@ Cuando el Ayuntamiento apruebe la expedición o modificación de un reglamento, 
 ###### ARTICULO 168.
 
 En la medida que se modifiquen las condiciones socioeconómicas de los Municipios, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, los Ayuntamientos deberán adecuar su reglamentación municipal, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la Sociedad.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2005)</small>
+
+## TITULO SEPTIMO. DEL PROCEDIMIENTO CONTENCIOSO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2005)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+###### ARTICULO 169.
+
+Los Ayuntamientos podrán crear los órganos necesarios, para dirimir las controversias administrativas que se susciten entre la administración pública municipal y los gobernados, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+
+(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 61/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN "LA FALTA DE EMISIÓN DEL ORDENAMIENTO LEGAL A QUE SE REFIERE EL PÁRRAFO SEGUNDO DEL ARTÍCULO 169 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN, QUE CONTENGA LAS BASES DE INTEGRACIÓN, FUNCIONAMIENTO Y ATRIBUCIONES DE LOS ÓRGANOS DE LO CONTENCIOSO ADMINISTRATIVO, QUE DIRIMAN LAS CONTROVERSIAS ADMINISTRATIVAS ENTRE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y LOS GOBERNADOS, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE", DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+La integración, funcionamiento y atribuciones de los organismos contenciosos, se determinará en el ordenamiento legal correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+
+###### ARTICULO 170.
+
+Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades municipales, los particulares afectados podrán promover el medio de defensa que corresponda, ante el órgano de lo Contencioso Administrativo. De no existir en el municipio correspondiente un Órgano de lo Contencioso Administrativo, el particular podrá acudir ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 T R A N S I T O R I O S:
 
@@ -1456,3 +1544,9 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 17 DE OCTUBRE DE 1997.
 
 PRIMERO: El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JULIO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga el Decreto número 49 emitido por la LXIX Legislatura al Congreso del Estado y publicado en el Periódico Oficial de fecha 11 de mayo de 2001.
