@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-coordinacion-de-seguridad-publica-en-el-estado-de-14881"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-30"
-last_updated: "1999-12-26"
+last_updated: "2005-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE COORDINACION DE SEGURIDAD PUBLICA EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. EL 24 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -652,3 +654,17 @@ SEGUNDO.- El presente Decreto es temporal y su vigencia será hasta que el H. Co
 TERCERO.- El Ejecutivo Estatal, dentro del término de diez días contados a partir de que entre en vigor el presente Decreto, expedirá el Reglamento respectivo al Título Quinto de la Ley de Coordinación de Seguridad Pública en el Estado de Durango, para proveer su exacto cumplimiento.
 
 CUARTO.- Los propietarios o poseedores de vehículos automotores de procedencia extranjera a que se refiere el presente Decreto, deberán inscribirse en el Padrón, dentro del término de seis meses contados a partir de la fecha en que entre en vigor el Reglamento respectivo al Título Quinto de la citada ley.
+
+P.O. 24 DE JULIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el decreto que creó la Ley de Coordinación de Seguridad Pública para el Estado de Durango, publicado en el Periódico Oficial No.43 del 30 de mayo de 1999, el decreto que le adicionó un Titulo Quinto a la citada Ley publicada en el Periódico Oficial No. 52 del 26 de diciembre de 1999, así como a las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Ejecutivo deberá expedir en un término que no exceda de ciento ochenta días, los Reglamentos a los que se refiere la presente Ley.
