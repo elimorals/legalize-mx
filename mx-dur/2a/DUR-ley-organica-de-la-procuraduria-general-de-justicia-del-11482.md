@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-procuraduria-general-de-justicia-del-11482"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-12-31"
-last_updated: "2001-10-28"
+last_updated: "2005-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2005, SE ABROGA EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 31 de diciembre de 1987.
 
@@ -428,3 +430,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Durango, publicada en el Periódico Oficial del Estado No. 53 Bis, de fecha 31 de diciembre de 1987, y se derogan sus reformas y adiciones, así como todas aquellas disposiciones legales que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+El Gobernador del Estado expedirá el Reglamento de esta Ley, dentro de los ciento ochenta días naturales contados a partir del día de inicio de su vigencia; en tanto, seguirá aplicándose la reglamentación vigente en todo lo que no se oponga a las disposiciones del presente ordenamiento.
+
+###### ARTICULO CUARTO.
+
+Los acuerdos, circulares y demás disposiciones administrativas dictadas por el Procurador General de Justicia, con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se oponga a la presente Ley, hasta que aquél dicte las normas administrativas que correspondan.
+
+###### ARTICULO QUINTO.
+
+La reglamentación necesaria correspondiente al Instituto Estatal de Profesionalización de Cuerpos Policíacos, al Servicio de Carrera, a los Estímulos y Recompensas, al Sistema Estatal de Evaluación del Desempeño Policiaco, a la Dirección de Asistencia a la Victima del Delito, y los demás que se requieran, serán expedidos por el Titular del Poder Ejecutivo Estatal dentro de los ciento ochenta días naturales contados a partir del día de inicio de la vigencia de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En el Presupuesto de Egresos del Estado para el ejercicio Fiscal 2006, se deberá contemplar una partida presupuestal al Instituto de Formación y Capacitación Profesional de la Procuraduría General de Justicia del Estado.
