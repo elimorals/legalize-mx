@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-sesiones-del-consejo-general-del-instituto-35832"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2004-01-12"
+last_updated: "2005-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -184,7 +184,11 @@ Las sesiones del Consejo podrán ser ordinarias o extraordinarias:
 
 I. Serán sesiones ordinarias, las que se celebren dentro y fuera del período del proceso electoral, se reunirán ordinariamente cuando menos una vez al mes;
 
-II. Serán sesiones extraordinarias, aquellas que sean convocadas por el Presidente o a solicitud de la mayoría de los Consejeros Ciudadanos, o bien, por la mayoría de los Consejeros Representantes.
+II. Serán sesiones extraordinarias, aquellas que sean convocadas por el Presidente o a solicitud de la mayoría de los Consejeros Ciudadanos, o bien, por la mayoría de los Consejeros Representantes;
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2005)</small>
+
+III. Las sesiones ordinarias se celebrarán el último jueves de cada mes con excepción de aquéllas en las cuales por causas de fuerza mayor o de imperiosa necesidad, la mayoría de sus miembros consensen sesionar en distinta fecha.
 
 ###### Artículo 11.
 
@@ -198,7 +202,9 @@ Para la celebración de sesiones, el Presidente deberá convocar por escrito a c
 
 Los Consejeros Representantes recibirán la convocatoria en el domicilio que tengan registrado ante el Instituto como el oficial del Partido Político al que representen.
 
-La totalidad de los integrantes del Consejo serán convocados por el Presidente a por lo menos una reunión previa a la sesión que ha de celebrarse, en la cual se abordarán los temas y puntos a tratar en el orden del día.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2005)</small>
+
+La totalidad de los integrantes del Consejo serán convocados por el Presidente a por lo menos una reunión previa. Dicha reunión previa de trabajo tendrá verificado dentro de los cinco días hábiles anteriores, para el caso de las sesiones ordinarias; y para el caso de las sesiones extraordinarias, se consultará a los miembros a efecto de que los mismos consensen la fecha y la hora en que tendrá verificativo la reunión previa de trabajo correspondiente.
 
 ###### Artículo 13.
 
@@ -393,3 +399,15 @@ Salvo que el Consejo establezca un plazo especial, todos los acuerdos surtirán 
 PRIMERO. Se abroga el Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral del Estado de Aguascalientes publicado en fecha 12 de febrero del 2001 en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO. El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JULIO DE 2005.
+
+PRIMERO. Se aprueba la adición de la fracción III al artículo 10 y se reforma el tercer párrafo del artículo 12 del Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral, en términos del Considerando Tercero del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en los estrados del Consejo General del Instituto Estatal Electoral, de conformidad con lo establecido por el párrafo tercero del artículo 38 del Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral.
+
+TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 fracción III, 271 y 273 del Código Electoral vigente en el Estado.
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
