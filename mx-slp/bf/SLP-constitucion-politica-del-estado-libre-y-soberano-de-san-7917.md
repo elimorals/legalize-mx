@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2004-06-17"
+last_updated: "2005-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2005.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -463,9 +463,9 @@ La calificación de las elecciones de Gobernador, Diputados locales y Ayuntamien
 
 Para resolver las impugnaciones que se presenten en los procesos electorales, se instituirá un Tribunal Electoral, como órgano especializado del Poder Judicial del Estado, que será la máxima autoridad jurisdiccional en la materia.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
-El procedimiento ante el Tribunal Electoral será de doble instancia, excepto tratándose de la Segunda Votación en la elección de Ayuntamiento, que será uninstancial, y los Magistrados que lo integren serán nombrados por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
+El procedimiento ante el Tribunal Electoral será de doble instancia, y los magistrados que lo integren serán nombrados por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
 
 El Presidente de cada Sala será electo por los integrantes de la misma.
 
@@ -485,17 +485,9 @@ La ley regulará y garantizará el desarrollo de los procesos electorales y el e
 
 Los organismos electorales competentes, con la participación de los partidos políticos y la colaboración del Gobierno, promoverán la actualización permanente del padrón electoral del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
 ###### ARTÍCULO 35.
 
-Cuando en las elecciones para la renovación de los ayuntamientos ninguna de las planillas de candidatos obtenga la mayoría absoluta de la votación total válida emitida en el municipio respectivo, se llevará a cabo una segunda votación, excepto en los casos que establezca la ley.
-
-En la segunda votación participarán únicamente las planillas que hayan obtenido las dos más altas votaciones.
-
-La ley de la materia reglamentará la forma, plazos y términos que regulen esta segunda votación.
-
-Para el caso de que en la segunda votación llegare a ocurrir un empate, el Congreso del Estado designará un Concejo Municipal que ejercerá sus funciones, en tanto se realiza la elección extraordinaria correspondiente conforme a la ley de la materia.
+(DEROGADO, P.O. 26 DE JULIO DE 2005)
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -785,11 +777,17 @@ XXXI.- AUTORIZAR LA ENAJENACIÓN DE LOS BIENES MUNICIPALES Y TAMBIÉN SU GRAVAME
 
 XXXII.- AUTORIZAR LAS CONCESIONES QUE OTORGUEN LOS AYUNTAMIENTOS, CUANDO SU VIGENCIA EXCEDA EL TÉRMINO DE SU ADMINISTRACIÓN;
 
-XXXIII.- Nombrar, a propuesta del Ejecutivo, a los Magistrados del Supremo Tribunal de Justicia, así como a los Magistrados del Tribunal Estatal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
 
-XXXIV.- Nombrar, a propuesta del Pleno del Supremo Tribunal de Justicia, a los Magistrados del Tribunal Electoral;
+XXXIII.- Elegir, en los términos de esta Constitución, a los magistrados del Supremo Tribunal de Justicia, así como a los magistrados del Tribunal Estatal de lo Contencioso Administrativo;
 
-XXXV.- Calificar las renuncias de los Magistrados de los Tribunales señalados en las fracciones anteriores, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+
+XXXIV.- Ratificar, en los términos de esta Constitución, a dos integrantes del Consejo de la Judicatura del Estado; designar a uno más; y a propuesta del Supremo Tribunal de Justicia, elegir a los magistrados del Tribunal Electoral;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+
+XXXV.- Calificar las renuncias de los magistrados de los tribunales del Estado y de los consejeros de la Judicatura, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
 
@@ -1063,7 +1061,9 @@ XI.- Designar y remover libremente a los Secretarios de Despacho, así como a lo
 
 XII.- Designar, con la ratificación de cuando menos la mayoría de los integrantes del Congreso del Estado al Procurador General de Justicia y removerlo libremente;
 
-XIII.- Proponer al Congreso el nombramiento de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, de conformidad con la presente Constitución;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+
+XIII.- Proponer al Congreso, a los candidatos a ocupar los cargos de magistrados del Supremo Tribunal de Justicia; del Tribunal de lo Contencioso Administrativo; y designar a un integrante del Consejo de la Judicatura del Estado, de conformidad con la presente Constitución;
 
 XIV.- Prestar apoyo a los Poderes Legislativo y Judicial y a los Ayuntamientos, cuando le sea solicitado por los mismos para el mejor ejercicio de sus funciones;
 
@@ -1191,7 +1191,7 @@ A solicitud de los Ayuntamientos y sus entidades, el Consejero Jurídico prestar
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 88.
 
@@ -1211,23 +1211,39 @@ Los miembros de los cuerpos de seguridad pública, por la naturaleza de su funci
 
 ### CAPÍTULO II. Del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en:
+Se deposita el ejercicio del Poder Judicial del Estado, en un Supremo Tribunal de Justicia, un Tribunal Electoral, en Juzgados de Primera Instancia y en Juzgados Menores.
 
-I.- El Supremo Tribunal de Justicia;
+El Poder Judicial contará con el apoyo de Jueces Auxiliares cuando así lo requiera, de conformidad con lo previsto por la ley de la materia.
 
-II.- Los Jueces de Primera Instancia;
+El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas, excepto aquellas que por su naturaleza se considere que deban ser reservadas.
 
-III.- Los Jueces Menores; y
+La administración, vigilancia y disciplina del Poder Judicial del Estado, así como la carrera judicial, estarán a cargo del Consejo de la Judicatura, en los términos de esta Constitución y conforme lo establezcan las leyes. La vigilancia respecto de la función jurisdiccional de los magistrados, así como las resoluciones disciplinarias sobre los mismos, estarán a cargo del Pleno del Supremo Tribunal de Justicia.
 
-IV.- El Tribunal Electoral, el cual con excepción de las atribuciones que se conceden a los mencionados en las tres fracciones que anteceden, será la máxima autoridad jurisdiccional en la materia electoral y órgano especializado del Poder Judicial del Estado. Las leyes determinarán su organización, competencia y funcionamiento.
+El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado, con independencia técnica, de gestión y para emitir sus resoluciones; funcionará en Pleno o en comisiones, y tendrá las atribuciones que determine la ley.
 
-El Poder Judicial contará con el apoyo de Jueces auxiliares cuando así lo requiera, de conformidad con lo previsto por la ley de la materia.
+El Consejo se integrará con cuatro miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien también lo será del Consejo; uno designado por el Congreso del Estado; otro por el Supremo Tribunal de Justicia; y uno más, por el Titular del Ejecutivo. Los designados por éstos dos últimos, serán ratificados por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Todos los consejeros deben reunir los requisitos señalados en el artículo 99 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional, experiencia y honorabilidad en el ejercicio de sus actividades.
+
+Las decisiones del Consejo serán definitivas e inatacables; salvo las que se refieren a la designación, adscripción, remoción y no ratificación de jueces, las cuales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia del Estado.
+
+Los consejeros no representan a quien los designa, por lo que ejercerán sus funciones con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos del Título Décimo Segundo de esta Constitución.
+
+La organización, funcionamiento y demás atribuciones del Consejo de la Judicatura del Estado, serán determinados por la ley, conforme a lo establecido en esta Constitución.
+
+Salvo el Presidente del Consejo, los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada y podrán ser reelectos por una sola vez.
+
+El Consejo funcionará en Pleno o en comisiones, y sus decisiones plenarias se tomarán válidamente por mayoría calificada de tres votos.
+
+De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Supremo Tribunal de Justicia podrá solicitar al Consejo, la expedición de aquellos acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función judicial.
+
+El Consejo de la Judicatura determinará el número y especialización por materia, de los juzgados y de las salas.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ### CAPÍTULO III. De los Jueces de Primera Instancia y Jueces Menores
 
@@ -1237,29 +1253,41 @@ El Poder Judicial contará con el apoyo de Jueces auxiliares cuando así lo requ
 
 Son atribuciones del Supremo Tribunal de Justicia:
 
-I.- Aplicar las leyes del fuero común en materia civil, familiar y penal, así como en los asuntos electorales de carácter jurisdiccional en el territorio del Estado;
+I. Resolver las controversias judiciales en segunda instancia y las demás cuestiones jurisdiccionales de su competencia;
 
-II.- Dictar las medidas necesarias para que la administración de justicia sea pronta y expedita;
+II. Establecer jurisprudencia en los términos que fije la ley;
 
-III.- Iniciar leyes ante el Congreso del Estado;
+III. Resolver sobre las contradicciones de criterios generales sustentados por las salas del Tribunal, sin perjuicio de observar la jurisprudencia de los tribunales del Poder Judicial Federal;
 
-IV.- Conocer y resolver las competencias que se susciten en materia civil, penal o de lo familiar entre los jueces del Estado;
+IV. Iniciar leyes o decretos relacionados con la impartición de justicia;
 
-V.- Nombrar, rotar y remover a los jueces de primera instancia y a los menores;
+V. Elegir de entre los magistrados a su Presidente, quien también lo será del Consejo de la Judicatura; y designar a un integrante del Consejo de la Judicatura, en los términos de esta Constitución;
 
-VI.- Acordar la creación de juzgados donde las necesidades de servicio lo requieran;
+VI. Solicitar al Consejo de la Judicatura el cambio de adscripción de jueces y en su caso, su remoción por causa justificada;
 
-VII.- Expedir y modificar los reglamentos interiores del propio Tribunal; y
+VII. Recibir y en su caso, aceptar la renuncia al cargo de Presidente del Tribunal;
 
-VIII.- Las demás que le confiera la Ley Orgánica del Poder Judicial del Estado y los demás ordenamientos legales.
+VIII. Calificar las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones con causa que se promuevan en contra de los magistrados, en asuntos de la competencia del Pleno;
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+IX. Proponer al Consejo de la Judicatura, a través de su Presidente, los acuerdos generales y las medidas administrativas tendientes a mejorar el registro, control y procedimiento de los asuntos que sean tramitados ante el Poder Judicial del Estado, procurando la incorporación de métodos modernos para la expedita y eficaz impartición de justicia;
+
+X. Resolver las quejas que supongan responsabilidad administrativa, que se presenten en contra de sus integrantes;
+
+XI. Dictar las medidas necesarias para que la impartición de justicia sea pronta y expedita;
+
+XII. Conocer de los asuntos cuya resolución esté expresamente atribuida a su competencia, y
+
+XIII. Las demás que le confiera la ley.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 92.
 
-El Poder Judicial ejercerá autónomamente su presupuesto y el fondo de apoyo para la administración de justicia en los términos y condiciones que prevenga la ley.
+El Poder Judicial ejercerá autónomamente su presupuesto, a través del Consejo de la Judicatura.
 
-El Supremo Tribunal de Justicia formulará anualmente su presupuesto de egresos, que remitirá con toda oportunidad al Ejecutivo, para su inclusión en el Presupuesto de Egresos del Estado, debiendo rendir al Congreso un informe mensual de su estado financiero y, anualmente, su cuenta pública.
+El presupuesto será formulado por el Consejo de la Judicatura con la aprobación del Supremo Tribunal de Justicia, y será remitido al Ejecutivo para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
+
+El Consejo de la Judicatura será responsable de rendir al Congreso un informe trimestral del estado financiero y anualmente la Cuenta Pública del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1267,33 +1295,41 @@ El Supremo Tribunal de Justicia formulará anualmente su presupuesto de egresos,
 
 Los nombramientos de los funcionarios judiciales serán hechos, preferentemente, de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con la Ley Orgánica del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2005)</small>
+
+La Ley establecerá las bases para la formación y actualización de los funcionarios del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 94.
 
 Los funcionarios judiciales estarán impedidos para el libre ejercicio de la abogacía y no podrán desempeñar ningún otro cargo, empleo o comisión públicos o privados, salvo los de docencia y los de carácter honorífico, y percibirán una remuneración adecuada e irrenunciable.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 95.
 
-El Pleno del Supremo Tribunal de Justicia deberá rendir en forma anual, a través de su Presidente, un informe público de sus actividades.
+El Supremo Tribunal de Justicia y el Consejo de la Judicatura, deberán rendir en forma anual, a través de su Presidente, un informe público de sus actividades.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 96.
 
-El Supremo Tribunal de Justicia se integra con dieciséis Magistrados numerarios y quince supernumerarios. Para el nombramiento de los numerarios, el Gobernador propondrá al Congreso al triple de personas respecto al número de cargos por cubrir, dentro de las cuales la Legislatura hará los nombramientos respectivos en el término de diez días; y en el caso de que, vencido ese plazo, aún no se haya hecho la designación, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+El Supremo Tribunal de Justicia se integra con dieciséis magistrados numerarios, electos por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso; además, por quince magistrados supernumerarios. Para su elección, el Gobernador propondrá al Congreso, al triple de personas respecto del número de cargos por cubrir, dentro de los cuales la Legislatura hará la elección respectiva en el término de treinta días. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
 
-En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior. Si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
+Cuando cese o concluya el ejercicio de una magistratura por cualquier causa, el Ejecutivo presentará al Congreso las respectivas propuestas.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 97.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo seis años, pudiendo ser ratificados y, si lo fueren, sólo podrán ser privados de sus puestos en los términos establecidos en la presente Constitución y en las leyes respectivas.
+Los magistrados del Supremo Tribunal de Justicia durarán en su encargo seis años; pudiendo ser ratificados y si lo fueren, sólo podrán ser privados de sus puestos en los términos establecidos en la presente Constitución. Para los efectos de la ratificación, el Consejo de la Judicatura integrará la documentación y rendirá un informe con los elementos que permitan al Ejecutivo evaluar el desempeño de los magistrados, para que el Congreso resuelva en su caso, sobre la propuesta de ratificación.
+
+Para ser ratificado se requerirá el voto favorable de cuando menos las dos terceras partes de los miembros del Congreso. En caso contrario se declarará la vacante, debiendo procederse en consecuencia.
+
+El cargo de magistrado en ningún caso podrá ser ejercido durante un período mayor de quince años. Al vencimiento de su período tendrá derecho a un haber de retiro, en los términos que marque la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1329,6 +1365,10 @@ VI.- No haber ocupado el cargo de Secretario de Despacho o su equivalente, Procu
 
 Para ser Magistrado supernumerario deberán cumplirse los mismos requisitos.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2005)</small>
+
+Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho.
+
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 100.
@@ -1341,11 +1381,13 @@ El cargo de Magistrado no es renunciable, sino por causa justificada calificada 
 
 En cada Distrito Judicial, que comprenderá los municipios que designe la Ley Orgánica del Poder Judicial, habrá uno o más Jueces de Primera Instancia, los que conocerán de los negocios judiciales que les competan. La ley establecerá la forma de cubrir sus faltas temporales.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 102.
 
-Los Jueces de Primera Instancia serán nombrados por el Pleno del Supremo Tribunal de Justicia, mediante examen de oposición en los términos que establezca la ley. Durarán en su cargo seis años, dentro de los cuales podrán ser separados de su cargo o cambiados de adscripción libremente por el propio Tribunal. Los jueces que sean ratificados sólo podrán ser separados de su cargo por causa debidamente justificada y previo juicio de responsabilidad.
+Los jueces de primera instancia serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+
+El cargo de juez no podrá ejercerse después de los setenta años de edad.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1365,17 +1407,17 @@ III.- Tener, al día de su nombramiento, título profesional de licenciado en de
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 104.
 
-En el Estado habrá Juzgados Menores. El Supremo Tribunal de Justicia determinará su número y podrá aumentarlos o reducirlos conforme a las necesidades del servicio. Sus facultades, obligaciones y competencia por materia y cuantía serán establecidas por la ley, y la territorial corresponderá fijarla al Pleno del Tribunal.
+En el Estado habrá juzgados menores. El Consejo de la Judicatura determinará su número conforme a las necesidades del servicio. Sus facultades, obligaciones y competencia por materia y cuantía, serán establecidas por la ley, y la territorial corresponderá fijarla al Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 105.
 
-Los jueces menores serán nombrados por el Pleno del Supremo Tribunal de Justicia, mediante examen de oposición, en los términos que establezca la ley. El Pleno podrá separarlos de su cargo o cambiarlos de adscripción libremente.
+Los jueces menores serán nombrados por el Consejo de la Judicatura, mediante examen de oposición, conforme preceptúe la ley secundaria. El Consejo de la Judicatura podrá separarlos de su cargo o cambiarlos de adscripción.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1401,11 +1443,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que haya am
 
 Habrá Jueces Auxiliares en todas las poblaciones que señale la ley y sus atribuciones serán las que ésta determine.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 108.
 
-Los Jueces Auxiliares serán nombrados por el Pleno del Supremo Tribunal de Justicia a propuesta que las comunidades hagan, de conformidad con lo establecido por la ley de la materia, la que determinará también los requisitos para desempeñar el cargo y la duración del mismo.
+Los jueces auxiliares serán nombrados por el Consejo de la Judicatura, a elección que las comunidades hagan, de conformidad con lo establecido por la ley de la materia, la que determinará también los requisitos para desempeñar el cargo y la duración del mismo.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1735,9 +1777,9 @@ II.- Cuando no se hayan celebrado elecciones;
 
 III.- Cuando las elecciones se hubieran anulado;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
 
-IV.- Cuando ninguna planilla hubiese sido declarada electa, una vez efectuada la segunda votación a que se refiere el artículo 35 de la presente Constitución; y
+IV.- Cuando ninguna planilla hubiese sido declarada electa, y
 
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1746,6 +1788,12 @@ V.- Cuando por cualquier otra causa no logre integrarse legalmente el Ayuntamien
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
 
 En todos los casos señalados en este artículo, invariablemente si el supuesto se da dentro del primer año del período constitucional correspondiente, el Consejo Estatal Electoral deberá convocar a la elección extraordinaria de Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+TÍTULO DECIMOPRIMERO
+
+DE LA JUSTICIA ADMINISTRATIVA
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1764,12 +1812,6 @@ La justicia administrativa se deposita en un Tribunal de lo Contencioso Administ
 La ley establecerá su organización, funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
 Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Durarán en su cargo seis años, durante los cuales podrán ser separados libremente del mismo por el Congreso del Estado a propuesta del Ejecutivo. Si son ratificados para otro período igual, sólo podrán ser privados de sus cargos por causa grave y previo juicio de responsabilidad.
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-TÍTULO DECIMOPRIMERO
-
-DE LA JUSTICIA ADMINISTRATIVA
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2004)</small>
 
@@ -1809,17 +1851,25 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 126.
 
-Podrán ser sujetos de juicio político en el Estado, los Diputados, Magistrados, Jueces de Primera Instancia, Secretarios de Despacho, Procurador General de Justicia, Subsecretarios, Directores Generales o sus equivalentes de las dependencias y Entidades paraestatales y paramunicipales, el Presidente de la Comisión Estatal de Derechos Humanos, así como los Presidentes Municipales, Regidores y Síndicos.
+Podrán ser sujetos de Juicio Político en el Estado, los diputados, magistrados, consejeros de la Judicatura, jueces de Primera Instancia, secretarios de Despacho, Procurador General de Justicia, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, el Presidente de la Comisión Estatal de Derechos Humanos, así como los presidentes municipales, regidores y síndicos.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 El Congreso del Estado aplicará las sanciones a que se refiere este precepto, previa declaración de procedencia emitida por cuando menos el voto de las dos terceras partes de sus miembros presentes, después de haber substanciado el procedimiento respectivo con audiencia del inculpado.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 En los casos a que se refiere el segundo párrafo del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso y previa la integración de cualquier otro elemento que se considere necesario, procederá a imponer la sanción correspondiente, aplicando para ello las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos y en los términos del párrafo anterior. Tratándose del Gobernador del Estado se actuará conforme lo dispone el artículo 128 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
@@ -2270,3 +2320,47 @@ SEGUNDO. La educación preescolar será obligatoria para todos en los siguientes
 TERCERO. Los presupuestos, tanto del Estado como de los municipios, incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programa de formación profesional del personal docente, así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos, y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas del Estado, en coordinación con la Federación, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2005.
+
+DECRETO NUMERO 357.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los ayuntamientos de la Entidad, conforme a lo dispuesto por el artículo 138 de la propia Constitución Local.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, al entrar el (sic) vigor el mismo.
+
+P.O. 26 DE JULIO DE 2005.
+
+DECRETO NUMERO 358.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiendo previamente hacerse la Declaratoria de aprobación, en los términos del artículo 138 de la propia Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+TERCERO. Las referencias al Supremo Tribunal de Justicia del Estado que se encuentren en las demás leyes estatales o en sus reglamentos, se entenderán hechas a favor del Consejo de la Judicatura, en todo lo que corresponde al ejercicio de su competencia.
+
+CUARTO. El Presidente del Consejo lo será mientras lo sea del Tribunal; y el resto de los consejeros que se designen inicialmente para su instalación, durarán: tres años, el propuesto por el Supremo Tribunal; el propuesto por el Congreso cuatro años; y el propuesto por el Poder Ejecutivo, todo el período inicial de cinco años. Al concluir estos plazos se harán las elecciones de relevo respectivas, para períodos regulares de cinco años.
+
+El Consejo de la Judicatura deberá quedar constituido a más tardar el treinta y uno de agosto próximo; debiendo enseguida avocarse a integrar sus órganos auxiliares y el Secretariado Ejecutivo.
+
+El Congreso deberá proveer oportunamente las modificaciones necesarias a la legislación secundaria, para el debido inicio de las funciones del Consejo de la Judicatura.
+
+QUINTO. El Supremo Tribunal de Justicia y el Consejo de la Judicatura, se avocarán conjuntamente, a realizar las adecuaciones correspondientes a los reglamentos que regulan las diferentes competencias administrativas en el Poder Judicial del Estado, en un plazo que no excederá de sesenta días naturales a partir de la vigencia de este.
+
+SEXTO. Para la renovación del Supremo Tribunal de Justicia en este año dos mil cinco, se observará el siguiente procedimiento:
+
+A) El Gobernador solicitará al Poder Judicial, así como a otras instituciones y organismos, la documentación y los informes necesarios para la evaluación de los actuales magistrados que no sean considerados como inamovibles, antes del treinta y uno de julio.
+
+B) La información que se hubiere recabado mediante mecanismos que permitan conocer los datos sobre el resultado del desempeño del cargo, servirá al Ejecutivo para estar en condiciones de evaluar la idoneidad de cada Magistrado, para la propuesta de reelección.
+
+C) El Supremo Tribunal de Justicia remitirá dicha documentación y los informes correspondientes, antes del veintiuno de agosto.
+
+D) Previa vista a los interesados, el Ejecutivo presentará al Congreso su propuesta de reelección y las listas para suplir vacantes, antes del quince de septiembre.
+
+E) El Congreso resolverá lo conducente antes del treinta de septiembre.
+
+F) En caso de no reelección, se notificará al Ejecutivo para que formule las propuestas correspondientes, en los términos del segundo párrafo del artículo 97 de este Decreto.
+
+SEPTIMO. Se faculta al Ejecutivo para disponer las ministraciones respectivas del Presupuesto de Egresos del Estado, a fin de dar suficiencia presupuestaria al Consejo de la Judicatura.
+
+OCTAVO. Instalado el Consejo de la Judicatura, se coordinará con el Supremo Tribunal de Justicia del Estado, a efecto de definir las cuestiones relativas a la adscripción del personal de carácter administrativo.
