@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "1999-12-17"
+last_updated: "2005-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -2023,9 +2023,11 @@ Para determinar el monto a pagar por concepto de contribuciones, productos o apr
 
 Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más conceptos de ingreso, deberá considerar, en todo caso, la cuota sin ajuste que corresponda a cada concepto, y sólo a la suma de los mismos se aplicará el ajuste al que se refiere el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
+
 ###### Artículo 175.
 
-Se concede exención del pago del Impuesto Sobre Adquisición de Bienes Inmuebles, así como de los derechos previstos en la Ley de Ingresos del Municipio y demás ordenamientos o acuerdos de orden tributario, que se generen por la prestación de servicios a cargo de las dependencias y entidades, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de Vivienda. Para tal efecto se entiende por:
+Se concede los derechos previstos en la Ley de Ingresos del Municipio y demás ordenamientos o acuerdos de orden tributario, que se generen por la prestación de servicios a cargo de las dependencias y entidades, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda. Para tal efecto se entiende por:
 
 Vivienda de interés social.- Aquélla cuyo valor al término de su edificación, no exceda del resultado de multiplicar por quince el salario mínimo general vigente en el Estado de Puebla, elevado al año.
 
@@ -2195,17 +2197,19 @@ V. En los casos no previstos en las fracciones anteriores, cuando los actos de q
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
+
 ###### Artículo 191.
 
-EXENCIONES Y NO CAUSACIÓN. No se pagará el Impuesto Sobre Adquisición de Bienes Inmuebles, en las adquisiciones de inmuebles que hagan la Federación, los Estados y los Municipios, para formar parte del dominio público.
+EXENCIONES. Sólo estarán exentos del pago del Impuesto Sobre Adquisición de Bienes Inmuebles los bienes del dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título para fines administrativos o propósitos distintos a los de su objeto público.
 
-No causarán las adquisiciones de inmuebles que realicen:
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
 
-I. Los Partidos Políticos; siempre y cuando dichos inmuebles sean para su propio uso;
+I.- (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
-II. Los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+II.- (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
-III. Las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+III.- (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
 ###### Artículo 192.
 
@@ -3211,7 +3215,9 @@ Los estados financieros y demás información financiera, presupuestal y contabl
 
 I. Formular la cuenta anual de la Hacienda Pública Municipal;
 
-II. Proporcionar a la Contaduría Mayor de Hacienda del Congreso, la información que ésta le requiera para el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
+
+II. Proporcionar al Órgano de Fiscalización Superior del Estado, la información que éste le requiera para el ejercicio de sus funciones;
 
 III. Coordinar la solventación de las observaciones de glosa;
 
@@ -3237,9 +3243,11 @@ II. Pliegos preventivos que levanten:
 
 a) Las entidades, con motivo de la glosa que de su propia contabilidad hagan.
 
-b) La Contraloría.
+b) La Contraloría;
 
-III. Pliegos de observaciones que emita la Contaduría Mayor de Hacienda del Congreso en los términos de su ordenamiento orgánico.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
+
+III. Pliegos de observaciones que emita el Órgano de Fiscalización Superior del Estado en términos de su ordenamiento orgánico.
 
 ###### Artículo 317.
 
@@ -4188,3 +4196,11 @@ Artículo Décimo Quinto.- La DGDUE procederá a revisar las disposiciones admin
 EL GOBERNADOR, hará publicar y cumplir la presenta disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veinticinco días del mes de noviembre de mil novecientos noventa y nueve.- Diputado Presidente.- GONZALO LOBATO ESCAMILLA.- Rúbrica.- Diputado Secretario.- JOSÉ FELIPE VELÁZQUEZ GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- MOISÉS CARRASCO MALPICA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de noviembre de mil novecientos noventa y nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
