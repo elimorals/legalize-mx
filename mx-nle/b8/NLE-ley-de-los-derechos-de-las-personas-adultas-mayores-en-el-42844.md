@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2005-01-07"
+last_updated: "2005-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -325,7 +325,7 @@ ESTADO DE NUEVO LEÓN
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia en el Estado, en materia de Personas Adultas Mayores:
 
-I. Proporcionar en forma gratuita los servicios de asesoría y orientación jurídica, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y testamentaria;
+I. (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
 II. Brindar los servicios de asistencia social y atención integral que le corresponda;
 
@@ -335,21 +335,21 @@ IV. Promover la coordinación con las instituciones federales y locales de salud
 
 V. En coordinación con la Delegación Estatal del Instituto Nacional de Educación de los Adultos, implementar programas que fomenten su educación;
 
-VI. Coadyuvar con la Procuraduría General de Justicia del Estado, en su atención y tratamiento cuando sean víctimas de cualquier delito;
+VI. (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
-VII. Impulsar y promover el reconocimiento y ejercicio pleno de sus derechos;
+VII. (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
 VIII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos tipificados por el Código Penal vigente en el Estado de Nuevo León o infracciones previstas en otras leyes;
 
-IX. Recibir quejas, denuncias e informes sobre la violación de sus derechos, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+IX. (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
-X. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que las perjudique;
+X. (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
 XI. Procurar que cuando se encuentren en situación de riesgo o desamparo, o por carecer de familia, cuenten con un lugar donde vivir, que cubra sus necesidades básicas;
 
 XII. Vigilar que las instituciones públicas y privadas les proporcionen el cuidado y atención adecuada, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con el Consejo de Desarrollo Social del Estado de Nuevo León, la Secretaría de Salud del Estado, y la Secretaría de Educación del Estado, según sea el caso;
 
-XIII. Ofrecer a través de la Procuraduría de la Defensa del Menor y la Familia, asesoría jurídica y representación legal, a través de personal capacitado a fin de garantizar su integridad y evitar cualquier acto de discriminación, respetando en todo momento su heterogeneidad;
+XIII. (DEROGADA, P.O. 27 DE JULIO DE 2005)
 
 XIV. Implementar las acciones pertinentes para garantizar la cobertura en materia alimentaria a los adultos mayores que se encuentren en situación de marginación, carencia de familia o de recursos económicos, impulsando además la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
@@ -537,6 +537,10 @@ El Consejo de Desarrollo Social del Estado de Nuevo León, promoverá la celebra
 
 ## TÍTULO SÉPTIMO
 
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
 ###### Artículo 41.
 
 Toda persona que tenga conocimiento de que una Persona Adulta Mayor se encuentre en situación de riesgo o desamparo podrá pedir que se apliquen de inmediato las medidas necesarias para su protección y atención.
@@ -550,6 +554,10 @@ En todo momento las instituciones públicas, privadas y sociales deberán garant
 Las instituciones públicas, privadas y sociales que presten asistencia a las Personas Adultas Mayores, deberán contar con personal capacitado para prestar este tipo de servicios.
 
 ## TÍTULO OCTAVO. DE LA DENUNCIA POPULAR Y DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
 
 ###### Artículo 44.
 
@@ -570,6 +578,116 @@ El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estata
 ###### Artículo 48.
 
 El incumplimiento a lo dispuesto a esta Ley por personas u organizaciones que no sean autoridades serán sancionadas conforme a lo establecido por la ley aplicable.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
+
+## TÍTULO NOVENO. DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 49.
+
+Se crea la Procuraduría de la Defensa del Adulto Mayor, como un Órgano Administrativo Desconcentrado, jerárquicamente subordinado al Organismo Público Descentralizado denominado “Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León O.P.D.”.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 50.
+
+La Procuraduría de la Defensa del Adulto Mayor tendrá como objetivo la atención a las personas adultas mayores en situación de riesgo y desamparo, en coadyuvando con el Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., en el cumplimiento de las atribuciones que le confiere el artículo 21 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 51.
+
+Para el cumplimiento de su objeto, la Procuraduría de la Defensa del Adulto Mayor tendrá las siguientes atribuciones:
+
+I. Impulsar y promover el reconocimiento y ejercicio pleno de los derechos de las personas adultas mayores;
+
+II. Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunto en que la persona adulta mayor tenga un interés jurídico directo, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y sucesorio;
+
+III. Procurar la defensa y representación de los derechos consignados a favor de las personas adultas mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
+
+IV. Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas;
+
+V. Asesorar vía los Métodos Alternos para la prevención y la solución de conflictos, a las personas adultas mayores en cualquier procedimiento legal en el que sean partes interesadas;
+
+VI. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando la persona adulta mayor por falta de medios económicos o por impedimento físico no pueda valerse por sí misma y requiera apoyo para llevar a cabo dichos actos;
+
+VII. Recibir quejas, denuncias e informes sobre la violación de los derechos de las personas adultas mayores, haciéndolas del conocimiento de las autoridades competentes y de ser (sic)
+
+VIII. procedente ejercitar las acciones legales correspondientes; (sic)
+
+IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de discriminación, maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que les perjudique a las personas adultas mayores;
+
+X. Citar u ordenar con auxilio de autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+
+XI. Expedir a la autoridad competente copias certificadas de los documentos que obren en los archivos sobre asuntos de su competencia, siempre y cuando sea legalmente procedente;
+
+XII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio dictados por autoridad competente que establece la presente ley; y
+
+XIII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., el Reglamento Interior y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 52.
+
+La Procuraduría de la Defensa del Adulto Mayor estará a cargo de una o un Procurador, el cual será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado, de una terna presentada por el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 53.
+
+Para ser Procurador de la Defensa del Adulto Mayor se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Licenciado en Derecho con título debidamente registrado, con cédula profesional y tres años mínimo de ejercicio profesional;
+
+III. Mayor de treinta años; y
+
+IV. Ser de reconocida honorabilidad.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 54.
+
+El Procurador de la Defensa del Adulto Mayor tendrá las siguientes facultades y obligaciones:
+
+I. Dirigir, ordenar y dar seguimiento a las labores de las distintas áreas operativas de la Procuraduría de la Defensa del Adulto Mayor;
+
+II. Representar a la Procuraduría de la Defensa del Adulto Mayor ante cualquier autoridad, organismo descentralizado federal, estatal o municipal, personas físicas o morales de derecho público o privado;
+
+III. Aprobar los manuales de organización y de procedimientos administrativos de la Procuraduría de la Defensa del Adulto Mayor;
+
+IV. Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., y al Comité Técnico para la Atención a los Adultos Mayores;
+
+V. Observar las disposiciones que le señalen esta Ley y su Reglamento Interior;
+
+VI. Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras de la Procuraduría de la Defensa del Adulto Mayor, apoyándose en la estructura administrativa prevista en su Reglamento Interior;
+
+VII. Someter a aprobación de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., el Reglamento Interior y la estructura orgánica de la Procuraduría de la Defensa del Adulto Mayor;
+
+VIII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., el Reglamento Interior y las disposiciones legales aplicables; y
+
+IX. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 55.
+
+La Procuraduría de la Defensa del Adulto Mayor contará con las unidades administrativas que se determinen en su Reglamento Interior, el cual regulará la organización y funcionamiento del citado Órgano Administrativo Desconcentrado y deberá ser aprobado por la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+###### Artículo 56.
+
+La Procuraduría de la Defensa del Adulto Mayor para hacer cumplir sus determinaciones podrá emplear cualquiera de los siguientes medios de apremio dictados por autoridad competente:
+
+I. Apercibimiento;
+
+II. Auxilio de la fuerza pública;
+
+III. Cateo y arresto hasta por 36 horas.
 
 T R A N S I T O R I O S
 
@@ -604,3 +722,13 @@ MARÍA L. YOLANDA BLANCO GARCÍA
 EL C. OFICIAL MAYOR DE GOBIERNO DEL ESTADO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JULIO DE 2005.
+
+Artículo Primero.- Este Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. deberá aprobar el Reglamento Interior de la Procuraduría de la Defensa del Adulto Mayor en un plazo no mayor a noventa días contados a partir de la fecha de entrada en vigor de la presente ley.
+
+Artículo Tercero.- El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
