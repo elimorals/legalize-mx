@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2003-06-25"
+last_updated: "2005-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -155,13 +155,17 @@ Todas las dependencias y entidades que de sus actividades generen ingresos que c
 
 Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano Superior de Auditoría.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, se integrarán oportunamente y se incluirán en las respectivas iniciativas de Leyes de Ingresos, las que deberán ser presentadas, a mas tardar el treinta de noviembre de cada año, al Congreso del Estado, en todo caso se estará a lo dispuesto en el artículo 32 de la Constitución Política del Estado.
+Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, para que puedan incluirse en las respectivas iniciativas de Leyes de Ingresos, se entregarán oportunamente, con el fin de que puedan ser presentadas según lo dispone el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el primero de octubre de cada año al Congreso del Estado:
 
-I.- Al Titular del Ejecutivo a través de la Secretaría de Hacienda del Estado a más tardar el 15 de octubre de cada año, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados oportunamente al Congreso del Estado junto con el Presupuesto de Egresos respectivo.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
 
-II.- A los Ayuntamientos por la Tesorería Municipal a más tardar el 15 de octubre de cada año, los correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser enviados oportunamente al Congreso del Estado por conducto del Presidente Municipal.
+I.- Al Titular del Ejecutivo, a través de la Secretaría de Finanzas y planeación del Estado, a más tardar el quince de agosto de cada año, los correspondientes al Gobierno del Estado y entidades de la Administración Pública Paraestatal, de forma que puedan ser enviados oportunamente al Congreso del Estado junto con el Presupuesto de Egresos respectivo.
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
+
+II.- A los Ayuntamientos, por conducto de la Tesorería Municipal, a más tardar el quince de agosto de cada año, los correspondientes al Municipio y a las entidades de la Administración Pública Paramunicipal, de manera que puedan ser enviados oportunamente al Congreso del Estado por conducto del Presidente Municipal.
 
 En el caso de Organismos Descentralizados o Empresas Intermunicipales la obligación corresponderá al Ayuntamiento donde se establezca la sede de la entidad, independientemente de que el régimen de ingresos involucre dos o más municipios. En la documentación respectiva se anexarán las actas aprobatorias de los Cabildos correspondientes.
 
@@ -209,9 +213,13 @@ Si éste es el caso, los Ayuntamientos entregarán a la Secretaría de Hacienda 
 
 Para la formulación de los proyectos de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, las dependencias y entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las dependencias, directamente a la Secretaría de Hacienda o a las Tesorerías Municipales según el caso; las entidades lo harán, en su caso, por conducto de la dependencia coordinadora del sector correspondiente.
 
-La Secretaría de Hacienda y las Tesorerías Municipales enviarán anualmente a las dependencias y entidades, durante el mes de julio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el que se señalarán las fechas de entrega respectivas. Si la información solicitada no se envía oportunamente, tanto la Secretaría como las Tesorerías elaborarán, según su propio criterio, los mencionados proyectos
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los remitirán a la consideración del Ejecutivo del Estado a más tardar el 1o. de octubre de cada año para que, previo estudio, ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado.
+La Secretaría de Finanzas y Planeación y las Tesorerías Municipales enviarán anualmente a las dependencias y entidades, durante el mes de junio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el cual se señalarán las fechas de entrega respectivas. Si la información solicitada no se envía oportunamente por las Dependencias y Entidades, tanto la Secretaría como las Tesorerías, elaborarán según su propio criterio, los mencionados proyectos.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+
+Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los entregarán al Ejecutivo del Estado a más tardar el 1° de septiembre de cada año para que, conforme a los acuerdos, se ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado. Para el caso de que inicie una nueva Legislatura el término de presentación del anteproyecto de presupuesto del Poder Legislativo, será el 17 de septiembre.
 
 ###### ARTICULO 20.
 
@@ -237,11 +245,13 @@ VIII.- En general, toda información que se considere útil para demostrar la pr
 
 Los borradores finales para los proyectos de Presupuesto de Egresos deberán ser presentados oportunamente:
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
 
-I.- Al Titular del Ejecutivo por la Secretaría de Hacienda, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso Local en los términos que señala la Constitución Política del Estado de Morelos.
+I.- Al Titular del Ejecutivo por la Secretaría de Finanzas y Planeación, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los términos que señala la Constitución Política del Estado de Morelos.
 
-II.- Al Presidente Municipal por la Tesorería Municipal, los correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser presentados en el Cabildo a más tardar el 15 de noviembre de cada año.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
+
+II.- Al Presidente Municipal por conducto de la Tesorería Municipal, los correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser presentados en el Cabildo a más tardar el 14 de septiembre de cada año.
 
 Aprobado el Presupuesto de Egresos del Municipio para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir por conducto del Presidente Municipal durante el transcurso del mes de enero del año siguiente, copias del mismo y de sus programas y subprogramas acompañados del acta de la sesión de cabildo en que se aprobó, al Congreso del Estado, para efectos de la revisión de la Cuenta Pública.
 
@@ -343,11 +353,15 @@ Los Catálogos de Cuentas que utilizarán las dependencias a que se refieren el 
 
 El Poder Legislativo y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos, que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las dependencias del Poder Ejecutivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
+
 ###### ARTICULO 38.
 
-Es facultad (sic) la Secretaría de Hacienda formular la Cuenta Pública anual de la Hacienda Estatal así como integrar la información o consolidar los estados financieros que emanen de las Entidades Paraestatales o Paramunicipales incluidas en los presupuestos de egresos para someterla a consideración del Ejecutivo del Estado para su presentación al Congreso del Estado. Dicha Cuenta Pública se elaborará por trimestres comprendidos de enero a marzo; de abril a junio; de julio a septiembre y de octubre a diciembre.
+Es facultad de la Secretaría de Finanzas y Planeación formular la Cuenta Pública anual de la Hacienda Estatal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades Paraestatales o Paramunicipales, incluidas en los presupuestos de egresos para someterla a consideración del Ejecutivo del Estado, para su respectiva presentación al Congreso del Estado. Dicha Cuenta Pública se elaborará por trimestres comprendidos de enero a marzo; de abril a junio; de julio a septiembre y de octubre a diciembre.
 
-El Ejecutivo rendirá la cuenta general de gastos por trimestre durante los treinta días posteriores al cierre de dichas cuentas, a excepción del último trimestre de cada año cuya cuenta se presentará en los primeros diez días del mes de enero.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+
+El Ejecutivo rendirá la Cuenta Pública trimestralmente a más tardar el último día hábil del mes siguiente de cada trimestre. Para el cumplimiento de lo anterior, la Secretaría de Finanzas y Planeación dictará las disposiciones administrativas que procedan.
 
 Para el cumplimiento de lo anterior, la Secretaría de Hacienda dictará las disposiciones administrativas que procedan.
 
@@ -357,7 +371,13 @@ La Secretaría de Hacienda, las Dependencias y Entidades Estatales y Paraestatal
 
 En el ámbito Municipal, la facultad a que se refiere el primer párrafo del artículo anterior corresponde a las Tesorerías Municipales que habrán de preparar la cuenta Anual del Municipio y someterla al Cabildo.
 
-Los Ayuntamientos enviarán al Congreso, dentro de los primeros quince días del mes de marzo de cada año, la cuenta correspondiente al año anterior.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+
+Los Ayuntamientos enviarán al Congreso del Estado, de conformidad con el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el 31 de enero de cada año, la cuenta pública correspondiente al año anterior, a excepción del año en que concluya un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo, a más tardar el 30 de noviembre el ayuntamiento que concluya, y el 31 de enero el que inicie, correspondiente a los últimos dos meses del año en que se haga el cambio.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+Así mismo, los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
 
 Los propios Ayuntamientos serán responsables de solventar las observaciones sobre la Cuenta Pública que finque el Congreso del Estado.
 
@@ -417,9 +437,9 @@ Para efecto de evaluación del Presupuesto de Egresos, las Dependencias y Entida
 
 La Secretaría de Hacienda y las Comisiones y Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico-financiero de los programas autorizados en el Presupuesto de Egresos del Gobierno del Estado y en el de los Municipios.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-Los Poderes Legislativo, Judicial y Ejecutivo, así como las entidades mencionadas en el Artículo 2 de la presente Ley, presentarán trimestralmente sus Cuentas Públicas ante el Congreso del Estado; dicha presentación se hará durante los treinta días siguientes al día último de cada trimestre, excepto el cuarto trimestre, en cuyo caso se hará durante los primeros diez días hábiles del mes de Enero del año siguiente.
+Los Poderes Legislativo, Judicial y Ejecutivo, así como las entidades mencionadas en el Artículo 2 de esta Ley, presentarán trimestralmente sus Cuentas Públicas ante el Congreso del Estado; dicha presentación se hará a más tardar el último día hábil del mes siguiente al cierre de cada trimestre.
 
 ###### ARTICULO 47.
 
@@ -524,3 +544,13 @@ P.O. 25 DE JUNIO DE 2003.
 PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para los efectos Constitucionales correspondientes.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se instruye a la Secretaría General de Servicios Legislativos y Parlamentarios, para que una vez aprobado y publicado el presente Decreto, de a conocer a los Presidentes Municipales, Tesoreros Municipales, al Titular del Poder Judicial y de las Entidades de la Administración Pública Paraestatal y Paramunicipal, la reforma aprobada.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
