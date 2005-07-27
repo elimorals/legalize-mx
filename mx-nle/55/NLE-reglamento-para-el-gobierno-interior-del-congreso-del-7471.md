@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2003-12-29"
+last_updated: "2005-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -405,9 +405,15 @@ m) Lo relativo a la creación de empleos y oficinas que requiera la Administraci
 
 n) Las iniciativas relacionadas con la organización y estructura de los Poderes Ejecutivo y Judicial;
 
-ñ) Las iniciativas relativas a la regulación del acceso por parte del ciudadano a la toma de decisiones del Estado o sus municipios, para fortalecer la vida democrática en los mismos; y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-o) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+ñ) Las iniciativas relativas a la regulación del acceso por parte del ciudadano a la toma de decisiones del Estado o sus municipios, para fortalecer la vida democrática en los mismos;
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+
+o) Conocer del procedimiento para que el gobierno estatal asuma una función o servicio municipal, al no existir el convenio correspondiente; y
+
+p) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -665,9 +671,9 @@ g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XIV.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los Empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Gaudalupe, Iturbide, Mier y Noriega y Monterrey, Nuevo León.
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y, en su caso, aprobación de las cuentas públicas de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega y Monterrey, Nuevo León; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -675,9 +681,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XV.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de, Allende, Apodaca, Cadereyta Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León.
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de, Allende, Apodaca, Cadereyta, Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -685,9 +691,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XVI.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Anáhuac, Bustamante, General Escobedo, Lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León.
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios; así como la revisión y en su caso aprobación de las cuentas públicas de Anáhuac, Bustamante, General Escobedo, lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Villecillo y Villaldama, Nuevo León; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -695,7 +701,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XVII.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Agualeguas, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás, y Pesquería, Nuevo León.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de Aguascalientes, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldama, Los Herreras, Los Ramones, Marín, Melchor Ocampo, parás, y Pesquería, Nuevo León; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -703,7 +711,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XVIII.- Comisión Quinta de Hacienda y Desarrollo Municipal:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santana Catarina, Nuevo León; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -1870,3 +1880,7 @@ P.O. 29 DE DICIEMBRE DE 2003.
 DECRETO NUM. 58.
 
 Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma al Artículo 63 fracción XII de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se está reformando la referida disposición constitucional.
+
+P.O. 27 DE JULIO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
