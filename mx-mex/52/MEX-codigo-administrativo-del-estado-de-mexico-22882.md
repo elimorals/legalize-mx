@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2004-08-11"
+last_updated: "2005-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2005.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -763,7 +763,7 @@ XVII. Prestar consultoría a título oneroso a personas de derecho privado;
 
 XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadísticas sobre la situación sanitaria de la entidad, respecto a la materia de su especialización;
 
-XIX.- Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
+XIX. Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
 
 ## TITULO CUARTO. De la salubridad local
 
@@ -4321,7 +4321,9 @@ VI. Multa, atendiendo a la gravedad de la infracción:
 
 a) De mil a quinientas mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, tratándose de usos que generen impacto regional y de actos de división del suelo;
 
-b) De mil a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la infracción, en los demás casos.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2005)</small>
+
+b) De diez a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la infracción, en los demás casos.
 
 VII. Suspensión o cancelación de la inscripción del perito en el Registro Estatal de Desarrollo Urbano.
 
@@ -4819,7 +4821,9 @@ I. El Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local;
+II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las
+
+comunicaciones de jurisdicción local;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -6735,13 +6739,17 @@ VI. Gestionar prerrogativas fiscales para las personas con capacidades diferente
 
 La integración al empleo de los trabajadores con capacidades diferentes requerirá de acciones previas de capacitación y rehabilitación profesional.
 
-###### Artículo 1129.
+###### Artículo 11.
 
-Para efectos de este Capítulo, la Secretaría del Trabajo y de la Previsión Social tendrá las atribuciones siguientes:
+29.- Para efectos de este Capítulo, la Secretaría del Trabajo y de la Previsión Social tendrá las atribuciones siguientes:
 
 I. Establecer programas de promoción del empleo de las personas con capacidades diferentes, creando una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades;
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
+
+### CAPITULO PRIMERO. Parte general
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6754,10 +6762,6 @@ II. El uso de asientos exclusivos en los diversos medios de transporte público 
 III. Estacionarse en zonas de estacionamiento restringido y ocupar los espacios de uso exclusivo en los estacionamientos de servicio al público que sean destinados para personas con capacidades diferentes, los que deberán estar diseñados y señalizados de acuerdo a requerimientos específicos.
 
 Los concesionarios del servicio de transporte de pasajeros están obligados a prestar el servicio a las personas con capacidades diferentes sin discriminación alguna.
-
-### CAPITULO PRIMERO. Parte general
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6783,6 +6787,10 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 11.
 
 34.- Las personas con capacidades diferentes tendrán los derechos siguientes:
@@ -6793,15 +6801,15 @@ II. Disfrute de los servicios públicos en igualdad de circunstancias.
 
 Para el cumplimiento de lo dispuesto en este artículo, las autoridades competentes incluirán en sus planes de desarrollo urbano o de centros de población, la prestación de facilidades urbanísticas y arquitectónicas para las personas con capacidades diferentes y harán recomendaciones a organismos públicos y empresas privadas.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ###### Artículo 11.
 
 35.- Se consideran barreras arquitectónicas todos aquellos obstáculos que dificultan, entorpecen o impiden el libre desplazamiento de las personas con capacidades diferentes en los espacios públicos exteriores o interiores del sector público, social o privado.
 
 Las barreras arquitectónicas que en la infraestructura vial deben ser eliminadas o readecuadas para brindar facilidad de desplazamiento a las personas con capacidades diferentes son: banquetas, coladeras, estacionamientos, escaleras, rampas, teléfonos públicos y tensores para postes.
+
+### CAPITULO TERCERO. De la sistematización
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6809,7 +6817,7 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6823,17 +6831,9 @@ II. Los servicios podrán ser prestados tanto por las instituciones públicas co
 
 III. La prestación de los servicios procurará la permanencia de las personas con capacidades diferentes en su entorno familiar.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ###### Artículo 11.
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
-
-###### Artículo 11.
-
-39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con capacidades diferentes, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
 
 ### CAPITULO QUINTO. De los catálogos
 
@@ -6841,39 +6841,23 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 ###### Artículo 11.
 
-40.- El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México promoverá la participación de los medios de comunicación, las organizaciones sociales y privadas, y de atención a personas con capacidades diferentes, así como de la comunidad en general en los programas de difusión para fomentar los hábitos de seguridad, higiene y educación para mejorar la calidad de vida de las personas con capacidades diferentes.
+39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con capacidades diferentes, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
 
 ## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
 ###### Artículo 11.
 
-41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con capacidades diferentes respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
+40.- El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México promoverá la participación de los medios de comunicación, las organizaciones sociales y privadas, y de atención a personas con capacidades diferentes, así como de la comunidad en general en los programas de difusión para fomentar los hábitos de seguridad, higiene y educación para mejorar la calidad de vida de las personas con capacidades diferentes.
 
 ###### Artículo 11.
 
-42.- Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con capacidades diferentes, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
+41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con capacidades diferentes respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
 
 ## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
 ###### Artículo 11.
 
-43.- Para los efectos del presente Libro, la autoridad competente aplicará, a petición de parte o de oficio, independientemente de lo preceptuado por otras disposiciones legales, las sanciones siguientes:
-
-I. Multa equivalente de treinta veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quienes ocupen indebidamente los espacios: de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con capacidades diferentes y otros con el mismo fin;
-
-II. Multa equivalente de cincuenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a los prestadores del servicio público de transporte que nieguen u obstaculicen el uso del servicio, de acuerdo a lo dispuesto por el presente Libro;
-
-III. Multa equivalente de quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción a:
-
-a) Los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con capacidades diferentes;
-
-b) Las empresas o constructoras de conjuntos urbanos que no brinden las facilidades arquitectónicas previstas por el presente Libro;
-
-c) Los propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas en este Libro.
-
-En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la clausura temporal o definitiva de acuerdo con la gravedad que determine la autoridad. En el caso del inciso a) de la fracción III, la clausura procederá en caso de incurrir el infractor en tres ocasiones en la misma falta.
-
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+42.- Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con capacidades diferentes, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
 
 ## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
@@ -8930,3 +8914,9 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Consejo Estatal de Población, en la materia de su competencia, expedirá el reglamento interior dentro de los 90 días siguientes a su publicación en el Periódico oficial "Gaceta del Gobierno".-
 
 CUARTO.- En tanto se expida la reglamentación a que refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias al presente decreto.
+
+G.G. 27 DE JULIO DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
