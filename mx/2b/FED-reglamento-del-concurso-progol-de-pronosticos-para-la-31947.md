@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2004-06-11"
+last_updated: "2005-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -163,29 +163,51 @@ Todos los concursos se verificarán en un lugar al cual tenga libre acceso el p�
 
 Pronósticos publicará en diarios de circulación importante, al siguiente día al que se hubiere verificado el concurso y obtenido la selección de ganadores, las combinaciones ganadoras de la quiniela y el importe de la premiación por quiniela sencilla para cada una de las categorías establecidas.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 2005)</small>
 
 ###### Artículo 19o.
 
-Conocidos los resultados de los partidos de fútbol base de un concurso o determinados por sorteo en la forma en que se indica en el capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo, tercero y cuarto premios. Estos se determinarán de acuerdo con la información contenida en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias. A este acto se le denomina Selección de Ganadores definido en los términos del punto 13 del artículo 3o. de este reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
+Conocidos los resultados de los partidos de fútbol base de un concurso o determinados por sorteo en la forma en que se indica en el capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo, tercero, cuarto y quinto premios. Estos se determinarán de acuerdo con la información contenida en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias. A este acto se le denomina Selección de Ganadores definido en los términos del punto 13 del artículo 3o. de este Reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
 El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 Estarán presentes también en el desarrollo y la celebración del concurso, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
 Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
 
-La Selección de Ganadores deberá iniciarse después de que se realice o sortee el último partido de los programados para un determinado concurso.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2005)</small>
+
+La selección de ganadores deberá iniciarse después de que se realice o sortee el último partido de los programados para un determinado concurso.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2005)</small>
 
 ###### Artículo 20o.
 
-Del monto total de lo recaudado por concepto de venta de quinielas del concurso Progol, se destinará un 40% para premios. El Consejo Directivo de Pronósticos autorizará la asignación del porcentaje destinado a premiación de los concursantes ganadores a cada categoría de la estructura de premios señalada en el artículo 21o. de este Reglamento y la dará a conocer previamente al público en los diarios de mayor circulación del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+Se considera fondo de cada concurso el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el concurso.
+
+Dicho fondo se aplicará como sigue:
+
+Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+
+Un mínimo de 45% destinado a premiación de los concursantes ganadores.
+
+El Consejo Directivo de Pronósticos autorizará la asignación del porcentaje destinado a premiación de los concursantes ganadores a cada categoría de la estructura de premios señalada en el artículo 21o. de este Reglamento y la dará a conocer previamente al público en los diarios de mayor circulación del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las quinielas ganadoras a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 2005)</small>
+
 ###### Artículo 21o.
 
-Se instituyen cuatro categorías de premiación en cada concurso:
+Se instituyen cinco categorías de premiación en cada concurso:
 
 a) A primer lugar, las quinielas registradas que hayan acertado al total de pronósticos del concurso.
 
@@ -195,17 +217,37 @@ c) A tercer lugar, las quinielas registradas que hayan acertado al mayor número
 
 d) A cuarto lugar, las quinielas registradas que hayan acertado al mayor número de pronósticos inmediatamente inferior del número de aciertos obtenidos para el tercer lugar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE JULIO DE 2005)</small>
+
+e) A quinto lugar, las quinielas registradas que hayan acertado al mayor número de pronósticos inmediatamente inferior del número de aciertos obtenidos para el cuarto lugar.
+
 Cuando ninguna de las quinielas registradas para un concurso acierte a los resultados de todos los partidos de fútbol programados en él, se declarará desierto el primer lugar y su importe total asignado para premiación se acumulará para el concurso siguiente, y así sucesivamente hasta que haya quiniela o quinielas ganadoras al primer lugar.
 
-Las categorías de segundo, tercero y cuarto lugares no tienen premios acumulativos y, por lo tanto, sus importes asignados deberán repartirse en cada concurso.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2005)</small>
+
+Las categorías de segundo, tercero, cuarto y quinto lugar no tienen premios acumulativos y, por lo tanto, sus importes asignados deberán repartirse en cada concurso.
 
 Cada quiniela sencilla sólo puede obtener un premio en una de las categorías especificadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE JULIO DE 2005)</small>
+
+Si el porcentaje de la venta destinado al cuarto y quinto lugar resultara insuficiente para cubrir el total de números ganadores, o bien si para cubrir el pago mínimo ofrecido resultaran diferencias, éstas se cubrirán en su caso, con las reservas existentes.
+
 Pronósticos podrá modificar las bases especificadas en este artículo, para aquellos concursos que por su naturaleza y en beneficio del público así lo requieran y, en estos casos, dará al procedimiento a seguir la más amplia difusión para conocimiento del público.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2005)</small>
 
 ###### Artículo 22o.
 
-Los resultados de la Selección de Ganadores se harán constar en acta mencionada en el artículo 19o. En el acta se anotarán, además, las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará la lista producida por el sistema de computación que contenga los números de los boletos ganadores del primero, segundo, tercero y cuarto premios así como el importe correspondiente a cada uno de ellos.
+Los resultados de la selección de ganadores se harán constar en acta mencionada en el artículo 19o. En el acta se anotarán, además, las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores del primero, segundo, tercero, cuarto y quinto premios, así como el importe correspondiente a cada uno de ellos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2005)</small>
+
+###### Artículo 22o.
+
+bis.- Si por causas de fuerza mayor no acudiera al evento el Inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un Fedatario Público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del concurso.
+
+En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
 ### Capítulo V. De las reclamaciones
 
@@ -286,3 +328,11 @@ D.O.F. 11 DE JUNIO DE 2004.
 Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 29 DE JULIO DE 2005.
+
+Primero.- Estas reformas y adición entrarán en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adición de este Reglamento, serán resueltos conforme a los anteriores.
