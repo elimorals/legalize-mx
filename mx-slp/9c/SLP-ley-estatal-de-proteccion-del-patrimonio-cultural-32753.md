@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-del-patrimonio-cultural-32753"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-03"
-last_updated: "2003-07-03"
+last_updated: "2005-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCION DEL PATRIMONIO CULTURAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. EL 30 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de julio de 2003.
 
@@ -692,3 +694,21 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JULIO DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; salvo los artículos 45 y 48 que entrarán en vigor el día uno de enero de dos mil seis.
+
+SEGUNDO. Se abroga la Ley Estatal de Protección del Patrimonio Cultural, publicada el tres de julio de dos mil tres en el Periódico Oficial del Estado.
+
+TERCERO. El titular del Ejecutivo del Estado, dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley, expedirá el Reglamento de la misma.
+
+CUARTO. La Secretaría de Cultura, dentro de los noventa días siguientes a la publicación de la presente Ley, instalará la Coordinación Técnica Estatal de Protección al Patrimonio Cultural.
+
+QUINTO. En virtud de que la presente Ley amplía la estructura orgánica a la Secretaría de Cultura de Gobierno del Estado, consecuentemente, las secretarías de Planeación del Desarrollo, y la de Finanzas, en el ámbito de sus respectivas atribuciones, deberán contemplar en los respectivos presupuestos de egresos, en favor de la dependencia referida inicialmente, la asignación y entrega de recursos financieros, materiales y humanos suficientes para que ésta pueda dar cumplimiento a las obligaciones que adquiere mediante este Ordenamiento.
+
+SEXTO. Los ayuntamientos deberán contemplar en sus reglamentos respectivos, las disposiciones establecidas en la presente Ley, en un plazo no mayor de ciento ochenta días contados a partir de su publicación.
+
+SEPTIMO. Se derogan todas las disposiciones que se opongan a esta Ley.
