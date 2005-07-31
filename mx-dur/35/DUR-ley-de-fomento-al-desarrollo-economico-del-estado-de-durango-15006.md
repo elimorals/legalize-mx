@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-al-desarrollo-economico-del-estado-de-durango-15
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-27"
-last_updated: "1999-06-27"
+last_updated: "2005-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15006&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE FOMENTO AL DESARROLLO ECONOMICO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. EL 31 DE JULIO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 27 de junio de 1999.
 
@@ -636,3 +638,59 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS OCHO DIAS DEL MES DE JUNIO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETERIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento al Desarrollo Económico del Estado de Durango, aprobada mediante el decreto Número 132 publicado en el Periódico Oficial Número 27, de fecha 27 de junio de 1999.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado, por conducto de la Secretaría contará con un plazo de 90 días naturales para expedir el Reglamento de la Ley de Desarrollo Económico para el Estado de Durango.
+
+El Gobernador del Estado, por conducto de la Secretaría podrá emitir lineamientos generales para la aplicación de la presente Ley en tanto se publica el Reglamento sin que ello implique una ampliación en el plazo a que hace referencia el párrafo anterior.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría contará con un periodo de 90 días naturales a partir de la entrada en vigor de esta Ley para la integración del Consejo de Desarrollo Económico del Estado de Durango.
+
+###### ARTÍCULO SEXTO.
+
+Las Solicitudes de incentivos y apoyos que se encuentren en trámite en la Secretaría, al momento de entrar en vigor la presente Ley, se resolverán de conformidad con lo dispuesto en la Ley de Fomento al Desarrollo Económico del Estado de Durango, aprobada mediante el decreto Número 132 publicado en el Periódico Oficial Número 27, de fecha 27 de junio de 1999 y demás disposiciones aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las exenciones de impuestos y derechos estatales y los estímulos previstos para el ejercicio fiscal 2005, continuarán otorgándose por las autoridades fiscales en los términos establecidos en la Ley de Hacienda del Estado de Durango, el Código Fiscal de Estado de Durango, la Ley de Ingresos del Estado Libre y Soberano de Durango, para el ejercicio Fiscal de 2005 y las demás disposiciones administrativas de carácter general
+
+###### ARTÍCULO OCTAVO.
+
+Los Subsidios y Transferencias presupuestales destinadas a la promoción del Desarrollo Económico de la Entidad, previstas para el presente ejercicio fiscal, continuarán ejerciéndose según las partidas y conceptos establecido (sic) en la Ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio fiscal 2005 y demás normatividad aplicable.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría de Finanzas y de Administración a partir del ejercicio fiscal 2006, reestructurará el Capítulo 4000 denominado Transferencias contenido en la ley de Egresos del Estado Libre y Soberano de Durango, con el objeto de crear una partida donde se agrupen los conceptos relativos a los subsidios y transferencias que integran el Fondo de Fomento Económico destinados al desarrollo económico de la Entidad, de la competitividad y productividad empresarial.
+
+El Poder Ejecutivo y el Congreso del Estado, en el ámbito de sus respectivas competencias, a partir del ejercicio fiscal de 2007, procurarán promover acciones tendientes para que las asignaciones presupuestales que integren el Fondo de Desarrollo Económico no sean inferiores a las del ejercicio anterior.
+
+###### ARTÍCULO DÉCIMO.
+
+Para el ejercicio Fiscal 2006 el Gobernador del Estado, tomará las previsiones necesarias para incluir en las iniciativas de ley de Ingresos y de Egresos del Estado Libre y Soberano de Durango respectivamente, las reglas generales del sistema de incentivos previsto por esta Ley, en el sentido de establecer el sistema de exenciones de impuestos o derechos estatales, estímulos fiscales, subsidios y transferencias y apoyos específicos que se destinarán al fomento del desarrollo económico.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para el ejercicio fiscal correspondiente al año 2006, los Ayuntamientos de la entidad que estimen pertinente incorporar a su política de fomento económico el sistema de incentivos previstos por esta Ley, deberán incluir en su iniciativa de Ley de ingresos y presupuesto de egresos, respectivamente, las exenciones de impuestos o derechos municipales, los estímulos fiscales, subsidios y transferencias y apoyos específicos orientados al cumplimiento de los fines de esta Ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría contará con un plazo de 60 días naturales, contados a partir de la entrada en vigor de la Ley, para publicar el formato único de trámites estatales y municipales para la operación del sistema de apertura.
