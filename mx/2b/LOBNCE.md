@@ -4,7 +4,7 @@ identifier: "LOBNCE"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2002-06-24"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LOBNCE"
 
 LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el lunes 20 de enero de 1986.
+Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -87,6 +87,10 @@ VI. Otorgar financiamiento a los exportadores indirectos y en general al aparato
 VII. Cuando sea de interés promover las exportaciones mexicanas, podrá otorgar apoyos financieros a las empresas comercializadoras de exportación, consorcios y entidades análogas de comercio exterior;
 
 VIII. Propiciar acciones conjuntas de financiamiento y asistencia en materia de comercio exterior con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado;
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+VIII Bis. Propiciar acciones conjuntas de financiamiento y asistencia para las personas, empresas y organizaciones productivas y de comercialización, en pueblos y comunidades indígenas, en materia de comercio exterior con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado;
 
 IX. Podrá ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, ya sea que éstos sean otorgados por instituciones del extranjero, privadas, gubernamentales e intergubernamentales;
 
@@ -300,7 +304,7 @@ También serán facultades del Consejo Directivo las siguientes:
 
 I. Aprobar el Informe Anual de Actividades que le presente el Director General;
 
-II. Autorizar el otorgamiento de las garantías a que se refieren las fracciones II del artículo 6o. y VI del artículo 7o. de esta Ley.
+II. Autorizar el otorgamiento de las garantías a que se refieren las fracciones II del artículo 6o. y VI del artículo 7o. de esta Ley;
 
 III. Aprobar las inversiones en capital de riesgo a que se refieren la fracción IV del artículo 6o., la fracción II del artículo 7o. y el artículo 32 de la presente Ley y su enajenación, estableciendo las modalidades que considere convenientes;
 
@@ -519,3 +523,9 @@ Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de
 ###### ARTICULO NOVENO.
 
 Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
+
+D.O.F. 1 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
