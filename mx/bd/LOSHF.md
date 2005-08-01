@@ -4,7 +4,7 @@ identifier: "LOSHF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-10-11"
-last_updated: "2002-06-24"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOSHF"
 
 LEY ORGANICA DE SOCIEDAD HIPOTECARIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de octubre de 2001.
 
@@ -49,6 +49,10 @@ La presente Ley es reglamentaria del sexto párrafo del artículo 4o. constituci
 Hipotecaria Federal, Sociedad Nacional de Crédito, tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de garantías destinadas: a la construcción, adquisición y mejora de la vivienda, preferentemente de interés social; así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
 
 Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+La Sociedad Hipotecaria Federal desarrollará programas que promuevan la construcción de viviendas en zonas y comunidades indígenas en el territorio nacional con los recursos que se aprueben para tal efecto en el presupuesto de egresos.
 
 Para efectos de esta Ley, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas.
 
@@ -415,3 +419,9 @@ Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de
 ###### ARTICULO NOVENO.
 
 Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
+
+D.O.F. 1 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
