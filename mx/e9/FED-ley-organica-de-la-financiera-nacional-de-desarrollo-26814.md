@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-financiera-nacional-de-desarrollo-26814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-26"
-last_updated: "2002-12-26"
+last_updated: "2005-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-23"
 
 LEY ORGANICA DE LA FINANCIERA RURAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de diciembre de 2002.
 
@@ -109,7 +109,9 @@ Para el cumplimiento de su objeto, la Financiera podrá realizar las operaciones
 
 I. Otorgar préstamos o créditos a los Productores;
 
-II. Otorgar préstamos o créditos a los Intermediarios Financieros Rurales para que éstos, a su vez, concedan financiamiento para impulsar actividades agropecuarias, forestales, pesqueras y todas las actividades vinculadas al medio rural;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+II. Otorgar préstamos o créditos a los Intermediarios Financieros Rurales para que éstos, a su vez, concedan financiamiento para impulsar actividades agropecuarias, forestales, pesqueras y todas las actividades vinculadas al medio rural e indígena;
 
 III. Otorgar garantías y avales, previa constitución de las reservas correspondientes;
 
@@ -145,11 +147,21 @@ XVIII. Ejecutar los programas específicos que en materia de financiamiento rura
 
 XIX. Adquirir o arrendar bienes muebles e inmuebles necesarios para la realización de su objeto, así como enajenarlos o arrendarlos cuando corresponda;
 
-XX. Promover ante instituciones nacionales e internacionales orientadas a la inversión y el financiamiento, proyectos productivos que impulsen el desarrollo rural, estando facultada para administrarlos y canalizarlos, así como operar con los Gobiernos Federal, Estatales y Municipales los programas que se celebren con las instituciones mencionadas, siempre y cuando no generen pasivo alguno a la Financiera;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
 
-XXI. Contratar cualquier tipo de servicio necesario para el desempeño de su objeto, y
+XX. Promover ante instituciones nacionales e internacionales orientadas a la inversión y el financiamiento, proyectos productivos que impulsen el desarrollo rural e indígena en las distintas zonas del país y que propicien en desarrollo sustentable de cada región, estando facultada para administrarlos y canalizarlos, así como operar con los Gobiernos Federal, Estatales y Municipales los programas que se celebren con las instituciones mencionadas, siempre y cuando no generen pasivo alguno a la Financiera;
 
-XXII. Las demás actividades análogas de carácter financiero relacionadas con su objeto que autorice la Secretaría de Hacienda.
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+XXI. Contratar cualquier tipo de servicio necesario para el desempeño de su objeto;
+
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+XXII. Coordinarse, en el ámbito de sus atribuciones, con las dependencias y entidades de la Administración Pública Federal responsables de fomentar el desarrollo tecnológico del campo que cuenten con programas orientados al desarrollo tecnológico y capacitados del medio rural e indígena, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+XXIII. Las demás actividades análogas de carácter financiero relacionadas con su objeto que autorice la Secretaría de Hacienda.
 
 En ningún caso la Financiera podrá celebrar operaciones que permitan captar de manera directa o indirecta recursos del público o de cualquier intermediario financiero.
 
@@ -828,3 +840,11 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 México, D.F., a 13 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Rafael Melgoza Radillo, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
