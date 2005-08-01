@@ -4,7 +4,7 @@ identifier: "LONF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2002-06-24"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LONF"
 
 LEY ORGANICA DE NACIONAL FINANCIERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -67,6 +67,10 @@ La duración de la Sociedad será indefinida.
 La Sociedad, con el fin de fomentar el desarrollo integral del sector industrial y promover su eficiencia y competitividad, en el ejercicio de su objeto canalizará apoyos y recursos y estará facultada para:
 
 I.- Promover, gestionar y poner en marcha proyectos que atiendan necesidades del sector en las distintas zonas del país o que propicien el mejor aprovechamiento de los recursos de cada región;
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+I Bis.- Establecer programas de financiamiento para apoyar actividades económicas que propicien la creación de empleos, en las empresas u organizaciones indígenas; que permitan la incorporación de tecnologías que les ayuden a incrementar su capacidad productiva, así como para asegurar el acceso equitativo de las mismas a los sistemas de abasto y comercialización;
 
 II.- Promover, encauzar y coordinar la inversión de capitales;
 
@@ -547,3 +551,9 @@ Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de
 ###### ARTICULO NOVENO.
 
 Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
+
+D.O.F. 1 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
