@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-banco-del-bienestar-antes-ley-organica-del-213
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-06-01"
-last_updated: "2005-02-23"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21311&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-30"
 
 LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 1 de junio de 2001.
 
@@ -105,7 +105,9 @@ V. Gestionar y, en su caso, obtener concesiones, permisos y autorizaciones para 
 
 VI. Realizar los estudios económicos, sociales y financieros necesarios para el desarrollo del Sector;
 
-VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores social y privado y con los Organismos de Integración y las Entidades de Ahorro y Crédito Popular;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores indígena, social y privado y con los Organismos de Integración y las Entidades de Ahorro y Crédito Popular;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -117,7 +119,11 @@ IX. Promover, gestionar y financiar toda clase de proyectos, operaciones y activ
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-X. Participar en las actividades inherentes a la promoción y conformación del Sector.
+X. Participar en las actividades inherentes a la promoción y conformación del Sector;
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+XI. Diseñar y ejecutar programas que promuevan el ahorro y la inversión dentro de las comunidades indígenas.
 
 La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
 
@@ -790,3 +796,9 @@ Las Federaciones a que se refiere la Ley de Ahorro y Crédito Popular podrán af
 Las sociedades o asociaciones que se afilien a una Federación en términos de lo dispuesto por este artículo, no podrán participar en las sesiones de los órganos sociales de la Federación cuando se traten asuntos que estén relacionados, directa o indirectamente, con la organización, integración, funcionamiento y desempeño del Comité de Supervisión correspondiente, o con cualquier otro aspecto relacionado con la supervisión auxiliar que ejerza la Federación. No podrán formar parte del Comité de Supervisión de la Federación, personas que tengan vínculos laborales o económicos con las sociedades o asociaciones que la propia Federación tenga afiliadas en términos de este artículo.
 
 Las restricciones previstas en el párrafo anterior, deberán hacerse constar expresamente en los estatutos sociales o bases constitutivas de las Federaciones, así como en su reglamento interior.
+
+D.O.F. 1 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
