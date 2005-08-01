@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2005-04-11"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -1379,6 +1379,8 @@ V. Todas las demás que contemple las normas oficiales mexicanas correspondiente
 
 El Instituto o los Municipios, podrán autorizar, en el ámbito de su competencia, el uso de residuos como fuentes de combustible estableciendo las condicionantes y medidas de seguridad que deberán observarse.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2005)</small>
+
 ### CAPITULO II. Del Consejo Consultivo Estatal de Gestión Ambiental
 
 ###### ARTICULO 113.
@@ -1387,9 +1389,35 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumí
 
 En la construcción de obras o instalaciones, o la realización de actividades que generen las emisiones a las que se refiere este artículo, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el ambiente.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+La instalación, construcción, habilitación o modificación de fuentes fijas de emisión de radicaciones electromagnéticas requerirán permiso de operación que deberá expedir la autoridad municipal, cuando se cumplan las disposiciones legales, reglamentarias, y en su caso, las normas oficiales mexicanas que para el efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+Para la obtención del permiso el interesado independientemente de los requisitos establecidos por las normas municipales respectivas, deberá presentar la información y documentos necesarios para acreditar el cumplimiento de los siguientes requisitos:
+
+I.- Descripción de la fuente fija a instalar;
+
+II.- Autorización de la autoridad federal competente para el uso, transmisión y emisión de radiaciones electromagnéticas;
+
+III.- Croquis del predio indicando el lugar preciso de la instalación de la fuente fija o estación base, la cual no podrá estar a menos de 300 metros de instalaciones de carácter educativo o escuelas de ningún tipo, de carácter asistencial, emergencia, guardería, hospitalarios o de salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 114.
 
-Los municipios, en el ámbito de sus competencias, restringirán la emisión de ruidos, vibraciones, energía térmica y lumínica, olores y radiaciones electromagnéticas, temporal o permanentemente en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales, establecimientos dedicados al tratamiento y recuperación de la salud, y sitios análogos, de acuerdo con el Reglamento de esta Ley.
+Los municipios, en el ámbito de sus competencias, restringirán la emisión de ruidos, vibraciones, energía térmica y lumínica, olores y radiaciones electromagnéticas, temporal o permanentemente en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales, establecimientos dedicados al tratamiento y recuperación de la salud, y sitios análogos, cuando se rebasen los límites máximos de emisión establecidos en las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+Para la protección y control de la contaminación producida por las radiaciones electromagnéticas, los municipios además deberán:
+
+I.- Integrar y mantener actualizados inventarios de las fuentes fijas que puedan ocasionar algún tipo de contaminación electromagnética como antenas de radiocomunicación, antenas de transmisión y retransmisión de señales de telefonía celular, antenas de transmisión o retransmisión de señales de radio, antenas de transmisión o retransmisión de señales de televisión, así como todo dispositivo emisor de radiación electromagnética. El inventario contendrá información descriptiva y técnica sobre los dispositivos clasificándolos por tipo de fuente, potencia radiada efectiva y tipo de radiación emitida.
+
+II.- Otorgar autorización de los proyectos de construcción, instalación o montaje de las fuentes fijas que le sean presentadas, las cuales deberán ajustarse a la potencia radiada máxima para que no exceda los límites establecidos en las normas oficiales mexicanas.
+
+III.- Realizar inspecciones periódicas para verificar que las fuentes fijas autorizadas, no excedan los límites máximos de potencia radiada establecidos por las normas oficiales mexicanas.
 
 Asimismo, los municipios en el ámbito de su competencia restringirán en sus bandos, códigos y reglamentos, las edificaciones y obras, así como las actividades o anuncios de carácter publicitario y promocional, a fin de crear una imagen agradable del paisaje rural y urbano, y evitar la contaminación visual del mismo.
 
@@ -1621,7 +1649,7 @@ IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-#### SECCIÓN V. Prevención y Control de la Contaminación por Ruido, Vibraciones, Energía Térmica y Lumínica, Olores y Contaminación Visual
+#### SECCIÓN V. Prevención y Control de la Contaminación por Ruido, Vibraciones, Energía Térmica y Lumínica, Radiaciones Electromagnéticas, Olores y Contaminación Visual
 
 ###### ARTICULO 135.
 
@@ -2177,4 +2205,10 @@ SÉPTIMO.- Deberán adecuarse los ordenamientos legales correspondientes en un p
 
 OCTAVO.- Los asuntos que se encuentren en trámite ante la Subsecretaría de Ecología de la Secretaría de Desarrollo Social, continuarán su trámite ante el Instituto del Medio Ambiente del Estado de Aguascalientes, sin que ello afecte su validez.
 
+P.O. 1 DE AGOSTO DE 2005.
+
 ## TITULO OCTAVO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
