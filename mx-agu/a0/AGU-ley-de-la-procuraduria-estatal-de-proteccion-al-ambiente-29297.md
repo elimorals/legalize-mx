@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2003-08-25"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -115,13 +115,21 @@ I. Junta de Gobierno;
 
 II. El Procurador;
 
-III. La Dirección Administrativa;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
 
-IV. La Jefatura de Departamento Jurídico y de Dictaminación;
+III. Dirección Jurídica y de Dictamen;
 
-V. La Jefatura de Departamento de Inspección Ambiental;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
 
-VI. Las Unidades Administrativas que se establezcan en su Reglamento Interior;
+IV. Dirección de Inspección y Vigilancia Ambiental;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
+
+V. Dirección Administrativa;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
+
+VI. Las Unidades Administrativas que se establezcan en su reglamento interior;
 
 ###### Artículo 7°.
 
@@ -181,7 +189,7 @@ IX. Expedir copias certificadas de los documentos que obran en sus archivos sobr
 
 X. Delegar las facultades en el Director y los Jefes de Departamento, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Aguascalientes
 
-Xl. Someter a consideración de la Junta de Gobierno el nombramiento, promoción y remoción de los servidores públicos de la Procuraduría;
+XI. Someter a consideración de la Junta de Gobierno el nombramiento, promoción y remoción de los servidores públicos de la Procuraduría;
 
 XII. Presentar el proyecto de Reglamento Interior a la Junta de Gobierno para su aprobación;
 
@@ -440,3 +448,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 25 DE AGOSTO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos financieros que se requieran para llevar a cabo la reforma a la estructura administrativa de la Procuraduría Estatal de Protección al Ambiente deberán ajustarse al presupuesto autorizado para el ejercicio fiscal 2005.
