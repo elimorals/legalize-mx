@@ -4,7 +4,7 @@ identifier: "LOBNOSP"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2002-06-24"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOBNOSP"
 
 LEY ORGANICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
@@ -81,6 +81,10 @@ II. Promover y financiar la dotación de infraestructura, servicios públicos, e
 > <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 III. Financiar y proporcionar asistencia técnica a los municipios para la formulación, administración y ejecución de sus planes de desarrollo urbano y para la creación y administración de reservas territoriales y ecológicas, así como estructurar y coordinar proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+
+III Bis. Promover programas de financiamiento para ampliar la cobertura de los servicios públicos y generar la infraestructura productiva necesaria para impulsar el desarrollo regional de las zonas indígenas;
 
 > <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
@@ -541,3 +545,9 @@ Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de
 ###### ARTICULO NOVENO.
 
 Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
+
+D.O.F. 1 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
