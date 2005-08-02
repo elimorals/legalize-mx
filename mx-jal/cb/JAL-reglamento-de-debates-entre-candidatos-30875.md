@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-debates-entre-candidatos-30875"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-18"
-last_updated: "2003-06-05"
+last_updated: "2005-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 18 de octubre de 1997.
 
@@ -35,11 +35,11 @@ De conformidad a lo dispuesto por el articulo 132 fracción XLVII de la Ley Elec
 
 REGLAMENTO
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 1.
 
-El presente reglamento tiene por objeto regular la implementación de debates entre los candidatos a cargos de elección popular que soliciten la intervención del Consejo Electoral de Estado de Jalisco, por conducto del Pleno u órganos competentes; mismos que servirán para expresar las propuestas de gobierno de los candidatos participantes.
+El presente reglamento tiene por objeto regular la implementación de debates entre los candidatos a cargos de elección popular que soliciten la intervención del Instituto Electoral del Estado de Jalisco, por conducto del Pleno u órganos competentes; mismos que servirán para expresar las propuestas de gobierno de los candidatos participantes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2003)</small>
 
@@ -47,13 +47,13 @@ El presente reglamento tiene por objeto regular la implementación de debates en
 
 La organización de los debates corresponde a:
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-I.- Al Consejo Electoral del Estado, para el cargo de Gobernador.
+I.- Al Instituto Electoral del Estado, para el cargo de Gobernador.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-II.- Al Consejo Electoral del Estado, para Diputados por el Principio de Representación Proporcional.
+II.- Al Instituto Electoral del Estado, para Diputados por el Principio de Representación Proporcional.
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2003)</small>
 
@@ -63,23 +63,25 @@ III.- La Comisión Distrital correspondiente para Diputados por el Principio de 
 
 IV.- Los debates de los candidatos a munícipes, tendrán competencia concurrente dependiendo de su ubicación del municipio:
 
-a).- Al Consejo Electoral del Estado para la Comisión Municipal correspondiente, los candidatos a munícipes de la Zona Metropolitana.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
+a).- Al Instituto Electoral del Estado o a la Comisión Municipal correspondiente, los candidatos a munícipes de la Zona Metropolitana.
 
 b).- A la Comisión Distrital o Comisión Municipal correspondiente, los candidatos a munícipes que no estén comprendidos dentro de la Zona Metropolitana.
 
-> <small>N. DE E. DE CONFORMIDAD CON ACUERDO DEL PLENO DEL CONSEJO ELECTORAL DEL ESTADO, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, DESAPARECIENDO LOS PARRAFOS SEGUNDO Y TERCERO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 3.
 
-Los candidatos debidamente registrados para los cargos de: Gobernador, Diputados o Munícipes, por sí o a través de representante debidamente acreditado podrán solicitar al Consejo Electoral del Estado o a través del órgano que corresponda, la implementación de debates:
+Los candidatos debidamente registrados para los cargos de: Gobernador, Diputados o Munícipes, por sí o a través de representante debidamente acreditado podrán solicitar al Instituto Electoral del Estado o a través del órgano que corresponda, la implementación de debates:
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2003)</small>
 
 I. Los debates se darán entre candidatos de diferentes partidos a un mismo cargo con invitación expresa a todos aquellos de parte de los candidatos promoventes. A las solicitudes se deberán acompañar copias de las invitaciones debidamente recibidas por los demás candidatos interesados.
 
-II. Sólo que la mayoría de los candidatos acepten debatir y que por escrito se comprometan a sujetarse a las disposiciones de éste reglamento, el órgano competente del Consejo iniciará las gestiones del caso.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+II. Sólo que la mayoría de los candidatos acepten debatir y que por escrito se comprometan a sujetarse a las disposiciones de éste reglamento, el órgano competente del Instituto iniciará las gestiones del caso.
 
 III. (DEROGADA, P.O. 29 DE JULIO DE 2000)
 
@@ -89,29 +91,31 @@ IV. El Presidente del órgano competente, será el responsable de invitar a los 
 
 V. El día del evento, los candidatos deberán comparecer al lugar en que tendrá verificativo, cuando menos con cuarenta y cinco minutos de anticipación, toda vez que dentro de dicho lapso de tiempo se llevará a cabo el o los sorteos para determinar el orden de participación de los candidatos en cada una de la (s) ronda (s) y en su caso, sesiones de preguntas y respuestas. En el supuesto de que algún candidato debidamente notificado no estuviere presente en el sorteo, y se presentare después de realizado el mismo, este tendrá intervención en el debate, de acuerdo con el resultado del sorteo.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-VI. La exposición de cada uno de los candidatos versará sobre el o los temas previamente acordados, con la intervención máxima que determine el Consejo Electoral del Estado.
+VI. La exposición de cada uno de los candidatos versará sobre el o los temas previamente acordados, con la intervención máxima que determine el Instituto Electoral del Estado.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-VII. En caso de acordar sesión de preguntas y respuestas, el moderador concederá el uso de la voz a los candidatos según el orden del sorteo, quienes contarán con el máximo de tiempo que determine el Consejo Electoral del Estado.
+VII. En caso de acordar sesión de preguntas y respuestas, el moderador concederá el uso de la voz a los candidatos según el orden del sorteo, quienes contarán con el máximo de tiempo que determine el Instituto Electoral del Estado.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-VIII. A ningún candidato le será permitido apoyarse con equipo audiovisual u otro de cualquier tipo, toda vez que solo podrá utilizar el recurso de su voz, o aquel que se apruebe por el Consejo Electoral en la metodología para el debate.
+VIII. A ningún candidato le será permitido apoyarse con equipo audiovisual u otro de cualquier tipo, toda vez que solo podrá utilizar el recurso de su voz, o aquel que se apruebe por el Instituto Electoral en la metodología para el debate.
 
 DE QUIENES PODRAN ASISTIR Y EL ORDEN QUE DEBERAN OBSERVAR
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2003)</small>
+(REFORMADO, P.O. 5 DE JUNIO DE 2003) (REPUBLICADO, P.O. 2 DE AGOSTO DE 2005)
 
 ###### Artículo 4.
 
 El evento se verificará con el mayor orden posible, de manera que la exposición de los candidatos transcurra sin interrupciones o interpelaciones que pongan en riesgo la correcta marcha del mismo. En tal virtud el evento se llevará a cabo a puerta cerrada. Sólo tendrá voz los candidatos y el moderador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 5.
 
-Podrán asistir a la exposición los integrantes del Pleno del Consejo Electoral del Estado, los comisionados distritales y municipales, representantes de los medios de comunicación debidamente acreditados por el Consejo Electoral del Estado, el dirigente de cada uno de los Partidos Políticos, cuyo candidato participe en el evento y hasta dos asesores por cada expositor y todos aquellos que reciban invitación formal del Consejo.
+Podrán asistir a la exposición los integrantes del Pleno del Instituto Electoral del Estado, los comisionados distritales y municipales, representantes de los medios de comunicación debidamente acreditados por el Instituto Electoral del Estado, el dirigente de cada uno de los Partidos Políticos, cuyo candidato participe en el evento y hasta dos asesores por cada expositor y todos aquellos que reciban invitación formal del Instituto.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2003)</small>
 
@@ -119,13 +123,13 @@ En ningún momento las asistentes tendrán uso de la voz y deberán guardar el o
 
 DEL MODERADOR
 
-(REFORMADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003)
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 6.
 
-El moderador nombrado por el Presidente del Consejo Electoral del Estado o por el Presidente de la Comisión Distrital o Municipal, según sea el caso, realizará la presentación del evento y explicará la metodología bajo la que se desarrollará; así mismo dará por concluido el evento.
+El moderador nombrado por el Presidente del Instituto Electoral del Estado o por el Presidente de la Comisión Distrital o Municipal, según sea el caso, realizará la presentación del evento y explicará la metodología bajo la que se desarrollará; así mismo dará por concluido el evento.
 
-(REFORMADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003)
+(REFORMADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003) (REPUBLICADO, P.O. 2 DE AGOSTO DE 2005)
 
 ###### Artículo 7.
 
@@ -133,29 +137,29 @@ El moderador podrá solicitar al candidato en turno que se circunscriba al tema 
 
 ###### Artículo 8.
 
-(DEROGADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003)
+(DEROGADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003) (REPUBLICADO, P.O. 2 DE AGOSTO DE 2005)
 
 DE LOS REPRESENTANTES DE PRENSA
 
 ###### Artículo 9.
 
-(DEROGADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003)
+(DEROGADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003) (REPUBLICADO, P.O. 2 DE AGOSTO DE 2005)
 
 DE LOS MEDIOS ELECTRONICOS
 
 ###### Artículo 10.
 
-(DEROGADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003)
+(DEROGADO, P.O. 29 DE JULIO DE 2000) (REPUBLICADO, P.O. 5 DE JUNIO DE 2003) (REPUBLICADO, P.O. 2 DE AGOSTO DE 2005)
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2000)</small>
 
 DE LOS PATROCINIOS
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 11.
 
-En el caso de que el evento se transmita por medios electrónicos, queda prohibido anunciarse o patrocinar durante la transmisión, a los partidos políticos.
+En el caso de que el evento se transmita por medio electrónicos, queda prohibido anunciarse o patrocinar durante la transmisión, a los partidos políticos registrados o acreditados, candidatos a cargo de elección popular y entidades del sector público.
 
 ## TRANSITORIO
 
@@ -180,3 +184,7 @@ UNICO.- Las presentes reformas y adiciones entrarán en vigor a partir del día 
 P.O. 5 DE JUNIO DE 2003.
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigencia a partir del día siguiente a la aprobación de ACUERDO DEL PLENO DEL CONSEJO ELECTORAL DEL ESTADO DE JALISCO, POR EL QUE SE REFORMA EL REGLAMENTO DE DEBATES ENTRE CANDIDATOS DEL CONSEJO ELECTORAL DEL ESTADO DE JALISCO.
+
+P.O. 2 DE AGOSTO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
