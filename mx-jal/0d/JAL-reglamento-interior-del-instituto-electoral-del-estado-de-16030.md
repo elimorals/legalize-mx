@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-del-estado-de-16030
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2003-12-27"
+last_updated: "2005-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO - ANTES- CONSEJO ELECTORAL DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DEL CONSEJO ELECTORAL DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -39,13 +39,17 @@ CONSIDERANDO:.
 
 IV. Que de conformidad con lo dispuesto por el artículo 132 fracción XXXIX de la Ley Electoral del Estado de Jalisco, el cual establece en forma textual que: "Artículo 132.- El Consejo Electoral del Estado tendrá las siguientes atribuciones: XXXIX. Aprobar su reglamento interior ... a propuesta que le formule su Presidente, para su publicación en el Periódico Oficial El Estado de Jalisco"; este Consejo Electoral del Estado cuenta con facultades para aprobar el Reglamento Interior del Consejo Electoral del Estado de Jalisco, a propuesta que le formula el Consejero Presidente en los siguientes términos:
 
-REGLAMENTO INTERIOR DEL CONSEJO ELECTORAL DEL ESTADO DE JALISCO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE AGOSTO DE 2005)</small>
+
+REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 1.
 
-El presente ordenamiento es de observancia general y tiene por objeto normar la estructura Consejo Electoral del Estado, su funcionamiento así como el ejercicio de las atribuciones que le confiere la Constitución Política del Estado de Jalisco, la Ley Electoral del Estado de Jalisco y la Ley de Participación Ciudadana.
+El presente ordenamiento es de observancia general y tiene por objeto normar la estructura del Instituto Electoral del Estado, su funcionamiento así como el ejercicio de las atribuciones que le confiere la Constitución Política del Estado de Jalisco, la Ley Electoral del Estado de Jalisco y la Ley de Participación Ciudadana.
 
 ###### ARTÍCULO 2.
 
@@ -61,9 +65,9 @@ Los casos no previstos en el presente reglamento se resolverán por el Pleno, co
 
 Una vez concluido un proceso electoral y hasta un día antes de que se declare el inicio del siguiente son inhábiles los días sábados y domingos, y aquellos que la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios establece como descanso obligatorio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
-Así mismo, se considerarán como inhábiles, los días en que tengan vacaciones generales el personal del Consejo, previo acuerdo del Pleno. No son vacaciones generales las que (sic) otorguen en forma escalonada.
+Así mismo, se considerarán como inhábiles, los días en que tengan vacaciones generales el personal del Instituto, previo acuerdo del Pleno. No son vacaciones generales las que (sic) otorguen en forma escalonada.
 
 Las actividades del Organismo electoral en período no electoral se realizarán en las horas hábiles, que son las comprendidas entre las 9:00 nueve y las 15:00 horas.
 
@@ -73,13 +77,15 @@ Para los efectos del artículo que antecede el proceso electoral comenzará con 
 
 En caso de presentarse medios de impugnación en contra del dictamen y declaración de validez de alguna elección, la conclusión será una vez que el Tribunal Electoral competente se haya pronunciado al respecto.
 
-## TITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO DEL CONSEJO ELECTORAL DEL ESTADO
+## TITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO DEL INSTITUTO ELECTORAL DEL ESTADO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 6.
 
-El Consejo Electoral ejercerá sus atribuciones a través de:
+El Instituto Electoral ejercerá sus atribuciones a través de:
 
 I. El Pleno.
 
@@ -95,25 +101,29 @@ VI. Mesas Directivas de Casilla.
 
 VII. Dirección de Administración y Finanzas.
 
-VIII. Dirección de Capacitación Electoral.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+VIII. Dirección de Capacitación Electoral y Educación Cívica.
 
-IX. Dirección Jurídica.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-X. Dirección de Organización Electoral.
+IX. Dirección de Prerrogativas a los Partidos Políticos.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-XI. Departamento de Comunicación Social.
+X. Dirección Jurídica.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+XI. Departamento de Organización Electoral.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
 XII. Dirección de Comunicación Social.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-XIII. Departamento de Informática.
+XIII. Departamento de Archivo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2003)</small>
 
@@ -127,15 +137,23 @@ XVII. Oficialía de Partes.
 
 ### CAPITULO II. DEL PRESIDENTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 7.
 
-El conocimiento, trámite y resolución de los asuntos competencia del Consejo, que la Ley no asigna específicamente a sus órganos, direcciones o áreas, corresponde originalmente al Consejero Presidente, quien además tendrá las siguientes funciones no delegables:
+El conocimiento, trámite y resolución de los asuntos competencia del Instituto, que la Ley no asigna específicamente a sus órganos, direcciones o áreas, corresponde originalmente al Consejero Presidente, quien además tendrá las siguientes funciones no delegables:
 
-I. Cumplir y hacer cumplir los acuerdos del Pleno del Consejo.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-II. Realizar los actos necesarios para la conservación y mejoramiento de los bienes del Consejo.
+I. Cumplir y hacer cumplir los acuerdos del Pleno del Instituto.
 
-III. Designar al personal del Consejo cuando dicha facultad no se haya conferido al Pleno.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+II. Realizar los actos necesarios para la conservación y mejoramiento de los bienes del Instituto.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+III. Designar al personal del Instituto cuando dicha facultad no se haya conferido al Pleno.
 
 IV. Celebrar convenios con instituciones académicas y de educación superior previa autorización del Pleno, para impartir cursos de formación, capacitación y actualización con el fin de preparar profesionalmente a aspirantes al servicio electoral en el Estado.
 
@@ -155,23 +173,27 @@ Corresponde al Secretario Ejecutivo:
 
 I. Ser apoyo técnico del Pleno.
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-II. Levantar las actas de las sesiones, firmarlas, auxiliar al Presidente en la ejecución de los acuerdos tomados en la sesión, ordenar su archivo.
+II. Levantar las actas de las sesiones, firmarlas, auxiliar al presidente en la ejecución de los acuerdos tomados en la sesión, ordenar su archivo.
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-III. Dar trámite a la correspondencia del Consejo, salvo en el caso de que su turno amerite acuerdo expreso del Pleno.
+III. Dar trámite a la correspondencia del Instituto, salvo en el caso de que su turno amerite acuerdo expreso del Pleno.
 
 IV. Firmar los nombramientos de los funcionarios que designe el Pleno y el Presidente en su caso.
 
-V. Programar, organizar, dirigir y evaluar las actividades de las direcciones y áreas que integran el Consejo, conforme a los lineamientos que determine el Consejero Presidente.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+V. Programar, organizar, dirigir y evaluar las actividades de las direcciones y áreas que integran el Instituto, conforme a los lineamientos que determine el Consejero Presidente.
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2002)</small>
 
 VI. Dictar los acuerdos administrativos que sean necesarios previo a la resolución o acuerdo del Pleno.
 
-VII. Solicitar informes a las Direcciones que integran el Consejo a efecto de brindarles el apoyo material que éstas requieran.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VII. Solicitar informes a las Direcciones que integran el Instituto a efecto de brindarles el apoyo material que éstas requieran.
 
 VIII. Cumplir los cometidos que le confiera el Presidente o el Pleno en el ámbito de sus competencias.
 
@@ -217,19 +239,27 @@ La Dirección de Administración y Finanzas ejercerá las siguientes funciones:
 
 I. Proponer la política en materia de adquisiciones y ser el ejecutor de las mismas una vez aprobadas.
 
-II. Atender las necesidades materiales del Consejo de acuerdo con las instrucciones del Secretario.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+II. Atender las necesidades materiales del Instituto de acuerdo con las instrucciones del Secretario.
 
 III. Elaborar los manuales de administración que contengan los lineamientos a seguir por las Comisiones Electorales.
 
-IV. Conservar e inventariar los bienes muebles e inmuebles del Consejo, conforme a los lineamientos que al efecto se dicten y llevar el registro y control de los mismos.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+IV. Conservar e inventariar los bienes muebles e inmuebles del Instituto, conforme a los lineamientos que al efecto se dicten y llevar el registro y control de los mismos.
 
 V. Realizar los estudios e informes que le sean solicitados por el Presidente.
 
-VI. Auxiliar al Presidente en la elaboración del anteproyecto del presupuesto de egresos del Consejo.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VI. Auxiliar al Presidente en la elaboración del anteproyecto del presupuesto de egresos del Instituto.
 
 VII. Implantar, coordinar y evaluar los sistemas contables, que permitan la correcta aplicación de los recursos asignados conforme a lo que establezca el presupuesto aprobado.
 
-VIII. Auxiliar al Presidente en la elaboración de manuales para mejorar la utilización de los recursos del Consejo y distribuirlos para su conocimiento a la estructura orgánica del mismo.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VIII. Auxiliar al Presidente en la elaboración de manuales para mejorar la utilización de los recursos del Instituto y distribuirlos para su conocimiento a la estructura orgánica del mismo.
 
 IX. Las demás que en uso de facultades y atribuciones que les confiere la ley, el Presidente o el Secretario Ejecutivo determinen.
 
@@ -245,31 +275,69 @@ II. Elaborar el diseño del material para la capacitación de los funcionarios d
 
 III. Diseñar los cursos de capacitación para los funcionarios electorales.
 
-IV. Diseñar los contenidos para la implementación de cursos y seminarios y diplomados que imparta el Consejo.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+IV. Diseñar los contenidos para la implementación de cursos y seminarios y diplomados que imparta el Instituto.
 
 V. Diseñar los programas generales de educación cívica y cultura política que el Secretario Ejecutivo someterá a la consideración del Pleno.
 
 VI. Apoyar al Secretario en el desarrollo de programas de documentación e investigación sobre cultura política en el estado y del Centro de Estadística y Documentación Electoral.
 
-VII. Diseñar los trabajos referentes a la realización de concursos de ensayo político y tesis profesional que convoque el Consejo.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-VIII. Coordinar los trabajos referentes a conferencias que se impartan en las instalaciones del Consejo.
+VII. Diseñar los trabajos referentes a la realización de concursos de ensayo político y tesis profesional que convoque el Instituto.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VIII. Coordinar los trabajos referentes a conferencias que se impartan en las instalaciones del Instituto.
 
 IX. Las demás que en uso de facultades y atribuciones que les confiere la ley, determine el Presidente o el Secretario Ejecutivo.
 
 La Dirección estará a cargo de su titular quien se verá auxiliado por el personal técnico y administrativo que prevea el presupuesto de egresos.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 12.
 
-(DEROGADO, P.O. 24 DE ABRIL DE 2001)
+La Dirección de Prerrogativas a los Partidos Políticos ejercerá las siguientes atribuciones:
+
+I. Auxiliar a la Presidencia y a la Comisión de Estudios sobre el (sic) Costos y los Topes en los Gastos de Campañas, en la realización de presupuestos para el Financiamiento Público de los Partidos Políticos.
+
+II. Auxiliar al Presidente en la entrega del financiamiento público a los Partidos Políticos, en la forma y en los términos establecidos en la Ley.
+
+III. Coadyuvar con la Comisión Revisora del Financiamiento de los Partidos Políticos, en los procedimientos de revisión de los informes financieros que presenten los Partidos Políticos acreditados o registrados ante el Instituto Electoral.
+
+IV. Coadyuvar con la Comisión Revisora del Financiamiento de los Partidos Políticos, en los procedimientos de revisión de las solicitudes de reíntegro de erogaciones que realicen los Partidos Políticos por concepto de actividades específicas.
+
+V. Coadyuvar con la Comisión Revisora del Financiamiento de los Partidos Políticos, en la elaboración de dictámenes.
+
+VI. Colaborar con la Comisión Revisora del Financiamiento de los Partidos Políticos, en el intercambio de información relativa al origen, monto y destino de los recursos Federales y Locales de los Partidos Políticos nacionales, de conformidad con los convenios de apoyo y colaboración que se celebren entre el Instituto Electoral del Estado de Jalisco y el Instituto Federal Electoral.
+
+VII. Coadyuvar con la verificación del ejercicio de las prerrogativas a que tienen derechos (sic) los Partidos Políticos, en los medios de la Radio y Televisión.
+
+VIII. Colaborar con el Pleno y la Dirección de Comunicación Social, en los muestreos sobre la cobertura que los medios de comunicación realicen respecto de las campañas políticas.
+
+IX. Proponer la revisión y adecuación de los reglamentos y lineamientos aplicables en materia electoral, el área de su competencia.
+
+X. Coadyuvar con el registro de los partidos políticos que hubiesen acreditado cumplir con los extremos previstos en la Ley Electoral del Estado de Jalisco, así como el de convenios de coalición, frentes, fusiones y agrupaciones políticas.
+
+XI. Coadyuvar con la revisión de las solicitudes de registro de candidatos, que competan al Instituto Electoral del Estado de Jalisco.
+
+XII. Las demás que en uso de facultades y atribuciones que les confiere la ley, el Presidente o el Secretario ejecutivo determinen.
+
+La Dirección de Prerrogativas a los Partidos Políticos estará a cargo de su titular quien se verá auxiliado por el personal que prevea el presupuesto de egresos.
 
 ###### ARTÍCULO 13.
 
 La Dirección Jurídica ejercerá las siguientes funciones:
 
-I. Asesorar al Consejo en los asuntos de orden jurídico.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-II. Formular los proyectos de los diversos actos jurídicos en que intervenga el Consejo tales como convenios, contratos, demandas y contestaciones, respuestas a consultas o peticiones elevadas al Pleno que pudieran vincular jurídicamente a éste.
+I. Asesorar al Instituto en los asuntos de orden jurídico.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+II. Formular los proyectos de los diversos actos jurídicos en que intervenga el Instituto tales como convenios, contratos, demandas y contestaciones, respuestas a consultas o peticiones elevadas al Pleno que pudieran vincular jurídicamente a éste.
 
 III. Dar respuesta a las consultas que sobre derecho electoral le formulen los integrantes del Pleno.
 
@@ -305,13 +373,17 @@ Al frente de la Dirección estará su titular, quien contará con el personal ad
 
 La Dirección de Comunicación Social ejercerá las siguientes funciones:
 
-I. Ser un facilitador de la comunicación entre el Consejo y la sociedad.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+I. Ser un facilitador de la comunicación entre el Instituto y la sociedad.
 
-II. La captación y evaluación en medios de comunicación que sobre el Consejo y los temas que con él se relaciones (sic) se conozcan a través de los diferentes medios de comunicación, a efecto de provocar una mejoría en las labores desempeñadas.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-III. Difundir los programas del Consejo.
+II. La captación y evaluación en medios de comunicación que sobre el Instituto y los temas que con él se relaciones (sic) se conozcan a través de los diferentes medios de comunicación, a efecto de provocar una mejoría en las labores desempeñadas.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+III. Difundir los programas del Instituto.
 
 IV. Convocar a ruedas de prensa cuando así lo determine el Pleno o el Presidente.
 
@@ -335,7 +407,9 @@ El Departamento de Archivo tendrá las siguientes funciones:
 
 I. Coordinar sus actividades con la Oficialía de Partes y llevar el registro de la documentación que reciba clasificándola conforme a su manual de organización y métodos, para facilitar su consulta.
 
-II. Guardar y custodiar las actas de las sesiones del Consejo, de los documentos en que consten los acuerdos del Pleno y en general del acervo histórico, documental de la institución, facilitando su consulta previa autorización del Secretario.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+II. Guardar y custodiar las actas de las sesiones del Instituto, de los documentos en que consten los acuerdos del Pleno y en general del acervo histórico, documental de la institución, facilitando su consulta previa autorización del Secretario.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
 
@@ -345,7 +419,9 @@ IV. Ordenar y clasificar la documentación a su guarda.
 
 V. Tener a su cargo el área de fotocopiado y realizar los trabajos que se le encomienden atendiendo su prioridad.
 
-Los principios que rigen la operación del sistema de archivo del Consejo son el de posibilitar su consulta y asegurar la conservación de su acervo.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+Los principios que rigen la operación del sistema de archivo del Instituto son el de posibilitar su consulta y asegurar la conservación de su acervo.
 
 El Departamento estará a cargo de su titular quien será auxiliado por el personal técnico y administrativo que disponga el presupuesto de egresos.
 
@@ -357,13 +433,13 @@ ARTÍCULO 16 BIS.- La Dirección de Informática ejercerá las siguientes funcio
 
 I. Desarrollar, en su caso, un sistema de captura de resultados preliminares y distribución de la información generada de manera efectiva en los procesos electorales. (Programa de Resultados Electorales Preliminares PREP).
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-II. Diseñar políticas para el uso del equipo de cómputo disponible en el Consejo.
+II. Diseñar políticas para el uso del equipo de cómputo disponible en el Instituto.
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-III. Elaborar e implementar los mecanismos que permitan llevar un control del equipo de cómputo del Consejo.
+III. Elaborar e implementar los mecanismos que permitan llevar un control del equipo de cómputo del Instituto.
 
 > <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2001)</small>
 
@@ -387,9 +463,11 @@ La Dirección de Informática estará a cargo de su titular quien se verá auxil
 
 ### CAPITULO VI. DE LAS COMISIONES MUNICIPALES Y DISTRITALES ELECTORALES
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 17.
 
-Las comisiones distritales y municipales como órganos del Consejo Electoral, se integraran conforme lo establece la Ley Electoral del Estado, y contarán con el personal de apoyo administrativo y técnico que se establezca en el presupuesto, debiendo guiar su actuación administrativa conforme a los manuales que se elaboren para tal efecto.
+Las comisiones distritales y municipales como órganos del Instituto Electoral, se integraran conforme lo establece la Ley Electoral del Estado, y contarán con el personal de apoyo administrativo y técnico que se establezca en el presupuesto, debiendo guiar su actuación administrativa conforme a los manuales que se elaboren para tal efecto.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
 
@@ -397,9 +475,11 @@ Las comisiones distritales y municipales como órganos del Consejo Electoral, se
 
 La instalación de las Comisiones Distritales y las Comisiones Municipales Electorales, se realizará ante la presencia del personal autorizado para tales efectos, el que conducirá la sesión de instalación y levantará el acta correspondiente, la que constará por duplicado para su archivo en la comisión y su remisión al Secretario.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 19.
 
-La instalación de las Comisiones Municipales que se nombren por la Comisión Distrital, se realizará ante la presencia del personal autorizado por esta última para tales efectos, quien conducirá la sesión de instalación y levantará el acta correspondiente, la que constará por duplicado para su archivo en la comisión y su remisión al Secretario Ejecutivo del Consejo.
+La instalación de las Comisiones Municipales que se nombren por la Comisión Distrital, se realizará ante la presencia del personal autorizado por esta última para tales efectos, quien conducirá la sesión de instalación y levantará el acta correspondiente, la que constará por duplicado para su archivo en la comisión y su remisión al Secretario Ejecutivo del Instituto.
 
 ###### ARTÍCULO 20.
 
@@ -419,13 +499,17 @@ VI. Firma del personal autorizado para presidir la sesión y de los integrantes 
 
 ### CAPITULO VII. DE LA DESINTEGRACION DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 21.
 
-Una vez concluido el proceso electoral del que se trate, el Pleno del Consejo declarará la desintegración de las Comisiones Electorales; las mismas, deberán celebrar sesión en que declararan formalmente concluidos los trabajos para los cuales fueron instaladas, levantándose el acta correspondiente, la que se remitirá al Secretario Ejecutivo para su archivo.
+Una vez concluido el proceso electoral del que se trate, el Pleno del Instituto declarará la desintegración de las Comisiones Electorales; las mismas, deberán celebrar sesión en que declararan formalmente concluidos los trabajos para los cuales fueron instaladas, levantándose el acta correspondiente, la que se remitirá al Secretario Ejecutivo para su archivo.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 22.
 
-En caso de existir algún medio procesal de impugnación el Pleno del Consejo declarará la desintegración de la Comisión Electoral de que se trate, una vez que haya quedado firme la sentencia correspondiente emitida por el órgano jurisdiccional competente.
+En caso de existir algún medio procesal de impugnación el Pleno del Instituto declarará la desintegración de la Comisión Electoral de que se trate, una vez que haya quedado firme la sentencia correspondiente emitida por el órgano jurisdiccional competente.
 
 ###### ARTÍCULO 23.
 
@@ -439,9 +523,9 @@ En la sesión en que se declaren formalmente concluidos los trabajos de las comi
 
 El Programa de Resultados Electorales Preliminares tendrá como finalidad dar a conocer de manera inmediata las tendencias de los comicios, una vez concluido el escrutinio y cómputo en las casillas electorales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
-Dicho Programa de Resultados Electorales Preliminares podrá ser desarrollado, previo acuerdo del Pleno del Consejo, la Dirección de Informática del Consejo Electoral del Estado de Jalisco o, en su caso, por un tercero, que acredite haber desarrollado esta clase de programas en procesos electorales y que cuente con un prestigio ampliamente reconocido.
+Dicho Programa de Resultados Electorales Preliminares podrá ser desarrollado, previo acuerdo del Pleno del Instituto, la Dirección de Informática del Instituto Electoral del Estado de Jalisco o, en su caso, por un tercero, que acredite haber desarrollado esta clase de programas en procesos electorales y que cuente con un prestigio ampliamente reconocido.
 
 ###### ARTÍCULO 25.
 
@@ -449,9 +533,13 @@ El Programa de Resultados Electorales Preliminares se conformará de las siguien
 
 I. Captación de las actas de resultados de casilla: la cual comprenderá los actos realizados por los funcionarios de casilla para el traslado y remisión de las actas a las comisiones electorales que correspondan, o en su caso el traslado de las mismas por parte del personal autorizado para tales efectos, al centro de transmisión que corresponda;
 
-II. Captura y transmisión de los resultados preliminares: etapa que comprenderá el periodo dentro del cual una vez que se encuentren las actas de los cómputos electorales en los centros de transmisión, los datos consignados en ellas serán capturados dentro de los formatos electrónicos aprobados para tales efectos por el Pleno, procediendo luego al enlace con el centro de cómputo del Consejo y a la transmisión de los mismos;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-III. Recepción y consulta de reportes: en esta etapa serán recibidos por parte del centro de computo del Consejo los resultados enviados por los centros de transmisión, los cuales deberán ser dados a conocer de inmediato a través de los medios que por acuerdo del Pleno se dispongan.
+II. Captura y transmisión de los resultados preliminares: etapa que comprenderá el periodo dentro del cual una vez que se encuentren las actas de los cómputos electorales en los centros de transmisión, los datos consignados en ellas serán capturados dentro de los formatos electrónicos aprobados para tales efectos por el Pleno, procediendo luego al enlace con el centro de cómputo del Instituto y a la transmisión de los mismos;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+III. Recepción y consulta de reportes: en esta etapa serán recibidos por parte del centro de computo del Instituto los resultados enviados por los centros de transmisión, los cuales deberán ser dados a conocer de inmediato a través de los medios que por acuerdo del Pleno se dispongan.
 
 ###### ARTÍCULO 26.
 
@@ -471,11 +559,11 @@ Por cada representante propietario observador de resultados preliminares, los pa
 
 Una vez concluido el proceso electoral, declarados firmes los resultados de los comicios electorales, el Presidente ordenará su publicación a través de los medios electrónicos con que cuente el centro de computo, debiendo remitir además tales resultados para su consulta pública, al Archivo General del Estado, a la Biblioteca del Congreso del Estado, así como a la Biblioteca Pública del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 30.
 
-Los archivos de consulta pública a que se refiere el artículo anterior, serán responsables del uso que den a la información que el Consejo les remita.
+Los archivos de consulta pública a que se refiere el artículo anterior, serán responsables del uso que den a la información que el Instituto les remita.
 
 ## TITULO CUARTO. ENVIO DE MATERIAL ELECTORAL Y ACOPIO DE PAQUETES ELECTORALES
 
@@ -497,9 +585,11 @@ Las Comisiones Distritales y Municipales Electorales, según corresponda, dictar
 
 ### CAPITULO II. DEL ACOPIO DE PAQUETES ELECTORALES
 
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 34.
 
-El Consejo, conforme a las bases generales establecidas en la Ley, previo a la celebración de la jornada electoral, dictará los lineamientos a que se sujetarán los funcionarios de casilla para la remisión de los paquetes electorales a las comisiones distritales y municipales electorales, con la finalidad de agilizar su acopio garantizando la inviolabilidad de su contenido.
+El Instituto, conforme a las bases generales establecidas en la Ley, previo a la celebración de la jornada electoral, dictará los lineamientos a que se sujetarán los funcionarios de casilla para la remisión de los paquetes electorales a las comisiones distritales y municipales electorales, con la finalidad de agilizar su acopio garantizando la inviolabilidad de su contenido.
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
 
@@ -519,15 +609,15 @@ Dentro del presente reglamento se contienen los lineamientos generales bajo los 
 
 ### CAPITULO II. DE LA INFORMACION PUBLICA
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
-A.- DEL CONSEJO ELECTORAL.
+A.- DEL INSTITUTO ELECTORAL.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 36.
 
-Es obligación del Consejo, a través de la Secretaría Ejecutiva, con el auxilio de las respectivas Comisiones, Direcciones y Jefaturas de Departamento, hacer públicos:
+Es obligación del Instituto, a través de la Secretaría Ejecutiva, con el auxilio de las respectivas Comisiones, Direcciones y Jefaturas de Departamento, hacer públicos:
 
 I. La Constitución Política del Estado de Jalisco, las Leyes, Decretos, Reglamentos, circulares y demás disposiciones de observancia general relativas a la materia electoral.
 
@@ -535,13 +625,19 @@ II. Publicar la Ley Electoral del Estado de Jalisco, Reglamentos, Acuerdos del P
 
 III. Estatuto del Servicio Profesional Electoral.
 
-IV. Información sobre las donaciones y/o bienes otorgados en comodato al Consejo Electoral del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-V. Informe de actividades de la Comisión de Adquisiciones del Consejo Electoral del Estado de Jalisco.
+IV. Información sobre las donaciones y/o bienes otorgados en comodato al Instituto Electoral del Estado de Jalisco.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+V. Informe de actividades de la Comisión de Adquisiciones del Instituto Electoral del Estado de Jalisco.
 
 VI. Las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios.
 
-VII. Convenios que celebre el Consejo Electoral del Estado de Jalisco así como los anexos técnicos.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VII. Convenios que celebre el Instituto Electoral del Estado de Jalisco así como los anexos técnicos.
 
 VIII. Los Presupuestos de ingresos y egresos, que hayan sido aprobados.
 
@@ -549,15 +645,19 @@ IX. Las cuentas públicas, así como los informes trimestrales de origen y aplic
 
 X. Los balances generales y los estados de pérdidas y ganancias correspondientes.
 
-XI. Las nómina (sic) para la retribución de los servidores públicos, así como los pagos que por conceptos de honorarios se eroguen.
+XI. Las (sic) nómina para la retribución de los servidores públicos, así como los pagos que por conceptos de honorarios se eroguen.
 
 XII. Los dictámenes sobre la aprobación o rechazo de las cuentas públicas, que se hayan votado en el Congreso del Estado, relativos a este Órgano.
 
-XIII. Las convocatorias que emita el Consejo Electoral del estado, relativas a concurso o licitación para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+XIII. Las convocatorias que emita el Instituto Electoral del estado, relativas a concurso o licitación para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos.
 
 XIV. Los estados de origen y aplicación de recursos financieros, que se publicarán de manera mensual, dentro de los 20 veinte días siguientes al cierre de la contabilidad mensual.
 
-XV. Estados financieros del Consejo Electoral del Estado de Jalisco, los que se publicarán dentro de los 20 veinte días siguientes al cierre de la contabilidad mensual.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+XV. Estados financieros del Instituto Electoral del Estado de Jalisco, los que se publicarán dentro de los 20 veinte días siguientes al cierre de la contabilidad mensual.
 
 XVI. Los egresos publicados conforme a la fracción que antecede, deberán desglosarse conteniendo el concepto y finalidad del gasto, nombre y domicilio del destinatario, así como la fecha del pago y cantidad.
 
@@ -567,11 +667,11 @@ XVII. Los datos principales de su organización y funcionamiento; y (sic)
 
 B.- DE LOS PARTIDOS POLITICOS Y COALICIONES.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 37.
 
-El Consejo Electoral del Estado de Jalisco, hará pública la información relativa a los ingresos y gastos de los partidos políticos y, en su caso, coaliciones, que obren en poder de la Comisión Revisora de los Partidos Políticos y Departamento de Fiscalización, con motivo de las revisiones semestrales y trimestrales, en los términos siguientes:
+El Instituto Electoral del Estado de Jalisco, hará pública la información relativa a los ingresos y gastos de los partidos políticos y, en su caso, coaliciones, que obren en poder de la Comisión Revisora de los Partidos Políticos y Departamento de Fiscalización, con motivo de las revisiones semestrales y trimestrales, en los términos siguientes:
 
 I. Los Informes Semestrales, Trimestrales, de Campaña y de Campaña Institucional, que presenten los partidos políticos y, en su caso, las coaliciones:
 
@@ -601,7 +701,9 @@ g. Inventario físico de bienes muebles e inmuebles del Comité Directivo Estata
 
 III. Los Dictámenes recaídos a los Informes Semestrales y Trimestrales.
 
-IV. Las Resoluciones del Pleno del Consejo Electoral del Estado de Jalisco respecto de las irregularidades encontradas en la revisión de los Informes Semestrales, Trimestrales, presentados por los partidos políticos.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+IV. Las Resoluciones del Pleno del Instituto Electoral del Estado de Jalisco respecto de las irregularidades encontradas en la revisión de los Informes Semestrales, Trimestrales, presentados por los partidos políticos.
 
 V. Los Informes de Campaña de los partidos políticos, en el formato "IC".
 
@@ -623,53 +725,23 @@ c. Controles de folios.
 
 IX. Los Dictámenes recaídos a los Informes de Campaña presentados por los partidos políticos y coaliciones correspondientes a las elecciones locales de que se trate.
 
-X. Las Resoluciones del Pleno del Consejo Electoral del Estado de Jalisco respecto de las irregularidades encontradas en la revisión de los Informes de Campaña presentados por los partidos políticos y coaliciones correspondientes a las elecciones locales de que se trate.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+X. Las Resoluciones del Pleno del Instituto Electoral del Estado de Jalisco respecto de las irregularidades encontradas en la revisión de los Informes de Campaña presentados por los partidos políticos y coaliciones correspondientes a las elecciones locales de que se trate.
 
 XI. Las resoluciones del Tribunal Electoral del Poder Judicial del Estado de Jalisco, que eventualmente, hayan recaído a los dictámenes definitivos y, en su caso, a las resoluciones correspondientes respecto de los Informes Semestrales, Trimestrales y de Campaña de los partidos políticos y/o coaliciones.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 C.- PUBLICIDAD DE LA INFORMACION.
 
-La información señalada, puede ser dada a conocer por medios oficiales, o a través de publicaciones, folletos, periódicos murales, internet o cualquier otro medio de comunicación, lo cual tendrá el carácter de informativo (sic).
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+###### ARTÍCULO 38.
 
-ARTÍCULO 39 (SIC).- Los tiempos en los que el Consejo Electoral del Estado de Jalisco pondrá a disposición del público la documentación de todos los partidos y coaliciones antes mencionada, de acuerdo con las modalidades indicadas, serán los siguientes:
+Las modalidades que se seguirán para la difusión pública de la información señalada en los artículos 36 y 37 que anteceden, serán a través de dos mecanismos:
 
-a) Por lo que hace a la información publicada en la página electrónica del Consejo, dentro de los cuarenta y cinco días naturales posteriores a la aprobación, por parte del Pleno del Consejo Electoral, de los dictámenes definitivos y, en su caso, de las resoluciones respecto de las irregularidades encontradas en la revisión de los Informes Semestrales y de Campaña.
-
-En caso de que los Dictámenes Definitivos y, en su caso, las resoluciones correspondientes, hayan sido recurridas ante autoridad jurisdiccional, se señalará de manera clara e inequívoca que la información que se está difundiendo públicamente está sujeta a eventuales modificaciones por parte de dicha autoridad.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
-
-###### ARTÍCULO 40.
-
-Por lo que hace a la demás documentación señalada en este capítulo, será puesta a disposición del público mediante solicitud realizada a la Secretaría Ejecutiva, ajustándose a los plazos designados para dar contestación a la misma, en términos de este Reglamento y de la Ley de Transparencia e Información Pública del Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
-
-### CAPITULO III. DE LOS SOLICITANTES
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
-
-###### ARTÍCULO 41.
-
-El Consejo Electoral del Estado de Jalisco proporcionará el acceso a la información pública y los servicios bibliotecarios, entre los que se señalan los siguientes:
-
-a) Consulta de catálogos, tanto automatizados como impresos;
-
-b) Consulta de documentos digitalizados;
-
-c) Consulta de la colección de CD·ROMs;
-
-d) Reproducción de materiales y fotocopiado;
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
-
-ARTÍCULO 38 (SIC).- Las modalidades que se seguirán para la difusión pública de la información señalada en los artículos 36 y 37 que anteceden, serán a través de dos mecanismos:
-
-a) A través de la página de internet del Consejo, dentro de los 60 días siguientes a la entrada en vigor de este Título, la siguiente información:
+a) A través de la página de internet del Instituto, dentro de los 60 días siguientes a la entrada en vigor de este Título, la siguiente información:
 
 1. Ley Electoral del Estado de Jalisco, Reglamentos, Acuerdos del Pleno y el sentido del voto, actas de sesión del Pleno, una vez aprobadas y a partir de la vigencia de este Título; así como el Estatuto del Servicio Profesional Electoral.
 
@@ -679,7 +751,7 @@ a) A través de la página de internet del Consejo, dentro de los 60 días sigui
 
 4. Los Informes Semestrales presentados por los partidos políticos, en su formato "IS".
 
-5. Los dictámenes definitivos y las resoluciones correspondientes aprobados por el Pleno del Consejo Electoral del Estado de Jalisco que recaigan a los Informes Semestrales y de Campaña de los partidos políticos y, en su caso, coaliciones. En caso de que dichos documentos sean recurridos ante el Tribunal Electoral del Poder Judicial del Estado de Jalisco, se señalará de manera clara e inequívoca que están sujetos a eventuales modificaciones por esa autoridad jurisdiccional. Si las eventuales resoluciones del Tribunal Electoral modificaran los dictámenes y resoluciones a que se refiere el presente inciso, dichos cambios se incorporarán a la página electrónica del Consejo consultable a través de Internet.
+5. Los dictámenes definitivos y las resoluciones correspondientes aprobados por el Pleno del Instituto Electoral del Estado de Jalisco que recaigan a los Informes Semestrales y de Campaña de los partidos políticos y, en su caso, coaliciones. En caso de que dichos documentos sean recurridos ante el Tribunal Electoral del Poder Judicial del Estado de Jalisco, se señalará de manera clara e inequívoca que están sujetos a eventuales modificaciones por esa autoridad jurisdiccional. Si las eventuales resoluciones del Tribunal Electoral modificaran los dictámenes y resoluciones a que se refiere el presente inciso, dichos cambios se incorporarán a la página electrónica del Instituto consultable a través de Internet.
 
 6. La relación de aportaciones realizadas a los partidos políticos por parte de sus simpatizantes.
 
@@ -689,11 +761,49 @@ a) A través de la página de internet del Consejo, dentro de los 60 días sigui
 
 b) Mediante solicitud realizada a la Secretaría Ejecutiva, en términos del Capítulo III de este Título.
 
-Así como toda aquella información y documentos que no tengan el carácter de reservado en términos de la Ley de Transparencia e Información Pública del Estado de Jalisco y la que el Pleno del Consejo determine con tal carácter.
+La información señalada, puede darse a conocer por medios oficiales, o a través de publicaciones, folletos, periódicos murales, internet o cualquier otro medio de comunicación, lo cual tiene el carácter de informativo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+
+###### ARTÍCULO 39.
+
+Los tiempos en los que el Instituto Electoral del Estado de Jalisco pondrá a disposición del público la documentación de todos los partidos y coaliciones antes mencionada, de acuerdo con las modalidades indicadas, serán los siguientes:
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+a) Por lo que hace a la información publicada en la página electrónica del Instituto, dentro de los cuarenta y cinco días naturales posteriores a la aprobación, por parte del Pleno del Instituto Electoral, de los dictámenes definitivos y, en su caso, de las resoluciones respecto de las irregularidades encontradas en la revisión de los Informes Semestrales y de Campaña.
+
+En caso de que los Dictámenes Definitivos y, en su caso, las resoluciones correspondientes, hayan sido recurridas ante autoridad jurisdiccional, se señalará de manera clara e inequívoca que la información que se está difundiendo públicamente está sujeta a eventuales modificaciones por parte de dicha autoridad.
+
+###### ARTÍCULO 40.
+
+Por lo que hace a la demás documentación señalada en este capítulo, será puesta a disposición del público mediante solicitud realizada a la Secretaría Ejecutiva, ajustándose a los plazos designados para dar contestación a la misma, en términos de este Reglamento y de la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
 
-ARTÍCULO 42 (SIC).- Las solicitudes se presentarán por escrito y por duplicado, en la Oficialía de Partes del Consejo Electoral del Estado de Jalisco, en términos del artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
+### CAPITULO III. DE LOS SOLICITANTES
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
+###### ARTÍCULO 41.
+
+El Instituto Electoral del Estado de Jalisco proporcionará el acceso a la información pública y los servicios bibliotecarios, entre los que se señalan los siguientes:
+
+a) Consulta de catálogos, tanto automatizados como impresos;
+
+b) Consulta de documentos digitalizados;
+
+c) Consulta de la colección de CD·ROMs;
+
+d) Reproducción de materiales y fotocopiado;
+
+Así como toda aquella información y documentos que no tengan el carácter de reservado en términos de la Ley de Transparencia e Información Pública del Estado de Jalisco y la que el Pleno del Instituto determine con tal carácter.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+
+###### ARTÍCULO 42.
+
+Las solicitudes se presentarán por escrito y por duplicado, en la Oficialía de Partes del Instituto Electoral del Estado de Jalisco, en términos del artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 Las solicitudes de información deberán de proveerse por el Secretario Ejecutivo, con apoyo del área correspondiente, dentro del plazo de 15 días, mismo que se puede prorrogar 10 días más, si por la naturaleza de la información no puede ser presentada en el tiempo ordinario, para lo cual se deberá de motivar, fundamentar y notificar la prórroga, en términos del artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
@@ -715,13 +825,15 @@ Toda solicitud deberá ser presentada en horario hábil.
 
 ### CAPITULO IV. DE LA INFORMACION A CONSULTAR
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 44.
 
-La información que integra y forma parte del Consejo Electoral del Estado de Jalisco, se divide de la manera siguiente:
+La información que integra y forma parte del Instituto Electoral del Estado de Jalisco, se divide de la manera siguiente:
 
-I. Documentos generados por el Consejo Electoral del Estado de Jalisco, entre los que se incluyen de manera enunciativa y no limitativa los siguientes:
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+I. Documentos generados por el Instituto Electoral del Estado de Jalisco, entre los que se incluyen de manera enunciativa y no limitativa los siguientes:
 
 a) Acuerdos;
 
@@ -739,11 +851,11 @@ V. Los discos compactos que compendian información y datos institucionales, jur
 
 VI. Material cartográfico de los Distritos Electorales del Estado de Jalisco, entre otros.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 45.
 
-Durante su estancia en el interior del Consejo, los solicitantes deberán observar una conducta correcta, que permita mantener un ambiente de seguridad, tranquilidad y respeto para el resto de los ocupantes.
+Durante su estancia en el interior del Instituto, los solicitantes deberán observar una conducta correcta, que permita mantener un ambiente de seguridad, tranquilidad y respeto para el resto de los ocupantes.
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
 
@@ -751,11 +863,11 @@ Durante su estancia en el interior del Consejo, los solicitantes deberán observ
 
 Los usuarios están obligados a utilizar adecuadamente el material que les sea prestado.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 47.
 
-Queda prohibido a los solicitantes que acudan a realizar consultas al Consejo, lo siguiente:
+Queda prohibido a los solicitantes que acudan a realizar consultas al Instituto, lo siguiente:
 
 a) Introducir alimentos y bebidas o sustancias que por su manejo o peligrosidad pongan en riesgo la seguridad, ya sea de los empleados o demás solicitantes, el buen estado de las instalaciones, el mobiliario, el equipo, y el acervo;
 
@@ -771,11 +883,11 @@ e) Las prohibiciones que se desprendan del presente reglamento y demás disposic
 
 ### CAPITULO V. DEL RECURSO DE REVISION
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 48.
 
-En contra de las determinaciones que nieguen o limiten el acceso a la información, procederá el recurso administrativo de revisión previsto por el Título Cuarto de la Ley de Transparencia e Información Pública del Estado de Jalisco, y su trámite se realizará conforme a lo establecido por dicha Ley; el proyecto que resuelva el recurso de revisión propuesto por la Presidencia deberá ser sometido a la aprobación del Pleno del Consejo Electoral.
+En contra de las determinaciones que nieguen o limiten el acceso a la información, procederá el recurso administrativo de revisión previsto por el Título Cuarto de la Ley de Transparencia e Información Pública del Estado de Jalisco, y su trámite se realizará conforme a lo establecido por dicha Ley; el proyecto que resuelva el recurso de revisión propuesto por la Presidencia deberá ser sometido a la aprobación del Pleno del Instituto Electoral.
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
 
@@ -787,11 +899,11 @@ En contra de las determinaciones que nieguen o limiten el acceso a la informaci�
 
 El servidor público que niegue la información, será sancionado en términos del artículo 25 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 50.
 
-Toda situación no prevista en este Título, será resuelta en el marco de sus atribuciones, por el Pleno, el Presidente o el Secretario Ejecutivo del Consejo Electoral del Estado de Jalisco, en términos de lo señalado por la propia Ley Electoral y este Reglamento.
+Toda situación no prevista en este Título, será resuelta en el marco de sus atribuciones, por el Pleno, el Presidente o el Secretario Ejecutivo del Instituto Electoral del Estado de Jalisco, en términos de lo señalado por la propia Ley Electoral y este Reglamento.
 
 ## TRANSITORIO
 
@@ -862,3 +974,7 @@ TERCERO.- Las modificaciones señaladas en el presente acuerdo entrarán en vigo
 CUARTO.- Notifíquese a los partidos políticos acreditados o registrados ante el Consejo Electoral del Estado de Jalisco.
 
 QUINTO.- Publíquese en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 2 DE AGOSTO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
