@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-o-p-d-sistema-para-el-desarrollo-18336"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-19"
-last_updated: "2000-09-19"
+last_updated: "2005-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DEL O.P.D. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 19 de septiembre de 2000.
 
@@ -103,9 +103,15 @@ III.2. Coordinación de Centros de Rehabilitación;
 
 IV. Dirección de Integración y Bienestar Social;
 
-V. Dirección de Asistencia Jurídica; y
+V. Dirección de Asistencia Jurídica; y (sic)
 
-VI. Dirección de Administración y Finanzas; (sic)
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VI. Dirección de Administración;
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+VII. Dirección de Finanzas.
 
 ###### ARTICULO 8o.
 
@@ -309,9 +315,11 @@ XVI. Las demás que la Junta determine o el Presidente le encomiende.
 
 La responsabilidad de la operación y administración del Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero, recaerá en un Director General que será designado y removido libremente por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 23.
 
-La presentación, tramite, firma y resolución de los asuntos del Sistema, serán facultades que corresponderán originalmente al Director General, y solo previo acuerdo de la Junta de Gobierno podrá delegar dichas facultades en funcionarios subalternos sin perder por ello la posibilidad de su ejercicio directo.
+Con sustento en las fracciones VIII y IX del artículo 30 de la Ley Sobre el Sistema Estatal de Asistencia Social, la representación del Organismo para todos los efectos legales, le corresponde al Director General. Sin embargo, para el ejercicio de esa representación y estar en aptitud de hacer frente a las labores de la institución y a los conflictos de carácter jurisdiccional, no requerirá de autorización de la Junta de Gobierno para delegar en funcionarios subalternos o terceras personas facultades u otorgar poderes generales y/o especiales en materia de administración y representación laboral con facultades para absolver posiciones, sin que se pierda por ello la posibilidad de su ejercicio directo por parte del Director General.
 
 ###### ARTICULO 24.
 
@@ -657,13 +665,17 @@ VI. Establecer las políticas generales para la implementación de los programas
 
 VII. Promover y realizar programas de capacitación, orientados principalmente a la actualización de los conocimientos jurídicos y demás procesos de la naturaleza de sus funciones.
 
-### CAPITULO XVIII. DE LA DIRECCION DE ADMINISTRACIÓN Y FINANZAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE AGOSTO DE 2005)</small>
+
+### CAPITULO XVIII. DE LA DIRECCION DE ADMINISTRACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 38.
 
-A la Dirección de Administración y Finanzas del Organismo, le corresponde el ejercicio de las atribuciones siguientes:
+A la Dirección de Administración del Organismo, le corresponde el ejercicio de las atribuciones siguientes:
 
-I. Coordinar el proceso anual para la integración de las actividades administrativas, del ejercicio, control presupuestal y contable del Sistema;
+I. (DEROGADA, P.O. 2 DE AGOSTO DE 2005)
 
 II. Coordinar y vigilar la formulación y ejecución de los programas anuales de obra pública, adquisiciones, conservación y mantenimiento de bienes muebles e inmuebles del Sistema;
 
@@ -683,15 +695,37 @@ IX. Levantar inventario de mobiliario y equipo de oficina, así como de vehícul
 
 X. Supervisar la organización y funcionamiento de los servicios de intendencia;
 
-XI. Formular el presupuesto anual de egresos del Sistema;
+XI. (DEROGADA, P.O. 2 DE AGOSTO DE 2005)
 
-XII. Elaborar los estados financieros correspondientes; y
+XII. (DEROGADA, P.O. 2 DE AGOSTO DE 2005)
 
-XIII. Revisar todo tipo de comprobantes que afecten el presupuesto del gasto corriente; (sic)
+XIII. (DEROGADA, P.O. 2 DE AGOSTO DE 2005)
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE AGOSTO DE 2005)</small>
+
+### CAPÍTULO XVIII Bis. DE LA DIRECCIÓN DE FINANZAS
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 38 Bis.
+
+A la Dirección de Finanzas del Organismo, le corresponde el ejercicio de las atribuciones siguientes:
+
+I.- Coordinar el proceso anual para la integración de las actividades administrativas, del ejercicio, control presupuestal y contable del Sistema;
+
+II.- Formular el presupuesto anual de egresos del Sistema;
+
+III.- Elaborar los estados financieros correspondientes;
+
+IV. Revisar todo tipo de comprobantes que afecten el presupuesto del gasto corriente;
+
+V.- Llevar el control del ejercicio del gasto conforme al presupuesto autorizado;
+
+VI.- Efectuar los pagos conforme a los programas y presupuesto aprobados; y
+
+VII.- Las demás que le sean encomendadas por el Director General.
 
 ### CAPITULO XIX. DEL COMISARIO PUBLICO
-
-### CAPITULO XX. DE LOS ESTABLECIMIENTOS PUBLICOS DE BIENESTAR SOCIAL
 
 ###### ARTICULO 39.
 
@@ -715,7 +749,7 @@ VI. Verificar la observación de las disposiciones legales aplicables por parte 
 
 VII. Verificar que los inventarios del Organismo se actualicen permanentemente.
 
-### CAPITULO XXI. DE LAS SESIONES DE LA JUNTA DE GOBIERNO Y DEL PATRONATO
+### CAPITULO XX. DE LOS ESTABLECIMIENTOS PUBLICOS DE BIENESTAR SOCIAL
 
 ###### ARTICULO 41.
 
@@ -767,7 +801,7 @@ VII. Vigilar que se cumplan cabalmente las disposiciones del presente Reglamento
 
 VIII. Las demás que les confiere la superioridad y que se deriven de las anteriores.
 
-### CAPITULO XXII. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
+### CAPITULO XXI. DE LAS SESIONES DE LA JUNTA DE GOBIERNO Y DEL PATRONATO
 
 ###### ARTICULO 45.
 
@@ -781,7 +815,7 @@ Las reuniones de la Junta se llevarán a cabo con la presencia del Presidente o 
 
 En el supuesto de que los integrantes de la Junta de Gobierno no pudieran reunirse en su totalidad para efectuar las sesiones ya referidas, el quórum legal se instalará con la asistencia de la mitad más uno de sus miembros y los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes.
 
-### CAPITULO XXIII. DE LAS RELACIONES LABORALES
+### CAPITULO XXII. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 48.
 
@@ -791,13 +825,13 @@ El Director General del Organismo, será suplido en sus ausencias temporales por
 
 La ausencia de alguno de los Directores de Area, Coordinadores o Titulares de las demás áreas, se suplirán por el funcionario expresamente designado por el Director General.
 
-### CAPITULO XXIV. DE LAS MODIFICACIONES AL REGLAMENTO
+### CAPITULO XXIII. DE LAS RELACIONES LABORALES
 
 ###### ARTICULO 50.
 
 Las relaciones laborales entre el Sistema Estatal para el Desarrollo Integral de la Familia y sus trabajadores, se regirán en base a la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248.
 
-### CAPITULO XXV. DE LAS VIOLACIONES AL REGLAMENTO
+### CAPITULO XXIV. DE LAS MODIFICACIONES AL REGLAMENTO
 
 ###### ARTICULO 51.
 
@@ -806,6 +840,8 @@ Las modificaciones al presente Reglamento, serán facultad exclusiva de la Junta
 ###### ARTICULO 52.
 
 Las iniciativas de modificación al Reglamento, serán facultad del Director General, quien las presentará para su aprobación a la Junta de Gobierno.
+
+### CAPITULO XXV. DE LAS VIOLACIONES AL REGLAMENTO
 
 ###### ARTICULO 53.
 
@@ -850,3 +886,9 @@ El Director General del DIF-Guerrero.
 C. ING. JESUS HERIBERTO NORIEGA CANTU.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE AGOSTO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
