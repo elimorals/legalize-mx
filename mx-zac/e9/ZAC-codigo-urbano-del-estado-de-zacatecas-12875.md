@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2004-06-12"
+last_updated: "2005-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -2473,15 +2473,25 @@ La construcción de vivienda multifamiliar o edificios habitacionales dentro de 
 
 Las construcciones en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 208.
 
-Los ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos, el 40% de las áreas de donación que reciban conforme a lo dispuesto en este Código por parte de los fraccionadores en cada fraccionamiento.
+Los ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos, el 60% de las áreas de donación que reciban conforme a lo dispuesto por este Código por parte de los fraccionadores en cada fraccionamiento
 
-Del área total de donación de cada fraccionamiento, cuando menos un 20% deberá destinarse a áreas verdes, parques y jardines; el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos.
+Del área de donación de cada fraccionamiento, cuando menos un 30% deberá destinarse a áreas verdes, parques y jardines, el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos.
 
 ###### ARTICULO 209.
 
-El Ayuntamiento correspondiente podrá ejercer actos de dominio, a título oneroso o gratuito, previa autorización de la Legislatura del Estado, respecto a las áreas de donación en la extensión a que se refiere el artículo anterior, siempre y cuando no se afecten las características del fraccionamiento respectivo y se garantice el equipamiento y la suficiencia de los servicios en el mismo.
+El ayuntamiento correspondiente en ningún caso podrá ejercer actos de dominio, a título oneroso o gratuito, sin autorización de la Legislatura del Estado, respecto a las áreas de donación en la extensión a que se refiere el artículo anterior, a fin de que se garantice el equipamiento y la suficiencia de los servicios en el mismo.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+En casos excepcionales, y atendiendo siempre el interés superior de la población, la Legislatura del Estado podrá autorizar la enajenación únicamente cuando se justifique que es indispensable para el otorgamiento de los servicios públicos de este centro de población y no constituya una superficie superior al 10% del total del área de donación, el que se considera como reserva.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+El Servidor Público que disponga de las áreas de donación en contravención a lo que dispone el párrafo anterior, incurrirá en el delito de peculado a que se refiere el artículo 199 del Código Penal vigente en el Estado.
 
 ###### ARTICULO 210.
 
@@ -4834,3 +4844,7 @@ TERCERO.- La Junta Directiva del Consejo Promotor de la Vivienda Popular, proced
 P.O. 12 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
