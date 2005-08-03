@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2005-05-18"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -615,9 +615,11 @@ II. Promover ante la Suprema Corte de Justicia de la Nación en los términos qu
 
 III. Expedir o reformar los Bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, en el ámbito de sus respectivas jurisdicciones, sujetándose a lo dispuesto en la presente Ley;
 
-IV.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, para el cumplimiento de los fines de desarrollo integral de la comunidad, en los términos que previene el artículo 116 de la Constitución Política del Estado.
+IV.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, para el cumplimiento de los fines de desarrollo integral de la comunidad, en los términos que previene el artículo 116 de la Constitución Política del Estado;
 
-V.- Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se remitirá al Congreso a más tardar el treinta de noviembre de cada año, para su discusión y aprobación en su caso; en la distribución de los recursos que le asigne el Congreso, deberán considerar de manera prioritaria a sus comunidades y pueblos indígenas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+V.- Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se remitirá al Congreso a más tardar el primero de octubre de cada año, a su discusión y aprobación en su caso; en la distribución de los recursos que le asigne el Congreso, deberán considerar de manera prioritaria a sus comunidades y pueblos indígenas;
 
 VI.- Revisar y aprobar, en su caso, la cuenta pública anual correspondiente al ejercicio anterior, que presente el Tesorero, remitiéndola a la Legislatura local, dentro del término que establezca la Constitución Política del Estado, con copia del acta de la sesión de Cabildo en donde haya sido aprobada;
 
@@ -741,7 +743,11 @@ LVIII.- Proporcionar instrucción cívica a los ciudadanos del Municipio, con el
 
 LIX.- Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
 
-LX.- En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos.
+LX.- En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+LXI.- Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
 
 ###### Artículo 39.
 
@@ -1265,11 +1271,15 @@ XX.- Efectuar los pagos presupuestados previo acuerdo del Ayuntamiento, o del Pr
 
 XXI.- Intervenir en coordinación con el Síndico, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, en defensa de los intereses de la hacienda pública municipal;
 
-XXII.- Integrar la cuenta pública anual del Municipio dentro de los primeros quince días del mes de enero de cada año, para los efectos legales respectivos;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+XXII.- Integrar la Cuenta Pública Anual del Municipio dentro de los primeros diez días del mes de enero de cada año, para los efectos legales respectivos;
 
 XXIII.- Cuidar que los asuntos de la Tesorería se despachen y solventen con la oportunidad y eficacia requerida para el debido funcionamiento de la dependencia;
 
-XXIV.- Presentar al Ayuntamiento la Cuenta Pública anual correspondiente al ejercicio fiscal anterior, antes del 10 de marzo de cada año; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+XXIV.- Presentar al Ayuntamiento la Cuenta Pública anual correspondiente al ejercicio fiscal anterior, durante los primeros quince días del mes de enero para su revisión, aprobación y entrega al Congreso del Estado, a más tardar el último día hábil del mismo mes; y
 
 XXV.- Las demás que le asignen esta Ley, la de Hacienda Municipal, el Código Fiscal del Estado de Morelos y reglamentos en vigor.
 
@@ -2376,3 +2386,17 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- A partir del inicio de la vigencia de este decreto, los Ayuntamientos deberán proceder, en un plazo no mayor de noventa días naturales, a realizar las adecuaciones a sus bandos, reglamentos, circulares y disposiciones administrativas de observancia general para el gobierno de sus respectivos Municipios; si es que en ellos no se considera la comisión y unidad administrativa o dependencia que atienda los asuntos migratorios.
+
+P.O. 3 DE AGOSTO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del poder Ejecutivo del Estado, para efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO CUARTO.
+
+(sic) Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
