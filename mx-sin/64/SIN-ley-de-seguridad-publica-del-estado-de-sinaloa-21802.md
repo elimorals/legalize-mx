@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-21802"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-25"
-last_updated: "2001-07-25"
+last_updated: "2005-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 25 de julio de 2001.
 
@@ -43,9 +43,11 @@ LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y tiene por objeto:
+La presente Ley es de orden público e interés social, por lo que su observancia debe de ser general en el Estado de Sinaloa, y tiene por objeto:
 
 I. Normar la función de seguridad pública a cargo del Estado y los Municipios;
 
@@ -61,9 +63,15 @@ V. Promover e impulsar la participación social para el mejoramiento de la segur
 
 Para los efectos de esta ley, se entiende por seguridad pública la función a cargo del Estado y los Municipios, tendiente a salvaguardar la integridad, los bienes y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
 
-Las autoridades competentes cumplirán con los fines de la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, así como con la readaptación social de los delincuentes y el tratamiento de menores infractores.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+La (sic) autoridades competentes cumplirán con los fines de la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, así como con la readaptación y reinserción social de los delincuentes y de los menores infractores.
 
 Para alcanzar los fines de prevención del delito, existirá coordinación obligatoria con los sistemas educativo, de integración familiar, de salud, de protección civil, de saneamiento ambiental, de seguridad social o cualquier otro que coadyuve a la preservación de la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+Las instituciones encargadas de la seguridad pública regirán su actuación bajo los principios de legalidad, protección social, eficiencia, eficacia, profesionalismo, honradez y respeto a los derechos humanos, y cualquier actividad fuera de estos principios, será sancionado de conformidad con la Ley.
 
 ###### Artículo 3.
 
@@ -73,9 +81,11 @@ La función de seguridad pública es una responsabilidad conjunta que se asumir�
 
 La aplicación de la presente Ley corresponde a las autoridades estatales y municipales, en la esfera de sus respectivas competencias, de acuerdo con lo previsto en la misma, sus Reglamentos y demás ordenamientos aplicables, así como en los convenios y acuerdos que se suscriban en materia de seguridad pública.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 5.
 
-La seguridad pública es una función de la responsabilidad directa del Estado y de los Municipios, cuyo cumplimiento en su ámbito de aplicación y de operación general, es prioritario para la sociedad. El Ejecutivo Estatal, cuando así lo requiera el interés general, podrá autorizar a particulares la prestación de servicios privados específicos de seguridad, siempre que satisfagan los requisitos determinados por esta Ley y su Reglamento, ordenamientos que serán para ellos de observancia obligatoria.
+La seguridad pública, cuyo servicio deberá de desarrollarse en el marco del respeto a las garantías individuales, es una función de la responsabilidad directa del Estado y de los Municipios, cuyo cumplimiento en su ámbito de aplicación y de operación general, es prioritario para la sociedad. El Ejecutivo Estatal, cuando así lo requiera el interés general, podrá autorizar a particulares la prestación de servicios privados específicos de seguridad, siempre que satisfagan los requisitos determinados por esta Ley y su Reglamento, ordenamientos que serán para ellos de observancia obligatoria.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES Y SU COMPETENCIA EN MATERIA DE SEGURIDAD PUBLICA
 
@@ -95,7 +105,9 @@ IV. El Secretario de Seguridad Pública;
 
 V. El Director de la Policía Estatal Preventiva;
 
-VI. Los Directores de los Centros de Readaptación Social;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VI. Los Directores de los centros de ejecución de las consecuencias jurídicas del delito;
 
 VII.- El Director de Vialidad y Transportes; y,
 
@@ -189,9 +201,11 @@ En los casos de fuerza mayor o alteración grave del orden público, las policí
 
 ### Capítulo III. De las Instituciones de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 15.
 
-Las Instituciones de Seguridad Pública en general, estarán constituidas por las policías preventivas, el Ministerio Público y la Policía dependiente de éste, los tribunales y los cuerpos de custodia a internos de centros de readaptación social y de centros de tratamiento de menores infractores.
+Las Instituciones de Seguridad Pública en general, estarán constituidas por las policías preventivas, el Ministerio Público y la Policía dependiente de éste, los tribunales y los cuerpos de custodia a internos de centros de ejecución de las consecuencias jurídicas del delito y de centros de tratamiento de menores infractores.
 
 A dichas instituciones corresponde planear, realizar, supervisar y evaluar las acciones dirigidas a mantener el orden, la paz y la tranquilidad públicas dentro del territorio del Estado o de los respectivos Municipios, según corresponda. Revisarán trimestralmente sus estrategias de trabajo, sus resultados y las propuestas que en su caso se les presenten para el mejor desempeño de sus funciones.
 
@@ -199,7 +213,9 @@ A dichas instituciones corresponde planear, realizar, supervisar y evaluar las a
 
 Las instituciones de seguridad pública en el Estado, son:
 
-I. Las Instituciones Estatales de Seguridad Pública, que comprenden a la Secretaría de Seguridad Pública y la Policía Estatal Preventiva, al Ministerio Público y la policía dependiente de éste, los tribunales y los cuerpos de custodia de centros de readaptación social y de tratamiento de menores infractores, las que operarán en todo el territorio del Estado; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+I. Las Instituciones Estatales de Seguridad Pública, que comprenden a la Secretaría de Seguridad Pública, la Policía Estatal Preventiva y los cuerpos de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores, al Ministerio Público y la policía dependiente de éste, los tribunales, las que operarán en todo el territorio del Estado; y,
 
 II. Las Instituciones Municipales de Seguridad Pública, que comprenden a las Direcciones de Seguridad Pública y de Tránsito de los Municipios, las que operarán dentro de sus límites.
 
@@ -221,11 +237,13 @@ II Evitar el rezago de órdenes de aprehensión dictadas, revisando cada tres me
 
 Los tribunales se regirán por la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 20.
 
-Las instituciones de seguridad pública encargadas de la custodia de los internos desarrollarán sus funciones exclusivamente en los establecimientos destinados a la readaptación social de delincuentes y al tratamiento de menores infractores, a cargo del Poder Ejecutivo Estatal, por conducto de la Secretaría General de Gobierno, de conformidad con las disposiciones jurídicas de la materia.
+Las instituciones de seguridad pública encargadas de la custodia de los internos desarrollarán sus funciones exclusivamente en los establecimientos destinados a la readaptación social de delincuentes y a tratamiento de menores infractores, a cargo del Poder Ejecutivo Estatal, por conducto de la Secretaría de Seguridad Pública, de conformidad con las disposiciones jurídicas de la materia.
 
-Los custodios ejercerán funciones de vigilancia y protección de los centros de readaptación social y de tratamiento de menores infractores y, en general, de cualquier establecimiento destinado a la internación de quienes se encuentren privados de la libertad personal por resolución judicial o administrativa, de internos, visitantes, así como del traslado de sentenciados y procesados en el territorio del Estado, en los términos de las disposiciones jurídicas aplicables.
+Los custodios ejercerán funciones de vigilancia y protección de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores y, en general, de cualquier establecimiento destinado a la internación de quienes se encuentren privados de la libertad personal por resolución judicial o administrativa, de internos, visitantes, así como del traslado de sentenciados y procesados en el territorio del Estado, en los términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 21.
 
@@ -303,7 +321,17 @@ La acción de los integrantes de las instituciones de seguridad pública, en el 
 
 Los vehículos al servicio de las corporaciones policiales y de los particulares a quien se autorice la prestación de servicio específico de seguridad, deberán ostentar visiblemente su denominación, logotipo o escudo y número que los identifique, debiendo portar, en todo caso, placas de circulación.
 
-Queda prohibido a las corporaciones policiales el uso de vehículos que hubieren sido asegurados con motivo de la comisión de delitos o faltas administrativas.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE AGOSTO DE 2005)</small>
+
+Queda prohibido a los elementos de seguridad pública y privada:
+
+a) La utilización de credenciales o medios de identificación distintos a los reglamentarios;
+
+b) El uso de vehículos sin placas, asegurados con motivo de la comisión de delitos o faltas administrativas, o cuya estancia en el país sea ilegal;
+
+c) La utilización de insignias, divisas, armamento o uniformes reservados al Ejercicio, Armada y Fuerza Aérea Nacionales; y
+
+d) Prestar simultáneamente servicios de cualquier carácter en un cuerpo de seguridad pública y privada.
 
 ###### Artículo 28.
 
@@ -335,9 +363,11 @@ Las corporaciones policiales, estatales y municipales, podrán organizar grupos 
 
 #### Sección Primera. De los Titulares
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 32.
 
-Para ser titular de las instituciones policiales preventivas y las de custodia de los centros de readaptación social y de tratamiento de menores infractores, se exigirán, por lo menos, los siguientes requisitos:
+Para ser titular de las instituciones policiales preventivas y las de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores, se exigirán, por lo menos, los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -347,7 +377,9 @@ III. Ser de notoria buena conducta;
 
 IV. No haber sido condenado por delito doloso;
 
-V. Acreditar preparación en la materia o capacitación especializada para dirigir la institución respectiva;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+V. Tener profesión a nivel de licenciatura o acreditar preparación en la materia o capacitación especializada para dirigir la institución respectiva;
 
 VI. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública;
 
@@ -393,9 +425,11 @@ IX. Acreditar residencia efectiva de cuando menos dos años en la entidad; y
 
 X. Los demás que exijan esta Ley y su Reglamento, u otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 36.
 
-Son deberes mínimos de los miembros de las instituciones policiales y las de custodia de los centros de readaptación social y de tratamiento de menores infractores, los siguientes:
+Son deberes mínimos de los miembros de las instituciones policiales y las de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores, los siguientes:
 
 I. Conducirse siempre con apego al orden jurídico y con respeto a los derechos humanos;
 
@@ -469,49 +503,109 @@ El Sistema Estatal de Seguridad Pública se integra con las instancias, instrume
 
 El Sistema Estatal de Seguridad Pública contará con un programa de prevención del delito y de otras conductas antisociales que afecten a la sociedad, a partir de un diagnóstico de los elementos del sistema preventivo y de los factores criminógenos, culturales y naturales que los propicien, a fin de coordinar los objetivos, estrategias, políticas y acciones conducentes, con el apoyo de la comunidad.
 
-### Capítulo II. De la Coordinación entre las Autoridades Estatales y Municipales en materia de Seguridad Pública
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+### Capítulo II. De la Coordinación Institucional entre las Autoridades Estatales y Municipales en materia de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 40.
 
-Las autoridades competentes del Estado y los Municipios en materia de seguridad pública, se coordinarán para:
+Para una eficaz y eficiente actuación, las autoridades estatales y municipales en materia de seguridad pública, se vinculan y quedan coordinadas en el Sistema Estatal de Seguridad Pública, al tenor de las líneas y condiciones siguientes:
 
-I. Integrar el Sistema Estatal de Seguridad Pública;
+I. Lineamientos Generales, para:
 
-II. Determinar las políticas de seguridad pública, así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta ley;
+A) Integrar el Sistema Estatal de Seguridad Pública:
 
-III. Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización, capacitación y funcionamiento de las instituciones de seguridad pública;
+B) Determinar las políticas de seguridad pública, así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta ley;
 
-IV. Establecer, supervisar, utilizar y mantener actualizados todos los instrumentos de información del Sistema Estatal; así como los datos que deban aportarse al Sistema Nacional;
+C) Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización, capacitación y funcionamiento de las instituciones de seguridad pública;
 
-V. Formular propuestas para el Programa Estatal de Seguridad Pública, llevarlo a cabo y evaluar su desarrollo; y,
+D) Establecer, supervisar, utilizar y mantener actualizados todos los instrumentos de información del Sistema Estatal; así como los datos que deban aportarse al Sistema Nacional:
 
-VI. Realizar acciones y operativos conjuntos.
+E) Formular propuestas para el Programa Estatal de Seguridad Pública, llevarlo a cabo y evaluar su desarrollo; y
+
+F) Emitir disposiciones normativas relativas a la organización y dirección de acciones policiales conjuntas.
+
+II. Profesionalización, para:
+
+A) Establecer reglas de ingreso, procedimientos de formación, permanencia, promoción y retiro de los miembros de las instituciones de seguridad pública;
+
+B) Brindar las condiciones necesarias de apoyo a los elementos de nuevo ingreso seleccionados, así como a los activos para tomar el curso de formación;
+
+C) Convocar a los cursos de formación, actualización, profesionalización y demás actividades académicas que acuerden, previa validación de la institución dependiente del Estado responsable de su formación profesional a la que se asigne esta función;
+
+D) Formar, a través de un curso, a los elementos activos que no hayan realizado el requerido para su ingreso; en este caso, se les cubrirán los salarios que tengan asignados dichos elementos;
+
+E) Impulsar la carrera policial, promoviendo a su personal activo en los términos que señalen sus disposiciones relativas del servicio profesional de carrera policial:
+
+F) Instituir y cumplir las disposiciones del servicio profesional de carrera policial, en los términos de las disposiciones relativas de los convenios que se suscriban para tal efecto; y,
+
+G) Determinar que nadie podrá ocupar alguna plaza sin que haya satisfecho los requisitos que señalen sus disposiciones relativas del servicio profesional de carrera policial.
+
+III. Telecomunicaciones, para:
+
+A) Consolidar el desarrollo y modernización de la red estatal de telecomunicaciones, para optimizar el funcionamiento del Subsistema de Información, tanto en su operación como en capacitación al personal responsable de la misma;
+
+B) Comisionar a personal altamente capacitado, para el uso óptimo de la Red Estatal de Telecomunicaciones y su tecnología;
+
+C) Establecer un programa que defina un Manual de Normas y Procedimientos de Comunicaciones, en el que se precisará particularmente el suministro y sistematización de todo tipo de información y tecnología relacionados con la seguridad pública y la homologación de las claves de radio, la definición de políticas de uso y seguridad de los medios de comunicación y equipos;
+
+D) Destinar recursos de su gasto de operación anual, por concepto de uso de la red y mantenimiento preventivo, correctivo y de adquisición de consumibles de los equipos de radiocomunicación a su cargo; y,
+
+E) Extender la red de atención ciudadana mediante la ampliación de la cobertura del teléfono de emergencias; para ello, los municipios asignarán personal con experiencia en telecomunicaciones, para que, previa su capacitación, se responsabilicen de ese servicio.
+
+IV. Equipo policial y armamento, para:
+
+A) Mantener actualizada ante la Secretaría de la Defensa Nacional la licencia oficial colectiva para la portación de armas de fuego;
+
+B) Mantener el equipo policial y el armamento asignado al servicio de seguridad pública en óptimas condiciones y darle el mantenimiento adecuado; y,
+
+C) Gestionar con oportunidad la adquisición del equipo policial y el armamento, municiones y accesorios que se requieran anualmente, según las necesidades del servicio.
+
+V. En asuntos internos, para:
+
+A) Vigilar e inspeccionar tanto a los servidores públicos como a las unidades administrativas de las instituciones de seguridad pública; y,
+
+B) Denunciar ante las autoridades competentes las irregularidades detectadas en el ejercicio de sus funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 41.
 
-Serán materia de coordinación los instrumentos y las actividades siguientes:
+Además será materia de coordinación, lo siguiente:
 
-I. Reglas de ingreso, procedimientos de formación, permanencia, promoción y retiro de los miembros de las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+I. Combate a la corrupción policial;
 
 II. Sistemas disciplinarios, así como de estímulos y recompensas por actos meritorios de sus miembros;
 
 III. Organización, administración, operación y modernización tecnológica de las instituciones de seguridad pública;
 
-IV. Propuestas para la aplicación de los recursos para la seguridad pública, incluido, en su caso, el financiamiento conjunto entre el Estado y los Municipios;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-V. Suministro, intercambio y sistematización de todo tipo de información y tecnología relacionados con la seguridad pública;
+IV. Propuestas para la aplicación de los recursos para la seguridad pública, incluido, en su caso, el financiamiento conjunto entre el Estado y los Municipios. Así como la optimización, de los recursos presupuestales mediante la planeación, presupuestación, adquisición y distribución centralizada de todo tipo de equipo policial;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+V. Logística policial;
 
 VI. Realización de acciones policiales conjuntas, en los términos de esta ley y demás ordenamientos aplicables;
 
 VII. Regulación, capacitación y control de los servicios privados de seguridad y otros auxiliares;
 
-VIII. Relaciones con la comunidad y fomento de la cultura de prevención de infracciones, delitos y otras conductas antisociales; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VIII. Relaciones con la comunidad y fomento de la cultura de la legalidad en prevención de infracciones, delitos y otras conductas antisociales; y,
 
 IX. Las demás actividades que permitan incrementar la eficacia de las medidas y acciones tendientes a garantizar la seguridad pública.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 42.
 
-En todo caso, las políticas, lineamientos y acciones de coordinación se llevarán a cabo mediante la suscripción de los convenios respectivos y, en su caso, con base en los acuerdos y resoluciones que se tomen en el Consejo Estatal de Seguridad Pública y demás instancias de coordinación.
+Las acciones de coordinación no previstas en esta Ley, las políticas, lineamientos y demás acciones que se estimen necesarias en materia de seguridad pública, se llevarán a cabo mediante la suscripción de los convenios respectivos y, en su caso, con base en los acuerdos y resoluciones que se tomen en el Consejo Estatal de Seguridad Pública y demás instancias de coordinación.
 
 ### Capítulo III. De la Coordinación de Instancias
 
@@ -695,7 +789,9 @@ V. El Encargado de la Policía Ministerial;
 
 VI. El Delegado del Consejo Tutelar para Menores;
 
-VII. El Director del Centro de Readaptación Social, o de la cárcel pública municipal, en su caso;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VII. El Director del centro de ejecución de las consecuencias jurídicas del delito del municipio que se trate;
 
 VIII. Un representante de la Policía Federal Preventiva;
 
@@ -731,7 +827,9 @@ VI. Los representantes de la Procuraduría General de Justicia;
 
 VII. Los Delegados del Consejo Tutelar para Menores;
 
-VIII. Los Directores de los Centros de Readaptación Social y cárceles públicas municipales; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VIII.- Los Directores de los centros de ejecución de las consecuencias jurídicas del delito de los municipios que se traten; y,
 
 IX. Un Secretario Ejecutivo designado por el propio Consejo Intermunicipal, de entre los Secretarios Ejecutivos de los Consejos Municipales correspondientes.
 
@@ -1115,9 +1213,11 @@ Los datos e informes que se utilicen para la elaboración de los programas a que
 
 Los Programas Estatal y Municipales de Seguridad Pública serán expedidos por el titular del Ejecutivo Estatal y los Presidentes Municipales, respectivamente, y serán previamente sometidos a la aprobación de los Consejos Estatal y Municipales de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 103.
 
-Los Programas de Seguridad Pública se publicarán en el Periódico Oficial del Estado y las instituciones responsables de su ejecución procurarán su divulgación por otros medios, a la sociedad.
+Los Programas de Seguridad Pública deberán de elaborarse y someterse a la aprobación en los términos del artículo anterior, dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y se publicarán en el Periódico Oficial del Estado y las instituciones responsables de su ejecución procurarán su divulgación por otros medios, a la sociedad.
 
 ###### Artículo 104.
 
@@ -1146,6 +1246,14 @@ Para establecer el servicio de carrera en los ámbitos estatal y municipal, el t
 ###### Artículo 108.
 
 La coordinación de los cuerpos policiales de seguridad pública, estatales y municipales, tiene por objeto establecer criterios uniformes en materia de seguridad pública, así como lograr mayor efectividad en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+Las acciones específicas en materia de coordinación que se establecen en el artículo siguiente, deberán quedar documentadas, mediante la firma de los convenios y acuerdos correspondientes, en los que además se deberán de prever mecanismos de evaluación, en períodos semestrales, cuyos resultados deberán ser informados por el Ejecutivo al Consejo Estatal de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+Además de las atribuciones previstas en esta Ley, el Consejo Estatal de Seguridad Pública, deberá pronunciarse en relación con los informes de evaluación, y en su caso, dispondrá de soluciones que tiendan a mejorar las acciones en materia de coordinación.
 
 ###### Artículo 109.
 
@@ -1221,15 +1329,15 @@ IX. Las demás que le atribuyan en la materia, el presente ordenamiento y otros 
 
 Las atribuciones anteriores se ejercerán por la Secretaria de Seguridad Pública, sin perjuicio del ejercicio directo de las mismas por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 118.
 
-Para los efectos del presente ordenamiento, son autoridades en materia de Servicios Privados de Seguridad:
+Para los efectos del presente ordenamiento, son autoridades en materia de servicios privados de seguridad:
 
-I. El Gobernador Constitucional del Estado;
+I.- El Gobernador Constitucional del Estado; y,
 
-II. El Secretario de Seguridad Pública; y,
-
-III. El Secretario General de Gobierno, en el ámbito de su competencia.
+II. El Secretario de Seguridad Pública.
 
 ###### Artículo 119.
 
@@ -1263,9 +1371,15 @@ La prestación de los Servicios Privados de Seguridad está reservada de manera 
 
 Los Servicios Privados de Seguridad, como auxiliares de la Seguridad Pública en el Estado, deberán alcanzar sus objetivos, con estricto apego a los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 123.
 
-La Secretaría de Seguridad Pública podrá prestar servicios de seguridad en todas las modalidades previstas en el artículo 119 de esta Ley, siempre y cuando sea a petición de la organización legalmente constituida a la que pertenezca la persona o el propietario de lugares, establecimientos, bienes muebles, fondos y valores. La Secretaría de Seguridad Pública valorará la procedencia de la prestación del servicio correspondiente.
+La Secretaría de Seguridad Pública podrá prestar servicios de seguridad en las modalidades previstas en el artículo 119 de esta Ley con excepción del servicio de investigación privada.
+
+La prestación de los servicios autorizados siempre será a petición de la organización legalmente constituida a la que pertenezca la persona o el propietario de lugares, establecimientos, bienes muebles, fondos y valores.
+
+La Secretaría de Seguridad Pública bajo su más estricta responsabilidad valorará y autorizará la procedencia de la prestación del servicio correspondiente.
 
 ### Capítulo II. De las Autorizaciones
 
@@ -1549,6 +1663,28 @@ La contravención a lo dispuesto en el párrafo anterior será causa de la separ
 
 Los integrantes de las instituciones de seguridad pública serán considerados empleados de confianza.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### Artículo 156.
+
+A efecto de que los servidores públicos de las instituciones de seguridad pública estatales y municipales cumplan con eficacia, eficiencia y profesionalismo, éstas contarán con una Unidad de Asuntos Internos, la que tendrá las siguientes atribuciones:
+
+I. Vigilar que los servidores públicos cumplan con sus atribuciones:
+
+II. Inspeccionar periódicamente las áreas administrativas de su competencia
+
+III. Conocer de los hechos que les sean denunciados o en los que oficiosamente intervengan;
+
+IV. Reportar al titular de la dependencia las irregularidades encontradas;
+
+V. Denunciar a la autoridad administrativa o penal que corresponda, los hechos que se determinen como irregulares; y,
+
+VI Las demás que les sean determinadas por el titular de la dependencia y que sean inherentes a sus fines.
+
+Tratándose de la Procuraduría General de Justicia, esta unidad estará conformada por Agentes del Ministerio Público, quienes de ser procedente, en su caso, integrarán las averiguaciones previas respectivas.
+
+La integración y funcionamiento de las Unidades de Asuntos Internos de las instituciones de seguridad pública serán determinadas en las disposiciones reglamentarias respectivas.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1622,3 +1758,17 @@ Humberto López Favela
 El Procurador General de Justicia
 
 Ramón de Jesús Castro Atondo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE AGOSTO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Dentro de un plazo que no deberá exceder de treinta días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal deberá proveer lo conducente para que la Unidad de Asuntos Internos prevista en el artículo 156 de la Ley de Seguridad Pública del Estado de Sinaloa, se formalice al interior de la Secretaría de Seguridad Pública; y, en tanto los Ayuntamientos estén en condiciones presupuestales para hacer lo propio, deberán ser auxiliados por dicha Secretaría, en lo concerniente al ejercicio de las atribuciones previstas en el dispositivo mencionado, respecto a las corporaciones municipales de seguridad pública.
+
+Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal y los Ayuntamientos procederán a la firma de los convenios de coordinación en las materias previstas en los artículos 41, 42 y 108 de la Ley de Seguridad Pública del Estado de Sinaloa.
+
+Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
+
+Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
