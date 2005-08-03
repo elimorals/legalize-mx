@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2001-09-19"
+last_updated: "2005-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice - La Tierra Volverá a Quienes la Trabajan con sus Manos - Poder Ejecutivo del Estado de Morelos.
+Al margen izquierdo un Escudo del Estado de Morelos que dice - La Tierra Volverá a Quienes la Trabajan con sus Manos - Poder Ejecutivo del Estado de Morelos
 
 JORGE MORALES BARUD, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED
 
@@ -355,7 +355,9 @@ XIV. La participación en la evaluación del impacto ambiental de obras o activi
 
 XV. Requerir a los responsables de la operación de fuentes fijas, el cumplimiento de los límites máximos permisibles de emisión de contaminantes y en su caso, la instalación de equipos de control de emisiones o de acciones de restauración del equilibrio ecológico de conformidad con lo dispuesto en el reglamento correspondiente y las Normas Oficiales Mexicanas;
 
-XVI. La formulación y expedición de los programas de ordenamiento ecológico local del territorio a que se refiere la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en los términos en ella previstos, así como el control y la vigilancia del uso y cambio del uso del suelo, establecidos en dichos programas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+XVI. La formulación, aprobación, expedición, evaluación y modificación de los Programas de Ordenamiento Ecológico, se harán en los términos previstos en los artículos 23 y 24 de esta ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como el control y la vigilancia del uso y cambio de suelo establecidos en dichos programas;
 
 XVII. La participación en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios y que generen efectos ambientales en su circunscripción territorial;
 
@@ -561,13 +563,17 @@ II. La determinación de los criterios de regulación ecológica para la preserv
 
 III. Los lineamientos para su ejecución, evaluación, seguimiento y modificación.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 23.
 
-Los programas de ordenamiento ecológico territorial a nivel regional y local deberán publicarse en el Periódico oficial "Tierra y Libertad" e integrar el Sistema Estatal de Información Ambiental.
+Los programas de Ordenamiento Ecológico Territorial a nivel regional y local, deberán actualizarse cada tres años, publicarse en el Periódico Oficial "Tierra y Libertad" e integrarse al Sistema Estatal de Información Ambiental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
-Los programas de ordenamiento ecológico local serán expedidos por los Gobiernos Municipales y tendrán por objeto:
+Los Programas de Ordenamiento Ecológico local serán formulados, aprobados, expedidos y evaluados por los Gobiernos Municipales, en el término de un año contado a partir de la fecha en que inicie una nueva administración municipal y tendrán por objeto:
 
 I. Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por sus habitantes;
 
@@ -1179,7 +1185,7 @@ VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológ
 
 ###### ARTÍCULO 80.
 
-La Comisión constituirá el Consejo Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de las Instituciones, dependencias y entidades de carácter federal, estatal y municipal que tengan que ver con el conocimiento, planificación, manejo y aprovechamiento de las áreas naturales protegidas de la Entidad. El Consejo contará con un presidente y un Secretario Técnico, los que serán electos por un periodo de dos años por voto directo de los integrantes del Consejo. El Consejo regirá su funcionamiento por un reglamento interior que él mismo proponga y apruebe en un plazo no mayor a noventa días naturales después de su formación.
+La Comisión constituirá el Consejo Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de las Instituciones, dependencias y entidades de carácter federal, estatal y municipal que tengan que ver con el conocimiento, planificación, manejo y aprovechamiento de las áreas naturales protegidas de la Entidad. El Consejo contará con un presidente y un Secretario Técnico, los que serán electos por un periodo de dos años por voto directo de los integrantes del Consejo. El Consejo regirá su funcionamiento por un reglamento interior que el mismo proponga y apruebe en un plazo no mayor a noventa días naturales después de su formación.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2169,6 +2175,18 @@ III. La pérdida de su registro y multa de hasta mil días de salario mínimo ge
 
 Para la imposición de las sanciones a las que se refieren las fracciones II y III anteriores, se tomará en cuenta: la gravedad de la infracción y, en su caso, la reincidencia en que haya incurrido el infractor, así como, sus circunstancias económicas particulares, cuando se trate de sanción pecuniaria. En los casos en que sea demostrado que las infracciones referidas en este artículo hubieran sido incurridas por negligencia, mala fe o dolo, las sanciones mencionadas en las Fracciones I, II y III serán duplicadas.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTÍCULO 185 Bis.
+
+Se sancionará con multa por equivalente de 1000 a 5000 días de salario mínimo general vigente en la zona, a los municipios que:
+
+I. No realicen su ordenamiento ecológico local en los términos previstos en la presente Ley;
+
+II. No publiquen su ordenamiento ecológico local en los términos previstos en la presente Ley;
+
+III. No actualicen su ordenamiento ecológico local en los términos previstos en la presente Ley.
+
 ###### ARTÍCULO 186.
 
 La Secretaría o los ayuntamientos, solicitarán a la autoridad competente que los hubiere otorgado, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales que haya dado lugar a la infracción, cuando:
@@ -2498,3 +2516,19 @@ Se derogan todas las disposiciones que se opongan al contenido del presente decr
 ###### ARTÍCULO QUINTO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE AGOSTO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+> <small>(F. DE E., P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Los Gobiernos municipales tendrán un lapso de un año, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto en el artículo 8 fracción XVI, 23 Y 24 de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del poder Ejecutivo del Estado, para los efectos previstos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
