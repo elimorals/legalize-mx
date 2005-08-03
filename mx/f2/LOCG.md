@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2005-03-08"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE AGOSTO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -814,9 +814,9 @@ f) Servicios de Bibliotecas, que comprende los de: acervo de libros; hemeroteca;
 
 2. Cada uno de los Servicios establecidos en el párrafo anterior se constituye en una Dirección, la cual se estructura con las oficinas que se requieran, conforme a lo que se disponga en el Estatuto.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2005)</small>
 
-3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas, de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública y de estudios para el desarrollo rural sustentable y la soberanía alimentaria.
+3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas; de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública; de estudios para el desarrollo rural sustentable y la soberanía alimentaria, y de estudios para el adelanto de las mujeres y la equidad de género.
 
 ###### ARTICULO 50.
 
@@ -1951,3 +1951,13 @@ SEGUNDO.- En tanto cada una de las Cámaras del Congreso expide su propio reglam
 D.O.F. 8 DE MARZO DE 2005.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE AGOSTO DE 2005.
+
+Primero.- El presente Decreto no requiere de su promulgación por parte del Poder Ejecutivo Federal y entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género, deberá estar funcionando a los sesenta días naturales posteriores a la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Tercero.- La Junta de Coordinación Política de la Cámara de Diputados presentará al Pleno de la misma para su aprobación, la integración del Comité del Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género y su reglamento, en el que se establecerán las reglas para la vigilancia de la operación y funcionamiento del Centro, así como del nombramiento de su personal directivo y operativo.
+
+Cuarto.- A efecto de lo anterior la Cámara de Diputados del H. Congreso de la Unión, deberá realizar las previsiones necesarias dentro del término señalado.
