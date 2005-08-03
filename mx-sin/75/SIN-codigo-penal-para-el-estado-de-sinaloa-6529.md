@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2004-01-02"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -2633,6 +2633,8 @@ Al servidor público que para sí o para otro se apropie de dinero, valores, fin
 
 ### CAPITULO V. EVASION DE PRESOS
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 305.
 
 Se impondrán de seis meses a cinco años de prisión y de treinta a trescientos días multa, al servidor público que por sí o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva o acepte una promesa, para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones.
@@ -2887,7 +2889,7 @@ Son aplicables para este delito, en lo conducente, los artículos 197, 198, 199 
 
 ###### ARTICULO 336.
 
-Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de tres meses a cinco años. Si los evadidos fuesen dos o más, se duplicará la sanción.
+Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquella, se le impondrá prisión de dos a ocho años. Si los evadidos fueren dos o más, se duplicará la sanción.
 
 ###### ARTICULO 337.
 
@@ -3232,3 +3234,15 @@ DECRETO NÚMERO 453, POR EL QUE SE REFORMA EL ARTÍCULO 109 DEL CÓDIGO PENAL PA
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 4 de enero de 2004, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE AGOSTO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Dentro de un plazo que no deberá exceder de treinta días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal deberá proveer lo conducente para que la Unidad de Asuntos Internos prevista en el artículo 156 de la Ley de Seguridad Pública del Estado de Sinaloa, se formalice al interior de la Secretaría de Seguridad Pública; y, en tanto los Ayuntamientos estén en condiciones presupuestales para hacer lo propio, deberán ser auxiliados por dicha Secretaría, en lo concerniente al ejercicio de las atribuciones previstas en el dispositivo mencionado, respecto a las corporaciones municipales de seguridad pública.
+
+Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal y los Ayuntamientos procederán a la firma de los convenios de coordinación en las materias previstas en los artículos 41, 42 y 108 de la Ley de Seguridad Pública del Estado de Sinaloa.
+
+Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
+
+Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
