@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2004-08-23"
+last_updated: "2005-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -863,9 +863,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; y los delitos electorales previstos en los artículos 357 fracción III y 359.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 357 fracción III y 359.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -3896,3 +3896,15 @@ P.O. 23 DE AGOSTO DE 2004.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE AGOSTO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Dentro de un plazo que no deberá exceder de treinta días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal deberá proveer lo conducente para que la Unidad de Asuntos Internos prevista en el artículo 156 de la Ley de Seguridad Pública del Estado de Sinaloa, se formalice al interior de la Secretaría de Seguridad Pública; y, en tanto los Ayuntamientos estén en condiciones presupuestales para hacer lo propio, deberán ser auxiliados por dicha Secretaría, en lo concerniente al ejercicio de las atribuciones previstas en el dispositivo mencionado, respecto a las corporaciones municipales de seguridad pública.
+
+Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal y los Ayuntamientos procederán a la firma de los convenios de coordinación en las materias previstas en los artículos 41, 42 y 108 de la Ley de Seguridad Pública del Estado de Sinaloa.
+
+Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
+
+Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
