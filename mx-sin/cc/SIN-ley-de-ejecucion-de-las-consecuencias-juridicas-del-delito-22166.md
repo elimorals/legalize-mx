@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-las-consecuencias-juridicas-del-delito-2216
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2004-01-02"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 14 de septiembre de 2001.
 
@@ -95,19 +95,25 @@ El expediente personal de los sentenciados a cualesquiera de las consecuencias j
 
 Corresponde al Poder Ejecutivo del Estado, a través de las autoridades señaladas en las disposiciones legales, la ejecución de las consecuencias jurídicas del delito previstas en el código penal y en las leyes penales especiales, la administración y dirección de las instituciones destinadas a su cumplimiento, así como la expedición del o los ordenamientos reglamentarios que en ámbito administrativo hagan factible la aplicación y cumplimiento de lo dispuesto por esta ley.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 13.
 
-Son autoridades administrativas encargadas de la ejecución de las consecuencias jurídicas del delito previstas en el código penal y en las leyes penales especiales, el Secretario General de Gobierno, el Subsecretario de Gobierno, el Director de Readaptación Social y los Directores de los centros de ejecución de la pena de prisión y de medidas de seguridad.
+Son autoridades administrativas encargadas de la ejecución de las consecuencias jurídicas del delito previstas en el Código Penal y en las leyes penales especiales, el Secretario de Seguridad Pública, el Subsecretario de Seguridad Pública y de Prevención y Readaptación Social, el Director de Prevención y Readaptación Social y los Directores de los centros de ejecución de la pena de prisión y de medidas de seguridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-Corresponde al Secretario General de Gobierno:
+Corresponde al Secretario de Seguridad Pública:
 
 I. Definir las políticas relacionadas con el procedimiento de ejecución de las consecuencias jurídicas del delito y los programas de readaptación social;
 
 II. Establecer, coordinar y evaluar los programas, de conformidad con los objetivos que se señalan en esta ley y en las demás disposiciones jurídicas aplicables en materia de ejecución de las consecuencias jurídicas del delito;
 
-III. Administrar los centros de ejecución de la pena de prisión y los de medidas de seguridad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+III. Coordinar y evaluar acciones que permitan optimizar la administración, la seguridad y el funcionamiento de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
 
 IV. Acordar con el Gobernador del Estado los asuntos que sean competencia de la Secretaría derivados de esta ley y demás disposiciones jurídicas aplicables en materia de ejecución de las consecuencias jurídicas del delito;
 
@@ -121,13 +127,17 @@ VI. Coordinar el Patronato pospenitenciario o el organismo que se constituya con
 
 VII. Las demás que le asigne esta ley y otras disposiciones jurídicas aplicables en esta materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 15.
 
-Corresponde al Subsecretario de Gobierno:
+Corresponde al Subsecretario de Seguridad Pública y de Prevención y Readaptación Social:
 
 I. Formular programas y dar seguimiento a las acciones que se deriven de los mismos, así como ejercer las funciones y marcar las políticas específicas para el logro de los objetivos trazados en materia de readaptación social;
 
-II. Supervisar el funcionamiento operativo de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+II. Diseñar, coordinar y supervisar las acciones de seguridad y el funcionamiento operativo de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
@@ -135,11 +145,23 @@ III. Ejecutar las acciones del Patronato pospenitenciario o el organismo que se 
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-IV. Otorgar a favor de los internos sentenciados, conjuntamente con el Director de Prevención y Readaptación Social el beneficio de remisión parcial de la sanción corporal regulado en la Ley; y,
+IV. Otorgar a favor de los internos sentenciados, conjuntamente con el Director de Prevención y Readaptación Social el beneficio de remisión parcial de la sanción corporal regulado en la Ley;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-V. Las demás que le confieran esta ley y otras disposiciones jurídicas relacionadas con esta materia, o que expresamente le encomiende el Secretario General de Gobierno.
+V. Diseñar e impulsar los programas de formación y actualización del personal de custodia de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VI. Proponer al Secretario de Seguridad Pública al personal de custodia de los centros de ejecución de la pena de prisión y los de medidas de seguridad, que reúne el perfil adecuado con base en la profesionalización de los mismos; así como su remoción, o en su caso, rotación;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VII. Evaluar semestralmente el desempeño y profesionalización del personal de custodia de los centros de ejecución de la pena de prisión y los de medidas de seguridad, y dar seguimiento al mismo; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
+VIII. Las demás que le confieran esta ley y otras disposiciones jurídicas relacionadas con esta materia, o que expresamente le encomiende el Secretario de Seguridad Pública.
 
 ###### Artículo 16.
 
@@ -159,9 +181,9 @@ III. Implantar el régimen de readaptación social en los centros instituidos pa
 
 IV. Establecer en los centros de ejecución de la pena de prisión y los de medidas de seguridad, secciones distintas y separadas para los internos detenidos, procesados y sentenciados, así como un sitio independiente de los anteriores para la internación de mujeres;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-V. Proponer al Secretario General de Gobierno la celebración de convenios de carácter general con el Gobierno Federal, a fin de que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal;
+V. Proponer al Secretario de Seguridad Pública la celebración de convenios de carácter general con el Gobierno Federal, a fin de que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
@@ -187,13 +209,13 @@ X. Llevar un registro de las conmutaciones, suspensiones condicionadas de ejecuc
 
 XI. Supervisar, orientar y vigilar la operación y funcionamiento de los centros de ejecución de la pena de prisión y los de medidas de seguridad;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-XII. Otorgar a favor de los internos sentenciados, conjuntamente con el Subsecretario de Gobierno, a propuesta del Director del Centro de Ejecución de la Pena de Prisión, el beneficio de remisión parcial de la sanción corporal regulada por esta ley; y,
+XII. Otorgar a favor de los internos sentenciados, conjuntamente con el Subsecretario de Seguridad Pública y de Prevención y Readaptación Social, a propuesta del Director del Centro de Ejecución de la Pena de Prisión, el beneficio de remisión parcial de la sanción corporal regulada por esta Ley; y,
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-XIII. Las demás que le confieran las leyes, reglamentos, decretos y acuerdos o que expresamente le encomiende el Gobernador del Estado, el Secretario General de Gobierno o el Subsecretario de Gobierno.
+XIII. Las demás que le confieran las leyes, reglamentos, decretos y acuerdos o que expresamente le encomiende el Gobernador del Estado, el Secretario de Seguridad Pública o el Subsecretario de Seguridad Pública y de Prevención y Readaptación Social.
 
 ###### Artículo 17.
 
@@ -215,7 +237,9 @@ Cuando se tenga por cumplida alguna de las consecuencias jurídicas del delito, 
 
 Los Centros de Ejecución de las Consecuencias Jurídicas del Delito se integrarán con personal directivo, técnico que incluye a profesionistas y especialistas, administrativo y de seguridad y custodia, así como los auxiliares que sean necesarios para su debido funcionamiento y el cumplimiento de sus responsabilidades.
 
-El gobierno, la administración y la seguridad de los centros de Ejecución de las Consecuencias Jurídicas del Delito, así como el tratamiento a los internos, estará a cargo del Director designado por el Secretario General de Gobierno, el cual dependerá de la Dirección de Prevención y Readaptación Social de la propia secretaría.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+El gobierno, la administración y la seguridad de los centros de Ejecución de las Consecuencias Jurídicas del Delito, así como el tratamiento a los internos, estará a cargo del Director designado por el Secretario de Seguridad Pública, el cual dependerá de la Dirección de Prevención y Readaptación Social de la propia Secretaría.
 
 ###### Artículo 20.
 
@@ -591,7 +615,9 @@ Una vez dictada sentencia condenatoria definitiva se procederá de acuerdo con l
 
 El desarrollo favorable o desfavorable del régimen de readaptación social permitirá que el interno pueda ser trasladado a otro centro o a otra área.
 
-Cada seis meses, como máximo, la Dirección del Centro de Ejecución de la Pena de Prisión que corresponda, con base en el dictamen del Consejo Técnico Interdisciplinario, deberá realizarse una evaluación del régimen de readaptación social, la cual deberá constar por escrito en su expediente personal y ser notificada al interno. Cuando el interno no esté conforme con el resultado de la evaluación podrá recurrir ante el Director de Readaptación Social quien, si considera fundada la petición, ordenará la práctica de una nueva evaluación en la que participe un perito designado por él. Esta evaluación tendrá el carácter de definitiva.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+Cada seis meses, como máximo, la Dirección del Centro de Ejecución de la Pena de Prisión que corresponda, con base en el dictamen del Consejo Técnico Interdisciplinario, deberá realizarse una evaluación del régimen de readaptación social, la cual deberá constar por escrito en su expediente personal y ser notificada al interno. Cuando el interno no esté conforme con el resultado de la evaluación podrá recurrir ante el Director de Prevención y Readaptación Social quien, si considera fundada la petición, ordenará la práctica de una nueva evaluación en la que participe un perito designado por él. Esta evaluación tendrá el carácter de definitiva.
 
 ###### Artículo 75.
 
@@ -771,7 +797,9 @@ II. Para evitar daños de los internos a sí mismos, a otras personas o cosas; y
 
 III. Para vencer la resistencia activa o pasiva de los internos a las órdenes del personal del centro en el ejercicio de su cargo.
 
-Cuando ante la urgencia de la situación se tuviere que hacer uso de tales medios, se comunicará inmediatamente al Director del centro, el cual lo pondrá en conocimiento del Director de Readaptación Social.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+Cuando ante la urgencia de la situación se tuviere que hacer uso de tales medios, se comunicará inmediatamente al Director del centro, el cual lo pondrá en conocimiento del Director de Prevención y Readaptación Social.
 
 El uso de las medidas coercitivas estará dirigido exclusivamente al restablecimiento de la normalidad y sólo subsistirá el tiempo estrictamente necesario.
 
@@ -979,7 +1007,9 @@ En los mismos departamentos podrán los internos comunicarse con profesionales a
 
 Las comunicaciones previstas en este artículo podrán efectuarse telefónicamente en los casos y con las garantías que se determinen en el Reglamento.
 
-Las comunicaciones orales y escritas previstas en este artículo podrán ser suspendidas o intervenidas motivadamente por el Director del centro, debiendo ser ratificada esta decisión por el Director de Readaptación Social.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+Las comunicaciones orales y escritas previstas en este artículo podrán ser suspendidas o intervenidas motivadamente por el Director del centro, debiendo ser ratificada esta decisión por el Director de Prevención y Readaptación Social.
 
 ###### Artículo 115.
 
@@ -1147,9 +1177,11 @@ Cuando el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consec
 
 Los sentenciados que hayan cumplido su pena y los que de algún otro modo hayan extinguido su responsabilidad penal, deben ser plenamente reintegrados en el ejercicio de sus derechos como ciudadanos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 134.
 
-La Secretaría General de Gobierno, a través del Patronato Pospenitenciario o de la figura jurídica igualmente idónea, cuya estructura y funciones se determinarán en su reglamento orgánico, prestará a los internos, a los que gocen del régimen de libertad preparatoria, a liberados definitivos y a sus familiares, la asistencia social necesaria para lograr la readaptación social.
+La Secretaría de Seguridad Pública, a través del Patronato Pospenitenciario o de la figura jurídica igualmente idónea, cuya estructura y funciones se determinarán en su reglamento orgánico, prestará a los internos, a los que gocen del régimen de libertad preparatoria, a liberados definitivos y a sus familiares, la asistencia social necesaria para lograr la readaptación social.
 
 ###### Artículo 135.
 
@@ -1381,7 +1413,9 @@ La resolución de rechazo total o parcial podrá ser impugnada ante la Sala de C
 
 Por el mismo hecho y motivos, podrá presentarse sólo una queja.
 
-De constatarse positivamente los hechos denunciados, el juzgador resolverá que se restablezca el derecho conculcado. Al efecto, notificará la resolución al Director de Readaptación Social, para su cumplimiento y sanción correspondiente a quien ordenó el acto indebido.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+De constatarse positivamente los hechos denunciados, el juzgador resolverá que se restablezca el derecho conculcado. Al efecto, notificará la resolución al Director de Prevención y Readaptación Social, para su cumplimiento y sanción correspondiente a quien ordenó el acto indebido.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
@@ -1604,3 +1638,15 @@ P.O. 2 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 4 de enero de 2004, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE AGOSTO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Dentro de un plazo que no deberá exceder de treinta días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal deberá proveer lo conducente para que la Unidad de Asuntos Internos prevista en el artículo 156 de la Ley de Seguridad Pública del Estado de Sinaloa, se formalice al interior de la Secretaría de Seguridad Pública; y, en tanto los Ayuntamientos estén en condiciones presupuestales para hacer lo propio, deberán ser auxiliados por dicha Secretaría, en lo concerniente al ejercicio de las atribuciones previstas en el dispositivo mencionado, respecto a las corporaciones municipales de seguridad pública.
+
+Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal y los Ayuntamientos procederán a la firma de los convenios de coordinación en las materias previstas en los artículos 41, 42 y 108 de la Ley de Seguridad Pública del Estado de Sinaloa.
+
+Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
+
+Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
