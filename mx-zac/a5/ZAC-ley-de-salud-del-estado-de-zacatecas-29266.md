@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-29266"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-30"
-last_updated: "2003-02-19"
+last_updated: "2005-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de junio de 2001.
 
@@ -1289,7 +1289,9 @@ La disposición de sangre, componentes sanguíneos y células progenitoras hemat
 
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un desecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos podrán disponer de ellos o remitirlos a instituciones docentes en ciencias de la salud.
 
-### CAPITULO PRIMERO. Disposiciones Comunes
+### CAPITULO QUINTO. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 116.
 
@@ -1361,11 +1363,207 @@ Sólo podrá darse destino final a un feto previa expedición del certificado de
 
 Los establecimientos en los que se realicen actos relacionados con cadáveres deberán presentar el aviso correspondiente a los Servicios de Salud.
 
-### CAPITULO SEGUNDO. Autorizaciones y Avisos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2005)</small>
+
+### CAPITULO PRIMERO. Disposiciones Comunes
+
+###### ARTICULO 127-A.
+
+El Consejo Estatal de Trasplantes de Órganos y Tejidos, es el organismo público descentralizado de la administración pública del Estado, con personalidad y patrimonio propios, que tienen como cabeza de sector a los Servicios de Salud en el Estado, y cuyo objetivo es apoyar, implementar, coordinar, promover y consolidar las acciones y programas en materia de disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como asignar y vigilar la disposición de órganos y tejidos en los términos que determina la legislación aplicable.
+
+Para el cumplimiento de sus objetivos el Consejo contará con un Centro Estatal de Trasplantes a cargo de un Director General.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-B.
+
+El Consejo Estatal de Trasplantes estará integrado por:
+
+I. Una Junta de Gobierno;
+
+II. Un Consejo Consultivo;
+
+III. El Centro Estatal de Trasplantes; y
+
+IV. Un Comisario.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-C.
+
+La Junta de Gobierno estará integrada por:
+
+I. El Ejecutivo del Estado, quien será su Presidente;
+
+II. El Director General de los Servicios de Salud del Estado, quien será su Vicepresidente;
+
+III. El Director del Centro Estatal de Trasplantes, quien fungirá como Secretario Ejecutivo; y
+
+IV. Los siguientes vocales:
+
+a) El Director de Regulación y Fomento Sanitario de los Servicios de Salud;
+
+b) El Delegado Estatal del Instituto Mexicano del Seguro Social;
+
+c) El Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado; y
+
+d) El Delegado Estatal de la Cruz Roja Mexicana.
+
+La Junta de Gobierno tendrá las facultades que establezca el reglamento interno del organismo y sesionará con la periodicidad que establezca la normatividad interna.
+
+Cada integrante de la Junta de Gobierno tendrá derecho a voz y voto, pudiendo hacerse representar por conducto de un suplente.
+
+El Director General del Centro acudirá a las reuniones con voz, pero sin voto.
+
+Se podrá invitar a las reuniones de la Junta de Gobierno, con derecho a voz, pero sin voto, a representantes de las dependencias federales, estatales y municipales, cuando se trate de algún asunto que por su competencia o jurisdicción deba participar, así como a los miembros que formen parte del Consejo Consultivo.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-D.
+
+El Director del Centro Estatal de Trasplantes, será designado por el Ejecutivo del Estado, a terna propuesta por la Junta de Gobierno, el cual tendrá las responsabilidades que le señale el Reglamento Interior del Consejo Estatal de Trasplantes y coordinará los trabajos del Comité Técnico de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-E.
+
+El Comisario lo designará el Ejecutivo del Estado de conformidad con la Ley de las Entidades Públicas Paraestatales.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-F.
+
+El Consejo Consultivo es un órgano de asesoría y consulta, el cual tiene por objeto proporcionar la concurrencia activa, comprometida y responsable de los sectores público, privado, social y académico, con el fin de emitir opiniones y propuestas para la elaboración de planes, programas y acciones en la materia. Se integrará con los siguientes miembros:
+
+I. El Titular de los Servicios de Salud en el Estado;
+
+II. El Secretario de Educación y Cultura;
+
+III. El Presidente de la Comisión Legislativa de Salud del Congreso del Estado;
+
+IV. El Procurador General de Justicia;
+
+V. El Rector de la Universidad Autónoma de Zacatecas;
+
+VI. El Presidente del Colegio de Notarios del Estado;
+
+VII. El Presidente de la Asociación de Hospitales Particulares legalmente constituidos en el Estado de Zacatecas;
+
+VIII. El Presidente de la Comisión de Derechos Humanos del Estado;
+
+IX. El Representante de la Diócesis de Zacatecas; y
+
+X. Cualesquier otro representante que a juicio del Consejo Consultivo deba participar.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-G.
+
+El Consejo Estatal de Trasplantes sesionará conforme lo establezca su reglamento interior.
+
+El Presidente podrá ser suplido en las sesiones por el Vicepresidente.
+
+Por cada vocal propietario, se designará a un suplente que lo sustituirá durante sus faltas temporales.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-H.
+
+El Consejo Estatal de Trasplantes, tendrá a su cargo las atribuciones siguientes:
+
+I. Diseñar, instrumentar, operar y dirigir el Sistema Estatal de Trasplante;
+
+II. Elaborar y aplicar el Programa Estatal de Trasplante;
+
+III. Aprobar el proyecto de presupuesto anual de ingresos y egresos que haya presentado el Director del Centro;
+
+IV. Mantener comunicación y coordinación con el Consejo Nacional de Trasplantes, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Trasplantes;
+
+V. Proporcionar información y colaborar con las acciones del Registro Nacional de Trasplantes;
+
+VI. Dictar medidas y lineamientos generales, para la operación del Registro Estatal de Donadores del Estado de Zacatecas;
+
+VII. Fomentar y sistematizar el estudio y la investigación, en el trasplante de órganos y tejidos de seres humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos, así como proporcionar programas de capacitación para el personal médico y de enfermería en trasplante;
+
+VIII. Revisar permanentemente la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
+
+IX. Promover y coordinar la participación de los sectores social y privado, en acciones de apoyo en la materia, para lo cual principalmente impulsará la constitución de un patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados, a participar en las sesiones del Consejo, a las cuales ocurrirán con voz pero sin voto;
+
+X. Presentar por conducto del Secretario Ejecutivo, durante el primer bimestre de cada año, un informe sobre lo realizado por el organismo, así como sobre los avances en cuanto a trasplantes de órganos y tejidos de seres humanos con fines terapéuticos;
+
+XI. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplante, así como estudios e investigaciones en la materia en calidad de postgrados o especialidades;
+
+XII. autorizar la disposición de órganos y tejidos con fines terapéuticos, de personas fallecidas, en caso de no contarse con los disponentes secundarios, de conformidad con lo previsto en la legislación vigente en el Estado;
+
+XIII. Aprobar su reglamento interior; y
+
+XIV. Las demás que le señale su reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-I.
+
+Son facultades del Centro Estatal de Trasplantes:
+
+I. Llevar el registro de receptores o sujetos susceptibles a trasplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud proporcionen e inscriban;
+
+II. Expedir en cada caso inscrito de receptor o sujeto susceptible de trasplante, al propio interesado, su cédula que certifique su lugar progresivo en el registro y la fecha de su incorporación;
+
+III. Coordinar el Comité Técnico de Trasplantes;
+
+IV. Promover, a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
+
+V. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos; así como con los Consejos homólogos de otras Entidades Federativas;
+
+VI. Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos, implementando una lista bimestral en la que se contengan el informe de las donaciones verificadas durante este lapso, debidamente relacionada con el movimiento que observe el registro de receptores, incluyendo el número de cédula de su registro, el lugar progresivo asignado y fecha de incorporación al sistema, así como los demás datos que sirvan para localizar a los donadores como a los receptores de los órganos, a fin de dar seguimiento al trámite respectivo y estar en posibilidad de evaluar el programa;
+
+VII. Implementar un sistema de información con respecto al Sistema y al Programa Estatal de Trasplantes, que permitan tanto la toma de decisiones, como la evaluación de la atención médica relacionada con los trasplantes;
+
+VIII. Diseñar el sistema logístico e informático, que permita la operación eficaz del Registro Estatal de Donadores;
+
+IX. Preparar un informe quincenal del Registro Estatal de Donadores, que contenga el número de donadores inscritos, así como de las personas que por voluntad propia o determinación médica, queden fuera del propio registro; y
+
+X. Colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos por la legislación vigente.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-J.
+
+El Consejo Estatal de Trasplantes contará con la colaboración de un Comité Técnico que integrarán profesionales peritos en la materia de trasplantes, que designarán las instituciones de salud señaladas en el artículo 127-C.
+
+El Comité Técnico coadyuvará para la mejor realización del Programa Estatal de Trasplantes, tendrá las funciones que le señale el Reglamento Interior del Consejo, procurará el intercambio de experiencias entre las instituciones de salud que realicen trasplantes.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-K.
+
+El Director del Centro, será responsable de que se respete el orden cronológico establecido en el registro de receptores.
+
+Por excepción, podrá dejar de respetarse el orden preestablecido en el registro de receptores, cuando el Comité Técnico, bajo su responsabilidad, lo juzgue procedente por criterios médicos plenamente comprobados, de edad, padecimiento, histocompatibilidad y demás aplicables conforme al grado de avance de la ciencia y técnica.
+
+Cuando se proceda conforme al párrafo anterior, el Comité Técnico deberá emitir por escrito, dictamen justificatorio de dicha decisión, coherente con los datos que consten en el expediente clínico.
+
+El Comité Técnico estará obligado a proporcionar información amplia y suficiente sobre los motivos y fundamentos de su decisión, cuando ésta le sea requerida por la autoridad competente, por el receptor postergado, su cónyuge, concubina, concubinario o familiares directos dentro del segundo grado.
+
+El Comité Técnico, certificará y dará aviso al Registro Estatal de Donadores, con relación a los casos en que exista una persona donadora, que se encuentre en el supuesto para disponer de sus órganos o tejidos y tenga en ese momento parentesco por afinidad, por consanguinidad o civil, o cónyuge, concubina o concubinario, conforme lo determina la Ley aplicable.
+
+La violación al estricto cumplimiento a lo prescrito con anterioridad será sancionada en los términos previstos en la legislación penal.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-L.
+
+El Consejo Estatal de Trasplantes para un mejor cumplimiento de sus objetivos, podrá determinar la integración y trabajo de comisiones, permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo, así mismo, contará con un Patronato para la Donación y el Trasplante de Órganos y Tejidos.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 127-M.
+
+Las relaciones laborales entre el Consejo Estatal de Trasplantes y sus servidores públicos, se regirán por las disposiciones de la Ley del Servicio Civil del Estado de Zacatecas.
 
 ## TITULO SEPTIMO. Salubridad Local
 
-### CAPITULO TERCERO. Revocación de Autorizaciones Sanitarias
+### CAPITULO SEGUNDO. Autorizaciones y Avisos
 
 ###### ARTICULO 128.
 
@@ -1425,7 +1623,7 @@ Los acuerdos generales a que se refiere este artículo, sólo producirán derech
 
 Los acuerdos generales determinarán el contenido de las reglas en todo lo relativo a autorizaciones, avisos, certificados, registros, permisos o licencias sanitarias, que para el cumplimiento de la ley se requieran, según las características de la materia sujeta a vigilancia sanitaria por parte de los servicios de salud.
 
-### CAPITULO CUARTO. Certificados
+### CAPITULO TERCERO. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 133.
 
@@ -1469,7 +1667,7 @@ Los obligados a tener autorizaciones sanitarias deberán exhibirla en lugar visi
 
 Requieren de permiso los establecimientos contemplados en la Ley General de Salud, o los que señalen los reglamentos, o los acuerdos generales de las autoridades sanitarias federales y estatales.
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. Certificados
 
 ###### ARTICULO 141.
 
@@ -1519,7 +1717,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, dentr
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO PRIMERO. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
 ###### ARTICULO 147.
 
@@ -1547,7 +1745,7 @@ Los certificados de defunción y muerte fetal serán expedidos, una vez comproba
 
 ## TITULO OCTAVO. Vigilancia Sanitaria
 
-### CAPITULO SEGUNDO. Sanciones Administrativas
+### CAPITULO PRIMERO. Medidas de Seguridad Sanitaria
 
 ###### ARTICULO 151.
 
@@ -1647,7 +1845,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO NOVENO. Medidas de Seguridad Sanitaria y Sanciones
 
-### CAPITULO TERCERO. Criterios Generales para que la Autoridad Sanitaria Ejerza Atribuciones
+### CAPITULO SEGUNDO. Sanciones Administrativas
 
 ###### ARTICULO 162.
 
@@ -1743,7 +1941,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO CUARTO. Prescripción
+### CAPITULO TERCERO. Criterios Generales para que la Autoridad Sanitaria Ejerza Atribuciones
 
 ###### ARTICULO 174.
 
@@ -1817,7 +2015,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO QUINTO. Medio de Impugnación
+### CAPITULO CUARTO. Prescripción
 
 ###### ARTICULO 182.
 
@@ -1854,6 +2052,8 @@ En los casos de aplicación de medidas de seguridad o sanciones, una vez otorgad
 ###### ARTICULO 188.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de delito, se formulará la denuncia o querella, y se remitirán las actuaciones a la autoridad que corresponda, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO QUINTO. Medio de Impugnación
 
 ###### ARTICULO 189.
 
@@ -1910,3 +2110,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los recursos humanos y materiales con los que actualmente cuenta la coordinación de la comisión intersecretarial denominada "Consejo Estatal de Trasplantes", pasará a formar parte del organismo público descentralizado denominado "Consejo Estatal de Trasplantes".
+
+TERCERO.- Los recursos financieros aprobados en el Presupuesto de Egresos del Estado para el ejercicio Fiscal del año 2005, etiquetados en la fracción I del Artículo 18 como "Aportación para el Centro de Trasplantes de Órganos", serán ejercidos por el Centro Estatal de Trasplantes, de conformidad con lo dispuesto por este Decreto.
+
+CUARTO.- La Secretaría de Finanzas deberá incluir en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal de dos mil seis al Consejo Estatal de Trasplantes de Órganos y Tejidos.
