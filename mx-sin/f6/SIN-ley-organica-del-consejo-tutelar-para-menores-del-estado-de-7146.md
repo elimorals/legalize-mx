@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-consejo-tutelar-para-menores-del-estado-de-714
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-09-17"
-last_updated: "2004-02-23"
+last_updated: "2005-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de septiembre de 1980.
 
@@ -393,9 +393,11 @@ V.- Escuelas; y,
 
 VI.- Intendencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 45.
 
-El Director, el Sub-Director, los Jefes de Secciones Técnicas y de Departamentos, el Administrador, el Procurador de Menores, así como los empleados que presten servicios de custodia y vigilancia, serán personal de confianza y nombrados y removidos libremente por el gobernador del Estado.
+El Director, el Sub-Director, los Jefes de Secciones Técnicas y de Departamentos, el Administrador, el Procurador de Menores, serán personal de confianza y nombrados y removidos libremente por el gobenador del Estado. Los empleados que presten servicios de custodia y vigilancia, serán personal de confianza, nombrados y removidos libremente por el Secretario de Seguridad Pública, su perfil será basado en la profesionalización de los mismos.
 
 Deberán contar con los conocimientos necesarios para el ejercicio cabal de sus funciones, debiendo el Director y el Sub-Director, además, satisfacer los mismos requisitos que para ser Consejero.
 
@@ -726,3 +728,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El primer Presidente se elegirá por votación, quien será substituido por aquél de los otros dos que elijan los mismos Consejeros; el tercer Presidente lo será el Consejero restante, siguiéndose en lo sucesivo el mismo orden de selección.
+
+P.O. 3 DE AGOSTO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Dentro de un plazo que no deberá exceder de treinta días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal deberá proveer lo conducente para que la Unidad de Asuntos Internos prevista en el artículo 156 de la Ley de Seguridad Pública del Estado de Sinaloa, se formalice al interior de la Secretaría de Seguridad Pública; y, en tanto los Ayuntamientos estén en condiciones presupuestales para hacer lo propio, deberán ser auxiliados por dicha Secretaría, en lo concerniente al ejercicio de las atribuciones previstas en el dispositivo mencionado, respecto a las corporaciones municipales de seguridad pública.
+
+Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo Estatal y los Ayuntamientos procederán a la firma de los convenios de coordinación en las materias previstas en los artículos 41, 42 y 108 de la Ley de Seguridad Pública del Estado de Sinaloa.
+
+Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
+
+Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
