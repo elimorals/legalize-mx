@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2005-05-12"
+last_updated: "2005-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2037,41 +2037,71 @@ C. Por servicios de la Editora de Gobierno del Estado:
 
 I. Por publicaciones de:
 
-a) Edicto de interés pecuniario, como: las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos. Palabra por inserción: 0.033 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-b) Edicto de interés social, como cambio de nombre, póliza de defunción. Palabra por inserción: 0.022 salarios mínimos
+a) Edicto de interés pecuniario como: las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos, palabras por inserción: cero punto cero treinta y cuatro salarios mínimos;
 
-c) Cortes de caja, balances o cualquier documento de formación especial. Por plana: 6.67 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+b) Edicto de interés social como: cambio de nombre, póliza de defunción, palabra por inserción: cero punto cero veintitrés salarios mínimos;
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+c) Cortes de caja, balances o cualquier documento de formación especial por plana tamaño Gaceta Oficial: seis punto ochenta y tres salarios mínimos; y
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+d) Sentencias, resoluciones, deslinde de carácter agrario y convocatorias de licitación pública, una plana tamaño Gaceta Oficial: dos punto diez salarios mínimos.
 
 II. Por Ventas de:
 
-a) Gaceta extraordinaria de 1 a 24 planas. 1 salario mínimo
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-b) Número extraordinario. 3 salarios mínimos
+a) Gaceta Oficial de una a veinticuatro planas: dos salarios mínimos;
 
-c) Alcances de 1 a 24 planas. 2 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-d) Alcances de 24 a 72 planas. 5 salarios mínimos
+b) Gaceta Oficial de veinticinco a setenta y dos planas: cinco salarios mínimos;
 
-e) Alcances de 72 a 216 planas. 6 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-f) Por copia de Gaceta. 4 salarios mínimos
+c) Gaceta Oficial de setenta y tres a doscientos dieciséis planas: seis salarios mínimos;
 
-g) Por un año de suscripción. 13 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-h) Por un año de suscripción foránea. 16 salarios mínimos
+d) Número extraordinario: cuatro salarios mínimos;
 
-i) Por un semestre de suscripción. 7 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-j) Por un semestre de suscripción foránea. 9 salarios mínimos
+e) Por hoja certificada de Gaceta Oficial: cero punto cincuenta y siete salarios mínimos;
 
-k) Por un ejemplar. 0.133 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-l) Por un ejemplar atrasado. 0.70 salarios mínimos
+f) Por un año de suscripción local pasando a recogerla: quince salarios mínimos;
 
-m) Sentencias, resoluciones, deslindes de carácter agrario y acuerdo de licitación de obra pública por plana: 2 salarios mínimos
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
-n) Por copia de la hoja de la Gaceta. 0.50 salario mínimo
+g) Por un año de suscripción foránea: veinte salarios mínimos;
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+h) Por un semestre de suscripción local pasando a recogerla: ocho salarios mínimos;
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+i) Por un semestre de suscripción foránea: once salarios mínimos; y
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+j) Por un ejemplar normal atrasado: uno punto cincuenta salarios mínimos.
+
+k) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
+
+l) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
+
+m) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
+
+n) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
 ###### Artículo 141.
 
@@ -8196,3 +8226,47 @@ G.O. 12 DE MAYO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 5 DE AGOSTO DE 2005.
+
+Artículo Primero. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Artículo Segundo. Los artículos SEGUNDO al SÉPTIMO de este Decreto iniciarán su vigencia el día uno de febrero de dos mil seis.
+
+Artículo Tercero. Durante la vacatio legis específicada en el artículo anterior, los ayuntamientos enviarán a la Secretaría de Gobierno del Poder Ejecutivo, para su publicación en la Gaceta Oficial, los bandos de policía y gobierno, reglamentos, decretos, acuerdos, circulares y demás normas de observancia general, que refieren el artículo 7 fracciones XI, XII y XIII de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, debidamente aprobados por el cabildo conforme al siguiente calendario:
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté agosto y septiembre
+
+comprendida entre la A y la E. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté septiembre y octubre
+
+comprendida entre la F y la J. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté octubre y noviembre
+
+comprendida entre la K y la O. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté noviembre y diciembre
+
+comprendida entre la P y la T. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté diciembre de dos mil cinco
+
+comprendida entre la U y la Z. y enero de dos mil seis
+
+Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
+
+Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
