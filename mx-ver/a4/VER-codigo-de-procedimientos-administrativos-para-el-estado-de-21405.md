@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2004-08-10"
+last_updated: "2005-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -251,9 +251,11 @@ I. Los que otorguen un beneficio, concesión, licencia, permiso o autorización 
 
 II. Los que ordenen la inspección, investigación o vigilancia en los términos de este Código y demás normas aplicables. En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 12.
 
-Los actos administrativos, tales como reglamentos, decretos, acuerdos, circulares, o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos, tres días después de la fecha de su publicación en la Gaceta Oficial del estado, a menos que en ellos se señale expresamente el día del inicio de su vigencia. En los lugares distintos del de publicación de ésta, además del plazo señalado, es necesario que transcurra un día más por cada cuarenta kilómetros de distancia, o fracción que exceda de la mitad.
+Los actos administrativos, tales como reglamentos, decretos, acuerdos, circulares, o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos tres días después de su publicación en la Gaceta Oficial, a menos que en ellos se señale expresamente el inicio de su vigencia.
 
 Los actos administrativos de carácter individual, cuando lo prevean los ordenamientos aplicables, deberán publicarse en el referido órgano informativo oficial.
 
@@ -261,7 +263,7 @@ Los actos administrativos de carácter individual, cuando lo prevean los ordenam
 
 Los manuales de organización que expidan las dependencias y entidades, se harán públicos a través de internet. Los particulares podrán consultarlos en la unidad administrativa que corresponda y, en su caso, solicitar copia certificada de los mismos, previo pago de los derechos correspondientes. Los instructivos y formatos que expida la Administración Pública estatal se publicarán en la Gaceta Oficial del Estado, previamente a su aplicación.
 
-Los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, expedidos por los ayuntamientos en sus respectivas jurisdicciones, surtirán sus efectos tres días después de su publicación en la Tabla de Avisos del Palacio Municipal.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -3458,3 +3460,47 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
 
 CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
+
+G.O. 5 DE AGOSTO DE 2005.
+
+Artículo Primero. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Artículo Segundo. Los artículos SEGUNDO al SÉPTIMO de este Decreto iniciarán su vigencia el día uno de febrero de dos mil seis.
+
+Artículo Tercero. Durante la vacatio legis especificada en el artículo anterior, los ayuntamientos enviarán a la Secretaría de Gobierno del Poder Ejecutivo, para su publicación en la Gaceta Oficial, los bandos de policía y gobierno, reglamentos, decretos, acuerdos, circulares y demás normas de observancia general, que refieren el artículo 7 fracciones XI, XII y XIII de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, debidamente aprobados por el cabildo conforme al siguiente calendario:
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté agosto y septiembre
+
+comprendida entre la A y la E. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté septiembre y octubre
+
+comprendida entre la F y la J. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté octubre y noviembre
+
+comprendida entre la K y la O. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté noviembre y diciembre
+
+comprendida entre la P y la T. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté diciembre de dos mil cinco
+
+comprendida entre la U y la Z. y enero de dos mil seis
+
+Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
+
+Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
