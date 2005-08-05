@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-249-de-la-gaceta-oficial-del-gobierno-del-estado-454
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-06"
-last_updated: "2005-07-06"
+last_updated: "2005-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 249 DE LA GACETA OFICIAL DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 249 DE LA GACETA OFICIAL DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LEY NUMERO 249 DE LA GACETA OFICIAL DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 6 de julio de 2005.
 
@@ -67,9 +67,11 @@ IV. Los Ayuntamientos de los municipios del Estado, así como la Administración
 
 La Gaceta Oficial se editará en la ciudad de Xalapa-Enríquez, aún cuando sus talleres se ubiquen en otro municipio, y se repartirá ampliamente en el territorio del estado de Veracruz de Ignacio de la Llave.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 4.
 
-La Gaceta Oficial se editará los días lunes, miércoles y viernes con un tiraje suficiente de ejemplares para garantizar su distribución gratuita en términos de la presente Ley y además destinarla a la venta de particulares.
+La Gaceta Oficial se editará de lunes a viernes con un tiraje suficiente de ejemplares para garantizar su distribución gratuita en términos de la presente Ley y además destinarla a la venta de particulares.
 
 ###### Artículo 5.
 
@@ -171,21 +173,31 @@ Los instrumentos que deban ser publicados se presentarán en la Secretaría de G
 
 La Secretaría de Gobierno turnará a la Editora del Gobierno del Estado, para su publicación en la siguiente edición de la Gaceta Oficial, a más tardar a las diecinueve horas del día de su recepción, los instrumentos que señala el artículo 7 de esta Ley.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 17.
 
-El secretario de Gobierno cuidará que la Gaceta Oficial sea distribuida y entregada gratuitamente en cantidad suficiente, el mismo día de su publicación, a los Poderes del Estado, así como a los Ayuntamientos de los Municipios y a los Organismos Autónomos de (sic) Estado, para estar en posibilidad de cumplir y hacer cumplir las normas de observancia general.
+El Secretario de Gobierno cuidará que la Gaceta Oficial sea distribuida y entregada gratuitamente en cantidad suficiente a los Poderes del Estado, así como a los Ayuntamientos de los Municipios y a los Organismos Autónomos de (sic) Estado, para estar en posibilidad de cumplir y hacer cumplir las normas de observancia general.
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 18.
 
-Para efectos del artículo anterior, el Secretario de Gobierno procurará que, junto con la Gaceta Oficial se distribuya y entregue el Diario Oficial de la Federación, en cumplimiento del artículo 8 de la Ley del Diario Oficial de la Federación y gacetas gubernamentales.
+Para efectos del artículo anterior, el Secretario de Gobierno procurará que se distribuya y entregue el Diario Oficial de la Federación, en cumplimiento del artículo 8 de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales.
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 19.
 
-Para la venta de la Gaceta Oficial, la autoridad competente fijará el precio por ejemplar para distribuidores y para el público en general. Así mismo, establecerá las modalidades para el suministro a los distribuidores.
+Para la venta de la Gaceta Oficial, la autoridad competente fijará el precio por ejemplar para el público en general. Así mismo, instrumentará lo necesario para expenderla en las oficinas de Hacienda del Estado.
 
 ###### Artículo 20.
 
 La Gaceta Oficial se distribuirá gratuitamente vía internet a las bibliotecas de escuelas, facultades, colegios, institutos o centros de educación públicos del nivel superior pertenecientes al Gobierno del Estado de Veracruz de Ignacio de la Llave, previa solicitud de sus titulares.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2005)</small>
+
+En las oficinas de Hacienda del Estado que dispongan de servicio de Internet, se podrán imprimir y certificar ejemplares de la Gaceta Oficial por el titular de las referidas oficinas.
 
 ###### Artículo 21.
 
@@ -203,9 +215,13 @@ V. Elaborar los índices trimestral y anual de publicaciones en la Gaceta Oficia
 
 VI. Distribuir y expender la Gaceta Oficial en el territorio del estado de Veracruz de Ignacio de la Llave;
 
-VII. Establecer sistemas de venta de ejemplares de la Gaceta Oficial a los particulares;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2005)</small>
 
-VIII. Convenir con particulares la distribución y expendio masivos de la Gaceta Oficial;
+VII. Establecer sistemas de venta de ejemplares de la Gaceta Oficial;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2005)</small>
+
+VIII. Convenir la distribución y expendio masivos de la Gaceta Oficial;
 
 IX. Expedir certificaciones de la documentación a su cargo; y
 
@@ -241,9 +257,9 @@ Cuando el contenido del instrumento original publicado contenga errores insertos
 
 Primero. La presente Ley entrará en vigor a los diez días de su publicación en la Gaceta Oficial.
 
-Segundo. Las fracciones XI, XII y XIII del artículo 7 de este ordenamiento, iniciarán su vigencia hasta en tanto se reformen el artículo 12 cuarto párrafo, del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave y el artículo 34 primer párrafo, de la Ley Orgánica del Municipio Libre.
+Segundo. (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
-Tercero. Se suspende temporalmente la aplicación del artículo 140, apartado C, fracción II, incisos a), b) y f) del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, hasta en tanto se reformen para adecuarlos a esta Ley: Por consecuencia, el costo por la venta de ejemplares de la Gaceta Oficial se calculará conforme al número de planas impresas que especifican los incisos del c) al e) de la fracción II, del apartado C del artículo antes citado.
+Tercero. (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
 Cuarto. Túrnese al titular del Poder Ejecutivo, para los efectos del segundo párrafo del artículo 35 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
@@ -262,3 +278,49 @@ FIDEL HERRERA BELTRÁN
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+G.O. 5 DE AGOSTO DE 2005.
+
+Artículo Primero. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Artículo Segundo. Los artículos SEGUNDO al SÉPTIMO de este Decreto iniciarán su vigencia el día uno de febrero de dos mil seis.
+
+Artículo Tercero. Durante la vacatio legis específicada en el artículo anterior, los ayuntamientos enviarán a la Secretaría de Gobierno del Poder Ejecutivo, para su publicación en la Gaceta Oficial, los bandos de policía y gobierno, reglamentos, decretos, acuerdos, circulares y demás normas de observancia general, que refieren el artículo 7 fracciones XI, XII y XIII de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, debidamente aprobados por el cabildo conforme al siguiente calendario:
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté agosto y septiembre
+
+comprendida entre la A y la E. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté septiembre y octubre
+
+comprendida entre la F y la J. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté octubre y noviembre
+
+comprendida entre la K y la O. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté noviembre y diciembre
+
+comprendida entre la P y la T. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté diciembre de dos mil cinco
+
+comprendida entre la U y la Z. y enero de dos mil seis
+
+Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
+
+Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
