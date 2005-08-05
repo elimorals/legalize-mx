@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2004-12-15"
+last_updated: "2005-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2005.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -1503,65 +1503,65 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-I.- De $ 40.00 a $ 80.00 a la comprendida en la fracción VI.
+I.- De $ 41.00 a $ 84.00 a la comprendida en la fracción VI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-II.- De $ 118.00 a $ 240.00 a la comprendida en la fracción II.
+II.- De $ 123.00 a $ 250.00 a la comprendida en la fracción II.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-III.- De $ 160.00 a $ 318.00 a la comprendida en la fracción III.
+III.- De $ 167.00 a $ 332.00 a la comprendida en la fracción III.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-IV.- De $163.00 a $326.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal en su totalidad, no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
+IV.- De $207.00 a $ 413.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal en su totalidad, no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-V.- De $ 198.00 a $ 396.00 a la establecida en la fracción VII.
+V.- De $ 207.00 a $ 413.00 a la establecida en la fracción VII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-VI.- De $ 240.00 a $ 477.00 a la comprendida en la fracción XV.
+VI.- De $ 250.00 a $ 498.00 a la comprendida en la fracción XV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-VII.- De $ 318.00 a $ 635.00 a la señalada en la fracción XVIII.
+VII.- De $ 332.00 a $ 662.00 a la señalada en la fracción XVIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-VIII.- De $ 397.00 a $ 797.00 a las comprendidas en las fracciones IX y XI.
+VIII.- De $ 414.00 a $ 832.00 a las comprendidas en las fracciones IX y XI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-IX.- De $ 595.00 a $ 1,192.00 a la establecida en la fracción X.
+IX.- De $ 621.00 a $ 1,244.00 a la establecida en la fracción X.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-X.- De $ 634.00 a $ 1,273.00 a la comprendida en la fracción IV.
+X.- De $ 661.00 a $ 1,328.00 a la comprendida en la fracción IV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-XI.- De $ 716.00 a $ 1,433.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+XI.- De $ 747.00 a $ 1,495.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-XII.- De $ 797.00 a $ 1,591.00 a la señalada en la fracción XVII.
+XII.- De $ 832.00 a $ 1,660.00 a la señalada en la fracción XVII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-XIII.- De $ 1,988.00 a $ 3,979.00 a la comprendida en la fracción XIX.
+XIII.- De $ 2,074.00 a $ 4,151.00 a la comprendida en la fracción XIX.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-XIV.- De $ 121.00 a $ 304.00 a quien cometa la comprendida en la fracción XX.
+XIV.- De $ 126.00 a $ 317.00 a quien cometa la comprendida en la fracción XX.
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
+(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
 
-XV.- De $1,000.00 a $2,000.00 a la señalada en la fracción XXI.
+XV.- De $1,060.00 a $2,120.00 a la señalada en la fracción XXI.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2512,3 +2512,7 @@ P.O. 15 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día primero de enero de 2005.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
