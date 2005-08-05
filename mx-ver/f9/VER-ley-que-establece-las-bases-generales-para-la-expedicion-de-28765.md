@@ -4,7 +4,7 @@ identifier: "VER-ley-que-establece-las-bases-generales-para-la-expedicion-de-287
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-23"
-last_updated: "2003-01-23"
+last_updated: "2005-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY QUE ESTABLECE LAS BASES GENERALES PARA LA EXPEDICION DE BANDOS DE POLICIA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL DE ORDEN MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 23 de enero de 2003.
 
@@ -47,11 +47,7 @@ La presente Ley tiene por objeto establecer las bases generales conforme a las c
 
 ###### Artículo 2.
 
-Los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que expidan los Ayuntamientos de conformidad con lo dispuesto por el presente ordenamiento, la Ley Orgánica del Municipio Libre y demás legislación aplicable, obligarán y surtirán sus efectos tres días después de su publicación en la Tabla de Avisos del Palacio Municipal.
-
-El Presidente Municipal comunicará oficialmente al Congreso del Estado la aprobación y expedición del bando, reglamento, circular o disposición de que se trate, remitiendo copia de la normatividad y del acta de la sesión de Cabildo en que se hubiere acordado su aprobación. Esta comunicación oficial también deberá ser publicada en la Tabla de Avisos del Municipio de que se trate.
-
-El Congreso del Estado podrá ordenar que las disposiciones municipales aprobadas se publiquen en la Gaceta Oficial del estado.
+(DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
 ###### Artículo 3.
 
@@ -206,3 +202,49 @@ A t e n t a m e n t e
 Sufragio Efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 5 DE AGOSTO DE 2005.
+
+Artículo Primero. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Artículo Segundo. Los artículos SEGUNDO al SÉPTIMO de este Decreto iniciarán su vigencia el día uno de febrero de dos mil seis.
+
+Artículo Tercero. Durante la vacatio legis específicada en el artículo anterior, los ayuntamientos enviarán a la Secretaría de Gobierno del Poder Ejecutivo, para su publicación en la Gaceta Oficial, los bandos de policía y gobierno, reglamentos, decretos, acuerdos, circulares y demás normas de observancia general, que refieren el artículo 7 fracciones XI, XII y XIII de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, debidamente aprobados por el cabildo conforme al siguiente calendario:
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté agosto y septiembre
+
+comprendida entre la A y la E. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté septiembre y octubre
+
+comprendida entre la F y la J. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté octubre y noviembre
+
+comprendida entre la K y la O. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté noviembre y diciembre
+
+comprendida entre la P y la T. de dos mil cinco
+
+Ayuntamientos de los Municipios Durante los meses de
+
+cuya primera letra esté diciembre de dos mil cinco
+
+comprendida entre la U y la Z. y enero de dos mil seis
+
+Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
+
+Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
