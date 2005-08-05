@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2005-07-04"
+last_updated: "2005-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2005.
 
-Ley publicada en la Primera Sección del Periódico Oficial, el viernes 29 de junio de 1984.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice Estados Unidos Mexicanos.-Gobierno del Estado de Puebla.
 
@@ -181,9 +181,11 @@ V.- Cuando los actos que se imputen al encausado tengan carácter delictuoso, el
 
 No procede el juicio político por la mera expresión de ideas.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 12.
 
-En el Congreso del Estado se constituirá una Comisión Instructora, formada por cinco diputados, que se encargará de sustanciar el procedimiento de los juicios políticos, hasta ponerlos en estado de que el Congreso pueda dictar la resolución definitiva.
+En el Congreso del Estado se constituirá una Comisión Instructora que se encargará de sustanciar el procedimiento de los juicios políticos, hasta ponerlos en estado de que el Congreso pueda dictar la resolución definitiva.
 
 ###### Artículo 13.
 
@@ -825,7 +827,7 @@ La declaración de situación patrimonial deberá presentarse en los siguientes 
 
 I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
-II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo.
+II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
@@ -966,5 +968,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE JULIO DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
