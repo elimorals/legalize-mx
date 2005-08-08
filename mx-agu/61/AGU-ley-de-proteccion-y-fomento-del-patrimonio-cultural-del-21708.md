@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-y-fomento-del-patrimonio-cultural-del-21708"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-02"
-last_updated: "2001-07-02"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 2 de julio de 2001.
 
@@ -127,13 +127,17 @@ I. El Gobernador del Estado;
 
 II. Los Municipios;
 
-III. La Secretaria de Desarrollo Social;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+III. La Secretaría de Planeación y Desarrollo Regional;
 
 IV. El Instituto de Educación del Estado;
 
 V. El Instituto Cultural de Aguascalientes;
 
-VI. La Coordinadora de Turismo; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+VI. La Secretaría de Turismo;
 
 VII. Las Dependencias Federales en la materia.
 
@@ -203,9 +207,11 @@ IX. Conformar el Consejo Cultural Honorífico, con la participación de conocedo
 
 X. Las demás que señale esta Ley, su Reglamento y otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 12.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Planeación y Desarrollo Regional:
 
 I. Ejecutar las decisiones del Titular del Poder Ejecutivo que por sugerencia del Consejo Consultivo o el Instituto Cultural de Aguascalientes se establezcan, como medidas necesarias dentro del marco de su competencia tendientes a proteger el patrimonio cultural de los bienes y zonas señaladas en la presente Ley o registradas bajo este concepto;
 
@@ -241,9 +247,11 @@ VI. Impulsar el fomento y desarrollo de la cultura y las artes en el Estado; y
 
 VII. Las demás que señale esta Ley, su Reglamento y otras disposiciones jurídicas.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 14.
 
-El Instituto de Educación y la Coordinadora de Turismo del Gobierno del Estado, así como las dependencias federales como el Instituto Nacional de Antropología e Historia, la Secretaría de Medio Ambiente y Recursos Naturales, el Consejo Nacional de Fomento Educativo y la Secretaría de Desarrollo Social, en materia de patrimonio cultural, tendrán las facultades previstas en los ordenamientos que les dan origen.
+El Instituto de Educación y la Secretaría de Turismo del Gobierno del Estado, así como las dependencias federales como el Instituto Nacional de Antropología e Historia, la Secretaría de Medio Ambiente y Recursos Naturales, el Consejo Nacional de Fomento Educativo y la Secretaría de Desarrollo Social, en materia de patrimonio cultural, tendrán las facultades previstas en los ordenamientos que les dan origen.
 
 ### CAPITULO III. De los Organos de Apoyo
 
@@ -299,15 +307,19 @@ IV. Un representante de las siguientes dependencias y entidades de la Administra
 
 a) Secretaría de Obras Públicas.
 
-b) Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+b) Secretaría de Planeación y Desarrollo Regional;
 
 c) Instituto de Educación del Estado.
 
 d) Instituto Cultural de Aguascalientes.
 
-e) Coordinadora de Turismo del Estado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-f) Comité de Planeación para el Desarrollo del Estado.
+e) Secretaría de Turismo;
+
+f) (DEROGADO, P.O. 8 DE AGOSTO DE 2005)
 
 g) Archivo Histórico del Estado.
 
@@ -395,9 +407,11 @@ Cualquier persona interesada podrá promover ante el Titular del Poder Ejecutivo
 
 Para los efectos a que se refiere el párrafo anterior, los interesados deberán presentar junto con su petición los documentos e investigaciones que justifiquen la solicitud.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 25.
 
-Los propietarios responsables o poseedores de los bienes que se proponen sean declarados como patrimonio cultural, están obligados a permitir y facilitar su inspección por parte de la Secretaría de Desarrollo Social y la autoridad municipal según corresponda, con el objeto de elaborar propuestas o en su caso emitir recomendaciones de conservación, mismas que deberán ser remitidas al Consejo Consultivo para su dictamen.
+Los propietarios responsables o poseedores de los bienes que se proponen sean declarados como patrimonio cultural, están obligados a permitir y facilitar su inspección por parte de la Secretaría de Planeación y Desarrollo Regional y la autoridad municipal según corresponda, con el objeto de elaborar propuestas o en su caso emitir recomendaciones de conservación, mismas que deberán ser remitidas al Consejo Consultivo para su dictamen.
 
 ###### ARTICULO 26.
 
@@ -429,9 +443,11 @@ VII. La justificación y fundamento legal de la propuesta; y
 
 VIII. La definición y listado de sus partes integrantes, pertenencias y accesorios.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 29.
 
-Una vez publicada la declaratoria en el Periódico Oficial la Secretaría General de Gobierno o el Ayuntamiento turnará al Registro Público y a la Secretaría de Desarrollo Social para que el bien descrito sea dado de alta en la sección quinta e incluido en el catálogo respectivo y notificando personalmente al interesado.
+Una vez publicada la declaratoria en el Periódico Oficial la Secretaría General de Gobierno o el Ayuntamiento turnará al Registro Público y a la Secretaría de Planeación y Desarrollo Regional para que el bien descrito sea dado de alta en la sección quinta e incluido en el catálogo respectivo y notificando personalmente al interesado.
 
 ###### ARTICULO 30.
 
@@ -449,7 +465,9 @@ La adscripción al patrimonio cultural de una zona o bien tendrá los siguientes
 
 I. En los casos en que se grave el bien o sea sujeto de actos de traslación de dominio, se deberá dar aviso por escrito a las autoridades correspondientes por parte del propietario o del Notario Público que realice la operación;
 
-II. Sólo podrá ser restaurado o demolido parcialmente, previa autorización de la Secretaría de Desarrollo Social, y opinión del Consejo Consultivo;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+II. Sólo podrá ser restaurado o demolido parcialmente, previa autorización de la Secretaría de Planeación y Desarrollo Regional, y opinión del Consejo Consultivo;
 
 III. En ningún supuesto se procederá a la demolición total; y
 
@@ -475,9 +493,11 @@ El centro de información a que se refiere el artículo anterior, se coordinará
 
 A los bienes declarados como patrimonio cultural, el Registro Público les expedirá un título oficial que los identifique, en el que se reflejarán los actos jurídicos e intervenciones de obra que sobre los mismos se realicen; su forma y contenido se establecerá en el reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 37.
 
-En un plazo no mayor de sesenta días inmediatos a la publicación de la declaratoria en el Periódico Oficial del Estado, la Secretaría de Desarrollo Social o el Ayuntamiento deberá entregar el título oficial al propietario del bien declarado parte del patrimonio cultural o a su representante legal, junto con la información referente a:
+En un plazo no mayor de sesenta días inmediatos a la publicación de la declaratoria en el Periódico Oficial del Estado, la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento deberá entregar el título oficial al propietario del bien declarado parte del Patrimonio Cultural o a su representante legal, junto con la información referente a:
 
 I. La legislación y reglamentación en caso de ubicarse dentro de una zona declarada como patrimonio cultural y lo relacionado con su protección;
 
@@ -489,9 +509,11 @@ IV. La demás información que se considere relevante.
 
 A los propietarios o poseedores de los bienes con carácter de patrimonio cultural se les notificará de ello por escrito.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 38.
 
-La Secretaría de Desarrollo Social será responsable de la elaboración, actualización y publicación del catálogo correspondiente en los términos que se establezcan en el Reglamento. Dicho catálogo será accesible al público en general.
+La Secretaría de Planeación y Desarrollo Regional será responsable de la elaboración, actualización y publicación del catálogo correspondiente en los términos que se establezcan en el Reglamento. Dicho catálogo será accesible al público en general.
 
 ## TITULO CUARTO. DEL DOMINIO Y LA POSESION DEL PATRIMONIO CULTURAL
 
@@ -635,9 +657,11 @@ Las diversas manifestaciones de épocas en la edificación de un bien o zona del
 
 ### CAPITULO IV. De la Conservación y Mejoramiento del Patrimonio Cultural
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 62.
 
-El Ayuntamiento no expedirá licencia de cambio de uso de suelo, construcción, remodelación, ampliación o demolición en las zonas o bienes declarados del Patrimonio Cultural, sin antes cerciorarse de que se cuente con la validación de la Secretaría de Desarrollo Social, previo dictamen del Consejo Consultivo, el cual deberá emitirlo en un plazo no mayor de treinta días naturales. Una vez recibida la solicitud con los documentos requeridos conforme a lo establecido por el Código Urbano del Estado y la presente Ley, se emitirá la resolución correspondiente.
+El Ayuntamiento no expedirá licencia de cambio de uso de suelo, construcción, remodelación, ampliación o demolición en las zonas o bienes declarados del Patrimonio Cultural, sin antes cerciorarse de que se cuente con la validación de la Secretaría de Planeación y Desarrollo Regional, previo dictamen del Consejo Consultivo, el cual deberá emitirlo en un plazo no mayor de treinta días naturales. Una vez recibida la solicitud con los documentos requeridos conforme a lo establecido por el Código Urbano del Estado y la presente Ley, se emitirá la resolución correspondiente.
 
 ###### ARTICULO 63.
 
@@ -649,13 +673,17 @@ II. Se pretenda invadir, desviar o ampliar la vía pública, construyendo vanos,
 
 III. Se afecten símbolos urbanos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 64.
 
-Los Ayuntamientos, en acuerdo con la Secretaría de Desarrollo Social y previo dictamen del Consejo Consultivo, ordenará la suspensión y, en su caso la demolición de las obras descritas en el artículo anterior, cuando éstas no cuenten con la validación correspondiente.
+Los Ayuntamientos, en acuerdo con la Secretaría de Planeación y Desarrollo Regional, y previo dictamen del Consejo Consultivo, ordenarán la suspensión y, en su caso la demolición de las obras descritas en el artículo anterior, cuando éstas no cuenten con la validación correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 65.
 
-La Secretaría de Desarrollo Social, en coordinación con las autoridades federales competentes, supervisará las obras de rescate, protección y mejoramiento de un bien declarado monumento histórico, arqueológico o artístico en el Estado.
+La Secretaría de Planeación y Desarrollo Regional, en coordinación con las autoridades federales competentes, supervisará las obras de rescate, protección y mejoramiento de un bien declarado monumento histórico, arqueológico o artístico en el Estado.
 
 ###### ARTICULO 66.
 
@@ -665,17 +693,21 @@ Es obligación de los propietarios o legítimos poseedores de los bienes del pat
 
 Las personas a que se refiere el artículo anterior, que mantengan conservados y restaurados los bienes inmuebles, zonas y espacios que formen parte del patrimonio cultural del Estado, en los términos de la presente Ley, Ley Federal y el Código Urbano del Estado, podrán solicitar los estímulos en materia del impuesto predial, con base en el dictamen técnico que expida el Consejo Consultivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 68.
 
-Será necesaria la validación de la Secretaría de Desarrollo Social previo dictamen del Consejo Consultivo, para el establecimiento de talleres o industrias de cualquier índole en zonas típicas; la que sólo se concederá cuando se cumpla con las condiciones impuestas en la propia validación y dictamen técnico, para que los talleres o industrias que se pretendan establecer no estén fuera de la vocación de servicio respecto al entorno urbanístico.
+Será necesaria la validación de la Secretaría de Planeación y Desarrollo Regional previo dictamen del Consejo Consultivo, para el establecimiento de talleres o industrias de cualquier índole en zonas típicas; la que sólo se concederá cuando se cumpla con las condiciones impuestas en la propia validación y dictamen técnico, para que los talleres o industrias que se pretendan establecer no estén fuera de la vocación de servicio respecto al entorno urbanístico.
 
 La validación a que se refiere el párrafo anterior, está condicionada a las constancias de compatibilidad urbanística que expidan las autoridades competentes con base en esta Ley y el Código Urbano del Estado.
 
 El procedimiento a que se refiere el presente artículo no podrá exceder de un plazo no mayor de cuarenta y cinco días naturales.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 69.
 
-Cuando un taller o industria, se establezca sin la autorización correspondiente en una zona declarada del Patrimonio Cultural o no cumpla con las condiciones que le hayan sido impuestas, el Ayuntamiento o la Secretaría de Desarrollo Social, según sea el caso, podrán proceder a la clausura del mismo.
+Cuando un taller o industria, se establezca sin la autorización correspondiente en una zona declarada del Patrimonio Cultural o no cumpla con las condiciones que le hayan sido impuestas, el Ayuntamiento o la Secretaría de Planeación y Desarrollo Regional, según sea el caso, podrán proceder a la clausura del mismo.
 
 ###### ARTICULO 70.
 
@@ -931,9 +963,11 @@ I. Multa equivalente de 5 a 10,000 días de salario mínimo general diario vigen
 
 II. Multa equivalente de 16,000 a 25,000 días de salario mínimo general diario vigente en el Estado a quienes incurran en los supuestos mencionados en las Fracciones I, II, V, VI, VII, VIII y X.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 100.
 
-El titular del Poder Ejecutivo por conducto de la SEDESO independientemente de las sanciones que establezca la Ley Federal y la presente Ley podrán imponer arresto por treinta y seis horas a quien incurra en los siguientes supuestos:
+El titular del Poder Ejecutivo por conducto de la Secretaría de Planeación y Desarrollo Regional independientemente de las sanciones que establezca la Ley Federal y la presente Ley podrán imponer arresto por treinta y seis horas a quien incurra en los siguientes supuestos:
 
 I. A quien dañe o destruya bienes declarados del patrimonio cultural del Estado, independientemente de la responsabilidad civil o penal en que incurra.
 
@@ -1006,3 +1040,15 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
