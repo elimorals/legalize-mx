@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-organismo-publico-descentralizado-radio-y-2790"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-11"
-last_updated: "1996-06-23"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO RADIO Y TELEVISION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Suplemento al Número 2 del Periódico Oficial del Estado de Aguascalientes, el 11 de enero de 1987.
 
@@ -77,7 +77,9 @@ VI.- Celebrar convenios de coordinación con la Universidad Autónoma de Aguasca
 
 VII.- Procurar la participación de la población del Estado para que la producción y transmisión que genere o auspicie, tenga un contenido eminentemente democrático y popular. Asimismo, fomentar la participación de las diferentes entidades de interés público, para conocer sus actividades.
 
-VIII.- Apoyar, como instrumento de divulgación, los programas y acciones del Comité de Planeación y Desarrollo del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+VIII.- Apoyar, como instrumento de divulgación, los programas y acciones de la Secretaría de Planeación y Desarrollo Regional del Estado.
 
 IX.- Celebrar convenios con los sectores social y privado de la Entidad para auspiciar la producción y transmisión de programas de radio y televisión que informen la potencialidad económica de los distintos sectores de la población como forma de propiciar el desarrollo del Estado.
 
@@ -133,13 +135,13 @@ I.- La Junta Directiva.
 
 II.- El Director General.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-###### ARTICULO 7o.
+###### Artículo 7º.
 
-La Junta Directiva estará integrada por: un Presidente que será el Gobernador del Estado; Por 6 vocales que serán: el Secretario de Desarrollo Social del Estado, el Secretario de Finanzas, el Secretario de Administración, el Director del Instituto de Educación de Aguascalientes, el Director del Instituto Cultural de Aguascalientes, un representante del Poder Legislativo, un Secretario de Actas que será el Director General y por un Comisario que será la persona que designe el Contralor General del Gobierno del Estado.
+La Junta Directiva estará integrada por: Un Presidente que será el Gobernador del Estado . Por 6 Vocales que serán: el Secretario de Desarrollo Social del Estado, el Secretario de Finanzas, el Secretario de Gestión e Innovación, el Director del Instituto de Educación de Aguascalientes, el Director del Instituto Cultural de Aguascalientes, un representante del Poder Legislativo, un Secretario de Actas que será el Director General y por un Comisario que será la persona que designe el Contralor General del Gobierno del Estado.
 
-Por cada miembro propietario habrá un suplente quien será designado por el titular y contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
+Por cada miembro propietario habrá un suplente que será designado por el titular y contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
 
 ###### ARTICULO 8o.
 
@@ -324,3 +326,13 @@ Lic. Héctor Valdivia Carreón.
 P.O. 23 DE JUNIO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
