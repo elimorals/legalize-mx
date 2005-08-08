@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-para-el-desarrollo-agropecuario-18036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-18"
-last_updated: "2005-04-11"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA LA COMISION PARA EL DESARROLLO AGROPECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 18 de marzo de 1990.
 
@@ -149,15 +149,11 @@ II.- La Dirección General; y
 
 III.- Consejo Consultivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 4o.
 
-El Consejo de Administración es la máxima autoridad de la Comisión, ésta a su vez se integrará por un Presidente, que será el Gobernador del Estado; un Vicepresidente, que será el Secretario de Planeación del Estado; un Coordinador Ejecutivo que será el Director General de la Comisión para el Desarrollo Agropecuario del Estado; dos Vocales, que serán: el Delegado Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el Secretario de Finanzas del Gobierno del Estado, así como de un Secretario y un Comisario, que serán designados por el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
-
-El Consejo de Administración podrá contar con un Organo Auxiliar denominado Gabinete para el Desarrollo Agropecuario, cuyas funciones e integrantes serán designados por el propio Consejo.
+El Consejo de Administración es la máxima autoridad de la Comisión, ésta a su vez, se integrará por un Presidente, que será el Gobernador del Estado; un Vicepresidente, que será el Secretario de Planeación y Desarrollo Regional del Estado; un Coordinador Ejecutivo que será el Director General de la Comisión para el Desarrollo Agropecuario del Estado; dos Vocales que serán: el Delegado Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el Secretario de Finanzas del Gobierno del Estado; así como de un Secretario y un Comisario, que serán designados por el Ejecutivo del Estado.
 
 ###### ARTICULO 5o.
 
@@ -358,3 +354,13 @@ SEXTO.- Las facultades en materia de ecología de la Secretaría de Desarrollo S
 SEPTIMO.- Deberán adecuarse los ordenamientos legales correspondientes en un plazo no mayor de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 OCTAVO.- Los asuntos que se encuentren en trámite ante la Subsecretaría de Ecología de la Secretaría de Desarrollo Social, continuarán su trámite ante el Instituto del Medio Ambiente del Estado de Aguascalientes, sin que ello afecte su validez.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
