@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2003-11-10"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -83,19 +83,19 @@ Se entiende por animal doméstico, a aquéllos seleccionados a través de la his
 
 ### CAPITULO II. De la Competencia
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 4o.
 
-Corresponde a la Secretaría de Desarrollo Social, a la Procuraduría Estatal de Protección al Ambiente y a los Municipios del Estado de Aguascalientes, la aplicación y vigilancia de la presente Ley, en los términos que la misma establece.
+Corresponde al Instituto del Medio Ambiente, a la Procuraduría Estatal de Protección al Ambiente y a los Municipios del Estado de Aguascalientes, la aplicación y vigilancia de la presente Ley, en los términos que la misma establece.
 
 Las autoridades encargadas de aplicar y vigilar el cumplimiento de la presente Ley, podrán solicitar asesoría y apoyo de las asociaciones protectoras de animales o grupos ecologistas, para efectos de custodia temporal o definitiva de animales, así como para todos aquellos temas en que se estime procedente.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 5o.
 
-La Secretaría de Desarrollo Social, la Procuraduría Estatal de Protección al Ambiente y los municipios podrán celebrar convenios o acuerdos de coordinación y colaboración con la Federación, el Estado, los municipios y los particulares, en las materias a que se refiere esta Ley.
+El Instituto del Medio Ambiente, la Procuraduría Estatal de Protección al Ambiente y los municipios podrán celebrar convenios o acuerdos de coordinación y colaboración con la Federación, el Estado, los municipios y los particulares, en las materias a que se refiere esta Ley.
 
 ###### ARTICULO 6o.
 
@@ -135,9 +135,11 @@ Una vez recibida la información a que se refiere el artículo anterior, el Muni
 
 Las personas que pretendan exhibir o trasladar animales domésticos vivos, deberán presentar ante la autoridad municipal competente con cinco días previos el aviso correspondiente, a través de la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos". La autoridad podrá en todo momento verificar la veracidad de la información proporcionada.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 13.
 
-La Secretaría de Desarrollo Social elaborará y tramitará la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", en la cual se asentará toda la información necesaria para que el manejo de los animales vivos sea adecuado y anexar los documentos que comprueben su legal procedencia. La Secretaría de Desarrollo Social deberá publicarla en el Periódico Oficial del Estado, así como cualquier modificación a la misma.
+El Instituto del Medio Ambiente elaborará y tramitará la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", en la cual se asentará toda la información necesaria para que el manejo de los animales vivos sea adecuado y anexar los documentos que comprueben su legal procedencia. El Instituto del Medio Ambiente deberá publicarla en el Periódico Oficial del Estado, así como cualquier modificación a la misma.
 
 ###### ARTICULO 14.
 
@@ -201,9 +203,11 @@ En el caso de que los vehículos en donde se transporten animales tengan que det
 
 Toda persona física o moral que se dedique a la crianza de animales, está obligada a valerse de los medios y procedimientos más idóneos, a fin de que durante la reproducción, crecimiento, desarrollo y sanidad, reciban un trato humanitario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 17.
 
-Quienes se dediquen al entrenamiento o adiestramiento de animales domésticos con fines de guardia, protección y cuidado de personas y bienes, deberán contar con el permiso de la Secretaría de Desarrollo Social, para lo cual previo al inicio de sus actividades presentarán ante la autoridad la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento y Traslado de Animales Vivos", la cual podrá verificar la información correspondiente y, en su caso, emitirá la resolución en un término que no exceda a los quince días naturales siguientes a la entrega de la información solicitada.
+Quienes se dediquen al entrenamiento o adiestramiento de animales domésticos con fines de guardia, protección y cuidado de personas y bienes, deberán contar con el permiso del Instituto del Medio Ambiente, para lo cual previo al inicio de sus actividades presentarán ante la autoridad la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", la cual podrá verificar la información correspondiente y, en su caso, emitirá la resolución en un término que no exceda a los quince días naturales siguientes a la entrega de la información solicitada.
 
 Asimismo, las personas a que se refiere el párrafo anterior, deberán cumplir con las disposiciones previstas en esta Ley y demás relacionadas con la materia.
 
@@ -415,13 +419,17 @@ Los Centros Antirrábicos y demás dependencias relacionadas, podrán asesorarse
 
 ### CAPITULO VII. De la Experimentación con Animales
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 35.
 
-Para realizar experimentación con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia, la cual sólo se autorizará en las carreras de nivel superior relacionadas con la materia; para tal efecto se requiere el permiso de experimentación en animales debidamente autorizado (sic) por la Secretaría de Desarrollo Social.
+Para realizar experimentación con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia, la cual sólo se autorizará en las carreras de nivel superior relacionadas con la materia; para tal efecto se requiere el permiso de experimentación en animales debidamente autorizado por el Instituto del Medio Ambiente.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
 Ningún alumno podrá ser obligado a experimentar con animales en contra de su voluntad, en su caso la Institución deberá proporcionar prácticas alternativas para determinar la calificación procedente.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
 Se deberá levantar un reporte por las autoridades de la Institución, respecto de la cantidad y tipo de animales por utilizar y su periodicidad, describiendo las técnicas empleadas para evitar su sufrimiento, así como los objetivos que con ello se persiguen, reporte que podrá ser auditado las veces que se estime necesario por las autoridades encargadas de aplicar la presente Ley; siendo procedente la revocación de la autorización para la experimentación con animales, de resultar falso el contenido de dicho reporte.
 
@@ -932,3 +940,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 10 DE NOVIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor a los sesenta días siguientes al día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
