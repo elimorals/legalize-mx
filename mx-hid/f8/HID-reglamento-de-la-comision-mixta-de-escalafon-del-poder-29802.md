@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-comision-mixta-de-escalafon-del-poder-29802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-07"
-last_updated: "2003-04-07"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA COMISION MIXTA DE ESCALAFON DEL PODER EJECUTIVO Y ORGANISMOS DESCENTRALIZADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de abril de 2003.
 
@@ -81,13 +81,17 @@ XV.- LA DIRECCION GENERAL.- A la Dirección General de Administración y Desarro
 
 La Comisión se integrará con tres Representantes del Poder Ejecutivo, tres del Sindicato y un Secretario Técnico, por cada Representante se designará un Suplente.
 
-Los Representantes Propietarios y Suplentes del Poder Ejecutivo, serán nombrados y removidos libremente por el Secretario de Finanzas y Administración, dichos Representantes corresponderán, uno al despacho del C. Secretario de Finanzas y Administración, uno a la Oficialía Mayor y uno a la Dirección General.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Los Representantes Propietarios y Suplentes del Poder Ejecutivo, serán nombrados y removidos libremente por el Secretario de Administración, dichos representantes corresponderán, dos al despacho del C. Secretario de Administración, uno a la Dirección General.
 
 Los Representantes del Sindicato, serán nombrados y removidos por el Secretario General.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 5.
 
-La Sede de la Comisión se ubicará en la Ciudad de Pachuca, Hgo., teniendo como domicilio el que determine la Oficialía Mayor del Poder Ejecutivo, quien proporcionará los recursos necesarios para el cumplimiento de las atribuciones de la Comisión.
+La Sede de la Comisión, se ubicará en la Ciudad de Pachuca de Soto, Hidalgo; teniendo como domicilio, el que determine el Secretario de Administración, quien proporcionará los recursos necesarios para el cumplimiento de las atribuciones de la Comisión.
 
 ###### ARTICULO 6.
 
@@ -105,7 +109,9 @@ V.- Establecer los Procedimientos Administrativos adecuados, orientando y vigila
 
 VI.- Integrar y modificar cuando proceda, la estructura escalafonaria;
 
-VII.- Informar al Secretario de Finanzas y Administración, Secretarios de Despacho y Superior Jerárquico de los Organismos según sea el caso, de las irregularidades señaladas, en el capítulo IX del presente Reglamento y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+VII.- Informar al Secretario de Administración, Secretarios de Despacho y Superior jerárquico de los Organismos según sea el caso, de las irregularidades señaladas, en el capítulo IX del presente Reglamento; y
 
 VIII.- Los demás que se deriven de la Ley y del presente Reglamento.
 
@@ -133,9 +139,11 @@ En caso de que resultara empate en la votación, ambas representaciones de comú
 
 ### CAPITULO III. DEL SECRETARIO TECNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 11.
 
-La Comisión se auxiliará de un Secretario Técnico que será el Titular de la Dirección General, mismo que contará con un Suplente, dicho Secretario tendrá voz pero no voto y sus nombramientos los otorgará el Secretario de Finanzas y Administración, correspondiéndole las siguientes atribuciones y funciones:
+La Comisión se auxiliará de un Secretario Técnico que será el Titular de la Dirección General, mismo que contará con un Suplente, dicho Secretario tendrá voz pero no voto y sus nombramientos los otorgará el Secretario de Administración, correspondiéndole las siguientes atribuciones y funciones:
 
 I.- Asistir y registrar los actos administrativos que efectúe la Comisión;
 
@@ -221,9 +229,11 @@ VII.- Las demás que le asigne la Subcomisión y el Reglamento.
 
 ### CAPITULO V. DEL ESCALAFON
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 16.
 
-El sistema escalafonario del Poder Ejecutivo, está estructurado con base en el Catálogo de Puestos autorizado por el Secretario de Finanzas y Administración, en el registro de fichas escalafonarias individuales de los Trabajadores; se harán constar los datos personales de los mismos y la calificación de los factores que integran el derecho escalafonario, así como cualquier otra información que se considere relevante.
+El sistema escalafonario del Poder Ejecutivo, está estructurado con base en el Catálogo de Puestos autorizado por el Secretario de Administración, en el registro de fichas escalafonarias individuales de los Trabajadores; se harán constar los datos personales de los mismos y la calificación de los factores que integran el derecho escalafonario, así como cualquier otra información que se considere relevante.
 
 ###### ARTICULO 17.
 
@@ -568,3 +578,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDA
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente Decreto, entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión dentro de un plazo de 30 días a partir de la entrada en vigor de las presentes Reformas, deberá adecuar el Manual de Integración y Funcionamiento.
+
+TERCERO.- La Comisión tendrá un plazo de 30 días a partir de la entrada en vigor del presente Decreto, para efectuar el depósito de las Reformas al Reglamento de la Comisión Mixta de Escalafón del Poder Ejecutivo y Organismos Descentralizados, ante el H. Tribunal de Conciliación y Arbitraje del Estado de Hidalgo.
