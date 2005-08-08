@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2004-02-12"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 26 de mayo de 2003.
 
@@ -45,6 +45,12 @@ LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones de la presente Ley son de orden público e interés general y tienen por objeto regular a los prestadores de servicios de seguridad privada que operen en el Estado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+###### Artículo 2º.
+
+Corresponde al Ejecutivo del Estado la aplicación de esta Ley, a través de la Secretaría de Seguridad Pública.
+
 ###### Artículo 2°.
 
 Corresponde al Ejecutivo del Estado la aplicación de esta Ley, a través de la Secretaría General del Gobierno.
@@ -57,7 +63,9 @@ I. Autorización: al permiso otorgado por la Secretaría a una persona física o
 
 II. Ley: a la Ley de Seguridad Privada;
 
-III. Secretaría: a la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+III. Secretaría: a la Secretaría de Seguridad Pública;
 
 IV. Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes;
 
@@ -169,7 +177,7 @@ f). Seguridad, protección y vigilancia interna.
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
-III. Anexar le solicitud:
+III. Anexar a la solicitud:
 
 a). Copia Certificada del acta de nacimiento, o acta constitutiva así como de las modificaciones a sus estatutos, si es persona moral;
 
@@ -223,7 +231,7 @@ En caso de resultar procedente la expedición de la autorización, la Secretarí
 
 ###### Artículo 11.
 
-La autorización que se otorgue es intransferible y especificará los datos generales del titular tales como nombre o razón social, en su caso, el nombre del representante del y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los límites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
+La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los limites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
 
 La vigencia de la autorización será de un año, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
 
@@ -620,3 +628,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
