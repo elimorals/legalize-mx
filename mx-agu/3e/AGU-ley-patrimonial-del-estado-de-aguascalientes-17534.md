@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2001-11-26"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -53,7 +53,11 @@ II.- Las entidades paraestatales, que incluyen los organismos públicos descentr
 
 III.- Los Municipios del Estado, así como sus organismos descentralizados, que no cuenten con disposiciones legales en estas materias; y
 
-IV.- Los Poderes Legislativo y Judicial.
+IV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Los Poderes Judicial y Legislativo, cuando realicen acciones relativas a la adquisición, arrendamiento y prestación de servicios deberán sujetarse, con base a su normatividad interna, a los procedimientos que establece el artículo 53 de esta Ley, apegándose a los montos que la misma prevé para cada uno de ellos.
 
 ###### ARTICULO 2o.
 
@@ -69,23 +73,29 @@ I.- Declarar que un bien mueble o inmueble forma parte del dominio público; y
 
 II.- Desincorporar del dominio público algún bien que hubiere dejado de prestar su fin de uso público, y pasarlo al dominio privado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 4o.
 
-La aplicación de esta Ley queda a cargo del Titular del Poder Ejecutivo del Estado a través de la Secretaría de Administración, y de los Ayuntamientos a través de su Secretaría de Administración, Dirección Administrativa o su similar, sin perjuicio de la intervención que corresponda a otras dependencias o entidades del Ejecutivo Estatal o de las Administraciones Públicas Municipales, conforme a sus atribuciones enmarcadas en la Ley Orgánica del Poder Ejecutivo del Estado y en los Bandos y Reglamentos Municipales o cualquiera otra disposición legal.
-
-Asimismo, al Comité de Administración del Congreso del Estado y al Presidente del Supremo Tribunal de Justicia del Estado, en el ámbito de su competencia. Cuando esta Ley haga referencia al Titular del Poder Ejecutivo, se entenderá también a éstos órganos según sea el caso.
+La aplicación de esta Ley queda a cargo del Titular del Poder Ejecutivo del Estado a través de la Secretaría de Gestión e Innovación, y de los Ayuntamientos a través de su Secretaría de Administración, Dirección Administrativa o su similar, sin perjuicio de la intervención que corresponda a otras dependencias o entidades del Ejecutivo Estatal o de las Administraciones Públicas Municipales, conforme a sus atribuciones enmarcadas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, y en los Bandos y Reglamentos Municipales o cualquiera otra disposición legal.
 
 ###### ARTICULO 5o.
 
 Para los fines de esta Ley se entiende por:
 
-(sic) Ley: La Ley Patrimonial del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-II. Dependencias: Las unidades administrativas que integran el Poder Ejecutivo Estatal, el Poder legislativo y Poder Judicial así como las que integran la Administración Pública centralizada de los Municipios del Estado.
+I. Ley: La Ley Patrimonial del Estado de Aguascalientes.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+II. Dependencias: Las unidades administrativas que integran el Poder Ejecutivo Estatal, así como las que integran la Administración Pública centralizada de los Municipios del Estado.
 
 III. Entidades: Las entidades paraestatales que incluyen los organismos públicos descentralizados del Estado, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales, así como los organismos públicos descentralizados municipales, las empresas de participación municipal y los fideicomisos públicos municipales.
 
-IV. Secretaría: la Secretaría de Administración en lo relativo a los bienes del Estado, así como las Secretarías de Administración o Direcciones de Administración Municipales, Direcciones Administrativas de las Dependencias y Entidades, o sus similares, según sea el caso. Y en los Poderes Legislativo y Judicial quien ejerza las atribuciones de administración de acuerdo con las disposiciones legales respectivas.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+IV. Secretaría: la Secretaría de Gestión e Innovación en lo relativo a los bienes del Estado, así como las Secretarías de Administración o Direcciones de Administración Municipales, Direcciones Administrativas de las Dependencias y Entidades, o sus similares, según sea el caso.
 
 V. Contraloría: la Contraloría General del Estado y las Contralorías Municipales, o los órganos de control según sea el caso.
 
@@ -97,7 +107,9 @@ VIII. Bienes: Todo aquello que es susceptible de apropiación, ya sea en benefic
 
 IX. Proveedor, Concursante o Licitante: La persona que celebre contratos de adquisiciones, arrendamiento o prestación de servicio; y
 
-X. Sujetos de la Ley o Convocante: Los que se indican en las Fracciones I al IV del Artículo primero de esta Ley.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+X. Sujetos de la Ley o Convocante: Los que se indican en las Fracciones I al III del Artículo 1º de esta Ley.
 
 ###### ARTICULO 6o.
 
@@ -171,7 +183,9 @@ Cuando se trate de adquisiciones por la vía de expropiación, la Secretaría Ge
 
 La Secretaría sólo podrá determinar el arrendamiento de bienes inmuebles para el servicio de la Administración Pública Estatal o Municipal respectivamente, cuando no sea posible o conveniente su adquisición. La propia Secretaría, deberá resolver tal conveniencia, considerando para ello lo que las dependencias destinatarias argumenten y acrediten para tales supuestos, previa intervención de la Secretaría de Finanzas.
 
-Tanto la adquisición como el arrendamiento de inmuebles para oficinas públicas, requerirán de estudios, proyectos o programas previos, en los que participen las Secretarías de Administración, Desarrollo Social y Secretaría de Finanzas, independientemente de la competencia o intervención que les corresponda a otras dependencias.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Tanto la adquisición como el arrendamiento de inmuebles para oficinas públicas, requerirán de estudios, proyectos o programas previos, en los que participen las Secretarías de Gestión e Innovación y Finanzas, independientemente de la competencia o intervención que les corresponda a otras dependencias.
 
 Las dependencias y entidades, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de costo beneficio, considerando, la posible adquisición mediante arrendamiento con opción a compra.
 
@@ -237,13 +251,17 @@ Las adquisiciones de bienes inmuebles a que se refiere este Capítulo, no podrá
 
 #### SECCION PRIMERA. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 20.
 
-Los titulares de los organismos públicos mencionados en el Artículo Primero de esta Ley, realizarán sus adquisiciones, arrendamientos y contratación de servicios en la forma y términos que determine esta Ley, el decreto de Presupuesto de Egresos del Estado y de los Municipios, así como las disposiciones relativas aplicables de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado y criterios de operación emitidos por la Secretaría.
+Los titulares de los organismos públicos mencionados en las fracciones I a III del Artículo 1º de esta Ley, realizarán sus adquisiciones, arrendamientos y contratación de servicios en la forma y términos que determine esta Ley, el decreto de Presupuesto de Egresos del Estado y de los Municipios, así como las disposiciones relativas aplicables de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado y criterios de operación emitidos por la Secretaría.
 
 Las adquisiciones de bienes y servicios que no formen parte de un programa de obra pública deberán sujetarse a los lineamientos establecidos por la Secretaría. El equipamiento de bienes inmuebles construidos dentro de un programa de obra pública no formará parte del programa de obra a efecto de la adquisición de bienes y servicios
 
-Los titulares de los organismos públicos referidos en el Artículo Primero de la presente Ley, deberán sujetarse para cada tipo de procedimiento de adquisición, a las políticas y lineamientos establecidos por la Secretaría.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Los titulares de los organismos públicos referidos en las fracciones I a III del Artículo 1º de la presente Ley, deberán sujetarse para cada tipo de procedimiento de adquisición, a las políticas y lineamientos establecidos por la Secretaría.
 
 Las entidades referidas, podrán adaptar los lineamientos de adquisición, considerando la naturaleza, fines y metas de los propios organismos, siempre y cuando obtengan la anuencia formal por parte de la Secretaría.
 
@@ -277,7 +295,9 @@ IX.- Los servicios de cualquier naturaleza cuya prestación genere una obligaci�
 
 La Secretaría mediante disposiciones de carácter general determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir o contratar los sujetos de la Ley, ya sea de manera conjunta o separada, con objeto de obtener las mejores condiciones en cuanto a precio y oportunidad.
 
-Cuando algún sujeto de la Ley requiera la asistencia de la Secretaría de Administración de Gobierno del Estado para adquirir bienes y servicios por no tener la capacidad ni estructura para llevarlas a cabo por sí misma, podrá solicitarla por escrito y la propia Secretaría tendrá el compromiso de adquirir los bienes y servicios en nombre de la solicitante.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Cuando algún sujeto de la Ley requiera la asistencia de la Secretaría de Administración para adquirir bienes y servicios por no tener la capacidad ni estructura para llevarlas a cabo por sí misma, podrá solicitarla por escrito y la propia Secretaría tendrá el compromiso de adquirir los bienes y servicios en nombre de la solicitante.
 
 ###### ARTICULO 23.
 
@@ -301,9 +321,13 @@ Los bienes y servicios materia de adquisición, arrendamiento o contratación de
 
 Las adquisiciones que sean solventadas en forma parcial o total con recursos federales, deberán sujetarse a lo establecido en la Ley que Regula las Adquisiciones en Materia Federal.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 27.
 
-En las adquisiciones y contrataciones que regula esta Ley, se preferirá como proveedores en igualdad de condiciones, a los radicados en el Estado.
+En las adquisiciones y contrataciones que regula esta ley se preferirá como proveedores, en igualdad de condiciones, a aquéllos que tengan su domicilio fiscal en Aguascalientes y oferten bienes que hayan sido producido o adquiridos en el Estado. En el caso de los bienes de importación o que no se produzcan en el Estado se preferirá a empresas comercializadoras domiciliadas fiscalmente en el Estado.
+
+Las bases de licitación establecerán porcentajes diferenciales, de precio hasta de un cinco por ciento en favor de los proveedores que cumplan con los requisitos previstos en el párrafo anterior.
 
 ###### ARTICULO 28.
 
@@ -325,7 +349,9 @@ El titular del Poder Ejecutivo a través de su Secretaría instalará el Comité
 
 Los Ayuntamientos mediante sus Secretarías, Direcciones de Administración o similares, podrán formar los Comités respectivos, estableciendo en su Bando y Reglamentos o por acuerdo del Cabildo, la instalación, los integrantes y el funcionamiento del mismo, siguiendo los lineamientos establecidos en esta ley.
 
-De igual forma, las dependencias y entidades referidas en el Artículo Primero del presente ordenamiento.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+De igual forma, las dependencias y entidades referidas en las fracciones I a III del Artículo 1° del presente ordenamiento.
 
 ###### ARTICULO 32.
 
@@ -393,11 +419,11 @@ I. Un presidente, que será el titular de la Secretaría;
 
 II. Un Secretario Ejecutivo, que será la entidad responsable de llevar a cabo las adquisiciones a favor de los sujetos de la Ley;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
 III. Tres vocales con voz y voto que serán:
 
-Un representante de la Secretaría de Planeación del Estado, un representante de la Secretaría de Finanzas o su similar en sus Municipios, y un representante de la cámara o asociación del ramo correspondiente;
+Un representante de la Secretaría de Planeación y Desarrollo Regional del Estado; un representante de la Secretaría de Finanzas o su similar en sus Municipios; y un representante de la cámara o asociación del ramo correspondiente;
 
 IV. Dos vocales con voz pero sin voto que serán:
 
@@ -527,9 +553,11 @@ El representante de la Contraloría General del Estado o el órgano de control c
 
 #### SECCION CUARTA. Del Padrón de Proveedores de Gobierno del Estado
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 47.
 
-La Secretaría de Administración de Gobierno del Estado integrará y operará el Padrón de Proveedores que tendrá por objeto el registro de las personas físicas o morales que deseen enajenar mercancías, materias primas, bienes o prestar servicios a los sujetos de la Ley, quienes podrán solicitar a la misma la incorporación al padrón de determinado proveedor que satisfaga los requisitos necesarios.
+La Secretaría de Gestión e Innovación del Estado integrará y operará el Padrón de Proveedores que tendrá por objeto el registro de las personas físicas o morales que deseen enajenar mercancías, materias primas, bienes o prestar servicios a los sujetos de la Ley, quienes podrán solicitar a la misma la incorporación al padrón de determinado proveedor que satisfaga los requisitos necesarios.
 
 El padrón proporcionará a los sujetos de la Ley, la información completa, confiable y oportuna sobre las personas con capacidad de proporcionar bienes o prestar servicios en las mejores condiciones y con la mejor calidad.
 
@@ -827,7 +855,9 @@ III. El cumplimiento del contrato y la calidad de los bienes solicitados.
 
 Para cualquier procedimiento de adquisición, los porcentajes de las garantías, la forma de presentarlas, el tiempo para presentarlas y los casos en que se harán efectivas éstas, serán establecidas por la Secretaría en las bases del procedimiento de adquisición correspondiente.
 
-Las garantías referidas deberán constituirse en un plazo máximo de diez días naturales a partir de la fecha en que el licitante reciba copia del fallo de adjudicación y entrega del pedido correspondiente.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Las garantías referidas en las fracciones II y III de este artículo deberán constituirse en un plazo máximo de diez días naturales a partir de la fecha en que el licitante reciba copia del fallo de adjudicación y entrega del pedido correspondiente.
 
 La Secretaría conservará en custodia las garantías hasta la fecha del fallo, en que serán devueltas a los licitantes salvo la de aquél a quien se hubiere adjudicado el contrato, la que se retendrá hasta el momento en el que el proveedor constituya la garantía de cumplimiento del contrato correspondiente.
 
@@ -1402,3 +1432,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y contratos que se encuentren pendientes de resolución, se tramitarán hasta su total conclusión de conformidad con las disposiciones jurídicas vigentes al momento de su realización.
