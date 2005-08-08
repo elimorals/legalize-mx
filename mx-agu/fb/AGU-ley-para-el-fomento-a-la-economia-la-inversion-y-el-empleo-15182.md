@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2001-11-26"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -135,9 +135,9 @@ B).- Secretario de Desarrollo Social;
 
 C).- Secretario de Obras Públicas;
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-D).- Secretario de Planeación;
+D).- Secretario de Planeación y Desarrollo Regional;
 
 E).- El Director General del Instituto de Educación de Aguascalientes;
 
@@ -460,3 +460,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO. El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
