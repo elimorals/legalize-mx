@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-16073"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-25"
-last_updated: "2005-06-27"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 25 de julio de 1999.
 
@@ -1105,9 +1105,9 @@ Para la elaboración de los programas para la Prevención de Accidentes se atend
 
 Los Programas para la Prevención de Accidentes serán sometidos al Comité del Estado de Aguascalientes para Análisis y Aprobación, el cual será conformado por:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-a).- Instituto de Medio Ambiente del Estado de Aguascalientes;
+a).- Instituto del Medio Ambiente del Estado de Aguascalientes;
 
 b).- Instituto de Salud del Estado de Aguascalientes;
 
@@ -1535,8 +1535,18 @@ LIC. ABELARDO REYES SAHAGUN.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 27 DE JUNIO DE 2005.
+P.O. 27 DE JUNIO DE 2005
 
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
