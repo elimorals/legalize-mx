@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-servicio-civil-de-carrera-para-el-estado-de-22755"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2001-11-12"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SERVICIO CIVIL DE CARRERA PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 12 de noviembre de 2001.
 
@@ -59,7 +59,9 @@ I.- Manual: El Manual de Operación del Servicio Civil de Carrera;
 
 II.- Comisión: La Comisión Permanente de Profesionalización del Servicio Civil de Carrera; y
 
-III.- Secretaría: A la Secretaría de Administración de Gobierno del Estado o a sus similares, en el ámbito municipal y en los organismos.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+III.- Secretaría: A la Secretaría de Gestión e Innovación del Gobierno del Estado o a sus similares, en el ámbito municipal y en los organismos.
 
 ###### ARTICULO 3º.
 
@@ -354,3 +356,15 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
