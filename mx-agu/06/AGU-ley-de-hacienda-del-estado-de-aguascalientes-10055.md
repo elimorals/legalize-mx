@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2004-12-31"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -67,7 +67,9 @@ Las personas físicas y morales están obligadas al pago de los impuestos, derec
 
 Las cantidades en moneda nacional correspondientes a cuotas, tarifas y sanciones que se establezcan en las leyes fiscales, se actualizarán en los meses de enero y julio de cada año, con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización. Dicho factor será el que para tal efecto publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
 
-Las cantidades actualizadas deberán publicarse semestralmente por la Secretaría de Finanzas y Administración en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Las cantidades actualizadas deberán publicarse semestralmente por la Secretaría de Finanzas en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -189,7 +191,7 @@ Si la cuantía de la obligación es indeterminada pero se estipula la forma para
 
 II.- En los casos de novación, el importe del nuevo beneficio estipulado.
 
-III.- En los actos o contratos que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales ya sea que se celebren a precio alzado, precio unitario, por administración o adaptándose cualquiera otra modalidad. el valor mayor de entre el convenio o el que resulte del avalúo de la obra. Dicho avalúo será practicado por las autoridades fiscales al terminarse la construcción en caso de que el presupuesto de la obra no sea exhibido por los contratantes, o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción.
+III.- En los actos o contratos que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales ya sea que se celebren a precio alzado, precio unitario, por administración o adaptándose cualquiera otra modalidad, el valor mayor de entre el convenio o el que resulte del avalúo de la obra. Dicho avalúo será practicado por las autoridades fiscales al terminarse la construcción en caso de que el presupuesto de la obra no sea exhibido por los contratantes, o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción.
 
 IV.- En los demás contratos, actos e instrumentos notariales de índole contractual sin valor pecuniario, el número de hojas en que se extiendan.
 
@@ -269,11 +271,11 @@ Tratándose de documentos mercantiles cuyo registro no puede ser demorado de acu
 
 En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 16.
 
-Los notarios públicos o quienes hagan sus veces, los particulares tratándose de documentos privados u otorgados fuera del Estado, o los funcionarios judiciales cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas y Administración de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
+Los notarios públicos o quienes hagan sus veces, los particulares tratándose de documentos privados u otorgados fuera del Estado, o los funcionarios judiciales cuando sea potestiva la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -335,7 +337,9 @@ d).- Contribuyentes eventuales: Aquellas personas físicas o morales que realice
 
 e).- Boleto: Pase, acto ó comprobante que permita el acceso a la diversión ó espectáculo públicos, con costo o de cortesía.
 
-f).- Autoridad Fiscal Estatal: La Secretaría de Finanzas y Administración del Estado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+f).- Autoridad Fiscal Estatal: la Secretaría de Finanzas del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -411,7 +415,9 @@ II.- Si los contribuyentes eventuales de este impuesto no realizan el pago oport
 
 III.- Cuando a la conclusión del evento, ya fuera habitual o eventual, no hubiera concurrido verificador designado por la Autoridad Fiscal Estatal, el contribuyente presentará declaración con autodeterminación del impuesto, al siguiente día hábil, pudiendo pagar en la oficina receptora de la autoridad fiscal competente o en las instituciones bancarias autorizadas.
 
-IV.- Cuando la venta de boletos se efectúe a través de un tercero que preste el servicio al organizador del evento de que se trate, el pago deberá hacerse a más tardar dentro de los cuatro días hábiles posteriores al evento, siempre y cuando el organizador otorgue garantía a favor de la Secretaría de Finanzas y Administración en los términos de este Capítulo.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+IV. Cuando la venta de boletos se efectúe a través de un tercero que preste el servicio al organizador del evento de que se trate, el pago deberá hacerse a más tardar dentro de los cuatro días hábiles posteriores al evento, siempre y cuando el organizador otorgue garantía a favor de la Secretaría de Finanzas en los términos de este Capítulo.
 
 En caso de no otorgarse la garantía señalada en el párrafo anterior, el pago deberá efectuarse en términos de lo dispuesto por la fracción I de este artículo.
 
@@ -557,15 +563,21 @@ III.- Los Partidos Políticos Nacionales con registro, cuando los eventos que se
 
 #### SECCION PRIMERA. De los Sujetos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 30.
 
 Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de vehículos automotores de modelo anterior a los diez últimos ejercicios fiscales, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes. Se presumirá lo anterior cuando el propietario, tenedor o usuario, tenga domicilio en el Estado.
 
-Este impuesto se causará por ejercicios fiscales los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas y Administración del Estado, y en las formas por ella aprobadas.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras Entidades Federativas, que acrediten ante la Secretaría de Finanzas y Administración del Estado que se pagó un gravamen similar por el mismo ejercicio fiscal.
+Este impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras Entidades Federativas, que acrediten ante la Secretaría de Finanzas del Estado que se pagó un gravamen similar por el mismo ejercicio fiscal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas y Administración del Estado.
 
@@ -603,7 +615,7 @@ El presente impuesto se causará por la tenencia o uso de automóviles, motocicl
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA. De la Responsabilidad Solidaria
+#### SECCION CUARTA. Del Pago
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -613,9 +625,9 @@ Este impuesto se causará y pagará de acuerdo a la siguiente:
 
 (VEASE TABLA ANEXA)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. Del Pago
+#### SECCION QUINTA. De la Responsabilidad Solidaria
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -629,33 +641,43 @@ II.- Las personas físicas o morales con actividad permanente o temporal de comp
 
 III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION SEPTIMA. Del Padrón Vehicular del Estado de Aguascalientes
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-###### ARTICULO 35.
-
-Se exceptúan del pago de este impuesto a las personas con discapacidad, pensionados, jubilados y de la tercera edad que acrediten esta condición ante la Secretaría de Finanzas y Administración.
-
-Esta excepción se limitará a un vehículo por persona.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEXTA. De las Excepciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 35.
+
+Se exceptúan del pago de este impuesto a las personas con discapacidad, pensionados, jubilados y de la tercera edad que acrediten esta condición ante la Secretaría de Finanzas.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Esta excepción se limitará a un vehículo por persona.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION SEPTIMA. Del Padrón Vehicular del Estado de Aguascalientes
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 36.
 
-El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Finanzas y Administración, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
+El Padrón Vehicular del Estado estará a cargo de la Secretaría de Finanzas, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites: Inscripción, Cambios, Rectificaciones y Bajas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 En los trámites a que se refiere el párrafo anterior, los interesados deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo. Para tal efecto, deberán cumplir con los requisitos que establezca el Reglamento respectivo.
 
-La Secretaría de Finanzas y Administración mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+La Secretaría de Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 Los propietarios de los vehículos registrados, además de las obligaciones señaladas en párrafos anteriores, deberán cumplir con lo siguiente:
 
@@ -675,13 +697,19 @@ e).- Baja por robo o destrucción.
 
 f).- Alta por recuperación de vehículo robado o destruido.
 
-Los trámites deberán efectuarse ante las oficinas de la Secretaría de Finanzas y Administración, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Los trámites deberán efectuarse ante las oficinas de la Secretaría de finanzas, cumpliendo los requisitos que establezca el Registro del Padrón Vehicular.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 Para obtener la baja en el Padrón o realizar el canje de placas, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción.
 
-Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas y Administración del Estado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION PRIMERA. Del Objeto
 
@@ -705,7 +733,7 @@ Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo au
 
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO IV. Del Impuesto Sobre la Prestación de Servicios de Hospedaje
 
@@ -713,7 +741,7 @@ Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo au
 
 #### SECCION SEPTIMA. De las Facultades de las Autoridades
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 37.
 
@@ -767,13 +795,15 @@ El impuesto se calculará aplicando la tasa del 2% sobre la base prevista por el
 
 El contribuyente trasladará el impuesto en forma expresa y por separado a las personas que reciban los servicios gravados por esta Ley. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas por un monto equivalente al impuesto establecido en este ordenamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 43.
 
 El impuesto se calculará por ejercicios fiscales, los cuales se fijarán por año calendario. Los contribuyentes presentarán declaración ejercicio en las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
 
-Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales a cuenta del impuesto anual, a más tardar el día 15 o al siguiente día hábil, de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante el formato autorizado y en las oficinas de la Secretaría de Finanzas y Administración del Estado. El pago provisional será el impuesto correspondiente al total de las actividades realizadas en el período por el que se efectúa.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales a cuenta del impuesto anual, a más tardar el día 15 o el siguiente día hábil, de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante el formato autorizado y en las oficinas de la Secretaría de Finanzas del Estado. El pago provisional será el impuesto correspondiente al total de las actividades realizadas en el periodo por el que se efectúa.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -791,15 +821,21 @@ II.- En caso de anticipos por reservaciones, cuando se reciba total o parcialmen
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 45.
+###### Artículo 45.
 
 Los contribuyentes de este impuesto tienen las siguientes obligaciones:
 
-I.- Solicitar su inscripción al Padrón de Contribuyentes del Estado de Aguascalientes, en las formas aprobadas por la Secretaría de Finanzas y Administración del Estado.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-La Secretaría de Finanzas y Administración del Estado estará a cargo del Padrón de Contribuyentes del Estado de Aguascalientes, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de impuestos federales.
+I.- Solicitar su inscripción al Padrón de Contribuyentes del Estado de Aguascalientes en las formas aprobadas por la Secretaría de Finanzas del Estado.
 
-II.- Presentar en las fechas establecidas las declaraciones del ejercicio y de pagos provisionales en las formas autorizadas por la Secretaría de Finanzas y Administración del Estado.
+La Secretaría de Finanzas del Estado estará a cargo del Padrón de Contribuyentes del Estado de Aguascalientes, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de impuestos Federales;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+II.- Presentar en las fechas establecidas las declaraciones del ejercicio y de pagos provisionales en las formas autorizadas por la Secretaría de Finanzas del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 III.- Llevar contabilidad, conforme a las disposiciones fiscales federales o de acuerdo a los principios de contabilidad generalmente aceptados.
 
@@ -807,29 +843,43 @@ III.- Llevar contabilidad, conforme a las disposiciones fiscales federales o de 
 
 #### SECCION SEXTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría de Finanzas y Administración del Estado tendrá las siguientes facultades:
+La Secretaría de Finanzas del Estado tendrá las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I.- Ordenar y practicar revisiones de las declaraciones de los contribuyentes, solicitando exhiban en sus oficinas la documentación comprobatoria que ampare los conceptos en ellas asentados;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II.- Determinar presuntivamente el valor de las contraprestaciones sujetas al pago de este impuesto, cuando:
 
 a).- El contribuyente no presente la declaración del ejercicio o de cuatro o más bimestres en el ejercicio.
 
-b).- Se oponga u obstaculice al ejercicio de las facultades señaladas para la Secretaría de Finanzas y Administración del Estado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+b).- Se oponga u obstaculice al ejercicio de las facultades señaladas por la Secretaría de Finanzas del Estado.
 
 c).- No efectúe los registros contables en los términos de las disposiciones fiscales aplicables; y
 
 d).- Exista discrepancia superior al 3% entre los datos asentados en las declaraciones y los de la contabilidad.
 
-III.- Para la determinación presuntiva a que se refiere la fracción anterior, la Secretaría de Finanzas y Administración del Estado, utilizará los siguientes elementos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+III.- Para la determinación presuntiva a que se refiere la fracción anterior, la Secretaría de Finanzas del Estado, utilizará los siguientes elementos:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 a).- Los datos y documentación comprobatoria propiedad del contribuyente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 b).- Los datos proporcionados por los beneficiarios de los servicios; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 c).- Los informes proporcionados por las autoridades encargadas de normar la actividad realizada por el contribuyente.
 
@@ -889,7 +939,7 @@ II.- Tratándose de numerario, el monto del premio.
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51.
 
@@ -903,13 +953,13 @@ El impuesto establecido en este capítulo, se calculará aplicando sobre la base
 
 ###### ARTICULO 52.
 
-Los sujetos obligados al pago del impuesto por responsabilidad directa, solidaria u objetiva, lo autodeterminarán en las formas aprobadas por la autoridad fiscal, y su pago se efectuará en las cajas recaudadores de la Secretaría de Finanzas y Administración del Estado, dentro del término de 15 días naturales siguientes a la fecha en que se efectúe el cobro del premio.
+Los sujetos obligados al pago del impuesto por responsabilidad directa, solidario u objetiva, lo autodeterminará en las formas aprobadas por la autoridad fiscal, y su pago se efectuará en las cajas recaudadoras de la Secretaría de Finanzas del Estado, dentro del término de 15 días naturales siguientes a la fecha en que se efectúe el cobro del premio.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 53.
 
@@ -975,11 +1025,19 @@ Son sujetos de este impuesto las personas físicas y morales que adquieran vehí
 
 Son responsables solidarios del pago de este impuesto:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 I.- El enajenante y el último adquirente.
 
-El enajenante está obligado a presentar aviso de la enajenación a la Secretaría de Finanzas y Administración, en los formatos autorizados por ésta, dentro de los quince días naturales siguientes a la fecha de operación.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+El enajenante está obligado a presentar aviso de la enajenación a la Secretaría de Finanzas, en los formatos autorizados por ésta, dentro de los quince días naturales siguientes a la fecha de operación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II.- Los Servidores Públicos que autoricen y realicen cualquier trámite relacionado con la adquisición de vehículos usados de motor, en que se hubiere omitido el pago del impuesto; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 III.- Los intermediarios respecto de las adquisiciones gravadas por este impuesto.
 
@@ -1001,7 +1059,7 @@ Tratándose de vehículos cuyo año modelo de antigüedad corresponda al periodo
 
 ###### ARTICULO 61.
 
-El pago de este impuesto se hará en un término de 15 días naturales siguientes al de la adquisición, consignada en la factura del vehículo o en el documento judicial o administrativo que lo sustituya en términos de ley; debiendo efectuarse en las cajas recaudadoras de la Secretaría de Finanzas y Administración del Estado.
+El pago de este impuesto se hará en un términos de 15 días naturales siguientes al de la adquisición, consignada en la factura del vehículo o en el documento judicial o administrativo que lo sustituya en términos de ley; debiendo efectuarse en las cajas recaudadoras de la Secretaría de Finanzas del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1037,29 +1095,35 @@ Son sujetos del pago de derechos, las personas físicas y morales tanto de derec
 
 Los derechos se causarán y pagarán en el momento de solicitar o recibir el servicio público, así como de ejercer el uso o aprovechamiento de los bienes de dominio público del Estado, de conformidad con las tarifas que al efecto señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 66.
 
-El importe de las tasas o cuotas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en las cajas recaudadoras de la Secretaría de Finanzas y Administración o en las instituciones bancarias autorizadas para ello.
+El importe de las tasas o cuotas que para cada derecho señale la Ley de Ingresos del Estado, deberá ser cubierto en las cajas recaudadoras de la Secretearía de Finanzas o en las instituciones bancarias autorizadas para ello.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 67.
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la Secretaría de Finanzas y Administración o ante las instituciones bancarias autorizadas para ello.
+La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibido que acredite su pago ante la Secretaría de Finanzas o ante las instituciones bancarias autorizadas para ello.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 68.
 
 Cuando las leyes fijen plazos o períodos de pago distintos al establecido en el artículo que antecede, se observarán las siguientes reglas:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 I.- Cuando los derechos deban pagarse por anualidades, mensualidades o periodos de meses menores al anual, dichos pagos deberán realizarse previamente a la prestación del servicio correspondiente, excepto en los casos en que por la naturaleza del servicio el pago no pueda determinarse con anterioridad a la prestación del mismo. En estos últimos casos el contribuyente efectuará el entero del derecho dentro de los cinco días siguientes a aquél en que se inicie la prestación del servicio y deberá presentar el comprobante de pago a la dependencia correspondiente dentro de los diez días siguientes a aquél en que se efectúe el pago.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II.- Cuando el servicio se preste después de iniciado el periodo de que se trate, el pago correspondiente a la fracción de dicho periodo, se efectuará en forma proporcional a los días en que se otorgue el servicio, en el plazo que resulte aplicable en términos de la fracción que antecede.
 
-III.- En los casos en los que el derecho deba determinarse con base en la medición o duración del servicio, el importe que determine la autoridad prestadora del servicio deberá pagarse dentro de los cinco días siguientes a aquél en que sea notificado al contribuyente. En estos casos si el derecho se compone además con una cuota fija, ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio deberá remitir a la Secretaría de Finanzas y Administración, las constancias respectivas a la determinación del derecho, en la misma fecha en que se notifique al contribuyente, para los efectos del cobro correspondiente.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+III.- En los casos en los que derecho deba determinarse con base en la medición o duración del servicio, el importe que determine la autoridad prestadora del servicio deberá pagarse dentro de los cinco días siguientes a aquél en que sea notificado al contribuyente. En estos casos si el derecho se compone además con una cuota fija. Ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio deberá remitir a la Secretaría de Finanzas, las constancias respectivas a la determinación del derecho, en la misma fecha en que se notifique al contribuyente, para los efectos del cobro correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1344,3 +1408,13 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 P.O. 31 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigencia, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
