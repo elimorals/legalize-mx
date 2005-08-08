@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2004-12-27"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -105,7 +105,9 @@ IV.- Sistema de Salud: Al Sistema Estatal de Salud.
 
 El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas y sociales y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Aguascalientes. Su misión es mejorar las condiciones de salud de la población del Estado con equidad, calidad y eficiencia.
 
-El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Planeación, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, y del Estado con los Municipios.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Planeación y Desarrollo Regional, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, y del Estado con los Municipios.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -205,11 +207,11 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 La competencia de las autoridades sanitarias en la planeación, regulación, presupuestación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por lo establecido en esta Ley y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 12.
 
-El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, al Comité de Planeación para el Desarrollo del Estado, los Ayuntamientos, y escuchando la opinión de los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado y demás instituciones del sector social y privado, elaborará el Programa Estatal de Salud de manera sexenal y/o con cada cambio de administración, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, a la Secretaría de Planeación y Desarrollo Regional y a los Ayuntamientos, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
 
 ###### ARTICULO 13.
 
@@ -637,11 +639,11 @@ III.- De asistencia social.
 
 Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional, considerando lo que surgiera la Secretaría de Planeación.
+Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional, considerando lo que sugiera la Secretaría de Planeación y Desarrollo Regional.
 
 ###### ARTICULO 40.
 
@@ -2828,3 +2830,13 @@ P.O. 27 DE DICIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
