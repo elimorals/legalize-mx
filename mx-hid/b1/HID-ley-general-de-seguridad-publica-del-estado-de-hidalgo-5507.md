@@ -4,7 +4,7 @@ identifier: "HID-ley-general-de-seguridad-publica-del-estado-de-hidalgo-5507"
 country: "mx"
 rank: "ley_general"
 publication_date: "1987-02-08"
-last_updated: "1987-02-08"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY GENERAL DE SEGURIDAD PUBLICA DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 8 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de febrero de 1987.
 
@@ -482,3 +484,35 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los treinta días del mes de diciembre de mil novecientos ochenta y seis.
 
 El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL.- Secretario General de Gobierno.- PROFR. JOSE GUADARRAMA MARQUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor el día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Los Ayuntamientos en funciones al momento del inicio de la vigencia de la presente Ley, deberán elaborar en un plazo no mayor de 30 días su correspondiente Programa Municipal de Seguridad Pública en términos de lo dispuesto en el Artículo 117 de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Se expedirán los Reglamentos derivados del contenido de la presente Ley, dentro de un plazo de ciento ochenta días, contados a partir del día siguiente de su entrada en vigor.
+
+###### ARTICULO QUINTO.
+
+Las personas prestadoras de servicios de Seguridad Privada en el territorio del Estado de Hidalgo, que no cuenten con la autorización respectiva, gozarán de un plazo hasta de ciento veinte días hábiles improrrogables, contados a partir de la entrada en vigor de esta Ley, para solicitar y obtener la autorización.
+
+###### ARTICULO SEXTO.
+
+Se abroga la Ley General de Seguridad Pública para el Estado de Hidalgo, Publicada en el Periódico Oficial el ocho de febrero de mil novecientos ochenta y siete.
+
+###### ARTICULO SEPTIMO.
+
+Se derogan todas las disposiciones Legales que se opongan a la presente Ley.
