@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-34214"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-01"
-last_updated: "2003-10-01"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 1 de octubre de 2003.
 
@@ -2899,7 +2899,9 @@ V.- Instrumental de actuaciones.
 
 Las resoluciones del Consejo General del Instituto, podrán ser recurridas ante el órgano jurisdiccional correspondiente, en los términos del Libro Quinto de este Código.
 
-Las multas a que se refiere este Capítulo que no hubiesen sido recurridas ante la autoridad competente serán pagadas en la Secretaría de Finanzas y Administración del Gobierno del Estado, en el improrrogable término de 15 días contados a partir de la notificación al responsable. Transcurrido el plazo sin que el pago se hubiere efectuado, el Consejo podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Las multas a que se refiere este Capítulo que no hubiesen sido recurridas ante la autoridad competente serán pagadas en la Secretaría de Finanzas del Gobierno del Estado, en el improrrogable término de 15 días contados a partir de la notificación al responsable. Transcurrido el plazo sin que el pago se hubiere efectuado, el Consejo podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda.
 
 ## TITULO TERCERO. DEL AGENTE DEL MINISTERIO PUBLICO PARA LA ATENCION DE DELITOS ELECTORALES
 
@@ -3694,3 +3696,15 @@ Felipe González González.
 EL SECRETARIO GENERAL DEL GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
