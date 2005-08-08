@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-10186"
 country: "mx"
 rank: "ley"
 publication_date: "1994-09-01"
-last_updated: "1994-09-01"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 1 de septiembre de 1994.
 
@@ -1219,9 +1219,7 @@ La Secretaría de Salud del Estado en coordinación con otras instituciones púb
 
 ###### ARTICULO 144.
 
-El patrimonio de la beneficencia pública será administrado por el Sistema para el Desarrollo Integral de la Familia en el Estado de Michoacán.
-
-Al respecto, a este organismo corresponderá, entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y de distribuir los recursos que a la misma se le destinen.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2005)
 
 ###### ARTICULO 145.
 
@@ -2374,3 +2372,15 @@ DIPUTADO PRESIDENTE.- ING. MANUEL TREJO GARCIA.- DIPUTADO SECRETARIO.- MARGARITO
 En cumplimiento a lo dispuesto por la fracción I del Artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 25 días del mes de febrero de 1994, mil novecientos noventa y cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes a la publicación del presente Decreto, el Gobernador del Estado deberá crear la Administración del Patrimonio de la Beneficencia Pública Estatal, adscrita al organismo público descentralizado denominado Servicios de Salud de Michoacán, con atribuciones para normar y operar el Sistema Estatal de Cuotas de Recuperación, así como para vigilar su cumplimiento, reformando, en lo conducente, las disposiciones administrativas.
