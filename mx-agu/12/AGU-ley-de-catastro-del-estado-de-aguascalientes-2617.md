@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-2617"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-27"
-last_updated: "1992-12-13"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Suplemento al Número 52, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 27 de diciembre de 1981.
 
@@ -173,9 +173,9 @@ VI.- Las demás que señale esta Ley.
 
 Es organismo auxiliar de la Dirección del Impuesto a la Propiedad Raíz, la Junta Catastral del Estado, que operará en todo su territorio y estará integrada por:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-I.- El Secretario de Desarrollo Social como representante del Ejecutivo del Estado, quien presidirá la Junta y tendrá voto de calidad en caso de empate.
+I.- El Secretario de Planeación y Desarrollo Regional como representante del Ejecutivo del Estado, quien presidirá la Junta y tendrá voto de calidad en caso de empate.
 
 II.- El Director de Catastro e Impuesto a la Propiedad Raíz, quien fungirá como Secretario de la Junta. Este funcionario podrá suplir al Presidente en sus ausencias y cuando así lo haga, tendrá las mismas facultades y atribuciones que éste.
 
@@ -193,7 +193,9 @@ VII.- Un representante común de la Cámara de Comercio del Estado.
 
 VIII.- Un representante de los pequeños propietarios en cada una de las extensiones rústicas que determine la Junta. Para estas áreas objeto de los trabajos de la Junta, este representante será nombrado en la forma señalada por la fracción II del Artículo 14 de esta Ley y la duración de su encargo será el tiempo que la Junta considere necesario para la ejecución de los trabajos mencionados y la consecución de sus objetivos. Las funciones de tal representante quedarán en consecuencia circunscritas a aquellas actividades de la Junta que estén referidas a las áreas que represente aquél.
 
-IX.- El Secretario de Agricultura y Ganadería del Estado.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+IX.- El Director General de la Comisión de Desarrollo Agropecuario del Estado.
 
 X.- Un representante del sector campesino ejidal del Estado, que será designado por el Ejecutivo.
 
@@ -257,11 +259,11 @@ El plazo para presentar la constancia de designación de estos representantes an
 
 ### CAPITULO TERCERO. De las Operaciones Catastrales
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 15.
 
-Las operaciones catastrales estarán a cargo de la Secretaría de Desarrollo Social.
+Las operaciones catastrales estarán a cargo de la Secretaría de Planeación y Desarrollo Regional.
 
 ###### ARTICULO 16.
 
@@ -405,11 +407,13 @@ Los valuadores de la Dirección de Catastro e Impuesto a la Propiedad Raíz debe
 
 ### CAPITULO CUARTO. De los Fraccionamientos
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 40.
 
-Las personas físicas o morales que obtengan autorización de la Secretaría de Desarrollo Social para fraccionar predios o terrenos, deberán presentar copia de la misma y los planos autorizados a la Secretaría de Finanzas.
+Las personas físicas o morales que obtengan autorización de la Secretaría de Planeación y Desarrollo Regional para fraccionar predios o terrenos, deberán presentar copia de la misma y los planos autorizados a la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 Toda modificación que autorice la Secretaría antes mencionada, deberá manifestarse en la Secretaría de Finanzas, dentro de un plazo que no excederá de 30 días a partir de la fecha en que se autorice la modificación, acompañando copia de la misma y los planos correspondientes.
 
@@ -455,11 +459,11 @@ No se exime de la obligación indicada en el artículo anterior a los propietari
 
 Las autoridades judiciales están obligadas a dar aviso de todas las resoluciones que causen ejecutoria, en las que se traslade o adquiera el dominio de un bien inmueble, a la Dirección de Catastro e Impuesto a la Propiedad Raíz, dentro de los 15 días siguientes a la fecha en que se cause.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 48.
 
-Al celebrarse cualquier acto o contrato translativo de dominio de algún bien inmueble en el estado, deberá ser manifestado por el adquiriente a las Secretarías de Finanzas y de Desarrollo Social, en las formas aprobadas.
+Al celebrarse cualquier acto o contrato translativo de dominio de algún bien inmueble en el Estado, deberá ser manifestado por el adquiriente a las Secretarías de Finanzas y de Planeación y Desarrollo Regional, en las formas aprobadas.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
@@ -471,11 +475,11 @@ Los notarios y corredores públicos, y en general todos aquellos que tienen fe p
 
 Toda construcción, ampliación, modificación o demolición de construcción existente, deberá ser manifestada por su propietario o poseedor a la Dirección de Catastro e Impuesto a la Propiedad Raíz, en las formas aprobadas dentro de los 30 días siguientes al de la demolición o de la terminación u ocupación de la construcción.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 51.
 
-Las autoridades municipales deberán comunicar a las Secretarías de Finanzas y de Desarrollo Social en un plazo que no exceda de 30 días, cuando otorguen licencias de construcción, reconstrucción, ampliación o demolición y cuando otorguen autorizaciones para fraccionar predios urbanos.
+Las autoridades municipales deberán comunicar a las Secretarías de Finanzas y de Planeación y Desarrollo Regional, en un plazo que no exceda de 30 días, cuando otorguen licencias de construcción, reconstrucción, ampliación o demolición y cuando otorguen autorizaciones para fraccionar predios urbanos.
 
 ###### ARTICULO 52.
 
@@ -544,3 +548,13 @@ C.P. Alfredo de Alba Olavarrieta.
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
