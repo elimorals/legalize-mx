@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2004-12-27"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -59,11 +59,13 @@ Para los efectos de la presente Ley se entenderá por:
 
 I.- Estado.- El Estado de Aguascalientes.
 
-II.- Secretario.- El Secretario General de Gobierno.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+II.- Secretario.- El Secretario de Seguridad Pública.
 
 III.- Municipios.- Los Municipios del Estado.
 
-IV.- Subsecretaría.- A la Subsecretaría de Seguridad Pública del Estado.
+IV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
 
 V.- Dirección.- La Dirección General de Seguridad Pública y Vialidad del Estado de Aguascalientes.
 
@@ -117,9 +119,11 @@ Son autoridades de vialidad:
 
 I.- El Gobernador Constitucional del Estad.
 
-II.- El Secretario General de Gobierno.
+II.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
 
-III.- El Subsecretario de Seguridad Pública.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+III.- El Secretario de Seguridad Pública.
 
 IV.- El Director General de Seguridad Pública y Vialidad en el Estado.
 
@@ -127,39 +131,57 @@ V.- Los Presidentes Municipales; y
 
 VI.- Los titulares de las dependencias municipales de esta materia en los Municipios.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005.)</small>
 
 ###### ARTICULO 7o.
 
-Al Gobernador del Estado le compete el nombramiento y la libre remoción del personal de la Subsecretaría y de la Dirección.
+Al Gobernador del Estado le compete el nombramiento y la libre remoción del personal de la Secretaría y de la Dirección.
 
-Para los efectos de este Artículo todo el personal administrativo que depende de la Subsecretaría y de la Dirección se sujetará a lo dispuesto en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados y con respecto al personal operativo, se regirá por lo dispuesto en la Ley de Seguridad Pública del Estado y en su reglamento interior.
+Para los efectos de este Artículo todo el personal administrativo que depende de la Secretaría y de la Dirección se sujetará a lo dispuesto en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados y con respecto al personal operativo, se regirá por lo dispuesto en la Ley de Seguridad Pública del Estado y en su reglamento interior.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005.)</small>
 
 ###### ARTICULO 8o.
 
-El Secretario General de Gobierno, propondrá al Gobernador del Estado, los programas relativos a la vialidad del Estado.
+El Secretario de Seguridad Pública propondrá al Gobernador del Estado, los programas relativos a la vialidad del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-ARTICULO 8o BIS.- El Subsecretario de Seguridad Pública tiene las siguientes facultades:
+ARTICULO 8o BIS.- El Secretario de Seguridad Pública tiene las siguientes facultades:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 I.- Proponer al acuerdo del Secretario General de Gobierno, la aplicación de programas, medidas, políticas y estrategias para el buen funcionamiento administrativo y operativo de las distintas dependencias del ramo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 II.- Dictar providencias de carácter general, que sean de utilidad para mejorar el servicio de vialidad en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Vigilar que haya un buen trato por parte de los empleados administrativos para todos los ciudadanos que tramiten asuntos en sus oficinas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 IV.- Fungir como Vocal Ejecutivo del Consejo Estatal de Transporte Público.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 V.- Prestar y solicitar cooperación a las autoridades de tránsito federal y coadyuvar con las autoridades judiciales y administrativas del fuero común y federal.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 VI.- Proponer al Instituto Estatal de Seguridad Pública programas de formación o capacitación en materia de vialidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 VII.- Coordinar programas conjuntos con los Directores de Seguridad Pública y Vialidad de los Municipios, en los términos del convenio que para tal efecto se celebre.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 VIII.- Coordinar sus acciones con las autoridades locales y federales a efecto de dar cumplimiento a las leyes del país y los tratados internacionales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 IX.- Las demás que establece la presente Ley y otras disposiciones jurídicas aplicables en la materia.
 
@@ -169,7 +191,9 @@ IX.- Las demás que establece la presente Ley y otras disposiciones jurídicas a
 
 Al frente de la Dirección habrá un Director General de Seguridad Pública y Vialidad en el Estado, el cual tiene las siguientes facultades:
 
-I.- Proponer al Subsecretario de Seguridad Pública las medidas administrativas necesarias para el eficaz funcionamiento de la Dirección.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+I.- Proponer al Secretario de Seguridad Pública las medidas administrativas necesarias para el eficaz funcionamiento de la Dirección.
 
 II.- Llevar el archivo de la Dirección.
 
@@ -213,11 +237,11 @@ Los Presidentes Municipales informarán mensualmente al titular del Poder Ejecut
 
 (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2003)
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 14.
 
-El Director General de Seguridad Pública y Vialidad en el Estado, presentará en acuerdo, informes al Subsecretario de Seguridad Pública, para recibir instrucciones sobre la política del titular del Ejecutivo.
+El Director General de Seguridad Pública y Vialidad en el Estado, presentará en acuerdo, informes al Secretario de Seguridad Pública, para recibir instrucciones sobre la política del titular del Ejecutivo.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2768,3 +2792,13 @@ P.O. 27 DE DICIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
