@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-informacion-estadistica-y-geografica-del-estado-de-20098
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-12"
-last_updated: "2001-11-26"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 2001.
 
@@ -79,9 +79,9 @@ B) Los Poderes Legislativo y Judicial del Estado;
 
 C) Las dependencias y entidades de la Administración Pública Federal, así como los Poderes Legislativo y Judicial de la Federación conforme a los convenios respectivos;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-V.- Sistema Estatal de Información, en lo sucesivo "Sistema Estatal": son las instituciones públicas a que se refiere la Fracción anterior, así como las entidades particulares y los grupos sociales interesados, organizados bajo una estructura conceptual predeterminada por la Secretaría de Planeación que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial; sin perjuicio de las facultades que en esta materia correspondan a dichas dependencias conforme a ésta y otras leyes;
+V.- Sistema Estatal de la Información, en lo sucesivo “Sistema Estatal”: son las instituciones públicas a que se refiere la fracción anterior, así como las entidades particulares y los grupos sociales interesados, organizados bajo una estructura conceptual predeterminada por la Secretaría de Planeación y Desarrollo Regional que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial; sin perjuicio de las facultades que en esta materia correspondan a dichas dependencias conforme a esta y otras leyes;
 
 VI.- Informática: Tecnología para el procesamiento electrónico de datos;
 
@@ -95,9 +95,9 @@ X.- Dependencias y Entidades Estatales: Las que forman parte de la Administraci�
 
 XI.- Dependencias y Entidades Federales: Las que forman parte de la Administración Pública Federal;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-XII.- Secretaría: La Secretaría de Planeación del Estado de Aguascalientes; y
+XII.- Secretaría: La Secretaría de Planeación y Desarrollo Regional del Estado de Aguascalientes; y
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
@@ -109,9 +109,9 @@ Son autoridades en materia de información estadística y geográfica:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-II. El Secretario de Planeación del Estado; y
+II.- El Secretario de Planeación y Desarrollo Regional del Estado; y
 
 III.- Las dependencias y entidades de la Administración Pública Estatal conforme a las facultades que ésta y otras leyes les confieran.
 
@@ -329,9 +329,9 @@ El Subcomité y los grupos de trabajo a que se refieren las fracciones anteriore
 
 Al Subcomité de Información y a los Grupos de Trabajo se garantizará la concurrencia de los representantes de las instituciones sociales y privadas interesadas, en su carácter de proveedoras o usuarias de los propios sistemas.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-El Secretario de Planeación del Estado fungirá como Coordinador del Subcomité de Información y como Secretario Técnico de Normas en los diferentes Grupos de Trabajo.
+El Secretario de Planeación y Desarrollo Regional del Estado o quien éste designe fungirá como Coordinador del Subcomité de Información y como Secretario Técnico de Normas en los diferentes grupos de trabajo.
 
 El Director Regional del Instituto Nacional de Estadística, Geográfica e Informática fungirá como Secretario Técnico del Subcomité de Información.
 
@@ -367,11 +367,11 @@ I.- Elaborar y vigilar la ejecución de los Programas Sectoriales de Desarrollo 
 
 II.- Ser el conducto para transmitir y vigilar el cumplimiento de las normas y disposiciones de carácter general que se expidan para captar, procesar y presentar la información estadística y geográfica que se produzca en el sector.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 26.
 
-Corresponde al Secretario de Planeación del Estado como titular de la coordinación del Sistema Estatal, ejercer las siguientes atribuciones:
+Corresponde al Secretario de Planeación y Desarrollo Regional del Estado, como titular de la coordinación del Sistema Estatal, ejercer las siguientes atribuciones:
 
 I.- Coordinar y desarrollar el Servicio Estatal y, en su caso, Municipal, previo convenio de coordinación;
 
@@ -662,3 +662,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
