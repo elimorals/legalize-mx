@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2005-04-04"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -93,9 +93,9 @@ VI.- "Ley". La Ley de Presupuesto, Contabilidad y Gasto Público del Estado de A
 
 VII.- "Presupuesto". Documento aprobado por el Congreso del Estado mediante el cual se asignan recursos al Estado y a los programas por realizar en el año fiscal. De igual forma describirá, para los Poderes Legislativo y Judicial y para los Municipios, el documento debidamente aprobado por sus órganos internos, aplicable para la asignación de recursos a los programas a efectuar durante el año fiscal de que se trate;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-VIII.- "Secretaría". La Secretaría de Finanzas y de Administración del Estado;
+VIII.- "Secretaría". La Secretaría de Finanzas del Estado;
 
 IX.- "Sujetos de la Ley". Los que se indican en el artículo 1º de la Ley, así como las dependencias y entidades pertenecientes a la Administración Pública Estatal o Municipal;
 
@@ -243,9 +243,9 @@ III.- Incrementos en los montos del Servicio de la Deuda Pública motivados por 
 
 Los incrementos mencionados en las fracciones anteriores, deberán quedar plenamente justificados en la Cuenta Pública.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-ARTICULO 22 A.- Todas las Dependencias y Entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos tributarios o no tributarios, deberán coordinarse con la Secretaría de Finanzas y Administración y las Tesorerías Municipales, para que se incorporen en la Ley de Ingresos respectiva.
+ARTICULO 22 A.- Todas las Dependencias y Entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos tributarios o no tributarios, deberán coordinarse con la Secretaría de Finanzas y las Tesorerías Municipales, para que se incorporen en la Ley de Ingresos respectiva.
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
@@ -253,7 +253,9 @@ ARTICULO 22 B.- Los Presupuestos de Ingresos incluirán la expectativa de entrad
 
 Los Presupuestos de Ingresos del Gobierno del Estado y de los Municipios forman parte de su Ley de Ingresos y deberán ser presentados oportunamente:
 
-I.- Al titular del Ejecutivo por la Secretaría de Finanzas y Administración del Estado, correspondientes al Gobierno del Estado y entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los plazos y requisitos señalados en el Artículo 46 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+I.- Al titular del Ejecutivo por medio de la Secretaría de Finanzas del Estado, correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los plazos y requisitos señalados en el Artículo 46 de la Constitución Política del Estado;
 
 II.- A los Ayuntamientos por la Tesorería Municipal, correspondientes al Municipio y a las entidades de la Administración Pública Paramunicipal para ser enviados al Congreso del Estado por conducto del Presidente Municipal, en los términos de las leyes aplicables.
 
@@ -315,9 +317,7 @@ La Secretaría, Tesorería, Unidad o Comisión aplicable establecerán los linea
 
 ###### ARTICULO 31.
 
-El objetivo principal de la contabilidad de Entidades Paraestatales, Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Estado o de los Municipios y las demás personas de derecho público de carácter estatal o municipal autónomos por disposición legal, será el de proporcionar información a la sociedad, a través de sus representantes en el
-
-Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables de la materia.
+El objetivo principal de la contabilidad de Entidades Paraestatales, Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Estado o de los Municipios y las demás personas de derecho público de carácter estatal o municipal autónomos por disposición legal, será el de proporcionar información a la sociedad, a través de sus representantes en el Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables de la materia.
 
 ###### ARTICULO 32.
 
@@ -466,3 +466,13 @@ SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presen
 TERCERO.- La adecuación del Reglamento de la Ley de Obras Públicas y Servicios Relacionados con el Estado de Aguascalientes, deberá ser publicada a más tardar dentro de los sesenta días posteriores a la publicación de las presentes modificaciones a la Ley.
 
 CUARTO.- Los procedimientos de contratación y ejecución de obra pública que se hayan comenzado con anterioridad a la vigencia del presente Decreto, se concluirán en su totalidad conforme a las disposiciones legales vigentes al momento de su realización.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
