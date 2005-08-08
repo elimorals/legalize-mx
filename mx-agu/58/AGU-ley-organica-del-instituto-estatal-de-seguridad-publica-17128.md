@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-estatal-de-seguridad-publica-17128"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-06"
-last_updated: "2004-03-01"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 6 de marzo de 2000.
 
@@ -153,7 +153,9 @@ La Junta de Gobierno es el máximo órgano de Gobierno del Instituto Estatal de 
 
 La Presidencia de la Junta de Gobierno estará a cargo del Gobernador Constitucional del Estado, quién tendrá el voto de calidad en caso de empate.
 
-La Secretaría Ejecutiva estará a cargo del Subsecretario de Seguridad Pública del Estado, quien tendrá voz y voto en la misma.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+La Secretaría Ejecutiva estará a cargo del Secretario de Seguridad Pública del Estado, quien tendrá voz y voto en la misma.
 
 Los vocales de la Junta, quienes tendrán voz y voto serán: el Secretario General de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Procurador General de Justicia del Estado, el Director General del Instituto de Educación de Aguascalientes, el Director General de Seguridad Pública y Vialidad, el Director General de Reeducación Social, el Rector de la Universidad Autónoma de Aguascalientes, el Presidente de la Comisión Estatal de Derechos Humanos, el Presidente Municipal de Aguascalientes y tres representantes de los Municipios del interior del Estado.
 
@@ -219,9 +221,9 @@ VII.- Autorizar el Manual General de Organización y Métodos que elabore y pres
 
 VIII.- Aprobar, expedir o modificar el Reglamento Interior del Instituto Estatal de Seguridad Pública, así como los demás reglamentos, manuales y lineamientos internos que se requieran para la adecuada aplicación de la presente Ley;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-IX.- Aprobar el Proyecto del Presupuesto de Egresos del Instituto Estatal de Seguridad Pública que habrá de enviarse a la Secretaría de Finanzas y Administración del Gobierno del Estado;
+IX.- Aprobar el Proyecto del Presupuesto de Egresos del Instituto Estatal de Seguridad Pública que habrá de enviarse a la Secretaría de Finanzas del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
@@ -269,13 +271,13 @@ I.- Representar legalmente al Instituto Estatal de Seguridad Pública;
 
 II.- Enviar a la Junta de Gobierno para su revisión y opinión, el proyecto de creación o reformas a los Reglamentos, manuales y lineamientos internos;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-III.- Enviar al titular del Poder Ejecutivo del Estado, a través del Secretario General de Gobierno, los Reglamentos aprobados por la Junta de Gobierno, para el trámite correspondiente de publicación en el Periódico Oficial del Estado;
+III.- Enviar al titular del Poder Ejecutivo del Estado, a través del Secretario de Seguridad Pública, los Reglamentos aprobados por la Junta de Gobierno, para el trámite correspondiente de publicación en el Periódico Oficial del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-IV.- Enviar al titular del Poder Ejecutivo del Estado, a través del Secretario General de Gobierno, los proyectos de reforma a la presente Ley, para el trámite que corresponda;
+IV.- Enviar al titular del Poder Ejecutivo del Estado, a través del Secretario de Seguridad Pública, los proyectos de reforma a la presente ley, para el trámite que corresponda;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
@@ -307,9 +309,9 @@ XI.- Vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XII.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General;
+XII.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General.
 
-Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Entidades Paraestatales.
+Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Entidades Paraestatales;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
@@ -323,9 +325,9 @@ XIV.- Someter o dar cuenta a la Junta de Gobierno de los asuntos de importancia 
 
 XV.- Ejercer el presupuesto del Instituto Estatal de Seguridad Pública, de conformidad con las partidas presupuestales previamente aprobadas;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-XVI.- Remitir a la Secretaría de Finanzas y Administración los presupuestos y programas financieros del Instituto Estatal de Seguridad Pública, aprobado por la Junta de Gobierno, para los efectos a que se refiere el Artículo 41 de la Ley de Control de Entidades Paraestatales del Estado;
+XVI.- Remitir a la Secretaría de Finanzas los presupuestos y programas financieros del Instituto Estatal de Seguridad Pública, aprobados por la Junta de Gobierno, para los efectos a que se refiere el Artículo 41 de la Ley de Control de Entidades Paraestatales del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
@@ -600,3 +602,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se otorga un plazo de 90 días naturales para la expedición del reglamento de la presente ley.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
