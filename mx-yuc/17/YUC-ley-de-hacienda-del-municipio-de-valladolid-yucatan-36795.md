@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-36795"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -525,7 +525,9 @@ Barrios y Colonias $ 30.00 $ 60.00
 
 Periferias $ 20.00 $ 40.00
 
-Terrenos Rústicos $ 25.00 $ 0.00
+> <small>(REFORMADA, D.O. 8 DE AGOSTO DE 2005)</small>
+
+Terrenos Rústicos $ 0.25 $ 0.00
 
 Comisarías $ 10.00 $ 5.00
 
@@ -1788,3 +1790,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+D.O. 8 DE AGOSTO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
