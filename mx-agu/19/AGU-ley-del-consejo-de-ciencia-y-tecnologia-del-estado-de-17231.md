@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-consejo-de-ciencia-y-tecnologia-del-estado-de-17231"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2001-11-26"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -201,9 +201,9 @@ II.- Un secretario técnico, que será el Director General del Consejo.
 
 III.- Consejeros, que serán:
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-a).- El titular de cada una de las siguientes secretarías y organismos: Secretaría de Desarrollo Económico, Secretaría de Finanzas, Instituto de Educación de Aguascalientes, Secretaría de Planeación y la Coordinación de Asesores del C. Gobernador del Estado.
+a) El titular de cada una de las siguientes secretarías y organismos: Secretaría de Desarrollo Económico, Secretaría de de Finanzas, Instituto de Educación de Aguascalientes, Secretaría de Planeación y Desarrollo Regional y la Coordinación de Asesores de la Oficina del Gobernador del Estado.
 
 b).- A invitación del titular del Poder Ejecutivo:
 
@@ -458,3 +458,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1º. de enero del año 2002.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
