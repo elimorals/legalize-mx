@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2004-02-12"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR A LOS TEXTOS QUE SE VISUALIZAN DENTRO DE LAS CRONOLOGIAS CORRESPONDIENTES A DICHAS FECHAS, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -83,9 +83,9 @@ Estatales:
 
 2.- El Secretario General de Gobierno;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-3.- El Subsecretario de Seguridad Pública;
+3.- El Secretario de Seguridad Pública;
 
 4.- El Procurador General de Justicia; y
 
@@ -99,9 +99,9 @@ Municipales:
 
 3.- El titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-El Secretario General de Gobierno, el Procurador General de Justicia, el Subsecretario de Seguridad Pública, el Director General de Seguridad Pública y Vialidad y el titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de policía preventiva y tránsito, serán nombrados y removidos libremente por su superior jerárquico.
+El Secretario General de Gobierno, el Procurador General de Justicia, el Secretario de Seguridad Pública, el Director General de Seguridad Pública y Vialidad y el titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de policía preventiva y tránsito, serán nombrados y removidos libremente por su superior jerárquico.
 
 ###### ARTICULO 5o.
 
@@ -111,13 +111,13 @@ El Gobierno del Estado podrá celebrar convenios con la Federación, las Entidad
 
 Para efectos de esta Ley, se entenderá por:
 
-I.- Secretaría: a la Secretaría General de Gobierno del Estado de Aguascalientes y por Secretario, al titular de la misma;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+I.- Secretaría: a la Secretaría de Seguridad Pública del Estado de Aguascalientes y por Secretario, al titular de la misma;
 
 II.- Procuraduría: a la Procuraduría General de Justicia del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-III.- Subsecretaría: a la Subsecretaría de Seguridad Pública de la Secretaría General de Gobierno;
+III.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
 
 IV.- Dirección General: a la Dirección General de Seguridad Pública y Vialidad del Estado;
 
@@ -189,9 +189,9 @@ No formarán parte de las Corporaciones de Seguridad quienes desempeñen funcion
 
 El personal de las Corporaciones de Seguridad tiene la obligación de portar los uniformes, insignias, divisas, armas y equipo reglamentarios que les corresponda en los actos y situaciones que requiera el servicio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-La Secretaría, la Procuraduría, la Subsecretaría, la Dirección General y los Ayuntamientos según sea el caso, establecerán las normas a que se sujetará el personal de sus Corporaciones de Seguridad en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
+La Secretaría, la Procuraduría, la Dirección General y los Ayuntamientos según sea el caso, establecerán las normas a que se sujetará el personal de sus Corporaciones de Seguridad en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
 
 Los uniformes de cada Corporación deberán ostentar de manera visible la o las leyendas que las diferencie e identifique plenamente.
 
@@ -281,9 +281,9 @@ II.- El Secretario General de Gobierno del Estado;
 
 III.- El Procurador General de Justicia del Estado;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-IV.- El Subsecretario de Seguridad Pública del Estado;
+IV.- El Secretario de Seguridad Pública del Estado;
 
 V.- El Director General de Seguridad Pública y Vialidad del Estado;
 
@@ -363,11 +363,11 @@ Cuando para la aprobación y ejecución de las resoluciones o acuerdos se compre
 
 ### CAPITULO III. De la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 28.
 
-El Consejo tendrá un Secretario Ejecutivo que será el Subsecretario de Seguridad Pública de la Secretaría General de Gobierno, quien participará sólo con voz en las sesiones del mismo.
+El Consejo tendrá un Secretario Ejecutivo que será el Secretario de Seguridad Pública, quien participará sólo con voz en las sesiones del mismo.
 
 ###### ARTICULO 29.
 
@@ -435,9 +435,9 @@ II.- El Secretario General de Gobierno del Estado;
 
 III.- El Procurador General de Justicia del Estado;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-IV.- El Subsecretario de Seguridad Pública;
+IV.- El Secretario de Seguridad Pública;
 
 V.- El Director General de Seguridad Pública y Vialidad del Estado;
 
@@ -591,61 +591,87 @@ Las funciones de prevención del delito, vialidad y tránsito se regirán por lo
 
 La prevención del delito corresponde en forma coordinada al Estado y a los Municipios, cada uno con sus propios recursos en los términos de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2005)</small>
 
-### CAPITULO II. De la Subsecretaría de Seguridad Pública
+### CAPITULO II. De la Secretaría de Seguridad Pública
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-ARTICULO 50 A.- La Subsecretaría de Seguridad Pública, adscrita a la Secretaría General de Gobierno del Poder Ejecutivo del Estado, es la autoridad intermedia entre el titular de la Secretaría y las Direcciones Generales, con funciones substantivas y operativas, y por ende el mando superior de éstas, a quien corresponde la organización de la defensa y prevención social contra la delincuencia, así como de la administración de los centros de reeducación social.
+ARTICULO 50 A.- La Secretaría de Seguridad Pública es la autoridad con funciones substantivas y operativas, y por ende el mando superior de éstas, a quien corresponde la organización de la defensa y prevención social contra la delincuencia, así como de la administración de los centros de reeducación social.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-ARTICULO 50 B.- Son atribuciones de la Subsecretaría las siguientes:
+ARTICULO 50 B.- Son atribuciones de la Secretaría las siguientes:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 I.- Acordar con el Secretario General de Gobierno lo relacionado con el cumplimiento de los programas, objetivos y estrategias correspondientes a las unidades administrativas bajo su adscripción;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 II.- Formular, conducir, operar y evaluar la política en materia de seguridad pública y vialidad del Estado, a fin de salvaguardar la integridad y derechos de las personas, garantizando la tranquilidad social de sus habitantes;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 III.- Ordenar se preste auxilio a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios, cuando sea requerida y proceda conforme a la Ley;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 IV.- Establecer las estrategias operativas para la prevención del delito conforme a las necesidades que generen los índices delictivos;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 V.- Coordinar las acciones que en materia de seguridad pública y vialidad el titular del Poder Ejecutivo del Estado convenga con los municipios, las autoridades federales, y las de otras Entidades Federativas, a efecto de cumplir con las disposiciones legales y programas aplicables;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 VI.- Participar, en su calidad de Secretaría Ejecutiva en el Consejo y en la Junta de Gobierno del Instituto;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 VII.- Autorizar a particulares la prestación de servicios de seguridad privada;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 VIII.- Coordinar y supervisar la prestación de servicios de Seguridad Privada en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 IX.- Ordenar anualmente, la publicación en el Periódico Oficial del Estado la relación de las empresas de Seguridad Privada autorizadas;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 X.- Celebrar Convenios de Coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 XI.- Las demás que le confieran la presente Ley y otros ordenamientos jurídicos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-ARTICULO 50 C.- El titular del Poder Ejecutivo del Estado en los casos que juzgue como de fuerza mayor o alteración grave del orden público en uno o varios Municipios, por sí o por medio de la Subsecretaría, podrá hacerse cargo de las fuerzas de prevención del delito existentes en los Municipios mientras prevalezca la causa que originó el conflicto, o se restablezca el orden y la tranquilidad pública.
+ARTICULO 50 C.- El titular del Poder Ejecutivo del Estado en los casos que juzgue como de fuerza mayor o alteración grave del orden público en uno o varios Municipios, por sí o por medio de la Secretaría, podrá hacerse cargo de las fuerzas de prevención del delito existentes en los Municipios mientras prevalezca la causa que originó el conflicto, o se reestablezca el orden y la tranquilidad pública.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 Del ejercicio de esta facultad el titular del Ejecutivo informará al Congreso del Estado.
 
-Esta misma facultad podrá ejercerla cuando exista manifiesta imposibilidad de algún Municipio para la prestación de la función de prevención del delito, a solicitud de los Ayuntamientos.
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 50 D.- Para efectos de los operativos que deban implementarse de manera conjunta entre las distintas Corporaciones de Prevención del Delito, el titular de la Subsecretaría tendrá a su cargo la coordinación en la materia, sin que ello implique subordinación. Asimismo, conocerá de los informes que diariamente deberán de presentarle sobre las novedades acontecidas en cada uno de los Municipios.
+Esta misma facultad podrá ejercerla cuando exista manifiesta imposibilidad de algún Municipio para la prestación de la función de prevención del delito, a solicitud de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+ARTICULO 50 D.- Para efectos de los operativos que deban implementarse de manera conjunta entre las distintas Corporaciones de Prevención del Delito, el titular de la Secretaría tendrá a su cargo la coordinación en la materia, sin que ello implique subordinación. Asimismo, conocerá de los informes que diariamente deberán de presentarle sobre las novedades acontecidas en cada uno de los Municipios.
 
 Las Corporaciones de Prevención del Delito, con objeto de coordinar sus políticas operativas deberán reunirse por lo menos una vez dentro del mes.
 
 ### CAPITULO III. De la Dirección General de Seguridad Pública y Vialidad del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 51.
 
-La Dirección General de Seguridad Pública y Vialidad es una Dependencia del Poder Ejecutivo del Estado, adscrita a la Subsecretaría de Seguridad Pública de la Secretaría General de Gobierno, que tiene como objetivos prevenir la comisión de delitos y la violación a las leyes, reglamentos y demás disposiciones jurídicas en el ámbito estatal, con la coordinación y respeto a las competencias estatales y municipales que establecen la Constitución General de la República y la Constitución Política del Estado.
+La Dirección General de Seguridad Pública y Vialidad es una Dependencia del Poder Ejecutivo del Estado, adscrita a la Secretaría de Seguridad Pública, que tiene como objetivos prevenir la comisión de delitos y la violación a las leyes, reglamentos y demás disposiciones jurídicas en el ámbito estatal, con la coordinación y respeto a las competencias estatales y municipales que establecen la Constitución General de la República y la Constitución Política del Estado.
 
 La fuerza operativa de la Dirección General tendrá la denominación de Policía Estatal cuya función será la vigilancia y prevención del delito en las carreteras estatales y caminos vecinales, así como coadyuvar con los Municipios en la prestación de los servicios de prevención del delito, vialidad y tránsito en los casos en que los Municipios así lo soliciten.
 
@@ -653,9 +679,9 @@ La fuerza operativa de la Dirección General tendrá la denominación de Policí
 
 Son atribuciones de la Dirección General, sin perjuicio de las determinadas en esta y otras disposiciones legales, las siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-I.- Acordar con el Subsecretario de Seguridad Pública de la Secretaría General de Gobierno, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo;
+I.- Acordar con el Secretario de Seguridad Pública, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo;
 
 II.- Vigilar y cuidar el orden público en el territorio del Estado para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que de acuerdo con la normatividad municipal realicen las funciones de Policía Preventiva y Tránsito;
 
@@ -673,9 +699,9 @@ V.- Proponer las estrategias operativas para la prevención del delito conforme 
 
 VI.- Vigilar permanentemente áreas de alto índice de criminalidad;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-VII.- Supervisar por instrucciones de la Subsecretaría la prestación de servicios de seguridad privada, a cargo de personas físicas o morales;
+VII.- Supervisar por instrucciones de la Secretaría la prestación de servicios de seguridad privada, a cargo de personas físicas o morales;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -683,7 +709,7 @@ VIII.- Ejercer el mando del H. Cuerpo de Bomberos del Estado;
 
 IX.- Coordinarse con otras Corporaciones de Seguridad Municipales, Estatales y Federales para prestarles auxilio cuando las necesidades del servicio así lo requieran;
 
-X.- Participar, en su calidad de Secretaría Ejecutiva en la Junta de Gobierno del Instituto;
+X.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
 
 XI.- Recibir, analizar y en su caso, autorizar, las solicitudes de la prestación de servicios de Seguridad Privada que personas físicas o morales presenten;
 
@@ -829,11 +855,11 @@ Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de
 
 ### CAPITULO III. De los Registros en Seguridad Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 71.
 
-La Secretaría, la Procuraduría, la Subsecretaría, la Dirección General, los Municipios y las empresas de Seguridad Privada, en acuerdo con su ámbito de competencia, integrarán las bases de datos para la composición de los diversos registros del Sistema Estatal de Seguridad Pública en los siguientes rubros:
+La Secretaría, la Procuraduría, la Dirección General, los Municipios y las empresas de Seguridad Privada, en acuerdo con su ámbito de competencia, integrarán las bases de datos para la composición de los diversos registros del Sistema Estatal de Seguridad Pública en los siguientes rubros:
 
 1. Personal de Seguridad Pública;
 
@@ -1382,3 +1408,13 @@ CUARTO.- Lo establecido en el párrafo último del Artículo 22 de la presente L
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
