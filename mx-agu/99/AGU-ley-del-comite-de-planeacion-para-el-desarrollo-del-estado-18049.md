@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-comite-de-planeacion-para-el-desarrollo-del-estado-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-17"
-last_updated: "2001-11-26"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de julio de 2000.
 
@@ -53,9 +53,9 @@ El Comité, para el adecuado cumplimiento de sus atribuciones, se integrará de 
 
 I.- Presidente, el C. Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-II.- Coordinador General, será el Secretario de Planeación del Estado;
+II.- Coordinador General, será el Secretario de Planeación y Desarrollo Regional del Estado;
 
 III.- Secretario Técnico, el C. Delegado Estatal de la Secretaría de Desarrollo Social;
 
@@ -113,11 +113,11 @@ XI.- Acordar el establecimiento de subcomités sectoriales, regionales y especia
 
 ### CAPITULO III. De la Coordinación General del Comité
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 4º.
 
-Corresponderá al Secretario de Planeación del Estado, fungir como Coordinador General del Comité; en el marco de sus atribuciones deberá proponer, coordinar y ejecutar las actividades necesarias para dar cumplimiento a los fines y facultades del Comité contemplados en esta Ley y en las demás leyes y reglamentos del Estado.
+Corresponderá al Secretario de Planeación y Desarrollo Regional del Estado, fungir como Coordinador General del Comité; en el marco de sus atribuciones deberá proponer, coordinar y ejecutar las actividades necesarias para dar cumplimiento a los fines y facultades del Comité contemplados en esta Ley y en las demás leyes y reglamentos del Estado.
 
 ###### ARTICULO 5º.
 
@@ -186,3 +186,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1º. de enero del año 2002.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
