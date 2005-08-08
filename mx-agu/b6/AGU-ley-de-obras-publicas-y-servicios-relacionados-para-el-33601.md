@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2005-04-04"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -85,7 +85,9 @@ VI. Sujetos de la Ley: Los que se indican en el Articulo 1° de esta Ley;
 
 VII. Secretaría: La Secretaría de Obras Públicas del Estado;
 
-VIII. Seplan: La Secretaría de Planeación del Estado;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+VIII.- SEPLADE: La Secretaría de Planeación y Desarrollo Regional del Estado;
 
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -201,15 +203,17 @@ VII.- Las características ambientales, climáticas y geográficas de la región
 
 VIII.- El banco de datos de las obras ejecutadas y de los proyectos ejecutivos.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-Esta planeación deberá desarrollarse entre los Sujetos de la Ley operadores y los normativos, en coordinación con la Seplan o su similar en los municipios, debiendo contar con ésta a más tardar el 31 de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquéllas que se logren incluir en el escenario por la obtención de recursos adicionales podrán adicionarse posteriormente a esta fecha, pero siempre antes del 30 de noviembre del ejercicio fiscal en que se autoricen.
+Esta planeación deberá desarrollarse entre los Sujetos de la Ley y operadores y normativos, en coordinación con la SEPLADE o su similar en los municipios, debiendo contar con ésta a mas tardar el 31 de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquellas que se logren incluir en el escenario por la obtención de recursos adicionales podrán adicionarse posteriormente a esta fecha, pero siempre antes del 30 de noviembre del ejercicio fiscal en que se autoricen.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-Los Sujetos de la Ley, en el ámbito de su competencia y tomando en cuenta la planeación mencionada en el Artículo anterior, así como a la Seplan o su equivalente a nivel municipal, formularán sus programas anuales de obras públicas y de servicios relacionados con las mismas, así como sus respectivos presupuestos, tomando en cuenta lo siguiente:
+Los Sujetos de la Ley, en el ámbito de su competencia y tomando en cuenta la planeación mencionada en el Artículo anterior, así como a la SEPLADE o su equivalente a nivel municipal, formularán sus programas anuales de obras públicas y de servicios relacionados con las mismas, así como sus respectivos presupuestos, tomado en cuenta lo siguiente:
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
 I.- La programación anual, por obra pública o servicio relacionado con la misma, deberá considerar:
 
@@ -218,6 +222,8 @@ a. La calendarización de las obras públicas y servicios relacionados;
 b. Los Sujetos de la Ley responsables de la ejecución de los trabajos, así como las fechas previstas de iniciación y terminación de los mismos;
 
 c. La coordinación entre Sujetos de la Ley que sea necesaria para resolver posibles interferencias y evitar la duplicidad de trabajos o la interrupción de los servicios
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
 II.- La presupuestación, la cual se realizará, para efectos de este Artículo, a nivel de estimado de costos, deberá considerar:
 
@@ -230,6 +236,8 @@ c. Una cuenta para contingencias y provisiones;
 d. El recurso necesario para investigaciones, asesorías, consultorías y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios;
 
 e. El monto en caso de regularización y adquisición de la tenencia de la tierra, así como para la obtención de los permisos de construcción, autorizaciones y licencias que se requieran;
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
 Las acciones contenidas en las fracciones anteriores, deberán ser realizadas por los Sujetos de la Ley que correspondan, conforme se establece en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, o su equivalente a nivel municipal, y demás disposiciones aplicables.
 
@@ -257,15 +265,21 @@ Los Sujetos de la Ley que realicen obras públicas y servicios relacionados con 
 
 Los Sujetos de la Ley, previamente a la realización de las obras públicas deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía, expropiación de inmuebles, derechos de bancos de materiales cuando sea el caso, y demás autorizaciones que se requieran. Las autoridades competentes deberán otorgar a los Sujetos de la Ley que realicen obras públicas las facilidades necesarias para su ejecución.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 19.
 
-No podrán continuar ejecutándose las obras públicas y los servicios relacionados con las mismas de aquellas obras o servicios que no cuenten con saldo en su techo financiero autorizado. En caso de contar con saldo en su techo financiero autorizado, podrá continuarse con la ejecución de la obra o servicio programado aunque su conclusión rebase dicho ejercicio fiscal. En este caso, los recursos autorizados para la conclusión de la obra o servicio relacionado con la misma, se considerarán como ejercidos y deberán ser otorgados por el Congreso o el Cabildo en sus presupuestos de Egresos del ejercicio fiscal siguiente, debiéndose destinar al pago de la obra o prestación de servicio sin necesidad de que se tenga que realizar un nuevo procedimiento de adjudicación previsto en el artículo 26 de esta Ley.
+La programación y ejecución de las obras públicas y los servicios relacionados con las mismas no podrán rebasar un ejercicio presupuestal, salvo que se cuente con autorización de la Secretaría de Finanzas del Estado, la Tesorería Municipal, o su equivalente, según sea el caso, en los términos del Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto Público.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
 El monto total de las obras señaladas en el párrafo anterior no deberá exceder del 25% del monto autorizado en ese ejercicio fiscal y deberá informarse al Congreso o Cabildo, según corresponda, para su inclusión en el Presupuesto de Egresos del Ejercicio Fiscal siguiente.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+
 En el caso de aquellas obras públicas o servicios relacionados con las mismas que se contemple que requieran recursos por más de un ejercicio presupuestal, deberá determinarse el presupuesto total de la obra y los presupuestos que correspondan a cada uno de los ejercicios de que se trate. Para los presupuestos de los ejercicios subsecuentes, deberán tomarse en cuenta los costos que en su momento se encuentren vigentes, las medidas previsibles para los ajustes de costos y, en su caso, los convenios de ampliación que aseguren la continuidad y terminación de los trabajos.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
 En el caso del párrafo anterior, se pedirá la autorización del Congreso del Estado o del Cabildo Municipal, según corresponda, para que en su caso quede autorizada la afectación de los ejercicios subsecuentes.
 
@@ -289,9 +303,11 @@ No podrán celebrarse contratos de servicios relacionados que tengan por objeto 
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 23.
 
-Los Sujetos de la Ley podrán convocar, licitar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la autorización por obra por parte de la Seplan, o del órgano municipal competente, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes.
+Los Sujetos de la Ley podrán convocar, licitar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la autorización por obra por parte de la SEPLADE o del órgano municipal competente, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes.
 
 Además se requerirá contar con los estudios, proyectos y especificaciones de construcción, normas de calidad así como el programa de ejecución totalmente terminados o bien con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
 
@@ -301,11 +317,17 @@ En los casos previstos por las fracciones II, VIII y IX del Artículo 46 de esta
 
 Los servidores públicos que autoricen en contravención a lo dispuesto en este Artículo, se harán acreedores a las sanciones que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+###### Artículo 23 Bis.
+
+Los Sujetos de la Ley ejecutores de la obra pública, posterior a la presentación de la propuesta del programa anual de obre pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquel en que se vayan a ejecutar los trabajos, podrán elaborar los expedientes técnicos y remitirlos a SEPLADE o su equivalente a nivel municipal, para su análisis y probable aprobación, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública en el ejercicio fiscal anterior al de la ejecución de los trabajos, de los cuales se podrá llevar a cabo el proceso de adjudicación de contrato, debiendo cumplir con la forma y plazos indicados en esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+La SEPLADE o su similar en los municipios, en caso de que los expedientes técnicos cumplan con lo estipulado en esta Ley y en su Reglamento y previendo que se contará con recursos suficientes, en opinión de la Secretaría de Finanzas o su similar en los municipios, procederá a la autorización correspondiente.
+
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
-
-Artículo 23 bis.- Los Sujetos de la Ley ejecutores de la obra pública, posterior a la presentación de la propuesta del programa anual de obra pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquél en que se vayan a ejecutar los trabajos, podrán elaborar los expedientes técnicos y remitirlos a Seplan o su equivalente a nivel municipal, para su análisis y probable aprobación, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública en el ejercicio fiscal anterior al de la ejecución de los trabajos, de los cuales se podrá llevar a cabo el proceso de adjudicación de contrato, debiendo cumplir con la forma y plazos indicados en esta Ley.
-
-La Seplan o su similar en los municipios, en caso de que los expedientes técnicos cumplan con lo estipulado en esta Ley y en su Reglamento y previendo que se contará con recursos suficientes, en opinión de la Secretaría de Finanzas o su similar en los municipios, procederá a la autorización correspondiente.
 
 Lo dispuesto en el presente artículo no será aplicable para el Gobierno del Estado y los Ayuntamientos en el último año de sus periodos constitucionales.
 
@@ -347,7 +369,9 @@ II. Invitación restringida a cuando menos cinco licitantes, para obra pública,
 
 III. Asignación directa por cotización a cuando menos tres participantes, para obra pública, cuando el monto de los trabajos se encuentre entre cinco mil y quince mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado; para servicios relacionados con la obra pública cuando el monto de los trabajos se encuentre entre tres mil y ocho mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado;
 
-IV. Asignación directa, para obra pública, cuando el monto de los trabajos sea menor a cinco mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado, para servicios relacionados con la obra pública cuando el monto de los trabajos sea menor a tres mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado, lo anterior siempre y cuando no se rebase, en esta modalidad, en su conjunto el veinte por ciento del monto total asignado por Sujeto de la Ley, en términos de la información que para tal efecto proporcione la Seplan, o su similar en el ámbito municipal. En caso de rebasar los límites referidos, se deberá proceder conforme a lo establecido en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+IV.- Asignación directa, para obra pública, cuando el monto de los trabajos sea menor a cinco mil veces el salario mínimo general diario vigente en el Estado antes del impuesto al valor agregado, para servicios relacionados con la obra pública cuando el monto de los trabajos sea menor a tres mil veces el, salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado, lo anterior siempre y cuando no se rebase, en esta modalidad, en su conjunto el veinte por ciento del monto total asignado por Sujeto de la Ley, en términos de la información que para tal efecto proporcione la SEPLADE, o su similar en el ámbito municipal. En caso de rebasar los límites referidos, se deberá proceder conforme a lo establecido en las fracciones anteriores.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazo de ejecución, normalización aplicable en términos de la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
@@ -1225,7 +1249,9 @@ En la ejecución de obras por administración directa serán aplicables en lo co
 
 La forma y términos que los Sujetos de la Ley deberán remitir a la Contraloría y demás instancias que corresponda, la información relativa a los actos y contratos materia de esta Ley, serán establecidos de manera sistemática y coordinada por dichas instancias, en el ámbito de sus respectivas atribuciones.
 
-Para tal efecto, los Sujetos de la Ley conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la finalización formal de los trabajos; en el caso de la documentación contable se estará a lo dispuesto en el Código Fiscal del Estado de Aguascalientes. Para el caso de las dependencias de Gobierno del Estado, la Secretaría de Finanzas y Administración será la responsable de este último punto.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Para tal efecto, los Sujetos de la Ley conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la finalización formal de los trabajos; en el caso de la documentación contable de estará a lo dispuesto en el Código Fiscal del Estado de Aguascalientes. Para el caso de las dependencias de Gobierno del Estado, la Secretaría de Finanzas será la responsable de este último punto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -1446,3 +1472,13 @@ SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presen
 TERCERO.- La adecuación del Reglamento de Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, deberá ser publicada a más tardar dentro de los sesenta días posteriores a la publicación de las presentes modificaciones a la Ley.
 
 CUARTO.- Los procedimientos de contratación y ejecución de obra pública que se hayan comenzado con anterioridad a la vigencia del presente Decreto, se concluirán en su totalidad conforme a las disposiciones legales vigentes al momento de su realización.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
