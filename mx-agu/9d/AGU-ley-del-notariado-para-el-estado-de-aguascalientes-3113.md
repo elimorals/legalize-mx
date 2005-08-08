@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "1992-12-13"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -799,9 +799,9 @@ El monto de la fianza a que se refiere la fracción I del artículo anterior, se
 
 a).- Por la cantidad que corresponde y en forma preferente al pago de multas u otras responsabilidades administrativas, cuando ante la negativa del notario, se deba hacer el pago forzoso a la Secretaría de Finanzas u otras dependencias fiscales.
 
-b).- En el orden determinado por la autoridad judicial, cuando se deba cubrir a un particular el monto fijado en sentencia firme condenatoria por responsabilidad civil en contra de un notario.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-Para tal efecto, se deberá exhibir copia certificada de la sentencia mencionada en la Tesorería General del Estado.
+b).- En el orden determinado por la autoridad judicial, cuando se deba cubrir a un particular el monto fijado en sentencia firme condenatoria por responsabilidad civil en contra de un notario. Para tal efecto, se deberá exhibir copia certificada de la sentencia mencionada en la Secretaría de Finanzas del Estado.
 
 ###### ARTICULO 100.
 
@@ -1076,3 +1076,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
