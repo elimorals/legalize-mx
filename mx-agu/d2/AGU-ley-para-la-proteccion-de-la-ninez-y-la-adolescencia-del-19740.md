@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-la-ninez-y-la-adolescencia-del-19740"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-05"
-last_updated: "2001-02-05"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCION DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 5 de febrero de 2001.
 
@@ -661,7 +661,9 @@ IV.- El Procurador de la Defensa del Menor y la Familia; y
 
 V.- Los representantes de asociaciones, fundaciones u organizaciones no gubernamentales designados por el Presidente del Consejo.
 
-Además, se podrá invitar a las sesiones, en caso de que el asunto a tratar amerite la intervención del titular o un representante de las siguientes entidades: Secretarías de Desarrollo Social y Económico, Instituto de Educación de Aguascalientes, Instituto de Salud del Estado de Aguascalientes, Instituto Cultural de Aguascalientes, Instituto Aguascalentense del Deporte, Procuraduría General de Justicia en el Estado, Dirección General del Trabajo de la Secretaría General de Gobierno, Direcciones Generales de Seguridad Pública Estatal y Municipales y del Fideicomiso "Ayuda a un Niño".
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+Además, se podrá invitar a las sesiones, en caso de que el asunto a tratar amerite la intervención del titular o un representante de las siguientes entidades: Secretarías de Desarrollo Social y Económico, Instituto de Educación de Aguascalientes, Instituto de Salud del Estado de Aguascalientes, Instituto Cultural de Aguascalientes, Instituto Aguascalientes del Deporte, Procuraduría General de Justicia en el Estado, Dirección General del Trabajo de la Secretaría General de Gobierno, Secretaría de Seguridad Pública, Dirección General de Seguridad Pública Municipal y del Fideicomiso “Ayuda a un Niño”.
 
 Los integrantes del Consejo formalmente designados, tendrán el derecho de voz y voto, los invitados solamente participarán con voz.
 
@@ -894,3 +896,15 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
