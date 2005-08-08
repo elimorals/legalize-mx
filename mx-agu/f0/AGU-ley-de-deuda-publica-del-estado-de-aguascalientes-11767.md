@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2003-10-13"
+last_updated: "2005-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -95,7 +95,9 @@ VI. Municipio o Municipios.- El o los municipios que se encuentren dentro del te
 
 VII.- Ley.- La Ley de Deuda Pública del Estado de Aguascalientes;
 
-VIII.- La Secretaría de Finanzas y Administración.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+
+VIII.- Secretaría.- La Secretaría de Finanzas del Gobierno del Estado de Aguascalientes;
 
 IX.- Financiamiento.- La contratación de créditos y empréstitos motivados en:
 
@@ -151,9 +153,9 @@ III.- Los Financiamientos se destinarán invariablemente a inversiones públicas
 
 IV.- Los financiamientos deberán ser congruentes con los objetivos y previsiones contenidos en las Leyes de Ingresos, Presupuestos de Egresos, Ley de Coordinación Fiscal Estatal, Ley de Presupuesto, Contabilidad y Gasto Público y programas estatales, municipales e institucionales;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría de Finanzas y Administración establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2º;
+V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2º.;
 
 VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obtener las condiciones mejores en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia; y
 
@@ -259,9 +261,9 @@ IX.- Llevar el registro de las obligaciones de Deuda Pública derivadas de la co
 
 X.- Expedir por medio del Registro Estatal de Deuda Pública los certificados de afectación de los ingresos estatales, municipales o de fondos federales repartibles e ingresos coordinados cuando el Estado o los municipios los otorguen como garantía y pagar a los acreedores por el incumplimiento de las obligaciones a cargo de las entidades, de acuerdo al mecanismo establecido en el Artículo 30 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-XI.- Emitir bonos, títulos de deuda e instrumentos bursátiles, en términos de lo dispuesto por el artículo 24 de esta Ley, y en ejercicio de las atribuciones que en la materia prevé la Ley Orgánica de la Administración Pública del Estado y el Reglamento Interior de la Secretaría de Finanzas y Administración; y
+XI.- Emitir bonos, títulos de deuda e instrumentos bursátiles, en términos de lo dispuesto por el Artículo 24 de esta Ley; y en ejercicio de las atribuciones que en la materia prevé la Ley Orgánica de la Administración Pública del Estado y el Reglamento Interior de la Secretaría; y
 
 XII.- Las demás facultades que le confieren la Constitución Política del Estado de Aguascalientes y otras disposiciones aplicables.
 
@@ -540,3 +542,13 @@ Lic. Jesús Orozco Castellanos.
 P.O. 13 DE OCTUBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
