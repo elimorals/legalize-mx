@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2003-02-10"
+last_updated: "2005-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -171,7 +171,9 @@ f).- Instituto de Educación del Estado de Aguascalientes;
 
 g).- Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes;
 
-h).- Secretaría de Planeación;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+
+h).- Secretaría de Planeación y Desarrollo Regional;
 
 i).- Procuraduría General de Justicia del Estado de Aguascalientes;
 
@@ -179,9 +181,9 @@ III.- (DEROGADA, P.O. 10 DE FEBRERO DE 2003)
 
 IV.- Cuatro mujeres ciudadanas mexicanas en pleno ejercicio de sus derechos, que provengan de organizaciones sindicales, campesinas, no gubernamentales, empresariales, asociaciones o sociedades civiles o mercantiles, o bien, profesoras e investigadoras, representativas en la docencia, investigación, de instituciones públicas, profesionistas, empleadas y en general, mujeres representativas de los diferentes sectores de la sociedad que hayan realizado trabajos a favor de las mujeres y que garanticen la pluralidad de ideas.
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-V.- Un integrante de la Comisión de Equidad entre Hombres y Mujeres del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno;
+V.- Un integrante de la Comisión de Equidad Social y Humana del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno.
 
 Salvo el titular del Poder Ejecutivo, los demás integrantes actuarán como vocales.
 
@@ -754,3 +756,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las vocales miembros de la Junta de Gobierno en funciones, continuarán en el ejercicio de su cargo hasta concluir el período para el que fueron designadas.
 
 TERCERO.- El integrante de la Comisión de Equidad entre Hombres y Mujeres del H. Congreso del Estado, que debe formar parte de la Junta de Gobierno, se incorporará en la sesión inmediata siguiente a que sea citada la Junta de Gobierno, a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
