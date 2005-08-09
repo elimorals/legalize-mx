@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transparencia-y-acceso-a-la-informacion-de-la-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-12"
-last_updated: "2004-11-12"
+last_updated: "2005-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el viernes 12 de noviembre de 2004.
 
@@ -299,7 +299,7 @@ Las resoluciones que expida el titular de la Primera Visitaduría, en la materia
 
 ###### Artículo 31.
 
-Transcurrido un año de que el titular de la Primera Visitaduría expidió la resolución que confirmó la decisión del Comité, el recurrente podrá solicitar ante el titular de la misma Visitaduría que considere la resolución. Dicha reconsideración deberá referirse a la misma solicitud y tendrá que resolverse en un plazo máximo de 45 días hábiles
+(DEROGADO, G.G. 9 DE AGOSTO DE 2005)
 
 ## Título V
 
@@ -352,3 +352,15 @@ SECRETARIO DEL CONSEJO
 TOMAS TRUJILLO FLORES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 9 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente Reglamento en la Gaceta de Gobierno del Estado de México, así como en el Órgano Informativo de la Comisión.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La observancia de este reglamento es obligatoria para todos aquellos que manejan información pública y datos personales, por lo tanto, las áreas administrativas que posean sistemas de datos personales, deberán hacerlo del conocimiento del titular de la Primera Visitaduría, dentro de los 30 días hábiles siguientes a la entrada en vigor de este Reglamento.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
