@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-junta-local-de-conciliacion-y-26598"
 country: "mx"
 rank: "reglamento"
 publication_date: "1974-03-06"
-last_updated: "1974-03-06"
+last_updated: "2005-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 6 de marzo de 1974.
 
@@ -562,3 +564,13 @@ Juan Domínguez Ramírez
 EL SECRETARIO GENERAL DE LA JUNTA LOCAL
 
 Lic. Alfredo de la Torre y Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el. Periódico Oficial "Tierra y Libertar" del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abrogan al (sic) Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Estado de Morelos, publicado el 6 de marzo de 1974 y todos los acuerdos y disposiciones plenarias que se opongan al presente reglamento.
+
+TERCERO.- El Presidente de la Junta deberá realizar las gestiones necesarias ante las instancias administrativas correspondientes para que la estructura actual de la junta se modifique de acuerdo con lo previsto en el presente reglamento.
