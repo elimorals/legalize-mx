@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2005-07-10"
+last_updated: "2005-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2005.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -123,7 +123,7 @@ El impuesto predial sobre la propiedad urbana se causará:
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-a). A razón del 2.0 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitacion.
+a). A razón del 2.0 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -201,7 +201,7 @@ Se considera vivienda de interés social aquella que su costo de adquisición no
 
 ###### Artículo 14.
 
-No se causara este impuesto en las adquisiciones de inmuebles del dominio publico de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
+No se causara este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
 
 ###### Artículo 15.
 
@@ -245,7 +245,7 @@ En los casos de permuta, se considera que se efectúa una adquisición por cada 
 
 ###### Artículo 16.
 
-El valor del inmueble que se considera para los efectos del articulo 13 de esta ley, será la siguiente:
+El valor del inmueble que se considera para los efectos del artículo 13 de esta ley, será la siguiente:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -631,7 +631,7 @@ en ningún caso los derechos a que se refiere este artículo podrán ser mayores
 
 ###### Artículo 41.
 
-Para el cobro de los derechos que establece el articulo anterior, se observarán las siguientes reglas:
+Para el cobro de los derechos que establece el artículo anterior, se observarán las siguientes reglas:
 
 I. Cuando el mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas.
 
@@ -929,7 +929,7 @@ II. En los casos de la construcción de banquetas y guarniciones, los derechos s
 
 III. Cuando se trate de pavimentos, los derechos serán causados en la siguiente forma:
 
-a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente.
+a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía publica que se pavimente.
 
 El monto de los derechos se determinara multiplicando la cuota unitaria que corresponda, atendiendo el costo del pavimento construido por el numero de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del arroyo y el producto por el numero de metros lineales del frente de cada predio.
 
@@ -1423,7 +1423,9 @@ IV. (DEROGADA, B.O. 10 DE JULIO DE 2005)
 
 V. Por instalaciones aéreas por cada 10 metros lineales anualmente 1 día salario mínimo.
 
-VI. Por instalaciones subterráneas por cada 10 metros lineales anualmente 1 día de salario mínimo.
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2005)</small>
+
+V (sic).- Por instalaciones visibles o no subterráneas por cada 10 metros lineales anualmente 1 día salario mínimo.
 
 VII. Por instalaciones de registros, cajas de válvulas y otras estructuras anualmente 3 días salario mínimo por cada uno.
 
@@ -2078,3 +2080,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 10 DE JULIO DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE AGOSTO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
