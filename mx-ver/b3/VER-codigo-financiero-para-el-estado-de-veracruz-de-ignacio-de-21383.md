@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2005-08-05"
+last_updated: "2005-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1325,13 +1325,15 @@ II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisd
 
 III. Presentar copia del dictamen ante la autoridad fiscal estatal para efectos del impuesto sobre nóminas, cuando conforme a lo establecido en el Código Fiscal de la Federación, los contribuyentes estén obligados o hayan optado por dictaminar sus estados financieros por Contador Público autorizado. La copia del dictamen deberá presentarse dentro de los ocho meses siguientes a la terminación del ejercicio que se dictamine conforme a lo dispuesto en el Código Fiscal de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 105.
 
-La recaudación total, proveniente del impuesto a que se refiere este capítulo, se destinará a financiar gasto público, en el rubro de obra pública.
+La recaudación total proveniente del impuesto a que se refiere este capítulo, se destinará como base de garantía liquida en el otorgamiento de créditos para las micro, pequeñas y medianas empresas y al financiamiento del gasto público en los rubros de obra pública e inversión de capital para salvaguardar la protección civil en una o varias regiones o zonas de la entidad.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2005)</small>
 
-Al efecto, el Gobierno del Estado constituirá un fideicomiso público, al que destinará el 100% de la recaudación que se obtenga por este impuesto. El Comité Técnico del fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la Entidad, de los cuales el Poder Ejecutivo y el sector privado tendrán igual número de representantes, ajustándose en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado, y estará facultado para conocer y, en su caso aprobar y controlar los proyectos de obra pública que se sometan a su consideración, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
+Al efecto, el Gobierno del Estado constituirá un fideicomiso al que se destinará el 100% de la recaudación obtenida por este impuesto. El Comité Técnico del Fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la entidad. En el Comité el Poder Ejecutivo y el sector privado tendrán igual número de representantes y se ajustarán en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado. Además estará facultado para conocer y, en su caso, aprobar y controlar los proyectos de obras y acciones públicas, así como fijar el monto destinado al otorgamiento de créditos que se sometan a su aprobación, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE JULIO DE 2003)</small>
 
@@ -8270,3 +8272,9 @@ Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la
 Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
 
 Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 10 DE AGOSTO DE 2005.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
