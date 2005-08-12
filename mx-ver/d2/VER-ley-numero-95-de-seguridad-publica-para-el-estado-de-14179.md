@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-95-de-seguridad-publica-para-el-estado-de-14179"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-17"
-last_updated: "2004-08-24"
+last_updated: "2005-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de enero de 1998.
 
@@ -497,7 +497,7 @@ Los servicios de seguridad privada sólo podrán prestarse en las siguientes mod
 
 ###### Artículo 50.
 
-La Dirección General de Seguridad Pública del Estado, contará con un área encargada de la prestación de servicios de seguridad privada que se denominará Sistema de Seguridad Industrial, Bancaria y Comercial.
+(DEROGADO, G.O. 12 DE AGOSTO DE 2005)
 
 ###### Artículo 51.
 
@@ -624,3 +624,17 @@ G.O. 24 DE AGOSTO DE 2004.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+G.O. 12 DE AGOSTO DE 2005.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan los artículos 1, 2, 7, 8, 9, 10, 11, 12 y 13, de la Ley No.117 que regula los servicios de seguridad que se otorgan a Instituciones y Particulares en el Estado de Veracruz-Llave, publicada en la Gaceta Oficial de fecha 20 de Julio de 1991, así como, todas sus reformas.
+
+Se deroga el artículo 50 de la Ley de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, así como, las disposiciones que se opongan a la presente Ley.
+
+Tercero. El Instituto deberá expedir, dentro de los 120 días siguientes a la entrada en vigor de esta Ley, su Reglamento Interior y, en un plazo de 180 días los Manuales de Organización; de Procedimientos; de Atención al público, así como el Reglamento General del Policía respectivamente.
+
+Cuarto. Los recursos humanos, materiales y financieros de la Dirección General del Sistema Estatal de Seguridad Industrial, Bancaria y Comercial se adscribirán e incorporarán al patrimonio del Instituto de la Policía Auxiliar y Protección Patrimonial, previo balance general y dictamen que guarden los estados financieros que emita la Contraloría General del Estado.
+
+Quinto. El armamento, propiedad de la Secretaría de Seguridad Pública del Estado y el equipo de radio comunicación del Consejo Estatal de Seguridad Pública que utiliza actualmente el Sistema de Seguridad Industrial, Bancaria y Comercial seguirán siendo utilizados en calidad de comodato por el Instituto de la Policía Auxiliar y Protección Patrimonial.
