@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2004-09-27"
+last_updated: "2005-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIOICO OFICIAL: 12 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -209,7 +209,7 @@ XX. Administrar y publicar el Periódico Oficial "El Estado de Sinaloa", órgano
 
 XXI. Dirigir el Archivo Histórico General del Estado, así como rendir las informaciones oficiales del Poder Ejecutivo;
 
-XXII. Diseñar las políticas de readaptación social, así como administrar los centros de ejecución de la pena de prisión, los de ejecución de medidas de seguridad, los centros de observación y reorientación de menores y el consejo tutelar para menores;
+XXII. (DEROGADA, P.O. 12 DE AGOSTO DE 2005)
 
 XXIII. Operar y coordinar el Registro Civil del Estado;
 
@@ -681,9 +681,15 @@ XV. Formular programas de inspección operativa a fin de detectar desviaciones d
 
 XVI. Administrar y operar los fondos y fideicomisos que sean necesarios para el cumplimiento de sus funciones y atribuciones, cuando así lo determine el Gobernador del Estado;
 
-XVII. Coordinar y evaluar los institutos para la atención especializada que determine el Ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y,
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
 
-XVIII. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+XVII. Coordinar y evaluar los institutos para la atención especializada que determine el Ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2005)</small>
+
+XVIII. Diseñar las políticas de readaptación social, así como administrar los Centros de Ejecución de las Consecuencias Jurídicas del Delito y el Centro de Observación y Readaptación del Consejo Tutelar para Menores; y,
+
+XIX. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
 
 ###### Artículo 24.
 
@@ -1346,3 +1352,7 @@ P.O. 27 DE SEPTIEMBRE DE 2004.
 Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Las referencias que se hacen en decretos, reglamentos, convenios y demás disposiciones jurídicas a la Policía de Protección Civil, se entenderán hechas a la Policía Estatal Preventiva.
+
+P.O. 12 DE AGOSTO DE 2005.
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
