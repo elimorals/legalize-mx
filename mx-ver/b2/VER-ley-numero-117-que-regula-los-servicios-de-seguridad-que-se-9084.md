@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-117-que-regula-los-servicios-de-seguridad-que-se-908
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-20"
-last_updated: "2003-03-18"
+last_updated: "2005-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY QUE REGULA LOS SERVICIOS DE SEGURIDAD QUE SE OTORGAN A INSTITUCIONES Y PARTICULARES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz-Llave, el sábado 20 de julio de 1991.
 
@@ -47,11 +47,11 @@ QUE REGULA LOS SERVICIOS DE SEGURIDAD QUE SE OTORGAN A INSTITUCIONES Y PARTICULA
 
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las bases para regular los servicios de seguridad que se otorgan a instituciones y particulares en el Estado de Veracruz y que por su naturaleza, requieren de una contraprestación.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 2°.
 
-Los servicios de seguridad que se otorgan a instituciones y particulares, tienen como fin prevenir la comisión de los delitos, mediante la custodia de personas y bienes y serán proporcionados por la Dirección General de Seguridad Pública del Estado, a través de la Dependencia que señala este Ordenamiento.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 3°.
 
@@ -89,63 +89,31 @@ Corresponderá a la Secretaría de Finanzas y Planeación, por conducto de la Di
 
 ###### ARTICULO 7°.
 
-Para los efectos de esta Ley, la Dirección General de Seguridad Pública del Estado, contará con un área encargada del Sistema de Seguridad Industrial, Bancaria y Comercial.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 8°.
 
-El Director General de Seguridad Pública, para la prestación de los servicios regulados en este Ordenamiento, tendrá las atribuciones siguientes:
-
-I.- Cuidar del estricto cumplimiento de los objetivos de esta Ley.
-
-II.- Conocer y aprobar el presupuesto anual de egresos y la estimación de ingresos.
-
-III.- Discutir y aprobar en su caso:
-
-A) Los programas que presente el responsable del Sistema.
-
-B) El Reglamento Interior y las modificaciones que resulten necesarias. En ambos casos y para efectos de vigencia, se requerirá la aprobación del Secretario General de Gobierno y su publicación en la "Gaceta Oficial".
-
-C) Los estudios y proyectos sobre actividades del Sistema, que le someta su titular.
-
-IV.- Conocer del informe anual que presente el responsable del Sistema.
-
-V.- Someter a la consideración del Secretario General de Gobierno el monto de las tarifas que deban cobrarse por la prestación de los servicios.
-
-VI.- Las que requiera para el cumplimiento de las disposiciones de esta Ley y las que le asigne el Gobernador del Estado y el Secretario General de Gobierno.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 9°.
 
-El responsable del Sistema, tendrá las atribuciones siguientes:
-
-I.- Cuidar el exacto cumplimiento de los acuerdos del Director General de Seguridad Pública.
-
-II.- Presentar al Director General los proyectos de planes y programas, informes y estados financieros y los que le solicite.
-
-III.- Dirigir operativa y administrativamente el Sistema.
-
-IV.- Someter al Director General los nombramientos y remoción del personal del Sistema.
-
-V.- Cuidar de la aplicación del Reglamento Interior.
-
-VI.- Proponer al Director General, el monto de las tarifas que deban cobrarse por la prestación de los servicios y aplicarlas.
-
-VII.- Las que requiera para el cumplimiento de las disposiciones de esta Ley y las que le asigne el Secretario General de Gobierno y el Director General.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 10.
 
-Los servicios de vigilancia a instituciones y particulares que proporcione el Sistema de Seguridad Industrial, Bancaria y Comercial serán remunerados de acuerdo a las tarifas que serán fijadas por el Secretario General de Gobierno a propuesta que le haga el Director General de Seguridad Pública, oyendo la opinión del Director General de Ingresos de la Secretaría de Finanzas y Planeación; para este efecto deberán considerarse los costos de operación y necesidad de autosuficiencia.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 11.
 
-El pago de las tarifas a que se refiere el artículo anterior, deberá hacerse en las oficinas de la Secretaría de Finanzas y Planeación o en las oficinas de Hacienda del Estado.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 12.
 
-El personal del Sistema se regirá por las disposiciones aplicables a los integrantes de las corporaciones de Policía.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 13.
 
-Los nombramientos para cubrir las plazas del personal asignado a la prestación del servicio de vigilancia, sólo podrán otorgarse previo curso de capacitación.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 TRANSITORIOS:
 
@@ -188,3 +156,17 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G. O. 12 DE AGOSTO DE 2005
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan los artículos 1, 2, 7, 8, 9, 10, 11, 12 y 13, de la Ley No. 117 que regula los servicios de seguridad que se otorgan a Instituciones y Particulares en el Estado de Veracruz -Llave, (sic) publicada en la Gaceta Oficial de fecha 20 de Julio de 1991, así como, todas sus reformas.
+
+Se deroga el artículo 50 de la Ley de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, así como, las disposiciones que se opongan a la presente Ley.
+
+Tercero. El Instituto deberá expedir, dentro de los 120 días siguientes a la entrada en vigor de esta Ley, su Reglamento Interior y, en un plazo de 180 días los Manuales de Organización; de Procedimientos; de Atención al público, así como el Reglamento General del Policía respectivamente.
+
+Cuarto. Los recursos humanos, materiales y financieros de la Dirección General del Sistema Estatal de Seguridad Industrial, Bancaria y Comercial se adscribirán e incorporarán al patrimonio del Instituto de la Policía Auxiliar y Protección Patrimonial, previo balance general y dictamen que guarden los estados financieros que emita la Contraloría General del Estado.
+
+Quinto. El armamento, propiedad de la Secretaria de Seguridad Pública del Estado y el equipo de radio comunicación del Consejo Estatal de Seguridad Pública que utiliza actualmente el Sistema de Seguridad Industrial, Bancaria y Comercial seguirán siendo utilizados en calidad de comodato por el Instituto de la Policía Auxiliar y Protección Patrimonial.
