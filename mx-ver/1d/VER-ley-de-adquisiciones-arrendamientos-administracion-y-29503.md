@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2004-08-10"
+last_updated: "2005-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -331,23 +331,21 @@ II. Licitación simplificada, mediante invitación a cuando menos tres proveedor
 
 III. Adjudicación directa.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 27.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado se sujetarán, en los procedimientos de contratación, a los montos y modalidades autorizados en el Decreto del Presupuesto de Egresos del ejercicio fiscal correspondiente.
+Las dependencias, organismos y entidades señaladas en el artículo 1 de esta Ley se sujetarán, en los procedimientos de contratación, a los montos y modalidades siguientes:
 
-Para las demás instituciones señaladas en el artículo 1º de esta Ley los montos y modalidades serán los siguientes:
+I. La que rebase el monto de 181,612 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación pública nacional o internacional;
 
-(REFORMADA, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+II. La que se encuentre entre los 181, 612 y los 90, 807 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación pública estatal;
 
-I. La que rebase el monto de dieciséis mil ciento treinta días de salario mínimo general vigente en la zona económica de la localidad se hará en licitación pública nacional;
+III. La que se encuentre entre los 90, 806 y los 1,136 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitaciones simplificada; y
 
-(REFORMADA, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+IV. La inferior a los 1,135 salarios mínimos general vigente en la zona económica de la localidad, se hará en adjudicación directa.
 
-II. La que se encuentre entre setecientos ochenta y cinco días y dieciséis mil ciento treinta días de salario mínimo general vigente en la zona económica de la localidad se hará en licitación simplificada; y
-
-III. La inferior a setecientos ochenta y cinco días de salario mínimo general vigente en la zona económica de la localidad, se hará en Adjudicación Directa.
-
-Los montos señalados en las fracciones de este artículo se considerarán sin tomar en cuenta los impuestos que causen las contrataciones.
+Los montos señalados se considerarán sin tomar en cuenta los impuestos que causen las contrataciones.
 
 ###### Artículo 28.
 
@@ -359,9 +357,17 @@ Las instituciones podrán celebrar contratos abiertos respecto de bienes o servi
 
 Las licitaciones públicas serán:
 
-I. Nacionales: en las que participan únicamente personas físicas o morales de nacionalidad mexicana, y los bienes que se pretendan adquirir sean de contenido nacional, en un cincuenta por ciento por lo menos, excepto que el subcomité precise otro grado de integración, tomando en cuenta las características especiales de los bienes; y
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2005)</small>
 
-II. Internacionales: cuando en ellas participan personas físicas o morales de cualquier nacionalidad y los bienes que se pretenden adquirir sean de origen nacional o extranjero.
+I. Estatales: en las que participen únicamente personas físicas o morales que tributen y tengan su domicilio fiscal en el Estado de Veracruz:
+
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2005)</small>
+
+II. Nacionales: en las que participen únicamente personas físicas o morales de nacionalidad mexicana, y los bienes que se pretendan adquirir sean de contenido nacional, en un cincuenta por ciento por lo menos, excepto que el subcomité precise otro grado de integración, tomando en cuenta las características especiales de los bienes; e
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2005)</small>
+
+III. Internacionales: cuando en ellas participen personas físicas o morales de cualquier nacionalidad y de los bienes que se pretenden adquirir sean de origen nacional o extranjero.
 
 ###### Artículo 30.
 
@@ -593,9 +599,11 @@ VI. Se presente caso fortuito o fuerza mayor.
 
 El fallo beneficiará al licitante que cumpla con los requisitos de la convocatoria y las bases respectivas, y que además haya presentado las mejores condiciones en cuanto a precio, calidad y tiempo de entrega.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 49.
 
-En igualdad de condiciones, los proveedores con residencia y domicilio fiscal en el Estado y en el Municipio de que se trate, tendrán preferencia para ser adjudicatarios.
+Los proveedores con residencia y domicilio fiscal en el Estado y en el Municipio de que se trate, tendrán preferencia para ser adjudicatarios, y se les permitirá un precio hasta 5% mayor que las cotizaciones foráneas.
 
 ###### Artículo 50.
 
@@ -605,9 +613,9 @@ Cuando dos o más proposiciones en igualdad de circunstancias cumplan con los re
 
 El fallo de la licitación contendrá los datos y criterios de evaluación que determinen cuál fue la mejor proposición recibida, adjudicándose los contratos a favor de ésta, señalándose, en su caso, la segunda y tercera mejores opciones.
 
-(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2005)</small>
 
-El fallo de la licitación se notificará a los participantes por escrito.
+El fallo de la licitación se notificará a los participantes por escrito y se hará público vía Internet.
 
 ###### Artículo 52.
 
@@ -1128,3 +1136,9 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
 
 CUARTO.- Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
+
+G.O. 12 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
