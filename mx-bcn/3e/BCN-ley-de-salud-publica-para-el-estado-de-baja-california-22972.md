@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2003-03-14"
+last_updated: "2005-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -113,9 +113,17 @@ XV.- La prevención de la discapacidad y rehabilitación de los discapacitados;
 
 XVI.- La asistencia social en su aspecto sanitario y de atención médica;
 
-XVII.- El programa contra el alcoholismo; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
 
-XVIII.- El programa contra el tabaquismo.
+XVII.- El programa contra el alcoholismo;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+
+XVIII.- El programa contra el tabaquismo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 2005)</small>
+
+XIX.- Programas de prevención y control de enfermedades bucodentales, auditivas y visuales.
 
 ###### ARTÍCULO 5.
 
@@ -311,7 +319,9 @@ VII.- La asistencia social a los grupos más vulnerables;
 
 VIII.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-IX.- La prevención y el control de las enfermedades buco dentales;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+
+IX.- La prevención y control de las enfermedades bucodentales, visulaes y auditivas.
 
 X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud; y
 
@@ -497,35 +507,35 @@ Estos servicios comprenderán la atención médica, la atención materno infanti
 
 Son servicios privados, los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales civiles y mercantiles, sin perjuicio de los requisitos y obligaciones que establezcan otras disposiciones aplicables.
 
-#### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES
+#### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES, AUDITIVAS Y VISUALES
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
-ARTÍCULO 50 BIS.- El Ejecutivo del Estado a través de la Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias Federales elaborarán programas y campañas temporales o permanentes para la prevención y control de las enfermedades bucodentales.
+ARTÍCULO 50 BIS.- El Ejecutivo del Estado a través de la Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias Federales elaborarán programas y campañas temporales o permanentes para la prevención y control de las enfermedades bucodentales, auditivas y visuales.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
-ARTÍCULO 50 BIS 1.- El ejercicio de la acción de prevención y control de las enfermedades bucodentales, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+ARTÍCULO 50 BIS 1.- El Ejercicio de la acción de prevención y control de las enfermedades bucodentales, auditivas y visuales, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-I.- La detección oportuna de las enfermedades bucodentales y la evaluación del riesgo de contraerlas;
+I.- La detección oportuna de las enfermedades bucodentales, auditivas y visuales y la evaluación del riesgo de adquirirlas;
 
-II.- La divulgación de medidas higiénicas para el control de los padecimientos bucodentales;
+II.- La divulgación de medidas higiénicas y de prevención para el control de los padecimientos bucodentales y audiovisuales;
 
 III.- La prevención específica en cada caso y la vigilancia de su cumplimiento, y
 
-IV.- Las demás que sean necesarias para la prevención tratamiento y control de las enfermedades bucodentales que se presenten en la población.
+IV.- Las demás que sean necesarias para la prevención, tratamiento y control de las enfermedades bucodentales, auditivas y visuales que se presenten en la población.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
-ARTÍCULO 50 BIS 2.- La detección y prevención de las enfermedades bucodentales en la población preescolar tiene carácter prioritario, los programas que la Secretaría de Salud del Estado elabore para atender este sector serán permanentes; además de las medidas señaladas en el artículo anterior, establecerá:
+ARTÍCULO 50 BIS 2.- La detección y prevención de las enfermedades bucodentales, auditivas, y visuales en la población preescolar tiene carácter prioritario, los programas que la Secretaría de Salud del Estado elabore para atender este sector serán permanentes. Además de las medidas señaladas en el artículo anterior realizará:
 
-I.- Acciones para el fomento y educación de la salud bucal orientadas al preescolar;
+I.- Acciones para el fomento y educación de la salud bucodental, auditiva y visual de los preescolares;
 
-II.- Actividades que promuevan la participación activa de los padres en la detección y prevención de las enfermedades bucodentales del preescolar;
+II.- Actividades que promuevan la participación activa de los padres en la detección y prevención de las enfermedades bucodentales auditivas y visuales del preescolar;
 
-III.- Acuerdo de coordinación con las instituciones de los sectores público, social y privado, con el objeto de alcanzar una amplia cobertura en la atención de los servicios de salud bucal del preescolar, y
+III.- Acuerdos de coordinación con las instituciones de los sectores público, social y privado, con el objeto de alcanzar una amplia cobertura en la atención de los servicios de salud bucodental, auditiva y visual del preescolar, y
 
-IV.- Acciones que permitan el acceso de la salud bucal a la comunidad preescolar de los centros educativos ubicados en zonas rurales de la Entidad.
+IV.- Acciones que permitan el acceso de la salud bucodental, auditiva y visual a la comunidad preescolar de los centros educativos ubicados en zonas rurales de la Entidad.
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
 
@@ -593,7 +603,7 @@ Para los efectos del artículo anterior, las Autoridades Sanitarias del Estado p
 
 Se concede acción popular para denunciar ante las Autoridades Sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2005)</small>
 
 #### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
@@ -1683,7 +1693,7 @@ Cuando el presunto infractor impugnare los actos de la Autoridad Sanitaria compe
 
 Los interesados podrán hacer valer la prescripción, por vía de excepción. La Autoridad deberá declararla de oficio.
 
-A R T I C U L O S T R A N S I T O R I O S :
+A R T I C U L O S T R A N S I T O R I O S:
 
 PRIMERO.- La presente Ley entrará en vigencia al día siguiente de su publicación el Periódico Oficial del Estado.
 
@@ -1730,3 +1740,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud, elaborará el "Programa Estatal de Prevención y Control de la salud bucodental del preescolar" dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma, para dicho efecto tomará en cuenta los programas ya existentes, adecuando su contenido.
 
 TERCERO.- La Secretaría de Salud del Estado conjuntamente con la Secretaría de Educación y Bienestar Social del Estado, y escuchando la opinión de las Asociaciones de Odontólogos debidamente registrados en el Departamento de Profesiones del Estado, definirán el contenido que deba establecerse en la "Cartilla Estatal de Salud Bucal" dentro de un plazo no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma.
+
+P.O. 12 DE AGOSTO DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud del Estado, promoverá la creación de Programas de Salud Bucodental, auditiva y visual, dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de estas reformas, para dicho efecto tomará en cuanta los programas ya existentes, adecuando su contenido.
