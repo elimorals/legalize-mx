@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2005-05-20"
+last_updated: "2005-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -105,7 +105,9 @@ IV.- Dirección de Regulación Municipal;
 
 V.- Dirección de Protección Civil;
 
-VI.- Dirección de Vialidad y Transporte;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+
+VI.- Dirección Municipal del Transporte Publico de Tijuana;
 
 VII.- Departamento Administrativo;
 
@@ -119,9 +121,9 @@ Entidades:
 
 A. Comité de Planeación para el Desarrollo Municipal, y
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
-B. La Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana Baja California.
+B. Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California.
 
 ## TITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LAS DEPENDENCIAS DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL
 
@@ -821,6 +823,10 @@ VI. Elaborar las ordenes de pedido y requisiciones de material y equipo necesari
 
 La Dirección de Asuntos de Cabildo contará con las funciones y atribuciones que establece el Reglamento de la Administración Pública del Ayuntamiento de Tijuana, Baja California y las demás que expresamente le encomienden las leyes, reglamentos, acuerdos del Ayuntamiento y que le instruya el Secretario de Gobierno Municipal.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
+
+ARTICULO 61 BIS.- La Dirección Municipal del Transporte Publico de Tijuana es la Dependencia encargada de coadyuvar en la definición y establecimiento de políticas y estrategias en materia de Vialidad y Transporte, en coordinación con las dependencias Estatales y Municipales, con el objeto de consolidar un Sistema Integral de Transporte Público, eficiente, seguro, ordenado y acorde a la dinámica de la ciudad; promover el reordenamiento y el establecimiento de rutas y concesiones de transporte público en sus distintas modalidades dentro de la jurisdicción municipal de Tijuana; proponer estrategias, fórmulas de solución, asociación y líneas de acción para afrontar y reducir los conflictos en materia de Vialidad y Transporte Publico y efectuar la inspección, vigilancia, revisión mecánica e imposición de las sanciones administrativas de conformidad con los artículos 19 y 42 de la Ley General de Transporte Publico del Estado de Baja California, así como la realización de estudios técnicos para la definición de vías, itinerarios y tarifas aplicables al transporte publico, en sus distintas modalidades.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -843,8 +849,6 @@ TERCERO: Publíquese en un periódico de mayor circulación para conocimiento p�
 
 P.O. 8 DE ABRIL DE 2005.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
-
 PRIMERO.- Las presentes adiciones y Reglamento Interno de la Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en un diario de mayor circulación en el Municipio de Tijuana y/o Gaceta Municipal, para el conocimiento de los vecinos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes adiciones.
@@ -858,3 +862,15 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes
 TERCERO.- Publíquense las presentes en la Gaceta Municipal y/o un diario de circulación municipal, para conocimiento de los ciudadanos.
 
 CUARTA.- Realícense las adecuaciones presupuestales necesarias conforme a la presente reforma y adiciones.
+
+P.O. 12 DE AGOSTO DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Estado y/o en la Gaceta Municipal y en un diario de mayor circulación en el Municipio de Tijuana.
+
+###### ARTICULO CUARTO.
+
+Las presentes reformas y adiciones así como el REGLAMENTO INTERNO DE LA DIRECCION MUNICIPAL DEL TRANSPORTE PUBLICO DE TIJUANA B.C, entraran en vigor al momento de su aprobación y publicación en el Periódico Oficial del Estado.
