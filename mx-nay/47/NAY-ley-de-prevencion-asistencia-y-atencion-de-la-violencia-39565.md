@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-39565"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-12"
-last_updated: "2004-05-12"
+last_updated: "2005-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 12 de mayo de 2004.
 
@@ -55,7 +55,9 @@ I.- LEY.- A la Ley de Prevención, Asistencia y Atención de la Violencia Intraf
 
 II.- INTRAFAMILIAR: Al conjunto de relaciones que se dan al interior de una familia;
 
-III.- PROCURADURÍA.- A la Procuraduría de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+III.- PROCURADURÍA.- A la Procuraduría de la Defensa del Menor y la Familia;
 
 IV.- DIF.- Al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit;
 
@@ -115,7 +117,9 @@ III. La Secretaría de Salud;
 
 IV. La Procuraduría General de Justicia;
 
-V. El Sistema Estatal de Desarrollo Integral de la Familia, por conducto de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, quien a través de su Titular fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+V. El Sistema Estatal de Desarrollo Integral de la Familia, por conducto de la Procuraduría de la Defensa del Menor y la Familia, quien a través de su Titular fungirá como Secretario Técnico;
 
 VI. Un Representante designado por el Congreso del Estado de Nayarit;
 
@@ -197,7 +201,9 @@ IV. Fungir como conciliador y árbitro en los términos del Título Tercero de l
 
 V. Elaborar convenios entre las partes involucradas cuando así lo soliciten;
 
-VI. Imponer una o más de las sanciones señaladas en artículo 25 de la presente Ley;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+VI.- Imponer una o más de las sanciones señaladas en el artículo 29 de la presente Ley;
 
 VII. Instrumentar en los municipios del Estado su actuación y aplicación de la presente Ley;
 
@@ -209,11 +215,21 @@ X. Llevar el registro de las Instituciones públicas y privadas que proporcionan
 
 XI. Establecer las bases para el sistema de registro de la información estadística en el Estado sobre violencia Intrafamiliar; y
 
-XII. Emitir los lineamientos técnico - jurídicos a que se sujetara el procedimiento administrativo de conciliación y arbitraje.
+XII. Emitir los lineamientos técnico - jurídicos a que se sujetara el procedimiento administrativo de conciliación y arbitraje;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+XIII.- Coordinar y elaborar el proyecto del programa estatal para la prevención, asistencia y atención de la violencia intrafamiliar, para su aprobación por el Consejo;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+XIV.- Vigilar el cumplimiento y evaluar los resultados del programa estatal para la prevención, asistencia y atención de la violencia intrafamiliar y presentar cada seis meses ante el Consejo, los resultados del mismo, en su caso proponer las reformas, adiciones y ajustes al referido programa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 15.
 
-En los casos en que las víctimas de violencia intrafamiliar sean menores de edad o incapaces, el Procurador de la Defensa del Menor, la Mujer y la Familia, deberá observar las siguientes disposiciones:
+En los casos en que las víctimas de violencia intrafamiliar sean menores de edad o incapaces, el Procurador de la Defensa del menor y la Familia, deberá observar las siguientes disposiciones:
 
 I. Asignar un trabajador social para que represente al menor o al incapaz ante el árbitro, así como el personal médico y psicológico necesario para evaluar el daño físico y psicológico sufrido por el agraviado e iniciar el tratamiento correspondiente
 
@@ -233,7 +249,9 @@ I. Dirigir las campañas de educación pública encaminadas a prevenir la violen
 
 II. Insertar en los programas escolares de educación básica y media temas relativos a la prevención de la violencia intrafamiliar;
 
-III. Recomendar a las instituciones de Educación Básica, Media, Media Superior y Superior, públicas o privadas, la intervención de los docentes, departamentos de orientación educativa, médico o directivos en general, para que en el ejercicio de sus funciones, identifiquen signos o problemas que pudieran ser constitutivos de violencia intrafamiliar en agravio del alumno y notifiquen por escrito o verbalmente de ello a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, para los efectos que procedan; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+III. Recomendar a las instituciones de Educación Básica, Media, Media Superior y Superior, públicas o privadas, la intervención de los docentes, departamento de orientación educativa, médico o directivos en general, para que en el ejercicio de sus funciones, identifiquen signos o problemas que pudieran ser constitutivos de violencia intrafamiliar en agravio del alumno y notifiquen por escrito o verbalmente de ello a la Procuraduría de la Defensa del Menor y la Familia, para los efectos que procedan; y
 
 IV. Fomentar e impulsar en los planteles educativos, la creación de grupos de prevención y atención de la violencia intrafamiliar, integrados por los padres de familias y el personal docente.
 
@@ -271,9 +289,11 @@ Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozca
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 20.
 
-Con el objeto de prevenir la violencia intrafamiliar, corresponden al DIF, contando con el apoyo del Procurador de la Defensa del Menor, la Mujer y la Familia, además de las funciones que en materia de asistencia social tiene asignadas, las siguientes:
+Con el objeto de prevenir la violencia intrafamiliar, corresponde al DIF, contando con el apoyo del Procurador de la Defensa del Menor y la Familia, además de las funciones que en materia de asistencia social tiene asignadas, las siguientes:
 
 I. Concurrir a lugares con fines preventivos o de seguimiento, donde exista violencia familiar, mediante trabajadores sociales para desalentarla y psicólogos para dar seguimiento a los casos;
 
@@ -329,7 +349,9 @@ De no verificarse el supuesto anterior, la procuraduría, una vez que las partes
 
 El procedimiento de arbitraje a que se refiere el artículo anterior, se verificará de la siguiente forma:
 
-I. Se iniciará con la presentación del acta administrativa a que hace referencia el artículo 9 fracción I de esta Ley, o con la comparecencia de ambas partes, quienes manifestarán sus datos generales y expondrán una relación sucinta de los hechos, así como la aceptación expresa de someterse al procedimiento;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+I. Se iniciará con la presentación del acta administrativa a que hace referencia el artículo 14, fracción I de esta Ley, o con la comparecencia de ambas partes, quienes manifestarán sus datos generales y expondrán una relación sucinta de hechos, así como la aceptación expresa de someterse al padecimiento;
 
 II. Las partes de dicha comparecencia, ofrecerán las pruebas que a su derecho convengan a excepción de la confesional, pudiendo allegarse el árbitro de todos los medios de pruebas que estén reconocidos legalmente, que le permitan emitir su resolución, aplicándose supletoriamente el Código de Procedimientos Civiles para el Estado de Nayarit; y
 
@@ -351,7 +373,11 @@ I. El no asistir sin causa justificada a los citatorios que gire la Procuradurí
 
 II. El incumplimiento al convenio derivado del procedimiento de conciliación; y
 
-III. El incumplimiento a la resolución del arbitraje al que se sometan las partes de común acuerdo.
+III. El incumplimiento a la resolución del arbitraje al que se sometan las partes de común acuerdo;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2005)</small>
+
+IV. Cualquier acción u omisión que cause un daño, perjuicio o menoscabo a la integridad física y psicológica de una persona, o bien su reincidencia.
 
 ###### Artículo 29.
 
@@ -361,7 +387,9 @@ I. Con multa de tres a diez días de salario mínimo general vigente en el estad
 
 II. Con multa de 15 a 50 días de salario mínimo general vigente en el estado de Nayarit, por el incumplimiento a los convenios y resoluciones a que se refieren los artículos 22, 25 y 28, fracciones II y III, de la presente Ley;
 
-III. Con multa de hasta 90 días de salario mínimo general vigente en el estado de Nayarit por la comisión de actos de violencia intrafamiliar, sin perjuicio de las sanciones que impongan otras autoridades administrativas y jurisdiccionales por la misma conducta desplegada; e
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE AGOSTO DE 2005)</small>
+
+III.- Con multa de hasta 90 días de salario mínimo general vigente en el estado de Nayarit por la comisión de actos de violencia intrafamiliar, de conformidad a la fracción IV del artículo 28 de esta Ley, sin perjuicio de las sanciones que impongan otras autoridades administrativas y jurisdiccionales por la misma conducta desplegada;
 
 IV. Independientemente de la aplicación de las multas a que se refieren las fracciones anteriores, se sancionará con arresto administrativo inconmutable hasta por 36 horas al infractor que incurra en reincidencia.
 
@@ -396,3 +424,11 @@ DADO En la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del
 Presidente, Dip. Yolanda del Real Ureña.- Rúbrica.- Secretario, Enrique Mejía Pérez .-Rúbrica.- Secretario, Lino Jacobo Aquino.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los once días del mes de mayo del año dos mil cuatro.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE AGOSTO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
