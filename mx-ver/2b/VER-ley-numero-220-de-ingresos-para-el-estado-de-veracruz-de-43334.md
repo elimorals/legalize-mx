@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-220-de-ingresos-para-el-estado-de-veracruz-de-43334"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-08-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 220 DE INGRESOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 31 de diciembre de 2004.
 
@@ -403,11 +403,11 @@ Los ingresos presupuestados en la presente Ley se causarán, liquidarán y recau
 
 Se condonan los créditos fiscales estatales derivados de contribuciones o aprovechamientos, cuando el importe determinado al 31 de diciembre de 2004 sea inferior o igual a $4,000.0 pesos, con excepción del impuesto sobre nóminas y el impuesto por la prestación de servicios de hospedaje. No procederá esta condonación cuando existan dos créditos fiscales a cargo de una misma persona y la suma de ellos exceda el límite antes establecido.
 
-> <small>(F. DE E., G.O. 6 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 10.
 
-Se autoriza al Ejecutivo del Estado para que, conforme a las disposiciones del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, contrate endeudamiento para aplicarse en los términos de lo que disponen los artículos 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos; 73 de la Constitución Política del Estado; 7, 312, 316 y demás aplicables del Código Financiero para el Estado, permitiendo en su caso concluir diversas inversiones públicas productivas. En garantía o fuente de pago de los financiamientos que celebren, el Gobierno del Estado podrá afectar las participaciones que recibe del Gobierno Federal y los ingresos que deriven de programas, ramos o aportaciones de apoyo instrumentados por la Federación que, conforme a las disposiciones legales que los rijan, puedan destinarse al saneamiento financiero; así como ingresos propios, sin incluir aquellos que tengan un destino específico, considerando que el mecanismo para cubrir el pasivo referido sea a través de un fideicomiso de administración y pago que se encuentre constituido o que en el futuro se constituya por el Gobierno del Estado.
+Se autoriza al Ejecutivo del Estado para que contraiga, conforme a las disposiciones del Libro Quinto del Código Financiero para el Estado de Veracruz de Ignacio del (sic) Llave, un endeudamiento neto hasta por un monto equivalente al cinco por ciento del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal correspondiente, para ser destinado a inversiones públicas productivas. El Ejecutivo del Estado podrá ejercer la presente autorización siempre que en ningún caso rebase el porcentaje señalado y el término de la liquidación del endeudamiento no exceda el periodo Constitucional de la presente administración. En garantía o fuente de pago de los financiamientos que se celebren con base en esta autorización, el Gobierno del Estado podrá afectar las participaciones que en ingresos federales reciba o los ingresos que deriven de programas, ramos o aportaciones de apoyo instrumentados por el Gobierno Federal que, conforme a las disposiciones legales que los rijan puedan destinarse al saneamiento financiero, y los ingresos propios, sin incluir los provenientes del Impuesto Sobre Nóminas y del Impuesto por la prestación de Servicios de Hospedaje.
 
 ## TRANSITORIOS
 
@@ -426,3 +426,11 @@ LICENCIADO FIDEL HERRERA BELTRÁN
 GOBERNADOR DEL ESTADO.
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
