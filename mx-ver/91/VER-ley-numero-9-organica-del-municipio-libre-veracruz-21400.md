@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2005-08-05"
+last_updated: "2005-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1533,15 +1533,15 @@ En la primera quincena del mes de agosto de cada año, las Comisiones, oyendo a 
 
 En la segunda quincena del mes de agosto los servidores públicos mencionados en el artículo anterior, con base en los ingresos y egresos que tengan autorizados y los proyectos de las Comisiones, formularán cada año los proyectos presupuestales de ingresos y egresos para el ejercicio correspondiente al año siguiente.
 
-> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
 
-Durante el mes de septiembre el Ayuntamiento, en sesión de Cabildo, discutirá dichos proyectos.
+Durante el curso de la primera quincena de septiembre el Ayuntamiento,en (sic) sesión de cabildo, discutirá dichos proyectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 107.
 
-En el curso del mes de octubre de cada año, los Ayuntamientos remitirán por triplicado al Congreso del Estado, el proyecto anual de ley de ingresos, el Presupuesto de Egresos y un ejemplar de la plantilla de personal. Las observaciones que correspondan se comunicarán a los Ayuntamientos, a más tardar el día 15 de diciembre. Si no cumplieren con la remisión, el Congreso tendrá por presentados los proyectos del año anterior y podrá ajustarlos en la medida que estime necesario.
+En el curso de la segunda quincena del mes de septiembre de cada año, los ayuntamientos remitirán por triplicado al Congreso del Estado, el proyecto anual de la Ley de Ingresos y el Presupuesto de Egresos. En caso de que aquel haga observaciones, las comunicará al Ayuntamiento a más tardar el 30 de octubre. Si no cumpliera con la remisión, el Congreso tendrá por presentados los proyectos del año anterior y podrán ajustarlo en la medida que estime necesario.
 
 Cuando el proyecto anual de ley de ingresos sea elaborado por un Ayuntamiento cuyo ejercicio concluya en ese mismo año, las nuevas autoridades podrán enviar sus puntos de vista en los primeros quince días del mes de enero.
 
@@ -2434,3 +2434,9 @@ Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la
 Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
 
 Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial, órgano de gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
