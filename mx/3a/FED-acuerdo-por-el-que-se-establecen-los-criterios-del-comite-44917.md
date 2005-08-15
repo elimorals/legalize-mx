@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-los-criterios-del-comite-44917
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-06-07"
-last_updated: "2005-06-07"
+last_updated: "2005-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44917&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-06-01"
 
 ACUERDO POR EL QUE SE ESTABLECEN LOS CRITERIOS DEL COMITE DE INFORMACION SOBRE LA CLASIFICACION DE LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 7 de junio de 2005.
 
@@ -263,7 +263,11 @@ VIII. La rúbrica del Titular de la Unidad Administrativa.
 
 Las Unidades Administrativas requisitarán los formatos a que se refiere este Criterio en medios impresos y electrónicos.
 
-Vigésimo Quinta. El formato para señalar la clasificación en la carátula de un expediente o documento, será autorizado por el Comité de Información de la Auditoría Superior de la Federación a fin de unificar la forma y presentación del mismo.
+> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2005)</small>
+
+Vigésimo Quinta. El Formato de Identificación para establecer el carácter de reservado o confidencial de un documento o expediente, a efecto de clasificarlo como tal, será autorizado por el Comité de Información de la Auditoría Superior de la Federación, a fin de unificar la forma y presentación del mismo.
+
+Todos los expedientes clasificados como reservados o confidenciales, sin excepción, deberán incluir en su Carátula el Formato de Identificación. Cuando toda o parte de la documentación de un expediente clasificado como reservado o confidencial se envíe fuera de la Auditoría Superior de la Federación, deberá invariablemente ostentar, en cada una de las fojas, un sello de tinta que identifique a la Unidad Administrativa remitente y la leyenda “reservado” o “confidencial”, según sea el caso. Si la documentación que se envía tiene el carácter de reservada o confidencial, pero no forma parte de un expediente clasificado como tal, la documentación deberá entonces incluir el Formato de Identificación y no ostentará el sello de tinta.
 
 ### Capítulo VII. De las Responsabilidades y Sanciones
 
@@ -275,8 +279,20 @@ PRIMERO. El Acuerdo por el que se establecen los Criterios del Comité de Inform
 
 SEGUNDO. Se reitera el carácter público de los Informes sobre el resultado de la revisión de las Cuentas Públicas 2000 y anteriores; así como de los Informes del Resultado de la Revisión y Fiscalización Superior de las Cuentas Públicas 2001, 2002 y 2003, de conformidad con lo establecido en las disposiciones vigentes en los ejercicios correspondientes.
 
-TERCERO. El índice de los expedientes de información clasificada como reservada que deberán remitir semestralmente las Unidades Administrativas al Comité de Información de la Auditoría Superior de la Federación, se realizará a partir del segundo semestre del año 2005. En tal virtud los referidos índices deberán ser enviados por las Unidades Administrativas dentro de los diez primeros días hábiles del mes de enero de 2006.
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2005)</small>
 
-CUARTO. Las Unidades Administrativas deberán incluir en sus expedientes de auditoría y documentación administrativa, el formato de identificación de información reservada y confidencial, a que se refiere el numeral vigésimo quinto, a partir del 1 de julio de 2005, además de la identificación del expediente establecido en el Cuadro General de Clasificación Documental, para los archivos de trámite y de concentración.
+TERCERO. La obligación establecida en la disposición Décimo Cuarta de elaborar semestralmente un índice de los expedientes clasificados como reservados, entrará en vigor a partir del 1 de septiembre de 2005, debiéndose emitir, por única vez, el índice respectivo con información hasta el 31 de diciembre de 2005, para ser remitido por las Unidades Administrativas al Comité de Información dentro de los primeros diez días hábiles del mes de enero de 2006.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2005)</small>
+
+CUARTO. Las Unidades Administrativas de la Auditoría Superior de la Federación deberán incluir en sus expedientes y documentación de naturaleza reservada o confidencial, el Formato de Identificación y, en su caso, el sello de tinta a que se refiere la disposición Vigésimo Quinta, a partir del 1o. de septiembre de 2005, además de la identificación del expediente establecida en los "Lineamientos Generales para la Organización y Conservación de los Archivos de la Auditoría Superior de la Federación" y el Cuadro General de Clasificación Documental, para los archivos de trámite y de concentración.
 
 México, D.F., a 1 de junio de 2005.- El Presidente del Comité de Información, José Miguel Macías Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Benjamín Fuentes Castro, Julián Alfonso Olivas Ugalde, César Marttelo Díaz.- Rúbricas.
+
+México, D.F., a 1 de junio de 2005.- El Presidente del Comité de Información, José Miguel Macías Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Benjamín Fuentes Castro, Julián Alfonso Olivas Ugalde, César Marttelo Díaz.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE AGOSTO DE 2005.
+
+Unico.- Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
