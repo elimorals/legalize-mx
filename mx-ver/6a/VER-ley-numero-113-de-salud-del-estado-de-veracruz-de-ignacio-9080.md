@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2003-03-18"
+last_updated: "2005-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -395,7 +395,9 @@ VI.- La salud mental.
 
 VII.- La prevención y control de las enfermedades bucodentales.
 
-VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+VIII. La disponibilidad de medicamentos en todos los niveles de atención a la población, disponibilidad de sangre a través de puestos de sangrado y centros de transfusión en hospitales de segundo y tercer nivel y cualquier otro insumo esencial para la salud.
 
 IX.- La promoción del mejoramiento de la nutrición.
 
@@ -2310,3 +2312,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este Decreto.
