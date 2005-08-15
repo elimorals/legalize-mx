@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2005-08-05"
+last_updated: "2005-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1453,7 +1453,9 @@ ARTICULO 254 TER
 
 Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Por violencia familiar se entiende el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+Por violencia familiar se entiende el uso de la fuerza física o moral que, de manera reiterada, el agente activo ejerce hacia sus parientes, cónyuge, concubina o concubinario en contra de su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y el agredido habiten en el mismo domicilio.
 
 ### CAPITULO I. De los hijos de matrimonio
 
@@ -2245,7 +2247,11 @@ V.- Por la entrega que el padre o la madre o quien ejerce la patria potestad hic
 
 > <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-VI.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor.
+VI.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor;
+
+> <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+VII.- Cuando el que la ejerce haya sido limitado en la misma tal y como lo describe el artículo 373 Bis, y al recuperarla reincida en conductas de violencia familiar.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -15918,3 +15924,9 @@ Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la
 Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
 
 Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
