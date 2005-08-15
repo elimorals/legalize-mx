@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-104-de-asistencia-y-prevencion-de-la-violencia-12401
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "1998-09-08"
+last_updated: "2005-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
 
@@ -53,9 +53,13 @@ Para los efectos de esta ley se entiende por:
 
 I. Generadores de la violencia familiar: quienes realizan actos de maltrato físico, verbal, psicoemocional o sexual hacia las personas con las que tengan algún vinculo familiar;
 
-II. Receptores de la violencia familiar: los grupos o individuos vulnerables que sufren el maltrato físico, verbal, psicoemocional o sexual en su esfera biopsicosexual, y
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
 
-III. Violencia familiar: el uso de la fuerza física o moral recurrente en contra de un miembro de la familia por otro con el cual guarde relación de parentesco consanguíneo, por afinidad o civil; matrimonio o concubinato, que atente contra su integridad física, psíquica o sexual; aun cuando no esté previsto como delito por otros ordenamientos.
+II. Receptores de la violencia familiar: los grupos o individuos que sufren el maltrato físico, verbal, psicoemocional o sexual con relación de parentesco o concubinato con el generador de la violencia familiar.
+
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+III. Violencia familiar: el uso de la fuerza física o moral, por acción u omisión, recurrente e intencional y las agresiones verbales a cualquiera de las personas citadas en la fracción anterior; aún cuando no esté previsto como delito por otros ordenamientos.
 
 No se considera violencia familiar los actos que tengan por objeto corregir mesuradamente a los menores de edad siempre que éstos sean realizados por quienes participen en la formación y educación de los mismos, ejecutados por quienes ejercen la patria potestad o por los terceros a los que éstos les hubieren dado consentimiento para ello, siempre y cuando se demuestre que van encaminados al sano desarrollo integral de dichos menores, y no impliquen infligir a éstos, actos de fuerza que atenten en contra de su integridad física y psíquica.
 
@@ -256,3 +260,11 @@ Secretaria de Salud y Asistencia
 GUILLERMO ZÚÑIGA MARTÍNEZ
 
 Secretario de Educación y Cultura
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
