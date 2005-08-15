@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2004-11-04"
+last_updated: "2005-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -4429,9 +4429,11 @@ XI. En general, toda la información que se considere útil para mostrar la prop
 
 Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Comisión de Hacienda, el Presidente y el Tesorero analizarán e integrarán, durante la segunda quincena de agosto, los proyectos de presupuestos de egresos elaborados por las Comisiones, así como de las dependencias y entidades.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 308.
 
-La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante el mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
+La Comisión de Hacienda presentará al cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de ingreso y de egresos del Municipio, durante la primera quincena del mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
 
 ###### Artículo 309.
 
@@ -4447,9 +4449,11 @@ El presupuesto se ejercerá con base en los calendarios financieros y de metas q
 
 #### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 311.
 
-En cumplimiento de lo dispuesto en el artículo 107 de la Ley Orgánica del Municipio Libre, el Ayuntamiento presentará al Congreso, en el curso del mes de octubre de cada año, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos del año siguiente.
+En cumplimiento de los (sic) dispuesto en el artículo 107 de la Ley Orgánica del Municipio Libre, el Ayuntamiento presentará al Congreso, en el curso de la segunda quincena del mes de septiembre de cada año, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos del año siguiente.
 
 ###### Artículo 312.
 
@@ -5944,3 +5948,9 @@ G.O. 4 DE NOVIEMBRE DE 2004.
 Artículo primero.- El presente Decreto entrará en vigor a partir del siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial, órgano de gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
