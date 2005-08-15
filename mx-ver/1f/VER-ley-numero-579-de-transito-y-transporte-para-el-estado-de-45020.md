@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-579-de-transito-y-transporte-para-el-estado-de-45020
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-08"
-last_updated: "2005-05-12"
+last_updated: "2005-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 8 de agosto de 2003.
 
@@ -339,9 +339,11 @@ III. Motociclista; y
 
 IV. Motorista.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 25.
 
-Para obtener la licencia de conducir en cualquiera de las categorías señaladas en el artículo anterior, el interesado deberá cubrir los siguientes requisitos:
+Para obtener la licencia de conducir en cualquiera de las categorías señaladas en fracciones II, III y IV del artículo anterior, el interesado deberá cubrir los siguientes requisitos:
 
 I. Tener, cuando menos, 18 años de edad;
 
@@ -370,6 +372,10 @@ XII. Los demás que señale el Reglamento.
 El titular de la licencia informará a las autoridades de tránsito y transporte del Estado cualquier modificación que implique cambios a los datos e informes proporcionados para la obtención de la licencia, en los términos previstos por esta Ley y su Reglamento.
 
 Para el otorgamiento de licencias a personas residentes en municipios que presten directamente el servicio de tránsito, los solicitantes acreditarán no tener infracciones pendientes de pago.
+
+> <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+Para obtener la licencia de conducir en la categoría de chofer señalada en el artículo anterior, el interesado deberá además reunir los requisitos señalados en las fracciones II a XII del presente artículo, haber cumplido 21 años de edad y mantener actualizada su capacitación, cursando y aprobando cada dos años el curso de capacitación señalado en la fracción XI de este artículo.
 
 ###### Artículo 26.
 
@@ -437,7 +443,9 @@ En la prestación del servicio público de transporte, en todas las modalidades,
 
 En los casos de suspensión, el interesado podrá solicitar, de no subsistir las causas que la motivaron, la devolución de su licencia, una vez concluido el término de dicha suspensión.
 
-El conductor al que se le haya cancelado su licencia, no tendrá derecho a que se le expida otra, en el lapso de dos años.
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+El conductor al que se le haya cancelado su licencia no tendrá derecho a que se le expida otra en el lapso de dos años. Sin embargo, si se trata de conductor de vehículo de transporte público en cualquiera de las modalidades previstas en esta ley, este lapso será de hasta cinco años, o privación definitiva de la licencia de manejo, en caso de reincidencia.
 
 Los procedimientos para la suspensión o cancelación de las licencias, estarán determinados en el Reglamento.
 
@@ -1083,7 +1091,27 @@ V. Se violen las condiciones establecidas en la concesión otorgada;
 
 VI. No se inicie la prestación del servicio de transporte público concesionado dentro del plazo señalado por esta Ley y su Reglamento, salvo causa de fuerza mayor o que el incumplimiento obedezca a obstáculos insuperables ajenos a la voluntad del concesionario, siempre que lo haya notificado por escrito a la Dirección; y
 
-VII. El conductor cometa algún delito en estado de ebriedad o bajo los efectos de alguna droga o estupefaciente, causando la muerte de alguna persona o lesiones que la incapaciten permanentemente para trabajar.
+VII. El conductor cometa algún delito en estado de ebriedad o bajo los efectos de alguna droga o estupefaciente, causando la muerte de alguna persona o lesiones que la incapaciten permanentemente para trabajar;
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+VIII. El medio de transporte que utilice no cumpla con las condiciones de seguridad, mecánicas, ambientales o atente contra la integridad o salud de la población;
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+IX. El concesionario preste el servicio con unidades no autorizadas;
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+X. El concesionario explote rutas no autorizadas;
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+XI. El concesionario modifique o altere las tarifas autorizadas, y
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+XII. Se instalen en un vehículo de transporte público placas de circulación o autorización oficial para circular que no le corresponden legalmente.
 
 ###### Artículo 98.
 
@@ -1444,3 +1472,9 @@ G.O. 12 DE MAYO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en ka Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
