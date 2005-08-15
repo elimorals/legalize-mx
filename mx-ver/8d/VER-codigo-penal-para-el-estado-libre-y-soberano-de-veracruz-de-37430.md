@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2005-02-10"
+last_updated: "2005-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1067,9 +1067,11 @@ A quien infiera lesiones que pongan en peligro la vida se le impondrán de tres 
 
 Cuando las lesiones sean calificadas, se aumentarán las sanciones hasta en dos terceras partes del máximo de las que corresponderían a las lesiones simples.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 140.
 
-Al que infiera dolosamente lesiones a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo esa relación, se le aumentarán hasta cuatro años de prisión y multa hasta de ciento cincuenta días de salario en las sanciones que corresponderían con arreglo a los artículos precedentes.
+Al que infiera dolosamente lesiones a sus parientes, cónyuge, concubina o concubinario, sabiendo esa relación, se le aumentarán hasta seis años de prisión y multa hasta de ciento cincuenta días de salario en las sanciones que corresponderían con arreglo a los artículos precedentes.
 
 ###### Artículo 141.
 
@@ -1397,6 +1399,8 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO IV. ACOSO SEXUAL
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ## TÍTULO IV. DELITOS CONTRA LA INTIMIDAD PERSONAL Y LA INVIOLABILIDAD DEL SECRETO
 
 ### CAPÍTULO I. DIFAMACIÓN
@@ -1521,9 +1525,9 @@ Si quien comete este delito es servidor público o ejerce una profesión o emple
 
 ###### Artículo 189.
 
-A quien, con fines lascivos, hostigue o moleste reiteradamente a una persona de cualquier sexo, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrán de uno a seis meses de prisión y multa hasta de cien días de salario. Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo, cargo o comisión públicos, hasta por tres años.
+A quien, con fines lascivos, hostigue o moleste reiteradamente a una persona de cualquier sexo, valiéndose de su posición jerárquica, derivada, de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrán de seis meses a tres años de prisión y multa hasta de trescientos días de salario. Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo, cargo o comisión públicos, hasta por cinco años.
 
-Solamente será punible el acoso sexual, cuando se cause a la persona acosada perjuicio o daño.
+Cuando se trate de menores de 16 años y mayores de catorce se impondrá una pena de 1 a 7 años de prisión y multa de quinientos salarios mínimos.
 
 ### CAPÍTULO V. FRAUDE
 
@@ -1599,6 +1603,8 @@ Al servidor público que en ejercicio de su función, incurra en alguna de las c
 
 ### CAPÍTULO I. VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 197.
 
 Los delitos previstos en el presente Título se perseguirán por querella.
@@ -1639,9 +1645,7 @@ Cuando excediere de cien pero no de quinientos días de salario, la sanción ser
 
 Cuando excediere de quinientos días de salario, la sanción será de siete a doce años de prisión y multa hasta de trescientos cincuenta días de salario.
 
-Para estimar la cuantía del robo, se atenderá únicamente al valor de cambio de la cosa robada. Si éste no pudiere determinarse o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicarán de seis meses a cinco años de prisión y multa hasta de doscientos días de salario;
-
-y
+Para estimar la cuantía del robo, se atenderá únicamente al valor de cambio de la cosa robada. Si éste no pudiere determinarse o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicarán de seis meses a cinco años de prisión y multa hasta de doscientos días de salario; y
 
 II. Si el apoderamiento de la cosa se llevó a cabo con ánimo de uso, se impondrán prisión de seis meses a cuatro años y multa hasta de setenta y cinco días de salario. Además, el responsable pagará al ofendido, como reparación del daño, el doble del alquiler o arrendamiento de la cosa usada.
 
@@ -1971,13 +1975,13 @@ Si el juez lo considera conveniente, además de las penas previstas para cada un
 
 ###### Artículo 233.
 
-Se considera violencia familiar el uso de la fuerza física o moral que, de manera reiterada, el agente activo ejerce contra un miembro de su familia, su cónyuge, concubina o concubinario, si habitan en la misma casa, en agravio de su integridad corporal, psíquica o ambas.
-
-Cometerá el delito de violencia familiar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta sin limitación de grado, pariente colateral consanguíneo hasta el cuarto grado, o afines, adoptante o adoptado, que habite en la misma casa de la víctima.
+Se considera violencia familiar el uso de la fuerza física o moral que, de manera reiterada, el agente activo ejerce a sus parientes, cónyuge, concubina o concubinario, si habitan en la misma casa, en agravio de su integridad corporal, psíquica o ambas.
 
 A quien cometa el delito de violencia familiar se le impondrán de dos a seis años de prisión, en su caso caución de no ofender, perderá el derecho a heredar por ley respecto de la víctima y se le sujetará al tratamiento psicoterapéutico correspondiente.
 
-Este delito se perseguirá por querella, salvo que la víctima sea menor de edad o incapaz.
+(REFORMADO, G.O. 15 DE AGOSTO DE 2005) (F. DE E., G.O. 24 DE AGOSTO DE 2005)
+
+Este delito se perseguirá de oficio.
 
 ###### Artículo 234.
 
@@ -2329,7 +2333,9 @@ I. Conduzca un vehículo con temeridad y ponga en peligro la vida, la salud pers
 
 II. En estado de ebriedad o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias tóxicas, maneje vehículos de motor.
 
-Si este delito se comete por conductores de vehículos de transporte público de pasajeros, transporte escolar o de carga, las sanciones serán de dos a ocho años de prisión, multa hasta de ciento cincuenta días de salario y suspensión del derecho para conducir vehículos de motor hasta por otros cuatro años.
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+Si este delito lo cometen conductores de vehículos de transporte público en cualquiera de las modalidades previstas en la Ley de Tránsito y Transporte del Estado, las sanciones serán de tres a nueve años de prisión, multa hasta de cuatrocientos días de salario y suspensión del derecho de conducir vehículos de motor hasta por otros cinco años o privación definitiva del derecho de manejar en caso de reincidencia.
 
 ###### Artículo 277.
 
@@ -3038,3 +3044,35 @@ G.O. 10 DE FEBRERO DE 2005.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan todas las disposiciones de observancia general que se opongan al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 258, POR EL QUE SE REFORMAN LOS ARTICULOS 140 Y 233 DEL CODIGO.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 274, POR EL QUE SE REFORMA EL ARTICULO 276 DEL CODIGO.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 279, POR EL QUE SE REFORMA EL ARTICULO 189 DEL CODIGO.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 284, POR EL QUE SE REFORMA EL ARTICULO 233 DEL CODIGO.
+
+Primero. Presente (sic) decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
