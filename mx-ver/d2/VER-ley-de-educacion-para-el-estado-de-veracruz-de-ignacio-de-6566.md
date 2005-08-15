@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2003-03-18"
+last_updated: "2005-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -625,7 +625,9 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 
 Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades.
 
-Por lo que concierne a la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+Por lo que concierne a la educación preescolar, primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
 La autorización y el reconocimiento serán específicos para cada plan de estudios. Para impartir nuevos estudios se requerirá, según el caso, la autorización o el reconocimiento respectivos.
 
@@ -639,7 +641,13 @@ I. Con personal que acredite la preparación adecuada para impartir educación y
 
 II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento; y
 
-III. Con planes y programas de estudio que la Secretaría de Educación y Cultura considere procedentes, en el caso de educación distinta de la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+III. Con planes y programas de estudio que la Secretaría de Educación y Cultura considere procedentes, en el caso de educación distinta de la preescolar, primaria, la secundaria, la normal y demás para la formación de docentes de educación básica.
+
+> <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
+Los particulares deberán refrendar anualmente las autorizaciones y los reconocimientos de validez oficial de estudios que les hayan sido otorgados.
 
 ###### ARTICULO 79.
 
@@ -665,9 +673,11 @@ V. Facilitar y colaborar en las actividades de información, evaluación, inspec
 
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 82.
 
-La Secretaría de Educación y Cultura deberá inspeccionar y vigilar los servicios educativos respecto de los cuales haya concedido autorizaciones o reconocimientos para verificar el cumplimiento de lo dispuesto por la ley.
+La Secretaría de Educación y Cultura aplicará un programa anual de inspección y vigilancia de cada uno de los servicios educativos respecto de los cuales haya concedido autorizaciones o reconocimientos para verificar el cumplimiento de lo dispuesto por la ley; copia de este programa y de los resultados obtenidos será remitido a la Comisión Permanente de Educación y Cultura del Congreso, para su evaluación.
 
 ###### ARTICULO 83.
 
@@ -721,7 +731,9 @@ I. Ostentarse como plantel incorporado sin estarlo;
 
 II. Incumplir con lo dispuesto en el artículo 81;
 
-III. Impartir educación primaria, secundaria, normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+
+III. Impartir educación preescolar, primaria, secundaria, normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente.
 
 En los supuestos previstos en este artículo, además de aplicarse las sanciones señaladas en la fracción I del artículo 85, podrá procederse a la clausura del plantel respectivo.
 
@@ -940,3 +952,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los dos meses siguientes al inicio de la vigencia de estas reformas la Secretaría de Educación y Cultura deberá elaborar el programa a que se refiere el artículo 82 de la Ley de Educación para el Estado de Veracruz de Ignacio de la Llave, y remitir la copia al Congreso del Estado.
