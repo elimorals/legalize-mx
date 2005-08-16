@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2005-07-21"
+last_updated: "2005-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,67 +19,101 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CARNE DE BOVINO O SU EQUIVALENTE EN GANADO BOVINO EN PIE SUPERIOR O IGUAL A 250 KILOGRAMOS Y QUESO FRESCO, ACONDICIONADO PARA SU VENTA AL POR MENOR, ORIGINARIOS DE LA REPUBLICA DE NICARAGUA.
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de julio de 2005.
+Acuerdo publicado en el Diario Oficial de la Federación, el martes 16 de agosto de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 del Reglamento de la Ley de Comercio Exterior, 34 de la Ley Orgánica de la Administración Pública Federal; y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33, 35 de su Reglamento; 1o. y 5o. fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
 Que el 30 de abril de 1998, fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
 
-Que el artículo 3-04, párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que el artículo 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cupo;
 
-Que los procedimientos a través de los cuales se asignan los cupos de importación establecidos en el Tratado, son un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
+Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, establece en el artículo sexto transitorio inciso IV, disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada Ley;
+
+Que el procedimiento a través del cual se asigna el cupo de importación de leche establecido en el Tratado, es un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
 
 Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR, CARNE DE BOVINO O SU EQUIVALENTE EN GANADO BOVINO EN PIE SUPERIOR O IGUAL A 250 KILOGRAMOS Y QUESO FRESCO, ACONDICIONADO PARA SU VENTA AL POR MENOR, ORIGINARIOS DE LA REPUBLICA DE NICARAGUA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para importar en el periodo de julio al 30 de junio de los años 2005 a 2006 y 2006 a 2007, carne de bovino o su equivalente en ganado bovino en pie superior o igual a 250 kilogramos, y queso fresco, acondicionado para su venta al por menor, originarios de la República de Nicaragua, con los aranceles-cupo establecidos en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, son los que se determinan a continuación:
+El cupo para importar en el periodo que correrá a partir de la entrada en vigor del presente Acuerdo y hasta el 30 de junio de 2006, leche en polvo originaria de la República de Nicaragua, con el arancel-cupo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios, durante cada periodo anual, de julio al 30 de junio, se aplicará a los cupos de importación a que se refiere el presente instrumento, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
+Con el objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de asignación mixto (asignación directa y licitación pública), al contingente arancelario de importación a que se refiere el presente Acuerdo, conforme al cuadro siguiente:
+
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de este cupo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía a través de la Dirección General de Comercio Exterior, hasta agotar el cupo.
+Podrán solicitar asignación del contingente arancelario de importación a que se refiere el presente Acuerdo:
+
+I.- Asignación directa
+
+A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo;
+
+B. Personas físicas o morales del sector privado, con antecedentes de asignación en el año previo, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo, considerando sus consumos auditados de materias primas lácteas durante el periodo reportado, conforme a la hoja de requisitos anexa, y
+
+II.- Licitación pública
+
+C. Personas físicas o morales del sector privado con y sin antecedentes de asignación en el año previo, que utilizan leche en polvo en sus procesos productivos, que realicen una transformación sustancial de este insumo.
+
+Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquella en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único, además de que no puede comercializarse en el mismo estado físico en que se importa.
+
+Para la empresa mencionada en el inciso A) de este artículo, la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), de conformidad con lo señalado en los artículos segundo y tercero de este Acuerdo; para las empresas señaladas en el inciso B), la asignación directa se realizará a través de la DGCE, de manera proporcional con base en los consumos auditados conforme se detalla en el artículo siguiente.
+
+La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
+
+La vigencia máxima de los certificados de cupo será al 30 de junio de 2006.
 
 ###### ARTICULO CUARTO.
 
-Para cada año, la primera solicitud de asignación de cupo a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La hoja de requisitos específicos se establece como Anexo al presente instrumento.
+Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso B) del artículo tercero de este Acuerdo, se considerará lo siguiente:
+
+Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada en litros equivalentes, usando el factor de conversión de 8.5 para leche en polvo entera y 11.3 para leche en polvo descremada, no sobrepase el 30% de la suma de los consumos auditados de leche fluida y de leche en polvo, nacional e importada, en litros equivalentes durante 2004. Asimismo, registrarán sus compromisos de adquisición de leche de producción nacional para 2005.
+
+El monto asignado se distribuirá a prorrata, es decir proporcionalmente entre las empresas, con base en los consumos auditados de leche fluida de producción nacional. A cada solicitante se asignará el monto que resulte menor entre el monto solicitado o el que resulte de la prorrata.
+
+Para la asignación de este monto, se prevé que este proceso se lleve a cabo entre las empresas que cumplan adecuadamente con todos los requisitos establecidos en la hoja anexa para este propósito; en caso de que alguna empresa no cumpla con todos los requisitos, de contar con los elementos necesarios para estimar su asignación (consumos auditados), se reservará el monto que resulte de la aplicación de la fórmula arriba expuesta. En caso contrario, la empresa podrá ser tomada en cuenta hasta que se disponga de los elementos necesarios para estimar su asignación, siempre que exista saldo disponible en el periodo, en cuyo caso se le asignará el monto que resulte menor entre el 20 por ciento del monto del periodo, el monto solicitado o un porcentaje similar al que resulte de la prorrata realizada.
+
+Para la distribución del cupo por asignación directa se prevé la recepción de solicitudes en dos periodos, como se señala en la cuarta columna del inciso B), en el cuadro del artículo segundo de este instrumento, asignándose el cupo disponible en el primer periodo hasta agotarlo de ser el caso; en caso de existir saldo disponible, se abrirá el segundo periodo de recepción de solicitudes para distribuirlo entre las personas físicas o morales del sector privado que cumplan con los requisitos establecidos en este Acuerdo.
 
 ###### ARTICULO QUINTO.
 
-Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato "Solicitud de certificados de cupo (obtenido por asignación directa)" SE-03-013-5, adjuntando copia de la factura comercial señalando el monto y del certificado de origen, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
+Las licitaciones públicas previstas en este Acuerdo, se sujetarán a las bases que establezca la convocatoria correspondiente, la cual deberá ser publicada en el Diario Oficial de la Federación, por la Dirección General de Comercio Exterior, por lo menos 20 días hábiles antes de que inicie el registro de solicitudes, en la que se establecerá la fecha en que se pondrán a disposición de los interesados las bases correspondientes.
 
-Cuando el solicitante haya sido beneficiario de una expedición, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio de por lo menos el 90% de su asignación anterior, anexando copia del pedimento de importación a la solicitud correspondiente.
+Los interesados en participar en las licitaciones públicas, deberán presentar su oferta en la forma SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, adjuntando la documentación que corresponda conforme se señale en las bases de la licitación.
 
-El certificado de cupo es nominativo e intransferible, y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
-
-Para el periodo comprendido de julio de 2005 al 30 de junio de 2006, la vigencia máxima de los certificados será al 30 de junio de 2006.
-
-Para el periodo comprendido del 1 de julio de 2006 al 30 de junio de 2007, la vigencia máxima de los certificados será al 30 de junio de 2007.
+La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
 
 ###### ARTICULO SEXTO.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
+Las solicitudes de asignación directa, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo” en la Representación Federal de esta Secretaría que le corresponda, la hoja de requisitos específicos se establece como anexo al presente instrumento.
 
-Para el formato de solicitud de asignación de cupo (SE-03-011-1):
+###### ARTICULO SEPTIMO.
 
-http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905721&num_modalidad=1.
+La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán reuniones con los representantes de las principales organizaciones de productores e industriales que integran la cadena productiva de leche y derivados lácteos, con el fin de evaluar y dar seguimiento a la administración de este cupo.
 
-Para el formato de expedición del certificado de cupo (SE-03-013-5):
+###### ARTICULO OCTAVO.
 
-http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num_modalidad=0.
+Una vez asignado el monto para importar dentro del contingente arancelario por el mecanismo de asignación directa, la Secretaría expedirá los respectivos certificados de cupo, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+
+Una vez demostrado el pago de adjudicación del monto para importar dentro del contingente arancelario, obtenido a través del mecanismo de licitación pública, conforme lo establezcan las bases de la propia licitación, la Secretaría de Economía expedirá los respectivos certificados de cupo a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por licitación pública)” SE-03-013-6. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+
+###### ARTICULO NOVENO.
+
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica:
+
+http://www.apps.cofemer.gob.mx/buscador/nuevo_tree.asp?org=SE&view=20&page=7.
 
 ###### ARTÍCULO 1.
 
@@ -247,9 +281,9 @@ En aquellos casos de este artículo o en los de la columna “Noruega” del Ap�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2007.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2006.
 
-México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 5 de agosto de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
 ANEXO
 
@@ -257,18 +291,28 @@ SECRETARIA DE ECONOMIA
 
 DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DEL CUPO DE IMPORTACION ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS MEXICANOS Y LA REPUBLICA DE NICARAGUA DE LOS SIGUIENTES PRODUCTOS:
+Julio 2005-Junio 2006
 
-CARNE DE BOVINO O SU EQUIVALENTE EN GANADO BOVINO EN PIE SUPERIOR O IGUAL A 250 KG
+REQUISITOS PARA LA ASIGNACION EL CUPO DE IMPORTACION ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE NICARAGUA
 
-Fracciones: 0201.10.01; 0201.20.99; 0201.30.01; 0202.10.01; 0202.20.99; 0202.30.01 y 0102.90.99
+LECHE EN POLVO
 
-QUESO FRESCO, ACONDICIONADO A SU VENTA AL POR MENOR
+(0402.10.01 Y 0402.21.01)
 
-Fracción: 0406.10.01
+PARA EMPRESAS CON ANTECEDENTES DE ASIGNACION EN EL AÑO PREVIO
 
-Asignación Directa bajo la modalidad de
+Asignación Directa
 
-“Primero en tiempo, primero en derecho“
+(VEASE CUADRO ANEXO)
 
-(VEASE ARCHIVO ANEXO)
+No se menciona a la empresa del sector público porque no se sujeta a estos requisitos.
+
+(1) El auditor externo deberá firmar el reporte e indicar su número de registro, así como rubricar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de cupo de importación de leche en polvo OMC y/o TLCAN.
+
+(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
+
+(3) Se deberá expresar en litros equivalentes, usando el factor de conversión de 8.5 para leche en polvo entera (1 kilo por 8.5) y 11.3 para leche en polvo descremada (1 kilo por 11.3).
+
+(4) En el caso de leche en polvo de procedencia nacional, se deberá indicar el ganadero productor de leche fluida a partir de la cual se elaboró este insumo (nombre, dirección y monto); de no presentar esta información el reporte, no se considerará como consumo de leche fluida, de conformidad con lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005.
+
+NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
