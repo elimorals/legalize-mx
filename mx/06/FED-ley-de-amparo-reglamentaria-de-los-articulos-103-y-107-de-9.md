@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2001-05-17"
+last_updated: "2005-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -159,11 +159,17 @@ III.- Contra las resoluciones del Ministerio Público que confirmen el no ejerci
 
 Es autoridad responsable la que dicta, promulga, publica, ordena, ejecuta o trata de ejecutar la ley o el acto reclamado.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 12.
 
+Los órganos legislativos federales, de los Estados y del Distrito Federal, podrán ser representados directamente en el juicio por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos o representantes legales, respecto de los actos que se les reclamen.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
 En los casos no previstos por esta Ley, la personalidad se justificará en el juicio de amparo en la misma forma que determine la ley que rija la materia de la que emane el acto reclamado; y en caso de que ella no lo prevenga, se estará a lo dispuesto por el Código Federal de Procedimientos Civiles.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 Tanto el agraviado como el tercero perjudicado podrán constituir apoderado para que los represente en el juicio de amparo, por medio de escrito ratificado ante el juez de Distrito o autoridad que conozca de dicho juicio.
 
@@ -203,15 +209,21 @@ En el caso previsto por el artículo anterior, si a pesar de las medidas tomadas
 
 Transcurrido un año sin que nadie se apersone en el juicio en representación legal del agraviado, se tendrá por no interpuesta la demanda.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-Las autoridades responsables no pueden ser representadas en el juicio de amparo, pero sí podrán, por medio de simple oficio, acreditar delegados que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen y hagan promociones.
+Salvo las excepciones previstas en el primer párrafo del artículo 12 de esta Ley y en el párrafo segundo del presente artículo, las autoridades responsables no pueden ser representadas en el juicio de amparo, pero sí podrán, por medio de simple oficio, acreditar delegados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan los incidentes y recursos previstos en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
 
 No obstante lo dispuesto en el párrafo anterior, el Presidente de la República podrá ser representado en todos los trámites establecidos por esta Ley, en los términos que determine el propio Ejecutivo Federal por el conducto del Procurador General de la República, por los Secretarios de Estado y Jefes de Departamento Administrativo a quienes en cada caso corresponda el Asunto, según la distribución de competencias establecidas en la Ley Orgánica de la Administración Pública Federal.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
+
 En estos casos y en los juicios de amparo promovidos contra los titulares de las propias dependencias del Ejecutivo de la Unión, éstos podrán ser suplidos por los funcionarios a quienes otorguen esa atribución los Reglamentos interiores que se expidan conforme la citada Ley Orgánica.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
 
 En los amparos relativos a los asuntos que correspondan a la Procuraduría General de la República, su titular podrá también representar al Presidente de los Estados Unidos Mexicanos, y ser suplido por los funcionarios a quienes otorgue esta atribución el Reglamento de la Ley Orgánica de dicha Procuraduría.
 
@@ -1691,7 +1703,7 @@ Al tercero perjudicado se le entregará copia de la demanda por conducto del act
 
 Los jueces de Distrito o las autoridades judiciales que conozcan de los juicios de amparo, con arreglo a esta ley, deberán resolver si admiten o desechan las demandas de amparo dentro del término de veinticuatro horas, contadas desde la en que fueron presentadas.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 ###### ARTICULO 149.
 
@@ -1705,7 +1717,7 @@ Las autoridades responsables deberán rendir su informe con justificación expon
 
 Cuando la autoridad responsable no rinda su informe con justificación se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo del quejoso la prueba de los hechos que determinen su inconstitucionalidad cuando dicho acto no sea violatorio de garantías en sí mismo, sino que su constitucionalidad o inconstitucionalidad dependa de los motivos, datos o pruebas en que se haya fundado el propio acto.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 Si la autoridad responsable no rinde informe con justificación, o lo hace sin remitir, en su caso, la copia certificada a que se refiere el párrafo segundo de este artículo, el juez de Distrito le impondrá, en la sentencia respectiva, una multa de diez a ciento cincuenta días de salario. No se considerará como omisión sancionable, aquélla que ocurra debido al retardo en la toma de conocimiento del emplazamiento, circunstancia que deberá demostrar la autoridad responsable.
 
@@ -2898,3 +2910,7 @@ UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación e
 D.O.F. 17 DE MAYO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
