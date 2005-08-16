@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-7956
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-23"
-last_updated: "1998-06-16"
+last_updated: "2005-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GATO PUBLICO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 16 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el miércoles 23 de noviembre de 1994.
 
@@ -310,3 +312,17 @@ P.O. 16 DE JUNIO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 23 de noviembre de 1998.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley, específicamente la fracción XIV del artículo 34 de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí.
+
+CUARTO. Las disposiciones administrativas en uso a la fecha de entrada en vigor de la presente Ley, seguirán teniendo aplicación en lo que no se le opongan.
+
+QUINTO. Los artículos de la Ley del Presupuesto de Egresos del Estado, Ejercicio Fiscal 2005, cuyo contenido fue reproducido en esta Ley, seguirán vigentes en dicho Ordenamiento, solamente para este año.
+
+SEXTO. Dentro de los noventa días siguientes de la entrada en vigencia de esta Ley, el Ejecutivo del Estado deberá emitir el Reglamento de la misma. En tanto, se aplicará el Reglamento de la anterior ley en lo que no se oponga a este Ordenamiento.
