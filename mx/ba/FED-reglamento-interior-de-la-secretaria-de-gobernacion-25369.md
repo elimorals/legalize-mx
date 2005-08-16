@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-25369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2004-09-01"
+last_updated: "2005-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2002-07-29"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2005.
 
-Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación el martes 30 de julio de 2002.
+Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el martes 30 de julio de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1401,15 +1401,21 @@ II. Las aportaciones que reciba y las que puedan derivarse de acuerdos o conveni
 
 III. Los demás ingresos o bienes que reciba por cualquier otro medio legal.
 
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 46.
 
-El Instituto Nacional para el Federalismo y el Desarrollo Municipal estará a cargo de un Director General, quien será nombrado y removido por el Secretario de Gobernación.
+El Instituto Nacional para el Federalismo y el Desarrollo Municipal estará a cargo de un Coordinador con nivel jerárquico de Jefe de Unidad, quien será nombrado y removido por el Secretario.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 47.
 
-El Instituto contará con un Consejo Consultivo, cuya función será la de asesorar al Director General del Instituto.
+El Instituto contará con un Consejo Consultivo, cuya función será la de asesorar al Coordinador del Instituto.
 
-El Consejo Consultivo será presidido por el Subsecretario de Gobierno, cuyas ausencias serán suplidas por el Director General del Instituto.
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2005)</small>
+
+El Consejo Consultivo será presidido por el Subsecretario de Gobierno, cuyas ausencias serán suplidas por el Coordinador del Instituto.
 
 El Consejo Consultivo se integrará por especialistas en las materias de federalismo, descentralización y desarrollo municipal, que representarán a los ámbitos federal, estatal y municipal de gobierno, así como a los sectores social y privado involucrados en la materia.
 
@@ -2164,3 +2170,9 @@ CUARTO. Las transferencias o cancelaciones de recursos, serán atendidas por las
 QUINTO. Las menciones que los reglamentos y demás disposiciones jurídicas hagan del Subsecretario de Desarrollo Político de la Secretaría de Gobernación, se entenderán referidas al Comisionado para el Desarrollo Político a que se refiere el presente Decreto.
 
 SEXTO. Las menciones que en otros reglamentos y demás disposiciones jurídicas hagan de la Dirección General de Desarrollo Político de la Secretaría de Gobernación, se entenderán referidas a la Unidad para el Desarrollo Político o a la Dirección General de Cultura Democrática y Fomento Cívico, según corresponda a las atribuciones de una u otra.
+
+D.O.F. 16 DE AGOSTO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las menciones que los reglamentos y demás ordenamientos jurídicos hagan del Director General del Instituto Nacional para el Federalismo y el Desarrollo Municipal, se entenderán referidas al Coordinador General del Instituto Nacional para el Federalismo y el Desarrollo Municipal.
