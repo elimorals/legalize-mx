@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-07-07"
+last_updated: "2005-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,25 +18,33 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE ESTABLECE UN ARANCEL-CUPO A LAS IMPORTACIONES ADICIONALES DE MAIZ AMARILLO DURANTE 2005, PARA LAS MERCANCIAS ORIGINARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2005, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en el Diario Oficial de la Federación, el jueves 7 de julio de 2005.
+Acuerdo publicado en el Diario Oficial de la Federación, el martes 16 de agosto de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior; sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, publicada en el Diario Oficial de la Federación el 24 de noviembre de 2004, establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las Partes en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
+Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las Partes;
 
-Que la oferta nacional de maíz amarillo resulta insuficiente para el abasto competitivo para los sectores productivos del país, por lo que se hace necesario complementarla con importaciones, a fin de que las industrias que lo utilizan en sus procesos productivos tengan acceso a este insumo en condiciones competitivas;
+Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las Partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que durante las consultas con organizaciones de productores e industriales consumidores de maíz y el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, se resolvió sobre la importancia de promover la competitividad de las cadenas de productos agrícolas, y
+Que el 29 de marzo de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que modifica al diverso por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte;
 
-Que la Comisión de Comercio Exterior ha emitido opinión favorable respecto a la tasa arancelaria aplicable a la cuota adicional de maíz amarillo, he tenido a bien expedir el siguiente
+Que el monto del cupo mínimo destinado a empresa del sector público ha sido asignado en su totalidad para cubrir las necesidades del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo, por lo que es necesario satisfacer sus requerimientos de abasto social para el resto del año;
 
-DECRETO
+Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, establece en el artículo sexto transitorio fracción IV, disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada Ley;
+
+Que el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005 establece que en los casos en que se requiera importar leche en polvo o en pastillas indispensable para el abasto nacional, que rebasen las cuotas mínimas libres de arancel acordadas por las partes en los Tratados de Libre Comercio, por lo que a LICONSA se le asignarán las cuotas adicionales equivalentes a un 11% de la cuota mínima total destinada a esta empresa;
+
+Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para el abasto nacional en condiciones equitativas de competencia, y
+
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2005, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO 1o.
 
@@ -70,7 +78,7 @@ Los permisos previos que se tramiten ante la Secretaría de Economía, para la i
 
 ###### ARTICULO PRIMERO.
 
-El cupo para importar, en el periodo 1 de enero al 31 de diciembre de cada año, jugo de naranja originario de Estados Unidos de América, con el arancel-cuota establecido en el artículo 302, párrafo 4 del Tratado de Libre Comercio de América del Norte, es el que se determina a continuación:
+El incremento para 2005 al cupo mínimo determinado en el Acuerdo por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de diciembre de 2003, y modificado mediante diverso publicado en el mismo órgano informativo el 29 de marzo de 2005, es el que se determina en el cuadro siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -158,87 +166,37 @@ II.- Tratándose de productos calificados de Canadá, el criterio para trato pre
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación directa del arancel-cuota de importación a que se refiere el presente Acuerdo:
-
-I.- Asignación directa:
-
-A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo, y
-
-B. Personas físicas o morales del sector privado, con antecedentes de asignación en el año previo, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) durante el periodo reportado, conforme a la hoja de requisitos anexa.
-
-II.- Licitación pública:
-
-A. Personas físicas o morales del sector privado con antecedentes de asignación en el año previo, que no cumplen con la condición señalada en el párrafo segundo del artículo cuarto de este Acuerdo; que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo, y
-
-B. Personas físicas o morales del sector privado, que utilizan leche en polvo en sus procesos productivos, que realicen una transformación sustancial de este insumo.
-
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquella en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso, tiene características distintas a las de la materia prima de donde proviene, no se puede comercializar al público como tal y se trata de una materia prima importante pero no la única.
-
-Para la empresa mencionada en el numeral I inciso A) de este artículo la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), de conformidad a lo señalado en los artículos segundo y tercero de este Acuerdo; para las empresas señaladas en el numeral I inciso B), la asignación directa se realizará a través de la DGCE, conforme a las fórmulas establecidas por la Dirección General de Industrias Básicas (DGIB), que se señalan en el artículo cuarto de este Acuerdo, dentro de los siete días hábiles siguientes a la fecha en que la DGCE cuente con los elementos necesarios para emitir la resolución correspondiente.
-
-Para la aplicación de los criterios y fórmulas que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior, podrá solicitar la opinión de la Dirección General de Industrias Básicas.
-
-La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
-
-La vigencia máxima de los certificados de cupo será al 31 de diciembre de cada año.
+Podrá solicitar asignación de la cuota adicional la empresa del sector público encargada del programa de abasto social de leche, de conformidad a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo.
 
 ###### ARTICULO CUARTO.
 
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el numeral I inciso B) del artículo tercero de este Acuerdo, se tomará en cuenta lo siguiente:
+La asignación del cupo a que se refiere el presente Acuerdo se hará a través de la Dirección General de Comercio Exterior, de conformidad con lo señalado en los artículos segundo y tercero de este Acuerdo.
 
-Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada en litros equivalentes, usando el factor de conversión de 8.5 para leche en polvo entera y 11.3 para leche en polvo descremada, no sobrepase el 30% de la suma de los consumos auditados de leche fluida y de leche en polvo, nacional e importada, en litros equivalentes durante 2004. Asimismo, registrarán sus compromisos de adquisición de leche de producción nacional para 2005.
+La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
 
-Una vez que el solicitante cumpla con la condición previa, se determinará un monto de referencia equivalente al 30 por ciento de su consumo auditado de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) durante el periodo reportado, el cual será calculado aplicando la siguiente fórmula:
-
-(VEASE ARCHIVO ANEXO)
-
-Los criterios de asignación aplicables a las empresas solicitantes de este cupo, son los que a continuación se indican:
-
-I. Para las empresas con un consumo de materias primas lácteas importadas durante el periodo previo reportado (últimos doce meses) bajo cupo (obtenido por asignación directa y/o licitación pública), inferior o igual a su nivel de referencia, se asignará la menor de las dos cantidades siguientes:
-
-a. Su monto de referencia, 30 por ciento de su consumo auditado de materias primas lácteas durante el periodo reportado (últimos doce meses), o
-
-b. La cantidad que resulte mayor de: i) el monto total autorizado en el año previo de los cupos mínimos de leche en polvo (OMC y TLCAN), de la cuota adicional y del cupo unilateral de preparaciones a base de productos lácteos, obtenidos por asignación directa y/o licitación pública, más un 5 por ciento, o ii) el monto programado en el año previo de leche en polvo y preparaciones a base de productos lácteos*.
-
-* Se refiere a la cantidad estimada para la asignación del año previo, para cada uno de los solicitantes, con base en sus consumos de materias primas lácteas del año previo.
-
-En ambos casos, el resultado se ajustará por:
-
-- la proporción de los cupos de importación de leche en polvo asignados a la empresa respecto del total de los cupos de importación de materias primas lácteas (leche en polvo y preparaciones a base de productos lácteos) asignados a la empresa en el año previo;
-
-- la participación del monto disponible para asignación directa del sector privado del cupo TLCAN, respecto al monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para el sector privado, y
-
-- la distribución estacional de la asignación de cupos de importación por cuatrimestre.
-
-La fórmula que se aplicará para este grupo será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-Notas:
-
-- De 2005 a 2007 el programa se refiere al monto determinado mediante la aplicación de la fórmula en el año previo.
-
-- Para las asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permita al solicitante hacer económicamente viable la importación.
-
-En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de materias primas lácteas reportado en el año previo.
-
-En el caso de que la vigencia de las asignaciones de los dos primeros cuatrimestres del año, no sea suficiente para realizar la importación del producto, debido a causas no imputables a la empresa beneficiaria, se podrá solicitar prórroga hasta por 30 días naturales antes del vencimiento del beneficio, mediante escrito dirigido a la Dirección General de Comercio Exterior, presentando la documentación que soporte su petición.
+La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2005.
 
 ###### ARTICULO QUINTO.
 
-Se deroga.
+Las solicitudes de asignación del incremento al cupo mínimo mencionado en este Acuerdo, deberán presentarse en el formato SE-03-011-1 Solicitud de Asignación de Cupo, en la ventanilla de la Representación Federal de esta Secretaría que corresponda.
 
 ###### ARTICULO SEXTO.
 
-Las solicitudes de asignación directa, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo” en la Representación Federal de esta Secretaría que le corresponda, en el caso de la empresa del sector público encargada del programa de abasto social de leche y de las personas físicas o morales del sector privado que utilizan leche en polvo en sus procesos productivos, de conformidad con el numeral I, incisos A y B del artículo tercero del presente Acuerdo; asimismo, la hoja de requisitos específicos se establece como anexo al presente instrumento.
+Una vez asignado el monto para importar dentro del arancel-cupo, la Secretaría, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, expedirá los certificados de cupo, previa solicitud del interesado en el formato SE-03-013-5 Solicitud de certificados de cupo (obtenido por asignación directa).
+
+El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo será al 31 de diciembre de 2005 y será improrrogable.
 
 ###### ARTICULO SEPTIMO.
 
-Las licitaciones públicas previstas en el artículo segundo de este Acuerdo, se sujetarán a las bases que establezca la convocatoria correspondiente, la cual deberá ser publicada en el Diario Oficial de la Federación, por la Dirección General de Comercio Exterior, por lo menos 20 días hábiles antes de que inicie el periodo de registro de solicitudes, en la que se establecerá la fecha en que se pondrán a disposición de los interesados las bases correspondientes.
+Los formatos citados en el presente Acuerdo estarán a disposición en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica:
+
+http://www.apps.cofemer.gob.mx/buscador/nuevo_tree.asp?org=SE&view=20&page=7
 
 ###### ARTICULO SEGUNDO.
 
-Con el objeto de complementar el abasto doméstico de leche en polvo, para el periodo 2004 al 2007 se aplicará el mecanismo de asignación mixto (asignación directa y licitación pública) al cupo mínimo correspondiente a cada año y referidos en el presente Acuerdo, conforme al cuadro siguiente:
+Para la asignación del monto adicional a que se refiere el presente Acuerdo, se aplicará el mecanismo de asignación directa, conforme al siguiente cuadro:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -388,8 +346,6 @@ Las disposiciones del presente Decreto no liberan del cumplimiento de las restri
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2005.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2005.
 
-> <small>(F. DE E., D.O.F 12 DE JULIO DE 2005)</small>
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de julio de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.
+México, D.F., a 5 de agosto de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
