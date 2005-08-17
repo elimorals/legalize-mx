@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2005-07-22"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1381,7 +1381,7 @@ Podrán ser sujetos de Juicio Político los Diputados al Congreso del Estado, lo
 
 ###### Art. 111.
 
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado declarará por no menos de dos terceras partes de los miembros que lo forman y previa audiencia del acusado, si ha lugar a procedimiento ulterior; en caso afirmativo, el acusado queda por ese sólo hecho separado de su cargo y será puesto a disposición del Tribunal Superior de Justicia. Éste , reunido en Pleno y erigido en Jurado de sentencia, procederá a aplicar, a mayoría absoluta de votos, la sanción que en el caso a discusión proceda, una vez desahogadas las diligencias correspondientes.
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado declarará por no menos de dos terceras partes de los miembros que lo forman y previa audiencia del acusado, si ha lugar a procedimiento ulterior; en caso afirmativo, el acusado queda por ese sólo hecho separado de su cargo y será puesto a disposición del Tribunal Superior de Justicia. Éste, reunido en Pleno y erigido en Jurado de sentencia, procederá a aplicar, a mayoría absoluta de votos, la sanción que en el caso a discusión proceda, una vez desahogadas las diligencias correspondientes.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -2077,13 +2077,17 @@ Se faculta al Gobernador del Estado para celebrar con la Federación convenios d
 
 El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento ambulatorio y con internamiento de menores infractores.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Art. 18.
 
-Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la Ley Penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
+Ninguna detención ante la autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la Ley Penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos, que serán corregidos por las leyes y reprimidos por las autoridades.
 
@@ -2817,7 +2821,7 @@ Artículo Tercero.- Los Municipios y la Legislatura Local se coordinarán para q
 
 Artículo Cuarto.- Los derechos adquiridos por particulares, servidores públicos del Estado y de los Municipios de éste, con anterioridad a la entrada en vigor de este Decreto, serán respetados.
 
-Artículo Quinto.- En tanto se crean o modifican las leyes municipales correspondientes y se establecen los órganos a que se refiere el Artículo 130 de esta Constitución, se continuarán aplicando las leyes existentes. así mismo, los procedimientos y procesos iniciados con anterioridad, a la fecha de entrada en vigor de este Decreto, se seguirán tramitando conforme a lo dispuesto por las leyes con que se iniciaron.
+Artículo Quinto.- En tanto se crean o modifican las leyes municipales correspondientes y se establecen los órganos a que se refiere el Artículo 130 de esta Constitución, se continuarán aplicando las leyes existentes. Así mismo, los procedimientos y procesos iniciados con anterioridad, a la fecha de entrada en vigor de este Decreto, se seguirán tramitando conforme a lo dispuesto por las leyes con que se iniciaron.
 
 Artículo Sexto.- Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor del mismo, sean prestados por el Estado, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
 
@@ -2968,3 +2972,7 @@ DECRETO NUMERO 264, QUE REFORMA DIVERSOS ARTICULOS.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se deroga el Decreto número 49 emitido por la LXIX Legislatura al Congreso del Estado y publicado en el Periódico Oficial de fecha 11 de mayo de 2001.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
