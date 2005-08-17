@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-350-de-ejecucion-de-sanciones-para-el-estado-de-6567
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-01"
-last_updated: "2003-03-18"
+last_updated: "2005-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 1 de febrero de 1992.
 
@@ -631,7 +631,9 @@ Procederá la cancelación de un registro del Casillero Judicial, cuando:
 
 I.- Se dicte sentencia absolutoria definitiva.
 
-II.- A partir de la fecha en que se dé cumplimiento a la sentencia, transcurra un término de diez años y no se haya cometido otro delito durante el período.
+> <small>(REFORMADA, G.O. 17 DE AGOSTO DE 2005)</small>
+
+II. A partir de la fecha en que se dé cumplimiento a la sentencia, transcurra un término de 10 años, cuando el delito sea considerado como grave por el Código Penal del Estado y no se haya cometido otro delito durante el periodo. Y si el delito es considerado como no grave y la persona sea delincuente primario, a partir de la fecha en que se dé cumplimiento a la sentencia.
 
 Para la cancelación del registro, se requerirá solicitud del interesado en la que acredite su procedencia.
 
@@ -680,3 +682,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 17 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan las disposiciones de observancia general que se opongan a este decreto.
