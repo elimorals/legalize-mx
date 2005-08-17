@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13567"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-01"
-last_updated: "2000-10-16"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA INTEGRAL PARA EL MANEJO ECOLOGICO Y PROCESAMIENTO DE DESECHOS- ANTES SISTEMA METROPOLITANO DE PROCESAMIENTO DE DESECHOS SOLIDOS
 
-LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO "SISTEMA METROPOLITANO DE PROCESAMIENTO DE DESECHOS SOLIDOS" (SEMIPRODESO)
+LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA INTEGRAL PARA EL MANEJO ECOLOGICO Y PROCESAMIENTO DE DESECHOS (SIMEPRODE)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de junio de 1987.
 
@@ -33,67 +33,85 @@ Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
 DECRETO NUM. 100
 
-LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SISTEMA METROPOLITANO DE PROCESAMIENTO DE DESECHOS SOLIDOS"(SIMEPRODESO).
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2005)</small>
+
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA INTEGRAL PARA EL MANEJO ECOLÓGICO Y PROCESAMIENTO DE DESECHOS (SIMEPRODE).
 
 > <small>(ADICIONADA SU DENOMINACION, P.O. 16 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO I. DE LA NATURALEZA Y OBJETO
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 1.
 
-Se crea el organismo público descentralizado denominado "SISTEMA METROPOLITANO DE PROCESAMIENTO DE DESECHOS SÓLIDOS", con personalidad jurídica y patrimonio propios, que tendrá su domicilio en la Ciudad de Monterrey, Nuevo León.
+Se crea el Organismo Público Descentralizado denominado Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, con personalidad jurídica y patrimonio propios, que tendrá su domicilio en la ciudad de Monterrey, Nuevo León y podrá ser trasladado a cualquiera de los Municipios del Estado, por acuerdo del Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 2.
 
-Este Organismo tendrá por objeto prestar el servicio de acopio, recepción, transporte, depósito, almacenaje, aprovechamiento, reciclaje, transformación y procesamiento de todo tipo de desechos sólidos y sus subproductos a cualquier municipio de la entidad, y a cualquier persona física o moral, pública o privada.
+Este Organismo tendrá por objeto prestar los servicios de acopio, recepción, transporte, almacenaje, aprovechamiento, reciclaje, transformación, procesamiento, comercialización, disposición final y en su caso, confinamiento de todo tipo de desechos sólidos, incluyendo residuos de manejo especial y peligroso, siempre y cuando obtenga la autorización de la autoridad competente y se cumpla con las normas y disposiciones federales en cada caso, así como sus subproductos, de cualquier Municipio de la entidad, Estado de la República Mexicana, y en general, a cualquier persona física o moral, pública o privada, nacional siempre y cuando estén establecidas en el Estado. El Organismo podrá prestar y recibir servicios de asesoría técnica y de investigación científica nacional o del extranjero.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
 Queda excluido el servicio público de recolección directa de basura doméstica, que seguirán prestando los municipios del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
 El Organismo podrá comercializar los desechos sólidos y subproductos a que se refiere el primer párrafo de este artículo sujetándose a las Leyes aplicables.
 
 ### CAPITULO II. ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 3.
 
-Para el cumplimiento de su objeto el Sistema Metropolitano de Procesamiento de Desechos Sólidos, tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, el Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-I.- Construir, administrar, mantener, operar y rehabilitar los lugares y las instalaciones donde se realice el acopio, recepción, transporte, depósito, almacenaje, aprovechamiento, reciclaje, transformación, procesamiento y comercialización de los desechos sólidos y sus subproductos;
+I.- Construir, administrar, mantener, operar y rehabilitar los lugares y las instalaciones donde se realice el acopio, recepción, transporte, almacenaje, aprovechamiento, reciclaje, transformación, procesamiento, comercialización y confinamiento de los desechos sólidos, incluyendo residuos de manejo especial o peligros y sus subproductos, previamente autorizados por las autoridades competentes y se cumpla con las normas y disposiciones federales;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-II.- Ejecutar y administrar, directamente o a través de terceros, las obras necesarias para el acopio, recepción, transporte, depósito, almacenaje, aprovechamiento, reciclaje, transformación, procesamiento y comercialización de los desechos sólidos y sus subproductos;
+II.- Ejecutar y administrar, directamente o a través de terceros, las obras necesarias para el acopio, recepción, transporte, almacenaje, aprovechamiento, reciclaje, transformación, procesamiento comercialización y confinamiento de los desechos sólidos, incluyendo residuos de manejo especial o peligroso y sus subproductos;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-III.- Realizar el acopio, recolección y transporte de desechos sólidos, directamente o a través de terceros, en los casos que se convengan con los Municipios, o bien con cualquier otra persona física o moral que lo solicite;
+III.- Realizar el acopio, recolección, transporte y confinamiento de desechos sólidos, incluyendo residuos de manejo especial o peligroso, directamente o a través de terceros, en los casos que se convengan con los Municipios, o bien con cualquier otra persona física o moral que lo solicite;
 
-IV.- Celebrar toda clase de actos jurídicos con autoridades Federales, Estatales y Municipales, con organismos públicos y con particulares que sean necesarios para el cumplimiento de su objeto;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+IV.- Celebrar toda clase de convenios, contratos y actos jurídicos en general con personas físicas o morales, públicas o privadas, nacionales que sean necesarios para el cumplimiento de su objeto;
 
 V.- Gestionar y promover ante las Instituciones o Entidades del sector público o privado, así como con personas físicas o morales, la cooperación necesaria para los fines de este organismo;
 
 VI.- Contratar los financiamientos necesarios para el cumplimiento de su objeto;
 
-VII.- Adquirir los bienes, muebles o inmuebles necesarios para la prestación de los servicios a su cargo;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+VII.- Adquirir, arrendar, recibir en comodato, y en general, contratar el uso o goce temporal de los bienes muebles o inmuebles necesarios para la prestación de los servicios a su cargo, en los términos de los ordenamientos públicos aplicables;
 
 VIII.- Formular estudios socioeconómicos y con base en ellos proponer las tarifas de los servicios a su cargo;
 
-IX.- Establecer y dirigir oficinas operadoras del sistema que se requieran en las comunidades o núcleos de población;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+IX.- Establecer y dirigir oficinas e instalaciones operadoras del Sistema que se requieran en las comunidades o núcleos de población;
 
 X.- Administrar los ingresos del sistema y los bienes que se incorporen a su patrimonio; y,
 
-XI.- Las demás que le otorguen esta Ley o su reglamento.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XI.- Las demás que le señalen las normas jurídicas aplicables.
 
 ### CAPITULO III. PATRIMONIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 4.
 
-El patrimonio del Sistema Metropolitano de Procesamiento de Desechos Sólidos se integrará con:
+El patrimonio del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos se integrará con:
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -115,65 +133,69 @@ IV.- Los créditos, donaciones y demás liberalidades que se obtengan a su favor
 
 V.- Los demás bienes y derechos que se adquieran por cualquier título legal.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 5.
 
-El pago de las tarifas por los servicios que preste el Sistema Metropolitano de Procesamiento de Desechos Sólidos no será objeto de exención de ninguna clase, ya se trate de personas físicas, empresas particulares, dependencias del Gobierno Federal, Estatal o Municipal, empresas descentralizadas, instituciones de servicio o asistencia pública o privada. Los adeudos que se deriven por la prestación de los servicios que preste el Organismo tienen la naturaleza de crédito fiscal. La Secretaría de Finanzas y Tesorería General del Estado auxiliará al Organismo en su recuperación, a través del procedimiento económico coactivo, con independencia de las gestiones de cobranza administrativa que previamente pueda realizar el citado Organismo.
+El pago de las cuotas y tarifas por los servicios que preste el Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, no será objeto de exención de ninguna clase, ya se trate de personas físicas o morales, empresas particulares, dependencias o entidades públicas del Gobierno Federal, Estatal o Municipal, instituciones de servicio o asistencia pública o privada. Los adeudos que se deriven por la prestación de los servicios que preste el Organismo tienen la naturaleza de crédito fiscal. La Secretaría de Finanzas y Tesorería General del Estado auxiliará al Organismo en su recuperación, a través del procedimiento económico coactivo, con independencia de las gestiones de cobranza administrativa que previamente pueda realizar éste.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 6.
 
-El Sistema Metropolitano de Procesamiento de Desechos Sólidos, creado por esta Ley, gozará respecto a su patrimonio de las franquicias, prerrogativas y privilegios concedida a los fondos y bienes del Estado.
+El Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, como entidad de la Administración Pública Paraestatal, gozará respecto a su patrimonio de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Estado.
 
 ### CAPITULO IV. DIRECCION Y ADMINISTRACION
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 7.
 
-La dirección y administración del Sistema Metropolitano de Procesamiento de Desechos Sólidos estará a cargo de un Consejo Directivo, un Director General y de los administradores que sean designados en los términos de la presente Ley.
+La dirección y administración del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, estará a cargo de un Consejo Directivo y un Director General quien contará con la estructura administrativa y operativa que se establezca en el Reglamento Interior del Sistema y con las unidades que sean creadas por acuerdo del Consejo Directivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 8.
 
-El Consejo Directivo del Sistema Metropolitano de Procesamiento de Desechos Sólidos estará integrado por:
+El Consejo Directivo del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, estará integrado por:
 
 I.- Un Presidente, que será el Gobernador del Estado o la persona que éste designe en su representación;
 
 II.- Un Secretario, que será nombrado por el Gobernador del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-III.- Doce Vocales, que serán:
+III.- Catorce Vocales, que serán:
 
-A.- El Secretario General de Gobierno;
+a) El Secretario General de Gobierno;
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+b) El Secretario de Finanzas y Tesorero General del Estado;
 
-B).- El Secretario de Desarrollo Urbano y Obras Públicas del Estado;
+c) El Secretario de Obras Públicas;
 
-C.- El Secretario de Finanzas y Tesorero General del Estado;
+d) El Presidente Ejecutivo de la Agencia para la Planeación del Desarrollo Urbano de Nuevo León;
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+e) El Director General de la Agencia de Protección al Medio Ambiente y Recursos Naturales;
 
-D).- El Delegado en el Estado de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+f) El Delegado en el Estado de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+g) Cuatro representantes de los Municipios del Estado;
 
-E).- Cuatro representantes de los Municipios del Estado;
+h) Dos representantes del sector obrero; y
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+i) Dos representantes de la iniciativa privada.
 
-F).- Dos representantes del Sector Obrero;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+Los representantes municipales serán invitados libremente por el Gobernador del Estado y durarán en su encargo por un año, pudiendo ser reelectos por períodos anuales.
 
-G).- Dos representantes de la Iniciativa Privada.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+Los representantes del sector obrero y de la iniciativa privada serán invitados por el Ejecutivo Estatal a propuesta del Director General, con duración de un año, pudiendo ser reelectos por períodos anuales. Estos representantes no serán considerados servidores públicos, su participación será a título de colaboración ciudadana, no percibirán remuneración alguna y su desempeño se regirá por principios de buena fe y propósitos de interés general.
 
-Los representantes municipales durarán en su encargo por un año, y serán nombrados y removidos libremente por el Gobernador del Estado.
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
-
-Por cada uno de los integrantes de este Consejo Directivo deberá, nombrarse un suplente por quien lo haya designado.
+A cada uno de los integrantes del Consejo Directivo deberá nombrársele un suplente.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -185,31 +207,49 @@ El Gobernador del Estado designará y removerá al Comisario del Sistema y su su
 
 Los cargos que desempeñen los miembros del Consejo Directivo serán honoríficos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 11.
 
-El Consejo Directivo será la máxima autoridad del Sistema y tendrá las siguientes facultades:
+El Consejo Directivo será la máxima autoridad del Organismo y tendrá las siguientes facultades:
 
-I.- Determinar las políticas, normas y criterios técnicos, de organización y administración que orienten las actividades del Sistema Metropolitano de Procesamiento de Desechos Sólidos;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+I.- Determinar las políticas, normas y criterios técnicos, de organización y administración que oriente las actividades del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos;
 
-II.- Nombrar y remover a los Administradores del Sistema, observando lo dispuesto por el artículo 156 de la Ley de Administración Financiera para el Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-III.- Ordenar la práctica anual de auditoría del Sistema Metropolitano de Procesamiento de Desechos Sólidos, con el objeto de vigilar y supervisar su administración y eficaz funcionamiento;
+II.- Aprobar la estructura administrativa y operativa del Organismo, desde los niveles superiores a las coordinaciones;
 
-IV.- Revisar y aprobar en su caso, los programas de trabajo y el presupuesto anual del Sistema Metropolitano de Procesamiento de Desechos Sólidos;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+III.- Ordenar la práctica anual de auditoría del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, con el objeto de vigilar y supervisar su administración y eficaz funcionamiento;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+IV.- Revisar y aprobar en su caso, los programas de trabajo y el presupuesto anual del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos;
 
 V.- Autorizar los créditos que se requieran;
 
-VI.- Aprobar el reglamento interno del Sistema;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-VII.- Aprobar el proyecto de reglamento de operación y servicio del Sistema y sus modificaciones;
+VI.- Aprobar, a propuesta del Director General, el Reglamento Interior del Organismo;
 
-VIII.- Revisar y aprobar en su caso, los estados financieros y los Balances Anuales, así como los informes generales y especiales;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-IX.- Proponer y revisar las tarifas para el cobro de los servicios que preste el Sistema Metropolitano de Procesamiento de Desechos Sólidos;
+VII.- Aprobar, a propuesta del Director General, los manuales de organización y de servicios, así como los procedimientos administrativos del Organismo y sus modificaciones;
 
-X.- Ejercer los poderes generales para actos de dominio, administración, pleitos y cobranzas con todas las facultades generales y especiales en los términos del artículo 2448 del Código Civil vigente en el Estado y su correlativo el 2554 del Código Civil para el Distrito Federal y poder cambiario para suscribir, endosar y negociar títulos de crédito, sustituirlos o revocarlos. Estos poderes podrán ser otorgados, total o parcialmente, a favor de quien el Consejo designe, y revocarlos;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+VIII.- Revisar y aprobar en su caso, los estados financieros y los balances generales anuales, así como los informes generales y especiales;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+IX.- Proponer y revisar la cuotas y tarifas para el cobro de los servicios que preste el Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, incluyendo los descuentos generales que se otorguen al efecto;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+X.- Ejercer los poderes generales para actos de dominio, administración, pleitos y cobranzas con todas las facultades generales y especiales en los términos del artículo 2448 del Código Civil vigente en el Estado y su correlativo el 2554 del Código Civil Federal y poder cambiario para suscribir, endosar, celebrar y negociar títulos y operaciones de crédito, sustituirlos o revocarlos. Estos poderes podrán ser delegados por el Consejo en forma total o parcial, y revocados en cualquier tiempo;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -227,9 +267,9 @@ XIII.- Designar Comisiones para el estudio y dictamen de asuntos especiales tend
 
 XIV.- Celebrar convenios y contratos de asociación y coinversión, con personas físicas y morales, públicas o privadas que lo requieran, para el mejor desarrollo del objeto del Organismo; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XV.- Todas las inherentes para el adecuado funcionamiento del Sistema Metropolitano de Procesamiento de Desechos Sólidos y las demás que le señalen la Ley y los reglamentos.
+XV.- Todas las inherentes para el adecuado funcionamiento del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos y las demás que le establezcan las normas jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -237,7 +277,9 @@ XV.- Todas las inherentes para el adecuado funcionamiento del Sistema Metropolit
 
 El Consejo Directivo celebrará una sesión ordinaria trimestral y las extraordinarias que sean necesarias, mismas que deberán ser convocadas por el Presidente, o por el Secretario a solicitud de aquél, o bien por el Director General, cuando menos con un día de anticipación a la fecha de su celebración.
 
-Las sesiones en primera convocatoria serán válidas con la asistencia del Presidente, del Secretario y seis de los Vocales y en su segunda convocatoria con la asistencia del Presidente, del Secretario y del número de Vocales que asista.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+Las sesiones en primera convocatoria serán válidas con la asistencia del Presidente, del Secretario y siete de los Vocales y en segunda convocatoria, con la asistencia del Presidente, del Secretario y de tres Vocales que asistan.
 
 ###### ARTICULO 13.
 
@@ -255,7 +297,7 @@ II.- En general, realizar todos aquellos actos que sean necesarios para el funci
 
 El. Comisario tendrá a su cargo la vigilancia de las operaciones del Sistema.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 16.
 
@@ -267,9 +309,11 @@ II.- Presentar anualmente al Consejo Directivo dentro de los tres primeros meses
 
 III.- Atender los problemas de carácter administrativo y laboral que le sean planteados en el ejercicio de sus funciones;
 
-IV.- Representar al Sistema, ante cualquier autoridad, organismo descentralizado Federal, Estatal o Municipal, personas físicas o morales de derecho público o privado, con todas las facultades que correspondan a los apoderados generales para pleitos y cobranzas y actos de administración en los términos del Artículo 2448 del Código Civil del Estado y su correlativo, el Artículo 2554 del Código Civil para el Distrito Federal;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-Para ejercitar actos de dominio, el Director General se sujetará, previamente y por escrito al acuerdo del Consejo Directivo, el que a su vez lo autorizará para celebrar actos específicamente determinados, y bajo las condiciones que se fijen al respecto por el mencionado Consejo, observando en su caso, las disposiciones legales aplicables;
+IV.- Representar al Sistema, ante cualquier autoridad, organismo descentralizado Federal, Estatal o Municipal, personas físicas o morales de derecho público o privado, con todas las facultades que correspondan a los apoderados generales para pleitos y cobranzas y actos de administración en los términos del Artículo 2448 del Código Civil del Estado y su correlativo, el Artículo 2554 del Código Civil Federal. En materia laboral tendrá además la representación legal del organismo ante las autoridades que corresponda.
+
+Para ejercitar actos de dominio, el Director General se sujetará, previamente y por escrito al acuerdo del Consejo Directivo, el que a su vez lo autorizará para celebrar actos específicamente determinados y bajos las condiciones que se fijen al respecto por el mencionado Consejo, observando en su caso, las disposiciones legales aplicables;
 
 V.- Asistir a las reuniones del Consejo Directivo con voz pero sin voto;
 
@@ -295,23 +339,27 @@ XII.- Proponer al Consejo Directivo la creación de Comisiones para tratar asunt
 
 XIII.- Proponer al Consejo Directivo la cancelación de adeudos incobrables, en los términos del artículo 5 de esta Ley y de las demás que sean aplicables; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIV.- Las demás que le confieren la Ley, los reglamentos o el Consejo Directivo.
+XIV.- Las demás que le establezcan las normas jurídicas aplicables o las que le confiera el Consejo Directivo, dentro del marco de sus facultades.
 
 ### CAPITULO V. PREVENCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 17.
 
-Las tarifas que se cobren por los servicios que preste el Sistema Metropolitano de Procesamiento de Desechos Sólidos serán aquellas que proponga el Consejo Directivo y que apruebe el Ejecutivo del Estado, y se deberán publicar en el Periódico Oficial del Estado.
+Las cuotas y tarifas que se cobren, así como los descuentos generales que se otorguen por los servicios que preste el Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, serán aquellos que proponga el Consejo Directivo y que apruebe el Ejecutivo del Estado, los cuales se deberán publicar en el Periódico Oficial del Estado.
 
 ###### ARTICULO 18.
 
 (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1988)
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 19.
 
-El Sistema Metropolitano de Procesamiento de Desechos Sólidos podrá restringir más no suspender la prestación de sus servicios, salvo casos fortuitos o de fuerza mayor.
+El Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, podrá restringir, más no suspender, la prestación de sus servicios, salvo casos fortuitos o de fuerza mayor, dejando a salvo los derechos que correspondan a los servidores públicos que en él laboren.
 
 TRANSITORIO:
 
@@ -342,3 +390,9 @@ P.O. 16 DE OCTUBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Primero.- Este Decreto entrará en vigor a los 15 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Reglamento para los usuarios de los servicios del Sistema Metropolitano de Procesamiento de Desechos Sólidos, deberá ser adecuado a las disposiciones de la presente Ley en un término que no exceda de 60 días naturales a partir de la entrada en vigor del presente Decreto.
