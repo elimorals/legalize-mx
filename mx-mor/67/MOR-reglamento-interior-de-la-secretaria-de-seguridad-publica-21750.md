@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-21750
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-14"
-last_updated: "2001-03-14"
+last_updated: "2005-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL P.O. 17 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial "Tierra y Libertad", el 14 de marzo de 2001.
 
@@ -1086,3 +1088,11 @@ SUPERINTENDENTE GENERAL
 CMDTE. CESAREO RAMÓN MARTÍN CARVAJAL GUAJARDO
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO JURIDICO, P.O. 17 DE AGOSTO DE 2005.</small>
+
+P.O. 17 DE AGOSTO DE 2005.
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial "Tierra y Libertad" 4107 del 14 de marzo de 2001 y toda disposición reglamentaria que se le oponga.
