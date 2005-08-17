@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2004-09-01"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -113,7 +113,9 @@ VII.- Hacer efectivo el decomiso de los instrumentos del delito;
 
 VIII.- Estudiar y presentar al Ejecutivo, para su aprobación, los informes que le rindan el Consejo Técnico Interdisciplinario o el Consejo Técnico General, sobre la remisión parcial de la pena y la libertad preparatoria;
 
-IX.- Llevar el registro de las personas privadas de la libertad en el que se fijarán todos los datos pertinentes a su identidad, delito cometido y los que resulten del estudio de su personalidad;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+IX.- Establecer la fecha de cómputo de cada sanción de prisión en los términos del artículo 11 de esta Ley, además de llevar el registro de los individuos privados de la libertad en el que se fijarán todos los datos pertinentes a su identidad, delito cometido y los que resulten del estudio de su personalidad;
 
 X.- Recabar todos los datos de las oficinas respectivas para formar la estadística criminológica y formar en su caso el casillero judicial estatal;
 
@@ -141,7 +143,7 @@ XVII.- Vigilar la conducta de los inculpados, respecto a quienes el Juez les hay
 
 XVIII.- Vigilar la conducta de los inculpados que en el caso del delito de violencia familiar hayan obtenido su libertad mediante acuerdo. Asimismo, verificar que los inculpados se sujetaron a tratamiento de rehabilitación médico psicológico;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
 XIX.- Informar al Ministerio Público o al Juez, según sea el caso, si los inculpados a que se refieren las fracciones XVI, XVII y XVIII de este artículo, reiteraron o no su conducta delictiva;
 
@@ -172,6 +174,10 @@ LIBERTAD
 ###### ARTICULO 11.
 
 Las sanciones privativas de la libertad se cumplirán, salvo los casos de excepción expresamente señalados en esta Ley o en otro ordenamiento, en los establecimientos penitenciarios de reclusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE AGOSTO DE 2005)</small>
+
+En los términos del artículo 2 de esta Ley y del artículo 9 del Código de Procedimientos Penales del Estado de Nuevo León, la autoridad administrativa ejecutará las sanciones de prisión de manera sucesiva. Atento a lo anterior, si sobre una misma persona existieren dos o más sanciones privativas de libertad, se ejecutará en primer tiempo la correspondiente a la sentencia que haya causado ejecutoria primero; al día siguiente de su extinción comenzará la ejecución de la que hubiere causado ejecutoria en segundo término y así sucesivamente.
 
 ###### ARTICULO 12.
 
@@ -525,7 +531,7 @@ OCTAVO: El Ejecutivo del Estado, a través de la Dirección de Prevención y Rea
 
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiocho días del mes de Abril de mil novecientos noventa y cuatro.- PRESIDENTE: DIP. ROBERTO CAMPOS ALONSO; DIP. SECRETARIO: FRANCISCO MARTIN AGUILAR SANMIGUEL; DIP.SECRETARIO: OSCAR CABALLERO NAVARRO.- RUBRICAS.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiocho días del mes de Abril de mil novecientos noventa y cuatro.- PRESIDENTE: DIP. ROBERTO CAMPOS ALONSO; DIP. SECRETARIO: FRANCISCO MARTIN AGUILAR SANMIGUEL; DIP. SECRETARIO: OSCAR CABALLERO NAVARRO.- RUBRICAS.
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los veinticuatro días del mes de Mayo de mil novecientos noventa y cuatro.
 
@@ -546,3 +552,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procedimientos administrativos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan a esta Ley.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
