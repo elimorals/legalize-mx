@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-03-17"
+last_updated: "2005-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2005.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -454,7 +454,11 @@ Notas.
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 19. Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería
+### Capítulo 19
+
+Preparaciones a base de cereales, harina, almidón, fécula o leche;
+
+productos de pastelería
 
 Notas.
 
@@ -1050,7 +1054,11 @@ b) metales (incluso metal precioso) o pigmentos, depositados en una hoja de cual
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 33. Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética
+### Capítulo 33
+
+Aceites esenciales y resinoides;
+
+preparaciones de perfumería, de tocador o de cosmética
 
 Notas.
 
@@ -4098,7 +4106,9 @@ Notas.
 
 1. Este Capítulo no comprende:
 
-a) los artículos para usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16), cuero natural o cuero regenerado (partida 42.04) o materia textil (partida 59.11);
+a) los artículos para usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16), cuero
+
+natural o cuero regenerado (partida 42.04) o materia textil (partida 59.11);
 
 b) los cinturones, fajas y demás artículos de materia textil cuyo efecto sea sostener o mantener un órgano como única consecuencia de su elasticidad (por ejemplo: fajas de maternidad, torácicas o abdominales, vendajes para articulaciones o músculos) (Sección XI);
 
@@ -4713,3 +4723,7 @@ SEGUNDO.- Las fracciones arancelarias 1604.14.01, 1604.14.02, 1604.14.03, 1604.1
 TERCERO.- Las fracciones arancelarias 2710.19.04 y 2710.19.08 señaladas en los artículos de este ordenamiento, entrarán en vigor el día que entre en vigor el Acuerdo que reforma al diverso por el que se establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía.
 
 CUARTO.- La fracción arancelaria 2933.69.16 señalada en los artículos de este ordenamiento, entrará en vigor el día que entre en vigor el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación, exportación, internación o salida está sujeta a regulación por parte de la Secretaría de Salud.
+
+D.O.F. 17 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su aplicación en el diario Oficial de la Federación.
