@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2005-08-10"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3111,13 +3111,13 @@ c) Por verificación extemporánea en ambos casos: 8 salarios mínimos
 
 V. Verificación industrial de emisiones de contaminación atmosférica. Por concepto de recepción, evaluación y otorgamiento de licencia ambiental de funcionamiento: 60 salarios mínimos
 
-> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.O. 17 DE AGOSTO DE 2005)</small>
 
-VI. Por el otorgamiento de una concesión para prestar el servicio de verificación vehicular, atendiendo a lo establecido en la Ley Estatal de Protección Ambiental:
+VI. Por otorgamiento de una concesión para prestar el servicio de verificación vehicular, atendiendo a lo establecido en la Ley Estatal de Protección Ambiental;
 
-Por concesión para operar centro verificador para todo tipo de vehículo automotor: 1,240 salarios mínimos
+Por concesión para operar centro verificador para todo tipo de vehículo automotor;
 
-Por refrendo anual: 250 salarios mínimos.
+1,240 salarios mínimos.
 
 ###### Artículo 148.
 
@@ -8278,3 +8278,9 @@ G.O. 10 DE AGOSTO DE 2005.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 17 DE AGOSTO DE 2005.
+
+Artículo Primero. El presente Decreto entrará en vigor el primer día del mes de enero de 2006.
+
+Artículo Segundo. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
