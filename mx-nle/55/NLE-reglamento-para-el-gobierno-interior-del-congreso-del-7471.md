@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2005-07-27"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -119,17 +119,19 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 
 ### CAPITULO III. DE LOS DIPUTADOS
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 13.
 
-Los Diputados asistirán a las sesiones con puntualidad y permanecerán en ellas hasta que terminen, y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
+Los Diputados asistirán a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad, permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+Cuando un Diputado no asista o se ausente de las reuniones de Comisión, de Comités o de las sesiones del Pleno del Congreso, o cuando asista con un retraso de más de treinta minutos del inicio de la sesión o de la reunión, le será descontada de su dieta el equivalente a su percepción diaria bruta por cada sesión o reunión a la que dejare de asistir, se ausente o asienta con retraso, con excepción de los casos establecidos en el Artículo 14 del presente Reglamento. El Presidente del congreso deberá proveer lo necesario para el cumplimiento de esta disposición.
 
-Cuando un Diputado no asista a las sesiones del Pleno del Congreso, le será descontada de su dieta el equivalente a su percepción diaria bruta por cada sesión a la que deje de asistir, con excepción de los casos establecidos en el artículo 14 del presente Reglamento. El Presidente del Congreso deberá proveer lo necesario para el cumplimiento de esta disposición.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-Cuando un Diputado no pudiere asistir a una sesión o no continúe en ella deberá comunicarlo al Presidente. Si la ausencia fuera por más de tres sesiones deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de ausencia.
+Cuando un Diputado no pudiere asistir a una reunión de Comisión, de Comités o a una sesión del Pleno, llegue con retraso de más de treinta minutos del inicio de la sesión o reunión, o no continúe en ella, deberá comunicarlo, justificando la razón de su ausencia al Presidente. Si la ausencia fuera por más de tres sesiones deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de su ausencia.
 
 ###### Artículo 15.
 
@@ -625,29 +627,55 @@ g) Los asuntos relacionados con el desarrollo personal y profesional de la juven
 
 h) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XII.- Comisión de Atención a Grupos Vulnerables:
+XII. Comisión de Salud y Grupos Vulnerables:
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 a) Lo relativo a fortalecer el marco jurídico para la protección a los derechos de los niños, de las personas con discapacidad y de los adultos mayores y de cualquier grupo vulnerable;
 
-b) La legislación relacionada con la salud pública del Estado;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-c) Las iniciativas relativas a la prevención y combate contra la discriminación y marginación por cuestiones de edad, étnicas, económicas, religiosas, políticas, de género o de cualquier índole, así como promover una cultura de atención a los grupos vulnerables;
+b) Las iniciativas relativas a la prevención y combate contra la discriminación y marginación por cuestiones de edad, étnicas, económicas, religiosas, políticas, de género o de cualquier índole, así como promover una cultura de atención a los grupos vulnerables;
 
-d) Lo concerniente al establecimiento de Programas que les permitan un mejor acceso a los apoyos que otorgue el Estado y los Municipios;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-e) Las iniciativas en materia de protección a los niños abandonados y para evitar el maltrato, explotación y prostitución infantil;
+c) Lo concerniente al establecimiento de Programas que les permitan un mejor acceso a los apoyos que otorgue el Estado y los Municipios;
 
-f) Los asuntos referentes a fomentar la integración a la sociedad de los adultos mayores, con el fin de mejorar su calidad de vida;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-g) Los asuntos relativos al apoyo y protección de las personas pensionadas y jubiladas;
+d) Las iniciativas y asuntos en materia de protección a la niñez y a la adolescencia objeto de violencia familiar, abandono, maltrato, prostitución, pornografía, trabajo y cualquier tipo de explotación, así como de adicciones;
 
-h) Los asuntos relativos a promover la implementación de mecanismos y programas tendientes a facilitar las condiciones de vida de las personas con discapacidad;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-i) Las iniciativas encaminadas a otorgar un empleo digno a los habitantes del Estado; y
+e) Los asuntos referentes a fomentar la integración a la sociedad de los adultos mayores, con el fin de mejorar su calidad de vida;
 
-j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+f) Los asuntos relativos al apoyo y protección de las personas pensionadas y jubiladas;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+g) Los asuntos relativos a promover la implementación de mecanismos y programas tendientes a facilitar las condiciones de vida de las personas con discapacidad;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+h) Las iniciativas encaminadas a otorgar un empleo digno a los habitantes del Estado;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+i) Las iniciativas relacionadas con la Salud Pública del Estado;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+j) Lo relativo a fortalecer el marco jurídico en materia de salud;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE AGOSTO DE 2005)</small>
+
+k) Los asuntos relacionados con el fortalecimiento de los vínculos entre los tres niveles de gobierno para consolidar y eficientar la atención en los sistemas de salud; y
+
+l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomienden.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -761,9 +789,21 @@ Las Comisiones emitirán sus juicios sobre los asuntos que se les turnen, por me
 
 Las Comisiones deberán rendir dictamen sobre los asuntos de su competencia a la mayor brevedad después de recibir los expedientes relativos. El Presidente del Congreso podrá excitarlas para el cumplimiento de esta disposición, fijando término para el efecto.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+Los proyectos de dictamen deberán ser circulados a los integrantes de la Comisión respectiva con por lo menos veinticuatro horas de anticipación a la celebración de la sesión de trabajo en que se vaya a discutir el asunto, exceptuando aquellos que sean turnados por el Pleno con el carácter de urgentes.
+
 ###### Artículo 49.
 
 Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asamblea deberá presentarse suscrito por la mayoría de los Diputados que integren la comisión correspondiente y ser entregado con una anticipación de veinticuatro horas a los Diputados, salvo los casos en que el asunto haya sido recibido con el carácter de urgente, por acuerdo del Pleno o por un Acuerdo Legislativo. Si algún Diputado disintiera del criterio sustentado, podrá formular su voto particular, que dará a conocer por su lectura íntegra en la misma sesión, inmediatamente después de que sea leído el dictamen de que se trate.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+###### Artículo 49 Bis.
+
+En caso de aprobarse el Voto Particular, y éste contenga un resolutivo que modifique totalmente el presentado por la Comisión, se desechará el dictamen y se anexará al expediente del asunto en cuestión, en forma conjunta con el Voto Particular aprobado y las discusiones que se hayan generado en el Pleno del Congreso, considerando como resolutivo, en lo conducente, el aprobado en el voto particular. En caso de que el Voto Particular aprobado modifique parcialmente el resolutivo presentado en el dictamen, se continuará con el procedimiento de deliberación del dictamen, con las adiciones o modificaciones aprobadas en el Voto Particular y el texto del resolutivo que no hubiese sido modificado.
+
+En caso de no aprobarse el Voto Particular, se seguirá el procedimiento de deliberación del dictamen tal como lo establecen los Artículos 126 y 129 de este Reglamento, y se archivará en el expediente formado sobre la iniciativa materia del dictamen.
 
 ###### Artículo 50.
 
@@ -1317,7 +1357,7 @@ Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará
 
 ### CAPITULO III. DE LAS DELIBERACIONES
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 102.
 
@@ -1379,6 +1419,10 @@ El Pleno del Congreso podrá acordar, por mayoría calificada de los Diputados p
 
 La Asamblea puede votar los dictámenes para su resolución, tanto como éstos fueron presentados originalmente en la Iniciativa como en la propuesta mayoritaria por la Comisión, o bien por el voto particular de alguno de los Diputados, considerando en cualquiera de los casos los argumentos en que se apoya.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+Primeramente el Voto Particular se votará siguiendo el procedimiento del Artículo 126 en su párrafo tercero de este Reglamento, y de acuerdo al resultado de la votación, se atenderá a lo dispuesto por el Artículo 49 Bis del presente ordenamiento legal.
+
 ###### Artículo 114.
 
 Puede votar también la Asamblea en forma distinta de la propuesta, modificando total o parcialmente el dictamen de que se trate.
@@ -1427,9 +1471,11 @@ Bajo la denominación de Acuerdo, el Congreso dictará resolución sobre cualqui
 
 Los Acuerdos Administrativos son las resoluciones del Pleno o de la Comisión de Coordinación y Régimen Interno sobre asuntos concretos específicos que solo se comunicarán a los interesados.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 124.
 
-Los Decretos, Leyes y Acuerdos invariablemente se publicarán en el Periódico Oficial del Estado para que surtan sus efectos. Los Acuerdos Administrativos se comunicarán solamente por oficio a los interesados, pero si la Asamblea lo juzga pertinente, el Presidente ordenará que también se publiquen en dicho Organo.
+Los Decretos, Leyes y Acuerdos invariablemente se publicarán en el Periódico Oficial del Estado para que surtan sus efectos. Los Acuerdos Administrativos se comunicarán solamente por oficio a los interesados, con copia del dictamen respectivo, pero si la Asamblea lo juzga pertinente, el Presidente ordenará que también se publiquen en dicho órgano.
 
 ###### Artículo 125.
 
@@ -1445,7 +1491,17 @@ Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Pe
 
 Terminada la lectura del dictamen que presente la Comisión, el Presiente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 Solamente podrán hablar en la misma sesión tres Diputados en contra y tres a favor del sentido de la proposición que se discuta, con la excepción de que el Pleno del Congreso considere que un asunto requiera más participantes en la Tribuna.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+En caso de Voto Particular, se seguirá el procedimiento establecido en los párrafos primero y segundo de este Artículo y el diverso 129 del presente ordenamiento legal, con excepción de que el uso de la Tribuna será de hasta por tres minutos por cada participación. El Primer Secretario tomará cuenta del tiempo y lo hará saber al Presidente, a efecto de que éste en uso de su facultad de dirigir los debates, discusiones y deliberaciones, aperciba al orador para que termine su intervención.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+Para las reformas a la Constitución Política del Estado Libre y Soberano de Nuevo León, así como a las leyes consideradas como constitucionales en los términos del Artículo 152 del citado ordenamiento legal, se seguirá el procedimiento establecido en el presente Artículo, así como en el numeral 129 del presente Reglamento.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1882,5 +1938,9 @@ DECRETO NUM. 58.
 Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma al Artículo 63 fracción XII de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se está reformando la referida disposición constitucional.
 
 P.O. 27 DE JULIO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
