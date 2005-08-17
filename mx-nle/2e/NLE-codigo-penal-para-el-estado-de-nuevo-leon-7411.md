@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2004-12-30"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -3835,15 +3835,15 @@ VI.- CUANDO EL LADRON SE APODERE DE BIENES DE PERSONAS HERIDAS;
 
 VII.- CUANDO SE ROBE A LAS VICTIMAS DE CATASTROFES O DE ACCIDENTES AEREOS, FERROVIARIOS O CARRETEROS;
 
-> <small>(REFORMADA [N. DE ADICIONADA], P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-VIII.- CUANDO EL ROBO SE COMETA EN EL INTERIOR DE UNA UNIDAD DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS; Y
+VIII.- CUANDO EL ROBO SE COMETA EN EL INTERIOR DE UNA UNIDAD DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS O DE CUALQUIERA QUE PRESTE UN SERVICIO SIMILAR, Y
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+(REFORMADA, P.O. 17 DE AGOSTO DE 2005) (F. DE E., P.O. 21 DE JUNIO DE 2006) (F. DE E., P.O. 10 DE JULIO DE 2006)
 
-IX.- CUANDO PARA COMETER EL ROBO SE UTILICE DE CUALQUIER FORMA UNA UNIDAD DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS.
+IX.- CUANDO PARA COMETER EL ROBO SE UTILICE DE CUALQUIER FORMA UNA UNIDAD DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS O DE CUALQUIERA QUE PRESTE UN SERVICIO SIMILAR.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
+(ADICIONADO, P.O. 29 DE ENERO DE 1997) (F. DE E., P.O. 21 DE JUNIO DE 2006)
 
 CUANDO EL LADRON SE APODERE DE UN VEHICULO QUE SE ENCUENTRE EN LA VIA PUBLICA O EN PROPIEDAD PRIVADA, LA PENA SE AGRAVARA DE DOS A NUEVE AÑOS MAS DE PRISION.
 
@@ -4946,6 +4946,10 @@ P.O. 18 DE AGOSTO DE 2004.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
