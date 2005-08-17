@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2003-12-29"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -85,11 +85,15 @@ Para la Apertura de Sesiones podrá el Congreso del Estado convocar a invitados 
 
 Una vez hecha, por el Presidente de la nueva legislatura, la declaración Solemne de Apertura que establece el artículo 36 de esta Ley; el Presidente del Congreso podrá hacer uso de la palabra y conceder el uso a un Diputado de cada Partido representado en el Congreso, con el límite de tiempo que el Pleno del Congreso estime conveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 8o.
 
-En la primera quincena del mes de Mayo de los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, durante el Segundo Período Ordinario de Sesiones, el Congreso celebrará Sesión Solemne el día y hora que se señale a propuesta del Ejecutivo, a la que deberá asistir el Presidente del Tribunal Superior de Justicia, a fin de que el Gobernador Constitucional presente un informe por escrito en el que manifieste al pueblo de Nuevo León, a través del Congreso del Estado, la situación y perspectivas generales de la entidad y de la administración pública. En el sexto año se hará también como lo dispone el Artículo 57 de la Constitución Política del Estado de Nuevo León.
+Durante la primera quincena del mes de octubre de los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, el Congreso celebrará Sesión Solemne el día y hora que se señale a propuesta del Ejecutivo, a la que deberán asistir los Magistrados del Tribunal Superior de Justicia, a fin de que el Gobernador presente un informe por escrito en el que manifieste al pueblo de Nuevo León, a través de la Legislatura, la situación y perspectivas generales que guarden el Estado y la administración pública.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+En el año de la elección del Titular del Ejecutivo, el informe deberá presentarse dentro de los diez días anteriores al 4 de octubre.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1997)</small>
 
@@ -731,9 +735,17 @@ El Pleno del Congreso para la resolución de los asuntos que le fueren turnados 
 
 I.- Comisiones Permanentes:
 
-a) Comisiones de Dictamen Legislativo; y
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-b) Comisión de Vigilancia de la Contaduría Mayor de Hacienda.
+a) Comisiones de Dictamen Legislativo;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+b) Comisión de Vigilancia de la Contaduría Mayor de Hacienda; y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+c) Comisión de Estudio Previo;
 
 II.- Comisiones Temporales:
 
@@ -764,6 +776,22 @@ Las Comisiones de Dictamen Legislativo se integrarán en proporción al número 
 ###### Artículo 68.
 
 La Comisión de Vigilancia de la Contaduría Mayor de Hacienda se integrará por nueve Diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de Diputados; el Pleno designará al resto de los integrantes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+###### Artículo 68 Bis.
+
+La Comisión de Estudio Previo estará conformada por los Diputados integrantes de la Directiva del Pleno del Congreso del Estado.
+
+A los integrantes de la Comisión de Estudio Previo no les será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 66 de esta Ley.
+
+A la Comisión le corresponderá revisar y analizar los escritos dirigidos al Congreso del Estado, a fin de emitir opinión sobre la competencia del mismo, en forma previa a que sean remitidos al Pleno.
+
+La Comisión presentará ante el Presidente de la Directiva opinión fundada y motivada, en el caso de que se considere que existan razones para desechar algún escrito.
+
+Tomando en cuenta la opinión emitida por la Comisión de Estudio Previo, el Presidente determinará si desecha el asunto o lo turna a la Comisión correspondiente, en uso de las facultades que le confiere el artículo 24 fracción III del Reglamento para el Gobierno Interior del Congreso.
+
+En caso que determine que los escritos deban ser desechados, por tratarse de asuntos en los que el Congreso no tenga atribuciones, sean notoriamente frívolos o improcedentes o no reúnan los requisitos establecidos en la Ley, los diputados integrantes de la Legislatura podrán reclamar dicho acuerdo, en los términos de lo dispuesto por el Artículo 22 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
@@ -799,41 +827,41 @@ VIII.- Desarrollo Urbano y Transporte;
 
 IX.- Fomento Económico;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-X.- Comisión de Desarrollo Sustentable;
+X.- Desarrollo Sustentable;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XI.- Comisión de Juventud;
+XI.- Juventud;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XII.- Comisión de Atención a Grupos Vulnerables;
+XII.- Salud y Atención a Grupos Vulnerables;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIII.- Comisión de Hacienda del Estado;
+XIII.- Hacienda del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIV.- Comisión Primera de Hacienda y Desarrollo Municipal;
+XIV.- Primera de Hacienda y Desarrollo Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XV.- Comisión Segunda y Desarrollo Municipal;
+XV.- Segunda de Hacienda y Desarrollo Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVI.- Comisión Tercera de Hacienda y Desarrollo Municipal;
+XVI.- Tercera de Hacienda y Desarrollo Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVII.- Comisión Cuarta de Hacienda y Desarrollo Municipal; y
+XVII.- Cuarta de Hacienda y Desarrollo Municipal; y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVIII.- Comisión Quinta de Hacienda y Desarrollo Municipal.
+XVIII.- Quinta de Hacienda y Desarrollo Municipal.
 
 ###### Artículo 71.
 
@@ -1236,3 +1264,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 29 DE DICIEMBRE DE 2003.
 
 Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los artículos 46 y 55 primer párrafo de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del decreto por el cual se están reformando las referidas disposiciones constitucionales.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
