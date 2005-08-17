@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-08-16"
+last_updated: "2005-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,33 +18,39 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2005, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+DECRETO POR EL QUE SE MODIFICA TEMPORALMENTE EL ARTICULO 1 DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE EE.UU.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el martes 16 de agosto de 2005.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de Agosto de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las Partes;
+Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
 
-Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las Partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que el Anexo 1A del Acuerdo OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Acuerdo sobre Subvenciones y Medidas Compensatorias (el Acuerdo SMC);
 
-Que el 29 de marzo de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que modifica al diverso por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte;
+Que el Acuerdo OMC en su Anexo 2 contiene el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
 
-Que el monto del cupo mínimo destinado a empresa del sector público ha sido asignado en su totalidad para cubrir las necesidades del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo, por lo que es necesario satisfacer sus requerimientos de abasto social para el resto del año;
+Que el 28 de octubre de 2000 entró en vigor en los Estados Unidos de América (EE.UU.) la Ley de Compensación por Continuación del Dumping o Mantenimiento de las Subvenciones de 2000 (también conocida como la Enmienda Byrd) que permite a las autoridades competentes de EE.UU. distribuir entre productores y empresas estadounidenses que solicitaron el inicio de procedimientos de prácticas desleales de comercio internacional los montos recaudados por concepto del pago de derechos antidumping y cuotas compensatorias;
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, establece en el artículo sexto transitorio fracción IV, disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada Ley;
+Que el 10 de agosto de 2001 México solicitó el establecimiento de un Grupo Especial al amparo del Entendimiento para examinar la compatibilidad de la Enmienda Byrd con el Acuerdo OMC, en particular, con el GATT de 1994, el Acuerdo Antidumping y el Acuerdo SMC;
 
-Que el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005 establece que en los casos en que se requiera importar leche en polvo o en pastillas indispensable para el abasto nacional, que rebasen las cuotas mínimas libres de arancel acordadas por las partes en los Tratados de Libre Comercio, por lo que a LICONSA se le asignarán las cuotas adicionales equivalentes a un 11% de la cuota mínima total destinada a esta empresa;
+Que el 27 de enero de 2003 el Órgano de Solución de Diferencias de la Organización Mundial del Comercio (OMC) adoptó los Informes del Grupo Especial y del Órgano de Apelación de la OMC que establecen que la Enmienda Byrd resulta incompatible con diversas disposiciones contenidas en los acuerdos señalados en el considerando anterior y que anula o menoscaba ventajas resultantes de esos acuerdos para las Partes Reclamantes;
 
-Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para el abasto nacional en condiciones equitativas de competencia, y
+Que EE.UU. no ha suprimido la Enmienda Byrd, ni la ha modificado para ponerla en congruencia con las disposiciones de la OMC, por lo que, ante ese incumplimiento a la decisión del Órgano de Solución de Diferencias de la OMC, de conformidad con el artículo 22 del Entendimiento, México tiene derecho a suspender a EE.UU. concesiones u otras obligaciones que sean equivalentes al nivel de anulación y menoscabo causado por el incumplimiento de la decisión;
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 31 de agosto de 2004 el Órgano de Solución de Diferencias de la OMC autorizó a México a suspender concesiones u otras obligaciones de acuerdo con lo dispuesto en el artículo 22 del Entendimiento;
 
-ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2005, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+
+Que la nota al artículo 302.1 del TLCAN establece que lo dispuesto en los artículos 302(1) y 302(2), referentes a la obligación de las Partes de no incrementar o adoptar aranceles aduaneros sobre bienes originarios y de eliminar sus aranceles aduaneros sobre bienes originarios de acuerdo con lo dispuesto en el calendario de desgravación de cada una de las Partes no tienen como propósito evitar que una Parte del TLCAN mantenga o aumente un arancel si el Entendimiento lo permite, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTICULO 1o.
 
@@ -264,13 +270,17 @@ II.- Para propósitos de determinar el carácter esencial de un bien de conformi
 
 Para propósitos de la aplicación del artículo cuarto, sólo los materiales nacionales y extranjeros que estén clasificados en las disposiciones arancelarias a partir de las cuales no está permitido el cambio arancelario en la regla dispuesta para el bien en el Anexo de Reglas Específicas, se tomarán en consideración al determinar las partes o materiales que confieren el carácter esencial del bien.
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
-La importación de mercancías originarias de América del Norte, independientemente de su clasificación en la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (LIGIE), estará exenta del pago de arancel, salvo aquellas mercancías en que se indique lo contrario en el presente Decreto, mismas que estarán sujetas al arancel preferencial indicado.
+Se modifica temporalmente el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de EE.UU. clasificadas en las siguientes fracciones arancelarias, que se sujetan al arancel de importación establecido a continuación:
 
-###### ARTÍCULO 2.
+(VEASE TABLA ANEXA)
 
-Para los efectos del presente Decreto, se entiende por mercancías originarias de América del Norte, independientemente de su lugar de procedencia, las que cumplan con las reglas de origen contenidas en el Capítulo IV denominado "Reglas de Origen" del Tratado de Libre Comercio de América del Norte (TLCAN), y con otros requisitos y disposiciones aplicables de dicho tratado, incluyendo aquéllas que califiquen para ser marcadas como mercancías de los Estados Unidos Mexicanos, de acuerdo con las reglas de marcado previstas en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen, para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte”, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus reformas posteriores.
+###### Artículo 2.
+
+Las importaciones de mercancías originarias de EE.UU. clasificadas en la fracción arancelaria 1901.90.05 (preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50%, en peso, excepto las comprendidas en la fracción 1901.90.04.) a que hace referencia el artículo 1 del presente Decreto, que excedan de 29,400 toneladas durante los 12 meses siguientes a la entrada en vigor de este Decreto, estarán sujetas al arancel de importación previsto en el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
+
+La Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación en el que notifique que se ha rebasado el volumen de importaciones de mercancías originarias de EE.UU. clasificadas en la fracción arancelaria 1901.90.05 previsto en el párrafo anterior.
 
 ###### ARTÍCULO 3.
 
@@ -344,8 +354,10 @@ Lo dispuesto en el presente ordenamiento no libera del pago de Cuotas Compensato
 
 Las disposiciones del presente Decreto no liberan del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2005.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y tendrá una vigencia de 12 meses.
 
-México, D.F., a 5 de agosto de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+SEGUNDO.- El presente Decreto dejará de aplicarse una vez que la Secretaría de Economía notifique mediante publicación en el Diario Oficial de la Federación que EE.UU. ha cumplido con la decisión del Órgano de Solución de Diferencias de la OMC emitida en el caso de la Enmienda Byrd. En tal caso, la importación de las mercancías originarias de EE.UU. a que hace referencia el artículo 1 de este Decreto se regirá por lo establecido en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de agosto de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
