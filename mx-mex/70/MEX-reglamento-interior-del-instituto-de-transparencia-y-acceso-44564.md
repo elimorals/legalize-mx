@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-transparencia-y-acceso-445
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-01"
-last_updated: "2004-12-01"
+last_updated: "2005-08-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 1 de diciembre de 2004.
 
@@ -225,7 +225,9 @@ II. Representar al Instituto ante el Tribunal de lo Contencioso Administrativo d
 
 III. Rendir los informes previos y justificados en los términos de la Ley de Amparo, respecto a los juicios de amparo en que intervenga el Instituto, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general, vigilar y atender su tramitación, y las demás que le confieran las disposiciones legales administrativas que le sean aplicables;
 
-IV. Delegar en los términos de las leyes administrativas aplicables, a favor de los Consejeros y de los Directores, las facultades consignadas en las fracciones anteriores, mismas que se tienen por reproducidas como si se insertasen a la letra.
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2005)</small>
+
+IV. Delegar en los términos de las leyes administrativas aplicables, a favor de los Consejeros y de los Subdirectores, las facultades consignadas en las fracciones anteriores, mismas que se tienen por reproducidas como si se insertasen a la letra.
 
 ###### Artículo 5.
 
@@ -306,3 +308,11 @@ Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Así se acordó por el Consejo del Instituto de Transparencia y Acceso a la Información Pública del Estado de México, en sesión celebrada el día 18 de noviembre de dos mil cuatro.- Maestro en Administración Pública Rolando Barrera Zapata, Consejero Presidente.- Licenciado en Derecho Luis Alberto Domínguez González, Consejero.- Licenciado en Derecho Carlos Paniagua Bocanegra, Consejero.- FIRMAS AL CALCE, Y RUBRICAS EN LAS HOJAS ANTERIORES.
 
 (RUBRICAS)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 18 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquense en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+SEGUNDO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación.
