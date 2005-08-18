@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-08-17"
+last_updated: "2005-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE AGOSTO DE 2005.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -454,11 +454,7 @@ Notas.
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 19
-
-Preparaciones a base de cereales, harina, almidón, fécula o leche;
-
-productos de pastelería
+### Capítulo 19. Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería
 
 Notas.
 
@@ -2136,9 +2132,7 @@ B) Para la aplicación de esta regla:
 
 a) sólo se tendrá en cuenta, en su caso, la parte que determine la clasificación según la Regla General 3;
 
-b) en los productos textiles constituidos por un fondo y una superficie con pelo o con
-
-bucles, no se tendrá en cuenta el tejido de fondo;
+b) en los productos textiles constituidos por un fondo y una superficie con pelo o con bucles, no se tendrá en cuenta el tejido de fondo;
 
 c) sólo se tendrá en cuenta el fondo en los bordados de la partida 58.10 y en las manufacturas de estas materias. Sin embargo, en los bordados químicos, aéreos o sin fondo visible y en las manufacturas de estas materias, la clasificación se realizará teniendo en cuenta solamente los hilos bordadores.
 
@@ -4727,3 +4721,11 @@ CUARTO.- La fracción arancelaria 2933.69.16 señalada en los artículos de este
 D.O.F. 17 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su aplicación en el diario Oficial de la Federación.
+
+D.O.F. 18 DE AGOSTO DE 2005.
+
+PRIMERO.- El Presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+
+SEGUNDO.- Durante la vigencia del presente Acuerdo se realizarán reducciones arancelarias anuales a los bienes comprendidos en el capítulo 95 de la Ley de los Impuestos Generales de Importación y Exportación, según lo determine la Secretaría, conforme a las disposiciones establecidas en la Ley de Comercio Exterior y su Reglamento.
+
+TERCERO.- El presente Acuerdo podrá prorrogarse considerando las resoluciones en materia de cuotas compensatorias que, en su caso, establezca la Unidad de Prácticas Comerciales Internacionales.
