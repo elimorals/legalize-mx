@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2004-06-18"
+last_updated: "2005-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -675,7 +675,7 @@ ART. 92.- La sentencia firme produce acción y excepción contra los que litigar
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 93.- El tercero puede excepecionarse contra la sentencia firme, pero no contra la que recayó en juicio de estado civil, a menos que alegue colusión de los litigantes para perjudicarlo.
+ART. 93.- El tercero puede excepecionarse (sic) contra la sentencia firme, pero no contra la que recayó en juicio de estado civil, a menos que alegue colusión de los litigantes para perjudicarlo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -825,7 +825,7 @@ ART. 117.- En las notificaciones de emplazamiento, deberán cumplirse las siguie
 
 I.- El emplazamiento debe hacerse según los casos, a las personas que a continuación se indica:
 
-a).- Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezcan de capacidad procesal, pues en este caso se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando éste radique dentro de la jurisdicción del Tribunal y la persona emplazada radique fuera de ese lugar o se ignore su paradero, o si el apoderado vive fuera de la jurisdicción, pero dentro de la República y el emplazado en el extranjero no tiene domicilio conocido o se ignora su paradero. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el Juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días mas, si el apoderado necesitare recabar instrucciones de su mandante;
+a).- Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezcan de capacidad procesal, pues en este caso se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando éste radique dentro de la jurisdicción del Tribunal y la persona emplazada radique fuera de ese lugar o se ignore su paradero, o si el apoderado vive fuera de la jurisdicción, pero dentro de la República y el emplazado en el extranjero no tiene domicilio conocido o se ignora su paradero. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el Juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días más, si el apoderado necesitare recabar instrucciones de su mandante;
 
 b).- Tratándose de personas morales, asociaciones, agrupaciones, instituciones o bien de dependencias o servicios de la Administración Pública, el emplazamiento se hará por conducto de las personas u órganos que las representen. Si los representantes fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la representación corresponde a una junta o colectividad, bastará que se haga a la persona que la ostente;
 
@@ -1841,7 +1841,7 @@ V.- En los casos en que se autorice la denuncia por disposición de la Ley, o po
 
 En los casos de denuncia del pleito a terceros, se observará lo siguiente:
 
-a).- La petición de denuncia se hará a mas tardar al contestarse la demanda. La petición posterior no será tramitada;
+a).- La petición de denuncia se hará a más tardar al contestarse la demanda. La petición posterior no será tramitada;
 
 b).- Si se admite la denuncia, se ampliará el término para el emplazamiento, a efecto de que el tercero disfrute del plazo completo; y
 
@@ -1925,7 +1925,7 @@ ART. 273.- El juez mandará recibir el pleito a prueba en el caso de que los lit
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
 
-Del auto que manda abrir a prueba un juicio no hay mas recurso que el de responsabilidad; aquél en que se niegue, será apelable en el efecto devolutivo, si fuere apelable la sentencia definitiva.
+Del auto que manda abrir a prueba un juicio no hay más recurso que el de responsabilidad; aquél en que se niegue, será apelable en el efecto devolutivo, si fuere apelable la sentencia definitiva.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2063,7 +2063,7 @@ ART. 294.- Al día siguiente en que termine el período del ofrecimiento de prue
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-### CAPITULO IV. De la recepción y practica de las pruebas
+### CAPITULO IV. De la recepción y práctica de las pruebas
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -2139,7 +2139,7 @@ VI.- Si el que debe absolver posiciones estuviere ausente, se le mandará examin
 
 ART. 305.- La prueba de confesión judicial se ofrecerá presentando el pliego que contenga las posiciones, y pidiendo que se cite a la persona que debe absolverlas. Si el pliego se presentare cerrado, debe guardarse así en el secreto del Juzgado. La prueba será admitida aunque no se exhiba el pliego, pidiendo tan sólo la citación; pero si no concurriere el absolvente a la diligencia de prueba, no podrá ser declarado confeso mas que de aquellas posiciones que con anticipación a la fecha de la audiencia se hubieren formulado por escrito.
 
-No será permitido usar de este medio probatorio mas de una vez en la primera instancia y otra en la segunda, a no ser que se aleguen hechos o presenten documentos nuevos, en cuyo caso se podrán articular otra vez, con referencia a los hechos o documentos nuevamente aducidos.
+No será permitido usar de este medio probatorio más de una vez en la primera instancia y otra en la segunda, a no ser que se aleguen hechos o presenten documentos nuevos, en cuyo caso se podrán articular otra vez, con referencia a los hechos o documentos nuevamente aducidos.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2163,11 +2163,11 @@ El auto que califique de legales las posiciones formuladas, así como el que las
 
 ART. 307.- Para desahogar la prueba de confesión judicial, se observarán las siguientes prevenciones:
 
-I.- La citación para absolver posiciones se hará a mas tardar tres días antes del señalado para la diligencia y deberá ser en forma personal;
+I.- La citación para absolver posiciones se hará a más tardar tres días antes del señalado para la diligencia y deberá ser en forma personal;
 
 II.- Contendrá dicha citación el apercibimiento al que debe absolver las posiciones, de que si dejare de comparecer sin justa causa, será tenido por confeso;
 
-III.- En caso de que el citado para absolver posiciones comparezca, el Juez abrirá el pliego, y en su caso las calificará en la forma prevista en el precepto anterior. El absolvente podrá firmar el pliego de posiciones o estampar en él su huella digital. Si el articulante omite presentar el pliego con anticipación a la fecha de la diligencia y no concurre a ella, se le tendrá por desistido de la prueba ; pero si concurre podrá articular posiciones en el acto, evitando que los que absuelvan primero se comuniquen con los que han de absolverlas después;
+III.- En caso de que el citado para absolver posiciones comparezca, el Juez abrirá el pliego, y en su caso las calificará en la forma prevista en el precepto anterior. El absolvente podrá firmar el pliego de posiciones o estampar en él su huella digital. Si el articulante omite presentar el pliego con anticipación a la fecha de la diligencia y no concurre a ella, se le tendrá por desistido de la prueba; pero si concurre podrá articular posiciones en el acto, evitando que los que absuelvan primero se comuniquen con los que han de absolverlas después;
 
 IV.- La absolución de posiciones se realizará sin asistencia del abogado patrono o procurador de la parte llamada a absolverlas. Si el absolvente no hablara el castellano, podrá ser asistido de un intérprete que nombrará el Juez;
 
@@ -2603,7 +2603,7 @@ ART. 376.- El que tiene a su favor una presunción legal, sólo está obligado a
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 377.- No se admite prueba contra la presunción legal, cuando la ley lo prohibe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
+ART. 377.- No se admite prueba contra la presunción legal, cuando la ley lo prohíbe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2771,7 +2771,7 @@ ART. 401.- La confesión no producirá el efecto probatorio a que se refieren lo
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 402.- La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace, pero no puede dividirse contra el que la hizo, salvo cuando se refiera a hechos diferentes o cuando una parte de la cofesión ésté probada por otros medios, o cuando en algún extremo sea contraria a la naturaleza o a las leyes.
+ART. 402.- La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace, pero no puede dividirse contra el que la hizo, salvo cuando se refiera a hechos diferentes o cuando una parte de la confesión esté probada por otros medios, o cuando en algún extremo sea contraria a la naturaleza o a las leyes.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3233,7 +3233,7 @@ Las excepciones comprendidas en las fracciones de la IV a la VI, y de la VIII a 
 
 Para la admisión de las excepciones de litispendencia y conexidad de causa, deberá exhibirse con la contestación las copias selladas de la demanda y contestación de ésta; o en su caso, las copias de las cédulas de emplazamiento del juicio pendiente o conexo, la copia sellada del escrito en que solicita la expedición del documento respectivo, o bien, la documentación que acredite que se encuentra tramitando un procedimiento arbitral.
 
-El Juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano aquellas excepciones en las que sea necesario exhibir documento y el mismo no se acompañe; salvo los caos a los que se refieren los artículos 96 y 97 de este Código.
+El Juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano aquellas excepciones en las que sea necesario exhibir documento y el mismo no se acompañe; salvo los caos (sic) a los que se refieren los artículos 96 y 97 de este Código.
 
 La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción. En cualquier otro caso se desechará de plano.
 
@@ -3339,7 +3339,7 @@ ART. 474.- En el caso previsto en el segundo párrafo del artículo 2783 del Có
 
 ART. 475.- El juicio de desahucio procede cuando se exige la desocupación de una finca o local por falta de pago de dos o mas mensualidades de renta.
 
-Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuera necesario para la validez del acto conforme a Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documentos, o este se haya extraviado o destruido, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del jucio.
+Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuera necesario para la validez del acto conforme a Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documentos, o este se haya extraviado o destruido, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del jucio (sic).
 
 Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencidas y de las que se sigan venciendo hasta que tenga verificativo el lanzamiento.
 
@@ -3495,7 +3495,7 @@ Lo mismo se practicará cuando la cantidad ilíquida proceda de frutos, rentas o
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 503.- Si la sentencia condena a hacer alguna cosa, el juez señalará, al que fué condenado, un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
+ART. 503.- Si la sentencia condena a hacer alguna cosa, el juez señalará, al que fue condenado, un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
 
 Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
 
@@ -3601,7 +3601,7 @@ Verificado de cualquiera de los modos indicados el requerimiento, se procederá 
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 522.- El derecho de designar los bienes que han de embargarse corresponde al deudor; y sólo que éste se rehuse a hacerlo o que esté ausente, podrá ejercerlo el actor o su representante; pero cualquiera de ellos se sujetará al siguiente orden: 1o.- Los bienes consignados como garantía de la obligación que se reclaman; 2o.- Dinero; 3o.- Créditos realizados en el acto; 4o.- Alhajas; 5o.- Frutos y rentas de toda especie; 6o.- Bienes muebles no comprendidos en las fracciones anteriores; 7o.- Bienes raíces; 8o.- Sueldos o comisiones; 9o.- Créditos.
+ART. 522.- El derecho de designar los bienes que han de embargarse corresponde al deudor; y sólo que éste se rehusé a hacerlo o que esté ausente, podrá ejercerlo el actor o su representante; pero cualquiera de ellos se sujetará al siguiente orden: 1o.- Los bienes consignados como garantía de la obligación que se reclaman; 2o.- Dinero; 3o.- Créditos realizados en el acto; 4o.- Alhajas; 5o.- Frutos y rentas de toda especie; 6o.- Bienes muebles no comprendidos en las fracciones anteriores; 7o.- Bienes raíces; 8o.- Sueldos o comisiones; 9o.- Créditos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4125,7 +4125,7 @@ III.- Las acciones de nulidad de matrimonio;
 
 IV.- Las concernientes al estado civil de las personas, con la excepción contenida en el artículo 336 del Código Civil;
 
-V.- Los demás en que lo prohiba expresamente la ley.
+V.- Los demás en que lo prohíba expresamente la ley.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4255,7 +4255,7 @@ ART. 625.- Los autos que ordenen que un negocio se reciba a prueba o señalen d�
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 626.- Desde el día en que fué declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
+ART. 626.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4375,7 +4375,7 @@ II.- El acreedor que sin tener derecho real no haya embargado el bien objeto de 
 
 III.- El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
 
-IV.- El acreedor a quien la ley lo prohiba en otros casos.
+IV.- El acreedor a quien la ley lo prohíba en otros casos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4491,9 +4491,9 @@ ART. 669.- Las sentencias no pueden ser revocadas por el Juez que las dicta.
 
 ART. 670.- Los autos que no fueren apelables y los Decretos pueden ser revocados por el Juez que los dicte o por el que lo substituya en el conocimiento del negocio, salvo que la Ley expresamente disponga que no son recurribles.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
-ART. 671.- La revocación debe pedirse por escrito dentro de las veinticuatro horas siguientes a la notificación, y se substancia con un escrito por cada parte y la resolución del juez que debe pronunciarse dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
+ART. 671.- La revocación debe pedirse por escrito dentro de los tres días siguientes a la notificación, de la resolución que se impone, mismos que serán improrrogables, dándose vista a las demás partes por un tiempo igual y transcurrido dicho termino, el Juez deberá resolver pronunciándose dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4693,9 +4693,9 @@ IV.- En los demás casos fijados por la ley.
 
 ART. 710.- Se da el recurso de queja en contra de los ejecutores y secretarios por ante el juez. Contra los primeros, sólo por exceso o defecto de las ejecuciones y por las decisiones en los incidentes de ejecución. Contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
-ART. 711.- El recurso de queja contra el juez se interpondrá ante el superior inmediato, dentro de las veinticuatro horas que sigan al acto reclamado, haciéndolo saber, dentro del mismo tiempo, al juez contra quien va el recurso, acompañándole copia. Dentro del tercer día de que tenga conocimiento, el juez de los autos remitirá al superior informe con justificación. El superior, dentro del tercer día, decidirá lo que corresponda.
+ART. 711.- El recurso de queja contra el Juez se interpondrá dentro de los tres días siguientes al acto reclamado, expresando los motivos de inconformidad. Se presentará por conducto del propio Juez, quien dentro del tercer día que tenga conocimiento, lo remitirá al Tribunal Superior de Justicia del Estado, acompañando informe de justificación y testimonio de las constancias señaladas por el recurrente, así como de las que el Juez estime necesarias. El Tribunal dentro del tercer día resolverá lo que corresponda.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5219,9 +5219,7 @@ El juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
 
-Los edictos se insertarán, además, dos veces de diez en diez días en un
-
-periódico de información, si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el salario mínimo diario en Baja California.
+Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de información, si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el salario mínimo diario en Baja California.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6485,7 +6483,7 @@ ART. 987.- Los documentos y objetos presentados por las partes, les serán devue
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 988.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar mas de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él.
+ART. 988.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él.
 
 El Presidente del Tribunal Superior, fijará cada año en el mes de diciembre, los modelos de esqueletos que se hayan de emplear en el año siguiente, oyendo al efecto a los Jueces de Paz, a los que convocará a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
 
@@ -6493,7 +6491,7 @@ El Presidente del Tribunal Superior, fijará cada año en el mes de diciembre, l
 
 ART. 989.- Los Jueces de Paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro Juzgado del mismo Partido Judicial, si lo hubiere; y si no, al Juez de Primera Instancia de número menor. Si por disposición de la Ley Orgánica del Poder Judicial un Juez de Primera Instancia conoce de casos de justicia de paz, y se excusa, conocerá del asunto el Secretario de su adscripción. Si los Jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
-T R A N S I T O R I O S :
+T R A N S I T O R I O S:
 
 ###### ARTICULO PRIMERO.
 
@@ -6507,11 +6505,11 @@ Los recursos que estén ya legalmente interpuestos serán admitidos aunque no de
 
 ###### ARTICULO TERCERO.
 
-(DEROGADO , P.O. 10 DE MARZO DE 1977)
+(DEROGADO, P.O. 10 DE MARZO DE 1977)
 
 ###### ARTICULO CUARTO.
 
-El presente Código entrará en vigor a los treinta días siguientes al de su publicación en el Peródico (sic) Oficial, Organo del Gobierno del Estado.
+El presente Código entrará en vigor a los treinta días siguientes al de su publicación en el Peródico (sic) Oficial, Órgano del Gobierno del Estado.
 
 D A D O en el Salón de Sesiones del H. Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los veintiocho días del mes de abril de mil novecientos setenta y dos.
 
@@ -6547,7 +6545,7 @@ Francisco Santana Peralta.
 
 P.O. 20 DE JUNIO DE 1975.
 
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno de Estado.
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno de Estado.
 
 P.O. 10 DE MARZO DE 1977.
 
@@ -6571,13 +6569,13 @@ P.O. 20 DE SEPTIEMBRE DE 1980.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto, previa su publicación en el Periódico Oficial, Organo del Gobierno del Estado, entrará en vigor el día primero de octubre de mil novecientos ochenta.
+El presente Decreto, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, entrará en vigor el día primero de octubre de mil novecientos ochenta.
 
 P.O. 10 DE MAYO DE 1983.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -6609,13 +6607,13 @@ P.O. 30 DE NOVIEMBRE DE 1988.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 P.O. 26 DE MAYO DE 1995.
 
 ###### ARTICULO PRIMERO.
 
-Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -6645,7 +6643,7 @@ Los trámites de adopción que estén en proceso y sobre los cuales sea proceden
 
 P.O. 20 DE OCTUBRE DE 2000.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial , Organo del Gobierno del Estado.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto no será aplicable a los asuntos iniciados antes de su entrada en vigor, así como a los Contratos de Hipoteca, Reestructuras y Novaciones que se hubiesen celebrado con anterioridad, por lo tanto, la substanciación de los juicios hipotecarios que se encuentren en trámite o que se inicien en relación a estos contratos, continuarán de conformidad a lo dispuesto por los preceptos que dejan de tener vigencia.
 
@@ -6668,3 +6666,7 @@ UNICO.- La presente reforma y adición al Código de Procedimientos Civiles para
 P.O. 18 DE JUNIO DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2005.
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
