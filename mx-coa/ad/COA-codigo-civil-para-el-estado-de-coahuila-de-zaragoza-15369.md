@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2005-05-24"
+last_updated: "2005-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -42,6 +42,8 @@ CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 ###### ARTÍCULO 1.
 
 Las disposiciones de este título, salvo precepto expreso en contrario, son comunes a todo el derecho positivo del Estado de Coahuila de Zaragoza y las de este código son supletorias, en lo conducente, de las demás leyes coahuilenses.
+
+El Estado protegerá a la familia, a la que reconoce como la agrupación primaria natural y fundamental de la sociedad.
 
 ###### ARTÍCULO 2.
 
@@ -129,6 +131,10 @@ Las controversias judiciales del orden civil deberán resolverse conforme a la l
 
 Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá en favor de la parte que cultural, económica o socialmente sea la más débil, y sólo cuando las partes se encuentren en iguales o similares circunstancias, se resolverá observándose la mayor igualdad entre los interesados.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+Tratándose de conflicto de derechos en los que participe un menor, se estará al principio del interés superior de la infancia.
+
 ###### ARTÍCULO 22.
 
 La ignorancia de las leyes no excusa su cumplimiento y a nadie aprovecha; pero los jueces, teniendo en cuenta el notorio atraso intelectual de los interesados, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, oyendo en todo caso el parecer del Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban o, de ser posible, concederles un plazo para que la cumplan, instruyéndoles previamente sobre los deberes que dicha ley impone y que dejaron de cumplir, siempre que no se trate de leyes que afecten directamente al interés público.
@@ -155,9 +161,11 @@ Las leyes, reglamentos u otras disposiciones de observancia general, se aplicar�
 
 El uso abusivo que hagan las autoridades de sus atribuciones legales y todo abuso que de su derecho realicen los particulares es causa de responsabilidad civil.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 28.
 
-El derecho para reclamar los daños y perjuicios a que se refiere el artículo anterior dura un año, contado a partir del día en que el ofendido tenga conocimiento del hecho abusivo.
+El derecho para reclamar los daños y perjuicios a que se refiere el artículo anterior dura un año, contado a partir del día en que el perjudicado tenga conocimiento del hecho abusivo.
 
 # LIBRO PRIMERO. DEL DERECHO DE LAS PERSONAS
 
@@ -233,9 +241,11 @@ I. Los mayores de edad no sujetos a interdicción.
 
 II. Los menores emancipados.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 38.
 
-Los negocios de familia que este código reglamenta pueden ser celebrados personalmente por los menores que hayan cumplido dieciséis años, si son varones y catorce si son mujeres, con autorización de sus legítimos representantes o de quien pueda suplir legalmente dicha autorización.
+Los negocios de familia que este código reglamenta pueden ser celebrados personalmente por los menores que hayan cumplido dieciséis años, sean varones o mujeres, con autorización de sus legítimos representantes o de quien pueda suplir legalmente dicha autorización.
 
 ###### ARTÍCULO 39.
 
@@ -266,6 +276,10 @@ Son nulos los negocios jurídicos celebrados por los menores emancipados con inf
 ###### ARTÍCULO 45.
 
 El matrimonio del menor produce de pleno derecho la emancipación y por su efecto se extingue la patria potestad, en la que, por lo tanto, no recaerá el menor aunque su matrimonio se disuelva antes de la mayoría de edad.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+En este caso, el Oficial del Registro Civil hará la anotación marginal correspondiente en las respectivas actas de nacimiento del cónyuge o cónyuges emancipados, expresándose que éstos quedarán emancipados en virtud del matrimonio y citará la fecha en que éste se celebró así como el número y la foja del acta de matrimonio relativa.
 
 #### SECCIÓN TERCERA. DE LA INCAPACIDAD
 
@@ -301,9 +315,11 @@ III. El tratamiento médico, cuidado y vigilancia de los mayores que se hallen e
 
 IV. La guarda de sus bienes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 50.
 
-La patria potestad, la adopción y la tutela, son instituciones para la atención de los incapaces, por los ascendientes, adoptantes, tutores, funcionarios judiciales, administrativos y demás servidores públicos.
+La patria potestad, la adopción y la tutela, son instituciones para la atención de los incapaces, por los ascendientes, adoptantes, tutores, el Sistema Estatal para el Desarrollo Integral de la Familia, funcionarios judiciales, administrativos y demás servidores públicos.
 
 Cuando en este código se use la palabra D.I.F. se entenderá que se refiere al Sistema Estatal para el Desarrollo Integral de la Familia, y las facultades que el mismo código le confiere serán ejercitadas por el presidente del Patronato de esa institución, quien podrá delegarlas.
 
@@ -845,9 +861,11 @@ El Ministerio Público velará por los intereses del ausente y será parte neces
 
 El Registro Civil es una institución de orden público que tiene por objeto hacer constar de una manera auténtica todos los actos y hechos relacionados con el estado civil de las personas físicas, mediante la intervención de funcionarios dotados de fe pública, denominados Oficiales del Registro Civil, y a través de un sistema organizado de publicidad.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 146.
 
-Los Oficiales del Registro Civil asentarán las actas en las formas especiales que determine la Ley Reglamentaria del Registro Civil; la infracción de esta disposición producirá la inexistencia del acta, y la destitución del responsable. Las inscripciones se harán mecanográficamente o empleando sistemas de cómputo, por quintuplicado, debiendo firmar el Oficial y los comparecientes en los cinco ejemplares.
+Los Oficiales del Registro Civil asentarán las actas en las formas especiales que determine la Ley del Registro Civil; la infracción de esta disposición producirá la inexistencia del acta, y la destitución del responsable. Las inscripciones se harán mecanográficamente o empleando sistemas de cómputo, por quintuplicado, debiendo firmar el Oficial y los comparecientes en los cinco ejemplares.
 
 ###### ARTÍCULO 147.
 
@@ -905,13 +923,17 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 Para establecer el estado civil adquirido por los coahuilenses fuera de la República, serán suficientes las constancias debidamente legalizadas y traducidas al español en el caso de que se encuentre redactado en otro idioma, que los interesados presenten de los actos y hechos relativos, siempre que se registren en la oficina respectiva del territorio del Estado, en las formas que para el efecto se lleven.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 160.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales, en la forma que determine la Ley Reglamentaria.
+Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales en la forma que determinen las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 161.
 
-La Dirección Estatal del Registro Civil velará por el buen funcionamiento de la institución, y tendrá las atribuciones y obligaciones que determine su ley reglamentaria.
+La Dirección del Registro Civil velará por el buen funcionamiento de la institución y tendrá las atribuciones y obligaciones que determinen las disposiciones legales aplicables.
 
 #### SECCIÓN SEGUNDA. DE LAS ACTAS DE NACIMIENTO
 
@@ -1055,11 +1077,15 @@ La falta de registro de la adopción no quita a ésta sus efectos legales; pero 
 
 El acta de adopción semiplena contendrá: el nombre, apellidos, sexo, domicilio, fecha y lugar de nacimiento, así como la clave única del registro de población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad de los adoptantes; nombre, apellidos, edad, estado civil, nacionalidad y domicilio de las personas cuyo consentimiento hubiere sido necesario para la adopción; nombre y apellidos de dos testigos de asistencia. En el acta se asentarán, además, los datos esenciales de la resolución judicial que decretó la adopción, fecha en que causó ejecutoria y el Tribunal que la dictó.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 189.
 
-Extendida el acta de adopción semiplena, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas poniéndole el mismo número del acta de adopción.
+Extendida el acta de adopción semiplena, el oficial del Registro Civil que corresponda, realizará la anotación marginal respectiva en el acta de nacimiento del adoptado y se archivará la copia de las diligencias relativas poniéndole el número del acta de adopción. Únicamente para la expedición de copia certificada de acta de nacimiento, el Oficial del Registro Civil omitirá la marginación respectiva subsistiendo ésta en el asiento original. De igual forma el Oficial del Registro Civil, testará los espacios correspondientes a los ascendientes del o de los adoptantes, siempre y cuando, no coincida la relación de filiación.
 
-En los casos de adopción plena, se cancelará el acta de nacimiento del adoptado, si es que existe; en su lugar se levantará acta de nacimiento que contendrá los datos del adoptado, de los padres adoptivos y los ascendientes de éstos, así como los testigos de ese acto. A partir del levantamiento del acta de nacimiento no se publicará ni se expedirá alguna que revele el origen del adoptado ni su condición de tal.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+El Oficial del Registro Civil que corresponda en los casos de adopción plena, cancelará el acta de nacimiento del adoptado mediante una anotación marginal, si es que existe; además levantará acta de nacimiento que contendrá los datos requeridos conforme a la ley. A partir del levantamiento el acta de nacimiento no se publicará ni se expedirá alguna que revele el origen del adoptado ni de su condición de tal.
 
 El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, a menos que exista autorización o requerimiento judiciales, en los siguientes casos:
 
@@ -1107,7 +1133,7 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 ###### ARTÍCULO 195.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento del cónyuge o cónyuges emancipados, expresándose quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró así como el número y la foja del acta relativa.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2005)
 
 #### SECCIÓN SÉPTIMA. DE LAS ACTAS DE MATRIMONIO
 
@@ -1381,11 +1407,13 @@ II. Las que se mencionan en el acta como relacionadas con el estado civil del (s
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 237.
 
-El juicio de rectificación se tramitará conforme al Código Procesal Civil y el juez del negocio, además de (sic) citara los interesados que fueren conocidos o que intervinieron en el acta, publicará, a costa de los mismos, un extracto de la demanda, por una sola vez, en el Periódico Oficial del Gobierno del Estado y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio de los promoventes; se mandará fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera que, teniendo interés, se presente dentro del término que no exceda de treinta días, debiendo oírse como partes al Ministerio Público y al Oficial del Registro Civil que corresponda.
+El juicio de rectificación se tramitará conforme al Código Procesal Civil, sólo depurará el procedimiento omitiendo la etapa de conciliación; además de citar a los interesados que fueren conocidos o que intervinieron en el acta pública, a costa de los mismos, un extracto de la demanda, por una sola vez, en el Periódico Oficial del Gobierno del Estado y en otro de los de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio de los promoventes; se mandará fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera que, teniendo interés, se presente dentro del término que no exceda de treinta días, debiendo oírse como partes al Ministerio Público y al Oficial del Registro Civil que corresponda.
+
+En caso de que la rectificación se promueva ante la Dirección del Registro Civil, se procederá en los mismos términos del párrafo anterior, pero la notificación podrá hacerse mediante simple oficio y no será necesario oír al Ministerio Público. El procedimiento administrativo de rectificación, se sujetará a las normas que establezca la Ley del Registro Civil.
 
 ###### ARTÍCULO 238.
 
@@ -1497,13 +1525,17 @@ Todo acuerdo de esponsales, cualquiera que sea el nombre que se le de, no produc
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 255.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años de edad y la mujer catorce. El Juez de Primera Instancia en Materia Familiar puede conceder dispensa de edad por causas graves y justificadas.
+La edad para contraer matrimonio será de dieciséis años de edad tanto para el hombre como para la mujer salvo los casos expresamente exceptuados por la ley. El Juez de Primera Instancia en Materia Familiar puede conceder dispensa de edad por causas graves y justificadas.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 256.
 
-Los menores de edad no pueden contraer matrimonio sin el consentimiento de quienes ejerzan sobre ellos la patria potestad o en su caso la tutela y a falta de unos y otros, sin la autorización del Juez de Primera Instancia en Materia Familiar de la residencia del menor.
+Los menores de dieciséis años podrán contraer matrimonio con el consentimiento de quienes deban otorgarlo de acuerdo con este Código.
 
 ###### ARTÍCULO 257.
 
@@ -1524,6 +1556,32 @@ El juez que hubiere autorizado a un menor para contraer matrimonio, no podrá re
 ###### ARTÍCULO 261.
 
 También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por las autoridades estatales; misma que deberá acreditarse mediante la presentación del documento autorizado.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+En dicho taller se informará cuando menos sobre:
+
+I. Los requisitos para contraer matrimonio.
+
+II. Los efectos del matrimonio con relación a los cónyuges y a sus hijos.
+
+III. Los regímenes patrimoniales del matrimonio.
+
+IV. Las causales de divorcio.
+
+V. La Patria Potestad.
+
+VI. El Patrimonio de la Familia.
+
+VII. El manejo de conflictos interpersonales.
+
+VIII. La paternidad responsable.
+
+IX. La responsabilidad financiera.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+Al término del taller, la autoridad estatal encargada de su implementación, deberá recabar la opinión de los asistentes respecto a la calidad de la información recibida y al grado de conocimiento del tema de los facilitadores.
 
 ###### ARTÍCULO 262.
 
@@ -1608,6 +1666,10 @@ Los cónyuges y los hijos menores o incapacitados, en materia de alimentos, tend
 ###### ARTÍCULO 273.
 
 El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto resolverán de común acuerdo todo lo relativo al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+La unidad de la familia, el interés de los hijos, el de los menores y la igualdad de los derechos y deberes de los cónyuges, han de ser los principios fundamentales para la aplicación e interpretación del derecho de familia.
 
 ###### ARTÍCULO 274.
 
@@ -1913,13 +1975,15 @@ III. Que se haya celebrado en contravención a lo dispuesto en los artículos 19
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierta y no demanda la nulidad dentro de los treinta días siguientes a dicha denuncia, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 334.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+En los matrimonios celebrados por menores de dieciséis años dejará de ser causa de nulidad:
 
-I. Cuando la mujer haya concebido.
+a. Cuando la mujer haya concebido.
 
-II. Cuando aunque la mujer no haya concebido, el cónyuge que al celebrar el matrimonio no tenía la edad requerida para contraerlo, cumpla dieciséis años y medio si es el hombre y catorce años y medio si es la mujer, sin que se hubiere intentado la nulidad.
+b. Cuando aunque la mujer no haya concebido, el cónyuge que al celebrar el matrimonio tenía la edad para contraerlo, cumpla dieciséis años sin que hubiere intentado la nulidad.
 
 ###### ARTÍCULO 335.
 
@@ -2089,7 +2153,9 @@ VII. La impotencia incurable que sobrevenga después de celebrado el matrimonio,
 
 VIII. Padecer enajenación mental incurable.
 
-IX. La separación de la casa conyugal por más de seis meses consecutivos sin causa justificada. El plazo no se considerará interrumpido por el regreso esporádico del cónyuge, sin la intención de reintegrarse a la vida en común, a juicio del juez.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+IX. El abandono sin causa justificada del domicilio conyugal por más de seis meses consecutivos acreditando que en el domicilio conyugal, ambos cónyuges, tengan plena autonomía de mando, dirección y autoridad. El plazo no se considerará interrumpido por el regreso esporádico del cónyuge, sin la intención, a criterio del juez, de reintegrarse a la vida en común.
 
 X. La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio.
 
@@ -2103,15 +2169,21 @@ Las amenazas deben consistir en actos o expresiones concretas que indiquen el pr
 
 Toda conducta ofensiva que veje, menosprecie o humille al cónyuge ofendido, es constitutiva de injuria.
 
-XIII. La violencia intrafamiliar, entendida como todo acto de poder u omisión, recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física o psicoemocional o sexualmente, a cualquier miembro de la familia que tenga relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad, civil, o por concubinato, realizado dentro o fuera del domicilio ocupado por la familia y que tienda a causar daño; consistente en cualquiera de las siguientes clases:
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
 
-A. Maltrato físico. Todo acto de agresión intencional repetitivo, en el que se utilice alguna parte del cuerpo o se empleé algún objeto o arma para sujetar, inmovilizar o causar daño en el cuerpo, encaminado a su sometimiento y control.
+XIII. Las conductas de violencia familiar, cometidas por uno de los cónyuges contra el otro; hacia los hijos de ambos o de alguno de ellos, en contra de parientes consanguíneo o por afinidad en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el segundo grado, adoptante o adoptado.
 
-B. Maltrato psicoemocional. Todo acto u omisión repetitiva, consistente en cualquier clase de prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluativas de abandono, que provoquen en quien las recibe deterioro o disminución de la autoestima y devaluación del autoconcepto.
+Para los efectos anteriores las conductas de violencia familiar surgen cuando se ejerce maltrato físico, psíquico o sexual. Entendiéndose por éstas:
 
-C. Maltrato sexual. Todo acto u omisión reiterado que inflige burla y humillación de la sexualidad, niega las necesidades sexoafectivas, coacciona a realizar actos o prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control de la persona y que generan un daño, así como los delitos contra la libertad y el normal desarrollo psicosexual.
+a) Maltrato físico: Lo constituye las acciones que perjudican la integridad corporal que van desde sujeción, lesiones en el cuerpo producidas por puño, mano o pie, golpes con objeto, hasta uso de armas punzo-cortantes o de fuego. Las consecuencias pueden ir desde golpes simples, lesiones leves, lesiones graves, lesiones que dejen marca, e incluso que producen incapacidad.
 
-XIV. La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 271 y el incumplimiento de la sentencia ejecutoriada por alguno de los cónyuges, sin justa causa, en el caso del artículo 273.
+b) Maltrato psicológico: Todo acto y omisión consistente en cualquier clase de prohibiciones condicionamientos, coacciones, intimidaciones amenazas, actitudes devaluativas de abandono. Que provoquen en quien las recibe, un deterioro o disminución de la autoestima y devaluación del autoconcepto.
+
+c) Maltrato sexual: Todo acto que inflinge burla y humillación de la sexualidad, niega las necesidades sexoafectivas entre los cónyuges, coacciona a realizar actos o practicar la celotipia para el control de la persona, así como los delitos contra la libertad y el normal desarrollo de la psicosexualidad.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+XIV. La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 271 y el incumplimiento de la sentencia ejecutoriada por alguno de los cónyuges, sin justa causa, en el caso del artículo 273; asimismo el incumplimiento de las resoluciones administrativas o judiciales tendientes a corregir los actos de violencia familiar.
 
 XV. La acusación calumniosa hecha por un cónyuge contra el otro por delito intencional, que merezca pena mayor de dos años de prisión.
 
@@ -2124,6 +2196,10 @@ XVIII. Cometer un cónyuge contra la persona o los bienes del otro un acto que s
 XIX. La separación de los cónyuges por más de tres años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos.
 
 XX. El mutuo consentimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+La enumeración de las causales de divorcio, son de carácter limitativo y cada una es autónoma, por lo cual, no pueden involucrarse unas con otras, ni ampliarse por analogía ni por mayoría de razón.
 
 ###### ARTÍCULO 364.
 
@@ -2223,7 +2299,9 @@ III. Las que se estimen convenientes para que los cónyuges no se puedan causar 
 
 IV. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta.
 
-V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los menores. Tratándose de menores de siete años, quedarán al cuidado de la madre, salvo que sea inconveniente para su salud, seguridad o moralidad. El juez, en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de los menores y de los bienes de éstos; y sin más limitación que este mismo beneficio, puede confiar la custodia de los menores a un tercero o institución educativa y la administración de los bienes a una institución de crédito.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de estos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá a la persona o personas en cuyo poder deben quedar provisionalmente los menores. Tratándose de menores de siete años, quedarán al cuidado de la madre, salvo que ello no sea conveniente porque represente un riesgo para su integridad física, salvo que ello no sea conveniente porque represente un riesgo para su integridad física, moral o emocional. El juez en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones estableciendo las modalidades y medidas que estimen necesarias en beneficio de los mayores y de los bienes de estos; y sin más limitación que este mismo beneficio, puede confiar la custodia de los menores a un tercero o a una institución de asistencia social y la administración de los bienes a una institución de crédito o a cualquier persona física o moral que, a juicio del juez, pueda cumplir con esta función.
 
 ###### ARTÍCULO 378.
 
@@ -2279,6 +2357,8 @@ Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá c
 
 ### CAPÍTULO II. DE LOS ALIMENTOS
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ### CAPÍTULO III. DE LA FILIACIÓN
 
 ### CAPÍTULO I. REGLAS GENERALES
@@ -2309,7 +2389,9 @@ Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colate
 
 El parentesco civil es el que nace de la adopción semi plena y sólo existe entre el adoptante y el adoptado y sus respectivos descendientes.
 
-En la adopción plena el parentesco se extenderá, previa conformidad expresa de los padres de los adoptantes, a ellos, y a los descendientes del adoptante.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+La adopción plena confiere una filiación que sustituya a la de origen. El adoptado deja de pertenecer a su familia natural y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, excepción hecha de los impedimentos para contraer matrimonio. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones de un hijo y los impedimentos matrimoniales se extienden a la familia del adoptante.
 
 ###### ARTÍCULO 390.
 
@@ -2335,7 +2417,7 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ###### ARTÍCULO 395.
 
-Para los efectos legales se entiende por alimentos la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Para los efectos legales se entiende por alimentos: la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria del alimentista, su recreación y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales.
 
 ###### ARTÍCULO 396.
 
@@ -2404,6 +2486,10 @@ III. El tutor.
 IV. Los hermanos y demás parientes colaterales dentro del cuarto grado.
 
 V. El Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+VI. La Procuraduría de la Familia.
 
 ###### ARTÍCULO 409.
 
@@ -2951,9 +3037,11 @@ Si un óvulo fecundado fuese implantado en una mujer de quien no proviniera el m
 
 La adopción confiere al adoptado la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación paterno-filial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 493.
 
-Los mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a uno o más menores o incapacitados, aunque éstos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a aquéllos, previo estudio socio-económico de los adoptantes, quienes deberán acreditar además:
+Los mayores de edad, en pleno ejercicio de sus derechos pueden adoptar a uno o a más menores o incapacitados, aunque estos sean mayores de edad, siempre que el adoptante tenga dieciséis años más que el adoptado y que la adaptación sea benéfica para aquellos, previa valoración psicológica y estudio socioeconómico de los adoptantes, quienes deberán acreditar, además:
 
 I. Que tienen medios bastantes para proveer a la subsistencia, la educación, y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar.
 
@@ -2987,11 +3075,19 @@ IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+El consentimiento otorgado en términos de ley ante la Procuraduría de la Familia, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior ratificación ante la presencia judicial.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+El consentimiento otorgado ante Notario Público o cualquier otro distinto de ellos ya expresados, deberá ser ratificado ante la autoridad judicial competente.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 498.
 
-Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el juez, cuando la adopción sea conveniente para los intereses morales y materiales del adoptado.
-
-El procedimiento para hacer la adopción y para revocarla será fijado por el Código Procesal Civil. En estos procedimientos será parte la Procuraduría de la Familia y se oirá al Ministerio Público.
+Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrán suplir el consentimiento el (sic) juez, tomando en consideración el interés superior del menor que trate de adoptarse procurando su bienestar con absoluto respeto a sus derechos fundamentales.
 
 ###### ARTÍCULO 499.
 
@@ -3002,6 +3098,10 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
 
 El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 500 BIS. El Sistema para el Desarrollo Integral de la Familia a través del Consejo Técnico de Adopciones, conocerá de las solicitudes de adopción que se presenten ante el propio organismo en relación con los menores que se encuentren institucionalizados y en aptitud legal de ser adoptados, así como de emitir opinión respecto de las adopciones promovidas ante el Poder Judicial sobre menores no institucionalizados.
 
 SUBSECCIÓN SEGUNDA
 
@@ -3057,9 +3157,11 @@ SUBSECCIÓN TERCERA
 
 DE LA ADOPCIÓN PLENA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 509.
 
-Con los mismos presupuestos establecidos en el artículo 493, se instituye con efectos irrevocables la adopción plena, en los términos establecidos por este código, en favor de los menores de siete años abandonados, expósitos, o que sin serlo, no estén sujetos a patria potestad y de los que sean entregados a una institución autorizada para promover su adopción.
+Con los mismos supuestos establecidos en el artículo 493, se instituye con efectos irrevocables la adopción plena, en los términos establecidos por este Código, a favor de los menores de edad abandonados, expósitos, o que sin encontrarse en alguno de los anteriores supuestos, no estén sujetos a patria potestad y de los que sean entregados a una institución autorizada para promover su adopción.
 
 El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos para contraer matrimonio. El adoptado deberá llevar los apellidos de quien lo adopte.
 
@@ -3067,11 +3169,23 @@ La adopción plena extingue la filiación preexistente entre el adoptado y sus p
 
 En la adopción plena el parentesco se extenderá a todos los ascendientes y descendientes de los adoptantes, en los términos del artículo 389 de este ordenamiento.
 
-No pueden adoptar mediante adopción plena las personas que tengan vínculo de parentesco consanguíneo con el menor.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco con el menor, excepto que quien deba consentir la adopción y los adoptantes, estén de acuerdo en que surta los efectos de la adopción plena atendiendo al interés superior del adoptado. En todos los demás casos la adopción será semiplena.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+El sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia, será el único órgano facultado para promover la adopción de los menores adoptables que se encuentren en los centros o lugares de internamientos públicos o privados.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 510.
 
-En la adopción plena, la resolución judicial que la apruebe contendrá la orden al Oficial del Registro Civil, para que cancele en su caso el acta de nacimiento del adoptado, así como para que levante acta de nacimiento en la que figuren como padres los adoptantes y como hijo el adoptado y demás datos que se requieran conforme a la ley, sin hacer mención sobre la adopción.
+En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que actúe en los términos del artículo 189 de este Código. Al levantar la nueva acta no se hará mención sobre la adopción.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 510 BIS. Podrá promoverse la conversión de adopción semiplena en plena en los términos que establezca el Código Procesal Civil.
 
 SUBSECCIÓN CUARTA
 
@@ -3086,6 +3200,10 @@ Esa adopción se regirá por los tratados internacionales suscritos y ratificado
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el Estado. Esta adopción se rige por lo dispuesto en el presente Código.
 
 En igualdad de circunstancias se dará preferencia en la adopción a los mexicanos sobre los extranjeros.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+El juez que conozca del caso, antes de otorgar una adopción internacional y tomando en consideración el interés superior del menor, concederá un plazo de 30 días naturales al Sistema para el Desarrollo Integral de la Familia como autoridad central en materia de adopciones, para que a través de la Procuraduría de la Familia, presente propuesta de adopción del menor en su estado o país de origen.
 
 ## TÍTULO CUARTO. DE LA TUTELA
 
@@ -3281,7 +3399,9 @@ IV. Cuando el padre, madre, abuelo o abuela, en su caso:
 
 a) Expongan a su hijo o nieto menor de un año por más de un día.
 
-b) Abandonen a su hijo o nieto por más de tres meses, si éste quedó a cargo de alguna persona.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+b) Abandonen a su hijo o nieto por más de tres meses, si éste quedó a cargo de alguna persona o institución de asistencia social. Las visitas ocasionales o intermitentes, no interrumpen el término de tres meses si no tienen el firme propósito de que el menor les sea reintegrado.
 
 c) Abandonen por más de un día a su hijo o nieto si el menor no hubiere quedado al cuidado de alguna persona y el abandono sea intencional.
 
@@ -3345,9 +3465,11 @@ III. En caso de divorcio necesario se estará a lo que disponga la sentencia que
 
 Lo dispuesto en las fracciones I y II del artículo anterior no impide al juez encomendar la guarda de los menores a los abuelos, cuando ello sea conveniente para los menores mismos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTÍCULO 554.
 
-En los casos de los artículos 472, 473 y 552 cuando la patria potestad corresponda sólo al padre o a la madre, o sólo a uno de los abuelos, convendrán aquéllos o éstos, el tiempo, modo y lugar en que podrán visitar a los menores y comunicarse con éstos el ascendiente con el que no viva el menor, y si no llegaren a un acuerdo resolverá el juez estas cuestiones.
+En los casos de los artículos 472, 473 y 552, cuando la guarda y custodia corresponda sólo al padre o a la madre, o sólo a uno de los abuelos, convendrán aquellos o éstos, el tiempo, modo y lugar en que podrán visitar a los menores y comunicarse con éstos el ascendiente con el que no viva el menor y, si no llegaren a un acuerdo, resolverá el juez estas cuestiones.
 
 ###### ARTÍCULO 555.
 
@@ -3595,7 +3717,9 @@ A los expósitos y abandonados se les aplicarán las siguientes disposiciones:
 
 I. Tendrán como tutor, por ministerio de la ley, a la persona que por su propia voluntad se haya hecho cargo de ellos.
 
-II. Los directores de los hospicios, casas de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+II. La Procuraduría de la Familia, los directores de los hospicios, casa de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
 
 III. En estos casos, la tutela se ejercerá por ministerio de la ley y no será necesario el discernimiento del cargo.
 
@@ -3609,7 +3733,9 @@ El Estado, a través del Sistema para el Desarrollo Integral de la Familia y de 
 
 Para los efectos de este ordenamiento, se considera expósito a aquel menor cuyo origen se desconoce y se coloque en una situación de desamparo por quienes conforme a la ley estén obligados a protegerlo; y como abandonado al menor que conociendo su origen, los que ejercen la patria potestad o tutela, dejan de cumplir con sus deberes de protección y cuidado, sin importar la posibilidad de que alguna persona o institución se haga cargo del mismo.
 
-El Estado debe encargarse de los menores expósitos o abandonados, cuando éstos no tengan el tutor a que se refiere el artículo 603.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+El Estado, por conducto del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia, debe hacerse cargo de los menores expósitos o abandonados, cuando estos carezcan del tutor a que se refiere el artículo 603.
 
 ### CAPÍTULO XI. DE LA EXTINCIÓN DE LA TUTELA
 
@@ -4222,6 +4348,10 @@ Toda familia tiene derecho a disfrutar de una vivienda digna y decorosa.
 Para los efectos de este título, se entiende por familia a las personas que estando unidas por matrimonio o por parentesco consanguíneo, civil o afín, habitan una misma casa y tienen, por ley o voluntariamente, unidad en la administración del hogar.
 
 Para los mismos efectos se entiende por familia a las personas que viven juntos como si estuvieran casados sin estarlo y sin que exista en ellos ningún impedimento no dispensable para que contraigan matrimonio.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
+Por lo tanto, también pueden constituir el patrimonio familiar: la madre soltera, el padre soltero, las abuelas, los abuelos, las hijas y los hijos que quieran constituirlo para proteger jurídica y económicamente a su familia.
 
 ###### ARTÍCULO 715.
 
@@ -19906,3 +20036,9 @@ SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los qu
 P.O. 24 DE MAYO DE 2005.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE AGOSTO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días hábiles siguientes al día de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan este Decreto.
