@@ -4,7 +4,7 @@ identifier: "VER-ley-de-juntas-de-mejoras-del-estado-de-veracruz-de-ignacio-9133
 country: "mx"
 rank: "ley"
 publication_date: "1963-02-21"
-last_updated: "1992-04-04"
+last_updated: "2005-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE JUNTAS DE MEJORAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES MEJORAMIENTO MORAL, CIVICO Y MATERIAL DEL ESTADO-
 
-LEY DE JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL DEL ESTADO
+LEY DE JUNTAS DE MEJORAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Lave, el jueves 21 de febrero de 1963.
 
@@ -33,205 +33,289 @@ FERNANDO LOPEZ ARIAS, Gobernador Constitucional del Estado Libre y Soberano de V
 
 A virtud de lo expuesto y en uso de las facultades extraordinarias que me tiene conferidas la H. XLVI Legislatura del Estado, por Decreto número 98, de fecha 28 de diciembre del año próximo anterior, publicado en la "Gaceta Oficial", de 29 del mismo mes y año, he tenido a bien expedir la siguiente
 
-LEY DE JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL DEL ESTADO
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE AGOSTO DE 2005)</small>
 
-###### ARTICULO 1°.
+LEY DE JUNTAS DE MEJORAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-En cada uno de los lugares del Estado que se estime conveniente por el número de sus habitantes, funcionará un organismo denominado Junta de Mejoramiento Moral, Cívico y Material, con personalidad jurídica y patrimonio propio, que tendrá por objeto obtener la cooperación de los particulares en todo aquello que tienda al mejoramiento moral, cívico y material de los habitantes de la Entidad.
+> <small>(ADICIONADA, G.O. 19 DE AGOSTO DE 2005)</small>
 
-###### ARTICULO 2°.
+#### SECCIÓN PRIMERA. DEL OBJETO
 
-Para la integración de las Juntas de Mejoramiento Moral, Cívico y Material, el Presidente Municipal, previo acuerdo del Ejecutivo del Estado; convocará a las personas que se hayan caracterizado por su honradez, actividad, eficiencia y espíritu de servicio, sin distinción de sexos ni nacionalidades, y después de explicarles sus finalidades, los invitará a participar en la elección de sus componentes.
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-Cada Junta estará integrada por un Presidente, un Secretario, un Tesorero y dos Vocales.
+###### ARTICULO 1º.
 
-El Presidente representará a la Junta en sus relaciones jurídicas; pero en los casos que así lo ameriten, podrá delegar esa representación en otro miembro.
+En cada uno de los municipios del Estado, funcionarán organismos denominados Junta de Mejoras, con personalidad jurídica y patrimonio propio que tendrán por objeto la cooperación de los particulares en beneficio de la comunidad para fortalecer la identidad cívica y cultural.
 
-###### ARTICULO 3°.
+> <small>(ADICIONADA, G.O. 19 DE AGOSTO DE 2005)</small>
 
-La Autoridad Municipal remitirá al Gobernador del Estado, un tanto del acta de la Asamblea y hará en su caso las observaciones que estime procedentes con respecto a las personas propuestas.
+#### SECCIÓN SEGUNDA. DE LA JUNTA DE MEJORAS
 
-###### ARTICULO 4°.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-El Gobernador nombrará a los componentes de las Juntas de conformidad con las proposiciones que se le hubieren hecho, pudiendo modificarla y conservando la facultad de remover libremente a dichos componentes y de hacer nuevas designaciones, u ordenar se convoque a nueva elección.
+###### ARTICULO 2º.
 
-###### ARTICULO 5°.
+l. Para la integración de las Juntas de Mejoras, el presidente municipal, convocará a las personas que se hayan caracterizado por su honradez, actividad, eficiencia y espíritu de servicio, sin distinción de sexo, y después de explicarles sus finalidades los invitará a participar en la designación de sus componentes.
 
-Los cargos de las Juntas de Mejoramiento serán voluntarios, honoríficos, renunciables y por tiempo indefinido.
+2. Cada Junta estará integrada por un presidente, un secretario, un tesorero y dos vocales, de los cuales el primero será de control y vigilancia con sus respectivos suplentes.
 
-###### ARTICULO 6°.
+3. El presidente representará a la Junta en sus relaciones jurídicas, pero en los casos que así lo ameriten podrá delegar esa representación en otro miembro.
 
-Para ser miembro de las Juntas se requiere:
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-a).- Ser ciudadano en ejercicio de sus derechos y distinguido por su honradez, civismo, entusiasmo y aptitud;
+###### ARTICULO 3º.
 
-b).- Ser del estado seglar;
+El presidente municipal está facultado para:
 
-c).- No ocupar ningún cargo de elección popular; y
+a. Nombrar a los integrantes de la Junta de mejora con sus respectivos suplentes;
 
-d).- Saber leer y escribir.
+b. Presentar al Cabildo para efectos de aprobación el programa operativo anual de la Junta de Mejoras, contando el Presidente Municipal con el voto de Calidad;
 
-###### ARTICULO 7°.
+c. Presentar al Cabildo para efectos de aprobación el reglamento interior de la Junta de Mejoras;
 
-Los componentes de las Juntas de Mejoramiento, en caso de falta absoluta o temporal, serán substituídos por sus respectivos suplentes si los hubiere, o por las personas que proponga la Junta.
+d. Convocar a sesiones de la Junta de Mejoras cuando el Presidente de la Junta omita hacerlo;
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+e. Vigilar el funcionamiento y practicar auditoría a la Junta de Mejoras en contra de la cual exista presunción de irregularidades; y
 
-###### ARTICULO 8°.
+f. Promover la coordinación de acciones con la oficina coordinación (sic) del Estado;
 
-Son atribuciones de las Juntas de Mejoramiento Moral, Cívico y Material y de sus integrantes, las siguientes:
+g. Las demás que establezcan las leyes.
 
-I.- De las juntas:
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-a).- Elaborar su Reglamento Interior que deberá ser aprobado por el Coordinador General;
+###### ARTICULO 4º.
 
-b).- Efectuar sesiones periódicas, con el objeto de coordinar sus actividades, a las que se invitará a las Autoridades Municipales, de estimarlo conveniente a fin de conservar la armonía de trabajo entre las Juntas y los Ayuntamientos;
+1. El secretario del Ayuntamiento levantará el acta en donde haga constar la designación de los integrantes de la Junta de Mejoras, remitiendo copia a la Coordinación Estatal para su conocimiento.
 
-c).- Presentar un Programa Anual de Labores a la consideración del Coordinador General para su aprobación, en su caso;
+2. El presidente municipal extenderá los nombramientos respectivos en favor de las personas designadas, enviando copia a la oficina coordinadora.
 
-d).- Apoyar las actividades que desarrollen las autoridades competentes en la prevención de la delincuencia y la readaptación social, proponiéndoles a su vez, las acciones que estimen necesarias para el efecto;
+3. El presidente municipal puede remover libremente a los integrantes de la Junta, hacer nuevas designaciones u ordenar se convoque a nueva elección en términos de los artículos 2 y 3 de esta ley.
 
-e).- Realizar acciones que tiendan a fortalecer la identidad cívica y cultural de los mexicanos en torno a los Símbolos y Emblemas Nacionales;
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-f).- Difundir ante la comunidad, las fechas y hechos históricos y cívicos más relevantes del Calendario Oficial;
+###### ARTICULO 5º.
 
-g).- Fomentar y promover el sentimiento de solidaridad y la ayuda mutua entre los habitantes de la localidad;
+1. Los cargos de las Juntas de Mejoras son voluntarios, honoríficos y renunciables.
 
-h).- Promover el reconocimiento público a los méritos cívicos y personales de los habitantes de la comunidad;
+2. No pueden los miembros de las Juntas acordar por sí percepción alguna por ningún concepto de forma directa o indirecta, ni podrán ser contratistas por sí o por interpósita persona en las labores que se realicen por cuenta de la Junta.
 
-i).- Promover la integración de Patronatos o Comités de Participación Ciudadana para la realización de obras materiales que se requieran en la localidad, así como para la limpieza y saneamiento de la misma;
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-j).- Las que se deriven de esta Ley y las que les confiera el Gobernador del Estado, el Secretario General de Gobierno o el Coordinador General de las Juntas.
+###### ARTICULO 6º.
 
-II.- De los Presidentes de las Juntas:
+Para ser integrante de la Junta de Mejoras se deberá cumplir con los siguientes requisitos:
 
-a).- Ejecutar los acuerdos que se adopten en el seno de las sesiones de la Junta;
+a. Ser ciudadano en ejercicio de sus derechos y distinguido por su honradez, civismo, entusiasmo y aptitud;
 
-b).- Procurar que las acciones de la Junta, sean coordinadas con las de las autoridades;
+b. Ser vecino de la localidad correspondiente;
 
-c).- Convocar a las sesiones de las Juntas asistiendo a las mismas con voz y voto;
+c. No ocupar ningún cargo de elección popular, ni haberlo ocupado en los últimos tres años anteriores a la elección;
 
-d).- Elaborar el Programa Anual de Labores de la Junta;
+d. Saber leer y escribir;
 
-e).- Rendir ante el Coordinador General de las Juntas, un informe trimestral de las actividades desarrolladas, el que dará a conocer por todos los medios posibles a los habitantes de la comunidad; así mismo, en el mes de septiembre de cada año, remitir al Ejecutivo del Estado, por conducto del Coordinador General, un informe detallado de las labores que se hayan desarrollado durante el último año;
+e. No ser ministro de culto religioso; y
 
-f).- Promover y realizar festivales, colectas o cualquier otro espectáculo público permitido por la Ley, para obtener fondos.
+f. No ser dirigente de asociación o partido político dentro del municipio.
 
-III.- Del Secretario:
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-a).- Sustituir al Presidente de la Junta en las ausencias que no excedan de quince días;
+###### ARTICULO 7º.
 
-b).- Acordar con el Presidente la Orden del Día de las sesiones y levantar al término de la misma el acta de Acuerdos correspondiente;
+1. Las faltas temporales de los integrantes de las Juntas de Mejoras, por hasta sesenta días, serán suplidas de la forma siguiente:
 
-c).- Asistir a las sesiones de la Junta, con el carácter de Secretario de Actas con derecho a voz y voto;
+a. El secretario suplirá al presidente;
 
-d).- Organizar y controlar el archivo de la Junta.
+b. El tesorero al secretario; y
 
-IV.- Del Tesorero:
+c. Uno de los vocales al tesorero
 
-a).- Administrar y custodiar los fondos obtenidos por la Junta;
+2. Las ausencias de más de sesenta días serán cubiertas por sus respectivos suplentes.
 
-b).- Llevar un registro pormenorizado de los gastos, conservando las facturas, recibos y cualquier otro comprobante;
+> <small>(ADICIONADA, G.O. 19 DE AGOSTO DE 2005)</small>
 
-c).- Elaborar trimestralmente un corte de caja comunicándolo a los habitantes de la comunidad y a la Coordinación General a fin de que ésta verifique su exactitud;
+#### SECCIÓN TERCERA. DE LAS ACTIVIDADES
 
-d).- Facilitar a la Coordinación General de las Juntas, la información que ésta requiera en caso de que practique alguna auditoría;
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
-e).- Asistir a las sesiones de la Junta con derecho a voz y voto.
+###### ARTICULO 8º.
 
-V.- De los Vocales:
+Son atribuciones de las Juntas de Mejoras y de sus integrantes las siguientes:
 
-a).- Asistir a las sesiones de la Junta con derecho a voz y voto;
+a. De las Juntas:
 
-b).- Apoyar en las actividades que desarrolle la junta y las que indique el Presidente de la misma.
+I. Elaborar su Reglamento interior que deberá ser aprobado por el Cabildo;
 
-###### ARTICULO 9°.
+II. Realizar al menos una sesión ordinaria mensual, conforme lo exija la índole de las actividades que desarrollen, a fin de conservar la armonía de trabajo entre las Juntas y los Ayuntamientos;
 
-Queda terminantemente prohibido a los miembros de las Juntas de Mejoramiento desarrollar, en el seno de ellas, actividades de índole religiosa o de política partidarista.
+III. Presentar un Programa operativo anual a la consideración del Cabildo, durante los primeros quince días del mes de diciembre de cada año, para su aprobación. En los años de renovación de Ayuntamientos esta se realizará durante la primera quincena de marzo, misma que será remitida a la Coordinación Estatal para que emita, en su caso, las opiniones correspondientes;
 
-###### ARTICULO 10º.
+IV. Apoyar las actividades que desarrollen las autoridades competentes en la prevención de la delincuencia y la readaptación social, proponiéndoles a su vez las acciones que estimen necesarias para el efecto;
 
-Las Juntas de Mejoramiento llevarán a cabo obras públicas con los fondos que ellas puedan allegarse, mediante colectas, festivales o cualquiera otra forma lícita.
+V Realizar acciones que tiendan a fortalecer la identidad cívica y cultural de los mexicanos en torno a los Símbolos y Emblemas Nacionales;
+
+VI. Difundir ante la comunidad las fechas de hechos históricos y cívicos más relevantes del Calendario Oficial; así como el rescate de las tradiciones y costumbres propias de su Comunidad;
+
+VII. Fomentar y promover el sentimiento de solidaridad y la ayuda mutua entre los habitantes de la localidad;
+
+VIII. Promover el reconocimiento público a los méritos cívicos y personales de los habitantes de la comunidad;
+
+IX. Informar anualmente al Ayuntamiento, durante el mes de mayo, de los bienes que forman su patrimonio, para que éste a su vez lo remita para conocimiento a la Coordinación Estatal;
+
+X. Realizar donaciones a los comités, patronatos o demás organismos debidamente acreditados ante el Ayuntamiento: y
+
+XI. Las que se deriven de esta Ley.
+
+b. De los Presidentes de las Juntas:
+
+I. Ejecutar los acuerdos que se adopten en el seno de las sesiones de la Junta;
+
+II. Procurar que las acciones de la Junta sean coordinadas con las de las autoridades estatales y municipales;
+
+III. Convocar a las sesiones de las Juntas asistiendo a las mismas con voz y voto;
+
+IV. Elaborar el Programa operativo anual de la Junta;
+
+V. Rendir ante el Cabildo un informe trimestral financiero y de las actividades desarrolladas, quien a su vez lo turnará para conocimiento a la Coordinación estatal; y
+
+VI. Promover y realizar festivales, colectas o cualquier otro espectáculo público permitido por la Ley, para obtener fondos.
+
+c. Del Secretario:
+
+I. Acordar con el presidente la Orden del día de las sesiones y levantar al término de la misma el acta de acuerdos correspondiente;
+
+II. Asistir a las sesiones de la Junta, con carácter de Secretario de actas con derecho a voz y voto;
+
+III. Organizar y controlar el archivo de la Junta;
+
+IV. Tener a su cargo y bajo su inmediata dirección, cuidado y responsabilidad, la oficina y archivo de la Junta;
+
+V. Autorizar con su firma y rúbrica, según corresponda, las actas y documentos emanados de la Junta de Mejoras; y
+
+VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+
+d. Del Tesorero:
+
+I. Recaudar, administrar y custodiar los fondos obtenidos por la Junta;
+
+II. Registrar la Junta ante las autoridades fiscales, llevando el registro y control de gastos, conservando las facturas, recibos y cualquier otro comprobante fiscal;
+
+III. Elaborar trimestralmente un corte de caja, el cual será revisado por el Contralor Municipal o quien designe el presidente municipal, mismo que deberá informarse a la ciudadanía y a la Coordinación Estatal;
+
+IV. Facilitar al presidente municipal, la información necesaria para el ejercicio de la facultad conferida en el artículo 3.e., para, en caso de resultar irregularidades, ejercer las acciones correspondientes; y
+
+V. Asistir a las sesiones de la Junta con derecho a voz y voto.
+
+e. De los Vocales:
+
+I. Asistir a las sesiones de la Junta con derecho a voz y voto;
+
+II. Apoyar en las actividades que desarrolle la Junta y las que indique el presidente de la misma;
+
+III. El primer vocal realizará funciones de control y vigilancia, transparentando las actividades de la Junta.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 9º.
+
+1. Por ningún concepto las Juntas de Mejoras, realizarán actividad alguna de índole religiosa o de política partidista.
+
+2. La contravención de esta norma será motivo suficiente para que sea relevado de su cargo.
+
+(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005
+
+###### ARTICULO 10.
+
+1. En caso de disolverse en su totalidad la Junta de Mejoras, el presidente municipal será responsable de la custodia de los bienes propiedad de la Junta, a través del funcionario que designe.
+
+2. El presidente municipal, dentro de los cinco días hábiles siguientes, nombrará a los nuevos integrantes de la Junta.
+
+3. En caso que persona alguna no quisiera participar o por causas de fuerza mayor no pudiera integrarse la Junta de Mejoras, los bienes permanecerán bajo custodia del presidente municipal, por conducto de quien éste designe haciéndolo del conocimiento de la Coordinación Estatal.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 11.
 
-El patrimonio de las Juntas se integrará:
+El patrimonio de la Junta se integrará
 
-I.- Con las utilidades obtenidas con la celebración de festivales y de cualesquiera otras actividades similares permitidas por la Ley;
+a. Con las utilidades obtenidas con la celebración de festivales y de cualesquiera otras actividades similares permitidas por la Ley;
 
-II.- Con las aportaciones voluntarias de los particulares, ya sea en dinero o en especie;
+b. Con las aportaciones voluntarias de los particulares, ya sea en dinero o especie;
 
-III.- Con concesiones para la explotación de servicios públicos;
+c. Con los bienes muebles e inmuebles adquiridos con recursos de las Juntas;
 
-IV.- Con los bienes muebles e inmuebles adquiridos legalmente;
+d. Con la administración y explotación de espectáculos públicos; y
 
-V.- Con los subsidios que otorguen la Federación, el Estado o el Municipio;
+e. Con los bienes o derechos que se obtengan por concepto de herencia, legados y donaciones, excepto que provengan de cualquiera de los niveles de Gobierno.
 
-VI.- Con la administración y explotación de espectáculos públicos;
-
-VII.- Con los bienes o derechos que se obtengan por concepto de herencia, legados y donaciones; y
-
-VIII.- Con cualquier otro ingreso lícito.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 12.
 
-Las Juntas gozarán de preferencia sobre los particulares cuando sea menester el permiso de las Autoridades para la realización de bailes, festivales y de cualesquiera otras actividades no prohibidas por las Leyes. Las Autoridades Municipales no tendrán derecho a exigir de las Juntas de Mejoramiento, la entrega de parte o la totalidad de los recursos económicos que obtengan, pudiendo éstas recurrir en queja al Gobernador del Estado, si la Autoridad Municipal tiene esas pretensiones o pone obstáculos injustificados en su trabajo.
+Las Juntas gozarán de preferencia sobre los particulares cuando sea menester el permiso de las autoridades para la realización de bailes, festivales, rifas y espectáculos públicos no prohibidos por las leyes, siempre y cuando estas lo soliciten con setenta y dos horas de anticipación y no exista permiso expedido con antelación.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 13.
 
-Las Juntas de Mejoramiento están facultadas para la enajenación de los bienes de su patrimonio cuando así convenga, previa autorización del Gobernador del Estado; acompañando en su caso las pruebas que demuestren la necesidad o utilidad de la operación.
+Las Juntas de Mejoras podrán enajenar parte de los bienes de su patrimonio previa aprobación del Cabildo del Ayuntamiento, haciéndolo del conocimiento de la Coordinación Estatal.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 14.
 
-Cuando hayan sido removidos los miembros de una Junta, la entrega a los nuevos titulares de los bienes que integran su patrimonio, deberá hacerse mediante inventario y con la intervención de la Oficina Estatal Coordinadora, de estimarse necesario.
+Cuando hayan sido removidos los miembros de una Junta, la entrega a los nuevos titulares de los bienes que integran su patrimonio deberá hacerse mediante inventario con la intervención del presidente municipal y la oficina de Coordinadora, por ante el secretario del Ayuntamiento quien levantará el acta correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 15.
 
-Las Juntas de Mejoramiento, al concluir cualquier obra material de cierta importancia, podrán colocarle una sencilla inscripción con los nombres de los componentes de la Junta y de las personas o instituciones que más hayan colaborado para llevarla a cabo.
+Los integrantes de las Juntas de Mejoras que se distingan en el desempeño de sus actividades de beneficio colectivo y las personas físicas o morales que se destaquen por su colaboración prestada a aquéllas, serán estimulados en términos de la Ley de Premios del Estado de Veracruz u otras distinciones que premien y exalten su alto sentido cívico.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 16.
 
-Los miembros de las Juntas de Mejoramiento que se distingan en el desempeño de sus funciones de beneficio colectivo, y los particulares o instituciones que se destaquen por su colaboración prestada a equéllas (sic), serán estimulados en términos de la Ley de Premios, Estímulos y Recompensas Civiles u otras distinciones que premien y exalten su alto sentido cívico.
+El presidente municipal podrá aplicar a los miembros de las Juntas que no cumplan con sus obligaciones las sanciones consistentes en apercibimiento, amonestaciones o destitución del cargo, en términos del artículo 9.2. de la presente Ley. Independientemente de las responsabilidades en que incurran.
+
+> <small>(ADICIONADA, G.O. 19 DE AGOSTO DE 2005)</small>
+
+#### SECCIÓN CUARTA. DE LA OFICINA COORDINADORA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 17.
 
-El Gobernador del Estado, por conducto de la Oficina Coordinadora, podrá aplicar a los miembros de las Juntas que no cumplan con sus obligaciones, las sanciones consistentes en amonestación o destitución del cargo, independientemente de las responsabilidades en que incurran.
+Las relaciones de las Juntas de Mejoras con el Gobierno del Estado, serán conducidas por la Oficina Coordinadora en coadyuvancia con el presidente municipal.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 18.
 
-Las relaciones entre las Juntas y el Gobierno se realizarán por conducto del Organismo estatal denominado Oficina Coordinadora de las Juntas de Mejoramiento Moral, Cívico y Material en el Estado, dependencia que dirigirá y controlará todas sus actividades.
+La Oficina Coordinadora estará a cargo de un Coordinador Estatal de las Juntas de Mejoras, cuyo titular será nombrado y removido libremente por el Gobernador del Estado.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
-
-La Oficina Coordinadora estará a cargo de un Coordinador General de las Juntas de Mejoramiento Moral, Cívico y Material, quien será nombrado y removido libremente por el Gobernador del Estado y tendrá las atribuciones siguientes:
-
-I.- Coordinar el funcionamiento de las Juntas de Mejoramiento Moral, Cívico y Material del Estado;
-
-II.- Definir los lineamientos, para la operación de programas que el Gobierno del Estado determine que se lleven a cabo a través de las Juntas y Patronatos o Comités de Participación Ciudadana;
-
-III.- Ordenar auditorías a las Juntas y nombrar auditores para examinar los cortes de caja de éstas, procediendo conforme a la Ley, en su caso;
-
-IV.- Formular un Programa anual de actividades y al finalizar el año un informe de actividades y metas logradas;
-
-V.- Atender todos los asuntos planteados por las Juntas y darles gestión y seguimiento;
-
-VI.- Autorizar previo acuerdo con el Gobernador del Estado o en su caso con el Secretario General de Gobierno, los nombramientos de los miembros de las Juntas electas y los nombramientos de las Juntas que por sus méritos se propongan sean ratificados;
-
-VII.- Cuidar que en la integración de las Juntas, se designe invariablemente un suplente del Presidente, el Secretario, el Tesorero y los Vocales;
-
-VIII.- Proponer al Gobernador del Estado o al Secretario General de Gobierno, los lugares que en términos del artículo 1º de Ley, deba crearse una Junta;
-
-IX.- Designar un Interventor para los efectos del artículo 14 de esta Ley;
-
-X.- Proponer a los ciudadanos que se hagan merecedores a algún premio, estímulo o recompensa;
-
-XI.- Las demás que le deriven de esta Ley o las que le asigne el Gobernador del Estado o el Secretario General de Gobierno.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-Los casos no previstos por esta Ley, serán resueltos por el Gobernador del Estado a través de la Oficina Coordinadora de las Juntas de Mejoramiento Moral, Cívico y Material en el Estado.
+Son atribuciones de la Coordinación Estatal de las Juntas las siguientes:
+
+a. Coordinarse con los presidentes municipales y las Juntas de Mejoras para que se cumpla con la finalidad de esta Ley;
+
+b. Realizar las actividades de apoyo a los ayuntamientos y comunidades en términos del inciso anterior;
+
+c. Llevar el Registro Estatal de Juntas de Mejoras del Estado de Veracruz;
+
+d. Conocer, y en su caso opinar, sobre el Programa operativo anual de las Juntas de Mejoras;
+
+e. Rendir al Gobernador un informe anual de actividades y metas logradas por la Junta de Mejoras;
+
+f. Atender los asuntos planteados por el presidente municipal sobre las Juntas y darles gestión y seguimiento;
+
+g. Definir los lineamientos para la operación de programas que el Gobierno del Estado determine que se lleven a cabo a través de las Juntas, patronatos o comités de participación ciudadana;
+
+h. Formular su Programa anual de actividades y al finalizar el año rendir un informe de actividades y metas logradas;
+
+i. Las demás que le deriven de esta Ley.
 
 T R A N S I T O R I O S :
 
@@ -260,3 +344,11 @@ El presente ordenamiento entrará en vigor el día siguiente a su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 19 DE AGOSTO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los bienes adquiridos por las Juntas de Mejoramiento Moral, Cívico y Material, serán transferidos por el Ejecutivo Estatal al patrimonio de las Juntas de Mejoras de las localidades de los municipios respectivos.
+
+Tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
