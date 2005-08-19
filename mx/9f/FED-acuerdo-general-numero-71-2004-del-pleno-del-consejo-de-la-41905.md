@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-71-2004-del-pleno-del-consejo-de-la-4190
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-12-13"
-last_updated: "2004-12-13"
+last_updated: "2005-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-11-24"
 
 ACUERDO GENERAL 71/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 32/2005 DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 19 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de diciembre de 2004.
 
@@ -240,3 +242,15 @@ TERCERO.- Se abrogan todas aquellas disposiciones administrativas que se opongan
 CUARTO.- Los casos no previstos en este Acuerdo serán resueltos por la Comisión.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 71/2004, del Pleno del Consejo de la Judicatura Federal, por el que se Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el Pleno del propio Consejo, en sesión de veinticuatro de noviembre de dos mil cuatro, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, María Teresa Herrera Tello, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez.- México, Distrito Federal, a veinticuatro de noviembre de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 19 DE AGOSTO DE 2005.
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de septiembre de dos mil cinco.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga el Acuerdo General 71/2004 del Pleno del Consejo de la Judicatura Federal, por el que se Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, publicado en el Diario Oficial de la Federación el trece de diciembre de dos mil cuatro, así como la Aclaración a dicho Acuerdo publicada en el Diario Oficial de la Federación el veinticuatro de diciembre de dos mil cuatro.
+
+CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en este Acuerdo.
