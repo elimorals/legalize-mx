@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-04-22"
+last_updated: "2005-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1293,7 +1293,7 @@ III.- Auxiliar a las dependencias, en la aplicación de leyes y reglamentos, en 
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
 
-IV.- Supervisar el funcionamiento de los depósitos vehiculares concesionados.
+IV.- Supervisar el funcionamiento de los depósitos vehiculares concesionados;
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
 
@@ -2263,9 +2263,13 @@ Las resoluciones de la Sindicatura sólo versarán sobre el cumplimento de las d
 
 VIII.- Seleccionar, nombrar, capacitar, controlar, fijar las remuneraciones y remover libremente al personal de confianza de la Sindicatura. La fijación de remuneraciones en todos los casos se hará de acuerdo con las bases fijadas por la Oficialía Mayor;
 
-IX.- Aplicar las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, a los de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
 
-X.- Designar a las personas que auxiliarán en la recepción de quejas y denuncias en contra de la actuación de servidores públicos, por incumplimiento a alguna de las disposiciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado;
+IX.- Aplicar a los servidores públicos y a los elementos o miembros pertenecientes a los Cuerpos de Seguridad Pública Municipal las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como en las demás disposiciones legales y ordenamientos normativos;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+X- Designar a las personas que auxiliarán en la recepción de quejas, denuncias y substanciación de los procedimientos correspondientes en contra de la actuación de servidores públicos y de los elementos o miembros de los Cuerpos de Seguridad Pública Municipal, por incumplimiento a las disposiciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones legales y ordenamientos normativos;
 
 XI.- Conocer e investigar de oficio, o por virtud de queja o denuncia, los actos, omisiones o conductas de los servidores públicos que les pueden generar responsabilidades en el ejercicio de su función; instruir los procedimientos correspondientes, y en su caso, aplicar las sanciones que procedan;
 
@@ -2353,15 +2357,23 @@ La Subdirección de Contraloría se encargará de vigilar el desempeño y actuac
 
 I.-.- (sic) Recibir quejas y denuncias de ciudadanos y autoridades sobre el desempeño de los servidores públicos de la Administración Pública Municipal, pudiendo actuar a petición de parte o de oficio, cuando éstos hayan incumplido con cualquiera de las obligaciones que les impone la Ley de Responsabilidades de los Servidores Públicos del Estado, y los reglamentos municipales que regulen el actuar de dichos servidores públicos;
 
-II.- Investigar las conductas de los servidores públicos que pudieran generarles una responsabilidad administrativa, instruir los procedimientos correspondientes, y proponer al Síndico Procurador la aplicación de las sanciones que correspondan;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+II.- Investigar las conductas de los servidores públicos, así como de los elementos pertenecientes a los Cuerpos de Seguridad Pública Municipal, que pudieran generarles una responsabilidad administrativa, instruir los procedimientos correspondientes y aplicar las sanciones que correspondan;
 
 III.- Integrar expediente o documentación que acredite la presunción de la comisión de ilícitos por parte de los servidores públicos municipales para su remisión a las autoridades competentes;
 
-IV.- Proponer al Síndico Procurador la designación de auxiliares facultados para que reciban las quejas y denuncias de los ciudadanos, en relación con la actuación de los servidores públicos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
 
-V.- Observar y aplicar las disposiciones que le correspondan del Reglamento del Servicio de Seguridad Pública para el Municipio;
+IV.- Proponer al Síndico Procurador la designación de auxiliares facultados para la recepción de quejas, denuncias y substanciación de los procedimientos administrativos correspondientes, por la actuación de los servidores públicos y de los elementos o miembros de los Cuerpos de Seguridad Pública Municipal;
 
-VI.- Desarrollar programas de supervisión y control, con el objeto de vigilar el cumplimiento de las obligaciones de los servidores públicos previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las establecidas a cargo de los agentes de la Dirección de Seguridad Pública en la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, y el Reglamento del servicio de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+V.- Observar y aplicar las disposiciones que le correspondan del Nuevo Reglamento del Servicio de Seguridad Pública del Municipio de Mexicali, Baja California;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+VI.- Desarrollar programas de supervisión y control, con el objeto de vigilar el cumplimiento de las obligaciones de los servidores públicos previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las establecidas a cargo de los elementos o miembros de los Cuerpos de Seguridad Pública en la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, y el Nuevo Reglamento del Servicio de Seguridad Pública para el Municipio de Mexicali, Baja California;
 
 VII.- Levantar actas administrativas cuando algún servidor público municipal incumpla con las obligaciones previstas en las disposiciones legales a que se refiere la fracción anterior;
 
@@ -2517,7 +2529,7 @@ VIII.- Elaborar estudios e investigaciones que fundamenten los peritajes técnic
 
 IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de equipamiento y paisaje urbano ejecutados y en proceso.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO SEXTO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
@@ -2770,3 +2782,7 @@ P.O. 1 DE ABRIL DE 2005.
 P.O. 22 DE ABRIL DE 2005.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE AGOSTO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
