@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "1999-12-17"
+last_updated: "2005-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -179,9 +179,17 @@ III.- Resolver los conflictos que surjan entre el Fisco Estatal y los Fiscos Mun
 
 IV.- Fijar y modificar la jurisprudencia del Tribunal;
 
-V.- Resolver los conflictos de competencia que se susciten entre las Salas del Tribunal; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
 
-VI.- Fijar la circunscripción territorial de las Salas del Tribunal, y en su caso, la distribución de los asuntos entre las mismas.
+V.- Resolver los conflictos de competencia que se susciten entre las salas del Tribunal;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+VI.- Fijar la circunscripción territorial de las salas del tribunal, y en su caso la distribución de los asuntos entre las mismas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2005)</small>
+
+VII.- Dictar sentencia en los juicios que se promuevan ante las Salas del Tribunal de lo Contencioso Administrativo atendiendo lo previsto por la Ley de Acceso a la Información Pública para el Estado de Baja California.
 
 ###### ARTICULO 18.
 
@@ -277,7 +285,11 @@ V.- Los que versen sobre pensiones y jubilaciones, a cargo del Instituto de Segu
 
 VI.- Los dictados conforme a otras leyes que le otorguen competencia al Tribunal de lo Contencioso Administrativo del Estado;
 
-VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad.
+VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2005)</small>
+
+VIII.- Los que se emitan en materia de acceso a la información pública, atendiendo lo previsto por la fracción VII del artículo 17 de esta Ley.
 
 Para efectos de este artículo, son definitivos los actos o resoluciones que no puedan ser revocados o modificados, sino mediante recurso administrativo o medio de defensa previsto por la Ley que rija el acto, o en el proceso contencioso administrativo.
 
@@ -1095,6 +1107,34 @@ Los Magistrados de las Salas, al emitir las sentencias, deberán apegarse a los 
 
 En caso de que existan criterios contradictorios sostenidos por diferentes Salas, cualquiera de los Magistrados o de las partes podrán solicitar al Pleno del Tribunal resuelva dicha contradicción, definiendo el criterio que deba imperar, mismo que tendrá el carácter de jurisprudencia, y que podrá ser interrumpida por nuevo criterio razonado en sentencia dictada por el Tribunal en Pleno. Las resoluciones dictadas por el Pleno para dirimir las contradicciones de criterio entre las Salas, no modificarán las sentencias que hayan motivado la contradicción.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE AGOSTO DE 2005)</small>
+
+CAPITULO DECIMOQUINTO
+
+DEL RECURSO DE REVISION EN MATERIA DE ACCESO A LA INFORMACION
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 99.
+
+Las resoluciones que nieguen información a que hace referencia la Ley de Acceso a la Información Pública para el Estado de Baja California, o que la concedan tratándose de información confidencial y que sean competencia de este Tribunal, podrán ser impugnadas dentro de los quince días hábiles siguientes a la notificación mediante recurso de revisión ante el Tribunal de los Contencioso Administrativo del Estado. El solicitante expresará los agravios que le infiere la resolución y el procedimiento se sujetará a las reglas siguientes:
+
+I.- Las Salas del Tribunal conocerán de la instrucción de todo el procedimiento hasta ponerlo en estado de sentencia.
+
+II.- Al recibir el recurso por escrito el Magistrado instructor dentro de los tres días hábiles siguientes requerirá a la autoridad un informe circunstanciado al que agregará copia certificada de la resolución impugnada y de todas las constancias relacionadas con el caso. Este informe será rendido a mas tardar dentro de los cinco días hábiles posteriores al requerimiento, bajo pena de multa de hasta cientos (sic) ochenta días de salario, salvo que hubiere mediado causa justificada. Este informe será puesto a disposición del recurrente para que formule sus objeciones.
+
+En el mismo auto citará a las partes a una audiencia de pruebas y alegatos que deberá ser celebrada dentro de un periodo máximo de ocho días hábiles a partir de la admisión del recurso y si hubiere tercero opositor, ordenará que el sujeto obligado lo emplace para que comparezca al Tribunal, dentro de los cinco días hábiles siguientes en defensa de su interés.
+
+III.- En este procedimiento el Tribunal suplirá la deficiencia de la queja a favor del solicitante, y si el Magistrado instructor lo considera indispensable podrá practicar diligencias para mejor proveer dentro de un plazo que no exceda de cinco días hábiles. Hecho lo anterior formulará un proyecto de resolución que elevará a la consideración del Pleno.
+
+IV.- El Pleno del Tribunal resolverá dentro de los diez días hábiles siguientes y para la autoridad esta resolución será definitiva e inatacable y deberá ser cumplida dentro de las 24 horas siguientes a su notificación.
+
+V.- Si el Pleno del Tribunal lo determina procedente en sentencia podrá imponer al sujeto obligado una sanción pecuniaria de hasta ciento ochenta días de salario y de considerar que se configura un delito, enviará al Ministerio Público copia certificada del expediente para los efectos que corresponda. En los casos de reincidencia en la negativa de cumplimiento a la resolución emitida por el Tribunal se estará a lo previsto en el capitulo duodécimo de esta Ley.
+
+Las Salas y el Pleno del Tribunal tendrán acceso a la información clasificada como reservada o confidencial cuando resulte indispensable para sustanciar o resolver el recurso. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+
+El Tribunal tendrá en todas sus oficinas formatos apropiados para que el interesado solo llene los espacios en blanco, y los proporcionará gratuitamente a quien lo solicite.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1158,3 +1198,7 @@ PRIMERO.- Las presentes reformas y adición entrarán en vigor al día siguiente
 SEGUNDO.- Los juicios que al entrar en vigor las presentes reformas y adición (sic) estén pendientes de resolución, serán tramitados conforme a las disposiciones legales que se encontraban vigentes al momento de la presentación de la demanda.
 
 TERCERO.- Los Magistrados que a la fecha en que entren en vigor las presentes reformas y adiciones, integren el Tribunal con el carácter de Propietarios y Suplentes, pasarán a ser, respectivamente, Numerarios y Supernumerarios durante el tiempo de duración de su cargo y conforme al nombramiento que con anterioridad se les haya expedido.
+
+P.O. 19 DE AGOSTO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
