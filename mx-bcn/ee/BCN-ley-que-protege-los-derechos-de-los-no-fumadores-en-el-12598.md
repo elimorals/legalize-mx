@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-protege-los-derechos-de-los-no-fumadores-en-el-12598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-06"
-last_updated: "2004-07-09"
+last_updated: "2005-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 6 de octubre de 1995.
 
@@ -75,13 +75,19 @@ III. El personal administrativo y docente de los centros educativos públicos y 
 
 ### CAPITULO II. DE LAS SECCIONES RESERVADAS PARA FUMADORES Y NO FUMADORES
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 4.
 
-(DEROGADO, P.O. 9 DE JULIO DE 2004)
+En los lugares cerrados donde se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán delimitar secciones reservadas para no fumadores y para quienes fumen durante su estancia en las mismas; áreas que deberán estar bien ventiladas con medios mecánicos o directos, en los términos del Reglamento de esta ley.
+
+Dichas secciones deberán de estar identificadas con señalización en lugares visibles al público asistente y contar con ventilación adecuada.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 5.
 
-(DEROGADO, P.O. 9 DE JULIO DE 2004)
+Las personas a que se refiere el artículo 3 fracción II de esta Ley vigilarán por sí mismos o por medio de sus empleados que en la sección reservada para no fumadores, no se encuentren personas fumando, de haberlas deberán de exhortarlas a dejar de fumar o cambiarse a la sección indicada. En caso de negativa, deberán abstenerse de prestar sus servicios al transgresor, y de persistir este en su conducta, el propietario podrá solicitar el auxilio de la fuerza pública para retirarlo del local.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -93,9 +99,9 @@ III. El personal administrativo y docente de los centros educativos públicos y 
 
 Se prohibe fumar:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
 
-I.- En los cines, teatros, auditorios y lugares cerrados donde se expendan al público alimentos para su consumo;
+I.- En los cines y teatros;
 
 II. En los vehículos de servicio público de transporte de pasajeros que circulen en el Estado de Baja California;
 
@@ -388,3 +394,7 @@ El Ejecutivo del Estado deberá adecuar el Reglamento de esta Ley a las disposic
 P.O. 9 DE JULIO DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 19 DE AGOSTO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
