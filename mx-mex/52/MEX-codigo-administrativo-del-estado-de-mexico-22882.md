@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2005-07-27"
+last_updated: "2005-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2005.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4041,7 +4041,7 @@ No estarán afectos a la obligación precedente los condominios que se proyecte 
 
 58.- Los condominios contarán con conexiones únicas a las redes de infraestructura. La operación y mantenimiento de vialidades, obras de infraestructura y equipamiento, así como de los servicios urbanos al interior de los condominios, correrá a cargo de los propios condóminos.
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION QUINTA. D la adjudicación directa
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4821,9 +4821,7 @@ I. El Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las
-
-comunicaciones de jurisdicción local;
+II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -7759,9 +7757,17 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO PRIMERO. De las disposiciones generales
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
 # LIBRO DECIMO TERCERO. De las adquisiciones, enajenaciones, arrendamientos y servicios
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -7869,6 +7875,10 @@ Las políticas y normas administrativas a que se refiere el párrafo anterior, s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO TERCERO. Del servicio
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 13.
 
 9.- Las adquisiciones, arrendamientos y servicios que las dependencias, entidades, ayuntamientos y tribunales administrativos requieran para la realización de las funciones y programas que tienen encomendados, deberán determinarse con base en la planeación racional de sus necesidades y recursos.
@@ -7947,6 +7957,10 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO CUARTO. De la coordinación
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 13.
 
 17.- La Secretaría de Administración establecerá los instrumentos que permitan llevar a cabo la sistematización de los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen con cargo a recursos estatales, total o parcialmente. Los ayuntamientos establecerán estos instrumentos cuando se trate de actos, contratos o convenios que se celebren con cargo a recursos municipales.
@@ -7965,6 +7979,10 @@ III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO PRIMERO. Del IGECEM
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 13.
 
 19.- Operación consolidada es aquella que conjunta en un sólo procedimiento, por su uso generalizado o volumen, la adquisición de bienes o servicios, con el objeto de obtener las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
@@ -7976,6 +7994,10 @@ Los ayuntamientos en el ámbito de su respectiva competencia, llevarán a cabo l
 La reglamentación de este Libro establecerá los bienes y servicios sujetos a operaciones consolidadas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -8701,9 +8723,819 @@ La inconformidad administrativa en lo no previsto por este Libro, se substanciar
 
 En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones que se dicten durante la contratación y la vigencia de los contratos regulados por este Libro, procede juicio ante el Tribunal de lo Contencioso Administrativo.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+# LIBRO DECIMO CUARTO. De la información e investigación geográfica, estadística y catastral del Estado de México
+
+> <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ## TITULO QUINTO. De las sanciones
+
+###### Artículo 14.
+
+1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+2.- Este Libro tiene por objeto además establecer:
+
+I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+
+II. El funcionamiento de los sistemas estatal y municipales de información e investigación geográfica, estadística y catastral;
+
+III. Los procesos de captación, integración, generación y organización de la información geográfica, estadística y catastral, y su divulgación acorde con lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
+
+IV. La realización de las investigaciones en materia geográfica, estadística y catastral en el Estado de México;
+
+V. El registro y resguardo de la información e investigaciones en materia geográfica, estadística y catastral del Estado de México;
+
+VI. Las normas técnicas para otorgar el carácter oficial a la información y resultados de las investigaciones geográficas, estadísticas y catastrales;
+
+VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de información e Investigación Geográfica, Estadística y Catastral;
+
+VIII. La vinculación de las actividades que desarrollen los poderes Legislativo, Ejecutivo y Judicial, en materia de información e investigación geográfica, estadística y catastral;
+
+IX. La coordinación, participación y colaboración que corresponda, de los gobiernos municipales, de los particulares y de los grupos y organizaciones sociales, a efecto de fortalecer el funcionamiento del Sistema y Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+
+X. La integración y el desarrollo del Sistema Estatal de Información Geográfica, Estadística y Catastral para que se suministre a quienes requieren, en los términos de este Libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+
+XI. El desarrollo y la utilización permanente de los programas y procesos electrónicos y tecnológicos en los sistemas y servicios a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+3.- Para efectos de este Libro, salvo mención expresa, cuando se haga referencia a los siguientes términos se entenderá por:
+
+I. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
+
+II. Gaceta del Gobierno. Al periódico oficial del Gobierno del Estado de México;
+
+III. Sistema Estatal. Al Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+
+IV. Sistema Municipal. Al Sistema Municipal de Información e Investigación Geográfica, Estadística y Catastral;
+
+V. Servicio Estatal. Al Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+
+VI. Servicio Municipal. Al Servicio Público Municipal de Información e Investigación Geográfica, Estadística y Catastral;
+
+VII. Programa Estatal. Al Programa Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+
+VIII. Información e investigación geográfica, estadística y catastral para la planeación del desarrollo. A la generación, acumulación, análisis, resguardo y divulgación del conocimiento de los fenómenos territoriales, sociales y económicos que ocurren en el Estado de México;
+
+IX. Exploración geográfica. A los estudios y diagnósticos relacionados con el medio físico, económico y social, a través de métodos y técnicas de investigación, los cuales permiten conocer la situación actual y crear escenarios prospectivos;
+
+X. Levantamiento geodésico. Al conjunto de procedimientos y operaciones de campo y de gabinete destinados a determinar la localización geográfica de puntos sobre el terreno demarcados respecto de un sistema de referencia espacial de aplicación nacional;
+
+XI. Levantamiento topográfico. Al conjunto de procedimientos y operaciones de campo y de gabinete destinados a determinar la localización geográfica de puntos sobre el terreno con una referencia métrica específica respecto de un punto geográfico seleccionado;
+
+XII. Levantamiento aerofotográfico y fotogramétrico. A la captación de fotografías del territorio, obtenidas de forma periódica, que sirven de base para los trabajos cartográficos, de ordenamiento territorial, de planeación urbana, de interpretación de fotografías, para el inventario de los recursos naturales y de infraestructura; así como en la integración y actualización de los sistemas de información geográfica. En el procedimiento aerofotográfico se emplean aeronaves y el fotogramétrico involucra las actividades que se realizan en el laboratorio de cartografía;
+
+XIII. Nombre geográfico. A la denominación de lugares, rasgos, hechos, fenómenos físicos, sociales y económicos que se ubican en el espacio geográfico estatal;
+
+XIV Topónimo. Al nombre, origen y significado propios del lugar;
+
+XV. Trabajo sociográfico. A la representación cartográfica de la información relativa a los fenómenos demográficos, sociales y económicos;
+
+XVI. Trabajo semiológico. A la representación visual o gráfica que permite el equilibrio de los elementos físicos, sociales y económicos plasmados en cartografía, mediante signos acordes con la naturaleza de los datos;
+
+XVII. Percepción remota o teledetección. A la técnica que permite obtener información sobre objetos, áreas o fenómenos a través del análisis de datos adquiridos mediante instrumentos localizados a distancia de ellos;
+
+XVIII. Recurso biótico. Al componente de la flora y la fauna que admite un uso directo, indirecto o potencial para la humanidad;
+
+XIX. Cartografía básica. A la representación gráfica convencional de los rasgos y características principales de la superficie territorial o de un segmento de ella;
+
+XX. Plano con referencia geográfica. A la representación gráfica con información planimétrica de las obras y acciones del hombre realizadas sobre el territorio del Estado;
+
+XXI. Cartografía temática. A la representación gráfica de información cualitativa y cuantitativa de los hechos y fenómenos que ocurren en el espacio geográfico estatal;
+
+XXII. Sistema de Información Geográfica. Al conjunto de programas de cómputo que permiten almacenar, recuperar, modificar, interrelacionar y analizar espacialmente cualquier tipo de datos e información, con referencia geográfica;
+
+XXIII. Información estadística. Al conjunto de resultados cuantitativos que se obtienen de un proceso sistemático de captación, tratamiento y divulgación de datos primarios obtenidos de los particulares, empresas e instituciones sobre hechos que son relevantes para el estudio de los fenómenos económicos, demográficos y sociales;
+
+XXIV. Estadística básica. A la información que se obtiene en forma directa, a partir de los datos aportados por las dependencias, entidades e instituciones públicas, privadas y sociales generadoras de información, mediante la utilización de los registros administrativos o entrevistas;
+
+XXV. Estadística derivada. A la que mediante la transformación de la estadística básica, establece la asociación e interrelación que guardan los hechos y fenómenos observados, de tal forma que éstos puedan conocerse a través de la construcción de indicadores tales como: tasas, índices, razones y variaciones;
+
+XXVI. Estadística contínua. Al flujo de información permanente sobre las características de los hechos y fenómenos demográficos, sociales y económicos, que son captados a través de los registros administrativos;
+
+XXVII. Cuentas económicas. Al registro contable de información sobre la situación y evolución económica del Estado y Municipios mediante, la captación, procesamiento e integración de datos de producción, consumo, ahorro, inversión, relaciones con el exterior y las interrelaciones existentes entre los diferentes sectores generadores de bienes y servicios;
+
+XXVIII. Cuentas sociales. Al registro contable de información sobre la situación y evolución sociodemográfica del Estado y municipios, mediante la captación, procesamiento e integración de datos de población, educación, salud, seguridad, empleo y vivienda;
+
+XXIX. Ley de Transparencia. A la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+4.- Son autoridades en materia de información e investigación geográfica, estadística y catastral:
+
+I. El Gobernador del Estado;
+
+II. El Secretario de Finanzas, Planeación y Administración;
+
+III. El Consejo Directivo del IGECEM;
+
+IV. El Director General del IGECEM.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+5.- El Gobernador del Estado tendrá las siguientes atribuciones:
+
+I. Establecer las políticas, estrategias, prioridades, restricciones, normas y lineamientos generales para la captación, generación, integración y organización de la información e investigación geográfica, estadística y catastral, y evaluar su cumplimiento;
+
+II. Suscribir acuerdos y convenios de coordinación y colaboración en materia de información e investigación geográfica, estadística y catastral con las dependencias de la administración pública federal; con otras entidades federativas; y con los ayuntamientos;
+
+III. Suscribir acuerdos y convenios con los ayuntamientos del Estado de México, para el desarrollo, establecimiento y operación de los sistemas y servicios municipales, en términos de este Libro y que se apliquen normas técnicas y principios homogéneos;
+
+IV. Aprobar el programa Estatal como sustento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+
+V. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
+
+El Gobernador del Estado ejercerá estas atribuciones por si o a través del Secretario de Finanzas, Planeación y Administración, o por conducto del Director General de IGECEM.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+6.- Al Secretario de Finanzas, Planeación y Administración corresponde:
+
+I. Presidir el Consejo Directivo del IGECEM;
+
+II. Coordinar la operación y relación del IGECEM con las dependencias y entidades de la administración pública estatal;
+
+III. Ejecutar las políticas, criterios y lineamientos generales para la captación, generación, integración y organización en materia de información e investigación geográfica, estadística y catastral, conforme a los ordenamientos correspondientes;
+
+IV. Programar, controlar y evaluar la integración y actualización de la información geográfica, estadística y catastral de la entidad;
+
+V. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+7.- Compete al consejo Directivo del IGECEM:
+
+I. Aprobar las normas técnicas para captar, procesar, integrar, resguardar y divulgar el acervo de información geográfica, estadística y catastral;
+
+II. Fijar las políticas, normas y criterios de organización y administración que oriente las actividades del IGECEM;
+
+III. Aprobar la estructura orgánica del IGECEM;
+
+IV. Aprobar el Reglamento Interior del IGECEM;
+
+V. Revisar, aprobar y evaluar el programa Estatal;
+
+VI. Revisar y aprobar el proyecto del presupuesto anual del IGECEM;
+
+VII. Analizar y, en su caso, aprobar los estados financieros del IGECEM;
+
+VIII. Aprobar los ingresos y egresos ordinarios y extraordinarios, necesarios para cumplir el objeto del IGECEM;
+
+IX. Aprobar la tarifa de los servicios y productos que genere el IGECEM y su publicación en la “Gaceta del Gobierno”;
+
+X. Aprobar la instalación de delegaciones regionales y la circunscripción territorial que a cada una corresponda;
+
+XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+8.- El Director General del IGECEM, además de las atribuciones que este Libro y otros ordenamientos le confieran en materia de información e investigación geográfica, estadística y catastral, tendrá las facultades y obligaciones siguientes:
+
+I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración; actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias; otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
+
+En el caso en que realice actos de transmisión o enajenación de dominio de bienes inmuebles deberá contar con la autorización previa del Consejo Directivo;
+
+II. Formular y proponer las políticas, normas y criterios de organización y administración que orienten las actividades del IGECEM;
+
+III. Proponer al Consejo Directivo la instalación de delegaciones regionales y la circunscripción territorial que les corresponda;
+
+IV. Proponer al Consejo Directivo el Reglamento Interior del IGECEM; y una vez aprobado, expedirlo y publicarlo en la “Gaceta del Gobierno”;
+
+V. Proponer al Consejo Directivo los precios, cuotas y tarifas para el cobro de los bienes y servicios que preste el IGECEM, para su aprobación;
+
+VI. Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
+
+VII. Presentar al Consejo Directivo, los proyectos de presupuestos de ingresos y egresos y los programas de trabajo y financiamiento para el siguiente año;
+
+VIII. Presentar al Consejo Directivo, dentro de los tres primeros meses del año, los estados financieros y el informe de actividades del ejercicio anterior;
+
+IX. Proponer, elaborar, supervisar y evaluar los acuerdos y convenios de coordinación y colaboración en materia de información e investigación geográfica, estadística y catastral que celebre con las dependencias de la administración pública federal, entidades federativas y con los ayuntamientos;
+
+X. Asumir mediante convenio las actividades geográficas, estadísticas y catastrales de los ayuntamientos del Estado de México, cuando se considere procedente y medie solicitud;
+
+XI. Elaborar el Programa Estatal;
+
+XII. Establecer los procedimientos técnicos y administrativos en materia geográfica, estadística y catastral y verificar su cumplimiento, en los términos de este Libro, su Reglamento y demás disposiciones legales aplicables;
+
+XIII. Autorizar el diseño, establecimiento y operación de los procesos para la generación, captación, tratamiento técnico y metodológico, integración y divulgación de la información geográfica, estadística y catastral;
+
+XIV. Integrar, conservar y mantener actualizados los acervos de información geográfica, estadística y catastral del Estado de México y sus municipios;
+
+XV. Normar y practicar los procesos de valuación y levantamientos topográficos de inmuebles localizados en territorio del estado;
+
+XVI. Nombrar y remover al personal del IGECEM;
+
+XVII. Fungir o designar al secretario técnico de los comités sectoriales, regionales y municipales;
+
+XVIII. Las demás que le confieran otros ordenamientos.
+
+Para el cumplimiento de estas atribuciones el Director General del IGECEM contará con las unidades administrativas necesarias en las materias de administración, planeación, informática, geografía, estadística, catastro y servicios de información.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+9.- El Director General del IGECEM, para el mejor desempeño de sus funciones, está facultado para requerir información, participación y colaboración, de:
+
+I. Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial;
+
+II. Las unidades administrativas de los ayuntamientos, conforme a los convenios relativos;
+
+III. Las organizaciones públicas y las privadas;
+
+IV. Las instituciones académicas públicas y privadas;
+
+V. Las personas cuya colaboración se requiera.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+10.- La información e investigación geográfica comprende:
+
+I. Las políticas, normas técnicas y procedimientos para hacer homogénea y comparable la información geográfica del Estado de México;
+
+II. La elaboración de estudios del territorio estatal que se realicen a través de:
+
+a. Exploraciones geográficas;
+
+b. Levantamientos geodésicos, aerofotográficos y fotogramétricos;
+
+c. Cartografía básica y temática;
+
+d. Percepción remota;
+
+e. Los sistemas de información geográfica;
+
+f. Las investigaciones sobre las interrelaciones de los fenómenos físicos, económicos y sociales que ocurren en el territorio estatal.
+
+III. El levantamiento de los inventarios de recursos naturales y bióticos;
+
+IV. El levantamiento de los inventarios de las condiciones ambientales;
+
+V. El levantamiento de los inventarios inmobiliario, infraestructura y equipamiento del estado;
+
+VI. La información geográfica que produzcan las dependencias, entidades e instituciones públicas, privadas y sociales, los municipios y otros servicios estatales, cuando la información que generen resultare de utilidad para el desarrollo del Estado de México;
+
+VII. La realización de trabajos sociográficos y semiológicos;
+
+VIII. La generación, captación, procesamiento y divulgación de la información geográfica del Estado de México.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+11.- El IGECEM registrará la información geográfica en donde se asienten:
+
+I. Nombres geográficos y topónimos dentro del territorio que conforma el Estado;
+
+II. Las delimitaciones y divisiones territoriales del Estado;
+
+III. La información e investigación geográfica estatal.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+12.- La información e investigación estadística comprende:
+
+I. La recopilación, procesamiento, producción, actualización y análisis de datos e información estadística de los hechos y fenómenos económicos, demográficos, sociales y ambientales que ocurren dentro del Estado de México y su relación con los que acontecen en los ámbitos nacional e internacional;
+
+II. La integración de las cuentas económicas y sociales del Estado de México;
+
+III. Las estadísticas continuas, básicas y derivadas que elaboren las dependencias, entidades, instituciones públicas, privadas y sociales, y otros servicios estatales, cuando la información que generen sea de interés general y de utilidad para la planeación del desarrollo del Estado de México;
+
+IV. El diseño, levantamiento, procesamiento y análisis de encuestas;
+
+V. Los estudios e investigaciones demográficas, sociales y económicas;
+
+VI. El inventario de las fuentes y unidades generadoras de información demográfica, social y económica, de carácter público, privado, social y académico, en los ámbitos municipal, estatal, nacional e internacional;
+
+VII. Las normas técnicas a que debe sujetarse la captación, generación, integración, organización, procesamiento, presentación y divulgación de la información estadística.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+13.- Para efectos de información geográfica y estadística, los programas que se elaboren en la entidad, deberán ser congruentes con la normatividad establecida por este Libro, la Ley de Planeación del Estado de México y Municipios, la Ley de Transparencia y sus reglamentos.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+14.- La información e investigación catastral, comprende:
+
+I. La identificación, localización geográfica, medición, clasificación, valuación, inscripción, registro y control, de los inmuebles ubicados en el territorio del Estado;
+
+II. Las normas, procedimientos, metodologías y criterios técnicos y administrativos, para la captación, generación, integración, organización, conservación y actualización de la información catastral del Estado;
+
+III. Los estudios e investigaciones que tengan por objeto crear, actualizar, adoptar y operar los métodos, técnicas, sistemas y procedimientos en materia catastral;
+
+IV. La información estadística y cartográfica catastral del territorio del Estado, con base en los datos que generen las dependencias y entidades del sector público y las instituciones privadas, sociales y académicas en los ámbitos municipal, estatal y nacional;
+
+V. El inventario de datos técnicos, administrativos y analíticos de los inmuebles ubicados en el territorio del estado;
+
+VI. La investigación inmobiliaria;
+
+VII. La investigación de los valores unitarios del suelo y de las construcciones;
+
+VIII. Los avalúos catastrales y comerciales;
+
+IX. Los levantamientos topográficos en materia catastral.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+15.- Los ayuntamientos en materia de información catastral, tendrán las siguientes obligaciones:
+
+I. La identificación, localización geográfica, medición, clasificación, inscripción y control, de los inmuebles ubicados dentro del territorio municipal;
+
+II. Cumplir con la normatividad establecida en los ordenamientos jurídicos aplicables para el desarrollo de la actividad catastral en el municipio;
+
+III. Determinar, conjuntamente con el IGECEM, las acciones necesarias para la modernización, actualización, consolidación, mantenimiento y resguardo del inventario inmobiliario municipal;
+
+IV. Proporcionar al IGECEM, dentro de los plazos y conforme se establezca en los ordenamientos aplicables, los datos, documentos, reportes, informes, propuestas y respaldos en medios electrónicos de almacenamiento, para integrar, conservar y mantener actualizada la información catastral del estado.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+16.- Las actividades en materia informática para la integración y el desarrollo del Sistema Estatal, comprenden:
+
+I. El análisis, diseño, desarrollo, elaboración de manuales e instructivos, implantación, mantenimiento, respaldo y custodia del banco de datos geográficos, estadísticos y catastrales del Estado de México;
+
+II. El análisis, diseño, desarrollo, elaboración de manuales e instructivos, implantación, mantenimiento, respaldo y custodia de los sistemas de información para el procesamiento del banco de datos geográficos, estadísticos y catastrales del Estado de México;
+
+III. La investigación, implantación y operación de nuevas tecnologías de información para optimizar los procesos y recursos inherentes a la producción y administración de información geográfica, estadística y catastral;
+
+IV. La elaboración y determinación de normas técnicas, metodologías y criterios a que deben sujetarse la captación, procesamiento, resguardo y publicación de información geográfica, estadística y catastral, conforme a las tecnologías de información que sean implantadas.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+17.- La información geográfica, estadística y catastral se obtendrá mediante las estrategias contenidas en el Programa Estatal aprobado por el Gobernador del Estado.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+18.- El Programa Estatal, mencionado en el artículo anterior, estará sujeto a un proceso permanente de análisis y evaluación; y deberá formularse en forma coordinada con los planes nacional y estatal de desarrollo.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+19.- En el Programa Estatal se definirán el diagnóstico, objetivos, metas, estrategias, prioridades y líneas de acción a que deberán sujetarse las dependencias y organismos auxiliares de la administración pública estatal y municipal; en materia de información geográfica, estadística y catastral; y las actividades que realizarán para este fin las unidades de información, planeación, programación y evaluación de cada una de ellas.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+20.- La información materia de este Libro, deberá ser proporcionada a las autoridades competentes por informantes, considerándose como tales, los siguientes:
+
+I. Las personas físicas y jurídicas colectivas, cuando les sean solicitados datos geográficos, estadísticos o catastrales por las autoridades competentes;
+
+II. Los propietarios o representantes legales de las unidades económicas, empresas y establecimientos industriales, comerciales, agropecuarios, forestales y acuícolas; los dedicados a la producción o venta de bienes, productos o servicios de cualquier clase; así como de las instituciones sociales o privadas con fines no lucrativos y las instituciones académicas, docentes y culturales;
+
+III. Los servidores públicos de las dependencias y organismos auxiliares de la administración pública estatal y municipal y de los órganos autónomos de los poderes Legislativo y Judicial;
+
+IV. Los ministros de cualquier culto que celebren ceremonias relacionadas con nacimientos, matrimonios y defunciones.
+
+Los informantes estarán obligados a proporcionar auxilio y cooperación a las autoridades competentes, en los trabajos de campo que realicen para captar información geográfica, estadística o catastral.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+21.- Los informantes deberán proporcionar con veracidad y oportunidad, los datos geográficos, estadísticos y catastrales que les sean solicitados por las autoridades competentes en la materia.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+23.- La información confidencial comprenderá los datos, estudios e investigaciones que los informantes proporcionen con ese carácter; la que contenga datos personales y al ser divulgada afecte la privacidad de las personas; y aquella que se obtenga o que provenga de registros administrativos o civiles para fines estadísticos, los cuales en ningún caso podrán comunicarse en forma nominativa o individualizada, ni harán prueba en proceso legal alguno, en juicio o fuera de él.
+
+Cuando se deba divulgar la información que se indica en el párrafo anterior, ésta no podrá referirse, en ningún caso, a datos relacionados con menos de tres unidades de observación localizadas dentro de una misma rama o actividad económica, entidad federativa, municipio, localidad o de cualquier otro indicador estratificado, y deberá estar integrada de tal manera que se preserve el anonimato de los informantes.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+24.- En materia de este Libro, la información reservada será la considerada como tal en la Ley de Transparencia.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+25.- El Comité de Información del IGECEM aprobará la clasificación de la información geográfica, estadística y catastral en pública, confidencial o reservada, en términos de lo establecido en la Ley de Transparencia, este Libro y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+26.- Los informantes podrán exigir ante el IGECEM que sean rectificados los datos que les conciernen, conforme a lo establecido por la Ley de Transparencia.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+27.- Las dependencias y organismos auxiliares de carácter estatal o municipal, que intervengan o den autorización para transmitir o modificar el dominio directo de un predio o modificar las características técnicas o administrativas de los inmuebles estarán obligadas a informar al IGECEM por escrito, dentro de un plazo de 20 días hábiles, contados a partir de la fecha en que intervinieron o autorizaron el acto correspondiente.
+
+Tratándose de particulares cuyas operaciones consten en documentos privados, la información relativa a las operaciones a que se refiere este artículo, deberá presentarse al Ayuntamiento, dentro de los quince días hábiles siguientes a la fecha de la operación respectiva.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+28.- El acervo de información geográfica, estadística y catastral se deberá captar, procesar, integrar, resguardar y divulgar conforme a las normas técnicas y procedimientos que al efecto apruebe el Consejo Directivo del IGECEM y se publiquen en la “Gaceta del Gobierno”.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+29.- Se crea el Registro Estatal de Investigaciones en materia Geográfica, Estadística y Catastral que tiene por objeto acumular, administrar y divulgar el conocimiento sobre los hechos y fenómenos geográficos, sociales, demográficos y económicos que ocurren en el territorio.
+
+Las dependencias, entidades y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los ayuntamientos, deberán inscribir en el Registro al que alude el párrafo anterior, los estudios e investigaciones que realicen en materia de este Libro. Tratándose de particulares, instituciones públicas y privadas, y de cualquier otra persona distinta del poder público del Estado de México, podrán inscribir los estudios e investigaciones de referencia, previo cumplimiento de los requisitos y derechos que se determinen conforme al reglamento de este Libro.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y comparabilidad de la información.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+31.- El IGECEM verificará y validará las metodologías y procesos a utilizar en el desarrollo de los trabajos autorizados conforme al artículo anterior. A su conclusión, se deberá entregar al IGECEM una copia fiel de los originales, para su registro oficial e integración en el acervo de información geográfica, estadística y catastral del Estado de México.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+32.- La información geográfica, estadística y catastral que generen las dependencias y entidades de la administración pública estatal municipal, de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas; y la pondrán a disposición del IGECEM para su captación, procesamiento e integración en los acervos del Sistema Estatal de Información.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+33.- Los términos de referencia para la autorización de contratación de trabajos relativos a la toma de fotografías aéreas con cámaras métricas y de reconocimiento y otros de percepción remota, previa revisión y validación del proyecto por parte del IGECEM, serán emitidos con apego a la normatividad nacional y estatal vigentes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+34.- El IGECEM integrará y conservará bajo su guarda y custodia el acervo de información geográfica, estadística y catastral del Estado de México, mismo que estará a disposición de los interesados para su consulta, o adquisición conforme a la tarifa que apruebe el Consejo Directivo del IGECEM, con las salvedades y restricciones que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+35.- El IGECEM prestará el servicio de consulta de información de manera gratuita. La divulgación de información geográfica, estadística y catastral se llevará a cabo mediante el acceso a los centros de consulta que para el efecto se establezcan, publicaciones y medios electrónicos y conforme a lo establecido por la Ley de Transparencia.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+36.- La información materia de este Libro, será divulgada para el efecto de que sea utilizada, sin mayores limitaciones que las que se establecen en este Libro, la Ley de Transparencia y otros ordenamientos aplicables, debiendo invariablemente citar la fuente de su origen.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+37.- Los bienes y servicios que ofrece el IGECEM podrán ser adquiridos directamente en los centros de consulta, o bien mediante solicitud que presenten los interesados, por escrito o medio electrónico.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+38.- Los ingresos que perciba el IGECEM por la venta de bienes y servicios a que se refiere este capítulo tendrán el carácter de aprovechamientos y productos; se sujetarán a la tarifa aprobada por el Consejo Directivo y no se otorgarán exenciones, condonaciones o subsidios a personas, dependencias y entidades públicas de carácter federal, estatal o municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+40.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán permanentemente con el Instituto Nacional de Estadística, Geografía e Informática, con el objeto de intercambiar la información, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+41.- El IGECEM constituirá por acuerdo del Consejo Directivo, los comités sectoriales, regionales y especiales; y mediante convenio, los comités municipales, que considere necesarios para la ejecución de los programas estatal y municipales. El IGECEM intervendrá en ellos como secretario Técnico.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+42.- Compete a los comités que se mencionan en el artículo anterior:
+
+I. Funcionar permanentemente como órganos colegiados de coordinación, participación, colaboración, consulta y divulgación del Sistema Estatal de Información;
+
+II. Proponer los procedimientos de coordinación y participación en los programas de información geográfica, estadística y catastral correspondientes;
+
+III. Dar seguimiento a la ejecución de los programas sectoriales, regionales y municipales, respectivos;
+
+IV. Vigilar el cumplimiento de la normatividad aplicable en los procesos de captación, generación y presentación de la información e investigación geográfica, estadística y catastral;
+
+V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran al Sistema Estatal de Información.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+43.- El IGECEM, es un organismo público descentralizado con personalidad jurídica y patrimonio propios; y tendrá su domicilio legal en la ciudad de Toluca de Lerdo, Estado de México.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+44.- El IGECEM, tiene por objeto:
+
+I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar el Sistema Estatal, para apoyar al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+
+II. Prestar el Servicio Estatal para satisfacer los requerimientos de información geográfica, estadística y catastral de las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, de los ayuntamientos y del público en general;
+
+III. Administrar los recursos del Sistema Estatal de Información para su crecimiento y modernización;
+
+IV. Coordinar las acciones en la materia con la federación, los poderes públicos del estado y los municipios, para que la información mantenga una estructura conceptual homogénea, sea comparable, veraz y oportuna;
+
+V. Implantar los lineamientos y políticas en materia de las tecnologías de información especializadas en geografía, estadística y catastro para optimizar sus procesos y recursos inherentes.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+45.- El IGECEM, tendrá las siguientes atribuciones, dentro del ámbito de su competencia:
+
+I. Formular, instrumentar, ejecutar y evaluar las políticas de información e investigación geográfica, estadística y catastral para satisfacer los requerimientos del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+
+II. Establecer el Sistema Estatal en congruencia y relación con el Sistema Nacional de Información;
+
+III. Planear, promover y operar la organización y desarrollo del Sistema Estatal de Información así como coordinar la organización y desarrollo de sistemas integrados sectoriales, regionales y municipales en materia geográfica, demográfica, económica y social;
+
+IV. Definir, registrar y emitir formalmente el carácter de oficial a la información geográfica, estadística y catastral;
+
+V. Establecer las políticas y lineamientos de los servicios de informática para los fines a que este Libro se refiere;
+
+VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
+
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
+
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+
+IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
+
+X. Realizar el acopio, procesamiento, edición, publicación y divulgación de información geográfica, estadística y catastral;
+
+XI. Diseñar, desarrollar y ejecutar programas de investigación y capacitación en materia de geografía, estadística y catastro;
+
+XII. Proporcionar asesoría y apoyo técnico para el desarrollo de estudios e investigaciones en materia geográfica, estadística y catastral;
+
+XIII. Establecer las metodologías y técnicas para determinar la riqueza inmobiliaria y la investigación sobre precios de mercado de los inmuebles ubicados en el territorio estatal;
+
+XIV. Desarrollar los diseños, levantamientos y procesamiento de encuestas y muestreos sobre las variables económicas, sociales, ambientales, demográficas y catastrales de la entidad;
+
+XV. Llevar a cabo los levantamientos aerofotográficos, geodésicos y procesos cartográficos, así como estudios y exploraciones geográficas;
+
+XVI. Ejecutar los trabajos catastrales y ejercer las atribuciones en la materia;
+
+XVII. Regir, autorizar y supervisar la ejecución de las actividades de su competencia, cuando se supere su capacidad de procesamiento de información y puedan ser realizadas por otras entidades públicas y, en su caso, mediante la contratación de terceros;
+
+XVIII. Difundir y prestar el servicio público de información;
+
+XIX. Las demás que conforme a este Libro le correspondan y las que fueren necesarias para ejercer las mencionadas anteriormente.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+46.- El patrimonio del IGECEM se integra por:
+
+I. Las asignaciones que con cargo al Presupuesto de Egresos del Gobierno del Estado apruebe la Legislatura local;
+
+II. Los bienes inmuebles cuya propiedad le sea transferida;
+
+III. Los bienes muebles, instrumentos y equipos que adquiera o le sean transferidos;
+
+IV. El importe de los ingresos que perciba por la venta de productos y servicios;
+
+V. La (sic) donaciones, legados, subsidios y otras aportaciones que reciba;
+
+VI. Remanentes, frutos, utilidades e intereses de inversiones;
+
+VII. Los derechos que a su favor se generen como titular de derechos de autor.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+47.- La administración del IGECEM estará a cargo de:
+
+I. Un Consejo Directivo;
+
+II. Un Director General.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+48.- El Consejo Directivo será la máxima autoridad del IGECEM y estará integrado por:
+
+I. Un presidente, que será el Secretario de Finanzas, Planeación y Administración;
+
+II. Catorce Vocales, que serán:
+
+a. El Secretario General de Gobierno;
+
+b. El Secretario de Desarrollo Metropolitano;
+
+c. El Secretario del Medio Ambiente;
+
+d. El Secretario de Desarrollo Social;
+
+e. El Secretario de Desarrollo Urbano y Vivienda;
+
+f. El Secretario de Desarrollo Agropecuario;
+
+g. El Secretario de Desarrollo Económico;
+
+h. El Secretario Técnico del Consejo Estatal de Población;
+
+i. Dos presidentes municipales, que designará el Presidente del Consejo;
+
+j. El Rector de la Universidad Autónoma del Estado de México;
+
+k. El Rector del Instituto Tecnológico de Estudios Superiores de Monterrey Campus Estado de México;
+
+l. El Presidente de la Asociación de Industriales del Estado de México;
+
+m. El Presidente del Colegio de Profesionistas que el Presidente del Consejo designe.
+
+III. Un Comisario, que será designado por el Secretario de la Contraloría.
+
+Cada uno de los integrantes titulares del Consejo Directivo designará un suplente para que asista en su representación en casos de ausencia.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+49.- El Consejo Directivo se auxiliará con un Secretario Técnico que será el Director General del IGECEM, quien designará a su suplente para representarlo en los casos que lo amerite o de ausencia.
+
+El Secretario Técnico, tiene las facultades y obligaciones que se establecen en el Reglamento de la Ley para la Coordinación y Control de los Organismos, Auxiliares del Estado de México, así como aquellas actividades administrativas que le encargue el Consejo.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+50.- El Consejo Directivo celebrará bimestralmente una sesión ordinaria y las extraordinarias que sean necesarias, cuando el Presidente lo estime necesario o a petición de la tercera parte de sus integrantes.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+51.- Para cada sesión deberá formularse previamente un orden del día, el cual se dará a conocer a los miembros del Consejo Directivo por lo menos con cinco días hábiles de anticipación.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+52.- Habrá quórum cuando concurran más de la mitad de los integrantes del Consejo Directivo, siempre que esté su Presidente o quien lo represente. Las decisiones se tomarán por mayoría de votos de los miembros; y, en caso de empate, quien presida tendrá voto de calidad.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+53.- El Director General del IGECEM será nombrado y removido por el Gobernador del Estado por sí o a propuesta del Presidente del Consejo Directivo.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+54.- El Director General del IGECEM deberá ser mexicano por nacimiento, en pleno goce de sus derechos constitucionales, y especialista o técnico reconocido en las materias de información e investigación geográfica, estadística y catastral.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+55.- El control y vigilancia del IGECEM, recaerá en el Comisario, que asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Comisario será nombrado conforme lo dispone la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+56.- Corresponde al Comisario ejercer las facultades y obligaciones establecidas en el Reglamento de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+## TITULO SEGUNDO. Del Instituto
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+57.- Adicionalmente a lo establecido en la Ley de Transparencia, son infracciones y, por lo tanto, causa de responsabilidad administrativa, a cargo de los servidores públicos que con ese carácter tengan acceso a la información materia de este Libro:
+
+I. Usar, sustraer, comercializar, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente de manera indebida, información que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
+
+II. Actuar con negligencia, dolo o mala fé en el trámite de las solicitudes por obtener bienes y servicios que ofrece el IGECEM;
+
+III. Expedir certificaciones o constancias de información geográfica, estadística o catastral que contenga alteraciones respecto de la que obre en sus archivos;
+
+IV. Denegar intencionalmente, sin justificación ni fundamento el acceso a la información pública, en términos de este Libro, que les haya sido solicitada;
+
+V. Proporcionar o divulgar información confidencial, en materia de este Libro;
+
+VI. Proporcionar o divulgar información reservada, en materia de este Libro, a quien no esté autorizado;
+
+VII. Proporcionar, divulgar o usar información que en términos de este Libro no haya sido declarada como oficial por el IGECEM;
+
+VIII. Obtener algún ingreso no contemplado en las disposiciones legales vigentes por la prestación del Servicio Estatal;
+
+IX. Otorgar exenciones, condonaciones o subsidios.
+
+Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidencia en las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+58.- Son infracciones a cargo de los informantes:
+
+I. Negar u omitir la entrega de datos, informes o documentos, dentro del plazo que les fuere fijado por este Libro o su Reglamento;
+
+II. Impedir el acceso al personal Oficial del IGECEM a la información que deban recabar o verificar;
+
+III. Dar datos falsos, incompletos o incongruentes, con dolo o mala fé;
+
+IV. Entorpecer los procedimientos de generación de información;
+
+V. Divulgar información confidencial y reservada en los términos de este Libro.
+
+Las infracciones cometidas por los informantes serán sancionadas conforme al artículo 1.3 de este Código y en términos del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+59.- Para efectos de este Libro comete una infracción en materia de informática, la persona que dolosamente y sin derecho realice cualquiera de las siguiente (sic) conductas:
+
+I. Acceder a algún banco de datos, sistema de cómputo o red del IGECEM, sin autorización legal o expresa emitida por autoridad competente del IGECEM;
+
+II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alterar, dañar o destruir de forma directa o indirecta, total o parcial, algún soporte lógico, programa, o dato contenido en los equipos, sistemas, bancos de datos o redes del IGECEM, sin autorización legal o expresa emitida por autoridad competente del IGECEM.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+60.- La comisión de las infracciones a que se refiere el presente título, por parte de servidores públicos, dará lugar al procedimiento administrativo disciplinario y a las sanciones que por responsabilidad administrativa disciplinaria resulten.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+61.- Cuando los hechos que contravengan las disposiciones de este Libro y su Reglamento, constituyan un delito, se formulará denuncia o querella ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que correspondan.
+
+T R A N S I T O R I O S
+
+## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -8861,11 +9693,7 @@ TERCERO.- Se abroga la Ley de Obras Públicas del Estado de México, publicada e
 
 CUARTO.- Los procedimientos, contratos, convenios e inconformidades administrativas, iniciados al amparo de la ley que se abroga se substanciarán y resolverán conforme a las disposiciones del mismo ordenamiento.
 
-QUINTO.- El Ejecutivo del Estado, en las materias de su competencia, expedirá el reglamento
-
-de este Libro dentro de los sesenta días siguientes al de su publicación en el periódico oficial
-
-"Gaceta del Gobierno".
+QUINTO.- El Ejecutivo del Estado, en las materias de su competencia, expedirá el reglamento de este Libro dentro de los sesenta días siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 SEXTO.- En tanto se expide la reglamentación a que se refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones de este Libro.
 
@@ -8920,3 +9748,15 @@ G.G. 27 DE JULIO DE 2005.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.G. 22 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la "Ley de Información e Investigación Geográfica, Estadística y Catastral del Estado de México", publicado en el periódico oficial "Gaceta del Gobierno" el 26 de diciembre de 1991.
+
+CUARTO.- Se derogan todas las disposiciones legales de igual o menor rango, cuyo contenido se oponga a lo dispuesto por el presente ordenamiento.
+
+QUINTO.- A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado contará con un plazo de hasta seis meses para expedir el Reglamento correspondiente.
