@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2004-12-16"
+last_updated: "2005-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -199,9 +199,9 @@ XIV. Secretaría de Comunicaciones;
 
 XV. Secretaría de Transporte;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2005)</small>
 
-XVI. Secretaría de Ecología;
+XVI. Secretaría del Medio Ambiente;
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
@@ -877,11 +877,13 @@ XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, exp
 
 XXI.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
-> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 32 Bis.
 
-La Secretaría de Ecología es el Organo encargado de la formulación, ejecución y evaluación de la política estatal en materia Ecológica.
+La Secretaría del Medio Ambiente, es el órgano encargado de la formulación, ejecución y evaluación de la política estatal en materia de conservación ecologia (sic), biodiversidad y protección al medio ambiente para el desarrollo sostenible.
+
+> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
@@ -1551,7 +1553,7 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-G.G. 31 DE OCTUBRE DE 2003
+P.O. 31 DE OCTUBRE DE 2003
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -1565,7 +1567,7 @@ QUINTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de o
 
 SEXTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente decreto en las Secretarías de Finanzas y Planeación y de Administración, se tramitarán y resolverán, por la Secretaría de Finanzas, Planeación y Administración.
 
-G.G. 4 DE JUNIO DE 2004.
+P.O. 4 DE JUNIO DE 2004.
 
 ###### ARTICULO PRIMERO.
 
@@ -1599,7 +1601,7 @@ Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
 
-G.G. 16 DE DICIEMBRE DE 2004.
+P.O. 16 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -1614,6 +1616,16 @@ QUINTO.- Se derogarán las disposiciones de igual o menor jerarquía que se opon
 SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Desarrollo Económico, en materia de turismo y desarrollo artesanal, se entenderá que las mismas se encuentran reservadas a la Secretaría de Turismo y Desarrollo Artesanal.
 
 SÉPTIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor de este decreto en la Secretaría de Desarrollo Económico, se tramitarán y resolverán, según corresponda, por la Secretaría de Turismo y Desarrollo Artesanal.
+
+G.G. 22 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- En todos los ordenamientos legales en lo que se haga alusión a la Secretaría de Ecología se entenderá que se hace referencia a la Secretaría del Medio Ambiente.
+
+CUARTO.- Se derogan las disposiciones legales de igual o menor rango que se opongan a los preceptos de este Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
