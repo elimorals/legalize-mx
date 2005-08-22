@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2004-12-24"
+last_updated: "2005-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE AGOSTO DE 2005.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -796,13 +796,13 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 Procede garantizar el interés fiscal, cuando:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución y el crédito fiscal exceda de $71,083.55;
+I.- Se solicite la suspensión del procedimiento administrativo de ejecución y el crédito fiscal exceda de ochocientas veces el salario mínimo general diario vigente en el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente y siempre que el crédito fiscal tenga un monto superior a $71,083.55;
+II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente y siempre que el crédito fiscal tenga un monto superior a ochocientas veces el salario mínimo general diario vigente en el Distrito Federal;
 
 III. Se solicite la aplicación del producto en los términos del artículo 633 de este Código;
 
@@ -1164,11 +1164,11 @@ Las instancias o peticiones que se formulen a las autoridades fiscales deberán 
 
 Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido debidamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 77.
 
-No operará la resolución afirmativa ficta tratándose de la autorización de exenciones de créditos fiscales, la caducidad de las facultades de la autoridad, la facultad de revisión prevista en el artículo 133 de este Código, la prescripción o condonación de créditos fiscales, el otorgamiento de subsidios, disminuciones o reducciones en el monto del crédito fiscal, el reconocimiento de enteros, la solicitud de compensación y la devolución de cantidades pagadas indebidamente.
+No operará la resolución afirmativa ficta tratándose de la autorización de exenciones de créditos fiscales, la caducidad de las facultades de la autoridad, la facultad de revisión prevista en el artículo 133 de este Código, la prescripción o condonación de créditos fiscales, el otorgamiento de subsidios, disminuciones o reducciones en el monto del crédito fiscal, el reconocimiento de enteros, la solicitud de compensación, la devolución de cantidades pagadas indebidamente y consultas.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1224,7 +1224,7 @@ d). Obtener la contestación de las consultas que sobre situaciones reales y con
 
 e). Autodeterminar el valor de los inmuebles destinados a vivienda para efectos del Impuesto Sobre Adquisición de Inmuebles;
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 f). Optar por autodeterminar el consumo de agua y los derechos correspondientes;
 
@@ -2248,27 +2248,29 @@ También estarán exentos los inmuebles adquiridos por representaciones Diplomá
 
 Para los efectos de este Capítulo, se entiende por adquisición, la que derive de:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-I. Todo acto por el que se transmitirá la propiedad, una vez satisfechas las formalidades que establezca para tal efecto el Código Civil para el Distrito Federal, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir o liquidar la sociedad conyugal siempre que sean inmuebles propiedad de los cónyuges;
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir o liquidar la sociedad conyugal siempre que sean inmuebles propiedad de los cónyuges.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-En el caso de adquisiciones por herencia, se pagará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles, siempre que el valor del inmueble en cuestión no exceda de la suma equivalente a doce mil setenta y tres veces el Salario Mínimo General Vigente en el Distrito Federal;
+En el caso de adquisiciones por causa de muerte, se aplicará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles, siempre que el valor del inmueble a la fecha de la escritura de adjudicación no exceda de la suma equivalente a doce mil setenta y tres veces al Salario Mínimo General Vigente en el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-II. La compraventa con reserva de dominio, al momento en que se cancele dicha reserva;
+II. La compraventa en la que el vendedor se reserve el dominio, aun cuando la transferencia de ésta opere con posterioridad;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-III. La promesa de compraventa, una vez que el contrato respectivo se eleve a escritura pública;
+III. La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-IV. Cualquier tipo de convenio por virtud del cual se transmitan o cedan derechos para adquirir algún bien inmueble;
+IV. La cesión de derechos del comprador o del futuro comprador, en los casos de las fracciones II y III que anteceden, respectivamente;
 
 V. Fusión y escisión de sociedades;
 
@@ -2278,33 +2280,45 @@ VI. La dación en pago y la liquidación, reducción de capital, pago en especie
 
 VII. Transmisión de usufructo o de la nuda propiedad, así como la extinción del usufructo, salvo que el mismo se extinga por muerte del usufructuario, independientemente de que el usufructo se haya constituido por tiempo determinado o como vitalicio;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-VIII. Prescripción positiva e información de dominio judicial o administrativa;
+VIII. Prescripción positiva e información de dominio judicial o administrativa; salvo que el adquirente ya hubiera pagado el Impuesto sobre Adquisición de Inmuebles causado por la celebración del contrato base de la acción, previamente al ejercicio de la acción judicial en cuestión;
 
 IX. La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE AGOSTO DE 2005)</small>
+
+Se asimila a la cesión de derechos la renuncia o repudio de la herencia o legado efectuados después de la aceptación de herencia o de la declaratoria de herederos o legatarios;
 
 X. Actos que se realicen a través de fideicomiso, así como la cesión de derechos en el mismo, en los siguientes supuestos:
 
-a). En el momento en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él, y siempre que no tenga derecho a readquirir del fiduciario los bienes;
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-b). En el momento en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho;
+a) En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él, y siempre que no tenga derecho a readquirir del fiduciario los bienes;
 
-c). En el momento en el que el fideicomitente ceda los derechos que tenga sobre los bienes afectos al fideicomiso, si entre éstos se incluye el de que dichos bienes se transmitan a su favor;
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-d). En el momento en el que el fideicomitente transmita total o parcialmente los derechos que tenga sobre los bienes afectos al fideicomiso a otro fideicomitente, aun cuando se reserve el derecho de readquirir dichos bienes, y
+b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho;
 
-e). En el momento en el que el fideicomisario designado ceda los derechos que tenga sobre los bienes afectos al fideicomiso, o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
+
+c) En el acto en el que el fideicomitente ceda los derechos que tenga sobre los bienes afectos al fideicomiso, si entre éstos se incluye el de que dichos bienes se transmitan a su favor;
+
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
+
+d) En el acto en el que el fideicomitente transmita total o parcialmente los derechos que tenga sobre los bienes afectos al fideicomiso a otro fideicomitente, aun cuando se reserve el derecho de readquirir dichos bienes, y
+
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
+
+e) En el acto en el que el fideicomisario designado ceda los derechos que tenga sobre los bienes afectos al fideicomiso, o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 XI. La división de la copropiedad por la parte que se adquiera en demasía del porciento que le correspondía al copropietario, tomando como base los valores a que se refiere el artículo 138 de este Código;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-XII. En los contratos de arrendamiento financiero, una vez que se haga efectiva la opción de compra;
+XII. La cesión de derechos en los contratos de arrendamiento financiero, así como la adquisición de los bienes materia del mismo que se efectúe por persona distinta del arrendatario;
 
 XIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2004)
 
@@ -2340,17 +2354,21 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Cuando se adquiera sólo una porción del inmueble o el usufructo o la nuda propiedad, la base gravable que se considerará para el cálculo del impuesto, será el valor del inmueble en su totalidad. Al impuesto determinado se le aplicará la proporción correspondiente a la parte que fue adquirida y el resultado será el monto del impuesto a pagar.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-Cuando se trate de adquisición por causa de muerte, el valor del inmueble que se considerará será el que resulte más alto entre el valor de adquisición, el valor catastral y el valor que resulte del avalúo vigente al momento de otorgarse la escritura de adjudicación de los bienes de la sucesión.
+Cuando se trate de adquisición por causa de muerte, el valor del inmueble que se considerará será el que resulte más alto entre el valor catastral y el valor que resulte del avalúo vigente al momento de otorgarse la escritura de adjudicación de los bienes de la sucesión, dicho avalúo deberá estar referido a la fecha de adjudicación, venta o cesión de los bienes de la sucesión.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-Cuando se trate de adquisición por fusión o escisión de sociedades, el valor del inmueble será el que resulte más alto entre el valor catastral, el valor de operación y el valor de avalúo vigentes al momento de otorgarse la escritura de formalización de la transmisión de la propiedad de los inmuebles con motivo de dichos actos.
+Cuando se trate de adquisición por aportación a toda clase de asociaciones o sociedades, fusión o escisión de sociedades, dación en pago y liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles, el valor del inmueble será el que resulte más alto entre el valor catastral, el valor de operación y el valor de avalúo referidos al momento de otorgarse la escritura de formalización de la transmisión de la propiedad de los inmuebles con motivo de dichos actos.
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-En los casos de adquisición formalizada en documentos privados, el avalúo deberá referirse a la fecha en que de acuerdo al Código Civil para el Distrito Federal, dicho documento surta efectos traslativos de dominio o, en su defecto, a la fecha de otorgamiento de la escritura pública correspondiente.
+Tratándose de adquisición por prescripción positiva e información de dominio judicial o administrativa, el valor del inmueble que se considerará será el que resulte más alto entre el valor catastral y el valor de avalúo referido a la fecha en que cause ejecutoria la sentencia de prescripción y de la resolución judicial o administrativa de información de dominio, respectivamente.
+
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
+
+En los casos no previstos en este Capítulo, tratándose de adquisiciones formalizadas en documentos privados, el avalúo deberá referirse a la fecha en que se adquiera el dominio del bien conforme a las leyes, o en su defecto, a la fecha de otorgamiento de la escritura pública correspondiente.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -2378,37 +2396,41 @@ El pago del impuesto deberá hacerse mediante declaración, a través de la form
 
 I. Cuando se adquiera el usufructo o la nuda propiedad. En el caso de cualquier usufructo, que se haya constituido por tiempo determinado o como vitalicio, cuando se extinga por cualquier causa distinta de la muerte del usufructuario;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-II. Cuando se adjudiquen los bienes de la sucesión, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente; asimismo, en los casos de formalización de adquisiciones en las que el adquirente falleciere sin que se hubiere pagado el impuesto correspondiente, se deberá pagar el impuesto, tanto por el acto que se formalice, como por la adquisición por herencia o legado;
+II. Cuando se adjudiquen los bienes de la sucesión, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente; asimismo, en los casos de formalización de adquisiciones en las que el enajenante falleciere sin que se hubiere pagado el impuesto correspondiente, se deberán pagar tanto el impuesto por la adquisición por herencia o legado, como el del acto que se formalice;
 
 III. Cuando se realicen los supuestos de enajenación a través de fideicomiso;
 
-IV. A la fecha en que cause ejecutoria la sentencia de la prescripción positiva, a la de la resolución correspondiente, en el caso de información de dominio, y a la de la formalización en escritura pública, tratándose de la adjudicación judicial o administrativa y de la cesión de dichos derechos;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+IV.- A la fecha en que cause ejecutoria la sentencia de la prescripción positiva, a la de la resolución correspondiente, en el caso de información de dominio judicial o administrativa, y a la de la formalización en escritura pública, tratándose de la adjudicación judicial o administrativa y a la fecha de la cesión de dichos derechos;
 
-V. En los contratos de compraventa con reserva de dominio y promesa de venta, cuando se cancele dicha reserva o bien se celebre el contrato respectivo;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+V.- En los contratos de compraventa con reserva de dominio y promesa de venta, cuando se celebre el contrato respectivo;
 
-VI. En los contratos de arrendamiento financiero, cuando se haga efectiva la opción de compra;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-VII. Cuando se formalice en escritura pública la transmisión de propiedad de inmuebles, con motivo de la fusión o escisión de sociedades, y
+VI.- En los contratos de arrendamiento financiero, cuando se cedan los derechos respectivos o la adquisición de los bienes materia del mismo la realice una persona distinta del arrendatario;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-VIII. En los documentos privados, así como en los casos no previstos en las fracciones anteriores, cuando opere la transmisión de propiedad conforme a las disposiciones del Código Civil para el Distrito Federal.
+VII.- Cuando se formalice en escritura pública la transmisión de propiedad de inmuebles, con motivo de la aportación a toda clase de asociaciones o sociedades, de la fusión o escisión de sociedades, de la dación en pago y liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles, y
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
+
+VIII.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, o si se trata de documentos privados, cuando se adquiera el dominio del bien conforme a las leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE AGOSTO DE 2005)</small>
+
+El contribuyente podrá pagar el impuesto por anticipado.
 
 A la declaración a que se refiere este artículo deberá acompañarse la documentación que en la misma se señale.
 
-> <small>(DEROGADO CUARTO PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
-
-Tratándose de adquisiciones que se deriven de los actos mencionados en el artículo 137 de este Código, que no se hagan constar en escritura pública, el enajenante tendrá el carácter de responsable solidario respecto del impuesto sobre adquisición de inmuebles que se genere a cargo del adquiriente y éste omita su pago.
+Tratándose de adquisiciones que se deriven de los actos mencionados en el artículo 137 de este Código, que no se hagan constar en escritura pública, el enajenante tendrá el carácter de responsable solidario respecto del impuesto sobre adquisición de inmuebles que se genere a cargo del adquirente y éste omita su pago.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -3660,8 +3682,6 @@ IV. Por el dictamen técnico sobre daños ambientales o lesiones, daños y perju
 
 V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $3,441.95
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
-
 a). Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de $859.40
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
@@ -3917,6 +3937,10 @@ h). 76 mm $20,698.20
 i). 102 mm $23,297.20
 
 Además, en los predios en que exista más de un usuario, que se sirvan de una misma toma, cada usuario deberá cubrir los derechos de la instalación de medidor y armado de cuadro, en el diámetro que le corresponda, de acuerdo con las cuotas establecidas.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2005)</small>
+
+El pago de los derechos por instalación de medidor a que se refiere la fracción III del Apartado A de este artículo, podrá realizarse a plazos, ya sea diferido o en parcialidades, en términos del artículo 67 de este Código, procediendo en este caso la instalación de medidor.
 
 APARTADO B: DRENAJE
 
@@ -6150,8 +6174,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6187,6 +6209,8 @@ El pago de estos derechos se hará previamente a la recolección o a la recepci�
 En el caso en que el monto de los derechos causados resulte superior al efectuado conforme a las estimaciones realizadas por el contribuyente, se pagarán las diferencias con los recargos que correspondan conforme al artículo 64 de este Código, dentro de los primeros cinco días siguientes al mes de causación del derecho.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -7916,7 +7940,9 @@ Los fondos se concentrarán en la Secretaría, o en su caso, en el banco concent
 
 I. Los organismos descentralizados concentrarán la recaudación el día hábil siguiente de efectuada, salvo que se trate de la realizada en viernes o en día inmediato anterior a otro inhábil, casos en los que deberá concentrarse el mismo día. La Secretaría podrá ampliar o autorizar la no sujeción a los plazos antes indicados, cuando por disposición legal los fondos estén destinados para fines patrimoniales de los propios organismos y tengan encomendada su administración hasta por los montos autorizados por la Secretaría, y
 
-II. Las sociedades nacionales de crédito, instituciones de crédito y los particulares legalmente autorizados, concentrarán los fondos al día hábil siguiente de recibidos.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
+
+II.- Las sociedades nacionales de crédito, instituciones de crédito y los particulares legalmente autorizados, concentrarán los fondos al día hábil siguiente de recibidos, excepto en aquellos casos en que la Secretaría autorice un plazo distinto, el cual no podrá exceder de 24 horas adicionales.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -8060,25 +8086,27 @@ En los actos de remate, venta, adjudicación al Distrito Federal, donación o de
 
 Para los efectos de este Código, se entenderá por vehículo chatarra: los medios de transporte terrestre, como el automóvil, camioneta, autobús, vehículos de carga, entre otros, que se encuentran deteriorados, inservibles, destruidos, desbaratados, podridos o inutilizados permanentemente para su circulación.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2005)</small>
 
-###### ARTICULO 371.
+###### ARTÍCULO 371.
 
-La Secretaría conjuntamente con la Secretaría de Seguridad Pública, conformarán un órgano colegiado integrado por dos representantes de cada una de ellas, el cual llevará a cabo un inventario de las unidades que se encuentren en los depósitos de esta última, el cual constará en un acta debidamente circunstanciada en presencia de fedatario público, a efecto de hacer constar únicamente el estado en que se encuentran los vehículos en el momento en que se practique el inventario y el deterioro que guardan los denominados vehículos chatarra.
+La Secretaría de Seguridad Pública llevará a cabo un inventario de las unidades que se encuentren en sus depósitos, el cual constará en un acta debidamente circunstanciada en presencia de fedatario público, a efecto de hacer constar únicamente el estado en que se encuentran los vehículos en el momento en que se practique el inventario y el deterioro que guardan los denominados vehículos chatarra. Al acta circunstanciada mencionada, se agregarán las fotografías ya sea por unidad o por bloque de dichos vehículos y, en su caso, la documentación comprobatoria del depósito de los mismos.
 
-Al acta circunstanciada a que se refiere el párrafo anterior, se agregarán las fotografías ya sea por unidad o por bloque de dichos vehículos y, en su caso, la documentación comprobatoria del depósito de los mismos.
+Además, en el acta circunstanciada a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública identificará aquellos vehículos de los que se conozca al propietario o poseedor, el motivo y fecha de su ingreso al depósito de que se trate.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 372.
 
-Una vez que el órgano colegiado tenga los elementos a que se refiere el artículo anterior, se procederá conforme a lo siguiente:
+Una vez que la Secretaría de Seguridad Pública tenga los elementos a que se refiere el artículo anterior, se procederá conforme a lo siguiente:
 
-I. Identificarán aquellos vehículos de los que se conozca al propietario o poseedor y el motivo de su ingreso al depósito de que se trate, para proceder en términos del artículo 253 del presente Código.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
 
-II. Cuando se desconozca al titular del derecho de propiedad o posesión de los vehículos, independientemente del estado en que se encuentren éstos, se procederá a realizar una publicación dirigida al público en general, por una sola ocasión en un periódico de circulación en el Distrito Federal, en la que se señalarán las características que se puedan precisar de los vehículos de que se trate, a efecto de que los legítimos propietarios o poseedores de los mismos, gocen del término de un mes para acudir ante la autoridad señalada en dicha publicación para acreditar tal carácter, así como determinar el motivo de su ingreso a los mencionados depósitos y proceder a la determinación y pago de los créditos fiscales y/o adeudos correspondientes.
+I.- Se conformará un órgano colegiado integrado por dos representantes de las Secretarías de Seguridad Pública y de Finanzas, para proceder en términos del artículo 253 del presente Código.
 
-La publicación a que se refiere el párrafo anterior deberá cumplir los requisitos del artículo 123 de este Código.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2005)</small>
+
+II.- Cuando del acta a que se refiere el artículo anterior se desprenda que se desconozca al titular del derecho de propiedad o posesión de los vehículos, independientemente del estado en que se encuentren éstos, se procederá a realizar una publicación dirigida al público en general, por una sola ocasión en un periódico de circulación en el Distrito Federal, en la que se señalarán las características que se puedan precisar de los vehículos de que se trate, a efecto de que los legítimos propietarios o poseedores de los mismos, gocen del término de un mes para acudir ante la autoridad señalada en dicha publicación para acreditar tal carácter, así como determinar el motivo de su ingreso a los mencionados depósitos y proceder a la determinación y pago de los créditos fiscales y/o adeudos correspondientes.
 
 III. Transcurrido el plazo de un mes a que se refiere la fracción anterior, en el que quedará a disposición del titular del derecho de propiedad o posesión del vehículo de que se trate, sin que sea retirado, pasará a ser propiedad del Distrito Federal y podrá ser donado o destinado para su uso en un área específica del propio Gobierno del Distrito Federal, conforme a las reglas de carácter general que dicte la Secretaría; o bien, ser enajenado en subasta o licitación pública, o mediante adjudicación directa, en cuyo caso el procedimiento de enajenación, estará a cargo de la Secretaría de Seguridad Pública con la participación de la Secretaría y la Oficialía Mayor del Distrito Federal, así como de la Contraloría.
 
@@ -15645,3 +15673,17 @@ El beneficio a que se refiere el último párrafo del artículo 307 correspondie
 ###### ARTICULO DECIMO.
 
 El beneficio a que se refiere el último párrafo del artículo 307 correspondiente a conexión de descargas domiciliarias, será aplicable en las demarcaciones territoriales Milpa Alta, Xochimilco, Tláhuac, Iztapalapa, Tlalpan y Cuajimalpa de Morelos.
+
+G.O. 22 DE AGOSTO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que se opongan a lo establecido en este Decreto. La Secretaría será responsable de modificar las disposiciones reglamentarias y normativas correspondientes para hacerlas congruentes con los preceptos contenidos en el presente Código; en tanto no se actualicen los mismos, se aplicará lo establecido en este ordenamiento y las disposiciones que no se opongan al mismo.
