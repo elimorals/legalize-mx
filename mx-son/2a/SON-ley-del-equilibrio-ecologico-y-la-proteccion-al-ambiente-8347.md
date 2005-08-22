@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-8347"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-03"
-last_updated: "1993-12-02"
+last_updated: "2005-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 3 de enero de 1991.
 
@@ -436,6 +436,8 @@ VIII.- El uso de materiales de construcción apropiados al medio ambiente y a la
 Las personas físicas o morales, públicas o privadas, que pretendan realizar las obras o actividades a que se refiere esta Sección, que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos y en las normas técnicas ecológicas emitidas por la Federación para proteger el ambiente, deberán contar con la autorización de la Secretaria o de los Ayuntamientos, según corresponda, sin perjuicio de otras autorizaciones que se deban otorgar por otras autoridades.
 
 Cuando se trate de la evaluación del impacto ambiental por la realización de obras o actividades que tengan por objeto el aprovechamiento de recursos naturales, la Secretaría o los Ayuntamientos, requerirán a los interesados que en la manifestación de impacto ambiental correspondiente se incluya la descripción de los posibles efectos de dichas obras o actividades en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que serían sujetos de aprovechamiento.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL B.O. 22 DE AGOSTO DE 2005, SE EXCEPTUA EL REQUISITO DE LA PRESENTACION DE LA MANIFESTACION DE IMPACTO AMBIENTAL, PREVISTO EN EL ARTICULO 21 DE LA PRESENTE LEY, PARA OBTENER LA AUTORIZACION CORRESPONDIENTE RESPECTO DE LAS OBRAS Y ACTIVIDADES QUE MENCIONAN.</small>
 
 ###### ARTICULO 22.
 
@@ -1700,3 +1702,113 @@ B.O. 2 DE NOVIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE AGOSTO DE 2005.
+
+> <small>N. DE E. DADA LA IMPORTANCIA DEL ACUERDO, SE TRANSCRIBE A CONTINUACION:</small>
+
+A C U E R D O:
+
+POR EL QUE SE EXCEPTÚA EL REQUISITO DE LA PRESENTACIÓN DE LA MANIFESTACIÓN DE IMPACTO AMBIENTAL, PREVISTO EN EL ARTICULO 21 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE PARA El ESTADO DE SONORA, PARA OBTENER LA AUTORIZACCIÓN CORRESPONDIENTE RESPECTO DE LAS OBRAS Y ACTIVIDADES QUE MENCIONAN.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo tiene por objeto determinar las obras o actividades, consideradas en el articulo 22, Inciso A) de la (sic) Ley Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora, para las cuales se exceptúa del requisito de la presentación de la manifestación de impacto ambiental a que se refiere el artículo 21 de la misma, para obtener la autorización correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obras y actividades a las que se exceptúa el requisito de la presentación de la manifestación de impacto ambiental serán las siguientes.
+
+I.- Las ampliaciones, modificaciones, sustituciones de obra civil con menos de mil metros cuadrados de superficie de desplante por proyecto;
+
+II.- Rehabilitación y el mantenimiento de instalaciones en edificaciones;
+
+III.- Fraccionamientos habitacionales menores de diez hectáreas;
+
+IV.- Edificación pública para educación, salud, seguridad social y de equipamiento urbano, con una superficie de desplante menor de una hectárea;
+
+V.- Mantenimiento y rehabilitación de carreteras y caminos de terracería de carácter estatales.
+
+VI.- Edificación de naves industriales con una superficie de desplante menor de una hectárea.
+
+###### ARTICULO TERCERO.
+
+Aplicará el presente Acuerdo cuando:
+
+1.- El lugar o predio en que se pretendan desarrollar las obras o actividades:
+
+a) No lo habiten especies de flora o fauna con algún estatus de protección;
+
+b) No se encuentre en áreas naturales protegidas de jurisdicción federal, estatal o municipal;
+
+c) Se encuentre contemplado dentro de algún Programa o Plan Parcial de Desarrollo Urbano;
+
+d) En el caso de naves industriales, se encuentre (sic) en zonas o parques industriales autorizadas por la Secretaría de Infraestructura Urbana y Ecología o la Secretaria de Medio Ambiente, Recursos Naturales y Pesca;
+
+e) No se encuentre en terrenos forestales;
+
+f) No se encuentre en humedales, manglares, lagunares, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales; y
+
+II.- Las obras o actividades que se pretendan desarrollar:
+
+a) No afecten el equilibrio ecológico de zonas que estén más allá de la jurisdicción del Estado;
+
+b) No sean consideradas riesgosas o altamente riesgosas, y
+
+c) No afecten ecosistemas costeros.
+
+###### ARTICULO CUARTO.
+
+Quienes pretendan realizar las obras o actividades señaladas en el presente acuerdo, deberá presentar una solicitud dirigida al Secretario de infraestructura Urbana y Ecológica misma que deberá contener al menos la siguiente información:
+
+I.- Nombre de la empresa u organismo solicitante;
+
+II.- Registro Federal de Causantes;
+
+III. Domicilio para oír y recibir notificaciones;
+
+IV.- Nombre completo de la persona responsable del proyecto;
+
+V.- Indicar la actividad o actividades que se pretende realizar, de acuerdo con lo señalado en el Artículo 2° de este Acuerdo;
+
+VI.- Nombre del proyecto.
+
+VII.- Ubicación física del proyecto.
+
+VIII.- Situación legal del predio.
+
+IX.- Superficie por afectar, y
+
+X.- Describir las vías de acceso.
+
+A la solicitud deberá acompañarse de la siguiente documentación:
+
+I.- Plano de localización de la obra o actividad;
+
+II.- Instrumento público donde conste la constitución de la empresa u organismo solicitante;
+
+III.- Instrumento público mediante el cual quien suscribe la solicitud acredita la representación de la persona moral u organismo;
+
+IV.- Documentación donde conste la situación legal del predio;
+
+V.- Programa de trabajo en el que se describan las acciones y actividades que se desarrollarán, incluyendo las materias primas, insumos, maquinaria y equipo que se emplearán en cada una de las etapas del proyecto.
+
+VI.- Resolución donde conste la autorización de las obras originalmente realizadas, en caso de ampliaciones y modificaciones; y
+
+VII. Declaración en que se manifieste bajo protesta de decir verdad que se está en los supuestos a que se refiere el artículo tercero del presente acuerdo.
+
+###### ARTICULO QUINTO.
+
+La Secretaria de Infraestructura Urbana y Ecología, a través de la Subsecretaría de Planeación Urbana y Ecología, previa la evaluación de la solicitud y documentación presentadas, emitirá la resolución que corresponda dentro de los diez días hábiles siguientes a la fecha de recepción de la misma.
+
+Antes de emitir su resolución, la autoridad mencionada en el párrafo anterior podrá realizar visitas al sitio o sitios donde pretendan realizar las obras o actividades, a efecto de verificar que el responsable de la misma se encuentra dentro de los supuestos de este Acuerdo.
+
+###### ARTÍCULO SEXTO.
+
+En el caso de que transcurriera el plazo señalado en el Artículo que antecede, sin que se obtenga respuesta alguna, se entenderá que la Secretaría de Infraestructura Urbana y Ecología otorga la autorización correspondiente para la realización de las obras o actividades en los términos solicitados.
+
+TRANSITORIO:
+
+###### ARTÍCULO ÚNICO.
+
+El presente ACUERDO entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
