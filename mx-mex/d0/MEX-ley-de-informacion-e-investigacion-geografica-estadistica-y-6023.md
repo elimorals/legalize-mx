@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-informacion-e-investigacion-geografica-estadistica-y-602
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-26"
-last_updated: "1991-12-26"
+last_updated: "2005-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE INFORMACION E INVESTIGACION GEOGRAFICA, ESTADISTICA Y CATASTRAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 152, POR EL QUE SE ADICIONA EL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 22 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno, el 26 de diciembre de 1991.
 
@@ -436,3 +438,17 @@ EL SECRETARIO DE FINANZAS Y PLANEACION.
 C.P. JOSE MERINO MAÑON.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G. G. 22 DE AGOSTO DE2005.
+
+PRIMERO.- Publiquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno.
+
+TERCERO.- Se abroga la "Ley de Información e Investigación Geográfica, Estadistica y Catastral del Estado de México", publicado en el periódico oficial "Gaceta del Gobierno" el 26 de diciembre de 1991.
+
+CUARTO.- Se derogan todas las disposiciones legales de igual o menor rango, cuyo contenido se oponga a lo dispuesto por el presente ordenamiento.
+
+QUINTO.- A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado contará con un plazo de hasta seis meses para expedir el Reglamento correspondiiente.
