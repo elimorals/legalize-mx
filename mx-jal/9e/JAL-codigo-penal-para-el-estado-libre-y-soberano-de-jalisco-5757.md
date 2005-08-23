@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2005-04-02"
+last_updated: "2005-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3059,8 +3059,6 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 ## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
-
 ###### Art. 233.
 
 Comete el delito de robo el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la Ley. Se tendrá por consumado el robo, desde el momento en que el activo tenga en su poder lo robado, aún cuando lo abandone o lo desapoderen de él.
@@ -3281,7 +3279,9 @@ Si en el mismo caso, la restitución y reparación se verifican después de inic
 
 Comete el delito de abigeato el que se apodera de una o más cabezas de ganado, sin consentimiento de quien legalmente puede disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
 
-Se considera ganado para los efectos de este delito las especies relacionadas en el artículo 4º. de la Ley de Desarrollo Pecuario.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2005)</small>
+
+Se considera ganado para los efectos de este delito las especies relacionadas en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
@@ -3985,7 +3985,7 @@ No se impondrá la sanción prevista en este artículo, si quien hubiere cometid
 
 Para los fines del artículo que antecede se tomará en cuenta el monto de lo defraudado o que se haya intentado defraudar dentro de un mismo período fiscal, aún cuando se trate de conceptos distintos y de diversas acciones u omisiones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 289.
 
@@ -4062,6 +4062,8 @@ III. Prestando sus servicios como auditor técnico, especialista o perito o espe
 IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o del ayuntamiento en cuyo territorio se hubiesen cometido los hechos presuntamente constitutivos de delito.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ## TRANSITORIOS
 
@@ -4350,3 +4352,7 @@ P.O. 2 DE ABRIL DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Se deja sin efectos la aclaración de error del decreto 20787 aprobado el 10 de marzo de 2005.
+
+P.O. 23 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
