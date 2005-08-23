@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2004-11-22"
+last_updated: "2005-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -67,9 +67,11 @@ El desarrollo del Estado y Municipios se sustenta en el proceso de planeación, 
 
 La planeación para el desarrollo se sustenta en los principios de simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de precisión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos.
 
+> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 5.
 
-La planeación democrática tiene por objeto el desarrollo del Estado de México y Municipios, con pleno respeto a la soberanía estatal y a la autonomía municipal, en concordancia con los fines sociales, económicos y políticos que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
+La planeación democrática tiene por objeto el desarrollo del Estado de México y Municipios, con pleno respeto a la soberanía estatal y a la autonomía municipal, en concordancia con los fines sociales, económicos, ambientales y políticos que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
 
 ###### Artículo 6.
 
@@ -99,9 +101,13 @@ Convenio de participación. Instrumento de orden público por medio del cual la 
 
 Corto plazo. Período hasta de un año, en el cual el presupuesto por programas determina y orienta en forma detallada las asignaciones y el destino de los recursos para la realización de acciones concretas.
 
-Desarrollo. Es el proceso de cambio social que persigue como finalidad última de igualación de las oportunidades sociales, políticas y económicas de los habitantes de una delimitación territorial.
+> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
-Diagnóstico. Descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política y social de algún fenómeno o variable que se deseé estudiar.
+Desarrollo. Es el proceso de cambio social que persigue como finalidad última de igualación de las oportunidades sociales, políticas, económicas y de desarrollo en un medio ambiente adecuado de los habitantes de una delimitación territorial.
+
+> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+
+Diagnóstico. Descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, ambiental, política y social de algún fenómeno o variable que se deseé estudiar.
 
 Ejecución. Realizar, hacer o llevar a la práctica lo que se ha establecido en la fase de programación.
 
@@ -121,7 +127,9 @@ Planeación estratégica. Proceso que orienta a las dependencias, organismos, en
 
 Presupuesto por programas. Instrumento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, que contiene la asignación de recursos en forma jerarquizada y oportuna a los proyectos y acciones que contienen los programas de gobierno. Es el vínculo del ejercicio del gasto público con los planes de desarrollo.
 
-Proceso de planeación para el desarrollo. Fases en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, programación, presupuestación, ejecución y evaluación.
+> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+
+Proceso de Planeación para el Desarrollo. Fases en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, ambientales, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, programación, presupuestación, ejecución y evaluación.
 
 Programa. Instrumento de los planes que ordena y vincula, cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta, que contribuirá a lograr los objetivos de los planes de desarrollo.
 
@@ -131,19 +139,19 @@ Programa especial. Instrumento que contiene las prioridades para el desarrollo y
 
 Programa regional. Instrumento que incluye los proyectos y acciones de ámbito regional considerados prioritarios o estratégicos, en función de las objetivos y metas fijados en los planes de desarrollo.
 
-Programa sectorial. Instrumento de los planes de desarrollo que comprende proyectos y acciones relativos a un sector de la economía y/o de la sociedad, coordinado por una o más dependencias. Se integran bajo la responsabilidad de las dependencias coordinadoras de los sectores, atendiendo a las estrategias del desarrollo del Estado de México y municipios.
+Programa sectorial. Instrumento de los planes de desarrollo que comprende proyectos y acciones relativos a un sector de la economía y/o de la sociedad, coordinado por una o mas dependencias. Se integran bajo la responsabilidad de las dependencias coordinadoras de los sectores, atendiendo a las estrategias del desarrollo del Estado de México y municipios.
 
 Región. Porción del territorio estatal que integran varios municipios y que se identifican por semejanzas geográficas, socioeconómicas o político-administrativas.
 
 Secretaría. Secretaría de Finanzas y Planeación del Gobierno del Estado de México.
 
-Sistema de Planeación Democrática para el desarrollo del Estado de México y Municipios. Conjunto articulado de procesos, planes, programas, proyectos, acciones e instrumentos de carácter social, político, económico, legal y técnico, así como de mecanismos de concertación, coordinación y cooperación entre los tres órdenes de gobierno, grupos y organizaciones sociales y privados, que se interrelacionan entre sí, para ejecutar acciones de planeación para el desarrollo integral del Estado y municipios.
+> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+
+Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios. Conjunto articulado de procesos, planes, programas, proyectos, acciones e instrumentos de carácter social, político, económico, ambiental, legal y técnico, así como de mecanismos de concertación, coordinación y cooperación entre los tres órdenes de gobierno, grupos y organizaciones sociales y privados, que se interrelacionan entre sí, para ejecutar acciones de planeación para el desarrollo integral del Estado y municipios.
 
 Sistema Estatal de Información. Procesos utilizados para integrar, conformar, actualizar, resguardar y divulgar el acervo de información del Estado de México y municipios, buscando la homogeneidad de la información entre las dependencias, organismos, entidades y unidades administrativas del sector público estatal y municipal que dan sustento al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios.
 
-### CAPITULO SEGUNDO. DE LA PLANEACION DEMOCRATICA PARA EL DESARROLLO
-
-DEL ESTADO DE MEXICO Y MUNICIPIOS
+### CAPITULO SEGUNDO. DE LA PLANEACION DEMOCRATICA PARA EL DESARROLLO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
 ###### Artículo 11.
 
@@ -329,7 +337,11 @@ III. Aplicar las normas y metodología correspondientes a la información estad�
 
 IV. Cumplir con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México y sus programas;
 
-V. Las demás que se establezcan en otros ordenamientos.
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
+
+V. Crear el indicador genérico de degradación ambiental que permitirá identificar las zonas del Estado y los municipios con mayor grado de deterioro ambiental;
+
+VI. Las demás que se establezcan en otros ordenamientos.
 
 ### CAPITULO TERCERO. DE LOS PLANES DE DESARROLLO Y SUS PROGRAMAS
 
@@ -427,7 +439,7 @@ El Ejecutivo del Estado podrá celebrar convenios de coordinación con el Ejecut
 
 > <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2003)</small>
 
-Tratándose de convenios de coordinacion que involucren recursos del gasto de inversión pública, los Ayuntamientos deberán cumplir con los requisitos que en esta materia señala el Código Financiero del Estado de México y Municipios, a fin de fortalecer el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios.
+Tratándose de convenios de coordinación que involucren recursos del gasto de inversión pública, los Ayuntamientos deberán cumplir con los requisitos que en esta materia señala el Código Financiero del Estado de México y Municipios, a fin de fortalecer el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios.
 
 > <small>(ADICIONADO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
 
@@ -457,9 +469,7 @@ Los convenios a que se refiere el presente capítulo deberán asegurar el fortal
 
 Los gobiernos estatal y municipales, así como sus dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos al momento de celebrar los convenios a que se refiere el presente capítulo, deberán sujetarse a los objetivos y metas previstos en los programas derivados de los planes de desarrollo y demás disposiciones aplicables.
 
-### CAPITULO SEXTO. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO
-
-DEL ESTADO DE MEXICO Y DE LOS MUNICIPIOS
+### CAPITULO SEXTO. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE MEXICO Y DE LOS MUNICIPIOS
 
 ###### Artículo 44.
 
@@ -626,3 +636,9 @@ G.G. 22 DE NOVIEMBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 23 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta de Gobierno".
