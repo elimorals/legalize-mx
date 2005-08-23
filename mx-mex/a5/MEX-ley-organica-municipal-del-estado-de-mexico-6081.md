@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2005-06-27"
+last_updated: "2005-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -625,47 +625,55 @@ XXIII. Preservar, conservar y restaurar el medio ambiente;
 
 XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones privadas; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
 
-XXV. Constituir o participar en empresas Paramunicipales y Fideicomisos;
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-XXVI. Enajenar y dar en arrendamiento, usufructo o comodato los bienes del municipio, previa autorización, en su caso, de la Legislatura del Estado;
+XXV. Coadyuvar con la Secretaría del Medio Ambiente a la creación y desarrollo del mercado de derechos de uso del medio ambiente;
 
-XXVII. Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo;
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-XXVIII. Desafectar del servicio público los bienes municipales o cambiar el destino de los bienes inmuebles dedicados a un servicio público o de uso común;
+XXVI. Trasladar, por medio de los mecanismos fiscales con los que cuenta, el costo de la degradación municipal a los agentes públicos y privados contaminantes finales;
 
-XXIX. Introducir métodos y procedimientos en la selección y desarrollo del personal de las áreas encargadas de los principales servicios públicos, que propicien la institucionalización del servicio civil de carrera municipal;
+XXVII. Constituir o participar en empresas Paramunicipales y Fideicomisos;
 
-XXX. Sujetar a sus trabajadores al régimen de seguridad social establecido en el Estado;
+XXVIII. Enajenar y dar en arrendamiento, usufructo o comodato los bienes del municipio, previa autorización, en su caso, de la Legislatura del Estado;
 
-XXXI. Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del municipio;
+XXIX. Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo;
 
-XXXII. Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación;
+XXX. Desafectar del servicio público los bienes municipales o cambiar el destino de los bienes inmuebles dedicados a un servicio público o de uso común;
 
-XXXIII. Coadyuvar en la ejecución de los planes y programas federales y estatales;
+XXXI. Introducir métodos y procedimientos en la selección y desarrollo del personal de las áreas encargadas de los principales servicios públicos, que propicien la institucionalización del servicio civil de carrera municipal;
 
-XXXIV. Publicar por lo menos una vez al año la "Gaceta Municipal" como órgano oficial para la publicación de los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+XXXII. Sujetar a sus trabajadores al régimen de seguridad social establecido en el Estado;
 
-XXXV. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
+XXXIII. Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del municipio;
 
-XXXVI. Nombrar al cronista municipal para el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su municipio y con el Estado y que supervise el archivo de los documentos históricos municipales;
+XXXIV. Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación;
 
-XXXVII. Promover en la esfera de su competencia lo necesario para el mejor desempeño de sus funciones;
+XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales;
+
+XXXVI. Publicar por lo menos una vez al año la "Gaceta Municipal" como órgano oficial para la publicación de los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+
+XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
+
+XXXVIII. Nombrar al cronista municipal para el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su municipio y con el Estado y que supervise el archivo de los documentos históricos municipales;
+
+XXXIX. Promover en la esfera de su competencia lo necesario para el mejor desempeño de sus funciones;
 
 > <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVIII. Los municipios de manera libre decidirán si tienen oficialías mediadoras-conciliadoras en funciones separadas o en conjunto;
+XL. Los municipios de manera libre decidirán si tienen oficialías mediadoras-conciliadoras en funciones separadas o en conjunto;
 
 > <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIX. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
+XLI. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
 
 > <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-XL. Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
+XLII. Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
 
 > <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-XLI. Las demás que señalen las leyes y otras disposiciones legales.
+XLIII. Las demás que señalen las leyes y otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -2366,3 +2374,9 @@ G.G. 27 DE JUNIO DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 23 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
