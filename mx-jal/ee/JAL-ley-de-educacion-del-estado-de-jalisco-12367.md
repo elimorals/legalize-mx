@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2005-04-26"
+last_updated: "2005-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1281,19 +1281,21 @@ V.- Propiciar el mejoramiento social y cultural de sus miembros, y
 
 VI.- Todo aquello que prevengan los reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 130.
 
-Las Asociaciones de Padres de Familia podrán:
+Las asociaciones de padres de familia podrán:
 
 I.- Proponer y promover en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2005)</small>
 
 II.- Reunir fondos con participaciones voluntarias o actividades que libremente desarrollen sus integrantes para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa mediante bienes o servicios, mismos que no serán considerados como contraprestaciones del servicio público de educación.
 
-Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota que se solicite a los integrantes son totalmente libres y voluntarios y por tanto, la ausencia en su pago en ningún caso podrá condicionar algunos de los derechos de los educandos.
+Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota que se solicite a los integrantes son totalmente libres y voluntarias, por lo tanto, las mismas no podrán requerirse en periodo que comprenda los trámites de solicitudes recepción y devolución de documentos, así como inscripción, entrega de constancias y certificados que acrediten los niveles o grados de estudios cursados o algún derecho de los educandos. La ausencia en dicha aportación no podrá condicionar ninguno de los derechos de los educandos.
 
-Queda estrictamente prohibido a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualesquier otra aportación que deban otorgar a estas asociaciones.
+Queda estrictamente prohibido a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualquiera otra aportación que con sentido de obligatoriedad sea requerida por estas asociaciones. El Secretario de Educación del Estado de Jalisco tendrá la obligación de vigilar, respetar y hacer valer lo establecido en la presente fracción. La violación a la misma será causa de responsabilidad para los servidores públicos que la cometan;
 
 III.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros;
 
@@ -1736,5 +1738,9 @@ SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones nece
 P.O. 26 DE ABRIL DE 2005.
 
 DECRETO NUMERO 20902, QUE REFORMA FRACCIONES XXXI Y XXXII DEL ART. 14
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
