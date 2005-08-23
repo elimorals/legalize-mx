@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2005-08-22"
+last_updated: "2005-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -871,11 +871,11 @@ XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, exp
 
 XXI.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 32 Bis.
 
-La Secretaría del Medio Ambiente, es el órgano encargado de la formulación, ejecución y evaluación de la política estatal en materia de conservación ecologia (sic), biodiversidad y protección al medio ambiente para el desarrollo sostenible.
+La Secretaría del Medio Ambiente, es el órgano encargado de la formulación, ejecución y evaluación de la política estatal en materia de conservación ecológica, biodiversidad y protección al medio ambiente para el desarrollo sostenible.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
@@ -897,31 +897,51 @@ VII. Implantar medidas y mecanismos para prevenir, restaurar y corregir la conta
 
 VIII. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente.
 
-IX. Promover la educación y la participación comunitaria, social y privada, para la preservación y restauración de los recursos naturales y la protección del ambiente.
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-X. Aplicar la normatividad para el manejo y disposición final de los residuos industriales, así como para la construcción de los sistemas de tratamiento de aguas residuales.
+IX. Fomentar la creación y desarrollo del mercado de derechos de uso del medio ambiente.
 
-XI. Promover y ejecutar directamente o por terceros, la construcción y operación de instalaciones para el tratamiento de residuos industriales, desechos sólidos, tóxicos y aguas residuales.
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-XII. Concesionar la construcción, administración, operación y conservación de las instalaciones a que se refiere la fracción anterior.
+X. Desarrollar los mecanismos de regulación del mercado de derechos de uso del medio ambiente.
 
-XIII. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en la Entidad.
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-XIV. Regular y promover la protección y preservación de los recursos de fauna y flora silvestres en territorio del Estado.
+XI.- Fijar, a través del indicador genérico de degradación ambiental que elabore el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, los topes de utilización de los derechos de uso del medio ambiente.
 
-XV. Declarar las áreas naturales protegidas de interés Estatal.
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-XVI. Fomentar, ejecutar y en su caso, operar parques y áreas verdes.
+XII. Determinar el valor económico de los derechos de uso del medio ambiente y de las penalizaciones en que incurran los agentes, cuidando en todo momento de establecer un mecanismo eficiente de incentivos y desincentivos que contribuya a la reducción de la tasa de degradación ambiental.
 
-XVII. Administrar, vigilar y controlar los parques naturales que tenga a su cargo.
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
-XVIII. Promover y fomentar las investigaciones ecológicas.
+XIII. Incentivar la participación e inversión de los agentes productivos en proyectos de recuperación ambiental.
 
-XIX. Emitir dictámenes técnicos para cuantificar el daño causado al ambiente.
+XIV. Promover la educación y la participación comunitaria, social y privada, para la preservación y restauración de los recursos naturales y la protección del ambiente.
 
-XX. Aplicar las sanciones previstas en las disposiciones legales de la materia y promover la aplicación de las que corresponda a otras autoridades.
+XV. Aplicar la normatividad para el manejo y disposición final de los residuos industriales, así como para la construcción de los sistemas de tratamiento de aguas residuales.
 
-XXI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+XVI. Promover y ejecutar directamente o por terceros, la construcción y operación de instalaciones para el tratamiento de residuos industriales, desechos sólidos, tóxicos y aguas residuales.
+
+XVII. Concesionar la construcción, administración, operación y conservación de las instalaciones a que se refiere la fracción anterior.
+
+XVIII. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en la Entidad.
+
+XIX. Regular y promover la protección y preservación de los recursos de fauna y flora silvestres en territorio del Estado.
+
+XX. Declarar las áreas naturales protegidas de interés Estatal.
+
+XXI. Fomentar, ejecutar y en su caso, operar parques y áreas verdes.
+
+XXII. Administrar, vigilar y controlar los parques naturales que tenga a su cargo.
+
+XXIII. Promover y fomentar las investigaciones ecológicas.
+
+XXIV. Emitir dictámenes técnicos para cuantificar el daño causado al ambiente.
+
+XXV. Aplicar las sanciones previstas en las disposiciones legales de la materia y promover la aplicación de las que corresponda a otras autoridades.
+
+XXVI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -1618,3 +1638,9 @@ SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales sig
 TERCERO.- En todos los ordenamientos legales en lo que se haga alusión a la Secretaría de Ecología se entenderá que se hace referencia a la Secretaría del Medio Ambiente.
 
 CUARTO.- Se derogan las disposiciones legales de igual o menor rango que se opongan a los preceptos de este Decreto.
+
+G.G. 23 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
