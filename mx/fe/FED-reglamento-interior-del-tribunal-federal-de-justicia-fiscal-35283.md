@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-352
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2003-12-19"
+last_updated: "2005-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 19 de diciembre de 2003.
 
@@ -391,7 +391,9 @@ VIII. Centro I, que comprende los Estados de Zacatecas y Aguascalientes;
 
 IX. Centro II, que comprende los Estados de San Luis Potosí y Querétaro;
 
-X. Centro III, que comprende los Estados de Guanajuato y Michoacán;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO G/29/2005 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 24 DE AGOSTO DE 2005)</small>
+
+X. Centro III, que comprende el Estado de Guanajuato;
 
 XI. Hidalgo-México, que comprende los Estados de Hidalgo y de México;
 
@@ -411,7 +413,11 @@ XVIII. Golfo Norte, que comprende el Estado de Tamaulipas, con excepción de los
 
 XIX. Chiapas-Tabasco, que comprende los Estados de Chiapas y Tabasco;
 
-XX. Caribe, que comprende el Estado de Quintana Roo.
+XX. Caribe, que comprende el Estado de Quintana Roo;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO G/29/2005 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 24 DE AGOSTO DE 2005)</small>
+
+XXI. Pacífico-Centro, que comprende el Estado de Michoacán.
 
 ###### Artículo 24.
 
@@ -445,7 +451,9 @@ XIII. Región del Golfo: Una Sala, que se denominará: Sala Regional del Golfo, 
 
 XIV. Región del Pacífico: Una Sala, que se denominará: Sala Regional del Pacífico, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
-XV. Región del Sureste: Una Sala que se denominará: Sala Regional del Norte-Centro I, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
+> <small>(REFORMADA POR EL ACUERDO G/28/2005 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 24 DE AGOSTO DE 2005)</small>
+
+XV.- Región del Sureste: Una Sala que se denominará: Sala Regional del Sureste, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
 
 XVI. Región Peninsular: Una Sala, que se denominará: Sala Regional Peninsular, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
@@ -1824,3 +1832,17 @@ Artículo Cuarto.- El Presidente de la Sala Regional a la que corresponda la Coo
 Artículo Quinto.- Las disposiciones de este Reglamento que regulan la competencia de la Coordinación de Apoyo Especializado y de las Direcciones Generales de Planeación y Normatividad, de Comunicación Social y de Asuntos Jurídicos, así como la Coordinación de Secretarios de Acuerdos Auxiliares y los Secretarios de Acuerdos Auxiliares, comenzarán a regir, en la fecha en que se señale por el Pleno el inicio de sus actividades, mediante Acuerdo que se publique en el Diario Oficial de la Federación.
 
 Así lo acordó el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, en sesión del día ocho de diciembre de dos mil tres.- Firman el Magistrado Alejandro Sánchez Hernández, Presidente del Tribunal Federal de Justicia Fiscal y Administrativa y la licenciada Rosana Edith de la Peña Adame, Secretaria General de Acuerdos, quien da fe.- Conste.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 24 DE AGOSTO DE 2005.
+
+ACUERDO G/28/2005 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 24 DE AGOSTO DE 2005.
+
+ACUERDO G/29/2005 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
