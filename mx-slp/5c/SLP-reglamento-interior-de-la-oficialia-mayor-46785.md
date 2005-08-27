@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-oficialia-mayor-46785"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2002-07-30"
+last_updated: "2005-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2005.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 30 de julio de 2002.
 
@@ -53,7 +53,7 @@ c) Contraloría Interna.
 
 d) Dirección de Organización y Métodos.
 
-e) Orquesta Sinfónica del Estado de San Luis Potosí.
+e) (DEROGADO, P.O. 27 DE AGOSTO DE 2005)
 
 II.- La Dirección General de Servicios Administrativos de la que, a su vez dependen directamente las siguientes Direcciones de Área:
 
@@ -63,9 +63,11 @@ b) Dirección de Servicios Generales.
 
 c) Dirección de Archivo General del Estado.
 
-III.- La Dirección General de Recursos Humanos de la que, a su vez dependen directamente las siguientes Direcciones de Área:
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2005)</small>
 
-a) Dirección de Capacitación, Selección y Valoración del Personal.
+III.- La Dirección General de Recursos Humanos de la que a su vez dependen directamente las siguientes Direcciones de Área:
+
+a) Dirección de Desarrollo Humano.
 
 b) Dirección de Administración de Recursos Humanos.
 
@@ -241,21 +243,7 @@ Corresponde a la Contraloría Interna las funciones señaladas en el artículo 1
 
 ###### ARTÍCULO 12.
 
-La Orquesta Sinfónica del Estado de San Luis Potosí, tendrá las siguientes atribuciones:
-
-I.- Fomentar la estructura profesional, en la que se encuentra constituida una orquesta sinfónica, con la capacidad de abordar excelencia artística del repertorio musical internacional, nacional y de la entidad en su máximo nivel de expresión;
-
-II.- Impulsar programas de desarrollo cultural en el Estado, mediante actividades de difusión y de apoyo formativo musical, a través de convenios interistitucionales (sic) en los diferentes niveles de gobierno;
-
-III.- Apoyar y fomentar los programas socioculturales que contribuyan a mejorar la problemática social de la entidad, mediante la difusión musical sinfónico-coral;
-
-IV.-·Reforzar programas de acciones pedagógicas encaminadas al desarrollo de las instituciones especializadas en la formación musical de los niños y jóvenes;
-
-V.- Participar con respeto y oportunidad a lograr los objetivos, políticas sectoriales y programas estratégicos del Plan Estatal de Desarrollo de San Luis Potosí;
-
-VI.- Promover la participación de los organismos oficiales y de la sociedad civil, en el cumplimiento de los fines señalados; y
-
-VII.- Las demás que establezca el Manual de Procedimientos.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2005)
 
 ###### ARTÍCULO 13.
 
@@ -397,7 +385,9 @@ IX.- Planear y ejecutar programas de inducción al personal de nuevo ingreso, y 
 
 X.- Aplicar y promover el programa de capacitación permanente dirigido a los funcionarios y trabajadores al servicio del Gobierno del Estado, dotándolos de conocimientos e instrumentos que le permitan mejorar el servicio en las funciones que tienen dentro de la administración conforme al Plan Estatal de Desarrollo y de las prioridades señaladas por el titular del Ejecutivo;
 
-XI. Participar en el Programa de Modernización Administrativa;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2005)</small>
+
+XI.- Proponer y coordinar los procesos y lineamientos para el establecimiento, implementación y operación del Servicio Profesional de Carrera;
 
 XII.- Promover y programar actividades deportivas dirigidas al trabajador del Gobierno del Estado, para coadyuvar en el bienestar físico y mental;
 
@@ -572,3 +562,15 @@ EL OFICIAL MAYOR
 LIC. RAÚL JULIO DUFOO OLVERA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2005.
+
+###### ARTICULO PRIMERO
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas aquellas disposiciones administrativas que contravengan al presente decreto.
