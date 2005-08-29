@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-para-los-no-fumadores-del-estado-de-nuevo-420
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-14"
-last_updated: "2004-12-14"
+last_updated: "2005-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 29 DE AGOSTO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 14 de diciembre de 2004.
 
@@ -45,9 +45,13 @@ La presente Ley es de orden público e interés general y tiene por objeto:
 
 I. Proteger la salud de las personas no fumadoras de los daños que causa inhalar involuntariamente el humo del tabaco en los sitios señalados en esta Ley;
 
-II. Promover la cultura de tolerancia y respeto entre las personas fumadoras y no fumadoras;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
 
-III. Prevenir, concienciar y difundir los daños en la salud que ocasiona el consumo inmoderado de tabaco, a través de las campañas que al efecto la Secretaría realice en la población en general, principalmente entre los menores de edad y mujeres embarazadas;
+II. Promover la cultura de espacios libres del humo del tabaco, con el objeto de modificar la tolerancia social hacia el tabaquismo, proteger auténticamente a los no fumadores y persuadir a los fumadores a dejar de fumar;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+
+III. Prevenir, concienciar (sic) y difundir los daños en la salud que ocasiona el uso desmedido del tabaco, a través de las campañas que al efecto la Secretaría realice en la población, principalmente entre los niños, adolescentes jóvenes y mujeres embarazadas;
 
 IV. Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco; y
 
@@ -57,13 +61,19 @@ V. Establecer las sanciones para los que incumplan lo previsto en esta Ley.
 
 La aplicación y vigilancia del cumplimiento de las disposiciones contenidas en la presente Ley, corresponde, en el ámbito de sus atribuciones:
 
-I. Al titular del Ejecutivo del Estado, por conducto de la Secretaría de Salud, en lo que respecta a la inspección de los establecimientos, y por conducto de la autoridad que al efecto determine, en lo que respecta a las obligaciones de los dueños y conductores del transporte público o escolar; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
 
-II. A los Presidentes Municipales, por conducto de las autoridades competentes, en lo que respecta a la inspección de los establecimientos y la sanción a las personas que fumen en los lugares prohibidos para ello.
+I. Al Ejecutivo del Estado, por conducto de las dependencias y entidades que sean competentes conforme a esta Ley; y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+
+II. A los Municipios por conducto de las dependencias y entidades municipales competentes en términos de esta Ley y sus Reglamentos respectivos.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 3.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que describe este ordenamiento, se aplicará supletoriamente, según corresponda, la Ley Estatal de Salud, las disposiciones en materia de transporte o los reglamentos municipales correspondientes.
+A falta de disposición expresa y en cuanto no se oponga a lo que describe este ordenamiento, se aplicará supletoriamente, según corresponda, la Ley Estatal de Salud, la Ley de Educación del Estado, la Ley de Transporte para el Estado de Nuevo León y los demás ordenamientos que por su naturaleza y materia deban observarse para el debido cumplimiento de la presente ley.
 
 ###### Artículo 4.
 
@@ -73,11 +83,15 @@ I. Dueño: el propietario, la persona física o moral a nombre de quien se encue
 
 II. Escuelas: los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
 
-III. Establecimientos: los locales; oficinas o negocios; cines, teatros, museos, auditorios; hospitales; tiendas de autoservicio y de conveniencia, comerciales o de servicio; escuelas; restaurantes; hoteles; y cualquier otra área cerrada distinta a las señaladas a las que tenga acceso el público en general;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+
+III. Establecimiento. Área interior, o bien la porción bajo el control de algún patrón en el que sus empleados presten servicios, incluyendo las ubicadas al exterior o porciones relativas de las mismas, entre los cuales se incluye de manera enunciativa más no limitativa, los locales; oficinas o negocios; asociaciones de beneficencia; instituciones educativas y espacios escolares; bancos; instituciones financieras; cafeterías; restaurantes; negocios de venta de comida; recepción; lobby; gimnasios; fábricas, baños, pasillos, escaleras interiores, bibliotecas, salas de juntas o conferencias; cuartos o áreas con equipo de fotocopiado; vehículos de la compañía; lugares recreativos de boliche y/o billar; cines, teatros, museos, auditorios; hospitales; tiendas de autoservicio, de convivencia, comerciales o de servicio; escuelas; hoteles, moteles y posadas;
 
 IV. Reincidencia: cuando el infractor cometa violaciones a las disposiciones de esta Ley, dos o más veces, dentro del período de dos años, contando a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
 
-V. Sección: área delimitada de un establecimiento; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+
+V. Sección. Espacio delimitado estructuralmente en cualquiera de sus modalidades;
 
 VI. Secretaría: la Secretaría de Salud.
 
@@ -87,7 +101,9 @@ VI. Secretaría: la Secretaría de Salud.
 
 Se prohibe fumar en:
 
-I. Los edificios públicos de los Poderes Ejecutivo, Legislativo, Judicial, municipales, órganos autónomos reconocidos por la Constitución Política del Estado, organismos del sector paraestatal o paramunicipal, y en general, de las administraciones públicas, incluidas las del ámbito federal;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+
+I. Los edificios públicos de los Poderes Ejecutivo, Legislativo, Judicial, municipales, órganos autónomos, organismos de sector paraestatal o paramunicipal y, en general, los demás que sean destinados para la prestación de servicios al público;
 
 II. Las áreas cerradas de las bibliotecas y hemerotecas públicas;
 
@@ -121,17 +137,23 @@ Las secciones para fumar deberán contar además con la debida ventilación y se
 
 Estas secciones podrán ser delimitadas en las áreas abiertas con que cuenten los establecimientos a que se refiere este Artículo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 8.
 
-Cuando los dueños o empleados de los establecimientos, adviertan que una persona está fumando en la sección de no fumar, deberán exhortarlo a que deje de hacerlo e invitarlo a cambiarse a la sección indicada. Si se negase a dejar de fumar o a reubicarse, deberá suspender el servicio y exhortarlo a salir; en caso de negativa, se podrá solicitar el auxilio de la fuerza pública a fin de dar cumplimiento a lo dispuesto en esta Ley.
+Cuando los dueños o empleados de los establecimientos, adviertan que una persona está fumando en la sección de no fumar, deberán exhortarlo a que deje de hacerlo, debe invitarlo a cambiarse a la sección indicada. Si se negase a dejar de fumar o a reubicarse, se le deberá suspender el servicio y exhortarlo a salir. En caso de negativa se podrá solicitar el auxilio de la fuerza pública municipal, a fin de que el infractor sea retirado del lugar y lo ponga a disposición de la autoridad correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 9.
 
-Los dueños de los vehículos de transporte público o escolar, deberán fijar en el interior y exterior de los mismos letreros o emblemas que indiquen la prohibición de fumar.
+Los dueños de los vehículos de transporte público o escolar, deberán, fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar, de acuerdo a las características y requisitos que determine la Secretaría en coordinación con la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 10.
 
-Cuando el dueño o conductor de un vehículo de transporte público o escolar advierta que una persona esté fumando en el interior del mismo, lo conminará a dejar de hacerlo. De no atender la exhortación, lo invitará a bajar y si se niega, solicitará el auxilio de la fuerza pública; en el caso del transporte escolar, además se deberá reportar lo sucedido a la Dirección de la escuela, para que se tomen las medidas disciplinarias que correspondan.
+Cuando el dueño o conductor de un vehículo de transporte público o escolar advierta que una persona esté fumando en el interior del mismo, lo conminará a dejar de hacerlo. De no atender la exhortación, lo invitará a bajar y si se niega, solicitará el auxilio de la fuerza pública municipal a fin de que el infractor sea retirado del vehículo. En el caso de transporte escolar, la autoridad municipal que tome conocimiento de los hechos deberá informar a la Secretaría de Educación y a la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, para que se tomen las medidas que correspondan.
 
 ### CAPÍTULO III. DE LA DIVULGACIÓN Y CONCIENCIACIÓN DE LOS EFECTOS NOCIVOS DEL TABACO
 
@@ -149,15 +171,17 @@ El Ejecutivo del Estado, a través de la Secretaría, se coordinará y coadyuvar
 
 La Secretaría, en coordinación con las autoridades federales, estatales, municipales y los sectores social y privado, implementará programas preventivos permanentes contra los efectos nocivos causados por el consumo inmoderado del tabaco, a fin de fomentar que sus disposiciones sean aplicadas.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 14.
 
-La Secretaría promoverá entre la población en general actividades alusivas a la difusión de las campañas y programas que se implementen para el objeto de esta Ley, a fin de inculcar el respeto y la tolerancia entre las personas fumadoras y no fumadoras.
+La Secretaría promoverá entre la población en general actividades alusivas a la difusión de las campañas y programas que se implementen para el mejor cumplimiento del objeto de esta Ley, a fin de promover la cultura de espacios libres del humo de tabaco.
 
-En los sectores públicos y privados se promoverá la implementación de programas de salud a favor de los trabajadores con adicción al tabaco.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 15.
 
-La Secretaría realizará las acciones conducentes a efecto de promover la participación de las industrias tabacaleras para llevar a cabo campañas preventivas y de concienciación sobre los efectos nocivos del tabaco, principalmente en mujeres embarazadas y menores de edad.
+La Secretaría realizará las acciones conducentes a efecto de promover la participación de las industrias tabacaleras en el Estado, para llevar a cabo campañas preventivas y de concienciación (sic) sobre los efectos nocivos del tabaco, principalmente en mujeres embarazadas y menores de edad.
 
 ### CAPÍTULO IV. DE LA INSPECCIÓN Y LA VIGILANCIA
 
@@ -167,9 +191,11 @@ La vigilancia de esta Ley les corresponde a las autoridades señaladas en el Art
 
 Serán coadyuvantes de las mismas, los dueños y empleados de los establecimientos señalados en esta Ley; así como los dueños y conductores de los vehículos del transporte público o escolar.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 17.
 
-Los ciudadanos y las Asociaciones de Padres de Familia de las escuelas podrán coadyuvar en las acciones de vigilancia para garantizar que se cumpla con la prohibición de fumar en los lugares establecidos por esta Ley.
+Los ciudadanos y las asociaciones de padres de familia de las escuelas deberán coadyuvar en las acciones de vigilancia para garantizar que se cumplan con la prohibición de fumar en los lugares establecidos por esta Ley, en coordinación y de acuerdo con lo señalado en los programas de prevención permanentes llevados a cabo por la Secretaría y las autoridades educativas.
 
 ###### Artículo 18.
 
@@ -183,9 +209,11 @@ Las autoridades señaladas en el Artículo 2, según corresponda, realizarán la
 
 En la diligencia de inspección, se deberá observar lo que al efecto dispone la Ley de Salud del Estado de Nuevo León, o en su caso lo que determinen los reglamentos municipales en la materia.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 21.
 
-Con base en el resultado de la inspección, las autoridades competentes dictarán las medidas para corregir, en su caso, las irregularidades que se hubieran encontrado, notificándolas al interesado para que sean corregidas en un plazo adecuado para su realización.
+Con base en el resultado de la verificación o inspección, la Secretaría de Salud, Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León o en su caso el Municipio, dictarán las medidas para corregir las irregularidades que se hubieran encontrado, notificándolas al interesado para que sean corregidas dentro de un plazo no mayor a noventa días hábiles a partir de la notificación correspondiente.
 
 ###### Artículo 22.
 
@@ -193,9 +221,11 @@ La autoridad competente, hará uso de las medidas legales necesarias, incluyendo
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 23.
 
-Con base a los datos o información que consten en el acta de inspección, las autoridades señaladas en el Artículo 2, iniciarán el procedimiento administrativo, para cuyo efecto notificará al dueño, responsable o encargado, a fin de que en el término de cinco días ofrezca pruebas y alegue lo que a su derecho convenga.
+Con base en los datos o información que consten en el acta de inspección o verificación, la autoridad que resulte competente, iniciará el procedimiento administrativo siempre y cuando del acta se desprendan elementos de infracción, para cuyo efecto dará a conocer al infractor, dueño, responsable o encargado las anomalías detectadas mediante citatorio a fin de que en el término de cinco días ofrezca pruebas y alegue lo que a su derecho convenga.
 
 ###### Artículo 24.
 
@@ -233,11 +263,15 @@ II. Por edicto, cuando se desconozca su domicilio.
 
 Las notificaciones personales efectuadas serán en el domicilio señalado por el interesado o en su defecto, en el domicilio donde se ubique el establecimiento. El notificador deberá cerciorarse del domicilio del interesado por el informe de dos vecinos mayores de edad, de lo que se tomará razón pormenorizada, suscribiendo aquellos el acta, si quisieran y supieran hacerlo, y se deberá entregar copia en donde conste el acto que se notifique, señalando fecha y hora en que se efectúa, recabando nombre y firma o en su caso huella digital de la persona con quien se entienda la diligencia.
 
-En la notificación personal se levantará acta circunstanciada, la cual deberá ser firmada por las personas que intervengan y por dos testigos mayores de edad que nombre la persona con quien se entienda la diligencia, en el entendido de que el notificador o inspector podrá designarlos en el caso que aquella se niegue a hacerlo.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+En la notificación personal se levantará acta circunstanciada, la cual deberá ser firmada por las personas que intervengan y por dos testigos mayores de edad que nombre la persona con quien se entienda la diligencia, en el entendido de que el notificador, inspector o verificador podrá designarlos en el caso que aquélla se niegue a hacerlo.
 
 Dado el caso se hará constar en el acta de notificación la negativa a firmar de la persona con quien se entiende la diligencia, sin que ello afecte su validez; debiendo entregar copia de la misma al interesado.
 
-Las notificaciones personales, se entenderán con la persona que debe ser notificada o con su representante legal; a falta de ambos, se dejará citatorio con cualquier persona mayor de edad que se encuentre en el domicilio para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, se hará constar lo anterior y el inspector solicitará el apoyo del juez auxiliar o quien haga sus veces, a fin de que por su conducto se haga llegar el citatorio; de no existir en el lugar un juez auxiliar, el citatorio deberá hacerse a través de la Secretaría del Ayuntamiento del lugar en que se ubique el establecimiento.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+Las notificaciones personales, se entenderán con la persona que debe ser notificada o con su representante legal; a falta de ambos, se dejará citatorio con cualquier persona mayor de edad que se encuentre en el domicilio para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, se hará constar lo anterior y el inspector o verificador solicitará el apoyo del juez auxiliar o quien haga sus veces, a fin de que por su conducto se haga llegar el citatorio; de no existir en el lugar tal colaborador de la administración pública, el citatorio deberá hacerse a través de la Secretaría del Ayuntamiento del lugar en que se ubique el establecimiento o domicilio del infractor.
 
 ###### Artículo 32.
 
@@ -251,9 +285,11 @@ En lo no previsto en el presente Capítulo, se aplicará supletoriamente el Cód
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 34.
 
-Las violaciones a los preceptos de esta Ley, serán sancionadas administrativamente por la Secretaría o por la autoridad municipal competente, según sea el caso.
+Las violaciones a los preceptos de esta Ley, serán sancionadas administrativamente por las autoridades señaladas en el artículo 2, que resulte competente de acuerdo al lugar y naturaleza de la infracción conforme a los supuestos establecidos en este mismo ordenamiento.
 
 ###### Artículo 35.
 
@@ -285,7 +321,9 @@ g) En los elevadores de edificios públicos o particulares destinados al uso del
 
 h) En cualquier otra área cerrada, distinta a las señaladas en las fracciones I a XI del Artículo 5 de la presente Ley, a las que tenga acceso el público en general y no cuenten con secciones de fumar y de no fumar; o
 
-i) En los edificios públicos de los Poderes Ejecutivo, Legislativo, Judicial, municipales, órganos autónomos reconocidos por la Constitución Política del Estado, organismos del sector paraestatal o paramunicipal y en general, de las administraciones públicas, incluidas las del ámbito federal;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+i). En los edificios públicos de los Poderes Ejecutivos, Legislativo, Judicial, municipales, órganos autónomos, organismos del sector paraestatal o paramunicipal y en general, de las administraciones públicas.
 
 II. Con multa de 30 a 50 cuotas, a los dueños, empleados o conductores, que permitan fumar:
 
@@ -297,15 +335,21 @@ c) En los vehículos de transporte público o escolar; o
 
 d) En los establecimientos o secciones en que se encuentre prohibido fumar;
 
-II (SIC). Con multa de 30 a 50 cuotas, al dueño que incumpla con la obligación de:
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+
+III. Con multa de 30 a 50 cuotas, al dueño que incumpla con la obligación de:
 
 a) Acondicionar las secciones de no fumar con la debida ventilación mediante las adecuaciones arquitectónicas y de diseño que se requieran implementar, en el caso de que haya delimitado secciones de no fumar en su establecimiento; o
 
 b) Colocar letreros, logotipos o emblemas visibles al público que indiquen la prohibición de fumar;
 
-III. Con multa de 30 a 100 cuotas, a la persona:
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
 
-a) Que interfiera o se oponga al desahogo de la visita de inspección;
+IV. Con multa de 30 a 100 cuotas, a la persona:
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+a) Que interfiera o se oponga al desahogo de la vista de inspección o verificación;
 
 b) Que obstaculice la imposición del estado de clausura temporal del establecimiento que hubiera decretado la autoridad competente;
 
@@ -386,3 +430,13 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE AGOSTO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero.- La Secretaría en coordinación con la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León deberá de expedir en el término de 90 días hábiles, contados a partir del inicio de la vigencia de esta Ley, el documento en el que se establezcan las características y requisitos a que se refiere el artículo 9 de este ordenamiento.
