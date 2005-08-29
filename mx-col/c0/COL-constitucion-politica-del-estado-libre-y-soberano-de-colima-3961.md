@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2004-09-18"
+last_updated: "2005-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2005.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -149,9 +149,9 @@ La demarcación electoral de los dieciséis distritos electorales uninominales, 
 
 La circunscripción electoral plurinominal comprenderá la extensión territorial total del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
-Por cada Diputado propietario se elegirá un suplente.
+Por cada Diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Los diputados electos bajo el principio de representación proporcional no tendrán suplentes, la vacante de uno de ellos será cubierta por el candidato del mismo partido que siga en el orden de la lista plurinominal respectiva.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
@@ -223,7 +223,15 @@ El cargo de Diputado es renunciable por causa que calificará el Congreso y por 
 
 El Congreso se renovará totalmente y cambiará su nomenclatura cada tres años. Se instalará el día primero de octubre del año de la elección de los Diputados de la nueva Legislatura.
 
-Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los presentes compelerán a los faltantes para que asistan dentro de los cinco días siguientes, advertidos que de no hacerlo, se entenderá por este sólo hecho, que no aceptan su encargo, llamándose luego a los suplentes, quienes deberán presentarse dentro de un plazo igual, y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los presentes compelerán a los faltantes para que asistan dentro de los cinco días.
+
+> <small>N. DE E. POR UN ERROR EN LA EDICION SE PUBLICO DOS VECES EL PARRAFO ARRIBA CITADO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+“Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los presentes compelerán a los faltantes para que asistan dentro de los cinco días” (sic) siguientes, advertidos que de no hacerlo, se entenderá por este solo hecho que no aceptan su encargo, llamándose luego a los suplentes, en el caso de los de mayoría relativa, quienes deberán presentarse dentro de un plazo igual y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones. En el caso de los de representación proporcional se procederá en los términos del artículo 22, cuarto párrafo de esta Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -599,11 +607,17 @@ a) El Gobernador sustituto constitucional o el designado para concluir el perío
 
 b) El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 55.
 
-Las faltas temporales del Gobernador del Estado, hasta por 30 días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes nombrará el Congreso, debiendo tener el nombrado los requisitos que señala el artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriera en los cuatro últimos años del período constitucional, se nombrará un substituto que desempeñe el cargo hasta que termine el período; pero si la falta tuviera lugar dentro de los dos primeros años se nombrará un Gobernador Interino quien hará entrega del Poder Ejecutivo al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades. Llegado el caso previsto en la Fracción V del artículo 76 de la Constitución General de la República, el Gobernador Provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
+Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes nombrará el Congreso, debiendo cumplir el nombrado los requisitos que señala el Artículo 51 de esta Constitución.
+
+Si la falta fuera absoluta y tuviera lugar dentro de los dos primeros años del período constitucional, el Congreso nombrará un Gobernador Interino de una terna propuesta por el grupo legislativo del partido del gobernante a sustituir, quien hará entrega del poder al ciudadano que hubiere resultado electo en la elección extraordinaria. Para tal efecto, el Congreso conforme a sus facultades, dentro de un plazo de diez días a partir de que haya nombrado al Gobernador Interino, expedirá una convocatoria para elección extraordinaria de Gobernador, la cual deberá celebrarse en un período máximo de un mes a partir de la expedición de la misma.
+
+Cuando la falta absoluta ocurra en los cuatro últimos años del período constitucional, el Congreso nombrará un Gobernador sustituto que desempeñe el cargo hasta que termine el período constitucional.
+
+Llegado el caso previsto en la fracción V del artículo 76 de la Constitución General de la República, el Gobernador provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
@@ -611,11 +625,11 @@ Las faltas temporales del Gobernador del Estado, hasta por 30 días, serán supl
 
 Cuando se haya nombrado Gobernador Interino, creyéndose que la falta del electo es temporal, y se tenga después conocimiento de que aquella es absoluta, el Congreso nombrará un Gobernador Sustituto, o bien confirmará el nombramiento de aquél, con el carácter de Substituto. Respecto del Gobernador así nombrado, se observará lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 57.
 
-Si por cualquier motivo la elección de Gobernador no estuviere hecha y publicada para el día primero de noviembre, en que debe efectuarse la renovación y el electo no estuviere en posibilidad de tomar posesión de su cargo, cesará no obstante, en sus funciones, el Gobernador que esté desempeñando su puesto y el Congreso nombrará un interino quien convocar (sic) a elecciones; no debiendo exceder el interinato de dos meses.
+Si por cualquier motivo la elección de Gobernador no estuviere hecha y publicada para el día primero de noviembre en que debe efectuarse la renovación, o el electo no estuviere en posibilidad de tomar posesión de su cargo, cesará no obstante, en sus funciones, el Gobernador que esté desempeñando el puesto y el Congreso nombrará un interino de una terna propuesta por el grupo legislativo del partido político al que pertenezca el Gobernador que por cualquier motivo no pudiera tomar posesión del cargo, y convocará a elecciones, no debiendo exceder el interinato de dos meses.
 
 ###### Artículo 58.
 
@@ -1119,9 +1133,9 @@ I.- Los partidos políticos son formas de organización política y constituyen 
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. En el Estado gozarán de las mismas prerrogativas que les confiere la Constitución General de la República. Los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
-Los partidos políticos con el fin de estimular la participación equitativa, podrán registrar hasta el 70% de candidaturas de un mismo género, a cargos de elección popular, por ambos principios.
+Los partidos políticos con el fin de estimular la participación equitativa, registrarán hasta el setenta por ciento de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa, y hasta cincuenta por ciento a cargos de diputados por el principio de representación proporcional, síndicos y regidores.
 
 II.- Los partidos políticos tendrán derecho al uso en forma permanente e igualitaria de los medios de comunicación social propiedad del Gobierno del Estado, de acuerdo con las formas y procedimientos que establezca la ley. En los procesos electorales estatal, distritales y municipales, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
@@ -1133,7 +1147,9 @@ a).- El financiamiento público se fijará anualmente y será el resultado de mu
 
 b).- Asimismo, se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
 
-c).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+c).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus procesos internos para la selección de candidatos a cargos de elección, así como en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2002)</small>
 
@@ -1165,13 +1181,21 @@ Los Consejeros Electorales no podrán:
 
 En el Consejo General y los Consejos Municipales participarán un representante acreditado por cada partido político, quienes sólo tendrán derecho a voz.
 
-b).- Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones de la Ley Electoral y por el Estatuto que apruebe el Congreso del Estado, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B constitucional. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+
+b).- El órgano ejecutivo dispondrá del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones de la Ley Electoral y por el Estatuto que apruebe el Congreso del Estado, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B constitucional. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casillas estarán integradas por ciudadanos.
 
 El Instituto Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón y lista de electores, geografía electoral, observación electoral, derechos y prerrogativas de las agrupaciones y partidos políticos, preparación de la jornada electoral, la regulación de encuestas o sondeos de opinión con fines electorales, cómputos, declaración de validez y otorgamiento de constancias, capacitación electoral, educación cívica e impresión de materiales electorales. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2005)</small>
+
+El Instituto Electoral del Estado vigilará, fiscalizará y sancionará los procesos internos de los partidos políticos para la selección de sus candidatos a cargos de elección, en la forma y términos que establezca la Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE AGOSTO DE 2005)</small>
+
 El Instituto Electoral del Estado realizará el cómputo de cada elección; otorgará constancias de mayoría a los candidatos que hubieren obtenido el triunfo; declarará la validez de las elecciones de diputados de mayoría relativa y Ayuntamientos; y hará la declaratoria de validez y la asignación de diputados y regidores según el principio de representación proporcional.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P. O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE AGOSTO DE 2005)</small>
 
 El Instituto Electoral del Estado tendrá a su cargo, además, la realización del plebiscito y referéndum, en los términos de la Ley respectiva.
 
@@ -2608,3 +2632,7 @@ SEGUNDO.- La revisión y fiscalización de las cuentas públicas estatal y munic
 P.O. 18 DE SEPTIEMBRE DE 2004.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE AGOSTO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
