@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-anuncios-para-el-distrito-federal-33662"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-28"
-last_updated: "2004-07-23"
+last_updated: "2005-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33662&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2003-08-18"
 
 REGLAMENTO DE ANUNCIOS PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL ORDENAMIENTO DEL PAISAJE URBANO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. EL 29 DE AGOSTO DE 2005, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de agosto de 2003.
 
@@ -1921,3 +1923,15 @@ G.O. 23 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Las solicitudes de permisos que se encuentren en trámite a la entrada en vigor del presente decreto, continuarán con el procedimiento con el que iniciaron hasta su conclusión.
+
+G.O. 29 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de Anuncios para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el veintiocho de agosto de dos mil tres.
+
+TERCERO.- Se abroga el Reglamento de Mobiliario Urbano para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el diecisiete de agosto del dos mil.
+
+CUARTO.- Las solicitudes de las licencias, autorizaciones temporales, avisos o autorización para mobiliario urbano, al igual que los procedimientos administrativos de visita de verificación que se encuentren en trámite a la entrada en vigor del presente Reglamento, se regularán por la normativa vigente al momento en que se iniciaron, hasta su conclusión.
+
+QUINTO.- Todo lo establecido en el Decreto por el cual se crea la Comisión de Nomenclatura del Distrito Federal que contravenga el presente Ordenamiento, queda derogado.
