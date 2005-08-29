@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-mobiliario-urbano-para-el-distrito-federal-16718"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-17"
-last_updated: "2000-08-17"
+last_updated: "2005-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16718&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-06-26"
 
 REGLAMENTO DE MOBILIARIO URBANO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL ORDENAMIENTO DEL PAISAJE URBANO DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL 29 DE AGOSTO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 17 de agosto de 2000.
 
@@ -561,3 +563,17 @@ SEGUNDO.- se derogan todas las disposiciones que se opongan al presente Reglamen
 TERCERO.- La Comisión Mixta de Mobiliario Urbano para el Distrito Federal, deberá elaborar su manual específico de operación, mismo que remitirá a la Oficialía Mayor para su revisión, dictamen y registro.
 
 Dado en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de junio de dos mil.- LA JEFA DE GOBIERNO DEL DIRTITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 29 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de Anuncios para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el veintiocho de agosto de dos mil tres.
+
+TERCERO.- Se abroga el Reglamento de Mobiliario Urbano para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el diecisiete de agosto del dos mil.
+
+CUARTO.- Las solicitudes de las licencias, autorizaciones temporales, avisos o autorización para mobiliario urbano, al igual que los procedimientos administrativos de visita de verificación que se encuentren en trámite a la entrada en vigor del presente Reglamento, se regularán por la normativa vigente al momento en que se iniciaron, hasta su conclusión.
+
+QUINTO.- Todo lo establecido en el Decreto por el cual se crea la Comisión de Nomenclatura del Distrito Federal que contravenga el presente Ordenamiento, queda derogado.
