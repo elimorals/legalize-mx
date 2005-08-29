@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-periodico-oficial-del-estado-de-aguascalientes-16069"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-18"
-last_updated: "2003-06-30"
+last_updated: "2005-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL PERIODICO OFICIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 29 DE AGOSTO DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 18 de julio de 1999.
 
@@ -222,3 +224,9 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 30 DE JUNIO DE 2003.
 
 UNICO.- La presente reforma entrará en vigor a los diez días siguientes a su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga la Ley del Periódico Oficial del Estado de Aguascalientes, publicada en el Periódico Oficial en fecha 18 de julio del año 1999.
