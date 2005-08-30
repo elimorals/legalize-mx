@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2005-08-23"
+last_updated: "2005-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -489,7 +489,7 @@ Dentro de los límites fijados por la Ley, los jueces y Tribunales aplicarán la
 
 ###### Art. 41.
 
-Para la aplicación de las sanciones penales se tendrá en cuenta:
+Para La aplicación de las sanciones penales se tendrá en cuenta:
 
 I. La naturaleza de la acción u omisión, los medios empleados para ejecutarla, la gravedad del daño causado y el peligro corrido;
 
@@ -1139,7 +1139,7 @@ Se impondrá sanción de dos a cinco años de prisión al que viole la inmunidad
 
 ### CAPITULO VI. Delitos de tránsito
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2005)</small>
 
 ###### Art. 110.
 
@@ -1152,6 +1152,14 @@ En lo que sea aplicable a la sedición, se observará lo dispuesto en el capítu
 ### CAPITULO I. Ataques a las vías de comunicación
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 122.
+
+Al conductor que maneje un vehículo automotor, estando bajo los efectos del alcohol o bajo el influjo de estupefacientes o psicotrópicos, que alteren su habilidad para conducirlo, cuando cometa además cualquier otra infracción a la normatividad aplicable, se le impondrán de sesenta a ciento veinte jornadas de trabajo a favor de la comunidad, de cuarenta a doscientos días multa, e inhabilitación de tres meses a un año para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+
+Al reincidente en este delito, se le impondrá además de las sanciones señaladas en el párrafo anterior, la obligación de someterse a un tratamiento de deshabituación o desintoxicación.
 
 ###### Art. 111.
 
@@ -3059,6 +3067,8 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 ## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+
 ###### Art. 233.
 
 Comete el delito de robo el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la Ley. Se tendrá por consumado el robo, desde el momento en que el activo tenga en su poder lo robado, aún cuando lo abandone o lo desapoderen de él.
@@ -3985,7 +3995,7 @@ No se impondrá la sanción prevista en este artículo, si quien hubiere cometid
 
 Para los fines del artículo que antecede se tomará en cuenta el monto de lo defraudado o que se haya intentado defraudar dentro de un mismo período fiscal, aún cuando se trate de conceptos distintos y de diversas acciones u omisiones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 289.
 
@@ -4062,8 +4072,6 @@ III. Prestando sus servicios como auditor técnico, especialista o perito o espe
 IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o del ayuntamiento en cuyo territorio se hubiesen cometido los hechos presuntamente constitutivos de delito.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ## TRANSITORIOS
 
@@ -4356,3 +4364,7 @@ SEGUNDO.- Se deja sin efectos la aclaración de error del decreto 20787 aprobado
 P.O. 23 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE AGOSTO DE 2005.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
