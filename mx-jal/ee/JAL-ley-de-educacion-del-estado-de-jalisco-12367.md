@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2005-08-23"
+last_updated: "2005-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -113,29 +113,29 @@ X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimi
 
 XI.- Impulsar la educación física y la práctica del deporte escolar;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y las consecuencias nocivas de los vicios, de manera particular por el uso o consumo de cualquier tipo de drogas, propiciando su rechazo; sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+XII. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud. Educar para la paternidad responsable y el conocimiento integral de la sexualidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana;
 
 XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza;
 
 XIV.- Fomentar actitudes solidarias positivas para alcanzar el bienestar general mediante el trabajo y el ahorro;
 
-XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y
+XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y (sic)
 
-XVI.- Buscar la excelencia en la calidad educativa.
+XVI.- Buscar la excelencia en la calidad educativa;
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2000)</small>
 
-XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través de la promoción y práctica de valores éticos y solidaridad social.
+XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través de la promoción y práctica de valores éticos y solidaridad social;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 2004)</small>
 
-XVIII. Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana.
+XVIII. Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XIX. Promover los principios de equidad y no discriminación.
+XIX. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales.
 
 ###### ARTICULO 8o.
 
@@ -1744,3 +1744,7 @@ DECRETO NUMERO 20902, QUE REFORMA FRACCIONES XXXI Y XXXII DEL ART. 14
 P.O. 23 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE AGOSTO DE 2005.
+
+ÚNICO.- Este decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
