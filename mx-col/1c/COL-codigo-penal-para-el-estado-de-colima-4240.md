@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2005-04-23"
+last_updated: "2005-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -1373,9 +1373,21 @@ V.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
 
 VI.- Impida en forma violenta la instalación de una casilla, obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio, o del cómputo;
 
-VII.- Viole de cualquier manera el secreto del voto, o recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos, o
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-VIII.- Introduzca en las urnas o sustraiga ilícitamente de ellas, una o más boletas electorales; o destruya o altere boletas o documentos públicos electorales.
+VII.- Viole de cualquier manera el secreto del voto, o recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VIII.- Introduzca en las urnas o sustraiga ilícitamente de ellas, una o mas boletas electorales; o destruya o altere boletas o documentos públicos electorales;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+IX.- Haga proselitismo dentro de los tres días previos al de la jornada electoral; o
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+X.- Durante los 6 días previos al de la jornada electoral y hasta la hora del cierre oficial de las casillas, difunda o publique por cualquier medio, los resultados de encuestas, sondeos de opinión o conteos rápidos que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1423,7 +1435,9 @@ I.- Obligue a sus subordinados a emitir sus votos en favor de un partido políti
 
 II.- Condicione la prestación de un servicio público, al cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de un partido político o candidato;
 
-III.- Con excepción de los casos previstos por la Ley Electoral; destine recursos financieros y bienes que tenga a su disposición en virtud de su cargo como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, o proporcione ese apoyo a través de sus subordinados distrayéndolos de sus labores para que presten servicio a un partido político o candidato;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+III.- Con excepción de los casos previstos por la ley electoral, destine, utilice o permita la utilización de fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo o en perjuicio de un candidato, partido político o coalición, o proporcione apoyo a través de sus subordinados distrayéndolo de sus labores;
 
 IV.- Impida indebidamente la reunión de una asamblea o manifestación pública o cualquier acto legal de propaganda política, o
 
@@ -3004,3 +3018,7 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 23 DE ABRIL DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
