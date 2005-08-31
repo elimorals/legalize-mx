@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "2005-07-02"
+last_updated: "2005-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 2 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 31 DE AGOSTO DE 2005.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -59,7 +59,7 @@ I.- Los derechos y obligaciones político-electorales de los ciudadanos del Esta
 
 II.- La constitución, registro, función, prerrogativas, derechos, obligaciones de los partidos y asociaciones políticas;
 
-III.- La integración y funcionamiento del Registro Estatal de Electores;
+III.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
 
 IV.- La estructura, atribuciones y funcionamiento del Instituto Electoral del Estado;
 
@@ -67,7 +67,9 @@ V.- La función estatal de organizar, vigilar y calificar las elecciones de Gobe
 
 VI.- La organización, funcionamiento y atribuciones del Tribunal Electoral del Estado; y
 
-VII.- El sistema de medios de impugnación para garantizar la definitividad y legalidad de los actos y resoluciones electorales.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VII.- Las sanciones administrativas.
 
 ###### ARTICULO 2o.
 
@@ -91,13 +93,17 @@ h).- CONSEJOS MUNICIPALES: los Consejos Municipales Electorales;
 
 i).- PARTIDOS POLITICOS: los nacionales y estatales, constituidos y registrados conforme a las disposiciones legales aplicables;
 
-j).- CREDENCIAL: la credencial para votar con fotografía;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-k).- REGISTRO: el Registro Estatal de Electores; y
+j).- CREDENCIAL: la credencial para votar con fotografía que expida la autoridad electoral competente;
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-l).- LISTA: la lista nominal de electores con fotografía;
+k).- REGISTRO: el servicio de carácter público y permanente que presten las autoridades electorales conforme a la ley;
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+l).- LISTA: la lista nominal de electores con fotografía que expida la autoridad electoral competente;
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -187,9 +193,13 @@ VI.- Los demás que señale la ley.
 
 Son obligaciones de los ciudadanos:
 
-I.- Inscribirse en el padrón electoral y obtener su CREDENCIAL en los términos de este Código;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-II.- Notificar al Registro Estatal de Electores los cambios de domicilio que realice y de la (sic) inconsistencias de datos o información;
+I.- Estar inscrito en el padrón electoral y obtener su CREDENCIAL en los términos de la ley de la materia;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+II.- Notificar a la autoridad electoral competente, los cambios de domicilio que realice y la inconsistencia de datos o información;
 
 III.- Votar en las elecciones estatales y municipales;
 
@@ -205,7 +215,9 @@ Es derecho exclusivo de los ciudadanos mexicanos participar, individualmente o e
 
 I.- Sólo podrán participar como observadores quienes hayan obtenido oportunamente la acreditación del CONSEJO GENERAL;
 
-II.- Se presentará por escrito solicitud de registro ante el Secretario Ejecutivo del INSTITUTO, la cual deberá contener los datos de identificación del solicitante, los motivos de su participación y la manifestación expresa de conducirse conforme a los principios de imparcialidad, objetividad, certeza y apego a la ley;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+II.- Presentará personalmente y por escrito solicitud de registro ante el Secretario Ejecutivo del INSTITUTO, la cual deberá contener los datos de identificación del solicitante, anexando fotocopia simple de su CREDENCIAL, expresando los motivos de su participación y la manifestación expresa de conducirse conforme a los principios de imparcialidad, objetividad, certeza y apego a la ley;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -223,7 +235,13 @@ d).- No ser funcionario público de la Federación, del Estado, de los Municipio
 
 e).- Estar inscrito en el Padrón Electoral, y contar con su CREDENCIAL;
 
-f).- Asistir a los cursos de preparación o información que imparta el INSTITUTO; y
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+f).- Asistir a los cursos de preparación o información que imparta el INSTITUTO;
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+g).- Declarar el origen y monto del financiamiento que aplicarán para el desarrollo de sus actividades relacionadas directamente con la observación electoral; y
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -343,7 +361,9 @@ El Poder Legislativo del Estado se deposita en una Asamblea de Diputados denomin
 
 Se entiende por distrito electoral uninominal la demarcación territorial donde se elegirá a un Diputado por el principio de mayoría relativa y por circunscripción electoral plurinominal la extensión territorial del Estado, donde se elegirán los Diputados por el principio de representación proporcional.
 
-Por cada Diputado propietario se elegirá un suplente. La totalidad del CONGRESO se renovará cada tres años.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Por cada Diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Los diputados electos bajo el principio de representación proporcional no tendrán suplentes. La totalidad del CONGRESO se renovará cada tres años.
 
 ###### ARTICULO 19.
 
@@ -387,7 +407,7 @@ RURAL.- Comprende las secciones electorales números 0077 El Chanal (cabecera), 
 
 SEGUNDO DISTRITO.- Colima (Centro).
 
-URBANO .- Comprende las secciones electorales números 0014, 0017, 0025 al 0033, 0038 al 0041, 0043 al 0048, 0052, 0054, 0055, 0058, 0063 y 0064.
+URBANO.- Comprende las secciones electorales números 0014, 0017, 0025 al 0033, 0038 al 0041, 0043 al 0048, 0052, 0054, 0055, 0058, 0063 y 0064.
 
 TERCER DISTRITO.- Colima (Sur).
 
@@ -505,15 +525,21 @@ III.- Presidentes municipales, Síndicos y Regidores de los Ayuntamientos cada t
 
 Las elecciones extraordinarias que se celebren para Gobernador, en los casos del artículo 55 de la CONSTITUCION se sujetarán a las bases que contenga la convocatoria que para el efecto expida el CONGRESO y a las disposiciones de este CODIGO; excepto el caso previsto en la fracción V del artículo 76 de la CONSTITUCION FEDERAL.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+En el caso del artículo 57 de la CONSTITUCIÓN, el CONGRESO, a más tardar al décimo día de que tome posesión el Gobernador Interino que haya nombrado, deberá expedir la convocatoria a elección extraordinaria, debiendo celebrarse la jornada electoral a más tardar en un periodo máximo de un mes a partir de la expedición de la convocatoria. En este caso, las autoridades electorales deberán ajustar los tiempos de las etapas del proceso electoral ordinario y publicar tales ajustes en el Periódico Oficial del Estado.
+
 ###### ARTICULO 26.
 
 Se verificará elección extraordinaria cuando se declare nula una elección o la vacante de una diputación de mayoría relativa, en un plazo que no excederá los 90 días naturales siguientes a la resolución. La convocatoria la expedirá el CONGRESO dentro de los 15 días siguientes a la declaratoria respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 27.
 
-La vacante de una diputación o regiduría de representación proporcional deberá ser cubierta por su respectivo suplente y, a falta de éste, por aquellos candidatos del mismo partido que sigan en el orden de la lista plurinominal o planilla registrada, después de habérsele asignado los Diputados o Regidores que le hubiesen correspondido.
+La vacante de una diputación de representación proporcional deberá ser cubierta por aquel candidato del mismo partido que siga en el orden de la lista plurinominal, después de habérsele asignado los Diputados que le hubiesen correspondido.
+
+La vacante de una regiduría de representación proporcional deberá ser cubierta, por aquellos candidatos del mismo partido que sigan en el orden de la planilla registrada después de habérsele asignado los regidores que le hubiesen correspondido.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -801,19 +827,25 @@ X.- Incluir en sus estatutos la obligación para sus militantes de guardar respe
 
 XI.- Abstenerse de utilizar símbolos de carácter religioso en su propaganda;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-XII.- Registrar hasta el 70% de candidaturas de un mismo género, a los siguientes cargos de elección popular:
+XII.- Abstenerse de realizar, en cualquier tiempo, actos de proselitismo y promoción de su organización, dirigentes o candidatos, en las escuelas públicas y privadas que impartan educación básica;
 
-a).- Diputados por el principio de mayoría relativa, considerando para el porcentaje, la suma total de los candidatos que proponga respecto de los distritos de la entidad.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-b).- Diputados por el principio de representación proporcional, considerando para el porcentaje la suma de todos los candidatos que se propongan en la circunscripción electoral de que se trata.
+XIII. Registrar candidaturas en los porcentajes y para los cargos de elección popular siguientes:
 
-c).- Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, considerando para el porcentaje la suma total del número de candidatos.
+a).- Diputados por el principio de mayoría relativa, hasta el 70% de candidaturas de un mismo género, considerando para el porcentaje, la suma total de los candidatos que proponga respecto de los distritos de la entidad;
 
-El incumplimiento a esta obligación, dará lugar a la negativa por parte de la autoridad electoral competente, de la lista de candidatos de mayoría relativa y de representación proporcional; y
+b).- Diputados por el principio de representación proporcional, el 50% de candidatos para cada uno de los géneros, considerando para el porcentaje la suma de todos los candidatos que se propongan en la circunscripción electoral; y
 
-XIII.- Las demás que señale este CODIGO.
+c).- Síndicos y Regidores, tanto en propietarios como en suplentes, el 50% de candidatos para cada uno de los géneros;
+
+El incumplimiento a las obligaciones contenidas en esta fracción, dará lugar a la negativa del registro, por parte de la autoridad electoral competente, de la lista de candidatos de mayoría relativa y de representación proporcional; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+XIV.- Las demás que señale este CODIGO.
 
 ###### ARTICULO 50.
 
@@ -867,7 +899,9 @@ g).- Las empresas mexicanas de carácter mercantil.
 
 Los PARTIDOS POLITICOS no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
 
-Los PARTIDOS POLITICOS deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere el artículo siguiente.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Los PARTIDOS POLÍTICOS deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales, los destinados a sus procesos internos para la selección de sus candidatos a cargos de elección popular y los de campaña, así como de la presentación de los informes a que se refieren los artículos siguientes y el 221 de este Código.
 
 ###### ARTICULO 55.
 
@@ -891,17 +925,15 @@ IV.- El CONSEJO GENERAL distribuirá la mitad de dicho monto en partes iguales a
 
 V.- La cantidad que resulte a cada uno de los partidos según la fórmula anterior, les será entregada en ministraciones mensuales, a partir del mes de octubre del año de la elección. El CONSEJO GENERAL actualizará anualmente, durante el mes de enero, la cantidad señalada en la fracción III de este artículo, en proporción al aumento de la inflación registrada en el año anterior, de conformidad con los índices del Banco de México;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-VI.- En el año de la elección, cada partido recibirá una cantidad igual al monto del financiamiento público que le corresponda en ese año, de conformidad con las fracciones I y IV de este artículo, que será destinada para apoyar las actividades tendientes a la obtención del voto durante el proceso electoral de sus candidatos a Diputados Locales, Ayuntamientos y Gobernador del Estado, en su caso;
+VI. En el año de la elección, cada partido recibirá una cantidad equivalente al 70% del monto del financiamiento público que le corresponda en ese año, de conformidad con las fracciones I y IV de este artículo, que será destinada para apoyar las actividades tendientes a la obtención del voto durante el proceso electoral de sus candidatos a Diputados locales, Ayuntamientos y Gobernador del Estado, en su caso;
 
-VII.- Los PARTIDOS POLITICOS deberán rendir al CONSEJO GENERAL, en el mes de febrero, un informe anual justificado del empleo del financiamiento recibido en el ejercicio inmediato anterior. Los partidos deberán acompañar al mismo, una copia del acta en la que conste que su comité estatal u órgano equivalente conoció de dicho informe. Una comisión de Consejeros Electorales se encargará de la vigilancia y revisión de los informes de financiamiento de los PARTIDOS POLITICOS, para ser presentados al CONSEJO GENERAL. El CONSEJO GENERAL suspenderá el financiamiento al partido que no cumpla con esta obligación; y
+VII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
 
-VIII.- Cada partido tendrá derecho a recibir hasta un 15% adicional de la cantidad anual que le corresponda por financiamiento, de conformidad con la fracción V de este artículo, para apoyar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, en los términos del reglamento que apruebe el CONSEJO GENERAL. En todo caso, los partidos comprobarán los gastos que eroguen para la realización de las actividades mencionadas.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
-
-El CONSEJO GENERAL deberá emitir un dictamen técnico sobre la aplicación del financiamiento público de los PARTIDOS POLITICOS, a más tardar 120 días después de recibir el informe a que se refiere la fracción VII de este artículo.
+VIII.- Cada partido tendrá derecho a recibir hasta un 25% adicional de la cantidad anual que le corresponda por financiamiento, de conformidad con la fracción V de este artículo, para apoyar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, en los términos del reglamento que apruebe el CONSEJO GENERAL. En todo caso, los partidos comprobarán los gastos que eroguen para la realización de las actividades mencionadas.
 
 ###### ARTICULO 56.
 
@@ -955,6 +987,12 @@ II.- Los fondos y fideicomisos que se constituyan serán manejados a través de 
 
 III.- Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse al cumplimiento de los objetivos del PARTIDO POLITICO.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 60 BIS.- Los PARTIDOS POLÍTICOS deberán rendir al CONSEJO GENERAL, en el mes de febrero, un informe anual justificado del empleo del financiamiento público y privado recibido en el ejercicio inmediato anterior. Los partidos deberán acompañar al mismo, una copia del acta en la que conste que su comité estatal u órgano equivalente conoció de dicho informe. Una comisión de consejeros electorales se encargará de la vigilancia y revisión de los informes de financiamiento de los PARTIDOS POLÍTICOS, para ser presentados al CONSEJO GENERAL, quien suspenderá el financiamiento al partido que no cumpla con esta obligación;
+
+El CONSEJO GENERAL deberá emitir un dictamen técnico sobre la aplicación del financiamiento público y privado de los PARTIDOS POLÍTICOS, a más tardar 120 días después del último día del mes de febrero.
+
 ### CAPITULO VI. DEL ACCESO A LOS MEDIOS DE COMUNICACION
 
 ###### ARTICULO 61.
@@ -965,25 +1003,75 @@ a).- Los PARTIDOS POLITICOS tendrán derecho a la transmisión de 30 minutos men
 
 b).- En períodos electorales, la duración de las transmisiones se incrementará a 60 minutos mensuales por cada partido.
 
-Por otra parte, el Presidente del CONSEJO GENERAL hará las gestiones necesarias ante los concesionarios de la radio y la televisión, a fin de obtener tarifas adecuadas para que los PARTIDOS POLITICOS puedan contratar sus tiempos comerciales.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-La propaganda contratada por los PARTIDOS POLITICOS será suspendida 3 días previos al de la jornada electoral.
+Es derecho exclusivo de los PARTIDOS POLÍTICOS contratar tiempos en radio y televisión para difundir su ideario y plataformas políticas en tiempos no electorales, así como para difundir mensajes orientados a la obtención del voto durante las campañas electorales, conforme a las normas y procedimientos siguientes:
 
-En ningún caso, se permitirá la contratación de propaganda en favor o en contra de algún PARTIDO POLITICO o candidato por parte de terceros.
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+I.- En tiempos no electorales el Presidente del CONSEJO GENERAL hará las gestiones necesarias ante los concesionarios de la radio y la televisión, a fin de obtener tarifas adecuadas para que los PARTIDOS POLITICOS puedan contratar sus tiempos comerciales.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+II.- Durante el mes de enero del año electoral, el CONSEJO GENERAL solicitará a la autoridad competente su intervención para que los concesionarios o permisionarios de radio y televisión de la entidad, le proporcionen un catálogo de horarios y sus tarifas correspondientes disponibles, las cuales no podrán ser superiores a las de publicidad comercial, para ser contratados por los PARTIDOS POLÍTICOS en el período señalado para las campañas electorales.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+El catálogo de horarios y tarifas mencionados se pondrá a disposición de los PARTIDOS POLÍTICOS, en sesión que celebre el CONSEJO GENERAL durante el mes de febrero del año de la elección.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Los PARTIDOS POLÍTICOS deberán comunicar por escrito al CONSEJO GENERAL, a más tardar 15 días antes del inicio de las campañas electorales, las estaciones, canales y horarios en los que tengan interés de contratar tiempos, conforme al catálogo que les fue proporcionado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+En caso de que dos o más PARTIDOS POLÍTICOS manifiesten interés en contratar espacios en un mismo canal de televisión o estación de radio, en los mismos horarios, se aplicará el procedimiento siguiente:
+
+a) Se dividirá el tiempo total disponible para contratación del canal o estación en forma igualitaria entre el número de PARTIDOS POLÍTICOS interesados en contratarlo; el resultante será el tiempo que cada PARTIDO POLÍTICO podrá contratar.
+
+b) Si hubiere tiempos sobrantes, volverán a estar a disposición de los concesionarios o permisionarios y no podrán ser objeto de contratación posterior por los PARTIDOS POLÍTICOS.
+
+c) En caso de que un solo PARTIDO POLÍTICO o coalición manifieste interés por contratar tiempo en un canal o estación, deberá hacerlo a través del INSTITUTO, hasta por el límite que los concesionarios o permisionarios hayan dado a conocer como tiempo disponible en el catálogo correspondiente.
+
+d) Una vez concluido el reparto y asignación a que se refiere el inciso a), el CONSEJO GENERAL, en sesión que celebre antes del inicio de las campañas, dará a conocer los tiempos, canales de televisión y estaciones de radio para cada uno de los PARTIDOS POLÍTICOS o coaliciones y éstos, exclusivamente por conducto del INSTITUTO con cargo al presupuesto que les corresponda por concepto de propaganda en el año de la elección, realizarán la contratación correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Durante las campañas electorales el INSTITUTO realizará cada 8 días un seguimiento respecto de los tiempos en radio y televisión que destinan los PARTIDOS POLÍTICOS, candidatos y coaliciones para difusión y propaganda, con el fin de verificar que se ajusten a los tiempos máximos autorizados y contratados.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+La propaganda contratada por los PARTIDOS POLÍTICOS será suspendida 3 días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Queda estrictamente prohibida la contratación de tiempos de radio y televisión para difundir propaganda en donde se utilice a niñas y niños haciendo proselitismo o invitando a votar a favor de un, candidato, PARTIDO POLÍTICO o coalición, así como manifestando expresiones en contra de los demás PARTIDOS POLÍTICOS, precandidatos, candidatos o coaliciones.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+En ningún caso, se permitirá la contratación o donación de propaganda en favor o en contra de algún PARTIDO POLÍTICO o candidato por parte de terceros.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 Veinticinco días antes de la jornada electoral se suspenderán las campañas de comunicación social en radio y televisión y medios impresos de las acciones de gobierno en general en los niveles estatal y municipal. La infracción a esta disposición será sancionada por el TRIBUNAL con multa de 2000 días de salario mínimo vigente en la entidad, la cual deberá ser cubierta con recursos propios del funcionario sancionado.
 
-### CAPITULO VII. DE LAS COALICIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+### CAPITULO VII. DE LAS COALICIONES Y DE LOS FRENTES
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+#### SECCION PRIMERA. DE LAS COALICIONES
+
+(REUBICADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 62.
 
 Los PARTIDOS POLÍTICOS podrán coaligarse para postular candidaturas de convergencia en las elecciones locales, siempre que hayan participado, cuando menos, en la elección inmediata anterior, de conformidad con las siguientes bases:
 
-I.- El convenio de coalición será el instrumento para postular las candidaturas de convergencia, el cual deberá registrarse ante el CONSEJO GENERAL, por lo menos 15 días antes de la fecha del registro ordinario de candidatos correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+I.- El convenio de coalición será el instrumento para postular las candidaturas de convergencia, el cual deberá registrarse ante el CONSEJO GENERAL, por lo menos 15 días antes del inicio del periodo para registrar las candidaturas sobre las cuales los PARTIDOS POLÍTICOS establezcan coaliciones.
 
 La solicitud deberá acompañar la comprobación de que la coalición y la plataforma electoral común fueron aprobadas por el órgano de gobierno estatal de cada uno de los PARTIDOS POLITICOS coaligados.
 
@@ -1033,9 +1121,49 @@ XI.- Las asociaciones políticas no podrán participar en ningún tipo de candid
 
 XII.- Concluido el proceso electoral termina la coalición.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+El convenio de coalición contendrá:
+
+(REUBICADO, P.O. 31 DE AGOSTO DE 2005)
+
 ###### ARTICULO 63.
 
 Si la coalición no registra las fórmulas de candidatos en la forma prevista en este CODIGO, la coalición y el registro de candidatos quedarán automáticamente sin efecto.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+#### SECCION SEGUNDA. DE LOS FRENTES
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 63 BIS-1.- Los PARTIDOS POLÍTICOS podrán postular candidatos comunes a los diversos cargos de elección popular, sin necesidad de coaligarse, bajo las siguientes bases:
+
+I. Para postular candidato o candidatos comunes deberá acreditarse el acuerdo de los PARTIDOS POLÍTICOS; y
+
+II. Las fórmulas o planillas que postulen dos o más PARTIDOS POLÍTICOS, deberán esta (sic) integradas, sin excepción, por los mismos candidatos propietarios y suplentes, en su caso.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 63 BIS-2.- Los PARTIDOS POLÍTICOS deberán presentar en los 10 días previos al registro de candidatos ante el CONSEJO GENERAL o ante los CONSEJOS MUNICIPALES, respectivamente, el acuerdo de registrar candidaturas comunes, para lo cual los mismos, dentro de las 48 horas siguientes, resolverán lo conducente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 63 BIS-3.- Los PARTIDOS POLÍTICOS que postulen candidato o candidatos comunes, conservan cada uno sus obligaciones, prerrogativas y financiamiento público, con las limitantes que les señale el presente CÓDIGO.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 63 BIS-4.- Los votos obtenidos a través de candidaturas comunes se sujetaran al siguiente procedimiento:
+
+I. En las actas de escrutinio y cómputo de las casillas y de los CONSEJOS MUNICIPALES, los votos se acreditarán a cada PARTIDO POLÍTICO, salvo lo dispuesto en el artículo 274 de este CÓDIGO;
+
+II. Se sumaran los votos de los PARTIDOS POLÍTICOS, a los del candidato común; y
+
+III. Los votos obtenidos por cada PARTIDO POLÍTICO les serán tomados en cuenta para determinar su porcentaje en la votación total correspondiente y para los efectos de las diversas disposiciones contenidas en los CAPITULOS V y VI del TITULO QUINTO del LIBRO QUINTO de este CÓDIGO.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 63 BIS-5.- El financiamiento público correspondiente a la obtención del voto, el tope de los gastos de campaña y el acceso gratuito a los medios de comunicación propiedad del Estado, corresponderá solamente al PARTIDO POLÍTICO que represente la mayor fuerza electoral de entre los que vayan en frente común con un candidato.
 
 ### CAPITULO VIII. DE LAS FUSIONES
 
@@ -1067,13 +1195,13 @@ III.- Haber dejado de cumplir con los requisitos exigidos para obtener el regist
 
 IV.- Haberse fusionado con otro Partido o haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan los estatutos;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-V.- Incumplir de manera grave y sistemática, a juicio del CONSEJO GENERAL, las obligaciones que señala este CODIGO; y
+V.- Incumplir de manera grave y sistemática, a juicio del CONSEJO GENERAL, las obligaciones que señala este CÓDIGO;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-VI.- No presentar comprobación de sus gastos ordinarios y de campaña; y
+VI.- No presentar comprobación de sus gastos ordinarios, de los originados por sus procesos internos para la selección de candidatos a cargos de elección popular y de las campaña; y
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -1143,685 +1271,359 @@ Las asociaciones políticas perderán su registro cuando hayan dejado de cumplir
 
 Las resoluciones a que se refieren el artículo anterior y el 71 de este CODIGO, serán recurribles ante el TRIBUNAL.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
 # LIBRO TERCERO. DEL REGISTRO ESTATAL DE ELECTORES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 74.
 
-El INSTITUTO prestará por conducto de una Dirección y Delegaciones Municipales, los servicios inherentes al registro de electores.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-El Registro Estatal de Electores es un servicio de carácter permanente y de interés público. Tiene por objeto cumplir con lo previsto en el artículo 78 de este CODIGO.
-
-Los documentos, datos e informes que los ciudadanos proporcionen al REGISTRO, en cumplimiento de las obligaciones que les impone la CONSTITUCION y este CODIGO, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer, salvo cuando se trate de juicios, recursos o procedimientos en que el INSTITUTO fuese parte para cumplir con las obligaciones previstas por este CODIGO en materia electoral o por mandato de juez competente.
-
-Los miembros de los CONSEJOS GENERAL y MUNICIPALES, así como de las comisiones de vigilancia, tendrán acceso a la información que conforma el padrón electoral y la que se derive de éste, exclusivamente para el cumplimiento de sus funciones y no podrán destinarla a finalidad u objeto distinto al de la revisión del padrón electoral y de las listas nominales y la promoción del empadronamiento y credencialización.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ## TITULO SEGUNDO. DE LA INTEGRACION
 
 ###### ARTICULO 75.
 
-La Dirección del REGISTRO se integrará por:
-
-I.- Un Director, nombrado por el CONSEJO GENERAL a propuesta en terna de su Presidente;
-
-II.- Tres Subdirectores: de Operación, de Informática y de Administración, nombrados por el CONSEJO GENERAL a propuesta del Director;
-
-III.- Un Delegado en cada uno de los Municipios del Estado; y
-
-IV.- Comisiones de vigilancia, que se integrarán y participarán en los términos de este CODIGO.
-
-El CONSEJO GENERAL vigilará que la integración y las actividades de la Dirección del REGISTRO se realicen con estricto apego al presente CODIGO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 76.
 
-Se instalará una Comisión Estatal de Vigilancia y una en cada uno de los Municipios, las cuales contarán con un Comité Técnico Estatal para el auxilio de sus actividades.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 77.
 
-La Dirección del REGISTRO tendrá autonomía administrativa para el cumplimiento de sus fines y ejecución de las disposiciones que dicte el CONSEJO GENERAL.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-La Dirección tendrá su residencia en la capital del Estado.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ## TITULO TERCERO. DE LAS ATRIBUCIONES
 
 ###### ARTICULO 78.
 
-Son atribuciones de la Dirección del REGISTRO las siguientes:
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-I.- Inscribir en el Padrón Electoral a los ciudadanos que lo soliciten y satisfagan los requisitos legales;
-
-II.- Expedir la CREDENCIAL;
-
-III.- Proponer al CONSEJO GENERAL la división territorial del Estado en distritos y secciones electorales, tomando como base el último censo oficial y la estimación del aumento de la población así como los estudios técnicos realizados para este efecto, por la Comisión Estatal de Vigilancia;
-
-IV.- Mantener actualizado el REGISTRO, para cuyo fin podrá requerir la colaboración de los ciudadanos con fundamento en lo dispuesto por el párrafo cuarto del artículo 5o. de la CONSTITUCION FEDERAL;
-
-V.- Formar el Catálogo General de Electores y el Padrón Estatal Electoral y mantenerlos permanentemente actualizados y depurados;
-
-VI.- Aplicar la técnica censal total y la técnica censal parcial para la formación del Catálogo General de Electores;
-
-VII.- Elaborar las listas nominales de electores, clasificadas por distritos y secciones electorales, ordenadas alfabéticamente, y distribuirlas a los órganos electorales en los términos de este CODIGO. Asimismo, elaborar las listas nominales con fotografía que se utilizarán en la jornada electoral, atendiendo las clasificaciones antes mencionadas;
-
-VIII.- Establecer con las autoridades federales, estatales y municipales la coordinación necesaria, a fin de obtener la información sobre el fallecimiento de los ciudadanos, suspensión de derechos políticos electorales y pérdida u obtención de la ciudadanía;
-
-IX.- Mantener actualizada la cartografía electoral del Estado, clasificada por Municipio, distritos y secciones electorales;
-
-X.- Establecer, previa aprobación de la Comisión Estatal de Vigilancia, los procedimientos técnicos adecuados para facilitar la inscripción y las modificaciones que deban efectuarse al padrón de electores;
-
-XI.- Rendir los informes y extender las constancias que solicite el TRIBUNAL, los CONSEJOS GENERAL y MUNICIPALES o los PARTIDOS POLITICOS por conducto de sus representantes ante la Comisión Estatal de Vigilancia;
-
-XII.- Proporcionar a los PARTIDOS POLITICOS, las listas nominales de electores, en los términos de este CODIGO;
-
-XIII.- Asegurarse de que las Comisiones de Vigilancia y el Comité Técnico se integren y funcionen en los términos establecidos en este CODIGO;
-
-XIV.- Recabar en cada proceso electoral, la documentación electoral necesaria para elaborar las estadísticas correspondientes;
-
-XV.- Solicitar a las Comisiones de Vigilancia los estudios y el desahogo de las consultas sobre los asuntos que estime convenientes dentro de la esfera de su competencia;
-
-XVI.- Ejercer su presupuesto aprobado, bajo la supervisión del CONSEJO GENERAL;
-
-XVII.- Dirigir su administración interna y disponer de sus recursos materiales;
-
-XVIII.- Elaborar su reglamento interno de conformidad con los lineamientos señalados por el CONSEJO GENERAL; y
-
-XIX.- Las demás que señale este CODIGO.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ## TITULO CUARTO. DEL DIRECTOR GENERAL
 
 ###### ARTICULO 79.
 
-Para ser Director del REGISTRO se deberán reunir los mismo (sic) requisitos que para los Consejeros Electorales establece este CODIGO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 80.
 
-El Director del REGISTRO tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-I.- Dirigir y coordinar las actividades del REGISTRO, en los términos de este CODIGO;
-
-II.- Cumplimentar los acuerdos del CONSEJO GENERAL en los asuntos de su competencia;
-
-III.- Someter al conocimiento y, en su caso, a la aprobación del CONSEJO GENERAL los asuntos de su competencia;
-
-IV.- Concurrir a las sesiones del CONSEJO GENERAL, con voz pero sin voto, cuando se traten asuntos de su competencia;
-
-V.- Representar legalmente al REGISTRO en los asuntos en que a éste corresponda;
-
-VI.- Ordenar la impresión de la CREDENCIAL conforme al modelo que apruebe el CONSEJO GENERAL;
-
-VII.- Orientar y coordinar las acciones de las Subdirecciones del REGISTRO y de las Delegaciones Municipales;
-
-VIII.- Aprobar la estructura de las Subdirecciones del REGISTRO, conforme a las necesidades del servicio y a los recursos presupuestales autorizados;
-
-IX.- Elaborar de acuerdo con este CODIGO, el anteproyecto de presupuesto del REGISTRO para someterlo a la consideración del CONSEJO GENERAL;
-
-X.- Ejercer las partidas presupuestales aprobadas por el REGISTRO;
-
-XI.- Previa autorización del CONSEJO GENERAL, otorgar poderes a nombre del REGISTRO para actos de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares; o para realizar actos de dominio sobre inmuebles destinados al REGISTRO;
-
-XII.- Presidir la Comisión Estatal de Vigilancia;
-
-XIII.- Llevar el libro de registro y asistencia de los representantes de los PARTIDOS POLITICOS a las comisiones de vigilancia;
-
-XIV.- Nombrar al Secretario Técnico de la Comisión Estatal de Vigilancia;
-
-XV.- Proponer al CONSEJO GENERAL los nombramientos de los Subdirectores del REGISTRO;
-
-XVI.- Firmar las constancias, certificaciones e informes que requiera el TRIBUNAL, y aquellas que les soliciten los Consejos del INSTITUTO o los PARTIDOS POLITICOS por conducto de los representantes acreditados ante la Comisión Estatal de Vigilancia; y
-
-XVII.- Las demás que le confiera este CODIGO.
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS PARA PRESTAR EL SERVICIO DEL REGISTRO ESTATAL DE ELECTORES
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 81.
 
-El REGISTRO estará compuesto por las siguientes secciones:
-
-I.- Del Catálogo General de Electores;
-
-II.- Del Padrón Electoral; y
-
-III.- Listado nominal de electores y cartografía electoral.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 82.
 
-En el Catálogo General de Electores se consignará la información básica de los mexicanos mayores de 18 años residentes en el Estado, recabada a través de la técnica censal total.
-
-El Padrón Electoral estará formado con los nombres consignados en el Catálogo de referencia y en las solicitudes de inscripción presentadas por los ciudadanos, en los términos del artículo siguiente.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 83.
 
-Los ciudadanos residentes en el Estado, en pleno ejercicio de sus derechos políticos, están obligados a inscribirse en el REGISTRO y a participar en la formación y actualización del Catálogo General de Electores y del Padrón Electoral, en los términos de este CODIGO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-La CREDENCIAL es un documento indispensable para que los ciudadanos puedan ejercer su derecho al voto.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO II. DEL CATALOGO GENERAL DE ELECTORES
 
 ###### ARTICULO 84.
 
-Por acuerdo del CONSEJO GENERAL, previa solicitud del Director del REGISTRO, se podrá ordenar, si fuera necesario, se aplique la técnica censal total en el Estado, con la finalidad de formar un Catálogo General de Electores del que derive un Padrón Electoral integral, auténtico y confiable.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 85.
 
-La técnica censal total es el procedimiento que se realiza mediante entrevistas vivienda por vivienda, a fin de obtener la información básica de los mexicanos residentes en el Estado mayores de 18 años, consistente en:
-
-I.- Apellido paterno, materno y nombre completo;
-
-II.- Lugar y fecha de nacimiento;
-
-III.- Edad y sexo;
-
-IV.- Domicilio actual y tiempo de residencia;
-
-V.- Ocupación;
-
-VI.- Número de manzana y código postal, cuando exista; y
-
-VII.- En su caso, el número y la fecha del certificado de naturalización.
-
-La información básica contendrá además, el municipio, distrito electoral, localidad y sección electoral correspondiente al domicilio, así como la fecha en que se realizó la visita, el nombre y la firma del entrevistador.
-
-En todos los casos se procurará establecer el mayor número de elementos para ubicar dicho domicilio geográficamente.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 86.
 
-El REGISTRO podrá utilizar la técnica censal parcial en municipios, distritos y secciones o parte de éstos, en aquellos casos que así lo decida el CONSEJO GENERAL, a fin de mantener actualizados tanto el Catálogo General de Electores, como el Padrón Electoral.
-
-La técnica censal parcial tendrá por objeto recabar la información básica de los ciudadanos no incluidos en el Catálogo General de Electores, o en su caso, verificar los datos contenidos en el mismo, mediante visitas vivienda por vivienda.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 87.
 
-Las Comisiones de Vigilancia podrán solicitar al Director, se someta a la consideración del CONSEJO GENERAL el acuerdo para que se aplique en un distrito o sección electoral, la técnica censal parcial.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO III. DE LA FORMACION DEL PADRON ELECTORAL
 
 ###### ARTICULO 88.
 
-Con base en el Catálogo General de Electores, el REGISTRO procederá a la formulación del Padrón Electoral, en el que se dará de alta al ciudadano que acredite su identidad y residencia, previa solicitud individual que presente, en la que conste su firma, huella digital y tiempo de residencia en el Estado.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 89.
 
-Posteriormente se le expedirá su CREDENCIAL, quedando incluido en la lista nominal de la sección que corresponda a su domicilio y en la lista nominal con fotografía correspondiente.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 90.
 
-Las autoridades competentes y los encargados del Registro Civil están obligados a expedir, a petición escrita del interesado, las certificaciones y constancias que le sean necesarias para acreditar su residencia, tiempo de la misma y mayoría de edad.
-
-Los ciudadanos tendrán la obligación de acudir a las oficinas o módulos que determine el REGISTRO, a fin de obtener su CREDENCIAL, previa identificación.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 91.
 
-Los ciudadanos residentes en el Estado que se encuentren incapacitados físicamente para acudir a inscribirse ante las oficinas del REGISTRO, deberán solicitar su inscripción por escrito, acompañando la documentación que acredite su ciudadanía y su incapacidad. En este caso, el REGISTRO dictará las medidas pertinentes para su atención personal en el domicilio del elector físicamente impedido.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 92.
 
-En todos los casos, al recibir la CREDENCIAL el interesado deberá firmarla y poner su huella digital, previa identificación que haga a satisfacción del funcionario electoral que realiza la entrega, debiéndose conservar al efecto constancia de entrega de la credencial con la referencia de los medios de identificación.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 93.
 
-Los formatos de CREDENCIAL que no hubiesen sido utilizados, se relacionarán y serán depositados en un lugar que garantice su salvaguarda hasta la conclusión de la jornada electoral de que se trate. El Director, de conformidad con el procedimiento que acuerde el CONSEJO GENERAL a propuesta de la Comisión Estatal de Vigilancia, tomará las medidas para que se cumpla el procedimiento por parte de las Delegaciones Municipales, con la presencia de las Comisiones de Vigilancia correspondientes.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 94.
 
-Cumplido con lo dispuesto en el artículo anterior, se procederá a formar la lista nominal de electores y la lista nominal de electores con fotografía de los ciudadanos a los que se les haya entregado su CREDENCIAL, salvo en los casos de inhabilitación, suspensión o baja del Padrón Electoral.
-
-Los listados se formularán por distritos y por secciones electorales, ordenados alfabéticamente. El listado nominal será puesto a disposición de los PARTIDOS POLITICOS para su revisión y, en su caso, para que formulen las observaciones que estimen pertinentes, de acuerdo al procedimiento y plazo que establezca este CODIGO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 95.
 
-El REGISTRO proveerá lo necesario para que las listas nominales de electores se hagan del conocimiento de los ciudadanos en cada Municipio o distrito que corresponda.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 96.
 
-Los listados nominales con fotografía serán entregados para ser utilizados en las casillas el día de la jornada electoral.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO IV. DE LA ACTUALIZACION DEL CATALOGO GENERAL DE ELECTORES Y DEL PADRON ELECTORAL
 
 ###### ARTICULO 97.
 
-La Dirección del REGISTRO realizará anualmente, a partir del 15 de noviembre y hasta el último de enero siguiente, una campaña intensiva de actualización del Catálogo General de Electores y del Padrón Electoral, convocando y orientando a los ciudadanos a cumplir con las obligaciones siguientes, según corresponda:
-
-I.- Acudir ante las oficinas del REGISTRO o en los lugares que éste determine, para ser incorporado al Catálogo General de Electores, el ciudadano que:
-
-a).- No hubiese sido incorporado durante la aplicación de la técnica censal total;
-
-b).- Hubiese alcanzado la ciudadanía con posterioridad a la aplicación de la técnica censal total; y
-
-II.- Acudir a las oficinas del REGISTRO, quienes incorporados en el Catálogo General de Electores y en el Padrón Electoral:
-
-a).- No hubiesen notificado su cambio de domicilio;
-
-b).- No estén registrados en el Padrón Electoral;
-
-c).- Hubiesen extraviado su CREDENCIAL; y
-
-d).- Suspendidos en sus derechos políticos, hubiesen sido rehabilitados.
-
-Los PARTIDOS POLITICOS coadyuvarán con el REGISTRO en las tareas de orientación ciudadana.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 98.
 
-Los ciudadanos que durante el período de actualización acudan a darse de alta o a dar aviso del cambio de domicilio, o bien que durante la aplicación de la técnica censal sean requeridos por el personal del REGISTRO, tendrán obligación de señalar el domicilio en que hubiesen sido registrados con anterioridad y, en su caso, firmar y poner la huella digital en los documentos para la actualización respectiva.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 99.
 
-Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores o, en su caso, su inscripción o rectificación al Padrón Electoral en períodos distintos a los de actualización a que se refiere el artículo 97 de este CODIGO, desde el día siguiente al de la elección y hasta el último día de enero del año de la próxima elección.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 100.
 
-Los residentes en el Estado que en el año de la elección cumplan 18 años de edad, entre el 1o. de febrero y el día de los comicios, deberán solicitar su inscripción, a más tardar el día último de enero.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 101.
 
-La solicitud de incorporación al Catálogo General de Electores servirá para la inscripción de los ciudadanos en el Padrón Electoral; se hará en formas individuales en las que se asentarán los siguientes datos:
-
-I.- Apellido paterno, materno y nombre completo;
-
-II.- Lugar y fecha de nacimiento;
-
-III.- Edad y sexo;
-
-IV.- Domicilio actual y tiempo de residencia;
-
-V.- Ocupación;
-
-VI.- Código postal, cuando exista;
-
-VII.- En su caso, el número y la fecha del certificado de naturalización; y
-
-VIII.- Firma, y en su caso huella digital.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 102.
 
-El personal encargado de hacer la inscripción a que se refiere el artículo anterior, asentará en las formas individuales, los siguientes datos:
-
-I.- Municipio y localidad donde se realice la inscripción;
-
-II.- Distrito y sección electoral correspondiente al domicilio; y
-
-III.- Fecha de la solicitud de inscripción.
-
-Hecha la solicitud anterior se le entregará el comprobante correspondiente. El período para expedir y entregar la CREDENCIAL concluirá el 15 de abril del año de la elección.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 103.
 
-Es obligación de los ciudadanos inscritos en el Padrón Electoral, dar aviso de su cambio de domicilio ante la oficina del REGISTRO más cercano a su nuevo domicilio, dentro de los 30 días posteriores a la fecha en que esto ocurra.
-
-En los casos en que un ciudadano solicite su modificación por cambio de domicilio o corrección de datos, deberá exhibir la CREDENCIAL o, en su caso, aportar los elementos probatorios de que la misma fue extraviada.
-
-Al recibir el ciudadano la CREDENCIAL actualizada, éste deberá entregar la CREDENCIAL anterior, la cual será inutilizada de inmediato, para su posterior destrucción. Los elementos probatorios del extravío se integrarán al archivo clasificado del REGISTRO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 104.
 
-En caso de que la Dirección del REGISTRO detecte mediante revisiones de campo, que uno o varios electores ya no residen en el domicilio registrado, asentará esta circunstancia, dejando aviso en el domicilio de que se trate y publicando sus nombres en los estrados del propio REGISTRO y en el Periódico Oficial del Estado, por dos ocasiones mediando 15 días entre cada publicación, a efecto de que cumplan con su obligación de notificar el cambio.
-
-Si transcurridos 15 días después de la segunda publicación no se registrara movimiento o modificación de datos de los electores de que se trate, la Dirección del REGISTRO procederá a darlos de baja en el padrón, haciendo constar en sus registros el aviso y las publicaciones mencionadas; dicha baja sólo procederá previa autorización de la Comisión Estatal de Vigilancia.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 105.
 
-La documentación relativa a las altas, bajas o modificaciones de los ciudadanos en el padrón de electores, quedará bajo la custodia y responsabilidad de la Dirección del REGISTRO, dando acceso a las Comisiones de Vigilancia para los efectos de consulta y verificación.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 106.
 
-Los ciudadanos cuya CREDENCIAL se haya extraviado o esté deteriorada, deberán solicitar su correspondiente reposición a la que se le inscribirá la palabra "reposición".
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 107.
 
-Podrán solicitar la expedición de su CREDENCIAL, los ciudadanos que habiendo cumplido con los requisitos y trámites correspondientes, no hubiesen obtenido oportunamente su CREDENCIAL.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 108.
 
-Podrán solicitar su rectificación ante el REGISTRO, aquellos ciudadanos que:
-
-I.- Habiendo obtenido oportunamente su CREDENCIAL, no aparezcan incluidos en la lista nominal de electores de la sección correspondiente a su domicilio; o
-
-II.- Consideren haber sido indebidamente incluidos o excluidos de la lista nominal de electores de la sección correspondiente a su domicilio.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 109.
 
-En el año de la elección, los ciudadanos que se encuentren en el supuesto señalado en el artículo 107 de este CODIGO, podrán presentar solicitud de expedición de CREDENCIAL hasta el día 15 de abril.
-
-En los casos previstos en el artículo anterior, podrán presentar solicitud de rectificación a más tardar el último día del mes de mayo.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 110.
 
-La Dirección del REGISTRO resolverá sobre la procedencia o improcedencia de la solicitud de expedición o rectificación de la CREDENCIAL, en un plazo de 5 días siguientes a su presentación.
-
-La resolución que declare improcedente la solicitud de expedición o de rectificación, o la falta de respuesta en tiempo, serán recurribles ante el TRIBUNAL. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del REGISTRO, los formatos necesarios para la interposición del recurso respectivo.
-
-La resolución recaída a la solicitud de expedición o rectificación, o la falta de respuesta en tiempo, serán recurribles ante el TRIBUNAL. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del REGISTRO, los formatos necesarios para la interposición del recurso respectivo.
-
-La resolución recaída a la solicitud de expedición o rectificación de CREDENCIAL, será notificada personalmente al ciudadano si este comparece ante la oficina responsable de la inscripción o, en su caso, por telegrama o correo certificado con sus respectivos acuses de recibo.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 111.
 
-Las solicitudes de inscripción realizadas por los ciudadanos que no acudan a la oficina o módulo del REGISTRO correspondiente a su domicilio a obtener su CREDENCIAL a más tardar el día último de octubre del año siguiente a aquél en que solicitaron su inscripción en el Padrón Electoral, serán canceladas.
-
-En el supuesto a que se refiere el párrafo anterior, la Dirección del REGISTRO elaborará relaciones con los nombres de los ciudadanos cuyas solicitudes hubiesen sido canceladas, clasificándolas por sección electoral y alfabéticamente, a fin de que sean entregadas a los representantes de los PARTIDOS POLITICOS acreditados ante la Comisión Estatal de Vigilancia, a más tardar el día 15 de noviembre de cada año, para su conocimiento y observaciones.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 112.
 
-Las relaciones a que se refiere el artículo anterior, serán exhibidas desde el día 15 de noviembre y hasta el día 15 de enero del año siguiente, en las oficinas o módulos de la Dirección del REGISTRO y en los lugares públicos que previamente determine la Comisión de Vigilancia, a fin de que surtan efectos de notificación por estrados a los ciudadanos interesados y que éstos tengan la posibilidad de solicitar nuevamente su inscripción en el padrón electoral durante el plazo para la campaña intensiva a que se refiere el artículo 97 de este CODIGO, o en su caso, interponer el recurso correspondiente ante el TRIBUNAL.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 113.
 
-Los formatos de las CREDENCIALES de los ciudadanos cuya solicitud haya sido cancelada en los términos de los artículos precedentes, serán inutilizados para su posterior destrucción, bajo la supervisión de la Comisión de Vigilancia, a más tardar el día último de enero de cada año.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 114.
 
-El ciudadano cuya solicitud de inscripción en el padrón electoral hubiese sido cancelada por omisión en la obtención de su CREDENCIAL, en los términos de los artículos anteriores, podrá solicitar nuevamente su inscripción en el Padrón Electoral en los términos y plazos previstos en los artículos 88, 97 y 99 de este CODIGO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 115.
 
-Los formatos de las CREDENCIALES de los ciudadanos que solicitaron su inscripción al Padrón Electoral o efectuaron alguna solicitud de actualización durante el año anterior al de la elección, y que no hubiesen sido recogidos por sus titulares dentro del plazo legalmente establecido para ello, serán resguardadas de conformidad con el procedimiento señalado por el CONSEJO GENERAL, con la supervisión de la Comisión de Vigilancia.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 116.
 
-La Dirección del REGISTRO dará de baja del Padrón Electoral a los ciudadanos que:
-
-I.- Hubiesen avisado su cambio de domicilio mediante la solicitud en que conste su nombre, firma y huella digital.
-
-En este supuesto, la baja operará exclusivamente por lo que se refiere al registro del domicilio anterior;
-
-II.- Hubiesen fallecido o sean declarados presuntamente fallecidos por resolución judicial, siempre y cuando quede acreditado con la documentación de las autoridades competentes;
-
-III.- Hubiesen sido suspendidos en el ejercicio de sus derechos políticos conforme al artículo 38 de la CONSTITUCION FEDERAL; y
-
-IV.- Hayan perdido la nacionalidad o la ciudadanía.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 117.
 
-Cualquier elector o PARTIDO POLITICO podrá gestionar hasta el día 25 de mayo del año del proceso electoral, ante la Dirección del REGISTRO, las modificaciones a las listas del Padrón Electoral, por cualquiera de las causas enunciadas en el artículo anterior, siempre y cuando éstas sean debidamente comprobadas.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 118.
 
-Los encargados del Registro Civil que expidan actas de defunción de personas mayores de edad están obligados a comunicarlo por escrito al REGISTRO, en un plazo de 15 días posteriores a estos actos.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 119.
 
-Los jueces competentes que declaren la presunción de muerte o de ausencia; la pérdida, suspensión o rehabilitación de los derechos ciudadanos; o que afecten la capacidad civil, estarán obligados a comunicarlo por escrito al REGISTRO dentro de un plazo de 15 días a partir de la fecha en que quede firme la resolución o acuerdo dictado.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 120.
 
-El REGISTRO operará las bajas de los ciudadanos que hayan fallecido o de quienes hubiesen sido suspendidos en el ejercicio de sus derechos políticos, una vez que esto sea acreditado documentalmente por las autoridades competentes.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 121.
 
-El Director del REGISTRO tendrá la obligación de solicitar a la Secretaría de Relaciones Exteriores en forma semestral, que le informe sobre los movimientos que registre en relación con:
-
-I.- Expedición o cancelación de cartas de naturalización;
-
-II.- Expedición de certificados de nacionalidad; y
-
-III.- Renuncias a la nacionalidad.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 122.
 
-La Dirección del REGISTRO revisará periódicamente el grado de depuración y actualización del Padrón Electoral, y aplicará las medidas conducentes para preservar su máxima confiabilidad. Para ese fin la Dirección mencionada recabará de los órganos de las administraciones públicas federal, estatal y municipal la información necesaria para registrar todo a (sic) cambio que los afecte.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-La depuración y actualización del Padrón Electoral deberá suspenderse a más tardar el día último de enero del año de la elección.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO V. DE LAS LISTAS NOMINALES DE ELECTORES Y SU REVISION
 
 ###### ARTICULO 123.
 
-Las listas nominales de electores son las relaciones elaboradas por la Dirección del REGISTRO, agrupadas por distrito y sección, ordenadas alfabéticamente, que contienen el nombre de las personas incluidas en el Padrón Electoral, a quienes se ha expedido y entregado su CREDENCIAL, y no se encuentren suspendidos sus derechos.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 124.
 
-Las listas nominales con fotografía se integrarán con los mismos datos y en la misma forma que las listas nominales de electores, llevando incluida adicionalmente la fotografía de los electores consignados en ellas. Se utilizarán el día de la jornada electoral y podrán incluir huella digital y firma del elector.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 125.
 
-La sección electoral es la fracción territorial de los distritos electorales para la inscripción de los ciudadanos en el Padrón Electoral y en las listas nominales de electores.
-
-Las secciones electorales se enumerarán por orden progresivo y, en las listas de cada sección, los ciudadanos aparecerán por orden alfabético.
-
-Cada sección tendrá como mínimo 50 electores y como máximo 1,500 electores. El fraccionamiento en secciones electorales estará sujeto a la revisión periódica de la división territorial de los distritos electorales del Estado.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 126.
 
-La Dirección del REGISTRO entregará a sus Delegaciones Municipales las listas nominales básicas de electores para ser exhibidas, a más tardar el día 30 de abril, que serán fijadas en lugares públicos por 15 días contados a partir de la fecha de su recepción, a efecto de que los PARTIDOS POLITICOS a través de las Comisiones de Vigilancia y los ciudadanos presenten ante la Delegación respectiva las observaciones que sobre las mismas puedan hacer, disponiendo para esto con un plazo de 25 días a partir del día en que se inicia su exhibición.
-
-Los PARTIDOS POLITICOS tienen derecho a obtener por conducto de sus representantes ante las Comisiones de Vigilancia, copia en medios magnéticos a partir de su exhibición o en papel de dichas listas en fecha posterior. La Dirección del REGISTRO podrá acordar otras formas de difusión de las listas nominales de electores, para que éstas sean conocidas por el mayor número de ciudadanos.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 127.
 
-Una vez recibidas y acreditadas las observaciones pertinentes, las Delegaciones Municipales remitirán a la Dirección del REGISTRO las observaciones a las mismas, dentro de los 3 días siguientes a su formulación.
-
-Cuando procedan las observaciones serán introducidas a los listados del Padrón Electoral, haciéndose las modificaciones respectivas.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 128.
 
-A más tardar el 5 de junio del año de la elección la Dirección del REGISTRO entregará a las Delegaciones Municipales las listas nominales de electores complementarias, para ser exhibidas en lugares públicos por 5 días, a efecto de que los PARTIDOS POLITICOS a través de las Comisiones de Vigilancia y los ciudadanos presenten ante la Delegación respectiva las observaciones que sobre las mismas puedan hacer, disponiendo para esto de un plazo de 5 días a partir del día en que se inicie su exhibición.
-
-Las listas complementarias contendrán los nombres de los ciudadanos que hayan obtenido su CREDENCIAL hasta la fecha de cierre de entrega, incluyendo las observaciones que hayan procedido en los listados nominales básicos.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 129.
 
-El día 16 de junio del año en que se celebre el proceso electoral ordinario, la Dirección del REGISTRO entregará a cada uno de los PARTIDOS POLITICOS, en medios magnéticos, copia del listado nominal de electores, ordenado alfabéticamente y por secciones, correspondientes a cada uno de los distritos electorales, de todos aquellos ciudadanos que hubiesen obtenido su CREDENCIAL al día 30 de abril y reposiciones al último día de mayo del año de la elección.
-
-Las listas nominales de electores que se entreguen a los PARTIDOS POLITICOS serán para su uso exclusivo y no podrán destinarlas a finalidad u objeto distinto al de su revisión.
-
-El día 20 de junio, la Dirección del REGISTRO informará sobre el listado nominal al CONSEJO GENERAL, para que al día siguiente éste declare en sesión, en su caso, que el Padrón Electoral y los listados nominales de electores son válidos y definitivos.
-
-Los PARTIDOS POLITICOS obtendrán del REGISTRO copia en papel de los listados nominales de electores a partir del día 30 de junio, ya que los mismos hayan sido declarados válidos y definitivos.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 130.
 
-La Dirección del REGISTRO, una vez aprobado el Padrón Electoral y los listados nominales a que se refiere el artículo anterior, ordenará la impresión de las listas nominales de electores con fotografía por distrito y por sección electoral para su entrega, el día 21 de junio al CONSEJO GENERAL, para que éste las distribuya a los CONSEJOS MUNICIPALES y estos últimos, dentro de los 5 días anteriores al de la jornada electoral los haga llegar a su vez a los Presidentes de las mesas directivas de casilla.
-
-El CONSEJO GENERAL a más tardar el 21 de junio del año de la elección determinará, a propuesta de la Comisión Estatal de Vigilancia, el procedimiento mediante el cual los PARTIDOS POLITICOS podrán revisar y cotejar los listados nominales con fotografía en los CONSEJOS MUNICIPALES.
-
-La revisión a que se refiere el párrafo anterior podrá efectuarse hasta 5 días antes de la jornada electoral.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 131.
 
-Los PARTIDOS POLITICOS contarán en la Comisión de Vigilancia con terminales de computación que les permitan tener acceso a la información contenida en el Padrón Electoral y en las listas nominales de electores. Igualmente y conforme a las posibilidades técnicas, los partidos tendrán garantía de acceso permanente al contenido de la base de datos, base de imágenes, documentos fuentes y movimientos a la base de datos del padrón.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
-De igual manera, la Dirección del REGISTRO instalará en sus Delegaciones Municipales mecanismos de consulta a los cuales tendrá acceso cualquier ciudadano para verificar si está registrado en el Padrón Electoral e incluido en la lista nominal de electores que corresponda.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO VI. DE LA CREDENCIAL ESTATAL DE ELECTOR
 
 ###### ARTICULO 132.
 
-El modelo de CREDENCIAL será autorizado por el CONSEJO GENERAL y deberá contener los datos que hagan posible su identificación como ciudadanos, y que serán por lo menos los siguientes:
-
-I.- Datos del elector:
-
-a).- Municipio y localidad que corresponda a su domicilio;
-
-b).- Distrito y sección electoral en donde deberá votar;
-
-c).- Apellidos paterno, materno y nombre completo;
-
-d).- Domicilio;
-
-e).- Sexo;
-
-f).- Fecha de nacimiento;
-
-g).- Año de registro; y
-
-II.- Datos de control y seguridad:
-
-a).- Número de CREDENCIAL;
-
-b).- Clave de elector;
-
-c).- Código de barras;
-
-d).- Fotografía del elector;
-
-e).- Lugar para asentar la firma y huella digital del elector; y
-
-f).- Firma impresa del Director del REGISTRO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 133.
 
-La CREDENCIAL se hará por duplicado, el original se entregará al ciudadano cuyo derecho acredita y el duplicado llevará impresa la leyenda "no da derecho a votar" y se destinará para el archivo clasificado de CREDENCIALES de la Dirección del REGISTRO.
-
-En todos los casos, al recibir su CREDENCIAL el ciudadano deberá verificar que todos los datos asentados sean correctos, firmarla y poner su huella digital.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 134.
 
-Los ciudadanos a quienes les sea negada la inscripción en el REGISTRO, en la delegación, agencia u oficina correspondiente a su domicilio, deberán dirigirse a la Dirección del REGISTRO, señalando los motivos concretos en que funde su queja. De encontrar procedente la impugnación recibida, la Dirección del REGISTRO procederá a efectuar la inscripción correspondiente y a expedir la CREDENCIAL. La resolución en sentido negativo de la Dirección del REGISTRO, podrá ser recurrida ante el TRIBUNAL, quien resolverá en forma definitiva.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ## TITULO SEXTO. DE LA VIGILANCIA A LOS TRABAJOS DEL REGISTRO ESTATAL DE ELECTORES
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 135.
 
-El CONSEJO GENERAL, en cada proceso electoral, ordenará la realización de una auditoría externa al Padrón Electoral y a los listados nominales, la que se deberá adjudicar mediante licitación pública a empresas especializadas.
-
-Dicha auditoría deberá practicarse dentro del lapso comprendido entre el último día fijado para la entrega normal de CREDENCIALES y hasta 5 días antes de la entrega del listado nominal con fotografía por el REGISTRO al CONSEJO GENERAL.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 136.
 
-El CONSEJO GENERAL y la Dirección del REGISTRO, deberán considerar en su presupuesto los recursos económicos necesarios para que los PARTIDOS POLITICOS contraten ciudadanos especializados, a fin de que integren los órganos de vigilancia del REGISTRO.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO II. DE LA COMISION ESTATAL DE VIGILANCIA
 
 ###### ARTICULO 137.
 
-La Comisión Estatal de Vigilancia es órgano del REGISTRO que tiene como función vigilar la integración, depuración y actualización permanente del Padrón Electoral.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 138.
 
-Las Comisiones de Vigilancia se integrarán por:
-
-I.- El Director del REGISTRO o, en su caso, el Delegado Municipal correspondiente al Municipio de que se trate, quienes fungirán como Presidente de las respectivas Comisiones;
-
-II.- Un representante propietario o su suplente por cada uno de los PARTIDOS POLITICOS; y
-
-III.- Un Secretario Técnico designado por el Presidente, de entre los miembros del servicio profesional electoral.
-
-Los PARTIDOS POLITICOS deberán acreditar oportunamente a sus representantes ante las Comisiones de Vigilancia, los que podrán ser sustituidos en todo tiempo.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 139.
 
-La Comisión de Vigilancia tiene las siguientes atribuciones:
-
-I.- Vigilar que la inscripción de los ciudadanos en el Padrón Electoral y en las listas nominales de electores, así como su actualización se lleven a cabo en los términos de este CODIGO;
-
-II.- Vigilar que la CREDENCIAL se entregue oportunamente a los ciudadanos;
-
-III.- Vigilar que la demarcación distrital y seccional del territorio del Estado se efectúe y mantenga, en los términos establecidos en este CODIGO;
-
-IV.- Recibir las solicitudes y los respectivos elementos probatorios que presenten los PARTIDOS POLITICOS, para la depuración y actualización del Padrón Electoral y de las listas nominales de electores;
-
-V.- Coadyuvar en la actualización del Padrón Electoral;
-
-VI.- Someter a consideración del CONSEJO GENERAL, los acuerdos que normen las actividades que sea necesario implementar para la buena marcha de los trabajos relacionados con el Padrón Electoral, la entrega de CREDENCIALES y la elaboración de los listados nominales;
-
-VII.- Supervisar las auditorías externas que se practiquen al Padrón Electoral y al listado nominal por acuerdo del CONSEJO GENERAL;
-
-VIII.- Proponer al CONSEJO GENERAL, la planeación general de las actividades de la Dirección del REGISTRO, para la actualización, depuración y verificación del Padrón Electoral diseñado previamente por su Comité Técnico; y
-
-IX.- Las demás que este CODIGO les señale.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 140.
 
-Para cumplimentar sus atribuciones, la Comisión Estatal de Vigilancia contará con un Comité Técnico que tendrá como objeto ser el órgano de origen y formulación de las propuestas para la planeación estratégica, programación, supervisión y vigilancia, evaluación, seguimiento y auditoría del desarrollo de los trabajos y programas del REGISTRO.
-
-Sus recomendaciones serán consideradas con la mayor atención por los órganos competentes, los cuales deberán otorgar prioridad en su ejecución, en los casos procedentes.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 141.
 
-El Comité Técnico estará integrado por:
-
-I.- Un Coordinador, que será el Secretario Técnico de la Comisión Estatal de Vigilancia, y se auxiliará de los funcionarios del REGISTRO que requiera para el desarrollo de esta función; y
-
-II.- Dos representantes por cada PARTIDO POLITICO; uno de ellos será el representante acreditado ante la Comisión Estatal de Vigilancia, y el otro se acreditará ante este Comité, debiendo contar con una alta calificación técnica en las áreas de estadística, actuaría, informática o de demografía. Podrán ser sustituidos en todo momento.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 142.
 
-El Comité Técnico se estructurará operativamente de la siguiente manera:
-
-Con los segundos representantes de los PARTIDOS POLITICOS ante el Comité Técnico y los de la Dirección del REGISTRO, se integrará una unidad operativa, que se encargará de auxiliar y apoyar en la supervisión de las actividades que se efectúen con motivo del programa, así como de evaluar el cumplimiento de los acuerdos adoptados por el Comité. Los primeros representantes de los PARTIDOS POLITICOS ante el Comité podrán integrarse a estas actividades.
-
-La unidad operativa podrá integrar, como apoyo a los trabajos que el propio Comité le encomiende, a técnicos designados por los representantes de los PARTIDOS POLITICOS acreditados ante la Comisión Estatal de Vigilancia, en el número que se requiera en función de las necesidades y recursos disponibles.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 143.
 
-El Comité funcionará de la siguiente manera:
-
-I.- Sesionará por lo menos una vez por semana;
-
-II.- La unidad operativa informará al Comité de las actividades que realice y éste a su vez, a la Comisión Estatal de Vigilancia de las resoluciones que adopte; y
-
-III.- Se levantará una minuta de cada reunión que celebre.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 144.
 
-El Comité tendrá las siguientes actividades:
-
-I.- La planeación estratégica, que comprende:
-
-a).- Abocarse al análisis de las actividades que a mediano y largo plazo debe desarrollar la Dirección del REGISTRO, en relación a sus programas, definiendo los conceptos de los mismos;
-
-b).- Revisar la planeación y proponer, en su caso, a la Comisión Estatal de Vigilancia, las modificaciones en las áreas de cartografía, revisión documental, consolidación de la base de datos, operativo de campo, capacitación, informática, seguimiento, actualización y comunicación;
-
-c).- Proponer para las etapas del operativo de campo la expedición de la CREDENCIAL y previo análisis de funcionamiento y cobertura de los módulos, las adecuaciones a la operación, ubicación, días y horario de atención al público de los módulos fijos, de los módulos móviles y las rutas de cobertura, a fin de poder garantizar al ciudadano la misma oportunidad de obtener su CREDENCIAL;
-
-d).- Diseñar la metodología para la supervisión de los PARTIDOS POLITICOS en las actividades que se realicen en el centro de cómputo; y
-
-e).- Diseñar la metodología para los trabajos de supervisión que desarrollen las comisiones estatales y municipales de vigilancia;
-
-II.- Analizar, supervisar, evaluar y auditar el desarrollo y avances de los programas del REGISTRO, en sus aspectos de consolidación cartográfica, verificación documental, verificación de campo, listado de homonimias, tablas de inconsistencias, corrección de inconsistencias, generación de cintas magnéticas, instalación y funcionamiento de módulos, avances de ciudadanos que obtuvieron su credencial, incidencias, actualización del Padrón Electoral, creación en la base de imágenes y su utilización;
-
-III.- Analizar los catálogos de cartografía, básico de secciones y localidades para su cotejo con la información del Padrón Electoral y las listas nominales de electores;
-
-IV.- De monitoreo y seguimiento:
-
-a).- Supervisar que las Comisiones Municipales de Vigilancia se integren, funcionen, sesionen adecuadamente y cumplan, en su ámbito de competencia, con los trabajos de vigilancia respecto de los programas; así como cumplir y dar seguimiento a los acuerdos tomados por la Comisión Estatal de Vigilancia. Como resultado de las mismas, podrán presentar las propuestas que estimen pertinentes;
-
-b).- Supervisar al centro de cómputo para conocer materialmente los procedimientos para lograr la correspondencia de la base de datos, documentos fuente y ubicación geográfico-electoral del domicilio de los ciudadanos, la corrección de inconsistencias, la coordinación entre el operativo de campo y los sistemas informáticos, así como los sistemas de control. Para el efecto deberá elaborarse un calendario de supervisión; y
-
-c).- Conocer los avances del impacto de la campaña de comunicación social, y dado el caso, proponer acciones que eficienticen esta campaña;
-
-V.- De evaluación que se realizarán en cada Municipio, conforme se desarrollen cada una de las etapas procedimentales señaladas en la planeación general del programa, para conocer el grado de cumplimiento de los procedimientos y el logro de los objetivos. En su caso, propondrá adecuaciones o innovaciones a los procedimientos con el objeto de procurar una mayor eficiencia.
-
-Las adecuaciones o innovaciones que se formulen, considerarán el uso racional de los recursos con que cuenta el INSTITUTO para ejecutar los programas; y
-
-VI.- De auditoría, consistentes en verificar mediante métodos estadísticos, los siguientes aspectos del programa:
-
-a).- La correspondencia de la delimitación territorial de las secciones electorales con los productos cartográficos y que comprendan el número de ciudadanos establecido en este CODIGO;
-
-b).- La información contenida en los registros de la base de datos, para determinar el nivel de coincidencia de la información de las solicitudes de incorporación al Padrón Electoral con la cartografía electoral;
-
-c).- El catálogo de localidades para verificar que las claves de cada localidad, manzana y sección, serán únicas;
-
-d).- La configuración geográfica de las secciones clasificadas como rurales y mixtas, para conocer si son adecuadas sus vías de comunicación y permitan al ciudadano trasladarse a la cabecera seccional;
-
-e).- Los reportes parciales de las adecuaciones cartográficas y que las mismas se hayan realizado correctamente;
-
-f).- Al archivo clasificado del centro de cómputo, para conocer su consistencia interna, en relación a la existencia de los documentos fuente y su correcta ubicación;
-
-g).- Que las actividades de depuración hayan sido realizadas adecuadamente;
-
-h).- Las cintas magnéticas con los registros ciudadanos depurados y las cintas magnéticas con los registros de los ciudadanos con inconsistencia;
-
-i).- Los procedimientos de la depuración en gabinete y campo para constatar que se apegan a la normatividad técnica establecida;
-
-j).- Que se encuentren en módulo las CREDENCIALES para votar de los ciudadanos que correspondan al área de responsabilidad;
-
-k).- Que los desechos de los materiales utilizados para la expedición de la CREDENCIAL sean totalmente destruidos; y
-
-l).- En su momento, que las nuevas inscripciones, cambio de domicilio, reposiciones de credencial y rectificaciones, se efectúen adecuadamente tanto en su levantamiento, captura y procesamiento informático.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 # LIBRO CUARTO. DEL INSTITUTO ELECTORAL DEL ESTADO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 145.
 
-El Instituto Electoral del Estado es el organismo público de carácter permanente, dotado de personalidad jurídica y patrimonio propios, responsable de la organización, desarrollo, vigilancia y calificación de los procesos electorales.
+El Instituto Electoral del Estado es el organismo público de carácter permanente, dotado de personalidad jurídica y patrimonio propios, responsable de la organización, desarrollo, vigilancia y calificación de los procesos electorales. Asimismo, vigilará los procesos internos que realicen los PARTIDOS POLÍTICOS para la selección de sus candidatos a cargos de elección popular, con el fin de que se ajusten a los tiempos, formas de financiamiento y topes de gastos que establece este CÓDIGO.
 
 El INSTITUTO será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento.
 
@@ -1869,19 +1671,19 @@ Para el desempeño de sus actividades el INSTITUTO contará en su estructura con
 
 a).- El órgano de Dirección será el CONSEJO GENERAL;
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-b).- El órgano ejecutivo, que será presidido por el Presidente del CONSEJO GENERAL y se integrará con el Secretario Ejecutivo, el Director de Registro Estatal de Electores, si estuviera en funciones y los Vocales del INSTITUTO.
+b).- El órgano ejecutivo, que será presidido por el Presidente del CONSEJO GENERAL y se integrará con el Secretario Ejecutivo y los Vocales del INSTITUTO;
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
-
-c).- El órgano técnico será la Dirección del Registro Estatal de Electores y se integrará de acuerdo con el artículo 75 de este Código, y
+c).- (DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
 
 d).- El órgano de vigilancia estará integrado por 3 Consejeros Propietarios del CONSEJO GENERAL y un representante de cada uno de los PARTIDOS POLITICOS.
 
-Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral; el ingreso, capacitación, promoción, funciones, derechos y obligaciones de dicho personal serán reguladas por las disposiciones de este CODIGO y las del estatuto correspondiente que apruebe el CONGRESO, a propuesta del CONSEJO GENERAL.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+El órgano ejecutivo dispondrá del personal calificado necesario para prestar el servicio profesional electoral; el ingreso, capacitación, promoción, funciones, derechos y obligaciones de dicho personal serán reguladas por las disposiciones de este CÓDIGO y las del estatuto correspondiente que apruebe el CONGRESO, a propuesta del CONSEJO GENERAL.
 
 ###### ARTICULO 150.
 
@@ -1923,11 +1725,11 @@ Los Consejeros propietarios tendrán derecho a voz y voto.
 
 Si a la conclusión del período legal del cargo de Consejero a que se refiere este artículo, el CONGRESO no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el mismo hasta que tome posesión el que lo sustituya.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 153.
 
-El CONSEJO GENERAL contará con un Presidente que será uno de los Consejeros Electorales, electo por un mínimo de 5 votos de los demás Consejeros, y un Secretario Ejecutivo, que será un Consejero Electoral, electo por 5 votos por parte del CONSEJO GENERAL, a propuesta de su Presidente. Ambos funcionarios durarán en su encargo 4 años o hasta terminar el periodo, pudiendo ser electos o reelectos para completar el segundo periodo de 3 años.
+El CONSEJO GENERAL contará con un Presidente que será uno de los Consejeros Electorales, electo por un mínimo de 5 votos de los Consejeros, y un Secretario Ejecutivo, que será un Consejero Electoral, electo por 5 votos por parte del CONSEJO GENERAL, de entre una terna propuesta por el Consejero Presidente. Ambos funcionarios durarán en su encargo 4 años o hasta terminar el período, pudiendo ser electos o reelectos para completar el segundo período de 3 años.
 
 ###### ARTICULO 154.
 
@@ -2095,13 +1897,17 @@ XII.- Desahogar las consultas que le formulen los PARTIDOS POLITICOS, acerca de 
 
 XIII.- Resolver los asuntos que surjan con motivo del funcionamiento de los CONSEJOS MUNICIPALES;
 
-XIV.- Autorizar al Presidente y al Secretario Ejecutivo, en tanto no se cuente con el REGISTRO, para suscribir con el Instituto Federal Electoral, los convenios necesarios para la utilización del padrón electoral único, de las listas nominales de electores y de la CREDENCIAL;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+XIV.-Autorizar al Presidente y al Secretario Ejecutivo, para suscribir con el Instituto Federal Electoral, los convenios necesarios para la utilización del padrón electoral único, de las listas nominales de electores y de la CREDENCIAL;
 
 XV.- Autorizar al Presidente y al Secretario Ejecutivo y siempre que las elecciones locales coincidan con la fecha de las federales, a celebrar convenio con el Instituto Federal Electoral a fin de utilizar las mismas casillas, mesas directivas y representantes que funcionen en el proceso electoral federal, de conformidad con las disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales;
 
-XVI.- Colaborar con el REGISTRO para que cumpla con los lineamientos a que se sujetará la depuración y actualización del padrón electoral;
+XVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
 
-XVII.- Coadyuvar con el REGISTRO para realizar los estudios correspondientes sobre la demarcación territorial de los distritos electorales uninominales y su densidad poblacional y, de ser procedente, para solicitar al CONGRESO las modificaciones a que haya lugar;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+XVII.- Realizar los estudios correspondientes sobre la demarcación territorial de los distritos electorales uninominales y su densidad poblacional y, de ser procedente, solicitar al CONGRESO las modificaciones a que haya lugar;
 
 XVIII.- Aprobar el modelo de las actas de la jornada electoral y los formatos de la documentación electoral;
 
@@ -2133,15 +1939,17 @@ XXX.- Aprobar anualmente el proyecto de Presupuesto de Egresos del INSTITUTO a p
 
 XXXI.- Conocer los informes que las Vocalías rindan por conducto del Secretario Ejecutivo;
 
-XXXII.- Reglamentar, en su caso, el funcionamiento del REGISTRO y nombrar, a propuesta en terna del Presidente, al Director del mismo;
+XXXII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
 
-XXXIII.- Designar, a propuesta del Director del REGISTRO, a los Subdirectores del organismo;
+XXXIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
 
 XXXIV.- Organizar, en la etapa de preparación del proceso electoral, reuniones estatales de orientación a funcionarios electorales, así como formular los instructivos de capacitación que se aplicarán a dichos funcionarios;
 
 XXXV.- Editar una publicación para difundir sus actividades, en la que los PARTIDOS POLITICOS registrados expongan sus ideas, así como un boletín para la publicación de sus acuerdos y resoluciones;
 
-XXXVI.- Determinar el tope máximo de los gastos de campaña que puedan efectuar los PARTIDOS POLITICOS en las elecciones de Gobernador, de Diputados locales y Ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+XXXVI.- Determinar el tope máximo de los gastos en los procesos internos de selección de sus candidatos a cargos de elección popular y de los de campaña, que puedan efectuar los PARTIDOS POLÍTICOS en las elecciones de Gobernador, de Diputados Locales y de Ayuntamientos;
 
 XXXVII.- Recibir y, en su caso, aprobar, las solicitudes de acreditación de los ciudadanos y las agrupaciones que pretendan participar como observadores electorales;
 
@@ -2159,11 +1967,17 @@ XLII.- Contratar personal eventual y permanente para apoyar las actividades del 
 
 XLIII.- Apoyar la realización de debates públicos, siempre y cuando haya acuerdo entre partidos y candidatos;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-XLIV.- Aprobar el Reglamento que regule las encuestas y sondeos previos a la jornada electoral, así como los conteos rápidos relacionados con resultados electorales y las sanciones correspondientes; y
+XLIV Aprobar el Reglamento que regule las encuestas y sondeos previos a la jornada electoral, así como los conteos rápidos relacionados con resultados electorales y las sanciones correspondientes;
 
-XLV.- Las demás que le señalen este CODIGO, los reglamentos interiores y otras disposiciones.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+XLV.- En el caso de elecciones extraordinarias, ajustar los plazos relativos a la preparación de la elección, desarrollo de la jornada electoral, y del proceso de calificación en su caso, así como autorizar la implementación y supresión de actividades que sin afectar el proceso electoral de la elección de que se trate puedan llevarse a cabo, a fin de que la misma se celebre en los plazos que para tal efecto señale la convocatoria emitida por el CONGRESO; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+XLVI.- Las demás que señalen este CÓDIGO, los reglamentos interiores y otras disposiciones.
 
 ### CAPITULO III. DEL PRESIDENTE, DE LOS CONSEJEROS ELECTORALES Y DEL SECRETARIO EJECUTIVO
 
@@ -2211,7 +2025,9 @@ IV.- Formar parte de las comisiones que se integren;
 
 V.- Participar en la elaboración del orden del día para las sesiones del CONSEJO GENERAL;
 
-VI.- Integrar una comisión para revisar y dictaminar sobre los informes de financiamiento y gastos de campaña de los PARTIDOS POLITICOS, proponiendo un sistema homologado de cuentas y contribuyendo a la capacitación respectiva;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VI.- Integrar una comisión para revisar y dictaminar sobre los informes de financiamiento y gastos de campaña de los PARTIDOS POLÍTICOS, así como de los informes de los procesos internos para la selección de sus candidatos a cargos de elección popular, proponiendo un sistema homologado de cuentas y contribuyendo a la capacitación respectiva;
 
 VII.- Elaborar el proyecto de resolución en la substanciación del recurso de revisión, por designación del Presidente; y
 
@@ -2297,27 +2113,19 @@ I.- Cinco Consejeros Electorales propietarios y 2 suplentes; y
 
 II.- Un representante propietario y un suplente por cada uno de los PARTIDOS POLITICOS, con el carácter de Comisionado.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 172.
 
 Los CONSEJOS MUNICIPALES se instalarán durante el mes de febrero del año de la elección, iniciando entonces sus sesiones y actividades regulares.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
-
-A partir de su instalación y hasta el término del proceso electoral sesionarán en forma ordinaria por lo menos dos veces por mes. Concluido el proceso electoral se reunirán cuando sean convocados por el Presidente del CONSEJO GENERAL del Instituto.
+A partir de su instalación y hasta el término del proceso electoral sesionarán en forma ordinaria por lo menos dos veces por mes. Concluido el proceso electoral se reunirán cuando sean convocados por el Presidente del CONSEJO GENERAL del INSTITUTO.
 
 Para que un CONSEJO MUNICIPAL pueda sesionar, deberán estar presentes la mayoría de los Consejeros, entre los que deberá estar el Presidente.
 
 En caso de que no se reúna el quórum establecido en el párrafo anterior, la sesión tendrá lugar dentro de las 24 horas siguientes con los Consejeros que asistan. Si cumplido este plazo no se presentara el Presidente a la sesión, uno de los Consejeros lo sustituirá con carácter de interino y ejercerá la Presidencia del CONSEJO MUNICIPAL mientras persista la ausencia del Presidente, si ésta es temporal, o en caso de ser definitiva, hasta la designación de quien lo sustituya. La falta temporal del Presidente no excederá de 30 días.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
-
-La falta de un Consejero Electoral Municipal propietario a 2 sesiones consecutivas sin causa justificada, dará lugar a que se llame al suplente, quien lo sustituirá por el resto del periodo para el que fue electo.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
-
 Las resoluciones serán tomadas por mayoría de votos de los integrantes del CONSEJO, salvo las que por ley requieran de mayoría calificada.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
 El Secretario Ejecutivo levantará las actas de las sesiones y tendrá a su cargo el archivo del CONSEJO.
 
@@ -2577,6 +2385,10 @@ Las autoridades estatales y municipales están obligadas a proporcionar a los or
 
 El proceso electoral es el conjunto de actos ordenados por la CONSTITUCION FEDERAL, la CONSTITUCION y este CODIGO, realizados por las autoridades electorales, los PARTIDOS POLITICOS y los ciudadanos, que tienen por objeto la renovación periódica del titular del Poder Ejecutivo, de los integrantes del Poder Legislativo y de los Ayuntamientos del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Corresponde exclusivamente al INSTITUTO y a los PARTIDOS POLÍTICOS y/o coaliciones realizar las actividades tendientes a la promoción del voto ciudadano, durante los procesos electorales que se celebren en la entidad.
+
 ###### ARTICULO 191.
 
 Para los efectos de este CODIGO, el proceso electoral comprende las siguientes etapas:
@@ -2609,7 +2421,9 @@ VI.- La exhibición y entrega a los organismos electorales y PARTIDOS POLITICOS 
 
 VII.- El registro de representantes de partido ante las mesas directivas de casilla;
 
-VIII.- Los actos relacionados con las campañas y propaganda electorales; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VIII.- Los actos relacionados con los procesos internos de los PARTIDOS POLÍTICOS para la selección de sus candidatos a cargos de elección popular, con las campañas y propaganda electorales; y
 
 IX.- Los actos y resoluciones dictados por los organismos electorales relacionados con las actividades y tareas anteriores, o con otros que resulten en cumplimiento de sus atribuciones y que se produzcan hasta la víspera del día de la elección.
 
@@ -2633,29 +2447,47 @@ La etapa de calificación de la elección de Gobernador inicia con la recepción
 
 Corresponde exclusivamente a los PARTIDOS POLITICOS el derecho de solicitar el registro de candidatos a cargos de elección popular.
 
-Las candidaturas a Diputados por el principio de mayoría relativa y por el principio de representación proporcional se registrarán por fórmulas compuestas cada una por un propietario y un suplente. Los PARTIDOS POLITICOS podrán registrar simultáneamente, en un mismo proceso electoral, hasta 2 candidatos a Diputado local por mayoría relativa y por representación proporcional.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Las candidaturas a Diputados por el principio de mayoría relativa se registrarán por fórmulas compuestas cada una por un propietario y un suplente; los diputados por representación proporcional se registraran por lista integrada únicamente por propietarios. Los PARTIDOS POLÍTICOS podrán registrar simultáneamente, en un mismo proceso electoral, hasta 2 candidatos a Diputado Local por mayoría relativa y por representación proporcional.
 
 Para los Ayuntamientos, las candidaturas se comprenderán en una sola planilla que enliste ordenadamente a los candidatos a Presidente Municipal, Síndico y Regidores, con sus respectivos suplentes.
 
-Ningún PARTIDO POLITICO podrá registrar a un candidato de otro PARTIDO POLITICO.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Ningún PARTIDO POLÍTICO podrá registrar a un candidato de otro PARTIDO POLÍTICO, salvo que registren candidatos comunes.
 
 ###### ARTICULO 197.
 
 Para el registro de candidaturas a cargos de elección popular, el PARTIDO POLITICO postulante deberá registrar previamente la plataforma electoral que sus candidatos sostendrán en la campaña política.
 
-La plataforma electoral deberá presentarse para su registro ante el CONSEJO GENERAL dentro de la segunda quincena del mes de febrero del año de la elección, el cual expedirá constancia del registro.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+La plataforma electoral deberá presentarse para su registro ante el CONSEJO GENERAL, dentro de la segunda quincena del mes de marzo del año de la elección, el cual expedirá constancia del registro.
 
 ###### ARTICULO 198.
 
 Los plazos para solicitar el registro de candidatos en el año de la elección será:
 
-I.- Para Gobernador del Estado, del 1o. al 15 de marzo;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-II.- Para Diputados por ambos principios, del 16 al 31 de marzo; y
+I.- Para Gobernador del Estado, del 10 al 15 de abril; y
 
-III.- Para Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, del 1o. al 15 de abril. No habrá listas adicionales para Regidores plurinominales; su asignación se llevará a cabo de conformidad con la fórmula establecida por los artículos 307 y 308 de este CODIGO.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-El CONSEJO GENERAL y los CONSEJOS MUNICIPALES, publicarán avisos en sus respectivas demarcaciones de la apertura del registro correspondiente.
+II.- Para Diputados por ambos principios y para presidentes Municipales, Síndicos y Regidores de los Ayuntamientos del 1 al 6 de mayo.
+
+III.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
+
+IV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+No habrá listas adicionales para Regidores plurinominales; su asignación se llevará a cabo de conformidad con la fórmula establecida por los artículos 307 y 308 de este CÓDIGO.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+El CONSEJO GENERAL y los CONSEJOS MUNICIPALES publicarán avisos en sus respectivas demarcaciones de la apertura del registro correspondiente.
 
 ###### ARTICULO 199.
 
@@ -2687,9 +2519,17 @@ IV.- Ocupación;
 
 V.- Clave electoral;
 
-VI.- Cargo para el que se postula; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-VII.- Denominación, color o combinación de colores y emblema del PARTIDO POLITICO o coalición que lo postula.
+VI.- Cargo para el que se postula;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VII.- Denominación, color o combinación de colores y emblema del PARTIDO POLÍTICO o coalición que lo postula; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VIII.- Manifestación de tratarse de una candidatura común en su caso.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -2699,7 +2539,13 @@ a).- Declaración de aceptación de la candidatura;
 
 b).- Documentación que acredite que cumple con los requisitos de elegibilidad;
 
-c).- Constancia de que su PARTIDO o coalición cumplió con lo establecido en el artículo 49 en sus fracciones IV, VII, VIII Y XII de este ordenamiento.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+c).- Constancia de que su PARTIDO o coalición cumplió con lo establecido en el artículo 49 en sus fracciones IV, VII, VIII y XIII de este ordenamiento; y
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+d).- La resolución del CONSEJO GENERAL o de los CONSEJOS MUNICIPALES según el caso por la que se aprueba el acuerdo de los PARTIDOS POLÍTICOS para postular candidaturas comunes.
 
 ###### ARTICULO 201.
 
@@ -2707,9 +2553,9 @@ Para el registro de las listas de candidatos para Diputados por el principio de 
 
 I.- La plataforma electoral a que se refiere el artículo 197 y cumplió con lo establecido en la fracción VIII del artículo 49 de este CODIGO;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-II.- Los candidatos a diputados por el principio de mayoría relativa en más del 50% de los distritos electorales y haber cumplido con la fracción XII del artículo 49 de este CÓDIGO; y
+II.- Los candidatos a diputados por el principio de mayoría relativa en mas del 50% de los distritos electorales y haber cumplido con la fracción XIII del artículo 49 de este CÓDIGO; y
 
 III.- Asimismo, que presenta listas completas de candidatos a Diputados por el principio de representación proporcional.
 
@@ -2717,9 +2563,9 @@ III.- Asimismo, que presenta listas completas de candidatos a Diputados por el p
 
 Al recibirse una solicitud de registro de candidatura, el Presidente o el Secretario Ejecutivo del Consejo que corresponda, asentará mediante reloj checador la hora en que ésta se reciba. Dentro de las 24 horas siguientes, verificarán que se cumplió con todos los requisitos señalados en los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido o coalición correspondiente para que, dentro de las 48 horas siguientes, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 198 del presente CÓDIGO. En caso de solicitud de registro de candidaturas a diputado local, por el principio de mayoría relativa, inmediatamente que se reciba la solicitud deberá comunicarse al CONSEJO GENERAL, para la verificación del requisito a que se refiere el artículo 49 fracción XII de este CÓDIGO. De haber omisión se notificará de inmediato al PARTIDO POLÍTICO para los efectos señalados en este párrafo.
+Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido o coalición correspondiente para que, dentro de las 48 horas siguientes, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 198 del presente CÓDIGO. En caso de solicitud de registro de candidaturas a diputado local, por el principio de mayoría relativa, inmediatamente que se reciba la solicitud deberá comunicarse al CONSEJO GENERAL, para la verificación del requisito a que se refiere el artículo 49 fracción XIII de este CÓDIGO. De haber omisión se notificará de inmediato al PARTIDO POLÍTICO para los efectos señalados en este párrafo.
 
 El Presidente o Secretario Ejecutivo del Consejo que corresponda, deberán permanecer en sus respectivas oficinas hasta las 24 horas del último día de cada uno de los plazos a que se refiere el artículo 198 de este CODIGO.
 
@@ -2751,15 +2597,145 @@ II.- Concluido el plazo para el registro, solo por acuerdo del CONSEJO GENERAL p
 
 III.- La sustitución se podrá hacer mediante una solicitud al CONSEJO GENERAL. En este supuesto se observará, en su caso, lo previsto en el artículo 240 de este CODIGO.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 205.
 
-El CONSEJO GENERAL mandará publicar en el Periódico Oficial del Estado, la relación de nombres de los candidatos y los PARTIDOS POLÍTICOS o coaliciones que lo postulan. De igual manera se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
+El CONSEJO GENERAL mandará publicar en el Periódico Oficial del Estado, la relación de nombres de los candidatos y los PARTIDOS POLÍTICOS o coaliciones que los postulan, así como de las candidaturas comunes. De igual manera se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO I BIS. DE LOS PROCESOS INTERNOS DE LOS PARTIDOS POLITICOS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 205 BIS.- Para los efectos del presente Capítulo, se entenderá como procesos internos el conjunto de actividades que conforme a las disposiciones de este CÓDIGO, a sus estatutos y a los acuerdos tomados por los órganos partidarios hacia el interior de su organización, lleven a cabo los PARTIDOS POLÍTICOS, con el fin de seleccionar a sus candidatos a cargos de elección popular, a través de los métodos de selección por consulta a los militantes o a la población en general, o cuando se realicen por consejos, asambleas o convenciones de partido, que impliquen la realización por parte de quienes aspiran a ser seleccionados como candidatos, de cualquiera de las actividades identificadas en el artículo 206 de este CÓDIGO.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-1.- En los procesos internos, la equidad será el principio rector que deberá ser observado por las autoridades electorales, los PARTIDOS POLÍTICOS y precandidatos, entendiéndose a aquélla, como el trato justo e imparcial que debe prevalecer entre los contendientes.
+
+Corresponde exclusivamente a los partidos políticos o coaliciones, de acuerdo a sus estatutos, reglamentos o decisiones de los órganos partidarios que para tal efecto resulten competentes, determinar la anulación de un proceso interno, así como la postulación de un candidato en particular, atendiendo a los principios legales y causales especificas que sustenten esa determinación.
+
+El ciudadano afectado por estas decisiones podrá recurrir ante el Tribunal Electoral del Estado, quien se limitara a revisar la legalidad de las mismas.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 205 BIS-2.- Se considera precandidato al ciudadano que conforme a las disposiciones de este CÓDIGO, de los estatutos de los PARTIDOS POLÍTICOS y de los acuerdos de los órganos partidiarios, contienda dentro de los procesos internos para ser seleccionado como candidato a un cargo de elección popular.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-3.- Se entenderán como actos de precampaña y propaganda preelectoral los actos y conjunto de elementos señalados en el artículo 206 de este CODIGO que lleven a cabo, produzcan y difundan los precandidatos que participen en los procesos internos de los PARTIDOS POLÍTICOS.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-4.- No se considerará proselitismo o actos de precampaña la realización de actividades propias de la gestión o realización de informes inherentes de un puesto de elección popular, ni tampoco la entrevista esporádica en medios de comunicación, en períodos distintos a los de precampañas, en las cuales se exprese la intención de buscar una candidatura.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-5.- Los precandidatos que realicen actividades propagandísticas dentro de los cauces normativos de las precampañas, deberán conducirse dentro del marco de ética y respeto hacia sus contendientes y ajustándose a los lineamientos de los PARTIDOS POLÍTICOS en los que participen.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-6.- La propaganda electoral en la vía pública que utilicen los PARTIDOS POLÍTICOS y sus precandidatos, deberá ser retirada por los propios partidos a más tardar 5 días después de terminado el proceso interno. De no hacerlo, el CONSEJO GENERAL, solicitará a la autoridad municipal que proceda a realizar el retiro de propaganda, con la consecuencia de que el costo de los trabajos hechos por el municipio será descontado del financiamiento que reciba el PARTIDO POLÍTICO infractor.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-7.- Durante las precampañas, los PARTIDOS POLÍTICOS y los precandidatos, no podrán utilizar en su favor los programas públicos de carácter social, en la realización de actos de proselitismo político; la infracción de esta disposición dará lugar a la imposición de una multa de 2000 días de salario mínimo vigente en el Estado e independientemente de las sanciones penales que procedan.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-8.- Son obligaciones de los precandidatos:
+
+I.- Respetar los estatutos, lineamientos o acuerdos del PARTIDO POLÍTICO o coalición, respecto de la postulación de candidatos, así como las disposiciones de este CÓDIGO;
+
+II.- Presentar un informe financiero sobre el origen y aplicación de recursos, ante el órgano interno de los PARTIDOS POLÍTICOS encargado de la obtención y administración de los recursos, en un plazo no mayor de tres días después que se concluyan sus actividades de proselitismo;
+
+III.- Cumplir con el tope de gastos de precampaña que se hubiesen establecido;
+
+IV.- Presentar y difundir su programa de trabajo conforme a lo establecido en los documentos básicos y en la plataforma electoral de su partido; y
+
+V.- Las demás que establezcan este CÓDIGO, los estatutos y acuerdos de los PARTIDOS POLÍTICOS.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-9.- Queda prohibido a todo ciudadano que aspire a ser postulado como candidato por los PARTIDOS POLÍTICOS a un cargo de elección popular, y a los precandidatos:
+
+I.- Recibir cualquiera de las aportaciones a que se refieren los incisos a) al g) del párrafo tercero del artículo 54 de este CÓDIGO;
+
+II.- Realizar actos de precampaña fuera de los plazos establecidos en este CÓDIGO;
+
+III.- Utilizar recursos, en dinero o en especie, por sí o través de interpósita persona, cualquiera que sea su origen, antes del inicio del proceso interno;
+
+IV.- Utilizar para fines personales los recursos recabados para financiamiento de actos proselitistas de precampaña, salvo viáticos, alimentos y transportación u otros relacionados de manera directa;
+
+V.- Hacer uso de bienes públicos para la obtención de financiamiento o en apoyo a la realización de cualquier acto de proselitismo;
+
+VI.- Hacer uso de recursos financieros destinados a las dependencias y entidades públicas federales, estatales y municipales para el cumplimiento de sus actividades, en apoyo de sus actividades proselitistas;
+
+VII.- Emplear recursos humanos, de dependencias y entidades públicas federales, estatales y municipales, en horas destinadas para el cumplimiento de sus funciones, en apoyo de actos proselitistas;
+
+VIII.- Fijar su propaganda en contravención a lo establecido en el artículo 212 de este CÓDIGO; y
+
+IX.- Utilizar en su propaganda símbolos, distintivos, signos, emblemas o figuras con motivos religiosos, así como las expresiones verbales o escritas que injurien a las autoridades, a los PARTIDOS POLÍTICOS, precandidatos o que tiendan a incitar a la violencia y al desorden.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+#### SECCION SEGUNDA. DEL INICIO, DURACION Y TIEMPO EN QUE HABRAN DE CELEBRARSE LOS PROCESOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 205 BIS-10.- Los PARTIDOS POLÍTICOS realizarán sus procesos internos dentro de la etapa de preparación de la elección, durante los meses de febrero y marzo, debiendo concluir por lo menos 15 días antes de la fecha de registro de las candidaturas respectivas.
+
+En caso de que el proceso Interno Implique la realización de cualquiera de las actividades identificadas en el artículo 205 BIS-3, a cargo de los precandidatos, éstas no podrán durar más de 30 días contados a partir de la fecha que para tal efecto señale la convocatoria que al respecto expidan los PARTIDOS POLÍTICOS, pero en todo caso la conclusión de las mismas deberá hacerse por lo menos 3 días antes de la fecha señalada para que tenga verificativo la celebración de cualquiera de los métodos de selección aludidos en el artículo 205 BIS.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 205 BIS-11.- Los PARTIDOS POLÍTICOS emitirán la convocatoria para la celebración de sus procesos internos, de conformidad con lo dispuesto por este CÓDIGO, de sus estatutos, reglamentos y decisiones de los órganos de partido, pero, en todo caso, dentro de los 3 días siguientes al cierre del registro de precandidatos deberán remitir al INSTITUTO el acuerdo del método de selección elegido, la convocatoria expedida y los nombre (sic) de quienes hayan sido registrados para contender como precandidatos.
+
+En caso de que conforme a la convocatoria expedida y a la normatividad interna de cada PARTIDO POLÍTICO, se prevea la substanciación de medios de impugnación internos en contra de las determinaciones de registro, el plazo señalado en el párrafo anterior se contará a partir de que se emita la resolución procedente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+#### SECCION TERCERA. DEL FINANCIAMIENTO, TOPES DE GASTO Y FISCALIZACION DE LOS PROCESOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 205 BIS-12.- Los procesos internos de los PARTIDOS POLÍTICOS serán financiados con recursos privados especificando el origen de los mismos y nunca excederán del tope de gastos fijados por el CONSEJO GENERAL.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-13.- Los gastos que se originen por las actividades que realicen los precandidatos dentro de los procesos internos de los PARTIDOS POLÍTICOS, tendrán un tope máximo de gasto equivalente al 30% del monto autorizado para la campaña electoral inmediata anterior del cargo de que se trate.
+
+El CONSEJO GENERAL fijará los topes de gasto para los procesos internos a más tardar el 15 de enero.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-14.- En los casos en que los PARTIDOS POLÍTICOS requieran realizar gastos con motivo de los procesos internos para elegir sus candidatos a cargos de elección popular, podrán realizar erogaciones para gastos operativos y de difusión de sus procesos internos hasta por la cantidad ordinario que equivalente al 30 % del monto del financiamiento reciba en el año.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-15.- Los precandidatos podrán obtener recursos para el financiamiento de sus actividades dentro de los procesos internos provenientes de aportaciones o donativos en dinero o en especie, efectuados en su favor, en forma libre y voluntaria, por las personas físicas mexicanas con residencia en el territorio nacional, no comprendidas en el artículo 54 de esta (sic) CÓDIGO, conforme a las siguientes bases:
+
+I.- Las aportaciones en dinero que efectúe cada persona física durante la precampaña electoral tendrán como límite el equivalente al 5% del tope de gastos autorizados en los términos del artículo 205BIS-13 de este CÓDIGO, debiendo expedirse recibos foliados, en los cuales se harán constar los datos de identificación del donante;
+
+II.- Los recursos obtenidos mediante autofinanciamiento, no podrán exceder el tope máximo señalado en el artículo 205BIS-13 y comprobarse y reportarse ante el órgano interno señalado en el artículo 54 de este CÓDIGO;
+
+III.- En caso de colectas por boteo, exclusivamente deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente a 500 días de salario mínimo general vigente en el Estado, deberá también justificarse su procedencia;
+
+IV. Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; y
+
+V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento de las actividades que realicen los precandidatos dentro del proceso interno.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+ARTICULO 205 BIS-16.- Las erogaciones que con motivo de los procesos internos se realicen por los PARTIDOS POLÍTICOS y por los precandidatos, deberán ser informadas al CONSEJO GENERAL, por conducto del órgano interno encargado de la obtención y administración de los recursos, en un plazo no mayor de 15 días a partir de la conclusión del proceso interno.
 
 ### CAPITULO II. DE LAS CAMPAÑAS ELECTORALES
-
-### CAPITULO III. DE LOS GASTOS DE CAMPAÑA
 
 ###### ARTICULO 206.
 
@@ -2795,11 +2771,17 @@ La propaganda que difundan los PARTIDOS POLITICOS, las coaliciones o candidatos,
 
 La propaganda que se difunda por medios gráficos no tendrá más límite, en los términos de la CONSTITUCION FEDERAL, que el respeto a la vida privada de candidatos, autoridades y terceros, así como a las instituciones y valores democráticos.
 
-Los PARTIDOS POLITICOS, las coaliciones y los candidatos, al realizar la propaganda electoral, deberán evitar en ella cualquier ofensa, difamación o calumnia que denigre a candidatos, PARTIDOS POLITICOS, instituciones o terceros.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Los PARTIDOS POLÍTICOS, las coaliciones y los candidatos, al realizar la propaganda electoral, deberán evitar en ella cualquier ofensa, difamación o calumnia que denigre a candidatos, PARTIDOS POLÍTICOS, instituciones o terceros, así como la utilización, en propaganda que se difunda en radio y televisión, de voces de niñas y niños haciendo proselitismo o invitando a votar a favor de candidato o partido político alguno, ni manifestando expresiones en contra de los demás PARTIDOS POLÍTICOS, coaliciones o candidatos.
 
 ###### ARTICULO 211.
 
 Al interior de las oficinas, edificios y locales ocupados por los poderes públicos, sus dependencias, los Ayuntamientos o las autoridades u organismos electorales, no podrá fijarse ni distribuirse propaganda electoral de ningún tipo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Al interior de las escuelas publicas y privadas que impartan educación básica, al igual que a las afueras de las mismas, los PARTIDOS POLÍTICOS no podrán repartir propaganda electoral ni llevar a cabo actos de promoción de sus candidatos, ni de su partido.
 
 ###### ARTICULO 212.
 
@@ -2811,25 +2793,31 @@ II.- En cada Municipio, los CONSEJOS MUNICIPALES, previa autorización del Ayunt
 
 III.- Los CONSEJOS MUNICIPALES convendrán con las autoridades municipales, las bases y procedimientos a los que se sujetará la fijación de propaganda en lugares de uso común o de acceso público, así como el uso de altavoces y otros medios de comunicación masiva. La colocación de propaganda escrita en bardas propiedad del Estado o Municipios se distribuirá por los CONSEJOS MUNICIPALES, de manera equitativa conforme al procedimiento que los propios Consejos determinen. Las autoridades estatales y municipales pondrán las bardas limpias de propaganda a disposición de los CONSEJOS MUNICIPALES;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-IV.- La propaganda no podrá fijarse o inscribirse en los edificios públicos, así como en los monumentos o edificios artísticos o de interés histórico o cultural. En los locales o bardas de propiedad privada sólo podrá hacerse con la autorización por escrito del propietario o de quien tenga la facultad para otorgarla. Cuando se requiera dicha autorización, será presentada al Secretario Ejecutivo del CONSEJO MUNICIPAL;
+IV.- La propaganda no podrá fijarse o inscribirse en los edificios públicos, así como en los monumentos o edificios artísticos o de interés histórico o cultural, incluyendo escuelas públicas y privadas. En los locales o bardas de propiedad privada sólo podrá hacerse con la autorización por escrito del propietario o de quien tenga la facultad para otorgarla. Cuando se requiera dicha autorización, será presentada al Secretario Ejecutivo del CONSEJO MUNICIPAL;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
 V.- La propaganda no deberá modificar el paisaje, colocarse o fijarse en árboles ni en elementos de equipamiento urbano, carretero o ferroviario, ni en accidentes orográficos tales como cerros, colinas, barrancas, montañas y otros similares. Tampoco podrán emplearse sustancias tóxicas ni materiales que produzcan un riesgo directo para la salud de las personas o que contaminen el medio ambiente; y
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-VI.- La propaganda deberá ser retirada por los PARTIDOS POLÍTICOS antes de la fecha en que tomen posesión los funcionarios electos.
+Los PARTIDOS POLÍTICOS o coaliciones que violen las disposiciones contenidas en la presente fracción, serán requeridos a solicitud del CONSEJO GENERAL o por los CONSEJOS MUNICIPALES, según el caso, para que de inmediato retiren su propaganda o dejen de utilizar los elementos nocivos y, en caso de no hacerlo, serán sancionados con multa de 100 a 500 días de salario mínimo general vigente, además de proceder al retiro de la propaganda con cargo a las ministraciones mensuales que reciben por concepto de financiamiento públicos (sic); y
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+VI.- Dentro de los 15 días siguientes al de la jornada electoral, los PARTIDOS POLÍTICOS y coaliciones deberán retirar la propaganda que hayan fijado, pintado o escrito en la vía pública como promoción electoral durante el proceso. Si transcurrido dicho plazo los PARTIDOS POLÍTICOS o coaliciones no han retirado su propaganda, ésta será retirada por la autoridad municipal a solicitud del CONSEJO GENERAL o de los CONSEJOS MUNICIPALES con la consecuencia de que el costo de los trabajos hechos por el municipio será descontado del financiamiento que reciba el partido infractor a las ministraciones mensuales que reciben por concepto de financiamiento público.
 
 ###### ARTICULO 213.
 
 Los CONSEJOS GENERAL y MUNICIPALES, dentro del ámbito de su competencia, velarán por la observancia de estas disposiciones y adoptarán las medidas a que hubiera lugar para asegurar a PARTIDOS POLITICOS, coaliciones o candidatos el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 214.
 
-Las campañas electorales iniciarán a partir de la fecha del registro de candidaturas para la elección respectiva y concluirán 3 días antes de la jornada electoral.
+Las campañas electorales iniciarán a partir de la fecha en que los Consejeros Municipales y el CONSEJO GENERAL emitan el acuerdo relativo al registro de candidaturas para la elección respectiva y concluirán 3 días antes de la jornada electoral.
 
 El día de la jornada electoral y durante los 3 días anteriores, no se permitirán reuniones o actos públicos de campaña, propaganda o de proselitismo electorales.
 
@@ -2837,13 +2825,15 @@ El día de la jornada electoral y durante los 3 días anteriores, no se permitir
 
 Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, que se realice desde el inicio de las campañas hasta el cierre oficial de las casillas el día de la elección, deberá entregar copia del estudio completo al Presidente del INSTITUTO, si la encuesta o sondeo se difunde por cualquier medio de comunicación. En todo caso, la difusión de los resultados de cualquier encuesta o sondeo de opinión estará sujeto a lo dispuesto en el párrafo siguiente.
 
-Durante los 8 días previos a la elección y hasta la hora del cierre oficial de las casillas, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas, sondeos de opinión o conteos rápidos que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren, a las penas y sanciones aplicables.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Durante los 6 días previos a la jornada electoral y hasta la hora del cierre oficial de las casillas, queda prohibido publicar o difundir por cualquier medio los resultados de encuestas, sondeos de opinión o conteos rápidos que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren, a las penas y sanciones aplicables.
 
 ###### ARTICULO 216.
 
 Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones, adoptarán los criterios generales de carácter científico, que para tal efecto determine el CONSEJO GENERAL.
 
-### CAPITULO IV. DE LOS PROCEDIMIENTOS PARA LA INTEGRACION, UBICACIÓN Y PUBLICACION DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPITULO III. DE LOS GASTOS DE CAMPAÑA
 
 ###### ARTICULO 217.
 
@@ -2865,11 +2855,15 @@ No se considerarán dentro de los topes de campaña los gastos que realizan los 
 
 El CONSEJO GENERAL, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
 
-I.- Para la elección de Gobernador del Estado, a más tardar el 30 de enero del año de la elección, procederá en los siguientes términos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+I.- Para la elección de Gobernador del Estado, a más tardar el 28 de febrero del año de la elección, procederá en los siguientes términos:
 
 a).- El tope máximo de gastos de campaña para cada fórmula de candidato, será igual a la suma de los topes de campaña de los 10 Municipios, a que se refiere la fracción III de este artículo;
 
-II.- Para la elección de Diputados por el principio de mayoría relativa, a más tardar el 28 de febrero del año de la elección, procederá en los siguientes términos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+II. Para la elección de Diputados por el principio de mayoría relativa, a más tardar el 31 de marzo del año de la elección, procederá en los siguientes términos:
 
 a).- Los topes máximos de gastos de campaña para cada fórmula de candidatos, serán los siguientes:
 
@@ -2879,7 +2873,9 @@ a).- Los topes máximos de gastos de campaña para cada fórmula de candidatos, 
 
 3.- Para los distritos cuyo número de electores de la LISTA correspondiente sea superior a 20 mil, el resultado de multiplicar dicho número por un quinto del salario mínimo diario vigente en el distrito correspondiente;
 
-III.- Para la elección de Ayuntamientos, a más tardar el 28 de febrero del año de la elección, procederá en los siguientes términos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+III.- Para la elección de Ayuntamientos, a más tardar el 31 de marzo del año de la elección, procederá en los siguientes términos:
 
 a).- Los topes máximos para gastos de campaña para cada planilla de candidatos, serán los correspondientes a cada uno de los distritos que comprendan los Municipios respectivos. En el caso de que un Municipio comprenda 2 ó más distritos, será el resultado de la suma de los mismos.
 
@@ -2891,9 +2887,11 @@ Cada PARTIDO POLÍTICO sólo podrá erogar gastos de propaganda en prensa, radio
 
 Cada PARTIDO POLÍTICO tendrá que destinar el 50% de las erogaciones que realice para propaganda en cualquier sistema de comunicación en programas para la difusión de su plataforma electoral, la promoción de sus candidatos, así como para el análisis de los temas de interés nacional y su posición frente a ellos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 221.
 
-Cada PARTIDO POLITICO deberá rendir al CONSEJO GENERAL 2 informes preliminares de sus gastos de campaña: el primero al 20 de mayo y el segundo al 20 de junio del año de la elección.
+Cada PARTIDO POLÍTICO deberá rendir al CONSEJO GENERAL 2 informes preliminares de sus gastos de campaña: el primero, al 30 de mayo y el segundo, al 30 de junio del año de la elección. En los mismos reportará los gastos realizados con recursos públicos, así como los efectuados con financiamiento privado.
 
 Noventa días después de la jornada electoral, los PARTIDOS POLITICOS rendirán ante el CONSEJO GENERAL un informe anual de cada uno de sus gastos de campaña. La comisión de Consejeros Electorales designada conforme al artículo 165 de este CODIGO, procederá a la revisión correspondiente, en un plazo máximo de 120 días. A más tardar el 30 de marzo del año siguiente al de la elección, el CONSEJO GENERAL analizará y aprobará, en su caso, los dictámenes elaborados por dicha comisión.
 
@@ -2901,7 +2899,7 @@ Noventa días después de la jornada electoral, los PARTIDOS POLITICOS rendirán
 
 El PARTIDO POLÍTICO que no compruebe la erogación total de sus gastos de campaña, devolverá al CONSEJO GENERAL la parte no erogada. Los PARTIDOS POLÍTICOS que pierdan su registro, atenderán lo dispuesto en el artículo 65 de este CÓDIGO y en su caso, la multa que les fuere impuesta.
 
-### CAPITULO V. DEL REGISTRO DE REPRESENTANTES
+### CAPITULO IV. DE LOS PROCEDIMIENTOS PARA LA INTEGRACION, UBICACIÓN Y PUBLICACION DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 222.
 
@@ -2981,27 +2979,37 @@ II.- Confirmará mediante recorridos por el distrito electoral o municipio en co
 
 III.- Formulará, con los datos obtenidos, el proyecto de la lista de ubicación de casillas, para someterlo a la consideración del CONSEJO MUNICIPAL; y
 
-IV.- Dentro de los 5 días siguientes a partir de la sesión que celebre el CONSEJO MUNICIPAL para el objetivo señalado en la fracción anterior, los comisionados de los PARTIDOS POLITICOS o coaliciones podrán presentar objeción sobre los lugares propuestos.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+IV.- Dentro de los 3 días siguientes a partir de la sesión que celebre el CONSEJO MUNICIPAL para el objetivo señalado en la fracción anterior, los comisionados de los PARTIDOS POLÍTICOS o coaliciones podrán presentar objeción sobre los lugares propuestos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 228.
 
-Vencido el término de 5 días a que se refiere el artículo anterior, el CONSEJO MUNICIPAL sesionará para:
+Vencido el término de 3 días a que se refiere el artículo anterior, el CONSEJO MUNICIPAL sesionará para:
 
 I.- Resolver las objeciones presentadas y determinar, en su caso, los cambios que procedan;
 
 II.- Ordenar la publicación de las listas de los lugares de ubicación.
 
-### CAPITULO VI. DE LA DOCUMENTACION ELECTORAL
+### CAPITULO V. DEL REGISTRO DE REPRESENTANTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 229.
 
-Los PARTIDOS POLITICOS o coaliciones, una vez registrados sus candidatos, fórmulas y listas, y hasta 15 días antes del día de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada uno de los CONSEJOS MUNICIPALES y en las mesas directivas de casilla.
+Los PARTIDOS POLÍTICOS o coaliciones, una vez registrados sus candidatos, fórmulas y listas, y hasta 10 días antes del día de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada uno de los CONSEJOS MUNICIPALES, así como dos representantes propietarios y un suplente, en las mesas directivas de casilla.
 
 Los representantes ante los CONSEJOS MUNICIPALES y mesas directivas de casillas se registrarán ante dichos organismos electorales.
 
-Los PARTIDOS POLITICOS o coaliciones podrán acreditar en cada proceso electoral, los representantes generales a que se refiere la fracción X del artículo 47 del presente ordenamiento, en la siguiente proporción: un representante general por cada 10 casillas electorales ubicadas en zonas urbanas y uno por cada 5 casillas rurales.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-Con excepción de los representantes generales, en los demás casos por cada propietario se designará un suplente.
+Los PARTIDOS POLÍTICOS o coaliciones podrán acreditar en cada proceso electoral, los representantes generales a que se refiere la fracción IX del artículo 47 del presente ordenamiento, en la siguiente proporción: un representante general por cada 10 casillas electorales ubicadas en zonas urbanas y uno por cada 5 casillas rurales. El registro de estos representantes se hará ante el CONSEJO GENERAL.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Los representantes ante las mesas directivas de casillas y representantes generales deberán portar en un lugar visible, durante la jornada electoral, un distintivo de hasta 2.5 x 2.5 centímetros, con el emblema del PARTIDO POLÍTICO o coalición y con la leyenda visible de "Representante”.
 
 ###### ARTICULO 230.
 
@@ -3051,7 +3059,9 @@ El registro de los representantes de PARTIDO POLITICO o coalición se sujetará 
 
 I.- En la fecha de la publicación de las listas de casilla, el CONSEJO MUNICIPAL correspondiente proporcionará a los comisionados de los PARTIDOS POLITICOS o coaliciones, las formas por duplicado de los nombramientos, en el número que corresponda a las casillas que se instalarán en el o los distritos electorales respectivos;
 
-II.- Los comisionados de los PARTIDOS POLITICOS o coaliciones deberán devolver al CONSEJO MUNICIPAL, a más tardar 15 días antes de la elección, los nombramientos por duplicado con los datos de los representantes de que se trate; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+II.- Los comisionados de los PARTIDOS POLÍTICOS o coaliciones deberán devolver al CONSEJO MUNICIPAL, a más tardar 10 días antes de la elección, los nombramientos por duplicado con los datos de los representantes de que se trate; y
 
 III.- El CONSEJO MUNICIPAL conservará un ejemplar de cada uno de los nombramientos y entregará a los comisionados de los PARTIDOS POLITICOS o coaliciones a más tardar 10 días antes de la elección, los demás nombramientos debidamente registrados con las firmas del Presidente y Secretario Ejecutivo, así como el sello de los Consejos respectivos.
 
@@ -3097,7 +3107,7 @@ Los nombramientos de los representantes generales deberán contener los mismos d
 
 De estos nombramientos se formará una lista que se entregará a los Presidentes de las mesas directivas de casilla. Al nombramiento se anexará el texto de los artículos de este CODIGO que correspondan a las funciones de los representantes generales.
 
-### CAPITULO VII. DEL MATERIAL ELECTORAL
+### CAPITULO VI. DE LA DOCUMENTACION ELECTORAL
 
 ###### ARTICULO 238.
 
@@ -3107,15 +3117,23 @@ Para la emisión del voto, se imprimirán las boletas electorales para cada elec
 
 Las boletas electorales contendrán:
 
-I.- Distrito o municipio;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+I.- Estado, distrito o municipio;
 
 II.- Cargo para el que se postula al candidato o candidatos;
 
-III.- Color o combinación de colores y emblema que cada PARTIDO POLITICO o coalición tenga registrado, en el orden que le corresponda de acuerdo a la antigüedad de su registro;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+III.- Color o combinación de colores y emblema de cada PARTIDO POLÍTICO que haya registrado candidatos para la elección respectiva, en el orden que corresponda de acuerdo a la antigüedad de su registro.
+
+En el caso del emblema de una coalición que registre candidatos, el mismo se ubicará en el lugar que corresponda al registro del PARTIDO POLÍTICO de mayor antigüedad que la integre;
 
 IV.- Nombre y apellidos del candidato o candidatos respectivos;
 
-V.- Un sólo círculo para cada candidato, fórmula, lista o planilla de candidatos registrados;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+V.- Un círculo o cuadro delimitado y en las mismas proporciones para cada candidato, fórmula, lista o planilla de candidatos registrados;
 
 VI.- Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contendrá este talón será la relativa al municipio, distrito electoral y elección que corresponda. El número de folio será progresivo; y
 
@@ -3151,7 +3169,7 @@ Las boletas a utilizar en las casillas especiales, serán contadas por el CONSEJ
 
 Las actas en las que se asiente lo relativo a la instalación, cierre de votación, escrutinio y cómputo, así como integración y remisión del paquete electoral del proceso, serán elaboradas conforme al formato que apruebe el CONSEJO GENERAL.
 
-### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
+### CAPITULO VII. DEL MATERIAL ELECTORAL
 
 ###### ARTICULO 244.
 
@@ -3183,7 +3201,7 @@ Los CONSEJOS MUNICIPALES podrán solicitar al CONSEJO GENERAL la contratación d
 
 ## TITULO TERCERO. DE LA JORNADA ELECTORAL
 
-### CAPITULO II. DE LA VOTACION
+### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
 
 ###### ARTICULO 247.
 
@@ -3275,7 +3293,7 @@ VI.- El CONSEJO MUNICIPAL así lo disponga por causa de fuerza mayor o caso fort
 
 En los casos de cambio de casilla por causa justificada, el nuevo sitio deberá estar comprendido en la misma sección y en lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación, en el exterior del lugar original que no reunió los requisitos.
 
-### CAPITULO III. DEL CIERRE DE LA VOTACION
+### CAPITULO II. DE LA VOTACION
 
 ###### ARTICULO 254.
 
@@ -3397,7 +3415,7 @@ El día de la elección sólo pueden portar armas los miembros uniformados de la
 
 El día de la elección y el precedente queda prohibida la venta de bebidas embriagantes.
 
-### CAPITULO IV. DEL ESCRUTINIO Y COMPUTACION
+### CAPITULO III. DEL CIERRE DE LA VOTACION
 
 ###### ARTICULO 268.
 
@@ -3415,7 +3433,7 @@ Acto seguido, el secretario llenará el apartado correspondiente al cierre de vo
 
 En todo caso el apartado correspondiente al cierre de votación contendrá la hora del cierre y la causa por la que, si es el caso, se cerró antes o después de las 18:00 horas.
 
-### CAPITULO V. DE LA CLAUSURA DE LAS CASILLAS
+### CAPITULO IV. DEL ESCRUTINIO Y COMPUTACION
 
 ###### ARTICULO 270.
 
@@ -3433,7 +3451,9 @@ III.- El número de votos anulados por la mesa directiva; y
 
 IV.- El número de boletas sobrantes de cada elección.
 
-Se entiende por voto nulo aquel expresado por un elector en una boleta que depositó en la urna, pero que no marcó un sólo círculo o cuadro en el que se contengan el emblema de un PARTIDO POLITICO o coalición y nombre del o los candidatos.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Se entiende por voto nulo aquel expresado por un elector en una boleta que depositó en la urna, pero que no marcó un sólo círculo o cuadro en el que se contengan el emblema de un PARTIDO POLÍTICO o coalición y nombre del o los candidatos, a excepción cuando se registren candidaturas comunes, en cuyo caso se estará a lo que dispone el artículo 274 de este Código.
 
 Se entiende por boletas sobrantes aquellas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
 
@@ -3465,9 +3485,15 @@ VI.- El secretario anotará en el acta el resultado de cada una de las operacion
 
 Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
 
-I.- Se contará un voto válido por la marca que haga el elector dentro del cuadro en el que se contengan el emblema de un PARTIDO POLITICO o coalición, así como el nombre del o los candidatos; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+I.- Se contará un voto válido por la marca que haga el elector dentro del cuadro en el que se contengan el emblema de un PARTIDO POLÍTICO o coalición, así como el nombre del o los candidatos. Se contara también como voto válido cuando se señalen o crucen dos o más círculos o cuadros de diferentes PARTIDOS POLÍTICOS en candidatura común y se acreditará al candidato, fórmula o planilla; y
 
 II.- Se contará como nulo cualquier voto emitido en forma distinta a la descrita en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+La boleta que contenga el señalamiento o cruce de dos o más círculos o cuadros con emblemas de diferentes PARTIDOS POLÍTICOS en candidatura común, para los efectos de su contabilización, será a favor del PARTIDO POLÍTICO de mayor fuerza electoral.
 
 ###### ARTICULO 275.
 
@@ -3479,19 +3505,23 @@ Se levantará un acta de escrutinio y computación para cada elección. Cada act
 
 I.- El número de votos emitidos a favor de cada PARTIDO POLITICO o coalición;
 
-II.- El número total de las boletas sobrantes que fueron inutilizadas;
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-III.- El número de votos nulos, que en ningún caso deberán sumarse al de las boletas sobrantes;
+II.- El numero de votos emitidos a favor de candidaturas comunes;
+
+III.- El número total de las boletas sobrantes que fueron inutilizadas;
+
+IV.- El número de votos nulos, que en ningún caso deberán sumarse al de las boletas sobrantes;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-IV.- La relación suscinta de los incidentes ocurridos durante el escrutinio y computo;
+V.- La relación suscinta de los incidentes ocurridos durante el escrutinio y cómputo;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-V.- La relación de escritos de protestas presentados por los representantes de los PARTIDOS POLÍTICOS al término del escrutinio y computo; y
+VI.- La relación de escritos de protestas presentados por los representantes de los PARTIDOS POLÍTICOS al término del escrutinio y cómputo; y
 
-VI.- Las causas invocadas por los representantes de los PARTIDOS POLITICOS para firmar bajo protesta el acta.
+VII.- Las causas invocadas por los representantes de los PARTIDOS POLÍTICOS para firmar bajo protesta el acta.
 
 El acta final de escrutinio y cómputo para cada elección no se concluirá hasta agotar la hipótesis contenida en el artículo siguiente.
 
@@ -3545,7 +3575,7 @@ Por fuera del paquete firmado a que se refiere el artículo anterior, se adherir
 
 Cumplidas las acciones a que se refiere el artículo anterior, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de la elección o, en su caso, de cada una de las elecciones, los que serán firmados por el presidente y los representantes que así deseen hacerlo.
 
-### CAPITULO I. DE LA REMISION Y RECEPCION DEL PAQUETE ELECTORAL
+### CAPITULO V. DE LA CLAUSURA DE LAS CASILLAS
 
 ###### ARTICULO 282.
 
@@ -3553,7 +3583,7 @@ Concluidas por los directivos de la casilla las actividades establecidas en los 
 
 ## TITULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCION Y DE LOS RESULTADOS ELECTORALES
 
-### CAPITULO II. DE LA INFORMACION PRELIMINAR DE LOS RESULTADOS
+### CAPITULO I. DE LA REMISION Y RECEPCION DEL PAQUETE ELECTORAL
 
 ###### ARTICULO 283.
 
@@ -3593,7 +3623,7 @@ III.- El Presidente, bajo su responsabilidad, los salvaguardará y al efecto dis
 
 De la recepción de los paquetes electorales, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubiesen sido recibidos sin reunir los requisitos que señala este CODIGO.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA INFORMACION PRELIMINAR DE LOS RESULTADOS
 
 ###### ARTICULO 287.
 
@@ -3613,7 +3643,7 @@ Para el mejor conocimiento de los ciudadanos, concluido lo anterior, el Presiden
 
 ## TITULO QUINTO. DE LOS RESULTADOS ELECTORALES
 
-### CAPITULO II. DEL PROCEDIMIENTO DE COMPUTO PARA LA ELECCION DE GOBERNADOR
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 289.
 
@@ -3645,9 +3675,7 @@ V.- Hacer llegar al CONSEJO GENERAL copia legible del acta de cómputo distrital
 
 VI.- Enviar al TRIBUNAL los escritos de protesta que se hubiesen presentado y la documentación relativa a los cómputos distrital y municipal correspondiente.
 
-### CAPITULO III. DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+### CAPITULO II. DEL PROCEDIMIENTO DE COMPUTO PARA LA ELECCION DE GOBERNADOR
 
 ###### ARTICULO 292.
 
@@ -3673,7 +3701,9 @@ III.- Extenderá la constancia respectiva al candidato que haya obtenido la mayo
 
 Durante los 3 días siguientes a la sesión que señala el artículo anterior, el CONSEJO GENERAL remitirá al TRIBUNAL la documentación, acompañada de un informe sobre el desarrollo y particularidad del proceso, para efectos del cómputo final y calificación.
 
-### CAPITULO IV. DEL PROCEDIMIENTO DE COMPUTO Y DECLARACION DE VALIDEZ DE LA ELECCION DE DIPUTADOS UNINOMINALES
+### CAPITULO III. DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 296.
 
@@ -3695,7 +3725,7 @@ El CONGRESO o la Comisión Permanente, en su caso, expedirá el Bando Solemne pa
 
 Los Ayuntamientos darán a conocer a la población el Bando Solemne expedido por el CONGRESO, de conformidad con las disposiciones reglamentarias respectivas. En la capital del Estado, el titular del Poder Ejecutivo lo dará a conocer por lo menos una vez, en el exterior de Palacio de Gobierno.
 
-### CAPITULO V. DE LA ASIGNACION DE DIPUTADOS DE REPRESENTACION PROPORCIONAL
+### CAPITULO IV. DEL PROCEDIMIENTO DE COMPUTO Y DECLARACION DE VALIDEZ DE LA ELECCION DE DIPUTADOS UNINOMINALES
 
 ###### ARTICULO 298.
 
@@ -3731,11 +3761,13 @@ El cómputo distrital de la votación para Diputados uninominales, se sujetará 
 
 Los comisionados de los PARTIDOS POLITICOS o coaliciones podrán interponer el recurso de inconformidad contra los resultados del cómputo, la declaración de validez de la elección y, por consecuencia, el otorgamiento de las constancias respectivas.
 
-### CAPITULO VI. DEL PROCEDIMIENTO DE COMPUTO PARA LA ELECCION DE AYUNTAMIENTOS
+### CAPITULO V. DE LA ASIGNACION DE DIPUTADOS DE REPRESENTACION PROPORCIONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 299.
 
-El cómputo de la votación para la asignación de Diputados por el principio de representación proporcional, propietarios y suplentes, la hará el CONSEJO GENERAL el segundo miércoles siguiente al de la elección.
+El cómputo de la votación para la asignación de diputados por el principio de representación proporcional, la hará el CONSEJO GENERAL el segundo miércoles siguiente al de la elección.
 
 Del procedimiento de asignación se levantará acta, circunstanciando sus etapas, incidentes habidos y escritos de protesta presentados.
 
@@ -3763,9 +3795,9 @@ Todo PARTIDO POLÍTICO que alcance por lo menos el 2.0% de la votación estatal 
 
 Al PARTIDO POLITICO que cumpla con lo dispuesto en el párrafo anterior, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el principio de representación proporcional, de acuerdo con su votación, el número de Diputados que le corresponda.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-Ningún PARTIDO POLITICO podrá contar con más de 15 Diputados por ambos principios, salvo el caso del PARTIDO POLITICO que por sí mismo hubiere obtenido la totalidad de los distritos electorales uninominales, ni que su número representen un porcentaje total del CONGRESO que exceda en 10 puntos a su porcentaje de votación efectiva. Esta disposición no se aplicará al PARTIDO POLITICO que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total del CONGRESO que rebase la suma de su porcentaje de votación más 10 puntos.
+Ningún PARTIDO POLÍTICO podrá contar con más de 15 Diputados por ambos principios, salvo el caso del PARTIDO POLÍTICO que por sí mismo hubiere obtenido la totalidad de los distritos electorales uninominales, ni que su número representen un porcentaje total del CONGRESO que exceda en 10 puntos a su porcentaje de votación efectiva, excepto el caso establecido en el párrafo segundo de la fracción I del artículo siguiente. Esta disposición no se aplicará al PARTIDO POLÍTICO que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total del CONGRESO que rebase la suma de su porcentaje de votación más 10 puntos.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
@@ -3801,13 +3833,15 @@ II.- Si después de aplicarse el cociente de asignación quedan diputaciones por
 
 III.- Todas las asignaciones seguirán el orden que los candidatos a Diputados plurinominales tengan en las listas respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 304.
 
-El CONSEJO GENERAL expedirá a cada PARTIDO POLITICO o coalición las constancias de asignación de Diputados de representación proporcional.
+EL CONSEJO GENERAL expedirá a cada PARTIDO POLÍTICO o coalición las constancias de asignación de Diputados de representación proporcional. Así mismo entregará a cada uno de los candidatos a quienes no se haya entregado constancia de asignación, una donde se exprese el orden de prelación conforme aparecieron en la lista de registro de diputados por dicho principio, para efectos de lo dispuesto en el artículo 22 de la CONSTITUCIÓN.
 
 Los comisionados de los PARTIDOS POLITICOS o coaliciones podrán interponer el recurso de inconformidad en los términos del artículo 327 de este CODIGO.
 
-### CAPITULO VII. DE LA ASIGNACION DE REGIDORES DE REPRESENTACION PROPORCIONAL
+### CAPITULO VI. DEL PROCEDIMIENTO DE COMPUTO PARA LA ELECCION DE AYUNTAMIENTOS
 
 ###### ARTICULO 305.
 
@@ -3821,7 +3855,7 @@ Los representantes de PARTIDOS POLITICOS podrán interponer el recurso de inconf
 
 Se enviarán con oportunidad al CONSEJO GENERAL, copias de las actas de casillas y del cómputo municipal, junto con un informe relativo al proceso electoral en sus respectivas jurisdicciones.
 
-### CAPITULO I. DE LAS FACULTADES
+### CAPITULO VII. DE LA ASIGNACION DE REGIDORES DE REPRESENTACION PROPORCIONAL
 
 ###### ARTICULO 306.
 
@@ -3879,9 +3913,7 @@ El CONSEJO GENERAL expedirá a cada PARTIDO POLITICO o coalición las constancia
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO II. DE LA INTEGRACION
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+### CAPITULO I. DE LAS FACULTADES
 
 ###### ARTICULO 310.
 
@@ -3905,15 +3937,19 @@ VII.- Las demás que sean necesarias para su correcto funcionamiento.
 
 El TRIBUNAL, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
 
-### CAPITULO I. DE LA ORGANIZACION
+### CAPITULO II. DE LA INTEGRACION
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 312.
 
 El TRIBUNAL residirá en la capital del Estado, se integrará con 3 Magistrados numerarios y 2 supernumerarios, electos sucesivamente, en el mes de noviembre del año en que terminen su periodo. La elección la hará el CONGRESO por mayoría calificada de sus integrantes, de una lista de 10 candidatos propuesta por el Supremo Tribunal del (sic) Justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### ARTICULO 313.
 
-El TRIBUNAL se instalará e iniciará sus funciones en la primera quincena del mes de diciembre del año anterior al de la elección; y concluirá sus actividades al término del proceso electoral de que se trate o cuando los recursos interpuestos hayan causado ejecutoria.
+El TRIBUNAL se instalará e iniciará sus funciones en la primera quincena del mes de enero del año de la elección; y concluirá sus actividades al término del proceso electoral de que se trate o cuando los recursos interpuestos hayan causado ejecutoria.
 
 En caso de elecciones extraordinarias, se estará a lo dispuesto por la convocatoria respectiva.
 
@@ -3961,7 +3997,7 @@ La elección por ausencia definitiva de los Magistrados del TRIBUNAL, para ejerc
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
-### CAPITULO II. DEL FUNCIONAMIENTO
+### CAPITULO I. DE LA ORGANIZACION
 
 ###### ARTICULO 318.
 
@@ -4007,7 +4043,7 @@ El TRIBUNAL contará con un Secretario General de Acuerdos, proyectistas, actuar
 
 El Secretario General de Acuerdos, los proyectistas y los actuarios deberán ser ciudadanos mexicanos por nacimiento, mayores de 21 años, con título de Licenciado en Derecho legalmente registrado y en pleno ejercicio de sus derechos políticos y civiles.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL FUNCIONAMIENTO
 
 ###### ARTICULO 322.
 
@@ -4093,697 +4129,407 @@ II.- Auxiliar a los Magistrados numerarios en el estudio, análisis y valoració
 
 III.- Las demás que les encomiende el Presidente y el reglamento interior del TRIBUNAL.
 
-# LIBRO SEPTIMO. DEL SISTEMA DE MEDIOS DE IMPUGNACION Y DE LAS SANCIONES ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2005)</small>
 
-## TITULO PRIMERO. DE LOS MEDIOS DE IMPUGNACION
+# LIBRO SÉPTIMO. DE LAS SANCIONES ADMINISTRATIVAS
 
-### CAPITULO II. DE LAS NULIDADES
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-###### ARTICULO 326.
+## TITULO ÚNICO. DE LAS SANCIONES ADMINISTRATIVAS POR INFRACCIONES A ESTE CÓDIGO Y DE LOS DELITOS ELECTORALES
 
-El sistema de medios de impugnación regulado por este CODIGO tiene por objeto garantizar:
-
-I.- Que todo los actos y resoluciones de las autoridades electorales se sujeten invariablemente a los principios de constitucionalidad y de legalidad; y
-
-II.- La definitividad de los distintos actos y etapas de los procesos electorales.
-
-###### ARTICULO 327.
-
-Los recursos son los medios de impugnación puestos a disposición de quienes estén legitimados por este CODIGO, que tienen por objeto la revocación o la modificación de las decisiones, resoluciones y dictámenes emitidos por los órganos electorales, así como la nulidad de una votación o de una elección.
-
-Se establecen los siguientes recursos:
-
-I.- El de apelación que resolverá el TRIBUNAL, durante el tiempo que transcurra entre dos procesos electorales, que podrá ser interpuesto por:
-
-a).- Los PARTIDOS POLITICOS, en contra de los actos o resoluciones del CONSEJO GENERAL; y
-
-b).- En su caso, por los ciudadanos en contra de las resoluciones del REGISTRO, que nieguen la expedición de CREDENCIAL o la inclusión o exclusión del nombre de los interesados en las listas nominales, previo agotamiento de la instancia de rectificación ante el propio REGISTRO;
-
-II.- Durante el proceso electoral:
-
-a).- El recurso de revisión, en contra de los actos o resoluciones de los CONSEJOS MUNICIPALES, que resolverá el CONSEJO GENERAL, por ser el órgano jerárquico inmediato superior al que realizó el acto o dictó la resolución recurrida;
-
-b).- El recurso de apelación, en contra de las resoluciones que recaigan a los recursos de revisión o en contra de los actos y resoluciones del CONSEJO GENERAL, que resolverá el TRIBUNAL;
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
-
-c).- El recurso de inconformidad para impugnar:
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-1.- Por error aritmético, los cómputos municipales y distritales de la elección de Diputados de mayoría relativa o de Ayuntamientos; los cómputos municipales para Gobernador y el cómputo respectivo para asignar Diputados y Regidores por el principio de representación proporcional; así como la aplicación incorrecta de la fórmula de asignación, en los casos de Diputados y Regidores de representación proporcional;
-
-2.- Por las causales de nulidad establecidas en este CODIGO:
-
-a).- La votación emitida en una o varias casillas; y
-
-b).- Las elecciones de Diputados, Ayuntamientos y Gobernador.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
-
-Este recurso será resuelto por el TRIBUNAL.
-
-III.- Los ciudadanos que sean expulsados de un PARTIDO POLITICO, podrán impugnar en todo tiempo ante el TRIBUNAL dicha resolución, dentro de los 3 días siguientes al en que se les notificó dicha expulsión. La resolución que dicte el TRIBUNAL se limitará a analizar la legalidad del procedimiento de expulsión correspondiente.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 328.
-
-El escrito de protesta, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral; podrá formularse respecto de los actos que se realicen en las casillas electorales y que a consideración del recurrente afecten el resultado de la votación en éstas.
-
-Será interpuesto por los representantes legitimados de los PARTIDOS POLITICOS, ante la propia casilla al término del cómputo respectivo o ante el CONSEJO MUNICIPAL correspondiente, antes de que se inicie la sesión de los cómputos distritales y deberá satisfacer los requisitos señalados en el artículo siguiente.
-
-Los escritos de protesta que se presenten en la casilla serán enviados junto con el paquete electoral. El CONSEJO MUNICIPAL que los reciba deberá integrarlos al expediente del recurso de inconformidad que, en su caso, se haya interpuesto y con el que esté relacionado, lo que remitirá bajo su estricta responsabilidad al TRIBUNAL en los plazos establecidos, para su debida substanciación y resolución.
-
-###### ARTICULO 329.
-
-El escrito de protesta deberá contener:
-
-I.- Nombre del PARTIDO POLITICO que lo presenta;
-
-II.- Número y ubicación de la casilla ante la que se interpone;
-
-III.- Los actos y, en su caso, los resultados que se impugnen;
-
-IV.- La elección que se protesta;
-
-V.- La descripción suscinta (sic) de los hechos que se estiman violatorios de los preceptos legales que rigen el desarrollo de la jornada electoral; y
-
-VI.- El nombre y la firma del representante que lo presenta.
-
-De la presentación del escrito de protesta deberá acusar recibo o razonar de recibida una copia del respectivo escrito el secretario de la casilla correspondiente o el Secretario Ejecutivo del CONSEJO MUNICIPAL.
-
-###### ARTICULO 330.
-
-Las nulidades establecidas en este CODIGO podrán afectar la votación emitida en una casilla y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de Diputados de mayoría relativa; o la elección para Ayuntamientos o Gobernador; asimismo, para la impugnación de cómputo de circunscripciones plurinominales.
-
-Los efectos de las nulidades decretadas por el TRIBUNAL respecto a la votación emitida en una casilla o de una elección en un distrito electoral uninominal, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
-
-###### ARTICULO 331.
-
-La votación recibida en una casilla electoral será nula cuando:
-
-I.- Sin causa justificada, la casilla electoral se haya instalado en distinto lugar al aprobado por el CONSEJO MUNICIPAL correspondiente, o se hubiera instalado en hora anterior o en condiciones diferentes a las establecidas por el mismo, o cuando el escrutinio y cómputo se efectúe en sitio diferente al de la casilla;
-
-II.- Se reciba, sin causa justificada, la votación por personas u órganos distintos a los facultados por este CODIGO;
-
-III.- Se reciba la votación en fecha distinta a la señalada para la celebración de la elección;
-
-IV.- Se ejerza violencia física, cohecho, soborno o presión de alguna autoridad o particular sobre los directivos de casilla o sobre los electores, de tal manera que se afecte la libertad y el secreto del voto, y siempre que esos hechos sean determinantes para el resultado de la votación;
-
-V.- Se permita sufragar sin CREDENCIAL o cuando su nombre no aparezca en la LISTA, salvo los casos de excepción señalados en los artículos 256 y 259 de este ordenamiento y siempre que ello sea determinante para el resultado de la votación;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-VI.- Se impida el acceso a los representantes de PARTIDOS POLÍTICOS o se les expulse sin causa justificada y siempre que ello sea determinante para el resultado de la votación de dicha casilla;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-VII.- Haya mediado error grave o dolo manifiesto en el cómputo de votos que beneficie a cualquiera de los candidatos, las fórmulas de candidatos o planillas y sea determinante para el resultado de la votación de dicha casilla;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-VIII.- El paquete electoral sea entregado, sin causa justificada, al CONSEJO MUNICIPAL fuera de los plazos que este CÓDIGO establece; y
-
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
-
-IX.- Se incumplan las reglas para el cierre de votación en las casillas, de acuerdo con lo establecido por el artículo 268 de este CÓDIGO.
-
-###### ARTICULO 332.
-
-Son causas de nulidad de una elección las siguientes:
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-I.- Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en el 20% o más de las casillas de un distrito electoral o Municipio o, en su caso, en la entidad cuando se refiera a la elección de Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-II.- Cuando no se instalen el 20% o más de las casillas correspondientes a un distrito electoral, municipio o en la entidad y consecuentemente la votación no hubiese sido recibida;
-
-III.- Cuando exista violencia generalizada en el ámbito de la elección correspondiente; y
-
-IV.- Cuando los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la CONSTITUCION y en este CODIGO.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 333.
-
-Sólo podrá ser declarada nula la elección en un distrito electoral o municipio o en la entidad, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la misma.
-
-Tratándose de la nulidad de votación de una o más casillas, se descontará la votación anulada de la votación total del distrito o Municipio, con el propósito de obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 332 de este CODIGO.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 334.
-
-Ningún PARTIDO POLÍTICO podrá invocar como causa de nulidad, hechos o circunstancias que él mismo haya provocado dolosamente o contribuido a provocar, así sea circunstancial o accidentalmente.
-
-###### ARTICULO 335.
-
-Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
-
-###### ARTICULO 336.
-
-Tratándose de inelegibilidad de candidatos a Diputados o Regidores de representación proporcional, tomará el lugar del declarado no elegible, el que le sigue en la lista o planilla del mismo PARTIDO POLITICO.
-
-###### ARTICULO 337.
-
-La interposición de los recursos corresponde a los partidos y asociaciones políticas, a través de sus representantes legítimos, y a los ciudadanos.
-
-###### ARTICULO 338.
-
-Son representantes legítimos de los partidos y asociaciones políticas los dirigentes estatales o municipales, así como los registrados formalmente ante los órganos electorales, para lo cual se acompañará copia del documento en que conste el registro. En este último caso, sólo podrán actuar ante el organismo que estén acreditados.
-
-###### ARTICULO 339.
-
-Los candidatos podrán participar como coadyuvantes del partido que los registró, de conformidad con las reglas siguientes:
-
-I.- Presentarán escritos en los que manifiesten lo que a su derecho convenga, pero no se tomarán en cuenta los conceptos que modifiquen la controversia planteada en el recurso;
-
-II.- Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los recursos, e ir acompañados de copia certificada de la CREDENCIAL y del documento en que conste el registro como candidato del partido respectivo;
-
-III.- Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en este CODIGO para ello, siempre y cuando estén relacionados con los hechos y agravios invocados en el recurso interpuesto por su partido y que no exista restricción expresa para ello; y
-
-IV.- Los escritos deberán estar firmados autógrafamente.
-
-### CAPITULO III. DE LA LEGITIMIDAD Y LA PERSONERIA
-
-###### ARTICULO 340.
-
-Los recursos a que se refiere el artículo 327 de este CÓDIGO serán interpuestos dentro de los 3 días hábiles siguientes a partir de que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurre.
-
-###### ARTICULO 341.
-
-Durante el proceso electoral todos los días y horas son hábiles. Los plazos se computarán de momento a momento; si están señalados por días, estos se considerarán de 24 horas.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
-
-Cuando la violación reclamada en medio de impugnación respectiva no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiéndose entender como tales, todos los días a excepción de lo (sic) sábados, domingos y los días inhábiles en términos de ley.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiera notificado el acto o la resolución correspondiente.
-
-### CAPITULO IV. DE LOS PLAZOS Y TERMINOS
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-### CAPITULO V. DE LAS NOTIFICACIONES
-
-###### ARTICULO 342.
-
-En ningún caso, la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados.
-
-### CAPITULO VI. DE LAS PARTES
-
-###### ARTICULO 343.
-
-Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa de este CODIGO.
-
-Los estrados son los lugares destinados en las oficinas de los órganos electorales, para que sean colocadas, para su notificación, copias del escrito de interposición del recurso y de los actos y resoluciones que le recaigan.
-
-En casos urgentes o extraordinarios y a juicio del Presidente, exclusivamente las notificaciones que se ordenen por el TRIBUNAL podrán hacerse a través de su fax, y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse su recibo.
-
-Las notificaciones personales a que se refiere este CODIGO, se harán en el domicilio del promovente únicamente cuando éste lo haya señalado en la capital del Estado.
-
-###### ARTICULO 344.
-
-Las notificaciones personales se harán al interesado a más tardar al día siguiente de aquél en que se dictó el acto o la resolución. Se entenderán personales sólo aquellas notificaciones que con tal carácter establezca el presente CODIGO.
-
-Las cédulas de notificación personal deberán contener el lugar, hora y fecha en que éstas se hacen, la descripción del acto o resolución que se notifica y el nombre de la persona con quien se entiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
-
-Si no se encuentra presente el interesado, se entenderá la notificación con la persona que esté en el domicilio.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
-
-Si el domicilio está cerrado o la persona con la que se entiende la diligencia se niega a recibir la cédula, el funcionario responsable de la notificación la fijará junto con la copia del auto, la resolución o sentencia a notificar en un lugar visible del local, asentará la razón correspondiente en autos y procederá a fijar la notificación en los estrados.
-
-###### ARTICULO 345.
-
-El PARTIDO POLITICO cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
-
-###### ARTICULO 346.
-
-Las resoluciones que recaigan a los recursos de revisión, serán notificados (sic) de la siguiente manera:
-
-I.- A los PARTIDOS POLITICOS que no tengan representantes acreditados, la resolución se les hará por estrados; en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubiesen señalado o de no haber señalado domicilio, por estrados;
-
-II.- Al CONSEJO GENERAL o MUNICIPALES cuyo acto o resolución fue impugnado, se le hará en sus instalaciones o por correo certificado. A la notificación se anexará copia de la resolución recaída al recurso; y
-
-III.- A los terceros interesados, por correo certificado.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 347.
-
-Las resoluciones del TRIBUNAL recaídas a los recursos de revisión o apelación, serán notificadas a los órganos electorales que corresponda, así como a quien los haya interpuesto y a los terceros interesados, por correo certificado, por telegrama, o personalmente, a más tardar al día siguiente de que se pronuncie.
-
-A las partes, junto con la notificación, les será enviada copia de la resolución.
-
-###### ARTICULO 348.
-
-Las resoluciones del TRIBUNAL recaídas a los recursos de inconformidad serán notificadas:
-
-I.- Al PARTIDO POLITICO recurrente y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio en la ciudad de Colima. En caso contrario, se hará mediante cédula colocada en los estrados del TRIBUNAL, a más tardar al día siguiente en que se dictó la resolución. La cédula se acompañará de copia simple de la resolución respectiva; y
-
-II.- Al CONSEJO GENERAL y a los CONSEJOS MUNICIPALES, la notificación se les hará mediante oficio, acompañado de copia certificada del expediente y de la resolución. Esta documentación se entregará a más tardar dentro de las 48 horas siguientes a la fecha del fallo, en sus respectivos domicilios.
-
-###### ARTICULO 349.
-
-No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial del Estado o en los diarios de circulación estatal o mediante la fijación de cédulas en los estrados de los órganos del INSTITUTO y del TRIBUNAL, en los términos de este CODIGO.
-
-### CAPITULO VII. DE LAS REGLAS DEL PROCEDIMIENTO PARA LA TRAMITACION DE LOS RECURSOS
-
-###### ARTICULO 350.
-
-Serán partes en el procedimiento para tramitar los recursos en materia electoral:
-
-I.- El actor, que será el PARTIDO POLITICO que lo interponga, debiendo observar las reglas de legitimidad previstas en este CODIGO;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-II.- La autoridad responsable, que es el órgano electoral que realice el acto o dicte la resolución que se impugna;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
-
-III.- El tercero interesado, que será el PARTIDO POLÍTICO que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor; y
-
-IV.- En su caso, el ciudadano que impugne la decisión del REGISTRO que niegue la expedición de CREDENCIAL o la inclusión o exclusión del nombre del interesado en las LISTAS.
-
-### CAPITULO VIII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
-
-###### ARTICULO 351.
-
-Para la interposición de los recursos se cumplirá con los siguientes requisitos:
-
-I.- Deberán presentarse por escrito;
-
-II.- En el escrito del recurso se hará constar el nombre del recurrente y domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
-
-III.- En caso de que el recurrente no tenga acreditada la personería ante los órganos electorales correspondientes, acompañará su promoción con los documentos necesarios para acreditarla;
-
-IV.- Se hará mención expresa del acto o resolución que se impugna y del órgano responsable;
-
-V.- Se deberán mencionar con claridad los agravios que causen el acto o resolución impugnados, los preceptos legales que se consideren violados y los hechos en que se basa la impugnación;
-
-VI.- Se ofrecerán las pruebas que se aportan con la interposición del medio de impugnación, debiendo solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
-
-VII.- Se hará constar el nombre y la firma autógrafa del promovente.
-
-###### ARTICULO 352.
-
-En el caso del recurso de inconformidad se deberá señalar, además:
-
-I.- El cómputo municipal, distrital o de circunscripción plurinominal que se impugna;
-
-II.- La elección que se impugna;
-
-III.- La mención precisa de las casillas cuya votación se solicite que se anule en cada caso; y
-
-IV.- La relación que, en su caso, guarde el recurso con otras impugnaciones.
-
-Cuando el recurrente omita alguno de los requisitos señalados en las fracciones III a VI del artículo anterior, el CONSEJO GENERAL o el TRIBUNAL, requerirán al promovente para que los subsane en un plazo de 24 horas contadas a partir de la fijación en estrados del requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
-
-El recurso de inconformidad procederá únicamente cuando se hubiese presentado el escrito de protesta, en tiempo y forma.
-
-###### ARTICULO 353.
-
-Los recursos de revisión y apelación se interpondrán ante el órgano del INSTITUTO que realizó el cómputo o que dictó el acto o resolución que se impugna. El de inconformidad se presentará ante el TRIBUNAL.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 354.
-
-El órgano del INSTITUTO que reciba un recurso de revisión o apelación, lo hará del conocimiento público mediante cédula que fijará en los estrados, dentro de las 24 horas siguientes a su recepción.
-
-Los representantes de los PARTIDOS POLITICOS terceros interesados, así como los candidatos que actúen como coadyuvantes de sus respectivos PARTIDOS POLITICOS, podrán presentar los escritos que consideren pertinentes dentro de las 48 horas siguientes a la fijación de la cédula respectiva.
-
-Los escritos mencionados en el párrafo anterior deberán cumplir con los siguientes requisitos:
-
-I.- Hacer constar el nombre del PARTIDO POLITICO que lo presenta y su domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibir notificaciones, éstas se practicarán por estrados;
-
-II.- Exhibir los documentos que acrediten la personería del promovente, en caso de que no la tuviera reconocida ante el órgano electoral competente;
-
-III.- Precisar la razón del interés jurídico en que se funda, así como las pretensiones concretas del promovente;
-
-IV.- Ofrecer las pruebas que se aportan junto con el recurso y solicitar las que deban requerirse cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
-
-V.- Hacer constar el nombre y la firma autógrafa de quien lo presente.
-
-###### ARTICULO 355.
-
-Una vez que se cumpla el plazo a que se refiere el artículo anterior, el órgano del INSTITUTO que reciba un recurso de revisión o apelación, deberá hacer llegar al CONSEJO GENERAL o al TRIBUNAL, dentro de las 24 horas siguientes:
-
-I.- El escrito mediante el cual se interpone;
-
-II.- La copia del documento en que conste el acto o resolución impugnados o, en su caso, copia certificada de las actas correspondientes del expediente relativo al cómputo municipal, distrital o de representación proporcional de la elección impugnada;
-
-III.- Las pruebas aportadas;
-
-IV.- Los escritos y pruebas aportados por los terceros interesados y los coadyuvantes;
-
-V.- Un informe circunstanciado en el que se expresarán los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución que se impugna, en el que, además, se expresará si el promovente tiene reconocida su personería ante el órgano del INSTITUTO; y
-
-VI.- Los demás elementos que se estimen necesarios para la resolución del recurso.
-
-###### ARTICULO 356.
-
-Recibido el recurso de revisión por el CONSEJO GENERAL, el Presidente del mismo lo turnará al Secretario Ejecutivo para que certifique que se interpuso en tiempo y que cumple los requisitos que exige este CODIGO.
-
-Si el recurso debe desecharse por ser notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario Ejecutivo u otro Consejero designado por el Presidente, procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al CONSEJO GENERAL en la primera sesión que celebre después de su recepción. La resolución que se dicte en la sesión será engrosada por el Secretario Ejecutivo en los términos que determine el propio Consejo.
-
-Si el CONSEJO MUNICIPAL que remitió el recurso omitió algún requisito, el Secretario Ejecutivo de éste lo hará del inmediato conocimiento de su Presidente para que éste, a su vez, requiera la complementación del o los requisitos omitidos.
-
-En todo caso, el recurso deberá resolverse con los elementos con que se cuente a más tardar 20 días contados a partir de su recepción.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 357.
-
-Recibido el recurso de apelación por el TRIBUNAL, se dictará auto de radicación por el Secretario General de Acuerdos. Acto seguido certificará que se interpuso en tiempo y supervisará si o no reúne los requisitos señalados en este CÓDIGO, integrándolo debidamente.
-
-Si de la revisión que realice el Secretario General de Acuerdos se encuentra que el recurso es evidentemente frívolo o encuadra en alguna de las causales de improcedencia a que se refiere el artículo 363 de este CÓDIGO o, en su caso, si se han cumplido todos los requisitos, éste procederá a formular el proyecto de resolución de admisión o desechamiento correspondiente, mismo que será sometido a la decisión del Pleno.
-
-Hecho lo anterior, el expediente será turnado por el Presidente al Magistrado designado como ponente, quién revisará la integración, realizando para ello todos los actos y diligencias necesarias y elaborará el proyecto de resolución definitiva, que será sometida a la decisión del Pleno.
-
-El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 358.
-
-Para la tramitación del recurso de inconformidad, una vez que el TRIBUNAL reciba el escrito de interposición, será turnado de inmediato al Secretario General de Acuerdos, quien dictará auto de radicación. Acto seguido deberá revisar que reúna todos los requisitos señalados en el presente CÓDIGO.
-
-Si de la revisión que realice el Secretario General de Acuerdos encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 363 de este CODIGO o que es evidentemente frívolo, someterá desde luego, a la consideración del TRIBUNAL, el acuerdo para su desechamiento de plano.
-
-Si el recurso reúne todos los requisitos, el Secretario General de Acuerdos dictará el auto de admisión correspondiente, ordenando se fije copia del mismo en los estrados del TRIBUNAL.
-
-###### ARTICULO 359.
-
-El Secretario General de Acuerdos realizará todos los actos y diligencias necesarios para la integración de los expedientes de los recursos de inconformidad, de manera que los ponga en estado de resolución.
-
-Integrado el expediente del recurso de inconformidad por el Secretario General de Acuerdos, será turnado por el Presidente al proyectista que corresponda para que éste formule y presente un proyecto de resolución al Magistrado designado como ponente, a fin de que si lo estima conveniente, lo apruebe y lo someta a la decisión del Pleno.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte el auto de admisión, para substanciar y resolver este recurso.
-
-###### ARTICULO 360.
-
-En la sesión del Pleno, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
-
-I.- El Magistrado ponente presentará el caso e indicará el sentido de su proyecto de resolución, señalando las consideraciones jurídicas y los preceptos legales en que aquél se funde;
-
-II.- Los Magistrados podrán discutir el proyecto en turno;
-
-III.- Cuando el Presidente considere suficientemente discutido el asunto, lo someterá a votación; y
-
-IV.- Los Magistrados podrán presentar voto particular, el cual se agregará al expediente.
-
-En casos extraordinarios el TRIBUNAL podrá diferir la resolución de un asunto listado.
-
-###### ARTICULO 361.
-
-El Presidente deberá ordenar que se fije en los estrados con una anticipación de por lo menos 24 horas, la lista de los asuntos que serán ventilados en cada sesión.
-
-El TRIBUNAL determinará la hora y día de sus sesiones públicas.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 362.
-
-El Magistrado ponente podrá solicitar a las autoridades federales, estatales o municipales o requerir a los diversos órganos del INSTITUTO, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, las que deberán proporcionarlos oportunamente. Igualmente, en casos extraordinarios, dicho Magistrado podrá ordenar que se realice alguna diligencia o perfeccione una prueba, siempre que lo anterior no sea obstáculo para resolver dentro de los plazos establecidos en este CÓDIGO. La no colaboración será notificada por el TRIBUNAL al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente.
-
-### CAPITULO IX. DE LA ACUMULACION
-
-###### ARTICULO 363.
-
-Los recursos se entenderán como notoriamente improcedentes y serán desechados de plano por las siguientes causales:
-
-I.- No se interpongan por escrito ante el órgano competente que dictó el acto o resolución impugnada;
-
-II.- No estén firmados autógrafamente por quien los promueva;
-
-III.- Sean promovidos por quien no tenga interés legítimo;
-
-IV.- Sean presentados fuera de los plazos señalados en este CODIGO;
-
-V.- No se ofrezcan ni se aporten las pruebas en los plazos señalados por este CODIGO, salvo que, por razones justificadas, no obren en poder del promovente. No se requerirá de pruebas cuando el recurso verse en forma exclusiva sobre puntos de derecho;
-
-VI.- No se señalen agravios o los que se expongan, no tengan manifiestamente una relación directa con el acto, resolución o resultado de la votación o elección que se impugna;
-
-VII.- No se hayan presentado en tiempo los escritos de protesta o no se reúnan los requisitos que señala este CODIGO para el recurso de inconformidad; y
-
-VIII.- Se impugnen más de una elección con un mismo recurso.
-
-###### ARTICULO 364.
-
-Procede el sobreseimiento de los recursos:
-
-I.- Cuando el promovente se desista expresamente;
-
-II.- Cuando la autoridad electoral modifique o revoque el acto o resolución impugnados, de tal manera que quede sin materia el recurso;
-
-III.- Cuando durante el procedimiento sobrevenga alguna de las causas de improcedencia previstas en el artículo anterior; y
-
-IV.- En su caso, cuando durante el procedimiento de un recurso de apelación el ciudadano recurrente fallezca o sea suspendido o privado del goce de sus derechos políticos.
-
-### CAPITULO X. DE LAS PRUEBAS
-
-###### ARTICULO 365.
-
-Podrán acumularse los expedientes de aquellos recursos de revisión o apelación en que se impugne simultáneamente, por dos o más PARTIDOS POLITICOS, el mismo acto o resolución.
-
-El TRIBUNAL podrá acumular los expedientes de los recursos de inconformidad que a su juicio lo ameriten.
-
-Todos los recursos de revisión y apelación interpuestos dentro de los 5 días anteriores a la elección, serán enviados al TRIBUNAL, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El recurrente deberá señalar la conexidad de la causa en el recurso de inconformidad.
-
-Cuando los recursos a que se refiere el párrafo anterior no guarden relación con uno de inconformidad, serán archivados como asuntos definitivamente concluidos.
-
-### CAPITULO XI. DE LAS RESOLUCIONES
-
-###### ARTICULO 366.
-
-En la tramitación de los recursos previstos por este CODIGO se aceptarán las siguientes pruebas:
-
-I.- Documentales;
-
-II.- Técnicas, cuando por su naturaleza no requieran de perfeccionamiento;
-
-III.- La pericial contable, en el supuesto previsto en el inciso c), fracción II del artículo 327 de este CODIGO; y
-
-IV.- Instrumental.
-
-###### ARTICULO 367.
-
-Para los efectos de este CODIGO:
-
-I.- Serán pruebas documentales públicas:
-
-a).- La documentación expedida formalmente por los órganos electorales y las formas oficiales aprobadas por el CONSEJO GENERAL, en las que consten actuaciones relacionadas con el proceso electoral;
-
-b).- Los demás documentos originales o certificados que legalmente se expidan por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
-
-c).- Los documentos expedidos por las demás autoridades federales, estatales y municipales en ejercicio de sus facultades;
-
-d).- Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten;
-
-II.- Serán pruebas documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y se relacionen con sus pretensiones;
-
-III.- Serán pruebas técnicas todos aquellos medios de reproducción de imágenes y sonidos que tengan por objeto crear convicción en los Magistrados del TRIBUNAL acerca de los hechos controvertidos. En estos casos, el oferente deberá señalar concretamente aquello que pretende probar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba;
-
-IV.- Será prueba pericial contable aquélla que conste en dictamen elaborado por contador público que cuente con título profesional, como resultado del examen de documentos, libros y registros contables; y
-
-V.- Serán pruebas instrumentales todas las actuaciones que consten en el expediente.
-
-###### ARTICULO 368.
-
-Los medios de prueba admitidos serán valorados por el CONSEJO GENERAL y por el TRIBUNAL aplicando las reglas de la lógica, de la sana crítica y de la experiencia, debiendo respetar las siguientes reglas:
-
-I.- Las documentales públicas tendrán pleno valor probatorio, salvo prueba en contrario; y
-
-II.- Las documentales privadas, las técnicas, la pericial contable y la instrumental sólo harán prueba plena cuando a juicio del CONSEJO GENERAL o del TRIBUNAL, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guarden entre sí, generan convicción sobre la veracidad de los hechos afirmados.
-
-###### ARTICULO 369.
-
-Serán indicios aquellos que puedan deducirse de los hechos comprobados. También se consideran como indicios, las declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho.
-
-El TRIBUNAL, según la naturaleza de los hechos y el enlace lógico y natural que exista entre la verdad conocida y la verdad por conocer, apreciará el valor de los indicios.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
-
-###### ARTICULO 370.
-
-Para el oportuno desahogo de las pruebas a que se refiere este Capítulo, las autoridades y los órganos electorales deberán expedir las que obren en su poder inmediatamente que se les soliciten. La infracción a esta disposición será notificada por la autoridad electoral al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente.
-
-###### ARTICULO 371.
-
-El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos, las pruebas que obren en su poder. En caso contrario, señalará la autoridad que deba proporcionarla.
-
-Ninguna prueba aportada fuera de estos casos será tomada en cuenta al resolver el recurso interpuesto.
-
-Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos hechos que hayan sido reconocidos.
-
-El que afirma está obligado a probar. También lo está el que niega cuando su negación envuelva la afirmación expresa de un hecho.
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
 
-###### ARTICULO 372.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-Toda resolución deberá constar por escrito, y contendrá:
+###### ARTICULO 326.
 
-I.- La fecha, lugar y órgano electoral que la dicta;
-
-II.- El resumen de los hechos o puntos de derecho controvertidos;
-
-III.- El análisis de los agravios señalados;
-
-IV.- El examen y valoración de las pruebas;
-
-V.- Los fundamentos legales de la resolución;
-
-VI.- Los puntos resolutivos; y
-
-VII.- En su caso, el plazo para su cumplimiento.
-
-###### ARTICULO 373.
-
-Los criterios contenidos en las resoluciones del pleno del TRIBUNAL constituirán jurisprudencia siempre que se sustenten en un mismo sentido en tres resoluciones, sin ninguna en contrario. Para la modificación de la jurisprudencia se deberán observar las reglas establecidas para su formación.
-
-###### ARTICULO 374.
-
-Las resoluciones que recaigan a los recursos de revisión y apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnados.
-
-###### ARTICULO 375.
-
-Las resoluciones que recaigan a los recursos de inconformidad podrán tener los siguientes efectos:
-
-I.- Confirmar los resultados consignados en las actas de cómputo municipal, distrital o de circunscripción plurinominal;
-
-II.- Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador, cuando se den los supuestos previstos en el artículo 331 de este CODIGO, y modificar, en consecuencia, el acta de cómputo municipal respectiva;
-
-III.- Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en el artículo 331 de este CODIGO y modificar, en consecuencia, el acta del cómputo municipal o estatal respectiva para la elección de Ayuntamientos y Diputados de mayoría relativa;
-
-IV.- Revocar la constancia de mayoría expedida en favor de una planilla de miembros de los Ayuntamientos o de una fórmula de candidatos a Diputados por el principio de mayoría relativa, por los CONSEJOS GENERAL o MUNICIPALES; otorgarla a la planilla o fórmula que resulte ganadora como consecuencia de la anulación de la votación emitida en una o varias casillas y modificar las actas de cómputo municipal y estatal respectivas;
-
-V.- Declarar la nulidad de la elección y revocar la constancia de mayoría expedida por el CONSEJO MUNICIPAL o GENERAL correspondiente, cuando se den los supuestos de nulidad previstos en este CODIGO;
-
-VI.- Declarar la nulidad del cómputo de la elección de Diputados y de miembros de Ayuntamientos por el principio de representación proporcional cuando se dé el supuesto de error aritmético en el mismo;
-
-VII.- Modificar la asignación de Diputados y de Regidores por el principio de representación proporcional; y
-
-VIII.- Corregir los cómputos de la elección de Gobernador, de Diputados de mayoría relativa y de Ayuntamientos, cuando sean impugnados por error aritmético.
-
-###### ARTICULO 376.
-
-El TRIBUNAL sólo podrá declarar la nulidad de la votación recibida en una o varias casillas en cualquiera de las elecciones estatales o la nulidad de una elección de Ayuntamientos o de la elección de Diputados de mayoría relativa, cuando se den los supuestos previstos en este CODIGO.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JULIO DE 1999)</small>
-
-## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS ELECTORALES
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
-
-### CAPITULO II. DE LOS DELITOS ELECTORALES
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
-
-###### ARTICULO 377.
-
-El CONSEJO GENERAL impondrá multa por el equivalente de 50 a 500 días de salario mínimo vigente en la capital del Estado a los ministros de culto religioso que por cualquier medio o en cualquier lugar, induzcan al electorado a votar a favor o en contra de un determinado candidato o PARTIDO POLITICO, fomenten la abstención o ejerzan presión sobre el electorado.
+El CONSEJO GENERAL impondrá multa por el equivalente de 100 a 500 días de salario mínimo vigente en la capital del Estado a los ministros de culto religioso que por cualquier medio o en cualquier lugar, induzcan al electorado a votar a favor o en contra de un determinado candidato o PARTIDO POLÍTICO, fomenten la abstención o ejerzan presión sobre el electorado.
 
 El INSTITUTO informará a la Secretaría de Gobernación de las multas que imponga por la infracción a este precepto, sin perjuicio de las sanciones que procedan conforme a la legislación federal aplicable.
 
-###### ARTICULO 378.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 327.
 
 El CONSEJO GENERAL conocerá de las infracciones que se cometan por las autoridades estatales y municipales respecto de las omisiones en la atención de solicitudes de información, certificaciones y auxilios necesarios para el cumplimiento de sus funciones.
 
 Conocida la violación, el CONSEJO GENERAL integrará un expediente que será remitido al superior jerárquico del funcionario infractor, para que éste proceda en los términos legales correspondientes. El superior jerárquico deberá notificar al CONSEJO GENERAL las medidas que haya adoptado en el caso.
 
-###### ARTICULO 379.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-El CONSEJO GENERAL cancelará el REGISTRO de los observadores electorales que no cumplan con las disposiciones contenidas en el Libro Primero del presente CODIGO, sin perjuicio de la imposición de otras sanciones previstas en este CODIGO y en la legislación penal.
+###### ARTICULO 328.
 
-###### ARTICULO 380.
+El CONSEJO GENERAL cancelará el REGISTRO de los observadores electorales que no cumplan con las disposiciones contenidas en el Libro Primero del presente CÓDIGO, sin perjuicio de la imposición de otras sanciones previstas en este CÓDIGO y en la legislación penal.
 
-El CONSEJO GENERAL conocerá de las infracciones y violaciones a las disposiciones de este CODIGO que cometan los funcionarios electorales, procediendo a su sanción, la que podrá consistir en amonestación, suspensión, destitución del cargo o multa hasta de 100 días del salario mínimo diario general vigente en el Estado.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-###### ARTICULO 381.
+###### ARTICULO 329.
 
-El CONSEJO GENERAL tomará conocimiento de las infracciones en que incurran los notarios públicos que sin causa justificada dejen de cumplir las obligaciones que les señala este CODIGO.
+El CONSEJO GENERAL conocerá de las infracciones y violaciones a las disposiciones de este CÓDIGO que cometan los funcionarios electorales, procediendo a su sanción, la que podrá consistir en amonestación, suspensión, destitución del cargo o multa hasta de 100 días del salario mínimo diario general vigente en el Estado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 330.
+
+El CONSEJO GENERAL tomará conocimiento de las infracciones en que incurran los notarios públicos que sin causa justificada dejen de cumplir las obligaciones que les señala este CÓDIGO.
 
 Conocida la infracción, el CONSEJO GENERAL integrará un expediente, que remitirá al Ejecutivo del Estado, quien dictará la resolución que corresponda.
 
 La autoridad competente deberá informar al CONSEJO GENERAL acerca de las medidas que haya adoptado.
 
-###### ARTICULO 382.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 331.
 
 El CONSEJO GENERAL conocerá de las infracciones en que incurran los extranjeros que de cualquier forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos locales. En este supuesto, se procederá a informar de inmediato a la Secretaría de Gobernación, para los efectos previstos en la ley aplicable.
 
-###### ARTICULO 383.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 332.
 
 El CONSEJO GENERAL suspenderá o cancelará el registro de los partidos políticos estatales que promuevan que sus candidatos que resulten electos no se presenten a desempeñar su cargo.
 
-En el caso de los partidos políticos nacionales, cancelará la inscripción de su registro y dará aviso a la autoridad federal electoral para los efectos legales que procedan.
+En el caso de los PARTIDOS POLÍTICOS nacionales, cancelará la inscripción de su registro y dará aviso a la autoridad federal electoral para los efectos legales que procedan.
 
-###### ARTICULO 384.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-El CONSEJO GENERAL podrá suspender el registro de un partido político estatal en los siguientes casos:
+###### ARTICULO 333.
 
-I.- Por violación a las disposiciones contenidas en este CODIGO; y
+El CONSEJO GENERAL podrá suspender el registro de un PARTIDO POLÍTICO estatal en los siguientes casos:
+
+I.- Por violación a las disposiciones contenidas en este CÓDIGO; y
 
 II.- Por infringir los acuerdos tomados por el propio Consejo.
 
-###### ARTICULO 385.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-Procederá la cancelación del registro de un partido político estatal por reincidencia en la comisión de infracciones a que se refiere el artículo anterior.
+###### ARTICULO 334.
 
-###### ARTICULO 386.
+Procederá la cancelación del registro de un PARTIDO POLÍTICO estatal por reincidencia en la comisión de infracciones a que se refiere el artículo anterior.
 
-Al que viole las disposiciones de este CODIGO sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se les podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 335.
+
+Al que viole las disposiciones de este CÓDIGO sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se les podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más.
 
 En la determinación y, en su caso, aplicación de la multa, se seguirá en lo conducente el procedimiento señalado en este capítulo.
 
-###### ARTICULO 387.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-Ninguna suspensión o cancelación del registro de un PARTIDO POLITICO podrá acordarse sin que previamente se le oiga en defensa, para lo cual deberán ser citados sus representantes legalmente acreditados, a fin de que expresen lo que a su derecho convenga y presenten las pruebas que estimen pertinentes.
+###### ARTICULO 336.
 
-Toda suspensión o cancelación se publicará conforme a las formalidades previstas por este CODIGO para la publicación del registro de los PARTIDOS POLITICOS.
+Ninguna suspensión o cancelación del registro de un PARTIDO POLÍTICO podrá acordarse sin que previamente se le oiga en defensa, para lo cual deberán ser citados sus representantes legalmente acreditados, a fin de que expresen lo que a su derecho convenga y presenten las pruebas que estimen pertinentes.
 
-###### ARTICULO 388.
+Toda suspensión o cancelación se publicará conforme a las formalidades previstas por este CÓDIGO para la publicación del registro de los PARTIDOS POLÍTICOS.
 
-Los PARTIDOS POLITICOS serán sancionados por el TRIBUNAL con multa de 50 a 500 veces el salario mínimo vigente en la capital del Estado cuando:
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-I.- Incumplan las resoluciones y acuerdos de los órganos del INSTITUTO, o del TRIBUNAL;
+###### ARTÍCULO 337.
 
-II.- No presenten los informes anuales o de campaña en los plazos previstos por este CODIGO o los presenten oportunamente sin cumplir los requisitos que para ellos establece el presente ordenamiento; y
+Los PARTIDOS POLÍTICOS que contravengan alguna disposición en materia de procesos internos para seleccionar a sus candidatos a cargos de elección popular serán sancionados por el TRIBUNAL de la manera siguiente:
 
-III.- Acepten donativos o aportaciones económicas en contravención a lo dispuesto en este CODIGO, o rebasen los topes de gastos de campaña establecidos por el CONSEJO GENERAL. En estos casos, la multa será del doble del monto recibido o gastado en exceso.
+I.- Multa de 100 a 500 días de salario mínimo general vigente en el Estado, por cualquier falta a este CÓDIGO que no sea motivo de multa, o pérdida del registro del candidato;
 
-El CONSEJO GENERAL comunicará al TRIBUNAL las irregularidades en que incurra un PARTIDO POLITICO. El Pleno del TRIBUNAL dará vista al PARTIDO POLITICO para que formule los alegatos por escrito y presente pruebas en el plazo de 5 días. Sólo se aceptarán las pruebas reguladas por este CODIGO.
+II.- Multa de 500 a 1500 días de salario mínimo general vigente en la entidad, cuando violen las reglas de la propaganda y fijación de la misma durante la realización del proceso interno, cuando no presente el aviso de inicio del mismo o cuando no se presente en tiempo y forma el informe señalado en el artículo 205 BIS-16; y
 
-El Pleno del TRIBUNAL dictará su resolución en el plazo de 15 días contados a partir del momento en que expire el plazo para presentar alegatos.
+III.- Revocación del registro del candidato que haya resultado ganador cuando durante el proceso interno se exceda en el tope de gastos autorizado, o cuando realice actos de precampaña fuera del tiempo señalado por el artículo 205 BIS-10.
 
-El CONSEJO GENERAL aplicará al PARTIDO POLITICO la sanción económica que le haya impuesto el TRIBUNAL, deduciéndola de la ministración de financiamiento público ordinario mensual inmediata siguiente a la fecha de la resolución correspondiente.
+En el caso señalado en la fracción III, el PARTIDO POLÍTICO quedará en posibilidad de designar libremente conforme a sus estatutos al candidato que deberá registrarse en sustitución de aquel al que le fue cancelado el registro.
 
-###### ARTICULO 389.
+El ciudadano a quien se le haya revocado el registro conforme a la fracción III de este artículo, no podrá ser registrado como candidato para ningún cargo en ese proceso electoral, por otro PARTIDO POLÍTICO o coalición.
 
-Las multas impuestas por infracciones a este CODIGO, contenidas en el presente Título, deberán ser pagadas en la Secretaría Ejecutiva del INSTITUTO, en un plazo improrrogable de 15 días contados a partir su notificación. En caso de que el infractor se oponga al pago se podrá solicitar a la Secretaría de Finanzas del Gobierno del Estado el cobro de la misma, aplicando para ello el procedimiento económico coactivo.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1999)</small>
+###### ARTICULO 338.
 
-###### ARTICULO 390.
+Los PARTIDOS POLÍTICOS serán sancionados por el CONSEJO GENERAL con multa de 100 a 500 días de salario mínimo vigente en la capital del Estado cuando:
+
+I.- Violen las disposiciones contenidas en este CÓDIGO que no tengan una sanción específica;
+
+II.- Incumplan las resoluciones y acuerdos de los órganos del INSTITUTO, o del TRIBUNAL;
+
+III.- No presenten los informes anuales o de campaña en los plazos previstos por este CÓDIGO o los presenten oportunamente sin cumplir los requisitos que para ellos establece el presente ordenamiento; y
+
+IV.-Acepten donativos o aportaciones económicas en contravención a lo dispuesto en este CÓDIGO, o rebasen los topes de gastos de campaña establecidos por el CONSEJO GENERAL. En estos casos, la multa será del doble del monto recibido o gastado en exceso.
+
+El CONSEJO GENERAL conocerá de las irregularidades en que incurra un PARTIDO POLÍTICO. Dará vista al PARTIDO POLÍTICO para que formule los alegatos por escrito y presente pruebas en el plazo de 5 días. Sólo se aceptarán las pruebas reguladas por la Ley Estatal del Sistema de Medios de Impugnación en Materia Electoral.
+
+El CONSEJO GENERAL dictará su resolución en el plazo de 10 días contados a partir del momento en que expire el plazo para presentar alegatos.
+
+El CONSEJO GENERAL aplicará al PARTIDO POLÍTICO la sanción económica, deduciéndola de la ministración de financiamiento público ordinario mensual inmediata siguiente a la fecha de la resolución correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 339.
+
+Las multas impuestas por infracciones a este CÓDIGO, contenidas en el presente Título, deberán ser pagadas en la Secretaría Ejecutiva del INSTITUTO, en un plazo improrrogable de 15 días contados a partir su notificación. En caso de que el infractor se oponga al pago se podrá solicitar a la Secretaría de Finanzas del Gobierno del Estado el cobro de la misma, aplicando para ello el procedimiento económico coactivo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO II. DE LOS DELITOS ELECTORALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 340.
 
 Se considerará como delito electoral todo acto u omisión doloso que contravenga lo dispuesto por el presente Código y se encuentre previsto en la Ley Penal, ya sea que se cometa antes, durante o después de la jornada electoral.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 341.
+
+A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito electoral, se les aplicarán las penas establecidas en el capítulo X, denominado "De los Delitos Electorales", del Título Primero, Sección Segunda del Código Penal para el Estado de Colima. A los servidores públicos, además de las sanciones ya mencionadas, se les podrán aplicar las establecidas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+> <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2005)</small>
+
+### CAPITULO III. DE LA LEGITIMIDAD Y LA PERSONERIA
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2005)</small>
+
+### CAPITULO IV. DE LOS PLAZOS Y TERMINOS
+
+###### ARTICULO 342.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO V. DE LAS NOTIFICACIONES
+
+###### ARTICULO 343.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 344.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 345.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 346.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 347.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 348.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 349.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO VI. DE LAS PARTES
+
+###### ARTICULO 350.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO VII. DE LAS REGLAS DEL PROCEDIMIENTO PARA LA TRAMITACION DE LOS RECURSOS
+
+###### ARTICULO 351.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 352.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 353.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 354.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 355.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 356.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 357.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 358.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 359.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 360.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 361.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 362.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO VIII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+
+###### ARTICULO 363.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 364.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO IX. DE LA ACUMULACION
+
+###### ARTICULO 365.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO X. DE LAS PRUEBAS
+
+###### ARTICULO 366.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 367.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 368.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 369.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 370.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 371.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO XI. DE LAS RESOLUCIONES
+
+###### ARTICULO 372.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 373.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 374.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 375.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 376.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS ELECTORALES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+
+###### ARTICULO 377.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 378.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 379.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 380.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 381.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 382.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 383.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 384.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 385.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 386.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 387.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 388.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+###### ARTICULO 389.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2005)</small>
+
+### CAPITULO II. DE LOS DELITOS ELECTORALES
+
+###### ARTICULO 390.
+
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ###### ARTICULO 391.
 
-A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito electoral, se les aplicarán las penas establecidas en el capítulo X, denominado "De los Delitos Electorales", del Título Primero, Sección Segunda, del Código Penal para el Estado de Colima. A los servidores públicos, además de las sanciones ya mencionadas, se les podrán aplicar las establecidas por la Ley de Responsabilidades de los Servidores Públicos.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2005)
 
 ## TRANSITORIOS
 
@@ -4858,3 +4604,7 @@ SEGUNDO.- La reforma al artículo 155, entrará en vigor el día primero de ener
 P.O. 2 DE JULIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
