@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2004-06-19"
+last_updated: "2005-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2005.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -45,9 +45,9 @@ LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA.
 
 DEL PODER LEGISLATIVO.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LOS DERECHOS Y DEBERES DE LOS DIPUTADOS.
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 1º.
 
@@ -133,9 +133,9 @@ El Congreso tendrá plena autonomía para la elaboración y ejercicio de su pres
 
 La integración, el funcionamiento del Congreso y las atribuciones de sus miembros, se sujetarán a lo establecido en la Constitución, en el presente ordenamiento, en las demás disposiciones legales aplicables y en las de carácter interno que se expidan en los términos de esta Ley.
 
-### CAPITULO I
+### CAPITULO II
 
-DISPOSICIONES GENERALES.
+DE LOS DERECHOS Y DEBERES DE LOS DIPUTADOS.
 
 ###### ARTICULO 14.
 
@@ -161,11 +161,11 @@ Los Diputados serán responsables por los delitos comunes que cometan durante el
 
 Ningún Diputado podrá excusarse de realizar las tareas propias de su encargo, salvo causa grave que calificará el Congreso o la Comisión Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-Compete al Congreso o, en su caso, a la Comisión Permanente, conocer de las excusas, incapacidades o licencias que presenten los Diputados electos o en funciones, para el desempeño de su encargo. El Presidente de la Directiva o, en su caso, de la Comisión Permanente turnará el escrito de solicitud a la comisión respectiva para su estudio y dictamen. El Congreso o la Comisión Permanente, en su caso, emitirá acuerdo declarando la procedencia de aquella, llamando al suplente respectivo.
+Compete al Congreso o, en su caso, a la Comisión Permanente, conocer de las excusas, incapacidades o licencias que presenten los Diputados electos o en funciones, para el desempeño de su encargo. El Presidente de la Directiva o, en su caso, de la Comisión Permanente turnará el escrito de solicitud a la comisión respectiva para su estudio y dictamen. El Congreso o la Comisión Permanente, en su caso, emitirá acuerdo declarando la procedencia de aquella, llamando al suplente respectivo en caso de diputados por el principio de mayoría relativa, y al que siga en la lista tratándose de diputados plurinominales.
 
 ###### ARTICULO 20.
 
@@ -371,13 +371,15 @@ De conformidad con lo previsto por el párrafo primero del artículo 28 de la Co
 
 Enseguida el Presidente de la Directiva Provisional pedirá a los secretarios pasen lista de presentes, si estos certifican la existencia del quórum, el Presidente lo declarará así e instará a los Diputados a que escojan entre sí en escrutinio secreto y por mayoría simple, a los integrantes de la Directiva que habrán de fungir durante el primer período ordinario de sesiones. En caso que no se lograre la mayoría simple para elegir la Directiva, después de tres rondas de votación, fungirán como Presidente, Vicepresidente, Secretarios y suplente los Diputados de mayoría relativa que hayan obtenido del primero al quinto lugares, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente.
 
-Si existe el número suficiente de Diputados para completar el quórum, pero no la totalidad de los integrantes del Congreso, la Directiva Provisional declarará la ausencia de los Diputados propietarios faltantes y se procederá a llamarlos por escrito para que se presenten dentro de los 5 días siguientes, indicando día y hora, apercibiéndolos que de no presentarse se entenderá que no aceptan el cargo y se llamará a los suplentes.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+Si existe el número suficiente de Diputados para completar el quórum, pero no la totalidad de los integrantes del Congreso, la Directiva Provisional declarará la ausencia de los Diputados propietarios faltantes y se procederá a llamarlos por escrito para que se presenten dentro de los 5 días siguientes, indicando día y hora, apercibiéndolos que de no presentarse se entenderá que no aceptan el cargo y se llamará a los suplentes si se trata de diputados electos por el principio de mayoría relativa o al que siga en la lista si se trata de diputados plurinominales.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 32.
 
-En caso de no haber quórum, los Diputados presentes levantarán de inmediato una acta circunstanciada. Acto seguido procederán por escrito a compeler a los Diputados faltantes para que asistan a tomar posesión de sus cargos el 6 de octubre siguiente, a las 11:00 horas, apercibiéndolos que de no presentarse se entenderá que no aceptan su encargo y se llamará a los suplentes. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados propietarios para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los Diputados que asistan levantarán nuevamente un acta circunstanciada en la que asentarán la declaratoria de que los Diputados propietarios faltantes, en los términos del artículo 28 constitucional, no aceptaron su encargo. Acto seguido procederán por escrito a llamar a los Diputados suplentes para que se presenten el 11 de octubre, a las 11:00 horas, apercibiéndolos que de no presentarse se declarará vacante el puesto y se convocará a nuevas elecciones. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados suplentes para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los presentes declararán vacantes las diputaciones respectivas. Acto seguido, se elegirá por mayoría simple la Directiva del Congreso. A continuación el Presidente de la Directiva rendirá protesta en los términos del artículo 33 de esta Ley y posteriormente procederá a tomarla al resto de los Diputados presentes. Con el número de Diputados que hayan tomado protesta, la Legislatura integrada en estos términos, se considerará instalada para todos los efectos legales. La Directiva expedirá de inmediato el decreto que convoque a las elecciones de las diputaciones vacantes. La Directiva electa en los términos de este artículo fungirá como tal hasta que el Congreso quede completamente integrado. Las diputaciones plurinominales vacantes se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos, de conformidad con la Ley Electoral; de no aceptar el cargo propietarios ni suplentes, después de seguir con el procedimiento de ser llamado, quedarán estas diputaciones vacantes definitivamente. El Oficial Mayor en funciones será el responsable de notificar a los Diputados propietarios y suplentes faltantes los escritos a que se refiere el presente artículo. Será aplicable, en lo conducente, el Código de Procedimientos Civiles.
+En caso de no haber quórum, los Diputados presentes levantarán de inmediato una acta circunstanciada. Acto seguido procederán por escrito a compeler a los Diputados faltantes para que asistan a tomar posesión de sus cargos el 6 de octubre siguiente, a las 11:00 horas, apercibiéndolos que de no presentarse se entenderá que no aceptan su encargo y se llamará a los suplentes o a los que sigan en la lista de Diputados por el principio de representación proporcional, según sea el caso. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados propietarios para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los Diputados que asistan levantarán nuevamente un acta circunstanciada en la que asentarán la declaratoria de que los Diputados propietarios faltantes, en los términos del artículo 28 constitucional, no aceptaron su encargo. Acto seguido procederán por escrito a llamar a los Diputados suplentes o a los que por orden de prelación sigan en la lista si se trata de diputados plurinominales, para que se presenten el 11 de octubre, a las 11:00 horas, apercibiéndolos que de no presentarse se declarará vacante el puesto y se convocará a nuevas elecciones. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados suplentes para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los presentes declararán vacantes las diputaciones respectivas. Acto seguido, se elegirá por mayoría simple la Directiva del Congreso. A continuación el Presidente de la Directiva rendirá protesta en los términos del artículo 33 de esta Ley y posteriormente procederá a tomarla al resto de los Diputados presentes. Con el número de Diputados que hayan tomado protesta, la Legislatura integrada en estos términos, se considerará instalada para todos los efectos legales. La Directiva expedirá de inmediato el decreto que convoque a las elecciones de las diputaciones vacantes. La Directiva electa en los términos de este artículo fungirá como tal hasta que el Congreso quede completamente integrado. Las diputaciones plurinominales vacantes se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos, de conformidad con la Ley Electoral. El Oficial Mayor en funciones será el responsable de notificar a los Diputados propietarios y suplentes faltantes los escritos a que se refiere el presente artículo. Será aplicable, en lo conducente, el Código de Procedimientos Civiles.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -1224,3 +1226,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima.
