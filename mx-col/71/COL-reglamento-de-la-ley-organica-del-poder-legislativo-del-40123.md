@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2004-07-24"
+last_updated: "2005-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2005.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -147,9 +147,11 @@ IV.- Contribuir a la difusión entre la población de las leyes fundamentales de
 
 V.- Las demás que les señalen la Ley, este Reglamento o los acuerdos que emita la Asamblea.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 13.
 
-Los Diputados que falten a tres sesiones consecutivas sin causa justificada, se entiende que renuncian a concurrir a las sesiones hasta el período ordinario inmediato, llamándose desde luego a los suplentes. Estos no podrán durar menos de un mes en funciones, aún cuando los propietarios soliciten regresar.
+Los Diputados que falten a tres sesiones consecutivas sin causa justificada, se entiende que renuncian a concurrir a las sesiones hasta el período ordinario inmediato, llamándose desde luego a los suplentes o a los que en orden de prelación sigan en la lista según el caso. Estos no podrán durar menos de un mes en funciones, aún cuando los propietarios soliciten regresar.
 
 Para el efecto señalado en este artículo, bastara con que la Secretaría certifique la inasistencia sin justificación del Diputado faltista, misma que se presentará en sesión y que el Diputado Presidente haga la declaración respectiva para inmediatamente ordenar se llame al Diputado Suplente para que ejerza las funciones por el tiempo restante del periodo ordinario.
 
@@ -161,9 +163,11 @@ En todo caso, el nombre de los Diputados que no concurran a las sesiones, se har
 
 ### CAPITULO III. DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
 ###### Artículo 15.
 
-En caso de falta absoluta de un Diputado, la Asamblea acordará sea llamado el suplente respectivo. A falta de este, se estará a lo dispuesto por el Código Electoral y la Ley.
+En caso de falta absoluta de un Diputado, la Asamblea acordará sea llamado el suplente respectivo si se trata de diputados por el principio de mayoría relativa, o el que siga en el orden de prelación de la lista de diputados por el principio de representación proporcional. A falta de éste, se estará a lo dispuesto por el Código Electoral y la Ley.
 
 ###### Artículo 16.
 
@@ -285,7 +289,9 @@ Si existe quórum, pero no está la totalidad de los integrantes del Congreso, a
 
 De no existir quórum, la Directiva Provisional levantará acta circunstanciada que será firmada por los Diputados presentes y procederá a compeler por escrito a los Diputados faltantes, convocándolos a sesión para el día 6 de octubre, a partir de las 11:00 horas, con el apercibimiento legal respectivo.
 
-Si el día y hora señalados en el párrafo anterior existe quórum, se desarrollará la sesión en los términos del artículo 24 de este Reglamento; en caso contrario, nuevamente se levantará acta circunstanciada, en la que se declarará que los Diputados Propietarios faltantes, no aceptaron su cargo y se procederá a llamar a los Diputados Suplentes para que comparezcan el día 11 de octubre a partir de las 11:00 horas, con el apercibimiento de que si no comparecen, se declarará vacante el puesto y se convocará a elecciones extraordinarias.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Si el día y hora señalados en el párrafo anterior existe quórum, se desarrollará la sesión en los términos del artículo 24 de este Reglamento; en caso contrario, nuevamente se levantará acta circunstanciada, en la que se declarará que los Diputados Propietarios faltantes, no aceptaron su cargo y se procederá a llamar a los Diputados suplentes o siguientes de la lista de diputados plurinominales para que comparezcan el día 11 de octubre a partir de las 11:00 horas, con el apercibimiento de que si no comparecen, se declarará vacante el puesto y se convocará a elecciones extraordinarias.
 
 De existir quórum el día y hora indicados en el párrafo anterior, se desarrollará la sesión en los términos del artículo 24 de este Reglamento; en caso contrario, la Directiva Provisional declarará vacantes las Diputaciones respectivas y se elegirá por mayoría simple la Directiva del Congreso.
 
@@ -293,7 +299,9 @@ A continuación, el Presidente rendirá protesta en los términos del tercer pá
 
 El presidente declarará un receso, para el efecto de que la Directiva prepare el dictamen de Decreto que convoca a elecciones extraordinarias de las diputaciones de mayoría vacantes. Reanudada la sesión, se procederá al análisis y aprobación, en su caso, del Decreto mencionado.
 
-Las Diputaciones plurinominales vacantes, se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos. De no aceptar el cargo propietarios ni suplentes, después de agotada la lista, quedarán éstas Diputaciones vacantes definitivamente.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+
+Las Diputaciones plurinominales vacantes, se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos.
 
 Finalmente, el Presidente citará a sesión ese mismo día a partir de las 17:00 horas, para efectos de recibir el informe a que se refiere el artículo 31 de la Constitución.
 
@@ -2008,3 +2016,7 @@ Dip. Luis Ávila Aguilar, Presidente. Rúbrica. Dip. José Luis Aguirre Campos, 
 P.O. 24 DE JULIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
