@@ -4,7 +4,7 @@ identifier: "LSPCAPF"
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-10"
-last_updated: "2003-04-10"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LSPCAPF"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACION PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2005.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 10 de abril de 2003.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de abril de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -130,9 +130,11 @@ a) La capacidad presupuestal de la dependencia, de conformidad con las disposici
 
 b) La prohibición de que estos Gabinetes de Apoyo ejerzan atribuciones que por ley competan a los servidores públicos de carrera.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 8.
 
-El Sistema no comprenderá al personal que preste sus servicios en la Presidencia de la República, los rangos de Secretarios de Despacho, Jefes de Departamento Administrativo, Subsecretarios, Oficiales Mayores, Jefe o Titular de Unidad y cargos homólogos; los miembros de las Fuerzas Armadas, del sistema de seguridad pública y seguridad nacional, del Servicio Exterior Mexicano y asimilado a éste; personal docente de los modelos de educación preescolar, básica, media superior y superior; de las ramas médica, paramédica y grupos afines, los gabinetes de apoyo, así como aquellos que estén asimilados a un sistema legal de servicio civil de carrera; y los que presten sus servicios mediante contrato, sujetos al pago por honorarios en las dependencias.
+El Sistema no comprenderá al personal que preste sus servicios en la Presidencia de la República, la Secretaría de Relaciones Exteriores, los rangos de Secretarios de Despacho, Jefes de Departamento Administrativo, Subsecretarios, Oficiales Mayores, Jefe o Titular de Unidad y cargos homólogos; los miembros de las Fuerzas Armadas, del sistema de seguridad pública y seguridad nacional, del Servicio Exterior Mexicano y asimilado a éste; personal docente de los modelos de educación preescolar, básica, media superior y superior; de las ramas médica, paramédica y grupos afines, los gabinetes de apoyo, así como aquellos que estén asimilados a un sistema legal de servicio civil de carrera; y los que presten sus servicios mediante contrato, sujetos al pago por honorarios en las dependencias.
 
 ###### Artículo 9.
 
@@ -795,3 +797,21 @@ Se abroga el Acuerdo por el que se crea la Comisión Intersecretarial del Servic
 México, D.F., a 3 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. María de las Nieves García Fernández, Secretaria.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de abril de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 2005.
+
+Primero.- Los criterios y mecanismos de profesionalización de los servidores públicos de la Secretaría de Relaciones Exteriores no miembros del Servicio Exterior Mexicano con plazas de estructura de los niveles de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal, quedarán sujetos a una normatividad que expida el Congreso al amparo de la Ley del Servicio Exterior Mexicano, a la que se propondrán las modificaciones necesarias a efecto de garantizar sus derechos laborales dentro de la Secretaría de Relaciones Exteriores en condiciones generales de igualdad, con base en los principios de legalidad, eficiencia, imparcialidad, equidad, certidumbre laboral, capacitación, movilidad, desarrollo profesional y humano y competencia por mérito. Hasta en tanto se definan estas disposiciones, los servidores públicos no miembros del Servicio Exterior Mexicano permanecerán como servidores públicos de libre designación.
+
+Segundo.- Se integrará una Comisión Ad-hoc que será presidida por el Presidente de la Comisión de Personal de la Secretaría de Relaciones Exteriores, la cual estará conformada por el Presidente de la Asociación del Servicio Exterior Mexicano por miembros del Servicio Exterior Mexicano y por servidores públicos de la Secretaría de Relaciones Exteriores no miembros del servicio exterior que ocupan plaza de estructura del nivel de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal, todos los cuales serán electos por sus pares para tal efecto. Ambos grupos (miembros del servicio exterior y no miembros del servicio exterior) estarán representados en números equivalentes.
+
+Esta Comisión elaborará una propuesta de normatividad al amparo de la Ley del Servicio Exterior Mexicano señalado en el Primer Transitorio de este Decreto, para que se realicen las adecuaciones necesarias, en donde se establecerá que la administración de los servidores públicos y del Servicio Exterior Mexicano quedará bajo la dirección de la Secretaría de Relaciones Exteriores, sin menoscabo de los derechos de los miembros del propio servicio exterior, así como de los servidores públicos de la Cancillería no miembros del servicio exterior con plaza de estructura del nivel de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal. La Comisión Ad-hoc adoptará el proyecto respectivo según las reglas de procedimiento que la misma establezca para sus labores.
+
+Dicha Comisión conciliará las obligaciones y derechos de los miembros del Servicio Exterior Mexicano y de los servidores públicos de la Secretaría de Relaciones Exteriores antes mencionados. Para la redacción del proyecto respectivo la citada Comisión utilizará la plantilla autorizada de plazas de estructura y puestos y el Catálogo General de Puestos previsto en la Ley y el Reglamento del Servicio Exterior Mexicano vigentes, en cuya elaboración y actualización participarán los representantes de ambos grupos.
+
+La Secretaría de Relaciones Exteriores, deberá coordinar la integración de la Comisión en un plazo no mayor a 30 días contados a partir de la publicación del presente Decreto.
+
+Tercero.- En tanto no entre en vigor la normatividad que formule el Congreso a la que se hace mención en el Primer Transitorio de este Decreto, las plazas vacantes en la Secretaría de Relaciones Exteriores serán cubiertas, indistintamente, por miembros del Servicio Exterior Mexicano y/o los servidores públicos de la Secretaría de Relaciones Exteriores no miembros del Servicio Exterior que ocupan plaza de estructura del nivel de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal. En el caso de plazas vacantes del nivel de Enlace, éstas podrán ser ocupadas indistintamente por miembros del Servicio Exterior Mexicano y/o servidores públicos no miembros del Servicio Exterior Mexicano, en el entendido de que estos últimos serán considerados como servidores públicos de libre designación en tanto no se emitan las disposiciones del régimen jurídico señalado en el Primer Transitorio de este Decreto.
+
+Cuarto.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
