@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-para-el-acceso-a-453
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2005-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el viernes 10 de junio de 2005.
 
@@ -51,7 +51,7 @@ Que por lo anteriormente expuesto, se acuerda:
 
 Así lo acuerda y firma el C. Lázaro Cárdenas Batel, Gobernador Constitucional del Estado, con la asistencia del C. L. Enrique Bautista Villegas, Secretario de Gobierno, a los 11 días del mes de mayo del año 2005. Cúmplase. (Firmados).
 
-COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMAICÓN (sic) PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
+COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMAICÓN (SIC) PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 La Comisión Estatal para el Acceso a la información Pública del Estado de Michoacán de Ocampo; en ejercicio de las facultades que le confiere el artículo 42 fracción XIV de la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo, y
 
@@ -79,9 +79,11 @@ La Comisión Estatal para el Acceso a la Información Pública del Estado de Mic
 
 El patrimonio de la Comisión se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen y asignen en el Presupuesto de Egresos del Gobierno del Estado, así como ingresos que reciba por cualquier otro concepto, derivado de la aplicación de la Ley, este Reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 3°.
 
-Además de las definiciones contenidas en el artículo 5° de la Ley Estatal para el Acceso al (sic) Información Pública del Estado de Michoacán de Ocampo, para efectos del presente Reglamento se entenderá por:
+Además de las definiciones contenidas en el artículo 5º de la Ley Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, para efectos del presente Reglamento se entenderá por:
 
 I. Ley: Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo;
 
@@ -139,17 +141,21 @@ VII. Las demás unidades y personal técnico y administrativo que autorice el Pl
 
 ### CAPÍTULO TERCERO. DEL PLENO DE LA COMISIÓN
 
-###### Artículo 6°.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
 
-El Pleno es el órgano máximo de dirección, tomará sus decisiones y desarrollará sus funciones de manera colegiada, ajustándose para ello a los principios de legalidad, igualdad, imparcialidad, objetividad, profesionalismo, honradez y lealtad, por lo que no habrá preeminencia entre ellos.
+###### Artículo 6º.
+
+El Pleno es el órgano máximo de dirección, tomará sus decisiones y desarrollará sus funciones de manera colegiada, ajustándose para ello a los principios de legalidad, transparencia, igualdad, imparcialidad, objetividad, profesionalismo, honradez y lealtad, por lo que no habrá preeminencia entre ellos.
 
 ###### Artículo 7°.
 
 El Pleno es la autoridad frente a los comisionados en su conjunto y en lo particular, y sus resoluciones son obligatorias para éstos, sean ausentes o disidentes entre ellos.
 
-###### Artículo 8°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
 
-La (sic) sesiones del Pleno serán ordinarias o extraordinarias, y su carácter será público, salvo que el Pleno determine que éstas deban ser privadas.
+###### Artículo 8º.
+
+Las sesiones del Pleno serán ordinarias o extraordinarias, y su carácter será público, salvo que el Pleno determine que éstas deban ser privadas.
 
 Las sesiones ordinarias se realizarán quincenalmente, de acuerdo con lo establecido en el calendario que apruebe el Pleno y la convocatoria deberá enviarse a más tardar el día anterior al de su celebración.
 
@@ -269,7 +275,9 @@ XII. Elaborar el proyecto de política de comunicación social de la Comisión;
 
 XIII. Elaborar el Manual de Organización y de procedimientos de las Subdirecciones y Unidades;
 
-XIV. Informar al Pleno sobre la integración, funcionamiento y avances de los programas que periódicamente presenten las unidad (sic) bajo su coordinación;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XIV. Informar al Pleno sobre la integración, funcionamiento y avances de los programas que periódicamente presenten las Unidades bajo su coordinación;
 
 XV. Elaborar el sistema de evaluación del desempeño de los servidores públicos de la Comisión y vigilar su operación;
 
@@ -419,19 +427,23 @@ XXI. Las demás que le confiera el Pleno y las disposiciones legales aplicables.
 
 ### CAPÍTULO SÉPTIMO. DE LA SUBDIRECCIÓN DE ANÁLISIS Y PROYECTOS
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 21.
 
-Para ser Subdirector de Análisis y Proyectos se requiere:
+La Subdirección de Análisis y Proyectos es el área técnica de apoyo en el despacho de los asuntos a cargo de la Comisión, respecto a su planeación estratégica, programas, proyectos y desarrollo institucional. Para ser titular de la misma se requiere:
 
-IV(sic). Ser ciudadano mexicano;
+I. Ser ciudadano mexicano;
 
-V(sic). Tener título profesional en el área de las Ciencias Sociales y experiencia de al menos tres años, preferentemente con estudios de maestría; y,
+II. Tener título profesional en el área de las Ciencias Sociales y experiencia de al menos tres años, preferentemente con estudios de maestría; y,
 
-VI(sic). No estar inhabilitado para el servicio público.
+III. No estar inhabilitado para el servicio público.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 22.
 
-Son funciones de la Subdirección de Planeación y Evaluación:
+Son funciones de la Subdirección de Análisis y Proyecto:
 
 I. Apoyar al Pleno en la elaboración del programa anual de actividades;
 
@@ -451,9 +463,41 @@ VIII. Coordinar y supervisar el Servicio Civil de Carrera de la Comisión;
 
 IX. Recabar la información y elementos estadísticos que reflejen los trabajos a su cargo;
 
-X. Coordinar los programas que le sean asignados por el Comisionado Presidente; y,
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
 
-XI. Las demás que le confiera el Pleno y las disposiciones legales aplicables.
+X. Diseñar e implementar el sistema de gestión de calidad en la Comisión;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XI. Definir criterios y mecanismos para la elaboración de los planes de desarrollo de las diferentes Unidades de la Comisión;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XII. Definir, en coordinación con las Unidades correspondientes, el sistema integral de información de la Comisión;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XIII. Diseñar y ejecutar los mecanismos e instrumentos de supervisión y evaluación de los programas y proyectos institucionales;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XIV. Elaborar y presentar el informe anual de actividades de la Subdirección;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XV. Realizar estudios y diagnósticos para la identificación de técnicas, metodologías y mecanismos de evaluación de programas y proyectos;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XVI. Diseñar la metodología y desarrollar el monitoreo de entidades públicas y organismos obligados;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XVII. Coordinar los programas que le sean asignados por el Comisionado Presidente; y,
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+XVIII. Las demás que le confiera el Pleno y las disposiciones legales aplicables.
 
 ### CAPÍTULO OCTAVO. DE LAS UNIDADES
 
@@ -747,6 +791,16 @@ COMISIONADA
 
 (Firmado)
 
-MTRO. CARLOS DOMÍNGUEZ DOMÍNGUEZCOMISIONADO
+MTRO. CARLOS DOMÍNGUEZ DOMÍNGUEZ
+
+COMISIONADO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
