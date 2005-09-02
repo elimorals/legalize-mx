@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2005-06-24"
+last_updated: "2005-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -775,7 +775,9 @@ I. Administración y procuración de justicia: Tiene a su cargo la atención de 
 
 II. Asuntos indígenas: Tiene a su cargo la atención de asuntos en materia indígena.
 
-III. Asuntos municipales: Tiene a su cargo la atención de asuntos de índole municipal.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
+III.- Asuntos municipales y del migrante: Tiene a su cargo la atención de asuntos de índole municipal y de los trabajadores migrantes de los municipios del Estado.
 
 IV. Derechos humanos: Tiene a su cargo la atención de asuntos en materia de derechos humanos.
 
@@ -2073,7 +2075,7 @@ III. Que sea o hubiere sido cónyuge de una de las partes o de su representante;
 
 IV. Que tenga en relación con el objeto del procedimiento, interés personal y directo de cualquier género o concurran circunstancias notorias que impidan el ejercicio de su imparcial y objetivo criterio.
 
-### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATODE ALGUNO DE SUS MIEMBROS
+### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATO DE ALGUNO DE SUS MIEMBROS
 
 ###### Artículo 228.
 
@@ -2340,3 +2342,13 @@ Esta Ley entrará en vigor al día de su aprobación, se ordena su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a la presente ley.
+
+P.O. 2 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor el día de su aprobación y se ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente.
