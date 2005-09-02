@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-23441
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-02-21"
-last_updated: "2002-02-21"
+last_updated: "2005-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23441&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-03-09"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE SEPTIEMBRE DE 2005.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 21 de febrero de 2002.
 
@@ -78,7 +78,7 @@ XV. Las demás que establezcan las disposiciones legales aplicables en la materi
 
 El Sistema, para el estudio, planeación y despacho de los asuntos que le competen contará con los siguientes órganos:
 
-Patronato
+> <small>(REFORMADO, G. O., 2 DE SEPTIEMBRE DE 2005)</small>
 
 Junta de Gobierno
 
@@ -130,25 +130,15 @@ El Organismo observará una vinculación sistemática entre sus servicios de reh
 
 ###### ARTÍCULO 7.
 
-El Patronato estará integrado por once miembros designados y removidos libremente por el Jefe de Gobierno del Distrito Federal. El Secretario del ramo del Distrito Federal, en su carácter de Presidente de la Junta de Gobierno del Organismo, representará a la misma ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+(DEROGADO, G. O., 2 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 8.
 
-Corresponde al Patronato la competencia en los siguientes asuntos:
-
-I. Emitir opinión y recomendaciones sobre los planes de labores, presupuesto, informes y estados financieros del Organismo;
-
-II. Apoyar las actividades del Organismo y formular sugerencias tendientes a su mejor desempeño;
-
-III. Contribuir a la obtención de recursos que permitan incrementar el patrimonio del Organismo y al cabal cumplimiento con su objeto, así como dar seguimiento a los recursos, donativos y ayudas captadas por el Organismo, su aceptación, trámite y destino, a fin de lograr un aprovechamiento racional de los mismos;
-
-IV. Designar a su Presidente y al Secretario de Sesiones; y
-
-V. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+(DEROGADO, G. O., 2 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 9.
 
-El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que requieran para el debido cumplimiento de los objetivos del Organismo.
+(DEROGADO, G. O., 2 DE SEPTIEMBRE DE 2005)
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE JUNTA DE GOBIERNO
 
@@ -156,7 +146,9 @@ El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias qu
 
 La Junta de Gobierno del Sistema se integrará con:
 
-I. El titular de la Secretaría de Desarrollo Social, con el carácter de Presidente, quien además, representará a la Junta de Gobierno ante el Patronato;
+> <small>(REFORMADA, G. O., 2 DE SEPTIEMBRE DE 2005)</small>
+
+I. El titular de la Secretaría de Desarrollo Social, con el carácter de Presidente;
 
 II. El titular de la Secretaría de Gobierno, con el carácter de vocal;
 
@@ -198,11 +190,13 @@ VI. Aprobar la aceptación y destino de herencias, legados y donativos; y
 
 VII. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, G.O., 2 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 12.
 
 La Junta de Gobierno sesionará ordinariamente en forma trimestral y podrá celebrar sesiones extraordinarias cuando la Presidencia de la misma lo estime necesario.
 
-Para la celebración de las sesiones se requerirá la asistencia de cuando menos cuatro de sus miembros. Las resoluciones que tome la Junta se adoptarán por mayoría de votos; en caso de empate, el Presidente de la misma tendrá voto de calidad.
+Para la celebración de las sesiones se requerirá la asistencia de cuando menos de la mitad de sus miembros más uno y siempre que la mayoría de éstos sean representantes de la Administración Pública del Distrito Federal. Las resoluciones que tome la Junta se adoptarán por mayoría de votos; en caso de empate, el Presidente de la misma tendrá voto de calidad.
 
 La Junta de Gobierno designará a un Secretario y a un Prosecretario, quienes, actuando conjunta o separadamente, levantarán las actas de las sesiones de la Junta y certificarán las mismas.
 
@@ -244,7 +238,7 @@ IX. Celebrar acuerdos y concertar acciones con los sectores público, social y p
 
 X. Celebrar los convenios, contratos y demás actos jurídicos que sean indispensables para el cumplimiento de los objetivos, metas y programas del Organismo;
 
-XI. Presentar al Patronato, para su opinión y recomendaciones, el Programa Institucional Anual del Organismo;
+XI. (DEROGADA, G. O., 2 DE SEPTIEMBRE DE 2005)
 
 XII. Someter el Programa Institucional Anual del Organismo a la consideración de la Junta de Gobierno;
 
@@ -258,7 +252,11 @@ XVI. Opinar sobre el otorgamiento de donativos a instituciones públicas y priva
 
 XVII. Informar a la Junta de Gobierno de la creación de comités que coadyuven a la operación del Organismo; y
 
-XVIII. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, en los términos de las disposiciones legales aplicables.
+> <small>(ADICIONADA, G. O., 2 DE SEPTIEMBRE DE 2005)</small>
+
+XVIII. Promover la cultura de la donación entre los sectores público, social y privado para la obtención de los donativos que permitan incrementar el patrimonio del Sistema y cumplir su objeto;
+
+XIX. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, en los términos de las disposiciones legales aplicables.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ASUNTOS JURÍDICOS
 
@@ -512,33 +510,49 @@ XLIV. Establece las políticas generales y específicas para el uso y aprovecham
 
 ### CAPÍTULO X. DE LAS ATRIBUCIONES DE LA CONTRALORÍA INTERNA
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, G.O., 2 DE SEPTIEMBRE DE 2005)</small>
 
-Corresponde al Contralor Interno la competencia en los siguientes asuntos;
+###### Artículo 21.
 
-I. Observar, en toda su operación, las disposiciones legales específicas aplicables, así como las norma s generales que establezca la Contraloría General del Distrito Federal;
+Corresponde al Contralor Interno la competencia de los siguientes asuntos:
 
-II. Vigilar que los instrumentos de control se apliquen de manera eficiente en las áreas que integran el Organismo;
+I. Proponer para la aprobación del Titular de la Dirección General de Contralorías Internas, el Programa de Implantación y seguimiento de control interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución.
 
-III. Participar en las actas administrativas que se levanten con motivo de la substitución de servidores públicos de mandos superiores y medio;
+II. Asistir a las sesiones de los Comités y Subcomités instalados en la Entidad en términos de las disposiciones jurídicas y administrativas aplicables.
 
-IV. Establecer los mecanismos que permitan la correcta aplicación de los recursos en los convenios en los cuales el Organismo se obligue a realizar aportaciones, otorgar subsidios o subvenciones;
+III. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías y revisiones.
 
-V. Revisar el contenido de los convenios, contratos, bases de licitación para concursos y en aquellos actos significativos que representen ingresos, egresos, así como proyectos de disposiciones, políticas, normas y lineamientos en materia de control;
+IV. Intervenir en los procedimientos de licitación pública y por invitación restringida a cuando menos tres participantes o concursantes.
 
-VI. Cumplir con los programas de control y auditoría y cuando ello corresponda, practicar auditorías y revisiones, de cualquier naturaleza y alcance que se requiera, a las áreas del Organismo, para verificar el cumplimiento de las obligaciones derivadas de las disposiciones legales, normas, lineamientos en materia de ingresos, egresos, presupuestación, financiamiento, inversión, deuda y administración de recursos materiales y financieros del Organismo;
+V. Atender los requerimientos que les formule la Contraloría General, derivado de las funciones que tienen encomendadas.
 
-VII. Formular a las áreas que integran el Organismo, con base a los resultados de las auditorías y revisiones que realice, las observaciones y recomendaciones requeridas;
+VI. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Direcciones Ejecutivas y Coordinación de Administración, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente.
 
-VIII. Establecer el seguimiento de las observaciones y recomendaciones resultantes de las auditorías y revisiones practicadas a las áreas del Organismo;
+VII. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de la Entidad, a fin de vigilar que se cumpla la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes.
 
-IX. Supervisar el desarrollo de las quejas y denuncias que presenten particulares o trabajadores del Sistema, en contra de los servidores públicos del mismo;
+VIII. Conocer, investigar, desahogar y resolver procedimientos disciplinarios sobre actos u omisiones de servidores públicos adscritos a la Entidad que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, para determinar en su caso las sanciones que correspondan en términos de la ley de la materia.
 
-X. Denunciar ante la Coordinadora de Sector y a las autoridades competentes, previo conocimiento del Director General y mediante la participación de la Dirección Ejecutiva de Asuntos Jurídicos, los hechos que afecten al Organismo y que pudieran ser constitutivos de delito;
+IX. Substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas y administrativas aplicables.
 
-XI. Proporcionar a la Contraloría General del Distrito Federal y a la Coordinadora de Sector, la información y elementos que requieran para el ejercicio de sus funciones; y
+X. Acordar cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones.
 
-XII. Informar al Director General sobre los resultados de las evaluaciones a las áreas que hayan sido objeto de revisión u auditoría.
+XI. Verificar a través del Sistema de Seguimiento que para tal efecto se establezca, que la Entidad atienda hasta su conclusión las observaciones y recomendaciones de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, así como de las de la Auditoría Superior de la Federación.
+
+XII. Verificar la aplicación de los indicadores de gestión que emita la Dirección General de Evaluación y Diagnóstico para lograr el cumplimiento por parte de la Entidad, de las disposiciones en materia de planeación, programación presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado de éstas, así como en materia de adquisiciones, arrendamientos, servicios, obra pública y demás que señalen las disposiciones jurídicas y administrativas aplicables.
+
+XIII. Conocer, desahogar y resolver a través de la unidad correspondiente, el procedimiento de Aclaración de los Actos. En términos de la Ley de Obras Públicas del Distrito Federal; y
+
+XIV. Supervisar el cumplimiento de las obligaciones fiscales por parte de la Entidad.
+
+XV. Participar con la representación que corresponda, en los Comités de Control y Evaluación, para verificar el cumplimiento de la implantación de sistemas de control y prevención específicos por parte de la Entidad.
+
+XVI. Asistir a las sesiones de la Junta de Gobierno.
+
+XVII. Formular propuestas de mejoras regulatorias y administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en la operación de la Entidad.
+
+XVIII. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos que sean remitidas por la Dirección Ejecutiva de Contraloría Ciudadana; y
+
+XIX. Las demás atribuciones que se deriven de éste Estatuto u otras disposiciones legales.
 
 ### CAPÍTULO XI. DE LAS ATRIBUCIONES COMUNES DE LOS DIRECTORES Y COORDINADORES
 
@@ -635,3 +649,21 @@ PRIMERO. Se deroga el Estatuto Orgánico del Sistema Para El Desarrollo Integral
 SEGUNDO. El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, en su XVII Sesión Ordinaria, celebrada el 29 de marzo del año 2001, aprueba el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Distrito Federal y su publicación mediante el Acuerdo SO/XVII/12/01.- SECRETARIA DE DESARROLLO SOCIAL.- PRESIDENTA, DRA. RAQUEL SOSA ELIZAGA.- FIRMA.- SECRETARÍA DE GOBIERNO SUPLENTE, DRA. MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.- SECRETARÍA DE DESARROLLO ECONÓMICO SUPLENTE, LIC. ROCIÓ (SIC) MEJÍA FLORES.- FIRMA.- SECRETARÍA DE FINANZAS SUPLENTE, LIC. ALEJANDRO GASTELÚ MARTÍNEZ.- FIRMA.- PROCURADURÍA GENERAL DE JUSTICIA DEL D. F. SUPLENTE, LIC. RAQUEL MORA CRUZ.- FIRMA.- OFICIALÍA MAYOR DEL D. F. SUPLENTE, LIC. FERNANDO ENRIQUE BRITO TAYLOR.- FIRMA.- COMISARIO SUPLENTE, C. P. JULIETA GONZÁLEZ MÉNDEZ.- FIRMA.- COMISARIO SUPLENTE, C. P. HÉCTOR JAIME BAUTISTA RAMOS.- FIRMA.- PROSECRETARIO, LIC. VÍCTOR M. SANTACRUZ VEGA.- FIRMA.- INVITADOS PERMANENTES.- DIRECTORA GENERAL DEL DIF-DF, DRA. MARGARITA CASTILLEJOS SALAZAR.- FIRMA.- SECRETARÍA DE SALUD SUPLENTE, DR. JUAN MANUEL E. CASTRO ALBARRAN.- FIRMA.- CONTRALORÍA INTERNA DEL DIF-DF, C. P. LIC. MANUEL VÁZQUEZ SALINAS.- FIRMA.- CONSEJERÍA JURÍDICA Y SERVICIOS LEGALES, LIC. CAROLINA SANTANA NIEVES.- FIRMA.- DIF NACIONAL SUPLENTE, LIC. JOSÉ M. IGUÍNIZ CÁRDENAS.- FIRMA.- DIRECTORA DE ADMINISTRACIÓN Y FINANZAS, C. P. CONSUELO MARTÍNEZ MUÑOZ.- FIRMA.- DIRECTORA DE ASUNTOS JURÍDICOS, LIC. ROSA MA. MOHENO VERDUZCO.- FIRMA.- DIRECTOR DE ASISTENCIA ALIMENTARIA, MTRO. JOSÉ LUIS FERNÁNDEZ SILVA.- FIRMA.- DIRECTORA DE ATENCIÓN A GRUPOS VULNERABLES, LIC. ROSARIO GUTIÉRREZ ROMERO.- FIRMA.- DIRECTORA DE PROMOCIÓN Y DESARROLLO SOCIAL, LIC. SALLY J. PARDO SEMO.- FIRMA.- DIRECTORA GENERAL DE EQUIDAD Y DESARROLLO SOCIAL, MTRA. LUZ BEATRIZ ROSALES ESTEVA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G. O. 2 DE SEPTIEMBRE DE 2005.
+
+ACUERDO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DEL ESTATUTO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se instruye al Comité de Donativos a convocar a Sesión Extraordinaria de manera inmediata, a efecto de que se determine su nueva estructura y funcionamiento,
+
+G.O. 2 DE SEPTIEMBRE DE 2005.
+
+ACUERDO QUE REFORMA LOS ARTICULOS 12 Y 21 DEL ESTATUTO.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
