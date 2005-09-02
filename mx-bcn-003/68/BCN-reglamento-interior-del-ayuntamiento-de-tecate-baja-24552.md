@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2002-02-01"
+last_updated: "2005-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -387,9 +387,11 @@ Para la celebración de sesiones extraordinarias a solicitud de la mayoría de l
 
 PLAZO PARA CONVOCAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 29.
 
-La convocatoria para la celebración de las sesiones ordinarias y solemnes deberán ser notificadas dentro del termino de las 48 Hrs. anticipadas a la sesión a todos los integrantes del Ayuntamiento y en cualquier tiempo tratándose de las extraordinarias.
+La convocatoria para la celebración de las sesiones ordinarias, solemnes y extraordinarias, deberá notificarse por escrito a todos los integrantes del Ayuntamiento, por lo menos con 48 horas de anticipación, tratándose de sesiones ordinarias y solemnes, salvo en el caso de sesiones extraordinarias que serán doce horas de (sic) anticipadas.
 
 El integrante del Ayuntamiento que no hubiere sido citado a una sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión a la que no fue citado, que se vuelvan a deliberar en su presencia, el o los acuerdos tomados en su ausencia.
 
@@ -1120,3 +1122,9 @@ REGIDOR
 C. LIC. ROBERTO RODRÍGUEZ VALENZUELA
 
 SECRETARIO MUNICIPAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2005.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
