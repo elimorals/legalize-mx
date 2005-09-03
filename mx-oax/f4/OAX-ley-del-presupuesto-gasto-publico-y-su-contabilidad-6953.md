@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2005-03-22"
+last_updated: "2005-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -117,6 +117,14 @@ La Secretaría de Finanzas durante el proceso de formulación del presupuesto de
 
 El Presupuesto de Egresos será el que a iniciativa del Titular del Poder Ejecutivo, decrete el Congreso del Estado. Con dichos recursos se atenderán las actividades, las obras y los servicios públicos programados, a cargo de las entidades. Cuando un programa comprenda más de un año, se sujetará a las cantidades asignadas en el Presupuesto de Egresos de cada año.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+El Congreso del Estado aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, las obligaciones de pago previstas en los contratos para prestación de servicios a largo plazo vigentes, tanto para el ejercicio fiscal correspondiente como para los subsecuentes, conforme a la información que proporcione la dependencia o entidad contratante.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+Los pagos que realicen las dependencias y entidades, como contraprestación por los servicios recibidos al amparo de un contrato para prestación de servicios a largo plazo, se registrarán como gasto de capital y no constituye duda.
+
 ###### Artículo 14.
 
 El Presupuesto de Egresos del Estado comprenderá también, en capítulo especial, las previsiones de Gasto Público que habrán de realizar las entidades relacionadas en la fracción IV del propio artículo 2o. de esta Ley que se determine incluir en dicho Presupuesto.
@@ -130,6 +138,10 @@ Para la formulación del proyecto de Presupuesto de Egresos del Estado, las enti
 Las entidades remitirán su respectivo anteproyecto a la Secretaría de Finanzas, con sujeción a las normas, montos y plazos que el Ejecutivo establezca por medio de la propia Secretaría. Las normas y plazos se establecerán a través del Manual para la programación-presupuestación que emita cada año la Secretaría de Finanzas, para tal fin.
 
 La Secretaría de Finanzas está facultada para formular el anteproyecto del Presupuesto de Egresos de las Entidades, cuando no le sea presentado en los plazos que al efecto se les hubiere señalado.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+El Proyecto de Presupuesto de Egresos, hará mención especial de los compromisos que se deriven de los contratos para prestación de servicios a largo plazo, en los que el Gobierno del Estatal podría adquirir activos.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
@@ -418,3 +430,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Gobierno del Estado.
