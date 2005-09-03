@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2004-04-03"
+last_updated: "2005-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
 
-Constitución promulgada por bando solemne el martes 4 de abril de 1922.
+Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
 MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes hace saber:
 
@@ -1023,6 +1023,10 @@ XX. Instituir Tribunales de lo Contencioso Administrativo dotados de autonomía 
 
 XXI. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas;
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+XXI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de contratos para prestación de servicios a largo plazo, que tengan por objeto crear infraestructura pública, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos;
+
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 XXII. Examinar, fiscalizar y calificar cada año, las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
@@ -1595,7 +1599,7 @@ El Gobernador no puede:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2903,13 +2907,13 @@ P.O. 20 DE MARZO DE 2004.
 
 DECRETO NO. 419 QUE REFORMA EL ART. 41 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
 
-UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE MARZO DE 2004.
 
 DECRETO NO. 420 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 P.O. 20 DE MARZO DE 2004.
 
@@ -2932,6 +2936,10 @@ P.O. 3 DE ABRIL DE 2004.
 DECRETO NO. 428 QUE REFORMA EL ART. 42 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
