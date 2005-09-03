@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-enajenaciones-y-11784"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2005-03-22"
+last_updated: "2005-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS, ENAJENACIONES Y SERVICIOS DEL PODER EJECUTIVO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 14 de febrero de 1998.
 
@@ -83,9 +83,11 @@ VII.- Sub-Comité: Sub-Comités de Adquisiciones de Bienes y Servicios de las en
 
 VIII.- Proveedor: Persona física o moral que reúne los requisitos exigidos por esta Ley, para la celebración de contratos de adquisiciones, arrendamientos o servicios regulados por la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 5.
 
-Entre las adquisiciones, arrendamientos y servicios, objeto de esta Ley también quedan comprendidos:
+Entre las adquisiciones, arrendamientos y servicios, objeto de esta Ley, también quedan comprendidos:
 
 I.- Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, que sean necesarios para la realización de las obras públicas, por administración directa o los que suministren las dependencias y entidades de acuerdo con lo pactado en los contratos de obra;
 
@@ -93,9 +95,13 @@ II.- Las adquisiciones de bienes muebles, que incluyan su instalación por parte
 
 III.- La contratación de los servicios relacionados con bienes muebles, incorporados o adheridos a inmuebles cuya conservación, mantenimiento o reparación, no impliquen modificación alguna al propio inmueble;
 
-IV.- La reconstrucción, reparación y mantenimiento de bienes inmuebles, siempre que éstos, no impliquen alteración sustancial en los mismos; seguros, contratación de servicios de limpieza y vigilancia; operación y capacitación relacionada con programas informáticos; así como estudios técnicos que se vinculen con la adquisición o uso de bienes muebles e inmuebles; y
+IV.- La reconstrucción, reparación y mantenimiento de bienes inmuebles, siempre que éstos, no impliquen alteración sustancial en los mismos; seguros, contratación de servicios de limpieza y vigilancia; operación y capacitación relacionada con programas informáticos; así como estudios técnicos que se vinculen con la adquisición o uso de bienes muebles e inmuebles; y (sic)
 
-V.- Los contratos de arrendamiento financiero.
+V.- Los contratos de arrendamiento financiero;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+VI.- Los contratos para prestación de servicios a largo plazo.
 
 ###### ARTICULO 6.
 
@@ -153,6 +159,10 @@ La Secretaría y la Contraloría dictarán las disposiciones administrativas que
 
 Los actos, convenios o contratos que las dependencias y entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos y de la exclusiva responsabilidad de quien los formule.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+Las controversias derivadas o relacionadas con los contratos celebrados de conformidad con esta Ley, podrán resolverse mediante arbitraje. El procedimiento arbitral se substanciará con base en las reglas que determinen las partes en el acuerdo de arbitraje correspondiente y a falta de éstas, se seguirán las disposiciones del Código de Comercio relativas al arbitraje.
+
 ###### ARTICULO 12.
 
 Las adquisiciones de bienes y contratación de servicios regulados por esta Ley, no podrán fraccionarse para disimular topes establecidos en el Presupuesto de Egresos del Estado, así como la normatividad que para su ejercicio formule la Comisión.
@@ -194,6 +204,14 @@ VI.- Preferir la utilización de los bienes o servicios nacionales, sobre los ex
 VII.- Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles a su cargo; y
 
 VIII.- Las demás previsiones que deban tomarse en cuenta, según la naturaleza y características de las adquisiciones, arrendamientos o servicios.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 15 BIS.- De conformidad con lo establecido en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca, las dependencias y entidades de la Administración Pública Estatal, podrán celebrar contratos para prestación de servicios a largo plazo, los cuales involucran recursos de varios ejercicios fiscales, celebrados entre una dependencia o entidad y un inversionista proveedor, mediante el cual se establece, por una parte, la obligación a cargo del inversionista proveedor de prestar a largo plazo con financiamiento privado, uno o más servicios con los activos que éste contribuya, sobre inmuebles propios o de un tercero, incluyendo el sector público, de conformidad con un contrato para prestación de servicios y, por la otra, la obligación de pago, por parte de la dependencia o entidad, por los servicios que le sean proporcionados.
+
+Los servicios que el inversionista proveedor proporcione, conforme a los contratos para prestación de servicios a largo plazo, podrán consistir en el mantenimiento, administración, operación, explotación, diseño, construcción, arrendamiento, transferencia de activos o financiamiento de bienes muebles o inmuebles.
+
+La asignación de los contratos establecidos en este artículo, se hará de acuerdo con los procedimientos establecidos en la presente Ley, por lo que las dependencias y entidades emitirán un dictamen técnico-económico que cumplan con los requisitos establecidos en el artículo 30 de esta Ley, para adjudicar los mencionados contratos.
 
 ###### ARTICULO 16.
 
@@ -405,9 +423,13 @@ Las adquisiciones y contratación de servicios por adjudicación directa, indepe
 
 I.- Cuando se trate de adquisiciones de urgencia derivadas de caso fortuito o fuerza mayor, las cuales de no efectuarse pongan en peligro las operaciones de un programa prioritario o acarrearían graves consecuencias para su desarrollo;
 
-II.- Cuando se trate de bienes requeridos para garantizar la seguridad interior del Estado; y
+II.- Cuando se trate de bienes requeridos para garantizar la seguridad interior del Estado; y (sic)
 
-III.- Cuando la adquisición sólo pueda fincarse o celebrarse con una determinada persona, por ser ésta la titular de la o las patentes de los bienes o servicios de que se trate.
+III.- Cuando la adquisición sólo pueda fincarse o celebrarse con una determinada persona, por ser ésta la titular de la o las patentes de los bienes o servicios de que se trate;
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+IV.- Cuando se celebren contratos para prestación de servicios a largo plazo.
 
 ###### ARTICULO 36.
 
@@ -1046,3 +1068,7 @@ Al C.....
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
