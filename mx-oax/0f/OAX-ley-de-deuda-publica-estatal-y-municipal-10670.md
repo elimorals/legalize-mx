@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2005-06-25"
+last_updated: "2005-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -77,9 +77,11 @@ IV.- Los Organismos Descentralizados Municipales; y
 
 V.- Los Fideicomisos en que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 4.
 
-Las obligaciones que contraigan los entes públicos citados en el Artículo anterior podrán derivar de:
+Las obligaciones que contraigan los entes públicos citados en el artículo anterior podrán derivar de:
 
 I.- La suscripción o emisión de títulos de crédito, valores, bonos o cualquier otro documento pagadero a plazo;
 
@@ -89,15 +91,25 @@ III.- Pasivos contingentes, según sea el caso, relacionados con las fracciones 
 
 IV.- Todas las operaciones de endeudamiento que impliquen obligaciones a plazo, así como las de naturaleza contingente derivadas de actos jurídicos independientemente de la forma en que se les documente.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+Se exceptúa de lo establecido en este artículo, los contratos para prestación de servicios a largo plazo, previstos en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 5.
 
-No constituyen deuda pública estatal ni municipal las obligaciones que de forma directa, indirecta o contingente contraigan los entes públicos en los siguientes casos:
+No constituye (sic) deuda pública estatal ni municipal, las obligaciones que en forma directa, indirecta o contingente contraigan los entes públicos en los siguientes casos:
 
 I.- Cuando actúen como sujetos de derecho privado;
 
-II.- Cuando las obligaciones a corto plazo se realicen para solventar necesidades temporales de flujo de caja y cuyos vencimientos y liquidación se realicen en el mismo ejercicio fiscal anual; y
+II.- Cuando las obligaciones a corto plazo se realicen para solventar necesidades temporales de flujo de caja y cuyos vencimientos y liquidación se realicen en el mismo ejercicio fiscal anual; y (sic)
 
-III.- Cuando no se cubran los requisitos señalados en la presente Ley.
+III.- Cuando no se cubran los requisitos señalados en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+
+IV.- Cuando celebren contratos para prestación de servicios a largo plazo, previstos en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ###### Artículo 6.
 
@@ -472,3 +484,7 @@ P.O. 25 DE JUNIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las disposiciones contenidas en el presente Decreto serán aplicables para todas las obligaciones constitutivas de deuda pública contratadas por el Estado de Oaxaca y los Municipios del Estado de Oaxaca que se encuentren vigentes, en todo lo que no se opongan.
+
+P.O. 3 DE SEPTIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
