@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-comite-municipal-de-adjudicaciones-del-44605"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-01"
-last_updated: "2005-04-01"
+last_updated: "2005-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DEL COMITE MUNICIPAL DE ADJUDICACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 1 de abril de 2005.
 
@@ -99,11 +99,15 @@ I.- Programar y solicitar en tiempo las adquisiciones, arrendamientos y servicio
 
 II.- Establecer las especificaciones técnicas, de calidad y cantidad, así como las condiciones a pactarse con los proveedores;
 
-III.- Observar de manera estricta los lineamientos que expida la Contraloría en materia de adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
+
+III.- Observar de manera estricta las políticas, bases y lineamientos que normarán las actividades en materia de licitación, adjudicación y contratación de adquisiciones, arrendamientos y servicios, que al efecto emita la Contraloría y el Comité;
 
 IV.- Verificar y constatar la calidad de las adquisiciones de acuerdo a sus especificaciones, y
 
-V.- Informar de inmediato a la Contraloría Municipal y al Comité de las irregularidades que se adviertan, que contravengan las especificaciones solicitadas en las adquisiciones, arrendamientos y servicios.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
+
+V.- Informar de inmediato a la Contraloría y al Comité de las posibles irregularidades que se adviertan, que contravengan las especificaciones solicitadas en las adquisiciones, arrendamientos y servicios.
 
 Las dependencias y entidades serán responsables de la información y documentación que remitan al Comité.
 
@@ -143,39 +147,117 @@ a) Un representante de la Contraloría Municipal nombrado por el Contralor;
 
 b) Las demás que a juicio del Presidente del Comité deben integrarse, y
 
-III.- Los integrantes del Comité deberán de designar un suplente.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
+
+III.- Los integrantes del Comité deberán designar su suplente el cual contará con todas las facultades inherentes al miembro que suplen.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 6.
 
-El Comité, además de las atribuciones que le corresponden conforme a la Ley, tendrá las siguientes:
+El Comité, además de las atribuciones que le confiere la ley y las que deriven del presente Reglamento, tendrá las siguientes:
 
-I.- Definir criterios que permitan evaluar las propuestas y determinar la adjudicación de los pedidos o contratos;
+I.- Establecer y promover las políticas, bases y lineamientos que normarán las actividades en materia de licitación, adjudicación y contratación de adquisiciones, arrendamientos y servicios de las dependencias y entidades de la Administración Pública Municipal;
 
-II.- Dictar los lineamientos a que deberá sujetarse la adquisición de bienes para su comercialización o para someterlos a procesos productivos;
+II.- Definir criterios que permitan evaluar las propuestas y determinar la adjudicación de los pedidos o contratos;
 
 III.- Definir los lineamientos que aseguren la participación de licitantes nacionales y extranjeros en igualdad de condiciones;
 
-IV.- Definir los criterios para la obtención de bienes y servicios de mejor calidad;
+IV.- Informar a la Contraloría, cuando detecte por sí o por conducto de las dependencias y entidades de la Administración Pública Municipal, posibles irregularidades en los procedimientos de adjudicación;
 
-V.- Efectuar los procedimientos de adjudicación respecto de las adquisiciones, arrendamientos y servicios solicitados por el Ayuntamiento, así como por sus dependencias y entidades;
+V.- Desarrollar las licitaciones públicas de las dependencias y entidades de la Administración Pública Municipal, y en su caso los demás procedimientos de adjudicación que prevé la Ley y el presente Reglamento Interior, en los términos y con las atribuciones que en ellos se consignan;
 
-VI.- Informar a la Contraloría, cuando detecte irregularidades en los procedimientos de adjudicación;
+VI.- Verificar que quienes participan en los procedimientos de adjudicación y contratación regulados por la Ley y el presente Reglamento Interior, cumplan en tiempo y forma legal con los requisitos establecidos en las convocatorias e invitaciones respectivas;
 
-VII.- Vigilar el cumplimiento de las disposiciones contenidas en el presente Reglamento y en general, las demás que le confiere las Leyes, Reglamentos y disposiciones jurídicas vigentes, y
+VII.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
 
-VIII.- Las demás que la Ley de la materia y el presente Reglamento le confieran.
+VIII.- Integrar y operar el padrón y los archivos de las adquisiciones, arrendamientos y servicios adjudicados y contratados por las dependencias y entidades de la Administración Pública Municipal;
+
+IX.- Establecer la coordinación que se requiera con las dependencias y entidades a cuyo cargo se realicen las adjudicaciones y que deban formalizar los contratos de adquisiciones, arrendamientos y servicios, para efectos de su debida realización;
+
+X.- Analizar, exclusivamente para su opinión y siempre que se le solicite, los dictámenes, fallos y contratos emitidos por los servidores públicos responsables de ello, en las dependencias y entidades de la Administración Pública Municipal;
+
+XI.- Determinar si los bienes y servicios requeridos por las dependencias y entidades se ajustan a sus necesidades y funciones, y en su caso solicitar las modificaciones correspondientes;
+
+XII.- Verificar que las condiciones requeridas al licitante o proveedor se cumplan según los términos convenidos;
+
+XIII.- Analizar semestralmente el informe de conclusión de las licitaciones públicas, así como de los casos de excepción a ésta, que se realicen y los resultados generales de las adquisiciones, arrendamientos y servicios y, en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa;
+
+XIV.- Determinar las acciones tendientes a la optimización y transparencia de los recursos públicos que se destinen a las adquisiciones, arrendamientos y servicios;
+
+XV.- Imponer sanciones en términos de la Ley y del presente Reglamento Interior;
+
+XVI.- Realizar una o más de las funciones que le son propias, en apoyo a dependencias Estatales o a los Municipios, en virtud de los convenios de coordinación y colaboración que para tales efectos suscriban y con cargo a las partidas presupuestales de estas instancias;
+
+XVII.- Llevar a cabo conforme a los procedimientos establecidos en la Ley, la adjudicación de las adquisiciones, arrendamientos y servicios que por su naturaleza o monto no puedan ser adjudicados de manera directa o mediante invitación, por parte de las dependencias y entidades de la Administración Pública Municipal, con cargo a las partidas presupuestales correspondientes;
+
+XVIII.- Emitir las convocatorias públicas e invitaciones para las licitaciones que de acuerdo con la Ley deba realizar el Comité y disponer las acciones y medidas que sean necesarias para desahogar en cada fase dichos procedimientos;
+
+XIX.- Dictaminar después de algún procedimiento de licitación pública o de invitación si hubiere sido declarado desierto, sobre la procedencia de realizar la contratación mediante la adjudicación, en términos de esta Ley;
+
+XX.- Remitir el fallo correspondiente de cada procedimiento debidamente fundado y motivado, junto con la documentación técnica, económica y jurídica de la propuesta ganadora, a la dependencia o entidad solicitante con el fin de que se formalice mediante la contratación correspondiente;
+
+XXI.- Autorizar los casos de reducción o ampliación del plazo para la presentación y apertura de proposiciones en licitaciones públicas;
+
+XXII.- Vigilar el cumplimiento de las disposiciones contenidas en la ley, el presente Reglamento y en general por las disposiciones legales aplicables; y
+
+XXIII.- Las demás que le confiera la ley o que deriven del presente Reglamento Interior.
 
 ###### ARTÍCULO 7.
 
 Los cargos de los integrantes del Comité serán honoríficos y por tanto no recibirán remuneración o compensación económica.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 8.
 
-El Presidente del Comité tendrá las facultades establecidas en el artículo 38 de la Ley, sin perjuicio de las que deriven del presente Reglamento.
+El presidente del Comité, tendrá las siguientes facultades:
+
+I.- Ser el representante del Comité en los asuntos y reuniones de trabajo;
+
+II.- Presidir las sesiones ordinarias y extraordinarias del Comité;
+
+III.- Ejercer voto de calidad en la adopción de acuerdos y resoluciones por parte del Comité;
+
+IV.- Ordenar el debido cumplimiento de dichos acuerdos y resoluciones;
+
+V.- Vigilar el debido cumplimiento de dichos acuerdos y resoluciones del Comité;
+
+VI.- Supervisar el funcionamiento interno del Comité;
+
+VII.- Convocar a sesiones del Comité; y
+
+VIII.- Las demás que deriven de la Ley o del presente Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 9.
 
-El Secretario Técnico tendrá las atribuciones previstas en el artículo 39 de la Ley, sin perjuicio de las demás que a juicio del Cabildo resulten necesarias.
+El Secretario Técnico tendrá las siguientes atribuciones:
+
+I.- Emitir las convocatorias para las sesiones del Comité;
+
+II.- Preparar el orden del día de las sesiones;
+
+III.- Elaborar las minutas de las sesiones y llevar su control, remitiendo a la brevedad a los participantes copia del acta respectiva;
+
+IV.- Dirigir el funcionamiento interno del Comité y ejecutar los acuerdos y resoluciones de la Junta;
+
+V.- Cumplir y hacer cumplir la Ley, el presente Reglamento Interior y los demás ordenamientos aplicables;
+
+VI.- Elaborar y proponer el proyecto de presupuesto anual de egresos del Comité;
+
+VII.- Llevar la correspondencia y documentación oficial del Comité;
+
+VIII.- Representar al Comité como mandatario general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades, incluso aquéllas que requieran cláusula especial conforme a la Ley, pudiendo sustituir o delegar el mandato total o parcialmente, previa autorización del Comité;
+
+IX.- Coordinar las actividades del Comité, con las demás dependencias y entidades de la Administración Pública Federal Estatal o Municipal;
+
+X.- Coordinar todo lo relativo a los procedimientos de adjudicación en el ámbito de su competencia;
+
+XI.- Verificar que las condiciones requeridas a los licitantes o proveedores se cumplan según los términos convenidos; y
+
+XII.- Las demás que deriven de la Ley o del presente Reglamento Interior.
 
 ###### ARTÍCULO 10.
 
@@ -209,7 +291,9 @@ II.- Indicar que los licitantes deberán entregar junto con la propuesta técnic
 
 III.- Precisar que será requisito el que los licitantes entreguen junto con la propuesta técnica, una declaración escrita, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos establecidos por el artículo 77 de la Ley, y
 
-IV.- Solicitar a los licitantes, bajo protesta de decir verdad que se abstengan de adoptar conductas, para que los servidores públicos de la dependencia o entidad, induzcan o alteren las evaluaciones de las propuestas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
+
+IV.- Solicitar a los licitantes la presentación por escrito del compromiso de abstenerse de realizar cualquier acto que conduzca a inducir o alterar las evaluaciones de las propuestas, así como el resultado del procedimiento u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes.
 
 ###### ARTÍCULO 15.
 
@@ -257,7 +341,9 @@ El fallo que emita el Comité deberá contemplar como mínimo lo siguiente:
 
 I.- Nombre de los licitantes cuyas propuestas económicas fueron desechadas como resultado de su análisis detallado y las razones que se tuvieron para ello;
 
-II.- Nombre de los licitantes cuyas propuestas económicas fueron determinadas como solventes de acuerdo a lo dispuesto en el artículo 36 de la Ley;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2005)</small>
+
+II.- Nombre de los licitantes cuyas propuestas económicas fueron determinadas como solventes en razón de haber cumplido en tiempo y forma legal con los requisitos establecidos en las convocatorias e invitaciones respectivas;
 
 III.- Nombre del licitante a quien se adjudique el contrato, e identificación de cada una de las partidas o conceptos y montos asignados, y
 
@@ -278,3 +364,15 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Z., a 8 de marz
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Ayuntamiento del Municipio de Puebla.- Periodo 2005-2008.- Secretaría General.
 
 El suscrito IGNACIO MIER VELASCO, Secretario General del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que me confiere el artículo 138 fracción VII, de la Ley Orgánica Municipal. CERTIFICA: Que las presentes copias fotostáticas compuestas en doce fajas útiles, por su frente son copia fiel de su original, a las que me remito y tengo a la vista y cotejé, mismas que obran en la Dirección Jurídica de la Secretaría General, de este Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los once días del mes de marzo del año dos mil cinco, para los efectos legales a que haya lugar.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2005.
+
+PRIMERO. Las presentes reformas al Reglamento Interior del Comité Municipal de Adjudicaciones del Municipio de Puebla, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se reconocen los registros en el padrón otorgados al amparo de la normatividad vigente al momento de su registro, los que mantendrán la vigencia que para cada uno corresponda, sin perjuicio de su revalidación.
+
+TERCERO. Todos los procedimientos e impugnaciones iniciados, y los que se inicien antes de la entrada en vigor de este Reglamento se regirán y se substanciarán por las disposiciones vigentes antes de la entrada en vigor de este Reglamento Interior.
+
+CUARTO. Los contratos y pedidos sobre adquisiciones celebrados con antelación a la publicación de este Reglamento Interior se regirán y substanciarán por las disposiciones legales y reglamentarias vigentes al momento de la celebración del acto.
