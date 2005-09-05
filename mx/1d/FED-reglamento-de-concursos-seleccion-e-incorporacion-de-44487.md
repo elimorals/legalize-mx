@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-concursos-seleccion-e-incorporacion-de-44487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-20"
-last_updated: "2005-04-20"
+last_updated: "2005-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-04-05"
 
 REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de abril de 2005.
 
@@ -83,21 +83,27 @@ Las convocatorias internas para celebrar concursos cerrados, se fijarán en los 
 
 Las convocatorias señalarán las categorías y número de plazas vacantes sujetas a concurso; el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo y lugar de inscripción.
 
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 6o.
 
-Los interesados en participar en los concursos, deberán de presentar ante la Dirección General de Recursos Humanos de la Oficialía Mayor del Tribunal Superior, o en su defecto vía correo electrónico o fax, dirigidos a la citada dirección, los siguientes documentos:
+Los interesados en participar en los concursos abiertos deberán presentar ante la Dirección General de Recursos Humanos de la Oficialía Mayor del Tribunal Superior, o en su defecto vía correo electrónico o fax dirigidos a la citada Dirección, los siguientes documentos:
 
-Copia certificada del acta de nacimiento del aspirante.
+I. Copia certificada del acta de nacimiento del aspirante;
 
-Copia certificada ante Notario Público del título profesional y de la cédula correspondiente;
+II. Copia certificada ante notario público del título profesional y de la cédula correspondiente;
 
-Historial Académico o tira de materias de licenciatura, con promedio mínimo de ocho;
+III. Constancia escolar oficial con promedio mínimo de ocho;
 
-Curriculum vitae; al que se anexen las constancias que acrediten los grados académicos del aspirante, así como publicaciones de su autoría, cursos de actualización y en general los documentos adicionales que avalen su experiencia;
+IV. Curriculum vitae; al que se anexen las constancias que acrediten los grados académicos del aspirante, así como publicaciones de su autoría, cursos de actualización y en general los documentos adicionales que avalen su experiencia;
 
-Escrito no mayor a tres cuartillas, en el que conste la exposición de motivos del aspirante para acceder al puesto;
+V. Escrito no mayor a tres cuartillas en el que conste la exposición de motivos del aspirante para acceder al puesto, y
 
-Carta de recomendación suscrita por el Magistrado titular de la adscripción en donde el sustentante se encuentre en activo, o en su defecto de algún otro Magistrado que respalde su trayectoria profesional, acreditando su experiencia y aptitudes para el puesto al que aspira. En caso de que el aspirante esté adscrito al Tribunal Superior, deberá presentar carta de recomendación con las características antes enunciadas, suscrita por el superior jerárquico del área en que labore. Los aspirantes externos deberán de contar con la recomendación de algún Magistrado de Circuito, Juez de Distrito o servidor público vinculado con la actividad jurisdiccional.
+VI. Carta de presentación suscrita por el Magistrado titular de la adscripción en donde el sustentante se encuentre activo o haya prestado sus servicios, o en su defecto de algún otro Magistrado, Juez de Distrito o servidor público vinculado con la actividad jurisdiccional que respalde su trayectoria profesional, acreditando su experiencia y aptitudes para el puesto a que aspira.
+
+Los mismos documentos deberán ser presentados por el personal que preste o haya prestado sus servicios en los Tribunales Agrarios y que aspiren a ocupar alguna de las plazas sujetas a concurso abierto o cerrado, con excepción del documento señalado en la fracción III del que se podrá dispensar por el Pleno del Tribunal Superior, tomando en cuenta datos curriculares, antecedes de carrera jurisdiccional, antigüedad y desempeño en los Tribunales Agrarios y cursos de actualización.
+
+En caso de que el aspirante esté adscrito al Tribunal Superior, deberá exhibir carta de presentación con las características antes enunciadas, suscrita por el superior jerárquico del área en que labore.
 
 ###### Artículo 7o.
 
@@ -187,11 +193,15 @@ Redacción.
 
 El resultado de la evaluación oral se determinará con base en el promedio que se obtenga de las calificaciones que cada miembro del jurado le asigne al sustentante.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 16.
 
-El jurado calificará a los concursantes en una escala del cero al cien. Para que un aspirante pueda ser considerado por el jurado para desempeñar un cargo en los Tribunales Agrarios, deberá obtener una calificación aprobatoria mínima de ochenta, en cada uno de los exámenes.
+El jurado calificará a los concursantes en una escala de cero a cien. Para que un aspirante pueda ser considerado por el jurado para desempeñar un cargo en los tribunales agrarios, deberá obtener una calificación aprobatoria general mínima de ochenta.
 
-Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto y se expedirá una nueva convocatoria.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
+
+Cuando ningún sustentante alcance el porcentaje mínimo requerido, el concurso se declarará desierto y se expedirá nueva convocatoria. En caso de que no se alcance a cubrir la totalidad de las plazas en el concurso correspondiente se declararán vacantes y quedarán sujetas a nuevo concurso, que tendrá verificativo dentro de los seis meses siguientes.
 
 En caso de que una persona repruebe alguno de los exámenes en tres ocasiones, no podrá presentarse nuevamente, sino hasta dos años después.
 
@@ -246,3 +256,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se deroga el acuerdo 93-94/89 aprobado por el Pleno el 25 de agosto de 1993, publicado en el Diario Oficial de la Federación el 11 de enero de 1994, relativo al Reglamento de Selección e Incorporación de Personal de los Tribunales Agrarios.
 
 Así lo aprobó el Tribunal Superior Agrario, en sesión celebrada el día cinco de abril de dos mil cinco.- El Magistrado Presidente del Tribunal Superior Agrario, Ricardo García Villalobos Gálvez.- Rúbrica.- Los Magistrados: Luis Octavio Porte Petit Moreno, Rodolfo Veloz Bañuelos, Marco Vinicio Martínez Guerrero, Luis Angel López Escutia, integrantes del Tribunal Superior Agrario.- Rúbricas.- El Secretario General de Acuerdos, Humberto Jesús Quintana Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Las reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en el Boletín Judicial Agrario, así como en el portal de Internet de los Tribunales Agrarios.
