@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-15325"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-13"
-last_updated: "2005-07-20"
+last_updated: "2005-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-11-30"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 13 de diciembre de 1999.
 
@@ -319,17 +319,33 @@ I. Registro Federal de Electores;
 
 II. Reglamentos;
 
-III. Administración;
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
 
-IV. Informática;
+III. Administración e Informática;
 
-V. Contraloría;
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Comunicación Social;
+IV. Contraloría, Auditoría y Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+V. Proyectos de Resolución o Devolución;
+
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Relaciones Institucionales e Internacionales;
 
 VII. Asuntos Internacionales; y
 
-VIII. Las demás que determine el Consejo General.
+> <small>(ADICIONADA, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. Del Consejo para la Transparencia y Acceso a la Información; y
+
+IX. Las demás que determine el Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+2. Las comisiones enunciadas en las fracciones I al IV, así como en las fracciones VI y VIII del numeral 2 del párrafo anterior, se integran por consejeros electorales, consejeros del Poder Legislativo y representantes de los partidos políticos.
 
 ARTICULO 7
 
@@ -357,7 +373,23 @@ ARTICULO 11
 
 1. En todas las comisiones actuará como Secretario Técnico el Director Ejecutivo o el Titular de la Unidad Técnica al que el Código, el presente Reglamento o los acuerdos del Consejo atribuyan tal carácter.
 
-2. Los Secretarios Técnicos de las Comisiones informarán al Secretario Ejecutivo acerca de las convocatorias a las sesiones de Comisión y de los acuerdos que se adopten en ésta. Asimismo, le informarán sobre la realización de las tareas relacionadas con la integración y actualización de los archivos de las Comisiones.
+> <small>(REFORMADO, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+2. En las comisiones de Administración e Informática; Contraloría, Auditoría y Responsabilidades Administrativas; y Relaciones Institucionales e Internacionales, participarán como secretarios técnicos los siguientes titulares de área:
+
+a) En la de Administración e Informática, el Director Ejecutivo de Administración y el Coordinador de la Unidad de Servicios de Informática;
+
+b) En la de Contraloría Interna, Auditoría y Responsabilidades Administrativas, el Contralor Interno del Instituto y, en las sesiones a que se refiere el párrafo 2 del artículo 76 del presente Reglamento, el Director Jurídico del mismo; y
+
+c) En la de Relaciones Institucionales e Internacionales, el Coordinador Nacional de Comunicación Social, el Coordinador de Asuntos Internacionales y el Titular del Centro para el Desarrollo Democrático.
+
+> <small>(ADICIONADO, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+3. Para la preparación y desahogo de cada una de las sesiones de las comisiones a que se refieren los incisos a) y c) del párrafo anterior, los presidentes de cada una de ellas designarán de entre sus secretarios técnicos a aquel que será responsable de la distribución de la convocatoria, levantamiento de acuerdos en sesión, elaboración de las minutas correspondientes, así como de aquellas actividades necesarias para el desarrollo óptimo de la propia sesión de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+4. Con independencia de lo establecido en el párrafo anterior, los secretarios técnicos de las comisiones referidas en los incisos a) y c) del párrafo 2 del presente artículo tendrán voz en las sesiones y serán responsables del seguimiento y cumplimiento de los acuerdos vinculados con su materia.
 
 ARTICULO 12
 
@@ -449,7 +481,9 @@ b) Solicitar la incorporación de asuntos en el orden del día de las sesiones d
 
 c) Integrar las Comisiones que determine el Consejo y participar con derecho a voz en sus sesiones;
 
-d) Asistir con derecho a voz a las sesiones de las Comisiones de las que no forme parte, con excepción de aquellas a que se refiere el artículo 80, párrafo segundo del Código;
+> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+d) Asistir con derecho de voz a las sesiones de las comisiones de las que no forme parte, con excepción de aquellas a que se refiere el artículo 80, párrafo segundo del Código, de la de Proyectos de Resolución o Devolución, así como de las sesiones a que se refiere el párrafo 2 del artículo 76 del presente Reglamento;
 
 e) Solicitar, para el adecuado desempeño de su encargo, la colaboración e información de los órganos del Instituto, en los términos que al efecto señale el presente reglamento;
 
@@ -1839,7 +1873,9 @@ cc) Presentar, por conducto de su titular, los informes trimestrales y anuales d
 
 dd) Las demás que le confieran otros ordenamientos.
 
-2. Cuando las quejas o denuncias se presenten en contra del titular de la Contraloría Interna o del Director de Responsabilidades y Situación Patrimonial de la Contraloría Interna, las sustanciará la Comisión de responsabilidades Administrativas, conforme al procedimiento establecido en el artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADO, D.O.F. 6 DE SEPTIEMBRE DE 2005)</small>
+
+2. Cuando las quejas o denuncias se presenten en contra del titular de la Contraloría Interna o del Director de Responsabilidades y Situación Patrimonial de la Contraloría Interna, las sustanciará la Comisión de Contraloría Interna, Auditoría y Responsabilidades Administrativas, en sesiones exclusivas para esta última materia y conforme al procedimiento establecido en el artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos. En dichas sesiones participarán exclusivamente consejeros electorales y su Secretario Técnico será el Director Jurídico del Instituto.
 
 3. las sanciones que la Contraloría Interna imponga a los funcionarios y servidores públicos del Instituto en los términos de los incisos l) y m), del párrafo 1 del presente articulo, se ejecutaran, con excepción de la sanción económica, cuya ejecución concierne a la Tesorería de la Federación, conforme a lo siguiente:
 
@@ -2036,3 +2072,17 @@ Noveno.- Los órganos del Instituto Federal Electoral contarán con treinta día
 Décimo.- Los titulares de la Unidad de Enlace, la Red Nacional de Bibliotecas, el Archivo Institucional y el Centro Metropolitano IFETEL serán designados conforme a lo previsto en el Acuerdo del Consejo General del Instituto Federal Electoral por el que se crea la Unidad Técnica de Servicios de Información y Documentación como Unidad Técnica Especializada adscrita a la Secretaría Ejecutiva.
 
 Décimo primero.- La Unidad Técnica emitirá el manual a que se refiere el artículo 54, párrafo 2 del presente Reglamento, a más tardar dentro de los noventa días hábiles siguientes a la designación de su titular.
+
+D.O.F. 6 DE SEPTIEMBRE DE 2005.
+
+Primero.- Las presentes reformas entrarán en vigor a partir del día de su aprobación en la sesión correspondiente del Consejo General del Instituto.
+
+Segundo.- Cualquier referencia hecha a las comisiones del Administración o de Informática en otros ordenamientos o disposiciones internas se entenderá hecha a la Comisión de Administración e Informática.
+
+Tercero.- Cualquier referencia hecha a las comisiones de Contraloría Interna, de Auditoría o de Responsabilidades Administrativas en otros ordenamientos o disposiciones internas se entenderá hecha a la Comisión de Contraloría Interna, Auditoría y Responsabilidades Administrativas.
+
+Cuarto.- Los Programas Anuales de Trabajo de las comisiones de Administración y de Informática aprobados por el Consejo General para el año 2005 continuarán en vigor y conformarán conjuntamente el Programa de Trabajo de la Comisión de Administración e Informática.
+
+Quinto.- Los Programas Anuales de Trabajo de las comisiones de Contraloría, de Auditoría y de Responsabilidades Administrativas aprobados por el Consejo General para el año 2005 continuarán en vigor y conformarán conjuntamente el Programa de Trabajo de la Comisión de Contraloría, de Auditoría y Responsabilidades Administrativas.
+
+Sexto.- Publíquese el presente dictamen de la Comisión de Reglamentos del Consejo General del Instituto y los puntos de acuerdo respectivos en el Diario Oficial de la Federación.
