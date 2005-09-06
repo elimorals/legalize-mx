@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2005-09-03"
+last_updated: "2005-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2005.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -841,9 +841,11 @@ Los períodos extraordinarios de sesiones, se destinarán exclusivamente a estud
 
 La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes, deberán reunirse el día señalado por la ley y compeler a los ausentes propietarios y suplentes a que concurran dentro de un plazo que no excederá de diez días, apercibiendo a los propietarios de que si no lo hacen, se entenderá no aceptado el cargo; y si tampoco asistieren los suplentes, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 48.
 
-La Ciudad de Oaxaca de Juárez será el lugar donde la Legislatura celebre sus sesiones y donde residirán los Poderes del Estado; y no podrán trasladarse a otro punto, sin que así lo acuerden las tres cuartas partes de los diputados presentes.
+La Ciudad de Oaxaca de Juárez y zona conurbada, será el lugar donde la Legislatura celebre sus sesiones y donde residirán los Poderes del Estado; y no podrán trasladarse a otro punto, sin que así lo acuerden las tres cuartas partes de los Diputados presentes.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -2930,3 +2932,9 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 3 DE SEPTIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese al Gobernador del Estado, al Presidente de la República, al Honorable Congreso de la Unión, al Poder Judicial de la Federación, a los Congresos Estatales de las demás Entidades Federativas y a la Asamblea Legislativa del Distrito Federal, para los efectos conducentes.
