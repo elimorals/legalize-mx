@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2005-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -111,9 +111,11 @@ En las sedes de los poderes del Estado y de los Municipios del mismo se izarán 
 
 Las banderas que se utilicen en los inmuebles referidos tendrán las dimensiones y la conservación adecuada para su uso y dignidad, confiriéndose al cuidado del personal que al efecto se designe, el cual vigilará que en las fechas correspondientes sean izados y arriados puntualmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 11.
 
-El calendario cívico del Estado comprende las fechas señaladas a continuación:
+El Calendario Cívico del Estado comprende las fechas señaladas a continuación:
 
 -1º de enero:
 
@@ -412,6 +414,12 @@ Aniversario de la fundación de Cruillas en 1766.
 - Aniversario del natalicio del General Cesar López de Lara en 1790.
 
 - Aniversario de la muerte de José de Escandón, Conde de la Sierra Gorda en 1770.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2005)</small>
+
+- 11 de septiembre:
+
+- El 11 de septiembre de 1829, el Ejército Mexicano con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejercito Español en su intento de reconquista.
 
 - 27 de septiembre:
 
@@ -756,3 +764,11 @@ Por tanto mando se imprima, publique y se le dé el debido cumplimiento.
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
