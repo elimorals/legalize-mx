@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-notariado-del-estado-de-morelos-16861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "1999-02-26"
+last_updated: "2005-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
@@ -55,7 +55,9 @@ I.- Ley: Ley del Notariado del Estado de Morelos;
 
 II.- Reglamento: El presente ordenamiento;
 
-III.- Secretaría: La Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+III.- Secretaría: La Secretaría de Gobierno;
 
 IV.- Aspirante: Persona que haya obtenido el Registro de Aspirante a Notario;
 
@@ -65,15 +67,21 @@ VI.- Colegio: Colegio de Notarios del Estado de Morelos, A.C.
 
 ### CAPÍTULO II. DE LA UBICACIÓN E IDENTIFICACIÓN DE LAS NOTARÍAS
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 4.
 
-Las Notarías se ubicarán, preferentemente, en la sede de la correspondiente Demarcación Notarial; excepcionalmente podrán establecerse en alguna de las diversas poblaciones de la Demarcación respectiva, previo aviso por escrito que el Titular de la Notaría dé a la Secretaría, al Registro Público de la Propiedad, al Archivo General de Notarías y al Colegio.
+Los Notarios del Estado de Morelos deberán ejercer sus funciones dentro de los límites del Estado y de la Demarcación Notarial que les corresponda.
+
+Las Notarías se ubicarán, en la sede de la correspondiente Demarcación Notarial; excepcionalmente podrán establecerse en alguna de las diversas poblaciones de la Demarcación respectiva, previa autorización de la Secretaría y dando aviso al Registro Público de la Propiedad y del Comercio del Estado, al Archivo General de Notarías y al Colegio.
 
 ###### Artículo 5.
 
 Para efectos de lo dispuesto por el artículo 8 de la Ley, en el Estado de Morelos se establecen las siguientes Demarcaciones Notariales:
 
-I.- Primera Demarcación Notarial.- Comprende los Municipios de Cuernavaca, Tepoztlán, Huitzilac y Jiutepec, con sede en Cuernavaca;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+I.- Primera Demarcación Notarial.- Comprende los Municipios de Cuernavaca, Tepoztlán y Huitzilac, con sede en Cuernavaca;
 
 II.- Segunda Demarcación Notarial.- Comprende los Municipios de Tetecala, Coatlán del Río, Mazatepec y Miacatlán, con sede en Tetecala;
 
@@ -85,9 +93,19 @@ V.- Quinta Demarcación Notarial.- Comprende los Municipios de Yautepec, Tlayaca
 
 VI.- Sexta Demarcación Notarial.- Comprende los Municipios de Cuautla, Ayala, Yecapixtla, Tetela del Volcán y Ocuituco, con sede en Cuautla;
 
-VII.- Séptima Demarcación Notarial.- Comprende los Municipios de Jonacatepec, Axochiapan, Tepalcingo, Zacualpan, Jantetelco y Temoac, con sede en Jonacatepec, y
+VII.- Séptima Demarcación Notarial.- Comprende los Municipios de Jonacatepec, Axochiapan, Tepalcingo, Zacualpan, Jantetelco y Temoac, con sede en Jonacatepec, y (sic)
 
-VIII.- Octava Demarcación Notarial.- Comprende los Municipios de Temixco, Xochitepec y Emiliano Zapata, con sede en Temixco.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+VIII.- Octava Demarcación Notarial.- Comprende los Municipios de Temixco y Xochitepec, con sede en Temixco, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+IX.- Novena Demarcación Notarial.- Comprende los Municipios de Jiutepec y Emiliano Zapata, con sede en Jiutepec, Morelos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+La Secretaría podrá autorizar a los Notarios Públicos para ejercer sus funciones en otra demarcación únicamente tratándose de casos excepcionales y justificables en aquellas demarcaciones en donde existan menos de dos Notarías.
 
 ###### Artículo 6.
 
@@ -289,9 +307,13 @@ El Notario autorizará definitivamente la escritura al pie de la misma, cuando s
 
 Los instrumentos públicos otorgados ante funcionarios extranjeros, una vez legalizados y, en su caso, traducidos por perito oficial, podrán protocolizarse en el Estado de Morelos, salvo que el país en el cual se hubiesen otorgado dichos instrumentos, hayan suscrito el Convenio de la Haya, o se hubiere adherido al mismo; en este supuesto, no se requerirá de la protocolización mencionada, por lo que el instrumento respectivo tendrá efectos jurídicos en el Estado con el solo requisito de la apostilla y, en su caso, previa traducción.
 
-### CAPÍTULO IX. DEL COLEGIO DE NOTARIOS
+### CAPÍTULO IX. DEL PROCEDIMIENTO PARA IMPONER SANCIONES
 
-### CAPÍTULO X. DEL ARANCEL DE HONORARIOS Y GASTOS NOTARIALES
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+### CAPÍTULO X. DEL COLEGIO DE NOTARIOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 50], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 35.
 
@@ -310,6 +332,10 @@ IV.- Los apéndices, índices y en general, la documentación que obre en la Not
 En caso de muerte del Notario, el albacea de su sucesión, con intervención de la Secretaría y de un Notario designado por el Colegio, tomará posesión de los bienes muebles que hayan pertenecido al Notario y la Secretaría de los protocolos, apéndices, índices y demás documentación relacionada con los asuntos en trámite que obren en la Notaría. Igualmente, el albacea tomará posesión del inmueble en donde se encuentre establecida la misma, siempre que dicho mueble haya sido propiedad del Notario, de su familia o de algún tercero.
 
 La Secretaría procederá en los términos establecidos en los artículos 135 y 136 de la Ley.
+
+### CAPÍTULO XI. DEL ARANCEL DE HONORARIOS Y GASTOS NOTARIALES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 37.
 
@@ -461,27 +487,143 @@ II.- Lugar de residencia, domicilio y números telefónicos del Notario y de la 
 
 Los registros anteriores deberán contenerse en libros y ordenarse alfabéticamente por Demarcaciones Notariales y por el número de Notaría.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 49.
 
-La Secretaría atenderá y resolverá las quejas que los interesados presenten en contra de los notarios, así como las irregularidades en que estos incurran, de acuerdo al siguiente procedimiento:
+Los Notarios Públicos serán responsables ante el Ejecutivo del Estado por las irregularidades en el ejercicio de su función notarial. Esta responsabilidad se hará efectiva en todo momento, aún cuando estén gozando de licencia.
 
-I.- Toda queja deberá ser presentada por escrito y contendrá:
+La responsabilidad administrativa a que se refiere este capítulo podrá derivarse como resultado de una visita de inspección general o por la presentación de queja.
 
-a) Nombre y domicilio del promovente o de quien promueva en su nombre; en este caso, deberá acreditar la personalidad que ostente en términos de la ley de la materia;
-
-b) Nombre y número del Notario en contra de quien se formule la queja;
-
-c) Los hechos y documentos en que funde su queja, y
-
-d) Firma del promovente;
-
-II.- Una vez admitida la queja, la Secretaría notificará al Notario a efecto de que éste, dentro de un término no mayor de diez días hábiles, manifieste lo que estime procedente y, en su caso, aporte las pruebas que a su juicio considere convenientes;
-
-III.- La Secretaría, dentro del término de cinco días hábiles a partir de la fecha en que reciba el informe del Notario, lo turnará por otros diez días hábiles al Colegio para que su directiva o en su caso la Asamblea General emitan un dictamen, y posteriormente determinará si el asunto requiere la práctica de inspección especial, la que se realizará siguiendo el procedimiento señalado por la Ley, y
-
-IV.- La resolución que dicte la Secretaría, deberá comprender la relación de los hechos y la valoración de las pruebas.
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 50.
+
+La Secretaría a través de la Unidad Administrativa que corresponda de acuerdo a su Reglamento Interior iniciará y tramitará hasta su resolución, las quejas que los interesados presenten en contra de los Notarios, así como las posibles irregularidades en que estos incurran, derivadas de las visitas de inspecciones generales que se practiquen en sus Notarías, de acuerdo con el procedimiento contenido en los siguientes artículos.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 51.
+
+Tratándose de quejas, únicamente se procederá a petición de parte; éstas deberán ser presentadas por escrito dentro del término de dos años, contados a partir de la fecha del acto que se reclame o haya tenido conocimiento de él o de su ejecución. La sola presentación de la queja, interrumpirá la prescripción.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 52.
+
+Todo escrito de queja deberá contener:
+
+I.- Nombre y domicilio del promovente o de quien promueva en su nombre; en este caso, deberá acreditar la personalidad que ostente en términos de la legislación civil vigente en el Estado;
+
+II.- Nombre y número del Notario en contra de quien se formule la queja;
+
+III.- Nombre y domicilio del tercero perjudicado, si lo hubiere;
+
+IV.- Una relación clara y suscinta (sic) de los hechos que sean antecedentes de la queja;
+
+V.- La fecha en que haya tenido conocimiento del acto;
+
+VI.- El ofrecimiento de las pruebas que obren en su poder con las que pretenda acreditar su acusación, en su caso, señalar el lugar en donde se encuentren, y
+
+VII.- Firma del promovente.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 53.
+
+La autoridad dentro de los cinco días hábiles siguientes a la recepción del escrito, examinará la queja y si encontrare motivo manifiesto de improcedencia, la desechará inmediatamente; si hubiere alguna irregularidad en cuanto a los requisitos establecidos en el artículo anterior, o en su propio escrito de queja, mandará a prevenir al promovente, a efecto de que en el invariable término de tres días hábiles, haga las aclaraciones que correspondan, si no llenare los requisitos o no se hicieren la (sic) aclaraciones conducentes, se tendrá por no puesta.
+
+Fuera de los casos a que se refiere el párrafo anterior, la autoridad emitirá un acuerdo en el que admitirá la queja, ordenará su inscripción en el libro de registro, iniciará un expediente y notificará al Notario a efecto de que en un término que no exceda de diez días hábiles, comparezca a manifestar lo que estime pertinente y aporte las pruebas que a su juicio considere conveniente, apercibiéndole que de no hacerlo se le tendrá por contestados los hechos de la queja en sentido afirmativo.
+
+En los mismos términos que al Notario, deberá notificarse al tercero perjudicado, si lo hubiere.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 54.
+
+Con la contestación y anexos que remita el Notario y el tercero perjudicado, en su caso, se dará vista al quejoso por un término de tres días hábiles para que manifieste lo que a su derecho corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 55.
+
+Una vez transcurrido el término a que se refiere el artículo anterior, la autoridad emitirá orden de visita de Inspección especial a la Notaria señalando en la orden respectiva los puntos sobre los cuales deberá versar, y en caso de no estimarla pertinente, o desahogada ésta, señalará fecha para una audiencia de conciliación y desahogo de pruebas.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 56.
+
+La audiencia de conciliación y desahogo de pruebas, se sujetará a los siguientes términos:
+
+I.- Deberá realizarse en un término que no exceda de quince días hábiles;
+
+II.- Las partes podrán acudir personalmente o por medio de las personas que hubieren autorizado en su primer escrito;
+
+III.- La audiencia se desahogará con la asistencia o no de las partes;
+
+IV.- Si las partes llegan a un acuerdo, este deberá ser analizado por la Secretaría o la Dirección correspondiente, quien de no encontrar impedimentos legales, lo aprobará provisionalmente para verificar su cumplimiento, el cual no podrá exceder de tres meses, plazo en el cual dará por terminado el procedimiento si se hubiere cumplido la pretensión de quejoso. En caso contrario continuará el curso de la queja;
+
+V.- De no llegar a ningún acuerdo, la autoridad lo asentará en el acta correspondiente y procederá al desahogo de las pruebas que se hubieren ofrecido.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 57.
+
+Desahogadas la audiencia de conciliación y desahogo de pruebas y en la misma acta, se otorgará a las partes un término de cinco días hábiles para que comparezcan a formular alegatos por escrito o en forma oral. Asimismo, se solicitará al Colegio de Notarios del Estado a través de su Presidente, el dictamen en el que opinen si existen o no irregularidades en el ejercicio de la función notarial.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 58.
+
+Concluido el término para alegar y para recibir el dictamen del Colegio de Notarios o sin él, la Secretaría citará a las partes para resolver. Dicha citación tendrá los siguientes efectos:
+
+I.- Suspender el impulso procesal de las partes, y
+
+II.- Obligar a la autoridad a emitir la resolución en un término que no exceda de sesenta días hábiles.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 59.
+
+La Directiva del Colegio de Notarios, será responsable de enviar a la Secretaría de Gobierno los dictámenes dentro del término concedido para tal efecto; pudiendo imponer las sanciones que establezca su Estatuto Interno para aquellos Notarios que se nieguen a emitir oportunamente su opinión respecto de los asuntos que se les hubieren encomendado.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 60.
+
+La resolución que se dicte no necesitará formulismos, pero deberán ser redactadas en términos claros y precisos, debiendo contener:
+
+I.- La fijación clara y precisa de los puntos controvertidos;
+
+II.- El examen de valoración de las pruebas que se hayan ofrecido y desahogado en el transcurso del procedimiento;
+
+III.- La exposición fundada y motivada de las consideraciones que se tomaron en cuenta para emitir la resolución, y
+
+IV.- Los puntos resolutivos, en los que se expresarán con claridad los alcances de la resolución.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 61.
+
+Tratándose de irregularidades detectadas en la realización de una visita de inspección general, deberá seguirse el siguiente procedimiento:
+
+I.- Se notificará al Notario las irregularidades detectadas, otorgándole un término no menor de cinco ni mayor de diez días hábiles para que comparezca a manifestar lo que estime pertinente y aporte las pruebas que considere pertinentes, apercibido que de no hacerlo se tendrán por ciertas las irregularidades y por perdido su derecho para ofrecer pruebas;
+
+II.- Con la contestación que emita el Notario o sin ella, transcurrido el término, se dará vista al Colegio de Notarios por un término de cinco días hábiles, a efecto de que emita su opinión respecto a la existencia o no de responsabilidad administrativa;
+
+III.- Transcurrido el término del artículo anterior, la Secretaría dictará la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 62.
+
+Cuando de alguna resolución se desprenda la posible comisión de uno o varios delitos que se persigan de oficio, la Secretaría de Gobierno dará vista con su resolución al Ministerio Público para los efectos correspondientes.
+
+La responsabilidad administrativa, penal o civil en que incurran los Notarios públicos, podrá ser reclamada en todo momento por la parte afectada e inclusive por el Estado cuando se cometa en ejercicio de su función pública y podrá hacerse efectiva de manera indistinta y sin necesidad de agotar previamente ninguna de ellas.
+
+(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 7 DE SEPTIEMBRE DE 2005)
+
+###### Artículo 63.
 
 Son atribuciones del Colegio además de las señaladas en la Ley, las siguientes:
 
@@ -495,25 +637,27 @@ IV.- Organizar a los Notarios para el cumplimiento de las obligaciones derivadas
 
 V.- Realizar cursos de actualización, congresos y conferencias tendientes a la superación del notariado;
 
-VI.- Emitir los dictámenes a que se refiere el artículo 49 fracción III de este Reglamento;
+VI.- Emitir los dictámenes a que se refiere el artículo 57 de este Reglamento;
 
-VII.- Fomentar las relaciones con otras instituciones similares tanto de país como del extranjero;
+VII.- Fomentar las relaciones con otras instituciones similares tanto del país como del extranjero;
 
 VIII.- Fijar a sus miembros las cuotas necesarias para el cumplimiento de sus fines, y
 
 IX.- Vigilar el cumplimiento de la Ley, del presente ordenamiento y de sus Estatutos.
 
-###### Artículo 51.
+(REUBICADO [N. DE E. ANTES CAPITULO X], P.O. 7 DE SEPTIEMBRE DE 2005)
+
+###### Artículo 64.
 
 Los honorarios y gastos notariales serán convenidos libremente entre los Notarios y sus clientes, previamente a la prestación de los servicios; pero nunca podrán ser inferiores a los que señale el arancel que expedirá y actualizará el Ejecutivo del Estado, oyendo la opinión del Colegio y tomando en cuenta el incremento al índice nacional de precios al consumidor, el incremento a los salarios mínimos, las condiciones económicas imperantes en la entidad, así como los gastos necesarios para elaborar los instrumentos notariales.
 
 Cuando se trate de asuntos de interés social, como son la titulación de vivienda popular, las cuestiones agrarias o los que celebren las instituciones de crédito, los Notarios, por conducto de su Colegio, podrán celebrar convenios con las autoridades, con los organismos paraestatales relativos o con las instituciones de crédito, para establecer el monto de honorarios y la reducción de gastos, siempre y cuando se simplifique la titulación o el asiento de los actos notariales. Los citados convenios serán obligatorios para todos los Notarios del Estado de Morelos.
 
-Cuando un servicio no estuviere previsto por las disposiciones del arancel, será remunerado con los horarios que correspondan al servicio con el que tenga mayor analogía.
+Cuando un servicio no estuviere previsto por las disposiciones del arancel, será remunerado con los honorarios que correspondan al servicio con el que tenga mayor analogía.
 
 Los honorarios que fije el arancel se establecen sobre la base de cuotas mínimas y no podrán reducirse por ningún concepto y se aumentarán atendiendo a la complejidad o urgencia, del asunto de que se trate.
 
-El incumplimiento de cualesquiera de las disposiciones contenidas en el arancel, serán sancionadas discrecionalmente por el Colegio.
+El incumplimiento de cualesquiera de las disposiciones contenidas en el arancel, será sancionado por la Secretaría.
 
 ## TRANSITORIOS
 
@@ -538,3 +682,19 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2005.
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Los procedimientos de quejas que se estén tramitando y que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se seguirán substanciando conforme a las disposiciones anteriores, hasta su total resolución.
+
+TERCERO. Los procedimientos que se inicien a partir del día en que entre en vigor este Decreto, se substanciarán conforme al procedimiento previsto en el mismo.
+
+CUARTO. Los notarios adscritos a la Primera y Octava Demarcación, continuarán ejerciendo sus funciones en los Municipios de Jiutepec y Emiliano Zapata, Morelos, respectivamente, hasta en tanto se publican los avisos de inicio de funciones para prestar el servicio público del notariado en la Novena Demarcación.
+
+QUINTO. La expedición y actualización del arancel de honorarios y gastos notariales a que se refiere el artículo 64 del Reglamento, deberá expedirse oportunamente para entrar en vigor a partir del primero de enero del dos mil seis.
+
+SEXTO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
