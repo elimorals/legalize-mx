@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2004-12-29"
+last_updated: "2005-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,55 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMINIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 29 de diciembre de 2004.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de septiembre de 2005.
+
+> <small>N. DE E. EN RELACION CON EL PRESENTE ORDENAMIENTO, SOLO ES APLICABLE EL ARTICULO TERCERO DE ESTE DECRETO.</small>
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los Artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, y 14 de la Ley de Comercio Exterior, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que la Decisión 2/2000 del Consejo Conjunto, CE-México firmada bajo el Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una parte, y la Comunidad Europea y sus Estados Miembros, por otra; el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio; el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras y el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua establecen, respectivamente, las condiciones para la eliminación de aranceles aduaneros para el comercio de mercancías originarias entre dichos países signatarios y los Estados Unidos Mexicanos, mediante reglas de origen y mecanismos específicos para definir tales mercancías;
+Que para impulsar la competitividad de la industria nacional, en los sectores de bicicletas, editorial y textil, es imprescindible reducir los aranceles de ciertos insumos, para brindar a estos sectores la posibilidad de reducir sus costos de producción y mantener su presencia en los mercados nacional e internacional;
 
-Que desde la entrada en vigor de los tratados de libre comercio, el Ejecutivo Federal ha publicado anualmente un Decreto que refleja las tasas preferenciales establecidas en los tratados de libre comercio aplicables durante ese año a las mercancías originarias provenientes de los países con los que México ha suscrito tratados de libre comercio;
+Que el incremento excesivo de las importaciones de madera contrachapada, en los últimos años, ha afectado negativamente los niveles de ventas, producción y empleo de la industria nacional, por lo que es necesario incrementar temporalmente los aranceles de estos productos, para revertir esta situación;
 
-Que la desgravación establecida en los tratados de libre comercio señalados en el primer considerando no exime de las restricciones ni libera del cumplimiento de regulaciones no arancelarias, así como tampoco de los requisitos previos de importación impuestos por la Secretaría de Economía o cualquier otra dependencia en el ámbito de sus facultades; de los requisitos de Normas Oficiales Mexicanas o para tramitar el despacho aduanero de mercancías, entre otras, siempre que estén de conformidad con los compromisos internacionales adquiridos por México;
+Que a fin de que los fabricantes nacionales de muebles y otras manufacturas de madera mantengan su competitividad y no se vean desplazados de los mercados nacional e internacional, es conveniente incluir las fracciones arancelarias correspondientes a madera contrachapada en los Programas de Promoción Sectorial, con aranceles preferenciales;
 
-Que resulta necesario para operadores y autoridades aduaneras conocer con claridad las condiciones y los mecanismos que regirán el comercio de mercancías en los Estados Unidos Mexicanos durante 2005, y
+Que es necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, así como el Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, y
 
-Que las condiciones descritas anteriormente permitirán un comercio ordenado durante 2005, abriendo así un campo de retos y oportunidades que coadyuvarán al desarrollo de nuestro país, he tenido a bien expedir el siguiente
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las modificaciones previstas en el presente ordenamiento a solicitud de los sectores industriales nacionales, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
 DECRETO
+
+###### ARTÍCULO PRIMERO.
+
+Se crean y se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO SEGUNDO.
+
+Se adiciona al artículo 5, fracciones III y XVII, del Decreto por el que se establecen diversos Programas de Promoción Sectorial publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, las fracciones arancelarias que a continuación se indican, para quedar en los siguientes términos:
+
+###### ARTÍCULO TERCERO.
+
+Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO CUARTO.
+
+Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Japón
+
+Fracción Arancel Nota
+
+85023903 11.7
 
 ###### ARTÍCULO 1.
 
@@ -190,7 +218,59 @@ c) La partida 64.03 de la Tarifa de la Ley de los Impuestos Generales de Importa
 
 ###### ARTÍCULO 5.
 
-La importación de mercancías comprendidas en las fracciones arancelarias identificadas con el código "EXCL" bajo el rubro "Arancel" en el Apéndice o en los artículos 11, 12, 13, 17, 19 y 20 de este Decreto, estará sujeta a la tasa prevista en el artículo 1 de la Ley de los Impuestos Generales de Importación y de Exportación, sin reducción alguna.
+. . .
+
+III. . . .
+
+Fracción Arancel
+
+4412.13.01 10
+
+4412.13.99 5
+
+4412.14.99 5
+
+4412.19.01 5
+
+4412.19.99 10
+
+4412.22.01 10
+
+4412.23.99 5
+
+4412.29.99 10
+
+4412.92.01 10
+
+4412.93.99 5
+
+4412.99.99 10
+
+XVII. . . .
+
+Fracción Arancel
+
+4412.13.01 10
+
+4412.13.99 5
+
+4412.14.99 5
+
+4412.19.01 5
+
+4412.19.99 10
+
+4412.22.01 10
+
+4412.23.99 5
+
+4412.29.99 10
+
+4412.92.01 10
+
+4412.93.99 5
+
+4412.99.99 10
 
 ###### ARTÍCULO 6.
 
@@ -344,16 +424,12 @@ Fracción Arancel
 
 2401.20.01 22.5% ad-valorem
 
-## TRANSITORIO
+## TRANSITORIOS
 
-ÚNICO.- El presente Decreto estará en vigor del 1 de enero al 31 de diciembre de 2005.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+SEGUNDO.- El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.01, 4412.19.99, 4412.22.01, 4412.29.99, 4412.92.01 y 4412.99.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 28.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 24.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 20.
 
-APENDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA
+El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 15.
 
-(VEASE ARCHIVO ANEXO)
-
-APENDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de septiembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
