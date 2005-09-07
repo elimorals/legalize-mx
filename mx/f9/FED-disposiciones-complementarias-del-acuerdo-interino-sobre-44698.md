@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2005-07-21"
+last_updated: "2005-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,51 +19,115 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR BRANDY A LOS ESTADOS UNIDOS MEXICANOS, EN EL PERIODO DE JULIO DE 2005 AL 30 DE JUNIO DE 2006
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de julio de 2005.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de septiembre de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+> <small>N. DE E. EN RELACION CON EL PRESENTE ORDENAMIENTO, SOLO ES APLICABLE EL ARTICULO TERCERO DE ESTE DECRETO.</small>
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en el artículo 3o. del Decreto por el que se crean, modifican o suprimen diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y Exportación; 4o. fracción III, 5o. fracción V, 6, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 34 de la Ley Orgánica de la Administración Pública Federal, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que con fecha 17 de abril de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se crean, modifican o suprimen diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y Exportación, que en su artículo 3o. establece que el arancel-cupo para brandy aplicará a las importaciones que cuenten con certificado de cupo expedido por la Secretaría de Economía;
+Que para impulsar la competitividad de la industria nacional, en los sectores de bicicletas, editorial y textil, es imprescindible reducir los aranceles de ciertos insumos, para brindar a estos sectores la posibilidad de reducir sus costos de producción y mantener su presencia en los mercados nacional e internacional;
 
-Que el procedimiento de asignación del cupo de brandy, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
+Que el incremento excesivo de las importaciones de madera contrachapada, en los últimos años, ha afectado negativamente los niveles de ventas, producción y empleo de la industria nacional, por lo que es necesario incrementar temporalmente los aranceles de estos productos, para revertir esta situación;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que a fin de que los fabricantes nacionales de muebles y otras manufacturas de madera mantengan su competitividad y no se vean desplazados de los mercados nacional e internacional, es conveniente incluir las fracciones arancelarias correspondientes a madera contrachapada en los Programas de Promoción Sectorial, con aranceles preferenciales;
+
+Que es necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, así como el Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las modificaciones previstas en el presente ordenamiento a solicitud de los sectores industriales nacionales, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
+
+DECRETO
+
+###### ARTÍCULO 5.
+
+. . .
+
+III. . . .
+
+Fracción Arancel
+
+4412.13.01 10
+
+4412.13.99 5
+
+4412.14.99 5
+
+4412.19.01 5
+
+4412.19.99 10
+
+4412.22.01 10
+
+4412.23.99 5
+
+4412.29.99 10
+
+4412.92.01 10
+
+4412.93.99 5
+
+4412.99.99 10
+
+XVII. . . .
+
+Fracción Arancel
+
+4412.13.01 10
+
+4412.13.99 5
+
+4412.14.99 5
+
+4412.19.01 5
+
+4412.19.99 10
+
+4412.22.01 10
+
+4412.23.99 5
+
+4412.29.99 10
+
+4412.92.01 10
+
+4412.93.99 5
+
+4412.99.99 10
 
 ###### ARTICULO UNICO.
 
 Se extiende la aplicación de las normas de origen para productos químicos clasificados en las partidas 2914 y 2915 establecidas en las notas 2 y 3 del apéndice II (A) del anexo III de la Decisión a partir del 1 de julio de 2003 y hasta el 30 de junio de 2006.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-El cupo para importar durante el periodo de julio de 2005 al 30 de junio de 2006, a los Estados Unidos Mexicanos, brandy con el arancel-cupo establecido en el artículo 3o. del Decreto por el que se crean, modifican o suprimen diversos aranceles de la Tarifa de la Ley de Impuesto General de Importación, publicado en el Diario Oficial de la Federación el 17 de abril de 2002, es el que se determina en el cuadro siguiente:
+Se crean y se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de promover la competitividad de los sectores involucrados, se aplicará a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
+Se adiciona al artículo 5, fracciones III y XVII, del Decreto por el que se establecen diversos Programas de Promoción Sectorial publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, las fracciones arancelarias que a continuación se indican, para quedar en los siguientes términos:
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-Podrán solicitar la asignación de este cupo las personas físicas o morales que se dediquen a la comercialización de bebidas alcohólicas establecidas en los Estados Unidos Mexicanos.
+Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-La asignación será otorgada por la Dirección General de Comercio Exterior, en un plazo no mayor a siete días hábiles, contados a partir de la fecha de recepción de la solicitud conforme a los siguientes criterios:
+(VEASE ARCHIVO ANEXO)
 
-I. El 95% del cupo (2,137,500 litros) se distribuirá entre las empresas que cuenten con antecedentes de importación, bajo el esquema de cupos, en el periodo julio 2004-junio 2005. La asignación inicial corresponderá hasta por el 95% del monto que comprueben, con los certificados de cupo y pedimentos, haber importado durante el periodo señalado.
+###### ARTÍCULO CUARTO.
 
-II. El 5% restante (112,500 litros), se distribuirá entre las empresas que no cuenten con antecedentes de importación, bajo el esquema de cupos. La asignación inicial corresponderá a lo que resulte menor entre el 10% del monto destinado para nuevos o el 100% de la solicitud.
+Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-III. El monto que no haya sido solicitado al 31 de marzo de 2006, podrá ser redistribuido entre los beneficiarios que demuestren haber ejercido el 90% de su asignación inicial. En este caso la ampliación corresponderá hasta por un monto igual al asignado inicialmente, siempre que exista saldo disponible.
+Japón
 
-###### ARTICULO CUARTO.
+Fracción Arancel Nota
 
-Las solicitudes de asignación del cupo a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de esta Secretaría que le corresponda. La hoja de requisitos específicos se establece como Anexo al presente Acuerdo.
+85023903 11.7
 
 ###### ARTICULO QUINTO.
 
@@ -93,18 +157,12 @@ Para el formato de expedición del certificado de cupo (SE-03-013-5):
 
 http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num_modalidad=0.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2006.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+SEGUNDO.- El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.01, 4412.19.99, 4412.22.01, 4412.29.99, 4412.92.01 y 4412.99.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 28.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 24.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 20.
 
-ANEXO
+El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 15.
 
-SECRETARIA DE ECONOMIA DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACON DE BRANDY Fracción Arancelaria: 2208.20.02
-
-Unicamente para brandy de Jerez o de Penedés de conformidad con el "Acuerdo entre los Estados Unidos Mexicanos y la Comunidad Europea sobre el reconocimiento mutuo de la protección de las denominaciones en el sector de bebidas espirituosas" y que cumpla con lo dispuesto en el Anexo III de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y cuestiones relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea.
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de septiembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
