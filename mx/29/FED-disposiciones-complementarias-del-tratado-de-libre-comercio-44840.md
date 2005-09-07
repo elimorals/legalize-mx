@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2005-08-16"
+last_updated: "2005-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,73 +19,55 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en el Diario Oficial de la Federación, el martes 16 de agosto de 2005.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de septiembre de 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+> <small>N. DE E. EN RELACION CON EL PRESENTE ORDENAMIENTO, SOLO ES APLICABLE EL ARTICULO TERCERO DE ESTE DECRETO.</small>
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33, 35 de su Reglamento; 1o. y 5o. fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 30 de abril de 1998, fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
+Que para impulsar la competitividad de la industria nacional, en los sectores de bicicletas, editorial y textil, es imprescindible reducir los aranceles de ciertos insumos, para brindar a estos sectores la posibilidad de reducir sus costos de producción y mantener su presencia en los mercados nacional e internacional;
 
-Que el artículo 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cupo;
+Que el incremento excesivo de las importaciones de madera contrachapada, en los últimos años, ha afectado negativamente los niveles de ventas, producción y empleo de la industria nacional, por lo que es necesario incrementar temporalmente los aranceles de estos productos, para revertir esta situación;
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, establece en el artículo sexto transitorio inciso IV, disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada Ley;
+Que a fin de que los fabricantes nacionales de muebles y otras manufacturas de madera mantengan su competitividad y no se vean desplazados de los mercados nacional e internacional, es conveniente incluir las fracciones arancelarias correspondientes a madera contrachapada en los Programas de Promoción Sectorial, con aranceles preferenciales;
 
-Que el procedimiento a través del cual se asigna el cupo de importación de leche establecido en el Tratado, es un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
+Que es necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, así como el Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, y
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las modificaciones previstas en el presente ordenamiento a solicitud de los sectores industriales nacionales, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
+DECRETO
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-El cupo para importar en el periodo que correrá a partir de la entrada en vigor del presente Acuerdo y hasta el 30 de junio de 2006, leche en polvo originaria de la República de Nicaragua, con el arancel-cupo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, es el que se determina a continuación:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO SEGUNDO.
-
-Con el objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de asignación mixto (asignación directa y licitación pública), al contingente arancelario de importación a que se refiere el presente Acuerdo, conforme al cuadro siguiente:
+Se crean y se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO SEGUNDO.
 
-Podrán solicitar asignación del contingente arancelario de importación a que se refiere el presente Acuerdo:
+Se adiciona al artículo 5, fracciones III y XVII, del Decreto por el que se establecen diversos Programas de Promoción Sectorial publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, las fracciones arancelarias que a continuación se indican, para quedar en los siguientes términos:
 
-I.- Asignación directa
+###### ARTÍCULO TERCERO.
 
-A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo;
+Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-B. Personas físicas o morales del sector privado, con antecedentes de asignación en el año previo, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo, considerando sus consumos auditados de materias primas lácteas durante el periodo reportado, conforme a la hoja de requisitos anexa, y
+(VEASE ARCHIVO ANEXO)
 
-II.- Licitación pública
+###### ARTÍCULO CUARTO.
 
-C. Personas físicas o morales del sector privado con y sin antecedentes de asignación en el año previo, que utilizan leche en polvo en sus procesos productivos, que realicen una transformación sustancial de este insumo.
+Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquella en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único, además de que no puede comercializarse en el mismo estado físico en que se importa.
+Japón
 
-Para la empresa mencionada en el inciso A) de este artículo, la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), de conformidad con lo señalado en los artículos segundo y tercero de este Acuerdo; para las empresas señaladas en el inciso B), la asignación directa se realizará a través de la DGCE, de manera proporcional con base en los consumos auditados conforme se detalla en el artículo siguiente.
+Fracción Arancel Nota
 
-La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
-
-La vigencia máxima de los certificados de cupo será al 30 de junio de 2006.
-
-###### ARTICULO CUARTO.
-
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso B) del artículo tercero de este Acuerdo, se considerará lo siguiente:
-
-Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada en litros equivalentes, usando el factor de conversión de 8.5 para leche en polvo entera y 11.3 para leche en polvo descremada, no sobrepase el 30% de la suma de los consumos auditados de leche fluida y de leche en polvo, nacional e importada, en litros equivalentes durante 2004. Asimismo, registrarán sus compromisos de adquisición de leche de producción nacional para 2005.
-
-El monto asignado se distribuirá a prorrata, es decir proporcionalmente entre las empresas, con base en los consumos auditados de leche fluida de producción nacional. A cada solicitante se asignará el monto que resulte menor entre el monto solicitado o el que resulte de la prorrata.
-
-Para la asignación de este monto, se prevé que este proceso se lleve a cabo entre las empresas que cumplan adecuadamente con todos los requisitos establecidos en la hoja anexa para este propósito; en caso de que alguna empresa no cumpla con todos los requisitos, de contar con los elementos necesarios para estimar su asignación (consumos auditados), se reservará el monto que resulte de la aplicación de la fórmula arriba expuesta. En caso contrario, la empresa podrá ser tomada en cuenta hasta que se disponga de los elementos necesarios para estimar su asignación, siempre que exista saldo disponible en el periodo, en cuyo caso se le asignará el monto que resulte menor entre el 20 por ciento del monto del periodo, el monto solicitado o un porcentaje similar al que resulte de la prorrata realizada.
-
-Para la distribución del cupo por asignación directa se prevé la recepción de solicitudes en dos periodos, como se señala en la cuarta columna del inciso B), en el cuadro del artículo segundo de este instrumento, asignándose el cupo disponible en el primer periodo hasta agotarlo de ser el caso; en caso de existir saldo disponible, se abrirá el segundo periodo de recepción de solicitudes para distribuirlo entre las personas físicas o morales del sector privado que cumplan con los requisitos establecidos en este Acuerdo.
+85023903 11.7
 
 ###### ARTICULO QUINTO.
 
@@ -187,7 +169,59 @@ c) La partida 64.03 de la Tarifa de la Ley de los Impuestos Generales de Importa
 
 ###### ARTÍCULO 5.
 
-La importación de mercancías comprendidas en las fracciones arancelarias identificadas con el código "EXCL" bajo el rubro "Arancel" en el Apéndice o en los artículos 11, 12, 13, 17, 19 y 20 de este Decreto, estará sujeta a la tasa prevista en el artículo 1 de la Ley de los Impuestos Generales de Importación y de Exportación, sin reducción alguna.
+. . .
+
+III. . . .
+
+Fracción Arancel
+
+4412.13.01 10
+
+4412.13.99 5
+
+4412.14.99 5
+
+4412.19.01 5
+
+4412.19.99 10
+
+4412.22.01 10
+
+4412.23.99 5
+
+4412.29.99 10
+
+4412.92.01 10
+
+4412.93.99 5
+
+4412.99.99 10
+
+XVII. . . .
+
+Fracción Arancel
+
+4412.13.01 10
+
+4412.13.99 5
+
+4412.14.99 5
+
+4412.19.01 5
+
+4412.19.99 10
+
+4412.22.01 10
+
+4412.23.99 5
+
+4412.29.99 10
+
+4412.92.01 10
+
+4412.93.99 5
+
+4412.99.99 10
 
 ###### ARTÍCULO 6.
 
@@ -279,40 +313,12 @@ La importación de mercancías originarias de Noruega, comprendidas en las fracc
 
 En aquellos casos de este artículo o en los de la columna “Noruega” del Apéndice, en los que se indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2006.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 5 de agosto de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+SEGUNDO.- El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.01, 4412.19.99, 4412.22.01, 4412.29.99, 4412.92.01 y 4412.99.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 28.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 24.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 20.
 
-ANEXO
+El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 15.
 
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-Julio 2005-Junio 2006
-
-REQUISITOS PARA LA ASIGNACION EL CUPO DE IMPORTACION ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE NICARAGUA
-
-LECHE EN POLVO
-
-(0402.10.01 Y 0402.21.01)
-
-PARA EMPRESAS CON ANTECEDENTES DE ASIGNACION EN EL AÑO PREVIO
-
-Asignación Directa
-
-(VEASE CUADRO ANEXO)
-
-No se menciona a la empresa del sector público porque no se sujeta a estos requisitos.
-
-(1) El auditor externo deberá firmar el reporte e indicar su número de registro, así como rubricar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de cupo de importación de leche en polvo OMC y/o TLCAN.
-
-(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
-
-(3) Se deberá expresar en litros equivalentes, usando el factor de conversión de 8.5 para leche en polvo entera (1 kilo por 8.5) y 11.3 para leche en polvo descremada (1 kilo por 11.3).
-
-(4) En el caso de leche en polvo de procedencia nacional, se deberá indicar el ganadero productor de leche fluida a partir de la cual se elaboró este insumo (nombre, dirección y monto); de no presentar esta información el reporte, no se considerará como consumo de leche fluida, de conformidad con lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005.
-
-NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de septiembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
