@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-15059"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-07-01"
-last_updated: "2003-08-28"
+last_updated: "2005-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de julio de 1999.
 
@@ -33,7 +33,7 @@ C O N S I D E R A N D O S
 
 PRIMERO.- La Comisión coincidió con el propósito de la iniciativa que contiene una nueva Ley Orgánica del Congreso del Estado, puesto que con su aprobación se pueden actualizar diversos aspectos de la vida parlamentaria.
 
-SEGUNDO.- Independientemente de actualizar diversos rubros referentes a la técnica legislativa y parlamentaria y de suprimir capítulos obsoletos como el del Colegio Electoral, se incluyen artículos y capítulos novedosos que darán nueva vida al quehacer parlamentario, como el Instituto de Investigaciones, Estudios Legislativos y Asesoria Jurídica, cuyo objetivo fundamental es la implementación de sistemas metodológicos sobre los cuales se sustente el apoyo jurídico y legislativo que requieren las comisiones; el Juicio Político y la declaración de procedencia en materia de responsabilidad penal; reglamentando además, ampliamente las funciones de la Comisión Permanente y de los Grupos Parlamentarios.
+SEGUNDO.- Independientemente de actualizar diversos rubros referentes a la técnica legislativa y parlamentaria y de suprimir capítulos obsoletos como el del Colegio Electoral, se incluyen artículos y capítulos novedosos que darán nueva vida al quehacer parlamentario, como el Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica, cuyo objetivo fundamental es la implementación de sistemas metodológicos sobre los cuales se sustente el apoyo jurídico y legislativo que requieren las comisiones; el Juicio Político y la declaración de procedencia en materia de responsabilidad penal; reglamentando además, ampliamente las funciones de la Comisión Permanente y de los Grupos Parlamentarios.
 
 TERCERO.- Se pretende, en concreto, según se desprende del análisis, precisar la organización y funcionamiento en lo general y en lo particular del Poder Legislativo, especificando los órganos que lo constituyen, así como las facultades y obligaciones de los servidores públicos del Congreso, cuya actividad y atención debe responder con eficacia y eficiencia a los intereses de la sociedad.
 
@@ -1021,7 +1021,9 @@ En la sesión, el Ejecutivo dirigirá un mensaje con motivo del informe, en cuyo
 
 Previo a cada informe anual que rinda el Ejecutivo del Estado, el Presidente del Congreso designará la comisión legislativa encargada de coordinar el análisis de dicho informe y evaluar el cumplimiento de los objetivos y metas fijadas en el Plan Estatal de Desarrollo.
 
-Los Secretarios del Despacho del Ejecutivo, el Procurador General de Justicia y los titulares de los organismos públicos descentralizados de la Administración Pública Estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno, pero corresponderá a la citada comisión legislativa rendir el dictamen correspondiente.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2005)</small>
+
+Los Secretarios del Despacho del Ejecutivo, el Procurador General de Justicia y los titulares de los Organismos Públicos Descentralizados de la Administración Pública Estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno o ante las comisiones legislativas correspondientes y la comisión legislativa encargada de coordinar el análisis del informe de gobierno, deberá rendir el informe respectivo.
 
 ## TÍTULO SEGUNDO. DE LAS INICIATIVAS Y LOS DICTÁMENES
 
@@ -1385,7 +1387,7 @@ Después de rendida la protesta, el Gobernador saliente le entregará al Goberna
 
 Cuando un diputado, magistrado u otro servidor público, que deba protestar ante el Congreso, se presentare con ese objeto, será recibido a la entrada del recinto de sesiones por una comisión de dos diputados designada por el Presidente; y protestará del mismo modo y con las mismas formalidades que establece el artículo anterior, haciendo desde luego la adecuación pertinente. Durante el acto de la protesta estarán de pie todos los asistentes.
 
-A las sesiones que el congreso determine como solemnes, por la importancia que revisten, los diputados deberán concurrir con traje obscuro
+A las sesiones que el congreso determine como solemnes, por la importancia que revisten, los diputados deberán concurrir con traje obscuro.
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN DEL CONGRESO
 
@@ -1914,3 +1916,17 @@ DIP. CARLOS ABRAHAM GARZA LIMON.- PRESIDENTE, DIP. OSCAR GARCIA BARRON.- SECRETA
 P.O. 28 DE AGOSTO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Con fundamento en la fracción X del artículo 55 de la Constitución Política del Estado Libre y Soberano de Durango, la presente reforma entrará en vigor en la fecha de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
