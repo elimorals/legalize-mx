@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-becas-y-creditos-educativos-del-estado-de-18647"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-30"
-last_updated: "2000-11-30"
+last_updated: "2005-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DE BECAS Y CREDITOS EDUCATIVOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA ESTATAL DE BECAS, PUBLICADO EN EL P.O. EL 8 DE SEPTIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el 30 de noviembre de 2000.
 
@@ -540,3 +542,13 @@ SECRETARIO DE GOBIERNO
 M.C. CECILIA LORÍA MARÍN
 
 SECRETARIA DE EDUCACIÓN Y CULTURA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2005.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Reglamento de Becas y Créditos Educativos publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el treinta de noviembre de dos mil, y se derogan las disposiciones relativas que se opongan al presente Reglamento.
+
+TERCERO. En el plazo de 90 días siguientes al inicio de vigencia del presente Reglamento, las dependencias y entidades del Poder Ejecutivo del Estado y de los Municipios, las instituciones educativas públicas y particulares autorizadas o reconocidas, incluyendo a aquellas autorizadas o reconocidas por autoridad competente, distinta de la Autoridad Educativa Estatal; así como por todas aquellas dependencias y organismos federales, fideicomisos y demás organizaciones nacionales o extranjeras, que desarrollen programas de becas en el Estado, deberán registrarlos ante el Sistema Estatal de Becas.
