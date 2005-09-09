@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-academia-de-policia-del-ayuntamiento-de-46512"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-14"
-last_updated: "1997-11-14"
+last_updated: "2005-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ACADEMIA DE POLICIA DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 1997.
 
@@ -129,13 +129,17 @@ VI.- Acompañar a su solicitud, toda la documentación que se determine en la co
 
 a).- Acta de nacimiento o carta de naturalización;
 
-b).- Certificado de estudios de secundaria;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2005)</small>
+
+b).- Certificado de estudios de preparatoria;
 
 c).- Fotografías recientes, en el número, tamaño y forma que se determine;
 
 d).- En el caso de los varones, cartilla del servicio militar nacional, con la correspondiente constancia de liberación;
 
-VII.- Presentar y aprobar los exámenes médicos, de conocimiento, o cualquier otro que se determine por el Departamento de Evaluación;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2005)</small>
+
+VII.- Presentar y aprobar los exámenes médicos, los cuales consistirán en: médico general, físico, toxicológico y de conocimientos;
 
 VIII.- Los demás que se determinen en la convocatoria.
 
@@ -598,3 +602,9 @@ Las reglas para el funcionamiento del Comité Consultivo serán fijadas por el m
 PRIMERO.- Se deroga el Reglamento Interior de la Academia de Policía del Municipio de Mexicali, Baja California, publicado en el Periódico Oficial, el día diez de enero de mil novecientos ochenta y cuatro.
 
 SEGUNDO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
