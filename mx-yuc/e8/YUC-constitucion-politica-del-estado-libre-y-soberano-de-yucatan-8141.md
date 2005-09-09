@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2005-05-26"
+last_updated: "2005-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MAYO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE SEPTIEMBRE DE 2005.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -41,17 +41,17 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
 ## TITULO PRELIMINAR. De los habitantes del Estado
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 1.
 
-Todos los habitantes del Estado de Yucatán, gozarán de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, y de las que establece esta Constitución.
+Todos los habitantes del Estado de Yucatán, gozarán de las garantias que otorga la Constitución Política de los Estados Unidos Mexicanos, las derivadas de los Acuerdos o Tratados Internacionales, en los que el Estado Mexicano sea parte, y las establecidas en ésta Constitución.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 2.
 
-El Estado de Yucatán, por medio de sus Poderes Públicos, asegura a los habitantes del mismo, que respetará y hará respetar las mencionadas garantías.
+El Estado de Yucatán por medio de sus poderes públicos, garantizará a toda persona que se encuentre en su territorio, el respeto de las mencionadas garantías sin discriminación alguna.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -189,7 +189,7 @@ La Ley fijará la forma y los términos en que se suspenden los derechos del ciu
 
 ### CAPITULO II. Del Territorio del Estado
 
-(REFORMADO, D.O. 26 DE MARZO DE 1975) (F. DE E., P.O. 3 DE ABRIL DE 1975)
+(REFORMADO, D.O. 26 DE MARZO DE 1975) (F. DE E., D.O. 3 DE ABRIL DE 1975)
 
 ###### Artículo 12.
 
@@ -237,7 +237,7 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-APARTADO A. DE LA FUNCIÓN ESTATAL DE ORGANIZAR LAS ELECCIONES.
+APARTADO A. DE LA FUNCIÓN ESTATAL DE ORGANIZAR LAS ELECCIONES
 
 La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, a cuya integración concurren los poderes del Estado, con la participación de los partidos políticos y los ciudadanos, de la manera que disponga la Ley.
 
@@ -258,6 +258,20 @@ Los fines de los partidos políticos son promover la participación del pueblo e
 La ley reglamentaria en la materia podrá establecer los casos y las condiciones para otorgar financiamiento público a los partidos políticos y permitirles el acceso a los medios de comunicación social del Gobierno del Estado.
 
 Para ejercer el derecho a participar en las elecciones estatales y municipales, los partidos políticos nacionales deberán cumplir con los requisitos establecidos en la ley local reglamentaria.
+
+> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+
+APARTADO C. DE LOS ORGANISMOS AUTÓNOMOS
+
+Conforme a esta Constitución, los organismos autónomos del Estado contarán con Autonomía, Personalidad Jurídica y Patrimonio Propios, y tendrán las facultades que esta Constitución y las leyes respectivas, establezcan.
+
+Son organismos autónomos del Estado:
+
+I.- El Instituto Electoral del Estado;
+
+II.- La Comisión de Derechos Humanos del Estado de Yucatán, y
+
+III.- El Tribunal Electoral del Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -441,7 +455,7 @@ e) Se tome el parecer del Ejecutivo del Estado, en los términos y condiciones d
 
 f) La creación del nuevo municipio, se acuerde con el voto de las dos terceras partes de los integrantes del Congreso.
 
-Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un núcleo poblacional a otro municipio, se estará a lo dispuesto por la ley respectiva.
+Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un núcleo poblacional a otro municipio, se estará a lo dispuesto por la ley respectiva;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -589,9 +603,11 @@ XXIX Bis.- Determinar el ámbito territorial de los distritos electorales del es
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
-XXX.- nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
+XXX.- ombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
 
-XXXI.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+
+XXXI.- Designar por el voto de sus dos terceras partes, al Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo;
 
 XXXII.- (DEROGADA, D.O. 12 DE DICIEMBRE DE 1997)
 
@@ -677,9 +693,9 @@ XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, ate
 
 XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipios según las condiciones territoriales y socioeconómicas de los mismos, así como su capacidad administrativa y financiera;
 
-> <small>(ADICIONADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
-XLVIII.- Las demás que le confiera esta Constitución.
+XLVIII.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -919,7 +935,7 @@ Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el 
 
 Si la ausencia del Gobernador electo se debiere a fuerza, coacción o cualquier otra causa que impida materialmente llenar sus funciones, deberá comprobarse este hecho y en tal caso, el Gobernador interino deberá entregarle el Gobierno al legalmente electo.
 
-.(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
+(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
 
 ###### Artículo 51.
 
@@ -1046,6 +1062,10 @@ XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, l
 XXIV.- las demás que le confieren esta Constitución y otras Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+
+### CAPITULO UNICO. De la Protección de los Derechos Humanos
+
+> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 56.
 
@@ -1201,11 +1221,9 @@ La imposición de las penas es propia y exclusiva de la autoridad judicial. La p
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-## TITULO SEPTIMO.
+## TITULO SEPTIMO. De los Organismos Autónomos
 
-De los Municipios del Estado.
-
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 74.
 
@@ -1235,15 +1253,27 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del Ingreso y del gasto público del Estado, y remitirlo al Titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
-## TITULO OCTAVO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
+###### Artículo 75 Bis.
+
+Se establece un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Yucatán, con personalidad jurídica y patrimonio propio, encargada de la protección, defensa, estudio, promoción y divulgación de los derechos humanos.
+
+La Ley preservará el carácter público, no vinculatorio, apartidista, transparente y expedito de sus recomendaciones; además su funcionamiento, facultades y procedimientos.
+
+Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un período más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
+
+La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
+
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
+
+## TITULO OCTAVO. De los Municipios del Estado
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+
+## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
 > <small>(REFORMADO, D.O. 1 DE MARZO DE 1991)</small>
-
-## TITULO NOVENO. De las responsabilidades de los Servidores Públicos
-
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ###### Artículo 76.
 
@@ -1507,11 +1537,11 @@ XIII.- Desarrollo Social.
 
 Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de que éstos asuman alguna de las funciones o los servicios cuya responsabilidad sea originaria del Estado, trasladándose a favor del municipio los medios para su adecuada prestación así como la contraprestación a cargo de los usuarios del servicio o función de que se trate.
 
-(REFORMADA SU DENOMINACION, D.O. 31 DE MARZO DE 1988) (F. DE E., D.O. 5 DE ABRIL DE 1988)
+(REUBICADO [N. DE E. ANTES TITULO OCTAVO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
-## TITULO DECIMO. Disposiciones generales
+## TITULO DECIMO. De las responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 86.
 
@@ -1537,39 +1567,45 @@ II.- imponer a la actividad individual las limitaciones que sea menester para ev
 
 III.- reintegrar la actividad individual, cuando ésta se encuentre menoscabada por el egoísmo, u otra manifestación análoga, de elementos inadaptados a la estructura social;
 
-IV.- ordenar las relaciones sociales hacia el fin de que la convivencia deje de ser pesada carga para la mayoría y fuente de bienandanza para una minoría, adoptando como principio de justicia el de que cada quien debe cooperar al bienestar colectivo, en la medida de sus fuerzas físicas e intelectuales, y recibir en cambio, de la sociedad, lo bastante para satisfacer sus necesidades;
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
-> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
+IV.- garantizar la protección de los derechos humanos.
 
-V.- organizar el sistema represivo, inspirándolo en el criterio de defensa social, eliminando todo concepto de venganza colectiva;
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
+V.- ordenar las relaciones sociales hacia el fin de que la convivencia deje de ser pesada carga para la mayoría y fuente de bienandanza para una minoría, adoptando como principio de justicia el de que cada quien debe cooperar al bienestar colectivo, en la medida de sus fuerzas físicas e intelectuales, y recibir en cambio, de la sociedad, lo bastante para satisfacer sus necesidades;
 
-VI.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno; y
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
+VI.- organizar el sistema represivo, inspirándolo en el criterio de defensa social, eliminando todo concepto de venganza colectiva;
 
-VII.- Propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia.
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+VII.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno; y
 
-VIII.- participar en lo concerniente a su régimen interior al desarrollo nacional, conforme a los principios que establece el Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(REFORMADA, D.O. 1 DE MARZO DE 1991)</small>
+VIII.- propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia.
 
-IX.- Organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática, sobre bases que aseguren la conservación y uso racional de los recursos naturales, la salud del ambiente y el desarrollo sostenido.
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+IX.- participar en lo concerniente a su régimen interior al desarrollo nacional, conforme a los principios que establece el Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado;
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+X.- organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática, sobre bases que aseguren la conservación y uso racional de los recursos naturales, la salud del ambiente y el desarrollo sostenido.
 
-XI.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo; y
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+XI.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado;
 
-XII.- apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan.
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
+
+XII.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo; y
+
+(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
+
+XIII.- apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1625,21 +1661,19 @@ El Estado propugnará por una correcta aplicación de los recursos y al efecto e
 
 La Ley determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenio con los Gobiernos Federal y Municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 21 DE DICIEMBRE DE 1988)</small>
+(REUBICADO [N. DE E. ANTES TITULO NOVENO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
-## TITULO UNDECIMO. Reforma e inviolabilidad de la Constitución
+## TITULO UNDECIMO. Disposiciones generales
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 97.
 
-Para los efectos de las responsabilidades a que alude este título, se reputará como servidores públicos a los representantes de elección popular, a los funcionarios, empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Se entenderá como servidor público a los representantes de elección popular, a todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en la Administración Pública Estatal o Municipal, en cualquiera de sus modalidades, o en las entidades u organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
 
-> <small>(F. DE E., D.O. 3 DE ENERO DE 1989)</small>
+Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo. El Gobernador del Estado, los Diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, no serán sujetos de responsabilidad sin la declaración de procedencia que emita el Congreso.
 
-Todos los servidores públicos son responsables por los delitos comunes que cometan en el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de ese encargo. No obstante, al Gobernador del Estado, a los Diputados locales propietarios y a los suplentes en funciones, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Contencioso Administrativo, a los Titulares de las dependencias de la Administración Pública Estatal y a los Presidentes Municipales, no se les puede hacer responsables, sin que proceda declaración, en sentido afirmativo, emitida por el Congreso del Estado.
-
-En las demandas de orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
+En las demandas de tipo civil, no se requerirá dicha declaración.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -1661,15 +1695,21 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de pruebas, podrá formular denuncia, ante el Congreso del Estado, respecto de las conductas a que se refiere este título.
 
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos de Juicio Político los Diputados locales propietarios y suplentes en funciones, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Contencioso Administrativo, los Titulares de las dependencias de la Administración Pública Estatal y los Presidentes Municipales.
+Podrán ser sujetos a Juicio Político los diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales.
 
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en la Administración Pública del Estado.
+> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñarse.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 Conociendo de la acusación el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la resolución que dicte la Cámara de Senadores con motivo del Juicio Político a que estuvo sujeto el Gobernador del Estado en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, con el carácter del Organo Ejecutor procederá a aplicar la sanción correspondiente; pero cuando lo estime procedente solicitará a la Cámara de Senadores las aclaraciones que juzgue pertinentes, antes de ejecutar la sanción.
 
@@ -1677,25 +1717,41 @@ Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la
 
 Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 100.
 
-Para proceder penalmente contra los Diputados locales propietarios y suplentes en funciones, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Contencioso Administrativo, los titulares de las dependencias del Ejecutivo del Estado y los Presidentes Municipales por la comisión de delitos durante el período de su encargo, el Congreso del Estado declarará por el voto de las dos terceras partes del total de los miembros de la Cámara si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, por la comisión de delitos durante su encargo. El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
 
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+
 Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continue su curso cuando el inculpado haya concluído el ejercicio de su encargo o comisión.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes.
 
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+
 En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los Diputados locales y los Magistrados del Tribunal Superior de Justicia del Estado en los términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, notificada que ésta sea, la Legislatura del Estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del Estado cuando lo estime pertinente solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 Las aclaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+
 El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal; tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán valorarse de acuerdo al lucro obtenido y a la reparación de los daños y perjuicios causados por su conducta ilícita.
 
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+
 Las sanciones económicas no podrán exceder de tres tantos del beneficio obtenido o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 La Ley de Responsabilidades de los Servidores Públicos determinará las obligaciones, procedimientos, autoridades competentes y las sanciones que se aplicarán a los servidores públicos, consistentes en suspensión, destitución e inhabilitación, que incurran en actos u omisiones contrarias a la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizarse en el desempeño de sus funciones, cargos o comisiones.
 
@@ -1704,6 +1760,10 @@ La Ley de Responsabilidades de los Servidores Públicos determinará las obligac
 ###### Artículo 101.
 
 El procedimiento de Juicio Político sólo podrá iniciarse durante el período en que el servidor público esté en funciones o hasta un año después de haberse separado del cargo.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
+
+## TITULO DUODECIMO. Reforma e inviolabilidad de la Constitución
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1745,7 +1805,7 @@ Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de 
 
 El Estado y los Municipios podrán asumir, mediante los convenios respectivos la responsabilidad, de la ejecución y operación de obras y prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario, en los términos de la ley de la materia. De conformidad a lo establecido en el Título Séptimo, y en el artículo 104 del Título Décimo, de esta Constitución.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(REUBICADO [N. DE E. ANTES TITULO UNDECIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ###### Artículo 108.
 
@@ -2316,3 +2376,13 @@ Para los efectos de lo dispuesto por el párrafo segundo del Artículo 108 de es
 ###### ARTÍCULO SEXTO.
 
 El Congreso atendiendo a lo dispuesto en los artículos primero y segundo transitorios, a través de la Gran Comisión, implementará mecanismos de difusión sobre los alcances de la presente reforma, entre los demás Poderes, las autoridades municipales, instituciones académicas, de profesionales y otras de la sociedad organizada; con el propósito de contar con dicho ordenamiento reglamentario en lo que queda del presente año.
+
+D.O. 9 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presidente de la Comisión de Derechos Humanos y los integrantes de su Consejo Consultivo, continuarán desempeñándose como tales, durante el período para el que fueron designados. Pudiendo ser ratificados, en su caso, en los términos de Ley.
