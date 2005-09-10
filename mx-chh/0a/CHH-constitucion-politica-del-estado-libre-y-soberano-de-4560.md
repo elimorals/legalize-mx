@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2005-06-01"
+last_updated: "2005-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2005.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -45,25 +45,45 @@ El Estado es libre y soberano en lo que concierne a su régimen interior.
 
 El territorio del Estado es el que de hecho ha poseído y posee, y el que de derecho le corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 ## TITULO II.
 
-DE LOS DERECHOS DEL GOBERNADO.
+DE LOS DERECHOS FUNDAMENTALES.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 4o.
 
-En el Estado de Chihuahua, toda persona gozará de los derechos que establecen esta Constitución y la Federal.
+En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
+I.- Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
+II.- Toda persona tiene derecho a la información.
+
+Toda persona tiene el derecho a acceder a la información pública, salvo en aquellos casos establecidos en la ley.
+
+El Estado garantizará el ejercicio de este derecho.
+
+Para proteger sus datos, toda persona tiene el derecho a acceder a información sobre sí misma o sus bienes asentada en archivos, bases de datos o registros públicos o privados y tiene el derecho a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley.
+
+La ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
+
+Para garantizar y hacer efectivo el adecuado y pleno ejercicio de los derechos de acceso a la información pública y protección de datos personales, se crea el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública como un organismo público autónomo, con personalidad jurídica y patrimonio propios y tendrá, en el ámbito de su competencia, facultades para sancionar.
+
+El Instituto tendrá un Consejo General, será el órgano supremo y se integrará por cinco consejeros propietarios, quienes designarán a su presidente de entre sus miembros.
+
+Habrá cinco consejeros suplentes. Las faltas de los consejeros propietarios serán suplidas por aquellos, en los términos de la ley.
+
+Los consejeros gozarán de las debidas garantías para ejercer su encargo con plena libertad e independencia.
+
+Los consejeros propietarios y suplentes durarán en su encargo siete años y no podrán ser reelectos, en los términos de la ley. Serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Parlamentaria. El ejercicio de esta facultad está sujeto a las restricciones fijadas por la ley.
+
+El Consejo General designará, a propuesta del consejero presidente, a los funcionarios directivos del instituto.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -847,9 +867,9 @@ XIII.- Disponer la resistencia a una invasión extranjera, en caso de que el pel
 
 XIV.- Asignar para sus gastos a cada Municipio, cuando lo crea conveniente, un tanto por ciento del monto de las rentas del Estado que se recauden en su respectivo territorio, y concederles subsidios extraordinarios cuando lo considere necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
-XV.- Constituido en Colegio Electoral.
+XV.- Constituido en Colegio Electoral:
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -859,9 +879,9 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
-C.- Elegir al consejero presidente y consejeros electorales del Instituto Estatal Electoral, así como a los magistrados del Tribunal Estatal Electoral.
+C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -883,9 +903,9 @@ En los casos de nulidad de elecciones y en los demás a que se refieren este inc
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
-XVI.- Recibir la protesta legal del Gobernador, de los diputados y de los magistrados del Supremo Tribunal de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; así como al Consejero presidente y consejeros electorales del Instituto Estatal Electoral.
+XVI.- Recibir la protesta legal del gobernador, de los diputados; de los magistrados del Supremo Tribunal de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; del consejero presidente y de los consejeros electorales del Instituto Estatal Electoral; así como de los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -895,9 +915,9 @@ XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a q
 
 XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que determina esta Constitución y de diputados en el caso del artículo 60 y, cuando habiendo falta definitiva de un diputado propietario y de su suplente, hayan de transcurrir más de doce meses para que se efectúen las ordinarias.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
-XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al Gobernador, a los diputados, y a los magistrados del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Supremo Tribunal de Justicia, cuando la de éstos últimos sea por más de veinte días; así como al Consejero presidente y consejeros electorales del Instituto Estatal Electoral.
+XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, y a los magistrados del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Supremo Tribunal de Justicia, cuando la de estos últimos sea por más de veinte días; al consejero presidente y consejeros electorales del Instituto Estatal Electoral; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1701,7 +1721,7 @@ V.- Crear y suprimir juzgados de acuerdo a las necesidades de la Administración
 
 VI.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
 
-VII.- Conceder licencias por mas de diez días u hasta por seis meses a funcionarios y empleados del Poder Judicial.
+VII.- Conceder licencias por más de diez días u hasta por seis meses a funcionarios y empleados del Poder Judicial.
 
 VIII.- Suspender hasta por tres meses, por causa grave justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
 
@@ -2443,11 +2463,11 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 1986)
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005.)</small>
 
 ###### Art. 166.
 
-El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral y el Instituto Estatal Electoral, por conducto de sus respectivos presidentes, comunicarán oportunamente al Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal, a fin de que sin modificación alguna los presente al Congreso.
+El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral, el Instituto Estatal Electoral y el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, por conducto de sus respectivos presidentes, comunicarán oportunamente al Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal, a fin de que sin modificación alguna lo presente al Congreso.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2521,11 +2541,13 @@ En tiempos de carestía de los artículos de primera necesidad, el Congreso podr
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 178.
 
-Para los efectos de las responsabilidades a que alude este Título, son servidores públicos todos los funcionarios y empleados de los poderes Legislativo, Ejecutivo y Judicial del Estado, de los municipios, de los organismos descentralizados y en general, a toda persona que desempeñe en las entidades mencionadas un empleo, cargo o comisión de cualquier naturaleza, ya sea que su designación tenga origen en un proceso de elección popular, en un nombramiento o en un contrato.
+Para los efectos de las responsabilidades a que alude este título, son servidores públicos todos los funcionarios y empleados de los Poderes Legislativo, Ejecutivo y Judicial del Estado, de los Organismos Autónomos, de los Municipios, de los Organismos Descentralizados y en general, a toda persona que desempeñe en las entidades mencionadas un empleo, cargo o comisión de cualquier naturaleza, ya sea que su designación tenga origen en un proceso de elección popular, en un nombramiento o en un contrato.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 Los servidores públicos, en ejercicio de sus funciones, pueden contraer responsabilidad:
 
@@ -2537,11 +2559,19 @@ III.- Oficial, por los actos u omisiones que redunden en perjuicio de los intere
 
 IV.- Civil, por los actos u omisiones que lesionen el patrimonio público.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+
 Los procedimientos para la aplicación de las sanciones que en cada caso correspondan, se tramitarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 La comisión de delitos comunes por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal. Esta determinará los casos y las circunstancias en que se deban sancionar por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o con motivo del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquiriendo bienes o conduciéndose como dueños de ellos, cuya procedencia lícita no pudiesen justificar, privándolos de la propiedad de los mismos, independientemente de las penas que les correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas suficientes, podrá formular denuncia respecto de las conductas a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -2575,6 +2605,10 @@ V.- Del Tribunal Estatal Electoral, cuando esté en funciones, sus Magistrados, 
 
 VI.- Del Instituto Estatal Electoral, su presidente.
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
+VII.- Del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, sus consejeros.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 180.
@@ -2605,7 +2639,7 @@ Para proceder penalmente en contra de los servidores públicos que menciona el a
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito común continúe su curso cuando el inculpado haya concluído el ejercicio de su cargo, pues la misma no prejuzga los fundamentos de la imputación.
+Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito común continúe su curso cuando el inculpado haya concluido el ejercicio de su cargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2629,7 +2663,7 @@ Las declaraciones y resoluciones del Congreso a que se refieren los artículos 1
 
 No se requerirá declaración de procedencia del Congreso del Estado, cuando los funcionarios mencionados en el artículo 179 cometan un delito durante el tiempo en que se encuentren separados de su cargo.
 
-Si el servidor público a vuelto a desempeñar sus funciones o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 179, se procederá de acuerdo con lo dispuesto en los artículos 181 y 183.
+Si el servidor público ha vuelto a desempeñar sus funciones o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 179, se procederá de acuerdo con lo dispuesto en los artículos 181 y 183.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3158,3 +3192,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para los efectos del artículo 202 de la Constitución Política del Estado, envíese a los 67 ayuntamientos del Estado, copia del presente Decreto, de la iniciativa y del Diario de los Debates, en su caso.
+
+P.O. 10 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del presente dictamen y del Diario de los Debates, en su parte relativa, a los 67 Ayuntamientos que conforman el Estado.
+
+TERCERO.- La ley reglamentaria correspondiente deberá expedirse en un plazo no mayor a treinta días naturales a la entrada en vigor del presente decreto.
+
+CUARTO.- La designación de los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, se hará en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+QUINTO.- Para los efectos de la designación de los cinco primeros consejeros, se estará a lo siguiente:
+
+I.- De los consejeros propietarios, dos de ellos serán designados para un período de siete años y los tres restantes para un período de cuatro años.
+
+II.- Los consejeros que se nombren para períodos posteriores, durarán en su cargo siete años.
