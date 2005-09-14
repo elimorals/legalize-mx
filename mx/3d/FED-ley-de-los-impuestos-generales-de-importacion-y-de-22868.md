@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-09-07"
+last_updated: "2005-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 2005.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4743,3 +4743,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.01, 4412.19.99, 4412.22.01, 4412.29.99, 4412.92.01 y 4412.99.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 28.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 24.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 20.
 
 El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 15.
+
+D.O.F. 14 DE SEPTIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
