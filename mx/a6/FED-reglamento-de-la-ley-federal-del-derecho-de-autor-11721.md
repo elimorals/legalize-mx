@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-del-derecho-de-autor-11721"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-22"
-last_updated: "1998-05-22"
+last_updated: "2005-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11721&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-05-15"
 
 REGLAMENTO DE LA LEY FEDERAL DEL DERECHO DE AUTOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION : 14 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el viernes 22 de mayo de 1998.
 
@@ -38,6 +38,10 @@ REGLAMENTO DE LA LEY FEDERAL DEL DERECHO DE AUTOR
 ###### Artículo 1o.
 
 El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley Federal del Derecho de Autor. Su aplicación, para efectos administrativos, corresponde a la Secretaría de Educación Pública a través del Instituto Nacional del Derecho de Autor y, en los casos previstos por la Ley, al Instituto Mexicano de la Propiedad Industrial.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+Lo dispuesto en la Ley y en el presente Reglamento se aplicará sin perjuicio de lo establecido en los Tratados Internacionales celebrados y ratificados por México.
 
 ###### Artículo 2o.
 
@@ -97,13 +101,17 @@ La preservación, restauración o conservación de obras literarias y artística
 
 Para los efectos de la Ley y de este Reglamento, se entiende por regalías la remuneración económica generada por el uso o explotación de las obras, interpretaciones o ejecuciones, fonogramas, videogramas, libros o emisiones en cualquier forma o medio.
 
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 9o.
 
-El pago de regalías al autor, a los titulares de derechos conexos y a sus causahabientes se hará en forma independiente a cada uno de quienes tengan derecho según la modalidad de explotación de que se trate.
+El pago de regalías al autor, a los titulares de derechos conexos, o a sus titulares derivados, se hará en forma independiente a cada uno de quienes tengan derecho, por separado y según la modalidad de explotación de que se trate, de manera directa, por conducto de apoderado o a través de las sociedades de gestión colectiva.
+
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 10o.
 
-Las regalías por ejecución, exhibición o representación pública de obras literarias y artísticas se generarán en favor de los autores y titulares de derechos conexos, así como de sus causahabientes, cuando ésta se realice con fines de lucro directo o indirecto.
+Las regalías por comunicación, transmisión pública, puesta a disposición, ejecución, exhibición o representación pública, de obras literarias o artísticas, así como de las interpretaciones o ejecuciones, fonogramas, videogramas, libros o emisiones, realizadas con fines de lucro directo o indirecto, se generarán a favor de los autores, titulares de derechos conexos o de sus titulares derivados.
 
 ###### Artículo 11.
 
@@ -126,6 +134,12 @@ III. La transmisión o retransmisión por hilo, cable, fibra óptica u otro proc
 El pago a que se refiere el artículo 133 de la Ley deberá hacerse independientemente a cada una de las categorías de titulares de derechos de autor y derechos conexos que concurran en la titularidad de los derechos sobre la forma de explotación de que se trate.
 
 Las disposiciones de este artículo serán aplicables, en lo conducente, a las obras cinematográficas y audiovisuales.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+Artículo 12 bis.- Para efectos de lo dispuesto en el artículo 131, fracción III, de la Ley, la autorización o prohibición de la distribución de fonogramas a través de señales o emisiones, comprende la puesta a disposición del público o comunicación pública de los fonogramas en cualquier forma, así como su acceso público por medio de la telecomunicación.
+
+Quedan incluidas dentro de las formas de puesta a disposición del público o comunicación pública aquellas transmisiones por medios electrónicos, a través del espectro electromagnético y de redes de telecomunicaciones, alámbricas o inalámbricas.
 
 ###### Artículo 13.
 
@@ -227,11 +241,57 @@ En el caso de obras hechas en coautoría, se deberán mencionar los nombres de l
 
 ### CAPÍTULO II. DE LAS OBRAS FOTOGRÁFICAS, PLÁSTICAS Y GRÁFICAS
 
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 31.
 
-Los ejemplares de una obra gráfica en serie deben tener la firma del autor, el número de ejemplares de la serie y el número consecutivo que le corresponde a la copia.
+Los ejemplares de una obra gráfica o fotográfica en serie deben tener la firma del autor, el número de ejemplares de la serie y el número consecutivo que le corresponda a la copia.
 
-Los ejemplares pertenecientes a las series que hayan sido realizados por el autor que hubiere fallecido antes de firmarlos podrán serlo por el cónyuge supérstite o, en su defecto, por familiares consanguíneos en primer grado, siempre y cuando sean titulares patrimoniales. En caso de ser varios deberán designar a uno de ellos.
+Los ejemplares de una serie realizados por el autor que hubiere fallecido antes de firmarlos, podrán hacerlo el cónyuge supérstite o, en su defecto, familiares consanguíneos en primer grado, siempre y cuando sean titulares de los derechos patrimoniales respecto de esas obras. En caso de ser varios deberán designar a uno de ellos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+Artículo 31 bis.- Para efectos de lo dispuesto en el artículo 92 bis de la Ley, se entenderá por obras de las artes plásticas, todas aquellas creaciones artísticas de carácter plástico y visual, fijadas sobre una superficie plana o tridimensional, entre las que se encuentran las ramas pictórica, escultórica y de dibujo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+Artículo 31 ter.- Para el cumplimiento de las obligaciones derivadas del artículo 92 bis de la Ley, se estará a lo siguiente:
+
+I. Los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles mantendrán en depósito la cantidad retenida hasta entregarla al autor, sus derechohabientes o a la sociedad de gestión colectiva correspondiente, o al momento de hacer la consignación respectiva ante autoridad competente.
+
+Las formas, plazos y montos de retribución por el cargo de depositario, se sujetarán a lo previsto en la tarifa fijada por el Instituto o, en su caso, a los términos del contrato celebrado por las partes interesadas y, en su defecto, a los usos de la plaza en que se haya constituido el depósito.
+
+Los gastos de administración por el carácter de depositario, se descontarán de la misma cantidad depositada. En todo caso, el plazo para establecer el inicio de la generación de los gastos, deberá tomar como base la notificación fehaciente de la reventa.
+
+II. Las notificaciones a las sociedades de gestión colectiva o, en su caso, a los autores o sus derechohabientes por la reventa de las obras de las artes plásticas, fotográficas o manuscritos originales de las obras literarias y artísticas deberán realizarse por escrito y contener, al menos, el nombre del autor, título de la obra, lugar y fecha en que se haya efectuado la reventa, los datos completos del revendedor y el precio de la reventa, acompañando copia de la factura o del documento legal que permita la verificación de los datos y la práctica efectiva de la liquidación.
+
+Las notificaciones surtirán sus efectos conforme a las disposiciones legales aplicables, debiendo en todo caso, obtenerse el acuse de recibo de la persona interesada, o el comprobante de envío o transmisión de la información de la reventa.
+
+En los casos en que no se tengan los datos de identificación del autor o los de su ubicación, que haga posible su notificación, los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles fijarán, en un lugar visible y de acceso público dentro del establecimiento mercantil en el que se haya llevado a cabo la reventa, un aviso que contendrá el título de la obra, el precio de la reventa, las fechas de adjudicación o de reventa y, en su caso, los datos del autor.
+
+Las sociedades de gestión colectiva correspondientes, de manera directa o a petición de los subastadores, titulares de establecimientos mercantiles o agentes mercantiles, podrán proporcionar anualmente una lista de todos sus agremiados, relacionando sus obras registradas y acompañando copia del documento que acredite el mandato otorgado por el autor para facultarla a recibir a su nombre la participación correspondiente. Esta información podrá incluir la derivada de los convenios de representación recíproca que hubiere celebrado la sociedad de gestión colectiva.
+
+El plazo de dos meses para la notificación de la reventa efectuada, se contará a partir del día siguiente de la fecha efectiva del cobro total de la reventa, salvo pacto en contrario o por disposición expresa en la tarifa correspondiente.
+
+III. Para la recaudación del importe correspondiente a la participación, los interesados deberán presentar los documentos que los acrediten fehacientemente como autores o sus derechohabientes y, en el caso de las sociedades de gestión colectiva, deberán exhibir las constancias previstas en la Ley.
+
+Los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles, entregarán la cantidad en efectivo al autor o sus derechohabientes, que hubieren retenido por concepto de participación que corresponda en el precio de reventa y, en su caso, proporcionarán la información que resulte necesaria para la liquidación.
+
+El autor o sus derechohabientes podrán exigir toda la información necesaria para la liquidación de los importes debidos en virtud del derecho de participación correspondiente a las reventas de obras de las artes plásticas, fotográficas o manuscritos originales de las obras literarias y artísticas. En el caso de que la parte interesada aceptara sin reserva el pago por las participaciones a que tiene derecho, se presumirá que no existen vicios aparentes.
+
+Los subastadores, titulares de establecimientos mercantiles o agentes mercantiles y las partes interesadas podrán pactar los términos y condiciones de los pagos correspondientes a las participaciones a que tengan derecho, teniendo como base la tarifa fijada por el Instituto.
+
+Las sociedades de gestión colectiva que hubieren recibido pagos por este concepto, deberán mencionarlo en los informes requeridos por el Instituto en los términos de la ley.
+
+IV. Las sociedades de gestión colectiva podrán recibir las notificaciones de reventa, aunque no tengan la representación respectiva, con la información señalada en la fracción II del presente artículo, con la obligación de conservarla, ponerla a disposición de los respectivos titulares cuando sea necesario o sean requeridas para ello y fijar en lugar visible y de acceso público dentro de sus instalaciones los avisos correspondientes, incluidos los medios electrónicos.
+
+La información sobre la reventa de una obra estará a disposición de las organizaciones de gestión colectiva extranjeras, conforme a los convenios de representación recíproca celebrados por la sociedad de gestión colectiva.
+
+V. Con el objeto de facilitar la información y recaudación de las participaciones a que tengan derecho, los autores, sus derechohabientes o las sociedades de gestión colectiva podrán celebrar acuerdos o convenios con los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+Artículo 31 quáter.- El autor o sus derechohabientes, por conducto del Instituto, podrán requerir la información necesaria para asegurar el pago de las participaciones por la reventa de las obras de las artes plásticas, fotográficas o manuscritos originales de las obras literarias y artísticas a que hace referencia el artículo 92 bis de la Ley, a los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles, que hayan intervenido en la reventa, así como a las sociedades de gestión colectiva que hayan recibido las notificaciones correspondientes.
 
 ###### Artículo 32.
 
@@ -383,15 +443,19 @@ V. Cualquier expresión originaria que constituya una obra literaria o artístic
 
 Las interpretaciones y ejecuciones, fonogramas, videogramas, libros y emisiones, están protegidas en los términos previstos por la Ley, independientemente de que incorporen o no obras literarias y artísticas.
 
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 50.
 
-El agotamiento del derecho a que se refiere el último párrafo del artículo 118 de la Ley, se circunscribirá únicamente a las modalidades de explotación expresamente autorizadas por el artista intérprete o ejecutante.
+El agotamiento del derecho a que se refiere el último párrafo del artículo 118 de la Ley, comprende únicamente a las modalidades de explotación expresamente autorizadas por el artista intérprete o ejecutante, con las restricciones de respetar los derechos morales correspondientes y que los usuarios que utilicen los soportes materiales con fines de lucro efectúen el pago de las remuneraciones respectivas.
 
-La fijación, comunicación pública o reproducción de la fijación de la interpretación realizada en exceso de la autorización conferida facultará al artista intérprete o ejecutante para oponerse al acto de que se trate, además de exigir los daños y perjuicios causados.
+La fijación, comunicación pública o reproducción de la fijación de la interpretación realizada, en exceso de la autorización conferida, facultará al artista intérprete o ejecutante para oponerse al acto de que se trate, además de exigir la reparación del daño material y/o moral, así como la indemnización por daños y perjuicios.
+
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 51.
 
-Corresponde a los artistas intérpretes o ejecutantes estarán facultados para exigir la reparación del daño moral y el pago de daños y perjuicios, cuando la utilización de una interpretación o ejecución se realice en contravención a lo dispuesto por el artículo 117 de la Ley.
+Los artistas intérpretes o ejecutantes tendrán derecho a exigir la reparación del daño material y/o moral, así como la indemnización por daños y perjuicios, cuando la utilización de una interpretación o ejecución se realice en contravención a lo dispuesto por la Ley.
 
 ###### Artículo 52.
 
@@ -937,6 +1001,8 @@ El Instituto llevará una relación tanto de los apoderados autorizados como de 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 115.
 
 Los autores, los titulares de derechos conexos y sus causahabientes, nacionales o extranjeros, podrán formar parte de las sociedades bajo las limitaciones previstas en la Ley y en este Reglamento.
@@ -1101,11 +1167,13 @@ Los requerimientos de informes, las prácticas de visitas de inspección y de au
 
 ###### Artículo 137.
 
-Cualquier violación a los derechos y a las prerrogativas establecidos por la Ley, faculta al afectado para hacer valer las acciones civiles y penales que procedan.
+Cualquier violación a los derechos y a las prerrogativas establecidos por la Ley, faculta al afectado para hacer valer las acciones civiles, penales y administrativas que procedan.
+
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 138.
 
-El ejercicio de las acciones establecidas en la Ley dejará a salvo el derecho de iniciar otro procedimiento de conformidad con la misma, el Código Civil, el Código Penal o la Ley de la Propiedad Industrial.
+El ejercicio de las acciones establecidas en la Ley dejará a salvo el derecho de iniciar otro procedimiento de conformidad con la misma, el Código Civil Federal, el Código de Comercio, la Ley de la Propiedad Industrial o, en su caso, la legislación común aplicable, así como presentar denuncia o querella en materia penal.
 
 ### CAPÍTULO III. DEL ARBITRAJE
 
@@ -1309,13 +1377,19 @@ II. Nombre y domicilio de la cámara, grupo o asociación de usuarios o, en su c
 
 III. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y
 
-IV. Tarifa propuesta por el solicitante que deberá:
+> <small>(REFORMADA, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá:
 
 a) Basarse en criterios objetivos y determinables mediante una simple operación aritmética;
 
 b) En caso de formas de explotación en las que participen diversas clases de titulares de derechos de autor y derechos conexos, establecer la participación que cada clase de titulares tendrá sobre la tarifa global, y
 
-c) Justificar mediante criterios objetivos la tarifa propuesta.
+c) Enunciar los elementos, criterios objetivos o, en su caso, prácticas establecidas que justifiquen el cálculo del pago que deberán hacer las distintas categorías de usuarios a quienes resulte aplicable la tarifa, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+
+V. Detallar el sistema o forma en que se repartirán a los socios o agremiados las cantidades que recaude la sociedad o, en su caso, la cámara, grupo o asociación de usuarios que se beneficia con la tarifa.
 
 ###### Artículo 168.
 
@@ -1432,3 +1506,11 @@ QUINTO.- El Registro conservará todos los expedientes y documentos de las Socie
 SEXTO.- Los profesionistas que pretendan fungir como árbitros y hayan prestado sus servicios en las sociedades de autores constituidas conforme a la Ley anterior, no podrán hacerlo hasta que fenezca el plazo que la Ley vigente establece para quienes lo hacen o han hecho en las sociedades de gestión colectiva.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Educación Pública, Miguel Limón Rojas.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
