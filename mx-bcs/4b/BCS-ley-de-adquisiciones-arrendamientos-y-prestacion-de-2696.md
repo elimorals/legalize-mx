@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-prestacion-de-2696"
 country: "mx"
 rank: "ley"
 publication_date: "1986-05-10"
-last_updated: "1986-05-10"
+last_updated: "2005-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES, DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 14 DE SEPTIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de mayo de 1986.
 
@@ -554,3 +556,17 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO B. MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 14 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Decreto N° 546 del H. Congreso del Estado de Baja California Sur, mediante el cual expide la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con bienes Muebles del Gobierno del Estado de Baja California Sur. De fecha 29 de abril de 1986.
+
+TERCERO.- Los Procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, se regirán por lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Gobierno del Estado de Baja California Sur, que se abroga en el transitorio anterior.
+
+CUARTO.- Las Dependencias y Entidades de la Administración Pública Estatal, así como los Organismos Autónomos, en un plazo que no exceda de 30 días posteriores a la publicación de la presente Ley, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, constituirán los Comités de Adquisiciones, Arrendamientos y Servicios.
+
+QUINTO.- El Titular del Poder Ejecutivo, en un plazo que no exceda de 60 días posteriores a la publicación de la presente Ley, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, emitirá el Reglamento de la misma.
