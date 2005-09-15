@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-38-1251-99-que-crea-el-comite-de-inversiones-del-14294"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-06-07"
-last_updated: "1999-06-07"
+last_updated: "2005-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1999-04-15"
 ---
 # ACUERDO 38.1251.99 QUE CREA EL COMITE DE INVERSIONES DEL SISTEMA INTEGRAL DE TIENDAS Y FARMACIAS DEL ISSSTE Y ESTABLECE SUS LINEAMIENTOS DE OPERACION
 
-ACUERDO 38.1251.99 QUE CREA EL COMITE DE INVERSIONES DEL SISTEMA INTEGRAL DE TIENDAS Y FARMACIAS DEL ISSSTE Y ESTABLECE SUS LINEAMIENTOS DE OPERACION
+CREACION DEL COMITE DE INVERSIONES DEL SISTEMA INTEGRAL DE TIENDAS Y FARMACIAS DEL ISSSTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE SEPTIEMBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 7 de junio de 1999.
 
@@ -179,7 +179,9 @@ Para estar en posibilidad de invertir dentro de las Sociedades de Inversión ant
 
 De las sesiones del Comité:
 
-I.- El Comité deberá sesionar en forma ordinaria cuando menos una vez al mes, preferentemente el último miércoles, con el objeto de conocer los resultados de las subastas de los valores gubernamentales al cierre del día anterior, estableciendo los lineamientos y estrategias de inversión, así como el estado de inversiones por intermediación financiera, las estrategias financieras, el estado de las reservas, la situación financiera del SITyF y los Acuerdos tomados, para lo cual se convocará a los miembros con una antelación mínima de 48 horas.
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2005)</small>
+
+I.- El Comité deberá sesionar en forma ordinaria cuando menos bimestralmente, con el objeto de conocer los resultados de la última subasta de valores gubernamentales, así como el estado de las inversiones, a fin de proponer los lineamientos de estrategias de inversión, para lo cual se convocará a los integrantes con una antelación mínima de 48 horas.
 
 II.- El Comité celebrará sesiones extraordinarias cuando así lo solicite cualquiera de sus miembros, o cuando algún asunto así lo requiera, por lo que se tendrá que convocar para la celebración de la misma, con una anticipación mínima de 24 horas.
 
@@ -366,3 +368,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 15 de abril de 1999.- El Secretario, Jaime Báez Rodríguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS APLICABLES AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE SEPTIEMBRE DE 2005.
+
+Unico.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
