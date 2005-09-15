@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2005-05-10"
+last_updated: "2005-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2005.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -617,6 +617,10 @@ Las autoridades señaladas en el artículo 3 de esta Ley, emitirán mediante acu
 
 Las unidades administrativas de las autoridades a que se refiere esta Ley, deberán informar mensualmente a sus respectivos órganos internos de control, los movimientos de nómina de los servidores públicos obligados, a efecto de que actualicen los padrones respectivos.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2005)</small>
+
+No estarán obligados a rendir declaración de situación patrimonial, los servidores públicos que con carácter honorífico y sin recibir remuneración, sueldo, emolumento o retribución alguna, integren los órganos de gobierno, comités, consejos consultivos, juntas u órganos colegiados, cualquiera que sea su denominación, de las autoridades señaladas en el artículo 3 de esta Ley, en los términos que dispongan las leyes, decretos, acuerdos o reglamentos por los que hayan sido creados dichos órganos.
+
 ###### Artículo 65.
 
 Los órganos de control interno de las autoridades referidas en el artículo 3 de esta Ley, señalarán la unidad administrativa encargada de la recepción, control, registro y verificación de la información patrimonial de los servidores públicos obligados a declararla.
@@ -690,3 +694,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DE LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.-Se deroga cualquier disposición que se oponga al presente Decreto.
