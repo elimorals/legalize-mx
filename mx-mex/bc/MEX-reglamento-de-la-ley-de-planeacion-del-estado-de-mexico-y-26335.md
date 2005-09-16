@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-planeacion-del-estado-de-mexico-y-26335
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-16"
-last_updated: "2002-10-16"
+last_updated: "2005-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 16 de octubre de 2002.
 
@@ -1063,59 +1063,83 @@ Los subcomités sectoriales se integrarán por representantes de las dependencia
 
 Los subcomités regionales se integrarán por representantes de los distintos ordenes de gobierno, y de los grupos y organizaciones sociales y privados que tengan injerencia en la región respectiva; y serán miembros permanentes los presidentes municipales de la región correspondiente.
 
+> <small>(REFORMADO, G.G. 16 DE SEPTIEMBRE DE 2005)</small>
+
 La Asamblea General establecerá un Subcomité Regional por cada una de las 16 regiones en que se divide el Estado.
 
-###### Artículo 97.
+> <small>(REFORMADO, G.G. 16 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 97.
 
 Para efectos de la planeación del desarrollo regional, el Estado se divide en las regiones siguientes:
 
-REGlON I. ATLACOMULCO:
+I. Región I Amecameca:
 
-Acambay, Aculco, Chapa de Mota, Ixtlahuaca, Jilotepec, Jocotitlán, Morelos, El Oro, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo, Timilpan.
+Comprende los municipios de Amecameca, Atlautla, Ayapanqo, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
-REGION II. ZUMPANGO:
+II. Región II Atlacomulco:
 
-Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac.
+Comprende los municipios de Acambay, Aculco, Atlacomulco, Chapa de Mota, Ixtlahuaca, Jilotepec, Jocotitlán, Morelos, El Oro, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
 
-REGION III. ECATEPEC DE MORELOS:
+III. Región III Chimalhuacán:
 
-Acolman, Axapusco, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa, Teotihuacán.
+Comprende los municipios de Chicoloapan, Chimalhuacán, Ixtapaluca y La Paz.
 
-REGION IV. CUAUTITLAN IZCALLI:
+> <small>(F. DE E., G.G. 3 DE NOVIEMBRE DE 2005)</small>
 
-Coacalco de Berriozabal, Coyotepec Cuautitlán, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec, Tultitlán, Villa del Carbón.
+IV. Región IV Cuautitlán Izcalli:
 
-REGION V. NAUCALPAN DE JUAREZ:
+Comprende los municipios de Coyotepec, Cuautitlán Izcalli, Huehuetoca, Tepotzotlán, Villa del Carbón.
 
-Atizapán de Zaragoza, Huixquilucan Isidro Fabela, Jilotzingo, Nicolás Romero, Tlalnepantla de Baz.
+V. Región V Ecatepec:
 
-REGlON VI. TOLUCA:
+Comprende los municipios de Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
 
-Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Jiquipilco, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec. Rayón, San Antonio la Isla, San Mateo Atenco, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Xalatlaco, Xonacatlán, Zinacantepec.
+VI. Región VI Ixtapan de la Sal:
 
-REGlON VII. TEXCOCO:
+Comprende los municipios de Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, San Simón de Guerrero, Sultepec, Temascaltepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
 
-Atenco, Chiautla, Chiconcuac. Papalotla. Tepetlaoxtoc, Tezoyuca.
+VII. Región VII Lerma:
 
-REGlON VIII. VALLE DE BRAVO:
+Comprende los municipios de Atizapán, Capulhuac, Jiquipilco, Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco, Temoaya, Tianguistenco, Xalatlaco y Xonacatlán.
 
-Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Villa de Allende, Villa Victoria, Zacazonapan.
+VIII. Región VIII Naucalpan:
 
-REGION IX. NEZAHUALCOYOTL:
+Comprende los municipios de Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez y Nicolás Romero.
 
-Chicoloapan, Chimalhuacán, Ixtapaluca, La Paz.
+IX. Región IX Nezahualcóyotl:
 
-REGION X. AMECAMECA:
+Comprende el municipio de Nezahualcóyotl.
 
-Atlautla, Ayapango, Cocotitlán, Chaco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco, Valle de Chalco Solidaridad.
+X. Región X Tejupilco:
 
-REGlON XI. IXTAPAN DE LA SAL:
+Comprende los municipios de Amatepec, Luvianos, Tejupilco y Tlatlaya.
 
-Almoloya de Alquisiras, Coatepec Harinas, Joquicingo, Malinalco, Ocuilan, San Simón de Guerrero, Sultepec, Temascaltepec, Tenancinqo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan, Zumpahuacán.
+XI. Región XI Texcoco:
 
-REGION XII. TEJUPILCO:
+Comprende los Municipios de Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
 
-Amatepec, Tlatlaya. Luvianos.
+XII. Región XII Tlalnepantla:
+
+Comprende los municipios de Atizapán de Zaragoza y Tlalnepantla de Baz.
+
+XIII. Región XIII Toluca:
+
+Comprende los municipios de Almoloya de Juárez, Almoloya del Río, Calimaya, Chapultepec, Metepec, Mexicaltzingo, Rayón, San Antonio la Isla, Tenango del Valle, Toluca, Texcalyacac y Zinacantepec.
+
+> <small>(F. DE E., G.G. 3 DE NOVIEMBRE DE 2005)</small>
+
+XIV. Región XIV Tultitlán:
+
+Comprende los municipios de Coacalco de Berriozábal, Cuautitlán, Melchor Ocampo, Teoloyucan y Tultitlán.
+
+XV. Región XV Valle de Bravo:
+
+Comprende los municipios de Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
+
+XVI. Región XVI Zumpango:
+
+Comprende los municipios de Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
 
 ###### Artículo 98.
 
@@ -1306,3 +1330,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 16 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
