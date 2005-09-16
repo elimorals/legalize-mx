@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-adquisiciones-enajenaciones-arrendamientos-y-10480"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-25"
-last_updated: "1996-10-25"
+last_updated: "2005-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIDICO OFICIAL DEL ESTADO DE GUANAJUATO: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el viernes 25 de octubre de 1996.
 
@@ -842,3 +844,19 @@ LIC. RAMON MARTIN HUERTA
 EL SECRETARIO DE PLANEACION Y FINANZAS
 
 LIC. JOSE LUIS ROMERO HICKS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2005.
+
+Artículo Primero. La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado; con excepción de los Capítulos Tercero y Quinto del Título Sexto, que entrarán en vigor el 1º primero de enero del año 2006 dos mil seis.
+
+Artículo Segundo. Se abroga la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato, expedida mediante decreto número 217 de la Quincuagésimo Sexta Legislatura del Congreso del Estado y publicado en el Periódico Oficial del Gobierno del Estado de fecha 25 veinticinco de octubre de 1996 mil novecientos noventa y seis.
+
+Artículo Tercero. Los procedimientos de contratación, de aplicación de sanciones e inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones aplicables al momento en que se iniciaron. Los contratos de adquisiciones, arrendamientos, enajenaciones y servicios que se encuentren vigentes a la entrada en vigor de esta Ley, se regirán por las disposiciones aplicables en el momento en que se celebraron.
+
+Artículo Cuarto. Los subcomités de adquisiciones que se encuentren en funcionamiento a la entrada en vigor de la presente Ley, deberán obtener de la Secretaría, la autorización para continuar en operación.
+
+Artículo Quinto. A partir de la entrada en vigor la presente Ley y en un término no mayor a ciento ochenta días, los sujetos de esta Ley expedirán en el ámbito de sus respectivas competencias, los reglamentos de la misma. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente Ley.
+
+Artículo Sexto. Se derogan las demás disposiciones legales y administrativas que se opongan a la presente Ley.
