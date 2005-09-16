@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-39683
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2004-05-25"
+last_updated: "2005-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIDICO OFICIAL DEL ESTADO DE GUANAJUATO: 16 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -47,15 +47,27 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 
 I.- Poderes Ejecutivo, Legislativo y Judicial;
 
-II.- Ayuntamientos; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
-III.- Organismos Autónomos por Ley.
+II.- Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+III.- Organismos Autónomos por Ley; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+IV.- Entidades paraestatales y paramunicipales.
 
 ###### Artículo 2.
 
 Para los efectos de la presente Ley, se entenderá por:
 
 I.- Contratante.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos por Ley y los Ayuntamientos, facultados para contratar sobre la materia, en los términos de esta Ley y otras disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+Para los efectos de esta Ley, se considera contratante a las entidades paraestatales y paramunicipales, siempre y cuando reúnan las características señaladas en el artículo 3;
 
 II.- Contratista o Consultor.- La persona física o moral debidamente registrada que participa en cualesquiera de los procedimientos o modalidades de contratación de obra pública o de servicios relacionados con la misma, según sea el caso, conforme a las disposiciones de esta Ley;
 
@@ -91,17 +103,23 @@ XVII.- Secretaría.- La Secretaría de Obra Pública del Gobierno del Estado;
 
 XVIII.- Términos de Referencia.- Descripción de los alcances, metas y objetivos de un estudio o proyecto relacionado con el contrato;
 
-XIX.- Titular del área responsable.- El Secretario de Obra Pública, los responsables de la ejecución de la obra pública en los Poderes Legislativo y Judicial y en los Organismos Autónomos por Ley, así como los Directores de Obras Públicas Municipales o quien ejecute las acciones en materia de obra pública en los Municipios; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+XIX. Titular del área responsable.- El Secretario de Obra Pública, los responsables de la ejecución de la obra pública en las entidades paraestatales, en los Poderes Legislativo y Judicial y en los Organismos Autónomos por Ley, así como los Directores de Obras Públicas Municipales o quien ejecute las acciones en materia de obra pública en los Municipios o en las entidades paramunicipales, y
 
 XX.- Tratados.- Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 3.
 
-El Ejecutivo del Estado aplicará la presente Ley, por conducto de la Secretaría.
+El Ejecutivo del Estado aplicará la presente Ley, por conducto de la Secretaría. Las entidades paraestatales aplicarán esta Ley, siempre y cuando lo permita la naturaleza de su objeto y atribuciones, y cuenten con la capacidad para ejecutar obra pública; en sus propios ordenamientos, se determinarán los responsables encargados de llevar a cabo las acciones previstas en esta ley.
 
 Los Poderes Legislativo y Judicial, y los Organismos Autónomos por Ley, observarán y aplicarán la presente Ley, por conducto de la dependencia que señale su propio ordenamiento.
 
-En el ámbito municipal, la aplicación de esta Ley corresponderá a los Ayuntamientos por conducto de la Dirección Municipal.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+En el ámbito municipal, la aplicación de esta Ley corresponderá a los Ayuntamientos por conducto de la Dirección Municipal. Las entidades paramunicipales aplicarán esta Ley, siempre y cuando lo permita la naturaleza de su objeto y atribuciones, y cuenten con la capacidad para ejecutar obra pública; en sus propios ordenamientos, se determinarán las responsables encargadas de llevar a cabo las acciones previstas en esta Ley.
 
 ###### Artículo 4.
 
@@ -135,7 +153,9 @@ Para los efectos de esta Ley, se considera obra pública:
 
 I.- La construcción, instalación, conservación, ampliación, adaptación, adecuación, remodelación, restauración, reparación, rehabilitación, mantenimiento, modificación o demolición de bienes inmuebles que conformen el patrimonio del Estado y Municipios, en términos de la Ley de Patrimonio Inmobiliario del Estado y de lo dispuesto en la Ley Orgánica Municipal para el Estado de Guanajuato, destinados a un servicio público, al uso común, o los de dominio privado, ejecutados con recursos públicos.
 
-Asimismo, quedan comprendidos dentro de la obra pública el mantenimiento y la restauración de bienes inmuebles, que tenga el Estado o los Municipios por arrendamiento o por comodato; así como los bienes muebles integrados, incorporados o adheridos a un inmueble, aún cuando no implique modificación del propio inmueble;
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+Asimismo, quedan comprendidos dentro de la obra pública el mantenimiento, adaptación, adecuación, reparación y restauración de bienes inmuebles, que tenga el Estado o los Municipios por arrendamiento o por comodato; así como los bienes muebles integrados, incorporados o adheridos a un inmueble, aun cuando no implique modificación del propio inmueble;
 
 II.- Los estudios y trabajos de exploración, localización, perforación, mejoramiento del suelo, subsuelo, extracción y aquellos similares que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentren en el suelo, así como los que se encuentren en el subsuelo que no estén reservados a la Federación y de los que pueda disponer el Estado o los Municipios por medio de los convenios correspondientes;
 
@@ -499,7 +519,9 @@ Los entes públicos podrán convocar, adjudicar y contratar obra pública y serv
 
 I.- Que las obras se encuentren incluidas en el programa de inversión autorizado y se cuente con saldo disponible dentro del presupuesto aprobado y en la partida correspondiente;
 
-II.- En los supuestos contemplados en las fracciones I y II del artículo 73 de la presente Ley, bajo la responsabilidad de los entes públicos se podrá convocar sin contar con saldo disponible en su presupuesto, o bien, cuando los recursos financieros se encuentren en trámite; en ambos casos se deberá contar con la aprobación de la Secretaría de Finanzas y Administración o de la Tesorería Municipal en su caso;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+II.- En los supuestos contemplados en las fracciones I y II del artículo 73 de la presente Ley, bajo la responsabilidad de los entes públicos se podrá contratar sin saldo disponible en su presupuesto, o bien, cuando los recursos financieros se encuentren en trámite; en ambos casos se deberá contar con la aprobación de la Secretaría de Finanzas y Administración o de la Tesorería Municipal, del titular de la entidad paraestatal o paramunicipal, según corresponda;
 
 III.- Que se cuente con los estudios y proyectos, normas y especificaciones de diseño y construcción vigentes, así como las contempladas en el reglamento respectivo, en el presupuesto y el programa de ejecución de obra y en su caso, el programa de suministro, o bien con un avance en su desarrollo que permita a los licitadores preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión;
 
@@ -597,9 +619,11 @@ Para la participación, contratación o adjudicación de obra pública y servici
 
 ### CAPÍTULO TERCERO. DE LAS BASES DE LA LICITACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 48.
 
-Las bases para las licitaciones que emita la convocante, se pondrán a disposición de los interesados para su conocimiento, consulta y adquisición en el domicilio de la convocante, a partir de la fecha de la publicación de la convocatoria y hasta el cierre de la inscripción y contendrán lo siguiente:
+Las bases para las licitaciones que emita la convocante, se pondrán a disposición de los interesados para su conocimiento, consulta y adquisición en el domicilio de la convocante, a partir del día siguiente de la fecha de publicación de la convocatoria y hasta el cierre de la inscripción y contendrán lo siguiente:
 
 I.- El nombre o denominación de la convocante;
 
@@ -969,7 +993,13 @@ II.- Anticipo, que se constituirá por el 100% del mismo;
 
 III.- Cumplimento, que corresponderá al 10% del importe total contratado.
 
-En el caso de que el contratista no exhiba las fianzas de anticipo y de cumplimiento de obligaciones contractuales, dentro de los cinco días hábiles siguientes a la fecha de firma del contrato respectivo, se hará acreedor a una multa administrativa dentro de los rangos establecidos en la presente Ley; y
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+En el caso de que por causas imputables al contratista, éste no exhiba las fianzas de anticipo y de cumplimiento de obligaciones contractuales, dentro de los cinco días hábiles siguientes a la fecha de firma del contrato respectivo, se hará acreedor a una multa administrativa dentro de los rangos establecidos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+La sanción deberá fundarse y motivarse, y
 
 IV.- Concluida la obra y como parte del finiquito de la misma, el contratista deberá sustituir la garantía de cumplimiento por otra equivalente al 10% del monto total de los trabajos realmente ejecutados, incluyendo los conceptos pagados por ajuste de costos, misma que servirá para prever la probable existencia de vicios ocultos.
 
@@ -1027,9 +1057,11 @@ En los supuestos anteriores, la contratante de ser necesario, implementará otro
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 81.
 
-La obra pública en la modalidad de administración directa será aquella que se refiera exclusivamente a la de conservación y mantenimiento, que ejecuten por sí mismos los entes públicos, conforme a su programa de inversión autorizado, utilizando personal administrativo y técnico, maquinaria y equipo de construcción propios para el desarrollo de los trabajos. Excepcionalmente de manera justificada podrá utilizarse:
+La obra pública en la modalidad de administración directa será aquella que ejecuten por sí mismos los entes públicos, utilizando personal administrativo y técnico, maquinaria y equipo de construcción propios para el desarrollo de los trabajos. Excepcionalmente de manera justificada podrá utilizarse:
 
 I.- Mano de obra local complementaria, la que invariablemente se llevará a cabo por obra determinada;
 
@@ -1043,9 +1075,11 @@ En la ejecución de la obra pública bajo esta modalidad, se deberá considerar 
 
 En esta modalidad por ejecución de obra, queda prohibida la intervención de terceros como contratistas, independientemente de la denominación que adopten, asimismo queda prohibida la utilización de personal, equipo o maquinaria propiedad del ente público en apoyo o beneficio de un contratista.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 82.
 
-Previamente a la ejecución de la obra pública en la modalidad de administración directa, el titular del área responsable emitirá el acuerdo respectivo y lo hará del conocimiento del órgano de control que corresponda, al que comunicará mensualmente sobre el avance físico, los gastos efectuados y la terminación de la obra.
+Previamente a la ejecución de la obra pública en la modalidad de administración directa, el titular del área responsable emitirá el acuerdo respectivo y lo hará del conocimiento del órgano de control que corresponda, al que comunicará mensualmente sobre el avance físico, los gastos efectuados, el personal, material y equipo de construcción utilizado, así como de la terminación de la obra.
 
 Los Ayuntamientos notificarán a la Secretaría y a la Secretaría de la Gestión Pública, el acuerdo a que se refiere el párrafo anterior cuando las obras se ejecuten con cargo parcial o total a fondos federales transferidos por el Estado o del Gobierno del Estado. Asimismo informarán mensualmente sobre el avance físico, los gastos efectuados y la terminación de la obra.
 
@@ -1175,23 +1209,33 @@ En la suspensión de las obras o servicios, o en la rescisión administrativa de
 
 I.- Cuando se determine la suspensión de la obra o de los servicios por causas imputables a la contratante, ésta pagará al contratista o consultor los trabajos ejecutados conforme al finiquito correspondiente; así como los gastos no recuperables que sean razonables y comprobables;
 
-II.- En el caso de rescisión por causas imputables al contratista o consultor, la contratante procederá de la siguiente manera:
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
-a).- Notificará la rescisión del contrato debidamente fundada y motivada, haciéndole saber al contratista o consultor la causa o causas de la rescisión y el monto de las sanciones y cantidades a reintegrar, absteniéndose de cubrir los trabajos ejecutados no liquidados, ordenándole suspender en el acto toda actividad en obra, en el entendido de que de no hacerlo, carecerá de legitimación para reclamar reconocimiento de pago alguno posterior a la notificación, y en virtud de ello, la contratante de inmediato tomará posesión del inmueble;
+II. En el caso de rescisión por causas imputables al contratista o consultor, la contratante procederá de la siguiente manera:
 
-b).- Otorgará al contratista o consultor un plazo improrrogable de diez días hábiles, contados a partir de la fecha de la notificación, a efecto de que proceda a realizar el finiquito de la obra de manera conjunta con la contratante, entregando todos los documentos que se le facilitaron para la ejecución de la obra y para que exponga lo que a su interés convenga y aporte las pruebas que estime pertinentes.
+a). Notificará el inicio del procedimiento de rescisión del contrato al contratista o consultor por el incumplimiento en que haya incurrido, otorgándole un plazo improrrogable de diez días hábiles, contados a partir de la fecha de la notificación, para que exponga lo que a su interés convenga y aporte las pruebas que estime pertinentes.
 
-Si el contratista o consultor no comparece a finiquitar la obra, la contratante procederá a ello de manera unilateral, respetando los resultados a favor del contratista y continuará con el procedimiento;
+Desde el inicio del procedimiento la contratante, precautoriamente, se abstendrá de cubrir los importes de los trabajos ejecutados no liquidados, hasta que se otorgue el finiquito que proceda y ordenará la suspensión de toda actividad en obra. Si el contratista o consultor hace caso omiso de la suspensión, carecerá de legitimación para reclamar el pago de los trabajos ejecutados con posterioridad a dicha orden.
 
-c).- La contratante, inmediatamente después de vencido el término anterior, si fuere el caso, procederá a analizar, valorar y desahogar las pruebas si la naturaleza de las mismas lo permite y posteriormente, emitirá y notificará su resolución, sin que para ello hayan transcurrido más de diez días hábiles;
+Comunicado el inicio del procedimiento de rescisión, la contratante procederá a tomar inmediata posesión de los trabajos ejecutados levantando con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentren;
 
-d).- Si el contratista o consultor no hace uso de los medios de defensa legales, la rescisión quedará firme; y
+b). Transcurrido el término referido en el inciso anterior, si el contratista o consultor no comparece al procedimiento o no ofrece pruebas, la contratante emitirá la resolución procedente, dentro de los diez días hábiles siguientes.
 
-e).- Una vez firme la rescisión y realizado el finiquito, en el que deberá preverse además, el sobre-costo de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados, con o sin la participación del contratista o consultor, la contratante realizará las gestiones necesarias para hacer efectivas las garantías de cumplimiento y debida amortización de anticipo.
+c). Si el contratista o consultor ofrece pruebas, la contratante procederá a admitirlas y desahogarlas según la naturaleza de las mismas.
 
-La contratante podrá reconocer en el finiquito respectivo, el suministro de materiales y equipos no instalados o colocados en obra, siempre y cuando estos se ajusten a las especificaciones contratadas y sean de utilidad.
+Concluido el desahogo de las pruebas, la contratante, dentro de los diez días hábiles siguientes, emitirá la resolución fundada y motivada que proceda, notificándosela al contratista o consultor.
 
-En lo conducente, lo previsto en este artículo, será aplicable a la terminación anticipada de contrato; y
+En el supuesto de que en la resolución se determine la rescisión administrativa del contrato, en la misma se convocará al contratista o consultor a realizar el finiquito de la obra de manera conjunta con la contratante dentro de los treinta días naturales siguientes a la fecha de la notificación aludida; asimismo, se le requerirá para que dentro de los diez días naturales siguientes a la notificación de la misma, entregue a la contratante todos los documentos facilitados para la ejecución de la obra;
+
+d). En el finiquito se deberá prever el monto de las sanciones y cantidades a reintegrar, además del sobre-costo de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados.
+
+La contratante podrá reconocer en el finiquito respectivo, el suministro de materiales y equipos no instalados o colocados en obra, siempre y cuando éstos se ajusten a las especificaciones contratadas y sean de utilidad.
+
+Si el contratista o consultor no comparece a finiquitar la obra, la contratante procederá a ello de manera unilateral, respetando los resultados a favor del contratista, y
+
+e). De resultar procedente, la contratante realizará los trámites conducentes para hacer efectivas las garantías otorgadas en el contrato.
+
+En lo conducente, lo previsto en este artículo, será aplicable a la terminación anticipada de (sic) contrato, y
 
 III.- Cuando por causas de fuerza mayor o caso fortuito debidamente justificadas, además de las señaladas en esta Ley, se imposibilite la continuación de la obra o de los servicios, la contratante o el contratista o consultor, notificarán por escrito a la parte correspondiente la suspensión temporal del contrato, la que se deberá resolver, una vez valoradas las causas, en un plazo que no exceda de veinte días naturales, contados a partir de la fecha de recepción de la notificación; en caso de negativa, la parte interesada podrá recurrir a la autoridad administrativa o judicial, para demandar la declaratoria correspondiente.
 
@@ -1205,21 +1249,31 @@ La ejecución de los trabajos deberá iniciarse y concluirse, en la fecha señal
 
 Los titulares de los entes públicos que ejecuten obra, designarán por escrito con anterioridad a la iniciación de los trabajos, al supervisor que tendrá la representatividad de la contratante con facultades de supervisión, vigilancia, control y revisión de los trabajos, incluyendo la validación de las estimaciones de obra ejecutada, conceptos fuera de catálogo y volúmenes excedentes presentadas por los contratistas o consultores, y que se encargará de llevar la bitácora de obra, entre otras. Asimismo, cumplirá las demás responsabilidades que señala esta Ley y su Reglamento.
 
-La forma de pago se realizará a través de estimaciones de trabajos ejecutados o de facturas o recibos de honorarios en los casos de servicios relacionados con la obra, formulados bajo la responsabilidad del contratista o consultor, acompañados de la documentación que acredite la procedencia de su pago, con una periodicidad no mayor a treinta días naturales y le serán entregadas a la supervisión de la contratante para su revisión y autorización definitiva, procedimiento que no excederá de cinco días hábiles siguientes a la fecha de entrega.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+La forma de pago se realizará a través de estimaciones de trabajos ejecutados, facturas o recibos de honorarios en los casos de servicios relacionados con la obra, formulados bajo la responsabilidad del contratista o consultor, acompañados de la documentación que acredite la procedencia de su pago, con una periodicidad no mayor a treinta días naturales y le serán entregadas a la supervisión de la contratante para su revisión y autorización definitiva, procedimiento que no excederá de quince días naturales siguientes a la fecha de entrega.
 
 En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser resueltas y autorizadas dentro de dicho plazo, éstas se incorporarán en la siguiente estimación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 96.
 
-Cuando la supervisión sea realizada por contrato, tendrá las mismas facultades y responsabilidades descritas en el artículo anterior y la validación de las estimaciones del contratista o consultor, facturas o recibos de honorarios, para efectos de pago, deberán ser autorizadas por el residente de la supervisión externa, en un plazo no mayor de cinco días hábiles posteriores a la presentación de las estimaciones por el contratista.
+Cuando la supervisión sea realizada por contrato, tendrá las mismas facultades y responsabilidades descritas en el artículo anterior y la validación de las estimaciones del contratista o consultor, facturas o recibos de honorarios, para efectos de pago, deberán ser autorizadas por el residente de la supervisión externa, en un plazo no mayor de quince días naturales posteriores a su presentación.
 
 Los Ayuntamientos podrán facultar a la Dirección Municipal para los efectos señalados en el párrafo anterior, con los lineamientos, justificaciones y fundamentos que al efecto le establezca.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 97.
 
-Las estimaciones por trabajos ejecutados previamente autorizadas por la supervisión, deberán tramitarse para su pago por la contratante, en un plazo no mayor de cinco días hábiles, contados a partir de la fecha en que las hubiere recibido.
+Las estimaciones por trabajos ejecutados previamente autorizadas por la supervisión, deberán tramitarse para su pago por la contratante en un plazo no mayor de veinte días naturales contados a partir de la fecha en que las hubiere recibido.
 
 Las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
+Se prohíbe la cesión total o parcial de los derechos y obligaciones que se deriven de los contratos de obra pública a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, facturas o recibos de honorarios, que se podrán ceder a favor de instituciones financieras en cuyo caso se deberá contar con el consentimiento de la contratante y de la Secretaría de Finanzas y Administración o de la Tesorería Municipal, según corresponda.
 
 ###### Artículo 98.
 
@@ -1389,17 +1443,23 @@ En caso de que el resultado del dictamen arroje irregularidades, el órgano de c
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 118.
 
-Los contratistas o consultores y quienes infrinjan las disposiciones de esta Ley o las obligaciones contempladas en los contratos derivados de la misma, serán sancionados por el Ente Público respectivo, con multa equivalente a la cantidad de cincuenta a quinientas veces el salario mínimo general diario vigente en el Estado, elevado al mes en la fecha de la infracción.
+Los contratistas o consultores y quienes infrinjan las disposiciones de esta Ley o las obligaciones contempladas en los contratos derivados de la misma, serán sancionados por el Ente Público respectivo, con multa equivalente a la cantidad de ocho a quinientas veces el salario mínimo general diario vigente en el Estado, elevado al mes en la fecha de la infracción. La sanción que se imponga, deberá ser proporcional al costo de la obra contratada.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 119.
 
-Los servidores públicos que infrinjan las disposiciones de esta Ley serán sancionados de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+Los servidores públicos que infrinjan las disposiciones de esta Ley serán sancionados de conformidad con lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 120.
 
-Sin perjuicio de lo señalado en el artículo anterior y previa substanciación del procedimiento establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado, serán sancionados con la destitución del empleo, los servidores públicos que incurran en las siguientes conductas previstas en la presente Ley:
+Sin perjuicio de lo señalado en el artículo anterior y previa substanciación del procedimiento establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, serán sancionados con la destitución del empleo los servidores públicos que incurran en las siguientes conductas previstas en la presente Ley:
 
 I.- Recibir propuestas o celebrar contratos en las materias a que se refiere esta Ley, en desacato a lo previsto en el artículo 14 fracciones I, III, IV, V, VI, IX y X del presente ordenamiento;
 
@@ -1566,3 +1626,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 GERARDO LUIS RODRÍGUEZ OROZCO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
