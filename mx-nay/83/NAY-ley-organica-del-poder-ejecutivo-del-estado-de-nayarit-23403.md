@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2000-12-21"
+last_updated: "2005-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -237,9 +235,11 @@ XIII. Conocer y resolver, en el ámbito de su competencia, de los recursos admin
 
 XIV. Atender, verificar y dar respuesta a las recomendaciones que señalen los organismos públicos de defensa de los derechos humanos con relación a la actuación de los servidores públicos adscritos física y presupuestalmente a dicha Dependencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 31.
 
-Para el estudio, planeación, análisis, programación, ejecución, control, evaluación y despacho de los asuntos que corresponden a la Administración Pública Centralizada, el Poder Ejecutivo Estatal, contará con las siguientes dependencias:
+Para el estudio, planeación, análisis, programación, ejecución, control, evaluación y despacho de los asuntos que corresponden a la Administración Pública Centralizada, el Poder Ejecutivo estatal contará con las siguientes dependencias:
 
 I. Secretaría General de Gobierno;
 
@@ -257,9 +257,17 @@ VII. Secretaría de Desarrollo Rural;
 
 VIII. Secretaría de Desarrollo Económico;
 
-IX. Secretaría de Salud; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
-X. Procuraduría General de Justicia.
+IX. Secretaría de Turismo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
+X. Secretaría de Salud; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
+XI. Procuraduría General de Justicia.
 
 ### CAPITULO II
 
@@ -963,6 +971,8 @@ XXI. Coordinar con el gobierno federal y con las entidades federativas los progr
 
 XXII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 39.
 
 A la Secretaría de Desarrollo Económico le corresponden las siguientes atribuciones:
@@ -977,7 +987,7 @@ IV. Promover y apoyar la relación con empresarios locales, nacionales y extranj
 
 V. Generar y difundir en el estado una cultura empresarial, basada en parámetros de competitividad internacional;
 
-VI. Fomentar el incremento de la productividad en el trabajo entre los Sectores de la Producción; y en coordinación con la Secretaría de Educación Pública, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
+VI. Fomentar el incremento de la productividad en el trabajo entre los Sectores de la Producción; y en coordinación con la Secretaría de Educación pública, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
 
 VII. Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
 
@@ -995,37 +1005,95 @@ XIII. Formular, evaluar y promover la participación de todos los sectores invol
 
 XIV. Coadyuvar con la producción agropecuaria, pesquera y silvícola;
 
-XV. Intervenir, dentro del ámbito de su competencia, en el ordenamiento del desarrollo turístico y coadyuvar en la planificación de los asentamientos humanos en las zonas turísticas del estado;
+XV. Asesorar técnicamente a los ayuntamientos del estado y a quienes lo solicite, en el establecimiento de nuevas empresas y en la ejecución de proyectos productivos;
 
-XVI. Integrar y mantener actualizado el inventario de los recursos turísticos del estado; organizar, promover y coordinar las actividades necesarias para lograr la optimización de dichos recursos;
+XVI. Apoyar el desarrollo de agroindustrias en el estado;
 
-XVII. Asesorar técnicamente a los ayuntamientos del estado y a quienes lo solicite, en el establecimiento de nuevas empresas y en la ejecución de proyectos productivos;
+XVII. Promover la realización de ferias, seminarios, exposiciones y congresos industriales, comerciales y demás relacionados con el desarrollo económico del estado;
 
-XVIII. Apoyar el desarrollo de agroindustrias en el estado;
+XVIII. Promover la creación de parques y corredores industriales, buscando el desarrollo económico de conformidad con las leyes aplicables;
 
-XIX. Promover la realización de ferias, seminarios, exposiciones y congresos industriales, comerciales, turísticos y demás relacionados con el desarrollo económico del estado;
+XIX. Fomentar y apoyar las organizaciones de empresas para realizar programas de investigación y aplicación de tecnología en la industria estatal;
 
-XX. Promover la creación de parques y corredores industriales, buscando el desarrollo económico de conformidad con las leyes aplicables;
+XX. Fomentar y promover la exploración y explotación sustentable de los recursos naturales no renovables, de conformidad con las leyes aplicables;
 
-XXI. Fomentar y apoyar las organizaciones de empresas para realizar programas de investigación y aplicación de tecnología en la industria estatal;
+XXI. Previo acuerdo con el Gobernador del Estado, dar cumplimiento a los convenios en materia industrial, comercial artesanal y minera, de servicios, agropecuarios, silvícola y pesqueros;
 
-XXII. Fomentar y promover la exploración y explotación sustentable de los recursos naturales no renovables, de conformidad con las leyes aplicables;
+XXII. Organizar y fomentar la producción artesanal en el estado, promoviendo su comercialización;
 
-XXIII. Previo acuerdo con el Gobernador del Estado, dar cumplimiento a los convenios que en materia industrial, comercial, turística, artesanal y minera, de servicios, agropecuarios, silvícola y pesqueros;
+XXIII. Formular y proponer mecanismos para el fomento y protección del sector comercial de la Entidad;
 
-XXIV. Organizar y fomentar la producción artesanal en el estado, promoviendo su comercialización;
+XXIV. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios Federales o Estatales referentes a las actividades productivas;
 
-XXV. Formular y proponer mecanismos para el fomento y protección del sector comercial de la Entidad;
+XXV. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones; y
 
-XXVI. Promover, en coordinación con las dependencias federales, estatales y municipales, el mejoramiento de la imagen urbana, infraestructura y servicios en las zonas turísticas de la entidad;
+XXVI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-XXVII. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios Federales o Estatales referentes a las actividades productivas;
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
-XXVIII. Organizar, con la concurrencia de los municipios, a los prestadores de servicios turísticos a fin de elevar la calidad con que se prestan estos últimos;
+###### Artículo 39 Bis.
 
-XXIX. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones; y
+A la Secretaría de Turismo le corresponden las siguientes atribuciones:
 
-XXX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+I. Elaborar, ejecutar y evaluar los planes sectoriales y programas de la rama turística estatal y coordinar las acciones que al efecto sean necesarias con la Federación, los municipios del estado, otras entidades federativas y sus gobiernos municipales;
+
+II. Promover, fomentar, dirigir, coordinar, controlar y evaluar la ejecución de las políticas, programas y actividades de promoción y al desarrollo turístico del estado;
+
+III. Proponer al Gobernador del Estado las políticas, programas y proyectos relativos a la promoción y fomento de las actividades turísticas y ejecutarlos en el ámbito de su competencia;
+
+IV. Promover, detectar, revisar, evaluar y apoyar en su caso, todos aquellos proyectos o programas que impulsen el crecimiento turístico del estado;
+
+V. Participar conforme a la normatividad aplicable en las actividades de los fideicomisos relacionados con el turismo;
+
+VI. Intervenir, dentro del ámbito de su competencia, en el ordenamiento del desarrollo turístico;
+
+VII. Determinar los mecanismos necesarios para la creación, conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos del Estado, aplicando criterios de sustentabilidad ambiental, social y económica;
+
+VIII. Impulsar el desarrollo del turismo alternativo para proporcionar una mayor competitividad de los productos turísticos, promoviendo el desarrollo local y regional;
+
+IX. Fomentar el turismo en zonas arqueológicas, monumentos artísticos de interés cultural e intervenir en el ámbito de su competencia, en la administración y conservación de áreas recreativas de descanso, así como de otros atractivos típicos o naturales;
+
+X. Promover la seguridad del turista en acciones coordinadas con las instancias y dependencias estatales, federales y municipales;
+
+XI. Estimular la participación de los sectores social y privado con capitales nacionales y extranjeros para el desarrollo y habilitación de la infraestructura turística;
+
+XII. Fomentar el incremento de la productividad en el trabajo dentro del sector turístico;
+
+XIII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías de Educación pública y Desarrollo Económico;
+
+XIV. Formular, evaluar y promover los programas de promoción y divulgación turística del estado y sus municipios;
+
+XV. Emitir opinión a las dependencias correspondientes en la planificación de los asentamientos humanos en las zonas turísticas del estado;
+
+XVI. Integrar y mantener actualizado el inventario de los recursos turísticos del estado y el padrón estatal de prestadores de servicios turísticos;
+
+XVII. Coordinar la elaboración, análisis y difusión de estadísticas y demás datos relativos al desarrollo turístico del estado;
+
+XVIII. Llevar a cabo la medición y monitoreo de la actividad turística estatal y las variables que la afectan;
+
+XIX. Organizar, promover y coordinar las actividades necesarias para lograr la optimización de los recursos turísticos del estado;
+
+XX. Promover la realización de ferias, seminarios, exposiciones y congresos turísticos;
+
+XXI. Previo acuerdo con el Gobernador del Estado, dar cumplimiento a los convenios en materia turística y de servicios relativos;
+
+XXII. Promover, en coordinación con las dependencias federales, estatales y municipales, el mejoramiento de la imagen urbana, infraestructura y servicios en las zonas turísticas de la entidad;
+
+XXIII. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios Federales o Estatales referentes a las actividades turísticas;
+
+XXIV. Organizar, con la concurrencia de los municipios, a los prestadores de servicios turísticos a fin de elevar la calidad con que se prestan estos últimos;
+
+XXV. Promover y estimular en coordinación con las autoridades competentes, la creación de empresas y desarrollos turísticos ejidales o comunales, impulsando además los proyectos viables de turismo popular;
+
+XXVI. Promover de manera coordinada con los prestadores de servicios turísticos y los niveles de gobierno federal, estatal y municipal, viajes y grupos vacacionales, a través de instituciones, empresas, sindicatos y especialmente organizaciones de jóvenes y personas de la tercera edad, en condiciones de eficiencia, seguridad y economía;
+
+XXVII. Gestionar ante la dependencia correspondiente, el otorgamiento de concesiones para el aprovechamiento de rutas y circuitos con vehículos adecuados, sobre la base de garantizar plenamente la seguridad y la economía de los turistas dentro de las rutas de jurisdicción estatal;
+
+XXVIII. Fomentar la creación de consejos consultivos con la participación de los sectores públicos (sic), privado y social que coadyuven con la Secretaría de Turismo en el debido cumplimiento de sus obligaciones y atribuciones;
+
+XXIX. Preferentemente promover la coordinación del sector turismo con el agropecuario industrial del Estado, a efecto de garantizar el adecuado suministro de productos generados y procesados en la entidad;
+
+XXX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado, sin contravenir lo dispuesto por esta Ley.
 
 ###### Artículo 40.
 
@@ -1392,3 +1460,39 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Fernando González Díaz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 19 de septiembre del año 2005, debiendo ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los reglamentos de la Secretaría de Desarrollo Económico y de Turismo, se expedirán de conformidad a lo dispuesto por este decreto, dentro del término de noventa días hábiles a partir de la entrada en vigor del presente decreto; en tanto seguirán vigentes los reglamentos expedidos en lo que no se oponga al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En los treinta días siguientes a la entrada en vigor del presente decreto, se realizará el traspaso de los recursos humanos, materiales y técnicos de conformidad con el acuerdo de transferencia que al efecto disponga el titular del Poder Ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza la creación de la plaza de Secretario de Turismo, con cargo a las partidas presupuestales correspondientes a la Secretaría de Desarrollo Económico, correspondientes al ejercicio fiscal 2005.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo que no deberá exceder de 60 días a partir de la entrada en vigor del presente decreto, se deberán realizar los ajustes correspondientes al Decreto del Presupuesto de Egresos 2005, de conformidad al Programa de Transferencia de Recursos a que se refiere el artículo tercero transitorio de este decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que con motivo de esta reforma deban pasar de la competencia de la Secretaría de Desarrollo Económico a la Secretaría de Turismo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría de Turismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando la ley haga referencia a alguna atribución conferida a la Secretaría de Desarrollo Económico, relativa o vinculada con el sector turístico, dichas atribuciones se entenderán concedidas a la Secretaría de Turismo.
+
+###### ARTÍCULO OCTAVO.
+
+Los servidores públicos adscritos a la Secretaría de Desarrollo Económico que en cumplimiento de este decreto pasen a formar parte de la Secretaría de Turismo, en ninguna forma resultarán afectados en los derechos laborales que hubiesen adquirido.
