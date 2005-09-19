@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2005-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2233,9 +2233,11 @@ El auxilio no puede extremarse hasta causar directamente la muerte del suicida, 
 
 Al particular que ilegalmente prive a otro de su libertad por un término inferior a tres días, se le aplicará prisión de seis meses a cuatro años y multa hasta por cien días de salario mínimo vigente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 277.
 
-La pena aplicable será de uno a ocho años de prisión y multa hasta por doscientos días de salario, cuando la privación de la libertad no exceda de diez días y concurra alguna de las circunstancias siguientes:
+La pena aplicable será de uno a ocho años de prisión y multa hasta por doscientos días de salario, cuando la privación de la libertad exceda de tres días o concurra alguna de las circunstancias siguientes:
 
 I.- Se utilice violencia física o moral;
 
@@ -2827,6 +2829,12 @@ Este Decreto entrará en vigor seis meses después de su publicación en el Bole
 
 A partir del día en que entre en vigor el presente decreto, queda abrogado el Código Penal para el Estado de Baja California Sur publicado mediante Decreto 802 en el Boletín oficial del Gobierno del Estado número 01, en fecha 15 de enero de 1991, así como todas las disposiciones que se opongan al presente decreto.
 
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTÍCULO TERCERO.
+
+Para los hechos ejecutados antes de que entre en vigor el presente decreto, se continuará aplicando el código penal anterior, a menos que los acusados manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable en los términos de los artículos 10 al 20 del nuevo código.
+
 DADO EN EL SALON DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ, BAJA CALIFORNIA SUR, AL PRIMER DIA DEL MES DE MARZO DE 2005.
 
 DIP. CARLOS VIDAL YEE ROMO
@@ -2850,3 +2858,9 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+B.O. 19 DE SEPTIEMBRE DE 2005.
+
+UNICO.- El presente decreto entrará en vigor previa publicación en el Boletín Oficial del Gobierno del Estado, el día en que entre en vigor los decretos 1525 y 1526, que contienen los Códigos Penal y de Procedimientos Penales para el Estado de Baja California Sur, publicados en el Boletín Oficial del Gobierno del Estado en fecha 20 de marzo del año en curso.
