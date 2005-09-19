@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-07-22"
+last_updated: "2005-09-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -209,9 +209,9 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Un tribunal unitario con residencia en Boca del Río.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 48/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 36/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE SEPTIEMBRE DE 2005)</small>
 
-3.- Once juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y uno con sede en Córdoba.
+3.- Doce juzgados de distrito en el Estado de Veracruz: tres con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y uno con sede en Córdoba.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -245,9 +245,9 @@ X.- DECIMO CIRCUITO:
 
 3.- Cuatro juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 50/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 36/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE SEPTIEMBRE DE 2005)</small>
 
-4.- Cuatro juzgados de distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+4.- Tres Juzgados de distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
 
 XI.- DECIMOPRIMER CIRCUITO:
 
@@ -1452,3 +1452,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Las plantillas del personal previstas en los puntos segundo y quinto del presente acuerdo, se integrarán con las plazas actualmente a disposición de la Dirección General de Recursos Humanos, lo que no implica la creación de nuevas plazas.
+
+D.O.F. 19 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Este acuerdo entra en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Decimoquinto de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, que cambia de residencia a Xalapa.
