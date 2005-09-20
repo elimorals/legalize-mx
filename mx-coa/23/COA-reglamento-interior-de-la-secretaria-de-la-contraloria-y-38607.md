@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-la-contraloria-y-38607"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-16"
-last_updated: "2005-06-24"
+last_updated: "2005-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 16 de marzo de 2004.
 
@@ -106,6 +106,10 @@ a. Dirección de Calidad.
 b. Dirección de Políticas de Informática.
 
 c. Dirección de Control y Seguimiento de Proyectos de Modernización.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
+
+d. Dirección de Archivos.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2005)</small>
 
@@ -991,6 +995,54 @@ VII. Evaluar y dar seguimiento a la implementación de los procesos y procedimie
 
 VIII. Las demás que le confieran las disposiciones legales aplicables, el Secretario y/o el Subsecretario de su adscripción dentro de la esfera de sus atribuciones.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 30
+
+A (SIC). Corresponderá al titular de la Dirección de Archivos, en la esfera de su competencia y respecto de los Archivos Públicos del Poder Ejecutivo del Estado:
+
+I. Coadyuvar con el Instituto Coahuilense de Acceso a la Información Pública, en los términos de los convenios correspondientes, en la preservación de los archivos de transferencia o concentración y los de trámite y gestión a cargo de las dependencias y entidades de la Administración Pública del Estado.
+
+II. Formular y proponer a consideración de su superior jerárquico el programa de trabajo anual de la dependencia a su cargo, así como un Programa General que permita orientar los trabajos correspondientes, en el marco de las directrices y bases normativas que correspondan, en materia de archivos públicos, a excepción de los históricos, para las Dependencias y entidades del Poder Ejecutivo del Estado, a fin de que se facilite la política de transparencia y control documental.
+
+III. Establecer, con base en aquéllas que determine el Instituto Coahuilense de Acceso a la Información, las bases y directrices para organizar, coordinar, ejecutar y evaluar el funcionamiento de los archivos públicos, a excepción de los históricos, del Poder Ejecutivo del Estado de Coahuila, en los términos previstos por la Ley de Archivos Públicos del Estado.
+
+IV. Recibir, organizar, clasificar, catalogar, seleccionar y normar administrativamente en los términos de las disposiciones aplicables, la administración y conservación de los documentos del Poder Ejecutivo del Estado, a excepción de los históricos, a fin de que se conserve la memoria del quehacer documental, de la actuación de sus autoridades, de la legalidad de sus actuaciones y se de seguimiento al avance en la modernización de sus procedimientos.
+
+V. Establecer mecanismos para dar publicidad oportuna, veraz y objetiva a los documentos que obren en su poder, así como circular, distribuir, difundir y, en su caso, transferir, en los términos de las disposiciones aplicables, los documentos generado, por las dependencias y entidades del Poder Ejecutivo, a excepción de los históricos.
+
+VI. Desarrollar y proponer a su superior jerárquico las normas técnicas y los criterios de aplicación a que deberá sujetarse la planeación, programación y evaluación de las acciones que en materia de archivos públicos, a excepción de los históricos, lleven a cabo las dependencias y entidades de la Administración Pública Estatal.
+
+VII. Promover la organización y coordinación interinstitucional entre las Unidades de Enlace de las dependencias y entidades de la Administración Pública Estatal, en materia de archivos públicos, a excepción de los históricos, a fin de que funjan como mediadores administrativos con la perspectiva del modelo sistémico establecido por la Dirección a su cargo.
+
+VIII. Desarrollar y proponer a su superior jerárquico los proyectos de modernización archivística que impulsen la Ingeniería Documental.
+
+IX. Analizar y proponer soluciones, así como dar seguimiento a las necesidades del acervo documental de las dependencias y entidades del Poder Ejecutivo del Estado.
+
+X. Orientar, recomendar, supervisar, evaluar y capacitar al personal de las dependencias y entidades de la Administración Pública del Estado a fin de homologar sus funciones archivísticas.
+
+XI. Diseñar, desarrollar, implementar, coordinar y administrar el Software Informático para integrar y generar un acervo electrónico que permita hacer eficiente, ágil y transparente el uso de los documentos públicos, generados por las dependencias y entidades del Poder Ejecutivo del Estado.
+
+XII. Vigilar, en coadyuvancia del Instituto Coahuilense de Acceso a la Información, que las dependencias y entidades de la Administración Pública del Estado, cumplan y atiendan disposiciones aplicables en el rubro de la investigación, reproducción, resguardo, preservación, restauración, depuración y eliminación de los archivos públicos, a excepción de los históricos.
+
+XIII. Promover la automatización y modernización de los sistemas y procedimientos en materia de archivos públicos, a excepción de los históricos, utilizados en los órganos internos de control de la Administración Pública Estatal.
+
+XIV. Asistir técnicamente en la coordinación y desempeño del Software Electrónico que en materia de archivos públicos, a excepción de los históricos, utilizarán las dependencias y entidades de la Administración Pública Estatal.
+
+XV. Integrar y rendir un informe anual de actividades dentro de los términos indicados por el titular de la Secretaría de la Contraloría y Modernización Administrativa.
+
+XVI. Revisar, verificar y evaluar que las dependencias y entidades de la Administración Pública Estatal utilicen adecuadamente el software electrónico, sus accesorios y módulos para el manejo eficiente y eficaz de sus archivos.
+
+XVII. Mantener actualizado el sistema electrónico, así como la información adquirida por las dependencias y entidades de la Administración Pública del Estado en materia de archivonomía.
+
+XVIII. Realizar estudios y evaluaciones de las innovaciones tecnológicas que permitan estar a la vanguardia en materia de archivos públicos y sugerir los cambios pertinentes a su superior jerárquico.
+
+XIX. Desarrollar e implementar las normas y técnicas para la elaboración de manuales de organización y procedimientos para la Dirección a su cargo.
+
+XX. Evaluar y dar seguimiento a los distintos programas implementados en las dependencias y entidades de la Administración Pública Estatal en materia de archivos públicos.
+
+XXI. Las demás que le confieran las disposiciones legales aplicables, el Secretario y/o el Subsecretario de su adscripción dentro de la esfera de sus atribuciones.
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2005)</small>
 
 #### SECCIÓN IV. LAS UNIDADES ADSCRITAS A LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
@@ -1176,3 +1228,13 @@ P.O. 24 DE JUNIO DE 2005.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
