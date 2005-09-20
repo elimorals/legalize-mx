@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2005-05-30"
+last_updated: "2005-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2005.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -76,6 +76,14 @@ La soberanía estatal reside esencial y originariamente en el pueblo del Estado 
 ###### Artículo 5.
 
 En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución y las leyes del Estado establecen.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
+
+El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2004)</small>
 
@@ -1069,7 +1077,7 @@ XXXI. Asumir la representación política y jurídica del Municipio para tratar 
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
 
-XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisonales (sic), concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;
+XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisonales (sic), concejos concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;
 
 XXXIII. Ser el conducto para cubrir a los Municipios las Participaciones Federales que les correspondan conforme a las bases, montos y plazos que fije la Legislatura;
 
@@ -1361,11 +1369,11 @@ Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, s
 
 Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remunerado e incompatible con su función.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 100.
 
-Los jueces de primera instancia, durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán asimismo los mecanismos de ratificación.
+Los jueces de primera instancia, durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1383,11 +1391,11 @@ En cada distrito judicial habrá un juez o los jueces necesarios de primera inst
 
 En cada centro de readaptación social, se establecerá un juez ejecutor de sentencias, quien tendrá como atribuciones la ejecución de las penas privativas y restrictivas de la libertad personal.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 103.
 
-Los jueces de cuantía menor durarán en su encargo tres años, pudiendo ser ratificados por otro período y tendrán la competencia que les señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, y ejercerán su jurisdicción en el ámbito territorial que determine el pleno del Tribunal.
+Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, por periodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que le señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2301,7 +2309,7 @@ P.O. 9 DE ENERO DE 1982
 
 ###### ARTICULO UNICO.
 
-Las presente reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
 P.O. 13 DE MARZO DE 1982
 
@@ -2379,7 +2387,7 @@ P.O. 31 DE DICIEMBRE DE 1986
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta del Gobierno" del Estado, el cual entrará en vigor el día 1°. de Enero de 1987.
+Publíquese el presente Decreto en la "Gaceta del Gobierno" del Estado, el cual entrará en vigor el día 1° de Enero de 1987.
 
 P.O. 20 DE OCTUBRE DE 1988
 
@@ -2612,3 +2620,19 @@ P.O. 30 DE MAYO DE 2005.
 PRIMERO.- Publíquese este decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor ciento veinte días después de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+P.O. 20 DE SEPTIEMBRE DE 2005.
+
+DECRETO No. 163, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PARRAFOS AL ARTICULOS 5 DE LA CONSTITUCION.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 20 DE SEPTIEMBRE DE 2005.
+
+DECRETO No. 164, POR EL QUE SE REFORMAN LOS ARTICULOS 100 Y 103 DE LA CONSTITUCION.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
