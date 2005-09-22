@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-super-de-34589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-19"
-last_updated: "2003-11-19"
+last_updated: "2005-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-09-30"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS SUPER DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, PUBLICADO EN EL D.O.F. EL 22 DE SEPTIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 19 de noviembre de 2003.
 
@@ -220,3 +222,15 @@ Secretario del H. Consejo Directivo
 Lic. Eduardo Antonio Ancona González
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Funcionamiento de los Concursos Súper de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 19 de noviembre de 2003.
+
+Tercero.- Se reforman los artículos 3o., 10o. y 31o. del Reglamento del sorteo Melate-Revancha, artículos 3o. y 25o. del Reglamento del sorteo Chispazo, artículos 3o., 11o. y 28o. del Reglamento del sorteo Tris de números, todos de Pronósticos para la Asistencia Pública, cuando en ellos se haga referencia a la denominación "Concurso Súper" se entenderá como sorteos Instantáneos en Línea.
+
+Cuarto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán resueltos conforme a lo dispuesto al Reglamento de los Concursos Súper de Pronósticos para la Asistencia Pública, abrogado.
