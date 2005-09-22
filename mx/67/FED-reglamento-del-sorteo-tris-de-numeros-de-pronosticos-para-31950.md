@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-tris-de-numeros-de-pronosticos-para-31950
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2004-06-11"
+last_updated: "2005-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31950&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -57,7 +57,9 @@ Para los efectos de este reglamento, se entenderá por:
 
 El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
 
-Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
+> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo Instantáneo en Línea de Pronósticos.
 
 7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
 
@@ -137,7 +139,9 @@ b) Tendrá derecho al pago de su premio, siempre y cuando se corrobore que los c
 
 Los boletos de Tris de números son documentos al portador y no títulos de crédito. Su adquisición entraña la celebración de un contrato aleatorio de juego con cláusulas de adhesión, el cual genera los derechos y obligaciones que se establecen en el presente reglamento.
 
-Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
+> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo Instantáneo en Línea de Pronósticos.
 
 ###### Artículo 12o.
 
@@ -199,6 +203,14 @@ El representante de la Dirección Técnica hará entrega al inspector designado 
 
 A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
 
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 18o.
+
+bis.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del sorteo.
+
+En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
+
 ### Capítulo IV. De los premios
 
 ###### Artículo 19o.
@@ -229,13 +241,19 @@ k) La modalidad supercandado de seis tendrá un premio de 896.0573 veces su prec
 
 l) La modalidad supercandado de cuatro tendrá un premio de 1,344.0860 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 20o.
 
-Se considera fondo de cada sorteo el valor conjunto de todas las selecciones de Tris de Números que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para efectos de su participación en el sorteo.
+Se considera fondo de cada sorteo el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el sorteo.
 
-De dicho fondo se destinará un cincuenta y tres punto siete mil seiscientos treinta y cuatro por ciento (53.7634%) para premiación de los ganadores y el porcentaje que autorice el Consejo Directivo de Pronósticos para formar la Reserva de Desviaciones en Premios.
+Dicho fondo se aplicará como sigue:
 
-De la cantidad restante se cubrirán las comisiones de los agentes autorizados y los gastos de administración de Pronósticos que también apruebe su Consejo Directivo, y el remanente se entregará a la Tesorería de la Federación para ser destinado a la asistencia pública.
+Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+
+El monto destinado a premiación para los participantes ganadores, se determinará conforme al artículo 19o.del presente Reglamento.
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
 ### Capítulo V. De las reclamaciones
 
@@ -281,7 +299,9 @@ El derecho al cobro del premio caducará en un plazo de sesenta días naturales 
 
 Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a rembolsar a los participantes el valor de sus Tris de números previa entrega material y cancelación de los boletos, sin ulterior responsabilidad.
 
-Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
+> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo sorteos Instantáneos en Línea de Pronósticos.
 
 ###### Artículo 29o.
 
@@ -306,3 +326,25 @@ D.O.F. 11 DE JUNIO DE 2004.
 Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+ACUERDO QUE REFORMA EL ARTICULO 20 Y ADICIONA EL ARTICULO 18 BIS.
+
+Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de los citados Reglamentos, serán resueltos conforme a los anteriores.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+REGLAMENTO POR EL QUE REFORMAN LOS ARTICULOS 3o, 11 Y 28.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Funcionamiento de los Concursos Súper de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 19 de noviembre de 2003.
+
+Tercero.- Se reforman los artículos 3o., 10o. y 31o. del Reglamento del sorteo Melate-Revancha, artículos 3o. y 25o. del Reglamento del sorteo Chispazo, artículos 3o., 11o. y 28o. del Reglamento del sorteo Tris de números, todos de Pronósticos para la Asistencia Pública, cuando en ellos se haga referencia a la denominación "Concurso Súper" se entenderá como sorteos Instantáneos en Línea.
+
+Cuarto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán resueltos conforme a lo dispuesto al Reglamento de los Concursos Súper de Pronósticos para la Asistencia Pública, abrogado.
