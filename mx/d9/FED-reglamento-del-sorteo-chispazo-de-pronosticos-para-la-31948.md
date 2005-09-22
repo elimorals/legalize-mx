@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2005-04-06"
+last_updated: "2005-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 18 de junio de 2003.
 
@@ -147,17 +147,29 @@ El orden y secuencia en que se extraigan las 5 (cinco) esferas numeradas de la t
 
 Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del Inspector de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados ganadores en las distintas categorías de premiación.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 11o.
 
 Se considera fondo de cada sorteo el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el sorteo.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
 Dicho fondo se aplicará como sigue:
 
-> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
 El 50% destinado a premiación de los participantes ganadores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
 De la cantidad restante se cubrirán las comisiones a los agentes autorizados, los gastos de administración de Pronósticos que apruebe su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para el sostenimiento de la Asistencia Pública.
 
@@ -212,6 +224,14 @@ Dichos funcionarios estarán presentes durante todo el desarrollo y celebración
 El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
 
 A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
+
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 15o.
+
+bis.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del sorteo.
+
+En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes:
 
 ### Capítulo IV. De las reclamaciones
 
@@ -271,7 +291,9 @@ El derecho al cobro del premio caducará en un plazo de 60 días naturales, cont
 
 Sólo por caso fortuito o fuerza mayor, Pronósticos suspenderá o cancelará un sorteo ya iniciado. En este supuesto, la Institución reembolsará a los interesados el importe de sus boletos, sin incurrir en ulterior responsabilidad.
 
-En el caso de que el boleto contenga la participación dentro del sorteo SUPER únicamente se reembolsará el valor correspondiente al Chispazo, no así el de aquel.
+> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+En el caso de que el boleto contenga la participación dentro del sorteo Instantáneo en Línea únicamente se reembolsará el valor correspondiente al Chispazo, no así el de aquel.
 
 ###### Artículo 26o.
 
@@ -306,3 +328,25 @@ Segundo.- Se reforman los artículos 2o., 3o., 4o., 6o., 7o., y 11o. del Reglame
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán resueltos conforme a lo dispuesto en el Reglamento del Sorteo Chispazo de Pronósticos para la Asistencia Pública, derogado.
 
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+ACUERDO QUE REFORMA EL ARTICULO 11 Y ADICIONA UN ARTICULO 15 BIS.
+
+Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de los citados Reglamentos, serán resueltos conforme a los anteriores.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+ACUERDO QUE REFORMA LOS ARTICULOS 3o. Y 25o.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Funcionamiento de los Concursos Súper de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 19 de noviembre de 2003.
+
+Tercero.- Se reforman los artículos 3o., 10o. y 31o. del Reglamento del sorteo Melate-Revancha, artículos 3o. y 25o. del Reglamento del sorteo Chispazo, artículos 3o., 11o. y 28o. del Reglamento del sorteo Tris de números, todos de Pronósticos para la Asistencia Pública, cuando en ellos se haga referencia a la denominación "Concurso Súper" se entenderá como sorteos Instantáneos en Línea.
+
+Cuarto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán resueltos conforme a lo dispuesto al Reglamento de los Concursos Súper de Pronósticos para la Asistencia Pública, abrogado.
