@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-protouch-33592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-01"
-last_updated: "2004-06-11"
+last_updated: "2005-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-21"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de septiembre de 2003.
 
@@ -225,13 +225,19 @@ Dichos funcionarios estarán presentes durante todo el desarrollo y celebración
 
 La Selección de Ganadores deberá iniciarse después de que se realice o sortee el último partido de los programados para un determinado concurso.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 23o.
 
 Se considera fondo de cada concurso el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el concurso Protouch inicial y Protouch.
 
 Dicho fondo se aplicará como sigue:
 
-40% destinado a premiación de los participantes ganadores y con el resto se cubrirán las comisiones a los agentes autorizados, los gastos de administración de Pronósticos que apruebe su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para el sostenimiento de la Asistencia Pública.
+Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+
+El 40% destinado a premiación de los concursantes ganadores.
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
 ###### Artículo 24o.
 
@@ -272,6 +278,14 @@ Por ningún concepto, la quiniela sencilla que obtenga el primer premio podrá s
 Una quiniela sencilla ganadora de segundo premio tampoco podrá ser ganadora del tercer premio.
 
 Pronósticos podrá modificar las bases señaladas en este artículo en aquellos concursos que, por su naturaleza y para beneficio del público, así lo requieran; en estos casos, se dará al procedimiento a seguir la más amplia difusión.
+
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 27o.
+
+bis.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del concurso.
+
+En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
 ### CAPITULO V. De las reclamaciones
 
@@ -358,3 +372,11 @@ D.O.F. 11 DE JUNIO DE 2004.
 Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de los citados Reglamentos, serán resueltos conforme a los anteriores.
