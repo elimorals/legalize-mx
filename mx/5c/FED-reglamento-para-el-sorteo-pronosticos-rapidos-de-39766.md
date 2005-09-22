@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-sorteo-pronosticos-rapidos-de-39766"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2004-06-11"
+last_updated: "2005-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-03"
 
 REGLAMENTO PARA EL SORTEO PRONOSTICOS RAPIDOS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de agosto de 1999.
 
@@ -105,15 +105,23 @@ b) Cuando Pronósticos compruebe que los dispositivos de seguridad del boleto co
 
 c) Cuando los módulos de almacenamiento no identifiquen la información requerida para su registro.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO DECIMO SEGUNDO.
 
-El fondo destinado a la estructura de premios para cada uno de los Sorteos, no podrá ser menor al 50% (cincuenta por ciento) del valor total de la emisión de los boletos correspondientes a dicho Sorteo.
+Las ventas captadas se distribuirán de la siguiente forma:
+
+Un 10% a los agentes como comisión por las ventas que realicen.
+
+Un mínimo de 50% destinado a premiación de los participantes ganadores.
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO DECIMO TERCERO.
 
-La cantidad de boletos, los premios y sus Reglas podrán ser variables según el Sorteo y deberán darse a conocer para que los concursantes estén debidamente informados.
+La cantidad de boletos, los premios y sus reglas podrán ser variables según el sorteo y deberán darse a conocer para que los concursantes estén debidamente informados.
 
 El fondo de cada Sorteo se aplicará como sigue:
 
@@ -185,6 +193,12 @@ Los agentes autorizados de Pronósticos atenderán fielmente el contenido de est
 
 Es aplicable a los agentes autorizados de Pronósticos para efectuar la venta de boletos, el Reglamento publicado en el Diario Oficial de la Federación el 25 de mayo de 1978 en el que se establecen sus derechos, obligaciones y responsabilidades.
 
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO VIGESIMO CUARTO BIS.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del sorteo.
+
+En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
+
 ### CAPITULO III. DEL PAGO DE PREMIOS
 
 ###### ARTICULO VIGESIMO QUINTO.
@@ -224,3 +238,11 @@ D.O.F. 11 DE JUNIO DE 2004.
 Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2005.
+
+Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de los citados Reglamentos, serán resueltos conforme a los anteriores.
