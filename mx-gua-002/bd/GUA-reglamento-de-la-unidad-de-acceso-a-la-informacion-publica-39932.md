@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-3993
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-04"
-last_updated: "2004-06-04"
+last_updated: "2005-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE ACAMBARO, GTO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de junio de 2004.
 
@@ -57,6 +57,12 @@ V.- DEPENDENCIA.- Órgano de la administración pública paramunicipal.
 VI.- ENTIDAD.- Órgano de la administración pública paramunicipal.
 
 VII.- CONSULTA.- Respuesta positiva a las solicitudes de Acceso a la Información, no incluye copias, impresiones, discos, etc.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 2° Bis.
+
+Para efectos del presente reglamento, se entenderá como días inhábiles los siguientes. 1° de enero, 5 de febrero, 21 de marzo, 1ro de mayo, 16 de septiembre y 26 de septiembre de cada 6 años cuando corresponda la trasmisión del Poder Ejecutivo Estatal, el 20 de noviembre, el 1° de diciembre de cada 6 años cuando corresponda al cambio del Poder Ejecutivo Federal, el 25 de diciembre, los que determine el Ayuntamiento por acuerdo de Sesión y los días en que no se labore en la Administración Pública Municipal.
 
 ###### Artículo 3°.
 
@@ -519,3 +525,11 @@ SECRETARIO DEL H. AYUNTAMIENTO
 ING. JOSE ANGEL PARRALES ESPINOSA
 
 (RUBRICAS)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2005.
+
+Artículo Primero.- Las presentes adiciones entraran en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Estado, debiéndose además publicarse en la Gaceta Municipal.
+
+Artículo segundo.- Se derogan todas aquellas disposiciones que se opongan a la presente.
