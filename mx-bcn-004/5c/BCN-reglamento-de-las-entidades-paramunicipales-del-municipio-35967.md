@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2003-12-19"
+last_updated: "2005-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -571,9 +571,11 @@ V.- Observar la normatividad aplicable a la administración pública;
 
 VI.- Las demás que este Reglamento y otras disposiciones legales les impongan.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 64.
 
-El Sindico Procurador, designará a un comisario quien tendrá a su cargo la vigilancia y control interno del organismo descentralizado.
+El Sindico Procurador, designara a un comisario, con cargo al presupuesto de la Sindicatura Municipal, quien tendrá bajo su responsabilidad la vigilancia y control interno del organismo descentralizado.
 
 ###### ARTICULO 65.
 
@@ -664,3 +666,19 @@ Los integrantes propietarios de los Órganos de Gobierno de las Entidades Paramu
 Los integrantes propietarios de los Órganos de Gobierno de las Entidades Paramunicipales pertenecientes a la Administración Pública, así como los representantes de organismos sociales de la ciudad de las Entidades Paramunicipales que actualmente no cuenten con ellos, serán nombrados en un plazo no mayor de 90 días a partir de la aprobación de las modificaciones o reformas de reglamentos, acuerdos, estatutos o escrituras constitutivas de las Entidades Paramunicipales.
 
 Dado en la Sala de Cabildo del Palacio Municipal, a la fecha de su presentación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor en el momento de su aprobación y se deberán Publicar en el Periódico Oficial del Estado de Baja California y en un Diario de los de mayor circulación local para su difusión ciudadana.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones municipales que se opongan a las presentes reformas y adiciones.
+
+###### ARTICULO TERCERO.
+
+Realícense los ajustes presupuestales que correspondan a efecto de dar cumplimiento a la presente adición y reforma.
