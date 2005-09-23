@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-municipal-de-tijuana-38960
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2004-04-09"
+last_updated: "2005-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -167,6 +167,10 @@ b).- Departamento de Observaciones del Congreso
 
 c).- Departamento de Cuenta patrimonial
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2005)</small>
+
+d).- Comisario
+
 II.- Subdirección de Supervisión de Obras y Concesiones
 
 a).- Departamento de Obra Pública.
@@ -298,3 +302,17 @@ II.- Departamento de Sistemas.
 PRIMERO.- El presente reglamento entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California, y deberá publicarse en un diario de mayor circulación en el Municipio.
 
 SEGUNDO.- Se abrogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes disposiciones.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor en el momento de su aprobación y se deberán Publicar en el Periódico Oficial del Estado de Baja California y en un Diario de los de mayor circulación local para su difusión ciudadana.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones municipales que se opongan a las presentes reformas y adiciones.
+
+ARTICULO TRECERO (SIC).- Realícense los ajustes presupuestales que correspondan a efecto de dar cumplimiento a la presente adición y reforma.
