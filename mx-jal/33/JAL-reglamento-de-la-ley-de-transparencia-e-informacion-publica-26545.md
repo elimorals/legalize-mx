@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-transparencia-e-informacion-publica-265
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-07"
-last_updated: "2002-11-07"
+last_updated: "2005-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE TRANSPARENCIA E INFORMACION PUBLICA PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA E INFORMACION PUBLICA PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 24 DE SEPTIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial El Estado de Jalisco, el jueves 7 de noviembre de 2002.
 
@@ -214,3 +216,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor en la misma fecha que adquiera vigencia el decreto 20867 del Congreso del Estado de Jalisco, mediante el cual se expide la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se abroga el Acuerdo 85/2002 publicado en el Periódico Oficial "El Estado de Jalisco" el día 07 de noviembre de 2002, en su sección ordinaria.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y de manera jerárquica que se opongan al presente Reglamento.
