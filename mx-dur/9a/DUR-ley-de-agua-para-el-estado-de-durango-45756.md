@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2005-07-07"
+last_updated: "2005-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -695,7 +695,9 @@ Los organismos operadores Municipales a que se refiere el presente artículo, po
 
 Los organismos operadores municipales tendrán a su cargo:
 
-I.- Las atribuciones a que se refiere el artículo 47 de la presente Ley, con excepción de las fracciones IX y XIV;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
+I. Las atribuciones a que se refiere el artículo 34 de la presente Ley, con excepción de las fracciones IX y XXIII;
 
 II.- Proponer al Ayuntamiento las cuotas y tarifas de conformidad con lo establecido por el Capítulo VI del Título Cuarto de la presente Ley;
 
@@ -815,13 +817,17 @@ Los cargos de los miembros del Consejo Directivo serán honoríficos y, por lo m
 
 El Consejo Directivo celebrará una sesión ordinaria bimestral y las extraordinarias que sean necesarias, cuando las convoque el Presidente, el Director General o la mayoría de sus miembros.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 53.
 
-Se considera que habrá quórum cuando concurran como mínimo la mitad más uno de los integrantes del Consejo Directivo, siempre que esté su Presidente o Vicepresidente. Las decisiones se tomarán por mayoría de votos de los miembros y en caso de empate, el Presidente y en su ausencia el Vicepresidente, tendrán voto de calidad. El Director General del organismo operador asistirá a las sesiones del Consejo Directivo con voz y voto.
+Se considera que habrá quórum cuando concurran como mínimo la mitad más uno de los integrantes del Consejo directivo, siempre que esté su presidente o vicepresidente. Las decisiones se tomarán por mayoría de votos de los miembros y en caso de empate, el presidente y en su ausencia el vicepresidente, tendrán voto de calidad. El Director General del Organismo Operador asistirá con voz a las sesiones del Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 54.
 
-Podrá formar parte de las sesiones del Consejo Directivo, con voz pero sin voto, a representantes de las dependencias Federales o Estatales, así como del municipio, cuando se trate algún asunto en que, por su competencia o jurisdicción deban de participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo.
+Podrán formar parte de las sesiones del Consejo Directivo, con voz pero sin voto, los representantes de las dependencias federales o estatales así como del municipio cuando se trate algún asunto en que, por su competencia o jurisdicción, deban de participar, así como representantes de los usuarios que formen parte del Consejo Consultivo.
 
 ###### Artículo 55.
 
@@ -2031,7 +2037,9 @@ I.- Proponer a la Comisión las normas técnicas necesarias para que los órgano
 
 II.- Vigilar constantemente que los órganos operadores municipales, intermunicipales y concesionarios, den el mantenimiento adecuado a sus pozos, para así evitar fugas de agua que puedan generar desabasto a los usuarios;
 
-III.- Promover ante la Comisión y los Consejos de Cuencas que se encuentren integrados en el Estado, las recomendaciones necesarias a fin de que los mantos acuíferos sean explotados en los términos y conforme a la normatividad aplicable, y así evitar que los mismos se conserven en las mejores condiciones;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
+III.- Promover ante la Comisión y los Consejos de Cuencas que se encuentren integrados en el Estado, las recomendaciones necesarias a fin de que los mantos acuíferos sean explotados en los términos y conforme a la normatividad aplicable y que los mismos se conserven en las mejores condiciones;
 
 IV.- Proponer a la Comisión políticas que generen una mejor prestación a los usuarios de los servicios que proporcionan los órganos operadores municipales, intermunicipales y concesionarios;
 
@@ -2119,9 +2127,13 @@ I.- 100 a 1000, en el caso de violación a la fracción III;
 
 II.- 500 a 2000, en el caso de violación a las fracciones I, II, XXI y XXIV;
 
-III.- 1000 a 4,000 en el caso de violación a las fracciones II y XIX;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
 
-IV.- 2000 a 10,000 en el caso de violación a las fracciones V, VI, XXII y XXIV; y
+III.- 1000 a 4000 en el caso de violación a las fracciones VII y XIX;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
+IV.- 2000 y 10,000 en el caso de violación a las fracciones V, VI, XXII y XXVI; y
 
 V.- Cualquier otra infracción se sancionará con 100 cuotas.
 
@@ -2183,7 +2195,9 @@ V.- No cumplir con las condiciones establecidas en los acuerdos de creación de 
 
 VI.- En caso de concesionarios y contratistas, no cumplir con las obligaciones de conservación y mantenimiento de los sistemas destinados a los servicios públicos;
 
-VII.- Incumplir con lo establecido en el segundo párrafo del artículo 91; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
+VII.- Incumplir con lo establecido por el artículo 92 del presente ordenamiento; y
 
 VIII.- Cualquier otra infracción a esta Ley o a su Reglamento que no esté expresamente prevista en este Título.
 
@@ -2275,6 +2289,10 @@ Los asuntos que se encuentren en trámite o en proceso en alguno de los organism
 
 Los Ayuntamientos, tendrán un plazo hasta de cuarenta cinco días, contados a partir de la fecha de entrada en vigor del presente decreto, para aprobar y expedir los acuerdos de creación de los organismos establecidos en las fracciones I, II y III del artículo 28 de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
+En tanto se expiden los acuerdos de creación o transformación de los organismos operadores municipales, conforme alguna de las modalidades establecidas en las fracciones I, II y III del artículo 28 de la presente Ley, los organismos ya existentes continuarán rigiéndose en cuanto a sus actos por los ordenamientos legales que les dieron origen, en tanto no se opongan con disposición expresa contenida en esta ley, en cuyo caso, dichos organismos observarán las disposiciones del presente ordenamiento.
+
 Los Ayuntamientos tendrán un plazo hasta de cuarenta cinco días, contados a partir de la fecha de entrada en vigor del presente decreto, para aprobar y expedir el reglamento interior de los organismos a que se refiere el párrafo anterior y el acuerdo de incorporación al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, mismo que habrá de notificar a la Comisión dentro de los cinco días hábiles siguientes a su aprobación.
 
 Artículo Cuarto.- Se derogan las demás disposiciones que se opongan a la presente Ley.
@@ -2292,6 +2310,10 @@ Los derechos y obligaciones contractuales, contraídos por las dependencias y lo
 En el caso de que esta Ley establezca una denominación distinta a alguna dependencia cuyas atribuciones estén conferidas por leyes vigentes anteriores a la expedición del presente decreto, dichas atribuciones se entenderán concedidas a la dependencia que observe tales funciones en términos del presente Decreto.
 
 Artículo Sexto.- Los derechos y obligaciones contractuales, contraídos por las dependencias y los organismos operadores, cuya denominación se vea cambiada o modificada a consecuencia del presente Decreto, serán atribuidos a la dependencia que las sustituye.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2005)</small>
+
+En caso de que los organismos operadores ya existentes no cambien su denominación, se entenderán constituidos conforme a los ordenamientos legales que les dieron origen y que se enumeran en el artículo tercero transitorio de la Ley de Aguas para el Estado de Durango, para los efectos de que se acrediten su personalidad jurídica, en cuyo caso, los Ayuntamientos deberán ajustar su estructura y funcionamiento en términos de la Ley de Aguas para el Estado de Durango, mediante el acuerdo de transformación respectivo.
 
 Artículo Séptimo.- Los integrantes del Consejo Consultivo de la Comisión Estatal del Agua serán propuestos por el Ejecutivo del Estado, en un plazo no mayor a 30 días posteriores a la Instalación de la Comisión del Agua del Estado de Durango.
 
@@ -2334,3 +2356,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
