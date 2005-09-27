@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-universidad-tecnologica-del-valle-2514
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-14"
-last_updated: "2002-06-14"
+last_updated: "2005-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 14 de junio de 2002.
 
@@ -135,13 +135,25 @@ III. Dirección de División de Informática;
 
 IV. Dirección de División de Tecnología Ambiental;
 
-V. Dirección de Vinculación;
+> <small>(REFORMADA, G.G. 27 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Dirección de Administración y Finanzas; y
+V. Dirección de División de Comercialización.
 
-VII. Abogado General.
+> <small>(REFORMADA, G.G. 27 DE SEPTIEMBRE DE 2005)</small>
 
-El Rector contará con el numero de servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, con base en la normatividad aplicable y de acuerdo con el presupuesto de egresos respectivo.
+VI. Dirección de Vinculación.
+
+> <small>(REFORMADA, G.G. 27 DE SEPTIEMBRE DE 2005)</small>
+
+VII. Dirección de Administración y Finanzas.
+
+> <small>(ADICIONADA, G.G. 27 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. Abogado General.
+
+> <small>(REFORMADO, G.G. 27 DE SEPTIEMBRE DE 2005)</small>
+
+La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES
 
@@ -291,6 +303,32 @@ X. Promover la celebración de convenios de intercambio académico en materia de
 
 XI. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
+> <small>(REFORMADO, G.G. 27 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 18 Bis.
+
+Corresponde a la Dirección de División de Comercialización:
+
+I. Ejecutar los planes y programas de estudio de la División para el cumplimiento del proceso educativo;
+
+II. Vigilar que los talleres y laboratorios de la Dirección se encuentren en óptimas condiciones, con el fin de apoyar las actividades académicas;
+
+III. Promover la superación académica, aplicando nuevas tecnologías en materia de comercialización;
+
+IV. Proponer al Rector los mecanismos y lineamientos para convocar y seleccionar mediante concursos de oposición al personal docente de la División;
+
+V. Realizar desarrollo tecnológico en materia de comercialización;
+
+VI. Dar seguimiento a la matricula de la División, así como promover acciones de difusión del programa educativo de la División;
+
+VII. Proponer sistemas de admisión de los alumnos a la Universidad, realizando el seguimiento de su permanencia en la División;
+
+VIII. Promover la coordinación con el sector productivo de la región, para que los alumnos de la División realicen prácticas profesionales;
+
+IX. Promover la celebración de convenios de intercambio académico en materia de comercialización, con instituciones educativas; así como con los sectores público, social y privado; y
+
+X. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
+
 ###### Artículo 19.
 
 Corresponde a la Dirección de Vinculación:
@@ -390,3 +428,11 @@ ING. JUAN MANUEL PRADO ESPINOSA
 RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 27 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
