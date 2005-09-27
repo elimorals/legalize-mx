@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-260
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-14"
-last_updated: "2002-06-25"
+last_updated: "2005-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 14 de septiembre de 2000.
 
@@ -43,37 +43,43 @@ La Procuraduría General de Justicia del Estado de Michoacán, cuyo titular es e
 
 I. Subprocuradurías Regionales de Justicia;
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
-II. Fiscalía Especial para la Atención del Delito de Violencia Familiar;
+II. Fiscalía para la Atención del Delito de Violencia Familiar;
 
-III. Direcciones Generales;
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
-IV. Dirección General Jurídica Consultiva;
+III. Fiscalía para la Atención de Asuntos Especiales;
 
-V. Visitaduría General;
+IV. Direcciones Generales;
 
-VI. Secretaría Técnica;
+V. Dirección General Jurídica Consultiva;
 
-VII. Dirección General de Servicios Periciales;
+VI. Visitaduría General;
 
-VIII. Dirección General de Servicios Administrativos;
+VII. Secretaría Técnica;
 
-IX. Dirección de Prevención del Delito y Participación Ciudadana;
+VIII. Dirección General de Servicios Periciales;
 
-X. Dirección de Relaciones Públicas y Comunicación Social;
+IX. Dirección General de Servicios Administrativos;
 
-XI. Direcciones Regionales de Averiguaciones Previas;
+X. Dirección de Prevención del Delito y Participación Ciudadana;
 
-XII. Direcciones Regionales de Control de Procesos;
+XI. Dirección de Relaciones Públicas y Comunicación Social;
 
-XIII. Policía Ministerial;
+XII. Direcciones Regionales de Averiguaciones Previas;
 
-XIV. Dirección de Planeación, Informática y Estadística;
+XIII. Direcciones Regionales de Control de Procesos;
 
-XV; Asesorías; y
+XIV. Policía Ministerial;
 
-XVI. Jefaturas de Departamentos.
+XV. Dirección de Planeación, Informática y Estadística;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
+
+XVI. Asesorías; y,
+
+XVII. Jefaturas de Departamentos.
 
 ### CAPITULO II. Del Titular de la Procuraduría General de Justicia
 
@@ -141,13 +147,13 @@ Las Subprocuradurías Regionales de Justicia estarán ubicadas en las ciudades d
 
 Las Subprocuradurías Regionales comprenderán los Distritos Judiciales siguientes: La de Morelia se integra con Pátzcuaro, Zinapécuaro y Morelia; Zamora con Zacapu , Puruándiro, La Piedad, Jiquilpan, Sahuayo, Los Reyes, Tanhuato y Zamora; Uruapan incluye Tacámbaro, Ario de Rosales y el propio Uruapan; Apatzingán comprende Coalcomán y el mismo Apatzingán; Lázaro Cárdenas incluye Arteaga, Coahuayana y el propio Lázaro Cárdenas; Zitácuaro comprende Hidalgo, Maravatio, Huetamo y el mismo Zitácuaro.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
-Artículo 5 bis. Se crea la Fiscalía Especial para la Atención del Delito de Violencia Familiar, como un órgano desconcentrado de la Procuraduría, con jurisdicción en todo el territorio estatal.
+Artículo 5 bis. Se crean las Fiscalías para la Atención del Delito de Violencia familiar y para la Atención de Asuntos Especiales, como órganos desconcentrados de la Procuraduría, con jurisdicción en todo el territorio estatal.
 
-Al frente de esta Fiscalía habrá un titular, agente del Ministerio Público, con las atribuciones legales respectivas.
+Al frente de cada fiscalía habrá un titular, Agente del Ministerio Público, con las atribuciones legales respectivas.
 
-Esta Fiscalía se integrará con las unidades técnicas y administrativas necesarias para el cumplimiento de su cometido, y se auxiliará para el conocimiento y seguimiento de los asuntos materia de su competencia de la estructura orgánica regional prevista en el presente Reglamento.
+Estas Fiscalías se integrarán con las unidades técnicas y administrativas necesarias para el cumplimiento de su cometido, y se auxiliarán para el conocimiento y seguimiento de los asuntos materia de su competencia, de la estructura orgánica regional prevista en el presente Reglamento.
 
 ### CAPITULO IV. De los Titulares de las Subprocuradurías Regionales
 
@@ -642,3 +648,9 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR 
 P.O. 25 DE JUNIO DE 2002.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
