@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-del-estado-de-16030
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2005-08-02"
+last_updated: "2005-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -153,7 +153,7 @@ II. Realizar los actos necesarios para la conservación y mejoramiento de los bi
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
-III. Designar al personal del Instituto cuando dicha facultad no se haya conferido al Pleno.
+IIl. Designar al personal del Instituto cuando dicha facultad no se haya conferido al Pleno.
 
 IV. Celebrar convenios con instituciones académicas y de educación superior previa autorización del Pleno, para impartir cursos de formación, capacitación y actualización con el fin de preparar profesionalmente a aspirantes al servicio electoral en el Estado.
 
@@ -559,7 +559,7 @@ Por cada representante propietario observador de resultados preliminares, los pa
 
 Una vez concluido el proceso electoral, declarados firmes los resultados de los comicios electorales, el Presidente ordenará su publicación a través de los medios electrónicos con que cuente el centro de computo, debiendo remitir además tales resultados para su consulta pública, al Archivo General del Estado, a la Biblioteca del Congreso del Estado, así como a la Biblioteca Pública del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 30.
 
@@ -591,319 +591,109 @@ Las Comisiones Distritales y Municipales Electorales, según corresponda, dictar
 
 El Instituto, conforme a las bases generales establecidas en la Ley, previo a la celebración de la jornada electoral, dictará los lineamientos a que se sujetarán los funcionarios de casilla para la remisión de los paquetes electorales a las comisiones distritales y municipales electorales, con la finalidad de agilizar su acopio garantizando la inviolabilidad de su contenido.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ## TITULO V. DE LA INFORMACION PUBLICA
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
-
 ###### ARTÍCULO 35.
 
-Dentro del presente reglamento se contienen los lineamientos generales bajo los cuales se garantizará el derecho a la información, garantía contenida dentro del artículo 6 de la Constitución Política de los Estados Unidos Mexicanos, así como en la Ley de Transparencia e Información Pública del Estado de Jalisco.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ### CAPITULO II. DE LA INFORMACION PUBLICA
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 A.- DEL INSTITUTO ELECTORAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 36.
 
-Es obligación del Instituto, a través de la Secretaría Ejecutiva, con el auxilio de las respectivas Comisiones, Direcciones y Jefaturas de Departamento, hacer públicos:
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-I. La Constitución Política del Estado de Jalisco, las Leyes, Decretos, Reglamentos, circulares y demás disposiciones de observancia general relativas a la materia electoral.
-
-II. Publicar la Ley Electoral del Estado de Jalisco, Reglamentos, Acuerdos del Pleno y el sentido del voto, así como las actas de sesión del Pleno, una vez aprobadas.
-
-III. Estatuto del Servicio Profesional Electoral.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-IV. Información sobre las donaciones y/o bienes otorgados en comodato al Instituto Electoral del Estado de Jalisco.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-V. Informe de actividades de la Comisión de Adquisiciones del Instituto Electoral del Estado de Jalisco.
-
-VI. Las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-VII. Convenios que celebre el Instituto Electoral del Estado de Jalisco así como los anexos técnicos.
-
-VIII. Los Presupuestos de ingresos y egresos, que hayan sido aprobados.
-
-IX. Las cuentas públicas, así como los informes trimestrales de origen y aplicación de los recursos públicos.
-
-X. Los balances generales y los estados de pérdidas y ganancias correspondientes.
-
-XI. Las (sic) nómina para la retribución de los servidores públicos, así como los pagos que por conceptos de honorarios se eroguen.
-
-XII. Los dictámenes sobre la aprobación o rechazo de las cuentas públicas, que se hayan votado en el Congreso del Estado, relativos a este Órgano.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-XIII. Las convocatorias que emita el Instituto Electoral del estado, relativas a concurso o licitación para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos.
-
-XIV. Los estados de origen y aplicación de recursos financieros, que se publicarán de manera mensual, dentro de los 20 veinte días siguientes al cierre de la contabilidad mensual.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-XV. Estados financieros del Instituto Electoral del Estado de Jalisco, los que se publicarán dentro de los 20 veinte días siguientes al cierre de la contabilidad mensual.
-
-XVI. Los egresos publicados conforme a la fracción que antecede, deberán desglosarse conteniendo el concepto y finalidad del gasto, nombre y domicilio del destinatario, así como la fecha del pago y cantidad.
-
-XVII. Los datos principales de su organización y funcionamiento; y (sic)
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 B.- DE LOS PARTIDOS POLITICOS Y COALICIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 37.
 
-El Instituto Electoral del Estado de Jalisco, hará pública la información relativa a los ingresos y gastos de los partidos políticos y, en su caso, coaliciones, que obren en poder de la Comisión Revisora de los Partidos Políticos y Departamento de Fiscalización, con motivo de las revisiones semestrales y trimestrales, en los términos siguientes:
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-I. Los Informes Semestrales, Trimestrales, de Campaña y de Campaña Institucional, que presenten los partidos políticos y, en su caso, las coaliciones:
-
-a. Formato "IS" (Informe Semestral),
-
-b. Formatos "IT" (Informe Trimestral),
-
-c. Formato "IC" (Informe de Campaña),
-
-d. Formato "ICI" (Informe de Campaña Institucional)
-
-II. La documentación adicional a los Informes Semestrales, Trimestrales, de Campaña y de Campaña Institucional que presenten los partidos políticos y, en su caso, las coaliciones, la que consiste en:
-
-a. Estados de cuenta bancarios o financieros.
-
-b. Estados de cuenta bancarios de las campañas locales que utilizaron recursos Federales.
-
-c. Balanza mensual de comprobación, debiéndola integrar a los informes semestrales, trimestrales y de campaña.
-
-d. Controles de folios de recibos de aportaciones de militantes, simpatizantes o aportante.
-
-e. Relación de aportaciones de militantes y simpatizantes.
-
-f. Relación de personas que recibieron reconocimientos materiales y/o económicos por actividades políticas del Comité Directivo Estatal.
-
-g. Inventario físico de bienes muebles e inmuebles del Comité Directivo Estatal correspondientes a las adquisiciones del año de que se trate.
-
-III. Los Dictámenes recaídos a los Informes Semestrales y Trimestrales.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-IV. Las Resoluciones del Pleno del Instituto Electoral del Estado de Jalisco respecto de las irregularidades encontradas en la revisión de los Informes Semestrales, Trimestrales, presentados por los partidos políticos.
-
-V. Los Informes de Campaña de los partidos políticos, en el formato "IC".
-
-VI. La documentación adicional a los Informes de Campaña presentados por los partidos políticos, consistente en:
-
-a. Estados de cuenta bancarios correspondientes a cada una de las campañas.
-
-b. Promocionales emitidos en radio y en televisión.
-
-VII. Los Informes de Campaña de las coaliciones en el formato "ICC".
-
-VIII. La documentación adicional a los Informes de Campaña presentados por las coaliciones, consistente en:
-
-a. Estados de cuenta bancarios, así como de las campañas de cada uno de los candidatos de la coalición.
-
-b. Balanza de comprobación del órgano de finanzas de las coaliciones desde el momento de la integración de éstas hasta el fin de las campañas, al último mes.
-
-c. Controles de folios.
-
-IX. Los Dictámenes recaídos a los Informes de Campaña presentados por los partidos políticos y coaliciones correspondientes a las elecciones locales de que se trate.
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-X. Las Resoluciones del Pleno del Instituto Electoral del Estado de Jalisco respecto de las irregularidades encontradas en la revisión de los Informes de Campaña presentados por los partidos políticos y coaliciones correspondientes a las elecciones locales de que se trate.
-
-XI. Las resoluciones del Tribunal Electoral del Poder Judicial del Estado de Jalisco, que eventualmente, hayan recaído a los dictámenes definitivos y, en su caso, a las resoluciones correspondientes respecto de los Informes Semestrales, Trimestrales y de Campaña de los partidos políticos y/o coaliciones.
-
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 C.- PUBLICIDAD DE LA INFORMACION.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 38.
 
-Las modalidades que se seguirán para la difusión pública de la información señalada en los artículos 36 y 37 que anteceden, serán a través de dos mecanismos:
-
-a) A través de la página de internet del Instituto, dentro de los 60 días siguientes a la entrada en vigor de este Título, la siguiente información:
-
-1. Ley Electoral del Estado de Jalisco, Reglamentos, Acuerdos del Pleno y el sentido del voto, actas de sesión del Pleno, una vez aprobadas y a partir de la vigencia de este Título; así como el Estatuto del Servicio Profesional Electoral.
-
-2. Políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios.
-
-3. La información a que se refieren los artículos 6 de la Ley de Transparencia e Información Pública del Estado de Jalisco y 58 Bis de la Ley de Presupuesto Contabilidad, Gasto Público para el Estado de Jalisco.
-
-4. Los Informes Semestrales presentados por los partidos políticos, en su formato "IS".
-
-5. Los dictámenes definitivos y las resoluciones correspondientes aprobados por el Pleno del Instituto Electoral del Estado de Jalisco que recaigan a los Informes Semestrales y de Campaña de los partidos políticos y, en su caso, coaliciones. En caso de que dichos documentos sean recurridos ante el Tribunal Electoral del Poder Judicial del Estado de Jalisco, se señalará de manera clara e inequívoca que están sujetos a eventuales modificaciones por esa autoridad jurisdiccional. Si las eventuales resoluciones del Tribunal Electoral modificaran los dictámenes y resoluciones a que se refiere el presente inciso, dichos cambios se incorporarán a la página electrónica del Instituto consultable a través de Internet.
-
-6. La relación de aportaciones realizadas a los partidos políticos por parte de sus simpatizantes.
-
-7. La relación de aportaciones realizadas a los partidos políticos por parte de sus militantes.
-
-8. Las resoluciones del Tribunal Electoral del Poder Judicial del Estado de Jalisco que eventualmente, hayan recaído a los dictámenes definitivos y, en su caso, a las resoluciones correspondientes respecto de los Informes Semestrales y de Campaña de los partidos políticos y/o coaliciones.
-
-b) Mediante solicitud realizada a la Secretaría Ejecutiva, en términos del Capítulo III de este Título.
-
-La información señalada, puede darse a conocer por medios oficiales, o a través de publicaciones, folletos, periódicos murales, internet o cualquier otro medio de comunicación, lo cual tiene el carácter de informativo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 39.
 
-Los tiempos en los que el Instituto Electoral del Estado de Jalisco pondrá a disposición del público la documentación de todos los partidos y coaliciones antes mencionada, de acuerdo con las modalidades indicadas, serán los siguientes:
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-a) Por lo que hace a la información publicada en la página electrónica del Instituto, dentro de los cuarenta y cinco días naturales posteriores a la aprobación, por parte del Pleno del Instituto Electoral, de los dictámenes definitivos y, en su caso, de las resoluciones respecto de las irregularidades encontradas en la revisión de los Informes Semestrales y de Campaña.
-
-En caso de que los Dictámenes Definitivos y, en su caso, las resoluciones correspondientes, hayan sido recurridas ante autoridad jurisdiccional, se señalará de manera clara e inequívoca que la información que se está difundiendo públicamente está sujeta a eventuales modificaciones por parte de dicha autoridad.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 40.
 
-Por lo que hace a la demás documentación señalada en este capítulo, será puesta a disposición del público mediante solicitud realizada a la Secretaría Ejecutiva, ajustándose a los plazos designados para dar contestación a la misma, en términos de este Reglamento y de la Ley de Transparencia e Información Pública del Estado de Jalisco.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ### CAPITULO III. DE LOS SOLICITANTES
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 41.
 
-El Instituto Electoral del Estado de Jalisco proporcionará el acceso a la información pública y los servicios bibliotecarios, entre los que se señalan los siguientes:
-
-a) Consulta de catálogos, tanto automatizados como impresos;
-
-b) Consulta de documentos digitalizados;
-
-c) Consulta de la colección de CD·ROMs;
-
-d) Reproducción de materiales y fotocopiado;
-
-Así como toda aquella información y documentos que no tengan el carácter de reservado en términos de la Ley de Transparencia e Información Pública del Estado de Jalisco y la que el Pleno del Instituto determine con tal carácter.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 42.
 
-Las solicitudes se presentarán por escrito y por duplicado, en la Oficialía de Partes del Instituto Electoral del Estado de Jalisco, en términos del artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
-
-Las solicitudes de información deberán de proveerse por el Secretario Ejecutivo, con apoyo del área correspondiente, dentro del plazo de 15 días, mismo que se puede prorrogar 10 días más, si por la naturaleza de la información no puede ser presentada en el tiempo ordinario, para lo cual se deberá de motivar, fundamentar y notificar la prórroga, en términos del artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
-
-Toda solicitud de acceso a la información, debe sellarse de recibido en original y copia, debiendo entregar esta última al peticionario.
-
-Con el original se debe iniciar un expediente administrativo al cual debe darse el seguimiento necesario hasta la entrega de la información requisitada.
-
-Si la solicitud de acceso a la información no contiene los requisitos señalados en el artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco, se debe tener por improcedente, debiéndose notificar al peticionario en términos de la Ley Electoral del Estado de Jalisco.
-
-El solicitante podrá requerir copias fotostáticas, debiendo pagar los derechos de recuperación de las mismas, en términos por lo dispuesto en el artículo 5 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 43.
 
-Toda solicitud deberá ser presentada en horario hábil.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ### CAPITULO IV. DE LA INFORMACION A CONSULTAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 44.
 
-La información que integra y forma parte del Instituto Electoral del Estado de Jalisco, se divide de la manera siguiente:
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2005)</small>
-
-I. Documentos generados por el Instituto Electoral del Estado de Jalisco, entre los que se incluyen de manera enunciativa y no limitativa los siguientes:
-
-a) Acuerdos;
-
-b) Resoluciones;
-
-c) Versiones estenográficas.
-
-II. Todos aquellos libros que posee y que sean puestos a disposición de los usuarios para su consulta.
-
-III. Material de apoyo para la consulta de temas y datos específicos, como son diccionarios, enciclopedias, compendios estadísticos, anuarios, atlas, glosarios, etc.
-
-IV. Las diferentes publicaciones periódicas como diarios, revistas, semanarios, etc.
-
-V. Los discos compactos que compendian información y datos institucionales, jurídicos, electorales, hemerográficos, enciclopedias, etc.
-
-VI. Material cartográfico de los Distritos Electorales del Estado de Jalisco, entre otros.
-
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 45.
 
-Durante su estancia en el interior del Instituto, los solicitantes deberán observar una conducta correcta, que permita mantener un ambiente de seguridad, tranquilidad y respeto para el resto de los ocupantes.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 46.
 
-Los usuarios están obligados a utilizar adecuadamente el material que les sea prestado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 47.
 
-Queda prohibido a los solicitantes que acudan a realizar consultas al Instituto, lo siguiente:
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-a) Introducir alimentos y bebidas o sustancias que por su manejo o peligrosidad pongan en riesgo la seguridad, ya sea de los empleados o demás solicitantes, el buen estado de las instalaciones, el mobiliario, el equipo, y el acervo;
-
-b) Sustraer material sin autorización;
-
-c) Destruir, mutilar, subrayar, marcar o alterar de cualquier forma, los materiales que les sean prestados;
-
-d) Hacer mal uso o uso diferente para el que originalmente haya sido dispuesto, de algún equipo que se le haya facilitado; y,
-
-e) Las prohibiciones que se desprendan del presente reglamento y demás disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ### CAPITULO V. DEL RECURSO DE REVISION
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 48.
 
-En contra de las determinaciones que nieguen o limiten el acceso a la información, procederá el recurso administrativo de revisión previsto por el Título Cuarto de la Ley de Transparencia e Información Pública del Estado de Jalisco, y su trámite se realizará conforme a lo establecido por dicha Ley; el proyecto que resuelva el recurso de revisión propuesto por la Presidencia deberá ser sometido a la aprobación del Pleno del Instituto Electoral.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
+> <small>(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)</small>
 
 ### CAPITULO VI. DE LAS SANCIONES
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
-
 ###### ARTÍCULO 49.
 
-El servidor público que niegue la información, será sancionado en términos del artículo 25 de la Ley de Transparencia e Información Pública del Estado de Jalisco.
-
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ###### ARTÍCULO 50.
 
-Toda situación no prevista en este Título, será resuelta en el marco de sus atribuciones, por el Pleno, el Presidente o el Secretario Ejecutivo del Instituto Electoral del Estado de Jalisco, en términos de lo señalado por la propia Ley Electoral y este Reglamento.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2005)
 
 ## TRANSITORIO
 
@@ -978,3 +768,7 @@ QUINTO.- Publíquese en el Periódico Oficial El Estado de Jalisco.
 P.O. 2 DE AGOSTO DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE SEPTIEMBRE DE 2005.
+
+ÚNICO.- La presente reforma surtirá sus efectos legales a partir de la vigencia del Reglamento de Transparencia e Información Pública del Instituto Electoral del Estado de Jalisco.
