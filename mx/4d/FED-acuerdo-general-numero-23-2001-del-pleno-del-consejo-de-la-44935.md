@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-09-19"
+last_updated: "2005-09-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -329,9 +329,9 @@ XVII.- DECIMOSEPTIMO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Juárez.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 57/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 35/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
-3.- Nueve juzgados de distrito en el Estado de Chihuahua: cuatro con residencia en la ciudad del mismo nombre y cinco con sede en Juárez.
+3.- Diez juzgados de distrito en el Estado de Chihuahua; cinco con residencia en la ciudad del mismo nombre y cinco con sede en Juárez.
 
 XVIII.- DECIMOCTAVO CIRCUITO:
 
@@ -1460,3 +1460,9 @@ PRIMERO.- Este acuerdo entra en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Decimoquinto de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, que cambia de residencia a Xalapa.
+
+D.O.F. 28 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el dos de octubre de dos mil cinco.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
