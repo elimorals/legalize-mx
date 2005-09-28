@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-31738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-11"
-last_updated: "2004-06-16"
+last_updated: "2005-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31738&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-06-05"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -85,33 +85,33 @@ a) De Administración;
 
 b) De Asuntos Jurídicos;
 
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
 c) De Atención a la Sociedad y Relaciones Institucionales;
 
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
 d) De Clasificación y Datos Personales;
 
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
 e) De Comunicación Social;
 
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
 f) De Coordinación y Vigilancia de la Administración Pública Federal;
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+g) De Estudios e Investigación, y (sic)
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+h) De Informática y Sistemas;
+
 > <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-g) De Estudios e Investigación;
-
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
-
-h) De Informática y Sistemas, y
-
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
-
-i) De Vinculación con Estados y Municipios.
+i) De Vinculación con Estados y Municipios;
 
 j) De Protección de Datos Personales;
 
@@ -309,9 +309,13 @@ XIII. Coordinar la agenda de trabajo del Pleno y convocar a sesiones extraordina
 
 XIV. Coordinar el debate de las sesiones del Pleno;
 
-XV. Someter a la aprobación del Pleno el calendario de labores del Instituto, que será publicado en el Diario Oficial de la Federación, y
+XV. Someter a la aprobación del Pleno el calendario de labores del Instituto, que será publicado en el Diario Oficial de la Federación, y (sic)
 
-XVI. Las demás que le señalen la Ley, su Reglamento, y demás disposiciones legales y administrativas que le sean aplicables.
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XVI. Otorgar y revocar poderes generales o especiales, y
+
+XVII. Las demás que señalen la Ley, el Reglamento, y demás disposiciones legales y administrativas que le sean aplicables.
 
 ### CAPITULO QUINTO. DE LA SECRETARIA DE ACUERDOS
 
@@ -377,83 +381,97 @@ XXVIII. Ejecutar los acuerdos que dicte el Pleno;
 
 XXIX. Representar al Instituto ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que aquél tenga interés o injerencia jurídica, incluyendo todos los derechos procesales que las leyes reconocen a las partes y el de promover el juicio de amparo en contra de los actos que afecten la esfera jurídica del Instituto o los de quien éste represente;
 
-XXX. Rendir los informes de ley en los juicios de amparo en que intervenga el Instituto, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general, vigilar y atender su tramitación, y
+XXX. Rendir los informes de ley en los juicios de amparo en que intervenga el Instituto, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general, vigilar y atender su tramitación, y (sic)
 
-XXXI. Las demás que le confieran las disposiciones legales y administrativas que le sean aplicables.
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XXXI. Transmitir a dependencias y entidades los criterios de custodia de la información reservada y confidencial que elabore la Secretaría de Acuerdos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XXXII. Transmitir a dependencias y entidades los planes y programas de la organización de archivos de las dependencias y entidades que elabore la Secretaría de Acuerdos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XXXIII. Elaborar los planes y programas de vigilancia de las dependencias y entidades de la Administración Pública Federal para el debido cumplimiento de la Ley y ejecutarlos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XXXIV. Transmitir las recomendaciones que se formulen a las dependencias y entidades, que elabore la Secretaría de Acuerdos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XXXV. Remitir las comunicaciones sobre presuntas infracciones de la Ley y su Reglamento al Órgano Interno de Control de cada dependencia y entidad;
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+XXXVI. Diseñar los mecanismos de coordinación con las dependencias y entidades de la Administración Pública Federal, y ejecutar la coordinación, y
+
+XXXVII. Las demás que le confieran las disposiciones legales y administrativas que le sean aplicables.
 
 ### CAPITULO SEXTO. DE LA SECRETARIA EJECUTIVA
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 24.
 
 Son atribuciones de la Secretaría Ejecutiva:
 
-I. Transmitir a dependencias y entidades los criterios de custodia de la información reservada y confidencial que elabore la Secretaría de Acuerdos;
+I. Elaborar los planes y programas para la capacitación de los particulares, servidores públicos federales y estatales sobre la Ley, apoyo técnico a las dependencias y entidades en la elaboración y ejecución de sus programas de información, promoción del ejercicio del derecho de acceso a la información, y llevarlos a cabo;
 
-II. Transmitir a dependencias y entidades los planes y programas de la organización de archivos de las dependencias y entidades que elabore la Secretaría de Acuerdos;
+II. Elaborar los proyectos de convenios, contratos, bases de colaboración y demás actos consensuales a celebrarse con terceros, en coordinación con la Secretaría de Acuerdos y darles seguimiento;
 
-III. Elaborar los planes y programas de vigilancia de las dependencias y entidades de la Administración Pública Federal para el debido cumplimiento de la Ley y ejecutarlos;
+III. Diseñar los mecanismos de coordinación los sujetos obligados, los estados, el Distrito Federal, los municipios, u otras personas físicas o morales, nacionales o extranjeras; y ejecutar la coordinación;
 
-IV. Transmitir las recomendaciones que se formulen a las dependencias y entidades, que elabore la Secretaría de Acuerdos;
+IV. Elaborar los planes y programas para la orientación a los particulares sobre la Ley y ejecutarlos;
 
-V. Remitir las comunicaciones sobre presuntas infracciones de la Ley y su Reglamento al Organo Interno de Control de cada dependencia y entidad;
+V. Elaborar los programas y acciones de promoción del ejercicio del derecho de acceso a la información y ejecutarlos;
 
-VI. Elaborar los planes y programas para la capacitación de los particulares, servidores públicos federales y estatales sobre la Ley, apoyo técnico a las dependencias y entidades en la elaboración y ejecución de sus programas de información, promoción del ejercicio del derecho de acceso a la información, y llevarlos a cabo;
+VI. Elaborar el proyecto de política de comunicación social del Instituto y ejecutarla;
 
-VII. Elaborar los proyectos de convenios, contratos, bases de colaboración y demás actos consensuales a celebrarse con terceros, en coordinación con la Secretaría de Acuerdos y darles seguimiento;
+VII. Elaborar los programas y políticas para difundir entre los servidores públicos y los particulares, los beneficios del manejo público de la información, como también sus responsabilidades en el buen uso y conservación de aquélla y ejecutarlos;
 
-VIII. Diseñar los mecanismos de coordinación con las dependencias y entidades de la Administración Pública Federal, los sujetos obligados, los estados, el Distrito Federal, los municipios, u otras personas físicas o morales, nacionales o extranjeras; y ejecutar la coordinación;
+VIII. Proponer el nombramiento y remoción, en su caso, de los Directores Generales de su adscripción;
 
-IX. Elaborar los planes y programas para la orientación a los particulares sobre la Ley y ejecutarlos;
+IX. Informar sobre la integración y el funcionamiento de los órganos y unidades administrativas a su cargo mediante los informes que le rindan sobre el desempeño de los mismos las instancias subordinadas;
 
-X. Elaborar los programas y acciones de promoción del ejercicio del derecho de acceso a la información y ejecutarlos;
+X. Informar sobre el avance de los programas que periódicamente presenten las unidades administrativas a su cargo;
 
-XI. Elaborar el proyecto de política de comunicación social del Instituto y ejecutarla;
+XI. Elaborar y operar el sistema de evaluación del desempeño de los funcionarios del Instituto;
 
-XII. Elaborar los programas y políticas para difundir entre los servidores públicos y los particulares, los beneficios del manejo público de la información, como también sus responsabilidades en el buen uso y conservación de aquélla y ejecutarlos;
+XII. Elaborar el proyecto de presupuesto anual y ejecutar el gasto en los términos aprobados, así como elaborar los estados financieros anuales del Instituto;
 
-XIII. Proponer el nombramiento y remoción, en su caso, de los Directores Generales de su adscripción;
+XIII. Elaborar y ejecutar el programa operativo anual;
 
-XIV. Informar sobre la integración y el funcionamiento de los órganos y unidades administrativas a su cargo mediante los informes que le rindan sobre el desempeño de los mismos las instancias subordinadas;
+XIV. Elaborar el acuerdo de adscripción de las unidades administrativas a su cargo;
 
-XV. Informar sobre el avance de los programas que periódicamente presenten las unidades administrativas a su cargo;
+XV. Elaborar las normas o bases para disponer de los activos fijos del Instituto;
 
-XVI. Elaborar y operar el sistema de evaluación del desempeño de los funcionarios del Instituto;
+XVI. Diseñar la estructura básica de la organización del Instituto, y las modificaciones que procedan a la misma;
 
-XVII. Elaborar el proyecto de presupuesto anual y ejecutar el gasto en los términos aprobados, así como elaborar los estados financieros anuales del Instituto;
+XVII. Elaborar proyectos sobre la fijación de los sueldos y prestaciones de los servidores públicos del Instituto;
 
-XVIII. Elaborar y ejecutar el programa operativo anual;
+XVIII. Elaborar propuestas para el otorgamiento de licencias a los servidores públicos del Instituto y darles seguimiento;
 
-XIX. Elaborar el acuerdo de adscripción de las unidades administrativas a su cargo;
+XIX. Elaborar y ejecutar las políticas y programas institucionales, de administración y operación del Instituto de corto, mediano y largo plazo;
 
-XX. Elaborar las normas o bases para disponer de los activos fijos del Instituto;
+XX. Representar al Instituto en los asuntos que el Pleno determine;
 
-XXI. Diseñar la estructura básica de la organización del Instituto, y las modificaciones que procedan a la misma;
+XXI. Formular los Programas de organización y administrar al Instituto en los términos aprobados por el Pleno;
 
-XXII. Elaborar proyectos sobre la fijación de los sueldos y prestaciones de los servidores públicos del Instituto;
+XXII. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles y tomar las medidas pertinentes a fin de que las funciones del Instituto se cumplan de manera articulada, congruente y eficaz;
 
-XXIII. Elaborar propuestas para el otorgamiento de licencias a los servidores públicos del Instituto y darles seguimiento;
+XXIII. Recabar la información y elementos estadísticos que reflejen el estado de las funciones del Instituto en coordinación con la Secretaría de Acuerdos;
 
-XXIV. Elaborar y ejecutar las políticas y programas institucionales, de administración y operación del Instituto de corto, mediano y largo plazo;
+XXIV. Ejecutar los acuerdos que dicte el Pleno;
 
-XXV. Representar al Instituto en los asuntos que el Pleno determine;
+XXV. Presentar al Pleno el informe del desempeño de las actividades de las áreas a su cargo;
 
-XXVI. Formular los Programas de organización y administrar al Instituto en los términos aprobados por el Pleno;
+XXVI. Presentar al Pleno el informe sobre el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes del Instituto;
 
-XXVII. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles y tomar las medidas pertinentes a fin de que las funciones del Instituto se cumplan de manera articulada, congruente y eficaz;
+XXVII. Fungir como titular de la Unidad de Enlace, y
 
-XXVIII. Recabar la información y elementos estadísticos que reflejen el estado de las funciones del
-
-Instituto en coordinación con la Secretaría de Acuerdos;
-
-XXIX. Ejecutar los acuerdos que dicte el Pleno;
-
-XXX. Presentar al Pleno el informe del desempeño de las actividades de las áreas a su cargo;
-
-XXXI. Presentar al Pleno el informe sobre el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes del Instituto;
-
-XXXII. Fungir como titular de la Unidad de Enlace, y
-
-XXXIII. Las demás que le confieran las disposiciones legales y administrativas que le sean aplicables.
+XXVIII. Las demás que le confieran las disposiciones legales y administrativas que le sean aplicables.
 
 ### CAPITULO SEPTIMO. DE LAS DIRECCIONES GENERALES
 
@@ -481,13 +499,19 @@ IX. Las demás que les confieran las disposiciones legales y administrativas que
 
 ### CAPITULO OCTAVO. DISPOSICIONES FINALES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 26.
 
-La ausencia del Secretario de Acuerdos y del Secretario Ejecutivo del Instituto, así como del titular del Organo Interno de Control, será suplida en los términos siguientes:
+El Comisionado Presidente para efectos del Juicio de Amparo será suplido en sus ausencias por el Secretario de Acuerdos o por el Director General de Asuntos Jurídicos; la ausencia del Secretario de Acuerdos y del Secretario Ejecutivo del Instituto, así como del titular del Órgano Interno de Control, será suplida en los términos siguientes:
 
-I. La del Secretario de Acuerdos, por los Directores Generales de Asuntos Jurídicos, Clasificación y Catalogación, Protección de Datos Personales y Estudios e Investigación, en el orden en que se enumeran;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
 
-II. La del Secretario Ejecutivo, por los Directores Generales de Coordinación y Vigilancia, Administración, Atención a la Sociedad y de Comunicación Social, en el orden en que se enumeran;
+I. La del Secretario de Acuerdos, por los Directores Generales de Asuntos Jurídicos, Clasificación y Datos Personales, de Coordinación y Vigilancia de la Administración Pública Federal y de Estudios e Investigación, en el orden en que se enumeran;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2005)</small>
+
+II. La del Secretario Ejecutivo, por los Directores Generales de Administración, de Comunicación Social, y de Atención a la Sociedad y Relaciones Institucionales en el orden en que se enumeran;
 
 III. La de los Directores Generales, por el servidor público inmediato inferior del ausente, y
 
@@ -516,3 +540,7 @@ Así lo acordó el Pleno del Instituto Federal de Acceso a la Información Públ
 D.O.F. 16 DE JUNIO DE 2004.
 
 UNICO. La presente Modificación entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE SEPTIEMBRE DE 2005.
+
+UNICO. El presente Reglamento Interior entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
