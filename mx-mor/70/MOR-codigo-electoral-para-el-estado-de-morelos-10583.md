@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "2002-12-25"
+last_updated: "2005-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LA ACCION DE INCONSTITUCIONALIDAD 31/2002, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2002, SE DECLARA LA INVALIDEZ DE LA REFORMA A LA FRACCION IV DEL ARTICULO 22, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DEL MISMO AÑO, MOTIVO POR EL CUAL SE DEJA EL TEXTO VIGENTE A ESA FECHA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -125,7 +123,9 @@ Los ciudadanos morelenses tendrán los siguientes derechos político-electorales
 
 I.- Votar en las elecciones populares y participar en los procesos de plebiscito y referéndum que se convoquen;
 
-II.- Ser votado para todos los cargos de elección popular de conformidad con las disposiciones legales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+II.- Ser votado para todos los cargos de elección popular, en igualdad de oportunidades entre varones y mujeres, de conformidad con las disposiciones legales;
 
 III.- Asociarse individual y libremente en organizaciones políticas.
 
@@ -351,29 +351,29 @@ Décimo Octavo Distrito: Jonacatepec, que comprende los Municipios de Axochiapan
 
 Para la elección de Diputados, además de los dieciocho Distritos Electorales Uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos doce Diputados según el principio de representación proporcional, a través del Sistema de Lista Estatal, integrada por hasta doce candidatos propietarios y sus respectivos suplentes por cada Partido Político contendiente.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 22.
 
-La asignación de diputados de representación proporcional se sujetará a las bases siguientes:
+Para la asignación de diputados de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+I.- Tendrán derecho a participar en la asignación de diputados de representación proporcional, los partidos políticos que habiendo registrado candidatos de mayoría relativa en cuando menos 12 distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal emitida.
 
-I.- Para los efectos del cálculo de los diputados electos por el principio de representación proporcional, se entiende por votación total emitida la suma de los votos depositados en las urnas, y por votación estatal efectiva la que resulte de reducir de la votación total emitida los votos nulos y los de candidatos no registrados;
+Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de 18 diputados por ambos principios.
 
-II.- Ningún partido político podrá contar con más de 18 diputados electos por ambos principios;
+II.- Para tal efecto se entenderá como votación estatal emitida los votos depositados en las urnas, y votación estatal efectiva, la que resulte de deducir de la votación estatal emitida, los votos nulos, y los de candidatos no registrados.
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+III.- La asignación de diputados se realizará mediante la aplicación de una fórmula en la que se considerará el cociente natural y el resto mayor, en forma independiente a los triunfos en Distritos de Mayoría que se obtengan y en atención al orden que tuviesen los candidatos en las listas respectivas de cada partido político.
 
-III.- Sólo tendrán derecho a participar en la asignación de diputados según el principio de representación proporcional, los partidos políticos que alcancen el 3% del total de la votación emitida en el Estado;
+IV.- El cociente natural se obtendrá de la división de la votación estatal efectiva, entre 12 diputados de representación proporcional a repartir. Por resto mayor se considerará al remanente mayor de votos que no utilice cada partido político después de la asignación por el cociente natural.
 
-> <small>N. DE E. DE CONFORMIDAD CON LA ACCION DE INCONSTITUCIONALIDAD 31/2002, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2002, SE DECLARA LA INVALIDEZ DE LA REFORMA A LA PRESENTE FRACCION, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DEL MISMO AÑO, MOTIVO POR EL CUAL SE DEJA EL TEXTO VIGENTE A ESA FECHA.</small>
+V.- La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
 
-IV.- El cociente natural es el resultado de dividir la votación estatal efectiva entre el total de diputados integrantes del Congreso;
+a) Se asignará un diputado a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva;
 
-V.- De la votación estatal efectiva que obtenga cada partido político, se deducirán los votos que resulten de multiplicar el cociente natural por el número de distritos de mayoría obtenidos por cada partido político, con el remanente de votos que resulte a cada partido, se procederá la distribución de diputaciones por representación proporcional, asignado (sic) tantas diputaciones como número de cociente naturales (sic) obtenga cada partido; y
+b) En una segunda asignación, se distribuirán tantos diputados como veces contenga el cociente natural (sic) la votación obtenida por cada uno de los partidos políticos con derecho a ello;
 
-VI.- (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2002)
+c) Si aún quedaren diputados por repartir, se asignarán éstos en orden decreciente, atendiendo al resto mayor de cada partido político;
 
 DE LA ELECCION DE LOS AYUNTAMIENTOS
 
@@ -681,6 +681,10 @@ El registro de los Partidos Políticos Nacionales, estará sujeto a las disposic
 
 En caso de pérdida del registro federal de un Partido Político Nacional, automáticamente lo perderá en el Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Habiendo perdido su registro, el partido político deberá hacer entrega de los bienes muebles e inmuebles adquiridos con financiamiento estatal al Instituto Estatal Electoral.
+
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 Un partido político estatal que hubiese perdido su registro no podrá solicitarlo de nueva cuenta, sino después de transcurrido otro proceso electoral ordinario.
@@ -721,6 +725,10 @@ Toda cancelación se determinará por el Consejo Estatal Electoral, previa citac
 
 La resolución de cancelación se comunicará a los representantes del Partido afectado y se publicará en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Los partidos que hayan perdido su registro, deberán hacer entrega al Instituto Estatal Electoral de los bienes muebles e inmuebles que adquirieron con financiamiento público estatal una vez que haya causado ejecutoria la pérdida del registro del partido político, de conformidad a los lineamientos y a las resoluciones que emitan las autoridades electorales.
+
 La resolución podrá ser impugnada a través del recurso de reconsideración establecido en este Código, debiendo publicarse también la determinación que ponga fin al recurso.
 
 ###### ARTICULO 58.
@@ -739,39 +747,61 @@ ARTICULO 58 bis.- (DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ### CAPITULO I. DE LOS DERECHOS
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 59.
 
-Los Partidos Políticos constituidos conforme a este Código tendrán los siguientes derechos:
+Los partidos políticos constituidos conforme a este Código tendrán los siguientes derechos:
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
 
 A) Asumir la corresponsabilidad que la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Morelos y el presente Código les confieren en la preparación, desarrollo y vigilancia del proceso electoral;
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 B) Gozar de las garantías y prerrogativas que el presente ordenamiento les otorga para realizar sus actividades;
 
-C) Postular Candidatos para cargos de elección popular en los procesos electorales estatales, distritales y municipales;
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+C) Postular candidatos para cargos de elección popular en los procesos electorales estatales, distritales y municipales, procurando que en las fórmulas de candidaturas postuladas exista igualdad entre ambos géneros;
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
 
 D) Formar parte de los Organismos Electorales previstos en este Código;
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 E) Participar en los procesos electorales conforme a lo dispuesto en la Constitución Federal y la particular del Estado;
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
 
 F) Obtener las prerrogativas y recibir el financiamiento público que les corresponda en los términos del presente Código;
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 G) Ser propietarios, poseedores, administradores o usuarios de los bienes inmuebles indispensables para el cumplimiento de sus funciones;
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 H) Establecer relaciones con organizaciones y Partidos Políticos extranjeros siempre y cuando se mantenga en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado Mexicano, del Estado de Morelos y de sus órganos de gobierno;
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
 
 I) Recibir del Instituto Estatal Electoral su constancia de registro;
 
 J).- (DEROGADO, P.O. 10 DE JULIO DE 2002)
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 K) Los demás que se deriven de este Código.
 
 ### CAPITULO II. DE LAS OBLIGACIONES Y RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O, 29 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 60.
 
-Los Partidos Políticos tendrán a su cargo las siguientes obligaciones:
+Los Partidos Políticos tendrán a su cargo los siguientes deberes:
 
 l.- Mantener el mínimo de afiliados requerido en los Municipios para su constitución y registro;
 
@@ -779,9 +809,13 @@ II.- Ostentarse con la denominación, siglas, emblema y color o colores que teng
 
 III.- Cumplir con las normas de afiliación y con los requisitos y procedimientos que señalen sus estatutos para postulación de Candidatos y mantener en funcionamiento efectivo a sus órganos de dirección;
 
-IV.- Contar con un domicilio social;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-V.- Mantener en funcionamiento un centro de formación política;
+IV.- Garantizar la igualdad de oportunidades entre varones y mujeres para tener acceso a cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+V.- Contar con un domicilio social;
 
 VI.- Registrar, publicar y difundir la plataforma electoral que el Partido y sus Candidatos postulen en la elección de que se trate, así como hacer entrega de la misma al Consejo Estatal Electoral;
 
@@ -793,7 +827,9 @@ VIII.- Comunicar al Consejo Estatal Electoral la propuesta de modificación a su
 
 IX.- Presentar los informes anuales sobre el origen y aplicación de los recursos públicos, así como los informes sobre los ingresos y gastos de las campañas electorales, de acuerdo al reglamento y los lineamientos establecidos;
 
-X.- Destinar los bienes muebles e inmuebles que tengan o adquieran en propiedad, o de los que tengan o adquieran la posesión por cualquier título, al cumplimiento exclusivo, inmediato y directo de sus fines; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+X.- Destinar los bienes muebles e inmuebles que tengan o adquieran en propiedad, o de los que tengan o adquieran la posesión por cualquier título, al cumplimiento exclusivo, inmediato y directo de sus fines, debiendo presentar en su informe anual el inventario de éstos que contenga los resguardos y ubicación de los mismos;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -827,9 +863,9 @@ XVII.- Abstenerse de cualquier expresión que implique calumnia, injuria, difama
 
 XVIII.- Cumplirán de forma especial lo dispuesto en la fracción anterior durante las campañas electorales y en la propaganda política que se utilice durante las mismas;
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-XIX.- Reembolsar a la Secretaría de Hacienda del Gobierno del Estado de Morelos el monto del financiamiento público cuyo uso o destino no haya sido comprobado de conformidad a las resoluciones que emitan las autoridades electorales; y
+XIX.- Reembolsar a la Secretaría encargada del despacho de la hacienda pública del gobierno del Estado, el monto del financiamiento público cuyo uso o destino no haya sido comprobado de conformidad a las resoluciones que emitan las autoridades electorales. En caso de que no se haga voluntariamente el reembolso, el Consejo Estatal Electoral descontará de las prerrogativas del partido político la cantidad correspondiente en forma inmediata; y
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -845,9 +881,11 @@ Los dirigentes, representantes y afiliados de los Partidos Políticos, son respo
 
 ### CAPITULO III. DE LAS PRERROGATIVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 63.
 
-Son prerrogativas de los Partidos políticos:
+Son prerrogativas de los partidos políticos:
 
 l.- Participar anualmente del financiamiento público estatal para el ejercicio de sus actividades políticas en el Estado, en la forma y términos previstos en este Código;
 
@@ -873,9 +911,9 @@ V.- Promover y difundir su plataforma, doctrina, programa de gobierno y campaña
 
 VI.- Utilizar en forma igualitaria las plazas, vías, auditorios, mobiliario y equipo técnico de carácter público, conforme a las disposiciones gubernamentales correspondientes; el ejercicio de este derecho quedará sujeto a las condiciones de tiempo y forma disponibles en dichas plazas, vías, auditorios y elementos técnicos; y
 
-(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-VII.- Los Partidos Políticos tendrán derecho a realizar actos de propaganda para la elección de sus dirigentes en todos sus niveles y sus precandidatos a cargos de elección popular, sujetándose a las bases definidas en el artículo 73, 150 y 151 de este Código.
+VII.- Los partidos políticos tendrán derecho a realizar actos de campaña para la elección de sus dirigentes en todos sus niveles, sujetándose a las bases definidas en los artículos 73, 139, 140, 141, 142, 150 y 151 de este Código.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -913,17 +951,15 @@ Será derecho exclusivo de los Partidos Políticos contratar tiempos en radio y 
 
 ### CAPITULO IV. DEL FINANCIAMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 68.
 
-El régimen de financiamiento de los Partidos Políticos tendrá las siguientes modalidades:
+El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-a) Financiamiento público, que prevalecerá sobre el de origen privado;
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
-
-Los partidos políticos registrados ante el Instituto Estatal Electoral recibirán durante su actuación y durante la actividad electoral, el financiamiento público en efectivo o en especie. El monto total de financiamiento público, será el que resulte de multiplicar el total de los ciudadanos inscritos en el padrón electoral por el equivalente a un día salario mínimo vigente de la zona económica a la que corresponda el Estado, de conformidad con la disponibilidad presupuestal del Gobierno Estatal en el ejercicio fiscal de que se trate para ese año.
+a) Financiamiento público, que prevalecerá sobre el de origen privado; los partidos políticos registrados ante el Instituto Estatal Electoral recibirán durante su actuación y durante la actividad electoral, el financiamiento público en efectivo o en especie. El monto total del financiamiento público, será el que resulte de multiplicar el total de los ciudadanos inscritos en el padrón electoral por el equivalente de hasta un ochenta y cinco por ciento de un día de salario mínimo vigente de la zona económica a la que corresponda en el Estado, de conformidad con la disponibilidad presupuestal del gobierno estatal en el ejercicio fiscal de que se trate para ese año;
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -937,21 +973,13 @@ c) Autofinanciamiento; y
 
 d) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
-
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 Cada Partido Político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-Para gastos que realicen por concepto de actividades, relativas a educación, capacitación política, investigación socioeconómica y política, y tareas editoriales, los partidos políticos podrán recibir anualmente y previa comprobación del gasto, financiamiento público equivalente hasta el 5% de las prerrogativas que reciban cada uno de conformidad con el reglamento respectivo que establezca el Consejo Estatal Electoral.
-
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
-
-> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+Para gastos que realicen por concepto de actividades relativas a educación, capacitación política, investigación socioeconómica y política, y tareas editoriales, los partidos políticos deberán recibir anualmente y previa comprobación del gasto, financiamiento público equivalente de hasta el cinco por ciento de las prerrogativas que reciban cada uno de conformidad con el presupuesto aprobado por el Congreso del Estado para dicho rubro, atendiendo además al reglamento respectivo que establezca el Consejo Estatal Electoral.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
 
@@ -1003,13 +1031,17 @@ Los partidos políticos podrán cubrir sus pasivos derivados de los procesos ele
 
 Los Partidos Políticos deberán presentar ante el Consejo Estatal Electoral los informes del origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
 
-I.- Los informes anuales, serán presentados a más tardar dentro de los 90 días siguientes al último día de diciembre del año del ejercicio que se reporte; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+I.- Los informes anuales, serán presentados a más tardar dentro de los cuarenta y cinco días siguientes al último día de diciembre del año del ejercicio que se reporte; y
 
 II.- Informes de aplicación de recursos sobre gastos de campaña:
 
 a) Deberán presentarse por los Partidos Políticos que participen en el proceso electoral, por cada una de las campañas de las elecciones respectivas, especificando los gastos que el Partido Político y el candidato hayan realizado en el ámbito territorial correspondiente;
 
-b) Los relativos a los gastos de campaña sujetos a topes serán presentados a más tardar dentro de los cuarenta y cinco días naturales siguientes contados a partir del día de la elección;
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+b) Los relativos a los gastos de campaña sujetos a topes serán presentados a más tardar dentro de los sesenta días naturales siguientes contados a partir del día de la elección;
 
 c) En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros comprendidos en los topes de gastos de campaña, así como el monto y destino de dichas erogaciones.
 
@@ -1029,9 +1061,9 @@ La Comisión de Fiscalización contará con el apoyo técnico de un despacho con
 
 El procedimiento para la presentación y revisión de los informes de los Partidos Políticos se sujetará a las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-a) La comisión de fiscalización contará con sesenta días, sin posibilidad de prórroga, para revisar los informes anuales y treinta días para los informes de campaña presentados por los Partidos Políticos. Tendrá durante la revisión la facultad de acceder a los archivos contables y documentales de cada Partido Político, para comprobar la veracidad de lo reportado en los informes;
+a) La comisión de fiscalización contará con sesenta días, sin posibilidad de prórroga, para revisar los informes anuales y sesenta días para los informes de campaña presentados por los Partidos Políticos. Tendrá durante la revisión la facultad de acceder a los archivos contables y documentales de cada Partido Político, para comprobar la veracidad de lo reportado en los informes;
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1075,7 +1107,9 @@ I.- Se sujetarán a los términos y procedimientos que dicten los Organismos Ele
 
 II.- No podrán pintar y fijar propaganda en:
 
-A).- Pavimento de calles, calzadas, carreteras, aceras, postes, guarniciones, parques y jardines o plazas públicas;
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+A).- Árboles, pavimento de calles, calzadas, carreteras, centros históricos, aceras, guarniciones, parques y jardines o plazas públicas;
 
 B).- Monumentos históricos o artísticos, edificios públicos, zonas arqueológicas o históricas;
 
@@ -1087,9 +1121,13 @@ III.- Se prohibe el empleo de símbolos, distintivos, signos, emblemas, figuras 
 
 IV.- Se prohiben las expresiones verbales escritas contrarias a la moral y a las buenas costumbres, o que injurien a las Autoridades, a los demás Partidos Políticos, o que tiendan a incitar a la violencia y al desorden;
 
-V.- Se prohibe la destrucción o alteración de la propaganda que en apoyo de sus candidatos hubieren fijado, pintado o instalado los Partidos Políticos, exceptuándose de esta prohibición a los propietarios de edificios, terrenos, o de obras que no hayan otorgado su consentimiento para ello, recurriendo al Consejo Estatal Electoral para obtener la autorización correspondiente.
+V.- Se prohibe la destrucción o alteración de la propaganda que en apoyo de sus candidatos hubieren fijado, pintado o instalado los Partidos Políticos, exceptuándose de esta prohibición a los propietarios de edificios, terrenos, o de obras que no hayan otorgado su consentimiento para ello, recurriendo al Consejo Estatal Electoral para obtener la autorización correspondiente;
 
-VI.- Se prohibe a las empresas comerciales de bailes populares y eventos similares que fijen publicidad sobre la propaganda de los Partidos Políticos.
+VI.- Se prohibe a las empresas comerciales de bailes populares y eventos similares que fijen publicidad sobre la propaganda de los Partidos Políticos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+VII.- En toda propaganda que realicen los partidos políticos para la elección de sus candidatos o dirigentes internos, deberán utilizar material reciclable.
 
 Los Partidos Políticos que infrinjan las disposiciones contenidas en este artículo, podrán ser denunciados ante el Consejo Estatal Electoral; el Consejero Presidente concederá un plazo de 48 horas para que el Partido Político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a este artículo; de no hacerlo, se pedirá a la autoridad municipal que lo haga, pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda, entregándose el monto al Ayuntamiento que sufragó el gasto.
 
@@ -1147,13 +1185,25 @@ VIII. Garantizar la transparencia de los procesos de plebiscito y referéndum de
 
 IX.- (DEROGADA, P.O. 10 DE JULIO DE 2002)
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 78.
 
-El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto del Gobierno del Estado.
+El patrimonio del Instituto se destinará únicamente a la consecución de sus fines y el cumplimiento de sus atribuciones y funciones, y estará constituido por:
 
-Los bienes muebles e inmuebles que integran el patrimonio del Instituto se regirán por lo dispuesto por la Ley General de Bienes del Estado.
+I.- Los ingresos que perciba conforme a su presupuesto anual;
+
+II.- Los bienes muebles e inmuebles que adquiera con su presupuesto;
+
+III.- Las donaciones, herencias y legados que se hicieren a su favor; y
+
+IV.- Todos los demás bienes o ingresos que adquiera por cualquier otro medio legal.
+
+Para la administración de su patrimonio, el Instituto deberá ajustarse a los principios de disciplina, racionalidad, transparencia y austeridad.
+
+Para la afectación del patrimonio se requerirá acuerdo del Consejo Estatal Electoral.
+
+Los bienes muebles e inmuebles que integran el patrimonio del Instituto se regirán por lo dispuesto en la Ley General de Bienes del Estado.
 
 ###### ARTICULO 79.
 
@@ -1411,9 +1461,9 @@ XXXIV.- Proveer lo necesario a fin de que los funcionarios de casilla, así como
 
 XXXV.- Aprobar los Programas Anuales de las Direcciones Ejecutivas y de la Secretaría del Instituto, así como los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-XXXVI.- La remoción del Secretario Ejecutivo y de los Directores Ejecutivos, sólo procederá por el voto unánime de los consejeros electorales; y
+XXXVI.- Remover a propuesta del Consejero Presidente o de la mayoría de los consejeros electorales al Secretario Ejecutivo y a los Directores Ejecutivos, con la aprobación de la mayoría de los Consejeros Electorales; y (sic)
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1501,9 +1551,11 @@ La retribución que perciban los miembros del Consejo Estatal Electoral será la
 
 ### CAPITULO IV. DE LOS CONSEJEROS ELECTORALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 93.
 
-Son atribuciones de los Consejeros Estatales Electorales:
+Son facultades de los Consejeros Estatales Electorales:
 
 I.- Asistir con voz y voto a las sesiones ordinarias y extraordinarias del Consejo Estatal Electoral;
 
@@ -1524,6 +1576,10 @@ VI.- Cumplir y velar por el cumplimiento de los fines, y acuerdos del Instituto;
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 VII.- Las demás que señalen este Ordenamiento y el Reglamento Interior del Instituto Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Los Consejeros Electorales no podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo, así como divulgarla sin autorización del Consejo Estatal Electoral.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -2095,9 +2151,9 @@ El domicilio de ubicación de casilla debe ser el mismo para la elección federa
 
 Los ciudadanos que integren las Mesas Directivas de casillas deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-I.- Saber leer y escribir y no tener más de sesenta y cinco años al día de la elección;
+I.- Saber leer y escribir;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -2255,23 +2311,31 @@ En los procesos electorales al concluir cualquiera de sus etapas o de alguno de 
 
 ### CAPITULO II. DEL REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 129.
 
-El registro de candidatos a Gobernador del Estado, Diputados y Ayuntamientos, se hará dentro de los últimos quince días del tercer mes previo al mes en que se efectúe la elección.
+El registro de candidatos a Gobernador del Estado, Diputados y Ayuntamientos, se hará ante el Consejo correspondiente del 15 al 23 de abril del año en que se efectúe la elección.
 
-Dentro del mismo plazo los Partidos Políticos deberán registrar ante el Consejo Estatal Electoral la plataforma electoral que sus candidatos sostendrán durante las campañas políticas.
+El Consejo correspondiente tendrá ocho días para resolver sobre la procedencia del registro.
 
-El Consejo Estatal Electoral, cuando medien razones fundadas podrá ampliar o disminuir los plazos a que se refiere este artículo, siempre que no se alteren los demás tiempos del proceso.
+Dentro del plazo previsto en el primer párrafo, los Partidos Políticos deberán registrar ante el Consejo Estatal Electoral la plataforma electoral que sus candidatos sostendrán durante las campañas políticas.
 
 ###### ARTICULO 130.
 
 El registro de candidatos a Gobernador del Estado y Diputados de representación proporcional, se hará ante el Consejo Estatal Electoral.
 
-El registro de candidatos a Diputados de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente ante el Consejo Distrital Electoral respectivo.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-Las candidaturas para miembros de Ayuntamientos, se registrarán ante el Consejo Municipal Electoral que corresponda, por planillas integradas por un Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y una lista de Regidores, propietarios y suplentes en número igual al previsto para ese Municipio, que se elegirán por el principio de representación proporcional.
+El registro de candidatos a diputados de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente ante el Consejo Distrital Electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a diputados que realice cada partido político, en ningún caso incluirán más de las dos terceras partes de candidatos propietarios de un mismo género.
 
-Los Partidos Políticos sólo podrán incluir en la lista de candidatos a Diputados de representación proporcional hasta cuatro personas que sean candidatos de mayoría relativa.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Las candidaturas para miembros de Ayuntamientos, se registrarán ante el Consejo Municipal Electoral que corresponda, por planillas integradas por un Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y una lista de Regidores, propietarios y suplentes en número igual al previsto para ese Municipio, que se elegirán por el principio de representación proporcional. Atendiendo al principio de equidad, cada planilla que presenten los partidos políticos, podrá ser integrada hasta por el setenta por ciento de candidatos propietarios y suplentes de un mismo género.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Los partidos políticos sólo podrán incluir en la lista de candidatos a diputados de representación proporcional hasta cuatro personas que sean candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando candidaturas de ambos géneros.
 
 Los Partidos Políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado.
 
@@ -2297,11 +2361,15 @@ IV.- Denominación, color o combinación de colores del Partido o coalición que
 
 V.- Clave y fecha de la credencial de elector.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 134.
 
-La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal Electoral e ir acompañada de los siguientes documentos:
+La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal Electoral, debidamente firmada por el candidato propuesto e ir acompañada de los siguientes documentos:
 
-I.- Declaración de aceptación de la candidatura debidamente firmada por el candidato propuesto;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+I.- Declaración bajo protesta de decir verdad de aceptación de la candidatura y que cumple con los requisitos legales de elegibilidad;
 
 II.- Copia certificada del acta de nacimiento del candidato;
 
@@ -3425,27 +3493,35 @@ II.- Durante el proceso electoral:
 
 a) Recurso de Revisión, para impugnar los actos y resoluciones de los Consejos Distritales y Municipales electorales;
 
-b) Recurso de Apelación para impugnar las resoluciones recaídas a los recursos de revisión o contra de los actos y resoluciones del Consejo Estatal Electoral, que resolverá el Tribunal Estatal Electoral; y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-c) El Recurso de Inconformidad que se hará valer contra:
+b) Recurso de Apelación para impugnar las resoluciones recaídas a los recursos de revisión o contra de los actos y resoluciones del Consejo Estatal Electoral, distrital y municipal, que resolverá el Tribunal Estatal Electoral; y
 
-1. Los resultados consignados en las actas de cómputo distrital o municipal en la elección de que se trate;
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-2. La declaración de validez de Diputados por el principio de mayoría relativa y de Ayuntamientos y el otorgamiento de las constancias respectivas;
+c) Recurso para la protección de los derechos político electorales del ciudadano.
 
-3. La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-4. La asignación de Regidores por el principio de representación proporcional, y por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente; y,
+III.- El Recurso de Inconformidad que se hará valer contra:
 
-5. Los cómputos para Gobernador, diputados al Congreso del Estado y miembros de los ayuntamientos por error aritmético.
+a) Los resultados consignados en las actas de cómputo distrital o municipal en la elección de que se trate;
+
+b) La declaración de validez de Diputados por el principio de mayoría relativa y de Ayuntamientos y el otorgamiento de las constancias respectivas;
+
+c) La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;
+
+d) La asignación de Regidores por el principio de representación proporcional, y por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente; y,
+
+e) Los cómputos para Gobernador, diputados al Congreso del Estado y miembros de los ayuntamientos por error aritmético.
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
-III.- Durante los procesos electorales extraordinarios, serán procedentes, los recursos a que se refiere la fracción que antecede.
+IV.- Durante los procesos electorales extraordinarios, serán procedentes, los recursos a que se refiere la fracción que antecede.
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
-IV.- En tiempos no electorales, serán procedentes los juicios que se interpongan con motivo de la realización de Plebiscito, Referéndum o Iniciativa Popular.
+V.- En tiempos no electorales, serán procedentes los juicios que se interpongan con motivo de la realización de Plebiscito, Referéndum o Iniciativa Popular.
 
 Los motivos para interponer este recurso en los casos señalados por las fracciones I y II serán las causales de nulidad establecidas en este Código.
 
@@ -3459,11 +3535,11 @@ Los motivos para interponer este recurso en los casos señalados por las fraccio
 
 El Consejo Estatal Electoral es el órgano competente para resolver el recurso de revisión.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 229.
 
-. El Tribunal Estatal Electoral será competente para conocer los recursos de: apelación, inconformidad, reconsideración y revisión en los supuestos previstos en este Código.
+. El Tribunal Estatal Electoral será competente para conocer los recursos de: apelación, inconformidad, reconsideración, para la protección de los derechos político electorales del ciudadano, así como el de revisión en los supuestos previstos en este Código.
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
@@ -3487,7 +3563,7 @@ Serán partes en el procedimiento para tramitar un recurso:
 
 I.- El actor, que será el partido político que lo interponga, debiendo observar las reglas de legitimación previstas en este Código.
 
-II.- La autoridad, que será el organismo electoral que realice el acto o dicte la resolución que se impugna; y,
+II.- La autoridad, que será el organismo electoral que realice el acto o dicte la resolución que se impugna; y (sic),
 
 III.- El tercero interesado, que será el Partido Político que tenga un interés legitimo en la causa, derivado de un derecho incompatible con el que pretenda el actor.
 
@@ -3499,7 +3575,9 @@ Los candidatos cuya elección esté controvertida, podrán participar como coady
 
 IV.- Los candidatos podrán participar como coadyuvantes del partido político que los registró, en los recursos interpuestos ante los órganos electorales conforme a lo dispuesto en este Código.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+V.- Los ciudadanos quienes por sí mismos y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en términos del artículo 250 bis 1.
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
@@ -3595,11 +3673,11 @@ IV.- Ofrecer las pruebas que junto con el escrito, se aportan y solicitar las qu
 
 V.- Hacer constar el nombre y firma autógrafa del promovente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 236.
 
-Los recursos de revisión, apelación y reconsideración deberán interponerse dentro del término de cuatro días, contados a partir del día siguiente a aquel que se tenga conocimiento o se hubiera notificado el acto o resolución que se impugne.
+Los recursos de revisión, apelación, reconsideración y para la protección de los derechos político electorales del ciudadano, deberán interponerse dentro del término de cuatro días, contados a partir del día siguiente a aquel que se tenga conocimiento o se hubiera notificado el acto o resolución que se impugne.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3796,6 +3874,98 @@ Recibido un recurso de apelación por el Tribunal Estatal Electoral, se seguirá
 ###### ARTICULO 250.
 
 En el recurso de reconsideración se aplicarán en lo conducente las reglas establecidas para el recurso de inconformidad.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 1.- El recurso para la protección de los derechos político electorales del ciudadano tiene como objeto los actos o resoluciones relativas al registro o cancelación de registro de algún candidato o bien de la sustitución de éstos, emitidas por las autoridades electorales administrativas, con motivo del ejercicio de derechos de los partidos políticos o coaliciones, en contravención a su normatividad interna o al convenio respectivo y que por su naturaleza pueda afectar los derechos político electorales de aquel ciudadano.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 2.- Para la procedencia del recurso que tutela la protección de los derechos político electorales del ciudadano el recurrente deberá de haber agotado, en caso de que existan, los medios de defensa que la propia normatividad interna del partido político prevenga para dirimir sus controversias o en su caso aquellos que para ese efecto se hayan pactado en el convenio de coalición.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 3.- El recurso para la protección de los derechos político electorales del ciudadano, se presentará ante el Tribunal Estatal Electoral dentro de los plazos señalados por este Código. La interposición del aludido medio de impugnación ante autoridad distinta a la antes señalada, no interrumpirá los plazos señalados para su interposición.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 4.- El recurso para la protección de los derechos político electorales del ciudadano deberá formularse por escrito y cumpliendo con los siguientes requisitos:
+
+I.- Hacer constar el nombre del promovente;
+
+II.- Señalar domicilio para recibir notificaciones en la capital del Estado y, en su caso, a quien en su nombre las pueda oír y recibir;
+
+III.- Acompañar la documentación que sea necesaria para acreditar la legitimación del promovente;
+
+IV.- Hacer mención del organismo o autoridad responsable del acto o resolución reclamada;
+
+V.- Hacer mención del acto o resolución impugnada;
+
+VI.- Mencionar el nombre del partido político o de la coalición cuya determinación diera origen al acto o resolución reclamada a la autoridad electoral administrativa;
+
+VII.- Mencionar de manera expresa y clara los hechos en que se basa la impugnación, expresando los agravios que cause el acto o resolución de la autoridad electoral administrativa impugnada, las disposiciones o normatividad interna del partido político o del convenio de coalición presuntamente violadas, así como los motivos por los cuales se estima que el acto reclamado conculca los derechos político electorales del promovente;
+
+VIII.- Ofrecer y aportar dentro de los plazos y formas que para ese efecto establece este ordenamiento, las pruebas que expresamente se autorizan para este recurso y solicitar las que deban requerirse por el Tribunal, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, partido político y/o coalición, no le fueron entregadas;
+
+IX.- Hacer constar la firma autógrafa o huella digital del promovente;
+
+Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VIII de este artículo;
+
+X.- Precisar la fecha de notificación del acto o resolución impugnada o bien aquella en la que se tuvo conocimiento de la misma o de la omisión reclamada, allegando el documento justificativo y, a falta de éste, manifestándolo bajo protesta de decir verdad;
+
+XI.- Con el escrito de interposición del recurso se deberá exhibir sendas copias del mismo y de sus anexos para la autoridad responsable, así como para el partido político o coalición que hubieren motivado el acto o resolución que se reclama.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 5.- En el caso de que la demanda correspondiente no cumpliere con alguno de los requisitos contenidos en las fracciones II, III, IV, V, IX y X del artículo 250 bis 4, se prevendrá al actor mediante auto aclaratorio notificado por estrados y por una sola vez, de los requisitos faltantes, los que deberán ser satisfechos en el plazo de veinticuatro horas, y de no hacerse así se proveerá tener por no presentado el recurso.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 6.- De no encontrarse causas manifiestas de improcedencia se dictará auto admitiendo el recurso, mismo que deberá de ser notificado de manera personal a la autoridad señalada como responsable, así como al partido político involucrado o coalición en su caso, debiendo la primera, dentro del improrrogable plazo de cuarenta y ocho horas contado a partir de la notificación correspondiente, hacer llegar al Tribunal Estatal Electoral la documentación relacionada con el acto o resolución reclamada, así como un informe justificativo de su proceder, en tanto que los segundos, dentro del mismo plazo señalado, deberán informar a la referida autoridad jurisdiccional sobre la legalidad de su determinación que diera origen al registro o cancelación de registro del o de los candidatos o bien de la sustitución de éstos reclamada por el recurrente. En todo caso el partido político o coalición involucrados, en el mismo informe señalarán domicilio para oír y recibir notificaciones en la capital del Estado, así como de las personas autorizadas para esos efectos.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTÍCULO 250 bis 7.- Se encuentran legitimados para la interposición del recurso para la protección de los derechos político electorales del ciudadano quienes por sí mismos y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos a que alude el artículo 250 bis 1, para el efecto deberán acompañar al escrito de impugnación, original y copia de la credencial de elector, original y copia del documento fehaciente de afiliación al partido o en su caso testimonio de dos personas que declaren bajo protesta de decir verdad que el recurrente es miembro del partido político impugnado.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 8.- Tendrán el carácter de terceros interesados en el recurso para la protección de los derechos político electorales del ciudadano, el partido político, la coalición, el candidato, la organización o la agrupación política, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 9.- El Tribunal Estatal Electoral habiendo recibido un recurso para la protección de los derechos político electorales del ciudadano, lo hará de inmediato del conocimiento público mediante cédula que se fijará en los estrados.
+
+Dentro de las cuarenta y ocho horas siguientes a la de su fijación, los terceros interesados podrán presentar los escritos que consideren pertinentes.
+
+Los escritos a los que se refiere el párrafo anterior, deberán cumplir con los siguientes requisitos:
+
+I.- Hacer constar el nombre del tercero interesado y el domicilio para recibir notificaciones en la ciudad capital del Estado. Si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+
+II.- Exhibir los documentos que acrediten la personería del promovente;
+
+III.- Precisar la razón del interés jurídico en que se fundan las pretensiones concretas del promovente;
+
+IV.- Ofrecer las pruebas que junto con el escrito se aportan y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y,
+
+V.- Hacer constar el nombre y firma autógrafa del promovente.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 10.- En el recurso para la protección de los derechos político electorales del ciudadano son admisibles las siguientes probanzas: Documental pública, documental privada, técnica, presunción legal y humana, instrumental de actuaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 11.- Con su escrito de demanda el actor hará el ofrecimiento y aportación de las pruebas que estime pertinentes y solicitará las que deban requerirse por el Tribunal, cuando justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas.
+
+En ningún caso se aceptarán pruebas ofrecidas con posterioridad, salvo aquellas de carácter superveniente que se hubieren ofrecido y aportado antes del cierre de la instrucción.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 12.- Las pruebas improcedentes o impertinentes serán desechadas de plano, motivando y fundando el auto correspondiente, por el Magistrado ponente, y contra el auto que al efecto se dicte no procederá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+ARTICULO 250 bis 13.- Transcurridos los plazos a que se refieren los artículos 250 bis 6 y 250 bis 9 y mediando o no contestación de las partes o de los terceros interesados, y rendido o no el informe de la autoridad señalada como responsable, una vez desahogadas las pruebas admitidas en el proceso, se declarará cerrada la instrucción, enviándose los autos para elaboración del proyecto de sentencia correspondiente, misma que deberá de dictarse en un plazo no mayor de ocho días contados a partir del cierre de la instrucción.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -4019,9 +4189,11 @@ VII.- En su caso, el plazo para su cumplimiento.
 
 Las resoluciones que recaigan a los recursos interpuestos tendrán los siguientes efectos:
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-I.- En tratándose de los recursos de reconsideración, revisión y apelación, el efecto será la confirmación, modificación o revocación del acto o resolución impugnados.
+I.- En tratándose de los recursos de reconsideración, revisión, apelación y para la protección de los derechos político electorales del ciudadano, el efecto será la confirmación, modificación o revocación del acto o resolución impugnados.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 Las resoluciones dictadas por el Tribunal Estatal Electoral, a los recursos que prevé el artículo 227 de éste Código serán definitivas y firmes.
 
@@ -4231,11 +4403,11 @@ Ninguna suspensión o cancelación de registro de un Partido Político podrá ac
 
 Toda suspensión o cancelación se publicará conforme a las formalidades previstas por este Código para la publicación del registro de los Partidos Políticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 283.
 
-Los Partidos Políticos serán sancionados por el Consejo Estatal Electoral, a pagar una multa de 100 a 1000 veces el salario mínimo vigente de la zona económica a que corresponda el Estado, cuando:
+Los Partidos Políticos serán sancionados por el Consejo Estatal Electoral, a pagar multas de 100 a 5000 veces el salario mínimo vigente de la zona económica a que corresponda el Estado, cuando:
 
 I.- Incumplan las resoluciones y acuerdos del Instituto o del Tribunal; en este último caso la sanción la impondrá el Tribunal;
 
@@ -4284,6 +4456,156 @@ Todo requerimiento que aperciba el empleo de medios de apremio, deberá notifica
 ###### ARTICULO 286.
 
 Las multas que fije el Tribunal Estatal Electoral se harán efectivas ante la Secretaría de Hacienda del Estado de Morelos en un plazo improrrogable de quince días contados a partir de la notificación que reciba la persona sancionada, misma que deberá informar del debido cumplimiento, para efectos de mandar archivar el asunto correspondiente.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+## TITULO DECIMO SEXTO. DEL INSTITUTO ACADEMICO DE INVESTIGACIONES Y CAPACITACION ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 287.
+
+El Instituto Académico de Investigaciones y Capacitación Electoral es un órgano del Tribunal Electoral del Poder Judicial del Estado; su objetivo es el estudio, capacitación, divulgación y fomento de la cultura democrática.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 288.
+
+La constitución del Instituto se formalizará mediante acuerdo mayoritario del Pleno del Tribunal Electoral del Poder Judicial del Estado, cuyos términos deberán constar en acta debidamente legalizada por el Secretario General del mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 289.
+
+El Instituto Académico de Investigaciones y Capacitación Electoral estará integrado por el personal directivo, investigadores, capacitadores y personal administrativo que el reglamento respectivo disponga.
+
+El Pleno, de entre los Magistrados Electorales elegirá a los Directores del Instituto.
+
+Los investigadores, capacitadores y el personal administrativo, se designarán de la estructura del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 290.
+
+El Director General del Instituto Académico de Investigaciones y Capacitación Electoral, tendrá las siguientes atribuciones:
+
+I.- Tener la representación del Instituto;
+
+II. Dirigir y supervisar las actividades del Instituto;
+
+III.- Firmar los convenios de coordinación que celebre el Instituto, para el cumplimiento de sus objetivos;
+
+IV.- Realizar las gestiones necesarias para la realización de las actividades, propias del Instituto;
+
+V.- Solicitar al Presidente del Tribunal o al Pleno, en su caso, la contratación del personal necesario para las actividades del Instituto, y que lo permita el presupuesto respectivo;
+
+VI.- Solicitar al Presidente del Tribunal o al Pleno, según sea el caso la autorización para que al personal del Tribunal, se le asignen actividades relacionadas con el Instituto; y las demás que le confieran este Código y el Reglamento Interno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 291.
+
+Los Directores del Instituto, en cada una de sus áreas, deberán:
+
+I.- Elaborar y proponer los programas anuales de investigación y capacitación electoral;
+
+II.- Coordinar y vigilar el cumplimiento de los programas a que se refiere el inciso anterior;
+
+III.- Organizar jornadas didácticas de cultura y legislación electorales, para educandos de nivel primaria, secundaria y media superior;
+
+IV.- Llevar el control del acervo que se produzca como resultado de las investigaciones que realice el Instituto;
+
+V.- Coordinar la fundación y enriquecimiento bibliográfico de la biblioteca del Tribunal Electoral del Poder Judicial;
+
+VI.- Llevar el registro de investigadores adscritos al Instituto Académico de Investigaciones y Capacitación Electoral;
+
+VII.- Fomentar la actividad editorial del instituto; y
+
+VIII.- Las demás que le confiera este Código y el Reglamento Interno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 292.
+
+El Programa Anual de Investigación y Capacitación Electoral deberá ser sometido para su aprobación por el Pleno del Tribunal Electoral a más tardar el día 28 de febrero de cada año.
+
+En los años electorales, esta circunstancia deberá contemplarse en el Programa Anual.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 293.
+
+El Programa Anual de Investigación y Capacitación Electoral deberá contener cuando menos lo siguiente:
+
+I.- El plan de divulgación de la cultura y legislación electoral en su cobertura municipal y por niveles educativos básicos, y media superior;
+
+II.- El plan de capacitación electoral para militantes y simpatizantes de partidos políticos;
+
+III.- Plan de divulgación de la cultura y legislación electoral en foros, congresos y encuentros académicos;
+
+IV.- Estrategia permanente para el enriquecimiento del acervo bibliográfico y documental de la biblioteca del Tribunal Electoral del Poder Judicial;
+
+V.- Actividades museográficas para la preservación de objetos y documentos relacionados con la evolución democrática del Estado;
+
+VI.- Estrategia de coordinación con centros académicos para la elaboración de protocolos de investigación sobre cuestiones relacionadas con la democracia y los derechos cívicos.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 294.
+
+El Instituto contará con el personal administrativo que le asigne el Pleno del Tribunal Electoral, el cual deberá seleccionarse entre los servidores públicos que tengan asignadas tareas específicas en el Tribunal, o bien, contratarse personal, según lo permita el presupuesto de egresos respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 295.
+
+Ni los Magistrados, ni el personal comisionado al Instituto, devengarán por ese hecho remuneración adicional.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 296.
+
+El Instituto, por conducto de su Director General, deberá suscribir con las universidades, colegios, centros académicos, y demás instituciones relacionadas con los objetivos del Instituto, convenios de coordinación para el estudio, divulgación de la cultura y legislación, electorales.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 297.
+
+Los trabajos de investigación que se realicen con el apoyo del Instituto como resultado de los convenios de coordinación, serán puestos a disposición de los Partidos Políticos y sociedades en general.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 298.
+
+El instituto deberá ofrecer a los Partidos Políticos, cuando menos una vez durante el año previo a la elección cursos de capacitación electoral.
+
+De los cursos que imparta el Instituto se entregarán constancias de capacitación a quienes los hubieren cursado satisfactoriamente.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 299.
+
+La participación en conferencias, foros o congresos, que tengan como temática principal la materia electoral, por parte de quienes conformen el Instituto, siempre deberá hacerse a título gratuito, salvo la recuperación económica que debiere exigirse por concepto de gastos extraordinarios que la actividad genere.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 300.
+
+Los Directores del Instituto deberán presentar un informe anual de las actividades realizadas, ante el pleno del Tribunal Electoral, el cual deberá ser aprobado por sus integrantes.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 301.
+
+Para las actividades que desarrolle el Instituto, se podrán asignar recursos según lo permita el presupuesto asignado al Tribunal Electoral, por lo que, la Dirección deberá procurar los patrocinios que fueren necesarios para el cumplimiento de los objetivos de la Institución.
+
+Los salarios de los Magistrados y del personal comisionado del Tribunal Electoral, no se tomarán en cuenta para el cálculo del costo operativo de la Institución.
+
+Será prueba del grado de eficiencia de los Directores del Instituto la obtención de más y mejores resultados con el mínimo de gasto con cargo al presupuesto del Tribunal.
 
 ## TRANSITORIOS
 
@@ -5122,3 +5444,21 @@ TERCERO.- Requiérase al Congreso del Estado de Morelos para que, en el ámbito 
 CUARTO.- Esta Ejecutoria surtirá plenos efectos, al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 QUINTO.- Publíquese esta resolución en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, y en el Periódico Oficial del Estado de Morelos.
+
+P.O. 29 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales respectivos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Con copia certificada del presente Decreto, infórmese a la Suprema Corte de Justicia de la Nación, el cumplimiento de la resolución dictada en la Acción de Inconstitucionalidad número 31/2002, para todos los efectos legales a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal Electoral deberá modificar dentro de un plazo de sesenta días naturales el Reglamento de Fiscalización y demás disposiciones aplicables, en los términos del presente ordenamiento.
