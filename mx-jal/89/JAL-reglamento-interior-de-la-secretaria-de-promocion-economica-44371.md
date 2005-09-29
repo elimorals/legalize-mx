@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-promocion-economica-443
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-10"
-last_updated: "2005-03-10"
+last_updated: "2005-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION ECONOMICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2005.
 
 Reglamento Publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de marzo de 2005.
 
@@ -129,9 +129,21 @@ III. Comparecer en representación del Secretario en los procesos o procedimient
 
 IV. Servir como enlace jurídico de la Secretaría con las áreas jurídicas de otras dependencias federales, estatales y municipales y demás agrupaciones del sector privado;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
 V. Formular y revisar las bases jurídicas y requisitos legales de los actos, contratos y convenios que suscriba la Secretaría;
 
-VI. Las demás que le confiera expresamente el Secretario.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Fungir como Unidad de Transparencia de la Secretaría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+VII. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. Las demás que le confiara expresamente el Secretario.
 
 ###### Artículo 9°.
 
@@ -156,6 +168,10 @@ La Secretaría Particular, tendrá a su cargo las siguientes Unidades Administra
 I. Secretaría Técnica; y
 
 II. Coordinación de Comunicación Social.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Artículo 10 bis.- El titular de la Coordinación de Comunicación Social, participará como Secretario Técnico del Comité dé Clasificación de Información Pública de la Secretaría.
 
 ###### Artículo 11.
 
@@ -219,11 +235,19 @@ IX. Establecer un mecanismo de medición y seguimiento permanente de los acuerdo
 
 ### Capítulo III. De la Coordinación General de Competitividad Empresarial
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2005, LOS PARRAFOS SEGUNDO Y TERCERO PASAN A FORMAR PARTE DEL ARTICULO 15 BIS.</small>
+
 ###### Artículo 15.
 
 La función de la Coordinación General de Competitividad Empresarial, es la de coordinar el diseño, implantación, operación, seguimiento y evaluación de estrategias, líneas de acción, programas, proyectos y acciones concretas para impulsar la promoción del entorno en el Estado hacia la competitividad empresarial.
 
-La Coordinación General de Competitividad Empresarial, contará para su funcionamiento con las siguientes direcciones:
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+El titular de la Coordinación General de Competitividad Empresarial representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+Artículo 15 bis.- La Coordinación General de Competitividad Empresarial, contará para su funcionamiento con las siguientes direcciones:
 
 I. Dirección General Administrativa;
 
@@ -239,13 +263,7 @@ VI. Dirección General Sectorial; y
 
 VII. Dirección de Vinculación Programática y Desarrollo Empresarial.
 
-Se coordinará con los siguientes organismos públicos descentralizados:
-
-I. Consejo Estatal de Promoción Económica;
-
-II. Instituto Jalisciense de la Calidad; y
-
-III. Instituto de la Artesanía Jalisciense.
+Se coordinará con los siguientes organismos públicos descentralizados: Consejo Estatal de Promoción Económica; Instituto Jalisciense de la Calidad e Instituto de la Artesanía Jalisciense.
 
 ###### Artículo 16.
 
@@ -257,9 +275,9 @@ II. Dirección de Recursos Materiales y Humanos; y
 
 III. Dirección de Informática
 
-###### Artículo 17.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-La Dirección General Administrativa será la encargada de la administración y el aprovechamiento óptimo de los recursos materiales, financieros y humanos que requiere la Secretaría para su funcionamiento.
+Artículo17.- La Dirección General Administrativa será la encargada de la administración y el aprovechamiento óptimo de los recursos materiales, financieros y humanos que requiere la Secretaría para su funcionamiento.
 
 Es competencia de la Dirección General Administrativa:
 
@@ -269,9 +287,17 @@ II. Autorizar los formatos y documentos, las órdenes de mantenimiento de instal
 
 III. Realizar el procedimiento relativo al trámite de nombramientos, licencias, renuncias, altas y bajas ante el Instituto Mexicano del Seguro Social, nóminas, reporte de incidencias y control de asistencias del personal de la Secretaría;
 
-IV. Planear el presupuesto anual de la Secretaría, así como su distribución y ejercicio en cada una de las unidades administrativas; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
 
-V. Analizar mensualmente la situación financiera de la Secretaría.
+IV. Planear el presupuesto anual de la Secretaría, así como su distribución y ejercicio en cada una de las unidades administrativas;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+V. Analizar mensualmente la situación financiera de la Secretaria; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría.
 
 ###### Artículo 18.
 
@@ -628,3 +654,11 @@ LIC. JOSÉ RAMÓN ROBLEDO GÓMEZ
 Secretario de Promoción Económica
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
