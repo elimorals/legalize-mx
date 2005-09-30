@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-08-17"
+last_updated: "2005-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,39 +18,51 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE MODIFICA TEMPORALMENTE EL ARTICULO 1 DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE EE.UU.
+ACUERDO QUE MODIFICA EL DIVERSO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de Agosto de 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS, PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2006, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2005.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+
+Fernando DE JESUS Canales Clariond, Secretario de Economía, con fundamento en los artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracción I inciso c); artículo 4 de la Ley Federal de Procedimiento Administrativo; 17 al 22 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía,
 
 CONSIDERANDO
 
-Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
+Que la industria azucarera es una actividad de alto impacto social por su producción y por el empleo que crea en el campo mexicano; que el azúcar es un artículo de consumo necesario y constituye un elemento básico para la alimentación de la población de bajos ingresos por su alto contenido energético; y que las actividades relacionadas con la producción de azúcar, la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, son de interés público;
 
-Que el Anexo 1A del Acuerdo OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Acuerdo sobre Subvenciones y Medidas Compensatorias (el Acuerdo SMC);
+Que dada la grave crisis que enfrentó la industria azucarera, el 3 de septiembre de 2001 el Ejecutivo Federal determinó expropiar 27 ingenios azucareros publicando al efecto, los días 3 y 10 de septiembre de 2001, en el Diario Oficial de la Federación, el Decreto por el que se expropian por causa de utilidad pública, a favor de la Nación, las acciones, los cupones y/o los títulos representativos del capital o partes sociales de las empresas que adelante se enlistan;
 
-Que el Acuerdo OMC en su Anexo 2 contiene el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
+Que las causas de utilidad pública en las que se fundamentó dicha expropiación se refieren a la satisfacción de necesidades colectivas vinculadas al abastecimiento de las ciudades o centros de población, de víveres u otros artículos de consumo necesario; a la defensa, conservación y desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación; la creación, fomento o conservación de una empresa para beneficio de la colectividad; así como la preservación del interés público que corresponde a la siembra, cultivo, cosecha y la industrialización de la caña de azúcar;
 
-Que el 28 de octubre de 2000 entró en vigor en los Estados Unidos de América (EE.UU.) la Ley de Compensación por Continuación del Dumping o Mantenimiento de las Subvenciones de 2000 (también conocida como la Enmienda Byrd) que permite a las autoridades competentes de EE.UU. distribuir entre productores y empresas estadounidenses que solicitaron el inicio de procedimientos de prácticas desleales de comercio internacional los montos recaudados por concepto del pago de derechos antidumping y cuotas compensatorias;
-
-Que el 10 de agosto de 2001 México solicitó el establecimiento de un Grupo Especial al amparo del Entendimiento para examinar la compatibilidad de la Enmienda Byrd con el Acuerdo OMC, en particular, con el GATT de 1994, el Acuerdo Antidumping y el Acuerdo SMC;
-
-Que el 27 de enero de 2003 el Órgano de Solución de Diferencias de la Organización Mundial del Comercio (OMC) adoptó los Informes del Grupo Especial y del Órgano de Apelación de la OMC que establecen que la Enmienda Byrd resulta incompatible con diversas disposiciones contenidas en los acuerdos señalados en el considerando anterior y que anula o menoscaba ventajas resultantes de esos acuerdos para las Partes Reclamantes;
-
-Que EE.UU. no ha suprimido la Enmienda Byrd, ni la ha modificado para ponerla en congruencia con las disposiciones de la OMC, por lo que, ante ese incumplimiento a la decisión del Órgano de Solución de Diferencias de la OMC, de conformidad con el artículo 22 del Entendimiento, México tiene derecho a suspender a EE.UU. concesiones u otras obligaciones que sean equivalentes al nivel de anulación y menoscabo causado por el incumplimiento de la decisión;
-
-Que el 31 de agosto de 2004 el Órgano de Solución de Diferencias de la OMC autorizó a México a suspender concesiones u otras obligaciones de acuerdo con lo dispuesto en el artículo 22 del Entendimiento;
+Que de la industria azucarera dependen más de dos millones de mexicanos, ya que genera empleos tanto en el campo como en las factorías dedicadas al procesamiento de la caña de azúcar;
 
 Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que la nota al artículo 302.1 del TLCAN establece que lo dispuesto en los artículos 302(1) y 302(2), referentes a la obligación de las Partes de no incrementar o adoptar aranceles aduaneros sobre bienes originarios y de eliminar sus aranceles aduaneros sobre bienes originarios de acuerdo con lo dispuesto en el calendario de desgravación de cada una de las Partes no tienen como propósito evitar que una Parte del TLCAN mantenga o aumente un arancel si el Entendimiento lo permite, y
+Que los Estados Unidos de América se han negado a dar cumplimiento a las condiciones de acceso al azúcar mexicano en los términos establecidos en el anexo 703.2 del TLCAN y ha restringido las importaciones de azúcar mexicano más allá de lo dispuesto en el tratado;
 
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que ante el incumplimiento de los Estados Unidos de América la situación de la industria azucarera nacional se ha visto seriamente amenazada toda vez que la participación de la fructosa en el mercado mexicano desplaza azúcar que al no encontrar salida al mercado de los Estados Unidos de América por las restricciones que este país mantiene, deprime y desestabiliza el mercado mexicano;
 
-DECRETO
+Que el 13 de marzo de 1998 México inició un procedimiento de solución de controversias conforme al capítulo 20 del TLCAN, mediante la presentación de una solicitud de consultas de acuerdo con el artículo 2006 del tratado. Las consultas se llevaron a cabo el 15 de abril de ese mismo año, pero no se logró resolver la controversia. México solicitó entonces una reunión de la Comisión de Libre Comercio conforme al artículo 2007 del tratado mediante solicitud del 13 de noviembre de 1998. La Comisión de Libre Comercio se reunió el 17 de noviembre de 1999, pero tampoco se logró resolver la disputa. En consecuencia, México solicitó el establecimiento de un panel arbitral de acuerdo con el artículo 2008, por solicitud presentada el 17 de agosto de 2000. Sin embargo, los Estados Unidos de América se han negado a aceptar los panelistas designados por México y a nombrar a los que le corresponden no obstante que la solicitud de México está vigente y pese a los continuos esfuerzos que ha realizado, los Estados Unidos de América lo han hecho con pleno conocimiento del impacto que las restricciones que impuso tendrían en el mercado mexicano durante el periodo de transición establecido en el anexo 703.2 del TLCAN;
+
+Que durante todo este tiempo México ha hecho esfuerzos de buena fe por lograr una solución negociada, pero tampoco ha sido posible alcanzarla;
+
+Que en tales circunstancias, las normas del derecho internacional permiten que el país agraviado adopte medidas apropiadas para hacer frente a la situación y en particular contramedidas orientadas a lograr el cumplimiento del Estado infractor. De forma similar, la Convención de Viena sobre el Derecho de los Tratados, publicada en el Diario Oficial de la Federación el 14 de febrero de 1975 permite a las autoridades mexicanas adoptar medidas ante violaciones graves de otro Estado al derecho internacional;
+
+Que la finalidad de tales medidas es también restablecer el equilibrio que se negoció en el TLCAN en el sector de los edulcorantes, mediante la suspensión de concesiones otorgadas a las importaciones de jarabe de maíz con alto contenido de fructosa;
+
+Que México continúa dispuesto a lograr una solución integral, mutuamente aceptable con los Estados Unidos de América;
+
+Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003 del Impuesto General de Importación para las mercancías originarias de América del Norte que establece en su artículo segundo transitorio que de conformidad con los derechos y obligaciones internacionales de México, a partir del 1 de enero de 2003, la importación de mercancías originarias de los Estados Unidos de América libres de arancel comprendidas en las fracciones arancelarias 1702.40.99, 1702.50.01, 1702.60.01, 1702.60.02 y 1702.60.99 estarán sujetas a un permiso de importación que se otorgará en los términos y condiciones que establezca la Secretaría de Economía mediante acuerdo publicado en el Diario Oficial de la Federación, según las disposiciones legales aplicables;
+
+Que el 20 de marzo de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo que establece los criterios para otorgar permisos previos por parte de la Secretaría de Economía a las importaciones definitivas de fructosa originarias de los Estados Unidos de América;
+
+Que sin perjuicio de los derechos de México conforme a las normas del derecho internacional, en virtud de que los Estados Unidos de América otorgaron acceso a 250 mil toneladas métricas de azúcar originaria de los Estados Unidos Mexicanos a su territorio, con el ánimo de establecer un clima que favorezca la posibilidad de llegar a una solución integral que resuelva la controversia bilateral en materia de edulcorantes se ha decidido otorgar un acceso recíproco a las importaciones de fructosa originarias de los Estados Unidos de América, y
+
+Que la Comisión de Comercio Exterior conforme al procedimiento previsto en la Ley de la materia, ha emitido opinión sobre esta medida, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE MODIFICA EL DIVERSO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
 
 ###### ARTICULO 1o.
 
@@ -88,17 +100,35 @@ El incremento para 2005 al cupo mínimo determinado en el Acuerdo por el que se 
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-De conformidad con el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, en caso de requerir importar maíz amarillo, por encima de la cuota mínima acordada en el Tratado de Libre Comercio de América del Norte para la importación de las mercancías originarias en el propio Tratado, clasificadas y comprendidas en la fracción arancelaria 1005.90.03, se sujetarán al arancel-cupo que a continuación se indica:
+Se modifica el artículo 2o. del Acuerdo por el que se que establecen los criterios para otorgar permisos previos por parte de la Secretaría de Economía, a las importaciones definitivas de fructosa originarias de los Estados Unidos de América, publicado en el Diario Oficial de la Federación el 20 de marzo de 2003, para quedar en los siguientes términos:
 
-CÓDIGO DESCRIPCIÓN Unidad AD-VALOREM
+“ARTICULO 2o.- La autorización de los permisos previos que se tramiten ante la Secretaría de Economía, para la importación definitiva de las mercancías originarias de los Estados Unidos de América comprendidas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.01, 1702.60.02 y 1702.60.99, durante el periodo del 1 de octubre de 2005 al 30 de septiembre de 2006, se realizará conforme a los criterios siguientes:
 
-IMP. EXP.
+PRIMERO: La Secretaría de Economía autorizará permisos previos hasta por un volumen global de 250,000 (Doscientos cincuenta mil) toneladas métricas, durante el periodo del 1 de octubre de 2005 al 30 de septiembre de 2006.
 
-1005.90.03 Maíz amarillo. Kg 1 No aplica
+SEGUNDO: Podrán solicitar la autorización de permisos previos, los promoventes que pretendan importar fructosa de aquellas empresas exportadoras estadounidenses a las cuales el gobierno de los Estados Unidos de América, a través de la entidad que designe, les haya distribuido montos de exportación de fructosa. Para ello, el promovente deberá incluir en el campo 23 de la solicitud (datos complementarios) el nombre de la empresa exportadora estadounidense de la que importará la mercancía, así como copia de los documentos que sustenten la transacción comercial.
 
-Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
+TERCERO: El gobierno de los Estados Unidos de América, a través de la entidad que designe, notificará a la Secretaría de Economía la lista de las empresas exportadoras estadounidenses a las que les haya distribuido los montos de exportación de fructosa, dentro de los 5 días siguientes a la entrada en vigor del presente Acuerdo.
+
+CUARTO: Los promoventes deberán presentar la solicitud de permiso previo de importación definitiva en la Representación Federal de la Secretaría de Economía de su localidad según corresponda, utilizando el formato “Solicitud de Permiso Importación o Exportación y de Modificaciones” (SE-03-018), el cual estará a disposición de los interesados en las Representaciones Federales de la Secretaría o en la página de internet de la Comisión Federal de Mejora Regulatoria, en la dirección www.cofemer.gob.mx.
+
+QUINTO: La autorización se realizará a través de la Dirección General de Comercio Exterior, considerando los criterios segundo y tercero de este artículo.
+
+SEXTO: Los permisos previos de importación definitiva, tendrán una vigencia máxima de treinta días naturales contados a partir del día de su autorización, pero no más allá del 30 de septiembre de 2006.
+
+SEPTIMO: El volumen por promovente que, en su caso, se otorgue, en ningún caso podrá ser mayor a 10,000 (diez mil) toneladas métricas.
+
+Los permisos subsecuentes se otorgarán cuando:
+
+i) La empresa haya importado totalmente el volumen autorizado en el permiso previo de importación definitiva inmediato anterior, o
+
+ii) La vigencia del permiso previo de importación definitivo inmediato anterior haya vencido.
+
+OCTAVO: La Secretaría de Economía concluirá la autorización de los permisos previos cuando el monto determinado en el criterio primero arriba señalado se haya agotado. Los montos de los permisos que no hayan sido utilizados podrán ser considerados dentro del monto disponible para el remanente a distribuir.
+
+NOVENO: La Dirección General de Industrias Básicas en coordinación con la Subsecretaría de Negociaciones Comerciales Internacionales de la Secretaría de Economía, realizarán una vigilancia permanente de las operaciones de comercio exterior que se realicen al amparo de los permisos previos autorizados y podrán ser consultados sobre la interpretación de los criterios en este artículo por parte de la Dirección General de Comercio Exterior.”
 
 ### CAPITULO I - DISPOSICIONES GENERALES
 
@@ -354,10 +384,8 @@ Lo dispuesto en el presente ordenamiento no libera del pago de Cuotas Compensato
 
 Las disposiciones del presente Decreto no liberan del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y tendrá una vigencia de 12 meses.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de octubre del presente año y concluirá su vigencia el 30 de septiembre de 2006.
 
-SEGUNDO.- El presente Decreto dejará de aplicarse una vez que la Secretaría de Economía notifique mediante publicación en el Diario Oficial de la Federación que EE.UU. ha cumplido con la decisión del Órgano de Solución de Diferencias de la OMC emitida en el caso de la Enmienda Byrd. En tal caso, la importación de las mercancías originarias de EE.UU. a que hace referencia el artículo 1 de este Decreto se regirá por lo establecido en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de agosto de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 27 de septiembre de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
