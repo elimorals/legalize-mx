@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-08-19"
+last_updated: "2005-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -329,7 +329,7 @@ XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que ten
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2004)</small>
 
-XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -449,11 +449,15 @@ XIV.- Dirección de Cultura;
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-XV.- Dirección de Administración Urbana; y,
+XV.- Dirección de Administración Urbana; y (sic),
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-XVI.- Dirección de Planeación Urbana.
+XVI.- Dirección de Planeación Urbana;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XVII.- Dirección Municipal de Fomento Agropecuario y Pesquero.
 
 ###### ARTICULO 31.
 
@@ -649,7 +653,7 @@ XII.- Supervisar las actividades que desarrollen los Jueces Calificadores;
 
 XIII.- Ejercer las atribuciones que correspondan al gobierno municipal, en materia de control de la venta, almacenaje y consumo de bebidas con graduación alcohólica;
 
-XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic),
+XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic9,
 
 XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento;
 
@@ -2455,6 +2459,10 @@ II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
+### CAPITULO UNICO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTICULO 130.
 
 La Dirección de Planeación Urbana tendrá las siguientes atribuciones:
@@ -2529,7 +2537,7 @@ VIII.- Elaborar estudios e investigaciones que fundamenten los peritajes técnic
 
 IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de equipamiento y paisaje urbano ejecutados y en proceso.
 
-> <small>(ADICIONADO CON EL CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO SEXTO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
@@ -2671,6 +2679,70 @@ XVIII.- Normar y regular el establecimiento de espacios destinados a estacionami
 
 XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estacionamientos en áreas de la vía pública exclusivos para comercios, zonas de carga y descarga, así los casos de áreas que se requieran para la introducción o construcción de vialidades o soluciones al tránsito de vehículos y peatones.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 140.
+
+La Dirección Municipal de Fomento Agropecuario y Pesquero tendrá las siguientes atribuciones:
+
+I.- Proponer y coordinar las políticas y programas municipales de desarrollo agropecuario y pesquero, a través de la inversión local, o promoviendo la inversión extranjera, procurando el crecimiento sustentable del municipio;
+
+II.- Impulsar, coordinar y promover las actividades comerciales, industriales, agropecuarias y de pesca en todas sus ramas, en especial aquellas de interés general para la población y de fomento al sector;
+
+III.- Servir de coadyuvante entre el gobierno municipal, estatal, federal y el sector industrial para fomentar el desarrollo del sector, así como el promover el acceso a los apoyos crediticios y programas de apoyo al sector en beneficio de los productores y habitantes de la zona rural;
+
+IV.- Promover la vinculación de empresarios, productores y universidades para la investigación, capacitación, asesoría y realización de proyectos productivos para fomentar el desarrollo rural, así como la reconversión tecnológica para el aprovechamiento máximo de sus recursos;
+
+V.- Procurar la participación de organismos empresariales, así como de las dependencias gubernamentales en materia de desarrollo y fomento económico con relación a las citadas actividades agropecuarias y pesqueras;
+
+VI.- Promover las medidas pertinentes ante las instancias gubernamentales correspondientes para favorecer el establecimiento de nuevas empresas que propicien el fomento económico de actividades agropecuarias y pesqueras;
+
+VII.- El fortalecimiento de las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes rurales;
+
+VIII.- Representar al Presidente Municipal ante las distintas organizaciones e instancias gubernamentales; y
+
+IX.- Las demás que le encomienden el Presidente Municipal, este reglamento y otras disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 141.
+
+La Dirección Municipal de Fomento Agropecuario y Pesquero para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, y tendrá a su cargo:
+
+I.- Subdirección Operativa, de la que dependerán los siguientes departamentos:
+
+a) Planeación, Seguimiento y Fomento de Apoyos al Sector; y
+
+b) Estudios y Proyectos del Sector.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+## TITULO SEPTIMO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+###### ARTICULO 142.
+
+La Subdirección Operativa tendrá como función auxiliar al Director en el desempeño de sus atribuciones, así como participar en la planeación, elaboración, operación y seguimiento de los programas y proyectos que ejecute la Dirección, por lo que se encargará a través de sus departamentos de ejercer las siguientes funciones:
+
+I.- Vigilar la aplicación correcta de los paquetes tecnológicos, el uso racional de los recursos con prácticas de conservación de suelo y agua;
+
+II.- Elaborar los análisis y presentación de datos estadísticos, que apoyen la promoción de la actividad agropecuaria y pesquera del municipio;
+
+III.- Formular y elaborar estudios y programas de promoción de las actividades agropecuarias y pesqueras del municipio que sean susceptibles y sustentables de realizar;
+
+IV.- Promover las campañas de limpieza y control de residuos y desechos de los productos agropecuarios y pesqueros para cuidado del medio ambiente y el desarrollo sustentable;
+
+V.- Fomentar el establecimiento de empresas, sociedades mercantiles y/o productoras, principalmente de aquellas que transformen o proporcionen un valor agregado a los productos locales en las actividades agropecuarias y pesqueras para su comercialización y venta;
+
+VI.- Promover la organización de los productores rurales para la producción, acopio, compra de insumos y comercialización de sus productos;
+
+VII.- Consolidar las acciones de apoyo a la producción y el desarrollo de obras de riego y planeación del desarrollo regional;
+
+VIII.- El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva; y
+
+IX.- La reducción de los costos de intermediación, así como promover el acceso a los servicios, venta de productos y adquisición de insumos.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
@@ -2786,3 +2858,9 @@ P.O. 22 DE ABRIL DE 2005.
 P.O. 19 DE AGOSTO DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 30 DE SEPTIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
