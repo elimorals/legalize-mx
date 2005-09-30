@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "2003-12-30"
+last_updated: "2005-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE SEPTIEMBRE DE 2005.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -5206,19 +5206,23 @@ Las quejas sobre el origen y la aplicación de los recursos derivados del financ
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+> <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Código.
+PRIMERO.- El proceso electoral ordinario por celebrarse en el año de 2006 se iniciará el día 20 (sic) enero del mismo año.
 
-TERCERO.- Para la designación del Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Distrito Federal, se estará a lo dispuesto por el artículo 55 de este Código; con excepción hecha de que por esta primera ocasión requerirán, para su elección, del voto de las tres cuartas partes de los miembros de la Asamblea Legislativa del Distrito Federal presentes en la sesión respectiva, que realice a más tardar en la segunda semana del mes de enero de 1999.
+SEGUNDO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Código.
+
+CUARTO.- Para la designación del Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Distrito Federal, se estará a lo dispuesto por el artículo 55 de este Código; con excepción hecha de que por esta primera ocasión requerirán, para su elección, del voto de las tres cuartas partes de los miembros de la Asamblea Legislativa del Distrito Federal presentes en la sesión respectiva, que realice a más tardar en la segunda semana del mes de enero de 1999.
 
 Para la designación de los Magistrados Electorales, se estará a lo dispuesto en el artículo 224 de este Código; excepción hecha de que por esta única ocasión la Asamblea Legislativa del Distrito Federal designará al Magistrado Presidente y a los Magistrados Electorales del Tribunal Electoral del Distrito Federal, por el voto de las tres cuartas partes de sus miembros presentes en la sesión respectiva, que realice a más tardar en la segunda semana del mes de enero de 1999.
 
 Una vez nombrados los Consejeros y Magistrados Electorales en un plazo no mayor de quince días deberá quedar instalado el Consejo General del Instituto Electoral del Distrito Federal y el Tribunal Electoral del Distrito Federal.
 
-CUARTO.- El presupuesto del Instituto Electoral del Distrito Federal y del Tribunal Electoral del Distrito Federal para el ejercicio fiscal del año de 1999, por esta única ocasión será propuesto a la Asamblea Legislativa por el Jefe de Gobierno dentro del Presupuesto de Egresos del Distrito Federal.
+QUINTO.- El presupuesto del Instituto Electoral del Distrito Federal y del Tribunal Electoral del Distrito Federal para el ejercicio fiscal del año de 1999, por esta única ocasión será propuesto a la Asamblea Legislativa por el Jefe de Gobierno dentro del Presupuesto de Egresos del Distrito Federal.
 
-QUINTO.- El financiamiento público para 1998, que corresponda a los Partidos Políticos nacionales por el concepto de actividades ordinarias se entregará de forma retroactiva con cargo al Presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal correspondiente al año de 1998 en lo que se refiere al concepto estipulado en el artículo 10 de dicho presupuesto, de acuerdo a lo siguiente:
+SEXTO.- El financiamiento público para 1998, que corresponda a los Partidos Políticos nacionales por el concepto de actividades ordinarias se entregará de forma retroactiva con cargo al Presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal correspondiente al año de 1998 en lo que se refiere al concepto estipulado en el artículo 10 de dicho presupuesto, de acuerdo a lo siguiente:
 
 a) Se tomará como base lo dispuesto por el párrafo primero letras A y D del artículo decimoctavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Federal de Instituciones y Procedimientos Electorales, publicado el 22 de noviembre de 1996 en el Diario Oficial de la Federación, asimismo el costo mínimo del gasto de campaña para Diputados Federales establecido y aprobado por el Consejo General del Instituto Federal Electoral el 9 de octubre de 1998 y publicado en el Diario Oficial de la Federación el día 15 del mismo mes y año;
 
@@ -5230,7 +5234,7 @@ c) Un monto adicional para actividades de "Grupo de Apoyo Técnico" de los Parti
 
 Acorde a lo mencionado en el párrafo anterior el financiamiento que resulte, será entregado por la Secretaría de Gobierno del Distrito Federal a los Partidos Políticos nacionales, de acuerdo a lo dispuesto por los artículos 67 fracción XXV del Estatuto de Gobierno del Distrito Federal; 4 y 17 de la Ley Orgánica del la Administración Pública del Distrito Federal. Del monto que corresponda a cada Partido Político serán deducidos los adelantos que fueron recibidos durante 1998, por los mismos, en calidad de financiamiento público a que se refiere el presente artículo.
 
-SEXTO.- La fiscalización de los recursos con que contaron los Partidos Políticos nacionales en el Distrito Federal durante 1998, por esta única ocasión se sujetarán a las reglas siguientes:
+SEPTIMO.- La fiscalización de los recursos con que contaron los Partidos Políticos nacionales en el Distrito Federal durante 1998, por esta única ocasión se sujetarán a las reglas siguientes:
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -5238,9 +5242,9 @@ a) Deberán presentar un informe anual a más tardar el 30 de abril de 1999 a la
 
 b) El informe a que se refiere el inciso anterior se sujetará a la "normatividad en materia de fiscalización de los recursos de los Partidos Políticos" del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 23 de enero de 1997.
 
-SEPTIMO.- Si con anterioridad a la elección del año 2000, no existiese una nueva división territorial de las Demarcaciones Territoriales, los distritos electorales uninominales se compondrán en los mismos términos de aquellos establecidos por el Instituto Federal Electoral para la elección de Diputados a la Asamblea Legislativa del Distrito Federal en 1997.
+OCTAVO.- Si con anterioridad a la elección del año 2000, no existiese una nueva división territorial de las Demarcaciones Territoriales, los distritos electorales uninominales se compondrán en los mismos términos de aquellos establecidos por el Instituto Federal Electoral para la elección de Diputados a la Asamblea Legislativa del Distrito Federal en 1997.
 
-OCTAVO.- El Consejo General del Instituto Electoral del Distrito Federal dictará las bases para contratar y reclutar provisionalmente al personal que sea necesario, en todo caso se sujetará a las disposiciones de este código y las reglas siguientes:
+NOVENO.- El Consejo General del Instituto Electoral del Distrito Federal dictará las bases para contratar y reclutar provisionalmente al personal que sea necesario, en todo caso se sujetará a las disposiciones de este código y las reglas siguientes:
 
 a) La (sic) convocatorias para integrar los Cuerpos de función directiva y técnicos deberá ser expedida a más tardar en el mes de marzo de 1999 y su contratación definitiva deberá concluir a más tardar en el mes de abril de 1999.
 
@@ -5250,17 +5254,17 @@ b) No podrán formar parte del Servicio Profesional Electoral del Instituto Elec
 
 c) Para el nombramiento de los Directores Ejecutivos Distritales se tomará previamente opinión de los Partidos Políticos nacionales representados en la Asamblea Legislativa del Distrito Federal.
 
-NOVENO.- El Estatuto del Servicio Profesional Electoral deberá ser aprobado por el Consejo General del Instituto Electoral del Distrito Federal a más tardar en el mes de febrero de 1999.
+DECIMO.- El Estatuto del Servicio Profesional Electoral deberá ser aprobado por el Consejo General del Instituto Electoral del Distrito Federal a más tardar en el mes de febrero de 1999.
 
-DECIMO.- (DEROGADO, G.O. 15 DE OCTUBRE DE 1999)
+DECIMOPRIMERO.- (DEROGADO, G.O. 15 DE OCTUBRE DE 1999)
 
 > <small>(REFORMADO, G.O. 18 DE ENERO DE 2001)</small>
 
-DECIMOPRIMERO.- Para los procesos electorales y de participación ciudadana a celebrarse hasta el año 2000, por Padrón Electoral, lista nominal y credencial para votar con fotografía se considerarán los insumos relativos del Registro Federal de Electores, de acuerdo al convenio respectivo, que se celebre con el Instituto Federal Electoral. Posteriormente al proceso electoral ordinario del año 2000, y una vez conocidos los resultados definitivos del censo de población y vivienda de ese año el Instituto Electoral del Distrito Federal, podrá realizar los estudios técnicos necesarios, a fin de determinar la viabilidad o no de la conformación del catálogo, padrón y listado nominal, así como para la expedición de la credencial para votar con fotografía propia del Distrito Federal.
+DECIMOSEGUNDO.- Para los procesos electorales y de participación ciudadana a celebrarse hasta el año 2000, por Padrón Electoral, lista nominal y credencial para votar con fotografía se considerarán los insumos relativos del Registro Federal de Electores, de acuerdo al convenio respectivo, que se celebre con el Instituto Federal Electoral. Posteriormente al proceso electoral ordinario del año 2000, y una vez conocidos los resultados definitivos del censo de población y vivienda de ese año el Instituto Electoral del Distrito Federal, podrá realizar los estudios técnicos necesarios, a fin de determinar la viabilidad o no de la conformación del catálogo, padrón y listado nominal, así como para la expedición de la credencial para votar con fotografía propia del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-DECIMO SEGUNDO.- Para los procesos de elección de los Jefes Delegacionales a celebrarse en el año 2000, y para los procesos de elección vecinal a nivel demarcación territorial, se tomarán como Distritos Electorales Cabecera de Demarcación Territorial los siguientes:
+DECIMOTERCERO.- Para los procesos de elección de los Jefes Delegacionales a celebrarse en el año 2000, y para los procesos de elección vecinal a nivel demarcación territorial, se tomarán como Distritos Electorales Cabecera de Demarcación Territorial los siguientes:
 
 DEMARCACIÓN DISTRITO CABECERA
 
@@ -5296,7 +5300,7 @@ VENUSTIANO CARRANZA XIII
 
 XOCHIMILCO XXXIX
 
-DECIMO TERCERO.- El Reglamento Interior del Tribunal Electoral del Distrito Federal, deberá ser expedido a más tardar en el mes de abril de 1999.
+DECIMOCUARTO.- El Reglamento Interior del Tribunal Electoral del Distrito Federal, deberá ser expedido a más tardar en el mes de abril de 1999.
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a quince de diciembre de mil novecientos noventa y ocho.- POR LA MESA DIRECTIVA.- DIP. JOSE NARRO CESPEDES, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- RÚBRICAS.
 
@@ -5365,3 +5369,7 @@ CUARTO.- El Instituto Electoral del Distrito Federal, contará con un plazo de s
 QUINTO.- El Instituto deberá prever la partida presupuestal necesaria para indemnizar aquellos trabajadores que con motivo de la reestructuración administrativa sean afectados por la supresión de la plaza o por haber sido separados de su empleo.
 
 SEXTO.- Se deja sin efecto, todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE SEPTIEMBRE DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLE SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE.
