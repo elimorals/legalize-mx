@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-instituciones-y-procedimientos-electorales-para-26134
 country: "mx"
 rank: "codigo"
 publication_date: "2002-09-30"
-last_updated: "2002-09-30"
+last_updated: "2005-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de septiembre del 2002.
 
@@ -97,9 +97,11 @@ En cada población del Estado el sufragio se emitirá en la Sección Electoral q
 
 ### Capítulo Segundo. De los Observadores Electorales
 
+> <small>(REFORMADO, P. O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 9.
 
-Es derecho de los ciudadanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos en que determine el Consejo General del Instituto para cada proceso electoral.
+Es derecho de los ciudadanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos en que determine el Consejo General del Instituto Electoral del Estado de Campeche para cada proceso electoral.
 
 ###### Art. 10.
 
@@ -123,7 +125,9 @@ II. No ser ni haber sido miembro de dirigencias nacionales, estatales o municipa
 
 III. No ser ni haber sido candidato a puesto de elección popular en los últimos tres años anteriores a la elección;
 
-IV. Asistir a los cursos de capacitación, preparación o información que impartan el Instituto Electoral del Estado, el Instituto Federal Electoral o las propias organizaciones a las que pertenezcan los observadores electorales, bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto, las que deberán supervisar dichos cursos. La falta de supervisión no imputable a la organización respectiva no será causa para que se niegue la acreditación; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Asistir a los cursos de capacitación, preparación o información que impartan el Instituto Electoral del Estado de Campeche, el Instituto Federal Electoral o las propias organizaciones a las que pertenezcan los observadores electorales, bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto, las que deberán supervisar dichos cursos. La falta de supervisión no imputable a la organización respectiva no será causa para que se niegue la acreditación; y
 
 V. Declarar bajo protesta de decir verdad no militar en Partido o Agrupación Política alguna.
 
@@ -175,9 +179,11 @@ Los observadores electorales presentarán, ante la autoridad electoral correspon
 
 La violación de cualesquiera de las anteriores disposiciones será sancionada conforme a lo dispuesto por el artículo 481 de este Código, y por el Título Vigésimo Séptimo del Código Penal del Estado.
 
+(REFROMADO, P.O. 30 DE SEPTIEMBRE DE 2005)
+
 ###### Art. 20.
 
-Las organizaciones a las que pertenezcan los observadores electorales, a más tardar veinte días antes al de la jornada electoral, deberán proporcionar el currículum de cada uno de dichos observadores, así como declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo General del Instituto, conforme a los lineamientos y bases técnicas que para tal efecto determine el Consejo General, de dicho informe se proporcionará una copia a los representantes de los Partidos ante el Consejo General. La falta de cumplimiento de lo anterior, será sancionada conforme a lo dispuesto por el artículo 482 de este Código. La organización que pretenda registrar observadores deberá tener un mínimo de tres años de fundada previos a la jornada electoral.
+Las organizaciones a las que pertenezcan los observadores electorales, a más tardar veinte días antes al de la jornada electoral, deberán proporcionar el currículum de cada uno de dichos observadores, así como declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo General del Instituto Electoral del Estado de Campeche, conforme a los lineamientos y bases técnicas que para tal efecto determine dicho Consejo; del informe se proporcionará una copia a los representantes de los Partidos Políticos ante el Consejo General. La falta de cumplimiento de lo anterior, será sancionada conforme a lo dispuesto por el artículo 482 de este Código. La organización que pretenda registrar observadores deberá tener un mínimo de tres años de fundada previos a la jornada electoral.
 
 ###### Art. 21.
 
@@ -187,7 +193,9 @@ I. Estar inscritos en el Registro Federal o Estatal de Electores y contar con cr
 
 II. No ser magistrado adscrito a la Sala Administrativa del Tribunal Superior de Justicia del Estado o secretario de la misma Sala o juez electoral, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate;
 
-III. No ser consejero electoral o secretario en los Consejos General, Municipales o Distritales del Instituto Electoral, o pertenecer al personal profesional del mismo Instituto, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate; y
+(REFROMADA, P.O. 30 DE SEPTIEMBRE DE 2005)
+
+III. No ser consejero electoral o secretario en los Consejos General, Municipales o Distritales del Instituto Electoral del Estado de Campeche, o pertenecer al personal profesional del mismo Instituto, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate; y
 
 IV. No encontrarse comprendido en alguna de las causas de impedimento señaladas en el artículo 34 de la Constitución Política del Estado.
 
@@ -209,13 +217,15 @@ Cada Partido Político o Coalición podrá registrar a un candidato a diputado, 
 
 ### Capítulo Primero. De los Sistemas Electorales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 25.
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral, salvo en el caso que se previene en el artículo anterior.
 
 ###### Art. 26.
 
-El Poder Legislativo del Estado se deposita en un Congreso que se integra por veintiún diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal, conforme a las bases señaladas en el artículo 31 de la Constitución Política del Estado y en este Código. El Congreso se renovará en su totalidad cada tres años. Para los efectos de este artículo el territorio del Estado se constituirá en una sola circunscripción plurinominal. Las listas de representación proporcional se integrarán con catorce candidatos por Partido.
+El Poder Legislativo del Estado se deposita en un Congreso que se integra por veintiún diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal, conforme a las bases señaladas en el artículo 31 de la Constitución Política del Estado y en este Código. El Congreso se renovará en su totalidad cada tres años. Para los efectos de este artículo el territorio del Estado se constituirá en una sola circunscripción plurinominal. Las listas de representación proporcional se integrarán hasta con catorce candidatos por Partido.
 
 ###### Art. 27.
 
@@ -249,9 +259,11 @@ III. Presidente, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, ca
 
 El día en que deban celebrarse las elecciones ordinarias será considerado no laborable en todo el territorio del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 33.
 
-En el año que deban celebrarse elecciones ordinarias, podrán efectuarse elecciones extraordinarias en caso de un desastre natural o por contingencia de fuerza mayor suficiente que impidiera la celebración de las primeras, siempre y cuando el Congreso del Estado así lo determine oportunamente, facultándose al Consejo General del Instituto Electoral del Estado a posponer las elecciones aún cuando éstas ya estuvieren convocadas.
+En el año que deban celebrarse elecciones ordinarias, podrán efectuarse elecciones extraordinarias en caso de un desastre natural o por contingencia de fuerza mayor suficiente que impidiera la celebración de las primeras, siempre y cuando el Congreso del Estado así lo determine oportunamente, facultándose al Consejo General del Instituto Electoral del Estado de Campeche a posponer las elecciones aún cuando éstas ya estuvieren convocadas.
 
 ###### Art. 34.
 
@@ -261,17 +273,21 @@ Cuando se declare nula una elección o los integrantes de la fórmula o planilla
 
 En el caso de vacantes de miembros del Congreso electos por el principio de mayoría relativa, la propia asamblea legislativa convocará a elecciones extraordinarias. Las vacantes de miembros del Congreso, asignados por el principio de representación proporcional, serán cubiertas por aquellos candidatos del mismo Partido o Coalición que les sigan en el orden de la lista respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 36.
 
-Las vacantes de presidente, regidores y síndicos de mayoría relativa se cubrirán en la forma que disponen la Constitución Política del Estado y la Ley Orgánica de los Municipios del Estado. Las de los regidores y síndicos de representación proporcional se cubrirán por aquellos candidatos del mismo Partido o Coalición que le sigan en el orden de la lista respectiva, después de habérsele asignado los que le hubieren correspondido.
+Las vacantes de presidente, regidores y síndicos de mayoría relativa en Ayuntamiento y Juntas Municipales se cubrirán en la forma que disponen la Constitución Política del Estado y la Ley Orgánica de los Municipios del Estado. Las de los regidores y síndicos de representación proporcional se cubrirán por aquellos candidatos del mismo Partido o Coalición que le sigan en el orden de la lista respectiva, después de habérsele asignado los que le hubieren correspondido.
 
 ###### Art. 37.
 
 Las convocatorias para la celebración de elecciones ordinarias o extraordinarias no podrán restringir los derechos que este Código reconoce a los ciudadanos campechanos y a los Partidos Políticos, ni alterar los procedimientos y formalidades que establece.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 38.
 
-El Consejo General del Instituto podrá ajustar los plazos establecidos en este Código conforme a la fecha señalada en la convocatoria respectiva. En ningún caso podrá participar en elecciones ordinarias o extraordinarias el Partido Político que estuviere suspendido o hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante podrá participar en una elección extraordinaria el Partido que hubiese perdido su registro, siempre y cuando hubiere participado con fórmula de candidatos o planilla en la elección ordinaria que fue anulada.
+El Consejo General del Instituto Electoral del Estado de Campeche podrá ajustar los plazos establecidos en este Código conforme a la fecha señalada en la convocatoria respectiva. En ningún caso podrá participar en elecciones ordinarias o extraordinarias el Partido Político que estuviere suspendido o hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante podrá participar en una elección extraordinaria el Partido que hubiese perdido su registro, siempre y cuando hubiere participado con fórmula de candidatos o planilla en la elección ordinaria que fue anulada.
 
 # Libro Segundo. De los Partidos Políticos y de las Agrupaciones Políticas
 
@@ -279,17 +295,21 @@ El Consejo General del Instituto podrá ajustar los plazos establecidos en este 
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 39.
 
-La agrupación política que pretenda constituirse en Partido Político deberá obtener el registro correspondiente ante el Instituto Electoral del Estado.
+La agrupación política que pretenda constituirse en Partido Político deberá obtener el registro correspondiente ante el Instituto Electoral del Estado de Campeche.
 
 ###### Art. 40.
 
 La denominación de "Partido Político Estatal", se reserva para los efectos de este Código, a las Agrupaciones Políticas que obtengan su registro como tal, ante el Consejo General del Instituto Electoral del Estado de Campeche. Los Partidos Políticos Estatales tienen personalidad jurídica, gozan de los derechos y de las prerrogativas y quedan sujetos a las obligaciones que establecen la Constitución Política del Estado y este Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 41.
 
-Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales y a percibir el financiamiento público correspondiente, como si fuesen un Partido Político Estatal, siempre y cuando presenten al Instituto Electoral del Estado su constancia de registro vigente ante el Instituto Federal Electoral, en términos del artículo 32 del Código Federal de Instituciones y Procedimientos Electorales. No tendrán derecho a percibir ese financiamiento público cuando se hallen en el supuesto previsto en la primera parte del artículo 56 de este Código.
+Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales y a percibir el financiamiento público correspondiente, como si fuesen un Partido Político Estatal, siempre y cuando presenten al Instituto Electoral del Estado de Campeche su constancia de registro vigente ante el Instituto Federal Electoral, en términos del artículo 32 del Código Federal de Instituciones y Procedimientos Electorales. Al Partido Político Nacional que no obtenga por lo menos el dos por ciento de la votación en la elección de diputados locales, o que no participe en dicha elección en cuando menos catorce distritos electorales uninominales, perderá todos los derechos y prerrogativas que estable este Código. Lo antes dispuesto no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las correspondientes elecciones, según el principio de mayoría relativa.
 
 ###### Art. 42.
 
@@ -351,7 +371,9 @@ c) Comités o equivalentes en los Municipios;
 
 d) Comités o equivalentes en los Distritos Electorales; y
 
-e) Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales y de campaña a que se refiere el artículo 91 de este Código;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+e) Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes a que se refiere el artículo 91 de este Código;
 
 IV. Las normas para la postulación democrática de sus candidatos;
 
@@ -361,17 +383,23 @@ VI. La obligación de sus candidatos de sostener y difundir la Plataforma Electo
 
 VII. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas y los correspondientes medios y procedimientos de defensa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 47.
 
-Para constituir un Partido Político Estatal, la Agrupación Política interesada notificará ese propósito al Instituto Electoral del Estado entre el primer día de enero y el treinta y uno de julio del año siguiente al de la elección y realizará los siguientes actos previos:
+Para constituir un Partido Político Estatal, la Agrupación Política interesada notificará ese propósito al Instituto Electoral del Estado de Campeche entre el primer día de enero y el treinta y uno de julio del año siguiente al de la elección y realizará los siguientes actos previos:
 
-I. Celebrar en cuando menos seis de los Municipios o diez de los Distritos Electorales a que se refiere la fracción II del artículo 43, una asamblea en presencia de un juez de primera instancia, o de un notario público designado para tal efecto por el Instituto Electoral del Estado, y por un funcionario del propio Instituto, quien certificará:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. Celebrar en cuando menos seis de los Municipios o diez de los Distritos Electorales a que se refiere la fracción II del artículo 43, una asamblea en presencia de un juez de primera instancia, o de un notario público designado para tal efecto por el Instituto Electoral del Estado de Campeche, y por un funcionario del propio Instituto, quien certificará:
 
 a) El número de afiliados que concurrieron a la asamblea municipal o distrital, que en ningún caso podrá ser menor de un mil o seiscientos, respectivamente, de conformidad con lo dispuesto por la fracción II del artículo 43, que conocieron y aprobaron la Declaración de Principios, el Programa de Acción y los Estatutos, y que suscribieron el documento de manifestación formal de afiliación; y
 
 b) Que con las personas mencionadas en el inciso anterior, quedaron formadas las listas de afiliados, con su nombre, apellidos, domicilio, clave de la credencial para votar con fotografía, firma y huella digital; y
 
-II. Celebrar una asamblea estatal constitutiva ante la presencia del funcionario designado por el Instituto Electoral del Estado, quien certificará:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Celebrar una asamblea estatal constitutiva ante la presencia del funcionario designado por el Instituto Electoral del Estado de Campeche, quien certificará:
 
 a) Que asistieron cuando menos las dos terceras partes de los delegados propietarios o suplentes, elegidos en las asambleas municipales o distritales;
 
@@ -383,9 +411,11 @@ d) Que fueron aprobados su Declaración de Principios, Programa de Acción y Est
 
 e) Que se formaron listas de afiliados con los demás militantes con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito del mínimo de seis mil afiliados exigido por este Código. Estas listas contendrán los datos requeridos en el inciso b) de la fracción I de este artículo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 48.
 
-El costo de las certificaciones requeridas en el artículo anterior será con cargo al presupuesto del Instituto Electoral del Estado. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes. En caso de que la Agrupación interesada no presente su solicitud de registro en el plazo previsto en el artículo 52 de este Código dejará de tener efecto la notificación formulada.
+El costo de las certificaciones requeridas en el artículo anterior será con cargo al presupuesto del Instituto Electoral del Estado de Campeche. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes. En caso de que la Agrupación interesada no presente su solicitud de registro en el plazo previsto en el artículo 52 de este Código dejará de tener efecto la notificación formulada.
 
 ###### Art. 49.
 
@@ -431,9 +461,11 @@ VIII. Clausura de la asamblea.
 
 El acta que levante el fedatario de una asamblea distrital, municipal o estatal, deberá contener en detalle el desarrollo de todos y cada uno de los puntos de que conste el orden del día.
 
+(REFROMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)
+
 ###### Art. 52.
 
-Una vez realizados los actos relativos al procedimiento de constitución de un Partido Político Estatal, la Agrupación interesada en el mes de enero del año anterior al de la elección, presentará ante el Consejo General del Instituto Electoral del Estado la solicitud de registro, acompañándola con los siguientes documentos:
+Una vez realizados los actos relativos al procedimiento de constitución de un Partido Político Estatal, la Agrupación interesada en el mes de enero del año anterior al de la elección, presentará ante el Consejo General del Instituto Electoral del Estado de Campeche la solicitud de registro, acompañándola con los siguientes documentos:
 
 I. La Declaración de Principios, el Programa de Acción y los Estatutos aprobados por sus miembros en los términos del artículo 50;
 
@@ -455,9 +487,11 @@ El Consejo General, con base en el proyecto de dictamen de la Comisión y dentro
 
 El registro de los Partidos Políticos, cuando hubiese procedido, surtirá efectos a partir del primer día de enero del año de la elección.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 56.
 
-Al Partido Político que no obtenga por lo menos el dos por ciento de la votación en la elección de diputados le será cancelado el registro y perderá todos los derechos y prerrogativas que establece este Código. Lo antes dispuesto no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las correspondientes elecciones, según el principio de mayoría relativa. El Partido Político Estatal que hubiese perdido su registro no podrá solicitarlo de nueva cuenta, sino hasta después de transcurrido un proceso electoral estatal ordinario.
+Al Partido Político Estatal que no obtenga por lo menos el dos por ciento de la votación en la elección de diputados locales, o que no participe en dicha elección en cuando menos catorce distritos electorales uninominales, perderá todos los derechos y prerrogativas que establece este Código. Lo antes dispuesto no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las correspondientes elecciones, según el principio de mayoría relativa. El Partido Político Estatal que hubiese perdido su registro no podrá solicitarlo de nueva cuenta, sino hasta después de transcurrido un proceso electoral estatal ordinario.
 
 ###### Art. 57.
 
@@ -469,9 +503,11 @@ Las Agrupaciones Políticas Estatales son formas de asociación ciudadana que co
 
 Las Agrupaciones Políticas Estatales y Nacionales sólo podrán participar en los procesos electorales estatales mediante la previa celebración de Acuerdos de Participación con un Partido Político, más no podrán hacerlo con Coaliciones. Las candidaturas surgidas de los Acuerdos de Participación serán registradas por el Partido Político y serán votadas con la denominación, emblema, color o colores del correspondiente Partido. En la propaganda y campaña electoral se podrá mencionar a la Agrupación participante.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 59.
 
-El Acuerdo de Participación a que se refiere el artículo anterior deberá presentarse para su registro ante el presidente del Consejo General del Instituto Electoral del Estado, en los plazos previstos en el artículo 125 de este Código, según corresponda.
+El Acuerdo de Participación a que se refiere el artículo anterior deberá presentarse para su registro ante el presidente del Consejo General del Instituto Electoral del Estado de Campeche, en los plazos previstos en el artículo 125 de este Código, según corresponda.
 
 ###### Art. 60.
 
@@ -481,9 +517,11 @@ A las Agrupaciones Políticas Estatales les será aplicable en lo conducente lo 
 
 Para obtener el registro como Agrupación Política Estatal, quien lo solicite deberá acreditar ante el Consejo General que cuenta con un mínimo de tres mil asociados en el Estado y con un órgano directivo de carácter estatal, además de tener delegaciones en cuando menos seis de los Municipios del Estado; y que dispone de documentos básicos y que su denominación es distinta a la de cualquiera otra Agrupación o Partido. Para la conformación de una Agrupación Política también se aplicarán, en lo que proceda, las disposiciones contenidas en los artículos 44 a 51, 52, fracciones II y III, y 53 del presente Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 62.
 
-La asociación interesada presentará durante el mes de enero, del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, señale el Consejo General del Instituto; éste, dentro del plazo máximo de sesenta días hábiles, contados a partir de la fecha en que reciba la solicitud de registro, resolverá lo conducente.
+La asociación interesada presentará durante el mes de enero, del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, señale el Consejo General del Instituto Electoral del Estado de Campeche; éste, dentro del plazo máximo de sesenta días hábiles, contados a partir de la fecha en que reciba la solicitud de registro, resolverá lo conducente.
 
 ###### Art. 63.
 
@@ -493,17 +531,23 @@ Cuando proceda el registro, el Consejo General expedirá el certificado respecti
 
 El registro de las Agrupaciones Políticas, cuando hubiese procedido, surtirá efectos a partir del primer día de enero del año de la elección.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 65.
 
-Las Agrupaciones Políticas Estatales con registro gozarán de financiamiento público para apoyo de sus actividades editoriales, de educación y capacitación política, e investigación socio-económica y política. Para ese efecto, se constituirá un fondo consistente en una cantidad equivalente al dos por ciento del monto total que anualmente reciban los Partidos Políticos Estatales con registro ante el Instituto para el sostenimiento de sus actividades ordinarias permanentes.
+Las Agrupaciones Políticas Estatales con registro gozarán de financiamiento público para apoyo de sus actividades editoriales, de educación y capacitación política, e investigación socio-económica y política. Para ese efecto, percibirán mensualmente como tope máximo el importe equivalente a ciento cincuenta veces el salario mínimo general vigente en el Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 66.
 
-El fondo a que se refiere el artículo anterior se entregará anualmente a las Agrupaciones Políticas, en términos de lo previsto en el reglamento que al efecto emita el Consejo General del Instituto.
+El financiamiento para las agrupaciones políticas a que se refiere el articulo anterior se calculará anualmente en términos de lo previsto en el reglamento que al efecto emita el Consejo General del Instituto Electoral del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 67.
 
-Ninguna Agrupación Política podrá recibir más del veinte por ciento del total del fondo constituido para este financiamiento.
+Ninguna Agrupación Política podrá recibir más del cien por ciento de los gastos erogados y comprobados correctamente en el año inmediato anterior correspondientes al financiamiento público para apoyo de sus actividades editoriales, de educación y capacitación política, e investigación socio-económica y política.
 
 ###### Art. 68.
 
@@ -521,15 +565,19 @@ V. Dejen de cumplir con los requisitos necesarios para obtener el registro; y
 
 VI. Incumplan las disposiciones que al efecto expida el Consejo General.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 69.
 
-Las Agrupaciones Políticas Nacionales tendrán derecho a participar en las elecciones estatales, siempre y cuando presenten al Consejo General del Instituto Electoral del Estado su constancia de registro vigente ante el Instituto Federal Electoral, en términos del artículo 35 del Código Federal de Instituciones y Procedimientos Electorales.
+Las Agrupaciones Políticas Nacionales tendrán derecho a participar en las elecciones estatales, siempre y cuando presenten al Consejo General del Instituto Electoral del Estado de Campeche su constancia de registro vigente ante el Instituto Federal Electoral, en términos del artículo 35 del Código Federal de Instituciones y Procedimientos Electorales.
 
 ### Capítulo Tercero. De los Derechos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 SE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 70.
 
-Son derechos de los Partidos Políticos con registro ante el Instituto:
+Son derechos de los Partidos Políticos con registro ante el Instituto Electoral del Estado de Campeche:
 
 I. Participar, conforme a lo dispuesto en la Constitución Política del Estado y en este Código, en la preparación, desarrollo y vigilancia del proceso electoral;
 
@@ -543,7 +591,9 @@ V. Formar Frentes y Coaliciones, así como fusionarse, en los términos de este 
 
 VI. Nombrar representantes ante los órganos electorales en el Estado, en los términos de la Constitución Política del Estado y este Código;
 
-VII. Ser propietarios, poseedores o administradores sólo de los bienes muebles e inmuebles que sean indispensables para el cumplimiento directo e inmediato de sus fines. La Dirección Ejecutiva de Administración y Prerrogativas del Instituto llevará un registro de tales bienes, por cada Partido, para los efectos a que se contrae el artículo 134;
+> <small>(REFORMADA, P.O. 30 SE SEPTIEMBRE DE 2005)</small>
+
+VII. Ser propietarios, poseedores o administradores sólo de los bienes muebles e inmuebles que sean indispensables para el cumplimiento directo e inmediato de sus fines. La Dirección Ejecutiva de Administración y Prerrogativas del Instituto Electoral del Estado de Campeche llevará un registro de tales bienes, por cada Partido, para los efectos a que se contrae el artículo 134;
 
 VIII. Establecer relaciones con organizaciones o Partidos Políticos de otros Estados o nacionales, siempre y cuando se mantenga en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado y de sus órganos de gobierno;
 
@@ -551,13 +601,21 @@ IX. Suscribir Acuerdos de Participación con las Agrupaciones Políticas Estatal
 
 X. Tener una oficina en las instalaciones del Instituto, para lo cual éste les proporcionará los recursos necesarios y se hará constar en el reglamento respectivo; este apoyo no podrá ser inferior al dos por ciento, ni mayor del cinco por ciento mensual con referencia a la prerrogativa que reciba el Partido con mayor ingreso vía financiamiento para gasto ordinario que otorga el propio Instituto; y
 
-XI. Los demás que les otorgue este Código.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XI. Percibir un apoyo económico anual para el representante propietario acreditado ante el Consejo General del Instituto Electoral del Estado de Campeche, distribuido en ministraciones mensuales, que no podrá ser inferior al dos por ciento, ni mayor del cinco por ciento mensual con referencia a la prerrogativa que reciba el Partido con mayor ingreso vía financiamiento para gasto ordinario que otorga el propio Instituto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 30 SE SEPTIEMBRE DE 2005)</small>
+
+XII. Los demás que les otorgue este Código.
+
+(RFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)
 
 ###### Art. 71.
 
-No podrán actuar como representantes de los Partidos Políticos o Coaliciones, ante los órganos electorales estatales, quienes tengan la calidad de:
+No podrán actuar como representantes de los Partidos Políticos o Coaliciones, ante los órganos del Instituto Electoral del Estado de Campeche, quienes tengan la calidad de:
 
-I. Magistrado, juez o secretario del (sic) algún órgano del Poder Judicial del Estado;
+I. Magistrado, juez o secretario del algún órgano del Poder Judicial del Estado;
 
 II. Magistrado, juez o secretario del Poder Judicial Federal;
 
@@ -567,9 +625,11 @@ IV. Agente del Ministerio Público Federal o Local, o Delegado, Gerente, Agente 
 
 ### Capítulo Cuarto. De las Obligaciones
 
+> <small>(REFORMADPRIMER PARRAFO, P.O. 30 SE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 72.
 
-Son obligaciones de los Partidos Políticos con registro ante el Instituto:
+Son obligaciones de los Partidos Políticos con registro ante el Instituto Electoral del Estado de Campeche:
 
 I. Conducir sus actividades dentro de los cauces legales y ajustar su conducta, la de sus militantes y candidatos a los principios del estado democrático, respetando la libre participación política de los demás Partidos Políticos y los derechos de los ciudadanos;
 
@@ -593,11 +653,17 @@ X. Sostener por lo menos un Centro de Formación Política;
 
 XI. Publicar y difundir en las demarcaciones electorales en que participen, la Plataforma Electoral que el Partido y sus candidatos sostendrán en la elección de que se trate;
 
-XII. Permitir la práctica de auditorías y verificaciones que ordene la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto, así como entregar la documentación que la propia Comisión les solicite respecto a sus ingresos y egresos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-XIII. Comunicar al Consejo General del Instituto cualquiera modificación a su Declaración de Principios, Programa de Acción o Estatutos, dentro de los diez días hábiles siguientes a la fecha en que se tome el acuerdo correspondiente por el Partido. Las modificaciones no surtirán efecto hasta que el Consejo General declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de treinta días hábiles, contados a partir de la presentación de la documentación correspondiente. Las modificaciones en ningún caso se podrán hacer una vez iniciado el proceso electoral;
+XII. Permitir la práctica de auditorías y verificaciones que ordene la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto Electoral del Estado de Campeche, así como entregar la documentación que la propia Comisión les solicite respecto a sus ingresos y egresos;
 
-XIV. Comunicar oportunamente al Consejo General del Instituto los cambios de su domicilio social o de los integrantes de sus órganos directivos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XIII. Comunicar al Consejo General del Instituto Electoral del Estado de Campeche, cualquiera modificación a su Declaración de Principios, Programa de Acción o Estatutos, dentro de los diez días hábiles siguientes a la fecha en que se tome el acuerdo correspondiente por el Partido. Las modificaciones no surtirán efecto hasta que el Consejo General declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de treinta días hábiles, contados a partir de la presentación de la documentación correspondiente. Las modificaciones en ningún caso se podrán hacer una vez iniciado el proceso electoral;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XIV. Comunicar oportunamente al Consejo General del Instituto Electoral del Estado de Campeche, los cambios de su domicilio social o de los integrantes de sus órganos directivos;
 
 XV. Actuar y conducirse sin ligas de dependencia o subordinación con Partidos Políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de cultos de cualquier religión o secta;
 
@@ -609,15 +675,25 @@ XVIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusi
 
 XIX. Abstenerse de realizar afiliaciones colectivas de ciudadanos; y
 
-XX. Las demás que establece este Código.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XX. Abstenerse de solicitar registro como candidato al precandidato que plenamente se haya comprobado, determinado por autoridad competente que hubiera realizado actividades que infrinjan los artículos 293, 294 y 295 de este código;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 30 SE SEPTIEMBRE DE 2005)</small>
+
+XXI. Las demás que establezca este Código.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 73.
 
-El incumplimiento de las obligaciones señaladas por el artículo anterior será objeto de sanción en los términos del Libro Sexto de este Código. Las sanciones se aplicarán por el Consejo General del Instituto Electoral del Estado, con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse, en los términos de ley, a los Partidos Políticos, Agrupaciones Políticas, dirigentes y candidatos.
+El incumplimiento de las obligaciones señaladas por el artículo anterior será objeto de sanción en los términos del Libro Sexto de este Código. Las sanciones se aplicarán por el Consejo General del Instituto Electoral del Estado de Campeche, con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse, en los términos de ley, a los Partidos Políticos, Agrupaciones Políticas, dirigentes y candidatos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 74.
 
-Un Partido Político o una Agrupación Política, aportando los suficientes e idóneos elementos de prueba, podrá pedir al Consejo General del Instituto Electoral del Estado se investiguen las actividades de otro Partido Político o de una Agrupación Política, cuando incumplan sus obligaciones de manera grave o sistemática.
+Un Partido Político o una Agrupación Política, aportando los suficientes e idóneos elementos de prueba, podrá pedir al Consejo General del Instituto Electoral del Estado de Campeche se investiguen las actividades de otro Partido Político o de una Agrupación Política, cuando incumplan sus obligaciones de manera grave o sistemática.
 
 ### Capítulo Único
 
@@ -661,9 +737,11 @@ Los Partidos Políticos Estatales no podrán solicitar créditos provenientes de
 
 Los Partidos Políticos, en los términos del inciso e) de la fracción III del artículo 46 de este Código, deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere el artículo 91 de este mismo ordenamiento. Dicho órgano se constituirá en los términos y con las modalidades y características que cada Partido libremente determine.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 79.
 
-Para la revisión de los informes que los Partidos Políticos y las Agrupaciones Políticas presenten sobre el origen y destino de sus recursos anuales y de campaña, según corresponda, así como para la vigilancia del manejo de sus recursos, se constituirá la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto Electoral del Estado. Esta Comisión funcionará de manera permanente.
+Para la revisión de los informes que los Partidos Políticos y las Agrupaciones Políticas presenten sobre el origen y destino de sus recursos financieros a que se refiere el articulo 91 de este Código, según corresponda, así como para la vigilancia del manejo de sus recursos, se constituirá la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto Electoral del Estado de Campeche. Esta Comisión funcionará de manera permanente.
 
 ### Capítulo Primero. Disposiciones Generales
 
@@ -683,7 +761,9 @@ IV. Comunicación social.
 
 Para el otorgamiento del financiamiento público destinado al sostenimiento de las actividades ordinarias permanentes se observarán las reglas siguientes:
 
-I. El Consejo General del Instituto Electoral del Estado determinará anualmente, con base en los estudios que le presente una Comisión integrada por tres Consejeros Electorales, los costos mínimos de una campaña para diputado tomando como base los costos aprobados para el año inmediato anterior, actualizándolos mediante la aplicación del Índice Nacional de Precios al Consumidor, que establezca el Banco de México, así como los demás factores que el propio Consejo General determine. El Consejo General deberá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. El Consejo General del Instituto Electoral del Estado de Campeche determinará anualmente, con base en los estudios que le presente una Comisión integrada por tres Consejeros Electorales, los costos mínimos de una campaña para diputado tomando como base los costos aprobados para el año inmediato anterior, actualizándolos mediante la aplicación del Índice Nacional de Precios al Consumidor, que establezca el Banco de México, así como los demás factores que el propio Consejo General determine. El Consejo General deberá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
 
 II. El costo mínimo de una campaña para diputado será multiplicado por el total de diputados a elegir por el principio de mayoría relativa y por el número de Partidos Políticos con representación en el Congreso del Estado;
 
@@ -697,9 +777,13 @@ V. Cada Partido Político deberá destinar anualmente, por lo menos, el dos por 
 
 El otorgamiento del financiamiento público para gastos de campaña se ajustará a las siguientes reglas:
 
-I. En el año de la elección, a cada Partido Político se le otorgará un monto equivalente al financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
+I. En el año de la elección, a cada Partido Político se le otorgará un monto equivalente al financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y (sic)
 
-II. El monto para gastos de campaña se otorgará a los Partidos Políticos en forma adicional al resto de las prerrogativas. Las ministraciones por dicho concepto se entregarán, de manera proporcional, durante los primeros cinco meses del año electoral.
+II. El monto para gastos de campaña se otorgará a los Partidos Políticos en forma adicional al resto de las prerrogativas. Las ministraciones por dicho concepto se entregarán, de manera proporcional, durante los primeros cinco meses del año electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Al Partido Político Nacional o Estatal que, al concluir el plazo señalado en la fracción I del articulo 302 de este Código, no haya registrado candidatos en la elección de diputados locales, por el principio de mayoría relativa en cuando menos catorce de los distritos electorales uninominales, no tendrán derecho a percibir financiamiento público para gastos de campaña. En este supuesto, el Instituto Electoral del Estado de Campeche, procederá de inmediato a suspenderle todo tipo de financiamiento público y a solicitarle la devolución, a través de su presidente del Comité Directivo Estatal o su equivalente, de las ministraciones que por concepto de gastos de campaña se le hayan entregado, en un plazo para su devolución de 15 días. Si concluye el plazo sin la devolución del recurso requerido, el Instituto Electoral del Estado de Campeche, procederá a descontar los montos cubiertos a dicho partido político del financiamiento que por los diferentes conceptos le correspondan, por los meses subsecuentes del ejercicio fiscal de que se trate. El instituto Electoral del Estado de Campeche emitirá el reglamento correspondiente.
 
 ## Título Tercero. Del Financiamiento de los Partidos Políticos
 
@@ -709,7 +793,9 @@ II. El monto para gastos de campaña se otorgará a los Partidos Políticos en f
 
 El otorgamiento del financiamiento público para actividades específicas como entidades de interés público se ajustará a las siguientes reglas:
 
-I. La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los Partidos Políticos, sus Institutos o Fundaciones, podrán ser apoyadas mediante el financiamiento público en los términos del reglamento que expida el Consejo General del Instituto Electoral del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los Partidos Políticos, sus Institutos o Fundaciones, podrán ser apoyadas mediante el financiamiento público en los términos del reglamento que expida el Consejo General del Instituto Electoral del Estado de Campeche;
 
 II. El Consejo General no podrá acordar apoyos en cantidad mayor al cien por ciento anual, de los gastos comprobados que por las actividades a que se refiere la fracción anterior de este artículo hayan erogado los Partidos Políticos en el año inmediato anterior; y
 
@@ -719,9 +805,11 @@ III. Las cantidades que en su caso se determinen para cada Partido, serán entre
 
 El financiamiento público para comunicación social no podrá ser inferior al cincuenta por ciento del monto que se otorgue para financiamiento de actividades ordinarias, destinando del total un 30% para distribuirse en partes iguales entre los Partidos, en cuanto a tiempo, y el 70% restante de acuerdo con el porcentaje de votación obtenida en la elección de diputados inmediata anterior.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 85.
 
-Los Partidos Políticos que, conservando su registro, no tengan representación en el Congreso del Estado, percibirán mensualmente en concepto de financiamiento público para actividades ordinarias permanentes la cantidad que importe el monto de ciento cincuenta veces el salario mínimo general diario vigente en el Estado, en el momento de su pago, así como las cantidades que les correspondan como financiamiento público para actividades específicas, para comunicación social y para gastos de campaña, en este último caso el monto del financiamiento será por cantidad similar a la de actividades ordinarias permanentes.
+Los Partidos Políticos que, conservando su registro, no tengan representación en el Congreso del Estado, percibirán mensualmente en concepto de financiamiento público para actividades ordinarias permanentes la cantidad que importe el monto de doscientos cincuenta veces el salario mínimo general diario vigente en el Estado, en el momento de su pago, así como las cantidades que les correspondan como financiamiento público para actividades específicas, para comunicación social y para gastos de campaña, en este último caso el monto del financiamiento será por cantidad similar a la de actividades ordinarias permanentes.
 
 ###### Art. 86.
 
@@ -767,33 +855,93 @@ II. Los fondos y fideicomisos que se constituyan serán manejados a través de l
 
 III. Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del Partido Político.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 91.
 
-Los Partidos Políticos y las Agrupaciones Políticas deberán presentar ante la Comisión de Fiscalización los informes del origen y monto de los ingresos que reciban por cualquiera modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
+Los Partidos Políticos y las Agrupaciones Políticas deberán presentar ante la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas, los informes del origen y monto de los ingresos que reciban por cualquiera modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
 
-A. Informes anuales:
+A. Informes de actividades ordinarias permanentes:
 
-I. Serán presentados a más tardar dentro de los sesenta días hábiles siguientes al último día de diciembre del año del ejercicio que se reporte; y
+I. Serán presentados a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la conclusión de cada semestre del año que se reporte; y
 
-II. En el informe anual serán reportados los ingresos totales y gastos ordinarios que los Partidos y las Agrupaciones Políticas hayan realizado durante el ejercicio objeto del informe. Al informe se acompañará la documentación comprobatoria de los indicados ingresos y gastos; y
+II. Al informe se acompañará la documentación comprobatoria original de los ingresos y gastos realizados por actividades ordinarias permanentes.
 
-B. Informes de campaña:
+B. Informes de Actividades Específicas:
 
-I. Deberán presentarse por los Partidos Políticos, por cada una de las campañas en las elecciones respectivas, especificando los gastos que el Partido Político y el candidato hayan realizado en el ámbito territorial correspondiente;
+I. Deberá presentarse a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la conclusión del primer semestre del año, un informe de los gastos erogados durante este período;
+
+II. Se presentará, dentro de los primeros veinte días hábiles del mes de octubre de cada año, el informe de los gastos erogados durante el tercer trimestre del año,
+
+III. Será presentado dentro de los primeros diez días hábiles del año inmediato posterior, el informe de los gastos erogados durante el último trimestre del año; y
+
+IV. En el informe serán reportados los gastos erogados durante cada período señalado en las fracciones anteriores, por cualquiera de las actividades que se establecen en el artículo 83 de este Código;
+
+C. Informes de precampaña:
+
+I. Deberán presentarse por los Partidos Políticos, por cada una de las precampañas en las elecciones respectivas, especificando los gastos que el Partido Político y el precandidato hayan realizado en el ámbito territorial correspondiente;
+
+II. Serán presentados a más tardar dentro de los cuarenta y cinco días naturales siguientes contados a partir del día quince de abril del año del proceso electoral; y
+
+III. En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros señalados en el artículo 294 de este Código, así como el monto y destino de dichas erogaciones;
+
+D. Informes de campaña:
+
+I. Deberán presentarse por los Partidos Políticos o Coalición, por cada una de las campañas en las elecciones respectivas, especificando los gastos que el Partido Político y el candidato hayan realizado en el ámbito territorial correspondiente;
 
 II. Serán presentados a más tardar dentro de los sesenta días hábiles siguientes contados a partir del día en que concluyan las campañas electorales; y
 
 III. En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros señalados en el artículo 320 de este Código, así como el monto y destino de dichas erogaciones.
 
+E. Informes Anuales de ingresos y egresos:
+
+I. Deberán ser presentados a más tardar dentro de los cuarenta y cinco días hábiles siguientes al último día de diciembre del año del ejercicio que se reporte; y
+
+II. Serán reportados los ingresos y egresos totales que los Partidos y Agrupaciones Políticas hayan realizado por cada una de las modalidades de financiamiento durante el ejercicio objeto del informe.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 92.
 
-El procedimiento para la presentación y revisión de los informes de los Partidos Políticos y las Agrupaciones Políticas se sujetará a las siguientes reglas:
+El procedimiento para la presentación y revisión de los Informes de los Partidos Políticos y las Agrupaciones Políticas se sujetará a las siguientes reglas:
 
-I. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas contará con sesenta días hábiles para revisar los informes anuales y con ciento veinte días hábiles para revisar los informes de campaña presentados por los Partidos Políticos y, en su caso, por las Agrupaciones Políticas. La Comisión tendrá, en todo momento, la facultad de solicitar a los órganos responsables del financiamiento de cada Partido Político y a las Agrupaciones Políticas, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
+A. Informes de actividades Ordinarias Permanentes e Informe Anual de Ingresos y Egresos:
 
-II. Si durante la revisión de los informes la Comisión advierte la existencia de errores u omisiones técnicas, notificará al Partido Político o a la Agrupación Política que hubiese incurrido en ellos para que en un plazo de diez días hábiles contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes; y
+I. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas contará con treinta días hábiles para revisar los informes semestrales de actividades ordinarias permanentes, dentro de este mismo plazo se revisarán los datos registrados en el Informe Anual de Ingresos y Egresos.
 
-III. Al vencimiento del plazo señalado en la fracción I de este artículo o, en su caso, al concedido para la rectificación de errores u omisiones, la Comisión dispondrá de un plazo de veinte días hábiles para elaborar un dictamen consolidado que deberá presentar, al Consejo General del Instituto, dentro de los tres días hábiles siguientes a su conclusión.
+II.- Si durante la revisión de los informes la Comisión advierte la existencia de errores u omisiones técnicas, tanto en los informes de gastos ordinarios como en los informes anuales, notificará al Partido Político o a la Agrupación Política que presuntamente hubiese incurrido en ellos para que en un plazo de veinte días hábiles contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que este estime pertinentes; y
+
+III.- Una vez concluida la revisión del último semestre del informe de gastos ordinarios permanentes y del informe anual de ingresos y egresos o en su caso al vencimiento del plazo concedido para la rectificación de errores u omisiones, la Comisión de Fiscalización dispondrá de un plazo de veinte días hábiles para elaborar un Dictamen Consolidado y Proyecto de Resolución, que deberá presentar, al Consejo General del Instituto Electoral del Estado de Campeche, dentro de los tres días hábiles siguientes a su conclusión, para su correspondiente aprobación, el Dictamen Consolidado incluirá los resultados de la revisión de los informes de gastos ordinarios permanentes y de los informes anuales de ingresos y egresos.
+
+B. Informes de Precampaña:
+
+I. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas contará con treinta días hábiles para revisar los informes de precampaña;
+
+II. Si durante la revisión de los informes la Comisión advierte la existencia de errores u omisiones técnicas, notificará al Partido Político que hubiese incurrido en ellos para que en un plazo de quince días hábiles contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes; y
+
+III. Al vencimiento del plazo señalado en la fracción I de este apartado o en su caso, del concedido para la rectificación de errores u omisiones, la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas dispondrá de un plazo de veinte días hábiles para elaborar un dictamen consolidado que deberá presentar, al Consejo General del Instituto Electoral del Estado de Campeche, dentro de los tres días hábiles siguientes a su conclusión, para su correspondiente aprobación;
+
+C. Informes de Campaña:
+
+I. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas contará con ciento veinte días hábiles para revisar los informes de campaña;
+
+II. Si durante la revisión de los informes la Comisión advierte la existencia de errores u omisiones técnicas, notificará al Partido Político o Coalición que hubiese incurrido en ellos para que en un plazo de quince días hábiles contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes; y
+
+III. Al vencimiento del plazo señalado en la fracción I de este apartado, o en su caso, al concedido para la rectificación de errores u omisiones, la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas dispondrá de un plazo de veinte días hábiles para elaborar un dictamen consolidado que deberá presentar, al Consejo General del Instituto Electoral del Estado de Campeche, dentro de los tres días hábiles siguientes a su conclusión, para su correspondiente aprobación;
+
+D. Informes de Actividades Específicas:
+
+I. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas contará hasta con diez días hábiles para la revisión de los Informes de Actividades Específicas, presentados por los Partidos Políticos y por las Agrupaciones Políticas;
+
+II. Si durante la revisión de los informes la Comisión advierte la existencia de errores u omisiones técnicas, notificará al Partido Político o a la Agrupación Política que hubiese incurrido en ellos para que en un plazo de diez días hábiles contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
+
+III. Al vencimiento del plazo señalado en la fracción I de este apartado, o en su caso, al concedido para la rectificación de errores u omisiones, la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas dispondrá de un plazo de tres días hábiles para la revisión de solventación de errores u omisiones;
+
+IV. Una vez concluida la revisión del informe del cuarto trimestre y al término del plazo señalado en la fracción anterior, la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas contará hasta con tres días hábiles para consolidación de las cifras, elaboración y presentación del Informe respectivo a la Comisión de Prerrogativas y Partidos Políticos;
+
+V. La Comisión de Prerrogativas y Partidos Políticos contará con tres días hábiles para la elaboración del dictamen por el que se determina el importe que le corresponde a cada partido político durante el año, así como el monto total definitivo a que ascenderá el financiamiento de actividades específicas; y
+
+VI. La Comisión de Prerrogativas y Partidos Políticos contará con tres días hábiles para la presentación del dictamen al Consejo General para su aprobación.
 
 ###### Art. 93.
 
@@ -819,25 +967,41 @@ II. Una vez cumplido el plazo para la interposición del recurso o, presentado �
 
 III. Acordar los mecanismos que considere convenientes para la difusión pública del dictamen y, en su caso, de las resoluciones. Los informes anuales de los Partidos se publicarán en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 96.
 
-La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto, tendrá a su cargo entre otras atribuciones las siguientes:
+La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto Electoral del Estado de Campeche, tendrá respecto de los Partidos Políticos, Coaliciones y Agrupaciones Políticas, según corresponda las atribuciones siguientes:
 
-I. Elaborar los lineamientos para la presentación de los informes del origen y monto de los ingresos que los Partidos Políticos y las Agrupaciones Políticas reciban por cualquiera modalidad de financiamiento, así como su empleo y aplicación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Establecer los lineamientos para que los Partidos Políticos y las Agrupaciones Políticas lleven el registro de sus ingresos y egresos y de la documentación comprobatoria sobre el manejo de sus recursos;
+I. Proponer los lineamientos para la presentación de los informes del origen y monto de los ingresos que reciban por cualquiera modalidad de financiamiento, así como su empleo y aplicación;
 
-III. Vigilar que los recursos, que sobre el financiamiento ejerzan los Partidos y las Agrupaciones Políticas, se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-IV. Solicitar a los Partidos y a las Agrupaciones Políticas, a partir de la conclusión del proceso electoral, rindan informe detallado respecto de sus ingresos y egresos;
+II. Proponer los lineamientos para que lleven el registro de sus ingresos y egresos y de la documentación comprobatoria sobre el manejo de sus recursos;
 
-V. Revisar los informes que los Partidos y las Agrupaciones Políticas presenten sobre el origen y destino de sus recursos anuales y de campaña, según corresponda; así como proceder a la revisión y fiscalización de la documentación comprobatoria de los gastos por actividades específicas realizadas por los Partidos Políticos, de acuerdo a lo que previene el artículo 83 de este Código y el reglamento respectivo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Vigilar que los recursos, que sobre el financiamiento ejerzan los partidos y las agrupaciones políticas, se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Solicitar los informes detallados respecto de sus ingresos y egresos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+V. Revisar los informes que se presenten sobre el origen y destino de sus recursos anuales, de precampaña, y de campaña según corresponda; así como proceder a la revisión y fiscalización de la documentación comprobatoria de los gastos por actividades específicas realizadas por los Partidos Políticos, de acuerdo a lo que previene el artículo 83 de este Código y el reglamento respectivo.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 VI. Ordenar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los Partidos y Agrupaciones Políticas;
 
 VII. Ordenar visitas de verificación a los Partidos y Agrupaciones Políticas con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
 
-VIII. Presentar al Consejo General del Instituto los dictámenes que formule respecto de las auditorías y verificaciones practicadas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. Presentar al Consejo General del Instituto Electoral del Estado de Campeche, los dictámenes que formule respecto de las auditorías y verificaciones practicadas;
 
 IX. Informar al Consejo General de las irregularidades en que hubiesen incurrido los Partidos y las Agrupaciones Políticas derivadas del manejo de sus recursos; el incumplimiento a su obligación de informar sobre la aplicación de los mismos y, en su caso, de las sanciones que a su juicio procedan;
 
@@ -845,13 +1009,17 @@ X. Proporcionar a los Partidos y a las Agrupaciones Políticas la orientación y
 
 XI. Las demás que le confiera este Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 97.
 
-La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto, para su eficaz desempeño, contará con el personal técnico que autorice el Consejo General y permita el presupuesto del Instituto.
+La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Consejo General del Instituto Electoral del Estado de Campeche, para su eficaz desempeño, contará con el personal técnico que autorice el Consejo General y permita el presupuesto del Instituto.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 98.
 
-Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los Partidos y Agrupaciones Políticas deberán ser presentadas ante el secretario ejecutivo del Consejo General del Instituto, quien las turnará a la Comisión a efecto de que las analice previamente a que rinda su informe.
+Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los Partidos y Agrupaciones Políticas deberán ser presentadas ante el secretario ejecutivo del Consejo General del Instituto del Estado de Campeche, quien las turnará a la Comisión a efecto de que las analice previamente a que rinda su informe.
 
 ###### Art. 99.
 
@@ -879,9 +1047,11 @@ III. Los propósitos que persiguen; y
 
 IV. La forma que convengan los Partidos Políticos para ejercer en común sus prerrogativas, dentro de los señalamientos de este Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 103.
 
-El convenio que se celebre para integrar un Frente deberá presentarse, para su revisión, al Consejo General del Instituto Electoral del Estado. El Consejo, dentro de los diez días hábiles siguientes a la fecha de presentación, resolverá si cumple los requisitos legales y, en su caso, dispondrá su publicación en el Periódico Oficial del Estado para que surta sus efectos.
+El convenio que se celebre para integrar un Frente deberá presentarse, para su revisión, al Consejo General del Instituto Electoral del Estado de Campeche. El Consejo, dentro de los diez días hábiles siguientes a la fecha de presentación, resolverá si cumple los requisitos legales y, en su caso, dispondrá su publicación en el Periódico Oficial del Estado para que surta sus efectos.
 
 ###### Art. 104.
 
@@ -979,9 +1149,11 @@ La Coalición por la que se postulen candidatos a diputados por el principio de 
 
 Para el registro de la Coalición los Partidos Políticos que pretendan coaligarse deberán cumplir con lo señalado en las fracciones I y II del artículo 114 y registrar las candidaturas de la Coalición por el principio de mayoría relativa, propietario y suplente, en cuando menos catorce Distritos Electorales Uninominales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 120.
 
-Si la Coalición no registra las fórmulas de candidatos a que se refiere el artículo anterior, dentro de los plazos establecidos en este Código, la Coalición y el registro de sus candidatos quedarán sin efectos, debiendo declararlo así, mediante la expedición del correspondiente acuerdo, el Consejo General del Instituto, acuerdo que se publicará en el Periódico Oficial del Estado.
+Si la Coalición no registra las fórmulas de candidatos a que se refiere el artículo anterior, dentro de los plazos establecidos en este Código, la Coalición y el registro de sus candidatos quedarán sin efectos, debiendo declararlo así, mediante la expedición del correspondiente acuerdo, el Consejo General del Instituto Electoral del Estado de Campeche, acuerdo que se publicará en el Periódico Oficial del Estado.
 
 ###### Art. 121.
 
@@ -1007,7 +1179,7 @@ II. Los órganos partidistas correspondientes hayan, de conformidad con sus Esta
 
 III. Los órganos partidistas correspondientes aprobaron la Plataforma Electoral de la Coalición; y
 
-IV. Presentó candidaturas de la Coalición por el principio de mayoría relativa en todos los Municipios del Estado.
+IV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005)
 
 ###### Art. 124.
 
@@ -1035,13 +1207,19 @@ X. El porcentaje de la votación obtenida por la Coalición, que corresponderá 
 
 XI. El señalamiento, de ser el caso, del Partido Político al que pertenece originalmente cada uno de los candidatos registrados por la Coalición y el señalamiento del grupo parlamentario o Partido Político en el que quedarían comprendidos en el caso de resultar electos;
 
-XII. Para el caso de la interposición de los medios de impugnación previstos en este Código, quien ostentaría la representación de la Coalición; y
+XII. Para el caso de la interposición de los medios de impugnación previstos en este Código, quien ostentaría la representación de la Coalición; y (sic)
 
-XIII. La aceptación del candidato o candidatos a ser postulados por la Coalición.
+XIII. La aceptación del candidato o candidatos a ser postulados por la Coalición;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XIV. La mención, en lo referente a la presentación de los Informes de Campaña, de qué partido será responsable de la administración de los recursos de la coalición, el cuál deberá cumplir con lo establecido en este Código en el artículo 91, apartado C.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 125.
 
-La solicitud de registro de convenio de coalición para la elección de gobernador deberá presentarse al presidente del Consejo General del Instituto Electoral del Estado cuando menos treinta días antes de la fecha del inicio del registro de candidatos, acompañada de la documentación pertinente. La del convenio de coalición para la elección de diputados, presidente, regidores y síndicos deberá presentarse ante el mismo funcionario, a más tardar treinta días antes de que se inicie el registro de candidatos de la elección de que se trate. Durante las ausencias del presidente del Consejo General, las solicitudes se podrán presentar ante el secretario ejecutivo del propio Consejo General. El presidente del Consejo General integrará el respectivo expediente e informará al mismo Consejo.
+La solicitud de registro de los convenios de coalición, deberá presentarse al presidente del Consejo General del Instituto Electoral del Estado de Campeche a más tardar treinta días antes de que se inicie el registro de candidatos de la elección de que se trate, acompañada de la documentación que se señala en el articulo anterior. Durante las ausencias del presidente, las solicitudes se podrán presentar ante el secretario ejecutivo del propio Consejo. El presidente integrará el respectivo expediente e informará a dicho Consejo.
 
 ###### Art. 126.
 
@@ -1055,49 +1233,75 @@ Los Partidos Políticos que decidan fusionarse, deberán celebrar un convenio en
 
 Para todos los efectos legales, la vigencia del registro del nuevo Partido será la que corresponda al registro del Partido más antiguo entre los que se fusionen.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 129.
 
-El convenio de fusión deberá presentarse al presidente del Consejo General del Instituto, para que éste lo someta a la consideración del propio Consejo. El Consejo General resolverá sobre la vigencia del registro del nuevo Partido, dentro de los treinta días hábiles siguientes a su presentación y publicará la resolución en el Periódico Oficial del Estado.
+El convenio de fusión deberá presentarse al presidente del Consejo General del Instituto Electoral del Estado de Campeche, para que éste lo someta a la consideración del propio Consejo. El Consejo General resolverá sobre la vigencia del registro del nuevo Partido, dentro de los treinta días hábiles siguientes a su presentación y publicará la resolución en el Periódico Oficial del Estado.
+
+REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)
 
 ###### Art. 130.
 
-Para fines electorales, el convenio de fusión deberá comunicarse al presidente del Consejo General del Instituto Electoral del Estado a más tardar un año antes del día de la elección.
+Para fines electorales, el convenio de fusión deberá comunicarse al presidente del Consejo General del Instituto Electoral del Estado de Campeche a más tardar un año antes del día de la elección.
 
 ###### Art. 131.
 
 Son causas de pérdida del registro de un Partido Político Estatal:
 
-I. No obtener el dos por ciento de la votación total emitida en la última elección de diputados, de gobernador, o de presidente, regidores y síndicos, bien sea que haya participado sólo o coaligado con otro u otros Partidos. En este último caso se estará a los términos del convenio celebrado al efecto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
+I. No haber participado en un proceso electoral estatal ordinario, en la elección de diputados locales en al menos catorce distritos electorales uninominales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. No obtener el dos por ciento de la votación emitida en la última elección de diputados locales, bien sea que haya participado sólo o coaligado con otro u otros Partidos. En este último caso se estará a los términos del convenio celebrado al efecto;
 
 III. Incumplir de manera grave y sistemática, a juicio del Consejo General del Instituto Electoral del Estado, las obligaciones que le señala este Código;
 
-IV. No participar en un proceso electoral estatal ordinario;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Incumplir de manera grave y sistemática, a juicio del Consejo General del Instituto Electoral del Estado de Campeche, las obligaciones que le señala este Código;
 
 V. Haber sido declarado disuelto, por acuerdo de sus miembros, conforme a lo que establezcan sus Estatutos; y
 
 VI. Haberse fusionado con otro Partido Político, en los términos del Capítulo Cuarto del Título anterior.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 132.
 
-Para declarar la pérdida del registro a que se refieren las fracciones I, III y IV del artículo anterior, el Consejo General del Instituto Electoral del Estado formará una Comisión integrada por un mínimo de tres Consejeros, para efecto de que emita un dictamen que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los Consejos del Instituto, así como en las resoluciones de los órganos judiciales electorales, debiéndola publicar en el Periódico Oficial del Estado.
+Para declarar la pérdida del registro a que se refieren las fracciones I y II del artículo anterior, la Junta General Ejecutiva del Instituto Electoral del Estado de Campeche elaborará el proyecto de dictamen correspondiente en los términos del artículo 172 fracción VIII, que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los Consejos del Instituto, así como en las resoluciones de los órganos judiciales electorales. La declaratoria de pérdida de registro que realice el Consejo General del Instituto Electoral del Estado de Campeche se deberá publicar en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 133.
 
-En los casos a que se refieren las fracciones III a VI del artículo 68 de este Código y las fracciones II, V y VI del artículo 131, la resolución del Consejo General del Instituto Electoral del Estado sobre la pérdida del registro de una Agrupación Política o de un Partido Político, según sea el caso, se publicará en el Periódico Oficial del Estado. No podrá resolverse sobre la pérdida de registro sin que previamente se oiga en defensa a la Agrupación Política o al Partido Político interesado.
+En los casos a que se refieren las fracciones III a VI del articulo 68 y las fracciones III, IV, V y VI del artículo 131 de este Código, el Consejo General del Instituto Electoral del Estado de Campeche, integrará una comisión por un mínimo de tres consejeros electorales, a efecto que emita un proyecto de dictamen sobre la pérdida del registro.
+
+No podrá el Consejo General Electoral resolver sobre la pérdida de registro sin que previamente se oiga en su defensa al Partido o Agrupación Política interesado que deberá tener previo conocimiento del proyecto de dictamen.
+
+La resolución que sobre la pérdida de registro emita el Consejo General deberá ser publicada en ep (sic) Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 134.
 
-La pérdida del registro de un Partido Político Estatal no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones según el principio de mayoría relativa. La pérdida del registro de estos Partidos conlleva la cancelación de todo financiamiento público. Una vez que haya causado estado la resolución que decrete la pérdida del registro, la Dirección Ejecutiva de Administración y Prerrogativas del Instituto procederá a requerir al presidente del respectivo comité estatal, o su equivalente, del Partido la entrega de los bienes que éste haya adquirido con recursos del financiamiento público, a efecto de poder proceder a su venta, en pública subasta, para con el producto que se obtenga saldar, hasta donde sea posible, y en su caso mediante prorrateo, las deudas contraídas por el indicado Partido. Cubiertos los adeudos, el saldo que quedare pasará a formar parte del patrimonio del Instituto. El Consejo General detallará el procedimiento a seguir en el reglamento que al efecto expida. Hasta en tanto la resolución del Consejo General no cause estado, los bienes quedarán en depósito del indicado presidente, quien en caso de no cumplir con fidelidad su encargo quedará sujeto a lo que dispone la fracción II del artículo 359 del Código Penal del Estado.
+La pérdida del registro de un Partido Político Estatal no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones según el principio de mayoría relativa. La pérdida del registro de estos Partidos conlleva la cancelación de todo financiamiento público. Una vez que haya causado estado la resolución que decrete la pérdida del registro, la Dirección Ejecutiva de Administración y Prerrogativas del Instituto Electoral del Estado de Campeche, procederá a solicitarle dentro de los quince días hábiles siguientes a quien hubiere fungido como presidente del respectivo comité estatal, o su equivalente, del que fuera Partido Político, la entrega de los bienes adquiridos con recursos del financiamiento público.
+
+El Instituto Electoral del Estado de Campeche, por conducto del órgano que el Consejo General autorice en el reglamento de la materia, y conforme a lo que en el propio reglamento se determine, conservará dichos bienes y ordenara su venta mediante subasta y aplicará el producto de la misma, hasta donde alcance para cubrir las deudas que hubieses adquirido el extinto partido político. Satisfechas tales deudas, de resultar un saldo remanente del producto de la venta, esta pasara a formar parte del patrimonio del Instituto.
+
+La pérdida del registro no exime a quienes fungieron como presidentes, dirigentes estatales o equivalentes del extinto Partido Político respecto de las responsabilidades en que hubieren incurrido.
 
 ###### Art. 135.
 
 El Instituto Electoral del Estado de Campeche, depositario de la autoridad electoral, es responsable del ejercicio de la función estatal de organizar las elecciones, en términos de lo que dispone la fracción III del artículo 24 de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 136.
 
-Son fines del Instituto:
+Son fines del Instituto Electoral del Estado de Campeche:
 
 I. Contribuir al desarrollo de la vida democrática;
 
@@ -1113,35 +1317,63 @@ VI. Velar por la autenticidad y efectividad del sufragio; y
 
 VII. Llevar a cabo la promoción del voto y coadyuvar a la difusión de la cultura democrática.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ### Capítulo Primero. Del Consejo General
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 137.
 
-Todas las actividades del Instituto Electoral del Estado se regirán por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
+Todas las actividades del Instituto Electoral del Estado de Campeche se regirán por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 138.
 
-Para el desempeño de sus actividades el Instituto Electoral contará con un cuerpo de funcionarios integrado en un Servicio Profesional Electoral. La desconcentración será base de su organización. Los funcionarios del Servicio Profesional Electoral anualmente presentarán exámenes de nivelación y de especialización profesional, los cuales deberán ser aprobados en su totalidad. En caso de no hacerlo, estos funcionarios causarán baja.
+Para el desempeño de sus actividades el Instituto Electoral del Estado de Campeche, contará con un cuerpo de funcionarios integrado en un Servicio Profesional Electoral. La desconcentración será base de su organización. Los funcionarios del Servicio Profesional Electoral anualmente presentarán exámenes de nivelación y de especialización profesional, los cuales deberán ser aprobados en su totalidad. En caso de no hacerlo, estos funcionarios causarán baja.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 139.
 
-El Instituto Electoral del Estado es un organismo público, autónomo, de carácter permanente, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propios.
+El Instituto Electoral del Estado de Campeche es un organismo público, autónomo, de carácter permanente, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 140.
 
-El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en la Ley de Presupuesto de Egresos del Estado, así como con los ingresos que reciba, por cualquier concepto, derivados de la aplicación de las disposiciones de este Código. Los recursos que provenientes de esas partidas conserve el Instituto, al concluir un ejercicio fiscal, así como del importe de las multas que imponga con motivo de la aplicación de este Código. Los recursos provenientes de esas multas, así como de las indicadas partidas que conserve el Instituto al concluir un ejercicio fiscal se destinarán a los fines que disponga el Consejo General, mediante la emisión del correspondiente acuerdo.
+El patrimonio del Instituto Electoral del Estado de Campeche, se integra con:
+
+I. Los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto;
+
+II. Las partidas que anualmente se le señalen en la Ley de Presupuesto de Egresos del Estado y los remanentes que de ellas conserve el Instituto al concluir un ejercicio fiscal;
+
+III. Los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de este Código;
+
+IV. El importe de las multas que imponga con motivo de la aplicación de este
+
+Código; y
+
+V. Cualesquiera otros bienes o recursos económicos que otras entidades públicas o privadas le destinen en propiedad.
+
+Los recursos provenientes de las multas, los remanentes presupuestales y los mencionados en la fracción V de este artículo, se destinarán a los fines que disponga el Consejo General, mediante la aprobación del acuerdo correspondiente.
 
 ## Título Quinto. De la Pérdida del Registro
 
 ### Capítulo Segundo. De las Atribuciones del Consejo General
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 141.
 
 La información y documentación interna del Instituto Electoral del Estado, así como de los Partidos y Agrupaciones Políticas, será tratada con la reserva del caso y sólo podrá ser entregada o divulgada cuando así lo disponga este Código o a solicitud o resolución expresa de autoridad competente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 142.
 
-El Instituto se regirá para su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución Política del Estado, en este Código, en los reglamentos que del mismo emanen y en otras leyes que le sean aplicables.
+El Instituto Electoral del Estado de Campeche, se regirá para su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución Política del Estado, en este Código, en los reglamentos que del mismo emanen y en otras leyes que le sean aplicables.
 
 ###### Art. 143.
 
@@ -1149,15 +1381,19 @@ El Instituto Electoral del Estado de Campeche ejercerá sus funciones en todo el
 
 I. Un Consejo General, con domicilio en la ciudad de Campeche;
 
-II. Tres Consejos Municipales, uno en cada una de las ciudades cabeceras de los Municipios de Campeche, Carmen y Champotón. El Consejo General, mediante la expedición del correspondiente acuerdo, podrá crear otros Consejos Municipales, cuando así lo estime conveniente y sin sujeción a lo dispuesto en el artículo 195;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Los Consejos Municipales, que se establezcan en término de lo dispuesto en el artículo 195 de este Código. El Consejo General, mediante la expedición del correspondiente acuerdo, podrá crear otros Consejos Municipales, cuando así lo estime conveniente y sin sujeción a lo dispuesto en el artículo 195;
 
 III. Veintiún Consejos Distritales, uno en cada una de las poblaciones cabeceras de los Distritos Electorales Uninominales en que se divide el territorio del Estado; y
 
 IV. Las Mesas Directivas de Casilla.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 144.
 
-Los órganos centrales del Instituto Electoral del Estado, cuya sede es la ciudad de Campeche, son:
+Los órganos centrales del Instituto Electoral del Estado de Campeche, cuya sede es la ciudad de Campeche, son:
 
 I. El Consejo General;
 
@@ -1177,17 +1413,29 @@ IV. La Junta General Ejecutiva.
 
 El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 146.
 
-El Consejo General del Instituto se integrará en la forma prevista por la fracción III del artículo 24 de la Constitución Política del Estado. El consejero electo como presidente del Consejo General del Instituto Estatal Electoral ejercerá ese cargo durante siete años. Por cada consejero propietario del Poder Legislativo se elegirá un suplente.
+El Consejo General del Instituto Electoral del Estado de Campeche, se integrará en la forma prevista por la fracción III del artículo 24 de la Constitución Política del Estado. El consejero electo como presidente del Consejo General del Instituto Electoral del Estado de Campeche, ejercerá ese cargo durante siete años. Por cada consejero propietario del Poder Legislativo se elegirá un suplente.
 
 ###### Art. 147.
 
 Cada Partido Político con registro designará, conforme a sus normas estatutarias, a un representante ante el Consejo General. Por cada representante propietario se designará un suplente. Los Partidos Políticos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al Consejo General.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 148.
 
-El Consejo General contará con un asesor jurídico y un asesor técnico, quienes serán electos por mayoría de votos del propio Consejo, a propuesta de su presidente, y durarán en sus cargos siete años.
+El Consejo General contará con los siguientes órganos técnicos:
+
+I. Contraloría Interna;
+
+II. Asesoría Jurídica;
+
+III. Asesoría Técnica; y
+
+Los titulares de dichos órganos serán electos por mayoría de votos del propio Consejo, a propuesta de su presidente y durarán en su cargo hasta siete años y no podrán ser reelectos.
 
 ###### Art. 149.
 
@@ -1211,7 +1459,9 @@ II. Estar inscrito en el Padrón Electoral y contar con credencial para votar co
 
 III. Tener veintiún años al día de la elección;
 
-IV. Poseer el día de la designación título profesional o formación equivalente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Poseer el (sic) día de la designación título profesional expedido por institución de educación superior;
 
 V. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo o imprudencial;
 
@@ -1221,23 +1471,35 @@ VII. No desempeñar ni haber desempeñado el cargo de presidente del Comité Eje
 
 VIII. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años anteriores a la designación;
 
-IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún Partido Político, en los últimos cinco años anteriores a la designación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-X. No ser gobernador o titular de alguna de las dependencias o entidades de la Administración Pública del Estado, o magistrado, juez, o diputado, local o federal, o senador, o delegado, agente, director, gerente o cualquiera que sea la denominación que reciba como representante en el Estado de alguna dependencia o entidad de la Administración Pública Federal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento; y
+IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal o de cualquier órgano en algún Partido Político, en los últimos cinco años anteriores a la designación;
 
-XI. No ser cónyuge, descendiente, ascendiente o pariente colateral hasta el segundo grado de algún presidente, o su equivalente, nacional, estatal o municipal de un Partido Político.
+X. No ser gobernador o titular de alguna de las dependencias o entidades de la Administración Pública del Estado, o magistrado, juez, o diputado, local o federal, o senador, o delegado, agente, director, gerente o cualquiera que sea la denominación que reciba como representante en el Estado de alguna dependencia o entidad de la Administración Pública Federal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento; y (sic)
+
+XI. No ser cónyuge, descendiente, ascendiente o pariente colateral hasta el segundo grado de algún presidente, o su equivalente, nacional, estatal o municipal de un Partido Político;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XII. No estar inhabilitado para el ejercicio de la función pública.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 153.
 
-El secretario ejecutivo, asesor jurídico y asesor técnico del Consejo General deberán reunir los mismos requisitos que se exigen para ser consejero electoral y durante el tiempo que se encuentren en funciones percibirán una remuneración adecuada e irrenunciable por sus servicios, conforme a lo que se disponga en el correspondiente presupuesto de egresos.
+Los titulares de la Secretaría Ejecutiva, Contraloría Interna, Asesoría Jurídica y Asesoría Técnica del Consejo General, deberán reunir los mismos requisitos que se exigen para ser consejero electoral y durante el tiempo que se encuentren en funciones percibirán una remuneración adecuada e irrenunciable por sus servicios, conforme a lo que se disponga en el correspondiente presupuesto de egresos.
 
-## Título Segundo. De los Órganos Centrales del Instituto
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+## Título Segundo. De los Órganos Centrales del Instituto Electoral del Estado de Campeche
 
 ### Capítulo Cuarto. De la Junta General Ejecutiva
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 154.
 
-Los consejeros electorales y el secretario ejecutivo del Consejo General no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del propio Consejo General y de los que desempeñen con autorización del mismo Consejo, así como en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
+Los consejeros electorales y el secretario ejecutivo del Consejo General no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del propio Consejo General y de los que desempeñen con autorización del mismo consejo, así como en instituciones docentes, científicas, culturales, de investigación o de beneficiencia (sic).
 
 ###### Art. 155.
 
@@ -1287,9 +1549,11 @@ Independientemente de lo señalado en el artículo anterior podrá integrar toda
 
 En todos los asuntos que les encomienden, las Comisiones deberán presentar al Consejo General un informe, dictamen o proyecto de resolución, según el caso. El secretario ejecutivo del Consejo General colaborará con las Comisiones para el cumplimiento de las tareas que se les hayan encomendado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 165.
 
-El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto, podrá crear Comités Técnicos Especiales, para actividades o programas específicos en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
+El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto Electoral del Estado de Campeche, podrá crear Comités Técnicos Especiales, para actividades o programas específicos en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
 
 ###### Art. 166.
 
@@ -1301,7 +1565,7 @@ II. En que, por no haber estado presentes en la sesión sus respectivos represen
 
 ###### Art. 167.
 
-El Consejo General tiene las siguientes atribuciones:
+El Consejo General del Instituto Electoral del Estado de Campeche tiene las siguientes atribuciones:
 
 I. Expedir el Reglamento Interior que dispone la fracción III del artículo 24 de la Constitución Política del Estado, los Reglamentos de Sesiones de los Consejos General, Municipales y Distritales, así como todos los demás reglamentos previstos en este Código, así como los que sean necesarios para el buen funcionamiento del Instituto;
 
@@ -1311,7 +1575,9 @@ III. Designar y remover al secretario ejecutivo del Consejo General por el voto 
 
 IV. Designar de entre los directores ejecutivos, al que se hará cargo del despacho de la secretaría ejecutiva del Consejo, durante las ausencias temporales o accidentales de su titular;
 
-V. Designar y remover a los directores ejecutivos y a los asesores técnico y jurídico del Consejo General, conforme a la propuesta que presente el presidente y con la debida observancia a las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+V. Designar y remover a los titulares de las direcciones ejecutivas, Contraloría Interna, Asesoría Jurídica y Asesoría Técnica del Consejo General del Instituto Electoral del Estado de Campeche, conforme a la propuesta que presente el presidente y con la debida observancia a las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado;
 
 VI. Designar por mayoría, en el mes de enero del año de la elección, de entre las propuestas que al efecto hagan los consejeros del propio Consejo General, a los consejeros electorales de los Consejos Municipales y Distritales;
 
@@ -1337,7 +1603,9 @@ XVI. Efectuar el cómputo total de la elección para la asignación de diputados
 
 XVII. Informar al Congreso del Estado sobre el otorgamiento de las constancias de asignación de diputados por el principio de representación proporcional, así como de los medios de impugnación interpuestos;
 
-XVIII. Conocer los informes trimestrales y anual que la Junta General Ejecutiva rinda por conducto de los titulares respectivos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XVIII. Conocer los informes trimestrales y anual que la Junta General Ejecutiva y Contraloría Interna rinda por conducto de los titulares respectivos;
 
 XIX. Requerir a la Junta General Ejecutiva investigue, por los medios a su alcance, hechos que afecten de modo relevante los derechos de los Partidos Políticos o el proceso electoral estatal;
 
@@ -1365,45 +1633,63 @@ El Consejo General, en ocasión de la celebración de los procesos electorales e
 
 El presidente del Consejo General tiene las atribuciones siguientes:
 
-I. Velar por la unidad y cohesión de las actividades de los órganos del Instituto Electoral del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Representar al Instituto ante toda clase de autoridades federales, estatales y municipales y ante particulares, quedando facultado para suscribir, en nombre y previa autorización del mismo, convenios, contratos y otros actos jurídicos, en unión del secretario ejecutivo del Consejo General;
+I. Velar por la unidad y cohesión de las actividades de los órganos del Instituto Electoral del Estado de Campeche;
 
-III. Establecer los vínculos entre el Instituto Electoral del Estado y el Instituto Federal Electoral o con los organismos electorales del Distrito Federal y de las demás Entidades Federativas del país, así como con otras autoridades e instituciones federales, estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando estos sean necesarios para el cumplimiento de los fines del Instituto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Representar al Instituto Electoral del Estado de Campeche, ante toda clase de autoridades federales, estatales y municipales y ante particulares, quedando facultado para suscribir, en nombre y previa autorización del mismo, convenios, contratos y otros actos jurídicos, en unión del secretario ejecutivo del Consejo General;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Establecer los vínculos entre el Instituto Electoral del Estado de Campeche y el Instituto Federal Electoral o con los organismos electorales del Distrito Federal y de las demás Entidades Federativas del país, así como con otras autoridades e instituciones federales, estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando estos sean necesarios para el cumplimiento de los fines del Instituto;
 
 IV. Convocar y conducir las sesiones del Consejo General;
 
 V. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo;
 
-VI. Proponer al Consejo General el nombramiento del secretario ejecutivo, asesor jurídico y asesor técnico del propio Consejo y de los directores ejecutivos del Instituto, en términos de este Código;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-VII. Expedir, en unión del secretario ejecutivo, los nombramientos de los servidores públicos del Instituto;
+VI. Proponer al Consejo General el nombramiento de los titulares de la secretaria ejecutiva, contraloría interna, asesoría jurídica, asesoría técnica y de los directores ejecutivos del Instituto Electoral del Estado de Campeche, en términos de este Código;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VII. Expedir, en unión del secretario ejecutivo, los nombramientos de los servidores públicos del Instituto Electoral del Estado de Campeche;
 
 VIII. Designar de entre los integrantes de la Junta General Ejecutiva a quien substanciará y emitirá proyecto de resolución, por impedimento del secretario ejecutivo, respecto del Recurso de Revisión que se interponga en contra de los actos o resoluciones de los órganos del Instituto o de los directores ejecutivos del Instituto;
 
-IX. Conceder licencia para separarse temporalmente de su cargo, hasta por treinta días, a los directores ejecutivos y asesores técnico y jurídico del Consejo General. Cuando la licencia sea por tiempo mayor al antes expresado, su concesión corresponderá al referido Consejo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2002)</small>
+IX. Conceder licencia para separarse temporalmente de su cargo, hasta por treinta días, a los titulares de la contraloría interna, asesoría jurídica y asesoría técnica del Consejo General del Instituto Electoral del Estado de Campeche, directores ejecutivos. Cuando la licencia sea por tiempo mayor al antes expresado, su concesión corresponderá al referido Consejo;
 
-X. Remitir al Ejecutivo del Estado el proyecto de presupuesto del Instituto, aprobado por el Consejo General;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+X. Remitir al Ejecutivo del Estado el proyecto de presupuesto del Instituto Electoral del Estado de Campeche, aprobado por el Consejo General;
 
 XI. Recibir de los Partidos Políticos las solicitudes de registro de candidatos a diputados por el principio de representación proporcional; las de candidatos a diputados, presidente, regidores y síndicos por el principio de mayoría y de regidores y síndicos de representación proporcional en el caso previsto por la fracción XV del artículo 167 de este Código y las de candidatos a gobernador del Estado, y someterlas al Consejo General para su registro;
 
 XII. Presidir la Junta General Ejecutiva e informar al Consejo General de los trabajos de la misma;
 
-XIII. Dar a conocer la estadística electoral por Casilla, Sección, Distrito, Municipio y Circunscripción Plurinominal, en un plazo no mayor de quince días, una vez concluido el proceso electoral;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XIII. Dar a conocer la estadística electoral por Casilla, Sección, Distrito, Municipio y Circunscripción Plurinominal, en un plazo no mayor de quince días hábiles, una vez concluido el proceso electoral;
 
 XIV. Convenir con las autoridades competentes la información y documentos que habrá de aportar la Dirección Ejecutiva del Registro Estatal de Electores para los procesos electorales federales;
 
-XV. Someter al Consejo General las propuestas para la creación, en su caso, de nuevas direcciones o unidades técnicas para el mejor funcionamiento del Instituto, de acuerdo con la disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XV. Someter al Consejo General las propuestas para la creación, en su caso, de nuevas direcciones o unidades técnicas para el mejor funcionamiento del Instituto Electoral del Estado de Campeche, de acuerdo con la disponibilidad presupuestal;
 
 XVI. Ordenar, en su caso, la publicación en el Periódico Oficial del Estado de los acuerdos y resoluciones que pronuncie el Consejo General; y
 
 XVII. Las demás que le confieran el Consejo General, este Código y demás disposiciones complementarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 170.
 
-El secretario ejecutivo del Consejo General tiene las siguientes atribuciones:
+El Secretario Ejecutivo del Consejo General tiene las siguientes atribuciones:
 
 I. Auxiliar al Consejo General en el ejercicio de sus atribuciones;
 
@@ -1413,9 +1699,13 @@ III. Informar sobre el cumplimiento de los acuerdos del Consejo General;
 
 IV. Dar cuenta con los proyectos de dictamen de las Comisiones;
 
-V. Recibir y sustanciar los Recursos de Revisión que se interpongan en contra de los actos o resoluciones de los órganos del Instituto Electoral del Estado y de los directores ejecutivos del mismo, y preparar el proyecto de resolución correspondiente para someterlo a la consideración del Consejo General;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Recibir y turnar al órgano judicial electoral que corresponda, conforme a los trámites previstos en este Código, los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo General o, en su caso, de otro órgano o funcionario del Instituto, informándole sobre los mismos al propio Consejo en la sesión inmediata posterior;
+V. Recibir y sustanciar los Recursos de Revisión que se interpongan en contra de los actos o resoluciones de los órganos del Instituto Electoral del Estado de Campeche y de los directores ejecutivos del mismo, y preparar el proyecto de resolución correspondiente para someterlo a la consideración del Consejo General;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Recibir y turnar al órgano judicial electoral que corresponda, conforme a los trámites previstos en este Código, los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo General o, en su caso, de otro órgano o funcionario del Instituto Electoral del Estado de Campeche, informándole sobre los mismos al propio Consejo en la sesión inmediata posterior;
 
 VII. Informar al Consejo General de las resoluciones que le competan dictadas por los órganos electorales del Poder Judicial del Estado;
 
@@ -1433,15 +1723,21 @@ XIII. Dar cuenta al Consejo General con los informes que sobre las elecciones re
 
 XIV. Recibir, para efectos de información y estadísticas electorales, copia de los expedientes de todas las elecciones;
 
-XV. Coordinar la Junta General Ejecutiva; conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto; y orientar y coordinar las acciones de las direcciones ejecutivas, informando permanentemente al Consejo General;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XV. Coordinar la Junta General Ejecutiva; conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral del Estado de Campeche, y orientar y coordinar las acciones de las direcciones ejecutivas, informando permanentemente al Consejo General;
 
 XVI. Participar en los convenios que se celebren con las autoridades competentes respecto a la información y documentos que habrá de aportar la Dirección Ejecutiva del Registro Estatal de Electores para los procesos electorales federales;
 
-XVII. Otorgar poderes a nombre del Instituto, para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial o ante particulares. Para realizar actos de dominio o para otorgar poderes para dichos efectos, requerirá de la previa autorización del Consejo General;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XVII. Otorgar poderes a nombre del Instituto Electoral del Estado de Campeche, para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial o ante particulares. Para realizar actos de dominio o para otorgar poderes para dichos efectos, requerirá de la previa autorización del Consejo General;
 
 XVIII. Preparar, para la aprobación del Consejo General, el proyecto de calendario para elecciones extraordinarias, de acuerdo con las convocatorias respectivas;
 
-XIX. Presentar a la consideración del presidente del Consejo General las propuestas para la creación de nuevas direcciones o unidades técnicas, para el mejor funcionamiento del Instituto, de acuerdo con las disponibilidades presupuestales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+XIX. Presentar a la consideración del presidente del Consejo General las propuestas para la creación de nuevas direcciones o unidades técnicas, para el mejor funcionamiento del Instituto Electoral del Estado de Campeche, de acuerdo con las disponibilidades presupuestales;
 
 XX. Cumplir las instrucciones del presidente del Consejo General y auxiliarlo en sus tareas;
 
@@ -1457,13 +1753,15 @@ XXV. Las demás que le sean conferidas por el Consejo General, por el presidente
 
 ###### Art. 171.
 
-La Junta General Ejecutiva del Instituto será presidida por el presidente del Consejo General y se integrará con el secretario ejecutivo del mismo Consejo y los titulares de la (sic) Direcciones Ejecutivas del Registro Estatal de Electores, de Administración y Prerrogativas, de Organización Electoral, y de Capacitación Electoral y Educación Cívica.
+La Junta General Ejecutiva del Instituto Electoral del Estado de Campeche, será presidida por el presidente del Consejo General y se integrará con el secretario ejecutivo del mismo Consejo y los titulares de la Direcciones Ejecutivas del Registro Estatal de Electores, de Administración y Prerrogativas, de Organización Electoral, y de Capacitación Electoral y Educación Cívica.
 
 ###### Art. 172.
 
 La Junta General Ejecutiva se reunirá, por lo menos, una vez al mes, siendo sus atribuciones las siguientes:
 
-I. Proponer al Consejo General las políticas y los programas generales del Instituto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. Proponer al Consejo General las políticas y los programas generales del Instituto Electoral del Estado de Campeche;
 
 II. Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto;
 
@@ -1487,13 +1785,15 @@ XI. Las demás que le encomienden este Código, el Consejo General o su presiden
 
 ###### Art. 173.
 
-Al frente de cada una de las Direcciones Ejecutivas del Instituto habrá un director ejecutivo que será nombrado por el Consejo General del Instituto, en los términos previstos por este Código. Para ser director ejecutivo se requiere:
+Al frente de cada una de las Direcciones Ejecutivas del Instituto Electoral del Estado de Campeche, habrá un director ejecutivo que será nombrado por el Consejo General del Instituto, en los términos previstos por este Código. Para ser director ejecutivo se requiere:
 
 I. Ser ciudadano campechano, en pleno ejercicio de sus derechos políticos;
 
 II. No tener más de sesenta y cinco años de edad ni menos de treinta, al día de la designación;
 
-III. Poseer, al día de la designación, con antigüedad mínima de cinco años, grado académico de nivel profesional y los conocimientos que le permitan el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Poseer, al día de la designación, titulo profesional expedido por institución de educación superior con antigüedad mínima de cinco años, y los conocimientos que le permitan el desempeño de sus funciones;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
 
@@ -1501,9 +1801,15 @@ V. Haber residido en el Estado durante los últimos dos años, salvo el caso de 
 
 VI. No desempeñar ni haber desempeñado el cargo de presidente de Comité Directivo o Ejecutivo Estatal o equivalente de un Partido Político;
 
-VII. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la designación; y
+VII. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la designación; y (sic)
 
-VIII. No desempeñar ni haber desempeñado cargo de dirección estatal en algún Partido Político en los cinco años inmediatos anteriores a la designación.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. No desempeñar ni haber desempeñado el cargo de presidente o miembro integrante del Comité Directivo o Ejecutivo Estatal o Municipal o su equivalente de un Partido Político; en los cinco años anteriores al día de su designación; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IX. No estar inhabilitado para el ejercicio de la función pública.
 
 ###### Art. 174.
 
@@ -1587,6 +1893,8 @@ IX. Las demás atribuciones que le confieran este Código u otras disposiciones 
 
 ### Capítulo Quinto. De los Directores Ejecutivos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 178.
 
 A la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica le corresponde:
@@ -1607,9 +1915,11 @@ VII. Las demás atribuciones que le confieran este Código u otras disposiciones
 
 ###### Art. 179.
 
-Los Consejos Electorales Distritales son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral, en sus respectivos ámbitos de competencia. Son dependientes del Instituto Electoral del Estado y funcionan exclusivamente durante el proceso electoral, teniendo como sede la población cabecera de cada Distrito, sede que podrá variar el Consejo General, a través de la emisión del correspondiente acuerdo.
+Los Consejos Electorales Distritales son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral, en sus respectivos ámbitos de competencia. Son dependientes del Instituto Electoral del Estado de Campeche y funcionan exclusivamente durante el proceso electoral, teniendo como sede la población cabecera de cada Distrito, sede que podrá variar el Consejo General, a través de la emisión del correspondiente acuerdo.
 
 ### Capítulo Primero. De los Consejos Electorales Distritales
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 180.
 
@@ -1631,6 +1941,8 @@ El secretario del Consejo Distrital será designado por el voto de las dos terce
 
 ### Capítulo Tercero. De los Consejos Electorales Municipales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 184.
 
 Los consejeros electorales tendrán voz y voto; el secretario y los representantes de los Partidos Políticos sólo tendrán voz.
@@ -1643,21 +1955,37 @@ I. Ser ciudadano campechano en pleno goce de sus derechos políticos y civiles; 
 
 II. Tener residencia de dos años en alguno de los Municipios comprendidos dentro del Distrito respectivo;
 
-III. Contar con conocimientos para el desempeño adecuado de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Contar con el nivel mínimo de bachillerato o equivalente y tener conocimientos para el desempeño adecuado de sus funciones;
 
 IV. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años anteriores a la designación;
 
-V. No ser o haber sido presidente del Comité Ejecutivo o Directivo Estatal o Municipal, o su equivalente, de algún Partido Político, ni haber desempeñado en ese algún cargo de dirección, estatal o municipal, en los últimos tres años inmediatos anteriores a la designación; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial.
+V. No desempeñar ni haber desempeñado el cargo de presidente o integrante del Comité Ejecutivo o Directivo Estatal o Municipal, o su equivalente, de un Partido Político, en los últimos cinco años inmediatos anteriores a la designación;
+
+VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VII. Tener veintiún años cumplidos el día de la designación;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. No estar inhabilitado para el ejercicio de la función pública.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 186.
 
-Los consejeros electorales distritales y el secretario serán designados para un proceso electoral ordinario y podrán ser reelectos hasta para dos procesos más. Para el desempeño de sus funciones tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales y recibirán la dieta de asistencia que para cada proceso electoral se determine y estarán sujetos al régimen de responsabilidades establecidos en el Capítulo XVII de la Constitución Política del Estado.
+Los consejeros electorales distritales y el secretario serán designados para un proceso electoral ordinario y podrán ser ratificados hasta para dos procesos ordinarios más, y para los extraordinarios que, en su caso, durante ese periodo se celebren. Para el desempeño de sus funciones se les proporcionarán las facilidades necesarias en sus trabajos o empleos habituales, recibirán las remuneraciones previstas en el presupuesto de egresos correspondiente y estarán sujetos a las disposiciones de la Ley Reglamentaria del Capitulo XVII de la Constitución Política del Estado de Campeche.
 
 ###### Art. 187.
 
 Las designaciones de los consejeros electorales podrán ser impugnadas, en apelación, ante los Juzgados Electorales y la del secretario podrá ser impugnada, en revisión, ante el Consejo General, cuando no se reúna alguno de los requisitos señalados en el artículo 185.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ## Título Tercero. De los Consejos Electorales Distritales y Municipales
 
@@ -1665,7 +1993,7 @@ Las designaciones de los consejeros electorales podrán ser impugnadas, en apela
 
 ###### Art. 188.
 
-Los Consejos Distritales iniciarán sesiones a más tardar el día último de enero del año de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria, en los términos previstos en el artículo 193 de este Código.
+Los Consejos Distritales se instalarán a más tardar el día último de enero del año de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria, en los términos previstos en el artículo 193 de este Código.
 
 ###### Art. 189.
 
@@ -1687,9 +2015,13 @@ III. Vigilar que las Mesas Directivas de Casilla se integren e instalen en los t
 
 IV. Registrar, cuando proceda, los nombramientos de los representantes que los Partidos Políticos y Coaliciones acrediten para la jornada electoral;
 
-V. Vigilar la capacitación, selección y designación de los ciudadanos que habrán de integrar las Mesas Directivas de Casilla en los términos de este Código;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa;
+V. Coadyuvar a la capacitación, selección y designación de los ciudadanos que habrán de integrar las Mesas Directivas de Casilla en los términos de este Código;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa; y expedir las constancias respectivas, una vez aprobados dichos registros;
 
 VII. Expedir, en su caso, la identificación de los representantes de los Partidos y Coaliciones, en un plazo máximo de cuarenta y ocho horas a partir de su registro y, en todo caso, diez días antes de la jornada electoral;
 
@@ -1741,7 +2073,7 @@ El secretario del Consejo Electoral Distrital tendrá, en lo conducente, las mis
 
 ###### Art. 195.
 
-Los Consejos Electorales Municipales son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos ámbitos de competencia. Son dependientes del Instituto Electoral del Estado y funcionarán durante el proceso electoral en los Municipios en cuya demarcación territorial exista más de un Distrito Electoral, y se instalarán en la cabecera del Municipio respectivo.
+Los Consejos Electorales Municipales son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos ámbitos de competencia. Son dependientes del Instituto Electoral del Estado de Campeche y funcionarán durante el proceso electoral en los Municipios en cuya demarcación territorial exista más de un Distrito Electoral, y en donde lo determine el Consejo General de conformidad con el artículo 143 fracción II de este Código, y se instalarán en la cabecera del Municipio respectivo.
 
 ###### Art. 196.
 
@@ -1773,27 +2105,41 @@ I. Ser ciudadano campechano en pleno goce de sus derechos políticos y civiles; 
 
 II. Tener residencia de dos años en el Municipio respectivo;
 
-III. Contar con conocimientos para el desempeño adecuado de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Contar con estudios mínimos de bachillerato o equivalente y tener conocimientos para el desempeño adecuado de sus funciones;
 
 IV. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años anteriores a la designación;
 
-V. No ser o haber sido presidente del Comité Ejecutivo o Directivo Estatal o Municipal, o su equivalente, de algún Partido Político, ni haber desempeñado en ese algún cargo de dirección, estatal o municipal, en los últimos tres años inmediatos anteriores a la designación; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial.
+V. No desempeñar ni haber desempeñado el cargo de presidente o integrante del Comité Ejecutivo o Directivo Estatal o Municipal, o su equivalente, de un Partido Político, en los últimos cinco años inmediatos anteriores a la designación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Tener veintiún años cumplidos el día de la designación; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VII. No estar inhabilitado para el ejercicio de la función pública.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 202.
 
-Los consejeros electorales y el secretario serán designados para un proceso electoral ordinario pudiendo ser reelectos para dos períodos más. Para el desempeño de sus funciones tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales, recibirán la dieta de asistencia que para cada proceso electoral se determine y estarán sujetos al régimen de responsabilidades establecidos en el Capítulo XVII de la Constitución Política del Estado.
+Los consejeros electorales municipales y el secretario serán designados para un proceso electoral ordinario y podrán ser ratificados hasta para dos procesos ordinarios más, y para los extraordinarios que, en su caso, durante ese periodo se celebren. Para el desempeño de sus funciones se les proporcionarán las facilidades necesarias en sus trabajos o empleos habituales, recibirán las remuneraciones previstas en el presupuesto de egresos correspondiente al Instituto Electoral del Estado de Campeche, y estarán sujetos a las disposiciones de la Ley Reglamentaria del Capitulo XVII de la Constitución Política del Estado de Campeche.
 
 ###### Art. 203.
 
 Las designaciones de los consejeros electorales podrán ser impugnadas, en apelación, ante los Juzgados Electorales y la del secretario podrá ser impugnada, en revisión, ante el Consejo General, cuando no se reúna alguno de los requisitos señalados en el artículo 201.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ### Capítulo Segundo. De sus Atribuciones
 
 ###### Art. 204.
 
-Los Consejos Municipales iniciarán sesiones a más tardar el día ultimo de enero del año de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria, en los términos previstos en el artículo 209 de este Código. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el voto del presidente.
+Los Consejos Municipales se instalarán a más tardar el día último de enero del año de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria, en los términos previstos en el artículo 209 de este Código. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el voto del presidente.
 
 ###### Art. 205.
 
@@ -1811,7 +2157,9 @@ I. Vigilar la observancia de este Código y de los acuerdos y resoluciones de la
 
 II. Intervenir conforme este Código dentro de sus jurisdicciones, en la preparación, desarrollo y vigilancia del proceso electoral;
 
-III. Registrar las planillas de candidatos a integrantes de Ayuntamientos y Juntas Municipales de mayoría relativa y las listas de regidores y síndicos de representación proporcional;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Registrar las planillas de candidatos a integrantes de Ayuntamientos y Juntas Municipales de mayoría relativa y las listas de regidores y síndicos de representación proporcional, y expedir las constancias respectivas una vez aprobados dichos registros;
 
 IV. Realizar el cómputo de la elección de integrantes de Ayuntamientos y Juntas Municipales por ambos principios;
 
@@ -1869,9 +2217,11 @@ Las Mesas Directivas de Casilla, como autoridad electoral, tienen a su cargo, du
 
 En cada Sección Electoral se instalará una casilla para recibir la votación el día de la jornada electoral, con excepción de lo dispuesto en los artículos 345 a 347 de este Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 214.
 
-Las Mesas Directivas de Casilla se integrarán con un presidente, un secretario, dos escrutadores y tres suplentes generales. Para el mejor cumplimiento de las funciones de éstos, la Junta General Ejecutiva llevará a cabo, permanentemente, cursos de educación cívica y capacitación electoral dirigidos a los ciudadanos residentes en el Estado.
+Las Mesas Directivas de Casilla se integrarán con un presidente, un secretario, dos escrutadores y tres suplentes generales. Para el mejor cumplimiento de las funciones de éstos, la Junta General Ejecutiva llevará a cabo los cursos y actividades que fueren a través de sus órganos respectivos.
 
 ###### Art. 215.
 
@@ -1957,6 +2307,8 @@ V. Las demás que les confiera este Código.
 
 ### Capítulo Primero. Disposiciones Preliminares
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 220.
 
 Son atribuciones de los escrutadores de las Mesas Directivas de Casilla:
@@ -1975,9 +2327,11 @@ Los integrantes del Consejo General, de los Consejos Electorales Distritales y M
 
 Los Partidos Políticos y Coaliciones deberán acreditar a sus representantes ante los Consejos Electorales Distritales o Municipales, a más tardar dentro de los treinta días siguientes a la fecha de la sesión de instalación del Consejo Electoral de que se trate. Vencido este plazo, los Partidos y Coaliciones que no hayan acreditado a sus representantes no formarán parte del Consejo Electoral respectivo durante el proceso electoral. Los Partidos y Coaliciones podrán sustituir en todo tiempo a sus representantes ante los Consejos Electorales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 223.
 
-Cuando el representante propietario de un Partido o Coalición y, en su caso, el suplente, no asistan, sin causa justificada, por tres veces consecutivas, a las sesiones del Consejo del Instituto ante el cual se encuentren acreditados, el Partido o Coalición dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirá al representante para que concurra a la sesión y se dará aviso a su Partido o Coalición a fin de que lo compela a asistir.
+Cuando el representante propietario de un Partido o Coalición y, en su caso, el suplente, no asistan, sin causa justificada, por tres veces consecutivas, a las sesiones del Consejo del Instituto Electoral del Estado de Campeche, ante el cual se encuentren acreditados, el Partido o Coalición dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirá al representante para que concurra a la sesión y se dará aviso a su Partido o Coalición a fin de que lo compela a asistir.
 
 ###### Art. 224.
 
@@ -1993,6 +2347,10 @@ La resolución del Consejo correspondiente se notificará al Partido o Coalició
 
 Los Consejos Electorales expedirán, a solicitud de los representantes de los Partidos o Coaliciones, copias certificadas de las actas de las sesiones que celebren, a más tardar a los tres días de haberse aprobado aquéllas. El secretario del Consejo correspondiente, recabará el recibo de las copias certificadas que expida conforme a este artículo. Los secretarios de los Consejos serán responsables por la inobservancia de este precepto.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+Los representantes de los partidos Políticos o Coaliciones podrán solicitar copias certificadas de los proyectos de actas, mismas que se le entregarán dentro de los tres días siguientes a la solicitud.
+
 ###### Art. 227.
 
 Las sesiones de los Consejos Electorales serán públicas y los concurrentes deberán guardar el debido orden en el recinto donde se celebren las sesiones. Para garantizar el orden, los presidentes podrán tomar las siguientes medidas:
@@ -2003,13 +2361,17 @@ II. Conminación a abandonar el local; y
 
 III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 228.
 
-En las mesas de sesiones de los Consejos sólo ocuparán lugar y tomarán parte en las deliberaciones los consejeros y los representantes de los Partidos o Coaliciones.
+En las mesas de sesiones de los Consejos Electorales sólo ocuparán lugar y tomarán parte en las deliberaciones los consejeros, el secretario, el representante de cada Partido Político o Coalición; en el Consejo General participarán también los consejeros del Poder Legislativo. El secretario podrá participar en las deliberaciones siempre y cuando lo autorice el presidente del consejo de que se trate.
 
 ###### Art. 229.
 
 Las autoridades estatales y municipales, están obligadas a proporcionar a los Consejos Electorales, a petición de sus respectivos presidentes, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ## Título Quinto. Disposiciones Comunes
 
@@ -2017,35 +2379,45 @@ Las autoridades estatales y municipales, están obligadas a proporcionar a los C
 
 ###### Art. 230.
 
-Los Consejos Electorales, Distritales y Municipales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al secretario ejecutivo del Consejo General, para dar cuenta al Consejo mismo. En idéntica forma procederán respecto de las subsecuentes sesiones.
+Los Consejos Electorales, Distritales y Municipales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al secretario ejecutivo del Consejo General y a la Dirección Ejecutiva de Organización Electoral. Los secretarios de los consejos serán responsables por la inobservancia de este precepto. El secretario ejecutivo del Consejo General dará cuenta de lo anterior en la siguiente sesión que se celebre. En idéntica forma procederán respecto de las subsecuentes sesiones.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 231.
 
-Los Consejos Electorales, Distritales y Municipales, determinarán sus horarios de labores, teniendo en cuenta lo que dispone el artículo 291. De los horarios que fijen, informarán al secretario ejecutivo del Consejo General del Instituto para dar cuenta al Consejo mismo y, en su caso, a los Partidos y Coaliciones que hayan acreditado representantes ante los mismos.
+El Consejo General del Instituto Electoral del Estado de Campeche, determinará el horario de labores, de los Consejos Electorales Distritales y Municipales, conforme a lo que dispone el artículo 291 de este Código, notificándolo a los Consejos respectivos, así como a los Partidos Políticos o Coaliciones que corresponda.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 232.
 
-El Instituto Electoral del Estado prestará, por conducto de la Dirección Ejecutiva competente los servicios inherentes al Registro Estatal de Electores. El Registro Estatal de Electores es de carácter permanente y de interés público. Tiene por objeto cumplir con lo previsto en el artículo 24 de la Constitución Política del Estado sobre el Padrón Estatal Electoral.
+El Instituto Electoral del Estado de Campeche prestará, por conducto de la Dirección Ejecutiva competente los servicios inherentes al Registro Estatal de Electores. El Registro Estatal de Electores es de carácter permanente y de interés público. Tiene por objeto cumplir con lo previsto en el artículo 24 de la Constitución Política del Estado sobre el Padrón Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 233.
 
-Los documentos, datos e informes que los ciudadanos proporcionen al Registro Estatal de Electores, en cumplimiento de las obligaciones que les imponen la Constitución Política del Estado y este Código, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer, salvo cuando se trate de juicios, recursos o procedimientos en que el Instituto Electoral del Estado sea parte, para cumplir con las obligaciones previstas por este Código en materia electoral o por mandato de juez competente.
+Los documentos, datos e informes que los ciudadanos proporcionen al Registro Estatal de Electores, en cumplimiento de las obligaciones que les imponen la Constitución Política del Estado y este Código, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer, salvo cuando se trate de juicios, recursos o procedimientos en que el Instituto Electoral del Estado de Campeche sea parte, para cumplir con las obligaciones previstas por este Código en materia electoral o por mandato de juez competente.
 
 ###### Art. 234.
 
 Los miembros de los Consejos General, Municipales y Distritales, así como los de las Comisiones Estatal, Municipales y Distritales de Vigilancia, tendrán acceso a la información que conforma el Padrón Estatal Electoral, exclusivamente para el ejercicio de sus funciones, y no podrán darle o destinarle a finalidad u objeto distinto al de la revisión del propio padrón y las Listas Nominales de Electores.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 235.
 
-El Registro Estatal de Electores dispondrá de los recursos humanos y materiales necesarios, en los términos que disponga la reglamentación que al efecto expida el Consejo General y permita el presupuesto del Instituto.
+El Registro Estatal de Electores dispondrá de los recursos humanos y materiales necesarios, en los términos que disponga la reglamentación que al efecto expida el Consejo General y permita el presupuesto del Instituto Electoral del Estado de Campeche.
 
 ###### Art. 236.
 
 Los directores de área o de unidades técnicas, los jefes de departamento y el demás personal que se requiera para el Registro Estatal de Electores serán nombrados por el Consejo General, a propuesta de su presidente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 237.
 
-El Instituto Electoral del Estado podrá firmar convenios con el Instituto Federal Electoral para que éste permita a aquél el utilizar el Catálogo General de Electores, el Padrón Electoral, la Credencial para Votar con Fotografía y las Listas Nominales de Electores, elaborados y expedidos por la Dirección Ejecutiva del Registro Federal de Electores, en el desarrollo de los procesos electorales estatales y municipales.
+El Instituto Electoral del Estado de Campeche podrá firmar convenios con el Instituto Federal Electoral para que éste permita a aquél utilizar el Catálogo General de Electores, el Padrón Electoral, la Credencial para Votar con Fotografía y las Listas Nominales de Electores, elaborados y expedidos por la Dirección Ejecutiva del Registro Federal de Electores en el desarrollo de los procesos electorales estatales y municipales; asimismo, podrán ser parte de dichos convenios las resoluciones que para estos efectos sean notificadas al Instituto Federal Electoral, por el Tribunal Electoral del Poder Judicial de la Federación.
 
 ###### Art. 238.
 
@@ -2063,13 +2435,15 @@ En el Catálogo Estatal de Electores se consigna la información básica de los 
 
 En el Padrón Estatal Electoral constarán los nombres de los ciudadanos consignados en el Catálogo Estatal de Electores que presenten la solicitud a que se refiere el artículo 249 de este Código.
 
-# Libro Cuarto. De los Procedimientos Especiales en las Direcciones Ejecutivas del Instituto
+# Libro Cuarto. De los Procedimientos Especiales en las Direcciones Ejecutivas del Instituto Electoral del Estado de Campeche
 
 ## Título Primero. De los Procedimientos del Registro Estatal de Electores
 
 ### Capítulo Cuarto
 
 De la Actualización del Catálogo Estatal de Electores y del Padrón Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 241.
 
@@ -2085,11 +2459,13 @@ III. La incorporación de los datos que aporten las autoridades competentes rela
 
 Los ciudadanos están obligados a inscribirse en el Registro Estatal de Electores y a participar en la formación y actualización del Catálogo Estatal de Electores y del Padrón Estatal Electoral en los términos de las normas reglamentarias correspondientes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ### Capítulo Quinto. De las Listas Nominales de Electores y de su Revisión
 
 ###### Art. 243.
 
-El Instituto Electoral del Estado, debe incluir a los ciudadanos en las secciones del Registro Estatal de Electores y expedirles a través de la Dirección Ejecutiva del mismo la credencial para votar. La credencial para votar es el documento indispensable para que los ciudadanos puedan ejercer su derecho al voto.
+El Instituto Electoral del Estado de Campeche, debe incluir a los ciudadanos en las secciones del Registro Estatal de Electores y expedirles a través de la Dirección Ejecutiva del mismo la credencial para votar. La credencial para votar es el documento indispensable para que los ciudadanos puedan ejercer su derecho al voto.
 
 ###### Art. 244.
 
@@ -2131,9 +2507,11 @@ Con base en el Catálogo Estatal de Electores, la Dirección Ejecutiva del Regis
 
 Independientemente del registro en el Catálogo Estatal de Electores, para la incorporación al Padrón Electoral se requerirá solicitud individual en que consten firma y huella digital del ciudadano. Con base en la solicitud, la Dirección Ejecutiva del Registro Estatal de Electores expedirá la correspondiente credencial para votar.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 250.
 
-Es obligación de los ciudadanos acudir a los módulos que determine el Instituto Electoral del Estado a fin de obtener su credencial para votar, debiendo identificarse por los medios y procedimientos que determine la Comisión Estatal de Vigilancia. La constancia de entrega de la credencial con la referencia de los medios identificatorios, quedará en el expediente del ciudadano. Los módulos tendrán, a disposición de los ciudadanos, las credenciales para votar hasta el día treinta y uno de marzo del año de la elección.
+Es obligación de los ciudadanos acudir a los módulos que determine el Instituto Electoral del Estado de Campeche a fin de obtener su credencial para votar, debiendo identificarse por los medios y procedimientos que determine la Comisión Estatal de Vigilancia. La constancia de entrega de la credencial con la referencia de los medios identificatorios, quedará en el expediente del ciudadano. Los módulos tendrán, a disposición de los ciudadanos, las credenciales para votar hasta el día treinta y uno de marzo del año de la elección; (sic)
 
 ###### Art. 251.
 
@@ -2149,7 +2527,7 @@ Una vez llevado a cabo el procedimiento a que se refiere el artículo anterior, 
 
 ###### Art. 254.
 
-A fin de actualizar el Catálogo Estatal de Electores y el Padrón Estatal Electoral, el Instituto Electoral del Estado, a través de la Dirección Ejecutiva del Registro Estatal de Electores, realizará anualmente, a partir del primer día de octubre y hasta el quince de enero siguiente, una campaña intensiva para convocar y orientar a la ciudadanía a cumplir con las obligaciones a que se refieren los artículos siguientes. Los Partidos Políticos y los medios de comunicación, podrán coadyuvar con el Instituto Electoral del Estado en las tareas de orientación ciudadana.
+A fin de actualizar el Catálogo Estatal de Electores y el Padrón Estatal Electoral, el Instituto Electoral del Estado de Campeche, a través de la Dirección Ejecutiva del Registro Estatal de Electores, realizará anualmente, a partir del primer día de octubre y hasta el quince de enero siguiente, una campaña intensiva para convocar y orientar a la ciudadanía a cumplir con las obligaciones a que se refieren los artículos siguientes. Los Partidos Políticos y los medios de comunicación, podrán coadyuvar con el Instituto Electoral del Estado de Campeche en las tareas de orientación ciudadana.
 
 ### Capítulo Séptimo. De las Comisiones de Vigilancia
 
@@ -2169,9 +2547,11 @@ III. Hubieren extraviado su credencial para votar; y
 
 IV. Suspendidos en sus derechos políticos, hubieren sido rehabilitados.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 257.
 
-Los ciudadanos al acudir voluntariamente a darse de alta o dar aviso de cambio de domicilio; o bien, al ser requeridos por el personal del Instituto Electoral del Estado durante la aplicación de la técnica censal, tendrán la obligación de señalar el domicilio en que hubieren sido registrados con anterioridad y, en su caso, poner su firma y huella digital en los documentos para la actualización respectiva.
+Los ciudadanos al acudir voluntariamente a darse de alta o dar aviso de cambio de domicilio; o bien, al ser requeridos por el personal del Instituto Electoral del Estado de Campeche durante la aplicación de la técnica censal, tendrán la obligación de señalar el domicilio en que hubieren sido registrados con anterioridad y, en su caso, poner su firma y huella digital en los documentos para la actualización respectiva.
 
 ###### Art. 258.
 
@@ -2217,9 +2597,11 @@ Al ciudadano que solicite su inscripción se le entregará un comprobante de su 
 
 Los ciudadanos campechanos, residentes en el territorio del Estado, que se encuentren incapacitados físicamente para acudir a inscribirse ante las oficinas de la Dirección Ejecutiva del Registro Estatal de Electores, correspondiente a su domicilio, deberán solicitar su inscripción por escrito, acompañando la documentación que acredite su incapacidad. En su caso, la Dirección Ejecutiva dictará las medidas pertinentes para la entrega de la credencial para votar del elector físicamente impedido.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 263.
 
-Es obligación de los ciudadanos inscritos en el Padrón Estatal Electoral, dar aviso de su cambio de domicilio ante la oficina del Instituto Electoral del Estado más cercana a su nuevo domicilio. En los casos en que un ciudadano solicite su alta por cambio de domicilio, deberá exhibir y entregar la credencial para votar correspondiente a su domicilio anterior, o aportar los datos de la misma en caso de haberla extraviado o haberle sido destruida en los términos del artículo 252 de este Código, para que se proceda a cancelar tal inscripción, a darlo de alta en el listado correspondiente a su domicilio actual y expedirle su nueva credencial para votar. Las credenciales devueltas al Instituto Electoral del Estado serán destruidas de inmediato.
+Es obligación de los ciudadanos inscritos en el Padrón Estatal Electoral, dar aviso de su cambio de domicilio ante la oficina del Instituto Electoral del Estado de Campeche más cercana a su nuevo domicilio. En los casos en que un ciudadano solicite su alta por cambio de domicilio, deberá exhibir y entregar la credencial para votar correspondiente a su domicilio anterior, o aportar los datos de la misma en caso de haberla extraviado o haberle sido destruida en los términos del artículo 252 de este Código, para que se proceda a cancelar tal inscripción, a darlo de alta en el listado correspondiente a su domicilio actual y expedirle su nueva credencial para votar. Las credenciales devueltas al Instituto Electoral del Estado de Campeche serán destruidas de inmediato.
 
 ###### Art. 264.
 
@@ -2261,17 +2643,21 @@ La Sección Electoral es la fracción territorial de los Distritos Electorales U
 
 Anualmente, la Dirección Ejecutiva del Registro Estatal de Electores entregará a los Consejos Electorales Distritales y Municipales, las Listas Nominales de Electores, a más tardar el veinticinco de marzo, a efecto de que sean exhibidas por veinte días naturales. La exhibición se hará fijando en un lugar público las Listas Nominales de Electores ordenadas alfabéticamente y por Secciones.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 274.
 
-Las Listas Nominales de Electores que se entreguen a los Partidos Políticos serán para su uso exclusivo y no podrán destinarse a finalidad u objeto distinto al de revisión del Padrón Estatal Electoral. Cuando un Partido Político no desee conservarlas, deberá reintegrarlas al Instituto Electoral del Estado.
+Las Listas Nominales de Electores que se entreguen a los Partidos Políticos serán para su uso exclusivo y no podrán destinarse a finalidad u objeto distinto al de revisión del Padrón Estatal Electoral. Cuando un Partido Político no desee conservarlas, deberá reintegrarlas al Instituto Electoral del Estado de Campeche.
 
 ###### Art. 275.
 
 Una vez recibidas y acreditadas las observaciones pertinentes, los Consejos Electorales Municipales y Distritales devolverán las Listas Nominales a la Dirección Ejecutiva del Registro Estatal de Electores, sin que en ningún caso la entrega pueda exceder del veinticuatro de abril de cada año. Las observaciones serán introducidas a las listas del Padrón Electoral, haciéndose las modificaciones del caso.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 276.
 
-Los Partidos Políticos tendrán a su disposición, para su revisión, las Listas Nominales de Electores en las oficinas de la Dirección Ejecutiva del Registro Estatal de Electores, durante veinte días hábiles, a partir del veinticinco de marzo de cada uno de los dos años anteriores al de la celebración de las elecciones. Los Partidos Políticos podrán formular por escrito, a la Dirección Ejecutiva del Registro Estatal de Electores, sus observaciones sobre los ciudadanos inscritos o excluidos indebidamente de las Listas Nominales, durante el plazo antes señalado. La Dirección examinará las observaciones de los Partidos Políticos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar. De lo anterior la Dirección Ejecutiva informará a la Comisión Estatal de Vigilancia y al Consejo General del Instituto, a más tardar el quince de mayo.
+Los Partidos Políticos tendrán a su disposición, para su revisión, las Listas Nominales de Electores en las oficinas de la Dirección Ejecutiva del Registro Estatal de Electores, durante veinte días hábiles, a partir del veinticinco de marzo de cada uno de los dos años anteriores al de la celebración de las elecciones. Los Partidos Políticos podrán formular por escrito, a la Dirección Ejecutiva del Registro Estatal de Electores, sus observaciones sobre los ciudadanos inscritos o excluidos indebidamente de las Listas Nominales, durante el plazo antes señalados (sic). La Dirección examinará las observaciones de los Partidos Políticos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar. De lo anterior la Dirección Ejecutiva informará a la Comisión Estatal de Vigilancia y al Consejo General del Instituto Electoral del Estado de Campeche, a más tardar el quince de mayo.
 
 ###### Art. 277.
 
@@ -2281,21 +2667,25 @@ Los Partidos Políticos podrán impugnar en revisión el informe a que se refier
 
 El quince de marzo del año en que se celebre el proceso electoral ordinario, la Dirección Ejecutiva del Registro Estatal de Electores entregará, en medios magnéticos, a cada uno de los Partidos Políticos las Listas Nominales de Electores, divididas en dos apartados, ordenadas alfabéticamente y por secciones correspondientes a cada uno de los Distritos Electorales. El primer apartado contendrá los nombres de los ciudadanos que hayan obtenido su credencial para votar al quince de febrero; y el segundo apartado contendrá los nombres de los ciudadanos inscritos en el Padrón Estatal Electoral que no hayan obtenido su credencial para votar a esa fecha. El veinticinco de marzo entregará a cada Partido Político una impresión en papel de las Listas Nominales de Electores contenidas en el medio magnético a que se refiere la parte inicial del presente artículo. Los Partidos Políticos podrán formular observaciones a dichas listas, señalando hechos y casos concretos e individualizados, hasta el catorce de abril inclusive.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 279.
 
-De las observaciones formuladas por los Partidos Políticos se harán las modificaciones a que hubiere lugar y se informará al Consejo General del Instituto y a la Comisión Estatal de Vigilancia, a más tardar el quince de mayo. Los Partidos Políticos podrán impugnar en revisión el informe a que se refiere el párrafo anterior. La impugnación se sujetará a lo establecido en este Código. El medio de impugnación se presentará ante el Consejo General. Si no se impugna el informe o, en su caso, una vez resueltas las impugnaciones, el Consejo General del Instituto sesionará para declarar que el Padrón Estatal Electoral y los Listados Nominales de Electores son válidos y definitivos.
+De las observaciones formuladas por los Partidos Políticos se harán las modificaciones a que hubiere lugar y se informará al Consejo General del Instituto y a la Comisión Estatal de Vigilancia, a más tardar el quince de mayo. Los Partidos Políticos podrán impugnar en revisión el informe a que se refiere el párrafo anterior. La impugnación se sujetará a lo establecido en este Código. El medio de impugnación se presentará ante el Consejo General. Si no se impugna el informe o, en su caso, una vez resueltas las impugnaciones, el Consejo General del Instituto Electoral del Estado de Campeche, sesionará para declarar que el Padrón Estatal Electoral y los Listados Nominales de Electores son válidos y definitivos.
 
 ###### Art. 280.
 
 La Dirección Ejecutiva del Registro Estatal de Electores, una vez concluidos los procedimientos a que se refieren los artículos anteriores, elaborará e imprimirá las Listas Nominales de Electores definitivas, que contendrán los nombres de los ciudadanos que obtuvieron su credencial para votar hasta el treinta y uno de marzo inclusive, ordenadas alfabéticamente por Municipio, Distrito y Sección Electoral, para su entrega, por lo menos treinta días antes de la jornada electoral, a los Consejos Distritales y, a través de éstos, a las Mesas Directivas de Casillas, en los términos señalados en este Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ### Capítulo Primero. De las Precampañas
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 281.
 
-A fin de mantener permanentemente actualizados el Catálogo Estatal de Electores y el Padrón Estatal Electoral, la Dirección Ejecutiva del Registro Estatal de Electores recabará de los órganos de las administraciones públicas federal, estatal y municipal, la información necesaria para registrar todo cambio que lo afecte. Los servidores públicos del Registro del Estado Civil, deberán informar al Instituto Electoral del Estado de los fallecimientos de ciudadanos, dentro de los diez días hábiles siguientes a la fecha de expedición del acta respectiva. Los jueces que dicten resoluciones que decreten la suspensión o pérdida de derechos políticos o la declaración de ausencia o presunción de muerte de un ciudadano, deberán notificarla al Instituto Electoral del Estado, dentro de los diez días hábiles siguientes a la fecha en que cause ejecutoria la respectiva resolución. La información a que antes se alude se recabará en los formularios que, al efecto, a las autoridades les sean proporcionados por el Instituto Electoral del Estado. El Instituto Electoral del Estado podrá celebrar convenios de cooperación tendientes a que la información a que se refiere este artículo se proporcione oportunamente.
+A fin de mantener permanentemente actualizados el Catálogo Estatal de Electores y el Padrón Estatal Electoral, la Dirección Ejecutiva del Registro Estatal de Electores recabará de los órganos de las administraciones públicas federal, estatal y municipal, la información necesaria para registrar todo cambio que lo afecte. Los servidores públicos del Registro del Estado Civil, deberán informar al Instituto Electoral del Estado de Campeche de los fallecimientos de ciudadanos, dentro de los diez días hábiles siguientes a la fecha de expedición del acta respectiva. Los jueces que dicten resoluciones que decreten la suspensión o pérdida de derechos políticos o la declaración de ausencia o presunción de muerte de un ciudadano, deberán notificarla al Instituto Electoral del Estado de Campeche, dentro de los diez días hábiles siguientes a la fecha en que cause ejecutoria la respectiva resolución. La información a que antes se alude se recabará en los formularios que, al efecto, a las autoridades les sean proporcionados por el Instituto Electoral del Estado de Campeche, mismo que podrá celebrar convenios de cooperación tendientes a que la información a que se refiere este artículo se proporcione oportunamente.
 
 ###### Art. 282.
 
@@ -2327,7 +2717,9 @@ VIII. Lugar para asentar la firma, huella digital y fotografía del elector;
 
 IX. Espacios necesarios para marcar año y elección de que se trate; y
 
-X. Firma impresa del presidente y secretario ejecutivo del Consejo General del Instituto Electoral del Estado.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+X. Firma impresa del presidente y secretario ejecutivo del Consejo General del Instituto Electoral del Estado de Campeche.
 
 ###### Art. 285.
 
@@ -2373,11 +2765,15 @@ Las Comisiones de Vigilancia sesionarán por lo menos una vez al mes. Para la va
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Política del Estado y por este Código, realizados por las autoridades electorales, los Partidos Políticos Nacionales y Estatales y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo del Estado, y de los Ayuntamientos y Juntas Municipales. Durante el proceso electoral todos los días y horas son hábiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 292.
 
-El proceso electoral ordinario se inicia en el mes de enero del año en que deban realizarse elecciones distritales y municipales. Para los efectos de este Código, el proceso electoral ordinario comprende las etapas de:
+El proceso electoral ordinario se inicia en el mes de enero del año en que deban realizarse elecciones a que se refiere el artículo anterior. Para los efectos de este Código, el proceso electoral ordinario comprende las etapas de:
 
-I. Preparación de la Elección, que inicia con la primera sesión que el Consejo General del Instituto Electoral del Estado celebre, durante la primera semana del mes de enero del año en que deban realizarse las elecciones ordinarias, y concluye al iniciarse la jornada electoral;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. Preparación de la Elección, que inicia con la primera sesión que el Consejo General del Instituto Electoral del Estado de Campeche celebre, durante la primera semana del mes de enero del año en que deban realizarse las elecciones ordinarias, y concluye al iniciarse la jornada electoral;
 
 II. Jornada Electoral, que inicia a las ocho horas del primer domingo de julio y concluye con la publicación de los resultados electorales, en el exterior de los locales de las casillas, y la remisión de los paquetes electorales a los respectivos Consejos Electorales, Distritales o Municipales en su caso;
 
@@ -2387,19 +2783,33 @@ IV. Dictamen y Declaración de Validez de la Elección y de Gobernador Electo, c
 
 ###### Art. 293.
 
-Las precampañas, para efectos de este Código, son el conjunto de actividades llevadas a cabo por los Partidos Políticos o Coaliciones para seleccionar, de manera interna, a los ciudadanos que postularán como candidatos en las elecciones en que participen y sólo podrán tener lugar en el periodo comprendido entre los últimos cuatro meses del año anterior en que tenga lugar la elección y hasta la fecha de apertura del registro de las correspondientes candidaturas.
+Las precampañas, para efectos de este Código, son el conjunto de actividades llevadas a cabo por los Partidos Políticos o Coaliciones para seleccionar, de manera interna, a los ciudadanos que postularán como candidatos en las elecciones en que participen y sólo podrán tener lugar en el período comprendido entre los últimos tres meses del año anterior en que tenga lugar la elección y hasta la fecha de apertura del registro de las correspondientes candidaturas, debiéndose observarse los plazos siguientes:
+
+I. Para la precampaña de Gobernador Constitucional del Estado hasta 60 días naturales.
+
+II. Para la precampaña de integrantes de Ayuntamientos y Diputados Locales de mayoría relativa hasta 45 días naturales; y
+
+III. Para la precampaña de integrantes de Juntas Municipales hasta 30 días naturales.
+
+Los partidos políticos o coaliciones deberán de notificar al Consejo General del Instituto Electoral del Estado de Campeche el inicio y conclusión de sus precampañas.
 
 ###### Art. 294.
 
 Las precampañas serán de estricta naturaleza interna y, en consecuencia, sólo será aplicable cuando se dé el proceso interno de selección de candidatos, por ende sólo involucrarán a los afiliados y simpatizantes a dichos Partidos o Coaliciones. En las precampañas está permitida la realización de marchas, la distribución de propaganda y la colocación de mantas, pasacalles o cartelones en las calles y la pinta de bardas. Para promover las precandidaturas entre sus afiliados y simpatizantes, los Partidos o Coaliciones podrán asimismo hacer uso de los medios masivos de comunicación. En toda la propaganda a que se refiere este artículo deberá señalarse en forma visible la leyenda que diga: "Proceso Interno de Selección de Candidatos".
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 295.
 
-Para el financiamiento de las precampañas, los Partidos Políticos podrán utilizar un diez por ciento del monto del financiamiento que les corresponda para Gastos de Campaña, que podrán incrementar con otro diez por ciento del financiamiento para Comunicación Social y con las cantidades que les aporten sus militantes. El Consejo General determinará, mediante la expedición de los correspondientes acuerdos, el tope de los gastos de precampaña, que nunca podrá ser superior al veinticinco por ciento del que se autorice para las campañas, dentro de los tiempos previstos en el artículo 322 de este Código.
+Para el financiamiento de las precampañas, los Partidos Políticos y los precandidatos en conjunto no podrán erogar más del 20 % del tope de gastos de campaña que hubiese sido autorizado para el tipo de elección de que se trate en el proceso electoral ordinario inmediato anterior, actualizándolo conforme al Índice Nacional de Precios al Consumidor vigente al mes de agosto del año anterior al de la elección, publicado por el Banco de México.
+
+El Consejo General del Instituto Electoral del Estado de Campeche, determinará en el mes de septiembre del año anterior al de la elección mediante la expedición de los correspondientes acuerdos, el tope de gastos de precampaña de cada elección tomando como base lo señalado en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 296.
 
-La inobservancia a lo establecido en los artículos que anteceden se sancionará con amonestación por escrito, o multa de cincuenta a cinco mil días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción, o con el no registro de las correspondientes candidaturas, según la gravedad del caso. El propio Instituto, deberá emitir la reglamentación interna correspondiente en la que se establezca la supervisión, fiscalización y aplicación de los recursos que fuesen destinados a las precampañas referidas en este capítulo.
+La inobservancia de los Partidos Políticos o Coaliciones a lo establecido en los artículos que anteceden de este capítulo se sancionará con amonestación por escrito, o multa de cincuenta a cinco mil días de salario mínimo general diario vigente en el Estado al momento de cometerse la infracción, o con la negativa a registrar las correspondientes candidaturas, según la gravedad del caso,. (sic) El Instituto Electoral del Estado de Campeche, deberá emitir la reglamentación interna correspondiente en la que se establezca la supervisión, fiscalización y aplicación de los recursos que fuesen destinados a las precampañas referidas en este capítulo.
 
 ###### Art. 297.
 
@@ -2413,13 +2823,29 @@ Las candidaturas a diputados por el principio de mayoría relativa se registrar�
 
 Las candidaturas para presidente, regidores y síndicos de mayoría relativa, de Ayuntamientos y Juntas Municipales, se registrarán por planillas integradas por propietarios y suplentes; las de los regidores y síndicos de representación proporcional, se registrarán por listas integradas con cinco candidatos, tratándose de los Ayuntamientos de los Municipios de Campeche y Carmen, y con cuatro candidatos, en lo que respecta a los Ayuntamientos de los demás Municipios, y de dos candidatos, tratándose de Juntas Municipales, por Partido o Coalición y por circunscripción plurinominal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 300.
 
-De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados como a integrantes de Ayuntamientos y Juntas Municipales, que presenten los Partidos Políticos o Coaliciones, ante el Instituto Electoral del Estado, en ningún caso incluirán más del setenta por ciento de candidatos propietarios de un mismo género. Las planillas de candidatos a integrantes de Ayuntamientos y Juntas Municipales, así como las listas de candidatos a diputados, regidores y síndicos de representación proporcional, se conformarán alternando candidaturas de género distinto, con observancia de lo antes dispuesto. Hecho el cierre del registro de candidaturas, si un Partido Político o Coalición no cumple con lo anteriormente establecido, el Consejo General del Instituto, tratándose de las candidaturas a diputados, o el respectivo Consejo Electoral Municipal o Distrital, respecto de las candidaturas a integrantes de Ayuntamientos y Juntas Municipales, le requerirá, en primera instancia, para que dentro del plazo de cuarenta y ocho horas, contadas a partir de la notificación del requerimiento, rectifique la solicitud de registro de candidaturas, apercibiéndolo de que de no hacerlo se hará acreedor a una amonestación pública. Transcurrido dicho plazo, si el Partido o Coalición no realizare la sustitución de candidatos será amonestado y requerido de nueva cuenta para que, dentro de las veinticuatro horas siguientes a la de haber sido notificado, haga la corrección ordenada, apercibiéndolo de que, de no hacerla, se le negará el registro de las candidaturas correspondientes. Lo antes previsto no se aplicará en el caso de candidaturas de mayoría relativa que sean resultado de un proceso de elección interna mediante voto directo. En el caso de que, para un mismo cargo de elección popular, sean registrados diferentes candidatos, fórmulas, planillas o listas por un mismo Partido Político o Coalición, el secretario del respectivo Consejo Electoral, una vez detectada esta situación, requerirá al Partido o Coalición que informe, al aludido Consejo, en un término de cuarenta y ocho horas, qué candidato, fórmula, planilla o lista prevalece. En caso de que el Partido o Coalición no informe se entenderá que opta por el último de los registros presentados, quedando sin efecto los anteriores.
+Corresponde a los Partidos Políticos el derecho de solicitar el registro de candidatos a cargos de elección popular, mediante el cumplimiento de los siguientes preceptos:
+
+I. Se considerará como requisito esencial para que proceda el registro de candidatos propietarios propuestos por los partidos, el que ninguna de las planillas y listas para la elección de ayuntamientos y juntas municipales por los principios de mayoría relativa y representación proporcional, contenga una proporción mayor al 60% de candidatos de un mismo género; para tal efecto se establece que los Consejos Electorales Municipales, Distritales o General, según sea el caso, al recibir la solicitud para el registro de candidaturas, revisará que se cumpla con el requisito establecido.
+
+II. El registro del total de las candidaturas para integrar las fórmulas y listas para la elección de diputados de mayoría relativa y representación proporcional, propuestas por los Partidos Políticos, no deberá incluir una proporción mayor al 60% de candidatos del mismo género. Para tal efecto el Consejo General, al recibir la solicitud para el registro de candidaturas, revisará que se cumpla con el requisito establecido.
+
+III. Las planillas de candidatos a integrantes de Ayuntamientos y Juntas Municipales, así como las listas de candidatos a Diputados, Regidores y Síndicos de Representación Proporcional, se conformarán alternando candidaturas de género distinto, con observancia de lo dispuesto en las fracciones I y II.
+
+IV. Si un Partido Político o Coalición no cumple con lo anteriormente establecido, el Consejo General, tratándose de las candidaturas a diputados, o el respectivo Consejo Electoral Municipal o Distrital, según sea el caso, respecto de las candidaturas a integrantes de Ayuntamientos y Juntas Municipales, le requerirá, para que dentro del plazo de cuarenta y ocho horas, contadas a partir de la notificación del requerimiento, rectifique la solicitud de registro de candidaturas, apercibiéndole de que en caso de no hacerlo así, se le negará el registro de las candidaturas correspondientes.
+
+V. En el caso de que, para un mismo cargo de elección popular sean registrados diferentes candidatos, fórmulas, planillas o lista por un mismo partido político o coalición, el secretario del respectivo Consejo Electoral, una vez detectada esta situación, requerirá al Partido Político o Coalición que informe al aludido Consejo, en un término de cuarenta y ocho horas contados a partir de la notificación qué candidato, fórmula, planilla o lista prevalece. En caso de que el Partido Político o Coalición no informe, se entenderá que opta por el último de los registros presentados, quedando sin efecto los anteriores.
+
+VI. Lo dispuesto en las fracciones I, II y III de este artículo no se aplicará en el caso de candidaturas de mayoría relativa que sean resultado de un proceso de elección interna conforme a lo establecido en los estatutos de los propios Partidos Políticos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 301.
 
-Para el registro de candidaturas, a todo cargo de elección popular, el Partido Político o Coalición postulante deberá presentar y obtener el registro de la Plataforma Electoral que todos sus candidatos sostendrán a lo largo de las campañas políticas. La Plataforma Electoral deberá presentarse para su registro ante el Consejo General, durante los primeros diez días del mes de marzo del año de las elecciones. El Consejo expedirá constancia del registro.
+Para el registro de candidaturas, a todo cargo de elección popular, el Partido Político postulante deberá presentar y obtener el registro de la Plataforma Electoral que todos sus candidatos sostendrán a lo largo de las campañas políticas. La Plataforma Electoral deberá presentarse para su registro ante el Consejo General, durante los primeros diez días del mes de marzo del año de las elecciones. El Consejo expedirá constancia del registro.
 
 ###### Art. 302.
 
@@ -2435,9 +2861,11 @@ IV. Para regidores y síndicos asignados por el principio de representación pro
 
 V. Para gobernador del Estado, del uno al quince de marzo inclusive, por el Consejo General del Instituto.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 303.
 
-El Instituto Electoral del Estado, dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente capítulo, a través del Periódico Oficial del Estado y de otros periódicos de circulación diaria en el Estado.
+El Instituto Electoral del Estado de Campeche, dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente capítulo, a través del Periódico Oficial del Estado y de otros periódicos de circulación diaria en el Estado.
 
 ###### Art. 304.
 
@@ -2453,9 +2881,11 @@ IV. Clave de la credencial para votar; y
 
 V. Cargo para el que se le postule.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 305.
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia certificada del acta de nacimiento, copia simple de la credencial para votar, constancia de residencia expedida por la autoridad municipal correspondiente y carta de no antecedentes penales.
+La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia legible del acta de nacimiento, copia fotostática legible de la credencial para votar, constancia de residencia expedida por la autoridad municipal correspondiente y carta de no antecedentes penales.
 
 ###### Art. 306.
 
@@ -2577,9 +3007,11 @@ Las autoridades competentes, a requerimiento del Consejo General, están obligad
 
 Los Partidos Políticos, las Coaliciones o candidatos que decidan, dentro del proceso electoral, realizar marchas o reuniones, que impliquen una interrupción temporal de la vialidad, deberán dar a conocer, con cuando menos veinticuatro horas de anticipación, a la autoridad competente, su itinerario, a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 328.
 
-La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o Coalición que ha registrado al candidato. La propaganda que en el curso de una campaña difundan por medios gráficos los Partidos Políticos, las Coaliciones y los candidatos, no tendrá más límite, en los términos del artículo 7º de la Constitución Política de los Estados Unidos Mexicanos, que el respeto a la vida privada de candidatos, autoridades y terceros, así como a las instituciones y los valores democráticos. La propaganda de una fórmula o planilla de candidatos de mayoría relativa deberá contener los nombres de todos los que la integren, propietarios y suplentes, y podrán contener sus respectivas fotografías; asimismo contendrá los nombres de quienes integren las listas de representación proporcional que el respectivo Partido Político o Coalición haya registrado.
+La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o Coalición que ha registrado al candidato. La propaganda que en el curso de una campaña difundan por medios gráficos los Partidos Políticos, las Coaliciones y los candidatos, no tendrá más límite, en los términos del artículo 7º de la Constitución Política de los Estados Unidos Mexicanos, que el respeto a la vida privada de candidatos, autoridades y terceros, así como a las instituciones y los valores democráticos. La propaganda de una fórmula o planilla de candidatos de mayoría relativa podrá contener los nombres de todos los que la integren, propietarios y suplentes, y podrán contener sus respectivas fotografías.; asimismo contendrá los nombres de quienes integren las listas de representación proporcional que el respectivo Partido Político o Coalición haya registrado.
 
 ###### Art. 329.
 
@@ -2641,13 +3073,17 @@ Las personas físicas o morales que pretendan llevar a cabo encuestas por muestr
 
 El Instituto, a petición de los Partidos Políticos, Coaliciones y candidatos a gobernador, que así lo decidan, organizará debates públicos y apoyará su difusión.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 341.
 
-Los bienes y toda clase de documentos que se entreguen, como consecuencia de acciones de gobierno, cuarenta y cinco días antes de la jornada electoral deberán contener en lugar visible la leyenda: "Esta acción de gobierno beneficia a los campechanos con independencia de su filiación o preferencia política".
+Durante el proceso electoral, los bienes y toda clase de documentos que se entreguen, como consecuencia de acciones de Gobierno, deberán contener el (sic) lugar visible la leyenda. “Esta acción de Gobierno beneficia a los Campechanos con independencia de su filiación y preferencia política”.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 342.
 
-Cualquier infracción a las disposiciones contenidas en el presente capítulo, será sancionada en los términos de los artículos 488 a 491 de este Código.
+Cualquier infracción a las disposiciones contenidas en el presente capítulo, será sancionada en los términos del libro sexto de este Código.
 
 ###### Art. 343.
 
@@ -2681,13 +3117,17 @@ En cada casilla se procurará la instalación de mamparas donde los votantes pue
 
 El procedimiento para integrar las Mesas Directivas de Casilla será el siguiente:
 
-I. En el mes de febrero y hasta el quince de marzo del año en que deban celebrarse las elecciones, los presidentes de los Consejos Electorales Distritales procederán a insacular, de las Listas Nominales de Electores, a un quince por ciento de ciudadanos por cada Sección Electoral, sin que en ningún caso el número de ciudadanos insaculados sea inferior a treinta. Los Consejos Electorales Distritales deberán apoyarse en el Registro Estatal o Federal de Electores. En el procedimiento de insaculación podrán estar presentes los miembros del Consejo General, de la Junta General Ejecutiva, los representantes de los Partidos y los de la Comisión Estatal de Vigilancia, según la programación que previamente se determine;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. En el mes de febrero y hasta el quince de marzo del año en que deban celebrarse las elecciones, los presidentes de los Consejos Electorales Distritales procederán a insacular, conforme al procedimiento que determine el Consejo General de las Listas Nominales de Electores, a un quince por ciento de ciudadanos por cada Sección Electoral, sin que en ningún caso el número de ciudadanos insaculados sea inferior a treinta. Los Consejos Electorales Distritales deberán apoyarse en el Registro Estatal o Federal de Electores. En el procedimiento de insaculación podrán estar presentes los miembros del Consejo General, de la Junta General Ejecutiva y, los representantes de los Partidos según la programación que previamente se determine;
 
 II. A los ciudadanos que resulten seleccionados se les convocará para que asistan a cursos de capacitación que se impartirá entre el dieciséis de marzo y el quince de abril en el año de la elección;
 
 III. Los Consejos Distritales harán una evaluación objetiva para seleccionar, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, a los que resulten aptos en términos de este Código, prefiriendo a los de mayor escolaridad;
 
-IV. Los Consejos Electorales Distritales harán, entre el dieciséis de abril y el doce de mayo del año de la elección, una relación de aquellos ciudadanos que, habiendo asistido a la capacitación correspondiente, no tengan impedimento alguno para desempeñar el cargo, en los términos de este Código. De esa relación los propios Consejos insacularán a los ciudadanos que integrarán las Mesas Directivas de Casilla, determinando, según su escolaridad, las funciones que cada uno desempeñará en la casilla, integración que deberá quedar concluida a más tardar el quince de mayo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Los Consejos Electorales Distritales harán, entre el dieciséis de abril y el doce de mayo del año de la elección, una relación de aquellos ciudadanos que, habiendo asistido a la capacitación correspondiente, no tengan impedimento alguno para desempeñar el cargo, en los términos de este Código. De esa relación los propios Consejos insacularán, conforme al procedimiento que determine el Consejo General, a los ciudadanos que integrarán las Mesas Directivas de Casilla, determinando, según su escolaridad, las funciones que cada uno desempeñará en la casilla, integración que deberá quedar concluida a más tardar el quince de mayo… (sic)
 
 V. Realizada la integración de las Mesas Directivas de Casilla según los procedimientos anteriores, los Consejos Electorales Distritales ordenarán la publicación de las listas de los miembros de las Mesas Directivas de Casilla para todas las Secciones Electorales, a más tardar el día dieciséis de mayo del año en que se celebre la elección, lo que comunicarán a los Consejos General y Municipales respectivos; y
 
@@ -2719,6 +3159,8 @@ V. No ser locales ocupados por cantinas, centros de vicios o similares.
 
 ### Capítulo Quinto. Del Registro de Representantes de Partidos y Coaliciones
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 353.
 
 Para la ubicación de las casillas se preferirán, en caso de reunir los requisitos señalados por las fracciones I y II del artículo anterior, los locales ocupados por escuelas y oficinas públicas.
@@ -2727,15 +3169,23 @@ Para la ubicación de las casillas se preferirán, en caso de reunir los requisi
 
 El procedimiento para determinar la ubicación de las casillas será el siguiente:
 
-I. Entre el quince de febrero y el quince de marzo del año de la elección, los funcionarios electorales distritales recorrerán las Secciones de sus correspondientes Distritos, con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo 352;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Entre el quince y el treinta de marzo, los presidentes de los Consejos Electorales Distritales presentarán a sus respectivos Consejos una lista proponiendo los lugares en que habrán de ubicarse las casillas;
+I. Entre el quince de febrero y el diez de marzo del año de la elección, los funcionarios electorales distritales recorrerán las Secciones de sus correspondientes Distritos, con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo 352;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Entre el diez y el veinte de marzo, los presidentes de los Consejos Electorales Distritales presentarán a sus respectivos Consejos una lista proponiendo los lugares en que habrán de ubicarse las casillas;
 
 III. Recibidas las listas de propuesta, los Consejos Electorales Distritales examinarán que los lugares propuestos cumplan con los requisitos fijados por el artículo 352 y, en su caso, harán los cambios necesarios;
 
-IV. Los Consejos Electorales Distritales, en sesión que celebren a más tardar durante la segunda semana del mes de mayo, aprobarán la lista en la que se contenga la ubicación de las casillas; y
+IV. Los Consejos Electorales Distritales, en sesión que celebren a más tardar durante la segunda semana del mes de mayo, aprobarán la lista en la que se contenga la ubicación de las casillas; y (sic)
 
-V. Los presidentes de los Consejos Electorales Distritales ordenarán la publicación de las listas de ubicación de casillas a más tardar el dieciséis de mayo.
+V. Los presidentes de los Consejos Electorales Distritales ordenarán la publicación de las listas de ubicación de casillas a más tardar el dieciséis de mayo;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VI. En su caso, el Presidente del Consejo Distrital ordenará una segunda publicación de la lista, con los ajustes correspondientes, entre el quince y el veinticinco de junio del año de la elección, previa aprobación del acuerdo correspondiente.
 
 ###### Art. 355.
 
@@ -2751,11 +3201,13 @@ Los Consejos Electorales Distritales, a propuesta de sus presidentes, determinar
 
 ###### Art. 358.
 
-Los Partidos Políticos y las Coaliciones, una vez registrados sus candidatos, fórmulas, planillas y listas de circunscripción plurinominal, publicadas las listas de ubicación de casillas y hasta diez días antes de la elección, tendrán derecho a nombrar dos representantes, que serán un propietario y un suplente, ante cada Mesa Directiva de Casilla y representantes generales propietarios. En cada uno de los Distritos Electorales Uninominales, se podrá acreditar un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas ubicadas en zonas rurales.
+Los Partidos Políticos y las Coaliciones, una vez registrados sus candidatos, fórmulas, planillas y listas de circunscripción plurinominal, publicadas las listas de ubicación de casillas y hasta diez días antes de la elección, tendrán derecho a nombrar dos representantes, que serán un propietario y un suplente, ante cada Mesa Directiva de Casilla y representantes generales propietarios, en ningún caso podrán ser integradas éstas por candidatos a cargo de elección popular. En cada uno de los Distritos Electorales Uninominales, se podrá acreditar un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas ubicadas en zonas rurales.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 359.
 
-Los representantes de los Partidos Políticos y Coaliciones, ante las Mesas Directivas de Casilla y generales, deberán firmar sus nombramientos para ser acreditados en la casilla; asimismo, podrán portar en lugar visible, durante todo el día de la jornada electoral, un distintivo de hasta dos y medio por dos y medio centímetros con la leyenda visible de "Representante de Partido" o, en su caso, un logotipo del Partido o Coalición de que se trata, mismo que deberá ser proporcionado por el Instituto Electoral del Estado.
+Los representantes de los Partidos Políticos y coaliciones, ante las mesas directivas de casilla y generales, podrán firmar sus nombramientos hasta antes de acreditarse en la casilla, asimismo, podrán portar en lugar visible, durante todo el día en la jornada electoral, un distintivo de hasta dos y medio por dos y medio centímetros con la leyenda visible de “Representante de Partido” o, en su caso, un logotipo del partido o coalición de que se trata, mismo que deberá ser proporcionado por el Instituto Electoral del Estado.
 
 ###### Art. 360.
 
@@ -2781,15 +3233,21 @@ VII. Podrán comprobar la presencia de los representantes de su Partido Polític
 
 ### Capítulo Sexto. De la Documentación y el Material Electoral
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 362.
 
 Los representantes de los Partidos Políticos y Coaliciones, debidamente acreditados ante las Mesas Directivas de Casilla, tendrán los siguientes derechos:
 
-I. Participar en la instalación de la casilla y permanecer en ella hasta su clausura, teniendo una ubicación que les permita observar y vigilar el desarrollo de la elección;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. Podrán estar presentes tanto el representante propietario y el suplente en la instalación de la casilla y permanecer en ella hasta su clausura, teniendo una ubicación que les permita observar y vigilar el desarrollo de la elección;
 
 II. Recibir copia legible de las actas elaboradas en la casilla;
 
 III. Presentar escritos relacionados con incidentes ocurridos durante la votación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 IV. Acompañar al presidente de la Mesa Directiva de Casilla, al Consejo Electoral correspondiente, para hacer entrega de la documentación y el expediente electoral; y
 
@@ -2841,7 +3299,9 @@ V. Domicilio del representante;
 
 VI. Clave de la credencial para votar;
 
-VII. Firma del representante;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VII. Firma del representante, en su caso;
 
 VIII. Fotografía del representante, cuando así lo acuerde el Partido Político o Coalición y lo comunique al Consejo Electoral para su inclusión en el nombramiento que al efecto expida;
 
@@ -2853,9 +3313,11 @@ X. Firma del representante ante el Consejo Electoral respectivo o del dirigente 
 
 Para garantizar a los representantes ante la Mesa Directiva de Casilla, el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 369.
 
-En caso de que el presidente del Consejo Electoral Distrital no resuelva, dentro de las cuarenta y ocho horas siguientes, la solicitud o niegue el registro, el Partido Político o Coalición interesado podrá solicitar al presidente del Consejo General registre a los representantes de manera supletoria.
+Vencido el plazo a que se refiere la fracción III del articulo 364 de este Código, si el presidente del Consejo Electoral Distrital no resuelve la solicitud o niega el registro al Partido Político o Coalición interesado, éste podrá solicitar al presidente del Consejo General, dentro de las setenta y dos horas siguientes, registre a los representantes de manera supletoria. El Presidente del Consejo General solicitará al Presidente del Consejo Distrital remita a éste la documentación respectiva, a efecto de proceder a registrar a los representantes acreditados por el Partido Político solicitante. El Presidente del Consejo General resolverá en un plazo de cuarenta y ocho horas.
 
 ###### Art. 370.
 
@@ -2867,7 +3329,7 @@ Los nombramientos de los representantes generales deberán contener los mismos d
 
 ###### Art. 372.
 
-Para la emisión del voto se imprimirán las boletas electorales conforme al formato que apruebe el Consejo General del Instituto. Las boletas contendrán en su anverso:
+Para la emisión del voto se imprimirán las boletas electorales conforme al formato que apruebe el Consejo General del Instituto Electoral del Estado de Campeche. Las boletas contendrán en su anverso:
 
 I. Estado, Municipio y Distrito, para diputados y gobernador;
 
@@ -2883,7 +3345,9 @@ VI. En el caso de la elección de diputados, presidente, regidores y síndicos, 
 
 VII. En el caso de la elección de gobernador, un sólo espacio para cada candidato; y
 
-VIII. Las firmas impresas del presidente y del secretario ejecutivo del Consejo General del Instituto Electoral del Estado.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VIII. Las firmas impresas del presidente y del secretario ejecutivo del Consejo General del Instituto Electoral del Estado de Campeche.
 
 ###### Art. 373.
 
@@ -2905,15 +3369,21 @@ No habrá modificación a las boletas en caso de cancelación del registro, o su
 
 Las boletas deberán obrar en poder de los Consejos Electorales Distritales a más tardar cinco días antes de la elección. Para su control se tomarán las medidas siguientes:
 
-I. El personal autorizado por el Consejo General del Instituto entregará las boletas, en el día, hora y lugar preestablecidos, al presidente del Consejo Electoral Distrital, quien estará acompañado de los demás integrantes del propio Consejo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. El personal autorizado por el Consejo General del Instituto Electoral del Estado de Campeche, entregará las boletas, en el día, hora y lugar preestablecidos, al presidente del Consejo Electoral Distrital, quien estará acompañado de los demás integrantes del propio Consejo o ante el Consejo General;
 
 II. El secretario del Consejo Electoral Distrital levantará acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de boletas, las características del embalaje que las contiene, y los nombres y cargos de los funcionarios presentes;
 
 III. A continuación, los miembros presentes del Consejo Electoral Distrital acompañarán al presidente para depositar la documentación recibida, en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva;
 
-IV. El mismo día o a más tardar el siguiente, el presidente del Consejo, el secretario y los consejeros electorales procederán a contar las boletas para precisar la cantidad recibida, sellarlas al dorso y agruparlas en razón del número de electores que correspondan a cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General del Instituto para ellas. El secretario registrará los datos de esta distribución; y
+IV. El mismo día o a más tardar el siguiente, el presidente del Consejo, el secretario y los consejeros electorales procederán a contar las boletas para precisar la cantidad recibida, sellarlas al dorso y agruparlas en razón del número de electores que correspondan a cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General del Instituto para ellas. El secretario registrará los datos de esta distribución; y (sic)
 
-V. Estas operaciones se realizarán con la presencia de los representantes de los Partidos o Coaliciones que decidan asistir.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+V. Una vez efectuado lo señalado en la fracción anterior, se procederá a la destrucción de las boletas que excedan al número de representantes ante la mesa directiva de casilla que hayan quedado debidamente registrados ante los Consejos Electorales Distritales, este acto podrá llevarse a cabo, hasta un día antes de la jornada electoral. El secretario levantará acta pormenorizada en la que hará constar los datos relativos al número y folio de las boletas destruidas; y
+
+VI. Estas operaciones se realizarán con la presencia de los representantes de los Partidos o Coaliciones que decidan asistir.
 
 > <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2002)</small>
 
@@ -2925,13 +3395,19 @@ Los representantes de los Partidos o Coaliciones, ante los Consejos Electorales 
 
 Los presidentes de los Consejos Electorales Distritales entregarán a cada presidente de Mesa Directiva de Casilla, a más tardar el día previo a la elección y contra el recibo detallado correspondiente:
 
-I. La Lista Nominal de Electores de la Sección, según corresponda, en los términos de los artículos 271, 272 y 280 de este Código;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. La relación de los representantes de los Partidos o Coaliciones registrados para la casilla ante el Consejo Electoral Distrital;
+I. La Lista Nominal de Electores de la Sección, según corresponda, en los términos de los artículos 271, 272 y 280 de este Código o conforme a los convenios o acuerdos que para cada elección celebre el Instituto Electoral del Estado de Campeche con el Instituto Federal Electoral;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. La relación de los representantes de los Partidos Políticos o Coaliciones registrados para la casilla ante el Consejo Electoral Distrital;
 
 III. La relación de los representantes generales acreditados por cada Partido o Coalición en el Distrito en que se ubique la casilla en cuestión;
 
-IV. Las boletas para cada elección, en número igual al de los electores que figuren en la Lista Nominal y al de los funcionarios y representantes acreditados para actuar en la casilla;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Las boletas para cada elección, en numero igual al de los electores que figuren en la lista nominal y representantes acreditados para actuar en la casilla;
 
 V. Las urnas para recibir la votación, una por cada elección de que se trate;
 
@@ -2963,7 +3439,9 @@ I. En el primero se consignará la instalación de la casilla;
 
 II. En el segundo se consignará el cierre de la votación;
 
-III. En el tercero se consignarán los incidentes que hubieren tenido lugar durante la jornada electoral; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. En el tercero se consignarán los incidentes que hubieren tenido lugar durante la jornada electoral. Si ese apartado no fuera suficiente para asentar los hechos o circunstancias a que se refiere el incidente, podrán ampliarse los señalamientos en las hojas complementarias que como parte de las formas aprobadas a que se refiere la fracción VII del artículo 379, se hubiesen entregado al Presidente de la Mesa Directiva de Casilla. Las hojas complementarias en su caso utilizadas se considerarán parte del acta de la jornada electoral; y
 
 IV. En el cuarto se consignará la clausura de la casilla.
 
@@ -3015,7 +3493,9 @@ IV. Si sólo estuvieran los suplentes, uno de ellos asumirá las funciones de pr
 
 V. Si no asistiera ninguno de los funcionarios de casilla, el Consejo Distrital tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
 
-VI. Cuando por razones de distancia o de dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Instituto Electoral del Estado designado, a las diez horas, los representantes de los Partidos Políticos o Coaliciones, ante la respectiva Mesa Directiva de Casilla, designarán, por mayoría, a los funcionarios necesarios para integrar dicha Mesa Directiva de entre los electores presentes; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Cuando por razones de distancia o de dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Instituto Electoral del Estado de Campeche designado, a las diez horas, los representantes de los Partidos Políticos o Coaliciones, ante la respectiva Mesa Directiva de Casilla, designarán, por mayoría, a los funcionarios necesarios para integrar dicha Mesa Directiva de entre los electores presentes;
 
 VII. En todo caso, integrada conforme a los anteriores supuestos, la Mesa Directiva de Casilla, iniciará sus actividades, recibirá validamente la votación y funcionará hasta su clausura.
 
@@ -3063,9 +3543,11 @@ Una vez llenado el primer apartado del acta de la jornada electoral, el presiden
 
 Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso, corresponde al presidente dar aviso de inmediato al Consejo Electoral Distrital, a través de un escrito en que dé cuenta de la causa de suspensión, la hora en que ocurrió y la indicación de los votantes que hasta ese momento habían ejercido su derecho de voto. El escrito deberá ser firmado por dos testigos que lo serán, preferentemente, los integrantes de la Mesa Directiva o los representantes de los Partidos Políticos o Coaliciones. Recibida la comunicación que antecede, el Consejo Electoral Distrital decidirá si se reanuda la votación, para lo cual tomará las medidas que estime necesarias.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 398.
 
-Los electores votarán en el orden en que se presenten ante la Mesa Directiva de Casilla, debiendo exhibir su credencial para votar. Los presidentes de casilla permitirán emitir su voto a aquellos ciudadanos que estando en la Lista Nominal de Electores correspondiente a su domicilio, su credencial para votar contenga errores de seccionamiento. En este caso los presidentes de casilla, además de identificar a los electores en los términos de este Código, se cerciorarán de su residencia en la Sección correspondiente, por el medio que estimen más efectivo.
+Los electores votarán en el orden en que se presenten ante la Mesa Directiva de Casilla, debiendo exhibir su credencial para votar, o la copia certificada de la resolución expedida por el Tribunal Electoral del Poder Judicial de la Federación, que faculta al ciudadano para poder emitir su voto. Los presidentes de casilla permitirán emitir su voto a aquellos ciudadanos que estando en la Lista Nominal de Electores correspondiente a su domicilio, su credencial para votar contenga errores de seccionamiento. En este caso los presidentes de casilla, además de identificar a los electores en los términos de este Código, se cerciorarán de su residencia en la Sección correspondiente, por el medio que estimen más efectivo.
 
 ###### Art. 399.
 
@@ -3093,9 +3575,11 @@ II. Impregnar con tinta indeleble el dedo pulgar derecho del elector, de prefere
 
 III. Devolver al elector su credencial para votar.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 404.
 
-Los funcionarios de casilla y los representantes de los Partidos Políticos o Coaliciones ante las Mesas Directivas, podrán ejercer su derecho de voto en la casilla en la que estén acreditados, para lo cual se seguirá el procedimiento señalado en los artículos anteriores, anotando el nombre completo y la clave de la credencial para votar de los funcionarios y representantes al final de la Lista Nominal de Electores.
+Los representantes de partido propietarios y suplentes de los partidos políticos o coaliciones ante las mesas directivas, podrán ejercer su derecho de voto en la casilla en la que estén acreditados, para lo cual se seguirá el procedimiento señalado en los artículos anteriores, anotando el nombre completo y la clave de la credencial para votar de los representantes al final de la lista Nominal de electores.
 
 ### Capítulo Tercero. Del Escrutinio y Cómputo de Casilla
 
@@ -3113,11 +3597,19 @@ Tendrán derecho de acceso a las casillas:
 
 I. Los electores que hayan sido admitidos por el presidente en los términos que fija el artículo 400 de este Código;
 
-II. Los representantes de los Partidos Políticos o Coaliciones debidamente acreditados en los términos que fijan los artículos 367 y 371 de este Código;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-III. Los notarios públicos y los jueces que deban dar fe de cualquier acto relacionado con la integración de la Mesa Directiva, la instalación de la casilla y, en general, con el desarrollo de la votación, siempre y cuando se hayan identificado debidamente ante el presidente de la Mesa Directiva y precisada la índole de la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación; y
+II. Los representantes de los Partidos Políticos o Coaliciones debidamente acreditados en los términos que fijan los artículos 361, 362, 367 y 371 de este Código;
 
-IV. Los funcionarios del Instituto Electoral del Estado que fueren llamados por el presidente de la Mesa Directiva o hayan sido enviados por los Consejos General, Distrital o Municipal.
+III. Los notarios públicos y los jueces que deban dar fe de cualquier acto relacionado con la integración de la Mesa Directiva, la instalación de la casilla y, en general, con el desarrollo de la votación, siempre y cuando se hayan identificado debidamente ante el presidente de la Mesa Directiva y precisada la índole de la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación; y (sic)
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Los funcionarios del Instituto Electoral del Estado de Campeche que fueren llamados por el presidente de la Mesa Directiva o hayan sido enviados por los Consejos General, Distrital o Municipal;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+V. Los observadores electorales debidamente acreditados ante la autoridad electoral en los términos que fija el articulo 10 de este Código.
 
 ### Capítulo Cuarto. De la Clausura de la Casilla y de la Remisión del Expediente
 
@@ -3171,6 +3663,8 @@ La votación se cerrará a las dieciocho horas. Podrá cerrarse antes de la hora
 
 ### Capítulo Sexto. Disposiciones Complementarias
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 417.
 
 Sólo permanecerá abierta, después de las dieciocho horas, aquella casilla en la que aún se encuentren electores formados para votar. En este caso, se cerrará una vez que quienes estuviesen formados a esa hora hayan votado.
@@ -3201,11 +3695,13 @@ III. El número de votos nulos; y
 
 IV. El número de boletas sobrantes de cada elección.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ### Capítulo Segundo. De la Información Preliminar de los Resultados
 
 ###### Art. 422.
 
-Debe entenderse por voto nulo la boleta que, depositada en la urna, no tiene marca alguna o que teniéndola abarca más de un cuadro, en el que se contenga el emblema de un Partido Político, el de una Coalición o el de los emblemas de los Partidos coaligados, siempre que ello haga imposible advertir a favor de que candidato, fórmula o planilla se votó.
+Debe entenderse por voto nulo la boleta que, depositada en la urna, no tiene marca alguna o que teniéndola abarca más de un cuadro significativamente, en el que se contenga el emblema de un Partido Político, el de una Coalición o el de los emblemas de los Partidos coaligados, siempre que ello haga imposible advertir a favor de qué candidato, fórmula o planilla se votó, o en su caso, cuando se marque el recuadro que contenga la leyenda: “NO REGISTRÓ CANDIDATOS”.
 
 ###### Art. 423.
 
@@ -3255,9 +3751,11 @@ II. El número total de las boletas sobrantes que fueron inutilizadas; y
 
 III. El número de votos nulos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 428.
 
-Los incidentes ocurridos durante el escrutinio y cómputo se anotarán en el tercer apartado del acta de la jornada electoral.
+En el tercer apartado del acta de la jornada electoral, se anotará si se suscitaron incidentes durante el escrutinio y cómputo, así como el número de hojas que se anexan en las cuales se hubieren detallado dichos incidentes.
 
 ###### Art. 429.
 
@@ -3267,13 +3765,33 @@ En ningún caso se sumarán a los votos nulos las boletas sobrantes que fueron i
 
 Concluido el escrutinio y cómputo de cada una de las votaciones se harán las correspondientes anotaciones en el acta de escrutinio y cómputo de casilla respectiva, la que firmarán, sin hacer excepción, todos los funcionarios y representantes de los Partidos Políticos o Coaliciones ante la Mesa Directiva de Casilla. Los mencionados representantes tendrán derecho a firmar esa acta bajo protesta, señalando los motivos de la misma.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 431.
 
-Al término del escrutinio y cómputo de cada una de las elecciones, se integrará su correspondiente "Expediente de Casilla" con el acta de la jornada electoral, original o copia según se determina más adelante, y el original de la respectiva acta de escrutinio y cómputo de casilla. Se remitirán también, en sobres por separado, las boletas sobrantes inutilizadas, las que contengan los votos válidos y las que contengan los votos nulos. La Lista Nominal de Electores se remitirá en sobre por separado. Para garantizar la inviolabilidad de la documentación anterior, con el expediente y los sobres se formará el "Paquete Electoral", cuya envoltura deberá ser firmada por los integrantes de la Mesa Directiva de Casilla y los representantes que deseen hacerlo. Por fuera del paquete electoral se adherirá un sobre, con una copia legible del acta de escrutinio y cómputo de casilla, para su entrega al presidente del Consejo Electoral Distrital o Municipal correspondiente.
+Al término del escrutinio y cómputo se procederá a integrar, por cada una de las elecciones, un “Expediente de Casilla” que contará con la siguiente documentación:
+
+I. Acta de la jornada electoral en original o copia según se determina en el siguiente artículo junto con sus respectivas hojas de incidentes;
+
+II. Original de la respectiva acta de escrutinio y cómputo de casilla;
+
+III. Las boletas se remitirán en sobres por separados, de la siguiente manera:
+
+a). Sobrantes e inutilizadas;
+
+b). Votos válidos; y
+
+c). Las relativas a los votos nulos;
+
+IV. La Lista Nominal de Electores se remitirá en sobre por separado.
+
+Se formará el “Paquete Electoral” con todos y cada uno de los “Expedientes de Casilla” que se hubieren integrado. En la envoltura de cada “Paquete Electoral” firmarán los integrantes de la Mesa Directiva de Casilla y los representantes de los partidos políticos o coaliciones que deseen hacerlo. Por fuera (sic) cada “Paquete Electoral” se adherirán dos sobres; una copia legible del acta de escrutinio y cómputo de casilla y el otro contendrá una copia legible del acta de escrutinio y cómputo de casilla al Programa de Resultados Electorales Preliminares, ambos sobres serán entregados al presidente del Consejo Electoral Distrital o Municipal correspondiente quien los retirará para los efectos que correspondan.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 432.
 
-El original del acta de la jornada electoral se contendrá en el expediente relativo a la elección de diputado. En los expedientes relativos a la elección de gobernador y de presidente, regidores y síndico de Ayuntamientos o Juntas Municipales se contendrá una copia del acta de la jornada electoral, con firmas autógrafas.
+El original del acta de la jornada electoral, las hojas adicionales de incidentes en su caso, y la lista nominal de electores, se contendrán en el expediente relativo a la elección de diputado. En los expedientes relativos a la elección de gobernador y de presidente, regidores y síndico de Ayuntamientos o Juntas Municipales se contendrá una copia del acta de la jornada electoral, con firmas autógrafas.
 
 ###### Art. 433.
 
@@ -3355,7 +3873,7 @@ Los Partidos Políticos y Coaliciones podrán designar a un representante facult
 
 ###### Art. 442.
 
-Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los cuerpos de seguridad pública, están obligados a prestar el auxilio que les requieran los órganos del Instituto Electoral del Estado y los presidentes de las Mesas Directivas de Casilla, en el ámbito de sus respectivas competencias, conforme a las disposiciones de este Código.
+Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los cuerpos de seguridad pública, están obligados a prestar el auxilio que les requieran los órganos del Instituto Electoral del Estado de Campeche y los presidentes de las Mesas Directivas de Casilla, en el ámbito de sus respectivas competencias, conforme a las disposiciones de este Código.
 
 ###### Art. 443.
 
@@ -3405,7 +3923,9 @@ De la recepción de los paquetes electorales se levantará acta circunstanciada 
 
 Los Consejos Electorales Distritales o Municipales harán las sumas de los resultados consignados, en las copias de las actas de escrutinio y cómputo de casilla, conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes electorales, conforme a las siguientes reglas:
 
-I. El presidente del Consejo abrirá el sobre respectivo y, de inmediato, dará lectura, en voz alta, del resultado de la votación que aparezca anotado en la copia del acta de escrutinio y cómputo de casilla, procediendo de inmediato a informar estos resultados al secretario ejecutivo del Consejo General del Instituto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. El presidente del Consejo abrirá el sobre respectivo y, de inmediato, dará lectura, en voz alta, del resultado de la votación que aparezca anotado en la copia del acta de escrutinio y cómputo de casilla, procediendo de inmediato a informar estos resultados al secretario ejecutivo del Consejo General del Instituto Electoral del Estado de Campeche;
 
 II. El secretario del Consejo Distrital o Municipal anotará esos resultados, en el lugar que les corresponda, en la forma destinada para ello, conforme al orden numérico de las casillas; y
 
@@ -3505,7 +4025,9 @@ Los presidentes de los Consejos Electorales Distritales o Municipales conservar�
 
 El cómputo de circunscripción plurinominal es la suma que realizan:
 
-I. El Consejo General del Instituto, de los resultados anotados en las actas de cómputo distrital a fin de determinar el porcentaje de votación obtenido por cada Partido o Coalición en todo el Estado para la asignación de diputados por el principio de representación proporcional; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. El Consejo General del Instituto Electoral del Estado de Campeche, de los resultados anotados en las actas de cómputo distrital a fin de determinar el porcentaje de votación obtenido por cada Partido o Coalición en todo el Estado para la asignación de diputados por el principio de representación proporcional; y
 
 II. Los Consejos Electorales Distritales o los Municipales, conforme corresponda en términos de este Código, a fin de determinar el porcentaje de votación obtenido por cada Partido o Coalición en todo el Municipio y, en su caso, Sección Municipal para la asignación de regidores y síndicos de Ayuntamientos y regidor de Juntas Municipales por el principio de representación proporcional.
 
@@ -3567,21 +4089,31 @@ II. Resto mayor de votos.
 
 Cociente natural es el resultado de dividir la votación estatal o municipal emitida entre las diputaciones o regidurías y sindicaturas de representación proporcional, según corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 473.
 
-Resto mayor de votos es el remanente más alto entre los restos de las votaciones de cada Partido Político, una vez hecha la distribución de diputaciones, regidurías o sindicaturas, mediante el cociente natural. El resto mayor se utilizará cuando aún hubiese diputaciones, regidurías o sindicaturas por distribuir.
+Resto mayor de votos es el remanente más alto entre los restos de las votaciones de cada Partido Político y Coalición, una vez hecha la distribución de diputaciones, regidurías y sindicaturas, mediante el cociente natural. El resto mayor se utilizará cuando aún hubiese diputaciones, regidurías y sindicaturas por distribuir.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 474.
 
-Ningún Partido Político podrá contar con más de veintiún diputados por ambos principios. En ningún caso, un Partido Político podrá contar con un número de diputados por ambos principios, que representen un porcentaje del total del Congreso, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al Partido Político que, por sus triunfos en Distritos Uninominales, obtenga un porcentaje de diputaciones, del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento.
+Ningún Partido Político o Coalición podrá contar con más de veintiún diputados por ambos principios. En ningún caso, un Partido Político o Coalición podrá contar con un número de diputados por ambos principios, que representen un porcentaje del total del Congreso, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al Partido Político o Coalición que, por sus triunfos en Distritos Uninominales, obtenga un porcentaje de diputaciones, del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento.
 
 ###### Art. 475.
 
 Una vez desarrollada la fórmula de proporcionalidad pura prevista en el artículo 471 de este Código, se observará el procedimiento siguiente:
 
-I. Se determinarán las diputaciones que se le asignarían a cada Partido Político, conforme al número de veces que contenga su votación el cociente natural; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Las que se distribuirían por resto mayor si, después de aplicarse el cociente natural, quedaren diputaciones por repartir siguiendo el orden decreciente de los votos no utilizados para cada uno de los Partidos Políticos en la asignación de diputaciones.
+I. Se determinarán las diputaciones que se le asignarían a cada Partido Político o Coalición, conforme al número de veces que contenga su votación el cociente natural; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Las que se distribuirían por resto mayor si, después de aplicarse el cociente natural, quedaren diputaciones por repartir siguiendo el orden decreciente de los votos no utilizados para cada uno de los Partidos Políticos o Coaliciones en la asignación de diputaciones.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 # Libro Sexto. De las Faltas Administrativas y de las Sanciones
 
@@ -3589,21 +4121,31 @@ II. Las que se distribuirían por resto mayor si, después de aplicarse el cocie
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 476.
 
-Se determinará si es el caso de aplicar a algún Partido Político el o los límites establecidos en los incisos d) y e) del artículo 31 de la Constitución Política del Estado, para lo cual al Partido cuyo número de diputados por ambos principios exceda de veintiuno, o su porcentaje de diputaciones del total del Congreso exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás Partidos Políticos que no se ubiquen en estos supuestos.
+Se determinará si es el caso de aplicar a algún Partido Político o Coalición el o los límites establecidos en los incisos d) y e) del artículo 31 de la Constitución Política del Estado, para lo cual al Partido Político o Coalición cuyo número de diputados por ambos principios exceda de veintiuno, o su porcentaje de diputaciones del total del Congreso exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás Partidos Políticos o Coaliciones que no se ubiquen en estos supuestos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 477.
 
-Para la asignación de diputados de representación proporcional, en el caso de que se diere el supuesto previsto por el inciso f) del artículo 31 constitucional local, una vez realizada la distribución a que se refieren los artículos anteriores, se procederá a asignar el resto de las diputaciones a los demás Partidos Políticos con derecho a ello, en los términos siguientes:
+Para la asignación de diputados de representación proporcional, en el caso de que se diere el supuesto previsto por el inciso f) del artículo 31 constitucional local, una vez realizada la distribución a que se refieren los artículos anteriores, se procederá a asignar el resto de las diputaciones a los demás Partidos Políticos o Coaliciones con derecho a ello, en los términos siguientes:
 
-I. Se obtendrá la votación estatal efectiva. Para ello se deducirá de la votación estatal emitida los votos del o de los Partidos a los que se les hubiese aplicado alguno de los límites establecidos en los incisos d) y e) del artículo 31 constitucional;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. Se obtendrá la votación estatal efectiva. Para ello se deducirá de la votación estatal emitida los votos del o de los Partidos o Coaliciones a los que se les hubiese aplicado alguno de los límites establecidos en los incisos d) y e) del artículo 31 constitucional;
 
 II. La votación estatal efectiva se dividirá entre el número de diputaciones por asignar, a fin de obtener un nuevo cociente natural;
 
-III. La votación estatal efectiva obtenida por cada Partido se dividirá entre el nuevo cociente natural, el resultado en números enteros, será el total de diputaciones a asignar a cada Partido; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-IV. Si aún quedaren diputaciones por distribuir se asignarán de conformidad con los restos mayores de los Partidos.
+III. La votación estatal efectiva obtenida por cada Partido Político o Coalición se dividirá entre el nuevo cociente natural, el resultado en números enteros, será el total de diputaciones a asignar a cada Partido Político o Coalición; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Si aún quedaren diputaciones por distribuir se asignarán de conformidad con los restos mayores de los Partidos Políticos o Coaliciones.
 
 ###### Art. 478.
 
@@ -3613,15 +4155,23 @@ En todos los casos, para la asignación de diputados por el principio de represe
 
 La asignación de regidurías y sindicaturas por el principio de representación proporcional, para el caso de Ayuntamientos se hará conforme a lo dispuesto en los artículos 102 de la Constitución Política del Estado y 28 y 469 de este Código, atendiendo las reglas siguientes:
 
-I. En la asignación no participará el Partido cuya planilla haya obtenido el triunfo de mayoría relativa;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Se desarrollará la fórmula de proporcionalidad pura prevista en el artículo 471 de este Código;
+I. En la asignación no participará el Partido Político o Coalición cuya planilla haya obtenido el triunfo de mayoría relativa;
 
-III. Se determinarán las regidurías que se le asignarán a cada Partido Político, conforme al número de veces que contenga su votación el cociente natural;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-IV. Las que se distribuirán por resto mayor si, después de aplicarse el cociente natural, quedaren regidurías por repartir siguiendo el orden decreciente de los votos no utilizados para cada uno de los Partidos Políticos en la asignación; y
+II. Se desarrollará, una sola vez, la fórmula de proporcionalidad pura prevista en el artículo 471 de este Código;
 
-V. Agotadas las regidurías se procederá a la asignación de la sindicatura.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. Se determinarán las regidurías y sindicatura que se le asignarán a cada Partido Político o Coalición, conforme al número de veces que contenga su votación el cociente natural;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+IV. Las que se distribuirán por resto mayor si, después de aplicarse el cociente natural, quedaren regidurías y lo sindicaturas por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los Partidos Políticos o Coalición en la asignación; y
+
+V. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005)
 
 ###### Art. 480.
 
@@ -3629,27 +4179,37 @@ En la integración de las Juntas Municipales, la regiduría de representación p
 
 ###### Art. 481.
 
-El Instituto Electoral del Estado conocerá de las infracciones que cometan los ciudadanos a lo previsto en el artículo 14 de este Código. La sanción consistirá en la cancelación inmediata de su acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en, al menos, dos procesos electorales estatales y será aplicada por el Consejo General del Instituto conforme al procedimiento señalado en los artículos 495 a 497 de este Código.
+El Instituto Electoral del Estado de Campeche conocerá de las infracciones que cometan los ciudadanos a lo previsto en el artículo 14 de este Código. La sanción consistirá en la cancelación inmediata de su acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en, al menos, dos procesos electorales estatales y será aplicada por el Consejo General del Instituto conforme al procedimiento señalado en los artículos 495 a 497 de este Código.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 482.
 
-Asimismo, el Instituto, conocerá de las infracciones en que incurran las organizaciones a las que pertenezcan los observadores electorales, según lo previsto en el artículo 20. La sanción consistirá en multa de cincuenta a doscientos días de salario mínimo diario general vigente en el Estado, al momento de la comisión de la infracción, y será aplicada por el Consejo General conforme al procedimiento señalado en este capítulo.
+Asimismo, el Instituto Electoral del Estado de Campeche, conocerá de las infracciones en que incurran las organizaciones a las que pertenezcan los observadores electorales, según lo previsto en el artículo 20. La sanción consistirá en multa de cincuenta a doscientos días de salario mínimo diario general vigente en el Estado, al momento de la comisión de la infracción, y será aplicada por el Consejo General conforme al procedimiento señalado en este capítulo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 483.
 
-El Instituto igualmente conocerá de las infracciones que cometan las autoridades estatales y municipales a que se refiere el artículo 229 de este Código, en los casos en que no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del propio Instituto. Para ello se estará a lo siguiente:
+El Instituto Electoral del Estado de Campeche, igualmente conocerá de las infracciones que cometan las autoridades estatales y municipales a que se refiere el artículo 229 de este Código, en los casos en que no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del propio Instituto. Para ello se estará a lo siguiente:
 
 I. Conocida la infracción, se integrará un expediente que será remitido al superior jerárquico de la autoridad infractora para que éste proceda en los términos de ley; y
 
 II. El superior jerárquico deberá comunicar con toda oportunidad al Instituto las medidas que haya adoptado en el caso.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 484.
 
-El Instituto conocerá de las infracciones y violaciones que a las disposiciones de este Código cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo diario vigente en la Entidad, en los términos que señale el Reglamento Interior.
+El Instituto Electoral del Estado de Campeche, conocerá de las infracciones y violaciones que a las disposiciones de este Código cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo diario vigente en la Entidad, en los términos que señale el Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 485.
 
-Con motivo de las infracciones en que incurran los notarios públicos, por el incumplimiento de las obligaciones que el presente Código les impone, el Consejo General del Instituto integrará un expediente, que remitirá al Ejecutivo del Estado, para que proceda en los términos de la legislación aplicable. El Ejecutivo deberá comunicar, a la brevedad posible, al Consejo las medidas que haya adoptado en el caso.
+Con motivo de las infracciones en que incurran los notarios públicos, por el incumplimiento de las obligaciones que el presente Código les impone, el Consejo General del Instituto Electoral del Estado de Campeche, integrará un expediente, que remitirá al Ejecutivo del Estado, para que proceda en los términos de la legislación aplicable. El Ejecutivo deberá comunicar, a la brevedad posible, al Consejo las medidas que haya adoptado en el caso.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 # Libro Séptimo. De los Órganos Judiciales en Materia Electoral
 
@@ -3659,13 +4219,15 @@ Con motivo de las infracciones en que incurran los notarios públicos, por el in
 
 ###### Art. 486.
 
-El Instituto Electoral del Estado conocerá de las infracciones en que incurran los extranjeros que por cualquiera forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos del Estado y procederá a informar de inmediato a la Secretaría de Gobernación de la Administración Pública Federal para los efectos previstos por la ley. En el caso de que los mismos ya se encuentren fuera del territorio nacional, procederá a informar a la Secretaría de Relaciones Exteriores de la propia Administración, para los efectos a que hubiere lugar.
+El Instituto Electoral del Estado de Campeche conocerá de las infracciones en que incurran los extranjeros que por cualquiera forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos del Estado y procederá a informar de inmediato a la Secretaría de Gobernación de la Administración Pública Federal para los efectos previstos por la ley. En el caso de que los mismos ya se encuentren fuera del territorio nacional, procederá a informar a la Secretaría de Relaciones Exteriores de la propia Administración, para los efectos a que hubiere lugar.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ### Capítulo Primero. De los Criterios de Interpretación
 
 ###### Art. 487.
 
-El Instituto Electoral del Estado informará a la Secretaría de Gobernación de los casos de que tenga conocimiento, en los que ministros de culto, asociaciones, iglesias o agrupaciones de cualquiera religión o secta induzcan al electorado a votar en favor o en contra de un candidato, Partido Político o Coalición, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; o realicen aportaciones económicas a un Partido Político, Coalición, candidato o Agrupación Política.
+El Instituto Electoral del Estado de Campeche informará a la Secretaría de Gobernación de los casos de que tenga conocimiento, en los que ministros de culto, asociaciones, iglesias o agrupaciones de cualquiera religión o secta induzcan al electorado a votar en favor o en contra de un candidato, Partido Político o Coalición, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; o realicen aportaciones económicas a un Partido Político, Coalición, candidato o Agrupación Política.
 
 ###### Art. 488.
 
@@ -3687,15 +4249,21 @@ Las sanciones a que se refiere el artículo anterior podrán ser impuestas cuand
 
 I. Incumplan con las obligaciones señaladas en el artículo 72 y demás disposiciones aplicables de este Código;
 
-II. Incumplan con las resoluciones o acuerdos del Instituto Electoral del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Incumplan con las resoluciones o acuerdos del Instituto Electoral del Estado de Campeche;
 
 III. Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por los artículos 76 y 77 de este Código;
 
 IV. Acepten donativos o aportaciones económicas de las personas o entidades superiores a los límites señalados en las fracciones IV y V del artículo 88 de este Código;
 
-V. No presenten los informes anuales o de campaña en los términos y plazos previstos en los artículos 66, 67 y 91 de este Código;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-VI. Sobrepasen, durante la campaña electoral, los topes a los gastos fijados conforme al artículo 320 de este Código; y
+V. No presenten los informes anuales, de actividades ordinarias, de precampaña o de campaña en los términos y plazos previsto (sic) en el artículos (sic) 91 de este Código y los reglamentos correspondientes;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+VI. Sobrepasen, durante la precampaña y campaña electoral, los topes a los gastos fijados conforme a los artículos 295 y 320 de este Código; y
 
 VII. Incurran en cualquiera otra falta de las previstas en este Código.
 
@@ -3729,15 +4297,19 @@ A los candidatos, según sea la gravedad de la infracción, se les aplicará com
 
 Para los efectos de los artículos anteriores, el Instituto conocerá de las irregularidades en que haya incurrido un Partido Político, una Agrupación Política, una Coalición, sus dirigentes, candidatos, miembros o simpatizantes. Una vez que tenga conocimiento de la irregularidad, el Instituto emplazará al Partido Político, Agrupación Política, Coalición, dirigente, candidato, miembro o simpatizante, para que en el plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes y, en su caso, la pericial contable. Si se considerase necesaria la pericial, ésta será con cargo al Partido Político, Coalición, o a la Agrupación Política. Para la integración del expediente, se podrá solicitar la información y documentación con que cuenten las instancias competentes del propio Instituto.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 496.
 
-Concluido el plazo a que se refiere el artículo anterior, se formulará el dictamen correspondiente, el cual se someterá al Consejo General del Instituto para su determinación. El Consejo, para fijar la sanción correspondiente, tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa. Las resoluciones del Consejo General del Instituto, podrán ser recurridas en apelación ante los Juzgados Electorales.
+Concluido el plazo a que se refiere el artículo anterior, se formulará el dictamen correspondiente, el cual se someterá al Consejo General del Instituto Electoral del Estado de Campeche, para su determinación. El Consejo, para fijar la sanción correspondiente, tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa. Las resoluciones del Consejo General del Instituto Electoral del Estado de Campeche, podrán ser recurridas en apelación ante los Juzgados Electorales.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ### Capítulo Segundo. De los Plazos y de los Términos
 
 ###### Art. 497.
 
-Las multas que fije el Consejo General del Instituto, que no hubiesen sido recurridas, o bien que fuesen confirmadas por la autoridad judicial electoral, deberán ser pagadas en la Secretaría de Finanzas y Administración de la Administración Pública del Estado, en un plazo improrrogable de quince días, contados a partir de la notificación. Tratándose de un Partido, Coalición o Agrupación Política, transcurrido el plazo sin que el pago se hubiese efectuado, el monto de la multa se podrá deducir de la siguiente ministración del financiamiento público que corresponda. Tratándose de dirigentes, miembros, candidatos o simpatizantes el cobro de la multa se hará a través del procedimiento económico coactivo.
+Las multas que fije el Consejo General del Instituto Electoral del Estado de Campeche, que no hubiesen sido recurridas, o bien que fuesen confirmadas por la autoridad judicial electoral, deberán ser pagadas en la Secretaría de Finanzas y Administración de la Administración Pública del Estado, en un plazo improrrogable de quince días, contados a partir de la notificación. Tratándose de un Partido, Coalición o Agrupación Política, transcurrido el plazo sin que el pago se hubiese efectuado, el monto de la multa se podrá deducir de la siguiente ministración del financiamiento público que corresponda. Tratándose de dirigentes, miembros, candidatos o simpatizantes el cobro de la multa se hará a través del procedimiento económico coactivo.
 
 ###### Art. 498.
 
@@ -3837,11 +4409,15 @@ I. El Recurso de Revisión, para garantizar la legalidad de actos y resoluciones
 
 II. El Recurso de Apelación, el Juicio de Inconformidad y el Recurso de Reconsideración, para garantizar la constitucionalidad y legalidad de los actos y resoluciones de la autoridad electoral; y
 
-III. El Juicio para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral del Estado y sus Servidores.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. El Juicio para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral del Estado de Campeche y sus Servidores.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 514.
 
-Corresponde al Consejo General del Instituto Electoral del Estado conocer y resolver el Recurso de Revisión y a los órganos judiciales electorales los demás medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por este Código.
+Corresponde al Consejo General del Instituto Electoral del Estado de Campeche conocer y resolver el Recurso de Revisión y a los órganos judiciales electorales los demás medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por este Código.
 
 ###### Art. 515.
 
@@ -4077,7 +4653,9 @@ b) Acto o resolución impugnado; y
 
 c) Fecha y hora exactas de su recepción; y
 
-II. Hacerlo del conocimiento público mediante cédula que, durante un plazo de veinticuatro horas, se fije en los estrados respectivos o por cualquier otro procedimiento que garantice fehacientemente la publicidad del escrito.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Hacerlo del conocimiento público mediante cédula que, durante un plazo de cuarenta y ocho horas, se fije en los estrados respectivos o por cualquier otro procedimiento que garantice fehacientemente la publicidad del escrito.
 
 ###### Art. 547.
 
@@ -4213,25 +4791,45 @@ El presidente del órgano resolutor ordenará que se publique en los estrados re
 
 Los órganos judiciales electorales dictarán sus sentencias en sesión pública, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial del Estado así como con las reglas y el procedimiento siguientes:
 
-I. Abierta la sesión pública por su presidente, y verificado el quórum legal, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+I. Abierta la sesión pública por su presidente, y verificado el quórum legal, se procederá ha exponer cada uno de los asuntos listados con las consideraciones y precepto jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen, y podrán desahogar en el orden que considere el presidente;
 
 II. Se procederá a discutir los asuntos y cuando el presidente los considere suficientemente discutidos, los someterá a votación. Las sentencias se aprobarán por unanimidad o por mayoría de votos;
 
-III. Si el proyecto que se presenta es votado en contra por la mayoría de la Sala o Juzgado, el presidente designará a otro magistrado o juez electoral para que, dentro de un plazo de veinticuatro horas, contadas a partir de que concluya la sesión respectiva, emita nuevo proyecto de fallo con las consideraciones y razonamientos jurídicos correspondientes y lo someta a consideración del Pleno; y
+III. Si el proyecto que se presenta es votado en contra por la mayoría de la Sala o Juzgado, el presidente designará a otro magistrado o juez electoral para que, dentro de un plazo de veinticuatro horas, contadas a partir de que concluya la sesión respectiva, emita nuevo proyecto de fallo con las consideraciones y razonamientos jurídicos correspondientes y lo someta a consideración del Pleno; y (sic)
 
-IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los magistrados y jueces electorales y el secretario de la Sala o Juzgado, quien levantará el acta circunstanciada correspondiente.
+IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los magistrados y jueces electorales y el secretario de la Sala o Juzgado, quien levantará el acta circunstanciada correspondiente;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+V. Cuando los asistentes no guarden la compostura debida y las circunstancias lo ameriten, a propuesta del presidente y con acuerdo de los integrantes del pleno, se decretará la suspensión de la sesión pública y se continuará en sesión privada para la resolución de los asuntos listados, la que podrá desahogarse en sede alterna.
 
 ###### Art. 563.
 
 En casos extraordinarios el presidente de la Sala o Juzgado competente podrá diferir la resolución de un asunto listado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 564.
 
-Las sentencias que dicte la Sala serán definitivas y firmes; también lo serán las de los Juzgados Electorales, salvo cuando expresamente este Código disponga lo contrario.
+Las resoluciones que emita el Consejo General del Instituto, en los recursos de revisión, serán susceptibles de impugnarse a través del Recurso de Apelación, de conformidad con lo dispuesto en este ordenamiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 565.
 
-Las sentencias que emita el Consejo General del Instituto, en los Recursos de Revisión, serán susceptibles de impugnarse a través del Recurso de Apelación, de conformidad con lo dispuesto en este ordenamiento.
+Las sentencias que dicte la sala serán definitivas y firmes; también lo serán las de los juzgados electorales, salvo cuando expresamente este Código disponga lo contrario.
+
+Una vez notificada la sentencia, las partes o el órgano resolutor dentro del término de tres días podrá solicitar por escrito a la sala o juzgado electoral que hubiera dictado la sentencia, la aclaración de la misma, para precisar o corregir algún punto
+
+Al solicitar la aclaración se expresará claramente la contradicción, ambigüedad u oscuridad de las palabras cuya aclaración se solicitan o el punto que se haya omitido y cuya falta se reclame.
+
+El magistrado o el juez correspondiente, en vista de lo expuesto por el solicitante, y sin otro trámite, dentro del término de tres días, aclarará la sentencia, decidirá no haber lugar a la aclaración solicitada o resolverá lo que proceda en derecho acerca del punto omitido, según corresponda, pero por ningún motivo podrá modificar el sentido de la misma.
+
+La resolución que recaiga, se notificará a las partes; y de ella no se admitirá recurso, no se podrá pedir nueva aclaración.
+
+La resolución que aclare la sentencia, se reputará parte integrante de ésta.
 
 ###### Art. 566.
 
@@ -4291,9 +4889,11 @@ Para evitar el pronunciamiento de fallos contradictorios, en los medios de impug
 
 Para los efectos del artículo anterior, los presidentes de los órganos resolutores, al turnar los medios de impugnación que se reciban, tendrá la precaución de remitir el nuevo asunto al magistrado o juez instructor a cuyo cargo esté ya el trámite de otro con el que se surta la indicada conexidad.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 578.
 
-Cuando la conexidad se surta en relación con asuntos cuyo trámite se encuentre a cargo de Juzgados diversos, la presidencia de aquél en que obre el asunto más antiguo requerirá, al del otro u otros, le remita los correspondientes expedientes para su acumulación. Las presidencias de los Juzgados Electorales mantendrán un permanente intercambio de información, sobre los asuntos de que conozcan, a efecto de hacer factible lo dispuesto en este capítulo.
+Cuando la conexidad se surta en relación con asuntos cuyo trámite se encuentre a cargo de Juzgados diversos, la presidencia de aquél en que obre el asunto más antiguo requerirá al del otro u otros, le remita los correspondientes expedientes para su acumulación. Las presidencias de los juzgados electorales enviaran una copia certificada del acuerdo de turno a sus similares y mantendrán un permanente intercambio de información, cobre (sic) los asuntos de que conozcan, a efecto de hacer factible lo dispuesto en este capítulo.
 
 Capítulo Decimotercero
 
@@ -4331,9 +4931,11 @@ Durante el proceso electoral, para garantizar la constitucionalidad y legalidad 
 
 Durante los procesos electorales extraordinarios, serán procedentes los medios de impugnación a que se refiere el artículo anterior, debiéndose aplicar, en lo conducente, las reglas señaladas en el presente ordenamiento y en la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 584.
 
-Para dirimir los conflictos o diferencias laborales que surjan entre el Instituto Electoral del Estado y sus servidores se establece, como medio de impugnación, el juicio que se regula en el Título Quinto de este Libro.
+Para dirimir los conflictos o diferencias laborales que surjan entre el Instituto Electoral del Estado de Campeche y sus servidores se establece, como medio de impugnación, el juicio que se regula en el Título Quinto de este Libro.
 
 ###### Art. 585.
 
@@ -4395,7 +4997,9 @@ I. A los Partidos Políticos o Coaliciones que no tengan representantes acredita
 
 II. Al órgano del Instituto cuyo acto o resolución fue impugnado, se le hará por oficio al cual se le anexará copia de la resolución; y
 
-III. A los terceros interesados, por correo registrado.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. A los terceros interesados, y coadyuvantes en su caso, por correo registrado o personalmente.
 
 ###### Art. 593.
 
@@ -4455,7 +5059,9 @@ I. Al actor, por correo certificado, por telegrama o personalmente;
 
 II. Al órgano del Instituto que hubiere realizado el acto o dictado la resolución impugnada, por correo registrado, por telegrama, personalmente o por oficio acompañado de copia de la resolución; y
 
-III. A los terceros interesados, por correo certificado, por telegrama o personalmente.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+III. A los terceros interesados, y coadyuvantes en su caso, por correo certificado o personalmente.
 
 ###### Art. 602.
 
@@ -4637,9 +5243,11 @@ d) Corregir la asignación de diputados o regidores y síndicos de Ayuntamientos
 
 ### Capítulo Primero. De las Reglas Especiales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 641.
 
-Las diferencias o conflictos que surjan entre el Instituto Electoral del Estado y sus servidores serán resueltas por la Sala Electoral exclusivamente conforme a lo dispuesto en el presente Título.
+Las diferencias o conflictos que surjan entre el Instituto Electoral del Estado de Campeche y sus servidores serán resueltas por la Sala Electoral exclusivamente conforme a lo dispuesto en el presente Título.
 
 ###### Art. 642.
 
@@ -4683,13 +5291,17 @@ IV. Sus representantes ante el Consejo General del Instituto para impugnar la as
 
 ### Capítulo Segundo. De la Sustanciación y de la Resolución
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Art. 644.
 
-El servidor del Instituto Electoral del Estado que hubiese sido sancionado, o destituido de su cargo, o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante la Sala Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto.
+El servidor del Instituto Electoral del Estado de Campeche que hubiese sido sancionado, o destituido de su cargo, o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante la Sala Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 645.
 
-Es requisito de procedibilidad del juicio que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezcan este Código y el Reglamento Interior del Instituto, instrumentos que, de conformidad con la fracción III del artículo 24 de la Constitución Política del Estado, norman las relaciones laborales del Instituto Electoral del Estado con sus servidores.
+Es requisito de procedibilidad del juicio que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezcan este Código y el Reglamento Interior del Instituto, instrumentos que, de conformidad con la fracción III del artículo 24 de la Constitución Política del Estado, norman las relaciones laborales del Instituto Electoral del Estado de Campeche con sus servidores.
 
 ###### Art. 646.
 
@@ -4713,7 +5325,9 @@ Son partes en el procedimiento:
 
 I. El actor, que lo será el servidor afectado por el acto o resolución impugnado, quien deberá actuar personalmente o por conducto de apoderado; y
 
-II. El demandado, que lo será el Instituto Electoral del Estado, quien actuará por conducto de sus representantes legales.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. El demandado, que lo será el Instituto Electoral del Estado de Campeche, quien actuará por conducto de sus representantes legales.
 
 ###### Art. 648.
 
@@ -4759,7 +5373,9 @@ Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2003, prev
 
 Segundo.- Se abrogan el Código Electoral del Estado expedido, bajo Decreto número 215, por la LIV Legislatura del Estado, publicado en el Periódico Oficial del Estado el 31 de diciembre de 1993; y sus modificaciones hechas por Decreto número 247, expedido por la LV Legislatura del Estado el 3 de enero de 1997, publicado en el Periódico Oficial del Estado el día 4 de ese mismo mes y año; Decreto número 212, expedido por la LVI Legislatura del Estado el 28 de septiembre de 1999, publicado en el Periódico Oficial del Estado el 29 de ese mismo mes y año; y Decretos números 39 y 165, expedidos pro la LVII Legislatura del Estado, el 20 de diciembre de 2000 y el 28 de junio de 2002, respectivamente, publicados en el Periódico Oficial del Estado los días 21 de diciembre de 2000 y 3 de julio de 2002, también respectivamente, y se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
 
-Tercero.- Las funciones que competen a la Dirección Ejecutiva del Registro Estatal de Electores del Instituto Electoral del Estado quedan en suspenso, mientras se encuentre vigente el convenio celebrado por el Gobierno del Estado con el Instituto Federal Electoral para utilizar localmente el sistema y credencialización del Registro Federal de Electores.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+Tercero.- Para efecto del incremento de las obligaciones presupuestales que se deriven del presente decreto, el Consejo General del Instituto Electoral del Estado de Campeche tomarán las previsiones necesarias para incluirlas en su presupuesto a partir del ejercicio fiscal del año dos mil seis.
 
 Cuarto.- Los actuales Consejeros Electorales del Consejo General del Instituto Electoral del Estado continuarán en el desempeño de sus cargos hasta la fecha de conclusión del período para el que resultaron electos.
 
@@ -4768,6 +5384,18 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche,
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta días del mes de septiembre del año dos mil dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+P.O. 30 DE SEPTIEMBRE DE 2005.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+TERCERO: Para efecto del incremento de las obligaciones presupuestales que se deriven del presente decreto, el Consejo General del Instituto Electoral del Estado de Campeche tomarán las previsiones necesarias para incluirlas en su presupuesto a partir del ejercicio fiscal del año dos mil seis.
+
+CUARTO: La reforma del artículo 85, así como todas aquellas modificaciones al Código de Instituciones y Procedimientos Electorales para el Estado de Campeche contenidas en el presente decreto, que impliquen el incremento de las obligaciones financieras del Instituto Electoral del Estado de Campeche, entrarán en vigor a partir del día uno de enero del año dos mil seis.
+
+QUINTO: Por esta única vez los topes de gastos de precampaña de cada elección a que se refiere el artículo 295 del Código de Instituciones y Procedimientos Electorales para el Estado de Campeche, serán determinados por el Consejo General del Instituto Electoral del Estado de Campeche en el mes de octubre, iniciada la vigencia de este decreto.
 
 ###### Art. 625.
 
@@ -4861,9 +5489,13 @@ III. Cuando los dos integrantes de la fórmula de candidatos, que hubieren obten
 
 Son causales de nulidad de una elección de presidente, regidores y síndicos de Ayuntamiento y Junta Municipal, de mayoría relativa, en un Municipio o Sección Municipal, cualesquiera de las siguientes:
 
-I. Cuando alguna o algunas de las causales de nulidad previstas en el artículo 637 se acrediten en por lo menos el veinte por ciento de las Secciones Electorales en el Municipio o en la Sección Municipal de que se trate; o
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-II. Cuando no se instalen las casillas en el veinte por ciento de las Secciones Electorales en el Municipio o en la Sección Municipal de que se trate y consecuentemente la votación no hubiere sido recibida; o
+I. Cuando alguna o algunas de las causales de nulidad previstas en el artículo 637 se acrediten en por lo menos el veinte por ciento del total de las casillas del municipio o de la sección municipal de que se trate; o
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+II. Cuando no se instale el veinte por ciento del total de las casillas del municipio o de la sección municipal de que se trate y consecuentemente la votación no hubiera sido recibida; o
 
 III. Cuando todos los integrantes de la planilla de candidatos que hubieren obtenido constancia de mayoría fueren inelegibles. En este caso la nulidad afectará a la elección únicamente por lo que hace a la planilla de candidatos que resultaren inelegibles.
 
@@ -4871,4 +5503,6 @@ III. Cuando todos los integrantes de la planilla de candidatos que hubieren obte
 
 Los órganos judiciales electorales podrán declarar la nulidad de una elección de diputados o de presidente, regidores y síndicos de Ayuntamientos y Juntas Municipales cuando se hayan cometido, en forma generalizada, violaciones sustanciales en la jornada electoral en el Distrito, Municipio o Sección Municipal de que se trate, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los Partidos o Coaliciones promoventes o a sus candidatos.
 
-## Título Quinto. Del Juicio para Dirimir los Conflictos o Diferencias Laborales Entre el Instituto Electoral del Estado y sus Servidores
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+## Título Quinto. Del Juicio para Dirimir los Conflictos o Diferencias Laborales Entre el Instituto Electoral del Estado de Campeche y sus Servidores
