@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-que-deberan-observar-las-dependencias-y-45164"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2003-08-20"
-last_updated: "2003-08-20"
+last_updated: "2005-09-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45164&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-08-12"
 ---
 # LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL PARA NOTIFICAR AL INSTITUTO EL LISTADO DE SUS SISTEMAS DE DATOS PERSONALES
 
-LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PUBLICA FEDERAL PARA NOTIFICAR AL INSTITUTO EL LISTADO DE SUS SISTEMAS DE DATOS PERSONALES
+LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL PARA NOTIFICAR AL INSTITUTO EL LISTADO DE SUS SISTEMAS DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LOS LINEAMIENTOS DE PROTECCION DE DATOS PERSONALES, PUBLICADOS EN EL D.O.F. EL 30 DE SEPTIEMBRE DE 2005, LOS PRESENTES LINEAMIENTOS QUEDAN SIN EFECTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Lineamientos publicados en el Diario Oficial de la Federación, el miércoles 20 de agosto de 2003.
 
@@ -66,3 +68,21 @@ Una vez que el titular de la Unidad de Enlace registre o actualice el listado en
 UNICO.- Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información Pública, por unanimidad en sesión celebrada el día doce de agosto de dos mil tres, ante el Secretario de Acuerdos.- La Comisionada Presidenta, María Marván Laborde.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, Juan Pablo Guerrero Amparán, José Octavio López Presa.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 2005.
+
+Primero. Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los formatos y mecanismos mediante los cuales se recaben datos personales y se informe a los Titulares de los mismos sobre la finalidad del Sistema de datos personales, deberán ser elaborados o modificados en términos del Lineamiento Décimo Séptimo y deberán comenzar a utilizarse, a más tardar el día 31 de marzo de 2006.
+
+En tanto, y a más tardar dentro de los 20 días hábiles siguientes a la entrada en vigor de los presentes Lineamientos las dependencias y entidades que recaben datos personales deberán entregar a los Titulares de los mismos un documento por separado en el que se informen los propósitos para los cuales éstos se recaban.
+
+Tercero. El cumplimiento de las disposiciones contenidas en el capítulo V de los presentes Lineamientos deberá efectuarse a más tardar en diciembre de 2006, incluido el documento de seguridad a que se refiere el Lineamiento Trigésimo tercero.
+
+Cuarto. La primera actualización del Sistema "Persona" por parte de las dependencias y entidades a que se refiere el Lineamiento Cuadragésimo, deberá llevarse a cabo dentro de los primeros diez días hábiles de marzo de 2006.
+
+Quinto. Las primeras recomendaciones sobre las medidas de seguridad que se mencionan en el Lineamiento Trigésimo octavo, serán emitidas por el Instituto a más tardar en el mes de mayo de 2006.
+
+Sexto. Se dejan sin efecto las disposiciones contenidas en los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal para notificar al Instituto el listado de sus sistemas de datos personales, publicados el 20 de agosto de 2003 en el Diario Oficial de la Federación.
