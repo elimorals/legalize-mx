@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-38767
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2004-11-24"
+last_updated: "2005-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de marzo de 2004.
 
@@ -1595,11 +1595,11 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 
 Este Reglamento abroga el Reglamento que Regula el Expendio, Venta y/o Consumo de Bebidas Alcohólicas, en el Municipio de San Nicolás de los Garza, Nuevo León, publicado en el Periódico Oficial del Estado, el día 23 de octubre de 2002 y cualquier disposición reglamentaria que se oponga al mismo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 3.
 
-Quienes exploten establecimientos dedicados al expendio, venta y/o consumo de bebidas alcohólicas, vinos de mesa, licores y/o cerveza, cuya Licencia no este a nombre del propietario del establecimiento, se encuentra localizado en un domicilio distinto al autorizado u opere con giro distinto al autorizado, se les concede un plazo de 45-cuarenta y cinco días hábiles a partir de la publicación del presente Reglamento en el Periódico Oficial del Estado, para que presenten la solicitud correspondiente y se inicie su regularización si procediere ante el C. Secretario del Ayuntamiento, a través de la Dirección de Comercio y Espectáculo. El solicitante deberá cumplir con el requisito establecido en la fracción VII del artículo 22 de este Reglamento. En el mismo acuerdo del R. Ayuntamiento que otorgue la nueva licencia se declarará cancelada la anterior y se procederá a su destrucción por el Secretario del Ayuntamiento. En caso de que no procediere la regularización se acordará por el R. Ayuntamiento la revocación de la Licencia y la clausura definitiva del Establecimiento.
-
-Publíquese un aviso de la disposición de este artículo, en un periódico de mayor circulación, dentro de los 5-cinco días hábiles de la publicación el presente Reglamento en el Periódico Oficial del Estado.
+Quienes exploten establecimientos dedicados al expendio, venta y/o consumo de bebidas alcohólicas, vinos de mesa, licores y/o cerveza, cuya Licencia no éste a nombre del propietario del establecimiento, se encuentre localizado en un domicilio distinto al autorizado u opere con giro distinto al autorizado; se les concede un plazo hasta el día 30 de diciembre de 2005 para que presenten la solicitud correspondiente y se inicie su regularización. Dicho trámite deberá realizarse en días y horas hábiles, en las oficinas de la Dirección de Comercio y Espectáculos. En el mismo acuerdo del R. Ayuntamiento que otorgue la nueva Licencia se declarará cancelada la anterior y se procederá a su destrucción por la autoridad municipal.
 
 ###### ARTÍCULO 4.
 
@@ -1636,3 +1636,7 @@ P.O. 24 DE NOVIEMBRE DE 2004.
 PRIMERO: La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Publíquese el presente acuerdo en la Gaceta Municipal.
+
+P.O. 30 DE SEPTIEMBRE DE 2005.
+
+ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
