@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2005-09-30"
+last_updated: "2005-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 5 de diciembre de 1996.
 
@@ -83,15 +83,15 @@ I. Ser inscrito en el padrón electoral y recibir oportunamente su credencial pa
 
 II. Votar y ser votado para todos los cargos de elección popular en el Estado, en los términos que establece la Constitución Política del Estado y esta Ley reglamentaria;
 
-III. Participar en las funciones electorales; y (sic)
+III. Participar en las funciones electorales; y
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-IV. Adherirse en forma individual y voluntaria a los partidos políticos y asociaciones políticas y pertenecer a ellos libremente, en los términos que marca la Ley;
+IV. Adherirse en forma individual y voluntaria a los partidos políticos y asociaciones políticas y pertenecer a ellos libremente, en los términos que marca la Ley.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-V. Participar como observadores electorales de los actos de preparación y desarrollo de los procesos electorales locales; y (sic)
+V. Participar como observadores electorales de los actos de preparación y desarrollo de los procesos electorales locales; y
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -217,17 +217,21 @@ Primer Distrito formado por las secciones: 333, 338, 347, 348, 349, 350, 351, 35
 
 Segundo Distrito formado por las secciones: 293, 315, 316, 317, 321, 322, 323, 329, 330, 331, 340, 341, 342, 343, 344, 345, 346, 355, 356, 357, 358, 359, 360, 381, 395, 396, 397, 416, 427, 517, 520, 521, 522, 527, 530, 540, 543, 544, 545, 546, 547, 548, 551, 552 y 553, del Municipio de Querétaro, con un total de 45 secciones.
 
-Tercer Distrito formado por las secciones: 266, 267, 268, 269, 270, 272, 273, 274, 279, 280, 281, 282, 283, 284, 289, 290, 291, 292, 294, 297, 298, 299, 300, 301, 302, 307, 308, 309, 310, 311, 312, 314, 516, 518, 519, 523, 524, 525, 526, 528, 529, 531, 532, 533, 534, 535, 536, 537, 538, 539, 541, 542 y 549, del Municipio de Querétaro, con un total de 53 secciones.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+Tercer Distrito formado por las secciones: 266, 267, 268, 269, 270, 272, 273, 274, 279, 280, 281, 282, 283, 284, 289, 290, 291, 292, 294, 297, 298, 299, 300, 301, 302, 307, 308, 309, 310, 311, 312, 314, 516, 518, 519, 523, 524, 525, 526, 528, 529, 531, 532, 533, 534, 535, 536, 537, 538, 539, 541, 542, 549 y 696, del Municipio de Querétaro, con un total de 54 secciones.
 
 Cuarto Distrito formado por las secciones: 271, 275, 276, 277, 278, 285, 286, 287, 288, 295, 296, 303, 304, 305, 306, 313, 318, 319, 320, 324, 325, 326, 327, 328, 332, 334, 335, 336, 337, 339, 352, 353 y 550, del Municipio de Querétaro, con un total de 33 secciones.
 
 Quinto Distrito formado por las secciones: 372, 373, 374, 386, 387, 388, 389, 403, 404, 405, 406, 407, 408, 409, 420, 421, 422, 423, 424, 425, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 468, 469, 481, 482, 483 y 484, del Municipio de Querétaro, con un total de 62 secciones.
 
-> <small>(F. DE E., P.O. 13 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
 
-Sexto Distrito formado por las secciones: 441, 466, 467, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 554 y 555, del Municipio de Querétaro, con un total de 47 secciones.
+Sexto Distrito formado por las secciones: 441, 466, 467, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 554, 555, 691, 962 y 693, del Municipio de Querétaro, con un total de 50 secciones.
 
-Séptimo Distrito que comprende únicamente el Municipio de Corregidora, con un total de 25 secciones.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+Séptimo Distrito que comprende únicamente el Municipio de Corregidora, con un total de 30 secciones.
 
 Octavo Distrito que comprende los municipios de Amealco de Bonfil y Huimilpan con cabecera en el municipio de Amealco de Bonfil, con un total de 48 secciones.
 
@@ -251,7 +255,7 @@ Cuando se requiera modificar la estructura territorial de los distritos uninomin
 
 ## TITULO SEGUNDO
 
-> <small>(F. DE E. P.O. 6 DE MARZO DE 1997)</small>
+> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
 
 De la elección de los Poderes Legislativo, y Ejecutivo y de los Ayuntamientos
 
@@ -499,49 +503,85 @@ III. Ostentarse con su propia denominación y difundir su ideología; y
 
 IV.- Financiar sus actividades a través de financiamiento privado y autofinanciamiento, el cual no podrá exceder de la parte igualitaria de financiamiento público que corresponde a cada partido, de conformidad con lo previsto en la fracción I del artículo 40 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
 ###### ARTICULO 35.
 
 Los partidos políticos están obligados a:
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 I. Conducir sus actividades dentro de los cauces legales con apego a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y esta Ley, respetando los derechos de sus afiliados, de los ciudadanos y la libre participación política de los demás partidos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 II. Encauzar sus actividades por medios pacíficos y vía democrática, evitando cualquier acto que tenga por objeto o resultado impedir el goce de las garantías individuales o el funcionamiento de las instancias de gobierno u órganos electorales;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 III. Abstenerse de cualquier expresión que implique diatriba, infamia, injuria o que denigre a los ciudadanos, a las instituciones públicas o a otros partidos y sus candidatos, particularmente durante las campañas electorales en la propaganda política que se utilice durante las mismas;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 IV. Mantener el mínimo de afiliados en el Estado y Municipios, requerido para su constitución y registro;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 V. Ostentarse con la denominación, emblema, color o colores que tengan registrados;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 VI.- Observar los procedimientos que señalen sus estatutos para la postulación de sus candidatos. En todo caso, las candidaturas para Diputados e integrantes de
 
 Ayuntamientos no podrán recaer más del 70 % en personas de un mismo género, excepto tratándose de candidaturas derivadas de votación directa, de resolución recaída a los medios de impugnación o de sustituciones en los términos previstos en esta ley.
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 VII. Cumplir sus normas de afiliación, los sistemas de elección interna de sus cuadros dirigentes y mantener en funcionamiento efectivo a sus órganos de dirección;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 VIII. Contar con domicilio social para sus órganos directivos y, en su caso, comunicar oportunamente al Instituto Electoral de Querétaro el cambio del mismo, en un plazo no mayor a treinta días naturales, contados a partir del cambio de domicilio;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 IX. Publicar y difundir en las demarcaciones electorales en que participen, la plataforma electoral mínima que el partido y sus candidatos sostendrán en la elección correspondiente, misma que deberá presentarse para su registro ante el Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 X. Difundir en forma permanente, a la ciudadanía, la ideología que ostenten;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 XI. Registrar, en su caso, listas completas de candidatos a diputados y regidores según el principio de representación proporcional;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 XII. Registrar a sus candidatos ante los órganos electorales que proceda, conforme a estas disposiciones;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 XIII. Cumplir los acuerdos que tomen los órganos electorales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 XIV. Comunicar al Instituto Electoral de Querétaro cualquier modificación a la declaración de principios, programa de acción y estatutos, así como los cambios y renovaciones de los integrantes de sus órganos internos en el Estado, dentro de los treinta días siguientes a la fecha en que se realicen;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 XV. Actuar y conducirse sin vínculos de injerencia política o económica con partidos políticos, organismos o entidades extranjeras, religiosas y de ministros de culto;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 XVI. Presentar al Instituto Electoral de Querétaro la documentación contable a que se refieren los artículos 48, y 49 de esta Ley, en las fechas y términos que dichos dispositivos establecen;
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 XVII. Entregar al Instituto Electoral de Querétaro los bienes adquiridos con fondos provenientes del financiamiento público en caso de la pérdida de su registro o el de su inscripción, en los términos que disponga esta Ley;
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
 XVIII. Presentar ante el Consejo General dentro del primer trimestre de cada año, un informe general de las actividades realizadas durante el año anterior; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 XIX. Las demás que establezca esta ley.
 
@@ -569,7 +609,7 @@ Son prerrogativas de los partidos políticos estatales que participen en la elec
 
 I. Recibir el financiamiento público en los términos de esta Ley;
 
-II. Tener acceso a los medios masivos de comunicación en los términos y condiciones establecidos por esta Ley, y (sic)
+II. Tener acceso a los medios masivos de comunicación en los términos y condiciones establecidos por esta Ley, y
 
 III. Las demás que les confieran esta Ley y otros ordenamientos legales;
 
@@ -1107,7 +1147,7 @@ XXXIV.- Intervenir en la organización del referéndum, o cualquier figura de pa
 
 (REFORMADA, P.O. 10 DE DICIEMBRE DE 1999
 
-XXXV.- Remover al Director General por violaciones a la Ley Electoral o por incumplimiento de los acuerdos del Consejo General, por el voto mayoritario de sus miembros; y (sic)
+XXXV.- Remover al Director General por violaciones a la Ley Electoral o por incumplimiento de los acuerdos del Consejo General, por el voto mayoritario de sus miembros; y
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1171,7 +1211,7 @@ IX. Expedir los documentos que acrediten la personalidad de los consejeros y de 
 
 X. Firmar junto con el presidente del consejo, todos los acuerdos y resoluciones que emita;
 
-XI. Dar fe de los actos del Consejo y expedir las certificaciones necesarias en ejercicio de sus funciones, y (sic)
+XI. Dar fe de los actos del Consejo y expedir las certificaciones necesarias en ejercicio de sus funciones, y
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1357,11 +1397,11 @@ V. Recabar la documentación necesaria que le permita al Consejo General realiza
 
 VI. Llevar el registro de candidatos a puestos de elección popular;
 
-VII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005)
+VII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005);
 
-VIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2002)
+VIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2002);
 
-IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005)
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2005);
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1631,9 +1671,7 @@ Toda resolución se tomará por mayoría de votos, teniendo el Presidente voto d
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
-###### ARTICULO 92
-
-BIS. Los capacitadores-asistentes electorales son auxiliares de los Consejos Distritales y Municipales, así como de las mesas directivas de casilla, en las etapas del proceso electoral señaladas en el artículo 100 de esta Ley, de conformidad a los reglamentos que al efecto se expidan.
+ARTICULO 92 BIS. Los capacitadores-asistentes electorales son auxiliares de los Consejos Distritales y Municipales, así como de las mesas directivas de casilla, en las etapas del proceso electoral señaladas en el artículo 100 de esta Ley, de conformidad a los reglamentos que al efecto se expidan.
 
 I. Para ser capacitador-asistente electoral se deberán reunir los siguientes requisitos:
 
@@ -1725,9 +1763,9 @@ VI.- No ocupar cargos de elección popular, ni ser candidatos a los mismos;
 
 VII. No ser servidor público de confianza titular de las Dependencias, Subsecretario, Procurador de Justicia, Sub-procurador, Magistrado de la Junta Local de Conciliación y Arbitraje, Procurador de la Defensa del Trabajo y Procurador de la Defensa del Menor en la estructura de la Administración Pública Centralizada; Director y Subdirector de los organismos y empresas de la Administración Pública Descentralizada; Director, Oficial Mayor y Contador Mayor de Hacienda en la estructura del Poder Legislativo; Magistrado del Tribunal Superior de Justicia, Oficial Mayor y Juez en la estructura del Poder Judicial; Secretario, Oficial Mayor y Juez Municipal en la estructura de los Municipios; Consejero Electoral, Director General ni cualquier otro cargo, empleo o comisión en el Instituto Electoral de Querétaro; Comisionado Estatal de los Derechos Humanos o de Información Gubernamental; Magistrado del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje, ambos del Estado. Los servidores públicos que desempeñen cargos homólogos en la Federación, así como sus Delegados, Administradores y Directores en la Entidad, quedan comprendidos en la presente fracción; así como cualquier otro que tenga mando en las fuerzas armadas o de seguridad pública de la Federación, Estado o Municipios;
 
-VIII.- No ser Notario Público o Corredor Público, y (sic)
+VIII.- No ser Notario Público o Corredor Público, y
 
-IX.- Haber recibido los cursos de capacitación para el desempeño de sus funciones, con las excepciones que señala la Ley;
+IX.- Haber recibido los cursos de capacitación para el desempeño de sus funciones, con las excepciones que señala la Ley.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1769,7 +1807,7 @@ f) De acuerdo al resultado obtenido en el sorteo referido en el inciso anterior,
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-g) A más tardar el 6 de mayo, los Consejos Distritales y Municipales, en el ámbito de su competencia, y con el apoyo de la Dirección Ejecutiva de Educación Cívica y Capacitación Electoral, integrarán las Mesas Directivas de Casilla con los ciudadanos seleccionados, cuidando de atender, para la designación de la función a desempeñar, el nivel de escolaridad y su idoneidad;
+g) A más tardar el 6 de mayo, los Consejos Distritales y Municipales, en el ámbito de su competencia, y con el apoyo de la Dirección Ejecutiva de Educación Cívica y Capacitación Electoral, integrarán las Mesas Directivas de Casilla con los ciudadanos seleccionados, cuidando de atender, para la designación de la función a desempeñar, el nivel de escolaridad y su idoneidad.
 
 h) Los Consejos Distritales y Municipales notificarán personalmente a los integrantes de las Mesas Directivas de casilla su respectivo nombramiento y la obligación de presentarse en el lugar y hora que se requiera para el cumplimiento de sus funciones. En el caso de empleados, jornaleros y obreros, se incluirá en la notificación la obligación del patrón de permitir el cumplimiento de la función electoral, en los términos que señala el artículo 132, fracción IX, de la Ley Federal del Trabajo; y
 
@@ -1807,7 +1845,9 @@ I. Del Presidente:
 
 a) Vigilar el cumplimiento de esta ley sobre los aspectos relativos al funcionamiento de las casillas;
 
-b) Recibir de los consejos distritales y municipales electorales, según la elección de que se trate, la documentación, formas aprobadas, útiles y elementos necesarios para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+
+b) Tomar nota de los incidentes ocurridos durante la votación, asentándolos en la hoja correspondiente;
 
 c) Identificar a los electores que se presenten a votar por medio de la credencial de elector;
 
@@ -1833,9 +1873,7 @@ II. Del secretario:
 
 a) Levantar el acta de la jornada electoral que ordena esta Ley así como distribuirla en los términos de la misma;
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
-
-b) Tomar nota de los incidentes ocurridos durante la votación, asentándolos en la hoja correspondiente;
+b) Tomar nota de los incidentes ocurridos durante la votación;
 
 c) Cotejar los folios y contar el número de boletas electorales recibidas antes de iniciar la votación;
 
@@ -1849,9 +1887,11 @@ a) Comprobar si la cantidad de boletas depositadas en la urna única corresponde
 
 b) Verificar el número de votos emitidos en favor de cada candidato y fórmulas;
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 c) Auxiliar al resto de los integrantes de la mesa directiva de casilla para el mejor desarrollo de la votación; y
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 d) Las demás que le confieran esta Ley y disposiciones relativas.
 
@@ -1935,7 +1975,7 @@ En la sesión a que se refiere el artículo anterior, el Consejo General del Ins
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-I.- Aprobar la integración de los órganos electorales de conformidad con lo dispuesto en el artículo 85 de esta Ley; y
+I. Aprobar la integración de los órganos electorales de conformidad con lo dispuesto en el artículo 85 de esta Ley; y
 
 II.- Informar a la ciudadanía y a los partidos políticos la demarcación territorial de los distritos uninominales y circunscripciones plurinominales, así como el número de regidores tanto de mayoría relativa como de representación proporcional que haya decretado la Legislatura.
 
@@ -2319,7 +2359,7 @@ II. Si no está integrada la mesa directiva de casilla conforme a la fracción a
 
 III. En ausencia del presidente y de su suplente, la casilla deberá instalarse por un funcionario o capacitador-asistente electoral del Consejo distrital o municipal que corresponda, quien designará de entre los electores presentes a los funcionarios correspondientes, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 IV. En ausencia del funcionario o capacitador-asistente electoral, los representantes de los partidos políticos o coaliciones designarán de común acuerdo a los funcionarios necesarios para integrar la mesa directiva e instalarán la casilla, en cuyo caso se requerirá:
 
@@ -2409,7 +2449,7 @@ a) A quienes se presenten armados;
 
 b) A quienes acudan en estado de ebriedad o manifiesten una conducta violenta o agresiva;
 
-c) A quienes hagan propaganda política, y (sic)
+c) A quienes hagan propaganda política, y
 
 d) A quienes de cualquier forma pretendan influir en los votantes.
 
@@ -2673,7 +2713,7 @@ I. Fijar en el exterior del local del consejo de que se trate, el total de los r
 
 II. Informar al Consejo General del Instituto de los resultados recibidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 147.
 
@@ -2795,9 +2835,9 @@ En la misma sesión prevista en el artículo 152 de esta Ley, el Consejo General
 
 Tendrá derecho a participar en la primera asignación de diputados por el principio de representación proporcional el partido político o coalición que haya alcanzado por lo menos el 3 % del total de la votación emitida válida en el Estado en la elección de diputados de mayoría relativa; y que no haya alcanzado triunfo en algún distrito uninominal. Después de esta primera asignación, sí aun quedaran diputaciones de representación proporcional por asignar, podrán participar en las siguientes todos aquellos partidos que hayan alcanzado por lo menos el 3 % del total de la votación emitida válida.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
-Después de esta primera asignación, si aún quedaran diputaciones de representación proporcional por asignar, podrán participar en las siguientes todos aquellos partidos que hayan alcanzado por lo menos el 3% de la votación emitida válida.
+Después de esta primera asignación, si aún quedaran diputaciones de representación proporcional por asignar, podrán participar en las siguientes todos aquellos partidos que hayan alcanzado por lo menos el 2.5% de la votación emitida válida.
 
 La asignación anterior se hará de conformidad a lo dispuesto por los artículos 156 y 157 de esta Ley.
 
@@ -2809,7 +2849,7 @@ En la asignación de diputados por el principio de representación proporcional 
 
 Para los efectos de esta Ley se entiende por fórmula de asignación el conjunto de normas, elementos matemáticos y mecanismos que deben observarse para la asignación de diputados según el principio de representación proporcional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTICULO 156.
 
@@ -2897,11 +2937,11 @@ Los candidatos de la fórmula de ayuntamiento que hubieren obtenido el triunfo p
 
 Los Consejos Municipales o Distritales, según el caso, procederán a hacer la asignación de las regidurías de representación proporcional del Ayuntamiento que corresponda. Para este efecto se observarán las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 I. Se hará la declaratoria de los partidos políticos que no habiendo alcanzado el triunfo por mayoría relativa en la elección municipal respectiva, obtuvieron por lo menos el 3% de la votación emitida válida en el Municipio correspondiente. Se determina la votación efectiva, deduciendo de la votación emitida válida la de aquellos partidos que no hayan alcanzado el 3 % referido, para efectos del reparto a que se refiere la fracción III.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 II. Tendrán derecho a participar en la primera asignación de regidores por el principio de representación proporcional el partido político o coalición que haya alcanzado por lo menos el 3% de la votación emitida válida y que no haya obtenido el triunfo en la elección de ayuntamiento de mayoría relativa.
 
@@ -3091,7 +3131,7 @@ Toda notificación personal realizada con quien deba entenderse, será legalment
 
 Las cédulas de notificación deberán contener:
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
 a) La descripción de la resolución por notificar y un extracto o copia de la misma;
 
@@ -3123,7 +3163,7 @@ Corresponderá siempre al actor acreditar los hechos en que funde su pretensión
 
 ###### ARTICULO 183.
 
-El órgano electoral o la Sala Electoral del Tribunal Superior de Justicia están obligados a recibir las pruebas que le ofrezcan las partes, siempre que se presenten en tiempo y forma, que estén permitidas en la Ley y cuando se indique su relación con los puntos controvertidos que se pretendan demostrar. El órgano competente deberá desechar aquéllas que sean inútiles, ociosas, ineficaces, que vayan contra la moral y el derecho y las que no sean permitidas por la Ley.
+El órgano electoral o la Sala Electoral del Tribunal Superior de Justicia están obligados a recibir las pruebas que le ofrezcan las partes, siempre que se presenten en tiempo y forma, que estén permitidas en la Ley y cuando se indique su relación con los puntos controvertidos que se pretendan demostrar. El órgano competente deberá desechar aquellas que sean inútiles, ociosas, ineficaces, que vayan contra la moral y el derecho y las que no sean permitidas por la Ley.
 
 ###### ARTICULO 184.
 
@@ -3347,7 +3387,7 @@ II. Haber celebrado en cada uno de los seis municipios una asamblea en presencia
 
 a) Que concurrieron a las asambleas municipales el número mínimo de afiliados que señala la fracción I de este artículo; que aprobaron la declaración de principios, programa de acción y estatutos y que suscribieron el documento de manifestación formal de afiliación;
 
-b) Que con las personas mencionadas en el inciso anterior, quedaron formadas las listas de afiliación, las que deberán contener: el nombre, los apellidos, el número de credencial de elector, el domicilio y la firma de cada afiliado o huella digital, en caso de no saber escribir; y
+b) Que con las personas mencionadas en el inciso anterior, quedaron formadas las listas de afiliación, las que deberán contener: el nombre, los apellidos, el número de credencial de elector, el domicilio y la firma de cada afiliado o huella digital, en caso de no saber escribir, y
 
 c) Que fue electa la directiva municipal de la organización, así como delegados propietarios y suplentes para la asamblea estatal constitutiva de la asociación;
 
@@ -3355,7 +3395,7 @@ III. Haber celebrado una asamblea estatal constitutiva ante la presencia de un f
 
 a) Que asistieron los delegados propietarios o suplentes, electos en las asambleas municipales y que acreditaron por medio de los certificados correspondientes que éstas se celebraron de conformidad con lo dispuesto por la fracción II de este artículo;
 
-b) Que se comprobó la identidad y domicilio de los delegados por medio de la credencial de elector u otro documento fehaciente; y
+b) Que se comprobó la identidad y domicilio de los delegados por medio de la credencial de elector u otro documento fehaciente, y
 
 c) Que fueron aprobados su declaración de principios, programa de acción y estatutos.
 
@@ -3403,7 +3443,7 @@ f) Formas en que convengan los integrantes de la coalición para ejercer sus pre
 
 g) Datos relativos a la asamblea estatal, municipal, o distrital, que celebraron los partidos políticos, en la que se aprobó la coalición; y (sic)
 
-h) El porcentaje de votación obtenida por la coalición, que corresponda a cada partido político para efectos de conservación de registro, financiamiento y asignación de diputados por el principio de representación proporcional.
+h) El porcentaje de votación obtenida por la coalición, que corresponda a cada partido político para efectos de conservación de registro, financiamiento y asignación de diputados por el principio de representación proporcional;
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -3609,9 +3649,9 @@ III. Domicilio y tiempo de residencia en el mismo;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-IV. Folio y clave de elector, y (sic)
+IV. Folio y clave de elector, y
 
-V. Cargo para el que se les postula;
+V. Cargo para el que se les postula.
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3743,7 +3783,7 @@ En los casos en que la renuncia del candidato fuera notificada por éste al cons
 
 ###### ARTICULO 238.
 
-(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2005)
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2005).
 
 ###### ARTICULO 239.
 
@@ -3787,9 +3827,9 @@ V. Las solicitudes de registro que carezcan de alguno o algunos de los datos exi
 
 VI. El Consejo General hará el registro supletorio de los representantes en los casos de fuerza mayor, o circunstancia fortuita, debidamente acreditados por el partido político o coalición solicitante;
 
-VII. Para garantizar a los representantes de los partidos políticos o coaliciones su debida acreditación ante las mesas directivas de casilla, los consejos distritales o municipales y en su caso el Consejo General, entregarán a los presidentes de cada mesa directiva de casilla una relación de los representantes de los partidos políticos que tengan derecho de actuar en la misma, quienes deberán identificarse con su credencial de elector, y (sic)
+VII. Para garantizar a los representantes de los partidos políticos o coaliciones su debida acreditación ante las mesas directivas de casilla, los consejos distritales o municipales y en su caso el Consejo General, entregarán a los presidentes de cada mesa directiva de casilla una relación de los representantes de los partidos políticos que tengan derecho de actuar en la misma, quienes deberán identificarse con su credencial de elector, y
 
-VIII. Los nombramientos de los representantes generales deberán contener los mismos datos que los nombramientos de los representantes ante la casilla, con inclusión del número de las casillas que cubrirán;
+VIII. Los nombramientos de los representantes generales deberán contener los mismos datos que los nombramientos de los representantes ante la casilla, con inclusión del número de las casillas que cubrirán.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3927,7 +3967,7 @@ III. Sean interpuestos ante un órgano electoral distinto a aquel que realizó e
 
 IV. Sean presentados fuera de los plazos que establece esta Ley;
 
-V. Se impugne más de una elección con el mismo escrito mediante el que se interpone el recurso, y (sic)
+V. Se impugne más de una elección con el mismo escrito mediante el que se interpone el recurso, y
 
 VI. Los conceptos de agravio expuestos no expresen la razón jurídica por la que el acto impugnado es ilegal o bien cuando no estén directamente relacionados con el mismo;
 
@@ -3989,9 +4029,9 @@ VII.- Expresar por escrito los agravios que a juicio del promovente cause el act
 
 Tratándose del recurso de apelación que procede por una resolución recaída a un recurso de reconsideración, los agravios necesariamente deberán estar relacionados a los motivos de inconformidad previamente expuestos sin que puedan adicionarse cuestiones omitidas, en la instancia subsecuente.
 
-VIII. Indicar los preceptos legales que el promovente estima infringidos, y (sic)
+VIII. Indicar los preceptos legales que el promovente estima infringidos, y
 
-IX. Anexar las copias simples necesarias para correr traslado a los terceros interesados, en su caso;
+IX. Anexar las copias simples necesarias para correr traslado a los terceros interesados, en su caso.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -4263,7 +4303,7 @@ Concluido el plazo concedido al partido político responsable, el Consejo Genera
 
 ###### ARTICULO 292.
 
-Para la aplicación de sanciones a que se refiere el articulo 286 de esta Ley, el procedimiento para la aplicación de las mismas, será el contemplado en los artículos anteriores.
+Para la aplicación de sanciones a que se refiere el artículo 286 de esta Ley, el procedimiento para la aplicación de las mismas, será el contemplado en los artículos anteriores.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -4393,11 +4433,11 @@ DECRETO QUE REFORMA Y ADICIONA EL ARTICULO 10 DE LA LEY ELECTORAL DEL ESTADO.
 
 ### CAPITULO II. Del Procedimiento de Aplicación de Sanciones
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-## TITULO SEXTO. EQUIDAD DE GENERO
+## TÍTULO SEXTO. EQUIDAD DE GÉNERO
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
@@ -4431,7 +4471,7 @@ I. Las resoluciones recaídas a los recursos de reconsideración;
 
 II. Los resultados de los cómputos distritales, municipales o estatal, por nulidad de la votación recibida en una o varias casillas;
 
-III. La declaración de validez de la elección de diputados por el principio de mayoría relativa, de Gobernador del Estado y de los ayuntamientos, así como el otorgamiento de la constancia de mayoría, por las causales de nulidad aplicables, y (sic)
+III. La declaración de validez de la elección de diputados por el principio de mayoría relativa, de Gobernador del Estado y de los ayuntamientos, así como el otorgamiento de la constancia de mayoría, por las causales de nulidad aplicables, y
 
 IV. La asignación de diputados y regidores por el principio de representación proporcional;
 
@@ -4512,3 +4552,9 @@ PRIMERO. La presente Ley entrará en vigor el día 30 de septiembre del año 200
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente ley.
 
 TERCERO. La reforma al artículo 64 de este cuerpo normativo entrará en vigor al día siguiente de la elección constitucional del año 2006.
+
+P.O. 1 DE OCTUBRE DE 2005.
+
+PRIMERO.- En caso de que el Instituto Federal Electoral realice modificaciones que afecten la actual demarcación seccional, éstas seguirán perteneciendo al distrito que actualmente corresponde a la sección que da origen a la nueva división seccional, identificándose con la nomenclatura que le sea asignada en la cartografía electoral.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
