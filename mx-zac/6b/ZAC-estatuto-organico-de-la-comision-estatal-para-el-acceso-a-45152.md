@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-la-comision-estatal-para-el-acceso-a-45152
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-05-25"
-last_updated: "2005-05-25"
+last_updated: "2005-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2005.
 
 Estatuto publicado en el Periódico Oficial del Estado de Zacatecas, el miércoles 25 de mayo de 2005.
 
@@ -113,7 +113,9 @@ Para el debido cumplimiento de sus obligaciones y la elaboración de su informe 
 
 Las determinaciones de la Comisión tendrán el carácter de:
 
-I. Resoluciones, las que serán aquellas que se dicten y decidan sobre las cuestiones planteadas en el recurso de revisión que contempla la Ley, ya sean sobre el fondo o de carácter procedimental; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+I. Resoluciones, las que serán aquellas que se dicten y decidan sobre las cuestiones planteadas en el recurso de revisión que contempla la Ley, siendo éstas sobre el fondo; y
 
 II. Acuerdos, los que recaigan a las solicitudes de clasificación de reserva y todas las demás determinaciones.
 
@@ -123,9 +125,11 @@ Las resoluciones deberán constar siempre por escrito, debiendo dictarse en tér
 
 ### Capítulo III. Del Pleno de la Comisión
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 9.
 
-El Pleno es el órgano supremo de la Comisión, tomará las decisiones y desarrollará sus funciones de manera colegiada, el cual estará integrado por los tres comisionados nombrados por la Ley.
+El Pleno es el órgano supremo de la Comisión, tomará las decisiones y desarrollará sus funciones de manera colegiada, el cual estará Integrado por los tres comisionados nombrados de conformidad con lo establecido por la Ley.
 
 ###### Artículo 10.
 
@@ -197,13 +201,17 @@ La Comisión estará integrada por tres Comisionados, designados por la Titular 
 
 Para ser Comisionado se deberá cumplir con los requisitos establecidos en el artículo 38 de la Ley. Una vez designados y ratificados, no podrán tener ningún otro empleo, cargo o comisión-, ni podrán ser removidos, salvo por los casos que se establecen en la propia Ley.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 14.
 
-La Comisión contará con un Presidente, mismo que deberá elegirse de entre los tres Comisionados en sesión del Pleno y en términos del artículo 40 de la Ley. Durará en su cargo un año, pudiendo reelegirse por una sola ocasión.
+La Comisión contará con un Presidente, mismo que deberá elegirse de entre los tres Comisionados en sesión del Pleno y en términos del artículo 40 de la Ley. Durará en su encargo un año, pudiendo reelegirse por una sola ocasión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 15.
 
-La Presidencia es el órgano supremo de la Comisión, su titular tendrá las siguientes facultades y obligaciones:
+Son facultades y obligaciones del Comisionado Presidente las siguientes:
 
 I. Representar legalmente a la Comisión;
 
@@ -237,7 +245,9 @@ Los Comisionados tendrán, las siguientes atribuciones:
 
 I. Representar a la Comisión en los asuntos que el Pleno determine;
 
-II. Elaborar y presentar al Pleno los proyectos de las resoluciones y criterios de interpretación de la ley que le competan, para efectos administrativos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+II. Elaborar y presentar al Pleno los proyectos de las resoluciones y criterios de interpretación de la Ley que le competan, para efectos administrativos y jurisdiccionales;
 
 III. Elaborar los proyectos de reformas y adiciones a la ley y al. Estatuto Orgánico; así como de otras normas de operación y administración de Comisión y someterlas a la consideración del Pleno;
 
@@ -281,15 +291,19 @@ El Presidente de la Comisión, deberá emitir la Convocatoria para la celebraci�
 
 La parte convocante hará explícitas las razones para sesionar y se asegurará que los comisionados, sean debidamente notificados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 21.
 
-Las sesiones ordinarias deberán convocarse por los menos con tres días de anticipación y las extraordinarias, veinticuatro horas antes de la sesión.
+Las sesiones ordinarias deberán convocarse por lo menos con cuarenta y ocho horas de anticipación y las extraordinarias, veinticuatro horas antes de la sesión.
 
 Cuando se trate de aprobar cuestiones relativas al ejercicio presupuestal o envío de informes financieros a la Legislatura del Estado, la Convocatoria habrá de circularse con cuatro días de anticipación a la sesión, cuando esta sea ordinaria y en cualquier tiempo si se tratara de extraordinaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 22.
 
-Las convocatorias deberán contener por lo menos:
+Las sesiones deberán de desarrollarse bajo la siguiente estructura:
 
 I. Orden del día;
 
@@ -361,7 +375,9 @@ I. Asistir y fungir como secretario del Pleno;
 
 II. Preparar el orden del día de las sesiones del Pleno, declarar la existencia del quórum legal, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de los Comisionados;
 
-III. Previa (sic) acuerdo del Presidente, notificar a los Comisionados de las sesiones ordinarias y extraordinarias del Pleno y enviar oportunamente el orden del día con la documentación necesaria;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+III. Previo acuerdo del Presidente, notificar a los Comisionados de las sesiones ordinarias y extraordinarias del Pleno y enviar oportunamente el orden del día con la documentación necesaria;
 
 IV. Ordenar la publicación de los acuerdos y resoluciones en los términos que apruebe el Pleno de la Comisión;
 
@@ -473,9 +489,11 @@ IX. Las demás que señale la Ley, este Estatuto y otras disposiciones aplicable
 
 ### Capítulo IX. Del Departamento Jurídico
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 39.
 
-El departamento jurídico es el área técnica jurídica operativa, organizará y ejecutará sus funciones en términos de lo dispuesto por la ley.
+El departamento jurídico es el área técnica jurídica operativa, el cual organizará y ejecutará sus funciones en términos de lo dispuesto por la Ley.
 
 ###### Artículo 40.
 
@@ -495,9 +513,13 @@ I. Representar a la Comisión en toda clase de procedimientos legales;
 
 II. Admitir a trámite, el recurso de revisión interpuesto ante la Comisión y en su caso desechar los notoriamente improcedentes, todo esto en coordinación con el Secretario Ejecutivo y el Pleno;
 
-III. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión interpuestos ante la Comisión, conforme a lo previsto por la Ley;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
 
-IV. Elaborar los proyectos de resolución que presentará al Pleno;
+III. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión interpuestos ante la Comisión, conforme- a lo previsto por la Ley, en coordinación, tanto con el Comisionado Ponente en turno, como con el Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+IV. Elaborar los proyectos de resolución que presentará al Pleno, en coordinación, tanto con el Comisionado Ponente en turno, como con el Secretario Ejecutivo;
 
 V. Auxiliar al Secretario Ejecutivo en todo proceso jurisdiccional en el que la Comisión sea parte y representarla en los mismos procedimientos por acuerdo del Pleno;
 
@@ -507,9 +529,13 @@ VII. Asesorar a los demás departamentos de la Comisión a efecto de que los pro
 
 VIII. Llevar el libro de registro de los recursos de revisión interpuestos ante la Comisión, así como las solicitudes de reserva,
 
-IX. Elaborar las iniciativas de reforma que la Comisión considere necesarias para la Ley;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
 
-X. Elaborar y someter a consideración del Pleno, las modificaciones y adecuaciones que considere pertinentes para el presente Estatuto;
+IX. Elaborar las iniciativas de reforma que la Comisión considere necesarias para la Ley, en coordinación con el Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+X. Elaborar y someter a consideración del Pleno, conjuntamente con el Secretario Ejecutivo, las modificaciones y adecuaciones que considere pertinentes para el presente Estatuto;
 
 XI. Proponer procedimientos jurídicos a la Comisión para garantizar que los sujetos obligados cumplan con la Ley;
 
@@ -639,13 +665,21 @@ De recibirse dos o más recursos de revisión de la misma entidad o sujeto oblig
 
 Dicha acumulación podrá decretarse al inicio o durante la sustanciación del recurso.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 52.
 
-Presentado el recurso, se deberá dictar el acuerdo respectivo por el departamento jurídico y se turnará al Comisionado ponente, para que siga su procedimiento y en su oportunidad elabore el proyecto de resolución que será discutido en el Pleno.
+Presentado el recurso, el departamento jurídico dará cuenta al Comisionado Presidente, quien a su vez, lo turnará al Comisionado ponente, para que siga su procedimiento y en su oportunidad elabore el proyecto de resolución que será discutido en el Pleno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 53.
 
-Iniciado el procedimiento se requerirá al sujeto obligado, para que en un término de diez días hábiles, rinda el informe correspondiente, mismo que deberá contener respuesta a los cuestionamientos particulares, así como las pruebas fundadas y motivadas que demuestren su dicho.
+Iniciado el procedimiento se requerirá al sujeto obligado, para que en un término de ocho días hábiles siguientes a la notificación, rinda su informe correspondiente, mismo que deberá contener respuesta a los cuestionamientos particulares, así como las pruebas en que funde y motive su dicho, presentando también dentro de dicho término, los alegatos correspondientes.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
+De igual forma, se le dará vista dentro del mismo término al recurrente, para que de estimarlo pertinente, manifieste lo que a su interés convenga.
 
 La Comisión, cuando lo estime pertinente, solicitará el informe respectivo por teléfono, fax o correo electrónico, debiendo hacerlo constar en acta circunstanciada.
 
@@ -679,7 +713,7 @@ La notificación por estrados procederá, en los casos del articulo anterior y c
 
 ###### Artículo 58.
 
-En el caso de que exista constancia de que el promovente o su representante asistieron a la sesión en que se resolvió el asunto, se entenderá automáticamente notificado para todos los efectos legales.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2005)
 
 ###### Artículo 59.
 
@@ -733,9 +767,13 @@ IV. Todo el personal de confianza que labore en la Comisión.
 
 ### Capítulo XVI. Del Horario y Días de Labores, Licencias y Vacaciones
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 64.
 
-Son días hábiles todos los días del año, excepto los señalados como descanso obligatorio por la ley Federal del Trabajo, los que señale el calendario cívico de Gobierno del Estado y aquellos en que el Pleno acuerde suspender labores por circunstancias que pongan en peligro la integridad física de los servidores públicos de la Comisión.
+Son días hábiles todos los días del año, excepto, los sábados y domingos, así como los señalados como descanso obligatorio por la Ley Federal del Trabajo, los que señale el calendario oficial de la Comisión Estatal para el Acceso a la Información Pública, aprobado por el Pleno de la misma, y aquellos en que el Pleno acuerde suspender labores por circunstancias que pongan en peligro la integridad física de los servidores públicos de la Comisión.
+
+Lo anterior, sin perjuicio de que los sujetos obligados registren ante la Comisión su calendario oficial, en cuyo caso, se estará a lo que señalen los respectivos calendarios, para efectos del cómputo de los plazos a que se refiere la ley y demás disposiciones aplicables.
 
 ###### Artículo 65.
 
@@ -802,3 +840,11 @@ Q.F.B. JUANA VALADEZ CASTREJÓN
 COMISIONADA
 
 COMISIONADO (SIC)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. 1 DE OCTUBRE DE 2005.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Como consecuencia de la expedición de las presentes reformas y adiciones al "Estatuto Orgánico de la Comisión Estatal para el Acceso a la Información Pública", quedan sin efecto cualquier otra disposición que se oponga a las presentes.
