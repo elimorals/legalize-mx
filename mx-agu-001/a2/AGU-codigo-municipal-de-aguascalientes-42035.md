@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2005-02-21"
+last_updated: "2005-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
 
@@ -661,7 +661,7 @@ Al entrar al recinto el Presidente de la República, el Gobernador del Estado o 
 
 ###### ARTICULO 92.
 
-En la sesión de instalación del H. Ayuntamiento y en las solemnes, el Presidente Municipal, los Regidores y Síndicos deberán asistir vestidos de manera formal, de preferencia de color oscuro.
+En la sesión de instalación del H. Ayuntamiento y en las solemnes, El Presidente Municipal, los Regidores y Síndicos deberán asistir vestidos de manera formal, de preferencia de color oscuro.
 
 ## TITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SUS FUNCIONES Y ATRIBUCIONES
 
@@ -8679,6 +8679,8 @@ Perito Responsable de Obra, es la persona física que se hace responsable de la 
 
 La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Comisión de Admisión de Peritos, habiendo cumplido previamente con los requisitos establecidos en este apartado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 861.
 
 Peritos Especializados.
@@ -8689,11 +8691,11 @@ Se exigirá responsiva de los Peritos Especializados para obtener la licencia de
 
 I. Especializados en Diseño Arquitectónico para los siguientes casos:
 
-a) Conjuntos Habitacionales Multifamiliares o Prototipos de Vivienda Unifamiliar que se repita para más de cincuenta unidades independientemente de la periodicidad consecutiva o no con que se tramite cada prototipo de proyecto, Hospitales, Auditorios, Bibliotecas, Clínicas, Edificaciones para Exhibiciones como Museos, Galerías, Centros de Convenciones, Estaciones y Terminales de Transporte de Pasajeros, Estudios Cinematográficos y de Televisión, Clubes Deportivos y Espacios Abiertos de Uso Publico de cualquier magnitud.
+a) Conjuntos Habitacionales Multifamiliares o Prototipos de Vivienda Unifamiliar que se repita para más de cincuenta unidades independientemente de la periodicidad consecutiva o no con que se tramite cada prototipo de proyecto, Hospitales, Auditorios, Bibliotecas, Clínicas, Edificaciones para Exhibiciones como Museos, Galerías, Centros de Convenciones, Estaciones y Terminales de Transporte de Pasajeros, Estudios Cinematográficos y de Televisión, Clubes Deportivos y Espacios Abiertos de Uso Público de cualquier magnitud.
 
 b) Las edificaciones ubicadas en zonas del Patrimonio Histórico, Artístico y Arqueológico, así como las catalogadas por el Instituto Nacional de Antropología e Historia.
 
-c) El resto de las edificaciones que tengan más de tres mil metros cuadrados cubiertos o más de quince metros de altura totales, o en espacios con capacidad para más de doscientos concurrentes en locales cerrados o más de mil concurrentes en locales abiertos, exceptuando Naves Industriales y Bodegas.
+c) El resto de las edificaciones que tengan más de tres mil metros cuadrados cubiertos o más de quince metros de altura totales, o en espacios con capacidad para más de doscientos concurrentes en locales cerrados, o más de mil concurrentes en locales abiertos, exceptuando Naves Industriales y Bodegas.
 
 II. Especializados en Diseño Urbano para los siguientes casos:
 
@@ -8721,13 +8723,17 @@ a.10. En general todo aquel proyecto de áreas descubiertas de cualquier magnitu
 
 b). Fraccionamientos, en los casos que la Secretaría lo considere pertinente:
 
-b.1. Habitacionales Urbanos: Residenciales, Medio, Popular, Interés Social y Mixtos;
+b.1. Habitacionales Urbanos:
 
-b.2. Fraccionamientos Especiales: Campestre, Comerciales, Granjas de Explotación Agropecuaria, Cementerios, Industriales.
+Residenciales, Medio, Popular, Interés Social y Mixtos;
+
+b. 2. Fraccionamientos Especiales:
+
+Campestre, Comerciales, Granjas de Explotación Agropecuaria, Cementerios, Industriales.
 
 III. Especializados en Diseño Estructural para los siguientes casos:
 
-a) Construcciones correspondientes al grupo "A" del Título Quinto de este Libro;
+a) Construcciones Correspondientes al grupo “A” del Título Quinto de este Libro;
 
 b) En obras de Nueva Creación, de Reparación y Remodelación que presenten daños y las ubicadas sobre grietas, fallas, fracturas o discontinuidades en el suelo cuya influencia las hubiese afectado;
 
@@ -8767,9 +8773,19 @@ a) En Obras de Nueva Creación en terrenos ubicados sobre grietas, fallas, fract
 
 b) Fraccionamientos de cualquier tipo, en el aspecto de detección de grietas, fallas, fracturas o discontinuidades en el suelo, así como la instrumentación de medidas conducentes para evitar que estos fenómenos incidan en las edificaciones que se pretendan construir.
 
-Para los efectos de este artículo, en el caso de instalaciones serán los Peritos Especializados en Instalaciones eléctricas ó las Unidades de Verificación y profesionales, las debidamente acreditadas por las instancias correspondientes como autorizados para hacer cumplir las Normas Oficiales Mexicanas.
+VI. Especializados en instalaciones eléctricas para los siguientes casos:
 
-La intervención de dichas unidades estarán sujetas a lo estipulado en las Leyes y Reglamentos de cada materia.
+a) Independientemente de la carga conectada, los siguientes: Conjuntos Habitacionales Multifamiliares y/o unifamiliares que se repitan para más de cincuenta unidades independientemente de la periodicidad consecutiva o no con que se tramite cada prototipo de proyecto, Hospitales, Auditorios, Bibliotecas, Clínicas Edificaciones para Exhibiciones como Museos, Galería, Centro de Convenciones, Estaciones y Terminales de Pasajeros, Estudios Cinematográficos y de Televisión, Clubes Deportivos y Espacios Abiertos de Uso Público de cualquier magnitud.
+
+b) Lugares con suministros de 1,000 o más volts entre conductores o de 600 volts o más con respecto a tierra, o cuando la carga conectada es mayor a 10 Kw. tales como Albergues, Bancos, Centros de Readaptación Social, Edificios para Oficinas Públicas, Escuelas y demás centros Docentes, establecimientos Comerciales, Ferias, Exposiciones, Funerarias, Laboratorios, Talleres de Costra, Tortillerías, Mercados y Molinos, Parques de Diversiones.
+
+c) Cuando la carga total instalada es mayor a 20 Kw.
+
+Para los efectos de este artículo, en el caso de instalaciones serán los Peritos Especializados en Instalaciones Eléctricas o las Unidades de Verificación y profesionales, las debidamente acreditadas por las instancias correspondientes como autorizados para hacer cumplir las Normas Oficiales Mexicanas.
+
+La intervención de dichas unidades estarán sujetas a lo establecido en las Leyes y Reglamentos de cada materia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 862.
 
@@ -8791,21 +8807,27 @@ d) Estar domiciliado en el Estado de Aguascalientes por lo menos dos años anter
 
 e) Demostrar ante la Comisión de Admisión de Peritos, conocimientos sobre el contenido y aplicación de la Reglamentación Municipal en materia de construcciones mediante la acreditación de un examen que consistirá de dos partes: la primera que corresponderá al conocimiento de los contenidos del presente Libro y los correspondientes del Código Urbano y la segunda correspondiente a la elaboración de un proyecto estructural específico, así como aceptar las responsabilidades que los contenidos del presente Libro le indica y acatar las condiciones y restricciones que la Comisión de Admisión de Peritos le imponga;
 
-f) Presentar por escrito su Curriculum Vitae en el que se detalle la experiencia indicada en los contenidos de la presente fracción; y
+f) Presentar por escrito su Currículo (sic) Vitae en el que se detalle la experiencia indicada en los contenidos de la presente fracción; y
 
 g) Que se emita dictamen favorable para su registro por la Comisión de Admisión de Peritos.
 
 II. Para los Peritos Especializados:
 
-a) Acreditar que posee cédula profesional correspondiente alguna de las siguientes profesiones:
+a) Acreditar que posee cédula profesional correspondiente a alguna de las siguientes profesiones:
 
-Para especializado en Estructuras: Arquitectos, Ingeniero-Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar o Ingeniero Municipal.
+1. Para especializado en Estructuras:
 
-Para especializado en Mecánica de Suelos: Ingeniero Civil, Ingeniero Constructor Militar, Ingeniero Municipal o Ingeniero-Arquitecto.
+Arquitectos, Ingeniero-Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar o Ingeniero Municipal.
 
-Para especializado en Diseño Arquitectónico y Urbano: Arquitecto, Licenciado en Urbanismo, Ingeniero-Arquitecto o Licenciado en Asentamientos Humanos;
+2. Para especializado en Mecánica de Suelos:
 
-Para Especializado en Geología o Geofísica: Ingeniero Geólogo o Ingeniero Geofísico.
+Ingeniero Civil, Ingeniero Constructor Militar, Ingeniero Municipal o Ingeniero-Arquitecto.
+
+3. Para especializado en Diseño Arquitectónico y Urbano: Arquitecto, Licenciado en Urbanismo, Ingeniero-Arquitecto o Licenciado en Asentamientos Humanos;
+
+4. Para Especializado en Geología o Geofísica: Ingeniero Geólogo o Ingeniero Geofísico.
+
+5. Para Especializado en Instalaciones Eléctricas: Ingeniero Eléctrico, Ingeniero Electromecánico, Ingeniero Mecánico Electricista, Ingeniero Industrial Eléctrico.
 
 b) Acreditar ante la Comisión de Admisión de Peritos que conoce este Libro y sus normas técnicas complementarias, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable;
 
@@ -8815,7 +8837,7 @@ d) Acreditar que es miembro del Colegio de Profesionistas respectivo con derecho
 
 e) Aceptar las responsabilidades que el presente Libro le indique y acatar las condiciones y restricciones que la Comisión de Admisión de Peritos le imponga;
 
-f) Presentar por escrito su Curriculum Vitae, en el que se detalle la experiencia en materia de su especialidad;
+f) Presentar por escrito su Currículo Vitae, en el que se detalle la experiencia en materia de su especialidad;
 
 g) Estar domiciliado en el Estado de Aguascalientes por lo menos dos años, presentando la constancia de residencia correspondiente; y
 
@@ -14537,13 +14559,15 @@ Lo anterior independientemente de las sanciones a que se haga acreedor conforme 
 
 ### CAPITULO II. Mantenimiento
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 1247.
 
 Conservación de Predios y Edificaciones.
 
-Los propietarios de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestia o peligro para las personas o los bienes. Los acabados y pintura de las fachadas, deberán mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza.
+Los propietarios o poseedores de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestia o peligro para las personas o los bienes. Los acabados y pintura de las fachadas, deberán mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza.
 
-Los predios no edificados deberán estar libres de escombro y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente, de una altura mínima de 2.50 metros, las cuales no podrán ser de madera, cartón, alambrado de púas y otros similares. Para hacer exigible la obligación anterior, la Secretaría deberá notificar el requerimiento correspondiente al propietario, concediéndole el término de quince días hábiles, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de cercado y limpieza se podrán hacer por parte de la Secretaría o quien ésta designe.
+Los propietarios o poseedores de los predios y edificaciones tendrán la obligación de tenerlos libres de escombro y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente, de una altura mínima de 2.50 metros, las cuales no podrán ser de madera, cartón, alambrado de púas y otros similares. Los propietarios o poseedores estarán igualmente obligados a tomar las medidas que correspondan para realizar la limpieza de los referidos predios. Para hacer exigible la obligación anterior, la Secretaría deberá notificar el requerimiento correspondiente al propietario o al poseedor en su caso, concediéndole el término de quince días hábiles a efecto de que limpie y/o cerque el predio referido, bajo apercibimiento que de no hacerlo en dicho término el Gobierno Municipal a través de “La Secretaría” realizará -a costa del propietario o del poseedor en su caso en los términos de la Ley de Ingresos respectiva- la referida limpia. La notificación de limpia deberá hacerse personalmente, pudiéndose adjuntar al recibo de cobro del impuesto predial, y sólo en caso que no sea posible localizar al propietario o al poseedor, podrá realizarse mediante dos edictos que funden y motiven lo anterior, publicados en el Periódico Oficial del Estado. Los trabajos de cercado y limpieza se podrán hacer por parte de la Secretaría o quien ésta designe.
 
 Los gastos que se generen con motivo de lo dispuesto en el párrafo que antecede tendrán el carácter de créditos fiscales objetivos como gravámenes reales sobre los inmuebles propiedad de la persona obligada, pudiendo hacerse la inscripción correspondiente en el Registro Público de la Propiedad del Estado, sin costo alguno y éstos se harán efectivos cuando la Secretaría de Finanzas Públicas Municipal lo considere apropiado, aplicando los procedimientos establecidos por la legislación fiscal aplicable.
 
@@ -20342,3 +20366,7 @@ PRIMERO: El presente Reglamento entrará en vigor el día siguiente al de su pub
 SEGUNDO: Se abroga el Título Segundo de l Libro Octavo del Código Municipal de Aguascalientes, denominado De la Comisión de Box y Lucha Libre Profesionales.
 
 TERCERO: Se abrogan todas las disposiciones administrativas de carácter municipal que se contrapongan al presente Reglamento.
+
+P.O. 3 DE OCTUBRE DE 2005.
+
+UNICO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
