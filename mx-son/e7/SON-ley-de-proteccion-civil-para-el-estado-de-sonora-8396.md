@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-8396"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "1993-07-19"
+last_updated: "2005-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE OCTUBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 19 de julio de 1993.
 
@@ -618,3 +620,23 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO,
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 3 DE OCTUBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección Civil para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado No. 6, Sección I, de fecha 19 de julio de 1993.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Protección Civil deberá instalarse dentro de los noventa días siguientes de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, a que se refieren los artículos 37 y 38, deberán dar cumplimiento a los mismos, en un plazo no mayor de 180 días a partir del día siguiente de la publicación de esta Ley.
