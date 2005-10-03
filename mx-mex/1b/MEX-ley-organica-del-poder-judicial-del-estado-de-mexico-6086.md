@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2004-09-10"
+last_updated: "2005-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE OCTUBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -747,9 +747,23 @@ XIII. Las demás que le otorguen las leyes.
 
 En cada distrito judicial habrá el número de juzgados de primera instancia que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales y de lo familiar que correspondan a su jurisdicción.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 66.
 
-Los jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a esta ley. El Consejo de la Judicatura podrá ratificarlos hasta por un período más de seis años, siempre que su función haya sido desempeñada con probidad, responsabilidad, eficiencia, capacidad, profesionalismo y que su expediente no tenga notas de demérito.
+Los Jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales, previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficiencia, profesionalismo y que su expediente no tenga notas de demérito.
+
+Para la ratificación de los jueces de primera instancia, el Consejo de la Judicatura tomará además en consideración, los siguientes elementos:
+
+I. El desempeño que se haya tenido en el ejercicio de la función;
+
+II. Los resultados de las visitas de supervisión;
+
+III. Los cursos de actualización y especialización acreditados de manera fehaciente, durante los últimos seis años;
+
+IV. No haber sido sancionado por falta que haya ameritado suspensión en el cargo, con motivo de una queja de carácter administrativo; y
+
+V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 ###### Artículo 67.
 
@@ -875,9 +889,23 @@ En cada distrito judicial habrá el número de juzgados de cuantía menor que de
 
 Los juzgados de cuantía menor ejercerán su jurisdicción en el ámbito territorial que determine el pleno del Tribunal Superior de Justicia y tendrán la competencia que señale esta ley y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 80.
 
-Los jueces de cuantía menor deberán cumplir los requisitos establecidos en la Constitución Política del Estado y aprobar el examen de oposición; durarán en su encargo tres años y podrán ser nombrados para otro período, siempre que su función haya sido desempeñada con probidad, responsabilidad, eficiencia, capacidad, profesionalismo y que su expediente no tenga notas de demérito.
+Los jueces de cuantía menor deberán cumplir los requisitos establecidos en la Constitución Política del Estado y aprobar el examen de oposición; durarán en su encargo tres años. El Consejo de la Judicatura podrá ratificarlos por periodos iguales, previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficiencia, profesionalismo y que su expediente no tenga notas de demérito.
+
+Para la ratificación de los jueces de cuantía menor, el Consejo de la Judicatura tomará además en consideración, los siguientes elementos:
+
+I. El desempeño que se haya tenido en el ejercicio de la función;
+
+II. Los resultados de las visitas de supervisión;
+
+III. Los cursos de actualización y especialización acreditados de manera fehaciente, durante los últimos tres años;
+
+IV. No haber sido sancionado por falta que haya ameritado suspensión en el cargo, con motivo de una queja de carácter administrativo; y
+
+V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 ###### Artículo 81.
 
@@ -961,9 +989,7 @@ Los jueces de cuantía menor actuarán en días y horas hábiles. En días y hor
 
 Las disposiciones de este capítulo se aplicarán en los asuntos mercantiles, sin perjuicio de las señaladas en el Código de Comercio y demás leyes de la materia.
 
-### CAPITULO OCTAVO. De los Secretarios, Oficiales Mayores y demás
-
-Servidores Públicos de la Administración de Justicia
+### CAPITULO OCTAVO. De los Secretarios, Oficiales Mayores y demás Servidores Públicos de la Administración de Justicia
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -1439,7 +1465,7 @@ Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en 
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
-También se constituirá jurisprudencia cuando lo resuelto por tres distintas salas unitarias se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Las salas involucradas o el coordinador general de compilación y sistematización de tesis, deberá pedir al Pleno del Tribunal Superior de Justicia que haga la declaratoria respectiva, y procederá a su redacción, ordenando su publicación en el boletín judicial y el prontuario de Jurisprudencia para que surta efectos.
+También se constituirá jurisprudencia cuando lo resuelto por tres distintas salas unitarias se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Las salas involucradas o el coordinador general de compilación y sistematización de tesis, deberá (sic) pedir al Pleno del Tribunal Superior de Justicia que haga la declaratoria respectiva, y procederá a su redacción, ordenando su publicación en el boletín judicial y el prontuario de Jurisprudencia para que surta efectos.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1843,7 +1869,7 @@ Los peritos podrán ejercer libremente su profesión, pero estarán impedidos pa
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-## TITULO DECIMO TERCERO. DEL CENTRO DE MEDIACION Y CONCILIACION
+## TITULO DECIMO TERCERO. Del Centro de Mediacion y Conciliación
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -2030,3 +2056,13 @@ P.O. 10 DE SEPTIEMBRE DE 2004.
 PRIMERO. Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+P.O. 3 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los jueces de primera instancia y los de cuantía menor, continuarán en el ejercicio de sus funciones por el periodo que estén nombrados o ratificados, quedando sujetos a su posterior ratificación o sustitución, conforme a lo previsto en el presente decreto.
+
+CUARTO.- Los jueces de primera instancia y de cuantía menor, cuyo periodo de ratificación haya fenecido durante el presente año y antes de la entrada en vigor del presente decreto, podrán ser nombrados de nueva cuenta por el Consejo de la Judicatura conforme a lo previsto en el presente decreto.
