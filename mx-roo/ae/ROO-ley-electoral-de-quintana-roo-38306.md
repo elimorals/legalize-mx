@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2004-03-04"
+last_updated: "2005-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2005.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -247,7 +247,9 @@ IV. Invariablemente, la delimitación de la geografía electoral y su modificaci
 
 V. En los trabajos de distritación se deberá observar que su desarrollo permita efectuar cualquier modificación a la cartografía electoral, las secciones, el padrón y la lista nominal.
 
-VI. Para la numeración de los distritos se establecerá un punto geográfico inicial y un sentido para asignarla siguiendo la continuidad territorial de los mismos. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2005)</small>
+
+VI. Para la numeración de los distritos se establecerá un punto geográfico inicial y un sentido para asignarla siguiendo la continuidad territorial de los mismos.
 
 VII. Una vez concluidos los trabajos de distritación, la resolución que en su caso expida el Consejo General, se mandará a publicar en el Periódico Oficial del Gobierno del Estado.
 
@@ -653,9 +655,11 @@ III. Las actas de las asambleas celebradas en los distritos y las de su asamblea
 
 El Consejo General resolverá si procede o no el registro dentro del plazo de sesenta días naturales contados a partir de la fecha de presentación de la solicitud. La resolución se notificará en forma personal a la organización interesada, dentro de los tres días siguientes a aquél en que se pronunció y se publicará en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 71.
 
-El registro se obtiene y surte sus efectos con la resolución favorable que emita el Consejo General. Una vez obtenido el registro, los partidos políticos locales tendrán personalidad jurídica y en consecuencia, gozarán de los derechos y obligaciones a que se refiere la presente Ley, con excepción del financiamiento público que se ministrará a partir del mes de enero siguiente.
+El registro se obtiene y surte sus efectos con la resolución favorable que emita el Consejo General. Una vez obtenido el registro, los partidos políticos locales tendrán personalidad jurídica y en consecuencia, gozarán de los derechos y obligaciones a que se refiere la presente Ley.
 
 ###### Artículo 72.
 
@@ -903,9 +907,11 @@ Las cantidades que en su caso se determinen para cada partido político, serán 
 
 El financiamiento público ordinario y para la obtención del voto, se otorgará a los partidos que hubiesen obtenido al menos el dos punto cinco por ciento de la votación válida emitida en la elección de diputados inmediata anterior, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 86.
 
-Los partidos políticos que hayan obtenido su registro o acreditación ante el Instituto Electoral de Quintana Roo con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, a partir del mes de enero del año siguiente al que hayan obtenido su registro, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, así como una cantidad igual adicional para gastos de campaña durante los procesos electorales.
+Los partidos políticos que hayan obtenido su registro o acreditación ante el Instituto Electoral de Quintana Roo con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, así como una cantidad igual adicional para gastos de campaña durante los procesos electorales.
 
 ###### Artículo 87.
 
@@ -1191,7 +1197,7 @@ La Coalición en la que se postulen candidatos a Gobernador del Estado, Diputado
 
 I. Disfrutará de las prerrogativas que otorga esta Ley, conforme a las siguientes reglas:
 
-a) Tendrá el financiamiento público para gastos de campaña como si se tratara de un solo partido político, por lo que le será asignado sólo el monto que corresponda al partido político coaligado que haya obtenido la mayor votación válida en la elección de diputados inmediata anterior.
+a) (DEROGADO, P.O. 3 DE OCTUBRE DE 2005)
 
 b) Tendrá las prerrogativas en materia de radio y televisión y podrá contratar en estos medios como si se tratara de un solo partido. Para tal fin tendrá derecho a los tiempos que le hubiesen correspondido al partido político coaligado que haya obtenido la mayor votación en la última elección.
 
@@ -1203,11 +1209,11 @@ Ningún partido político podrá registrar como candidato propio a quien ya haya
 
 Ninguna Coalición podrá postular como candidato de la Coalición, a quien ya haya sido registrado como candidato de algún partido político.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 110.
 
 La Coalición actuará como un solo partido político y por lo tanto, la representación de la misma sustituye para todos los efectos a que haya lugar a la de los partidos políticos coaligados.
-
-Deberá acreditar tantos representantes como correspondiera a un solo partido político ante los órganos del Instituto. Lo dispuesto en este párrafo en todos los distritos y municipios se aplicará para todos los efectos, aún cuando sólo se hubiesen coaligado para una determinada elección y dejado de coaligarse para otras.
 
 ###### Artículo 111.
 
@@ -1623,9 +1629,11 @@ II. Una vez hecha la propuesta, los consejos distritales iniciarán de inmediato
 
 Los consejos distritales en sesión que celebren a mas tardar en la primera semana de enero del año de la jornada electoral, aprobarán la relación que contenga los lugares de ubicación de casillas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 154.
 
-Los consejos distritales, a más tardar quince días antes del día de la elección, publicarán en cada Municipio y Distrito, numeradas progresivamente, el número de casillas electorales que se instalarán, así como su ubicación y el nombre de sus funcionarios.
+Los consejos distritales, publicarán en cada Municipio y Distrito, numeradas progresivamente, el número de casillas electorales que se instalarán, así como su ubicación y el nombre de sus funcionarios.
 
 La publicación se hará fijando las listas de ubicación de las casillas y los nombres de los integrantes de sus mesas directivas en las oficinas del Consejo respectivo y en los edificios y lugares públicos más concurridos del Municipio o del Distrito.
 
@@ -2781,7 +2789,9 @@ Queda prohibido a los aspirantes a candidatos, hacer uso de los bienes públicos
 
 Los aspirantes a candidatos que tengan un cargo de elección popular o en la Administración Pública, ya estatal o municipal, que manejen recursos económicos tendrán rigurosamente prohibido promover su imagen personal con recursos procedentes del erario público.
 
-Se entiende que se promueve la imagen personal, cuando bajo el pretexto de informar a la ciudadanía respecto de acciones u obras gubernamentales, divulgue cualquiera de sus características distintivas personales del aspirante a candidato, en un grado igual o mayor respecto de la acción u obra de gobierno a comunicar.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+
+Se entiende que se promueve la imagen personal, cuando bajo el pretexto de informar a la ciudadanía respecto de acciones u obras gubernamentales, divulgue cualquiera de sus características distintivas personales del aspirante a candidato.
 
 De igual forma, se considera que se promueve la imagen personal, cuando el ejercicio informativo, la acción u obra gubernamental, se realice fuera de la jurisdicción territorial o competencial que tenga asignado en razón del encargo que detenta.
 
@@ -2940,5 +2950,13 @@ LIC. JOAQUÍN ERNESTO HENDRÍCKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 # LIBRO CUARTO. DE LAS PRECAMPAÑAS ELECTORALES
