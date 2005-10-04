@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2000-12-09"
+last_updated: "2005-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -893,6 +893,10 @@ Una vez recibido el recurso por el Pleno, éste designará un Magistrado Ponente
 
 El pleno, dentro de un término igual al señalado para la formulación del proyecto de sentencia, dictará la misma. El magistrado que hubiese dictado la sentencia impugnada deberá abstenerse de votar y de participar en la discusión del asunto.
 
+### CAPÍTULO XVII. DE LOS PROCEDIMIENTOS ESPECIALES
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 103.
 
 Siempre que de las actuaciones del juicio seguido ante el Tribunal de lo Administrativo se desprenda la existencia probable de un delito, el Tribunal hará la consignación del hecho ante el Ministerio Público.
@@ -912,6 +916,64 @@ Quien interponga un recurso de apelación que resulte desestimado por notoriamen
 ###### Artículo 107.
 
 Al Actuario que sin causa justificada incumpla con la obligación de notificar una resolución dentro del término que señala esta ley, se le impondrá una amonestación. En caso de reincidencia, una multa que no excederá del quince por ciento de su salario mensual; y si incurriera nuevamente en tal conducta, se le impondrá una sanción hasta por treinta días de suspensión; de persistir en la omisión, será destituido sin responsabilidad para el Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 108.
+
+La afirmativa ficta se declara respecto de la solicitud de emitir actos regulativos, ante la omisión de la autoridad de emitir una resolución de manera expresa dentro de los plazos previstos por la norma aplicable al caso específico, o en su defecto por la Ley del Procedimiento Administrativo del estado de Jalisco y sus Municipios.
+
+Cuando se declare que opera la afirmativa ficta, se entiende que se emite el acto administrativo para los efectos solicitados por el promovente y contemplados por la Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 109.
+
+Al escrito del particular que solicite la declaración de que ha operado la afirmativa ficta, deberá acompañar en todo caso:
+
+I. El documento fundatorio de su acción, en el que conste fehacientemente la recepción legítima de su solicitud por la autoridad correspondiente;
+
+II. Copia de los documentos que se entregaron a la autoridad, que acrediten el cumplimiento de los requisitos que la ley señala para acceder a la petición del acto de que se trate; y
+
+III. El documento en el que conste, que el particular acudió ante la autoridad a solicitar la expedición del acto, por haber transcurrido los plazos señalados por la Ley aplicable al caso concreto.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 110.
+
+Recibido el escrito de solicitud de la declaratoria, el Tribunal en un término de tres días resolverá sobre su admisión si se acompañaron los documentos señalados en el artículo anterior, en caso contrario apercibirá al promovente para que los presente en un término de tres días o tendrá por no presentada la solicitud.
+
+En el acuerdo que tenga por recibido la solicitud, el Tribunal mandará notificar a la autoridad señalada, para efecto de que manifieste lo que a su derecho corresponda, en un término de tres días hábiles.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 111.
+
+La afirmativa ficta debe declararse en todo caso en que el particular, haya cumplido con los requisitos señalados y si han transcurrido efectivamente los plazos establecidos en la Ley aplicable al caso concreto o por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+
+Para acreditar y declarar que opera la afirmativa ficta, invariablemente es necesario asegurarse que a la petición se anexaron las constancias y documentos, que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como que la petición se presentó ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 112.
+
+En contra de la resolución que dicte el Tribunal declarando o negando que haya operado la afirmativa ficta, no procede recurso alguno.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 113.
+
+En aquellos casos, en que se requiera la publicación del acto administrativo, como requisito para su validez, en la resolución que declare que ha operado la afirmativa ficta, el Tribunal remitirá la sentencia al Ejecutivo para la inmediata publicación del acto en el Diario Oficial del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 114.
+
+En el caso de que cualquier autoridad administrativa del Estado o de los municipios se niegue a recibir o dar constancia de la presentación de un ocurso de particular que contenga una solicitud respecto de un acto administrativo, el particular puede presentarla ante el Tribunal, manifestando bajo protesta de decir verdad, que la autoridad competente se negó a tal recepción.
+
+El Tribunal recibe la solicitud con sus anexos, y la remite a la autoridad señalada por el particular, para que cumpla con el procedimiento administrativo a que halla lugar y resuelva la petición en forma fundada y motivada, dentro de los plazos señalados por la ley especial. Lo anterior independientemente de que la autoridad siga el procedimiento de responsabilidad aplicable, en contra del servidor que se negó a recibir la solicitud.
+
+Los plazos a que se refiere el párrafo anterior, inician a partir del día siguiente al en que la autoridad reciba el escrito del Tribunal, otorgando formal acuse de recibo del cual se deja copia en el mismo Tribunal a disposición del particular.
 
 ## TRANSITORIOS.
 
@@ -964,3 +1026,7 @@ P.O. 18 DE ABRIL DE 2000.
 P.O. 9 DE DICIEMBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE OCTUBRE DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
