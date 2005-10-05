@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2005-01-14"
+last_updated: "2005-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -595,11 +595,11 @@ Si no se encontrare presente la persona interesada y después de que el notifica
 
 El instructivo a que se refiere el artículo anterior se entregará a los parientes, domésticos o a cualquier otra persona capaz que se encuentre en la casa donde se practique la diligencia. Si no se encontrare persona alguna, si las presentes se negaren a recibirlo o si por cualquier otro motivo no se pudiere cumplir con lo dispuesto anteriormente, el instructivo se entregará al Juez auxiliar, o quien haga sus veces, de la sección respectiva, fijándose una copia del instructivo en la puerta o lugar más visible del domicilio del interesado. Si no existiere Juez Auxiliar o quien haga sus veces, la notificación se efectuará por conducto de la Secretaría del Ayuntamiento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 71.
 
-También se harán personalmente, las notificaciones de los autos en que se deseche o mande aclarar una demanda o una solicitud de jurisdicción voluntaria; los autos en que se cite para el reconocimiento de firmas; la del primer auto dictado por el nuevo Juez o Tribunal; los autos que señalen día y hora para la audiencia de pruebas y alegatos; las de las sentencias definitivas o interlocutorias y cuando se trate de casos urgentes o el Juez o la Ley así lo ordenen.
+También se harán personalmente, las notificaciones de los autos en que se deseche o mande aclarar una demanda o una solicitud de jurisdicción voluntaria; se admita o deseche una reconvención; los autos en que se cite para el reconocimiento de firmas; la del primer auto dictado por el nuevo Juez o Tribunal; los autos que señalen día y hora para la audiencia de pruebas y alegatos; las de las sentencias definitivas o interlocutorias y cuando se trate de casos urgentes o el Juez o la Ley así lo ordenen.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -823,7 +823,7 @@ Cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicció
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Artìculo 101.- Si el Juez deja de conocer por recusación o excusa, la substitución operará de acuerdo a lo previsto en la Ley Orgánica del Poder Judicial.
+ArtÍculo 101.- Si el Juez deja de conocer por recusación o excusa, la substitución operará de acuerdo a lo previsto en la Ley Orgánica del Poder Judicial.
 
 ###### ARTICULO 101.
 
@@ -1829,7 +1829,7 @@ No procede la suspensión de la obra que alguno hiciere reparando o limpiando lo
 
 ###### Artículo 217.
 
-La solicitud de suspensión de obra nueva se presentará ante el juez que deba conocer el juicio principal y se acompañarán a ella los documentos que deban servir para fundar la acción o se ofrecerá a falta de ellos, (mentos que deban servir para fundar la acción o se ofrecerá a falta de ellos)(sic) información testimonial.
+La solicitud de suspensión de obra nueva se presentará ante el juez que deba conocer el juicio principal y se acompañarán a ella los documentos que deban servir para fundar la acción o se ofrecerá a falta de ellos, (mentos que deban servir para fundar la acción o se ofrecerá a falta de ellos) (sic) información testimonial.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -5371,7 +5371,7 @@ Inmediatamente de desahogadas las pruebas, se oirán los alegatos de ambas parte
 
 ###### Artículo 740.
 
-Los incidentes no suspenderán el procedimiento. Se substanciarán por cuerda separada, cualquiera que sea su naturaleza, en los terminos de los articulos 561, 562 y 564 de este Codigo.
+Los incidentes no suspenderán el procedimiento. Se substanciarán por cuerda separada, cualquiera que sea su naturaleza, en los términos de los artículos 561, 562 y 564 de este Código.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
@@ -6283,7 +6283,7 @@ DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 879 Bis.
 
-El procedimiento sucesorio especial se sujetará a los dispuesto en este Capítulo.
+El procedimiento sucesorio especial se sujetará a los (sic) dispuesto en este Capítulo.
 
 En las sucesiones intestadas o testamentarias que se sometan a la tramitación aquí prevista, se observarán los siguientes requisitos:
 
@@ -6301,11 +6301,11 @@ V.- Igualmente deberán presentarse el inventario y avalúo de los bienes y los 
 
 VI.- Recibida la denuncia del intestado se radicará el juicio y se declararán provisionalmente herederos a los comparecientes que hayan comprobado su parentesco con el autor de la sucesión, de acuerdo al Código Civil, teniéndose como albacea al designado. Al mismo tiempo se dispondrá la publicación de un Edicto por una sola vez, en un periódico de los de mayor circulación en el Estado, convocando a los que se crean con derecho a la herencia para que lo deduzcan en un plazo de diez días, contados desde el siguiente al de la publicación;
 
-> <small>(F. DE E. P.O.19 DE DICIEMBRE DE 1983)</small>
+> <small>(F. DE E., P.O.19 DE DICIEMBRE DE 1983)</small>
 
 VII.- Transcurrido dicho plazo, se presenten o nó otros interesados, el Juez pronunciará la resolución definitiva, en la que declare como herederos a quienes hayan justificado su derecho a la herencia conforme a las disposiciones establecidas en el Código Civil;
 
-> <small>(REFORMADA [ ADICIONADA], P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 1997)</small>
 
 VIII.- En la misma resolución aprobará los inventarios y avalúos si no existe oposición por quienes se presentaren dentro del plazo antes indicado. En este caso, en la propia resolución se convocará a los herederos reconocidos a una junta, que se celebrará dentro de las setenta y dos horas siguientes, en la que se haga la partición de los bienes o se presente ésta por escrito firmado por todos los herederos o por quienes representen la mayoría de porciones, decretándose la aprobación correspondiente, copia certificada de la cual se remitirá a Notario Público para la protocolización correspondiente, misma que se inscribirá en el Registro Público de la Propiedad, tratándose de bienes susceptibles de registro.
 
@@ -6713,7 +6713,7 @@ II.- Derechos reales sobre muebles;
 
 III.- Alhajas y muebles preciosos;
 
-IV.- Acciones de compañías industriales y mercantiles , cuyo valor exceda de cinco mil pesos.
+IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
 
 ###### Artículo 928.
 
@@ -7813,7 +7813,7 @@ SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente e
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
-b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4º. , 6º. Y 7º. , Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
+b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4º. , 6º. Y 7º., Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
 
 c).- El inventario y distribución a que se alude en los incisos anteriores, que serán vigilados y controlados por el Presidente del Tribunal Superior de Justicia con el auxilio del resto de los Magistrados deberán quedar concluidos ambos en un plazo que no exceda de 15 días hábiles, a contar de la fecha en que entran en vigor las presentes reformas.
 
@@ -7935,7 +7935,7 @@ P.O. 25 DE DICIEMBRE DE 1992.
 
 PRIMERO:- El presente Decreto entrará en vigor, quince días hábiles después de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO:- Todas las demandas ordinarias que estén radicados pero no notificadas, seguirán el procedimiento de este Decreto si así lo pide el actor. En caso contrario se estará a los dispuesto en el transitorio siguiente.
+SEGUNDO:- Todas las demandas ordinarias que estén radicados pero no notificadas, seguirán el procedimiento de este Decreto si así lo pide el actor. En caso contrario se estará a los (sic) dispuesto en el transitorio siguiente.
 
 TERCERO:- Los Juicios Ordinarios en trámite, se ajustarán al procedimiento señalado para ellos hasta su total conclusión.
 
@@ -8058,3 +8058,7 @@ Artículo Primero.- El presente Decreto entrará en vigor el día 31 de Enero de
 Artículo Segundo.- Las disposiciones del presente Decreto no serán aplicables a los procesos jurisdiccionales en trámite con anterioridad a la vigencia del mismo.
 
 Artículo Tercero.- Las disposiciones de carácter general que se prevén en este decreto y que sean relativas a la solución de conflictos mediante los métodos alternos, entrarán en vigor en la misma fecha que lo haga la Ley de Métodos Alternos para la Solución de Conflictos.
+
+P.O. 5 DE OCTUBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
