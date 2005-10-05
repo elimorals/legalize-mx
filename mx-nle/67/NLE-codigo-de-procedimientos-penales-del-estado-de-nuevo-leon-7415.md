@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2004-12-30"
+last_updated: "2005-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -37,9 +37,11 @@ NUM. 95
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-## TITULO SEGUNDO (SIC). REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
-
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+
+## TITULO PRIMERO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 1.
 
@@ -279,9 +281,7 @@ La ejecución de las sanciones privativas de libertad y pecuniarias, corresponde
 
 También corresponde al Ejecutivo declarar, cuando proceda, la prescripción del derecho a la ejecución de las sanciones.
 
-## TITULO PRIMERO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
+## TITULO SEGUNDO (SIC). REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
 
 ### CAPITULO PRIMERO. JURISDICCION Y COMPETENCIA
 
@@ -1263,13 +1263,17 @@ Tratándose de los delitos culposos con motivo del tránsito de vehículos, en d
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 139.
 
-Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquéllos, acudirá al órgano jurisdiccional, fundando y motivando su petición, para que éste resuelva de plano el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El indiciado podrá solicitar voluntariamente sea autorizada la utilización del brazalete electrónico en su persona, en substitución del arraigo. El juez resolverá lo correspondiente. El arraigo o la utilización del brazalete electrónico se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. En caso de prórroga, el Juez resolverá escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, acudirá al órgano jurisdiccional, fundando y motivando su petición, para que éste resuelva de plano el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. Cuando se trate de delitos que no sean considerados como graves por el Código Penal para el Estado de Nuevo León, el indiciado podrá solicitar sea autorizada la utilización del brazalete electrónico en su persona, en substitución del arraigo. El Juez resolverá lo correspondiente. El arraigo o la utilización del brazalete electrónico se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. En caso de prórroga, el Juez resolverá escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 El indiciado que voluntariamente se someta a la utilización del brazalete electrónico podrá realizar todas las actividades personales sin dejar de pernoctar diariamente en su domicilio, para lo cual la autoridad podrá disponer de la vigilancia de la policía.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 Para la aplicación de este artículo se observará en lo procedente lo dispuesto por el artículo 181 Bis del Código Penal vigente en el Estado.
 
@@ -5152,3 +5156,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día de su publicaci
 P.O. 30 DE DICIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
