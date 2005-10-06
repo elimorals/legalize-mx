@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-educacion-46672"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-24"
-last_updated: "2002-01-24"
+last_updated: "2005-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE EDUCACION PARA ADULTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 24 de enero de 2002.
 
@@ -32,17 +32,23 @@ REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE EDUCACIÓN PARA ADULTOS
 
 ### CAPÍTULO I. DEL OBJETO Y ESTRUCTURA DEL ORGANISMO
 
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 1º.
 
-El Instituto Sonorense de Educación para Adultos, como Organismo Público Descentralizado del Gobierno del Estado de Sonora con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Hermosillo, Sonora; tiene como objeto prestar los servicios de educación básica en el Estado de Sonora, la cual comprense (sic) la alfabetización, educación primaria y la secundaria, así como la formación para el trabajo, con los contenidos particulares para atender las necesidades educativas específicas de ese sector de la población y se apoyará en la solidaridad social, en los términos del Decreto que lo crea, publicado en el Boletín Oficial del Gobierno del Estado, el día 25 de septiembre del año 2000 y demás disposiciones jurídicas aplicables.
+El Instituto Sonorense de Educación para los Adultos, como Organismo Público descentralizado de la Administración Pública Estatal con personalidad jurídica, autonomía de gestión y patrimonio propio, con domicilio en la Ciudad de Hermosillo, Sonora; tiene por objeto prestar los servicios de educación básica para adultos en el Estado de Sonora, la cual comprende la alfabetización, educación primaria y la secundaria, así como la formación para el trabajo, con los contenidos particulares para atender las necesidades educativas específicas de ese sector de la población y se apoyará en la solidaridad social, en los términos del Decreto que lo crea.
 
 ###### Artículo 2º.
 
 Para efectos de este Reglamento Interior se entiende por:
 
-1. Instituto.- El Instituto Sonorense de Educación para Adultos;
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-2. Contraloría.- La Secretaría de la Contraloría General del Estado.
+I. Instituto.- El Instituto Sonorense de Educación para los Adultos;
+
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+II. Contraloría.- La Secretaría de la Contraloría General.
 
 ###### Artículo 3º.
 
@@ -54,39 +60,41 @@ I.- Órganos de Gobierno:
 
 - El Director General
 
-II.- Órganos Colegiados:
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+II.- Órganos Colegiados y de Apoyo:
 
 - Comité Interno de Administración y Planeación
 
 - Comité de Adquisiciones, Arrendamientos y Servicios
 
+- Patronato para la Educación de los Adultos.
+
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
 III.- Unidades Administrativas:
 
-- Dirección de Servicios Educativos
+- Dirección de Servicios Educativos.
 
-- Dirección de Acreditación y Certificación
+- Dirección de Acreditación y Certificación.
 
-- Dirección de Planeación y Evaluación
+- Dirección de Planeación y Evaluación.
 
-- Dirección de Administración y Finanzas
+- Dirección de Administración y Finanzas.
 
-- Dirección de Informática
+- Dirección de Informática.
 
-- Coordinaciones de Zona
+- Coordinaciones de Zona.
 
-- Unidad Jurídica
+- Unidad Jurídica.
 
-- Unidad de Promoción y Difusión
+- Unidad de Promoción y Difusión.
 
-- Unidad de Vinculación y Concertación
+- Unidad de Vinculación y Concertación.
 
-- Unidades Regionales de Apoyo
+- Unidades Regionales de Apoyo.
 
-- Órgano de control interno
-
-IV.- Órgano de Vigilancia:
-
-- El comisario Público
+IV.- (DEROGADA, B.O. 6 DE OCTUBRE DE 2005).
 
 (Se anexa Organigrama Estructural)
 
@@ -110,9 +118,11 @@ La Junta Directiva será presidida por el Secretario de Educación y Cultura; ce
 
 Las sesiones ordinarias se celebrarán cada tres meses y las extraordinarias cada vez que así se convoque. La convocatoria la hará el Presidente por conducto del Director General, quien fungirá como Secretario de la Junta Directiva, y tendrá derecho a voz pero sin voto.
 
-###### Artículo 8º.
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-La Junta Directiva sesionará válidamente con la asistencia de su Presidente y el Comisario Público o sus suplentes y por lo menos la mitad de sus miembros; sus acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+###### Artículo 8°.
+
+La Junta Directiva sesionará válidamente con la asistencia de su Presidente o su suplente y por lo menos la mitad más uno de sus miembros; sus acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 9º.
 
@@ -128,7 +138,9 @@ II. Convocar a sesiones ordinarias y extraordinarias, cuando lo considere necesa
 
 III. Diferir o suspender las sesiones cuando a su juicio existan causas que pudieran afectar la celebración y desarrollo de las mismas;
 
-IV. Suscribir, con el Secretario de la Junta Directiva, las Actas de las sesiones; y,
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+IV. Suscribir conjuntamente con los demás miembros, las actas de las sesiones; y
 
 V. Las demás que le confieren el presente Reglamento y otras disposiciones legales.
 
@@ -168,9 +180,13 @@ I. Establecer las Políticas Generales y sancionar el Programa Operativo Anual d
 
 II. Autorizar el Presupuesto Anual de Ingresos y Egresos del Instituto y vigilar su correcta aplicación;
 
-III. Aprobar, previo informe del Comisario Público y dictámen de los Auditores Externos, los estados financieros del Instituto;
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-IV. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario Público;
+III. Aprobar, previo informe del Comisario Público Oficial o Ciudadano y dictamen de los Auditores Externos, los estados financieros del Instituto;
+
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+IV. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario Público Oficial o Ciudadano;
 
 V. Emitir su propio Reglamento Interior, en plazo que no exceda los 60 días contados a partir de su integración;
 
@@ -202,7 +218,7 @@ I. Acordar con los Titulares de las Unidades Administrativas, el despacho de los
 
 II. Acordar con los demás Servidores Públicos del Instituto, los asuntos de la competencia de éstos, cuando así lo considere conveniente;
 
-III. Proponer a la Junta Directiva el nombramiento o remoción del Titular del Órgano de Control Interno, haciéndolo del conocimiento del Titular de la Contraloría, para el dictámen correspondiente;
+III. (DEROGADA, B.O. 6 DE OCTUBRE DE 2005)
 
 IV. Proponer a la Junta Directiva el nombramiento, supervisión y remoción del personal del Instituto;
 
@@ -212,7 +228,9 @@ VI. Someter a consideración de la Junta Directiva, el anteproyecto del Programa
 
 VII. Definir las políticas de instrumentación de los sistemas de control que fueran necesarios, tomando las acciones correspondientes para corregir las deficiencias que se detectaren y presentar a la Junta Directiva informes necesarios para el desempeño de su función;
 
-VIII. Proporcionar al Comisario Público designado por la Contraloría, las facilidades, documentos e informes necesarios para el desempeño de su función;
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+VIII. Proporcionar al Comisario Público Oficial o Ciudadano designado por la Contraloría, las facilidades, documentos e informes necesarios para el desempeño de su función;
 
 IX. Presentar trimestralmente a la Junta Directiva, el informe de actividades, avance de los programas y estados financieros;
 
@@ -243,6 +261,10 @@ V. Aplicar y vigilar el cumplimiento en el área de su competencia, de las leyes
 VI. Acordar con el Director General los asuntos de la competencia de la Unidad a su cargo;
 
 VII. Someter a la consideración del Director General los proyectos de modernización administrativa de la Unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
+
+> <small>(ADICIONADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+VII Bis. Expedir, cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo;
 
 VIII. Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva, y
 
@@ -282,7 +304,21 @@ XIII. Supervisar el cumplimiento de las disposiciones técnico-pedagógicas esta
 
 XIV. Planear, organizar, ejecutar y controlar acciones para la elaboración de contenidos, métodos y materiales a fin de apoyar los procesos de enseñanza-aprendizaje con adultos.
 
-XV. Coordinar el Programa SEDENA-SEP-INEA, y
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+XV. Coordinar el programa SEDENA-SEP-INEA.
+
+> <small>(ADICIONADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+XV Bis. Coordinar el proceso de vinculación con otras Instituciones para apoyar la operación de los servicios educativos en el Estado y fomentar la participación social.
+
+> <small>(ADICIONADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+XV Bis A. Promover a nivel estatal el establecimiento de convenios de participación social y llevar el control y seguimiento de los mismos.
+
+> <small>(ADICIONADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+XV Bis B. Coordinar y evaluar el proyecto de certificación del Consejo Nacional de Educación para la Vida y el Trabajo (CONEVyT).
 
 XVI. Los demás que de manera expresa, le asigne la Dirección General.
 
@@ -324,9 +360,13 @@ XVI. Controlar la existencia y la emisión de certificados e informar al INEA so
 
 XVII. Impulsar y supervisar las campañas estatales de acreditación y certificación de adultos.
 
-XVIII. Elaborar en coordinación con las áreas correspondientes, la estimación anual y por etapa de la demanda de exámenes del Instituto Sonorense de Educación para Adultos.
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-XIX. Organizar y controlar el resguardo, almacenamiento y manejo de los materiales de examen, constancias de alfabetización, certificación de estudio y constancias de cursos de capacitación no formal para el trabajo, y
+XVIII. Elaborar en coordinación con las áreas correspondientes, la estimación por etapa mensual de la demanda de exámenes del Instituto.
+
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+XIX. Organizar y controlar el resguardo, almacenamiento y manejo de los materiales de examen, constancias de alfabetización y certificación de estudio.
 
 XX. Los demás que les señalen el Director General o le confieran otras disposiciones legales aplicables.
 
@@ -348,7 +388,9 @@ VI. Desarrollar los proyectos que requiera el Instituto en materia de planeació
 
 VII. Organizar, coordinar y vigilar su cumplimiento de los sistemas de presupuesto, evaluación y estadística del Instituto.
 
-VIII. Elaborar en coordinación con las Direcciones el Programa Operativo Anual (POA) de acuerdo a los lineamientos dictados a nivel nacional.
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+VIII.- Elaborar en coordinación con las Direcciones y Coordinaciones de Zona el Programa Operativo Anual (POA) de acuerdo a los lineamientos dictados a nivel nacional y a disposiciones estatales aplicables.
 
 IX. Gestionar ante las instancias respectivas el otorgamiento correspondiente del presupuesto del Instituto.
 
@@ -386,9 +428,13 @@ La Dirección de Administración y Finanzas tendrá las siguientes atribuciones 
 
 I. Planear, organizar, ejecutar y coordinar las (sic) administración de los recursos humanos, financieros y materiales del Instituto conforme a los lineamientos y normas establecidas.
 
-II. Implantar y difundir las disposiciones técnicas y administrativas emitidas por las direcciones normativas centrales en materia de recursos humanos, financieros y materiales y vigilar su cumplimiento.
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-III. Coadyuvar con el Director en la vigilancia del cumplimiento del Contrato Colectivo de Trabajo, del Reglamento de Escalafón y del Reglamento de Seguridad e Higiene y Reglamento de Protección Civil.
+II. Implantar y difundir las disposiciones técnicas y administrativas emitidas por las Direcciones Normativas Centrales y/o Estatales, aplicables en materia de recursos humanos, financieros y materiales, así como vigilar su cumplimiento.
+
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+III. Coadyuvar con el Director General en la vigilancia del cumplimiento del Contrato Colectivo de Trabajo, del Reglamento de Ingreso y Promoción, del Reglamento de Seguridad e Higiene y del Reglamento de Protección Civil.
 
 IV. Planear, ejecutar y controlar las actividades de reclutamiento, selección, contratación y remuneración del personal del Instituto apegándose a los niveles establecidos en los tabuladores de sueldos, cuotas, tarifas y demás disposiciones legales aplicables.
 
@@ -400,7 +446,9 @@ VII. Tramitar ante el ISSSTE, FONAC, FOVISSSTE, las altas, cambios y bajas del p
 
 VIII. Formular programas de capacitación administrativa y desarrollar cursos de formación, desarrollo y adiestramiento para los trabajadores del Instituto.
 
-IX. Participar en coordinación con el Departamento de Planeación y Evaluación, en la elaboración del Proyecto Anual de Presupuesto por Programas del Instituto, de conformidad con lo establecido por las direcciones normativas centrales.
+> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+IX. Participar en coordinación con la Dirección de Planeación y Evaluación, en la elaboración del Proyecto Anual de Presupuesto por Programas del Instituto, de conformidad a lo establecido por las Direcciones Normativas Centrales y a disposiciones estatales aplicables.
 
 X. Llevar la contabilidad y control presupuestal, así como realizar la elaboración y presentación de los estados financieros del Instituto, igualmente elaborar los informes y declaraciones fiscales para las autoridades correspondientes.
 
@@ -580,7 +628,9 @@ VI. Llevar el registro y control de desarrollo y cumplimiento de los acuerdos y 
 
 VII. Las demás que les señale el Director General, o le confieran otras disposiciones legales aplicables.
 
-### CAPÍTULO VI. DE LOS ÓRGANOS COLEGIADOS
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+### CAPÍTULO VI. DE LOS ÓRGANOS COLEGIADOS Y DE APOYO
 
 ###### Artículo 28º.
 
@@ -610,87 +660,93 @@ El Comité de Adquisiciones, Arrendamientos y Servicios, es un Órgano Colegiado
 
 El Comité de Adquisiciones, Arrendamientos y Servicios, se reunirá cuantas veces sea necesario, para el debido y oportuno despacho de los asuntos que se someterán a su consideración.
 
-### CAPÍTULO VII. DEL ÓRGANO DE CONTROL INTERNO
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 34º Bis.
+
+El Instituto contará con un Patronato, que será un órgano de apoyo para el cumplimiento de los objetivos del propio Instituto, estará integrado por un Presidente, un Secretario, un Tesorero y los Vocales que determine su Reglamento Interno.
+
+Las atribuciones y funciones del Patronato se determinaran en el Reglamento Interno que expida la Junta Directiva.
+
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+Artículo 34º Bis A.- Las sesiones ordinarias del Patronato se celebrarán dos veces por año y serán convocadas por su Presidente. Las sesiones extraordinarias podrán ser solicitadas por el mismo Presidente del Patronato o por el Director General, cuantas veces sea necesario para el buen funcionamiento de la organización.
+
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+Artículo 34º Bis B.- La Convocatoria para reuniones ordinarias y extraordinarias del Patronato se acompañarán de un orden del día que comprenderá: el proyecto de Acta de sesión anterior, el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los integrantes del Patronato, cuando menos con cinco días hábiles de anticipación a la fecha de celebración de la sesión cuando tenga el carácter de ordinaria, y con tres días hábiles cuando sea extraordinaria.
+
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+Artículo 34º Bis C.- Las sesiones se desarrollarán en el siguiente orden:
+
+I. Lista de asistencia y declaratoria relativa al quórum;
+
+II. Instalación legal de la reunión;
+
+III. Lectura y aprobación, en su caso, del Acta de la sesión anterior;
+
+IV. Análisis y discusión de los asuntos relativos al Patronato y toma de acuerdos;
+
+V. Asuntos Generales; y
+
+VI. Clausura.
+
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+Artículo 34º Bis D.- En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prevista, deberá de celebrarse ésta, entre los cinco y quince días hábiles siguientes.
+
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+Artículo 34º Bis E.- Los integrantes del Patronato, tendrán derecho a voz y voto en la toma de decisiones, respecto de los asuntos que se traten en dicha organización, las mismas facultades tendrán los suplentes de cada representante propietario, en caso de ausencia de éstos en las sesiones, previa comprobación ante el Presidente del Patronato en su carácter de suplente.
+
+> <small>(ADICIONADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+Artículo 34º Bis F.- El Acta de cada sesión deberá ser aprobada por el Patronato y suscrita por los miembros presentes en la misma.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE OCTUBRE DE 2005)</small>
+
+### CAPÍTULO VII. DEL CONTROL Y EVALUACIÓN
+
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 35º.
 
-El Instituto contará con un Órgano de Control Interno que será parte integrante de su estructura, quien dependerá directamente del Director General y tendrá acceso a todas las áreas y operaciones del Instituto y mantendrá independencia, objetividad de (sic) imparcialidad en los informes que emita.
+Las funciones de control y evaluación del Instituto, estará a cargo del Órgano de Control y Desarrollo Administrativo, órgano desconcentrado de la Contraloría, el cual despachará en las Oficinas de la Entidad, estando, jerárquica, administrativa y funcionalmente dependiente de dicha Secretaría, ejerciendo lo conducente a la misma en el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado, su Reglamento Interior y demás ordenamientos jurídicos y disposiciones generales del que se derive competencia para el ejercicio de sus atribuciones, sujetándose además su desempeño a lo dispuesto en las “Normas generales que establecen el marco de actuación de los órganos de control y desarrollo administrativo adscritos a las entidades de la Administración Pública Estatal”
 
-El Órgano de Control Interno, llevará a cabo la realización de Auditorías Internas que permitan verificar el desempeño general del Instituto, considerando por tal efecto sus objetivos, características específicas y recursos asignados.
+El Instituto para la operación de dicho Órgano, proporcionará los recursos materiales, servicios generales e instalaciones físicas adecuadas y necesarias para su funcionamiento, proporcionando la colaboración técnica y toda la información requerida para el cumplimiento de las funciones que le corresponde desarrollar.
 
 ###### Artículo 36º.
 
-El Órgano de Control Interno, además de las atribuciones señaladas en el artículo anterior, tendrá las siguientes atribuciones específicas:
+(DEROGADO, B.O. 6 DE OCTUBRE DE 2005)
 
-I. Dirigir, planear y observar el cumplimiento de las facultades y funciones que competen al Órgano de Control Interno, de acuerdo con el Decreto de creación y a las funciones establecidas en el Manual de Organización correspondiente al Instituto.
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-II. Planear, elaborar, organizar, dirigir, coordinar, asesorar y evaluar los lineamientos y políticas generales para la instrumentación del Programa Anual de Control y Auditoría del Instituto.
+### CAPÍTULO VIII. DE LA VIGILANCIA
 
-III. Establecer, diseñar e instrumentar los mecanismos necesarios eficaces y eficientes para la aplicación de auditorías en el Instituto.
-
-IV. Hacer cumplir, los lineamientos emitidos por la Secretaría del propio Instituto en materia de auditoría.
-
-V. Dirigir, coordinar, controlar y evaluar las actividades de las áreas que integran el Órgano de Control Interno.
-
-VI. Dar seguimiento y evaluar los objetivos, programas, metas y logros del Instituto.
-
-VII. Opinar, dictaminar y elaborar el establecimiento de procedimientos y políticas que fomenten el desarrollo y el mejoramiento de los instrumentos de control, seguimiento y evaluación del Instituto, a fin de incrementar la eficacia y eficiencia de sus acciones.
-
-VIII. Proponer, informar a la Dirección General del Instituto y, en caso de ser autorizados, ejecutar los métodos de atención de quejas y denuncias que se presenten en forma personal o por escrito, en contra de los servidores públicos del Instituto.
-
-IX. Conciliar periódicamente con la Contraloría del Gobierno del Estado las observaciones relevantes.
-
-X. Mantener contacto permanente con autoridades de la Contraloría del Estado e instancias globalizadoras, en materia de seguimiento a observaciones de auditoría.
-
-XI. Investigar, resolver y dictaminar las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto, y fincar responsabilidades que procedan en el ámbito de su competencia.
-
-XII. Participar, en coordinación con la Dirección de Delegaciones, unidad de Asuntos Jurídicos del INEA y la Unidad Jurídica del Instituto, en reuniones nacionales, regionales, estatales y municipales para promover campañas de información y orientación al público de todas aquellas disposiciones jurídicas publicadas y lineamientos emitidos por las diversas instancias globalizadoras.
-
-XIII. Informar al Director General de los avances y resultados de las auditorías practicadas a Coordinaciones de Zona.
-
-XIV. Informar al Director General el resultado de los indicadores de la gestión administrativa del Instituto.
-
-XV. Emitir opinión sobre los documentos que remitan las áreas que integran el Instituto en relación con todas aquellas operaciones en que se involucren recursos del Instituto.
-
-XVI. Facilitar la práctica de las visitas e inspecciones que realicen las instancias globalizadoras, los auditores externos, y los demás órganos facultados, y cuidar que se atiendan cumplidamente sus requerimientos de información.
-
-XVII. Informar a las diversas instancias globalizadoras sobre los requerimientos que formulen en el ámbito de su competencia.
-
-XVIII. Acordar con la Dirección General del Instituto la resolución de los asuntos que sean de su competencia.
-
-XIX. Suscribir los documentos relativos al ejercicio de su función y aquellos que le correspondan al Instituto por facultades o suplencia de la Dirección General.
-
-XX. Mantener permanentemente informado al Director general de las actividades realizadas, y
-
-XXI. Las demás que se requieran para cumplir con las anteriores y las que se deriven del presente Reglamento Interior, así como las que dentro de la esfera de su competencia le sean asignadas expresamente por el Director General del Instituto.
-
-### CAPÍTULO VIII. DEL COMISARIO PÚBLICO
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 37º.
 
-El Instituto contará con un Comisario Público que será un propietario y un suplente, designado por la Contraloría, el cual evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría le asigne específicamente conforme a las leyes.
+Las funciones de vigilancia del Instituto estarán a cargo de los Comisarios Públicos Oficial y Ciudadano, designado por la Contraloría, los cuales ejercerán las funciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y demás disposiciones legales aplicables, sin perjuicio de las tareas que la Dependencia antes mencionada le asigne específicamente, el Manual del Comisario Público y demás lineamientos que en la materia se expida.
+
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 38º.
 
-La Junta Directiva y el Director General del Instituto, deberán proporcionar oportunamente al Comisario Público, la Información y documentación que requieran para el debido cumplimiento de sus funciones.
+La Junta Directiva y demás dependientes jerárquicos de ésta, en su caso, deberán proporcionar oportunamente al Comisario Público, la Información y documentación que requiera para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 39º.
 
-El Comisario Público del Instituto, asistirá con voz, pero sin voto a las sesiones ordinarias y extraordinarias de la Junta.
+El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se le formule y notifique con cinco días de anticipación asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias de la Junta Directiva.
+
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 40º.
 
-El Comisario Público designado, además de las atribuciones señaladas en los artículos anteriores, tendrá las siguientes:
-
-I. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de Control y evaluación gubernamental.
-
-II. Vigilar la debida integración y funcionamiento de los Órganos de Gobierno del Instituto.
-
-III. Rendir anualmente a la Junta, un informe sobre los estados financieros, con base en el Dictámen del Auditor Externo.
-
-IV. Solicitar y verificar que se incluyan en el Órden del día de las sesiones de la Junta del Instituto, los asuntos que considere necesarios; y
-
-V. Las demás inherentes a su función y que le señale la Contraloría, en el ámbito de su competencia.
+En las ausencias del Comisario Público titular, este será suplido por el Comisario Público Oficial designado por la Contraloría.
 
 ### CAPÍTULO IX. DE LAS RELACIONES LABORALES
 
@@ -702,9 +758,11 @@ El Instituto, para el logro de su objeto, estará integrado por trabajadores de 
 
 En el Instituto los trabajadores de confianza lo serán: el Director General, Directores y Subdirectores de Área, Jefes y Subjefes de Departamento, Delegados, Subdelegados y Coordinadores, el personal de apoyo técnico a los servidores públicos anteriores y en general todo aquel que realice funciones de dirección, impresión, investigación, supervisión, vigilancia, fiscalización.
 
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 43º.
 
-La relación de trabajo entre el Instituto y sus trabajadores, se regirá por lo dispuesto en el artículo 123 Constitucional y su Ley Reglamentaria.
+La relación de trabajo entre el Instituto y sus trabajadores, se regirá por lo dispuesto en el Apartado “A” del Artículo 123 Constitucional y su Ley Reglamentaria.
 
 DE LA SUPLENCIA DE FUNCIONARIOS
 
@@ -724,38 +782,58 @@ PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de
 
 SEGUNDO.- En el transcurso de un año, a partir del inicio de la vigencia del presente Reglamento Interior, deberá integrarse los Manuales de Organización, de Puestos y de Procedimientos del Instituto.
 
-INSTITUTO SONORENSE DE EDUCACIÓN PARA ADULTOS
+> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
-(ORGANIGRAMA ESTRUCTURAL)
+INSTITUTO SONORENSE DE EDUCACIÓN PARA LOS ADULTOS
 
-Junta Directiva
+ORGANIGRAMA ESTRUCTURAL
 
-Dirección General
+Junta
 
-Órgano de Control Asesor Jurídico
+Directiva
 
-Interno
+Director
 
-Unidad de Promoción Comité Interno de
+General
 
-y Difusión Administración y
+Unidad
 
-Planeación
+Jurídica Comité Interno
 
-Unidad de Vinculación Comité de Adquisiciones
+de Administración
 
-y Concertación Arrendamientos y
+Unidad de y Planeación
 
-Servicios
+Promoción
 
-Dirección Dirección Dirección Dirección Dirección de
+y Difusión Comité de
 
-de Servicios de Acredita- de Planea- de Adminis- Informática
+Adquisiciones,
 
-Educativos ción y Certi- ción y tración y
+Unidad de Arrendamientos
+
+Vinculación y y Servicios
+
+Concertación
+
+Patronato para
+
+Unidades la Educación de
+
+Regionales de los Adultos
+
+Apoyo
+
+Dirección Dirección Dirección Dirección Dirección Coordina-
+
+de Servicios de Acredita- de Planea- de Adminis- de Informá- ciones de
+
+Educativos ción y Certi- ción y tración y tica Zona (12)
 
 ficación Evaluación Finanzas
 
-Unidades Regionales Coordinaciones
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-de Apoyo de Zona
+B.O. 6 DE OCTUBRE DE 2005.
+
+Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
