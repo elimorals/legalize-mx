@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-09-29"
+last_updated: "2005-10-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE OCTUBRE DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -227,7 +227,9 @@ VIII.- OCTAVO CIRCUITO:
 
 IX.- NOVENO CIRCUITO:
 
-1.- Dos tribunales colegiados con residencia en San Luis Potosí.
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 40/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2005)</small>
+
+1.- Tres tribunales colegiados con residencia en San Luis Potosí.
 
 2.- Un tribunal unitario con sede en San Luis Potosí.
 
@@ -309,9 +311,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 33/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 40/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2005)</small>
 
-1.- Seis Tribunales Colegiados, cinco con residencia en Guanajuato y uno con sede en León.
+1.- Cinco tribunales colegiados con residencia en Guanajuato.
 
 2.- Dos tribunales unitarios con sede en Guanajuato.
 
@@ -515,9 +517,9 @@ En relación con los tribunales unitarios con residencia en Mexicali será igual
 
 En cuanto a los tribunales unitarios con residencia en Tijuana será la misma que la establecida para los juzgados de distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
 
-XVI.- DECIMOSEXTO CIRCUITO: Respecto de los tribunales colegiados con residencia en Guanajuato, su jurisdicción territorial será el Estado de Guanajuato y tendrán conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo que se originen en los juzgados de distrito en el Estado de Guanajuato, con sede en la ciudad del mismo nombre y en los juzgados de distrito con residencia en Celaya.
+> <small>(REFORMADA POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 40/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2005)</small>
 
-En cuanto al tribunal colegiado con residencia en León, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo, que se originen en los juzgados de distrito en el Estado de Guanajuato, con residencia en León.
+XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
 
 > <small>(REFORMADA POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
 
@@ -1472,3 +1474,11 @@ D.O.F. 29 DE SEPTIEMBRE DE 2005.
 PRIMERO.- Este acuerdo entrará en vigor el dos de octubre de dos mil cinco.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 7 DE OCTUBRE DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
