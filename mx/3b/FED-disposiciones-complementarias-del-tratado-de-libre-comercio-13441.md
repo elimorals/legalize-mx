@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-09-30"
+last_updated: "2005-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,51 +18,27 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE MODIFICA EL DIVERSO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DA A CONOCER EL ANEXO 2005, QUE ESTABLECE LAS REGLAS DE ASIGNACION DEL MONTO DEL REMANENTE DEL CUPO MINIMO DE IMPORTACION TLCAN PARA 2005, DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS, PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2006, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
-
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2005.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de octubre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Fernando DE JESUS Canales Clariond, Secretario de Economía, con fundamento en los artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracción I inciso c); artículo 4 de la Ley Federal de Procedimiento Administrativo; 17 al 22 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía,
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal, 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que la industria azucarera es una actividad de alto impacto social por su producción y por el empleo que crea en el campo mexicano; que el azúcar es un artículo de consumo necesario y constituye un elemento básico para la alimentación de la población de bajos ingresos por su alto contenido energético; y que las actividades relacionadas con la producción de azúcar, la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, son de interés público;
+Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, y sus reformas del 5 de agosto y 1o. de diciembre de 2004;
 
-Que dada la grave crisis que enfrentó la industria azucarera, el 3 de septiembre de 2001 el Ejecutivo Federal determinó expropiar 27 ingenios azucareros publicando al efecto, los días 3 y 10 de septiembre de 2001, en el Diario Oficial de la Federación, el Decreto por el que se expropian por causa de utilidad pública, a favor de la Nación, las acciones, los cupones y/o los títulos representativos del capital o partes sociales de las empresas que adelante se enlistan;
+Que para dar cabal cumplimiento a los compromisos comerciales adquiridos por nuestro país bajo el Tratado de Libre Comercio con América del Norte entre los Estados Unidos Mexicanos, Estados Unidos de América y Canadá, es menester publicar en el Diario Oficial de la Federación el saldo disponible del cupo mínimo negociado de maíz;
 
-Que las causas de utilidad pública en las que se fundamentó dicha expropiación se refieren a la satisfacción de necesidades colectivas vinculadas al abastecimiento de las ciudades o centros de población, de víveres u otros artículos de consumo necesario; a la defensa, conservación y desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación; la creación, fomento o conservación de una empresa para beneficio de la colectividad; así como la preservación del interés público que corresponde a la siembra, cultivo, cosecha y la industrialización de la caña de azúcar;
+Que en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005, se establece que el Ejecutivo Federal creará una reserva de cuota mínima para cubrir los requerimientos de importación de maíz blanco para el segundo semestre de 2005; la cual, para estar etiquetada por los consumidores de esta variedad específica de grano, no interferirá con la asignación de las cuotas adicionales para los solicitantes de cupo de maíz amarillo;
 
-Que de la industria azucarera dependen más de dos millones de mexicanos, ya que genera empleos tanto en el campo como en las factorías dedicadas al procesamiento de la caña de azúcar;
+Que en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005 se establece que para maíz blanco las cuotas mínimas y adicionales serán autorizadas sólo en caso comprobado de desabasto existente o previsible, acreditado por el Ejecutivo Federal y en consulta con el Sistema-Producto Maíz y de acuerdo a la metodología que determine la Secretaría de Economía y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en consulta con las comisiones correspondientes del Consejo Mexicano de Desarrollo Rural Sustentable, y con el compromiso de informar al respecto al Congreso de la Unión y aplicando los criterios de asignación en función de los compromisos de adquisición de cosechas nacionales a precio competitivo y calidad, según la norma oficial o la convenida entre las partes, bajo el esquema de Ingreso Objetivo, conforme a las siguientes condiciones, cuyo propósito es promover el encadenamiento productivo, a fin de apoyar el mercado interno y sustituir importaciones, y
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que los Estados Unidos de América se han negado a dar cumplimiento a las condiciones de acceso al azúcar mexicano en los términos establecidos en el anexo 703.2 del TLCAN y ha restringido las importaciones de azúcar mexicano más allá de lo dispuesto en el tratado;
-
-Que ante el incumplimiento de los Estados Unidos de América la situación de la industria azucarera nacional se ha visto seriamente amenazada toda vez que la participación de la fructosa en el mercado mexicano desplaza azúcar que al no encontrar salida al mercado de los Estados Unidos de América por las restricciones que este país mantiene, deprime y desestabiliza el mercado mexicano;
-
-Que el 13 de marzo de 1998 México inició un procedimiento de solución de controversias conforme al capítulo 20 del TLCAN, mediante la presentación de una solicitud de consultas de acuerdo con el artículo 2006 del tratado. Las consultas se llevaron a cabo el 15 de abril de ese mismo año, pero no se logró resolver la controversia. México solicitó entonces una reunión de la Comisión de Libre Comercio conforme al artículo 2007 del tratado mediante solicitud del 13 de noviembre de 1998. La Comisión de Libre Comercio se reunió el 17 de noviembre de 1999, pero tampoco se logró resolver la disputa. En consecuencia, México solicitó el establecimiento de un panel arbitral de acuerdo con el artículo 2008, por solicitud presentada el 17 de agosto de 2000. Sin embargo, los Estados Unidos de América se han negado a aceptar los panelistas designados por México y a nombrar a los que le corresponden no obstante que la solicitud de México está vigente y pese a los continuos esfuerzos que ha realizado, los Estados Unidos de América lo han hecho con pleno conocimiento del impacto que las restricciones que impuso tendrían en el mercado mexicano durante el periodo de transición establecido en el anexo 703.2 del TLCAN;
-
-Que durante todo este tiempo México ha hecho esfuerzos de buena fe por lograr una solución negociada, pero tampoco ha sido posible alcanzarla;
-
-Que en tales circunstancias, las normas del derecho internacional permiten que el país agraviado adopte medidas apropiadas para hacer frente a la situación y en particular contramedidas orientadas a lograr el cumplimiento del Estado infractor. De forma similar, la Convención de Viena sobre el Derecho de los Tratados, publicada en el Diario Oficial de la Federación el 14 de febrero de 1975 permite a las autoridades mexicanas adoptar medidas ante violaciones graves de otro Estado al derecho internacional;
-
-Que la finalidad de tales medidas es también restablecer el equilibrio que se negoció en el TLCAN en el sector de los edulcorantes, mediante la suspensión de concesiones otorgadas a las importaciones de jarabe de maíz con alto contenido de fructosa;
-
-Que México continúa dispuesto a lograr una solución integral, mutuamente aceptable con los Estados Unidos de América;
-
-Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003 del Impuesto General de Importación para las mercancías originarias de América del Norte que establece en su artículo segundo transitorio que de conformidad con los derechos y obligaciones internacionales de México, a partir del 1 de enero de 2003, la importación de mercancías originarias de los Estados Unidos de América libres de arancel comprendidas en las fracciones arancelarias 1702.40.99, 1702.50.01, 1702.60.01, 1702.60.02 y 1702.60.99 estarán sujetas a un permiso de importación que se otorgará en los términos y condiciones que establezca la Secretaría de Economía mediante acuerdo publicado en el Diario Oficial de la Federación, según las disposiciones legales aplicables;
-
-Que el 20 de marzo de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo que establece los criterios para otorgar permisos previos por parte de la Secretaría de Economía a las importaciones definitivas de fructosa originarias de los Estados Unidos de América;
-
-Que sin perjuicio de los derechos de México conforme a las normas del derecho internacional, en virtud de que los Estados Unidos de América otorgaron acceso a 250 mil toneladas métricas de azúcar originaria de los Estados Unidos Mexicanos a su territorio, con el ánimo de establecer un clima que favorezca la posibilidad de llegar a una solución integral que resuelva la controversia bilateral en materia de edulcorantes se ha decidido otorgar un acceso recíproco a las importaciones de fructosa originarias de los Estados Unidos de América, y
-
-Que la Comisión de Comercio Exterior conforme al procedimiento previsto en la Ley de la materia, ha emitido opinión sobre esta medida, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE MODIFICA EL DIVERSO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DA A CONOCER EL ANEXO 2005, QUE ESTABLECE LAS REGLAS DE ASIGNACION DEL MONTO DEL REMANENTE DEL CUPO MINIMO DE IMPORTACION TLCAN PARA 2005, DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
 ###### ARTICULO 1o.
 
@@ -102,33 +78,27 @@ El incremento para 2005 al cupo mínimo determinado en el Acuerdo por el que se 
 
 ###### ARTICULO UNICO.
 
-Se modifica el artículo 2o. del Acuerdo por el que se que establecen los criterios para otorgar permisos previos por parte de la Secretaría de Economía, a las importaciones definitivas de fructosa originarias de los Estados Unidos de América, publicado en el Diario Oficial de la Federación el 20 de marzo de 2003, para quedar en los siguientes términos:
+Se da a conocer el anexo 2005 que establece las Reglas de Asignación del monto del remanente del cupo mínimo de importación TLCAN para 2005, del Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, como a continuación se indica:
 
-“ARTICULO 2o.- La autorización de los permisos previos que se tramiten ante la Secretaría de Economía, para la importación definitiva de las mercancías originarias de los Estados Unidos de América comprendidas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.01, 1702.60.02 y 1702.60.99, durante el periodo del 1 de octubre de 2005 al 30 de septiembre de 2006, se realizará conforme a los criterios siguientes:
+Podrán solicitar la asignación del monto del remanente del cupo mínimo de importación TLCAN, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que utilicen maíz, excepto para siembra, como insumo en sus procesos productivos y se encuentren en operación, conforme a lo siguiente:
 
-PRIMERO: La Secretaría de Economía autorizará permisos previos hasta por un volumen global de 250,000 (Doscientos cincuenta mil) toneladas métricas, durante el periodo del 1 de octubre de 2005 al 30 de septiembre de 2006.
+I. Maíz blanco: Las personas físicas o morales de las industrias harinera y molinera de nixtamal, conforme a los siguientes criterios:
 
-SEGUNDO: Podrán solicitar la autorización de permisos previos, los promoventes que pretendan importar fructosa de aquellas empresas exportadoras estadounidenses a las cuales el gobierno de los Estados Unidos de América, a través de la entidad que designe, les haya distribuido montos de exportación de fructosa. Para ello, el promovente deberá incluir en el campo 23 de la solicitud (datos complementarios) el nombre de la empresa exportadora estadounidense de la que importará la mercancía, así como copia de los documentos que sustenten la transacción comercial.
+Se asignará maíz blanco, tomando en cuenta el desabasto existente o previsible que conjuntamente la Dirección General de Industrias Básicas y la Dirección General de Desarrollos de Mercados de ASERCA/SAGARPA, determinen en los estados de: Baja California, Coahuila, Chihuahua, Chiapas, Nuevo León, Tamaulipas, Veracruz y Yucatán.
 
-TERCERO: El gobierno de los Estados Unidos de América, a través de la entidad que designe, notificará a la Secretaría de Economía la lista de las empresas exportadoras estadounidenses a las que les haya distribuido los montos de exportación de fructosa, dentro de los 5 días siguientes a la entrada en vigor del presente Acuerdo.
+Para la asignación de maíz blanco se considerarán los consumos (1) auditados anuales de 2004 (enero-diciembre) de las plantas ubicadas en los estados antes señalados. La Dirección General de Industrias Básicas y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA informarán a la Dirección General de Comercio Exterior el resultado del análisis de desabasto previsible o existente de maíz blanco.
 
-CUARTO: Los promoventes deberán presentar la solicitud de permiso previo de importación definitiva en la Representación Federal de la Secretaría de Economía de su localidad según corresponda, utilizando el formato “Solicitud de Permiso Importación o Exportación y de Modificaciones” (SE-03-018), el cual estará a disposición de los interesados en las Representaciones Federales de la Secretaría o en la página de internet de la Comisión Federal de Mejora Regulatoria, en la dirección www.cofemer.gob.mx.
+La respuesta de la Dirección General de Desarrollo de Mercados, deberá considerar lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el año Fiscal 2005.
 
-QUINTO: La autorización se realizará a través de la Dirección General de Comercio Exterior, considerando los criterios segundo y tercero de este artículo.
+El periodo de recepción de solicitudes de asignación de maíz blanco será de diez días hábiles a partir de la entrada en vigor del presente instrumento. La hoja de requisitos específicos que deberán presentar los solicitantes, se establecen como anexos en el Acuerdo publicado el 31 de diciembre de 2003.
 
-SEXTO: Los permisos previos de importación definitiva, tendrán una vigencia máxima de treinta días naturales contados a partir del día de su autorización, pero no más allá del 30 de septiembre de 2006.
+La vigencia de los certificados será hasta el 31 de diciembre de 2005, salvo en el caso de Chiapas, cuya vigencia será del 1 de noviembre al 15 de diciembre de 2005.
 
-SEPTIMO: El volumen por promovente que, en su caso, se otorgue, en ningún caso podrá ser mayor a 10,000 (diez mil) toneladas métricas.
+(1) (Los consumos anuales auditados a los que se refieren los criterios de asignación, son aquellos que presentaron las empresas solicitantes para la primera asignación de este año; excluye los consumos de maíz blanco, realizados bajo los programas de importación temporal, Regla octava, etc.)
 
-Los permisos subsecuentes se otorgarán cuando:
+La asignación será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Industrias Básicas haya recibido de la Dirección General de Comercio Exterior para su dictamen, las solicitudes debidamente requisitadas.
 
-i) La empresa haya importado totalmente el volumen autorizado en el permiso previo de importación definitiva inmediato anterior, o
-
-ii) La vigencia del permiso previo de importación definitivo inmediato anterior haya vencido.
-
-OCTAVO: La Secretaría de Economía concluirá la autorización de los permisos previos cuando el monto determinado en el criterio primero arriba señalado se haya agotado. Los montos de los permisos que no hayan sido utilizados podrán ser considerados dentro del monto disponible para el remanente a distribuir.
-
-NOVENO: La Dirección General de Industrias Básicas en coordinación con la Subsecretaría de Negociaciones Comerciales Internacionales de la Secretaría de Economía, realizarán una vigilancia permanente de las operaciones de comercio exterior que se realicen al amparo de los permisos previos autorizados y podrán ser consultados sobre la interpretación de los criterios en este artículo por parte de la Dirección General de Comercio Exterior.”
+En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben de sujetarse los beneficiarios.
 
 ### CAPITULO I - DISPOSICIONES GENERALES
 
@@ -386,6 +356,6 @@ Las disposiciones del presente Decreto no liberan del cumplimiento de las restri
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de octubre del presente año y concluirá su vigencia el 30 de septiembre de 2006.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 27 de septiembre de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
