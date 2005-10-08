@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-ambiental-del-estado-de-san-luis-46772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-07"
-last_updated: "2005-07-07"
+last_updated: "2005-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI EN MATERIA DE EVALUACION DE IMPACTO AMBIENTAL Y RIESGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 7 de julio de 2005.
 
@@ -965,7 +965,11 @@ IV. En su caso, los proyectos de alternativas de adecuación o modificación al 
 
 Para analizar y resolver las manifestaciones de impacto ambiental y los estudios de riesgo relativos a obras o actividades determinadas como riesgosas, las autoridades competentes deberán ajustar su actuación a los siguientes criterios tendientes a garantizar la integridad del ambiente y de las personas:
 
-I. Las obras o actividades riesgosas no deberán exceder una, por cada dos kilómetros cuadrados;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2005)</small>
+
+I. Las obras o actividades riesgosas no deberán ubicarse una de otra a una distancia de resguardo mínima de 200 metros contados a partir de los límites de la propiedad en cuestión
+
+En el caso de estaciones de servicio denominadas gasolineras, y de establecimiento (sic) dedicados al almacenamiento, manejo, expendio o distribución de gas, se estará a las restricciones y excepciones establecidas en el artículo 145 TER de la Ley de Desarrollo Urbano del Estado de San Luis Potosí.
 
 II. Las obras o actividades no deberán asentarse o desarrollarse en el suelo de conservación, terrenos de recarga de acuíferos, terrenos cavernosos o que hubiesen sido minas de materiales de construcción o sitios vulnerables en función de fallas geológicas, así como en una zona perimetral de trescientos metros en torno a los mencionados elementos;
 
@@ -1236,3 +1240,11 @@ EL SECRETARIO DE ECOLOGÍA Y GESTIÓN AMBIENTAL
 ING. RODOLFO ARTURO TREVIÑO HERNÁNDEZ
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la entrada en vigor del presente decreto.
