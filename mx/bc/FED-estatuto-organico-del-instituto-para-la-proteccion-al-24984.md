@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-24984"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-06-14"
-last_updated: "2004-12-22"
+last_updated: "2005-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-06-12"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 10 DE OCTUBRE DE 2005, HA SIDO ABROGADO EL PRESENTE ESTATUTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Estatuto publicado en la Primera sección del Diario oficial de la Federación el viernes 14 de junio de 2002.
 
@@ -1260,3 +1262,11 @@ D.O.F. 22 DE DICIEMBRE DE 2004.
 PRIMERO.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se abrogan las disposiciones contrarias a las presentes, contenidas en el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 14 de junio de 2002 en el Diario Oficial de la Federación, así como sus reformas publicadas el 2 de abril de 2004 en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Estatuto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario publicado en el Diario Oficial de la Federación el 14 de junio de 2002, actualizado mediante acuerdos por los que se reforman y adicionan diversas disposiciones publicadas en el Diario Oficial de la Federación el 2 de abril de 2004 y 22 de diciembre de 2004.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
