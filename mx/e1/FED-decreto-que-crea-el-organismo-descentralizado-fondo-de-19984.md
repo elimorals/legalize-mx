@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-crea-el-organismo-descentralizado-fondo-de-19984"
 country: "mx"
 rank: "decreto"
 publication_date: "1994-07-26"
-last_updated: "1994-07-26"
+last_updated: "2005-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-07-25"
 
 DECRETO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONOMICA Y SE ORDENA LA DISOLUCION Y LIQUIDACION DE LA EMPRESA DE PARTICIPACION ESTATAL MAYORITARIA DEL MISMO NOMBRE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2005.
 
 Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -117,9 +117,23 @@ IV. Disponer oportunamente de información sobre el cumplimiento de planes, prog
 
 V. Llevar a cabo todos los actos y desempeñar todas las funciones que resulten necesarios para el cumplimiento de los fines del organismo descentralizado y las demás que le confieran las leyes y ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 9o.
 
-El Director General será designado por el Presidente de la República, o a indicación de éste a través de la coordinadora de sector, por la Junta Directiva, y tendrá, además de las previstas en el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes facultades y obligaciones:
+El Director General del Fondo de Cultura Económica será designado por el Presidente de la República, o a indicación de éste a través de la coordinadora de sector, por la Junta Directiva.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+
+Para los efectos de lo dispuesto en el párrafo anterior la Junta Directiva aportará al Presidente de la República la información que se juzgue pertinente.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+
+El Director General durará en su cargo cinco años y podrá ser ratificado por un periodo igual.
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+
+Además de las previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, el Director General tendrá las facultades siguientes:
 
 I. Celebrar y otorgar toda clase de actos y documentos relativos a las actividades del organismo;
 
@@ -133,11 +147,23 @@ V. Otorgar, suscribir, avalar o en cualquier forma negociar con títulos de cré
 
 VI. Las demás que le confieran el Estatuto Orgánico, las leyes y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 10.
 
-El Fondo de Cultura Económica contará con un órgano de vigilancia integrado por un comisario público propietario y su suplente, designados por la Secretaría de la Contraloría General de la Federación, quien evaluará el desempeño del organismo y realizará estudios sobre eficacia de los desembolsos de gasto corriente e inversión, así como en lo referente a los ingresos.
+El Fondo de Cultura Económica contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes tendrán a su cargo las atribuciones que les confiere la Ley Federal de las Entidades Paraestatales, su Reglamento y las demás disposiciones aplicables.
 
-Asimismo contará con un órgano interno de control que será parte integrante de su estructura y tendrá por objeto apoyar la función directiva y promover el mejoramiento de la gestión del organismo.
+El Comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 10 BIS.- El Fondo de Cultura Económica contará con una contraloría interna, órgano interno de control, al frente de la cual habrá un Contralor Interno, Titular del órgano interno, designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas designados en los mismos términos.
+
+Los servidores públicos a que se refiere el párrafo anterior, ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 66 y 67 del Reglamento Interior de la Secretaría de la Función Pública.
+
+Las ausencias del Contralor Interno, así como las de sus titulares de las áreas de responsabilidades, auditoría y quejas serán suplidas conforme a lo dispuesto por el artículo 75 del Reglamento Interior de la Secretaría de la Función Pública.
+
+El Fondo de Cultura Económica proporcionará al titular del órgano interno de control los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la entidad estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus facultades.
 
 ###### ARTICULO 11.
 
@@ -164,3 +190,11 @@ SEXTO.- Se deroga el acuerdo por el que la Secretaría de Programación y Presup
 SEPTIMO.- Salvo que exista impedimento legal para ello, el proceso de transferencia del patrimonio y disolución y liquidación antes señalado, no deberá exceder de seis meses contados a partir de la entrada en vigor de este Decreto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México Distrito Federal, a los veinticinco días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.- El Secretario de Desarrollo Social, Carlos Rojas.- Rúbrica.- La Secretaria de la Contraloría General de la Federación, María Elena Vázquez Nava.- Rúbrica.- El Secretario de Educación Pública, José Angel Pescador Osuna.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal hará el nombramiento del Director General en un plazo no mayor a sesenta días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación. Dicho nombramiento podrá recaer en la actual titular de la entidad, en cuyo caso la designación será por el término de cinco años improrrogables.
