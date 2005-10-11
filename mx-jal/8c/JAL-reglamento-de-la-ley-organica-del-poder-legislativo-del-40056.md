@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2005-06-30"
+last_updated: "2005-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -687,7 +687,9 @@ II. A juicio del Presidente de la Comisión y con acuse expreso de aceptación d
 
 ###### Artículo 82.
 
-1. A solicitud de un integrante de la comisión, con causa justificada que será resuelta con la aprobación de la mayoría de los miembros, se podrán suspender los trabajos de una reunión, aun sin estar agotado (sic) la orden del día; y se deberá aprobar por mayoría fecha y hora para su reanudación.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2005)</small>
+
+1. A solicitud de un integrante de la comisión, con causa justificada que será resuelta con la aprobación de la mayoría de los miembros, se podrán suspender los trabajos de una reunión, aun sin estar agotado (sic) la orden del día; decretando un receso, y se deberá aprobar por mayoría fecha y hora para su reanudación la cual no podrá exceder de cinco días hábiles. En caso de que la causa de la suspensión amerite un plazo mayor al señalado en este párrafo para su reanudación, este podrá ser aprobado por mayoría calificada de los miembros de la comisión.
 
 2. En el caso de que estuviera por iniciar una sesión de Asamblea, el presidente de la comisión deberá suspender los trabajos, y fijar fecha y hora para reanudar la reunión, siempre que no interfiera con otra sesión plenaria.
 
@@ -2058,3 +2060,7 @@ P.O. 30 DE JUNIO DE 2005.
 PRIMERO. La Dirección de Biblioteca, Archivo y Editorial del Congreso del Estado de Jalisco, elaborará y presentará al Pleno del Congreso, el manual para alimentar y consultar el Sistema de Información de Publicaciones en un plazo no mayor de 30 días hábiles a partir de la entrada en vigor del presente decreto.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
