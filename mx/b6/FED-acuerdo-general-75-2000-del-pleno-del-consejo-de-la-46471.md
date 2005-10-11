@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2000-del-pleno-del-consejo-de-la-46471"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2004-06-23"
+last_updated: "2005-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 75/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -603,17 +603,23 @@ DEFINICION. La licitación pública es el procedimiento a través del cual el Co
 
 Licitación pública nacional es aquélla en la que sólo pueden participar personas de nacionalidad mexicana. Y los bienes a adquirir deben contar por lo menos con un cincuenta por ciento de integración nacional, salvo en los casos en que dicho porcentaje no sea exigible de acuerdo a las reglas emitidas por la Secretaría de Comercio y Fomento Industrial. Tratándose de obra pública, en las licitaciones de carácter nacional únicamente pueden participar contratistas de nacionalidad mexicana.
 
-En la licitación pública internacional, podrán participar proveedores o contratistas de cualquier nacionalidad, otorgándoseles el mismo trato que a los nacionales.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 38/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2005)</small>
 
-Se convocará preferentemente a licitación nacional y solamente cuando se presente alguno de los supuestos que a continuación se indican se convocará a licitación internacional:
+Licitación pública nacional es aquella en la que sólo pueden participar personas de nacionalidad mexicana.
 
-I. Cuando no exista oferta en cantidad o calidad de proveedores nacionales, previa investigación de mercado que se realice;
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 38/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2005)</small>
 
-II. Cuando los contratistas nacionales no cuenten con la capacidad para la ejecución de la obra de que se trate;
+En el caso de que los bienes seleccionados para adjudicación estén constituidos por más de un ochenta por ciento de materiales no nacionales, deberá establecerse en las bases y en el dictamen correspondiente, que el proveedor se compromete a garantizar la suficiencia de refacciones, accesorios y servicio para que esos bienes se mantengan en utilidad y funcionamiento por, al menos, cinco años.
 
-III. Cuando resulte conveniente para el Consejo en términos de precio; y,
+Tratándose de obra pública únicamente podrán participar contratistas de nacionalidad mexicana.
 
-IV. En los demás casos en que así lo determine el Comité.
+l. Cuando no exista oferta en cantidad o calidad de proveedores nacionales, previa investigación de mercado que se realice;
+
+ll. Cuando los contratistas nacionales no cuenten con la capacidad para la ejecución de la obra de que se trate;
+
+lll. Cuando resulte conveniente para el Consejo en términos de precio; y,
+
+lV. En los demás casos en que así lo determine el Comité.
 
 ###### ARTICULO 45.
 
@@ -1167,7 +1173,7 @@ INFORME DEL AJUSTE. Cuando ocurran circunstancias no previstas en el contrato qu
 
 RECEPCION Y VERIFICACION DE LOS SERVICIOS. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, serán las responsables de la recepción de los bienes y de los servicios prestados, por lo que verificarán que cumplan con las especificaciones establecidas en el contrato respectivo.
 
-> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004, D.O.F. 23 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 91.
 
@@ -1484,3 +1490,9 @@ TERCERO.- Los procedimientos de adjudicación en materia de obra pública y serv
 CUARTO.- Las áreas operativas y la Dirección General de Asuntos Jurídicos, propondrán al Comité, por conducto del Secretario Ejecutivo, dentro de un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Acuerdo, la actualización de los modelos a que se refiere la fracción IX del artículo 21 de este Acuerdo.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 11 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese el presente Acuerdo General, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- El presente Acuerdo General, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
