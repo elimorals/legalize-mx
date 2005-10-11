@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2005-06-30"
+last_updated: "2005-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -433,7 +433,7 @@ II. Abrir, prorrogar, suspender, declarar recesos y clausurar las sesiones del C
 
 III. Cuidar que los diputados y el público asistente a las sesiones, observen el debido orden y comportamiento;
 
-IV. Dar curso a los asuntos en términos de la normatividad aplicable y determinar los tramites que deban recaer sobre las cuestiones con que se dé cuenta al Pleno;
+IV. Dar curso a los asuntos en términos de la normatividad aplicable y determinar los tramites que deban recaer sobre las cuestiones con que se de cuenta al Pleno;
 
 V. Proponer a la Asamblea, el orden que corresponda a los asuntos que se presenten en las sesiones, señalando la distribución de los asuntos que se agenden en la misma, para que lo apruebe o lo modifique. En casos de obvia y urgente resolución en los que el Congreso del Estado tenga que tomar alguna determinación, el Presidente a propuesta de alguno de los diputados, puede modificar el orden de los asuntos o dispensar lecturas, previa aprobación de la Asamblea;
 
@@ -653,7 +653,7 @@ I. Funcionan en el área legislativa las siguientes direcciones:
 
 a) Dirección de Procesos Legislativos; es la responsable de la planeación y programación técnica de la (sic) sesiones; de la asistencia a la Mesa Directiva para el desarrollo de las sesiones; así como la realización de minutas y su remisión y la trascripción (sic) en el "Diario de los Debates";
 
-b) Dirección de Asuntos Jurídicos y Dictamen Legislativo, es la responsable de dar soporte jurídico en los asuntos legales del que sea parte el Congreso, así como apoyo, a petición de las comisiones para la realización del contenido jurídico de los dictámenes;
+b) Dirección de Asuntos Jurídicos y Dictamen Legislativo, es la responsable de dar soporte jurídico en los asuntos legales de que sea parte el Congreso, así como apoyo, a petición de las comisiones para la realización del contenido jurídico de los dictámenes;
 
 c) Dirección de Biblioteca, Archivo y Editorial, es la responsable de salvaguardar el acervo histórico del Congreso del Estado, así como brindar el servicio de consulta pública del mismo;
 
@@ -675,7 +675,7 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 (ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
 
-3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando lo estime pertinentes.
+3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando lo estime pertinente.
 
 ###### Artículo 51.
 
@@ -1522,6 +1522,10 @@ III.- Se trate de acuerdos legislativos, que se dictaminarán dentro de los trei
 1. Las comisiones deben celebrar sesiones cuantas veces sea necesario para el correcto desahogo de las iniciativas turnadas, debiendo celebrar, por lo menos, una sesión al mes.
 
 2. Los Presidentes de cada comisión tienen la responsabilidad de informar a los integrantes de las comisiones, con la antelación que establezca esta ley o las disposiciones reglamentarias, del día, hora y lugar en que se celebran las reuniones de comisión.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2005)</small>
+
+La mayoría de los vocales de una comisión pueden convocar a sesión con las formalidades establecidas en el artículo 76 del Reglamento, cuando el presidente de la misma no lo haga en los términos que señala el párrafo primero de éste artículo y previo requerimiento de los vocales no atendido en los 2 días hábiles posteriores. En caso de que el presidente no asista a la sesión convocada se nombrará a uno de los integrantes a fin de que presida la sesión con las atribuciones legales correspondientes.
 
 ###### Artículo 115.
 
@@ -2604,3 +2608,7 @@ P.O. 26 DE ABRIL DE 2005.
 P.O. 30 DE JUNIO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
