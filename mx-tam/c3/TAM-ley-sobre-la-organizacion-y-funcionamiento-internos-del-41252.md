@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2004-07-22"
+last_updated: "2005-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -973,7 +973,9 @@ e) Sobrevenga la muerte del representante popular.
 
 1. El Congreso del Estado celebrará cuantas sesiones requiera para el oportuno despacho de los asuntos de su competencia, pero normalmente lo hará los miércoles de cada semana durante el período ordinario de sesiones.
 
-2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las once horas, salvo disposición específica del presidente de la Mesa Directiva. Se procurará que su duración no sea mayor de cinco horas, pero el presidente de la Mesa Directiva, con base en la propuesta de la Junta de Coordinación Política, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las once horas, salvo disposición específica del presidente de la Mesa Directiva, en cuyo caso se hará previamente del conocimiento de los integrantes del Pleno por conducto de los servicios técnicos correspondientes. Se procurará que su duración no sea mayor de cinco horas, pero el presidente de la Mesa Directiva, con base en la propuesta de la Junta de Coordinación Política, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
 
 ###### ARTICULO 79.
 
@@ -2042,3 +2044,11 @@ El Instituto de Investigaciones Parlamentarias y sobre las Finanzas Públicas, l
 En todo caso se otorgará prioridad a la creación y funcionamiento del Instituto.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Victoria, Tam., a 6 de julio de 2004.-DIPUTADO PRESIDENTE.-PEDRO ALONSO PEREZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.- DIPUTADA SECRETARIA.- MARIA LETICIA TERAN RODRÍGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
