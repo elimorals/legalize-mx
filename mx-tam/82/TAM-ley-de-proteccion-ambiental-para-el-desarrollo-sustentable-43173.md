@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-ambiental-para-el-desarrollo-sustentable-4317
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2004-12-29"
+last_updated: "2005-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 12 DE OCTUBRE DE 2005
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -137,7 +137,9 @@ v) Residuos sólidos urbanos: Remanentes generados en las casas habitación, que
 
 w) Ruido: Todo sonido estridente provocado por cuerpos fijos o móviles, susceptible de causar riesgos o problemas ambientales;
 
-x) Secretaría: Secretaría de Desarrollo Urbano y Ecología;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+x) Secretaría: Secretaría: Secretaría de Obras Públicas, Desarrollo Urbano y Ecología;
 
 y) Sistema de drenaje y alcantarillado urbano o municipal: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales o municipales, pudiendo incluir la captación de aguas pluviales; y
 
@@ -1962,3 +1964,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintinueve días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRIGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
