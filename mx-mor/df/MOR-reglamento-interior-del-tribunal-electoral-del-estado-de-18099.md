@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2004-08-25"
+last_updated: "2005-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -189,9 +189,15 @@ Cuando en las sesiones públicas los asistentes perturben el orden impidiendo el
 
 El acta de sesión contendrá: lugar y fecha, nombre de los Magistrados que asistan, así como del que preside; lo manifestado por los Magistrados que hayan hecho uso de la palabra, votando en pro o en contra de un asunto, concretando lo que hayan expuesto, el texto de los acuerdos firmados, y cerrará el acta el Secretario General dando fe de lo asentado en el libro correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
 ###### ARTÍCULO 18.
 
-Las sesiones del Pleno se realizaran cuantas veces sea necesario para la atención expedita de los asuntos a su cargo, en términos del artículo 13 de este Reglamento.
+Las sesiones del pleno se realizarán en cuantas veces sea necesario para la atención expedita de los asuntos a su cargo, en términos del artículo 13 de este Reglamento.
+
+Los integrantes del pleno vestirán toga en las sesiones públicas plenarias y ceremonias solemnes cuando consideren oportuno hacerlo, y bastará el acuerdo administrativo de los titulares de las ponencias que conforman el tribunal dentro de las 48 horas previas a su realización; el cuál quedará insertado en la convocatoria que corresponda.
+
+La toga magisterial será de seda mate negra, con cuello, vueltas y puños de seda brillante del mismo color.
 
 ###### ARTÍCULO 19.
 
@@ -1394,5 +1400,9 @@ PRIMERO.- La creación de la Unidad de Información Pública y del Consejo de In
 SEGUNDO.- La presente reforma y adición al Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad"
 
 P.O. 25 DE AGOSTO DE 2004.
+
+LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
+
+P.O. 12 DE OCTUBRE DE 2005.
 
 LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
