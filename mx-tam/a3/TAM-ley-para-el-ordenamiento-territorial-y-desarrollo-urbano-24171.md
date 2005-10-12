@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-ordenamiento-territorial-y-desarrollo-urbano-24171"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-25"
-last_updated: "2004-05-27"
+last_updated: "2005-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 25 de octubre de 2001.
 
@@ -255,7 +255,9 @@ LII.- SERVICIOS URBANOS.- Actividades de operación públicas o concesionadas a 
 
 LIII.- SISTEMA ESTATAL DE ORDENAMIENTO TERRITORIAL Y PLANEACIÓN DEL DESARROLLO URBANO.- Conjunto de planes: estatales, sectoriales, regionales, municipales y parciales, aprobados y demás ordenanzas que de ellos emanen;
 
-LIV.- SECRETARÍA.- La Secretaría de Desarrollo Urbano y Ecología del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+LIV.- SECRETARIA.- La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología del Estado;
 
 LV.- SUBDIVISIÓN.- División o partición de un predio menor a diez mil metros cuadrados, del área urbana o urbanizada y que no requiere del trazo de una o más vías públicas;
 
@@ -307,7 +309,9 @@ Son autoridades competentes para la aplicación de esta ley:
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría de Desarrollo Urbano y Ecología del Estado; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+II.- La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología del Estado; y
 
 III.- Los Ayuntamientos, en el ámbito de sus respectivos territorios.
 
@@ -317,7 +321,9 @@ Corresponden al Gobernador del Estado las siguientes atribuciones:
 
 I.- Revisar, aprobar, publicar y ejecutar el Plan Estatal, así como los planes Regionales y Sectoriales que son parte del Sistema Estatal de Ordenamiento Territorial y Planeación del Desarrollo Urbano;
 
-II.- Presidir directamente o a través del Secretario de Desarrollo Urbano y Ecología, el Consejo Estatal de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+II.- Presidir directamente o a través del Secretario de Obras Públicas, Desarrollo Urbano y Ecología, el Consejo Estatal de Desarrollo Sustentable;
 
 III.- Participar en la planeación y regulación de las conurbaciones;
 
@@ -341,9 +347,11 @@ XII.- Promover ante el Congreso del Estado, la fundación de centros urbanos; y
 
 XIII.- Las demás que señalen esta Ley y otras disposiciones jurídicas aplicables.
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2005)</small>
 
-Corresponde a la Secretaría de Desarrollo Urbano y Ecología, las siguientes atribuciones:
+###### Artículo 13.
+
+Corresponde a la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, las siguientes atribuciones:
 
 I.- Coordinar la elaboración, administración, ejecución, control, modificación, actualización y evaluación del Plan Estatal, Sectoriales y Regionales, así como vigilar su cumplimiento;
 
@@ -491,17 +499,23 @@ I.- El Consejo Estatal de Desarrollo Sustentable; y
 
 II.- Los Comités Municipales de Desarrollo Sustentable.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
 
-El Consejo Estatal de Desarrollo Sustentable es el organismo que conocerá de los asuntos sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales puestos a su consideración por el Gobernador del Estado, el Secretario de Desarrollo Urbano y Ecología o los Ayuntamientos, asuntos de los que emitirá su opinión en forma colegiada según el caso, de la cual se levantará el acta correspondiente, en donde aparecerá la aceptación, aprobación u oposición en su caso de cada uno de los asistentes a la reunión que resuelva el caso.
+###### Artículo 17.
+
+El Consejo Estatal de Desarrollo Sustentable es el organismo que conocerá de los asuntos sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales puestos a su consideración por el Gobernador del Estado, el Secretario de Obras Públicas, Desarrollo Urbano y Ecología o los Ayuntamientos, asuntos de los que emitirá su opinión en forma colegiada según el caso, de la cual se levantará el acta correspondiente, en donde aparecerá la aceptación, aprobación u oposición en su caso de cada uno de los asistentes a la reunión que resuelva el caso.
 
 ###### ARTÍCULO 18.
 
 El Consejo Estatal de Desarrollo Sustentable estará formado por:
 
-I.- El Gobernador del Estado, quien la presidirá en forma directa o a través del Secretario de Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
 
-II.- El Secretario de Desarrollo Urbano y Ecología, quién fungirá como Secretario Técnico;
+I.- El Gobernador del Estado, quién lo presidirá en forma directa o a través del Secretario de Obras Públicas, Desarrollo Urbano y Ecología;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+II.- El Secretario de Obras Públicas, Desarrollo Urbano y Ecología, quién fungirá como Secretario Técnico;
 
 III.- El Director General de Desarrollo Regional y Urbano de la Secretaría, quien fungirá como Secretario de Actas;
 
@@ -1800,3 +1814,9 @@ P.O. 27 DE MAYO DE 2004.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
