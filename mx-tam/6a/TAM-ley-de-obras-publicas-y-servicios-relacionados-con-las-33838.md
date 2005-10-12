@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2004-09-14"
+last_updated: "2005-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -83,7 +83,9 @@ XI. Licitante: La persona que participe en cualquier procedimiento de licitació
 
 XII. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas, que regula la Contraloría;
 
-XIII. Secretaría: La Secretaría de Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+XIII. Secretaría: La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología;
 
 XIV. Subcomisión: La Subcomisión para la Licitación de Obras Públicas; y
 
@@ -1300,3 +1302,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
