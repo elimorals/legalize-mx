@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-estatal-de-las-mujeres-24848"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-22"
-last_updated: "2001-12-22"
+last_updated: "2005-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2001.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36 FRACCIONES I Y XXXIX DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y
 
-...
+....
 
 DECRETO 044
 
@@ -49,9 +49,11 @@ LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
 La presente ley es de orden público y de observancia general en todo el Estado de Tabasco, y tiene por objeto la equidad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos de las disposiciones constitucionales y secundarias vigentes.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 2.
 
-Se crea el Instituto Estatal de las Mujeres, como un organismo público descentralizado de la administración pública estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines.
+Se crea el Instituto Estatal de las Mujeres, como un organismo público, descentralizado de la administración pública estatal, con personalidad jurídica, patrimonio propio y autonomía técnica, orgánica, administrativa y de gestión para el cumplimiento de sus atribuciones, objetivos y fines.
 
 ###### Artículo 3.
 
@@ -63,7 +65,9 @@ Ley: La Ley del Instituto Estatal de las Mujeres;
 
 Consejo Directivo: El Consejo Directivo del Instituto Estatal de las Mujeres;
 
-Director General: La persona Titular de la Dirección General del Instituto Estatal de las Mujeres;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+Directora General: La persona Titular de la Dirección General del Instituto Estatal de las Mujeres;
 
 Consejo Consultivo: El Consejo Consultivo del Instituto Estatal de las Mujeres;
 
@@ -125,9 +129,17 @@ XI. Concertar y suscribir acuerdos de colaboración con organismos gubernamental
 
 XII. Implementar programas de atención psicoemocional y jurídicos a mujeres que sufran algún tipo de discriminación y violencia;
 
-XIII. Desarrollar, coordinar y fomentar por sí y en coordinación con otras instancias de la administración pública federal, estatal o municipal, programas de desarrollo en los ámbitos de la educación, cuidado de la salud, atención a la pobreza, mercado laboral, fomento productivo, la mujer y su familia, sus derechos económicos y humanos, participación en la toma de decisiones económicas, políticas, culturales y sociales, combate a la violencia en contra de las mujeres, y
+XIII. Desarrollar, coordinar y fomentar por sí y en coordinación con otras instancias de la administración pública federal, estatal o municipal, programas de desarrollo en los ámbitos de la educación, cuidado de la salud, atención a la pobreza, mercado laboral, fomento productivo, la mujer y su familia, sus derechos económicos y humanos, participación en la toma de decisiones económicas, políticas, culturales y sociales, combate a la violencia en contra de las mujeres, y (sic)
 
-XIV. Gestionar en colaboración con las autoridades encargadas de la procuración y administración de justicia, el respeto de los derechos de las mujeres y niñas victimas en un delito.
+XIV. Gestionar en colaboración con las autoridades encargadas de la procuración y administración de justicia, el respeto de los derechos de las mujeres y niñas victimas en un delito;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+XV.- Supervisar el respeto irrestricto de los derechos humanos de las mujeres en los Centros Penitenciarios y de Readaptación Social en el Estado de Tabasco;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+XVI.- Representar y asesorar legalmente a las mujeres de escasos recursos económicos en los litigios de los que sean parte, a través del departamento Jurídico del Instituto Estatal de las Mujeres.
 
 ###### Artículo 7.
 
@@ -163,9 +175,17 @@ VI. Secretaría de Salud;
 
 VII. Procuraduría General de Justicia del Estado;
 
-VIII. Comisión Estatal de Derechos Humanos; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
 
-IX. Sistema Estatal para el Desarrollo Integral de la Familia.
+VIII. Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+IX. Sistema Estatal para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+X. La titular del Instituto Estatal de las Mujeres.
 
 Podrá formar parte como invitados permanentes u honoríficos, con derecho a voz:
 
@@ -269,7 +289,9 @@ XI. Proporcionar la información que le solicite el órgano de vigilancia del In
 
 XII. Someter al Consejo Directivo el informe anual sobre el desempeño de las funciones del Instituto y darlo a conocer a la sociedad mediante su publicación;
 
-XIII. Asistir a las reuniones ordinarias y extraordinarias del Consejo Directivo, que al respecto se convocare, en las que tendrá derecho a voz, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+
+XIII.- Asistir a las reuniones ordinarias y extraordinarias del Consejo Directivo que al respecto se convocare, en las que tendrá derecho a voz y voto, y
 
 XIV. Las demás que le confiera la presente ley, otras disposiciones de estricta observancia o las derivadas de los acuerdos del Consejo Directivo.
 
@@ -291,9 +313,11 @@ VI. Que no ostente, ni hubiere desempeñado, dos años antes, como mínimo, carg
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO Y DEL CONSEJO SOCIAL DEL INSTITUTO ESTATAL DE LAS MUJERES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 15.
 
-El Consejo Consultivo será el órgano asesor y de apoyo del Instituto, estará integrado por un grupo plural de hasta 25 miembros, de preferencia mujeres, nombrados de la siguiente manera: cinco por los integrantes de la legislatura, a propuesta de la Comisión de Atención a la Mujer y Personas de la Tercera Edad en la Cámara de Diputados; un representante de los Municipios, designado por el Presidente Municipal del área de atención a la mujer, así como por representantes de instituciones académicas de la entidad.
+El Consejo Consultivo será un órgano asesor y de apoyo del Instituto, estará integrado por un grupo plural de veinticinco mujeres, nombradas de la siguiente manera: cinco por las integrantes de la Legislatura a propuesta de la Comisión de Equidad y Género en la Cámara de Diputados; una representante de los municipios designada por el Presidente Municipal, del área de atención a la mujer, así como representantes de instituciones académicas de la entidad propuestas al Consejo Directivo para su designación.
 
 Los integrantes del Consejo Consultivo no serán considerados como servidores públicos del Gobierno del Estado, por lo que sus cargos serán honoríficos; durarán en su encargo dos años, pudiendo permanecer un segundo período.
 
@@ -313,9 +337,11 @@ IV. Apoyar el fortalecimiento de las organizaciones de mujeres y de las que trab
 
 V. Las demás que determine el estatuto orgánico del Instituto, su Reglamento Interior y las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 17.
 
-El Consejo Social será un órgano honorífico de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres en el marco de esta Ley. Éste se integrará por un número no menor de diez ni mayor de veinte mujeres representativas de los sectores público, privado y social, que se hayan distinguido por sus tareas a favor del impulso a la equidad de género, quienes serán propuestas por las organizaciones representativas de defensa de los derechos de las mujeres al Consejo Directivo, para su designación.
+El Consejo Social será un órgano honorífico de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres en el marco de esta ley. Este se integrará por un número de veinte mujeres representativas de los sectores públicos, privados y sociales que se hayan distinguido por sus tareas a favor del impulso a la equidad de género, quienes serán propuestas por las organizaciones representativas de la defensa de los derechos de las mujeres al Consejo Directivo para su designación.
 
 Los integrantes del Consejo Social durarán en su encargo dos años, pudiendo permanecer un segundo período.
 
@@ -440,3 +466,11 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
