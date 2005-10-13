@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-42638
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-10-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2005.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 31 de diciembre de 2004.
 
@@ -871,6 +871,28 @@ cartas geográficas según el valor que se designe
 
 por la Tesorería General del Estado en cada caso.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2005)</small>
+
+C) Suministro a los centros de verificación vehicular,
+
+de Certificados y Hologramas indicativos para acreditar
+
+la verificación vehícular aprobatoria 15.00
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2005)</small>
+
+D) Suministro a los centros de verificación
+
+vehicular de Constancias de Rechazo,
+
+mediante las cuales se haga constar que
+
+el vehículo automotor no cumple con
+
+los límites permisibles de emisiones
+
+contaminantes 5.00
+
 VIII. Del importe de los trabajos efectuados en los talleres propiedad del Estado.
 
 IX. De las utilidades de empresas de participación Estatal; y
@@ -1060,3 +1082,11 @@ PRESIDENTE.- DIP. ARMANDO OCTAVIO BALLINAS MAYÉS.- SECRETARIO.- DIP. AMADEO BOL
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 30 treinta días del mes de diciembre del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
