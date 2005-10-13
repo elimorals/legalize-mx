@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2004-09-18"
+last_updated: "2005-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -794,6 +794,10 @@ Art. 54 bis 6. Las licencias para separarse del cargo de manera voluntaria y tem
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 Art. 54 bis 7. Quedan prohibidas las subvenciones en efectivo o en especie destinadas al disfrute privado del servidor público, así como bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, distintas a las establecidas en la presente ley, ya sea enunciadas como compensaciones, ayudas, bonos o cualquiera otra denominación.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2005)</small>
+
+Art. 54 ter. Los estímulos podrán emanar de los convenios de coordinación que el Ejecutivo Estatal celebre con la Federación, en cuyo caso las reglas para su otorgamiento se determinarán por lo establecido en dichos convenios.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1861,7 +1865,7 @@ La Comisión sesionará ordinariamente por lo menos cada dos meses y extraordina
 
 Para que las sesiones de la Comisión tengan validez, se requiere que exista "quórum" con la asistencia de la mitad más uno de sus miembros, y sus acuerdos serán tomados por mayoría de votos de los asistentes.
 
-> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2019, SE SUPRIME LA FRACCIÓN VI Y SE RECORRERÉ LA SUBSECUENTE FRACCIÓN]</small>
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2001, SE SUPRIME LA FRACCIÓN VI Y SE RECORRERÉ LA SUBSECUENTE FRACCIÓN]</small>
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2288,3 +2292,7 @@ P.O. 18 DE SEPTIEMBRE DE 2004.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Publíquese el presente decreto en uno de los periódicos de mayor circulación en el Estado, de conformidad a lo establecido en los artículos 15 y 16 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 13 DE OCTUBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
