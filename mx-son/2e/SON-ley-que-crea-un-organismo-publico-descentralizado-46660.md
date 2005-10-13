@@ -1,0 +1,234 @@
+---
+title: "LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA"
+identifier: "SON-ley-que-crea-un-organismo-publico-descentralizado-46660"
+country: "mx"
+rank: "ley"
+publication_date: "2005-10-13"
+last_updated: "2005-10-13"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46660&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-son"
+scjn_id: "46660"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "30 SECC. I"
+reform_count: "3"
+scjn_last_update: "2023-01-16"
+issue_date: "2005-10-04"
+state: "SON"
+---
+# LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
+
+LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 13 de octubre de 2005.
+
+EDUARDO BOURS CASTELO, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
+
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente
+
+LEY:
+
+NUMERO 162
+
+EL H. CONGRESO DEL ESTADO DE SONORA, EN NOMBRE DEL PUEBLO TIENE A BIEN DECRETAR LA SIGUIENTE:
+
+LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA.
+
+### CAPÍTULO I. DE LA NATURALEZA, OBJETO Y FUNCIONES DE LA COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
+
+###### ARTÍCULO 1.
+
+Se crea la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, como organismo público descentralizado del Gobierno del Estado de Sonora, sectorizado a la Secretaría de Infraestructura Urbana y Ecología, con personalidad jurídica y patrimonio propios, que tendrá por objeto:
+
+I.- Formular, ejecutar y evaluar la política ambiental del Estado;
+
+II.- Promover la participación y responsabilidad de los sectores social y privado en la formulación de la política ecológica, la aplicación de sus instrumentos, las acciones de información y vigilancia y, en general, en las acciones ecológicas que emprenda el Estado;
+
+III.- Realizar y promover estudios e investigaciones de carácter científico y tecnológico en materia de ecología y medio ambiente; y
+
+IV.- Difundir y promover la cultura y los valores ecológicos.
+
+###### ARTÍCULO 2.
+
+El domicilio de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, en adelante la CEDES, será la ciudad de Hermosillo, Sonora y podrá establecer oficinas representativas en otros puntos de la Entidad para el cumplimiento de su objeto.
+
+###### ARTÍCULO 3.
+
+Para el cumplimiento de su objetivo, la CEDES tendrá las siguientes atribuciones:
+
+I.- Conducir la política y ejecutar los programas relativos a la ecología y la protección del medio ambiente en el Estado;
+
+II.- Aplicar los instrumentos de política ambiental previstos en la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora;
+
+III.- Formular, ejecutar y evaluar el Programa Estatal de Ecología y Protección al Ambiente;
+
+IV.- Vigilar el cumplimiento, en el ámbito de su competencia, de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora y la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+V.- La realización y promoción de estudios e investigaciones de carácter científico y tecnológico que contribuyan a impulsar el conocimiento de los diversos ecosistemas y el medio ambiente de la Entidad, así como la conservación, preservación, evaluación y aprovechamiento racional de los recursos naturales en el Estado;
+
+VI.- Difundir y promover la cultura y los valores ecológicos mediante el establecimiento y mantenimiento de un centro de exhibición de especies nativas del Estado y otros ecosistemas del mundo, así como la elaboración y difusión de material didáctico y educativo;
+
+VII.- Participar, en los términos de las disposiciones aplicables, en la integración de empresas y organismos que sean el resultado de su promoción y licenciamiento;
+
+VIII.- Emitir los lineamientos destinados a preservar y restaurar el equilibrio ecológico y proteger al ambiente;
+
+IX.- Implantar medidas y mecanismos para prevenir, restaurar y corregir la contaminación del aire, suelo, agua y del ambiente en general;
+
+X.- Convenir con las dependencias y entidades del Gobierno Federal, de las Entidades Federativas y de los Municipios del Estado, así como con los sectores social y privado, la realización conjunta y coordinada de acciones de protección ambiental;
+
+XI.- Aplicar las sanciones previstas en las disposiciones legales de la materia y promover la aplicación de las que corresponda a otras autoridades;
+
+XII.- Instrumentar y promover los programas y acciones relativos a la protección de los recursos de fauna y flora silvestres en el territorio del Estado; y vigilar el cumplimiento de las disposiciones aplicables en esas materias, en el ámbito de competencia del Estado;
+
+XIII.- Ejercer las funciones, servicios, recursos y programas que asuma el Estado, por virtud de los convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal, en materia de vida silvestre; y
+
+XIV.- Las demás que le confieran este y otros ordenamientos jurídicos aplicables en la materia.
+
+### CAPÍTULO II. DEL PATRIMONIO DE LA CEDES
+
+###### ARTÍCULO 4.
+
+El patrimonio de la CEDES estará constituido por:
+
+I.- Todos los activos, bienes muebles e inmuebles que le sean donados por los Gobiernos Federal, Estatal y Municipal;
+
+II.- Los subsidios, asignaciones, aportaciones y demás ingresos que para su debida operación le designen los Gobiernos Federal, Estatal o Municipal;
+
+III.- Las aportaciones, legados y donaciones que en su favor otorguen los organismos e instituciones nacionales o internacionales;
+
+IV.- Los rendimientos, recuperaciones y demás ingresos que obtengan de la inversión de los recursos a que se refiere este artículo; y
+
+V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y en general todos los bienes, derechos y obligaciones a su favor, que contengan utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier titulo legal.
+
+### CAPÍTULO III. DE LA INTEGRACIÓN DE LA CEDES
+
+###### ARTÍCULO 5.
+
+La CEDES contará con los siguientes órganos:
+
+I.- Una Junta Directiva; y
+
+II.- Una Dirección General.
+
+###### ARTÍCULO 6.
+
+La Junta Directiva será la autoridad máxima de la CEDES y se integrará de la siguiente manera:
+
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Vicepresidente, que será el Secretario de Infraestructura Urbana y Ecología; y
+
+III.- Cuatro vocales que serán los titulares de las Secretarías de Hacienda, de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura, de Economía y de Desarrollo Social.
+
+El Presidente de la Junta Directiva será suplido en sus ausencias por el Vicepresidente y sus miembros serán suplidos por quien éstos designen.
+
+Los cargos de la Junta de Gobierno serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+
+La Junta Directiva contará con un Secretario Técnico que será designado por sus miembros.
+
+###### ARTÍCULO 7.
+
+La Junta Directiva celebrará por lo menos tres reuniones ordinarias al año y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
+
+Las sesiones serán validas cuando el quórum se constituya con la mayoría de sus integrantes; los acuerdos que se tomen deberán ser aprobados por mayoría de votos de los miembros presentes y, en caso de empate, quien presida las sesiones tendrá voto de calidad.
+
+En cada una de las sesiones, se levantará acta circunstanciada.
+
+### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LA JUNTA DIRECTIVA Y DEL DIRECTOR GENERAL
+
+###### ARTÍCULO 8.
+
+La Junta Directiva tendrá las atribuciones siguientes:
+
+I.- Dictar los lineamientos generales para la realización de las actividades que deba desarrollar la CEDES para el cumplimiento de su objeto;
+
+II.- Aprobar el programa anual de trabajo y los presupuestos generales de ingresos y egresos;
+
+III.- Revisar y aprobar, en su caso, los estados financieros de la CEDES y remitirlos a la Secretaría de Hacienda del Estado, para su integración a la cuenta pública anual;
+
+IV.- Aprobar y expedir el Reglamento Interior y los manuales administrativos de la CEDES;
+
+V.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General;
+
+VI.- Autorizar los actos a que se refiere la fracción I del artículo 10 de la presente Ley;
+
+VII.- Analizar, y en su caso, aprobar los convenios que para el cumplimiento de sus fines celebre la CEDES con los sectores públicos, social y privado; y
+
+VIII.- Las demás que le señalen éste y otros ordenamientos jurídicos.
+
+###### ARTÍCULO 9.
+
+El Director General de la CEDES será designado y removido libremente por el Gobernador del Estado.
+
+###### ARTÍCULO 10.
+
+El Director General tendrá las siguientes facultades y obligaciones:
+
+I.- Representar legalmente a la CEDES, con facultades para ejercer actos de administración, para pleitos y cobranzas, incluyendo aquellas de carácter laboral, y para juicios civiles, administrativos, penales y de amparo en que la CEDES sea parte, con todas las facultades generales y especiales. Para ejercer actos de dominio deberá contar con la autorización expresa de la Junta Directiva para cada caso concreto;
+
+II.- Nombrar y remover al personal de la CEDES:
+
+III.- Participar, únicamente con voz en las reuniones de la Junta Directiva;
+
+IV.- Presentar anualmente a la Junta Directiva dentro de los tres primeros meses del año, o cuando así sea requerido, los estados financieros y el informe de actividades del año anterior;
+
+V.- Dar cumplimiento a los acuerdos que emita la Junta Directiva;
+
+VI.- Elaborar el Reglamento Interior de la CEDES;
+
+VII.- Formular y presentar a la Junta Directiva, para su aprobación, el proyecto del presupuesto anual de ingresos y egresos de la CEDES para su aprobación;
+
+VIII.- Proporcionar la información que le soliciten los comisarios públicos;
+
+IX.- Formular y presentar a la Junta Directiva los proyectos de planes y programas para el desarrollo de las funciones de la CEDES;
+
+X.- Conducir las relaciones laborales de la CEDES;
+
+XI.- Adquirir los bienes y contratar los servicios que requiera la CEDES;
+
+XII.- Celebrar los actos jurídicos que sean necesarios para el cumplimiento de sus funciones;
+
+XIII.- Celebrar los convenios con los sectores público, social y privado para la ejecución de las acciones relacionadas con el objeto de la CEDES, previa aprobación de la Junta Directiva; y
+
+XIV.- Las demás que le asignen otras disposiciones legales y las que le confiera la Junta Directiva, en el ámbito de su competencia.
+
+### CAPÍTULO V. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 11.
+
+Las actividades de control, vigilancia y evaluación de la CEDES estarán a cargo de los órganos de control y desarrollo administrativo y los comisarios públicos oficiales y ciudadanos de la Secretaría de la Contraloría General, quienes desempeñaran sus funciones en los términos de la Ley Orgánica del Poder Ejecutivo del Estado y demás disposiciones aplicables.
+
+###### ARTÍCULO 12.
+
+Las relaciones de trabajo entre la CEDES y sus trabajadores, se regirán por la legislación laboral aplicable en la materia.
+
+###### ARTÍCULO 13.
+
+El personal de la CEDES, estará incorporado al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta Directiva expedirá el Reglamento Interior de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, dentro de los treinta días siguientes a la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto número 120 que crea el Instituto del Medio Ambiente y Desarrollo Sustentable del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado el día 15 de julio de 1996.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y financieros del Instituto del Medio Ambiente y Desarrollo Sustentable del Estado de Sonora, pasaran a formar parte del nuevo organismo público descentralizado que se crea por virtud de esta Ley, respetándose los derechos laborales conforme a la legislación aplicable.
+
+COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO. SONORA, 29 DE SEPTIEMBRE DE 2005.- DIPUTADO PRESIDENTE.- C. JUAN BAUTISTA VALENCIA DURAZO.- RUBRICA.- DIPUTADO SECRETARIO.- C. JORGE A. GASTELUM LOPEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.-
+
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS CUATRO DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL CINCO.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
