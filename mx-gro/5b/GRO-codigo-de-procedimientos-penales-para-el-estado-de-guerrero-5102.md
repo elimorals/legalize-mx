@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2004-02-13"
+last_updated: "2005-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -547,17 +547,19 @@ Toda detención debe sujetarse a las disposiciones contenidas en el Artículo 16
 
 > <small>(F. DE E., P.O. 2 DE MAYO DE 1995)</small>
 
-Se entiende que existe delito flagrante cuando la persona es detenida en el momento mismo de cometer éste, cuando después de ejecutado es perseguido materialmente, o cuando inmediatamente después de haberlo cometido, alguién lo señala como responsable y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido, huellas o indicios que hagan presumir fundadamente su culpabilidad. En estos casos, el Ministerio Público iniciará la Averiguación Previa, decretará la retención del indiciado, si están satisfechos los requisitos de procedibilidad y el delito tiene señalada pena privativa de libertad; en caso contrario, ordenará su libertad.
+Se entiende que existe delito flagrante cuando la persona es detenida en el momento mismo de cometer éste, cuando después de ejecutado es perseguido materialmente, o cuando inmediatamente después de haberlo cometido, alguien lo señala como responsable y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido, huellas o indicios que hagan presumir fundadamente su culpabilidad. En estos casos, el Ministerio Público iniciará la Averiguación Previa, decretará la retención del indiciado, si están satisfechos los requisitos de procedibilidad y el delito tiene señalada pena privativa de libertad; en caso contrario, ordenará su libertad.
 
 Habrá caso urgente, cuando se trate de alguno de los delitos considerados como graves en el artículo 70, exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, y por razón de la hora, lugar u otras circunstancias, el Ministerio Público no pueda ocurrir ante la autoridad judicial.
 
 En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su detención, fundando y expresando los indicios que motivan su proceder. La orden de detención, que siempre será por escrito, deberá ser ejecutada por la policía judicial, la que sin dilación alguna, pondrá al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 70.
 
-Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los artículos 103, 104 y 108; Homicidio y Lesiones culposos previsto en el tercer párrafo del articulo 112; Secuestro, señalado por los artículos 128 y 129; Asalto contra un poblado, a que se refiere el artículo 136; Violación, señalado por los artículos 139 al 142; Robo, contenido en el artículo 163 fracción III, en relación con el 164; Extorsión, previsto por el artículo 174 segundo párrafo, cuando sea cometido por agentes policiales; Ataque a los Medios de Transporte, previsto en el artículo 206; Rebelión, previsto en los artículos del 229 al 232, con la parte final del artículo 230; Terrorismo, previsto en el artículo 234 en su primer párrafo, y Sabotaje, previsto en el artículo 235 fracciones I, II y III, todos del Código Penal vigente.
+Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Articulo 112; Secuestro, señalado en el Artículo 129; Asalto contra un poblado, a que se refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II y III, todos del Código Penal vigente.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo previsto en el artículo 177, segundo párrafo; Pornografía de Menores e Incapaces, Corrupción y Prostitución de Menores e Incapaces previstos en los artículos 216 Bis, 217 y 217 bis, respectivamente; el delito de Lenocinio cuando se trate del supuesto señalado en el artículo 218, tercer párrafo; Trata de Personas, previsto en el segundo párrafo del artículo 218 Bis; Contra la Administración de Justicia cometidos por Servidores Públicos, previsto en la fracción XXIX del artículo 269, Evasión de Presos contenido en el artículo 273 y delitos electorales contenidos en los artículos 296 y 299, todos de Código Penal en vigor.
 
@@ -1618,3 +1620,9 @@ P.O. 13 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado para sus efectos constitucionales procedentes.
