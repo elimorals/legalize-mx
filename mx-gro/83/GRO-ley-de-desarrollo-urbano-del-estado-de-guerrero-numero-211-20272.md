@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-desarrollo-urbano-del-estado-de-guerrero-numero-211-2027
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2001-03-13"
+last_updated: "2005-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE GUERRERO NUMERO 211
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 2001.
 
@@ -461,7 +461,9 @@ IX.- Autorizar la ampliación y delimitación de las zonas urbanas ejidales, en 
 
 X.- Expedir los Reglamentos y las disposiciones administrativas necesarias tendientes a regular los Planes Municipales de Desarrollo Urbano, de centros de población y los derivados de éstos;
 
-XI.- Otorgar o negar las autorizaciones, licencias y permisos de usos de suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones y condominios, de conformidad con esta Ley, con los Planes y Programas de Desarrollo Urbano y otras disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2005)</small>
+
+XI.- Otorgar o negar las autorizaciones, licencias y permisos de usos de suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones y condominios, de conformidad con esta Ley, con los planes y programas de Desarrollo Urbano y otras disposiciones jurídicas aplicables, así como en lo establecido en las Leyes y Reglamentos Federales, Estatales y Municipales en materia ambiental, por cuanto a la obligatoriedad de la presentación previa de los estudios, evaluaciones, autorizaciones y resolutivos en materia de impacto ambienta, así como de las autorizaciones para la explotación y aprovechamiento de los recursos naturales, expedidas por las autoridades correspondientes;
 
 XII.- Participar en la creación y administración de reservas territoriales para el desarrollo urbano, la vivienda y la preservación ecológica de los centros de población, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -1990,3 +1992,11 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado para sus efectos constitucionales procedentes.
