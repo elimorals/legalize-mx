@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2004-12-22"
+last_updated: "2005-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,7 +65,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 4o.
 
@@ -81,13 +81,15 @@ Dirección General Jurídica.
 
 Dirección General de Intermediarios Financieros de Fomento.
 
-Dirección General de Administración Interna.
+Dirección General de Administración.
 
 Dirección General de Emisión.
 
 Dirección de Relaciones Externas.
 
 Dirección de Coordinación de la Información.
+
+Dirección de Sistemas.
 
 Dirección de Operaciones.
 
@@ -119,13 +121,15 @@ Dirección Jurídica.
 
 Dirección de Intermediarios Financieros de Fomento.
 
-Dirección de Administración.
+Dirección de Recursos Humanos.
 
 Dirección de Contabilidad.
 
+Dirección de Recursos Materiales.
+
 Dirección de Seguridad.
 
-Dirección de Sistemas.
+Dirección de Programación y Distribución de Efectivos.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -135,9 +139,9 @@ Las Direcciones Generales tendrán adscritas las Direcciones que señala el pres
 
 Los Directores y el Contralor se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajero Principal, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales y las Direcciones podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
-> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-La Junta de Gobierno o el Gobernador, en el ámbito de su competencia, podrán constituir comités consultivos integrados por servidores públicos del Banco, que los auxilien en el ejercicio de sus respectivas atribuciones. Lo previsto en este párrafo y los siguientes, no será aplicable a los comités u órganos colegiados que se encuentren previstos en otros ordenamientos o disposiciones.
+La Junta de Gobierno o el Gobernador, en el ámbito de su competencia, podrán constituir comités consultivos integrados por servidores públicos del Banco, que los auxilien en el ejercicio de sus respectivas atribuciones. Los acuerdos o actos de creación de dichos comités señalarán su integración, así como sus reglas de operación y funcionamiento. Lo previsto en este párrafo y los siguientes, no será aplicable a los comités u órganos colegiados que se encuentren previstos en otros ordenamientos o disposiciones.
 
 > <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -159,9 +163,9 @@ En el caso de que el Gobernador acuerde la creación de un comité, podrá invit
 
 El Banco contará con un Comité de Información para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente reglamento y estará integrado por el Director de Relaciones Exteriores, el Director de Coordinación de la Información y el Director de Disposiciones de Banca Central. No habrá miembros suplentes y podrá sesionar con la asistencia de dos de sus integrantes, debiendo reunirse cuando menos dos veces al año.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de Empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y la Secretaría se llevará conforme a la fracción II del artículo 30 del presente Reglamento.
+El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y la Secretaría se llevará en los términos previstos en sus reglas de operación.
 
 ###### ARTICULO 5o.
 
@@ -191,9 +195,9 @@ El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduc
 
 Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales y de las Direcciones, así como al Contralor, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Director o al Contralor, según se trate. Los Gerentes de Caja Regionales de Sucursales podrán firmar individualmente. Para efectos de lo anterior se publicará, en el Diario Oficial de la Federación, el acuerdo de adscripción de las unidades administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos que se encuentren vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Directores y Contralor, quedando comprendidas también facultades suficientes para realizar actos que impliquen ejercicio presupuestal para la adquisición, enajenación y arrendamiento de bienes muebles, así como para la prestación de servicios relacionados con sus funciones.
+La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos que se encuentren vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Directores y Contralor, quedando comprendidas también facultades suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2004)</small>
 
@@ -207,7 +211,9 @@ Para la expedición de disposiciones y la imposición de sanciones, los funciona
 
 La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, fracción V de este Reglamento, será ejercida por cualquier abogado adscrito a la Dirección Jurídica, actuando individualmente.
 
-El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador y, en sus ausencias, por el Director General de Administración Interna.
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+
+El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador y, en sus ausencias, por el Director General de Administración.
 
 ###### ARTICULO 9o.
 
@@ -219,13 +225,17 @@ Las facultades referidas en el párrafo que antecede, tratándose de actos de do
 
 A la extinción de cualquier fideicomiso, los delegados fiduciarios generales en representación del Banco como fiduciario, atenderán los requerimientos que formulen toda clase de autoridades, incluyendo las judiciales y administrativas, así como los particulares en términos de las disposiciones aplicables. Dichos delegados podrán actuar en forma individual.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 10.
 
-Los actos realizados en ejercicio de las atribuciones que confiere este Reglamento, deberán contener firma autógrafa o firma electrónica, así como el nombre y puesto del funcionario suscriptor.
+Los actos realizados en ejercicio de las atribuciones que confiere este Reglamento, deberán contener firma autógrafa o firma electrónica, así como el nombre y puesto del suscriptor.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
 La firma electrónica a que se refiere el párrafo anterior se utilizará cuando los actos se realicen a través de medios electrónicos, ópticos o de cualquier otra tecnología.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
 Para efectos de este Reglamento se entenderá por firma electrónica la información agregada o adjuntada a un mensaje de datos que esté asociada en forma lógica al propio mensaje, la cual se utilizará para identificar al autor de la firma e indicar que éste aprueba los datos contenidos en el mensaje y a su vez para asegurar que el mensaje no fue alterado y conservó su carácter confidencial.
 
@@ -291,7 +301,7 @@ ARTICULO 14 BIS 1.- La Dirección General de Intermediarios Financieros de Fomen
 
 A esta Dirección General estará adscrita la Dirección de Intermediarios Financieros de Fomento.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 14 Bis 1.
 
@@ -303,11 +313,9 @@ A esta Dirección General estará adscrita la Dirección de Intermediarios Finan
 
 ###### ARTICULO 15.
 
-La Dirección General de Administración Interna tendrá las atribuciones señaladas en los artículos 26, 27 y 28 Bis de este Reglamento.
+La Dirección General de Administración tendrá las atribuciones señaladas en los artículos 26, 27, 27 Bis y 28 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2004)</small>
-
-A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad y de Seguridad, así como las Gerencias de Inmuebles e Informática. La Gerencia de Inmuebles contará con las atribuciones relativas a la formalización de los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integran el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén de bienes muebles en general. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
+A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Contabilidad, Recursos Materiales y Seguridad, así como la Gerencia de Informática. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
@@ -319,7 +327,7 @@ A esta Dirección General estará adscrita la Dirección de Programación y Dist
 
 > <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
-ARTICULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, tendrá las atribuciones siguientes:
+ARTÍCULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, tendrá las atribuciones siguientes:
 
 I. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
 
@@ -331,9 +339,9 @@ IV. Comercializar monedas, o piezas que hubieren tenido ese carácter, con empaq
 
 V. Colaborar con bancos centrales, acuñadores y proveedores en aspectos relacionados con la puesta en circulación, proceso y distribución de billetes y monedas metálicas;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, con asesoría de las áreas especializadas, conforme a la normatividad aplicable, y
+VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, que la Dirección de Recursos Materiales solicite contratar, conforme a la normatividad aplicable, y
 
 VII. Tener a su cuidado la colección numismática del Banco.
 
@@ -725,9 +733,11 @@ IX. Participar en la imposición de las sanciones y medidas correctivas que, en 
 
 X. Publicar información de carácter económico y financiero, relativa a los intermediarios a que se refiere la fracción inmediata anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 26.
 
-La Dirección de Administración tendrá las atribuciones siguientes:
+La Dirección de Recursos Humanos tendrá las atribuciones siguientes:
 
 I. Emitir disposiciones de carácter administrativo, aplicables a la institución y a su personal;
 
@@ -741,33 +751,31 @@ IV. Desempeñar las funciones encomendadas al Banco como fiduciario, en los fide
 
 V. Cumplir con las obligaciones legales y reglamentarias a cargo del Banco, en su carácter de patrón;
 
-> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-VI. Contratar los seguros relacionados con los bienes propiedad del Banco o que posea bajo cualquier título, así como gestionar y controlar los seguros de vida y daños contratados por cuenta del personal del Banco;
+VI. Gestionar y administrar los seguros de vida y daños contratados por cuenta del personal del Banco;
 
 VII. Vigilar que los créditos otorgados por el Banco a sus trabajadores, se encuentren debidamente garantizados;
 
-VIII. Administrar y suscribir los convenios correspondientes al funcionamiento de los servicios de autotransporte, comedor, impresos, artículos de oficina y en general aquéllos de carácter administrativo relacionados con partidas previstas y autorizadas en el Presupuesto de Gasto Corriente e Inversión Física;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-IX. Conducir las relaciones con el Sindicato Unico de Trabajadores del Banco de México;
+VIII. Conducir las relaciones con el Sindicato Unico de Trabajadores del Banco de México;
 
-X. Comercializar, con propósitos numismáticos, billetes y monedas, distintas a las mencionadas en la fracción VIII del artículo 19 y medallas;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+IX. Comercializar, con propósitos numismáticos, billetes y monedas, distintas a las mencionadas en la fracción VIII del artículo 19 y medallas;
 
-XI. Desempeñar las actividades de promoción sociocultural y deportiva;
+> <small>(REFORMADA Y REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+X. Desempeñar las actividades de fortalecimiento de la cultura institucional y de promoción sociocultural y deportiva;
 
-XII. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+XI. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley;
 
-XIII. Administrar la Oficina de Correspondencia, y
+> <small>(REFORMADA Y REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE JUNIO DE 1997)</small>
-
-XIV. Llevar el registro de la organización del Banco.
+XII. Llevar el registro de la organización del Banco, así como emitir recomendaciones respecto a la estructura organizacional.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -790,6 +798,36 @@ VI. Requerir información a las instituciones en las que el Banco participe econ
 VII. (DEROGADA, D.O.F. 5 DE JUNIO DE 2002)
 
 VIII. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 27 BIS.- La Dirección de Recursos Materiales tendrá las atribuciones siguientes:
+
+I. Ejecutar los procedimientos y formalizar los actos previstos en las normas del Banco de México en las materias de adquisiciones y arrendamientos de bienes muebles, así como de servicios, obra inmobiliaria y servicios relacionados con la misma, y enajenación de bienes muebles;
+
+II. Aplicar las disposiciones relacionadas con las materias señaladas en la fracción anterior y resolver las consultas respectivas;
+
+III. Llevar el secretariado de los Comités previstos en las normas indicadas en la fracción I;
+
+IV. Tramitar y gestionar, directamente o por conducto de terceros, las licencias, permisos o cualquier otro acto jurídico que requieran las operaciones a que se refiere la fracción I, incluyendo los necesarios para la importación o exportación de bienes o servicios, salvo aquellos que por su naturaleza sean responsabilidad de otras unidades administrativas;
+
+V. Atender los requerimientos que formule la Contraloría, derivados de las inconformidades y quejas que se presenten con motivo de los actos señalados en la fracción I;
+
+VI. Celebrar los actos necesarios para terminar anticipadamente o rescindir administrativamente los contratos o convenios respecto de las materias a que se refiere la fracción I, aplicar penas convencionales, promover reclamaciones de garantías y, en general, ejercer extrajudicialmente los derechos del Banco;
+
+VII. Practicar las notificaciones que deban hacerse a licitantes, proveedores, contratistas o adquirentes, con motivo del ejercicio de las atribuciones a que se refieren las fracciones I y VI;
+
+VIII. Formalizar los actos relacionados con la adquisición, uso, administración y enajenación de bienes inmuebles;
+
+IX. Proveer el mobiliario, artículos y equipo de oficina del Banco;
+
+X. Contratar los seguros que requiera el Banco;
+
+XI. Administrar los servicios de correspondencia, comedores, impresión y auto transportes, y
+
+XII. Las demás previstas en otros ordenamientos aplicables a las operaciones materia de su competencia.
+
+Cuando otras disposiciones aplicables faculten a los analistas adscritos a la Dirección de Recursos Materiales para ejercer las atribuciones anteriores, deberán suscribir los documentos correspondientes en forma mancomunada con uno o más funcionarios adscritos a la propia Dirección, en los términos que al efecto se señale en dichas disposiciones, debiendo observar, en lo conducente, lo previsto en el artículo 10 de este Reglamento.
 
 ###### ARTICULO 28.
 
@@ -815,17 +853,13 @@ VIII. Llevar el control y registro de representantes y delegados fiduciarios y e
 
 IX. Determinar los requisitos legales con que se otorguen los créditos hipotecarios al personal del Banco y, en su caso, autorizar su cancelación, así como formalizar las operaciones respectivas;
 
-X. Contratar abogados externos, así como llevar el control de fedatarios públicos que esta Dirección designe para operar con el Banco;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+X. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos, y
 
-XI. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos, y
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
-
-XII. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley;
-
-XIII. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 1999)
+XI. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -865,41 +899,69 @@ El Contralor tendrá, además de las atribuciones señaladas en el artículo 30 
 
 I. Comprobar que en la Institución, se dé cumplimiento a las disposiciones aplicables al Banco o a su personal;
 
-II. Llevar el secretariado de los órganos colegiados que se constituyan para conocer de las operaciones a que se refiere la fracción XII del artículo 46 de la Ley del Banco de México, así como de aquellos otros órganos colegiados en los que el Banco tenga interés;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-III. Llevar el registro de firmas autógrafas de los funcionarios del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Direcciones y Contralor, para los efectos de los artículos 8o. y 10 de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de dicho ordenamiento, pudiendo expedir constancias de dicho registro;
+II. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Direcciones y Contralor, para los efectos de los artículos 8o., 10 y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de dicho ordenamiento, pudiendo expedir constancias de dicho registro;
 
-IV. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-V. Recibir, tramitar y resolver inconformidades de los proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos.
+III. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos;
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+IV. Recibir, tramitar y resolver inconformidades de los proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos.
 
 Recibir y desahogar las quejas materia del procedimiento de conciliación que le presenten los propios proveedores, contratistas y adquirentes con motivo de contratos que tengan celebrados con el Banco.
 
 El Contralor designará al personal que deberá efectuar las notificaciones relacionadas con los procedimientos a que se refieren los dos párrafos anteriores, incluyendo aquellas que tengan carácter personal. Para los efectos previstos en este párrafo, será medio de identificación de los notificadores la credencial que para tal efecto expida en su favor el Banco de México;
 
-VI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-VII. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
+V. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
 
-VIII. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-IX. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquéllas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
+VI. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
 
-X. Promover en forma permanente los programas de modernización y desarrollo administrativo, que permitan eficientar la operación de las unidades administrativas del Banco;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-XI. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades de los Servidores Públicos, así como turnarlas a la autoridad o unidad del Banco competente;
+VII. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
-XII. Llevar el registro de las normas internas que expidan las unidades administrativas del Banco;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-XIII. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos;
+VIII. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquéllas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
 
-XIV. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición;
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-XV. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración interpuestos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+IX. Promover en forma permanente los programas de modernización y desarrollo administrativo, que permitan eficientar la operación de las unidades administrativas del Banco;
 
-XVI. Notificar a los interesados, las resoluciones de los recursos a que se refiere la fracción anterior, y
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-XVII. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
+X. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades de los Servidores Públicos, así como turnarlas a la autoridad o unidad del Banco competente;
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+XI. Llevar el registro de las normas internas que expidan las unidades administrativas del Banco;
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+XII. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos;
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+XIII. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición;
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+XIV. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración interpuestos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+XV. Notificar a los interesados, las resoluciones de los recursos a que se refiere la fracción anterior, y
+
+(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+
+XVI. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -1085,11 +1147,11 @@ Además se presentarán enseguida del capital contable, los rubros de Remanente 
 
 El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos y los afectos a la reserva para cubrir obligaciones de carácter laboral, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. El Crédito a Intermediarios Financieros y Deudores por Reporto incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores, a los fideicomisos de fomento y a los reportos con casas de bolsa. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Intermediarios Financieros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Administración Interna y el Director de Contabilidad.
+Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Administración y el Director de Contabilidad.
 
 Al publicarse el balance general se deberá insertar el dictamen del auditor externo del Banco.
 
@@ -1190,6 +1252,10 @@ Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gober
 ###### ARTICULO 54.
 
 Sin perjuicio de lo señalado en el artículo 45 de la Ley, durante las ausencias del Gobernador, Directores Generales, Directores, Contralor, Gerentes y Cajero Principal, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+
+Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Administración. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -1366,3 +1432,17 @@ UNICO. La presente adición entrará en vigor al día siguiente al de su publica
 D.O.F. 22 DE DICIEMBRE DE 2004.
 
 UNICO. Las presentes reformas, derogación y adiciones, entrarán en vigor el día 1o. de enero de 2005, con excepción de la reforma al artículo 26, fracción IV, la cual entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE OCTUBRE DE 2005.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor a partir del 1o. de noviembre de 2005, salvo lo dispuesto en el artículo Tercero Transitorio.
+
+SEGUNDO. Las referencias a la Dirección General de Administración Interna y a la Dirección de Administración, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección General de Administración y a la Dirección de Recursos Humanos, respectivamente.
+
+TERCERO. La reforma al segundo párrafo del artículo 8o., entrará en vigor a partir del 1o. de enero de 2006.
+
+En consecuencia, los Directores Generales, Directores y Contralor, que requieran suscribir actos que impliquen ejercicio presupuestal, correspondientes a los comprendidos en las fracciones I y IV a VII del artículo 27 Bis, podrán seguir haciéndolo hasta el 31 de diciembre de 2005, siempre que dichos actos se encuentren vinculados con la ejecución de las atribuciones que tengan conferidas por este Reglamento.
+
+Asimismo, las reformas a los artículos 16 Bis, fracción VI, 26, fracción VI, así como la adición del artículo 27 Bis, en lo relativo a las fracciones III y X, y la derogación de la fracción X del artículo 28, entrarán en vigor a partir del 1o. de enero de 2006.
+
+CUARTO. En tanto no se modifiquen los acuerdos o actos de creación, integración y funcionamiento de los órganos a que se refiere la fracción II del artículo 30, derogado en los términos del artículo Tercero, el Contralor del Banco continuará llevando el secretariado de los mismos.
