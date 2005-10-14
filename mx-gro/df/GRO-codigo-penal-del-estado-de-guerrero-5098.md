@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2004-11-09"
+last_updated: "2005-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1493,9 +1493,11 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodere una
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
-167.- Al que se apodere de una o más cabezas de ganado mayor, cualquiera que sea su especie sin consentimiento de quien legalmente pueda disponer de ella, independientemente del lugar donde se encuentre y de que formen o no asociación delictuosa, se le impondrá de cinco a dieciocho años de prisión y de quinientos a ochocientos días multa.
+167.- Al que se apodere de una o más cabezas de ganado mayor o menor, cualquiera que sea su especie sin consentimiento de quien legalmente pueda disponer de ella, independientemente del lugar donde se encuentre y de que formen o no asociación delictuosa, se le impondrá de ocho a dieciocho años de prisión y de ochocientos a mil doscientos ochenta días multa.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 Igual pena se aplicará:
 
@@ -1507,15 +1509,23 @@ III.- Al que transporte ganado, carne, pieles u otros derivados obtenidos del ab
 
 IV.- Al que con perjuicio de otro, disponga para si o para un tercero de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio o bien se le haya entregado para su custodia.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
-168.- Se impondrá de ocho a dieciocho años de prisión al que:
+168.- Se impondrá de once a dieciocho años de prisión al que:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 I.- Altere o elimine con planchas, alambres y argollas o remarque los fierros, las marcas de herrar, consistentes en letras, números y signos combinados entre si, en ganado mayor o ganado menor;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 II.- Marque, contramarque, señale o contraseñale ganado, animales ajenos en cualquier parte sin derecho, o
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 III.- Expida certificados falsos para obtener guías, simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados para cualquier negociación sobre ganado o pieles ajenas;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 IV.- Al que se apodere de una o más cabezas de ganado propio, que se halle en poder de otro, en virtud de una relación contractual o por mandato de autoridad.
 
@@ -1639,11 +1649,13 @@ XIV.- Al que se coloque en estado de insolvencia con el objeto de eludir las obl
 
 ### CAPITULO VI. EXTORSION
 
-174.- Al que para obtener un provecho indebido para sí o para otro, obligue a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de uno a diez años y de treinta a trescientos días multa.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+174.- Al que para obtener un provecho indebido para sí o para otro, obligue a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de cinco a quince años y de ciento cincuenta a novecientos días multa.
 
-Cuando este delito lo cometa un miembro de seguridad pública, la pena se incrementará hasta una mitad más, y no tendrá derecho a gozar de la libertad preparatoria, conmutación de sanciones, remisión parcial de la pena o cualesquiera otros beneficios que la Ley señala.
+Cuando este delito lo cometa un miembro de seguridad pública, la pena se incrementará hasta una mitad más.
+
+El que cometa el delito de extorsión no tendrá derecho a gozar de la libertad preparatoria, conmutación de sanciones, remisión parcial de la pena o cualesquiera otros beneficios que la Ley señala.
 
 ### CAPITULO VII. USURA
 
@@ -1815,6 +1827,10 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 193.- Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
+### CAPITULO VI. INCESTO
+
+194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
@@ -1864,10 +1880,6 @@ En todos los casos se impondrán como medidas de seguridad, la separación del a
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
 El delito de violencia intrafamiliar se perseguirá por querella, salvo que los ofendidos sean menores de edad o incapaces.
-
-### CAPITULO VI. INCESTO
-
-194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -2885,14 +2897,6 @@ Igual pena se aplicará a quien sin mediar resolución de autoridad competente, 
 
 300.- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-P.O. 10 DE ENERO DE 1989.
-
-PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
-
-SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
 ## TITULO V. DELITOS ELECTORALES
 
 > <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
@@ -2946,6 +2950,14 @@ EL SECRETARIO DE GOBIERNO
 LIC. ANGEL H. AGUIRRE RIVERO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE ENERO DE 1989.
+
+PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 27 DE JULIO DE 1990.
 
@@ -3022,3 +3034,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE NOVIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado para sus efectos constitucionales procedentes.
