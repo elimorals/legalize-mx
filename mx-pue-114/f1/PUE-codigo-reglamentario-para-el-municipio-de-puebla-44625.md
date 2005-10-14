@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2005-06-01"
+last_updated: "2005-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -785,11 +785,17 @@ ASAMBLEA GENERAL.- Al máximo órgano de representación vecinal de la colonia, 
 
 SECRETARÍA.- A la Secretaría de Gobernación Municipal del Honorable Ayuntamiento del Municipio de Puebla.
 
-DIRECCIÓN.- A la Dirección de Promoción Comunitaria, encargada de ejecutar las facultades que este Título otorga a la Secretaría de Gobernación Municipal.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
-MESA DIRECTIVA DE VECINOS.- Al Órgano de Representación de la Asamblea General de la Colonia, Fraccionamiento o Unidad Habitacional de que se trate.
+DIRECCIÓN.- A la Dirección de Desarrollo Político, encargada de ejecutar las facultades que este Título otorga a la Secretaría de Gobernación Municipal.
 
-VECINO.- Al habitante que reside permanentemente en cualquier inmueble del territorio de la Colonia, Fraccionamiento o Unidad Habitacional, por seis meses o más, lo que en su caso acreditará con documento oficial idóneo.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
+
+MESA DIRECTIVA DE VECINOS.- Al Órgano de Representación de la Asamblea General de la colonia, fraccionamiento o unidad habitacional de que se trate.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
+
+VECINO.- Al habitante que reside permanentemente en cualquier inmueble del territorio de la colonia, fraccionamiento o unidad habitacional, por seis meses o más, lo que en su caso acreditará con documento oficial idóneo.
 
 ###### Artículo 114.
 
@@ -10111,7 +10117,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1- r(1-q)W¡
+a¡ = (1-r(1-q)W¡
 
 W¡h¡
 
@@ -10133,7 +10139,7 @@ IV. Apéndices
 
 Para valuar las fuerzas sísmicas obran en apéndices, tanques y demás elementos difiera radicalmente de el resto de la estructura principal, se pondrá actuando sobre el elemento en cuestión la fuerza sísmica que le correspondiera si se apoyará directamente el terreno, multiplicada por el factor 1 + c/ ao en que c es el coeficiente por el que se multiplica el peso del nivel de desplante del elemento en cuestión cuando se evalúan las fuerzas laterales sobre todo la construcción. Este requisito junto con la condición que establece la fracción I de este artículo para el cortante basal conducen a
 
-a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a
+a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a°
 
 Donde:
 
@@ -21562,3 +21568,7 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor a partir del día sigu
 SEGUNDO.- Se derogan las demás disposiciones que sean incompatibles con el presente Acuerdo.
 
 TERCERO.- El Presidente Municipal girará instrucciones a la dependencia correspondiente a fin de que ésta implemente los mecanismos tendientes a verificar que los comercios señalados en los artículos 616 y 616 bis cumplan con el horario establecido, o en caso contrario imponga las sanciones correspondientes.
+
+P.O. 14 DE OCTUBRE DE 2005.
+
+ÚNICO.- Hasta en tanto no se publique la reforma al párrafo tercero del artículo 113 del Código Reglamentario para el Municipio de Puebla, las atribuciones serán ejercidas directamente por el Secretario de Gobernación Municipal.
