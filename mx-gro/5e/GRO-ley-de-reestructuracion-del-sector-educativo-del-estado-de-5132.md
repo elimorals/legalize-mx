@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-reestructuracion-del-sector-educativo-del-estado-de-5132
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-16"
-last_updated: "1997-01-07"
+last_updated: "2005-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE REESTRUCTURACION DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NUM. 243
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 16 de febrero de 1996.
 
@@ -81,47 +81,41 @@ I.- Coordinar las áreas de su competencia y las del Gobierno Federal que incide
 
 II.- Coordinar acciones con los Ayuntamientos, Consejos Municipales de Educación y Organismos Sindicales del Sector, para promover y fomentar las actividades encaminadas a la Modernización Integral de la Educación y al Federalismo Educativo en el Estado.
 
-III.- Aprobar y publicar su Reglamento Interior de Trabajo, tomando en cuenta las opiniones de los representantes del Sindicato Nacional de Trabajadores de la Educación (SNTE) y del Sindicato Unico de Servidores Públicos del Estado de Guerrero (SUSPEG).
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+III.- Aprobar su Reglamento Interior y el Reglamento de las Condiciones Generales de Trabajo; de este último se tomará en cuenta las opiniones del Sindicato Nacional de Trabajadores de la Educación (SNTE) y del Sindicato Unico de Servidores Públicos del Estado de Guerrero (SUSPEG).
 
 ### CAPITULO II. DE LA ORGANIZACION Y COMPETENCIA DE LA SECRETARIA DE EDUCACION GUERRERO
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 4o.
 
-La Secretaría de Educación (sic) Guerrero, para la Reestructuración Integral del Sector y para el estudio, planeación y despacho de los asuntos de su competencia, contará en su estructura con los Servidores Públicos y las Unidades de Administración siguientes:
+La Secretaría de Educación (sic) Guerrero, para el estudio, planeación y despacho de los asuntos de su competencia, contará en las Unidades, Órganos y Áreas Administrativas y el personal que señale su Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1997)</small>
+> <small>(DEROGADO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
-Secretario; Subsecretaría de Educación Básica; Subsecretaría de Educación Media Superior y Superior; Subsecretaría de Planeación Educativa; Coordinación General de Administración y Finanzas; Dirección General de Educación Primaria; Dirección General de Educación Superior; Dirección General de Investigación Educativa; Dirección General de Servicios Regionales; Dirección General de Planeación, Programación y Evaluación; Dirección de Planeación-Programación; Dirección de Seguimiento, Control y Evaluación; Dirección de Educación Elemental; Dirección de Educación Indígena; Dirección de Educación Secundaria; Dirección de Educación Media Superior; Dirección de Personal; Dirección de Finanzas; Dirección de Informática; Dirección de Extensión Educativa; Dirección de Recursos Materiales; Unidad de Organización y Sistemas; Unidad de Contraloría Interna; Unidad de Asuntos Jurídicos; Unidad de Control de Gestión; Consejo Estatal Técnico de la Educación; Consejo Editorial y; Organos Desconcentrados del Sector Educativo, los cuales tendrán las siguientes funciones:
+I.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-I.- Educación Básica.- Tendrá a su cargo la Coordinación de la Educación Inicial, Preescolar, Primaria, Secundaria, Indígena, Especial, para Adultos, Educación Física y Educación Artística en todas sus modalidades.
+II.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-Atenderá las misiones culturales, promoviendo acciones encaminadas a mejorar la calidad de la educación destinando mayores recursos a las zonas marginadas; su función será fundamentalmente técnico-educativa y de coordinación con las áreas administrativas de la Secretaría, en relación con el manejo de los recursos humanos, materiales y financieros.
+III.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-II.- Educación Media Superior y Superior.- Será la encargada de vigilar el buen funcionamiento de los niveles de Educación Normal, capacitación y actualización del magisterio y de la Universidad Pedagógica Nacional; la coordinación interinstitucional con todos los planteles que impartan Educación Media Superior y Superior en el Estado.
+IV.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-III.- Planeación Educativa.- Será la encargada de elaborar el anteproyecto de presupuesto anual de ingresos y egresos de la Secretaría de Educación Guerrero, realizará los estudios de investigación para detectar las necesidades educativas específicas de cada región y núcleos de población. Así como todos aquellos proyectos de investigación de aspectos cualitativos que inciden en la calidad, pertinencia, equidad, cobertura, eficacia y eficiencia de la Educación y los programas inherentes a ella, promoverá de manera especial la microplaneación; elaborará, actualizará y dará seguimiento a los manuales de organización y procedimientos de las diferentes Unidades Administrativas; llevará el control estadístico y vigilará su veracidad; diseñará un sistema único de información estadística continua; controlará lo referente a la certificación, acreditación y revalidación de estudios en todos sus niveles y modalidades del ámbito de su competencia; instrumentará los mecanismos de control, orientación y supervisión para el funcionamiento de las Cooperativas Escolares de Producción Estatal en vigor; seguirá y evaluará sistemáticamente el desarrollo de los Planes, Programas y Políticas implementadas en el Sector Educativo Estatal, así como la eficacia y eficiencia de sus acciones en conjunto; coordinará las Comisiones Estatales Mixtas de Escalafón y de Cambios; promoverá y asignará las becas.
+V.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-IV.- Coordinación General de Administración y Finanzas.- Será la unidad encargada de administrar y distribuir en coordinación con los niveles educativos, Unidades Regionales y la Unidad de Planeación Educativa, las siguientes áreas:
+VI.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-a).- Recursos Humanos: Es el área responsable de administrar la operación de los servicios al personal integrado en el ámbito de su competencia, su ubicación, el pago oportuno, así como la atención y despacho de todos los asuntos relacionados con éstos; auxiliar a las Unidades Regionales en el proceso de modernización integral del Sector Educativo de la capacitación de personal; atenderá las relaciones laborales, la política salarial, vigilando el debido cumplimiento de la normatividad en vigor y la difusión de la misma.
+VII.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-b).- Recursos Financieros.- Es el área responsable de registrar, contabilizar y distribuir los recursos económicos conforme al programa-presupuesto autorizado; vigilar el cumplimiento de la normatividad fiscal en todo tipo de operaciones financieras en el ámbito de su competencia y preparar las comprobaciones del presupuesto ejercido, que será enviado para su aprobación a la Secretaría de Finanzas y Administración del Gobierno del Estado. Atenderá además la adquisición, distribución y mantenimiento de bienes muebles e inmuebles en coordinación con la Unidad de Planeación y los diversos niveles educativos y mantendrá actualizado el inventario de bienes muebles e inmuebles que están bajo la custodia de la Secretaría de Educación Guerrero.
+VIII.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-c).- Informática.- Es el área encargada de la presentación de servicios de procesamiento de datos que soliciten las áreas del Sector; elaborar, implantar y mantener los sistemas de cómputo que coadyuven al sistema educativo, apegados a la normatividad que para los efectos correspondan, administrando la información en medios magnéticos.
+IX.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-V.- Servicios Regionales.- Coordinará las acciones de las Unidades Educativas y Administrativas Centrales, con las que desarrollen las Unidades Regionales, respetando los derechos laborales de los trabajadores de la educación; implementará los mecanismos que permitan acercar los servicios educativos y administrativos a las diferentes regiones, Municipios, localidades y planteles; sus acciones con los Ayuntamientos y Consejos de Participación Ciudadana. Para el mejor desempeño de la labor educativa deberán reestructurarse las subcoordinaciones de Distrito.
+X.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
-VI.- Unidad de Contraloría Interna.- Tendrá a su cargo la vigilancia y/o seguimiento de la correcta aplicación y cumplimiento de la normatividad por parte de los servidores públicos, sugerirá las medidas para corregir los errores y omisiones que detecte, así como la aplicación de las sanciones por la dependencia respectiva, a que se hagan acreedores quienes no cumplan con sus funciones.
-
-VII.- Extensión Educativa.- Propiciará el desarrollo cultural y recreativo entre los maestros y alumnos. Publicará, promoverá y difundirá las actividades que se deriven de las diferentes áreas del sistema educativo. Efectuará programas de radio y televisión, con mensajes educativos. Apoyará a las áreas sustantivas para la formación integral del educando en los aspectos culturales y deportivos.
-
-VIII.- Unidad de Asuntos Jurídicos.- Realizará los estudios, trámites y despacho de todos los asuntos que correspondan al Sector; orientará y asesorará al Titular del Ramo y a todas las Unidades Administrativas que integran la Secretaría de Educación Guerrero, y la representará ante las instancias correspondientes.
-
-IX.- Unidad de Control de Gestión.- Será la encargada de llevar el registro, control, seguimiento y evaluación de los diferentes asuntos de la dependencia; rendirá información periódica de los mismos, con las posibles soluciones. Propondrá medidas concretas que propicien la concurrencia de esfuerzos en cada una de las áreas.
-
-X.- Consejo Estatal Técnico de la Educación.- Realizará los estudios e investigaciones orientados a elevar la calidad de la educación; difundirá programas y medidas para abatir los índices de ausentismo, reprobación y analfabetismo, de conformidad con los planes de desarrollo federal y estatal y con los planes y programas educativos de carácter nacional; buscará la coordinación con los diferentes niveles y modalidades educativas del Estado, para sugerir sistemas de evaluación con participación externa, si fuese necesario, para obtener mejores resultados.
-
-XI.- Consejo Estatal Editorial.- Supervisará, evaluará y autorizará todas aquellas publicaciones relacionadas con la Educación en el Estado, cuidando que sus contenidos sean congruentes con los valores del ser humano, tendientes a la superación personal de los guerrerenses y la difusión general de la cultura.
+XI.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2005)
 
 ### CAPITULO III. DEL PRESUPUESTO
 
@@ -224,3 +218,9 @@ Rúbrica.
 P.O. 7 DE ENERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado, para sus efectos constitucionales procedentes.
