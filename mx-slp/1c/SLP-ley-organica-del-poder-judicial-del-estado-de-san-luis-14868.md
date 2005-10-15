@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-14868"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-25"
-last_updated: "2004-04-24"
+last_updated: "2005-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 15 DE OCTUBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 25 de diciembre de 1996.
 
@@ -1482,3 +1484,25 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Supremo Tribunal de Justicia del Estado deberá realizar las adecuaciones a su Reglamento Interior, de conformidad con el presente Decreto, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de éste último.
 
 TERCERO. Se derogan todas las disposiciones y ordenamientos que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2005.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial del Estado de fecha 25 de diciembre de 1996 y sus reformas subsecuentes; y se derogan todas las disposiciones que se opongan a la ley materia del presente Decreto.
+
+TERCERO. En lo relativo al artículo 50 de este Decreto, en tanto el Consejo de la Judicatura determine el número de juzgados que habrá en cada Distrito Judicial, se entenderá que continuarán funcionando en los términos en que actualmente lo hacen conforme al ordenamiento que se abroga.
+
+CUARTO. A la entrada en vigor de esta Ley, las áreas de administración, contraloría, tesorería y en general todas las que manejen cuestiones de la competencia que la Constitución del Estado y esta Ley le atribuyen al Consejo de la Judicatura, pasarán a su dependencia y jerarquía.
+
+QUINTO. El Presidente del Supremo Tribunal de Justicia deberá promover las adecuaciones necesarias al instrumento jurídico vigente, que regula el Fondo de Apoyo para la Administración de Justicia, para que, en adelante sea administrado por el Consejo de la Judicatura.
+
+SEXTO. Las referencias al Supremo Tribunal de Justicia del Estado que se encuentren en las demás leyes estatales o en sus reglamentos, se entenderán hechas a favor del Consejo de la Judicatura, en todo lo que corresponde al ejercicio de su competencia.
+
+SEPTIMO. El Supremo Tribunal de Justicia y el Consejo de la Judicatura, se avocarán a realizar las adecuaciones correspondientes a los reglamentos que regulan las diferentes competencias administrativas en el Poder Judicial de Estado, en un plazo que no excederá de sesenta días naturales a partir de la vigencia de este Decreto.
+
+OCTAVO. Los asuntos relativos a la cuestiones de administración, vigilancia y disciplina que se encuentren en trámite en los juzgados, en las salas y en el Pleno del Supremo Tribunal de Justicia, pasarán a la competencia del Consejo de la Judicatura para continuar su tramitación y resolución, así como sus respectivos archivos.
+
+NOVENO. Instalado el Consejo de la Judicatura promoverá con respeto a los derechos laborales, la readscripción del personal actual del Poder Judicial del Estado, para el ejercicio de los asuntos de su competencia.
+
+DECIMO. El Ejecutivo Estatal, a través de la Comisión Gasto Financiamiento, dispondrá las adecuaciones respectivas al Presupuesto de Egresos del Estado, para dar suficiencia presupuestaria al Consejo de la Judicatura, incluyendo los meses restantes del Ejercicio 2005.
