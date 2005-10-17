@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-xxi-2003-del-comite-de-40900"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-17"
-last_updated: "2003-11-17"
+last_updated: "2005-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-11-17"
 
 ACUERDO GENERAL DE ADMINISTRACION XXI/2003, DEL DIECISIETE DE NOVIEMBRE DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE MODIFICA EL DIVERSO 26/99 POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA MANDOS MEDIOS Y OPERATIVOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION VII/2005, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIII, FEBRERO DE 2006, PAGINA 1967, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIX, Enero de 2004, página 1665.
 
@@ -76,3 +78,21 @@ SEGUNDO.-Las referencias que se hacen en el Acuerdo 26/99 por el que se regula e
 TERCERO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G., TOMO XXIII, FEBRERO DE 2006, PAGINA 1967.
+
+PRIMERO.-Este acuerdo general de administración entrará en vigor desde el día de su aprobación.
+
+SEGUNDO.-Se abrogan los Acuerdos Generales de Administración números 26/1999, XIII/2003 y XXI/2003.
+
+TERCERO.-Las personas que a la entrada en vigor del presente acuerdo general ya gocen de una pensión complementaria, la seguirán recibiendo bajo los términos, condiciones y regulación con las que le fue otorgada. Para dichas personas sólo será aplicable el artículo 31 de este acuerdo general, el cual entrará en vigor una vez que el Comité de Gobierno y Administración lo determine con base en el estudio actuarial que al efecto se realice.
+
+CUARTO.-Lo dispuesto en los artículos 10 y 11 de este acuerdo general de administración entrará en vigor una vez que el Comité de Gobierno y Administración lo determine con base en el estudio actuarial que al efecto se realice.
+
+QUINTO.-Los servidores públicos cuya plaza se transformó con motivo de la entrada en vigor del Acuerdo General Plenario 4/2005 de veinticinco de enero de dos mil cinco, relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, tal como lo señala su artículo cuarto transitorio, no deben sufrir afectación alguna con motivo de esa transformación, por lo que se sujetarán al régimen de pensiones complementarias de este Alto Tribunal que les resulte más favorable.
+
+SEXTO.-Los casos no previstos en este acuerdo general serán resueltos por el Comité Operativo, el cual tendrá amplias facultades para interpretar el mismo.
+
+SÉPTIMO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
