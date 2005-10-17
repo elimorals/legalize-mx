@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "1999-07-12"
+last_updated: "2005-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACION SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -135,9 +135,65 @@ XIII.- Barreras de comunicación: Se entiende por éstas a la falta o deficienci
 
 XIV.- Trabajo protegido: Aquel que realizan las personas con discapacidad mental o de cualquier otro tipo que no pueden ser incorporados al trabajo común por no cubrir los requerimientos ordinarios de productividad;
 
-XV.- Organizaciones de y para personas con discapacidad: Todas aquellas figuras asociativas constituidas legalmente para salvaguardar los derechos de las personas con discapacidad orientadas a facilitar la participación conjunta de la sociedad en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para el desarrollo e integración social de las personas con discapacidad; y,
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
-XVI.- Programa estatal: El programa estatal para el bienestar y la incorporación al desarrollo integral de las personas con discapacidad.
+XV.- Organizaciones de y para personas con discapacidad: Todas aquellas figuras asociativas constituidas legalmente para salvaguardar los derechos de las personas con discapacidad orientadas a facilitar la participación conjunta de la sociedad en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para el desarrollo e integración social de las personas con discapacidad;
+
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XVI.- Programa estatal: El programa estatal para el bienestar y la incorporación al desarrollo integral de las personas con discapacidad;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XVII.- Igualdad de oportunidades: Proceso mediante el cual la información, la vivienda, el transporte, los servicios de salud y sanitarios, la educación, la capacitación, el empleo, las instalaciones deportivas y de recreo y, en general, la vida cultural y la infraestructura social se hacen accesibles para todos;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XVIII.- Discriminación contra las personas con discapacidad: Toda distinción basada en una condición de discapacidad o percepción de una discapacidad, presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio, de sus derechos humanos y libertades fundamentales;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XIX.- Discapacidad auditiva: Disminución o pérdida del sentido del oído;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XX.- Discapacidad intelectual: Al impedimento permanente en las funciones mentales que limita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica e implica diversos niveles de conciencia e inteligencia;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXI.- Discapacidad neuromotora: A la secuela de una afección en el sistema nervioso central, periférico, o ambos, que afecta al sistema músculo-esquelético;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXII.- Discapacidad visual: La agudeza visual corregida en el mejor de los ojos igual o menos de 20/200 o cuyo campo visual es menos de 20 grados;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXIII.- Debilidad visual: La incapacidad de la función visual cuya agudeza, con su mejor corrección convencional sea de 20/60 a percepción de luz o un campo visual menor a 10 grados;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXIV.- Prevención de discapacidad: La adopción de medidas y acciones encaminadas a evitar deficiencias físicas, mentales o sensoriales;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXV.- Necesidad educativa especial: La que se deriva de una incapacidad o dificultades de aprendizaje;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXVI.- Estimulación temprana: Proceso que se utiliza precoz y oportunamente para activar la función motora y sensorial aplicada en niños con factores de riesgo o evidencia de daño neurológico;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXVII.- Lenguaje de señas: Es la lengua nativa de una comunidad de sordos, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en la gramática y vocabulario como cualquier lenguaje oral;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXVIII.- Escritura braille: Es método de impresión basado en un sistema de puntos en relieve grabados en papel u otra superficie para ser leídos al tacto; y
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XXIX.- Deporte adaptado: Los que practican o puedan practicar las personas con discapacidad.
 
 ###### ARTÍCULO 3o.
 
@@ -205,9 +261,21 @@ IX.- Considerarse sus condiciones físicas, mentales y sensoriales si fuere some
 
 X.- Recibir el apoyo suficiente, por parte de la sociedad y de los tres órdenes de gobierno, para lograr su cabal integración social;
 
-XI.- Contar con la asistencia de intérpretes del lenguaje de signos mexicano en lugares públicos, medios de comunicación e instituciones públicas y privadas; y,
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
-XII.- El derecho a estar informados, disponiendo de señalamientos y medios de comunicación para que aquellas personas ciegas, sordas, con deficiencia mental y neuromotoras cuenten con información y medios adecuados para orientarse e informarse a través del sistema braile y telecaption en televisión para sordos.
+XI.- Contar con la asistencia de intérpretes del lenguaje de signos mexicanos en lugares públicos, medios de comunicación e instituciones públicas y privadas;
+
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XII.- El derecho a estar informados, disponiendo de señalamientos y medios de comunicación para que aquellas personas ciegas, sordas, con deficiencia mental y neuromotora cuenten con información y medios adecuados para orientarse e informarse a través del sistema braille y telecaption en televisión para sordos;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XIII.- Protección a la salud; y
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+XIV.- Facilidades de accesibilidad para ejercer sus derechos políticos y electorales.
 
 ###### ARTÍCULO 7o.
 
@@ -227,9 +295,17 @@ VI.- El uso a su favor de los medios perceptibles al tacto, auditivos, visuales,
 
 VII.- La incorporación formal del Lenguaje de Signos Mexicano en las escuelas formadoras de docentes, con el propósito de favorecer los procesos de integración educativa de las personas con discapacidad auditiva;
 
-VIII.- Facilitar el desplazamiento físico en diferentes medios y espacios, contando con transporte público accesible; y,
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
-IX.- La promoción y difusión de la cultura de la discapacidad con el objeto de aprender a convivir, compartir y producir con personas con discapacidad a través de los diferentes medios de comunicación.
+VIII.- Facilitar el desplazamiento físico en diferentes medios y espacios, contando con transporte público accesible;
+
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+IX.- La promoción y difusión de la cultura de la discapacidad con el objeto de aprender a convivir, compartir y producir con personas con discapacidad a través de los diferentes medios de comunicación; y
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+X.- Impulsar en las escuelas de educación especial para sordos, la implementación de programas de oralización y el modelo educativo bilingüe para los mismos.
 
 ###### ARTÍCULO 8o.
 
@@ -318,6 +394,10 @@ II.- Centros de orientación, diagnóstico y atención temprana a las personas c
 III.- Programas de educación y rehabilitación sexual para las personas con discapacidad; y,
 
 IV.- Bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, facilitando su gestión y obtención a la población con discapacidad de escasos recursos.
+
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 15 BIS.- Es obligación del Ejecutivo Estatal, por conducto de la Secretaría, establecer Centros de Atención Múltiple para la Estimulación Temprana, en todos y cada uno de los municipios del Estado.
 
 ###### ARTÍCULO 16.
 
@@ -491,19 +571,29 @@ I.- Todas las personas con discapacidad tienen derecho a los servicios estableci
 
 II.- Los servicios podrán ser prestados tanto por las dependencias o entidades de la administración pública estatal y municipal que tengan a su cargo los servicios de asistencia social, como por instituciones y personas jurídicas privadas, sin fines de lucro;
 
-III.- Los servicios para personas con discapacidad que sean responsabilidad de las dependencias o entidades de la administración pública estatal o municipal, se prestarán por sus instituciones a través de los cauces y mediante los recursos humanos, financieros y técnicos de carácter ordinario con que ya cuentan, excepto cuando las características de la discapacidad exijan una atención singularizada; y,
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
-IV.- La prestación de los servicios respetará al máximo la permanencia de las personas con discapacidad en su medio familiar y en su entorno geográfico, mediante la adecuada localización de los mismos.
+III.- Los servicios para personas con discapacidad que sean responsabilidad de las dependencias o entidades de la administración pública estatal o municipal, se prestarán por sus instituciones a través de los cauces y mediante los recursos humanos, financieros y técnicos de carácter ordinario con que ya cuentan, excepto cuando las características de la discapacidad exijan una atención singularizada;
+
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+IV.- La prestación de los servicios respetará al máximo la permanencia de las personas con discapacidad; y
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+V.- Ninguna condición personal de las personas con discapacidad serán impedimento para recibir los servicios a que se refiere esta Ley.
 
 ### CAPITULO V. DE LA REHABILITACION
 
 ###### ARTÍCULO 33.
 
-Para efectos de la aplicación de esta Ley, se entiende por rehabilitación, el conjunto de medidas técnicas, médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación integral, a fin de realizar las actividades que les permitan ser útiles e integrarse a la vida social y productiva.
+(DEROGADO, B.O. 17 DE OCTUBRE DE 2005)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 34.
 
-Los procesos de rehabilitación de las personas con discapacidad comprenderán según se trate:
+Los procesos de rehabilitación de las personas con discapacidad se aplicarán de conformidad con las indicaciones del diagnóstico general resultante de la valoración que de acuerdo a lo previsto por esta Ley se efectúe en cada caso, y comprenderán:
 
 I.- Rehabilitación médico-funcional;
 
@@ -511,7 +601,9 @@ II.- Orientación y tratamiento psicológico;
 
 III.- Educación general y especial; y
 
-IV.- Rehabilitación socio-laboral.
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+IV.- Rehabilitación de las capacidades laborales y desempeño social.
 
 ###### ARTÍCULO 35.
 
@@ -547,9 +639,35 @@ El apoyo y la orientación psicológica tendrán en cuenta las características 
 
 Los Programas derivados del Sistema Educativo en el Estado, deberán promover una nueva cultura de respeto a la dignidad y a los derechos humanos de las personas con discapacidad, incluyendo referencias al respecto, en los contenidos curriculares de la formación básica y promover en los medios de comunicación una cultura de la discapacidad para aprender a convivir, producir y compartir con las personas con discapacidad.
 
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+La Secretaría de Educación y Cultura se coordinará con la Secretaría de Salud para apoyar el proceso educativo de los niños y jóvenes que se encuentren en proceso de rehabilitación en los hospitales públicos y privados. Ambas Secretarías incluirán en su presupuesto de egresos las partidas necesarias para cumplir con dicha obligación.
+
 ###### ARTÍCULO 42.
 
 Las personas con discapacidad en edad escolar se integrarán al sistema educativo nacional asegurándoles su inscripción, reinscripción, acreditación y certificación.
+
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 42 BIS.- La Secretaría de Educación y Cultura establecerá acciones para:
+
+I.- La habilitación o rehabilitación de las personas con discapacidad;
+
+II.- Admitir y atender a menores, jóvenes y adultos con discapacidad en las escuelas públicas y privadas del sistema básico, educación media superior y superior e instituciones de capacitación para el trabajo.
+
+Todas las guarderías, albergues para menores y hospitales deberán contar con un área o programas de educación especial para prevenir la marginación del proceso educativo de los usuarios de esos lugares;
+
+III.- Implementar actividades y programas educativos y de capacitación para adultos que por su discapacidad no puedan incorporarse a otros sistemas regulares;
+
+IV.- Dar a las personas con discapacidad facilidad, acceso y uso de las instalaciones educativas y servicios de apoyo en función de sus necesidades;
+
+V.- Apoyar a los centros educativos con material didáctico acorde a las necesidades educativas de los menores y adultos con discapacidad;
+
+VI.- Formar, capacitar, actualizar y evaluar al personal docente y de apoyo que atiende a menores con discapacidad;
+
+VII.- Garantizar que las bibliotecas públicas a su cargo cuenten con áreas adecuadas y equipamiento apropiado para las personas con discapacidad; y
+
+VIII.- Celebrar convenios con toda clase de instituciones con el objeto de apoyar el proceso educativo.
 
 ###### ARTÍCULO 43.
 
@@ -569,9 +687,11 @@ Cuando dentro del sistema educativo regular se detecte la presencia de menores c
 
 Las escuelas de educación especial deberán contar con el material didáctico, equipo e infraestructura para una mayor y eficiente atención a las personas con necesidades de educación especial. Asimismo, las escuelas de educación regular, desde preescolar, educación básica y superior contarán con infraestructura tecnológica y materiales necesarios para un óptimo desarrollo académico.
 
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### ARTÍCULO 47.
 
-La Secretaría de Educación y Cultura proveerá y creará infraestructura, espacios y mobiliario acordes a las necesidades de la población con discapacidad en sus planteles y promoverá lo correspondiente ante los niveles de educación media superior y superior, especialmente cuando se trate de bibliotecas, salones de clase, baños y espacios deportivos.
+La Secretaría de Educación y Cultura proveerá y creará infraestructura, espacios y mobiliario acordes a las necesidades de la población con discapacidad en sus planteles y promoverá lo correspondiente ante los niveles de educación media superior y superior, especialmente cuando se trate de bibliotecas, salones de clase, baños y espacios deportivos, involucrando para ello a alumnos, sociedades de padres de familia, organismos no lucrativos de la sociedad civil y demás interesados en dicha causa.
 
 ###### ARTÍCULO 48.
 
@@ -595,13 +715,39 @@ IV.- Dar asesoría a los maestros responsables de atender el sistema de educaci�
 
 V.- La disminución de las deficiencias y sus consecuencias o secuelas;
 
-VI.- El desarrollo de las habilidades y destrezas, así como la adquisición de conocimientos que le permitan a la persona con discapacidad lograr su autonomía; y,
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
-VII.- La incorporación a la vida social y a un sistema de trabajo que permita a las personas con discapacidad auto-realizarse y servir a la sociedad.
+VI.- El desarrollo de las habilidades y destrezas, así como la adquisición de conocimientos que le permitan a la persona con discapacidad lograr su autonomía;
+
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+VII.- La incorporación a la vida social y a un sistema de trabajo que permita a las personas con discapacidad auto-realizarse y servir a la sociedad; y
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+VIII.- Que los menores con discapacidad integrados a las escuelas regulares del sistema básico sean atendidos o tratados con igualdad de oportunidades del resto del alumnado.
 
 ###### ARTÍCULO 51.
 
 Las instituciones que impartan educación a personas con necesidades educativas especiales, deberán contar con el personal especializado y técnicamente capacitado, que brinde las diversas atenciones que cada persona requiera.
+
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTÍCULO 51 Bis.
+
+El Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia, tendrán las obligaciones siguientes:
+
+I.- Promover la sensibilización y actualización de los profesores de educación física sobre la participación deportiva de las personas con discapacidad;
+
+II.- Fomentar la participación de las personas con discapacidad en todas las actividades deportivas, así como formar futuros deportistas a nivel competitivo;
+
+III.- Adaptar los espacios deportivos públicos para la accesibilidad de las personas con discapacidad a la práctica del deporte;
+
+IV.- Impulsar la creación de infraestructura deportiva especializada y de alto rendimiento;
+
+V.- Formar y capacitar entrenadores y profesionales para deporte adaptado; y
+
+VI.- Brindar asesoría e información sobre deporte adaptado.
 
 ### CAPITULO IX. DE LA CULTURA, RECREACION Y DEPORTE
 
@@ -727,6 +873,10 @@ La Secretaría y el Consejo promoverán la participación de las personas con di
 
 El Estado a través del Consejo establecerá programas de promoción de empleo y autoempleo para personas con discapacidad, creando una bolsa de trabajo, en la que se concentre la información básica de los aspirantes.
 
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+El Gobierno del Estado y los municipios deberán destinar para su ocupación un 2% de su plantilla laboral a aquellas personas con discapacidad que acrediten la aptitud necesaria para desempeñar un puesto dentro de sus dependencias.
+
 ###### ARTÍCULO 74.
 
 La bolsa de trabajo se establecerá en el centro de Rehabilitación y Educación Especial, y será coordinada conjuntamente entre el Sistema Estatal D.I.F. y el Consejo.
@@ -741,7 +891,9 @@ La finalidad de los programas señalados en los artículos anteriores, será la 
 
 El Gobierno del Estado y los Ayuntamientos, realizarán acciones para:
 
-I.- Orientar y asistir jurídicamente a las personas con discapacidad; y,
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+I.- Orientar y asistir jurídicamente a las personas con discapacidad, para lo cual deberán contar con el apoyo profesional de especialistas en la materia; y
 
 II.- Difundir los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación.
 
@@ -751,13 +903,23 @@ II.- Difundir los derechos de las personas con discapacidad, así como las dispo
 
 Los servicios sociales para las personas con discapacidad tienen como objetivo garantizar el logro adecuado de los niveles de desarrollo personal y de su integración a la comunidad.
 
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### ARTÍCULO 78.
 
-Además de las medidas específicas previstas en esta Ley, las instituciones del sector público podrán dispensar servicios y prestaciones económicas a las personas con discapacidad que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a la misma, de acuerdo a los programas de asistencia social existentes.
+Además de las medidas específicas previstas en esta Ley, las instituciones del sector público deberán prestar servicios gratuitos a las personas con discapacidad que por su situación económica no puedan cubrir el costo del servicio respectivo, de acuerdo a los programas de asistencia social existentes y previo estudio socioeconómico que se realice para determinar dicha situación.
+
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 79.
 
-Podrán crearse en los municipios del Estado centros comunitarios que tengan por objeto atender a las necesidades básicas de aquellas personas con discapacidad carentes de hogar u familia, o con graves problemas de integración familiar. Estos centros comunitarios podrán ser promovidos por entidades de la Administración Pública, a través de los Sistemas DIF Estatal y Municipales, organizaciones privadas o por las propias personas con discapacidad y sus familias.
+Podrán crearse en los municipios del Estado centros comunitarios que tengan por objeto atender las necesidades básicas de aquellas personas con discapacidad en estado de abandono, carentes de hogar o familia, o con graves problemas de integración familiar. El medio y las condiciones de vida en el centro comunitario deberán asemejarse lo más posible a las de la vida normal de las personas de su edad.
+
+Estos centros comunitarios podrán ser promovidos por entidades de la administración pública, a través de los Sistemas DIF Estatal y Municipales, organizaciones privadas o por las propias personas con discapacidad y sus familias.
+
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 79 BIS.- Del padrón estatal de personas con discapacidad a que se refiere la fracción VII del artículo 24 de esta Ley, deberá crearse una base de datos que contenga la información suficiente que permita identificar plenamente a aquellas personas con discapacidad que han sido beneficiadas por instituciones de beneficencia pública o privada, con la finalidad de evitar duplicidad en el servicio social prestado y así garantizar mayor equidad en el uso de los recursos disponibles para tal fin.
 
 ### CAPÍTULO I. DE LAS BARRERAS ARQUITECTONICAS Y DE SUS ADECUACIONES
 
@@ -825,39 +987,37 @@ I.- En las zonas comerciales y zona centro de las ciudades, así como en todos l
 
 II.- Los cajones especiales de estacionamiento que se destinen a personas con discapacidad, deberán ubicarse lo más cerca posible a las entradas y salidas principales y contar con una rampa, en caso de ser necesaria. Los cajones especiales deberán tener la anchura suficiente para que la persona que utilice silla con ruedas, pueda bajar del vehículo con facilidad.
 
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### ARTÍCULO 90.
 
-Corresponderá al DIF Estatal, en coordinación con los D.I.F. Municipales, otorgar tarjetones exclusivamente a las personas con discapacidad, con la finalidad de que hagan uso de los cajones de estacionamiento especiales.
+Corresponde al Ejecutivo Estatal expedir, para uso exclusivo de las personas con discapacidad permanente, placas para vehículos de propulsión mecánica que contengan el logotipo distintivo de las personas con discapacidad con la finalidad de que dichas personas puedan hacer uso de los cajones de estacionamiento que sean identificados para el referido particular.
+
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 91.
 
-Los tarjetones se expedirán a todas las personas con discapacidad que lo soliciten y deberán ser colocados en parte visible del vehículo
+Las placas a que se refiere el artículo anterior se expedirán a todas las personas con discapacidad que lo soliciten con la vigencia que determinen las leyes de la materia.
+
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 92.
 
-Los tarjetones se denominarán:
+El Ejecutivo Estatal podrá otorgar tarjetones especiales a personas con discapacidad temporal, que se expedirán con una duración equivalente al tiempo estimado de la discapacidad, con la finalidad de que dichas personas puedan hacer uso de los cajones de estacionamiento que sean identificados para el referido particular.
 
-I.- Para discapacidad permanente; y,
-
-II.- Para discapacidad temporal.
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 93.
 
-El D.I.F. Estatal y el DIF Municipal expedirán el tarjetón correspondiente con base en la evaluación del tipo de discapacidad determinado por el Consejo.
+Para los efectos determinados en los artículos 90 y 92 se tomará como base la certificación de discapacidad que expedirá la Secretaría.
 
 ###### ARTÍCULO 94.
 
-La vigencia de los tarjetones será de la siguiente manera:
-
-I.- Dos años para discapacidad permanente; y,
-
-II.- Seis meses para discapacidad temporal.
-
-Vencido el término de vigencia del tarjetón correspondiente, la persona con discapacidad tiene la obligación de comunicarlo con 10 días previos a la Autoridad estatal y municipal correspondiente a fin que éste le sea renovado.
+(DEROGADO, B.O. 17 DE OCTUBRE DE 2005)
 
 ###### ARTÍCULO 95.
 
-La persona con discapacidad temporal que haya sido beneficiada con un tarjetón, y extinguida o subsanada la discapacidad correspondiente tendrá la obligación de comunicarlo en un plazo no mayor de 5 días al D.I.F. Municipal y, en caso de incumplimiento, o que continúe en uso de dicho tarjetón, se hará acreedor a una de las sanciones establecidas en esta Ley.
+(DEROGADO, B.O. 17 DE OCTUBRE DE 2005)
 
 ### CAPÍTULO IV. DE LOS ELEVADORES Y RAMPAS
 
@@ -1035,11 +1195,11 @@ Contra la resolución que recaiga al recurso de inconformidad, procede el juicio
 
 T R A N S I T O R I O S
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
 El Consejo Estatal y los Consejos Municipales para la Integración al Desarrollo de las Personas con Discapacidad deberán constituirse y quedar legalmente instalados dentro de los sesenta días siguientes contados a partir de la publicación de la presente Ley, o en su caso, en la fecha que determine el Titular del Ejecutivo Estatal y los Ayuntamientos, cuyo plazo no excederá de noventa días naturales.
 
@@ -1064,3 +1224,11 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 22 de junio de 1999.- AL MARGEN CENTRAL INFERIOR UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- DIPUTADO PRESIDENTE.- C. JUAN EDMUNDO LOPEZ DURAND.- RUBRICA.- DIPUTADO SECRETARIO.- C. GUILLERMO PADRES ELIAS.- RUBRICA.- DIPUTADA SECRETARIA.- C. PATRICIA ALONSO RAMIREZ.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO.- Hermosillo, Sonora, dos de julio de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- MIGUEL ANGEL MURILLO AISPURO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 17 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
