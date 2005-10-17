@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2003-03-18"
+last_updated: "2005-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -377,9 +377,9 @@ El Congreso tendrá como asuntos de atención preferente:
 
 I. En el primer período de sesiones ordinarias:
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
-a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado por el Gobernador del Estado durante el mes de diciembre;
+a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado entre el seis y diez de noviembre por el Gobernador del Estado. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente;
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1329,7 +1329,9 @@ IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, d
 
 V. Promover y fomentar, por todos los medios posibles, la educación pública, la protección a la salud y procurar el progreso y bienestar social en el Estado;
 
-VI. Presentar al Congreso del Estado, durante el mes de diciembre de cada año, el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)</small>
+
+VI. Presentar al Congreso del Estado el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;
 
 VII. Realizar las gestiones necesarias ante el Gobierno Federal a fin de que las transferencias de recursos que se le otorguen al Estado sean proporcionales y acordes a su densidad poblacional y extensión territorial, a efecto de lograr la equidad en la distribución de las mismas;
 
@@ -1845,7 +1847,7 @@ Las autoridades participarán en la regulación, definición y determinación de
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
+### CAPÍTULO II. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1909,7 +1911,7 @@ La legislación determinará las obligaciones de los servidores públicos, los p
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO II. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1951,6 +1953,8 @@ II. El Presidente de la última Diputación Permanente;
 
 III. El último Presidente del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 ### CAPITULO II. De los alimentos
 
 ### CAPITULO VI. De la separación de bienes
@@ -1968,8 +1972,6 @@ Para la reforma total o la abrogación de las disposiciones contenidas en esta C
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
 El Congreso o la Diputación Permanente hará el cómputo de los votos de los ayuntamientos y, en su caso, la declaratoria de que han sido aprobadas las reformas.
-
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 85.
 
@@ -11263,16 +11265,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
-G.O. 16 DE DICIEMBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente ordenamiento.
-
 G.O. 12 DE OCTUBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -11282,6 +11274,16 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
+
+G.O. 16 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 G.O. 22 DE SEPTIEMBRE DE 1994.
 
@@ -11578,6 +11580,12 @@ G.O. 18 DE MARZO DE 2003.
 DECRETO No. 549 DE REFORMA CONSTITUCIONAL.
 
 ÚNICO. La presente resolución entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 17 DE OCTUBRE DE 2005.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la misma fecha que las reformas a la Constitución.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
