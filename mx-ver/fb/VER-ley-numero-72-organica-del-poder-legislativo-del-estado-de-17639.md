@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2005-04-13"
+last_updated: "2005-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -69,7 +69,9 @@ El Congreso tendrá como asuntos de atención preferente:
 
 I. En el Primer Período de Sesiones Ordinarias:
 
-a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado por el Gobernador del Estado durante el mes de diciembre; y
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+
+a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado entre el seis y diez de noviembre por el Gobernador del Estado. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente.
 
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva.
 
@@ -591,7 +593,9 @@ II. Presentar a la Mesa Directiva y al Pleno proyectos de puntos de acuerdo, pro
 
 III. Proponer al Pleno la integración de las Comisiones, así como de sus respectivas Juntas Directivas;
 
-IV. Presentar al Pleno, para su aprobación, el anteproyecto de presupuesto anual del Congreso;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)</small>
+
+IV. Presentar al Pleno para su aprobación, el anteproyecto de presupuesto anual del Congreso, con sujeción a los tiempos establecidos por el artículo 6 de esta Ley;
 
 V. Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los Grupos Legislativos; y
 
@@ -1234,3 +1238,11 @@ G.O. 13 DE ABRIL DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE OCTUBRE DE 2005.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la misma fecha que las reformas a la Constitución.
+
+Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
