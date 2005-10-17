@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-579-de-transito-y-transporte-para-el-estado-de-45020
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-08"
-last_updated: "2005-08-15"
+last_updated: "2005-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 8 de agosto de 2003.
 
@@ -1265,29 +1265,35 @@ Las autoridades de tránsito y transporte supervisarán las escuelas de enseñan
 
 ### Capítulo XX. De los consejos técnicos de transporte público
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 119.
 
-Los transportistas del Estado podrán constituir Consejos Técnicos de Transporte, como órganos auxiliares de estudio y opinión técnica para el mejoramiento en la prestación de los servicios de transporte.
+Los transportistas del Estado podrán constituir un Consejo Técnico Estatal de Transporte, como órgano auxiliar de estudio y opinión técnica para el mejoramiento en la prestación de los servicios de transporte.
 
-Estos Consejos podrán intervenir en los conflictos de carácter individual o colectivo, que afecten los intereses internos de los transportistas.
+Este Consejo podrá intervenir en los conflictos de carácter individual o colectivo, que afecten los intereses internos de los transportistas.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 120.
 
-El objeto de estos Consejos será beneficiar a los usuarios del servicio de transporte público, como órganos de vinculación administrativa entre el Gobierno del Estado y los transportistas.
+El objeto de este Consejo será beneficiar a los usuarios del servicio de transporte público. Como órgano de vinculación administrativa entre el Gobierno del Estado y los transportistas.
+
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 121.
 
-Sólo habrá un Consejo Técnico Estatal, por cada una de las modalidades del transporte que señala el artículo 84 de esta Ley y se integrará con un número no mayor a diez representantes de los concesionarios.
+El Consejo Técnico Estatal se integrará por un representante por cada una de las modalidades y submodalidades del transporte previstas en el artículo 84 de esta Ley.
 
-Para su mejor funcionamiento, cada Consejo Técnico Estatal podrá contar con Consejos Técnicos Regionales, en los que se atenderán los asuntos relativos al ámbito territorial que les corresponda y estarán integrados por no más de cinco representantes de los concesionarios.
+Para su mejor funcionamiento, el Consejo Técnico Estatal podrá contar con Consejos Técnicos Regionales por cada una de las modalidades del transporte, en los que se atenderán los asuntos relativos al ámbito territorial que les corresponda y estarán integrados por no más de cinco representantes de los concesionarios.
 
-Cada Consejo Técnico Estatal podrá determinar el número de Consejo (sic) Técnicos regionales que requieran.
+El Gobierno del Estado, por conducto de la Dirección, designará un representante ante el Consejo Técnico Estatal para que participe con voz pero sin voto en sus sesiones.
 
-El Gobierno del Estado, por conducto de la Dirección, designará un representante ante cada Consejo Técnico Estatal para que participe con voz pero sin voto en sus sesiones.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 122.
 
-Las decisiones que se adopten en el seno de los Consejos Técnicos Estatales, no serán obligatorias para las autoridades de tránsito y transporte del Estado; sin embargo, los Consejos deberán comunicarlas a éstas para su consideración.
+Las decisiones que se adopten en el seno del Consejo Técnico Estatal no serán obligatorias para las autoridades de tránsito y transporte del Estado; sin embargo, el Consejo deberá comunicarlas a éstas para su consideración.
 
 ### Capítulo XXI. De la inspección y vigilancia
 
@@ -1478,3 +1484,9 @@ G.O. 15 DE AGOSTO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 17 DE OCTUBRE DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
