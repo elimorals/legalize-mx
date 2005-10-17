@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2002-10-24"
+last_updated: "2005-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -515,9 +515,17 @@ V.- Proporcionar, en forma gratuita, los servicios de asistencia jurídica y de 
 
 VI.- Derivado de los procedimientos o procesos que afecten o pueden afectar a un menor, poner a disposición del Ministerio Público o de cualquier órgano jurisdiccional, los elementos a su alcance en la protección de las personas a que se refiere esta ley;
 
-VII.- Realizar visitas de inspección, vigilancia y evaluación en la prestación de los servicios de asistencia privada a menores de edad; y
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
-VIII.- Proponer al Titular del Poder Ejecutivo las políticas y mecanismos que garanticen la protección de las personas a las que se refiere esta ley.
+VII.- Realizar visitas de inspección, vigilancia y evaluación en la prestación de los servicios de asistencia privada a menores de edad;
+
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+VIII.- Proponer al Titular del Poder Ejecutivo las políticas y mecanismos que garanticen la protección de las personas a las que se refiere esta ley; y
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
+IX.- Intervenir en aquellos casos en que los menores con discapacidad queden desprotegidos por el incumplimiento de los sujetos que, de acuerdo con la legislación aplicable respectiva, tengan la obligación de proporcionarles pensión alimenticia, llevando a cabo las acciones legales necesarias para hacer cumplir a dichos sujetos con tal obligación.
 
 ###### Artículo 57.
 
@@ -558,3 +566,11 @@ COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU SANCIÓN Y PROMULGACIÓN.-
 AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 1 DE OCTUBRE DE 2002.- DIPUTADO PRESIDENTE.- C. RAUL ACOSTA TAPIA.- RUBRICA.- DIPUTADO SECRETARIO.- C. GUSTAVO I. MENDIVIL AMPARAN.- RUBRICA.- DIPUTADO SECRETARIO.- C. HELEODORO PACHECO VASQUEZ.- RUBRICA.
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS CUATRO DIAS DEL MES DE OCTUBRE DEL DOS MIL DOS.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 17 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
