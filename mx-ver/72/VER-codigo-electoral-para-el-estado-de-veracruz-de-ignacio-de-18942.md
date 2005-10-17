@@ -4,7 +4,7 @@ identifier: "VER-codigo-electoral-para-el-estado-de-veracruz-de-ignacio-de-18942
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-19"
-last_updated: "2004-12-31"
+last_updated: "2005-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 19 de octubre de 2000.
 
@@ -535,7 +535,7 @@ I. Contar con un mínimo de quinientos asociados en el Estado;
 
 II. Establecer un órgano directivo de carácter estatal y tener además, delegaciones en cuando menos sesenta municipios de la entidad;
 
-III. Haber efectuado como grupo u organización, actividades políticas continuas cuando menos durante los dos últimos años;
+III. Haber efectuado como grupo u organización, actividades políticas continúas cuando menos durante los dos últimos años;
 
 IV. Sustentar una ideología política definida y encargarse de difundirla;
 
@@ -731,7 +731,7 @@ Los partidos políticos, durante sus campañas electorales, deberán observar lo
 
 I. Sujetarán la fijación de propaganda en lugares de uso común o de acceso público a las bases y procedimientos que convenga el Consejo General del Instituto Electoral Veracruzano o, en su caso, las (sic) Consejos Distritales o Municipales del Instituto, con las autoridades federales, estatales y municipales;
 
-II. Se prohibe fijar propaganda escrita en edificios públicos o coloniales, monumentos y obras de arte, o en el pavimento de las vías públicas;
+II. Se prohíbe fijar propaganda escrita en edificios públicos o coloniales, monumentos y obras de arte, o en el pavimento de las vías públicas;
 
 III. Sólo podrá fijarse propaganda escrita en propiedades particulares, previa autorización de los dueños o poseedores, incurriendo el partido político que no lo haga así en la responsabilidad del caso;
 
@@ -1063,21 +1063,19 @@ Las reglas de ingreso, evaluación, promoción y permanencia de los servidores p
 
 ### CAPÍTULO III. DEL CONSEJO GENERAL
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 83.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar que los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad y definitividad rijan las actividades del Instituto.
+El Consejo General es el órgano superior de dirección responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar que los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad y definitividad rijan las actividades del Instituto.
 
 El Consejo General se integrará con:
 
-I. Cinco Consejeros Electorales, con derecho a voz y voto en las sesiones del Consejo General; y
+I. Cinco Consejeros Electorales, con derecho a voz y voto en las sesiones del Código General; y
 
 II. Un representante por cada uno de los partidos políticos que hubieren obtenido su registro o acreditación, en su caso, para participar en las elecciones correspondientes, con derecho a voz pero sin voto en las sesiones del Consejo General.
 
 Por cada Consejero Electoral propietario, se designará un suplente. De igual manera, por cada representante propietario de partido político, se acreditará un suplente.
-
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
-
-En los años en que no se celebren procesos electorales, el Consejo General se integrará con los representantes de los partidos políticos registrados y será presidido por el Secretario Ejecutivo, todos con derecho a voz y voto, a efecto de ejercer exclusivamente las atribuciones señaladas en las fracciones I, VI en lo referente al otorgamiento del registro de los partidos, agrupaciones y asociaciones políticas; las de las fracciones VIII, XII, XIV en lo relativo a los trabajos técnicos para la preparación, organización y desarrollo de los plebiscitos y referendos, y de las fracciones XXIX, XXXII, XXXIII, todas del artículo 89 de este Código.
 
 ###### Artículo 84.
 
@@ -1135,13 +1133,13 @@ II. Desempeñar cargos de dirigencia nacional, estatal o municipal, o equivalent
 
 III. Utilizar en beneficio propio o de terceros la información confidencial de que dispongan en razón de su cargo; ni divulgarla sin autorización del Consejo General.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 88.
 
-Los Consejeros Electorales durarán en su encargo el período que comprenda el proceso electoral para el cual fueron designados. En caso de ausencia definitiva será llamado el suplente que corresponda.
+Los Consejeros Electorales durarán en su cargo tres años y podrán ser reelectos, por una sola vez, para el periodo inmediato. En caso de ausencia definitiva, será llamado el suplente que corresponda.
 
-Los Consejeros Electorales estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Quinto de la Constitución del Estado. Asimismo, el Congreso del Estado podrá, por el voto de las dos terceras partes de sus integrantes, revocar el nombramiento del Consejero Electoral que actualice alguno de los supuestos contenidos en el artículo anterior.
+Los consejeros Electorales estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Quinto de la Constitución del Estado. Asimismo, el Congreso del Estado podrá por el voto de las dos terceras partes de sus integrantes revocar el nombramiento del Consejero Electoral que actualmente alguno de los supuestos contenidos en el artículo anterior.
 
 ###### Artículo 89.
 
@@ -3722,3 +3720,17 @@ G.O. 31 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE OCTUBRE DE 2005.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los partidos políticos, a través de sus Grupos Legislativos, deberán presentar al Congreso del Estado, dentro de los tres días naturales siguientes al inicio de la vigencia del presente Decreto, sus propuestas correspondientes para la designación de los Consejeros Electorales, propietarios y suplentes.
+
+Tercero. El Congreso elegirá a los Consejeros Electorales, propietarios y suplentes, por el voto de las dos terceras partes de sus integrantes, a más tardar el veinte de octubre de dos mil cinco.
+
+Cuarto. El Consejo del Instituto Electoral Veracruzano deberá quedar instalado, conforme a las disposiciones del presente Decreto, a más tardar el veintiséis de octubre de dos mil cinco.
+
+Quinto. Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, para su conocimiento y efectos legales a que haya lugar
+
+Sexto. Publíquese en la Gaceta Oficial órgano del Gobierno del estado.
