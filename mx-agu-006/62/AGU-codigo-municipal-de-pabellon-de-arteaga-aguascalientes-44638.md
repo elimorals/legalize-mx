@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2005-04-18"
+last_updated: "2005-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,15 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
+CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2005.
 
-Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
+Código publicado en el Periódico Oficial del estado de Aguascalientes, el 18 de abril de 2005.
+
+GOBIERNO DEL ESTADO
+
+CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
 EDUARDO C. TORRES CAMPOS, Presidente Municipal de Pabellón de Arteaga, Aguascalientes, en cumplimiento a lo preceptuado por la fracción I del artículo 38 de la Ley Municipal del Estado de Aguascalientes, a los habitantes del Municipio hace saber:
 
@@ -3509,9 +3513,9 @@ a).- Planoteca: Contiene planos y mapas, su consulta requiere de autorización p
 
 b).- Biblioteca: Se compone de obras dedicadas principalmente a historia regional; su consulta está a disposición del público en general y ésta solo se hará dentro del edificio;
 
-c).- Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y está se hará solo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Asimismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de Pabellón de Arteaga;
+c).- Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial;su consulta está a disposición del público en general y está se hará solo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Asimismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de Pabellón de Arteaga;
 
-d).- Fototeca: Esta formada por fotografías de administraciones pasadas; su consulta es abierta al público; y
+d).- Fototeca: Esta formada por fotografías de administraciones pasadas;su consulta es abierta al público; y
 
 e).- Fondo Histórico: Esta integrado por la documentación que concluyó su vida para la administración municipal, su consulta queda abierta al público en general, no permitiendo la salida de ningún documento, salvo en casos especiales como exposiciones o intercambios culturales. Este fondo se enriquece con compras, donaciones y microfilms.
 
@@ -4645,7 +4649,7 @@ IX.- Evitar la introducción de personas en estado de ebriedad y bajo los efecto
 
 X.- Procurar el buen estado de los jardines que se encuentran dentro de los panteones; y
 
-VII (sic).- Retirar o derrumbar con cargo al propietario los monumentos o cualquier otra construcción que no se encuentre dentro del alineamiento que debe tener la fosa o cripta.
+VII (SIC).- Retirar o derrumbar con cargo al propietario los monumentos o cualquier otra construcción que no se encuentre dentro del alineamiento que debe tener la fosa o cripta.
 
 ###### ARTICULO 509.
 
@@ -5533,7 +5537,7 @@ V.- Celebrar convenios de coordinación con las diferentes Instituciones relacio
 
 VI.- Asistir a las juntas y reuniones para efecto de coordinar políticas relacionadas con la prevención del delito.
 
-VII.- Participar en la promoción y fomento de una cultura de prevención del delito, educación vial y siniestros; y
+VII .- Participar en la promoción y fomento de una cultura de prevención del delito, educación vial y siniestros; y
 
 VIII.- Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en coordinación con la Unidad Municipal de Protección Civil, bomberos y cuerpo de rescate.
 
@@ -6163,13 +6167,13 @@ I.- El Regidor de Seguridad Pública quien fungirá como Presidente de la Comisi
 
 II.- Dos elementos operativos de la Dirección;
 
-III.- Dos ciudadanos reconocidos con destacada solvencia moral.
+lll.- Dos ciudadanos reconocidos con destacada solvencia moral;
 
 Todos los integrantes tendrán derecho a voz y voto, siendo el Presidente de la Comisión de Honor y Justicia quien tendrá el voto de calidad en caso de empate.
 
 ###### ARTICULO 708.
 
-Los ciudadanos a que se refiere la fracción III del artículo anterior deberán radicar en el Municipio de Pabellón de Arteaga, ser de reconocida solvencia moral y serán designados por el Presidente Municipal.
+Los ciudadanos a que se refiere la fracción Ill del artículo anterior deberán radicar en el Municipio de Pabellón de Arteaga, ser de reconocida solvencia moral y serán designados por el Presidente Municipal.
 
 ###### ARTICULO 709.
 
@@ -6257,7 +6261,7 @@ I.- Recibir quejas y en su caso la ratificación de las mismas, por parte de la 
 
 II.- Integrar los elementos que a su juicio fueren necesarios para que la denuncia pueda ser presentada ante la Comisión, tratando de que la misma esté debidamente fundada y motivada, antes de que se presente;
 
-III.- Recabar, ofrecer y presentar las pruebas de cargo y en su caso aportar los elementos necesarios para su desahogo;
+Ill.- Recabar, ofrecer y presentar las pruebas de cargo y en su caso aportar los elementos necesarios para su desahogo;
 
 IV.- Elaborar los alegatos del caso en cuestión, y en su caso solicitar la imposición de la sanción aplicable, para que la Comisión determine;
 
@@ -6317,13 +6321,13 @@ III.- Dentro del término de cinco días hábiles siguientes a dicha notificaci�
 
 IV.- Se dará vista a los integrantes de la Comisión, para lo cual se les hará llegar una copia del expediente respectivo, a fin de que queden enterados del asunto;
 
-V.- Concluido el término para la presentación del informe justificado, se dictará un acuerdo sobre su admisión, y en el mismo, se fijará fecha para que en un plazo máximo de seis días hábiles se realice la audiencia ante el pleno de la Comisión en la que se desahogarán las pruebas admitidas, se rendirán alegatos y se dictará resolución.
+V.- Concluido el término para la presentación del informe justificado, se dictará un acuerdo sobre su admisión, y en el mismo, se fijará fecha para que en un plazo máximo de seis días hábiles se realice la audiencia ante el pleno de la Comisión en la que se desahogarán las pruebas admitidas, se rendirán alegatos y se dictará resolución;
 
 VI.- Podrán ser ofrecidas toda clase de pruebas, con excepción de la prueba confesional de las autoridades. No se considerará comprendida en esta prohibición la petición de informe de las dependencias, entidades u organismos auxiliares, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-En el caso de que la prueba ofrecida por el presunto infractor requiera de preparación para su desahogo, éste se obligará a presentar y facilitar los medios que convengan para su correcta diligenciación en la propia audiencia ante la autoridad instructora competente; en caso de no hacerlo se declarará desierta la probanza respectiva en su perjuicio. Sólo podrán ser rechazadas las pruebas propuestas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias a la moral o al derecho. Tal resolución deberá estar debidamente fundada y motivada.
+En el caso de que la prueba ofrecida por el presunto infractor requiera de preparación para su desahogo, éste se obligará a presentar y facilitar los medios que convengan para su correcta diligenciación en la propia audiencia ante la autoridad instructora competente; en caso de no hacerlo se declarará desierta la probanza respectiva en su perjuicio. Sólo podrán ser rechazadas las pruebas propuestas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias a la moral o al derecho. Tal resolución deberá estar debidamente fundada y motivada;
 
-VII.- En el caso de no comparecer el elemento operativo sin causa justificada, se tendrán como presuntamente ciertos los hechos constitutivos de la denuncia.
+VII.- En el caso de no comparecer el elemento operativo sin causa justificada, se tendrán como presuntamente ciertos los hechos constitutivos de la denuncia;
 
 VIII.- Las audiencias no podrán suspenderse salvo cuando existan causas de fuerza mayor ajenas a la Comisión que impidan su desahogo o lo solicite el defensor a efecto de allegarse de medios para su mejor defensa, en caso de que surjan causa (sic) supervenientes al hecho que se analiza, previa calificación del Presidente, la prórroga no excederá en todo caso de diez días hábiles; y
 
@@ -7277,7 +7281,7 @@ I.- Coordinar los trabajos operativos que apoyen la realización, instrumentaci�
 
 II.- Organizar los eventos que apoyen la formulación de los programas elaborados por el Consejo Municipal de Protección Civil; y (sic)
 
-III.- Informar a los miembros del Consejo respecto del avance de los programas que integra el Sistema Municipal de Protección Civil;
+III.- Informar a los miembros del Consejo respecto del avance de los programas que integra el Sistema Municipal de Protección Civil.;
 
 IV.- Promover la Protección Civil en sus aspectos normativo, operativo, de coordinación y participación buscando la extensión de sus efectos a toda la población del Municipio;
 
@@ -7379,7 +7383,7 @@ IV.- Las acciones que la Unidad Municipal de Protección Civil deberá ejecutar 
 
 V.- Los criterios para promover la participación social y la capacitación y aplicación de los recursos que aporten los sectores público, privado y social;
 
-VI.- El inventario de recursos disponible;
+VI.- El inventario de recursos disponible,
 
 VII.- Las previsiones para organizar albergues y viviendas emergentes;
 
@@ -8389,7 +8393,7 @@ La propia Dirección de Planeación, Obras y Servicios Públicos, tendrá facult
 
 I.- Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
 
-II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
+II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra;a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
 
 III.- Se tendrá opción a solicitar a la Dirección de Planeación, Obras y Servicios Públicos Municipales, dentro del plazo de vigencia de la Licencia, a una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
@@ -8527,7 +8531,7 @@ b) Criterio de cálculo estructural;
 
 c) Análisis de cargas;
 
-d) Dimensionamiento y cálculo de: cimentación, columnas y/o muros, entrepisos y techos, trabes y/o vigas y/o armaduras.;
+d) Dimensionamiento y cálculo de: cimentación, columnas y/o muros, entrepisos y techos, trabes y/o vigas y/o armaduras;
 
 e) Todo lo anterior, debe respetar lo estipulado en los requisitos estructurales del presente Libro;
 
@@ -8543,7 +8547,7 @@ c) Alzados o fachadas de la finca indicando la altura de ésta con respecto al n
 
 d) Croquis de localización del predio indicando las medidas de éste, distancia hacia la esquina más próxima, las calles que circundan la manzana, y el norte magnético;
 
-e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, nombre, número y firma en original del Perito ´Responsable de la Obra, escalas y acotaciones;
+e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, nombre, número y firma en original del Perito Responsable de la Obra, escalas y acotaciones;
 
 f).- Dictamen de impacto ambiental y constancia de Alineamiento y Compatibilidad Urbanística;
 
@@ -9177,7 +9181,7 @@ IV.- En caso de que el nivel de salida de aguas negras o de lluvia de una constr
 
 V.- De no existir servicio público de drenaje sanitario, las aguas negras deberán conducirse a una fosa séptica de la capacidad adecuada;
 
-VI.- Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras;
+VI.- Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras.
 
 VII.- Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Planeación, Obras y Servicios Públicos Municipales.
 
@@ -10003,6 +10007,8 @@ En el caso de empujes laterales de tierras deberán calcularse tanto los empujes
 
 ### CAPITULO CUARTO. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 1161.
 
 Se deberá tomar en cuenta el efecto de posibles sobrecargas, fijas o móviles, así como la posibilidad de que el nivel de material depositado originalmente contra la estructura de contención aumente.
@@ -10307,6 +10313,8 @@ En el caso de que se utilice bombeo en una excavación, los movimientos del terr
 
 ### CAPITULO QUINTO. De las Cámaras, Asociaciones y Uniones
 
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 1205.
 
 En los rellenos no se deberán emplear materiales degradables ni excesivamente compresibles, y su compactación deberá hacerse de modo que sus cambios volumétricos por peso propio, saturación ú otras acciones externas no causen daños intolerables a las instalaciones o estructuras alojadas dentro o encima de dichos rellenos.
@@ -10547,7 +10555,9 @@ Cuando haya que reubicar o quitar arbolado existente en la vía pública, deber�
 
 ## TITULO QUINTO. DEL USO, OPERACIÓN Y MANTENIMIENTO
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEXTO. De la Gestión Empresarial
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 1248.
 
@@ -10635,7 +10645,7 @@ Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos
 
 El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
-### CAPITULO SEGUNDO. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 1264.
 
@@ -10651,7 +10661,7 @@ Si en el proceso de una excavación se encuentran restos fósiles o arqueológic
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
 
-### CAPITULO TERCERO. De los Aseadores de Calzado y de Vehículos en la Vía Pública
+### CAPITULO SEGUNDO. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTICULO 1267.
 
@@ -10819,7 +10829,7 @@ La proporción y calidad de los materiales que constituyen la mampostería será
 
 Deberán (sic) comprobarse que las estructuras de mampostería cumplan con las características del proyecto y se construyan de acuerdo con los Procedimientos de Construcción establecidos en la Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, cuidando especialmente se cumplan con las tolerancias y el control de resistencia fijados en dichas normas.
 
-### CAPITULO CUARTO. De los Filarmónicos y Grupos Acústicos
+### CAPITULO TERCERO. De los Aseadores de Calzado y de Vehículos en la Vía Pública
 
 ###### ARTICULO 1297.
 
@@ -11075,15 +11085,15 @@ Los propietarios de edificaciones tienen obligación de conservarlas en buenas c
 
 Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas.
 
-### CAPITULO QUINTO. De los Estacionamientos Públicos
+### CAPITULO CUARTO. De los Filarmónicos y Grupos Acústicos
 
 ###### ARTICULO 1339.
 
 Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
 
-## TITULO PRIMERO. DEL COMERCIO E INDUSTRIA EN GENERAL
+## TITULO PRIMERO. COMERCIO E INDUSTRIA EN GENERAL
 
-### CAPITULO PRIMERO. De la Venta y Consumo de Bebidas Alcohólicas
+### CAPITULO QUINTO. De los Estacionamientos Públicos
 
 ###### ARTICULO 1340.
 
@@ -11251,7 +11261,7 @@ Los permisos y licencias que se otorguen para la venta de bebidas alcohólicas, 
 
 Se podrá expedir licencias múltiples, que consiste en que una sola licencia ampare varias (sic) giros, cuando la persona física o moral desarrolle en un solo predio varias actividades.
 
-### CAPITULO SEGUNDO. Del Ejercicio de la Prostitución
+### CAPITULO PRIMERO. De la Venta y Consumo de Bebidas Alcohólicas
 
 ###### ARTICULO 1352.
 
@@ -11329,17 +11339,11 @@ X.- De las 9:00 a las 01:00 horas del día siguiente: Salones de Fiesta, salones
 
 ###### ARTICULO 1358.
 
-Todos los comerciantes, industriales y prestadores de servicios, deberán mantener aseados sus negociaciones (sic), locales y lugares adyacentes donde efectúen sus actividades.
+Todos los comerciantes, industriales y prestadores de servicios, deberán mantener aseados sus negociaciones (sic), locales y lugares adyacentes donde efectúen sus actividades. En cuanto a las industrias éstas se regirán de acuerdo con la ley que corresponda al ramo industrial de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 1359.
-
-En cuanto al contenido del artículo anterior, las industrias se regirán de acuerdo con la ley que corresponda al ramo industrial de que se trate.
-
-###### ARTICULO 1360.
-
-La razón comercial de los giros y propaganda, será exclusivamente en idioma español con apego a la moral y a las buenas costumbres.
-
-###### ARTICULO 1361.
 
 Son obligaciones de los titulares de las licencias o permisos que conceda el H. Ayuntamiento, las siguientes:
 
@@ -11357,7 +11361,7 @@ VI.- Respetar el horario autorizado, por este Código;
 
 VII.- En los establecimientos que así lo requieran, colocar en lugares visibles letreros, que indiquen al público, las áreas de trabajo, zonas restringidas o de peligro, salidas de emergencia, servicios sanitarios, áreas de fumadores y no fumadores y ubicación de extintores.
 
-VIII.- Permitir el libre acceso a los inspectores de El Departamento de Reglamentos y Licencias, para la realización de sus funciones;
+VIII.- Permitir el libre acceso a los inspectores del Departamento de Reglamentos y Licencias, para la realización de sus funciones;
 
 IX.- Renovar anualmente, a más tardar el treinta y uno de marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones que le señala este Código;
 
@@ -11371,57 +11375,141 @@ XIII.- Abstenerse de utilizar la vía pública para la realización de la activi
 
 XIV.- Abstenerse de recibir armas o cualquier objeto en prenda o garantía de pago de las bebidas que vendan;
 
-XV.- Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de Héroes Nacionales; y
+XV.- Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de héroes nacionales;
 
-XVI.- Respetar cualquiera de las limitaciones que le impone este Código así como las demás que se desprendan de otros ordenamientos jurídicos.
+XVI.- Contar con la razón comercial de los giros y propaganda, exclusivamente en idioma español con apego a la moral y a las buenas costumbres; y
 
-###### ARTICULO 1362.
+XVII.- Respetar cualquiera de las limitaciones que le impone este Código así como las demás que se desprendan de otros ordenamientos jurídicos.
 
-Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2005)</small>
 
-###### ARTICULO 1363.
+###### ARTICULO 1360.
 
-Los establecimientos cuyo giro es la renta de mesas de billar no deberán permitir acceso a menores de edad.
+Los giros que a continuación se señalan tiene las siguientes obligaciones específicas:
 
-###### ARTICULO 1364.
+I.- Hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro. La violación de esta disposición será materia de sanción, en los términos de este Código;
 
-Los giros dedicados a la renta de máquinas de juegos o electrónicas, no permitirán la entrada y permanencia a menores con uniforme escolar.
+II.- Establecimientos cuyo giro es la renta de mesas de billar abstenerse de permitir el acceso a menores de edad;
 
-### CAPITULO TERCERO. De las Farmacias, Droguerías, Tlapalerías o Similares
+III.- Establecimientos dedicados a la renta de máquinas de juegos o electrónicas, abstenerse de permitir la entrada y permanencia a menores con uniforme escolar;
 
-###### ARTICULO 1365.
+IV- Establecimientos dedicados a la renta de películas, videos, cintas, discos compactos y cualquier otro equipo que transmita sonido o imágenes, abstenerse de contratar a menores de edad, en la exhibición de imágenes de carácter erótico y de rentar películas clasificadas como exclusivas para adultos a menores de edad;
 
-Los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos y cualquier otro equipo que transmita sonido o imágenes, se abstendrán de contratar a menores de edad, en la exhibición de imágenes de carácter erótica (sic) y la renta de películas clasificadas como exclusivas para adultos a menores de edad.
+V.- Salones para fiestas infantiles; abstenerse de vender o permitir el consumo de bebidas alcohólicas; y
 
-###### ARTICULO 1366.
+VI.- Estanquillos, kioscos o locales que se dediquen a la venta de revistas y periódicos; exhibir las revistas con contenido señalado para adultos en los lugares menos visibles, envueltas en bolsas de plástico u otro material similar y limitar su venta a mayores de dieciocho años.
 
-En los salones para fiestas infantiles no se permitirá la venta o consumo de bebidas alcohólicas.
-
-###### ARTICULO 1367.
-
-Las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales, deberán exhibir las revistas con contenido señalado para adultos en los lugares menos visibles, y limitar su venta a mayores de dieciocho años.
-
-###### ARTICULO 1368.
+###### ARTICULO 1361.
 
 Los comerciantes, industriales y prestadores de servicios podrán organizarse libremente en cámaras, asociaciones ó uniones.
 
-### CAPITULO PRIMERO. De los Eventos de Diversión y Entretenimiento
+Estas organizaciones serán reconocidas por el H. Ayuntamiento, previa formalización legal protocolaria ante Notario Público y obtención de su cédula de empadronamiento por parte de la Dirección de Finanzas y Administración e inscripción en la Secretaría del H. Ayuntamiento.
 
-###### ARTICULO 1369.
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
 
-Estas organizaciones serán reconocidas por el H. Ayuntamiento, previa formalización legal protocolaria ante Notario Público y que hayan obtenido su cédula de empadronamiento por parte de la Dirección de Finanzas y Administración.
-
-###### ARTICULO 1370.
-
-Las cámaras, asociaciones ó uniones de comerciantes deberán inscribirse en la Secretaría del H. Ayuntamiento.
-
-###### ARTICULO 1371.
+###### ARTICULO 1362.
 
 Los estatutos que rijan a cada una de las organizaciones de comerciantes en ningún momento contravendrán las disposiciones que emanen del presente Código.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1363.
+
+Mediante convenios, la administración municipal apoyará a las cámaras, asociaciones, uniones o agrupaciones de comerciantes prestadores de servicios e industriales registrados y reconocidos por el municipio, en cuanto a capacitación, gestión y cualquier otra prestación de índole legal que éstas le soliciten y se encuentren dentro de sus facultades y además sean de interés público.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1364.
+
+Con el fin de agilizar los trámites que requieran las empresas de los sectores comercial, industrial y de servicios que deseen instalarse en el territorio Municipal, habrá una Ventanilla de Gestión de Trámites Empresariales, que estará en coordinación con la Secretaría de Desarrollo Económico del Gobierno del Estado, misma que se sujetará a los programas y servicios que éste aplique para el desarrollo económico municipal, facilitando la apertura de nuevas inversiones, además de promover, aplicar y fomentar el Programa UNO, el cual tiene por objeto ofrecer a la sociedad un Sistema de Apertura Rápida de Empresas (SARE) en los trámites que deben de realizar los empresarios para su apertura, instalación y operación.
+
+Cualquier controversia surgida con motivo de la interpretación y cumplimiento de estos trámites será resuelto de común acuerdo con la Secretaría de Desarrollo Económico.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+### CAPITULO SEGUNDO. Del Ejercicio de la Prostitución
+
+###### ARTICULO 1365.
+
+A las personas físicas o morales dedicadas a la actividad empresarial y que deseen instalarse dentro del territorio del Municipio les será proporcionado un solo formato de apertura, el que contendrá los datos necesarios para la gestión de todos los trámites municipales y estatales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1366.
+
+El Ayuntamiento a través del personal debidamente capacitado realizará los trámites de “AVISO DE APERTURA” relativos a la Regularización Sanitaria Estatal, que requieran las empresas de los sectores comercial, industrial y de servicios con interés en instalarse dentro del territorio del Municipio, y que sean de su competencia.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1367.
+
+La Ventanilla Única implementará el formato único de apertura para los giros del Programa UNO, el cual contará con V apartados, mismos que serán llenados por el usuario o solicitante, siendo éstos:
+
+I.- Datos generales;
+
+II.- Obligaciones fiscales;
+
+III.- Datos económicos y de ubicación;
+
+IV.- Solicitud de constancia de alineamiento y compatibilidad urbanística; y
+
+V.- Cuestionario de información básica ambiental.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1368.
+
+El Ayuntamiento resolverá:
+
+I.- Con respecto a la constancia de Alineamiento y Compatibilidad Urbanística:
+
+a) Se otorgará en un día cuando se solicite para industrias o empresas que se establezcan en Parques Industriales, Centros Comerciales o en Corredores Industriales;
+
+b) Se resolverá en un máximo de 10 días hábiles para todas aquellas empresas que se encuentren fuera del supuesto anterior y que tengan reglamentación especial en materia ambiental y social, operando la Positiva Ficta;
+
+c) Los trámites ambientales deberán iniciarse en conjunto con el alineamiento conforme al Informe Preventivo y/o al Manifiesto de Impacto Ambiental, según sea el caso, que dictaminan las Autoridades Ambientales Estatales o Federales, respetando la normatividad que regulan los giros reglamentados, verificando su cumplimiento previo a la resolución del Alineamiento y Compatibilidad Urbanística; y
+
+II.- Para las Licencias Reglamentadas y especiales, se resolverá su expedición en un plazo máximo de 10 días hábiles, cumpliendo con los siguientes requisitos:
+
+a) Dictamen de uso de suelo autorizado;
+
+b) Dictamen de Ecología de la autoridad correspondiente;
+
+c) Dictamen de Protección Civil en los casos previstos por la Ley Estatal de Protección Civil; y
+
+d) Pago de derechos correspondientes.
+
+III.- Para la solicitud de Licencias de Construcción:
+
+a) Se resolverá en un plazo de 10 días hábiles y Opera la Positiva Ficta, tomando en consideración que el término de expedición de la Licencia se contará a partir del día hábil siguiente de la fecha de recepción de la información y documentación completa para expedir este tipo de Licencias; y
+
+b) Se respetará la normatividad existente en reglamentos de condominios o fraccionamientos, de parques, centros comerciales o industriales existentes en el Municipio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+### CAPITULO TERCERO. De las Farmacias, Droguerías, Tlapalerías o Similares
+
+###### ARTICULO 1369.
+
+El Ayuntamiento resolverá en un plazo máximo de 5 días hábiles, sobre el permiso de descargas de aguas residuales, operando la positiva ficta.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1370.
+
+El Ayuntamiento realizará en plazo máximo de 5 días hábiles los estudios de Factibilidad de Suministro de Agua, dependiendo de la ubicación y servicios con que cuenta la zona, emitiendo resolución en dicho plazo, operando la positiva ficta.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 1371.
+
+El ayuntamiento dictará en un plazo de 2 días hábiles, las resoluciones sobre las solicitudes para colocación de anuncios.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 1372.
 
-Mediante convenios, la administración municipal apoyará a las cámaras, asociaciones, uniones o agrupaciones de comerciantes e industriales registrados y reconocidos por el municipio en cuanto a capacitación, gestión y cualquier otra prestación de índole legal que éstas le soliciten y se encuentren dentro de sus facultades y además sean de interés público.
+El Ayuntamiento emitirá las licencias no reglamentadas el mismo día, una vez recibido el Formato Único de Apertura, condicionada a la Constancia de Alineamiento y Compatibilidad Urbanística.
 
 ###### ARTICULO 1373.
 
@@ -11443,7 +11531,7 @@ V.- Sujetar los puestos a las condiciones específicas del área correspondiente
 
 VI.- Cubrir el pago de la credencial o gafete y los derechos correspondientes por el uso de piso, además de los pagos que determine la ley de ingresos y demás disposiciones fiscales.
 
-### CAPITULO SEGUNDO. De los Eventos Deportivos
+### CAPITULO PRIMERO. De los Eventos de Diversión y Entretenimiento
 
 ###### ARTICULO 1375.
 
@@ -11465,7 +11553,7 @@ El comerciante o prestador de servicios, deberá renovar su credencial o gafete 
 
 Para el caso de que algún comerciante pierda o extravíe el permiso respectivo, se deberá solicitar la reposición a su costa.
 
-### CAPITULO TERCERO. De los Bailes Públicos
+### CAPITULO SEGUNDO. De los Eventos Deportivos
 
 ###### ARTICULO 1380.
 
@@ -11573,7 +11661,7 @@ Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio d
 
 Son objeto de regulación de este Título, los establecimientos comerciales, industriales y de servicios que vendan bebidas alcohólicas que contengan más del 2% de alcohol, las sustancias de efecto psicotrópico señaladas en la Ley General de Salud, todos aquellos productos cuyo inhalación produce o puede producir efectos psicotrópicos o similares, así como el ejercicio de la prostitución.
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO TERCERO. De los Bailes Públicos
 
 ###### ARTICULO 1396.
 
@@ -11629,7 +11717,7 @@ Bar es un establecimiento dedicado a la venta y consumo de bebidas al copeo que 
 
 Cervecería es el establecimiento en el que, de manera exclusiva se venda cerveza, de cualquier clase o presentación, para su consumo inmediato; se requerirá permiso especial para incluir la venta de comida, botanas o refrescos y podrá funcionar en un horario de las 10:00 a las 21:00 horas.
 
-### CAPITULO SEGUNDO. De la Autoridad
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 ###### ARTICULO 1407.
 
@@ -11743,7 +11831,7 @@ Queda estrictamente prohibido el ejercicio de la prostitución a personas menore
 
 Queda prohibido el ejercicio de la prostitución a las personas que padezcan alguna enfermedad sexualmente transmisible u otra grave en período infectante que ponga en riesgo de contagio la salud de otra por relaciones sexuales.
 
-### CAPITULO TERCERO. De las Características de las Plazas de Toros
+### CAPITULO SEGUNDO. De la Autoridad
 
 ###### ARTICULO 1427.
 
@@ -11851,7 +11939,7 @@ V.- Contar con la Autorización del encargado de un prostíbulo para ejercer sus
 
 VI.- No padecer alcoholismo crónico.
 
-### CAPITULO CUARTO. De las Clases de Espectáculos Taurinos
+### CAPITULO TERCERO. De las Características de las Plazas de Toros
 
 ###### ARTICULO 1432.
 
@@ -11957,7 +12045,7 @@ XV.- Asistir a las pláticas de orientación para la salud que sea convocada por
 
 Los lugares destinados a la venta de substancias de efecto psicotrópico, se clasifican en: ferreterías, supermercados, tlapalerías, empresas industriales, farmacias, boticas, droguerías y cualquier establecimiento similar que expenda cualquiera de los productos señalados en el presente libro, quedando prohibida su venta a menores de edad.
 
-### CAPITULO QUINTO. De los Derechos y Obligaciones de los Espectadores
+### CAPITULO CUARTO. De las Clases de Espectáculos Taurinos
 
 ###### ARTICULO 1440.
 
@@ -12001,7 +12089,7 @@ Queda prohibido a las empresas de espectáculos vender un mayor número de local
 
 ## TITULO SEGUNDO. DEL COMERCIO Y OTRAS ACTIVIDADES EN LA VIA PUBLICA
 
-### CAPITULO SEXTO. De las Reses de Lidia
+### CAPITULO QUINTO. De los Derechos y Obligaciones de los Espectadores
 
 ###### ARTICULO 1450.
 
@@ -12015,7 +12103,7 @@ La Presidencia Municipal podrá suspender en cualquier momento una diversión p�
 
 Los espectadores que originen falsas alarmas infundiendo pánico en el público serán sancionados con multa o arresto sin perjuicio de que si por tal situación se cometiera otro delito, se les consigne a las autoridades competentes.
 
-### CAPITULO SEPTIMO. De la Cuadra de Caballos
+### CAPITULO SEXTO. De las Reses de Lidia
 
 ###### ARTICULO 1453.
 
@@ -12027,9 +12115,11 @@ Se requiere permiso para la realización de eventos deportivos, tales como futbo
 
 # LIBRO SEXTO. DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE PRESTACION DE SERVICIOS
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE OCTUBRE DE 2005)</small>
+
 ## TITULO TERCERO. DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPITULO OCTAVO. De los Actos Previos a la Lidia
+### CAPITULO SEPTIMO. De la Cuadra de Caballos
 
 ###### ARTICULO 1455.
 
@@ -12037,7 +12127,7 @@ En los partidos de futbol soccer, la Secretaría del H. Ayuntamiento nombrará u
 
 El Inspector Autoridad podrá solicitar el auxilio de la fuerza pública cuando así lo considere necesario.
 
-### CAPITULO NOVENO. Del Desarrollo de la Lidia
+### CAPITULO OCTAVO. De los Actos Previos a la Lidia
 
 ###### ARTICULO 1456.
 
@@ -12205,7 +12295,7 @@ VI.- El callejón tendrá 1.50 metros de ancho como mínimo y 2.00 metros como m
 
 VII.- Los corrales para los toros serán suficientemente amplios, seguros, con dotación de burladeros, tendrán comunicación con la vía pública, para la fácil introducción de las (sic) animales y deberán contar con mirillas, para que el público pueda observar las condiciones de los toros.
 
-### CAPITULO DECIMO. Del Rejoneo y los Forcados
+### CAPITULO NOVENO. Del Desarrollo de la Lidia
 
 ###### ARTICULO 1472.
 
@@ -12215,7 +12305,7 @@ En las plazas de toros, habrá un lugar preferente, destinado a las autoridades 
 
 Las plazas de primera categoría, contarán por lo menos con ocho toriles que estarán distribuidos en líneas paralelas uno frente al otro, formando un callejón, con dimensiones convenientes para que el toro pueda moverse.
 
-### CAPITULO PRIMERO. De los Principios Generales
+### CAPITULO DECIMO. Del Rejoneo y los Forcados
 
 ###### ARTICULO 1474.
 
@@ -12289,7 +12379,7 @@ En las novilladas o corridas de aficionados, y aún en corridas formales, cuyos 
 
 Queda a cargo de la empresa cuidar que todos los servicios de la plaza se encuentren debidamente instalados.
 
-### CAPITULO SEGUNDO. Del Procedimiento Administrativo
+### CAPITULO PRIMERO. De los Principios Generales
 
 ###### ARTICULO 1484.
 
@@ -12333,7 +12423,7 @@ Queda terminantemente prohibido el lanzamiento de almohadillas o cualquier clase
 
 ## TITULO CUARTO. DE LOS ESPECTACULOS PUBLICOS EN GENERAL
 
-### CAPITULO TERCERO. De los Términos
+### CAPITULO SEGUNDO. Del Procedimiento Administrativo
 
 ###### ARTICULO 1489.
 
@@ -12343,7 +12433,7 @@ Los espectadores que perturben gravemente el desarrollo del espectáculo o cause
 
 El espectador que durante la permanencia de una res en el ruedo se lance al mismo, será retirado de él por las cuadrillas y puesto a disposición de los agentes de Seguridad Pública Municipal.
 
-### CAPITULO CUARTO. De las Notificaciones
+### CAPITULO TERCERO. De los Términos
 
 ###### ARTICULO 1491.
 
@@ -12353,7 +12443,7 @@ Toda res de lidia deberá presentar las condiciones de trapío, salud y sanidad 
 
 Las reses que se lidien en las corridas de toros, deberán reunir los siguientes requisitos:
 
-I.- Haber cumplido cuatro años de edad y no pasar de seis; y
+I.- Haber cumplido cuatro años de edad y no pasar de seis ; y
 
 II.- Pesar como mínimo 435 kilos en pie, a su llegada a la plaza.
 
@@ -12393,7 +12483,7 @@ La cuadra, que será de seis caballos, estará compuesta, en plazas de primera c
 
 Los caballos que compongan la cuadra tendrán una alzada mínima de 1.45 metros; presentarán características de fuerza que los haga admisibles y no tendrán enfermedades contagiosas.
 
-### CAPITULO QUINTO. De las Verificaciones e Inspecciones
+### CAPITULO CUARTO. De las Notificaciones
 
 ###### ARTICULO 1499.
 
@@ -12409,7 +12499,7 @@ El peto tendrá un peso máximo de treinta y cinco kilogramos y en su manufactur
 
 El material del peto, además de los requisitos del párrafo anterior, deberá ser resistente para que no penetre el pitón y lesione al caballo.
 
-### CAPITULO SEXTO. De los Jueces Calificadores de Seguridad Pública y Vialidad
+### CAPITULO QUINTO. De las Verificaciones e Inspecciones
 
 ###### ARTICULO 1502.
 
@@ -12449,7 +12539,7 @@ Antes de procederse al sorteo, los Veterinarios examinarán minuciosamente las r
 
 En las plazas con cajón de curas deberá estar precintado por la autoridad, a la que recurrirá en los casos en que se necesite su uso para que levante los precintos. La empresa será responsable de cualquier alteración en los mismos.
 
-### CAPITULO SEPTIMO. De los Receptores de Presuntos Infractores y Pertenencias
+### CAPITULO SEXTO. De los Jueces Calificadores de Seguridad Pública y Vialidad
 
 ###### ARTICULO 1507.
 
@@ -12473,7 +12563,7 @@ Para novillada serán veintiséis milímetros de extensión por quince milímetr
 
 ## TITULO QUINTO. DE LOS FESTEJOS TAURINOS
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO SEPTIMO. De los Receptores de Presuntos Infractores y Pertenencias
 
 ###### ARTICULO 1511.
 
@@ -12593,7 +12683,7 @@ En su primer toro, los matadores tienen la obligación de pedir la venia a la au
 
 Después de la faena de muletas, los diestros estoquearán según lo aconseje el arte de torear y sólo en caso de excepción se permitirá entrar a la media vuelta.
 
-### CAPITULO SEGUNDO. De las Faltas Cívicas
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 ###### ARTICULO 1539.
 
@@ -12705,7 +12795,7 @@ El personal de cuadrilla no podrá abandonar la plaza, sino hasta que haya sido 
 
 La cuadrilla del matador en turno podrá permanecer en el callejón. Las demás deberán estar en los burladeros del callejón.
 
-### CAPITULO TERCERO. De las Reglas Para la Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO SEGUNDO. De las Faltas Cívicas
 
 ###### ARTICULO 1556.
 
@@ -12727,11 +12817,11 @@ Cuando en el festejo actúen sólo dos matadores, figurará un sobresaliente, qu
 
 El Juez de Plaza para decidir sobre la suspensión de una corrida por lluvia, deberá oír la opinión del matador más antiguo, quien a su vez consultará el caso con sus alternantes; si los lidiadores no se ponen de acuerdo, será el Juez de Plaza quien resuelva lo conducente.
 
-### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas Cívicas
+### CAPITULO TERCERO. De las Reglas Para la Imposición de Sanciones y Medidas de Seguridad
 
 ## TITULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
 
-### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos
+### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas Cívicas
 
 ###### ARTICULO 1561.
 
@@ -12783,7 +12873,7 @@ III.- Las banderillas serán de 80 centímetros de largo, con arpón de 7 centí
 
 IV.- Los rejones de muerte serán de 1.60 metros de largo, cuchilla de 10 centímetros, las hojas de doble filo, para los novillos; 60 centímetros y 65 centímetros para los toros y el ancho será de 25 milímetros.
 
-### CAPITULO TERCERO. De las Sanciones en Materia de Construcción
+### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos
 
 ###### ARTICULO 1570.
 
@@ -12819,7 +12909,7 @@ Podrán ser usados para ejecutar las suertes del rejoneo los atuendos de las usa
 
 Se respetará estrictamente el orden de alternativa, debiéndose confirmar en las plazas de primera categoría.
 
-### CAPITULO CUARTO. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPITULO TERCERO. De las Sanciones en Materia de Construcción
 
 ###### ARTICULO 1578.
 
@@ -12827,13 +12917,13 @@ Cuando sea un solo rejoneador: podrá actuar sin confirmación de alternativa. P
 
 ## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
-### CAPITULO QUINTO. De las Sanciones en Materia de Espectáculos Públicos
+### CAPITULO CUARTO. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
 ###### ARTICULO 1579.
 
 Los grupos de forcados, deberán actuar como tales respetando la usanza portuguesa, tanto en el desarrollo del acto tauromáquico como en los trajes con los que se presenten; por ningún motivo podrá variarse su atuendo si anuncia el espectáculo a esta usanza.
 
-### CAPITULO SEXTO. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPITULO QUINTO. De las Sanciones en Materia de Espectáculos Públicos
 
 ###### ARTICULO 1580.
 
@@ -12881,7 +12971,7 @@ El acto administrativo emitido por las autoridades u órganos municipales compet
 
 El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada; queda exceptuado el acto administrativo en virtud del cual se realicen actos de inspección, verificación y vigilancia conforme a la dispuesto por este Código y demás disposiciones municipales, los cuales son exigibles a partir de la fecha en que la administración pública municipal los efectúe.
 
-### CAPITULO SEPTIMO. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPITULO SEXTO. De las Sanciones en Materia de Espectáculos Taurinos
 
 ###### ARTICULO 1587.
 
@@ -12925,7 +13015,7 @@ IX.- Ejercer las facultades fiscales conforme a las leyes respectivas.
 
 En cualquier procedimiento administrativo que requiera del impulso y continuación procesal por parte del interesado será su obligación efectuar los actos necesarios, en caso de que no le (sic) hicieren se le requerirá para que lo haga so pena de archivarlo como concluido por falta de interés jurídico, cuando se deje de promover por un término de dos meses.
 
-### CAPITULO OCTAVO. De las Sanciones en Materia de Prostitución
+### CAPITULO SEPTIMO. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ###### ARTICULO 1593.
 
@@ -12977,7 +13067,7 @@ Las actuaciones y diligencias administrativas municipales se practicarán en hor
 
 En cualquier término no se contaran los días inhábiles, se considerarán inhábiles: sábados y domingos, el 1º. de enero, 21 de marzo, 1º. de mayo, 16 de septiembre, 20 de noviembre y 25 de diciembre y aquellos días en que se suspendan labores administrativas, aún y cuando exista (sic) guardias para la atención de servicios públicos primordiales.
 
-### CAPITULO PRIMERO. De la Interposición del Recurso
+### CAPITULO OCTAVO. De las Sanciones en Materia de Prostitución
 
 ###### ARTICULO 1603.
 
@@ -12999,7 +13089,7 @@ A falta de términos o plazos establecidos en la ley, el presente Código y dem�
 
 En los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
 
-### CAPITULO SEGUNDO. De la Resolución del Recurso
+### CAPITULO PRIMERO. De la Interposición del Recurso
 
 ###### ARTICULO 1608.
 
@@ -13037,7 +13127,7 @@ Las notificaciones por edictos se realizarán haciendo la publicación con un re
 
 La manifestación que haga el interesado, su representante legal o quien esté autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
 
-### CAPITULO TERCERO. De la Impugnación de las Notificaciones
+### CAPITULO SEGUNDO. De la Resolución del Recurso
 
 ###### ARTICULO 1614.
 
@@ -13078,6 +13168,8 @@ El servicio de inspección y vigilancia en materia de prostitución será ejerci
 ###### ARTICULO 1620.
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+### CAPITULO TERCERO. De la Impugnación de las Notificaciones
 
 ###### ARTICULO 1621.
 
@@ -14091,7 +14183,7 @@ Las sanciones administrativas que se aplican por violaciones al presente Código
 
 I.- Para la persona que ejerce la prostitución:
 
-a) Se apercibirá por escrito por faltas sobre lo dispuesto por los Artículos: 1429, fracciones I y II; 1432; y 1438, Fracciones I, VIII, X, XI y XIII; en caso de reincidencia se sancionará conforme al inciso “b” de este punto;
+a) Se apercibirá por escrito por faltas sobre lo dispuesto por los Artículos: 1429, fracciones I y II; 1432;y 1438, Fracciones I, VIII, X, XI y XIII; en caso de reincidencia se sancionará conforme al inciso “b” de este punto;
 
 b) Una vez que se haya apercibido a la infractora, se aplicará multa de diez veces el salario mínimo general diario vigente en el Municipio, por reincidencia de faltas sobre las disposiciones señaladas en el enciso anterior;
 
@@ -14418,3 +14510,15 @@ Noveno Regidor.
 Roxana Espinoza Vázquez
 
 Síndico Municipal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE OCTUBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones reglamentarias municipales contrarias a la presente reforma.
