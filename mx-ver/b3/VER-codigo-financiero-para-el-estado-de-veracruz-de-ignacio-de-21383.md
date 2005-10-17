@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2005-08-17"
+last_updated: "2005-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3771,6 +3771,8 @@ V. Los equipos y el programa de reducción de emisiones contaminantes a la atmó
 
 ### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 154.
 
 El presupuesto estatal será el que apruebe el Congreso a iniciativa del Gobernador del Estado; en él se estimarán los ingresos a obtener por contribuciones estatales, aprovechamientos, productos y trasferencias federales, así como el costo de las actividades, obras y servicios públicos previstos en los programas anuales a cargo de quienes ejercen el gasto público.
@@ -3793,21 +3795,21 @@ El gasto público estatal se sustentará en presupuestos que se integrarán con 
 
 La Secretaría será la encargada de efectuar las previsiones de ingresos, en las que quedarán comprendidos aquellos que se obtengan por la recaudación de contribuciones estatales, productos, aprovechamientos, transferencias federales y demás ingresos federales.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 158.
 
-Las unidades presupuestales remitirán sus respectivos proyectos de presupuesto a la Secretaría con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría.
+Las unidades presupuestales remitirán sus respectivos proyectos de presupuesto, dentro de los cinco primeros días hábiles del mes de octubre de cada año, a la Secretaría, con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
-
-Los Poderes y los Organismos autónomos remitirán a la Secretaría, dentro de los quince primeros días hábiles del mes de noviembre, sus proyectos anuales de presupuesto, elaborados conforme a sus propios programas operativos y los lineamientos y estimaciones económicas que emita la Secretaría.
-
-La Secretaría queda facultada para formular el proyecto de presupuesto de las unidades presupuestales cuando no sea presentado en los plazos señalados al efecto.
+Los Poderes y Organismos autónomos elaborarán sus proyectos de presupuesto, elaborados conforme a sus propios programas operativos, tomando en consideración los lineamientos y estimaciones económicas que emita la Secretaría, los cuales remitirán dentro de los cinco primeros días hábiles del mes de octubre de cada año, con la única excepción del Poder Legislativo, que en el año de su renovación se apegará a lo establecido por el artículo 26 fracción I, inciso a) de la Constitución Política local.
 
 ###### Artículo 159.
 
 Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Secretaría analizará los proyectos de presupuesto de las unidades presupuestales y, en su caso, hará los ajustes que considere necesarios, para efectos de los (sic) dispuesto en el párrafo siguiente.
 
-La Secretaría consolidará e integrará el proyecto de presupuesto del Gobierno del Estado para ser presentado a consideración del C. Gobernador a más tardar el 30 de noviembre de cada año.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+
+La Secretaría consolidará e integrará el proyecto de presupuesto del Gobierno del Estado, para ser presentado a consideración del C. Gobernador a más tardar el 31 de octubre de cada año.
 
 ###### Artículo 160.
 
@@ -3847,7 +3849,7 @@ Durante el mes de agosto de cada año, la Secretaría dará a conocer a las unid
 
 ###### Artículo 164.
 
-En cumplimiento de lo dispuesto en el artículo 26, fracción I, inciso a) de la Constitución Política local, el Gobernador del Estado presentará al Congreso, para su aprobación, en los primeros diez días del mes de diciembre de cada año, el presupuesto estatal en relación con los ingresos y egresos del año siguiente.
+En cumplimiento de lo dispuesto en el artículo 26 fracción I, inciso a) de la Constitución Política local, el Gobernador del Estado presentará, entre el seis y diez de noviembre de cada año, el presupuesto estatal para su aprobación, el cual detallará ampliamente los ingresos y egresos del año siguiente. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente.
 
 Si al 31 de diciembre no se han aprobado la Ley de Ingresos y el Decreto de Presupuesto de Egresos, el Gobierno del Estado recaudará los ingresos establecidos en este Código; asimismo ejercerá en cada mes una doceava parte del último presupuesto ejercido, en tanto se aprueben dichas Ley o Decreto.
 
@@ -8284,3 +8286,11 @@ G.O. 17 DE AGOSTO DE 2005.
 Artículo Primero. El presente Decreto entrará en vigor el primer día del mes de enero de 2006.
 
 Artículo Segundo. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 17 DE OCTUBRE DE 2005.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la misma fecha que las reformas a la Constitución.
+
+Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
