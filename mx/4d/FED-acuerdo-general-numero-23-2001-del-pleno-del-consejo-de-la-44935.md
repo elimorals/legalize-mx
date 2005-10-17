@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-10-07"
+last_updated: "2005-10-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -177,9 +177,9 @@ IV.- CUARTO CIRCUITO:
 
 V.- QUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 16/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 41/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2005)</small>
 
-1.- Cinco tribunales colegiados con residencia en Hermosillo.
+1.- Cinco tribunales colegiados especializados: tres en materias penal y administrativa; y dos en materias civil y de trabajo, todos con residencia en Hermosillo.
 
 > <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 30/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
 
@@ -353,9 +353,9 @@ XIX.- DECIMONOVENO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 42/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2005)</small>
 
-3.- Once juzgados de Distrito en el Estado de Tamaulipas: dos con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, tres con residencia en Reynosa y dos con sede en Tampico.
+3.- Once juzgados de Distrito en el Estado de Tamaulipas: tres con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, dos con residencia en Reynosa y dos con sede en Tampico.
 
 XX.- VIGESIMO CIRCUITO:
 
@@ -1482,3 +1482,21 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo.
 
 TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE OCTUBRE DE 2005.
+
+ACUERDO 41/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO V, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el treinta y uno de octubre de dos mil cinco.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE OCTUBRE DE 2005.
+
+ACUERDO 42/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XIX, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el treinta de octubre de dos mil cinco.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Decimoprimero de Distrito en el Estado de Tamaulipas, con residencia en Reynosa, que cambia de residencia a Ciudad Victoria.
