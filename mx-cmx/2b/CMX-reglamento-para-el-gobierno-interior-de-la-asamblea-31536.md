@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2005-03-30"
+last_updated: "2005-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2370,7 +2370,9 @@ TERCERO.- Se abroga el Reglamento para el Gobierno Interior de la Asamblea Legis
 
 CUARTO.- La Unidad de Estudios y Finanzas Públicas se instalará según las disponibilidades presupuestales del 2003, de conformidad con el acuerdo que al respecto tome el Pleno de la Asamblea, respecto de la propuesta que le formule la Comisión de Gobierno.
 
-QUINTO.- (DEROGADO, G.O. 23 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+QUINTO.- Por única ocasión la Convocatoria que refiere el artículo 209 del presente Reglamento se publicará dentro de los primeros quince días del mes de octubre de 2005, se recibirán las propuestas y sus anexos hasta el 15 de noviembre del mismo año, y la sesión solemne que dispone el artículo 212 de este Reglamento, se llevará a cabo dentro de los primeros días del mes de diciembre del año 2005.
 
 SEXTO.- La disposición prevista por el artículo 158 de este reglamento, deberá entrar en vigor durante el ejercicio de la III Legislatura de la Asamblea Legislativa del Distrito Federal.
 
@@ -2411,3 +2413,9 @@ Por lo que hace a la entrega de la Medalla al Mérito Ciudadano 2005, se continu
 QUINTO.- Por única ocasión la convocatoria que refiere el artículo 209 del presente Reglamento, se publicará dentro de los primeros quince días del mes de abril de 2005 y se recibirán las propuestas y sus anexos como lo establece el artículo 210 de este ordenamiento, hasta el 31 de mayo del mismo año.
 
 SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
