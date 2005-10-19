@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "2005-09-30"
+last_updated: "2005-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2005.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -92,9 +92,9 @@ La interpretación y aplicación del presente Código se hará conforme a la let
 
 Son derechos de los ciudadanos del Distrito Federal:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-a) Votar y participar en las elecciones y en los procesos de participación ciudadana, de acuerdo con lo dispuesto por este Código y demás disposiciones aplicables para asegurar su correcto desarrollo y lograr elecciones libres y auténticas;
+a) Votar y participar en las elecciones y en los procesos de participación ciudadana, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y este Código;
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -104,7 +104,9 @@ b) Asociarse individual y libremente para participar en forma pacífica en los a
 
 c) Participar como observadores en todas las etapas de los procesos electorales y de participación ciudadana, en los términos de este Código y demás disposiciones aplicables;
 
-d) Ser votados para todos los cargos de elección popular en el Distrito Federal; y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Ser votados para todos los cargos de elección popular en el Distrito Federal, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y este Código; y
 
 e) Los demás que establezcan las Leyes.
 
@@ -120,7 +122,15 @@ a) Estar inscritos en el Registro Federal de Electores;
 
 b) Contar con credencial para votar con fotografía, cuyo domicilio corresponda al Distrito Federal;
 
-c) Encontrarse en pleno ejercicio de sus derechos políticos.
+c) Encontrarse en pleno ejercicio de sus derechos políticos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Aparecer en la lista nominal de electores correspondiente a la sección electoral de su domicilio; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) Emitir el sufragio en la sección electoral que corresponda a su domicilio, salvo en los casos de excepción expresamente señalados por este Código.
 
 El sufragio se emitirá en la sección electoral que corresponda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por este Código.
 
@@ -132,7 +142,9 @@ a) Votar en las elecciones populares;
 
 b) Desempeñar las funciones electorales para las que sean designados;
 
-c) (DEROGADO, G.O. 15 DE MAYO DE 2003)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+c) Inscribirse en el Registro Federal de Electores y dar aviso a éste de su cambio de domicilio; y (sic)
 
 d) Desempeñar los cargos de elección popular en el Distrito Federal; y
 
@@ -148,7 +160,9 @@ Son requisitos para ocupar un cargo de elección popular, además de los señala
 
 a) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía, cuyo domicilio corresponda al Distrito Federal;
 
-b) No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar cargo de dirección o del servicio profesional de carrera en los órganos electorales, en el ámbito federal, estatal o del Distrito Federal, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate; y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+b) No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar un cargo de dirección o en el Servicio Profesional Electoral de carrera en los órganos electorales, en el ámbito federal, estatal o del Distrito Federal, salvo que se separe de su cargo cinco años antes de la fecha del inicio del proceso electoral de que se trate; y
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -158,11 +172,13 @@ c) No ocupar un cargo de dirección en los gobiernos Federal, Estatal, Municipal
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral u otros procesos simultáneos, sean federales, estatales o del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-###### Artículo 7 Bis.
+Los Partidos Políticos no podrán registrar más de diez candidatos a Diputados propietarios o suplentes que contiendan simultáneamente por los principios de mayoría relativa y de representación proporcional, en un mismo proceso electoral.
 
-Los Partidos Políticos no podrán registrar más de diez candidatos a Diputados propietarios o suplentes que contiendan simultáneamente por mayoría relativa y por el principio de representación proporcional, en un mismo proceso electoral.
+###### Artículo 7o. Bis.
+
+(DEROGADO, G.O. 19 DE OCTUBRE DE 2005)
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -180,13 +196,13 @@ El ejercicio de las funciones del órgano ejecutivo se deposita en un sólo indi
 
 La función legislativa en el Distrito Federal se deposita en la Asamblea Legislativa del Distrito Federal, que se integra por el número de Diputados que establece el Estatuto de Gobierno del Distrito Federal, que serán electos cada tres años mediante el principio de mayoría relativa en distritos uninominales y por el principio de representación proporcional mediante el sistema de listas en una sola circunscripción.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Por cada candidato propietario se elegirá un suplente. Los candidatos por el principio de mayoría relativa que postulen los Partidos Políticos o Coaliciones procurarán no exceder del 50% de un mismo sexo, y en ningún caso, podrán registrar más del 70% de candidatos propietarios del mismo sexo.
+Por cada candidato propietario se elegirá un suplente. Los Partidos Políticos o Coaliciones procurarán que los candidatos que postulen no excedan del 50% de un mismo género, y en ningún caso, podrán registrar más de 70% de candidatos propietarios del mismo género.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Las listas de representación proporcional que presenten los Partidos Políticos y Coaliciones deberán integrarse por segmentos de 3 candidaturas; en cada segmento habrá una candidatura de sexo distinto.
+Las listas de representación proporcional que presenten los Partidos Políticos y Coaliciones deberán integrarse por segmentos de 3 candidaturas; en cada segmento habrá una candidatura de género distinto.
 
 Ningún Partido Político podrá contar con mayor número de integrantes de la Asamblea Legislativa del total que determina el Estatuto de Gobierno del Distrito Federal.
 
@@ -196,9 +212,9 @@ Ningún Partido Político podrá contar con mayor número de integrantes de la A
 
 En cada Delegación del Distrito Federal se elegirá un Jefe Delegacional a través del voto universal, libre, secreto y directo, cada tres años, en la misma fecha en que sean electos los Diputados a la Asamblea Legislativa.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Los Partidos Políticos o Coaliciones procurarán que los candidatos que postulen a Jefes Delegacionales no excedan del 50% de un mismo sexo, y en ningún caso registren más de 70% de un mismo sexo.
+Los Partidos Políticos o Coaliciones procurarán que los candidatos que postulen a Jefes Delegacionales no excedan del 50% de un mismo género. En ningún caso podrán registrar más de 70% de un mismo género.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -294,11 +310,13 @@ Las elecciones en el Distrito Federal se verificarán de acuerdo al ámbito terr
 
 a) La elección de Jefe de Gobierno se efectuará en todo el territorio del Distrito Federal, que será considerado como una sola circunscripción;
 
-b) Los Diputados de mayoría relativa serán electos en igual número de distritos locales uninominales;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+b) Los diputados de mayoría relativa serán electos en los 40 distritos locales uninominales;
 
-c) Los diputados de representación proporcional serán electos mediante el sistema de listas votadas en una sola circunscripción plurinominal, que abarcará todo el territorio del Distrito Federal; y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+c) Los 26 diputados de representación proporcional serán electos mediante el sistema de listas votadas en una sola circunscripción plurinominal, que abarcará todo el territorio del Distrito Federal; y
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -324,11 +342,11 @@ e) La diferencia de población respecto de un distrito y otro, una vez aplicado 
 
 Para los efectos del inciso a) del párrafo anterior, dentro de los seis meses siguientes a que se den a conocer oficialmente los resultados del respectivo censo de población y vivienda, el Consejo General del Instituto Electoral del Distrito Federal, revisará y propondrá a la Asamblea Legislativa del Distrito Federal el número de distritos electorales uninominales en que habrá de dividirse el territorio del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 17.
 
-La sección electoral es la fracción territorial de los Distritos Electorales para la inscripción de los ciudadanos en el Catálogo General de Electores, Padrón Electoral y Listas Nominales de Electores del Registro Federal de Electores.
+La sección electoral es la fracción territorial de los Distritos Electorales para la inscripción de los ciudadanos en el Catálogo General de Electores, el Padrón Electoral y las Listas Nominales de Electores del Registro Federal de Electores.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -382,7 +400,15 @@ a) Formular una declaración de principios y, en congruencia con ellos, su progr
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-b) Contar con un mínimo de 2,000 afiliados inscritos en el Padrón Electoral del Distrito Federal, en por lo menos la mitad de las Delegaciones, debiendo contar en cada una de ellas con un mínimo de 100 afiliados inscritos en el Padrón Electoral de las Delegaciones que correspondan.
+b) Contar con un mínimo de 2,000 afiliados inscritos en el Padrón Electoral del Distrito Federal, en por lo menos la mitad de las Delegaciones, debiendo contar en cada una de ellas con un mínimo de 100 afiliados inscritos en el Padrón Electoral de las Delegaciones que correspondan;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+c) Presentar copias de las constancias de afiliación individual y voluntaria de sus miembros, donde conste el nombre, apellidos, domicilio, ocupación, firma y clave de la credencial para votar con fotografía de cada uno de los interesados; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Verificar que sus afiliados no formen parte de otra Agrupación Política Local.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -400,7 +426,19 @@ c) Los derechos y obligaciones de los afiliados, que se regirán bajo el princip
 
 d) Los procedimientos para integrar y renovar periódicamente los órganos directivos, así como las funciones, facultades y obligaciones de los mismos; y
 
-e) La integración de sus órganos directivos, que no podrá exceder de un 70% de los miembros de un mismo género.
+e) La integración de sus órganos directivos, que no podrá exceder de un 70% de los miembros de un mismo género;
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Los mecanismos para formar ideológica y políticamente a sus afiliados, infundiendo en ellos el respeto a la pluralidad política y a la Ley en la búsqueda de sus objetivos políticos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+g) El Procedimiento de resolución de controversias internas, en el que se establezcan las garantías procesales de seguridad jurídica, la tipificación de las irregularidades y las sanciones aplicables a los miembros que infrinjan sus disposiciones internas; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+h) La rendición de cuentas a sus integrantes respecto del financiamiento público y privado, acreditando transparencia en el uso de los recursos que les son proporcionados.
 
 Entre sus órganos deberá contar, cuando menos, con los siguientes:
 
@@ -412,9 +450,13 @@ Entre sus órganos deberá contar, cuando menos, con los siguientes:
 
 4. Un órgano de Administración;
 
-5. Un órgano que vigile el respeto de los derechos de los afiliados, así como el cumplimiento de sus obligaciones; y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-f) Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas y el procedimiento sobre controversias internas.
+5. Un órgano de fiscalización interna; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+6. Un órgano autónomo e imparcial, que vigile el respeto de los derechos de los afiliados, así como el cumplimiento de sus obligaciones.
 
 II. La Declaración de Principios contendrá:
 
@@ -422,7 +464,9 @@ a) La obligación de observar la Constitución Política de los Estados Unidos M
 
 b) Los principios ideológicos de carácter político, económico y social que postulen;
 
-c) La obligación de no aceptar pacto o acuerdo que la subordine a cualquier organización internacional, así como no solicitar o, en su caso, rechazar toda clase de apoyos económicos, políticos o propagandísticos provenientes de extranjeros o de ministros de los cultos de cualquier religión o secta, de igual forma de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que este Código prohíbe financiar a los Partidos Políticos; y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+c) La obligación de no aceptar pacto o acuerdo que la subordine a cualquier organización internacional, así como no solicitar o, en su caso, rechazar toda clase de apoyos económicos, políticos o propagandísticos provenientes de extranjeros o de ministros de los cultos de cualquier religión o secta, de igual forma de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que este Código prohíbe financiar a las Asociaciones Políticas; y
 
 d) La obligación de conducir sus actividades por medios pacíficos y por la vía democrática.
 
@@ -444,13 +488,27 @@ Las modificaciones surtirán efectos hasta que el Consejo General del Instituto 
 
 Para constituir una Agrupación Política Local, los ciudadanos interesados solicitarán su registro al Consejo General del Instituto Electoral del Distrito Federal, a partir del 1° de febrero y hasta el 30 de abril del año posterior al proceso electoral, debiendo comprobar los requisitos del artículo 20 de este Código, a más tardar el 31 de julio.
 
-Las organizaciones de ciudadanos que pretendan constituirse como Agrupación Política Local, deberán realizar asambleas constitutivas en las Delegaciones, en las que deberán participar cuando menos el 60% del mínimo de afiliados, en las cuales se elegirá un delegado por cada 50 asistentes para participar en la Asamblea General constitutiva, esta última será válida con la presencia del 60% de delegados electos.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Las asambleas se realizarán en presencia de un notario público o funcionario acreditado para tal efecto por el propio Instituto, quien certificará el quórum legal, que los presentes conocieron y aprobaron la Declaración de Principios, el Programa de Acción y los Estatutos y suscripción individual del documento de manifestación formal de afiliación.
+Las organizaciones de ciudadanos que pretendan constituirse como Agrupación Política Local, deberán realizar asambleas constitutivas en las Delegaciones, en las que deberán participar cuando menos el 60% del mínimo de afiliados, en las cuales se elegirá un delegado por cada cuarenta asistentes para participar en la Asamblea General constitutiva, esta última será válida con la presencia del 60% de delegados electos.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Las asambleas se realizarán en presencia de un notario público o funcionario designado por el Instituto, quien certificará:
+
+a) El quórum legal requerido para sesionar;
+
+b) Que los asambleístas presentes conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos;
+
+c) La manifestación de los asambleístas que se incorporan de manera libre y voluntaria a la Agrupación Política Local correspondiente; y
+
+d) Que no se realizaron dádivas o coacciones para que los ciudadanos concurriesen a la asamblea.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 23.
 
-El Consejo General del Instituto, verificará el cumplimiento de los requisitos y del procedimiento de constitución, señalados en este Código.
+El Consejo General determinará el procedimiento de verificación de los requisitos para su constitución, así como del cumplimiento de las obligaciones a que se sujetan durante su existencia.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -484,9 +542,15 @@ d) Formar Coaliciones en los términos de este Código;
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
-e) Nombrar a sus representantes ante los órganos electorales, en los términos de este Código y de sus propios Estatutos; y
+e) Nombrar a sus representantes ante los órganos electorales, en los términos de este Código y de sus propios Estatutos; y (sic)
 
-f) Los demás que les otorgue este Código.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Ejercer el derecho de réplica en los medios masivos de comunicación; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+g) Las demás que les otorgue este Código.
 
 II. Las Agrupaciones Políticas Locales:
 
@@ -494,17 +558,19 @@ a) Gozar de las garantías que éste (sic) Código les otorga para realizar libr
 
 b) Gozar del régimen fiscal previsto para los Partidos Políticos;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) Formar frentes o fusionarse con otras Asociaciones Políticas Locales;
+c) Fusionarse con otras Agrupaciones Políticas Locales;
 
-d) Ser propietarios, poseedores o administradores sólo de los bienes inmuebles que sean indispensables para el cumplimiento directo e inmediato de sus fines;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Ser propietarios, poseedores o administradores de los bienes muebles e inmuebles que sean indispensables para el cumplimiento directo e inmediato de sus fines;
 
 e) Establecer relaciones con organizaciones políticas nacionales y extranjeras, manteniendo en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado Mexicano y de sus órganos de gobierno; y
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-f) Disfrutar de las prerrogativas y recibir el financiamiento público para elaborar publicaciones y operar el Centro de Formación Política en apoyo a la cultura democrática a que se refieren los incisos f) y l) del artículo 25 de este Código; y
+f) Disfrutar de las prerrogativas y recibir el financiamiento público para elaborar publicaciones y operar el Centro de Formación Política en apoyo de la cultura democrática a que se refieren los incisos f) y m) del artículo 25 de este Código; y
 
 g) Los demás que les otorgue este Código.
 
@@ -520,45 +586,75 @@ b) Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objeto
 
 c) Ostentarse con la denominación, emblema y color o colores que tengan registrados;
 
-d) Cumplir con las normas de afiliación;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+d) Cumplir con las normas de afiliación, así como lo establecido en los estatutos, programa de acción, declaración de principios y para el caso de Partidos Políticos o Coaliciones con su plataforma electoral. Asimismo, deberán garantizar el acceso a la información que se genere dentro de ellas a todos los militantes que así lo soliciten;
 
-e) Contar con domicilio social para sus órganos directivos y, en su caso, comunicar oportunamente los cambios del mismo, a la Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral del Distrito Federal;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) Acreditar ante la Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral del Distrito Federal que cuentan con domicilio social para sus órganos directivos, así como comunicar en un plazo no mayor a los treinta días siguientes, los cambios del mismo;
 
 f) Editar por lo menos una publicación mensual de divulgación, y otra de carácter teórico, trimestral;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-g) Permitir la práctica de auditorías y verificaciones que ordene la autoridad electoral en materia de financiamiento, así como entregar la documentación que la Comisión de Fiscalización del Consejo General del Instituto les solicite respecto a sus ingresos y egresos;
+g) Presentar los informes a que se refiere el artículo 37 del presente Código, así como permitir la práctica de auditorias y verificaciones que ordene la autoridad electoral en materia de financiamiento, así como entregar la documentación que la Comisión de Fiscalización del Consejo General del Instituto les solicite respecto a sus ingresos y egresos;
 
-h) Comunicar al Instituto Electoral del Distrito Federal cualquier modificación a su declaración de principios, programa de acción o estatutos;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-i) Comunicar oportunamente al Instituto Electoral del Distrito Federal la integración de sus órganos directivos;
+h) Implementar normas que transparenten los procesos de adquisiciones de bienes, servicios y arrendamientos;
 
-j) Actuar y conducirse sin ligas de dependencia o subordinación con Partidos Políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-k) Utilizar las prerrogativas y aplicar el financiamiento público de acuerdo a las disposiciones de este Código;
+i) Comunicar al Instituto Electoral del Distrito Federal cualquier modificación a su declaración de principios, programa de acción o estatutos;
 
-l) Sostener por lo menos un centro de formación política para sus afiliados, infundiendo en ellos el respeto al adversario y a sus derechos en la lucha política;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+j) Comunicar oportunamente al Instituto Electoral del Distrito Federal la integración de sus órganos directivos;
 
-m) Abstenerse de cualquier expresión que implique diatriba, calumnia, infamia, injuria, difamación o que denigre a los ciudadanos, a las instituciones públicas o a otras Asociaciones Políticas o candidatos; y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+k) Actuar y conducirse sin ligas de dependencia o subordinación con Partidos Políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta;
 
-n) Garantizar la participación de las mujeres en la toma de decisiones e incorporar perspectiva de género en sus acciones de formación y capacitación política, así como el acceso equitativo a los cargos de representación popular en los términos señalados en este ordenamiento;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-ñ) Las demás que establezca este Código.
+l) Utilizar las prerrogativas y aplicar el financiamiento público de acuerdo a las disposiciones de este Código;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+m) Sostener por lo menos un centro de formación política para sus afiliados, infundiendo en ellos el respeto al adversario y a sus derechos en la lucha política;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+n) Abstenerse de cualquier expresión que implique diatriba, calumnia, infamia, injuria difamación o que denigre a los ciudadanos, a las instituciones públicas o a otras Asociaciones Políticas o candidatos;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+ñ) Garantizar la participación de las mujeres en la toma de decisiones e incorporar perspectiva de género en sus acciones de formación y capacitación política, así como el acceso equitativo a los cargos de representación popular en los términos señalados en este ordenamiento;
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+o) Adoptar los procedimientos que garanticen los derechos de los militantes y permitan impugnar las resoluciones de sus órganos internos;
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+p) Conducir sus actividades por los causes legales que se señalan (sic) este Código y sus normas internas en lo respectivo a las campañas;
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+q) Observar las normas y disposiciones que en materia de propaganda electoral establezca éste Código, así como las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de las campañas electorales; y
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+r) Las demás que establezca este Código.
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 Las Agrupaciones Políticas Locales tendrán asimismo las obligaciones de no utilizar en su promoción los símbolos patrios, símbolos religiosos, o expresiones, alusiones o fundamentaciones de carácter religioso. Así como, mantener el mínimo de afiliados en las delegaciones, requeridos para su constitución y registro.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Los Partidos Políticos, y en su caso, las Coaliciones, deberán cumplir de forma especial lo dispuesto por el inciso m) durante las campañas electorales y en la propaganda política que se utilice durante las mismas. Lo dispuesto en el presente artículo será aplicable a los órganos de dichos Partidos Políticos en el Distrito Federal.
+Los Partidos Políticos, y en su caso, las Coaliciones, deberán cumplir de forma especial lo dispuesto por el inciso n) durante las campañas electorales y en la propaganda política que se utilice durante las mismas. Lo dispuesto en el presente artículo será aplicable a los órganos de dichos partidos Políticos en el Distrito Federal.
 
 ## TITULO TERCERO. De las prerrogativas
 
@@ -602,9 +698,19 @@ Las Asociaciones Políticas, al ejercer sus prerrogativas en radio y televisión
 
 La Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral del Distrito Federal, tendrá a su cargo la gestión, adquisición, contratación de espacios públicos y privados en la radio y televisión que serán asignados a los Partidos Políticos en calidad de prerrogativa, así como para el desarrollo de las propias actividades del Instituto. Asimismo, tendrá a su cargo la difusión de los programas de radio y televisión de los Partidos Políticos.
 
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 28 Bis.
+
+Durante las campañas electorales los Partidos Políticos solamente podrán contratar tiempos en radio y televisión para difundir mensajes orientados a la obtención del voto, conforme a las normas y procedimientos que se establecen en el Artículo 158 del presente Código.
+
+Los Partidos Políticos determinarán el contenido de los mensajes orientados a la difusión de sus actividades ordinarias y de la obtención del voto, sin contravenir las disposiciones que para tal efecto contempla el presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 29.
 
-Los Partidos Políticos contarán con tiempo gratuito en radio y televisión para difusión ordinaria. La distribución del tiempo disponible será mensual y equitativa, mediante sorteos para determinar el orden de presentación de los programas. Para las campañas electorales se sujetaran a las reglas siguientes
+Independientemente de las disposiciones contenidas en el artículo 28 bis los Partidos Políticos contarán con tiempo gratuito en radio y televisión para difusión ordinaria. La distribución del tiempo disponible será mensual y equitativa, mediante sorteos para determinar el orden de presentación de los programas. Para las campañas electorales se sujetarán a los procedimientos establecidos en el artículo 159 y demás relativos de este Código y a las reglas siguientes:
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -662,9 +768,9 @@ a) La educación y capacitación política, investigación socioeconómica y pol
 
 b) El Consejo General no podrá acordar apoyos en cantidad mayor al 75% anual, de los gastos comprobados que por las actividades a que se refiere esta fracción hayan erogado los Partidos Políticos en el año inmediato anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-IV. Los Partidos Políticos que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a las siguientes bases:
+IV. Los Partidos Políticos que hubieren obtenido su registro con fecha posterior a la última elección tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
 
 a) Se le otorgará a cada Partido Político el 2% del monto que por financiamiento total les corresponda a los Partidos Políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como en el año de la elección una cantidad adicional igual para gastos de campaña; y
 
@@ -674,6 +780,10 @@ b) Se les otorgará el financiamiento público por sus actividades específicas 
 
 V. Las cantidades que en su caso se determinen para cada Partido Político, salvo las referidas en la fracción II, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente. Las cantidades previstas en la fracción II de este artículo, serán entregadas en tres ministraciones, correspondientes al 50 por ciento, 25 por ciento, y 25 por ciento, en los meses de febrero, abril y junio, respectivamente, del año de la elección.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+VI. El Consejo General deberá aprobar el financiamiento a los Partidos Políticos durante la primera sesión que realice en el mes de enero de cada año.
+
 > <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### Artículo 30 Bis.
@@ -681,6 +791,10 @@ V. Las cantidades que en su caso se determinen para cada Partido Político, salv
 El Consejo General destinará una bolsa equivalente al 1% del presupuesto público asignado a los Partidos Políticos en el Distrito Federal, la cual se repartirá por partes iguales entre todas las Agrupaciones Políticas Locales con registro.
 
 El límite máximo de financiamiento público que cada Agrupación Política Local, podrá recibir en lo individual será el equivalente al 0.2% del total del financiamiento público para los Partidos Políticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+El Consejo General hará el reglamento específico para el financiamiento de las Agrupaciones Políticas Locales, a partir de los criterios antes señalados.
 
 ### Capítulo IV. Del régimen fiscal
 
@@ -712,23 +826,29 @@ El régimen fiscal a que se refiere este artículo no releva a las Asociaciones 
 
 El Financiamiento público, prevalecerá sobre los otros tipos de financiamiento. El rubro de financiamiento público para campañas no podrá ser superior a los topes de gastos de campaña.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Las contribuciones se regirán bajo los principios de transparencia, rendición de cuentas, austeridad, legalidad y publicidad de la contabilidad y el origen de los fondos.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 El régimen de financiamiento de las Asociaciones Políticas tendrá las siguientes modalidades:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+I. Financiamiento Público, que comprenderá;
 
-a) Financiamiento público local para Partidos Políticos Y Agrupaciones Políticas Locales;
+a) Financiamiento Público Local para Partidos Políticos y Agrupaciones Políticas Locales; y
 
-b) Financiamiento por la militancia;
+b) Financiamiento Público Federal para los Partidos Políticos.
 
-c) Financiamiento de simpatizantes;
+II. Financiamiento privado, que comprenderá;
 
-d) Autofinanciamiento;
+a) Financiamiento por la militancia;
 
-e) Financiamiento por rendimientos financieros, fondos y fideicomisos; y
+b) Financiamiento de simpatizantes;
 
-f) Financiamiento público federal para los Partidos Políticos.
+c) Autofinanciamiento; y
+
+d) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -772,7 +892,13 @@ a) El órgano interno responsable del financiamiento de cada partido deberá exp
 
 b) Cada Partido Político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; y
 
-c) Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+c) Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para su participación en campañas electorales tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido, siempre y cuando no exceda de los limites previstos en este Código; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Las cuotas aportadas deberán registrarse ante el órgano interno responsable de la obtención y administración del financiamiento del Partido Político correspondiente.
 
 II. El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a las asociaciones políticas en forma libre y voluntaria, que no estén comprendidas en el artículo 33 de este Código.
 
@@ -816,19 +942,33 @@ a) Las aportaciones que se realicen, a través de esta modalidad, les serán apl
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
-b) Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada Asociación Política considere conveniente, con excepción de la adquisición de valores bursátiles; y
+b) Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada Asociación Política considere conveniente, con excepción de la adquisición de valores bursátiles; y (sic)
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
-c) Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos de la Asociación Política.
+c) Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos de la Asociación Política;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+X. Los precandidatos y candidatos a cualquier cargo de elección popular registrados formalmente ante los órganos de los Partidos Políticos podrán recibir financiamiento público o privado directamente, comunicándolo al órgano de administración del Partido Político el cual deberá ser incluido en sus informes.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 36 Bis.
+
+Las partidas de financiamiento público federal podrán ser utilizadas para sufragar los gastos generados por las actividades ordinarias permanentes que realicen los partidos políticos. Los recursos podrán ser aplicados en las campañas electorales siempre y cuando dichas asignaciones no rebasen el tope de gastos que en términos de este Código determine el Consejo General del Instituto Electoral del Distrito Federal y su origen, monto y destino se reporte tanto a la autoridad local como a la federal, en los informes respectivos.
 
 ### Capítulo II. De la Fiscalización
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 37.
 
-Las Asociaciones Políticas deberán presentar ante la Comisión de Fiscalización del Consejo del Instituto Electoral del Distrito Federal, los informes del origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
+La Comisión de Fiscalización del Consejo General del Instituto tendrá las atribuciones necesarias para fiscalizar e investigar el origen, monto, destino y aplicación de todos los recursos de las Asociaciones Políticas. Para el ejercicio de estas atribuciones, las autoridades del Distrito Federal, las instituciones financieras y todas las personas físicas y morales estarán obligadas a rendir y a otorgar la documentación que esté en su poder y que les sea requerida por dicho Instituto a través de su Presidente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Las Asociaciones Políticas deberán presentar ante la Comisión de Fiscalización del Consejo General del Instituto Electoral del Distrito Federal, los informes del origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
 
 I. Informes anuales:
 
@@ -850,6 +990,12 @@ c) (DEROGADO, G.O. 15 DE MAYO DE 2003)
 
 d) En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros comprendidos en los topes de gastos de campaña, así como el monto y destino de dichas erogaciones.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+III. Informes de Precampañas.
+
+Los informes de precampaña deberán presentarse al momento de la solicitud de registro de candidaturas a cargos de elección popular por el principio de mayoría relativa a Jefe de Gobierno, Jefes Delegacionales y Diputados a la Asamblea Legislativa del Distrito Federal ante el Instituto.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### Artículo 38.
@@ -860,43 +1006,57 @@ El procedimiento para la presentación y revisión de los informes de las Asocia
 
 I. La Comisión de Fiscalización contará con sesenta días para revisar los informes anuales de las Asociaciones Políticas y con noventa días para revisar los informes de campaña presentados por los Partidos Políticos o Coaliciones. Tendrá en todo momento la facultad de requerir a los órganos responsables del financiamiento de cada Asociación Política la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-II. Si durante la revisión de los informes y una vez hechos los requerimientos a que se refiere el párrafo anterior, la Comisión advierte la existencia de errores u omisiones técnicas, notificará al Partido Político, Coalición o a la Agrupación Política Local que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
+Los informes de precampaña a que hace referencia la fracción III del artículo 37 serán revisados junto con los informes anuales de las Asociaciones Políticas.
 
-III. Al vencimiento de los plazos señalado (sic) en los incisos anteriores, la Comisión dispondrá de un plazo de veinte días para elaborar un dictamen consolidado que deberá presentar al Consejo General dentro de los tres días siguientes a su conclusión;
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-IV. El dictamen deberá contener por lo menos:
+II. Si durante la revisión de los informes a que se refiere la fracción anterior, se advierte la existencia de errores u omisiones, se notificará al Partido Político, para que en un plazo no mayor de cinco días presente las aclaraciones o rectificaciones que estime pertinentes. Al termino de la revisión, se remitirán las observaciones resultante (sic) y se fijará fecha para una sesión de confronta en la que se abordarán las presuntas irregularidades u omisiones. Tras la sesión de confronta, las observaciones subsistentes serán notificadas oficialmente al Partido Político, para que en un plazo de veinte días presente los argumentos y documentación adicionales que a su derecho convengan.
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-a) El resultado y las conclusiones de la revisión de los informes que hayan presentado los Partidos Políticos, Coaliciones y las Agrupaciones Políticas;
+III. Al vencimiento de los plazos señalados en las fracciones anteriores, la Comisión dispondrá de un plazo de cincuenta días para elaborar un dictamen consolidado y un proyecto de resolución;
 
-b) En su caso, la mención de los errores o irregularidades encontradas en los mismos; y
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) El señalamiento de requerimientos y notificaciones realizados, así como las aclaraciones o rectificaciones que presentaron los Partidos Políticos y las Agrupaciones Políticas.
+IV. El dictamen y el proyecto de resolución, deberán contener por lo menos:
 
-V. El dictamen se presentará ante el Consejo General, y en su caso, iniciará el procedimiento para determinación e imposición de sanciones; y
+a) La debida fundamentación y motivación;
 
-> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+b) El resultado y las conclusiones de la revisión de los informes que hayan presentado los Partidos Políticos, Coaliciones y Agrupaciones Políticas Locales;
 
-VI. Para iniciar el procedimiento de determinación e imposición de sanciones, la Comisión de Fiscalización emplazará al presunto responsable para que en el plazo de 10 días hábiles conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes en los términos de este Código.
+c) En su caso, la mención de los errores o irregularidades encontradas en los mismos;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+d) El señalamiento de requerimientos y notificaciones realizados, así como las aclaraciones o rectificaciones que presentaron los Partidos Políticos y las Agrupaciones Políticas;
 
-Las pruebas deberán ser exhibidas junto con el escrito en el que se comparezca al procedimiento. Ninguna prueba aportada fuera del plazo previsto para ello, será tomada en cuenta.
+e) Las consideraciones respecto de la trascendencia de las faltas;
 
-Treinta días después de cerrado el proceso de instrucción, la Comisión de Fiscalización presentará el proyecto de resolución respectivo al Consejo General para su discusión y, en su caso, aprobación.
+f) Las disposiciones legales inobservadas o transgredidas;
 
-El Secretario Ejecutivo, por conducto de la Unidad de Asuntos Jurídicos, auxiliará a la Comisión de Fiscalización en la substanciación del procedimiento.
+g) Los razonamientos alusivos a la gravedad de las faltas; y
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+h) En caso de ser procedente, la propuesta de sanción.
 
-VII. El Consejo General del Instituto, dará publicidad al Dictamen en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+V. El dictamen y el proyecto de resolución se presentarán ante el Consejo General del Instituto Electoral del Distrito Federal, dentro de los tres días siguientes a su conclusión, procediendo a imponer, en su caso, las sanciones correspondientes;
 
-Asimismo, acordará otros mecanismos que considere convenientes para la difusión pública del dictamen y, en su caso, de las resoluciones. En la Gaceta Oficial del Distrito Federal deberán publicarse los informes anuales de las Asociaciones Políticas.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+VI. Las Asociaciones Políticas podrán impugnar ante el Tribunal Electoral del Distrito Federal el dictamen y la resolución que en su caso se emita por el Consejo General en la forma y los términos previstos por este Código;
+
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+VII. El Consejo General del Instituto deberá remitir al Tribunal Electoral, cuando se hubiere interpuesto el juicio, junto con éste, el dictamen, la resolución y el informe respectivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+VIII. El Consejo General del Instituto deberá publicar las conclusiones de los dictámenes y los puntos resolutivos de las resoluciones, en la Gaceta Oficial del Distrito Federal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+IX. En la Gaceta Oficial del Distrito Federal deberán publicarse los informes anuales de las Asociaciones Políticas.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -904,21 +1064,53 @@ Asimismo, acordará otros mecanismos que considere convenientes para la difusió
 
 Para la fiscalización del manejo de los recursos de las Asociaciones Políticas, así como la recepción, revisión y dictamen a que se refiere el artículo anterior, la Comisión de Fiscalización, contará con el apoyo y soporte de la Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral del Distrito Federal.
 
-Asimismo, se podrán firmar convenios de apoyo y colaboración con el Instituto Federal Electoral para el intercambio de información en la fiscalización de los recursos de los Partidos Políticos.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+El presidente del Instituto podrá firmar convenios de apoyo y colaboración con el Instituto Federal Electoral para el intercambio de información en la fiscalización de los recursos de los Partidos Políticos.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 40.
 
-Un Partido Político o Coalición aportando elementos de prueba podrá solicitar se investiguen los gastos de campaña de otro Partido Político o Coalición por posible violación a los topes de gastos de campaña, situación que deberá resolverse antes de la toma de posesión de los candidatos afectados. En este caso, la Comisión de Fiscalización podrá ejercer las facultades que le otorga el presente Título sin necesidad de sujetarse a los plazos del mismo.
+Un Partido Político o Coalición, aportando elementos de prueba, podrá solicitar al Instituto Electoral del Distrito Federal se investiguen los actos relativos a campañas, así como el origen, monto y erogación de los recursos utilizados, que lleven a cabo los partidos políticos coaliciones o candidatos, conforme al procedimiento siguiente:
 
-## TITULO QUINTO. De los Frentes, Coaliciones y Fusiones
+I. La solicitud de investigación deberá presentarse:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+Dentro de los tres días siguientes a la conclusión del periodo de campañas;
+
+II. El Partido Político o Coalición deberá ofrecer en su escrito los medios de prueba idóneos y suficientes para presumir la existencia de los hechos que solicita sean investigados;
+
+III. El Instituto Electoral del Distrito Federal a partir de la fecha de recepción del escrito tendrá cinco días para admitir o desechar la solicitud;
+
+IV. Una vez admitida la solicitud de investigación, el Secretario Ejecutivo emplazará al Partido Político o Coalición presuntamente responsable, para que en el plazo de cinco días ofrezca pruebas y manifieste lo que a su derecho convenga;
+
+V. Recibido el escrito de comparecencia del Partido Político o Coalición se concederá un plazo de cinco días para que las partes procedan al desahogo de las pruebas, mismas que serán admitidas y valoradas en los términos previstos en el Libro Octavo de este Código;
+
+VI. La Comisión de Fiscalización substanciará el procedimiento previsto en este artículo, con el auxilio técnico-contable de la Dirección Ejecutiva de Asociaciones Políticas y técnico-jurídico de la Unidad de Asuntos Jurídicos, y tendrá en todo momento la facultad de requerir a los órganos responsables de la obtención y administración de los recursos de cada Asociación Política, los elementos necesarios para integrar debidamente el expediente;
+
+VII. Si durante la instrucción del procedimiento se advierte la existencia de errores u omisiones técnicas, la Comisión de Fiscalización notificará al Partido Político o Coalición que hubiere incurrido en ellos, para que en un plazo de cinco días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
+
+VIII. Al vencimiento de los plazos señalados en las fracciones anteriores, la Comisión de Fiscalización dispondrá de un plazo de diez días hábiles para elaborar un dictamen que deberá presentar ante el Consejo General para su aprobación. Dicho dictamen deberá contener el examen y valoración de las constancias que obran en el expediente y, en su caso, las consideraciones que fundamentan la gravedad de la infracción y la sanción propuesta;
+
+IX. En caso de haberse acreditado que un Partido Político o Coalición excedió los topes de gastos de campaña y una vez agostadas (sic) las instancias jurisdiccionales, el Consejo General por el conducto del Secretario Ejecutivo dará vista a la Procuraduría General de Justicia del Distrito Federal, para que en el ámbito de sus atribuciones determine lo procedente.
+
+Antes de la toma de protesta del cargo del candidato que resulte ganador el Consejo General determinará las sanciones en caso de que sea procedente, en los términos previstos en este Código; y
+
+X. En caso de haberse acreditado que un Partido Político o Coalición excedió los topes de gastos de campaña y una vez agotadas las instancias jurisdiccionales, el Consejo General por el conducto del Secretario Ejecutivo dará vista a la Procuraduría General de Justicia del Distrito Federal, para que en el ámbito de sus atribuciones determine lo procedente.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 40 Bis.
+
+En caso de que el Instituto Electoral del Distrito Federal encuentre elementos suficientes para determinar que durante la precampaña, el precandidato que haya solicitado su registro como candidato, rebasó los topes de gastos en la precampaña autorizados en el inciso j) del artículo 144 del Código, se hará acreedor a la sanción establecida en el inciso f) del artículo 369 de este Código.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TITULO QUINTO. De las Coaliciones y Fusiones
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 41.
-
-Las Asociaciones Políticas reguladas por el presente Código podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos, de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
 Dos o más Agrupaciones Políticas Locales reguladas por este Código podrán fusionarse para constituir una nueva Agrupación Política Local o para incorporarse en una de ellas.
 
@@ -928,23 +1120,7 @@ Los Partidos Políticos podrán formar Coaliciones para postular los mismos cand
 
 ###### Artículo 42.
 
-Para constituir un frente deberá celebrarse un convenio en el que se hará constar:
-
-a) Su duración;
-
-b) Las causas que lo motiven;
-
-c) Los propósitos que persiguen; y
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-d) La forma que convengan las Asociaciones Políticas para ejercer en común sus prerrogativas, dentro de los señalamientos de este Código.
-
-El convenio que se celebre para integrar un frente deberá presentarse al Instituto Electoral del Distrito Federal, el que dentro del término de diez días hábiles resolverá si cumple los requisitos legales, y en su caso dispondrá su publicación en la Gaceta Oficial del Distrito Federal para que surta sus efectos.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-Las Asociaciones Políticas que integren un frente, conservarán su personalidad jurídica, su registro y su identidad.
+(DEROGADO, G.O. 19 DE OCTUBRE DE 2005)
 
 ### Capítulo II. De las coaliciones
 
@@ -984,7 +1160,9 @@ c) El emblema o emblemas y color o colores bajo los cuales participan;
 
 d) La prelación para la conservación de derechos de los Partidos Políticos, en el caso de que el porcentaje de la votación obtenida por la Coalición no sea equivalente por lo menos al 2% por cada uno de los Partidos Políticos coaligados; y
 
-e) Deberá señalarse el monto de las aportaciones de cada Partido Político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) Deberá señalarse el monto de las aportaciones de cada Partido Político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes a través del órgano responsable de la administración de los recursos y presentación de informes.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1058,15 +1236,17 @@ Para todos los efectos legales, la vigencia del registro de la nueva Agrupación
 
 El convenio de fusión deberá ser aprobado o rechazado por el Consejo General, dentro del término de treinta días siguientes a su presentación.
 
-## TITULO SEXTO. De la pérdida de registro
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TITULO SEXTO. De la Pérdida de Registro de una Agrupación Política Local
 
 ###### Artículo 50.
 
 Son causa de pérdida de registro de una Agrupación Política Local:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-a) Haber dejado de cumplir con los requisitos necesarios para obtener el registro derivado de la revisión anual que al efecto realice la Comisión de Asociaciones Políticas del Consejo General;
+a) Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
 
 b) lncumplir de manera grave y sistemática a juicio del Consejo General del Instituto Electoral del Distrito Federal las obligaciones que le señala este Código;
 
@@ -1076,11 +1256,19 @@ c) Haber sido declarado disuelto por acuerdo de sus miembros conforme a lo que e
 
 d) Haberse fusionado con otra Asociación Política, en los términos del artículo anterior;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-e) Destinar el financiamiento público para propósitos ajenos a los que se refieren los incisos f) y l) del artículo 25 de este Código; y
+e) Destinar el financiamiento público para propósitos ajenos a los que se refieren los incisos f) y m) del artículo 25 de este Código;
 
-f) Las demás que establezca este Código.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Por reincidir en la omisión de rendir los informes anuales de actividades y del origen y aplicación de sus recursos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+g) Incumplir con el objeto para el cual fue constituida; y
+
+h) Las demás que establezca este Código.
 
 La Agrupación Política Local que hubiese perdido su registro no podrá solicitarlo de nueva cuenta, sino hasta después de transcurrido un proceso electoral ordinario.
 
@@ -1093,6 +1281,12 @@ La pérdida del registro a que se refiere el artículo anterior, será declarada
 a) La Comisión de Asociaciones Políticas emplazará a la Agrupación Política Local afectada para que, en un plazo de cinco días hábiles, manifieste lo que a su derecho convenga, respecto de la causa que sobre la pérdida de registro se le impute, ofreciendo las pruebas que considere necesarias; y
 
 b) Una vez que la Agrupación Política Local afectada manifieste lo que a su derecho convenga o fenezca el plazo concedido al efecto, la Comisión de Asociaciones Políticas, dentro de los quince días posteriores, tomando en cuenta las pruebas y alegatos, elaborará un Dictamen y lo presentará al Consejo General en la siguiente sesión que celebre.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 51 Bis.
+
+Para la liquidación de las Asociaciones Políticas que pierdan su registro, el Consejo General deberá emitir la reglamentación correspondiente.
 
 # LIBRO TERCERO. Del Instituto Electoral del Distrito Federal
 
@@ -1200,31 +1394,37 @@ b) Estar inscrito en el Registro Federal de Electores y contar con credencial pa
 
 c) Tener por lo menos veinticinco años de edad, al día de la designación;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-d) Poseer al día de la designación título profesional o formación equivalente, y tener conocimientos acreditables en la materia político-electoral;
+d) Poseer al día de la designación título profesional expedido al menos con un año de anterioridad al nombramiento y tener conocimientos acreditables en la materia político-electoral;
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 e) Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-f) Tener residencia comprobada en el Distrito Federal durante el último año;
+f) Tener residencia comprobada en el Distrito Federal durante los tres años anteriores al momento del nombramiento;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-g) No desempeñar ni haber desempeñado cargo en órganos de dirección de Partido Político alguno, en los tres años inmediatos anteriores a la designación;
+g) No desempeñar ni haber desempeñado cargo en órganos de dirección de Partido Político alguno, así como en sus fundaciones culturales o académicas, en los cinco años inmediatos anteriores a la designación;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-h) No haber sido registrado como candidato a cargo alguno de elección popular o haberlo ocupado por alguna otra circunstancia en el año anterior a la designación;
+h) No haber sido registrado como candidato a cargo alguno de elección popular o haberlo ocupado por alguna otra circunstancia en los cinco años anteriores a la designación;
 
-i) No ser ministro de culto religioso, y
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+i) No ser ministro de culto religioso a menos que se separe formal, material y definitivamente de su ministerio, cuando menos tres años antes de la aceptación del cargo;
 
-j) No ser Secretario de Estado, ni Procurador General de la República o del Distrito Federal, Subsecretario u Oficial Mayor en la Administración Pública Federal, ni Secretario de Gobierno o cualquier otro cargo o puesto de dirección en los poderes públicos de la Federación, de los Estados o Municipios u órganos de Gobierno del Distrito Federal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+j) No ser Secretario de Estado, ni Procurador General de la República o el Distrito Federal, Subsecretario u Oficial mayor en la Administración Pública Federal, ni Secretario de Gobierno o cualquier otro cargo o puesto de dirección en los poderes públicos de la Federación, de los Estados o Municipios u órganos de Gobierno del Distrito Federal, a menos que se separe de su encargo con tres años de anticipación al día de su nombramiento. Se entenderá por cargos de dirección los correspondientes al nivel de dirección general y superiores o cualquier otro similar; y
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+k) No haber sido condenado por delito doloso.
 
 ###### Artículo 57.
 
@@ -1236,13 +1436,19 @@ a) Durante el período de su encargo, no podrán tener ningún otro empleo, carg
 
 b) Desempeñarán su función con autonomía y probidad;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) No podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo, ni divulgarla sin autorización del Consejo General; y
+c) No podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo, ni divulgarla sin autorización del Consejo General.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+En materia de fiscalización y de imposición de las sanciones respectivas los servidores públicos del Instituto deberán guardar reserva sobre la información que reciban. El Instituto únicamente dará a conocer la resolución respectiva;
 
-d) El Consejero Presidente y los Consejeros Electorales del Consejo General estarán sujetos al régimen de responsabilidades establecidos en la Ley de la materia. La remoción del Consejero Presidente y de los Consejeros Electorales del Consejo General, se determinará por el voto de las dos terceras partes de los integrantes de la Asamblea Legislativa del Distrito Federal, de acuerdo a las causas que señale dicha Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Se abstendrán de participar, durante el periodo de tres años posteriores a la separación del cargo, en cualquier modalidad en la administración encabezada por quien haya ganado la elección que ellos organizaron. Asimismo, no podrán ser candidatos a cargo de elección popular, durante el periodo de cinco años posteriores a la conclusión de su cargo; y
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) El Consejero Presidente y los Consejeros Electorales del Consejo General, estarán sujetos al régimen de responsabilidades establecidos en la ley de la materia. La remoción del Consejero Presidente y de los Consejeros Electorales del Consejo General se determinará por el voto de las dos terceras partes de los integrantes de la Asamblea Legislativa del Distrito Federal, de acuerdo a las causas que señale dicha Ley.
 
 ###### Artículo 58.
 
@@ -1314,9 +1520,9 @@ V. Determinar la división del territorio del Distrito Federal en distritos elec
 
 VI. Designar o en su caso remover al Secretario Ejecutivo por el voto de las dos terceras partes de los Consejeros, conforme a la propuesta que presente su Consejero Presidente;
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-VII. Designar o en su caso remover a los Directores Ejecutivos por el voto de la mayoría de los Consejeros, conforme a la propuesta que presente el Consejero Presidente;
+VII. Designar o, en su caso remover a los directores ejecutivos y al contralor interno por el voto de las dos terceras partes de los Consejeros conforme a la propuesta que presente el Consejero Presidente;
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1334,17 +1540,17 @@ X. Investigar por los medios a su alcance, hechos que afecten de modo relevante 
 
 XI. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan, en los términos previstos en el presente Código;
 
-> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-XII. Resolver los medios de impugnación que le competan en los términos de este Código;
+XII. Emitir el reglamento correspondiente para el procedimiento de liquidación de bienes de aquellas asociaciones políticas que pierdan el registro;
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
 XIII. Recibir las solicitudes de registro y resolver, en los términos de este Código, el otorgamiento del registro a las Agrupaciones Políticas Locales; así como, en su caso, emitir la declaratoria correspondiente sobre la pérdida del mismo, en los términos de este Código;
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-XIV. Resolver sobre los convenios de fusión que celebren las Agrupaciones Políticas Locales, los convenios para formar frentes que celebren las Asociaciones Políticas, y sobre los convenios de coalición y candidatura común que celebren los Partidos Políticos, según sea el caso;
+XIV. Resolver sobre los convenios de fusión que celebren las Agrupaciones Políticas Locales, los convenios de coalición y candidatura común que celebren los Partidos Políticos, según sea el caso;
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1362,9 +1568,9 @@ XVII. Registrar las candidaturas a Jefe de Gobierno y las listas de candidatos a
 
 XVIII. Registrar supletoriamente las candidaturas a Diputados por el principio de mayoría relativa y a Jefes Delegacionales;
 
-> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-XIX. Aprobar el modelo y los formatos de la documentación y papelería electoral;
+XIX. Aprobar el modelo y los formatos de la documentación, papelería electoral y medios electrónicos para el proceso electoral;
 
 > <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -1388,11 +1594,15 @@ XXIV. Acordar la realización de los procedimientos pertinentes, a fin de conoce
 
 > <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-XXV. Presentar a la Asamblea Legislativa del Distrito Federal propuestas de reforma en materia electoral; y
+XXV. Presentar a la Asamblea Legislativa del Distrito Federal propuestas de reforma en materia electoral; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+XXVI. Vigilar el cumplimiento de las reglas sobre propaganda electoral e investigar, a solicitud de los Partidos Políticos o Coaliciones, los presuntos incumplimientos a las mismas; aprobar las características de los sistemas que permitan la utilización de medios electrónicos para el ejercicio del voto; y
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
-XXVI. Dictar los acuerdos y resoluciones necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
+XXVII. Dictar los acuerdos y resoluciones necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
 
 ###### Artículo 61.
 
@@ -1496,9 +1706,9 @@ VIII. Las demás atribuciones que le confiera este Código.
 
 La Comisión de Fiscalización, tiene las atribuciones siguientes:
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-I. Someter a consideración del Consejo General los proyectos de lineamientos de bases técnicas elaborados por la Dirección Ejecutiva de Asociaciones Políticas, respecto a la presentación de los informes del origen y monto de los ingresos que las Asociaciones Políticas reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación;
+I. Someter a consideración del Consejo General los proyectos de normatividad técnica, elaborados por la Dirección Ejecutiva de Asociaciones Políticas, relativa a la presentación de los informes del origen, monto, empleo y aplicación de los ingresos que las Asociaciones Políticas reciban por cualquier modalidad de financiamiento;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -1508,9 +1718,9 @@ II. Someter a la consideración del Consejo General los proyectos de lineamiento
 
 III. Supervisar que los recursos del financiamiento que ejerzan las Asociaciones Políticas, se apliquen estricta e invariablemente para las actividades señaladas en este Código;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-IV. Solicitar a las Asociaciones Políticas, en forma motivada y fundada los informes detallados de sus ingresos y egresos;
+IV. Solicitar a las Asociaciones Políticas, en forma motivada y fundada los documentos e informes detallados de sus ingresos y egresos;
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1520,9 +1730,11 @@ V. Revisar los informes que las Asociaciones Políticas presenten sobre el orige
 
 VI. Ordenar la práctica de auditorías a las finanzas de las Asociaciones Políticas, en los términos de los acuerdos del Consejo General;
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-VII. Ordenar visitas de verificación a las Asociaciones Políticas con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+VII. Ordenar visitas de verificación a las Asociaciones Políticas con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes; así como cuando por motivo de una investigación, la Comisión de Fiscalización requiera para mejor proveer de la revisión de la documentación que juzgue necesaria, para su compulsa con los hechos denunciados.
+
+Cuando esté en curso una investigación, las Asociaciones Políticas deberán brindar las facilidades necesarias al personal del Instituto Electoral del Distrito Federal, para ingresar a sus oficinas. Asimismo, le proporcionará la documentación e información que le sea requerida. En caso de negativa las Asociaciones Políticas serán sancionadas en términos del artículo 369 de este ordenamiento;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -1532,9 +1744,9 @@ VIII. Someter a la consideración del Consejo General los proyectos de dictámen
 
 IX. Informar al Consejo General de las presuntas irregularidades en que hubiesen incurrido las Asociaciones Políticas derivadas del manejo de sus recursos así como, por el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento sobre faltas y sanciones;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-X. Someter a la consideración del Consejo General el proyecto de dictamen que elabore la Dirección Ejecutiva de Asociaciones Políticas, respecto de la revisión de los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales y de campaña;
+X. Someter a la consideración del Consejo General el proyecto de dictamen y resolución, respecto de la revisión de los informes que las Asociaciones Políticas presenten en los términos del artículo 37 de este Código;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -1544,9 +1756,13 @@ XI. Proporcionar a las Asociaciones Políticas la orientación y asesoría neces
 
 XII. Intercambiar, de acuerdo con los convenios que al efecto se celebren, información con el Instituto Federal Electoral respecto a los informes y revisiones que se realicen en los respectivos ámbitos de competencia, a efecto de verificar el cumplimiento de las normas establecidas por este Código;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+XIII. Solicitar a las autoridades de los tres ámbitos de gobierno, las instituciones financieras y todas las personas físicas y morales, la información que se encuentren en su poder y que sean necesarias para comprobar el cumplimiento y la veracidad de los informes que presenten las Asociaciones Políticas; y
+
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
-XIII. Las demás que le confiera este Código.
+XIV. Las demás que le confiera este Código.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -1612,7 +1828,7 @@ III. Supervisar las actividades relacionadas con la promoción del voto y difusi
 
 IV. Opinar respecto del contenido de materiales de educación cívica, elaborados por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
-VI. (SIC) Opinar respecto del contenido de materiales e instructivos de capacitación electoral, elaborados por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
+VI. (sic) Opinar respecto del contenido de materiales e instructivos de capacitación electoral, elaborados por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
 VII. Proponer al Consejero Presidente la suscripción de convenios en materia de educación cívica; y
 
@@ -2086,23 +2302,23 @@ Los Consejeros Electorales de los Consejos Distritales, deberán satisfacer los 
 
 a) Ser mexicano por nacimiento y ciudadano del Distrito Federal en pleno goce de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía cuyo domicilio corresponda al Distrito Federal;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-b) Tener residencia de al menos un año en el distrito electoral que corresponda;
+b) Tener residencia de tres años en el distrito electoral que corresponda;
 
 c) Contar con conocimientos para el desempeño adecuado de sus funciones;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-d) No haber sido registrado como candidato a cargo alguno de elección popular en el año anterior a la designación;
+d) No haber sido registrado como candidato a cargo alguno de elección popular en los cinco años anteriores a la designación;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-e) No desempeñar ni haber desempeñado cargo de dirección en Órganos de Dirección de Partido Político alguno en los tres años inmediatos anteriores a la designación;
+e) No desempeñar ni haber desempeñado cargo de dirección en Órganos de Dirección de Partido Político alguno en los cinco años inmediatos anteriores a la designación;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-f) No haber desempeñado cargo de dirección de mando medio o superior en el Gobierno del Distrito Federal, el año anterior al inicio del proceso electoral para el que se integre el Consejero Distrital; y
+f) No haber desempeñado cargo de dirección de mando medio o superior en el Gobierno del Distrito Federal, durante los tres años anteriores a la designación; y
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -2496,29 +2712,41 @@ f) Las demás que les confiera este Código.
 
 Los integrantes del Consejo General, de los Consejos Distritales y los ciudadanos que integran las Mesas Directivas de Casilla, deberán rendir la protesta de Ley de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, cumplir con las normas contenidas en este Código, y desempeñar leal y patrióticamente la función que se les ha encomendado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 100.
 
-No podrán actuar como Consejeros Electorales ni como representantes de los Partidos Políticos o Coaliciones ante los órganos del Instituto, quienes se desempeñen como:
+No podrán actuar como Consejero Presidente, Consejeros Electorales ni como representantes de los Partidos Políticos o Coaliciones ante los órganos del Instituto, quienes se desempeñen como:
 
 a) Juez, Magistrado o Ministro del Poder Judicial Federal, Juez o Magistrado del Poder Judicial de una entidad federativa o integrante del Consejo de la Judicatura federal o de alguna entidad federativa;
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-b) Consejero Electoral o miembro del servicio profesional electoral del Instituto Federal Electoral;
+b) Magistrados del Tribunal Electoral del Poder Judicial de la Federación, del Tribunal Electoral del Distrito Federal o de los tribunales electorales de los estados;
 
-c) Miembro en servicio activo de cualquier fuerza armada o policiaca;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-d) Procurador, Subprocurador o agente del ministerio público federal o local;
+c) Consejero Presidente, Consejeros electorales o miembro del servicio profesional electoral del Instituto Federal Electoral;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-e) Servidores Públicos con cargo de dirección a nivel local o federal, entendiéndose por estos, el nivel de Jefe de Departamento o equivalente y superiores;
+d) Miembro en servicio activo de cualquier fuerza armada o policíaca;
 
-f) (DEROGADO, G.O. 15 DE MAYO DE 2003)
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-g) Directores Ejecutivos o demás funcionarios electorales del Instituto Electoral del Distrito Federal y del Tribunal Electoral del Distrito Federal.
+e) Procurador, Subprocurador o agente del ministerio público federal o local;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Servidores Públicos con cargo de dirección a nivel local o federal, entendiéndose por éstos, Director General o equivalente y superiores;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+g) Directores Ejecutivos o demás funcionarios electorales del Instituto Electoral del Distrito Federal; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+h) Oficial Mayor o Contador Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -2542,61 +2770,87 @@ El reglamento de sesiones que expida el Consejo General determinará las medidas
 
 Los Consejos del Instituto Electoral del Distrito Federal expedirán a los representantes de los Partidos Políticos o Coaliciones, copias certificadas de las actas de las sesiones que celebren.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 103.
 
-Las autoridades del Distrito Federal están obligadas a proporcionar informes, certificaciones y el auxilio de la fuerza pública a los órganos del Instituto Electoral del Distrito Federal para el cumplimiento de sus funciones, previa solicitud que le formulen sus respectivos titulares.
+Las autoridades competentes de la Administración Pública del Distrito Federal están obligadas a proporcionar informes, certificaciones y el auxilio de la fuerza pública a los órganos del Instituto Electoral del Distrito Federal para el cumplimiento de sus funciones, previa solicitud que le formulen sus respectivos titulares.
 
 El Instituto Electoral del Distrito Federal podrá solicitar la colaboración de las autoridades federales, para los efectos a que se refiere el párrafo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-# LIBRO CUARTO. Del Servicio Profesional Electoral
+# LIBRO CUARTO. De la Colaboración Registral y de las Bases para la Organización del Servicio Profesional Electoral
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ## TITULO PRIMERO
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-### Capítulo I
+### Capítulo I. De la Colaboración Registral
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 104.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+Para efectos de este Libro se entenderá como colaboración registral al conjunto de acciones que el Instituto Electoral del Distrito Federal realice en coordinación con las autoridades federales electorales en materia de catálogo general de electores, padrón electoral y las listas nominales de electores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 105.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+El Instituto Electoral del Distrito Federal celebrará los convenios y acciones necesarias con las autoridades federales electorales en materia de catálogo general de electores, padrón electoral y listas nominales de electores y cualquier otra medida que tienda al logro de los fines del propio Instituto.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-### Capítulo II
+### Capítulo II. De las Listas Nominales de Electores y de su revisión
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 106.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+Para efectos de este capítulo se entenderá por Listas Nominales de Electores, las relaciones elaboradas por las autoridades federales electorales, que contienen el nombre de las personas incluidas en el Padrón Electoral del Distrito Federal, agrupadas por distrito y sección, a quienes se ha expedido y entregado su Credencial para Votar.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 107.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+Durante el año de la elección y a fin de entregarlas a los representantes de los Partidos Políticos acreditados ante el Consejo General del Instituto Electoral del Distrito Federal, el organismo local realizará las acciones tendientes a obtener de las autoridades federales electorales, las Listas Nominales de Electores.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2003)</small>
+Los Partidos Políticos acreditados ante el Consejo General del Instituto Electoral del Distrito Federal podrán presentar las observaciones que consideren pertinentes a las Listas Nominales de Electores bajo el siguiente procedimiento:
+
+I.- La Dirección Ejecutiva de Organización y Geografía Electoral entregará a los Partidos Políticos acreditados ante el Consejo General, en medios magnéticos las Listas Nominales de Electores a más tardar el 15 de marzo del año en que se celebre el proceso electoral.
+
+II.- Los Partidos Políticos podrán formular observaciones a dichas listas, señalando hechos y casos concretos e individualizados, hasta el 13 de abril inclusive. Dichas observaciones deberán hacerse llegar a la Dirección Ejecutiva de Organización y Geografía Electoral.
+
+III.- La Dirección Ejecutiva de Organización y Geografía Electoral deberá remitir a las autoridades federales electorales las observaciones realizadas por los Partidos Políticos acreditados ante el Consejo General del Instituto Electoral del Distrito Federal, el 14 de abril del año de la elección.
+
+IV. La Dirección Ejecutiva de Organización y Geografía Electoral deberá presentar al Consejo General del Instituto Electoral del Distrito Federal un informe sobre las observaciones presentadas por los Partidos Políticos a las Listas Nominales de Electores, así como de la repercusión que, en su caso, tuvieran sobre las Listas Nominales de Electores con fotografía definitivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 108.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+La Dirección Ejecutiva de Organización y Geografía Electoral, de conformidad con los convenios de apoyo y colaboración que al respecto suscriba el Instituto Electoral del Distrito Federal con las autoridades federales electorales realizará las acciones tendientes a recibir del Registro Federal de Electores, las Listas Nominales de Electores con fotografía por lo menos 31 días antes de la jornada electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 109.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+La Dirección Ejecutiva de Organización y Geografía Electoral deberá entregar la Lista Nominal de Electores con fotografía a los Consejos Distritales del Instituto Electoral del Distrito Federal y a los Partidos Políticos acreditados ante el Consejo General a más tardar 30 días antes de la jornada electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 110.
 
-(DEROGADO, G.O. 15 DE MAYO DE 2003)
+Las Listas Nominales de Electores que se entreguen a los Partidos Políticos serán para su uso exclusivo y no podrán destinarse a finalidad u objeto distinto al de la revisión del padrón electoral y listado nominal. Cuando un Partido Político no desee conservarlas, deberá reintegrarlas al Instituto Electoral del Distrito Federal.
+
+> <small>(DEROGADO, G.O. 15 DE MAYO DE 2003)</small>
 
 ### Capítulo III
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2003)</small>
 
 ### Capítulo IV
 
@@ -2680,9 +2934,9 @@ El Instituto Electoral del Distrito Federal podrá solicitar la colaboración de
 
 (DEROGADO, G.O. 15 DE MAYO DE 2003)
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU NUMERACION, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-## TITULO UNICO. De las Bases para la Organización del Servicio Profesional Electoral
+## TITULO SEGUNDO. De las Bases para la Organización del Servicio Profesional Electoral
 
 ### Capítulo I. Disposiciones Preliminares
 
@@ -2786,9 +3040,9 @@ Por la naturaleza de la función estatal que tiene encomendada el Instituto Elec
 
 El Instituto Electoral del Distrito Federal podrá determinar el cambio de adscripción o de horario de su personal, cuando por necesidades del servicio se requiera, en la forma y términos que establezcan este Código y el Estatuto.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-El personal de estructura del Instituto Electoral del Distrito Federal, con motivo de la carga laboral que representa el proceso electoral al ser todos los días y horas hábiles, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado. Los integrantes del Consejo General y la Junta Ejecutiva del Instituto Electoral del Distrito Federal no gozarán del otorgamiento de esta remuneración.
+El personal de estructura del Instituto Electoral del Distrito Federal, con motivo de la carga laboral que representa el proceso electoral al ser todos los días y horas hábiles, tendrá derecho a recibir una compensación derivada de las labores extraordinarias que realice, de acuerdo con el presupuesto autorizado. Dicha compensación será aprobada por el Consejo General en sesión ordinaria y consistirá en una determinada proporción de la remuneración mensual, que será la misma para quienes tienen derecho a ella. No gozarán del otorgamiento de esta compensación los integrantes del Consejo General y la Junta Ejecutiva del Instituto Electoral del Distrito Federal, los Magistrados Electorales ni Directores Generales o equiparables del Tribunal electoral del Distrito Federal.
 
 ###### Artículo 133.
 
@@ -2814,9 +3068,31 @@ El Consejo General del Instituto Electoral del Distrito Federal convocará a los
 
 El Instituto Electoral del Distrito Federal será el encargado de organizar los procedimientos de participación ciudadana, convocados en los términos que determina el Estatuto de Gobierno del Distrito Federal y la Ley de Participación Ciudadana, con los procedimientos que establece el presente Código de carácter general y específicos.
 
-El día en que se reciba la votación de las elecciones ordinarias será considerado como no laborable en el Distrito Federal. Los procesos de participación ciudadana se realizarán en día domingo.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+El día en que se reciba la votación de las elecciones ordinarias será considerado como no laborable en el Distrito Federal. Los procesos de participación ciudadana se realizarán en los días señalados en la Ley de la materia.
 
 Durante los procesos electorales y de participación ciudadana todos los días y horas son hábiles, los plazos se contarán por días completos y cuando se señalen por horas se contarán de momento a momento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+En su caso el Instituto Electoral del Distrito Federal para la organización de los procesos electorales y de participación ciudadana, podrá hacer uso de sistemas electrónicos que aseguren la efectividad y autenticidad del sufragio. Para tal efecto, se cerciorará de que los mecanismos de seguridad sean auditables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Los sistemas electrónicos deberán sujetarse a los siguientes lineamientos:
+
+I. Garantizar el carácter universal, libre, secreto, directo, personal e intransferible del voto, así como su autenticidad y efectividad;
+
+II. Garantizar la seguridad del ejercicio del voto;
+
+III. Evitar intentos de falsificación del voto;
+
+IV. Permitir la comparación de los resultados impresos con los guardados en los dispositivos de la urna;
+
+V. Garantizar que todos los mecanismos de seguridad sean auditables, para que puedan ser analizados en caso de controversia; e
+
+VI. Incluir mecanismos para facilitar el ejercicio del voto a las personas con capacidades diferentes.
 
 ### Capítulo I. Del Proceso Electoral Ordinario
 
@@ -2976,6 +3252,10 @@ h) Las firmas de los funcionarios del Partido Político o Coalición postulantes
 
 i) La solicitud de registro deberá señalar el Partido Político o Coalición que las postulen.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+j) Un reporte de los gastos erogados durante las precampañas por el precandidato ganador. El tope de gastos que podrá erogar cada precandidato no podrá exceder de un veinte por ciento del tope de gastos que se estableció para la elección inmediata anterior al mismo cargo.
+
 > <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
 
 Se incluirán dos fotografías tamaño infantil (2.5 x 3.0 cm), de frente, del candidato(a) respectivo, a excepción de los candidatos a Diputados por el principio de representación proporcional.
@@ -2996,7 +3276,13 @@ b) Manifestar por escrito, bajo protesta de decir verdad, que los candidatos cuy
 
 c) En el caso de solicitud de registro de las listas de candidaturas a diputados por el principio de representación proporcional, deberá acompañarse, además de los documentos referidos en los párrafos anteriores, de la constancia de registro del total de candidaturas para diputados por el principio de mayoría relativa, las que se podrán acreditar con las registradas por el Partido Político o Coalición; y
 
-d) Manifestación por escrito, en su caso, de la forma de integración de la lista de representación proporcional, de acuerdo a lo establecido por el artículo 11 de este Código.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Manifestación por escrito, en su caso, de la forma de integración de la lista de representación proporcional, de acuerdo a lo establecido por el artículo 11 de este Código; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) Constancia de registro de la plataforma electoral.
 
 ###### Artículo 145.
 
@@ -3046,11 +3332,51 @@ Para la sustitución de candidatos postulados en común por dos o más Partidos 
 
 ### Capítulo I. Disposiciones generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO CONSULTAR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 147.
 
-La campaña electoral, para los efectos de este Código, es el conjunto de actividades llevadas a cabo por los Partidos Políticos, las coaliciones y los candidatos registrados para la obtención del voto.
+Las precampañas iniciarán ciento ochenta días previos al registro de candidatos para el cargo de elección popular ante el Instituto Electoral del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+Para los fines de este Código, se entiende como:
+
+I. Precampaña: Al conjunto de actividades propagandísticas y publicitarias, previas a las campañas electorales que los ciudadanos realicen por sí mismos o a través de partidos políticos o simpatizantes con el objeto de promoverse de manera pública y con el propósito de obtener la postulación a un cargo de elección popular.
+
+Queda prohibido a los Precandidatos recibir apoyos materiales de servidores públicos, utilizar recursos e instalaciones públicas para promover su intención de obtener la candidatura de un Partido Político.
+
+II. Actos de Precampaña: A las actividades que de manera previa a la campaña electoral realizan los aspirantes a candidatos a cargos de elección popular, así como terceros. Los actos de precampañas podrán consistir en:
+
+a) Reuniones públicas o privadas;
+
+b) Asambleas;
+
+c) Debates;
+
+d) Visitas domiciliarias, y
+
+e) Cualquier otra actividad tendiente a conseguir la nominación como candidato de un partido político a un cargo de elección popular.
+
+En todo acto de precampaña se deberá manifestar expresamente que se trata de actos relacionados con el proceso para alcanzar su postulación como candidato del partido político al que pertenece o está por pertenecer.
+
+III. Propaganda en Precampaña: Al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones, mantas o cartelones, pintas de bardas y expresiones que durante las precampañas producen y difunden los Precandidatos, Partidos Políticos o Coaliciones, así como sus simpatizantes.
+
+IV. Precandidato: El ciudadano que decide participar con el fin de alcanzar su nominación como candidato a un puesto de elección popular. Se reputará con tal carácter a partir de que los estatutos partidistas lo permitan, lo haga en los términos que establece el presente Código y se de aviso al Instituto Electoral del Distrito Federal.
+
+Cuando un aspirante a candidato o un Partido Político o Coalición no informe del inicio de su precampaña, tanto el Instituto, como los Partidos Políticos o Coaliciones, reconocerán que una precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del partido correspondiente y por la autoridad electoral.
+
+Quedan prohibidos todos los actos de precampaña llevados a cabo tanto por Partidos Políticos como por Precandidatos antes del plazo establecido en el párrafo primero del presente artículo.
+
+En caso de contravenir la disposición anterior se aplicará al Partido Político la sanción prevista en el artículo 369 inciso f).
+
+En caso de (sic) un precandidato haya realizado actos de precampaña antes del plazo fijado por la ley y no fuera militante de ningún Partido Político y posteriormente fuera postulado por alguno se aplicará al partido la sanción correspondiente.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 147 Bis.
+
+La campaña electoral, para los efectos de este Código, es el conjunto de actividades llevadas a cabo por los Partidos Políticos, las Coaliciones y los candidatos registrados para la obtención del voto.
 
 Se entiende por actos de campaña las reuniones públicas, debates, asambleas, visitas, marchas y en general aquéllos en que los candidatos o voceros de los Partidos Políticos o Coaliciones se dirigen al electorado para promover sus candidaturas.
 
@@ -3065,6 +3391,14 @@ Tanto la propaganda electoral como las actividades de campaña a que se refiere 
 Las campañas electorales de los Partidos Políticos y Coaliciones se iniciarán a partir del día siguiente al de la sesión de registro de candidaturas para la elección respectiva, debiendo concluir tres días antes de celebrarse la jornada electoral.
 
 El día de la jornada electoral y durante los tres días anteriores no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña de propaganda o de proselitismo electorales.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 148 Bis.
+
+La propaganda electoral una vez terminada (sic) las precampañas y campañas que realizan los Partidos Políticos para elegir a sus candidatos deberá ser retirada por los Partidos Políticos a más tardar antes del inicio del registro de candidatos, tratándose de las precampañas y treinta días después de las elecciones en las campañas; en caso de no hacerlo se ordenará a las autoridades delegacionales el retiro aplicando el costo de dichos trabajos a las prerrogativas del partido infractor.
+
+En caso de que algún partido o sus candidatos no hubieran retirado su propaganda en el término señalado en el presente artículo el Instituto podrá imponer una sanción al Partido Político y a sus precandidatos y candidatos omisos en términos de lo dispuesto en los incisos a) y b) del artículo 369 del presente Código.
 
 ###### Artículo 149.
 
@@ -3088,7 +3422,11 @@ Los Partidos Políticos, Coaliciones o candidatos que decidan dentro de la campa
 
 La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o coalición que ha registrado al candidato.
 
-El material que se utilice para la elaboración de propaganda deberá ser de naturaleza biodegradable o en su defecto de naturaleza reciclable.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO SEPTIMO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+El material que se utilice para la elaboración de propaganda deberá ser de naturaleza biodegradable o en su defecto de naturaleza reciclable. Se prohíbe la utilización de plásticos para la elaboración de propaganda impresa por tratarse de material de lenta degradación.
 
 La propaganda que en el curso de una campaña difundan por medios gráficos los Partidos Políticos, las coaliciones y los candidatos, no tendrán más límite que el respeto a la vida privada de candidatos, terceros y a las instituciones y valores democráticos.
 
@@ -3156,35 +3494,57 @@ Queda prohibido a los Partidos Políticos, Coaliciones y sus candidatos, adjudic
 
 ### Capítulo II. De las campañas en los medios de comunicación masiva
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 158.
 
-Es derecho exclusivo de los Partidos Políticos contratar tiempos en radio y televisión para difundir mensajes orientados a la obtención del voto durante las campañas electorales, conforme a las normas y procedimientos que se establecen en el presente artículo.
+Solamente los Partidos Políticos podrán contratar tiempos en radio y televisión para difundir mensajes orientados a la obtención del voto durante las campañas electorales, conforme a las normas y procedimientos que se establecen en el presente artículo.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+Durante las campañas electorales los candidatos a un cargo de elección popular no podrán contratar por cuenta propia o por interpósita persona, tiempos y espacios en radio y televisión. Ninguna persona física o moral podrá ceder gratuitamente tiempos y espacios publicitarios en medios de comunicación masiva a favor de algún Partido Político, Coalición o candidato.
 
-Los candidatos sólo podrán hacer uso de los tiempos que les asignen su Partido Político, o Coalición.
+El Consejo General del Instituto Electoral del Distrito Federal solicitará oportunamente a la dependencia competente su intervención, a fin de que los concesionarios de radio y televisión, le proporcionen un catálogo de horarios y tarifas correspondientes disponibles para la contratación para las campañas electorales. Dichas tarifas no serán superiores a las de la publicidad comercial. Dicho catálogo se pondrá a disposición de los partidos políticos, en sesión que realice el Consejo General con anterioridad al inicio de las campañas electorales.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-La Comisión de Radiodifusión realizará monitoreos muestrales de los tiempos de transmisión sobre las campañas de los Partidos Políticos y Coaliciones en los espacios noticiosos de los medios de comunicación, para informar al Consejo General.
+###### Artículo 158 Bis.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+Para la transparencia en el manejo de los recursos de los Partidos Políticos o Coaliciones en los gastos correspondientes a la propaganda electoral que difundan en las estaciones de radio y televisión, atenderán a los siguientes lineamientos:
 
-En ningún caso se permitirá la contratación de propaganda en radio y televisión en favor o en contra de algún Partido Político, Coalición o candidato por parte de terceros.
+a) Los comprobantes de gastos efectuados en propaganda en televisión deberán especificar el tipo o tipo de promocionales que amparan y el número de transmisiones realizadas para cada tipo de promocional, sean estos regulares o filmes publicitarios, publicidad virtual, superposición con audio o sin audio, exposición de logotipo en estudio, patrocinio de programas o eventos o cualquier otro tipo de publicidad. Los Partidos Políticos deberán solicitar que, junto con la documentación comprobatoria del gasto y en hojas membreteadas de la empresa correspondiente, se anexe una relación pormenorizada de cada uno de los promocionales que ampare la factura.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+Dicha relación deberá incluir:
 
-El Consejo General, a más tardar el 31 de enero del año de la elección, aprobará los lineamientos generales aplicables en los noticieros de radio y televisión respecto de la información o difusión de las actividades de campaña de los Partidos Políticos o en su caso, Coaliciones.
+1. Las siglas y el canal en que se transmitió cada uno de los promocionales, independientemente de que dicha difusión se realice a través de estaciones de origen o repetidoras;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+2. La identificación del promocional transmitido;
 
-El Consejo General, a más tardar el 15 de febrero del año de la elección, hará del conocimiento de la instancia en el Distrito Federal de la Comisión de Radiodifusión y la Cámara Nacional de la Industria de Radio y Televisión, los lineamientos a que se refiere el párrafo anterior.
+3. El tipo de promocional de que se trata;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+4. La fecha de transmisión de cada promocional;
+
+5. La hora de transmisión;
+
+6. La duración de la transmisión; y
+
+7. El valor unitario de cada uno de los promocionales.
+
+b) Los comprobantes de gastos efectuados en propaganda en radio, también deberán especificar el tipo o tipos de promocionales que amparan, y el número de transmisiones realizadas para cada tipo de promocional, sean regulares o filmes publicitarios, patrocinio de programas o eventos, o cualquier otro tipo de publicidad. Los Partidos Políticos deberán solicitar que, junto con la documentación comprobatoria del gasto y en hojas membretadas del grupo o empresa correspondiente, se anexe una desagregación semanal que contenga, para cada semana considerada de lunes a domingo, la siguiente documentación:
+
+1. Independientemente de que la transmisión se realice a través de estaciones de origen o repetidoras, el nombre de la estación, la banda, las siglas y la frecuencia en que se transmitieron los promocionales difundidos;
+
+2. El número de ocasiones en que se transmitió cada promocional durante la semana correspondiente, especificándose el tipo de promocionales de que se trata y la duración del mismo;
+
+3. El valor unitario de cada uno de los promocionales.
+
+c) Toda la facturación que ampare la compra de cualquier tipo de promocional deberá expedirse a nombre del Partido Político.
+
+Con la información anterior, los Partidos Políticos deberán entregar al Instituto Electoral la documentación correspondiente. Adicionalmente, los Partidos Políticos deberán presentar un informe de los promocionales transmitidos en radio y televisión durante el periodo de campaña que aún no hayan sido pagados al momento de la presentación de sus informes, el número de póliza de diario con la que se abonó el pasivo correspondiente con cargo a gastos de campaña, así como la orden de servicio expedida por el proveedor o alguna otra documentación que ampare dichos pasivos, en la cual deberá especificarse el importe del servicio prestado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 159.
 
-El Secretario Ejecutivo del Instituto Electoral del Distrito Federal solicitará oportunamente a la Secretaría de Comunicaciones y Transportes su intervención, a fin de que los concesionarios o permisionarios de radio y televisión del Distrito Federal, le proporcionen un catálogo de horarios y sus tarifas correspondientes, disponibles para su contratación por los Partidos Políticos y Coaliciones.
+Para ejercer la prerrogativa a la que se refiere el Artículo 29 de este Código, el Secretario Ejecutivo del Instituto Electoral del Distrito Federal solicitará oportunamente a la Secretaría de Comunicaciones y Transportes su intervención, a fin de que los concesionarios de radio y televisión del Distrito Federal, le proporcionen un catálogo de horarios disponibles para los Partidos Políticos y Coaliciones.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -3234,35 +3594,37 @@ No se considerarán dentro de los topes de campaña los gastos que realicen los 
 
 El Consejo General, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
 
-a) Se sumarán los días de campaña de cada una de las elecciones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+I. Se sumarán los días de campaña de cada una de las elecciones;
 
-(sic) Se sumará el financiamiento público para las actividades tendientes a la obtención del voto y la estimación del financiamiento privado, a que se refiere él artículo 36, fracción I de este Código, que en ambos casos el Partido Político o Coalición mayoritario puede obtener, de acuerdo a las reglas de financiamiento establecidas por el presente Código;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+II. Se sumará el financiamiento público para las actividades tendientes a la obtención del voto y la estimación del financiamiento privado, a que se refiere el artículo 36, fracción I de este Código, que en ambos casos el Partido Político o Coalición mayoritario puede obtener, de acuerdo a las reglas de financiamiento establecidas por el presente Código;
 
-(sic) Se dividirá el resultado del inciso b) entre el resultado del inciso a) de este artículo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+III. Se dividirá el resultado de la fracción II entre el resultado de la fracción I de este artículo;
 
-Para obtener el tope de gastos de campaña de cada elección, se multiplicará el número de días que tenga cada una de ellas por el resultado del inciso anterior.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+IV. Para obtener el tope de gastos de campaña de cada elección, se multiplicará el número de días que tenga cada una de ellas por el resultado de la fracción anterior;
 
-Para determinar el tope de gastos de campaña en Distritos y Delegaciones, se considerará el número de electores de cada uno conforme al último corte del padrón electoral al momento de realizar el cálculo. Consecuentemente, el número de electores del respectivo Distrito o Delegación se multiplicará por el factor de costo por ciudadano y el resultado obtenido será el tope de gastos de campaña del respectivo Distrito o Delegación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+V. Para determinar el tope de gastos de campaña en Distritos y Delegaciones, se considerará el número de electores de cada uno conforme al último corte del padrón electoral al momento de realizar el cálculo. Consecuentemente, el número de electores del respectivo Distrito o Delegación se multiplicará por el factor de costo por ciudadano y el resultado obtenido será el tope de gastos de campaña del respectivo Distrito o Delegación;
 
-Para obtener el factor de costo por ciudadano, la cantidad obtenida conforme al primer párrafo de este inciso d) para las elecciones de Diputados o Jefes Delegacionales se dividirá entre el número de electores correspondiente al último corte del padrón electoral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+VI. Para obtener el factor de costo por ciudadano, la cantidad obtenida conforme a lo dispuesto en la fracción IV para las elecciones de Diputados o Jefes Delegacionales se dividirá entre el número de electores correspondiente al último corte del padrón electoral;
 
-Cada Partido Político o Coalición deberá destinar por lo menos el 50% de las erogaciones que realice para la propaganda en radio y/o televisión en programas para la difusión de su plataforma electoral, la promoción de sus candidatos, así como para el análisis de los temas de interés del Distrito Federal y su posición ante ellos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+VII. Cada Partido Político o Coalición deberá destinar por lo menos el 50% de las erogaciones que realice para la propaganda en radio y/o televisión en programas para la difusión de su plataforma electoral, la promoción de sus candidatos, así como para el análisis de los temas de interés del Distrito Federal y su posición ante ellos;
 
-Salvo el Partidos Político que obtenga mayor financiamiento público en términos de este Código, los demás Partidos Políticos podrán realizar transferencias de sus otras fuentes de financiamiento para los gastos de campaña, respetando los topes de gastos, especificando los montos de cada una de las transferencias y observando el principio de supremacía del financiamiento público sobre el privado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+VIII. Salvo el Partido Político que obtenga mayor financiamiento público en términos de este Código, los demás Partidos Políticos podrán realizar transferencias de sus otras fuentes de financiamiento para los gastos de campaña, respetando los topes de gastos, especificando los montos de cada una de las transferencias y observando el principio de supremacía del financiamiento público sobre el privado.
 
 ### Capítulo IV. Del derecho de aclaración y réplica
 
@@ -3346,9 +3708,9 @@ d) No ser establecimientos fabriles, templos o locales destinados al culto, o bi
 
 e) No ser locales ocupados por cantinas, centros de vicio o similares.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Para la ubicación de las casillas se preferirán, en caso de reunir los requisitos señalados por los incisos a) y b) de este artículo, los locales ocupados por escuelas y oficinas públicas y aquellos lugares que faciliten el acceso a las personas con discapacidad.
+Para la ubicación de las casillas se preferirán, en caso de reunir los requisitos señalados por los incisos a) y b) de este artículo, los locales ocupados por escuelas y oficinas públicas y aquellos lugares que faciliten el acceso a las personas con discapacidad, así como para adultos mayores.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -3406,6 +3768,10 @@ Durante el procedimiento para la designación de funcionarios de casilla deberá
 
 El Instituto Electoral del Distrito Federal, promoverá la participación de los ciudadanos en las tareas electorales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Los ciudadanos designados para integrar las mesas directivas de casilla, podrán excusarse de su cumplimiento, únicamente por causa justificada o de fuerza mayor, presentando dicha excusa por escrito ante el organismo que lo designó.
+
 ## TITULO QUINTO. Del registro de representantes y observadores
 
 ### Capítulo I. De los representantes de los Partidos Políticos
@@ -3436,7 +3802,9 @@ En caso de que el Consejero Presidente del Consejo Distrital no resuelva dentro 
 
 Los representantes de los Partidos Políticos o Coaliciones, para la jornada electoral ajustarán su conducta a las siguientes reglas:
 
-I. Tendrán las siguientes facultades:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+I. Tendrán los siguientes derechos:
 
 a) Ejercerán su cargo exclusivamente ante las Mesas Directivas de Casilla para las que fueron acreditados;
 
@@ -3668,7 +4036,9 @@ El día de la jornada electoral el Consejo General dictará un acuerdo, para que
 
 Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los cuerpos de seguridad pública del Distrito Federal deben prestar el auxilio que les requieran los órganos del Instituto Electoral del Distrito Federal y los Presidentes de las Mesas Directivas de Casilla, en el ámbito de sus respectivas competencias, conforme a las disposiciones de este Código.
 
-El día de la jornada electoral, exclusivamente pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+El día de la jornada electoral, exclusivamente pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden. Sin embargo, ningún miembro uniformado podrá ingresar armado a la casilla.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -3790,9 +4160,9 @@ b) El local se encuentre cerrado o clausurado y no se pueda realizar la instalac
 
 c) Se advierta al momento de la instalación de la casilla, que ésta se pretende instalar en lugar prohibido por este Código;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-d) Las condiciones del local no permitan asegurar la libertad o el secreto del voto o el fácil y libre acceso de los electores o bien, no garanticen la realización de las operaciones electorales en forma normal. En este caso, será necesario que los funcionarios y representantes presentes tomen la determinación de común acuerdo; y
+d) Las condiciones del local no permitan asegurar la libertad o el secreto del voto o el fácil y libre acceso de los electores, de personas con discapacidad o adultos mayores, o bien, no garanticen la realización de las operaciones electorales, en forma normal. En estos casos, será necesario que los funcionarios y representantes presentes tomen la determinación de común acuerdo; y
 
 e) El Consejo Distrital así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique al Presidente de la casilla.
 
@@ -4344,45 +4714,83 @@ Los Partidos Políticos o Coaliciones no podrán invocar en su favor, en ningún
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 222.
 
-El Tribunal Electoral del Distrito Federal es órgano autónomo y máxima autoridad jurisdiccional en materia electoral, que tiene a su cargo garantizar que todos los actos y resoluciones de las autoridades electorales del Distrito Federal se sujeten al principio de legalidad.
+El presente libro tiene por objeto regular la organización, funcionamiento, administración y responsabilidades del Tribunal Electoral del Distrito Federal.
+
+El Tribunal Electoral del Distrito Federal es órgano autónomo y máxima autoridad jurisdiccional en materia electoral, dotado de plena jurisdicción, que tiene a su cargo garantizar que todos los actos y resoluciones electorales y de los procedimientos de participación ciudadana, del Distrito Federal se sujeten al principio de legalidad.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 223.
 
-El patrimonio del Tribunal Electoral del Distrito Federal se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Distrito Federal.
+El patrimonio del Tribunal Electoral del Distrito Federal es inembargable y se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente apruebe la Asamblea Legislativa, en el Presupuesto de Egresos del Gobierno del Distrito Federal.
 
-El Tribunal Electoral del Distrito Federal se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas, del Estatuto de Gobierno y las de este Código.
+El Tribunal Electoral del Distrito Federal se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas, del Estatuto de Gobierno, las de este Código y las de su Reglamento Interior.
 
 ## TITULO SEGUNDO. De su integración
 
 ### Capítulo I. Del nombramiento de los Magistrados Electorales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 224.
 
-El Tribunal Electoral del Distrito Federal funcionará en forma permanente en Tribunal Pleno y se integra por cinco Magistrados numerarios y cuatro supernumerarios. Durante el proceso electoral, para la oportuna resolución de los medios de impugnación, los Magistrados supernumerarios podrán ser llamados por el Presidente del Tribunal para integrar el Pleno, sin que el total de sus integrantes constituya un número par.
+El Tribunal Electoral del Distrito Federal funcionará en forma permanente en Tribunal Pleno y se integra por cinco Magistrados Electorales uno de los cuales fungirá como su Presidente.
 
-Los Magistrados del Tribunal Electoral del Distrito Federal serán nombrados por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa del Distrito Federal, a propuesta del Tribunal Superior de Justicia del Distrito Federal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+El Magistrado Presidente y los Magistrados Electorales del Tribunal Electoral del Distrito Federal serán nombrados por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa del Distrito Federal, a propuesta del Tribunal Superior de Justicia del Distrito Federal. Conforme al mismo procedimiento, se designarán tres magistrados suplentes en orden de prelación quienes únicamente percibirán remuneración durante el tiempo que ejerzan las funciones de Magistrado propietario.
 
 La elección de los Magistrados del Tribunal Electoral del Distrito Federal se realizará conforme a las bases siguientes:
 
-a) La Asamblea Legislativa del Distrito Federal solicitará y recibirá las propuestas del Tribunal Superior de Justicia del Distrito Federal, en una lista de por lo menos dos candidatos para cada uno de los cargos de Magistrados a designar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
 
-b) De entre esos candidatos, la Asamblea Legislativa del Distrito Federal elegirá a los Magistrados numerarios por el voto de las dos terceras partes de sus miembros presentes;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) Para cubrir las ausencias temporales o definitivas de los Magistrados, serán electos cuatro Magistrados supernumerarios de la lista adicional que para ese efecto presente el Tribunal Superior de Justicia del Distrito Federal, en este caso se aplicará lo dispuesto en los incisos anteriores;
+a) La Asamblea Legislativa del Distrito Federal solicitará y recibirá las propuestas del Tribunal Superior de Justicia del Distrito Federal, en una lista de por lo menos dos candidatos para cada uno de los cargos de Magistrados Electorales a designar;
 
-d) Las ausencias definitivas de los Magistrados serán cubiertas en el orden que señale la Asamblea Legislativa del Distrito Federal al elegir a los Magistrados supernumerarios; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-e) Si alguno o algunos de los candidatos propuestos no alcanzara la votación requerida, el Tribunal Superior de Justicia deberá presentar otra lista con nuevas propuestas para cubrir las vacantes existentes, la cual deberá sujetarse al procedimiento que señala el inciso b) de este artículo.
+b) De entre esos candidatos, la Asamblea Legislativa del Distrito Federal elegirá a los Magistrados Electorales por el voto de las dos terceras partes de sus miembros presentes;
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
 
-Una vez nombrados los Magistrados Electorales, entre ellos mismos designarán a quien fungirá como presidente del Tribunal.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Los Magistrados serán electos para ejercer sus funciones para un período de ocho años, improrrogables.
+c) Si alguno o algunos de los candidatos propuestos no alcanzara la votación requerida, el Tribunal Superior de Justicia deberá presentar otra lista con nuevas propuestas para cubrir las designaciones pendientes, la cual deberá sujetarse a lo dispuesto en las fracciones a) y b) de este artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+d) Los Magistrados Electorales serán electos para ejercer sus funciones para un periodo de ocho años improrrogables y sólo podrán ser privados de sus puestos en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) De producirse una ausencia definitiva, el Presidente llamará al Magistrado Suplente que corresponda según el orden de prelación en que fueron designados por la Asamblea Legislativa del Distrito Federal para que concurra a rendir la protesta de ley ante el Pleno del Tribunal. En el caso de que alguno de los Magistrados Suplentes no acepte el cargo, se llamará al siguiente en el orden de prelación que corresponda.
+
+Una vez que el suplente haya protestado el cargo respectivo, la Asamblea Legislativa en un plazo no mayor a treinta días naturales designará al nuevo suplente; en caso de encontrarse en receso legislativo, la designación se hará en el periodo de sesiones inmediato.
+
+Solamente por causa justificada la Asamblea Legislativa del Distrito Federal podrá autorizar a los Magistrados Electorales Titulares licencia para ausentarse del cargo hasta por 90 días naturales al año; para el caso de que al concluir el término de la licencia concedida no se presentare se reputará como ausencia definitiva. De igual forma la Asamblea Legislativa del Distrito Federal determinará como ausencia definitiva cuando el Magistrado Titular no se presente injustificadamente a 5 sesiones consecutivas del Pleno del Tribunal, o existan elementos para determinar su imposibilidad física o jurídica para el desempeño de sus funciones.
+
+No podrán otorgarse licencias a los Magistrados Electorales durante los procesos electorales o de participación ciudadana, salvo por causa grave a juicio de la Asamblea Legislativa;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO CONSULTAR EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2005.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Si la ausencia definitiva es del Presidente del Tribunal, los Magistrados Electorales nombrarán, de entre ellos mismos, a quien deba sustituirlo provisionalmente, comunicando de inmediato a la Asamblea Legislativa a fin de que designe al Presidente.
 
 ###### Artículo 225.
 
@@ -4390,7 +4798,9 @@ Los candidatos propuestos para Magistrados deberán reunir los requisitos señal
 
 a) Ser mexicano por nacimiento y ciudadano del Distrito Federal en pleno ejercicio de sus derechos políticos y civiles;
 
-b) Estar inscrito en el Registro de Electores del Distrito Federal y contar con credencial para votar con fotografía;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+b) Estar inscrito en el Registro Federal de Electores cuyo domicilio corresponda al Distrito Federal y contar con credencial para votar con fotografía;
 
 c) Haberse distinguido por contar con conocimientos suficientes de derecho electoral;
 
@@ -4400,7 +4810,27 @@ e) No desempeñar ni haber desempeñado el cargo de dirección de un Partido Pol
 
 f) No haber sido registrado como candidato a cargo alguno de elección popular o haberlo ocupado por alguna otra circunstancia en los últimos cinco años anteriores a la designación.
 
-La retribución que reciban los Magistrados del Tribunal Electoral del Distrito Federal será similar a la que perciben los Magistrados del Tribunal Superior de Justicia.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+La retribución que reciban los Magistrados del Tribunal Electoral del Distrito Federal será similar a la que perciben los Magistrados del Tribunal Superior de Justicia, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 225 Bis.
+
+Los Magistrados Electorales se sujetarán de forma particular a las siguientes reglas:
+
+I. Desempeñarán su función con independencia y probidad;
+
+II. Durante el periodo de su encargo, no podrán, en ningún caso, aceptar ni desempeñar empleo, cargo o comisión de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los casos no remunerados en asociaciones docentes, científicas, culturales, de investigación, de beneficencia o periodísticas. Esta disposición deberá ser observada por aquellos Magistrados Electorales que gocen de licencia;
+
+III. Los Magistrados del Tribunal Electoral del Distrito Federal deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Pleno calificará y resolverá de inmediato la excusa, de conformidad con el procedimiento que establezca el Reglamento Interior; y
+
+IV. No se autorizarán licencias que tengan como propósito ocupar y desempeñar algún otro cargo en la Federación, Estados, Municipios, Distrito Federal o particulares;
+
+V. Los Magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+La infracción a lo previsto en el presente artículo, será sancionada con la pérdida del cargo dentro del Tribunal, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
 ### Capítulo II. De las atribuciones del Pleno
 
@@ -4408,55 +4838,109 @@ La retribución que reciban los Magistrados del Tribunal Electoral del Distrito 
 
 Para que el Tribunal Electoral del Distrito Federal pueda sesionar válidamente, se requiere la presencia de por lo menos tres de sus integrantes, o dos terceras partes de los mismos en proceso electoral. Adoptarán sus determinaciones con el voto de la mayoría simple de los Magistrados presentes.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 227.
 
-El Tribunal Electoral del Distrito Federal, tiene a su cargo sustanciar y resolver en forma definitiva e inatacable los medios de impugnación en materia electoral.
+El Tribunal Electoral del Distrito Federal, tiene las atribuciones siguientes:
 
-I.- En los términos de este Código los medios de impugnación, son los siguientes:
+I. Sustanciar y resolver en forma definitiva e inatacable, las controversias sometidas a su competencia, que en los términos del libro Octavo del presente Código, son los siguientes:
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+a) Los juicios relativos a las elecciones de Jefe de Gobierno, Diputados y Jefes Delgacionales (sic);
 
-a) Los medios de impugnación relativos a las elecciones de Jefe de Gobierno, Diputados y Jefes Delegacionales;
+b) Los juicios por actos y resoluciones de las autoridades electorales en los procedimientos de participación ciudadana;
 
-b) Los medios de impugnación por actos o resoluciones que violen los derechos político-electorales de los ciudadanos;
+d) (sic) Los conflictos laborales o los derivados de sanciones administrativas entre el Instituto Electoral del Distrito Federal y sus servidores;
 
-c) Los medios de impugnación por actos y resoluciones de las autoridades electorales en los procedimientos de participación ciudadana;
+e) Los conflictos laborales o los derivados de sanciones administrativas entre el Tribunal Electoral y sus servidores; y
 
-d) Los medios de impugnación por conflictos laborales entre el Instituto Electoral del Distrito Federal y sus servidores; y
+f) Los demás juicios por actos y resoluciones de las autoridades electorales del Distrito Federal, incluyendo aquellos por los que se determinen la imposición de sanciones.
 
-e) Los demás medios de impugnación por actos y resoluciones de las autoridades electorales del Distrito Federal, incluyendo aquellos por los que se determinen la imposición de sanciones.
+II. Además el Tribunal Electoral tendrá las atribuciones siguientes:
 
-II.- Además de las atribuciones a que se refiere el párrafo anterior, tendrá las siguientes:
+a) Elegir, de entre los Magistrados Electorales, al que fungirá como Presidente; y la incorporación de los magistrados Supernumerarios al Pleno;
 
-a) Designar o remover, a propuesta del Presidente del Tribunal, al Secretario General;
+b) Designar o remover, al Secretario General del Tribunal y al Secretario Administrativo, a los titulares y personal de las coordinaciones del Tribunal y al personal administrativo de servicio;
 
-b) Resolver, en los términos del Libro Séptimo de este Código y del Reglamento Interior del Tribunal, las diferencias o conflictos con sus servidores cuando hayan sido suspendidos, removidos o cesados en sus funciones;
+c) Designar al Contralor Interno, de entre la terna que se proponga para tal efecto;
 
-c) Aprobar y, en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente una Comisión de tres Magistrados que a ese efecto se integre, a propuesta del Presidente;
+d) Nombrar a propuesta de los Magistrados Electorales a los Secretarios de Estudio y Cuenta;
 
-d) Calificar y resolver sobre las excusas que presenten los Magistrados;
+e) Aprobar y, en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente una Comisión de tres Magistrados que a ese efecto se integre;
 
-e) Encomendar a los Secretarios de Estudio y Cuenta y actuarios, la realización de diligencias que deban practicarse fuera del Tribunal;
+f) Designar cada cuatro años a los tres magistrados que integrarán la Comisión Instructora para la solución de conflictos laborales entre el Tribunal y sus servidores;
 
-f) Determinar la fecha y hora de sus sesiones públicas;
+g) Designar, en la forma y términos previstos por este Código, a las comisiones de Magistrados que se consideren pertinentes para el adecuado ejercicio de sus funciones;
 
-g) Nombrar a propuesta del Presidente del Tribunal, a los Secretarios de Estudio y Cuenta y, al Secretario General;
+h) Determinar, durante el tiempo que no corresponda a un proceso electoral o un procedimiento de participación ciudadana, el horario de labores, los periodos vacacionales del personal del Tribunal y los días que se considerarán inhábiles;
 
-h) Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese del Secretario General y de los Secretarios de Estudio y Cuenta;
+i) Tramitar las renuncias, cubrir las ausencias y otorgar las licencias de los Magistrados, de conformidad con lo dispuesto por el Estatuto de Gobierno del Distrito Federal;
 
-i) Aprobar el proyecto de presupuesto anual del Tribunal Electoral del Distrito Federal y remitirlo al Jefe de Gobierno para su inclusión en el proyecto de Presupuesto de Egresos del Distrito Federal del año correspondiente;
+j) Imponer los descuentos correspondientes en caso de ausencias injustificadas de los Magistrados a sus labores;
 
-j) Fijar los lineamentos para la selección, capacitación, designación y promoción del personal del Tribunal, tomando en cuenta los principios de imparcialidad, objetividad y profesionalismo;
+k) Proveer lo necesario a fin de cubrir las ausencias temporales o definitivas del Secretario General del Tribunal, en la forma y términos previstos por este Código;
 
-k) Definir los criterios de jurisprudencia conforme a lo establecido en este Código;
+l) Tramitar las renuncias y otorgar, cuando proceda, las licencias de los servidores del Tribunal;
 
-l) Designar al Secretario Administrativo, a los titulares y personal de las coordinaciones del Tribunal y al personal administrativo de servicios;
+m) Emitir la declaración del Jefe de Gobierno electo y notificarla a la Oficialía Mayor de la Asamblea Legislativa del Distrito Federal, de acuerdo con lo dispuesto por el Estatuto de Gobierno del Distrito Federal;
 
-m) Realizar tareas de capacitación, investigación y difusión en materia de Derecho Electoral;
+n) Ordenar, en casos extraordinarios, el diferimiento de la resolución de un asunto listado;
 
-n) Celebrar convenios de colaboración con otros Tribunales, Instituciones y autoridades para su mejor desempeño; y
+ñ) Aprobar los manuales e instructivos para la operación de las áreas de apoyo del Secretario General del Tribunal, así como los de la organización y funcionamiento de la Secretaría Administrativa, la Contraloría Interna y las coordinaciones del Tribunal cuando, en su caso, sean sometidos a su consideración por el Presidente;
 
-ñ) Las demás que sean necesarias para su mejor y correcto funcionamiento.
+o) Calificar y resolver sobre las excusas e impedimentos que presenten los Magistrados;
+
+p) Encomendar a los Secretarios de Estudio y Cuenta y actuarios, la realización de diligencias que deban practicarse fuera del Tribunal;
+
+q) Determinar la fecha y hora de sus sesiones públicas y reuniones privadas;
+
+r) Acordar, cuando proceda, el inicio del procedimiento por responsabilidad administrativa del Secretario General del Tribunal y del Secretario Administrativo. El régimen de responsabilidad del Contralor Interno se regulará en el Reglamento;
+
+s) Aprobar el proyecto de presupuesto anual del Tribunal Electoral del Distrito Federal y remitirlo al Jefe de Gobierno para su inclusión en el proyecto de Presupuesto de Egresos del Distrito Federal del año correspondiente;
+
+t) Vigilar el correcto ejercicio presupuestario y la gestión administrativa del Tribunal;
+
+u) Fijar los lineamientos para la selección, capacitación, designación y promoción del personal del Tribunal, tomando en cuenta los principios de imparcialidad, objetividad y profesionalismo;
+
+v) Emitir el acuerdo relativo a las reglas para la elaboración y publicación de las tesis de jurisprudencia y relevantes;
+
+w) Definir los criterios de jurisprudencia conforme a lo establecido en este Código;
+
+x) Realizar tareas de capacitación, investigación y difusión en materia de Derecho Electoral;
+
+y) Presentar a la Asamblea Legislativa del Distrito Federal propuestas de reforma en materia electoral; y
+
+z) Celebrar convenios de colaboración con otros Tribunales, organismos y autoridades para su mejor desempeño y conducir las relaciones con dichas instituciones, sean nacionales o internacionales, así como realizar todas las acciones que sean necesarias para su mejor y correcto funcionamiento, dictando, en su caso, los acuerdos correspondientes.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 227 Bis.
+
+El Pleno llevará a cabo sesiones públicas para la resolución de los asuntos, salvo cuando determine que la sesión sea privada, en términos de lo establecido en este Código y en el Reglamento interior del Tribunal.
+
+I. Serán públicas las sesiones en que se conozcan los asuntos siguientes:
+
+a) Instalación formal del Tribunal;
+
+b) Elección del Presidente;
+
+c) Resolución de los juicios que se interpongan en los términos de este Código;
+
+d) Resolución de los conflictos o diferencias entre el Instituto Electoral del Distrito Federal y sus servidores o entre el propio Tribunal y de sus servidores, salvo cuando a juicio del Pleno el tema amerite que la sesión sea en privado;
+
+e) Presentación del informe que el Presidente rinda anualmente al Pleno sobre el estado general que guarda el Tribunal;
+
+f) En los demás casos en que, por la naturaleza del asunto, el Pleno así lo considere pertinente.
+
+II. El Pleno también podrá celebrar reuniones privadas para la atención de los asuntos de su competencia, las cuales deberán verificarse por lo menos una vez a la semana, cuando no tenga lugar un proceso electoral o de participación ciudadana. Las reuniones privadas se sujetarán a la regulación que se establezca en el Reglamento Interior.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 227 Ter.
+
+Las comisiones del Tribunal podrán sesionar con la asistencia de al menos dos de sus integrantes. Sus determinaciones se tomarán por unanimidad o por mayoría de votos, y en todos los casos deberán ser aprobadas por el Pleno para que produzcan sus efectos.
+
+Las comisiones se sujetarán a la regulación que se establezca en este Código y en el Reglamento interior del Tribunal.
 
 ### Capítulo III. De las atribuciones de los Magistrados
 
@@ -4468,15 +4952,25 @@ a) Concurrir, participar y votar, cuando corresponda, en las sesiones públicas 
 
 b) Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
 
-c) Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
 
-d) Exponer en sesión pública, personalmente o por conducto de un Secretario, sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
+c) Llevar a cabo todos los actos y diligencias que sean necesarias para la substanciación de los juicios que les sean turnados, hasta la resolución definitiva;
 
-e) Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
+> <small>(REFORMADA Y REUBICADA, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-f) Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue al expediente;
+d) Formular los proyectos de resolución de los juicios que les sean turnados para tal efecto;
 
-g) Solicitar que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
+> <small>(REFORMADA Y REUBICADA , G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) Exponer en sesión pública, personalmente o por conducto de un Secretario de Estudio y Cuenta, sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+g) Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue al expediente;
 
 h) Realizar los engroses de los fallos aprobados por el Tribunal, cuando sean designados para tales efectos;
 
@@ -4484,7 +4978,33 @@ i) Proponer, el texto y el rubro de la jurisprudencia definida de conformidad co
 
 j) Realizar tareas de docencia e investigación en el Tribunal; y
 
-k) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+k) Proveer sobre las pruebas que se ofrezcan por las partes en los juicios que le sean turnados, e inclusive, presidir las audiencias que sean necesarias para su desahogo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+l) Requerir en casos extraordinarios, cualquier informe o documento que pueda ser tomado en cuenta para la substanciación o resolución de los juicios, siempre que obren en poder del Instituto Electoral del Distrito Federal o de las autoridades federales, del Distrito Federal, estatales o municipales, y ello no sea obstáculo para resolver dentro de los plazos establecidos por este Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+m) Ordenar que se notifiquen los autos que dicten durante la substanciación de un juicio, en forma y términos previstos por este Código y el Reglamento Interior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+n) Solicitar a la Secretaría General del Tribunal o a la Secretaría Administrativa la información y el apoyo necesarios para el correcto ejercicio de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+ñ) Proponer la integración de las comisiones de Magistrados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+o) Proponer candidatos para ocupar la Contraloría Interna del Tribunal; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+p) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
 Los Magistrados del Tribunal Electoral del Distrito Federal deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Tribunal Electoral del Distrito Federal calificará y resolverá de inmediato la excusa.
 
@@ -4492,41 +5012,99 @@ Los Magistrados tendrán obligación de guardar absoluta reserva sobre los asunt
 
 ### Capítulo IV. Del Presidente del Tribunal
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 229.
 
-El Presidente del Tribunal Electoral del Distrito Federal durará en su encargo cuatro años, con posibilidad de reelección en términos de lo dispuesto por el penúltimo párrafo del artículo 224.
+El Presidente del Tribunal Electoral del Distrito Federal durará en su encargo cuatro años, con posibilidad de reelección en términos de lo dispuesto por el artículo 224.
 
-El Presidente del Tribunal Electoral del Distrito Federal tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Para la elección del Presidente del Tribunal, se seguirá el procedimiento que establezca éste Código y el Reglamento Interior.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+El Presidente del Tribunal Electoral del Distrito Federal tendrá además de las que le corresponden como Magistrado Electoral, las siguientes atribuciones:
 
 a) Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del Tribunal;
 
-b) Presidir las sesiones del Pleno, así como dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) Proponer al Pleno el nombramiento del Secretario General y acordar con los demás Magistrados las propuestas de Secretarios de Estudio y Cuenta;
+b) Convocar a los Magistrados integrantes del Pleno a sesiones públicas y a reuniones privadas;
 
-d) Proponer al Pleno el nombramiento del Secretario Administrativo, a los titulares y personal de las coordinaciones del Tribunal, al personal administrativo de servicios;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-e) Vigilar que se cumplan, según corresponda, las determinaciones del Pleno, y de los Secretarios de Estudio y Cuenta;
+c) Presidir las sesiones y reuniones del Pleno, así como dirigir los debates y conservar el orden durante las mismas. En las sesiones públicas, cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
 
-f) Proponer al Pleno el anteproyecto de presupuesto anual del Tribunal Electoral del Distrito Federal y remitirlo al Jefe de Gobierno para su inclusión en el proyecto de Presupuesto de Egresos del Distrito Federal del año correspondiente;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-g) Turnar a los Magistrados, de conformidad con lo dispuesto en el Reglamento Interior del Tribunal, los expedientes para que formulen los proyectos de resolución;
+d) Proponer al Pleno el nombramiento del Secretario General del Tribunal y acordar con los demás Magistrados las propuestas de Secretarios de Estudio y Cuenta;
 
-h) Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral del Distrito Federal o de las autoridades federales, estatales de los órganos de Gobierno del Distrito Federal, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+e) Proponer al Pleno el nombramiento del titular de la Secretaria Administrativa, a los titulares y personal de las coordinaciones del Tribunal y al personal administrativo de servicios;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+f) Vigilar que se cumplan, según corresponda, las determinaciones del Pleno y de los Magistrados;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+g) Proponer al Pleno el anteproyecto de presupuesto anual del Tribunal Electoral del Distrito Federal y, una vez aprobado, remitirlo al Jefe de Gobierno para su inclusión en el proyecto de Presupuesto de Egresos del Distrito Federal del año correspondiente;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+h) Turnar a los Magistrados, de conformidad con lo dispuesto en el Reglamento Interior del Tribunal, los juicios para que formulen los proyectos de resolución;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 i) Ordenar, en casos extraordinarios, que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
 
-j) Rendir ante el Pleno, un informe al término de cada proceso electoral, dando cuenta de la marcha del Tribunal, de los principales criterios adoptados en sus resoluciones y ordenar su publicación;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-k) Tomar las medidas necesarias para la instalación y funcionamiento de un Centro de Capacitación Judicial Electoral;
+j) Requerir de manera fundada y motivada cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral del Distrito Federal o de las autoridades federales, estatales, de los órganos de Gobierno del Distrito Federal, pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en el Libro Octavo del presente Código;
 
-l) Acordar con el Secretario Administrativo, con el coordinador de capacitación y del Centro de Documentación y con el coordinador de comunicación social, los asuntos de su competencia;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-m) Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
+k) Rendir ante el Pleno, un informe al término de cada proceso electoral, dando cuenta de la marcha del Tribunal, de los principales criterios adoptados en sus resoluciones y ordenar su publicación;
 
-n) Las demás que sean necesarias para el correcto funcionamiento del Tribunal;
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+l) Tomar las medidas necesarias para la instalación y funcionamiento de un Centro de Capacitación Judicial Electoral;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+m) Vigilar el adecuado funcionamiento de las coordinaciones;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+n) Ordenar la publicación de los criterios jurisprudenciales y relevantes del Pleno, dentro de los seis meses posteriores a la conclusión de los procesos electorales o de participación ciudadana; y llevar a cabo todas las tareas que sean necesarias para la adecuada distribución y difusión de las tesis de jurisprudencia y relevantes que se hubieran emitido;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+ñ) Acordar con el Secretario Administrativo y los titulares de las coordinaciones y centro, los asuntos de su competencia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+o) Vigilar que se cumplan las disposiciones de este Código y del Reglamento Interior del Tribunal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+p) Informar al Pleno sobre el cumplimiento de las sentencias del Tribunal, a fin de que se determine lo procedente;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+q) Llevar la correspondencia del Tribunal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+r) Dictar y ejecutar las medidas necesarias para el despacho pronto y expedito de los asuntos propios del Tribunal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+s) Rendir anualmente ante el Pleno, un informe de actividades donde se exponga el estado general del Tribunal; y
+
+t) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
 ### Capítulo V. Del Secretario General del Tribunal
 
@@ -4566,25 +5144,135 @@ El Secretario General deberá contar con título profesional expedido con una an
 
 El Secretario General tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
-### Capítulo VI. Del Secretario Administrativo y de las Coordinaciones del Tribunal
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo VI. De la Secretaría Administrativa y de sus Áreas de Apoyo
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 232.
 
-El Secretario Administrativo dependerá directamente del Presidente del Tribunal Electoral del Distrito Federal y tendrá a su cargo la atención de todo lo relativo a los recursos humanos, financieros y materiales del Tribunal. Percibirá la remuneración fijada en el Presupuesto de Egresos del Distrito Federal.
+El Secretario Administrativo dependerá directamente del Presidente del Tribunal y tendrá las atribuciones siguientes:
 
-### Capítulo VII. Del Centro de Capacitación Judicial Electoral
+I. Ejercer las partidas presupuestales aprobadas, aplicando las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, así como de la prestación de los servicios generales en el Tribunal;
 
-### Capítulo VIII. Del personal auxiliar y administrativo
+II. Integrar el anteproyecto del Programa Operativo Anual y con base en él formular el anteproyecto de presupuesto del Tribunal conforme a la normatividad aplicable y presentarlo al Presidente del Tribunal;
 
-### Capítulo I. Disposiciones Preliminares
+III. Proponer al Pleno del Tribunal por conducto de su Presidente modificaciones a la estructura orgánica del Tribunal;
+
+IV. Proponer al Pleno del Tribunal, por conducto de su Presidente, los proyectos de procedimientos administrativos para el buen funcionamiento del Tribunal;
+
+V. Proponer al Pleno del Tribunal, por conducto de su Presidente, los proyectos de tabuladores y las remuneraciones aplicables al personal del Tribunal;
+
+VI. Proponer al Pleno del Tribunal, por conducto de su Presidente, el proyecto de manual de organización y funcionamiento, así como el catálogo de cargos y puestos del Tribunal;
+
+VII. Establecer y operar los sistemas administrativos y contables para el ejercicio y control presupuestales;
+
+VIII. Presentar al Pleno del Tribunal, por conducto de su Presidente, el avance programático presupuestal y del ejercicio del gasto del Tribunal;
+
+IX. Expedir los nombramientos del personal del Tribunal, de conformidad con las disposiciones aplicables;
+
+X. Proveer lo necesario para que se publiquen los acuerdos y resoluciones del Pleno del Tribunal;
+
+XI. Informar al Pleno, en forma trimestral, de las actividades realizadas por las coordinaciones del Tribunal; y
+
+XII. Las demás que le confiera el Código.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo VII. De la Contraloría Interna
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 232 Bis.
+
+El Tribunal contará con una Contraloría Interna, la cual gozará de autonomía para el ejercicio de sus funciones y será el órgano encargado de fiscalizar el manejo, custodia y aplicación de los recursos de esta autoridad, así como para instruir los procedimientos y, en su caso, aplicar las sanciones establecidas en la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+El Pleno del Tribunal determinará en su Reglamento Interno el nombramiento y los requisitos que deberá cubrir quien ocupe este cargo.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 232 Ter.
+
+La Contraloría Interna tendrá las atribuciones siguientes:
+
+a) Vigilar el cumplimiento de las normas de control establecidas por el Pleno;
+
+b) Comprobar el cumplimiento, por parte de las áreas administrativas, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+c) Revisar que las operaciones, informes contables y estados financieros, estén basados en los registros contables que lleve el área correspondiente;
+
+d) Supervisar permanentemente el ejercicio del presupuesto de egresos del tribunal;
+
+e) Examinar la asignación y correcta utilización de los recursos financieros, humanos y materiales,
+
+f) Revisar el cumplimiento de objetivos y metas fijados en los programas presupuéstales a cargo del Tribunal, con el propósito de recomendar las medidas pertinentes;
+
+g) Informar al Pleno de las deficiencias o desviaciones que detecte con motivo del ejercicio de sus atribuciones para que se determine las medidas legales y administrativas conducentes;
+
+h) Instrumentar los procedimientos relacionados con las responsabilidades administrativas en que incurran los servidores del Tribual;
+
+i) Analizar y evaluar los sistemas de procedimientos y control interno;
+
+j) Realizar auditorias contables y operacionales y de resultados del Tribunal;
+
+k) Revisar que las adquisiciones de bienes y prestación de servicios, obra pública y servicios de obra pública, se ajusten a los procedimientos normativos y los montos autorizados;
+
+l) Elaborar el instructivo para la creación y manejo de fondos revolventes;
+
+m) Instrumentar los procedimientos administrativos necesarios para que los servidores del Tribunal presenten ante él, sus declaraciones inicial, anual y de conclusión, de situación patrimonial y llevar el registro y seguimiento respectivo;
+
+n) Proponer al Pleno la estructura administrativa de su área; y
+
+ñ) Las demás que le confieren las disposiciones aplicables y las que le encomiende el Pleno.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo VIII. De la Comisión de Administración
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 232 Quater.
+
+La Comisión de Administración es el órgano permanente del Tribunal que tiene a su cargo coadyuvar en la vigilancia del correcto ejercicio presupuestario y de la gestión administrativa, así como la instrumentación y desarrollo de la carrera judicial electoral.
+
+La Comisión de Administración estará integrada por el Presidente del Tribunal, quien será el encargado de Coordinarla, así como por dos Magistrados Electorales electos por la mayoría de los integrantes del Pleno. Los Magistrados Electorales que integran la Comisión durarán en su gestión un año.
+
+La Secretaría Administrativa y la Contraloría Interna participarán en los trabajos de la Comisión con voz, pero sin voto.
+
+Su organización, atribuciones y funcionamiento, se normará en el Reglamento Interior.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo IX. De las Coordinaciones
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 233.
 
-Las Coordinaciones del Tribunal Electoral del Distrito Federal tendrán a su cargo las tareas de capacitación, investigación, documentación y difusión, así como de comunicación social.
+Al frente de cada una de las Coordinaciones del Tribunal, habrá un coordinador, quien será nombrado por el Presidente del Tribunal. Para ser coordinador deberán cumplirse los requisitos que este Código señala para ser Secretario Administrativo, además de tener título profesional y formación en disciplinas vinculadas a las funciones del cargo y contar con experiencia, al menos de tres años en áreas afines.
 
-Sus titulares dependerán directamente del Presidente del Tribunal Electoral del Distrito Federal y percibirán la remuneración prevista en el Presupuesto de Egresos del Distrito Federal.
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-### Capítulo II. Disposiciones generales
+###### Artículo 233 Bis.
+
+Corresponde al Magistrado Presidente la dirección, coordinación y supervisión de las actividades de las coordinaciones del Tribunal, e informar de sus actividades al pleno del Tribunal.
+
+Las coordinaciones tendrán a su cargo las tareas de capacitación, investigación, documentación, difusión y comunicación social del Tribunal Electoral del Distrito Federal.
+
+Las funciones de las coordinaciones estarán determinadas en el Reglamento Interior del Tribunal Electoral del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 233 Ter.
+
+El Secretario General del Tribunal, el Secretario Administrativo, los Secretarios de Estudio y Cuenta, y los titulares de las coordinaciones y demás personal del Tribunal, tendrán la obligación de guardar absoluta reserva sobre los asuntos del Tribunal. Percibirán la remuneración que para cada uno de ellos se prevea en el presupuesto del Tribunal.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capitulo X. Del Centro de Capacitación Judicial Electoral
+
+(REUBICADO, G.O. 19 DE OCTUBRE DE 2005)
 
 ###### Artículo 234.
 
@@ -4592,21 +5280,63 @@ El Centro de Capacitación Judicial Electoral tendrá a su cargo la impartición
 
 Los Magistrados, Secretarios de Estudio y Cuenta, coordinadores y demás personal jurídico deberán participar en las actividades del Centro de Capacitación Judicial Electoral, sin demérito de sus funciones.
 
-### Capítulo III. De la competencia
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo XI. Del personal auxiliar y administrativo
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 235.
 
-Los Secretarios de Estudio y Cuenta y Actuarios tendrán las atribuciones que les señale el Reglamento Interior del Tribunal Electoral del Distrito Federal y percibirán la remuneración prevista en el Presupuesto de Egresos del Distrito Federal.
+Los Secretarios de Estudio y Cuenta y Actuarios tendrán las atribuciones que les señalen este Código y el Reglamento Interior del Tribunal Electoral del Distrito Federal y percibirán la remuneración prevista en el presupuesto de Egresos del Distrito Federal.
 
 Los actuarios deberán ser ciudadanos del Distrito Federal en pleno ejercicio de sus derechos, gozar de buena reputación y tener, por lo menos, el documento que los acredite como pasantes de la carrera de Derecho.
 
-Los secretarios de Estudio y Cuenta deberán ser ciudadanos del Distrito Federal en pleno ejercicio de sus derechos, gozar de buena reputación y contar con título profesional expedido por lo menos con dos años de antigüedad al día de la designación.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Los Secretarios de Estudio y Cuenta deberán ser ciudadanos del Distrito Federal en pleno ejercicio de sus derechos, gozar de buena reputación y contra (sic) con título profesional expedido por lo menos con tres años de antigüedad al día de la designación.
 
 Los Secretarios de Estudio y Cuenta y demás personal auxiliar del Tribunal Electoral del Distrito Federal se conducirán con imparcialidad y velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones.
 
 Los Secretarios, los actuarios, el personal jurídico y el administrativo, tendrán la obligación de guardar absoluta reserva sobre los asuntos del Tribunal. No deberán haber sido postulados para algún cargo de elección popular u ocupado cargo de dirección de algún Partido Político durante los tres años anteriores a su ingreso al Tribunal.
 
-Todos los servidores del Tribunal Electoral del Distrito Federal serán considerados de confianza. El Pleno del Tribunal establecerá los lineamientos para que con anterioridad a la suspensión, remoción o cese de alguno de ellos, se le oiga en su defensa. Decretada la sanción, el servidor involucrado podrá inconformarse ante el Pleno del Tribunal Electoral del Distrito Federal en los términos del Libro Siete de este Código.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Todos los servidores del Tribunal Electoral del Distrito Federal serán considerados de confianza y quedarán sujetos al régimen establecido en la fracción XIV del Apartado B del artículo 123 de la Constitución, así como a las disposiciones particulares del Reglamento Interior. En caso de instaurarse un procedimiento por responsabilidad administrativa, el servidor será oído en su defensa con anterioridad a la imposición de la sanción que corresponda, decretada ésta, el servidor podrá inconformarse.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Los nombramientos que se hagan para servidores públicos del Tribunal, no podrán recaer en ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado por consanguinidad y segundo por afinidad del servidor público que haga la designación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Los servidores públicos del Tribunal, no podrán ser Corredores, Comisionistas, Apoderados judiciales, Tutores, Curadores, Albaceas, Depositarios, Síndicos, Administradores, Interventores, Árbitros, Peritos, ni ejercer la abogacía, sino en causa propia.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 235 Bis.
+
+Los Secretarios de Estudio y Cuenta tendrán las atribuciones siguientes:
+
+I. Apoyar en la revisión de los requisitos y presupuestos legales de los medios de impugnación, para su procedencia;
+
+II. Proponer al Magistrado Ponente los acuerdos necesarios para la substanciación de los medios de impugnación;
+
+III. Formular los anteproyectos de acuerdos y sentencias, conforme a los lineamientos establecidos por el Magistrado Electoral;
+
+IV. Dar cuenta, en la sesión pública que corresponda de los proyectos de sentencia turnados, señalando los argumentos y consideraciones jurídicas que sustenten el sentido de las sentencias;
+
+V. Auxiliar en el engrose de las sentencias correspondientes;
+
+VI. Dar fe de las actuaciones del Magistrado Electoral, respecto de la substanciación de los medios de impugnación;
+
+VII. Participar en las reuniones a las que sea (sic) convocados por el Presidente del Tribunal;
+
+VIII. Participar en las actividades relacionadas con la capacitación, investigación y difusión académica en materia electoral; y
+
+IX. Las demás que les confiera el Código y el Reglamento Interior del Tribunal.
+
+(REUBICADO, G.O. 19 DE OCTUBRE DE 2005)
 
 ###### Artículo 236.
 
@@ -4614,517 +5344,1551 @@ Las diligencias que deban practicarse fuera del Tribunal Electoral del Distrito 
 
 También podrán desahogarse diligencias con el apoyo de los juzgados federales o locales.
 
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 237.
 
-Los Magistrados, los Secretarios de Estudio y Cuenta y demás servidores del Tribunal Electoral del Distrito Federal, estarán sujetos al Régimen de Responsabilidades, en los términos de la Ley de la Materia. La remoción de los Magistrados Electorales se determinará por el voto de las dos terceras partes de los integrantes de la Asamblea Legislativa del Distrito Federal, de acuerdo a las causas que señale la Ley.
+Todos los servidores del Tribunal Electoral del Distrito Federal, estarán sujetos al Régimen de Responsabilidades, en los términos de la ley de la materia. La remoción de los Magistrados Electorales se determinará por el voto de las dos terceras partes de los integrantes de la Asamblea Legislativa del Distrito Federal, de acuerdo a las causas que señalen la Ley y este código.
 
-# LIBRO OCTAVO. Del sistema de medios de impugnación
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-## TITULO PRIMERO. Del sistema de medios de impugnación
+# LIBRO OCTAVO. Del los medios de impugnación
 
-### Capítulo IV. De las partes, la legitimación y de la personería
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TITULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo I. Ámbito de Aplicación
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 238.
 
-Para garantizar la legalidad de los actos y resoluciones de las autoridades electorales del Distrito Federal, en todo momento y durante los procesos electorales para la elección de representantes populares y los procesos de participación ciudadana, los ciudadanos, los Partidos Políticos y las organizaciones o Agrupaciones Políticas contarán con los medios de impugnación que se establecen en el presente Libro.
+Para los efectos de este libro, se entenderá por:
+
+I.- Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
+
+II.- Código Electoral: Código Electoral del Distrito Federal;
+
+III.- Ley de Participación: Ley de Participación Ciudadana del Distrito Federal;
+
+IV.- Instituto: Instituto Electoral del Distrito Federal;
+
+V.- Consejo General: Consejo General del Instituto Electoral del Distrito Federal;
+
+VI.- Tribunal: Tribunal Electoral del Distrito Federal;
+
+VII.- Pleno: Pleno del Tribunal Electoral del Distrito Federal;
+
+VIII.- Reglamento Interior: Reglamento Interior del Tribunal Electoral del Distrito Federal;
+
+IX.- Proceso electoral: el relativo a la renovación periódica por voto universal, libre, secreto y directo del Jefe de Gobierno, Diputados a la Asamblea Legislativa y Jefes Delegacionales del Distrito Federal; y
+
+X.- Procesos de participación ciudadana: los procesos previstos en la Ley de Participación Ciudadana del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 239.
 
-Durante el proceso electoral todos los días y horas son hábiles. Los plazos se computarán de momento a momento; si están señalados por días, éstos se considerarán de 24 horas.
+El sistema de medios de impugnación regulado por este código tiene por objeto garantizar:
 
-Durante el tiempo que transcurra entre los procesos electorales, el cómputo de los plazos se hará contando solamente días hábiles debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles que determinen las leyes.
+I. Que los actos y resoluciones electorales se sujeten al principio de legalidad;
 
-En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados.
+II. La legalidad de los actos, acuerdos o resoluciones del Jefe de Gobierno, de la Asamblea Legislativa, para salvaguardar los resultados vinculatorios del plebiscito, del referéndum o el trámite de la iniciativa popular;
+
+III. La definitividad de los distintos actos y etapas de los procesos electorales y de los procesos de participación ciudadana; y
+
+IV. La salvaguarda, validez y eficacia de los derechos político-electorales de los ciudadanos.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 240.
 
-Las autoridades del Distrito Federal, así como los ciudadanos, asociaciones políticas, candidatos, organizaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, substanciación y resolución de los medios de impugnación a que se refiere el presente Libro, no cumplan las disposiciones de este Código desacaten las resoluciones que dicte el Tribunal Electoral del Distrito Federal, serán sancionados en los términos del presente ordenamiento.
+En ningún caso la interposición de los medios de impugnación previstos en este libro, producirá efectos suspensivos sobre el acto o resolución impugnada.
+
+Sólo se podrá decretar la suspensión del acto o resolución reclamada fuera de los procesos electorales o en los procesos de participación ciudadana, cuando se trate entre otros, de la imposición de sanciones en procedimientos de revisión de las finanzas de las asociaciones políticas o cuando versen sobre el cumplimiento de las obligaciones que tienen a su cargo.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 241.
 
-Podrá ser interpuesto el Recurso de Revisión, en contra de los actos o resoluciones de los órganos distritales del Instituto, en los siguientes términos:
+Para el trámite, sustanciación y resolución de los medios de impugnación previstos en este código, sus normas se aplicarán mediante la interpretación jurídica de las disposiciones de este Código, de la Ley de Participación y demás disposiciones aplicables.
 
-a) Por los ciudadanos cuando hagan valer presuntas violaciones a sus derechos de votar o ser votado en las elecciones populares o de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos o de afiliarse libre e individualmente a las asociaciones políticas;
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-b) Los ciudadanos interpondrán el recurso en términos del inciso anterior, cuando sean incluidos o excluidos indebidamente de la lista nominal, deberá ser interpuesto durante los periodos de exhibición de las listas nominales y hasta cuatro días después; por la falta de expedición de credencial para votar con fotografía dentro de los cuatro días siguientes a que venza el plazo establecido en el artículo 127 de éste Código;
+### Capitulo II. Del Tribunal
 
-En estos supuestos, las autoridades responsables les proporcionarán orientación y pondrán a su disposición los formatos que sean necesarios para la presentación de la demanda respectiva.
-
-c) Los Partidos Políticos o coaliciones por violaciones a las normas electorales o cuando hagan valer presuntas violaciones a sus derechos; y
-
-d) Por los ciudadanos o representantes acreditados en los procesos de participación ciudadana por violaciones a las normas electorales o de participación ciudadana.
-
-### Capítulo V. De las notificaciones
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 242.
 
-Podrá ser interpuesto el recurso de apelación, en los siguientes términos:
+El Tribunal, conforme a las disposiciones de este código, resolverá los asuntos de su competencia con plena jurisdicción.
 
-a) En contra de las resoluciones recaídas a los Recursos de Revisión;
-
-b) En contra de actos o resoluciones del Consejo General del Instituto Electoral del Distrito Federal, que podrá ser interpuesto por los Partidos Políticos;
-
-c) En contra de los cómputos totales y entrega de constancias de mayoría o asignación de las elecciones reguladas por el presente Código, que podrán ser interpuestos exclusivamente por los Partidos Políticos o coaliciones; y
-
-d) En contra de actos y resoluciones del Consejo General del Instituto Electoral del Distrito Federal en los procesos de participación ciudadana por violaciones a las normas electorales o de participación ciudadana, que podrán ser interpuestos por los ciudadanos o representantes acreditados.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 243.
 
-Los servidores del Instituto Electoral del Distrito Federal podrán demandar en los términos señalados en este Código, ante el Tribunal Electoral del Distrito Federal, cuando hayan sido sancionados o destituidos de sus cargos.
+Todos los trámites, audiencias y sesiones derivados de la interposición de los medios de impugnación y de los juicios especiales serán del conocimiento público, salvo que la ley disponga lo contrario o el Tribunal así lo decida por razones de seguridad u orden público.
 
-Los servidores del Tribunal Electoral del Distrito Federal se podrán inconformar en los términos señalados en este Código y de las disposiciones relativas del Reglamento Interior del propio Tribunal, cuando hayan sido sancionados, removidos o cesados de sus cargos.
+En todo caso, el acceso a los expedientes quedará reservado sólo a las partes y a las personas autorizadas para ello. Una vez concluidos en forma definitiva, podrán ser consultados por cualquier persona.
+
+Las autoridades electorales, para el debido cumplimiento de sus funciones, se regirán por los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 244.
 
-El Consejo General del Instituto Electoral del Distrito Federal será competente para resolver los Recursos de Revisión que se interpongan en los términos del presente Código.
+Para el ejercicio de sus atribuciones, el Tribunal podrá requerir el auxilio de los Órganos de Gobierno del Distrito Federal, incluidos los jurisdiccionales, quienes estarán obligados a prestarlo de inmediato en los términos que les sea requerido.
 
-El Tribunal Electoral del Distrito Federal será competente para conocer los recursos de apelación y las demandas de los servidores del Instituto Electoral del Distrito Federal y del propio Tribunal Electoral del Distrito Federal, que se interpongan en los términos previstos por este Código.
+En los casos que lo amerite, también podrá solicitar el auxilio de las autoridades federales.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 245.
 
-Son partes en el procedimiento de los medios de impugnación las siguientes:
+Las autoridades del Distrito Federal, así como los ciudadanos, Asociaciones Políticas, candidatos, y todas aquellas personas físicas o morales, que con motivo del trámite, substanciación y resolución de los medios de impugnación a que se refiere el presente Libro, no cumplan las disposiciones de este código o desacaten las resoluciones que dicte el Tribunal, serán sancionados en términos del presente ordenamiento.
 
-a) El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este Código;
-
-b) La autoridad responsable, que haya realizado el acto o emitido la resolución que se impugna;
-
-c) El tercero interesado, que es el Partido Político, la coalición, el candidato, la Agrupación Política o de ciudadanos, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor; y
-
-d) Los candidatos podrán participar como coadyuvantes del Partido Político que los registró.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 246.
 
+El Tribunal tomará las medidas necesarias para lograr la más pronta, expedita, eficiente y completa impartición de justicia. Para tal efecto, los actos procesales se regirán bajo los principios de economía procesal y concentración de actuaciones.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo III. Medios de Impugnación
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 247.
+
+El sistema de medios de impugnación se integra por:
+
+I. El juicio electoral.
+
+II. El juicio para la protección de los derechos político-electorales de los ciudadanos.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TÍTULO SEGUNDO. Reglas Comunes Aplicables a los Medios de Impugnación
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo I. Prevenciones Generales
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 248.
+
+Las disposiciones de este título rigen para el trámite, sustanciación y resolución de todos los medios de impugnación, con excepción de las reglas particulares señaladas expresamente para cada uno de ellos.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 249.
+
+No podrá suspenderse el procedimiento, salvo cuando para su continuación sea imprescindible la resolución de otro medio de impugnación que se tramite en el propio Tribunal o ante el Tribunal Electoral del Poder Judicial de la Federación o por otra causa análoga calificada por el Pleno del Tribunal.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 250.
+
+Las audiencias y todas las actuaciones que deban realizarse con motivo de la sustanciación de un medio de impugnación, estarán bajo la responsabilidad del magistrado instructor, quien será asistido por cuales quiera de los Secretarios de Estudio y Cuenta que tenga adscritos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo II. De los Términos
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 251.
+
+Durante los procesos electorales y los de participación ciudadana, todos los días y horas son hábiles. Los términos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
+
+Los asuntos generados durante los procesos que no guarden relación con éstos, no se sujetarán a la regla anterior.
+
+Durante el tiempo que transcurra entre los procesos referidos en el primer párrafo del presente artículo, el cómputo de los términos se hará contando solamente los días hábiles debiendo entenderse por tales, todos los días a excepción de los sábados, domingos y los inhábiles que determinen las leyes.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 252.
+
+Los medios de impugnación previstos en este código que guarden relación con los procesos electorales y los de participación ciudadana, deberán presentarse dentro de los cuatro días; en todos los demás casos, los medios de impugnación deberán interponerse dentro de los ocho días.
+
+En ambos supuestos tales términos se contarán a partir del día siguiente del que se tenga conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en este Código, salvo las excepciones previstas en el presente ordenamiento.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo III. De las Partes
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 253.
+
+Son partes en el procedimiento, las siguientes:
+
+I. El actor, que será quien estando legitimado lo presente por sí mismo o en su caso a través de representante, en los términos establecidos en el presente ordenamiento;
+
+II. La autoridad responsable que haya realizado el acto o emitido la resolución que se impugna;
+
+III. El tercero interesado, que es el partido político, la coalición, el candidato, la agrupación política o de ciudadanos, según corresponda, con un interés jurídico en la causa derivado de un derecho incompatible con el que pretende el actor; y
+
+IV. Los candidatos podrán participar como coadyuvantes del partido político que los registró de conformidad con las siguientes reglas:
+
+a) A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga. En caso de que el candidato exprese conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación interpuesto o en el escrito que como tercero interesado haya presentado su partido, el magistrado instructor dará vista en forma inmediata a la autoridad responsable y al partido político o coalición que lo registró, para que éstos contesten en un término no mayor a veinticuatro horas siguientes lo que a su derecho convenga. Contestada o no la vista, el Tribunal analizará en su integridad los conceptos ampliados o modificados;
+
+b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
+
+c) Los escritos deberán ir acompañados del documento con el que se acredite su calidad de candidato;
+
+d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en este código, siempre y cuando estén relacionadas con los hechos invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político, o con los conceptos que hayan ampliado o modificado; y
+
+e) Deberán agregar la firma autógrafa ó la huella digital y firma a ruego o encargo del promovente.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 254.
+
+Dentro de los seis días siguientes, contados a partir de la publicación en los estrados del medio de impugnación, los terceros interesados podrán solicitar copia del mismo y sus anexos, así como comparecer mediante los escritos que consideren pertinentes.
+
+Tratándose del proceso electoral o de los procesos de participación ciudadana, el plazo a que hace referencia el párrafo anterior será de setenta y dos horas, contadas a partir del momento en que sea fijado en los estrados el medio de impugnación.
+
+Los escritos de comparencia deberán:
+
+I. Presentarse ante la autoridad responsable del acto o resolución impugnada;
+
+II. Hacer constar el nombre del tercero interesado;
+
+III. Señalar domicilio para recibir notificaciones;
+
+IV. Acompañar el o los documentos que sean necesarios para acreditar la personería del compareciente, de conformidad con lo previsto en este código;
+
+V. Precisar la razón del interés legítimo en que se funden y las pretensiones concretas del compareciente;
+
+VI. Ofrecer y aportar las pruebas dentro del plazo para su presentación; mencionar en su caso, las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
+
+VII. Hacer constar el nombre, la firma autógrafa o la huella digital y firma a ruego o encargo del compareciente.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 255.
+
+Cuando el escrito de quien comparezca con el carácter de tercero interesado no se presente en el plazo previsto en el artículo anterior o no reúna los requisitos previstos en las fracciones I o VII de dicho artículo, el magistrado instructor propondrá al Pleno tenerlo por no presentado.
+
+Cuando no se satisfagan los requisitos previstos en las fracciones IV ó V del citado artículo, el magistrado instructor requerirá al compareciente para que los cumpla, en un plazo de cuarenta y ocho horas, contados a partir de aquella en que se fije en los estrados el requerimiento correspondiente, bajo apercibimiento de que, de no hacerlo, se propondrá al Pleno tenerlo por no presentado.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo IV. Legitimación y Personería
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 256.
+
 La presentación de los medios de impugnación corresponde a:
 
-I. Los Partidos Políticos a través de sus representantes legítimos, entendiéndose por éstos:
+I. Los Partidos Políticos o las Agrupaciones Políticas a través de sus representantes legítimos, entendiéndose por éstos:
 
-a) Los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnado.
+a) Los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnado;
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
-
-b) Los miembros de los comités estatales, distritales, y de Delegación, o sus equivalentes, según corresponda. En ese caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido; y
+b) Los miembros de los comités estatales, distritales y de Delegación, o sus equivalentes, según corresponda. En estos casos, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido; y
 
 c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
 II. Los ciudadanos y los candidatos por su propio derecho, en forma individual, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
 
-III. Las Agrupaciones Políticas, en lo aplicable de acuerdo a la fracción I de este artículo;
+III. Las organizaciones de ciudadanos solicitantes de registro como agrupación o de observadores electorales; la demanda deberá presentarse por conducto de quien ostente la representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable; y
 
-> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+IV. Los representantes registrados formalmente ante los órganos electorales en los procesos de participación ciudadana.
 
-IV. Las organizaciones de ciudadanos solicitantes de registro como agrupación o de observadores electorales; la demanda deberá presentarse por conducto de quien ostente la representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable; y
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-V. Los representantes registrados formalmente ante los órganos electorales en los procesos de participación ciudadana.
+### Capítulo V. Requisitos de los medios de impugnación
 
-### Capítulo VI. De la improcedencia y del sobreseimiento
-
-###### Artículo 247.
-
-Los medios de impugnación previstos por este Código deberán interponerse dentro de los cuatro días contados a partir del día siguiente en que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
-
-I.- Los escritos de coadyuvantes deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados, de acuerdo a lo siguiente:
-
-a) Manifestarán lo que a su derecho convenga, sin que en ningún caso se puedan tomar en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido;
-
-b) Los escritos deberán ir acompañados del documento con el que se acredite su calidad de candidato;
-
-c) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su Partido Político; y
-
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
-
-d) Deberán llevar la firma autógrafa del promovente.
-
-II.- Dentro de las setenta y dos horas siguientes, contadas a partir del momento en que sea fijado en los estrados el medio de impugnación, los terceros interesados podrán solicitar copia del mismo y sus anexos, así como comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
-
-a) Presentarse ante la autoridad responsable del acto o resolución impugnado;
-
-b) Hacer constar el nombre del tercero interesado;
-
-c) Señalar domicilio para recibir notificaciones;
-
-d) Acompañar el o los documentos que sean necesarios para acreditar la personería del compareciente, de conformidad con lo previsto en este Código;
-
-e) Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente;
-
-f) Ofrecer y aportar las pruebas dentro del plazo para su presentación; mencionar en su caso, las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
-
-g) Hacer constar el nombre y la firma autógrafa del compareciente.
-
-## TITULO SEGUNDO. De las faltas administrativas y de las sanciones
-
-### Capítulo VII. Reglas de procedimiento para los recursos
-
-###### Artículo 248.
-
-Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, de acuerdo a lo dispuesto por este Código.
-
-Los estrados son los lugares destinados en las oficinas de los órganos del Instituto Electoral del Distrito Federal e instalaciones del Tribunal Electoral del Distrito Federal, para que sean colocadas para su notificación, copias del escrito de interposición del recurso y de los autos y resoluciones que le recaigan.
-
-Las partes que actúen en los medios de impugnación señalados por este Código deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de México, de no hacerlo las notificaciones se realizarán por estrados.
-
-###### Artículo 249.
-
-Las notificaciones personales se harán a las partes en el medio de impugnación, a más tardar al día siguiente de que se dio el acto o se dictó la resolución. Las resoluciones a los recursos de apelación relativos a los resultados de la elección de Diputados serán notificados a la Asamblea Legislativa del Distrito Federal.
-
-Se notificarán personalmente las resoluciones que recaigan a los medios de impugnación previstos en este Código.
-
-Las cédulas de notificación personal deberán contener: la descripción del acto o resolución que se notifica, lugar, hora y fecha en que se hace y el nombre de la persona con quien se atiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula, con la cédula de notificación se entregará copia certificada del documento en que conste el acto o resolución que se notifica.
-
-El Partido Político cuyo representante haya estado presente en la sesión del órgano del Instituto Electoral del Distrito Federal que actuó o resolvió se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
-
-No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través de la Gaceta Oficial del Gobierno del Distrito Federal o los diarios o periódicos de circulación en el Distrito Federal, o mediante la fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral del Distrito Federal o en lugares públicos, en los términos de este Código.
-
-###### Artículo 250.
-
-El Tribunal Electoral del Distrito Federal podrá notificar sus resoluciones a cualquier hora, dentro del proceso electoral o de los procedimientos de participación ciudadana.
-
-### Capítulo VIII. De las pruebas
-
-###### Artículo 251.
-
-Los medios de impugnación previstos en este Código serán improcedentes en los siguientes casos:
-
-a) Cuando se pretenda impugnar actos o resoluciones que no afecten el interés jurídico del actor;
-
-b) Cuando sean presentados fuera de los plazos señalados en este Código;
-
-c) Que el promovente carezca de legitimación en los términos del presente Código;
-
-d) Cuando el acto o resolución se hayan consumado de un modo irreparable, o que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento;
-
-e) Que no se hayan agotado las instancias previas establecidas por este Código;
-
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
-
-f) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo en la elección de Diputados por ambos principios; y
-
-g) Cuando los agravios manifiestamente no tengan relación directa con el acto o resolución que se pretende combatir, o por falta de hechos o los que se expongan no pueda deducirse agravio alguno.
-
-###### Artículo 252.
-
-Procede el sobreseimiento cuando:
-
-a) El promovente se desista expresamente por escrito;
-
-b) La autoridad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia;
-
-c) Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos del presente Código; y
-
-d) El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político-electorales.
-
-Cuando se actualice alguno de los supuestos a que se refiere el párrafo anterior se estará, según corresponda, a lo siguiente:
-
-a) En los casos de competencia del Tribunal, el Magistrado Electoral propondrá el sobreseimiento al Pleno; y
-
-b) En los asuntos de competencia del Instituto Electoral del Distrito Federal, el Secretario Ejecutivo propondrá el sobreseimiento al Consejo General.
-
-### Capítulo IX. De las resoluciones
-
-###### Artículo 253.
-
-Para la interposición de los recursos se cumplirá con los requisitos siguientes:
-
-I.- Deberán presentarse por escrito y se sujetará (sic) las siguientes reglas:
-
-a) Deberán presentarse ante la autoridad electoral que realizó el acto o dictó la resolución. El órgano electoral que reciba un medio de impugnación que no sea de su competencia lo señalará de inmediato al recurrente o en su defecto lo remitirá de inmediato a la autoridad competente;
-
-b) Se hará constar el nombre del actor y domicilio para recibir notificaciones;
-
-c) En caso de que el promovente no tenga acreditada la personalidad ante la autoridad electoral ante el que actúa, acompañará los documentos con los que la acredita, se entenderá por promovente a quien comparezca con carácter de representante legítimo;
-
-d) Mencionar de manera expresa el acto o resolución impugnados y la autoridad electoral que sea responsable;
-
-e) Mencionar de manera expresa y clara los agravios que cause el acto o resolución impugnado, los preceptos presuntamente violados y los hechos en que se basa la impugnación;
-
-f) Ofrecer las pruebas que junto con el escrito se aporten, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente no le fueron entregadas; y
-
-g) Hacer constar el nombre y la firma autógrafa del promovente.
-
-II.- En el caso de recurso de apelación por el cual se impugnen los resultados de los cómputos totales y expedición de constancias de mayoría o asignación además de los requisitos señalados en el párrafo anterior, deberán cumplirse los siguientes:
-
-a) La elección que se impugna. No se podrá impugnar más de una elección con un mismo recurso;
-
-b) La mención individualizada de las casillas cuya votación se solicite que se anule en cada caso y la causal que se invoca para cada una de ellas o para la elección; y
-
-c) La relación, en su caso, que guarde el recurso con otras impugnaciones.
-
-###### Artículo 254.
-
-En los recursos de Revisión y de apelación, cuando se omita alguno de los requisitos señalados en los incisos c) y d) del artículo anterior, el Secretario Ejecutivo del Consejo General del Instituto Electoral del Distrito Federal o el Magistrado Electoral del Tribunal competente para resolver, requerirá por estrados al promovente para que lo cumpla en un plazo de cuarenta y ocho horas contadas a partir de la en que se fije en los estrados el requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
-
-Cuando no se ofrezcan pruebas, se aplicará la regla del inciso anterior, salvo cuando no habiéndose ofrecido ni aportado prueba alguna, se esté en el caso de que el recurso verse sobre puntos de derecho.
-
-Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, el órgano del Instituto Electoral del Distrito Federal o el Tribunal Electoral del Distrito Federal, podrá resolver el recurso tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto.
-
-Cuando exista deficiencia en la argumentación de los agravios pero éstos puedan ser deducido (sic) claramente de los hechos expuestos en el recurso, el Tribunal Electoral del Distrito Federal no lo desechará y resolverá con los elementos que obren en el expediente.
-
-###### Artículo 255.
-
-El órgano del Instituto Electoral del Distrito Federal que reciba un Recurso de Revisión o de apelación lo hará de inmediato del conocimiento público mediante cédula que fijará en los estrados. Una vez cumplido el plazo señalado en el artículo 247, el órgano del Instituto que reciba un Recurso de Revisión deberá hacer llegar al Consejo General, y éste, cuando reciba un recurso de apelación deberá hacer llegar al Tribunal Electoral del Distrito Federal, dentro de las cuarenta y ocho horas siguientes:
-
-a) El escrito mediante el cual se interpone;
-
-b) La copia del documento en que conste el acto o resolución impugnados o, si es el caso, copias certificadas de las actas correspondientes del expediente relativo al cómputo total de la elección impugnada;
-
-c) Las pruebas aportadas;
-
-d) Los demás escritos de los terceros interesados y de los coadyuvantes;
-
-e) Un informe circunstanciado sobre el acto o resolución impugnado; y
-
-f) Los demás elementos que se estimen necesarios para la resolución.
-
-El informe circunstanciado a que se refiere el inciso e) del párrafo anterior, será rendido por el Secretario Ejecutivo del Consejo General y deberá indicar si el promovente del recurso o del escrito del tercero interesado, tienen reconocida su personería y los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado.
-
-### Capítulo X. De los Procedimientos Especiales
-
-###### Artículo 256.
-
-Recibido un Recurso de Revisión por el Consejo Distrital correspondiente, el Presidente lo turnará al Secretario para que certifique que fue presentado dentro del plazo legal y que cumple con los requisitos para su interposición, procediendo en los términos establecidos por este Código.
-
-Si el recurso debe desecharse por notoriamente improcedente, o en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al Consejo en la primera sesión que celebre después de su recepción. En dicha sesión deberá dictarse la resolución, misma que será engrosada por el Secretario en los términos en que determine el propio Consejo.
-
-Si el órgano del Instituto remitente omitió algún requisito, el Secretario lo hará de inmediato del conocimiento de su Presidente para que éste requiera la complementación de él o los requisitos omitidos, procurando que se resuelva en el término del (sic) cuarenta y ocho horas. En todo caso, deberá resolverse con los elementos con que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
-
-Podrán acumularse los expedientes de aquellos Recursos de Revisión o de apelación en que se impugne simultáneamente por dos o más recurrentes el mismo acto o resolución.
-
-### Capítulo Unico. Disposiciones generales
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 257.
 
-Recibido un recurso de apelación por el Tribunal Electoral del Distrito Federal, se seguirá en lo conducente por el procedimiento señalado en el artículo anterior. El recurso de apelación será substanciado por un Magistrado Electoral quien integrará el expediente, el cual será turnado por el Presidente al Magistrado que corresponda para que presente el proyecto de resolución en la sesión pública.
+Para la presentación de la demanda se cumplirá con los requisitos siguientes:
 
-En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o el vencimiento del plazo. Si de la revisión que realice el Magistrado Electoral encuentra que el recurso encuadra en alguna de las causales de improcedencia, someterá desde luego, a la consideración del Pleno, el acuerdo para su desechamiento de plano.
+I. Deberá formularse por escrito;
 
-Si el recurso reúne todos los requisitos, el Magistrado Electoral dictará el auto de admisión correspondiente, ordenando se fije copia del mismo en los estrados del Tribunal.
+II. Deberá presentarse ante la autoridad electoral u órgano del Partido Político o Coalición que realizó el acto o dictó la resolución. El órgano electoral que reciba un medio de impugnación que no sea de su competencia lo señalará de inmediato al demandante o en su defecto lo remitirá de inmediato al que resulte competente;
 
-El Magistrado Electoral realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de los recursos de apelación, de manera que los ponga en estado de resolución. Cuando a juicio del Tribunal, por la naturaleza de las pruebas recibidas o recabadas, sea indispensable desahogarlas ante las partes, se celebrará una audiencia con o sin la presencia de las partes en la fecha que para tal efecto se señale. El Magistrado Electoral acordará lo conducente; los interesados podrá (sic) comparecer por sí mismos o, a través de representante debidamente autorizado.
+III. Se hará constar el nombre del actor y se señalará domicilio en el Distrito Federal para recibir notificaciones y toda clase de documentos y, en su caso, a quien en su nombre las pueda oír y recibir;
 
-Substanciado el expediente del recurso de apelación por el Magistrado Electoral, formulará el proyecto de resolución y lo someterá a la consideración del Pleno.
+IV. En caso de que el promovente no tenga acreditada la personería ante la autoridad electoral ante la que actúa, acompañará los documentos con los que la acredita; se entenderá por promovente a quien comparezca con carácter de representante legítimo; mencionará de manera expresa el acto o resolución impugnada y la autoridad electoral u órgano del Partido Político o Coalición responsable;
+
+V. Mencionar de manera expresa y clara los preceptos presuntamente violados y los hechos en que se basa la impugnación;
+
+VI. Ofrecer las pruebas junto con su escrito, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
+
+VII. Hacer constar el nombre y la firma autógrafa ó huella digital y firma a ruego o encargo del promovente.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 258.
 
-En la sesión de resolución, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
+Cuando se omita alguno de los requisitos señalados en las fracciones IV y V del artículo anterior, el magistrado instructor, requerirá por estrados al promovente para que lo cumpla en un plazo de cuarenta y ocho horas contadas a partir de la que se fije en los estrados el requerimiento correspondiente, bajo el apercibimiento de que de no hacerlo se tendrá por no interpuesto el juicio.
 
-a) El Magistrado ponente presentará el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
+Cuando no se ofrezcan pruebas, se aplicará la regla del párrafo anterior, salvo cuando no habiéndose ofrecido ni aportado prueba alguna, se esté en el caso de que el juicio verse sobre puntos de derecho.
 
-b) Los Magistrados podrán discutir el proyecto en turno;
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) Cuando el Presidente del Tribunal lo considere suficientemente discutido, lo someterá a votación; y
+### Capítulo VI. De la improcedencia y el Sobreseimiento
 
-d) Los Magistrados podrán presentar voto particular, el cual se agregará al expediente.
-
-En casos extraordinarios el Pleno del Tribunal podrá diferir la resolución de un asunto listado.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 259.
 
-El Presidente del Tribunal Electoral del Distrito Federal tendrá obligación de ordenar que se fijen en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión.
+Los medios de impugnación previstos en este ordenamiento serán improcedentes en los siguientes casos:
 
-El Pleno determinará la hora y días de sus sesiones públicas.
+I. Se pretenda impugnar actos o resoluciones que no afecten el interés jurídico del actor;
+
+II. Se presenten fuera de los plazos señalados en este código;
+
+III. Cuando el promovente carezca de legitimación en los términos del presente ordenamiento;
+
+IV. El acto o resolución se hayan consumado de un modo irreparable, o que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento;
+
+V. No se hayan agotado las instancias previas;
+
+VI. Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo en la elección de Diputados por ambos principios;
+
+VII. Cuando los agravios manifiestamente no tengan relación directa con el acto o resolución que se pretende combatir, por falta de hechos que se expongan no pueda deducirse agravio alguno;
+
+VIII. En los demás casos que se desprendan de los ordenamientos legales aplicables; o
+
+IX. Cuando exista la excepción procesal de la cosa juzgada.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 260.
 
-El Presidente del Tribunal, a petición del Secretario de Estudio y Cuenta, podrá requerir a los diversos órganos del Instituto, o a las autoridades federales, estatales u órganos de Gobierno del Distrito Federal, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+El Magistrado Instructor propondrá el sobreseimiento al Pleno del Tribunal cuando habiendo sido admitido el medio de impugnación:
 
-Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
+I. El promovente se desista expresamente por escrito;
 
-En casos extraordinarios, el Presidente del Tribunal Electoral del Distrito Federal podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+II. El acto o resolución impugnado se modifique o revoque, o por cualquier causa, quede totalmente sin materia el medio de impugnación respectivo;
 
-Para hacer cumplir sus determinaciones, mantener el buen orden y exigir que se le guarde el respeto y la consideración debidos, el Tribunal Electoral del Distrito Federal podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
+III. Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos del presente ordenamiento; y,
 
-a) Apercibimiento;
+IV. El ciudadano agraviado fallezca o sea suspendido o pierda sus derechos político-electorales, antes de que se dicte resolución o sentencia.
 
-b) Amonestación;
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-c) Multa hasta por cien veces el salario mínimo diario general vigente en el Distrito Federal; y
+### Capítulo VII. De las pruebas
 
-d) Auxilio de la fuerza pública.
-
-Los medios de apremio serán aplicados por el Presidente del Tribunal.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 261.
 
-Para la resolución de los medios de impugnación previstos en esta ley, sólo podrán ser ofrecidas y admitidas las pruebas siguientes:
+El que afirma está obligado a probar. También lo está el que niega, cuando la negativa implica la afirmación expresa de un hecho.
 
-a) Documentales públicas;
-
-b) Documentales privadas;
-
-c) Técnicas;
-
-d) Presuncionales legales y humanas;
-
-e) Instrumental de actuaciones;
-
-f) La confesional y la testimonial, cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho;
-
-g) Reconocimientos o inspecciones judiciales que podrán ordenar los órganos competentes para resolver; y
-
-h) Periciales, cuando la violación reclamada lo amerite, los plazos legalmente establecidos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda modificar, revocar o anular el acto o resolución impugnada.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 262.
 
-Para los efectos de este Código, serán documentales públicas:
+Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos.
 
-a) Las actas oficiales de las mesas de casilla, así como las de los diferentes cómputos que consignen resultados electorales. Serán actas oficiales las originales, las copias autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
-
-b) Los documentos originales expedidos por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
-
-c) Los documentos expedidos, dentro del ámbito de sus facultades, por las autoridades federales, de las entidades federativas y municipales; y
-
-d) Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten.
-
-Serán documentales privadas todos los demás documentos o actas que aporten las partes, siempre que resulten pertinentes y relacionados con sus pretensiones.
-
-Se considerarán pruebas técnicas las fotografías, otros medios de reproducción de imágenes y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance del órgano competente para resolver.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 263.
 
-El aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+Sólo podrán ser ofrecidas y admitidas las pruebas siguientes:
 
-Para el ofrecimiento y admisión de la pericial deberán cumplirse además los siguientes requisitos:
+I. Documentales públicas;
 
-a) Ser ofrecida junto con el escrito de impugnación;
+II. Documentales privadas;
 
-b) Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con copia para cada una de las partes;
+III. Técnicas;
 
-c) Especificarse lo que pretenda acreditarse con la misma; y
+IV. Presuncionales legales y humanas;
 
-d) Señalarse el nombre del perito que se proponga y exhibir su acreditación técnica.
+V. Instrumental de actuaciones;
+
+VI. La confesional y la testimonial, cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho;
+
+VII. Reconocimiento o inspección judicial; y
+
+VIII. Periciales, cuando la violación reclamada lo amerite, los plazos legalmente establecidos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda modificar, revocar o anular el acto o resolución impugnada.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 264.
 
-Son objeto de prueba los hechos controvertibles. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos.
+El Tribunal tiene amplias facultades en orden a las pruebas que estime pertinentes para resolver los medios de impugnación sujetos a su conocimiento. El Presidente o el Magistrado instructor, durante la fase de instrucción, podrán requerir a los diversos órganos electorales o a las autoridades federales, estatales o municipales, cualquier informe, documento, acta o paquete de votación que, obrando en su poder, sirva para la justificación de un hecho controvertido. La autoridad requerida deberá proporcionar de inmediato los informes o documentos que se les soliciten y obren en su poder.
 
-El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 265.
 
-Los medios de prueba serán valorados por el órgano competente para resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este capítulo.
+Para los efectos de este ordenamiento, serán documentales públicas:
 
-Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+I. Las actas oficiales de las mesas directivas de casilla, así como las de los diferentes cómputos que consignen resultados electorales. Serán actas oficiales las originales, las copias autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
 
-Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial, los reconocimientos o inspecciones judiciales y las periciales, sólo harán prueba plena cuando a juicio del órgano competente para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
+II. Los documentos originales expedidos por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
 
-En ningún caso se tomarán en cuenta para resolver las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
+III. Los documentos expedidos, dentro del ámbito de sus facultades, por las autoridades federales, de las entidades federativas y municipales y delegacionales; y
+
+IV. Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 266.
 
-Los Recursos de Revisión deberán ser resueltos en sesión pública por mayoría simple de los miembros presentes del Consejo General, salvo el caso señalado en el artículo siguiente. Estos recursos deberán ser resueltos en un plazo no mayor a ocho días contado a partir de que fueron presentados.
+Serán documentales privadas todos los demás documentos o actas no previstas en el artículo anterior y que aporten las partes, siempre que resulten pertinentes y relacionadas con sus pretensiones o defensas.
 
-Los recursos de apelación y de Revisión interpuestos contra actos del Consejo General, serán resueltos por mayoría simple de los integrantes del Tribunal Electoral del Distrito Federal dentro de los diez días siguientes a aquel en que se admitan.
-
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
-
-Los recursos de apelación por los que se impugnen cómputos totales y constancias de mayoría o asignación, deberán ser resueltos a más tardar treinta y cinco días antes de la toma de posesión de Diputados, Jefes Delegacionales o Jefe de Gobierno.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 267.
 
-Todos los Recursos de Revisión y de apelación interpuestos dentro de los cinco días anteriores a la elección, serán enviados al Tribunal Electoral del Distrito Federal, para que sean resueltos junto con los recursos de apelación en contra de cómputos totales con los que guarden relación, cuando no guarden relación serán archivados como asuntos definitivamente concluidos.
+Se considerarán pruebas técnicas las fotografías, otros medios de reproducción de imágenes y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance del Tribunal para resolver.
 
-El recurrente deberá señalar la conexidad de la causa en el recurso de Apelación.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 268.
 
-Toda resolución deberá hacerse constar por escrito, y contendrá:
+El aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
 
-a) La fecha, lugar y autoridad electoral que la dicta;
-
-b) El resumen de los hechos o puntos de derecho controvertidos;
-
-c) El análisis de los agravios señalados;
-
-d) El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas; y en su caso, las ordenadas por el Tribunal Electoral del Distrito Federal;
-
-e) Los fundamentos legales de la resolución;
-
-f) Los puntos resolutivos; y
-
-g) En su caso, el plazo para su cumplimiento.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 269.
 
-Las resoluciones que recaigan a los recursos de Revisión y de apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+Cuando a juicio del magistrado instructor, por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarla ante las partes, se celebrará una audiencia con o sin la presencia de las partes en la fecha que para tal efecto se señale. El magistrado instructor acordará lo conducente; los interesados podrán comparecer por si mismos o, a través de representante debidamente autorizado.
 
-Las resoluciones que recaigan a los recursos de apelación serán definitivas e inatacables.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 270.
 
-Las resoluciones del Tribunal Electoral del Distrito Federal que recaigan a los recursos de apelación con relación a resultados totales y expedición de constancias respectivas podrán tener los siguientes efectos:
+La pericial sólo podrá ser ofrecida y admitida en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados, siempre y cuando su desahogo sea posible en los plazos legalmente establecidos.
 
-a) Confirmar el acto impugnado;
+Para su ofrecimiento y admisión deberán cumplirse además los siguientes requisitos:
 
-b) Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en este Código y modificar, en consecuencia, el acta de cómputo distrital respectiva para la elección de Diputado de mayoría relativa, y en su caso, el cómputo total para la elección respectiva;
+I. Ser ofrecida junto con el escrito de demanda;
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+II. Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con copia para cada una de las partes;
 
-c) Revocar la constancia de mayoría relativa o de asignación de representación proporcional, expedida por los Consejos General, Distritales y los que funjan como Cabecera de Delegación; otorgarla a la fórmula de candidatos o candidato que resulte ganador como resultado de la anulación de la votación emitida en una o varias casillas, en uno, o en su caso, varios distritos; y modificar, en consecuencia, las actas de cómputo distrital, de Delegación o de entidad federativa respectivas; y
+III. Especificarse lo que pretenda acreditarse con la misma; y
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+IV. Señalarse el nombre del perito que se proponga y exhibir su acreditación técnica.
 
-d) Declarar la nulidad de una elección y revocar las constancias expedidas por los Consejos General, Distritales o los que funjan como Cabecera de Delegación, cuando se den los supuestos de nulidad previstos en este Código.
-
-Cuando en la sesión de ejecución, por efecto de la acumulación de las resoluciones de los distintos recursos, se actualicen los supuestos de nulidad de una elección, el Tribunal Electoral del Distrito Federal decretará lo conducente, aun cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 271.
 
-Los criterios fijados por el Tribunal Electoral del Distrito Federal sentarán jurisprudencia cuando se sustenten en el mismo sentido en tres resoluciones.
+Para el desahogo de la prueba pericial, se observarán las disposiciones siguientes:
 
-Los criterios fijados por el Tribunal Electoral del Distrito Federal dejarán de tener carácter obligatorio, siempre que se pronuncie en contrario por el voto de las dos terceras partes de los integrantes del Pleno del Tribunal. En la resolución que modifique un criterio obligatorio se expresarán las razones en que se funde el cambio. El nuevo criterio será obligatorio si se da el supuesto señalado en el párrafo anterior.
+I. Cada parte presentará personalmente a su perito el día de la audiencia, bajo el apercibimiento de que de no hacerlo perderá este derecho;
 
-El Tribunal Electoral del Distrito Federal hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+II. Los peritos protestarán ante el magistrado instructor desempeñar el cargo con arreglo a la ley, asentándose el resultado de esta diligencia en el acta, e inmediatamente rendirán su dictamen con base en el cuestionario aprobado, a menos de que por causa justificada soliciten otra fecha para rendirlo;
+
+III. La prueba se desahogará con el perito o peritos que concurran;
+
+IV. Las partes y el magistrado instructor podrán formular a los peritos las preguntas que juzguen pertinentes;
+
+V. En caso de existir discrepancia sustancial en los dictámenes, el magistrado instructor podrá designar un perito tercero de la lista que emita el Tribunal Superior de Justicia del Distrito Federal;
+
+VI. El perito tercero designado por el magistrado instructor, sólo podrá ser recusado por tener interés personal, por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad a petición de algunas de las partes, dentro de las veinticuatro horas siguientes a la notificación de su nombramiento;
+
+VII. La recusación se resolverá de inmediato por el magistrado instructor y, en su caso se procederá al nombramiento de un nuevo perito; y
+
+VIII. Los honorarios de cada perito deberán ser pagados por la parte que lo proponga, con excepción del tercero, cuyos honorarios serán cubiertos por ambas partes.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 272.
 
-Las diferencias o conflictos entre el Instituto Electoral del Distrito Federal y sus servidores serán resueltas por el Tribunal Electoral del Distrito Federal conforme al siguiente procedimiento:
+Los medios de prueba serán valorados por el Tribunal para resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este capítulo.
 
-I. El servidor del Instituto Electoral del Distrito Federal que hubiese sido destituido de su cargo, sancionado o afectado en sus derechos laborales, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral del Distrito Federal, dentro de los quince días hábiles siguientes al que se le notifique la determinación del Instituto Electoral del Distrito Federal;
+Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-II. Es requisito de procedibilidad en este caso, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca el Estatuto del Servicio Profesional Electoral;
+Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial, los reconocimientos o inspecciones judiciales y las periciales, sólo harán prueba plena cuando a juicio del Tribunal para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
-III. El escrito de demanda por el que se inconforme el servidor, deberá reunir los requisitos siguientes:
+En ningún caso se admitirán las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
 
-a) Señalar nombre completo y domicilio para oír notificaciones;
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-b) Señalar el acto o resolución que se impugna;
+### Capítulo VIII. De las notificaciones
 
-c) Expresar los agravios causados por el acto o resolución que se impugna;
-
-d) Expresar las consideraciones de hecho y de derecho en que se funda la impugnación;
-
-e) Ofrecer las pruebas en el escrito con el que se inconforme y, acompañar las documentales; y
-
-f) Asentar la firma autógrafa del promovente.
-
-IV. Son partes en el procedimiento el servidor afectado por el acto o resolución y el Instituto Electoral del Distrito Federal. El promovente deberá actuar personalmente o por conducto de apoderado y el Instituto Electoral del Distrito Federal lo hará por conducto de sus representantes legales;
-
-V. Presentado el escrito a que se refiere el inciso c) anterior, se correrá traslado en copia certificada al Instituto Electoral del Distrito Federal, dentro de los tres días hábiles siguientes al de su presentación;
-
-VI. El Instituto Electoral del Distrito Federal deberá contestar dentro de los diez días hábiles siguientes al en que se le notifique la presentación del escrito del promovente;
-
-VII. Se celebrará una audiencia de conciliación, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes al en que se reciba la contestación del Instituto Electoral del Distrito Federal;
-
-VIII. El Tribunal Electoral del Distrito Federal determinará libremente la admisión de las pruebas y su desahogo, y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
-
-> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
-
-IX. El Tribunal Electoral del Distrito Federal resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. En este caso, el tribunal Electoral del distrito Federal, podrá sesionar en privado si la índole del conflicto planteado así lo amerita. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
-
-X. Los efectos de la resolución de Tribunal Electoral del Distrito Federal podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnada. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Instituto Electoral del Distrito Federal, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 273.
 
-Las diferencias o conflictos entre el Tribunal Electoral del Distrito Federal y sus servidores se sujetarán al siguiente procedimiento y a lo que disponga el Reglamento lnterior del Tribunal:
+Las notificaciones se podrán hacer personalmente, por estrados, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, por vía fax, o mediante publicación en la Gaceta Oficial del Gobierno del Distrito Federal, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposiciones expresas de este código.
 
-a) El servidor sancionado se podrá inconformar ante el Pleno del Tribunal, por escrito, dentro de los cinco días hábiles siguientes al en que se le notifique la sanción, remoción o cese;
+Las partes que actúen en los medios de impugnación mencionados por este código deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de México; de no hacerlo las notificaciones se realizarán por estrados.
 
-b) Se formará una Comisión instructora, integrada con dos Magistrados y un Magistrado Electoral que serán nombrados cada tres años por el Pleno, la cual realizará todas las diligencias necesarias para poner el asunto en estado de resolución, en un plazo no mayor de quince días hábiles contados a partir del día en que se le turne la documentación correspondiente;
+Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto e instalaciones del Tribunal, para que sean colocadas para su notificación, copias del escrito de interposición de la demanda y de los autos y resoluciones que le recaigan.
 
-c) La Comisión instructora someterá al Pleno el proyecto de resolución en un plazo no mayor a cinco días hábiles contados a partir del día siguiente al que venza el señalado en el inciso anterior; y
-
-d) El Pleno resolverá en la misma sesión en que conozca del proyecto de resolución, salvo que ordene que se realicen diligencias adicionales. La resolución será definitiva e inatacable.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 274.
+
+El Tribunal podrá notificar sus resoluciones a cualquier hora, dentro del proceso electoral o de los procesos de participación ciudadana.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 275.
+
+Las notificaciones personales se harán a las partes en el medio de impugnación, a más tardar al día siguiente de que se dio el acto o se dictó la resolución. Las sentencias que recaigan a los juicios relativos a los resultados de la elección de Diputados serán notificados a la Asamblea Legislativa del Distrito Federal.
+
+Se realizarán personalmente las notificaciones de los autos, acuerdos o sentencias que:
+
+I. Al promovente, la resolución que deseche o tenga por no interpuesto el medio de impugnación;
+
+II. Tengan por no presentado el escrito inicial de un tercero interesado o coadyuvante;
+
+III. A todos los interesados, las resoluciones definitivas que recaigan a los medios de impugnación previstos en este ordenamiento;
+
+IV. Las que señalen fecha para la práctica de una diligencia extraordinaria de inspección judicial, compulsa, cotejo o cualquier otra;
+
+V. Determine el sobreseimiento;
+
+VI. Ordene la reanudación del procedimiento;
+
+VII. Califiquen como procedente la excusa de alguno de los magistrados; y
+
+VIII. En los demás casos en que así lo considere procedente el Pleno, el Presidente del Tribunal o el magistrado correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 276.
+
+Las notificaciones personales podrán hacerse en las oficinas del Tribunal, si el interesado está presente, o en el domicilio que haya señalado para tal efecto, en cuyo caso, se observarán las siguientes reglas:
+
+I. El actuario o notificador autorizado se cerciorará de que es el domicilio señalado por el interesado;
+
+II. Cerciorado de lo anterior, requerirá la presencia del promovente o de la persona o personas autorizadas para oír notificaciones. Si alguna de las personas mencionadas está presente, entenderá con ella la diligencia, previa identificación;
+
+III. En caso de que no se encuentre la persona o personas autorizadas dejará citatorio para que el interesado o persona autorizada espere al notificador dentro de las siguientes ocho horas, en el caso de estar en curso un proceso electoral o de participación ciudadana. Fuera de estos la notificación podrá hacerse al siguiente día hábil, siempre que la persona que reciba el citatorio sea empleado, familiar o funcionario del interesado, mayor de edad y que no muestre signos de incapacidad;
+
+IV. En el citatorio se incluirá el apercibimiento de que en caso de no esperar al notificador en la hora señalada, la notificación que se le deba hacer personal se hará por fijación de la cédula respectiva en el exterior del local del domicilio señalado, sin perjuicio de publicarla en los estrados del Instituto o del Tribunal; y
+
+V. En los casos en que no haya en el domicilio persona alguna con quien pueda entenderse la diligencia y una vez cumplido lo establecido en la fracción I, se fijará un único citatorio para dentro de las siguientes ocho horas, en el caso de estar en curso un proceso electoral o de participación ciudadana. Fuera de éstos, la notificación podrá hacerse al siguiente día hábil, con algún vecino o bien se fijará en la puerta principal del local.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 277.
+
+Las cédulas de notificación personal deberán contener:
+
+I. La descripción del acto o resolución que se notifica;
+
+II. La autoridad que lo dictó;
+
+III. Lugar, hora y fecha en que se hace y el nombre de la persona con quien se atiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula, o en su defecto la circunstancia de haber dejado citatorio que no fue atendido, y se fijará en el exterior del domicilio señalado para oír y recibir notificaciones;
+
+IV. Siempre que la diligencia se entienda con alguna persona, se entregará copia certificada del documento en que conste el acto o resolución que se notifica. En el caso de que proceda fijar la cédula de notificación en el exterior del local, en ésta se asentará la noticia de que la copia del acto o resolución notificada queda a disposición del interesado en el Tribunal.
+
+V. Acreditación del notificador;
+
+VI. La fecha del acuerdo, acto o resolución que se notifica; y
+
+VII. Nombre de la persona a quien se realiza.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 278.
+
+El Partido Político cuyo representante haya estado presente en la sesión del órgano del Instituto que actuó o resolvió se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 279.
+
+No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del (sic) Gaceta Oficial del Gobierno del Distrito Federal o los diarios o periódicos de circulación en el Distrito Federal ordenadas por la autoridad, o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal o en lugares públicos, en los términos de este ordenamiento.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 280.
+
+Las autoridades siempre serán notificadas mediante oficio, en el que deberá exigirse firma de recibido. En caso de que el destinatario o la persona que reciba el oficio se niegue a firmar, el notificador asentará constancia de dicha circunstancia en la copia del oficio.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 281.
+
+Para la notificación por telegrama, éste se elaborará por duplicado, a fin de que la oficina que lo transmita devuelva un ejemplar sellado, el cual se agregará al expediente.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 282.
+
+La notificación por correo se hará en pieza certificada, agregándose al expediente el acuse de recibo postal.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 283.
+
+Cuando la parte actora, coadyuvantes o los terceros interesados, así lo autoricen expresamente, las notificaciones se podrán hacer a través de fax. Surtirán sus efectos a partir de que se tenga constancia de su recepción o de su acuse de recibido. La notificación por vía fax deberá hacerse constar en autos por la Secretaría General del Tribunal o el Secretario de Estudio y Cuenta, según corresponda.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 284.
+
+Las notificaciones por estrados se sujetarán a lo siguiente:
+
+I. Se fijará copia autorizada del auto, acuerdo o sentencia, así como de la cédula de notificación correspondiente, asentando la razón de la diligencia en el expediente respectivo; y
+
+II. Los proveídos de referencia permanecerán en los estrados durante un plazo mínimo de tres días, asentándose la razón de su retiro.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 285.
+
+Las notificaciones en los medios de impugnación previstos en este código, surtirán sus efectos el mismo día en que se practiquen o se tengan hechas por disposición legal, con excepción de las que se hagan por lista, en cuyo caso surtirán sus efectos a las nueve horas del día siguiente al que se publicó la lista.
+
+Las notificaciones que se ordenen en los juicios especiales laborales se realizarán de conformidad a las reglas establecidas en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo IX. De la Sustanciación
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+#### Sección Primera. Trámite ante la Autoridad Responsable
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 286.
+
+La presentación, sustanciación y resolución de todos los Juicios se rigen por las disposiciones previstas en este capítulo, salvo las reglas particulares que en este código se prevean.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 287.
+
+La autoridad electoral que reciba un medio de impugnación, deberá hacer constar la hora y fecha de su recepción y detallar los anexos que se acompañan.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 288.
+
+El órgano del Instituto que reciba un medio de impugnación, en contra del acto emitido o resolución dictada por él, bajo su más estricta responsabilidad y de inmediato deberá:
+
+I. Hacerlo del conocimiento público el mismo día de su presentación mediante cédula que durante en plazo de setenta y dos horas, o seis días, según proceda, se fije en los estrados o por cualquier otro medio que garantice fehacientemente la publicidad del escrito. En la cédula se hará constar con precisión la fecha y hora en que se fija así como la fecha y hora en que concluya el plazo.
+
+II. Por ningún motivo, la autoridad podrá abstenerse de recibir un escrito de medio de impugnación ni calificar sobre su admisión o desechamiento.
+
+III. Una vez cumplido el término señalado en la fracción I del presente artículo, el órgano del Instituto que reciba un escrito de demanda, deberá hacer llegar al Tribunal, dentro de las cuarenta y ocho horas siguientes:
+
+a) El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y la demás documentación que se haya acompañado al mismo;
+
+b) La copia certificada del documento en que conste el acto o resolución impugnada y la demás documentación relacionada y pertinente que obre en su poder, o si es el caso el expediente relativo al cómputo de la elección que se impugne;
+
+c) En su caso los escritos de los terceros interesados y coadyuvantes, las pruebas y la demás documentación que se hayan acompañado a los mismos.
+
+d) Un informe circunstanciado sobre el acto o resolución impugnado; y
+
+e) Cualquier otro documento que se estime necesario para la resolución de asunto.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 289.
+
+El informe circunstanciado que debe rendir la autoridad responsable, por lo menos deberá contener:
+
+I. En su caso, la mención de si el promovente o el compareciente, tienen reconocida su personería;
+
+II. Los motivos, razones y fundamentos jurídicos que consideren pertinentes para sostener la legalidad del acto o resolución impugnada; y,
+
+III. El nombre y firma del funcionario que lo rinde.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 290.
+
+Cuando algún órgano del Instituto reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo señalará al actor y lo remitirá de inmediato a la autoridad responsable para los efectos del artículo 288. En ese caso se tendrá como fecha de interposición del medio de impugnación, el día y hora en que se presentó ante la autoridad responsable y no la asentada en otra diversa.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+#### Sección Segunda. De la Sustanciación ante el Tribunal
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 291.
+
+Recibida la documentación a que se refiere la fracción III del artículo 288 de este código, se estará a lo siguiente:
+
+I. Presentado un medio de impugnación el Presidente del Tribunal turnará de inmediato a los magistrados instructores, los expedientes de los medios de impugnación que hayan sido interpuestos para su sustanciación y la formulación de los proyectos de sentencia que correspondan, atendiendo al orden de entrada de los expedientes y al orden alfabético del primer apellido de los magistrados integrantes del Pleno. El turno podrá modificarse en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, previo acuerdo del Pleno;
+
+II. El magistrado instructor revisará de oficio si el medio de impugnación reúne los requisitos señalados en el artículo 257 del presente ordenamiento;
+
+III. En el caso de que el escrito del coadyuvante no satisfaga el requisito establecido en el artículo 253 fracción IV, inciso c) de este código y no se pueda deducir éste de los elementos que obren en el expediente, se le requerirá, con el apercibimiento de que el escrito no se tomará en cuenta al momento de resolver, si no cumple con tal requisito en un plazo no mayor a cuarenta y ocho horas, contadas a partir de que se le notifique el auto correspondiente;
+
+IV. En los casos que el promovente haya indicado que presentará pruebas dentro del plazo de interposición de la demanda, se reservará la admisión del mismo hasta la presentación de aquéllas o el vencimiento del plazo;
+
+La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso el Tribunal resolverá con los elementos que obren en autos;
+
+V. Si de la revisión que realice el magistrado instructor encuentra que el medio de impugnación incumple con los requisitos esenciales para sustanciar y resolver el asunto, resulte evidentemente frívolo o encuadre en una de las causales de improcedencia o sobreseimiento, someterá la consideración del Pleno, la resolución para su desechamiento;
+
+VI. Si el medio de impugnación reúne todos los requisitos establecidos por este código, o en su caso se desahogaron satisfactoriamente las prevenciones, el magistrado instructor dictará el auto de admisión que corresponda. En el mismo auto ordenará se reciban las pruebas ofrecidas por las partes cuando así proceda y, en su caso, requerirá los documentos e informes y ordenará las diligencias que estime necesarias para resolver. De dicho auto se fijará una copia en los estrados del Tribunal;
+
+VII. En caso de ser necesario el magistrado instructor podrá ordenar la celebración de una audiencia en términos de los artículos 242, 250, 269 y demás correlativos de este código;
+
+VIII. Si la autoridad responsable no envía el informe circunstanciado dentro del plazo señalado en la fracción III del artículo 288 de este código, el medio de impugnación se resolverá con los elementos que obren en autos; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con la presente ley u otras disposiciones aplicables; y
+
+IX. Una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción, el magistrado instructor formulará el proyecto de resolución y lo someterá a la consideración del Pleno.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 292.
+
+Si la autoridad responsable incumple con la obligación prevista en el artículo 290, u omite enviar cualquiera de los documentos a que se refiere el artículo 289, de este código, o en cualquier otro caso de incumplimiento, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
+
+I. El magistrado instructor tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, cualquiera de los medios de apremio, previstos en el presente ordenamiento.
+
+II. En su caso, el magistrado instructor requerirá a las partes la presentación de los documentos necesarios para sustanciar el medio de impugnación de que se trate; y
+
+III. Se dará vista a las autoridades competentes para la iniciación inmediata de los procedimientos de responsabilidad respectivos en contra de las autoridades omisas.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+#### Sección Tercera. De la Acumulación y de la Escisión
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 293.
+
+Para la resolución pronta y expedita de los medios de impugnación previstos en este ordenamiento, el Pleno de oficio, o a instancia del magistrado instructor o de las partes podrá determinar su acumulación, ya sea al recibirlos, o bien, durante la sustanciación o para la resolución de los mismos.
+
+La acumulación se efectuará siguiendo el orden de recepción de los expedientes, acumulándose al primero de ellos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 294.
+
+Procede la acumulación en los siguientes casos:
+
+I. Cuando en un medio de impugnación se controvierta simultáneamente por dos o más actores, el mismo acto o resolución o que un mismo actor impugne dos o más veces un mismo acto o resolución;
+
+II. Cuando se impugnen actos u omisiones de la autoridad responsable cuando aun siendo diversos, se encuentren estrechamente vinculados entre sí, por tener su origen en un mismo procedimiento; y
+
+III. En los demás casos en que existan elementos que así lo justifiquen.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 295.
+
+Cuando se tramiten en un mismo expediente asuntos que por su propia naturaleza deban estudiarse y resolverse por separado, la escisión será acordada por el Pleno de oficio, a instancia del magistrado instructor o por la solicitud de las partes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo X. De las Resoluciones
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 296.
+
+El Tribunal resolverá los asuntos de su competencia en sesión pública y en forma colegiada.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 297.
+
+El Presidente del Tribunal tendrá obligación de ordenar que se fijen en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión.
+
+El Pleno determinará la hora y días de sus sesiones públicas.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 298.
+
+En la sesión de resolución, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
+
+I. El Magistrado ponente presentará, por sí o a través de un Secretario de Estudio y Cuenta, el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
+
+II. Los Magistrados podrán discutir el proyecto en turno;
+
+III. Cuando el Presidente del Tribunal lo considere suficientemente discutido, lo someterá a votación; y
+
+IV. Los Magistrados podrán presentar voto particular, el cual se agregará al expediente.
+
+En casos extraordinarios el Pleno del Tribunal podrá diferir la resolución de un asunto listado.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 299.
+
+Toda resolución deberá hacerse constar por escrito, y contendrá:
+
+I. La fecha, lugar y autoridad electoral que la dicta;
+
+II. El resumen de los hechos o puntos de derecho controvertidos;
+
+III. El análisis de los agravios señalados;
+
+IV. El examen y la valoración de las pruebas ofrecidas, aportadas y admitidas; y en su caso, las ordenadas por el Tribunal;
+
+V. Los fundamentos legales de la resolución;
+
+VI. Los puntos resolutivos; y
+
+VII. En su caso, el plazo para su cumplimiento.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 300.
+
+Al resolver los medios de impugnación establecidos en este código, el Tribunal deberá suplir las deficiencias u omisiones en la argumentación de los agravios cuando los mismos puedan ser deducidos claramente de los hechos expuestos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 301.
+
+En todo caso, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el Tribunal resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 302.
+
+Las resoluciones del Tribunal son definitivas e inatacables en el Distrito Federal y podrán tener los efectos siguientes:
+
+I. Confirmar el acto o resolución impugnada, caso en el cual las cosas se mantendrán en el estado que se encontraban antes de la impugnación.
+
+II. Revocar el acto o resolución impugnada y restituir en lo conducente, al promovente en el uso y goce del derecho que le haya sido violado.
+
+III. Modificar el acto o resolución impugnada y restituir según corresponda al promovente, en el uso y goce del derecho que le haya sido violado.
+
+IV. Reponer el procedimiento del acto o resolución impugnada, siempre que no exista impedimento que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; en cuyo caso deberá resolver plenamente el aspecto que corresponda de acuerdo a las fracciones anteriores.
+
+V. Tener por no interpuestos los juicios o desecharlos por improcedentes.
+
+VI. Sobreseer cuando concurra alguna de las causales previstas por el artículo 260 de este código.
+
+En todo caso, el acto o resolución impugnada o su parte conducente se dejará insubsistente en los términos que establezca el Tribunal en su resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 303.
+
+Las resoluciones o sentencias del Tribunal deberán ser cabal y puntualmente cumplidas por las autoridades y respetadas por las partes.
+
+En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la resolución o sentencia dentro del plazo que fije el Tribunal, apercibida que de no hacerlo así, sin causa justificada, se le impondrán los medios de apremio y correcciones disciplinarias más efectivos y que, además, la actitud de incumplimiento, en su caso, puede dar lugar a las sanciones que correspondan conforme a las disposiciones aplicables.
+
+Se considerará incumplimiento, el retraso por medio de omisiones o procedimientos ilegales por la autoridad responsable, o de cualquiera otra que intervenga en el trámite relativo.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 304.
+
+Si las resoluciones o sentencias del Tribunal no quedan cumplidas por las autoridades responsables en los plazos fijados, aquél hará el pronunciamiento respectivo. Si en vista del informe que rinda la autoridad o de las constancias que integran el expediente, considera que el incumplimiento es excusable, dará un plazo improrrogable de tres días para que cumpla, dando cuenta a su superior jerárquico, si lo tiene, para los efectos legales correspondientes. Si considera que la inobservancia de éstas es inexcusable o hubiere transcurrido el plazo anterior para dar cumplimiento, declarará que la autoridad responsable queda separada de su cargo y se dará parte al Ministerio Público para que se ejerciten las acciones pertinentes.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 305.
+
+Todas las autoridades que tengan o deban tener intervención en el cumplimiento de una resolución o sentencia del Tribunal, estarán obligadas a realizar, dentro del ámbito de su competencia, los actos necesarios para su eficaz cumplimiento y estarán sujetas a las mismas responsabilidades y procedimientos a que aluden los artículos anteriores.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo XII (SIC). De los Medios de Apremio y de las Correcciones Disciplinarias
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 306.
+
+Para hacer cumplir las disposiciones de la presente ley y las resoluciones o acuerdos que se dicten, así como para mantener el orden, el respeto y la consideración debidos e imponer sanciones por incumplimiento, el Tribunal podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
+
+I. Apercibimiento.
+
+II. Amonestación.
+
+III. Arresto administrativo hasta por treinta (sic) seis horas inconmutables.
+
+IV. Multa hasta por cien veces el salario mínimo diario general vigente en el Distrito Federal. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
+
+V. Auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 307.
+
+Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente del Tribunal ó por el magistrado instructor, según corresponda.
+
+Para su determinación se considerarán las circunstancias particulares del caso, las personales del responsable y la gravedad de la conducta.
+
+En caso de la aplicación de lo dispuesto en la fracción III del artículo anterior el Presidente del Tribunal ó el magistrado instructor se auxiliarán del Juez Cívico jurisdiccionalmente competente para dar cumplimiento a dicha sanción.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 308.
+
+Las multas que imponga el Tribunal, tendrán el carácter de crédito fiscal; se pagarán en la Tesorería del Distrito Federal en un plazo improrrogable de quince días, los cuales se contarán a partir de la notificación que reciba la persona sancionada, misma que deberá informar del debido cumplimiento, para efectos de mandar archivar el asunto correspondiente.
+
+En caso de que la multa no sea cubierta en términos del párrafo anterior, el Presidente del Tribunal girará oficio a la Tesorería, para que proceda al cobro de la misma a través del procedimiento de ejecución respectivo, solicitando que oportunamente informe sobre el particular.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo XII. De los Impedimentos y de las Excusas
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 309.
+
+Los magistrados deberán abstenerse de conocer intervenir en la sustanciación y resolución de los medios de impugnación en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Tribunal Electoral del Distrito Federal calificará y resolverá de inmediato la excusa.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 310.
+
+Las excusas serán calificadas por el Pleno de acuerdo con el procedimiento siguiente:
+
+I. Se presentarán por escrito ante el Presidente del Tribunal, dentro de las veinticuatro horas contadas a partir de que el Magistrado conozca del impedimento;
+
+II. Recibidas por el Presidente del Tribunal, a la brevedad posible convocará al Pleno y las someterá a su consideración para que resuelva lo conducente;
+
+III. El magistrado que se excuse no podrá integrar el Pleno, debiendo convocar el Presidente del Tribunal al magistrado supernumerario que corresponda, a fin de que integre el Pleno para la calificación de la excusa respectiva;
+
+IV. Si la excusa fuera admitida, el Presidente del Tribunal convocará al Pleno al magistrado supernumerario que corresponda, para darle continuidad al procedimiento y emitir la resolución del asunto que motivó la excusa;
+
+V. Si el asunto hubiera sido turnado para sustanciación y resolución al Magistrado impedido, el Presidente del Tribunal volverá a turnar el expediente al Magistrado que corresponda, de conformidad con las reglas previstas por su Reglamento Interior;
+
+VI. Si la excusa fuera rechazada por el Pleno, éste acordará que el Magistrado de que se trate, no tiene impedimento para intervenir en el asunto correspondiente; y
+
+VII. Cuando la excusa sea admitida por el Pleno, el Secretario General informará sobre la sustitución y la asentará en el acta respectiva.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo XIII. De la Jurisprudencia
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 311.
+
+Los criterios fijados por el Tribunal sentarán jurisprudencia cuando se sustenten en el mismo sentido en tres resoluciones.
+
+Los criterios fijados por el Tribunal dejarán de tener carácter obligatorio, siempre que se pronuncie en contrario por el voto de las dos terceras partes de los integrantes del Pleno del Tribunal. En la resolución que modifique un criterio obligatorio se expresarán las razones en que se funde el cambio. El nuevo criterio será obligatorio si se da el supuesto señalado en el párrafo anterior.
+
+El Tribunal hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales y de los procedimientos de participación ciudadana.
+
+La Jurisprudencia emitida por el Tribunal obligará a las autoridades electorales del Distrito Federal.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TITULO TERCERO. De los Medios de Impugnación en Particular
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo I. Del Juicio Electoral
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 312.
+
+El juicio electoral tiene por objeto garantizar la legalidad de los actos, acuerdos y resoluciones que dicten las autoridades electorales, en los términos señalados en el presente código.
+
+El juicio electoral será aplicable y procederá fuera y durante los procesos electorales o de participación ciudadana ordinarios y extraordinarios, en los términos y formas que establece éste código.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 313.
+
+Podrá ser interpuesto el juicio electoral en los siguientes términos:
+
+I. En contra de actos, resoluciones u omisiones de los órganos, unidades o del Consejo General del Instituto que podrá ser interpuesto por las asociaciones políticas o coaliciones;
+
+II. Por violaciones a las normas electorales y cuando hagan valer presuntas violaciones a sus derechos; podrán ser interpuestos por las asociaciones políticas o coaliciones;
+
+III. En los procesos de participación ciudadana por violaciones a las normas electorales o de participación ciudadana; por los ciudadanos, organizaciones de ciudadanos o sus representantes acreditados y en contra de actos, resoluciones u omisiones de los órganos, unidades o del Consejo General del Instituto que podrán ser interpuestos por los ciudadanos o sus representantes acreditados;
+
+IV. En contra de los cómputos totales y entrega de constancias de mayoría o asignación en las elecciones reguladas por el Código y
+
+V. En los demás casos, que así se desprendan de este Código.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 314.
+
+Cuando el juicio electoral se relacione con los resultados de los cómputos, el plazo para interponer este juicio iniciará al día siguiente a la conclusión de cómputo a la elección de que se trate.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 315.
+
+Además de los requisitos establecidos por el artículo 257 (sic) este código, cuando el juicio electoral tenga como propósito cuestionar los resultados y declaraciones de validez del proceso electoral, el escrito mediante el cual se promueva, deberá cumplir con los siguientes requisitos:
+
+I. Señalar la elección que se impugna, manifestando expresamente si se objetan los resultados del cómputo, la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas.
+
+II. La mención individualizada del acta de cómputo del Consejo Distrital, Consejo Distrital cabecera de demarcación o del Consejo General que se impugna.
+
+III. La mención individualizada de las casillas cuya votación se solicite que sea anulada en cada caso y la causal que se invoque para cada una de ellas.
+
+IV. El señalamiento del error aritmético cuando por este motivo se impugnen los resultados consignados en las actas de cómputo Distrital, delegacional o del Consejo General.
+
+V. La conexidad, en su caso, que guarde con otras impugnaciones.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 316.
+
+No se podrá impugnar más de una elección en un solo escrito, salvo que se trate de las elecciones de diputados por ambos principios y los casos estén vinculados; en cuyo caso el promovente estará obligado a presentar un solo escrito, el cual deberá contener los requisitos establecidos en el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 317.
+
+El juicio electoral que tenga por objeto el señalado en el artículo 314 de este código sólo podrá ser promovido por:
+
+I. Los partidos políticos o coaliciones con interés legítimo.
+
+II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 318.
+
+Las resoluciones del Tribunal que recaigan a los juicios electorales con relación a resultados totales y expedición de constancias respectivas podrán tener los siguientes efectos:
+
+I. Confirmar el acto impugnado;
+
+II. Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en este ordenamiento y modificar, en consecuencia, el acta de cómputo distrital respectiva para la elección de Diputado de mayoría relativa, y en su caso, el cómputo total para la elección respectiva;
+
+III. Revocar la constancia de mayoría relativa o de asignación de representación proporcional, expedida por los Consejos General, Distritales y los que funjan como Cabecera de Delegación; otorgarla a la fórmula de candidatos o candidato que resulte ganador como resultado de la anulación de la votación emitida en una o varias casillas, en uno, o en su caso, varios distritos; y modificar, en consecuencia, las actas de cómputo distrital, de Delegación o de entidad federativa respectivas;
+
+IV. Declarar la nulidad de una elección y revocar las constancias expedidas por los Consejos General, Distritales o los que funjan como Cabecera de Delegación, cuando se den los supuestos de nulidad previstos en este ordenamiento; o
+
+V. Hacer la corrección de los cómputos realizados por los Consejos General, Distritales o de los que funjan como cabecera de Delegación cuando sean impugnados por error aritmético.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 319.
+
+Cuando en la sección de ejecución, por efecto de la acumulación de las resoluciones de los distintos juicios, se actualicen los supuestos de nulidad de una elección, el Tribunal decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 320.
+
+Los juicios electorales por los que se impugnen cómputos totales y constancias de mayoría o asignación, deberán ser resueltos a más tardar treinta y cinco días antes de la toma de posesión de Diputados, Jefes Delegacionales o Jefe de Gobierno.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo II
+
+Del Juicio para la Protección de los Derechos Político-Electorales de los Ciudadanos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 321.
+
+El juicio para la protección de los derechos político-electorales de los ciudadanos en el Distrito Federal, tiene por objeto la protección de los derechos político-electorales, cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones, entre otros, a sus derechos de votar y de ser votado; de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a las asociaciones políticas, siempre y cuando se hubieren reunido los requisitos constitucionales y los que se señalan en las leyes para el ejercicio de esos derechos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 322.
+
+El juicio será promovido por los ciudadanos con interés jurídico en los casos siguientes:
+
+I. Cuando consideren que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulados como candidatos a un cargo de elección popular, por trasgresión a las normas de los estatutos del mismo partido o del convenio de coalición.
+
+II. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales, si también el partido político interpuso el juicio electoral por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal, junto con el juicio promovido por el ciudadano.
+
+III. Cuando habiéndose asociado con otros ciudadanos para tomar parte en forma pacifica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como agrupación política.
+
+IV. Considere que un acto o resolución de la autoridad responsable, es violatorio de cualquiera de sus derechos político-electorales.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 323.
+
+El juicio para la protección de los derechos político-electorales será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 324.
+
+El juicio para la protección de los derechos políticos-electorales de los ciudadanos se presentará, sustanciará y resolverá en los términos que establece el presente código.
+
+En la etapa de cómputos y resultados, el candidato agraviado sólo podrá impugnar a través del Juicio electoral, de conformidad con lo dispuesto en el artículo 317 fracción II de este código.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TÍTULO CUARTO. De los Procedimientos Especiales
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 325.
+
+Los servidores del Instituto y del Tribunal, podrán demandar en los términos señalados en este código y en el Reglamento Interior, cuando se vean afectados en sus derechos laborales o que por cualquier causa sean sancionados laboral o administrativamente.
+
+En los casos de interpretación se estará a la más favorable al servidor. Cuando la demanda del servidor sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con las leyes deriven de la acción intentada, el Tribunal subsanará esta.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 326.
+
+Tratándose de la impugnación de resoluciones emitidas dentro de procedimientos administrativos disciplinarios, quien conocerá de estos asuntos será el Tribunal.
+
+Para el conocimiento y resolución de este tipo de asuntos, se aplicarán las leyes respectivas, en lo que no esté previsto en este código y en el Reglamento Interior, se aplicará la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 327.
+
+En lo que no contravenga al régimen laboral previsto en este ordenamiento para el conocimiento y la resolución de los conflictos o diferencias laborales entre el Instituto o el Tribunal y sus servidores, son aplicables, además de sus ordenamientos internos, las disposiciones de la Ley Federal de los Trabajadores al Servicio de (sic) Estado, y en forma supletoria y en el siguiente orden:
+
+I. La Ley Federal de Trabajo;
+
+II. El Código Federal de Procedimientos Civiles;
+
+III. Las Leyes de orden común;
+
+IV. Los principios generales de derecho; y
+
+V. La equidad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo II. De la Demanda
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 328.
+
+El escrito de demanda por el que se inconforme el servidor, deberá reunir los requisitos siguientes:
+
+I. Señalar nombre completo y domicilio para oír y recibir notificaciones;
+
+II. Señalar el acto o resolución que se impugna;
+
+III. Expresar los agravios causados por el acto o resolución que se impugna;
+
+IV. Expresar las consideraciones de hecho y de derecho en que se funda la impugnación;
+
+V. Ofrecer las pruebas en el escrito con el que se inconforme y, acompañar las documentales; y
+
+VI. Asentar la firma autógrafa del promovente.
+
+Cuando el Tribunal notara alguna irregularidad en el escrito de demanda o que se estuvieren ejercitando acciones contradictorias, al admitir la demanda le señalará al servidor los defectos u omisiones en que haya incurrido y lo apercibirá a que subsane lo anterior, en un plazo de cinco días hábiles.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 329.
+
+Cuando la demanda sea presentada por conducto de apoderado, deberá anexarse el documento que justifique la personería, que podrá consistir en poder notarial o en carta poder simple firmada por el otorgante y dos testigos, señalando sus domicilios sin ratificación de firmas.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Articulo 330.
+
+Si al presentarse una demanda de las mencionadas en este título el servidor omite mencionar los preceptos en que funda su demanda o lo hace de manera incorrecta, el Pleno emitirá su sentencia tomando en consideración los que debieron ser invocados.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo III. De las Pruebas
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 331.
+
+El Tribunal determinará libremente la admisión de las pruebas y su desahogo, y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio.
+
+Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes.
+
+Las pruebas se ofrecerán acompañadas de todos los elementos necesarios para su desahogo.
+
+Las partes sólo podrán ofrecer las pruebas que estimen pertinentes hasta antes de la fecha señalada para la celebración de la audiencia de conciliación, admisión, desahogo de pruebas y alegatos; fuera de ese plazo, sólo se admitirán las que se ofrezcan con el carácter de supervenientes o que tengan por fin probar las tachas que se hagan valer en contra de los testigos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 332.
+
+Son admisibles en estos procedimientos todos los medios de prueba que no sean contrarios a la moral y al derecho y en especial las siguientes:
+
+I. Confesional;
+
+II. Documental;
+
+III. Testimonial;
+
+IV. Pericial;
+
+V. Inspección;
+
+VI. Presuncional;
+
+VII. Instrumental de Actuación y
+
+VIII. Fotografías y en general, aquellos medios aportados por los descubrimientos de la ciencia.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 333.
+
+El Tribunal eximirá de la carga de la prueba al servidor, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos y para tal efecto requerirá al Instituto o tratándose de un servidor del Tribunal al Titular del área responsable que se trate, que exhiba los documentos que de acuerdo con las disposiciones legales debe conservar el Instituto o el área responsable, bajo el apercibimiento que de no presentarlos, se presumirán ciertos los hechos alegados por el servidor. En todo caso corresponderá al Instituto o al área responsable del Tribunal probar su dicho cuando exista controversia sobre:
+
+I. Fecha de ingreso del servidor;
+
+II. Antigüedad del servidor;
+
+III. Faltas de asistencia del servidor;
+
+IV. Causa de la rescisión de la relación laboral;
+
+V. Terminación de la relación o contrato de trabajo, para obra o tiempo determinado;
+
+VI. Constancia de haber dado aviso por escrito al servidor de la fecha y causa de su despido;
+
+VII. El contrato de trabajo;
+
+VIII. Duración de la jornada de trabajo;
+
+IX. Pagos de días de descanso y obligatorios;
+
+X. Disfrute y pago de vacaciones;
+
+XI. Pago de las primas dominical, vacacional y de antigüedad;
+
+XII. Monto y pago de salario; y
+
+XIII. Incorporación a los sistemas de seguridad social.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+#### Sección Primera. De la Confesional
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 334.
+
+Cada parte podrá solicitar se cite a su contraparte para que concurra a absolver posiciones.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 335.
+
+El magistrado instructor ordenará se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que si no concurren el día y hora señalados, se les tendrá por confesos de las posiciones que articulen y que previamente hubieren sido calificadas de legales.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 336.
+
+Para el ofrecimiento de la prueba confesional, se observará lo siguiente:
+
+I. Tratándose de un conflicto entre el Tribunal y sus servidores si es a cargo de un Magistrado o del Secretario General del Tribunal, o de alguno de los Consejeros o del Secretario Ejecutivo del Instituto si el conflicto es con el Instituto, sólo será admitida si versa sobre hechos propios que no hayan sido reconocidos en la contestación correspondiente; su desahogo se hará vía oficio y para ello, el oferente deberá presentar el pliego de posiciones respectivo. Una vez calificadas de legales las posiciones por el magistrado instructor, remitirá el pliego al absolvente, para que en un término de tres días hábiles lo conteste por escrito y;
+
+II. El oferente deberá presentar el pliego de posiciones respectivo antes de la fecha señalada para la audiencia a que se refiere el artículo 343 del presente ordenamiento; en caso de no hacerlo así, se desechará dicha probanza.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 337.
+
+Fuera del caso previsto en la fracción I del artículo anterior, (sic) el desahogo de la prueba confesional se observará lo siguiente:
+
+I. Las posiciones podrán formularse en forma oral o por escrito, que exhiba la parte interesada en el momento de la audiencia;
+
+II. El magistrado instructor calificará las posiciones, desechando de plano las que no se concreten a los hechos controvertidos o sean insidiosas o inútiles;
+
+Son insidiosas, las posiciones que tiendan a ofuscar la inteligencia del que ha de responder, para obtener una confesión contraria a la verdad; son inútiles, aquellas que versan sobre hechos que hayan sido previamente confesados o que no estén en contradicción;
+
+III. El absolvente, bajo protesta de decir verdad, responderá por sí mismo, sin asistencia de persona alguna;
+
+IV. Para contestar y con el fin de auxiliar su memoria, el absolvente podrá consultar notas o apuntes, si ellos son necesarios a juicio del magistrado instructor;
+
+V. Las respuestas deben ser afirmativas o negativas, pudiendo el absolvente agregar las explicaciones que estime convenientes o las que le pida el magistrado instructor; las respuestas también se harán constar textualmente en el acta respectiva; y
+
+VI. Si el absolvente se niega a responder o lo hace con evasivas, el magistrado instructor lo apercibirá en el acto de tenerlo por confeso si persiste en ello.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 338.
+
+Se tendrán por confesión expresa y espontánea de las partes, sin necesidad de ser ofrecida como prueba, las manifestaciones contenidas en las constancias y actuaciones del procedimiento.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+#### Sección II (SIC). De la Testimonial
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 339.
+
+Un solo testigo podrá formar convicción si en el mismo concurren circunstancias que sean garantía de verdad que lo hagan insospechable de falsear los hechos sobre los que declara, siempre que:
+
+I. Haya sido el único que se percató de los hechos; y
+
+II. La declaración no se encuentre en oposición con otras pruebas que obren en autos.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 340.
+
+Si el testigo no habla el idioma castellano, rendirá su declaración por medio de intérprete que será nombrado por el magistrado instructor, ante quien protestará su fiel desempeño. Los honorarios del intérprete serán cubiertos por el oferente de la prueba.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 341.
+
+Para el ofrecimiento de la prueba testimonial se observará lo siguiente:
+
+I. Sólo se podrá ofrecer un máximo de tres testigos por cada hecho controvertido que se pretenda probar;
+
+II. La parte oferente deberá indicar los nombres y domicilios de los testigos, debiendo presentarlos el día que se fije para la audiencia correspondiente, excepto si estuviere impedido para ello, en cuyo caso señalará la causa o motivo que justifique tal impedimento, para que el magistrado instructor, previa calificación del mismo, proceda a citarlos con los apercibimientos correspondientes;
+
+III. Si el testigo radica fuera de la jurisdicción del Tribunal, el oferente deberá al ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá ser interrogado el testigo; de no hacerlo se desechará. Asimismo, deberá exhibir copias del interrogatorio, las que se pondrán a disposición de la otra parte, para que en un plazo de tres días presente su pliego de repreguntas; una vez calificadas de legales por el magistrado instructor las preguntas y repreguntas respectivas, se remitirán los interrogatorios correspondientes mediante exhorto a la autoridad competente en el lugar de residencia del testigo, para que en auxilio del Tribunal proceda a desahogar dicha probanza;
+
+IV. Si el testigo no acude el día y hora señalados, en el caso de que la presentación del mismo estuviera a cargo del oferente, se tendrá por desierta la prueba por lo que a tal testigo se refiere; si hubiere sido citado por el magistrado instructor, se le hará efectivo el apercibimiento respectivo y se señalará nueva fecha para su desahogo. Si el testigo tampoco acudiere a la segunda cita, podrá hacérsele efectivo el medio de apremio correspondiente y se declarará desierta la prueba por lo que hace a éste.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 342.
+
+Para el desahogo de la prueba testimonial se observará lo siguiente:
+
+I. Si hubiere varios testigos, serán examinados en la misma audiencia y por separado, debiéndose proveer lo necesario para que no se comuniquen entre ellos durante el desahogo de la prueba;
+
+II. El testigo deberá identificarse, si no pudiera hacerlo, se tomará su declaración y se le concederán tres días para subsanar su omisión; apercibiéndolo, igual que a la parte oferente de que si no lo hace, su declaración no se tomará en cuenta; además deberá ser protestado para que se conduzca con verdad, advirtiéndole de las penas en que incurren quienes declaran con falsedad, todo lo cual se hará constar en el acta;
+
+III. Se hará constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que trabaja el testigo, y a continuación, se procederá a tomar su declaración, debiendo expresar la razón de su dicho;
+
+IV. La prueba testimonial será desahogada por el magistrado instructor tratándose de conflictos entre el Instituto y sus servidores.
+
+Las partes formularán las preguntas en forma verbal, iniciando por el oferente de la prueba; el magistrado instructor calificará las preguntas, desechando las que no tengan relación directa con el asunto, las que se hayan hecho con anterioridad al mismo testigo, las que lleven implícita la contestación o las que sean insidiosas. En todo momento, el magistrado instructor podrá hacer las preguntas que estime pertinentes;
+
+V. Las preguntas y respuestas se harán constar textualmente en autos; el testigo, antes de firmar el acta correspondiente, podrá solicitar la modificación de la misma, cuando en ella no se hubiere asentado fielmente lo que haya manifestado;
+
+VI. Concluidas las preguntas de las partes, el testigo deberá firmar las hojas en que aparezca su declaración; si no sabe o no puede firmar imprimirá su huella digital; y
+
+VII. Una vez concluido el desahogo de la prueba testimonial, las partes podrán formular las objeciones o tachas que estimen convenientes en la misma audiencia o en un plazo de tres días hábiles, cuando así lo solicite el interesado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo IV. De la Audiencia de Conciliación, Admisión, Desahogo de Pruebas y Alegatos
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 343.
+
+Se celebrará la audiencia de conciliación, admisión, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes al en que se reciba la contestación del Instituto o del Tribunal.
+
+La audiencia a que se refiere el artículo anterior constará de cuatro etapas:
+
+I. De conciliación;
+
+II. De demanda y excepciones;
+
+III. De ofrecimiento y admisión de pruebas; y
+
+IV. De desahogo de pruebas y alegatos
+
+La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes podrán intervenir en el momento en que se presenten, siempre y cuando el magistrado instructor no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 344.
+
+La etapa conciliatoria se desarrollará de la siguiente manera:
+
+I. Las partes comparecerán personalmente;
+
+II. El magistrado instructor intervendrá para la celebración de pláticas entre las partes y exhortará a las mismas para que procuren llegar a un arreglo conciliatorio;
+
+III. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por el Pleno del Tribunal, producirá todos los efectos jurídicos inherentes a una resolución;
+
+IV. Las partes de común acuerdo, podrán solicitar que se suspenda la audiencia con objeto de conciliarse; y el magistrado instructor, por una sola vez, la suspenderá y fijará su reanudación dentro de los ocho días siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de Ley;
+
+V. Si las partes no llegan a un acuerdo, se les tendrá por inconformes, pasando a la etapa de demanda y excepciones; y
+
+VI. De no haber concurrido las partes a la conciliación, se les tendrá por inconformes con todo arreglo y deberán presentarse personalmente a la etapa de demanda y excepciones.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 345.
+
+La etapa de demanda y excepciones, se desarrollará conforme a las normas siguientes:
+
+I. El magistrado instructor hará una exhortación a las partes y si éstas persistieren en su actitud, dará la palabra al actor para la exposición de su demanda;
+
+II. El actor expondrá su demanda, ratificándola o modificándola, precisando los puntos petitorios. Si el promovente, siempre que se trate del trabajador, no cumpliere los requisitos omitidos o no subsanare las irregularidades que se le hayan indicado en el planteamiento de las adiciones a la demanda, el magistrado instructor lo prevendrá para que lo haga en ese momento;
+
+III. Expuesta la demanda por el actor, el demandado procederá en su caso, a dar contestación a la demanda oralmente o por escrito.
+
+En este último caso estará obligado a entregar copia simple al actor de su contestación; si no lo hace, el magistrado instructor la expedirá a costa del demandado;
+
+IV. En su contestación opondrá el demandado sus excepciones y defensas, debiendo de referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios; pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquellos sobre los que no se suscite controversia, y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
+
+V. Las partes podrán por una sola vez, replicar y contrarreplicar brevemente, asentándose en actas sus argumentaciones si lo solicitaren;
+
+VI. Si el demandado reconviene al actor, éste procederá a contestar de inmediato, o bien, a solicitud del mismo, el magistrado instructor acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los cinco días siguientes; y
+
+VII. Al concluir el período de demanda y excepciones, se pasará inmediatamente al de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 346.
+
+La audiencia se llevará a cabo, aún cuando no concurran las partes.
+
+Si el actor no comparece al período de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
+
+Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 347.
+
+La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
+
+I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel a su vez podrá objetar las del demandado;
+
+II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los 10 días siguientes a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos;
+
+III. Las partes deberán ofrecer sus pruebas, observando las disposiciones del presente ordenamiento y las prevenciones respectivas del presente Título; y
+
+IV. Concluido el ofrecimiento, el magistrado instructor resolverá inmediatamente sobre las pruebas que admita y las que deseche.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 348.
+
+Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas, siempre que no haya concluido la audiencia.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 349.
+
+Si las partes están conformes con los hechos y la controversia queda reducida a un punto de derecho, al concluir la audiencia de conciliación, demanda y excepciones, y ofrecimiento y admisión de pruebas, se otorgará a las partes término para alegar y se dictará la resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 350.
+
+El magistrado instructor, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la continuación de la audiencia en su fase de desahogo de pruebas, que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en este código; y dictará las medidas que sean necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
+
+Cuando por la naturaleza de las pruebas admitidas, para el desahogo de las mismas, el magistrado instructor puede diferir la audiencia; en el mismo acuerdo señalará los días y hora en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando que se reciban primero las del actor y después las del demandado. Este período no deberá exceder de treinta días.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 351.
+
+La etapa de desahogo de pruebas y alegatos se llevará a cabo conforme a las siguientes normas:
+
+I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primeramente las del actor e inmediatamente las del demandado o, en su caso, aquellas que hubieren sido señaladas para desahogarse en su fecha;
+
+II. Si faltare por desahogar alguna prueba, por no estar debidamente preparada, se suspenderá la audiencia para continuarla dentro de los diez días siguientes, haciéndose uso de los medios de apremio a que se refiere este código;
+
+III. En caso de que las únicas pruebas que falten por desahogar sean copias o documentos que hayan solicitado las partes, no se suspenderá la audiencia, sino que el magistrado instructor requerirá a la autoridad o funcionario omiso, le remita los documentos o copias; si dichas autoridades o funcionarios no cumplieran con esa obligación, a solicitud de parte, el magistrado instructor se lo comunicará al superior jerárquico para que se le apliquen las sanciones correspondientes; y
+
+IV. Concluido el desahogo de pruebas, las partes podrán formular alegatos verbalmente o por escrito en la misma audiencia; acto seguido, el magistrado instructor decretará el cierre de la etapa de instrucción y procederá a elaborar su proyecto de sentencia respectivo a efecto de que el Pleno dicte la resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 352.
+
+En las disposiciones de los capítulos III y IV de este Título se considerará que las atribuciones del magistrado instructor corresponden a la comisión instructora tratándose de (sic) de controversias entre el Tribunal y sus servidores.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 353.
+
+El Tribunal resolverá en forma definitiva e inatacable, dentro de los veinte días hábiles siguientes a aquel se haya decretado el cierre de instrucción.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capitulo V. De las Diferencias o Conflictos Laborales entre el Instituto y sus Servidores
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 354.
+
+El servidor del Instituto que hubiese sido destituido de su cargo, sancionado o afectado en sus derechos, podrá inconformarse mediante demanda que presente directamente ante el Tribunal, dentro de los quince días hábiles siguientes al que se le notifique la determinación del Instituto.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 355.
+
+Es optativo que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca el Estatuto del Servicio Profesional Electoral.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 356.
+
+Son partes en el procedimiento el servidor afectado por el acto o resolución y el Instituto. El promovente deberá actuar personalmente o por conducto de apoderado y el Instituto lo hará por conducto de sus representantes legales.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 357.
+
+Una vez radicado ante el Magistrado Instructor el escrito inicial de la demanda, deberá analizarlo, a efecto de determinar lo relativo a su admisión.
+
+En caso de que existan motivos para prevenir, los mismos deberán ser notificados de manera personal dentro de un plazo de cinco días hábiles siguientes a la parte actora, bajo el apercibimiento que, en caso de no subsanarlos dentro del término que al efecto se le conceda, se propondrá al Pleno el desechamiento de la demanda.
+
+Una vez admitido el escrito inicial de demanda, se correrá traslado en copia certificada al Instituto, dentro de los tres días hábiles siguientes a aquél en que se hubiera admitido.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+Artículo 359 (sic). Si el promovente omite señalar el acto o resolución que se impugna, se prevendrá al servidor mediante notificación personal, para que proceda a subsanar la omisión en plazo de cinco días hábiles contados a partir del día siguiente en que surta sus efectos la notificación respectiva, bajo el apercibimiento de que, de no hacerlo así, se tendrá por no presentada la demanda.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 360.
+
+Una vez admitida la demanda, y desahogadas las prevenciones si las hubiere, se correrá traslado al Instituto quien deberá contestar dentro de los diez días hábiles siguientes al que se le notifique la presentación del escrito del promovente, bajo apercibimiento de que en caso de no hacerlo dentro del plazo señalado, o de no referirse a todos y cada uno de los hechos manifestados por el servidor en su escrito, se tendrán por contestados en sentido afirmativo. En su contestación el Instituto deberá ofrecer las pruebas que estime pertinentes.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 361.
+
+Los efectos de la resolución de Tribunal podrán ser en el sentido de condenar o absolver al demandado. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Instituto, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo VI. De las Diferencias o Conflictos entre el Tribunal y sus Servidores
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 362.
+
+Las diferencias o conflictos entre el Tribunal y sus servidores se sujetarán en lo que resulte aplicable a las disposiciones consignadas en los capítulos I, II, III y IV del Título Cuarto de la presente ley y a lo que disponga el Reglamento Interior del Tribunal.
+
+El Tribunal ostentará el carácter de patrón cuando se susciten conflictos laborales entre éste y sus trabajadores y será representado por el Titular del área responsable.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 363.
+
+El servidor sancionado se podrá inconformar ante el Pleno del Tribunal, por escrito, dentro de los quince días hábiles siguientes al en que se le notifique la sanción, remoción o cese.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 364.
+
+Se formará una Comisión instructora, con facultades plenas de sustanciación. Se integrará con tres magistrados que serán nombrados cada tres años por el Pleno, la cual realizará todas las diligencias necesarias para poner los asuntos en estado de resolución sometiendo a consideración del Pleno para su resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 365.
+
+Una vez admitida la demanda, y desahogadas las prevenciones si las hubiere se correrá traslado al titular del área responsable de que se trate quien deberá contestar dentro de los diez días hábiles siguientes al en que se le notifique la presentación del escrito del promovente, bajo apercibimiento de que en caso de no hacerlo dentro del plazo señalado, o de no referirse a todos y cada uno de los hechos manifestados por el servidor en su escrito, se tendrán por contestados en sentido afirmativo.
+
+En su contestación, la Presidencia del Tribunal deberá ofrecer las pruebas que estime pertinentes.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 366.
+
+Los efectos de la resolución de (sic) Tribunal podrán ser en el sentido de condenar o absolver al demandado. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Tribunal, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
+
+La Comisión instructora someterá al Pleno quien resolverá en la misma sesión en que conozca del proyecto de resolución, salvo que ordene que se realicen diligencias adicionales. La resolución será definitiva e inatacable.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+## TITULO QUINTO. De las faltas administrativas y de las sanciones
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+### Capítulo Único. Disposiciones generales
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 367.
 
 El Instituto Electoral del Distrito Federal conocerá de las infracciones que cometan:
 
@@ -5144,7 +6908,9 @@ g) Las asociaciones políticas; y
 
 h) En los casos en los que los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta, induzcan al electorado a votar en favor o en contra de un candidato o Partido Político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; o realicen aportaciones económicas a un Partido Político o candidato, así como a una Agrupación Política. El Instituto Electoral del Distrito Federal informará a la Secretaría de Gobernación, para los efectos legales conducentes.
 
-###### Artículo 275.
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 368.
 
 Las asociaciones políticas, independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, serán sancionados por las causas siguientes:
 
@@ -5156,27 +6922,29 @@ c) Acepten donativos o aportaciones económicas de las personas o entidades que 
 
 d) Acepten donativos o aportaciones económicas superiores a los límites señalados por este Código y el Consejo General;
 
-e) No presenten los informes anuales en los términos y plazos previstos en este Código; y
+e) No presenten los informes anuales en los términos y plazos previstos en este Código;
 
-f) Incurran en cualquier otra falta de las previstas en este Código.
+f) Tratándose de Partidos Políticos, no presentar los informes de campaña electoral o sobrepasar los topes a los gastos fijados conforme a este Código durante la misma;
 
-Tratándose de Partidos Políticos, no presentar los informes de campaña electoral o sobrepasar los topes a los gastos fijados conforme a este Código durante la misma.
+g) Incurran en cualquier otra falta de las previstas en este Código.
 
-###### Artículo 276.
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
 
-Las sanciones a que se refieren las causas del artículo anterior, consistirán:
+###### Artículo 369.
 
-a) Con amonestación pública;
+Las sanciones a que se refieren las causas del artículo anterior consistirán en:
 
-b) Con multa de 50 a 5 mil días de salario mínimo general vigente para el Distrito Federal;
+a) Amonestación pública;
 
-c) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+b) Multa de 50 a 5 mil días de salario mínimo general vigente para el Distrito Federal;
 
-d) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el período que señale la resolución; y
+c) Reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+d) Supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el período que señale la resolución; y
 
 e) A las Agrupaciones Políticas locales hasta con la suspensión o cancelación de su registro;
+
+f) Cuando no presenten el informe sobre gastos de precampaña a que se refiere el artículo 144 inciso j) del presente ordenamiento, o rebasen los topes a los gastos en dichos procesos, si impondrá multa de 5 mil a 50 mil días de salario mínimo general vigente para el Distrito Federal.
 
 Las sanciones previstas en los incisos c) al e) se impondrán cuando el incumplimiento o infracción sea particularmente grave o sistemático.
 
@@ -5184,7 +6952,9 @@ A quien viole las disposiciones de este Código sobre restricciones para las apo
 
 Las violaciones a las prohibiciones establecidas en este Código serán consideradas graves.
 
-###### Artículo 277.
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 370.
 
 Un Partido Político aportando elementos de prueba, podrá pedir al Consejo General del Instituto Electoral del Distrito Federal se investiguen las actividades de otros Partidos Políticos o de una Agrupación Política cuando se incumplan sus obligaciones de manera grave o sistemática, de acuerdo al procedimiento de este artículo.
 
@@ -5208,7 +6978,7 @@ Las quejas sobre el origen y la aplicación de los recursos derivados del financ
 
 > <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2005)</small>
 
-PRIMERO.- El proceso electoral ordinario por celebrarse en el año de 2006 se iniciará el día 20 (sic) enero del mismo año.
+PRIMERO.- El proceso electoral ordinario por celebrarse en el año de 2006 se iniciará el día 20 enero del mismo año.
 
 SEGUNDO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
 
@@ -5373,3 +7143,25 @@ SEXTO.- Se deja sin efecto, todas aquellas disposiciones que se opongan al prese
 G.O. 30 DE SEPTIEMBRE DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLE SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE.
+
+G.O. 19 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+SEGUNDO.- Las disposiciones contenidas en el primer párrafo y los tres últimos párrafos del artículo 147 se aplicarán a partir del inicio del proceso electoral del 2009.
+
+TERCERO.- La regulación, vigilancia y fiscalización de precampañas y la revisión de no rebase de topes de gastos de precampaña para la candidatura a Jefe de Gobierno, que el Instituto Electoral del Distrito Federal realice, se referirá exclusivamente a las correspondientes realizadas por los precandidatos ganadores o designados por su respectivo partido político, durante el periodo que comprenderá del primero de enero del año 2006 y hasta tres días antes de que se realice la correspondiente solicitud de registro como candidato a Jefe de Gobierno.
+
+La regulación, vigilancia y fiscalización de precampañas y la revisión de no rebase de topes de gastos de precampaña para la candidaturas a Jefe Delegacional y Diputados Locales por el principio de Mayoría Relativa, que el Instituto Electoral del Distrito Federal realice, se referirá exclusivamente a las correspondientes realizadas por los precandidatos ganadores o designados por su respectivo partido político, durante el periodo que comprenderá del primero de febrero del año 2006 y hasta tres días antes de que se realice la correspondiente solicitud de registro como candidato según corresponda.
+
+CUARTO.- El Tribunal Electoral del Distrito Federal deberá adecuar su Reglamento Interior al contenido de este Decreto a más tardar en setenta días naturales, contados a partir de que se publique el presente Decreto.
+
+QUINTO.- Los medios de impugnación y recursos que se encuentren pendientes de resolución se resolverán conforme a las disposiciones aplicables al momento de su interposición ante el Tribunal Electoral del Distrito Federal.
+
+SEXTO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Las disposiciones contenidas en el artículo 151 de este Código entrarán en vigor al inicio del proceso electoral de 2009.
+
+OCTAVO.- Las disposiciones contenidas en el artículo 224 de este Código se aplicarán a partir de la designación de los siguientes Magistrados en el año 2007.
+
+NOVENO.- Para efectos de la oportuna resolución de los medios de impugnación previstos en el presente decreto, dos, Magistrados supernumerarios deberán incorporarse al Pleno durante el desarrollo del proceso electoral de 2006 y dependiendo de las cargas de trabajo en términos de lo previsto en el artículo 224 vigente podrán hacerlo los 2 Magistrados supernumerarios restantes.
