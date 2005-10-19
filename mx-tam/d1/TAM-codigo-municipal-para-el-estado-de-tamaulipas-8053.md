@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-11-30"
+last_updated: "2005-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1827,9 +1827,11 @@ Los presupuestos de egresos de los Municipios serán aprobados por sus respectiv
 
 Los presupuestos se formularán para cada año calendario.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 157.
 
-Los presupuestos de egresos que aprueben los Ayuntamientos deberán publicarse oportunamente en el Periódico Oficial del Estado, para expensar durante el período de un año, a partir del primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo del Municipio.
+Los presupuestos de egresos deberán ser aprobados por los Ayuntamientos a más tardar el 30 de noviembre del año inmediato anterior al que se trate, y se enviarán al Ejecutivo del Estado para su publicación dentro de los primeros 10 días del mes de diciembre, debiendo publicarse a más tardar el 31 de dicho mes para expensar durante el período de un año, a partir del 1 de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo del municipio.
 
 ###### ARTICULO 158.
 
@@ -3389,7 +3391,7 @@ Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en ma
 
 P.O. 2 DE DICIEMBRE DE 2002.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3444,3 +3446,9 @@ P.O. 30 DE NOVIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
