@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2005-10-11"
+last_updated: "2005-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -707,7 +707,89 @@ II. A juicio del Presidente de la Comisión y con acuse expreso de aceptación d
 
 2. Es obligación del personal contribuir al buen desarrollo de las reuniones, conduciéndose en éstas con orden y respeto hacia todos los presentes, de lo contrario podrán ser retirados de la reunión a propuesta del presidente con aprobación de la mayoría de los integrantes de la comisión.
 
-### CAPÍTULO V. DE LAS SANCIONES
+### CAPÍTULO V. DE LOS FOROS DE CONSULTA PÚBLICA
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 A.
+
+1. La celebración de foros por parte de las comisiones se sujetará a las disposiciones de este capítulo, así como al Plan de Trabajo Anual de cada comisión.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 B.
+
+1. Se entiende por foro de consulta pública el mecanismo de participación ciudadana mediante el cual las personas, instituciones académicas o sociales, grupos organizados de la sociedad civil y servidores públicos o dependencias de cualquier orden de gobierno, aporten a los legisladores sus propuestas sobre la creación, adición, reforma o derogación del marco legal cuya competencia recae en el Congreso del Estado, a convocatoria de éste último.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 C.
+
+1. Los foros de consulta pública se regirán bajo los principios de institucionalidad, profesionalismo, regionalización, racionalidad de recursos y metodología del manejo de información.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 D.
+
+1. Las comisiones que pretendan llevar a cabo foros de consulta pública deberán dar aviso a la Secretaría General, del acuerdo interno donde aprueben la celebración de los mismos, preferentemente durante el mes de febrero o hasta el 30 de abril en caso de ser el primer año de ejercicio de la legislatura.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 E.
+
+1. El acuerdo interno deberá señalar el tema legislativo específico que se pretende crear, adicionar, reformar o derogar; los destinatarios del foro; la mención de ser foro de consulta pública estatal, metropolitano o regional, así como la persona que representará a la comisión en todo lo relativo a la planeación y organización.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 F.
+
+1. No procederá la justificación de la inasistencia de los diputados integrantes, de la comisión o Comisiones organizadoras durante la realización del foro. En caso de no existir quórum, el foro se realizará con los diputados presentes y la Secretaría General tendrá por recibidas las participaciones ciudadanas que se presenten.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 G.
+
+1. Concluido el periodo señalado en el artículo 98, el Secretario General, por sí mismo o a través de la persona que éste designe, será el encargado de coordinar a los representantes de las comisiones para acordar las bases de la convocatoria respectiva, la mecánica de trabajo, así como los lugares y fechas en que se llevarán a cabo los foros.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 H.
+
+1. Los foros de consulta pública serán temáticos y en su caso se realizarán de manera conjunta por las comisiones involucradas que hayan remitido su acuerdo interno.
+
+Si alguna de las .comisiones pretende llevar a cabo el foro de manera independiente, deberá expresar las razones que así lo justifiquen y ser aprobado en sesión ordinaria del Pleno, para lo cual se considerará lo anterior como situación de excepción y deberá prevalecer ante todo la institucionalidad de los foros de consulta pública como evento del Congreso del Estado.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 I.
+
+1. En los foros temáticos del Comité de Proceso Legislativo en coordinación con la Junta de Coordinación Política propondrán a los presidentes de las comisiones respectivas el número de foros, y el lugar de realización.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 J.
+
+1. La difusión, implementación de la consulta y análisis de las propuestas recibidas en los foros deberá obedecer a estándares metodológicos profesionales para este tipo de mecanismo de participación ciudadana, para lo cual se podrá contratar la asesoría de personas físicas o jurídicas competentes en esta área, previo acuerdo mayoritario de los representantes de las comisiones, de conformidad con el Capítulo de Adquisiciones del presente reglamento.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 K.
+
+1. Al término de cada foro de consulta pública la Comisión organizadora deberá remitir al Comité de Biblioteca, Archivo y Editorial la información recabada a fin de que, preserve, organice y respalde la información obtenida.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 L.
+
+1. El análisis de las propuestas recibidas será responsabilidad de cada Comisión de acuerdo a su tema de consulta específico, considerando lo señalado en el numeral 103.
+
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+
+Artículo 94 M.
+
+1. Los gastos originados para la realización de los foros de consulta pública correrán con cargo al presupuesto anual de las Comisiones participantes y se repartirá de manera proporcional entre las mismas. Las adquisiciones que se realicen, para este mismo fin, deberán ajustarse a las disposiciones del título decimotercero de este reglamento.
+
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 20 DE OCTUBRE DE 2005)
 
 ###### Artículo 86.
 
@@ -751,9 +833,11 @@ B) Los términos para la dictaminación a los que se refiere la ley, iniciaran a
 
 2. La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, tendrá un plazo de cuatro días hábiles, para emitir su opinión si las tuviere, que será anexada al dictamen.
 
-### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2005)</small>
 
-### CAPÍTULO I. DE LA SECRETARÍA GENERAL
+### CAPÍTULO VI. DE LAS SANCIONES
+
+### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
 
 ###### Artículo 95.
 
@@ -789,11 +873,11 @@ V. Haber presentado a la Asamblea solicitud de separación del cargo de diputado
 
 1. Si fuere el caso, el legislador que faltare a reunión de comisión se podrá dirigir por escrito al presidente de la comisión de la que forma parte para que la posible justificación de su inasistencia se ponga a consideración de los miembros de la misma, la solicitud deberá quedar asentada en el acta.
 
-### CAPÍTULO II. DE LAS DIRECCIONES DE LA SECRETARÍA GENERAL
+### CAPÍTULO I. DE LA SECRETARÍA GENERAL
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS Y AUXILIARES
 
-### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR
+### CAPÍTULO II. DE LAS DIRECCIONES DE LA SECRETARÍA GENERAL
 
 ###### Artículo 100.
 
@@ -841,7 +925,7 @@ IX. Las demás que les sean encomendadas a través de los procedimientos y facul
 
 ## TÍTULO NOVENO. DE LA SECRETARÍA GENERAL
 
-### CAPÍTULO II. DEL ÓRGANO TÉCNICO DE HACIENDA PÚBLICA
+### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR
 
 ###### Artículo 104.
 
@@ -955,7 +1039,7 @@ XXXIV. Las demás que señale este reglamento o acuerde la Asamblea.
 
 1. El Congreso editará el “Diario de los Debates”, el cual tendrá por objeto la conservación del archivo e historia del proceso legislativo estatal, contendrá la fecha, lugar en que se verifiquen las sesiones, el sumario, nombre de quien presida, acta circunstanciada de las sesiones y trascripción de la grabación magnetofónica de las discusiones, en el orden que se desarrollen e inserción de los documentos a los que se les dé lectura; pero en ningún caso deberán publicarse las discusiones ni los documentos que se relacionen a las sesiones reservadas que se verifiquen las cuales en su caso deberán de ser publicadas en los términos de la legislación en materia de transparencia.
 
-### CAPÍTULO III. DEL ÓRGANO TÉCNICO DE RESPONSABILIDADES
+### CAPÍTULO II. DEL ÓRGANO TÉCNICO DE HACIENDA PÚBLICA
 
 ###### Artículo 109.
 
@@ -1243,13 +1327,13 @@ V. Las demás que le asigne el Secretario General.
 
 ## TÍTULO DÉCIMO. DE LOS ÓRGANOS TÉCNICOS AUXILIARES
 
-### CAPÍTULO IV. DEL INSTITUTO DE INVESTIGACIÓN JURÍDICA Y ESTUDIOS LEGISLATIVOS
+### CAPÍTULO III. DEL ÓRGANO TÉCNICO DE RESPONSABILIDADES
 
 ###### Artículo 119.
 
 1. En todo lo relacionado a la Auditoria Superior, se estará a lo que señale la Ley de Fiscalización, la Ley Orgánica del Poder Legislativo, su reglamento interno y los acuerdos de la Asamblea.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO IV. DEL INSTITUTO DE INVESTIGACIÓN JURÍDICA Y ESTUDIOS LEGISLATIVOS
 
 ###### Artículo 120.
 
@@ -1301,7 +1385,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 1. El Órgano Técnico de Hacienda Pública podrá contar con un boletín de difusión en el que se publicarán análisis, informes, proyecciones y demás documentos relevantes, de conformidad con la disponibilidad presupuestal.
 
-### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
+### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 125.
 
@@ -1327,7 +1411,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 2. Para el caso de responsabilidad administrativa de servidores públicos del Poder Legislativo, la Comisión de Responsabilidades instaura los procedimientos respectivos, con el apoyo de las áreas del Órgano Técnico.
 
-### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
+### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
 
 ###### Artículo 130.
 
@@ -1385,13 +1469,11 @@ IV. Tener experiencia en la realización de Investigaciones; y
 
 V. Acreditar los exámenes que para el efecto se realicen.
 
-### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 135.
 
@@ -1409,7 +1491,7 @@ V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el de
 
 2. El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1433,7 +1515,7 @@ c) Considerar el grado académico y la experiencia de los candidatos.
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL FUNCIONAMIENTO ADMINISTRATIVO DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1477,7 +1559,7 @@ XI. Estrategia de comunicación; y
 
 XII. Catálogos de formato.
 
-### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
+### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1501,7 +1583,7 @@ Las bases, criterios y procedimientos de las adquisiciones de bienes, contrataci
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
+### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1577,7 +1659,7 @@ II. Los representantes del Consejo Económico Social y la Competitividad por su 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
+### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1631,7 +1713,7 @@ VII. Cierre de la sesión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
+### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1695,7 +1777,7 @@ IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1812,6 +1894,10 @@ IV. Entidades públicas federales.
 1. En los pedidos y contratos se estipularan las condiciones de calidad, precio y en su caso financiamiento, anticipo, tiempo de entrega, enajenación de los trabajos, forma de pago y garantías y, cuando fuere necesario, la capacitación del personal que opere los bienes que se adquieran.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 169.
 
@@ -2064,3 +2150,7 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 11 DE OCTUBRE DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
+
+P.O. 20 DE OCTUBRE DE 2005.
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
