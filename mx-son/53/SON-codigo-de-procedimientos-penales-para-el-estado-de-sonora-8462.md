@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2004-06-07"
+last_updated: "2005-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 2005.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -75,7 +75,9 @@ VIII.- Resolver, cuando sea procedente, el no ejercicio de la acción penal;
 
 IX.- Conceder, negar o revocar, cuando proceda, la libertad provisional del indiciado;
 
-X.- En caso procedente, promover la conciliación de las partes; y
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+X.- En caso procedente, promover la conciliación o la mediación entre las partes, y
 
 XI.- Lo demás que señalen las Leyes.
 
@@ -340,6 +342,10 @@ Los secretarios de los tribunales cotejarán las copias o testimonios de constan
 ###### ARTICULO 31.
 
 Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a quienes corresponda firmar, dar fe o certificar el acto.
+
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Los actuarios tendrán fe pública para los actos de notificación y citación.
 
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
@@ -707,11 +713,13 @@ Asimismo podrá ordenarse por teléfono a la policía que haga la citación, cum
 
 También podrá citarse por teléfono a la persona que haya manifestado expresamente su voluntad, para que se le cite por ese medio, dando el número del aparato al cual debe hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 84.
 
-Cuando no se pueda o se considere inconveniente hacer la citación verbalmente, se hará por cédula, la cual deberá entregarse por el Secretario o notificador de la autoridad de que se trate, o bien por los auxiliares del Ministerio Público, directamente a la persona citada, quien deberá firmar el recibo correspondiente en la copia de la cédula, o estampar su huella digital cuando no sepa firmar; si se negare a hacerlo el servidor público que realice la notificación, asentará tal hecho y el motivo que la persona citada exprese para su negativa.
+Cuando no se pueda o se considere inconveniente hacer la citación verbalmente, se hará por cédula, la cuál deberá entregarse por el secretario, actuario o notificador de la autoridad de que se trate, o bien por los auxiliares del ministerio público, directamente a la persona citada, quien deberá firmar el recibo correspondiente en la copia de la cédula, o estampar su huella digital cuando no sepa firmar, si se negare a hacerlo, el servidor público que realice la notificación, asentará tal hecho y el motivo que la persona citada exprese para su negativa.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
 También podrá enviarse la cédula por correo, en sobre cerrado y sellado, con acuse de recibo.
 
@@ -927,6 +935,10 @@ II.- Cuando la Ley exija algún requisito previo, si éste no se ha llenado.
 
 Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediatamente cuenta al que corresponda legalmente practicarla.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En las averiguaciones previas relativas a delitos de querella o a delitos culposos, y en aquellos casos en que el delito tenga señalada una sanción privativa de libertad cuyo máximo no exceda de tres años de prisión, o tengan señalada pena alternativa, el ministerio público procurará integrar y resolver la averiguación en un plazo no mayor de tres meses.
+
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 116.
@@ -1031,6 +1043,10 @@ ARTICULO 126 BIS.- Sin perjuicio de lo previsto en el presente capítulo, el Min
 
 Los convenios celebrados en términos del párrafo anterior, tendrán el carácter de títulos ejecutivos en términos del Código de Procedimientos Civiles para el Estado de Sonora.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Además de la conciliación, en los casos de los delitos a que se refiere este precepto, el ministerio público orientará al ofendido y al inculpado para que sí lo estiman procedente, acudan a un centro de mediación, para dirimir el conflicto en lo que resulte legalmente procedente.
+
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 127.
@@ -1079,6 +1095,12 @@ IV.- Cuando el detenido fuere un indígena o extranjero, que no hable o no entie
 
 V.- En todo caso se mantendrán separados a los hombres y a las mujeres en los lugares de detención o reclusión.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 129 TER.- Cuando exista temor justificado de que puedan faltar o ausentarse los testigos u ofendidos o sea evidente la dificultad para localizarlos con posterioridad, y no hubiere persona detenida en los términos del artículo 187 Bis de este Código, el indiciado o su defensor podrán solicitar la práctica de los careos constitucionales para asegurar la prueba. La petición se presentará ante el juez en turno, quien deberá solicitar al ministerio público el envío de las constancias necesarias para llevar a cabo su desahogo.
+
+El juez, si considera justificada la providencia, tomará las medidas necesarias para realizar inmediatamente los careos constitucionales, los cuales serán agregados al proceso correspondiente en caso de que el ministerio público ejercite acción penal. En todo caso el juez enviará al ministerio público testimonio de la diligencia para que la integre a la averiguación previa.
+
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 130.
@@ -1113,9 +1135,9 @@ Cuando en vista de la averiguación previa el Agente del Ministerio Público a q
 
 Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de la responsabilidad en que incurra.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-La resolución de no ejercicio de la acción penal que dicte el Ministerio Público quedará firme cuando se trate de los siguientes delitos previstos en el Código Penal para el Estado de Sonora: conducción punible de vehículos, previsto en el artículo 144; violación de correspondencia, previsto en el artículo 152; ultrajes a la moral pública, previsto en el artículo 167; revelación de secretos, previsto en el artículo 176; incumplimiento de obligaciones familiares, previsto en el artículo 232; lesiones, previsto en el artículo 243, fracciones I y II con excepción del párrafo segundo y el supuesto señalado en el párrafo segundo del artículo 65; abandono de personas, previsto en el artículo 273; injurias, previsto en el artículo 276; difamación, previsto en el artículo 278; calumnia, previsto en el artículo 284; robo, previsto en el artículo 302, cuando el monto estimado del daño o perjuicio no exceda de ciento cincuenta salarios mínimos; daños, previsto en el artículo 326; cuando el monto estimado del daño o perjuicio patrimonial no exceda de ciento cincuenta salarios mínimos; daños por culpa, previsto en el artículo 326, cuando el monto del daño o perjuicio patrimonial no exceda de ciento cincuenta salarios mínimos. En todos estos casos no habrá lugar a revisión por parte del Procurador General de Justicia del Estado y el Ministerio Público deberá notificar al ofendido de la resolución de no ejercicio de la acción penal.
+La resolución de no ejercicio de la acción penal que dicte el ministerio público quedará firme cuando se trate de los siguientes delitos previstos en el Código Penal para el Estado de Sonora: Conducción punible de vehículos, previsto en el artículo 144; violación de correspondencia, previsto en el artículo 152; ultrajes a la moral pública, previsto en el artículo 167; revelación de secretos, previsto en el artículo 176; incumplimiento de obligaciones familiares, previsto en el artículo 232; lesiones, previsto en el artículo 243, fracciones I y II con excepción del párrafo segundo y el supuesto señalado en el párrafo segundo del artículo 65; abandono de personas, previsto en el artículo 273; injurias, previsto en el artículo 276; difamación, previsto en artículo 278; calumnia, previsto en el artículo 284; robo, previsto en el artículo 302, cuando el monto estimado del daño o perjuicio no exceda de ciento cincuenta salarios mínimos; daños, previsto en el artículo 326, cuando el monto estimado de daño o perjuicio patrimonial no exceda de ciento cincuenta salarios mínimos; daños por culpa, previsto en el artículo 326, cuando el monto del daño o perjuicio patrimonial no exceda de quinientos salarios mínimos. En todos estos casos no habrá lugar a revisión por parte del Procurador General de Justicia del Estado y el ministerio público deberá notificar al ofendido de la resolución de no ejercicio de la acción penal.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1237,11 +1259,11 @@ II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado en 
 
 Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir definitivamente el ejercicio de la acción penal respecto de los hechos que la motiven.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 141.
 
-En los casos del artículo anterior, se estará al procedimiento previsto en los artículos 281 y 282 del presente Código.
+En los casos del artículo anterior, se estará al procedimiento previsto en los artículos 281 y 282 del presente Código, salvo cuando se trate de los delitos contenidos en el párrafo tercero del artículo 134.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1251,7 +1273,9 @@ En todo procedimiento penal, la víctima o el ofendido por algún delito tendrá
 
 I.- Recibir asesoría jurídica y ser informado de los derechos que en su favor establece la Constitución y la Ley de Atención y Protección a Víctimas del Delito y, cuando lo solicite, ser informado del desarrollo de la averiguación previa o del proceso;
 
-II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con que cuente, tanto en la averiguación previa como en el proceso, y a que se desahoguen las diligencias correspondientes tendientes a demostrar el cuerpo del delito y la probable o plena responsabilidad del inculpado. Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+II.- Coadyuvar con el ministerio público. Al efecto, podrá proporcionar al Ministerio público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba con que cuente, que conduzcan a acreditar los elementos del delito y a establecer la probable o plena responsabilidad del inculpado, según el caso, y la existencia y monto de la reparación de daños y perjuicios. En la averiguación previa, cuando el ministerio público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
 III.- Recibir desde la comisión del delito, atención médica y psicológica de urgencia;
 
@@ -1289,13 +1313,15 @@ Si dentro de los plazos antes indicados el Juez no dicta auto de radicación o n
 
 Si se niega definitivamente la orden de aprehensión o comparecencia por considerar que no están reunidos los requisitos de los artículos 154 y 188 de este Código respectivamente, se regresará el expediente original al Ministerio Público para el trámite que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 144.
 
-Durante la instrucción, el Tribunal que conozca del proceso deberá, de acuerdo con lo establecido en el artículo 57 del Código Penal, observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales; las características de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor peligrosidad.
+Durante la instrucción, el tribunal que conozca del proceso deberá, de acuerdo con lo establecido en los artículos 56 y 57, del Código Penal observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales; las características de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión en que tuvieron lugar los hechos que se investiguen.
 
-El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+El tribunal deberá tomar conocimiento directo de (sic) sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto. Además tratándose de delitos cuya acción penal pueda extinguirse mediante perdón del ofendido, y en aquellos cuya sanción máxima no exceda de tres años de prisión o tengan señaladas una pena alternativa, orientará al ofendido y al inculpado para que si lo estiman procedente, acudan a un centro de mediación, para dirimir el conflicto en lo que resulte legalmente procedente.
 
 > <small>(ADICIONADO, B.O. 11 DE MAYO DE 1992)</small>
 
@@ -1325,11 +1351,13 @@ Tomando en cuenta la probable cuantía de los daños y perjuicios causados, seg�
 
 Para los efectos de este artículo, se entiende que el inculpado se encuentra sustraído de la acción de la justicia a partir del momento en que se dicte en su contra orden de aprehensión, reaprehensión o comparecencia, y hasta en tanto se ejecuta ésta.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 147.
 
-Cuando el tribunal considere agotada la averiguación lo determinará así mediante auto que se notificará personalmente a las partes, y mandará poner el proceso a la vista de éstas por el término de tres días comunes, para que promuevan las pruebas que estimen pertinentes y que puedan practicarse dentro de los diez días siguientes al en que se notifique el auto que recaiga al ofrecimiento de las pruebas. Según las circunstancias que aprecie el Juez, podrá ampliar el plazo de desahogo de pruebas hasta por diez días más o bien, cuando lo considere pertinente, ordenar que se recaben las pruebas para mejor proveer que estime necesarias.
+Cuando el tribunal considere agotada la averiguación, lo determinará así en la diligencia de desahogo de la última prueba o mediante auto que se notificará personalmente a las partes, y mandará poner el proceso a la vista de éstas por el término de tres días comunes, para que promuevan las pruebas que estimen pertinentes y que puedan practicarse dentro de los diez días siguientes a partir de la notificación del auto que recaiga al ofrecimiento de las pruebas. Según las circunstancias que aprecie el juez, podrá ampliar el plazo de desahogo de pruebas hasta por diez días más, o bien, cuando lo considere pertinente, ordenar que se recaben las pruebas para mejor proveer que estime necesarias.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
 El tribunal, de oficio, declarará cerrada la instrucción cuando hubiesen transcurrido los plazos a que se refiere este artículo o las partes hubieran renunciado a ellos.
 
@@ -1425,7 +1453,9 @@ II.- Que esté acreditado el cuerpo del delito de que se trate y que éste tenga
 
 III.- Que en relación a la fracción anterior, esté demostrada la probable responsabilidad del inculpado; y
 
-IV.- Que no esté plenamente comprobado a favor del inculpado, alguna circunstancia eximente de responsabilidad, o que extinga la acción penal.
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+IV.- Que no esté plenamente comprobada alguna causa de exclusión del delito o alguna circunstancia que extinga la acción penal.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1435,13 +1465,35 @@ El plazo a que se refiere el primer párrafo de este artículo se duplicará cua
 
 La ampliación del plazo se deberá notificar al director del reclusorio preventivo en donde se encuentre internado el inculpado, o en su caso, al jefe de la corporación de policía que tenga a su cargo la custodia del detenido cuando éste se encuentre en un centro de salud. Lo anterior para los efectos a que se refiere la última parte del primer párrafo del artículo 19 Constitucional.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 158.
 
-Cuando el delito cuya existencia se haya comprobado no merezca sanción privativa de libertad, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de seguir el proceso.
+Cuando se hayan comprobado los elementos del cuerpo del delito, y éste no merezca sanción privativa de libertad, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para hacer probable su responsabilidad, para el sólo efecto de señalar el delito por el cual se ha de seguir el proceso.
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 159.
 
-Los autos a que se refieren los dos artículos anteriores, se dictarán por el delito que aparezca comprobado, aun cuando con ellos se cambie la apreciación legal que de los hechos se haya expresado en promociones o resoluciones anteriores; notificándose inmediatamente al detenido.
+Los autos de formal prisión y de sujeción a proceso se dictarán por el delito o los delitos que aparezcan comprobados, aún cuando con ellos se cambie la apreciación legal que de los hechos se haya expresado en promociones o resoluciones anteriores y se notificarán inmediatamente al procesado.
+
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 159 Bis.
+
+En los autos de formal prisión y en los de sujeción a proceso, el juez, además de lo establecido en el artículo anterior, deberá:
+
+I.- Declarar la apertura del periodo de instrucción;
+
+II.- Proveer sobre el desahogo de pruebas previamente admitidas y no desahogadas durante el plazo constitucional;
+
+III.- Establecer en los términos previstos por el artículo 145 de este Código, que las partes cuentan con un término de veinte días para ofrecer pruebas, sin perjuicio de que transcurrido dicho término, el juez provea a la admisión y desahogo de las pruebas que estime pertinentes para el conocimiento de la verdad material de los hechos;
+
+IV.- Solicitar los informes sobre los antecedentes penales del inculpado;
+
+V.- Ordenar se cite a la víctima u ofendido para hacerle saber sus derechos en los términos del artículo 142;
+
+VI.- Informar a las partes del procedimiento de mediación como medio alterno a la función jurisdiccional para dirimir conflictos, en su caso.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1479,9 +1531,13 @@ Si dentro del término legal no se reúnen los requisitos necesarios para dictar
 
 El Ministerio Público acreditará la existencia del cuerpo del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción penal y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyan la materialidad del hecho previsto como delito por la ley, así como los normativos, en caso de que la descripción típica lo requiera.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-La probable responsabilidad del inculpado se tendrá por comprobada cuando, de los medios probatorios existentes, se deduzca su participación en el delito que se le imputa en los términos del párrafo primero de este artículo y no exista acreditada en favor de aquél alguna causa excluyente de responsabilidad, contenidas en el artículo 13 del Código Penal.
+El cuerpo del delito se tendrá por comprobado cuando se acredite la existencia de los elementos que integran la descripción de la conducta o hechos delictuosos, según lo determina la ley penal.
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Será probable la responsabilidad del inculpado, cuando de los medios probatorios existentes, se deduzca razonablemente que pudo haber participado en la comisión de la conducta o hechos constitutivos del delito de que se trate y no exista acreditada en su favor alguna causa de exclusión del delito de las contenidas en el artículo 13 del Código Penal.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1737,6 +1793,10 @@ Cuando el delito imputado merezca sanción que no sea privativa de libertad o sa
 
 Se admitirá como prueba todo aquello que se ofrezca como tal, siempre que pueda constituirla a juicio del funcionario que practique la averiguación. Cuando éste lo juzgue necesario, podrá por cualquier medio legal establecer la autenticidad de dicha prueba.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 198 BIS.- Cuando se ofrecieren pruebas testimoniales o careos dentro del término constitucional o durante el periodo de instrucción, el juez procurará desahogar tales diligencias en una sola audiencia pública ordenando la debida citación al inculpado, a la defensa, al agente del ministerio público, a los testigos de que se trate y en su caso a la víctima. La incomparecencia de algunos de los testigos no será motivo para diferir la audiencia y se recibirá el testimonio de los que asistan.
+
 ### CAPITULO II. Confesión
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
@@ -1919,13 +1979,19 @@ El juez podrá ordenar que se repita el cotejo por otros peritos.
 
 El tribunal no podrá dejar de examinar durante la instrucción a los testigos presentes cuya declaración soliciten las partes.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En todo caso, si no consta en autos el domicilio del testigo propuesto, el juez solicitará al oferente de dicha prueba que proporcione el domicilio o datos que permitan localizarlo, para que se gire la citación correspondiente.
+
 ###### ARTICULO 232.
 
 También mandará examinar, según corresponda, a los testigos ausentes, sin que esto estorbe la marcha de la instrucción ni la facultad del tribunal para darla por terminada cuando haya reunido los elementos bastantes.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 233.
 
-Toda persona que sea citada como testigo está obligada a declarar.
+Toda persona que sea testigo está obligada a declarar. El juez, desde la primera citación a los testigos, los apercibirá de que en caso de no asistir al desahogo de la diligencia sin causa justificada, se hará uso de la fuerza pública para hacerlos comparecer.
 
 ###### ARTICULO 234.
 
@@ -2077,7 +2143,11 @@ Los careos, salvo los exceptuados en el artículo 256, se practicarán dando lec
 
 Cuando por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de los que deban ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro y haciéndole notar las contradicciones que hubiere entre aquella y lo declarado por él. Lo mismo se observará en los supuestos a que se refiere la fracción V del artículo 142 de este Código.
 
-Si los que deban carearse estuvieren fuera de la jurisdicción del tribunal, se librará el exhorto correspondiente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Tratándose de careos entre el inculpado y quienes depongan en su contra, sólo procederán cuando lo solicite el inculpado o su defensor.
+
+> <small>(DEROGADO TERCER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO VIII. Documentos
 
@@ -2209,15 +2279,25 @@ El Ministerio Público, al formular conclusiones acusatorias, observará los sig
 
 I.- Deberá precisar el hecho punible que se le atribuye al acusado, de acuerdo a la hipótesis contenida en la definición legal del delito imputado;
 
-II.- Deberá citar los preceptos aplicables, mencionar y valorar las pruebas conducentes a acreditar el cuerpo del delito y la responsabilidad penal del acusado;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-III.- Expresará la culpabilidad que le corresponde al acusado conforme al artículo 6o. del Código Penal, así como su forma de intervención de acuerdo al artículo 11 de la citada ley;
+II.- Deberá citar los preceptos aplicables y señalar las pruebas conducentes a acreditar el delito y la responsabilidad penal del acusado;
 
-IV.- Expondrá las circunstancias personales del acusado y objetivas del hecho punible, que deban tomarse en cuenta en la individualización de la pena y solicitará las aplicables al caso, incluyendo la de reincidencia, la acumulación, debiendo mencionar los preceptos aplicables. Asimismo solicitará, en su caso, que se nieguen los beneficios de libertad correspondientes; y
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-V.- Solicitará el pago de la reparación de daños y perjuicios en los casos en que sea procedente y, en su caso, se dejen a salvo los derechos de la víctima u ofendido para cuantificarlos, cuando no haya sido determinado el monto de los mismos.
+III.- Conforme al artículo 6º del Código Penal, expresará si se trata de delito doloso, culposo o preterintencional, así como la forma de intervención del acusado de acuerdo con el artículo 11 de la citada ley;
 
-Si las conclusiones son de no acusación, también deberá fundar y motivar su resolución.
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+IV.- Solicitará a la autoridad judicial que en uso de su arbitrio, aplique las sanciones correspondientes, incluidas, en su caso, las relativas al concurso de delitos y a la reincidencia. Sin perjuicio de lo anterior, el ministerio público podrá señalar las condiciones personales del acusado, circunstancias exteriores de ejecución del delito, móviles que tuvo para cometerlo y de extensión del daño causado o peligro corrido por la víctima, que deban tomarse en cuenta para la individualización de la pena o medida de seguridad;
+
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+V.- Solicitará el pago de la reparación de daños y perjuicios en los casos en que sea procedente.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Cuando no haya sido determinado durante el proceso el monto de los daños y perjuicios, y no se esté en los supuestos de los artículos 29 Bis y 31 Bis del Código Penal, quedarán a salvo los derechos de la víctima u ofendido para cuantificarlos en ejecución de sentencia.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -2225,7 +2305,9 @@ Si las conclusiones son de no acusación, también deberá fundar y motivar su r
 
 El Juez deberá enviar las conclusiones al Procurador General de Justicia para su revisión, señalando con claridad el motivo del envío, en los siguientes casos:
 
-I.- Cuando sean de no acusación.
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+I.- Cuando sean de no acusación, excepto cuando se trate de los delitos a que se refiere el artículo 134 de este Código;
 
 II.- Cuando en ellas no se comprenda algún delito contemplado en el auto de formal prisión o en la instrucción;
 
@@ -2407,15 +2489,17 @@ Interpuesto el recurso, en el acto de la notificación o dentro de las veinticua
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó inexactamente la ley, si se violaron los principios reguladores de la valoración de la prueba y del arbitrio judicial o si se alteraron los hechos, confirmando, revocando o modificando la resolución apelada.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 309.
 
-La segunda instancia se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida. Los agravios deberán expresarse al interponerse el recurso o en la "vista" del asunto, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el procesado, o siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente.
+La segunda instancia se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia o falta de los agravios cuando el recurrente sea el procesado, el defensor, el ofendido o su legítimo representante.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 310.
 
-Tienen derecho de apelar el Ministerio Público, el inculpado y su defensor, así como el ofendido y sus legítimos representantes, cuando hayan sido reconocidos por el Juez de Primera Instancia como coadyuvantes del Ministerio Público, para efectos de reparación de daños y perjuicios. En este último caso, la apelación se contraerá a lo relativo a la reparación de daños y perjuicios y a las medidas precautorias conducentes a asegurarlos.
+Tienen derecho de apelar el ministerio público, el inculpado y su defensor, así como el ofendido y sus legítimos representantes cuando hayan sido reconocidos por el juez de primera instancia. En este último caso, la apelación se contraerá a lo relativo a la reparación de daños y perjuicios y a las medidas precautorias conducentes a asegurarlos.
 
 ###### ARTICULO 311.
 
@@ -2431,17 +2515,15 @@ II.- Los autos en que se decrete el sobreseimiento en los casos de las fraccione
 
 III.- Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos, y los que decreten la separación de autos;
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-III BIS.- Los autos que ratifiquen la constitucionalidad de una detención a que se refiere el párrafo sexto del artículo 16 constitucional.
+III BIS.- (DEROGADA, B.O. 20 DE OCTUBRE DE 2005)
 
 IV.- Los autos de formal prisión; los de sujeción a proceso, y los de falta de elementos para procesar;
 
 V.- Los autos en que se conceda, niegue o revoque la libertad provisional bajo caución; los que concedan ó nieguen la libertad por desvanecimiento de datos; y los que resuelvan algún incidente no especificado;
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-VI.- El auto en que se niegue la orden de aprehensión o la ratificación de la detención y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público.
+VI.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el ministerio público;
 
 > <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2471,41 +2553,59 @@ Interpuesto el recurso dentro del término legal, el tribunal que dictó la reso
 
 Contra el auto que admita la apelación no procede recurso alguno, sin perjuicio de lo que dispone el artículo 318.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 316.
 
-Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia; (sic) caso de no hacerlo, se le tendrá como defensor al de oficio.
+Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia y manifieste si lo autoriza a recibir las notificaciones personales que deban hacérsele durante el trámite de la apelación, a excepción de sentencia o resolución que ponga fin a la instancia, la cual debe notificarse personalmente al sentenciado o procesado. En caso de no hacerlo, se le tendrá como defensor al de oficio, quien estará facultado para recibir tales notificaciones.
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 317.
 
-Admitida la apelación en ambos efectos, se remitirá original el proceso al tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de éllos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios correspondientes.
+Admitida la apelación en ambos efectos, se remitirá el original del proceso al tribunal de apelación respectivo en el plazo de tres días a partir de la notificación del auto admisorio. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el juez que dictó la sentencia apelada ordenará que se expidan los testimonios correspondientes.
 
-Cuando la apelación se admita en el efecto devolutivo, se remitirá testimonio de lo que las partes designen y de lo que el juzgado estime conveniente; pero si se trata de sentencia absolutoria, se remitirá original el expediente.
+Cuando la apelación se admita en efecto devolutivo, se remitirá testimonio de las constancias que el juez estime conveniente, pero si se trata de sentencia absolutoria, se remitirá el expediente original. Los testimonios de apelación deberán enviarse al tribunal de alzada, en el plazo previsto en el primer párrafo, salvo que excedan de quinientas fojas, en cuyo caso será de seis días.
 
 ###### ARTICULO 318.
 
 Recibido el proceso o el testimonio en el tribunal de apelación, éste dentro del término de tres días, declarará si el recurso ha sido bien o mal admitido. En el último caso se devolverán los autos al juzgado de su origen.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 319.
 
-Si el recurso fuere admitido, el tribunal pondrá los autos a la vista del apelante, quien en el término de tres días, podrá promover las pruebas que sean admisibles en la segunda instancia las que, en su caso, se desahogarán en un término no mayor de diez días, sin contar los que se empleen en la ida y regreso del correo. Si el apelante no promoviere pruebas, se señalará día y hora para la "vista", que se efectuará dentro de los veinte días siguientes. Para élla serán citados el Ministerio Público, el inculpado si estuviere en el lugar y el defensor nombrado. Si no se hubiere nombrado a éste para la instancia, el tribunal lo nombrará de oficio.
+Cuando se trate de apelación de sentencia, si el recurso fuere admitido, el tribunal emitirá auto en el que pondrá el proceso o el testimonio de apelación a la vista del apelante, quien en el término de tres días, podrá promover las pruebas que sean admisibles en la segunda instancia, las que, en su caso, se desahogarán en un término de diez días, sin contar los que se empleen en la ida y regreso del correo. Dicho auto podrá ser notificado al sentenciado por conducto de su defensor cuando lo haya autorizado conforme al artículo 316 para recibir las notificaciones que deban hacerse en el trámite de la segunda instancia.
+
+Si el apelante no promoviere pruebas o una vez desahogadas las que se hubieren admitido, se pondrán los autos a la vista del apelante para que exprese los agravios en el término de quince días, contados a partir de la notificación del auto que así lo ordene.
+
+En caso de que se expresen agravios, se correrá traslado con los mismos a la contraparte, para que los conteste en un término igual, tras de lo cual, se citará para sentencia.
+
+Si el apelante es el inculpado, el defensor, la víctima o su representante legítimo, y no expresan agravios, se citará para resolución.
+
+Cuando el ministerio público sea el único apelante y no exprese agravios, se tendrá por desierto el recurso y quedará confirmada la resolución apelada.
 
 ###### ARTICULO 320.
 
 Ante el tribunal de apelación no se admitirán más pruebas que la testimonial cuando se refiera a hechos que no hayan sido materia de examen en primera instancia, la pericial, ampliaciones de dictámenes y la documental, que es admisible hasta antes de la citación para sentencia.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 321.
 
-Recibidas las pruebas, se señalará día y hora para la "vista" en los términos de la segunda parte del artículo 319.
+Tratándose de apelación de autos, al admitirse el recurso se pondrá el testimonio de apelación a la vista del apelante para que exprese los agravios en el término de diez días y se actuará conforme a lo previsto en los párrafos tercero, cuarto y quinto del artículo 319.
 
-> <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 322.
 
-El Tribunal de apelación tiene facultad para admitir las pruebas que no se hubieren promovido o practicado en primera instancia, para justificar la procedencia de la suspensión condicional de la pena o de algún sustitutivo de presión, y para resolver sobre ellas al fallarse el asunto, aún cuando no haya sido motivo de agravio el no haberse concedido el beneficio o el sustitutivo en la primera instancia. Estas pruebas pueden desahogarse hasta antes de la celebración de la visita.
+El tribunal de apelación tiene facultad para admitir las pruebas que no se hubieren promovido o practicado en primera instancia, para justificar la procedencia de la suspensión condicional de la pena o de algún sustitutivo de prisión, y para resolver sobre ellas al fallarse el asunto, aún cuando no haya sido motivo de agravio el no haberse concedido el beneficio o el sustitutivo en la primera instancia. Estas pruebas pueden desahogarse hasta antes de citarse para sentencia.
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 323.
 
-En casos absolutamente necesarios después de la celebración de la "vista", si el tribunal de apelación estimare pertinente la práctica de alguna diligencia para ilustrar su criterio, podrá decretarla para mejor proveer, y se desahogará dentro del término de diez días.
+En casos absolutamente necesarios, después de la citación para resolución, si el tribunal de apelación estimare pertinente la práctica de alguna diligencia para ilustrar su criterio, podrá decretarla para mejor proveer, y se desahogará dentro del término de diez días.
 
 ###### ARTICULO 324.
 
@@ -2515,11 +2615,13 @@ Si se tratare de auto de formal prisión o de sujeción a proceso, podrá variar
 
 ###### ARTICULO 325.
 
-El día señalado para la "vista" comenzará la audiencia haciendo el secretario del tribunal una relación del asunto; en seguida hará uso de la palabra el apelante y a continuación las otras partes en el orden que indique quien presida la audiencia. Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo funcionario que presida.
+(DEROGADO, B.O. 20 DE OCTUBRE DE 2005)
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 326.
 
-Declarado visto el asunto, quedará cerrado el debate y el tribunal de apelación pronunciará el fallo que corresponda, a más tardar, dentro de quince días, confirmando, revocando o modificando la resolución apelada.
+A partir de la citación para resolución, el tribunal de apelación pronunciará el fallo que corresponda, a más tardar, dentro de quince días, confirmando, revocando o modificando la resolución apelada.
 
 ###### ARTICULO 327.
 
@@ -2627,11 +2729,11 @@ Es competente para conocer del recurso de revisión el Juez de Primera Instancia
 
 En los lugares en donde haya dos jueces del Ramo Penal, conocerán por riguroso turno quincenal, según la fecha de la sentencia recurrida.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 344.
 
-La revisión se tramitará a petición de parte legítima, para resolver sobre los agravios que estime el recurrente le cause la resolución recurrida. Los agravios deberán expresarse al interponerse el recurso o en la "vista" del asunto, sin perjuicio de que el Juzgado de Primera Instancia suple la deficiencia y aun la falta absoluta de los agravios cuando el recurrente sea el procesado o siéndolo el defensor, se advierta que por torpeza o morosidad no los hizo valer.
-
-Cuando el Agente del Ministerio Público no exprese agravios, se declarará desierto el recurso y firme la resolución recurrida.
+La revisión se tramitará a petición de parte legítima, para resolver sobre los agravios que estime el recurrente le cause la resolución recurrida, sin perjuicio de que el Juzgado de Primera Instancia supla la deficiencia o falta de los agravios cuando el recurrente sea el procesado, el defensor, el ofendido o su legítimo representante.
 
 ###### ARTICULO 345.
 
@@ -2639,13 +2741,13 @@ Interpuesto el recurso de revisión, el Juzgado Local lo admitirá de plano y re
 
 ###### ARTICULO 346.
 
-Recibidos los autos en el Juzgado de Primera Instancia, se citará a las partes para la audiencia de pruebas, agravios y sentencia, dentro de los quince días siguientes.
+(DEROGADO, B.O. 20 DE OCTUBRE DE 2005)
 
-Concluída la audiencia, se declarará visto el asunto y se pronunciará sentencia dentro de los cinco días siguientes.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 347.
 
-Ante el tribunal de revisión, se procederá, en lo conducente, como lo disponen los artículos 319, 321, 322, 327, 328, 329 y 330 de este Código.
+Ante el tribunal de revisión, se procederá, en lo conducente, como lo disponen los artículos 318, 319, 320, 321,322, 323, 324, 326, 327, 328, 329 y 330 de este Código.
 
 ###### ARTICULO 348.
 
@@ -3215,7 +3317,17 @@ b).- Que no haya base para decretar el sobreseimiento; y
 
 c).- Que se desconozca quien es el responsable del delito;
 
-V.- En los demás casos en que la ley ordene expresamente la suspensión del procedimiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE OCTUBRE DE 2005)</small>
+
+V. Cuando al cerrarse la instrucción exista apelación del auto de formal prisión o de sujeción a proceso, pendiente de resolverse. En este caso, el juez, deberá informar al tribunal de alzada de la suspensión decretada, para que provea en consecuencia;
+
+> <small>(ADICIONADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+VI.- Tratándose de delitos cuya acción penal pueda extinguirse por el perdón del ofendido, podrá suspenderse el procedimiento por un periodo hasta por tres meses, siempre y cuando no afecte derechos de terceros y así lo hayan acordado el ministerio público, el inculpado, el defensor y la víctima con el fin de acudir al procedimiento de mediación;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 20 DE OCTUBRE DE 2005)</small>
+
+VII.- En los demás casos en que la ley ordene expresamente la suspensión del procedimiento.
 
 ###### ARTICULO 420.
 
@@ -3227,9 +3339,11 @@ La substracción de un inculpado a la acción de la justicia no impedirá la con
 
 Lograda la captura del prófugo el proceso continuará su curso sin que se repitan las diligencias ya practicadas, a menos que el tribunal lo estime indispensable.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 422.
 
-Cuando se haya decretado la suspensión del procedimiento en los casos a que se refieren las fracciones II, III y IV del artículo 419, se continuará tan luego como desaparezcan las causas que la motivaron.
+Cuando se haya decretado la suspensión del procedimiento en los casos a que se refieren las fracciones II, III, IV, V y VI del artículo 419, se continuará tan luego como desaparezcan las causas que la motivaron.
 
 ###### ARTICULO 423.
 
@@ -3403,11 +3517,13 @@ Si se comprueba el delito y que en él tuvo participación el inculpado, previa 
 
 La resolución que se dicte será apelable en el efecto devolutivo.
 
-CUANDO (sic) 449.- Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 419 fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
+###### ARTICULO 449.
+
+Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 419 fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
 
 ###### ARTICULO 450.
 
-La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo del Estado.
+La vigilancia del recluido estará a cargo del órgano que designe el Ejecutivo del Estado.
 
 ### CAPITULO II. Menores
 
@@ -3641,7 +3757,9 @@ Al formular conclusiones el agente del Ministerio Público o el defensor, si est
 
 Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la suspensión condicional y si no se concediera de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
 
-Después de dictada sentencia irrevocable no procederá la suspensión condicional.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+El reo que considere que al dictarse sentencia reunía las condiciones fijadas en el artículo 87 del Código Penal para el Estado de Sonora, y que está en aptitudes de cumplir los demás requisitos que en el propio precepto se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda abriendo el incidente respectivo ante el juez de la causa.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3733,11 +3851,11 @@ Las resoluciones sobre procedencia o improcedencia de la retención se comunicar
 
 (DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
-> <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 518.
 
-El que hubiere sido condenado por sentencia irrevocable y se encontrare en los casos de los artículo (sic) 61 y 79 del Código Penal, podrá solicitar del órgano del Ejecutivo encargado de la ejecución de las sanciones, la reducción o conmutación de la sanción que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuviere para pedir la conmutación.
+El que hubiere sido condenado por sentencia irrevocable y se encontrare en los casos de los artículo (sic) 61 y 79 del Código Penal, podrá solicitar de la autoridad jurisdiccional o del órgano del Ejecutivo encargado de la ejecución de las sanciones, la reducción o conmutación de la sanción que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuviere para pedir la conmutación.
 
 ###### ARTICULO 519.
 
@@ -4056,3 +4174,9 @@ B.O. 7 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE OCTUBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
