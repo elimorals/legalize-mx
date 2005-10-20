@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2004-06-07"
+last_updated: "2005-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 2005.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -63,9 +63,13 @@ Cuando se cometa un delito no previsto en este Código, pero si en una ley espec
 
 ### CAPITULO I. REGLAS GENERALES SOBRE DELITOS Y RESPONSABILIDAD
 
-###### ARTICULO 5o.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-Delito es el acto u omisión que sancionan las leyes penales.
+###### ARTICULO 5º.
+
+Delito es la acción u omisión típica, antijurídica y culpable sancionada por las leyes penales.
+
+En los delitos de comisión por omisión se considerará que el resultado es consecuencia de una conducta omisiva cuando se determine que el que omitió impedirlo tenía el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
 
 Por su forma de realización en el tiempo el delito puede ser:
 
@@ -95,7 +99,7 @@ Existe preterintencionalidad, cuando se causa daño mayor que el que se quiso ca
 
 ###### ARTICULO 7o.
 
-La comprobación de las modalidades de la responsabilidad penal y los grados de la culpabilidad se determinarán mediante la valoración que conforme a derecho se haga de las pruebas dentro del procedimiento. En caso que se determine la existencia de dolo, es decir, de intención, no se considerará extinguida tal forma de culpabilidad, aunque se pruebe lo siguiente :
+La comprobación de las modalidades de la responsabilidad penal y los grados de la culpabilidad se determinarán mediante la valoración que conforme a derecho se haga de las pruebas dentro del procedimiento. En caso que se determine la existencia de dolo, es decir, de intención, no se considerará extinguida tal forma de culpabilidad, aunque se pruebe lo siguiente:
 
 I.- Que creía que era legítimo el fin que se propuso;
 
@@ -153,41 +157,55 @@ III.- Que no hayan estado presentes en la ejecución del nuevo delito, o que hab
 
 IV.- Que no hayan sabido antes que se iba a cometer el nuevo delito.
 
-### CAPITULO IV. CAUSAS EXCLUYENTES DE RESPONSABILIDAD
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+### CAPITULO IV. CAUSAS DE EXCLUSIÓN DEL DELITO
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 13.
 
-Son causas excluyentes de responsabilidad:
+El delito se excluye cuando:
 
-I.- Incurrir el agente en actividad o inactividad involuntarias;
+I.- El agente incurra en actividad o inactividad involuntarias;
 
-II.- Hallarse el agente, al cometer el delito, en estado de trastorno mental transitorio, originado por cualquier causa, siempre que esta sea accidental o involuntaria;
+II.- La inexistencia de alguno de los elementos que integran la descripción típica de que se trate;
 
-III.- Obrar el agente en defensa de su persona, de su honor, o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión real, actual, sin derecho y de la cual resultare un peligro inminente, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
+III.- Se produzca un resultado típico por caso fortuito;
 
-Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
+IV.- Se realice la acción u omisión bajo un error invencible respecto de alguno de los elementos legales del tipo. No se excluye el delito si el error es vencible, en cuyo caso se considerará que se obró culposamente, si el hecho de que se trate admite dicha forma de realización;
 
-IV.- Obrar en virtud de miedo grave o temor fundado e irresistible de un mal inminente y grave en bienes jurídicos propios o ajenos, siempre que no exista otro medio practicable y menos perjudicial al alcance del agente;
+V.- El agente obre en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión real, actual, sin derecho y de la cual resulte un peligro inminente, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 
-V.- Obrar por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, grave e inminente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que no exista otro medio practicable y menos perjudicial y el contraventor no haya provocado dolosamente o por culpa grave el estado de necesidad, ni se tratare de aquél que por su empleo o cargo tenga el deber legal de afrontar el peligro;
+Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependientes, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en uno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
 
-VI.- Obrar en cumplimiento de un deber o en el ejercicio de un derecho consignados en la ley, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho;
+VI.- Se obre en cumplimiento de un deber o en ejercicio de un derecho consignado en la ley, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho;
 
-VII.- Ejecutar un hecho que no es delictuoso sino por circunstancias del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar;
+VII.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
-VIII.- Obedecer a un superior legítimo en el orden jerárquico, aun cuando su mandato constituya un delito, si esta circunstancia no es notoria ni se prueba que el acusado la conocía;
+a).- Que el bien jurídico sea disponible;
 
-IX.- Contravenir lo dispuesto en una ley penal, por un impedimento legítimo o insuperable;
+b) Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y
 
-X.- Producir el agente un resultado típico por caso fortuito; y
+c).- Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiese otorgado tal consentimiento;
 
-XI.- Realizar la acción u omisión bajo un error invencible, respecto de alguno de los elementos esenciales que integran la descripción legal del tipo.
+VIII.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, grave e inminente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que no exista otro medio practicable y menos perjudicial y el contraventor no haya provocado dolosamente o por culpa grave el estado de necesidad, ni se tratare de aquel que por su empleo o cargo tenga el deber legal de afrontar el peligro;
 
-No se excluye la responsabilidad si el error es vencible, en cuyo caso existirá responsabilidad a título de culpa, si el hecho de que se trate admite dicha forma de realización.
+IX.- El agente no tenga la capacidad de comprender el carácter antijurídico de su conducta o de conducirse con esa comprensión, en virtud de padecer retraso o trastorno mental, a no ser que el agente hubiere provocado éste dolosa o culposamente;
+
+X.- Se realice la conducta bajo un error invencible respecto de su ilicitud.
+
+El error es invencible cuando las condiciones personales del agente y las circunstancias del caso, real y objetivamente constituyen un impedimento para superar su ignorancia o advertir su falsa apreciación;
+
+XI.- Se obre en virtud de miedo grave o temor fundado e irresistible de un mal inminente y grave en bienes jurídicos propios o ajenos, siempre que no exista otro medio practicable y menos perjudicial al alcance del agente;
+
+XII.- Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó en virtud de no haber podido conducirse conforme a derecho.
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 14.
 
-Las causas que excluyen la responsabilidad se averiguarán, estimarán y harán valer de oficio o a petición de parte.
+Las causas de exclusión del delito se investigarán y estimarán de oficio o a petición de parte, en cualquier estado del procedimiento penal.
 
 ### CAPITULO V. CONCURSO DE DELITOS
 
@@ -363,11 +381,15 @@ La reparación de daños y perjuicios comprende:
 
 I.- La restitución de la cosa obtenida por el delito, con sus accesorios y derechos, y si no fuere posible, el pago de su valor actualizado al momento del pago o cumplimiento de lo sentenciado y de acuerdo con las pruebas aportadas por las partes.
 
-Tratándose de bienes fungibles, el juez o tribunal podrá condenar a la entrega de una cosa igual a la obtenida por el delito;
+Tratándose de bienes fungibles, el juez o tribunal podrá condenar a la entrega de una cosa igual a la obtenida por el delito.
 
-II.- La indemnización del daño material causado, incluyendo el pago de los tratamientos curativos y psicológicos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. Además, el pago a favor del Estado, en los casos en que éste se haya subrogado en los gastos de atención médica y psicológica de urgencia.
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-III.- La indemnización del daño moral causado, entendiéndose éste como el sufrimiento que el delito origine a una persona, ya sea en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración o aspecto físico, así como la dolencia mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
+II.- La indemnización del daño material causado, incluyendo el pago de los tratamientos curativos y psicológicos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. Además, el pago a favor del Estado, en los casos en que éste se haya subrogado en los gastos correspondientes.
+
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+III.- La indemnización del daño moral causado, entendiéndose éste como el sufrimiento que el delito origine a una persona, ya sea en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, o como consecuencia de las alteraciones en su configuración o aspecto físico o mental.
 
 IV.- El resarcimiento de los perjuicios ocasionados.
 
@@ -379,9 +401,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito y la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores e incapaces, violación, violencia intrafamiliar, rapto, abusos deshonestos, pornografía infantil, privación ilegal de libertad, secuestro y homicidio.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 Bis, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores e incapaces, violación, violencia intrafamiliar, rapto, abusos deshonestos, pornografía infantil, privación ilegal de la libertad, secuestro, homicidio, injurias, difamación, calumnia y chantaje.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -401,17 +423,25 @@ IV.- El Estado o quienes eroguen gastos para auxiliar a la víctima o al ofendid
 
 La reparación será fijada por los tribunales según los daños y perjuicios que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso y atendiendo también, tratándose de daño moral, a la capacidad económica del obligado a pagarla.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Si son varios los que reclaman por la misma conducta, el juzgador fijará las indemnizaciones según el grado de afectación de cada cual.
+
 Para los casos de reparación de daños y perjuicios causados con motivo de delitos culposos, el Ejecutivo del Estado expedirá un reglamento sobre la forma en que debe garantizarse mediante seguro especial y sin perjuicio de las sanciones que dicte la autoridad judicial.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 31 BIS.- Salvo en los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en la fracción III del artículo 29 de este Código y las circunstancias personales del ofendido o víctima.
+ARTICULO 31 BIS.- Salvo en los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en la fracción III del artículo 29 de este Código y las circunstancias personales del ofendido o victima.
 
-Cuando el daño moral se presuma legalmente, pero se le omita acreditar, para la cuantificación del mismo se podrá imponer, a juicio del Juez o Tribunal y atendiendo a las reglas de la individualización de las sanciones, de cincuenta a mil días multa.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-El monto mínimo de la indemnización por daño moral será de cincuenta días multa. El monto máximo de indemnización por daño moral será de dos tantos del máximo legal que corresponda a la multa aplicable al delito, a menos que, en atención a la situación económica del obligado, junto con un grado máximo de lesión moral o cercano a éste u otras circunstancias del caso, racionalmente motivadas, el juzgador estime adecuado imponer una indemnización mayor, en cuyo caso podrá incrementar el monto que fije hasta en un tercio más.
+Cuando se esté en el supuesto de presunción del daño moral conforme al artículo 29 Bis, para la cuantificación del mismo se podrá imponer, a juicio del juez o tribunal, atendiendo a las reglas de la individualización de las sanciones y a la capacidad económica del obligado, un monto de cincuenta a mil días de salario mínimo general vigente en la capital del Estado que se determinará de acuerdo con lo previsto en el artículo 28 de este Código.
 
-Si tratándose de daño moral, son varios los que reclaman por la misma conducta, el juzgador fijará las indemnizaciones según el grado de afectación de cada cual, sin que el total de las indemnizaciones pueda exceder el triple del límite legal máximo.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En los casos de presunción legal del daño moral, si son varios los que reclaman por la misma conducta, el juzgador fijará individualmente las indemnizaciones conforme al párrafo anterior.
+
+> <small>(DEROGADO CUARTO PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 32.
 
@@ -585,23 +615,29 @@ La vigilancia consistirá en ejercer sobre el sentenciado observación y orienta
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 56.
 
-El juzgador, al dictar sentencia, fijará la sanción que estime justa, dentro de los límites establecidos por este Código para cada caso, conforme a su prudente arbitrio, apreciando en cada hecho, las condiciones personales del delincuente, su mayor o menor peligrosidad, los móviles del delito, las atenuantes y agravantes y todas las demás circunstancias exteriores de ejecución, así como el comportamiento posterior del acusado con relación al delito cometido.
+El juzgador, al dictar sentencia determinará el grado de reprochabilidad fijando en consecuencia la sanción que estime justa, dentro de los límites legalmente establecidos para cada caso, para lo cual apreciará en cada hecho la conducta precedente relacionada con la realización delictiva que se reproche, las condiciones y antecedentes personales, familiares y sociales del delincuente, su mayor o menor posibilidad razonable de conducirse conforme a derecho, los móviles del delito, las atenuantes, las agravantes y todas las demás modalidades y circunstancias de ejecución, así como el comportamiento posterior del acusado con relación al delito cometido. Igualmente tomará en consideración el grado de lesión jurídica, para lo cual apreciará: La trascendencia de los daños materiales y morales, en su caso; el peligro que afrontó el ofendido y su relación con el agente, en la medida que ello influyó en la comisión del delito, así como los demás datos que se estimen pertinentes.
 
 Cuando se trate de punibilidad alternativa el juez deberá imponer, motivando su resolución, la sanción privativa de libertad, cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
 
 En todos los casos en que este Código disponga penas en proporción a las previstas para el delito doloso consumado, la punibilidad o sanción aplicable será, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél.
 
-###### ARTICULO 57.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-El juez deberá tomar conocimiento directo del delincuente, del ofendido y de las circunstancias del hecho, en la medida requerida para cada caso. Al efecto tendrá en cuenta:
+###### ARTÍCULO 57.
+
+El juez deberá tomar conocimiento directo del delincuente, del ofendido y de las circunstancias del hecho, para imponer en congruencia con todo ello la sanción o sanciones que en su caso correspondan. Al efecto, tomará en cuenta:
 
 I.- La edad, el sexo, la educación, la ilustración, las costumbres y la conducta precedente del delincuente, los motivos que lo determinaron a delinquir y sus condiciones económicas y sociales;
 
 II.- Las condiciones especiales en que se encontraba en el momento de delinquir y los demás antecedentes y datos personales que hayan quedado comprobados, así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales, con el ofendido;
 
-III.- La naturaleza del acto u omisión y de los medios empleados en su desarrollo; la extensión del daño causado o del peligro corrido; la edad, sexo y complexión física de la víctima, comparativamente con la del delincuente, en su caso, así como las circunstancias de tiempo, lugar, modo y ocasión que demuestren la mayor o menor peligrosidad del delincuente;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+III.- La naturaleza del acto u omisión y de los medios empleados en su desarrollo; la extensión del daño causado o del peligro corrido; la edad, sexo y complexión física de la víctima, comparativamente con la del delincuente, en su caso, así como las circunstancias de tiempo, lugar, modo y ocasión de la comisión del delito;
 
 IV.- Para la individualización de las sanciones previstas en los Títulos Séptimo y Octavo, del Libro Segundo de este Código, el juzgador tomará en cuenta: si el servidor público es trabajador de base o funcionario o empleado de confianza; su antigüedad en el empleo; sus antecedentes de servicio; sus percepciones; su grado de instrucción; la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito;
 
@@ -663,9 +699,11 @@ Cuando en el supuesto señalado en el párrafo anterior se cause la muerte de un
 
 ARTICULO 65 BIS.- Cuando el delito culposo sea cometido, durante el desarrollo de su oficio o empleo, por el conductor de un transporte de servicio público, privado o escolar, encontrándose en estado de embriaguez o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra substancia que afecte las facultades psicomotrices, la sanción será de uno a nueve años de prisión, de veinte a doscientos cincuenta días multa y suspensión hasta por diez años o privación definitiva de la licencia para manejar o del derecho para ejercer profesión u oficio en la materia. En caso de que se cause la muerte o infrinja lesiones que pongan en peligro la vida de una o más personas, la sanción privativa de la libertad será de tres a nueve años.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 66.
 
-La calificación de la gravedad de la culpa, queda al prudente arbitrio del juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 57 y las especiales siguientes:
+La determinación del grado de reprochabilidad en los delitos culposos, atenderá a las circunstancias generales señaladas en el artículo 57 y a la gravedad de la culpa, cuya calificación queda al prudente arbitrio del juez, quien para tal efecto deberá tomar en consideración las circunstancias especiales siguientes:
 
 I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
 
@@ -705,9 +743,11 @@ APLICACION DE SANCIONES A LOS DELITOS POR EXCESO EN LA LEGITIMA DEFENSA, ESTADO 
 
 Al que se exceda en los límites impuestos por la legítima defensa, estado de necesidad, cumplimiento de un deber legal, ejercicio de un derecho u obediencia jerárquica legítima, debido a un proceso emocional explicable a juicio del juez, al empleo de medios no necesarios racionalmente o que no sean los más practicables o menos perjudiciales, se le impondrán de tres días a cinco años de prisión y de diez a ciento cincuenta días multa.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 69.
 
-Al responsable de tentativa se le aplicarán las sanciones señaladas para el delito doloso consumado que corresponda, disminuyéndose éstas en una tercera parte en sus términos mínimo y máximo, tomando en cuenta, además de lo previsto en el artículo 57, el mayor o menor grado de aproximación al momento consumativo del delito.
+Al responsable de tentativa se le aplicarán las sanciones señaladas para el delito doloso consumado que corresponda, disminuyéndose éstas en dos terceras partes en su término mínimo y en una tercera parte en su término máximo, tomando en cuenta, además de lo previsto en el artículo 57, el mayor o menor grado de aproximación a la consumación del delito.
 
 ### CAPITULO IV. APLICACION DE SANCIONES EN CASOS DE CONCURSO, DELITO CONTINUADO Y REINCIDENCIA
 
@@ -723,9 +763,15 @@ Tratándose de concurso ideal, si el delito fue dolosamente ejecutado para viola
 
 En caso de delito continuado, se aumentará la pena hasta en una mitad más de la establecida como máximo para el delito cometido, para cuyos efectos el juzgador tomará en cuenta el daño causado y el número de actos ejecutivos realizados, independientemente de las prevenciones establecidas en los artículos 56 y 57 de este Código.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En caso de violación o su equiparable que se cometan en forma continuada, se aumentará la pena hasta en un tanto más de la establecida como máximo para el delito cometido.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 72.
 
-Al reincidente se le aplicará la sanción que deba imponérsele por el último delito cometido y, tratándose de la pena de prisión, se aumentará ésta, según la peligrosidad del delincuente, desde un tercio hasta la mitad de su duración y si la reincidencia fuera por delitos de la misma especie, el aumento será desde dos tercios hasta otro tanto de la duración de la pena, sin que pueda exceder de cincuenta años.
+Al reincidente se le aplicará la sanción que deba imponérsele por el último delito cometido y tratándose de la pena de prisión, se aumentará ésta, según el grado de reprochabilidad que le corresponda, de tres días hasta la mitad de su duración; si la reincidencia fuera por delitos de la misma especie, el aumento será de tres días hasta otro tanto de la duración de la pena, sin que pueda exceder de cincuenta años.
 
 Sin perjuicio de lo anterior, en aquellos delitos que tengan señalada sanción alternativa, en todo caso se aplicará al reincidente la pena privativa de libertad.
 
@@ -733,9 +779,11 @@ Tratándose de delitos que tengan señalado trabajo en favor de la comunidad com
 
 ### CAPITULO V. APLICACION DE SANCIONES POR LOS DELITOS PRETERINTENCIONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 73.
 
-Al responsable de delito preterintencional se le aplicarán, las sanciones señaladas para el delito doloso consumado que corresponda, disminuyéndose éstas en una mitad, en sus términos mínimo y máximo.
+Al responsable de delito preterintencional se le aplicarán las sanciones señaladas para el delito doloso consumado que corresponda, disminuyéndose éstas en dos terceras partes de su término mínimo y en una mitad de su máximo.
 
 Siempre que al delito doloso corresponda sanción alternativa o trabajo en favor de la comunidad como sanción autónoma, aprovechará esa situación al delincuente por preterintención.
 
@@ -841,9 +889,13 @@ Corresponde al Ejecutivo del Estado la ejecución de las sanciones, con consulta
 
 El juez o tribunal, de oficio o a petición de parte, únicamente al tiempo de pronunciarse sentencia definitiva, y siempre que no se haya otorgado algún sustitutivo de prisión, podrá suspender, motivadamente, la ejecución de las sanciones impuestas, debiéndose sujetar a lo siguiente:
 
-I.- La suspensión podrá concederse para aquellas sanciones privativas de libertad que no excedan de dos años, si concurren las siguientes condiciones:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-a) Que sea la primera vez que delinque el reo;
+I.- La suspensión podrá concederse para aquellas sanciones privativas de libertad que no excedan de tres años, si concurren las siguientes condiciones:
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+a).- Que sea la primera vez que delinque el reo y que no haya utilizado armas o explosivos en la comisión delictiva que se le atribuye;
 
 b) Que haya observado buena conducta, antes y después del hecho punible;
 
@@ -895,7 +947,9 @@ La amnistía extingue la acción penal y las sanciones impuestas, excepto la rep
 
 El perdón o el consentimiento del ofendido extinguen la acción penal cuando concurran estos requisitos:
 
-I.- Que el delito sólo pueda perseguirse a petición de parte ofendida, con excepción de los casos señalados en este artículo para el encubrimiento;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+I.- Que el delito sólo pueda perseguirse a petición de parte ofendida y en los casos señalados en este Código;
 
 II.- Que se conceda ante el Ministerio Público si éste no ha ejercitado la acción penal, o se otorgue ante el órgano jurisdiccional antes de pronunciarse sentencia en segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse; y
 
@@ -951,6 +1005,8 @@ La rehabilitación tiene por objeto reintegrar al sancionado al goce de los dere
 
 ### CAPITULO VIII. PRESCRIPCION DE LAS ACCIONES PENALES
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 98.
 
 Por la prescripción se extinguen, la acción penal, las sanciones, el antecedente penal y las medidas de seguridad.
@@ -967,7 +1023,7 @@ El plazo para la prescripción se aumentará en un (sic) mitad más, si el indic
 
 ###### ARTICULO 100.
 
-La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Dicho plazo nunca será menor de tres años, ni mayor de quince.
+La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
 ###### ARTICULO 101.
 
@@ -977,11 +1033,9 @@ La acción penal prescribirá en un año, si el delito sólo mereciere multa o t
 
 Si el delito solo mereciere destitución, suspensión, privación de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 103.
 
-La acción penal que nazca de un delito de querella, sea instantáneo, permanente o continuado, prescribirá en tres años.
+(DEROGADO, B.O. 20 DE OCTUBRE DE 2005)
 
 ###### ARTICULO 104.
 
@@ -1021,7 +1075,9 @@ V.- Con las actuaciones realizadas por la autoridad que requiere la entrega del 
 
 Si se deja de actuar, la prescripción comenzará a correr de nuevo al día siguiente de la última diligencia, aún cuando no se haya declarado formalmente suspendido el procedimiento.
 
-La interrupción de la prescripción de la acción penal sólo podrá ampliar hasta una mitad los plazos señalados en los artículos 100, 102 y 103 de este Código.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+La interrupción de la prescripción de la acción penal sólo podrá ampliar hasta una mitad los plazos señalados en los artículos 100 y 102 de este Código.
 
 Las hipótesis contenidas en las fracciones I, II y V de este artículo, no interrumpirán la prescripción cuando las diligencias se practiquen después de que haya transcurrido la mitad del tiempo de la prescripción. Entonces ésta continuará corriendo y no podrá interrumpirse sino con la aprehensión del inculpado.
 
@@ -1461,6 +1517,10 @@ Cuando las partes interesadas en un negocio civil, de común acuerdo, quebranten
 
 Al que hiciere violencia en contra de un funcionario público o agente de la autoridad, sin causa legítima, en el acto de ejercer sus funciones o con motivo de ellas, se le impondrán prisión de tres días a tres años y de diez a ciento cincuenta días multa, independientemente de la sanción que le corresponda si cometiere otro delito.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Las penas referidas en el párrafo anterior se duplicarán cuando al hacer violencia sea utilizada, de cualquier forma, arma de fuego, explosivo o cualquiera de las armas prohibidas previstas en el artículo 140 de este Código; y se triplicarán cuando además, se utilicen contra servidores públicos pertenecientes a alguna corporación policial durante el ejercicio de sus funciones.
+
 ###### ARTICULO 165.
 
 Los ultrajes hechos a la legislatura, a un tribunal, a un cuerpo colegiado de la administración de justicia o a cualquier institución pública, se sancionarán con prisión de uno a seis meses o de cuarenta a doscientos días multa.
@@ -1631,7 +1691,9 @@ La sanción correspondiente a este caso será independiente de la inhabilitació
 
 Comete el delito de tortura el servidor público que, directamente o valiéndose de terceros y en ejercicio de sus funciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener de ella o de un tercero su confesión, una información, un comportamiento determinado o con el propósito de castigarla por un hecho cierto o supuesto.
 
-Al responsable del delito de tortura se le impondrán de dos a diez años de prisión, de veinte a trescientos días multa y destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el término de dos a diez años, independientemente de la pena que corresponda si resultare otro delito. En caso de reincidencia la inhabilitación será definitiva.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Al responsable del delito de tortura se le impondrán de tres a diez años de prisión, de veinte a trescientos días multa y destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el término de dos a diez años, independientemente de la pena que corresponda si resultare otro delito. En caso de reincidencia la inhabilitación será definitiva.
 
 La misma sanción del párrafo anterior, se impondrá a cualquier persona que participe por sí o por orden o autorización de algún servidor público, en la comisión del delito de tortura.
 
@@ -1869,7 +1931,7 @@ Igualmente serán responsables en la forma que previene el artículo 194, todos 
 
 Quienes ejerzan la medicina y sin causa debidamente justificada se nieguen a prestar sus servicios a un enfermo en caso de notoria urgencia, poniendo en peligro la vida de dicho enfermo, por exigir que se les pague anticipadamente su trabajo, se les aplicará de diez a trescientas jornadas de trabajo en favor de la comunidad. Si se produjere daño por la falta de intervención, se les impondrán prisión de un mes a cinco años e inhabilitación para el ejercicio profesional por el mismo plazo.
 
-### CAPITULO I. HOSTIGAMIENTO SEXUAL
+### CAPITULO I. HOSTIGAMIENTO SEXUAL Y ABUSOS DESHONESTOS
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1881,7 +1943,7 @@ Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o 
 
 Este delito se perseguirá sólo a petición de parte ofendida.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 198.
 
@@ -1929,15 +1991,25 @@ IV.- Al que procurándose los verdaderos sellos, contraseñas o marcas, haga uso
 
 V.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla este artículo.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-ARTICULO 200 BIS.- Se impondrán de dos a ocho años de prisión y de cuarenta a mil días multa, al que sin consentimiento de quien esté facultado para ello:
+###### ARTÍCULO 200 Bis.
+
+Se impondrán de tres a ocho años de prisión y de cuarenta a mil días multa, al que sin consentimiento de quien esté facultado para ello:
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 I.- Fabrique, produzca, imprima, comercie, suministre, aun gratuitamente, tarjetas, esqueletos de cheques o documentos que se utilicen para el pago de bienes y servicios o disposición de efectivo.
 
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 II.- Proporcione información confidencial o reservada que, de alguna manera, permita que se puedan llevar a cabo las acciones mencionadas en la fracción anterior o permita su utilización para el pago de bienes y servicios o disposición de efectivo.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 Si el sujeto activo es empleado del ofendido, la pena se aumentará en una mitad más de la señalada.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
@@ -2031,6 +2103,8 @@ Cuando el traductor, perito o testigo se retracte espontáneamente de sus falsas
 
 ### CAPITULO V. INCESTO
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 207.
 
 Se aplicará de treinta a ciento ochenta jornadas de trabajo en favor de la comunidad:
@@ -2083,13 +2157,13 @@ TITULO DECIMOSEGUNDO
 
 DELITOS SEXUALES
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 213.
 
-Al que sin consentimiento de una persona púber o impúber o con el consentimiento de esa última, ejecute en ella o la haga ejecutar un acto erótico sin el propósito de llegar a la cópula, se le impondrá pena de seis meses a cinco años de prisión.
+Al que sin consentimiento de una persona púber o impúber, o con el consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, se le aplicará pena de seis meses a cinco años de prisión.
 
 > <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
 
@@ -2167,7 +2241,9 @@ la pena será de ocho a veinte años de prisión, cuando en el delito de violaci
 
 I.- La víctima sea impúber;
 
-II.- El responsable fuere ascendiente, descendiente, adoptante, adoptado, hermano, hermana, padrastro, madrastra o tutor del ofendido;
+> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+II.- El responsable fuere ascendiente, descendiente, adoptante, adoptado, hermano, hermana, tutor, padrastro o madrastra o se conduzca como tal;
 
 III.- Intervengan dos o más personas, en forma directa o indirecta;
 
@@ -2213,7 +2289,7 @@ Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se proce
 
 ###### ARTICULO 226.
 
-Se impondrá de dos a ocho años de prisión a los ascendientes que tengan cópula con sus descendientes. La sanción aplicable a estos últimos será de uno a cuatro años de prisión; esta misma pena se aplicará en caso de incesto entre hermanos.
+Se impondrá de tres a ocho años de prisión a los ascendientes que tengan cópula con sus descendientes. La sanción aplicable a estos últimos será de uno a cuatro años de prisión; esta misma pena se aplicará en caso de incesto entre hermanos.
 
 TITULO DECIMOTERCERO
 
@@ -2391,6 +2467,8 @@ DELITOS CONTRA LA VIDA Y LA SALUD
 
 ### CAPITULO II. EXTORSION
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
@@ -2413,7 +2491,9 @@ II.- De tres días a cinco años de prisión y de diez a doscientos días multa,
 
 Cuando las lesiones a que se refiere el presente artículo dejen cicatrices notables o permanentes en el lesionado o produzcan la pérdida definitiva o la disminución de cualquier función orgánica o la incapacidad permanente, ya sea total o parcial, de algún órgano, miembro o facultad, la sanción será de un mes a nueve años de prisión y de diez a doscientos cincuenta días multa.
 
-En el supuesto señalado en la fracción I de este artículo, el delito sólo se perseguirá a petición de parte ofendida.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En el supuesto señalado en la fracción I de este artículo, el delito sólo se perseguirá a petición de parte ofendida. En el supuesto señalado en el primer párrafo de la fracción II, pese a que se trata de un delito perseguible de oficio, la acción penal se extinguirá cuando exista manifestación expresa de desinterés jurídico por parte del ofendido.
 
 ###### ARTICULO 244.
 
@@ -2457,7 +2537,21 @@ Cuando el contagio llegare a consumarse, el responsable será sancionado en los 
 
 ### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 301 B.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor de doce años o de un incapaz, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de tres a nueve años y de doscientos a quinientos días multa.
+
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+La misma pena a que se refiere el párrafo anterior se aplicará al tercero que reciba al menor o incapaz.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Se aplicará una mitad más de la pena señalada en el párrafo primero, a quien ejerciendo la patria potestad o la custodia de un menor o incapaz, injustificadamente otorgue su consentimiento para su ilegítima entrega o cuando lo entregue directamente para su custodia definitiva a cambio de un beneficio económico.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Cuando el consentimiento, la entrega y recepción del menor o incapaz, se haga con el propósito de incorporarlo a un núcleo familiar y otorgarle los beneficios propios de esa incorporación, las penas a que se refiere éste artículo se reducirán una mitad en su término mínimo y máximo.
 
 ###### ARTICULO 252.
 
@@ -2503,6 +2597,10 @@ Cuando el homicidio sea cometido a propósito de una violación, allanamiento de
 
 Al autor de homicidio calificado con premeditación, alevosía o traición, o al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, o a su adoptante o adoptado, con conocimiento de esa relación, se le impondrá la misma pena señalada en el párrafo anterior.
 
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+No se considerará calificado el homicidio cometido por la madre que prive de la vida a su infante dentro de las setenta y dos horas inmediatamente posteriores al parto, cuando dicha privación de la vida sea consecuencia de una crisis emocional de naturaleza grave.
+
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 Al responsable de cualquier otro homicidio calificado se impondrá de veinte a cincuenta años de prisión.
@@ -2521,9 +2619,11 @@ Se considerarán también calificados los delitos dolosos de lesiones y homicidi
 
 Hay premeditación cuando se causa una lesión o la muerte después de haber reflexionado sobre el delito que se va a cometer.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 261.
 
-La alevosía consiste en sorprender intencionalmente a alguien de improviso, o empleando asechanza u otro medio que no le dé lugar a defenderse, ni a evitar el mal que se le quiere hacer.
+La alevosía consiste en sorprender intencionalmente a alguien de improviso o empleando asechanza; igualmente se actúa con alevosía cuando se emplee otro medio que no de lugar a defenderse, ni a evitar el mal que se quiere hacer.
 
 ###### ARTICULO 262.
 
@@ -2559,9 +2659,11 @@ Comete el delito de aborto quien causa la muerte del producto de la concepción,
 
 A la mujer que procure su aborto y a la persona que la hiciere abortar con el consentimiento de ella, se le aplicarán de uno a seis años de prisión y de veinte a doscientos días multa.
 
-###### ARTICULO 267.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-Al que haga abortar a una mujer sin el consentimiento de ésta, se le aplicarán prisión de dos a diez años y de veinte a trescientos cincuenta días multa. Si se empleare la violencia física o moral, las sanciones serán de cuatro a doce años de prisión y de cincuenta a trescientos días multa.
+###### ARTÍCULO 267.
+
+Al que cometa el delito de aborto sin consentimiento de la mujer embarazada, se le aplicará prisión de tres a diez años y de veinte a trescientos cincuenta días multa. Si se empleare la violencia física o moral, las sanciones serán de cuatro a doce años de prisión y de cincuenta a trescientos cincuenta días multa.
 
 ###### ARTICULO 268.
 
@@ -2761,9 +2863,9 @@ Comete el delito de chantaje, el que con ánimo de lucro u otro provecho, bajo l
 
 Al responsable del delito de chantaje se le impondrán de seis meses a diez años de prisión y de diez a trescientos días multa.
 
-###### ARTICULO 293.
+###### ARTÍCULO 293.
 
-Comete el delito de extorsión y se le aplicarán de dos a diez años de prisión y de veinte a trescientos días multa, al que sin derecho, y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para sí o para otro, o de causar a alguien un perjuicio patrimonial.
+Comete el delito de extorsión y se le aplicarán de tres a diez años de prisión y de veinte a trescientos días multa, al que sin derecho, y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para sí o para otro, o de causar a alguien un perjuicio patrimonial.
 
 Las penas se aumentarán en una mitad más, si el constreñimiento se realiza por un miembro de una asociación delictuosa o por persona que sea o haya sido servidor público de alguna corporación policial, o por persona que, sin estar autorizada para ello, ejerza o haya ejercido funciones de éstas, imponiéndose, además, destitución e inhabilitación, en su caso, de dos a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -2871,7 +2973,9 @@ Cuando el secuestrado muera dentro de los siguientes sesenta días después de h
 
 Si el agente, espontáneamente, libera al secuestrado, dentro de las setenta y dos horas siguientes a la privación de su libertad, sin lograr alguno de los propósitos del delito y sin que se haya actualizado alguno de los supuestos previstos por los artículos 297, 297 BIS y 297-A, y siempre que no lo haga por causas ajenas a su voluntad, la pena será de uno a seis años de prisión y de veinte a doscientos días multa.
 
-Si en términos de la hipótesis a que se refiere el párrafo anterior se deja libre a la víctima, después de las setenta y dos horas de haber sido privada de su libertad y siempre que no exceda de diez días, se impondrá al agente la pena de dos a doce años de prisión y de treinta a trescientos días multa.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+Si en términos de la hipótesis a que se refiere el párrafo anterior se deja libre a la víctima, después de setenta y dos horas de haber sido privada de su libertad y siempre que no exceda de diez días, se impondrá al agente de tres a doce años de prisión y de treinta a trescientos días multa.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -2893,15 +2997,25 @@ IV.- Al que sin consentimiento del que pueda resultar perjudicado y sin justa ca
 
 V.- Al que proporcione cualquier medio para facilitar la permanencia en cautiverio del secuestrado.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-ARTICULO 298 BIS.- Se impondrá de dos a ocho años de prisión a quien, en relación con los delitos previstos en este Capítulo y fuera de las causas excluyentes de responsabilidad previstas por este Código:
+###### ARTÍCULO 298 Bis.
+
+Se impondrá de tres a ocho años de prisión a quien, en relación con los delitos previstos en este Capítulo y fuera de los casos de exclusión del delito previstos (sic) en este Código:
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 I.- Actúe como intermediario en las negociaciones del rescate, sin la aprobación de quienes representan o gestionan a favor de la víctima;
 
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información; o
 
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 III.- Intimide a la víctima, a sus familiares, a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 Igual penalidad se aplicará al negociador de un secuestro que actúe a petición de quienes representan o gestionan a favor del ofendido o víctima, haciéndolo mediante el pago o cualquier otro interés, cuando se abstenga o evite informar o colaborar inmediatamente con las autoridades competentes.
 
@@ -3003,9 +3117,11 @@ II.- La enajenación o adquisición de uno o más vehículos de propulsión mec�
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-###### ARTICULO 305.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-El delito de robo previsto en el artículo 302, se sancionará con prisión de un mes a nueve años.
+###### ARTÍCULO 305.
+
+El delito de robo previsto en el artículo 302, se sancionará con prisión de un mes a nueve años. En los supuestos señalados en los artículos 302 y 303, pese a que se trata de delitos perseguibles de oficio, la acción penal se extinguirá cuando exista manifestación expresa de desinterés jurídico por parte del ofendido en la prosecución de la causa, siempre y cuando el monto del objeto materia del robo o su equiparable no exceda de 400 veces el salario mínimo diario general vigente en la capital del Estado al momento de cometerse el delito.
 
 ###### ARTICULO 306.
 
@@ -3014,6 +3130,16 @@ En todos los casos previstos en este Capítulo, si el juez lo creyere justo, pod
 ###### ARTICULO 307.
 
 Cuando los delitos previstos en este Capítulo se cometan entre ascendientes y descendientes, adoptante y adoptado, cónyuges, concubinos, hermanos o parientes consanguíneos en línea colateral hasta el tercer grado, así como por los suegros contra su yerno o nuera, por éstos contra aquéllos, por un padrastro contra su hijastro o viceversa, sólo se perseguirá cuando lo pida el ofendido, excepto cuando se actualice el supuesto señalado en la fracción I del artículo 308.
+
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En el caso previsto en la última parte del párrafo anterior, cuando la violencia en las personas sólo haya producido lesiones que tardan en sanar menos de quince días, o sólo se trate de violencia en las cosas, o en ambos casos, siempre que no se hubiere utilizado arma de fuego ni explosivo, la acción penal podrá extinguirse cuando exista manifestación expresa de desinterés jurídico por parte del ofendido en la prosecución de la causa.
+
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 307 BIS.- Se impondrá de un mes a seis años de prisión, al que se apodere de una cosa ajena mueble, sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley, cuando se acredite que la tomó para usarla temporalmente y no para apropiársela, ni enajenarla, ni destruirla, ni modificarla, ni para cometer diverso hecho ilícito, y en caso de que se le hubiese requerido a devolverla, no se niegue a ello.
+
+Cuando en la ejecución del delito previsto en el párrafo anterior se actualice una o mas de las hipótesis contenidas en las fracciones I, IV, VII, VIII, IX y X del artículo 308, la pena aplicable será la establecida en dicho precepto y en su caso en el artículo 309 de este Código.
 
 ###### ARTICULO 308.
 
@@ -3039,7 +3165,9 @@ IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o
 
 X.- Respecto de vehículos de propulsión mecánica.
 
-En los supuestos de las fracciones V y VI y tratándose de frutos por cosechar o cosechados que se encuentren en el asiento de producción, precisados en la fracción IX, se impondrá la sanción establecida en el artículo 305, cuando el monto del objeto materia del apoderamiento no exceda de ciento ochenta veces el salario mínimo diario general vigente en la capital del Estado, al momento de cometerse el delito.
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+En el supuesto de la fracción I, cuando sólo se haya utilizado violencia en las cosas sin que el agente haya portado arma de fuego o explosivo, así como en los supuestos de las fracciones V y VI, y tratándose de frutos por cosechar o cosechados que se encuentren en el asiento de producción, precisados en la fracción IX, se impondrá la sanción establecida en el artículo 305 y podrá extinguirse la acción penal mediante la manifestación por parte del ofendido de su desinterés jurídico en relación con la prosecución de la causa, siempre y cuando el monto del objeto materia del apoderamiento no exceda de doscientas veces el salario mínimo diario general vigente en la capital del Estado, al momento de cometerse el delito.
 
 Cuando el objeto materia del apoderamiento lo constituya partes de vehículos de propulsión mecánica, cuyo valor exceda de trescientas veces el salario mínimo diario general vigente en la Capital del Estado, al momento de cometerse el delito, la sanción será la prevista en el primer párrafo de este artículo.
 
@@ -3095,9 +3223,11 @@ III. Cuando en el supuesto señalado en la fracción IV del artículo 308 el lug
 
 No se sancionará al que se apodere, sin violencia, de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento, siempre que justifique que no le es imputable su estado de necesidad.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 311.
 
-Tampoco se sancionará al que restituya espontáneamente los objetos del robo, antes de que, el Agente del Ministerio Público o la Policía Judicial reciba la denuncia del caso, siempre que no se haya empleado la violencia, se reparen los daños y perjuicios causados, y el valor de lo robado no exceda de cincuenta veces el salario mínimo general vigente en la capital del Estado, en la fecha en que se cometió el delito.
+Tampoco se sancionará al que restituya espontáneamente los objetos del robo, antes de que el agente del Ministerio Público o la Policía Judicial reciba la denuncia del caso, siempre que no se haya empleado violencia en las personas ni se hubiere portado arma o explosivo en la ejecución del delito, se reparen los daños y perjuicios causados y el valor de lo robado no exceda de doscientas veces el salario mínimo general vigente en la capital del Estado, en la fecha en que se cometió el delito.
 
 ###### ARTICULO 312.
 
@@ -3464,3 +3594,13 @@ B.O. 7 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE OCTUBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el artículo 87 del Código Penal reformado mediante el presente Decreto, que regula la suspensión condicional de las sanciones, podrá ser aplicado retroactivamente a favor de los sentenciados que se encuentren compurgando condenas que no excedan de tres años de prisión y reúnan los requisitos previstos en los incisos a) a f) de la fracción I de dicho precepto, para lo cual presentarán su petición vía incidental ante el juez que hubiere conocido del proceso.
