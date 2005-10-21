@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2004-12-31"
+last_updated: "2005-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2005.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -697,7 +697,11 @@ XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de J
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXIII. Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
+XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2005)</small>
+
+XXIII bis.- Elegir o reelegir a los magistrados del Tribunal de lo Contencioso Administrativo del Estado y, aprobar o desaprobar las solicitudes de licencia y renuncias de los mismos;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -747,11 +751,19 @@ XXXIV.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y,
+XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y, (sic)
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DEL 2005)</small>
 
-XXXVI.- Las demás que le confiera expresamente esta Constitución.
+XXXVI.- Ratificar el nombramiento del Procurador General de Justicia que haga el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DEL 2005)</small>
+
+XXXVII.- Solicitar al Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, la remoción del Procurador General de Justicia; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DEL 2005)</small>
+
+XXXVIII.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -963,9 +975,13 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
-XVI.- (DEROGADA, P.O. 7 DE MARZO DE 2003)
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DEL 2005)</small>
 
-XVII.- (DEROGADA, P.O. 7 DE MARZO DE 2003)
+XVI.- Nombrar, con ratificación del Congreso, al Procurador General de Justicia;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DEL 2005)</small>
+
+XVII.- Remover libremente al Procurador General de Justicia, o a solicitud del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1189,7 +1205,7 @@ Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestar�
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
-Presidente: "¿ Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
+Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1403,7 +1419,7 @@ Toda persona está en libertad para terminar sus diferencias con otra, ya sea po
 
 ## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
@@ -1425,7 +1441,7 @@ Las penas privativas de la libertad no podrán en ningún caso exceder de cuaren
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2005)</small>
 
 #### SECCION V. De la Administración de Justicia en General
 
@@ -1433,9 +1449,11 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 ###### Artículo 96.
 
-Las leyes estatales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+La administración de la justicia recaerá en el Tribunal de lo Contencioso Administrativo del Estado, que estará dotado de plena autonomía para dictar sus fallos, y tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares.
 
-Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes estatales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
+El Tribunal de lo Contencioso Administrativo del Estado se organizará en los términos que señale la ley de la materia, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+
+Para ser electo Magistrado del Tribunal de lo Contencioso Administrativo del Estado, se deberán satisfacer los requisitos que señale la ley de la materia. Serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Titular del Poder Ejecutivo, el que deberá turnar al Congreso una lista que contenga el triple de magistrados a elegir, tomada del padrón turnado por el Tribunal de lo Contencioso Administrativo del Estado. Durarán cuatro años en el ejercicio de su encargo y podrán ser reelectos por dos periodos más.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DE 1993)</small>
 
@@ -1456,6 +1474,18 @@ El Ministerio Público es la Institución encargada de velar por la exacta obser
 ###### Artículo 98.
 
 Ejercen esta Institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
+
+En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
+
+La Ley Orgánica de la institución fijará el número, adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
+
+El Procurador General de Justicia, deberá rendir al Congreso del Estado, un informe anual respecto de las acciones y resultados de la institución a su cargo.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1481,13 +1511,13 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
 
 ###### Artículo 100.
 
-En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
+El Congreso del Estado ratificará el nombramiento del Procurador General de Justicia, que haga el Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, en los días quince días naturales siguientes a su recepción. La falta de resolución causa la ratificación tácita del nombramiento, por lo que éste surtirá todos sus efectos constitucionales.
 
-La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
+Cuando el Congreso del Estado rechace el nombramiento, el Titular del Ejecutivo dispondrá de cinco días naturales para enviar uno nuevo. Si éste fuera rechazado, formulará un tercero. Desechado este último, dentro de las setenta y dos horas siguientes, el Congreso ratificará a quien cumpliendo con los requisitos constitucionales, obtenga el mayor número de votos mediante cédula, de entre los presentados por el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1589,7 +1619,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ###### Artículo 104.
 
-Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, a los funcionarios del Tribunal Electoral del Estado, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de lo Contencioso Administrativo del Estado, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, de la Comisión Estatal de Acceso a la Información Pública, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1599,11 +1629,11 @@ El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acus
 
 Se concede acción popular, para denunciar ante el Congreso del Estado, los delitos comunes cometidos por los servidores públicos, sin obligación de constituirse en parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DEL 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 105.
 
-Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal Electoral del Estado y por el Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -1635,11 +1665,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadanos (sic), bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los magistrados del Supremo Tribunal de Justicia, los jueces de primera instancia y jueces municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, el consejero presidente y los consejeros electorales del Instituto Electoral de Michoacán, los magistrados del Tribunal Electoral del Estado, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
+Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los magistrados del Supremo Tribunal de Justicia, los jueces de primera instancia y jueces municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, el consejero presidente y los consejeros electorales del Instituto Electoral de Michoacán, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1653,11 +1683,11 @@ El procedimiento de juicio político, sólo podrá iniciarse durante el período
 
 Las resoluciones del Gran Jurado, son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 109.
 
-Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal Electoral del Estado y Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1675,15 +1705,15 @@ No se requerirá declaración de procedencia de la Cámara de Diputados contra a
 
 Si el servidor público ha vuelto a desempeñar en sus funciones propias o ha sido nombrado electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 109, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-La Ley sobre Responsabilidades de los Servidores Públicos determinará sus obligaciones, a fin de salvaguardar la legalidad, honradez,, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con la daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107 pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+La Ley sobre Responsabilidades de los Servidores Públicos determinará sus obligaciones, a fin de salvaguardar la legalidad, honradez, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con la daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107 pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 109.
 
 La Ley de Responsabilidades señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia d los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2005)</small>
 
-El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados propietarios del Supremo Tribunal de Justicia y los Magistrados propietarios del Tribunal Electoral del Estado desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Supremo Tribunal de Justicia, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Oficial Mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
+El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados propietarios del Supremo Tribunal de Justicia, los Magistrados propietarios del Tribunal Electoral del Estado y los Magistrados del Tribunal Contencioso Administrativo del Estado, desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Supremo Tribunal de Justicia, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Oficial Mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2143,7 +2173,7 @@ b).- Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a l
 
 c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia la conbicción (sic) del interés general de la sociedad cuando por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atendera todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo del Estado, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo del Estado, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
@@ -2177,7 +2207,7 @@ La ley determinará las profesiones que requieran título, la forma de su regist
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
+## TITULO NOVENO. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2261,7 +2291,7 @@ Todas las leyes relativas a previsión social se considerarán de orden público
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO NOVENO. Disposiciones Generales
+## TITULO DECIMO. De las Reformas a la Constitución
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2359,7 +2389,7 @@ Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los indivi
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO DECIMO. De las Reformas a la Constitución
+## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2389,13 +2419,13 @@ Si transcurre un mes después de recibido el decreto por los Ayuntamientos, sin 
 
 V.- Las adiciones o reformas que fueren aprobadas, se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
 ###### Artículo 165.
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando, por alguna rebelión o estado grave de emergencia, se interrumpa su observancia.
 
 Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ## Artículos Transitorios.
 
@@ -2587,7 +2617,7 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
 
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
@@ -2822,6 +2852,28 @@ P.O. 31 DE DICIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo.- Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+
+P.O. 21 DE OCTUBRE DE 2005.
+
+DECRETO No. 489
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Titular del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
+
+Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+
+P.O. 21 DE OCTUBRE DE 2005.
+
+DECRETO No. 12
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Remítase a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Artículo Tercero. Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+Artículo Cuarto. El Gobernador del Estado nombrará al Procurador General de Justicia y enviará el nombramiento, al Congreso del Estado para su ratificación, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO OCTAVO.
 
