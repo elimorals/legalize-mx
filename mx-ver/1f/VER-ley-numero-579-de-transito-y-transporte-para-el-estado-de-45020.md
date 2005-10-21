@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-579-de-transito-y-transporte-para-el-estado-de-45020
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-08"
-last_updated: "2005-10-17"
+last_updated: "2005-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 8 de agosto de 2003.
 
@@ -67,9 +67,13 @@ IV. Ley: La Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio 
 
 V. Reglamento: El Reglamento de la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave;
 
-VI. Secretaría: La Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2005)</small>
 
-VII. Secretario: El titular de la Secretaría de Seguridad Pública del Estado;
+VI. Secretaría: La Secretaría de Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2005)</small>
+
+VII. Secretario: El titular de la Secretaría de Gobierno del Estado;
 
 VIII. Servicio de transporte particular: El que se utiliza para el traslado de personas, animales o cosas, sin retribución alguna y en vehículos de su propiedad adecuados al fin de que se trate, en los términos que establece el Capítulo XIV de esta Ley;
 
@@ -99,7 +103,9 @@ Son autoridades estatales en materia de tránsito y transporte:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2005)</small>
+
+II. El Secretario de Gobierno;
 
 III. El Secretario de Finanzas y Planeación;
 
@@ -1490,3 +1496,9 @@ G.O. 17 DE OCTUBRE DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE OCTUBRE DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
