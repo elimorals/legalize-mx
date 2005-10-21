@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2005-07-01"
+last_updated: "2005-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -447,17 +447,19 @@ XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
 
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2005)</small>
+
+XXXVIII. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y transporte.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
 De la Secretaría de Seguridad Pública
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, tránsito, transporte, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, protección civil y auxilio en caso de desastre, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -1742,5 +1744,13 @@ G.O. 1 DE JULIO DE 2005.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 247 QUE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 21 DE OCTUBRE DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 286 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ Y DE LA LEY (SIC) TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
